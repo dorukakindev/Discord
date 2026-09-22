@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Gehenna — Kadim Boşluk, Yanılsama'nın Ötesindeki Karanlık
 
 Yanılsama'nın ve bilinen diyarların ötesinde uzanan kadim ve karanlık boşluk; gerçekliğin dokusunun çözüldüğü, en eski ve en yabancı dehşetlerin gizlendiği uçsuz bucaksız âlem.
 
 - **Tür:** Ara Diyar
-- **ruler:** -
+- **Ruler:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Gehenna, Kult kozmolojisinin en uzak ve en karanlık köşelerinden biridir; Yanılsama'nın, Metropolis'in ve bilinen diyarların ötesinde uzanan kadim bir boşluk. Eğer Elysium bir hapishane, Metropolis onun kadim aslı ve Inferno onun karanlık yansımasıysa, Gehenna bütün bu yapıların ötesinde, gerçekliğin kendisinin çözülmeye başladığı yerdir. Orada insan mantığının, düzenin ve biçimin hiçbir geçerliliği yoktur; Gehenna, anlamın ve formun tükendiği, yabancı ve eski bir karanlıktır.
 
@@ -22,4 +26,4 @@ Gehenna, Kult'ta gerçekliğin sınırlarının ötesinde yatan mutlak yabancıl
 - İnsan mantığının ve düzeninin geçerli olmadığı bir âlem
 - Oraya ulaşmak ya da onu görmek aklı ve benliği parçalar
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

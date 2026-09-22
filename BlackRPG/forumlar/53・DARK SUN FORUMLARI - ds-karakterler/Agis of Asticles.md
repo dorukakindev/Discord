@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Agis of Asticles — Agis, Tyr Senatörü, Yol'un Ustası
 
 Tyr şehrinin soylu senatörü ve güçlü bir psionik usta; zalim Kral Kalak'a karşı düzenlenen isyana zekâsı, ilkeleri ve zihin güçleriyle katılan bilge bir devlet adamı.
 
 - **Rol:** Senatör
 - **Bağlılık:** Tyr Senatosu / Asticles Hanedanı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Agis of Asticles, Dark Sun dünyasının, yani kavrulmuş ölüm dünyası Athas'ın en bilge ve en ilkeli kahramanlarından biridir; Troy Denning'in Prism Pentad romanlarının merkezindeki figürlerden, Tyr şehrinin soylu senatörü. Athas, kızıl bir güneşin altında kavrulan, suyun ve yeşilliğin neredeyse tükendiği, büyünün toprağı emerek çoraklaştırdığı acımasız bir çöl dünyasıdır; ve bu dünyayı, ölümsüz Sihirbaz-Krallar demir bir pençeyle yönetir. Agis, bu zalim düzenin içinde doğmuş bir soyludur, ama onun ayrıcalığı, vicdanını köreltmek yerine ona bir sorumluluk duygusu vermiştir.
 
@@ -14,7 +18,7 @@ Agis'in kaderi, Tyr şehrinin kaderiyle iç içe geçer. Şehrin ölümsüz hük
 
 Agis of Asticles, Dark Sun evreninde aklın, ilkenin ve sorumluluğun gücünü temsil eder; bir soylunun, ayrıcalığını bir kalkan değil, adalet için bir araç olarak kullanabileceğini gösterir. Kavrulmuş ve umutsuz bir dünyada, Agis bir umut ışığıdır: zekâsını, psionik gücünü ve vicdanını, köleliğin ve tiranlığın zincirlerini kırmak için adamış bir devlet adamı. O, Athas'ın özgürlük mücadelesinde, kaba kuvvetin değil, bilge ve ilkeli bir zihnin de bir kahraman olabileceğinin canlı kanıtıdır.
 
-## İşler
+## Kayda Geçen İşler
 
 - Tyr'in soylu senatörü olarak Asticles Hanedanı'nı temsil etti
 - Athas'ın gizemli psionik disiplini olan 'Yol'un (the Way) usta bir uygulayıcısıydı
@@ -22,4 +26,4 @@ Agis of Asticles, Dark Sun evreninde aklın, ilkenin ve sorumluluğun gücünü 
 - Köleliğin kaldırılması ve özgür bir Tyr için çalıştı
 - Bilgeliği ve zihin güçleriyle kahramanlar grubuna yön verdi
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

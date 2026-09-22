@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Academic — Akademisyen, Yasak Bilgiye Yaklaşan Farkında
 
 Bilgi ve araştırma tutkusuyla, çoğu insanın görmediği metinlere, kayıtlara ve gizemlere ulaşan Farkında arketip; öğrendikçe gerçekliğin dokusunun çözüldüğünü fark eden bir bilgi insanı.
 
 - **Kategori:** Farkında (Aware)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Academic (Akademisyen), Kult'un Farkında (Aware) arketiplerinden biridir ve oyunun bilgiye en aç figürüdür. Bu karakter, bir üniversite hocası, araştırmacı, kütüphaneci ya da bağımsız bir bilgin olabilir; ortak noktaları, dünyayı anlama tutkularıdır. Academic, kitapların, belgelerin ve eski metinlerin arasında yaşar; sorular sorar, kaynaklar arar ve bilginin peşinden gider. Sıradan bir bilim insanı gibi başlar, ama araştırması onu çoğu insanın asla bakmayacağı yerlere götürür.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Academic, aydınlanmanın eşiğindeki bir zihni temsi
 - Akademik şüphecilik bir noktadan sonra çöker
 - Yirmi Aware arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

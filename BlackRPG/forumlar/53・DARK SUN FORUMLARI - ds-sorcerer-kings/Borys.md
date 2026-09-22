@@ -1,9 +1,17 @@
+https://static.wikia.nocookie.net/darksun/images/f/ff/Borys_of_Ebe.jpg/revision/latest?cb=20151028173243
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/f/ff/Borys_of_Ebe.jpg/revision/latest?cb=20151028173243)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Borys — Tyr Ejderhası, Athas'ın Tek Ejderhası
 
 Athas'ın yaşayan tek tam Ejderha'sı; bir zamanlar bir sihirbaz-kral olan, ama İlk Sihirbaz Rajaat'ı hapsetmek için tam ejderhalaşmaya zorlanan korkunç varlık. Şehir-devletlerinden her yıl kanlı bir Levy haracı toplar.
 
 - **Şehir:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Borys, Athas'ın gelmiş geçmiş en güçlü ve en korkunç tek varlığıdır; kıtadaki yaşayan tek tam Ejderha (the Dragon). Diğer sihirbaz-krallar, ejderhalaşma yolunda ilerleyen ve henüz tamamlanmamış yıkıcılarken, Borys bu korkunç dönüşümü tam olarak tamamlamış olan tek varlıktır. Tyr Ejderhası (the Dragon of Tyr) olarak bilinen Borys, gökyüzünü karartabilen, bütün orduları tek başına yok edebilen ve adı bile kıtanın her köşesinde dehşet salan, devasa ve dehşet verici bir canavardır.
 
@@ -13,7 +21,7 @@ Ama bu zaferin korkunç bir bedeli vardı. Tam ejderhalaşma, Borys'un zihnini v
 
 Borys, fedakarlığın ve gücün korkunç bedelinin bir simgesidir; bir zamanlar bir kral olan, ama dünyayı kurtarmak için kendi insanlığını ve aklını feda eden bir canavar. O, hem Athas'ın koruyucusu hem de en büyük belalarından biridir; çünkü Rajaat'ı hapseden güç olduğu kadar, her yıl binlerce canı tüketen bir dehşettir de. Tyr Ejderhası, Athas'ın en derin paradokslarından birini bedeninde taşır: bazen bir dünyayı kurtarmak, onu kurtaranı en korkunç canavara dönüştürebilir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Lakap: Tyr Ejderhası (the Dragon of Tyr), Athas'ın tek tam Ejderha'sı
 - Bir zamanlar Dyan adlı bir sihirbaz-kraldı
@@ -21,4 +29,4 @@ Borys, fedakarlığın ve gücün korkunç bedelinin bir simgesidir; bir zamanla
 - Hapsi koruyabilmek için her yıl şehirlerden kanlı bir Levy toplar
 - Athas'taki en güçlü ve en korkunç tek varlıktır
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Tov's Open Hand of Disaster — Tov'un Felaket Saçan Açık Eli, Yakan Lanet
 
 Bir alan içindeki tüm yaratıkları kavuran kara büyü; açık bir el hareketiyle çevreye yayılan, dost düşman ayırmayan acımasız bir yıkım dalgası.
 
 - **Tür:** Kirli Parşömen
 - **Köken:** Mörk Borg kirli parşömen kanonu
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Tov'un Felaket Saçan Açık Eli (Tov's Open Hand of Disaster), Mörk Borg'un kirli parşömenleri arasında ham yıkımın en doğrudan ifadesidir. Bu kara büyüyü okuyan maceracı, elini açar ve bir lanet salar; o anda, çevresindeki bir alan içindeki her yaratık, görünmez bir cehennem alevine teslim olur. Tov'un eli kimseyi ayırmaz, kimseye acımaz: menzilindeki düşman da, dost da, hatta belki büyücünün kendi yoldaşları da bu kavurucu dalganın altında kalır. Bu, hedefli bir mucize değil, kör bir felakettir.
 

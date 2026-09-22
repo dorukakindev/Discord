@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Sorcery (the Art of Ritual) — Büyücülük, Ritüel Sanatı
 
 Kult'ta büyü kendiliğinden değil ritüelle çalışır: büyücü, Yanılsama'nın perdesini delip kayıp tanrısallığın gücüne uzanmak için kutsanmış tapınağında saatler ya da günler süren törenler yapar.
 
 - **Tür:** Lore Disiplini
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Büyücülük (Sorcery), Kult: Divinity Lost evreninde gizli bilimlerin çatısıdır; ve Hollywood büyüsünün aksine, burada hiçbir şey bir el hareketiyle olmaz. Kult'un büyüsü, gerçek dünyanın okült geleneklerinden, özellikle Hermetizm'den ilham alır; uzun, zahmetli, tehlikeli törenlerden oluşur. Bir büyücü, parmak şıklatarak ateş yakmaz; bunun yerine günler sürebilen bir ritüele girişir, kesin sözel formülleri, maddesel bileşenleri ve bedensel jestleri eksiksiz uygular, ve neredeyse her zaman bir kurban sunar. Bu kurban, cansız bir adak da olabilir, canlı bir yaşam da. Çünkü Kult'ta büyü bedava değildir; her güç, bir bedel ister.
 
@@ -19,4 +23,4 @@ Mekanik olarak ritüel, büyücünün niyetini açıklamasıyla başlar; Anlatı
 - Sözel, maddesel ve bedensel gereklilikleri ve bir kurban sunusunu yerine getirmek
 - Initiate'ten Master'a yükselerek daha derin etkilere erişmek
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

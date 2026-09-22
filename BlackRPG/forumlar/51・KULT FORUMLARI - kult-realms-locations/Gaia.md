@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Gaia — Yeryüzü Ruhu, Yanılsama'nın Altındaki Kadim Doğa
 
 Yanılsama'nın altında uyuyan kadim ve ilkel doğa ruhu; uygarlığın, betonun ve düzenin maskesinin ardındaki vahşi, organik ve hayvansı gerçeklik. İnsanın hayvani köklerinin diyarı.
 
 - **Tür:** Ara Diyar
-- **ruler:** -
+- **Ruler:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Gaia, Kult evreninin Yanılsama'nın hemen altında uyuyan kadim ve ilkel yüzüdür; uygarlığın, betonun ve insan düzeninin maskesinin ardındaki vahşi, organik ve hayvansı gerçeklik. Elysium bize her şeyin temiz, düzenli ve uygar olduğu bir dünya sunarken, Gaia o cilanın altında kaynayan ham doğayı temsil eder; ormanların, kanın, içgüdünün ve yaşamın çiğ döngüsünün diyarıdır. İnsan kendini şehirlerin ve yasaların efendisi sansa da, derinlerde hâlâ bu kadim doğanın bir parçasıdır.
 
@@ -22,4 +26,4 @@ Gaia, Kult'ta uygarlığın yüzeysel ve kırılgan olduğunu temsil eder; ne ka
 - Yabani, kanlı ve içgüdüsel bir âlem olarak belirir
 - Yanılsama inceldiğinde şehirlerin altından sızabilir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/a3/Mike-franch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/a/a3/Mike-franchina-black-grail-herald-of-beelzebub.jpg/revision/latest/scale-to-width-down/900?cb=20250428030232)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Herald of Beelzebub — Beelzebub'un Habercisi, Sinek Tarikatı'nın Kanatlı Uçan Dehşeti
 
 Kara Kâse kurbanlarının cehennem-sinekleriyle kaynaştırılmış hâli; şişkin etten dev kanatlı bir böceğe dönüşen, Sinek Tarikatı'nın öncü akıncısı olan grotesk varlık.
 
 - **Tür:** Lanetli Varlık
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Beelzebub'un Habercisi (Herald of Beelzebub), Trench Crusade'de Kara Kâse vebasının yarattığı en grotesk dehşetlerden biridir. Kara Kâse'nin (Black Grail) bazı kurbanları, sıradan bir Köle (Thrall) olmaktan çok daha korkunç bir kadere uğrar; onlara, cehennem-sinekleriyle (hell-flies) kaynaştırılmanın o kara onuru bahşedilir. Bu kurbanlar, şişkin ve çürümüş etten oluşan, dev ve kanatlı bir böceğe dönüşür. Bu işkence dolu metamorfozdan sonra, havalanırlar ve Sinek Tarikatı'nın (Order of the Fly) kanatlı squire'ları ve gözcüleri olan Beelzebub Habercilerine dönüşürler. Onlar, Beelzebub'un kara dehasının uçan birer ürünüdür.
 

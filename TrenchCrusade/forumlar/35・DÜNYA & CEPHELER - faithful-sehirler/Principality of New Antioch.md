@@ -3,27 +3,30 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch_chander_lieve.jpg/revision/latest/scale-to-width-down/900?cb=20250207052317)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Principality of New Antioch — Yeni Antakya Prensliği, İmanın Son Kalesi
 
-Levant'ın kuzeyinde, Cehennem'e karşı duran Hristiyan dünyasının en büyük kale-şehri; aynı anda askeri kale, sanayi merkezi ve kutsal şehir.
+Levant'ın kuzeyinde Cehennem'e karşı duran, Hristiyan dünyasının en büyük kale-şehri; disiplinli askerleri ve teknolojisiyle imanın ön cephesini tutan prenslik.
 
-- **Tür:** Şehir
-- **Bölge:** Levant'ın kuzeyi
+- **Bağlılık:** Faithful
+- **Önder:** Yeni Antakya Dük'ü (şu an XI. Konstantin)
+- **Kanon Sınıfı:** A — resmî güncel lore
 
-Principality of New Antioch (Yeni Antakya Prensliği), Levant'ın kuzeyinde, eski Kutsal Topraklar ve Orta Doğu'da Kilise'nin Sapkın güçlere karşı kurduğu ana savunma hattıdır. Aynı anda bir askeri kale, bir sanayi merkezi ve bir kutsal şehir olan New Antioch, dünyanın en hayati kale-şehri sayılır; Avrupa ve Afrika'nın hem kılıcı hem kalkanıdır. Orijinal Antakya, 1545 yılında gizemli iblissel bir silahla yok edildi; ancak iman sahipleri yıkıntılardaki mevzilerini terk etmedi.
+## Kayıt
 
-Şehrin yeniden doğuşu, 1559 yılında toplanan Viyana Kılıç Kongresi'nde kararlaştırıldı; Avrupa ve Afrika'nın bütün iman sahibi ulusları, Cehennem'in bölgedeki mutlak egemenliğini engellemek için şehri yeniden inşa edip tahkim etmeye ant içti. Yeni surların yapımı 1595'te tamamlandı. Bu surlar yetmiş yedi heybetli kuleyle donatılmıştır ve sekiz büyük kuşatma boyunca bir kez bile aşılamamıştır. Sur gövdelerine, içine adanmış savaşçıların gömüldüğü yüzlerce anchorite (metalik savaş türbesi) işlenmiştir; şehir hem taşla hem etle, hem çelikle hem dua ile örülmüştür.
+Principality of New Antioch (Yeni Antakya Prensliği), Trench Crusade dünyasında Hristiyan imanının en büyük ve en güçlü kalesidir. Orijinal Antakya, 1545'te gizemli bir silahla yok edildikten sonra, küllerinin üzerine yeniden inşa edildi; 1559 Viyana Kılıç Kongresi'nde, Avrupa ve Afrika'nın iman sahibi ulusları, Cehennem'in bölgedeki mutlak egemenliğini engellemek için Levant'ta bir tutunma noktasını sürdürme kararı aldı. Bugün New Antioch, eski Kutsal Topraklar ve Orta Doğu'da Kilise'nin Sapkın güçlere karşı ana savunma hattını oluşturur.
 
-Şehir ve ordusu, kalıtsal bir unvan olan Yeni Antakya Dük'ünün komutasındadır; bu unvanı şu anda XI. Konstantin taşır. Dük, savaşçı vergisiyle (tithe) tüm Hristiyan aleminden toplanan ulusları saflarında barındırır ve küçük müfrezeleri No Man's Land'in tehlikeli boşluğuna sürer. Yıkık eski Antakya'nın hemen yanında, düşmüş askerlerin mezarlarıyla taşan bir nekropol uzanır.
+Şehir ve ordusu, kalıtsal bir unvan olan Yeni Antakya Dük'ünün komutasındadır; bu unvanı şu anda XI. Konstantin taşır. Dük, küçük müfrezeleri No Man's Land'in (İki Ateş Arası) işkenceli manzarasına, yani New Antioch ile Sapkın diyarları ayıran ıssız bölgeye sürer; bu warband'lar istihbarat toplar, güç taşıyan kadim eserleri arar, Sapkın güçlere baskın düzenler, stratejik mevzileri tutar ve savaş alanlarını yağmalar. Jerusalem'deki Cehennem Kapıları açıldığından beri, dünyanın dört bir yanındaki iman sahipleri inançlarını mucizelerle pekiştirilmiş bulur.
 
-New Antioch, karanlık ve umutsuz bir çağda dimdik duran insan iradesinin somut halidir: barut, çelik ve duanın birleştiği, sürekli kuşatma altında ama asla teslim olmayan bir uygarlık. Cehennem'in gölgesinde insanlığın hayatta kalma çabasının en görkemli simgesi olarak, infernal ateşe karşı haçını ve tüfeğini birlikte kaldırır.
+New Antioch, tüm Hristiyan aleminden bir savaşçı vergisi (tithe) toplar; saflarında Éire Rangers'tan Prusya Özgür Devleti'nin Stosstruppen'ine kadar birçok ulustan asker bulunur. Stosstruppen, kontrollü saldırganlıkları ve olağanüstü atletizmleri için seçilir; siperler arası kusursuz bir ritimle el bombası savururlar. Sniper Priests, kuşkuya düşmemek için kendilerini törenle kör eder ve yalnızca Tanrı'ya duydukları imanla nişan alır; bu da onlara eşsiz bir isabet kazandırır. Sisters of St. Cosmas ise hem can kurtarmada hem can almada usta, eğitimli bir tıp birliğidir.
 
-## Özellikler
+New Antioch, karanlık ve umutsuz bir çağda dimdik duran insan iradesinin ve imanının somut halidir; barut, çelik ve duanın birleştiği bir uygarlık. Kusurlu, sürekli kuşatma altında, ama asla teslim olmayan bu kale-şehir, Cehennem'in gölgesinde insanlığın hayatta kalma çabasının en görkemli simgesidir; siper çamuru içinde, infernal ateşe karşı haçını ve tüfeğini birlikte kaldıran, imanın son büyük surudur.
 
-- Levant'ın kuzeyindeki kale-şehir devlet
-- Yetmiş yedi kuleli, hiç düşmemiş surlar
-- Kilise'nin Cehennem'e karşı ana suru
-- Surlara gömülü anchorite savaş türbeleri
-- Yeni Antakya Dük'ünün (XI. Konstantin) hükmü
+## Birimler
 
--# Kaynaklar: Resmî place lore makaleleri
+- Trench Knights (siper şövalyeleri, ağır zırhlı vurucular)
+- Stosstruppen (Prusya'nın seçkin hücum erleri)
+- Sniper Priests (kendini kör eden, imanla nişan alan keskin nişancı rahipler)
+- Sisters of St. Cosmas (savaş cerrahı rahibeler)
+
+-# Kaynaklar: Resmî faction overviewleri

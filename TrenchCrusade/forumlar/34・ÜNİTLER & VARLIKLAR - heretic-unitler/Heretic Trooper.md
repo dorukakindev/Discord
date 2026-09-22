@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/4/40/Mike-franch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/4/40/Mike-franchina-heretic-soldier.jpg/revision/latest/scale-to-width-down/900?cb=20250428015725)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Heretic Trooper — Sapkın Nefer
 
 Cehennem Kapısı'nı gören ve sağ çıkıp sonsuza dek lanetlenen, Sapkın Lejyon'ların çoğunluğunu oluşturan lanetli insan askerleri.
 
 - **Fraksiyon:** Heretic Legions
 - **Rol:** Piyade
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Heretic Trooper (Sapkın Nefer), Heretic Legions'ın (Sapkın Lejyonlar) belkemiğidir; Dünya üzerindeki başlıca şeytanî askerî gücün sıradan ama lanetli evlatlarıdır. Bu Lejyonlar, lanetlenmişlerin vatandaşlarından, yani Cehennem'e ruhunu satmış insanlardan devşirilir. Heretic Trooper'lar, kuvvetlerin büyük çoğunluğunu oluşturur ve hepsinin ortak bir korkunç deneyimi vardır: Cehennem Kapısı'nı (Hellgate) kendi gözleriyle görmüş ve o görünün ardından sağ kalmışlardır. Ama bu hayatta kalış, bir kurtuluş değil, sonsuz bir lanetin başlangıcıdır.
 
@@ -18,7 +22,7 @@ Heretic Trooper, görünüşte hâlâ bir insandır; bir tüfek taşır, bir sip
 
 Heretic Trooper, Trench Crusade'in karanlık aynasıdır: New Antioch'un Shocktrooper'ı inancı için savaşırken, Sapkın Nefer onun karşısında, ruhunu çoktan kaybetmiş bir kardeşi olarak durur. O, korkunun, umutsuzluğun ve Cehennem'in baştan çıkarıcılığının somut hâlidir. Bir zamanlar belki sıradan bir insan olan bu asker, şimdi yanan kapının çocuğudur; lanetli, ama hâlâ insan, ve tam da bu yüzden hem trajik hem de korkutucu.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Cehennem Kapısı'nı (Hellgate) gözleriyle görüp sağ çıkmıştır
 - O görü onu sonsuza dek lanetler; geri dönüşü yoktur

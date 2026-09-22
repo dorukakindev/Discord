@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/c/cc/Hegemon_Yersinia_Rex.jpg/revision/latest/scale-to-width-down/900?cb=20260421150101
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/c/cc/Hegemon_Yersinia_Rex.jpg/revision/latest/scale-to-width-down/900?cb=20260421150101)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Valence Muharebesi: Yaşayan Aziz ve Ceset Savaşları'nın Sonu
 
 Yaşayan Aziz Jehanne d'Arc'ın Kilise ordularıyla Yersinia Rex'i Valence'da yok edip altmış altı yıllık veba savaşını bitirmesi.
 
-
+- **Era:** 1429
 - **Dönem:** 1429
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Ceset Savaşları altmış altı yıl boyunca Avrupa'yı kemirdi; bir kıta, kendi ölülerine karşı verdiği bu savaşta neredeyse tükendi. Her kuşak, atalarının başladığı veba savaşını bitiremeden öldü; surlar tutuldu, mevziler değişti, ama Kara Kâse'nin gücü bir türlü kırılamadı. Sonunda imanın saf gücü sahnede yerini aldı. Kanonik anlatıya göre 1429 yılında, Beelzebub'un büyük Hegemonu Yersinia Rex, Kilise'nin birleşik orduları tarafından alaşağı edildi. Bu orduların başında efsanevi bir figür vardı: Yaşayan Aziz (Living Saint) Jehanne d'Arc.
 

@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Galgenbeck — Darağacı Şehri, Çürüyen Dünyanın Kalbi
 
 Bilinen dünyanın en büyük ve en kalabalık şehri; çürüme, sefahat ve ikiyüzlü bir dindarlıkla dolu, kıyametin gölgesinde son nefesini veren devasa metropol.
 
 - **Bölge:** Bilinen dünyanın merkezi, Valley of the Unfortunate Undead yakını
 - **Tür:** Şehir
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Galgenbeck, Mörk Borg'un çürüyen dünyasının en büyük ve en kalabalık şehridir; bilinen tüm diyarların kalbinde, kendi pisliğinin ve ihtişamının ağırlığı altında çöken devasa bir metropol. Adı, şehri her yandan kuşatan darağaçlarından gelir; surlarının üzerinde, kapılarının önünde ve meydanlarında sallanan cesetler o kadar olağandır ki, kimse artık bir idamı durup izlemez. Burası zenginliğin ve sefaletin, kutsallığın ve küfrün, ihtişamın ve çürümenin aynı dar sokaklarda iç içe geçtiği bir yerdir; altın kupalardan şarap içen tüccarların hemen yanı başında, vebadan kıvranan dilenciler oluk oluk akan lağımda can verir.
 

@@ -3,25 +3,21 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/d/dc/Iron_Sultan
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/d/dc/Iron_Sultanate_banner.png/revision/latest?cb=20241212185326)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
-# Iron Sultanate — Demir Sultanlık (Göğü Delen İki Boynuzun Yenilmez Demir Duvarı)
 
-Anadolu ve Levant'ı tutan, dünyanın en güçlü İslam devleti; Sapkın diyarlarına sınır olan, Demir Duvar'ın çevrelediği Sultanlık.
+# Iron Sultanate — Demir Sultanlık, Demir Duvar'ın Ardındaki Rum Diyarı
 
-- **Tür:** Şehir
-- **Bölge:** Anadolu ve Levant
+Rum Sultanlığı'nın simyacıları, suikastçıları ve askerleri; Zülkarneyn'in Demir Duvarı'nın koruduğu, Cabir simyasıyla Cehennem'e direnen Müslüman İmanlılar.
 
-Iron Sultanate (Demir Sultanlık), resmi unvanıyla "Göğü Delen İki Boynuzun Yenilmez Demir Duvarı'nın Büyük Sultanlığı", Trench Crusade dünyasının en önde gelen İslam ulusudur. Selçuklu kökenli Sultanate of Rûm'un (Rûm Sultanlığı) bir devamı olan bu devlet, Anadolu ve Levant'ın bir bölümünü yönetir ve büyük ölçüde Sapkın güçlerin denetimindeki topraklara sınırdır. Sapkınlar Cehennem'in kapılarını açtığında ve Gates of al-Qarnayn (Zülkarneyn Kapıları) 1109'da kapandığında, iman sahibi güçler için son savunma hattı olarak ünlü Demir Duvar tezahür etti; Sultanlık da bu büyük göçün ve tahkimin sonunda doğdu.
+- **Kategori:** Din & İman
+- **Kanon Sınıfı:** A — resmî güncel lore
 
-Sultanlığın insanları, kültürel ve askeri olarak Osmanlı İmparatorluğu'na dayanır; birçok terim, teçhizat ve birlik tipi, Anadolu'ya yüzyıllarca hükmeden Osmanlı geleneğinden alınır. Devleti ve ordusunu Sultan (ya da Padişah) yönetir; bu kalıtsal bir unvandır. Sultanlık, Cehennem'in kara dalgasına karşı duran büyük iman bloklarından biri olarak, kendi inancını ve halkını koruyan bir bekçi konumundadır. Demir Duvar'ın ardındaki topraklar, infernal istilanın eline geçmemiş ender güvenli bölgelerdendir.
+## Kayıt
 
-Demir Sultanlık'ın kimliği, onu çevreleyen muazzam istihkamla, Demir Duvar ile özdeşleşmiştir; halk kelimenin tam anlamıyla bu surun gölgesinde yaşar, ibadet eder ve savaşır. Sultanlık, Hristiyan New Antioch ve Papalık güçleriyle aynı düşmana, yani Cehennem'in ordularına ve onların Sapkın hizmetkarlarına karşı savaşır; ortak düşman zaman zaman bu farklı imanları kırılgan bir paydada birleştirir. Yine de Sultanlık her şeyden önce kendi sınırlarını, kendi kutsal toprağını ve halkının ruhunu korumakla yükümlüdür; iman ettiği güç, Allah'ın bu duvarı son anda bir mucize olarak diktiğine inanır ve gücünü bu inançtan alır.
+Demir Sultanlık (the Iron Sultanate), Trench Crusade evreninde Cehennem'e karşı duran İmanlı güçlerinden biridir; Anadolu'da kurulan Rum Sultanlığı'nın simyacıları, suikastçıları ve askerlerinden oluşur. Cehennem'in kapıları açıldıktan sekiz yıl sonra, Zülkarneyn'in Demir Duvarı (Iron Wall of Dhu al-Qarnayn) mucizevi biçimde belirerek bu diyarı korumaya almıştır; bu devasa duvar, Tahran'dan İran platosunun dağları boyunca uzanır, Suriye ovasını kateder ve Basra Körfezi'ne kadar iner, Cehennem'in ilerleyişine karşı kutsal bir set oluşturur.
 
-## Özellikler
+Sultanlık, büyük bir göçün sonunda doğmuştur. Duvarın güvenliğinin ardına sığınmaları için tüm Müslümanlara bir çağrı yapılmış; milyonlarca insan yolculuk sırasında can vermiş olsa da, milyonlarcası duvarın kapıları kapanmadan önce Rum Sultanlığı'na katılmayı başarmıştır. Zülkarneyn'in kapılarının 1109'da kapanmasıyla, bu büyük göç sona ermiş ve ulus son hâlini almıştır. O günden beri Demir Duvar, Cehennem'in dehşetine karşı bu diyarın değişmez kalkanı olmuştur; ardındakiler, görece bir güvenlik içinde direnişlerini sürdürür.
 
-- Anadolu ve Levant topraklarını tutar
-- Selçuklu / Rûm Sultanlığı'nın devamı
-- Osmanlı esinli iman sahibi devlet
-- Sapkın güçlere doğrudan sınır
-- Sultan (Padişah) tarafından yönetilir
+Demir Sultanlık'ın en ayırt edici gücü, simyacılarıdır. Dokuzuncu yüzyıl Arap bilgini Cabir bin Hayyan'ın öğretilerini izleyen Cabir simyacıları (Jabirean Alchemists), ezoterik güçlerin ustalarıdır: ateşi ve buzu, metali ve sıvıyı denetleyebilir, karmaşık mekanik aygıtlar ve yapay yaşam yaratabilir, ve felaket getiren güçte silahlar üretebilirler. Sanatlarını icra etme özgürlüğü karşılığında, simyacılar Sultanlığa eşsiz Cabir savaş aslanlarını (Jabirean battle lions) sağlar. Demir Sultanlık, Trench Crusade'de inancın ve bilginin birleştiği bir direnişi temsil eder; Cehennem'e karşı sadece kılıçla değil, simyanın ve mühendisliğin esrarengiz güçleriyle de savaşan, kendine özgü ve görkemli bir uygarlığı gösterir.
 
--# Kaynaklar: Resmî place lore makaleleri
+-# Kaynaklar: Resmî lore terminolojisi
+-# Çapraz: Rum Sultanlığı'nın güçlerini oluşturur · Zülkarneyn'in Demir Duvarı korur · Cabir simyacıları (Jabirean Alchemists) hizmet eder

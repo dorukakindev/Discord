@@ -1,16 +1,29 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
-# Inferno — Inferno, Acının ve Cezanın Diyarı
 
-Gerçekliğin en derin ve en karanlık katmanlarından biri olan, sonsuz acı ve azabın hüküm sürdüğü cehennem-diyar; ruhların düşebileceği, dehşetin ve cezanın hüküm sürdüğü öte âlem.
+# Inferno — Cehennem, Acının Sonsuz Diyarı
 
-- **Kategori:** Kozmoloji
+Metropolis'in karanlık yansıması; Astaroth ve Ölüm Melekleri'nin hüküm sürdüğü devasa işkence diyarı. Günahları için cezalandırılacağına inananların öldükten sonra sürüklendiği sonsuz acı şehri.
 
-Inferno, Kult: Divinity Lost evreninde gerçekliğin en derin ve en karanlık katmanlarından birini ifade eder; sonsuz acının, azabın ve cezanın hüküm sürdüğü bir cehennem-diyardır. Kult'un kozmolojisinde, içinde yaşadığımız Elysium'un ve hatta gerçek dünya Metropolis'in ötesinde, gerçekliğin çok daha dehşet verici tabakaları uzanır; Inferno, bu karanlık derinliklerin en korkunçlarından biridir. O, bir mecaz değil, gerçek bir yerdir; ruhların düşebileceği, kaybolabileceği ve dayanılmaz acılarla yüzleşebileceği somut bir öte âlemdir.
+- **Tür:** Cehennem Diyarı
+- **Ruler:** Astaroth ve Ölüm Melekleri
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Inferno'yu tanımlayan şey, saf ve sonu gelmez acıdır. Burası, geleneksel cehennem tasvirlerini andırır; ama Kult'un anlatımında o, ahlaki bir ceza yeri olmaktan çok, gerçekliğin çürümüş ve yıkıcı güçlerinin yoğunlaştığı bir azap diyarıdır. Inferno'nun manzaraları, işkence, çürüme, dehşet ve umutsuzlukla doludur; oraya düşen ya da sürüklenen bir ruh, insan zihninin kavrayamayacağı acılarla karşılaşır. Bu diyar, Yanılsama'nın aydınlık yüzünün tam karşıtıdır; perdenin ardındaki gerçeğin, çoğu zaman kurtuluş değil dehşet olduğunu en çıplak biçimde gösterir.
+## Kayıt
 
-Inferno, gerçekliğin çürümüş güçleriyle, özellikle Ölüm Melekleri'nin etkisiyle iç içedir; çürüme, yıkım ve acının bu diyarda kök saldığı söylenebilir. Demiurge'ün kayboluşu ve evrenin kaosa düşmesiyle birlikte, Inferno'nun karanlık etkisi de daha güçlü hissedilir hâle gelmiştir; Yanılsama bozuldukça, onun dehşetleri gerçekliğin daha yüzeysel katmanlarına sızabilir. Uyanan, ağır acı çeken ya da yanlış geçitlerden geçen bir insan, kendini Inferno'nun eşiğinde bulabilir. Inferno, Kult evreninde acının ve cezanın mutlak diyarını temsil eder; gerçekliğin en derininde kurtuluş değil dehşet bulunabileceğini, ve sahte dünyamızın rahat yüzeyinin altında, dayanılmaz bir azabın her zaman bir perde ötede beklediğini gösterir.
+Inferno, Metropolis'in karanlık ve çarpık yansımasıdır; kadim şehrin acıya, korkuya ve cezaya bürünmüş öteki yüzü. Eğer Metropolis soğuk ve mekanik bir düzenin başkentiyse, Inferno o düzenin altında kaynayan sonsuz acının diyarıdır. Burası devasa, katmanlı ve bitmeyen bir işkence şehridir; mimarisi acıdan, alevden ve umutsuzluktan örülmüştür. Inferno'nun her kıvrımı, içine düşenin en derin korkularını ve suçluluk duygularını ete kemiğe büründürmek için tasarlanmış gibidir.
 
--# Çapraz: Gerçekliğin en karanlık katmanlarından biridir · Sonsuz acı ve azabın hüküm sürdüğü diyardır · Ölüm Melekleri'nin etkisiyle iç içedir
+Inferno'ya, öldükten sonra günahları yüzünden cezalandırılacağına inanan ruhlar sürüklenir. Kult kozmolojisinin en sarsıcı yanı budur: gerçeklik, inancın ve beklentinin şekline bürünür. Hayatı boyunca cehennemde yanmayı hak ettiğine inanmış biri, ölümünden sonra kendi inancının yarattığı o cehennemde bulur kendini. Böylece Inferno, dışarıdan dayatılan bir ceza olduğu kadar, suçluluk duygusunun ve korkunun kişinin kendi eliyle ördüğü bir hapishanedir de. Acı, orada hem ceza hem de bir tür sonsuz, anlamsız ayindir.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+Inferno'nun mutlak hâkimi Astaroth'tur; bu diyarın efendisi ve en korkunç gücü. Onun emrinde, Ölüm Melekleri (Angels of Death) Inferno'nun derinliklerinde dolaşır; ruhları toplayan, cezalandıran ve işkence düzenini yöneten amansız varlıklardır bunlar. Astaroth'un sarayı Inferno'nun en derininde durur, ve onun hükmü altında acının hiçbir sonu, hiçbir kurtuluşu yoktur. Bu diyarda zaman, sadece daha fazla ızdırabı doğurmak için akar.
+
+Inferno, Kult'ta inancın ve suçluluğun yıkıcı gücünü temsil eder; gerçekliğin nesnel değil, insanın derin korkuları tarafından biçimlendirildiği bir kâbus. O, dışarıdaki bir cehennem olduğu kadar, içimizdeki cehennemin de dışavurumudur; cezalandırılmayı hak ettiğimize inandığımız anda, Astaroth'un kapılarının bize sonuna kadar açıldığı, acının sonsuz ve kişisel diyarıdır.
+
+## Özellikler
+
+- Metropolis'in karanlık, çarpık yansımasıdır
+- Astaroth ve onun Ölüm Melekleri tarafından yönetilir
+- Günahlarının cezasına inananların öldükten sonra gittiği yerdir
+- Devasa, katmanlı bir işkence ve acı diyarıdır
+- İnancın ve suçluluk duygusunun gerçeği şekillendirdiği bir kâbus
+
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

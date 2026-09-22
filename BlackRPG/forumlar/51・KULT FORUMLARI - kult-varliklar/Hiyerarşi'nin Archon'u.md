@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Hiyerarşi'nin Archon'u — Düzenin ve Tahakkümün Meleği
 
 İnsanlığı katı bir üstünlük ve itaat düzeni içinde tutan ilkenin Archon'u; her insanın yerini, üstünü ve altını belirleyen tahakküm yapısının koruyucusu.
 
-- **principle:** Hiyerarşi
-- **attribute:** -
+- **Principle:** Hiyerarşi
+- **Attribute:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Hiyerarşi'nin Archon'u, insanlığı Yanılsama içinde tutan ilkelerden birini, yani düzenin ve tahakkümün gücünü temsil eder. Bu Archon'un işi, insanları daima bir üst-ast düzeni içinde tutmaktır; her bireyin bir üstü ve bir altı olduğu, herkesin bir piramidin içinde bir yere çakıldığı bir dünya kurar. Krallar ve tebaalar, patronlar ve işçiler, generaller ve erler, ezenler ve ezilenler; bütün bu sıralamalar, ona göre doğanın ve hatta ilahi iradenin bir gereğidir. İnsanlara öğretilen şey, bu düzenin sorgulanamaz ve değiştirilemez olduğudur. Oysa bu, Demiurge'ün hapishanesinin demir parmaklıklarından yalnızca biridir.
 
@@ -12,11 +16,11 @@ Bu Archon'un gücü, tahakkümü öyle derinleştirir ki, insanlar zincirlerini 
 
 Hiyerarşi'nin asıl dehşeti, insanın kendi ilahi doğasını unutturmasındadır. Çünkü gerçek hakikat, hiçbir insanın bir diğerinden doğası gereği üstün ya da aşağı olmadığıdır; hepsi aynı unutulmuş tanrısallığın parçalarıdır. Ama bu Archon, insanları sonsuz bir tahakküm oyununun içine kilitleyerek, onların kendilerini ya bir efendi ya bir köle olarak görmesini sağlar. İkisi de gerçek özgürlükten eşit uzaklıktadır. Demiurge'ün yokluğunda bile bu düzen kendiliğinden döner; insanlar artık emir verecek bir tanrı olmasa da birbirlerine boyun eğdirmeye devam eder. Bu Archon, Kult mitolojisinde iktidarın ve itaatin nasıl kutsallaştırılarak bir hapishaneye dönüştürüldüğünü gösterir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - İnsanlığı katı üst-ast düzeni içinde hapseder
 - Tahakküm, sıralama ve iktidar piramidini kutsar
 - Her bireye değişmez bir yer ve rol dayatır
 - İktidar yapılarını ilahi ve doğal gösterir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

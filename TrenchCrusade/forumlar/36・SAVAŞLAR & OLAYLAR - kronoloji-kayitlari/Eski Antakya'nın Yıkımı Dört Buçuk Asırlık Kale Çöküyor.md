@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/New_Antioch_chander_lieve_concept_1.jpg/revision/latest/scale-to-width-down/900?cb=20250207052317
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/New_Antioch_chander_lieve_concept_1.jpg/revision/latest/scale-to-width-down/900?cb=20250207052317)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Eski Antakya'nın Yıkımı: Dört Buçuk Asırlık Kale Çöküyor
 
 Sekiz asırdır direnen kadim Antakya'nın gizemli bir iblissel silahla tek vuruşta yok edilmesi; ama savunucuların harabeleri terk etmemesi.
 
-
+- **Era:** 1545
 - **Dönem:** 1545
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Kadim Antakya, Kudüs'ün düşüşünden bu yana dört buçuk asır boyunca insanlığın Levant'taki en inatçı kalesi olmuştu. Surları sayısız kuşatmaya direnmiş, içindeki savunucular nesiller boyunca Cehennem'in tam karşısında nöbet tutmuştu. Bu şehir yalnızca bir kale değil, bir simgeydi: Cehennem'in her şeyi yutamayacağının, imanın hâlâ Kutsal Toprak'ta bir ayağının olduğunun kanıtı. 1101'den bu yana geçen her on yıl, o şehrin surlarının tutulduğunun kanıtıydı. Ama 1545 yılında, bu dört buçuk asırlık direniş, tek bir korkunç vuruşla sona erdi.
 

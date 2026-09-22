@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Yanılsama'nın İnşası
 
 Demiurge'ün insanlığın tanrısallığını kıskanıp Yanılsama hapishanesini kurması ve insanlığı Uyuyanlar'a dönüştürmesi.
 
-
+- **Era:** Düşüş
 - **Dönem:** Düşüş
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Altın çağın sonunu getiren varlık, kendisine tanrı diyen ama gerçek bir tanrı olmayan bir gaspçıdır: Demiurge. Gnostik mit onu yanlış-tanrı, sahte yaratıcı olarak adlandırır; çünkü o evreni yoktan var etmedi, yalnızca zaten var olan gerçekliğin üzerine kendi sahte düzenini kurdu. Demiurge, insanlığın sahip olduğu sınırsız tanrısallığı gördü ve onu kıskandı. Bizim özgürlüğümüz, bizim sınırsız gücümüz, ona kendi otoritesini gölgeleyen bir tehdit gibi göründü. Gerçekten özgür varlıklar bir efendiye boyun eğmez; ve Demiurge bir efendi olmak istiyordu. Bu yüzden insanlığın tanrısallığını bastırmaya, onu görünmez kılmaya ve nihayetinde tümüyle unutturmaya karar verdi.
 
@@ -16,4 +20,4 @@ Yanılsama yalnızca dış dünyayı değil, insanın iç dünyasını da kuşat
 
 Yanılsama'nın inşası, insanlık tarihinin gerçek başlangıcı değil, gerçek sonudur; tanrıların uykuya yatırıldığı, özgürlüğün gömüldüğü andır. O günden bu yana yaşadığımız her şey, hissettiğimiz her sınır, korktuğumuz her ölüm, Demiurge'ün eseridir. Ama her hapishanenin bir zayıf noktası vardır, her yanılsamanın bir çatlağı. Demiurge, Yanılsama'yı ne kadar mükemmel örerse örsün, onu sonsuza dek korumak için bir bekçi ordusuna ihtiyaç duydu. Çünkü tanrılar uyusa bile, içlerindeki kıvılcım tümüyle sönmedi; ve bu kıvılcım, bir gün Yanılsama'yı içten yakabilecek tek tehlikeydi. İşte bu yüzden Demiurge, hapishanesini korumak için Archon'ları yarattı.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

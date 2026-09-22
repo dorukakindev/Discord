@@ -1,10 +1,14 @@
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Tartarus Claws — Tartaros Pençeleri
 
 Cehennem Lejyonu Ölüm Komandolarının taşıdığı, Styx Nehri sularında sertleştirilen lanetli pençeler; ölümlü hiçbir zehirden daha güçlü bir öldürücüyle kaplı.
 
 - **Tür:** Lanetli Silah
 - **Köken:** Cehennem dövümü; Styx Nehri'nde sertleştirilmiş
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Tartaros Pençeleri (Tartarus Claws), Cehennem Lejyonları'nın en sinsi ve en ölümcül suikastçılarının, Ölüm Komandoları'nın (Death Commando) taşıdığı lanetli yakın dövüş silahlarıdır. Cehennem'in en derin demirhanelerinde, Tartaros'un bükülmüş potalarında dövülen bu pençeler, sıradan çelikten değil, dünyevi madenlerin gücünü aşan cehennem metalinden yapılır. Ama bu pençeleri gerçekten korkunç kılan, dövülme biçimleri değil, sertleştirilme biçimleridir: Heretic ustaları, bu pençeleri lanetli Styx Nehri'nin sularında söndürüp sertleştirir. Söylenceye göre bu su, ölümlü dünyanın bildiği herhangi bir venomdan çok daha güçlü bir zehir kaynağıdır.
 
@@ -12,7 +16,7 @@ Bu silahın gücü, açtığı yaranın doğasında yatar. Tartaros Pençeleri'n
 
 Ama tüm cehennem silahları gibi, Tartaros Pençeleri de taşıyanına bir bedel yükler. Cehennem metalinden dövülmüş bu lanetli eşyaları taşımak, bedeni ve ruhu yavaşça kemirir; Styx'in zehri sadece kurbanı değil, onu kullananı da kirletir. Bir Ölüm Komandosu, bu pençelerin gücüyle ne kadar çok öldürürse, kendi insanlığından da o kadar çok kaybeder; lanetli silahları, onu kullandıkça onu kendisine benzetir. Tartaros Pençeleri, Trench Crusade'de Cehennem'in pazarlığının özünü temsil eder: korkunç, karşı konulamaz bir güç vaat eder, ama karşılığında her zaman taşıyanın bedeninden, ruhundan ve insanlığından bir parça koparıp alan, asla bedelsiz olmayan lanetli bir silahtır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Heretic Death Commando'ların özel yakın dövüş silahı
 - Tartaros'un cehennem metalinden dövülür

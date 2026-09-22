@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Nine Violet Signs Unknot the Storm — Dokuz Mor İşaret Fırtınayı Çözer
 
 Gökten yıldırım çağıran kirli bir mucize; birden çok mor yıldırım yayı üreterek hedefleri kavurur.
 
 - **Tür:** Kirli Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Dokuz Mor İşaret Fırtınayı Çözer (Nine Violet Signs Unknot the Storm), gökten yıldırım indiren güçlü bir kirli parşömendir. Okunduğunda d2 yıldırım yayı doğar; her biri d6 değerinde hasar verir ve bu yaylar ayrı hedeflere yönlendirilebilir. İsmindeki dokuz mor işaret, bu mucizenin bir fırtınayı çağırmak değil, gökyüzünde önceden bağlı duran bir fırtınayı çözmek, düğümünü açmak gibi tasvir edildiğini gösterir; güç zaten oradadır, parşömen yalnızca onu serbest bırakır.
 

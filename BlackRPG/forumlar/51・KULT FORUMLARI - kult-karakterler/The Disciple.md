@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Disciple — Mürit, Bir Efendinin Yolundaki Aydınlanmış
 
 Kendisinden çok daha güçlü bir varlığa, bir efendiye ya da öğretiye bağlanarak Aydınlanma'ya ulaşmış arketip; gücünü bir başkasının yolundan devşiren ama özgürlüğünü bu bağlılığa veren mürit.
 
 - **Kategori:** Aydınlanmış (Enlightened)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Disciple (Mürit), Kult'un dört Aydınlanmış arketipinden biridir ve diğerlerinden temel bir farkla ayrılır: onun Aydınlanması yalnız başına bir keşif değil, bir bağlılığın meyvesidir. Disciple, kendisinden çok daha güçlü bir varlığa, bir efendiye, bir öğretiye ya da gizli bir bilgiye kendini adamış ve bu bağlılık yoluyla gerçekliğin perdesini aralamıştır. O, yolunu tek başına açan biri değil, bir başkasının açtığı yoldan ilerleyen bir takipçidir; ve bu durum onun gücünü olduğu kadar zincirlerini de tanımlar.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Disciple, teslimiyetin ve özerklik kaybının dehşet
 - Efendisinin amaçları onun kaderini şekillendirir
 - Dört bilinen Enlightened arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

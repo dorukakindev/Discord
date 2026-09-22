@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Valley of the Unfortunate Undead — Şanssız Ölümsüzler Vadisi, Yürüyen Ölülerin Lanetli Çukuru
 
 Ölülerin huzur bulamadığı lanetli bir vadi; gömülenlerin yeniden ayağa kalktığı, yürüyen cesetlerle dolu, kıyametin ölümsüzlük dehşetini somutlaştıran çukur.
 
 - **Bölge:** Galgenbeck yakını, dünyanın ölümle lanetli vadisi
 - **Tür:** Diyar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Şanssız Ölümsüzler Vadisi (Valley of the Unfortunate Undead), Mörk Borg dünyasının ölüm lanetinin en yoğunlaştığı yerlerinden biridir; gömülenlerin toprağın altında kalmaya razı olmadığı, ölülerin yeniden ayağa kalkıp yürüdüğü lanetli bir vadi. Adının da söylediği gibi, burası talihsiz ölümsüzlerin diyarıdır; ne tam olarak yaşayan ne de gerçekten ölü olan bedenlerin, bir son bulamadan vadinin çamuruna ve karanlığına mahkûm edildiği bir çukur. Burada ölüm, beklenen huzuru getirmez; aksine, sonsuz ve anlamsız bir varoluşun kapısını aralar.
 

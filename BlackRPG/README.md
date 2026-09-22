@@ -10,6 +10,5 @@ Dört karanlık RPG sisteminin (MÖRK BORG · KULT · Underground · Dark Sun) T
 ## Kayıt formatı
 
 - `-#` şerit: `THE BLACK RPG ARCHIVE · SİSTEM · Kayıt`
-- `#` başlık → tanım paragrafı → meta maddeleri → `##` bölümler → `-# Kaynaklar` / `-# Çapraz`
+- `#` başlık → tanım paragrafı → meta maddeleri → `## Kayıt` gövdesi → `-# Kaynaklar` / `-# Çapraz`
 - Kaynak sınıfları: A–G (birincil kural kitabı → fanon)
-- Evrenler arası lore karışımı yapılmaz; her kayıt tek sisteme aittir.

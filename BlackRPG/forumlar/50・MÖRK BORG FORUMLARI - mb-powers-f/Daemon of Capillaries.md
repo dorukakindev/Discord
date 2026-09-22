@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Daemon of Capillaries — Kılcal Damarların İblisi
 
 Bir yaratığı içeriden boğan korkunç bir kirli mucize; kurbanın kılcal damarlarını kurutarak onu tur tur öldürür.
 
 - **Tür:** Kirli Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kılcal Damarların İblisi (Daemon of Capillaries), Mörk Borg'un en korkunç kirli parşömenlerinden biridir ve oyunun karanlık, bedensel dehşet dolu estetiğini cisimleştirir. Okunduğunda seçilen bir yaratık d6 tur boyunca boğulmaya başlar; her tur d4 HP kaybeder, sanki kılcal damarları içten kuruyup büzülüyor ve bedeni kendi içinde nefessiz kalıyormuş gibi. Bu, kanlı ve yavaş bir ölümdür; alev gibi bir anda değil, tur tur, içeriden gelir.
 

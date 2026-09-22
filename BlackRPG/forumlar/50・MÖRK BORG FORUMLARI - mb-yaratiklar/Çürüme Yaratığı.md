@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Çürüme Yaratığı — Vebadan Doğan, Hastalıkla Şişen Et Yığını
 
 Mörk Borg dünyasını saran vebaların, lanetlerin ve çürümenin kendisinden doğan biçimsiz yaratıklar; hastalık saçan, etrafa irin ve bulaşma yayan kâbus gibi et yığınları.
 
 - **Tür:** Lanetli
-- **Tehdit:** Bulaşıcı ve dayanıklı
+- **Tehdit Seviyesi:** Bulaşıcı ve dayanıklı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Çürüme Yaratıkları, Mörk Borg dünyasını kemiren sayısız vebanın, lanetin ve çürümenin kendisinden doğan biçimsiz kâbuslardır. Bu can çekişen dünyada hastalık o kadar yaygın, çürüme o kadar derindir ki, kimi zaman bozulan etin ve yayılan vebanın kendisi bir biçim alır; şişmiş, kokuşmuş, irin akıtan birer et yığınına dönüşür. Bu varlıklar, dünyanın hastalıklı bedeninin kanlı canlı birer urudur.
 
@@ -12,7 +16,7 @@ Mörk Borg dünyasını saran vebaların, lanetlerin ve çürümenin kendisinden
 
 Nechrubel'in vahiyleri toprağı ve eti kemirdikçe, bu çürüme yaratıkları daha sık belirir. Veba çukurlarında, terk edilmiş hastanelerde, kokuşmuş bataklıklarda ve çürümüş köylerin kalıntılarında türerler. Maceracılar için bir Çürüme Yaratığı'yla karşılaşmak, çoğu zaman yalnızca bir dövüş değil, bir bulaşma tehlikesidir; galip gelseler bile, taşıdıkları hastalık günler sonra onları yatağa düşürebilir. Bu varlıklar, dünyanın kendisinin çürümesinin etten ve irinden örülmüş simgesidir: hastalığın artık yalnızca bedenleri değil, gerçekliğin dokusunu da yuttuğunun kokuşmuş kanıtı.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Hastalık ve çürümeden doğan biçimsiz varlıklar
 - Dokunuşu ve soluğu hastalık bulaştırır

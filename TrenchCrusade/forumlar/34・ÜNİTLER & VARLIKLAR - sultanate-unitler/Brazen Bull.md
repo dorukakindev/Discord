@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/1/13/Brazen-Bull
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/1/13/Brazen-Bull.jpg/revision/latest/scale-to-width-down/900?cb=20250428013201)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Brazen Bull — Tunç Boğa
 
 Cabirî Simyacıların yarattığı Takwin homonkulusu: ağır silah ve top taşıyan, düşmanı ikiye bölecek güçte devasa yapay savaş bahemotu.
 
 - **Fraksiyon:** Iron Sultanate
 - **Rol:** Canavar
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Brazen Bull (Tunç Boğa), Iron Sultanate'in savaş alanındaki en korkunç görüntülerinden biridir; Cabirî Simyacıların yarattığı ikinci en önde gelen Takwin homonkulusudur. Onlar, dev gibi yapay yapılardır; büyük bir güç ve dayanıklılıkla donatılmışlardır ki ağır silahları taşıyabilsin ve savaş alanında topları (cannon) ateşleyebilsinler. Brazen Bull, hem bir yürüyen silah platformu hem de bir kuşatma koçudur; düşman hattına hem mesafeden ateşle hem de yakından dehşetle vurur.
 
@@ -18,7 +22,7 @@ Adı, tarihteki o meşhur işkence aletini, antik Akragas tiranı Phalaris'in tu
 
 Brazen Bull, Jabirean Alchemist'in dehâsının ve cüretinin en görkemli kanıtıdır. O, Demir Duvar'ı korumak için var edilmiş canlı bir kuşatma kulesidir; toplarıyla uzaktan, elleriyle yakından öldüren bir bahemottur. Düşman için yenilmez bir kâbus, Sultanlık için ise hem bir gurur kaynağı hem de yaratılışın sınırlarını zorlamanın canlı bedelidir. Tunç gövdesi parladığında, savaş alanında kimin gerçek güç olduğu bir an için tartışmasız hâle gelir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Cabirî Simyacıların ikinci en önemli Takwin homonkulusu
 - Ağır silah ve top taşıyacak güç ve dayanıklılıkla yaratılır

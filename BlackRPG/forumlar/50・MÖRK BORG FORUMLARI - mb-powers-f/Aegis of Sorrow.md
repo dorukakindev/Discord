@@ -1,24 +1,27 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
-# Aegis of Sorrow — Kederin Kalkanı
 
-Seçilen bir yaratığa maksimumunun üzerine geçici ek can bahşeden koruyucu mucize; gelecek darbeleri emen bir keder zırhı örer.
+# Aegis of Sorrow — Keder Kalkanı, Çürümeden Örülen Zırh
 
-- **Tür:** Kutsal Parşömen
+Okuyanın bedenini görünmez, lanetli bir koruyucu kederle saran kara büyü; gelen darbeleri emen ama taşıyana karanlık bir ruhsal ağırlık yükleyen savunma mucizesi.
 
-Kederin Kalkanı (Aegis of Sorrow), savaşa girmeden önce okunan koruyucu bir kutsal parşömendir. Mucize tetiklendiğinde, seçilen bir yaratık 10 tur boyunca 2d6 değerinde ek HP kazanır; bu ek can, karakterin normal can maksimumunun da üzerine binebilir. Yani bu mucize iyileştirmez, onun yerine gelecek hasarı emecek geçici bir tampon, görünmez bir keder zırhı örer. Bu zırh tükendiğinde ya da on tur dolduğunda etkisi söner.
+- **Tür:** Kirli Parşömen
+- **Köken:** Mörk Borg kirli parşömen kanonu
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Oyun-içi kullanımı esas olarak öngörülü oyuncular içindir. Bir kapıyı açmadan, bir yaratığa saldırmadan ya da bilinen bir tehlikeye dalmadan hemen önce okunduğunda, bu parşömen grubun en kırılgan ya da en hayati üyesini birkaç tur boyunca çok daha dayanıklı kılar. Mörk Borg'un acımasız hasar matematiğinde 2d6 ek HP, bir karakterin tek bir ölümcül darbeden sağ çıkması ile yere serilmesi arasındaki farkı yaratabilir. Etkinin süreli olması, onu doğru anı kollayan taktiksel bir araca dönüştürür.
+## Kayıt
 
-İsmindeki keder, Mörk Borg'un melankolik dünya görüşünü yansıtır: bu koruma bir zafer vaadi değil, kaçınılmaz acıya karşı geçici bir erteleme gibi sunulur. Kalkan örülür çünkü dünya yıkıcıdır, çünkü darbe mutlaka gelecektir. Diğer tüm güçler gibi, okuyanın bu kederli zırhı çağırabilmesi için DR12 zorluğunda bir Presence testini geçmesi, başarısızlıkta ise d2 HP kaybedip bir saat sersemlemesi gerekir.
+Keder Kalkanı (Aegis of Sorrow), Mörk Borg'un kirli parşömenleri arasında nadir bir savunma büyüsüdür; çoğu kara büyü yıkmaya, eritmeye ve kavurmaya yönelikken, bu mucize korumak içindir, ama korumasını bile karanlıktan örer. Bu parşömeni okuyan maceracı, kendini görünmez bir kederin içine sarar; bu, kutsal bir ışık kalkanı değil, çürümeden, yastan ve gölgeden dokunmuş lanetli bir zırhtır. Gelen darbeler bu kalkanla karşılaştığında soğurulur, yumuşar, etkisini yitirir; sanki büyücünün taşıdığı keder, kendisine yönelen şiddeti içine emiyormuş gibi.
 
-Bu parşömenin gerçek değeri, onu kimin üzerine okuduğunu seçebilme özgürlüğünde de yatar. Etki okuyanın kendisiyle sınırlı değildir; grubun en cesur savaşçısı, en kırılgan büyücüsü ya da bir çıkmazda öne atılması gereken kişi bu geçici zırhla donatılabilir. Mörk Borg'un can puanlarının çoğu zaman tek haneli olduğu acımasız ölçeğinde, 2d6 ek HP bazen bir karakterin can puanını ikiye katlamaya yakındır; bu da onu basit bir tampon değil, neredeyse ikinci bir hayat gibi kılar. On turluk süre, tipik bir Mörk Borg çatışmasının büyük bölümünü kapsayacak kadar uzun, ama dikkatsizce harcanmayacak kadar da kısadır. Kederin kalkanı tükendiğinde geride hiçbir iz bırakmaz; sadece, bir an için ertelenmiş acının kaçınılmaz biçimde geri döneceği hissini bırakır, ki bu da parşömenin melankolik ismine sadık kalır.
+Bu parşömen, ölmek üzere olan bir maceracıya can simidi olabilir. Mörk Borg'un dünyasında savaşlar hızlı ve ölümcüldür; tek bir kötü zar atışı bir karakteri öldürebilir. Keder Kalkanı, böyle bir anda büyücünün etrafına geçici bir savunma örer, gelen ölümcül vuruşları emer ve ona hayatta kalmak için kısa ama değerli bir pencere açar. Bir büyücü, kara büyüsünü saldırı için değil, kendini sonun eşiğinden geri çekmek için kullanabilir.
 
-## Etkiler
+Ama bu kalkan, lanetli kaynağına ihanet eder. Keder Kalkanı'nı örmek, okuyanın ruhuna karanlık bir ağırlık yükler; çünkü çürümeden bir zırh örmek, o çürümeyi bir an için kendi içine davet etmek demektir. Ve her kirli parşömen gibi, okuma başarısız olursa, kalkan örülmek yerine büyücünün üzerine çöker. Aegis of Sorrow, Mörk Borg'da karanlığın bile bir sığınak olabileceğini temsil eder: kederden örülmüş, ölümü bir an için geciktiren, ama her korumasında taşıyanın ruhuna biraz daha gölge bulaştıran lanetli bir savunma büyüsüdür.
 
-- Bir yaratık 10 tur boyunca 2d6 ek HP kazanır
-- Ek can normal maksimumun üzerine biner
-- Zorlu dövüşlerden önce kalkan görevi görür
-- Önemli bir savaşçıyı kısa süre dayanıklı kılar
-- Okumak Presence DR12 testi ister
+## Güçler
+
+- Okuyanın çevresine lanetli, koruyucu bir keder zırhı örer
+- Gelen fiziksel saldırıların hasarını bir süre azaltır ya da emer
+- Kutsal koruma değil, çürümeden ve kederden örülmüş bir kalkandır
+- Okumak Presence testi ister, başarısızlıkta okuyan zarar görür
+- Savunmasız bir büyücüyü kısa süreliğine ayakta tutan kara büyü
 
 -# Kaynaklar: MÖRK BORG core rulebook + Mitolojidata derlemesi

@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Unclean Scrolls — Kirli Parşömenler, Çürümenin Kara Büyüsü
 
 Tanrılara değil, çürümeye ve karanlığa seslenen yasak büyü tomarları; daha vahşi mucizeler vaat eden ama okuyanın bedenini ve aklını yavaşça kemiren lanetli sözler.
 
 - **Tür:** Kirli Parşömen
 - **Köken:** Yasak okült bilgiyle yazılmış kara büyü tomarları
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kirli Parşömenler (Unclean Scrolls), Mörk Borg'un kutsal parşömenlerinin karanlık ikizleridir; aynı kâğıdı, aynı mürekkebi paylaşırlar ama bambaşka bir kaynaktan güç çekerler. Bu tomarlar tanrılara dua etmez; bunun yerine dünyanın çürüyen özüne, gölgelere ve yasak okült bilgiye seslenirler. Bir kirli parşömeni okuyan maceracı, bir düşmanın etini canlıyken eritebilir, ölüleri mezarlarından çağırabilir ya da çevresindeki her şeyi bir çürüme dalgasıyla sarabilir. Bu büyüler, kutsal kardeşlerinden çoğu zaman daha vahşi ve daha doğrudan yıkıcıdır.
 

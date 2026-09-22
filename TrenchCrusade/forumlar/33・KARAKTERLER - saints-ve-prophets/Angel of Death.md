@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/a0/Giovanni_Ba
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/a/a0/Giovanni_Battista_Tiepolo_096.jpg/revision/latest/scale-to-width-down/900?cb=20260618172901)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Angel of Death — Ölüm Meleği, Tanrı'nın Yakıp Yıkan Habercisi
 
 Tanrı'nın elçisi olan meleklerden biri; varlığı ölümlüleri buharlaştıran ya da delirten yakıcı ilahi ışık; Beelzebub'un takipçilerinin ilk doğanlarını çevreyi yok etmeden vuran, cerrahi dehşetin meleği.
 
 - **Tür:** Melek
 - **Bağlılık:** İlahi
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Ölüm Meleği (Angel of Death), Trench Crusade'de Cennet'in Yeryüzü'ne uzanan en korkunç ve en saf elçilerinden biridir. Bu evrende melekler, gökyüzünden zafer içinde inen kanatlı tesellilerle değil; ölümlü kavrayışın çok ötesinde, dehşet verici bir tanrısallıkla temsil edilir. Bir melek, Tanrı'nın habercisidir; ama o haberci öyle ilahi bir güçle yüklüdür ki, salt varlığı bile geniş bir alandaki herkesi, ister Faithful ister Heretic olsun, bir anda buharlaştırabilir. Bu kadar yıkıma rağmen hayatta kalabilen az sayıdaki kişi ise, o saf arılığa dayanamayarak akıl sağlığını yitirir; çünkü ilahi olanı çıplak gözle görmek, ölümlü zihnin kaldıramayacağı bir yüktür.
 

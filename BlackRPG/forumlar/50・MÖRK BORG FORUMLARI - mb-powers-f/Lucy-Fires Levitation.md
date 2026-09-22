@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Lucy-Fires Levitation — Lucy-Ateşlerinin Havalanışı
 
 Okuyanın kısa bir süre havada süzülmesini sağlayan levitasyon mucizesi; uçurumları aşmak ve düşmekten kaçınmak için kullanılır.
 
 - **Tür:** Kirli Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Lucy-Ateşlerinin Havalanışı (Lucy-Fires Levitation), okuyanın bedenini yerden kaldırıp havada süzülmesini sağlayan kirli bir parşömendir. Mucize tetiklendiğinde okuyan, Mevcudiyet (Presence) değerine bir d10 eklenerek bulunan sayı kadar tur boyunca havada asılı kalır. Bu, bir uçuş büyüsü değildir; daha çok dünyanın çekiminden geçici bir kurtuluş, kontrollü bir süzülmedir, ama Mörk Borg'un ölümcül arazilerinde bu bile hayat kurtarır.
 

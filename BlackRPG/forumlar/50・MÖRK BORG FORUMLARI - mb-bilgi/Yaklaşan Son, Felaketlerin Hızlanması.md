@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Yaklaşan Son, Felaketlerin Hızlanması
 
 Miseries'in art arda gerçekleşmeye başlaması, kıyamet işaretlerinin çoğalması ve son gecenin eşiğine gelinmesi.
 
-
+- **Era:** Yaklaşan Son
 - **Dönem:** Yaklaşan Son
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Geri sayan saatin son çentikleri yaklaşırken, felaketler artık tek tek değil, dalgalar halinde gelmeye başlar. Yaklaşan son, Miseries'in hızlandığı çağdır; bir zamanlar yıllar arayla gelen felaketler, artık aylar, haftalar, hatta günler arayla patlak verir. İsimsiz Kutsal Metinler'de yazılı olan her şey, gözlerin önünde gerçekleşir. Gökyüzü kararır, sular kana döner, ölüler huzursuzlanır ve toprak inler. Her yeni felaket, bir öncekinin yarasını henüz sarmaya fırsat bulamadan üstüne biner; ve dünya, çoklu yaraların kanaması altında çöker.
 

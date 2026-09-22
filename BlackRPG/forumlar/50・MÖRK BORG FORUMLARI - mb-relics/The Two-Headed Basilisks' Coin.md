@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # The Two-Headed Basilisks' Coin — Çift Başlı Bazilisklerin Sikkesi, Kara Şans Parası
 
 İki başlı bir yılan kabartmasıyla işlenmiş tunç sikke; atıldığında kaderi büken, ama her bükdüğü kaderle taşıyana karanlık bir borç biriktiren uğursuz bir okült para.
 
 - **Tür:** Lanetli Eşya
 - **Köken:** Mörk Borg dünyasının lanetli para birimi / okült sikke
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Çift Başlı Bazilisklerin Sikkesi (The Two-Headed Basilisks' Coin), Mörk Borg'un kehanet ve lanet dolu dünyasında, şansın bile zehirlenmiş olduğunun bir kanıtıdır. Bu küçük tunç sikkenin yüzeyine iki başlı bir yılan, bir bazilisk kabartılmıştır; iki ayrı yöne bakan o iki baş, paranın doğasını anlatır: hiçbir lütfu tek yönlü değildir, her kazancın karşısında bir kayıp durur. Mörk Borg'un mitolojisinde İki Boynuzlu Yılan, dünyanın sonunu getiren lanetli güçtür; ve bu sikke, onun gölgesinde dövülmüş gibidir.
 

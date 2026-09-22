@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Archon'lar ve Lictor'lar
 
 Demiurge'ün Yanılsama'yı ayakta tutmak için yarattığı on Archon meleği ve onların ruhsuz uygulayıcıları Lictor'lar.
 
-
+- **Era:** Düzen
 - **Dönem:** Düzen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Yanılsama'yı kuran Demiurge, onu sonsuza dek korumak için bir hiyerarşi tasarladı. Çünkü hapishane kendi başına ayakta duramazdı; tutsakların içindeki tanrısal kıvılcım, her an Yanılsama'yı çatlatma tehlikesi taşıyordu. Bu tehdidi bastırmak için Demiurge on Archon yarattı. Archon'lar onun melekleri, onun komutanları ve Yanılsama'nın taşıyıcı sütunlarıdır. Her biri insan ruhunun ve toplumun bir ilkesini, bir yönünü temsil eder ve denetler; ve her biri o ilke aracılığıyla insanlığı hapis içinde tutar. Onlar gökyüzünün ardındaki şehir olan Metropolis'te hüküm sürer ve oradan tüm Yanılsama'yı gözetirler. Archon'lar kötü niyetli zalimler olarak görünmezler; tam tersine, çoğu zaman düzen, koruma, akıl ya da hukuk kılığında belirirler. Çünkü en etkili zincir, zincir gibi görünmeyen zincirdir.
 
@@ -16,4 +20,4 @@ Archon'lar ve Lictor'lar, Yanılsama'nın iç mantığını oluşturur. Onlar ol
 
 Ama Archon'ların gücü mutlak değildir. Onların var oluş nedeni Demiurge'e hizmet etmekti; ve Demiurge ortadan kaybolduğunda, bu hiyerarşi başsız kaldı. Archon'lar artık ortak bir efendiye değil, kendi hırslarına ve kendi yorumladıkları görevlere hizmet ediyorlar. Bazıları hala Yanılsama'yı sadakatle korur; bazıları ise kendi krallıklarını kurmaya, kendi savaşlarını vermeye başladı. Demiurge'ün yokluğunda Archon'lar arasındaki uyum çatladı, ve bu çatlak, Yanılsama'nın dokusuna da yansıdı. Çünkü bekçiler birbirleriyle savaşırken, hapishanenin duvarları zayıflar. Ve insan ruhundaki o kadim kıvılcım, ilk kez gerçek bir fırsat bulur: perdenin inceldiği bir an, uyanmak için bir aralık.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

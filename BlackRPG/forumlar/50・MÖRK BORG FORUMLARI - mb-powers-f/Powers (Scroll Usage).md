@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Powers (Scroll Usage) — Güçler: Parşömen Okuma Mekaniği
 
 Bir parşömeni okuyup gücünü serbest bırakmanın oyun-içi sistemi: günlük kullanım hakkı, Presence testi ve başarısızlığın bedeli.
 
 - **Tür:** Ritüel
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Mörk Borg'da büyü, ezberlenen formüller ya da kuşaktan kuşağa aktarılan bir gelenek değildir; çürüyen dünyada hayatta kalmış parşömenlerin üzerine kazınmış, tehlikeli ve geri tepen güçlerdir. Bu güçleri (Powers) kullanmanın kendine ait sade ama acımasız bir mekaniği vardır. Karakter her sabah uyandığında, o gün kaç kez güç kullanabileceğini belirlemek için Mevcudiyet (Presence) değerine bir d4 ekler; bu sayı, o günün tüm parşömen okumaları için ortak bir havuzdur. Ruhu güçlü olan daha çok, zayıf olan daha az mucize taşıyabilir.
 

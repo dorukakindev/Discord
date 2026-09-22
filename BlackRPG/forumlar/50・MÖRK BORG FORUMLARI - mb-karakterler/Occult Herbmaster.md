@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Occult Herbmaster — Okült Bitki Ustası
 
 Bitkilerin, mantarların, zehirlerin ve iksirlerin karanlık bilgisinde ustalaşmış bir münzevi şifacı; doğanın çürümüş yüzünden hem deva hem ölüm damıtan, çoğu zaman aklı kendi karışımlarıyla bulanmış bir simyacı.
 
 - **Rol:** Sınıf
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Occult Herbmaster (Okült Bitki Ustası), Mörk Borg'un çürüyen doğasıyla en içli dışlı olmuş sınıfıdır; bitkilerin, mantarların, köklerin, zehirlerin ve iksirlerin karanlık bilgisinde ustalaşmış bir münzevi şifacıdır. Bu dünyanın doğası, bir cennet bahçesi değildir; toprak hastalıklı, gökyüzü solgun, ormanlar çürümüş ve tekinsizdir. İşte Okült Bitki Ustası tam bu çürümüş doğanın içinden bilgisini damıttı; çoğu insanın ürkerek uzak durduğu zehirli mantarları, garip kökleri ve lanetli otları toplayıp onların sırlarını öğrendi.
 

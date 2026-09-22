@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Femur of the Ancients — Kadimlerin Uyluk Kemiği, Ölü Kahramanın Sopası
 
 Çoktan ölmüş bir kahramanın devasa uyluk kemiği; sopa gibi savrulan, ama asıl değeri taşıyanın gücünü ve cesaretini artıran tuhaf, lanetli bir tılsım.
 
 - **Tür:** Tılsım
 - **Köken:** Kadim bir kahramanın mezarından çıkan kemik
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kadimlerin Uyluk Kemiği (Femur of the Ancients), Mörk Borg'un grotesk dünyasında bir tılsımın ne kadar tuhaf ve ne kadar tekinsiz olabileceğinin örneğidir. Bu nesne, çoktan unutulmuş bir çağda yaşamış, devasa bir kahramanın uyluk kemiğidir; bir mezardan, bir tümülüsten ya da bir harabenin derinliğinden çıkarılmış, sararmış ama hâlâ sağlam bir kemik. Onu eline alan bir maceracı, hem kaba bir sopaya hem de garip bir güç kaynağına sahip olur; çünkü bu kemik, sadece bir silah değil, içinde ölmüş bir kahramanın artığını taşıyan bir tılsımdır.
 

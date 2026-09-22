@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/5/5c/Trench-Crus
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/5/5c/Trench-Crusade-Prussian-Sto%C3%9Ftruppens.jpg/revision/latest/scale-to-width-down/900?cb=20250509121117)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Prussian Stosstruppen — Prusya Fırtına Birlikleri
 
 Özgür Prusya Devletleri'nin seçkinleri: el işaretleriyle haberleşip bunkerleri el bombası, alev ve otomatik ateşle basan baskın uzmanları.
 
 - **Fraksiyon:** New Antioch
 - **Rol:** Vurucu Birlik / Nişancı
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Prussian Stosstruppen (Prusya Fırtına Birlikleri), New Antioch'a bağlı Özgür Prusya Devletleri'nin (Free States of Prussia) en seçkin savaşçılarıdır; tabir caizse 'seçkinlerin seçkini'dir. New Antioch Dükü onları, Hiçkimsenin Toprağı'ndaki bir tıkanıklık kırılması ya da kritik bir mevki basılması gerektiğinde göreve çağırır. Onlar müstahkem mevkileri alev ve ateş gücüyle basmanın ustalarıdır; kontrollü saldırganlıkları ve inanılmaz atletizmleriyle seçilirler.
 
@@ -18,7 +22,7 @@ Prussian Stosstruppen (Prusya Fırtına Birlikleri), New Antioch'a bağlı Özg�
 
 Prussian Stosstruppen, Birinci Dünya Savaşı'nın gerçek Alman fırtına birliği taktiklerinin grimdark bir yeniden yorumudur. Onlar cepheyi kırmak için tasarlanmış bir bıçak ucudur: sessiz, hızlı, acımasız ve patlayıcı. Karanlıktan çıkar, bir anlık cehennem koparır ve düşman daha ne olduğunu anlayamadan siperi ele geçirirler. New Antioch için onlar, tıkanmış bir cephenin kilidini açan altın anahtardır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Özgür Prusya Devletleri'nin 'seçkinlerin seçkini' baskın birliği
 - Sessizce, el işaretleriyle, neredeyse tam karanlıkta yaklaşır

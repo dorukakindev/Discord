@@ -1,9 +1,17 @@
+https://static.wikia.nocookie.net/darksun/images/f/f2/Rajaat_fighting_Sadira.jpg/revision/latest/scale-to-width-down/900?cb=20250702234808
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/f/f2/Rajaat_fighting_Sadira.jpg/revision/latest/scale-to-width-down/900?cb=20250702234808)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Rajaat — İlk Sihirbaz, Temizlik Savaşları'nın Mimarı
 
 Athas'ın tüm yıkıcı büyüsünün ve sihirbaz-kralların kaynağı olan kadim varlık; Temizlik Savaşları'nı başlatarak insan dışı ırkları yok etmeye çalışan, sonunda kendi öğrencileri tarafından ihanetle hapsedilen İlk Sihirbaz.
 
 - **Şehir:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Rajaat, Athas'ın tüm karanlığının kaynağında duran kadim ve korkunç varlıktır; İlk Sihirbaz (the First Sorcerer) olarak bilinen, yıkıcı büyünün ve sihirbaz-kralların yaratıcısı. Athas'ın ölmekte olan, çorak ve kavurucu bir dünyaya dönüşmesinin ardındaki en büyük sorumlu odur. Rajaat, çağlar önce büyünün sırlarını keşfeden ilk varlıktı; ama onun öğrettiği büyü, hayatı besleyen değil, sömüren bir büyüydü. Yıkıcı büyü (defiling), çevresindeki tüm yaşamı emerek güç üretir; ve bu büyünün yaygınlaşması, Athas'ın bereketli topraklarını yavaş yavaş bir çöle çevirdi.
 
@@ -13,7 +21,7 @@ Temizlik Savaşları, Athas tarihinin en kanlı ve en yıkıcı dönemiydi; sihi
 
 Kendi yarattığı sihirbaz-krallar, Rajaat'a karşı birleşti ve onu devirmek için ayaklandı. Bu mücadelede, Borys tam bir Ejderha'ya dönüşerek Rajaat'ı yenmeyi başardı ve onu Gri'nin (the Gray), yani ölüler diyarının ötesindeki bir hapse kapattı. Ama Rajaat, yok edilmedi, yalnızca hapsedildi; ve onun bu hapisten kaçma tehdidi, Athas'ın üzerinde sürekli asılı duran kadim bir karabasandır. Rajaat, bütün bir dünyanın çöküşünün ve sihirbaz-kralların kökeninin ardındaki ilk günahı temsil eder; Athas'ın ölmekte olan güneşi altında, her şeyin başladığı korkunç kaynaktır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Lakap: İlk Sihirbaz (the First Sorcerer), Savaş Çıkaran
 - Yıkıcı büyüyü (defiling) keşfeden ve öğreten kadim varlıktır
@@ -21,4 +29,4 @@ Kendi yarattığı sihirbaz-krallar, Rajaat'a karşı birleşti ve onu devirmek 
 - Temizlik Savaşları ile insan dışı ırkları yok etmeye çalıştı
 - Kendi öğrencileri tarafından ihanetle Gri'nin ötesine hapsedildi
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Esoteric Hermit — Ezoterik Münzevi
 
 Dünyadan elini eteğini çekip yasaklı bilgiye gömülmüş, gizli güçlere ve tehlikeli sırlara hükmeden bir münzevi; büyülerin ve okült bileşimlerin ustası, ama insanlara yabancılaşmış.
 
 - **Rol:** Sınıf
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Esoteric Hermit (Ezoterik Münzevi), Mörk Borg'un yasaklı bilgiye en yakın sınıfıdır; dünyanın gürültüsünden, kalabalığından ve sahte tesellisinden elini eteğini çekip kendini gizemlere adamış bir münzevidir. Çoğu insan, kıyametin eşiğinde teselliyi dua, içki ya da inkârda ararken, Ezoterik Münzevi bambaşka bir yola saptı: gerçeği, hatta dünyanın sonunu getiren o korkunç gerçekleri, doğrudan öğrenmeye karar verdi. Mağaralarda, harabelerde, unutulmuş kütüphanelerde ya da çorak bir kulübede, yalnız başına, yıllarca o bilgiyi kovaladı.
 

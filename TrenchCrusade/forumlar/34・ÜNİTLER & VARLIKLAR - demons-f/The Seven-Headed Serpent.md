@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.png/revision/latest/scale-to-width-down/900?cb=20260914184918)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # The Seven-Headed Serpent — Yedi Başlı Yılan, Cehennem'in Yedi Baş İblisi Olan Kozmik Varlık
 
 Her başı bir ölümcül günahı bedenleyen, yedi baş iblisten oluşan kozmik iblis varlığı; Cehennem'in Yaratılış'a karşı yürüttüğü ebedi savaşın en yüksek otoritesi olan canavar.
 
 - **Tür:** İblis
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Yedi Başlı Yılan (The Seven-Headed Serpent), Trench Crusade evreninde Cehennem'in en üst otoritesini bedenleyen kozmik iblis varlığıdır; var olan en kötücül, en kurnaz ve en şeytani yedi baş iblisin (arch-devil) tek bir devasa yılan gövdesinde birleştiği bir dehşet. Yılanın her başı, yedi ölümcül günahtan birini bedenler: gurur, oburluk, gazap, haset, şehvet, açgözlülük ve tembellik. Bu yedi başlı varlık, Cehennem'in tüm Yaratılış'a karşı sürdürdüğü bitmek bilmeyen savaşı yönetir; onun fermanları, Yeryüzü'nde süren Büyük Savaş'ın gidişatını belirler. O, ham güçten çok, yüzyılların biriktirdiği kötücül zekâyı, açlığı ve siyasi ustalığı somutlaştırır.
 

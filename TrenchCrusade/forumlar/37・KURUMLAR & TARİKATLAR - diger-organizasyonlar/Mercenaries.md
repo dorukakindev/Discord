@@ -1,10 +1,14 @@
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Mercenaries — Paralı Askerler, No Man's Land'in Kiralık Bıçakları
 
 No Man's Land'de dolaşan warband'ların zaferi garantilemek için kiraladığı uzman savaşçılar; Ducat'la değil yalnızca Glory (Şan) ile ayartılabilen, İmanlı ya da Sapkın hizalı kiralık güçler.
 
 - **Bağlılık:** Tarafsız
-- **Lider:** Bilinmiyor (bağımsız kiralık savaşçılar)
+- **Önder:** Bilinmiyor (bağımsız kiralık savaşçılar)
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Mercenaries (Paralı Askerler), Trench Crusade dünyasında belli bir ulusa ya da inanca değil, yalnızca kendi çıkarlarına ve şöhrete hizmet eden bağımsız savaşçılardır. No Man's Land'i ya da diğer savaş alanlarını arşınlayan warband'lar, gelecek çatışmalarda zaferi garanti altına almak için zaman zaman bu paralı askerleri saflarına katar. Onlar, bir warband'a eklenebilen uzmanlaşmış modellerdir; bir oyuncu kadrosunda birden fazla paralı asker bulundurabilir, ama her birinden en fazla bir kopya.
 

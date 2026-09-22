@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/d/de/Gulg-city.jpg/revision/latest?cb=20170320164526
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/d/de/Gulg-city.jpg/revision/latest?cb=20170320164526)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Gulg — Orman Şehri, Lalali-Puy'un Cadı Krallığı
 
 Hilal Ormanı'nın gölgesinde, Sihirbaz-Kraliçe Lalali-Puy'un ağaçlardan ve asmalardan büyüttüğü canlı şehir; doğaya gömülü, kabilevi ve gizemli bir orman uygarlığı.
 
 - **Tür:** Şehir-Devlet
 - **Bölge:** Crescent Forest (Hilal Ormanı) içinde
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Gulg, Athas'ın diğer şehir-devletlerinden çarpıcı biçimde farklı, doğaya gömülü bir orman uygarlığıdır; Hilal Ormanı'nın (Crescent Forest) gölgesinde, Çınlayan Dağlar'ın eteklerine yakın bir konumda yer alır. Taştan ve tuğladan kurulu komşularının aksine, Gulg adeta canlı bir şehirdir; binaları, surları ve yapıları, şehrin Sihirbaz-Kraliçesi Lalali-Puy tarafından ağaçlardan, asmalardan ve büyüyen bitkilerden şekillendirilmiştir. Şehir, ormanın bir uzantısı gibi yeşil ve dirimle örtülüdür, doğanın içinde ve onunla iç içe nefes alır.
 
@@ -22,4 +30,4 @@ Gulg, Athas'ta doğanın ve büyünün tuhaf bir birleşimini temsil eder; ölme
 - Lalali-Puy halkı tarafından tanrıça olarak görülür
 - Nibenay ile köklü düşmanlık içinde
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

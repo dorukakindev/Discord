@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Unmet Fate — Gerçekleşmemiş Kader
 
 Bir haftadan uzun süre ölmemiş bir yaratığı, korkunç anılarla birlikte yeniden uyandıran güçlü diriltme mucizesi; tehlikeli derecede güçlü kabul edilir.
 
 - **Tür:** Kutsal Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Gerçekleşmemiş Kader (Unmet Fate), Mörk Borg'un en güçlü ve en tartışılan kutsal parşömenidir. Mucize, en çok bir hafta önce ölmüş bir yaratığı yeniden hayata döndürür; ölü, bedenine geri çağrılır ve gözlerini açar. Ölümün neredeyse her zaman kalıcı olduğu bu acımasız dünyada, bir yoldaşı mezarın eşiğinden geri çekebilen bir güç, paha biçilmez ve son derece nadirdir. Bu yüzden çok sayıda oyuncu ve eleştirmen bu parşömeni oyunun dengesini zorlayacak kadar güçlü bulur.
 

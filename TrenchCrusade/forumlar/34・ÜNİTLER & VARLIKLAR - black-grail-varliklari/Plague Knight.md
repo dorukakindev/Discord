@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/3/3d/Black_Grail
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/3/3d/Black_Grail_Plague_Knight.jpg/revision/latest/scale-to-width-down/900?cb=20250428024150)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Plague Knight — Veba Şövalyesi
 
 Kara Kâse'yi sakince karşılayıp kadavra benzeri bir varlığa dönüşen, zekâsını ve hafızasını koruyan, Sinek Tarikatı'nın soylu önderi.
 
 - **Fraksiyon:** Black Grail
 - **Rol:** Şampiyon / Ruhban
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Plague Knight (Veba Şövalyesi), Cult of the Black Grail'in (Kara Kâse Tarikatı) soylu önderidir; vebanın getirdiği yıkımı bir lanet değil, bir lütuf olarak karşılayan, en koyu sapkınlardır. Kara Kâse (Black Grail), Beelzebub'un kurguladığı, kurbanlarını yozlaşmayı yayacak birer kaba dönüştüren bir vebadır. Bu salgını gönüllü olarak kucaklayacak kadar yozlaşmış olanlar, Sinek Tarikatı'nın (Order of the Fly) soyluları hâline gelir; warband'lar kurar ve daha aşağı kardeşlerini, her türden yaşamı bulup enfekte etmeye yönlendirirler.
 
@@ -18,7 +22,7 @@ En önemlisi, Veba Şövalyesi dönüşümün ardından zekâsını, bilincini v
 
 Plague Knight, Trench Crusade'in en sinsi kötülüğünü temsil eder: bilinçli, sabırlı ve düşünen bir yozlaşma. O, kıyametin getirdiği çürümeyi bir armağan gibi taşıyan, ölü ve diri arası bir soyludur. Onun korkunçluğu, vahşetinde değil, sükûnetindedir; çünkü o, ne yaptığını tam olarak bilir. Sinek Tarikatı'nın bu kadavra-şövalyesi, Beelzebub'un sessiz elçisidir; her temasıyla yaşamı bir veba yatağına çeviren, hafızası ve aklı bütün, ama ruhu çoktan ölmüş bir karanlık önderdir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Sapkınlığın en koyusu, Sinek Tarikatı'na (Order of the Fly) kabul edilir
 - Kara Kâse gelince sakince çıkıp yozlaşma dalgasını karşılar

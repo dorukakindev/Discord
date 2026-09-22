@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/1/14/Ringing_Mountains.png/revision/latest?cb=20230427094031
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/1/14/Ringing_Mountains.png/revision/latest?cb=20230427094031)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Ringing Mountains — Çınlayan Dağlar, Tablelands'in Batı Suru
 
 Tablelands'i batıdan çevreleyen devasa dağ silsilesi; eteğinde Tyr şehrini ve ötesinde vahşi Forest Ridge ormanını barındıran, bölgeyi bilinmeyen batı diyarlarından ayıran doğal duvar.
 
 - **Tür:** Dağ
 - **Bölge:** Tablelands'in batı sınırı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Çınlayan Dağlar (Ringing Mountains), Athas'ın Tablelands bölgesini batıdan çevreleyen devasa bir dağ silsilesidir; bölgenin en belirgin coğrafi sınırlarından birini oluşturur. Bu yüksek ve sarp dağlar, Tablelands'in tanıdık şehirleriyle, ötelerindeki vahşi ve büyük ölçüde bilinmeyen batı diyarlarını birbirinden ayıran doğal bir duvar gibidir. Adlarını, zaman zaman zirvelerinden ve geçitlerinden yükseldiği söylenen tuhaf, çınlayan seslerden alırlar; bu sesler, dağlara gizemli ve tekinsiz bir hava katar.
 
@@ -22,4 +30,4 @@ Dağların batı yamaçlarında, Tablelands'in kurak manzarasından çarpıcı b
 - Tablelands ile bilinmeyen batı diyarlarını ayırır
 - Adını dağlardan yükselen tuhaf seslerden alır
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench-Crus
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench-Crusade-Shrine-Anchorite.jpg/revision/latest/scale-to-width-down/900?cb=20250428001617)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Anchorite Shrine — Münzevi Mihrabı
 
 On iki ayak boyunda, neredeyse her hasara bağışık yürüyen savaş mihrabı; içi dikenlerle kaplı, durmadan acı çeken bir keşiş tarafından sürülür.
 
 - **Fraksiyon:** Trench Pilgrims
 - **Rol:** Canavar / Makine Zırhı
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Anchorite Shrine (Münzevi Mihrabı), Trench Pilgrims'in savaş alanına sürdüğü en dayanıklı ve en korkunç varlıktır; yürüyen, canlı bir savaş mihrabıdır. Yaklaşık on iki ayak (3,5 metre) boyundaki bu metal bahemot, neredeyse her türlü hasara tümüyle bağışıktır; düşman silahları onun kalın zırhına çarpıp etkisiz kalır. O, savaş alanında ağır ağır ilerleyen, durdurulması neredeyse imkânsız bir kutsal kale, hareket eden bir tapınaktır. Kadim bir makine zırhı (machine armour) geleneğinin mirasçısıdır.
 
@@ -18,7 +22,7 @@ Bu canlı mihraplar bazen Procession'lara (Alaylara) katılır ve onları kutsar
 
 Anchorite Shrine, Trench Pilgrims felsefesinin en uç noktasıdır: gönüllü acının, bedenin reddinin ve imanın ete karşı zaferinin somut hâli. İçindeki keşiş, dünyevî her şeyden vazgeçmiş, kendini sonsuz bir işkence kabinine kapatmış ve bütün varlığını savaşa adamış bir azizdir. O, yürüyen bir çelişkidir: dışından yenilmez, içinden parçalanan; bir kale ve bir işkence aleti; hem bir tapınak hem de bir mezar. Anchorite Shrine, acının kutsandığı bir dünyanın gümbürdeyen, dikenli ve durdurulamaz yüzüdür.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - On iki ayak (yaklaşık 3,5 metre) boyunda metal bir bahemot
 - Yürüyen, canlı bir savaş mihrabı; neredeyse her hasara bağışık

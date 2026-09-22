@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Nibenay (Gölge Kral) — Gölge Kral, Münzevi Sihirbaz-Kral
 
 Adını taşıdığı Nibenay şehrini perde arkasından yöneten, son derece münzevi ve gizemli sihirbaz-kral; nadiren halkın önüne çıkan, şehrini rahibe-eşleri Templar'lar aracılığıyla idare eden, ejderhalaşma yolundaki kadim bir yıkıcı büyücüdür.
 
 - **Şehir:** Nibenay
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Nibenay, yani Gölge Kral (the Shadow King), Athas'ın en gizemli ve en münzevi sihirbaz-kralıdır; adını taşıdığı Nibenay şehrinin mutlak hükümdarı, ama halkının neredeyse hiç görmediği bir hayalet gibi yöneten bir yıkıcı büyücüdür. Diğer sihirbaz-kralların çoğu gösterişli saraylarda ve kalabalıkların önünde hüküm sürerken, Gölge Kral kendini perdelerin ardına çeker; o, gölgelerden hükmeden, sırlarına gömülmüş ve kendi düşüncelerine kapanmış bir münzevidir. Bu gizlilik, onu hem korkutucu hem de tahmin edilemez kılar.
 
@@ -13,7 +17,7 @@ Nibenay şehri, kralının gizemli doğasını yansıtan bir yerdir; taş oymala
 
 Gölge Kral, komşu şehir-devleti Gulg'un kraliçesi Lalali-Puy ile sürekli bir rekabet içindedir; iki hükümdar arasındaki gerilim, bölgenin siyasi dengesini sürekli kıpır kıpır tutar. Nibenay, gizliliğin ve gölgeden hükmetmenin gücünü temsil eder; nadiren görünen, ama her şeyi gören bir tiran. Onun hikayesi, Athas'ta gücün her zaman bir taht üzerinde değil, kimi zaman gölgelerin ardında ve sessizliğin içinde tutulduğunu gösterir. Gölge Kral, Nibenay'ın taş duvarları ardında, sabırla ve sessizce ejderha olmayı bekler.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Lakap: Gölge Kral (the Shadow King), en münzevi sihirbaz-kral
 - Nibenay şehrini perde arkasından, nadiren görünerek yönetir
@@ -21,4 +25,4 @@ Gölge Kral, komşu şehir-devleti Gulg'un kraliçesi Lalali-Puy ile sürekli bi
 - Komşusu Gulg'un kraliçesi Lalali-Puy ile sürekli rekabet halindedir
 - Ejderhalaşma sürecinde ilerleyen kadim ve gizemli bir büyücüdür
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

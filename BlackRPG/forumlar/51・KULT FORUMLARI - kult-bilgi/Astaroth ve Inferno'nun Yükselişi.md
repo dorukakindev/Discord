@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Astaroth ve Inferno'nun Yükselişi
 
 Demiurge'ün ikizi Astaroth'un karanlık diyarı Inferno, Ölüm Melekleri ve acı yoluyla işleyen ikinci hapishane.
 
-
+- **Era:** Karanlık Ayna
 - **Dönem:** Karanlık Ayna
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Yanılsama tek başına insan ruhunu tutsak etmeye yetmedi. Çünkü düzenin, akıl ve uyuşukluğun zinciri kırılgandır; bazı ruhlar acıyla, korkuyla ve yozlaşmayla daha sıkı bağlanır. İşte bu yüzden Yanılsama'nın bir karanlık ikizi vardır: Inferno. Inferno, Yanılsama'nın yozlaşmış, çürümüş yansımasıdır; düzen yerine acı, uyuşukluk yerine azap, sahte huzur yerine saf dehşet üzerine kuruludur. Eğer Yanılsama insanı tatlı bir rüyayla uyutuyorsa, Inferno onu bir kabusla esir alır. İkisi de aynı hapishanenin parçasıdır; biri parlak ve düzenli görünür, diğeri karanlık ve kaotiktir, ama her ikisi de insan ruhunun gerçek tanrısallığını bastırmaya hizmet eder. İnsan, Yanılsama'nın huzurundan kaçtığında çoğu zaman Inferno'nun azabına düşer; çünkü hapishanenin iki yüzü vardır ve ikisi de bir tutsağı serbest bırakmaz.
 
@@ -16,4 +20,4 @@ Inferno'nun en sinsi yanı, bir ceza yeri gibi görünmesine rağmen aslında bi
 
 Astaroth ile Demiurge arasındaki ilişki, Kult kozmolojisinin en derin gizemlerinden biridir. İkisi ikizdir, ama düşman mıdır, suç ortağı mıdır, yoksa aynı varlığın iki yüzü müdür, bu belirsizdir. Demiurge'ün kayboluşundan sonra Astaroth'un gücü arttı; çünkü düzen zayıfladıkça kaos güçlenir, ışık çekildikçe gölge yayılır. Bazıları Inferno'nun, Demiurge'ün yokluğunda Yanılsama'yı tümüyle yutmaya çalıştığını söyler. Bir hapishane çökerken, içindeki en karanlık güçler özgür kalır; ve Astaroth, bu çöküşten en çok yararlanan varlıktır. İnsanlık iki yanlış-tanrı arasında, düzen ile kaos arasında, Yanılsama ile Inferno arasında sıkışmış durumdadır; ve gerçek kurtuluş, ikisinden de kaçıp kayıp tanrısallığa geri dönmektir.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Passion Magic — Tutku Büyüsü
 
 Dizginlenmemiş tutkuda yatan gücü keşfeden disiplin; büyücü arzuları alevlendirebilir, bedenleri yaratıp biçimlendirebilir ve fısıldanmış sözlerle saplantı fırtınaları tutuşturabilir, ama yönlendirdiği tutkuların kendisini yutması riskini taşır.
 
 - **Tür:** Lore Disiplini
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Tutku Büyüsü (Passion Magic), Kult: Divinity Lost'ta ham, dizginlenmemiş duygunun ve arzunun gücünü keşfeden disiplindir; sevginin, şehvetin, öfkenin ve saplantının altında yatan o ilkel yaratıcı kudreti bir kaldıraç gibi kullanır. Tutku büyücüsü, insanı en çok hareket ettiren şeyin akıl değil arzu olduğunu bilir; ve bu arzuyu alevlendirebilir, yönlendirebilir, bir fısıltıyla bir kalbe saplantı fırtınaları tutuşturabilir. Daha da ötesi, bu disiplin bedenin kendisi üzerinde güç verir: büyücü bedenleri yaratabilir, biçimlendirebilir, dönüştürebilir, hatta canlı varlıkları melezleyerek yeni ve doğaya aykırı biçimler kurabilir.
 
@@ -19,4 +23,4 @@ Tutku Büyüsü'nün riski, ateşle oynamanın doğasında yatar. Tutkuyu bir ar
 - Canlı varlıkları melezleyip yeni biçimlere sokmak
 - Yaşamın ham yaratıcı gücünü ritüelle yönlendirmek
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

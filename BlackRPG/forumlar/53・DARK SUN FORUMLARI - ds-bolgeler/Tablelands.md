@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/4/4c/Tablelands.png/revision/latest/scale-to-width-down/900?cb=20230428082450
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/4/4c/Tablelands.png/revision/latest/scale-to-width-down/900?cb=20230428082450)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Tablelands — Masa Toprakları, Şehirlerin Bölgesi
 
 Yedi büyük şehir-devletin bulunduğu, Athas'ın en bilinen ve en yoğun yerleşilmiş çorak bölgesi; kumlu çöller, tuz düzlükleri ve seyrek vahalarla kaplı Tyr Bölgesi'nin merkezi.
 
 - **Tür:** Çöl
 - **Bölge:** Athas'ın orta kesimi, Tyr Bölgesi
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Tablelands, Athas'ın orta kesiminde yer alan, gezegenin en bilinen ve en yoğun yerleşilmiş bölgesidir; çoğu zaman Tyr Bölgesi olarak da anılır, çünkü yedi büyük şehir-devletin tamamı burada bulunur. Çorak ve acımasız bir manzaraya sahip olan Tablelands, kumlu çöllerden, çatlamış kaya düzlüklerinden, geniş tuz ovalarından ve seyrek vahalardan oluşur. Bu zorlu coğrafya, Athas'ın ölmekte olan dünyasının tipik bir kesitidir; yaşamın hayatta kalmak için kıyasıya mücadele ettiği, suyun ve gölgenin paha biçilmez olduğu bir diyardır.
 
@@ -22,4 +30,4 @@ Tablelands, Athas'ın kalbi ve dünyanın en iyi bilinen yüzüdür; çorak güz
 - Seyrek vahalar ve göçebe kabileler barındırır
 - Çınlayan Dağlar ve Silt Denizi ile çevrelenir
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

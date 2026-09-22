@@ -1,16 +1,29 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
-# Elysium — Yanılsama'nın Bir Adı, Sahte Dünyanın Diyarı
 
-Yanılsama'nın kapsadığı sahte gerçeklik diyarına verilen ad; insanlığın hapsedildiği, tanrısal hakikatten kopmuş gündelik dünyanın kozmolojik karşılığı.
+# Elysium — Yanılsama, İnsanlığın Görünmez Hapishanesi
 
-- **Kategori:** Kozmoloji
+İnsanlığın gerçek sandığı dünya; aslında Demiurgos tarafından bizi kendi tanrısallığımızdan koparmak için kurulan devasa bir yanılsama hapishanesi. Yanılsamanın perdesi gitgide incelmektedir.
 
-Elysium, Kult: Divinity Lost evreninde Yanılsama'nın kapsadığı sahte gerçeklik diyarına verilen addır; insanlığın içine hapsedildiği, gerçek sandığımız gündelik dünyanın kozmolojik karşılığıdır. Kult'un kozmolojisinde, algıladığımız bu dünya, var olan tek diyar değildir; o, perdelerle ayrılmış katmanlı bir gerçekliğin yalnızca en yüzeysel ve en yanıltıcı tabakasıdır. Elysium, işte bu en dış katmandır; Demiurge'ün insan ruhlarını tanrısallıklarından uzak tutmak için kurduğu, kurallarla, sınırlarla ve sahte bir düzenle örülü diyardır.
+- **Tür:** Yanılsama
+- **Ruler:** Demiurgos (artık kayıp)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Elysium'da yaşamak, bir rüyanın içinde yaşamaya benzer. Burada her şey tanıdık ve sıradan görünür; şehirler, işler, yasalar, ilişkiler ve ölüm, hepsi gerçek ve değişmez kabul edilir. Ama bu sıradanlık, tam da Yanılsama'nın işlevidir; insanları meşgul, uyuşuk ve uykuda tutmak, onların ardındaki dehşet verici hakikati görmelerini engellemektir. Elysium'un sakinleri, gerçek doğalarının tanrısal olduğunu unutmuş, kendilerini sıradan ve ölümlü varlıklar sanan, kayıp tanrılardır.
+## Kayıt
 
-Elysium, kozmik haritada öteki diyarlardan ince ama güçlü perdelerle ayrılır. Onun üstünde, gerçekliğin daha derin ve daha karanlık katmanları uzanır: harap olmuş gerçek dünya Metropolis, ve acının diyarı Inferno gibi yerler. Yanılsama zayıfladığında ya da bir kişi Uyandığında, Elysium'un duvarları incelir ve bu öteki diyarlar sızmaya başlar. Elysium, Kult evreninde rahat ama sahte olan esaretimizi temsil eder; en konforlu hapishanenin, mahkûmun hapiste olduğunu bilmediği hapishane olduğunu, ve gündelik hayatın tanıdık yüzünün ardında, çok daha eski ve çok daha gerçek bir dünyanın gizlendiğini gösterir.
+Elysium, Kult evreninin temel yalanıdır; içinde yaşadığımızı sandığımız, her gün uyandığımız, sıradan ve katı görünen bu dünyanın gerçek adı. Sokakları, şehirleri, yasaları, bilimi ve mantığıyla bize sarsılmaz biçimde gerçek gelen her şey, aslında bir Yanılsama'dır (the Illusion). Elysium gerçek bir yer değil, bir örtüdür; insanlığın gözlerinin önüne çekilmiş, dokusu kusursuzca işlenmiş devasa bir perdedir. Bu perdenin amacı tek bir şeydir: bizi olduğumuz şeyden, yani kendi unutulmuş ilahi doğamızdan habersiz tutmak.
 
--# Çapraz: Yanılsama'nın oluşturduğu sahte gerçeklik diyarıdır · İnsanlığın hapsedildiği gündelik dünya budur · Metropolis ve Inferno gibi öte diyarlardan perdeyle ayrılır
+Kult kozmolojisine göre insanlık bir zamanlar tanrısaldı; sınırsız, özgür ve yaratıcı varlıklardık. Demiurgos adı verilen güç, bizi bu tanrısallıktan koparmak ve hükmedilebilir, uyuşuk kullara dönüştürmek için Elysium'u kurdu. Zaman, mekân, ölüm, acı ve unutuş, bu hapishanenin duvarlarıdır. İnsan, doğumdan ölüme kadar bu yanılsamanın içinde döner durur, ardındaki gerçeği asla görmeden. Bizi tutsak eden parmaklıklar demirden değil; alışkanlıktan, korkudan ve gündelik hayatın hipnotik tekrarından örülmüştür.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+Ama Elysium artık eskisi kadar sağlam değildir. Onu ören ve sürdüren Demiurgos kaybolmuştur; perdeyi gözeten el artık yoktur. Bu yüzden Yanılsama gitgide incelmekte, dokusunda çatlaklar belirmektedir. Travma, çılgınlık, aşırı acı, tutku ya da arınmış bir farkındalık, bireyin gözündeki perdeyi yırtabilir; ve perde bir kez yırtıldığında, insan ardındaki gerçek dünyanın dehşetini görmeye başlar. Çatlaklardan, normalde fark edemediğimiz varlıklar sızar bizi gözlemeye.
+
+Elysium, Kult'un en derin korkusunu temsil eder: gerçek sandığımız her şeyin bir yalan olabileceğini, ve bu yalanın bizi korumak için değil, tutsak etmek için inşa edildiğini. O bir cennet değil, kusursuz bir zindandır; ve içindeki en büyük tehlike, çoğu insanın özgür olmadığını bilmeden, hapishanesini dünyanın kendisi sanarak yaşamasıdır.
+
+## Özellikler
+
+- Bizim gerçek sandığımız gündelik dünyadır
+- İnsanlığı kendi ilahi doğasından koparmak için kurulmuş bir hapishanedir
+- Yanılsamayı ören ve sürdüren Demiurgos artık ortadan kaybolmuştur
+- Perdesi gitgide inceliyor; çatlaklarından gerçek sızıyor
+- Aborlar (Aborigines) ve sayısız varlık perdenin ardından insanı gözler
+
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

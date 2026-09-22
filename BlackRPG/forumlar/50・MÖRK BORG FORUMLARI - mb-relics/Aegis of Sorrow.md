@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Aegis of Sorrow — Keder Kalkanı, Çürümeden Örülen Zırh
 
 Okuyanın bedenini görünmez, lanetli bir koruyucu kederle saran kara büyü; gelen darbeleri emen ama taşıyana karanlık bir ruhsal ağırlık yükleyen savunma mucizesi.
 
 - **Tür:** Kirli Parşömen
 - **Köken:** Mörk Borg kirli parşömen kanonu
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Keder Kalkanı (Aegis of Sorrow), Mörk Borg'un kirli parşömenleri arasında nadir bir savunma büyüsüdür; çoğu kara büyü yıkmaya, eritmeye ve kavurmaya yönelikken, bu mucize korumak içindir, ama korumasını bile karanlıktan örer. Bu parşömeni okuyan maceracı, kendini görünmez bir kederin içine sarar; bu, kutsal bir ışık kalkanı değil, çürümeden, yastan ve gölgeden dokunmuş lanetli bir zırhtır. Gelen darbeler bu kalkanla karşılaştığında soğurulur, yumuşar, etkisini yitirir; sanki büyücünün taşıdığı keder, kendisine yönelen şiddeti içine emiyormuş gibi.
 

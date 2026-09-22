@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # The Two-Headed Basilisks — İki Başlı Baziliskler, Dünyanın Yaratıcıları
 
 Mörk Borg dünyasını var eden iki başlı yaratıcı tanrılar; bu çürümüş evreni, içindeki tüm acı ve sefaletle birlikte var ettiklerine inanılan kadim güçler.
 
 - **Tür:** Tanrı
 - **Alan:** Yaratılış, Kozmos
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 İki Başlı Baziliskler (the Two-Headed Basilisks), Mörk Borg evreninin yaratıcıları olarak anılan kadim güçlerdir; bu çürümüş, umutsuz ve sona mahkûm dünyayı var edenlerin onlar olduğuna inanılır. Mörk Borg'un karanlık kozmolojisinde her şeyin bir başlangıcı vardır; ve o başlangıç, bu iki başlı yaratıcıların ellerinde şekillenmiştir. Onlar, dünyayı, gökyüzünü, toprağı ve onun üzerinde acı çeken her şeyi var eden ilk güçlerdir.
 
@@ -14,7 +18,7 @@ Baziliskler'in iki başlı doğası, Mörk Borg'un ikiliğini de yansıtır gibi
 
 İki Başlı Baziliskler, Mörk Borg'un kökenindeki o soğuk gerçeğin somut halidir: bu dünya, sevgiyle değil, kayıtsızlıkla var edilmiştir; ve içindeki tüm sefalet, sonradan gelen bir kaza değil, yaratılışın ta kendisine kazınmış bir kaderdir. Onlar, hem her şeyin başladığı hem de her şeyin sonunu içinde taşıdığı o ilk an; çürümüş bir evrenin, çürümeye mahkûm köküdür.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Dünyayı yaratan kadim, iki başlı tanrısal varlıklar
 - Yaratılışın kaynağı; ama yarattıkları dünya baştan lanetli

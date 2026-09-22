@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Kergüs — Kuzey Bozkırı, Buz Cadılarının Diyarı
 
 Kuzeyin uçsuz bucaksız, soğuk ve çıplak bozkırı; göçebelerin, geyik sürülerinin ve karın altında gizlenen kadim güçlerin hüküm sürdüğü ıssız düzlükler diyarı.
 
 - **Bölge:** Kuzey, açık bozkır ve donmuş düzlükler
 - **Tür:** Bozkır
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kergüs, Mörk Borg dünyasının kuzeyinde uzanan uçsuz bucaksız ve ağaçsız bir bozkırdır; ufukla buluşana dek kesintisiz uzanan, soğuk, çıplak ve acımasız bir düzlükler diyarı. Burada ne Sarkash'ın karanlık ormanları ne de Galgenbeck'in kalabalık sokakları vardır; yalnızca rüzgârın hiç durmadan estiği, karın ve donmuş otların örttüğü sonsuz bir açıklık. Kergüs'te gökyüzü insanı ezecek kadar geniştir, ve bu enginlik içinde yolcu küçücük, korumasız ve görünür kalır. Burada saklanacak bir yer, sığınılacak bir gölge, durulacak bir sınır yoktur.
 

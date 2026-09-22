@@ -1,10 +1,14 @@
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Court of the Seven-Headed Serpent — Yedi Başlı Yılan'ın Sarayı, Yedi Ölümcül Günahın Lordları
 
 Her başı bir ölümcül günahı temsil eden yedi baş iblisin meclisi; Göklerle Cehennem arasındaki Misak'ı çiğnemeden iblisleri insan ve hayvanla harmanlayıp dünyayı istila eden seçkin güç.
 
 - **Bağlılık:** Heretic
-- **Lider:** Yedi baş iblis (Infernal War Council); Açgözlülük başı Mammon
+- **Önder:** Yedi baş iblis (Infernal War Council); Açgözlülük başı Mammon
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Court of the Seven-Headed Serpent (Yedi Başlı Yılan'ın Sarayı), Trench Crusade dünyasında Cehennem'in en seçkin ve en hesaplı Sapkın gücüdür. Bu sarayda, Yılan'ın her başı Yedi Ölümcül Günah'tan birini temsil eder. Infernal War Council (Cehennemî Savaş Konseyi), Cehennem'in Yaratılış'a ve Dünya'ya karşı yürüttüğü amansız seferi denetleyen yedi baş iblisten oluşur; bu konsey, hiyerarşinin hizmetindeki tüm infernal güçlere komuta eder. Yedi baş sırasıyla Öfke, Haset, Şehvet, Gurur, Tembellik, Oburluk ve Açgözlülük'tür; bunların arasından yalnızca Mammon'un, tüm Büyük Savaş boyunca Açgözlülük başı olarak neredeyse hiç kesintisiz bir iktidar sürdürdüğü söylenir.
 

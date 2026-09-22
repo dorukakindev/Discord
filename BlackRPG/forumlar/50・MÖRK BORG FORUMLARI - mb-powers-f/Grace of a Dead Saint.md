@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Grace of a Dead Saint — Ölü Bir Azizin Lütfu
 
 Ölmüş bir azizin solan lütfunu çağırarak yakındaki yaralıları iyileştiren şifa mucizesi; en hayat kurtaran kutsal parşömenlerden biridir.
 
 - **Tür:** Kutsal Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Ölü Bir Azizin Lütfu (Grace of a Dead Saint), Mörk Borg'un kıt ve değerli şifa mucizelerinden biridir. Ölmekte olan dünyada yaralar nadiren iyileşir, ilaç yoktur ve çoğu ölüm geri dönüşsüzdür; işte bu yüzden çoktan ölmüş bir azizin geride bıraktığı solgun lütfu çağıran bu parşömen, bir maceracı grubunun elindeki en kıymetli kâğıtlardan biri olabilir. Okunduğunda, seçilen en fazla iki yaratığın her biri d10 değerinde HP geri kazanır; bu da düşmek üzere olan bir savaşçıyı bir anda yeniden ayağa kaldırabilir.
 

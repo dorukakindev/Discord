@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Wretched Royalty — Sefil Soylu
 
 Bir zamanlar tahta, servete ve unvana sahipken her şeyini yitirmiş, ama kibrini ve hak iddiasını koruyan bir düşmüş aristokrat; sadık (ya da paralı) bir hizmetkâr ile dolaşan, gururlu bir harabe.
 
 - **Rol:** Sınıf
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Wretched Royalty (Sefil Soylu), Mörk Borg'un düşmüş büyüklüğü temsil eden sınıfıdır; bir zamanlar bir tahta, bir servete, bir unvana ve sayısız hizmetkâra sahipken bütün bunları yitirmiş bir aristokrattır. Belki bir saray darbesi, belki bir savaş, belki bir lanet, belki de yalnızca dünyanın kendisinin çürümesi onu bu hâle getirdi; ama her ne olduysa, artık tacı yok, sarayı yok, halkı yok. Geriye kalan tek şey, bir zamanlar olduğu kişinin solgun, acı gölgesi ve hâlâ inatla taşıdığı o devasa kibirdir.
 

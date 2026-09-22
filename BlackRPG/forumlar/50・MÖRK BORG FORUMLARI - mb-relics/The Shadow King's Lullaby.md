@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # The Shadow King's Lullaby — Gölge Kralın Ninnisi, Uyutan Kutsal Söz
 
 Görüş alanındaki tüm yaratıkları derin, doğal olmayan bir uykuya çağıran kutsal ninni; akan suyun ya da çığlığın bozabildiği kırılgan ama güçlü bir mucize.
 
 - **Tür:** Kutsal Parşömen
 - **Köken:** Mörk Borg kutsal parşömen kanonu
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Gölge Kralın Ninnisi (The Shadow King's Lullaby), Mörk Borg'un en güçlü kalabalık kontrol parşömenlerinden biridir; ne bir kılıç ne bir alev, sadece bir uykudur, ama o uyku bütün bir odayı bir anda savunmasız bırakabilir. Bu mucizeyi okuyan bir maceracı, ismi unutulmuş bir gölge kralın eski ninnisini mırıldanır; ve bu sözler, okuyanın görebildiği her yaratığın kulağına bir ağırlık gibi çöker. Etkilenen her yaratık, iradesini sınayan bir test verir, ve başaramayanlar oldukları yere yığılıp doğal olmayan, taş gibi derin bir uykuya dalar.
 

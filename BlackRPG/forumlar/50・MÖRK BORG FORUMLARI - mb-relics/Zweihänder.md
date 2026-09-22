@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Zweihänder — İki Elli Kılıç, Çürüyen Dünyanın Pala-Devi
 
 İki elle taşınan devasa kılıç; Mörk Borg'un en güçlü temel silahlarından biri, yıkıcı hasarı için savaşçısının tüm dikkatini ve iki elini birden isteyen ağır bir pala.
 
 - **Tür:** Silah
 - **Köken:** Ölmekte olan dünyanın temel ağır silahı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 İki Elli Kılıç (Zweihänder), Mörk Borg'un ölmekte olan dünyasında ham gücün en doğrudan ifadesidir. Bu devasa pala, bir insan boyuna yaklaşan uzunluğuyla, iki elin birden kavramasını gerektiren ağırlığıyla, savaş alanının en korkunç temel silahlarından biridir. Oyunun acımasız kurallarında en yüksek hasar basamaklarından birini (d10) vuran bu silah, isabetli bir darbeyle bir düşmanı belinden ikiye bölebilir, bir yaratığı tek hamlede yere serebilir. Mörk Borg'un kanlı, hızlı çatışmalarında, böyle bir hasar potansiyeli ölüm ile zafer arasındaki farktır.
 

@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Inferno — Cehennem, Acının Sonsuz Diyarı
 
 Metropolis'in karanlık yansıması; Astaroth ve Ölüm Melekleri'nin hüküm sürdüğü devasa işkence diyarı. Günahları için cezalandırılacağına inananların öldükten sonra sürüklendiği sonsuz acı şehri.
 
 - **Tür:** Cehennem Diyarı
-- **ruler:** Astaroth ve Ölüm Melekleri
+- **Ruler:** Astaroth ve Ölüm Melekleri
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Inferno, Metropolis'in karanlık ve çarpık yansımasıdır; kadim şehrin acıya, korkuya ve cezaya bürünmüş öteki yüzü. Eğer Metropolis soğuk ve mekanik bir düzenin başkentiyse, Inferno o düzenin altında kaynayan sonsuz acının diyarıdır. Burası devasa, katmanlı ve bitmeyen bir işkence şehridir; mimarisi acıdan, alevden ve umutsuzluktan örülmüştür. Inferno'nun her kıvrımı, içine düşenin en derin korkularını ve suçluluk duygularını ete kemiğe büründürmek için tasarlanmış gibidir.
 
@@ -22,4 +26,4 @@ Inferno, Kult'ta inancın ve suçluluğun yıkıcı gücünü temsil eder; gerç
 - Devasa, katmanlı bir işkence ve acı diyarıdır
 - İnancın ve suçluluk duygusunun gerçeği şekillendirdiği bir kâbus
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Artist — Sanatçı, Perdenin Ardını Gören Farkında
 
 Yaratıcı sezgisiyle gerçekliğin ardındaki şeyleri eserlerine taşıyan Farkında arketip; çoğu zaman ne gördüğünü bilmeden Yanılsama'nın çatlaklarını sanatına yansıtan bir görücü.
 
 - **Kategori:** Farkında (Aware)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Artist (Sanatçı), Kult'un Farkında (Aware) arketiplerinden biridir ve gerçekliğin ardındaki sırra mantıkla değil, sezgiyle yaklaşan bir figürdür. Bu karakter bir ressam, müzisyen, yazar, heykeltıraş ya da başka bir yaratıcı olabilir. Onu özel kılan şey, sıradan insanların göremediğini bir biçimde hissetmesi ve bunu eserlerine dökmesidir. Artist, çoğu zaman ne gördüğünü tam olarak bilmeden, Yanılsama'nın çatlaklarından sızan şeyleri tuvaline, notalarına ya da sayfalarına taşır.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Artist, farkındalığın iradeden bağımsız geldiğ
 - Gördüğü vizyonları her zaman anlamlandıramaz
 - Yirmi Aware arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

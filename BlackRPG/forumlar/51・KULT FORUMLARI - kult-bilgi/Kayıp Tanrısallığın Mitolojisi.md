@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Kayıp Tanrısallığın Mitolojisi
 
 İnsanlığın kayıp tanrısallığından Yanılsama hapishanesine ve Uyanış'ın eşiğine: Kult kozmolojisinin gnostik mirasının tamamı.
 
-
+- **Era:** Köken
 - **Dönem:** Köken
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kult, doğrusal bir insan tarihi anlatmaz; o, gerçekliğin altında akan karanlık bir gnostik mitin kronolojisidir. Bu mitin kalbinde tek bir kayıp gerçek yatar: İnsanlık bir zamanlar gerçek tanrılardı. Sınırsız güce, mutlak özgürlüğe ve kendi kaderini kendi eliyle biçimlendirme yetisine sahiptik. Bu altın çağda hiçbir sınır yoktu, hiçbir yasa bizi bağlamıyordu; gerçekliğin kendisi düşüncemizin ve arzumuzun bir uzantısıydı. Sonra bir şey oldu, ve bu tanrısallık bizden alındı. Kult'un tüm mitolojisi, bu kaybın hikayesini, onu kimin çaldığını ve onu nasıl geri alabileceğimizi anlatır. İçinde yaşadığımız dünya, gördüğümüz gökyüzü, hissettiğimiz beden, hatırladığımız geçmiş, hepsi bir hapishanenin duvarlarıdır; ve biz, kendi tanrısallığını unutmuş tutsaklarız.
 
@@ -16,4 +20,4 @@ Ama kozmik denge bozuldu. Demiurge, hiçbir açıklama bırakmadan, esrarengiz b
 
 İşte Kult'un oyun anlatısı tam da bu eşikte başlar: Uyanış Çağı'nda. Yanılsama'nın çözülmeye başladığı, gerçeğin kanamaya başladığı bu dönemde, bir avuç insan kendi gizli tanrısallıklarını hatırlamaya başlar. Bu yolculuk hem bir kurtuluş vaadi hem de bir lanettir. Çünkü Yanılsama'nın ardındaki gerçeklik dayanılmaz derecede dehşet vericidir; perdenin arkasını görenlerin çoğu deliliğe, paranoyaya ya da yıkıma sürüklenir. Yine de gnostik vaat orada durur: Ascension, yani kayıp tanrısallığa yeniden yükseliş, hapishaneyi kırıp gerçek özüne dönmek hala mümkündür. Kult, dehşet ile aydınlanmanın aynı kapıdan geçtiği bir mittir; uyanmak, hem en korkunç hem de en kutsal eylemdir. Geriye kalan tüm dönemler, bu kozmik trajedinin, yani tanrıların nasıl tutsak edildiğinin ve nasıl yeniden tanrı olabileceğinin kronolojisidir.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

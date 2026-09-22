@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Yedinci Misery ve Dünyanın Sonu
 
 Son felaketin gerçekleşmesi, bilinen dünyanın Sonsuz Deniz'e batması ve her şeyin Nechrubel'in gölgesinde sona ermesi.
 
-
+- **Era:** Dünyanın Sonu
 - **Dönem:** Dünyanın Sonu
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Ve sonunda, geri sayan saatin son çentiği atılır. Yedinci ve son Misery gerçekleşir; ve onunla birlikte, dünya sona erer. Bu, İsimsiz Kutsal Metinler'in en sonunda yazılı olan andır; Nechrubel'in Takvimi'nin tamamlandığı, tüm felaketlerin doruğa ulaştığı ve tüm kehanetlerin gerçekleştiği son. Önceki altı Misery dünyayı çürütmüş, karartmış ve sona bir adım daha yaklaştırmıştı; ama yedincisi, dünyayı bitirir. Bu felaketten sonra bir yarın yoktur; bir sonraki gece yoktur; bir kurtuluş yoktur. Yalnızca son vardır.
 

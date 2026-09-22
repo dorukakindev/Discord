@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/Trench-Crusade-Shocktroopers_Fight.webp/revision/latest/scale-to-width-down/900?cb=20250428004206
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/Trench-Crusade-Shocktroopers_Fight.webp/revision/latest/scale-to-width-down/900?cb=20250428004206)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Büyük Savaş: Sekiz Asrın Çamura Saplanmış Bugünü
 
 İmanlı ve sapkın güçlerin tüm cephelerde dev taarruzlara hazırlandığı, siperler ve No Man's Land'in şekillendirdiği çıkmaz.
 
-
+- **Era:** 1914
 - **Dönem:** 1914
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 1914 yılı, Trench Crusade'in "bugünü"dür: tüm bu çağların, ihanetlerin, vebaların ve savaşların gelip döküldüğü an. Tapınak Şövalyeleri'nin kapıyı açmasından sekiz asır sonra, dünya artık birinci bir kıyametin değil, sonsuz bir kuşatmanın içinde yaşıyor. Bu, oyunun Büyük Savaş (the Great War) olarak andığı dönemdir; gerçek tarihin Birinci Dünya Savaşı estetiğini, kara büyü ve dinî dehşetle harmanlayan bir alternatif tablodur. 1914'te hem imanlılar hem de sapkınlar, tarihin gördüğü en büyük taarruz harekâtlarına hazırlanmaktadır.
 

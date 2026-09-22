@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Demiurge'ün Kayboluşu
 
 Demiurge'ün esrarengiz biçimde ortadan kaybolması, Yanılsama'nın çatlamaya başlaması ve bekçilerin başıboş kalması.
 
-
+- **Era:** Boşluk
 - **Dönem:** Boşluk
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kult kozmolojisinin en büyük gizemi ve en yıkıcı dönüm noktası, Demiurge'ün ortadan kaybolmasıdır. Yanılsama'yı kuran, Archon'ları yaratan, insanlığı tutsak eden ve tüm hapishane düzeninin merkezinde duran varlık, hiçbir açıklama bırakmadan, hiçbir iz vermeden ortadan kayboldu. Nereye gittiği, neden gittiği, hala var olup olmadığı bilinmez. Belki kendi yarattığı düzene sıkıldı; belki insanlığın kayıp tanrısallığıyla yüzleşmekten korktu; belki kendisinden daha büyük bir gücün karşısında geri çekildi; belki de hiç yok olmadı, yalnızca saklandı ve bizi izliyor. Hiçbir Archon, hiçbir Ölüm Meleği, hiçbir uyanmış insan bu sorunun gerçek cevabını bilmez. Bilinen tek şey, Demiurge'ün yokluğunun her şeyi değiştirdiğidir.
 
@@ -16,4 +20,4 @@ Demiurge'ün kayboluşu, kozmik bir denge bozulmasıdır. Düzenin merkezi çeki
 
 Ve işte bu boşlukta, Demiurge'ün bıraktığı bu çözülen düzende, insanlık için ilk kez gerçek bir uyanış ihtimali doğdu. Yanılsama o kadar mükemmel örülmüştü ki, Demiurge ayaktayken hiç kimse perdenin ardını göremezdi. Ama şimdi, dokunun inceldiği, çatlakların belirdiği bu çağda, bazı insanlar gerçekliğin kıyısındaki tutarsızlıkları fark etmeye başladı. Demiurge'ün kayboluşu bir felaketti, ama aynı zamanda bir kapıydı. Çünkü en sıkı hapishane bile, bekçisi gittiğinde, içindeki tutsaklara bir aralık sunar. Ve insan ruhundaki o kadim kıvılcım, on binlerce yıldır beklediği bu anı sezdi: uyanma zamanı gelmişti.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

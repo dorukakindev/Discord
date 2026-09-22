@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/b/b8/WorldMapv3.webp/revision/latest/scale-to-width-down/900?cb=20260419132605
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/b/b8/WorldMapv3.webp/revision/latest/scale-to-width-down/900?cb=20260419132605)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Trench Crusade: Bir Dunyaya Acilan Cehennem Kapisi
 
 Tapınak Şövalyeleri'nin ihanetiyle açılan bir yarıktan sekiz asır boyunca akan savaşın tüm kökeni ve evreni.
 
-
+- **Era:** Köken
 - **Dönem:** Köken
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Trench Crusade, bizim tarihimize paralel ama köklü biçimde farklı bir dünyada geçer. Bu evrende 1099 yılında Birinci Haçlı Seferi, tarihle aynı askeri zaferi kazandı: Kudüs alındı. Ama bir avuç Tapınak Şövalyesi, şehrin altındaki mahzenlerde insanlığın hiç dokunmaması gereken bir şeyi buldu; ve açgözlülük ya da iman zayıflığıyla, ya da her ikisiyle birlikte, o şeyle pazarlık etti. Kanonik anlatıda bu an "Nihai Sapkınlık" olarak geçer: şövalyeler kadim bir iblissel eserin yönlendirmesiyle kara büyü ayinleri düzenledi, sonunda yeryüzünün dokusunu yırttılar ve Cehennem'in kapısını araladılar. O açılışa "the Breach" adı verildi; bir geçit değil, gerçekliğin kendisindeki kapanmaz bir yaraydı. Kudüs, üzerine dökülen ateşte ve dehşette yok oldu; ölümlü düzlem ile Cehennem birbirine kanadı ve bir daha ayrılmadı.
 

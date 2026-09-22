@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Fanged Deserter — Dişli Asker Kaçağı
 
 Ordusunu, yeminini ve insanlığının bir kısmını geride bırakmış, ağzı sivri dişlerle dolu, yarı-hayvan bir firari; vahşi, güçlü ve dünyanın sonuna kayıtsız bir savaşçı.
 
 - **Rol:** Sınıf
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Fanged Deserter (Dişli Asker Kaçağı), Mörk Borg'un kaba kuvvete en yakın sınıfıdır; bir zamanlar bir orduya, bir yemine ve belki bir davaya bağlıydı, ama o bağların hepsini kopardı. Şimdi geriye kalan, çürüyen bir dünyada hayatta kalmaya çalışan, ağzı sivri dişlerle dolu, yarı-hayvan bir firaridir. Onu firar etmeye iten şey belki korkaklık, belki bilgelik, belki de yalnızca bir hayvanın tuzaktan kaçma içgüdüsüydü; ama artık önemi yok. Mörk Borg'un kıyamet takvimi işliyor ve bu dünyada sadakat, kahramanlardan çok aptallara yakışan bir lüks haline gelmiş durumda.
 

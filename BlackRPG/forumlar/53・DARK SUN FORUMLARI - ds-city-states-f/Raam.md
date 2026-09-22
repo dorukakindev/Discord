@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/2/2b/Raam_Map.jpg/revision/latest?cb=20170815021424
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/2/2b/Raam_Map.jpg/revision/latest?cb=20170815021424)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Raam — Kalabalık Şehir, Abalach-Re'nin Çürüyen Tahtı
 
 Athas'ın en kalabalık şehir-devleti; Sihirbaz-Kraliçe Abalach-Re'nin zayıflayan ve hoşnutsuz halk üzerinde zorlukla tutunduğu, ayaklanmanın eşiğindeki istikrarsız metropol.
 
 - **Tür:** Şehir-Devlet
 - **Bölge:** Tablelands'in doğu kesimi
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Raam, Athas'ın Tablelands bölgesinin doğu kesiminde yer alan, yedi büyük şehir-devlet içinde en kalabalık olanıdır. Devasa nüfusu, Raam'a hem büyük bir potansiyel güç hem de sürekli bir baş ağrısı kazandırır; bu kadar çok insanı beslemek, su ve kaynak sağlamak, düzeni korumak Athas'ın çorak koşullarında neredeyse imkânsız bir görevdir. Bu yoğun ve hoşnutsuz nüfus, şehri sürekli bir gerginlik ve kargaşa eşiğinde tutar.
 
@@ -22,4 +30,4 @@ Raam, Athas'ta tiranlığın çözülmeye başladığı bir noktayı temsil eder
 - Sürekli ayaklanma ve isyan eşiğinde istikrarsız
 - Yoğun nüfusuyla kaynak ve düzen sorunları yaşar
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

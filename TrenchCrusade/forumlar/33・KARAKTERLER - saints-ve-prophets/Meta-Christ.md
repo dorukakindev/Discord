@@ -3,25 +3,21 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_Vessel.jpg/revision/latest/scale-to-width-down/900?cb=20250428031535)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
-# Meta-Christ — Meta-İsa, Kurtarıcı'nın Klonlanmış Kutsal Bedeni
 
-Kilise'nin tekno-laboratuvarlarında Kurtarıcı'nın eti ve kanından klonlanan mesih figürü; tanrısallığı bozulmadan kalan, ölüleri diriltebilen, Yeni Antakya inancının canlı kalbi olan kutsal varlık.
+# Meta-Christ — Meta-İsa, Kurtarıcı'nın Klonlanmış Eti
 
-- **Tür:** Kutsal Varlık
-- **Bağlılık:** İlahi
+Kurtarıcı İsa'nın klonlanmış et ve kanı; ölüleri diriltebilen ve eti yendiğinde insanı Komünyancı'ya dönüştüren, farklı topluluklarca tapılan güç kaynağı.
 
-Meta-İsa (Meta-Christ), Trench Crusade evreninin en cüretkâr ve en kutsal sırrıdır; Kurtarıcı'nın (Redeemer), yani çarmıha gerilen mesihin eti ve kanından, Kilise'nin gizli tekno-laboratuvarlarında klonlanmış canlı bir mesih figürü. Yeni Antakya Prensliği (Principality of New Antioch), kadim kalıntılardan devşirdiği kutsal dokuyu kullanarak, gerçek mesihin tam klonunu üretmeye çalışırken bir dizi ara kopya, yani Meta-İsa'lar yaratmıştır. Bu evrenin diğer çoğu dehşetinden farklı olarak, bu klonların gerçek tanrısallığının ve iyi doğasının bozulmadan kaldığına inanılır; onlar, karanlık bir dünyada parlayan saf birer ilahi varlıktır.
+- **Kategori:** Din & İman
+- **Kanon Sınıfı:** A — resmî güncel lore
 
-Bir Meta-İsa, sıradan bir savaşçı ya da sembol değildir; o, mucizenin bizzat kendisidir. Söylenceye göre, bir Meta-İsa ölüleri diriltebilir; onun varlığı, inananların yaralarını iyileştirir ve umutsuzlara umut verir. Onun eti ve kanı, en kutsal komünyon ayinine dönüşür: bu kutsal gıdayı yiyip de hayatta kalacak kadar talihli ve dayanıklı olanlar, devasa boyutlu, yaraları kendiliğinden kapanan Komünikant'lara dönüşür. Böylece Meta-İsa, yalnızca bir ibadet nesnesi değil, Yeni Antakya'nın insan-üstü kutsal ordularının da canlı kaynağıdır; onun kanı, Cehennem'e karşı yürüyen her mucizenin ardındaki gizdir.
+## Kayıt
 
-Her Meta-İsa, kendi etrafında bir inanç çekirdeği örer; farklı tarikatlar farklı Meta-İsa'lara tapınır ve onları savaş alanına taşır. Stigmalı Rahibeler, taptıkları Meta-İsa'nın çarmıh yaralarını kendi tenlerinde tezahür ettirir; Trench Pilgrim alayları, onun adına No Man's Land'e yürür. Üçüncü Meta-İsa gibi tek tek figürler, bütün bir savaş gücünün ruhani odağı hâline gelir. Meta-İsa, Trench Crusade'de inancın soyut bir teselli değil, klonlanmış ette ve dökülen kanda somutlaşan elle tutulur bir güç olduğunu temsil eder; ama aynı zamanda korkunç bir soruyu da fısıldar: Kilise bir gün gerçek mesihin klonlamasını tamamlarsa ne olacak, ve insan eliyle üretilmiş bir tanrısallık gerçekten saf kalabilir mi? O, bu evrende kurtuluşun bile bir laboratuvarda, kan ve umutsuzlukla imal edildiğini gösterir.
+Meta-İsa (the Meta-Christ), Trench Crusade evreninin Hristiyan teolojisine getirdiği en karanlık ve en çarpıcı çevirmedir; Kurtarıcı İsa'nın (Christ the Redeemer) klonlanmış et ve kanıdır. Bu evrende inanç, mucizelerle somut bir güce dönüşmüştür ve Meta-İsa, bu gücün en yoğunlaşmış kaynağıdır; aşırı bir kutsal kudretin merkezi ve birçok örgütün tapınma odağıdır. O, sıradan bir simge değil, gerçek ve fiziksel bir güç membaıdır; varlığı, etrafındaki İmanlılar'a olağanüstü yetenekler bahşeder.
 
-## Güçler
+Meta-İsa'nın güçleri, hem kutsal hem ürkütücüdür. Bir Meta-İsa, ölüleri diriltebilme yeteneğine sahiptir; ölümün bile onun kudreti karşısında kesin olmadığı bir varlıktır. Daha da çarpıcı olanı, onun eti ve kanının taşıdığı dönüştürücü güçtür: bir Meta-İsa'nın etini ve kanını yiyen bir insan, eğer bu dönüşümün dehşetinden sağ çıkabilirse, bir Komünyancı'ya (Communicant) dönüşür. Komünyancılar, bu kutsal eti tükettikten sonra hızla değişir; bedenleri devasa boyutlara ulaşır ve mucizevi biçimde kendi kendini iyileştiren yaralar kazanır. Bu, hem bir lütuf hem de korkunç bir dönüşümdür.
 
-- Kurtarıcı'nın (Redeemer) eti ve kanından klonlanmış canlı mesih; tanrısallığı bozulmamıştır
-- Ölüleri diriltebildiği söylenen mucizevi ilahi güce sahiptir
-- Eti ve kanı yenildiğinde, hayatta kalanları dev Komünikant'lara dönüştürür
-- Yeni Antakya Prensliği'nin ibadet merkezi; her biri ayrı tarikatların tapındığı kişidir
-- Stigmalı Rahibeler ve Trench Pilgrim'ler onun yaralarını ve vizyonlarını taşır
+Bu evrende tek bir Meta-İsa yoktur; farklı topluluklarca tapılan, numaralandırılmış birden çok Meta-İsa vardır. Örneğin İkinci Meta-İsa Kızıl Komünyancılar (Crimson Communicants) tarafından yüceltilir; Üçüncü Meta-İsa, stigmatik rahibelerin tapındığı varlıktır ve onun çektiği stigmata, rahibelere geçmiştir; Yedinci Meta-İsa ise bazı Siper Hacıları'nın taptığı figürdür. Her biri, İmanlılar'ın farklı bir kanadının manevi merkezini oluşturur. Meta-İsa, Trench Crusade'de kutsallığın grimdark bir biçimde yeniden tasavvurunu temsil eder; en yüce kurtuluş figürünün bile, bu evrende nasıl klonlanmış bir et, bir güç kaynağı ve hem lütuf hem dehşet taşıyan bir gize dönüştüğünü gösterir.
 
--# Kaynaklar: Resmî entity lore makaleleri
+-# Kaynaklar: Resmî lore terminolojisi
+-# Çapraz: Kurtarıcı İsa'nın klonlanmış et ve kanıdır · Ölüleri diriltebilir · Eti yendiğinde Komünyancı (Communicant) yaratır

@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # The Miseries — Sefaletler, Dünyanın Sonunu Sayan Felaketler
 
 Nechrubel'in Takvimi'ndeki yedi büyük felaket olayı; her biri tetiklendiğinde dünyaya yeni bir yıkım getiren, sonuncusu kıyameti başlatan kehanetsel sefalet dalgaları.
 
 - **Kategori:** Kıyamet
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Sefaletler (the Miseries), Mörk Borg'un kıyamet mekaniğinin kalbidir; ölmekte olan dünyanın sonunu getirecek olan, kehanetlerde haber verilmiş büyük felaketlerdir. Bu dünyanın yıkımı tek bir anda değil, art arda gelen yedi dalga hâlinde gerçekleşir; bu dalgaların her birine bir Sefalet denir. Her Sefalet, kara peygamber Verhu aracılığıyla Nechrubel'in dile getirdiği korkunç bir kehanetle bağlantılıdır ve tetiklendiğinde dünyaya yeni ve dehşetli bir yıkım getirir.
 
@@ -11,6 +15,5 @@ Sefaletler, oyunun içinde somut olaylar olarak ortaya çıkar; biri gerçekleş
 
 Sefaletler'in en ürkütücü yanı, yedincisinin ne anlama geldiğidir: son Sefalet gerçekleştiğinde, dünyanın sonu, yani gerçek kıyamet başlar. Bu, oyunun arka planını canlı ve baskıcı kılar; karakterler yalnızca bir sahnede oynamaz, sona doğru ilerleyen bir saatin tik taklarını duyarlar. Sefaletler, Mörk Borg'da kıyametin kaçınılmazlığını ve aşamalılığını temsil eder; sonun tek bir patlama değil, üst üste binen felaketler zinciri olduğunu, ve her felaketle birlikte, ölmekte olan dünyanın son nefesine biraz daha yaklaştığını gösterir.
 
--# Çapraz: Nechrubel'in Takvimi'nde sıralanan büyük felaketlerdir · Yedi tanedir; her biri yeni bir yıkım getirir · Sonuncusu dünyanın sonunu başlatır
-
 -# Kaynaklar: MÖRK BORG core rulebook + Mitolojidata derlemesi
+-# Çapraz: Nechrubel'in Takvimi'nde sıralanan büyük felaketlerdir · Yedi tanedir; her biri yeni bir yıkım getirir · Sonuncusu dünyanın sonunu başlatır

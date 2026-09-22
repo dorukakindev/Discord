@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Kızıl Güneşin Dünyası
 
 Büyünün dünyayı yiyip bitirdiği, ölmekte olan çöl gezegeni Athas'ın kadim trajedisinin tamamı.
 
-
+- **Era:** Köken
 - **Dönem:** Köken
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Dark Sun, fantastik dünyaların çoğundan bambaşka bir yerdir. Athas, yemyeşil ormanların ve serin denizlerin değil, sonsuz bir kızıl çölün dünyasıdır. Gökyüzünde sarı bir güneş değil, koyu kızıla çalan, kanlı ve şişmiş bir disk asılıdır; bu yüzden dünyaya Karanlık Güneş, yani Dark Sun denir. Bu güneş bir zamanlar parlak ve sarıydı, ama bir felaketin ardından rengi söndü ve dünyayı kavurmaya başladı. Bugün Athas, çoraklaşmış toprakları, tükenmiş denizleri ve umutsuz halklarıyla yavaş yavaş ölmekte olan bir gezegendir. Su altından daha değerlidir; su altın gibi değil, sudan da kıymetli her şey değil, su hayatın kendisidir ve onu kontrol eden kişi, bir krallığı kontrol eder.
 
@@ -16,4 +20,4 @@ Athas, tanrıların terk ettiği ya da hiç var olmadığı bir dünyadır. Hiç
 
 Ama Athas'ın hikayesi her zaman böyle değildi. Bu ölü çölün altında, çok daha eski ve çok daha parlak çağların izleri yatar: kadim Halflingler'in efendi olduğu Mavi Çağ'ın bereketli denizleri, yemyeşil ormanlarla kaplı Yeşil Çağ'ın görkemi ve ardından gelen büyük ihanet. Athas'ın bugünkü ölümü, bir tek adamın, İlk Sihirbaz Rajaat'ın hırsından ve onun yarattığı ölümsüz Champion'ların savaşından doğmuştur. Athas'ın zaman çizelgesi, bir cennetin nasıl cehenneme dönüştüğünün, yeşil bir dünyanın nasıl kızıl bir mezara çevrildiğinin hikayesidir. İşte bu kronoloji, o uzun düşüşün ve onun sonunda Tyr'de yakılan tek bir özgürlük kıvılcımının anlatısıdır.
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

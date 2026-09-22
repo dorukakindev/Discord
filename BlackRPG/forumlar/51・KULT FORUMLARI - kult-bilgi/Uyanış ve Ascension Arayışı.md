@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Uyanış ve Ascension Arayışı
 
 Yanılsama'nın inceldiği çağda Farkında Olanların gerçeği görmesi, kayıp tanrısallığı hatırlaması ve dehşetle aydınlanma arasındaki yolculuk.
 
-
+- **Era:** Uyanış Çağı
 - **Dönem:** Uyanış Çağı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Demiurge'ün kayboluşuyla Yanılsama incelirken, insanlık tarihinde ilk kez gerçek bir uyanış başladı. Yanılsama, on binlerce yıl boyunca o kadar kusursuz örülmüştü ki, hiçbir Uyuyan perdenin ardına bakamamıştı. Ama artık dokusu çatlaktı, dikişleri gevşemişti; ve bazı insanlar, gerçekliğin kıyısındaki tutarsızlıkları fark etmeye başladı. Bu insanlara Farkında Olanlar (the Aware) denir. Onlar henüz tam olarak uyanmış değildir, ama Uyuyanlar gibi de değildir. Bir şeylerin yanlış olduğunu sezerler; gördükleri dünyanın gerçek olmadığına dair bir his taşırlar. Bu farkındalık genellikle bir travma, bir kayıp, derin bir acı ya da gerçekliğin açıklanamaz bir anomalisiyle başlar. Perde bir an için aralanır, ve bir kez aralandıktan sonra bir daha asla tam olarak kapanmaz.
 
@@ -16,4 +20,4 @@ Uyanış yolunun nihai hedefi Ascension'dır: kayıp tanrısallığa yeniden yü
 
 Uyanış Çağı, Kult'un oyun anlatısının başladığı andır; çünkü oyuncu karakterleri tam olarak bu eşiktedir. Onlar Farkında Olanlardır, perdenin aralandığını görmüş ve geri dönüşü olmayan bir yola girmiş insanlardır. Önlerinde iki kapı durur: biri dehşete, deliliğe ve yıkıma açılır; diğeri hatırlamaya, özgürleşmeye ve nihayetinde Ascension'a. Hangi kapıdan geçecekleri, gerçeğin ağırlığını taşıyıp taşıyamayacaklarına bağlıdır. Kult'un tüm trajedisi ve tüm umudu burada düğümlenir: uyanmak, hem en korkunç hem de en kutsal eylemdir. Bir tanrının uykusundan uyanması, ya bir kabusun başlangıcıdır ya da bir kurtuluşun. Ve hapishanenin duvarları inceldikçe, gittikçe daha fazla insan bu seçimle yüzleşmeye başlar. Demiurge gitti, bekçiler başıboş, perde çözülüyor; ve tanrılar, on binlerce yıllık uykudan, birer birer uyanmaya başlıyor.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

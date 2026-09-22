@@ -1,16 +1,29 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
-# Metropolis — Metropolis, Gerçek Dünyanın Harabeleri
 
-Yanılsama'nın ardında uzanan gerçek dünyanın kalıntısı olan devasa ve kadim şehir; bir zamanlar insanlığın tanrısal varlığının merkeziyken şimdi terk edilmiş ve harap olmuş öte diyar.
+# Metropolis — Kadim Şehir, Parçalanmış Tanrısallığın Yurdu
 
-- **Kategori:** Kozmoloji
+Yanılsama'nın ardında yatan soğuk ve kadim şehir; insanlığın kayıp gerçek şehrinin yansıması ve aslı. Archon'ların hüküm sürdüğü, taştan ve makineden örülmüş ölümsüz başkent.
 
-Metropolis, Kult: Divinity Lost evreninde Yanılsama'nın ardında uzanan gerçek dünyanın kalıntısıdır; insanlığın sahte gerçekliğinin altında gizlenen, devasa ve kadim bir şehirdir. İçinde yaşadığımız Elysium, var olan tek diyar değildir; o, gerçekliğin yalnızca en yüzeysel perdesidir, ve onun ardında, çok daha eski ve çok daha gerçek bir dünya uzanır. Metropolis, işte bu gizli dünyanın kalbidir; bir zamanlar insanlığın tanrısal varlığının ve gerçek gücünün merkeziyken, çağlar içinde terk edilmiş, çürümüş ve büyük ölçüde harabeye dönmüş kozmik bir şehirdir.
+- **Tür:** Kadim Şehir
+- **Ruler:** Archon'lar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Metropolis, sıradan bir şehir değildir; o, gerçekliğin temel dokusunun bir parçasıdır. Sokakları, yapıları ve mimarisi, insan kavrayışını aşan bir ölçeğe ve kadimliğe sahiptir; o, zamanın ve mekânın sıradan kurallarına uymaz. Bir zamanlar görkemli ve canlı olan bu şehir, şimdi büyük ölçüde boş, karanlık ve uğursuzdur; onun terk edilmiş bölgelerinde, Yanılsama'nın ardına geçenleri bekleyen tehlikeler ve dehşetler gizlenir. Metropolis, Elysium'a ince perdelerle bağlıdır; ve bazı gizli geçitler, çatlaklar ya da unutulmuş eşikler, sahte dünyadan bu gerçek harabeye açılabilir.
+## Kayıt
 
-Metropolis'in hâli, Kult evreninin kozmik trajedisini yansıtır. Bu şehrin görkemli geçmişi, insanlığın kayıp tanrısallığının bir kanıtıdır; onun harap bugünü ise, Demiurge'ün kayboluşunun ve evrenin kaosa düşüşünün bir göstergesidir. Yanılsama zayıfladıkça, Metropolis'in karanlık sokakları Elysium'a sızmaya başlar; ve uyanan ya da yolunu kaybeden bir insan, kendini bu kadim harabenin içinde bulabilir. Metropolis, Kult evreninde kaybedilmiş gerçek dünyayı temsil eder; sahte gerçekliğimizin altında, bir zamanlar tanrılar olduğumuz görkemli ama şimdi terk edilmiş bir dünyanın kalıntısının uzandığını, ve perdenin ardındaki hakikatin, çoğu zaman bir zafer değil, bir yıkıntı manzarası olduğunu gösterir.
+Metropolis, Yanılsama'nın hemen ardında uzanan kadim ve gerçek şehirdir; Elysium'un sahte sokaklarının altında yatan asıl gerçeklik. İnsanlık tanrısallığını yitirmeden önce, Metropolis bizim şehrimizdi; sonsuz, görkemli ve canlı. Bizim bildiğimiz bütün şehirler, New York'tan Roma'ya kadar, aslında onun çarpık, soluk ve unutulmuş birer yansımasından ibarettir. Yanılsama'nın perdesi yırtıldığında, bir insan kendini sıradan caddeler yerine bu kadim metropolün soğuk taş koridorlarında bulabilir.
 
--# Çapraz: Yanılsama'nın ardındaki gerçek dünyanın kalıntısıdır · Kadim ve devasa, çoğu harap bir şehirdir · Elysium ona perdelerle bağlıdır
+Metropolis artık o eski, insanlığa ait canlı şehir değildir. Demiurgos ve onun hizmetkârları olan Archon'lar şehri ele geçirmiş, onu kendi soğuk düzenlerinin merkezine çevirmiştir. Şehrin mimarisi devasa, mekanik ve insanlık dışıdır; bitmeyen sokaklar, anlamı çözülemeyen yapılar ve zamanın bambaşka aktığı bölgeler içerir. Orada gece ile gündüz, yakın ile uzak, geçmiş ile şimdi, bizim alıştığımız kurallara uymaz. Metropolis hem büyüleyici hem de derinden tekinsizdir; çünkü bir zamanlar bize ait olan bir yerin, artık bizi dışlayan bir hapishane bekçisine dönüşmüş halidir.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+Archon'lar, parçalanmış tanrısallığın bekçileridir; Demiurgos'un on prensibinin kişileşmiş halleri olarak Metropolis'ten insanlığın yanılsamasını yönetirler. Şehir, onların iradesinin somutlaşmış halidir; soğuk, hesaplı ve merhametsiz. Buraya yolu düşen az sayıda insan, hem insanlığın yitirdiği görkemin izlerini hem de o görkemi çalan güçlerin gölgesini aynı anda görür. Metropolis, kaybedilmiş bir mirasın ve onu çalan bir tutsaklığın aynı taşa kazınmış halidir.
+
+Metropolis, Kult'ta insanlığın gerçek doğasının ve gerçek yurdunun anısını temsil eder; ne kadar uzaklaştırılmış olsak da, ardında bir zamanlar bize ait olan bir gerçekliğin durduğunu gösterir. O, hem bir vaat hem bir lanettir: özgürlüğümüzün ne olabileceğini hatırlatan, ama şimdi düşmanlarımızın elinde tutsak olan kadim ve soğuk başkent.
+
+## Özellikler
+
+- Yanılsama'nın ardındaki gerçek ve kadim şehirdir
+- Insanlığın kayıp şehrinin asıl, bozulmamış yansımasıdır
+- Demiurgos'un hizmetkârları Archon'ların yurdudur
+- Soğuk, mekanik, taştan ve sonsuz; zaman orada başka türlü akar
+- Bütün insan şehirleri onun çarpık birer gölgesidir
+
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

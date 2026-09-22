@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Schleswig — Adı Anılan Diyar, Çürüyen Dünyanın Bir Köşesi
 
 Bilinen dünyanın adı geçen bölgelerinden biri; diğer diyarlarla birlikte kıyametin gölgesinde anılan, çürüyen coğrafyanın bir parçası.
 
 - **Bölge:** Bilinen dünyanın bir bölgesi
 - **Tür:** Diyar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Schleswig, Mörk Borg dünyasının adı anılan bölgelerinden biridir; kıyametin gölgesi altındaki çürüyen coğrafyanın bir parçası olarak, bilinen dünyanın bütünlüğünü oluşturan diyarların arasında yer alır. Galgenbeck'in büyük şehri, Sarkash'ın kara ormanı ya da Kergüs'ün soğuk bozkırı kadar ünlü ya da belirgin olmasa da, Schleswig de aynı kıyamet kaderini, aynı çürümeyi ve aynı kehanet korkusunu paylaşır. Dünyanın sonu yaklaşırken, hiçbir diyar bu sondan muaf değildir; Schleswig de kendi köşesinde, yaklaşan karanlığın ağırlığını taşır.
 

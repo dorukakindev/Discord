@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Calendar of Nechrubel, Nechrubel'in Takvimi
 
 Saatle değil felaketlerle ilerleyen kıyamet takvimi ve İki Başlı Basilisk'lerin kıyamet vizyonları.
 
-
+- **Era:** Karanlık Köken
 - **Dönem:** Karanlık Köken
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Sıradan takvimler günleri, ayları ve yılları sayar; ama Mörk Borg'un dünyasında zaman böyle ölçülmez. Burada zamanı sayan tek gerçek araç, Nechrubel'in Takvimi'dir, Calendar of Nechrubel. Bu takvim ne bir saat ne de bir mevsim döngüsüdür; o, dünyanın sonuna kalan adımları sayar. Ve onun birimleri günler değil, Miseries'tir, yani Felaketler. Her Misery, dünyayı sonuna bir adım daha yaklaştıran yıkıcı bir olaydır. Takvim ilerledikçe, dünya çürür; ve takvim tamamlandığında, dünya biter.
 

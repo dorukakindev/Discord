@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Detective — Dedektif, Gerçeği Araştıran Farkında
 
 Suçların ve sırların izini sürerken Yanılsama'nın çatlaklarına rastlayan Farkında arketip; her cevabın yeni ve daha karanlık sorular doğurduğu bir araştırmanın içine sürüklenen sorgulayıcı.
 
 - **Kategori:** Farkında (Aware)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Detective (Dedektif), Kult'un Farkında (Aware) arketiplerinden biridir ve oyunun en doğal soruşturucusudur. Bu karakter, sıradan bir mesleğin, yani gerçeği araştırma işinin içinden gelir; bir polis, özel dedektif ya da gazeteci olabilir. Görevi, suçların ardındaki gerçeği bulmak, yalanların örüntüsünü çözmek ve karanlıkta gizlenenleri aydınlığa çıkarmaktır. Ama Kult'un dünyasında bu meslek, kişiyi yalnızca insanî suçlara değil, gerçekliğin kendisindeki çatlaklara da götürür.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Detective, bilmenin bedelini taşıyan bir figürdür.
 - Sıradan bir mesleğin içinden gerçeğe doğru sürüklenir
 - Yirmi Aware arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

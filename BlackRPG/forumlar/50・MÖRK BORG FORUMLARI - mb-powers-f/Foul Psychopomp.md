@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Foul Psychopomp — Pis Ruh Yolcusu
 
 Ölülerin arasından iskelet ya da zombi ordusu çağıran kirli bir mucize; okuyana geçici bir ölü maiyet sağlar.
 
 - **Tür:** Kirli Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Pis Ruh Yolcusu (Foul Psychopomp), ölülerin arasından bir maiyet çağıran kirli bir parşömendir. Okunduğunda bir d6 atılır: sonuç 1 ile 3 arasındaysa d4 kadar iskelet, 4 ile 6 arasındaysa d4 kadar zombi yerden doğrulur ve okuyanın iradesine bağlanır. Böylece kirli büyücü, bir anda küçük bir ölü orduya komuta eden bir nekromant kesilir; çürüyen dünyada ölüler bol ve çağrılmaya her zaman hazırdır.
 

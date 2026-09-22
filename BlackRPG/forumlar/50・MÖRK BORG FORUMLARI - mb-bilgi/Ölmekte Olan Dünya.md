@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Ölmekte Olan Dünya
 
 Çürümenin ve karamsarlığın hüküm sürdüğü, sonu çoktan yazılmış bir dünyanın kasvetli portresi.
 
-
+- **Era:** Köken
 - **Dönem:** Köken
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Mörk Borg, bir başlangıcın değil bir sonun hikayesidir. Burası ölmekte olan bir dünyadır; toprak çürür, gökyüzü kararır, ekinler tarlada kurur ve insanların yüreğine umutsuzluk gibi soğuk bir kül çöker. Bu dünya bir zamanlar yaşıyor olabilirdi, ama o günler çoktan geride kaldı. Şimdi geriye kalan yalnızca paslı zırhların, çökmüş tapınakların, kör inançların ve aç gözlerin diyarıdır. Hiçbir kahramanlık burada kurtuluş getirmez; hiçbir zafer kalıcı değildir. Çünkü bu dünyanın kaderi çoktan mühürlenmiştir ve o kader tek bir kelimeyle özetlenir: son.
 

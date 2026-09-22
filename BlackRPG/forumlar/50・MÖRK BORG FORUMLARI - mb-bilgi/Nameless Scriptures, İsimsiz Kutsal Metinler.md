@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Nameless Scriptures, İsimsiz Kutsal Metinler
 
 Verhu'nun fısıldadığı kehanetlerin yazıya dökülmesi ve dünyanın sonunu anlatan lanetli metinlerin doğuşu.
 
-
+- **Era:** Karanlık Köken
 - **Dönem:** Karanlık Köken
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Nechrubel'in fısıltıları havada kaybolmadı; bir el onları yazıya döktü. Bu el, Creton tarikatından bir keşişe, Anuk Schleger'e aitti. Anuk Schleger, Verhu'nun aktardığı karanlık kehanetleri dinledi ve onları sayfalara işledi. Bir keşiş için bu, ibadetin en derin biçimiydi; ama yazdığı şeyler dua değil, lanetti. Çünkü kalemiyle kağıda döktüğü her satır, dünyanın nasıl biteceğini anlatıyordu. Anuk Schleger, kehanetlerin sadık bir kâtibi olarak, kendi elleriyle insanlığın sonunun kaydını oluşturdu; ve bunu yaparken belki de kurtuluşun değil, yalnızca kaçınılmazlığın hizmetkarı olduğunu bilmiyordu.
 

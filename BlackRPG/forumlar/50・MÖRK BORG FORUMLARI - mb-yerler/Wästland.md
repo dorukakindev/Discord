@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Wästland — Çorak Diyar, Külün ve Açlığın Toprakları
 
 Hiçbir şeyin yetişmediği, kurumuş ve çorak topraklar; açlığın, susuzluğun ve umutsuzluğun hüküm sürdüğü, kıyametin izlerini en açık taşıyan ölü diyar.
 
 - **Bölge:** Bilinen dünyanın çorak, verimsiz iç bölgeleri
 - **Tür:** Çöl
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Wästland, Mörk Borg dünyasının kurumuş ve ölü kalbidir; hiçbir şeyin filizlenmediği, hiçbir mahsulün olgunlaşmadığı, toprağın kül rengine döndüğü çorak bir diyar. Burada tarlalar yıllar önce çoraklaşmış, kuyular kurumuş, ve bir zamanlar yaşam olan ne varsa açlığın ve susuzluğun pençesinde solup gitmiştir. Wästland'in üzerinde gökyüzü soluk ve merhametsizdir; yağmur ya hiç düşmez ya da düştüğünde toprağa hayat değil, yalnızca çamur ve umutsuzluk getirir. Bu topraklarda yürüyen biri, dünyanın sonunun çoktan başladığını her adımda hisseder.
 

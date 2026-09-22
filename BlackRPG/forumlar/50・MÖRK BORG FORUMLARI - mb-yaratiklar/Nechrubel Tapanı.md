@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Nechrubel Tapanı — Kıyamet Müridi, Dünyanın Sonunu Çağıran Fanatik
 
 Dünyanın sonunu getiren ölümsüz Nechrubel'e tapan, kıyameti hızlandırmaya adanmış fanatik kültistler; vahiy ve yıkımın peşinde her şeyi ateşe ve çürümeye sürükleyen müritler.
 
 - **Tür:** Lanetli
-- **Tehdit:** Fanatik ve yıkıcı
+- **Tehdit Seviyesi:** Fanatik ve yıkıcı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Nechrubel Tapanları, Mörk Borg dünyasının kıyamet kültistleridir; dünyanın sonunu getiren ölümsüz varlık Nechrubel'e tapan ve onun vahiylerini, yani Sefaletler Takvimi'nin sözlerini gerçekleştirmeye adanmış fanatiklerdir. Onlar, dünyanın yavaşça çürüyüp yok oluşunu bir felaket değil, kutsal ve kaçınılmaz bir vaat olarak görür; bu yüzden çöküşü durdurmak yerine onu hızlandırmaya çalışırlar.
 
@@ -14,7 +18,7 @@ Nechrubel'in vahiyleri dünyayı kemirdikçe, bu kültistlerin sayısı ve cüre
 
 Umutsuzluğun kol gezdiği bu çağda, dünyanın sonunu bir kurtuluş gibi sunan vaazları, çaresiz ve kırılmış insanları kendilerine çeker. Maceracılar için Nechrubel tapanları, yalnızca silahlı düşmanlar değil, çürüyen dünyanın umutsuzluğunun en katıksız sesidir: kurtuluşu hayatta kalmakta değil, her şeyin sonunda görenlerin, ölümü ve felaketi kucaklayan fanatik korosudur. Onlar kıyametin kendi ayaklarıyla yürüyen elçileri; solmakta olan güneşin altında, sonun gelişini bir bayram gibi kutlayan kara cüppeli habercileridir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Nechrubel'in kıyamet vahiylerine tapar
 - Dünyanın sonunu hızlandırmaya adanmıştır

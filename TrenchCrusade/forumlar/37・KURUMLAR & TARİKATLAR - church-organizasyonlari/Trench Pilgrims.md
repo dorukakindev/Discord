@@ -3,26 +3,21 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench_Pilg
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench_Pilgrims_Logo.png/revision/latest/scale-to-width-down/900?cb=20260915055147)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
-# Trench Pilgrims — Siper Hacıları, İmanın Çılgın Şehitleri
 
-Peygamberlerin ve kıyamet vizyonlarının peşinden sürüklenen, çoğu sivil din meczubu fanatik hacı toplulukları; No Man's Land'i intihar saldırılarıyla geçen iman sürüleri.
+# Trench Pilgrims — Siper Hacıları, Peygamberlerin Ardındaki Çılgın Coşku
 
-- **Bağlılık:** Faithful
-- **Lider:** Savaş Peygamberleri (War Prophets / Prophetesses)
+Sözde peygamberlerin ve görümlerin ardına dizilmiş sivil zelotlardan oluşan dağınık hacı toplulukları; eşsiz bir coşkuyla Sapkınlar'ın üzerine atılırlar.
 
-Trench Pilgrims (Siper Hacıları), Trench Crusade'in en fanatik ve en düzensiz iman gücüdür; Tanrı'nın sözde peygamberlerinin ya da yüce vizyonların peşinden sürüklenen, çoğunlukla sivil din meczuplarından oluşan Hristiyan hacı topluluklarıdır. Bir mücadele yığını halinde, gayretli peygamberler, deliler ve daha esrarengiz savaşçılar bir araya gelir; hepsini birleştiren tek şey, imanın saf öfkesidir.
+- **Kategori:** Din & İman
+- **Kanon Sınıfı:** A — resmî güncel lore
 
-Bu grupların başında War Prophet (Savaş Peygamberi) durur; Armageddon vizyonlarıyla yanan, karizmatik bir önder ve güçlü bir savaşçıdır. Vaazları ve kehanetleri, hacı alayını bir savaş alanından diğerine sürükler. Yanlarında Castigator'lar (Cezalandırıcılar) yürür; alayların dinî saflığını korumakla görevli ortodoksi subaylarıdır. Bir Castigator, hacılığın deneyimli bir gazisidir ve çok kollu savaş kırbaçlarını hem makamının simgesi hem de bir cezalandırma aracı olarak taşır; her Trench Pilgrim onun otoritesine boyun eğer.
+## Kayıt
 
-Hacıların büyük çoğunluğu, askerî eğitimi neredeyse hiç olmayan erkek ve kadınlardır; ama bir Siper Hacısı'nın demir capirote'sini (sivri başlık) taktıklarında, Cehennem'in en derin Bolgia'larından gelen bir iblisin karşısında bile gözünü kırpmadan durabilirler. Daha nadir ve daha tehlikeli olanlar ise Stigmatic Nun'lardır (Damgalı Rahibeler); taptıkları Üçüncü Meta-Mesih'in yaralarını bedenlerinde mucizevi biçimde tezahür ettiren kutsal kız kardeşlerdir. Pilgrim Procession'lar (Hacı Alayları), savaş alanlarının sık görülen bir manzarasıdır; peygamberlerin vizyonlarıyla yönlendirilip, Castigator'ların kırbaçlarıyla ileri sürülerek No Man's Land'i intihar saldırılarıyla geçerler.
+Siper Hacıları (Trench Pilgrims), Trench Crusade evreninde İmanlılar'ın en kaotik ve en coşkulu yüzünü oluşturur; örgütsüz, düzensiz, çoğunluğu sivil zelotlardan kurulu Hristiyan hacı topluluklarıdır. Onları yöneten, Rab'bin sözde peygamberleri ya da yüce kudretten gelen görümlerdir; askeri bir disiplinden ziyade, çiğ bir imanın ve mistik bir coşkunun ateşiyle hareket ederler. Deliler ve sakatlar, Tanrı'nın dokunduğu ve suçluluk duygusuyla yanan insanlar, peygamberlerin ve peygamberelerin etrafında toplanarak Siper Hacısı Alayları'nı (Processions) oluşturur.
 
-Trench Pilgrims, imanın hem en yüce hem en korkunç yüzünün somut halidir; akıldan çok vecde, taktikten çok kehanete dayanan bir güç. Onlar, kurtuluşu silahta değil şehadette arayan, çamur ve kan içinde haykırarak ilerleyen bir kalabalık; çağın umutsuzluğunu fanatik bir umuda çeviren, Sapkınlığın karşısına çıplak imanlarını ve dökülen kanlarını siper eden çılgın, kutsal bir kıyamet sürüsüdür.
+Bu hacılar, cepheye eşsiz bir coşkuyla yürür ve kendilerini Sapkınlar'ın üzerine korkusuzca atar. Disiplinli ordulardan farklı olarak, ellerine geçirebildikleri her şeyle silahlanırlar: antika tüfeklerden kırbaçlara, kamçılardan Molotof kokteyllerine kadar akla gelebilecek her şey onların cephanesidir. Eğitimsiz ve donanımsız olabilirler, ama imanlarının coşkusu onları korkunç bir düşman yapar; ölümden korkmaz, geri çekilmeyi düşünmez ve sayısal üstünlüklerini ve fanatik kararlılıklarını bir silah olarak kullanırlar.
 
-## Birimler
+Siper Hacıları'nın en kutsal savaşçıları, stigmatik rahibelerdir. Cehennem'in açtığı mucizeler çağında, bazı rahibeler bedenlerinde stigmata, yani İsa'nın çarmıh yaralarının izlerini taşımaya başlar; bunlar, kutsal düzenlerin kılıç ve haç alan savaşçı kadınlarıdır. Bu rahibeler, üçüncü Meta-İsa'nın (Meta-Christ) bir zamanlar çektiği stigmatayla kutsanmıştır ve ne kadar çok yara alırlarsa o kadar güçlenirler; sürekli kanayan stigmataları, onları zayıflatmaz, aksine Mesih'in gücünün kalıcı bir kanıtı olarak iradelerini çelikleştirir. Siper Hacıları, Trench Crusade'de imanın en ham ve en coşkulu hâlini temsil eder; sıradan insanların, bir görümün ya da bir peygamberin ardında, nasıl korkusuz birer kutsal savaşçıya dönüşebileceğini gösterir.
 
-- War Prophet (kıyamet vizyonlarıyla yanan karizmatik önder)
-- Castigator (kırbaçla disiplin sağlayan ortodoksi subayı)
-- Trench Pilgrim (demir capirote takan, savaşçı olmayan ama yılmayan hacılar)
-- Stigmatic Nun (Meta-Mesih'in yaralarını bedeninde taşıyan kutsal rahibeler)
-
--# Kaynaklar: Resmî faction overviewleri
+-# Kaynaklar: Resmî lore terminolojisi
+-# Çapraz: Sivil zelot ve hacı topluluklarıdır · Sözde peygamberlerin ve görümlerin ardından gider · Stigmatik rahibeler saflarında savaşır

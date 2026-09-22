@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/1/19/Praetor.jpg
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/1/19/Praetor.jpg/revision/latest/scale-to-width-down/900?cb=20250428021908)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Praetor — Cehennem'in Melez Komutanı, Av Partilerinin Şeytani Önderi
 
 Bir canavar ile bir iblisin melez dölü olan cambion komutan; Cehennem Anlaşması'nı bozmadan ölümlü dünyaya sızabilen, Yedi Başlı Yılan'ın av partilerini yöneten varlık.
 
 - **Tür:** İblis
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Praetor, Trench Crusade'de Cehennem'in iblis komutanları ve magistralarıdır; güçlü bir baş iblisin ya da iblis lordunun, sürekli biçim değiştiren topraklarındaki küçük bir tımarın bir köşesini yöneten varlıklar. Her Praetor, efendisinin emriyle, Cehennem'in sakinlerinden devşirilmiş küçük kohortlara komuta eder. Onları diğer iblislerden ayıran şey, doğalarıdır: bir Praetor, bir canavar (genellikle bir sırtlan ya da çakal) ile bir iblisin çarpık, gayrimeşru dölüdür. Bu melez (cambion) köken, ona hem şeytani bir kurnazlık hem de hayvani bir güç verir; ve göksel varlıkların soyundan geldiği için, ne kadar düşmüş ve kararmış olursa olsun, her Praetor küçük yaratıkların üzerinde yükselen güçlü bir varlıktır.
 

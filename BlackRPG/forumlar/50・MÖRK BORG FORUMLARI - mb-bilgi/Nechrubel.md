@@ -1,16 +1,28 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
-# Nechrubel — Yok Edici, Sonu Müjdeleyen Kara Tanrı
 
-Dünyanın sonunu getireceğine inanılan kadim ve karanlık güç; Sefaletler'i ve kıyamet kehanetlerini fısıldayan, kara peygamber Verhu aracılığıyla sözleri duyulan yok edici varlık.
+# Nechrubel — Sefalet İlahilerini Okuyan, Sonu Getiren
 
-- **Kategori:** Kıyamet
+Mörk Borg evreninin sonunu getiren kıyamet tanrısı; Sefalet İlahileri'ni (Psalms of Misery) okudukça dünya bir sefaletten ötekine sürüklenir ve nihayet hiçliğe gömülür.
 
-Nechrubel, Mörk Borg'un kıyamet mitolojisinin merkezindeki kadim ve karanlık varlıktır; ölmekte olan dünyanın sonunu getireceğine inanılan yok edici güçtür. O, sıcak ve adil bir tanrı değil, dünyanın çürümesini ve nihai yıkımını temsil eden bir karanlık ilkedir; varlığı, oyunun tüm kasvetli atmosferine sinmiştir. Nechrubel'in adı, sonun ve umutsuzluğun adıdır; ona dair her şey, dünyanın artık kurtarılamayacağını ima eder.
+- **Tür:** Tanrı
+- **Alan:** Kıyamet, Yıkım, Kehanet
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Nechrubel'in dünyaya bağlandığı yer, kehanetlerdir. Dünyayı bekleyen yedi Sefalet, yani art arda gelecek büyük felaketler, Nechrubel'in iradesiyle ilişkilendirilir; bu felaketler, onun sözlerinin gerçekleşmesidir. Nechrubel doğrudan görünmez ya da konuşmaz; bunun yerine, sözleri ve kehanetleri, kara peygamber Verhu aracılığıyla insanlığa ulaşır. Verhu, bu kara tanrının ağzıdır; onun ilettiği her kehanet, dünyanın sonuna doğru atılmış bir adımdır. Böylece Nechrubel, perde arkasında kalan ama her felakette elini gösteren bir güç olarak iş görür.
+## Kayıt
 
-Nechrubel, oyunun kıyamet sisteminin de adını verdiği varlıktır; Nechrubel'in Takvimi, onun getirdiği sonu geri sayan mekaniktir. Bu yönüyle Nechrubel, sadece bir mitolojik figür değil, oyunun yapısına işlenmiş bir kaçınılmazlık ilkesidir. O, kahramanların yenip kurtulabileceği bir kötü değil, dünyanın doğasına işlemiş bir sondur. Nechrubel, Mörk Borg'da kaçınılmaz yıkımın ve kara kehanetin tanrısal yüzünü temsil eder; sonun bir tanrının iradesi kadar kesin olduğunu, ve ölmekte olan dünyanın, kendisini yok etmek isteyen bir gücün gölgesinde nefes aldığını gösterir.
+Nechrubel, Mörk Borg'un çürümüş ve umutsuz dünyasının sonunu getiren güçtür; bir tanrıdan çok, kıyametin kendisinin sesi gibidir. Bu çağ, doğmadan önce ölmeye mahkûm edilmiş bir çağdır; ve onu mahkûm eden, Nechrubel'in dudaklarından dökülen sözlerdir. Anlatılana göre Nechrubel, Sefalet İlahileri'ni (Psalms of Misery) okur; ve okuduğu her ilahi, dünyaya yeni bir felaket, yeni bir veba, yeni bir karanlık salar. Bu yüzden dünyanın akıbeti, bir savaşta ya da bir kahramanlık anında değil, eski ve acımasız bir metnin satırlarında çoktan yazılıdır.
 
--# Çapraz: Dünyanın sonunu getirecek karanlık güçtür · Sefaletler ve kehanetler onunla ilişkilidir · Sözleri kara peygamber Verhu aracılığıyla aktarılır
+Nechrubel'in dehşeti, kötücül bir niyetten çok, sönümleyici bir kaçınılmazlıktan gelir. O, dünyayı yok etmeyi seçen öfkeli bir tanrı değil; daha çok, sonu çoktan belirlenmiş bir kehanetin okuyucusudur. İlahiler okundukça gökyüzü kararır, hasat çürür, ölüler huzur bulamaz ve insanlar akıllarını yitirir. Her ilahi, bir öncekinden daha karanlıktır; ve sonuncusu okunduğunda, geriye yalnızca hiçlik kalacaktır. Bu yüzden Mörk Borg'da zaman, ilerleyen bir çizgi değil, geri sayan bir saattir; ve o saatin her tıkırtısı, Nechrubel'in bir başka mısrasıdır.
+
+Nechrubel'e tapanlar vardır, ama bu tapınma bir umut değil, bir teslimiyettir. Kimi kültler, sonu hızlandırmanın bir tür kutsallık olduğuna inanır; sefaleti kucaklamanın, kaçınılmaza direnmekten daha onurlu olduğunu düşünürler. Kimileri ise yalnızca korkudan diz çöker; çünkü Nechrubel'in adını anmak, soğuk bir gerçeği kabul etmektir: hiçbir kahramanlık, hiçbir dua, hiçbir kılıç bu sonu durduramaz.
+
+Nechrubel, Mörk Borg'un nihilist kalbinin somut halidir; kurtuluşun olmadığı, umudun bir yalan olduğu ve her şeyin er ya da geç sefalete gömüleceği bir evrenin tanrısı. O, ne sevilir ne yatıştırılır; yalnızca beklenir. Ve dünyanın son günü geldiğinde, gökyüzünü dolduracak olan, ne bir kurtarıcının nefesi ne de bir tanrının merhameti olacaktır; yalnızca Nechrubel'in son ilahiyi okuyan, soğuk ve yorgun sesi.
+
+## Ayırt Edici Özellikler
+
+- Sefalet İlahileri'ni okuyan ses; her ilahi dünyaya yeni bir felaket salar
+- Yedi Mühür ve onların kehanetleriyle dünyanın sonunu işaretler
+- Kâhinleri tarafından korkuyla anılan, ama tapılmaktan çok korkulan bir güç
+- Sonu yaratan değil, çoktan yazılmış olan sonu okuyan figür
 
 -# Kaynaklar: MÖRK BORG core rulebook + Mitolojidata derlemesi

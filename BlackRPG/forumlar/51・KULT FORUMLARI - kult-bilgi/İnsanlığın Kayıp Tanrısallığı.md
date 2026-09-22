@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # İnsanlığın Kayıp Tanrısallığı
 
 İnsanlığın sınırsız tanrılar olduğu, gerçekliğin arzunun bir uzantısı olduğu kayıp altın çağ.
 
-
+- **Era:** Altın Çağ
 - **Dönem:** Altın Çağ
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Her şeyden önce, hapishaneden önce, unutuştan önce, bir zaman vardı ki insanlık özgürdü. O çağda biz tanrıydık; ve bu bir mecaz değil, kozmik bir gerçektir. Sınırsız bir güce sahiptik: gerçekliği düşüncemizle biçimlendirebiliyor, kendi varlığımızı dilediğimiz gibi yeniden kurabiliyor, hiçbir doğa yasasının, hiçbir bedenin, hiçbir ölümün bizi kısıtlamadığı bir varoluşta yaşıyorduk. Bizim için zaman bir çizgi değil, bir okyanustu; mekan bir hapishane değil, bir tuvaldi. Arzu ettiğimiz an gerçek olurdu, çünkü gerçeklik ile irademiz arasında hiçbir engel, hiçbir aracı, hiçbir yasa yoktu. Bu, Kult mitolojisinin başlangıç noktasıdır ve tüm geri kalan her şeyin yası buradan doğar: çünkü kaybettiğimiz şey buydu.
 
@@ -16,4 +20,4 @@ Kult mitolojisinin en sarsıcı yanı, kötülüğün bir dış güçten gelmeme
 
 Ama o çağ sona erdi. Nasıl ve neden sona erdiğinin tam hikayesi, Yanılsama'nın inşasında saklıdır. Bildiğimiz tek şey, bir noktada bir perdenin indiği, bir kapının kapandığı ve tanrıların uykuya yatırıldığıdır. O kadim özgürlük, katman katman bir hapishanenin altına gömüldü; ve her katman, bize gerçek doğamızı biraz daha unutturdu. Bugün o altın çağdan geriye yalnızca rüyalar, sezgiler ve açıklanamaz bir özlem kaldı. Ama gnostik için bu yeterlidir; çünkü hatırlamak, uyanmanın ilk adımıdır. Ve uyanış başladığında, kayıp tanrısallık yeniden çağrılmaya başlar.
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

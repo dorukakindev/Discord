@@ -1,9 +1,17 @@
+https://static.wikia.nocookie.net/darksun/images/0/09/Kalak.jpg/revision/latest?cb=20111120221346
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/0/09/Kalak.jpg/revision/latest?cb=20111120221346)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Kalak — Tyr'in Zorbası, Devrilen İlk Sihirbaz-Kral
 
 Yüzyıllar boyunca Tyr şehir-devletini demir bir yumrukla yöneten, ejderhalaşma eşiğine gelmiş yıkıcı büyücü; köle emeğine ve arena kanına dayalı zalim düzeni, Prism Pentad romanlarının açılışında gladyatör Rikus ve müttefiklerinin elinde son buldu.
 
 - **Şehir:** Tyr
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kalak, Athas'ın kavurucu güneşi altında en çok nefret edilen sihirbaz-krallardan biriydi; Tyr şehrini yüzyıllar boyunca zalim bir tiran olarak yöneten, ejderhalaşmanın eşiğine gelmiş güçlü bir yıkıcı (defiler) büyücüydü. Onun yönetiminde Tyr, kölelerin ve gladyatörlerin kanı üzerine kurulu bir şehirdi; binlerce köle, Kalak'ın hırsları için ter döker ve ölürdü. Hayatın her damlasını kendi gücüne çeviren bu büyücü, sıradan bir despot değil, ölümsüzlüğe ve ejderha biçimine ulaşmaya çalışan bir canavardı.
 
@@ -13,7 +21,7 @@ Kalak'ın sonunu getiren şey, kendi kibri oldu. Prism Pentad roman serisinin a�
 
 Kalak, Rajaat'ın Temizlik Savaşları'ndan kalma ilk kuşak sihirbaz-krallarındandı; ölümsüzlüğe ve mutlak güce ulaşma uğruna bir şehri ve sayısız canı tüketmeye hazır bir zorbaydı. Onun hikayesi, Athas'ın karanlık doğasının bir özetidir: gücün her zaman başkalarının acısıyla satın alındığı, ve en güçlü tiranların bile, halkları yeterince umutsuzlaştığında devrilebileceği bir dünya. Kalak'ın boş zigguratı, Tyr'in özgürlüğünün ve bir tiranın çöküşünün anıtı olarak kaldı.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Lakap: Tyr'in Zorbası, köle ve gladyatör şehrinin efendisi
 - Yüzyıllarca süren tiranlığı dev bir piramit inşasıyla taçlandırmaya çalıştı
@@ -21,4 +29,4 @@ Kalak, Rajaat'ın Temizlik Savaşları'ndan kalma ilk kuşak sihirbaz-kralların
 - Prism Pentad'ın ilk kitabında gladyatör Rikus tarafından öldürüldü
 - Ölümü Tyr'i Athas'ın ilk özgür şehir-devletine dönüştürdü
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

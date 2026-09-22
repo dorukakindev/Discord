@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Ölüm Meleği — the Death Angels, Archon'ların Gölgeleri
 
 Archon'ların karanlık karşıtları ve gölgeleri olan güçlü varlıklar; Yanılsama'nın çürümüş ve yıkıcı yüzünü temsil eden, acıyı, çürümeyi ve yok oluşu besleyen karanlık güçler.
 
 - **Kategori:** Güç
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Ölüm Meleği (the Death Angels), Kult: Divinity Lost evreninde Archon'ların karanlık karşıtları ve gölgeleridir; Yanılsama'nın çürümüş, yıkıcı ve acı dolu yüzünü temsil eden güçlü varlıklardır. Eğer Archon'lar Demiurge'ün düzenini ve kontrolünü koruyan güçlerse, Ölüm Melekleri onların gölge ikizleridir; her bir Archon'un niteliğine karşılık gelen karanlık, bozulmuş bir karşıtlık olarak var olurlar. Onlar, düzenin değil çözülüşün, kontrolün değil yıkımın, uyumun değil acının güçleridir.
 
@@ -11,6 +15,5 @@ Archon'ların karanlık karşıtları ve gölgeleri olan güçlü varlıklar; Ya
 
 Demiurge'ün kayboluşu, Ölüm Melekleri'ni özellikle tehlikeli kılmıştır. Eskiden, Archon'ların düzeni bu karanlık güçleri bir denge içinde tutuyordu; ama yaratıcı tahtını terk edip evren kaosa düştükçe, çürümenin ve yıkımın güçleri serbest kalmaya başlamıştır. Yanılsama bozuldukça, Ölüm Melekleri'nin etkisi artar; ve uyanan, acı çeken ya da gerçekliğin çatlaklarına düşen insanlar, çoğu zaman onların alanına sürüklenir. Ölüm Meleği, Kult evreninde gerçekliğin karanlık ve yıkıcı yüzünü temsil eder; her düzenin bir gölgesi, her kontrolün bir çürümesi olduğunu, ve sahipsiz kalmış bir evrende, acı ile yok oluşun güçlerinin yavaş yavaş öne çıktığını gösterir.
 
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)
 -# Çapraz: Archon'ların gölgeleri ve karanlık karşıtlarıdır · Çürüme, acı ve yıkımı temsil ederler · Yanılsama'nın bozulmuş yüzünü beslerler
-
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki

@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/2/24/MapofUrik-1-.jpg/revision/latest?cb=20111115205638
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/2/24/MapofUrik-1-.jpg/revision/latest?cb=20111115205638)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Urik — Aslan Şehri, Hamanu'nun Demir Yumruğu
 
 Sihirbaz-Kral Hamanu'nun militarist ve totaliter yönetimi altındaki kapalı şehir; katı yasaları, güçlü ordusu ve obsidyen madenleriyle bilinen, Tyr'in başlıca rakibi.
 
 - **Tür:** Şehir-Devlet
 - **Bölge:** Tablelands, Tyr'in kuzeydoğusu
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Urik, Athas'ın Tablelands bölgesinde, Tyr'in kuzeydoğusunda yükselen, militarizmiyle ün salmış bir şehir-devlettir. Şehri, kendine Aslan Kral diyen Sihirbaz-Kral Hamanu yönetir; o, savaş sanatında ustalaşmış, yüzyıllar boyunca sayısız muharebede zafer kazanmış, hem büyücü hem de korkunç bir komutan olan bir zorbadır. Hamanu'nun yönetimi altında Urik, Athas'ın en disiplinli ve en korkulan askeri gücünü besler; şehrin her yönü, savaşa ve kralın iradesine hizmet edecek biçimde düzenlenmiştir.
 
@@ -22,4 +30,4 @@ Urik, Athas'ta gücün ve düzenin karanlık yüzünü temsil eder; özgürlüğ
 - Obsidyen ve mineral kaynaklarıyla zengin
 - Tyr'le sık sık çatışan askeri güç merkezi
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

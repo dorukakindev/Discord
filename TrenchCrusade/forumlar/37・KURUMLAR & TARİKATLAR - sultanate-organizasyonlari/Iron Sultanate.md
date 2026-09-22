@@ -3,26 +3,21 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/d/dc/Iron_Sultan
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/d/dc/Iron_Sultanate_banner.png/revision/latest?cb=20241212185326)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
-# Iron Sultanate — Demir Sultanlık, İki Boynuzlu Yenilmez Duvar
 
-Devasa Demir Duvar'la çevrili, simya ve iman gücüyle Cehennem'e karşı duran Müslüman fraksiyon; Osmanlı esinli, dünyanın en köklü İslam ulusu.
+# Iron Sultanate — Demir Sultanlık, Demir Duvar'ın Ardındaki Rum Diyarı
 
-- **Bağlılık:** Faithful
-- **Lider:** Sultan (Padişah, kalıtsal unvan)
+Rum Sultanlığı'nın simyacıları, suikastçıları ve askerleri; Zülkarneyn'in Demir Duvarı'nın koruduğu, Cabir simyasıyla Cehennem'e direnen Müslüman İmanlılar.
 
-Iron Sultanate (Demir Sultanlık), resmî adıyla Göğü Delen İki Boynuzun Yenilmez Demir Duvarı'nın Büyük Sultanlığı, Trench Crusade dünyasının en köklü ve en güçlü İslam ulusudur; iman tarafında, Cehennem'e karşı duran bir İmanlı (Faithful) fraksiyonudur. Sultanlık-ı Rûm'un (Anadolu Selçuklu Sultanlığı) bir devamı olarak, en çok Demir Duvar'ıyla bilinir: on binlerce kilometre uzunluğunda, tüm Sultanlığı çevreleyen devasa bir surdur. İçinde, beyaz mermer ve altından camiler yükselir; müezzinler, Sultan'ın ordusunun zaferi için iman sahiplerini namaza çağırır.
+- **Kategori:** Din & İman
+- **Kanon Sınıfı:** A — resmî güncel lore
 
-Sultanlığın ve ordusunun başında, kalıtsal bir unvan olan Sultan (ya da Padişah) bulunur. Bu fraksiyonun insan birlikleri, ağır biçimde Osmanlı İmparatorluğu'na dayanır; terimlerinin, teçhizatlarının ve birlik tiplerinin çoğunu, Anadolu'ya yüzyıllarca hükmeden Osmanlı geleneğinden alır. Janissaries (Yeniçeriler), Sultan'ın seçkin ev birlikleridir; demir iradeli subaylarının önderliğinde, yıkıcı bir karşı hücumla düşmanı kapatıp bitirirler. Azebs ise Sultanlığın sayısız vilayetinden toplanan askerlerdir; her yirmi haneden biri, Sultan'a hizmet edecek bir savaşçıyı donatıp göndermekle yükümlüdür.
+## Kayıt
 
-Sultanlığın en korkutucu silahı, House of Wisdom'ın (Hikmet Evi) gizli sanatlarıdır. Takwin ilmi, bu sanatların en tehlikelisi ve en verimlisidir; Sultanlık simyacıları, laboratuvarlarında iman edenleri korumak için canavarlar yaratır: Cabir'in Aslanları, Homunculi'ler, Tunç Boğalar. Cabirî Simyacıların, atomları ayırt etmeyi sağlayan bir üçüncü göz geliştirdiği söylenir; ama bu gözün hatalı açılması, korkunç mutasyonlara yol açabilir ve başarısız simyacıyı çıldırtabilir. Alamut'un korkulan suikastçıları (Fida'i) zamanın rüzgârlarında süzülerek düşman elitlerini ve liderlerini vurur; House of Wisdom'ın simyacıları ise elementlere hükmederek neredeyse her savunmayı aşabilen yıkıcı silahlar salar.
+Demir Sultanlık (the Iron Sultanate), Trench Crusade evreninde Cehennem'e karşı duran İmanlı güçlerinden biridir; Anadolu'da kurulan Rum Sultanlığı'nın simyacıları, suikastçıları ve askerlerinden oluşur. Cehennem'in kapıları açıldıktan sekiz yıl sonra, Zülkarneyn'in Demir Duvarı (Iron Wall of Dhu al-Qarnayn) mucizevi biçimde belirerek bu diyarı korumaya almıştır; bu devasa duvar, Tahran'dan İran platosunun dağları boyunca uzanır, Suriye ovasını kateder ve Basra Körfezi'ne kadar iner, Cehennem'in ilerleyişine karşı kutsal bir set oluşturur.
 
-Iron Sultanate, imanın, geleneğin ve gizli ilmin bir araya geldiği görkemli bir uygarlığın somut halidir; iman gücünü simyanın dehşetiyle birleştiren, Demir Duvar'ının ardında dimdik duran bir kale-devlet. Onlar, Cehennem'in karşısında yalnızca duayla değil, Hikmet Evi'nin yarattığı canavarlar ve Alamut'un bıçaklarıyla da savaşan; kadim bir mirası, demir bir iradeyi ve elementlerin gücünü taşıyan, iman cephesinin doğudaki yenilmez surudur.
+Sultanlık, büyük bir göçün sonunda doğmuştur. Duvarın güvenliğinin ardına sığınmaları için tüm Müslümanlara bir çağrı yapılmış; milyonlarca insan yolculuk sırasında can vermiş olsa da, milyonlarcası duvarın kapıları kapanmadan önce Rum Sultanlığı'na katılmayı başarmıştır. Zülkarneyn'in kapılarının 1109'da kapanmasıyla, bu büyük göç sona ermiş ve ulus son hâlini almıştır. O günden beri Demir Duvar, Cehennem'in dehşetine karşı bu diyarın değişmez kalkanı olmuştur; ardındakiler, görece bir güvenlik içinde direnişlerini sürdürür.
 
-## Birimler
+Demir Sultanlık'ın en ayırt edici gücü, simyacılarıdır. Dokuzuncu yüzyıl Arap bilgini Cabir bin Hayyan'ın öğretilerini izleyen Cabir simyacıları (Jabirean Alchemists), ezoterik güçlerin ustalarıdır: ateşi ve buzu, metali ve sıvıyı denetleyebilir, karmaşık mekanik aygıtlar ve yapay yaşam yaratabilir, ve felaket getiren güçte silahlar üretebilirler. Sanatlarını icra etme özgürlüğü karşılığında, simyacılar Sultanlığa eşsiz Cabir savaş aslanlarını (Jabirean battle lions) sağlar. Demir Sultanlık, Trench Crusade'de inancın ve bilginin birleştiği bir direnişi temsil eder; Cehennem'e karşı sadece kılıçla değil, simyanın ve mühendisliğin esrarengiz güçleriyle de savaşan, kendine özgü ve görkemli bir uygarlığı gösterir.
 
-- Janissaries (Sultan'ın seçkin, demir iradeli ev birlikleri)
-- Azebs (yirmi haneden biri tarafından donatılıp gönderilen taşra askerleri)
-- House of Wisdom Alchemists (Takwin simyacıları, canavar yapan büyücüler)
-- Fida'i of Alamut (zamanın rüzgârında süzülen Alamut suikastçıları)
-
--# Kaynaklar: Resmî faction overviewleri
+-# Kaynaklar: Resmî lore terminolojisi
+-# Çapraz: Rum Sultanlığı'nın güçlerini oluşturur · Zülkarneyn'in Demir Duvarı korur · Cabir simyacıları (Jabirean Alchemists) hizmet eder

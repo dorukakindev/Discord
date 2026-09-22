@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/f/f3/Mike-franch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/f/f3/Mike-franchina-cancer-angel.jpg/revision/latest/scale-to-width-down/900?cb=20260516154050)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Beelzebub — Sineklerin Efendisi, Oburluğun Kralı ve Kara Kâse'nin Mimarı
 
 Oburluğun en güçlü baş iblisi; Yedi'nci Cehennem katındaki kalesinden Kara Kâse vebasını salan, sinek, çekirge ve akrep sürüleriyle Yaratılış'ı çürüten Sineklerin Efendisi.
 
 - **Tür:** İblis
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Beelzebub, Trench Crusade'de Cehennem Prensleri arasında apayrı bir yer tutar; Sineklerin Efendisi ve oburluğun kralı. Yedi Başlı Yılanın bir başı olarak oburluğun en güçlü iblisi sayılsa da, o sarayda kendisine ait yeri küçümser ve savaşını başka bir araçla, kendi Kara Kâse'siyle (Black Grail) sürdürür. Diğer iblisler ölümlü kullarının zihinleri aracılığıyla hareket ederken, Beelzebub doğrudan bir veba salar: kalesinden, demonik sineklerin, akreplerin, çekirgelerin ve sayısız cehennemi böceğin oluşturduğu bir bulaş seli fışkırır. Onun amacı yalnızca öldürmek değil, mümkün olan her şeyi çürütmek ve kirletmektir.
 

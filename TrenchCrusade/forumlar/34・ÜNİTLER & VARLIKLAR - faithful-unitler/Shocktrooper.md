@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/3/37/Trench-Crus
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/3/37/Trench-Crusade-New-Antioch-Lieutenant.jpg/revision/latest/scale-to-width-down/900?cb=20250428003253)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Shocktrooper — Şok Birlikleri
 
 New Antioch Dükü'nün yeminli şövalyeleri: ağır zırh ve silahlarla Hiçkimsenin Toprağı'nı aşıp düşman hattının kalbine dalan vurucu güç.
 
 - **Fraksiyon:** New Antioch
 - **Rol:** Ağır Piyade
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Shocktrooper (Şok Birlikleri), New Antioch Prensliği'nin omurgasıdır; Dük'ün yeminli şövalyeleridir ve savaşın en kanlı, en kritik noktalarına sürülürler. Trench Crusade'in dünyası, Birinci Haçlı Seferi'nin 1099'daki sonucundan ayrılan, Cehennem'in kapılarının açıldığı kâbus gibi bir 1914 versiyonudur. Bu dünyada New Antioch, sadık Hristiyanlığın son büyük kalesidir ve Shocktrooper'lar onun yumruğudur. Onlar sıradan asker değil, kutsal bir yemine bağlı, ölümü göze almış vurucu birliklerdir.
 
@@ -18,7 +22,7 @@ Bir warband'ın çekirdeği genellikle iki ila sekiz Shocktrooper'dan kurulur; N
 
 Shocktrooper olmak, New Antioch için bir onurdur ama aynı zamanda bir ölüm fermanıdır. Bu şövalyeler, inançlarının düşmanlarına, yani Cehennem'in lejyonlarına ve sapkınlara karşı, geri çekilmenin bir seçenek olmadığı bir savaşa atılır. Zırhları çentilmiş, pelerinleri çamura bulanmış, gözleri sabit bir kararlılıkla parlar. Shocktrooper, modern siper savaşının vahşetiyle ortaçağ haçlı ruhunun birleştiği yerdir: dua eden, yemin eden ve düşman hattına bir mızrak ucu gibi saplanan kutsal piyadedir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Dük'ün yeminli şövalyeleri, savaşın en sert noktasına sürülür
 - Ağır zırh, kapışma silahları ve hızlı baskın eğitimi

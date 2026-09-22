@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch_chander_lieve.jpg/revision/latest/scale-to-width-down/900?cb=20250207052317)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Principality of New Antioch — Yeni Antakya Prensliği, İmanın Son Kalesi
 
 Levant'ın kuzeyinde Cehennem'e karşı duran, Hristiyan dünyasının en büyük kale-şehri; disiplinli askerleri ve teknolojisiyle imanın ön cephesini tutan prenslik.
 
 - **Bağlılık:** Faithful
-- **Lider:** Yeni Antakya Dük'ü (şu an XI. Konstantin)
+- **Önder:** Yeni Antakya Dük'ü (şu an XI. Konstantin)
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Principality of New Antioch (Yeni Antakya Prensliği), Trench Crusade dünyasında Hristiyan imanının en büyük ve en güçlü kalesidir. Orijinal Antakya, 1545'te gizemli bir silahla yok edildikten sonra, küllerinin üzerine yeniden inşa edildi; 1559 Viyana Kılıç Kongresi'nde, Avrupa ve Afrika'nın iman sahibi ulusları, Cehennem'in bölgedeki mutlak egemenliğini engellemek için Levant'ta bir tutunma noktasını sürdürme kararı aldı. Bugün New Antioch, eski Kutsal Topraklar ve Orta Doğu'da Kilise'nin Sapkın güçlere karşı ana savunma hattını oluşturur.
 

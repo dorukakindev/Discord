@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Dream Magic — Rüya Büyüsü
 
 İnsanlığın yaratıcı gücünün rüyada, özellikle Limbo'da yattığını keşfeden disiplin; büyücü Rüya Prensleri'nin diyarlarına gider, rüya dünyalarını yırtar ve uyuyanların bilincine dokunur, ama rüyada hapsolup uyanık gerçeklikle bağını yitirme riski taşır.
 
 - **Tür:** Lore Disiplini
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Rüya Büyüsü (Dream Magic), Kult: Divinity Lost'ta insanlığın yitik yaratıcı gücünün izini süren disiplindir; çünkü bu Lore'a göre, insanın tanrısal yaratma kudreti uyanık dünyada değil, rüyada, özellikle de Limbo denen kolektif rüya diyarında saklıdır. Rüya büyücüsü, çoğu insanın her gece körce gezindiği bu diyarı bilinçli olarak dolaşmayı öğrenir; rüya dünyalarını biçimlendirebilir, yaratabilir ve yırtabilir, Rüya Prensleri'nin diyarlarına girebilir, yabancı gerçeklikleri keşfedebilir ve uyuyan insanların bilincine doğrudan dokunabilir.
 
@@ -19,4 +23,4 @@ Rüya Büyüsü'nün riski, sınırların erimesindedir. Limbo'da fazla uzun kal
 - Yabancı gerçeklikleri ve öteki diyarları keşfetmek
 - Kâbusları uyanık gerçekliğe sızdırmak (Delilik büyücüleriyle işbirliği)
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

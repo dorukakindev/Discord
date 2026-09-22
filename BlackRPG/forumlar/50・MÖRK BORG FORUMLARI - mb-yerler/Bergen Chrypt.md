@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Bergen Chrypt — Buzlu Manastır Dağı, Kuzeyin Donmuş Mezarı
 
 Karla ve buzla örtülü kuzey dağlarında yükselen, terk edilmiş bir manastır-kale; soğuğun, yalnızlığın ve unutulmuş kutsal dehşetlerin hüküm sürdüğü donmuş bir zirve.
 
 - **Bölge:** Kuzey dağları, bilinen dünyanın soğuk kuzey sınırı
 - **Tür:** Dağ Kalesi
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Bergen Chrypt, Mörk Borg dünyasının kuzey sınırlarında, karın ve buzun hiç çekilmediği amansız dağların arasında yükselen donmuş bir manastır-kaledir. Buraya ulaşmak başlı başına bir çiledir; sarp yamaçlar, dipsiz buz yarıkları ve insanı bir solukta donduran kuzey rüzgârları, yolcuyu daha zirveye varmadan teslim almaya çalışır. Dağların bu yüksek köşesinde kış asla bitmez; gökyüzü kurşun rengi, hava bıçak gibi keskin, ve manzara baştan başa beyaz ve ölüdür. Bergen Chrypt, dünyanın geri kalanından soğuk ve sessizlikle ayrılmış, kendi başına bırakılmış bir azap mevkisidir.
 

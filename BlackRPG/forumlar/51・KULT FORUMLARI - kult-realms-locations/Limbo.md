@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Limbo — Ara Diyar, Rüya ile Gerçeğin Buluştuğu Yer
 
 Yaşam, ölüm ve rüyalar arasında var olan akışkan diyar; insanın bilinçaltının bilince çıktığı, hayal ettiği ve korktuğu her şeyin inkâr edilemez biçimde gerçek olduğu sınır âlemi.
 
 - **Tür:** Ara Diyar
-- **ruler:** -
+- **Ruler:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Limbo, Kult evreninin en akışkan ve en tekinsiz diyarıdır; yaşam, ölüm ve rüyalar arasında bir yerde var olan sınır âlemi. Ne tam olarak Yanılsama'ya, ne Metropolis'e, ne de Inferno'ya aittir; o, bütün bu gerçekliklerin kıyısında uzanan bir ara bölgedir. Limbo'nun sabit bir coğrafyası, değişmez yasaları yoktur; çünkü onu biçimlendiren taş ya da çelik değil, insanın zihnidir. Burada gerçeklik, düşüncenin, duygunun ve rüyanın akışıyla durmadan değişir.
 
@@ -22,4 +26,4 @@ Limbo, Kult'ta zihnin ve gerçekliğin birbirinden ayrılamayacağını temsil e
 - Sabit bir coğrafyası yoktur; düşünce ve duyguyla şekillenir
 - Rüya gören ya da ölmek üzere olanlar buraya geçebilir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

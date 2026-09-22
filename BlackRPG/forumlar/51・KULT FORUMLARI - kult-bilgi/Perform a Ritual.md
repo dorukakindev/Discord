@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Perform a Ritual — Ritüel Yürütmek
 
 Kult'un temel büyü mekaniği: büyücü niyetini açıklar, kurban sunar ve Soul niteliğiyle zar atar. Yüksek sonuç ek etkiler seçtirir, düşük sonuç ise Yanılsama'yı yırtan ya da boyutlar arası sızıntı yaratan bedeller getirir.
 
 - **Tür:** Ritüel
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Ritüel Yürütmek (Perform a Ritual), Kult: Divinity Lost'ta büyünün kalbindeki temel mekaniktir; bütün Lore disiplinleri, sonuçta bu tek hareketin etrafında döner. Süreç bir sohbet gibi başlar: büyücü tam olarak ne yapmak istediğini açıklar, ve Anlatıcı niyetin karmaşıklığına göre gereklilikleri belirler. Bu gereklilikler ağır olabilir: saatler ya da günler süren bir döngü, yardımcı katılımcılar, belirli bir yer ya da zaman, özel maddesel bileşenler. Karşılanmayan her koşul, zara ceza olarak işler. Ve hangi ritüel olursa olsun, bir kural değişmez: her zaman bir kurban sunulması gerekir, cansız bir adak ya da canlı bir yaşam.
 
@@ -19,4 +23,4 @@ Bu son ihtimal, Kult büyüsünün gerçek dehşetidir. Çünkü ritüel sadece 
 - Yüksek sonuçta birden fazla ek etki seçmek (boyutlara taşma, kalıcılık, koruma)
 - Düşük sonuçta Yanılsama'nın yırtılması ve istenmeyen sonuçlarla baş etmek
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

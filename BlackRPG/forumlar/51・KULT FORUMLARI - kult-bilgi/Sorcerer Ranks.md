@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Sorcerer Ranks — Büyücü Rütbeleri
 
 Büyücünün bir Lore içindeki ilerleyişini belirleyen dört aşamalı yetkinlik basamağı: Initiate, Journeyman, Adept ve Master. Her rütbe daha derin içgörüler, daha güçlü etkiler ve yeni Uzmanlık Alanları açar.
 
 - **Tür:** Lore Disiplini
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Büyücü Rütbeleri, Kult: Divinity Lost'ta bir büyücünün seçtiği Lore disiplini içindeki yolculuğunu basamaklara böler; çünkü hiç kimse en derin gizli bilimlere bir gecede ulaşamaz. Bu yolculuk dört rütbeden geçer: Initiate (Mürit), Journeyman (Kalfa), Adept (Usta Adayı) ve Master (Üstat). Büyücü bir Lore'a adım attığında otomatik olarak Initiate olur; sonra emek, risk ve içgörü biriktirdikçe sonraki basamaklara tırmanabilir. Her rütbe, bir önceki olmadan açılmaz; bilgi, katman katman ve sırayla kazanılır.
 
@@ -19,4 +23,4 @@ Ama yükselmek, güvenliğe değil, daha büyük tehlikeye doğru tırmanmaktır
 - Master: Lore'un en güçlü ve en tehlikeli etkilerine hâkimiyet
 - Her rütbe perdeyi daha çok yırtma kapasitesi ve riski getirir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

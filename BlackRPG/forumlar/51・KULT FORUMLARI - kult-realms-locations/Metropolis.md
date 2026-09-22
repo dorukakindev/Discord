@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Metropolis — Kadim Şehir, Parçalanmış Tanrısallığın Yurdu
 
 Yanılsama'nın ardında yatan soğuk ve kadim şehir; insanlığın kayıp gerçek şehrinin yansıması ve aslı. Archon'ların hüküm sürdüğü, taştan ve makineden örülmüş ölümsüz başkent.
 
 - **Tür:** Kadim Şehir
-- **ruler:** Archon'lar
+- **Ruler:** Archon'lar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Metropolis, Yanılsama'nın hemen ardında uzanan kadim ve gerçek şehirdir; Elysium'un sahte sokaklarının altında yatan asıl gerçeklik. İnsanlık tanrısallığını yitirmeden önce, Metropolis bizim şehrimizdi; sonsuz, görkemli ve canlı. Bizim bildiğimiz bütün şehirler, New York'tan Roma'ya kadar, aslında onun çarpık, soluk ve unutulmuş birer yansımasından ibarettir. Yanılsama'nın perdesi yırtıldığında, bir insan kendini sıradan caddeler yerine bu kadim metropolün soğuk taş koridorlarında bulabilir.
 
@@ -22,4 +26,4 @@ Metropolis, Kult'ta insanlığın gerçek doğasının ve gerçek yurdunun anıs
 - Soğuk, mekanik, taştan ve sonsuz; zaman orada başka türlü akar
 - Bütün insan şehirleri onun çarpık birer gölgesidir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

@@ -1,18 +1,31 @@
+https://static.wikia.nocookie.net/darksun/images/6/6d/Defiler_Wizard.jpg/revision/latest?cb=20230618215420
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
-# Defiling — Yıkıcılık, Toprağı Yakan Büyü
 
-Sihirbazın büyü yaparken çevresindeki topraktan ve canlı yaşamdan enerji çekerek onu kısır küle çevirmesi; Athas'ı çöle döndüren ve nefret edilen kadim günah.
+# Defiling — Yıkıcılık, Toprağı Kül Eden Kara Sanat
 
-- **Kategori:** Büyü
+Athas'ta tüm arcane büyü gücünü çevredeki ekosistemden çeker. Defiler, her büyüde toprağı ve yaşamı yakar, geriye steril kül bırakır. Athas'ı çöle çeviren tam da budur; gezegenin yavaş ölümünün asıl sorumlusu.
 
-Yıkıcılık (Defiling), Dark Sun evreninin en yıkıcı ve en nefret edilen olgusudur; Athas'ı yemyeşil bir dünyadan ölmekte olan bir çöle çeviren büyü biçimidir. Athas'ta büyü yapmak enerji gerektirir, ve bir Yıkıcı (defiler) bu enerjiyi çevresindeki canlı yaşamdan çekerek elde eder. Büyü yapıldığı anda, sihirbazın etrafındaki bitkiler kavrulur, otlar griye döner ve toprak yaşam gücünden boşaltılarak kısır, kül rengi bir alana dönüşür; geriye sadece ölü bir leke kalır, üzerinde hiçbir şeyin kolayca yeniden büyümediği bir yara.
+- **Tür:** Arcane Büyü
+- **Kaynak:** Çevredeki ekosistemin yaşam enerjisi (yıkarak çekilir)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Yıkıcılığın cazibesi, sunduğu kolaylık ve güçtür. Bir Yıkıcı, çevresindeki yaşamı pervasızca tüketerek büyülerini hızlı ve zahmetsizce yapabilir; toprağa verdiği zararı umursamaz, çünkü ona göre güç her şeyden önce gelir. Bu yol, daha güçlü ve daha çabuk büyü vaat eder, ama bunun bedelini gezegenin kendisi öder. Çağlar boyunca, sayısız Yıkıcı, kendi anlık güçleri uğruna Athas'ın verimli topraklarını yağmalamış, ormanları yakmış ve gezegeni adım adım çöle çevirmiştir.
+## Kayıt
 
-Yıkıcılığın sonuçları, Athas'ın bugünkü çorak halinde her yerde görülür. Bir zamanlar uçsuz bucaksız ormanlar ve denizler olan yerler, şimdi kum denizleri ve tuz düzlüklerine dönüşmüştür; ve bu yıkımın büyük bölümü, Sihirbaz-Kralların ve onların çağlar süren Yıkıcı büyülerinin eseridir. Bu yüzden büyü, Athas'ta korkulan ve nefret edilen bir güçtür; sıradan halk, bir büyücü gördüğünde çoğu zaman onu bir Yıkıcı sanır ve dehşete kapılır. Bir Yıkıcı'nın geçtiği topraklar, ardında bıraktığı kül rengi izlerle kolayca tanınır; ve bu izler, halkın büyüye duyduğu nefretin haklı temelini oluşturur.
+Defiling, yani Yıkıcılık, Dark Sun dünyası Athas'ın en temel trajedisini taşıyan büyü yoludur. Athas'ta hiçbir arcane büyücü, gücü kendi içinden ya da boşluktan üretmez; bu kavurucu çöl gezegeninde tüm büyü gücü, çevredeki ekosistemin yaşam enerjisinden çekilir. Bir defiler, bir büyü dokuyacağı zaman, etrafındaki bitkilerin, otların ve toprağın canlılığını zorla ve hoyratça emer; bu enerjiyi büyüsüne yakıt yapar. İşlem hızlıdır, güçlüdür ve büyücüye anında, görkemli bir kudret verir; ama bunun bedelini gezegenin kendisi öder.
 
-Yıkıcılık, Dark Sun'da gücün açgözlülüğünü ve onun korkunç bedelini temsil eder; tek bir büyücünün anlık kudretinin, koca bir dünyanın yaşamını nasıl yavaşça yutabileceğini gösterir. Bu olgu, Athas'ı diğer fantastik dünyalardan ayıran en derin ahlaki çatışmanın da kaynağıdır; çünkü her büyücü, kolay ve yıkıcı gücü mü yoksa zor ve sorumlu yolu mu seçeceği kararıyla yüzleşmek zorundadır.
+Bir defiler büyü yaptığında, ardında bıraktığı manzara dehşet vericidir. Ayaklarının çevresinde, büyünün gücüne göre genişleyen bir halka hâlinde, tüm bitki örtüsü anında kavrulur ve solar; canlı toprak, steril ve kapkara bir küle dönüşür. Bu kül, sıradan bir yangın izi değildir; o noktada toprağın yaşam verme yetisi yıllarca, hatta onlarca yıl yok olur. Yeşil bir çayır, bir defilerin tek bir büyüsüyle ölü bir leke hâline gelebilir. Athas'ın uçsuz bucaksız çölleri, kızıl kumları ve ölü toprakları, çağlar boyunca sayısız defilerin biriken yıkımının ürünüdür.
 
--# Çapraz: Sihirbaz büyü için topraktan yaşam enerjisi çeker · Çevredeki bitkileri yakar ve toprağı kısır bırakır · Athas'ı çöle çeviren temel sebeptir · Preserving (Koruyuculuk) bunun karşıtıdır
+![gorsel](https://static.wikia.nocookie.net/darksun/images/6/6d/Defiler_Wizard.jpg/revision/latest?cb=20230618215420)
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+Defiling'in en sinsi yanı, kısa vadede cazip olmasıdır. Yıkıcı yöntemle enerji çekmek, koruyucu yönteme göre daha kolay ve daha hızlıdır; aynı büyüyü daha az çabayla, daha çabuk dokuyabilir. Bu yüzden iktidar peşindeki büyücüler, sihirbaz-krallar ve onların hizmetkârları neredeyse her zaman bu yolu seçer. Ama bu güç, gezegeni adım adım öldürmektedir; her defiler, Athas'ın mezarını biraz daha kazar. Defiling, Dark Sun'da gücün her zaman bir bedeli olduğunu, ve bazen o bedeli kişinin kendisinin değil, içinde yaşadığı tüm dünyanın ödediğini gösterir; çünkü Athas, kötü büyünün cezasını yüzyıllar boyunca taşıyan, yavaş yavaş ölen bir gezegendir.
+
+## Ayırt Edici Özellikler
+
+- Her büyü için çevredeki bitki örtüsünün yaşam enerjisini zorla, hoyratça çeker
+- Büyücünün ayakları çevresinde bir halka hâlinde toprağı steril, kara küle çevirir
+- Aynı enerjiyi koruyucu büyüden daha hızlı topladığı için kısa vadede daha güçlüdür
+- O kül toprakta uzun yıllar hiçbir şey yetişmez; etki kalıcıdır
+- Athas'ın çölleşmesinin ve ölü topraklarının doğrudan sebebidir
+
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

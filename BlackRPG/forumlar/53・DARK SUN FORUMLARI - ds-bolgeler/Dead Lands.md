@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Dead Lands — Ölü Topraklar, Güneyin Lanetli Çorağı
 
 Athas'ın güneyinde uzanan, yaşamın neredeyse tümüyle yok olduğu, kavurucu ve ölümcül çorak diyar; büyünün ve geçmiş felaketlerin en derin izlerini taşıyan, kâşiflerin korkuyla andığı lanetli bölge.
 
 - **Tür:** Çöl
 - **Bölge:** Athas'ın güney kesimi, Tablelands'in ötesi
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Ölü Topraklar (Dead Lands), Athas'ın güneyinde uzanan, gezegenin en kavurucu ve en ölümcül çorak diyarlarından biridir; yaşamın neredeyse tümüyle silindiği, çoraklığın mutlak bir hâl aldığı bir bölgedir. Tablelands'in tanıdık ve görece yerleşik dünyasının güney sınırının ötesinde başlayan bu topraklar, Athas'ın çoktan ölmüş kesimleri arasında en korkulanlarından biridir. Burada ne vahalar ne göçebe kabileler ne de yaşamın bilindik biçimleri vardır; yalnızca sonsuz, kavurucu ve sessiz bir ölü manzara uzanır.
 
@@ -22,4 +26,4 @@ Bu lanetli bölge, Athas sakinleri arasında korkuyla ve çekingenlikle anılır
 - Kâşifler ve göçebeler tarafından korkuyla anılır
 - Tablelands'in tanıdık dünyasının güney sınırı ötesi
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

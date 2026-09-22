@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Ktandeo's Cane — Ktandeo'nun Asası, Koruyucunun Gizli Silahı
 
 Halfling druid Nok'un, preserver büyücü Ktandeo için yaptığı, ucunda bir obsidyen küre taşıyan ağaç asa. Düşük seviye büyüleri kopyalar ve koruyucu kalkan sunar; ama her kullanımda sahibini yaşlandırır.
 
 - **Tür:** Büyülü Nesne
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Ktandeo's Cane (Ktandeo'nun Asası), Dark Sun dünyası Athas'ın koruyucu büyücülerinin en değerli silahlarından biridir; halfling druid Nok tarafından, Tyr şehrinin gizli preserver büyücüsü Ktandeo için yapılmış, ucunda bir obsidyen küre taşıyan bir ağaç asadır. Athas'ta arcane büyü çoğu yerde ölümle cezalandırılır; çünkü gezegeni yöneten sihirbaz-krallar birer defiler'dir ve büyüyü kendi tekellerinde tutmak isterler. Yaşamı yakmadan büyü yapan koruyucular ise gizlenmek zorundadır; işte bu asa, böyle bir koruyucunun, defiler tiranlığa karşı yürüttüğü sessiz savaşın silahıydı.
 
@@ -11,7 +15,7 @@ Asanın gücü, onu taşıyan koruyucuya defiler'lara karşı bir şans verecek 
 
 Ama asanın bir bedeli vardır: her kullanım, sahibini yaklaşık altı ay yaşlandırır. Yani bu güç, ömürle ödenir; onu fazla kullanan bir büyücü, gücünü kullandıkça hızla çöker. Asanın hikayesi de trajik biter; Ktandeo'nun ölümünden sonra Sadira'ya geçer, ama Nok onu geri istediğinde çıkan çatışmada asa paramparça olur. Böylece Athas'ın en güçlü koruyucu silahlarından biri, kralları deviren mücadelenin ortasında yok olur. Ktandeo's Cane, Dark Sun'da koruyucu büyünün hem umudunu hem de bedelini temsil eder; tiranlığa karşı bir koruyucunun elindeki nadir kudreti taşıyan, ama o kudreti kullananın ömründen koparan, obsidyen başlı bir ağaç asadır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Nok tarafından, preserver büyücü Ktandeo için yapılan ağaç asa
 - Ucunda kudretini odaklayan bir obsidyen küre taşır
@@ -19,4 +23,4 @@ Ama asanın bir bedeli vardır: her kullanım, sahibini yaklaşık altı ay yaş
 - Günde bir kez dokunulmazlık küresi (globe of invulnerability) sağlar
 - Her kullanımda sahibini altı ay yaşlandırır; çatışmada paramparça oldu
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

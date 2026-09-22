@@ -1,10 +1,14 @@
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Ziminiar — Kuzeyin İblisi, Düşen Meleklerin Hükümdarlarından Biri
 
 Kuzeyin iblisi ve düşen meleklerin soylularından biri; Kola Yarımadası'nda kısa süreliğine açılan Kuzey Cehennem Ağzı'ndan ordularını Yaratılış'a salan kadim güç.
 
 - **Tür:** İblis
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Ziminiar, Trench Crusade'de düşen meleklerin hükümdarlarından (royalty of fallen angels) biri ve Kuzeyin iblisidir. Uzak Kuzey'in engin soğukluğunda, Yaratılış'ın sınırları zaman zaman incelir ve yarılır; işte o zaman, fiziksel dünyaya kocaman bir Cehennem Ağzı (Hellmouth) açılır. Bu kapı, Kola Yarımadası'nın izsiz, yolsuz vahşi doğasında, yalnızca birkaç saatliğine belirir; ve hem yeri hem zamanı, Cehennem'in kendi cıvayı andıran iktidar mücadeleleriyle birlikte sürekli kayar. Bu yüzden Kuzey Cehennem Ağzı, ne tam olarak öngörülebilir ne de kalıcı olarak kapatılabilir; o, dünyanın etine açılmış, sabit olmayan bir yaradır.
 

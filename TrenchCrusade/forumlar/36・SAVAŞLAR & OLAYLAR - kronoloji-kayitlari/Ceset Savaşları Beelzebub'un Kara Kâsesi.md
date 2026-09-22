@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_Vessel.jpg/revision/latest/scale-to-width-down/900?cb=20250428031535
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_Vessel.jpg/revision/latest/scale-to-width-down/900?cb=20250428031535)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Ceset Savaşları: Beelzebub'un Kara Kâsesi
 
 Sineklerin Efendisi Beelzebub'un Kara Kâse vebasını dünyaya salması ve ölüleri ayağa kaldıran Ceset Savaşları'nın başlaması.
 
-
+- **Era:** 1346
 - **Dönem:** 1346
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Cehennem'in tehdidi her zaman ordular ve açık savaş biçiminde gelmedi; bazen en büyük dehşet görünmez bir lanet olarak kapıya dayandı. Kanonik kayda göre 1346 yılında, Sineklerin Efendisi Beelzebub, Cehennem lordlarının amansız iktidar mücadelesinde üstünlüğü ele geçirdi ve en ölümcül lanetini dünyaya saldı: Kara Kâse (the Black Grail). Böylece insanlık tarihinin gördüğü en korkunç veba başladı ve onunla birlikte "Ceset Savaşları" (the Corpse Wars) doğdu.
 

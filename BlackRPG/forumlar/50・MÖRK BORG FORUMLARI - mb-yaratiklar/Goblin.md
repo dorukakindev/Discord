@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Goblin — Goblin, Çürüyen Dünyanın Sinsi Sürüsü
 
 Mörk Borg dünyasının kanalizasyonlarında, harabelerinde ve karanlık köşelerinde kaynaşan, ufak, hain ve sayıca üstün yaratıklar; tek başlarına zayıf, sürü halinde ölümcül.
 
 - **Tür:** Goblin
-- **Tehdit:** Sürü halinde tehlikeli
+- **Tehdit Seviyesi:** Sürü halinde tehlikeli
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Goblinler, Mörk Borg'un ölmekte olan dünyasının en yaygın ve en sefil yırtıcılarından biridir. Çürüyen şehirlerin kanalizasyonlarında, terk edilmiş harabelerde, nemli mağaralarda ve insanların gitmekten korktuğu her karanlık köşede kaynaşırlar. Ufak, çelimsiz ve hain bu yaratıklar, tek başlarına neredeyse hiçbir tehdit oluşturmaz; iyi beslenmiş bir köpek kadar zayıf, ürkek ve korkaktırlar. Ama goblinler asla tek başına gelmez.
 
@@ -12,7 +16,7 @@ Goblinlerin gerçek dehşeti, sayılarındadır. Bir maceracı kafilesi karanlı
 
 Bu çağda, Nechrubel'in kıyamet sözlerinin dünyayı yavaşça yuttuğu bu son günlerde, goblinler çürümeden beslenen leş yiyiciler gibi çoğalır. Ölü şehirlerin enkazında, mezarlıkların altında ve unutulmuş geçitlerde kaynaşarak, çöküşün her köşesine sızarlar. Bir maceracı için goblinler nadiren onurlu bir ölüm getirir; bunun yerine paslı bir bıçağın enfeksiyonu, karanlıkta bir çığlık ve sayısız küçük elin yağmalayışı vaat ederler. Onlar dünyanın sonunun en bayağı, en aşağılık ama yine de en kalabalık habercileridir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Tek başına cılız, sürü halinde boğucu bir tehdit
 - Paslı bıçaklar, taş ve kemikten kaba silahlar taşır

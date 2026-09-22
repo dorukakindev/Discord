@@ -1,9 +1,17 @@
+https://static.wikia.nocookie.net/darksun/images/8/85/Dregoth_Sorcerer_King2.png/revision/latest/scale-to-width-down/597?cb=20260109173141
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/8/85/Dregoth_Sorcerer_King2.png/revision/latest/scale-to-width-down/597?cb=20260109173141)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Dregoth — Giustenal'in Ölü Tanrısı, Ejderha-Kral
 
 Bir zamanlar öldürülmüş, ama ölümsüz bir varlık olarak geri dönen sihirbaz-kral; yıkılmış Giustenal şehrinin yeraltı kalıntılarından hüküm süren, dray adlı yarı-ejderha ırkını yaratan ve tanrılaşmayı amaçlayan korkunç bir undead büyücüdür.
 
 - **Şehir:** Giustenal
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Dregoth, Athas'ın en korkunç ve en sıra dışı sihirbaz-krallarından biridir; çünkü o, ölümün bile durduramadığı bir varlıktır. Bir zamanlar yaşayan bir sihirbaz-kral ve ejderhalaşmaya en çok yaklaşmış yıkıcılardan biri olan Dregoth, kendi gücünden ürken diğer sihirbaz-kralların ittifakı tarafından öldürüldü. Ama bu onun sonu olmadı; korkunç güçleri ve kadim bilgisi sayesinde, Dregoth ölümün ötesinden, ölümsüz ve undead bir varlık olarak geri döndü. Şimdi o, ne tam yaşayan ne de tam ölü, dehşet verici bir ölü-tanrıdır.
 
@@ -13,7 +21,7 @@ Dregoth'un en korkunç eseri, kendi suretinde yarattığı dray ırkıdır. Dray
 
 Dregoth, ölümün bile durduramadığı bir hırsın ve intikamın simgesidir; öldürülmüş, ama yok edilememiş bir sihirbaz-kral. O, Athas'ın karanlık doğasının en uç örneğidir: gücün öyle bir noktaya ulaşabileceği ki, ölüm bile onu yalnızca geçici olarak durdurabilir. Yeraltındaki gizli şehrinden, dray ordusuyla ve tanrılaşma takıntısıyla, Dregoth sabırla beklemekte ve hazırlanmaktadır; bir gün gölgelerden çıkıp hem onu öldürenlerden intikam alacağı, hem de dünyaya ölü bir tanrı olarak hükmedeceği günü.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Diğer sihirbaz-krallar tarafından bir kez öldürüldü, ama undead olarak döndü
 - Yıkılmış Giustenal'in altındaki gizli şehir Kragmorta'dan hüküm sürer
@@ -21,4 +29,4 @@ Dregoth, ölümün bile durduramadığı bir hırsın ve intikamın simgesidir; 
 - Tek amacı tam tanrılaşma ve intikamdır
 - Ejderhalaşmaya en çok yaklaşmış kadim yıkıcılardan biriydi
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

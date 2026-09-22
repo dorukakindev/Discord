@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Kara Lens ve Ölümsüz Dönüşüm
 
 Rajaat'ın Champion'larını Pristine Tower'da Dark Lens aracılığıyla ölümsüz, yarı-tanrısal yıkıcılara dönüştürmesi.
 
-
+- **Era:** Pristine Tower
 - **Dönem:** Pristine Tower
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Rajaat'ın on beş insan Champion'ı yetenekli savaşçılardı, ama sıradan insanlardı; yaşlanıyor, yorgun düşüyor ve ölüyorlardı. Rajaat'ın planladığı arınma savaşı ise yüzyıllar, hatta bin yıllar sürecekti. Sıradan ölümlüler bu kadar uzun bir savaşı yürütemezdi. Bu yüzden Rajaat, Champion'larını sıradan insandan çok daha fazlasına, ölmeyen ve neredeyse tanrısal güçlere sahip varlıklara dönüştürmeye karar verdi. Bu dönüşümün gerçekleştiği yer, Athas'ın en gizemli ve en kadim yapısıydı: Pristine Tower, yani Bakir Kule.
 
@@ -14,4 +18,4 @@ Bu dönüşüm, Champion'ları ölümsüz kıldı. Artık yaşlanmıyorlardı ve
 
 Ancak bu dönüşümün karanlık bir bedeli vardı ve bu bedel, ileride Rajaat'ın kendi sonunu hazırlayacaktı. Ölümsüzlük ve yıkıcı güç, Champion'ların doğasını değiştirdi; onları daha güçlü kıldığı kadar daha hırslı, daha kibirli ve kendi iradelerine daha düşkün hale getirdi. Rajaat, kendi elleriyle, kendisine bir gün başkaldıracak kadar güçlü on beş ölümsüz yaratmıştı. Dahası, bu dönüşüm sürecinin bazı versiyonlarında, kimi Champion'lar tam değil, eksik dönüştürüldü ya da süreç onlarda farklı sonuçlar doğurdu; bu da aralarındaki gelecek gerilimlerin tohumlarını ekti. Pristine Tower'daki dönüşüm, Rajaat'ın gücünün zirvesiydi; ama aynı zamanda, ölümsüz kıldığı bu varlıkların bir gün onu Hollow denen bir hapse kapatacak isyanının da başlangıç noktasıydı. Kara Lens ile yaratılan bu ölümsüz ordu, Athas'ı kurtarmak için değil, onu kül etmek için yola çıkmak üzereydi.
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

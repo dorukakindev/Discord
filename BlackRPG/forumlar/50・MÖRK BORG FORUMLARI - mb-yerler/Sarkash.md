@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Sarkash — Kara Orman, Ağaçların Lanetli Diyarı
 
 Bilinen dünyanın en büyük ve en lanetli ormanı; ışığın ulaşamadığı, ağaçların kımıldadığı, yolların kaybolduğu ve içine girenin çoğu zaman geri dönmediği kasvetli karanlık.
 
 - **Bölge:** Galgenbeck'in kuzeyi/yakını, bilinen dünyanın ormanlık kuşağı
 - **Tür:** Orman
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Sarkash, Mörk Borg dünyasının en büyük ve en uğursuz ormanıdır; bilinen diyarların kuzeyini örten, ışığın neredeyse hiç ulaşamadığı sonsuz bir karanlık denizi. Burada ağaçlar sıradan ağaçlar değildir; gövdeleri kara ve çarpık, dalları pençe gibi kıvrılmış, kabukları yüzyılların acısını taşıyan kasvetli varlıklardır. Ormanın derinliklerinde güneş bir efsaneden ibarettir; tepedeki yoğun yaprak örtüsü gökyüzünü tümüyle yutar ve zemine yalnızca soluk, hastalıklı bir alacakaranlık sızar. Sarkash'ın içinde gece ile gündüz arasındaki fark silinir; yalnızca derinleşen bir gölge ve onu izleyen daha koyu bir gölge vardır.
 

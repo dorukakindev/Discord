@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/2/2b/Luca_Giordano_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg/revision/latest?cb=20250501181436
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/2/2b/Luca_Giordano_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg/revision/latest?cb=20250501181436)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Nihai Sapkınlık: Cehennem Kapısı Açılıyor
 
 Tapınak Şövalyeleri'nin Kudüs'te iblissel güçlerle pakt kurup the Breach'i açması ve şehrin yok olması.
 
-
+- **Era:** 1099
 - **Dönem:** 1099
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Birinci Haçlı Seferi'nin sonunda, 1099 yılının yaz sıcağında, Kudüs alındı. Tarihin gördüğü en uzun ve en kanlı kuşatmalardan birinin ardından Haçlı orduları şehre girdi; kılıç ve iman, nihayet Kutsal Toprak'a kavuşmuştu. Ama zafer çok kısa sürdü. Tapınak Şövalyeleri'nin bir kolu, şehrin altındaki kadim mahzenlerde bir şey buldu: İnsanlığın asla dokunmaması gereken, kadim ve iblissel bir eser. Açgözlülük ya da iman zayıflığıyla, belki her ikisiyle birlikte, bu şövalyeler eserle pazarlık etti, anlatılamaz ayinler düzenledi ve sonunda, kara büyünün doruğunda, yeryüzünün dokusunu yırttılar.
 

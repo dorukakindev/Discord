@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/5/5d/BalicDawnlabeled-1-.jpg/revision/latest?cb=20111117022629
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/5/5d/BalicDawnlabeled-1-.jpg/revision/latest?cb=20111117022629)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Balic — Liman Şehri, Andropinis'in Sözde Cumhuriyeti
 
 Silt Denizi kıyısındaki tüccar şehri; kendini bir cumhuriyet gibi gösteren ama gerçekte sonsuza dek 'seçilen' Sihirbaz-Kral Andropinis tarafından yönetilen, ticaretle zengin liman.
 
 - **Tür:** Şehir-Devlet
 - **Bölge:** Tablelands'in güneybatısı, Silt Denizi kıyısı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Balic, Athas'ın Tablelands bölgesinin güneybatısında, Silt Denizi'nin kıyısında yer alan, ticaretle zenginleşmiş bir şehir-devlettir. Konumu sayesinde Balic, Silt Denizi üzerindeki silt-gemisi trafiğinin ve kıyı ticaretinin önemli bir merkezi olmuştur; tüccarları, malları ve servetiyle Athas'ın en müreffeh şehirlerinden biridir. Çevresindeki topraklarda yetiştirilen zeytin ve diğer mahsuller, şehrin ekonomisini deniz ticaretiyle birlikte besler; Balic, bir tüccar ve denizci uygarlığı kimliğiyle öne çıkar.
 
@@ -22,4 +30,4 @@ Balic, Athas'ta tiranlığın en kurnaz ve en gizli biçimini temsil eder; zinci
 - Andropinis sürekli 'ömür boyu diktatör' seçilir
 - Zeytin tarımı ve deniz ticaretiyle zengin
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Abomination — İğrenç, Bedeni Bozulmuş Aydınlanmış
 
 Gerçeğe dokunmuş ve karşılığında bedeni ile ruhu canavarca bozulmuş Aydınlanmış; insanlığın eşiğinde duran, korkunç güçler taşıyan ama insanlığını yitirmekte olan bir varlık.
 
 - **Kategori:** Aydınlanmış (Enlightened)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Abomination (İğrenç), Kult'un dört Aydınlanmış arketipinden biridir ve belki de en trajik olanıdır; çünkü gerçeğe dokunmanın bedelini en doğrudan, en görünür biçimde bedeninde taşır. Bir zamanlar sıradan bir insan olan bu karakter, Yanılsama'nın perdesini aralamış, gerçekliğin ardındaki kâbusla yüzleşmiş ve bu temasın sonucunda geri dönülmez biçimde değişmiştir. Aydınlanması ona güç vermiştir, ama bu gücün karşılığında insan olmaktan çıkmaya başlamıştır.
 
@@ -21,4 +25,4 @@ Kult'un kişisel korku temasında Abomination, bedensel dehşetin ve kimlik kayb
 - Diğer insanlarla bağ kurmak giderek imkânsızlaşır
 - Dört bilinen Enlightened arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

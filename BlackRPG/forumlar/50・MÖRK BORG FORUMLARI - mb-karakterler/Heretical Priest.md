@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Heretical Priest — Sapkın Rahip
 
 Kurulu kilisenin ve onun iki Yüzlü Kraliçe'sinin öğretilerine sırt çevirmiş, kendi karanlık inancını ya da bir tanrısızlığı vaaz eden aforoz edilmiş bir din adamı; hem kutsal hem kirli güçlere dokunan bir asi.
 
 - **Rol:** Sınıf
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Heretical Priest (Sapkın Rahip), Mörk Borg'un çürümüş inanç dünyasına en derinden kök salmış sınıfıdır; bir zamanlar kurulu kilisenin bir mensubuyken onun öğretilerine sırt çevirmiş, aforoz edilmiş bir din adamıdır. Mörk Borg'un evreni, iki Yüzlü Kraliçe'ye (the Two-headed Basilisks) tapan, kasvetli ve baskıcı bir kilisenin gölgesinde yaşar; bu kilise, yaklaşan kıyameti ya inkâr eder ya da kendi karanlık çıkarları için kullanır. Sapkın Rahip ise bu düzenin bir parçası olmayı reddetti; ya kilisenin yalanlarını gördü, ya bambaşka bir gerçeğe inandı, ya da inancını tümüyle kaybedip yerine çok daha karanlık bir şey koydu.
 

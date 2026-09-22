@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ac/Hell_Knight
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/a/ac/Hell_Knight.jpg/revision/latest/scale-to-width-down/900?cb=20250428022705)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Hell Knight — Cehennem Şövalyesi, Zırhına Hapsedilmiş Lanetli Savaşçı
 
 Bir zamanlar düşük melek ya da ölümlü şampiyon olan, lordu tarafından lanetlenip kendi zırhına ebediyen hapsedilen cehennemi savaşçı; bedeni binlerce kez katlanıp çarpıtılmış varlık.
 
 - **Tür:** Lanetli Varlık
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Cehennem Şövalyesi (Hell Knight), Trench Crusade'de Cehennem'in en trajik savaşçılarından biridir; bir zamanlar gururla parlayan, şimdi ise kendi zırhının içine ebediyen hapsedilmiş lanetli bir ruh. Bu cehennemi savaşçılar, ya bir zamanlar Cennet hiyerarşisinin alt basamaklarındaki düşük melekler, ya da iblisliğe yükseltilmiş güçlü ölümlü şampiyonlardı. Bir zamanlar saygın, hatta görkemli varlıklardı; ama bir kusur yüzünden, gerçek ya da yalnızca lordlarının hayalindeki bir hakaret yüzünden, efendileri tarafından lanetlendiler. Cehennem'in soylu hiyerarşisinde, en küçük bir kırgınlık bile en korkunç cezalara yol açabilir.
 

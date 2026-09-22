@@ -3,25 +3,21 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/9a/Mike-franch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/9/9a/Mike-franchina-heretic-brute-heavy-weapons-guy-5.jpg/revision/latest/scale-to-width-down/900?cb=20250428015750)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
-# No Man's Land — Ölü Toprak / İnsansız Bölge (İki Ateş Arası)
 
-New Antioch ile Sapkın diyarları ayıran, çamur, krater ve dikenli telle örülü ıssız savaş alanı; warband'ların avlandığı ölü bölge.
+# No Man's Land — Ölü Toprak, Cennet ile Cehennem Arasındaki Çorak Diyar
 
-- **Tür:** Cephe
-- **Bölge:** Levant ön cephesi
+İmanlılar ile Sapkınlar'ın siperleri arasında uzanan, çamur ve kraterle örülü harap bölge; çetelerin keşif, baskın ve kalıntı avı için süzüldüğü ölümcül arazi.
 
-No Man's Land (İnsansız Bölge), Trench Crusade dünyasının kalbinde uzanan, New Antioch ile Sapkın diyarlarını birbirinden ayıran işkenceli ıssız manzaradır. Bir zamanlar mümbit Levant toprağı olan bu bölge, 1099'da Kudüs'te açılan yarıktan beri süren sekiz yüzyıllık aralıksız savaşın ardından binlerce kilometre çamur, krater ve siperle yarılmış bir mezbahaya dönüşmüştür. Dikenli tel yumakları, yarı gömülü cesetler ve top ateşiyle iskelete inmiş katedral kalıntıları manzaranın değişmez parçalarıdır; ne tam olarak fethedilmiş ne de terk edilmiş, iki cephe arasında asılı kalmış bir berzahtır. Burası, Cehennem ile Cennet'in güçleri arasındaki gerçek sınır hattıdır.
+- **Kategori:** Coğrafya
+- **Kanon Sınıfı:** A — resmî güncel lore
 
-No Man's Land, oyunun anlatısal çekirdeğinin geçtiği yerdir. New Antioch Dük'ü, küçük müfrezeleri bu bölgeye sürer; warband adı verilen bu birlikler istihbarat toplar, güç taşıyan kadim eserleri arar, Sapkın güçlere baskın düzenler, stratejik mevzileri ele geçirir ve savaş alanlarını yağmalar. Aynı şekilde Sapkın taraf da kendi devriyelerini ve avcılarını gönderir; iki taraf da burada görev için çarpışır, esir alır, düşman keşif kollarını avlar ve yüksek değerli hedefleri suikastla ortadan kaldırır. Bu yüzden bölge, büyük ordu meydan savaşlarının değil, on ila otuz savaşçılık küçük çarpışmaların sahnesidir; her warband kendi fonunu kendi toplar, kendi askerini kendi devşirir.
+## Kayıt
 
-No Man's Land, fiziksel bir tehlike olduğu kadar ruhani bir tehlikedir de. Cehennem'in dünyaya sızdığı bu cephede toprağın kendisi lanetlenmiş, hava infernal varlıkların ihanetiyle ağırlaşmıştır. Kutsal kalıntılar ve şeytani eserler aynı çamurun içinde yan yana yatar; cesur ya da aç gözlü olan, ölümü göze alarak buraya iner. Holy relic vaadi, muazzam servet ve dünya çapında şöhret, her zaman canını ortaya koymaya hazır hırslı liderlerin akışını besler. Burada hayatta kalmak imanın, barutun ve şansın aynı anda yaver gitmesine bağlıdır; toprak hem en büyük kutsal hazineyi hem de en kara laneti aynı çamurun altında saklar. Çoğu için ise No Man's Land yalnızca son durağıdır: isimsiz bir krater, paslanan bir tüfek ve dua edilmemiş bir mezar.
+Ölü Toprak (No Man's Land), Trench Crusade'in oyun sahnesidir; Cennet'in ve Cehennem'in güçleri arasında, yani İmanlılar ile Sapkınlar'ın siperleri arasında uzanan, tümüyle harap olmuş çorak bir diyardır. Sekiz yüzyıllık savaşın ardından bu arazi, tanınmaz hâle gelmiştir: binlerce kilometre boyunca uzanan çamur denizleri, sayısız siper, krater ve dikenli tel ağı, manzarayı bir kâbusa çevirmiştir. Burası, ne tam olarak ölülerin ne de yaşayanların diyarıdır; iki ordunun arasında kalan, sürekli el değiştiren ölümcül bir aralıktır.
 
-## Özellikler
+Oyunun temel kurgusu bu topraklarda geçer. Her iki taraf da, 10 ile 30 savaşçı arasında değişen küçük çeteler (warband) hâlinde Ölü Toprak'a süzülür; büyük orduların açık çatışması değil, küçük ölçekli, sinsi ve acımasız çatışmalar burada yaşanır. Bu çeteler birçok görev için gönderilir: düşman hakkında istihbarat toplamak, güç taşıyan kadim eserleri ve kutsal kalıntıları bulmak, düşman gözcülerini avlamak, yüksek değerli hedefleri suikastla ortadan kaldırmak ve esir almak. Savaş alanına saçılmış silah ve sikke zenginliğini yağmalamak da bu seferlerin önemli bir parçasıdır.
 
-- İmanlılar ile Sapkınlar arasındaki tarafsız ölü bölge
-- Çamur, krater, dikenli tel, yıkık katedraller
-- Reliquia ve kadim eser avı sahası
-- Küçük warband baskınlarının ana arenası
-- Ne tam ele geçirilmiş ne terk edilmiş cephe
+Ölü Toprak, bu evrenin grimdark, yani umutsuz ve karanlık atmosferinin somut hâlidir. Burada hem fiziksel hem manevi tehlikeler her yerdedir: mayınlı çamur, zehirli gaz, dolaşan iblisler ve lanetli ruhlar her adımı ölümcül kılar. İki büyük güç çıkmaza girdiğinden, gerçek savaş artık bu gri bölgede, küçük baskınlar ve keşifler biçiminde sürer; ve güçlü bir kalıntı ya da kritik bir istihbarat parçası için bu çatışmalar giderek şiddetlenir. Ölü Toprak, Trench Crusade'de büyük bir kozmik savaşın insan ölçeğindeki yüzünü temsil eder; iki ebedi gücün arasında sıkışmış küçük çetelerin, çamur ve dehşet içinde verdiği hayatta kalma mücadelesini gösterir.
 
--# Kaynaklar: Resmî place lore makaleleri
+-# Kaynaklar: Resmî lore terminolojisi
+-# Çapraz: İki ordunun siperleri arasındaki çorak bölgedir · Çeteler istihbarat, kalıntı ve esir için süzülür · Binlerce kilometre çamur, krater ve siper içerir

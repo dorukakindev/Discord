@@ -1,9 +1,17 @@
+https://static.wikia.nocookie.net/darksun/images/f/fb/SK-Andropinis.jpg/revision/latest/scale-to-width-down/597?cb=20170310193753
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/f/fb/SK-Andropinis.jpg/revision/latest/scale-to-width-down/597?cb=20170310193753)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Andropinis — Balic'in Ölümsüz Diktatörü, Seçilmiş Kral
 
 Balic şehir-devletini bir sahte demokrasi cephesi ardında yöneten sihirbaz-kral; kendini ömür boyu seçilmiş Diktatör ilan eden, ticaret ve hukuk görünümü altında mutlak iktidar süren kadim bir yıkıcı büyücüdür.
 
 - **Şehir:** Balic
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Andropinis, Athas'ın en sıra dışı yönetim biçimine sahip sihirbaz-krallarından biridir; Balic şehir-devletinin mutlak hükümdarı, ama kendini bir tiran değil, halk tarafından ömür boyu seçilmiş bir Diktatör (Dictator for Life) olarak sunan kadim bir yıkıcı büyücüdür. Diğer sihirbaz-kralların çoğu açıkça tanrı ya da kral olarak hüküm sürerken, Andropinis daha incelikli bir yol seçmiştir; Balic, görünüşte bir cumhuriyet, seçimleri ve kurumları olan bir devlettir. Ama bu demokrasi cephesi tümüyle bir aldatmacadır; her seçim, sonunda yalnızca Andropinis'i tekrar tekrar iktidara taşır.
 
@@ -13,7 +21,7 @@ Andropinis'in en akıllı yanı, gücünü meşrulaştırma biçimidir. Bir tira
 
 Andropinis, diğer sihirbaz-krallar gibi ejderhalaşma yolunda ilerleyen kadim bir yıkıcı büyücüdür; ama onun yolu, sahte bir demokrasi ve hukuk cephesi ardında gizlenir. O, gücün her zaman kılıçla değil, kimi zaman bir oy sandığının ve bir yasa kitabının ardında da tutulabileceğini gösterir. Balic'in Seçilmiş Diktatörü, meşruiyet maskesi takmış bir tiranı temsil eder; özgürlük vaadiyle kurulmuş, ama özünde bir büyücünün ölümsüz iradesine zincirli bir şehrin efendisidir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Lakap: Ömür Boyu Seçilmiş Diktatör (Dictator), Balic'in efendisi
 - Şehri sahte bir cumhuriyet ve seçim cephesi ardında yönetir
@@ -21,4 +29,4 @@ Andropinis, diğer sihirbaz-krallar gibi ejderhalaşma yolunda ilerleyen kadim b
 - Yunan-Roma esinli bir şehir kültürünün başında bulunur
 - Ejderhalaşma yolundaki kadim bir yıkıcı büyücüdür
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

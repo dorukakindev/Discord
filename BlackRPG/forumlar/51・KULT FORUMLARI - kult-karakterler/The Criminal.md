@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Criminal — Suçlu, Toplumun Kıyısındaki Farkında
 
 Yasanın ve toplumun dışında yaşayan, hayatta kalmak için karanlık yollar öğrenmiş Farkında arketip; toplumun çatlaklarında yaşadığı için gerçekliğin çatlaklarını da erken fark eden bir ayakta kalma ustası.
 
 - **Kategori:** Farkında (Aware)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Criminal (Suçlu), Kult'un Farkında (Aware) arketiplerinden biridir ve toplumun parlak yüzeyinin altındaki karanlığı en iyi bilen figürlerden biridir. Bu karakter, bir hırsız, bir tetikçi, bir dolandırıcı ya da herhangi bir yeraltı dünyasının evladı olabilir. Onu tanımlayan şey, yasanın dışında, toplumun kabul ettiği kuralların ötesinde yaşamasıdır. Criminal, hayatta kalmak için sertleşmiş, güvenmemeyi öğrenmiş ve dünyanın gerçekte nasıl işlediğini acı deneyimlerle kavramıştır.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Criminal, kaybetmiş ve dışlanmış olmanın hem bir
 - Kaybedecek az şeyi olması onu pervasız kılar
 - Yirmi Aware arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

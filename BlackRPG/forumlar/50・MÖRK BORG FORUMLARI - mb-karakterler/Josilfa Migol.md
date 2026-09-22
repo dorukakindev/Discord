@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Josilfa Migol — Galgenbeck'in Hükümdarı
 
 Mörk Borg dünyasının en büyük şehri Galgenbeck'in hükümdarı; iki Yüzlü Kraliçe kültünün gölgesinde, çürümekte olan bir başkenti yöneten karanlık ve nüfuzlu bir figür.
 
 - **Rol:** Hükümdar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Josilfa Migol, Mörk Borg dünyasının en büyük ve en önemli şehri olan Galgenbeck'in hükümdarıdır; bu çürüyen başkentin tahtında oturan, karanlık ve nüfuzlu bir figürdür. Galgenbeck, bu kasvetli evrenin kalbi sayılır; devasa, kalabalık, hastalıklı ve günahla dolu bir metropoldür. İki Yüzlü Kraliçe'ye tapan kurulu kilisenin gölgesi bu şehrin üzerine ağır basar ve Josilfa Migol, işte bu inancın, bu iktidarın ve bu çürümüşlüğün tam ortasında hüküm sürer.
 

@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Aware ve Enlightened Ayrımı — Farkında ile Aydınlanmış Arasındaki Eşik
 
 Kult'ta karakter yaratımının kalbinde yatan ayrım: Yanılsama'nın çatlaklarını sezmeye başlamış Farkında ile gerçekliğin perdesini aralayıp açılmış güçler taşıyan Aydınlanmış arasındaki uçurum.
 
 - **Kategori:** Aydınlanmış (Enlightened)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kult: Divinity Lost'ta bir karakter yaratmanın ilk adımı, yirmi beş arketipten birini seçmektir; ve bu seçim, oyuncunun kâbusa hangi kapıdan gireceğini belirler. Bu yirmi beş arketip iki temel kategoriye ayrılır: yirmisi Aware (Farkında), dördü ise Enlightened (Aydınlanmış). Bu ayrım, oyunun bütün atmosferini ve karakterin gerçeklikle ilişkisini tanımlar; sıradan bir korku öyküsü ile insanın gizli tanrısallığına uzanan bir yolculuk arasındaki farktır.
 
@@ -21,4 +25,4 @@ Bu ayrımın temelinde Kult'un merkezî teması yatar: insanlığın aslında zi
 - Karakter yaratımı her zaman bir arketip seçmekle başlar
 - Aydınlanma bir armağan değil, hatırlamanın ağır bedelidir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

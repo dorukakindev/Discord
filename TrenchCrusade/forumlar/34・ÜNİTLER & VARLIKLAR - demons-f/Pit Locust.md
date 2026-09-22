@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/8/80/Pit_Locust.
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/8/80/Pit_Locust.jpg/revision/latest/scale-to-width-down/900?cb=20250428023136)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Pit Locust — Çukur Çekirgesi, Cehennem'in Derinliklerinden Avcı
 
 Kendini alçaltmış düşmüş melekler ya da Çukur'un derininde kilitli kadim yaratıklar; Levant istilasındaki hizmetleriyle Saray'la avlanma hakkı kazanan iğrenç varlıklar.
 
 - **Tür:** Lanetli Varlık
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Çukur Çekirgesi (Pit Locust), Trench Crusade'de Cehennem'in en derin ve en karanlık köşelerinden gelen iğrenç avcılardır. Onların kökeni iki türlüdür: bazıları, bir zamanlar melekken kendini öyle alçaltmış, öyle debase etmiş düşmüş varlıklardır ki, artık görkemli hâllerinden eser kalmamış, bu sürünen dehşetlere dönüşmüşlerdir; diğerleri ise, Çukur'un (the Pit) en derininde, çağlar boyu kilitli kalmış kadim yaratıklardır. Her iki durumda da, Çukur Çekirgeleri, Cehennem'in dibinden yüzeye çıkan, biçimsiz ve tekinsiz varlıklardır; adlarındaki çekirge, hem onların sürü hâlinde gelen iğrençliğini hem de geçtikleri yeri kemirip çürüten doğalarını anlatır.
 

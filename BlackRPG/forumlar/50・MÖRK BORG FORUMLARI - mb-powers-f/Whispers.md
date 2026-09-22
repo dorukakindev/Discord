@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Whispers — Fısıltılar
 
 Ölmüş bir yaratığa üç soru sorma imkânı veren kutsal mucize; geçmişin sırlarını ve gömülü bilgiyi açığa çıkaran bir kehanet aracı.
 
 - **Tür:** Kutsal Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Fısıltılar (Whispers), okuyana ölmüş bir yaratığa üç soru sorma imkânı veren kutsal bir parşömendir. Mucize tetiklendiğinde, bir cesedin ya da yakın zamanda ölmüş bir ruhun dudaklarından üç kısa cevap koparılabilir. Ölüler yalan söylemez ama az konuşur; bu yüzden mucizenin gerçek gücü, doğru üç soruyu seçebilmekte yatar. Yanlış soru sorulduğunda fırsat boşa gider ve sessizlik geri döner.
 

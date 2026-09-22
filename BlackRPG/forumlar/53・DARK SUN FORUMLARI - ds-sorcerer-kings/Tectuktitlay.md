@@ -1,9 +1,17 @@
+https://static.wikia.nocookie.net/darksun/images/4/4c/Tectuktitlay.jpg/revision/latest/scale-to-width-down/597?cb=20170318202255
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/4/4c/Tectuktitlay.jpg/revision/latest/scale-to-width-down/597?cb=20170318202255)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Tectuktitlay — Draj'ın Yaşayan Tanrısı, Güneşin Oğlu
 
 Draj şehir-devletini kanlı kurban kültü ve mutlak bir tanrı-kral kültüyle yöneten sihirbaz-kral; kendini güneş tanrısının oğlu ilan eden, halkını sürekli savaşa ve insan kurbanına süren acımasız bir yıkıcı büyücüdür.
 
 - **Şehir:** Draj
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Tectuktitlay, Athas'ın en kanlı ve en militan sihirbaz-krallarından biridir; Draj şehir-devletinin mutlak hükümdarı ve kendini güneş tanrısının yaşayan oğlu ilan eden bir tanrı-kraldır. Onun yönetimindeki Draj, savaşın ve kanlı kurban törenlerinin gölgesinde yaşayan bir şehirdir; Tectuktitlay, tebaasının ona yalnızca bir kral olarak değil, doğrudan tanrısal bir varlık olarak tapmasını ister ve bu kültü acımasızca dayatır. Onun sarayı ve tapınakları, mutlak bir ilahlık iddiasının anıtlarıdır.
 
@@ -13,7 +21,7 @@ Draj kültürü ve mimarisi, kralının tanrısal iddialarını yansıtır; basa
 
 Tectuktitlay, diğer sihirbaz-krallar gibi ejderhalaşma yolunda ilerleyen kadim bir yıkıcı büyücüdür; ama onun yolu, kan ve tanrısal kibir üzerine kuruludur. O, gücün dini bir kült ve sürekli savaşla nasıl pekiştirildiğinin en çıplak örneğidir. Draj'ın güneşi, kana susamış bir tanrı-kralın gölgesi altında doğar ve batar; Tectuktitlay, kendini tanrı ilan etmiş bir tiranın, bir şehri nasıl sonsuz bir kurban makinesine çevirebileceğini gösteren karanlık bir figürdür.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Kendini güneş tanrısının yaşayan oğlu ilan eden bir tanrı-kraldır
 - Draj'ı kanlı insan kurbanı ve savaş kültü üzerine kurdu
@@ -21,4 +29,4 @@ Tectuktitlay, diğer sihirbaz-krallar gibi ejderhalaşma yolunda ilerleyen kadim
 - Mezoamerikan esinli ritüeller ve piramit tapınaklar onun simgesidir
 - Ejderhalaşma yolundaki kadim bir yıkıcı büyücüdür
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

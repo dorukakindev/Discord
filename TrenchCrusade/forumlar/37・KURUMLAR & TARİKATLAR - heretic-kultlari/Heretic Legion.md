@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/5/5a/Heretic_Leg
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/5/5a/Heretic_Legion_Logo.png/revision/latest/scale-to-width-down/900?cb=20260915053107)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Heretic Legion — Sapkın Lejyonlar, Cehennem Kapısı'nın Lanetlileri
 
 Cehennem Kapısı tarafından yutulmuş ulusların orduları; Kapı'yı görüp sağ kalarak ebediyen lanetlenmiş insanlar ile Cehennem'in lütfuyla kutsanmış canavarların birliği.
 
 - **Bağlılık:** Heretic
-- **Lider:** Cehennem'in lordları (lanetli komutanlar ve Sapkın subaylar)
+- **Önder:** Cehennem'in lordları (lanetli komutanlar ve Sapkın subaylar)
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Heretic Legion (Sapkın Lejyonlar), Trench Crusade dünyasında Cehennem Kapısı tarafından yutulmuş ulusların orduларıdır; saflarında hem lanetli insanlar hem de Cehennem'in en karanlık lütuflarıyla kutsanmış hayvansı canavarlar savaşır. Bu lejyonlar, iman cephesinin tam karşısında duran Sapkın (Heretic) gücün belkemiğidir; insanı, baş eden bir gaddarlıkla infernal dehşetle birleştirirler.
 

@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Şehir-Devletlerin Tiranları
 
 Hayatta kalan Champion'ların şehir-devletlerinin Sihirbaz-Kralları olarak binlerce yıllık kölelik ve tiranlık çağı kurması.
 
-
+- **Era:** Sihirbaz-Krallar Çağı
 - **Dönem:** Sihirbaz-Krallar Çağı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Rajaat'ın hapsedilmesinin ardından, hayatta kalan Champion'lar dünyayı paylaştılar. Artık bir efendiye hizmet etmiyorlardı; ölümsüzdüler, neredeyse tanrısal güce sahiptiler ve önlerinde fethedilmeyi bekleyen savunmasız bir dünya vardı. Her biri kendine bir şehir ya da bir bölge seçti ve orada mutlak hükümdar oldu. Bu varlıklar artık Champion değil, Sorcerer-King, yani Sihirbaz-Kral olarak anılacaktı. Athas'ın bugünkü siyasi düzeni, bu çağda kuruldu: birbirinden uzak, çölle ayrılmış ve her biri bir ölümsüz tiran tarafından yönetilen şehir-devletleri.
 
@@ -14,4 +18,4 @@ Bu çağ, aynı zamanda Athas'ın çevresel ölümünün hızlandığı dönemdi
 
 Sihirbaz-Krallar Çağı binlerce yıl sürdü. Bu uzun zaman boyunca ölümsüz krallar, kendi aralarında da bitmek bilmeyen entrikalar ve rekabetler yürüttü; ama hiçbiri diğerini tam olarak yenemedi, çünkü hepsi birbiri kadar güçlüydü. Bu arada Champion'lardan biri, yani Borys, en korkunç dönüşümü geçirdi: Ejderha'ya, yani Dragon of Tyr'e dönüştü. Bu dönüşüm, onu Athas'ın en güçlü ve en korkulan varlığı yaptı; her yıl şehir-devletlerden binlerce köleyi haraç olarak alan ve onları korkunç bir büyü için harcayan bir dehşet. Sihirbaz-Krallar Çağı, Athas'ın en uzun ve en karanlık dönemidir; bir dünyanın, kendisini kurtarması gereken kahramanlar tarafından nasıl köleleştirilip kurutulduğunun hikayesidir. Ama her tiranlık gibi, bu çağın da bir sonu vardı; ve o son, Tyr şehrinde başlayacaktı.
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

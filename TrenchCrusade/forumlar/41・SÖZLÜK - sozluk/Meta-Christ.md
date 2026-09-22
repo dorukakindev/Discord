@@ -3,11 +3,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_Vessel.jpg/revision/latest/scale-to-width-down/900?cb=20250428031535)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Meta-Christ — Meta-İsa, Kurtarıcı'nın Klonlanmış Eti
 
 Kurtarıcı İsa'nın klonlanmış et ve kanı; ölüleri diriltebilen ve eti yendiğinde insanı Komünyancı'ya dönüştüren, farklı topluluklarca tapılan güç kaynağı.
 
 - **Kategori:** Din & İman
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Meta-İsa (the Meta-Christ), Trench Crusade evreninin Hristiyan teolojisine getirdiği en karanlık ve en çarpıcı çevirmedir; Kurtarıcı İsa'nın (Christ the Redeemer) klonlanmış et ve kanıdır. Bu evrende inanç, mucizelerle somut bir güce dönüşmüştür ve Meta-İsa, bu gücün en yoğunlaşmış kaynağıdır; aşırı bir kutsal kudretin merkezi ve birçok örgütün tapınma odağıdır. O, sıradan bir simge değil, gerçek ve fiziksel bir güç membaıdır; varlığı, etrafındaki İmanlılar'a olağanüstü yetenekler bahşeder.
 
@@ -15,6 +19,5 @@ Meta-İsa'nın güçleri, hem kutsal hem ürkütücüdür. Bir Meta-İsa, ölül
 
 Bu evrende tek bir Meta-İsa yoktur; farklı topluluklarca tapılan, numaralandırılmış birden çok Meta-İsa vardır. Örneğin İkinci Meta-İsa Kızıl Komünyancılar (Crimson Communicants) tarafından yüceltilir; Üçüncü Meta-İsa, stigmatik rahibelerin tapındığı varlıktır ve onun çektiği stigmata, rahibelere geçmiştir; Yedinci Meta-İsa ise bazı Siper Hacıları'nın taptığı figürdür. Her biri, İmanlılar'ın farklı bir kanadının manevi merkezini oluşturur. Meta-İsa, Trench Crusade'de kutsallığın grimdark bir biçimde yeniden tasavvurunu temsil eder; en yüce kurtuluş figürünün bile, bu evrende nasıl klonlanmış bir et, bir güç kaynağı ve hem lütuf hem dehşet taşıyan bir gize dönüştüğünü gösterir.
 
--# Çapraz: Kurtarıcı İsa'nın klonlanmış et ve kanıdır · Ölüleri diriltebilir · Eti yendiğinde Komünyancı (Communicant) yaratır
-
 -# Kaynaklar: Resmî lore terminolojisi
+-# Çapraz: Kurtarıcı İsa'nın klonlanmış et ve kanıdır · Ölüleri diriltebilir · Eti yendiğinde Komünyancı (Communicant) yaratır

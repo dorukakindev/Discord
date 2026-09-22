@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Grift — Kıyı Diyarı, Tuzlu Çürümenin Toprakları
 
 Bilinen dünyanın bölgelerinden biri; tuzlu rüzgârların, balıkçı toplulukların ve kıyının kadim, tekinsiz tehlikelerinin damgasını taşıyan bir kıyı diyarı.
 
 - **Bölge:** Bilinen dünyanın kıyı/güney bölgesi
 - **Tür:** Diyar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Grift, Mörk Borg dünyasının bilinen bölgelerinden biridir; kıyametin gölgesi altındaki diyarların arasında adı anılan, kendi kasvetli kaderini taşıyan bir topraktır. Bilinen dünyanın çürüyen coğrafyasında Grift, denizin ve kıyının soğuk nefesini taşıyan bir bölge olarak belirir; tuzlu rüzgârların kemirdiği, yoksul ve sert toplulukların hayatta kalmaya çalıştığı bir yer. Diğer tüm diyarlar gibi, Grift de dünyanın yaklaşan sonunun ağırlığını omuzlarında taşır; burada da kehanetlerin gölgesi, halkın günlük yaşamına bir korku perdesi gibi inmiştir.
 

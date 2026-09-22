@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Tongue of Eris (Te-le-kin-esis) — Eris'in Dili (Te-le-kin-esis)
 
 Bir nesneyi düşünce gücüyle havada hareket ettiren telekinezi mucizesi; tuzakları tetiklemek ve kapıları açmak için kullanılır.
 
 - **Tür:** Kirli Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Eris'in Dili (Tongue of Eris), aynı zamanda Te-le-kin-esis adıyla da anılan, bir nesneyi düşünce gücüyle havada hareket ettiren kirli bir parşömendir. Okunduğunda, okuyan seçtiği bir nesneyi 1d10×10 fit kadar, d6 dakika boyunca dilediği gibi kımıldatabilir. Bu, doğrudan bir saldırı mucizesi değildir; gücü, çürüyen dünyanın tuzaklarını ve engellerini elini değdirmeden çözmekte yatar.
 

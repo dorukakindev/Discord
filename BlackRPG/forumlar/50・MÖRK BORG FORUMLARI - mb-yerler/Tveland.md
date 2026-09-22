@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Tveland — İkiz Diyar, Açık Toprakların Yolları
 
 Bilinen dünyanın bir bölgesi; açık toprakları, yolları ve dağınık yerleşimleriyle kıyametin gölgesindeki diyarlardan biri olarak anılır.
 
 - **Bölge:** Bilinen dünyanın iç bölgeleri
 - **Tür:** Diyar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Tveland, Mörk Borg dünyasının bilinen bölgelerinden biridir; kıyametin gölgesi altındaki diyarların arasında adı anılan, açık toprakların ve dağınık yerleşimlerin bölgesidir. Bilinen dünyanın çürüyen coğrafyasında Tveland, diyarlar arasında uzanan yolların ve ıssız açıklıkların bir parçası olarak belirir; ne büyük bir şehir ne de tam bir vahşi diyar, ikisinin arasında kalmış bir geçiş toprağıdır. Burada yolcular bir diyardan diğerine geçer, kaçaklar kanundan uzaklaşır, ve dağınık köyler kendi yoksul varlıklarını kıyametin gölgesinde sürdürmeye çalışır.
 

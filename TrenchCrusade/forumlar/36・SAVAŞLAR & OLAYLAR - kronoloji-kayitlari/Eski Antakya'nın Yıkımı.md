@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/New_Antioch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/New_Antioch_chander_lieve_concept_1.jpg/revision/latest/scale-to-width-down/900?cb=20250207052317)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Eski Antakya'nın Yıkımı — Gizemli İblissel Silahın İlk Vuruşu
 
 Sekiz asırdır direnen kadim Antakya şehrinin, gizemli bir iblissel silahla yerle bir edilmesi; ama imanlıların harabelerdeki mevzilerini terk etmemesi.
 
-
+- **Era:** 1545
 - **Dönem:** 1545
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Kadim Antakya, Kudüs'ün düşüşünden bu yana dört buçuk asır boyunca insanlığın Levant'taki en inatçı kalesi olmuştu. Surları sayısız kuşatmaya direnmiş, içindeki savunucular nesiller boyunca Cehennem'in tam karşısında nöbet tutmuştu. Bu şehir yalnızca bir kale değil, bir simgeydi: Cehennem'in her şeyi yutamayacağının, imanın hâlâ Kutsal Toprak'ta bir ayağının olduğunun kanıtı. Ama 1545 yılında, bu sekiz asırlık direniş, tek bir korkunç vuruşla sona erdi.
 
@@ -18,7 +22,7 @@ Ama Antakya'nın yıkımı, imanlıların ruhunu kıramadı. Şehir küle dönm�
 
 Eski Antakya'nın yıkımı, Trench Crusade dünyasında bir sonun ve aynı zamanda bir başlangıcın işaretidir: bir uygarlığın en eski kalesinin düşüşü, ama küllerinden doğacak olan daha büyük bir kalenin, Yeni Antakya'nın hikâyesinin ilk sayfasıdır. Bu yıkım olmasaydı, Avrupa ve Afrika uluslarını ortak bir savunmada birleştiren o büyük ittifak, yani Yeni Antakya'yı doğuran karar belki hiç alınmazdı. Bazen bir kalenin düşüşü, daha büyük bir kalenin doğuşunu zorunlu kılar; ve Cehennem'in o gizemli silahı, farkında olmadan, insanlığın en kudretli surunun temelini atmış oldu.
 
-## Sonuçlar
+## Sonuçları
 
 - Kadim Antakya şehri gizemli bir iblissel silahla yok edilir
 - Levant'taki en eski direniş merkezi bir anda düşer

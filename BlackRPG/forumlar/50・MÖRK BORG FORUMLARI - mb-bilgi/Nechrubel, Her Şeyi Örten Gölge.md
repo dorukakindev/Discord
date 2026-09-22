@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Nechrubel, Her Şeyi Örten Gölge
 
 Dünyanın sonunu fısıldayan kadim karanlık gücün ve onun ölümsüz hizmetkarlarının doğası.
 
-
+- **Era:** Karanlık Köken
 - **Dönem:** Karanlık Köken
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Bu ölmekte olan dünyanın üzerine düşen en kalın karanlık, bir varlığın adını taşır: Nechrubel. Ona her şeyi örten gölge denir; çünkü onun iradesi güneşin ışığından, kralların tahtından ve azizlerin dualarından daha geniştir. Nechrubel bir tanrı mıdır, bir iblis midir, yoksa dünyanın kendi çürümüşlüğünün kişileşmiş hali midir, bunu kimse kesin olarak bilemez. Bilinen tek şey, onun kıyameti getiren güç olduğudur. O ne sevilir ne de ona ibadet edilir gerçek anlamda; ondan yalnızca korkulur, çünkü o sonun ta kendisidir.
 

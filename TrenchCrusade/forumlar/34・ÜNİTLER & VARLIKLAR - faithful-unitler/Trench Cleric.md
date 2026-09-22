@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/9f/Mike-franch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/9/9f/Mike-franchina-cleric-small.jpg/revision/latest/scale-to-width-down/900?cb=20250428003625)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Trench Cleric — Siper Rahibi
 
 Savaş meydanında ilham veren dualar okuyan, yaralıyı iyileştiren ya da düşmanı kahreden; sırtında taşınabilir bir mihrap-haç taşıyan New Antioch ruhbanı.
 
 - **Fraksiyon:** New Antioch
 - **Rol:** Ruhban
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Trench Cleric (Siper Rahibi), New Antioch ordusunun manevî kalbidir; savaş alanında dövüşen bir asker kadar, inancın canlı bir kaynağı olarak da hizmet eder. Bu rahipler, çatışmanın tam ortasında, mermilerin ıslığı ve topların gümbürtüsü arasında ilham verici muharebe duaları (battle prayers) okurlar. Onların sesi, çamura saplanmış, korkudan donmuş askerlerin kanını yeniden ısıtır; bir Trench Cleric'in vaazı, yenilginin eşiğindeki bir bölüğü yeniden ileri atılan bir dalgaya dönüştürebilir.
 
@@ -18,7 +22,7 @@ Her Trench Cleric'in sırtında, onu uzaktan tanınır kılan büyük bir Haç t
 
 New Antioch'un çeşitli varyantlarında Trench Cleric'in rolü daha da öne çıkar; örneğin Papalık Müdahale Gücü (Papal States Intervention Force) düzeninde rahip, düşmüş dostları yeniden ayağa kaldırma ve onların kan göstergelerini iyileştirme yeteneğiyle warband'ın merkezine yerleşir. Trench Cleric, Trench Crusade'in özünü taşır: bu, yalnızca kurşunla değil, dua ve imanla da kazanılan ya da kaybedilen bir savaştır. O, çamurun ve kanın ortasında dimdik duran, sesi bir silah, haçı bir kalkan olan kutsal sözcüdür.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Savaş meydanında ilham verici muharebe duaları okur
 - Hem yaralıları iyileştirir hem düşmanı kahreder

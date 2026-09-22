@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Doctor — Doktor, Beden ile Ruhun Sınırındaki Farkında
 
 İnsan bedeninin ve zihninin sırlarıyla her gün yüzleşen, ölüm ile yaşamın sınırında çalışan Farkında arketip; mesleği gereği acıya ve faniliğe yakın durduğu için gerçekliğin çatlaklarını sezen bir hekim.
 
 - **Kategori:** Farkında (Aware)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Doctor (Doktor), Kult'un Farkında (Aware) arketiplerinden biridir ve insan bedeninin, acının ve ölümün sınırında çalışan bir figürdür. Bu karakter bir cerrah, pratisyen hekim, psikiyatrist ya da başka bir tıp insanı olabilir. Onu özel kılan şey, mesleği gereği her gün yaşam ile ölüm arasındaki o ince çizgiyle yüzleşmesidir. Doctor, insan etinin kırılganlığını, zihnin karanlık köşelerini ve faniliğin acımasız gerçeğini çoğu insandan çok daha yakından tanır.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Doctor, kurtarma arzusu ile faniliğin kaçınılmazl�
 - Şifa verme yeteneği grupta hayatî değer taşır
 - Yirmi Aware arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

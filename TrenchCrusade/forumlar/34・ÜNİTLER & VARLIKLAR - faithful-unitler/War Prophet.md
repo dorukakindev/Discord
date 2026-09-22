@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/e/e9/Trench-Crus
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/e/e9/Trench-Crusade-War-Prophet.jpg/revision/latest/scale-to-width-down/900?cb=20250428000257)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # War Prophet — Savaş Peygamberi
 
 Çılgın hacı yığınlarını Hiçkimsenin Toprağı'na süren, dostlarını iyileştiren ve görülerini izleyen fanatik Trench Pilgrim önderi.
 
 - **Fraksiyon:** Trench Pilgrims
 - **Rol:** Şampiyon / Lider
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 War Prophet (Savaş Peygamberi), Trench Pilgrims'in (Siper Hacıları) kalbidir ve onların çılgın, kendinden geçmiş ruhunun cisimleşmiş hâlidir. Trench Pilgrim'ler; deli ve sakat, Tanrı'nın dokunduğu ve suçlulukla kıvranan bireylerdir; Peygamberler ve Peygamberelerin etrafında toplanarak Procession (Alay) adı verilen hac kafileleri oluştururlar. War Prophet, bu kafilenin hem önderi hem de pusulasıdır; alayın nereye gideceğini, kime saldıracağını ve nasıl öleceğini onun görüleri (prophecy) belirler.
 
@@ -18,7 +22,7 @@ War Prophet yalnızca bir kışkırtıcı değil, aynı zamanda bir şifa kayna�
 
 War Prophet, Trench Crusade'deki imanın en saf ve en tehlikeli hâlini temsil eder: akıl sınırını aşmış, bedensel acıyı kutsayan, ölümü bir kurtuluş gibi kovalayan bir kutsal delilik. O, gözleri görülerle yanan, sesi bir fırtına gibi gümbürdeyen, ardında çamura ve kana bulanmış bir hacı seli sürükleyen bir kâhindir. Düşman için anlaşılmaz ve dehşet verici, hacıları için ise tek doğru yolu gösteren tanrısal bir ışıktır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Çılgın hacı yığınlarını Hiçkimsenin Toprağı'na süren fanatik önder
 - Dost modellerden D3 kan göstergesi kaldırarak iyileştirir

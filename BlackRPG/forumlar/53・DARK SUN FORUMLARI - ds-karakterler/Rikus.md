@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/2/2d/Rikus.jpg/revision/latest?cb=20110526193523
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/2/2d/Rikus.jpg/revision/latest?cb=20110526193523)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Rikus — Rikus, Mul Gladyatör, Tyr'in Kurtarıcısı
 
 Athas'ın en güçlü savaşçılarından biri olan mul, yani yarı-cüce gladyatör; köleyken Tyr'i Kral Kalak'tan kurtaran isyanın kahramanı olarak özgürlüğüne kavuşan efsanevi dövüşçü.
 
 - **Rol:** Gladyatör
 - **Bağlılık:** Tyr Özgürlük Hareketi / Eski Gladyatör Çukurları
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Rikus, Dark Sun dünyasının, yani kavrulmuş çöl dünyası Athas'ın en güçlü ve en sevilen kahramanlarından biridir; Troy Denning'in Prism Pentad romanlarının baş figürlerinden, köle zincirlerinden özgürlüğe yükselen bir mul gladyatör. Mul, Athas'a özgü bir varlıktır: bir insan ile bir cücenin melezi, kısır ama olağanüstü güçlü, dayanıklı ve dövüş için âdeta yaratılmış bir ırk. Mul'lar genellikle köle olarak doğar ve gladyatör arenalarında ya da madenlerde ölesiye çalıştırılır; Rikus da bu acımasız kaderle dünyaya gelmiş bir köledir.
 
@@ -14,7 +22,7 @@ Rikus'un kaderi, Tyr şehrinin özgürlük mücadelesiyle birleştiğinde deği�
 
 Rikus, Dark Sun evreninde özgürlüğün, dayanıklılığın ve baş eğmez iradenin gücünü temsil eder; en alttan, bir kölenin konumundan, bir kahramana ve bir kurtarıcıya nasıl yükselebileceğini gösterir. Onun hikâyesi, kaba kuvvetin ötesinde bir asalet taşır: o, sadece güçlü kollarıyla değil, özgürlüğe olan inancıyla da bir efsane olur. Rikus, Athas'ın umutsuz çölünde, en ezilmişlerin bile zincirlerini kırıp kaderlerini değiştirebileceğinin yaşayan kanıtıdır; bir köle olarak doğmuş, ama bir kahraman olarak özgürleşmiş, Tyr'in gerçek kurtarıcısıdır.
 
-## İşler
+## Kayda Geçen İşler
 
 - Bir mul (insan-cüce melezi) olarak Athas'ın en güçlü gladyatörlerinden biriydi
 - Tithian'ın gladyatör çukurlarında köle olarak dövüştü
@@ -22,4 +30,4 @@ Rikus, Dark Sun evreninde özgürlüğün, dayanıklılığın ve baş eğmez ir
 - İsyanın zaferiyle köle zincirlerinden kurtulup özgürleşti
 - Tyr'in özgür savaşçıları arasında bir lider ve kahraman oldu
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

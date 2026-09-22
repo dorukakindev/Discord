@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/f/f2/The_iron_wall.jpg/revision/latest/scale-to-width-down/900?cb=20260419070108
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/f/f2/The_iron_wall.jpg/revision/latest/scale-to-width-down/900?cb=20260419070108)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Demir Sultanlık'ın Kuruluşu: Demir Duvar ve Bilgelik Evi
 
 Müslüman ulusların Selçuklu önderliğinde birleşip Cehennem'e karşı Demir Duvar'ı dikmesi ve Demir Sultanlık'ın kuruluşu.
 
-
+- **Era:** 1109
 - **Dönem:** 1109
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Cehennem'in Levant'ı yutması, yalnızca Hristiyan dünyasını değil, bölgenin Müslüman uluslarını da varoluşsal bir tehditle yüz yüze bıraktı. Yarığın hemen yanı başında yaşayan bu halklar için tehlike soyut değil, kapı komşusu kadar yakındı. Kanonik tarihe göre 1109 yılında, Rum Sultanlığı'nın (Sultanate of Rum) Selçuklu halkları, dağınık güçlerini tek bir çatı altında birleştirdi ve görkemli adıyla "Göğü Delen İki Boynuzun Yenilmez Demir Duvarı'nın Büyük Sultanlığı" olarak anılan devleti kurdu: Demir Sultanlık (Iron Sultanate).
 

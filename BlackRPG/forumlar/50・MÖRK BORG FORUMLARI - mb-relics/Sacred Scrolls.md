@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Sacred Scrolls — Kutsal Parşömenler, Tanrıların Solan Lütfu
 
 Ölmekte olan dünyanın son rahiplerinin koruduğu kutsal büyü tomarları; her biri tek bir mucize barındıran, okunduğunda yıpranan ve çoğu zaman okuyanın bedeline patlayan ilahi sözler.
 
 - **Tür:** Kutsal Parşömen
 - **Köken:** Iki Boynuzlu Yılan'a karşı yazılmış kutsal sözler
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kutsal Parşömenler (Sacred Scrolls), Mörk Borg'un ölmekte olan dünyasında ilahi gücün hâlâ erişilebilir kaldığı ender kanallardan biridir. Bu solgun, kanla ve mürekkeple lekelenmiş tomarlar, kıyametin yaklaştığını bilen son rahiplerin ve tapınakların elinde korunur; her biri, tanrıların artık nadiren bahşettiği bir mucizeyi içinde hapseder. Bir parşömeni açıp üzerindeki kutsal sözleri yüksek sesle okuyan bir maceracı, bir an için çürüyen evrenin yasalarını bükebilir: bir yaratığı kör edebilir, bir bedeni alevle sarabilir ya da kendini görünmez bir koruma kalkanıyla örtebilir.
 

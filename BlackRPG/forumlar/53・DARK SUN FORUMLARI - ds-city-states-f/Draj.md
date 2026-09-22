@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/c/c8/Draj_Map.jpg/revision/latest/scale-to-width-down/900?cb=20111121033753
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/c/c8/Draj_Map.jpg/revision/latest/scale-to-width-down/900?cb=20111121033753)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Draj — Çamur Şehri, Tectuktitlay'ın Kurban Diyarı
 
 Kuzeydoğunun verimli çamur düzlüklerinde kurulu, Sihirbaz-Kral Tectuktitlay'ın kanlı kurban kültü ve savaşçı geleneğiyle yönetilen, basamaklı piramitleriyle bilinen şehir.
 
 - **Tür:** Şehir-Devlet
 - **Bölge:** Tablelands'in kuzeydoğu çamur düzlükleri
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Draj, Athas'ın Tablelands bölgesinin kuzeydoğu kesiminde, alışılmadık biçimde verimli bir çamur düzlüğünde kurulu bir şehir-devlettir. Çorak ve kurak Athas dünyasında bu çamur düzlükleri, su ve tarımsal bolluk açısından nadir bir kaynaktır; bu sayede Draj, kendi tahılını ve mahsulünü yetiştirebilen, beslenme açısından görece kendine yeten bir şehir olabilmiştir. Bu coğrafi avantaj, şehrin kalabalık nüfusunu ve militarist düzenini ayakta tutan temel zenginliktir.
 
@@ -22,4 +30,4 @@ Draj, Athas'ta dinin ve kanın bir tiranlık aracına dönüşmesini temsil eder
 - Basamaklı piramit (ziggurat) mimarisiyle bilinir
 - Tectuktitlay kendini canlı tanrı ilan eder
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

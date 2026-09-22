@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Yeraltı Dünyası — Underworld, Ölülerin ve Unutulmuşların Diyarı
 
 Yanılsama'nın altında uzanan, ölülerin, hayaletlerin ve unutulmuş şeylerin sürüklendiği karanlık katmanlar; geçmişin, anıların ve çürümenin biriktiği gölge diyarı.
 
 - **Tür:** Ara Diyar
-- **ruler:** -
+- **Ruler:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Yeraltı Dünyası (Underworld), Kult evreninde Yanılsama'nın altında uzanan karanlık katmanların diyarıdır; ölülerin, hayaletlerin ve dünyanın unutmaya çalıştığı her şeyin sürüklendiği gölge âlemi. Bizim bildiğimiz dünyanın hemen altında, görünmez ama her zaman yakın duran bu diyar, geçmişin, anıların ve çürümenin biriktiği bir tortu gibidir. Yaşayanların gündelik gerçekliğinin altında, unutuşun ve ölümün soğuk koridorları uzanır.
 
@@ -22,4 +26,4 @@ Yeraltı Dünyası, Kult'ta geçmişin ve ölümün asla tam olarak geçip gitme
 - Karanlık, nemli ve unutuşla kaplı tüneller ve boşluklar içerir
 - Yaşayanların nadiren, çoğu zaman istemeden indiği bir âlemdir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

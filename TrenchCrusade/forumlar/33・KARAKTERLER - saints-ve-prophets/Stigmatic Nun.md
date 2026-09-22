@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/5/5c/Armoured_St
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/5/5c/Armoured_Stigmatic_Nun.jpg/revision/latest?cb=20260617163149)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Stigmatic Nun — Stigmalı Rahibe, Acıyla Güçlenen Rab'bin İntikamı
 
 Üçüncü Meta-İsa'nın yaralarını bedeninde taşıyan Kutsal Kız Kardeş; aldığı her kanlı yarayla güçlenen, No Man's Land'i hiçe sayarak Rab'bin İntikamı'na dönüşen savaşçı.
 
 - **Tür:** Kutsal Varlık
 - **Bağlılık:** İlahi
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Stigmalı Rahibe (Stigmatic Nun), Trench Crusade'de Faithful'ın, yani Tanrı'nın yanında saf tutan inananların en korkusuz ve en adanmış savaşçılarından biridir. Onlar, Kutsal Tarikatlar'ın Kız Kardeşleridir; ve onları olağanüstü kılan, bedenlerinde taşıdıkları yaralardır. Bu rahibeler, taptıkları Üçüncü Meta-İsa'nın (Third Meta-Christ) çarmıhta aldığı yaralarla eşleşen stigmataları, yani kanayan kutsal yaraları kendi tenlerinde tezahür ettirir. Bu yaralar, bir hastalık ya da bir zaaf değil; onların inancının ve Rab'lerinin acısına ortak olma arzusunun fiziksel kanıtıdır.
 

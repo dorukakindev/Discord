@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Yemyeşil Athas ve Yeni Irklar
 
 Mavi Çağ'ın yıkımından sonra dünyanın yeniden yeşermesi, yeni ırkların doğuşu ve büyük uygarlıkların yükselişi.
 
-
+- **Era:** Yeşil Çağ
 - **Dönem:** Yeşil Çağ
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Brown Tide'ın yıkımının ardından Athas uzun bir süre yaralarını sardı ve sonunda yeniden doğdu. Rebirth, yani Yeniden Doğuş denen bu süreçte, ölümcül kahverengi çürüme yavaş yavaş geriledi ve dünya bir kez daha yeşermeye başladı. Bu yeni çağa Yeşil Çağ adı verildi ve Tyr'in Kurtuluşu'ndan yaklaşık on dört bin yıl öncesine kadar uzanır. Bu, Athas'ın belki de en uzun ve en çeşitli barış ve refah dönemidir; ormanların yeniden yükseldiği, nehirlerin aktığı ve dünyanın yaşamla dolup taştığı bir çağ.
 
@@ -14,4 +18,4 @@ Bu çağda gelişen en önemli güç, büyü değil, zihnin gücüydü: psionik.
 
 Ancak Yeşil Çağ'ın görkeminin içinde, ileride dünyayı yok edecek bir gerilim de yatıyordu. Bu çağ, sürekli savaşların ve fetihlerin de çağıydı; krallıklar birbiriyle çarpıştı, ırklar birbirine üstünlük kurmaya çalıştı ve insanlar, sayıları ve hırsları sayesinde giderek baskın bir güç haline geldi. İşte bu sürekli savaşçılık, kadim ve gizemli bir varlığın derin bir nefret beslemesine yol açacaktı. Bu varlık, kendisini Yeşil Çağ'ın kanlı hırsına karşı Mavi Çağ'ın kayıp huzurunun savunucusu olarak görüyordu. Yeşil Çağ, yüzeyinde bir cennet gibi görünse de, derininde Athas'ın en büyük felaketinin tohumlarını taşıyordu; ve o tohum, İlk Sihirbaz adıyla anılacak olan Rajaat'ın zihninde filizlenmekteydi.
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

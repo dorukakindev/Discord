@@ -1,10 +1,14 @@
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Holy Water of Lalibela — Lalibela'nın Kutsal Suyu
 
 Kutsal Lalibela kiliselerinden gelen şifa veren kutsal su; bir savaşçının kanını dindiren ve yaralarını iyileştiren mucizevi bir Faithful emaneti.
 
 - **Tür:** Kutsal Emanet
 - **Köken:** New Antioch / Faithful kutsal kaynağı
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Lalibela'nın Kutsal Suyu (Holy Water of Lalibela), Trench Crusade'in karanlık ve kanlı dünyasında nadir bir umut damlasıdır: yıkmak için değil, iyileştirmek için var olan bir emanet. Adını, Etiyopya'nın efsanevi kaya kiliseleriyle ünlü kutsal Lalibela şehrinden alır; bu su, oranın kutsanmış kaynağından geldiğine inanılır ve içinde ilahi bir şifa gücü taşır. Bir savaşçı bu suyu içtiğinde ya da açık bir yaraya döktüğünde, kutsal su kanamayı dindirir, enfeksiyonu temizler ve bedeni yeniden ayağa kalkacak güce kavuşturur. Oyun kurallarında bu emanet, kan ve enfeksiyon işaretlerini kaldıran bir Eylem'in başarı şansını artırır.
 
@@ -12,7 +16,7 @@ Bu kutsal suyun değeri, Trench Crusade'in acımasız doğasından gelir. Bu, ya
 
 Lalibela'nın Kutsal Suyu, Faithful'un inancının en şefkatli yüzünü temsil eder. Cehennem yıkım ve acı saçarken, kutsal su yaşamı korur ve umudu besler; bu, inancın yalnızca bir silah değil, aynı zamanda bir merhamet kaynağı olduğunun kanıtıdır. Bir asker bu suyu içip yaralarının kapandığını hissettiğinde, sadece bedeni değil, inancı da tazelenir; ilahi gücün hâlâ onların yanında olduğunu bilir. Lalibela'nın Kutsal Suyu, Trench Crusade'de karanlığın ortasında parlayan kutsal bir lütfu temsil eder; bu sonsuz savaşta, yıkmak yerine iyileştiren, yaşamı koruyan ve umudu ayakta tutan kutsanmış bir damladır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - İçilen ya da yaraya dökülen şifa veren kutsal su
 - Kan ve enfeksiyon işaretlerini temizleme şansını artırır (+1 Başarı Zarı)

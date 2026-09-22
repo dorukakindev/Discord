@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Verhu — Sözleri Yazan, Sefaletin Habercisi
 
 Sefalet İlahileri ve kıyamet kehanetleriyle ilişkilendirilen kadim, lanetli figür; sonun sözlerini taşıyan, Nechrubel'in dünyasında karanlık bir aracı olarak anılan varlık.
 
 - **Tür:** Kült Figürü
 - **Alan:** Kehanet, Sözcükler, Lanet
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Verhu, Mörk Borg'un karanlık mitolojisinde sonun sözleriyle, lanetli kehanetlerle ve Sefalet İlahileri'nin gölgesiyle anılan kadim bir figürdür. Bu çağda hiçbir isim masum değildir; ve Verhu'nun adı da, dünyanın akıbetini belirleyen o soğuk satırların yanında fısıldanır. O, kahramanların ya da kurtarıcıların değil, sonun habercilerinin dünyasına aittir.
 
@@ -14,7 +18,7 @@ Verhu hakkında söylenenler, çoğu zaman kesinlikten çok bir korkunun gölges
 
 Verhu, Mörk Borg'un o belirsiz ve tehditkâr atmosferinin somut halidir; sonun yalnızca gökyüzünden değil, fısıldanan sözcüklerden ve lanetli satırlardan da geldiği bir dünyanın figürü. Onun varlığı, bu evrende bilginin bir teselli değil, bir yük olduğunu hatırlatır; çünkü öğrenilecek tek büyük gerçek, sonun çoktan yazıldığıdır. Ve Verhu, o yazının gölgesinde durmaya devam eder.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Kıyamet kehanetleri ve Sefalet İlahileri'yle ilişkilendirilen figür
 - Sözcüklerin ve lanetli metinlerin taşıyıcısı

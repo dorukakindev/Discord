@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Temizlik Savaşları ve Kızıl Güneş
 
 Champion'ların humanoid ırkları yok etmek için yürüttüğü soykırım savaşları ve güneşin sararken kızıla dönmesi.
 
-
+- **Era:** Cleansing Wars
 - **Dönem:** Cleansing Wars
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Champion'ları ölümsüz ve yarı-tanrısal güçlerle donattıktan sonra Rajaat, büyük arınma savaşını başlattı. Tyr'in Kurtuluşu'ndan yaklaşık üç bin beş yüz yıl önce patlak veren bu çağa Cleansing Wars, yani Temizlik Savaşları adı verilir. Bu, Athas tarihinin en kanlı ve en yıkıcı dönemiydi. Rajaat'ın amacı açıktı: dünyayı, Mavi Çağ Halflingleri için yeniden saf hale getirmek üzere, sonradan gelen tüm humanoid ırkları kökünden kazımak. Her Champion kendi hedef ırkının peşine düştü ve sistematik bir soykırıma girişti.
 
@@ -14,4 +18,4 @@ Bu çağda Athas'ın gökyüzünde de korkunç bir değişim yaşandı. Bir zama
 
 Temizlik Savaşları yüzyıllarca, bazı anlatılara göre bin yıldan fazla sürdü. Bu süre boyunca Athas adım adım bugünkü ölü çölüne doğru sürüklendi. Bir zamanlar yeşil ve bereketli olan Yeşil Çağ toprakları, savaşların ve sınırsız defiling'in altında çoraklaştı; nehirler kurudu, denizler çekildi ve ormanlar küle döndü. Champion'lar her zaferiyle Rajaat'ın hayalini gerçekleştirdiklerine inanıyorlardı; oysa farkında olmadan, kurtarmaya çalıştıkları dünyanın ta kendisini öldürüyorlardı. Ve bu uzun ve kanlı savaşların ortasında, Champion'lar yavaş yavaş Rajaat'ın gerçek niyetini sorgulamaya başladı; çünkü tüm bu yıkımın sonunda kimin kazanacağı sorusu, zihinlerini kemirmeye başlamıştı.
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

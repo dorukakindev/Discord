@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Gutterborn Scum — Lağımdoğumlu Pislik
 
 Şehrin en dibinde, çamurun ve sefaletin içinde doğmuş, hayatta kalmayı hırsızlık, hile ve gölgelerde gizlenmekle öğrenmiş bir sokak haini; çevik, sinsi ve hiçbir şeye saygısı olmayan.
 
 - **Rol:** Sınıf
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Gutterborn Scum (Lağımdoğumlu Pislik), Mörk Borg dünyasının çatlaklarında, en alt katmanında doğan ve büyüyen bir hayatta kalma uzmanıdır. Bu sınıf, soylulukla, kahramanlıkla ya da kutsal bir görevle hiçbir ilgisi olmayan bir kökenden gelir; o, şehrin lağımlarında, ara sokaklarında ve unutulmuş köşelerinde, sefaletin ve açlığın gölgesinde yetişti. Hiç kimse onun için yas tutmayacak, hiç kimse onun adını anmayacak; ve o da bunu çoktan kabullenmiş durumda. Kıyametin eşiğindeki bir dünyada, bu kabulleniş garip bir biçimde onu özgür kılar.
 

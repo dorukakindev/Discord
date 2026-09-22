@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Reverend — Vaiz, İmanını Silaha Dönüştürmüş Aydınlanmış
 
 İnanç ve maneviyat yoluyla Aydınlanma'ya ulaşmış arketip; imanını bir güç kaynağına dönüştürmüş, kutsalın ve lanetlinin sınırında vaaz veren bir ruhsal otorite.
 
 - **Kategori:** Aydınlanmış (Enlightened)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Reverend (Vaiz), Kult'un dört Aydınlanmış arketipinden biridir ve gerçekliğin ardındaki sırra inanç yoluyla ulaşmış bir ruhsal figürdür. Diğer Aydınlanmışlar gücünü ölümden, bilgiden ya da bir efendiden devşirirken, Reverend'in kaynağı imandır. O, maneviyatın derinliklerine inmiş, dua ile vecdin sınırlarını zorlamış ve bu yolda Yanılsama'nın perdesini aralamıştır. Onun için inanç, soyut bir teselli değil, gerçekliği bükebilen somut bir kuvvettir.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Reverend, inancın hem kurtarıcı hem yıkıcı güc�
 - Kutsal ile lanetli arasındaki ince çizgide durur
 - Dört bilinen Enlightened arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

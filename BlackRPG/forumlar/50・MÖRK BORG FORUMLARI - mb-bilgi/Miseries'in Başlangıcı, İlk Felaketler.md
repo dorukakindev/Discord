@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Miseries'in Başlangıcı, İlk Felaketler
 
 Yedi Misery'nin ilkinin gerçekleşmesi ve dünyanın karanlığa boğulmaya başladığı felaketler zinciri.
 
-
+- **Era:** İlk Felaketler
 - **Dönem:** İlk Felaketler
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kıyamet bir anda gelmez; o, birer birer gelir. İsimsiz Kutsal Metinler'de önceden bildirilen Yedi Misery, dünyayı yedi büyük felaketle sona taşır. Ve bu felaketlerin ilki, dünyanın kaderinin artık geri dönülemez biçimde mühürlendiğinin işaretidir. İlk Misery gerçekleştiğinde, dünya bunu hisseder; gökyüzünde bir şey değişir, toprakta bir şey kararır ve insanların yüreğine, daha önce hiç bilmedikleri kadar soğuk bir korku çöker. Çünkü artık kehanet yalnızca bir yazı değil; gerçekleşen, görülebilen, dokunulabilen bir dehşettir.
 

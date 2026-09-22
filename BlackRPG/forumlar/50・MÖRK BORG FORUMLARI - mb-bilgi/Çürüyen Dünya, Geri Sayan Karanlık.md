@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Çürüyen Dünya, Geri Sayan Karanlık
 
 Felaketler arttıkça dünyanın çöküşe sürüklenmesi, Galgenbeck'in çürümesi ve umutsuzluğun hakim olması.
 
-
+- **Era:** Çürüyen Dünya
 - **Dönem:** Çürüyen Dünya
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Felaketler birer birer geldikçe, dünya artık tanınmaz hale gelir. Bu, çürüyen dünyanın çağıdır; her Misery'den sonra biraz daha karanlığa gömülen, biraz daha umutsuzluğa teslim olan bir diyar. Toprak artık ürün vermez; gökyüzü artık temiz değildir; sular zehirlenir, havada hastalık dolaşır ve ölülerin sayısı yaşayanları geçmeye başlar. İnsanlar, bir zamanlar şehir dedikleri yerlerin harabelerinde sürünür; krallar, çökmüş saraylarında çürürken hala hüküm sürdüklerini sanır. Bu dünyada hiçbir şey büyümez, yalnızca her şey biraz daha aşağıya, Sonsuz Deniz'e doğru kayar.
 

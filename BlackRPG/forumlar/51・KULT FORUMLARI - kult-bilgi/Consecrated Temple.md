@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Consecrated Temple — Kutsanmış Tapınak
 
 Büyücünün ritüel yürütebildiği tek yer; günlerce süren hazırlıkla kutsanan, gerçekliğin daha ince olduğu özel bir mekân. Tapınak olmadan büyü yapılamaz, bu da büyüyü anlık değil hazırlık-ağırlıklı bir uğraşa dönüştürür.
 
 - **Tür:** Ritüel
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kutsanmış Tapınak (Consecrated Temple), Kult: Divinity Lost'ta büyünün vazgeçilmez ön koşuludur; çünkü bu evrende hiçbir büyücü, gelişigüzel bir yerde, anlık bir ritüel yapamaz. Büyü, ancak büyücünün uzun ve titiz bir hazırlıkla kutsadığı özel bir mekânda, yani tapınağında yürütülebilir. Bu tapınak, görkemli bir mabet olmak zorunda değildir; bir kilerin köşesi, terk edilmiş bir oda, gizli bir bodrum da olabilir. Önemli olan, o mekânın ritüelistik bir özenle hazırlanmış, kutsanmış ve gerçekliğin perdesinin orada daha ince hâle getirilmiş olmasıdır.
 
@@ -19,4 +23,4 @@ Bu gerekliliğin oyun açısından en çarpıcı sonucu, büyünün asla bir sav
 - Büyücü seyahatte yeni bir tapınak kutsamadan büyü yapamaz
 - Tapınağın özelliği ritüel zorluğunu ve cezalarını etkiler
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

@@ -1,16 +1,27 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
-# Sacred Scrolls — Kutsal Parşömenler, Esrarengiz Sanatın Işıltılı Yüzü
 
-Karakterlerin büyü yapmak için kullandığı iki parşömen türünden biri; Güç harcanarak okunan, koruyucu, iyileştirici ya da nuranî etkiler taşıyan esrarengiz metinler.
+# Sacred Scrolls — Kutsal Parşömenler, Tanrıların Solan Lütfu
 
-- **Kategori:** Büyü
+Ölmekte olan dünyanın son rahiplerinin koruduğu kutsal büyü tomarları; her biri tek bir mucize barındıran, okunduğunda yıpranan ve çoğu zaman okuyanın bedeline patlayan ilahi sözler.
 
-Kutsal Parşömenler (Sacred Scrolls), Mörk Borg'un büyü sisteminin iki ana türünden biridir; karakterlerin esrarengiz etkiler ortaya çıkarmak için okuduğu, Güç harcayarak etkinleştirilen yazılı büyü metinleridir. Bu dünyada büyü, kişinin içinden gelen serbest bir yetenek değil, çoğunlukla bir parşömende yazılı, kadim ve tehlikeli bir bilginin okunmasıdır. Kutsal Parşömenler, bu yazılı büyülerin görece daha aydınlık, koruyucu ya da nuranî tarafını temsil eder; gücünü, çürümekte olan dünyanın hâlâ tutunabildiği kutsal kalıntılardan alır.
+- **Tür:** Kutsal Parşömen
+- **Köken:** Iki Boynuzlu Yılan'a karşı yazılmış kutsal sözler
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Bir Kutsal Parşömen'i kullanmak, kişinin Güç kaynağından bir miktar tüketmesini gerektirir; bu yüzden büyü, sınırlı ve değerli bir eylemdir. Parşömenin taşıdığı etki, kullanıcısına bir avantaj, bir koruma ya da bir mucize sağlayabilir; ama bu dünyada hiçbir şey güvenilir değildir, ve esrarengiz sanatları zorlamak her zaman bir risk taşır. Kutsal Parşömenler, kullanıcısına ölmekte olan dünyanın acımasızlığına karşı küçük ama paha biçilmez bir kalkan sunar.
+## Kayıt
 
-Kutsal Parşömenler, Kirli Parşömenler'in karşı kutbudur; biri görece kutsal ve koruyucu, diğeri ise karanlık ve yıkıcıdır. Birlikte, bu dünyadaki büyünün iki yüzünü oluştururlar. Ama Mörk Borg'un kasvetli evreninde, en kutsal güç bile kırılgan ve geçicidir; bir parşömen, sahibini bir kez kurtarabilir, sonra yalnızca eski bir kâğıt parçası olarak kalabilir. Kutsal Parşömenler, Mörk Borg'da çürümüş bir dünyada kalan son aydınlık kırıntılarını temsil eder; karanlığın ortasında bile bir koruma, bir mucize ya da bir umut bulunabileceğini, ama bu kutsallığın bile sınırlı, bedelli ve geçici olduğunu gösterir.
+Kutsal Parşömenler (Sacred Scrolls), Mörk Borg'un ölmekte olan dünyasında ilahi gücün hâlâ erişilebilir kaldığı ender kanallardan biridir. Bu solgun, kanla ve mürekkeple lekelenmiş tomarlar, kıyametin yaklaştığını bilen son rahiplerin ve tapınakların elinde korunur; her biri, tanrıların artık nadiren bahşettiği bir mucizeyi içinde hapseder. Bir parşömeni açıp üzerindeki kutsal sözleri yüksek sesle okuyan bir maceracı, bir an için çürüyen evrenin yasalarını bükebilir: bir yaratığı kör edebilir, bir bedeni alevle sarabilir ya da kendini görünmez bir koruma kalkanıyla örtebilir.
 
--# Çapraz: Büyü yapmak için Güç harcanarak okunur · Kirli Parşömenler ile birlikte iki ana büyü türünden biridir · Genellikle daha koruyucu ya da nuranî etkiler taşır
+Ama bu güç bedelsiz değildir. Kutsal bir parşömeni okumak, okuyandan saf bir Mevcudiyet (Presence), yani ruhani bir irade ve ilahi yakınlık ister; sözleri taşıyabilecek kadar güçlü olmayan biri, mucizenin geri tepmesiyle yaralanır, kanar ya da daha kötüsüyle karşılaşır. Bir karakter, ancak kendi Mevcudiyet değeri kadar kutsal parşömeni aynı anda taşıyabilir; ruhu daha fazlasını kaldıramaz. Tomarlar çoğu zaman tek kullanımlıktır: kutsal sözler okundukça solar, mürekkep buharlaşır, parşömen kendi mucizesini doğururken kendini tüketir.
+
+Bu parşömenlerin kökeni, dünyanın yıkımını müjdeleyen kehanetlere kadar uzanır. Mörk Borg'un kutsal metni Nameless Scriptures'da yazıldığı gibi, sonun mühürleri tek tek kırılmaktadır; ve bu parşömenler, İki Boynuzlu Yılan'ın ve onun lanetli takipçilerinin karşısına dikilebilecek son ilahi silahlardır. Onları taşımak, çürüyen bir dünyada inancın hâlâ bir güç olduğuna dair umutsuz bir bahistir. Kutsal Parşömenler, Mörk Borg'da solan tanrıların son nefesini temsil eder: bir mucizeyi bir kez fısıldayan, sonra sonsuza dek susan, kıyametin eşiğindeki kutsal kâğıtlardır.
+
+## Güçler
+
+- Her parşömen tek bir kutsal mucizeyi (Palms Open the Southern Gate gibi) barındırır
+- Okumak Presence (Mevcudiyet) testi gerektirir, başarısızlık okuyana zarar verir
+- Bir karakter Presence değerine eşit sayıda kutsal parşömen taşıyabilir
+- Yaratıkları kovma, kör etme, yakma ya da koruma kalkanı örme gücü taşır
+- Kıyamet yaklaştıkça bile tanrıların solan lütfunu çağırabilen son yollardan biri
 
 -# Kaynaklar: MÖRK BORG core rulebook + Mitolojidata derlemesi

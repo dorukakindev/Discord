@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Graven-Tosk — Ölüler Diyarı, Mezarların ve Yürüyen Cesetlerin Toprağı
 
 Ölümün ve ölülerin damgasını taşıyan tekinsiz bir diyar; mezarların huzursuz olduğu, cesetlerin yürüdüğü ve hayatla ölüm arasındaki sınırın inceldiği lanetli bir bölge.
 
 - **Bölge:** Bilinen dünyanın bir bölgesi, ölümle damgalı topraklar
 - **Tür:** Diyar
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Graven-Tosk, Mörk Borg dünyasının ölümle damgalanmış bölgelerinden biridir; mezarların huzur bulamadığı, cesetlerin toprak altında kalmaya razı olmadığı tekinsiz bir diyar. Bilinen dünyanın çürüyen coğrafyasında Graven-Tosk, ölümün sıradan bir son değil, kalıcı ve huzursuz bir hâl olduğu bir topraktır. Burada hayat ile ölüm arasındaki sınır incelmiş, hatta yer yer silinmiştir; gömülenler toprağın altında uslu durmaz, ve geceleri mezarlıkların üzerinde tuhaf bir hareketlilik belirir.
 

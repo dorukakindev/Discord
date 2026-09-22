@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Death Magic — Ölüm Büyüsü
 
 Yaşamla ölüm arasındaki sınırı yıkan disiplin; büyücü ruhları örebilir, ölü bedenleri diriltebilir ve Inferno'nun işkence odalarına yolculuk edebilir, ama Ölüm krallığının aç yaratıkları tarafından yutulma riskini taşır.
 
 - **Tür:** Lore Disiplini
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Ölüm Büyüsü (Death Magic), Kult: Divinity Lost'un en bilinen ve en karanlık Lore disiplinidir; yaşamla ölüm arasındaki sınırı yıkmaya adanmıştır. Ölüm büyücüsü, çoğu insanın aşılmaz sandığı eşiği bir kapı gibi görür; ruhları birbirine örebilir, ölü bedenleri yeniden ayağa kaldırabilir, ölülerle konuşabilir ve daha da ötesi, Inferno'nun işkence odalarına ve Metropolis'in ruhsal zindanlarına bizzat yolculuk edebilir. Bu büyücü için ölüm bir son değil, geçilebilen bir geçittir; ama her geçit gibi, iki yöne de açılır.
 
@@ -19,4 +23,4 @@ Yaşamla ölüm arasındaki sınırı yıkan disiplin; büyücü ruhları örebi
 - Yaşayanları büyüyle etkilemek, bağlamak ve şeytan çıkarmak
 - Uzmanlık Alanları arasından (ölülerle konuşma, çağırma, bağlama) seçmek
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

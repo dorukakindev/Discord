@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/4/4d/New_Antioch_chander_lieve_concept_2.jpg/revision/latest/scale-to-width-down/900?cb=20250207052316
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/4/4d/New_Antioch_chander_lieve_concept_2.jpg/revision/latest/scale-to-width-down/900?cb=20250207052316)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Levant'ın Düşüşü ve Antakya'nın Direnişi
 
 Cehennem ordularının iki yılda Levant'ın büyük bölümünü fethetmesi ve Antakya'nın son direniş merkezi hâline gelmesi.
 
-
+- **Era:** 1099 - 1101
 - **Dönem:** 1099 - 1101
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Yarık açıldığı andan itibaren Cehennem'in lejyonları durdurulamaz bir dalga gibi aktı. İblissel canavarlar, lanetli insanlar ve Cehennem'in en karanlık nimetleriyle güçlendirilmiş varlıklar, Kutsal Toprak'ın üzerine bir karabasan gibi yayıldı. Kudüs çoktan yutulmuştu; şimdi sıra çevresindeki topraklardaydı. Kanonik kayıtlara göre yalnızca iki yıl içinde, 1101'e gelindiğinde, Cehennem'in güçleri Levant'ın büyük bölümünü ele geçirmişti. Direniş neredeyse tümüyle ezildi; çoğu kale hızla düştü, savunucuları ya öldürüldü ya da iblissel güçlerin eline geçti.
 

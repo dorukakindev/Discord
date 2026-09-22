@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/a/a0/Neeva.jpg/revision/latest/scale-to-width-down/708?cb=20110528150435
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/a/a0/Neeva.jpg/revision/latest/scale-to-width-down/708?cb=20110528150435)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Neeva — Neeva, Kadın Gladyatör, Rikus'un Savaş Ortağı
 
 Tyr'in gladyatör çukurlarında dövüşen güçlü ve usta kadın savaşçı; Rikus'un savaş ortağı ve eşdeğeri olarak Kral Kalak'a karşı isyanda yer alan kararlı ve ölümcül bir dövüşçü.
 
 - **Rol:** Gladyatör
 - **Bağlılık:** Tyr Özgürlük Hareketi / Eski Gladyatör Çukurları
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Neeva, Dark Sun dünyasının, yani kavrulmuş çöl dünyası Athas'ın en güçlü kadın kahramanlarından biridir; Troy Denning'in Prism Pentad romanlarının önemli figürlerinden, Tyr'in gladyatör çukurlarında dövüşen usta bir savaşçı. Athas'ın acımasız dünyasında, arena yalnızca erkeklerin değil, her cinsiyetten kölenin ölümüne dövüştüğü bir mezbahadır; ve Neeva, bu kanlı çukurlarda kendi gücü ve becerisiyle ayakta kalmış, hatta öne çıkmış bir gladyatördür. O, Rikus'un savaş ortağıdır; ama bu ortaklık, bir bağımlılık değil, iki eşdeğer savaşçının birlikteliğidir.
 
@@ -14,7 +22,7 @@ Neeva'nın kaderi, Tyr'in özgürlük mücadelesiyle iç içe geçer. Şehrin ö
 
 Neeva, Dark Sun evreninde gücün, bağımsızlığın ve kadın iradesinin bir kahramanlık biçimi olabileceğini temsil eder; Athas'ın acımasız dünyasında, bir kadının da en güçlü savaşçılar arasında yer alabileceğini, ve kendi kaderini kendi elleriyle şekillendirebileceğini gösterir. O, sadece Rikus'un ortağı değil, kendi başına bir efsane, kendi başına bir kurtarıcıdır. Neeva, kavrulmuş çölün ortasında, zincire vurulmuş ama asla teslim olmamış bir ruhu temsil eder; özgürlüğü uğruna her şeyi göze alan, ölümcül ve kararlı bir Tyr kahramanıdır.
 
-## İşler
+## Kayda Geçen İşler
 
 - Tyr'in gladyatör arenalarında dövüşen usta kadın savaşçı
 - Rikus'un savaş ortağı ve arena meydanındaki eşdeğeriydi
@@ -22,4 +30,4 @@ Neeva, Dark Sun evreninde gücün, bağımsızlığın ve kadın iradesinin bir 
 - Bağımsız iradesi ve kararlılığıyla kendi yolunu çizdi
 - Tyr'in özgürlük mücadelesinde ölümcül bir dövüşçü oldu
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

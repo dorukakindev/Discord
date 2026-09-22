@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Cennet — Paradise, Yitirilmiş Gerçek Yurt
 
 İnsanlığın tanrısallığını yitirmeden önceki gerçek ve özgür hali; Yanılsama kurulmadan önce sahip olduğumuz sınırsız varoluşun anısı. Artık erişilemeyen, kaybedilmiş asıl gerçeklik.
 
 - **Tür:** Kadim Şehir
-- **ruler:** -
+- **Ruler:** -
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Cennet (Paradise), Kult evreninde insanlığın tanrısallığını yitirmeden önceki gerçek ve özgür halidir; Yanılsama kurulmadan, Demiurgos perdeyi örmeden önce sahip olduğumuz asıl yurt. Kult mitolojisinin temelinde yatan trajedi budur: insanlık bir zamanlar tanrısaldı, sınırsızdı ve özgürdü; kendi gerçekliğini yaratabilen, ölümün ve zamanın boyunduruğunu tanımayan varlıklardık. Cennet, o kayıp halin anısıdır; ne olduğumuzu ve ne olabileceğimizi hatırlatan, ama artık doğrudan erişemediğimiz gerçek yurdumuz.
 
@@ -22,4 +26,4 @@ Cennet, Kult'ta hem insanlığın en büyük kaybını hem de en büyük umudunu
 - Artık doğrudan erişilemeyen, kaybedilmiş asıl yurttur
 - Uyanışın ve arınmanın nihai hedefi olarak hatırlanır
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/c/c5/TyrHandoutComp.jpg/revision/latest/scale-to-width-down/900?cb=20160828065908
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/c/c5/TyrHandoutComp.jpg/revision/latest/scale-to-width-down/900?cb=20160828065908)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Tyr — Özgürlük Şehri, Çınlayan Dağlar'ın Eteği
 
 Athas'ın en eski ve en köklü şehir-devletlerinden biri; bin yıllık Sihirbaz-Kral Kalak'ın tiranlığı altında ezilen, ardından halk ayaklanmasıyla zorbasını deviren ve yedi şehir içinde özgürleşen tek şehir.
 
 - **Tür:** Şehir-Devlet
 - **Bölge:** Tablelands, Çınlayan Dağlar'ın doğu eteği
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Tyr, Athas'ın Tablelands bölgesindeki en eski ve en köklü şehir-devletlerinden biridir; Çınlayan Dağlar'ın (Ringing Mountains) doğu eteğinde, demir madenleriyle zengin bir vadide yükselir. Yüzyıllar boyunca diğer altı şehir gibi acımasız bir Sihirbaz-Kral'ın boyunduruğu altında yaşadı; Tyr'in zorbası, bin yıldan fazla süredir tahtta oturan, halkını korkuyla ve büyüyle ezen Kalak'tı. Kalak'ın hükmü altında binlerce köle, dev bir ziggurat inşa etmek için çalıştırılıyordu; bu yapının asıl amacı, kralın kendisini ölümsüz ve dokunulmaz bir varlığa dönüştürmesini sağlayacak korkunç bir ayindi.
 
@@ -22,4 +30,4 @@ Tyr, Athas'ta değişimin ve direnişin somut simgesidir; binlerce yıllık tira
 - Çınlayan Dağlar'ın eteğinde, demir madenleriyle zengin
 - Eski arenası ve ziggurat inşaatıyla bilinir
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

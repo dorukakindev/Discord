@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # The Calendar of Nechrubel — Nechrubel Takvimi, Sonu Sayan Saat
 
 Dünyanın sonunu işaretleyen kehanet sistemi; Yedi Mühür ve onlara bağlı Sefalet İlahileri açıldıkça çağın sonuna doğru ilerleyen, geri sayan kıyamet takvimi.
 
 - **Tür:** Kıyamet Gücü
 - **Alan:** Kıyamet, Kehanet, Zaman
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Nechrubel Takvimi (the Calendar of Nechrubel), Mörk Borg evreninin sonunu işaretleyen kehanetler bütünüdür; dünyanın kaderini, geri sayan bir saat gibi belirleyen karanlık bir sistemdir. Bu takvim, sıradan günleri ve mevsimleri değil; kıyamete giden adımları ölçer. Onun her sayfası bir umut değil, bir sefaletin habercisidir; ve son sayfasına gelindiğinde, dünya artık olmayacaktır.
 
@@ -14,7 +18,7 @@ Bu takvimin en dehşet verici yanı, onun bir tehdit değil, bir kesinlik oluşu
 
 Nechrubel Takvimi, Mörk Borg'un kıyamet temasının somut halidir; dünyanın sonunun bir an meselesi değil, çoktan yazılmış bir takvimin son yaprağı olduğu bir evrenin kalbi. Yedi Mühür birer birer kırıldıkça, sefaletler birer birer dünyaya indikçe, geriye yalnızca tek bir kesinlik kalır: son ilahi okunduğunda, takvim kapanacak ve bu çürümüş dünya, çoktan hak ettiği hiçliğe gömülecektir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Yedi Mühür ve onlara bağlı kehanetlerle örülü kıyamet sistemi
 - Her açılan mühür, dünyaya yeni bir sefalet salar

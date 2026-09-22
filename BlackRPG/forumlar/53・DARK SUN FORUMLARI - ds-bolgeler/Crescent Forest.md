@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/darksun/images/0/08/Crescent_Forest_01.png/revision/latest/scale-to-width-down/900?cb=20230527080556
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/0/08/Crescent_Forest_01.png/revision/latest/scale-to-width-down/900?cb=20230527080556)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Crescent Forest — Hilal Ormanı, Gulg'un Yeşil Kuşağı
 
 Athas'ın nadir orman bölgelerinden biri; içinde orman şehri Gulg'u barındıran, vahşi yaratıkları ve kabilevi avcılarıyla bilinen, çorak dünyada beklenmedik bir yeşillik adası.
 
 - **Tür:** Orman
 - **Bölge:** Tablelands, Gulg ve Nibenay yakını
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Hilal Ormanı (Crescent Forest), Athas'ın çorak Tablelands bölgesi içinde beklenmedik bir yeşillik adasıdır; gezegenin metalik gökyüzü altında kuruyup ölmekte olan dünyasında nadir bulunan orman bölgelerinden biridir. Çevresindeki kumlu çöller ve çatlamış düzlüklerle tezat oluşturan bu orman, ağaçları, gölgesi ve görece nemiyle Athas'ın çoğu sakini için neredeyse mucizevi bir manzaradır. Hilal biçimindeki uzanımı, ona adını vermiştir ve bölgenin en belirgin doğal işaretlerinden biridir.
 
@@ -22,4 +30,4 @@ Hilal Ormanı, Athas'ta yaşamın inadını ve doğanın direncini temsil eder; 
 - Çorak Tablelands ortasında yeşillik adası
 - Gulg ve Nibenay arasındaki rekabetin kaynaklarından
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

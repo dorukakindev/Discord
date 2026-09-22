@@ -1,10 +1,14 @@
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Maxim Machine Gun — Maxim Makineli Tüfeği
 
 Siper savaşının dehşetli ağır silahı; sabit bir mevziden saniyede yüzlerce kurşun yağdırıp tüm bir hücumu yok eden makineli tüfek.
 
 - **Tür:** Ateşli Silah
 - **Köken:** Büyük Savaş; ağır destek silahı
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Maxim Makineli Tüfeği, Trench Crusade'in siper savaşına neden bir kâbus olduğunu en iyi anlatan silahtır. Sabit bir mevziye kurulan bu ağır silah, sürekli ateşle saniyeler içinde yüzlerce kurşun savurur ve önündeki açık araziyi geçilmez bir ölüm bölgesine çevirir. Birinci Dünya Savaşı'nın gerçek tarihinde olduğu gibi, bu dünyada da makineli tüfek, bir avuç askerin koca bir hücumu durdurabilmesinin nedenidir; siperden çıkıp düşmana koşan onlarca asker, tek bir iyi yerleştirilmiş Maxim'in ateş hattında bir anda biçilebilir.
 
@@ -12,7 +16,7 @@ Bu silahın savaş alanındaki ağırlığı, onu hem bir avantaj hem bir hedef 
 
 Trench Crusade'in fantastik dünyasında bile bu silah hem Faithful hem Heretic ordularının vazgeçilmez destek gücüdür. Daha da korkuncu, mühendisliğin sınırlarını zorlayan Mechanized Heavy Trooper gibi zırhlı dev askerler, sıradan bir insanın taşıyamayacağı bu ağır silahları elde tutarak ateş ederler; yürüyen bir makineli tüfek yuvasına dönüşürler. Maxim Makineli Tüfeği, Trench Crusade'de modern savaşın o soğuk, gayrişahsi dehşetini temsil eder: kahramanlığın ve mucizelerin bir anda anlamsızlaştığı, bir insanın sadece bir ateş hattına denk geldiği için öldüğü, çelikten ve barut dumanından örülmüş ölüm makinesidir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Sabit mevziden sürekli ateşle geniş bir alanı tarar
 - Bir hücumu tek başına durduracak ateş gücü

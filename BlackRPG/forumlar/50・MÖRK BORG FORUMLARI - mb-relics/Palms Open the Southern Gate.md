@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Palms Open the Southern Gate — Avuçlar Güney Kapısını Açar, Görünmez Yumruk
 
 Açık bir avuç hareketiyle görünmez bir güç dalgası salan kutsal mucize; önündeki düşmanı geriye savuran, yere çalan ve sersemleten ilahi bir itiş.
 
 - **Tür:** Kutsal Parşömen
 - **Köken:** Mörk Borg kutsal parşömen kanonu
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Avuçlar Güney Kapısını Açar (Palms Open the Southern Gate), Mörk Borg'un en bilinen kutsal parşömenidir ve oyunun karanlık atmosferine rağmen şaşırtıcı derecede doğrudan, neredeyse şiirsel bir şiddet taşır. Bu mucizeyi okuyan bir maceracı, avucunu açar ve ileri uzatır; o anda, görünmez ama yıkıcı bir güç dalgası önündeki boşluğu yarar. Bu görünmez yumruk, hedef aldığı düşmanı sırtüstü savurur, yere çalar ve bir süre sersemletir; sanki dünyanın kendisi o yaratığı reddetmiş gibi.
 

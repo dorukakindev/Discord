@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Madness Magic — Delilik Büyüsü
 
 Delilikte içgörü ve güç bulan disiplin; büyücü Delilik'in özünden varlıklar yaratabilir, çıldırışını bir salgın gibi başkalarına bulaştırabilir ve insan ruhuna dehşet ve psikozlar sürebilir, ama kendiyle delilik arasındaki ayrımı yitirme riski taşır.
 
 - **Tür:** Lore Disiplini
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Delilik Büyüsü (Madness Magic), Kult: Divinity Lost'un en rahatsız edici disiplinlerinden biridir; çünkü gücünü, çoğu insanın kaçtığı yerde, akıl yitiminin tam göbeğinde bulur. Delilik büyücüsü, çılgınlığı bir hastalık değil, bir kapı olarak görür; aklın çatladığı yerden, Yanılsama'nın perdesinin de inceldiğine inanır. Bu büyücü, Delilik'in özünden varlıklar yaratabilir, kendi çıldırışını bir salgın gibi başkalarına bulaştırabilir, ve insan ruhuna dehşet, psikoz ve sanrılar sürebilir; bir bakışla, bir fısıltıyla, bir ritüelle, sağlam bir zihni paramparça edebilir.
 
@@ -19,4 +23,4 @@ Delilik Büyüsü'nün riski, en kişisel olanıdır: büyücünün kendisi. Ç�
 - Öteki boyutların yaratıklarını gözetlemek ve bağlamak
 - Akıl-bozucu sanrıları gerçekliğe işlemek (Rüya büyücüleriyle işbirliği)
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

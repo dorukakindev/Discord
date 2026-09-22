@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # False Dawn / Night's Chariot — Sahte Şafak / Gecenin Arabası
 
 Bir alanı ışıkla aydınlatan ya da zifiri karanlığa boğan, iki yönlü çalışan kutsal mucize; hem keşif hem gizlenme için kullanılır.
 
 - **Tür:** Kutsal Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Sahte Şafak / Gecenin Arabası (False Dawn / Night's Chariot), tek bir parşömende iki zıt mucizeyi birleştiren kutsal bir güçtür. Okuyan tercih ederek bir alanı 3d10 dakika boyunca ya parlak bir ışıkla aydınlatabilir ya da zifiri bir karanlığa boğabilir. Sahte şafak, güneşin neredeyse hiç doğmadığı bu ölmekte olan dünyada bir mum gibi değerlidir; karanlık ise, hem gizlenmek hem de düşmanların gözünü kör etmek için bir silaha dönüşebilir.
 

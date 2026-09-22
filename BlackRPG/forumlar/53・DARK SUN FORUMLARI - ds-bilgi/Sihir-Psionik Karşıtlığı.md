@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Sihir-Psionik Karşıtlığı — Yakan Büyü, Temiz Zihin
 
 Athas'ın iki büyük güç kaynağı, arcane büyü ile psionik, doğaları gereği birbirinin zıttıdır. Büyü gücünü dışarıdan, çevreyi sömürerek çeker ve gezegeni yakar; psionik ise gücünü içeriden, kendi zihninden alır ve hiçbir zarar vermez.
 
 - **Tür:** Psionik
 - **Kaynak:** İki ayrı güç kaynağının doğası (ekosistem vs. iç zihin)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Sihir-Psionik Karşıtlığı, Athas'ın güç yapısının kalbinde yatan temel gerilimi anlatır; bu dünyanın iki büyük güç kaynağı, arcane büyü ile psionik, neredeyse her açıdan birbirinin zıttıdır. Bu zıtlık, yalnızca mekanik bir fark değil, Dark Sun'un tüm ahlaki ve ekolojik temasını somutlaştıran derin bir karşıtlıktır. Bir tarafta, gücünü dünyadan zorla çeken büyü; diğer tarafta, gücünü kendi içinden temiz biçimde üreten zihin. Athas'ı anlamak, büyük ölçüde bu iki kaynağın çatışmasını anlamaktan geçer.
 
@@ -12,7 +16,7 @@ Arcane büyü, doğası gereği dışa bağımlıdır ve tehlikelidir. Bir büy�
 
 Bu karşıtlık, Athas toplumunun büyüye ve psioniğe bakışını şekillendirir. Sıradan bir insan, bir psionicistten korkmaz; ama bir büyücüyü, özellikle bir defiler'ı görünce dehşete kapılır, çünkü büyü çoğu zaman yıkımla, ölümle ve gezegenin azabıyla özdeşleşmiştir. Yine de en korkutucu güçler, bu iki kaynağı birleştirenlerden gelir; sihirbaz-krallar, hem büyünün hem de psioniğin ustalarıdır ve bu iki gücü birleştirerek neredeyse tanrısal bir kudrete ulaşmışlardır. Sihir-Psionik Karşıtlığı, Dark Sun'da gücün doğasının ahlakla iç içe geçtiğini gösterir; aynı sonuca ulaşan iki yoldan birinin dünyayı yakarken diğerinin ona dokunmadığını, ve Athas'ın trajedisinin büyük ölçüde insanların hangi yolu seçtiğiyle ilgili olduğunu anlatan, derin bir ekolojik ve felsefi gerçektir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Arcane büyü gücü dışarıdan, ekosistemden çekilir; psionik içeriden, zihinden
 - Büyü gezegeni yakabilir (defiling); psionik hiçbir çevresel zarar vermez
@@ -20,4 +24,4 @@ Bu karşıtlık, Athas toplumunun büyüye ve psioniğe bakışını şekillendi
 - Sihirbaz-krallar her ikisini de ustaca birleştirerek olağanüstü güce ulaşır
 - Karşıtlık, Athas'ın temel ahlaki ve ekolojik gerilimini somutlaştırır
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

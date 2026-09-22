@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/6/64/Yoke_Fiend.
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/6/64/Yoke_Fiend.jpg/revision/latest/scale-to-width-down/900?cb=20250428022813)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Yoke Fiend — Boyunduruk İblisi, Cehennem'in En Aşağı İşçi Güruhu
 
 Cehennem'in en aşağı iblisleri; melek soyundan zerre kadar pay taşıyan, tüm pis işleri gören, ne kadar sefil olduklarını anlayacak kadar zeki, 2.5 metrelik biçimsiz canavarlar.
 
 - **Tür:** İblis
 - **Bağlılık:** Cehennem
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Boyunduruk İblisi (Yoke Fiend), Trench Crusade'de Cehennem'in en aşağı tabakasını oluşturan iblislerdir; Cehennem'in iktidar piramidinin en dibinde, neredeyse hiçbir saygınlığı olmayan kaba güruh. Onları diğer iblislerden ayıran şey, sahip oldukları zerre kadar melek soyudur; bir Boyunduruk İblisi, göksel kökenden ancak bir parçacık taşır, ama bu minicik pay bile onlara bir tür bilinç verir. Ve işte burada lanetleri yatar: bu iblisler, ne kadar wretched, sefil ve yozlaşmış olduklarını tam olarak kavrayacak kadar zekidir. Kendi düşkünlüklerinin farkında olmak, belki de onların en büyük cezasıdır.
 

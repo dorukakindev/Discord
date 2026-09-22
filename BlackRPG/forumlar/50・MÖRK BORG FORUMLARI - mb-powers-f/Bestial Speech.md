@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Bestial Speech — Hayvanların Dili
 
 Okuyana kısa bir süre için hayvanlarla konuşma yeteneği veren kutsal mucize; bilgi toplama ve yön bulma için değerli bir araç.
 
 - **Tür:** Kutsal Parşömen
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Hayvanların Dili (Bestial Speech), okuyana d20 dakika boyunca hayvanlarla konuşma yeteneği bahşeden bir kutsal parşömendir. Bu süre boyunca karakter, yarasalardan kargalara, sıçanlardan kurtlara kadar çürüyen dünyanın yaratıklarıyla anlaşabilir; onlara soru sorabilir, cevap alabilir ve çoğu zaman hiçbir insanın bilmediği şeyleri öğrenebilir. Hayvanlar bu ölmekte olan diyarda her yerdedir ve sıklıkla insanların göremediği tehlikelere, cesetlere ya da gizli geçitlere tanıklık etmiştir.
 

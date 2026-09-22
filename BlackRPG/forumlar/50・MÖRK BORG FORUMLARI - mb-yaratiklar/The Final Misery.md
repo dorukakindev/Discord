@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # The Final Misery — Son Sefalet, Her Şeyin Bittiği Mısra
 
 Sefalet İlahileri'nin sonuncusu; okunduğunda dünyanın sona ereceği, geriye yalnızca hiçliğin kalacağı nihai kıyamet anı. Nechrubel Takvimi'nin son yaprağı.
 
 - **Tür:** Sefalet
 - **Alan:** Kıyamet, Hiçlik
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Son Sefalet (the Final Misery), Sefalet İlahileri zincirinin en son halkası ve Mörk Borg evreninin kesin sonudur; okunduğunda dünyanın artık var olmayacağı o nihai mısradır. Tüm felaketler, tüm vebalar, tüm karanlıklar bu ana doğru ilerlemiştir; ve o an geldiğinde, geriye ne bir kahraman ne bir kurtarıcı ne de bir umut kalacaktır. Yalnızca hiçlik.
 
@@ -14,7 +18,7 @@ Mörk Borg'un nihilist felsefesi, en saf ifadesini bu sefalette bulur. Bu evrend
 
 Son Sefalet, Mörk Borg'un kıyamet anlayışının doruk noktası ve somut halidir; her şeyin başladığı yaratılıştan, her şeyin bittiği bu son mısraya uzanan kederli bir yayın son notası. O, takvimin son yaprağı, Nechrubel'in son nefesi ve çürümüş bir dünyanın çoktan beklediği, soğuk ve sessiz sonudur. Ondan sonra ne bir söz ne bir ses kalır; yalnızca, başından beri kaçınılmaz olan hiçlik.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Sefalet İlahileri zincirinin son halkası
 - Okunduğunda dünyanın sona ereceği nihai an

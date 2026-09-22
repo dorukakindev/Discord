@@ -3,25 +3,21 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/2/2b/Luca_Giorda
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/2/2b/Luca_Giordano_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg/revision/latest?cb=20250501181436)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
-# The Act of Ultimate Heresy — Nihai Sapkınlık ve Cehennem Kapısı'nın Açılışı
 
-Tapınak Şövalyeleri'nin Kudüs'te işlediği nihai sapkınlık: yeryüzünde bir Cehennem Kapısı açılır ve şehir bir felaketle yok olur.
+# The Act of Ultimate Heresy — Nihai Sapkınlık Eylemi, Cehennem'in Kapısını Açan Lanet
 
+1099'da Tapınak Şövalyeleri'nin kadim bir şeytani eserle Cehennem'in Kapısı'nı yeryüzünde açtığı, tüm tarihi değiştiren günah.
 
-- **Dönem:** 1099
+- **Kategori:** Çekirdek Kavram
+- **Kanon Sınıfı:** A — resmî güncel lore
 
-Trench Crusade evreninin tüm trajedisi, Hicri 1099 yılında, Birinci Haçlı Seferi'nin Kutsal Şehir'i ele geçirdiği gün başladı. Kanonik anlatıya göre, Kudüs'ü alan Tapınak Şövalyeleri (Knights Templar) şehrin altındaki gizli mahzenlerde kadim bir şey buldu: insanlığın asla dokunmaması gereken iblissel bir eser. Açgözlülük ve zayıflıkla körleşen şövalyeler, imanlarını terk edip dizlerinin üstüne çöktü ve kendilerine yeni bir efendi buldular. Böylece, tarihin en büyük günahı olan "Nihai Sapkınlık" işlendi.
+## Kayıt
 
-Şövalyeler iblislerle pazarlık etmeye, anlatılamaz ayinler düzenlemeye başladı. Sonunda, kara büyünün doruğunda, yeryüzünün dokusunu yırttılar ve Cehennem'in kapısını araladılar. Lore'da "the Breach" olarak anılan bu yarık, sıradan bir geçit değildi: gerçekliğin kendisinde açılmış, kapanmayan bir yaraydı. O kapı açıldığı an, Kudüs onu yutmaya gelen ateşte ve dehşette yok oldu. Bir zamanların en kutsal şehri, Cehennem ile ölümlü düzlemin birbirine kanadığı yoz bir çukura dönüştü; orada artık zaman ve mekan eski kurallarına uymuyordu.
+Nihai Sapkınlık Eylemi (the Act of Ultimate Heresy), Trench Crusade evreninin tüm tarihini yeniden yazan kuruluş günahıdır; 1099 yılında, Birinci Haçlı Seferi'nin Kutsal Şehir Kudüs'ü ele geçirmesinin hemen ardından işlenmiştir. Şehrin en kutsal tapınağının altında, Tapınak Şövalyeleri (Knights Templar) gizli mahzenlere ve orada saklı kadim bir şeytani esere rastlar. Açgözlülükle körleşen ve kalplerinde bir zayıflık taşıyan bu şövalyeler, eserin fısıldadığı kutsal olmayan bilgeliğin önünde diz çöker ve kendilerine yeni bir efendi bulur.
 
-Bu olay, bir şehrin yıkımından çok daha fazlasıydı: bir dünyanın kaderini belirledi. O günden sonra insanlık tarihinin her sayfası, bu ilk yarığın gölgesinde yazıldı. Cehennem'in orduları artık dünyaya doğrudan adım atabiliyor, ölümlüler iblissel güçlerle pazarlık edebiliyor, ve iman ile sapkınlık arasındaki savaş artık metaforik değil, gerçek ve fiziksel bir cepheydi. Sekiz yüzyıl sonra, 1914'te oynanan oyunun çamur dolu siperleri, doğrudan bu ana uzanır. Tapınak Şövalyeleri'nin o gün açtığı kapı bir daha hiç kapanmadı; ve insanlık, o günden beri ruhları için verilen bitmek bilmeyen bir savaşın içinde yaşıyor. Nihai Sapkınlık, Trench Crusade'in çekirdeğindeki ilk günahtır: bir avuç sapkının ihanetiyle, tüm dünyanın Cehennem'e açıldığı andır.
+Eserin öğrettiği yasak ayinleri uygulayarak şeytanlarla pazarlığa giren Tapınakçılar, sonunda en korkunç töreni gerçekleştirir ve Cehennem'in Kapısı'nı (Gate of Hell) doğrudan yeryüzünde açar. Sonuç anında ve kıyametseldir: Kudüs, açılan kapının yarattığı kataklizmde yok olur, kutsal şehir Cehennem ile ölümlü düzlemin iç içe aktığı lanetli bir çukura dönüşür. O âna kadar dünyanın en kutsal noktası olan yer, artık iblislerin ve lanetlilerin geçidi hâline gelmiştir; bu gedik, sekiz yüzyıl boyunca kapanmayacaktır.
 
-## Sonuçlar
+Bu tek eylemin sonuçları, evrenin tüm kaderini belirler. İki yıl içinde Cehennem'in orduları Levant'ı, yani Yakın Doğu'nun büyük bölümünü ele geçirir; geriye yalnızca birkaç kararlı direniş cebi kalır. İnsanlık, gerçek tarihten kökten sapan bir yola girer: ilerleyen yüzyıllar boyunca Kilise ile Cehennem'in Lejyonları, kutsal şehri geri almak için bitmek bilmeyen bir savaş yürütür. Nihai Sapkınlık Eylemi, Trench Crusade'in temel temasını, yani tek bir ihanetin, tek bir açgözlülük anının nasıl tüm bir dünyayı sonsuz bir karanlığa sürükleyebileceğini temsil eder; oyunun 1914'teki kanlı siper savaşı, doğrudan bu kadim günahın gölgesinde yaşanır.
 
-- Yeryüzünde kalıcı bir Cehennem Kapısı (the Breach) açılır
-- Kudüs, kapının açıldığı felakette tümüyle yok olur
-- Cehennem ile ölümlü düzlem birbirine karışmaya başlar
-- Tüm Trench Crusade evreninin başlangıç noktası kurulur
-- Tapınak Şövalyeleri yeni bir efendiye, Şeytan'a teslim olur
-
--# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+-# Kaynaklar: Resmî lore terminolojisi
+-# Çapraz: Tapınak Şövalyeleri tarafından 1099'da işlendi · Cehennem'in Kapısı'nı (Gate of Hell) açtı · Kudüs felakette yok oldu

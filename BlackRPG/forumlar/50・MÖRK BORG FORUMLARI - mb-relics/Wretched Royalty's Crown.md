@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Wretched Royalty's Crown — Sefil Hükümdarın Tacı, Ölü Kralların Lanetli Süsü
 
 Çoktan yıkılmış bir krallığın son kralından kalan paslı, mücevherleri sökülmüş taç; takanın iradesini bükdüğü ve ona ölü bir saltanatın deliliğini fısıldadığı söylenen lanetli süs.
 
 - **Tür:** Lanetli Eşya
 - **Köken:** Çökmüş bir krallığın son hükümdarının tacı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Sefil Hükümdarın Tacı (Wretched Royalty's Crown), Mörk Borg'un çökmekte olan dünyasında geçmiş ihtişamın nasıl bir lanete dönüştüğünün simgesidir. Bu taç, çoktan haritadan silinmiş bir krallığın son kralından kalmıştır; bir zamanlar görkemli olan bu altın halka, şimdi paslı, mücevherleri sökülmüş, üzerine kurumuş kan ve toz yapışmış sefil bir kalıntıdır. Onu bir harabede, bir kemik yığınının altında ya da çürümüş bir tahtın üzerinde bulan maceracı, ele geçirdiği şeyin yalnızca bir değerli eşya olmadığını çok geçmeden anlar.
 

@@ -1,9 +1,17 @@
+https://static.wikia.nocookie.net/darksun/images/3/3d/Abalach-re.jpg/revision/latest?cb=20170318202204
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/3/3d/Abalach-re.jpg/revision/latest?cb=20170318202204)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+
 # Abalach-Re — Raam'ın Sihirbaz-Kraliçesi, Grandüvezir
 
 Raam'ın kalabalık ve huzursuz halkını entrika ve sahte bir tanrıça kültüyle yöneten sihirbaz-kraliçe; kendini ilahi bir Grandüvezir ilan eden, ama sürekli isyanlar ve komplolarla boğuşan kurnaz bir yıkıcı büyücüdür.
 
 - **Şehir:** Raam
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Abalach-Re, Athas'ın en kurnaz ve en zor durumdaki sihirbaz-kraliçelerinden biridir; Raam şehir-devletinin mutlak hükümdarı ve kendini ilahi bir Grandüvezir (the Grand Vizier) ilan etmiş güçlü bir yıkıcı büyücüdür. Diğer pek çok sihirbaz-kral gibi o da tebaasının ona bir tanrıça olarak tapmasını ister; ama Raam'ın kalabalık, çeşitli ve son derece huzursuz nüfusu, bu kültü kabul etmekte diğer şehirlerin halklarından çok daha isteksizdir. Bu yüzden Abalach-Re'nin hükümdarlığı, sürekli bir entrika ve isyan bastırma mücadelesidir.
 
@@ -13,7 +21,7 @@ Abalach-Re, hazcılığı ve dünyevi zevkleri seven, gösterişli bir hükümda
 
 Abalach-Re, diğer sihirbaz-krallar gibi ejderhalaşma yolunda ilerleyen kadim bir yıkıcı büyücüdür; ama onun mücadelesi, dış düşmanlardan çok kendi huzursuz şehrine karşıdır. O, gücün her zaman güvenli olmadığını, en güçlü tiranın bile sürekli bir isyan tehdidiyle yaşayabileceğini gösterir. Raam'ın Grandüveziri, entrikanın, sahte kutsallığın ve kırılgan iktidarın bir simgesidir; bir tanrıça maskesi takmış, ama altındaki tahtın her an sallanabileceğini bilen kurnaz bir hükümdar.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Lakap: Grandüvezir (the Grand Vizier), Raam'ın yaşayan tanrıçası
 - Kendini ilahi bir varlık ilan ederek sahte bir kült yarattı
@@ -21,4 +29,4 @@ Abalach-Re, diğer sihirbaz-krallar gibi ejderhalaşma yolunda ilerleyen kadim b
 - Entrika, casusluk ve hazcılıkla tanınan kurnaz bir hükümdardır
 - Ejderhalaşma yolundaki kadim bir yıkıcı büyücüdür
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

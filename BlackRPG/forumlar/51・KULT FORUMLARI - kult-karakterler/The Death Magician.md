@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # The Death Magician — Ölüm Büyücüsü, Yaşam ile Ölümün Sınırındaki Aydınlanmış
 
 Ölümün, çürümenin ve öteki tarafın sırlarına ulaşmış Aydınlanmış büyücü; yaşam ile ölüm arasındaki perdeyi aralayan ve bu yasak bilgiyle güç devşiren bir gerçeklik ustası.
 
 - **Kategori:** Aydınlanmış (Enlightened)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Death Magician (Ölüm Büyücüsü), Kult'un dört Aydınlanmış arketipinden biridir ve adından da anlaşılacağı gibi, gerçekliğin en ürkütücü sınırına, yani yaşam ile ölüm arasındaki perdeye yönelmiş bir büyü ustasıdır. Bu karakter, Yanılsama'nın ardındaki gerçeği ölüm yoluyla aramıştır; çürümenin, yok oluşun ve öteki tarafın sırlarına dalmış, çoğu insanın kaçtığı şeyin tam kalbine yürümüştür. Onun için ölüm bir son değil, bir kapı; korkulacak bir şey değil, çözülecek bir gizdir.
 
@@ -21,4 +25,4 @@ Kişisel korku temasında Death Magician, insanın en derin korkusuyla, yani yok
 - Ölülerle ve ölümün enerjileriyle ilişki kurar
 - Dört bilinen Enlightened arketipten biridir
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

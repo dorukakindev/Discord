@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Elysium — Yanılsama, İnsanlığın Görünmez Hapishanesi
 
 İnsanlığın gerçek sandığı dünya; aslında Demiurgos tarafından bizi kendi tanrısallığımızdan koparmak için kurulan devasa bir yanılsama hapishanesi. Yanılsamanın perdesi gitgide incelmektedir.
 
 - **Tür:** Yanılsama
-- **ruler:** Demiurgos (artık kayıp)
+- **Ruler:** Demiurgos (artık kayıp)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Elysium, Kult evreninin temel yalanıdır; içinde yaşadığımızı sandığımız, her gün uyandığımız, sıradan ve katı görünen bu dünyanın gerçek adı. Sokakları, şehirleri, yasaları, bilimi ve mantığıyla bize sarsılmaz biçimde gerçek gelen her şey, aslında bir Yanılsama'dır (the Illusion). Elysium gerçek bir yer değil, bir örtüdür; insanlığın gözlerinin önüne çekilmiş, dokusu kusursuzca işlenmiş devasa bir perdedir. Bu perdenin amacı tek bir şeydir: bizi olduğumuz şeyden, yani kendi unutulmuş ilahi doğamızdan habersiz tutmak.
 
@@ -22,4 +26,4 @@ Elysium, Kult'un en derin korkusunu temsil eder: gerçek sandığımız her şey
 - Perdesi gitgide inceliyor; çatlaklarından gerçek sızıyor
 - Aborlar (Aborigines) ve sayısız varlık perdenin ardından insanı gözler
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

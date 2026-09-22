@@ -1,10 +1,18 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/4/45/Hellmouth_of_the_north.jpg/revision/latest/scale-to-width-down/900?cb=20260419080859
+
+![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/4/45/Hellmouth_of_the_north.jpg/revision/latest/scale-to-width-down/900?cb=20260419080859)
+
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Kuzey'in Ağzı ve İrlanda'nın Kapısı
 
 Kola Yarımadası'nda beliren ikincil Cehennem ağzı ve Fatih Zacchur'un 1807'de İrlanda'da açtığı, 1890'da kapatılan kapı.
 
-
+- **Era:** 1807 - 1890
 - **Dönem:** 1807 - 1890
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Kudüs'teki büyük yarık özgündü, ama tek değildi. Cehennem, çağlar boyunca dünyanın başka yerlerinde de gerçekliği yırtmanın yollarını buldu. Bunların en tekinsizi, İskandinavya'nın uzak kuzeyinde, Kola Yarımadası'nın ıssız doğasında zaman zaman açılan bir kapıydı: Kuzey'in Cehennem Ağzı (Hellmouth of the North). Bu kapı, Kudüs'teki kalıcı yarık gibi sabit değildi; Cehennem'in kendi iç iktidar mücadelelerinin gelgitlerine göre hem konumu hem de zamanı durmadan değişerek, kısa aralıklarla belirir ve kaybolurdu.
 

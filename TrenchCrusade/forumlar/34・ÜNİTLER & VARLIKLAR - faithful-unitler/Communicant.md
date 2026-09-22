@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/c/c9/Trench-Crus
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/c/c9/Trench-Crusade-Communicant.jpg/revision/latest/scale-to-width-down/900?cb=20250428000714)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Communicant — Komünyoncu
 
 Meta-Mesih'in etini ve kanını yiyerek devasa boyuta ulaşan, yaraları kendiliğinden kapanan; kör daha iyi gördüğü için gözlerine haç çakılmış dev hacı.
 
 - **Fraksiyon:** Trench Pilgrims
 - **Rol:** Canavar
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Communicant (Komünyoncu), Trench Pilgrims'in en grotesk ve en trajik figürlerinden biridir; inancın bedeni nasıl hem yücelttiğini hem de canavarlaştırdığını gösteren canlı bir kanıttır. Communicant'lar, bir Meta-Mesih'in (Meta-Christ) etini ve kanını yiyerek komünyon ayinini en korkunç şekline taşımış adanmışlardır. Bu ilahî öz tarafından güçlendirildikçe devasa boyutlara ulaşır, dev gibi bir et ve kas yığınına dönüşürler; aldıkları yaralar ise mucizevî biçimde, gözlerin önünde kendiliğinden kapanır.
 
@@ -18,7 +22,7 @@ Bu süper-savaşçı yalnızca hacılara özgü değildir; New Antioch'un Kilise
 
 Communicant, Trench Crusade'in temel sorusunu cisimleştirir: kutsallık ile canavarlık arasındaki çizgi nerede biter? O, bir azizin etinden beslenmiş, dev bir bedene hapsedilmiş, gözleri mühürlü ama ruhu aydınlanmış bir paradokstur. Düşman için bir kâbus, kendi safları için bir mucize, kendisi için ise hem bir lütuf hem de bir lanet olan bu dev, imanın insan bedenini ne hâle getirebileceğinin sessiz, kör ve durdurulamaz tanığıdır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Meta-Mesih'in (Meta-Christ) etini ve kanını yiyen adanmış
 - İlahî öz ile devasa boyuta büyür, dev bir et yığınına döner

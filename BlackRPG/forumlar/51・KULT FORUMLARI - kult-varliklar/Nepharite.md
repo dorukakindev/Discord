@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Nepharite — İşkenceyle Doğan Acı Demonları
 
 İşkenceyle dönüştürülmüş, başkalarına acı getiren demonlar. Clive Barker'ın Cenobite'larından esinli; acının hem ustası hem de aracı olan varlıklar.
 
 - **Tür:** İşkenceci
 - **Efendi:** Ölüm Melekleri
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Nepharite, Kult evreninin acıyla özdeşleşmiş demonlarıdır; ıstırabın hem kurbanı hem ustası, hem ürünü hem de yayıcısı olan varlıklar. Yaratılışları doğrudan acıdan geçer: bir Nepharite, sonsuz ve akıl almaz bir işkence süreciyle dönüştürülmüş bir varlıktır. Bu işkence onları yok etmez; tam tersine, onları yeniden biçimlendirir, acıyı kavrayışlarının ve var oluşlarının merkezine yerleştirir. Çektikleri ıstırap, onları artık acıdan korkmayan, hatta onu kutsal bir bilgi biçimi olarak gören demonlara çevirir.
 
@@ -12,11 +16,11 @@ Nepharite'lerin tasarımı, açıkça Clive Barker'ın Cenobite'larından (Hellr
 
 Bir Nepharite'in dünyadaki amacı, acıyı, ıstırabı ve yozlaşmayı yaymaktır. Onlar insanlığın ruhunu kemiren, umutsuzluğu derinleştiren ve kurbanlarını yavaş yavaş çürümeye iten güçlerdir. Ölüm Melekleri'ne ve karanlığın daha büyük güçlerine hizmet eder, onların iradesini en zalim biçimde uygularlar. Bir Nepharite ile karşılaşmak, sadece fiziksel bir tehlike değil, ruhsal bir felakettir; çünkü onlar bedeni yaralamadan önce zihni ve ruhu çürütmeyi tercih eder. Kült'te Nepharite, acının kozmik bir ilke, bir öğreti ve bir silah olduğu fikrinin cisimleşmiş hali, ıstırabın ete bürünmüş suretidir.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - İşkence yoluyla dönüştürülmüş, acıya adanmış demonlardır
 - Clive Barker'ın Cenobite'larından esinlenmiştir
 - Başkalarına acı, ıstırap ve yozlaşma getirir
 - Ölüm Melekleri'ne ve karanlık güçlere hizmet eder
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

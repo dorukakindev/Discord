@@ -1,10 +1,14 @@
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
+
 # Bone Saw — Kemik Testere, Hekim Bozuntusunun Bıçağı
 
 Bir zamanlar cerrahların kullandığı, şimdi kana bulanmış dişli bir testere; küçük ve zayıf bir silah, ama yokluğun ve sefaletin ortasında bir maceracının kapabileceği son çare.
 
 - **Tür:** Silah
 - **Köken:** Cerrahi alet bozması, çürümüş dünyanın hafif silahı
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Kemik Testere (Bone Saw), Mörk Borg'un sefalet dolu dünyasında bir silahın ne kadar bayağı ve ne kadar çaresiz olabileceğinin simgesidir. Bu alet, aslında bir savaş silahı olarak doğmamıştır; bir zamanlar cerrahların, kangren olmuş uzuvları kesmek, kemikleri biçmek için kullandığı dişli bir testereydi. Ama çürüyen bu dünyada, ilaçların ve şifanın çoktan tükendiği bir çağda, o cerrahi alet bambaşka bir amaca hizmet eder hâle gelmiştir: artık etleri iyileştirmek için değil, etleri parçalamak için kullanılır.
 

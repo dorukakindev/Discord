@@ -1,18 +1,27 @@
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
-# Preserving — Koruyuculuk, Toprağa Zarar Vermeyen Büyü
 
-Sihirbazın büyü enerjisini doğaya zarar vermeden, ölçülü ve dengeli biçimde çekmesi; Yıkıcılık'ın karşıtı olan, daha zor ama gezegeni koruyan büyü yolu.
+# Preserving — Koruyuculuk, Yaşamı Yakmadan Büyü
 
-- **Kategori:** Büyü
+Preserver büyücü, defiler ile aynı enerji kaynağını kullanır ama onu çevreye zarar vermeden, özenle ve sabırla çeker. Toprağı yakmaz, hiçbir iz bırakmaz; ama bu disiplin daha yavaş ve daha zahmetlidir.
 
-Koruyuculuk (Preserving), Dark Sun evreninde büyünün yıkıcı olmayan, sorumlu biçimidir; Yıkıcılık'ın (Defiling) doğrudan karşıtı olan, gezegene zarar vermeyen büyü yoludur. Bir Koruyucu (preserver), büyü yaparken çevresindeki canlı yaşamdan enerji çeker, tıpkı bir Yıkıcı gibi; ama önemli bir farkla. Koruyucu, bu enerjiyi büyük bir özen ve denge ile, doğaya kalıcı zarar vermeyecek ölçüde alır; bitkiler büyünün ardından zarar görmeden hayatta kalır, toprak kısırlaşmaz, ve çevre yaşamına devam eder.
+- **Tür:** Arcane Büyü
+- **Kaynak:** Çevredeki ekosistemin yaşam enerjisi (zarar vermeden çekilir)
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Koruyuculuğun bedeli, zorluk ve sınırlamadır. Yaşamı pervasızca tüketmediği için, bir Koruyucu daha az enerjiye erişir; büyüleri daha yavaş, daha zahmetli ve çoğu zaman bir Yıkıcı'nınkinden daha zayıftır. Aynı büyüyü yapmak için bir Koruyucu daha çok dikkat ve özen harcamak zorundadır, ve anlık güçte Yıkıcılarla boy ölçüşemez. Bu yüzden Koruyuculuk, kolay gücü reddedip ahlaki bir tercihte bulunan bir disiplindir; daha zor yolu, gezegene duyulan saygı uğruna seçmektir.
+## Kayıt
 
-Koruyucular, Athas'ta hem nadir hem de tehlikeli bir konumdadır. Sihirbaz-Krallar ve onların Yıkıcı düzeni, büyüye hakimdir; ve sıradan halk, büyücüleri ayırt etmeden hepsinden korkar, çünkü Yıkıcıların verdiği zarar büyünün tüm itibarını lekelemiştir. Bir Koruyucu, kendini bir Yıkıcı'dan ayırmanın yolunu bulamazsa, masumiyetine rağmen avlanabilir; bu yüzden Koruyucular çoğu zaman gizlenmek zorundadır. Gizli direniş örgütü Örtülü İttifak (Veiled Alliance), tam da Koruyucuları korumak, eğitmek ve Athas'ı Yıkıcılığın yıkımından kurtarmak için vardır.
+Preserving, yani Koruyuculuk, Athas'ın umut ışığını taşıyan arcane büyü yoludur; defiling ile aynı kaynaktan beslenir ama bambaşka bir ahlakı temsil eder. Bir preserver da büyü gücünü, tıpkı bir defiler gibi, çevredeki ekosistemin yaşam enerjisinden çeker; ama bunu yakarak, talan ederek değil, özenle ve sabırla yapar. Preserver, çevredeki bitkilerin canlılığını yalnızca ödünç alır gibi, onlara kalıcı zarar vermeden, dengeyi gözeterek toplar. Büyüsünü dokuduğunda, ardında ne kül kalır ne de ölü toprak; çayır yeşil kalır, hayat sürer.
 
-Koruyuculuk, Dark Sun'da umudu ve sorumluluğu temsil eder; ölmekte olan bir dünyada bile, gücü doğayla uyum içinde kullanmanın mümkün olduğunu, ve daha zor olan doğru yolun her zaman bir seçenek olduğunu gösterir. Bir Koruyucu için her büyü, hem bir güç gösterisi hem de gezegene verilmiş bir sözdür; çünkü onlar, Athas'ın yeşil geçmişinin bir gün geri dönebileceğine dair zayıf ama inatçı umudun taşıyıcılarıdır.
+Bu özen, bir bedel taşır. Enerjiyi zarar vermeden çekmek, onu zorla söküp almaktan çok daha yavaş ve çok daha zahmetlidir; bir preserver, bir defilerin anında elde ettiği kudret için daha uzun süre uğraşmak, daha fazla disiplin ve sabır göstermek zorundadır. İşte bu yüzden, iktidara ve hızlı güce aç olanlar neredeyse her zaman yıkıcı yolu seçer, koruyucu yol ise daha bilge ama daha az ödüllendirici görünür. Preserver olmak, kişisel gücü gezegenin sağlığının önüne koymamayı, kısa vadeli kudreti reddetmeyi gerektirir; bu, Athas gibi acımasız bir dünyada nadir bir erdemdir.
 
--# Çapraz: Büyü enerjisini toprağı yakmadan çeker · Yıkıcılık'ın (Defiling) ahlaki karşıtıdır · Veiled Alliance'ın savunduğu yoldur · Yıkıcılardan daha zayıf ama dengeli büyü yapar
+Koruyuculuk, Athas'ta yalnızca zor değil, aynı zamanda tehlikelidir. Gezegeni yöneten sihirbaz-krallar birer defilerdir ve büyüyü kendi tekellerinde tutmak isterler; her türlü arcane büyü, hatta yaşamı koruyan preserving bile, çoğu şehir-devletinde yasa dışıdır ve büyücüler acımasızca avlanır. Bu yüzden preserver'lar gizlenmek, sırlarını saklamak ve gizli bir kardeşlik içinde örgütlenmek zorundadır. Preserving, Dark Sun'da Athas'ın iyileşebileceğine dair tek inancı temsil eder; gezegenin ölümünün kaçınılmaz olmadığını, doğru yolu seçen büyücülerin yaşamı yakmadan da güçlü olabileceğini ve bir gün bu kavrulmuş dünyaya yeşilin geri dönebileceğini gösteren, sessiz ama inatçı bir umuttur.
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+## Ayırt Edici Özellikler
+
+- Defiler ile aynı ekosistem enerjisini kullanır, ama yakmadan çeker
+- Bitki örtüsüne ve toprağa kalıcı zarar vermez, geride kül bırakmaz
+- Enerjiyi özenle topladığı için defiling'den daha yavaş ve zahmetlidir
+- Athas'ta yasa dışı kabul edilir; büyücüler kanunen avlanır
+- Veiled Alliance, preserver büyücülerin gizli sığınağı ve okuludur
+
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad

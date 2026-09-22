@@ -3,12 +3,16 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/93/Mike-franch
 ![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/9/93/Mike-franchina-mechanized-infantry.jpg/revision/latest/scale-to-width-down/900?cb=20250428004432)
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+
 # Mechanized Heavy Infantry — Mekanize Ağır Piyade
 
 Deneysel uçan makine zırhı içine kapatılmış, 'yürüyen savaş kuleleri' diye anılan, ağır silahları taşıyan dev New Antioch piyadeleri.
 
 - **Fraksiyon:** New Antioch
 - **Rol:** Canavar / Makine Zırhı
+- **Kanon Sınıfı:** A — resmî güncel lore
+
+## Kayıt
 
 Mechanized Heavy Infantry (Mekanize Ağır Piyade), New Antioch'un mühendislik dehâsının ve umutsuz yenilikçiliğinin korkunç bir ürünüdür. Bu askerler, deneysel ve harikulade uçan makine zırhı (machine armour) takımlarının içine kapatılır; sonuçta ortaya çıkan şey, savaş alanında 'yürüyen savaş kuleleri' diye anılan, dev gibi, ağır silahlı yürüyen kalelerdir. Askerî doktrin onları net bir rolde kullanır: ilerleme sırasında ağır silahları konuşturmak, bu sırada daha çevik vurucu birlikler etraflarını sarmaya çalışan düşmanları süpürmek.
 
@@ -18,7 +22,7 @@ Ama bu gücün ödediği bedel yalnızca et ve kan değildir. Bir insanı bu zı
 
 Mechanized Heavy Infantry, Trench Crusade'in temel paradoksunun cisimleşmiş hâlidir: insanlığı kurtarmak için insanlığını yitirmek. Onlar, çelikten kuleler içinde yürüyen, gözleri uzaklara dalmış, bedenleriyle barışı çoktan kaybetmiş kutsal makinelerdir. Düşman için bir kâbus, kendileri için bir trajedidir; New Antioch'un hayatta kalma mücadelesinde insandan ne kadar fedakârlık edildiğinin gümbürdeyen, dumanlar saçan kanıtıdır.
 
-## Özellikler
+## Ayırt Edici Özellikler
 
 - Deneysel makine zırhı (machine armour): 'yürüyen savaş kulesi'
 - Ağır silahlarla ilerlerken vurucu birlikler etrafını temizler

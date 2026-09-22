@@ -1,9 +1,13 @@
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
+
 # Fields of Expertise — Uzmanlık Alanları
 
 Bir Lore içinde büyücünün hangi dallarda derin içgörü kazandığını belirleyen uzmanlaşma alanları; örneğin Ölüm Büyüsü için ölülerle konuşma, Inferno portalı açma, çağırma, yaşayanları etkileme ve bağlama/şeytan çıkarma gibi.
 
 - **Tür:** Lore Disiplini
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
+
+## Kayıt
 
 Uzmanlık Alanları (Fields of Expertise), Kult: Divinity Lost'ta bir Lore disiplininin geniş olduğu kadar tehlikeli de olduğu gerçeğine verilen yanıttır; çünkü hiçbir büyücü, seçtiği Lore'un her dalında aynı derecede usta olamaz. Bu yüzden her büyücü, Lore'u içinde belirli alanlarda derinleşir; bunlara Uzmanlık Alanları denir. Örneğin bir Ölüm büyücüsünün uzmanlık alanları arasında ölülerle iletişim kurmak, Inferno'ya portallar açmak, çağırma, yaşayanları büyüyle etkilemek, ve bağlama ile şeytan çıkarma yer alır. Her büyücü bu dalların yalnızca bazılarında gerçek hâkimiyet kazanır.
 
@@ -19,4 +23,4 @@ Uzmanlık Alanları, büyücülerin tek tip olmasını da engeller; aynı Lore'u
 - Adept rütbesinde yeni bir Uzmanlık Alanı seçebilmek
 - Aynı Lore içinde her büyücüyü farklı bir uzman yapmak
 
--# Kaynaklar: Kult: Divinity Lost (Helmgast) + Kult Wiki
+-# Kaynaklar: Kult: Divinity Lost (Helmgast)

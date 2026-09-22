@@ -1,16 +1,33 @@
+https://static.wikia.nocookie.net/darksun/images/b/b7/Pristine_Tower.png/revision/latest/scale-to-width-down/900?cb=20230426223238
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/b/b7/Pristine_Tower.png/revision/latest/scale-to-width-down/900?cb=20230426223238)
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
-# Pristine Tower — Pristine Tower, Dönüşümlerin Saf Kulesi
 
-Athas'ın kadim ve gizemli dönüşüm yapısı; Rajaat'ın gücünün ve Sihirbaz-Kralların ejderha benzeri varlıklara dönüşümünün merkezinde yer alan, gezegenin tarihini şekillendiren kule.
+# Pristine Tower — Saf Kule, Dönüşümün Kadim Mihveri
 
-- **Kategori:** Tarih
+Athas tarihinin en eski ve en gizemli yapılarından biri; gezegenin çoraklaşmasıyla ve dönüşüm büyüsüyle bağlantılı, devasa güç barındıran, ırkları ve varlıkları değiştirebilen kadim kule.
 
-Pristine Tower (Saf Kule), Dark Sun evreninin en gizemli ve en güçlü kadim yapılarından biridir; Athas'ın tarihini ve Sihirbaz-Kralların kaderini derinden şekillendiren bir dönüşüm merkezidir. Bu devasa kule, gezegenin uzak geçmişine, ilk büyücü Rajaat'ın çağına uzanır; ve Athas'ı saran büyük dönüşümlerin pek çoğunun arkasında, bu kulenin esrarengiz gücü yatar. Çorak çöllerin ortasında yükselen Pristine Tower, sıradan bir yapı değil, gerçekliği ve canlı varlıkları kökten değiştirebilen olağanüstü bir güç odağıdır.
+- **Tür:** Kadim Yapı
+- **Bölge:** Athas, Tablelands'in ötesindeki ıssız bölge
+- **Kaynak Sınıfı:** A — birincil kural kitabı / resmî yayın
 
-Kulenin en önemli rolü, dönüşümle ilgilidir. Pristine Tower, varlıkları yeni biçimlere sokabilen bir güce sahiptir; ve bu güç, Athas'ın en korkunç varlıklarının yaratılışında merkezi bir yer tutar. Sihirbaz-Krallar, yani Rajaat'ın eski savaş komutanları, sıradan ölümsüz tiranlar olmakla yetinmez; çoğu, daha da büyük bir güce, ejderha benzeri korkunç bir biçime dönüşmeye çalışır. Bu dönüşüm süreci, Pristine Tower'ın gücüyle yakından bağlantılıdır; kule, bir Sihirbaz-Kral'ı tanrısal güçte bir varlığa çevirebilecek esrarengiz bir kudretin kaynağıdır.
+## Kayıt
 
-Pristine Tower, aynı zamanda Athas'ın kayıp geçmişinin bir anahtarıdır. Gezegenin yeşil olduğu, henüz çöle dönmediği çağlardan kalan bu yapı, Temizlik Savaşları'nın, Rajaat'ın ve Sihirbaz-Kralların kökeninin sırlarını barındırır. Onu çevreleyen gizem, Athas'ın en güçlü güçlerini bile cezbeder; çünkü kule, hem büyük bir güç vaadi hem de gezegenin gerçek tarihinin bir parçasıdır. Bu yüzden Pristine Tower, hem hırslı tiranların hem de gerçeği arayanların gözünü diktiği, tehlikeli ve kutsanmamış bir yerdir. Pristine Tower, Dark Sun'da kadim gücün ve dönüşümün gizemini temsil eder; ölmekte olan bir dünyanın geçmişinde, hâlâ tanrıları yaratabilecek kadar güçlü ve hâlâ tam olarak anlaşılamamış kadim sırların bulunduğunu gösterir.
+Saf Kule (Pristine Tower), Athas tarihinin en eski, en gizemli ve en güçlü yapılarından biridir; çorak topraklarda yalnız başına yükselen, kökeni gezegenin çok eski çağlarına uzanan kadim bir anıttır. Athas'ın bilinen mimarisinden çarpıcı biçimde farklı görünen bu kule, gezegenin geçmişine, dönüşümüne ve çoraklaşmasının trajik tarihine derinden bağlıdır. Etrafındaki ıssız topraklarda göze çarpan tek görkemli yapı olarak, hem fiziksel hem de büyüsel anlamda bölgeye hâkim, tekinsiz bir güç merkezidir.
 
--# Çapraz: Athas'ın kadim ve gizemli dönüşüm yapısıdır · Rajaat'ın gücüyle ilişkilidir · Sihirbaz-Kralların dönüşümünde rol oynar · Gezegenin geçmişinin sırlarını barındırır
+Saf Kule'nin en dikkat çekici özelliği, dönüşüm ve değişim büyüsüyle olan derin bağıdır. Kule, kendisine getirilen ya da etkisi altına giren varlıkları ve hatta bütün ırkları köklü biçimde dönüştürebilen, akıl almaz bir güç barındırır; Athas'ın bazı tuhaf ve yeni yaşam biçimlerinin, bu kulenin etkisi altında biçimlendiği anlatılır. Bu yönüyle Saf Kule, yalnızca bir yapı değil, gezegenin biyolojisini ve kaderini şekillendirebilecek kadar büyük bir dönüştürücü güç odağıdır; ona yaklaşanlar, kendilerini ve gerçekliği değiştiren güçlerle karşılaşır.
 
--# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad + Mitolojidata derlemesi
+Saf Kule, Athas'ın en güçlü ve en hırslı varlıklarının ilgisini her zaman çekmiştir. Sihirbaz-Krallar ve gezegenin kadim güçleri, kulenin barındırdığı devasa potansiyeli kendi amaçları için kullanmayı arzular; çünkü burada açığa çıkan güç, bir varlığı tümüyle başka bir şeye dönüştürebilecek, hatta tanrısallığa yakın bir mertebeye yükseltebilecek kadar büyüktür. Bu yüzden Saf Kule, sıradan maceracılar için değil, gerçekliğin sınırlarını zorlamak isteyen en güçlü ve en tehlikeli figürler için bir hedef ve bir tapınma noktasıdır.
+
+Saf Kule, Athas'ta kadim gücün ve dönüşümün en derin sırrını temsil eder; gezegenin geçmişiyle geleceği arasında duran, hem yaratabilen hem yıkabilen bir mihver. Bu kule, Athas'ın çoraklaşmasının ve büyünün doğasının anahtarlarından birini elinde tutar; ıssız topraklarda dimdik yükselen, varlıkları yeniden biçimlendiren ve en güçlü zorbaların bile gözünü diktiği esrarengiz güç kaynağı olarak, Athas'ın en kadim ve en tekinsiz yapısıdır.
+
+## Özellikler
+
+- Athas'ın en eski ve en gizemli yapılarından biri
+- Dönüşüm ve değişim büyüsünün kadim mihveri
+- Gezegenin çoraklaşma tarihiyle bağlantılı
+- Varlıkları ve ırkları dönüştürebilen güç barındırır
+- Sihirbaz-Krallar ve kadim güçlerle ilişkilendirilir
+
+-# Kaynaklar: Dark Sun Boxed Set (TSR) + Prism Pentad
