@@ -1,39 +1,40 @@
 ### KANAL: degisiklik-gunlugu
-## Değişiklik Günlüğü: IV. Cilt Denetiminden Önceki Ciltlere Düzeltmeler (1/3)
-IV. cilt yazılırken ve denetlenirken I–III. ciltlerde aşağıdaki hatalar bulundu. Discord'daki ilgili kanallarda bu düzeltmeleri uygulayın.
+## Değişiklik Günlüğü: V. Cilt Denetiminden Önceki Ciltlere Düzeltmeler (1/3)
+V. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bulundu. IV. cildin sonundaki listeye ek olarak, ilgili kanallarda bu düzeltmeleri de uygulayın.
 
 **Kesin hatalar**
-- **`war-of-the-beast` (II. cilt) ile `kronoloji` ve `ork-dunyalari` kayıtları:** *The Beheading* (*The Beast Arises* 12. kitap) yazarı Guy Haley değil, **Dan Abnett**'tir.
-- **Guilliman'ın dirilişi:** Diriliş *Gathering Storm III*'e değil, **Gathering Storm II: Fracture of Biel-Tan**'a aittir. GS III Terra yolculuğunu anlatır. Düzeltilecek yerler: `indomitus-crusade` (I. cilt), `gathering-storm` (II. cilt, GS III özeti), `belisarius-cawl` (II. cilt), `imperium-emanetler` kaydındaki Armour of Fate, `saint-celestine` (III. cilt).
-- **`horus-heresy` (I. cilt):**
-  - Imperium Secundus'ta **Lord Protector unvanı Lion El'Jonson'ındır**, Guilliman'ın değil.
-  - Phall bir "deniz savaşı" değil, **uzay muharebesidir**.
-- **`sanguinius` (II. cilt):** Imperium Secundus'ta gönülsüz olan Guilliman değil, **Sanguinius**'tur. Emperor ilan edilmeyi istemeyen oydu.
-- **`imperial-worlds` (II. cilt):** Convent Prioris Ophelia VII'de değil, **Terra**'dadır. Ophelia VII'de **Convent Sanctorum** bulunur.
-- **`aeldari-karakterleri` kaydı (Jain Zar):** Drazhar Yvraine'i korumaz; Vect adına onu avlayan taraftır. Jain Zar'ın Drazhar'la karşı karşıya geldiği biçiminde düzeltin.
-- **`forum-38-yaratiklar` (I. cilt):** "biomantic dönüşüm" yerine doğru terim **biotransference**'tır.
+- **Angron'un yükselişi:** Güncel anlatıda (*Betrayer*) Angron Daemon Prince'liğe **Nuceria**'da yükselir; eski kaynaklar Armatura der. `khorne` ve `horus-heresy` (I. cilt) ile *Conqueror* kaydı Armatura'yı güncel bilgi gibi veriyor. İki anlatım birlikte belirtilmeli.
+- **`horus-lupercal` (II. cilt):** Hastur Sejanus Horus'un "akıl hocası" değildir; bir bölük kaptanı ve Mournival üyesidir.
+- **`forum-39-dunyalar` (I. cilt, Macragge kaydı):** Great Crusade öncesi Macragge'ı "kralları" değil, **iki consul** yönetiyordu (Konor ve eş consul'ü).
+- **`garviel-loken` (III. cilt):** Xavyer Jubal çavuş değil, bir Luna Wolves **kaptanıdır**.
+- **`perturabo` (II. cilt):** Forgebreaker'ın Perturabo'ya armağan edilmesi Isstvan V'ten, yani Ferrus Manus'un ölümünden **sonra** gelir. Sıra düzeltilmeli.
+- **`chaos-karakterleri-2` kaydı (Khayon):** Nefertari "Aeldari okçu" değil, **Drukhari kökenli** bir yol arkadaşıdır.
+- **`imperium-kahramanlari-2` kaydı:** Roman adı *The Fall of Damnos* değil, ***Fall of Damnos***'tur.
+- **`aeldari-karakterleri-2` kaydı (Fuegan):** "gerçekleşip gerçekleşmeyeceği kanonda açıktır" → "**açık bırakılmıştır**".
+- **`istila-ve-kusatmalar` kaydı (Hydra Cordatus):** Kuşatmanın sonucu yanlışlıkla Teknik alanına yazılmış; **Önemli Olaylar** alanına taşınmalı.
 ---MSG---
 ## Değişiklik Günlüğü (2/3)
 **Temkinli dile çevrilmesi gerekenler**
-- **`adeptus-custodes` (I. cilt):** Captain-General'a "kalıcı High Lords sandalyesi" verilmesi, `terra` ve `trajann-valoris` ile çelişir. Önerilen ifade: "geleneksel olarak konseyin dışındadır; güncel kaynaklarda High Lords arasında da anılır".
-- **`chaos-daemons` (I. cilt):** Gal Vorbak, *The First Heretic*'e göre Heresy'den önce, Lorgar'ın hac yolculuğu sırasında oluşmuştur. "Horus Heresy döneminde" ifadesi düzeltilmeli.
-- **`adepta-sororitas` (I. cilt):** Orders Majoris'in iki Convent'e kesin dağılımı doğrulanamadı; kaynaklar farklı listeler verir. Kesin liste yerine `orders-militant` (IV. cilt) kanalına yönlendirin.
-- **`dark-angels` (I. cilt):** Cypher'ın kılıcının Lion'un Heresy'de kırılan kılıcı olduğu yalnızca söylentidir. `the-fallen` ve `lion-eljonson` da böyle anlatır; ifade kesin dilden çıkarılmalı.
-- **`necron-dynasties` ve `necron-varliklari` (II. cilt):** Maynarkh'ın Llandu'gor'u yok eden soy olduğu kesin dille verilmiş. Önerilen ifade: "Flayer ile ilişkilendirilen ve laneti en ağır taşıyan soy".
-- **`khorne` (I. cilt) ve `kaos-varliklari` kaydı (Bloodthirster):** Signus'ta Sanguinius önce Ka'Bandha'ya ağır bir yenilgi almış, ikinci karşılaşmada onu sürmüştür. İki aşama birlikte anılmalı.
-- **`octarius` (I. cilt):** Beast Snagga bir klan değil, klanları aşan bir Ork kültürüdür.
+- **`aeldari-pantheon` (II. cilt):** Llandu'gor adı eski (3rd Edition) kaynaklarda Nightbringer için kullanılır; 5th Edition sonrasında Flayer'ın adıdır, Nightbringer ise Aza'gorod olur. `aeldari` (I. cilt) bunu doğru anlatıyor; pantheon kanalı ona uydurulmalı.
+- **`konrad-curze` (II. cilt):** Nostramo'nun yıkımı "Great Crusade'in erken yıllarına" değil, belirsiz biçimde "Heresy'den önce"ye tarihlenmeli.
+- **`lorgar-aurelian` (II. cilt):** Emperor Colchis'e geldiğinde Magnus'un yanında bulunduğu kesin olgu gibi verilmiş; kaynaklar bu konuda tartışmalı.
+- **`sanguinius` (II. cilt):** Ruinstorm'u yalnızca Erebus'a bağlayan ifade tek yönlü. Calth ayinleri ve Shadow Crusade birlikte anılmalı (bkz. `ruinstorm`, V. cilt).
+- **`blood-angels` (I. cilt) ve `baal` (III. cilt):** Angels Sanguine'in Second Founding'e ait olduğu kesin değildir.
+- **`war-zone-charadon` (III. cilt) ve `ork-karakterleri-2` kaydı:** Snagrod'un Kantor'la doğrudan yüzleşip yaralandığı doğrulanamadı. Güvenli çekirdek, Rynn's World'den kaçıp kurtulduğudur.
+- **`great-crusade` (I. cilt):** Rangdan ile II ve XI Legion bağına dair not eksik. 2018 tarihli bir Warhammer Community *Regimental Standard* yazısı bu iki Legion'ın Rangdan seferlerine katıldığını ima eder; kayboluşlarıyla bağ ise doğrulanmamış kalır (bkz. `rangdan-xenocides`).
 ---MSG---
 ## Değişiklik Günlüğü (3/3)
-**Yazım birliği ve doğrulama kuyruğu**
-- **Roman adları:** *Devastation of Baal* → ***The Devastation of Baal***. Geçtiği yerler: `tyranids`, `tyrannic-wars`, `hive-fleets`, `primaris-space-marines`. *Talon of Horus* → ***The Talon of Horus***.
-- **Terim birliği:** "biyotransferans" yerine her yerde **biotransference** kullanılmalı.
-- **`kaynak-kontrol` kuyruğuna alınacaklar:**
-  - "Targus VIII" (`raven-guard`).
-  - Krieg isyanının 433.M40 tarihi (`imperial-guard-alaylari-1` kaydı).
-  - "Months of Shame" adı (`grey-knights`).
-  - "Da Blacktoof" gemi adı (`ork-karakterleri` kaydı).
-  - Farsight'ın Khorne kehaneti ayrıntısı (`tau-karakterleri` kaydı).
-  - *Codex: Leagues of Votann — 10th Edition* ve *Codex: Chaos Daemons — 10th Edition* başlıkları.
-  - *Farsight: Blade of Truth*'un biçimi (`black-library-okuma-listesi`).
-  - House Devine'in "Dawn Citadel" ve yılan kültü ayrıntıları (`chaos-sovalye-haneleri` kaydı).
-  - Legio Astorum'un Tallarn'daki varlığı (`sadik-titan-lejyonlari` kaydı).
+- **`primarchs` (I. cilt):** Mortarion "bir savaş ağasının esiri" olarak değil, Overlord Necare'nin evlatlığı ve mirasçısı gibi büyür (bkz. `barbarus`, V. cilt).
+- **`tyrannic-wars` (II. cilt) ve `aeldari-dunyalari` kaydı:** Valedor'daki Tyranid saldırısının Leviathan'a bağlanması "çoğu özette" diye yumuşatılmalı.
+- **`fulgrim` (II. cilt) ve `chemos` (V. cilt):** Birkaç cümle neredeyse aynı; II. cilt tarafı yeniden yazılabilir.
+
+**`kaynak-kontrol` kuyruğuna alınacaklar**
+- Saim-Hann Farseer'ı "Anvirr Keltoc" adı (`vigilus`).
+- Drazhar'ın Yvraine'e saldırısının Saim-Hann'da geçtiği (`aeldari-karakterleri` kaydı).
+- Khayon'un Inquisition tutsağı olduğu (`black-legion`); romanlarda bu yalnızca ima düzeyindedir.
+- Lheorvine Ukris'in World Eaters kökeni.
+- Su-Kassen'in unvanı (`siege-of-terra`).
+- *Codex Supplement: Space Wolves / Black Templars — 10th Edition* ve *Codex: Drukhari — 10th Edition* başlıkları.
+- "Emperor's Peace" teriminin arşivde tek biçimde kullanılması (Astorath, Krieg ve Apothecary bağlamları).
+
+**Çapraz notu:** `calth` diye bir kanal yoktur; doğru kanal adı `battle-of-calth`'tır.
