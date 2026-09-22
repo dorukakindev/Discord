@@ -1,1059 +1,934 @@
 {
- "guild": "The Imperial Archive",
+ "guild": {
+  "id": "1551561397031407626",
+  "name": "The Imperial Archive"
+ },
  "roles": [
   {
-   "name": "@everyone",
    "id": "1551561397031407626",
-   "perms": "2248473465835073"
+   "name": "@everyone"
   },
   {
-   "name": "Lexicanum",
    "id": "1551582741865431104",
-   "perms": "2251800082377969"
+   "name": "Lexicanum"
   },
   {
-   "name": "♔ Yönetici",
    "id": "1551587891367510189",
-   "perms": "8864258447638527"
+   "name": "♔ Yönetici"
   },
   {
-   "name": "📜 Yayıncı",
    "id": "1551587891896000665",
-   "perms": "125952"
+   "name": "📜 Yayıncı"
   },
   {
-   "name": "📚 Kıdemli Küratör",
    "id": "1551587892659228686",
-   "perms": "68608"
+   "name": "📚 Kıdemli Küratör"
   },
   {
-   "name": "🔎 İncelemeci",
    "id": "1551587893343027275",
-   "perms": "68608"
+   "name": "🔎 İncelemeci"
   },
   {
-   "name": "✍️ Katkıcı",
    "id": "1551587894525829221",
-   "perms": "68608"
+   "name": "✍️ Katkıcı"
   },
   {
-   "name": "🤖 Archivist Bot",
    "id": "1551587895486324779",
-   "perms": "257040"
+   "name": "🤖 Archivist Bot"
   },
   {
-   "name": "DISBOARD.org",
    "id": "1551600526217580597",
-   "perms": "19473"
+   "name": "DISBOARD.org"
   }
  ],
  "categories": [
   {
-   "name": "00・DİZİN",
    "id": "1551587898095042570",
-   "position": 0
+   "name": "00・DİZİN"
   },
   {
-   "name": "A・A",
    "id": "1551587910405464064",
-   "position": 1
+   "name": "A・A"
   },
   {
-   "name": "B・B",
    "id": "1551587932941324389",
-   "position": 2
+   "name": "B・B"
   },
   {
-   "name": "C・C",
    "id": "1551587938922405928",
-   "position": 3
+   "name": "C・C"
   },
   {
-   "name": "D・D",
    "id": "1551587946359037993",
-   "position": 4
+   "name": "D・D"
   },
   {
-   "name": "E・E",
    "id": "1551587954030419978",
-   "position": 5
+   "name": "E・E"
   },
   {
-   "name": "F・F",
    "id": "1551587960548495360",
-   "position": 6
+   "name": "F・F"
   },
   {
-   "name": "G・G",
    "id": "1551587965203906741",
-   "position": 7
+   "name": "G・G"
   },
   {
-   "name": "H・H",
    "id": "1551587975383490591",
-   "position": 8
+   "name": "H・H"
   },
   {
-   "name": "I・I",
    "id": "1551587982946074719",
-   "position": 9
+   "name": "I・I"
   },
   {
-   "name": "J–Q・J–Q",
    "id": "1551587994446594229",
-   "position": 10
+   "name": "J–Q・J–Q"
   },
   {
-   "name": "K・K",
    "id": "1551587997802041455",
-   "position": 11
+   "name": "K・K"
   },
   {
-   "name": "L・L",
    "id": "1551588003875659826",
-   "position": 12
+   "name": "L・L"
   },
   {
-   "name": "M・M",
    "id": "1551588011580592213",
-   "position": 13
+   "name": "M・M"
   },
   {
-   "name": "N・N",
    "id": "1551588016919683104",
-   "position": 14
+   "name": "N・N"
   },
   {
-   "name": "O・O",
    "id": "1551588023165128905",
-   "position": 15
+   "name": "O・O"
   },
   {
-   "name": "P・P",
    "id": "1551588031780102267",
-   "position": 16
+   "name": "P・P"
   },
   {
-   "name": "R・R",
    "id": "1551588041293045792",
-   "position": 18
+   "name": "R・R"
   },
   {
-   "name": "S・S",
    "id": "1551588046972133398",
-   "position": 19
+   "name": "S・S"
   },
   {
-   "name": "T・T",
    "id": "1551588056157524028",
-   "position": 20
+   "name": "T・T"
   },
   {
-   "name": "U–V・U–V",
    "id": "1551588066043625605",
-   "position": 21
+   "name": "U–V・U–V"
   },
   {
-   "name": "W–Z・W–Z",
    "id": "1551588072951517206",
-   "position": 23
+   "name": "W–Z・W–Z"
   },
   {
-   "name": "99・KAYNAKÇA",
    "id": "1551588092836843613",
-   "position": 49
+   "name": "99・KAYNAKÇA"
   },
   {
-   "name": "90・EDİTORYAL",
    "id": "1551588103133859891",
-   "position": 50
+   "name": "90・EDİTORYAL"
   },
   {
-   "name": "30・SİLAH VİTRİNİ",
    "id": "1551603519616847932",
-   "position": 27
+   "name": "30・SİLAH VİTRİNİ"
   },
   {
-   "name": "31・ZIRHLI ARAÇLAR",
    "id": "1551603837369057332",
-   "position": 28
+   "name": "31・ZIRHLI ARAÇLAR"
   },
   {
-   "name": "32・GEMİLER & FİLOLAR",
    "id": "1551603986711453760",
-   "position": 29
+   "name": "32・GEMİLER & FİLOLAR"
   },
   {
-   "name": "33・TITAN LEGİONLARI",
    "id": "1551604049395318976",
-   "position": 30
+   "name": "33・TITAN LEGİONLARI"
   },
   {
-   "name": "34・ŞÖVALYE HANELERİ",
    "id": "1551604124657786891",
-   "position": 31
+   "name": "34・ŞÖVALYE HANELERİ"
   },
   {
-   "name": "35・CHAPTER & LEJYONLAR",
    "id": "1551604172263268384",
-   "position": 32
+   "name": "35・CHAPTER & LEJYONLAR"
   },
   {
-   "name": "36・ASTRA MILITARUM ALAYLARI",
    "id": "1551604316719288541",
-   "position": 33
+   "name": "36・ASTRA MILITARUM ALAYLARI"
   },
   {
-   "name": "37・KARAKTERLER",
    "id": "1551604372373512333",
-   "position": 34
+   "name": "37・KARAKTERLER"
   },
   {
-   "name": "38・YARATIKLAR & BİYOFORMLAR",
    "id": "1551604563352617012",
-   "position": 35
+   "name": "38・YARATIKLAR & BİYOFORMLAR"
   },
   {
-   "name": "39・DÜNYALAR",
    "id": "1551604674849808504",
-   "position": 36
+   "name": "39・DÜNYALAR"
   },
   {
-   "name": "40・SAVAŞLAR & OLAYLAR",
    "id": "1551604773503901826",
-   "position": 37
+   "name": "40・SAVAŞLAR & OLAYLAR"
   },
   {
-   "name": "41・TANRILAR & VARLIKLAR",
    "id": "1551604902545989773",
-   "position": 38
+   "name": "41・TANRILAR & VARLIKLAR"
   },
   {
-   "name": "42・AZİZLER",
    "id": "1551604955377307648",
-   "position": 39
+   "name": "42・AZİZLER"
   },
   {
-   "name": "43・PRIMARCH'LAR",
    "id": "1551605009529966736",
-   "position": 40
+   "name": "43・PRIMARCH'LAR"
   },
   {
-   "name": "44・ORGANİZASYONLAR",
    "id": "1551605052677034076",
-   "position": 41
+   "name": "44・ORGANİZASYONLAR"
   },
   {
-   "name": "45・TARİKAT & İNANÇLAR",
    "id": "1551605122365137050",
-   "position": 42
+   "name": "45・TARİKAT & İNANÇLAR"
   },
   {
-   "name": "46・ELİT BİRLİKLER",
    "id": "1551605143009763368",
-   "position": 43
+   "name": "46・ELİT BİRLİKLER"
   },
   {
-   "name": "47・TEKNOLOJİ",
    "id": "1551605163008073828",
-   "position": 44
+   "name": "47・TEKNOLOJİ"
   },
   {
-   "name": "48・ABHUMAN & PSİKERLER",
    "id": "1551605182977282204",
-   "position": 45
+   "name": "48・ABHUMAN & PSİKERLER"
   },
   {
-   "name": "49・RELIC & EMANETLER",
    "id": "1551605233954594968",
-   "position": 46
+   "name": "49・RELIC & EMANETLER"
   },
   {
-   "name": "50・FAKSİYONLAR",
    "id": "1551605292175720559",
-   "position": 47
+   "name": "50・FAKSİYONLAR"
   },
   {
-   "name": "51・SÖZLÜK & KAVRAMLAR",
    "id": "1551605318944030750",
-   "position": 48
+   "name": "51・SÖZLÜK & KAVRAMLAR"
   },
   {
-   "name": "💬・SOHBET",
    "id": "1551675939019030568",
-   "position": 0
+   "name": "💬・SOHBET"
+  },
+  {
+   "id": "1551876420148666380",
+   "name": "ROMANLAR & SERİLER"
+  },
+  {
+   "id": "1551902733441826826",
+   "name": "DİĞER SUNUCULARIMIZ"
   }
  ],
  "channels": [
   {
-   "name": "baslangic",
    "id": "1551587898892222517",
+   "name": "baslangic",
    "type": 0,
-   "parent": "1551587898095042570",
-   "topic": "Sunucuya giriş, yasal uyarı ve okuma rehberi"
+   "parent": "1551587898095042570"
   },
   {
-   "name": "a-z-indeks",
    "id": "1551587901278650491",
+   "name": "a-z-indeks",
    "type": 0,
-   "parent": "1551587898095042570",
-   "topic": "Tüm maddelerin alfabetik ve tematik dizini"
+   "parent": "1551587898095042570"
   },
   {
-   "name": "zaman-cizelgesi",
    "id": "1551587903191388183",
+   "name": "zaman-cizelgesi",
    "type": 0,
-   "parent": "1551587898095042570",
-   "topic": "Warhammer 40,000 kronolojisinin ana hatları"
+   "parent": "1551587898095042570"
   },
   {
-   "name": "kaynak-politikasi",
    "id": "1551587905703649300",
+   "name": "kaynak-politikasi",
    "type": 0,
-   "parent": "1551587898095042570",
-   "topic": "Kaynak hiyerarşisi ve doğrulama standardı"
+   "parent": "1551587898095042570"
   },
   {
-   "name": "nasil-okunur",
    "id": "1551587907918106624",
+   "name": "nasil-okunur",
    "type": 0,
-   "parent": "1551587898095042570",
-   "topic": "Madde yapısı, kanon etiketleri ve çapraz bağlantı kılavuzu"
+   "parent": "1551587898095042570"
   },
   {
-   "name": "kaynaklar",
    "id": "1551588094246129774",
+   "name": "kaynaklar",
    "type": 0,
-   "parent": "1551588092836843613",
-   "topic": "Games Workshop, Warhammer Community ve Codex kaynak listesi"
+   "parent": "1551588092836843613"
   },
   {
-   "name": "katki-kurallari",
    "id": "1551588104245084181",
+   "name": "katki-kurallari",
    "type": 0,
-   "parent": "1551588103133859891",
-   "topic": "Maddelere katkı verme formatı ve editoryal kurallar"
+   "parent": "1551588103133859891"
   },
   {
-   "name": "taslak-kuyrugu",
    "id": "1551588106644488415",
+   "name": "taslak-kuyrugu",
    "type": 15,
-   "parent": "1551588103133859891",
-   "topic": "Yeni madde taslakları ve revizyon talepleri (forum)"
+   "parent": "1551588103133859891"
   },
   {
-   "name": "kaynak-kontrol",
    "id": "1551588107592143021",
+   "name": "kaynak-kontrol",
    "type": 0,
-   "parent": "1551588103133859891",
-   "topic": "Birincil kaynak doğrulaması bekleyen maddeler"
+   "parent": "1551588103133859891"
   },
   {
-   "name": "kanon-kontrol",
    "id": "1551588109857202218",
+   "name": "kanon-kontrol",
    "type": 0,
-   "parent": "1551588103133859891",
-   "topic": "Kanon kesinlik değerlendirmeleri"
+   "parent": "1551588103133859891"
   },
   {
-   "name": "yayin-kuyrugu",
    "id": "1551588112768045067",
+   "name": "yayin-kuyrugu",
    "type": 0,
-   "parent": "1551588103133859891",
-   "topic": "Onaylanmış, yayımlanmayı bekleyen maddeler"
+   "parent": "1551588103133859891"
   },
   {
-   "name": "degisiklik-gunlugu",
    "id": "1551588115540480020",
+   "name": "degisiklik-gunlugu",
    "type": 0,
-   "parent": "1551588103133859891",
-   "topic": "Yayımlanan düzeltme ve revizyon kayıtları"
+   "parent": "1551588103133859891"
   },
   {
-   "name": "bot-log",
    "id": "1551588118023508078",
+   "name": "bot-log",
    "type": 0,
-   "parent": "1551588103133859891",
-   "topic": "Arşiv botunun işlem kayıtları"
+   "parent": "1551588103133859891"
   },
   {
-   "name": "imperium-yakin-dovus",
    "id": "1551626309812224121",
+   "name": "imperium-yakin-dovus",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "İmparatorluk yakın dövüş silahları — chainsword, güç silahları, çekiçler"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "imperium-hafif-atesli",
    "id": "1551626471620091984",
+   "name": "imperium-hafif-atesli",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "İmparatorluk hafif ateşli silahları — bolter, lasgun, plazma serisi"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "imperium-agir-silahlar",
    "id": "1551627637279948921",
+   "name": "imperium-agir-silahlar",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "İmparatorluk ağır silahları — lascannon, roket, alev silahları"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "imperium-ozel-techizat",
    "id": "1551627762660548799",
+   "name": "imperium-ozel-techizat",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "İmparatorluk özel silah ve teçhizat — zırhlar, alan cihazları"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "chaos-silahlari",
    "id": "1551628867939078274",
+   "name": "chaos-silahlari",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "Kaos lejyonlarının ve iblislerin lanetli silahları"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "aeldari-silahlari",
    "id": "1551628959588810813",
+   "name": "aeldari-silahlari",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "Craftworld ve Drukhari (Karanlık Eldar) silahları — shuriken, wraith, distorsiyon"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "ork-silahlari",
    "id": "1551629116715827340",
+   "name": "ork-silahlari",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "Ork silahları — shoota, choppa, rokkit ve DA DAKKA"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "necron-silahlari",
    "id": "1551629117542113372",
+   "name": "necron-silahlari",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "Necron silahları — gauss, tesla, warscythe"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "tau-silahlari",
    "id": "1551629120859930625",
+   "name": "tau-silahlari",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "T'au silahları — pulse, rail, iyon, füzyon"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "tyranid-silahlar",
    "id": "1551629122592182382",
+   "name": "tyranid-silahlar",
    "type": 15,
-   "parent": "1551603519616847932",
-   "topic": "Tyranid biyo-silahları ve symbiote organizmalar"
+   "parent": "1551603519616847932"
   },
   {
-   "name": "imperium-araclari",
    "id": "1551629123602874368",
+   "name": "imperium-araclari",
    "type": 15,
-   "parent": "1551603837369057332",
-   "topic": "İmparatorluk zırhlı araçları — Leman Russ, Baneblade, Land Raider"
+   "parent": "1551603837369057332"
   },
   {
-   "name": "chaos-araclari",
    "id": "1551629124710170806",
+   "name": "chaos-araclari",
    "type": 15,
-   "parent": "1551603837369057332",
-   "topic": "Kaos araçları ve demon-makine varlıklar"
+   "parent": "1551603837369057332"
   },
   {
-   "name": "aeldari-araclari",
    "id": "1551629126320918589",
+   "name": "aeldari-araclari",
    "type": 15,
-   "parent": "1551603837369057332",
-   "topic": "Eldar ve Drukhari araçları — Falcon, Raider, grav platformları"
+   "parent": "1551603837369057332"
   },
   {
-   "name": "ork-araclari",
    "id": "1551629127629414451",
+   "name": "ork-araclari",
    "type": 15,
-   "parent": "1551603837369057332",
-   "topic": "Ork araçları — Battlewagon, Trukk, Gorkanaut"
+   "parent": "1551603837369057332"
   },
   {
-   "name": "necron-araclari",
    "id": "1551629128736702656",
+   "name": "necron-araclari",
    "type": 15,
-   "parent": "1551603837369057332",
-   "topic": "Necron araçları — Monolith, Ghost Ark, Doom Scythe"
+   "parent": "1551603837369057332"
   },
   {
-   "name": "tau-araclari",
    "id": "1551629130137608262",
+   "name": "tau-araclari",
    "type": 15,
-   "parent": "1551603837369057332",
-   "topic": "T'au araçları — Devilfish, Hammerhead, Riptide"
+   "parent": "1551603837369057332"
   },
   {
-   "name": "tyranid-araclari",
    "id": "1551629131161149510",
+   "name": "tyranid-araclari",
    "type": 15,
-   "parent": "1551603837369057332",
-   "topic": "Tyranid devasa biyo-formlar ve canlı araçlar"
+   "parent": "1551603837369057332"
   },
   {
-   "name": "imperium-gemileri",
    "id": "1551629132885131315",
+   "name": "imperium-gemileri",
    "type": 15,
-   "parent": "1551603986711453760",
-   "topic": "İmparatorluk donanması ve Astartes gemileri"
+   "parent": "1551603986711453760"
   },
   {
-   "name": "chaos-gemileri",
    "id": "1551629133967269900",
+   "name": "chaos-gemileri",
    "type": 15,
-   "parent": "1551603986711453760",
-   "topic": "Kaos filosu — Vengeful Spirit, Terminus Est"
+   "parent": "1551603986711453760"
   },
   {
-   "name": "xenos-ve-diger-gemiler",
    "id": "1551629136299294911",
+   "name": "xenos-ve-diger-gemiler",
    "type": 15,
-   "parent": "1551603986711453760",
-   "topic": "Xenos ve çekişmeli gemiler"
+   "parent": "1551603986711453760"
   },
   {
-   "name": "sadik-titan-lejyonlari",
    "id": "1551629137561522286",
+   "name": "sadik-titan-lejyonlari",
    "type": 15,
-   "parent": "1551604049395318976",
-   "topic": "İmparatorluğa sadık Collegia Titanica lejyonları"
+   "parent": "1551604049395318976"
   },
   {
-   "name": "hain-titan-lejyonlari",
    "id": "1551629138693980331",
+   "name": "hain-titan-lejyonlari",
    "type": 15,
-   "parent": "1551604049395318976",
-   "topic": "Hain Titan lejyonları — Legio Mortis, Legio Vulpa"
+   "parent": "1551604049395318976"
   },
   {
-   "name": "imperialis-haneler",
    "id": "1551629139616727153",
+   "name": "imperialis-haneler",
    "type": 15,
-   "parent": "1551604124657786891",
-   "topic": "Questor Imperialis — Imperium'a yeminli şövalye haneleri"
+   "parent": "1551604124657786891"
   },
   {
-   "name": "mechanicus-ve-diger-haneler",
    "id": "1551629141143584849",
+   "name": "mechanicus-ve-diger-haneler",
    "type": 15,
-   "parent": "1551604124657786891",
-   "topic": "Questor Mechanicus ve Freeblade haneleri"
+   "parent": "1551604124657786891"
   },
   {
-   "name": "chaos-sovalye-haneleri",
    "id": "1551629142229778432",
+   "name": "chaos-sovalye-haneleri",
    "type": 15,
-   "parent": "1551604124657786891",
-   "topic": "Kaos Şövalyeleri — düşmüş haneler"
+   "parent": "1551604124657786891"
   },
   {
-   "name": "ilk-kurulus-lejyonlari",
    "id": "1551629143723081848",
+   "name": "ilk-kurulus-lejyonlari",
    "type": 15,
-   "parent": "1551604172263268384",
-   "topic": "Birinci Kuruluş — 18 orijinal Space Marine lejyonu"
+   "parent": "1551604172263268384"
   },
   {
-   "name": "sadik-bolumler-1",
    "id": "1551629145937674330",
+   "name": "sadik-bolumler-1",
    "type": 15,
-   "parent": "1551604172263268384",
-   "topic": "Sadık halef chapter'lar (A–L)"
+   "parent": "1551604172263268384"
   },
   {
-   "name": "sadik-bolumler-2",
    "id": "1551629147695087659",
+   "name": "sadik-bolumler-2",
    "type": 15,
-   "parent": "1551604172263268384",
-   "topic": "Sadık halef chapter'lar (M–Z)"
+   "parent": "1551604172263268384"
   },
   {
-   "name": "hain-ve-kayip-bolumler",
    "id": "1551629150081515652",
+   "name": "hain-ve-kayip-bolumler",
    "type": 15,
-   "parent": "1551604172263268384",
-   "topic": "Hain ve renegade chapter'lar"
+   "parent": "1551604172263268384"
   },
   {
-   "name": "imperial-guard-alaylari-1",
    "id": "1551629150803206176",
+   "name": "imperial-guard-alaylari-1",
    "type": 15,
-   "parent": "1551604316719288541",
-   "topic": "İmparatorluk Muhafızı alayları (A–L) — Cadian, Catachan, Attilan"
+   "parent": "1551604316719288541"
   },
   {
-   "name": "imperial-guard-alaylari-2",
    "id": "1551629152602431550",
+   "name": "imperial-guard-alaylari-2",
    "type": 15,
-   "parent": "1551604316719288541",
-   "topic": "İmparatorluk Muhafızı alayları (M–Z) — Vostroyan, Valhallan, Tanith"
+   "parent": "1551604316719288541"
   },
   {
-   "name": "imperium-kahramanlari",
    "id": "1551629154238337175",
+   "name": "imperium-kahramanlari",
    "type": 15,
-   "parent": "1551604372373512333",
-   "topic": "İmparatorluk kahramanları — Eisenhorn, Cain, Calgar, Celestine"
+   "parent": "1551604372373512333"
   },
   {
-   "name": "chaos-karakterleri",
    "id": "1551629155446292490",
+   "name": "chaos-karakterleri",
    "type": 15,
-   "parent": "1551604372373512333",
-   "topic": "Kaos karakterleri — Abaddon, Erebus, Fabius Bile"
+   "parent": "1551604372373512333"
   },
   {
-   "name": "aeldari-karakterleri",
    "id": "1551629156293419081",
+   "name": "aeldari-karakterleri",
    "type": 15,
-   "parent": "1551604372373512333",
-   "topic": "Aeldari ve Drukhari karakterleri — Eldrad, Vect, Yvraine"
+   "parent": "1551604372373512333"
   },
   {
-   "name": "necron-karakterleri",
    "id": "1551629159900520508",
+   "name": "necron-karakterleri",
    "type": 15,
-   "parent": "1551604372373512333",
-   "topic": "Necron lordları — Imotekh, Orikan, Trazyn"
+   "parent": "1551604372373512333"
   },
   {
-   "name": "xenos-karakterleri",
    "id": "1551629160718540883",
+   "name": "xenos-karakterleri",
    "type": 15,
-   "parent": "1551604372373512333",
-   "topic": "Ork, Tau ve Tyranid karakterleri — Ghazghkull, Farsight"
+   "parent": "1551604372373512333"
   },
   {
-   "name": "kaos-varliklari",
    "id": "1551629164019458230",
+   "name": "kaos-varliklari",
    "type": 15,
-   "parent": "1551604563352617012",
-   "topic": "Daemonlar ve warp varlıkları — Bloodthirster, Lord of Change"
+   "parent": "1551604563352617012"
   },
   {
-   "name": "tyranid-biyoforlari",
    "id": "1551629165411827732",
+   "name": "tyranid-biyoforlari",
    "type": 15,
-   "parent": "1551604563352617012",
-   "topic": "Tyranid biyo-formları — Carnifex, Hormagaunt, Zoanthrope"
+   "parent": "1551604563352617012"
   },
   {
-   "name": "necron-varliklari",
    "id": "1551629170151260261",
+   "name": "necron-varliklari",
    "type": 15,
-   "parent": "1551604563352617012",
-   "topic": "Necron canoptek yapıları ve C'tan parçaları"
+   "parent": "1551604563352617012"
   },
   {
-   "name": "diger-xeno-yaratiklar",
    "id": "1551629172386955308",
+   "name": "diger-xeno-yaratiklar",
    "type": 15,
-   "parent": "1551604563352617012",
-   "topic": "Bağımsız xeno türler — Ambull, Enslaver, Kroot hayvanları"
+   "parent": "1551604563352617012"
   },
   {
-   "name": "imperium-dunyalari",
    "id": "1551629174391832626",
+   "name": "imperium-dunyalari",
    "type": 15,
-   "parent": "1551604674849808504",
-   "topic": "İmparatorluk dünyaları — hive, forge, fief dünyaları"
+   "parent": "1551604674849808504"
   },
   {
-   "name": "cekismeli-dunyalar",
    "id": "1551629176136663150",
+   "name": "cekismeli-dunyalar",
    "type": 15,
-   "parent": "1551604674849808504",
-   "topic": "Savaş alanı ve çekişmeli dünyalar — Armageddon, Vigilus"
+   "parent": "1551604674849808504"
   },
   {
-   "name": "chaos-dunyalari",
    "id": "1551629177419993270",
+   "name": "chaos-dunyalari",
    "type": 15,
-   "parent": "1551604674849808504",
-   "topic": "Daemon ve Kaos dünyaları — Medrengard, Sortiarius"
+   "parent": "1551604674849808504"
   },
   {
-   "name": "xenos-dunyalari",
    "id": "1551629178481287339",
+   "name": "xenos-dunyalari",
    "type": 15,
-   "parent": "1551604674849808504",
-   "topic": "Xenos dünyaları — craftworld'ler, Commorragh, T'au"
+   "parent": "1551604674849808504"
   },
   {
-   "name": "kronoloji",
    "id": "1551629179794227301",
+   "name": "kronoloji",
    "type": 15,
-   "parent": "1551604773503901826",
-   "topic": "Evren kronolojisi — Köken'den 41. binyıla"
+   "parent": "1551604773503901826"
   },
   {
-   "name": "buyuk-seferler",
    "id": "1551629180972572742",
+   "name": "buyuk-seferler",
    "type": 15,
-   "parent": "1551604773503901826",
-   "topic": "Haçlı seferleri ve büyük seferler — Macharius, Sabbat, Indomitus"
+   "parent": "1551604773503901826"
   },
   {
-   "name": "istila-ve-kusatmalar",
    "id": "1551629181971079290",
+   "name": "istila-ve-kusatmalar",
    "type": 15,
-   "parent": "1551604773503901826",
-   "topic": "İstilalar ve kuşatmalar — Armageddon savaşları, Vraks"
+   "parent": "1551604773503901826"
   },
   {
-   "name": "ic-savaslar-katliamlar-kiyamet",
    "id": "1551629183891800145",
+   "name": "ic-savaslar-katliamlar-kiyamet",
    "type": 15,
-   "parent": "1551604773503901826",
-   "topic": "İç savaşlar, katliamlar ve kıyamet olayları"
+   "parent": "1551604773503901826"
   },
   {
-   "name": "kaos-tanrilari",
    "id": "1551629185410146404",
+   "name": "kaos-tanrilari",
    "type": 15,
-   "parent": "1551604902545989773",
-   "topic": "Dört büyük Kaos Tanrısı ve warp tanrıları"
+   "parent": "1551604902545989773"
   },
   {
-   "name": "aeldari-panteonu",
    "id": "1551629186479689768",
+   "name": "aeldari-panteonu",
    "type": 15,
-   "parent": "1551604902545989773",
-   "topic": "Aeldari panteonu — Khaine, Isha, Cegorach, Ynnead"
+   "parent": "1551604902545989773"
   },
   {
-   "name": "diger-tanri-varliklari",
    "id": "1551629187645972520",
+   "name": "diger-tanri-varliklari",
    "type": 15,
-   "parent": "1551604902545989773",
-   "topic": "C'tan, Ork tanrıları ve diğer varlıklar"
+   "parent": "1551604902545989773"
   },
   {
-   "name": "imperium-azizleri",
    "id": "1551629188723904604",
+   "name": "imperium-azizleri",
    "type": 15,
-   "parent": "1551604955377307648",
-   "topic": "İmparatorluk azizleri ve yaşayan azizler — Celestine, Sabbat"
+   "parent": "1551604955377307648"
   },
   {
-   "name": "sadik-ve-kayip-primarchlar",
    "id": "1551629189931860080",
+   "name": "sadik-ve-kayip-primarchlar",
    "type": 15,
-   "parent": "1551605009529966736",
-   "topic": "Sadık, kayıp ve bilinmeyen Primarch'lar — Vulkan, Corax, II & XI"
+   "parent": "1551605009529966736"
   },
   {
-   "name": "hain-primarchlar",
    "id": "1551629190984507412",
+   "name": "hain-primarchlar",
    "type": 15,
-   "parent": "1551605009529966736",
-   "topic": "Hain Primarch'lar — Angron, Fulgrim, Mortarion, Curze"
+   "parent": "1551605009529966736"
   },
   {
-   "name": "imperium-organizasyonlari",
    "id": "1551629192297320489",
+   "name": "imperium-organizasyonlari",
    "type": 15,
-   "parent": "1551605052677034076",
-   "topic": "Adeptus Terra kurumları — Administratum, Arbites, Ministorum"
+   "parent": "1551605052677034076"
   },
   {
-   "name": "diger-organizasyonlar",
    "id": "1551629194159595742",
+   "name": "diger-organizasyonlar",
    "type": 15,
-   "parent": "1551605052677034076",
-   "topic": "Kaos ve xenos organizasyonları"
+   "parent": "1551605052677034076"
   },
   {
-   "name": "tarikatlar",
    "id": "1551629196021858425",
+   "name": "tarikatlar",
    "type": 15,
-   "parent": "1551605122365137050",
-   "topic": "İnanç ve tarikatlar — Imperial Creed, Promethean Cult, Death Cults"
+   "parent": "1551605122365137050"
   },
   {
-   "name": "elit-birlikler",
    "id": "1551629202208333976",
+   "name": "elit-birlikler",
    "type": 15,
-   "parent": "1551605143009763368",
-   "topic": "Elit roller ve birlikler — Terminatör, Librarian, Apothecary"
+   "parent": "1551605143009763368"
   },
   {
-   "name": "teknoloji",
    "id": "1551629204536303617",
+   "name": "teknoloji",
    "type": 15,
-   "parent": "1551605163008073828",
-   "topic": "Teknoloji ve sistemler — STC, Gellar Alanı, Warp Drive, Power Armour"
+   "parent": "1551605163008073828"
   },
   {
-   "name": "abhuman-ve-mutantlar",
    "id": "1551629205660237978",
+   "name": "abhuman-ve-mutantlar",
    "type": 15,
-   "parent": "1551605182977282204",
-   "topic": "Abhuman ırklar ve mutantlar — Ogryn, Ratling, Squat"
+   "parent": "1551605182977282204"
   },
   {
-   "name": "psiker-siniflari",
    "id": "1551629206939508766",
+   "name": "psiker-siniflari",
    "type": 15,
-   "parent": "1551605182977282204",
-   "topic": "Psyker sınıfları ve warp fenomenleri"
+   "parent": "1551605182977282204"
   },
   {
-   "name": "imperium-emanetler",
    "id": "1551629208025956382",
+   "name": "imperium-emanetler",
    "type": 15,
-   "parent": "1551605233954594968",
-   "topic": "İmparatorluk kutsal emanetleri — Drach'nyen yok, ama Spear of Telesto var"
+   "parent": "1551605233954594968"
   },
   {
-   "name": "chaos-emanetler",
    "id": "1551629209149898874",
+   "name": "chaos-emanetler",
    "type": 15,
-   "parent": "1551605233954594968",
-   "topic": "Kaos lanetli emanetleri — Drach'nyen, Talon of Horus"
+   "parent": "1551605233954594968"
   },
   {
-   "name": "xenos-emanetler",
    "id": "1551629210441879562",
+   "name": "xenos-emanetler",
    "type": 15,
-   "parent": "1551605233954594968",
-   "topic": "Xenos ve tarafsız emanetler"
+   "parent": "1551605233954594968"
   },
   {
-   "name": "fraksiyonlar",
    "id": "1551629211674877962",
+   "name": "fraksiyonlar",
    "type": 15,
-   "parent": "1551605292175720559",
-   "topic": "A–Z'de ayrı kanalı olmayan ek fraksiyonlar ve alt-güçler"
+   "parent": "1551605292175720559"
   },
   {
-   "name": "sozluk",
    "id": "1551629213079961761",
+   "name": "sozluk",
    "type": 15,
-   "parent": "1551605318944030750",
-   "topic": "Kavram ve terimler — gene-seed, Exterminatus, Tithe, Black Ships"
+   "parent": "1551605318944030750"
   },
   {
-   "name": "genel-sohbet",
    "id": "1551676211409715290",
+   "name": "genel-sohbet",
    "type": 0,
-   "parent": "1551675939019030568",
-   "topic": "The Imperial Archive genel sohbet kanalı — lore, sorular, muhabbet. Saygılı kalın."
+   "parent": "1551675939019030568"
   },
   {
-   "name": "giris-cikis",
    "id": "1551676318889017445",
+   "name": "giris-cikis",
    "type": 0,
-   "parent": "1551675939019030568",
-   "topic": "Sunucuya katılan ve ayrılan üyelerin kaydı."
+   "parent": "1551675939019030568"
   },
   {
-   "name": "kurallar",
    "id": "1551728590536572993",
+   "name": "kurallar",
    "type": 0,
-   "parent": "1551675939019030568",
-   "topic": null
+   "parent": "1551675939019030568"
   },
   {
-   "name": "sss",
    "id": "1551728601563668590",
+   "name": "sss",
    "type": 0,
-   "parent": "1551675939019030568",
-   "topic": null
+   "parent": "1551675939019030568"
   },
   {
-   "name": "r-kayitlar",
    "id": "1551804767494471730",
+   "name": "r-kayitlar",
    "type": 15,
-   "parent": "1551588041293045792",
-   "topic": "R harfi kayıtları — A–Z ansiklopedisi ek bölümü"
+   "parent": "1551588041293045792"
   },
   {
-   "name": "s-kayitlar",
    "id": "1551804771684327455",
+   "name": "s-kayitlar",
    "type": 15,
-   "parent": "1551588046972133398",
-   "topic": "S harfi kayıtları — A–Z ansiklopedisi ek bölümü"
+   "parent": "1551588046972133398"
   },
   {
-   "name": "t-kayitlar",
    "id": "1551804775673368629",
+   "name": "t-kayitlar",
    "type": 15,
-   "parent": "1551588056157524028",
-   "topic": "T harfi kayıtları — A–Z ansiklopedisi ek bölümü"
+   "parent": "1551588056157524028"
   },
   {
-   "name": "u-kayitlar",
    "id": "1551804779959685150",
+   "name": "u-kayitlar",
    "type": 15,
-   "parent": "1551588066043625605",
-   "topic": "U harfi kayıtları — A–Z ansiklopedisi ek bölümü"
+   "parent": "1551588066043625605"
   },
   {
-   "name": "v-kayitlar",
    "id": "1551804784581939220",
+   "name": "v-kayitlar",
    "type": 15,
-   "parent": "1551588066043625605",
-   "topic": "V harfi kayıtları — A–Z ansiklopedisi ek bölümü"
+   "parent": "1551588066043625605"
   },
   {
-   "name": "w-kayitlar",
    "id": "1551804788553941012",
+   "name": "w-kayitlar",
    "type": 15,
-   "parent": "1551588072951517206",
-   "topic": "W harfi kayıtları — A–Z ansiklopedisi ek bölümü"
+   "parent": "1551588072951517206"
   },
   {
-   "name": "y-kayitlar",
    "id": "1551804792953774150",
+   "name": "y-kayitlar",
    "type": 15,
-   "parent": "1551588072951517206",
-   "topic": "Y harfi kayıtları — A–Z ansiklopedisi ek bölümü"
+   "parent": "1551588072951517206"
   },
   {
-   "name": "x-kayitlar",
    "id": "1551809841062871080",
+   "name": "x-kayitlar",
    "type": 15,
-   "parent": "1551588072951517206",
-   "topic": "X harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551588072951517206"
   },
   {
-   "name": "z-kayitlar",
    "id": "1551809901972557844",
+   "name": "z-kayitlar",
    "type": 15,
-   "parent": "1551588072951517206",
-   "topic": "Z harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551588072951517206"
   },
   {
-   "name": "a-kayitlar",
    "id": "1551810417423159306",
+   "name": "a-kayitlar",
    "type": 15,
-   "parent": "1551587910405464064",
-   "topic": "A harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587910405464064"
   },
   {
-   "name": "b-kayitlar",
    "id": "1551811337385152562",
+   "name": "b-kayitlar",
    "type": 15,
-   "parent": "1551587932941324389",
-   "topic": "B harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587932941324389"
   },
   {
-   "name": "c-kayitlar",
    "id": "1551812135074406450",
+   "name": "c-kayitlar",
    "type": 15,
-   "parent": "1551587938922405928",
-   "topic": "C harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587938922405928"
   },
   {
-   "name": "d-kayitlar",
    "id": "1551813073323425892",
+   "name": "d-kayitlar",
    "type": 15,
-   "parent": "1551587946359037993",
-   "topic": "D harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587946359037993"
   },
   {
-   "name": "e-kayitlar",
    "id": "1551813708102238260",
+   "name": "e-kayitlar",
    "type": 15,
-   "parent": "1551587954030419978",
-   "topic": "E harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587954030419978"
   },
   {
-   "name": "f-kayitlar",
    "id": "1551814099992846337",
+   "name": "f-kayitlar",
    "type": 15,
-   "parent": "1551587960548495360",
-   "topic": "F harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587960548495360"
   },
   {
-   "name": "g-kayitlar",
    "id": "1551814362510000178",
+   "name": "g-kayitlar",
    "type": 15,
-   "parent": "1551587965203906741",
-   "topic": "G harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587965203906741"
   },
   {
-   "name": "h-kayitlar",
    "id": "1551814945933500476",
+   "name": "h-kayitlar",
    "type": 15,
-   "parent": "1551587975383490591",
-   "topic": "H harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587975383490591"
   },
   {
-   "name": "i-kayitlar",
    "id": "1551815266680180886",
+   "name": "i-kayitlar",
    "type": 15,
-   "parent": "1551587982946074719",
-   "topic": "I harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587982946074719"
   },
   {
-   "name": "j-kayitlar",
    "id": "1551815798463533156",
+   "name": "j-kayitlar",
    "type": 15,
-   "parent": "1551587994446594229",
-   "topic": "J harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587994446594229"
   },
   {
-   "name": "k-kayitlar",
    "id": "1551815862707818527",
+   "name": "k-kayitlar",
    "type": 15,
-   "parent": "1551587997802041455",
-   "topic": "K harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587997802041455"
   },
   {
-   "name": "l-kayitlar",
    "id": "1551816110347653141",
+   "name": "l-kayitlar",
    "type": 15,
-   "parent": "1551588003875659826",
-   "topic": "L harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551588003875659826"
   },
   {
-   "name": "m-kayitlar",
    "id": "1551816630818967592",
+   "name": "m-kayitlar",
    "type": 15,
-   "parent": "1551588011580592213",
-   "topic": "M harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551588011580592213"
   },
   {
-   "name": "n-kayitlar",
    "id": "1551817239789834332",
+   "name": "n-kayitlar",
    "type": 15,
-   "parent": "1551588016919683104",
-   "topic": "N harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551588016919683104"
   },
   {
-   "name": "o-kayitlar",
    "id": "1551817604098687046",
+   "name": "o-kayitlar",
    "type": 15,
-   "parent": "1551588023165128905",
-   "topic": "O harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551588023165128905"
   },
   {
-   "name": "p-kayitlar",
    "id": "1551818088591138827",
+   "name": "p-kayitlar",
    "type": 15,
-   "parent": "1551588031780102267",
-   "topic": "P harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551588031780102267"
   },
   {
-   "name": "q-kayitlar",
    "id": "1551818494759403520",
+   "name": "q-kayitlar",
    "type": 15,
-   "parent": "1551587994446594229",
-   "topic": "Q harfi kayıtları — A–Z ansiklopedisi"
+   "parent": "1551587994446594229"
   },
   {
-   "name": "istatistikler",
    "id": "1551830076591439872",
+   "name": "istatistikler",
    "type": 0,
-   "parent": "1551587898095042570",
-   "topic": "Arşiv canlı istatistikleri"
+   "parent": "1551587898095042570"
+  },
+  {
+   "id": "1551876422782419034",
+   "name": "horus-heresy-serisi",
+   "type": 15,
+   "parent": "1551876420148666380"
+  },
+  {
+   "id": "1551876426796376074",
+   "name": "siege-of-terra",
+   "type": 15,
+   "parent": "1551876420148666380"
+  },
+  {
+   "id": "1551876430810578984",
+   "name": "diger-romanlar",
+   "type": 15,
+   "parent": "1551876420148666380"
+  },
+  {
+   "id": "1551903313333723136",
+   "name": "trech-crusade",
+   "type": 0,
+   "parent": "1551902733441826826"
+  },
+  {
+   "id": "1551903439385268307",
+   "name": "mörk-borg-darksun-kult-etc",
+   "type": 0,
+   "parent": "1551902733441826826"
   }
  ],
  "threads": {
@@ -1713,10 +1588,8 @@
    "Vostroyan Firstborn"
   ],
   "imperium-kahramanlari": [
-   "Abaddon the Despoiler (Warmaster) — Black Legion",
    "Ahzek Ahriman — Thousand Sons",
    "Anrakyr the Traveller",
-   "Asdrubael Vect",
    "Astorath the Grim",
    "Asurmen (Hand of Asuryan) — Phoenix Lord",
    "Aun'Shi",
@@ -1744,9 +1617,7 @@
    "Darnath Lysander (Captain of the First Company) — Imperial Fists",
    "Deathleaper",
    "Demiurg",
-   "Drazhar",
    "Einhyr Champion (rol kaydı)",
-   "Eldrad Ulthran",
    "Enslaver",
    "Erasmus Tycho",
    "Erebus (First Chaplain) — Word Bearers",
@@ -1770,7 +1641,6 @@
    "Illuminor Szeras",
    "Imotekh the Stormlord",
    "Iskandar Khayon — Black Legion",
-   "Jain Zar",
    "Jokaero Weaponsmith",
    "Kairos Fateweaver (Oracle of Tzeentch) — Tzeentch",
    "Kaldor Draigo",
@@ -1784,7 +1654,6 @@
    "Kroot Shaper (rol kaydı)",
    "Ku'gath Plaguefather — Nurgle",
    "Kâhl (rol kaydı)",
-   "Lelith Hesperax",
    "Logan Grimnar",
    "Logan Grimnar (Great Wolf) — Space Wolves",
    "Lucius the Eternal — Emperor's Children",
@@ -1795,7 +1664,6 @@
    "Marneus Augustus Calgar (Lord Macragge) — Ultramarines",
    "Marneus Calgar",
    "Marshal Helbrecht",
-   "Maugan Ra",
    "Mephiston",
    "Mephiston (Lord of Death) — Blood Angels",
    "Morvenn Vahl",
@@ -1810,7 +1678,6 @@
    "Patriarch (rol kaydı)",
    "Pedro Kantor",
    "Pedro Kantor (Chapter Master) — Crimson Fists",
-   "Prince Yriel",
    "Ragnar Blackmane",
    "Ragnar Blackmane (Wolf Lord) — Space Wolves",
    "Saint Celestine",
@@ -1837,7 +1704,6 @@
    "Vespid Strain Leader (rol kaydı)",
    "Vulkan He'stan",
    "Wazdakka Gutsmek",
-   "Yvraine",
    "Zodgrod Wortsnagga",
    "Ûthar the Destined"
   ],
@@ -2638,11 +2504,14 @@
    "Roboute Guilliman",
    "Rogal Dorn",
    "Rogue Traders",
+   "Rubric Marines",
    "Rubric of Ahriman",
    "Ruinstorm",
-   "Ryza"
+   "Ryza",
+   "Sisters Repentia"
   ],
   "s-kayitlar": [
+   "Albay 'Iron Hand' Straken",
    "S — Kayıt Dizini",
    "Sa Cea",
    "Sabbat Worlds Crusade",
@@ -2650,6 +2519,7 @@
    "Saint Celestine",
    "Salamanders",
    "Sanguinius",
+   "Sanguinor",
    "Schola Progenium",
    "Scouring",
    "Scythes of the Emperor",
@@ -2660,10 +2530,12 @@
    "Segmentum Solar",
    "Segmentum Tempestus",
    "Sensei and Star Child",
+   "Seraphim",
    "Servitors",
    "Sevatar",
    "Shadow Crusade",
    "Shadowsun",
+   "Shining Spears",
    "Shrike",
    "Siege of Hydra Cordatus",
    "Siege of Terra",
@@ -2683,10 +2555,13 @@
    "Space Marines",
    "Space Wolves",
    "Squats",
+   "Striking Scorpions",
    "Stygies Viii",
+   "Swooping Hawks",
    "İkinci Armageddon Savaşı"
   ],
   "t-kayitlar": [
+   "Chapter Master Tu'Shan",
    "T — Kayıt Dizini",
    "Tallarn Desert Raiders",
    "Tanith First and Only",
@@ -2710,6 +2585,7 @@
    "Trazyn the Infinite",
    "Triplex Phall",
    "Trisolian",
+   "Tyberos the Red Wake",
    "Typhus",
    "Tyranids",
    "Tyrannic Wars",
@@ -2726,6 +2602,7 @@
   "u-kayitlar": [
    "U — Kayıt Dizini",
    "Ullanor",
+   "Ulrik the Slayer",
    "Ulthwe",
    "Ultima Founding",
    "Ultima Segmentum",
@@ -2741,9 +2618,12 @@
   "v-kayitlar": [
    "V — Kayıt Dizini",
    "Valhallan Ice Warriors",
+   "Vanus Tapınağı",
    "Vashtorr",
+   "Venenum Tapınağı",
    "Vespid",
    "Vigilus",
+   "Vindicare Tapınağı",
    "Vior La",
    "Void Dragon",
    "Vostroyan Firstborn",
@@ -2756,6 +2636,7 @@
    "War in Heaven",
    "War of the Beast",
    "Warp",
+   "Warp Spiders",
    "Webway",
    "Webway War",
    "White Scars",
@@ -2810,7 +2691,6 @@
    "Argel Tal",
    "Arks of Omen",
    "Armageddon",
-   "Armageddon",
    "Armageddon Steel Legion",
    "Asdrubael Vect",
    "Aspect Warriors",
@@ -2821,7 +2701,8 @@
    "Astropath",
    "Asurmen",
    "Aun va",
-   "Azrael"
+   "Azrael",
+   "Interrogator-Chaplain Asmodai"
   ],
   "b-kayitlar": [
    "B — Kayıt Dizini",
@@ -2840,6 +2721,7 @@
    "Belisarius Cawl",
    "Beta Garmon",
    "Biel Tan",
+   "Big Mek",
    "Bjorn the Fell Handed",
    "Black Crusades",
    "Black Dragons",
@@ -2854,6 +2736,7 @@
    "Bolt Weapons",
    "Bork an",
    "Boss Snikrot",
+   "Brother-Captain Arvann Stern",
    "Burning of Prospero"
   ],
   "c-kayitlar": [
@@ -2861,13 +2744,16 @@
    "Cadia",
    "Cadian Shock Troops",
    "Caliban",
+   "Callidus Tapınağı",
    "Canoptek",
+   "Captain Artemis",
    "Carcharodons",
+   "Castellan Garran Crowe",
    "Catachan",
-   "Catachan Jungle Fighters",
    "Catachan Jungle Fighters",
    "Cato Sicarius",
    "Chaos",
+   "Chaos Chosen",
    "Chaos Cults",
    "Chaos Daemons",
    "Chaos Knights",
@@ -2910,13 +2796,16 @@
    "Dark Angels",
    "Dark Apostles",
    "Dark Mechanicum",
+   "Dark Reapers",
    "Darnath Lysander",
    "Davin",
    "Death Guard",
    "Death Korps of Krieg",
+   "Deathmarks",
    "Deathwatch",
    "Destroyer Cults",
    "Devastation of Baal",
+   "Dire Avengers",
    "Drach Nyen",
    "Drazhar",
    "Drukhari",
@@ -2934,6 +2823,8 @@
    "Emperors Tarot",
    "Enslavers",
    "Erebus",
+   "Ethereal (Aun)",
+   "Eversor Tapınağı",
    "Executioners",
    "Exodites",
    "Exorcists",
@@ -2950,7 +2841,10 @@
    "Farsight Enclaves",
    "Fenris",
    "Ferrus Manus",
+   "Fire Dragons",
    "First Black Crusade",
+   "Flash Gitz",
+   "Flayed Ones",
    "Flesh Tearers",
    "Forge World Lucius",
    "Forge Worlds",
@@ -2976,10 +2870,14 @@
    "Gregor Eisenhorn",
    "Grey Knights",
    "Grimaldus",
+   "Grotesques",
    "Gryphonne Iv",
-   "Gsc Cults"
+   "Gsc Cults",
+   "XV95 Ghostkeel Battlesuit"
   ],
   "h-kayitlar": [
+   "Chaos Havocs",
+   "Gunnery Sergeant 'Demolition' Harker",
    "H — Kayıt Dizini",
    "Haemonculi",
    "Harlequins",
@@ -3021,7 +2919,8 @@
    "Iron Warriors",
    "Iskandar Khayon",
    "Isstvan Campaign",
-   "Iyanden"
+   "Iyanden",
+   "Necron Immortals"
   ],
   "j-kayitlar": [
    "J — Kayıt Dizini",
@@ -3037,12 +2936,14 @@
    "Kaldor Draigo",
    "Kaptin Badrukk",
    "Kasrkin",
+   "Kayvaan Shrike",
    "Kharn",
    "Khorne",
    "Knights Errant",
    "Konrad Curze",
    "Kor Sarro Khan",
-   "Kroot"
+   "Kroot",
+   "Ork Kommandos"
   ],
   "l-kayitlar": [
    "L — Kayıt Dizini",
@@ -3105,6 +3006,7 @@
    "Necromunda",
    "Necron Dynasties",
    "Necrons",
+   "Nemesis Dreadknight",
    "Night Lords",
    "Nightbringer",
    "Njal Stormcaller",
@@ -3127,6 +3029,7 @@
    "Omnissiah",
    "Ophelia Vii",
    "Orders Militant",
+   "Ordo Chronos",
    "Ordo Hereticus",
    "Ordo Malleus",
    "Ordo Xenos",
@@ -3144,6 +3047,7 @@
    "Perturabo",
    "Pharos",
    "Phoenix Lords",
+   "Plague Marines",
    "Plague Wars",
    "Planet of the Sorcerers",
    "Planetary Defence Forces",
@@ -3160,6 +3064,91 @@
    "Q — Kayıt Dizini",
    "Questoris Knights",
    "Quixos"
+  ],
+  "horus-heresy-serisi": [
+   "1. Horus Rising",
+   "10. Tales of Heresy",
+   "11. Fallen Angels",
+   "12. A Thousand Sons",
+   "13. Nemesis",
+   "14. The First Heretic",
+   "15. Prospero Burns",
+   "16. Age of Darkness",
+   "17. The Outcast Dead",
+   "18. Deliverance Lost",
+   "19. Know No Fear",
+   "2. False Gods",
+   "20. The Primarchs",
+   "21. Fear to Tread",
+   "22. Shadows of Treachery",
+   "23. Angel Exterminatus",
+   "24. Betrayer",
+   "25. Mark of Calth",
+   "26. Vulkan Lives",
+   "27. The Unremembered Empire",
+   "28. Scars",
+   "29. Vengeful Spirit",
+   "3. Galaxy in Flames",
+   "30. The Damnation of Pythos",
+   "31. Legacies of Betrayal",
+   "32. Deathfire",
+   "33. War Without End",
+   "34. Pharos",
+   "35. Eye of Terra",
+   "36. The Path of Heaven",
+   "37. The Silent War",
+   "38. Angels of Caliban",
+   "39. Praetorian of Dorn",
+   "4. The Flight of the Eisenstein",
+   "40. Corax",
+   "41. The Master of Mankind",
+   "42. Garro",
+   "43. Shattered Legions",
+   "44. The Crimson King",
+   "45. Tallarn",
+   "46. Ruinstorm",
+   "47. Old Earth",
+   "48. The Burden of Loyalty",
+   "49. Wolfsbane",
+   "5. Fulgrim",
+   "50. Born of Flame",
+   "51. Slaves to Darkness",
+   "52. Heralds of the Siege",
+   "53. Titandeath",
+   "54. The Buried Dagger",
+   "6. Descent of Angels",
+   "7. Legion",
+   "8. Battle for the Abyss",
+   "9. Mechanicum",
+   "Okuma Sırası — Nereden Başlanır?"
+  ],
+  "siege-of-terra": [
+   "1. The Solar War",
+   "2. The Lost and the Damned",
+   "3. The First Wall",
+   "4. Saturnine",
+   "5. Mortis",
+   "6. Warhawk",
+   "7. Echoes of Eternity",
+   "8. The End and the Death Vol. I",
+   "9. The End and the Death Vol. II+III"
+  ],
+  "diger-romanlar": [
+   "Brothers of the Snake",
+   "Dark Imperium",
+   "First and Only (Gaunt's Ghosts #1)",
+   "For the Emperor (Ciaphas Cain #1)",
+   "Helsreach",
+   "Hereticus (Eisenhorn #3)",
+   "Malleus (Eisenhorn #2)",
+   "Necropolis (Gaunt's Ghosts #3)",
+   "Ravenor (Ravenor #1)",
+   "Space Wolf (Space Wolf #1)",
+   "Storm of Iron",
+   "The Devastation of Baal",
+   "The Emperor's Gift",
+   "Watchers of the Throne: The Emperor's Legion",
+   "Xenos (Eisenhorn #1)"
   ]
  },
  "exported": "2026-09-22"
