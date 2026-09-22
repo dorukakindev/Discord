@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/87/OrderGauntlet.png/revision/latest/scale-to-width-down/517?cb=20200709143948
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Eldiven Nizamı — Order of the Gauntlet
@@ -12,6 +14,8 @@ Faerûn'daki kötülüğü açıkça yok etmeye adanmış paladin, klerik, keşi
 Eldiven Nizamı (Order of the Gauntlet), Faerûn'daki kötülüğü yok etmeye kendini adamış, ahlaki açıdan dik duran savaşçılardan, şövalyelerden, paladinlerden ve kleriklerden oluşan bir koalisyondur. Diğer birçok fraksiyondan onları ayıran şey, birlik ve açıklıktır; ya ateşli dinî inançları ya da Realms'te adaleti uygulama konusundaki sarsılmaz kararlılıkları sayesinde birbirlerine sıkı sıkıya bağlıdırlar. Gölgelerden iş gören Arpçılar'ın ya da gizli kapaklı çalışan diğer örgütlerin aksine, Eldiven Nizamı asla saklanmaz.
 
 Nizamın felsefesi nettir: eldiveni taşıyanlar, kötülüğü ezmek ve adaleti yükseltmek için kutsal bir göreve çıkmış savaşçılardır ve bunu asla gizlice yapmazlar. Onlara göre kötülüğe açıkça karşı durulmalı ve gün ışığında yok edilmelidir; öyle ki herkes bu yıkımı görsün ve ondan cesaret alsın. Üyeler, dinî bir coşkuyla ve herkes için adalet ilkesine duydukları bağlılıkla hareket ederler. İnançlarına göre, tüm akıl sahibi varlıklar er ya da geç aklın ve iyiliğin ışığına kendi özgür iradeleriyle gelmelidir; bu yüzden zorla değil, örnek olarak yol gösterirler.
+
+![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/8/87/OrderGauntlet.png/revision/latest/scale-to-width-down/517?cb=20200709143948)
 
 Nizamın saflarının çoğunluğunu klerikler, paladinler ve keşişler oluşturur, ancak doğru ve adil bir zihne sahip her karakter örgüte kabul edilir. Eldiven Nizamı'nin katı bir rütbe sistemi vardır; en alttan en üste doğru bu rütbeler Chevall, Marcheon, Whitehawk, Vindicator ve Righteous Hand (Adil El) olarak sıralanır. Bu yapı, örgüte hem dinî bir disiplin hem de askeri bir düzen kazandırır.
 

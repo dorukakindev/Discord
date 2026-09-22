@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d7/StrikeandFade00.jpg/revision/latest?cb=20131014050122
+
 **Veritas Ferrum**
 Iron Hands Lejyonu'nun bir strike cruiser'ı; Isstvan V'deki İniş Sahası Katliamı'nın yörünge savaşında yer alan ve hayatta kalanları kurtarmak için ağır bedel ödeyen gemi.
 

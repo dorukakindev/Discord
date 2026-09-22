@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/df/VolkiteBlaster.jpg/revision/latest?cb=20170827040157
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Volkite Caliver
 

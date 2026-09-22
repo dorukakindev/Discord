@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9e/The_Despoiler_Gothic_War.jpg/revision/latest/scale-to-width-down/453?cb=20120907172527
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Gotik Savaş — The Gothic War
@@ -26,3 +28,5 @@ Derinlemesine bakıldığında, Gotik Savaş Abaddon için bir başarıydı; Bla
 - Lord Admiral Ravensburg
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9e/The_Despoiler_Gothic_War.jpg/revision/latest/scale-to-width-down/453?cb=20120907172527)

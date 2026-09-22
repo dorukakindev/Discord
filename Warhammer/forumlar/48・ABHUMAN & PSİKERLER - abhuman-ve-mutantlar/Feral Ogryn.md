@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/81/Ogrynp1.jpg/revision/latest?cb=20150530191038
+
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Feral Ogryn
 *Vahşi Dev, Uygarlıktan Uzak Kalmış Ogryn*

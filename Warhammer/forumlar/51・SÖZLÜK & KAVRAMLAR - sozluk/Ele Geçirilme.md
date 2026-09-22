@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/58/Binded_Daemon.jpg/revision/latest?cb=20201201224821
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Ele Geçirilme
 *Daemonic Possession*

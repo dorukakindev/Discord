@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/11/SiegeofTerraLogo.jpg/revision/latest?cb=20191024075857
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Terra Kuşatması
 *The Siege of Terra*

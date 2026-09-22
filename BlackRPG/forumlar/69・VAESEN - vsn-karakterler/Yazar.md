@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/monster/images/5/5b/Mask.webp/revision/latest?cb=20220224055404
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Yazar — The Writer
@@ -12,6 +14,8 @@
 Yazar (The Writer), Vaesen evreninde kelimelerle yaşayan, dünyayı bir gözlemci gözüyle süzen sanatçı arketiptir. Romancı, oyun yazarı, şair ya da gazeteci kalem olabilir; ortak yanları, insan ruhunu ve dünyanın gizli köşelerini hikâyeye dökme tutkusudur. Yazar, mesleği gereği tuhaf yerlere gitmeye, sıra dışı insanlarla konuşmaya ve gerçeğin ardındakini aramaya alışkındır. Bir efsanenin, bir cinayetin ya da bir kasabanın karanlık geçmişinin peşine düştüğünde, çoğu zaman kurgu sandığı şeyin aslında gerçek olduğunu fark eder.
 
 Yazar'ın gücü, Empathy (Empati) niteliğinde ve Inspiration (İlham) becerisinde yatar. İnsan ruhunu derinden okur; bir karakterin acısını, bir tanığın sakladığı korkuyu sezer. Observation (Gözlem) ile başkalarının kaçırdığı ayrıntıyı yakalar, Learning (Öğrenim) ile bir konunun derinine iner. Yazar'ı asıl benzersiz kılan ise Automatic Writing (Otomatik Yazı) yeteneğidir: bilinçli aklını devreden çıkarıp elini sezgiye bıraktığında, kendi bile bilmediği bir bilgiyi kâğıda dökebilir, gizli bir ipucunu ortaya çıkarabilir. Cemiyet için Yazar, gerçeği sezgiyle ve insanı anlayarak çözen kişidir.
+
+![gorsel](https://static.wikia.nocookie.net/monster/images/5/5b/Mask.webp/revision/latest?cb=20220224055404)
 
 Ama sezginin de bir karanlık yüzü vardır. Yazar için Görü (the Sight), çoğu zaman hayal gücüyle gerçeğin sınırının silindiği bir olaydan doğar: yazdığı bir hikâyenin gerçek çıkması, bir kâbusun bedene bürünmesi ya da tanık olduğu bir dehşetin kelimelere sığmaması. Gördüklerini yazıya dökmek isterken, o yazı onu zehirler; satırları giderek karanlık bir kehanete dönüşür. Anlam ile anlamsızlığın, kurgu ile gerçeğin sınırında durmak, Yazar'ın en derin çelişkisidir.
 

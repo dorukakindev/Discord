@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Imperial_Guard_Sentinel_multi-laser.jpg/revision/latest?cb=20120104010824
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Multi-Laser
 

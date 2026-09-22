@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5e/DeathCultAssassin.jpg/revision/latest/scale-to-width-down/630?cb=20180507211930
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Death Cults
 *Ölüm Kültleri, Suikast Tapınakları*

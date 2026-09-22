@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/mythology/images/5/5e/M%C4%81ra.jpg/revision/latest?cb=20250228142418
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Mara — Mara
@@ -18,6 +20,8 @@ Mara yalnızca insanlara yönelmez. Ahırdaki atlar Mara'nın hedefi olabilir; s
 Koruma yöntemleri ev folklorunun ayrılmaz parçasıydı: kapı eşiğine ya da yatağın altına çelik bir bıçak, makas ya da çivi bırakmak; kapı kilitlerini ters çevirmek; eşiğe tuz dökmek. Mara kilidi çevrilmiş kapıdan giremez; çeliği görmezden geçemez. Bazı anlatılarda Mara'nın kim olduğu bilinir; günleyin komşunun yüzünü gördüğünde tanırsın ama kanıtlayamazsın.
 
 ## Ayırt Edici Özellikler
+
+![gorsel](https://static.wikia.nocookie.net/mythology/images/5/5e/M%C4%81ra.jpg/revision/latest?cb=20250228142418)
 
 - Uyku sırasında görünmez biçimde göğse oturur
 - Kurban hareket edemez, bağırmaya çalışır ama sesi çıkmaz

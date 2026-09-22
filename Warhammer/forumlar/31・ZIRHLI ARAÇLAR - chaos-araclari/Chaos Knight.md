@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/49/ChaosKnightsIcon.jpg/revision/latest/scale-to-width-down/878?cb=20220816184542
+
 -# THE IMPERIAL ARCHIVE · Chaos Araclari · Kayıt
 # Chaos Knight
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/Solar_Macharius-Angel_of_Fire.jpg/revision/latest?cb=20111020044233
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Aspira
 *Aziz Aspira*
@@ -7,3 +9,5 @@ Order of the Bloody Rose'un on sekizinci Canoness'i; yalnızca bin savaşçıyla
 Saint Aspira, Adepta Sororitas'ın Order of the Bloody Rose düzeninin on sekizinci Canoness'iydi; İmparatorluk İnancı'nın askeri tarihindeki en olağanüstü kurtuluş seferlerinden birine adını yazdırmış bir azizedir. Onun şöhreti, imkânsız sayılan bir görevi sayıca büyük bir üstünlük olmadan başarmasından gelir.\n\nAspira, sapkın (heretic) Denescura'ya karşı yürüdü; emrindeki kuvvet yalnızca bin savaşçıdan ibaretti. Bu küçük ama imanla çelikleşmiş ordu sayesinde, Denescura'nın egemenliği altındaki neredeyse yüz dünyayı kurtardı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/Solar_Macharius-Angel_of_Fire.jpg/revision/latest?cb=20111020044233)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/0/0d/The_One_Ring_on_a_map_of_Middle-earth.jpg/revision/latest/scale-to-width-down/900?cb=20200305221819
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Tek Yüzük — The One Ring
@@ -14,6 +16,8 @@ Tek Yüzük, İkinci Çağ'da Karanlık Lord Sauron tarafından Mordor'daki Hük
 Yüzüğün üzerinde, ateşe tutulduğunda kızıl harflerle beliren bir yazıt vardır. Mordor'un Kara Dili ile yazılı bu satırlar şöyle der: 'Hepsine hükmedecek Tek Yüzük, hepsini bulacak Tek Yüzük, hepsini toplayıp karanlıkta birbirine bağlayacak Tek Yüzük.' Bu yazıt, Tolkien'in kurguladığı Kara Dil'in bilinen tek tam örneğidir ve normalde görünmezdir; yalnızca alev karşısında ortaya çıkar. Yazıtın anlamı, yüzüğün asıl amacını açık eder: Elflerin Üç Yüzüğü'ne, Cücelerin Yedi'sine ve İnsanların Dokuz'una egemen olmak.
 
 Yüzük, taşıyıcısına görünmezlik verir, ancak aynı zamanda onu Hayalet Dünya'ya yaklaştırır ve Sauron'un bakışına açık hâle getirir. Uzun süre taşıyanları yavaş yavaş yozlaştırır; yaşamlarını gererek ince, sürüklenen ve dayanılmaz bir hâle getirir. Gollum, beş yüz yılı aşkın süre yüzüğü taşıdıktan sonra bedenen ve ruhen çöküşün en açık örneğidir. Yüzük sahibine güç vaat eder, ama o gücü kullanmaya kalkan herkesi sonunda kendi kölesine çevirir.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/0/0d/The_One_Ring_on_a_map_of_Middle-earth.jpg/revision/latest/scale-to-width-down/900?cb=20200305221819)
 
 Tek Yüzük sıradan ateşle ya da çekiçle yok edilemez. Onu eritebilecek tek güç, dövüldüğü yer olan Hüküm Dağı'nın lavlarıdır. İşte bu yüzden Yüzük Kardeşliği'nin görevi, yüzüğü Mordor'un kalbine, doğduğu ateşe geri götürüp yok etmektir. Yüzük yok edildiğinde Sauron'un içine döktüğü güç de dağılır ve Karanlık Lord bir daha asla toparlanamayacak biçimde çöker.
 

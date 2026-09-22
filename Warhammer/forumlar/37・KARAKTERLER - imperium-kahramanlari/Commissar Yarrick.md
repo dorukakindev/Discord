@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/70/Return_to_Armageddon-_Warhammer_40%2C000_Animation/revision/latest?cb=20260317144703
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Commissar Yarrick
 

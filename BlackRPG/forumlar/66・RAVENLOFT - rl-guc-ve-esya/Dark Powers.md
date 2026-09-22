@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/monster/images/d/df/Dark_Samus.jpg/revision/latest?cb=20170616212142
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Dark Powers — Kara Güçler, İsimsiz Karanlık İrade
@@ -12,6 +14,8 @@ Korku Diyarları'nın ardındaki bilinmeyen, gizemli mistik güç; bölgeleri ve
 Kara Güçler (Dark Powers), Ravenloft evreninin merkezindeki en büyük gizemdir; Korku Diyarları'nı yöneten, bölgeleri ve kötü bireyleri Sisler aracılığıyla Korku Yarı-düzlemi'ne çeken ve orada hapseden isimsiz, görünmez bir iradedir. Onların ne olduğu asla açıkça söylenmez. Bir karakter ağır bir kötülük işlediğinde, sanki görünmez bir göz ona çevrilir; ve bazen, bu göz onu ve içinde yaşadığı diyarı koparıp Sislerin içine alır. Kara Güçler, bu kopuşun ve hapsedilişin ardındaki o açıklanamayan elin adıdır.
 
 Kara Güçler'in en belirleyici özelliği, kasıtlı muğlaklığıdır. Onların bilinçli, iradesi olan tanrısal varlıklar mı, yoksa Korku Yarı-düzlemi'ni yöneten kişiliksiz, ahlaki metafizik yasalar mı olduğu hiçbir zaman netleştirilmez. Kimi anlatılarda onlar adaletsiz bir cehennem mahkemesi gibi davranır; en kötüleri yakalayıp onlara hak ettiklerini sandıkları diyarları verir. Kimi anlatılarda ise tıpkı yer çekimi gibi işleyen kör bir doğa yasası gibidirler; kötülük belli bir eşiği geçtiğinde, sanki kendiliğinden devreye girerler. Bu belirsizlik bir eksiklik değil, Ravenloft'un tasarımının temelidir; çünkü açıklanamayan bir güç, açıklanan bir güçten çok daha korkutucudur.
+
+![gorsel](https://static.wikia.nocookie.net/monster/images/d/df/Dark_Samus.jpg/revision/latest?cb=20170616212142)
 
 Kara Güçler doğrudan görünmez, konuşmaz ve kendini açık etmez. Onların varlığı yalnızca sonuçlarıyla hissedilir: bir bölgenin aniden Sislere gömülmesi, bir kötü adamın kendi diyarına Karanlık Lord olarak hapsedilmesi, bir kahramanın işlediği karanlık bir eylemin ardından içinde bir şeyin çürümeye başlaması. Onlar bazen bir kötüye, ona en çok arzuladığı şeyi vererek işkence ederler; Strahd von Zarovich gibi bir Lord'a, sevdiği kadına asla kavuşamayacağı bir sonsuzluk bahşederek. Bu yüzden Kara Güçler'in adaleti, eğer adaletse, zalim ve ironiktir; ödül ile cezayı aynı anda verir.
 

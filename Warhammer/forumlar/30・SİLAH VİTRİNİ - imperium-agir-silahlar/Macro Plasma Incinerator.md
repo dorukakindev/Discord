@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/76/HellblasterSquad.jpg/revision/latest/scale-to-width-down/900?cb=20170619231521
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Macro Plasma Incinerator
 

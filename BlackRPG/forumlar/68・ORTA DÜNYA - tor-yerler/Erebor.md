@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/3/3d/Lonely_Mountain_Robert_Zigo.png/revision/latest/scale-to-width-down/900?cb=20230627210057
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Erebor — Erebor (Lonely Mountain)
@@ -13,6 +15,8 @@ Yalnız Dağ'ın içine oyulmuş Cüce krallığı; Thrór döneminde altın zen
 Erebor, yani Yalnız Dağ, Wilderland'in doğusunda tek başına yükselen büyük bir dağın içine oyulmuş Cüce krallığıdır. 'Dağ Altı Krallığı' (Kingdom under the Mountain) olarak da bilinir. Ü.Ç. 1999'da Thráin I'in dağa gelip efsanevi mücevher Arkenstone'u keşfetmesiyle kuruldu. Erebor, kısa sürede bir ticaret ve zanaat merkezi haline geldi; yakınındaki İnsan şehri Dale ile sıkı bağlar kurarak ortak bir refah dönemi yaşadı.
 
 Krallık, görkeminin doruğuna Kral Thrór döneminde ulaştı. Erebor Cüceleri, Wilderland'in en iyi demircileri ve taş ustaları oldu; Demir Tepeler'deki akrabalarıyla ve başkalarıyla ticaret arttı ve dağın altındaki hazine salonları altın, mücevher ve eşsiz eserlerle doldu. Ne var ki bu muazzam zenginlik, ölümcül bir tehlikeyi de çekti.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/3/3d/Lonely_Mountain_Robert_Zigo.png/revision/latest/scale-to-width-down/900?cb=20230627210057)
 
 Ü.Ç. 2770'te, kanatlı ateş ejderhası Smaug, bir alev topu halinde dağa indi. Cüceleri ya öldürdü ya da sürgüne sürdü ve hazinenin üstüne çöküp Yalnız Dağ'ı kendine yurt edindi; komşu Dale şehri de yakılıp yıkıldı. Erebor uzun yıllar bir ejderhanın inine dönüştü. Krallık, Thorin II Meşekalkan ve on iki Cüce yoldaşının çıktığı Erebor Seferi (Quest of Erebor) ile geri alındı; bu maceraya, Gandalf'ın tavsiyesiyle, hırsız sıfatıyla Hobbit Bilbo Baggins de katıldı. Yolculuk Mirkwood'un tehlikelerinden ve Thranduil'in zindanlarından geçti; sonunda Bilbo dağa girip Smaug ile konuştu ve ejderhanın zırhındaki açığı fark etti. Öfkelenen Smaug, Esgaroth (Göl-şehri) üstüne saldırdığında, şehir muhafızı okçu Bard, bu zayıf noktaya Kara Ok'unu saplayarak ejderhayı öldürdü.
 

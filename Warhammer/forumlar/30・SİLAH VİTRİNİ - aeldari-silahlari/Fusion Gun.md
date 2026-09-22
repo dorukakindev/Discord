@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6d/Fusion_Pistol.png/revision/latest?cb=20150301231430
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Fusion Gun
 

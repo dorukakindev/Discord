@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1b/Angron_Primarch2.jpg/revision/latest?cb=20120629041033
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Gorechild
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4d/Pule_bomb_generator.jpg/revision/latest?cb=20130416061453
+
 -# THE IMPERIAL ARCHIVE · Tau Araclari · Kayıt
 # Sun Shark Bomber
 

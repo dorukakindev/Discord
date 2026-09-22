@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/ravenloft/images/f/f7/Van_richten.jpg/revision/latest?cb=20161120171450
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Dr. Rudolph van Richten — Ravenloft'un En Büyük Canavar Avcısı
@@ -13,6 +15,8 @@ Ailesini canavarlara kaybettikten sonra hayatını korkunç varlıkları avlamay
 Dr. Rudolph van Richten, Ravenloft'un, yani Dehşet Yarı-Düzlemi'nin (Demiplane of Dread) en ünlü ve en saygın canavar avcısıdır; korkunç varlıkların doğasını inceleyen bilgin bir avcı ve sayısız avcıya yol gösteren rehberlerin yazarı. Onun hikâyesi, bir kahramanlık öyküsü kadar bir trajedi öyküsüdür de; çünkü Van Richten'in bu yola girmesinin nedeni, bir tutku değil, dayanılmaz bir kayıptır. O, başlangıçta sıradan, huzurlu bir hayat süren bir adamken, ailesinin başına gelen korkunç bir felaket, onu sonsuza dek değiştirir.
 
 Van Richten'in oğlu, bir grup Vistani tarafından kaçırılıp bir vampire satıldığında, hayatı paramparça olur. Oğlunu kurtarmaya çalışırken onun bir yaşayan ölüye dönüştüğünü görür ve kendi eliyle ona huzur vermek zorunda kalır; bu acıyla kahrolan karısı da kısa süre sonra ölür. Her şeyini yitiren Van Richten, geriye kalan ömrünü tek bir amaca adar: bir daha hiçbir ailenin aynı dehşeti yaşamaması için canavarları avlamak ve onların sırlarını öğrenmek. Bu kişisel yas, başlangıçta onun içinde Vistani'ye karşı derin ve acı bir düşmanlık da yakar; çünkü oğlunun başına gelenden onları sorumlu tutar.
+
+![gorsel](https://static.wikia.nocookie.net/ravenloft/images/f/f7/Van_richten.jpg/revision/latest?cb=20161120171450)
 
 Van Richten, sıradan bir avcı değildir; o, her şeyden önce bir bilgindir. Canavarları yalnızca öldürmekle yetinmez, onları inceler, alışkanlıklarını, zayıflıklarını ve doğalarını titizlikle kaydeder. Vampirler, kurt adamlar, hayaletler, liçler, mumyalar ve daha nice dehşet üzerine yazdığı ayrıntılı rehberler, başka avcılar için paha biçilmez birer kılavuz hâline gelir; onun adıyla anılan bu eserler, Ravenloft'ta canavarlara karşı verilen mücadelenin temel taşı olur. O, bilginin kaba kuvvetten daha ölümcül bir silah olduğunu kanıtlar.
 

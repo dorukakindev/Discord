@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8b/99800103023_MadDokGrotsnik02.png/revision/latest/scale-to-width-down/872?cb=20200509044503
+
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Mad Dok Grotsnik
 *Çılgın Dok*

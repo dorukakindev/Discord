@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/42/Imotekh.png/revision/latest?cb=20130427081851
+
 -# THE IMPERIAL ARCHIVE · Xenos Emanetler · Kayıt
 # The Staff of the Destroyer
 *Yok Edicinin Asası*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/23/GoldenThroneSiegeofTerra.jpg/revision/latest/scale-to-width-down/900?cb=20230302134551
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Altın Taht
 *The Golden Throne*

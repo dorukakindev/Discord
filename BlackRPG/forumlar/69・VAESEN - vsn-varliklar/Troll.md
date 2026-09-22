@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/dungeonsdragons/images/f/f3/Troll.png/revision/latest?cb=20110510130809
+
 - Güneş ışığına maruz kalırsa taşa dönüşür ya da patlar
 - Çelikten ve kilise çanı sesinden korkar
 - Dağ mağaraları ve ıssız ormanlarda yaşar
@@ -5,6 +7,8 @@
 - Zeka düzeyi değişkendir: kimileri kaba ve yavaş, kimileri kurnaz
 
 -# Kaynaklar: Vaesen core book (Free League)
+
+![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/f/f3/Troll.png/revision/latest?cb=20110510130809)
 
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 

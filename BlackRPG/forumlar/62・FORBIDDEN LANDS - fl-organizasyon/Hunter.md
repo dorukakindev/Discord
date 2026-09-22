@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/cryptidz/images/0/0b/Beast_hunter.jpg/revision/latest?cb=20130421075033
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Hunter — Avcı
@@ -14,6 +16,8 @@ Hunter (Avcı), Forbidden Lands'in sekiz temel Meslek'inden biridir ve medeniyet
 Bir Avcı'nın becerileri, yaban hayatına göre biçimlenmiştir. İz sürmede ustadır; kırılmış bir dal, ezilmiş bir ot ya da uzaktaki bir ses, ona bir av ya da bir tehdit hakkında bütün bir hikâye anlatabilir. Yay ve menzilli silahlarda ustadır; düşmanını görmeden onun farkına varır ve görülmeden vurabilir. Tuzaklar kurar, gizlenir, sessizce hareket eder ve avını sabırla bekler. Onun keskin duyuları, çoğu zaman bir grubun en erken uyarı sistemidir.
 
 Ravenland'ın açılan dünyasında Avcı olmak, hem yabanın özgürlüğünü hem de yalnızlığını tanımaktır. Açılan topraklar eşsiz güzellikte ama acımasızca tehlikelidir; canavarlar, haydutlar ve aç sürüler ormanın derinliklerinde pusu kurar. Bir Avcı bu tehlikeleri en iyi bilen olsa da, onlardan tam anlamıyla muaf değildir; yabanda bir tek hata, gözden kaçan bir iz ya da fırtınalı bir gece, deneyimli bir Avcı'yı bile yok edebilir.
+
+![gorsel](https://static.wikia.nocookie.net/cryptidz/images/0/0b/Beast_hunter.jpg/revision/latest?cb=20130421075033)
 
 Avcı oynamak, yalnızlığı, dayanıklılığı ve doğanın acımasız adaletini kucaklamaktır. Bir Avcı, grubun gözü, kulağı ve rehberidir; yabanda kaybolmalarını önler, pusuları sezer ve düşmanı daha o farkına bile varmadan kalemine alır. Ama Forbidden Lands bu uzmanlığı da sınar; yabanda hata affedilmez ve açılan toprakların derinlikleri en deneyimli Avcı'yı bile yutabilir. Onun hikâyesi, insanın doğa karşısında ne kadar küçük, ama doğru becerilerle ne kadar dirençli olabileceğini anlatır.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/82/Deceiver.jpg/revision/latest/scale-to-width-down/657?cb=20200813103511
+
 -# THE IMPERIAL ARCHIVE · Necron Karakterleri · Kayıt
 # The Deceiver
 

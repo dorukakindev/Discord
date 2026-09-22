@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/18/Gork_%26_Mork.png/revision/latest/scale-to-width-down/900?cb=20140716063515
+
 -# THE IMPERIAL ARCHIVE · Diger Tanri Varliklari · Kayıt
 # Gork
 *Kaba Olan (ama Kurnaz)*

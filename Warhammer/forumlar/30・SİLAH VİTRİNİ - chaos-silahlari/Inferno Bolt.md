@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7c/RubricDust.png/revision/latest/scale-to-width-down/626?cb=20180214015840
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Inferno Bolt
 

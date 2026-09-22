@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/99/Blacklibrary.jpg/revision/latest?cb=20120331030721
+
 -# THE IMPERIAL ARCHIVE · Xenos Dunyalari · Kayıt
 # The Black Library
 *Kara Kütüphane*

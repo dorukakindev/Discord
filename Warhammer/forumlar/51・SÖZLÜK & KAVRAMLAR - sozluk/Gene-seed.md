@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/98/Space_Marine_Implants_chart.jpg/revision/latest?cb=20120707032617
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Gene-seed
 *Gen-tohumu*

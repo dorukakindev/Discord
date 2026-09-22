@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/ff/Maelstrom_-_Ultima_Segmentum.jpg/revision/latest?cb=20120317214651
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # The Maelstrom — Maelstrom (Girdap)
@@ -21,3 +23,5 @@ Maelstrom ve çevresi, Kaos korsanları, isyancı kültler, renegade Space Marin
 Maelstrom, Halkaların Gözü kadar ünlü olmasa da, en az onun kadar tehlikeli ve kalıcı bir Kaos cebidir; galaksinin "öteki" karanlık bölgesi, İmparatorluğun asla tam temizleyemediği bir yaradır. O, Kaos'un yalnızca Göz'le sınırlı olmadığını, galaksinin her yerinde, gerçekliğin inceldiği her noktada pusuda beklediğini hatırlatan ikinci bir cehennem kapısıdır; korsanların, kâfirlerin ve iblislerin kaynadığı bir girdap.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/ff/Maelstrom_-_Ultima_Segmentum.jpg/revision/latest?cb=20120317214651)

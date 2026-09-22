@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/pathfinder/images/c/cd/Seltyiel.jpg/revision/latest/scale-to-width-down/656?cb=20080602015949
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Half-Elf — Yarı-Elf, İki Dünya Arasında Kalanlar
@@ -12,6 +14,8 @@
 Yarı-Elfler (Half-Elf), Forbidden Lands'in en trajik ve en yersiz Kin'idir; insan ile elf soyunun birleşmesinden doğan melez bir varlıktır. Bir yarı-elf, iki büyük dünyanın sınırında durur, ama hiçbirinin tam içinde değildir. İnsanların hırsından, çabukluğundan ve sıcaklığından bir parça taşır; elflerin uzun ömrünün, mesafeli zarafetinin ve kadim duyarlılığının bir izini de bedeninde ve ruhunda barındırır. Ama bu iki mirasın birleşimi, ona bir bütünlük değil, çoğu zaman bir bölünmüşlük duygusu verir.
 
 Yarı-elfin trajedisi, ait olamamaktır. İnsanlar arasında, onun uzun ömrü, mesafeli tavrı ve elf hatları onu yabancı kılar; bir insan topluluğu, bir yarı-elfi asla tümüyle kendinden saymaz. Elfler arasında ise, onun insan kanı, ölümlülüğe yakınlığı ve telaşlı doğası bir kusur, bir saflık eksikliği olarak görülür; göğsünde elflerin yakudunu taşımayan bir yarı-elf, kadim soyun gözünde hiçbir zaman gerçek bir elf olamaz. Böylece yarı-elf, her iki dünyanın da eşiğinde, ama hiçbirinin ocağında oturamadan yaşar.
+
+![gorsel](https://static.wikia.nocookie.net/pathfinder/images/c/cd/Seltyiel.jpg/revision/latest/scale-to-width-down/656?cb=20080602015949)
 
 Bu yersizlik, yarı-elfe bir zayıflık kadar bir güç de verebilir. İki dünyayı da içeriden tanıdığı için, çoğu zaman onların arasında bir köprü, bir aracı ya da bir tercüman olabilir; ne insanların ne elflerin tek başına başaramayacağı bir anlayışa sahip olabilir. İnsanların hırsını ve sıcaklığını anlar, ama bir adım geriden, elflerin mesafeli bakışıyla görebilir; elflerin kadim bilgeliğine yaklaşabilir, ama insan kanının verdiği bir sıcaklık ve aciliyetle. Bu çift görüş, doğru kullanıldığında, onu iki saf soyun da gözünden kaçanı fark eden bir yoldaş yapar.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/11/Saint_Sabbat.jpg/revision/latest/scale-to-width-down/636?cb=20110825065524
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Cult of Saint Sabbat
 *Aziz Sabbat İnancı, Beati Tapımı*

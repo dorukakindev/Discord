@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Overlord_Anrakyr_.jpeg/revision/latest/scale-to-width-down/643?cb=20200412101935
+
 -# THE IMPERIAL ARCHIVE · Necron Karakterleri · Kayıt
 # Anrakyr the Traveller
 

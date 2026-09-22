@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Nemesis_Daemon_Hammer.png/revision/latest?cb=20140110192138
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Nemesis Force Halberd
 

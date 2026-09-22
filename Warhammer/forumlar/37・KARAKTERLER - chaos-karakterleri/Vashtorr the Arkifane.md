@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f7/VashtorrArkifane.jpg/revision/latest/scale-to-width-down/900?cb=20230306183935
+
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Vashtorr the Arkifane
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8f/AutoBolter.jpg/revision/latest?cb=20170620190930
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Astartes Bolt Rifle
 

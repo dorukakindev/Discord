@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0c/ThunderhawkTransporter03.png/revision/latest/scale-to-width-down/900?cb=20120902024932
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Thunderhawk Gunship
 

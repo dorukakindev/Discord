@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/65/Szarekh2.jpg/revision/latest/scale-to-width-down/900?cb=20250131185606
+
 -# THE IMPERIAL ARCHIVE · Necron Karakterleri · Kayıt
 # Szarekh (Silent King)
 

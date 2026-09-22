@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/4/47/Gandalf_by_Damiani.png/revision/latest/scale-to-width-down/594?cb=20230617183640
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Gandalf (Olórin) — Olórin (Mithrandir, Gandalf)
@@ -14,6 +16,8 @@ Gandalf, Valinor'da Olórin adıyla bilinen ve Maiar'ın en bilgesi sayılan ruh
 Üçüncü Çağ'da Valar, Sauron'a karşı Hür Halklar'ı birleştirmek üzere İstari'yi, yani Büyücüler'i, Maia kökenli beş elçiyi insan suretinde Orta Dünya'ya gönderir. Olórin bu göreve istekli değildi, kendini fazla zayıf ve Sauron'dan korkar buldu; fakat Manwë onu yine de yolladı. Orta Dünya'da Gri Gandalf, Elfler arasında Mithrandir, 'Gri Gezgin' olarak tanınır. Görevine en sadık kalan İstar odur; Saruman güce, Radagast doğaya kapılırken Gandalf hep asıl amacına bağlı kalır.
 
 Gücünün özü, taşıdığı Anor'un Alevi'dir, kutsal bir ateş; ayrıca Elf demircisi Celebrimbor'un yaptığı üç Elf Yüzüğü'nden biri olan, ateş yüzüğü Narya'yı taşır ve onunla yüreklere cesaret aşılar. İstari'nin gücü, insan suretinde kısıtlanmıştır: açıkça büyücülük yapmaktan çok, halkları öğütle ve umutla yönlendirmeleri beklenir; Gandalf bu sınıra en sadık kalan, görevini hiç unutmayan elçidir.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/4/47/Gandalf_by_Damiani.png/revision/latest/scale-to-width-down/594?cb=20230617183640)
 
 Moria'da, Khazad-dûm Köprüsü'nde Durin'in Belası olan Balrog'a karşı durup Kardeşlik'i kurtarır ve 'Geçemezsin' diyerek onunla birlikte uçuruma düşer. Dağın derinliklerinden zirvesine dek günlerce süren dövüşte Balrog'u yener, fakat bu çatışma kendi ölümüne mal olur. Eru, onu tamamlanmamış görevini bitirmesi için 'geri gönderir' ve Olórin, artık Ak Gandalf olarak, düşmüş ve ihanet etmiş Saruman'ın yerini alarak döner; rengi ve yetkisi yükselmiştir. Pelennor Tarlaları Savaşı'nda Minas Tirith'in savunmasını örgütleyen, Theoden'i Saruman'ın etkisinden kurtaran ve Hür Halklar'ı son ana dek bir arada tutan odur. Bilgeliğin, umudun ve sarsılmaz görev bağlılığının simgesidir; İstari'nin en büyüğüdür.
 

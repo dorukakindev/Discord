@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Vraks.jpg/revision/latest?cb=20130226034047
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Vraks Kuşatması
 *The Siege of Vraks*

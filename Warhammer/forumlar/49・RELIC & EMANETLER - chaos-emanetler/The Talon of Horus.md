@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Talon_of_Horus.png/revision/latest/scale-to-width-down/718?cb=20130821095438
+
 -# THE IMPERIAL ARCHIVE · Chaos Emanetler · Kayıt
 # The Talon of Horus
 *Horus'un Pençesi*

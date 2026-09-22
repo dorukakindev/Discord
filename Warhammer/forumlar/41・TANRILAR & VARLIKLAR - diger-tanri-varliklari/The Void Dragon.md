@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/93/VoidDragonShard.jpg/revision/latest/scale-to-width-down/600?cb=20211025210202
+
 -# THE IMPERIAL ARCHIVE · Diger Tanri Varliklari · Kayıt
 # The Void Dragon
 *Mag'ladroth / Boşluk Ejderi*

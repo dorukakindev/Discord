@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/80/NeverwinterHarbor.jpg/revision/latest/scale-to-width-down/900?cb=20200825214415
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Asla Kış — Neverwinter
@@ -15,6 +17,8 @@ Asla Kış (Neverwinter), Becerikli Eller Şehri ve Kuzey'in Mücevheri olarak b
 Neverwinter'ın asıl şöhreti, becerikli zanaatkârlarından gelir. Şehrin ustaları, verimlilik, tasarım ve güzellikte birbirleriyle yarışır; ürettikleri eserler kentin kendisi kadar zariftir. Bu yüzden ona Becerikli Eller Şehri denir. Burada üretilen su saatleri ve çok renkli lambalar, Derinsu'nun büyük tüccarları aracılığıyla tüm Diyarlara yayılır ve her yerde aranan değerli mallar hâline gelir. Çoğunlukla insanlardan ve yarı-elflerden oluşan yirmi bini aşkın nüfusuyla, dostane ve uygar bir kent olarak ün yapmıştır.
 
 Neverwinter, tarihinde büyük felaketler de yaşamıştır; yakındaki Mount Hotenow yanardağının patlaması ve onu izleyen yıkımlar, şehri zaman zaman küle çevirmiştir. Bu patlama, şehrin büyük bölümünü harap etmiş, nüfusunu kırmış ve onu yıllarca bir harabe ile yeniden doğuş arasında bırakmıştır. Ama halkı, her seferinde aynı beceri ve azimle kenti yeniden inşa etmeyi başarmıştır; bu da onu Kuzey'in en dirençli yerleşimlerinden biri yapar.
+
+![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/8/80/NeverwinterHarbor.jpg/revision/latest/scale-to-width-down/900?cb=20200825214415)
 
 Şehrin içinden geçen Neverwinter Nehri, sadece bir ısı ve güzellik kaynağı değil, aynı zamanda yaşamın ve ticaretin damarıdır; üzerindeki zarif köprüler, şehrin kesimlerini birbirine bağlar. Neverwinter, çevresindeki tehlikeli vahşi doğaya, kuzeyin canavarlarına ve hırslı düşmanlara karşı sürekli tetikte olmak zorundadır; yine de zanaatının ve kültürünün gücüyle bir uygarlık feneri olmayı sürdürür. Bu dayanıklılık, Neverwinter'ın kimliğinin bir parçasıdır: zarafetin, ustalığın ve yeniden doğuşun şehri. Kuzey'in Mücevheri, soğuk ve tehlikeli bir sınır diyarının ortasında parlayan bir uygarlık ışığı olarak ayakta durur.
 

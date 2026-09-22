@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/74/Stormraven_5th_ed.jpg/revision/latest?cb=20130201102021
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Stormraven Gunship
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/1/19/GlyphWyrm.png/revision/latest?cb=20180717161723
+
 -# THE BLACK RPG ARCHIVE · WEREWOLF: THE APOCALYPSE · Kayıt
 
 # The Wyrm — Yıkıcı, Dengenin Bozulmuş Koruyucusu
@@ -12,6 +14,8 @@
 Yıkıcı (the Wyrm), Werewolf evreninde Üçlü'nün eskiden dengeyi koruyan gücüydü; ama artık evrenin en büyük dehşeti olarak anılan bozulmuş kozmik kuvvettir. Başlangıçta Wyrm, kötücül bir güç değildi; tam tersine, Üçlü'nün dengesini ayakta tutan can alıcı parçaydı. Weaver'ın düzeni ile Wyld'ın kaosu arasında durur, ne birinin ne ötekinin gerçekliğe tek başına egemen olmasına izin verirdi. Onun rolü çürütmek ve yıkmaktı; ama bu yıkım kötülük değil, dengenin ve yenilenmenin hizmetindeki kutsal bir görevdi.
 
 Wyrm'in asıl işlevi, Üçlü döngüsünü tamamlamaktı. Wyld ham yaratımı akıtır, Weaver ona biçim verirdi; ve Wyrm de eskiyeni, fazlalığı ve çürümüşü ayıklayıp yıkarak yeni yaratıma yer açardı. Çamur kulübe örneğinde olduğu gibi, Wyrm kulübeyi sonunda çürütür, yıkar ve onu yeniden Wyld'ın dolduracağı bir boşluğa çevirirdi. Yani Wyrm, ölümün ve çürümenin kozmik bekçisiydi; varoluşun durmadan yenilenebilmesi için gerekli olan o yıkıcı ama kutsal güçtü. Onsuz, evren Weaver'ın aşırı düzeninde donar, yaşam ve değişim sona ererdi.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/1/19/GlyphWyrm.png/revision/latest?cb=20180717161723)
 
 Werewolf evreninin temel trajedisi, Wyrm'in bu kutsal rolünden kopuşudur. Weaver, durmadan örme dürtüsüyle kontrolden çıktığında, dengeyi tutması gereken Wyrm'i kendi Desen Ağı'na doladı ve onu içine hapsetti. Tutsak kalan Wyrm, görevini yerine getiremez oldu; sıkışıp kaldı, acı çekti ve sonunda delirdi. Bu çıldırışla birlikte, dengenin koruyucusu olan güç çürüyüp kötücül bir varlığa dönüştü. Artık dengeli bir yıkım değil, amaçsız, hastalıklı ve dizginsiz bir çürüme saçan bir dehşet hâline geldi. Bozulmuş Wyrm, koruması gereken dengeyi yok eden bir yıkım kaynağına döndü.
 

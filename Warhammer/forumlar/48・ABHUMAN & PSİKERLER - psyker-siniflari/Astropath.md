@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3d/Imperial_Astropath2.jpg/revision/latest?cb=20130107170352
+
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Astropath
 *Astropat, İmparatorluğu Telepatiyle Bağlayan Kör Haberci*

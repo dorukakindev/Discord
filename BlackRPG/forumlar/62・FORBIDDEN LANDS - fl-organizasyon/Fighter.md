@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/dungeonsdragons/images/f/ff/TduQ8.jpg/revision/latest?cb=20140220061855
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Fighter — Savaşçı
@@ -14,6 +16,8 @@ Fighter (Savaşçı), Forbidden Lands'in sekiz temel Meslek'inden biridir ve çe
 Bir Savaşçı'nın gücü, silah ustalığında ve savaş disiplinindedir. Kılıç, balta, mızrak ya da yay; eline aldığı her silahı bir uzantısı gibi kullanır. Zırhın ağırlığına alışkındır, kalkanın ardında durmayı bilir ve bir çatışmanın kaosunda soğukkanlılığını korur. Yıllarca süren eğitim ya da hayatta kalmak uğruna verilmiş sayısız dövüş, ona refleksleri ve cesareti kazandırmıştır; o, korkuyu tanır ama ona teslim olmaz.
 
 Ravenland'ın açılan dünyasında Savaşçı olmak, hem güç hem de sürekli bir tehlike demektir. Bu dünyada hiçbir zırh tam koruma sağlamaz; bir tek kötü darbe, en deneyimli dövüşçünün bile sonu olabilir. Yaban acımasızdır, düşmanlar çoktur ve ölüm her zaman bir kılıç darbesi kadar yakındadır. Bir Savaşçı, becerisine güvenir, ama bu dünyada hiçbir beceri onu ölümsüz kılmaz; her çatışma, kendi ölümlülüğüyle yeniden yüzleşmektir.
+
+![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/f/ff/TduQ8.jpg/revision/latest?cb=20140220061855)
 
 Savaşçı oynamak, dolaysız gücü ve savaşın hem onurunu hem bedelini kucaklamaktır. Bir Savaşçı, grubun kalkanı ve mızrağıdır; en önde durur, zayıfı korur ve tehlikenin ortasında soğukkanlılığını taşır. Ama Forbidden Lands salt kahramanlık sunmaz; her dövüş bir yara, her zafer bir bedel getirir. Savaşçı'nın hikâyesi, çeliğin bu vahşi dünyada hem bir koruma hem de ağır bir yük olduğunu, ve o çeliği taşıyanın çoğu zaman onunla birlikte yaşayıp onunla birlikte öldüğünü anlatır.
 

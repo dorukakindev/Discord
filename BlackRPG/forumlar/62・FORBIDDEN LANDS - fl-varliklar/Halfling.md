@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/darksun/images/d/df/Halfling_2.png/revision/latest?cb=20191125002539
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Halfling — Buçukluk, Goblinlerin Kurnaz Akrabaları
@@ -12,6 +14,8 @@ Goblinlerle akraba olan, küçük boylu, kurnaz Kin. Diğer dünyaların rahatı
 Buçukluklar (Halfling), Forbidden Lands'in küçük ama hiç de zararsız olmayan Kin'lerinden biridir; ilginç biçimde, goblinlerle akrabadırlar ve bu akrabalık, onların doğasını ve dünyadaki yerini derinden şekillendirir. Boyları diğer Kinlerin çoğunun belinden yukarı çıkmaz; ama bu küçüklüğü bir zayıflık sanmak, Ravenland'ın çetin dünyasında ölümcül bir hata olur. Bir buçukluk, ham güçle başaramadığını zekâsı, kurnazlığı ve hızıyla başarır; küçük bedeni, onu çoğu tehlikeden kaçabilecek kadar çevik ve gözden kaybolabilecek kadar sinsi yapar.
 
 Diğer dünyaların yemeğe, sıcak ocağa ve rahata düşkün buçukluklarından farklı olarak, Ravenland'ın halfling'leri çok daha pratik ve sert bir soydur. Çevrelerindeki dünya onları yumuşak kalmaya değil, akıllı olmaya zorlamıştır. Bir buçukluk, bir durumu hızla okur, fırsatları ve tehlikeleri başkalarından önce görür ve kendi çıkarını korumak için kurnazca davranır. Bu zekâ ve pratiklik, onları iyi tüccarlar, becerikli hırsızlar ve hayatta kalmanın ustası gezginler yapar; bir buçukluk, çoğu zaman bir kavgaya girmektense onu zekâsıyla atlatmanın bir yolunu bulur.
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/d/df/Halfling_2.png/revision/latest?cb=20191125002539)
 
 Goblinlerle paylaştıkları akrabalık, halfling'lere medeniyetin kıyısında, gölgelerde ve aralıklarda yaşama yeteneği verir. İkisi de büyük ve gürültülü dünyanın altında, fark edilmeden hareket etmeyi bilir; ikisi de küçüklüğü bir avantaja çevirir. Ama buçukluklar, goblinlerden farklı olarak, yerleşik toplumun içinde de yaşayabilir ve onun bir parçası olabilir; bu ikili doğa, onlara hem medeni hem vahşi dünyada tutunma esnekliği kazandırır. Ravenland'da bir buçukluk, küçük boyuyla küçümsenebilir; ama o küçümseme, çoğu zaman onları küçümseyenin pahalıya ödediği bir hatadır.
 

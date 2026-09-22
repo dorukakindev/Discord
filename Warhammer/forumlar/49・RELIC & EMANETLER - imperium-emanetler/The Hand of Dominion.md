@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Guilliman_Post-Heresy.png/revision/latest?cb=20170312223906
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Hand of Dominion
 *Egemenlik Eli*

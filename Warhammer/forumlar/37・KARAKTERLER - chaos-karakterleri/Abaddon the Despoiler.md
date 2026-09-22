@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Abaddon_Eternal_Crusade.jpg/revision/latest/scale-to-width-down/567?cb=20150813212509
+
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Abaddon the Despoiler
 

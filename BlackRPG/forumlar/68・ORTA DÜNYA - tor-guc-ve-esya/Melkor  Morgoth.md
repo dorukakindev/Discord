@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/e/e8/MorgothbyDymondStarr.JPG/revision/latest?cb=20250117211351
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Melkor / Morgoth — Melkor (Morgoth Bauglir)
@@ -14,6 +16,8 @@ Not: Melkor köken olarak bir Vala'dır, Maia değil; fakat düşmüş Kara Lord
 Düşüşü, dünyanın yaratılışından önce başlar. Eru'nun Ainur'a söylettiği büyük Müzik'te, Melkor kendi sesini öne çıkarmak isteyip uyuma bozucu temalar katar; böylece kötülük daha Arda var olmadan dünyanın dokusuna işler. Arda biçimlenirken Valar'ın kurduğu her şeyi bozmaya çalışır, İki Lamba'yı devirir ve sürekli bir yıkım kaynağı olur.
 
 Güçlü Maiar'ı kendi tarafına çeker: Balrog'lar onun ateş ve gölgeye bürünmüş hizmetkârları olur, Sauron ise baş yardımcısı. En menfur işi, yakaladığı Elfler'e işkence edip onları bozarak ilk Orklar'ı üretmesidir; bu, Eru'ya en çok nefret ettirdiği eylemdir, çünkü yaratamadığı için yalnızca var olanı çarpıtabilir. Zamanla gücünün büyük bölümünü kendi bedenine ve Arda'nın maddesine dağıtır; bu yüzden 'Arda'nın laneti' onun kötülüğünden bir iz taşır, ama kişisel kudreti çağlar boyunca giderek zayıflar.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/e/e8/MorgothbyDymondStarr.JPG/revision/latest?cb=20250117211351)
 
 İki Ağaç'ı dev örümcek Ungoliant'la birlikte yok ettikten ve Formenos'tan Silmaril'leri çaldıktan sonra Fëanor ona 'Kara Düşman', yani Morgoth adını verir; bu ad ona kalır. Demir taç giyip Silmaril'leri o taca yerleştirir ve kuzeydeki kalesi Angband'dan, Thangorodrim'in gölgesinden Orta Dünya'ya hükmetmeye çalışır. Birinci Çağ boyunca Elfler ve İnsanlar onunla savaşır; Fingolfin teke tek dövüşte onu yaralar ama düşer. Sonunda Eärendil'in çağrısıyla Valar harekete geçer ve Gazap Savaşı'nda Morgoth yenilir, demir tacı boynuna zincir olarak vurulup Dünya'nın Kapısı'ndan Boşluk'a, Dış Karanlık'a sürülür. Tüm sonraki kötülüğün kökü ve ilk Kara Lord'dur; Sauron dahil her karanlık güç onun gölgesinin mirasçısıdır.
 

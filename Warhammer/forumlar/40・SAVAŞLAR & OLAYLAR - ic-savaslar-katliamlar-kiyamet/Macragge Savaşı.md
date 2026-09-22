@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e6/MacraggeSystem.jpg/revision/latest?cb=20171204062825
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Macragge Savaşı — The Battle of Macragge
@@ -26,3 +28,5 @@ Tyranid Behemoth sonunda püskürtüldü (kraliçesinin yörüngede yok edilmesi
 - Hive Fleet Behemoth
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e6/MacraggeSystem.jpg/revision/latest?cb=20171204062825)

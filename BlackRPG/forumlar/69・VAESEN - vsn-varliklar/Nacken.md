@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/mythology/images/9/9d/The_Water_Spirit_by_Jonny_Andvik.jpg/revision/latest/scale-to-width-down/900?cb=20211021101312
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Nacken — Näcken
@@ -14,6 +16,8 @@ Näcken, İskandinav folklorunun en tehlikeli su ruhlarından biridir. İsveçce
 Näcken'in müziği sıradan bir çalgının sesine hiç benzemez. Notalar suya, rüzgara ve vahşi doğaya karışır; duyan herkes farkında olmadan suya doğru yürümeye başlar. Bu melodinin büyüsüne kapılan çocuklar, yolcular ve meraklılar hepsi ırmağa ya da göle adım atar ve bir daha çıkamaz. Bu yüzden İsveç'te ırmak kıyısında yabancı bir müzik duyulduğunda geriye bakmamak ve koşmak gerektiği öğretilirdi.
 
 Näcken'in büyüsünden korunmanın yolu onu isimiyle selamlamaktır. Doğru sözcüklerle karşılaşıldığında bir anlaşmaya zorlanabilir; hatta yeterince cesur ve kurnaz biri, ondan kemancılık dersi alabilir. Ama bu öğrenme de tehlikesizdir demek yanlış olur: Näcken'den öğrenilen müzik o kadar güçlüdür ki besteci farkında olmadan çalmaya devam eder, ellerini durduramaz, çevresindeki herkesi kendinden geçirir ve bazen tamamen deliliğe sürüklenir.
+
+![gorsel](https://static.wikia.nocookie.net/mythology/images/9/9d/The_Water_Spirit_by_Jonny_Andvik.jpg/revision/latest/scale-to-width-down/900?cb=20211021101312)
 
 Vaesen RPG'de Näcken, oyun dünyasının kıyı bölgelerinde köprüler ve değirmen suları çevresinde görünür. Gündüz saatlerinde büyük ölçüde saklanır; akşam karardığında insan biçimini alarak köylülerin arasına karışabilir. Müziği yalnızca bir araçtır; asıl amacı insanları sulara çekmektir. Bazı rivayetlere göre bu yıkımdan saf bir zevk almaz; yaşadığı nehrin ona verdiği açlık ya da lanet tarafından yönlendirildiğinden kendisi de bu döngünün kurbanıdır.
 

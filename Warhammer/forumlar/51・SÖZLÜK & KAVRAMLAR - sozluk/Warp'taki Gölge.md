@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Shadow_in_the_Warp_.jpeg/revision/latest/scale-to-width-down/900?cb=20160531070506
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Warp'taki Gölge
 *Shadow in the Warp*

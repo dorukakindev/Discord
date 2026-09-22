@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3b/IronHalo2.PNG/revision/latest?cb=20170813032808
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Conversion Field
 *Rosarius / Iron Halo (Dönüşüm Alanı)*

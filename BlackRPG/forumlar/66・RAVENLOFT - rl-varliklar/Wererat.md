@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/pathfinder/images/5/5b/Wererat_rebel.jpg/revision/latest/scale-to-width-down/662?cb=20091128061932
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Wererat — Sıçan-İnsan, Şehrin Gölgelerinde Sürünen Hilekâr
@@ -13,6 +15,8 @@
 Wererat, gotik korkunun en sinsi ve en şehirli dehşetlerinden biridir; kaba bir canavardan çok, gölgelerde sürünen, örgütlü ve hilekâr bir yırtıcıdır. Ravenloft'un karanlık diyarlarında, özellikle yozlaşmış ve sislerle kaplı Richemulot gibi yerlerde, wererat'lar uygarlığın çürüyen alt katmanlarında yaşar; şehirlerin lağımlarında, terk edilmiş binalarında ve karanlık ara sokaklarında. Diğer şekil değiştirenlerin aksine, wererat'ın gücü ham kuvvette değil; onların asıl silahı kurnazlık, gizlilik ve sabırlı ihanettir.
 
 Wererat, insan, dev bir sıçan ve bu ikisinin arasındaki melez bir sıçan-insan biçimi arasında dönüşebilir. Ama dönüşümünü, bir kurtadam gibi kana susamış bir öfkeyle değil, hesaplı bir gizlilikle kullanır. İnsan biçiminde, sıradan bir tüccar, bir dilenci, bir hancı ya da bir soylu olarak topluma sızar; güvenilir bir yüz takınır, bilgi toplar, ittifaklar kurar ve hedeflerini sabırla gözler. Sıçan biçiminde, en küçük deliklerden geçebilir, casusluk yapabilir ve fark edilmeden hareket edebilir. Melez biçimini ise çoğu zaman sadece son çare olarak, doğrudan bir çatışma kaçınılmaz olduğunda kullanır; çünkü wererat, açık bir kavgadan çok, gölgelerden çalışmayı tercih eder.
+
+![gorsel](https://static.wikia.nocookie.net/pathfinder/images/5/5b/Wererat_rebel.jpg/revision/latest/scale-to-width-down/662?cb=20091128061932)
 
 Wererat'ları özellikle tehlikeli kılan, örgütlü ve toplumsal doğalarıdır. Onlar nadiren yalnız çalışır; çoğu zaman karmaşık koloniler, klanlar ve yeraltı şebekeleri hâlinde örgütlenir. Bu topluluklar, bir şehrin suç dünyasını yönetebilir, casusluk ağları kurabilir ve insan toplumunun en üst kademelerine kadar uzanan gizli bir nüfuz geliştirebilir. Bir şehirde işlenen açıklanamaz cinayetlerin, kaybolmaların ve gizemli komploların ardında, çoğu zaman bir wererat kolonisi yatar. Üstelik onlar, sıçan doğalarına uygun olarak hastalık da taşıyabilir; bir wererat'ın ısırığı, kana susamış bir dehşetin yanı sıra sinsi bir salgının da kaynağı olabilir.
 

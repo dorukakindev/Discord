@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/VolkaniteDisintegrator.png/revision/latest/scale-to-width-down/900?cb=20230331172215
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Disintegrator Cannon
 

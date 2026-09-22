@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/aa/Necron_head.jpg/revision/latest?cb=20130318180412
+
 -# THE IMPERIAL ARCHIVE · Diger Tanri Varliklari · Kayıt
 # The Outsider
 *Llandu'gor / Dışlanmış*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f8/HorusHeresyMeridiaPatternPowerMaul.jpg/revision/latest?cb=20190222000225
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Power Maul
 

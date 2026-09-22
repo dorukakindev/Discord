@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/dungeonsdragons/images/c/ca/Trumpet_Archon.webp/revision/latest?cb=20250722204555
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Archon — Yedi Cennet'in Yasal İyi Bekçileri (Aasimon)
@@ -13,6 +15,8 @@ Yasal-iyiliğin (Lawful Good) örnek ırkı; Mount Celestia'nın ışıktan bek�
 Archonlar (Planescape döneminde aasimon başlığı altında da anılan iyi varlıklar), Mount Celestia'nın, yani Yedi Cennet'in ışıktan bekçileridir; yasal-iyiliğin cisimleşmiş örnek ırkıdır. Baatezu yasal-kötülüğün karanlık aynasıysa, archon onun tam karşıtıdır: Law ve Good eksenlerinin kesişimini temsil eden, cesaret, merhamet, düzen ve özveri değerlerine adanmış celestial'lar. Mount Celestia, yedi katmanlı, parıltılı bir kutsal dağdır; her katman bir öncekinden daha aydınlık, daha saf ve mükemmelliğe daha yakındır.
 
 Archonların kökeni, çok-evrenin iyiliğin doğası hakkındaki en güzel fikirlerinden birini taşır. Yasal-iyi bir ölümlü öldüğünde, ruhu Mount Celestia'ya çekilir ve celestial hiyerarşinin en alt basamağı olan lantern archon (fener archon'u) olarak yeniden doğar; küçük, ışıyan bir küre. Bu ruh, çok-evrende iyilik için çalıştıkça, özverili eylemlerde bulundukça ve kötülükle yüzleştikçe, kademe kademe yükselir; hound archon (tazı archon'u), warden archon ve daha yücelerine doğru. Böylece archonlar yalnızca yaratılmış varlıklar değil, iyiliğe adanmış ruhların ödüllendirilmiş, yüceltilmiş hâlidir.
+
+![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/c/ca/Trumpet_Archon.webp/revision/latest?cb=20250722204555)
 
 Archonları fiend'lerden ayıran en önemli şey, güçlerini nasıl kullandıklarıdır. Onlar da disiplinli, örgütlü ve hiyerarşiktir; ama bu düzen, baatezu'da olduğu gibi tiranlığa ve entrikaya değil, koruma ve hizmete adanmıştır. Bir archon'un hiyerarşideki yeri, ihanetle değil, erdemle ve özveriyle kazanılır. Onlar, çok-evrendeki düzenin yıkım için değil, masumları korumak ve kötülüğü durdurmak için var olabileceğinin canlı kanıtıdır. Mount Celestia'nın tepesinde, Celestial Hebdomad olarak bilinen yedi büyük arşonik güç durur ve tüm bu kutsal düzeni yönetir.
 

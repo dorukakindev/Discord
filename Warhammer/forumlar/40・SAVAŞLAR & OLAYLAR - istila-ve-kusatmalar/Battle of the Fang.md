@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/36/The_Fang_schematics.jpg/revision/latest/scale-to-width-down/567?cb=20120611012241
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Battle of the Fang
 *Fang Kuşatması*

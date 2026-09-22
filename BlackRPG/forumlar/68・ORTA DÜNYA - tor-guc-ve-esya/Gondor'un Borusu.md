@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/6/60/Horn_of_Gondor_fanfilm_poster.jpg/revision/latest/scale-to-width-down/639?cb=20201014182259
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Gondor'un Borusu — The Horn of Gondor
@@ -16,6 +18,8 @@ Boru beyaz renkliydi, ucu gümüşle kaplıydı ve üzerine eski harflerle yazı
 Vorondil'in zamanından itibaren Büyük Boru, Hüküm Süren Naip'in en büyük oğlu tarafından taşınan bir hanedan yadigârı hâline geldi. Babadan oğula geçen bu boru, Naipler hanedanının onurunun ve Gondor'un savunma andının bir simgesiydi; onu taşımak, halkı koruma sorumluluğunu da üstlenmek demekti.
 
 Boruyu taşıyan son varis, Naip Denethor'un büyük oğlu Boromir'di. Boromir, yola çıkmadan önce boruyu Ayrıkvadi'de öttürmüş ve Elrond ona, kendi sınırları dışında onu çalmanın artık eski günlerdeki gibi yankı bulmayacağı konusunda uyarmıştı; bu, Gondor'un eski gücünün azaldığının da bir işaretiydi. Yine de Boromir borusunu gururla taşıdı.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/6/60/Horn_of_Gondor_fanfilm_poster.jpg/revision/latest/scale-to-width-down/639?cb=20201014182259)
 
 Amon Hen eteklerinde, Merry ve Pippin'i kaçırmaya çalışan ork birliğine karşı tek başına savaşırken Boromir boruyu son kez, umutsuzca öttürdü; yardım gelmesini umuyordu, ama uzaktaki yoldaşları ona zamanında ulaşamadı. Bu kahramanca çarpışmada çok sayıda ok yiyerek hayatını verdi ve Büyük Boru da ikiye bölündü. Kırılan boru daha sonra, suların üzerinde Anduin Nehri boyunca akarak Minas Tirith'e ulaştı. Parçalarının babası Denethor'a varması, hem Boromir'in ölümünün hem de Gondor için yaklaşan kara günlerin acı, sessiz bir habercisi oldu.
 

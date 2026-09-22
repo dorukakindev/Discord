@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Praetorians_Last_Stand.jpg/revision/latest?cb=20130223104242
+
 -# THE IMPERIAL ARCHIVE · Ic Savaslar Katliamlar Kiyamet · Kayıt
 # Big Toof Nehri Katliamı
 *The Massacre at Big Toof River*

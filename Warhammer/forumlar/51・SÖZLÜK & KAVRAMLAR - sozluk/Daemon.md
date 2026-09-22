@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5f/ChaosDaemons.png/revision/latest?cb=20240226051839
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Daemon
 *İblis*

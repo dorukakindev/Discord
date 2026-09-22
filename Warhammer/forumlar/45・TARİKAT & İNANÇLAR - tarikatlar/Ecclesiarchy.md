@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/31/Adeptus_Ministorum_Icon.jpg/revision/latest?cb=20140526091152
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Ecclesiarchy
 *Adeptus Ministorum, İmparator Kilisesi*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/darksun/images/f/f0/Druid.jpg/revision/latest?cb=20191206231808
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Druid — Druid
@@ -14,6 +16,8 @@ Druid (Druid), Forbidden Lands'in sekiz temel Meslek'inden biridir ve doğanın,
 Bir Druid'in büyüsü, akademik formüllerden ya da yasak ritüellerden değil, doğanın canlı dokusundan gelir. Yaraları iyileştirebilir, hastalıkları kovabilir, bitkilere can verebilir ve gerektiğinde kendi bedenini bir hayvanın biçimine sokabilir. Onun gücü, toprağın, suyun ve mevsim döngüsünün ritmine bağlıdır; medeniyetin gürültüsünden uzakta, ormanın derininde en güçlü halini bulur. Bir Druid, doğayı bir araç değil, saygı duyulması gereken canlı bir ortak olarak görür.
 
 Ravenland'ın açılan dünyasında Druid olmak, hem bir armağan hem de bir sorumluluktur. Üç yüzyıllık sisin ardından doğa kendi yasalarını yeniden kurmuştur; ormanlar daha derin, ruhlar daha uyanıktır. Bir Druid bu uyanışı en iyi anlayan kişidir, ama aynı zamanda onun dengesini korumakla da yükümlüdür. Doğanın gücü hem besler hem yok eder; dikkatsiz bir Druid, çağırdığı kudretin kendi üzerine dönmesini izleyebilir.
+
+![gorsel](https://static.wikia.nocookie.net/darksun/images/f/f0/Druid.jpg/revision/latest?cb=20191206231808)
 
 Druid oynamak, doğanın hem şefkatli hem de acımasız yüzüyle dans etmeyi göze almaktır. Bir Druid, grubun şifacısı, rehberi ve yabanın dilini bilen yorumcusudur; ormanın gizli yollarını okur ve onun tehlikelerini sezer. Ama Forbidden Lands hiçbir gücü bedelsiz sunmaz; doğaya ne kadar derin uzanırsa, onun vahşi adaletine de o kadar yakın durur. Druid'in hikâyesi, gerçek gücün doğaya hükmetmekte değil, onun döngüsüne saygıyla katılmakta yattığını anlatır.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/mythology/images/0/06/Basilisk-1-.gif/revision/latest?cb=20100219215527
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Basilisk / Bazilisk — Taş Bakışlı Yaratık, Ravenland'in Donduran Dehşeti
@@ -13,6 +15,8 @@ Forbidden Lands'in Book of Beasts canavar kitabının kanonik dehşetlerinden bi
 Bazilisk, Forbidden Lands'in Book of Beasts canavar kitabında yer alan kanonik dehşetlerin en sinsisidir; çünkü onunla karşılaşmanın bedeli, çoğu zaman bir tek bakıştır. Ravenland'in karanlık inlerinde, nemli mağaralarda ve insan ayağının çekildiği harabelerde yuvalanan bu sürüngenimsi yaratık, ham kuvvetten çok, bakışındaki lanetle öldürür. Bir gezgin, mağaranın gölgesinde parıldayan iki göz fark ettiğinde, çoğu zaman çoktan geç kalmıştır; bazilisk, baktığını taşa çevirir ya da bir anda yaşamından koparır.
 
 Bazilisk'i bu kadar korkunç kılan, savunmanın doğasını tersine çevirmesidir. Sıradan bir canavara karşı kalkan kaldırılır, kılıç çekilir ve düşmana bakılır; ama bazilisk karşısında ona bakmak, tam da yapılmaması gereken şeydir. Onunla yüzleşen bir savaşçı, gözlerini kaçırmak, yansımalardan ya da yan görüşten yararlanmak ve kör bir kavganın belirsizliğine teslim olmak zorunda kalır. Bu, en deneyimli avcıyı bile dengesiz ve savunmasız bırakır; çünkü görmeden savaşmak, savaşmamaktan beterdir.
+
+![gorsel](https://static.wikia.nocookie.net/mythology/images/0/06/Basilisk-1-.gif/revision/latest?cb=20100219215527)
 
 Bu yaratığın yaşam alanı, bıraktığı izlerle kendini ele verir. Bir bazilisk inine yaklaşan, çevrede tuhaf heykeller görür: dehşet içinde donmuş yüzler, yarıda kalmış adımlar, kalkanını kaldırmaya çalışan ama taşa dönüşmüş eller. Bunlar süs ya da anıt değildir; bazilisk'in eski kurbanlarıdır, sonsuza dek o anda hapsolmuş talihsizlerdir. Ravenland gibi, üç yüzyıl boyunca Kan Sisi altında ölüm ve karanlıkla dolup taşmış bir diyarda, bu taş bahçeleri yeni gelenlere açık bir uyarıdır.
 

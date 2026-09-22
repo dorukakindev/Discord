@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/06/Heavy_Arc_Rifle_on_Kataphron_Breacher.jpg/revision/latest?cb=20170219181313
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Arc Rifle
 

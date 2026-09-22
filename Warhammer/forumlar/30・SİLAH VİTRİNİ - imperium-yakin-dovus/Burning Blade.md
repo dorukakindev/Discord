@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6f/Cato_Fall_of_Damnos-1-.jpg/revision/latest?cb=20111008205609
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Burning Blade
 

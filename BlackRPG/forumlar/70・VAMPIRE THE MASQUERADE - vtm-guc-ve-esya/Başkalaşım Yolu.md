@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/9/9e/Path_of_Metamorphosis.jpg/revision/latest?cb=20200429092943
+
 -# THE BLACK RPG ARCHIVE · VAMPIRE: THE MASQUERADE · Kayıt
 
 # Başkalaşım Yolu — Path of Metamorphosis, Etin Sınırlarını Aşmak
@@ -11,6 +13,8 @@ Tzimisce klanının imzası olan yol; takipçileri vampirliği bir evrim basama�
 ## Kayıt
 
 Başkalaşım Yolu, Vampire: The Masquerade'in en yabancılaştırıcı ve en hırslı aydınlanma yollarından biridir; et-büyücüsü Tzimisce klanının imzası olan bir felsefedir. Bu yol, Canavar'ı, onun ve genel olarak vampirliğin sınırlarını inceleyerek dizginler; bir takipçi, içindeki yırtıcıyı, onu derinden tanıyarak ve sınırlarını haritalayarak kontrol altına alır. Yolun temelinde, evrimsel bir dünya görüşü yatar: bu görüşe göre varoluş, bir evrim zincirinden oluşur; hayvanlar insanların altında, insanlar ise Kindred'ın altında yer alır. Ama bu yolun çarpıcı iddiası şudur: vampir, bu zincirin sonu değildir. Vampir, sadece bir geçiş hâlidir; daha yüksek, daha mükemmel bir biçimin öncüsüdür.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/9/9e/Path_of_Metamorphosis.jpg/revision/latest?cb=20200429092943)
 
 Başkalaşım Yolu'nu izleyen Tzimisce'ler, vampirliğin insandan bir evrim basamağı yukarıda olduğuna inanmakla kalmaz; onlar, vampirsel hâlin 'kusursuz' bir yaşam biçiminin habercisi olduğunu düşünür. Onların hedefi, etin kısıtlamalarını tümüyle aşmaktır; ve bunu, klanlarının korkunç et-büyüsü disiplini Vicissitude ile yapar. Bu yola uzun süre adanmış olanlar, çoğu zaman kendi bedenlerini canavarca ve acımasızca etkili biçimlere sokar; birden çok uzuv, kan emici delikler ve aydınlanmalarının gerektirdiğine inandıkları her türlü korkunç organ ekleyebilirler. Onlar için beden, sabit bir hapishane değil, sürekli aşılması gereken bir hammaddedir. Nihai amaçları, bazılarının bütün bir gezegeni kaplayan tek bir organizmaya dönüşmek olarak tarif ettiği, akıl almaz bir başkalaşımdır.
 

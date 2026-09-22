@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/77/Castellan_Garran_Crowe.png/revision/latest/scale-to-width-down/619?cb=20140926192552
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Black Blade of Antwyr
 

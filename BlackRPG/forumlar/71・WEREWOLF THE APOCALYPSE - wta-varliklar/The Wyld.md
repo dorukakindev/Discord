@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/6/63/Wyld.gif/revision/latest?cb=20111214013237
+
 -# THE BLACK RPG ARCHIVE · WEREWOLF: THE APOCALYPSE · Kayıt
 
 # The Wyld — Vahşi, Kaos ve Sonsuz Olasılık
@@ -12,6 +14,8 @@
 Vahşi (the Wyld), Werewolf evreninde Üçlü'nün kaos ve sonsuz olasılık gücüdür; durmadan değişen, biçimleri sürekli kaydıran ham yaratıcı kuvvettir. Wyld, hiçbir kalıba sığmayan, hiçbir düzene boyun eğmeyen saf potansiyeldir; evrenin ham maddesinin geldiği kaynaktır. O, henüz biçim almamış olan her şeyin, henüz olmamış ama olabilecek her ihtimalin diyarıdır. Wyld dokunduğu her şeyi durmadan dönüştürür; onun doğasında durağanlık yoktur, sadece kesintisiz akış, değişim ve yaratım vardır.
 
 Wyld, Üçlü'nün yaratıcı kutbudur. Var olan her şey, en başta Wyld'ın ham potansiyelinden çıkar; o, evrene durmadan yeni biçimler, yeni olasılıklar ve yeni yaşam akıtır. Weaver onun yarattığı bu ham maddeye yapı verir, ama o ham maddenin kendisi her zaman Wyld'dan gelir. Wyld olmadan yaratım durur; çünkü düzenin örebileceği yeni hiçbir şey kalmaz. Bu yüzden Wyld, sadece bir kaos gücü değil, aynı zamanda bütün yaratımın ve canlılığın asıl kaynağıdır; evrenin durmadan kendini yenilemesini sağlayan dizginsiz yaratıcı taşkındır.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/6/63/Wyld.gif/revision/latest?cb=20111214013237)
 
 Wyld'ın Werewolf kozmolojisindeki en önemli yeri, Gaia ile olan bağıdır. Gaia, Dünya Ana ve yaşamın kaynağı olan büyük ruh, Wyld'dan doğmuştur. Yaşamın kendisi, çeşitliliği ve durmadan değişen, uyum sağlayan doğası, Wyld'ın yaratıcı kaosundan beslenir. Bu yüzden Wyld, doğanın ve canlılığın savunucuları için kutsal bir güçtür; vahşi doğanın, içgüdünün ve özgür değişimin ardındaki kaynaktır. Wyld'a yakın olan, yaşamın ham nabzına dokunmuş olur.
 

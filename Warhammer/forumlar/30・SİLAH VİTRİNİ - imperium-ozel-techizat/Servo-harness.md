@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f0/Grey_Knight.jpg/revision/latest/scale-to-width-down/602?cb=20091025225339
+
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Servo-harness
 

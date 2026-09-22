@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Gyrfalcon_Jetbike_Adrathic_Devastator.jpg/revision/latest?cb=20180110183658
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Adrathic Destructor
 

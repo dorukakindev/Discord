@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/c/c4/Balrog_-_FOTR.png/revision/latest/scale-to-width-down/900?cb=20210916195941
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Durin'in Belası — Durin's Bane (Bir Balrog)

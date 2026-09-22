@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Malice-symbol.jpg/revision/latest?cb=20170607195531
+
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Malal
 *Malice / Kine Karşı Kin*

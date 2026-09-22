@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Legio_Astorum_Warlord_Dauntless_Wrath.png/revision/latest/scale-to-width-down/723?cb=20190131223326
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Warlord Titan
 

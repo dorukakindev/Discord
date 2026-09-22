@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/5/57/GlyphGaia.png/revision/latest/scale-to-width-down/900?cb=20180720142048
+
 -# THE BLACK RPG ARCHIVE · WEREWOLF: THE APOCALYPSE · Kayıt
 
 # Gaia — Dünya Ana, Yaşamın Kaynağı
@@ -12,6 +14,8 @@ Tanrısal güce sahip bir Celestine ruhu; Dünya Ana ve yaşamın kaynağı. Wyl
 Gaia, Werewolf evreninde Dünya Ana ve yaşamın kaynağıdır; tanrısal güce sahip büyük bir ruh, yani bir Celestine'dir. O, sıradan bir doğa tanrıçası değil, gezegenin ve üzerindeki bütün yaşamın ruhsal özünü taşıyan kozmik bir varlıktır. Gaia, Wyld'dan doğmuştur; yaşamın çeşitliliği, uyumu ve durmadan kendini yenileyen doğası, Wyld'ın yaratıcı kaosundan beslenir. Ama Gaia salt kaos değildir; o, Üçlü'nün dengeli işleyişinden doğan canlılığın kendisidir, yaratımın düzen ve yenilenmeyle uyum içinde aktığı sağlıklı yaşamın somutlaşmış hâlidir.
 
 Gaia, Werewolf kozmolojisinde genellikle 'İyi' ve 'Saf' olan her şeyin adıdır. O, sağlıklı dengenin, canlı doğanın ve dürüst yaşamın tarafıdır; gezegeni ve onun ruhsal sağlığını temsil eder. Bu yüzden Gaia, bozulmuş Wyrm'in saçtığı çürüme ve dehşete karşı duran asıl güçtür. Üçlü'nün dengesi bozulup Wyrm delirdiğinde, Gaia onun yıkıcı saldırısının başlıca hedefi hâline geldi; çünkü hastalanmış Wyrm, dengeli yaşamı ve sağlığı çürütmeye çalışır. Gaia, bu çürümeye karşı korunması gereken kutsal yaşamın ta kendisidir.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/5/57/GlyphGaia.png/revision/latest/scale-to-width-down/900?cb=20180720142048)
 
 Gaia'nın gezegen üzerindeki en önemli hizmetkârları, Werewolf'lardır. Garou olarak da bilinen bu kurt-ruh savaşçıları, Gaia tarafından onun düşmanlarına karşı savaşmak için yaratılmış kabul edilir; onlar Dünya Ana'nın pençeleri ve dişleridir. Werewolf'lar, bozulmuş Wyrm'in hizmetkârlarına ve onun yaydığı çürümeye karşı Gaia adına dövüşür. Gaia bu savaşçılara, ay ruhu Luna'nın armağanları aracılığıyla biçim ve güç verir; onları farklı dövüşçü kalıplarına, farklı doğumlara ve görevlere göre şekillendirir. Gaia için savaşmak, sadece bir gezegeni değil, yaşamın ve dengenin kendisini korumaktır.
 

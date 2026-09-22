@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/monster/images/d/d7/277AA70A-B7BB-440B-888C-07EF970C1B33.jpeg/revision/latest?cb=20180801165607
+
 -# THE BLACK RPG ARCHIVE · VAMPIRE: THE MASQUERADE · Kayıt
 
 # Absimiliard — Nosferatu'nun Atası, Lanetli Avcı
@@ -14,6 +16,8 @@ Nosferatu klanının kurucu Antediluvian'ı; bir zamanlar olağanüstü güzel o
 Absimiliard, Vampire: The Masquerade'in en uzlaşmaz biçimde kötücül Antediluvian'larından biridir; Nosferatu klanının atası, ama kendi torunlarının en büyük düşmanı. Efsaneye göre Absimiliard bir zamanlar olağanüstü güzeldi; gururlu ve kibirli bir varlıktı, güzelliğiyle övünürdü. Ama hırsı onu mahvetti: kendi sire'ını diablerize etmeye, yani onu yutup gücünü çalmaya kalkıştı. Bu ihanetin karşılığında Caine onu lanetledi, ve gururlu güzelliğini korkunç bir çirkinliğe dönüştürdü. Absimiliard, bir zamanlar hayran olunan bir varlıktan, görünüşüyle bile dehşet saçan bir ucubeye indirildi.
 
 Ama lanetin en zalim yanı, bireysel olmamasıydı; Absimiliard bu çirkinliği, yarattığı herkese, yani bütün Nosferatu klanına geçirdi. Böylece Nosferatu, doğuştan bir fiziksel deformasyonla, gölgelerde saklanmaya ve dünyanın gözünden gizlenmeye mahkûm bir klan oldu. Atalarının kibrinin bedelini, çağlar boyunca tüm torunları ödedi. Bu yüzden Nosferatu klanı, çirkinliğiyle uzlaşmayı, gölgelerde hayatta kalmayı ve bilgiyi bir silah olarak biriktirmeyi öğrendi; ama kanlarına işlemiş lanet, hep atalarının ihanetini hatırlatır.
+
+![gorsel](https://static.wikia.nocookie.net/monster/images/d/d7/277AA70A-B7BB-440B-888C-07EF970C1B33.jpeg/revision/latest?cb=20180801165607)
 
 Absimiliard'ın hikâyesinin en karanlık yönü, torunlarına olan nefretidir. İkinci Şehir'in düşüşünden sonra, en güçlü çocuklarından Baba Yaga, kan bağını kırarak ona isyan etti; ona karşı savaş açtı ve onu ya Antarktika'da torpor'a sürdü ya da Atlantik'in derinliklerine kaçmaya zorladı. Bazı Nosferatu efsanelerine göre, Baba Yaga'nın bu ihaneti yüzünden Absimiliard tüm klanı yok etmeye yemin etti; ve canavarca Nictuku denen avcı çocuklarını, kendi torunlarını avlayıp soylarını tüketmek için gönderir. Absimiliard, Vampire: The Masquerade'de kibrin, lanetin ve atadan miras kalan nefretin dehşetini temsil eder; bir varlığın gururunun, sadece kendini değil, koca bir klanı sonsuza dek nasıl mahkûm edebileceğini, ve bir atanın, çocuklarının kurtarıcısı değil, en korkunç avcısı olabileceğini gösterir.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Skarbrand_Exiled_One_Mini.jpg/revision/latest/scale-to-width-down/803?cb=20180126054613
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Skarbrand
 *Skarbrand (Sürgün Edilen Bloodthirster)*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/84/BloodmasterModel.jpg/revision/latest/scale-to-width-down/900?cb=20190310212147
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Juggernaut of Khorne
 *Khorne'un Tartaros'u (Cehennem Aygırı)*

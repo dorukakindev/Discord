@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/Eldar_Warlock.jpg/revision/latest/scale-to-width-down/475?cb=20120822071508
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Force Staff
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/b/b6/Ents.png/revision/latest?cb=20070727235910
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Ent — Ent
@@ -13,3 +15,5 @@ Ormanların çobanı olan, ağaca benzeyen kadim ve yavaş varlıklar.
 Entler, 'ağaçların çobanları' denen, ağaca benzer kadim varlıklardır. Birinci Çağ'da, Elflerin Uyanışı'ndan kısa süre sonra Valar tarafından uyandırıldıkları anlatılır; konuşmayı onlara Elfler öğretmiştir. Orta Dünya'nın en yaşlı canlıları arasındadırlar ve son derece yavaş, sabırlı bir doğaya sahiptirler. En yaşlıları, Fangorn Ormanı'nın bekçisi Ağaçsakal'dır. Yüzük Savaşı'nda 'Entlerin Son Yürüyüşü' ile Saruman'ın Isengard kalesini yıkmışlardır. Eşleri Ent-kadınlar çağlar önce kaybolmuştur.
 
 -# Kaynaklar: Tolkien külliyatı (Silmarillion, LOTR, Hobbit)
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/b/b6/Ents.png/revision/latest?cb=20070727235910)

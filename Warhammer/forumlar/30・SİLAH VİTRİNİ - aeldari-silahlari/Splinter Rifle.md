@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SplinterPistol1.png/revision/latest?cb=20240117134149
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Splinter Rifle
 

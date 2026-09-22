@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/FiendofSlaanesh.png/revision/latest?cb=20180128023729
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Fiend of Slaanesh
 *Slaanesh'in Cehennem Yaratığı*

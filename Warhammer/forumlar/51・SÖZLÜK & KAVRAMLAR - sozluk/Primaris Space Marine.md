@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_Dragons_Primaris_Intercessor.jpg/revision/latest/scale-to-width-down/628?cb=20170719174211
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Primaris Space Marine
 *Primaris Uzay Denizcisi*

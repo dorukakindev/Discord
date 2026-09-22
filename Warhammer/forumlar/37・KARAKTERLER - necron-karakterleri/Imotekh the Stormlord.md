@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/48/Imotekh_the_Stormlord.png/revision/latest/scale-to-width-down/681?cb=20150202200103
+
 -# THE IMPERIAL ARCHIVE · Necron Karakterleri · Kayıt
 # Imotekh the Stormlord
 

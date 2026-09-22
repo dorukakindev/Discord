@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e7/Crenshinibon_5e.png/revision/latest/scale-to-width-down/206?cb=20240602044354
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Crenshinibon (Kristal Parça) — Crenshinibon (The Crystal Shard)

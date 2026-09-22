@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/75/HowlingBansheeRune.jpg/revision/latest?cb=20150505204114
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Howling Banshee
 *Uluyan Banshee*

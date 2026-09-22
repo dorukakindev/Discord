@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/98/SilverTower00.jpg/revision/latest?cb=20130404234708
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Bolt of Tzeentch
 

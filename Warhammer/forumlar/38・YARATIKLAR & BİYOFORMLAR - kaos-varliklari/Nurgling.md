@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/64/Nurgling_invasion.jpg/revision/latest/scale-to-width-down/735?cb=20160203190751
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Nurgling
 

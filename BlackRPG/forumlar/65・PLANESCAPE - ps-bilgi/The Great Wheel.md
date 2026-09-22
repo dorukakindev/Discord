@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a2/Planes-5e.jpg/revision/latest/scale-to-width-down/890?cb=20180207035855
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # The Great Wheel — Büyük Tekerlek, Dış Düzlemlerin Kozmolojisi
@@ -12,6 +14,8 @@ Dış Düzlemleri ahlaki yönelime göre bir tekerlek biçiminde dizen D&D kozmo
 The Great Wheel (Büyük Tekerlek), Dungeons & Dragons'ın standart kozmoloji modelidir; çok-evrenin Dış Düzlemleri'ni (Outer Planes) ahlaki yönelime, yani alignment'a göre devasa bir tekerlek biçiminde düzenler. Tekerleğin üst yarısı iyiliğe, alt yarısı kötülüğe; sol tarafı düzene (lawful), sağ tarafı kaosa (chaotic) ayrılmıştır. Böylece her düzlem, kendi ahlaki konumuna karşılık gelen bir yere oturur. Bu yapı, soyut ahlak kavramlarına somut bir coğrafya kazandırır: iyilik, kötülük, düzen ve kaos, artık birer fikir değil, gidilebilen, yaşanabilen, ölünebilen birer yerdir.
 
 Tekerleğin üst kanadında ışıklı diyarlar yer alır: yedi kademeli yüce cennet Mount Celestia (düzenli iyi), huzurun düzlemi Elysium (tarafsız iyi), elflerin ve Olimpos tanrılarının yurdu Arborea (kaotik iyi) ve Norse kahramanlarının sonsuz savaş diyarı Ysgard bunlardandır. Sol kanatta kusursuz düzenin dev dişlileri Mechanus (düzenli tarafsız) döner. Alt kanat ise karanlığa aittir: dokuz katmanlı cehennem Baator (düzenli kötü) ve Asmodeus'un tahtı, sonsuz kaotik uçurum Abyss (kaotik kötü) ve iblislerin yuvası, tüm duyguların söndüğü gri Hades, ve Kan Savaşı'nın yürütüldüğü Gehenna ile Carceri burada bulunur. Sağ kanatta ise biteviye değişen anlamsız kaos Limbo (kaotik tarafsız) ve delirten karanlık labirent Pandemonium uzanır.
+
+![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/a/a2/Planes-5e.jpg/revision/latest/scale-to-width-down/890?cb=20180207035855)
 
 Tekerleğin tam ortasında, hiçbir yönelime ait olmayan tarafsız düzlem Outlands (the Outlands) yer alır. Outlands, tüm Dış Düzlemler'e açılan on altı kapı-kasabasını barındırır ve merkezine yaklaştıkça alignment temelli güçler zayıflar. Bu merkezin de tam ortasında, sonsuz yükseklikte bir iğne olan Spire yükselir; ve onun erişilemez tepesinde, çok-evrenin en garip şehri Sigil, içi boş bir simit (torus) biçiminde asılı durur. Sigil, hem hiçbir düzleme ait olmayan tarafsız bir kavşak hem de sayısız portalıyla hepsine bağlı bir merkezdir. The Great Wheel, Planescape'in kozmik haritasını temsil eder; ahlakın ve felsefenin bir coğrafyaya dönüştüğü, ve her fikrin sonunda kendi düzlemine, kendi gerçekliğine sahip olduğu sonsuz bir yapıyı gösterir.
 

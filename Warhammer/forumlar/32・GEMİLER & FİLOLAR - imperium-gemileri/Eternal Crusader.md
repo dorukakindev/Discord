@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Warhammer_40%2C000_Eternal_Crusade_-_Wars_of_Arkhona_Official_Trailer/revision/latest?cb=20150209180341
+
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Eternal Crusader
 

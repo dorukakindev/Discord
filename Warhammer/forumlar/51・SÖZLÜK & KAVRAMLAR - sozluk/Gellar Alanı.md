@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Iron_Hands_Fleet_Arrives.png/revision/latest/scale-to-width-down/900?cb=20140415161335
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Gellar Alanı
 *Gellar Field*

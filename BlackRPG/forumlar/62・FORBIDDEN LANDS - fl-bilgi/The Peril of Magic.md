@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/dungeonsdragons/images/0/0b/Netheril_Empire_of_Magic.jpg/revision/latest?cb=20230722212711
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # The Peril of Magic — Büyünün Tehlikesi, Güvenilmez Güç
@@ -12,6 +14,8 @@ Ravenland'da büyü tehlikeli ve güvenilmezdir; iyi şeyler başarabilse de kor
 Büyünün Tehlikesi, Forbidden Lands dünyasının en temel gerçeklerinden biridir; Ravenland'da büyü asla güvenli, asla tümüyle denetlenebilir bir araç değildir. Bu topraklarda büyü, iyi şeyler başarabilen ama her an korkunç biçimde ters gidebilen, vahşi ve güvenilmez bir güçtür. Bir büyücü bir yarayı iyileştirmeye çalışırken bir lanet salabilir; bir koruma örmeye çalışırken bir felaketi davet edebilir. Büyünün enerjisi, dizginlenmesi imkânsız bir at gibidir; onu kullanan, her zaman üzerinden düşmenin ve ezilmenin eşiğindedir.
 
 Bu tehlikenin gölgesi, Ravenland'ın tarihine derinden işlemiştir. Çünkü bu bölgenin yaşadığı büyük felaketin merkezinde, büyünün kötüye kullanımı yatar. Tiran sihirbaz-kral Zygofer, gücünü pekiştirmek için bu karanlık sanatlara başvurdu; ve onun büyüyle olan ihtiraslı oyunu, bölgenin çöküşünün başlıca nedenlerinden biri oldu. Ravenland halkları, büyünün neye mal olabileceğini en acı biçimde, kendi topraklarının yıkımıyla öğrendi. Bu yüzden büyü, burada soyut bir tehlike değil, somut bir travmanın kaynağıdır.
+
+![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/0/0b/Netheril_Empire_of_Magic.jpg/revision/latest?cb=20230722212711)
 
 Bütün bunların doğal sonucu, büyücülere duyulan derin kuşkudur. Ravenland'da bir büyücü, hayranlıktan çok korkuyla karşılanır; çünkü onun elindeki güç, en iyi niyetle bile bir felakete dönüşebilir. İnsanlar, büyü yapanlara temkinle, çoğu zaman düşmanlıkla yaklaşır; çünkü geçmişin dersi açıktır. Bir büyücü ne kadar yardımsever olursa olsun, etrafındakiler her zaman onun gücünün kontrolden çıkabileceğini, ya da bir başka Zygofer'in tohumunu taşıyabileceğini hatırlar. Büyü, güç vaat eder; ama Ravenland'da bu vaat, her zaman bir lanetin gölgesinde gelir.
 

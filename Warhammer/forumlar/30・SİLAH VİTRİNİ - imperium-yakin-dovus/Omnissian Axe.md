@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e2/OmisianAxe.jpg/revision/latest/scale-to-width-down/434?cb=20211130203522
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Omnissian Axe
 

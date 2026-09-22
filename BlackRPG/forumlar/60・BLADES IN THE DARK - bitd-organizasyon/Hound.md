@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/mythology/images/5/5e/Axehandle_hound.jpg/revision/latest?cb=20170411114711
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Hound — Nişancı / Avcı
@@ -14,6 +16,8 @@ Hound (Avcı), Blades in the Dark dünyasında çetenin gözü, menzili ve sabı
 Hound'un en belirgin özelliklerinden biri, yanından ayırmadığı sadık av hayvanıdır; bu çoğu zaman bir av köpeğidir ve izleri sürmekte, tehlikeyi sezmekte ve sahibini korumakta paha biçilmezdir. Sharpshooter yeteneğiyle imkânsız mesafelerden vurabilir, Vengeful ile düşmanlarına karşı acımasız bir kararlılık kazanır, Ghost Hunter ile yalnızca canlıları değil, Doskvol'ü saran kızgın hayaletleri bile avlayabilir. Bir Hound, elektrik perdesinin ötesindeki tehlikeli yabanda bile yolunu bulabilen, hem şehrin hem de yabanın avcısıdır.
 
 Fakat avcının yolu da bedelsiz değildir. Uzaktan öldürmek bir mesafe, bir soğukluk gerektirir; bu soğukluk zamanla avcının ruhuna işler. Her hedef, her takip ve her tetik darbesi stres biriktirir; bir Hound, biriken bu yükü çoğu zaman kendi kötü alışkanlığında boğmaya çalışır. Avladığı şey bazen bir insan, bazen bir hayalet, bazense kendi geçmişidir. Avcı olmak, sürekli pusuda beklemenin yalnızlığını da beraberinde taşır.
+
+![gorsel](https://static.wikia.nocookie.net/mythology/images/5/5e/Axehandle_hound.jpg/revision/latest?cb=20170411114711)
 
 Hound oynamak, sabrın ve hassasiyetin gücüne yaslanmaktır; ama aynı zamanda öldürmenin insanı yavaş yavaş soğuttuğu gerçeğiyle yüzleşmektir. Bu rol, çetenin uzak menzilli ölümünü ve keskin bakışını temsil eder; bir hedefi sessizce izleyen, sadık hayvanıyla iz süren ve doğru anı bekleyen sabırlı bir avcının dramıdır. Doskvol'ün sisinde bir Hound'un gözü hep açıktır ve o göz bir kez bir hedefe kilitlendiğinde, kaçış neredeyse imkânsızdır.
 

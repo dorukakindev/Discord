@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/5/50/Al-aswad.jpg/revision/latest?cb=20140828190806
+
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
 # al-Aswad — Adsız, Karanlığa Yemin Eden İlk Nephandus
@@ -13,6 +15,8 @@ Dış Karanlık'a (Outer Darkness) sadakat yemini eden ilk varlık; bunu yapmak 
 al-Aswad, Mage: The Ascension'ın en kadim ve en korkunç sahsiyetidir; tüm Nephandi'nin, yani kozmik yok oluşa hizmet eden o karanlık büyücülerin atası. Onun gerçek adı yoktur; çünkü o, kendi varlığının özünü bir bedel olarak ödedi. Bu yüzden ona 'The Unnamed' (Adsız) denir, ama aynı zamanda al-Aswad olarak da anılır; ilk ve en kara olan. O, Geleneklerin parlak Oracle'larının korkunç bir karşı kutbudur; tıpkı Oracle'lar gibi muazzam bir kavrayışa ve güce sahip, ama bu gücü tümüyle kötülüğe ve yıkıma adamış bir varlık.
 
 al-Aswad'ın hikâyesi, evrenin en derin dehşetlerinden birine, Dış Karanlık'a (the Outer Darkness) uzanır. Bu, yaratılışın ötesindeki, var olan her şeyin düşmanı olan o kozmik yokluktur; Nephandi'nin taptığı ve hizmet ettiği saf yıkım kaynağı. al-Aswad, bu Dış Karanlık'a sadakat yemini eden ilk varlık oldu; ve bu yemin, sıradan bir adak değildi. O, yemininin bedeli olarak en değerli şeyini, yani Gerçek Adını (True Name) feda etti. Bir büyücünün Gerçek Adı, onun özünün, kimliğinin ve ruhunun en derin köküdür; onu feda etmek, kendini bütünüyle Karanlık'a teslim etmek demekti. İşte bu fedakârlık, al-Aswad'ı sonsuza dek adsız kıldı.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/5/50/Al-aswad.jpg/revision/latest?cb=20140828190806)
 
 al-Aswad, bu korkunç yeminle birlikte, Entropy'nin Qlippoth'una, yani çürüme ve yok oluşun karanlık âlemine inen ilk varlık olduğuna inanılır. Bu iniş, onu Geleneklerin yolundan tümüyle ayırdı; o artık bir büyücü değil, yıkımın bir aracıydı. al-Aswad, ilk Nephandus ve ilk Aswadim oldu; Aswadim, Oracle'lara benzeyen ama tümüyle kötü olan o kadim ve dehşet verici varlıklardır. Söylenenlere göre, sonradan gelen tüm Aswadim, adlarını ve yollarını ondan aldı; o, kendisinden sonra gelecek tüm karanlık büyücülerin atası ve örneğidir.
 

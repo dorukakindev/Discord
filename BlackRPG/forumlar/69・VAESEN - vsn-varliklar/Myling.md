@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/cryptidz/images/7/70/Myling.png/revision/latest?cb=20241129184711
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Myling — Myling
@@ -14,6 +16,8 @@ Myling, İsveçce'de 'küçük cinayet' anlamına gelir; eski Norveçce'de Utbur
 Myling, bu limbo hâlindeki ruhtur. Ne dirilerin dünyasına aittir ne ölülerin huzuruna kavuşabilmiştir. Gece boyunca ıssız yollarda, bataklıklar ve orman kenarlarında dolaşır. Bir yolcuyu gördüğünde aniden sırtına atlar. Görünmezdir ya da kucakta taşınan bir bebek boyutundadır; ama ağırlığı insanüstüdür ve her adımda artar.
 
 Myling'in talebi basittir: onu mezarlığa götür ve defnet. Ama bu yol ağırdır. Yolcu ilerledikçe ruh daha da ağırlaşır; diz çöker, yere kapanmak ister, hareket edemez hâle gelir. Mezarlığa ulaşmadan çöken kişi, ruhun ağırlığı altında ezilerek can verir. Mezarlığa ulaşabilen ise ruhu bırakmış, görevini yerine getirmiş ve huzura kavuşmasına vesile olmuş olur.
+
+![gorsel](https://static.wikia.nocookie.net/cryptidz/images/7/70/Myling.png/revision/latest?cb=20241129184711)
 
 Bazı anlatılarda Myling sesini de kullanır: karanlıkta insan bebeğinin ağlamasına benzer, ama biraz daha tuhaf, biraz daha gırtlaktan gelen bir ses. Bu sesi izleyen yolcular genellikle geri dönemez. İsveç aydınlanma dönemine kadar köy topluluklarında Myling'e ilişkin anlatılar hem gerçek bir korku hem de toplumun kırılgan annelere ve onların bebeklerine yönelik vicdani bir hesaplaşmasıydı.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4f/Ion_rifle.jpg/revision/latest/scale-to-width-down/900?cb=20130829041352
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # T'au Ion Rifle
 

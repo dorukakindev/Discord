@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/2/24/Path_of_Night.jpg/revision/latest?cb=20200429093144
+
 -# THE BLACK RPG ARCHIVE · VAMPIRE: THE MASQUERADE · Kayıt
 
 # Gece Yolu — Path of Night (Cathari), Kötülüğü Yayan Kâfirler
@@ -11,6 +13,8 @@ Ortaçağ Cathar sapkınlığından doğan ikici yol; takipçileri Albigensianla
 ## Kayıt
 
 Gece Yolu, Vampire: The Masquerade'in en sapkın ve en çelişkili aydınlanma yollarından biridir; ortaçağın gerçek bir dini hareketi olan Cathar sapkınlığından doğmuş, ikici (dualist) bir felsefedir. Cathar inancına göre dünya, eşit güçteki iki yaratıcı tarafından biçimlendirilmiştir: erdemden ve ruhtan sorumlu iyi bir yaratıcı, ve maddi dünyayı ve onun günahlarını yaratan kötü bir yaratıcı. Bu yolu izleyen vampirler, yani Albigensianlar olarak bilinen takipçiler, bu öğretiyi tersine çevirmiş ve karanlık bir biçimde benimsemişlerdir. Onlar, maddi dünyanın kötü bir yaratım olduğu fikrinden yola çıkar; ama bundan, bu dünyanın kötülüğünü kucaklamaları ve yaymaları gerektiği sonucunu çıkarırlar. Bir Albigensian için günah, kaçınılacak bir şey değil, coşkuyla peşinden gidilecek bir amaçtır.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/2/24/Path_of_Night.jpg/revision/latest?cb=20200429093144)
 
 Gece Yolu'nun takipçileri, bilinçli olarak kötülüğü yaymanın yollarını arar. Açgözlülük, şehvet ve gurur gibi günahların ardından hevesle koşar; maddi zenginliği ve dünyevi hazları biriktirir ve başkalarını da aynı şeye teşvik ederler. Bir Albigensian, çevresindeki insanları ve vampirleri yozlaştırmayı, onları aşırılığa ve maddeciliğe sürüklemeyi bir tür görev sayar; çünkü onların mantığına göre, maddi dünyanın kötülüğünü ifşa etmenin ve onu kucaklamanın yolu budur. Onlar, kadim Catharların kutsal sandığı pek çok yasağı bilinçli ve kasıtlı olarak çiğner; çünkü o eski erdemlere meydan okumak, bu yolun bir parçasıdır. Bu, onları hem baştan çıkarıcı hem de tehlikeli kılar.
 

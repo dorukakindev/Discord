@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/dungeonsdragons/images/9/9e/Hutaakan-c.jpg/revision/latest?cb=20150202025937
+
 -# THE BLACK RPG ARCHIVE · ZWEIHÄNDER · Kayıt
 
 # Commoner — Avam Arketipi
@@ -15,6 +17,8 @@ Commoner (Avam), Zweihänder'in altı arketipinin belki de en temel olanıdır; 
 Bir Avam karakteri yaratıldığında, başlangıç ekipmanı mütevazılığın ta kendisidir: bir bel çantası, basit bir bıçak ya da sopa, yıpranmış giysiler ve belki mesleğine ait birkaç alet. Erişebileceği meslekler de el emeğine ve gündelik geçime dayanır. Bir Avam, Arabacı olup tehlikeli yolları aşabilir, Sıçan Avcısı olup şehrin bağırsaklarında dolaşabilir ya da bir denizci, hamal, madenci olarak sırtını hayata yaslayabilir. Onun yolu, ayrıcalıkla değil, ekmek parasıyla çizilir.
 
 Zweihänder'in karanlık dünyasında Avam olmak, dünyanın acımasızlığını en çıplak haliyle yaşamak demektir. Soyluların entrikaları, rahiplerin vaazları ve büyücülerin lanetleri çoğu zaman onun sırtında patlar; vergi, salgın ve savaş en ağır darbeyi hep sıradan halka indirir. Bir Avam'ın elinde ne bir unvan, ne bir servet, ne de bir koruyucu vardır; sahip olduğu tek şey kendi dayanıklılığı ve hayatta kalma azmidir.
+
+![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/9/9e/Hutaakan-c.jpg/revision/latest?cb=20150202025937)
 
 Avam arketipi oynamak, kahramanlığın bir doğuştan hak değil, çamurun içinden kazanılan bir şey olduğunu kabul etmektir. Bu arketip, grimdark anlatının kalbidir: büyük destanlar burada büyük adamların değil, hayatta kalmayı başaran sıradan insanların hikâyesidir. Bir Avam karakteri, dünyanın ona verdiği her darbeye rağmen ayakta kalmaya çalışır ve onun en küçük zaferi bile, bu zalim dünyada gerçek bir mucize gibi parlar.
 

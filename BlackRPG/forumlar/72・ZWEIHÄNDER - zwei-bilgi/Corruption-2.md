@@ -1,19 +1,26 @@
 -# THE BLACK RPG ARCHIVE · ZWEIHÄNDER · Kayıt
 
-# Corruption — Yozlaşma, Kaos'un Bıraktığı Leke
+# Corruption — Yozlaşma, Ruhu Yavaşça Karartan Leke
 
-Bir karakterin Kaos'a, kötülüğe ya da karanlık güçlere temas ettikçe biriktirdiği manevi ve fiziksel çürüme; yeterince biriktiğinde mutasyonlara, akıl bozukluklarına ve sonunda Lanetlenme'ye yol açan leke.
+Karakterlerin kötü, karanlık ya da bencil seçimler yaptıkça biriktirdiği puan; her yozlaşma noktası, ruhu Kaos'a ve nihai lanetlenmeye bir adım daha yaklaştırır.
 
-- **Kategori:** Sistem & Mekanik
+- **Kategori:** Yozlaşma
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Corruption (Yozlaşma), Zweihänder'de bir karakterin Kaos'a, kötülüğe ve karanlık güçlere temas ettikçe içinde biriktirdiği manevi ve fiziksel çürümeyi izleyen mekaniktir; ruhun ve bedenin, dünyanın karanlığıyla nasıl yavaşça bozulduğunu somutlaştıran sistemdir. Zweihänder'in dünyasında, karanlıkla her temas bir iz bırakır; bir büyücünün Uçurum'dan güç çekmesi, bir kişinin korkunç bir eylemde bulunması, bir Kaos varlığıyla karşılaşmak ya da yasak bilgiye dokunmak, hepsi karakterin üzerine Yozlaşma yükleyebilir. Bu çürüme, dışarıdan gelmez sadece; karakterin kendi tercihleriyle, kendi içinden de büyür.
+Yozlaşma (Corruption), Zweihänder evreninin ahlaki çürüme mekaniğinin kalbidir; bir karakterin yaptığı kötü, karanlık ya da bencil seçimlerin ruhunda biriktirdiği görünmez lekedir. Bu evrende kötülük, uzakta pusuda bekleyen soyut bir tehdit değildir; o, her karakterin kendi tercihleriyle, adım adım kendi içine davet ettiği bir çürümedir. Bir karakter ne zaman karanlık bir yola sapsa, ne zaman acımasız, hain ya da bencil bir karar verse, bunun bedelini ruhunda taşır; bu bedel, Yozlaşma puanı olarak birikir.
 
-Yozlaşma, sessizce ama amansızca birikir. Başlangıçta etkileri görünmez olabilir; ama leke arttıkça, sonuçları somutlaşmaya başlar. Yüksek Yozlaşma taşıyan bir karakter, fiziksel mutasyonlar geliştirebilir; bedeni, Kaos'un izlerini taşıyan korkunç ve doğaya aykırı biçimlerde değişebilir. Aynı zamanda zihinsel etkiler de baş gösterir; akıl bozuklukları, takıntılar, korkular ve karanlık dürtüler, yozlaşan bir karakterin zihnini ele geçirmeye başlar. Çürüme ilerledikçe, karakter giderek daha az insani, daha çok Kaos'un bir parçası hâline gelir.
+Yozlaşma'nın en sinsi yönü, yavaşlığıdır. Tek bir kötü seçim, bir insanı bir anda canavara çevirmez; ama bu seçimler üst üste bindikçe, her biri ruhta küçük bir karanlık iz bırakır. Karakter biriken bu puanlarla yaşamaya devam eder, çoğu zaman ne kadar değiştiğinin farkına bile varmadan. İşte bu birikim, zamanla Bozukluklar'a (Disorder), yani zihinsel ve ruhsal çöküntülere yol açar; Yozlaşma yeterince derinleştiğinde, karakter artık eski hâlinden çok uzaklaşmış, kendi karanlığının esiri olmuş olur.
 
-Yozlaşma'nın en korkunç yönü, varış noktasıdır; çünkü yeterince biriktiğinde, karakteri Lanetlenme'ye sürükler. Bu, karakterin ruhunun ve insanlığının Kaos tarafından tümüyle ele geçirildiği, geri dönüşü olmayan bir düşüştür. Bu yüzden Yozlaşma, oyunun en sürekli ve en sinsi tehditlerinden biridir; her karanlık tercih, her tehlikeli güç kullanımı, karakteri bu uçuruma biraz daha yaklaştırır. Karakterler, güçlerini ve hayatta kalmalarını, bu çürümenin riskine karşı sürekli tartmak zorundadır. Corruption, Zweihänder evreninde karanlığın bedelini temsil eder; Kaos'la her temasın bir iz bıraktığını, gücün ve hayatta kalmanın çoğu zaman ruhun çürümesi pahasına geldiğini, ve hiçbir karanlık eylemin gerçekten izsiz kalmadığını gösterir.
+Yozlaşma, Zweihänder'in 'grim and perilous', yani acımasız ve tehlikeli temasının temel taşıdır. Bu dünyada kahramanlık ucuz değildir ve saflık nadirdir; iyi niyetli insanlar bile, hayatta kalmak ya da bir amaca ulaşmak uğruna yavaşça yozlaşır. Yozlaşma mekaniği, oyuncuya her seçimin bir ağırlığı olduğunu hatırlatır; çünkü biriken her puan, karakteri Kaos'a ve nihai lanetlenmeye bir adım daha yaklaştırır. Yozlaşma, Zweihänder evreninde ahlaki çöküşün kaçınılmazlığını temsil eder; en büyük tehlikenin dışarıdaki canavarlar değil, kişinin kendi kararlarıyla içine çağırdığı karanlık olduğunu, ve hiç kimsenin lekesiz kalamayacağını gösterir.
+
+## Etkiler
+
+- Karakter kötü, karanlık ya da ahlaksız bir seçim yaptığında Yozlaşma puanı kazanır
+- Biriken Yozlaşma puanları zamanla Bozukluklar'a (Disorder) yol açar
+- Yozlaşmaya çok sık teslim olmak karakteri Kaos'a yaklaştırır
+- Her yozlaşma anı geri alınamaz bir lekedir; ruh yavaşça kararır
+- Aşırı birikim, lanetlenmenin ve ruhun yitirilmesinin eşiğine taşır
 
 -# Kaynaklar: Zweihänder Grim & Perilous (Andrews McMeel)
--# Çapraz: Kaos'a ve karanlık güçlere temasla birikir · Mutasyon ve akıl bozukluklarına yol açabilir · Yeterince birikince Lanetlenme'ye sürükler

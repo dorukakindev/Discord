@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/94/HeraldsofTzeentch.png/revision/latest/scale-to-width-down/900?cb=20180126040338
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Screamer of Tzeentch
 *Tzeentch'in Çığlığı (Gök-Köpekbalığı)*

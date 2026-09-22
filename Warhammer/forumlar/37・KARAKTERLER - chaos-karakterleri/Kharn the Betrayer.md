@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e7/K3.png/revision/latest/scale-to-width-down/675?cb=20131222205641
+
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Kharn the Betrayer
 

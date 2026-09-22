@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/pathfinder/images/2/26/364px-Agrianian3.jpg/revision/latest?cb=20101009043757
+
 -# THE BLACK RPG ARCHIVE · ZWEIHÄNDER · Kayıt
 
 # Warrior — Savaşçı Arketipi
@@ -15,6 +17,8 @@ Warrior (Savaşçı), Zweihänder'in altı arketipinden biridir ve oyuna adını
 Bir Savaşçı karakteri yaratıldığında, başlangıç ekipmanı bütün arketiplerin en ağırıdır: iyi bir silah ya da silahlar, bir parça zırh, kalkan, savaş donanımı ve çoğu zaman geçmiş çarpışmaların yara izleri. Erişebileceği meslekler de doğrudan şiddete ve askerî yaşama dayanır. Bir Savaşçı, Paralı Kılıç olup kesesini dolduran her bayrağın altında savaşabilir, Cadı Avcısı olup karanlığın hizmetkârlarını avlayabilir ya da bir asker, muhafız, dövüşçü olarak çeliğini en çetin meydanlarda sınayabilir.
 
 Zweihänder'in grimdark dünyasında Savaşçı olmak, hem güç hem de yük demektir. Silahını kullanma becerisi onu birçok tehlikenin önünde dimdik tutar; ama aynı beceri, onu sürekli savaşın ve ölümün eşiğinde yaşamaya mahkûm eder. Bu dünyada hiçbir zırh tam koruma sağlamaz, hiçbir kılıç ustası yenilmez değildir; bir tek kötü darbe, en deneyimli savaşçının bile sonu olabilir. Savaşçı, her çatışmada kendi ölümlülüğüyle yüz yüze gelir ve bu yüzden cesareti her gün yeniden sınanır.
+
+![gorsel](https://static.wikia.nocookie.net/pathfinder/images/2/26/364px-Agrianian3.jpg/revision/latest?cb=20101009043757)
 
 Savaşçı arketipi oynamak, dolaysız gücü, kanlı gerçekliği ve savaşın hem onurunu hem de bedelini kucaklamaktır. Bu arketip, grimdark anlatının en sert köşesinde durur; çünkü çeliğin diliyle yaşayan, çoğu zaman çeliğin diliyle de ölür. Bir Savaşçı'nın en büyük gücü kaslarında değil, çamurun ve kanın ortasında ayakta kalma iradesindedir. Onun hikâyesi, bu acımasız dünyada bazen tek dilin keskin demir olduğunu, ama o demiri taşımanın ağır bir bedel istediğini anlatır.
 

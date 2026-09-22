@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/65/Tyranid_Devourer.png/revision/latest/scale-to-width-down/900?cb=20200705044142
+
 -# THE IMPERIAL ARCHIVE · Tyranid Silahlar · Kayıt
 # Tyranid Devourer
 

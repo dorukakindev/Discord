@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/58/Stormsurge4.jpg/revision/latest?cb=20170325230059
+
 -# THE IMPERIAL ARCHIVE · Tau Araclari · Kayıt
 # Stormsurge
 

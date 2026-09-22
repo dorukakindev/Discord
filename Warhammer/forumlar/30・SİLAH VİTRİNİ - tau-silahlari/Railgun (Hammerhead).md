@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/66/Railgun2.jpg/revision/latest?cb=20120927025631
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Railgun (Hammerhead)
 

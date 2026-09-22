@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/1073_eldar.titan.jpg/revision/latest?cb=20130315225048
+
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Revenant Titan
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/cryptidz/images/6/62/Arboreal_Abomination.jpg/revision/latest/scale-to-width-down/675?cb=20230323202923
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # The Abomination — İğrenç, Bedeni Bozulmuş Aydınlanmış
@@ -14,6 +16,8 @@ Abomination (İğrenç), Kult'un dört Aydınlanmış arketipinden biridir ve be
 Abomination'ın laneti, içsel bir farkındalıkla yetinmez; et ve kemikte kendini gösterir. Bedeni yavaş yavaş bozulur, insanî biçimini yitirir ve içindeki canavar dışarı sızmaya başlar. Bu, Kult'un en temel fikirlerinden birinin cisimleşmiş hâlidir: gerçeği görmek bedava değildir, ve insanın gizli doğasını hatırlamak çoğu zaman onu insanlıktan koparır. Abomination, aynaya baktığında artık tanımadığı bir şey görür; ve diğerleri de ona baktığında gördükleri şeyden ürker.
 
 Bu dönüşüm, Abomination'ı korkunç bir yalnızlığa mahkûm eder. Taşıdığı güçler onu sıradan tehlikelerin ötesine geçirir, ama aynı güçler onu insan topluluğundan dışlar. Sevdiği insanlarla bağ kurmak, normal bir hayat sürmek, hatta kendi yansımasıyla barışmak giderek imkânsızlaşır. O, iki dünya arasında sıkışmıştır: artık tam bir insan değildir, ama Yanılsama'nın ardındaki varlıklardan da biri olmamıştır. Bu arada kalmışlık, onun varoluşunun çekirdeğidir.
+
+![gorsel](https://static.wikia.nocookie.net/cryptidz/images/6/62/Arboreal_Abomination.jpg/revision/latest/scale-to-width-down/675?cb=20230323202923)
 
 Kult'un kişisel korku temasında Abomination, bedensel dehşetin ve kimlik kaybının en saf temsilidir. Onun hikâyesi, gücün ve bilginin nasıl bir lanete dönüşebileceğini sorar: hatırlamak uğruna kendi etini, kendi yüzünü, kendi insanlığını kaybetmeye değer mi? Abomination her gün bu soruyla yaşar ve verdiği her cevap, onu kâbusun biraz daha derinine çeker. O, Aydınlanma'nın ödenmesi gereken en ağır bedellerinden birini taşıyan, hem korkunç hem de derinden acınası bir figürdür.
 

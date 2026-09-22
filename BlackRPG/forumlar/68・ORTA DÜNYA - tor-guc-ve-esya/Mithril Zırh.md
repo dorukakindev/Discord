@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/f/fe/Mithrilrop.png/revision/latest/scale-to-width-down/703?cb=20260128101942
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Mithril Zırh — Bilbo's Mithril-coat
@@ -16,6 +18,8 @@ Bu zırh, Erebor Seferi'nden çok önce genç bir Elf prensi için dövülmüşt
 Gimli'nin deyişiyle 'krallara layık bir armağan' olan bu zırhın değeri, tüm Shire'ın değerinden fazlaydı. Bilbo, sıradan görünüşlü gömleğin altında, farkında bile olmadan bir krallık değerinde hazine taşıyordu. Zırhın görünüşü mütevazıydı; gerçek değeri yalnızca onu tanıyanlar için belliydi.
 
 Bilbo zırhı, Ayrıkvadi'de yeğeni Frodo'ya verdi ve Frodo onu Hüküm Dağı yolculuğu boyunca giysisinin altında gizlice taşıdı; zırh o kadar inceydi ki dışarıdan varlığı belli olmazdı. Zırhın gerçek değeri Moria'da, Mazarbul Odası'ndaki çatışmada ortaya çıktı: bir mağara trolünün mızrağı Frodo'ya tüm gücüyle saplandığında, mithril gömlek darbeyi tamamen durdurdu ve onu ölümden kurtardı. Yanındakiler bile Frodo'nun öldüğünü sanmış, Aragorn bile darbenin ölümcül olduğunu düşünmüştü.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/f/fe/Mithrilrop.png/revision/latest/scale-to-width-down/703?cb=20260128101942)
 
 Zırh, görevin sonraki aşamalarında da Frodo'nun canını korudu. Cirith Ungol Kulesi'nde orklar Frodo'yu yakaladığında, mithril gömleği fark edip onun değerli bir tutsak olduğunu anladılar ve bu zırh yüzünden aralarında kavga çıktı; bu kavga, dolaylı olarak Sam'in efendisini kurtarmasına yardımcı oldu. Görünüşte hafif ve sıradan bir gömlek olan bu zırh, küçük bir bedeni en ölümcül darbelerden koruyabilen, eşsiz ve paha biçilmez bir koruma sağlamıştır.
 

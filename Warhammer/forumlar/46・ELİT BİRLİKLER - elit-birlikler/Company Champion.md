@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/db/WS_Company_Champion.png/revision/latest/scale-to-width-down/683?cb=20130822171435
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Company Champion
 *Bölük Şampiyonu, Komutanın Kalkanı ve Düello Ustası*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/planescape/images/9/9a/Market_Ward_map.jpg/revision/latest/scale-to-width-down/792?cb=20220202183741
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # The Market Ward — Çarşı Mahallesi, Evrenin Pazaryeri
@@ -13,6 +15,8 @@ Sigil'in ticaret merkezi ve en kozmopolit bölgesi; Bytopia gıdasından Pandemo
 Çarşı Mahallesi (the Market Ward), Sigil'in ticaret merkezi ve şehrin en kozmopolit bölgesidir. Fiziksel olarak bazı mahallelerden küçük olsa da, finansal önemi onu komşusu Guildhall Ward'dan ayrı tutar. Yeterince jink'i (para) olan biri, burada neredeyse her şeyi bulabilir: Bytopia'dan sıradan yiyecekler, Pandemonium'dan bir howler kafatası, Acheron'dan kara buz parçaları. Fiyatlar, o an hangi planar geçitlerin aktif olduğuna göre sürekli dalgalanır; mahalle, evrenin tüm düzlemlerinin tek bir pazarda buluştuğu canlı bir kavşaktır.
 
 Mahalleye Büyük Pazar (Great Bazaar) hâkimdir, ama kalıcı dükkânlar, tezgâhlar ve sokak köşesi satıcıları her yana yayılır. Çarşı Mahallesi, Sigil'in yalnızca egzotik planar malların değil; ilaç, gıda, giyim, alet ve ulaşımın da başlıca kaynağıdır. Fraksiyon karşıtı fraksiyon Free League (Indep'ler), bu mahalleyle en çok özdeşleşen gruptur; Büyük Pazar onların gayriresmî karargâhı işlevi görür ve üyeler burada otomatik indirimler ile bilgi toplarken iki kat etkinlik kazanır.
+
+![gorsel](https://static.wikia.nocookie.net/planescape/images/9/9a/Market_Ward_map.jpg/revision/latest/scale-to-width-down/792?cb=20220202183741)
 
 Mahallenin havası uğultulu ve gürültülüdür; sokak köşelerinde gösteri yapanlar, vaaz veren teologlar, çalan müzisyenler ve yüzlerce yabancı dilde mallarını haykıran satıcılar bir aradadır. Burası, Sigil'in farklı dünyalardan gelen halklarının birbirine karıştığı, ekonomik can damarının attığı yerdir; bir tiefling tüccarın yanında bir githzerai bilgini, bir bariaur tüccarın karşısında bir modron pazarlık eder. Çarşı Mahallesi, tam da bu çeşitliliği yüzünden, Sigil'in evrenler arası kavşak olduğu gerçeğinin en görünür kanıtıdır.
 

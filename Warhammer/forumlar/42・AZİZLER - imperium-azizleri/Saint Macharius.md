@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/Lord_Solar_Macharius.jpg/revision/latest?cb=20111020044308
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Macharius
 *Aziz Macharius (Lord Solar)*

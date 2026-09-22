@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/e/e9/LogoVTESDementation.png/revision/latest?cb=20191116214457
+
 -# THE BLACK RPG ARCHIVE · VAMPIRE: THE MASQUERADE · Kayıt
 
 # Dementation — Çılgınlık Aşılama, Aklın Çözülüşü
@@ -13,6 +15,8 @@ Malkavian klanının imzası olan zihinsel disiplin; kurbanlara delilik aşılay
 Dementation, Vampire: The Masquerade'in en rahatsız edici ve en benzersiz klan disiplinlerinden biridir; çılgınlığın klanı Malkavian'ın imzasıdır. Bu disiplin, delilik aşılama sanatıdır; bir Malkavian, kurbanının zihnine, sözleri ve varlığıyla yavaşça delilik, takıntı ve çözülme tohumları ekebilir. Malkavian'lar zaten doğuştan deli olduklarından, çılgınlığı herkesten iyi anlarlar; ve Dementation, onların kendi lanetlerini bir silaha dönüştürme biçimidir. Bu, sıradan bir zihin kontrolü değil, çok daha sinsi ve çok daha ürkütücü bir şeydir.
 
 Dementation'ın güçleri, kademeli olarak bir kurbanın aklını çözer. Düşük seviyelerde, bir Malkavian kurbanına huzursuzluk, paranoya ya da geçici takıntılar aşılayabilir; sözleri, kurbanın zihninde tuhaf ve rahatsız edici düşünceler uyandırır. Daha ileri seviyelerde, vampir bir kişiyi ya da koca bir kalabalığı tam bir çılgınlığa ve paniğe sürükleyebilir; bir odadaki herkesi, kontrolsüz bir histeri ya da dehşet nöbetine kaptırabilir. En usta Malkavian'lar, bir kurbanın zihnini öyle ustaca çözer ki, kurban kendi aklını yitirdiğini fark bile etmez.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/e/e9/LogoVTESDementation.png/revision/latest?cb=20191116214457)
 
 Dementation'ın en tuhaf ve en derin yönü, çılgınlığın aynı zamanda bir kapı olmasıdır; bir Malkavian, kurbanına delilik aşılarken, aynı zamanda ona gizli gerçekleri ve sırları da sezdirebilir. Malkavian'ların inancına göre, akıl sağlığı bir perdedir; ve onu yırtmak, perdenin ardındaki korkunç ama gerçek dünyayı açığa çıkarır. Bu yüzden Dementation, hem bir silah hem de tuhaf bir aydınlanma biçimidir. Dementation, Vampire: The Masquerade'de çılgınlığın hem yıkıcı hem de aydınlatıcı gücünü temsil eder; bir vampirin, başkalarının zihnini çözebileceğini, ve deliliğin, bazen aklın asla göremediği gerçeklere açılan bir kapı olabileceğini gösterir.
 

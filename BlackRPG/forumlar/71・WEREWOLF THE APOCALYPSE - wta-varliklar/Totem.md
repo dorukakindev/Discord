@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/6/6f/GlyphTotem.png/revision/latest?cb=20180718040431
+
 -# THE BLACK RPG ARCHIVE · WEREWOLF: THE APOCALYPSE · Kayıt
 
 # Totem — Totem, Rehber ve Güç Bağışlayan Ruh
@@ -12,6 +14,8 @@ Bir kabileye, Sept'e ya da gruba rehberlik eden ve güç bağışlayan ruh varl�
 Totem, Werewolf: The Apocalypse evreninde bir kabileye, bir Sept'e ya da bir gruba rehberlik eden ve onlara güç bağışlayan ruh varlığıdır; kurt insanların ruh dünyasındaki kutsal hâmisi ve yol göstericisi. Garou, doğaları gereği hem ete hem ruha ait varlıklardır, ve bu ruhsal bağın en derin biçimlerinden biri totemlerle kurulan ilişkidir. Bir totem, soyut bir sembol değil, gerçek ve güçlü bir ruhtur; bir hayvanın, bir doğa gücünün ya da bir kavramın özünü taşıyan, kendi iradesi ve karakteri olan bir varlıktır. Garou onunla bağ kurduğunda, hem bir rehber hem de bir güç kaynağı edinir.
 
 Her Garou kabilesinin kendi totemi vardır, ve bu totem kabilenin karakterini, değerlerini ve gücünü derinden belirler. Falcon, adalet ve liderlik ruhuyla bir kabileye yol gösterir; Fenris, savaş ve cesaretin amansız gücünü taşıyan kurt ruhuyla savaşçı bir kabileyi besler; Rat, kurnazlık, hayatta kalma ve kalabalıkların ruhuyla başka bir kabileyi yönlendirir. Bu totemler yalnızca isimler değil, kabilenin ruhsal kimliğinin kaynağıdır; bir kabilenin nasıl savaştığını ve nelere değer verdiğini büyük ölçüde totemi belirler. Kabile totemine ek olarak, küçük gruplar da kendi grup totemlerini seçebilir.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/6/6f/GlyphTotem.png/revision/latest?cb=20180718040431)
 
 Totemle kurulan bağ, karşılıklı bir ilişkidir; tek yönlü bir armağan değil, bir anlaşmadır. Totem, bağlı olduğu Garou'lara güç, özel yetenekler, korunma ve bilgelik bağışlar; onları ruh dünyasında destekler. Ama karşılığında bir şeyler de ister. Her totemin belirli değerleri ve yasakları vardır; bağlı olanlar bu değerleri korumak, totemin onurunu yüceltmek ve onun koyduğu sınırlara uymak zorundadır. Bir totemin yasağını çiğnemek ya da değerlerine ihanet etmek, bağın zayıflamasına, hatta kopmasına yol açabilir. Bu yüzden totemle ilişki, Garou için hem bir güç hem bir sorumluluktur.
 

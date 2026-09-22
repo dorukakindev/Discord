@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/9/95/The_Path_of_Paradox_-_VTES.jpg/revision/latest?cb=20180416060322
+
 -# THE BLACK RPG ARCHIVE · VAMPIRE: THE MASQUERADE · Kayıt
 
 # Cennet Yolu — Path of Paradox, Çelişkide Anlam Bulanlar
@@ -11,6 +13,8 @@ Ravnos klanının çoğunun izlediği yol; takipçileri, Kindred'ın evrenin yan
 ## Kayıt
 
 Cennet Yolu, Vampire: The Masquerade'in en felsefi ve en gizemli aydınlanma yollarından biridir; göçebe ve düzenbaz Ravnos klanının çoğunluğu tarafından benimsenen bir felsefedir. Ravnos, gezgin hilebazlar, mistikler ve serseriler olarak bilinir; tehlikeli yaşamanın sanatını neşeyle kovalayan, ölümsüzlüğü bir yolculuk ve bir paradoks olarak gören vampirlerdir. Bu yol, Hindu felsefesine, özellikle de maya ve samsara kavramlarına derin bir borç taşır; bazıları, Doğu'nun Cathayan vampirlerinin çözülemez kurallarına da bir gönderme olduğunu fısıldar. Yolun iki büyük biçimi vardır: Hindistan Ravnos'ları arasında yaygın olan ve takipçilerine Rakshasa ya da Shilmulo denen kadim Mayaparisatya, ve bin yılın dönümünde genç Ravnos'lar tarafından yaratılan, Samsara olarak da bilinen modern biçim.
+
+![gorsel](https://static.wikia.nocookie.net/whitewolf/images/9/95/The_Path_of_Paradox_-_VTES.jpg/revision/latest?cb=20180416060322)
 
 Cennet Yolu'nun temel inancı, vampirlerin evrenin yanılsamalı döngüsünün, yani maya'nın dışına ebediyen kilitlenmiş olduğudur. Bu öğretiye göre, çoğu varlık samsara aracılığıyla, yani doğum ve ölümün sonsuz döngüsünde sürekli yeniden doğar; ruhları, bu döngünün içine 'dolanmış' hâldedir. Ama Kindred farklıdır: vampir, ölümsüzlüğüyle bu döngünün dışına düşmüştür, yeniden doğamaz, döngüye geri dönemez. Bu, hem bir lanet hem de tuhaf bir özgürlüktür; çünkü döngünün dışında olmak, bir vampire evrene başka hiçbir varlığın göremediği bir açıdan bakma şansı verir. Bu yolu izleyen bir vampir, kendi paradoksal varoluşuyla, yani hem var olup hem de evrenin akışının dışında kalmasıyla barışmaya çalışır.
 

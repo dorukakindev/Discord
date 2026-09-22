@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4d/Psyker.jpg/revision/latest?cb=20110728175246
+
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Soul Binding
 *Ruh Bağlama, İmparator'a Yapılan Ruhsal Bağlanma Ritüeli*

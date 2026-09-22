@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f0/T%27au_Empire_Icon.png/revision/latest/scale-to-width-down/900?cb=20230512074501
+
 -# THE IMPERIAL ARCHIVE · Xenos Dunyalari · Kayıt
 # T'au
 *T'au (Ana Dünya)*

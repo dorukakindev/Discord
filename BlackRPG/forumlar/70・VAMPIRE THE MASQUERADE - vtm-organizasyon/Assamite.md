@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/7/7a/SymbolClanBanuHaqimV5.png/revision/latest/scale-to-width-down/900?cb=20201203184536
+
 -# THE BLACK RPG ARCHIVE · VAMPIRE: THE MASQUERADE · Kayıt
 
 # Assamite — Suikastçılar, Haqim'in Çocukları

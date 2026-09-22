@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Tarosasdf.jpg/revision/latest?cb=20121028090632
+
 -# THE IMPERIAL ARCHIVE · Buyuk Seferler · Kayıt
 # Taros Seferi
 *The Taros Campaign*

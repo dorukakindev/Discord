@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Flamer.jpg/revision/latest?cb=20120715235459
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Warp Flamer
 

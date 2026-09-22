@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d6/DoomsdayMonolithModel.jpg/revision/latest?cb=20130408082258
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Obliterator Weapons
 

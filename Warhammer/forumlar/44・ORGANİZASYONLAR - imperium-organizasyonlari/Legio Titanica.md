@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Warlord_Identification_Mark.jpg/revision/latest?cb=20120729194117
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Legio Titanica
 *Titan Lejyonları (Collegia Titanica)*

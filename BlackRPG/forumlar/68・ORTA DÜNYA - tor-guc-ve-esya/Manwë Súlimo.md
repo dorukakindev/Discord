@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/b/b3/Manw%C3%AB%2C_Maureval.png/revision/latest/scale-to-width-down/589?cb=20230626230905
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Manwë Súlimo — Manwë Súlimo
@@ -14,6 +16,8 @@ Manwë Súlimo, Ainur içinde Eru İlúvatar'ın aklına en yakın olan ruhtur; 
 Havanın, rüzgârların ve göklerin tüm soluğu, Arda'yı saran perdeden en küçük esintiye dek onun egemenliğindedir. Bulutlar, fırtınalar ve gökyüzünün kuşları onun habercileridir; özellikle dev Kartallar, Manwë'nin gözleri ve elçileri olarak Orta Dünya'ya iner. Kutsanmış Diyar'da, Pelóri Dağları'nın en yükseği olan Taniquetil'in zirvesinde, Ilmarin sarayında oturur ve oradan tüm dünyayı seyreder.
 
 Valar'ın sekiz en yücesinden, Aratar'dan biridir ve onların başıdır. Melkor zincire vurulup Mandos'un salonlarına atıldığında yargıyı veren odur; çağlar sonra Melkor'un sahte tövbesine inanıp onu serbest bırakması ise Valinor'un karanlığa sürüklenmesinin yolunu açar. Bu hata, onun saf doğasının bedelidir: kötülüğü kendi içinde tanımadığı için, başkasının yalanını da geç fark eder.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/b/b3/Manw%C3%AB%2C_Maureval.png/revision/latest/scale-to-width-down/589?cb=20230626230905)
 
 Manwë'nin kalbi her zaman Eru İlúvatar'a dönüktür ve büyük kararları onun iradesini sezerek alır. Noldor'un Valinor'dan ayrılışından sonra Orta Dünya'ya doğrudan karışmaktan çekinir, çünkü Çocuklar'ın özgür iradesine saygı duyar; ancak Eärendil, iki halkın yalvarışını taşıyarak Valinor'a ulaştığında, Manwë'nin onayıyla Valar son kez harekete geçer ve Gazap Savaşı'nda Morgoth devrilir. Adaleti, sabrı ve merhameti temsil eder; gücünü asla zorbalık için kullanmaz, çünkü Arda'nın kaderinin yalnızca Eru'nun elinde olduğunu bilir. Soluğun, göklerin ve egemen bilgeliğin simgesidir.
 

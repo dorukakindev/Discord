@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Kharn.jpeg/revision/latest?cb=20121002184512
+
 -# THE IMPERIAL ARCHIVE · Ic Savaslar Katliamlar Kiyamet · Kayıt
 # Skalathrax Savaşı
 *The Battle of Skalathrax*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/InteremptorPlasmaBurnerMini.jpg/revision/latest?cb=20191211094003
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Plasma Technology
 *Plazma Teknolojisi, Tutsak Edilmiş Güneş*

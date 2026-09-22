@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/72/DomeofAngelsAssaultBaal.png/revision/latest/scale-to-width-down/900?cb=20180510015640
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Baal'ın Yıkımı
 *Devastation of Baal*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/dungeonsdragons/images/a/a4/Humans.JPG/revision/latest?cb=20100319192253
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Human — İnsan, Ravenland'ın Hırslı Çoğunluğu
@@ -12,6 +14,8 @@ Forbidden Lands'in en yaygın Kin'i; Ravenland'ın büyük bölümünü dolduran
 İnsanlar (Human), Forbidden Lands dünyasının kalbi olan Ravenland'ın en kalabalık ve en yaygın Kin'idir. Elflerin kadim ölümsüzlüğüne, cücelerin sabırlı uzun ömrüne ya da kurt-soyunun doğa içgüdüsüne sahip değildirler; onları öne çıkaran şey ham hırsları, uyum yetenekleri ve sayıca üstünlükleridir. İnsanlar kısa yaşar ama hızlı öğrenir, hızlı çoğalır ve diğer hiçbir Kin'in tutunamayacağı yerlere bile yerleşmeyi başarır. Ravenland'ın köyleri, kaleleri ve harap kasabalarının çoğu, insan elinden çıkmıştır.
 
 İnsanları tanımlayan en güçlü nitelik, değişkenlikleridir. Tek bir kalıba sığmazlar; bir insan, açgözlü bir haydut başı da olabilir, kendini bir köyü korumaya adamış bir savaşçı da, unutulmuş bir tapınağın yağmacısı da. Bu esneklik, onları hem en tehlikeli hem de en güvenilmez Kin yapar. Uzun ömürlü ırkların gözünde insanlar telaşlı, sabırsız ve fazla hırslı görünür; çünkü zamanları kısadır ve onu doldurmak için acele ederler. Bir elf bir kararı yüzyıllarca düşünebilir, ama bir insan o kararı bir mevsimde verip uygulamak ister.
+
+![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/a/a4/Humans.JPG/revision/latest?cb=20100319192253)
 
 Lanetin (Blood Mist) yüzlerce yıl boyunca dışarı çıkmayı ölümle cezalandırdığı çağda, insanlar dağınık topluluklar hâlinde, kapalı kalelerde ve köylerde hayatta kalmaya çalıştı. Bu uzun hapis döneminde pek çok eski bilgi, beceri ve soy kütüğü kayboldu; ama insanların uyum yeteneği, onları bu karanlığın içinde bile ayakta tuttu. Lanet sonunda dağıldığında, bu uzun karanlıktan en hevesle dışarı fırlayanlar yine insanlar oldu; çünkü kayıp hazineler, terk edilmiş kaleler ve yeniden kurulacak bir dünya, onların hırsına en çok hitap eden şeydi.
 

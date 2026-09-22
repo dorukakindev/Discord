@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b3/Gauntlets_of_ultramar.jpg/revision/latest?cb=20130322202129
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Gauntlets of Ultramar
 *Ultramar Eldivenleri*

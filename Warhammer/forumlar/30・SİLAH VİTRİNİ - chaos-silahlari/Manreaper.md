@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/49/Mortarion_Deathshroud.jpg/revision/latest?cb=20130125100124
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Manreaper
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Imperial_Eagle_by_DarkWristband_%281%29.jpg/revision/latest/scale-to-width-down/900?cb=20120324220955
+
 -# THE IMPERIAL ARCHIVE · Buyuk Seferler · Kayıt
 # The Scouring
 *Hainlerin Sürülmesi*

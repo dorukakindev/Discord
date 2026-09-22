@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d8/EmperorSword.jpg/revision/latest/scale-to-width-down/504?cb=20170620225136
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Emperor's Sword
 

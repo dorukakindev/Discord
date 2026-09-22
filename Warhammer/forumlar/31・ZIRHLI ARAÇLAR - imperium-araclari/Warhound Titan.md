@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Legio_Fureans_Warhounds_Paramar_V.jpg/revision/latest/scale-to-width-down/900?cb=20140415153539
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Warhound Titan
 

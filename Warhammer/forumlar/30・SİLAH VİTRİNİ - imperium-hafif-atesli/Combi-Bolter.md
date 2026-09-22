@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/TigrusPatternCombiBolter.jpg/revision/latest?cb=20170829042353
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Combi-Bolter
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d3/SeditionsGateCover.jpg/revision/latest?cb=20140709072403
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Imperial Truth
 *İmparatorluk Hakikati, Eski Sekülerizm*
@@ -7,3 +9,5 @@
 Imperial Truth (İmparatorluk Hakikati), bugünün fanatik devlet dininin tam zıttı olan, İmparator'un bizzat yaydığı eski seküler öğretidir; ateist, rasyonalist ve materyalist bir ideolojiydi. İmparator, bu hakikati Unification Wars (Birleşme Savaşları) ve Büyük Haçlı Sefer sırasında İmparatorluğun tüm dünyalarına yaydı. Öğretinin çekirdeğinde akıl, bilimin yöntemine duyulan saygı ve seküler ilerleme değerleri yatıyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d3/SeditionsGateCover.jpg/revision/latest?cb=20140709072403)

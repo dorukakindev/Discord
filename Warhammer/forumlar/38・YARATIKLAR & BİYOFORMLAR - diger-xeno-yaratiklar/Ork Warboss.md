@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/00/FeralOrks.jpg/revision/latest?cb=20090922131309
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Ork Warboss
 *Ork Savaş Patronu (Warboss)*

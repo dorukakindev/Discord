@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2a/M730029a_99060106061_tyranidhiveguard1_445x319.jpg/revision/latest?cb=20100531224700
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Hive Mind — Kovan Zihni
@@ -17,3 +19,5 @@ Kovan Zihni yaklaşırken Warp'a boğucu bir gölge yayar (Shadow in the Warp), 
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
 -# Çapraz: Warp'taki Gölge · Genestealer · Sinaps Yaratığı · Tyranid
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2a/M730029a_99060106061_tyranidhiveguard1_445x319.jpg/revision/latest?cb=20100531224700)

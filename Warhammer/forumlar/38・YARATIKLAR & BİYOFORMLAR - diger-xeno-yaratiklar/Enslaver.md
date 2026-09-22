@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Enslaver_sketch.jpg/revision/latest?cb=20100627221027
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Enslaver
 *Köleleştirici*

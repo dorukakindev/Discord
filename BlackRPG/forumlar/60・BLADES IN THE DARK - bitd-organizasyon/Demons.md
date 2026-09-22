@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/mythology/images/4/40/Feat_demons.jpg/revision/latest?cb=20220903235839
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Demons — İblisler
@@ -12,6 +14,8 @@ Güçlü, kadim ve pazarlık edilebilen ama son derece tehlikeli doğaüstü var
 İblisler, Doskvol'un doğaüstü dünyasının en güçlü ve en hesaplı dehşetlerinden biridir; vahşi ve çoğu zaman akılsız hayaletlerin aksine, kendi iradesi, derin bir zekası ve kadim amaçları olan bilinçli varlıklardır. Onlar, ölmüş insanların huzursuz ruhları değildir; çok daha eski, çok daha güçlü ve çok daha yabancı bir doğaya sahiptirler. Bir hayalet ham bir açlıkla hareket ederken, bir iblis sabırla planlar kurar, pazarlık eder ve kendi gizemli hedefleri doğrultusunda çalışır. Bu bilinç, onları hayaletlerden çok daha tehlikeli kılar.
 
 İblisleri özellikle ayrı bir kategori yapan, onlarla pazarlık edilebilmesidir. Bir iblis, doğru koşullar altında bir anlaşmaya çağrılabilir, çağırılabilir ya da onunla bir sözleşme yapılabilir. Bu varlıklar muazzam güç, yasak bilgi ya da ulaşılması imkansız avantajlar sunabilir; ve tam da bu yüzden, çaresizlikteki ya da hırstaki insanlar için baştan çıkarıcı bir kapı aralarlar. Ama bir iblisle yapılan hiçbir anlaşma masum değildir; sundukları her güç, her bilgi ve her iyilik, ağır ve çoğu zaman gizli bir bedel taşır. İblis verdiğini asla karşılıksız vermez ve istediği karşılık, çoğu zaman pazarlık anında tam olarak anlaşılamayacak kadar derindir.
+
+![gorsel](https://static.wikia.nocookie.net/mythology/images/4/40/Feat_demons.jpg/revision/latest?cb=20220903235839)
 
 İblislerle uğraşmak, ateşle oynamaktan da tehlikelidir; çünkü onlar sadece güçlü değil, aynı zamanda son derece kurnaz ve aldatıcıdır. Bir iblisin sözüne güvenmek, çoğu zaman bir tuzağa adım atmaktır; anlaşmalarının lafzı tutulsa bile, ruhu çoğu zaman çağıranın aleyhine işler. Onlar, insanın arzularını, korkularını ve zayıflıklarını okur ve bunları kendi amaçları için kullanır. Doskvol'un karanlık dünyasında iblisler, doğaüstü gücün en baştan çıkarıcı ama en ölümcül biçimini temsil eder; onlar, hayaletlerin kör açlığının ötesinde, bilinçli, hesaplı ve kadim bir kötülüğün var olduğunu ve bu kötülükle yapılan her pazarlığın, çoğu zaman ruhun kendisini rehin verdiğini gösterir.
 

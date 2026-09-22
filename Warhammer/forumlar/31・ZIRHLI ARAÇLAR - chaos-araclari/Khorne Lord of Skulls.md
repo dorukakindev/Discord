@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/23/LordofSkulls02.png/revision/latest?cb=20131006120739
+
 -# THE IMPERIAL ARCHIVE · Chaos Araclari · Kayıt
 # Khorne Lord of Skulls
 

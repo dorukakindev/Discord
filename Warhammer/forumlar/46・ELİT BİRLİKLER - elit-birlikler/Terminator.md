@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/46/Standardterminator.JPG/revision/latest/scale-to-width-down/672?cb=20140304073808
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Terminator
 *Terminatör Zırhı, En Ağır Kuşatma Savaşçısı*

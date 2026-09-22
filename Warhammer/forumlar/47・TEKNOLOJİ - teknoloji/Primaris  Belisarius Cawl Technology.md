@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/08/Archmagos_Dominus_Belisarius_Cawl.jpg/revision/latest/scale-to-width-down/900?cb=20170414203353
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Primaris / Belisarius Cawl Technology
 *Primaris Teknolojisi, Tamamlanmış Şablon*

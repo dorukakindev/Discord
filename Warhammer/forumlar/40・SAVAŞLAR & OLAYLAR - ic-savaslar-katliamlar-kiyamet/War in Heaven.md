@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/55/AnkhoftheTriarch9thEdition.jpg/revision/latest/scale-to-width-down/585?cb=20200925173557
+
 -# THE IMPERIAL ARCHIVE · Ic Savaslar Katliamlar Kiyamet · Kayıt
 # War in Heaven
 *Yıldızlardaki Savaş*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest/scale-to-width-down/900?cb=20120626222205
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Death Riders of Krieg — Krieg Ölüm Süvarileri
@@ -21,6 +23,8 @@ Başlıca silahları, üç buçuk metre uzunluğundaki patlayıcı av mızrağı
 Attilan Vahşi Süvarileri gibi, Ölüm Süvarileri de hızlı saldırı ve keşif birlikleri olarak kullanılır; düşman bozulduğunda Krieg piyadesi taze ele geçirilen mevziyi tutarken, süvariler kaçan hayatta kalanları amansızca kovalar ve bu işten kanlı bir ün kazanırlar. Krieg Ölüm Süvarileri, bir ölüm dünyasının kefaret andıyla bağlı insanını yıldırım hızında acımasız bir süvari silahına dönüştürmesinin somut halidir.
 
 ## Muharebeler
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest/scale-to-width-down/900?cb=20120626222205)
 
 - Hızlı saldırı ve keşif harekatları
 - Bozguna uğrayan düşmanın amansız takibi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/22/ArmourofFate.jpg/revision/latest/scale-to-width-down/705?cb=20170620230955
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Armour of Fate
 *Kader Zırhı (Armour Indomitus)*

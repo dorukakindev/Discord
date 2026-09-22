@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/1/1d/Goethe_Elysium_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Elysium — Yanılsama, İnsanlığın Görünmez Hapishanesi
@@ -13,6 +15,8 @@
 Elysium, Kult evreninin temel yalanıdır; içinde yaşadığımızı sandığımız, her gün uyandığımız, sıradan ve katı görünen bu dünyanın gerçek adı. Sokakları, şehirleri, yasaları, bilimi ve mantığıyla bize sarsılmaz biçimde gerçek gelen her şey, aslında bir Yanılsama'dır (the Illusion). Elysium gerçek bir yer değil, bir örtüdür; insanlığın gözlerinin önüne çekilmiş, dokusu kusursuzca işlenmiş devasa bir perdedir. Bu perdenin amacı tek bir şeydir: bizi olduğumuz şeyden, yani kendi unutulmuş ilahi doğamızdan habersiz tutmak.
 
 Kult kozmolojisine göre insanlık bir zamanlar tanrısaldı; sınırsız, özgür ve yaratıcı varlıklardık. Demiurgos adı verilen güç, bizi bu tanrısallıktan koparmak ve hükmedilebilir, uyuşuk kullara dönüştürmek için Elysium'u kurdu. Zaman, mekân, ölüm, acı ve unutuş, bu hapishanenin duvarlarıdır. İnsan, doğumdan ölüme kadar bu yanılsamanın içinde döner durur, ardındaki gerçeği asla görmeden. Bizi tutsak eden parmaklıklar demirden değil; alışkanlıktan, korkudan ve gündelik hayatın hipnotik tekrarından örülmüştür.
+
+![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/1d/Goethe_Elysium_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 
 Ama Elysium artık eskisi kadar sağlam değildir. Onu ören ve sürdüren Demiurgos kaybolmuştur; perdeyi gözeten el artık yoktur. Bu yüzden Yanılsama gitgide incelmekte, dokusunda çatlaklar belirmektedir. Travma, çılgınlık, aşırı acı, tutku ya da arınmış bir farkındalık, bireyin gözündeki perdeyi yırtabilir; ve perde bir kez yırtıldığında, insan ardındaki gerçek dünyanın dehşetini görmeye başlar. Çatlaklardan, normalde fark edemediğimiz varlıklar sızar bizi gözlemeye.
 

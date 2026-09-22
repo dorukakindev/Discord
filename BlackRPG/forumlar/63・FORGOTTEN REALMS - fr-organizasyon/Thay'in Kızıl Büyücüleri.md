@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/b/b7/Red_wizards_onslaught.png/revision/latest?cb=20220816053920
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Thay'in Kızıl Büyücüleri — Red Wizards of Thay
@@ -14,6 +16,8 @@ Thay'in Kızıl Büyücüleri (Red Wizards of Thay), Doğu Heartlands'te 'Kızı
 Örgütün yönetim yapısı, sekiz büyü okulu üzerine inşa edilmiştir. Geleneksel olarak sekiz zulkir vardı; her biri bir büyü okulundan sorumluydu ve bu zulkirler bir araya gelerek, Kızıl Büyücüler'i ve dolayısıyla Thay'in tamamını yöneten Zulkirler Konseyi'ni oluştururlardı. Bu konsey, ülkenin gerçek iktidar merkeziydi ve içindeki çekişmeler çoğu zaman açık savaşa dönüşürdü.
 
 Örgütün en belirleyici figürü, nekromansi zulkiri Szass Tam'dir; o, Thay'in en nüfuzlu Kızıl Büyücüsü ve gözlemcilerin deyimiyle ülkenin gerçek hükümdarıdır. Kendisi bir lich, yani ölümsüzlüğe ulaşmış bir nekromanttır. Yıkıcı Zulkirler Savaşı'nın (War of the Zulkirs) ardından Thay'in Naibi (Regent) olarak hüküm sürmüş; ölümsüz ordusu Kemik Lejyonu'na (Legion of Bone) komuta etmiştir. Bu savaştan sonra, Szass Tam'e hizmet eden en güçlü lich'lerden yedisi yeni zulkirler olarak atanmış; böylece Thay, fiilen ölü büyücülerin yönettiği bir ölümsüzlük ülkesine dönüşmüştür.
+
+![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/b/b7/Red_wizards_onslaught.png/revision/latest?cb=20220816053920)
 
 Kızıl Büyücüler'i sıradan büyücü loncalarından ayıran şey, büyünün onlar için bir araç değil, bir egemenlik ve kimlik biçimi olmasıdır. Thay sınırlarının dışında, kıtanın dört bir yanına kurdukları 'büyü enklavları' (enclaves) aracılığıyla büyülü eşyalar, iksirler ve hizmetler satarlar; bu ticaret ağı hem servetlerinin hem de casusluk ağlarının damarlarını oluşturur. Diğer uluslar onlardan tiksinse de mallarına muhtaçtır ve Kızıl Büyücüler bu bağımlılığı bir silah gibi kullanır. İçeride ise acımasız bir rekabet hüküm sürer; bir zulkirin gözünden düşmek, bir büyücü için çoğu zaman ölüm ya da daha kötüsü demektir. Kızıl Büyücüler, mutlak gücün ahlaki bedele aldırış etmeden peşinde koşan büyünün en karanlık kurumunu temsil eder.
 

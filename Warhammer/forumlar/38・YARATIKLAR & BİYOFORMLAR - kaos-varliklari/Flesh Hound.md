@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4e/FleshHoundofKhorne1.jpg/revision/latest?cb=20130228011443
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Flesh Hound
 

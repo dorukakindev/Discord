@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lotr/images/d/dd/Mandos.jpg/revision/latest/scale-to-width-down/720?cb=20200830232157
+
 -# THE BLACK RPG ARCHIVE · ORTA DÜNYA · Kayıt
 
 # Mandos (Námo) — Námo (Mandos)
@@ -14,6 +16,8 @@ Námo, Elfler'in onu yaşadığı yere göre andıkları adla Mandos, ölümün 
 Görevi ölülerin gözetimidir: ölen Elfler'in ruhları, bedenlerinden ayrıldıklarında onun batının kıyısındaki uçsuz Salonları'na çağrılır ve orada beklerler. Námo geçmişi ve geleceği eksiksiz bilir; hiçbir şeyi unutmaz. Yalnızca Manwë'nin ve Eru İlúvatar'ın iradesiyle kader sözlerini, 'doom' denen kıyamet hükümlerini dile getirir; kendi başına asla konuşmaz.
 
 En ünlü sözü, Mandos'un Laneti'dir: Fëanor ve Noldor, Silmaril'lerin peşinde Valinor'dan ayrılıp Alqualondë'de kendi akrabaları olan Teleri'yi katlettiklerinde, Námo onların önüne çıkıp soylarını Arda'nın sonuna dek sürecek bir kader ve ihanet zinciriyle lanetler; bu kehanet, sonraki çağlarda Noldor'un yaşadığı her felaketin gölgesinde yankılanır.
+
+![gorsel](https://static.wikia.nocookie.net/lotr/images/d/dd/Mandos.jpg/revision/latest/scale-to-width-down/720?cb=20200830232157)
 
 Yine de tümüyle acımasız değildir; soğukluğu zalimlikten değil, değişmez doğruyu olduğu gibi söyleme zorunluluğundan gelir. Beren ile Lúthien'in öyküsünde, ölen Beren'in ardından Lúthien onun Salonları'na gelip yası dolu, dünyada işitilmiş en hüzünlü şarkıyı söyler; bu şarkı Námo'nun kalbini yumuşatan tek olaydır ve Manwë aracılığıyla, Eru'nun izniyle bu çiftin ölümlü bir yaşamı paylaşmak üzere geri dönmesine izin verilir. Námo ayrıca Dagor Dagorath, yani dünyanın sonundaki Son Savaş'a dair kehanetleri de bilen Vala'dır. Eşi Vairë'nin dokumaları, onun Salonları'nda zamanın tüm öyküsünü duvarlara işler. Ölümün, hafızanın ve değişmez kaderin simgesidir; Aratar'dan biridir.
 

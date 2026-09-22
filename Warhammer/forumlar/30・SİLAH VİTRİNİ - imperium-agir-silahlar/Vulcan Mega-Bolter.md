@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ec/Avenger_Mega_Bolter.jpg/revision/latest?cb=20130126213534
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Vulcan Mega-Bolter
 

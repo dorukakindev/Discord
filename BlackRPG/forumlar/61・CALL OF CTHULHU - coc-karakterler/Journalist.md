@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/8/85/Phoenix_Heinz_Abel_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Journalist — Gazeteci, Gerçeğin Peşindeki Kalem
@@ -14,6 +16,8 @@ Journalist (Gazeteci), Call of Cthulhu'nun en hareketli ve en cesur araştırmac
 Bir Gazeteci'nin araştırmadaki gücü, hem sokak hem masa becerilerini birleştirmesinden gelir. Library Use (Kütüphane Kullanımı) ve History (Tarih) ile arka planı kazır; bir kişilerarası beceri (Fast Talk, Persuade, Charm ya da Intimidate) ile kapalı ağızları açtırır; Psychology (Psikoloji) ile kimin yalan söylediğini sezer. Art/Craft (Photography), yani fotoğrafçılık, gördüğü dehşeti kanıtlamak için elindeki en değerli araçtır; ama çoğu zaman o fotoğraflar, kimsenin inanmak istemeyeceği şeyleri gösterir.
 
 Gazeteci'nin Mitos'taki yeri özellikle tehlikelidir, çünkü o, durmayı bilmez. Bir kültün izine düştüğünde, bir kaybolmanın ardındaki sırrı araştırdığında ya da bir kasabadaki tuhaf olayları kovaladığında, geri çekilmek yerine daha da derine iner. Bu ısrarı, onu hem değerli bir araştırmacı hem de kolay bir hedef yapar. Gördükleri, akıl sağlığını (Sanity) hızla aşındırır; çünkü bir gazeteci, gerçeğe en çok yaklaşan ve bedelini en ağır ödeyen kişidir.
+
+![gorsel](https://upload.wikimedia.org/wikipedia/commons/8/85/Phoenix_Heinz_Abel_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 
 Gazeteci arketipi oynamak, gerçeği bilme hakkının ne kadar pahalı olabileceğini keşfetmektir. O, halkı uyarmak, bir haberi yazmak isterken, anlatılamayacak kadar korkunç bir gerçeğin ortasında bulur kendini. Gazeteci, Mitos'ta cesaretin ve ısrarın hem bir erdem hem de bir tuzak olduğunu temsil eder: ışık tutmak isterken karanlığın kendisine dokunduğu, susmayı reddettiği için tehlikeye en çok yaklaşan araştırmacıdır.
 
