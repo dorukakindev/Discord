@@ -1,0 +1,8 @@
+## 38・YARATIKLAR — Forum Açıklaması
+Galaksi yalnızca savaşan uygarlıklarla değil, onların yarattığı, çağırdığı ya da yanında sürüklediği varlıklarla da doludur: Warp'tan taşan daemon'lar, Hive Fleet'lerin tek bir amaç için biçimlendirdiği organizmalar, Necron mezar dünyalarında binyıllardır nöbet tutan yapay hizmetkârlar ve sayısız dünyanın yerli canavarları. Bu forum, adlandırılmış bireyler dışındaki varlık türlerinin tekil kayıtlarını barındırır. Adı olan tekil bireyler (ör. Old One Eye) `37・KARAKTERLER`, tanrısal varlıklar `41・TANRILAR` altında kaydedilir.
+
+**Alt kanallar ve kapsamları**
+- <#1551629164019458230> — Bloodletter, Plaguebearer, Horror, Daemonette gibi daemon türleri; Greater Daemon sınıfları; Chaos Spawn ve Warp'ın ürettiği diğer varlıklar. Daemon ontolojisi <#1551654107058540595> kanalına bağlanır.
+- <#1551629165411827732> — Termagant'tan Hive Tyrant'a Tyranid organizmaları ve Genestealer; dev organizmalar `31・ZIRHLI ARAÇLAR` altındaki <#1551629131161149510> ile koordineli kaydedilir.
+- <#1551629170151260261> — Canoptek construct'ları, Destroyer Cult'ları, Flayed One'lar ve Necron ordularındaki diğer varlık türleri.
+- <#1551629172386955308> — Ambull, Catachan Devil, Squig ve Kroot'un avladığı ya da evcilleştirdiği türler gibi fraksiyonlara ait olmayan ya da yardımcı rolde görülen canlılar; Ork ekosistemine ait squig ve gretchin gibi türler de burada işlenebilir.

@@ -1,0 +1,21 @@
+-# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
+# The Red Terror
+
+Red Terror, kan rengi kabuğu, dev tırpan uzuvları ve bir insanı bütünüyle yutabilecek ağzıyla anlatılan özellikle ölümcül bir Ravener'dır. Yeraltından beliren saldırılarıyla bir dünyanın savunucularını aylarca tedirgin eden bir organizma olarak kaydedilmiştir.
+
+- **Kategori:** Adlandırılmış Tyranid organizması / Ravener
+- **Fraksiyon:** Tyranids
+- **Dönem:** M41
+- **Köken:** Kaynaklarda açıklanmamıştır; bağlı olduğu filo belirtilmez.
+- **Teknik / Biyolojik Özellikler:** Yeraltında kazarak ilerleyen Ravener yapısı; kırmızı kabuk; tırpan uzuvlar ve olağanüstü geniş ağız.
+- **Bilinen Kullanıcılar / Operatörler:** Tek başına hareket eden bir avcı olarak anlatılır.
+- **Önemli Olaylar:** Devlan saldırıları.
+- **Kanon Notu:** Red Terror'ın başka dünyalardaki saldırılarla bağlantısı kaynaklarda şüphe düzeyinde kalır; doğrulanmış değildir.
+
+## Tarihçe
+
+Kaynaklara göre Eastern Fringe'deki madencilik dünyası Devlan'ın uzay limanına saldırarak çok sayıda insanı öldürmüş, püskürtülse de defalarca geri dönmüştür. Onu tünellerde avlamak için gönderilen Imperial arama ekibi geri dönmemiştir.
+
+-# Kaynaklar: *Codex: Tyranids*
+
+-# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>

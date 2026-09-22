@@ -1,0 +1,13 @@
+-# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
+# Nork Deddog
+*Sadık Ogryn Koruması*
+
+Ogryn ölçülerine göre bir dahi olan; sadakati bir Komiser'inkine, gücü bir savaş makinesine denk efsanevi muhafız.
+
+Nork Deddog, gelişmiş beyin gücünü ve devasa Ogryn kuvvetini bir Komiser'inki kadar mutlak bir sadakatle birleştiren, İmparatorluk Muhafızları'nın efsanevi bir koruyucusudur. Ogryn ölçülerine göre Nork bir dahidir; çünkü adını (ya da en azından baş harfini) yazabilir, dörde kadar sayabilir ve hatta kısa cümlelerle konuşabilir; bunlar Ogryn gelişiminde nadir, hatta benzersiz başarılardır.
+
+Yapay zihinsel geliştirme (muhtemelen Bone 'ead'lerin yaratımında kullanılan süreçle aynısı) geçirdi ve kısa sürede özel bir birimde eğitim görmeye başladı. Albay Greiss komutasındaki 2. Catachan'a atandı ve Balur'da savaştı; çabucak Albay'ın kişisel koruması olarak alındı ve savaşların sürdüğü dört yıl boyunca ikisinin birlikte görülmesi sıradan bir manzaraya dönüştü.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/8b/IG5ENork_Deddog.jpg)

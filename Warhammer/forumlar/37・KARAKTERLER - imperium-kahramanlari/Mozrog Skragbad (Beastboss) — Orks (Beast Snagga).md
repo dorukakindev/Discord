@@ -1,0 +1,21 @@
+-# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
+# Mozrog Skragbad (Beastboss) — Orks (Beast Snagga)
+
+Snaggaların av tutkusunu en uç noktasına taşıyan bir önder. Mozrog için savaş, en büyük ve en tehlikeli avın peşine düşmenin bir biçimidir; dev canavarlardan ve zırhlı araçlardan kaçmak yerine onları özellikle arar.
+
+- **Kategori:** Karakter — ork-karakterleri-2
+- **Fraksiyon:** Orks — Beast Snagga
+- **Dönem:** Era Indomitus
+- **Köken:** Galaksinin en büyük canavarlarını avlamayı yaşam amacı edinmiş Beast Snagga Ork'larının bir Beastboss'u.
+- **Teknik / Biyolojik Özellikler:** Av ganimetleri ve Snagga'lara özgü ilkel teçhizat; ayrıntılı donanımı bu kayıtta kesinleştirilmez.
+- **Bilinen Kullanıcılar / Operatörler:** Beast Snagga Ork'ları; Snagga geleneğinin öteki önderleri, örneğin Zodgrod Wortsnagga.
+- **Önemli Olaylar:** Kaynaklar onu tek bir savaştan çok Snagga'ların av seferleriyle ilişkilendirir.
+- **Kanon Notu:** Yeni bir karakter olduğundan biyografisi sınırlıdır; bu kayıt yalnızca Codex'te sabit kalan rolü aktarır.
+
+## Tarihçe
+
+Beast Snagga Ork'ları, 9th Edition döneminde Ork anlatısına eklenen, ilkel ve av odaklı bir kültür olarak tanıtıldı; Mozrog onların adlandırılmış önderlerinden biri olarak Codex'te yer aldı. Kaynaklar onu kalabalık bir Snagga savaş grubunu peşinden sürükleyen, en büyük avı arayan bir avcı olarak tasvir eder.
+
+-# Kaynaklar: *Codex: Orks — 9th Edition*
+
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091013>

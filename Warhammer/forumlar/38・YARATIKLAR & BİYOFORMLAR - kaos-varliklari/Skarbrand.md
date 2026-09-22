@@ -1,0 +1,13 @@
+-# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
+# Skarbrand
+*Skarbrand (Sürgün Edilen Bloodthirster)*
+
+Bir zamanlar en güçlü Bloodthirster olan, Khorne'a el kaldırdığı için kanatları koparılıp sürgün edilen, salt öfkeye indirgenmiş efsanevi iblis.
+
+Skarbrand, Kan Tanrısı Khorne'un Büyük İblisi (Bloodthirster) sınıfının en trajik ve en korkunç örneğidir; bir zamanlar Khorne'un en büyük generali, tüm Bloodthirster'ların en güçlüsüydü. Ama Değişim Lordu Tzeentch'in entrikalarıyla öfkesi kontrol edilemez bir düzeye kışkırtıldı ve cüretkârca, doğrudan Kan Tanrısı'nın kendisine el kaldırdı.
+
+Bu ihanetin cezası olarak Khorne, Bloodthirster'ını sonsuza dek Kan Tanrısı'nın diyarından sürdü; onu Warp boyunca fırlatıp attı. Skarbrand sekiz gün sekiz gece boyunca uçtu, tanrıların diyarları boyunca alev alev bir yıkım izi bıraktı. Düşüşü devasa bir kanyon oydu ve kanatlarını paramparça etti. Sürgünündeki öfkeli yolculuğunda Slaanesh'in İlk Sarayı'nı yıktı ve Nurgle'ın büyük Poxviathan'ını öldürdü.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/94/GuillimanSkarbrand.jpg)

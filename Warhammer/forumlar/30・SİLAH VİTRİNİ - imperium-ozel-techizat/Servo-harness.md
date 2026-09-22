@@ -1,0 +1,13 @@
+-# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
+# Servo-harness
+
+-# *Servo-Koşum (Mekanik Kollar)*
+
+Techmarine ve Tech-Priest'lerin sırtına bağlı çok kollu mekanik takım; tamir, kaynak ve savaş için servo-kol, plazma kesici ve bolter taşır. Hem atölye hem silah.
+
+
+## Teknik ve Kullanım
+Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5c/Servo_harness.jpg)

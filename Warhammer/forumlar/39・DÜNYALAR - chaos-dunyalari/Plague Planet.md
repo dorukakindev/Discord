@@ -1,0 +1,13 @@
+-# THE IMPERIAL ARCHIVE · Chaos Dunyalari · Kayıt
+# Plague Planet
+*Veba Gezegeni*
+
+Mortarion'un Daemon Prince olduktan sonra Barbarus'un suretinde şekillendirdiği iblis dünyası; sürekli vebanın hüküm sürdüğü, zehirli sislerle örtülü Death Guard üssü.
+
+Veba Gezegeni (the Plague Planet), Death Guard lejyonunun ve Daemon Primarch Mortarion'un Halkaların Gözü içindeki iblis dünyasıdır; Horus'un yenilgisinden sonra Mortarion, lejyonunu buraya getirdi ve gezegene hükmetmeye başladı. Bir iblis dünyası olarak gerçekliği sahibinin iradesine göre şekillenir; Mortarion onu, kaybettiği anavatanı Barbarus'un neredeyse bire bir suretinde yeniden yarattı.
+
+Mortarion, burada Nurgle'ın gözüne girdi; hastalıklar ve vebalarla yaptığı sayısız deneyle Çürüme Tanrısı'nın lütfunu kazandı ve sonunda tam yetkili bir Daemon Prince gücüyle ödüllendirildi. Gezegen, onun bu yeni doğasının bir yansımasıdır: sürekli vebanın norm olduğu, fetid kürenin üzerine çöken yeşilimsi miasmik bulutların, Nurgle'ın kutsamadığı her varlığa hastalık ve ölüm getirdiği bir cehennem.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e6/Plague_Planet.jpg)

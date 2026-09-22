@@ -1,0 +1,8 @@
+## 36・IG ALAYLARI — Forum Açıklaması
+Astra Militarum — eski yayınlardaki ve halk arasındaki adıyla Imperial Guard — Imperium'un sayısız dünyasından toplanan alayların oluşturduğu, galaksinin en kalabalık savaş gücü olarak anlatılan ordudur. Her alay, onu yetiştiren dünyanın iklimini, kültürünü ve yaralarını taşır: Cadia'nın Eye of Terror'a bakan kalelerinden, Krieg'in zehirli harabelerinden, Catachan'ın ölümcül ormanlarından çıkan askerler birbirinden çok farklı savaş gelenekleri geliştirmiştir. Bu forum, alayların ve alay geleneklerinin tekil kayıtlarını barındırır. Kurumun geneli <#1551753458779029565>, Cadia dünyasının kendisi <#1551812139935866891> kanalında işlenir.
+
+**Alt kanallar ve kapsamları**
+- <#1551629150803206176> — Yurt dünyası adı A–L harfleriyle başlayan alay gelenekleri: Armageddon Steel Legion, Cadian Shock Troops, Catachan Jungle Fighters, Death Korps of Krieg, Elysian Drop Troops ve benzerleri.
+- <#1551629152602431550> — Yurt dünyası adı M–Z harfleriyle başlayan alay gelenekleri: Mordian Iron Guard, Praetorian Guard, Tallarn Desert Raiders, Tanith First and Only, Valhallan Ice Warriors, Vostroyan Firstborn ve benzerleri.
+
+Militarum Tempestus, Commissariat, Ogryn ve Ratling gibi alaylar arası kurumlar veya abhuman birlikleri de ilgili harfe göre değil, kurum adının baş harfine göre bu iki kanaldan birine kaydedilir; abhuman türlerinin biyolojisi ise `48・ABHUMAN & PSİKERLER` forumunda kalır. Alay karakterleri (ör. Ursarkar Creed, Ibram Gaunt) `37・KARAKTERLER` altında kaydedilir.

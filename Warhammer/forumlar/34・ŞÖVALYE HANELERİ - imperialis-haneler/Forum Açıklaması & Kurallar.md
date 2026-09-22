@@ -1,0 +1,9 @@
+## 34・ŞÖVALYE HANELERİ — Forum Açıklaması
+Imperial Knight'lar, insanlığın yıldızlara yayıldığı kadim çağda kolonileri korumak için kurulan ve Age of Strife'ın karanlığında kendi feodal düzenini kuran Knight World'lerin mirasıdır. Her Knight suit'i bir soylu hanenin kuşaklar boyu aktarılan emanetidir; pilotu ise Throne Mechanicum aracılığıyla atalarının izlenimleriyle bağ kurar. Bu forum, bu soylu **Hane**lerin (Knight House) tekil kayıtlarını barındırır. Suit aileleri ve sınıflarının teknik bağlamı <#1551818501625483265> kanalında, Hane kültürünün geneli <#1551753465900961795> kanalında işlenir.
+
+**Alt kanallar ve kapsamları**
+- <#1551629139616727153> — Bağlılığını doğrudan Imperium'a, Golden Throne'a ve Aquila'ya yönelten Questor Imperialis haneleri (ör. House Terryn, House Griffith, House Cadmus, House Hawkshroud).
+- <#1551629141143584849> — Adeptus Mechanicus'a ve Forge World'lere bağlı Questor Mechanicus haneleri (ör. House Raven, House Taranis, House Krast, House Vulker); ayrıca Freeblade'ler ve bağlılığı tek bir kategoriye oturmayan hanelerle ilgili kayıtlar.
+- <#1551629142229778432> — Chaos'a düşmüş Knight haneleri (Dread Household'lar), Heresy'de saf değiştiren haneler ve Chaos Knight'ların Iconoclast / Infernal ayrımı. "Hain" ve "düşmüş" nitelemeleri Imperial perspektifin adlandırmasıdır.
+
+Kayıtlar Hane'nin kurumsal kimliğini merkeze alır: yurdu, bağlılığı, gelenekleri, renkleri, savaşları ve bilinen şövalyeleri. Tekil bir Knight suit'inin kendisi, kaynakta adı geçiyorsa Hane kaydının içinde anılır; ayrı bir silah veya relic kaydı gerekiyorsa `49・RELIC & EMANETLER` forumuna yönlendirilir.

@@ -1,0 +1,11 @@
+-# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
+# Lieutenant
+*Teğmen, Komutanın Sağ Kolu*
+
+Bir Space Marine bölük komutanının yardımcısı ve sağ kolu; Primaris reformuyla yaygınlaşan, bölüğün savaş esnekliğini artıran ve çoğu zaman bir yarı-bölüğe komuta eden alt-komutan.
+
+Lieutenant (Teğmen), bir Space Marine bölüğünün komuta yapısında, son dönemde giderek daha önemli bir rol üstlenen bir alt-komutandır; bölük komutanının (Captain) sağ kolu ve yardımcısıdır. Bu rütbe, eski biçiminde her zaman yaygın değildi; ama Roboute Guilliman'ın dönüşü ve Primaris Space Marine'lerin gelişiyle birlikte, bir Chapter'ın komuta düzeni yeniden yapılandırıldı. Bu reformla, her bölüğe çoğu zaman iki Teğmen atanmaya başlandı; böylece komuta, daha geniş ve daha esnek bir biçimde dağıtıldı.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/ff/ColBrom.jpg)
