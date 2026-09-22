@@ -1,40 +1,39 @@
 ### KANAL: degisiklik-gunlugu
-## Değişiklik Günlüğü: V. Cilt Denetiminden Önceki Ciltlere Düzeltmeler (1/3)
-V. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bulundu. IV. cildin sonundaki listeye ek olarak, ilgili kanallarda bu düzeltmeleri de uygulayın.
+## Değişiklik Günlüğü: VI. Cilt Denetiminden Önceki Ciltlere Düzeltmeler (1/3)
+VI. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bulundu. IV. ve V. ciltlerin sonundaki listelere ek olarak bunları da uygulayın.
 
 **Kesin hatalar**
-- **Angron'un yükselişi:** Güncel anlatıda (*Betrayer*) Angron Daemon Prince'liğe **Nuceria**'da yükselir; eski kaynaklar Armatura der. `khorne` ve `horus-heresy` (I. cilt) ile *Conqueror* kaydı Armatura'yı güncel bilgi gibi veriyor. İki anlatım birlikte belirtilmeli.
-- **`horus-lupercal` (II. cilt):** Hastur Sejanus Horus'un "akıl hocası" değildir; bir bölük kaptanı ve Mournival üyesidir.
-- **`forum-39-dunyalar` (I. cilt, Macragge kaydı):** Great Crusade öncesi Macragge'ı "kralları" değil, **iki consul** yönetiyordu (Konor ve eş consul'ü).
-- **`garviel-loken` (III. cilt):** Xavyer Jubal çavuş değil, bir Luna Wolves **kaptanıdır**.
-- **`perturabo` (II. cilt):** Forgebreaker'ın Perturabo'ya armağan edilmesi Isstvan V'ten, yani Ferrus Manus'un ölümünden **sonra** gelir. Sıra düzeltilmeli.
-- **`chaos-karakterleri-2` kaydı (Khayon):** Nefertari "Aeldari okçu" değil, **Drukhari kökenli** bir yol arkadaşıdır.
-- **`imperium-kahramanlari-2` kaydı:** Roman adı *The Fall of Damnos* değil, ***Fall of Damnos***'tur.
-- **`aeldari-karakterleri-2` kaydı (Fuegan):** "gerçekleşip gerçekleşmeyeceği kanonda açıktır" → "**açık bırakılmıştır**".
-- **`istila-ve-kusatmalar` kaydı (Hydra Cordatus):** Kuşatmanın sonucu yanlışlıkla Teknik alanına yazılmış; **Önemli Olaylar** alanına taşınmalı.
+- ***Shadowsun: The Last of Kiru's Line*:** Yazarı Justin D. Hill değil, **Braden Campbell**'dır. Geçtiği yerler: `tau-empire` (I. cilt), `tau-castes-and-septs` (II. cilt), `tau-dunyalari` ve `tau-karakterleri` kayıtları, `shadowsun` (III. cilt).
+- **`imperial-worlds` (II. cilt):** House Raven'ın yurdu "Chiros" değil, **Kolossi**'dir.
+- **`gregor-eisenhorn` (III. cilt):** Gideon Ravenor *Xenos*'un çekirdek ekibinde değildir; ilk kez ***Malleus***'ta sahneye çıkar.
+- **`tau-empire` (I. cilt):** 8th Edition *Codex: T'au Empire* 2017'de değil **2018**'de çıktı; 2017'de yalnızca Index vardı.
+- **`gabriel-seth` (V. cilt):** "Flesh Tearers'ın ayrı bir kanalı bulunmadığından" ifadesi artık geçersiz. `flesh-tearers` kanalına yönlendirilmeli.
+- **`titan-legions` (II. cilt):** Kanal listesinde olmayan "33・TITAN" göndermesi, `titan-classes` kanalına yönlendirmeyle değiştirilmeli.
+- **`chaos-fraksiyonlari` kaydı (Red Corsairs):** Kaydın sonunda başka bir kayıttan kaymış ikinci bir **Çapraz** satırı var; silinmeli.
+- **`ilk-kurulus-lejyonlari` kaydı (V Legion):** Khan'ın Webway'de peşine düştüğü akıncılar "Aeldari" değil, **Drukhari** olarak yazılmalı. Diğer kanallarla aynı terim kullanılmalı.
 ---MSG---
 ## Değişiklik Günlüğü (2/3)
-**Temkinli dile çevrilmesi gerekenler**
-- **`aeldari-pantheon` (II. cilt):** Llandu'gor adı eski (3rd Edition) kaynaklarda Nightbringer için kullanılır; 5th Edition sonrasında Flayer'ın adıdır, Nightbringer ise Aza'gorod olur. `aeldari` (I. cilt) bunu doğru anlatıyor; pantheon kanalı ona uydurulmalı.
-- **`konrad-curze` (II. cilt):** Nostramo'nun yıkımı "Great Crusade'in erken yıllarına" değil, belirsiz biçimde "Heresy'den önce"ye tarihlenmeli.
-- **`lorgar-aurelian` (II. cilt):** Emperor Colchis'e geldiğinde Magnus'un yanında bulunduğu kesin olgu gibi verilmiş; kaynaklar bu konuda tartışmalı.
-- **`sanguinius` (II. cilt):** Ruinstorm'u yalnızca Erebus'a bağlayan ifade tek yönlü. Calth ayinleri ve Shadow Crusade birlikte anılmalı (bkz. `ruinstorm`, V. cilt).
-- **`blood-angels` (I. cilt) ve `baal` (III. cilt):** Angels Sanguine'in Second Founding'e ait olduğu kesin değildir.
-- **`war-zone-charadon` (III. cilt) ve `ork-karakterleri-2` kaydı:** Snagrod'un Kantor'la doğrudan yüzleşip yaralandığı doğrulanamadı. Güvenli çekirdek, Rynn's World'den kaçıp kurtulduğudur.
-- **`great-crusade` (I. cilt):** Rangdan ile II ve XI Legion bağına dair not eksik. 2018 tarihli bir Warhammer Community *Regimental Standard* yazısı bu iki Legion'ın Rangdan seferlerine katıldığını ima eder; kayboluşlarıyla bağ ise doğrulanmamış kalır (bkz. `rangdan-xenocides`).
+**Temkinli dile çevrilmesi ya da uyumlu hâle getirilmesi gerekenler**
+- **`sadik-bolumler-2` kaydı (Red Scorpions):** Soy "bilinmiyor" deniyor; kaynaklar Chapter'ı sıkça Ultramarines'e bağlar ama tek sesle doğrulamaz (bkz. `red-scorpions`, VI. cilt). "Verant Ortys", "Zaebus Minoris" ve "Vigil" ayrıntıları doğrulanmadı.
+- **`imperial-fists` (I. cilt):** Soul Drinkers "sonraki Founding'lerde" kurulan Chapter'lar arasında sayılıyor; diğer maddeler Second Founding der. Uyumlu hâle getirilmeli.
+- **`hain-ve-kayip-bolumler` kaydı (Crimson Slaughter):** Temel anlatıda lanet, Excommunicate kararından sonra değil, **Umidia'nın hemen ardından** başlar.
+- **`tau-dunyalari` kaydı (Taros):** "Bir Elysian alayı ele geçirdiği tesiste kuşatılıp yok edildi" iddiası doğrulanamadı; genel risk anlatımıyla değiştirilmeli.
+- **`imperial-guard-alaylari-1` kaydı (Elysian):** Elysia'nın "civilised world" olduğu doğrulanamadı.
+- **`blanks-pariahs` kaydı:** "Pariah Nexus adı eski birimlere ya da blank'lere doğrudan bağlanmaz" hükmü fazla kesin; yumuşatılmalı.
+- **Siege of Vraks ile Red Corsairs:** Vraks kanalları (813–830.M41) Red Corsairs'i kuşatmada gösterir, oysa Chapter Badab War'dan (901–912.M41) sonra doğar. Bu, Forge World kaynaklarının kendi içindeki bir gerilimdir. `siege-of-vraks`, `death-korps-of-krieg` ve `istila-ve-kusatmalar` kaydına bu not eklenmeli (bkz. `red-corsairs`).
+- **`battle-of-tallarn` (IV. cilt):** "Eski kaynaklar Tallarn'ı yalnızca çöl dünyası olarak anardı" ifadesi temkinli yazılmalı.
 ---MSG---
 ## Değişiklik Günlüğü (3/3)
-- **`primarchs` (I. cilt):** Mortarion "bir savaş ağasının esiri" olarak değil, Overlord Necare'nin evlatlığı ve mirasçısı gibi büyür (bkz. `barbarus`, V. cilt).
-- **`tyrannic-wars` (II. cilt) ve `aeldari-dunyalari` kaydı:** Valedor'daki Tyranid saldırısının Leviathan'a bağlanması "çoğu özette" diye yumuşatılmalı.
-- **`fulgrim` (II. cilt) ve `chemos` (V. cilt):** Birkaç cümle neredeyse aynı; II. cilt tarafı yeniden yazılabilir.
+**Yazım ve üslup**
+- Önceki ciltlerin birçok dosyasında metin kendinden "bu arşiv", "arşiv kesinleştirmez", "ansiklopedi … sunmaz" diye söz ediyor. Bu kurala aykırıdır; yeniden düzenlemede kişisiz ifadelere çevrilmeli ("kaynaklar kesinleştirmez" gibi).
+- `c6/chemos` ve `ek/fulgrim` gibi birbirine çok yakın paragraflar yeniden yazılmalı.
 
 **`kaynak-kontrol` kuyruğuna alınacaklar**
-- Saim-Hann Farseer'ı "Anvirr Keltoc" adı (`vigilus`).
-- Drazhar'ın Yvraine'e saldırısının Saim-Hann'da geçtiği (`aeldari-karakterleri` kaydı).
-- Khayon'un Inquisition tutsağı olduğu (`black-legion`); romanlarda bu yalnızca ima düzeyindedir.
-- Lheorvine Ukris'in World Eaters kökeni.
-- Su-Kassen'in unvanı (`siege-of-terra`).
-- *Codex Supplement: Space Wolves / Black Templars — 10th Edition* ve *Codex: Drukhari — 10th Edition* başlıkları.
-- "Emperor's Peace" teriminin arşivde tek biçimde kullanılması (Astorath, Krieg ve Apothecary bağlamları).
-
-**Çapraz notu:** `calth` diye bir kanal yoktur; doğru kanal adı `battle-of-calth`'tır.
+- *The Beast Arises* dizisinin yazar eşleşmeleri: *The Last Wall* (David Annandale mi, David Guymer mı? `war-of-the-beast` ile `battle-of-phall` çelişiyor) ve *Watchers in Death*.
+- Legio Ignatum'un Imperator'u için "Magnificum Incendius" adı; Legio Metalica için "Ruin of Maedran".
+- House Terryn ve House Raven'ın renkleri (`forum-34`, `mechanicus-ve-diger-haneler` kaydı).
+- Shadowsun'ın Vior'la kökeni. Bazı özetler gençliğini Dal'yth'te geçirdiğini anlatır.
+- Snagrod'un Charadon'daki rolü (`war-zone-charadon`, III. cilt).
+- Kindred teriminin Votann için kullanımı (`forum-44`).
+- *Codex: Leagues of Votann — 10th Edition* ve *Codex: Drukhari — 10th Edition* başlıkları.
+- Forge world kişiliklerinin 2015 Skitarii ve Cult Mechanicus kitaplarıyla "geldiği" ifadesi (`skitarii`, `metalica`).
