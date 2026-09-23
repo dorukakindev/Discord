@@ -1,0 +1,8 @@
+## 33・TITAN — Forum Açıklaması
+Titan'lar, Adeptus Mechanicus'un yürüyen tanrı-makineleri; bir şehri gölgesinde bırakan, ayak sesleri Imperial askerleri için dua, düşman için kıyamet habercisi sayılan savaş makineleridir. Onları yürüten Collegia Titanica, Mechanicus'un içinde kendi geleneği, rütbeleri ve onur anlayışı olan kadim bir kurumdur. Bu forum iki tür kaydı birlikte barındırır: **Titan sınıfları** (makinenin tipi) ve **Titan Legion'ları / Legio'lar** (makineyi yürüten kurum). Forumun kendisi uzun bir makale değildir.
+
+**Alt kanallar ve kapsamları**
+- <#1551629137561522286> — Horus Heresy'de Imperium'a sadık kalan ve M41/M42'de hizmetini sürdüren Legio'lar; ayrıca Titan sınıflarının çatı kayıtları (Warhound, Reaver, Warlord, Warmaster, Imperator vb.) bu kanalda tutulur.
+- <#1551629138693980331> — Heresy'de Horus'un ve Dark Mechanicum'un safına geçen Legio'lar, onların Chaos etkisiyle değişen makineleri ve Traitor Titan'ların sonraki binyıllardaki izleri. "Hain" nitelemesi Imperial bakışın adlandırmasıdır; kayıtlarda bu perspektif belirtilir.
+
+Ork Gargant ve Stompa'ları Titan geleneğine ait değildir; `31・ZIRHLI ARAÇLAR` altındaki <#1551629127629414451> kanalında kaydedilir. Imperial Knight'lar ise `34・ŞÖVALYE HANELERİ` forumunun konusudur. Bir Legio'nun ait olduğu Forge World hakkındaki kurumsal bilgi <#1551816635839549491> ve <#1551753449878724689> kanallarıyla çapraz bağlanır.

@@ -1,0 +1,13 @@
+-# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
+# Vortex Grenade
+
+-# *Girdap Bombası*
+
+Gerçekliğin dokusunu yırtıp kalıcı bir Warp girdabı açan, İmparatorluğun en nadir ve en yasaklı silahı. Girdaba yakalanan her şey — zırh, et, ruh — varoluştan silinir.
+
+
+## Teknik ve Kullanım
+Warp'e açılan el bombası — patlama değil 'yutma': yarıçapındaki her şeyi Immaterium'a çeker; en korkulan İmparatorluk silahı. Egzotik veya kalıntı teknoloji — üretimi kaybolmuş, özel yapılmış veya inanılmaz derecede tehlikeli silahlar; kullanan taraf kadar hedefi için de risk taşırlar.
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/99/Vortex_Grenade_9th_ed.jpg)

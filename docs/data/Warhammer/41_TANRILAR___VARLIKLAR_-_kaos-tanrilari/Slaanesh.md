@@ -1,0 +1,26 @@
+-# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
+# Slaanesh
+
+Dark Prince ve Lord of Excess unvanlarıyla anılan Slaanesh; haz, aşırılık, gurur ve kusursuzluk arayışının tanrısıdır. Onun hazzı mutluluk değil, her doyumda büyüyen bir açlıktır.
+
+- **Kategori:** Chaos God
+- **Fraksiyon:** Chaos
+- **Dönem:** Fall of the Aeldari'den (genellikle M30'a yerleştirilir) Era Indomitus'a
+- **Köken:** Dört büyük Chaos God'un en genci olarak kabul edilir. Zirvesindeki Aeldari uygarlığının haz ve aşırılık kültlerinden Warp'ta biriken enerjiden doğduğu anlatılır.
+- **Bilinen Kullanıcılar / Operatörler:** Emperor's Children; Keeper of Secrets, Daemonette ve Fiend gibi daemon'lar; haz kültleri.
+- **Önemli Olaylar:** Fall of the Aeldari; Laer ve Fulgrim'in düşüşü; Era Indomitus'ta Fulgrim'in Emperor's Children'la dönüşü.
+- **Kanon Notu:** "Slaanesh kayboldu" iddiası büyük ölçüde Age of Sigmar kaynaklı bir fandom söylemidir; Warhammer 40,000 kanonunda doğrulanmamıştır.
+
+## Tarihçe
+
+Doğuşunun çığlığı Aeldari'nin çekirdek dünyalarını yuttu ve Eye of Terror'ı açtı; aynı felaket, Age of Strife'ın Warp fırtınalarını dindirerek Great Crusade'in önünü açtı. Slaanesh Aeldari panteonunun büyük bölümünü yuttu. Heresy'de Laer'de ele geçirilen daemonik kılıçla başlayan süreç Fulgrim'i ve Emperor's Children'ı ona bağladı.
+
+## Teknik / Biyolojik Özellikler
+
+Kutsal sayısı altıdır. Diyarının, tanrının sarayını çevreleyen altı daireden oluştuğu anlatılır. Doğal hasmı Khorne'dur. Cinsiyeti kaynaklarda sabit değildir. Aeldari ruhlarına özel bir iştah duyar.
+
+-# Kaynaklar: *Codex: Emperor's Children*; *Fulgrim — Graham McNeill*; *Realm of Chaos: Slaves to Darkness*; *Codex: Chaos Daemons*
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/01/MarkofSlaaneshBig.png/revision/latest?cb=20170908234238)
+
+-# İlişkili kayıtlar: <#1551754688008032321>, <#1551814105046851615>, <#1551813750305198101>, <#1551650243865477191>, <#1551813775848509482>

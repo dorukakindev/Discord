@@ -1,0 +1,11 @@
+-# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
+# Pariah Nexus Savaşı
+*The Pariah Nexus War*
+
+Büyük Yarık sonrası, Warp'ın etkisinden arınmış bir Necron bölgesinde İmparatorluk ile uyanan Necron'lar arasında verilen savaş.
+
+Pariah Nexus Savaşı, M42'de, Büyük Yarık'ın açtığı kıyamet çağında yaşanan ve İmparatorluğu en kadim düşmanlardan biriyle (uyanan Necron'larla) karşı karşıya getiren bir mücadeledir; galaksinin en tuhaf savaş bölgelerinden birinde, Warp'ın bile dokunamadığı bir sessizlik zonunda geçer.
+
+Pariah Nexus, Ultima Segmentum'daki Nephilim Sektörü'nde, devasa bir Necron pylon (sütun) dizisinin yarattığı yapay bir bölgedir; "Sessizlik Zonu" da denir. Bu pylonlar, bölgeyi tümüyle Warp'ın etkisinden yalıtır; ne psişik güç çalışır, ne iblisler girebilir, ne de Astronomican'ın ışığı ulaşır. Bu, hem bir lanet hem de stratejik açıdan paha biçilmez bir silahtır; çünkü Warp'a dayanan İmparatorluk için bu bölge bir kör nokta, Necron'lar için ise bir kale anlamına gelir.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

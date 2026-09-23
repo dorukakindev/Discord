@@ -1,0 +1,23 @@
+-# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
+# Psionik — Yol (the Way)
+
+Athas'ta evrensel zihin gücü; the Way (Yol) olarak bilinir. Herkeste en az bir 'wild talent' (vahşi yetenek) vardır. Athas tanrısız olduğundan, psionik dışa muhtaç olmayan, gezegene zarar vermeyen tek güç kaynağıdır.
+
+- **Tür:** Zihinsel güç sistemi
+- **Kaynak Sınıfı:** A
+Psionik, Athas'ta the Way, yani Yol olarak bilinen evrensel zihin gücüdür; bu kavrulmuş gezegenin belki de en kendine özgü ve en yaygın güç kaynağıdır. Diğer dünyalarda psionik nadir ve sıra dışı bir yetenek olabilir; ama Athas'ta o, varoluşun dokusuna işlemiştir. Bu dünyada doğan hemen herkeste, en azından bir 'wild talent', yani bir vahşi yetenek bulunur; bilinçsizce ortaya çıkan, çoğu zaman tek bir küçük zihinsel kıvılcım. Yol'u disiplinle çalışanlar ise bu kıvılcımı, gerçeklik üzerinde söz sahibi olacak bir kudrete dönüştürür.
+
+Yol'un en önemli özelliği, gücünü nereden aldığıdır. Arcane büyücü, gücünü çevredeki yaşam enerjisinden çeker ve bu, defiling örneğinde olduğu gibi, gezegeni yakabilir. Ama psionik öyle değildir; bir psionicist, gücünü dışarıdan değil, tümüyle kendi zihninin disiplininden ve içsel enerjisinden alır. Bu yüzden psionik, toprağı kavurmaz, hiçbir canlıya zarar vermez ve gezegeni ölüme sürüklemez. Athas gibi büyünün bir lanet hâline geldiği bir dünyada, Yol; temiz, çevreye zararsız ve dışa muhtaç olmayan tek büyük güç kaynağıdır. Bu da onu hem güvenli hem de saygın kılar.
+
+---
+
+Yol'un alanı son derece geniştir. Bir psionicist, başkalarının zihnine dokunabilir (telepati), nesneleri düşünceyle hareket ettirebilir (telekinezi), kendi bedenini olağanüstü biçimde kontrol edebilir, uzak mesafelere ışınlanabilir ya da geleceğe dair sezgiler edinebilir. Athas'ta psionik, soyluların da kölelerin de, savaşçıların da ruhbanların da erişebileceği bir güçtür; bu yönüyle toplumun her katmanına yayılmıştır. Athas'ın tanrısız bir dünya olması da Yol'un önemini artırır: tanrılardan güç gelmediği bir evrende, insan kendi zihninin gücüne yönelmiştir. Psionik, Dark Sun'da insanın dışarıya değil içeriye baktığında bulduğu kudreti temsil eder; tanrıların sessiz kaldığı, büyünün gezegeni öldürdüğü bir dünyada, zihnin kendi başına ne kadar güçlü olabileceğini gösteren saf ve temiz bir güçtür.
+
+Sihir-Psionik Karşıtlığı, Athas'ın güç yapısının kalbinde yatan temel gerilimi anlatır; bu dünyanın iki büyük güç kaynağı, arcane büyü ile psionik, neredeyse her açıdan birbirinin zıttıdır. Bu zıtlık, yalnızca mekanik bir fark değil, Dark Sun'un tüm ahlaki ve ekolojik temasını somutlaştıran derin bir karşıtlıktır. Bir tarafta, gücünü dünyadan zorla çeken büyü; diğer tarafta, gücünü kendi içinden temiz biçimde üreten zihin. Athas'ı anlamak, büyük ölçüde bu iki kaynağın çatışmasını anlamaktan geçer.
+
+---
+
+Arcane büyü, doğası gereği dışa bağımlıdır ve tehlikelidir. Bir büyücü, gücünü asla kendi içinden üretmez; onu çevredeki ekosistemin yaşam enerjisinden çeker. Bu, defiling örneğinde olduğu gibi, gezegeni yakabilir; toprağı küle çevirebilir, yaşamı söndürebilir. Büyü, Athas'ta hem güçlü hem de lanetlidir; bu yüzden korkulur, avlanır ve çoğu yerde yasaklanır. Psionik ise tam tersidir. The Way, yani Yol, gücünü dışarıdan değil, bireyin kendi disiplinli zihninden alır. Bir psionicist büyüsünü yaparken hiçbir toprağı yakmaz, hiçbir canlıya zarar vermez; gücü tümüyle kendi içsel kaynağından gelir. Bu yüzden psionik, Athas'ta temiz, güvenli ve saygın kabul edilir; herkeste en az bir vahşi yetenek bulunduğu için de son derece yaygındır.
+
+Bu karşıtlık, Athas toplumunun büyüye ve psioniğe bakışını şekillendirir. Sıradan bir insan, bir psionicistten korkmaz; ama bir büyücüyü, özellikle bir defiler'ı görünce dehşete kapılır, çünkü büyü çoğu zaman yıkımla, ölümle ve gezegenin azabıyla özdeşleşmiştir. Yine de en korkutucu güçler, bu iki kaynağı birleştirenlerden gelir; sihirbaz-krallar, hem büyünün hem de psioniğin ustalarıdır ve bu iki gücü birleştirerek neredeyse tanrısal bir kudrete ulaşmışlardır. Sihir-Psionik Karşıtlığı, Dark Sun'da gücün doğasının ahlakla iç içe geçtiğini gösterir; aynı sonuca ulaşan iki yoldan birinin dünyayı yakarken diğerinin ona dokunmadığını, ve Athas'ın trajedisinin büyük ölçüde insanların hangi yolu seçtiğiyle ilgili olduğunu anlatan, derin bir ekolojik ve felsefi gerçektir.
+-# Kaynaklar: Dark Sun Boxed Set (TSR, 1991); Prism Pentad (Troy Denning); Dark Sun Campaign Setting 4e (2010)

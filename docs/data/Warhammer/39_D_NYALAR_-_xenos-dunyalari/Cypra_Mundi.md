@@ -1,0 +1,27 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723
+
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723)
+
+-# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+
+# Cypra Mundi — Cypra Mundi
+
+Galaksinin kuzey ucundaki dev Forge World; Segmentum Obscurus'un başlıca donanma ve askeri üssü (Segmentum Fortress), Halkaların Gözü cephesinin lojistik kalbi.
+
+- **Tür:** Forge World
+- **Fraksiyon:** Imperium
+- **Importance:** Segmentum Obscurus'un Segmentum Kalesi ve Forge World'ü
+- **System:** Segmentum Obscurus (galaksinin kuzey kenarı)
+- **Kanon Sınıfı:** A — resmî kaynak
+
+## Kayıt
+
+Cypra Mundi, Adeptus Mechanicus'a ait büyük bir Forge World ve aynı zamanda Segmentum Obscurus'un başlıca İmparatorluk donanma ve askeri üssüdür; yani bir "Segmentum Fortress"tir. Halkaların Gözü'nü de içine alan bu devasa segmentum'un savunması ve lojistiği, büyük ölçüde buradan yönetilir. Galaksinin kuzey ucunda, fringe'inde yer alır.
+
+Bir Forge World olarak Cypra Mundi, devasa bir sanayi ve üretim merkezidir; İmparatorluğun savaş makinesini besleyen silah, mühimmat ve gemiler burada üretilir. Ama asıl stratejik önemi, askeri rolünden gelir; Segmentum Obscurus'taki İmparatorluk donanmasının (Navis Imperialis) geleneksel merkezidir. Donanma subayları genellikle Cypra Mundi'nin aristokrasisi arasından seçilir; gezegen, segmentum'un askeri kültürünün ve komuta zincirinin kalbidir.
+
+Cypra Mundi, aynı zamanda Collegium Analytica'nın anavatanıdır; bu kurum, devam eden İmparatorluk askeri gelişmeleri üzerine metinler yayımlar ve donanma stratejistlerini eğitir. Gezegenin savunması, yörüngesindeki altı ila sekiz devasa savunma kalesinden oluşan bir halka ile sağlanır; Göz'ün gölgesindeki bir bastiyon olarak, sürekli bir teyakkuz halindedir.
+
+Cypra Mundi, İmparatorluğun en tehlikeli sınırlarından birinin (Halkaların Gözü cephesinin) lojistik ve askeri omurgasının somut halidir; Cadia ön cephede dururken, arkasında Cypra Mundi tüm bir segmentum'un savaş gücünü besler. O, sanayi üretiminin, donanma gücünün ve stratejik komutanın tek bir gezegende birleştiği, Kaos'a karşı insanlığın kuzey kalkanını ayakta tutan bir Segmentum kalesidir.
+
+-# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

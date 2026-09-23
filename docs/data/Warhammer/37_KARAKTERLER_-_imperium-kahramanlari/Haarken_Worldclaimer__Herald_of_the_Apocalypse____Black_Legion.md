@@ -1,0 +1,21 @@
+-# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
+# Haarken Worldclaimer (Herald of the Apocalypse) — Black Legion
+
+Warmaster'ın saldırıya geçeceği dünyaların düşüşünü önceden ilan eden bir kıyamet sesi. Sıçrama düzeneğiyle cephelerde dolaşır; görevi yalnızca savaşmak değil, savunucuların direncini korku ve kehanetle kırmaktır.
+
+- **Kategori:** Karakter — <#1551629155446292490>
+- **Fraksiyon:** Heretic Astartes — Black Legion
+- **Dönem:** Great Rift sonrası / Era Indomitus
+- **Köken:** Black Legion'da Abaddon'ın habercisi rolünü üstlenen Chaos lordu; kişisel geçmişi kaynaklarda sınırlıdır.
+- **Teknik / Biyolojik Özellikler:** Sıçrama düzeneği; Helspear adlı mızrak; pençe silahı.
+- **Bilinen Kullanıcılar / Operatörler:** Black Legion; efendisi Abaddon.
+- **Önemli Olaylar:** Vigilus seferi.
+- **Kanon Notu:** Haarken yeni bir figürdür ve anlatıdaki rolü görece dardır; ayrıntılar sonraki yayınlarda gelişebilir.
+
+## Tarihçe
+
+*Vigilus Ablaze*'in anlattığı Vigilus seferinde tanıtıldı; Abaddon'ın gezegene saldırısı sırasında Worldclaimer, düşeceğini ilan ettiği dünyanın cephelerinde dolaştı. Vigilus'un düşmemesi, bu ilanların her zaman gerçekleşmediğini gösterir.
+
+-# Kaynaklar: *Vigilus Ablaze*; *Codex: Chaos Space Marines*
+
+-# İlişkili kayıtlar: <#1551811342405599345>, <#1551638958352506881>, <#1551809601207533690>

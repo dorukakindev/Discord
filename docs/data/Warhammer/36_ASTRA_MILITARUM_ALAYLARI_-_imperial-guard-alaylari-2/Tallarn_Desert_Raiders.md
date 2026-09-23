@@ -1,0 +1,15 @@
+-# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
+# Tallarn Desert Raiders
+
+-# *Tallarn Çöl Akıncıları*
+
+Virüs bombasıyla çöle çevrilmiş Tallarn'ın akıncıları; çöl ve hızlı zırhlı savaşın ustaları.
+
+## Tarihçe
+Tallarn Çöl Akıncıları, Segmentum Tempestus'taki ikili yıldız sistemine ait sert bir çöl dünyası olan Tallarn'dan gelir. Bu gezegen, Horus Sapkınlığı sırasında Iron Warriors hain lejyonunun yörüngeden yağdırdığı virüs bombalarıyla biyosferini tümüyle yitirmiş ve yaşanmaz bir çöle dönmüştü.
+
+Tallarn Muharebesi, kurgudaki en büyük zırhlı çarpışmalardan biri olarak tarihe geçti; sayısız tank, gezegenin kavurucu kumlarında karşı karşıya geldi. Bu felaketten yaklaşık yirmi yıl sonra resmi Tallarn Çöl Akıncıları alayları kuruldu ve çöl savaşı ile yüksek hareketli zırhlı harekat alanında uzmanlaştılar.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5b/TallarnDR.jpg)

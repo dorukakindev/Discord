@@ -1,0 +1,21 @@
+-# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
+# Fleshborer
+
+Bir Tyranid'in koluna tutunan ya da onunla bütünleşen, içinde etobur böcekler barındıran canlı bir silahtır. Ateşlendiğinde bu "borer" böcekleri hedefe fırlatılır; kurbanın etine gömülerek içini kemirirler ve kısa ömürleri de bu saldırıyla tükenir.
+
+- **Kategori:** Symbiote silah organizması — <#1551629122592182382>
+- **Fraksiyon:** Tyranids
+- **Dönem:** M41'in ikinci yarısından Era Indomitus'a
+- **Köken:** Hive Mind'ın biyolojik tasarımıdır; mekanik bir üretim söz konusu değildir.
+- **Teknik / Biyolojik Özellikler:** Silah bir yuva organizmadır; mühimmatını kendi içinde üretir ya da barındırır. Taşıyıcısıyla sinirsel ve biyolojik bir bağ kurduğu anlatılır.
+- **Bilinen Kullanıcılar / Operatörler:** Termagant'lar ve diğer küçük Tyranid organizmaları.
+- **Önemli Olaylar:** Hive Fleet Behemoth'tan Leviathan'a kadar bütün büyük Tyranid istilaları.
+- **Kanon Notu:** Tyranid silahları canlı organizmalardır; "üretildi" ya da "monte edildi" gibi mekanik ifadeler kanona uymaz.
+
+## Tarihçe
+
+Termagant sürülerinin en yaygın silahıdır. Hive Fleet'lerin istila ettiği dünyalarda sayısız Termagant'ın fleshborer atışları, Imperium savunucularının karşılaştığı ilk ve en sürekli tehditlerden biri olmuştur.
+
+-# Kaynaklar: *Codex: Tyranids — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
