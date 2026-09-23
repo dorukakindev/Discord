@@ -1,0 +1,16 @@
+[Unit]
+Description=Lexicanum Discord bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/lexicanum
+EnvironmentFile=/opt/lexicanum/.env
+ExecStart=/usr/bin/python3 /opt/lexicanum/lexicanum.py
+Restart=always
+RestartSec=5
+User=lexicanum
+
+[Install]
+WantedBy=multi-user.target
