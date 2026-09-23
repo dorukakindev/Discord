@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/5/5d/Triticum_durum.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Durum — Condition
@@ -13,3 +15,5 @@ Karakterin fiziksel veya zihinsel olarak maruz kaldigi zararı temsil eden oyun 
 Durum, karakterlerin karşılaştıkları tehlikeler sonucunda kazandıkları zihinsel veya bedensel yük hallerini ifade eden oyun mekanik terimidir. Zihinsel durumlar arasında Öfkeli, Korkmuş ve Umutsuz yer alır; fiziksel durumlar ise Yorgun, Yaralı ve Hastalıklı gibi halleri kapsar. Her durum belirli testlere zorluk ekler veya bazı yeteneklerin kullanımını kısıtlar. Bir vaesen'le yüzleşme yalnızca beden yaralanmasına değil, kalıcı psikolojik izlere de yol açabilir. Durumlar, vaesen'in yarattığı korkunun oyundaki somut yansımasıdır.
 
 -# Kaynaklar: Vaesen core book (Free League)
+
+![gorsel](https://upload.wikimedia.org/wikipedia/commons/5/5d/Triticum_durum.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)

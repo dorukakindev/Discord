@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/7/74/Tomte.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Tomte — Tomte
@@ -16,6 +18,8 @@ Bu inanca göre Tomte, çiftliği ilk kuran atanın ya da orada yüzyıllar önc
 Tomte gece çalışır. Ahırı süpürür, hayvanları doldurur, samanlığı düzenler, tahılları kontrol eder. Sabah herkes uyandığında işler bitmiştir. Çiftlik iyi durumdaysa, hayvanlar sağlıklıysa, çocuklar kötü rüya görmüyorsa; büyük olasılıkla Tomte aktiftir ve mutludur.
 
 Onu mutlu tutmanın birinci kuralı: her gece ahıra arpa lapası bırakmak. Ama sadece lapa yetmez; lapanın tereyağı tam ortada, üstünde ve kaşığı hazır olmalıdır. Bir anlatıya göre bir çiftçi meraktan tereyağını lapanın altına koymuştu; Tomte yemeği görünce öfkeden katılaştı, en iyi atı vurarak öldürdü ve ardından kalkıp komşu çiftliğin lapasını yedi, o güzelim tereyağını gördü ve bir daha o eve dönmedi. Öç alma örüntüsü her zaman bu dengededir: anlık, sessiz ve orantısız görünen ama kendi mantığına göre adaletli.
+
+![gorsel](https://upload.wikimedia.org/wikipedia/commons/7/74/Tomte.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 
 Vaesen RPG evreninde Tomte, köyün işler gitmediğinde fısıldadığı addır. Ahırdaki tuhaf olaylar, hayvanların gece saatlerinde ürkünç hareketleri ve boyun eğmez bir at, Tomte'nin varlığının işaretleridir.
 

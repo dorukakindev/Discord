@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Academic_twitter_banner.jpg/960px-The_Academic_twitter_banner.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Akademisyen — The Academic
@@ -12,6 +14,8 @@
 Akademisyen (The Academic), Vaesen evreninin klasik bilgin arketipidir ve çoğu maceranın gerçeğe açılan kapısını o aralar. Bir üniversitede ders veren ya da kendi başına araştırma yürüten bu kişi; tarih, folklor, dil bilimi, teoloji ya da doğa bilimleri alanında derinleşmiştir. Dünyası kitaplar, el yazmaları, arşivler ve eski belgelerle doludur. Halkın masal sandığı, kilisenin günah saydığı şeyleri o ciddiye alır; çünkü eski metinlerde, unutulmuş kayıtlarda vaesen'lerin izini sürebilecek nadir zihinlerden biridir.
 
 Akademisyen'in gücü, Logic (Mantık) niteliğinde ve Learning (Öğrenim) becerisinde toplanır. Bir efsanenin kökenini, bir bölgenin gizli tarihini ya da bir yaratığın halk inancındaki yerini bilir. Investigation (Araştırma) ile arşivlerin derinine iner, çelişen kayıtları birleştirir, kimsenin dikkat etmediği bir ayrıntının aslında çözümün anahtarı olduğunu görür. Yabancı dilleri ve eski yazıları okuyabilmesi, ona başkalarının erişemeyeceği bilgilerin kapısını açar. Cemiyet için Akademisyen, dağınık ipuçlarını anlamlı bir bütüne dönüştüren beyindir.
+
+![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Academic_twitter_banner.jpg/960px-The_Academic_twitter_banner.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 
 Ama bilgi, Vaesen'de hem ışık hem de tehlikedir. Akademisyen Mitik Kuzey'in karanlık gerçeklerine en kolay ulaşan kişi olduğu için, Görü'yü (the Sight) taşımanın bedelini de en ağır ödeyenlerdendir. Çoğu zaman armağanı, bir kitapta ya da bir keşifte rastladığı, asla görmemesi gereken bir gerçekten doğar. O andan sonra okuduğu her satır, çözdüğü her yazıt, onu hem gerçeğe hem de uçurumun kenarına bir adım daha yaklaştırır. Bildikçe daha çok korkar, korktukça daha çok bilmek ister.
 

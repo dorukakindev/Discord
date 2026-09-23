@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Dino_Valente_%28Chet_Powers%29%2C_1968.jpg/960px-Dino_Valente_%28Chet_Powers%29%2C_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Powers Check — Güç Sınaması, Kara Güçler'in Dikkati
@@ -12,6 +14,8 @@ Bir karakter ağır bir kötülük işlediğinde Kara Güçler'in dikkatini çek
 Güç Sınaması (Powers Check), Ravenloft'un en özgün ve en korkutucu mekaniğidir; bir karakterin ağır bir kötülük işlediği anda, Kara Güçler'in dikkatini üzerine çekip çekmediğini belirleyen sınamadır. Bu, sıradan bir ahlak puanı sistemi değildir. Karakter bir cinayet, bir ihanet, bir işkence ya da gerçek bir kötülük eylemi gerçekleştirdiğinde, görünmez bir terazi devreye girer; ve eğer sınama başarısız olursa, o kişi yozlaşmaya doğru somut bir adım atmış olur. Kara Güçler artık ona bakmaktadır.
 
 Güç Sınaması'nın dehşeti, çoğu zaman cezalandırmıyormuş gibi görünmesindedir. Başarısız bir sınama, sıklıkla bir Kara Armağan'la, yani bir güçle ödüllendirilir; karakter daha hızlı iyileşmeye, daha keskin görmeye ya da doğaüstü bir yetenek kazanmaya başlar. Ama bu armağan, bir tuzaktır; her seferinde ruhu biraz daha lekeler, karakteri insanlıktan biraz daha uzaklaştırır ve onu Kara Güçler'e biraz daha bağlar. Yozlaşma, bir ceza gibi değil, bir baştan çıkarış gibi gelir; ve tam da bu yüzden direnmesi çok zordur.
+
+![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Dino_Valente_%28Chet_Powers%29%2C_1968.jpg/960px-Dino_Valente_%28Chet_Powers%29%2C_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 
 Tek bir başarısız sınama bir karakteri yok etmez; ama Güç Sınaması bir yokuştur, ve her başarısızlık bir adımdır. Karakter kötülüğe devam ettikçe, sınamalar tekrarlanır, lekeler birikir ve insani öz aşınır. Yeterince ileri giden biri, sonunda artık bir kahraman değil, bir canavar hâline gelir; ve bu yolun en uç noktasında, kişi tümüyle yozlaşıp Kara Güçler tarafından kendi karanlık arzularıyla biçimlenmiş bir diyara hapsedilebilir. Bu, bir Karanlık Lord'un doğuşudur. Strahd'ın bizzat kendisi, bir zamanlar bir insandı; onu Barovia'nın ölümsüz tutsağına çeviren, art arda işlediği kötülükler ve onların ardından gelen sınamalardı.
 

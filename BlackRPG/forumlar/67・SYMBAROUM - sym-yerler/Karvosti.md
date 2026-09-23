@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/shadow-of-davokor/images/5/5d/Karvosti_from_on_high.png/revision/latest?cb=20170626004908
+
 -# THE BLACK RPG ARCHIVE · SYMBAROUM · Kayıt
 
 # Karvosti — Kutsal Plato, Barbar Klanlarının Meclisi
@@ -13,6 +15,8 @@ Davokar içindeki büyük plato; barbar klanlarının toplandığı kutsal yer v
 Karvosti, Davokar'ın derinliklerinde yükselen büyük bir platodur; ormanın yoğun ve karanlık deryasının ortasında, gökyüzüne doğru kabaran bu yüksek düzlük, barbar halklarının en kutsal ve en önemli toplanma yeridir. Davokar'ın çoğu yeri tehlikeli ve düşmanca olsa da, Karvosti barbarlar için bir merkez, bir sığınak ve bir otorite noktasıdır; ormanın kalbinde, vahşi doğanın ortasında yükselen bu plato, barbar uygarlığının siyasi ve dinsel kalbini oluşturur. Yüksekliği ve kutsallığı, onu hem fiziksel hem ruhsal olarak ormanın üzerinde duran bir yer kılar.
 
 Karvosti'nin en önemli sakini, barbarların büyücü-önderi olan Huldra'dır; o, klanların manevi ve büyüsel liderliğini elinde tutan, derin bilgeliğe ve güce sahip bir figürdür. Huldra, Karvosti'de oturur ve buradan barbar halklarının ruhsal yaşamını, geleneklerini ve Davokar ile olan kutsal bağını gözetir. Onun varlığı, platoya büyük bir dinsel ağırlık katar; Karvosti, yalnızca bir toplanma yeri değil, aynı zamanda barbarların inancının, büyüsünün ve kadim bilgeliğinin merkezi olan kutsal bir mekândır.
+
+![gorsel](https://static.wikia.nocookie.net/shadow-of-davokor/images/5/5d/Karvosti_from_on_high.png/revision/latest?cb=20170626004908)
 
 Karvosti aynı zamanda Klan Meclisi'nin toplandığı yerdir; barbar dünyası, tek bir kral altında değil, farklı klanların temsil edildiği bu meclis aracılığıyla yönetilir. Klanların önderleri, önemli kararlar almak, anlaşmazlıkları çözmek ve ortak tehditlere karşı birlik olmak için Karvosti'de bir araya gelir; bu plato, barbar siyasetinin, ittifaklarının ve çekişmelerinin sahnesidir. Ambria'nın kuzeye doğru genişlemesi ve Davokar'ın hazinelerine yönelik açgözlülüğü karşısında, Karvosti barbar direnişinin ve birliğinin de bir simgesi haline gelir; klanların kaderi, çoğu zaman burada belirlenir.
 
