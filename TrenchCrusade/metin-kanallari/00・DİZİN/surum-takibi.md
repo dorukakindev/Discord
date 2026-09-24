@@ -20,7 +20,7 @@ Trench Crusade'in kanonu gelişen bir yapıdır; bu kanal arşivin sürüm disip
 - Lithuanian-Polish Commonwealth Hussars
 - Varangian Guard kalıntıları
 
-Bunlardan biri resmî yayın alırsa `degisiklik-gunlugu`'ne işlenip ana arşiv kapsamına taşınır.
+Bunlardan biri resmî yayın alırsa <#1551932384742482062>'ne işlenip ana arşiv kapsamına taşınır.
 
 ## Değişiklik Prensipleri
 Warband varyantları sürümler arasında değişebilir; liste ezberden üretilmez, her araştırmada güncel resmî belge kontrol edilir. Çelişkili kaynaklar D sınıfı olarak işaretlenir, sessizce düzeltilmez.

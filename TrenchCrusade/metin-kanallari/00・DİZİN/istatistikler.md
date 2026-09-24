@@ -6,7 +6,7 @@
 - Kategori: 18 · Metin kanalı: 62 · Forum: 57
 - Ana kayıt kanalı (A–Z): 41
 - Koleksiyon forumu: 57
-- Toplam koleksiyon kaydı: **291**
+- Toplam koleksiyon kaydı: **299**
 
 **Kapsam**
 - Silahlar & Battlekit · Zırh & Savaş Makineleri · Warband Varyantları

@@ -8,23 +8,23 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/e/e6/Site-logo.p
 Evrene giriş için önerilen sıra.
 
 ## Başlangıç (dünya)
-1. `zaman-cizelgesi` — önce kronoloji iskeleti
-2. `great-war` — savaşın doğası
-3. `act-of-ultimate-heresy` + `gate-of-hell` — kırılma anı
+1. <#1551931997050380308> — önce kronoloji iskeleti
+2. <#1551932071453401199> — savaşın doğası
+3. <#1551932010098991205> + <#1551932063278563358> — kırılma anı
 
 ## Faithful tarafı
-4. `principality-of-new-antioch` → `new-antioch` → `antioch`
-5. `trench-pilgrims` → `communicants` → `meta-christ` → `saints`
-6. `iron-sultanate` → `great-iron-wall` → `alamut` → `alchemy`
-7. `church` → `paladins` → `orichalcum-steel`
+4. <#1551932118404173885> → <#1551932099756294206> → <#1551932019800408135>
+5. <#1551932130202882048> → <#1551932041673842690> → <#1551932096598253643> → <#1551932121206226974>
+6. <#1551932085067841579> → <#1551932068831821916> → <#1551932012841930887> → <#1551932015979266071>
+7. <#1551932038121263155> → <#1551932112448520312> → <#1551932109575159871>
 
 ## Fallen tarafı
-8. `heretics` → `heretic-legion` → `death-commandos`
-9. `court-of-seven-headed-serpent` → `seven-deadly-sins` → `archdevils` → `demons`
-10. `beelzebub` → `black-grail` → `corpse-wars` → `plague`
-11. `hell` → `jerusalem` → `ekron`
+8. <#1551932082089885740> → <#1551932078826848298> → <#1551932050359980103>
+9. <#1551932047541674025> → <#1551932123571560549> → <#1551932023013122088> → <#1551932054948675644>
+10. <#1551932025928286280> → <#1551932029560430673> → <#1551932044617977951> → <#1551932115497648178>
+11. <#1551932073957261392> → <#1551932088213577760> → <#1551932057297362998>
 
 ## Savaş makinesi
-12. `warbands` → `weapons-of-great-war` → `no-mans-land` → `levant-front` → `carcass-front` → `britannia`
+12. <#1551932133281370252> → <#1551932136150269962> → <#1551932106718842950> → <#1551932094123352178> → <#1551932035050897502> → <#1551932032425394286>
 
 Koleksiyon forumları (30–41) bu iskeletin üstüne detay katmanıdır.
