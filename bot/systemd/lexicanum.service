@@ -11,6 +11,11 @@ ExecStart=/usr/bin/python3 /opt/lexicanum/lexicanum.py
 Restart=always
 RestartSec=5
 User=lexicanum
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ReadWritePaths=/opt/lexicanum/data
+ProtectHome=yes
 
 [Install]
 WantedBy=multi-user.target
