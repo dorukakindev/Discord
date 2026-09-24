@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/a/a0/Giovanni_Battista_Tiepolo_096.jpg/revision/latest/scale-to-width-down/900?cb=20260618172901
+
 -# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # The Unified Church — Birleşik Kilise — Senkretik İnanç Sistemi
