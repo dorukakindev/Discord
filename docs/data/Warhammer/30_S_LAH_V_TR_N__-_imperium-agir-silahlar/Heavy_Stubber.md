@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/58/Heavy_Stubber_unknown_pattern.jpg/revision/latest?cb=20140113055124
+https://static.wikia.nocookie.net/warhammer40k/images/5/58/Heavy_Stubber_unknown_pattern.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Heavy Stubber

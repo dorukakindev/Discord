@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/94/Incubus_Model.jpg/revision/latest?cb=20141115010708
+https://static.wikia.nocookie.net/warhammer40k/images/9/94/Incubus_Model.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Incubi

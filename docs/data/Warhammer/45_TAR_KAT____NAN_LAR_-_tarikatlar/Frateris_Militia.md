@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/85/Frateris_Militia.jpg/revision/latest?cb=20120717001116
+https://static.wikia.nocookie.net/warhammer40k/images/8/85/Frateris_Militia.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Frateris Militia

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_Dragons_Primaris_Intercessor.jpg/revision/latest?cb=20170719174211
+https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_Dragons_Primaris_Intercessor.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Rubicon Primaris

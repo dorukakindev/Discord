@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0e/AvatarGW.jpg/revision/latest?cb=20121118014723
+
 -# THE IMPERIAL ARCHIVE · Aeldari Panteonu · Kayıt
 # Kaela Mensha Khaine
 *Kanlı Eller / Savaş Tanrısı*

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Guilliman_Post-Heresy.png/revision/latest?cb=20170312223906
+https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Guilliman_Post-Heresy.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Hand of Dominion

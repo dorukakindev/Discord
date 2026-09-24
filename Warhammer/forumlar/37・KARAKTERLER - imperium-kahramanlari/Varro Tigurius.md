@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Varro_Tigurius2.jpg/revision/latest?cb=20111101212615
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Varro_Tigurius2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Varro Tigurius

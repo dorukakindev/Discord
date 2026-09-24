@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Night Lords
 

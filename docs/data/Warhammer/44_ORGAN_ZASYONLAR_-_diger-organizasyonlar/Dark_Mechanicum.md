@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Archmagos-Dray2.jpg/revision/latest?cb=20150113021027
+https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Archmagos-Dray2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Diger Organizasyonlar · Kayıt
 # Dark Mechanicum

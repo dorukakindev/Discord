@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/35/Nihilus_Vortex_Grenade.jpg/revision/latest?cb=20140603074246
+https://static.wikia.nocookie.net/warhammer40k/images/3/35/Nihilus_Vortex_Grenade.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Vortex Grenade

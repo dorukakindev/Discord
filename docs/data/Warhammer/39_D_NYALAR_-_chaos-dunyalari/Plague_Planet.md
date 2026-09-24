@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Plague_Planet.png/revision/latest?cb=20170323140301
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Plague_Planet.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Chaos Dunyalari · Kayıt
 # Plague Planet

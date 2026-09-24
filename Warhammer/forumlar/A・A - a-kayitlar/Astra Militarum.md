@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Astra Militarum
 

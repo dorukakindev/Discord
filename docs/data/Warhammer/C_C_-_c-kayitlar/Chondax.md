@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Brotherhood_of_the_Storm.jpg/revision/latest?cb=20160912113442
+
 -# THE IMPERIAL ARCHIVE
 # Chondax
 

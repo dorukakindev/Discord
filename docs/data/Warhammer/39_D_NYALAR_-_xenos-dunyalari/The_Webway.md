@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1b/WebwayGate1.jpg/revision/latest?cb=20251007160745
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # The Webway — Webway (Yıldız Yolu)

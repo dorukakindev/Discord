@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/d/d3/W5_Gauntlet_Glyph.png/revision/latest?cb=20250108051318
+
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
 # Gauntlet — Gauntlet, Madde ile Ruhu Ayıran Bariyer

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bf/RealmofChaosMap.jpg/revision/latest?cb=20181014212202
+
 -# THE IMPERIAL ARCHIVE · R Kayıtları
 # Realm of Chaos
 

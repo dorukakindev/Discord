@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Corvex_Ancient_Pattern_Jetbike.png/revision/latest?cb=20130919215015
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Corvex_Ancient_Pattern_Jetbike.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Sammael

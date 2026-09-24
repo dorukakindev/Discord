@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/30/Fire_Prisms.png/revision/latest?cb=20200409171715
+https://static.wikia.nocookie.net/warhammer40k/images/3/30/Fire_Prisms.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Fire Prism

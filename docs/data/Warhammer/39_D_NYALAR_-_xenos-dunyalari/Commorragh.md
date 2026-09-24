@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/35/DrukhariRune.jpg/revision/latest?cb=20200730184358
+https://static.wikia.nocookie.net/warhammer40k/images/3/35/DrukhariRune.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Xenos Dunyalari · Kayıt
 # Commorragh

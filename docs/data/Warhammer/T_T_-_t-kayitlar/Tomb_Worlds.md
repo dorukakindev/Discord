@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6e/NecronTombWorlds.jpg/revision/latest?cb=20170607230332
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Tomb Worlds
 

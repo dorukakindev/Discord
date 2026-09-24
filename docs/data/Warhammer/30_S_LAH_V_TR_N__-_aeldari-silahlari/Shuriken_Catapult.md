@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9a/Shuriken_catapult.jpg/revision/latest?cb=20131207013441
+https://static.wikia.nocookie.net/warhammer40k/images/9/9a/Shuriken_catapult.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Shuriken Catapult

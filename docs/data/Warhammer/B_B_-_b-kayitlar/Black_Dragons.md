@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bb/BlackDragonsBadge.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Black Dragons
 

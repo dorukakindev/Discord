@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4b/ThermalSpear.png/revision/latest?cb=20180414220557
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/ThermalSpear.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Thermal Spear

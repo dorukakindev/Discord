@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/6/64/Yoke_Fiend.jpg/revision/latest/scale-to-width-down/900?cb=20250428022813
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/6/64/Yoke_Fiend.jpg/revision/latest/scale-to-width-down/900?cb=20250428022813)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Yoke Fiend — Boyunduruk İblisi, Cehennem'in En Aşağı İşçi Güruhu
 
@@ -18,6 +18,8 @@ Boyunduruk İblisi (Yoke Fiend), Trench Crusade'de Cehennem'in en aşağı tabak
 
 Boyunduruk İblisleri, Cehennem'in işçi sınıfıdır; o karanlık imparatorluğun tüm ağır, pis ve aşağılık işlerini onlar görür. Üstlerindeki soylu iblislerin saraylarını ayakta tutan, taş ocaklarında, kulelerde ve karanlık atölyelerde çalışan emek, büyük ölçüde bu güruhun sırtındadır. Adlarındaki boyunduruk, tam da bu köleliği anlatır; onlar, Cehennem'in soylularının kaprisleri altında ezilen, sonsuz bir angaryaya koşulmuş varlıklardır. Yine de, isimlerinin çağrıştırdığı zavallılığa rağmen, fiziksel olarak hiç de küçümsenecek yaratıklar değildir.
 
+---
+
 Çünkü bir Boyunduruk İblisi, 2.5 metre boyunda, biçimsiz ve deforme olmuş kaba bir canavardır. Sefil konumlarına rağmen, devasa ve tehlikeli bedenleriyle savaş alanında ciddi bir tehdit oluştururlar. Onların acıdan ve aşağılanmadan beslenen ruhlarının tek tesellisi, kendilerinden bir basamak aşağıdakine eziyet etmektir; ezilen, bir alt basamaktakini ezerek bir nebze rahatlar. Boyunduruk İblisi, Trench Crusade'de Cehennem'in acımasız sınıf düzenini temsil eder: orada zalimlik tepeden tabana akar, en ezilen bile altındakine zulmeder, ve düşüşün en sıradan biçimi, görkemli bir lanet değil, sonsuz ve onursuz bir kölelikle yaşanır. O, kötülüğün her zaman görkemli olmadığını, çoğu zaman yalnızca sefil, kaba ve umutsuz olduğunu gösterir.
 
 ## Güçler
@@ -29,3 +31,7 @@ Boyunduruk İblisleri, Cehennem'in işçi sınıfıdır; o karanlık imparatorlu
 - Tek zevkleri, bir alt basamaktakine eziyet etmektir
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978>

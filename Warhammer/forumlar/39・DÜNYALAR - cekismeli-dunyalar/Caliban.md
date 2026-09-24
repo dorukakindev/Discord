@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Caliban_asteroid_belt.jpg/revision/latest?cb=20120319160609
+https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Caliban_asteroid_belt.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Cekismeli Dunyalar · Kayıt
 # Caliban

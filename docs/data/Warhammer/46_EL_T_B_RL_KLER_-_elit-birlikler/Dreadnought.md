@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Exploded_View_Ancient_Dreadnought.jpg/revision/latest/scale-to-width
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Dreadnought
 *Dretnot, Ölümsüz Kahramanın Savaş Lahdi*

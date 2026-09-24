@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/19/Flesh_Tearers_Livery2.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Flesh Tearers
 

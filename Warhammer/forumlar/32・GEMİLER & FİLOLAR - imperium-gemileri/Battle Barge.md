@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8d/ImperialFistsBattleBarge.jpg/revision/latest?cb=20130918080231
+https://static.wikia.nocookie.net/warhammer40k/images/8/8d/ImperialFistsBattleBarge.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Battle Barge

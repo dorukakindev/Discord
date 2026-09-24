@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/9e/Ogre_Petitioner.jpg/revision/latest
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Petitioner — Dilenci-Ruh, Ölümün Ardından Yeniden Doğan Öz

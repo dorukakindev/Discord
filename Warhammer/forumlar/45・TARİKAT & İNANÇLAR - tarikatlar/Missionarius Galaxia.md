@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Imperial_Missionary-0.png/revision/latest?cb=20180320211443
+https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Imperial_Missionary-0.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Missionarius Galaxia

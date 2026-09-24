@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/09/ZahndrekhandObyron.jpg/revision/latest?cb=20181202194253
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/ZahndrekhandObyron.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 

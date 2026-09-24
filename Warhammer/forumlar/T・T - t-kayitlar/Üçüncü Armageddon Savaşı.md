@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 # Üçüncü Armageddon Savaşı
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest?cb=20130930181411
+https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest/scale-to-width
 
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Librarian

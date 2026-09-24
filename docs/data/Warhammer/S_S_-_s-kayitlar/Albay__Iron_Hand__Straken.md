@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f2/Stracken.png/revision/latest?cb=20171119234538
+https://static.wikia.nocookie.net/warhammer40k/images/f/f2/Stracken.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · S Kayıtları · Kayıt
 # Albay 'Iron Hand' Straken

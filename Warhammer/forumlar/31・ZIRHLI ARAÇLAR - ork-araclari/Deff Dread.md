@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4a/DeffDread1.jpg/revision/latest?cb=20260705175818
+https://static.wikia.nocookie.net/warhammer40k/images/4/4a/DeffDread1.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
 # Deff Dread

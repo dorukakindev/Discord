@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Eldar_Vypers_combat.png/revision/latest?cb=20150308191833
+https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Eldar_Vypers_combat.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Vyper

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/39/Loxatl_2.jpg/revision/latest?cb=20121114210802
+
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Loxatl
 *Loxatller (Paralı Kayganlar)*

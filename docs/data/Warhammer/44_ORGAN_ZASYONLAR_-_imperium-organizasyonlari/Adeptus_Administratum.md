@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/98/Administratum_Icon.png/revision/latest?cb=20150814203214
+https://static.wikia.nocookie.net/warhammer40k/images/9/98/Administratum_Icon.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Adeptus Administratum

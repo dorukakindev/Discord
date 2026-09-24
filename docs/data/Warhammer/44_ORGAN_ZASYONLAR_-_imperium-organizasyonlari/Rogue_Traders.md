@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Rogue_Trader_Icon2.jpg/revision/latest?cb=20140526181558
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Rogue_Trader_Icon2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Rogue Traders

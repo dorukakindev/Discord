@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/44/House_Draconis.jpg/revision/latest?cb=20180614092947
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/House_Draconis.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Draconis

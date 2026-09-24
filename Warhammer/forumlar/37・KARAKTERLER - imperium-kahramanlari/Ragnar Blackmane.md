@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/19/Blood_on_the_mountain_ragnar_by_nachomolina.jpg/revision/latest?cb=20170131032247
+https://static.wikia.nocookie.net/warhammer40k/images/1/19/Blood_on_the_mountain_ragnar_by_nachomolina.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Ragnar Blackmane

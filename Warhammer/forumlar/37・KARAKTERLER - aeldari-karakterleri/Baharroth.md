@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/89/Bahharoth2_7th_Edition.png/revision/latest?cb=20141120193332
+https://static.wikia.nocookie.net/warhammer40k/images/8/89/Bahharoth2_7th_Edition.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Baharroth

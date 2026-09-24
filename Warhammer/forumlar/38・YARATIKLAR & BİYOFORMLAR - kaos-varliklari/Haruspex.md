@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Haruspex_in_action.png/revision/latest?cb=20160102183024
+https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Haruspex_in_action.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Haruspex

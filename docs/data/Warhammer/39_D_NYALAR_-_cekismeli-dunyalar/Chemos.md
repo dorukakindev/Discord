@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/24/Chemos.jpg/revision/latest?cb=20121014060942
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/Chemos.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Cekismeli Dunyalar · Kayıt
 # Chemos

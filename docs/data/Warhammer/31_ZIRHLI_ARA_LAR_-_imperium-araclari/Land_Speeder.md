@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/66/LandSpeederProteusBloodAngels.jpg/revision/latest?cb=20190413054714
+https://static.wikia.nocookie.net/warhammer40k/images/6/66/LandSpeederProteusBloodAngels.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Land Speeder

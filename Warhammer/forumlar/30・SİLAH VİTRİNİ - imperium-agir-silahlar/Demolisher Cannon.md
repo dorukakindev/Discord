@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Demolisher.JPG/revision/latest?cb=20130404193142
+https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Demolisher.JPG/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Demolisher Cannon

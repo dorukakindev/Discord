@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a8/AquilaBlack.jpg/revision/latest/scale-to-width-down/900?cb=20190630130844
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Cogitator
 *Cogitator, Kutsal Hesaplama Makinesi*

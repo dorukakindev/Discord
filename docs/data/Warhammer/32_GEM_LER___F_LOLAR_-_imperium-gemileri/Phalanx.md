@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Wallpaper-phalanx.jpg/revision/latest?cb=20120312181150
+
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 
 # Phalanx

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/87/Inquisitor_Lord_Coteaz_%26_Psyber-Eagle.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Torquemada Coteaz
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8c/SoS_Icon.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Sisters of Silence
 

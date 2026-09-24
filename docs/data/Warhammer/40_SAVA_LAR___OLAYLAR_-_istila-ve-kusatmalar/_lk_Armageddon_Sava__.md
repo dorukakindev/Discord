@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Armageddon_by_StTheo.jpg/revision/latest?cb=20100529213521
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # İlk Armageddon Savaşı
 *The First War for Armageddon*

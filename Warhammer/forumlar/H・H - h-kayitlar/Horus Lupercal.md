@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Warmaster_Horus_Remembrancer_Sketch.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Horus Lupercal
 

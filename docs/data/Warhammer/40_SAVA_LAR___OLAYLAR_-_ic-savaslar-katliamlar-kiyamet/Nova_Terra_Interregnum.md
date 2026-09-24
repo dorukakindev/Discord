@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c9/NovaTerrumInterregnum.jpg/revision/latest?cb=20180121043809
+https://static.wikia.nocookie.net/warhammer40k/images/c/c9/NovaTerrumInterregnum.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Ic Savaslar Katliamlar Kiyamet · Kayıt
 # Nova Terra Interregnum

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Legio_Custodes_Icon.jpg/revision/latest?cb=20170313165452
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Shrike
 

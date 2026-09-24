@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1b/WebwayGate1.jpg/revision/latest?cb=20251007160745
+https://static.wikia.nocookie.net/warhammer40k/images/1/1b/WebwayGate1.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Webway Gate

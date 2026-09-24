@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/34/Stormtrooper_grenades.jpg/revision/latest?cb=20130130043240
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Stormtrooper_grenades.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Frag Grenade
@@ -10,13 +10,4 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/34/Stormtrooper_grenades
 
 ## Teknik ve Kullanım
 Anti-personel şarapnel bombası — krater ve kalabalık temizliğinin standart İmparatorluk çözümü. El bombası sınıfı — tek atımlık patlayıcı cephane; siper, kalabalık, zırh veya özel hedef için her Guardsman'in kemerindeki çok yönlü cevap.
-
-## Teknik Özellikler
-- Tip: Imperium standart el bombası — şarapnel etkili anti-personel
-- Etki: patlamada yayılan metal parçacıklar yumuşak hedefleri biçer
-- Kullanım: siper temizliği, alan reddi, yakın muharebe desteği
-
-## Not
-Imperium piyade cephaneliğinin en eski parçasıdır — Astra Militarum'dan Space Marine'e kadar her kademede taşınır.
-
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

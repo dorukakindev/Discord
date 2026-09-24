@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Red_Corsairs_SP.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE · R Kayıtları
 # Red Corsairs
 

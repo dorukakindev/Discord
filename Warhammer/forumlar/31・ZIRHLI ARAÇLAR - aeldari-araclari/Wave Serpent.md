@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Wave_Serpents.png/revision/latest?cb=20210207143912
+https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Wave_Serpents.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Wave Serpent

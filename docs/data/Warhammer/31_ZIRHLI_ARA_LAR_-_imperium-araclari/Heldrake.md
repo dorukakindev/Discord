@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/02/Heldrake05.jpg/revision/latest?cb=20130321060127
+https://static.wikia.nocookie.net/warhammer40k/images/0/02/Heldrake05.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Heldrake

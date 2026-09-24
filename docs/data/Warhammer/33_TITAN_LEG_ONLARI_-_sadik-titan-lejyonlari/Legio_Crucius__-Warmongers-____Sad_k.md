@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Legio_Crucius.jpg/revision/latest?cb=20111018231640
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Crucius
 

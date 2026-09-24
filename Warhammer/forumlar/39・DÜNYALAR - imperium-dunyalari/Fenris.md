@@ -1,8 +1,8 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/48/Fenris_updated.png/revision/latest?cb=20140810043624
+https://static.wikia.nocookie.net/warhammer40k/images/4/48/Fenris_updated.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Fenris
+# Fenris — Fenris
 
 Space Wolves'un buzul ölüm dünyası; dev krakenler, fırtınalar ve acımasız kışlarla dolu.
 

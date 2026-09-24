@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d1/LoD_SP.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Legion of the Damned
 

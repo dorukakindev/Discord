@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Commander_Farsighta.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Commander Farsight
 

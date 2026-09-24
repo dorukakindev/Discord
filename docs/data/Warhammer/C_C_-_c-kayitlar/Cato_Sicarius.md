@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/10/Cato_3.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Cato Sicarius
 

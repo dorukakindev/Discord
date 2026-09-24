@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Palatine_Aquila.jpg/revision/latest/scale-to-width-down/900?cb=20121019223803
+
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 
 # Bucephelus

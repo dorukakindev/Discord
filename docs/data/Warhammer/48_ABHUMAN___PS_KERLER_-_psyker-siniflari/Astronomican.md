@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/71/Astronomican1.jpg/revision/latest?cb=20200625221719
+https://static.wikia.nocookie.net/warhammer40k/images/7/71/Astronomican1.jpg/revision/latest/scale-to-width
 
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Astronomican

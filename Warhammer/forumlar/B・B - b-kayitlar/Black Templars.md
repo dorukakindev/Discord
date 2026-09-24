@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Black_Templars_Badge.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Black Templars
 

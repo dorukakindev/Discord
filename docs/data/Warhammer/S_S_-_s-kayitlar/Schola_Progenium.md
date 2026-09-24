@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1a/Drill_Abbot.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Schola Progenium
 

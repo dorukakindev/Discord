@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/51/Ordo_Sicarius_Initiate.jpg/revision/latest?cb=20121114092156
+https://static.wikia.nocookie.net/warhammer40k/images/5/51/Ordo_Sicarius_Initiate.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Ordo Sicarius

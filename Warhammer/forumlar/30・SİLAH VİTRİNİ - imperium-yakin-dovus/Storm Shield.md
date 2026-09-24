@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Warrior_Inquisitor.jpg/revision/latest?cb=20110404052712
+https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Warrior_Inquisitor.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Storm Shield

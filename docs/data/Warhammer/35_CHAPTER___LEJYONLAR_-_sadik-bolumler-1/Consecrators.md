@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Consecrator%27s_Chapter_Badge.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Consecrators
 

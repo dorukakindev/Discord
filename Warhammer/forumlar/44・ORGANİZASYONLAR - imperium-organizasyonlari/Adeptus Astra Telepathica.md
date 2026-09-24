@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/85/AdeptusAstraTelepathica1.png/revision/latest?cb=20170621041106
+https://static.wikia.nocookie.net/warhammer40k/images/8/85/AdeptusAstraTelepathica1.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Adeptus Astra Telepathica

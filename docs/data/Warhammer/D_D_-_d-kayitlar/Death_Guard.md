@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2f/DeathGuardBadge.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Death Guard
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d1/4ArmedEmperor_Units.JPG/revision/latest?cb=20190212010132
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Cult of the Four-Armed Emperor
 *Genestealer Kültleri, Sapkın Xenos Tapımı*

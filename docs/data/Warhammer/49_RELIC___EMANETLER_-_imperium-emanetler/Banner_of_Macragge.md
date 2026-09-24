@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9f/UM_Chapter_Banner.jpg/revision/latest?cb=20171018001816
+https://static.wikia.nocookie.net/warhammer40k/images/9/9f/UM_Chapter_Banner.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Banner of Macragge

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/49/ChaosKnightsIcon.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Chaos Knights
 

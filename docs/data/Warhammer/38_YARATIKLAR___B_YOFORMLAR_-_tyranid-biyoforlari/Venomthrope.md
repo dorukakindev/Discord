@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Tyranid_Venomthrope.jpg/revision/latest?cb=20120102073903
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Tyranid_Venomthrope.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Venomthrope

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/77/Castellan_Garran_Crowe.png/revision/latest?cb=20140926192552
+https://static.wikia.nocookie.net/warhammer40k/images/7/77/Castellan_Garran_Crowe.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Garran Crowe

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/14/Ahmazzi-big.jpg/revision/latest?cb=20110404050826
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Ordo Malleus
 *Çekiç Tarikatı*

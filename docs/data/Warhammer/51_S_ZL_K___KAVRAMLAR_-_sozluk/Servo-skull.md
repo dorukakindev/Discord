@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f0/Grey_Knight.jpg/revision/latest?cb=20091025225339
+https://static.wikia.nocookie.net/warhammer40k/images/f/f0/Grey_Knight.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Servo-skull

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/79/Necron_scarabs2.jpg/revision/latest?cb=20130327051648
+https://static.wikia.nocookie.net/warhammer40k/images/7/79/Necron_scarabs2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Canoptek Scarab

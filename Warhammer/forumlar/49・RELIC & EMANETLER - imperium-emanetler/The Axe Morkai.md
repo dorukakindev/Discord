@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Deathwolf_2560x1440.jpg/revision/latest?cb=20130304153514
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Axe Morkai
 *Morkai Baltası*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7f/ScythesoftheEmperor.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Scythes of the Emperor
 

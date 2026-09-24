@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Exorcists_Icon.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Exorcists
 

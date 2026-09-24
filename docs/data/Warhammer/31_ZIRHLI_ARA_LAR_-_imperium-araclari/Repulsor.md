@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Repulsor006.png/revision/latest?cb=20180309162149
+https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Repulsor006.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Repulsor

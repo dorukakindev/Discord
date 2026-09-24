@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/HHL_First_Cpt_Sevatar_Prince_of_Crows.png/revision/latest?cb=20231201101756
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Sevatar
 

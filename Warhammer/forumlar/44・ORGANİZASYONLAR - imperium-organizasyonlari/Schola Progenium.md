@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1a/Drill_Abbot.jpg/revision/latest?cb=20130319211624
+https://static.wikia.nocookie.net/warhammer40k/images/1/1a/Drill_Abbot.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Schola Progenium

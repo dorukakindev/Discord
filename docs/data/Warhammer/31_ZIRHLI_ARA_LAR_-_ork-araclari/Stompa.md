@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Stompa01.jpg/revision/latest?cb=20181129175043
+https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Stompa01.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Ork Araclari · Kayıt
 # Stompa

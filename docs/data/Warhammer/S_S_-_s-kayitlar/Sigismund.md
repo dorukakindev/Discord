@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bf/SigismundNoHelmet.jpg/revision/latest?cb=20180110225906
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Sigismund
 

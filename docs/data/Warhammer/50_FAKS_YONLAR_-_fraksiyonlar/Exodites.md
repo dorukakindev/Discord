@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/92/Eldar_exodites.png/revision/latest?cb=20111202051447
+https://static.wikia.nocookie.net/warhammer40k/images/9/92/Eldar_exodites.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Exodites

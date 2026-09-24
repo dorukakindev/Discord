@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Jain_Zar2_7th_Ed.png/revision/latest?cb=20141120193458
+https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Jain_Zar2_7th_Ed.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Jain Zar

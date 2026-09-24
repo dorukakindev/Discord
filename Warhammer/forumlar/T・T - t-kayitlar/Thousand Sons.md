@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/81/Thousand_Sons_Post-Heresy_Armorial.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Thousand Sons
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Death_Spectres_Livery.jpg/revision/latest?cb=20150902183958
+https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Death_Spectres_Livery.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Death Spectres

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1e/Sacred_Rose_Sigil.png/revision/latest?cb=20210406080633
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Arabella
 *Aziz Arabella*

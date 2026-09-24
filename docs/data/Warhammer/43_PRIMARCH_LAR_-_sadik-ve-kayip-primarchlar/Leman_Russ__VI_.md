@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest?cb=20160525204059
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Leman Russ (VI)

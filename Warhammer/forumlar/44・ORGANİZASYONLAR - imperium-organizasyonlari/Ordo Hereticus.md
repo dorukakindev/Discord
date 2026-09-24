@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/68/Female_Inquisitor_Ordo_Hereticus.png/revision/latest?cb=20141201094336
+https://static.wikia.nocookie.net/warhammer40k/images/6/68/Female_Inquisitor_Ordo_Hereticus.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Ordo Hereticus

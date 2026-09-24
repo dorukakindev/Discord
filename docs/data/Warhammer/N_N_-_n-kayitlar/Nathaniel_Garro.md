@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Nathaniel_Garro_Agentia_Primus.png/revision/latest?cb=20160829053135
+
 -# THE IMPERIAL ARCHIVE
 # Nathaniel Garro
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Adeptus_Sororitas_Icon.jpg/revision/latest?cb=20110820063406
+https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Adeptus_Sororitas_Icon.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Adepta Sororitas

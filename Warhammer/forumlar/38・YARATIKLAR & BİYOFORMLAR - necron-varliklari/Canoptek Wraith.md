@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/45/Canoptek_wraith_necrons.jpg/revision/latest?cb=20130319162707
+https://static.wikia.nocookie.net/warhammer40k/images/4/45/Canoptek_wraith_necrons.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Necron Varliklari · Kayıt
 # Canoptek Wraith

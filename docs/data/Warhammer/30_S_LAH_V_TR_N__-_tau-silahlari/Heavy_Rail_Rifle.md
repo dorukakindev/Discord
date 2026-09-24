@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Heavy_rail_rifle.jpg/revision/latest?cb=20131007020845
+https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Heavy_rail_rifle.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Heavy Rail Rifle

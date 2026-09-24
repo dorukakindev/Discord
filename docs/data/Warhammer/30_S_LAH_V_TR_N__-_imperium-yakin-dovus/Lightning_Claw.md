@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Talon_of_Horus.png/revision/latest?cb=20130821095438
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Talon_of_Horus.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Lightning Claw

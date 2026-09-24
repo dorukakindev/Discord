@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Adeptus Custodes
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Deathshroud_-Mortarion%27s_Bodyguards.jpg/revision/latest?cb=20110314075302
+https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Deathshroud_-Mortarion%27s_Bodyguards.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Deathshroud

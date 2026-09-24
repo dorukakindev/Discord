@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/10/Piranha_dex.JPG/revision/latest?cb=20121103010708
+https://static.wikia.nocookie.net/warhammer40k/images/1/10/Piranha_dex.JPG/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Piranha

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/12/Slugga.png/revision/latest?cb=20100505020559
+
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Slugga
 

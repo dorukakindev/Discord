@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Sisters_of_Silence_art.jpg/revision/latest?cb=20120405005050
+https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Sisters_of_Silence_art.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Untouchable

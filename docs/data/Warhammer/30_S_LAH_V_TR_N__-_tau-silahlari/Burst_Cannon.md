@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Burstcannon10.JPG/revision/latest?cb=20140704022711
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Burstcannon10.JPG/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Burst Cannon

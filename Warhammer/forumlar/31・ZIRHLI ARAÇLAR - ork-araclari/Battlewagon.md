@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/07/Battlewagon.jpg/revision/latest?cb=20151108205429
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Battlewagon.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Ork Araclari · Kayıt
 # Battlewagon

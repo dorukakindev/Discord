@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/whitewolf/images/b/b5/Bullet-nip.png/revision/latest?cb=20111113103913
+
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
 # Disparate Crafts — Dağınık Zümreler, Geleneksiz Büyücüler

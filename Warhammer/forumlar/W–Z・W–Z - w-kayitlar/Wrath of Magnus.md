@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/17/Blades_Magnus_Armorial.png/revision/latest?cb=20180213185305
+
 -# THE IMPERIAL ARCHIVE · W Kayıtları
 # Wrath of Magnus
 

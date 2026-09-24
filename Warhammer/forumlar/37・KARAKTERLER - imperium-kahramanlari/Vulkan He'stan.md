@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/34/Vulkan%27s_Artificer_Armour.jpg/revision/latest?cb=20131222075848
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Vulkan%27s_Artificer_Armour.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Vulkan He'stan

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Inquisition_MKV_Land_Raider.jpg/revision/latest/scale-to-width
+
 -# THE IMPERIAL ARCHIVE
 # Inquisition
 

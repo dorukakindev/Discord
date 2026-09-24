@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Lictorclintlangley.jpg/revision/latest?cb=20150319200550
+https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Lictorclintlangley.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Lictor

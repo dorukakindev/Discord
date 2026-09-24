@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/48/Carcharodons_Livery.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Carcharodons
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/47/The_pax_macharia_walks_by_columbussage.jpg/revision/latest?cb=20120313041730
+https://static.wikia.nocookie.net/warhammer40k/images/4/47/The_pax_macharia_walks_by_columbussage.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 

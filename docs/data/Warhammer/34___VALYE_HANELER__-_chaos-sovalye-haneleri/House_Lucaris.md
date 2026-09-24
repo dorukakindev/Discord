@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8a/House_Lucaris_Icon.png/revision/latest?cb=20220102200353
+https://static.wikia.nocookie.net/warhammer40k/images/8/8a/House_Lucaris_Icon.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Chaos Sovalye Haneleri · Kayıt
 # House Lucaris

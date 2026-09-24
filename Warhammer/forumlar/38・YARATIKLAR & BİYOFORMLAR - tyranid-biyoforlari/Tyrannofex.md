@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a1/Tyrannofex_battle.png/revision/latest?cb=20140725230344
+https://static.wikia.nocookie.net/warhammer40k/images/a/a1/Tyrannofex_battle.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Tyrannofex

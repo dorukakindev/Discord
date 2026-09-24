@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/98/CatachanDevil_-_Old.jpg/revision/latest?cb=20130216080412
+https://static.wikia.nocookie.net/warhammer40k/images/9/98/CatachanDevil_-_Old.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Catachan Devil

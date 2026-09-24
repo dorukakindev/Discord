@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/eb/House_Mortan_Heraldry.jpg/revision/latest?cb=20150512220341
+https://static.wikia.nocookie.net/warhammer40k/images/e/eb/House_Mortan_Heraldry.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Mortan

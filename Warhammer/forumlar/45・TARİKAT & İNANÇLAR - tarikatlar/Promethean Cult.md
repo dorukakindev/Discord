@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/80/Salamanders_Banner.jpg/revision/latest?cb=20110304210140
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Promethean Cult
 *Promethean İnancı, Salamanders'ın Dini*

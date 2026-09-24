@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Orikan.png/revision/latest?cb=20231118082355
+https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Orikan.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Staff of Tomorrow

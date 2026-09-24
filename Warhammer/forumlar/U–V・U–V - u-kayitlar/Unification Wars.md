@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Raptor_Imperialis_Icon.png/revision/latest?cb=20150526214513
+
 -# THE IMPERIAL ARCHIVE
 # Unification Wars
 

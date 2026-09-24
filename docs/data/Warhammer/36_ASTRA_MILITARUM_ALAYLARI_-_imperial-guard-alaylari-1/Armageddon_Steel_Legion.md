@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f2/2199_imperial_guard.steel_legion.jpg/revision/latest?cb=20130319185744
+https://static.wikia.nocookie.net/warhammer40k/images/f/f2/2199_imperial_guard.steel_legion.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Armageddon Steel Legion

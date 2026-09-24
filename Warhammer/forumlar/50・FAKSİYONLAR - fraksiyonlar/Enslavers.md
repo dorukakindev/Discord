@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Enslaver_sketch.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Enslavers
 *Köleleştirenler (Warp Asalakları)*

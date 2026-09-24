@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/32/Axe_Mortalis.jpg/revision/latest?cb=20131217190629
+https://static.wikia.nocookie.net/warhammer40k/images/3/32/Axe_Mortalis.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Power Axe

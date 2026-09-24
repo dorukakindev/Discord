@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/37/Soundstrike_Pattern_Raptors.png/revision/latest?cb=20140108082204
+https://static.wikia.nocookie.net/warhammer40k/images/3/37/Soundstrike_Pattern_Raptors.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Missile Launcher

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Teleport_Homer.png/revision/latest?cb=20150619161515
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Teleportarium
 *Teleportarium, Anlık Sıçramanın Kutsal Odası*

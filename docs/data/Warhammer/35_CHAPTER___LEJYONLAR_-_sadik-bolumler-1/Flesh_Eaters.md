@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Flesh_Eaters_Livery.jpg/revision/latest?cb=20241031005418
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Flesh_Eaters_Livery.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Flesh Eaters

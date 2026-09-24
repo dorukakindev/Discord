@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/bd/WE_Assault_Vet_Mk_II.jpg/revision/latest?cb=20130104014517
+https://static.wikia.nocookie.net/warhammer40k/images/b/bd/WE_Assault_Vet_Mk_II.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Jump Pack

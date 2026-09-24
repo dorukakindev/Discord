@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Deceiver_Shard.jpg/revision/latest?cb=20130823104050
+
 -# THE IMPERIAL ARCHIVE
 # C'tan
 

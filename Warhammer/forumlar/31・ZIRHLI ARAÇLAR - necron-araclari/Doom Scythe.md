@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/59/Doomscythe1.jpg/revision/latest?cb=20130402064458
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Doomscythe1.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Necron Araclari · Kayıt
 # Doom Scythe
@@ -17,14 +17,6 @@ Gökyüzünden kırbaç gibi inen death ray silahıyla tanınır. Bu ışın yer
 ## Tarihçe
 
 Doom Scythe'lar Necron hava üstünlüğünün ve yer saldırısının aracı olarak kullanılır; kaynaklar onları Necron istilalarının önünde gökyüzünü temizleyen avcılar olarak anlatır.
-
-## Teknik Özellikler
-- Tip: Necron ağır savaş uçağı — ground-attack / fighter
-- Silahlar: ölüm ışınları (death rays), twin-linked tesla destructor, sinema hızı
-- Gövde: necrodermis yapı, kendini onaran kabuk
-
-## Tarihçe
-Necron hava gücünün ana saldırı unsuru olan Doom Scythe, Night Scythe ile birlikte yüzey kampanyalarının öncüsüdür; bir Necron tomb'un uyanışında hava hakimiyeti büyük ölçüde bu birimlere dayanır.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 

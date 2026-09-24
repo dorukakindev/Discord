@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7e/Lukas_.png/revision/latest?cb=20170628062904
+https://static.wikia.nocookie.net/warhammer40k/images/7/7e/Lukas_.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Lukas the Trickster

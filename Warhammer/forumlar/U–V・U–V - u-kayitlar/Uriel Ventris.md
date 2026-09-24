@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/UrielVentrisPrimaris.jpg/revision/latest?cb=20201206040529
+
 -# THE IMPERIAL ARCHIVE · U Kayıtları
 # Uriel Ventris
 

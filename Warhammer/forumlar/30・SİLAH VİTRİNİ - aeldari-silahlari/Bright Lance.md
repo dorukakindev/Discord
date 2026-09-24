@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Bright_Lance.png/revision/latest?cb=20160126214003
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Bright_Lance.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Bright Lance

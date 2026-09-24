@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7b/SteelLegion.jpg/revision/latest?cb=20110121212505
+https://static.wikia.nocookie.net/warhammer40k/images/7/7b/SteelLegion.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Helsreach

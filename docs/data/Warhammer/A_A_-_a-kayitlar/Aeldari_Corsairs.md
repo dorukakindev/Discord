@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/22/Ranger%27s_Rune.png/revision/latest?cb=20150511062032
+
 -# THE IMPERIAL ARCHIVE
 # Aeldari Corsairs — Anhrathe
 

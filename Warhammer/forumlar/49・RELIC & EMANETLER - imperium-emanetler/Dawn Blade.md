@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/69/Dawn_Blade_2.jpg/revision/latest?cb=20131002183732
+https://static.wikia.nocookie.net/warhammer40k/images/6/69/Dawn_Blade_2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Dawn Blade

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Black Legion
 

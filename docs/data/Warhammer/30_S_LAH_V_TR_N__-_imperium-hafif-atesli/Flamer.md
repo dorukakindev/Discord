@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Flamer.jpg/revision/latest?cb=20120715235459
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Flamer.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Flamer

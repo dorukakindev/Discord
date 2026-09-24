@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Commissar_Genera2.jpg/revision/latest?cb=20130302195137
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Officio Prefectus
 *Komiserlik (Commissariat)*

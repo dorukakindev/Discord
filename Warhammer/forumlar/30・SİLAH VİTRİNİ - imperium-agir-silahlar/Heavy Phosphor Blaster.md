@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/01/Heavy_Phosphor_Blaster_%28on_the_Onager%29.jpg/revision/latest?cb=20170219191655
+https://static.wikia.nocookie.net/warhammer40k/images/0/01/Heavy_Phosphor_Blaster_%28on_the_Onager%29.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Heavy Phosphor Blaster

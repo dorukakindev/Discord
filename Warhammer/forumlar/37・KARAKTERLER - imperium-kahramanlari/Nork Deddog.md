@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/81/Nork_Deddog_-_Ogryn_Bodyguard.jpg/revision/latest?cb=20141122121438
+https://static.wikia.nocookie.net/warhammer40k/images/8/81/Nork_Deddog_-_Ogryn_Bodyguard.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Nork Deddog

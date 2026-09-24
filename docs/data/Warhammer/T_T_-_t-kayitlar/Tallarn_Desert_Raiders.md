@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/77/TallarnBaneblade.JPG/revision/latest
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Tallarn Desert Raiders
 

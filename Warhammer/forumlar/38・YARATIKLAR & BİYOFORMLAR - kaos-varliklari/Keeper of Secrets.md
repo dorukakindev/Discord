@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1a/KeeperofSecretsDaemonettes.jpg/revision/latest?cb=20191024173446
+https://static.wikia.nocookie.net/warhammer40k/images/1/1a/KeeperofSecretsDaemonettes.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Keeper of Secrets

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c5/SzerasArt9thEdition.jpg/revision/latest?cb=20200616150054
+https://static.wikia.nocookie.net/warhammer40k/images/c/c5/SzerasArt9thEdition.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Illuminor Szeras

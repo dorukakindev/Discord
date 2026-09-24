@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Imperium_Dominatus_Ancient_Map.jpg/revision/latest?cb=20121028215427
+https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Imperium_Dominatus_Ancient_Map.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Great Crusade (yönlendirme kaydı)

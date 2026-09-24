@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/46/SaintKatherineIcon.png/revision/latest?cb=20250106173000
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Katherine
 *Aziz Katherine*

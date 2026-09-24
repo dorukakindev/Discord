@@ -1,14 +1,14 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Malpaga10.JPG/960px-Malpaga10.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Mercenaries — Paralı Askerler, No Man's Land'in Kiralık Bıçakları
 
 No Man's Land'de dolaşan warband'ların zaferi garantilemek için kiraladığı uzman savaşçılar; Ducat'la değil yalnızca Glory (Şan) ile ayartılabilen, İmanlı ya da Sapkın hizalı kiralık güçler.
 
 - **Bağlılık:** Tarafsız
-- **Önder:** Bilinmiyor (bağımsız kiralık savaşçılar)
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Önder:** Bilinmiyor (bağımsız kiralık savaşçılar)
 
 ## Kayıt
 
@@ -16,7 +16,7 @@ Mercenaries (Paralı Askerler), Trench Crusade dünyasında belli bir ulusa ya d
 
 Trench Crusade evreninde, Cennet ve Cehennem'in güçleri durmadan savaşır; bu savaş makinesinin dönmeye devam etmesi için sürekli takviye gerekir, yoksa sayılarını yerine koyamayanların üzerine tam bir yıkım çöker. İşte bu sonsuz ihtiyaç, paralı askerleri değerli kılar. Ama bu savaşçılar ucuz değildir, ve Ducat'lar (altın paralar) onlar için pek bir anlam taşımaz. Bir warband, ancak kendi şanıyla (Glory) bu kiralık güçleri saflarına katılmaya ayartabilir; oyun içinde paralı askerler yalnızca Glory puanıyla satın alınabilir, ki bu da kampanyanın her senaryosunda Şanlı İşler (Glorious Deeds) başararak kazanılan bir para birimidir.
 
-![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Malpaga10.JPG/960px-Malpaga10.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+---
 
 Bir warband için kiralanabilecek paralı askerlerin de bir hizası vardır: ya Faithful (İmanlı) ya da Fallen (Düşmüş / Sapkın). Aksi belirtilmedikçe, bir warband karşıt hizadan modeller içeremez; iman ordusu Sapkın bir bıçağı kiralayamaz, Sapkın bir lejyon kutsal bir savaşçıyı saflarına alamaz. Ayrıca kurallardaki her paralı asker girdisi, hangi warband'ların onu işe alabileceğini belirtir; yani her paralı asker her fraksiyona açık değildir, bazıları yalnızca belli güçlere hizmet eder.
 
@@ -30,3 +30,7 @@ Mercenaries, savaşın kişisel çıkarla kesiştiği gri bölgenin somut halidi
 - Şan (Glory) puanıyla satın alınan seçkin yetenekler
 
 -# Kaynaklar: Resmî faction overviewleri
+
+---
+
+-# Çapraz: <#1551932291318677625>

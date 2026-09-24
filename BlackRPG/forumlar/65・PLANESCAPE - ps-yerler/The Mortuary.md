@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/81/Lower_City_Mortuary.jpg/revision/latest?cb=20241117224641
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # The Mortuary — Morg, Sigil'in Ölüleri İşleyen Yapısı

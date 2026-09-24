@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/02/Belisarius_Navigator_.jpg/revision/latest?cb=20160305213402
+https://static.wikia.nocookie.net/warhammer40k/images/0/02/Belisarius_Navigator_.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # House Belisarius

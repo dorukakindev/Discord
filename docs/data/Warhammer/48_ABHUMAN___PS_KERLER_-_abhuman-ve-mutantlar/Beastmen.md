@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e6/DSCN2230.jpg/revision/latest?cb=20131108230049
+https://static.wikia.nocookie.net/warhammer40k/images/e/e6/DSCN2230.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Beastmen

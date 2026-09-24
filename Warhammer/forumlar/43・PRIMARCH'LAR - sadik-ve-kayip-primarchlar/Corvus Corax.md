@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest?cb=20160528134728
+https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Corvus Corax
@@ -10,6 +10,4 @@ Corvus Corax, Kiavahr forge dünyasının hapishane ayı Lycaeus'a düştü ve k
 
 İmparator onu XIX. Lejyon Raven Guard'ın başına geçirdi; lejyon, primarch'ının gölge ve gizlilik ustalığını yansıtıyordu: pusu, jump pack baskınları, gizli sızma ve vurkaç gerilla savaşı. Corax, kurtarıcı ruhunu hiç kaybetmedi, ama doğası gereği yalnız ve içe dönüktü.
 
-## Katliam Sonrası ve Sürgün
-Isstvan V'te lejyonunun çoğu öldürüldükten sonra Corax, Raven Guard'ı yeniden kurmak için Mechanicus'un yasaklı Primaris-tarzı gen-tekniklerine başvurdu; sonuç, canavara dönüşen "Raptor" mutantları oldu ve Corax onları bizzat yok etmek zorunda kaldı. Bu suçluluk onu parçaladı. Savaştan sonra kendini Deliverance'taki kuleye kapattı, ardından tek cümleyle ayrıldı: "Bir daha asla." Korku Gözü'ne girdiği ve orada iblis avladığı söylenir; bazı raporlar onu artık Warp tarafından dönüştürülmüş, gölgeden ibaret bir varlık olarak betimler. Word Bearers ile ezeli düşmanlığı bugün de sürer.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

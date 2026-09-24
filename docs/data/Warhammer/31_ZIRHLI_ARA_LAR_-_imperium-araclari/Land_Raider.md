@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a1/LandRaiderPhobos07.png/revision/latest?cb=20120523214210
+https://static.wikia.nocookie.net/warhammer40k/images/a/a1/LandRaiderPhobos07.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
 

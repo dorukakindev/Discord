@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/27/House_Vornherr_Icon_Fancy.png/revision/latest?cb=20211213025651
+https://static.wikia.nocookie.net/warhammer40k/images/2/27/House_Vornherr_Icon_Fancy.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Vornherr

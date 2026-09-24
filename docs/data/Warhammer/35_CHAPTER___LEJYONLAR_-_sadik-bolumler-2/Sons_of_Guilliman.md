@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d5/SonsofGuillimanBadge.jpg/revision/latest?cb=20190830195947
+https://static.wikia.nocookie.net/warhammer40k/images/d/d5/SonsofGuillimanBadge.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Sons of Guilliman

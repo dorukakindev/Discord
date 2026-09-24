@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Nostramo_Great_Crusade.jpg/revision/latest?cb=20130914044300
+https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Nostramo_Great_Crusade.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Chaos Dunyalari · Kayıt
 # Nostramo

@@ -1,14 +1,14 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.png/revision/latest/scale-to-width-down/888?cb=20260914184918
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Court of the Seven-Headed Serpent — Yedi Başlı Yılan'ın Sarayı, Yedi Ölümcül Günahın Lordları
 
 Her başı bir ölümcül günahı temsil eden yedi baş iblisin meclisi; Göklerle Cehennem arasındaki Misak'ı çiğnemeden iblisleri insan ve hayvanla harmanlayıp dünyayı istila eden seçkin güç.
 
 - **Bağlılık:** Heretic
-- **Önder:** Yedi baş iblis (Infernal War Council); Açgözlülük başı Mammon
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Önder:** Yedi baş iblis (Infernal War Council); Açgözlülük başı Mammon
 
 ## Kayıt
 
@@ -16,7 +16,7 @@ Court of the Seven-Headed Serpent (Yedi Başlı Yılan'ın Sarayı), Trench Crus
 
 Bu fraksiyonun en kurnaz yanı, kutsal bir yasayı çiğnemeden savaşmasıdır. Göklerle Cehennem arasındaki Misak (Covenant), hiçbir gerçek iblisin Dünya üzerinde yürümesine izin vermez; ama Yılan'ın başları bu sınırı aşmanın yolunu bulmuştur. İblisleri, hem insan hem hayvan, yeryüzünde yürüyen yaratıklarla harmanlayarak maddi düzleme sızarlar; böylece O'nun gazabını üzerlerine çekmeden istila ederler. Bu, hile ve kurnazlıkla örülmüş, kadim bir yasanın etrafından dolaşan bir savaş biçimidir.
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.png/revision/latest/scale-to-width-down/888?cb=20260914184918)
+---
 
 Saray'ın savaş güçleri seçkin ve güçlüdür. Hell Knight'lar (Cehennem Şövalyeleri), Yedi Başlı Yılan'ın Sarayı'nın temel ayak askerleridir; ağır zırha bürünmüş, hem kılıcı hem goetik (büyüsel) güçleri ustalıkla kullanan savaşçılardır. Yoke Fiend'ler ise Cehennem'in iblislerine kölelik eden, biçimsiz bir canavar-adam ırkıdır; çoğunlukla top yemi olarak hizmet etseler de, yakın dövüşte ölümcüldürler. Saray, son derece elit bir oyun tarzı izler; kaynaklarının ve gücünün büyük kısmını az sayıda seçkin savaşçıya akıtır, kalite üzerine kurulu bir güçtür.
 
@@ -30,3 +30,7 @@ Court of the Seven-Headed Serpent, günahın, hilenin ve infernal hiyerarşinin 
 - Goetik ritüel ustaları ve seçkin şampiyonlar
 
 -# Kaynaklar: Resmî faction overviewleri
+
+---
+
+-# Çapraz: <#1551932288663683153>

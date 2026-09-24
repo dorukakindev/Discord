@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f0/T%27au_Empire_Icon.png/revision/latest?cb=20230512074501
+https://static.wikia.nocookie.net/warhammer40k/images/f/f0/T%27au_Empire_Icon.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # T'au Empire

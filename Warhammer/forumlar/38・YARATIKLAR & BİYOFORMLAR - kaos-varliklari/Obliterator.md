@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Obliterator_Transforms.png/revision/latest?cb=20150321214441
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Obliterator
 *Yok Edici (Obliterator)*

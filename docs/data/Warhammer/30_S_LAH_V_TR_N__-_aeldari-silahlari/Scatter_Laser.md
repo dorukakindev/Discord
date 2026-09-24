@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/19/ScatterLaserWaveSerpent.jpg/revision/latest?cb=20190411235703
+https://static.wikia.nocookie.net/warhammer40k/images/1/19/ScatterLaserWaveSerpent.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Scatter Laser

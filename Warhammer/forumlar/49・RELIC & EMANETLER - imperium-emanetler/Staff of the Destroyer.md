@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/42/Imotekh.png/revision/latest?cb=20130427081851
+https://static.wikia.nocookie.net/warhammer40k/images/4/42/Imotekh.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Staff of the Destroyer

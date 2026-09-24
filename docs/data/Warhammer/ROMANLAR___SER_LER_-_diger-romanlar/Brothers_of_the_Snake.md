@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/bc/BrothersoftheSnakeCover.jpg/revision/latest?cb=20180319205400
+https://static.wikia.nocookie.net/warhammer40k/images/b/bc/BrothersoftheSnakeCover.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Brothers of the Snake

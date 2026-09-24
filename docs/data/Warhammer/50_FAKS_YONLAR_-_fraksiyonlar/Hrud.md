@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/34/Hrud/revision/latest?cb=20080917215849
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Hrud/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Hrud

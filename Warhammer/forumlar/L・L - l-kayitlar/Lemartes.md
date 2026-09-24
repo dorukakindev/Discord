@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ac/Lemartes.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Lemartes
 

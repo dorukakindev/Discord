@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d2/SA_Leman_Russ_Solar-Ryza_Pattern.jpg/revision/latest?cb=20150527052830
+https://static.wikia.nocookie.net/warhammer40k/images/d/d2/SA_Leman_Russ_Solar-Ryza_Pattern.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · L Kayıtları · Kayıt
 # Leman Russ Savaş Tankı

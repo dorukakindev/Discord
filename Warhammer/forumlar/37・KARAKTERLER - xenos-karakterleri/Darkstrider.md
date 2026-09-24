@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/56/Pathfinder_Darkstrider.png/revision/latest?cb=20160426202733
+https://static.wikia.nocookie.net/warhammer40k/images/5/56/Pathfinder_Darkstrider.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Darkstrider

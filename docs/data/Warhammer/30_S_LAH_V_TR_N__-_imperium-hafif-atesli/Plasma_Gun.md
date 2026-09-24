@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/81/Plasmagun8.jpg/revision/latest?cb=20130918100344
+https://static.wikia.nocookie.net/warhammer40k/images/8/81/Plasmagun8.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Plasma Gun

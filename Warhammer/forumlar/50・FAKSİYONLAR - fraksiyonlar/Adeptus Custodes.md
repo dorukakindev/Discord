@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Adeptus Custodes

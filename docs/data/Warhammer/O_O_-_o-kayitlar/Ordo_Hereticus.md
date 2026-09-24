@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/68/Female_Inquisitor_Ordo_Hereticus.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Ordo Hereticus
 

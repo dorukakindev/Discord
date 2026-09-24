@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Resurrection_Orb.jpg/revision/latest?cb=20160106103419
+https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Resurrection_Orb.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Resurrection Orb

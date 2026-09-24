@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b8/Sortiarius.jpg/revision/latest?cb=20170228022442
+https://static.wikia.nocookie.net/warhammer40k/images/b/b8/Sortiarius.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Chaos Dunyalari · Kayıt
 # Sortiarius

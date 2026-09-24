@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/22/EldarWitchblade.jpg/revision/latest?cb=20120919043658
+https://static.wikia.nocookie.net/warhammer40k/images/2/22/EldarWitchblade.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Witchblade

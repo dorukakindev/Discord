@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/94/Blacksword_Missile.jpg/revision/latest?cb=20130126212629
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Black Sword
 *Kara Kılıç (İmparator Şampiyonu'nun Kılıcı)*

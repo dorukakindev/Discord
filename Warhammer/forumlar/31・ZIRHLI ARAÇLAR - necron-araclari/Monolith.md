@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/de/Monolith20.JPG/revision/latest?cb=20150226012910
+https://static.wikia.nocookie.net/warhammer40k/images/d/de/Monolith20.JPG/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
 # Monolith

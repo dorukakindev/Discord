@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Ogryn_battle2.jpg/revision/latest?cb=20141126181038
+https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Ogryn_battle2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Ogryn

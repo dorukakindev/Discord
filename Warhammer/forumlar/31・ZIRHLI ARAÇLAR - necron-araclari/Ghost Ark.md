@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e8/Ghostark1.jpg/revision/latest?cb=20130403233318
+https://static.wikia.nocookie.net/warhammer40k/images/e/e8/Ghostark1.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Necron Araclari · Kayıt
 # Ghost Ark
@@ -17,14 +17,6 @@ Savaş alanında düşen Necron Warrior'larını toplayan, gövdesindeki düzene
 ## Tarihçe
 
 Ghost Ark'lar Necron savaş düzeninin aşınmaya karşı direncini temsil eder.
-
-## Teknik Özellikler
-- Tip: Necron birim taşıyıcısı / destek aracı — hareketli onarım merkezi
-- Özellik: yakınındaki Necron birimlerinin necrodermis self-repair'ini hızlandırır
-- Silahlar: gauss flux arc yan pilleri
-
-## Not
-Ghost Ark basit nakliye aracı değil 'canlandırma platformudur'; bir Ghost Ark sahadayken Necron birlikleri neredeyse yok edilemez.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/33/Brontonian_Longknives_trooper.jpg/revision/latest?cb=20130531221142
+https://static.wikia.nocookie.net/warhammer40k/images/3/33/Brontonian_Longknives_trooper.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Brontian Longknives

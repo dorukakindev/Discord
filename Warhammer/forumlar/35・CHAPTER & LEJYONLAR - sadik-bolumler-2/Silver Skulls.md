@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SilverSkullsBadge2.jpg/revision/latest?cb=20260109164610
+https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SilverSkullsBadge2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Silver Skulls

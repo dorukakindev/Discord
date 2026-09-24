@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/55/Lamenters_Livery.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Lamenters
 

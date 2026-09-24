@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/19/Noise_Marine_Blast_Master.jpg/revision/latest?cb=20121002043643
+https://static.wikia.nocookie.net/warhammer40k/images/1/19/Noise_Marine_Blast_Master.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Blastmaster

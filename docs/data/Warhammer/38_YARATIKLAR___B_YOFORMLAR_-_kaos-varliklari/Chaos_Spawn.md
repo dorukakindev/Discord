@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a0/ChaosSpawn2.jpg/revision/latest?cb=20121112192143
+https://static.wikia.nocookie.net/warhammer40k/images/a/a0/ChaosSpawn2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Chaos Spawn

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/54/EC_Pre-Heresy_SP.png/revision/latest?cb=20170915054545
+https://static.wikia.nocookie.net/warhammer40k/images/5/54/EC_Pre-Heresy_SP.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Aquila

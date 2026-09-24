@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsword3.png/revision/latest?cb=20130821095331
+https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsword3.png/revision/latest/scale-to-width
 
 -# THE IMPERIAL ARCHIVE · Chaos Emanetler · Kayıt
 # Drach'nyen

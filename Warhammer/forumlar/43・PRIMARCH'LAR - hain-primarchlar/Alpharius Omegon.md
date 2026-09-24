@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Alpharius_Pythian_Scales.jpg/revision/latest?cb=20140410023824
+https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Alpharius_Pythian_Scales.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Alpharius Omegon
@@ -10,6 +10,4 @@ Alpharius, tüm Primarch'ların en gizemlisidir ve en büyük sırrı şudur: as
 
 İmparator tarafından bulunan son Primarch oydu ve diğer kardeşleri gibi açıkça öne çıkmak yerine gölgede, casusluk, sızma ve sabotaj üzerine uzmanlaştı. Alpha Legion, açık savaştan çok ağ kurmayı, içeriden çökertmeyi ve düşmanı kendi içinde bölmeyi tercih ederdi; her lejyoner bir ajan gibi düşünmeye eğitilmişti.
 
-## İkiz ve İhanet
-Alpharius aslında ikizdi — Alpharius ve Omegon, XX. Lejyon Alpha Legion'ı birlikte yönetti; İmparatorluk onları tek kişi sandı. Heresy'de hain saflarına katılmalarının nedeni tartışmalıdır: bir Cabal kehaneti, İmparatorluk'un yok edilmesinin Kaos'u da yok edeceğini söylüyordu ve Alpharius bu yolu seçti — ya da seçmiş gibi yaptı. Eskrador'da Dorn'un Imperial Fists'iyle çatıştı; kayıtlar Alpharius'un (ya da Omegon'un) orada öldüğünü söyler, ama Alpha Legion'da kimse bir diğerinden ayırt edilemez — "Ben Alpharius'um" hep bir yalandır. Bugün lejyon parçalara bölünmüş hücreler hâlinde hâlâ aktif; gerçek amaçları bilinmiyor.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

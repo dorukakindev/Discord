@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/3/35/Hazlik_5e.png/revision/latest?cb=20211112064715
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Hazlan — Büyü Diyarı, Hazlik'in Sihir Despotluğu

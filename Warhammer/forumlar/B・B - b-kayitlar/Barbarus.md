@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/48/Barbarus_planet.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Barbarus
 

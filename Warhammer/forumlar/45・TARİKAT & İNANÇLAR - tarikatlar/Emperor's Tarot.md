@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Reading_the_Emperor%27s_Tarot.jpeg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Emperor's Tarot
 *İmparator'un Tarot'u İnancı*

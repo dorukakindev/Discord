@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fa/UM_Astartes_MkVI_Corvus.jpg/revision/latest?cb=20120612012100
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Sternguard Veteran
 *Kıdemli Veteranlar, Ateşin Ustaları*

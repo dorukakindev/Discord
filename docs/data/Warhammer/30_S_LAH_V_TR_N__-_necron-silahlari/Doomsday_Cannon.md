@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/12/Doomsdayark1.jpg/revision/latest?cb=20130401054831
+https://static.wikia.nocookie.net/warhammer40k/images/1/12/Doomsdayark1.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Doomsday Cannon

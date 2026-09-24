@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Ceres-Pattern_Bolt_Pistol.jpg/revision/latest?cb=20120929085750
+https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Ceres-Pattern_Bolt_Pistol.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Bolt Pistol

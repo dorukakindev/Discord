@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Eldrad_Ulthran-0.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Eldrad Ulthran
 

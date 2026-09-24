@@ -1,8 +1,8 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Macragge2.png/revision/latest?cb=20170802085537
+https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Macragge2.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Macragge
+# Macragge — Macragge
 
 Roboute Guilliman'ın krallığı Ultramar'ın başkent dünyası ve Ultramarines'in kalesi. İyi yönetilen, düzenli ve müreffeh.
 

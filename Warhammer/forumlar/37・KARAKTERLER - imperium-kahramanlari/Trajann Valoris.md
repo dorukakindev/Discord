@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Cpt.-General_Trajann_Valoris.jpg/revision/latest?cb=20180116050053
+https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Cpt.-General_Trajann_Valoris.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Trajann Valoris

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Nocturne.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Nocturne
 

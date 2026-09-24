@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # World Eaters
 

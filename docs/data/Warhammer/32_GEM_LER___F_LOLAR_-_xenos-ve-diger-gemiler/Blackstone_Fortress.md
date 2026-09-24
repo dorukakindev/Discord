@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Blackstone_Fortress_Coloured.png/revision/latest?cb=20170315185533
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Blackstone_Fortress_Coloured.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Xenos Ve Diger Gemiler · Kayıt
 # Blackstone Fortress

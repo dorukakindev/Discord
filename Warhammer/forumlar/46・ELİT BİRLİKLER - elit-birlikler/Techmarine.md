@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/53/Techmarine_Harkus.jpg/revision/latest?cb=20140304071953
+https://static.wikia.nocookie.net/warhammer40k/images/5/53/Techmarine_Harkus.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Techmarine

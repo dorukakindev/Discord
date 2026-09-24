@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b3/Transuranic_arqebus.png/revision/latest?cb=20160226183956
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Transuranic Arquebus
 

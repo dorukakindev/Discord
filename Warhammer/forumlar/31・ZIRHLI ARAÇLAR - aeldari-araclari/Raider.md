@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Dark_Eldar_Raider.jpeg/revision/latest?cb=20161219205824
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Dark_Eldar_Raider.jpeg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Raider

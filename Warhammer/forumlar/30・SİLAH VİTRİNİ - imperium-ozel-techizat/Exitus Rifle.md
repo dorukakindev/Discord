@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Exitus_Rifle_Updated.jpg/revision/latest?cb=20150601192214
+https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Exitus_Rifle_Updated.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Exitus Rifle

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/89/NachmundGauntlet.jpg/revision/latest?cb=20190107030902
+
 -# THE IMPERIAL ARCHIVE
 # Nachmund Gauntlet
 

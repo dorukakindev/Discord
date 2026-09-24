@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Adeptus_Astartes_Icon.jpg/revision/latest?cb=20190630130730
+https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Adeptus_Astartes_Icon.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
@@ -12,7 +12,7 @@ Genetik olarak geliştirilmiş, güç zırhı kuşanmış süper askerler; İmpa
 
 ## Kayıt
 
-Adeptus Astartes (Space Marine'ler), Warhammer 40.000 evreninin en bilinen ve en ikonik savaşçılarıdır; insanlığın savunması için yaratılmış, genetik olarak geliştirilmiş süper askerlerdir. Halk arasında Space Marine olarak anılırlar ve düşmanları onlara çoğu zaman İmparator'un Melekleri (Angels of Death) der. Onlar, sıradan insanların çok ötesinde varlıklardır; her biri, normal bir askerin onlarcasına bedel, korkunç bir savaş makinesidir. Galaksinin karanlığında, çoğu zaman insanlığın hayatta kalması ile yok oluşu arasındaki tek farktır.
+Adeptus Astartes (Uzay Denizcileri), Warhammer 40.000 evreninin en bilinen ve en ikonik savaşçılarıdır; insanlığın savunması için yaratılmış, genetik olarak geliştirilmiş süper askerlerdir. Halk arasında Space Marine olarak anılırlar ve düşmanları onlara çoğu zaman İmparator'un Melekleri (Angels of Death) der. Onlar, sıradan insanların çok ötesinde varlıklardır; her biri, normal bir askerin onlarcasına bedel, korkunç bir savaş makinesidir. Galaksinin karanlığında, çoğu zaman insanlığın hayatta kalması ile yok oluşu arasındaki tek farktır.
 
 Bir Space Marine yaratmak, uzun ve acımasız bir süreçtir. Genç, çoğu zaman ergenlik çağındaki adaylar seçilir ve bedenlerine, İmparator'un kadim genetik mirasından türetilmiş gen-tohumu (gene-seed) implante edilir. Bu süreçte, vücutlarına yeni organlar eklenir; kanları, kemikleri ve kasları yeniden şekillendirilir. Sonuçta ortaya çıkan varlık, sıradan bir insandan çok daha uzun, çok daha güçlü ve neredeyse ölümsüzdür; zehre, hastalığa, açlığa ve en ağır yaralara dayanabilir, hatta uyumadan günlerce savaşabilir. Acıyı bir veri gibi okur, korkuyu çoğu zaman bilmez.
 

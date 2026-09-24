@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Rogue_Trader_Icon2.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Rogue Traders
 

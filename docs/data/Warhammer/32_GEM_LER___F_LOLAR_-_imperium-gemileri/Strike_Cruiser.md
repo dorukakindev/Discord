@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Strike_Cruiser.jpg/revision/latest?cb=20110420045302
+https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Strike_Cruiser.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Strike Cruiser

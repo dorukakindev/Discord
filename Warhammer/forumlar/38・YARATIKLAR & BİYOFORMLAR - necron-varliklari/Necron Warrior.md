@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1a/Necron_Warriors_Enmasse.jpg/revision/latest?cb=20110928172751
+https://static.wikia.nocookie.net/warhammer40k/images/1/1a/Necron_Warriors_Enmasse.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Necron Varliklari · Kayıt
 # Necron Warrior

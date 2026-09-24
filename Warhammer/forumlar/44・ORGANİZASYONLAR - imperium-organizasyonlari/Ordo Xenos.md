@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/40/Inquisitor_Grundvald%2C_Xenoscourge_of_Helschen.jpg/revision/latest?cb=20120908000434
+https://static.wikia.nocookie.net/warhammer40k/images/4/40/Inquisitor_Grundvald%2C_Xenoscourge_of_Helschen.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Ordo Xenos

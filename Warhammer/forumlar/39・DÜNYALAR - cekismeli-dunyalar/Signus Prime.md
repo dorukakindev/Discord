@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Ka%27Banda_vs_Sanguinius.jpg/revision/latest?cb=20111120055801
+https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Ka%27Banda_vs_Sanguinius.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Cekismeli Dunyalar · Kayıt
 # Signus Prime

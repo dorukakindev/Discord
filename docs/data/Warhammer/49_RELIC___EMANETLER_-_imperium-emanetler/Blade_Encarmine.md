@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f7/SanguiniusBladeEncarmine.jpg/revision/latest?cb=20171213010028
+https://static.wikia.nocookie.net/warhammer40k/images/f/f7/SanguiniusBladeEncarmine.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Blade Encarmine

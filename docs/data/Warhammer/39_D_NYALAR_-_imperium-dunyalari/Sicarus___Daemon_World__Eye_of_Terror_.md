@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Sicarus.jpg/revision/latest?cb=20130305030350
+https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Sicarus.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Sicarus — Daemon World (Eye of Terror)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9a/Valkyrie00.png/revision/latest?cb=20120316222159
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Valkyrie
 

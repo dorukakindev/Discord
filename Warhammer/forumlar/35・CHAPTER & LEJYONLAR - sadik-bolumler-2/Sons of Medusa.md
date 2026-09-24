@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/34/Sons_of_Medusa_Livery.jpg/revision/latest?cb=20161118074055
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Sons_of_Medusa_Livery.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Sons of Medusa

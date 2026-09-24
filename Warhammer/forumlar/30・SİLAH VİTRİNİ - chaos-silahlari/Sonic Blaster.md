@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6d/SonicBlaster.png/revision/latest?cb=20170829050508
+https://static.wikia.nocookie.net/warhammer40k/images/6/6d/SonicBlaster.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Sonic Blaster

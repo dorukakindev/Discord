@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/39/Imperial_Autocannon.jpg/revision/latest?cb=20120715232543
+https://static.wikia.nocookie.net/warhammer40k/images/3/39/Imperial_Autocannon.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Autocannon

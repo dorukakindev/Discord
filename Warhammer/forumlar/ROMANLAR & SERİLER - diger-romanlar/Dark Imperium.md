@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/31/9thEditionGalaxyMap.jpg/revision/latest?cb=20230622173814
+https://static.wikia.nocookie.net/warhammer40k/images/3/31/9thEditionGalaxyMap.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Dark Imperium

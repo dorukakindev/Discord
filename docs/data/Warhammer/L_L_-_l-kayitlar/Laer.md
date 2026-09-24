@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/72/MarkofSlaaneshVariant.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Laer
 

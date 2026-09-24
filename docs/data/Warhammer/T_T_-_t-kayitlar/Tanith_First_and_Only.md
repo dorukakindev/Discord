@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dc/TanithFirstIcon.png/revision/latest?cb=20230721180720
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Tanith First and Only
 

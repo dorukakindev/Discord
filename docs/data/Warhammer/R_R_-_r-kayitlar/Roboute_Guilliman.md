@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/45/Roboute_Guilliman_Avenging_Son.png/revision/latest/scale-to-width
+
 -# THE IMPERIAL ARCHIVE
 # Roboute Guilliman
 

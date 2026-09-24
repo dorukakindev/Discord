@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Leman Russ
 

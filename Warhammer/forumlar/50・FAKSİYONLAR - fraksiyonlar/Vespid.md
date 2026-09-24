@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f7/NeutronBlaster.jpg/revision/latest?cb=20121003014336
+https://static.wikia.nocookie.net/warhammer40k/images/f/f7/NeutronBlaster.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Vespid

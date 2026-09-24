@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/ff/CustodianWardenMini.jpg/revision/latest?cb=20180201040349
+https://static.wikia.nocookie.net/warhammer40k/images/f/ff/CustodianWardenMini.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Misericordia
@@ -10,13 +10,4 @@ Custodes ve şövalye geleneğinin zırh eklemleri arasına saplanan ince hançe
 
 ## Teknik ve Kullanım
 Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
-
-## Teknik Özellikler
-- Tip: Space Marine küçük bıçağı — 'merhamet hançeri'
-- Görev: ağır yaralı kardeşe son vuruşu yapmak (Emperor's Peace)
-- Taşıyıcı: her Astartes'in kişisel donanımında
-
-## Not
-Savaş bıçağı değil, törensel son dokunuştur — düşmüş kardeşi savaş alanında bırakmamanın garantisi.
-
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

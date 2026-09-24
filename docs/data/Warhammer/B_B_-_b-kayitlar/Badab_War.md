@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/BadabWar.jpg/revision/latest?cb=20121103183926
+
 -# THE IMPERIAL ARCHIVE
 # Badab War
 

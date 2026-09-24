@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Ratling2.jpg/revision/latest?cb=20120704020454
+https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Ratling2.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Ratling

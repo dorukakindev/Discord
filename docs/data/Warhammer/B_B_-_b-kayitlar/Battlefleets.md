@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/48/Battleship_Gothic_cover.jpg/revision/latest?cb=20130414015051
+
 -# THE IMPERIAL ARCHIVE
 # Battlefleets
 

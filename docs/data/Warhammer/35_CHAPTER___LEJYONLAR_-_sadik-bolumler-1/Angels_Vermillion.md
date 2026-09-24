@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c1/AE_Shoulder_Guard.jpg/revision/latest?cb=20230808214524
+https://static.wikia.nocookie.net/warhammer40k/images/c/c1/AE_Shoulder_Guard.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Angels Vermillion

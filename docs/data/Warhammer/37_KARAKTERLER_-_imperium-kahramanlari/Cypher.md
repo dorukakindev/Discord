@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Lord_Cypher.jpg/revision/latest?cb=20131227103607
+https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Lord_Cypher.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Cypher

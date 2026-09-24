@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d2/Emperor%27s_Champion.jpg/revision/latest?cb=20140304073003
+https://static.wikia.nocookie.net/warhammer40k/images/d/d2/Emperor%27s_Champion.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Emperor's Champion

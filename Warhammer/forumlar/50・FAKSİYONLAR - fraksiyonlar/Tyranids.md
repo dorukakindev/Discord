@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cb/TyranidsIcon.jpg/revision/latest?cb=20230331182929
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/TyranidsIcon.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Tyranids

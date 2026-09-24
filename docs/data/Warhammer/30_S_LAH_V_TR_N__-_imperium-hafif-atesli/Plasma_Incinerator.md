@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/76/HellblasterSquad.jpg/revision/latest?cb=20170619231521
+https://static.wikia.nocookie.net/warhammer40k/images/7/76/HellblasterSquad.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Plasma Incinerator

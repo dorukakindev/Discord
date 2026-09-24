@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6c/House_Hawkshroud_Icon.jpg/revision/latest?cb=20140312043347
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/House_Hawkshroud_Icon.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Hawkshroud

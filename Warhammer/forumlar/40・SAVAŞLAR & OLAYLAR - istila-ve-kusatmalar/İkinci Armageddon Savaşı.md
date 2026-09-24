@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # İkinci Armageddon Savaşı
 *The Second War for Armageddon*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Iron Warriors
 

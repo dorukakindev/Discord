@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c2/Flash_Gitz_Dow.jpg/revision/latest?cb=20140203150205
+https://static.wikia.nocookie.net/warhammer40k/images/c/c2/Flash_Gitz_Dow.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Snazzgun

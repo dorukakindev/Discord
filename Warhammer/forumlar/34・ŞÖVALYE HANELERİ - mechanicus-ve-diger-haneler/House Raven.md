@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/db/House_Raven_Icon_3.jpg/revision/latest?cb=20140312042049
+https://static.wikia.nocookie.net/warhammer40k/images/d/db/House_Raven_Icon_3.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Mechanicus Ve Diger Haneler · Kayıt
 # House Raven

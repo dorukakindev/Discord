@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lovecraft/images/d/da/Shadows_Over_Baker_Street.jpg/revision/latest?cb=20211017175952
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Voorish Sign — Voorish İşareti

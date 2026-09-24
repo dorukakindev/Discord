@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/NovamarinesBadge.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Novamarines
 

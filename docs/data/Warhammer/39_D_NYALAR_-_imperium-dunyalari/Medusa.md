@@ -1,8 +1,8 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Medusa.png/revision/latest?cb=20131017200830
+https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Medusa.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Medusa
+# Medusa — Medusa
 
 Sürekli alacakaranlık içinde, volkanlar ve buzul sıradağlarla kaplı, jeolojik olarak kararsız ölüm dünyası; Iron Hands'in ve kayıp primarch Ferrus Manus'un sert anavatanı.
 

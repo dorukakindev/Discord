@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608
+https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Leagues of Votann

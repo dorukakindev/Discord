@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e2/Bjorn_the_Fell-Handed_battle_ready.jpg/revision/latest?cb=20150503212033
+
 -# THE IMPERIAL ARCHIVE
 # Bjorn the Fell Handed
 

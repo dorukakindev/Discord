@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/86/Lightning.png/revision/latest?cb=20120216160128
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Paired Lightning Claws
 

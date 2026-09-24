@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e6/Hyperphase_sword.jpg/revision/latest?cb=20130415021715
+https://static.wikia.nocookie.net/warhammer40k/images/e/e6/Hyperphase_sword.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Hyperphase Sword

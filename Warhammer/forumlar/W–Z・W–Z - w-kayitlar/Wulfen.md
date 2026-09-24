@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/98/Wulfen.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · W Kayıtları
 # Wulfen
 

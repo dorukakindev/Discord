@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Railrifle11.jpg/revision/latest?cb=20131016235810
+https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Railrifle11.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Rail Rifle

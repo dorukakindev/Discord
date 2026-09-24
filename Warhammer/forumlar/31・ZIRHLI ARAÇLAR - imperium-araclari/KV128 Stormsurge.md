@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/58/Stormsurge4.jpg/revision/latest?cb=20170325230059
+https://static.wikia.nocookie.net/warhammer40k/images/5/58/Stormsurge4.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # KV128 Stormsurge

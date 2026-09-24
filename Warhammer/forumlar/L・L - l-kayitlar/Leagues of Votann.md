@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Leagues of Votann
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Organisation_med.jpg/revision/latest?cb=20120629094246
+https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Organisation_med.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · C Kayıtları · Kayıt
 # Cadian Shock Troops

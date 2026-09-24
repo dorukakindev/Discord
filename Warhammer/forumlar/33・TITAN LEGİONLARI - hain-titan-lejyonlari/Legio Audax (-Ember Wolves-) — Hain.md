@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/Legio_Audax_Icon_Fancy.png/revision/latest?cb=20211206203135
+
 -# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
 # Legio Audax
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/32/Inquisitorial_Black_Ship.jpg/revision/latest?cb=20130418001957
+https://static.wikia.nocookie.net/warhammer40k/images/3/32/Inquisitorial_Black_Ship.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Black Ship

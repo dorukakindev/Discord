@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Karandras2_7th_Ed.png/revision/latest?cb=20141120193546
+https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Karandras2_7th_Ed.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Karandras

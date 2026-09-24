@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/54/Exterminatus_1.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Exterminatus
 

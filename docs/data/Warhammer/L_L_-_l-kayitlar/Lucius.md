@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Lucius_Skitarii_Icon.png/revision/latest
+
 -# THE IMPERIAL ARCHIVE
 # Lucius
 

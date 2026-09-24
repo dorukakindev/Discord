@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7e/Brotherhood_of_the_Knife.jpg/revision/latest?cb=20120211084442
+https://static.wikia.nocookie.net/warhammer40k/images/7/7e/Brotherhood_of_the_Knife.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Lost and the Damned

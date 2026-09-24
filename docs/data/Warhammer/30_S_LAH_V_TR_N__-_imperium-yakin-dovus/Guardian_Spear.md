@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Custodian_Prospero.png/revision/latest?cb=20170316212726
+https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Custodian_Prospero.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Guardian Spear

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Iron_Snakes_SP2.png/revision/latest?cb=20170726153946
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Iron_Snakes_SP2.png/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Iron Snakes

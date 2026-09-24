@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/49/Tyranid-header.jpg/revision/latest?cb=20160523003947
+https://static.wikia.nocookie.net/warhammer40k/images/4/49/Tyranid-header.jpg/revision/latest
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Genestealer

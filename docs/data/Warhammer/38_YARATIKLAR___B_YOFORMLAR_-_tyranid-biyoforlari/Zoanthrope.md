@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/89/Biothrope.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Zoanthrope
 
