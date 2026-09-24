@@ -13,8 +13,6 @@ Klan kimliğinin nereden geldiği, bir Ork'un doğuştan mı yoksa yetiştiği k
 
 Klanların yanında, klan sınırlarını aşan **kültürler** de vardır: hıza tapan Speed Freeks, roket sırt çantalı Stormboyz, gizlilik ustası Kommandos ya da uzay korsanı Freebooterz gibi. Bu kanal büyük klanları, bu alt kültürleri ve Ork türünün alt türlerini ele alır; türün genel tarihi ve biyolojisi **kayıt**, tanrıları **kayıt** kanalındadır.
 
-![gorsel](https://images.pexels.com/photos/4474053/pexels-photo-4474053.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260)
-
 ## Goffs, Evil Sunz ve Bad Moons
 
 **Goffs.** Klanların en irisi, en kabası ve en kalabalığıdır. Siyah ve beyaz damalı desenler ve siyah bir boğa başı sembolü taşırlar. Goff'lar için savaşın özü yakın dövüştür; gösterişi, aşırı karmaşık silahları ve geri çekilmeyi küçümserler. Kalabalık piyade yığınları ve olağandışı sayıda Nobz, Goff kabilelerinin belirgin özelliğidir. Ork'ların ölçüsünde disiplinli sayılmaları, bu disiplinin kaba kuvvetle sağlanmasından gelir. M41'in en ünlü Ork'u **Ghazghkull Mag Uruk Thraka** bir Goff'tur ve Armageddon savaşlarında klanın adını galaksiye duyurmuştur.

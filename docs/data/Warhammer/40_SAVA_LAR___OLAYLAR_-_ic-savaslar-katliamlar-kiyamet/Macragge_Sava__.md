@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e6/MacraggeSystem.jpg/revision/latest?cb=20171204062825
+https://static.wikia.nocookie.net/warhammer40k/images/1/10/Tactical_Advance.jpg/revision/latest?cb=20110307041148
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
@@ -29,4 +29,4 @@ Tyranid Behemoth sonunda püskürtüldü (kraliçesinin yörüngede yok edilmesi
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e6/MacraggeSystem.jpg/revision/latest?cb=20171204062825)
+![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/10/Tactical_Advance.jpg/revision/latest?cb=20110307041148)
