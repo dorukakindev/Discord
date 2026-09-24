@@ -26,4 +26,4 @@ Arşivdeki detayları sınırlıdır; makalesi var ama içeriği azdır. Kilise'
 - Detayları sınırlı — kasıtlı gizem
 
 -# Kaynaklar: trenchcrusade.com 'Our Lady Immaculata Penitens' (Book X)
--# Çapraz: #church #saints
+-# Çapraz: <#1551932038121263155> <#1551932121206226974>

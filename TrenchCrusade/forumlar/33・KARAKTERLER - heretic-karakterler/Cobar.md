@@ -24,4 +24,4 @@ Cobar'ın kişisel hayatı belgelenmemiştir; önemi kurumsal — onun dönemind
 - Detaylar belgesiz — kurumsal önem
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1106)
--# Çapraz: #heretic-legion <#1551932288663683153>
+-# Çapraz: <#1551932078826848298> <#1551932288663683153>

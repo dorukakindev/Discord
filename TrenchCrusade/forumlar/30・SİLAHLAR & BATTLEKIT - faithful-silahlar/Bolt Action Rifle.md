@@ -1,14 +1,14 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Gev%C3%A4r_modell_96_Jvm21379_%283%29.jpg/960px-Gev%C3%A4r_modell_96_Jvm21379_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Bolt Action Rifle — Sürgülü Tüfek
 
 Trench Crusade siperlerinin omurgası: ucuz, güvenilir, her saftaki askerin taşıdığı sürgülü, uzun menzilli tüfek.
 
 - **Tür:** Ateşli Silah
-- **Köken:** Büyük Savaş standart piyade silahı
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Büyük Savaş standart piyade silahı
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Sürgülü Tüfek aynı zamanda Trench Crusade'in melez doğasının da simgesid
 - New Antioch piyadesinden Cehennem lejyonerine kadar herkesin elinde
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932141762388119> <#1551932019800408135> <#1551932085067841579> <#1551932099756294206>

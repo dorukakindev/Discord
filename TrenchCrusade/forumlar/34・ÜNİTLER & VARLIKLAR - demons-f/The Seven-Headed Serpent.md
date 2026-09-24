@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # The Seven-Headed Serpent — Yedi Başlı Yılan, Cehennem'in Yedi Baş İblisi Olan Kozmik Varlık
 
@@ -31,3 +31,7 @@ Yedi Başlı Yılan, Trench Crusade'in cehennem kozmolojisinin tam kalbidir. Ç�
 - Yeryüzü'ne karşı Büyük Savaş'ın gidişatını fermanlarıyla belirler
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978> <#1551932025928286280>

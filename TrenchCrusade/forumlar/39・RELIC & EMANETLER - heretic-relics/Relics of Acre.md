@@ -24,4 +24,4 @@ Faithful için bu emanatların geri alınması, 'reclamation' doktrininin en som
 - Demetrian geri alma listesinin başı
 
 -# Kaynaklar: trenchcrusade.com 'Domus Demetrius' (Book I); Digital Rulebook 1.0.2
--# Çapraz: #act-of-ultimate-heresy <#1551932325485486080> <#1551932291318677625>
+-# Çapraz: <#1551932010098991205> <#1551932325485486080> <#1551932291318677625>

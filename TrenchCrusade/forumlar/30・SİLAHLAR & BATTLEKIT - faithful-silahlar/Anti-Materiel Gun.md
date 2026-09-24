@@ -26,4 +26,4 @@ Faithful'ın en ağır piyade silahı olarak; tek atışta bir siper noktasını
 - Piyade taşınamaz — dev güç gerekir
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrims Way of War', 'Communicant' (Book IV); Warbands 1.0.2
--# Çapraz: <#1551932212939857996> #weapons-of-great-war
+-# Çapraz: <#1551932212939857996> <#1551932136150269962>

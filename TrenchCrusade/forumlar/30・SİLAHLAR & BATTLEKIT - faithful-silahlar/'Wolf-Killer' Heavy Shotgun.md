@@ -26,4 +26,4 @@ Machine armour ve Communicant'ın olmadığı siperlerde, Wolf-Killer son savunm
 - Armaments of the Great War'da adı geçer
 
 -# Kaynaklar: trenchcrusade.com 'The Armaments of the Great War' (Book I)
--# Çapraz: #weapons-of-great-war <#1551932157977694333>
+-# Çapraz: <#1551932136150269962> <#1551932157977694333>

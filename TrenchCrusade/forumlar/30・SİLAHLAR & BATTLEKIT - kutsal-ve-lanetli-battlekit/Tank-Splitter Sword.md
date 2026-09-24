@@ -1,14 +1,14 @@
 https://upload.wikimedia.org/wikipedia/commons/1/10/Zweihaender_im_historischen_Museum_Basel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Tank-Splitter Sword — Tank-Yaran Kılıç
 
 İki elle taşınan devasa New Antioch kılıcı; kutsal metalle dövülmüş, zırhı ve hatta tank plakasını bile yarabilen yakın dövüş silahı.
 
 - **Tür:** Yakın Dövüş
-- **Köken:** New Antioch dövümü; orikalkum çeliği
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** New Antioch dövümü; orikalkum çeliği
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Tank-Yaran Kılıç, New Antioch'un savaş felsefesini de yansıtır: inanç ve 
 - New Antioch'un ağır vurucu yakın dövüş silahı
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932153346916372> <#1551931985071440035> <#1551932019800408135> <#1551932099756294206>

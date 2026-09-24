@@ -27,4 +27,4 @@ Varyant, disiplinli Alman ordusunun siper savaşı doktrinini New Antioch'un ço
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Hauptmann Frederica von Goltz', 'Prussian Stosstruppen' (Book XII)
--# Çapraz: #new-antioch #warbands
+-# Çapraz: <#1551932099756294206> <#1551932133281370252>

@@ -24,4 +24,4 @@ Arşiv kullanıcıları için önemi şudur: Church-POV anlatım, Sultanlık'ı 
 - Güvenilmez anlatıcı ilkesi — çelişkiler kasıtlı
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (lore hub çerçevesi); trenchcrusade.com Lore hub
--# Çapraz: #kaynak-politikasi #kanon-kontrol
+-# Çapraz: <#1551931999629873254> <#1551932374584139878>

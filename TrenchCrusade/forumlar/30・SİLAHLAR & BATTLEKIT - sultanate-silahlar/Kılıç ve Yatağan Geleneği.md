@@ -26,4 +26,4 @@ Alamut'un suikastçıları için hançer, silahtan çok teolojik araçtır — t
 - Selçuklu kılıç geleneğinin devamı
 
 -# Kaynaklar: trenchcrusade.com 'Mamluk Faris', 'Sultanate Assassin', 'Yuzbasi' (Book V)
--# Çapraz: <#1551932215716356228> #alamut
+-# Çapraz: <#1551932215716356228> <#1551932012841930887>

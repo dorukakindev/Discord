@@ -27,4 +27,4 @@ Başlangıçta Heretic Legions'ın bir varyantı olarak tanımlanan Naval Raider
 - Kurallar ayrıntıları için Warbands 1.0.2 ve Carcass Front
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; 'On Factions, Warband Lists, and Warband Variants' (resmî makale); 'War Priest Charon' (Book VI)
--# Çapraz: #heretic-legion <#1551932271081164811> #war-priest-charon
+-# Çapraz: <#1551932078826848298> <#1551932271081164811>

@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/5/5c/Trench-Crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Prussian Stosstruppen — Prusya Fırtına Birlikleri
 
 Özgür Prusya Devletleri'nin seçkinleri: el işaretleriyle haberleşip bunkerleri el bombası, alev ve otomatik ateşle basan baskın uzmanları.
 
-- **Fraksiyon:** New Antioch
-- **Rol:** Vurucu Birlik / Nişancı
+- **Tür:** Vurucu Birlik / Nişancı
+- **Bağlılık:** New Antioch
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Prussian Stosstruppen, Birinci Dünya Savaşı'nın gerçek Alman fırtına birl
 - Sekize kadar birlik; ikisi Infiltrator (sızıcı) olabilir
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932212939857996> <#1551932019800408135> <#1551932099756294206>

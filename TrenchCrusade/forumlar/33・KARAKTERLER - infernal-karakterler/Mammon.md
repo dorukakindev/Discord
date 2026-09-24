@@ -26,4 +26,4 @@ Knights of Avarice gibi yeryüzündeki hizmetkârları Mammon'u 'Plutocracy of T
 - Yeryüzü hizmetkârları: Knights of Avarice
 
 -# Kaynaklar: trenchcrusade.com 'Court of the Seven-Headed Serpent' (Book VIII)
--# Çapraz: #court-of-seven-headed-serpent <#1551932288663683153>
+-# Çapraz: <#1551932047541674025> <#1551932288663683153>

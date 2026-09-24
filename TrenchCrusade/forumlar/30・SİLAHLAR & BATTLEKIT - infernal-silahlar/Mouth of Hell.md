@@ -1,14 +1,14 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hellmouth.jpg/960px-Hellmouth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Mouth of Hell — Cehennem Ağzı (Dev Top)
 
 Cehennem'in dökümhanelerinde dövülmüş, 666 fit uzunluğunda ve 1666 milimetre çapında devasa top; bir mevkiyi tek atışta silebilen kıyamet silahı.
 
 - **Tür:** Patlayıcı
-- **Köken:** Cehennem demirhaneleri; dev kuşatma topu
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Cehennem demirhaneleri; dev kuşatma topu
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Cehennem Ağzı, aynı zamanda bu savaşın gayrişahsi, ezici dehşetini de sim
 - Sayısal sembolizmi (666/1666) lanetli doğasını ilan eder
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932150658502687> <#1551932019800408135> <#1551932099756294206>

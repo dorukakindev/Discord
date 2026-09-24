@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/e/e9/Trench-Crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # War Prophet — Savaş Peygamberi
 
 Çılgın hacı yığınlarını Hiçkimsenin Toprağı'na süren, dostlarını iyileştiren ve görülerini izleyen fanatik Trench Pilgrim önderi.
 
-- **Fraksiyon:** Trench Pilgrims
-- **Rol:** Şampiyon / Lider
+- **Tür:** Şampiyon / Lider
+- **Bağlılık:** Trench Pilgrims
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ War Prophet, Trench Crusade'deki imanın en saf ve en tehlikeli hâlini temsil e
 - Savaş başına bir kez 'Out of Action' edilmeyi yok sayabilir
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932212939857996> <#1551932130202882048>

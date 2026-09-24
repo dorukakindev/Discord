@@ -26,4 +26,4 @@ Artefaktın mevcut konumu bilinmez — Hell'e mi döndü, kayıp mı, hâlâ Kud
 - Konumu bilinmez — 'açan şey hâlâ orada olabilir'
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (açılış anlatısı)
--# Çapraz: #act-of-ultimate-heresy #gate-of-hell #knights-templar
+-# Çapraz: <#1551932010098991205> <#1551932063278563358> <#1551932091132944444>

@@ -26,4 +26,4 @@ Fedai suikastlarının özelliği 'coğrafya bükme' söylentisidir — hedefe n
 - Hereticler'de 'güvenli yer' yokluğu
 
 -# Kaynaklar: trenchcrusade.com 'Alamut, the Eagle's Nest' (Book I); 'Sultanate Assassin' (Book V)
--# Çapraz: #alamut <#1551932177237807154> <#1551932215716356228>
+-# Çapraz: <#1551932012841930887> <#1551932177237807154> <#1551932215716356228>

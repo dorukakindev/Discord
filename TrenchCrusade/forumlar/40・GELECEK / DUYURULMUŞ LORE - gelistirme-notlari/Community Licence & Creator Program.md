@@ -24,4 +24,4 @@ Bu sistemin arşiv politikası: lisanslı içerik (The Great Hunger gibi) 'resm�
 - Arşivde 'resmî-yan' vs 'fanon' ayrımı
 
 -# Kaynaklar: trenchcrusade.com 'Community Licence' sayfası
--# Çapraz: #kaynak-politikasi #kanon-siniflari
+-# Çapraz: <#1551931999629873254> <#1551931999629873254>

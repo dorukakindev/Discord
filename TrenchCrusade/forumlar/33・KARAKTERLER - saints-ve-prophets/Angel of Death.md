@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/a0/Giovanni_Ba
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 33・KARAKTERLER · Kayıt
 
 # Angel of Death — Ölüm Meleği, Tanrı'nın Yakıp Yıkan Habercisi
 
@@ -31,3 +31,7 @@ Meleğin gelişine tanık olanlar, onu ancak kırık parçalarla anlatabilir: me
 - Sözleri gök gürültüsü gibidir; o sözleri işiten ölümlü zihin kırılır
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932207508226170> <#1551932025928286280> <#1551932060443222057>

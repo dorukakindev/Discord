@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ac/Hell_Knight
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Hell Knight — Cehennem Şövalyesi, Zırhına Hapsedilmiş Lanetli Savaşçı
 
@@ -31,3 +31,7 @@ Bu yüzden Cehennem Şövalyesi, savaş alanında yalnızca bir asker değil, y�
 - Cehennem'in yanan saraylarından sürülmüş, intikam dolu bir savaşçı
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978>

@@ -25,4 +25,4 @@ Anchorite Shrine'larda bu sistem 'taşınabilir' hâle gelir — gömülen kişi
 - Kefaretin mekânsallaşması
 
 -# Kaynaklar: trenchcrusade.com 'Anchorite Shrine' (Book IV), 'New Antioch' (Book III)
--# Çapraz: #anchorites <#1551932310943830088>
+-# Çapraz: <#1551932310943830088>

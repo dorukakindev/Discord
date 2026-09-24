@@ -24,4 +24,4 @@ Mendelist Order'ın kimyasal komünyon ayini, bu klon eti/alıcı genoma bağlay
 - 'Tanrı klonlanabilir mi?' teolojik sınırı
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrims Way of War', 'Stigmatic Nuns' (Book IV)
--# Çapraz: <#1551932207508226170> <#1551932308464996453> #meta-christ
+-# Çapraz: <#1551932207508226170> <#1551932308464996453> <#1551932096598253643>

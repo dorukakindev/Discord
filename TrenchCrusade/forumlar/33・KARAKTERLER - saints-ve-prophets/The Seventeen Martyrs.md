@@ -24,4 +24,4 @@ Hikâyeleri Faithful'ın en trajik ikonudur: Kurtuluş'un mesajını taşıyanla
 - Kilise'nin kolektif şehit kültü
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1117)
--# Çapraz: #seventeen-martyrs #hell
+-# Çapraz: <#1551932126700769360> <#1551932073957261392>

@@ -26,4 +26,4 @@ Book VIII'de kendi makalesi olan birim; Mahkeme'nin 'iç avcı' imajını verir 
 - Book VIII'de kendi makalesi
 
 -# Kaynaklar: trenchcrusade.com 'Hunter of the Left-Hand Path' (Book VIII)
--# Çapraz: #court-of-seven-headed-serpent <#1551932305453613132>
+-# Çapraz: <#1551932047541674025> <#1551932305453613132>

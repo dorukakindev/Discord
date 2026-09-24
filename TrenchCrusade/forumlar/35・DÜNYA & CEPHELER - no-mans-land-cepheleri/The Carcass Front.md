@@ -24,4 +24,4 @@ New Antioch İkmal Filosu'nun batışının oluşturduğu kıyı cephesi.
 - Operation Leviathan'ın coğrafyası
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1905); trenchcrusade.com 'The Carcass Front'
--# Çapraz: #the-carcass-front <#1551932271081164811>
+-# Çapraz: <#1551932035050897502> <#1551932271081164811>

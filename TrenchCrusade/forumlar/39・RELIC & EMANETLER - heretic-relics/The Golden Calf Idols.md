@@ -26,4 +26,4 @@ Bu putlar, Kilise'nin relik geleneğinin karanlık aynasıdır: Faithful aziz ke
 - 'Taşınabilir kutsal'ın kölelik versiyonu
 
 -# Kaynaklar: trenchcrusade.com 'The Golden Calf War Altar' (Book VI)
--# Çapraz: <#1551932302609747988> #heretic-legion
+-# Çapraz: <#1551932302609747988> <#1551932078826848298>

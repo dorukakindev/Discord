@@ -26,4 +26,4 @@ Azizlik statüsü resmî lisanslı lore'da yer alır; Kilise'nin aziz takvimiyle
 - Westfalia lisanslı içerik
 
 -# Kaynaklar: The-Red-Brigade-1.0.2.pdf (Westfalia / trenchcrusade.com)
--# Çapraz: <#1551932171936075801> #saints
+-# Çapraz: <#1551932171936075801> <#1551932121206226974>

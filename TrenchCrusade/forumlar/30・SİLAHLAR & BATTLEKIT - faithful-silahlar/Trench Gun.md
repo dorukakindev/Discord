@@ -1,14 +1,14 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench_Pilgrims_Logo.png/revision/latest/scale-to-width-down/900?cb=20260915055147
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Trench Gun — Siper Tüfeği (Pompalı)
 
 Yakın mesafede yıkıcı, pompalı bir av tüfeği; dar siper koridorlarında bir adımı bir mezbahaya çeviren kısa menzilli silah.
 
 - **Tür:** Ateşli Silah
-- **Köken:** Büyük Savaş; siper baskını silahı
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Büyük Savaş; siper baskını silahı
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ New Antioch'un silah ustaları bu temel tasarımı daha da ileri götürmüştü
 - Pompalı mekanizma hızlı ardışık atış sağlar
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932141762388119> <#1551931985071440035>

@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/2/2b/Luca_Giorda
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Kudüs'ün Düşüşü ve Levant'ın İstilası — Cehennem Ordularının İlk Fethi
 
@@ -31,3 +31,7 @@ Kudüs'ün düşüşü, dünyayı kalıcı olarak ikiye böldü. Bir yanda Cehen
 - Kutsal Şehir'i geri alma hayali, sekiz asırlık bir Haçlı Seferi'ne dönüşür
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504> <#1551932019800408135>

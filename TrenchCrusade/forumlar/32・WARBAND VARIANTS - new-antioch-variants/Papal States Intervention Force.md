@@ -28,4 +28,4 @@ Arşiv notu: Varyantın özel kuralları ve profil ayrıntıları için Warbands
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; Digital Rulebook 1.0.2 (timeline 1721)
--# Çapraz: #new-antioch #principality-of-new-antioch #warbands
+-# Çapraz: <#1551932099756294206> <#1551932118404173885> <#1551932133281370252>

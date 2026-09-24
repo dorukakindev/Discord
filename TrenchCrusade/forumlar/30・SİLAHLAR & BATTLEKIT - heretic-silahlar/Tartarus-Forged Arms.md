@@ -26,4 +26,4 @@ Heretic Legions'ın kütle üretim kapasitesi yoktur — silahları hem Faithful
 - Lejyonun savaş ekonomisi
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI)
--# Çapraz: #heretic-legion <#1551932302609747988>
+-# Çapraz: <#1551932078826848298> <#1551932302609747988>

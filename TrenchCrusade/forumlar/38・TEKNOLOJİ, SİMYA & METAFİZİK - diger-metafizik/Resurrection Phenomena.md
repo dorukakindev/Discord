@@ -26,4 +26,4 @@ Bu üçlü, evrenin 'ölüm ekonomisi'ni gösterir: Hereticler ölüleri 'koroya
 - 'Ölüm ekonomisi' — ruh kimin malı?
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (VI), 'Trench Pilgrims' (IV), 'Court' (VIII)
--# Çapraz: <#1551932218140659794> <#1551932207508226170> #demons
+-# Çapraz: <#1551932218140659794> <#1551932207508226170> <#1551932054948675644>

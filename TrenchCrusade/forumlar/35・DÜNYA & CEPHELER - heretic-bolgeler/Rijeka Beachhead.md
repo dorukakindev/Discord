@@ -26,4 +26,4 @@ Plaj başının tahkim edilmesi, 'geri dönüş olmayan' bir işgal modeli başl
 - Anakara fetihlerinin başlangıcı
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1872)
--# Çapraz: <#1551932262713659504> #great-war
+-# Çapraz: <#1551932262713659504> <#1551932071453401199>

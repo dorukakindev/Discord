@@ -24,4 +24,4 @@ Kâse, kültün adını veren nesnedir — ona tapınanlar 'veba içenler'dir: k
 - 'Veba içmek' — kült kabul ayini
 
 -# Kaynaklar: trenchcrusade.com 'The Cult of the Black Grail' (Book VII)
--# Çapraz: #black-grail <#1551932265339162655> #beelzebub
+-# Çapraz: <#1551932029560430673> <#1551932265339162655> <#1551932025928286280>

@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/4/45/Hellmouth_o
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Kuzey ve İrlanda Cehennem Ağızları — Kola Yarımadası'nın Yarığı ve Fatih Zacchur'un İstilası
 
@@ -31,3 +31,7 @@ Bir başka kapı ise daha güneyde, İrlanda'da uzandı. Kanonik kayda göre 180
 - 1890'da Paladin Anseis bu İrlanda kapısını kapatır
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504>

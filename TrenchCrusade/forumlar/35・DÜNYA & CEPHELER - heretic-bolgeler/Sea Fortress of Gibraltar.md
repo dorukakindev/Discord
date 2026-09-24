@@ -24,4 +24,4 @@ Deniz Kalesi, Faithful'ın Akdeniz güvenliğinin kaybedildiği noktadır — 'i
 - Tüm sonraki deniz savaşlarının öncüsü
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1666)
--# Çapraz: <#1551932271081164811> #heretic-legion
+-# Çapraz: <#1551932271081164811> <#1551932078826848298>

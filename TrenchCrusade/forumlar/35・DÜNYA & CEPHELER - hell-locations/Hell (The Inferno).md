@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/2/2b/Luca_Giorda
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # Hell (The Inferno) — Cehennem (İnferno)
 
 Düşmüş Meleklerin sürgün edildiği, dokuz halkadan oluşan infernal alem; Yaratılış'tan önce var olan ve kadim varlıkları hapseden bir Kapı'yı barındırır.
 
 - **Tür:** Cehennem Diyarı
-- **Bölge:** Ölümlü düzlemin altındaki infernal alem
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Ölümlü düzlemin altındaki infernal alem
 
 ## Kayıt
 
@@ -31,3 +31,7 @@ Cehennem yalnızca bir ceza yeri değil, işleyen bir uygarlık ve devasa bir sa
 - Sürekli değişen, kayan coğrafya
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932253481738321>

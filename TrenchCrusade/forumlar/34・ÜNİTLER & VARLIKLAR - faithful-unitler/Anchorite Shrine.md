@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench-Crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Anchorite Shrine — Münzevi Mihrabı
 
 On iki ayak boyunda, neredeyse her hasara bağışık yürüyen savaş mihrabı; içi dikenlerle kaplı, durmadan acı çeken bir keşiş tarafından sürülür.
 
-- **Fraksiyon:** Trench Pilgrims
-- **Rol:** Canavar / Makine Zırhı
+- **Tür:** Canavar / Makine Zırhı
+- **Bağlılık:** Trench Pilgrims
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Anchorite Shrine, Trench Pilgrims felsefesinin en uç noktasıdır: gönüllü a
 - Bazen alaylara katılıp onları kutsayan kadim bir makine zırhı
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932212939857996> <#1551932130202882048>

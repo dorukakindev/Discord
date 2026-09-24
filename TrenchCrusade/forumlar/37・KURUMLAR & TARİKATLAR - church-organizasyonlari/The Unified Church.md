@@ -24,4 +24,4 @@ Birleşik Kilise'nin teolojisi 'senkretik'tir: farklı geleneklerin ortak noktas
 - 'Cehennem karşısı birlik' ilkesi
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1588)
--# Çapraz: #church <#1551932274356781126>
+-# Çapraz: <#1551932038121263155> <#1551932274356781126>

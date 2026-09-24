@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/b/b8/WorldMapv3.
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Trench Crusade: Bir Dunyaya Acilan Cehennem Kapisi
 
@@ -27,3 +27,7 @@ Bu evrenin estetik ve atmosferi, Birinci Dünya Savaşı'nın siper teknolojisin
 Trench Crusade, bu sorunun cevabını bilmez ve vermez. Oyunun siperleri, o cevabı aramaya devam eden askerlerin ayaklarının altındaki çamurdur. 1099'dan 1914'e uzanan bu kronoloji, bir avuç şövalyenin işlediği günahtan sekiz asır boyunca büyüyen savaşın, inançların, yenilgilerin ve mucize zaferlerinin zinciridir; ölümüne direnen bir insanlığın ve o direniş için bedelini ödeyen her neferin hikayesidir.
 
 -# Kaynaklar: Timeline + resmî lore
+
+---
+
+-# Çapraz: <#1551932274356781126>

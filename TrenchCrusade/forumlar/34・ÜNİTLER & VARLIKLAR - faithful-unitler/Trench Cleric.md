@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/9f/Mike-franch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Trench Cleric — Siper Rahibi
 
 Savaş meydanında ilham veren dualar okuyan, yaralıyı iyileştiren ya da düşmanı kahreden; sırtında taşınabilir bir mihrap-haç taşıyan New Antioch ruhbanı.
 
-- **Fraksiyon:** New Antioch
-- **Rol:** Ruhban
+- **Tür:** Ruhban
+- **Bağlılık:** New Antioch
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ New Antioch'un çeşitli varyantlarında Trench Cleric'in rolü daha da öne ç�
 - Papalık Müdahale Gücü varyantında düşeni ayağa kaldırır
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932212939857996> <#1551932019800408135> <#1551932099756294206>

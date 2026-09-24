@@ -2,7 +2,7 @@
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # Meta-Christ — Meta-İsa, Kurtarıcı'nın Klonlanmış Eti
 

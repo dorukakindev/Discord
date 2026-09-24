@@ -26,4 +26,4 @@ Bu sistem, Machine Armour'ın teolojik öncüsüdür: Methodius'un keşiş-tapı
 - Machine armour'un teolojik öncüsü
 
 -# Kaynaklar: trenchcrusade.com 'Anchorite Shrine' (Book IV), 'Mechanized Heavy Infantry' (Book III)
--# Çapraz: #anchorites <#1551932160951451649> #trench-pilgrims
+-# Çapraz: <#1551932160951451649> <#1551932130202882048>

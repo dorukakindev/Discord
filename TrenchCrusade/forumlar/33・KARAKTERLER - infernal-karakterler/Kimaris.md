@@ -24,4 +24,4 @@ Gerçek tarihî Kimaris, Ars Goetia'da da bir Marquis olarak geçer — Trench C
 - Ars Goetia'daki klasik Marquis unvanı
 
 -# Kaynaklar: trenchcrusade.com 'The Principality of New Antioch' (Book III)
--# Çapraz: <#1551932241817501734> #court-of-seven-headed-serpent
+-# Çapraz: <#1551932241817501734> <#1551932047541674025>

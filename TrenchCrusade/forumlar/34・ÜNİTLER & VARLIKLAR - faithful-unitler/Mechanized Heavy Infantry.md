@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/93/Mike-franch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Mechanized Heavy Infantry — Mekanize Ağır Piyade
 
 Deneysel uçan makine zırhı içine kapatılmış, 'yürüyen savaş kuleleri' diye anılan, ağır silahları taşıyan dev New Antioch piyadeleri.
 
-- **Fraksiyon:** New Antioch
-- **Rol:** Canavar / Makine Zırhı
+- **Tür:** Canavar / Makine Zırhı
+- **Bağlılık:** New Antioch
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Mechanized Heavy Infantry, Trench Crusade'in temel paradoksunun cisimleşmiş h�
 - Zırh sürekli kullanımda; pilot ölünce aceleyle onarılıp devreye sokulur
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932212939857996> <#1551932019800408135> <#1551932099756294206>

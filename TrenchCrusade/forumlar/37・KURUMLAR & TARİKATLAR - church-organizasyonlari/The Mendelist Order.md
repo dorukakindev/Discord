@@ -26,4 +26,4 @@ Tarikatın 'Mendelist Ammo Monk' gibi saha temsilcileri de vardır — savaş ra
 - Yan etkiler: konuşma/beyin kaybı
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrim Way of War' (Book IV); 'The Armaments of the Great War'
--# Çapraz: <#1551932308464996453> <#1551932212939857996> #meta-christ
+-# Çapraz: <#1551932308464996453> <#1551932212939857996> <#1551932096598253643>

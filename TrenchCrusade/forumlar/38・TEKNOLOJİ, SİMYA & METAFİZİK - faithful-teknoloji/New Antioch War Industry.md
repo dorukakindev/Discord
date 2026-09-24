@@ -26,4 +26,4 @@ New Antioch'un surları ardında sadece savunma yoktur — üretim vardır: tank
 - Mendelist + lonca + orikalkum tek çatı
 
 -# Kaynaklar: trenchcrusade.com 'The Principality of New Antioch' (Book III)
--# Çapraz: #new-antioch <#1551932212939857996>
+-# Çapraz: <#1551932099756294206> <#1551932212939857996>

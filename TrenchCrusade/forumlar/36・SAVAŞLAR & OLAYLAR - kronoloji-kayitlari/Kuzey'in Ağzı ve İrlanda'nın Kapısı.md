@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/4/45/Hellmouth_o
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Kuzey'in Ağzı ve İrlanda'nın Kapısı
 
@@ -23,3 +23,7 @@ Bu kararsız tehdit, insanlığı yeni bir savunma biçimine zorladı. Strateji 
 Bir başka kapı daha güneyde, İrlanda'da uzandı. Kanonik kayda göre 1807 yılında, Fatih Zacchur (Zacchur the Conqueror), uzun süredir uykuda kalan bir Cehennem Ağzı'nı Eire'de açtı; amacı Yedi Başlı Yılan Sarayı'nın (Court of the Seven-Headed Serpent) güçleriyle adayı istila etmekti. On dokuzuncu yüzyılın bu büyük sapkın istilası yıllarca sürdü ve Britanya Adaları'nı tehdit etti. Sonunda 1890 yılında, Paladin Anseis bu portali kapatmayı başardı ve İrlanda'daki istila sona erdi. Bu ikincil ağızlar, Trench Crusade dünyasında Cehennem tehdidinin yalnızca Levant'la sınırlı olmadığını açıkça gösterir: yarık dünyanın herhangi bir yerinde yeniden açılabilir, ve insanlık her cephede, her an teyakkuzda yaşamak zorundadır.
 
 -# Kaynaklar: Timeline + resmî lore
+
+---
+
+-# Çapraz: <#1551932274356781126>

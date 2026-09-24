@@ -1,14 +1,14 @@
 https://static.wikia.nocookie.net/mythology/images/e/e3/Beguiling_of_Merlin.jpeg/revision/latest/scale-to-width-down/513?cb=20211026124432
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # The Lake of Eternal Flame — Sonsuz Alev Gölü
 
 Cehennem'in derinliklerinde uzanan, sönmeyen ateşten bir göl; Heretic Legion'un en vahşi Kutsanmışları hac yolculuklarının sonunda bu kıyıya ulaşır.
 
 - **Tür:** Cehennem Diyarı
-- **Bölge:** Cehennem'in derinlikleri
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Cehennem'in derinlikleri
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Bu yüzden Sonsuz Alev Gölü, sadece coğrafi bir nokta değil, bir eşik ve bi
 - Infernal sadakatin en uç sınavı
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932253481738321> <#1551932078826848298>

@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/9a/Mike-franch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # No Man's Land — Ölü Toprak, Cennet ile Cehennem Arasındaki Çorak Diyar
 

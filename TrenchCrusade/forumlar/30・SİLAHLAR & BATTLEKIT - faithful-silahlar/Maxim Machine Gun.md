@@ -1,14 +1,14 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Maxim_gun%2C_Georgian_national_museum.JPG/960px-Maxim_gun%2C_Georgian_national_museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Maxim Machine Gun — Maxim Makineli Tüfeği
 
 Siper savaşının dehşetli ağır silahı; sabit bir mevziden saniyede yüzlerce kurşun yağdırıp tüm bir hücumu yok eden makineli tüfek.
 
 - **Tür:** Ateşli Silah
-- **Köken:** Büyük Savaş; ağır destek silahı
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Büyük Savaş; ağır destek silahı
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Trench Crusade'in fantastik dünyasında bile bu silah hem Faithful hem Heretic 
 - Hem Faithful hem Heretic ordularının belkemiği destek silahı
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932141762388119>

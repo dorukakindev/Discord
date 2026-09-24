@@ -24,4 +24,4 @@ Gelin unvanı, Kara Kâse kültünün 'evlilik' mitolojisini taşır — Beelzeb
 - 1429 sonrası Kâse'nin devamının kanıtı
 
 -# Kaynaklar: trenchcrusade.com 'Yersinia Rex', 'The Cult of the Black Grail' (Book VII)
--# Çapraz: #black-grail <#1551932202915471361>
+-# Çapraz: <#1551932029560430673> <#1551932202915471361>

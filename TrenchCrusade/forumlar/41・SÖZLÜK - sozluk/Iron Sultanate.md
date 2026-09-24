@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/d/dc/Iron_Sultan
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # Iron Sultanate — Demir Sultanlık, Demir Duvar'ın Ardındaki Rum Diyarı
 

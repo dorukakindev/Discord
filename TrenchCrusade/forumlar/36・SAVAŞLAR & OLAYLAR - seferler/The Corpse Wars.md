@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # The Corpse Wars — Beelzebub'un Kara Kâsesi ve Ceset Savaşları
 
@@ -31,3 +31,7 @@ Vebanın en yozlaşmış kurbanları daha karanlık bir kadere uğradı: kutsanm
 - İnsanlık tarihinin gördüğü en büyük veba, Avrupa'yı kasıp kavurur
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504> <#1551932025928286280> <#1551932029560430673> <#1551932044617977951>

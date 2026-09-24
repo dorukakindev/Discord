@@ -1,12 +1,12 @@
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Tartarus Claws — Tartaros Pençeleri
 
 Cehennem Lejyonu Ölüm Komandolarının taşıdığı, Styx Nehri sularında sertleştirilen lanetli pençeler; ölümlü hiçbir zehirden daha güçlü bir öldürücüyle kaplı.
 
 - **Tür:** Lanetli Silah
-- **Köken:** Cehennem dövümü; Styx Nehri'nde sertleştirilmiş
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Cehennem dövümü; Styx Nehri'nde sertleştirilmiş
 
 ## Kayıt
 
@@ -27,3 +27,7 @@ Ama tüm cehennem silahları gibi, Tartaros Pençeleri de taşıyanına bir bede
 - Taşıyanın bedenini ve ruhunu da yavaşça kemirir
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932150658502687>

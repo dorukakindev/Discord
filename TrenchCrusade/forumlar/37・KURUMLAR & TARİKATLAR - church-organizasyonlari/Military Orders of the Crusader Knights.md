@@ -26,4 +26,4 @@ Maximilian-class Knight, orikalkum zırhının şövalye biçimidir — dev, mak
 - Orikalkum zırhlı şövalye sınıfı
 
 -# Kaynaklar: trenchcrusade.com 'Crusader Knights', 'Maximilian-class Knight' (Book XX)
--# Çapraz: #church <#1551932212939857996> #knights-templar
+-# Çapraz: <#1551932038121263155> <#1551932212939857996> <#1551932091132944444>

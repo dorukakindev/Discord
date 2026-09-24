@@ -26,4 +26,4 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch
 - Timeline kaydı — detaylar belgesiz
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1721)
--# Çapraz: <#1551932260054335578> #iron-sultanate
+-# Çapraz: <#1551932260054335578> <#1551932085067841579>

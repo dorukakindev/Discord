@@ -26,4 +26,4 @@ Gehenna'nın ağır versiyonu Anointed'e ayrılmıştır; saha zırhı, milyonla
 - Lejyon askerî ekonomisinin görünümü
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI); Warbands 1.0.2
--# Çapraz: #heretic-legion <#1551932147307257951>
+-# Çapraz: <#1551932078826848298> <#1551932147307257951>

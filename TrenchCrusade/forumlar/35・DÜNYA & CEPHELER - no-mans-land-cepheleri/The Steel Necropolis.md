@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/1/16/Steel_Necro
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # The Steel Necropolis — Çelik Nekropol
 
 Metal ve kemik yığınıyla boğulmuş, sular altında kalmış lanetli bir savaş alanı; pahalı bir İmanlı zaferinin ardından paslı bir ölüler diyarına dönmüş cephe.
 
 - **Tür:** Cephe
-- **Bölge:** Levant cephesi
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Levant cephesi
 
 ## Kayıt
 
@@ -31,3 +31,7 @@ Bölge terk edilmiş gibi görünse de tamamen ıssız değildir. Hacılar ve ha
 - Hacı kültleri ve hazine avcılarının uğrağı
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932250625544232>

@@ -26,4 +26,4 @@ Haftalık idam ritüeli hem ibadet hem terör yönetimidir — şehrin güvenli�
 - Faithful otoriterliğinin yüzü
 
 -# Kaynaklar: trenchcrusade.com 'The Principality of New Antioch' (Book III)
--# Çapraz: #new-antioch #church
+-# Çapraz: <#1551932099756294206> <#1551932038121263155>

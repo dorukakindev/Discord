@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/3/3d/Black_Grail
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Plague Knight — Veba Şövalyesi
 
 Kara Kâse'yi sakince karşılayıp kadavra benzeri bir varlığa dönüşen, zekâsını ve hafızasını koruyan, Sinek Tarikatı'nın soylu önderi.
 
-- **Fraksiyon:** Black Grail
-- **Rol:** Şampiyon / Ruhban
+- **Tür:** Şampiyon / Ruhban
+- **Bağlılık:** Black Grail
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Plague Knight, Trench Crusade'in en sinsi kötülüğünü temsil eder: bilinçl
 - Kara Kâse'yi izole çiftliklere ve uzak yerleşimlere yönlendirir
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932221336846397> <#1551932025928286280> <#1551932029560430673> <#1551932115497648178>

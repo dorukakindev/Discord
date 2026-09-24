@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/c/cf/Sultanate-J
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Janissary — Yeniçeri
 
 Demir Duvar ötesinden toplanan çocuklardan yetiştirilen, simyayla güçlendirilmiş Sultan'ın seçkin muhafızları; yatağan ve tüfekle yıkıcı karşı hücum yapar.
 
-- **Fraksiyon:** Iron Sultanate
-- **Rol:** Seçkin Piyade
+- **Tür:** Seçkin Piyade
+- **Bağlılık:** Iron Sultanate
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Yeni kurallarda Yeniçeri Veteranı, Mehterân özel kuralını getirir; bu hem 
 - Mehterân özel kuralı: askerî bando ve sarsılmaz güvenilirlik
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932215716356228> <#1551932085067841579>

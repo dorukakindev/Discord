@@ -27,4 +27,4 @@ Varyant, Heretic Legions'ın standart listesinin üzerine 'ölüler komuta eder 
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Ghost King', 'Trench Ghosts' (Book VI)
--# Çapraz: #heretic-legion #demons
+-# Çapraz: <#1551932078826848298> <#1551932054948675644>

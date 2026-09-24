@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/SigilJerusa
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # The Hellgate of Jerusalem — Kudüs Cehennem Kapısı (Cehennem Yarığı)
 
 1099'da Tapınak Şövalyeleri'nin açtığı, kapanmayan yanık bronz Cehennem Kapısı; Kudüs'ün yerinde Cehennem ile ölümlü düzlemin birbirine kanadığı yoz bir çukur.
 
 - **Tür:** Cehennem Diyarı
-- **Bölge:** Kutsal Topraklar
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Kutsal Topraklar
 
 ## Kayıt
 
@@ -31,3 +31,7 @@ Kapı aynı zamanda Sapkınlar için kutsal bir merkezdir. Heretic Legion saflar
 - Cehennem ile dünyanın iç içe geçtiği çukur
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932248016822293> <#1551931985071440035> <#1551932088213577760> <#1551932091132944444>

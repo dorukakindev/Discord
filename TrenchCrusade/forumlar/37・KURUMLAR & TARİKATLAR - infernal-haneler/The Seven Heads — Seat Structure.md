@@ -26,4 +26,4 @@ Mammon'un Greed'i kesintisiz, Beelzebub'un Gluttony'si 'küçümsenen' tahttır 
 - Beelzebub Gluttony'yi reddeder — 'boş taht'
 
 -# Kaynaklar: trenchcrusade.com 'The Seven Heads of the Serpent', 'Court of the Seven-Headed Serpent' (Book VIII)
--# Çapraz: #court-of-seven-headed-serpent <#1551932202915471361>
+-# Çapraz: <#1551932047541674025> <#1551932202915471361>

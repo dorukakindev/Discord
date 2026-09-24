@@ -26,4 +26,4 @@ Anlaşmanın doğası 'boşluk bırakılmış'tır — ne verildiği tam bilinme
 - Eski düşman isimleriyle yeni kimlik
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI)
--# Çapraz: #heretic-legion <#1551932325485486080>
+-# Çapraz: <#1551932078826848298> <#1551932325485486080>

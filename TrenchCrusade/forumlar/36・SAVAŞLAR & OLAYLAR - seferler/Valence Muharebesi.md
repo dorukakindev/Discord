@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/c/cc/Hegemon_Yer
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Valence Muharebesi — Jehanne d'Arc ve Ceset Savaşları'nın Sonu
 
@@ -31,3 +31,7 @@ Ama bu yenilginin ardından gelen şey, belki de en tekinsiz kısımdı. Sinekle
 - Beelzebub, başarısız kullarını lanetleyip Sinek Tarikatı'ndan kovar
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504> <#1551932025928286280>

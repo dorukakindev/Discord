@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/4/4d/New_Antioch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Levant'ın Düşüşü ve Antakya'nın Direnişi
 
@@ -23,3 +23,7 @@ Ama her şey bitmedi. Geriye, surlarının ardına çekilmiş, dua eden ve ölen
 Levant'ın bu hızlı yıkımı, dünyayı kalıcı olarak ikiye böldü. Bir yanda Cehennem'in hegemonyasındaki, gerçekliğin çürüdüğü topraklar; diğer yanda, Avrupa ve Afrika'nın ulusları, artık doğrudan iblissel bir istilanın eşiğinde yaşayan halklar. Kutsal Şehir'i geri alma ve yarığı kapatma hayali, bir nesil meselesi olmaktan çıkıp sekiz yüzyıl sürecek, hiç bitmeyen bir Haçlı Seferi'ne dönüştü. Antakya bu savaşın merkezi oldu: hem coğrafi bir kale hem de imanın Levant'ta hâlâ bir ayağının olduğunun sembolü.
 
 -# Kaynaklar: Timeline + resmî lore
+
+---
+
+-# Çapraz: <#1551932274356781126> <#1551932019800408135>

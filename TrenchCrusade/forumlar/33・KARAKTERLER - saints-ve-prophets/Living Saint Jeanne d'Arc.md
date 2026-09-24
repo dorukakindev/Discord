@@ -26,4 +26,4 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/c/c3/Joan_of_Arc
 - Tarihî Jeanne d'Arc'ın alternatif devamı
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1429); trenchcrusade.com 'Yersinia Rex' (Book VII)
--# Çapraz: #corpse-wars #black-grail #saints
+-# Çapraz: <#1551932044617977951> <#1551932029560430673> <#1551932121206226974>

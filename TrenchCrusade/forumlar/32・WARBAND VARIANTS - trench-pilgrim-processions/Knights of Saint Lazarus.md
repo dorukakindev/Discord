@@ -24,4 +24,4 @@ Kanonik olarak Procession of the Sacred Affliction listesi altında bir varyant 
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com Book IV
--# Çapraz: <#1551932174704320602> #saints
+-# Çapraz: <#1551932174704320602> <#1551932121206226974>

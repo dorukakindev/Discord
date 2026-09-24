@@ -24,4 +24,4 @@ Suikastların ardından Hereticler 'devasa tank öncüğü' ile genel taarruz ba
 - Ardından dev tank taarruzu
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1894)
--# Çapraz: #death-commandos <#1551932191154634762>
+-# Çapraz: <#1551932050359980103> <#1551932191154634762>

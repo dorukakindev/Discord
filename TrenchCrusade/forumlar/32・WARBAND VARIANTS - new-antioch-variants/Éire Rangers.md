@@ -26,4 +26,4 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/3/3c/494335892_6
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; Digital Rulebook 1.0.2 (timeline 1807, 1892); 'War Priest Charon – The Apostate of Éire' (trenchcrusade.com)
--# Çapraz: #war-priest-charon #new-antioch
+-# Çapraz: <#1551932099756294206>

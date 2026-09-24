@@ -26,4 +26,4 @@ Faithful siperlerinin tanksavar doktrini budur: piyade, zırhı bekler, çekiçl
 - Siper doktrininin simgesi
 
 -# Kaynaklar: trenchcrusade.com 'The Armaments of the Great War' (Book I); Warbands 1.0.2
--# Çapraz: <#1551932153346916372> #weapons-of-great-war
+-# Çapraz: <#1551932153346916372> <#1551932136150269962>

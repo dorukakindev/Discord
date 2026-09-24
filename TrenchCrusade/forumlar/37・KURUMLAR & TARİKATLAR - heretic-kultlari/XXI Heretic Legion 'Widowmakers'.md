@@ -26,4 +26,4 @@ XXI. Heretic Lejyon 'Widowmakers' (Dul Bırakanlar), resmî lore'da adı geçen 
 - 'Dul bırakmak' — psikolojik savaş doktrini
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI) — Ramman alıntısı
--# Çapraz: <#1551932200125993051> #heretic-legion
+-# Çapraz: <#1551932200125993051> <#1551932078826848298>

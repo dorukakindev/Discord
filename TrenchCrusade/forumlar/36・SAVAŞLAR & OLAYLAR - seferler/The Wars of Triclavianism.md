@@ -24,4 +24,4 @@ Bu iç savaş, 'Unified Church' kavramının ihtiyacını doğurdu: 1588'deki Ne
 - 1588 Syncretic Bible'ın nedeni
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1215–1306, 1588)
--# Çapraz: #church <#1551932274356781126>
+-# Çapraz: <#1551932038121263155> <#1551932274356781126>

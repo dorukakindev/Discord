@@ -25,4 +25,4 @@ Bu terim, Kudüs Kapısı'ndan farklıdır — Kapı tek ve kalıcı, Ağızlar 
 - Kuzey + İrlanda örnekleri
 
 -# Kaynaklar: trenchcrusade.com 'Hellmouth of the North' (Book I); Digital Rulebook 1.0.2
--# Çapraz: #gate-of-hell <#1551932253481738321>
+-# Çapraz: <#1551932063278563358> <#1551932253481738321>

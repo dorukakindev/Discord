@@ -26,4 +26,4 @@ Ark of the Covenant'ın Eben-ezer'deki aşağılanmasına bağlı arka planı va
 - Order of the Fly yönetimi + 'Rotting One' komutanı
 
 -# Kaynaklar: trenchcrusade.com 'Ekron, the City of Beelzebub' (Book I)
--# Çapraz: #black-grail #beelzebub <#1551932325485486080>
+-# Çapraz: <#1551932029560430673> <#1551932025928286280> <#1551932325485486080>

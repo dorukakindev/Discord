@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/c/cc/Hegemon_Yer
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Valence Muharebesi: Yaşayan Aziz ve Ceset Savaşları'nın Sonu
 
@@ -23,3 +23,7 @@ Son, Valence Muharebesi'nde geldi. Bu felaket boyutundaki nihai çarpışmada Je
 Ama bu yenilginin ardından gelen şey belki de en tekinsiz kısımdı. Sineklerin Efendisi'nin öfkesi, düşmanına değil, kendi başarısız kullarına döndü. Çürümenin Prensi, yenilen evlatlarını lanetledi ve onları Sinek Tarikatı'ndan kovdu; bu zavallı varlıklar, ne tam Cehennem'e ait ne de bağışlanmış, yeryüzünde sonsuza dek dolaşmaya mahkum edildi. Valence Muharebesi, Trench Crusade dünyasında imanın Cehennem'e karşı kazandığı en büyük zaferlerden birini simgeler: bir Yaşayan Aziz'in bir kıtayı bir vebadan kurtardığı andır. Ve aynı zamanda bir uyarıdır: Cehennem'in lordları yenildiklerinde bile, öfkeleri kendi soylarına döner.
 
 -# Kaynaklar: Timeline + resmî lore
+
+---
+
+-# Çapraz: <#1551932274356781126> <#1551932025928286280>

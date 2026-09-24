@@ -26,4 +26,4 @@ Tarikatın varlığı, Kâse'nin 'düzensiz veba' değil 'örgütlü din' olduğ
 - Sinek tapınakları kurar
 
 -# Kaynaklar: trenchcrusade.com 'Ekron, the City of Beelzebub', 'The Cult of the Black Grail' (Book I/VII)
--# Çapraz: #black-grail <#1551932288663683153>
+-# Çapraz: <#1551932029560430673> <#1551932288663683153>

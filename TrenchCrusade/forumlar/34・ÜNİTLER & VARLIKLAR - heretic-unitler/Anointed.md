@@ -26,4 +26,4 @@ Ramman'ın 'yalvaran zayıflar değiliz' sözü bu kademenin ruhunu verir: Anoin
 - Ramman'ın ünlü sözü bu birimdendir
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI)
--# Çapraz: #heretic-legion <#1551932157977694333>
+-# Çapraz: <#1551932078826848298> <#1551932157977694333>

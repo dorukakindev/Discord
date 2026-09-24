@@ -26,4 +26,4 @@ Sekizinci Kuşatma (1905) en yıkıcısıydı: İkmal Filosu'nun yok edilmesi Ca
 - 'Tüm Umutların Evi' unvanının kanıtı
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1595, 1905); trenchcrusade.com 'The Principality of New Antioch' (Book III)
--# Çapraz: #new-antioch #principality-of-new-antioch
+-# Çapraz: <#1551932099756294206> <#1551932118404173885>

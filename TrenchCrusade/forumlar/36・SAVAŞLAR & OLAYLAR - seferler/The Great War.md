@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/Trench-Crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # The Great War — 1914, Siperlerdeki Büyük Çıkmaz
 
@@ -31,3 +31,7 @@ Bu çıkmazın içinde, asıl savaş Hiç Kimsenin Toprağı'nda verilir. O geni
 - Modern ateşli silahlar, iblis çağırma ve mucizevi iman bir arada savaşır
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504> <#1551932071453401199>

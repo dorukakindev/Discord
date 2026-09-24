@@ -1,14 +1,14 @@
 https://upload.wikimedia.org/wikipedia/commons/7/75/Type_93_japanese_flamethrower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Flamethrower — Alev Makinesi
 
 Bir alev sütununu siper içine kusan dehşet silahı; isabet etmesi garanti, korunağı işe yaramaz kılan ve düşmanı diri diri yakan korkunç bir teçhizat.
 
 - **Tür:** Ateşli Silah
-- **Köken:** Büyük Savaş; Cehennem versiyonları Iron Pits of Dis dövümü
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Büyük Savaş; Cehennem versiyonları Iron Pits of Dis dövümü
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Cehennem Lejyonları'nın elinde bu silah, çok daha korkunç bir biçim alır. 
 - Hücum ve siper temizleme birliklerinin korku silahı
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932150658502687> <#1551931985071440035>

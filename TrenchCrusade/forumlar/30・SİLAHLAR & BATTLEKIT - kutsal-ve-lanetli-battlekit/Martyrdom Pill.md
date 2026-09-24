@@ -26,4 +26,4 @@ Her siper askerinin taktığı bu küçük nesne, Büyük Savaş'ın en karanlı
 - Siper teolojisinin en karanlık nesnesi
 
 -# Kaynaklar: trenchcrusade.com 'Armaments of the Great War' (Book I), 'Trench Pilgrim Way of War'
--# Çapraz: <#1551932310943830088> #trench-pilgrims
+-# Çapraz: <#1551932310943830088> <#1551932130202882048>

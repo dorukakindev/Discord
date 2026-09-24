@@ -1,4 +1,4 @@
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Angels — Melekler, Orduları Silen Korkunç İlahi Müdahale
 

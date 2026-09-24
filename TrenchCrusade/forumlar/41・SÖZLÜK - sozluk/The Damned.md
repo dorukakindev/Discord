@@ -1,6 +1,6 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Accademia_-_Visioni_dell%27Aldil%C3%A0_-_L%27inferno_-_Bosch.jpg/960px-Accademia_-_Visioni_dell%27Aldil%C3%A0_-_L%27inferno_-_Bosch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Damned — Lanetliler, Cehennem'i Görüp Sağ Kalanlar
 

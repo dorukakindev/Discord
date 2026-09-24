@@ -26,4 +26,4 @@ Cemiyetin üyeleri uzay-zamanı bükme söylentileriyle anılır — 'nasıl gel
 - 'Geri dönüşü olmayan' görev modeli
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2 (varyant adı); trenchcrusade.com 'Alamut'
--# Çapraz: #alamut <#1551932267805282356> <#1551932177237807154>
+-# Çapraz: <#1551932012841930887> <#1551932267805282356> <#1551932177237807154>

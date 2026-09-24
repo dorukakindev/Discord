@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/4/45/Hellmouth_o
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # The Hellmouth of the North — Kuzey'in Cehennem Ağzı
 
 Kuzey Rusya'da, Kola Yarımadası'nda aralıklarla beliren ikincil bir Cehennem geçidi; Cehennem'in güç dengesine göre yer ve zaman değiştirir.
 
 - **Tür:** Cehennem Diyarı
-- **Bölge:** Kola Yarımadası (kuzey Rusya)
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Kola Yarımadası (kuzey Rusya)
 
 ## Kayıt
 
@@ -31,3 +31,7 @@ Bu gezici geçit, Cehennem'in yalnızca tek bir yaradan değil, dünyanın dokus
 - Yedi Başlı Yılan'ın güçlerini kusar
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932253481738321>

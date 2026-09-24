@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/7/7e/Sultanate-A
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Azeb — Azap
 
 Sultanlık ordusunun belkemiğini oluşturan hafif piyade; sahte geri çekilme ve çatışmada usta, sürüler hâlinde cepheyi besleyen sıradan askerler.
 
-- **Fraksiyon:** Iron Sultanate
-- **Rol:** Hafif Piyade
+- **Tür:** Hafif Piyade
+- **Bağlılık:** Iron Sultanate
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Azeb, savaşın görkemli kahramanlarından çok, onun gerçek yükünü taşıy
 - Lions of Jabir gibi canavarlarla birlikte savaşır
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932215716356228> <#1551932085067841579>

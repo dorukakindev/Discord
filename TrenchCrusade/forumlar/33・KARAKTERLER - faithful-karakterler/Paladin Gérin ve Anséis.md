@@ -26,4 +26,4 @@ Gérin — 3. Halka keşfi ve Demetrian Tarikatı; Anséis — 1807 Kuzey Ağzı
 - Paladin keşif/görev kayıtları Book XI'de
 
 -# Kaynaklar: trenchcrusade.com 'Paladin' (Book XI), 'Domus Demetrius', 'The Hellmouth of the North' (Book I)
--# Çapraz: #hell <#1551932245294583929>
+-# Çapraz: <#1551932073957261392> <#1551932245294583929>

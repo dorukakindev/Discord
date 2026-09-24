@@ -24,4 +24,4 @@ Trench Crusade'in 'hardback rulebook' (ciltli kural kitabı) v1.1 sürümü deva
 - Sürüm izleme kritik
 
 -# Kaynaklar: trenchcrusade.com ürün duyuruları
--# Çapraz: #kaynak-politikasi <#1551932343218999338>
+-# Çapraz: <#1551931999629873254> <#1551932343218999338>

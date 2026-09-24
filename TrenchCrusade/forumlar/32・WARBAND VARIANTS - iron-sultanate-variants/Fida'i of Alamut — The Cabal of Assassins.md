@@ -27,4 +27,4 @@ Varyant olarak Alamut'un suikast ağırlıklı doktrinini Sultanlık ordusuna uy
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Alamut, the Eagle's Nest' (Book I)
--# Çapraz: #alamut #iron-sultanate <#1551932267805282356>
+-# Çapraz: <#1551932012841930887> <#1551932085067841579> <#1551932267805282356>

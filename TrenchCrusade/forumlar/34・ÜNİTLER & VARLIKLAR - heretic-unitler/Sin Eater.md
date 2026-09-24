@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/b/b3/Sin_Eater.j
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Sin Eater — Günah Yiyen
 
 Günahla lekeli insan etine duyduğu doymak bilmez açlık Cehennem Kapısı'yla birleşince içindeki çirkinliğe bürünen, bir zamanlar insan olan korkunç yaratık.
 
-- **Fraksiyon:** Heretic Legions
-- **Rol:** Canavar
+- **Tür:** Canavar
+- **Bağlılık:** Heretic Legions
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Sin Eater, Trench Crusade'in en derin temalarından birini taşır: günah, açl
 - Cemaatinin önce günahını, sonra bedenini yiyen sapkın ruhban
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932218140659794> <#1551932078826848298>

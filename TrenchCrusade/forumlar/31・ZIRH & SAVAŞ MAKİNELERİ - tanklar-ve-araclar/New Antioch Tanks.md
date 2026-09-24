@@ -26,4 +26,4 @@ Tanklar New Antioch'un surlarından çıktığında, 'kale savaş alanına geldi
 - Faithful'ın zırh doktrini temeli
 
 -# Kaynaklar: trenchcrusade.com 'The Principality of New Antioch' (Book III); Digital Rulebook 1.0.2 (timeline 1894)
--# Çapraz: #new-antioch <#1551932160951451649>
+-# Çapraz: <#1551932099756294206> <#1551932160951451649>

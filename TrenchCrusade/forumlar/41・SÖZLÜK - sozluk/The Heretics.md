@@ -1,6 +1,6 @@
 https://upload.wikimedia.org/wikipedia/commons/f/f9/Saint_Nicholas_of_Myra_slapping_Arius_at_the_Council_of_Nicaea_Greek_Icon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Heretics — Sapkınlar, Cehennem'e Yemin Etmiş İnsanlık
 

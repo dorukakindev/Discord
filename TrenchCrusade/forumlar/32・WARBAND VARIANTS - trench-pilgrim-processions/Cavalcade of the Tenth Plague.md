@@ -26,4 +26,4 @@ Varyant, Trench Pilgrims'in nadiren görülen atlı formasyonudur; Mısır vebal
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com Book IV
--# Çapraz: #trench-pilgrims #plague
+-# Çapraz: <#1551932130202882048> <#1551932115497648178>

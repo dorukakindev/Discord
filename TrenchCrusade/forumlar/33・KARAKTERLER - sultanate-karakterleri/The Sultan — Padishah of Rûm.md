@@ -26,4 +26,4 @@ Sultan'ın yönetimi otoriter ama ilmi: Bilgelik Evi'nin simyacıları, Alamut'u
 - Rum Sultanlığı'nın alternatif devamı
 
 -# Kaynaklar: trenchcrusade.com 'The Iron Sultanate' (Book V); Digital Rulebook 1.0.2
--# Çapraz: #iron-sultanate #church
+-# Çapraz: <#1551932085067841579> <#1551932038121263155>

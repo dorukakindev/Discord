@@ -27,4 +27,4 @@ Kanonik olarak 'belirsiz kimlik' kaydıdır — arşivin en saf evren-içi gizem
 - Book I'de kendi makalesi
 
 -# Kaynaklar: trenchcrusade.com 'The Butchered Saint' (Book I), 'Stigmatic Nuns' (Book IV)
--# Çapraz: #saints <#1551932310943830088>
+-# Çapraz: <#1551932121206226974> <#1551932310943830088>

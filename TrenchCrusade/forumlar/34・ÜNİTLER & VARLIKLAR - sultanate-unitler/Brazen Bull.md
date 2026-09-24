@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/1/13/Brazen-Bull
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Brazen Bull — Tunç Boğa
 
 Cabirî Simyacıların yarattığı Takwin homonkulusu: ağır silah ve top taşıyan, düşmanı ikiye bölecek güçte devasa yapay savaş bahemotu.
 
-- **Fraksiyon:** Iron Sultanate
-- **Rol:** Canavar
+- **Tür:** Canavar
+- **Bağlılık:** Iron Sultanate
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Brazen Bull, Jabirean Alchemist'in dehâsının ve cüretinin en görkemli kanı
 - Adını tarihteki işkence aleti Phalaris Boğası'ndan alır
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932215716356228> <#1551932085067841579>

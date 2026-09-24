@@ -26,4 +26,4 @@ Book I'de kendi makalesi olan yer; 'bir şehrin öldüğünde ne olur' sorusunun
 - Book I'de kendi makalesi
 
 -# Kaynaklar: trenchcrusade.com 'The Ruins of Nineveh Novus' (Book I)
--# Çapraz: #no-mans-land #great-war
+-# Çapraz: <#1551932106718842950> <#1551932071453401199>

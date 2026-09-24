@@ -26,4 +26,4 @@ Merkezin varlığı, Cehennem'in yeryüzü hâkimiyetinin 'geri döndürülebili
 - Book I'de kendi makalesi
 
 -# Kaynaklar: trenchcrusade.com 'Domus Demetrius' (Book I); 'Paladin' (Book XI)
--# Çapraz: <#1551932191154634762> #hell
+-# Çapraz: <#1551932191154634762> <#1551932073957261392>

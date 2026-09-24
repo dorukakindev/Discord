@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/Trench-Crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Büyük Savaş: Sekiz Asrın Çamura Saplanmış Bugünü
 
@@ -23,3 +23,7 @@ Manzara bir cehennem tablosudur. Yeryüzü, binlerce kilometre uzanan çamur, si
 Bu çıkmazın içinde, asıl savaş No Man's Land'de verilir. O geniş çamur denizinde imanlılar ile sapkınlar, stratejik kutsal emanetler ve kritik mevziler için giderek şiddetlenen baskınlar ve küçük harekâtlar yürütür. Bir yanda Yeni Antakya'nın askerleri, Demir Sultanlık'ın simyacıları, Cennet tarafından dokunulmuş Siper Hacıları (Trench Pilgrims) ve Yaşayan Azizler; diğer yanda Sapkın Lejyonları, Kara Kâse'nin yürüyen ölüleri ve Yedi Başlı Yılan Sarayı'nın iblisleri. 1914, modern ateşli silahların iblis çağırmayla, makineli tüfeklerin mucizevi imanla, gaz maskelerinin arkasında Cennet'in nuruyla yanan gözlerle yan yana savaştığı çağdır. Trench Crusade'in tüm kronolojisi bu ana akar: sekiz yüzyıllık bir savaşın donmuş, çamura saplanmış ama bir an bile dinmeyen bugününe.
 
 -# Kaynaklar: Timeline + resmî lore
+
+---
+
+-# Çapraz: <#1551932274356781126> <#1551932071453401199>

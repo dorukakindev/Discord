@@ -1,12 +1,37 @@
--# THE TRENCH ARCHIVE · Dizin · İstatistikler
-# Sunucu İstatistikleri — 2026-09-24
+-# THE TRENCH ARCHIVE · 00・DİZİN · İstatistik
 
-- **Forum sayısı:** 57
-- **Forum kaydı (thread):** ~216
-- **Metin kanalı:** 62
-- **Kategori:** 15 (1 dizin + 2 A-Z + 1 kaynakça + 12 koleksiyon + editoryal + sohbet)
-- **Rol:** 5 yapısal rol + sahip/bot
-- **Görselli kayıt:** ~%80 (fandom pageimages'dan)
-- **Son büyük güncelleme:** 2026-09-24 — 'Mükemmelleştirme Geçişi'
+# Arşiv İstatistikleri
 
-Kayıt formatı: EN—TR başlık + meta satırları + `## Kayıt` + kaynak/çapraz. Kanon Sınıfı A–F etiketlemesi zorunlu.
+**Yapı**
+- Kategori: 18 · Metin kanalı: 62 · Forum: 57
+- Ana kayıt kanalı (A–Z): 41
+- Koleksiyon forumu: 57
+- Toplam koleksiyon kaydı: **291**
+
+**Kapsam**
+- Silahlar & Battlekit · Zırh & Savaş Makineleri · Warband Varyantları
+- Karakterler · Üniteler & Varlıklar · Dünya & Cepheler · Savaşlar & Olaylar
+- Kurumlar & Tarikatlar · Teknoloji, Simya & Metafizik · Relic & Emanetler
+- Duyurulan Lore · Sözlük
+
+**Kaynak Hiyerarşisi**
+1. trenchcrusade.com resmî lore makaleleri (Books I–XX)
+2. Digital Rulebook 1.0.2 · Warbands 1.0.2 · lisanslı PDF'ler
+3. Topluluk wikileri — yalnızca keşif amaçlı, kaynak gösterilmez
+
+---
+
+**Kanon Sınıfı Dağılımı**
+- **A** — resmî güncel kaynaklarda doğrulanmış
+- **B** — eski sürüm lore (gerçekleşmiş ama revize edilebilir)
+- **C** — evren-içi iddia/rivayet (güvenilmez anlatıcı)
+- **D** — çelişki/revizyon (iki kaynak çatışıyor)
+- **E** — duyurulmuş ama yayımlanmamış
+- **F** — fanon (topluluk üretimi, kanon değil)
+
+Her kayıt başlığında sınıfı belirtilir. B–E kayıtları olgusal kesinlik olarak okunmamalıdır.
+
+**Editoryal Akış**
+Taslak → Kaynak-Kontrol → Kanon-Kontrol → Onay → Yayın. Süreç: <#1551932366245593158>
+
+*Son güncelleme: bu oturum — indeks ve sayımlar canlı durumdan alınmıştır.*

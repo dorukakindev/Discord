@@ -1,14 +1,14 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.png/revision/latest/scale-to-width-down/888?cb=20260914184918
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Court of the Seven-Headed Serpent — Yedi Başlı Yılan'ın Sarayı, Yedi Ölümcül Günahın Lordları
 
 Her başı bir ölümcül günahı temsil eden yedi baş iblisin meclisi; Göklerle Cehennem arasındaki Misak'ı çiğnemeden iblisleri insan ve hayvanla harmanlayıp dünyayı istila eden seçkin güç.
 
 - **Bağlılık:** Heretic
-- **Önder:** Yedi baş iblis (Infernal War Council); Açgözlülük başı Mammon
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Önder:** Yedi baş iblis (Infernal War Council); Açgözlülük başı Mammon
 
 ## Kayıt
 
@@ -30,3 +30,7 @@ Court of the Seven-Headed Serpent, günahın, hilenin ve infernal hiyerarşinin 
 - Goetik ritüel ustaları ve seçkin şampiyonlar
 
 -# Kaynaklar: Resmî faction overviewleri
+
+---
+
+-# Çapraz: <#1551932288663683153>

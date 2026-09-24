@@ -26,4 +26,4 @@ Underground Corp adıyla kayıtlı birim: siper savaşının en eski taktiklerin
 - Siper savaşının görünmeyen cephesi
 
 -# Kaynaklar: trenchcrusade.com 'Sappers' (Book V)
--# Çapraz: <#1551932215716356228> #great-iron-wall
+-# Çapraz: <#1551932215716356228> <#1551932068831821916>

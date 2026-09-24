@@ -26,4 +26,4 @@ Tarikat hem misyoner hem askerî birim işlevi görür — toprak geri alınır,
 - Cehennem'in 'geri döndürülebilirliği' iddiası
 
 -# Kaynaklar: trenchcrusade.com 'Domus Demetrius' (Book I); 'Paladin' (Book XI)
--# Çapraz: <#1551932250625544232> #hell
+-# Çapraz: <#1551932250625544232> <#1551932073957261392>

@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/6/64/Yoke_Fiend.
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Yoke Fiend — Boyunduruk İblisi, Cehennem'in En Aşağı İşçi Güruhu
 
@@ -31,3 +31,7 @@ Boyunduruk İblisleri, Cehennem'in işçi sınıfıdır; o karanlık imparatorlu
 - Tek zevkleri, bir alt basamaktakine eziyet etmektir
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978>

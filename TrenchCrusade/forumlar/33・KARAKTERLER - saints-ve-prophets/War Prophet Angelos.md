@@ -26,4 +26,4 @@ Angelos'un keşfi bir laboratuvardan değil, peygamberlik vahyinden geldi — Wa
 - Peygamberlik vahyi → teknik buluş
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1503); trenchcrusade.com 'The Armaments of the Great War' (Book I)
--# Çapraz: <#1551932296251310132> <#1551932157977694333> #saints
+-# Çapraz: <#1551932296251310132> <#1551932157977694333> <#1551932121206226974>

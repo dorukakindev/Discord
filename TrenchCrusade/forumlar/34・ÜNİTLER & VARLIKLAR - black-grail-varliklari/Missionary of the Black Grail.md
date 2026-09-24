@@ -26,4 +26,4 @@ Bu misyonerler, vebanın 'dinî' yapısının en tehlikeli biçimidir: Kâse sad
 - Kâse'nin inanç sistemi boyutu
 
 -# Kaynaklar: trenchcrusade.com 'Missionaries of the Black Grail' (Book VII)
--# Çapraz: #black-grail <#1551932285224357888>
+-# Çapraz: <#1551932029560430673> <#1551932285224357888>

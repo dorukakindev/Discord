@@ -26,4 +26,4 @@ Warbands 1.0.2'de Mahkeme için adı geçen resmî varyant yayınlanmamıştır.
 - Gelecekte varyant çıkarsa bu kayıt güncellenecek
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Court of the Seven-Headed Serpent' (Book VIII)
--# Çapraz: #court-of-seven-headed-serpent <#1551932288663683153>
+-# Çapraz: <#1551932047541674025> <#1551932288663683153>

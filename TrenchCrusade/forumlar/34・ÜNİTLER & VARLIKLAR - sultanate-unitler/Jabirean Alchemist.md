@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/c/cd/Jabirean-Al
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Jabirean Alchemist — Cabirî Simyacı
 
 Laboratuvarlarında yapay yaşam yaratan Sultanlık simyacısı: Lions of Jabir, Brazen Bull ve Buraq gibi tormentli, çoğu zaman acı çeken canavarların babası.
 
-- **Fraksiyon:** Iron Sultanate
-- **Rol:** Şampiyon / Yaratıcı
+- **Tür:** Şampiyon / Yaratıcı
+- **Bağlılık:** Iron Sultanate
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Jabirean Alchemist, Iron Sultanate'in inancı uğruna ne kadar ileri gittiğini 
 - Cabir bin Hayyan geleneğine dayanan kadim bir simya bilimi
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932215716356228> <#1551932085067841579> <#1551932130202882048>

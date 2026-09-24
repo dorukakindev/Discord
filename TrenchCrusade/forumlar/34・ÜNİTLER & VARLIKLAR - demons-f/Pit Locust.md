@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/8/80/Pit_Locust.
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Pit Locust — Çukur Çekirgesi, Cehennem'in Derinliklerinden Avcı
 
@@ -31,3 +31,7 @@ Bu yüzden Çukur Çekirgeleri, Saray'ın savaş gruplarında sıkça görülür
 - Saray'ın av partilerine katılan biçimsiz dehşetler
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978>

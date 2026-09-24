@@ -1,4 +1,4 @@
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Ziminiar — Kuzeyin İblisi, Düşen Meleklerin Hükümdarlarından Biri
 
@@ -27,3 +27,7 @@ Ziminiar yine de boş durmamıştır. 1908 yılında, onun takipçileri güneye 
 - Hellgate yeri ve zamanı, Cehennem'in iktidar savaşlarıyla kayar
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978> <#1551932121206226974>

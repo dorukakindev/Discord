@@ -27,4 +27,4 @@ Arcana Putrescere — 'çürüme büyüsü' — Great Hunger'ın kendine özgü 
 - İkinci resmî lisanslı genişleme (Red Brigade'den sonra)
 
 -# Kaynaklar: The-Great-Hunger-1.0.2.pdf (trenchcrusade.com); Creature Caster / Factory Fortress ortak duyurusu
--# Çapraz: #black-grail <#1551932308464996453>
+-# Çapraz: <#1551932029560430673> <#1551932308464996453>

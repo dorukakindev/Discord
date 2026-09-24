@@ -26,4 +26,4 @@ Standart Iron Sultanate listesinden ayrışarak, kale mühendisliği, ağır piy
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'The Great Iron Wall' (Book I)
--# Çapraz: #great-iron-wall #iron-sultanate
+-# Çapraz: <#1551932068831821916> <#1551932085067841579>

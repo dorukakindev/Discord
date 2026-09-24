@@ -24,4 +24,4 @@ Tarikatın 'kazık' geleneği, Wallachia'nın gerçek tarihî mirasıyla kesişi
 - Psikolojik savaşın doruğu
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1573)
--# Çapraz: #church <#1551932262713659504>
+-# Çapraz: <#1551932038121263155> <#1551932262713659504>

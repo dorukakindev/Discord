@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/5/5c/Armoured_St
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 33・KARAKTERLER · Kayıt
 
 # Stigmatic Nun — Stigmalı Rahibe, Acıyla Güçlenen Rab'bin İntikamı
 
@@ -31,3 +31,7 @@ Bu yüzden Stigmalı Rahibeler, No Man's Land'in dehşetini hiçe sayarak ilerle
 - Yaralandıkça Rab'bin bizzat İntikamı'na (Vengeance of the Lord) dönüşür
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932207508226170> <#1551932060443222057>

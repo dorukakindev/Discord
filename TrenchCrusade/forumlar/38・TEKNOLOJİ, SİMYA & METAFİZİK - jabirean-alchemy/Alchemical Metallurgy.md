@@ -26,4 +26,4 @@ Sultanlık'ın malzeme bilimi, orikalkum'dan farklı bir yol izler: Bilgelik Evi
 - Araştırma vs vahiy farkı
 
 -# Kaynaklar: trenchcrusade.com 'The Great Iron Wall', 'Jabirean Alchemist' (Book I/V)
--# Çapraz: #great-iron-wall <#1551932144601931786>
+-# Çapraz: <#1551932068831821916> <#1551932144601931786>

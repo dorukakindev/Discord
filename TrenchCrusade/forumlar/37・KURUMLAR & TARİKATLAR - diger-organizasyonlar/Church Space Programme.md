@@ -24,4 +24,4 @@ Bu kayıt, Trench Crusade'in 'siper gotiği' evreninin nasıl ötesine açıldı
 - Detaylı içerik yayınlanmamış
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1899)
--# Çapraz: <#1551932296251310132> <#1551932310943830088>
+-# Çapraz: <#1551932291318677625> <#1551932343218999338>

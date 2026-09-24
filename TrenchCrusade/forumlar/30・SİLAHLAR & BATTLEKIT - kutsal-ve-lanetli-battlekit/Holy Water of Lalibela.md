@@ -1,14 +1,14 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/960px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Holy Water of Lalibela — Lalibela'nın Kutsal Suyu
 
 Kutsal Lalibela kiliselerinden gelen şifa veren kutsal su; bir savaşçının kanını dindiren ve yaralarını iyileştiren mucizevi bir Faithful emaneti.
 
 - **Tür:** Kutsal Emanet
-- **Köken:** New Antioch / Faithful kutsal kaynağı
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** New Antioch / Faithful kutsal kaynağı
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Lalibela'nın Kutsal Suyu, Faithful'un inancının en şefkatli yüzünü temsil
 - Faithful warband'larının hayatta kalma gücünü besler
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932153346916372> <#1551931985071440035> <#1551932019800408135> <#1551932060443222057>

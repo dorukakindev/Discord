@@ -24,4 +24,4 @@ Bu sapma ilkesi, evrenin tüm 'alternatif tarih' yapısının temelidir: gerçek
 - Tüm alternatif tarih yapısının temeli
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline ~1072–1099)
--# Çapraz: #act-of-ultimate-heresy #trench-crusade
+-# Çapraz: <#1551932010098991205>

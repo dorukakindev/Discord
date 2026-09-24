@@ -26,4 +26,4 @@ Bu olay, Sultanlık'ın 'öteki imanlı halk'ı koruduğunun kanıtı olarak an�
 - 'İmanlılar' ortak savunması
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1721)
--# Çapraz: <#1551932196699377688> #church #iron-sultanate
+-# Çapraz: <#1551932196699377688> <#1551932038121263155> <#1551932085067841579>

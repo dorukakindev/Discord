@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Yeni Antakya'nın Kuruluşu — Viyana Kılıç Kongresi ve Tüm Umutların Evi
 
@@ -31,3 +31,7 @@ Yeni Antakya, kuruluşundan beri tüm Hristiyan dünyasından gelen bir aşarla 
 - Tüm Hristiyanlık'tan gelen bir aşar (tithe) ile beslenir, dünyanın en önemli kalesi olur
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932274356781126> <#1551932019800408135> <#1551932099756294206>

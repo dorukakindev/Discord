@@ -1,6 +1,6 @@
 https://upload.wikimedia.org/wikipedia/commons/0/0b/Gheorghe_Tattarescu_-_Pelerin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Faithful — İmanlılar, Cehennem'e Karşı Duran İnsanlık
 

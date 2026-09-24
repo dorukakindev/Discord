@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/3/37/Trench-Crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Shocktrooper — Şok Birlikleri
 
 New Antioch Dükü'nün yeminli şövalyeleri: ağır zırh ve silahlarla Hiçkimsenin Toprağı'nı aşıp düşman hattının kalbine dalan vurucu güç.
 
-- **Fraksiyon:** New Antioch
-- **Rol:** Ağır Piyade
+- **Tür:** Ağır Piyade
+- **Bağlılık:** New Antioch
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Shocktrooper olmak, New Antioch için bir onurdur ama aynı zamanda bir ölüm f
 - Çoğu varyantta omurga birliğidir, bayrak onların etrafında döner
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932212939857996> <#1551932019800408135> <#1551932099756294206>

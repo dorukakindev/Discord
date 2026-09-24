@@ -26,4 +26,4 @@ Flamethrower tankının yakıt deposu bir yağ kandilidir — 'temizleyen alev' 
 - Tank = hareketli ayin aracı
 
 -# Kaynaklar: trenchcrusade.com 'The Cult of the Black Grail' (Book VII); Warbands 1.0.2
--# Çapraz: #black-grail <#1551932164134936616>
+-# Çapraz: <#1551932029560430673> <#1551932164134936616>

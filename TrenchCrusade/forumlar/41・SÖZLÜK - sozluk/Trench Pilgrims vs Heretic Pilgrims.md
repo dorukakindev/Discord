@@ -25,4 +25,4 @@ Aynı 'hac' kavramının iki kutbu — İnançlı ve Sapkın hacı.
 - İki zıt 'yolculuk' metaforu
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrims' (Book IV), 'Heretic Legions' (Book VI)
--# Çapraz: #trench-pilgrims #heretic-legion <#1551932253481738321>
+-# Çapraz: <#1551932130202882048> <#1551932078826848298> <#1551932253481738321>

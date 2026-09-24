@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Principality of New Antioch — Yeni Antakya Prensliği, İmanın Son Kalesi
 
 Levant'ın kuzeyinde Cehennem'e karşı duran, Hristiyan dünyasının en büyük kale-şehri; disiplinli askerleri ve teknolojisiyle imanın ön cephesini tutan prenslik.
 
 - **Bağlılık:** Faithful
-- **Önder:** Yeni Antakya Dük'ü (şu an XI. Konstantin)
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Önder:** Yeni Antakya Dük'ü (şu an XI. Konstantin)
 
 ## Kayıt
 
@@ -32,3 +32,7 @@ New Antioch, karanlık ve umutsuz bir çağda dimdik duran insan iradesinin ve i
 - Sisters of St. Cosmas (savaş cerrahı rahibeler)
 
 -# Kaynaklar: Resmî faction overviewleri
+
+---
+
+-# Çapraz: <#1551932279624835082> <#1551932019800408135> <#1551932060443222057> <#1551932088213577760>

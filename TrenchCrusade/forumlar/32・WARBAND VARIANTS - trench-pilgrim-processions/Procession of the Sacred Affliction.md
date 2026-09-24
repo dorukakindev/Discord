@@ -26,4 +26,4 @@ Başlangıçta bir varyant olarak tasarlanan Procession of the Sacred Affliction
 - Kurallar ayrıntıları için Warbands 1.0.2 ve Carcass Front kılavuzu
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Leper-Pilgrims of the Sacred Affliction' (Book IV); 'On Factions, Warband Lists, and Warband Variants'
--# Çapraz: #trench-pilgrims <#1551932174704320602>
+-# Çapraz: <#1551932130202882048> <#1551932174704320602>

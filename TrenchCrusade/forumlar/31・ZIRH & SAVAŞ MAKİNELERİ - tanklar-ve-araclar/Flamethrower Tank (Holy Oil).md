@@ -26,4 +26,4 @@ Tankın yakıtı anointing oil'dir — savaş mühimmatı değil, sakramenttir. 
 - 'Temizleyici alev' doktrini
 
 -# Kaynaklar: trenchcrusade.com 'The Cult of the Black Grail' (Book VII); Warbands 1.0.2
--# Çapraz: #black-grail <#1551932153346916372>
+-# Çapraz: <#1551932029560430673> <#1551932153346916372>

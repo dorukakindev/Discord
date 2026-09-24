@@ -29,4 +29,4 @@ Trench Pilgrims'in tek tek alayları, Kutsal Makam'ın onaylamadığı ama Kilis
 - Resmî lore'da adı geçer; Warbands 1.0.2'de ayrı list değil
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrims Way of War', 'Lazarist Prophets' (Book IV)
--# Çapraz: #trench-pilgrims #saints
+-# Çapraz: <#1551932130202882048> <#1551932121206226974>

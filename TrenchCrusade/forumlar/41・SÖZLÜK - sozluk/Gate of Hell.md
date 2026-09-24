@@ -1,6 +1,6 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/La_puerta_del_Infierno_de_Rodin_del_museo_Soumaya_%28con_fondo_negro%29.jpg/960px-La_puerta_del_Infierno_de_Rodin_del_museo_Soumaya_%28con_fondo_negro%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # Gate of Hell — Cehennem'in Kapısı, Kudüs'teki Açık Yara
 

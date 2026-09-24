@@ -26,4 +26,4 @@ Kâse'nin ordusunun kütlesidir — tek tek değil, sürü olarak savaşır. Onl
 - Ancak kutsanmış ateş durdurur
 
 -# Kaynaklar: trenchcrusade.com 'The Cult of the Black Grail' (Book VII)
--# Çapraz: #black-grail #plague
+-# Çapraz: <#1551932029560430673> <#1551932115497648178>

@@ -26,4 +26,4 @@ Bıçağın taşı doğrudan Cehennem'in yeraltı malzemesinden geldiği için, 
 - Heretic Legion standart yakın silahı
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI); 'Armaments of the Great War'
--# Çapraz: #heretic-legion <#1551932325485486080>
+-# Çapraz: <#1551932078826848298> <#1551932325485486080>

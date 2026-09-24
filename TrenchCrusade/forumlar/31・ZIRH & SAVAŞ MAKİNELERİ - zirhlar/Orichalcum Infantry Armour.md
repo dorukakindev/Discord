@@ -24,4 +24,4 @@ Orikalkum'un üretimi hâlâ gizli bir formüldür — Angelos'un vahyi Bilgelik
 - Üretim gizli — Kilise loncaları tekeli
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1503); trenchcrusade.com 'The Armaments of the Great War'
--# Çapraz: <#1551932296251310132> #weapons-of-great-war
+-# Çapraz: <#1551932296251310132> <#1551932136150269962>

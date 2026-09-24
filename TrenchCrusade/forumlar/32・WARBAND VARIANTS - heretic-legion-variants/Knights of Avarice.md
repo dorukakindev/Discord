@@ -27,4 +27,4 @@ Lejyonun diğer varyantlarından farkı ekonomik: bu şövalyeler savaşı kutsa
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Court of the Seven-Headed Serpent' (Book VIII)
--# Çapraz: #heretic-legion #court-of-seven-headed-serpent
+-# Çapraz: <#1551932078826848298> <#1551932047541674025>

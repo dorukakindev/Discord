@@ -26,4 +26,4 @@ Hegemon'lar, Kara Kâse kültünün toplu kurbanla yarattığı eşsiz zırhlı 
 - Beelzebub'un en güçlü yeryüzü aracı
 
 -# Kaynaklar: trenchcrusade.com 'Yersinia Rex, Hegemon of the Grail' (Book VII); Digital Rulebook 1.0.2
--# Çapraz: #black-grail #corpse-wars <#1551932191154634762>
+-# Çapraz: <#1551932029560430673> <#1551932044617977951> <#1551932191154634762>

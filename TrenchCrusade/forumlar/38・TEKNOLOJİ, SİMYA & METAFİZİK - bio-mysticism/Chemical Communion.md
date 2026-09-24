@@ -26,4 +26,4 @@ Trench Pilgrims'in gayriresmi versiyonu da vardır — 'makeshift labs'de onays�
 - Pilgrimler'in gayriresmi versiyonu var
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrim Way of War', 'Communicant' (Book IV)
--# Çapraz: #meta-christ <#1551932279624835082> <#1551932212939857996>
+-# Çapraz: <#1551932096598253643> <#1551932279624835082> <#1551932212939857996>

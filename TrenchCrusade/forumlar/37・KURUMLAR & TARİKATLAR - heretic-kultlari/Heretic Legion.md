@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/5/5a/Heretic_Leg
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Heretic Legion — Sapkın Lejyonlar, Cehennem Kapısı'nın Lanetlileri
 
 Cehennem Kapısı tarafından yutulmuş ulusların orduları; Kapı'yı görüp sağ kalarak ebediyen lanetlenmiş insanlar ile Cehennem'in lütfuyla kutsanmış canavarların birliği.
 
 - **Bağlılık:** Heretic
-- **Önder:** Cehennem'in lordları (lanetli komutanlar ve Sapkın subaylar)
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Önder:** Cehennem'in lordları (lanetli komutanlar ve Sapkın subaylar)
 
 ## Kayıt
 
@@ -32,3 +32,7 @@ Heretic Legion, lanetin, ihanetin ve infernal gücün somut halidir; bir zamanla
 - Artillery Witch (mobil topçu görevi gören savaş cadıları)
 
 -# Kaynaklar: Resmî faction overviewleri
+
+---
+
+-# Çapraz: <#1551932285224357888> <#1551932078826848298>

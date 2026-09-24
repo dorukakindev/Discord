@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench_Pilg
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Trench Pilgrims — Siper Hacıları, Peygamberlerin Ardındaki Çılgın Coşku
 

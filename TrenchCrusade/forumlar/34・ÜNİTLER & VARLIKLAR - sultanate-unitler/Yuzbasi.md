@@ -26,4 +26,4 @@ Yuzbasi, Sultanlık'ın 'elit ama ehil' askerî sisteminin simgesidir — iksirl
 - Book V'te kendi makalesi
 
 -# Kaynaklar: trenchcrusade.com 'Yuzbasi' (Book V)
--# Çapraz: <#1551932215716356228> #iron-sultanate
+-# Çapraz: <#1551932215716356228> <#1551932085067841579>

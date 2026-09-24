@@ -26,4 +26,4 @@ Bu kayıt Kanon Sınıfı E'dir: varlığı doğrulanmış (resmî duyuru), ama 
 - Kanon Sınıfı E — ayrım korunur
 
 -# Kaynaklar: trenchcrusade.com duyurular (doğrulanmış ad); içerik yayımlanmamış
--# Çapraz: #court-of-seven-headed-serpent <#1551932343218999338>
+-# Çapraz: <#1551932047541674025> <#1551932343218999338>

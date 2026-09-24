@@ -26,4 +26,4 @@ Sultanlık'ın savaş sanayii Duvar'a hizmet eder: top, barut ve simya mühimmat
 - Bilgelik Evi mühimmat kaynağı
 
 -# Kaynaklar: trenchcrusade.com 'The Great Iron Wall' (Book I); Digital Rulebook 1.0.2
--# Çapraz: #great-iron-wall <#1551932245294583929>
+-# Çapraz: <#1551932068831821916> <#1551932245294583929>

@@ -27,4 +27,4 @@ Sultanlık'ın 'kaçırılmış bilgi' mirası burada da yaşar: eski dünyanın
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Jabirean Alchemist', 'Iron Sultanate' (Book V)
--# Çapraz: <#1551932299132665947> #iron-sultanate
+-# Çapraz: <#1551932299132665947> <#1551932085067841579>

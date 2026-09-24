@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/f/f3/Mike-franch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Beelzebub — Sineklerin Efendisi, Oburluğun Kralı ve Kara Kâse'nin Mimarı
 
@@ -31,3 +31,7 @@ Ama Kara Kâse'nin en korkunç laneti, ölümün bile son olmamasıdır. Vebaya 
 - Vebaya yenik düşen her şey, vebayı yayan mutant ölülere dönüşür
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932221336846397> <#1551932025928286280> <#1551932029560430673> <#1551932057297362998>

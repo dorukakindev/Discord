@@ -1,14 +1,14 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Malpaga10.JPG/960px-Malpaga10.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Mercenaries — Paralı Askerler, No Man's Land'in Kiralık Bıçakları
 
 No Man's Land'de dolaşan warband'ların zaferi garantilemek için kiraladığı uzman savaşçılar; Ducat'la değil yalnızca Glory (Şan) ile ayartılabilen, İmanlı ya da Sapkın hizalı kiralık güçler.
 
 - **Bağlılık:** Tarafsız
-- **Önder:** Bilinmiyor (bağımsız kiralık savaşçılar)
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Önder:** Bilinmiyor (bağımsız kiralık savaşçılar)
 
 ## Kayıt
 
@@ -30,3 +30,7 @@ Mercenaries, savaşın kişisel çıkarla kesiştiği gri bölgenin somut halidi
 - Şan (Glory) puanıyla satın alınan seçkin yetenekler
 
 -# Kaynaklar: Resmî faction overviewleri
+
+---
+
+-# Çapraz: <#1551932291318677625>

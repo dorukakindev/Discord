@@ -1,6 +1,6 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Africa_Map_in_Ottoman_Turkish.jpg/960px-Africa_Map_in_Ottoman_Turkish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Demir Sultanlık'ın Kuruluşu — Dhu al-Karneyn'in Demir Duvarı ve Rum Sultanlığı
 
@@ -29,3 +29,7 @@ Demir Sultanlık'ı eşsiz kılan, kaybolmuş bilginin onun surlarının ardınd
 - İmanlı insanlığın güneydoğu cephesi kalıcı bir savunma hattına kavuşur
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932274356781126> <#1551932085067841579>

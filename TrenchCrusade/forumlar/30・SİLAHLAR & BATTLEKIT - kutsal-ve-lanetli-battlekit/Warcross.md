@@ -1,12 +1,12 @@
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Warcross — Savaş Haçı (Fırlatma Silahı)
 
 Dualar ve mezmurlarla kazınmış, dört uçlu kutsal bir fırlatma silahı; üzerindeki kutsanmışlık sayesinde şaşmaz bir yörüngede hedefini bulan haç.
 
 - **Tür:** Kutsal Emanet
-- **Köken:** New Antioch / Faithful kutsanmış silahı
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** New Antioch / Faithful kutsanmış silahı
 
 ## Kayıt
 
@@ -27,3 +27,7 @@ Warcross, New Antioch askerinin savaşa yaklaşımını da simgeler: her atış 
 - Cehennem yaratıklarına karşı kutsal etkisi vardır
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932153346916372> <#1551932019800408135> <#1551932060443222057> <#1551932099756294206>

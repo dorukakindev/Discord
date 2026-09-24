@@ -26,4 +26,4 @@ Cehennem'in yeryüzündeki hâkimiyeti, 'Altmış Altı Diyar' (Sixty-Six Domain
 - 66×6 şeytani sayı oyunu
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1106, 1905); trenchcrusade.com 'Heretic Legions'
--# Çapraz: <#1551932288663683153> #heretic-legion
+-# Çapraz: <#1551932288663683153> <#1551932078826848298>

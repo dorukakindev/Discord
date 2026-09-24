@@ -24,4 +24,4 @@ Bu ürün, Trench Crusade'in 'ilk fiziksel başlangıç seti' olarak da anılır
 - İlk fiziksel başlangıç seti
 
 -# Kaynaklar: trenchcrusade.com ürün sayfaları; Carcass Front kutusu materyalleri
--# Çapraz: #the-carcass-front <#1551932174704320602> <#1551932250625544232>
+-# Çapraz: <#1551932035050897502> <#1551932174704320602> <#1551932250625544232>

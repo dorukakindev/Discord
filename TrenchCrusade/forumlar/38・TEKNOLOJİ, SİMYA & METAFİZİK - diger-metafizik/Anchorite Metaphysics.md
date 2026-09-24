@@ -26,4 +26,4 @@ Bu metafizik sistem, 'kişi ve yapı' arasındaki sınırı siler — anchorite 
 - Kişi-yapı sınırının silinmesi
 
 -# Kaynaklar: trenchcrusade.com 'The Principality of New Antioch' (III), 'Anchorite Shrine' (IV)
--# Çapraz: #anchorites <#1551932160951451649> #new-antioch
+-# Çapraz: <#1551932160951451649> <#1551932099756294206>

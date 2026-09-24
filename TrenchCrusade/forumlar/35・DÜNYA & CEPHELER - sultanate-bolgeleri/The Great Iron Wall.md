@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/f/f2/The_iron_wa
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # The Great Iron Wall — Büyük Demir Duvar
 
 Demir Sultanlık'ı tümüyle çevreleyen, on binlerce kilometre uzunluğunda, top mevzileriyle donanmış dev istihkam; iki dağ boynuzu arasına gerilmiş hilal.
 
 - **Tür:** Kale
-- **Bölge:** Anadolu (Toros - Zagros hattı)
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Anadolu (Toros - Zagros hattı)
 
 ## Kayıt
 
@@ -31,3 +31,7 @@ Demir Duvar, yalnızca taş ve çelikten bir engel değil, bir uygarlığın var
 - Sultan'ın ünlü topçusuyla donanmış
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932245294583929> <#1551932068831821916>

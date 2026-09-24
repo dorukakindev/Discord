@@ -26,4 +26,4 @@ Sunak, lejyonun 'dini savaş' doktrininin fiziksel merkezidir — askerler onun 
 - Book VI'da kendi makalesi
 
 -# Kaynaklar: trenchcrusade.com 'The Golden Calf War Altar' (Book VI)
--# Çapraz: #heretic-legion <#1551932325485486080>
+-# Çapraz: <#1551932078826848298> <#1551932325485486080>

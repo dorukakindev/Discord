@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/2/2b/Luca_Giorda
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Act of Ultimate Heresy — Nihai Sapkınlık Eylemi, Cehennem'in Kapısını Açan Lanet
 

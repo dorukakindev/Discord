@@ -26,4 +26,4 @@ Varyant, Trench Pilgrims listesinin üzerine Methodius'un 'beden-tapınak' temas
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Anchorite Shrine', 'Mechanized Heavy Infantry'
--# Çapraz: #trench-pilgrims <#1551932160951451649> #anchorites
+-# Çapraz: <#1551932130202882048> <#1551932160951451649>

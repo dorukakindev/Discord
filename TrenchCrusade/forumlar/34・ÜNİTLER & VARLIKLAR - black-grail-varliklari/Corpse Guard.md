@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Corpse Guard — Ceset Muhafızı
 
 Kara Kâse enfeksiyonundan sağ çıkan, sırtına menzildeki her kurbanın kanını emen dev bir asalak kene bağlanmış; soyluların beden muhafızı.
 
-- **Fraksiyon:** Black Grail
-- **Rol:** Ağır Piyade
+- **Tür:** Ağır Piyade
+- **Bağlılık:** Black Grail
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Corpse Guard, Kara Kâse'nin yıpratma (attrition) doğasının somut hâlidir. 
 - Tarikatın soylularını koruyan dayanıklı, ölü-diri arası savaşçı
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932221336846397> <#1551932029560430673> <#1551932115497648178>

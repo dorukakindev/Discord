@@ -26,4 +26,4 @@ Living Saints'ın 'düşebilir' olması, Kilise'nin en korkulu sırrıdır: aziz
 - Mahkeme'nin en ağır aracı
 
 -# Kaynaklar: trenchcrusade.com 'Court of the Seven-Headed Serpent' (Book VIII)
--# Çapraz: #saints #demons
+-# Çapraz: <#1551932121206226974> <#1551932054948675644>

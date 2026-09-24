@@ -26,4 +26,4 @@ Ramman, 'dul bırakanlar' anlamındaki Widowmakers'ın en bilinen ismidir; lejyo
 - Heavy Gehenna zırhı kuşanmış
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI) — Ramman alıntısı
--# Çapraz: #heretic-legion <#1551932157977694333>
+-# Çapraz: <#1551932078826848298> <#1551932157977694333>

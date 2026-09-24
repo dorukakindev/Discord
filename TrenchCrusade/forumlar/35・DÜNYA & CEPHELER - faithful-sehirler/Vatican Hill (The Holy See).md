@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/5/59/Trench-crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # Vatican Hill (The Holy See) — Vatikan Tepesi (Kutsal Makam)
 
 Roma'nın kalbindeki, yaklaşık iki bin yıldır Birleşik Kilise'nin yönetildiği kutsal tepe; gerçek azizlerin kalıntılarını saklayan iyi korunan odalar.
 
 - **Tür:** Kutsal Mekan
-- **Bölge:** Roma, Avrupa
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Roma, Avrupa
 
 ## Kayıt
 
@@ -31,3 +31,7 @@ Bu yüzden Vatikan Tepesi, hem bir ibadet merkezi hem stratejik bir hazine kasas
 - Birleşik Kilise'nin ruhani başkenti
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932241817501734> <#1551932019800408135> <#1551932099756294206>

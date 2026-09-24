@@ -24,4 +24,4 @@ Meta-Christ'ler — İsa'nın klonlanmış eti ve kanı — numaralı olarak ür
 - Sakrament + biyoteknoloji kesişimi
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrim Way of War' (Book IV); Digital Rulebook 1.0.2
--# Çapraz: #meta-christ <#1551932227401551964> #kaynak-politikasi
+-# Çapraz: <#1551932096598253643> <#1551932227401551964> <#1551931999629873254>

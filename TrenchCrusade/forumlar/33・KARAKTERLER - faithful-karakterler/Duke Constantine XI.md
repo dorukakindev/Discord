@@ -26,4 +26,4 @@ Dük'ün gerçek gücü, Sword Congress of Vienna'da (1559) kabul edilen yıllı
 - Adı Bizans'ın son imparatorunu çağrıştırır
 
 -# Kaynaklar: trenchcrusade.com 'The Principality of New Antioch' (Book III); Digital Rulebook 1.0.2
--# Çapraz: #new-antioch #principality-of-new-antioch
+-# Çapraz: <#1551932099756294206> <#1551932118404173885>

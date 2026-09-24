@@ -24,4 +24,4 @@ Cehennem tek bir yer değil, katmanlı bir sistemdir: numaralı Halkalar (Circle
 - Toplam sayı belgesiz — kasıtlı eksik
 
 -# Kaynaklar: Digital Rulebook 1.0.2; trenchcrusade.com 'The Cult of the Black Grail', 'Court of the Seven-Headed Serpent'
--# Çapraz: #hell #demons #black-grail
+-# Çapraz: <#1551932073957261392> <#1551932054948675644> <#1551932029560430673>

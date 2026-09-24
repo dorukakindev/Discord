@@ -27,4 +27,4 @@ Varyant, Cult of the Black Grail'in standart listesinin üzerine bir Hegemon'a b
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Yersinia Rex, Hegemon of the Grail' (Book VII)
--# Çapraz: #black-grail <#1551932202915471361>
+-# Çapraz: <#1551932029560430673> <#1551932202915471361>

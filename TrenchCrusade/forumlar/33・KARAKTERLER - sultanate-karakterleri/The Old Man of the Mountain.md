@@ -26,4 +26,4 @@ Alamut 1165'ten beri — iki buçuk asırdan fazladır — 'Dağın Şeyhi'nin (
 - Tarihî Hasan Sabbah'ın alternatif devamı
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1165); trenchcrusade.com 'Alamut, the Eagle's Nest' (Book I)
--# Çapraz: #alamut <#1551932177237807154>
+-# Çapraz: <#1551932012841930887> <#1551932177237807154>

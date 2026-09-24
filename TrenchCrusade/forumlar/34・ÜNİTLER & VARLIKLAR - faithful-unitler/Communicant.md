@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/c/c9/Trench-Crus
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Communicant — Komünyoncu
 
 Meta-Mesih'in etini ve kanını yiyerek devasa boyuta ulaşan, yaraları kendiliğinden kapanan; kör daha iyi gördüğü için gözlerine haç çakılmış dev hacı.
 
-- **Fraksiyon:** Trench Pilgrims
-- **Rol:** Canavar
+- **Tür:** Canavar
+- **Bağlılık:** Trench Pilgrims
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Communicant, Trench Crusade'in temel sorusunu cisimleştirir: kutsallık ile can
 - New Antioch Church'ünün de klonlanmış etle yarattığı süper-asker
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932212939857996> <#1551932019800408135> <#1551932099756294206> <#1551932130202882048>

@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Eski Antakya'nın Yıkımı — Gizemli İblissel Silahın İlk Vuruşu
 
@@ -33,3 +33,7 @@ Eski Antakya'nın yıkımı, Trench Crusade dünyasında bir sonun ve aynı zama
 - Şehrin yeniden kurulması için yeni bir ittifak ihtiyacı doğar
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932274356781126>

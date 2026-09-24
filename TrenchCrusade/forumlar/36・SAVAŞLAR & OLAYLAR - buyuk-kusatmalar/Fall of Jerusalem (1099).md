@@ -26,4 +26,4 @@ Olayın detayları kasıtlı olarak belirsiz bırakılır: artefaktın tam doğa
 - Detaylar kasıtlı belirsiz — 'resmî belirsizlik'
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (açılış anlatısı + timeline 1099); trenchcrusade.com
--# Çapraz: #act-of-ultimate-heresy #gate-of-hell #knights-templar
+-# Çapraz: <#1551932010098991205> <#1551932063278563358> <#1551932091132944444>

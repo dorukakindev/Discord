@@ -26,4 +26,4 @@ Demir başlık altında her Pilgrim aynı görünür — birey silinir, alay kal
 - Pilgrimler'in standart başlığı
 
 -# Kaynaklar: trenchcrusade.com 'Trench Pilgrims', 'Trench Pilgrim Way of War' (Book IV)
--# Çapraz: #trench-pilgrims <#1551932310943830088>
+-# Çapraz: <#1551932130202882048> <#1551932310943830088>

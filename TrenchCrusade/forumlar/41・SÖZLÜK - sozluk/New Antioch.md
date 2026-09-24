@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/a/ad/New_Antioch_chander_lieve.jpg/revision/latest/scale-to-width-down/900?cb=20250207052317
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # New Antioch — Yeni Antakya, Tüm Umutlarımızın Yurdu
 

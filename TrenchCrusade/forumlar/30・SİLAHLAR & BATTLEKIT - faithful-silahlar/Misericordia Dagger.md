@@ -26,4 +26,4 @@ Eşya olarak basit, anlamı ağırdır: Trench Crusade'in 'savaşın içindeki d
 - Siper etiğinin simgesi
 
 -# Kaynaklar: trenchcrusade.com 'Prussian Combat Medic' (Book XII), 'Armaments of the Great War'
--# Çapraz: #weapons-of-great-war <#1551932153346916372>
+-# Çapraz: <#1551932136150269962> <#1551932153346916372>

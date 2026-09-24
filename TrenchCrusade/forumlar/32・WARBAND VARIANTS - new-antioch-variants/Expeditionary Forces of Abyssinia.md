@@ -27,4 +27,4 @@ Faithful silahları arasında bile arşivimizde kayıtlı 'Lalibela'nın Kutsal 
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com 'Expeditionary Forces of Abyssinia' (Book I)
--# Çapraz: #new-antioch #church
+-# Çapraz: <#1551932099756294206> <#1551932038121263155>

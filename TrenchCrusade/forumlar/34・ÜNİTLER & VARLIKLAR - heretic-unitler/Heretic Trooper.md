@@ -2,14 +2,14 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/4/40/Mike-franch
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Heretic Trooper — Sapkın Nefer
 
 Cehennem Kapısı'nı gören ve sağ çıkıp sonsuza dek lanetlenen, Sapkın Lejyon'ların çoğunluğunu oluşturan lanetli insan askerleri.
 
-- **Fraksiyon:** Heretic Legions
-- **Rol:** Piyade
+- **Tür:** Piyade
+- **Bağlılık:** Heretic Legions
 - **Kanon Sınıfı:** A — resmî güncel lore
 
 ## Kayıt
@@ -33,3 +33,7 @@ Heretic Trooper, Trench Crusade'in karanlık aynasıdır: New Antioch'un Shocktr
 - Hâlâ ölümlü insandır ama ruhu çoktan Cehennem'e satılmıştır
 
 -# Kaynaklar: Resmî unit lore makaleleri (Books III–VIII)
+
+---
+
+-# Çapraz: <#1551932218140659794> <#1551932078826848298>

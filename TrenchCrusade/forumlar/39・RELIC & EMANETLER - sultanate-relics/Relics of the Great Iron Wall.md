@@ -26,4 +26,4 @@ Sultanlık için duvar bir 'emanet' olarak korunur — taş taşınamaz ama yaz�
 - Yazıtlar Bilgelik Evi'nde yedeklenir
 
 -# Kaynaklar: trenchcrusade.com 'The Great Iron Wall' (Book I); Digital Rulebook 1.0.2
--# Çapraz: #great-iron-wall <#1551932299132665947>
+-# Çapraz: <#1551932068831821916> <#1551932299132665947>

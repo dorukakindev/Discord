@@ -26,4 +26,4 @@ Vebanın adı 'Kâse'dir çünkü Beelzebub'un kutsal kasesi olarak sunulur — 
 - Ceset Savaşları'nın başlangıcı (1346–1429)
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1346–1353); trenchcrusade.com 'The Cult of the Black Grail' (Book VII)
--# Çapraz: #black-grail #plague #corpse-wars
+-# Çapraz: <#1551932029560430673> <#1551932115497648178> <#1551932044617977951>

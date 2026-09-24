@@ -26,4 +26,4 @@ Lord of the Sixty-Six unvanı, Cobar'dan miras kalan Cehennem-yeryüzü komuta z
 - 1914 taarruzunun habercisi
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1905); trenchcrusade.com 'The Carcass Front'
--# Çapraz: #new-antioch #the-carcass-front <#1551932260054335578>
+-# Çapraz: <#1551932099756294206> <#1551932035050897502> <#1551932260054335578>

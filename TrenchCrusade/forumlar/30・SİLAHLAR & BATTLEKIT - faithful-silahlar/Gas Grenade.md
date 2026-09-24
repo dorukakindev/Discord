@@ -1,12 +1,12 @@
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Gas Grenade — Gaz Bombası
 
 Köşeyi dönüp korunağa sızan zehirli gaz bulutu salan bomba; siperde saklananı bile bulan, görünmez ve sinsi bir öldürücü.
 
 - **Tür:** Patlayıcı
-- **Köken:** Büyük Savaş; zehirli gaz savaşı
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Büyük Savaş; zehirli gaz savaşı
 
 ## Kayıt
 
@@ -27,3 +27,7 @@ Iron Sultanate'in Bilgelik Evi'nin (House of Wisdom) simyacıları, bu silahı b
 - Hem öldürür hem siperi geçici olarak kullanılmaz kılar
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932141762388119> <#1551931985071440035>

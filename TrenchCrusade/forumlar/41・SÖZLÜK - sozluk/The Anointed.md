@@ -1,6 +1,6 @@
 https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Anointment_of_Frederick_VI_of_Denmark.jpg/960px-Anointment_of_Frederick_VI_of_Denmark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Anointed — Meshedilmişler, Cehennem'in Onayladığı Süper Askerler
 

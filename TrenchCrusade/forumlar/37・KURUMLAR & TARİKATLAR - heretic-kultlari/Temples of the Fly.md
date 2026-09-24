@@ -26,4 +26,4 @@ Book VII'de kendi makalesi olan yapı: tapınaklar hem ibadet hem 'veba üretim 
 - 'Çürüme evi' — kara kilise
 
 -# Kaynaklar: trenchcrusade.com 'Temples of the Fly' (Book VII)
--# Çapraz: #black-grail <#1551932221336846397>
+-# Çapraz: <#1551932029560430673> <#1551932221336846397>

@@ -2,15 +2,15 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/1/16/Steel_Necro
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # The Iron City of Dis — Dis, Demir Şehir
 
 Cehennem'in derinliklerinde yükselen, sürekli is ve aşındırıcı duman püskürten demir şehir; çığlık atan kara kalesinin tepesinde Infernal Savaş Konseyi oturur.
 
 - **Tür:** Cehennem Diyarı
-- **Bölge:** Cehennem'in altıncı halkası
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Cehennem'in altıncı halkası
 
 ## Kayıt
 
@@ -31,3 +31,7 @@ Dis, böylece yalnızca bir mekan değil, Cehennem'in beyni ve komuta kademesidi
 - Yedi Başlı Yılan Sarayı'nın oturduğu yer
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932253481738321>

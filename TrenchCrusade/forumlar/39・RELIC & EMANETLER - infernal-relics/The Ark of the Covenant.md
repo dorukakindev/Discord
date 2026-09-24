@@ -26,4 +26,4 @@ Bu efsane, Beelzebub'un 'Yaratıcı'ya karşı savaş'ının teolojik temelidir:
 - Şu anki konum bilinmez
 
 -# Kaynaklar: trenchcrusade.com 'Ekron, the City of Beelzebub' (Book I)
--# Çapraz: <#1551932248016822293> #beelzebub
+-# Çapraz: <#1551932248016822293> <#1551932025928286280>

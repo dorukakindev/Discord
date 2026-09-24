@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/6/61/Black_Grail
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 37・KURUMLAR & TARİKATLAR · Kayıt
 
 # Cult of the Black Grail — Kara Kâse Tarikatı, Sineklerin Efendisi'nin Vebası
 

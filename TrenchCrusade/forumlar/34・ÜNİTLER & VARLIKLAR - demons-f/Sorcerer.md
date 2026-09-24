@@ -26,4 +26,4 @@ Goetic Arts'ın tam mekanizması belgelenmemiştir — ama Mahkeme birimi olarak
 - Büyü türü bağlı demona göre değişir
 
 -# Kaynaklar: trenchcrusade.com 'Sorcerer' (Book VIII)
--# Çapraz: <#1551932305453613132> #court-of-seven-headed-serpent
+-# Çapraz: <#1551932305453613132> <#1551932047541674025>

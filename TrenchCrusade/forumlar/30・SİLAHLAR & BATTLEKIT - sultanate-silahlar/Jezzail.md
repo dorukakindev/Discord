@@ -1,14 +1,14 @@
 https://upload.wikimedia.org/wikipedia/commons/0/00/Jezail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Jezzail — Cizayir Tüfeği
 
 Iron Sultanate'in temel uzun namlulu tüfeği; düz namlulu olduğu için simyacıların hazırladığı türlü ölümcül simyasal mühimmatla doldurulabilen silah.
 
 - **Tür:** Ateşli Silah
-- **Köken:** Iron Sultanate / Jabirean simyasal cephane
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Köken:** Iron Sultanate / Jabirean simyasal cephane
 
 ## Kayıt
 
@@ -29,3 +29,7 @@ Jezzail, Iron Sultanate'in savaş tarzının özünü taşır: hareket, taciz ve
 - Simyasal mühimmat: sönmez ateş, kemirici asit ve daha fazlası
 
 -# Kaynaklar: The Armaments of the Great War (resmî)
+
+---
+
+-# Çapraz: <#1551932144601931786> <#1551932085067841579>

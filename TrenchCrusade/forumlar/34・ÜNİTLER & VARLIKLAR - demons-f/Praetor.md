@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/1/19/Praetor.jpg
 
 ---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Praetor — Cehennem'in Melez Komutanı, Av Partilerinin Şeytani Önderi
 
@@ -31,3 +31,7 @@ Praetor'lar son derece çeşitli ve tehlikelidir. Bazıları, Cehennem'in efsane
 - Özünün bir kısmı ölümlü ete bağlı olduğundan savaşta öldürülebilir
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978>

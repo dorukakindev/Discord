@@ -26,4 +26,4 @@ https://static.wikia.nocookie.net/trench-crusade-english/images/1/1c/Alamut.jpg/
 - Hereticler'in en eski başarısızlığı
 
 -# Kaynaklar: Digital Rulebook 1.0.2 (timeline 1165); trenchcrusade.com 'Alamut, the Eagle's Nest' (Book I)
--# Çapraz: #alamut <#1551932196699377688>
+-# Çapraz: <#1551932012841930887> <#1551932196699377688>

@@ -26,4 +26,4 @@ Paladin'ler — Meta-Christ kanının 'mükemmel' alıcıları, Cehennem'e girip
 - Paladin'ler Council of Saints'e bağlıdır
 
 -# Kaynaklar: trenchcrusade.com 'Paladin' (Book XI), 'Yersinia Rex, Hegemon of the Grail' (Book VII); Digital Rulebook 1.0.2
--# Çapraz: <#1551932207508226170> #black-grail #corpse-wars
+-# Çapraz: <#1551932207508226170> <#1551932029560430673> <#1551932044617977951>

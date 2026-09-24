@@ -24,4 +24,4 @@ Alba'nın Faithful ittifakına katılışı zorunluluktan çok hınçtan besleni
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; Digital Rulebook 1.0.2 (timeline 1789)
--# Çapraz: #new-antioch #heretic-legion
+-# Çapraz: <#1551932099756294206> <#1551932078826848298>

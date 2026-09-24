@@ -26,4 +26,4 @@ Warbands 1.0.2'de Sacred Affliction listesi altında yayınlanan varyanttır; ka
 - Kurallar ayrıntıları için Warbands 1.0.2
 
 -# Kaynaklar: Warbands of Trench Crusade 1.0.2; trenchcrusade.com Book IV
--# Çapraz: <#1551932174704320602> #trench-pilgrims
+-# Çapraz: <#1551932174704320602> <#1551932130202882048>

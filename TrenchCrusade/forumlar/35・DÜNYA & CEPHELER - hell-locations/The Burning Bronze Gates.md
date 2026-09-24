@@ -26,4 +26,4 @@ Heretic adayları bu kapılardan geçerek Inferno'ya girer; dönmek, Anointed ol
 - Anointed olmanın ilk adımı
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI)
--# Çapraz: #gate-of-hell <#1551932253481738321>
+-# Çapraz: <#1551932063278563358> <#1551932253481738321>

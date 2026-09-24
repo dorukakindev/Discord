@@ -26,4 +26,4 @@ Heretic Initiation ritüelinin coğrafi omurgası olarak; vadi, adayın 'insanl�
 - Kudüs → Cehennem bağlantısı
 
 -# Kaynaklar: trenchcrusade.com 'The Heretic Legions' (Book VI); Digital Rulebook 1.0.2
--# Çapraz: #gate-of-hell #hell #heretic-legion
+-# Çapraz: <#1551932063278563358> <#1551932073957261392> <#1551932078826848298>
