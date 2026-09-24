@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Legio_Osedax_Icon_Fancy.png/revision/latest?cb=20210505211902
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Osedax
 

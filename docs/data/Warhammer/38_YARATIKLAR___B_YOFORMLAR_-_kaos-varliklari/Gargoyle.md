@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/40/Tyranid_Gargoyles.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/4/40/Tyranid_Gargoyles.png/revision/latest?cb=20180724203028
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Gargoyle

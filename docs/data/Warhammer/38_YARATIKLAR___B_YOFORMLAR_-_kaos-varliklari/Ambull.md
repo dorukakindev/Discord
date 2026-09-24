@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/09/Ambull.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/Ambull.png/revision/latest?cb=20150919114240
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Ambull

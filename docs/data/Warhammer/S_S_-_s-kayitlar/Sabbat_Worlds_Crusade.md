@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Departmento_Cartographicae_Chart_Sabbat_Worlds.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Sabbat Worlds Crusade
 

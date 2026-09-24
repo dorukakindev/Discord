@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Fulgrim_Ancient_Sketch.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Fulgrim
 

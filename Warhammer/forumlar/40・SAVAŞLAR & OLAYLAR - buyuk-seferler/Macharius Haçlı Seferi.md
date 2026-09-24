@@ -10,4 +10,8 @@ Macharius Haçlı Seferi, M41'de bir İmparatorluk komutanının kişisel hırs�
 
 Lord Solar Macharius, olağanüstü karizması ve askeri dehasıyla devasa Astra Militarum ordularını galaksinin bilinmeyen bölgelerine sürdü; yedi yıl boyunca durmaksızın ilerledi ve yaklaşık bin dünyayı İmparatorluğa kattı. Bu, sıradan insanların (Space Marine'ler değil) başardığı en büyük fetihlerden biriydi.
 
+## Tarihçe
+
+Lord Solar Macharius'un tarihinin en büyük fetihleri; sınırın ötesine ilk büyük dalga. Kendi ordusu durana kadar ilerledi — sınırsız ihtirasın destanı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

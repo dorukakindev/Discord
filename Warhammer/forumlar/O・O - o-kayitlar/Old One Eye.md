@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/74/Old_One_Eye-0.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Old One Eye
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/24/Mars_Pattern_Turbolaser.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/Mars_Pattern_Turbolaser.jpg/revision/latest?cb=20131107141648
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Turbo-Laser Destructor
@@ -10,4 +10,13 @@ Imperial Knight ve Titan'ların çok atışlı ağır lazer topu; her atımı bi
 
 ## Teknik ve Kullanım
 Titan ölçekli silah — Warhound, Reaver ve Warlord sınıfı tanrı-makinelerin kullandığı devasa silah sistemleri; bir salvosu bir şehir bloğunu, tam dolum bir cepheyi dümdüz eder. Adeptus Titanicus'un 'kutsal ateşi'dir.
+
+## Teknik Özellikler
+- Tip: Imperium ağır laser silahı — özellikle Titan ve ağır platform konfigürasyonları
+- Etki: konsantre laser darbesiyle en ağır zırhlarda kesik açar
+- Taşıyıcı: Warhound Titan el silahı ve sabit savunma taretleri
+
+## Not
+Tek atışta bir tank bölüğünü kesebilecek güçtedir; Titan silah ailesinin 'kesici' üyesidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e7/Dawn_of_War_Pulse_Carbine2.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/e7/Dawn_of_War_Pulse_Carbine2.jpg/revision/latest?cb=20130102031830
 
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Pulse Carbine

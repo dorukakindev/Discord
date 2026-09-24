@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/21/Hammerheadawesome.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/21/Hammerheadawesome.jpg/revision/latest?cb=20130220055020
 
 -# THE IMPERIAL ARCHIVE · Tau Araclari · Kayıt
 # Hammerhead

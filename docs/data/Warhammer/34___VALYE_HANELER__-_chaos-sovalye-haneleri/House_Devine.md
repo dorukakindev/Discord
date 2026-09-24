@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4b/House_Devine_Heraldry.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/House_Devine_Heraldry.jpg/revision/latest?cb=20150321082517
 
 -# THE IMPERIAL ARCHIVE · Chaos Sovalye Haneleri · Kayıt
 # House Devine

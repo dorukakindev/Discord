@@ -9,4 +9,8 @@ Divinasyon destesi — İmparator'un iradesini okumak için kullanılan kart sis
 - **Sınıf:** Ritüel
 - **Kanon Sınıfı:** A — resmî kaynak
 
+## Tarihçe
+
+İmparatorluk'un kehanet aracı; psyker'ların Warp'tan işaret okuduğu kart destesi. Hem dua hem pusula — İmparatorluk'un resmi kahini.
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

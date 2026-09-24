@@ -14,4 +14,8 @@ War of the Beast'ın Ullanor ayağı, İmparatorluk tarihinin en büyük 'ganime
 
 Ullanor'un fethi, Beast'in güç merkezini kırdı ama savaşın asıl mirası başka: İmparatorluk, Ork'un 'yok edilemez' olduğunu ve her Ullanor'un ardından yeni Beast'lerin doğacağını öğrendi. Ullanor'un adı, daha sonra Abaddon'un 'Kara Haçlı Seferleri'nin de üs olarak kullandığı bilinir — İmparatorluk'un kazandığı en büyük zaferlerin bile geçici olduğunun kanıtıdır.
 
+## Tarihçe
+
+32. binyılda dev Ork Warlord'u 'The Beast'in İmparatorluk'u neredeyse devirdiği savaş; Ullanor'un ikinci tarihi. İmparatorluk'un ilk ciddi varoluş krizi — Heresy'den sonraki en büyük test.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

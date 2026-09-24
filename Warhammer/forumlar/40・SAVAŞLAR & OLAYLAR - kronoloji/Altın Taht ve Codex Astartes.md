@@ -9,4 +9,8 @@ Altın Taht'ın (Golden Throne) kuruluşu, İmparator'un Horus'la olan son düel
 
 Codex Astartes'in yazılması da aynı dönemin parçasıdır: Guilliman'ın eseri, Space Marine lejyonlarını 1000 kişilik bölümlere böldü ve 'tekrar isyan edemeyecek' yapıyı kurdu. Altın Taht + Codex = İmparatorluk'un 'güvenli ama sakat' temeli: bir tarafta cansız lider, öte tarafta parçalanmış ordu — ikisi de Horus'un bedeli ve ikisi de M41'e kadar İmparatorluk'un taşıyıcısıdır.
 
+## Tarihçe
+
+Heresy sonrası düzen: Guilliman'ın Codex'i lejyonları Chapter'lara böldü; İmparator Golden Throne'a bağlandı. Modern İmparatorluk'un kuruluş anı — parçalanma ama sağlamlaşma.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

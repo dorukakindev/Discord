@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Horussmallbase.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Horussmallbase.jpg/revision/latest?cb=20150210093004
 
 -# THE IMPERIAL ARCHIVE · Chaos Emanetler · Kayıt
 # Worldbreaker

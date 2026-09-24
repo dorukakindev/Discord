@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Corvex_Ancient_Pattern_Jetbike.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Corvex_Ancient_Pattern_Jetbike.png/revision/latest?cb=20130919215015
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Sammael
@@ -9,5 +9,9 @@ Dark Angels'ın Ravenwing'inin (hızlı saldırı kanadı) üstadı; Düşmüş 
 Sammael, Dark Angels chapter'ının Ravenwing'inin (hızlı, atlı saldırı kanadının) Üstadı'dır (Grand Master); chapter'ın en derin ve en gizli takıntısının, Düşmüş Melekler'i (the Fallen) avlamanın ön saflarında yer alan bir komutandır. Atının (jetbike) üzerinde, gök gürültüsü gibi gelen bir avcıdır.
 
 Dark Angels'ın karanlık sırrı, kuruluşlarına dayanır; chapter'ın ataları olan I. Lejyon'un bir kısmı Heresy sırasında ihanet etti (the Fallen) ve dağıldı. Dark Angels, bu utancı gizli tutar ve hayatta kalan Fallen'ları teker teker bulup tövbeye (ya da ölüme) zorlamayı en kutsal, en gizli görevleri sayar. Ravenwing, bu avın hızlı ucu, gökyüzünden inen avcı kanadıdır.
+
+## Tarihçe
+
+Dark Angels 3rd Company'nin Master'ı ve Chapter'ın baş binicisi; jetbike'ı 'Corvex'le savaşa girer. Ravenwing'in intikamcı ruhunu somutlaştırır — Fallen avında en ön saflarda.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

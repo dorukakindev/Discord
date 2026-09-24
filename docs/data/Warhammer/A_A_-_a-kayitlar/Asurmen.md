@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Asurmen_Cover_Art.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Asurmen
 

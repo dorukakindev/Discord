@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/08/Chaos_beasts_break_marine%27s_line.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/0/08/Chaos_beasts_break_marine%27s_line.jpg/revision/latest?cb=20130418211338
 
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Daemon Engine

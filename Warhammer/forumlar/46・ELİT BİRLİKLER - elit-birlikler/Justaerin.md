@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9a/Justaerin_Termi_Wargear.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/9/9a/Justaerin_Termi_Wargear.png/revision/latest?cb=20131114184001
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Justaerin

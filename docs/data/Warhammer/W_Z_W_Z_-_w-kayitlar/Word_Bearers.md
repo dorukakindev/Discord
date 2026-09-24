@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/66/WordBearersArmourial.png/revision/latest?cb=20170813043044
-
 -# THE IMPERIAL ARCHIVE
 # Word Bearers
 

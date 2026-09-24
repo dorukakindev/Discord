@@ -10,4 +10,8 @@ Aziz Macharius, tam unvanıyla Lord Commander Solar Macharius (356-400.M41), İm
 
 Macharius'un şöhreti, 392.M41'de başlattığı ve adını taşıyan büyük seferden gelir: Macharian Crusade.
 
+## Tarihçe
+
+Macharius'un azizleştirilmiş hali; Sabbat haçlısının baş kahramanı. Askeri dehanın ilahi kutsaması.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

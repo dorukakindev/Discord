@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Lord_Cypher.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Cypher
 

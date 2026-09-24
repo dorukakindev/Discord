@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d2/Cegorach2.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/d2/Cegorach2.png/revision/latest?cb=20230703073412
 
 -# THE IMPERIAL ARCHIVE · Aeldari Panteonu · Kayıt
 # Cegorach
@@ -9,5 +9,9 @@ Aeldari'nin soytarı-tanrısı; Khaine ile birlikte Düşüş'ten sağ çıkan i
 Cegorach, Aeldari panteonunun soytarı-tanrısıdır; "Gülen Tanrı" ya da "Büyük Soytarı" (the Great Harlequin) olarak anılır. Hilenin, kahkahanın, sanatın ve özellikle de hayatta kalmanın tanrısıdır; maske ve gülen yüz sembolleriyle betimlenir.
 
 Khaine ile birlikte, Düşüş felaketinden sağ çıkan yalnızca iki Aeldari tanrısından biridir. Cegorach bunu kaba güçle değil, kurnazlığıyla başardı: Slaanesh'i kahkaha, hile ve sonsuz bir kovalamacayla atlattı ve ondan kaçtı. O günden beri Karanlık Prens ile aralarında ölümcül, asla bitmeyen bir oyun (bir kovalamaca) sürer; bu, Aeldari'nin hayatta kalma umudunun mitsel simgesidir.
+
+## Tarihçe
+
+Aldanma ve güldürü tanrısı; Laughing God. Harlequin'lerin efendisi ve Slaanesh'ten kaçan tek Aeldari tanrısı — son oyunun yazarı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

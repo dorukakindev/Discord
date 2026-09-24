@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/10/Lion%27s_Helm.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Azrael
 

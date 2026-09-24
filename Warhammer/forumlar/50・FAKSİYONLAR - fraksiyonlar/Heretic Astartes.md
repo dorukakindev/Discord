@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/da/ChaosSpaceMarinesIcon.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/da/ChaosSpaceMarinesIcon.jpg/revision/latest?cb=20220727154127
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Heretic Astartes

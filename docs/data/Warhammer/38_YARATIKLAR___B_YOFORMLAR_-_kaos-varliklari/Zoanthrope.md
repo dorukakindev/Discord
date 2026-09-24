@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/89/Biothrope.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/89/Biothrope.jpg/revision/latest?cb=20250523133733
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Zoanthrope

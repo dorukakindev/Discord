@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/55/AnkhoftheTriarch9thEdition.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Necrons
 

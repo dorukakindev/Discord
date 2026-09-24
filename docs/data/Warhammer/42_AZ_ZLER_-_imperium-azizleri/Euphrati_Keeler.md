@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Euphrati_KeelerSiege.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Euphrati_KeelerSiege.jpg/revision/latest?cb=20200709011421
 
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Euphrati Keeler

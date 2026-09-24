@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Cpt.-General_Trajann_Valoris.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Trajann Valoris
 

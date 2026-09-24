@@ -12,4 +12,8 @@ Obliterator, kaos-marine'lerin teknolojiyle kaynaşmış en vahşi formudur — 
 
 Savaşta Obliterator, 'yürüyen cephanelik' olarak çalışır: lascannon, plasma gun veya meltagun'ı bedeninden üretir ve her turda farklı bir silah 'doğurabilir'. İmparatorluk kayıtlarında Obliterator'un en korkulan özelliği 'yok edilemezlik'tir — zırhı hem marine zırhı hem makine zırhıdır ve ölürken bile etrafına tehlike saçar. Chaos'un makineye olan aşkınının en grotesk çocuğudur.
 
+## Tarihçe
+
+Chaos Space Marine'in kendi bedeniyle silahını kaynaştırdığı teknoloji-büyü melezi; Obliterator virüsü taşıyan savaşçılar istedikleri silahı bedenlerinde yetiştirir. Ne tam insan ne tam makine — Chaos'un bükülmüş sanatıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Medusa.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Medusa
 

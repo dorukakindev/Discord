@@ -10,4 +10,8 @@ Damocles Haçlı Seferi, M41'de İmparatorluğun yükselen genç bir xeno gücü
 
 Tau, insanlık standartlarına göre genç bir ırktır, ama teknolojik ilerleme hızı şaşırtıcıdır; "Daha Yüce İyi" (Greater Good) felsefesiyle birleşmiş, disiplinli, üstün silahlı bir uygarlıktır. İmparatorluk, bu "ilkel xenos"u kolayca ezmeyi bekledi, ama Tau'nun ileri teknolojisi ve battlesuit'leri beklenmedik, sert bir direniş gösterdi.
 
+## Tarihçe
+
+Damocles Körfezi'nde Tau'ya karşı İmparatorluk'un ilk büyük hamlesi; iki imparatorluğun ilk gerçek çarpışması. Sonuçsuz bitti — iki taraf da daha büyük düşmanlarla uğraşıyordu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

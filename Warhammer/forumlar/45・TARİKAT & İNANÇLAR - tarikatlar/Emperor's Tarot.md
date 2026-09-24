@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Reading_the_Emperor%27s_Tarot.jpeg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Reading_the_Emperor%27s_Tarot.jpeg/revision/latest?cb=20191022194444
 
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Emperor's Tarot

@@ -10,4 +10,8 @@ Gene-seed (Gen-tohumu), sıradan bir insan adayını bir Space Marine'e (Adeptus
 
 Her chapter'ın gen-tohumu, nihai olarak kendi primarch'ından (ve dolayısıyla İmparator'dan) gelir; bu, chapter'ı primarch'ına bağlayan biyolojik bir soy bağıdır. Bir aday Space Marine'e dönüştürülürken, bu organlar (örneğin ikinci bir kalp, gelişmiş kaslar, zehir filtreleri ve daha onlarcası) ona implante edilir. Ölen bir Marine'in gen-tohumu (Progenoid bezleri) hasat edilir ve yeni Marine'ler yetiştirmek için kullanılır; bu yüzden bir savaşçının ölümü bile, chapter'ın geleceği için bir kaynaktır.
 
+## Tarihçe
+
+Space Marine'in genetik mirası; primarch'tan gelen implant kaynağı. Chapter'ın kanı — hem güç hem lanetin kaynağı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/52/Soul_Drinkers_SP.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/52/Soul_Drinkers_SP.jpg/revision/latest?cb=20160504014313
 
 -# THE IMPERIAL ARCHIVE · Hain Ve Kayip Bolumler · Kayıt
 # Soul Drinkers

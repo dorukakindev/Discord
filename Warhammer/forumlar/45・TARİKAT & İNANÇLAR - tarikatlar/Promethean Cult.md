@@ -12,4 +12,8 @@ Promethean Cult, Salamanders'ın ve Nocturne dünyasının 'ateş ve yeniden do�
 
 Cult'un pratik yüzü, Salamanders'ın insanseverliğini besler: 'alev, dostu ısıtır; düşmanı yakmaz' doktrini, bu bölümün 'koruyucu' kimliğinin temelidir. Promethean törenleri (ateş vaftizi, kül duaları), Nocturne'un volkanik kültürüyle kaynaşmıştır; İmparatorluk'un en 'insanî' bölümünün dini, ateşin hem korkulan hem sevilen güç olduğunu hatırlatır.
 
+## Tarihçe
+
+Salamanders'ın iç doktrini; ateş, sabır ve fedakârlık öğretisi. Vulkan'ın mirası — Prometheus'un onurunu taşıyan Chapter kültü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

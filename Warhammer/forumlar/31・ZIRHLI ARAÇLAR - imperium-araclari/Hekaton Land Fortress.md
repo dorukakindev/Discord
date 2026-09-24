@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b5/ThurianHekatonLandFortressMini.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/b5/ThurianHekatonLandFortressMini.jpg/revision/latest?cb=20230217202246
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Hekaton Land Fortress

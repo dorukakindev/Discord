@@ -10,4 +10,8 @@ Macharian Heresy (Macharius Sonrası İç Savaş), M41'in başlarında, efsanevi
 
 Macharius, yedi yılda yaklaşık bin dünyayı İmparatorluğa katmıştı; ama bu devasa toprakları, kişisel sadakatle kendisine bağlı yedi Ordu Grubu generaliyle yönetiyordu. O öldüğünde, bu generalleri bir arada tutan tek bağ koptu; her biri kendi payına düşen bölgeyi bağımsız bir krallık gibi görmeye başladı ve hem birbirleriyle hem de Adeptus Terra'nın otoritesiyle savaşa tutuştu.
 
+## Tarihçe
+
+Macharius'un ölümünden sonra generallerinin birbirini yediği isyan; kahramanın imparatorluğu kendi çocukları tarafından parçalandı. 'Büyük adamın mirası' sorunudur.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

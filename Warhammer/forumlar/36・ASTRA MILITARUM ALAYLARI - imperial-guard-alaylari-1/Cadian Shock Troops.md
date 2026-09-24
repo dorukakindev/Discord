@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Organisation_med.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Organisation_med.jpg/revision/latest?cb=20120629094246
 
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Cadian Shock Troops

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Legio_Fureans_Icon2.jpg/revision/latest?cb=20160923073205
+
 -# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
 # Legio Fureans
 

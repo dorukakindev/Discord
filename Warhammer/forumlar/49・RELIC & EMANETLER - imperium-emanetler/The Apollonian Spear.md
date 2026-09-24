@@ -10,4 +10,8 @@ Apollonian Spear, Adeptus Custodes'un ve İmparatorluk Sarayı'nın en ünlü em
 
 Spear'ın tarihi, Terra Kuşatması'na ve İmparator'un yanında savaşan Custodes'e uzanır — son sadık koruyucuların silahı olarak, hem sembol hem araçtır. Apollonian Spear'ın bugünkü konumu bilinmezdir (bazı kayıtlar Saray'ın derinliklerinde, bazıları kayıp olduğunu söyler) ama adı, İmparatorluk'un 'en yakın koruma' mitinin simgesidir — İmparator'un gölgesinde duran silah, İmparatorluk'un 'sadakat' idealinin fiziksel hâlidir.
 
+## Tarihçe
+
+Fulgrim'in gençlik döneminin efsanevi mızrağı; Emperor's Children'ın mükemmellik hayalinin simgesi. Düşüş öncesi güzelliğin kalıntısı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

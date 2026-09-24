@@ -12,4 +12,8 @@ Fenris Kuşatması, Thousand Sons'un Magnus önderliğindeki intikam saldırıs�
 
 Kuşatma, Space Wolves'un neredeyse yok oluş noktasına geldiği savaştır — Grimnar'ın direnişi, Njal'ın psi savaşı ve tüm chapter'ın birleşik savunmasıyla Fenris tutuldu ama kayıplar ağırdı. Savaşın sembolik anlamı büyüktür: İmparatorluk'un 'en bağımsız' bölümünün bile evinde saldırıya uğrayabileceğini gösterdi ve Magnus'un sapkınlık sonrası gücünün boyutunu kanıtladı.
 
+## Tarihçe
+
+Space Wolves'un Fenris'te Chaos ve Inquisition'a karşı direnişi; Magnus'un saldırısından sonra Chapter'ın ayakta kalışı. Kurtların en son kalesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

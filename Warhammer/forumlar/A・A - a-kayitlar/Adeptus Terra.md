@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Adeptus_Terra_Icon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Adeptus Terra
 

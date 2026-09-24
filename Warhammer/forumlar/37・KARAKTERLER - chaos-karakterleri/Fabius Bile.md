@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/revision/latest?cb=20131222212324
 
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Fabius Bile

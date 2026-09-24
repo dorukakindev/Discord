@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Adeptus Mechanicus
 

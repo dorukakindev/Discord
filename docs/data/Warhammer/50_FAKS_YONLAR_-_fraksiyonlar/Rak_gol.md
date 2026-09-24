@@ -12,4 +12,8 @@ Rak'gol, İmparatorluk'un en vahşi ve en anlaşılamayan xeno tehdididir — 'M
 
 Rak'gol'un tehlikesi, 'nedensizliğidir' — fetih, kaynak veya ideoloji değil, sadece 'yok etmek için' savaşırlar; bu, onları İmparatorluk'un 'en irrasyonel' düşmanı yapar. Kayıtlarda Rak'gol, 'gemileri yağmalayıp mürettebatı 'flesh-craft' ile değiştiren' varlıklar olarak geçer — bir Rak'gol görülmesi, bir sektörün 'tamamen yok olması' anlamına gelir ve İmparatorluk, onlara karşı 'müzakere' değil, 'tam imha' doktrini uygular.
 
+## Tarihçe
+
+Kuzey xeno'ları; sürüngen yırtıcı uygarlığı. İmparatorluk'un bilinen ama uzak durduğu kuzey tehdidi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

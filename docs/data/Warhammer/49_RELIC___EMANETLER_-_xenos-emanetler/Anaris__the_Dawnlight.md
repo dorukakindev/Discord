@@ -10,4 +10,8 @@ Anaris (Şafak Işığı, the Dawnlight), bir savaş alanı silahı değil, Aeld
 
 Mite göre, Anaris'i Aeldari panteonunun demirci-tanrısı Vaul dövdü; Vaul, savaş tanrısı Kaela Mensha Khaine'e karşı işlediği bir suçun bedelini ödemek için, yüz kılıç dövmek zorunda bırakılmıştı. Bu kılıçların en büyüğü, en güzeli ve en ölümcülü Anaris'ti; içine Vaul'un tüm ustalığı ve umudu işlenmişti, bir şafak gibi parladığı söylenirdi.
 
+## Tarihçe
+
+Kurnous'un efsanevi ışık kılıcı; Eldanesh'e verilen, sonunda Khaine'e karşı kullanılan eser. Aeldari'nin eski gücünün simgesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,4 +12,8 @@ Officio Prefectus, İmparatorluk'un 'siyasi ve askeri zaptiye' teşkilatıdır �
 
 Commissar sistemi, Prefectus'un en bilinen yüzüdür: siyah üniformalı, bolt pistol taşıyan ve 'son uyarı' olarak bilinen bu subaylar, Guard birliklerinin hem lideri hem celladıdır. Yarrick ve Cain gibi figürler bu teşkilatın yüzüdür; Prefectus'un varlığı, İmparatorluk'un 'güven yerine korku' yönetiminin somut halidir — bir Commissar'ın bakışı, bir taburun savaşma iradesinden daha fazla etki eder.
 
+## Tarihçe
+
+Guard'ın komiserlik kurumu; Commissar'ların evi. Moral, disiplin ve infaz — İmparatorluk'un asker üzerindeki siyasi gözü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

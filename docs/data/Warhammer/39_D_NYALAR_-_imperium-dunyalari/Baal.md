@@ -1,8 +1,8 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/13/BaalOrbit.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/13/BaalOrbit.jpg/revision/latest?cb=20190420000514
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Baal — Baal
+# Baal
 
 Blood Angels ve halef chapter'larının anavatanı; radyasyonla kavrulmuş, iki ay etrafında dönen ölü bir dünya.
 

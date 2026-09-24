@@ -12,4 +12,8 @@ Lectitio Divinitatus, Lorgar Aurelian'ın yazdığı ve İmparatorluk İnancı'n
 
 Lectitio'nun yayılması, İmparatorluk'un en büyük ironisidir: İmparator'un kendi lejyonu yazdı, İmparator yasakladı, ama kitap yeraltında çoğaldı ve Horus Sapkınlığı sonrası resmi dinin temeli oldu. Lorgar'ın 'ihanetinin' metni, İmparatorluk'un 'imanının' kaynağı oldu — Lectitio Divinitatus, 'bir yazıtın hem yaratıcısını hem sistemini dönüştürebildiğinin' en büyük kanıtıdır.
 
+## Tarihçe
+
+İmparator'a ilk kez tanrı olarak ibadet eden metin; Lorgar'ın yazdığı, heresy sonrası resmi inanç oldu. Kutsal kitabın kökeni — ihanetin en büyük paradoksu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/89/Biothrope.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/89/Biothrope.jpg/revision/latest?cb=20250523133733
 
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Zoanthrope
@@ -12,5 +12,9 @@ Zoanthrope, Hive Mind'ın engin, kolektif psişik gücünü bir mercek gibi odak
 Zoanthrope, Tyranid'in psi-topçusudur — bedeni sadece dev bir beyin ve warp-şarjlı organlardan oluşan, zeminde süzülen bir psi-yaratık. Hive Mind'ın Warp gücünü fiziksel dünyaya taşıyan Zoanthrope, hem 'Warp Blast' (psi şimşek) hem de 'Warp Lance' (kalın zırhı delen odaklanmış psi ışını) ile İmparatorluk'un zırhlı birliklerine ve psikerlerine en tehlikeli Tyranid organizmasıdır.
 
 Bir Zoanthrope'un görülmesi, Hive Mind'ın 'yerel psikolojik üstünlüğü' kurmaya başladığının işaretidir — bu yaratıklar, hem fiziksel tahribat hem de 'Shadow in the Warp'ın psi-baskısını taşır. İmparatorluk için Zoanthrope, Tyranid'in 'sadece fiziksel değil ruhsal' da yiyen yüzüdür — bir Zoanthrope'un hedefi olan psiker, hem bedenen hem zihnen yakılır.
+
+## Tarihçe
+
+Tyranid psişik biriminin adı; dev beyin taşıyan, Shadow in the Warp'ı doğrudan saçan psişik omurga. Bir Zoanthrope'un bakışı bile astropatları öldürür — saf Hive Mind iradesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

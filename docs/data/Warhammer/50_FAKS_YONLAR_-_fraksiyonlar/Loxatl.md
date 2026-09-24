@@ -12,4 +12,8 @@ Loxatl, Imperial Guard'ın en nadir ve en gizemli 'xeno' müttefikleridir — k�
 
 Loxatl'ların silahları, 'web' ve 'dart' temelli ölümcül araçlardır — Guard kayıtlarında 'örümcek-adam' olarak anılırlar ve hem keşif hem pusu savaşında uzmandırlar. Gaunt'ın ekibiyle olan bağı, 'Sözleşme' olarak bilinen garip bir 'karşılıklı hizmet' anlaşmasıdır — Loxatl'lar İmparatorluk'a hizmet eder ama nedenleri tam bilinmez; 'xeno müttefik' olarak kabul edilen nadir varlıklardan biridirler ve bu statü, İmparatorluk'un 'tek ölçüt: insanlık' kuralının istisnasını gösterir.
 
+## Tarihçe
+
+Zehirli parazit xeno; K'nib ve diğer tehditlerin müttefiki. Koruyucu ve ölümcül — sinsi ortak.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

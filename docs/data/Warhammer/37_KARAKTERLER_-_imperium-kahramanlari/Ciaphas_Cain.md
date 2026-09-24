@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5c/Ciaphas_Cain.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/5c/Ciaphas_Cain.jpg/revision/latest?cb=20160407100740
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Ciaphas Cain

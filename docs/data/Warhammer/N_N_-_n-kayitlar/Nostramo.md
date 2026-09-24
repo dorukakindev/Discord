@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Nostramo_Great_Crusade.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Nostramo
 

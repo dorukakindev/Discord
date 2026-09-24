@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6c/HaarkenWorldclaimer.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/HaarkenWorldclaimer.jpg/revision/latest?cb=20190331004551
 
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Haarken Worldclaimer

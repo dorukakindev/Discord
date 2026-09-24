@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/10/Cato_3.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/10/Cato_3.png/revision/latest?cb=20131222213759
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Cato Sicarius

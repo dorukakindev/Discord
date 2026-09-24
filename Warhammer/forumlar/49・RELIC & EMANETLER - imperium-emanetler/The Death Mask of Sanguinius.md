@@ -10,4 +10,8 @@ The Death Mask of Sanguinius (Sanguinius'un Ölüm Maskesi), Blood Angels chapte
 
 Sanguinius, Horus Heresy'nin doruğunda, Terra Kuşatması'nda, hain kardeşi Horus'a karşı verdiği umutsuz ama kahramanca bir düelloda öldü; ölümü, Blood Angels için ebedi bir yas ve onur kaynağı oldu. Onun melek gibi güzel yüzünden dökülen bu altın maske, chapter'ın kaybettiği o eşsiz primarch'ın anısını sonsuza dek yaşatır.
 
+## Tarihçe
+
+Sanguinius'un ölüm maskesi; Blood Angels'ın kutsal emaneti ve Black Rage'in sembolü. Güzel ama lanetli — babalarının son yüzü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

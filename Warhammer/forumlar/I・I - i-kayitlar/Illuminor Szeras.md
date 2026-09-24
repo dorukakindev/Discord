@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c5/SzerasArt9thEdition.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Illuminor Szeras
 

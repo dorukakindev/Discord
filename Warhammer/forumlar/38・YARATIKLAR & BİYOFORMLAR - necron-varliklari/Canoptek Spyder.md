@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Canoptekspyder10.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Canoptekspyder10.jpg/revision/latest?cb=20150219223033
 
 -# THE IMPERIAL ARCHIVE · Necron Varliklari · Kayıt
 # Canoptek Spyder

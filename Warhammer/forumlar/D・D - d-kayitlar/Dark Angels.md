@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9c/DAB3.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Dark Angels
 

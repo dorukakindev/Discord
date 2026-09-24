@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Warp_Gate.jpg/revision/latest?cb=20151101182120
 
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Warp_Gate.jpg/revision/latest?cb=20151101182120
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Webway — Ağ-Yol / Labirent Boyut

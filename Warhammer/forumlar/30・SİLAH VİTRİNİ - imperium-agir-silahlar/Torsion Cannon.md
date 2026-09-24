@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/af/Torsion_Cannon_%28side_view%29.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/af/Torsion_Cannon_%28side_view%29.jpg/revision/latest?cb=20170219182123
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Torsion Cannon

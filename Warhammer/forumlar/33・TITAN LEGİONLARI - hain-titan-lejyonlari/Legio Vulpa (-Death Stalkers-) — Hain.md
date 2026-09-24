@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Vulpa.jpg/revision/latest?cb=20190118222845
+
 -# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
 # Legio Vulpa
 

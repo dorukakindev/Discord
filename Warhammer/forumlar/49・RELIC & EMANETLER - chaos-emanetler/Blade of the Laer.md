@@ -12,4 +12,8 @@ Blade of the Laer, Fulgrim'in Slaanesh'e düşüşünün fiziksel nesnesidir —
 
 Blade'in gücü, hem fiziksel hem ruhsaldir: her yarası 'zevk ve acının' karışımını bırakır ve taşıyıcısını Slaanesh'in etkisine açar. Fulgrim'in ihanetinin sembolü olan kılıç, 'Silmarillion' olarak da bilinen İmparatorluk kayıtlarındaki en tehlikeli emanettir — bir nesnenin, bir primarch'ı nasıl düşürdüğünün kanıtıdır; Blade of the Laer, 'güzellik maskeli yozlaşma'nın en bilinen aracıdır.
 
+## Tarihçe
+
+Laer'ların Chaos'a bağlanmış kılıcı; Fulgrim'i ilk kez Chaos'a çeken artefakt. Işık ve zehir bir arada — düşüşün başlangıcı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

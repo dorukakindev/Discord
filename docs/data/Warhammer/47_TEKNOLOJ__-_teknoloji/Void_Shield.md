@@ -12,4 +12,8 @@ Void Shield, İmparatorluk'un en güçlü savunma sistemidir — titanların ve 
 
 Void Shield'ın taktik önemi, 'aşamalı savunma' doktrinidir: kalkanlar katman katman çalışır ve düşman, her katmanı aşmak zorundadır — bu, titan savaşlarının 'zaman alan' doğasını yaratır. İmparatorluk'un 'en sağlam' savunması olan Void Shield, Mechanicum'un 'yitirilmeye yüz tutmuş' teknolojilerinden biridir — üretimi zordur ve bir Void Shield'ın çalışması, bir titanın 'savaş tanrısı' statüsünün temelidir.
 
+## Tarihçe
+
+Gemilerin ve Titan'ların enerji kalkanı; Warp'a kapanan dev balon. Bir Void Shield'i delmek ya güç ister ya sabır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

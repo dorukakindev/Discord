@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg/revision/latest?cb=20111203004542
 
+https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg/revision/latest?cb=20111203004542
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Raven Guard — Kuzgun Muhafızları (XIX. Lejyon)

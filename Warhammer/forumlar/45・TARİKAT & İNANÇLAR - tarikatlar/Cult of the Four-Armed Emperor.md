@@ -12,4 +12,8 @@ Cult of the Four-Armed Emperor, Genestealer Cult'un en bilinen ve en sinsi formu
 
 Kült'ün yapısı katmanlıdır: Magos'lar (vaizler), Primus'lar (savaş liderleri) ve Familiar'lar (küçük iblis benzeri yaratıklar) ile 'Planetary Enclave'ler kurar. Four-Armed Emperor kültü, İmparatorluk'un 'inanç kullanan düşman' kavramının en iyi örneğidir — bir dünyanın dini, o dünyanın ölüm fermanı olabilir ve kültün işareti görüldüğünde, gezegen çoktan kaybedilmiş sayılır.
 
+## Tarihçe
+
+Genestealer kültlerinin dini maskesi; 'dört kollu İmparator'a tapan ve aslında Patriarch'ın çocuklarına hizmet eden kandırmaca. İmparatorluk'un içinde büyüyen sinsi sarmaşık.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

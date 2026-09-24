@@ -12,4 +12,8 @@ Ancient (Antik), bir Chapter'ın en değerli yaşayan varlığıdır — İmpara
 
 Ancient'ın savaş rolü hem pratik hem manevidir: sancağı taşımak, safları birleştirir ve kardeşlere 'kim için savaştıklarını' hatırlatır. İmparatorluk'un 'geçmişle bağ' kültüründe Ancient, bölümün ruhunun taşıyıcısıdır — bir Chapter'ın Ancient'ı düşerse, sadece bir asker değil, 'bir hafıza' yok olur; bu yüzden Ancient'lar, düşmanın en çok hedeflediği ama en zor ulaştığı figürlerdir.
 
+## Tarihçe
+
+Chapter'ın sancaktarı; şan bayrağını taşıyan, onurun somut hali. Düşerse Chapter da düşer — moralin taşıyıcısı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

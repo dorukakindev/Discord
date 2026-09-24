@@ -7,4 +7,8 @@ Guilliman'ın Dirilişi (Ultramar'daki Ynnari-Cawl ittifakıyla) ve Indomitus Ha
 
 Indomitus'un kapsamı devasadır: sayısız dünya kurtarıldı, Primaris rezervi cepheye sürüldü ve 'Logos Historica Verita' gibi kurumlar İmparatorluk'un 'tarihini doğrulamak' için çalıştı. Ancak Guilliman'ın gerçek görevi paradoksaldır — İmparatorluk'u kurtarmak için babasının kurduğu sistemi kısmen yıkması gerekir; Indomitus, 'yapıcı yıkım'ın destanıdır.
 
+## Tarihçe
+
+Guilliman'ın Ynnari yardımıyla dirilmesi ve Terra'ya dönüşü; ardından galaksiyi kurtarmak için başlattığı dev Haçlı Seferi. İmparatorluk'un son büyük toparlanma hamlesi — hâlâ sürüyor.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

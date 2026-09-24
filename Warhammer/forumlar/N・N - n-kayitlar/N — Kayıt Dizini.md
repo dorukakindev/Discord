@@ -1,6 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Harf Kayıtları · Dizin
 # N — Kayıt Dizini
 
+- <#1552690604482240512>
 - <#1551817386254925945>
 - <#1551817402612973579>
 - <#1551817319288676373>
@@ -10,6 +11,8 @@
 - <#1551817348900589669>
 - <#1551817244844232727>
 - <#1551905448549163048>
+- <#1552694208270311535>
+- <#1552690464572969011>
 - <#1551817295582470157>
 - <#1551817439845683331>
 - <#1551817470262640732>
@@ -21,8 +24,7 @@
 - <#1551817581017432125>
 - <#1551817273747054633>
 
--# 19 kayıt · güncel
-
+• **N'Kari**
 • **Nachmund Gauntlet**
 • **Nathaniel Garro**
 • **Navis Imperialis**
@@ -32,6 +34,8 @@
 • **Necron Dynasties**
 • **Necrons**
 • **Nemesis Dreadknight**
+• **Neurotyrant**
+• **Nicassar**
 • **Night Lords**
 • **Nightbringer**
 • **Njal Stormcaller**

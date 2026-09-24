@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/71/YmyrConglomerateEinhyrHearthguard.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/7/71/YmyrConglomerateEinhyrHearthguard.jpg/revision/latest?cb=20221221175631
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Einhyr Hearthguard

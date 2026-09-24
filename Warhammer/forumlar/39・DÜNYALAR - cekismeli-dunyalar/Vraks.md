@@ -9,4 +9,8 @@ Vraks, baştan başa devasa bir İmparatorluk cephanelik-deposuna dönüştürü
 
 Kriz, gezegenin yöneticisi Kardinal Xaphan'ın İmparatorluk'a isyan edip Kaos'a yönelmesiyle patladı; bu devasa cephaneliği ele geçirince, İmparatorluk için kabul edilemez bir tehdit doğdu. Gezegeni geri almak için Death Korps of Krieg alayları gönderildi ve tarihin en uzun, en yıpratıcı kuşatmalarından biri başladı.
 
+## Tarihçe
+
+Renegade Savloların son kalesi; Death Korps'un 12 yıllık kuşatma cehennemi. İmparatorluk'un en uzun kuşatma savaşı — lojistik, çamur ve inat destanı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

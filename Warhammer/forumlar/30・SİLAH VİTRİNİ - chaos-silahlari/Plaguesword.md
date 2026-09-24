@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c2/Plaguebearer1.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/c/c2/Plaguebearer1.png/revision/latest?cb=20170829232116
 
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Plaguesword

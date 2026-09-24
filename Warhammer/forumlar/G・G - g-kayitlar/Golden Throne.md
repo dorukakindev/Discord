@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/23/GoldenThroneSiegeofTerra.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Golden Throne
 

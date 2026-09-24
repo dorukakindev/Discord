@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/09/Solar_Macharius-Angel_of_Fire.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Macharian Crusade
 

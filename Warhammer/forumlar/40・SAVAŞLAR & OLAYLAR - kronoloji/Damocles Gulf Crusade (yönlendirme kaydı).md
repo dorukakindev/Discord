@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Tau_vs._Sythes_Chapter.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Tau_vs._Sythes_Chapter.jpg/revision/latest?cb=20140603204706
 
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Damocles Gulf Crusade (yönlendirme kaydı)

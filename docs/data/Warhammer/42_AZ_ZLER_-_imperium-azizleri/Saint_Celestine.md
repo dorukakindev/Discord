@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4d/SaintCelestine.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/4/4d/SaintCelestine.jpg/revision/latest?cb=20180616201508
 
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Celestine

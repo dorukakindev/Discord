@@ -7,4 +7,8 @@ Sapkınlık'ın doruğu, Terra Kuşatması'ydı — dokuz hain lejyonun, Imperat
 
 Horus Sapkınlığı'nın mirası, İmparatorluk'un 'varoluşsal korkusu'dur — en güçlü oğulun bile ihanet edebileceği gerçeği, İmparatorluk'un 'sadakat kültü'nü ve 'güvensizlik' doktrinini doğurdu. Sapkınlık'ın külleri, binlerce yıl sonra bile İmparatorluk'un her kararının arka planıdır — 'bir daha asla' parolası, Cadia'nın düşüşüne kadar İmparatorluk'un ruhunu yönetti.
 
+## Tarihçe
+
+Warmaster Horus'un İmparator'a karşı isyanı; dokuz lejyonun düşüşü, Terra Kuşatması, İmparator'un Golden Throne'a bağlanması. İmparatorluk'un kurucu travması — bugünün bütün savaşlarının anası.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

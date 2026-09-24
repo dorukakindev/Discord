@@ -12,4 +12,8 @@ Henüz gençken İmparator'un bir vizyonuyla esinlendi ve bu ilahi çağrıyı i
 
 Sabbat'ın haçlı seferi tam 105 Terran yılı sürdü; bu süre boyunca yüzlerce dünyayı Kaos'un kucağından söküp aldı ve İmparatorluk İnancı'nın sancağını galaksinin o uzak köşesine dikti. Onun askeri dehası ve ilahi karizması, yorgun İmparatorluk ordularını aşılmaz görünen düşmanlara karşı zafere taşıdı.
 
+## Tarihçe
+
+Sabbat Sektörü'nün kurucusu azize; haçlıya adını veren, reenkarnasyon efsanesiyle dönen. Ebonheart'ta 'reenkarne' oldu — inancın yaşayan kanıtı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

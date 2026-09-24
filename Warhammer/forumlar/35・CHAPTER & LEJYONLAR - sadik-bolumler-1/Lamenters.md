@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/55/Lamenters_Livery.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/55/Lamenters_Livery.jpg/revision/latest?cb=20230808224720
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Lamenters

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/df/BlightLauncherBlightlordTerminator.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/df/BlightLauncherBlightlordTerminator.jpg/revision/latest?cb=20181102224740
 
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Blight Launcher

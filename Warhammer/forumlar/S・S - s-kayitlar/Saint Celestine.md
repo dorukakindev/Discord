@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4d/SaintCelestine.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Saint Celestine
 

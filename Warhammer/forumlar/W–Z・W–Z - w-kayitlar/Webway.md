@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Warp_Gate.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # The Webway
 

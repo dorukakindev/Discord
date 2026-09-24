@@ -9,4 +9,8 @@ Efsaneye göre Ollanius Pius, Terra Kuşatması'nın doruğunda, Warmaster Horus
 
 Sıradan bir ölümlü olmasına rağmen, galaksinin en güçlü ve en lanetli varlığı haline gelmiş hain Horus'a meydan okudu; "Horus'un İmparator'a dokunmasına izin vermeyeceğini" haykırdı ve elindeki lazer tüfeğini o canavarca varlığın göğsüne boşalttı.
 
+## Tarihçe
+
+İmparator'a karşı Horus'un önünde duran tek sıradan asker; 'bir insanın cesareti'nin efsanesi. Son savunmanın simgesi — Imperator onu unutmadı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

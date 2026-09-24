@@ -10,4 +10,8 @@ Aziz Basillius, İmparatorluk İnancı'nın en karanlık ve en ibret verici fig�
 
 321.M37'de Basillius, tam otuz Astartes Bölüğü'nün imanının yetersiz olduğunu ilan etti.
 
+## Tarihçe
+
+Elder'dan beri sayılan eski aziz; 'basit ve mutlak inanç' sembolü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

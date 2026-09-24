@@ -10,4 +10,8 @@ Gork, Ork ırkının ikiz savaş tanrılarından biridir; ikizi Mork ile birlikt
 
 Ork teolojisine göre Gork, düşmana doğrudan, yüz yüze ve "dürüstçe" saldırır; yani açıkça gelip kafasına vurur. Bu, Ork değerlerine göre en saygın savaş biçimidir: hile yok, sürpriz yok, sadece saf güç ve cesaret. Diş ve yumruk onun simgeleridir.
 
+## Tarihçe
+
+Sertlikle vuran Ork tanrısı; 'açıkta vurur'. Ork'ların en basit ve en yüce ilkesi — güçle çözülen her şey.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

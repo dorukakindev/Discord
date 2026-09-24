@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Angles_Abolustion_Armorial.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Angles_Abolustion_Armorial.png/revision/latest?cb=20250531232707
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Angels of Absolution

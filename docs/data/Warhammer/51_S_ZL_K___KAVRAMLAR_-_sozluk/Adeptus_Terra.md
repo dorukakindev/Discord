@@ -9,4 +9,8 @@ Imperium'un merkezi yönetim teşkilatının çatı adı — Ecclesiarchy, Admin
 - **Sınıf:** Teşkilat
 - **Kanon Sınıfı:** A — resmî kaynak
 
+## Tarihçe
+
+İmparatorluk'un Terra'daki kurumlarının genel adı; Administratum, Mechanicum, Ecclesiarchy ve diğerlerinin çatısı. 'Terra'nın adamları' — İmparatorluk'un yönetim kalbi.
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

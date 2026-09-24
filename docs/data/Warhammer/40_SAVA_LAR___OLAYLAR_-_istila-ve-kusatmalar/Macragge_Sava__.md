@@ -14,4 +14,8 @@ Macragge Savaşı, Hive Fleet Behemoth'un (ilk büyük Tyranid istilası) Ultram
 
 Savaşın kahramanlığı efsanedir: 1. Şirket'in Polar Kalesi savunmasında neredeyse tamamen şehit düşmesi ve Calgar'ın bizzat Hive Tyrant'ı öldürmesi, Chapter'ın tarihinin en kanlı ama en onurlu sayfasıdır. Macragge'ın direnişi, İmparatorluk'a Tyranid tehdidinin boyutunu gösteren 'ilk büyük ders' idi — bu savaştan sonra İmparatorluk, Hive Fleet'leri 'tek gezegen istilası' değil, 'galaksinin yiyeni' olarak tanıdı.
 
+## Tarihçe
+
+Behemoth'un Ultramarines'in anavatanına saldırısı; I. Company'nin yok oluşu, Calgar'ın ağır yaralanması. Tyranid tehdidinin ilk tanımlandığı savaş.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

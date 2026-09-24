@@ -13,4 +13,8 @@ Psychneuein, Catachan ve diğer ölü dünyaların 'psi-avcı' yaratıklarıdır
 
 İmparatorluk için Psychneuein'in asıl tehlikesi, Warp bağlantısıdır: bu yaratıkların 'psi-yumurtaları', bir psikerin içinde çatladığında hem kurbanı hem çevresini warp-yaşamına açar. Guard kayıtlarında Psychneuein saldırıları, 'astropath' ve 'sanctioned psyker' ekiplerinin en korkulan görev sonu raporudur — bir kez görüldüğünde, o bölgedeki tüm psikerlerin çekilmesi emri verilir.
 
+## Tarihçe
+
+Psişik xeno canavarı; hedefin zihnine dokunup ruhunu yer. Warp-benzeri organizma — psyker'ların kabus avcısı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/79/OrikantheDiviner.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/7/79/OrikantheDiviner.jpg/revision/latest?cb=20230929173137
 
 -# THE IMPERIAL ARCHIVE
 # Orikan

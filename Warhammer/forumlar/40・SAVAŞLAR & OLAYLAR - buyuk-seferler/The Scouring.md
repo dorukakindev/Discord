@@ -10,4 +10,8 @@ The Scouring (Hainlerin Sürülmesi), Horus Heresy'nin hemen ardından gelen, ye
 
 Warmaster'larını kaybeden hain lejyonlar dağıldı ve kaçmaya başladı; sadık lejyonlar (özellikle Guilliman önderliğinde toparlanan İmparatorluk) onları galaksinin dört bir yanından kovaladı. Bu, intikam, öfke ve düzeni yeniden kurma çabasıyla yürütülen kanlı bir av oldu.
 
+## Tarihçe
+
+Heresy sonrası sadık lejyonların hain lejyonları Eye of Terror'a sürme seferi; Dorn'un yürüttüğü 'büyük temizlik'. İmparatorluk'un zaferi ama kanlı bedeli.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

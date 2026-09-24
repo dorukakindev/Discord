@@ -10,4 +10,8 @@ Webway Savaşı, Horus Heresy'nin en az bilinen ama belki de en yıkıcı sonuç
 
 İmparator, insanlığı Warp'ın tehlikelerinden (psişik seyahat, kontrolsüz iblis temasından) kurtarmak için gizlice devasa bir proje yürütüyordu: Terra'nın altından, Aeldari'nin kadim Webway'ine güvenli bir insan geçidi açmak. Bu, yıldızlar arası seyahati Warp'a muhtaç olmaktan çıkaracak, insanlığın geleceğini değiştirecek bir tasarımdı. Ama proje yarıda kaldı.
 
+## Tarihçe
+
+İmparator'un Magnus'un kırdığı Webway'i kurtarma savaşı; Custodes'un insanlığın kurtuluş projesi için son çabası. Başarısız oldu — hayalin sonu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

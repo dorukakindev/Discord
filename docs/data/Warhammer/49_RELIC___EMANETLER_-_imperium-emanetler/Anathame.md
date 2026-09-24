@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Erebus_Kinebrach_Anathame.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Erebus_Kinebrach_Anathame.jpg/revision/latest?cb=20130125094705
 
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Anathame

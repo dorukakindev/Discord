@@ -12,4 +12,8 @@ Imperial Truth (İmparatorluk Gerçeği), İmparator'un kendi yarattığı 'bili
 
 İronik olarak Truth, kendi yaratıcısının çöküşünü hazırladı: Lorgar'ın 'din ihtiyacı' ile İmparator'un 'akıl dogması' çatışması, Monarchia'nın yakılması ve sapkınlığın tohumlarıydı. Bugün Imperial Truth, İmparatorluk'un 'yasaklı ama unutulmayan' mirasıdır — bazı uzay denizcileri ve Mechanicum üyeleri hâlâ 'eski gerçeği' hatırlar; İmparatorluk'un en büyük paradoksu, tanrısının 'tanrı olmadığını' söyleyen bir sistem kurmuş olmasıdır.
 
+## Tarihçe
+
+İmparator'un orijinal öğretisi; din yok, akıl var. Heresy'de öldü ama Guilliman'ın dönüşüyle kısmen geri döndü — bilimin son şansı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

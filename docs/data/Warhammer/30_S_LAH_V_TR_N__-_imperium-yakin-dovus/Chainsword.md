@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/57/Imperial_Variant.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/57/Imperial_Variant.jpg/revision/latest?cb=20140102031957
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Chainsword

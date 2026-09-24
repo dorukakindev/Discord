@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/12/Doomsdayark1.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/12/Doomsdayark1.jpg/revision/latest?cb=20130401054831
 
 -# THE IMPERIAL ARCHIVE · Necron Araclari · Kayıt
 # Doomsday Ark

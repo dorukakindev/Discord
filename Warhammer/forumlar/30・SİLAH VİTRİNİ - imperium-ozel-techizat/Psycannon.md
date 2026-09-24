@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8f/GK_Psycannon.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/8f/GK_Psycannon.png/revision/latest?cb=20140825184644
 
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Psycannon

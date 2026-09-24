@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2a/Gaussflayer10.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/2a/Gaussflayer10.jpg/revision/latest?cb=20150316111139
 
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Gauss Flayer

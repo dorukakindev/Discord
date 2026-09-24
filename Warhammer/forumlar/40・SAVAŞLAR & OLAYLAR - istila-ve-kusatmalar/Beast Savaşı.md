@@ -12,4 +12,8 @@ Beast Savaşı (War of the Beast), M32'de İmparatorluk'un karşılaştığı en
 
 Beast'ı durduran, Imperial Fists'in son temsilcileri ve 'Last Wall' protokolüydü — İmparatorluk'un bütün bölümleri birleşik güç oluşturdu ve savaşın bedeli muazzamdı: hem askeri hem de siyasi (High Lords'un neredeyse yok edilişi). Beast Savaşı, Ork tehdidinin 'vahşi kabile' değil 'potansiyel galaktik güç' olduğunu İmparatorluk'a gösteren dönüm noktasıdır.
 
+## Tarihçe
+
+War of the Beast'in diğer adı; dev Ork'un İmparatorluk'u sarsması. Vulkan ve Fists'in müdahalesi — primarch'ların son ortak savaşı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

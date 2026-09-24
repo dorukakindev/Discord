@@ -8,4 +8,8 @@ Archmagos Cawl'un on bin yılda geliştirdiği, İmparator'un Space Marine şabl
 
 Primaris / Belisarius Cawl Technology, on bin yıl süren gizli bir çalışmanın ürünüdür; Archmagos Dominus Belisarius Cawl tarafından, Primarch Roboute Guilliman'ın İkinci Kuruluş'un hemen ardından (erken 31. milenyumda) verdiği emirle Mars'ta başlatılan, yeni nesil bir Space Marine yaratma projesidir. Cawl, başlangıç noktası olarak İmparator'un Büyük Haçlı Sefer için yarattığı orijinal Space Marine şablonunu aldı ve onu, primarch'ların kendi genomlarını kullanarak geliştirip "mükemmelleştirdi".
 
+## Tarihçe
+
+Guilliman'ın on bin yıllık planı; Belisarius Cawl'un tasarladığı üstün Marine mimarisi. Rubicon geçişiyle eski Marine'ler de yükseltilir — Chapter'ların yeniden doğuşu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

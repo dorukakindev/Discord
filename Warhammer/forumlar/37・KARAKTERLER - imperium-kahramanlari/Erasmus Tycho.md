@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/57/Cpt._Tycho_Back_Banner.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/57/Cpt._Tycho_Back_Banner.png/revision/latest?cb=20141215184905
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Erasmus Tycho

@@ -12,4 +12,8 @@ Gauntlets of Ultramar, Marneus Calgar'ın efsanevi silahlarıdır — Ultramar'�
 
 Gauntlets'in gücü, hem fiziksel hem liderlik sembolüdür — Calgar'ın 'en önde savaşan komutan' ününün taşıyıcısıdır. Ultramar'ın 'soylu ve güçlü' kimliğinin somut hâli olan bu silahlar, Chapter'ın 'komutanın da savaşçı olduğu' geleneğini temsil eder — bir Chapter Master'ın hem stratejist hem en ön safhada savaşan figür olmasının simgesidir.
 
+## Tarihçe
+
+Calgar'ın taşıdığı Ultramarines güç eldivenleri; Bolter'ları içine gömülü dev yumruk. Chapter'ın ikonu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

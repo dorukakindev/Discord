@@ -13,4 +13,8 @@ Biel-Tan, 'Yeniden Doğuş'un Craftworld'üdür — Aeldari'nin en militarist ve
 
 Biel-Tan'ın ünü, Eldar'ın en parlak savaşçılarını ürettiğinden gelir — Striking Scorpions ve diğer Aspect'lerin en elit ustaları burada yetişir. Ancak Craftworld'ün kaderi acı bir paradoks taşır: Slaanesh'in doğuşuyla 'Yeniden Doğuş' hayalinin ilk düşmanı olan Biel-Tan, Büyük Yarık'ın açılmasıyla neredeyse yok oldu; hayatta kalanlar, 'düşmüş ama kırılmamış' olarak savaşmaya devam eder.
 
+## Tarihçe
+
+'Kılıçlı Aeldari' craftworld'ü; en askeri, en geleneksel. Aspect'lerin doruğu — düştü ama ruhu savaşta kaldı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

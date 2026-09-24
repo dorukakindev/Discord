@@ -10,4 +10,8 @@ Apostasy Çağı, M36'da İmparatorluğu içeriden parçalayan büyük bir kriz 
 
 Krizin merkezinde, çılgın ve fanatik Ecclesiarch (Kilise lideri) Goge Vandire vardı; hem Adeptus Ministorum'un (Kilise) hem de Adeptus Terra'nın (devlet) kontrolünü tek elde topladı, böylece İmparatorluğun yarısından fazlasını yönetir hale geldi. Paranoyası ve megalomanlığıyla "Reign of Blood" (Kan Saltanatı) denen bir terör rejimi kurdu; en küçük bir sapkınlık ya da itaatsizlik şüphesiyle trilyonlarca insanı katletti.
 
+## Tarihçe
+
+Goge Vandire'in Reign of Blood'ı; Sebastian Thor'un isyanı ve reformu. İmparatorluk Kilisesi'nin en karanlık ve en kutsal dönemi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

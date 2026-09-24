@@ -14,4 +14,8 @@ Khaine, Aeldari'nin Savaş Tanrısı ve 'Katil' olarak bilinen kanlı figürdür
 
 Khaine'in rolü çift yönlüdür: hem Aeldari'nin savaşçı ruhunu temsil eder (savaşta çağrılan koruyucu) hem de 'eski imparatorluğun' şiddetli doğasını yansıtır — onun kanıyla damgalanan Aspect Warrior'lar, savaşın kutsallığını ve bedelini birlikte taşır. Khaine'in hikâyesi, Aeldari'nin kendi şiddetinin hem kurtarıcısı hem laneti olduğunun destanıdır.
 
+## Tarihçe
+
+Aeldari savaş tanrısı; Asuryan'la çatışıp parçalandı, kıymıkları Avatar'lar oldu. 'Kana bulanmış el' lakabı — Aeldari'nin en vahşi yüzü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

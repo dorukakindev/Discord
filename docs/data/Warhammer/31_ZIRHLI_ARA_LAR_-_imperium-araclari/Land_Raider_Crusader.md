@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/61/LRCrusader.gif/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/6/61/LRCrusader.gif/revision/latest?cb=20101206200008
 
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
 

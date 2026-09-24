@@ -8,4 +8,8 @@ Pandorax Kampanyası, M41'de (959-961.M41) Pandorax Sistemi'nin ölüm dünyası
 
 Pythos'u Kaos için paha biçilmez kılan şey, yüzeyinin altında saklı kadim bir sırdı: Horus Heresy çağına dayanan, Warp'a açılan bir geçit olan "Damnation Cache" (Lanet Mahzeni). Abaddon, bu mahzeni açıp gücünü ele geçirmek için Black Legion'ını, müttefik Death Guard'ı ve Huron Blackheart'ın gönderdiği Red Corsairs'i devasa bir istila filosuyla gezegene sürdü.
 
+## Tarihçe
+
+Abaddon'un Pandorax'ta daemon ordusu kurma girişimi; Azrael ve Dark Angels'ın karşı hamlesi. Fallen ve daemonların çakıştığı cephe.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

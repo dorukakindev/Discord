@@ -10,4 +10,8 @@ Vigilus, Nachmund Gauntlet'in anahtarı olan 'mandelbaum' dünyasıydı — Warp
 
 Calgar ve Celestine'in yönettiği İmparatorluk gücü, dünyayı 'resmen' kurtardı ama Vigilus artık 'savaşın ortasındaki dünya' olarak kaldı — hem Gauntlet'in bekçisi hem kaosun sürekli hedefi. Vigilus'un hikâyesi, İmparatorluk'un 'tek kale' stratejisinin kırılganlığını gösterir: tek bir dünyanın düşüşü, bir Segmentum'u kesebilir ve Büyük Yarık'ın haritasını değiştirebilir.
 
+## Tarihçe
+
+Nachmund Geçidi'ndeki savaş; Calgar'ın tuttuğu, Abaddon'un baltaladığı knot-world. Era Indomitus'un ilk büyük set çatışması.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

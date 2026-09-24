@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e0/Pulse_rifle.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/e0/Pulse_rifle.jpg/revision/latest?cb=20130919040617
 
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Pulse Rifle

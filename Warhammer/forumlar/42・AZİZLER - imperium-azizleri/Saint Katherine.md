@@ -14,4 +14,8 @@ Saint Katherine, Adepta Sororitas'ın en büyük şehit azizesidir — 'Order of
 
 Katherine'in kültü, 'şehitlik' kavramını İmparatorluk'un en yüksek erdemi yapar — onun Order'ı, savaşta 'ölmeye hazır olmanın' kutsallığını temsil eder. 'Our Martyred Lady' unvanı, Sororitas'ın hem yas hem intikam kimliğini taşır; Katherine, İmparatorluk'un 'kadın savaşçılarının en saf örneği' olarak, ölümüyle bile İmparatorluk'a hizmet eden azizenin simgesidir.
 
+## Tarihçe
+
+Order of Our Martyred Lady'nin kurucusu; en ünlü Savaş Rahibesi azizi. Savaşın ve fedakârlığın simgesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

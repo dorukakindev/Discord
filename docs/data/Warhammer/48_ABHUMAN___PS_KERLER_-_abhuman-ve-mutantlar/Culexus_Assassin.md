@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/31/Cullexus_Temple_Icon.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/31/Cullexus_Temple_Icon.jpg/revision/latest?cb=20150601201452
 
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Culexus Assassin

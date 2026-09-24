@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/de/UR025.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Men of Iron
 

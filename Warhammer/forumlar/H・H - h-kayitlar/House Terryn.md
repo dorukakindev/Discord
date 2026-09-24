@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Terryn_Icon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # House Terryn
 

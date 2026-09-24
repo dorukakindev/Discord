@@ -13,3 +13,5 @@ Legio Vulcanum II, "Lords of Ruin" (Yikim Lordlari) olarak bilinen, Imparator'a 
 Stygies VIII, Terror Gozu'ne yakinligi ve maruz kaldigi Kaos saldirisi riski nedeniyle iki ayri Titan lejyonuyla odullendirilmisti; bu iki lejyon galaktik kuzeyden gelen istilacilara karsi nobet tutuyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+Legio Vulcanum II ("Lords of Ruin") — Hain

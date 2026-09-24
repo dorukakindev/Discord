@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/36/Tervigon_attack.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/36/Tervigon_attack.png/revision/latest?cb=20140726014705
 
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Tervigon

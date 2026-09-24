@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/41/Defiler.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/4/41/Defiler.png/revision/latest?cb=20131207045157
 
 -# THE IMPERIAL ARCHIVE · Chaos Araclari · Kayıt
 # Defiler

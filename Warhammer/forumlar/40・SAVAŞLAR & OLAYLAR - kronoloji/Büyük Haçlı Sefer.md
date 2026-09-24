@@ -7,4 +7,8 @@ Büyük Haçlı Seferi (Great Crusade), İmparator'un Terra'dan başlattığı v
 
 Seferin sonu hem zafer hem trajediydi: Ullanor'un fethiyle (Ork'ların en büyük merkezi) doruğa ulaştı ama İmparator'un Terra'ya dönüp Primarch'ları sefer komutanlığından çekmesi, Horus'un kırgınlığını ve sonrasındaki ihaneti hazırladı. Büyük Haçlı Seferi'nin mirası, İmparatorluk'un 'mükemmellik efsanesi'dir — o günlerin geri gelmeyeceği, İmparatorluk'un en acı bilgisidir.
 
+## Tarihçe
+
+İmparator'un insanlığı birleştirme seferi; Primarch'lar ve lejyonlarının iki yüzyıllık galaksi fethi. Ullanor'da zirveye ulaştı, Isstvan'da kırıldı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

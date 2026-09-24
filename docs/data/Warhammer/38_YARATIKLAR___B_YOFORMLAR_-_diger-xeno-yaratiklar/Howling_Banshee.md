@@ -8,4 +8,8 @@ Savaş tanrısı Khaine'in öfkesini bedenleyen, neredeyse tümü kadın Aeldari
 
 Howling Banshee'ler, kendilerini Banshee Tapınağı'na adamış, savaş tanrısı Kaela Mensha Khaine'in belirli bir yüzünü bedenleyen Aeldari Aspect Warrior'ları (Görünüm Savaşçıları)'dır (Aspect Warriors); insanüstü bir kesinlik ve hızla dövüşen akrobatik hücum piyadeleridir. Kemik beyazı zırhları, alev turuncusu saçları ve savaş çığlıklarını zihin yıkan şok dalgalarına çeviren Banshee Maskesi ile tanınırlar. Aeldari efsanesindeki banshee'nin kendisi dişi bir ölüm ruhu olduğundan, üyeleri de neredeyse tümüyle kadındır.
 
+## Tarihçe
+
+Aeldari'nin kadın Aspect savaşçısı; maskesi çığlık olarak silah kullanan yakın dövüş ustası. Jain Zar'ın kurduğu Aspect — çığlığı ölümün habercisidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

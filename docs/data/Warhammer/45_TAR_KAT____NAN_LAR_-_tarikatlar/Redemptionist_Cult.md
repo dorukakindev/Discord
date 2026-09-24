@@ -12,4 +12,8 @@ Redemptionist Cult, İmparatorluk'un 'arındırma' tarikatlarından biridir — 
 
 Kült'ün yöntemi ateştir: 'Redemption' (kurtuluş) yakılarak verilir ve bir Redemptionist'in meşalesi, hem ibadet hem infaz aracıdır. İmparatorluk için bunlar 'kontrol edilemez ama kullanışlı' güçlerdir — kaos tarikatlarını ve mutantları avlarlar ama masumları da yakabilecek kadar fanatiktirler; Redemptionist'in 'alevi', İmparatorluk'un 'aşırı arınma' doktrininin en uç hâlidir.
 
+## Tarihçe
+
+Günah çıkarma yoluyla kurtuluş vaat eden aşırı Ministorum kolu; ateşli vaizlerin kültü. Frateris Militia'nın ruhani kaynağı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

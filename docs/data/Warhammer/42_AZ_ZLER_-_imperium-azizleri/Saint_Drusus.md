@@ -14,4 +14,8 @@ Saint Drusus, Calixis Sektörü'nün kurucu azizidir — 'İmparatorluk'un sın�
 
 Aziz olarak Drusus, 'kılıçla vaaz eden' figürün en büyük örneğidir — hem general hem misyoner, hem fatih hem aziz. Calixis Sektörü'nün başkenti Scintilla'da devasa anıtı vardır ve İmparatorluk'un 'yeni dünya fethetme' mitolojisinin merkezidir — bir aziz olmanın 'sınırda ölmenin' gerektirdiği inancının simgesidir.
 
+## Tarihçe
+
+Calixis Sektörü'nün fethedilmesinin azizi; askeri lider ve azizin en askeri biçimi. Drusus Shrine World'lerin adı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

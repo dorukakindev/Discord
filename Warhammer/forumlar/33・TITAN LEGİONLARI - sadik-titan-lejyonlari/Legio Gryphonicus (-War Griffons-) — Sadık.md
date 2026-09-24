@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Legio_Gryphonicus_Legio_Icon.png/revision/latest?cb=20200225011515
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Gryphonicus
 

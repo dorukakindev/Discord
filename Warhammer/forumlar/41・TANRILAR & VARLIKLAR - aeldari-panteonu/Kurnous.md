@@ -8,4 +8,8 @@ Kurnous, Aeldari panteonunun av tanrısı ve ırkın "Babası"dır; şifa tanrı
 
 Mitolojide Kurnous, Aeldari'ye "beden ve arzu" armağanını verendir; Isha'nın yaşam ve şifa ilkesiyle birleşince, ırkın fiziksel varlığını ve tutkusunu meydana getirdiler. Ama bu armağan iki yüzlüydü: aynı arzu, Aeldari'yi büyük bir uygarlığa taşırken, kontrolsüz bir açgözlülüğe ve sonunda Slaanesh'i doğuran Düşüş'e de zemin hazırladı. Kurnous, yaratımın hem bereketini hem de tehlikesini taşıyan tanrıdır.
 
+## Tarihçe
+
+Avcı tanrısı; orman ve avın patronu, Eldanesh'in atası. Fall'da parçalandı; kıymıkları ve izleri hâlâ Exodite dünyalarında.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

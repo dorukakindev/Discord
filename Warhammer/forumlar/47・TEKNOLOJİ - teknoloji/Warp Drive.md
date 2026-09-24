@@ -10,4 +10,8 @@ Warp Drive, İmparatorluk'un yıldızlararası seyahatinin tek motorudur — gem
 
 Warp Drive'ın tehlikesi, Warp'ın kendisidir: girdaplar, daemon'lar ve 'zaman kayması' riskleri her seferde mevcuttur; Navigator'suz ve Gellar Field'siz bir Warp Drive, geminin 'intihar' aracıdır. İmparatorluk'un 'yayılma' yeteneğinin temeli olan Warp Drive, hem en büyük hediye hem en büyük bağımlılıktır — İmparatorluk'un her gemisi, her yolculukta 'kaosun üzerinden' geçer ve bu, İmparatorluk'un varoluşsal kırılganlığının simgesidir.
 
+## Tarihçe
+
+Uzay gemilerinin Warp'a girme motoru; İmparatorluk'un ayakta kalmasını sağlayan eski teknoloji. Kırılgan ve tehlikeli — ama biricik.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/32/Inquisitorial_Black_Ship.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/32/Inquisitorial_Black_Ship.jpg/revision/latest?cb=20130418001957
 
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Black Ships
@@ -9,5 +9,9 @@ Galaksiden psyker toplayan kasvetli gemiler; topladıklarının çoğu İmparato
 Black Ships (Kara Gemiler), Adeptus Astra Telepathica'ya ait, galaksiyi dolaşıp her dünyada doğan psyker'ları toplayan kasvetli ve korku salan gemilerdir. Bir Black Ship'in bir dünyaya gelmesi, o dünyanın psyker çocuklarının ailelerinden koparılması demektir; bu, İmparatorluk hayatının en acı ve en yaygın gerçeklerinden biridir.
 
 Black Ship'ler, "Tithe" (öşür) sisteminin bir parçası olarak çalışır; her İmparatorluk dünyası, vergisinin bir kısmını psyker biçiminde ödemek zorundadır. Gemiler, bu psyker'ları (genellikle korkmuş çocukları) toplar ve Terra'ya taşır. Yolculuk, çoğu için tek yönlüdür ve kasvetlidir; gemiler psyker'larla doludur ve sürekli bir dehşet ve hüzün atmosferi taşır.
+
+## Tarihçe
+
+Psyker toplayan gemiler; her dünyadan psişik çocukları Terra'ya taşıyan sessiz filo. İmparatorluk'un en korkulan gemileri — bir ailenin en kötü günü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

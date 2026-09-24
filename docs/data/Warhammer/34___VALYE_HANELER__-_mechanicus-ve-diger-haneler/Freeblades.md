@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/06/Freeblade_Amaranthine_Combat.jpg/revision/latest/scale-to-width
+https://static.wikia.nocookie.net/warhammer40k/images/0/06/Freeblade_Amaranthine_Combat.jpg/revision/latest?cb=20140311212412
 
 -# THE IMPERIAL ARCHIVE · Mechanicus Ve Diger Haneler · Kayıt
 # Freeblades

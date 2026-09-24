@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6f/Legio_Surturvora_Iconography.jpg/revision/latest?cb=20150605092405
+
 -# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
 # Legio Suturvora
 

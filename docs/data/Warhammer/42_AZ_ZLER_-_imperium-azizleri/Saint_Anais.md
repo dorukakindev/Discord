@@ -14,4 +14,8 @@ Saint Anais, İmparatorluk'un 'Saf Azize' arketipidir — savaşçı olmayan, du
 
 Anais'in kültü, Adepta Sororitas'ın 'hospitalier' ve 'dialogus' dallarının koruyucu azizesidir — şifa ve iletişimle hizmet eden Sororitas'lar onun adını anar. İmparatorluk'un 'savaşçı olmayan aziz' mitolojisinde Anais, 'silahsız zaferin' mümkün olduğunun kanıtıdır — ama ironik olarak, onun hikâyesi bile İmparatorluk'un savaş bağlamında anılır.
 
+## Tarihçe
+
+Order of the Argent Shroud'ın kurucusu; sessiz cesaret ve kendinden şüphe etmeyen sadakatin azizi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

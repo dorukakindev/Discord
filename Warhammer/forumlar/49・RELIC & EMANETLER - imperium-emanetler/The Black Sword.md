@@ -10,4 +10,8 @@ The Black Sword (Kara Kılıç), Black Templars chapter'ının en kutsal gelene�
 
 Gelenek, Imperial Fists'in First Captain'ı ve Black Templars'ın kurucusu olan Sigismund'a dayanır; Sigismund, Terra Kuşatması'nda hainlerin en güçlü şampiyonlarına meydan okuyan, İmparatorluğun ilk ve en büyük "şampiyonu"ydu. Onun anısına, Black Templars her büyük savaştan önce bir tören düzenler; İmparator'un, bir savaşçının zihnine bir vizyon (Sigismund'un yüzünü gösteren bir rüya) göndererek bir "Şampiyon" seçtiğine inanılır.
 
+## Tarihçe
+
+Black Templars'ın kutsal kılıcı; Chapter'ın sırlarını ve inancını taşıyan siyah çeliğin simgesi. Sword Brethren'in kalbi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

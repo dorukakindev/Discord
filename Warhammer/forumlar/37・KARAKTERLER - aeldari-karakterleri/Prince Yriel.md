@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/80/Prince_Yriel_Iyanden.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/80/Prince_Yriel_Iyanden.png/revision/latest?cb=20130726163331
 
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Prince Yriel

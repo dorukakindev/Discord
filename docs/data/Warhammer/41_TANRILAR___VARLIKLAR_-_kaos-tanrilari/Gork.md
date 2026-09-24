@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/18/Gork_%26_Mork.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/18/Gork_%26_Mork.png/revision/latest?cb=20140716063515
 
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Gork

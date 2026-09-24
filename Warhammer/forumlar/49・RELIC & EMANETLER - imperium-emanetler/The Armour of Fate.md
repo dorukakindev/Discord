@@ -12,4 +12,8 @@ Armour of Fate (Kaderin Zırhı), Roboute Guilliman'ın 'Ynnari ve Cawl'ın iş 
 
 Zırhın önemi, 'ölümden dönen primarch' sembolüdür — Guilliman'ın Fulgrim tarafından öldürülmesinden sonra, zırh onu hayatta tuttu ve Era Indomitus'un 'kurtarıcı figürü'nü fiziksel olarak mümkün kıldı. Armour of Fate, İmparatorluk'un 'son umudun zırhı' olarak bilinir — bir primarch'ın geri dönüşünün ve İmparatorluk'un 'ikinci şansının' somut kanıtıdır.
 
+## Tarihçe
+
+Guilliman'ın Rubicon sonrası zırhı; yaralı primarch'ın dönüşünün simgesi. Eski yarayı yeni zırhla örten şey.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

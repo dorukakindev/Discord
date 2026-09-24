@@ -10,4 +10,8 @@ Vraks Kuşatması, M41'de yaşanan, modern İmparatorluk tarihinin en uzun ve en
 
 Vraks, baştan başa devasa bir İmparatorluk cephanelik-deposuna dönüştürülmüş bir dünyaydı; milyarlarca silah, mühimmat ve savaş malzemesi burada depolanıyordu. Gezegenin yöneticisi Kardinal Xaphan isyan edip Kaos'a yönelince ve bu devasa cephaneliği ele geçirince, İmparatorluk için kabul edilemez bir tehdit doğdu.
 
+## Tarihçe
+
+Vraks'ta 12 yıllık Death Korps kuşatması; mühimmat dünyasının kurtarılması ya da yok edilmesi. Siper savaşının en karanlık örneği.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5c/Ciaphas_Cain.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Ciaphas Cain
 

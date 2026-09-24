@@ -10,4 +10,8 @@
 
 Bu çağın sonu, İmparator'un Birleşme Savaşları'yla geldi: Unification Wars'la Terra'yı birleştiren İmparator, ilk Space Marine ordularını yarattı ve Büyük Haçlı Seferi'ne zemin hazırladı. Çekişme Çağı'nın mirası hâlâ hissedilir — insanlığın bir daha asla 'tam birleşik' olamayacağı ve Warp'ın her zaman bu kırılganlığı avlayacağı gerçeği, İmparatorluk'un varoluşsal kâbusudur.
 
+## Tarihçe
+
+Nova Terra Interregnum döneminin genel adı; İmparatorluk'un bin yıllık bölünmüşlüğü. Palatine Heresy'nin içinde olduğu çağ.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

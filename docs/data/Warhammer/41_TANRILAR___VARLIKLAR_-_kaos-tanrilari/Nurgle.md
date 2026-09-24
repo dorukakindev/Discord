@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1a/MarkofNurgleBig.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/1a/MarkofNurgleBig.png/revision/latest?cb=20170908232551
 
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Nurgle

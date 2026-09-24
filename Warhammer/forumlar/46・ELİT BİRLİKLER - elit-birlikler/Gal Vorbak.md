@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Argel_Tal-Lorgar%27s_Bodyguard.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Argel_Tal-Lorgar%27s_Bodyguard.jpg/revision/latest?cb=20110321080742
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Gal Vorbak

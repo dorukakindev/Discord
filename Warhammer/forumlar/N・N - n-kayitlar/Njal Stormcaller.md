@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Njal_Stormcaller_Power_Armour.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Njal Stormcaller
 

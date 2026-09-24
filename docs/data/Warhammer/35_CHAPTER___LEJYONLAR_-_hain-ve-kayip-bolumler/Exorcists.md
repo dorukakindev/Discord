@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/59/Exorcists_Icon.jpg/revision/latest?cb=20160121214647
 
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Exorcists_Icon.jpg/revision/latest?cb=20160121214647
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Exorcists — Şeytan Kovucular

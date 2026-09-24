@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/be/Ravenwing_Standard2.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/be/Ravenwing_Standard2.jpg/revision/latest?cb=20150713092450
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Ravenwing

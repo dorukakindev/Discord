@@ -12,4 +12,8 @@ Gellar Field, Warp'ta seyahat eden gemilerin 'yaşam zırhı'dır — geminin et
 
 Gellar Field'ın tehlikesi, 'titremesi' dir: alan zayıfladığında Warp, içeri sızar ve gemi 'daemonic possession' yaşar — en korkulan senaryolardan biri. İmparatorluk'un Warp yolculuğunun temel güvenlik sistemi olan Gellar Field, hem teknoloji hem 'dua mekanizması'dır — Mechanicum'un 'Litany of Protection' duaları, alanın 'ruhunu' besler; bir Gellar Field'ın sessiz kalması, bir geminin yok olmasının ilk işaretidir.
 
+## Tarihçe
+
+Warp seyahatinde gemiyi korumak için üretilen 'gerçeklik balonu'; Geller'ın adını taşıyan eski teknoloji. Bir gemi alansız giderse — içerideki her şey ölür.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

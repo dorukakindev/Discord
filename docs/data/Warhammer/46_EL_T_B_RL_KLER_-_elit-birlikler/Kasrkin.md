@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Kasrkin_hvy_plasma.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Kasrkin_hvy_plasma.jpg/revision/latest?cb=20130601200056
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Kasrkin

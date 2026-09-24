@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/Astorum-Logo.jpg/revision/latest?cb=20200208082645
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Astorum
 

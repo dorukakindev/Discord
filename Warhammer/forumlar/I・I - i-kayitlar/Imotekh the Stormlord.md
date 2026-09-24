@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/48/Imotekh_the_Stormlord.png/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Imotekh the Stormlord
 

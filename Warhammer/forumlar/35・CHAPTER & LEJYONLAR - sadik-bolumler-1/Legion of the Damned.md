@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d1/LoD_SP.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/d1/LoD_SP.png/revision/latest?cb=20170626004908
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Legion of the Damned

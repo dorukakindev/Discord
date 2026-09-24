@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Tau_with_kroot.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Tau_with_kroot.jpg/revision/latest?cb=20061107230429
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Hunter Cadre

@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/a2/CatachanMXIV.PNG/revision/latest?cb=20171013021210
 
+https://static.wikia.nocookie.net/warhammer40k/images/a/a2/CatachanMXIV.PNG/revision/latest?cb=20171013021210
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Catachan Jungle Fighters — Catachan Orman Savaşçıları

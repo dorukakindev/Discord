@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Asurmen_Cover_Art.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Asurmen_Cover_Art.jpg/revision/latest?cb=20150505201048
 
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Asurmen

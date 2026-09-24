@@ -10,4 +10,8 @@ Ele geçirilme (Daemonic Possession), bir Warp iblisinin gerçek uzaya sızmak i
 
 Korunmasız ya da yozlaşmış psyker'lar, en kolay hedeflerdir; bir psyker, Peril of the Warp'a maruz kaldığında ya da kontrolsüz büyü yaptığında, bir iblise kapı açabilir. Ama iblisler yalnızca eti ele geçirmez; bir makineyi, bir savaş aracını, hatta kilometrelerce uzunluktaki bir savaş gemisini bile (Gellar Alanı düşerse) ele geçirebilir. Ele geçirilen bir konak, iblisin gerçeklikteki yürüyen bir uzantısına dönüşür.
 
+## Tarihçe
+
+Daemon Possession; bir insan bedeninin daemon tarafından ele geçirilmesi. İmparatorluk'un en korkulan kişisel sonu — benliğin yok olması.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

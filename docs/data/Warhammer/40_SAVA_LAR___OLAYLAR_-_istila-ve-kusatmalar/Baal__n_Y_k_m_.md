@@ -12,4 +12,8 @@ Baal'ın Yıkımı (Devastation of Baal), Leviathan Hive Fleet'in Blood Angels'�
 
 Savaşın doruğunda Dante komutasındaki savunucular yenilmek üzereydi — Ka'Bandha'nın daemon müdahalesi ve Büyük Yarık'ın açılmasıyla Warp'ın kaosu Hive Fleet'i yuttu ve Baal kurtarıldı. Ancak zafer bedelsiz değildi: Sanguinius'un oğullarının çoğu öldü ve Baal, 'son savaşta yaşayan' ama manevi olarak yaralı bir Chapter'ın evidir. Baal'ın Yıkımı, İmparatorluk'un 'bir dünyanın kaybı' ile 'bir halkın yok oluşu' arasındaki çizgiyi gösteren en keskin örnektir.
 
+## Tarihçe
+
+Leviathan'ın Blood Angels'ın anavatanına saldırısı; Dante'nin son savunması, Sanguinor'un gelişi, Guilliman'ın kurtarışı. Chapter'ın en karanlık ve en mükemmel günü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

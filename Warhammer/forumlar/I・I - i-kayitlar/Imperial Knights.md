@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b7/ImperialKnightsIconSmall.JPG/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Imperial Knights
 

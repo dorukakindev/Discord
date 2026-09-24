@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3b/IronHalo2.PNG/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/3b/IronHalo2.PNG/revision/latest?cb=20170813032808
 
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Iron Halo
@@ -10,4 +10,13 @@ Space Marine subaylarına verilen onur nişanesi ve koruma alanı üreteci; baş
 
 ## Teknik ve Kullanım
 Astartes liderliğinin simgesi olan kişisel enerji kalkanı — güç alanını halka şeklinde bedene sarar. Özel teçhizat ve kalıntı — silah değil ama savaş alanında en az bir silah kadar önemli olan koruma, iletişim ve destek sistemleri; kodekslerin 'Relic' bölümünde yer alır.
+
+## Teknik Özellikler
+- Tip: Space Marine üst düzey kalkan üreteci — aura koruma alanı
+- Etki: kullanıcıyı çevreleyen enerji kalkanı; gelen ateşi ve yakın darbeyi emer
+- Taşıyıcı: Captain ve Chapter Master seviyesindeki komutanlar
+
+## Not
+Bir aurasal onur nişanıdır — hem koruma hem otorite simgesi; Chapter'ın 'bu kişi korunmalı' beyanıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

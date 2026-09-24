@@ -14,4 +14,8 @@ Pedro Kantor, Crimson Fists'in Chapter Master'ı ve Rynn's World'ün kurtuluş d
 
 Kantor'un savaş tarzı 'dirençli kılıç' olarak tanımlanır: savunmadan hücuma geçişte uzman, özellikle kuşatma ve 'kale düşürme' operasyonlarında ustadır. Crimson Fists'in 'bir avuç ama kırılmaz' ününün mimarı olan Kantor, İmparatorluk'un en fedakâr komutanları arasında sayılır — Chapter'ın 'asla teslim olmayan' kimliği, onun Rynn's World'de yazdığı gerçektir.
 
+## Tarihçe
+
+Crimson Fists'in Chapter Master'ı; Rynn's World'de Chapter'ının yarısını kaybettikten sonra hayatta kalanları tek başına topladı ve Chapter'ı yok olmaktan çıkardı. İmparatorluk'un direnç sembollerinden biri.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

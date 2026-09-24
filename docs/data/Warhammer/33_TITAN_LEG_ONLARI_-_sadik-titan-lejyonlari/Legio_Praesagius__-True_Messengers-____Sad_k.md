@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/94/True_Messengers_Icon_Fancy.png/revision/latest?cb=20210506000542
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Praesagius
 

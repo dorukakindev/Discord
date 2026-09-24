@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/24/Attilan_Cav_Charge.jpg/revision/latest/scale-to-width-down/900?cb=20130530172522
 
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/Attilan_Cav_Charge.jpg/revision/latest?cb=20130530172522
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Attilan Rough Riders — Attila Vahşi Süvarileri

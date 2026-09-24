@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revision/latest?cb=20140312041617
 
 -# THE IMPERIAL ARCHIVE · Mechanicus Ve Diger Haneler · Kayıt
 # House Taranis

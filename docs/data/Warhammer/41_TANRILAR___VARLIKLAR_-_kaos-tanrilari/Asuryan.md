@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/56/Order.gif/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/56/Order.gif/revision/latest?cb=20110602203800
 
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Asuryan

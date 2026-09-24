@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Manreaper_schematic.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Typhus
 

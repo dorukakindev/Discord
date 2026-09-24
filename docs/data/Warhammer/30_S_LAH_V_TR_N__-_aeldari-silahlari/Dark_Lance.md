@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/33/DEDarkLance.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/33/DEDarkLance.jpg/revision/latest?cb=20121220183540
 
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Dark Lance

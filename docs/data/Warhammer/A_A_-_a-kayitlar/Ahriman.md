@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/63/Black_Staff_of_Ahriman.png/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Ahriman
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/84/Fire_Hawks_Livery.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/84/Fire_Hawks_Livery.jpg/revision/latest?cb=20161118002336
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Fire Hawks

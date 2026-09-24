@@ -1,8 +1,8 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Cypra Mundi — Cypra Mundi
+# Cypra Mundi
 
 Galaksinin kuzey ucundaki dev Forge World; Segmentum Obscurus'un başlıca donanma ve askeri üssü (Segmentum Fortress), Halkaların Gözü cephesinin lojistik kalbi.
 

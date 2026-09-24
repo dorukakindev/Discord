@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/15/MeltaRifle.JPG/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/15/MeltaRifle.JPG/revision/latest?cb=20220805193224
 
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Melta Rifle

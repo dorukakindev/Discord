@@ -12,4 +12,8 @@ Black Legion'ın gücü, tek doktrin üzerine kuruludur: 'Long War' — İmparat
 
 Lejyonun yapısı eşsizdir: dört Kaos tanrısına eşit bağlılık, hain lejyonların tek 'birleşik' gücü ve Kara Haçlı Seferleri'nin mimarı. Black Legion, Cadia'yı düşüren, Büyük Yarık'ı açan ve hâlâ İmparatorluk'un en organize kaos gücü olan ordudur — Abaddon'un 'ışığı söndürme' vaadiyle, lejyon İmparatorluk'un en sistemli ve en sabırlı düşmanıdır.
 
+## Tarihçe
+
+Abaddon'un lejyonu; eski Sons of Horus, Chaos'un en organize ordusu. On altı lejyondan kalma Kara Lejyon — hedefi Terra.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

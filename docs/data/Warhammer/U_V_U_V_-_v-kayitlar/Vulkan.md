@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/07/Primarch_Vulkan.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Vulkan
 

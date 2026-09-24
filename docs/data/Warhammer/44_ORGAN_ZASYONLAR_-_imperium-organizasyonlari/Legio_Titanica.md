@@ -10,4 +10,8 @@ Legio Titanica (Collegia Titanica), Adeptus Mechanicus'un en kutsal ve en güçl
 
 Titanlar, gökdelen boyutunda yürüyen savaş makineleridir; en küçük avcı sınıfı Warhound'dan, çok yönlü savaş sınıfı Reaver'a ve devasa savaş tanrısı sınıfı Warlord'a (hatta daha büyük Imperator sınıfına) kadar uzanır. Her biri, içinde kadim ve kutsanmış bir "makine ruhu" taşıyan, tek başına bir orduya bedel olan bir yıkım gücüdür. Bir Titan, kendi içinde mürettebatı, rahipleri ve neredeyse kendi kişiliği olan bir varlıktır.
 
+## Tarihçe
+
+Titan Legion'ların kurumsal çatısı; Collegia Titanica. Dev makinelerin ruhu — Mechanicus'un en görkemli kolu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

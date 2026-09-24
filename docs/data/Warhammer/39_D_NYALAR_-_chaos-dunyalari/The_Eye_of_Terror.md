@@ -14,4 +14,8 @@ Eye of Terror'un kökeni, Aeldari'nin çöküşüdür: binlerce yıl önce Slaan
 
 Eye of Terror sadece kaos üssü değildir — içinde 'daemon world'ler (kanunları kaos tanrıları tarafından yazılan gezegenler), korsan filoları, kayıp titan lejyonları ve İmparatorluk'un en korkulan kaos güçleri yaşar. Cadia'nın yörüngesindeki 'Cadian Gate' buradan çıkan her seferin bekçisiydi ve Cadia'nın düşüşü, Eye'ın 'açılması'nın en büyük zaferi oldu — Büyük Yarık'ın doğması, Eye of Terror'un artık kapatılamayacak bir yara olduğunun kanıtıdır.
 
+## Tarihçe
+
+Galaksinin en büyük Warp yarası; Chaos'un İmparatorluk'a açılan kapısı. Cadia onun ağzında durdu yüzyıllarca — düştüğünde kapı açıldı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

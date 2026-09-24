@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Imperator_Mortis.jpg/revision/latest/scale-to-width-down/642?cb=20210131202318
 
+https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Imperator_Mortis.jpg/revision/latest?cb=20210131202318
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Void Shield — Boşluk Kalkanı

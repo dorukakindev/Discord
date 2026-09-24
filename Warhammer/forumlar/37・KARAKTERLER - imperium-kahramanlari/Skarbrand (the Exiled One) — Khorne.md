@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Skarbrand_Exiled_One_Mini.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Skarbrand_Exiled_One_Mini.jpg/revision/latest?cb=20180126054613
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Skarbrand (the Exiled One) — Khorne

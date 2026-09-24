@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e2/WS_Shoulder_Plate.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/e2/WS_Shoulder_Plate.png/revision/latest?cb=20160306102920
 
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # White Scars

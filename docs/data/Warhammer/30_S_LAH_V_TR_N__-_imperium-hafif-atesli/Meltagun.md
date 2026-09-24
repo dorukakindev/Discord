@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f0/Melta_Gun.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/f/f0/Melta_Gun.jpg/revision/latest?cb=20120715233941
 
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Meltagun

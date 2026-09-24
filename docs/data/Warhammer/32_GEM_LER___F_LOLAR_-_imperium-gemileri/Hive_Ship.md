@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Hive_Ship.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Hive_Ship.png/revision/latest?cb=20200703171702
 
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Hive Ship

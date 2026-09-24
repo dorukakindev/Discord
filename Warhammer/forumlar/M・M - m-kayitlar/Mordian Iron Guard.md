@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/aa/Mordian_Ironguards_by_jeenhoong.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Mordian Iron Guard
 
