@@ -2,30 +2,30 @@ https://upload.wikimedia.org/wikipedia/commons/2/2d/Dados_4_a_20_caras_trans.png
 
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
-# Rilmani — Dengenin Bekcileri, Spire'in Maden Castlari
+# Rilmani — Mutlak Denge'nin Gizli Bekçileri
 
-Outlands'in merkezindeki Spire cevresinde yasayan, metalik tenli, multievrenin Dengesini (Dusen-Kaos, Iyi-Kotu) gizlice koruyan tarafsiz custodyenler.
+Mutlak tarafsızlığın (True Neutral) örnek ırkı; Outlands'in metalik tenli denge bekçileri. İyi, kötü, yasa ve kaos arasındaki dengeyi koruyan; hiçbir gücün diğerlerine üstün gelmemesi için gizlice çalışan varlıklardır.
 
-- **Tür:** Planar Irk
-- **Köken:** Outlands; Spire'in dibi
+- **Tür:** Denge
+- **Düzlem:** Outlands (Concordant Domain) ve Spire çevresi
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Rilmani, Planescape evreninin en gizemli ve en az goruлen planar irkidir; multievrenin Dengesini koruyan, tarafsiz custodyenlerdir. Anavatanlari, Outlands'in (Concordant Domain of the Outlands) tam merkezinde yukselen sonsuz yuksekliktekı sutun olan Spire'in dibidir. Spire'e yaklastikca buyu sonumler; en dipte tum buyu durur, hatta tanrilar bile guclerini yitirir. Rilmaniler, bu null bolgesinde gri kaleler kurar ve tek bir amaca adanir: Dusen ile Kaos, Iyi ile Kotu arasindaki Dengeyi tum multievren boyunca korumak. Onlar yarguc degildir, bekcilerdir; ölçek herhangi bir yone fazlaca egildiginde devreye girerler.
+Rilmani, Planescape'in Outlands'inde, yani Uyumlu Egemenlik düzleminde yaşayan, mutlak tarafsızlığın cisimleşmiş varlıklarıdır; çok-evrenin en gizemli ve en az anlaşılan örnek ırkıdır. Modronlar düzeni, slaadi kaosu, archonlar iyiliği ve baatezu kötülüğü temsil ederken, rilmani bunların hiçbirini değil, hepsinin arasındaki Denge'yi temsil eder. Onlar saf, kararlı tarafsızlığın bekçileridir; ne iyiden ne kötüden, ne yasadan ne kaostan yana dururlar. Tek davaları, çok-evrendeki büyük güçlerin hiçbirinin diğerlerine üstün gelmemesini sağlamaktır.
 
-Rilmaniler insansidir, ama tenlerinde metalik bir parilti tasir; her cast, baglı oldugu madenin parilti­sini gosterir ve gozleri sedefimsi, opal bir isikla yanar. Alti maden castına ayrilirlar. Plumach (kursun) en yaygin olanidir; tikiz, donuk gri, calışkan zanaatkarlardir. Ferrumach (demir) askeri koldur; demire burunmus, guclu kasli savascilardir. Cuprilach (bakir) casus ve suikastcilerdir; herhangi biri kiligina girebilen, golgeden vuran sekil degistirme ustalaridir; "en yakin dostunuzun suretinde yaninizda durabilir." Argenach (gumus) ozellikle Material Diyari'nda Dengeyi koruyan diplomatlar ve perde arkasi manipulatorlerdir. Aurumach (altin) liderlerdir; sayilari yuzu gecmez, Spire yakininda golgeden gozetleyen "Kahin-Krallar"dir.
+Rilmani'yi en çok tanımlayan şey, Denge'ye duydukları aktif bağlılıktır. Onlar tarafsızlığı pasif bir kayıtsızlık olarak görmez; tersine, onu sürekli ve etkin bir çaba olarak yaşarlar. Çünkü çok-evren, sonsuz bir itme-çekme alanıdır; iyilik ve kötülük, yasa ve kaos durmaksızın birbirine baskın gelmeye çalışır. Rilmani, bu güçlerden herhangi biri fazla büyüdüğünde, gizlice araya girip dengeyi yeniden kurmak için çalışır. Eğer kötülük çok güçlenirse, iyiliğe el verir; eğer iyilik fazla baskın gelirse, bu kez ona karşı dengeyi korur. Onların ajanları çok-evrenin dört bir yanına dağılmıştır; çatışma noktalarında sessiz gözcüler olarak durur ve kendi tarafsız adalet anlayışlarını uygularlar.
 
-![gorsel](https://upload.wikimedia.org/wikipedia/commons/2/2d/Dados_4_a_20_caras_trans.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+Rilmani, madeni, metalik bir tene sahiptir; ve türleri de metallerle anılır. Bakır tenli cuprilach'lar suikastçı ve ajanlardır; demir tenli ferrumach'lar savaşçılardır; kurşun tenli plumach'lar işçi ve hizmetkârlardır; gümüş tenli argenach'lar diplomat ve elçilerdir; altın tenli aurumach'lar ise türün en güçlü ve en bilge liderleridir. Onlar, çok-evrenin merkezindeki büyük Spire'a yakın yerlerde, ana yollardan uzak, ulaşılması neredeyse imkânsız yerleşimlerde yaşarlar; bu yalıtılmışlık, tarafsızlıklarını her dış etkiden korumalarını sağlar. Her yüzyılda bir, en bilge rilmani'ler, Denge'nin durumunu tartışmak için Spire'ın eteklerinde Concordanach adı verilen bir mecliste toplanır.
 
-Rilmanilerin felsefesi nettir: evren bir denge halinde var olur; isik karanlikla, iyi kotuyle tanimlanir; hicbiri otekisi olmadan tam anlasilamaz ya da var olamaz. Bu yuzden hicbir tarafi tutmazlar; tum tarafleri izler ve yalnizca tek bir guc fazlaca buyudugunde mudahale ederler. Acikca degil, golgeden calisirlar; yerlesimlerini Astral'in erisemeyecegi, ana yollardan uzak yerlerde gizlerler. Her yuz yilda bir, tum rilmaniler Spire'de toplanip multievrenin durumunu degerlendirir. Aurumach'lar yalnizca +4 ya da ustu buyulu silahla yaralanir ve dusmanin zaaflarini otomatik bulan altin enerji isinlari firlatir. Rilmani, Planescape'te aliminin merkezindeki o sessiz, gri Dengeyi temsil eder: ne iyiligin ne kotulugun, ne dusenin ne kaosun zafer kazanmasina izin veren, golgede duran ve teraziyi durmadan dengeleyen sessiz elin yasayan timsali.
+Rilmani, Planescape'te tarafsızlığın en derin ve en etkin felsefesini temsil eder; iyilik ve kötülüğün, düzen ve kaosun, hepsinin var olması gerektiği, çünkü herhangi birinin mutlak zaferinin çok-evreni yok edeceği fikrini. Onlar bir tarafı tutmaz, ama kayıtsız da değildir; onların tutkusu, hiçbir tutkunun diğerlerini ezmemesidir. Rilmani, en zor erdemin çoğu zaman bir tarafı seçmek değil, hiçbir tarafı seçmeden hepsinin arasındaki o kırılgan dengeyi korumak olduğunu gösterir; ve çok-evrenin, ancak bu sessiz bekçiler nöbette olduğu sürece, sonsuz savaşları arasında bile ayakta kalabileceğini hatırlatır.
 
 ## Ayırt Edici Özellikler
 
-- Outlands'in merkezi Spire cevresinde yasar; magic orada sonumler
-- Tum guclerin Dengesini korur: Dusen-Kaos, Iyi-Kotu
-- Maden castlari: plumach, ferrumach, cuprilach, argenach, aurumach
-- Hicbir tarafa ait olmaz; golgeden, gizlice mudahale eder
-- Aurumach'lar yalnizca +4 ya da ustu silahla yaralanir
+- Mutlak tarafsızlığın (True Neutral) örnek ırkı ve cisimleşmiş hâlidir
+- Outlands'in merkezindeki Spire yakınında, ulaşılması güç yerlerde yaşar
+- İyi-kötü ve yasa-kaos arasındaki Denge'yi aktif olarak korumayı görev edinir
+- Madeni tenlidir; türleri metallerle anılır (cuprilach, ferrumach, plumach, argenach, aurumach)
+- Hiçbir güç fazla büyürse, gizlice ona karşı dengeyi yeniden kurmak için müdahale eder
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

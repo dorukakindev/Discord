@@ -1,31 +1,29 @@
 https://static.wikia.nocookie.net/cryptidz/images/0/02/Giant_rat-d4xmpo6.jpg/revision/latest/scale-to-width-down/900?cb=20170219225151
 
--# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
+-# THE BLACK RPG ARCHİVE · PLANESCAPE · Kayıt
 
-# Cranium Rat — Kafatasi Sicanlari, Ilsensine'in Dagilmis Gozleri
+# Cranium Rat — Kafatası Sıçanları, Ilsensine'in Dağılmış Gözleri
 
-Mind flayerlarin psionik enerjiyle yarattigi, tek baslarina zayif ama suru halinde zekalasan, kafataslari acik, beyni isildayan casus sicanlar.
+Mind flayerların psionik enerjiyle yarattığı, tek başlarına zayıf ama sürü halinde zekalaşan, kafatasları açık, beyni ışıldayan casus sıçanlar.
 
-- **Tür:** Psionik Yaratik / Surudaki Zihin
-- **Köken:** Mind flayer (illithid) urunu; Sigil ve Alt Diyarlar
+- **Tür:** Psionik Yaratık / Sürüdaki Zihin
+- **Köken:** Mind flayer (illithid) ürünü; Sigil ve Alt Diyarlar
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Cranium Rat (kafatasi sicani), Planescape evreninin en sinsi ve en tekinsiz yaratiklarindan biridir; tek baslarina aciz, ama suru halinde korkunc bir zekaya ulasan psionik sicanlardir. Onlari, illithidlerin (mind flayer) tanrisi Ilsensine yaratmistir; siradan sicanlari psionik enerjiyle bombardiman ederek, multievren boyunca yayilmis omnipresent casuslara donusturmustur. Topladiklari her siri, Outlands'in altindaki Dusunce Magaralari'nda bekleyen Ilsensine'e geri iletirler. Tum Ust ve Alt Diyarlar'da, ama ozellikle Sigil'in (Doorlar Sehri) en kuçuk sokaklarinda ve Undersigil'in lagimlarinda bulunurlar.
+Cranium Rat (kafatası sıçanı), Planescape evreninin en sinsi ve en tekinsiz yaratıklarından biridir; tek başlarına aciz, ama sürü halinde korkunç bir zekaya ulaşan psionik sıçanlardır. Onları, illithidlerin (mind flayer) tanrısı Ilsensine yaratmıştır; sıradan sıçanları psionik enerjiyle bombardıman ederek, multievren boyunca yayılmış omnipresent casuslara dönüştürmüştür. Topladıkları her sırı, Outlands'in altındaki Düşünce Mağaraları'nda bekleyen Ilsensine'e geri iletirler. Tüm Üst ve Alt Diyarlar'da, ama özellikle Sigil'in (Kapılar Şehri) en küçük sokaklarında ve Undersigil'in lağımlarında bulunurlar.
 
-Gorunusleri, siradan bir sehir sicanindan uzaktan ayirt edilemez; yaklasik on bes santim uzunlugundadirlar. Ama yakindan bakildiginda korkunc bir detay belirir: kafataslarinin ustu acik, adeta kesilmistir ve nabiz gibi atan, parildayan beyinleri aciktadir. Psionik guc kullandiklarinda hem aciktaki beyin hem de gozleri tekinsiz bir isikla parlar. Tek baslarina, siradan bir sicandan daha zeki degildirler; korkak, zayif ve tek psionik yetenekleri sönük bir isik uretmektir.
+Görünüşleri, sıradan bir şehir sıçanından uzaktan ayırt edilemez; yaklaşık on beş santim uzunluğundadırlar. Ama yakından bakıldığında korkunç bir detay belirir: kafataslarının üstü açık, adeta kesilmiştir ve nabız gibi atan, parıldayan beyinleri açıktadır. Psionik güç kullandıklarında hem açıktaki beyin hem de gözleri tekinsiz bir ışıkla parlar. Tek başlarına, sıradan bir sıçandan daha zeki değildirler; korkak, zayıf ve tek psionik yetenekleri sönük bir ışık üretmektir.
 
-![gorsel](https://static.wikia.nocookie.net/cryptidz/images/0/02/Giant_rat-d4xmpo6.jpg/revision/latest/scale-to-width-down/900?cb=20170219225151)
-
-Ama cranium ratlerin asil dehseti, suru zekasindadir. Bir araya geldiklerinde, on bes santim cevredeki her cranium ratle otomatik telepatik temasa gecerler; ve her bes sican, suruye +1 Zeka puani katar. Elli sican bir araya gelirse insan zekasina, yuz sican korkutucu bir dehaya ulasir; binlercesi ise neredeyse tanrisal bir zeka olusturabilir. Suru buyudukce, mind flayerlarin tek tek sicanlara ektigi uykudaki psionik yetenekler uyanir: telepati, zihin denetimi, zihin karistirma, hatta buyu. Cogu suru Ilsensine'in denetimindedir; ama bazilari serbest kalir. Sigil'de, Undersigil'in derinliklerinde, efendisinden kopmus, devasa boyutuyla olaganustu bir zeka ve guce ulasmis bir suru-zihin yasar: Many-as-One, ya da "The Us". Cranium Rat, Planescape'te illithid karanliginin tum diyarlara sessizce sizmasini temsil eder: tek basina hicbir sey olan, ama bir araya geldiginde uyanan, gozeten ve dusunmeye baslayan bir dehsetin yasayan timsali.
+Ama cranium ratlerin asıl dehşeti, sürü zekasındadır. Bir araya geldiklerinde, on beş santim çevredeki her cranium ratle otomatik telepatik temasa geçerler; ve her beş sıçan, sürüye +1 Zeka puanı katar. Elli sıçan bir araya gelirse insan zekasına, yüz sıçan korkutucu bir dehaya ulaşır; binlercesi ise neredeyse tanrısal bir zeka oluşturabilir. Sürü büyüdükçe, mind flayerların tek tek sıçanlara ektiği uykudaki psionik yetenekler uyanır: telepati, zihin denetimi, zihin karıştırma, hatta büyü. Çoğu sürü Ilsensine'in denetimindedir; ama bazıları serbest kalır. Sigil'de, Undersigil'in derinliklerinde, efendisinden kopmuş, devasa boyutuyla olağanüstü bir zeka ve güce ulaşmış bir sürü-zihin yaşar: Many-as-One, ya da "The Us". Cranium Rat, Planescape'te illithid karanlığının tüm diyarlara sessizce sızmasını temsil eder: tek başına hiçbir şey olan, ama bir araya geldiğinde uyanan, gözeten ve düşünmeye başlayan bir dehşetin yaşayan timsali.
 
 ## Ayırt Edici Özellikler
 
-- Mind flayerlarin (illithid tanrisi Ilsensine) psionik urunu
-- Kafataslari acik; beyinleri ve gozleri psionik isikla parlar
-- Tek baslarina siradan sican; her 5 sican +1 Zeka kazandirir
-- Suru halinde telepati, zihin denetimi ve buyu yapabilir
-- Sigil'de ozgur bir suru-zihin: Many-as-One ("The Us")
+- Mind flayerların (illithid tanrısı Ilsensine) psionik ürünü
+- Kafatasları açık; beyinleri ve gözleri psionik ışıkla parlar
+- Tek başlarına sıradan sıçan; her 5 sıçan +1 Zeka kazandırır
+- Sürü halinde telepati, zihin denetimi ve büyü yapabilir
+- Sigil'de özgür bir sürü-zihin: Many-as-One ("The Us")
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

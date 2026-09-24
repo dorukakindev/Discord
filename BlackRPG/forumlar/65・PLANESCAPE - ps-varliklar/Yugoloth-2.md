@@ -1,31 +1,31 @@
 https://static.wikia.nocookie.net/forgottenrealms/images/8/84/Yugoloth.png/revision/latest?cb=20200715002707
 
-![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/8/84/Yugoloth.png/revision/latest?cb=20200715002707)
-
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
-# Yugoloth — Paragoz Daemonlar, Kan Savasi'nin Kiralik Kiliclari
+# Yugoloth — Kan Savaşı'nın Paralı Kötüleri
 
-Gehenna ve Hades'in neutral kotu daemonlari; sadakatsiz paragoz paralı askerler, Kan Savasi'nin iki tarafina da hizmetini satan ve belki onu baslatan manipulatorler.
+Tarafsız-kötülüğün (Neutral Evil) örnek ırkı; sadakatsiz, açgözlü paralı askerler. Kan Savaşı'nda hem baatezu'ya hem tanar'ri'ye hizmet satan; savaşı kendi karanlık çıkarları için sonsuza dek dengede tutan fiend'lerdir.
 
-- **Tür:** Daemon (Yugoloth)
-- **Köken:** Gehenna ve Gri Coller (Hades)
+- **Tür:** Fiend
+- **Düzlem:** Gehenna ve Gri Çoraklık (Gray Waste)
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Yugoloth (ya da daemon), Planescape evreninin neutral kotu daemonlaridir; Tanar'rinin kaosuna ya da Baatezu'nun dusenine degil, salt cikara ve aldatmaya adanmis paragoz parali askerlerdir. Anavatanlari, Gehenna'nin yanan brimstone colleri ve Hades'in (Gri Coller) renksiz coplukleridir. Onlari, Baernaloth denen kadim, hastalikli ata-varliklar yaratti; ve bir teoriye gore, Kan Savasi'nin kendisini de bir deney olarak baslatan onlardir. Tarihlerini bilerek yalan ve yanilsama aglariyla orterler; gercek niyetlerinin nereye uzandigini hicbir taraf tam bilemez.
+Yugoloth (eski adıyla daemon), Planescape'in tarafsız-kötülüğünün cisimleşmiş varlıklarıdır; baatezu yasal-kötülüğü, tanar'ri kaotik-kötülüğü temsil ederken, yugoloth saf, eksensiz kötülüğü temsil eder. Onlar yasaya da kaosa da bağlı değildir; onları yöneten tek ilke kâr, çıkar ve kişisel kazançtır. Çoğunlukla Gehenna'nın acımasız volkanik yamaçlarında ve umutsuzluğun düzlemi Gri Çoraklık'ta (Gray Waste) yaşarlar; her ikisi de kötülüğün farklı bir tonunu yansıtan, soğuk ve yıkıcı düzlemlerdir.
 
-Yugolothlar bir hiyerarsi icinde dizilir. En altta bocek-bicimli mezzolothlar, en sade footsoldierlar bulunur. Yukari dogru, yesil tenli, dort kollu, yarasa kanatli nycalothlar (kibirli hava suvarileri) ve cakal-basli, ince cubbeli arcanalothlar (yugolothlarin en zekisi, Gehenna'nin yazicilari ve sir simsarlari) gelir. En tepede, yugoloth ordularinin zalim subaylari olan ultrolothlar yer alir. Hepsinin uzerinde, her an yalnizca bir tane var olan Oinoloth, Gri Coller'deki Khin-Oin'in Solan Kulesi'nden hukmeder. Gehenna'nin kendisini ise, brimstone collerinde bir yerlerde dolasan, kimsenin hukmune meydan okuyamadigi Gehenna Generali adli yuce bir ultroloth yonetir; gercek adi bilinmez ve istemedikce bulunamaz.
+Yugoloth'u çok-evrenin en sinsi varlıklarından biri yapan şey, paralı asker doğasıdır. Kan Savaşı'nın (Blood War) bitmek bilmeyen çatışmasında, baatezu ve tanar'ri durmaksızın savaşırken, yugoloth her iki tarafa da hizmetlerini satar. Bugün bir şeytan ordusu için savaşırlar, yarın bir iblis hordasıyla aynı safta dururlar; sadakatleri yalnızca en yüksek teklifi verenedir. Bu sadakatsizlik, onları güvenilmez ama vazgeçilmez kılar; çünkü deneyimli, disiplinli ve ölümcül paralı askerlerdir. Yine de bir yugoloth'a güvenmek, eninde sonunda ihanete uğramak demektir; çünkü onların gerçek sadakati her zaman kendi karanlık çıkarlarınadır.
 
-Yugolothlari taniman ozellik, sadakatsizlikleridir. Kan Savasi'nin iki tarafina da hizmetlerini satarlar; ucretlerini altin, mucevher, arkana bilgi ya da tutsakla alirlar. Ilk Kan Savasi muharebelerinde her iki tarafa da ihanet edip sozlesmelerini ayni anda bozdular; yine de iki cephe de onlari kiralamaya devam eder, cunku savas alanindaki degerleri belirleyicidir. Yalnizca Gehenna'da kalici olarak olurler; baska yerde oldurulurlerse zamanla orada yeniden olusurlar. En karanlik sirlari, Kan Savasi'ni bir deney olarak baslatip onu kar icin bilerek dengede ve sonsuz tuttuklaridir; nihai hedeflerinin, bir gun iki tarafi birlestirip Ust Diyarlar'a yurumek oldugu fisildanir. Sigil'de Shemeshka the Marauder gibi arcanalothlar sir simsarligi yapar. Yugoloth, Planescape'te tarafsiz kotulugun en sinsi yuzunu temsil eder: ne dusene ne kaosa sadik, yalnizca kara ve manipulasyona adanmis; belki de tum Kan Savasi'nin gizli mimari ve tek kazanani olan paragoz golgelerdir.
+Ama yugoloth'lar kendilerini basit paralı askerlerden çok daha fazlası olarak görür. Söylentiye göre, Kan Savaşı'nı bizzat onlar başlatmış olabilir; ve şimdi onu kendi amaçları için, devasa bir deney gibi dengede tutarlar. Onlar için Kan Savaşı, Kötülük'ün doğasını araştıran tek, büyük bir deneydir; ve bu savaşın sonsuza dek sürmesi, kendi karanlık çıkarlarına hizmet eder. Bu yüzden yugoloth'lar, savaşın hiçbir tarafının kesin zafer kazanmamasını gizlice gözetir; çünkü savaş biterse, onların gücü, kârı ve amacı da sona erer. Gri Çoraklık'taki Khin-Oin'de hüküm süren Oinoloth ve Gehenna'nın General'i gibi en güçlüleri, bu büyük oyunun gizli mimarlarıdır.
+
+Yugoloth, Planescape'te kötülüğün en çıkarcı ve en hesaplı biçimini temsil eder; ne yasanın gururuna ne de kaosun tutkusuna bağlı, yalnızca kendi kazancına sadık bir kötülük. Onlar bir dava için savaşmaz, bir ilkeye hizmet etmez; yalnızca kâr ederler ve oyunu kendi lehlerine kurarlar. Yugoloth, en tehlikeli kötülüğün bazen en gürültülü olan değil, en sessiz, en sabırlı ve perde arkasında ipleri çeken olduğunu gösterir; çok-evrenin sonsuz savaşı, belki de yalnızca onların büyük deneyinin bir parçasıdır.
 
 ## Ayırt Edici Özellikler
 
-- Gehenna ve Gri Coller'in (Hades) neutral kotu daemonlari
-- Mezzoloth'tan Ultroloth'a: nycaloth, arcanaloth hiyerarsisi
-- Hicbir tarafa sadik degil; ucretini altin, bilgi ya da tutsakla alir
-- Kan Savasi'ni belki kendileri baslatip dengede tutuyor
-- Yalnizca Gehenna'da kalici olur; Gehenna Generali hukmeder
+- Tarafsız-kötülüğün (Neutral Evil) örnek ırkı ve cisimleşmiş hâlidir
+- Gehenna'nın volkanik yamaçlarında ve Gri Çoraklık'ta yaşar
+- Kan Savaşı'nda her iki tarafa da paralı asker olarak hizmet satar
+- Açgözlü, sadakatsiz ve hesapçıdır; yalnızca kâr ve kendi çıkarı için savaşır
+- Savaşı bir 'Kötülük deneyi' olarak görüp dengede tutmaktan kendi gizli amacı için yararlanır
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

@@ -1,33 +1,29 @@
 https://static.wikia.nocookie.net/forgottenrealms/images/7/7a/Baatezu_-_Sam_Wood.jpg/revision/latest?cb=20240324121827
 
-![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/7/7a/Baatezu_-_Sam_Wood.jpg/revision/latest?cb=20240324121827)
+-# THE BLACK RPG ARCHİVE · PLANESCAPE · Kayıt
 
--# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
+# Baatezu — Baator'un Şeytanları, Düzenin Silaha Dönmüş Hali
 
-# Baatezu — Dokuz Cehennem'in Yasal Şeytanları
+Baator'un Dokuz Cehennemi'nde yaşayan, lawful kötü şeytanlar; katı hiyerarşi, sözleşme ve disiplinle hükmeden, Kan Savaşı'nda Tanar'ri'ya karşı savaşan düzen ordusu.
 
-Yasal-kötülüğün (Lawful Evil) örnek ırkı; Dokuz Cehennem'in katı kast düzeniyle yönetilen şeytanları. Tiranlık, hesaplı zulüm ve sözleşmeyle ruh avlamada usta; Kan Savaşı'nın disiplinli kanadını oluşturan fiend'lerdir.
-
-- **Tür:** Fiend
-- **Düzlem:** Baator (Dokuz Cehennem)
+- **Tür:** Şeytan (Baatezu)
+- **Köken:** Baator; Dokuz Cehennem'in dokuz katmanı
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Baatezu, Planescape'in Dokuz Cehennem'i Baator'da yaşayan, yasal-kötülüğün cisimleşmiş varlıklarıdır; çok-evrenin 'şeytan' (devil) olarak bilinen fiend'leridir. Onlar, Law ve Evil eksenlerinin kesişimini temsil eden örnek ırktır: zalimdirler, ama bu zulüm rastgele değil, soğuk, hesaplı ve sistemlidir. Baator, dipsiz bir çukura inen dokuz basamak gibi katman katman alçalan bir düzlemdir; her katman bir öncekinden daha karanlık, daha umutsuzdur ve hepsi mutlak bir yasanın demir iradesiyle yönetilir.
+Baatezu, Planescape evreninin lawful kötü şeytanlarıdır; Tanar'ri'nin kaotik vahşetinin tam karşısında duran, disiplin, hiyerarşi ve sözleşmeyle hükmeden Cehennem ordusudur. Anavatanları Baator'dur; her biri kendi fiziksel yasalarına sahip, dokuz ayrı ve konuksevmez katmandan oluşan Dokuz Cehennem. Onlar "özgür iradeyi boğmak için silaha dönüştürülmüş düzen"i bedenleştirir; lawful bürokratlar olarak, ölümlülerle yaptıkları yasal ruh-bağlayan sözleşmelerle güçlerini genişletirler. Tanar'ri'nin aksine sayıca az ama ölçüsüz disiplinlidirler.
 
-Baatezu'yu en çok tanımlayan şey, içinde yaşadıkları acımasız kast düzenidir. En alttaki sefil lemure'lerden, korkunç pit fiend'lere ve onların ötesindeki cehennem lordlarına kadar her baatezu, katı bir hiyerarşinin belirli bir basamağında durur. Ama modronların huzurlu düzeninin aksine, bu hiyerarşi sürekli bir entrika tarlasıdır; her şeytan, üstündekileri ihanet, hile ve kusursuz zamanlanmış komplolarla devirip yükselmenin peşindedir. Onlar kuralları çiğnemez; çiğnemek yerine, kuralları kendi çıkarları için ustaca büker ve silah olarak kullanır. Bir baatezu için sözcükler bir tuzaktır; bir sözleşmenin lafzı, ruhuna karşı her zaman kullanılabilir.
+Baatezu katı bir kast sistemi içinde dizilir ve yükselme ile alçalma gerçektir; bir şeytan rütbesini kazanabilir ya da kaybedebilir. En altta, kimliksiz, biçimsiz ve azap içindeki lemureler bulunur; bunlar Kan Savaşı'nın milyonlarca top yemidir. Yukarı doğru testere dişli glaive taşıyan barbazular, kara kanatlı ve baştan çıkaran erinyesler, kırbaçlı ve boynuzlu cornugonlar, böcek-biçimli ve soğuk-temelli gelugonlar gelir. En tepede ise on iki fit boyunda, kızıl pullu, kanatlı Pit Fiendler yer alır; bunlar bir gelugonun Alev Çukuru'nda 1001 gün arıtılmasıyla oluşan, Cehennem'in yüce askeri komutanlarıdır. Kemik-şeytanlar (ösyluth) ise Cehennem'in polisi ve casuslarıdır; pit fiendler dışında her şeytan üzerinde otorite taşırlar.
 
-Baatezu'nun en sinsi avı, ölümlü ruhlardır. Onlar açık şiddetten çok, baştan çıkarmayı ve aldatmayı tercih eder; bir ölümlüye güç, zenginlik ya da bilgi vaat eden kusursuz hazırlanmış bir sözleşme sunarlar. Bu paktın her satırı dürüst görünür, ama gizli bir kıvrımı vardır; ve sonunda ölümlü, ruhunu çoktan Baator'a satmış olduğunu çok geç anlar. Bu hesaplı, sabırlı kötülük, baatezu'yu tanar'ri'nin çiğ, içgüdüsel vahşetinden temelde ayırır; şeytan, planlar; iblis, saldırır.
-
-Baatezu, çok-evrenin sonsuz çatışması Kan Savaşı'nın (Blood War) bir kutbudur. Bu bitmek bilmeyen savaşta, baatezu yasa adına; ezeli düşmanları tanar'ri ise kaos adına dövüşür. Baatezu bu savaşı disiplinli ordular, kuşatma taktikleri ve uzun vadeli strateji ile yürütür; sayıdan çok düzene, güçten çok plana güvenirler. Baatezu, Planescape'te kötülüğün en tehlikeli yüzünü temsil eder: çiğ, kör bir kötülük değil, soğukkanlı, örgütlü ve sabırlı bir kötülük. Onlar, en korkunç tiranlığın çoğu zaman bir çığlıkla değil, kusursuz hazırlanmış bir sözleşmeyle geldiğini gösterir.
+Baatezu'yu, sekiz pit fiend generalinden oluşan Kara Sekizli yönetir; bu konsey Kan Savaşı'nı, askeri lojistiği ve birliklerin eğitimini yürütür. Savaş tarzları, doğalarının yansımasıdır: generaller her şeyi önceden planlar, birlikler katı formasyonlarda savaşır ve provalı düzenlerle hızla yeniden toplanır; kuşatma makineleri ve koordineli büyü kullanırlar. Hepsine, on üç fit boyunda, kızıl gözlü, yakışıklı ama bedeni Üst Diyarlar'dan düştüğünde açılan yaralarla kaplı Asmodeus hükmeder; bu yaralardan damlayan her damla güçlü bir şeytana dönüşür. Asmodeus, tanrıları, kötü ruhları cezalandırmak için bir sözleşme imzalamaya ikna etmiş, sonra ölümlüleri lanetlemeye ayartıp "küçük yazıları oku" demiştir. Baatezu, Planescape'te düzenin karanlık yüzünü temsil eder: kaosun değil, katı hiyerarşinin, sözleşmenin ve sabrın kötülüğü; gücü ham öfkeyle değil, yasal hile ve mutlak disiplinle ele geçiren bir tiranlığın yaşayan timsali.
 
 ## Ayırt Edici Özellikler
 
-- Yasal-kötülüğün (Lawful Evil) örnek ırkı ve cisimleşmiş hâlidir
-- Dokuz katmanlı Baator'da, demir bir kast hiyerarşisi içinde yaşar
-- Hile, sözleşme ve ihanetle yükselir; her zaman kuralları kendi lehine çevirir
-- Ölümlüleri kusursuz lafzıyla aldatan sözleşmelerle (pakt) ruh avlar
-- Kan Savaşı'nda disiplinli, taktik ordularla tanar'ri'ye karşı savaşır
+- Baator'un Dokuz Cehennemi'nin lawful kötü şeytanları
+- Lemure'den Pit Fiend'e: barbazu, erinyes, cornugon, gelugon hiyerarşisi
+- Mutlak disiplin; ruhları yasal sözleşmelerle bağlar
+- Kara Sekizli (sekiz pit fiend) ordularını yönetir; Asmodeus hükmeder
+- Kan Savaşı'nda Tanar'ri'ya karşı nizami formasyonla savaşır
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

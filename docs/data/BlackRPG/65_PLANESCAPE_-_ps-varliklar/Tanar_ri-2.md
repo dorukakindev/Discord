@@ -1,31 +1,31 @@
 https://static.wikia.nocookie.net/forgottenrealms/images/b/b2/Tanar%27ri.png/revision/latest?cb=20200514065807
 
-![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/b/b2/Tanar%27ri.png/revision/latest?cb=20200514065807)
-
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
-# Tanar'ri — Abyss'in Iblisleri, Kaosun ve Carnage'in Lejyonlari
+# Tanar'ri — Sonsuz Uçurum'un Kaos İblisleri
 
-Abyss'in sonsuz katmanlarinda yasayan, kaotik kotu iblisler; sayica ezici, vahsi ve disiplinsiz, Kan Savasi'nda Baatezu'ya karsi savasan carnage lejyonlari.
+Kaotik-kötülüğün (Chaotic Evil) örnek ırkı; Sonsuz Uçurum'un sayısız katmanını dolduran iblisleri. Doktrinle değil, çılgın ve şiddet dolu içgüdülerle hareket eden; Kan Savaşı'nın disiplinsiz ama sonsuz horda kanadını oluşturan fiend'lerdir.
 
-- **Tür:** Iblis (Tanar'ri)
-- **Köken:** Abyss; sonsuz katmanli yarik
+- **Tür:** Fiend
+- **Düzlem:** Abyss (Sonsuz Uçurum)
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Tanar'ri, Planescape evreninin kaotik kotu iblisleridir; Abyss'in, yani "planlarin dokusundaki sonsuz bir yara" olarak tanimlanan, sonsuz numarali katmandan olusan yarigin lejyonlaridir. Onlar entropiyi, tutkuyu, carnage'i ve olumlu gunahi kisilestirir; akildan cok ic durtulerle hareket eder, olumluleri zekanin degil, tutkunun suclarina ayartirlar. Bazi anlatilara gore eski iblisler olan Obyrithleri deviren Tanar'ri, sonradan Abyss'in baskin iblis irki oldu. Sayilari kavranamayacak kadar coktur; Baatezu'yu, yani disiplinli seytanlari, yaklasik yuze bir oraninda asarlar.
+Tanar'ri, Planescape'in Sonsuz Uçurum'u Abyss'in derinliklerinde kaynaşan, kaotik-kötülüğün cisimleşmiş varlıklarıdır; çok-evrenin 'iblis' (demon) olarak bilinen fiend'leridir. Onlar Chaos ve Evil eksenlerinin kesişimini temsil eden örnek ırktır: yıkıcıdırlar, ama bu yıkım hiçbir plana ya da ilkeye dayanmaz. Tanar'ri'yi yöneten şey doktrin değil, çılgın, şiddet dolu ve dipsiz içgüdülerdir; öfke, şehvet, açgözlülük ve yok etme arzusu. Onlar, ölümlüleri akıl yoluyla değil, tutkunun ve iştahın günahlarıyla baştan çıkarır.
 
-Tanar'ri bir hiyerarsi icinde dizilir, ama bu hiyerarsi guce dayalidir, dogustan degil; guclu bir asagi iblis, daha buyuk bir kuzenini yenerse onun rutbesini alir. En altta lanetli ruhlardan olusan akilsiz manesler ve kucuk dretchler bulunur. Yukari dogru cikildikca akbaba-insan melezi vrockler (elbirligi edip Yikim Dansi denen olumcul bir enerji dalgasi salabilirler), dev kurbaga bicimli hezrouler, kopek-bicimli kurnaz glabrezuler ve alttan yilan, ustten alti kollu bir kadin govdesi tasiyan marilithler gelir. En tepede ise Balorlar yer alir: on iki fit boyunda, koyu kirmizi tenli, alev kusatmali, yildirim kilici ve cok kuyruklu kirbac tasiyan korkunc komutanlar; oldurulduklerinde Abyss'te bir patlamayla cevrelerini yok ederler.
+Abyss'in kendisi, tanar'ri'nin doğasını yansıtır; bu düzlem, sayısı asla bilinemeyen, sonsuz ve birbirinden korkunç katmanlardan oluşur. Her katman kendi çılgın kurallarını, kendi delice manzarasını taşır; ve oraları dolduran tanar'ri de bu çeşitliliği bedenlerinde taşır. Sefil manes'lerden devasa balor'lara, baştan çıkarıcı succubus'lardan canavarsı nalfeshnee'lere kadar tanar'ri'nin biçimleri ürkütücü bir çeşitlilik gösterir; çünkü kaos, hiçbir kalıba uymaz. Baatezu'nun düzgün kastının aksine, tanar'ri arasında gerçek bir hiyerarşi yoktur; yalnızca güç ve dehşetle dayatılan, sürekli sarsılan bir egemenlik vardır.
 
-Tanar'rinin savas tarzi, dogalarinin yansimasidir: kitlesel hucum, sayica ve yipratmayla ezme, baski altinda zaaf arama. Marilithler stratejiyi planlar, Balorlar enerjiyi ve otoriteyi saglar; ama kaotik dogalari koordinasyonu surekli boler. Kan Savasi'nda, yani Tanar'ri ile Baatezu arasindaki sonsuz savasta, Abyss'in ucu bucagi olmayan lejyonlarini Plain of Infinite Portals uzerinden cepheye surerler. Onlara Demogorgon (Iblislerin Prensi), Orcus (Olusuzlugun Prensi) ve Graz'zt (Karanlik Prens) gibi Abyssal Lordlar hukmeder; ama hicbiri otekine guvenmez. Tanar'ri, Planescape'te saf kaosun ve dizginsiz tutkunun yikiciligini temsil eder: disiplinden cok ofkeyle, sayidan cok carnage'le savasan; her birinin kendi ic atesinden baska efendisi olmayan sonsuz bir kotuluk seli.
+Tanar'ri, baatezu ile birlikte çok-evrenin ezeli çatışması Kan Savaşı'nın (Blood War) diğer kutbudur. Bu bitmek bilmeyen savaşta tanar'ri, kaos adına; ezeli düşmanları baatezu ise yasa adına dövüşür. Ama savaşma biçimleri tümüyle zıttır: baatezu disiplinli ordular ve uzun vadeli stratejiyle savaşırken, tanar'ri kaynaşan, disiplinsiz ve sayısı sınırsız hordalarla saldırır. Onlar plan yapmaz, taktik gütmez; yalnızca dalga dalga, durmaksızın gelir ve düşmanlarını çoğu zaman saf sayı ve vahşetle ezerler. Bu yıpratma savaşı, çağlar boyunca sürer ve asla kazanılmaz.
+
+Tanar'ri, Planescape'te kötülüğün en yıkıcı ve en öngörülemez yüzünü temsil eder; soğukkanlı ve hesaplı baatezu kötülüğünün tam karşıtı olan, çiğ, ateşli ve dizginsiz bir yıkım. Bir tanar'ri ne sözünü tutar, ne plana bağlı kalır; o yalnızca kendi anlık arzusunu bilir ve onun önündeki her şeyi parçalar. Onlar, kötülüğün her zaman düzenli ve hesaplı olmadığını; bazen yalnızca durdurulamaz, anlamsız ve sonsuz bir açlık olduğunu hatırlatır. Abyss'in dipsiz katmanlarında tanar'ri, kaosun ve kötülüğün birleştiğinde nasıl bir kâbusa dönüştüğünün canlı kanıtıdır.
 
 ## Ayırt Edici Özellikler
 
-- Abyss'in sonsuz katmanli yariginin kaotik kotu iblisleri
-- Dretch'ten Balor'a: vrock, hezrou, glabrezu, marilith hiyerarsisi
-- Guc dogustan degil kazanilir; surekli ic guc mucadelesi
-- Baatezu'yu yaklasik 100'e 1 sayica asar; saldirida ezici
-- Lordlari: Demogorgon, Orcus, Graz'zt; Kan Savasi'nin bir kanadi
+- Kaotik-kötülüğün (Chaotic Evil) örnek ırkı ve cisimleşmiş hâlidir
+- Sonsuz Uçurum'un (Abyss) sayısız sonsuz katmanını doldurur
+- Doktrin ya da plan değil, çılgın istek, şehvet ve şiddet onları yönetir
+- Biçimleri ürkütücü çeşitlilikte; çoğu kendi katmanının çılgın izini taşır
+- Kan Savaşı'nda disiplinsiz ama bitmek bilmeyen hordalarla baatezu'ya saldırır
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

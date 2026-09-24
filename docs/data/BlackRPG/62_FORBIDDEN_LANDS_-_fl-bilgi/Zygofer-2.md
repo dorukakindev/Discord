@@ -2,22 +2,29 @@ https://static.wikia.nocookie.net/dungeonsdragons/images/a/a7/Forbidden_Lore.jpg
 
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
-# Zygofer — Zygofer, Ravenland'i Yıkan Tiran Sihirbaz-Kral
+# Zygofer — Zygofer, Tiran Sihirbaz-Kral
 
-Ravenland'in tarihine kara bir gölge düşüren zalim sihirbaz-kral; gücüyle diyarı kana bulayan, ölümünden sonra bile demonik bir güce dönüşen ve evrenin karanlık geçmişinin merkezinde duran tiran figür.
+Ravenland'ı demir bir yumrukla yöneten tiran sihirbaz-kral. Büyüyü kötüye kullanması felaketin merkezinde yatar; ölümünün ardından demonic bir güce dönüştü ve bölgeye canavarlar, demonlar ve kara büyü saçtı. Ravenland'ın çöküşünün merkezindeki figürdür.
 
-- **Kategori:** Karakter
+- **Dönem:** Ravenland'ın çöküş çağı
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Zygofer, Forbidden Lands evreninin karanlık geçmişinin merkezinde duran tiran bir sihirbaz-kraldır; gücüyle Ravenland'i kana bulayan, diyarın kaderine kara bir gölge düşüren ve adı korkuyla anılan bir figürdür. Bu hükümdar sıradan bir kral değildi; o, hem siyasi iktidarı hem de büyünün karanlık gücünü elinde toplamış, hırsı ve zalimliğiyle bir çağa damga vurmuş bir tirandı. Zygofer'in saltanatı, Ravenland'in tarihindeki en kanlı ve en yıkıcı dönemlerden biridir; onun yükselişi, diyarı sarsan büyük çatışmaların ve felaketlerin tohumlarını taşıdı. Bu yüzden onun adı, evrenin en eski yaralarıyla iç içe geçmiştir.
+Zygofer, Ravenland'ın çöküşünün merkezinde duran karanlık figürdür; bölgeyi demir bir yumrukla yöneten tiran sihirbaz-kral. Onun adı, korku ve büyünün kötüye kullanımıyla anılır; çünkü Zygofer yalnızca bir hükümdar değil, aynı zamanda büyünün en tehlikeli güçlerine uzanmaktan çekinmeyen bir sihirbazdı. İktidarı boyunca, gücünü pekiştirmek ve düşmanlarını ezmek için bu karanlık sanatlara başvurdu; ve bu açgözlülük, sonunda sadece kendisini değil, bütün Ravenland'ı uçuruma sürükledi.
 
-Zygofer'i bu kadar tehlikeli kılan, gücünün ölümle bile sona ermemesidir; çünkü bu tiran, demonik güçlerle kurduğu bağ sayesinde sıradan bir ölümlünün sınırlarını aştı. Onun zalimliği yalnızca ordularla ve fermanlarla değil, doğaüstü bir karanlıkla da beslendi; ve bu karanlık, onu yenmeyi olağanüstü zor bir hâle getirdi. Anlatıların aktardığına göre Zygofer öldükten sonra dahi yok olmadı; demonik bir güce dönüşerek varlığını başka bir biçimde sürdürdü. Böylece onun gölgesi, fiziksel ölümünün ardından bile Ravenland'in üzerinden kalkmadı; tiran bir kral olarak başlayan hikâyesi, ölümün ötesine uzanan bir dehşete dönüştü.
+Zygofer'in tiranlığı, sıradan bir zorbalıktan çok daha derin bir tehlike taşıyordu. Çünkü onun elindeki güç, kılıçtan ve ordudan ibaret değildi; o, büyünün güvenilmez ve yıkıcı enerjilerini kendi iradesine koşmaya çalıştı. Bu evrende büyü tehlikelidir ve korkunç biçimde ters gidebilir; Zygofer ise bu tehlikeye aldırmadan, hatta onu kucaklayarak ilerledi. Büyüyü kötüye kullanması, kişisel hırsının ötesinde, bölgenin kaderini bozan bir felakete dönüştü; çünkü bu denli karanlık güçlerle oynamak, er ya da geç bir bedel ister.
 
-![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/a/a7/Forbidden_Lore.jpg/revision/latest/scale-to-width-down/661?cb=20230720170237)
+Zygofer'in en korkunç mirası, ölümünden sonra ortaya çıktı. Tiran sihirbaz-kralın ölümü, onu yok etmek yerine bambaşka ve daha dehşetli bir şeye dönüştürdü; o, demonic bir güce evrildi. Artık bir kral değil, bölgeye karanlık saçan bir kötülük kaynağı haline geldi. Onun bu dönüşümüyle birlikte Ravenland'a canavarlar, demonlar ve kara büyü yayıldı; topraklar, eskisinden çok daha derin bir çürümeye gömüldü. Zygofer'in ölümü bir kurtuluş değil, lanetin yeni ve daha karanlık bir evresinin başlangıcı oldu.
 
-Zygofer'in evrendeki rolü, Ravenland'i bugünkü harap hâline sürükleyen karanlık mirasın bir parçası olmasıdır; çünkü onun yarattığı yıkım ve kışkırttığı çatışmalar, diyarın çöküşüne giden yolu döşedi. Onun adı, maceraperestlerin keşfettiği terk edilmiş kalelerin, lanetli yerlerin ve kadim sırların ardındaki karanlık tarihi açıklar. Zygofer, geçmişte kalmış ama etkisi hâlâ hissedilen bir tehdidi temsil eder; çünkü demonik güce dönüşmüş bir tiranın bıraktığı izler kolayca silinmez. Zygofer, Forbidden Lands evreninde mutlak gücün ve karanlığın insanı nereye sürükleyebileceğini temsil eder; bir kralın hırs ve büyüyle bir diyarı kana bulayabileceğini, ve bir tiranın ölümünün her zaman onun dehşetinin de sonu anlamına gelmediğini gösterir.
+Zygofer, Forbidden Lands'te gücün ve büyünün kötüye kullanımının kişileşmiş halidir; bir hükümdarın açgözlülüğünün bütün bir bölgeyi nasıl mahvedebileceğini temsil eder. O, Ravenland'ın çöküşünün hem mimarı hem de simgesidir; çünkü onun tiranlığı, büyüye olan ihtirası ve ölümünden sonraki demonic dönüşümü, bu toprağa sinen karanlığın en derin köküdür. Maceraperestler Ravenland'ın yıkıntıları arasında dolaşırken, karşılaştıkları her canavarın ve her lanetli kalıntının gölgesinde, bir zamanlar bu toprağa hükmeden ve sonra onu zehirleyen tiranın izi vardır.
+
+## Ayırt Edici Özellikler
+
+- Ravenland'ı demir yumrukla yöneten tiran sihirbaz-kraldır
+- Büyüyü kötüye kullanması bölgenin felaketinin merkezindedir
+- Ölümünün ardından demonic bir güce dönüştü
+- Bölgeye canavarlar, demonlar ve kara büyü saçtı
+- Ravenland'ın çöküşünün merkezindeki karanlık figürdür
 
 -# Kaynaklar: Forbidden Lands core box (Free League)
--# Çapraz: Ravenland'i yıkan zalim sihirbaz-kraldır · Gücüyle diyarı kana bulayan bir tirandır · Ölümünden sonra demonik bir güce dönüştü

@@ -1,31 +1,29 @@
 https://static.wikia.nocookie.net/dungeonsdragons/images/d/d2/Pregen_Characters_Tiefling_Warlock.jpg/revision/latest?cb=20230722212952
 
--# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
+-# THE BLACK RPG ARCHİVE · PLANESCAPE · Kayıt
 
-# Tiefling — Fiend Kanlilar, Aergenin Cocuklari
+# Tiefling — Fiend Kanlılar, Aergen'in Çocukları
 
-Damarlarinda iblis, seytan ya da daemon kani tasiyan, hicbir diyara ait olamayan, kurnaz ve yalniz planetouched insanlar.
+Damarlarında iblis, şeytan ya da daemon kanı taşıyan, hiçbir diyara ait olamayan, kurnaz ve yalnız planetouched insanlar.
 
 - **Tür:** Planar Irk (Planetouched)
-- **Köken:** Alt Diyarlar; fiend soyu tasiyan insanlar
+- **Köken:** Alt Diyarlar; fiend soyu taşıyan insanlar
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Tiefling, Planescape evreninin en trajik ve en yanlis anlasilan planetouched irkidir; damarlarinda Alt Diyarlar'in karanlik kanini tasiyan, ama o diyarlara da ait olamayan melezlerin evi. Bir tiefling, soyunun bir yerinde bir fiend tasir: bir baatezu (Baator'un seytani), bir tanar'ri (Abyss'in iblisi), bir yugoloth (paragoz daemon) ya da kotu bir tanri. Bu kan cogu zaman dogrudan bir birlesmeden degil, nesiller once yapilmis karanlik bir pakttan, bir ritualden ya da bir lanetlemeden gelir. Adlari Almanca "tief" (derin, alcak) kokunden tureyip Alt Planar kokenlerine isaret eder; ve aci olan su ki, o diyarlar bile onlari istemez. Hem Abyss hem de Cehennem onlari surgun etmistir; onlar gercekten hicbir yere ait degildir.
+Tiefling, Planescape evreninin en trajik ve en yanlış anlaşılan planetouched ırkıdır; damarlarında Alt Diyarlar'ın karanlık kanını taşıyan, ama o diyarlara da ait olamayan melezlerin evi. Bir tiefling, soyunun bir yerinde bir fiend taşır: bir baatezu (Baator'un şeytanı), bir tanar'ri (Abyss'in iblisi), bir yugoloth (paragöz daemon) ya da kötü bir tanrı. Bu kan çoğu zaman doğrudan bir birleşmeden değil, nesiller önce yapılmış karanlık bir pakttan, bir ritüalden ya da bir lanetlemeden gelir. Adları Almanca "tief" (derin, alçak) kökünden türeyip Alt Planar kökenlerine işaret eder; ve acı olan şu ki, o diyarlar bile onları istemez. Hem Abyss hem de Cehennem onları sürgün etmiştir; onlar gerçekten hiçbir yere ait değildir.
 
-Tieflinglerin en carpici ozelligi, gorunuslerinin asla birbirine benzememesidir. Bir kuralla ozetlenir: "hicbir iki tiefling ayni gorunmez." Bazilarinda metal isciligi gibi burgulu boynuzlar, bazilarinda surungen pulu, catlamis toynaklar, yarik gozler, sivri kuyruklar ya da gozlerinden tuten bir duman vardir. Kimi sadece keskin disleriyle, kimi ise tumuyle insandisi bir suretle dogar. Bu damga, onlari toplumdan dislar; Sigil'de "bir sucta suclu ararsan once bir tiefling bul" denir. Bu surekli onyargi, onlari yalniz, kendine yeten, kurnaz ve cogu zaman aldatma ustasi bireylere donusturur.
+Tieflinglerin en çarpıcı özelliği, görünüşlerinin asla birbirine benzememesidir. Bir kuralla özetlenir: "hiçbir iki tiefling aynı görünmez." Bazılarında metal işçiliği gibi burgulu boynuzlar, bazılarında sürüngen pulu, çatlamış toynaklar, yarık gözler, sivri kuyruklar ya da gözlerinden tüten bir duman vardır. Kimi sadece keskin dişleriyle, kimi ise tümüyle insandışı bir suretle doğar. Bu damga, onları toplumdan dışlar; Sigil'de "bir suçta suçlu ararsan önce bir tiefling bul" denir. Bu sürekli önyargı, onları yalnız, kendine yeten, kurnaz ve çoğu zaman aldatma ustası bireylere dönüştürür.
 
-![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/d/d2/Pregen_Characters_Tiefling_Warlock.jpg/revision/latest?cb=20230722212952)
-
-Ama tiefling kani bir kader degildir. Onlarin alimi sabit kotu degildir; insanlar kadar genis bir yelpazede degisirler. Cok'u onyargiya inat, multievrenin kendileri hakkinda dusundugu seye meydan okumaya kararlidir. Atese, soguga ve elektrige karsi dogal direncleri, karanlik orme yetenekleri ve gizlenme ustaliklari onlari hayatta kalmanin ustalari yapar. Sigil'de, Doorlar Sehri'nde yogun bir nufus halinde yasarlar; kimi Fated'a, kimi Free League'e katilir. Tiefling, Planescape'te lanetli bir mirasin tasinabilir bir gucur olabilecegini temsil eder: alniniza yazildigi sanilan bir kaderle dogmak, ama o kaderin ne oldugunuza degil, ne yaptiginiza karar vermesine izin vermemek.
+Ama tiefling kanı bir kader değildir. Onların alimi sabit kötü değildir; insanlar kadar geniş bir yelpazede değişirler. Çok'u önyargıya inat, multievrenin kendileri hakkında düşündüğü şeye meydan okumaya kararlıdır. Ateşe, soğuğa ve elektriğe karşı doğal dirençleri, karanlık örme yetenekleri ve gizlenme ustalıkları onları hayatta kalmanın ustaları yapar. Sigil'de, Kapılar Şehri'nde yoğun bir nüfus halinde yaşarlar; kimi Fated'a, kimi Free League'e katılır. Tiefling, Planescape'te lanetli bir mirasın taşınabilir bir güç olabileceğini temsil eder: alnınıza yazıldığı sanılan bir kaderle doğmak, ama o kaderin ne olduğunuza değil, ne yaptığınıza karar vermesine izin vermemek.
 
 ## Ayırt Edici Özellikler
 
-- Soyunda fiend kani (baatezu, tanar'ri ya da yugoloth) tasir
-- Hicbir tieflingin gorunusu digerine benzemez
-- Atese, soguga ve elektrige karsi direncli; karanlik buyusu yapar
-- Sigil'de yogun; her sucta once onlardan suphelenilir
-- Tek bir aliminin ya da kulturun parcasi degildir; yalnizdir
+- Soyunda fiend kanı (baatezu, tanar'ri ya da yugoloth) taşır
+- Hiçbir tieflingin görünüşü diğerine benzemez
+- Ateşe, soğuğa ve elektriğe karşı dirençli; karanlık büyüsü yapar
+- Sigil'de yoğun; her suçta önce onlardan şüphelenilir
+- Tek bir âlimin ya da kültürün parçası değildir; yalnızdır
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

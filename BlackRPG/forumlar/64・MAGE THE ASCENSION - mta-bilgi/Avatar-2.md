@@ -2,31 +2,20 @@ https://static.wikia.nocookie.net/whitewolf/images/f/f5/Primordian_Avatar.jpg/re
 
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
-# Avatar — Avatar, Büyücünün Uyanmış İlahi Özü
+# Avatar — Avatar, Büyücünün İçindeki Tanrısal Kıvılcım
 
-Büyücünün içindeki uyanmış ilahi öz; Awakening'in (uyanış) kaynağı ve büyücüyü Ascension'a yönlendiren iç rehber. Her büyücüde farklı bir kişilik ve eğilimle belirir; gücün ve kaderin içsel pusulasıdır.
+Her insanın içinde taşıdığı, büyücülerde uyanmış olan tanrısal kıvılcım ya da yüksek benlik; bir kişinin Uyanış'ını, büyü kapasitesini ve gerçeklikle olan derin bağını taşıyan ruhsal öz.
 
-- **Tür:** Gerçeklik İlkesi
+- **Kategori:** Çekirdek Kavram
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Avatar, Mage evreninde her büyücünün içinde taşıdığı uyanmış ilahi özdür; gücünün gerçek kaynağı ve onu sıradan bir insandan büyücüye dönüştüren kıvılcımdır. Sleeper'lar da bir Avatar taşır, ama onların Avatar'ı uykudadır, sessizdir. Bir büyücüyü tanımlayan şey, bu içsel ilahi özün uyanmış olmasıdır. Avatar, bedenin ya da zihnin bir parçası değildir; o, kişinin ruhunun en derin katmanında parıldayan, gerçekliği bükme kapasitesinin asıl yatağı olan tanrısal bir özdür.
+Avatar, Mage: The Ascension evreninde her insanın içinde taşıdığı tanrısal kıvılcımı, yüksek benliği ya da ruhsal özü ifade eder; bir büyücünün gücünün, Uyanış'ının ve gerçeklikle olan derin bağının kaynağıdır. Mage'in kozmolojisinde her insan, doğuştan içinde böyle bir kıvılcım taşır; ama Sleeper'larda bu öz derin bir uykudadır. Bir büyücüyü tanımlayan şey, işte bu Avatar'ın uyanmış olmasıdır; Awakening, tam olarak Avatar'ın uykusundan kalktığı andır. Bu yüzden Avatar, bir büyücünün özünde, onu sıradan bir insandan ayıran şeydir.
 
-Avatar'ın uyanışı, Awakening (Uyanış) olarak bilinen dönüştürücü andır. Bu an, çoğu zaman ağır bir kriz, bir travma, derin bir tefekkür ya da gerçekliğin perdesini yırtan sarsıcı bir deneyimle gelir. Awakening'den önce kişi sıradan bir Sleeper'dır; ondan sonra ise gerçekliğin sabit değil, esnek olduğunu kemiklerine kadar bilen bir büyücüdür. Avatar bu uyanışı hem tetikler hem de mümkün kılar; o uyandığında, büyücü artık dünyayı bir daha asla eskisi gibi göremez. Uyanış, geri dönüşü olmayan bir eşiktir, ve Avatar bu eşiğin ardındaki sestir.
+Avatar, bir büyücünün gücünün ve kimliğinin kaynağıdır. Gerçekliği bükme yeteneği, dışarıdan ödünç alınan bir güç değil, uyanmış Avatar aracılığıyla içeriden gelen bir kapasitedir; büyücünün iradesi, bu tanrısal kıvılcımla birleşerek gerçekliğe etki etme gücüne dönüşür. Avatar aynı zamanda büyücünün Resonance'ının, yani büyüsüne sinen sihirli imzanın da kökenidir; çünkü Avatar bir karaktere, bir doğaya ve bir tınıya sahiptir, ve bu nitelikler büyücünün eserlerine yansır. Bir büyücünün ruhsal yolculuğu, çoğu zaman kendi Avatar'ını anlama ve onunla uyum içinde olma çabasıyla iç içedir.
 
-![gorsel](https://static.wikia.nocookie.net/whitewolf/images/f/f5/Primordian_Avatar.jpg/revision/latest/scale-to-width-down/900?cb=20150808165134)
-
-Avatar, pasif bir güç kaynağı değildir; o, kendi kişiliği, eğilimi ve adeta kendi iradesi olan içsel bir rehberdir. Kimi büyücünün Avatar'ı sabırlı bir öğretmen gibidir; kimininki kışkırtıcı, meydan okuyan, hatta tehlikeli olabilir. Avatar büyücüye rüyalarda, sezgilerde ve sembollerde seslenir, onu kendi kaderine doğru iter. Çünkü Avatar'ın nihai amacı tektir: Ascension, yani büyücünün kendi ilahi potansiyeline tam olarak yükselmesi. Avatar, bu yolculukta hem pusula hem de itici güçtür; büyücüyü durmadan büyümeye, anlamaya ve aşmaya çağırır.
-
-Avatar, Mage'de büyücünün gerçek doğasını ve içsel kaderini temsil eder. O, gücün dışarıdan değil, içeriden geldiğini; her büyücünün özünde uyanmayı bekleyen bir tanrısallık taşıdığını gösterir. Bir büyücüyü güçlü kılan kitabı, asası ya da paradigması değil, içindeki uyanmış Avatar'dır. O, kişinin hem en derin benliği hem de onu kendinden öteye taşıyan ilahi çağrıdır; Ascension'a giden yolda büyücünün asla terk etmeyen, susmayan iç sesidir.
-
-## Ayırt Edici Özellikler
-
-- Büyücünün içindeki uyanmış ilahi öz ve gücün kaynağıdır
-- Awakening'i (uyanış) tetikleyen ve mümkün kılan kıvılcımdır
-- Büyücüyü Ascension'a doğru yönlendiren iç rehberdir
-- Her büyücüde ayrı bir karakter ve sesle belirir
-- Quintessence'e erişimi ve büyünün derinliğini etkiler
+Avatar, sadece bir güç kaynağı değil, çoğu zaman bir rehber ve bir varlık gibi de davranır; bazı anlatılarda büyücüye rüyalarda, vizyonlarda ya da sezgilerde yol gösterir, onu kaderine ve Yükseliş'e doğru iter. Avatar ile büyücünün ilişkisi, bir kişinin kendi en derin benliğiyle olan ilişkisi gibidir; gelişmek, olgunlaşmak ve nihai aydınlanmaya yaklaşmak, bu içsel özle daha derin bir uyum kurmayı gerektirir. Avatar, Mage evreninde insanın içindeki tanrısal potansiyeli temsil eder; her insanda gerçekliği değiştirebilecek uyuyan bir kıvılcımın bulunduğunu, büyücüyü büyücü yapanın bu kıvılcımın uyanışı olduğunu, ve bir Willworker'ın yolculuğunun, özünde kendi tanrısal özüyle bütünleşme arayışı olduğunu gösterir.
 
 -# Kaynaklar: Mage: The Ascension (White Wolf)
+-# Çapraz: Her insanın içindeki tanrısal kıvılcımdır · Büyücülerde uyanmıştır · Büyücünün gücünün ve Resonance'ının kaynağıdır

@@ -1,33 +1,29 @@
 https://static.wikia.nocookie.net/forgottenrealms/images/b/b2/Tanar%27ri.png/revision/latest?cb=20200514065807
 
-![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/b/b2/Tanar%27ri.png/revision/latest?cb=20200514065807)
+-# THE BLACK RPG ARCHİVE · PLANESCAPE · Kayıt
 
--# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
+# Tanar'ri — Abyss'in İblisleri, Kaosun ve Carnage'in Lejyonları
 
-# Tanar'ri — Sonsuz Uçurum'un Kaos İblisleri
+Abyss'in sonsuz katmanlarında yaşayan, kaotik kötü iblisler; sayıca ezici, vahşi ve disiplinsiz, Kan Savaşı'nda Baatezu'ya karşı savaşan carnage lejyonları.
 
-Kaotik-kötülüğün (Chaotic Evil) örnek ırkı; Sonsuz Uçurum'un sayısız katmanını dolduran iblisleri. Doktrinle değil, çılgın ve şiddet dolu içgüdülerle hareket eden; Kan Savaşı'nın disiplinsiz ama sonsuz horda kanadını oluşturan fiend'lerdir.
-
-- **Tür:** Fiend
-- **Düzlem:** Abyss (Sonsuz Uçurum)
+- **Tur:** İblis (Tanar'ri)
+- **Köken:** Abyss; sonsuz katmanlı yarık
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Tanar'ri, Planescape'in Sonsuz Uçurum'u Abyss'in derinliklerinde kaynaşan, kaotik-kötülüğün cisimleşmiş varlıklarıdır; çok-evrenin 'iblis' (demon) olarak bilinen fiend'leridir. Onlar Chaos ve Evil eksenlerinin kesişimini temsil eden örnek ırktır: yıkıcıdırlar, ama bu yıkım hiçbir plana ya da ilkeye dayanmaz. Tanar'ri'yi yöneten şey doktrin değil, çılgın, şiddet dolu ve dipsiz içgüdülerdir; öfke, şehvet, açgözlülük ve yok etme arzusu. Onlar, ölümlüleri akıl yoluyla değil, tutkunun ve iştahın günahlarıyla baştan çıkarır.
+Tanar'ri, Planescape evreninin kaotik kötü iblisleridir; Abyss'in, yani "planların dokusundaki sonsuz bir yara" olarak tanımlanan, sonsuz numaralı katmandan oluşan yarığın lejyonlarıdır. Onlar entropiyi, tutkuyu, carnage'i ve ölümcül günahı kişileştirir; akıldan çok iç dürtülerle hareket eder, ölümlüleri zekanın değil, tutkunun suçlarına ayartırlar. Bazı anlatılara göre eski iblisler olan Obyrithleri deviren Tanar'ri, sonradan Abyss'in baskın iblis ırkı oldu. Sayıları kavranamayacak kadar çoktur; Baatezu'yu, yani disiplinli şeytanları, yaklaşık yüze bir oranında asarlar.
 
-Abyss'in kendisi, tanar'ri'nin doğasını yansıtır; bu düzlem, sayısı asla bilinemeyen, sonsuz ve birbirinden korkunç katmanlardan oluşur. Her katman kendi çılgın kurallarını, kendi delice manzarasını taşır; ve oraları dolduran tanar'ri de bu çeşitliliği bedenlerinde taşır. Sefil manes'lerden devasa balor'lara, baştan çıkarıcı succubus'lardan canavarsı nalfeshnee'lere kadar tanar'ri'nin biçimleri ürkütücü bir çeşitlilik gösterir; çünkü kaos, hiçbir kalıba uymaz. Baatezu'nun düzgün kastının aksine, tanar'ri arasında gerçek bir hiyerarşi yoktur; yalnızca güç ve dehşetle dayatılan, sürekli sarsılan bir egemenlik vardır.
+Tanar'ri bir hiyerarşi içinde dizilir, ama bu hiyerarşi güce dayalıdır, doğuştan değil; güçlü bir aşağı iblis, daha büyük bir kuzenini yenerse onun rütbesini alır. En altta lanetli ruhlardan oluşan akılsız manesler ve küçük dretchler bulunur. Yukarı doğru çıkıldıkça akbaba-insan melezi vrockler (elbirliği edip Yıkım Dansı denen ölümcül bir enerji dalgası salabilirler), dev kurbağa biçimli hezrouler, köpek-biçimli kurnaz glabrezuler ve alttan yılan, üstten altı kollu bir kadın gövdesi taşıyan marilithler gelir. En tepede ise Balorlar yer alır: on iki fit boyunda, koyu kırmızı tenli, alev kuşatmalı, yıldırım kılıcı ve çok kuyruklu kırbaç taşıyan korkunç komutanlar; öldürüldüklerinde Abyss'te bir patlamayla çevrelerini yok ederler.
 
-Tanar'ri, baatezu ile birlikte çok-evrenin ezeli çatışması Kan Savaşı'nın (Blood War) diğer kutbudur. Bu bitmek bilmeyen savaşta tanar'ri, kaos adına; ezeli düşmanları baatezu ise yasa adına dövüşür. Ama savaşma biçimleri tümüyle zıttır: baatezu disiplinli ordular ve uzun vadeli stratejiyle savaşırken, tanar'ri kaynaşan, disiplinsiz ve sayısı sınırsız hordalarla saldırır. Onlar plan yapmaz, taktik gütmez; yalnızca dalga dalga, durmaksızın gelir ve düşmanlarını çoğu zaman saf sayı ve vahşetle ezerler. Bu yıpratma savaşı, çağlar boyunca sürer ve asla kazanılmaz.
-
-Tanar'ri, Planescape'te kötülüğün en yıkıcı ve en öngörülemez yüzünü temsil eder; soğukkanlı ve hesaplı baatezu kötülüğünün tam karşıtı olan, çiğ, ateşli ve dizginsiz bir yıkım. Bir tanar'ri ne sözünü tutar, ne plana bağlı kalır; o yalnızca kendi anlık arzusunu bilir ve onun önündeki her şeyi parçalar. Onlar, kötülüğün her zaman düzenli ve hesaplı olmadığını; bazen yalnızca durdurulamaz, anlamsız ve sonsuz bir açlık olduğunu hatırlatır. Abyss'in dipsiz katmanlarında tanar'ri, kaosun ve kötülüğün birleştiğinde nasıl bir kâbusa dönüştüğünün canlı kanıtıdır.
+Tanar'ri'nin savaş tarzı, doğalarının yansımasıdır: kitlesel hücum, sayıca ve yıpratmayla ezme, baskı altında zaaf arama. Marilithler stratejiyi planlar, Balorlar enerjiyi ve otoriteyi sağlar; ama kaotik doğaları koordinasyonu sürekli böler. Kan Savaşı'nda, yani Tanar'ri ile Baatezu arasındaki sonsuz savaşta, Abyss'in üçü bucağı olmayan lejyonlarını Plain of Infinite Portals üzerinden cepheye sürerler. Onlara Demogorgon (İblislerin Prensi), Orcus (Ölüsüzlüğün Prensi) ve Graz'zt (Karanlık Prens) gibi Abyssal Lordlar hükmeder; ama hiçbiri ötekine güvenmez. Tanar'ri, Planescape'te saf kaosun ve dizginsiz tutkunun yıkıcılığını temsil eder: disiplinden çok öfkeyle, sayıdan çok carnage'le savaşan; her birinin kendi iç ateşinden başka efendisi olmayan sonsuz bir kötülük seli.
 
 ## Ayırt Edici Özellikler
 
-- Kaotik-kötülüğün (Chaotic Evil) örnek ırkı ve cisimleşmiş hâlidir
-- Sonsuz Uçurum'un (Abyss) sayısız sonsuz katmanını doldurur
-- Doktrin ya da plan değil, çılgın istek, şehvet ve şiddet onları yönetir
-- Biçimleri ürkütücü çeşitlilikte; çoğu kendi katmanının çılgın izini taşır
-- Kan Savaşı'nda disiplinsiz ama bitmek bilmeyen hordalarla baatezu'ya saldırır
+- Abyss'in sonsuz katmanlı yarığının kaotik kötü iblisleri
+- Dretch'ten Balor'a: vrock, hezrou, glabrezu, marilith hiyerarşisi
+- Güç doğuştan değil kazanılır; sürekli iç güç mücadelesi
+- Baatezu'yu yaklaşık 100'e 1 sayıca aşar; saldırıda ezici
+- Lordları: Demogorgon, Orcus, Graz'zt; Kan Savaşı'nın bir kanadı
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

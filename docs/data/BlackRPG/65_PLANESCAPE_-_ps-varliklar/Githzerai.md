@@ -1,31 +1,29 @@
 https://static.wikia.nocookie.net/forgottenrealms/images/c/cc/Monster_Manual_5e_-_Githzerai_-_p161.jpg/revision/latest/scale-to-width-down/769?cb=20200229183231
 
--# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
+-# THE BLACK RPG ARCHİVE · PLANESCAPE · Kayıt
 
-# Githzerai — Limbo'nun Zihin Ustalari, Zerthimon'un Yolcuari
+# Githzerai — Limbo'nun Zihin Ustaları, Zerthimon'un Yolcuarı
 
-Mind flayer koleliginden kurtulup Gith'in zorbaliginu reddeden, Limbo'nun kaosunu zihin gucuyle sekillendirip kale-manastirlar kuran cilekes zihin ustalari.
+Mind flayer köleliğinden kurtulup Gith'in zorbalığınu reddeden, Limbo'nun kaosunu zihin gücüyle şekillendirip kale-manastırlar kuran çilekeş zihin ustaları.
 
-- **Tür:** Planar Irk
-- **Köken:** Limbo; mind flayer koleliginden kacan Gith soyu
+- **Tur:** Planar Irk
+- **Köken:** Limbo; mind flayer köleliğinden kaçan Gith soyu
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Githzerai, Planescape evreninin en disiplinli ve en cilekes zihin ustalaridir; bir zamanlar mind flayerlarin (illithid) yuzyillarca koleligini cekmis, sonra ozgurlugune kavusup bir ic savasla ikiye bolunmus bir irkin yarisidir. Gith adli bir savasci, illithid imparatorlugune karsi isyani yoneterek kolelerini ozgur kildi; ama yardimcisi Zerthimon, Gith'in sonsuz savas ve fetih hayalini reddetti. "Iki gokyuzu olamaz" diyerek bir ayrilik ilan etti; takipcileri "githzerai", yani "Gith'i reddedenler" oldu ve kaosun diyari Limbo'ya cekildi. Gith'in yolundan gidenler ise githyanki olarak onlarin ezeli dusmani haline geldi.
+Githzerai, Planescape evreninin en disiplinli ve en çilekeş zihin ustalarıdır; bir zamanlar mind flayerların (illithid) yüzyıllarca köleliğini çekmiş, sonra özgürlüğüne kavuşup bir iç savaşla ikiye bölünmüş bir ırkın yarısıdır. Gith adlı bir savaşçı, illithid imparatorluğuna karşı isyanı yöneterek kölelerini özgür kıldı; ama yardımcısı Zerthimon, Gith'in sonsuz savaş ve fetih hayalini reddetti. "İki gökyüzü olamaz" diyerek bir ayrılık ilan etti; takipçileri "githzerai", yani "Gith'i reddedenler" oldu ve kaosun diyarı Limbo'ya çekildi. Gith'in yolundan gidenler ise githyanki olarak onların ezeli düşmanı haline geldi.
 
-Githzeraiyi olaganustu kilan, Limbo'nun kaosuyla kurduklari iliskidir. Limbo, surekli degisen saf kaostur; ates, su, toprak ve havanin durmadan birbirine donustugu bir corbadir. Githzerai, bu kaosa zihin gucuyle hukmeder; anarch denen guclu zihinler, salt irade gucuyle Limbo'nun bir parcasini sabitler ve orada kale-manastirlar, hatta Shra'kt'lor gibi milyonlarca nufuslu yuzen sehirler insa eder. "Maddeyi zihinle yoğururuz, sehirleri dusunceyle dovuruz" derler. Insanlardan daha ince ve uzun bedenli, keskin hatli, sade ve ciddi varliklardir; maddi gosteristen tiksinir, yogun meditasyon ve disiplinle yasarlar.
+Githzerai'yi olağanüstü kılan, Limbo'nun kaosuyla kurdukları ilişkidir. Limbo, sürekli değişen saf kaostur; ateş, su, toprak ve havanın durmadan birbirine dönüştüğü bir çorbadır. Githzerai, bu kaosa zihin gücüyle hükmeder; anarch denen güçlü zihinler, salt irade gücüyle Limbo'nun bir parçasını sabitler ve orada kale-manastırlar, hatta Shra'kt'lor gibi milyonlarca nüfuslu yüzen şehirler inşa eder. "Maddeyi zihinle yoğururuz, şehirleri düşünceyle döveriz" derler. İnsanlardan daha ince ve uzun bedenli, keskin hatlı, sade ve ciddi varlıklardır; maddi gösterişten tiksinir, yoğun meditasyon ve disiplinle yaşarlar.
 
-![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/c/cc/Monster_Manual_5e_-_Githzerai_-_p161.jpg/revision/latest/scale-to-width-down/769?cb=20200229183231)
-
-Varliklarini uc temel gercek tanimlar: githyanki ve illithidler ezeli dusmandir; irkin hayatta kalmasinin onunde hicbir sey duramaz; ve bir daha asla koleleştirilmeyeceklerdir. Cogu githzerai tanrisiz yasar; guvenleri ilahi guce degil, zihne, disipline ve toplulugа dayanir. Zerthimon'un felsefesi, sekiz daireden olusan "Zerthimon'un Kirilmamis Cemberi"nde kayitlidir. Illithid avcisi rrakma takimlari, mind flayer kolonilerini diyarlar arasi avlamak icin uc aylik seferlere cikar. Buyuye karsi seviyeleriyle artan guclu bir direnc tasirlar; psionik yetenekleri (mage hand, shield, detect thoughts) dogustan gelir. Sigil'de sessiz ve mesafelidirler ve hicbir kosulda bir githyanki ya da illithidle bir araya gelmezler. Githzerai, Planescape'te koleliğin küllerinden yukselen disiplini temsil eder: kaosun tam ortasinda, salt zihin gucuyle duzen kuran, gecmisini asla unutmayan bir halkin sessiz onuru.
+Varlıklarını üç temel gerçek tanımlar: githyanki ve illithidler ezeli düşmandır; ırkın hayatta kalmasının önünde hiçbir şey duramaz; ve bir daha asla köleleştirilmeyeceklerdir. Çoğu githzerai tanrısız yaşar; güvenleri ilahi güce değil, zihne, disipline ve topluluğа dayanır. Zerthimon'un felsefesi, sekiz daireden oluşan "Zerthimon'un Kırılmamış Çemberi"nde kayıtlıdır. Illithid avcısı rrakma takımları, mind flayer kolonilerini diyarlar arası avlamak için üç aylık seferlere çıkar. Büyüye karşı seviyeleriyle artan güçlü bir direnç taşırlar; psionik yetenekleri (mage hand, shield, detect thoughts) doğuştan gelir. Sigil'de sessiz ve mesafelidirler ve hiçbir koşulda bir githyanki ya da illithidle bir araya gelmezler. Githzerai, Planescape'te köleliğin küllerinden yükselen disiplini temsil eder: kaosun tam ortasında, salt zihin gücüyle düzen kuran, geçmişini asla unutmayan bir halkın sessiz onuru.
 
 ## Ayırt Edici Özellikler
 
-- Mind flayer (illithid) koleliginden kacan Gith soyundandir
-- Zerthimon'un felsefesini izler: "Iki gokyuzu olamaz"
-- Limbo'nun kaosunu zihin gucuyle (anarch'lar) sekillendirir
-- Buyuye karsi gucu artan direnc; psionik yetenekler
-- Ezeli dusmanlari: mind flayerlar ve githyankiler
+- Mind flayer (illithid) köleliğinden kaçan Gith soyundandır
+- Zerthimon'un felsefesini izler: "İki gökyüzü olamaz"
+- Limbo'nun kaosunu zihin gücüyle (anarch'lar) şekillendirir
+- Büyüye karşı gücü artan direnç; psionik yetenekler
+- Ezeli düşmanları: mind flayerlar ve githyankiler
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)
