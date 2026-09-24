@@ -5,7 +5,10 @@
 Başlık, yönetmen/tür/süre/dil satırı, özet ve puanlar tek mesajda toplanır.
 
 ## Puanlar
-**IMDb /10** · **Letterboxd /5** · **Metascore /100** · **RT %** · **TMDb /10** · **ICM** liste/fav sayısı.
+**IMDb /10** · **Letterboxd /5** · **Metascore /100** · **RT %** · **TMDb /10** · **nMDB /100** · **ICM** liste/fav sayısı.
+
+## Puan bantları
+Her tür kategorisinin forumları `sana uygunluk` skoruna göre ayrılmıştır; `*-4-5-ve-ustu` en güçlü eşleşmeleri, `*-3-5-alti` en zayıfları toplar. Her forumun dizini puanları satır içinde gösterir.
 
 ## Sana uygunluk
 nMDB'nin kullanıcı-profiline göre hesapladığı 5 üzerinden uyum puanı; parantezdeki güven yüzdesi tahminin sağlamlığıdır.
