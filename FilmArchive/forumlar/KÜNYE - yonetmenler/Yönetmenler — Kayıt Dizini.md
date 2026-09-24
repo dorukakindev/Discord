@@ -90,9 +90,8 @@
 • **Henry Hathaway**
 • **Sidney Hayers**
 • **Juraj Herz**
-• **Werner Herzog
 
-**
+• **Werner Herzog**
 • **Arthur Hiller**
 • **Leon Hirszman**
 • **Alfred Hitchcock**
@@ -181,10 +180,9 @@
 • **Emeric Pressburger / Michael Powell**
 • **Michael Powell, Emeric Pressburger**
 • **Cristi Puiu**
-• **Carol Reed**
-• **David
 
-Farrier, Dylan Reeve**
+• **Carol Reed**
+• **David Farrier, Dylan Reeve**
 • **Jean Renoir**
 • **Alain Resnais**
 • **Tony Richardson**
