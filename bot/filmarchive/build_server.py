@@ -11,7 +11,7 @@ State/plan dosyaları WORK dir'de tutulur (varsayılan ./work).
 import json, os, re, sqlite3, sys, time, unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dapi import req, get, post, patch, delete, guild_channels, GUILD
+from dapi import req, get, post, patch, delete, guild_channels, channel_messages, forum_threads, GUILD
 
 WORK = os.environ.get("WORK", os.path.join(os.path.dirname(os.path.abspath(__file__)), "work"))
 os.makedirs(WORK, exist_ok=True)
@@ -144,6 +144,7 @@ def score_line(f):
     add("Metascore", f.get("metascore"))
     add("RT", f.get("rotten_puani"))
     add("TMDb", f.get("tmdb_puani"))
+    add("nMDB", f.get("nutpuan"))
     icm_l, icm_f = f.get("icm_lists"), f.get("icm_favs")
     if not dash(icm_l) or not dash(icm_f):
         parts.append(f"ICM **{icm_l if not dash(icm_l) else 0} liste / {icm_f if not dash(icm_f) else 0} fav**")
@@ -264,18 +265,60 @@ def film_messages(f, forum_label):
         sec = "### Tartışmalar & Notlar\n" + str(f["tartismalar_ve_notlar"]).strip()
         for c in chunks("-# " + SERVER + " · " + title + " · Notlar\n" + sec, 1900):
             msgs.append(c)
-    return msgs
+    # Discord mesaj içeriğinin kenar boşluklarını kırpar — üretim de aynısını yapsın
+    return [m.strip() for m in msgs]
 
 
-def index_messages(forum_label, entries):
-    """Forum başındaki sabit dizin kaydının mesajları."""
+def index_messages(forum_label, entries, sort_note="alfabetik"):
+    """Forum başındaki sabit dizin kaydının mesajları.
+
+    entries elemanları `**` ile kapatılmış gövde metni de içerebilir
+    (örn. `Title** · Film · IMDb 7.5` → `• **Title** · Film · IMDb 7.5`)."""
     head = "\n".join([f"-# {SERVER} · {forum_label} · Dizin", f"# {forum_label} — Kayıt Dizini",
-                       f"{len(entries)} kayıt — alfabetik:"])
+                       f"{len(entries)} kayıt — {sort_note}:"])
     body = "\n".join(f"• **{e}**" for e in entries)
     return [head] + line_chunks(body)
 
 
 # ---------------------------------------------------------------- yapı
+
+BANDS = ["4-5-ve-ustu", "4-0-4-5", "3-5-4-0", "3-5-alti"]
+BAND_LABELS = {"4-5-ve-ustu": "4.5 ve Üstü", "4-0-4-5": "4.0–4.5",
+               "3-5-4-0": "3.5–4.0", "3-5-alti": "3.5 Altı"}
+BAND_DESC = {"4-5-ve-ustu": "4.5 ve üstü", "4-0-4-5": "4.0–4.5",
+             "3-5-4-0": "3.5–4.0", "3-5-alti": "3.5 altı"}
+KAT_SLUG = {"Film": "filmler", "Dizi": "diziler",
+            "Belgesel": "belgeseller", "Anime": "animeler"}
+KAT_LABELS = {"filmler": "Filmler", "diziler": "Diziler",
+              "belgeseller": "Belgeseller", "animeler": "Animeler"}
+KAT_CAT = {"filmler": "FİLMLER", "diziler": "DİZİLER",
+           "belgeseller": "BELGESELLER", "animeler": "ANİMELER"}
+# "bands": kategori kendi puan bant forumlarına bölünür; "single": tek forum
+KAT_MODE = {k: "bands" for k in KAT_LABELS}
+
+
+def kat_items(kat):
+    """Bir tür kategorisinin forumları: puan bantları ya da tek forum."""
+    lab = KAT_LABELS[kat]
+    if KAT_MODE[kat] == "bands":
+        return [("forum", f"{kat}-{b}",
+                 f"{lab} · sana uygunluk {BAND_DESC[b]} — {lab} · {BAND_LABELS[b]}")
+                for b in BANDS]
+    return [("forum", kat, f"{lab} kayıtları — {lab}")]
+
+
+def band_slugs():
+    """Ana arşiv kayıtlarının dağıldığı tüm forum slug'ları."""
+    out = []
+    for kat in KAT_LABELS:
+        out += [f"{kat}-{b}" for b in BANDS] if KAT_MODE[kat] == "bands" else [kat]
+    return out
+
+
+def forum_slug_of(f):
+    kat = KAT_SLUG.get(f.get("kategori"), "filmler")
+    return f"{kat}-{band_of(f)}" if KAT_MODE[kat] == "bands" else kat
+
 
 STRUCTURE = [
     ("GİRİŞ & REHBER", [
@@ -285,12 +328,10 @@ STRUCTURE = [
         ("text", "a-z-indeks", "Tüm kayıtların alfabetik dizini"),
         ("text", "kaynak-politikasi", "Veri kaynakları ve çözümleme yöntemi"),
     ]),
-    ("ANA ARŞİV", [
-        ("forum", "filmler", "Koleksiyondaki filmler — künye, puanlar ve derin analiz. — Filmler"),
-        ("forum", "diziler", "Koleksiyondaki diziler — künye, puanlar ve derin analiz. — Diziler"),
-        ("forum", "belgeseller", "Koleksiyondaki belgeseller. — Belgeseller"),
-        ("forum", "animeler", "Koleksiyondaki animeler. — Animeler"),
-    ]),
+    (KAT_CAT["filmler"], kat_items("filmler")),
+    (KAT_CAT["diziler"], kat_items("diziler")),
+    (KAT_CAT["belgeseller"], kat_items("belgeseller")),
+    (KAT_CAT["animeler"], kat_items("animeler")),
     ("KEŞİFLER & ÖNERİLER", [
         ("forum", "protokol-kesifleri", "Film-protokol süzgecinden geçen yeni adaylar. — Protokol Keşifleri"),
         ("forum", "kurator-kesifleri", "Küratörlü keşif listeleri (v1 + v2). — Küratör Keşifleri"),
@@ -318,7 +359,9 @@ def build_structure():
             print("category:", cat_name, cat["id"], flush=True)
             time.sleep(0.3)
         out["categories"][cat_name] = cat["id"]
-        for kind, name, topic in items:
+        for item in items:
+            kind, name, topic = item[:3]
+            tag_names = item[3] if len(item) > 3 else []
             key = (cat["id"], name)
             ch = ch_by_name.get(key)
             if not ch:
@@ -327,32 +370,101 @@ def build_structure():
                 if kind == "forum":
                     payload["type"] = 15
                     payload["default_auto_archive_duration"] = 60
+                    if tag_names:
+                        payload["available_tags"] = [{"name": t} for t in tag_names]
                 else:
                     payload["type"] = 0
                 ch = post(f"/guilds/{GUILD}/channels", json=payload)
                 print(f"  {kind} {name}: {ch['id']}", flush=True)
                 time.sleep(0.3)
-            out["forums" if kind == "forum" else "channels"][name] = {"id": ch["id"], "cat": cat_name}
+            elif kind == "forum" and tag_names:
+                have = {t["name"] for t in ch.get("available_tags", [])}
+                if have != set(tag_names):
+                    ch = patch(f"/channels/{ch['id']}", json={
+                               "available_tags": [{"name": t} for t in tag_names]})
+                    time.sleep(0.3)
+            entry = {"id": ch["id"], "cat": cat_name}
+            if kind == "forum":
+                entry["tags"] = {t["name"]: t["id"] for t in ch.get("available_tags", [])}
+            out["forums" if kind == "forum" else "channels"][name] = entry
     json.dump(out, open(os.path.join(WORK, "structure.json"), "w"), ensure_ascii=False, indent=1)
     return out
 
 
 def forum_label(slug):
-    return {"filmler": "Filmler", "diziler": "Diziler", "belgeseller": "Belgeseller",
-            "animeler": "Animeler", "protokol-kesifleri": "Protokol Keşifleri",
-            "kurator-kesifleri": "Küratör Keşifleri", "yonetmenler": "Yönetmenler"}[slug]
+    fixed = {"protokol-kesifleri": "Protokol Keşifleri",
+             "kurator-kesifleri": "Küratör Keşifleri", "yonetmenler": "Yönetmenler",
+             **BAND_LABELS, **KAT_LABELS}
+    if slug in fixed:
+        return fixed[slug]
+    kat, band = slug.split("-", 1)
+    return f"{fixed[kat]} · {fixed[band]}"
+
+
+def band_of(f):
+    try:
+        s = float(str(f.get("sana_uygunluk") or "").split("/")[0])
+    except ValueError:
+        s = 0.0
+    if s >= 4.5:
+        return "4-5-ve-ustu"
+    if s >= 4.0:
+        return "4-0-4-5"
+    if s >= 3.5:
+        return "3-5-4-0"
+    return "3-5-alti"
+
+
+def band_entry(f):
+    """Bant dizininde tek satır: başlık + puanlar (forum zaten tek tür)."""
+    sc = []
+    for label, key, suf in [("IMDb", "imdb_puani", "/10"), ("LB", "lb_puani", "/5"),
+                            ("nMDB", "nutpuan", "")]:
+        if not dash(f.get(key)):
+            sc.append(f"{label} {f[key]}{suf}")
+    if not dash(f.get("sana_uygunluk")):
+        sc.append(f"uyg {f['sana_uygunluk']}")
+    return f"{title_of(f)}** · {' · '.join(sc)}"
 
 
 # ---------------------------------------------------------------- rehber
 
+def counts_of(main, kesifler):
+    """Rehber metinlerinin sayaçları: tür kategorisi × puan bandı."""
+    c = {"arsiv": len(main), "kesif": len(kesifler),
+         "protokol": sum(1 for f in kesifler if f.get("uygunluk_kaynagi") == "film-protocol-2026-09-14-v1"),
+         "kurator": sum(1 for f in kesifler if f.get("uygunluk_kaynagi") != "film-protocol-2026-09-14-v1")}
+    for kat in KAT_LABELS:
+        fs = [f for f in main if KAT_SLUG.get(f.get("kategori")) == kat]
+        c[kat] = {"total": len(fs),
+                  "b45": sum(1 for f in fs if band_of(f) == "4-5-ve-ustu"),
+                  "b40": sum(1 for f in fs if band_of(f) == "4-0-4-5"),
+                  "b35": sum(1 for f in fs if band_of(f) == "3-5-4-0"),
+                  "b0": sum(1 for f in fs if band_of(f) == "3-5-alti")}
+    by_dir = {f.get("yonetmen") for f in main + kesifler}
+    by_dir.discard(None); by_dir.discard("Çeşitli yönetmenler")
+    c["yonetmen"] = len(by_dir)
+    return c
+
+
 def guide_contents(struct, counts):
     F = struct["forums"]
+    kat_lines = []
+    for kat in KAT_LABELS:
+        k = counts[kat]
+        kat_lines.append(f"**{KAT_CAT[kat]}** — {k['total']} kayıt")
+        if KAT_MODE[kat] == "bands":
+            for b, kn in [("4-5-ve-ustu", "b45"), ("4-0-4-5", "b40"),
+                          ("3-5-4-0", "b35"), ("3-5-alti", "b0")]:
+                kat_lines.append(f"• `{kat}-{b}` → {k[kn]}")
+        else:
+            kat_lines.append(f"• `{kat}` → {k['total']}")
     return {
         "hosgeldin": (
             f"-# {SERVER} · Hoşgeldin\n# The Film Archive\n"
             "Kişisel film arşivinin ve protokol süzgeçli keşif listelerinin salt-okunur vitrini.\n\n"
             "## Nasıl kullanılır\n"
-            "• Her kategori bir tema, her forum bir kayıt defteridir; her film/dizi kendi odasındadır.\n"
+            "• Her kategori bir tür (FİLMLER · DİZİLER · BELGESELLER · ANİMELER), altındaki forumlar ise `sana uygunluk` puan bantlarıdır (4.5+ · 4.0–4.5 · 3.5–4.0 · <3.5); her kayıt kendi odasındadır.\n"
             "• Kayıtlar künye kartı + gerektiğinde **Derin Analiz** ve **Tartışmalar & Notlar** devam mesajları hâlinde yazılmıştır; çoğu kayıt afişiyle açılır.\n"
             "• Her forumun başında sabitlenmiş **DİZİN** kaydı vardır; hızlı atlama için `#a-z-indeks` kanalını kullanın.\n"
             "• `/ara` komutuyla Lexicanum tüm arşivde arama yapar.\n\n"
@@ -362,11 +474,8 @@ def guide_contents(struct, counts):
         ),
         "arsiv-dizini": (
             f"-# {SERVER} · Arşiv Dizini\n# Arşiv Dizini\n"
-            f"**ANA ARŞİV** — koleksiyondaki {counts['arsiv']} kayıt\n"
-            f"• `filmler` → {counts['filmler']} kayıt\n"
-            f"• `diziler` → {counts['diziler']} kayıt\n"
-            f"• `belgeseller` → {counts['belgeseller']} kayıt\n"
-            f"• `animeler` → {counts['animeler']} kayıt\n\n"
+            "Kayıtlar tür kategorileri altında `sana uygunluk` puan bantlarına ayrılır:\n\n"
+            + "\n".join(kat_lines) + "\n\n"
             f"**KEŞİFLER & ÖNERİLER** — arşive girmemiş {counts['kesif']} aday\n"
             f"• `protokol-kesifleri` → {counts['protokol']} kayıt (film-protokol süzgeci)\n"
             f"• `kurator-kesifleri` → {counts['kurator']} kayıt (küratörlü listeler)\n\n"
@@ -378,7 +487,9 @@ def guide_contents(struct, counts):
             "## Künye kartı\n"
             "Başlık, yönetmen/tür/süre/dil satırı, özet ve puanlar tek mesajda toplanır.\n\n"
             "## Puanlar\n"
-            "**IMDb /10** · **Letterboxd /5** · **Metascore /100** · **RT %** · **TMDb /10** · **ICM** liste/fav sayısı.\n\n"
+            "**IMDb /10** · **Letterboxd /5** · **Metascore /100** · **RT %** · **TMDb /10** · **nMDB /100** · **ICM** liste/fav sayısı.\n\n"
+            "## Puan bantları\n"
+            "Her tür kategorisinin forumları `sana uygunluk` skoruna göre ayrılmıştır; `*-4-5-ve-ustu` en güçlü eşleşmeleri, `*-3-5-alti` en zayıfları toplar. Her forumun dizini puanları satır içinde gösterir.\n\n"
             "## Sana uygunluk\n"
             "nMDB'nin kullanıcı-profiline göre hesapladığı 5 üzerinden uyum puanı; parantezdeki güven yüzdesi tahminin sağlamlığıdır.\n\n"
             "## Katmanlar (0–10)\n"
@@ -450,21 +561,23 @@ def run_posts(main, kesifler, struct):
     def save():
         json.dump(state, open(state_p, "w"), ensure_ascii=False)
 
-    groups = [
-        ("filmler", [f for f in main if f["kategori"] == "Film"]),
-        ("diziler", [f for f in main if f["kategori"] == "Dizi"]),
-        ("belgeseller", [f for f in main if f["kategori"] == "Belgesel"]),
-        ("animeler", [f for f in main if f["kategori"] == "Anime"]),
+    groups = [(s, [f for f in main if forum_slug_of(f) == s]) for s in band_slugs()] + [
         ("protokol-kesifleri", [f for f in kesifler if f.get("uygunluk_kaynagi") == "film-protocol-2026-09-14-v1"]),
         ("kurator-kesifleri", [f for f in kesifler if f.get("uygunluk_kaynagi") != "film-protocol-2026-09-14-v1"]),
     ]
 
     for slug, films in groups:
-        films.sort(key=lambda f: norm(title_of(f)))
+        is_band = slug in band_slugs()
+        if is_band:
+            films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]), norm(title_of(f))))
+        else:
+            films.sort(key=lambda f: norm(title_of(f)))
         fid = struct["forums"][slug]["id"]
         label = forum_label(slug)
         if slug not in state["indexes"]:
-            msgs = index_messages(label, [title_of(f) for f in films])
+            entries = [band_entry(f) for f in films] if is_band else [title_of(f) for f in films]
+            msgs = index_messages(label, entries,
+                                  "uygunluk sırası" if is_band else "alfabetik")
             t = post(f"/channels/{fid}/threads",
                      json={"name": f"{label} — Kayıt Dizini",
                            "message": {"content": msgs[0]},
@@ -486,9 +599,10 @@ def run_posts(main, kesifler, struct):
                 continue
             msgs = film_messages(f, label)
             name = title_of(f)[:95]
+            tag_id = struct["forums"][slug].get("tags", {}).get(f.get("kategori"))
             t = post(f"/channels/{fid}/threads",
                      json={"name": name, "message": {"content": msgs[0]},
-                           "applied_tags": []})
+                           "applied_tags": [tag_id] if tag_id else []})
             tid = t["id"]
             for extra in msgs[1:]:
                 post(f"/channels/{tid}/messages", json={"content": extra})
@@ -549,17 +663,7 @@ def run_posts(main, kesifler, struct):
 
 
 def run_guide(main, kesifler, struct):
-    counts = {"arsiv": len(main), "filmler": sum(1 for f in main if f["kategori"] == "Film"),
-              "diziler": sum(1 for f in main if f["kategori"] == "Dizi"),
-              "belgeseller": sum(1 for f in main if f["kategori"] == "Belgesel"),
-              "animeler": sum(1 for f in main if f["kategori"] == "Anime"),
-              "kesif": len(kesifler),
-              "protokol": sum(1 for f in kesifler if f.get("uygunluk_kaynagi") == "film-protocol-2026-09-14-v1"),
-              "kurator": sum(1 for f in kesifler if f.get("uygunluk_kaynagi") != "film-protocol-2026-09-14-v1")}
-    by_dir = {f.get("yonetmen") for f in main + kesifler}
-    by_dir.discard(None); by_dir.discard("Çeşitli yönetmenler")
-    counts["yonetmen"] = len(by_dir)
-    for slug, text in guide_contents(struct, counts).items():
+    for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():  # noqa: E501
         cid = struct["channels"][slug]["id"]
         post(f"/channels/{cid}/messages", json={"content": text})
         print("guide:", slug, flush=True)
@@ -575,6 +679,259 @@ def run_az(main, kesifler, struct):
         post(f"/channels/{cid}/messages", json={"content": m})
         time.sleep(0.4)
     print("a-z-indeks ok", flush=True)
+
+
+def run_bands(main, kesifler, struct):
+    """Eski kategori forumlarının kayıtlarını sana-uygunluk bant forumlarına taşır.
+
+    Thread'ler taşınamadığı için yeniden oluşturulur (kartlar film_messages ile
+    yeniden üretilir → nutpuan da eklenir), eski forum komple silinir.
+    Band dizinleri uygunluk sırasına göre skorlu satırlarla yazılır.
+    İdempotent: eski forum yoksa taşıma geçilir.
+    """
+    state_p = os.path.join(WORK, "post_state.json")
+    state = json.load(open(state_p))
+
+    def save():
+        json.dump(state, open(state_p, "w"), ensure_ascii=False)
+
+    old_slugs = ["filmler", "diziler", "belgeseller", "animeler"]
+    old_forums = {c["name"]: c["id"] for c in guild_channels()
+                  if c.get("type") == 15 and c["name"] in old_slugs}
+    by_tid = {tid: key for key, tid in state["done"].items()}
+    main_by_id = {str(f["id"]): f for f in main}
+    old_index_tids = {state["indexes"].get(s) for s in old_slugs}
+
+    for slug in old_slugs:
+        fid = old_forums.get(slug)
+        if not fid:
+            continue
+        for t in forum_threads(fid):
+            tid = t["id"]
+            if tid in old_index_tids:
+                continue
+            key = by_tid.get(tid)
+            f = main_by_id.get(key.split("|")[1]) if key else None
+            if f is None:
+                print("!! bilinmeyen thread:", tid, t["name"], flush=True)
+                continue
+            band = band_of(f)
+            label = forum_label(band)
+            nfid = struct["forums"][band]["id"]
+            tag_id = struct["forums"][band].get("tags", {}).get(f.get("kategori"))
+            msgs = film_messages(f, label)
+            nt = post(f"/channels/{nfid}/threads",
+                      json={"name": t["name"], "message": {"content": msgs[0]},
+                            "applied_tags": [tag_id] if tag_id else []})
+            for extra in msgs[1:]:
+                post(f"/channels/{nt['id']}/messages", json={"content": extra})
+                time.sleep(0.3)
+            delete(f"/channels/{tid}")
+            del state["done"][key]
+            state["done"][f"{band}|{f['id']}|{title_of(f)}"] = nt["id"]
+            save()
+            print("moved:", t["name"], "->", band, flush=True)
+            time.sleep(0.35)
+        delete(f"/channels/{fid}")
+        state["indexes"].pop(slug, None)
+        save()
+        print("deleted old forum:", slug, flush=True)
+
+    # bant dizinleri
+    for b in BANDS:
+        if b in state["indexes"]:
+            continue
+        films = [f for f in main if band_of(f) == b]
+        films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]),
+                                  norm(title_of(f))))
+        msgs = index_messages(forum_label(b), [band_entry(f) for f in films],
+                              "uygunluk sırası")
+        t = post(f"/channels/{struct['forums'][b]['id']}/threads",
+                 json={"name": f"{forum_label(b)} — Kayıt Dizini",
+                       "message": {"content": msgs[0]}, "applied_tags": []})
+        for extra in msgs[1:]:
+            post(f"/channels/{t['id']}/messages", json={"content": extra})
+            time.sleep(0.3)
+        try:
+            patch(f"/channels/{t['id']}", json={"flags": 2})
+        except Exception as e:
+            print("pin fail:", e)
+        state["indexes"][b] = t["id"]
+        save()
+        print(f"[{b}] index ok ({len(films)} kayıt)", flush=True)
+
+    # rehber kanallarının metinleri
+    for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():
+        cid = struct["channels"][slug]["id"]
+        msgs = channel_messages(cid, limit=20)
+        msgs.reverse()
+        if msgs and msgs[0]["content"] != text:
+            patch(f"/channels/{cid}/messages/{msgs[0]['id']}", json={"content": text})
+            print("guide patched:", slug, flush=True)
+            time.sleep(0.3)
+
+
+def run_split(main, kesifler, struct):
+    """Ortak ANA ARŞİV bant forumlarını tür bazlı bant forumlarına böler.
+
+    `4-5-ve-ustu` gibi karma forumlardaki kayıtlar `filmler-4-5-ve-ustu`,
+    `diziler-4-5-ve-ustu` ... altına yeniden yazılır (thread taşınamaz);
+    eski forum + boşalan ANA ARŞİV kategorisi silinir, yeni dizinler yazılır.
+    İdempotent: eski forum yoksa geçilir.
+    """
+    state_p = os.path.join(WORK, "post_state.json")
+    state = json.load(open(state_p))
+
+    def save():
+        json.dump(state, open(state_p, "w"), ensure_ascii=False)
+
+    old_forums = {c["name"]: c["id"] for c in guild_channels()
+                  if c.get("type") == 15 and c["name"] in BANDS}
+    by_tid = {tid: key for key, tid in state["done"].items()}
+    main_by_id = {str(f["id"]): f for f in main}
+    old_index_tids = {state["indexes"].get(s) for s in BANDS}
+
+    for slug in BANDS:
+        fid = old_forums.get(slug)
+        if not fid:
+            continue
+        for t in forum_threads(fid):
+            tid = t["id"]
+            if tid in old_index_tids:
+                continue
+            key = by_tid.get(tid)
+            f = main_by_id.get(key.split("|")[1]) if key else None
+            if f is None:
+                print("!! bilinmeyen thread:", tid, t["name"], flush=True)
+                continue
+            nslug = forum_slug_of(f)
+            nfid = struct["forums"][nslug]["id"]
+            msgs = film_messages(f, forum_label(nslug))
+            nt = post(f"/channels/{nfid}/threads",
+                      json={"name": t["name"], "message": {"content": msgs[0]},
+                            "applied_tags": []})
+            for extra in msgs[1:]:
+                post(f"/channels/{nt['id']}/messages", json={"content": extra})
+                time.sleep(0.3)
+            delete(f"/channels/{tid}")
+            del state["done"][key]
+            state["done"][f"{nslug}|{f['id']}|{title_of(f)}"] = nt["id"]
+            save()
+            print("moved:", t["name"], "->", nslug, flush=True)
+            time.sleep(0.35)
+        delete(f"/channels/{fid}")
+        state["indexes"].pop(slug, None)
+        save()
+        print("deleted old forum:", slug, flush=True)
+
+    # boşalan eski kategori
+    for c in guild_channels():
+        if c.get("type") == 4 and c["name"] == "ANA ARŞİV":
+            delete(f"/channels/{c['id']}")
+            print("deleted category: ANA ARŞİV", flush=True)
+
+    # yeni forum dizinleri (uygunluk sırası + satır içi puanlar)
+    for nslug in band_slugs():
+        if nslug in state["indexes"]:
+            continue
+        films = [f for f in main if forum_slug_of(f) == nslug]
+        if not films:
+            continue
+        films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]),
+                                  norm(title_of(f))))
+        msgs = index_messages(forum_label(nslug), [band_entry(f) for f in films],
+                              "uygunluk sırası")
+        t = post(f"/channels/{struct['forums'][nslug]['id']}/threads",
+                 json={"name": f"{forum_label(nslug)} — Kayıt Dizini",
+                       "message": {"content": msgs[0]}, "applied_tags": []})
+        for extra in msgs[1:]:
+            post(f"/channels/{t['id']}/messages", json={"content": extra})
+            time.sleep(0.3)
+        try:
+            patch(f"/channels/{t['id']}", json={"flags": 2})
+        except Exception as e:
+            print("pin fail:", e)
+        state["indexes"][nslug] = t["id"]
+        save()
+        print(f"[{nslug}] index ok ({len(films)} kayıt)", flush=True)
+
+    # hiç kayıt düşmeyen bant forumlarını sil (salt-okunur arşivde çıkmaz sokak)
+    for nslug in band_slugs():
+        ent = struct["forums"].get(nslug)
+        if ent and not any(forum_slug_of(f) == nslug for f in main):
+            delete(f"/channels/{ent['id']}")
+            print("deleted empty forum:", nslug, flush=True)
+            time.sleep(0.3)
+
+    # rehber kanallarının metinleri
+    for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():
+        cid = struct["channels"][slug]["id"]
+        msgs = channel_messages(cid, limit=20)
+        msgs.reverse()
+        if msgs and msgs[0]["content"] != text:
+            patch(f"/channels/{cid}/messages/{msgs[0]['id']}", json={"content": text})
+            print("guide patched:", slug, flush=True)
+            time.sleep(0.3)
+
+
+def run_relabel(main, kesifler, struct):
+    """Skor etiketi değişikliğini (Nut -> nMDB) canlı içeriğe uygular.
+
+    Kart starter'ı (id == thread id), thread içindeki kart devamı,
+    bant dizin thread'leri ve rehber metinleri karşılaştırma-PATCH'i.
+    """
+    state_p = os.path.join(WORK, "post_state.json")
+    state = json.load(open(state_p))
+    by_id = {str(f["id"]): f for f in main + kesifler}
+
+    def sync_thread(tid, msgs):
+        # channel_messages thread starter'ı da içerir (en eski mesaj) — cur[i] <-> msgs[i]
+        cur = channel_messages(tid, limit=50)
+        cur.reverse()
+        for i, m in enumerate(cur):
+            if i >= len(msgs):
+                delete(f"/channels/{tid}/messages/{m['id']}")
+                print("msg deleted (surplus):", tid, i, flush=True)
+                time.sleep(0.3)
+                continue
+            if m["content"] != msgs[i]:
+                patch(f"/channels/{tid}/messages/{m['id']}",
+                      json={"content": msgs[i]})
+                print("msg relabeled:", tid, i, flush=True)
+                time.sleep(0.3)
+        for i in range(len(cur), len(msgs)):
+            post(f"/channels/{tid}/messages", json={"content": msgs[i]})
+            print("msg posted (missing):", tid, i, flush=True)
+            time.sleep(0.3)
+
+    for key, tid in state["done"].items():
+        slug = key.split("|")[0]
+        if slug == "yonetmenler":
+            continue
+        f = by_id.get(key.split("|")[1])
+        if f is None:
+            continue
+        sync_thread(tid, film_messages(f, forum_label(slug)))
+
+    for b in band_slugs():
+        tid = state["indexes"].get(b)
+        if not tid:
+            continue
+        films = [f for f in main if forum_slug_of(f) == b]
+        films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]),
+                                  norm(title_of(f))))
+        sync_thread(tid, index_messages(forum_label(b),
+                                      [band_entry(f) for f in films],
+                                      "uygunluk sırası"))
+
+    for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():
+        cid = struct["channels"][slug]["id"]
+        cur = channel_messages(cid, limit=20)
+        cur.reverse()
+        if cur and cur[0]["content"] != text:
+            patch(f"/channels/{cid}/messages/{cur[0]['id']}", json={"content": text})
+            print("guide relabeled:", slug, flush=True)
+            time.sleep(0.3)
 
 
 def main():
@@ -593,6 +950,12 @@ def main():
         struct = json.load(open(struct_p))
     if phase in ("guide", "all"):
         run_guide(main_db, kesifler, struct)
+    if phase in ("bands", "all"):
+        run_bands(main_db, kesifler, struct)
+    if phase in ("split", "all"):
+        run_split(main_db, kesifler, struct)
+    if phase in ("relabel", "all"):
+        run_relabel(main_db, kesifler, struct)
     if phase in ("posts", "all"):
         run_posts(main_db, kesifler, struct)
     if phase in ("az", "all"):
