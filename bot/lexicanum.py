@@ -15,6 +15,12 @@ import discord
 from discord import app_commands
 from rapidfuzz import fuzz
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 log = logging.getLogger('lexicanum')
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s %(levelname)s %(message)s')
@@ -42,7 +48,13 @@ def save_index():
     os.replace(tmp, p)
 
 
+_TR = str.maketrans({'ç': 'c', 'Ç': 'c', 'ğ': 'g', 'Ğ': 'g',
+                     'ı': 'i', 'İ': 'i', 'ö': 'o', 'Ö': 'o',
+                     'ş': 's', 'Ş': 's', 'ü': 'u', 'Ü': 'u'})
+
+
 def norm(s):
+    s = s.translate(_TR)
     s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode()
     return ' '.join(re.sub(r'[^a-z0-9 ]', ' ', s.lower()).split())
 
@@ -90,9 +102,11 @@ def search(q, gid=None, limit=10):
 
 
 def result_embed(title, rows):
-    e = discord.Embed(title=title, colour=0xC8A24B)
-    e.description = '\n'.join(
-        f'• [{r["t"]}]({r["l"]}) — *{r["f"]}* · {r["s"]}' for r in rows)
+    e = discord.Embed(title=title[:256], colour=0xC8A24B)
+    def link(r):
+        t = discord.utils.escape_markdown(r['t']).replace('[', '\\[').replace(']', '\\]')
+        return f'• [{t}]({r["l"]}) — *{r["f"]}* · {r["s"]}'
+    e.description = '\n'.join(link(r) for r in rows)
     return e
 
 
@@ -106,9 +120,9 @@ async def ara(inter, sorgu: str, sunucu: app_commands.Choice[str] = None):
         gid = next(g for g, m in GUILDS.items() if m['slug'] == sunucu.value)
     rows = search(sorgu, gid)
     if not rows:
-        await inter.response.send_message(f'**{sorgu}** için kayıt bulunamadı.', ephemeral=True)
+        await inter.response.send_message(f'**{sorgu[:100]}** için kayıt bulunamadı.', ephemeral=True)
         return
-    await inter.response.send_message(embed=result_embed(f'“{sorgu}” — {len(rows)} sonuç', rows))
+    await inter.response.send_message(embed=result_embed(f'“{sorgu[:200]}” — {len(rows)} sonuç', rows))
 
 
 @tree.command(name='rastgele', description='Arşivden rastgele bir kayıt')
@@ -122,6 +136,9 @@ async def rastgele(inter, sunucu: app_commands.Choice[str] = None):
         pool = [r for r in INDEX if str(r['g']) == str(gid)]
     elif inter.guild_id:
         pool = [r for r in INDEX if str(r['g']) == str(inter.guild_id)] or INDEX
+    if not pool:
+        await inter.response.send_message('İndeks boş.', ephemeral=True)
+        return
     r = random.choice(pool)
     await inter.response.send_message(embed=result_embed('Rastgele kayıt', [r]))
 
@@ -137,15 +154,20 @@ async def istatistik(inter):
 
 
 def is_admin(inter):
-    return inter.user.guild_permissions.manage_messages
+    return (isinstance(inter.user, discord.Member)
+            and inter.user.guild_permissions.manage_messages)
 
 
 async def forum_ac(inter, cur: str):
     g = inter.guild
     if not g:
         return []
+    try:
+        chans = await g.fetch_channels()
+    except discord.HTTPException:
+        chans = g.channels
     return [app_commands.Choice(name=c.name, value=str(c.id))
-            for c in g.channels
+            for c in chans
             if isinstance(c, discord.ForumChannel) and cur.lower() in c.name.lower()][:25]
 
 
@@ -164,6 +186,9 @@ class KayitModal(discord.ui.Modal):
     async def on_submit(self, inter):
         name = self.isim.value.strip()
         body = self.govde.value.strip()
+        if not name:
+            await inter.response.send_message('Kayıt adı boş olamaz.', ephemeral=True)
+            return
         try:
             chunks = [body[i:i + 2000] for i in range(0, len(body), 2000)] or ['—']
             th = await self.forum.create_thread(name=name, content=chunks[0])
@@ -185,13 +210,17 @@ class KayitModal(discord.ui.Modal):
 
 
 @tree.command(name='kayit-ekle', description='Foruma yeni kayıt aç (yönetici)')
+@app_commands.guild_only()
 @app_commands.describe(forum='Kaydın açılacağı forum')
 @app_commands.autocomplete(forum=forum_ac)
 async def kayit_ekle(inter, forum: str):
     if not is_admin(inter):
         await inter.response.send_message('Yetkin yok.', ephemeral=True)
         return
-    ch = inter.guild.get_channel(int(forum))
+    try:
+        ch = await inter.guild.fetch_channel(int(forum))
+    except (discord.NotFound, discord.HTTPException, ValueError):
+        ch = None
     if not isinstance(ch, discord.ForumChannel):
         await inter.response.send_message('Forum bulunamadı.', ephemeral=True)
         return
@@ -211,24 +240,29 @@ async def kayit_ac(inter, cur: str):
 
 
 class DuzenleModal(discord.ui.Modal):
-    def __init__(self, thread, msg_id, old):
+    def __init__(self, thread, old, tail=''):
         super().__init__(title='Kaydı düzenle')
-        self.thread, self.msg_id = thread, msg_id
+        self.thread, self.tail = thread, tail
         self.govde = discord.ui.TextInput(
             label='Kayıt metni', style=discord.TextStyle.paragraph,
             default=old[:4000], max_length=4000)
         self.add_item(self.govde)
 
     async def on_submit(self, inter):
-        body = self.govde.value.strip()
+        body = self.govde.value.strip() + self.tail
         try:
             await self.thread.edit(archived=False)
-            msg = await self.thread.fetch_message(self.msg_id)
-            first, rest = body[:2000], body[2000:].strip()
-            await msg.edit(content=first)
-            if rest:
-                await self.thread.send(rest[:2000])
-            await self.thread.edit(archived=True)
+            msgs = [m async for m in self.thread.history(limit=None, oldest_first=True)]
+            chunks = [body[i:i + 2000] for i in range(0, len(body), 2000)] or ['—']
+            await msgs[0].edit(content=chunks[0])
+            for i, c in enumerate(chunks[1:], 1):
+                if i < len(msgs):
+                    await msgs[i].edit(content=c)
+                else:
+                    await self.thread.send(c)
+            for m in msgs[len(chunks):]:
+                await m.delete()
+            await self.thread.edit(archived=self.was_archived)
             await inter.response.send_message('Kayıt güncellendi.', ephemeral=True)
         except discord.Forbidden:
             await inter.response.send_message('İzin hatası — thread düzenleyemiyorum.', ephemeral=True)
@@ -242,6 +276,7 @@ class DuzenleModal(discord.ui.Modal):
 
 
 @tree.command(name='kayit-duzenle', description='Kayıt metnini düzenle (yönetici)')
+@app_commands.guild_only()
 @app_commands.describe(kayit='Düzenlenecek kayıt')
 @app_commands.autocomplete(kayit=kayit_ac)
 async def kayit_duzenle(inter, kayit: str):
@@ -251,20 +286,24 @@ async def kayit_duzenle(inter, kayit: str):
     try:
         tid = int(kayit)
         th = await inter.guild.fetch_channel(tid)
-        msg = await th.fetch_message(tid)
+        msgs = [m async for m in th.history(limit=None, oldest_first=True)]
     except (discord.NotFound, ValueError):
         await inter.response.send_message('Kayıt bulunamadı.', ephemeral=True)
         return
     except discord.HTTPException as e:
         await inter.response.send_message(f'Discord hatası: {e.status}', ephemeral=True)
         return
-    old = msg.content
-    if old.startswith('http'):
-        old = old.split('\n', 1)[1] if '\n' in old else ''
-    await inter.response.send_modal(DuzenleModal(th, tid, old))
+    if not msgs:
+        await inter.response.send_message('Kayıt boş.', ephemeral=True)
+        return
+    old = ''.join(m.content for m in msgs)
+    modal = DuzenleModal(th, old, tail=old[4000:])
+    modal.was_archived = bool(th.archived)
+    await inter.response.send_modal(modal)
 
 
 @tree.command(name='index-yenile', description='Kayıt indeksini yeniden tara (yönetici)')
+@app_commands.guild_only()
 async def index_yenile(inter):
     if not is_admin(inter):
         await inter.response.send_message('Yetkin yok.', ephemeral=True)
@@ -364,23 +403,50 @@ async def on_thread_delete(th):
             log.info('Index -%s (%s)', th.name, th.id)
 
 
+async def member_log(m, join):
+    cid = LOG_CHANNELS.get(str(m.guild.id))
+    if not cid:
+        return
+    ch = bot.get_channel(int(cid))
+    if ch is None:
+        log.warning('Log kanalı bulunamadı: %s', cid)
+        return
+    await ch.send(embed=log_embed(m, join))
+
+
 @bot.event
 async def on_member_join(m):
-    cid = LOG_CHANNELS.get(str(m.guild.id))
-    if cid:
-        await bot.get_channel(int(cid)).send(embed=log_embed(m, True))
+    await member_log(m, True)
 
 
 @bot.event
 async def on_member_remove(m):
-    cid = LOG_CHANNELS.get(str(m.guild.id))
-    if cid:
-        await bot.get_channel(int(cid)).send(embed=log_embed(m, False))
+    await member_log(m, False)
+
+
+@tree.error
+async def on_app_error(inter, error):
+    log.exception('Komut hatası (%s)', getattr(inter.command, 'name', '?'),
+                  exc_info=error)
+    msg = 'Beklenmedik bir hata oluştu.'
+    try:
+        if inter.response.is_done():
+            await inter.followup.send(msg, ephemeral=True)
+        else:
+            await inter.response.send_message(msg, ephemeral=True)
+    except discord.HTTPException:
+        pass
+
+
+_TREE_SYNCED = False
 
 
 @bot.event
 async def on_ready():
-    await tree.sync()
+    global _TREE_SYNCED
+    if not _TREE_SYNCED:
+        await tree.sync()
+        _TREE_SYNCED = True
     await bot.change_presence(
         activity=discord.Activity(type=discord.ActivityType.watching,
                                   name='arşivi · /ara'))
