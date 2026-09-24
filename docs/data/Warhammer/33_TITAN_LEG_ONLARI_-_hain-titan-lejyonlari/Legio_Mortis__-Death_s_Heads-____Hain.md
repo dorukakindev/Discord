@@ -1,23 +1,23 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Legio_Mortis_Icon_Fancy.png/revision/latest?cb=20210504074913
 
--# THE IMPERIAL ARCHIVE · Hain Titan Lejyonları · Kayıt
-# Legio Mortis ("Death's Heads") — Hain
+-# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
+# Legio Mortis
 
-Imperial kayıtlarında hain Titan Legio'larının en kötü şöhretlisi olarak anılan kurumdur. Heresy'de Fabricator General Kelbor-Hal'i izleyerek Horus'un safına geçmiş, eski kardeşleri Ignatum ve Tempestus'la on bin yıl sürecek bir düşmanlığın içine girmiştir.
+-# *Olum Kafalari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629138693980331>
-- **Fraksiyon:** Dark Mechanicum — Traitor Titan Legio'ları
-- **Dönem:** Great Crusade'den M41'e
-- **Köken:** Mars; Mars'ın ilk üç Legio'sundan biri. Heresy sonrasında Eye of Terror'a çekilen hain kuvvetler arasında yer almıştır.
-- **Teknik / Biyolojik Özellikler:** Imperator sınıfı *Dies Irae*, Legio'nun en ünlü tanrı-makinesidir. Warp'ın dokunuşuyla değişen makineler Legio'nun sonraki imgesini biçimlendirir.
-- **Bilinen Kullanıcılar / Operatörler:** *Dies Irae* ve Princeps'i Esau Turnet (*Galaxy in Flames*).
-- **Önemli Olaylar:** Isstvan III; Schism of Mars; Beta-Garmon; Siege of Terra.
-- **Kanon Notu:** Legio'nun Chaos Gods'la ilişkisi farklı yayınlarda farklı vurgularla anlatılır; tek bir tanrıya adanmışlık bu kayıtta kesinleştirilmemiştir.
+Horus Sapkinligi'nda Warmaster'in safina gecen, Terror Gozu'nde varligini surduren en korkulan Hain Titan lejyonu.
 
 ## Tarihçe
+Legio Mortis, "Death's Heads" (Olum Kafalari) lakabiyla bilinen ve Terror Gozu icinde varligini surduren en kotu sohretli Hain Titan lejyonudur. Imparatorluk'tan once, Cekismeler Cagi'nda kurulmustur; Mars Lexmekanik efsanelerine gore Kizil Gezegen'i Cy-Carnivora ve mutant surulerinden almak icin yaratilan uc ozgun lejyon olan Triad Ferrum Morgulus'un bir parcasidir.
 
-Isstvan III'te virüs bombardımanından sağ kurtulan sadık Astartes'e karşı yürüyen kuvvetler arasındaydı. Schism of Mars'ta Kelbor-Hal'in yanında savaşıp Legio Tempestus'un yıkımında pay sahibi oldu. Beta-Garmon seferinde Horus'un son büyük saldırısının öncülerinden biri oldu; Siege of Terra'da ise Imperial Palace'ın surlarına yürüyerek Legio Ignatum'la hesaplaştı. Heresy'den sonra da Imperium'un karşısına çıkmayı sürdürdü.
+Horus Sapkinligi tam bir isyana donustugunde, hain Fabricator-General Kelbor-Hal Warmaster'in safini secti.
 
--# Kaynaklar: *Galaxy in Flames — Ben Counter*; *Mechanicum — Graham McNeill*; *Mortis — John French*
+Legio Mortis bu karari destekledi ve Yikici Gucler hizmetinde savasan ilk Titan lejyonlarindan biri oldu.
+
+İsstvan III'teki ihanetin ilk gününde de Legio Mortis sahadaydı: Warmaster'ın bombardımanından sağ çıkan sadık Astartes'lerin üzerine yürüyen titanlar, Death's Heads amblemli Warmonger ve Imperator makineleriydi. Aynı lejyon, Isstvan V'teki Dropsite Katliamı'nda ve daha sonra Terra Kuşatması'nda da ön saftaydı — Saray Kapıları'nın savunucularının üzerine ünlü savaş narasıyla çöktüler.
+
+Sapkınlık sonrası Kaos'un yıpratıcı etkisi lejyonu ağır ağır dönüştürdü: makineleri iblisleşti, princeps'leri koltuklarına kaynadı ve lejyon, Eye of Terror içindeki seferlerine devam etti. Legio Mortis bugün Abaddon'un Kara Haçlı Seferleri'nin en güvenilir ağır zırh gücüdür; Metalica ile olan kadim kan davası ise M41'de bile aralıksız sürmektedir.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 Legio Mortis ("Death's Heads") — Hain

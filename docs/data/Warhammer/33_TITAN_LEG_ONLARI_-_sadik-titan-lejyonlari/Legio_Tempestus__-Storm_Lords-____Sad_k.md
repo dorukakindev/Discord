@@ -1,26 +1,17 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/29/Legio_Tempestus_Legio_Icon.png/revision/latest?cb=20210508210912
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Tempestus ("Storm Lords") — Sadık
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Tempestus
 
-Schism of Mars'ta Kelbor-Hal'e karşı sadık kalıp neredeyse yok olan, küçük bir kalıntıdan yeniden doğan Legio'dur. Adı M41'de Orestes savunmasıyla birlikte anılır.
+-# *Firtina Lordlari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Great Crusade'den M41'e
-- **Köken:** Mars; Mars'ın ilk üç Legio'sundan biri. Heresy sonrası yeniden kurulan Legio daha sonra Forge World Orestes'le özdeşleşmiştir.
-- **Teknik / Biyolojik Özellikler:** Warlord ağırlıklı Battle Titan grupları; teknik ayrıntı için sınıf kayıtlarına bakınız.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Tempestus Princeps'leri; Heresy döneminde Legion Master Indias Cavalerio.
-- **Önemli Olaylar:** Schism of Mars; Orestes savunması (779.M41).
+Mars'ta dogan, Magma Sehri'ni savunan ve Mars Bolunmesi'nde Legio Mortis ile yok olana dek catisan Sadik lejyon.
 
 ## Tarihçe
+Legio Tempestus, "Stormlords" (Firtina Lordlari) olarak bilinen, Collegia Titanica'nin en eski ve saygin lejyonlarindan biridir. Legio Mortis ve Legio Ignatum ile birlikte uzak Cekismeler Cagi'nda Mars'ta kurulmus; bu uc lejyon Triad Ferrum Morgulus'u olusturmustur. Koken Forge World'u Mars'in disinda, Orestes donanim dunyasidir.
 
-Scrapcode'un Mars'ı felce uğrattığı ve Titan Legio'larının birbirine döndüğü Schism of Mars sırasında Tempestus, Legio Mortis'e karşı savaşarak ağır bir yıkıma uğradı. Hayatta kalanlar Heresy'den sonra Legio'yu yeniden kurdu. 779.M41'de, Sabbat Worlds Crusade döneminde Orestes'e saldıran Chaos Titan'larına karşı ilk savunma hattını Tempestus oluşturdu ve Legio Invicta'nın yardımıyla direnişini sürdürdü.
+Lakabini, lejyonun ustasi Indias Cavalerio'nun Epsiloid Ikili Yildiz Kumesi Savaslari'ndaki gezegen taarruzu becerisiyle kazandigi soylenir.
 
-## Kanon Notu
+Horus Sapkinligi sirasinda lejyon Sadik ve Hain unsurlara boldundu. Ana lejyon, yozlasmis Fabricator-General Kelbor-Hal'in dayattigi yeni duzene meydan okuyan Sadik bir donanim olan Magma Sehri'nin yardimina kostu.
 
-Bazı Heresy kaynakları Legio'nun bölündüğünü ve bir kısmının hainlere katıldığını aktarır; Schism'in ayrıntıları kaynaklar arasında farklı yoğunlukta anlatılır.
-
--# Kaynaklar: *Mechanicum — Graham McNeill*; *Titanicus — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551816635839549491>, <#1551650329156788287>, <#1551814951365115956>
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

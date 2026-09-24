@@ -1,25 +1,19 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Vulpa.jpg/revision/latest?cb=20190118222845
 
--# THE IMPERIAL ARCHIVE · Hain Titan Lejyonları · Kayıt
-# Legio Vulpa ("Death Stalkers") — Hain
+-# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
+# Legio Vulpa
 
-Horus'a ve Dark Mechanicum'a istekle hizmet eden, zamanla Khorne'a adanan Legio'dur. Yakın dövüşe ve acımasız av taktiklerine yaslanan savaş tarzı, Titan savaşının alışılmış doktrininden belirgin biçimde ayrılır.
+-# *Olum Sinsileri*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629138693980331>
-- **Fraksiyon:** Dark Mechanicum — Traitor Titan Legio'ları
-- **Dönem:** Horus Heresy'den 999.M41'e
-- **Köken:** Forge World Anvillus; Legio'nun bugünkü üssü bilinmemektedir.
-- **Teknik / Biyolojik Özellikler:** Yakın dövüş silahlarıyla donatılmış Warlord ve Reaver Titan'ları; daemonic bütünleşmenin ilk örnekleri bu Legio'yla ilişkilendirilir.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Vulpa Princeps'leri.
-- **Önemli Olaylar:** Schism of Mars; Molech; Beta-Garmon; Siege of Terra; 13th Black Crusade.
-- **Kanon Notu:** Daemon'la bütünleşmiş Titan'ların kökeni ve Banelord sınıfıyla ilişkisi kaynaklarda farklı ayrıntı düzeylerinde anlatılır.
+Anvillus'tan gelen, dusmanlarinin gozune bakarak savasmaktan zevk alan ve Khorne'a adanmis zalim Hain lejyon.
 
 ## Tarihçe
+Legio Vulpa, "Death Stalkers" (Olum Sinsileri) olarak bilinen, Imparator'a ettigi yeminleri reddedip Horus Sapkinligi sirasinda Warmaster Horus'un ardindan Yikici Gucler'in hizmetine giren bir Dark Mechanicum Hain Titan lejyonudur. Aslen Anvillus Forge World'unde uslenmis; Yythe ve Mars'ta ikincil donanim-kalelerine sahip olmustur.
 
-Heresy'de Schism of Mars, Molech, Beta-Garmon ve Siege of Terra gibi büyük seferlere katıldı. Great Crusade'de Dendritica'da başlayan Legio Solaria düşmanlığı Beta-Garmon'da kişisel bir kan davasına dönüştü; Guy Haley'nin *Titandeath* romanında Solaria'nın karşısındaki düşman Vulpa'dır. Word Bearers etkisiyle Khorne'a yönelen Legio'da daemon'la bütünleşmiş Princeps'ler ortaya çıktı. M41'in sonunda 13th Black Crusade'e katıldığı aktarılır.
+Legio Vulpa, "Death Stalkers" (Ölüm İzleyiciler) lakabıyla bilinen ve Nyrakan koloni dünyalarından gelen bir lejyondu. Vulpa'nın titanları plazma reaktörleri aşırı yüklü savaş makineleriydi; lejyon, makinelerini bilinçli olarak tehlikeli güç düzeylerinde çalıştırmasıyla ve princeps'lerinin ölümcül coşkusuyla ünlüydü.
 
--# Kaynaklar: *Titandeath — Guy Haley*; *Adeptus Titanicus: The Titandeath*
+Isstvan V'teki Dropsite Katliamı'nda Vulpa, ihaneti ilk uygulayan titan gruplarından biriydi — sadık lejyonlara sırt çevirip yürüyen ilk ölümcül dalga. Sapkınlık sonrası Warp'ın iblis etkisi lejyonun makinelerine içeriden nüfuz etti: Vulpa'nın sağ kalan titanları bugün yarı-iblis makineler olarak sayılır ve lejyon, hain safların en kararsız ama en yıkıcı güçlerinden biridir.
 
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551815867845578773>, <#1551638953101365340>, <#1551814951365115956>, <#1551650329156788287>
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 Legio Vulpa ("Death Stalkers") — Hain

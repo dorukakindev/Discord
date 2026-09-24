@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Nostramo_Great_Crusad
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
-# Nostramo — Nostramo
+# Nostramo
 
 Güneşsiz, suç batağı bir dünya; primarch Konrad Curze'nin terörle hizaya soktuğu, sonra kendi lejyonuna yok ettirdiği karanlık gezegen.
 

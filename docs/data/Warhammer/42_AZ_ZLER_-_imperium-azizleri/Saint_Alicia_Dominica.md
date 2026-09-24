@@ -12,4 +12,8 @@ Hikâyesi, İmparatorluk tarihinin en karanlık dönemlerinden biri olan Kanlı 
 
 San Leor dünyasındaki Daughters of the Emperor mezhebine mensup olan Dominica ve yoldaşları, çılgın Yüksek Lord Goge Vandire tarafından kandırılıp "Brides of the Emperor" adıyla onun kişisel muhafızlığına alınmıştı. Ancak Dominica, Vandire tarafından İmparatorluk Sarayı'nın altındaki tünellerden Altın Taht'ın huzuruna götürüldüğünde her şey değişti.
 
+## Tarihçe
+
+Order of Our Martyred Lady'nin ilk kurucu azizi; Vandire'in kılıcından İmparator'a dönen altın kadın. Sisters of Battle'ın anası.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

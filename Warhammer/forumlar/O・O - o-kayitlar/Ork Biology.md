@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/84/Storm_Boy_Rokkit_Pack.jpg/revision/latest?cb=20140726025257
+
 -# THE IMPERIAL ARCHIVE
 # Ork Biology
 

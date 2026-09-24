@@ -10,4 +10,8 @@ Aziz Dolan Chirosius, kökeni Chiros dünyasına dayanan ve "Büyük İtirafçı
 
 Dolan, isyancı dünya Gathalamor'a giderek onun koşulsuz teslimiyetini talep etti; ancak mekiği dünyaya yaklaşırken ele geçirildi ve İmparator'a karşı sapkınlık ve ihanetle suçlanarak tutuklandı.
 
+## Tarihçe
+
+Necromunda'nın muhalif azizi; zulme karşı pasif direnişin ikonu. Başkasının katlanamadığını katlanan adam.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

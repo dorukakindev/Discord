@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/aa/Mordian_Ironguards_by_jeenhoong.jpg/revision/latest?cb=20111019161851
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Mordian Iron Guard
 

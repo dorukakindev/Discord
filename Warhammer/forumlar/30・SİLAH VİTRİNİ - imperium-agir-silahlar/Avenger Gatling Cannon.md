@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1a/Avenger_Gatling_Cannon.jpg/revision/latest?cb=20150511191202
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Avenger Gatling Cannon
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/62/Tor_Garadon.png/revision/latest?cb=20191027102455
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Tor Garadon
 

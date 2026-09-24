@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/4/45/Hellmouth_of_the_north.jpg/revision/latest/scale-to-width-down/900?cb=20260419080859
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/4/45/Hellmouth_of_the_north.jpg/revision/latest/scale-to-width-down/900?cb=20260419080859)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Kuzey ve İrlanda Cehennem Ağızları — Kola Yarımadası'nın Yarığı ve Fatih Zacchur'un İstilası
 
@@ -18,6 +18,8 @@ Kudüs'teki büyük yarık özgün olandı, ama tek değildi. Cehennem, çağlar
 
 Bu kararsız tehdit, insanlığı yeni bir savunma biçimine zorladı. Strateji Kehaneti Sinodu (Synod of Strategic Prophecy), kapının bir sonraki belirişinin hem zamanını hem de sürekli kayan yerini önceden kestirmeye çalışıyordu; çünkü ancak böyle, Kuzey'in güçleri zamanında toplanıp onu karşılayabilirdi. Kuzey Kilisesi, Kalmar Birliği'nin orduları, Kuzey'in Şövalye Tarikatları ve Novgorod Çarlığı, bu kayan kapının nerede açılacağını bilemeden, her an savaşa hazır beklemek zorundaydı. Kuzey cephesi böylece bir bekleme ve kehanet savaşına dönüştü.
 
+---
+
 Bir başka kapı ise daha güneyde, İrlanda'da uzandı. Kanonik kayda göre 1807 yılında, Fatih Zacchur (Zacchur the Conqueror), uzun süredir uykuda kalan bir Cehennem Ağzı'nı Eire'de (İrlanda) açtı; amacı, Yedi Başlı Yılan Sarayı'nın (Court of the Seven-Headed Serpent) güçleriyle adayı istila etmekti. On dokuzuncu yüzyılın büyük Sapkın istilasının parçası olan bu kapı, yıllarca açık kaldı. Sonunda 1890 yılında, Paladin Anseis bu portali kapatmayı başardı ve istilayı sona erdirdi. Bu ikincil ağızlar, Trench Crusade dünyasında Cehennem tehdidinin yalnızca Levant'la sınırlı olmadığını gösterir: yarık, dünyanın herhangi bir yerinde yeniden açılabilir, ve insanlık her cephede, her an tetikte yaşamak zorundadır.
 
 ## Sonuçları
@@ -29,3 +31,7 @@ Bir başka kapı ise daha güneyde, İrlanda'da uzandı. Kanonik kayda göre 180
 - 1890'da Paladin Anseis bu İrlanda kapısını kapatır
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504>

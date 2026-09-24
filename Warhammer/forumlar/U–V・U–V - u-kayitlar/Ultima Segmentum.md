@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/be/Segmentum_ultima.jpg/revision/latest?cb=20120406195349
+
 -# THE IMPERIAL ARCHIVE · U Kayıtları
 # Ultima Segmentum
 

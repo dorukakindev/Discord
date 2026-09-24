@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Cadia.jpg/revision/latest?cb=20100408114727
 
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Cadia.jpg/revision/latest?cb=20100408114727
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Cadia — Cadia (Düştü)

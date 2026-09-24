@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/97/Chronicle.jpg/revision/latest?cb=20110811234448
+
 -# THE IMPERIAL ARCHIVE
 # Imperial Dating System
 

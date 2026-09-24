@@ -10,4 +10,8 @@ The Lion Sword (Aslan'ın Kılıcı), Dark Angels'ın (I. Lejyon) primarch'ı, "
 
 Lion El'Jonson, Büyük Haçlı Sefer'in en büyük savaşçı-stratejistlerinden biriydi; soğukkanlı, gururlu ve dahi bir komutan. Bu kılıcı, Caliban'ın orman dünyasından galaksinin uzak köşelerine kadar taşıdı; onunla canavarları, xenosları ve Heresy sırasında hainleri biçti. Kılıç, Aslan'ın disiplinli ve ölümcül savaş sanatının bir uzantısıydı.
 
+## Tarihçe
+
+Lion El'Jonson'un kılıcı; Dark Angels'ın en kutsal silahı. Caliban'ın son kesiminden — Chapter'ın kırık zinciri.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

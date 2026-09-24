@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Sanguinius_Sketch_HH8.png/revision/latest?cb=20190228081314
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Sanguinius
 *Melek*
@@ -8,4 +10,6 @@ Sanguinius, radyasyonla kavrulmuş ölüm dünyası Baal'ın mutant kabileleri a
 
 İmparator onu IX. Lejyon Blood Angels'ın başına geçirdi ve Sanguinius, hem kardeşleri hem sıradan insanlar için bir ideal haline geldi; güzelliği, fedakarlığı ve onuru ona neredeyse melek gibi bir saygı kazandırdı. Ama kanatları gibi gen-tohumu da bir sır taşıyordu: gizli bir genetik kusur, gelecekteki lanetlerin tohumu.
 
+## Sapkınlık ve Ölüm
+Horus Heresy sırasında Sanguinius, Signus Prime'da Kaos'un tuzağına düştü: iblis Ka'Bandha ve Bloodthirster ordusu onu ölümle yüzleştirdi; melek direndi ve lejyonunu kurtardı. Terra Kuşatması'nda Eternity Kapısı'nı tek başına savundu ve sonunda Vengeful Spirit'e çıkarak Horus'un karşısına dikildi. Öleceğini bile bile savaştı; Horus onu parçaladı. Ölüm çığlığı tüm Blood Angels gen-hattına kazındı: Kara Öfke (Black Rage) ve Kan Susuzluğu (Red Thirst) lanetleri onun mirasıdır. Bugün İmparatorluk'un en sevilen azizidir; Sanguinala yortusu ona adanmıştır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

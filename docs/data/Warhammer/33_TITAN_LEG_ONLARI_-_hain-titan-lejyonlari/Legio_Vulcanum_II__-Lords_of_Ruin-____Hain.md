@@ -1,19 +1,16 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/73/Legio_Vulcanum_Lords_of_Ruin_Icon_Fancy.png/revision/latest?cb=20211206170509
 
--# THE IMPERIAL ARCHIVE · Hain Titan Lejyonları · Kayıt
-# Legio Vulcanum II ("Lords of Ruin") — Hain
+-# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
+# Legio Vulcanum II
 
-Stygies VIII'in ikinci hain lejyonu; klonlama geleneği ve makine-ruhlarını bölen kara ritüeliyle Vulcanum I'in ikizi olan lejyon.
+-# *Yikim Lordlari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629138693980331>
-- **Fraksiyon:** Dark Mechanicum — Traitor Titan Legio'ları
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Ultima Segmentum — Vulcanis Sistemi, Stygies VIII Forge World'ü
+Stygies VIII'in ikinci Hain lejyonu; klonlama gelenegi ve makine-ruhlarini bolen kara ritueliyle Vulcanum I'in ikizi olan lejyon.
 
 ## Tarihçe
-Legio Vulcanum II, "Lords of Ruin" (Yıkım Lordları) olarak bilinen, Imperator'a ettiği yeminleri reddedip Horus Heresy sırasında Ruinous Powers'ın (Yıkıcı Güçler) hizmetine giren bir Dark Mechanicum hain Titan lejyonudur. Kardeş lejyon Legio Vulcanum I ("Dark Fire") ile birlikte, Ultima Segmentum'daki Vulcanis Sistemi'nde, devasa halkalı bir gaz devinin yörüngesindeki Stygies VIII Forge World'ünden gelir.
+Legio Vulcanum II, "Lords of Ruin" (Yikim Lordlari) olarak bilinen, Imparator'a ettigi yeminleri reddedip Horus Sapkinligi sirasinda Yikici Gucler'in hizmetine giren bir Dark Mechanicum Hain Titan lejyonudur. Kardes lejyon Legio Vulcanum I ("Dark Fire") ile birlikte, Ultima Segmentum'daki Vulcanis Sistemi'nde, devasa halkali bir gaz devinin yorungesindeki Stygies VIII Forge World'unden gelir.
 
-Stygies VIII, Terror Gözü'ne yakınlığı ve maruz kaldığı Kaos saldırısı riski nedeniyle iki ayrı Titan lejyonuyla ödüllendirilmişti; bu iki lejyon galaktik kuzeyden gelen istilacılara karşı nöbet tutuyordu. Lords of Ruin, klonlanmış mürettebat geleneği ve makine-ruhlarını ikiye bölen karanlık ritüelleriyle kardeş lejyonundan ayrılır.
+Stygies VIII, Terror Gozu'ne yakinligi ve maruz kaldigi Kaos saldirisi riski nedeniyle iki ayri Titan lejyonuyla odullendirilmisti; bu iki lejyon galaktik kuzeyden gelen istilacilara karsi nobet tutuyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

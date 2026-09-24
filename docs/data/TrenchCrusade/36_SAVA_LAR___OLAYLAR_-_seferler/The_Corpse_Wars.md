@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_Vessel.jpg/revision/latest/scale-to-width-down/900?cb=20250428031535
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/d/d3/Metastatic_Vessel.jpg/revision/latest/scale-to-width-down/900?cb=20250428031535)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # The Corpse Wars — Beelzebub'un Kara Kâsesi ve Ceset Savaşları
 
@@ -18,6 +18,8 @@ Cehennem'in tek tehdidi orduları değildi; bazen en büyük dehşet, görünmez
 
 Beelzebub, Cehennem'in diğer lordlarından farklıydı; onlar çoğunlukla ölümlü kullarının elinden iş görürken, Sinek Efendisi periyodik olarak güç kazandığında bizzat kendi vebasını gönderirdi. Kara Kâse'nin asıl dehşeti, ilk etkilerinde değildi: eğer önlemler yetersiz ya da gecikmiş olursa, hastalığa yenik düşenlerin bedenleri ayağa kalkardı. Ne canlı ne ölü olan bu bedenler, iblissel bir iradeyle hareket eden, lanetin yayılmasına hizmet eden kaplara dönüşürdü. Bu yürüyen cesetler, her tür yaşamı bulup enfekte etmek için savaş çeteleri hâlinde örgütlenirdi.
 
+---
+
 Vebanın en yozlaşmış kurbanları daha karanlık bir kadere uğradı: kutsanmamış Sinek Tarikatı'na (Order of the Fly) kabul edilip Veba Şövalyeleri (Plague Knights) hâline getirildiler. Cehennem-sinekleriyle birleştirilen bu varlıklar, şişmiş etten yapılma grotesk kanatlı böceklere dönüştü; işkenceli bir başkalaşımdan sonra göğe yükselip Beelzebub'un Habercileri (Heralds of Beelzebub) oldu, Tarikat'ın kanatlı casusları ve öncüleri. Ceset Savaşları, Trench Crusade dünyasında Cehennem'in bir başka yüzünü gösterir: orduların değil, bir vebanın getirdiği yıkımı. O yıllar, Avrupa'nın canlıları ile ölülerinin aynı toprakta savaştığı, ve Sinek Efendisi'nin gülen gölgesinin bir kıtanın üzerine düştüğü çağdır.
 
 ## Sonuçları
@@ -29,3 +31,7 @@ Vebanın en yozlaşmış kurbanları daha karanlık bir kadere uğradı: kutsanm
 - İnsanlık tarihinin gördüğü en büyük veba, Avrupa'yı kasıp kavurur
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504> <#1551932025928286280> <#1551932029560430673> <#1551932044617977951>

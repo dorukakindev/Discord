@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/af/Necromunda_Map.jpg/re
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Necromunda — Necromunda
+# Necromunda
 
 Gökyüzünü delen devasa kovan-şehirleriyle dolu, milyarlarca insanın üst üste yaşadığı endüstri dünyası.
 

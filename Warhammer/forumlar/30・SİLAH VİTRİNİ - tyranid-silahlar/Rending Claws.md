@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Ashen_Claws_Icon.jpg/revision/latest?cb=20160823051419
+
 -# THE IMPERIAL ARCHIVE · Tyranid Silahlar · Kayıt
 # Rending Claws
 

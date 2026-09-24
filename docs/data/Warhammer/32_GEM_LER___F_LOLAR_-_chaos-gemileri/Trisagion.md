@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f6/Wordbearers_l.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 
 # Trisagion

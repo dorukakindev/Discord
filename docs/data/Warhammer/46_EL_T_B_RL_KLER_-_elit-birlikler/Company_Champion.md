@@ -8,4 +8,8 @@ Bölük komutanını koruyan ve onun adına düello eden seçkin yakın dövüş
 
 Company Champion (Bölük Şampiyonu), bir Space Marine bölüğünün en usta yakın dövüş savaşçısıdır; tek bir kutsal görevi vardır: bölük komutanını (Captain) korumak ve onun adına en tehlikeli düşmanlarla düello etmek. Bir bölüğün şampiyonu, büyük bir özenle seçilir; çünkü onun savaş ustalığı, komutanının yaşamı ile ölümü, dolayısıyla bütün bir savaşın zaferi ile yenilgisi arasındaki fark olabilir. Bu yüzden Company Champion, hem bir koruyucu hem de bir avcıdır; kardeşliğin en keskin bıçaklarından biridir.
 
+## Tarihçe
+
+Her Company'nin en iyi düellocu; Captain'in sağ kolu ve en zor işleri alan savaşçı. Şerefin kılıcı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

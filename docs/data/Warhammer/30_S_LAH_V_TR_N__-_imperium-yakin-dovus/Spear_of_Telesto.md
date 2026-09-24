@@ -8,6 +8,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/55/Sanguinius_Spear_of_T
 ## Not
 Mızrak, kana dönmeyecek kadar eski bir üretimdir ve Blood Angels tarihindeki en kutsal kalıntılardan biridir. Arkio'nun düşüşü sırasında hem simge hem silah olarak kullanıldı.
 
+https://static.wikia.nocookie.net/warhammer40k/images/5/55/Sanguinius_Spear_of_Telesto.png/revision/latest?cb=20201020071059
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Spear of Telesto — Telesto'nun Mızrağı

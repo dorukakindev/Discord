@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9d/Cylic_ion_blaster.jpg/revision/latest?cb=20140312073538
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Cyclic Ion Blaster
 

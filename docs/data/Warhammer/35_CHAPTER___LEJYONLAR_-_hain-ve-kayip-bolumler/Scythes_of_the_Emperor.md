@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7f/ScythesoftheEmperor.jpg/revision/latest?cb=20260109164450
 
+https://static.wikia.nocookie.net/warhammer40k/images/7/7f/ScythesoftheEmperor.jpg/revision/latest?cb=20260109164450
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Scythes of the Emperor — İmparator'un Tırpanları

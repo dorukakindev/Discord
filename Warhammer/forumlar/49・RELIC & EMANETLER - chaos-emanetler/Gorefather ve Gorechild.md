@@ -10,4 +10,8 @@ Gorefather ve Gorechild (Kan Baba ve Kan Çocuk), World Eaters lejyonunun en kan
 
 Baltaların yapımı bile bir destandır; dönen, parçalayan dişleri, Luther McIntyre adlı ölüm dünyasındaki dev Mica Ejderhalarının çenelerinden sökülmüş, sapları ise adamantium'dan dövülmüştü. Angron, kölelik arenalarından bir primarch'a yükselen bu trajik figür, ikisini birden savurarak savaş alanlarında bir kasırga gibi hareket eder; en güçlü zırhı bile kâğıt gibi yarardı.
 
+## Tarihçe
+
+Angron'un ikiz zincir baltası; World Eaters'ın en eski silahları. Kesmek için değil parçalamak için — öfkenin metal hali.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

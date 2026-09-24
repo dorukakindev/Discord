@@ -1,23 +1,19 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/24/Astorum-Logo.jpg/revision/latest?cb=20200208082645
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Astorum ("Warp Runners") — Sadık
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Astorum
 
-Mavi ve altın renkleriyle tanınan, Heresy'de tereddüt etmeden hainlerin karşısına çıkan Legio'dur. Knight Haneleriyle, özellikle House Terryn'le kurduğu savaş ortaklığı kayıtlarda sıkça öne çıkar.
+-# *Warp Kosuculari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Segmentum Obscurus'taki Forge World Lucius; içindeki yapay güneşi nedeniyle "Hollow Forge" olarak anılan oyuk dünya.
-- **Teknik / Biyolojik Özellikler:** Collegia sınıflarının tamamını kullanır; Lucius, Legio'nun bakım ve üretim merkezidir.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Astorum Princeps'leri; müttefik House Terryn.
-- **Önemli Olaylar:** Tallarn; Beta-Garmon; Siege of Terra.
-- **Kanon Notu:** Legio'nun eski yayınlarda farklı renk düzenleriyle gösterildiği görülür; M41 görev kayıtları dağınıktır.
+Lucius'un Kara Gunesi altinda dogan, savasin temposunu belirleyen ve dogrudan catismaya isinlanabilen Sadik lejyon.
 
 ## Tarihçe
+Legio Astorum, "Warp Runners" (Warp Kosuculari) olarak bilinen, Segmentum Obscurus'taki Lucius Forge World'une dayanan kadim ve onurlu bir Sadik Titan lejyonudur. Cekismeler Cagi'nda, Imparatorluk Cagi'ndan once kuruldugu sanilir; en az Buyuk Hacli Seferi'nden bu yana etkin oldugu bilinir ve Horus Sapkinligi'nda Sadik tarafta savasmistir.
 
-Heresy boyunca Astorum, Tallarn'ın ve Beta-Garmon'un yıpratıcı muharebelerine katıldı; Titan'ların birbirini parçaladığı ve "Titandeath" adıyla anılan Beta-Garmon savaşlarında House Terryn gibi sadık Hanelerin Knight'ları yanında yürüdü. Ardından Terra'nın savunmasında yer aldı. Sonraki binyıllarda da Imperium'un savaşlarında hizmetini sürdürdü.
+Warp Kosuculari, savasin temposunu belirlemekle ve catismanin sesine hizla yurumekle un salmistir; tanri-makineleri dev adimlariyla kilometreleri yutar.
 
--# Kaynaklar: *The Titandeath*; *Adeptus Titanicus: Loyalist Legios*
+Lejyonun Titanlari, dogrudan savas alanina isinlanabilecek kadar gelismis tek tanri-makineler olarak anilir; bu kabiliyet onlara essiz bir taktiksel hareketlilik kazandirir.
 
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551753465900961795>, <#1551809039342501970>, <#1551814951365115956>
+Lejyonun renkleri agirlikli olarak altin vurgulu mavidir.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

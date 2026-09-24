@@ -2,7 +2,7 @@ https://wh40k.lexicanum.com/mediawiki/images/2/2b/Galaxy-Rift-Obscurus.jpg
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
-# Medrengard — Medrengard
+# Medrengard
 
 Perturabo'nun Iron Warriors lejyonunun Göz içindeki demir ve zincir dünyası; baştan başa hapishane, sur ve işkence makineleriyle kaplı.
 

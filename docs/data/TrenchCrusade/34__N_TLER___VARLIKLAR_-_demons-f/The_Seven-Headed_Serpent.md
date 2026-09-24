@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.png/revision/latest/scale-to-width-down/888?cb=20260914184918
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.png/revision/latest/scale-to-width-down/888?cb=20260914184918)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # The Seven-Headed Serpent — Yedi Başlı Yılan, Cehennem'in Yedi Baş İblisi Olan Kozmik Varlık
 
@@ -18,6 +18,8 @@ Yedi Başlı Yılan (The Seven-Headed Serpent), Trench Crusade evreninde Cehenne
 
 Bu baş iblisler, sıradan canavarlar değildir; her biri, İlk İsyan'da (First Rebellion) YHWH'ye baş kaldırıp gökten yanan yıldızlar gibi düşen meleklerin en yücelerindendir. Açgözlülüğün başı Mammon, hasetin başı Moloch, gururun büyük dükü Eligos ve oburluğun en güçlü iblisi Beelzebub, bu başların en bilinenleridir. Her baş kendi soyluluk diyarına, kendi ordularına ve kendi açlığına sahiptir; yine de hepsi aynı yılan etinin uzantısıdır. Yedi başın hiçbiri ötekine güvenmez; her biri, bir gün tüm gövdeye tek başına hükmetmenin hayalini kurar, ve böylece varlık, kendi içinde sonu gelmez bir iktidar kavgasıyla kıvranır durur.
 
+---
+
 Yedi Başlı Yılan, Trench Crusade'in cehennem kozmolojisinin tam kalbidir. Çünkü Cehennem, tek bir kralın mutlak hükmü altında değil; yedi başın çekiştirdiği, daimî entrikaların ve değişen ittifakların biçimlendirdiği canlı, kötücül bir bütündür. Yılanın başları, Yeryüzü'ne kendi ordularını, av partilerini ve lanetlerini salar; ama bunu, Cennet ile doğrudan bir çatışmayı tetiklememek için Cehennem'in kadim yasalarına uyarak yapar. Bir başın saraydaki yükselişi (örneğin Moloch'un Haset Başı'na, Eligos'un Gurur Başı'na oturması), doğrudan Yeryüzü'ndeki bir bölgenin kaderini değiştirir. Yedi Başlı Yılan, bu evrende kötülüğün kaotik değil; örgütlü, bürokratik ve dehşet verici biçimde akılcı bir varlık olduğunu gösterir: yedi başlı bir canavar ki, kendi soyluluk unvanları, diyarları ve bitmeyen taht kavgalarıyla, ele geçirmeye çalıştığı krallıkların en karanlık aynasıdır.
 
 ## Güçler
@@ -29,3 +31,7 @@ Yedi Başlı Yılan, Trench Crusade'in cehennem kozmolojisinin tam kalbidir. Ç�
 - Yeryüzü'ne karşı Büyük Savaş'ın gidişatını fermanlarıyla belirler
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978> <#1551932025928286280>

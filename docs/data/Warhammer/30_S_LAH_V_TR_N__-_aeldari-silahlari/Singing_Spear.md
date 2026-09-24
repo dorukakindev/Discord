@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/88/Eldar_Warlock_Spear.jpg/revision/latest?cb=20130506184046
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Singing Spear
 

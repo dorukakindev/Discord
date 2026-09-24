@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f9/TheWarmasterCover.jpg/revision/latest?cb=20171226195636
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # the Warmaster
 

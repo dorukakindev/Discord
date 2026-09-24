@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cf/Rosarius_Astartes.png/revision/latest?cb=20150809232510
+
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Rosarius
 

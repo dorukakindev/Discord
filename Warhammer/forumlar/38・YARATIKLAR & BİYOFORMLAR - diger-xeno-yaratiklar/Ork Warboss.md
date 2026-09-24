@@ -8,4 +8,8 @@ Bir Ork sürüsünün en büyük, en güçlü ve en savaş görmüş üyesi; cep
 
 Ork Warboss, bir Ork sürüsünün, klanının ya da tam ölçekli bir WAAAGH!'ın en tepesindeki savaş lordudur; sıradan Boyz'un da, Nobz'un da üstündedir. Bir Warboss, herhangi bir grubun en büyük, en güçlü ve en çok savaş görmüş Ork'udur, çünkü Orklar dövüşerek büyür ve o, en çok dövüşü kazanmış olandır. Cepheden yönetir; çatışmanın en yoğun yerine bizzat dalar ve hiçbir Ork'un karşı çıkmaya cüret edemeyeceği kaba bir otoriteyle komuta eder. Fiziksel kütlesi, tam zırhlı bir Space Marine'i bile aşar ve kazanmayı sürdürdükçe büyümeye devam eder.
 
+## Tarihçe
+
+Ork toplumunun en tepesi; en büyük ve en sert Ork. WAAAGH!'ları toplar, klanları birleştirir, savaşı yönetir — Ork medeniyetinin tek yönetim biçimi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

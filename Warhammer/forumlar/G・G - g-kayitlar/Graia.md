@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Graia_Skitarii_Icon.png/revision/latest?cb=20150420183943
+
 -# THE IMPERIAL ARCHIVE
 # Graia
 

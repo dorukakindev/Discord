@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/27/ContemptorVolkiteCulverin00.jpg/revision/latest?cb=20170413142459
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Volkite Culverin
 

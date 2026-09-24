@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/54/Brazen_Claws_Livery.jpg/revision/latest?cb=20170613013050
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Brazen Claws
 

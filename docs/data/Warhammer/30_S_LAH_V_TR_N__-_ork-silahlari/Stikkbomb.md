@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e4/Stikkbomb.jpg/revision/latest?cb=20121113224329
+
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Stikkbomb
 

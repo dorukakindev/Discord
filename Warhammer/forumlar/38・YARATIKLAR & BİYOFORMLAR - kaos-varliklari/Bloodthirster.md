@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/17/Bloodthirster_by_columbussage-d47j02l.jpg/revision/latest?cb=20120117042500
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Bloodthirster
 

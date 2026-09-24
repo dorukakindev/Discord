@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Techpriest2.jpg/revision/latest?cb=20111026163206
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Tech Priests
 

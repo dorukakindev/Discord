@@ -1,21 +1,20 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Nova_Guard_Legio_Heraldry.png/revision/latest?cb=20210505224817
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Defensor ("Nova Guard") — Sadık
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Defensor
 
-Satyraes XII'nin ikiz güneşleri altında doğan, Imperial Creed'e en çok bağlanan ve Beta-Garmon'da harap olan sadık lejyon.
+-# *Nova Muhafizlari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Satyraes XII Forge World'ü
+Satyraes XII'nin ikiz gunesleri altinda dogan, Imparatorluk Inanci'na en cok baglanan ve Beta-Garmon'da harap olan Sadik lejyon.
 
 ## Tarihçe
-Legio Defensor, "Nova Guard" (Nova Muhafızları) olarak da bilinen sadık bir Titan lejyonudur. Sembolü, anavatanları Satyraes XII'nin geyiğinin Forge World'ün ikiz güneşleriyle aydınlanmış halidir.
+Legio Defensor, "Nova Guard" (Nova Muhafizlari) olarak da bilinen Sadik bir Titan lejyonudur. Sembolu, anavatanlari Satyraes XII'nin geyiginin donanim dunyasinin ikiz gunesleriyle aydinlanmis halidir.
 
-Büyük Haçlı Seferi'nin ilk günlerinde Nova Guard, Word Bearers lejyonunun etkisiyle Lectitio Divinitatus öğretilerine tutuldu; tüm Titan lejyonları arasında erken Imperial Creed'e yemin etmiş en çok sayıda üyeyi Nova Guard barındırıyordu. Bu inanç, lejyonun Horus Heresy boyunca sergilediği sarsılmaz sadakatin de ruhani temelini oluşturdu.
+Buyuk Hacli Seferi'nin ilk gunlerinde Nova Muhafizlari, Word Bearers Uzay Denizcileri Lejyonu'nun etkisiyle Lectitio Divinitatus ogretilerine tutuldu; tum Titan lejyonlari arasinda erken Imparatorluk Inanci'na yemin etmis en cok sayida uyeyi Nova Guard barindiriyordu.
 
-Heresy sırasında Nova Guard, Tarren Baskını'nda hain-yandaşı şehirleri vahşi bir ibret olarak cezalandırdı; lejyon sonradan Beta-Garmon'daki Titan katliamında ağır yıkıma uğradı.
+Bu inanc, lejyonun Sapkinlik boyunca sergiledigi sarsilmaz sadakatin de ruhani temelini olusturdu.
+
+Sapkinlik sirasinda Nova Muhafizlari, Tarren Bastirmasi'nda Hain-yandasi sehirleri vahsi bir ibret olarak cezalandirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

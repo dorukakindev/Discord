@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429
 
+https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Psyker — Psişik / Büyücü

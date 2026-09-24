@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/a/a3/Mike-franchina-black-grail-herald-of-beelzebub.jpg/revision/latest/scale-to-width-down/900?cb=20250428030232
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/a/a3/Mike-franchina-black-grail-herald-of-beelzebub.jpg/revision/latest/scale-to-width-down/900?cb=20250428030232)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Herald of Beelzebub — Beelzebub'un Habercisi, Sinek Tarikatı'nın Kanatlı Uçan Dehşeti
 
@@ -18,6 +18,8 @@ Beelzebub'un Habercisi (Herald of Beelzebub), Trench Crusade'de Kara Kâse vebas
 
 Bu dönüşümün en tüyler ürpertici yanı, kurbanın asla tam olarak ölmemesidir. Habercinin içindeki vestijiyal insan bedeni, hâlâ bilinçlidir; o zavallı varlık, içten içe yavaş yavaş yenirken, Haberci tarafından yakıt olarak kullanılır. Böylece çarpıtılmış beden, kendi iradesi dışında, Cehennem'in görkemi için savaşmaya zorlanır; insan ruhu, kendi etinin bir canavarın enerjisine dönüştürülüşüne tanık olarak, sonsuz bir tutsaklık içinde acı çeker. Bu, Beelzebub'un zalimliğinin saf bir ifadesidir: ölüm bile bir kaçış değil, yalnızca daha derin bir işkencenin başlangıcıdır.
 
+---
+
 Beelzebub Habercileri, Kara Kâse'nin her saldırısında öncü kuvvettir. Kanatlarının çıkardığı sağır edici, kulak parçalayan vızıltı, her savunmacının yüreğine dehşet salar; bu ses, savunmacıların odaklanmasını dağıtır ve iradelerini sömürür. Habercilerin taşıdığı silahlar, savaş alanından devşirilmiş, ama parazit solucanlarla kirletilmiş atık silahlardır; bu solucanlar silahların içinde kıvranır ve yaraladıkları herkesi enfekte ederek vebayı daha da yayar. Beelzebub'un Habercisi, Trench Crusade'de bireysel acının silaha dönüştürülmesini temsil eder: bir insanın bedeni ve bilinci, kendi rızası dışında, vebayı yayan kanatlı bir dehşete çevrilir, ve böylece Kara Kâse'nin çürümesi, gökyüzünü de ele geçirir.
 
 ## Güçler
@@ -29,3 +31,7 @@ Beelzebub Habercileri, Kara Kâse'nin her saldırısında öncü kuvvettir. Kana
 - Solucan bulaşmış kirli silahlar taşır; kurbanları enfekte eder
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932221336846397> <#1551932025928286280> <#1551932029560430673>

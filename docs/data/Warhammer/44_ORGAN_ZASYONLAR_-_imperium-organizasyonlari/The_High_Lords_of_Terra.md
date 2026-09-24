@@ -10,4 +10,8 @@ The High Lords of Terra (Terra'nın Yüksek Lordları), İmparatorluğun fiili y
 
 Teorik olarak, Yüksek Lordlar İmparator'un kutsal iradesini hayata geçiren bilge yöneticilerdir; pratikte ise durum çok daha karanlıktır. İmparator gerçekte ne istediğini söyleyemediği için, bu "irade yorumu" sonu gelmez bir entrika, bürokrasi ve iktidar mücadelesi anlamına gelir. Her Yüksek Lord (Ecclesiarch, Adeptus Mechanicus temsilcisi, Master of the Administratum vb.), kendi kurumunun çıkarını ve kendi gücünü artırmaya çalışır.
 
+## Tarihçe
+
+İmparatorluk'un on iki efendisi; Terra'dan galaksiyi yöneten konsey. İmparator'un sessizliğinde onlar konuşur.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

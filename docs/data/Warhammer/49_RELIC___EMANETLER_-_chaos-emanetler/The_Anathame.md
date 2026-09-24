@@ -8,4 +8,8 @@ Interex'in "anathame" dediği, Kinebrach yapımı yarı-bilinçli xenos bıçağ
 
 The Anathame (Lanetli Bıçak), tüm Horus Heresy'yi başlatan tek silahtır; görünüşte yalnızca kadim bir xenos bıçağı, gerçekte galaksinin kaderini değiştiren bir lanetin keskin ucudur. Kökeni, İmparatorluk'tan çok daha eski ve bazı yönlerden daha gelişmiş bir uygarlığa, Interex'in tabi ortağı maymunsu Kinebrach türüne dayanır. Interex, bu tür tehlikeli silahları "anathame" diye sınıflar ve onları Xenobia Principis'teki Aletler Salonu denen bir müze-arşivde kilit altında tutardı.
 
+## Tarihçe
+
+Plague-bearing kılıcın bilinen adı; zehriyle seçilmiş öldürücü. Her şeyi öldüren — Horus'u bile.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

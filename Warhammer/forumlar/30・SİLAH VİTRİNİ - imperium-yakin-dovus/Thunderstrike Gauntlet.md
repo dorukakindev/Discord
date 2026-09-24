@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/78/ThunderstrikeGauntlet001.png/revision/latest?cb=20171209162140
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Thunderstrike Gauntlet
 

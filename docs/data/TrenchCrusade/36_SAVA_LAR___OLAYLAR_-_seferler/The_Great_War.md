@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/Trench-Crusade-Shocktroopers_Fight.webp/revision/latest/scale-to-width-down/900?cb=20250428004206
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/9/95/Trench-Crusade-Shocktroopers_Fight.webp/revision/latest/scale-to-width-down/900?cb=20250428004206)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # The Great War — 1914, Siperlerdeki Büyük Çıkmaz
 
@@ -18,6 +18,8 @@ Tüm bu çağların, ihanetlerin, vebaların ve fetihlerin geldiği yer, 1914 y�
 
 Manzara, bir cehennem tablosudur. Yeryüzü, binlerce kilometre uzanan çamur, siper ve krater ağıyla örülmüştür; devasa topçu bombardımanları Hiç Kimsenin Toprağı'nı (No Man's Land) delik deşik eder ve dünya üzerinde bir cehennem peyzajı yaratır. Yine de, tüm bu yıkıma rağmen, iki taraftan hiçbiri kesin bir üstünlük sağlayamaz. Ordular, açtıkları yaralar kapanmadan birbirlerine saplanmış hâlde, bir çıkmazın (stalemate) içinde donup kalmıştır. Mermiler, süngüler ve kutsanmamış güçler, ruhlar için verilen bir savaşta durmadan çarpışır.
 
+---
+
 Bu çıkmazın içinde, asıl savaş Hiç Kimsenin Toprağı'nda verilir. O geniş çamur denizinde, imanlılar ile sapkınlar; istihbarat, güçlü kutsal emanetler ve stratejik açıdan kritik mevziler için giderek şiddetlenen baskınlar ve çatışmalar yürütür. Bir yanda Yeni Antakya'nın askerleri, Demir Sultanlık'ın simyacıları, Cennet tarafından dokunulmuş Siper Hacıları (Trench Pilgrims) ve Yaşayan Azizler; diğer yanda Sapkın Lejyonları, Kara Kâse'nin yürüyen ölüleri ve Yedi Başlı Yılan Sarayı'nın iblisleri. 1914, modern ateşli silahların iblis çağırmayla, makineli tüfeklerin mucizevi imanla yan yana savaştığı çağdır. Trench Crusade'in tüm hikâyesi bu ana akar: sekiz yüzyıllık bir savaşın donmuş, çamura saplanmış, ama bir an bile dinmeyen bugününe.
 
 ## Sonuçları
@@ -29,3 +31,7 @@ Bu çıkmazın içinde, asıl savaş Hiç Kimsenin Toprağı'nda verilir. O geni
 - Modern ateşli silahlar, iblis çağırma ve mucizevi iman bir arada savaşır
 
 -# Kaynaklar: Timeline (Digital Rulebook 1.0.2)
+
+---
+
+-# Çapraz: <#1551932262713659504> <#1551932071453401199>

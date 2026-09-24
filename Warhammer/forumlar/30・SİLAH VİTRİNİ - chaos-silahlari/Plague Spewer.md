@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4c/PlagueSpewerBlightlordTerminator.jpg/revision/latest?cb=20181102223954
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Plague Spewer
 

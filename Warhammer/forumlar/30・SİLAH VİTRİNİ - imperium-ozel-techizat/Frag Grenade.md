@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Stormtrooper_grenades.jpg/revision/latest?cb=20130130043240
+
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Frag Grenade
 

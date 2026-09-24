@@ -1,23 +1,19 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Legio_Metalica_Icon_Pre-Heresy.png/revision/latest?cb=20211211072253
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Metalica ("Iron Skulls") — Sadık
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Metalica
 
-Kızıl renkleriyle tanınan ve kökünü Imperium'un kuruluşundan önceye dayandıran kadim bir Legio'dur. Kaynaklar onu zafer kaydı en parlak Legio'lardan biri olarak sunar; bu, Collegia'nın kendi övgüsü olarak okunmalıdır.
+-# *Demir Kafataslari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Imperium öncesinden M41'e
-- **Köken:** Ork tehdidinin yoğun olduğu bir bölgedeki Forge World Metalica.
-- **Teknik / Biyolojik Özellikler:** Warhound'dan Imperator'a Collegia sınıflarını kullanır; Metalica'nın sanayi gücü Legio'nun ikmal temelidir.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Metalica Princeps'leri; Metalica'ya binyıllardır yeminli House Raven.
-- **Önemli Olaylar:** Ruin of Maedran (Heresy); Second ve Third War for Armageddon.
-- **Kanon Notu:** Legio'nun Armageddon'daki tekil Titan ve Princeps adları kaynaklar arasında farklı ayrıntı düzeyinde verilir; bu kayıtta genel çerçeve korunmuştur.
+Ultima Segmentum'un parildayan donanim dunyasi Metalica'dan gelen, Ork tehdidine karsi durmaksizin savasan Sadik lejyon.
 
 ## Tarihçe
+Legio Metalica, "Iron Skulls" (Demir Kafataslari) olarak bilinen, Collegia Titanica'nin en eski ve en saygin Titan lejyonlarindan biridir. Imparatorluk Cagi'ndan once, Cekismeler Cagi'nda kuruldugu kabul edilir. Koken Forge World'u, "Ultima Segmentum'un Parildayan Devi" olarak anilan Metalica'dir; bu donanim dunyasi galaksinin en tehlikeli bolgelerinden birinde, Charadon Sektoru'ndeki Ork imparatorluklarinin yaninda yer alir.
 
-Heresy Metalica'yı da böldü: sadık unsurlar Ruin of Maedran'da hain Legio'larla çarpışırken, bozulan bir kısım Chaos'a, kaynaklara göre Khorne'a yöneldi. M41'de Legio, Ork'lara karşı Armageddon savaşlarının Titan cephesini taşıdı; Second War for Armageddon'da ağır kayıplar verdi, Third War'da ise kalan kuvvetleriyle yeniden savaştı.
+Lejyonun sadakat tarihi karmasiktir.
 
--# Kaynaklar: *Adeptus Titanicus: Loyalist Legios*; *Codex: Imperial Knights*
+Legio Metalica, "Iron Skulls" (Demir Kafatasları) lakabıyla, Legio Mortis ve Legio Gryphonicus'la birlikte Mars'ın en eski üç lejyonunu oluşturan Triad Ferrum Morgulus'un parçasıdır. Ana dünyası Metalica lejyona adını veren metalik zırh geleneğinin beşiğiydi.
 
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551643990196232303>, <#1551759766966116383>, <#1551814951365115956>, <#1551753465900961795>
+Sapkınlık boyunca Metalica, Warmaster'a katılan kadim kardeşi Mortis'in tam zıddı olarak İmparatorluk safında savaştı: Paramar'da, Tallarn'da ve nihayet Terra'da. İki lejyon arasındaki Triad'ın ihanetle kırılması, Adeptus Titanicus'un en acı kan davalarından birini doğurdu; M41'de Metalica titanlarının Mortis makinelerine karşı sürdüğü kan davası hâlâ canlıdır.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,4 +14,8 @@ Onunla birlikte bir de kehanet doğdu: Gerstahl'ın, "Karanlığın Gözü son k
 
 Ama bu kehanet, İmparatorluğun ezeli düşmanının dikkatinden kaçmadı.
 
+## Tarihçe
+
+Cadian sektörünün azizi; 'unutulmuş' ama korunan bir kale azizi. Yerel koruyucu aziz örneği.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

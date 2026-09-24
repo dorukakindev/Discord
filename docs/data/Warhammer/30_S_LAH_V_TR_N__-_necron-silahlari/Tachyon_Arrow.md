@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Tachyonarrow10.jpg/revision/latest?cb=20150316112204
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Tachyon Arrow
 

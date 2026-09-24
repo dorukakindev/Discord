@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c9/SpecialIssueBolterAmmunition.png/revision/latest?cb=20170813033622
+
 -# THE IMPERIAL ARCHIVE
 # Bolt Weapons
 

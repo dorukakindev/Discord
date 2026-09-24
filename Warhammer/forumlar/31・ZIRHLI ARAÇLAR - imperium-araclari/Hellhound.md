@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fa/Hellhound.jpg/revision/latest?cb=20111020075744
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Hellhound
 

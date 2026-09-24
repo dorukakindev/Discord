@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Deffkopta_Squad.png/revision/latest?cb=20200712211114
+
 -# THE IMPERIAL ARCHIVE · Ork Araclari · Kayıt
 # Deffkopta
 

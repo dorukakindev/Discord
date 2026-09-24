@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/1/19/Praetor.jpg/revision/latest/scale-to-width-down/900?cb=20250428021908
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/1/19/Praetor.jpg/revision/latest/scale-to-width-down/900?cb=20250428021908)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Praetor — Cehennem'in Melez Komutanı, Av Partilerinin Şeytani Önderi
 
@@ -18,6 +18,8 @@ Praetor, Trench Crusade'de Cehennem'in iblis komutanları ve magistralarıdır; 
 
 Praetor'ı stratejik olarak paha biçilmez kılan, bu melez doğasıdır. Kısmen doğal düzenin bir yaratığı olarak doğdukları için, her asi seraphim'i bağlayan Cehennem Anlaşması'nı (Covenant of Hell) bozmadan ölümlü dünyaya sızabilirler. Böylece Yedi Başlı Yılan'ın av partilerini, Cennet ile doğrudan bir çatışmayı tetiklemeden Yeryüzü'nü kirletmek üzere yönetebilirler. Saray'ın savaş grupları çoğu zaman bu küfürbaz cambionlardan biri tarafından yönetilir; onlar efendilerinin düşmanlarını avlar, kutsal yerleri kirletir ya da düşen meleklerin yeryüzüne yanan yıldızlar gibi yağdığı İlk İsyan çağından kalma kadim kalıntıları geri almaya çalışır.
 
+---
+
 Praetor'lar son derece çeşitli ve tehlikelidir. Bazıları, Cehennem'in efsanevi Demir Şehri Dis'in ezoterik dövüş çukurlarında eğitilmiş büyük savaşçılardır; diğerleri ise bazalt kulelerin yükseldiği Büyücüler diyarında Goetia sanatlarında eğitim görmüştür. Bu, onları hem yakın dövüşte hem de kara büyüde dehşet verici rakipler yapar. Ama bir zayıflıkları vardır: özlerinin bir kısmı ölümlü ete bağlı olduğu için, savaşta öldürülebilirler. Praetor, Trench Crusade'de Cehennem'in yeryüzüne uzanan elidir; tam bir iblis olmanın yasal sınırlarını, yarı-ölümlü doğasıyla aşan ve böylece Cennet'in gazabını üzerine çekmeden insanlığı avlayan, kurnaz ve melez bir komutandır.
 
 ## Güçler
@@ -29,3 +31,7 @@ Praetor'lar son derece çeşitli ve tehlikelidir. Bazıları, Cehennem'in efsane
 - Özünün bir kısmı ölümlü ete bağlı olduğundan savaşta öldürülebilir
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978>

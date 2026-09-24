@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/88/BloodletterHellblade.PNG/revision/latest?cb=20170906060917
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Hellblade
 

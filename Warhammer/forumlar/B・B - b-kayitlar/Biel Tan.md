@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/80/Biel-Tan_vs_Chaos.jpg/revision/latest?cb=20170405030243
+
 -# THE IMPERIAL ARCHIVE
 # Biel Tan
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Img011.jpg/revision/latest?cb=20121231054919
+
 -# THE IMPERIAL ARCHIVE
 # Nightbringer
 

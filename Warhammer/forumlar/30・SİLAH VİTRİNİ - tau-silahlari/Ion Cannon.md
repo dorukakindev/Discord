@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Ion_cannon2.png/revision/latest?cb=20120904074738
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Ion Cannon
 

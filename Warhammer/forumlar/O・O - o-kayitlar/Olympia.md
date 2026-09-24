@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Olympia.jpg/revision/latest?cb=20140407093303
+
 -# THE IMPERIAL ARCHIVE
 # Olympia
 

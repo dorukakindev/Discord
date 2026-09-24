@@ -14,6 +14,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bd/The_Armouring_of_a_Sp
 ## Tarihçe
 Zırh serisi Great Crusade boyunca Legion standardı olarak üretildi; Horus Heresy'den sonra Mark desenlerinin üretimi neredeyse durma noktasına geldi ve kalan zırhlar kutsal kalıntı statüsü kazandı.
 
+https://static.wikia.nocookie.net/warhammer40k/images/b/bd/The_Armouring_of_a_Space_Marine/revision/latest?cb=20220311172314
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Power Armour — Güç Zırhı

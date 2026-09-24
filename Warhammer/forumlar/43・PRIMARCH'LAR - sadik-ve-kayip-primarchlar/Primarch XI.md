@@ -12,4 +12,6 @@ Bu boşluk, kanonun bilinçli bir sırrıdır ve hiçbir zaman resmen doldurulma
 
 Gerçek ne olursa olsun, iki numaranın (II ve XI) boşaltılması İmparator'un bile gömmek istediği bir geçmişe işaret eder; Horus Heresy çağı romanlarında bile bu konu yalnızca ima ve sessizlikle geçilir. On Birinci Primarch, hiç anlatılmamış olmasıyla 40K mitolojisinin en güçlü boşluklarından biridir.
 
+## Kayıp Primarch
+XI. Lejyon'un Primarch'ı da adı ve eseri silinen ikinci kayıptır. Kardeşleri bile onlardan fısıltıyla bahseder: Sanguinius, Fulgrim'e kanının kayıp kardeşlerin hatasını tekrarlamaması için yalvarmıştır; Magnus, kaybolan ikisinin "İmparator'un en büyük sırrı" olduğunu söylemiştir. Lejyonlarının akıbeti bilinmiyor — dağıtıldı mı, imha mı edildi, başka lejyonlara mı katıldı; hepsi söylenti. Games Workshop bu iki boşluğu kasıtlı bırakır: ev sahibi oyuncuların kendi lejyonlarını yazabilmesi için.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

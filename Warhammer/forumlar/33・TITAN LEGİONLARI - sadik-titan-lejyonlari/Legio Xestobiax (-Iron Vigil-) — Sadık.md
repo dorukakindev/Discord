@@ -1,19 +1,20 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Legio_Xestobiax_Livery.png/revision/latest?cb=20170909194252
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Xestobiax ("Iron Vigil") — Sadık
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Xestobiax
 
-Zhao-Arkkad'dan gelen, Thousand Sons ile yan yana savaşan ve Prospero'nun Yakılışı'nda Legio Mortis'e direnen Tertius-derece lejyon.
+-# *Demir Nobet*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Galaktik güneydeki Zhao-Arkkad Forge World'ü
+Zhao-Arkkad'dan gelen, Thousand Sons ile yan yana savasan ve Prospero'nun Yakilisi'nda Legio Mortis'e direnen Tertius-derece lejyon.
 
 ## Tarihçe
-Legio Xestobiax, "Iron Vigil" (Demir Nöbet) olarak bilinen, Collegia Titanica'nın daha az tanınan Titan lejyonlarından biridir; Büyük Haçlı Seferi'nin sonunda Tertius-derece bir Titan lejyonu olarak derecelendirilmişti. Galaktik güneyin uzaklarındaki Zhao-Arkkad Forge World'ünden gelir.
+Legio Xestobiax, "Iron Vigil" (Demir Nobet) olarak bilinen, Collegia Titanica'nin daha az taninan Titan lejyonlarindan biridir; Buyuk Hacli Seferi'nin sonunda Tertius-derece bir Titan lejyonu olarak derecelendirilmisti. Galaktik guneyin uzaklarindaki Zhao-Arkkad Forge World'unden gelir.
 
-Lejyonun kökeni, Zhao-Arkkad'a ilk insan kolonicilerine eşlik eden ve onları dünyanın sayısız canavarından koruyan Titan'lara dayanır. Prospero'nun Yakılışı sırasında Thousand Sons'un yanında savaştı ve Legio Mortis'in saldırısına direndi.
+Lejyonun kokeni, Zhao-Arkkad'a ilk insan kolonicilerine eslik eden ve onlari dunyanin sayisiz canavarindan koruyan Titanlara dayanir.
+
+Legio Xestobiax, "Iron Vigil" (Demir Nöbet) lakabını taşıyan ve Rikos'un izole dövme istasyonlarından gelen bir lejyondu. Lejyonun görev tanımı garipti: yeni keşfedilen ya da içinde tehlikeli arkeotek barındıran dünyaların üzerinde nöbet tutmak — Xestobiax titanları, kimsenin yaklaşmaması gereken şeylerin bekçisiydi.
+
+Bu bekçilik geleneği lejyonu psiker ve warp-teknolojisi konularında da uzmanlaştırdı; İmparatorluk içinde onlara şüpheyle bakılırdı çünkü savaş gruplarının bazıları yasaklı tech'in gölgesinde çalışıyordu. Sapkınlık sırasında sadık kaldılar ve bekçilik doktrinleri, kurtarma ve kuşatma önleme operasyonlarında değer kazandı; lejyon bugün de az konuşulan ama güvenilir bir titan gücüdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

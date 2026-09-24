@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/54/Exterminatus_1.jpg/revision/latest?cb=20130419182806
+
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Cyclonic Torpedo
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/Triplex_Phall_Banner.png/revision/latest?cb=20170924224949
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Triplex Phall
 

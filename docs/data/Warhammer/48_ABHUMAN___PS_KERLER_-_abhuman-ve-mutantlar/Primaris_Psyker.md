@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/83/Primaris_Psyker_IG_Battle.jpg/revision/latest?cb=20140509185018
+
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Primaris Psyker
 

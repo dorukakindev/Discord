@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/31/WE_Legion_Terminator.jpg/revision/latest?cb=20131106183222
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Devourer
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/30/283853-space-hulk-linux-front-cover.jpg/revision/latest?cb=20150811022712
+
 -# THE IMPERIAL ARCHIVE
 # Space Hulks
 

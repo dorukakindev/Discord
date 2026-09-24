@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/f/fd/Mike-Franchina-Crusader-Knight.jpg/revision/latest?cb=20260411031212
+
 -# THE TRENCH ARCHIVE · 40・GELECEK / DUYURULMUŞ LORE · Kayıt
 
 # Hebrew Knights — İbrani Şövalyeleri — Duyurulan Fraksiyon

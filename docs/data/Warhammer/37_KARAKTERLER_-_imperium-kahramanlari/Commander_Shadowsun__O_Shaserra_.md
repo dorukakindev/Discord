@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/47/Roberto_Cirillo%27s_XV22.jpg/revision/latest?cb=20130403074349
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Commander Shadowsun (O'Shaserra)
 

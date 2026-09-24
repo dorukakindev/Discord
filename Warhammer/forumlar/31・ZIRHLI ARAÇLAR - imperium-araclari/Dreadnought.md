@@ -1,8 +1,10 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Exploded_View_Ancient_Dreadnought.jpg/revision/latest/scale-to-width-down/900?cb=20140225220447
 
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Exploded_View_Ancient_Dreadnought.jpg/revision/latest?cb=20140225220447
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
-# Dreadnought — Dreadnought
+# Dreadnought
 
 Ölümcül yaralı bir Space Marine'in bir savaş makinesinin lahdine yerleştirilmesiyle yaşamaya devam ettiği yürüteç.
 

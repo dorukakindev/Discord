@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/White_Wraithknight.jpg/revision/latest?cb=20170310210729
+
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Wraithknight
 

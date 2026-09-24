@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Inquisitor_Kryptman.jpg/revision/latest?cb=20130108055748
+
 -# THE IMPERIAL ARCHIVE
 # Inquisitor Kryptman
 

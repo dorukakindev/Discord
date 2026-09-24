@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/1/1e/Ki-rin-5e.jpg/revision/latest?cb=20171010235446
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # A'kin — Dost Cani, Lower Ward'ın Sevecen İblisi

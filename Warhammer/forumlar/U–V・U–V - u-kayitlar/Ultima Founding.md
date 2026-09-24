@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/57/Primaris_Astartes_Mars.png/revision/latest?cb=20170515202629
+
 -# THE IMPERIAL ARCHIVE · U Kayıtları
 # Ultima Founding
 

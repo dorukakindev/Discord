@@ -1,25 +1,17 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Murder_Lords_Icon.png/revision/latest?cb=20211120064958
 
--# THE IMPERIAL ARCHIVE · Hain Titan Lejyonları · Kayıt
-# Legio Interfector ("Murder Lords") — Hain
+-# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
+# Legio Interfector
 
-Heresy'de Horus'un safına geçtikten sonra makine ruhlarının bozulması ve mürettebatının deliliğe sürüklenmesiyle anılan Legio'dur. Kaynaklar Titan'larından yükselen karanlık dualar ve cinayet çağrılarıyla korkunç bir imge çizer.
+-# *Cinayet Lordlari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629138693980331>
-- **Fraksiyon:** Dark Mechanicum — Traitor Titan Legio'ları
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Forge World Valeous II.
-- **Teknik / Biyolojik Özellikler:** Bozulmuş Machine Spirit'ler ve Warp'ın etkisiyle değişen Titan'lar; eski ve yeni renk düzenleri arasındaki fark, Legio'nun düşüşünün görsel işareti sayılır.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Interfector Princeps'leri.
-- **Önemli Olaylar:** Battle of Molech; Beta-Garmon.
-- **Kanon Notu:** Legio'nun bozulmasının tam mekanizması yayımlanmış kanonda tek bir açıklamaya bağlanmaz.
+Valeous II'de Buyuk Sefer'in ilk yillarinda kurulan, Warp'ta surukenip Horus'a baglanan ve cilginliga teslim olarak Cinayet Lordlari adini alan Hain lejyon.
 
 ## Tarihçe
+Legio Interfector, "Murder Lords" (Cinayet Lordlari) olarak bilinen, Dark Mechanicum hizmetindeki bir Hain Titan lejyonudur. Buyuk Hacli Seferi'nin ilk yillarinda Valeous II Forge World'unde kurulan genc bir lejyondu ve Collegia Titanica'nin en taze uyelerinden biriydi.
 
-Isstvan III'ten itibaren Horus'un safında yer alan Legio, Molech'in işgalinde ve Beta-Garmon'un Titan savaşlarında savaştı. Heresy ilerledikçe daemonic enerjilerin Machine Spirit'leri kemirmesi ve Princeps'lerin akıl sağlığını yitirmesi, Legio'yu kendi eski kimliğinden koparıp yalnızca katliam için yürüyen bir güce dönüştürdü. Sonraki binyıllarda Chaos warband'lerine destek verdiği aktarılır.
+Ultima Segmentum'da Ultramarines'i desteklemek uzere yola cikarildiginda, lejyonun dortte ucu Warp'ta surukendi ve kendini Luna Wolves ile bir Igrenc Zeka (Abominable Intelligence) arasindaki bir savas bolgesinde buldu. Lejyonun ani gelisi savasin seyrini dondurdu; bu sayede Interfector, Warmaster Horus ile guclu baglar kurdu ve ondan "Lords of Valour" (Yigitlik Lordlari) unvanini aldi.
 
--# Kaynaklar: *Vengeful Spirit — Graham McNeill*; *Adeptus Titanicus: The Titandeath*
-
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551650329156788287>, <#1551814951365115956>, <#1551812165172994160>
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 Legio Interfector ("Murder Lords") — Hain

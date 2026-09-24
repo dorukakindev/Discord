@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Leontus3.png/revision/latest?cb=20240425210137
+
 -# THE IMPERIAL ARCHIVE
 # Lord Solar Leontus
 

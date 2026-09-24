@@ -1,19 +1,20 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Legio_Osedax_Icon_Fancy.png/revision/latest?cb=20210505211902
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Osedax ("Cockatrices") — Sadık
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Osedax
 
-Phaeton'dan gelen, Phaeton Prime'da harap olup intikam hırsıyla yeniden doğan ve Balthor Sigma'da World Eaters'a karşı savaşan sadık lejyon.
+-# *Baziliskler*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Segmentum Solar'daki Phaeton Forge World'ü
+Phaeton'dan gelen, Phaeton Prime'da harap olup intikam hirsiyla yeniden dogan ve Balthor Sigma'da World Eaters'a karsi savasan Sadik lejyon.
 
 ## Tarihçe
-Legio Osedax, "Cockatrices" (Baziliskler) olarak bilinen, Collegia Titanica'nın sadık bir Titan lejyonudur. Anavatanı, Segmentum Solar'daki Phaeton Forge World'üdür. Lakabını, en küçük bakışı bile ölüm ve yıkım getiren efsanevi yaratıklardan alır; bu ün, Phaeton'un Imperium'a katılması ve Büyük Haçlı Seferi'nin yürütülmesi boyunca lejyonu izledi.
+Legio Osedax, "Cockatrices" (Baziliskler) olarak bilinen, Collegia Titanica'nin Sadik bir Titan lejyonudur. Anavatani, Segmentum Solar'daki Phaeton Forge World'udur. Lakabini, en kucuk bakisi bile olum ve yikim getiren efsanevi yaratiklardan alir; bu un, Phaeton'un Imparatorluk'a katilmasi ve Buyuk Hacli Seferi'nin yurutulmesi boyunca lejyonu izledi.
 
-Horus Heresy sırasında Phaeton, Dark Mechanicum'un erken hedeflerinden biri oldu ve lejyonun Titan'larının çoğu Phaeton Prime'daki saldırıda yok edildi. Sağ kalanlar intikam hırsıyla yeniden örgütlendi ve Balthor Sigma'da World Eaters güçlerine karşı savaştı.
+Horus Sapkinligi sirasinda Phaeton, Dark Mechanicum'un erken hedeflerinden biri oldu ve lejyonun Titanlarinin cogu Phaeton Prime'daki saldirida yok edildi.
+
+Legio Osedax, "Cockatrices" (Kakatrisler) lakaplı bir lejyondu ve Orestes dövme dünyasının evlatlarıydı. Lejyonun ünü savaş meydanından çok siyasi salonlarda da duyulurdu: princeps'leri Mechanicum'un kıdemli diplomasisinin bir parçasıydı ve lejyon, Adeptus Titanicus'un yeni düzenlemelerinin arkasındaki itici güçlerden biriydi.
+
+Sapkınlık sırasında Osedax, Isstvan'daki ihanetin yankıları üzerine İmparatorluk'u bir arada tutmaya çalışan titan konseyinin ön saflarında yer aldı; Orestes'e yapılan saldırılarda dövme dünyasını savundular. Lejyonun zayiatları ağırdı ama adı, sadık titan klanlarının direniş sembollerinden biri olarak kaldı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

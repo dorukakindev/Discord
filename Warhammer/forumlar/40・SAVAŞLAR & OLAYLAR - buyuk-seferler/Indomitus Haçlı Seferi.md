@@ -10,4 +10,8 @@ Indomitus Haçlı Seferi, M42'de, Büyük Yarık'ın açtığı kıyametin ortas
 
 Seferin lideri, on bin yıl sonra dirilen Primarch Roboute Guilliman'dı; Archmagos Cawl ve Ynnari tarafından ölüm-yaşam arası durgunluğundan geri getirildi. Guilliman, uyandığında galaksinin korkunç halini (babasının çürüyen bedenini, çöken kurumları, her cephedeki istilaları) gördü ve dehşete kapıldı; ama pes etmek yerine kolları sıvadı.
 
+## Tarihçe
+
+Guilliman'ın başlattığı, hâlâ süren dev sefer; filo filo, sistem sistem İmparatorluk'u yeniden aydınlatma. Modern çağın çerçevesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

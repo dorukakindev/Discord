@@ -1,19 +1,18 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Legio_Crucius.jpg/revision/latest?cb=20111018231640
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Crucius ("Warmongers") — Sadık
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Crucius
 
-Plazma üstadı Forge World Ryza'dan gelen, Titan savaşını ilk inceleyen plancı ve ileri görüşlüler olarak anılan sadık lejyon.
+-# *Savas Kiskirticilari*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Segmentum Ultima'daki Forge World Ryza
+Plazma ustasi donanim dunyasi Ryza'dan gelen, Titan savasini ilk inceleyen plancı ve ileri-gorusluler olarak anilan Sadik lejyon.
 
 ## Tarihçe
-Legio Crucius, "Warmongers" (Savaş Kışkırtıcıları) olarak bilinen sadık bir Titan lejyonudur. Büyük algılama merkezi ve harekât üssü, Segmentum Ultima içinde yer alan büyük Forge World Ryza'dadır; plazma reaktörü ve manyetik kuşatma alanı teknolojisinin imalatıyla ünlüdür. Ryza'nın zanaat ve sofistikasyonunun yalnızca Mars'ınkinin ardında geldiği kimi çevrelerce iddia edilir.
+Legio Crucius, "Warmongers" (Savas Kiskirticilari) olarak bilinen Sadik bir Titan lejyonudur. Buyuk algilama merkezi ve harekat ussu, Segmentum Ultima icinde yer alan buyuk bir Forge World olan Ryza'dadir. Ryza, Plazma Reaktoru ve manyetik kusatma alani teknolojisinin imalatiyla unludur; bu donanim dunyasinin zanaat ve sofistikasyonunun yalnizca Mars'inkinin ardinda geldigi kimi cevrelerce iddia edilir.
 
-Lejyonun Büyük Haçlı Seferi'nden önce, büyük olasılıkla Çekişmeler Çağı'nda kurulduğu bilinir. Legio Crucius, mantıklı Mechanicum arasında bile plancılar ve ileri görüşlüler olarak anılır; Titan savaşını sistematik olarak ilk inceleyen lejyonlardandır.
+Bu Titan lejyonunun Buyuk Hacli Seferi'nden once, buyuk olasilikla Cekismeler Cagi olarak adlandirilan calkantili donemde kuruldugu bilinir.
+
+Legio Crucius, mantikli Mechanicum arasinda bile plancilar ve ileri-gorusluler olarak anilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

@@ -8,4 +8,8 @@ Cüce benzeri, sağlam ve dayanıklı abhuman uygarlığı; klan ve maden temell
 
 Squat, modern lore'da Leagues of Votann (Votann Birlikleri) olarak yeniden tanımlanan ve kendilerine Kin diyen, cüce benzeri köklü bir abhuman uygarlığıdır. Bu soy, galaksinin merkezine yakın, ağır yer çekimli ve mineral bakımından son derece zengin dünyalarda evrilmiştir. Bu sert ve metalik gezegenlerin koşulları, kısa boylu ama olağanüstü geniş, kaslı ve dayanıklı bir insan biçimi üretti; bir Squat, boyca kısadır ama bir fıçı gibi sağlamdır, kemikleri kalın, gücü ve direnci insanınkini fazlasıyla aşar. Sakallı, sert ve gururlu görünümleriyle, eski mitolojilerin cücelerini andırırlar.
 
+## Tarihçe
+
+İnsanların eski bir abhuman dalı; kısa, sağlam, cüce-mayıslı. Leagues of Votann'ın kökleri — geri dönen eski dostlar.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/93/VoidDragonShard.jpg/revision/latest?cb=20211025210202
+
 -# THE IMPERIAL ARCHIVE · V Kayıtları
 # Void Dragon
 

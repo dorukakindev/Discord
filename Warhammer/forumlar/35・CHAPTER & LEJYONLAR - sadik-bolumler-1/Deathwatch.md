@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7c/DeathwatchBadge.jpg/revision/latest?cb=20110327043200
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Deathwatch
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
 # Hydraphur — Hydraphur (Segmentum Fortress)

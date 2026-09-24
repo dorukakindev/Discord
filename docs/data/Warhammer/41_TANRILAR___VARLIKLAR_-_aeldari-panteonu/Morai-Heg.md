@@ -10,4 +10,8 @@ Morai-Heg, Aeldari panteonunun kader ve ruhlar tanrıçasıdır; "Kocakarı" (th
 
 En ünlü miti, kendi bilgeliğine ulaşma hikâyesidir: Morai-Heg, damarlarında akan kaderin bilgeliğine duyduğu açlıkla savaş tanrısı Khaine'i kurnazca kandırıp elini kestirdi. Kesilen elden akan kanı içerek içindeki bilgiyi özümsedi; demirci tanrı Vaul ise yere düşen elin beş parmağından son derece güçlü Cronesword'leri (Kocakarı Kılıçları) yonttu.
 
+## Tarihçe
+
+Crone Goddess, kader dokuyucu; Crone Worlds'in patroniçesi. Aeldari'nin kader ve ölüm arasındaki yaşlı tanrısı — Iybraesil'in yol göstereni.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

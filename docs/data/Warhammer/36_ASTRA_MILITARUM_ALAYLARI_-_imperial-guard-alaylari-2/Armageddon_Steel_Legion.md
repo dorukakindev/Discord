@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/f2/2199_imperial_guard.steel_legion.jpg/revision/latest?cb=20130319185744
 
+https://static.wikia.nocookie.net/warhammer40k/images/f/f2/2199_imperial_guard.steel_legion.jpg/revision/latest?cb=20130319185744
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Armageddon Steel Legion — Armageddon Çelik Lejyonu

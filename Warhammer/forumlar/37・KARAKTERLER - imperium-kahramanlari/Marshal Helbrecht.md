@@ -10,4 +10,8 @@ Marshal Helbrecht, Black Templars'ın Yüksek Mareşali ve fiili lideridir; chap
 
 Helbrecht, İmparator'a olan inancı mutlak ve fanatik bir savaşçıdır; Black Templars psyker'lara güvenmediği için chapter hiç Librarian barındırmaz, bunun yerine saf inanç ve göğüs göğüse vahşetle savaşırlar. Helbrecht, savaştan önce yeminler eder ve düşmana acımasız bir öfkeyle dalar.
 
+## Tarihçe
+
+Black Templars'ın High Marshal'ı; Chapter'ın Haçlı yolunun yürüyen sembolü. Ghazghkull'un peşinde Armageddon'dan geçti; kaybetti ama asla durmadı — Black Templars'ın inat ruhunun adıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

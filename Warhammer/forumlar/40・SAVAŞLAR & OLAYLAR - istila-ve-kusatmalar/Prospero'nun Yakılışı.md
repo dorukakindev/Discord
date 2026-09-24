@@ -8,4 +8,8 @@ Prospero'nun Yakılışı, Heresy çağının en trajik olaylarından biridir; i
 
 Kriz, İmparator'un Nikaea Konseyi'nde psişik güçleri kısıtlamasıyla başladı; Magnus bu yasağı kibirle çiğnedi. Horus'un ihanetini öğrendiğinde, İmparator'u uyarmak için devasa, yasak bir psişik mesaj gönderdi; ama bu güç, İmparator'un gizlice yürüttüğü Webway projesinin Terra savunmalarını deldi ve büyük zarar verdi. İyi niyetli bir uyarı, bir saldırı gibi göründü.
 
+## Tarihçe
+
+Space Wolves'un Prospero'yu yakması; Magnus'un evinin yok edilişi, Nikaea kararının infazı. İki lejyonun kan davasının başlangıcı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

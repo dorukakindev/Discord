@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/12/Screamer2.jpg/revision/latest?cb=20130324034412
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Screamer
 

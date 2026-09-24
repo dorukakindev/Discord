@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ea/DaemonWeapon.png/revision/latest?cb=20121107120631
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Daemon Weapon
 

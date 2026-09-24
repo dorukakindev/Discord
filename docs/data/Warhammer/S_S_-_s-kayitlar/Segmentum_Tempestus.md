@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Segmentum_tempestus.jpg/revision/latest?cb=20120406181603
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Segmentum Tempestus
 

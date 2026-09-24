@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Zodgrod2.jpg/revision/latest?cb=20140727011247
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Zodgrod Wortsnagga
 

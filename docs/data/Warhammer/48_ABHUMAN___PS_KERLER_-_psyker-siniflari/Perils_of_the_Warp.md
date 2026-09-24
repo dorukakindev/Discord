@@ -6,4 +6,8 @@ Bir psyker'ın gücünü ya da iradesini aştığında karşılaştığı felake
 
 Perils of the Warp (Warp Tehlikeleri), her psyker'ın gücünü kullanırken sürekli üzerinde asılı duran kara bulutu temsil eder; psişik gücün bedeli, kontrolün bir anlık kaybı ve onun getirdiği felaketlerdir. Bir psyker, Warp'tan güç çekerken bir kapı açar; o kapının diğer tarafında, gücü tatmaya açlık duyan demonlar ve Immaterium'un dehşetleri bekler. Psyker, gücünü ne kadar zorlarsa, o kapı o kadar genişler. Bir psyker gücünü ya da iradesini aştığı, ya da basitçe talihsiz bir anda gücünü kullandığı vakit, Warp'ın o tarafı geri tepebilir; işte bu geri tepmeye, Perils of the Warp denir.
 
+## Tarihçe
+
+Psyker'ın Warp'ı aşırı kullandığında başına gelen felaketler; daemon ele geçirme, delilik, patlama. Gücün bedeli.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

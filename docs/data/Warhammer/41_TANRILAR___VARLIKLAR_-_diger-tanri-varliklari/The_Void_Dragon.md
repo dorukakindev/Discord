@@ -10,4 +10,8 @@ The Void Dragon (Mag'ladroth), C'tan yıldız tanrılarının belki de en güçl
 
 Void Dragon'ı 40K mitolojisinde özellikle önemli kılan, bir teoridir ki neredeyse kanona yakındır: İmparator, insanlığın çok eski çağlarında, Mars'ta bu varlıkla karşılaşıp onu büyük bir mücadeleyle yendi ve gezegenin derinliklerine hapsetti. Bu yüzden Adeptus Mechanicus'un "Mars'ın Ejderhası" ve Makine Tanrısı (Omnissiah) miti, aslında farkında olmadan bu uyuyan C'tan'a tapınma olabilir.
 
+## Tarihçe
+
+Mars'ın altında uyuyan en büyük C'tan; Adeptus Mechanicus'un Tanrısı'nın gerçek yüzü olabilir. Teknoloji üstünde mutlak güç.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4f/Blades_of_The_Traitor.jpg/revision/latest?cb=20121005170412
+
 -# THE IMPERIAL ARCHIVE
 # Chaos
 

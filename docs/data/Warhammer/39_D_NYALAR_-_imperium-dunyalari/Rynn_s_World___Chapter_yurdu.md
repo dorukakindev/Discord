@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d3/RynnsWorld2.png/revision/latest?cb=20191212030424
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Rynn's World — Chapter yurdu
 

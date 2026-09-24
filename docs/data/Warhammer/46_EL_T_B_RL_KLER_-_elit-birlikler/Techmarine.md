@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/53/Techmarine_Harkus.jpg/revision/latest?cb=20140304071953
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Techmarine
 *Tekno-rahip Savaşçı, Omnissiah'ın Hizmetkârı*
@@ -5,5 +7,9 @@
 Mars'ta Mechanicus tarafından makine kültüne kabul edilen Space Marine'ler; Chapter'ın silah ve araç deposunun bekçisi olan, Servo-arm taşıyan ve çifte sadakat yemini eden tekno-savaşçılar.
 
 Techmarine (Tekno-rahip Savaşçı), bir Space Marine Chapter'ı içinde benzersiz bir konuma sahiptir; hem bir savaşçı hem de kutsal makinelerin hizmetkârıdır. Her Chapter, teknolojiye karşı doğuştan bir yeteneği olan kardeşlerini, eğitim için kızıl gezegen Mars'a gönderir. Orada, Adeptus Mechanicus tarafından makine kültüne (Cult Mechanicus) kabul edilirler; uzun ve gizemli bir eğitimden geçer, makine ruhlarının (machine spirit) sırlarını ve Omnissiah'a, yani Makine Tanrısı'na duyulan kutsal saygıyı öğrenirler. Geri döndüklerinde, artık tümüyle değişmiş, çifte sadakatli savaşçılardır.
+
+## Tarihçe
+
+Hem Astartes hem Mechanicus eğitimli; Chapter'ın teknoloji bekçisi ve tamircisi. Zırh ve makine arasındaki köprü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

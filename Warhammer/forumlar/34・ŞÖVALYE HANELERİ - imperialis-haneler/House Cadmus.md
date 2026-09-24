@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/55/House_Cadmus_Icon.jpg/revision/latest?cb=20140312043026
+
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Cadmus
 

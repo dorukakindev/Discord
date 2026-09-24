@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/60/Pride_of_the_Emperor_-_Flagship.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Chaos Gemileri · Kayıt
 # Pride of the Emperor
 
@@ -9,5 +11,9 @@ Jüpiter tersanelerinde el işçiliğiyle inşa edilen görkemli bir Gloriana s�
 İmparator'un Gururu (Pride of the Emperor), Emperor's Children Primarch'ı Fulgrim'in Büyük Sefer ve Horus İsyanı sırasındaki sancak gemisi olan görkemli bir Gloriana sınıfı savaş gemisidir. III. Lejyon'un 28. Sefer Filosu'nun amiral gemisi olarak, filodaki tüm gemiler arasında en muhteşemiydi; zırhlı gövdesi altın kakmalarla ve zengin şarap renginde plakalarla bezeliydi.
 
 Gemi, Jüpiter'in tersanelerinde inşa edildi ve Horus İsyanı'nın başında 160 yılı aşkın bir yaşa sahipti.
+
+Pride of the Emperor, Emperor's Children lejyonunun amiral gemisiydi — Fulgrim'in estetik mükemmelliyetçiliğinin son sınırı olan, katedral-zarafetinde bir yüzen sanat eseri. Güvertelerinde konser salonları, heykeltıraş atölyeleri ve 'mükemmellik' arayışının her türlü lüksü vardı; Laer tapınağından getirilen gümüş kılıç da bu gemide muhafaza edildi.
+
+Fulgrim'in Slaanesh'e düşüşüyle gemi de dönüştü: salonlar zevk-palastlara, koridorlar zevk işkencehanelerine döndü; gemi artık güzel değil, bozulmuştu. Sapkınlık sonrası Pride of the Emperor, Emperor's Children'ın dağınık savaş bantlarının sembolik evi olarak kaldı — Fulgrim'in kendisi iblisleşmişti ama gemi, lejyonun kaybettiği 'parlaklık çağının' çürüyen anıtı olarak süzülüyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

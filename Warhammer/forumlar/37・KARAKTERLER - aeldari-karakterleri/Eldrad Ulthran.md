@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Eldrad_Ulthran-0.jpg/revision/latest?cb=20160902185928
+
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Eldrad Ulthran
 

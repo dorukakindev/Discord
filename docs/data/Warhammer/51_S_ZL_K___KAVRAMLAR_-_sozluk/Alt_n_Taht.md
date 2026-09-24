@@ -10,4 +10,8 @@ Altın Taht (the Golden Throne), İmparatorluğun en kutsal ve en kritik aygıt�
 
 Horus Heresy'nin sonunda, İmparator Horus'u yenerken onulmaz biçimde yaralandı; bedeni ölmek üzereydi. Onu hayatta tutmanın (ya da en azından ölümünü geciktirmenin) tek yolu, Karanlık Çağ'dan kalma bu kadim teknolojiye bağlamaktı. O zamandan beri İmparator, bu tahta bağlı, çürüyen ama hâlâ var olan bir halde, insanlığa rehberlik etmeyi (Astronomican aracılığıyla) sürdürüyor. Taht aynı zamanda Webway'e açılan gizli bir kapıyı da koruyor.
 
+## Tarihçe
+
+Golden Throne'un Türkçesi; İmparator'un yaşam desteği. İmparatorluk'un kalbi ve mezarı — her gün daha kırılgan.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

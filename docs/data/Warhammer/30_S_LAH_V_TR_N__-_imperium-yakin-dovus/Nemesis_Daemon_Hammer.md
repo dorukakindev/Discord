@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Daemon_Hammer.jpg/revision/latest?cb=20121220100908
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Nemesis Daemon Hammer
 

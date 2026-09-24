@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/56/Sin_of_Damnation.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Xenos Ve Diger Gemiler · Kayıt
 # Sin of Damnation
 

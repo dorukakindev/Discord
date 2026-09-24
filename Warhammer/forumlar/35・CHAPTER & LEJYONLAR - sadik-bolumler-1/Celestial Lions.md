@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Celestial_Lions_SP.jpg/revision/latest?cb=20240924201739
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Celestial Lions
 

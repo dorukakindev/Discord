@@ -15,9 +15,8 @@
 - <#1551814285007519795>
 - <#1551814305874448396>
 - <#1551814334324154379>
+- <#1552690562342199358>
 - <#1551814167084671027>
-
--# 15 kayıt · güncel
 
 • **Birinci Armageddon Savaşı**
 • **Fabius Bile**
@@ -33,4 +32,5 @@
 • **Forge World Lucius**
 • **Forge Worlds**
 • **Fortress Monasteries**
+• **Freebooter (Ork Korsanları)**
 • **Fulgrim**

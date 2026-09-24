@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Terryn_Icon.jpg/revision/latest?cb=20140312043422
+
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Terryn
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/61/Imperial_Chainaxe_Flesh_Tearers.jpg/revision/latest?cb=20140110034643
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Chainaxe
 

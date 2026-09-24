@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Spiritseer_Rune.jpg/revision/latest?cb=20150611200336
+
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Ynnead
 

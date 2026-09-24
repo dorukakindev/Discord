@@ -1,25 +1,21 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Legio_Fureans_Icon2.jpg/revision/latest?cb=20160923073205
 
--# THE IMPERIAL ARCHIVE · Hain Titan Lejyonları · Kayıt
-# Legio Fureans ("Tiger Eyes") — Hain
+-# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
+# Legio Fureans
 
-Heresy'de Horus'un safına geçerek Dark Mechanicum'a katılan Legio'dur. Kaynaklar onun Chaos'a düştüğünü anlatır; belirli bir tanrıya adanmışlığı kesin biçimde tanımlanmaz.
+-# *Kaplan Gozleri*
 
-- **Kategori:** Titan Legion (Legio) — <#1551629138693980331>
-- **Fraksiyon:** Dark Mechanicum — Traitor Titan Legio'ları
-- **Dönem:** Great Crusade'den M41'e
-- **Köken:** Great Crusade'den önce süregiden savaşlarla biçimlenmiş, maden zengini Forge World Incaladion.
-- **Teknik / Biyolojik Özellikler:** Warp'ın dokunuşuyla değişmiş Titan'lar; Legio'ya özgü teknik ayrıntı yayımlanmış kanonda sınırlıdır.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Fureans Princeps'leri.
-- **Önemli Olaylar:** Horus Heresy'nin Titan savaşları; sonraki binyıllarda Dark Mechanicum harekâtları.
-- **Kanon Notu:** Legio'nun tekil muharebelerdeki rolü kaynaklarda dağınık biçimde verilir; bu kayıtta yalnızca genel çerçeve aktarılmıştır.
+Incaladion'dan gelen, Sapkinlik patladiginda derhal Horus safina gecen ve Terra Kusatmasi'na ilk ayak basan Hain lejyon.
 
 ## Tarihçe
+Legio Fureans, daha yaygin adiyla "Tiger Eyes" (Kaplan Gozleri), Horus Sapkinligi sirasinda Kaos'a dusen bir Hain Titan lejyonudur. Aslen Incaladion Forge World'unde uslenmistir. Lakabi, bu erken donemde komsu Humardu dunyasinin yabani kabilelerinin Titanlara verdigi addan bozularak turemistir; bu kabileler icin tanri-makineler gercekten de ilahi ve dehset verici varliklardi.
 
-Heresy'de Horus'un safında savaşan Fureans, Beta-Garmon ve Siege of Terra gibi Titan cephelerinde kardeş Legio'lara karşı yürüdü ve hain kuvvetlerle birlikte Eye of Terror'a çekildi. Sonraki binyıllarda Dark Mechanicum kuvvetleriyle birlikte Imperium'un forge world'lerine yönelen harekâtlarda görülmeye devam etti.
+Horus Sapkinligi patlak verdiginde, Legio Fureans'in derhal Warmaster Horus'un safini tuttugu aciga cikti.
 
--# Kaynaklar: *Adeptus Titanicus: The Titandeath*; *The First Wall — Gav Thorpe*
+Legio Fureans, "Tiger Eyes" lakabını, dünyaları Incaldra'nın dev kaplan yaratıklarından ve lejyonun göz-kamaştıran sarı-siyah savaş boyasından alır. Büyük Haçlı Seferi sırasında ork istilası altındaki kolonilerin kurtarılmasında öne çıktılar; savaş sırasında yerli vahşetle özdeşleşen agresif bir üne sahiptiler ve bu ün, İmparatorluk içinde onları hep bir parça şüpheyle izlenen bir lejyon yaptı.
 
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551650329156788287>, <#1551814951365115956>, <#1551812165172994160>
+Sapkınlık sırasında Fureans hızla Warmaster'ın yanına katıldı ve Isstvan V ile sonraki Gölge Haçlı Seferi'nde Ultramar dünyalarına karşı savaştı. Eye of Terror'a çekildikten sonra lejyonun yapısı dağıldı; hayatta kalan bölükler bağımsız savaş grupları hâlinde Kara Haçlı Seferleri'ne katılmaya devam etti.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 Legio Fureans ("Tiger Eyes") — Hain

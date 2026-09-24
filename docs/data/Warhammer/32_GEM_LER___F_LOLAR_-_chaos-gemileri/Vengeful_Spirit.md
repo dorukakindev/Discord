@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/79/Vengeful_Spirit_Front.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Chaos Gemileri · Kayıt
 # Vengeful Spirit
 

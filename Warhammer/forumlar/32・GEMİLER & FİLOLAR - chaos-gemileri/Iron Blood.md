@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Iron_Blood_IW_Flagship.jpg/revision/latest
+
 -# THE IMPERIAL ARCHIVE · Chaos Gemileri · Kayıt
 # Iron Blood
 

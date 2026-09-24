@@ -10,4 +10,8 @@ Daemon (İblis), 40K evreninin en saf dehşetlerinden biridir; ama önemli bir n
 
 İblislerin var oluşu, ölümlülerinkinden tamamen farklıdır; gerçek uzayda "öldürüldüklerinde" gerçekten ölmezler, sadece bedenleri dağılır ve özleri Warp'a geri sürülür. Zamanla, Warp'ta yeniden biçimlenir ve geri dönebilirler; bu yüzden bir iblisi gerçekten yok etmek (örneğin Grey Knights'ın kutsanmış silahlarıyla) çok zordur. Onlar için "ölüm", geçici bir sürgünden ibarettir.
 
+## Tarihçe
+
+Warp'tan gelen varlık; Chaos tanrılarının parçaları. Ölümsüz, iradeli ve aç — İmparatorluk'un sürekli düşmanı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,6 +1,6 @@
 https://upload.wikimedia.org/wikipedia/commons/0/0b/Gheorghe_Tattarescu_-_Pelerin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Faithful — İmanlılar, Cehennem'e Karşı Duran İnsanlık
 
@@ -15,7 +15,7 @@ Cehennem'in Lejyonları'na karşı duran Kilise'nin ve inananların safı; muciz
 
 İmanlılar'ın en belirgin özelliği, imanlarının somut bir güce dönüşmesidir. Cehennem'in kapıları açıldığından beri, dünyanın dört bir yanındaki inananlar bir mucizeler dalgasıyla güçlenmiştir: melek görümleri, halkı kılıç ve haç almaya çağıran sesler, stigmatalar ve daha nice alâmet, binlerce insanı savaş alanına sürmüştür. Bu mucizevi güç, İmanlılar'ı sıradan askerlerden çok daha fazlası yapar; iman, bu evrende gerçek ve ölçülebilir bir silahtır. Stigmatik rahibeler, vahiy gören peygamberler ve kutsanmış savaşçılar, bu mucizevi gücün taşıyıcılarıdır.
 
-![gorsel](https://upload.wikimedia.org/wikipedia/commons/0/0b/Gheorghe_Tattarescu_-_Pelerin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+---
 
 İmanlılar tek bir blok değildir; içinde çok çeşitli güçler barındırır. Yeni Antakya'nın (New Antioch) disiplinli orduları, Demir Sultanlığı'nın (Iron Sultanate) simyacıları ve savaşçıları, ve Siper Hacıları'nın (Trench Pilgrims) çılgın coşkulu kalabalıkları, hepsi Cehennem'e karşı aynı tarafta savaşır; ama her birinin kendi inancı, kendi yöntemi ve kendi karakteri vardır. Onları birleştiren, Cehennem'e karşı duydukları ortak nefret ve insanlığı kurtarma azmidir. İmanlılar, Trench Crusade'de umudun ve direnişin tarafını temsil eder; en karanlık çağda bile, insanlığın inanç ve cesaretle ayakta kalmaya çalıştığını, ve bu inancın hem en büyük gücü hem de en ağır yükü olduğunu gösterir.
 

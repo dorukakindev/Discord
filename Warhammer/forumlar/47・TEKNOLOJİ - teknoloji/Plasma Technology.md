@@ -8,4 +8,8 @@ Hidrojen yakıtını bir minyatür füzyon çekirdeğinde plazmaya çevirip gün
 
 Plasma Technology (Plazma teknolojisi), İmparatorluğun en güçlü ama en tehlikeli silah ailelerinden birinin temelidir; plazma reaktörleri ve gemi sürücüleriyle aynı kadim ilkeye dayanır. Bir plazma silahında, hidrojen yakıtı önce fotonik bir durumda (genellikle sağlam bir şişede ya da sırt çantası kabında) tutulur, sonra silahın minyatür füzyon çekirdeğine beslenir ve orada plazma haline getirilir. Bu plazma güçlü manyetik alanlarla zapt edilir ve ateşlendiğinde, doğrusal bir manyetik hızlandırıcıyla, görünüşü ve sıcaklığı bir güneş patlamasını andıran bir mermi olarak fırlatılır; bu yüzden lakabı "güneş silahı"dır (sun gun).
 
+## Tarihçe
+
+İmparatorluk'un en güçlü silah sınıfı; aşırı ısıtılmış plazma fırlatan ama kullanıcıyı da tehlikeye atan antik teknoloji. 'Get Hot' kuralının sahibi — güçlü ama ölümcül.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

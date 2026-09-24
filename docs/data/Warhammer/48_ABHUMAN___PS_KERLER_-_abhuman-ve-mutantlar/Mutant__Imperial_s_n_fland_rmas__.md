@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/25/NurgleMutant.jpg/revision/latest?cb=20121115170900
+
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Mutant (Imperial sınıflandırması)
 

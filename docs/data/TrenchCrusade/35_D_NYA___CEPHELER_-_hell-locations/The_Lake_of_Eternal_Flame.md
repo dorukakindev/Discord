@@ -1,14 +1,14 @@
 https://static.wikia.nocookie.net/mythology/images/e/e3/Beguiling_of_Merlin.jpeg/revision/latest/scale-to-width-down/513?cb=20211026124432
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Kayıt
 
 # The Lake of Eternal Flame — Sonsuz Alev Gölü
 
 Cehennem'in derinliklerinde uzanan, sönmeyen ateşten bir göl; Heretic Legion'un en vahşi Kutsanmışları hac yolculuklarının sonunda bu kıyıya ulaşır.
 
 - **Tür:** Cehennem Diyarı
-- **Bölge:** Cehennem'in derinlikleri
 - **Kanon Sınıfı:** A — resmî güncel lore
+- **Bölge:** Cehennem'in derinlikleri
 
 ## Kayıt
 
@@ -16,7 +16,7 @@ The Lake of Eternal Flame (Sonsuz Alev Gölü), Cehennem'in derinliklerinde uzan
 
 Sapkın Lejyonları'na katılmak isteyenler, önce Kudüs'teki yanık bronz Cehennem Kapıları'na bir kutsal-olmayan hac yapmak zorundadır; o kapının yaydığı infernal ısı, fersahlar öteden bile teni ve ruhu kavurur. Bu adayların en korkunçları kapıdan içeri yürümeye cesaret eder ve Cehennem'in içine, ta Sonsuz Alev Gölü'nün kıyısına dek ilerler. Bu yolculuk, sıradan bir ölümlünün hem bedenini hem ruhunu yok edecek bir sınavdır; alevin, dumanın ve dehşetin arasından geçmek gerekir. Ancak gerçekten en vahşi, en kararmış ruhlar bu ateş kıyısına ulaşıp geri dönebilir; geri kalan herkes ya yolda yiter ya da kalıcı bir ızdıraba saplanır.
 
-![gorsel](https://static.wikia.nocookie.net/mythology/images/e/e3/Beguiling_of_Merlin.jpeg/revision/latest/scale-to-width-down/513?cb=20211026124432)
+---
 
 Bu yüzden Sonsuz Alev Gölü, sadece coğrafi bir nokta değil, bir eşik ve bir mührdür. Onun kıyısına varıp geri dönen, artık tam anlamıyla Cehennem'e adanmış demektir; Lejyonların en seçkin, en vahşi savaşçısı, yani Anointed olur ve cephede infernal güçlerin en korkulan elebaşları arasına katılır. Göl, Sapkınlığın insandan geriye kalanı tamamen yakıp aldığı yeri temsil eder: alevin ötesinde imandan, merhametten ya da insanlıktan eser kalmaz, yalnızca soğuk ve mutlak bir infernal sadakat kalır. Sonsuz Alev Gölü, böylece bir insanın ruhunu nerede tümüyle yitirdiğinin coğrafi adıdır. Bu yüzden gölün kıyısına varmak, bir ödül değil, bir kaybın mührüdür; oraya yürüyen, dünyaya geri döndüğünde artık eski insan değil, Cehennem'in iradesinin etten bir uzantısıdır. Trench Crusade dünyasında en korkulan Sapkın savaşçıların kökeni, çoğu zaman bu ateş kıyısına uzanır.
 
@@ -29,3 +29,7 @@ Bu yüzden Sonsuz Alev Gölü, sadece coğrafi bir nokta değil, bir eşik ve bi
 - Infernal sadakatin en uç sınavı
 
 -# Kaynaklar: Resmî place lore makaleleri
+
+---
+
+-# Çapraz: <#1551932253481738321> <#1551932078826848298>

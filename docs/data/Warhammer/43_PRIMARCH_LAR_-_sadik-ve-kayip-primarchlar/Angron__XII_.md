@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Daemon_Prince_Angron_by_Alex_Boyd.jpg/revision/latest?cb=20130116014233
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Angron (XII)
 

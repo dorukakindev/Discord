@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/lovecraft/images/e/e9/Miskatonic_U.jpg/revision/latest/scale-to-width
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Miskatonic Üniversitesi — Miskatonic University, Yasak Bilginin Kalesi

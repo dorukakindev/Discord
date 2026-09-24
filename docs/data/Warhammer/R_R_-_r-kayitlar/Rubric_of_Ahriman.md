@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Ahriman_battle.jpg/revision/latest?cb=20121003161931
+
 -# THE IMPERIAL ARCHIVE
 # Rubric of Ahriman
 

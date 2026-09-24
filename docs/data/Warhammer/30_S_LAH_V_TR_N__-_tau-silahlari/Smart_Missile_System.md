@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/Smartmissile3.jpg/revision/latest?cb=20130908073523
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Smart Missile System
 

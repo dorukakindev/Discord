@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/2f/Abyss-5e.jpg/revision/latest?cb=20200508011107
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # The Abyss — Sonsuz Katmanlar, Tanar'ri'nin Uçurumu

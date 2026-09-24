@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f6/Fusion_Blaster_4.jpg/revision/latest?cb=20130902031400
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Fusion Blaster
 

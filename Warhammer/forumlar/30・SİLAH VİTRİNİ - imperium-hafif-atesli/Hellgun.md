@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/73/Imperial_Stormtrooper_guard.jpg/revision/latest?cb=20130208042124
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Hellgun
 

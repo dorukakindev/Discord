@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/97/Wraithcannon4thEdition.jpg/revision/latest?cb=20190404165926
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Wraithcannon
 

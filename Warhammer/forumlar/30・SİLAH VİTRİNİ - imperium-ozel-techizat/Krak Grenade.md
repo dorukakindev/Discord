@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/da/Krak_grenade_2.jpg/revision/latest?cb=20140410170555
+
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Krak Grenade
 

@@ -8,4 +8,12 @@ Octarius Savaşı, M41'de bir Inquisitor'ın çaresiz ve aşırı bir planının
 
 Plan, Inquisitor Kryptman'a aitti. Galaksiyi yutmakla tehdit eden bir Tyranid hive fleet'i (Leviathan) durdurmak için çaresizdi; bu yüzden radikal bir karar aldı: hive fleet'i, savaşçı bir Ork imparatorluğu olan Octarius'un üzerine yönlendirdi. Amaç, iki canavarı birbirine kırdırıp galaksinin geri kalanına zaman kazandırmaktı.
 
+Octarius Savaşı, İmparatorluk'un en sinsi stratejik zaferidir — Inquisitor Kryptman'ın planı: Leviathan Hive Fleet'in bir kolunu, Octarius sektöründeki dev Ork imparatorluğuna (Ghazghkull'un eski hasımları) yönlendirmek. Sonuç: galaksinin en büyük iki xenos gücü birbirini yiyor ve İmparatorluk kenardan izliyor.
+
+Savaşın bedeli ve sorunu şudur: Orklar ve Tyranidler birbirini öğütse de, hayatta kalan taraf daha da güçleniyor — kazanan, hem Ork'un adaptasyonunu hem Tyranid'in biyokütlesini devralacak. Octarius, İmparatorluk'un 'kendi yaratığı olan zafer' paradoksudur — plan işe yaradı ama yarattığı canavar, muhtemelen her iki orijinal tehditten daha tehlikelidir.
+
+## Tarihçe
+
+Leviathan'ın Ork Octarius'a yöneltilmesi; Kryptman'ın iki düşmanı birbirine yedirme planı. En sinik İmparatorluk taktiği — Tyranid'ler Ork'ları, Ork'lar Tyranid'leri yer.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

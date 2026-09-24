@@ -8,4 +8,8 @@ M33'te Segmentum Pacificus'u seksen yıl boyunca anarşiye sürükleyen, sonrada
 
 War of the False Primarch (Sahte Primarch Savaşı), İmparatorluk tarihinin en gizli tutulan ve neredeyse tümüyle efsaneye karışmış bölümlerinden biridir; M33'te (yaklaşık 780-860.M33 arası) Segmentum Pacificus'u tam seksen yıl boyunca kana ve anarşiye boğan, ardından İmparatorluk arşivlerinden bilerek silinen bir iç savaştır. Bugün ondan geriye yalnızca parçalı, çelişkili ve resmen yalanlanan kayıtlar kalmıştır.
 
+## Tarihçe
+
+M33'te sahte Primarch iddiasıyla çıkan isyan; Lejyonların kendi içindeki ilk bölünme savaşı. Primarch efsanesinin ilk suiistimali.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

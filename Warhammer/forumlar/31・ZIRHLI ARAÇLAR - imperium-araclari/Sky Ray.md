@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fe/Skyray4.jpg/revision/latest?cb=20120821084522
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Sky Ray
 

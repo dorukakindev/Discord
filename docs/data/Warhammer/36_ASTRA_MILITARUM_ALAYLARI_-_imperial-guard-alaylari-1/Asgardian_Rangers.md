@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Asgardian_Rangers.jpg/revision/latest?cb=20130212044133
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Asgardian Rangers
 

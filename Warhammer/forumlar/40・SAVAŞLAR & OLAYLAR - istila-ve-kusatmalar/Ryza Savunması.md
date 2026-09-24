@@ -8,4 +8,8 @@ Ryza Savunması, M41'de (925.M41 ve sonrası) İmparatorluğun en değerli forge
 
 Kriz, 925.M41'de Ryza sistemine bir yıkım seli halinde inen WAAAGH! Grax ile başladı; ama Ryza'nın talihsizliği ikiye katlandı, çünkü neredeyse eş zamanlı olarak ikinci bir büyük Ork dalgası, WAAAGH! Rarguts da gezegenin üzerine çullandı. Tek değil, iki büyük yeşilderi istilası birden, bu kritik forge dünyasını kıskaca aldı.
 
+## Tarihçe
+
+Leviathan'ın Ryza forge dünyasına saldırısı; Adeptus Mechanicus'un en büyük savunması. Titan'lar ve plazmanın duvarı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

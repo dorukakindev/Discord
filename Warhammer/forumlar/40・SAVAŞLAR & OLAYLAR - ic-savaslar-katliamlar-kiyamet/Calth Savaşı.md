@@ -10,4 +10,8 @@ Calth Savaşı (the Battle of Calth), Horus Heresy'nin en sinsi ve en yıkıcı 
 
 Word Bearers (Lorgar'ın lejyonu), İmparator tarafından inançları yüzünden aşağılandıktan sonra gizlice Kaos'a dönmüştü ve Ultramarines'in primarch'ı Guilliman'a karşı özel bir kin besliyordu. Calth'a, orklara karşı sözde ortak bir sefer için bir araya gelme bahanesiyle geldiler. Ama bu bir tuzaktı; Ultramarines hiçbir şeyden şüphelenmezken, Word Bearers aniden ve tüm güçleriyle saldırdı.
 
+## Tarihçe
+
+Word Bearers'ın Ultramarines'a sürpriz saldırısı; Lorgar'ın ihaneti, Calth'ın küle dönüşü. Heresy'nin ilk açık lejyon-lejyon savaşı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

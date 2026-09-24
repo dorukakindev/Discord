@@ -8,4 +8,8 @@ Sanctuary 101, 40K tarihinin en kritik dönüm noktalarından birine, İmparator
 
 897.M41'de bu sessiz manastır bir kâbusla yüzleşti; gezegenin altından, çağlardır uyuyan bir mezar dünyası uyandı. Sautekh Hanedanı, Phaeron Imotekh the Stormlord önderliğinde Sanctuary 101'e saldırdı. Bu, İmparatorluğun o zamana kadar adını bile bilmediği bir düşmandı; kayıtlara göre savaş pict'leri yalnızca Rahibelerin "titreşen gölgeler" tarafından biçilişini gösterebildi. Manastırdaki tüm Savaş Rahibeleri öldürüldü ve derileri Necron'larca yüzüldü.
 
+## Tarihçe
+
+Inquisition araştırma postası; Sisters of Silence'ın eski üslerinden. Sisters'ın tarihsel izlerinden biri — 'sessiz kadınlar'ın arşivlerinin kalıntısı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

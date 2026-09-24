@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Metalica_Skitarii_Icon.png/revision/latest?cb=20150420210216
+
 -# THE IMPERIAL ARCHIVE
 # Metalica
 

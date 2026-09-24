@@ -10,4 +10,8 @@ Conversion Field (Dönüşüm Alanı), İmparatorluğun en zarif kişisel koruma
 
 Bu alan son derece güçlüdür; bir plazma silahı atışını bile zararsız hale getirebilir. Aynı teknoloji yalnızca bir kişiyi değil, teçhizatı, kapı geçitlerini ve hatta araçları korumak için de ölçeklenebilir. Ama gücü kadar nadirdir; kayıp Karanlık Çağ teknolojisinin anlaşılmadan kopyalanan bir kalıntısıdır.
 
+## Tarihçe
+
+Enerji kalkanının eski adı; Conversion Field teknolojisi. Geleneksel İmparatorluk savunmasının adı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

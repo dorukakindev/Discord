@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d2/RogalDornTankTwinBattleCannons.png/revision/latest?cb=20230127165210
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Battle Cannon
 

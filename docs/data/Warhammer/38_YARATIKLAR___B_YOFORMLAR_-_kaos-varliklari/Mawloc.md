@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/63/Mawloc_Attack.png/revision/latest?cb=20140725230754
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Mawloc
 

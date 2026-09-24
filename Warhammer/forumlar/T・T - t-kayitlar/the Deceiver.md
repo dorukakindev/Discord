@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/82/Deceiver.jpg/revision/latest?cb=20200813103511
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # the Deceiver
 

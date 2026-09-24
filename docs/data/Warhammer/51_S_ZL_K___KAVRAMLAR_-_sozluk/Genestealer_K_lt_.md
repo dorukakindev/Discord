@@ -8,4 +8,8 @@ Bir Genestealer'ın bir dünyayı içeriden kuşaklar boyu enfekte edip melez bi
 
 Genestealer Kültü (Genestealer Cult), Tyranid tehdidinin en sinsi ve en aldatıcı yüzüdür; bir dünyayı doğrudan istila ile değil, içeriden, kuşaklar boyu süren gizli bir enfeksiyonla ele geçirir. Bir Genestealer (bir Tyranid öncü organizması) bir gezegene sızar ve insanları kendi genetik koduyla enfekte etmeye başlar.
 
+## Tarihçe
+
+Genestealer enfeksiyonunun toplumsal yönü; 'Four-Armed Emperor' maskesiyle yayılan gizli yapı. En sinsi istila — ailenin içindeki düşman.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Lorgar_%26_Angron_Purge_of_Nuceria.jpg/revision/latest?cb=20121217052452
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Shadow Crusade
 

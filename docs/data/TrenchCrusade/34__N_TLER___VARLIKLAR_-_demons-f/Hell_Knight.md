@@ -1,8 +1,8 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/a/ac/Hell_Knight.jpg/revision/latest/scale-to-width-down/900?cb=20250428022705
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/a/ac/Hell_Knight.jpg/revision/latest/scale-to-width-down/900?cb=20250428022705)
+---
 
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Hell Knight — Cehennem Şövalyesi, Zırhına Hapsedilmiş Lanetli Savaşçı
 
@@ -18,6 +18,8 @@ Cehennem Şövalyesi (Hell Knight), Trench Crusade'de Cehennem'in en trajik sava
 
 Lanetin kendisi, akıl almaz bir dehşettir. Cehennem Şövalyesi, Çukur'un (the Pit) yanan saraylarından sürüldükten sonra, bedeninin alabaster mimarisi çarpıtılmış, binlerce kez kendi üzerine katlanmış ve sonunda bir zamanlar şanlı olan zırhının içine gömülmüştür. O zırh, artık bir koruma değil, sonsuz bir hapishanedir; varlık, kendi metal kabuğunun içinde, çıkışı olmayan bir işkenceye mühürlenmiştir. Onun her hareketi, bu hapsin ağırlığını taşır; her adımı, bir zamanlar sahip olduğu görkemin ve şimdi sonsuza dek mahkûm olduğu sefaletin acı bir hatırlatmasıdır.
 
+---
+
 Bu yüzden Cehennem Şövalyesi, savaş alanında yalnızca bir asker değil, yürüyen bir trajedi ve bastırılmış bir öfkedir. Bir zamanlar yücelerde olup şimdi zincire vurulmuş olmanın intikamı, onun her darbesinde yankılanır; o, kendisini bu hâle getiren efendisinden alamadığı intikamı, karşısına çıkan her düşmandan almaya çalışır. Cehennem Şövalyesi, Trench Crusade'de Cehennem'in acımasız iç düzenini temsil eder: orada sadakat hiçbir şeyi garanti etmez, en yüce hizmetkâr bile bir kapris yüzünden ebedi bir cezaya çarptırılabilir, ve düşüşün en korkuncu, bir zamanlar ne kadar yükseldiğini hatırlayarak yaşananıdır. O, kendi zırhının içinde çığlık atan, ama o çığlığın asla duyulmadığı, lanetli bir görkem kalıntısıdır.
 
 ## Güçler
@@ -29,3 +31,7 @@ Bu yüzden Cehennem Şövalyesi, savaş alanında yalnızca bir asker değil, y�
 - Cehennem'in yanan saraylarından sürülmüş, intikam dolu bir savaşçı
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978>

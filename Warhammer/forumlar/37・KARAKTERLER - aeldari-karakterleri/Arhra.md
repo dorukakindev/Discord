@@ -1,0 +1,27 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Arhra_-_Father_of_Scorpions.jpg/revision/latest?cb=20120821222535
+
+-# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
+
+# Arhra
+
+*Karanlık Baba*
+
+Striking Scorpion Aspect'inin kurucusu, düşmüş Phoenix Lord; Kâbustan kaçıp yolunu kendi karartısında sürdüren efsane.
+
+- **Kategori:** Phoenix Lord (düşmüş)
+- **Fraksiyon:** Aeldari — Striking Scorpion / Incubi
+- **Dönem:** Fall sonrası
+- **Köken:** İlk Phoenix Lord'lardan; Striking Scorpion Aspect'inin kurucusu
+- **Teknik / Biyolojik Özellikler:** Efsanevi yakın dövüş ustası; düşüşünden sonra öğretisi hem Scorpion'larda hem Incubi'de iz bıraktı.
+- **Bilinen Kullanıcılar / Operatörler:** Striking Scorpion Aspect; Incubi tarikatı (rivayet)
+- **Önemli Olaylar:** Khaine'in öfkesine düşüşü; Drukhari'ye geçip Incubi'yi kurduğu söylenir.
+
+## Tarihçe
+
+Arhra, Striking Scorpion Aspect'inin ilk Phoenix Lord'uydu ve karanlığa düştü — kayıtlar 'Khaine'in öfkesi onu tüketti' der. Düşmüş bir Phoenix Lord olarak Drukhari'ye geçtiği ve Incubi tarikatının kurucusu olduğu rivayet edilir. Eldarlar onu hain olarak lanetler ama zırhının hâlâ dolaştığına inanan vardır.
+
+## Kanon Notu
+
+Arhra'nın Drukhari'ye geçişi kesin kayıt değil, yaygın kabul gören rivayettir; arşiv ikisini ayırır.
+
+-# Kaynaklar: *Codex: Aeldari*; *Codex: Drukhari*

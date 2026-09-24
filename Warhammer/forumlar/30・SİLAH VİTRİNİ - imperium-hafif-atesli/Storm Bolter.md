@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/62/StormBolterSchematic.png/revision/latest?cb=20171106043423
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Storm Bolter
 

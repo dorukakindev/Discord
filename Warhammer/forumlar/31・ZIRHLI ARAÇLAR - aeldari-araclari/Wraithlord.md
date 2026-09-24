@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/AlaitocWraithlord.JPG/revision/latest?cb=20150325165728
+
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Wraithlord
 

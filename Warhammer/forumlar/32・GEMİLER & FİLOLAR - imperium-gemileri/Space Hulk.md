@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/be/Death_of_Integrity_Diorama.PNG/revision/latest?cb=20160105044723
+
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Space Hulk
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Talon_of_Horus.png/revision/latest?cb=20130821095438
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Talon of Horus
 

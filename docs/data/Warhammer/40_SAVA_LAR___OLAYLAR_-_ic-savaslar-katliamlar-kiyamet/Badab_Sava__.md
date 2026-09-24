@@ -10,4 +10,8 @@ Badab Savaşı, M41'de Space Marine chapter'larının birbirine kılıç çekti�
 
 Savaş, Astral Claws chapter'ının Chapter Master'ı Lufgt Huron'un İmparatorluk denetimine başkaldırmasıyla başladı; Badab sektöründeki kaynakları ve öşürü Terra'ya teslim etmeyi reddetti ve kendi bağımsız bölgesini kurmaya çalıştı. Birkaç chapter ona katıldı (Mantis Warriors, Lamenters gibi), birçoğu ise İmparatorluğa sadık kaldı.
 
+## Tarihçe
+
+Lufgt Huron'un Badab'ı isyan ettirmesi; Astral Claws'un haine dönüşü. İmparatorluk'un en ağır iç-Astartes savaşı — Huron'dan Huron Blackheart doğdu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

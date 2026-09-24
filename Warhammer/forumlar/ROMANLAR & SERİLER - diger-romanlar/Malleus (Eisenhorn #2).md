@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/37/Xenos_%282001%29_cover.jpg/revision/latest?cb=20160513205553
+
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Malleus (Eisenhorn #2)
 

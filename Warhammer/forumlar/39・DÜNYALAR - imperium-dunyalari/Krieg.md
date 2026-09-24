@@ -1,6 +1,8 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/db/Krieg.jpg/revision/latest?cb=20120628044710
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Krieg — Krieg
+# Krieg
 
 Bir isyan sonrası nükleer ateşle cezalandırılmış, radyasyonla zehirlenmiş dünya; sakinleri kefaret olarak feda edilmeye hazır Death Korps alaylarını üretir.
 

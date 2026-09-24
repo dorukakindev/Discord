@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/94/2010-DAMNOS-%282%29_01.jpg/revision/latest?cb=20111207024216
+
 -# THE IMPERIAL ARCHIVE
 # Damnos
 

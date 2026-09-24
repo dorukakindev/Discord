@@ -8,4 +8,8 @@ Isha, Aeldari panteonunun şifa, bereket, doğurganlık ve merhamet tanrıçası
 
 Isha'nın hikâyesi, Aeldari mitlerinin en dokunaklılarından biridir. Düşüş'te panteon yok olurken, en karanlık anlatıya göre Isha tümüyle yok olmadı; çürüme tanrısı Nurgle onu Warp'taki bahçesinde esir aldı. Orada Nurgle, ürettiği her yeni ölümcül salgını önce Isha üzerinde dener ve sonra onu iyileştirmeye zorlar; böylece tanrıça, sonsuz bir hastalık-şifa döngüsüne hapsolmuştur.
 
+## Tarihçe
+
+Bereket ve yaşam tanrıçası; Slaanesh'ten kaçıp Nurgle'ın eline düştü, bahçesinde pranga. Her kaçışında hastalıklara şifa getirir — zindanından sızan merhamet.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

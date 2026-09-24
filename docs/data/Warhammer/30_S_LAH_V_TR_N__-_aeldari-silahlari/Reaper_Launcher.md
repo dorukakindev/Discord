@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Dark_Reaper_Missile_Launcher.png/revision/latest?cb=20140108095105
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Reaper Launcher
 

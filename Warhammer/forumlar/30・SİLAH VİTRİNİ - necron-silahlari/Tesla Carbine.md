@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Teslacarbine10.jpg/revision/latest?cb=20150316112316
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Tesla Carbine
 

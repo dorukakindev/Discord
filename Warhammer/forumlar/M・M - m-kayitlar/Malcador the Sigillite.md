@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Malcador_the_Sigillite.jpg/revision/latest?cb=20120809162533
+
 -# THE IMPERIAL ARCHIVE
 # Malcador the Sigillite
 

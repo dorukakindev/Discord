@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Seeker_missile.jpg/revision/latest?cb=20120821112831
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Seeker Missile
 

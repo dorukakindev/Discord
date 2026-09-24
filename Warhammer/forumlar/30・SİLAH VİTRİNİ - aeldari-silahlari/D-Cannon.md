@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9d/D_Cannon.jpg/revision/latest?cb=20110718080659
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # D-Cannon
 

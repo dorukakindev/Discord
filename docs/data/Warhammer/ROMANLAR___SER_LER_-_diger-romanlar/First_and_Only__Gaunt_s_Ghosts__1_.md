@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5c/FirstandOnlyCover.jpg/revision/latest?cb=20171226053857
+
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # First and Only (Gaunt's Ghosts #1)
 

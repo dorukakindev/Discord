@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/Mars_Pattern_Turbolaser.jpg/revision/latest?cb=20131107141648
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Turbo-Laser Destructor
 

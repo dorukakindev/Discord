@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c7/VitrianDragoon.jpg/revision/latest?cb=20201007201121
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Vitrian Dragoons
 

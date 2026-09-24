@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Mk_III_12_Burst_Prom_Tank_BA.png/revision/latest?cb=20140108011006
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Heavy Flamer
 

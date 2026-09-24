@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Explorator_by_andreauderzo.jpg/revision/latest?cb=20120702065647
+
 -# THE IMPERIAL ARCHIVE
 # Explorators
 

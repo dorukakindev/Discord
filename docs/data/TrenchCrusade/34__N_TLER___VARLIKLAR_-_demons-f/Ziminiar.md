@@ -1,4 +1,4 @@
--# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
+-# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Ziminiar — Kuzeyin İblisi, Düşen Meleklerin Hükümdarlarından Biri
 
@@ -14,6 +14,8 @@ Ziminiar, Trench Crusade'de düşen meleklerin hükümdarlarından (royalty of f
 
 Ziminiar'ın gücü, henüz tam olarak serbest kalmamıştır, ama tehdidi devasadır. Azizler Meclisi (Council of Saints), Kilise'nin Prenslerine korkunç bir uyarıda bulunmuştur: eğer Ziminiar bir gün Yedi Başlı Yılan'ın Gurur Başı olursa, Kuzey'i kendi mülkü olarak talep edecek ve onun geçişiyle dağlar titreyecektir. Bu, Trench Crusade'in cehennem siyasetinin ne kadar tehlikeli olduğunu gösterir; çünkü bir baş iblisin saraydaki yükselişi, doğrudan yeryüzündeki bir bölgenin kaderini belirler. Ziminiar henüz o tahtı ele geçirmemiş olsa da, gölgesi tüm Kuzey'in üzerine düşmektedir.
 
+---
+
 Ziminiar yine de boş durmamıştır. 1908 yılında, onun takipçileri güneye doğru tam ölçekli bir istila başlatmış, derinlere kadar saldırmıştır; bu tehdide karşı ilk savunma hattını, savaş naralarından adını alan Finlandiyalı hafif süvariler Hakkapeliittalar oluşturur. Ziminiar, Trench Crusade'de henüz tam zincirinden boşalmamış, ama her an boşalabilecek kadim bir dehşeti temsil eder: kuzeyin buzlu ıssızlığında bekleyen, bir taht kavgasının sonucuna bağlı olarak tüm bir kıtayı yutmaya hazır, sabırlı ve hesaplı bir düşmüş hükümdar. O, Cehennem'in en korkunç tehditlerinin bazen henüz gerçekleşmemiş olanlar olduğunu gösterir.
 
 ## Güçler
@@ -25,3 +27,7 @@ Ziminiar yine de boş durmamıştır. 1908 yılında, onun takipçileri güneye 
 - Hellgate yeri ve zamanı, Cehennem'in iktidar savaşlarıyla kayar
 
 -# Kaynaklar: Resmî entity lore makaleleri
+
+---
+
+-# Çapraz: <#1551932224213884978> <#1551932121206226974>

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f2/Basilisk2.png/revision/latest?cb=20120218011457
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Basilisk
 

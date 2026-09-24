@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Magnus_the_Red_Primarchs_coverart.png/revision/latest?cb=20161119115333
+
 -# THE IMPERIAL ARCHIVE
 # Council of Nikaea
 

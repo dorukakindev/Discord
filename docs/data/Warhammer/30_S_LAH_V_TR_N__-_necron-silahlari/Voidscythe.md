@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Novokh_Icon.png/revision/latest?cb=20160811012612
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Voidscythe
 

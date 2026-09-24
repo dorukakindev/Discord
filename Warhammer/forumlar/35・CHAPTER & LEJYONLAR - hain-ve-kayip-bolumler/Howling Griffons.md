@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/43/Howling_Griffons_SP2.jpg/revision/latest?cb=20200502033253
 
+https://static.wikia.nocookie.net/warhammer40k/images/4/43/Howling_Griffons_SP2.jpg/revision/latest?cb=20200502033253
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Howling Griffons — Uluyan Grifonlar

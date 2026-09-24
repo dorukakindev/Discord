@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/23/Elysian_Drop_Forces_deploying_on_planet_Betalis_III.png/revision/latest?cb=20120123014142
+
 -# THE IMPERIAL ARCHIVE
 # Elysian Drop Troops
 

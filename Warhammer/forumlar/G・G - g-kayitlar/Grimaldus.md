@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a7/Grimuldus.jpeg/revision/latest?cb=20170829175324
+
 -# THE IMPERIAL ARCHIVE
 # Grimaldus
 

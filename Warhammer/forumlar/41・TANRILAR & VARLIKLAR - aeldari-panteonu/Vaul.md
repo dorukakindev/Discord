@@ -8,4 +8,8 @@ Vaul, Aeldari panteonunun demirci tanrısıdır; zanaatın, yapma eyleminin ve y
 
 En ünlü miti, Khaine ile arasındaki anlaşmadır: Vaul, savaş tanrısı Khaine'e olan bir borcu ödemek için yüz adet kusursuz, büyülü kılıç dövmeye söz verdi. Bu kılıçların en ünlüsü Anaris'tir. Hikâye, savaş (Khaine) ile yaratım (Vaul) arasındaki ebedi gerilimi temsil eder; demirci tanrı, savaşçı tanrının silahlarını yapmak zorunda kalır ama bu onun özgür ruhuna ters düşer.
 
+## Tarihçe
+
+Demirci tanrısı; ruhlaştırılmış metalin ustası, Tears of Isha'nın dövücüsü. Khaine'in kölesi yapıldı — bugün Yme-Loc'un yolu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
