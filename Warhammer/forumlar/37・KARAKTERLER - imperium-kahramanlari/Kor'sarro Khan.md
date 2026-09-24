@@ -12,4 +12,8 @@ Kor'sarro Khan, White Scars'ın önde gelen komutanı ve Chapter'ın 'Stormseer'
 
 Khan'ın 'Moondrakkan' adlı kişisel bisikleti ve kılıç 'Moonfang', Chapter'ın en bilinen emanetlerindendir; komutası altındaki White Scars, hem pusu hem de açık savaşta rakipsizdir. Kor'sarro, Codex'in 'şeref' yönünü barbar dünyanın öfkesiyle birleştiren nadir komutanlardandır — White Scars'ın 'medeni barbar' idealinin yaşayan kanıtıdır.
 
+## Tarihçe
+
+White Scars 3rd Company'nin Khan'ı; Chapter'ın binicilik ve hız doktrininin en iyi örneği. Voldorius'u on yıl avlayıp Kelmain'te başını aldı — White Scars'ın 'sabırlı avcı' kimliğinin yaşayan halidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

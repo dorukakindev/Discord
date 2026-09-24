@@ -1,8 +1,11 @@
 -# THE IMPERIAL ARCHIVE · Harf Kayıtları · Dizin
 # P — Kayıt Dizini
 
+- <#1552690531274989609>
+- <#1552690652456947723>
 - <#1551818153271627807>
 - <#1551818264244658273>
+- <#1552694160627081216>
 - <#1551818295093497868>
 - <#1551829670100729938>
 - <#1551818176046825583>
@@ -20,11 +23,13 @@
 - <#1551818237363093617>
 - <#1551818131679215728>
 - <#1551818479668174858>
+- <#1552694203027296330>
 
--# 19 kayıt · güncel
-
+• **Painboy (Dok)**
+• **Palatine Heresy**
 • **Pariah Nexus**
 • **Patriarch and Magus**
+• **Pavonis**
 • **Pedro Kantor**
 • **Perpetual**
 • **Perturabo**
@@ -42,3 +47,4 @@
 • **Psychic Awakening**
 • **Psykers**
 • **Puretide**
+• **Pyrovore**

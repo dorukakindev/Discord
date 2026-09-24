@@ -14,4 +14,8 @@ Njal Stormcaller, Space Wolves'un en güçlü Rune Priest'i ve Fenris'in fırtı
 
 Njal'ın ünü, Fenris Sistemi Kuşatması sırasında Magnus'un oğullarına karşı tek başına tuttuğu savunmayla perçinlendi; Chapter'ın 'akıl hocası' ve 'kâhini' olarak, Grimnar'ın kararlarının arka planındaki en derin ses odur. Space Wolves'un 'medeni barbar' kimliğinde Njal, barbar tarafının manevi çapasıdır — Fenris'in mitolojisi, geleceği ve geçmişi onun rüyalarında yaşar.
 
+## Tarihçe
+
+Space Wolves'un baş Rune Priest'i; Fenris'in göklerini ve ruhlarını çağıran yaşlı kurt. Russ'ın kaderini gördüğü söylenir — Chapter'ın en derin kehanetlerini taşıyandır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Dark_Eldar_Ravager.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Dark_Eldar_Ravager.jpg/revision/latest?cb=20111105095123
 
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Ravager

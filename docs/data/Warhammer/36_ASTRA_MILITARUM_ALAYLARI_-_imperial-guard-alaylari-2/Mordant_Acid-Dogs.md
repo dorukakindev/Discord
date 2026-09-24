@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/88/Mordant_Acid-Dog.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/88/Mordant_Acid-Dog.jpg/revision/latest?cb=20171009205229
 
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Mordant Acid-Dogs

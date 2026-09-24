@@ -10,4 +10,8 @@ Hoec, Aeldari panteonunun keşif ve gezginler tanrısıdır; "Gezgin" ve "Sessiz
 
 Aeldari teolojisinde Hoec özel bir yer tutar: Kurnous bedeni, Cegorach ruhu temsil ederken, Hoec ırkın "zihnini" simgeler. Aeldari'ye maceracılık armağanını, yeniyi ve heyecan vericiyi arama dürtüsünü bağışlayandır; bu sayede ırk, zihinlerini genişletip evreni keşfetmeye yönelmiştir. O, bilinmeyene duyulan merakın ve yolculuğun ilahi kaynağıdır.
 
+## Tarihçe
+
+Gölgelerin ve yalnız yolcuların tanrısı; Pathfinder ve Ranger'ların koruyucusu. Sessizlik ve mesafe tanrısı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

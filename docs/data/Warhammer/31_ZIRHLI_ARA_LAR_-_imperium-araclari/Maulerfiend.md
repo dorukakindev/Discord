@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Maulerfiend2.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Maulerfiend2.png/revision/latest?cb=20170829054955
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Maulerfiend

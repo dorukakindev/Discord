@@ -10,4 +10,8 @@ Navigator'lar, İmparatorluk'un 'Warp pilotlarıdır' — üçüncü gözleriyle
 
 Navigator'ın üçüncü gözü (Warp Eye), hem lütuf hem lanettir: açıldığında Warp'ı görür ama bakana delilik veya ölüm getirir; bu yüzden Navigator'lar gözlerini 'Shroud' ile kaparlar. Gene-line'ın korunması, İmparatorluk'un en gizli projelerinden biridir — Navigator'suz İmparatorluk, Warp'ta kör olur ve çöker; bu yüzden Navis Nobilite, İmparatorluk'un 'en gerekli mutantları' olarak hem saygı hem nefret görür.
 
+## Tarihçe
+
+Navigator soyunun genetik mirası; Warp'ta yol gösterme yeteneğinin kaynağı. Soyhanedanların en büyük serveti — gerçek iktidar burada.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

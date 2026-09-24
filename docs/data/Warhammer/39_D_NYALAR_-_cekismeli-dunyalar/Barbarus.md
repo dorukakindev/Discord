@@ -12,4 +12,8 @@ Barbarus'un çevresi efsanevidir: sürekli sis ve zehirli bulutlarla kaplı, üs
 
 Barbarus'un dönüşümü, Mortarion'un gelişiyle başladı: küçük bir çocuk olarak gezegene düşen Mortarion, Overlord'lar tarafından büyütüldü ama onların kıyımına isyan etti ve insanları birleştirerek dağları tek tek temizledi — bu, İmparatorluk tarihinin en büyük 'kurtuluş' efsanelerinden biridir. Son Overlord'u yendiğinde İmparator ona lejyonunu verdi; Barbarus'un zehirli kalıtımı, Death Guard'ın 'zehir ve dayanıklılık' doktrininin köküdür — gezegenin külleri, hâlâ Nurgle'un gülümseyen simgesidir.
 
+## Tarihçe
+
+Mortarion'un evi; zehirli atmosferiyle lejyonu doğrudan şekillendiren Death Guard dünyası. Nurgle'ın tohumu burada atıldı — gezegen zaten bir 'veba dünyası'ydı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

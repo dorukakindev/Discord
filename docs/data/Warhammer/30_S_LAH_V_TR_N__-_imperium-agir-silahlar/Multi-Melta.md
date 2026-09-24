@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Space_Marine_Multi-Melta.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Space_Marine_Multi-Melta.jpg/revision/latest?cb=20110515030441
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Multi-Melta

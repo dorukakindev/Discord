@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/da/NecropolisCover.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/da/NecropolisCover.jpg/revision/latest?cb=20171226193244
 
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Necropolis (Gaunt's Ghosts #3)

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/25/Salamanders_Chapter_Livery.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/25/Salamanders_Chapter_Livery.jpg/revision/latest?cb=20161118072946
 
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Salamanders

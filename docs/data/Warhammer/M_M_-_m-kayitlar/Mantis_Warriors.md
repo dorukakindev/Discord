@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/06/MW_Shoulder_Pad.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Mantis Warriors
 

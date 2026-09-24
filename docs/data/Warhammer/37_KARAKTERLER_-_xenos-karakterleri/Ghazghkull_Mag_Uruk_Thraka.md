@@ -14,4 +14,8 @@ Ghazghkull'un yıldızı, Armageddon'un kül bölgelerinde yükseldi: II. ve III
 
 III. Savaş'ta İmparatorluk'un zaferi Ghazghkull'u durduramadı: hayatta kaldı, yeniden toplandı ve 'Yeni Büyük WAAAGH!' olarak bilinen, galaksinin en büyük ork hareketinin tohumlarını ekti. Bugün Ghazghkull, İmparatorluk stratejistlerinin en çok korktuğu isimdir — bir Ork liderinden çok, 'Ork ırkının kendisini gerçekleştirme' efsanesinin yaşayan kanıtıdır.
 
+## Tarihçe
+
+Gork ve Mork'un peygamberi; tarihin en büyük Ork Warlord'u. Armageddon'u iki kez istila etti, Ullanor'u gördü, Prophet of the WAAAGH! olarak Ork türünün lideri sayılır. Imperial Fists'in eksik primarch'ından bile daha tehlikeli.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

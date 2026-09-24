@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/de/UR025.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/de/UR025.jpg/revision/latest?cb=20181109222157
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Men of Iron

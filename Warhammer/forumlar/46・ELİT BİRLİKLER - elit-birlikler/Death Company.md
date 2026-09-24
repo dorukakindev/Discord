@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f5/DA_Co_Saltires.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/f/f5/DA_Co_Saltires.png/revision/latest?cb=20170111202206
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Death Company

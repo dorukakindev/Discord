@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/revision/latest?cb=20120915224004
 
+https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/revision/latest?cb=20120915224004
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # World Eaters — Dünya Yiyenler (XII. Lejyon)

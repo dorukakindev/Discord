@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/da/Hierophant_-_Magos_Biologis_sketch.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/da/Hierophant_-_Magos_Biologis_sketch.jpg/revision/latest?cb=20110719012512
 
 -# THE IMPERIAL ARCHIVE · Tyranid Araclari · Kayıt
 # Hierophant

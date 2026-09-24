@@ -14,4 +14,8 @@ Ulthwé, 'Fate's Watchmen' (Kaderin Bekçileri) olarak bilinen ve Eye of Terror'
 
 Ulthwé'nin ünü, Eldrad Ulthran gibi efsanevi farseer'lerden ve Craftworld'ün 'Black Guardian' militiasından gelir — yeterli Aspect Warrior'ı olmadığı için tüm nüfusun savaşa katıldığı, 'herkes asker' doktrini. Ulthwé, diğer Craftworld'lerden daha fazla bedel öder ama bilgi ağı da en geniş olanıdır — Cadia'nın düşüşünü önceden görenler, Ulthwé'nin farseer'leriydi; Craftworld'ün kaderi, İmparatorluk'un kaderiyle neredeyse bağlıdır.
 
+## Tarihçe
+
+Kâhinlerin craftworld'ü; Eldrad Ulthran'ın evi. En çok seer'ın olduğu, en kötü haberlerin geldiği yer — Aeldari'nin nöbetçisi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

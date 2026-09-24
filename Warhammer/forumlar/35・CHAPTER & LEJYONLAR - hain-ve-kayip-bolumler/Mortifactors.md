@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg/revision/latest?cb=20190901001441
 
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg/revision/latest?cb=20190901001441
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Mortifactors — Mortifactor'lar

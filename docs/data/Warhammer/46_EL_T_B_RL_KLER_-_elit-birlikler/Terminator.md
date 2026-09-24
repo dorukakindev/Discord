@@ -8,4 +8,8 @@ En ağır kişisel zırh olan Tactical Dreadnought Armour'u giyen elit Space Mar
 
 Terminator, bir Space Marine Chapter'ı içindeki en seçkin ve en korkunç birim tiplerinden biridir; sıradan bir asker değil, en ağır zırhı kuşanmış bir savaş veteranıdır. Adını taşıdığı şey, giydiği eşsiz zırhtır: Tactical Dreadnought Armour (Taktik Dretnot Zırhı), kısaca TDA. Bu, bir insanın taşıyabileceği en kalın, en dayanıklı ve en ağır kişisel zırhtır; neredeyse yürüyen bir tank gibidir. Bu zırhı kuşanan bir Space Marine, savaş alanının en ölümcül ortamlarına korkusuzca dalabilir.
 
+## Tarihçe
+
+En ağır zırhlı Astartes; Tactical Dreadnought Armour içinde yürüyen tank. Terminatör geldiğinde savaşın yönü değişir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

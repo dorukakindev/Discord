@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/28/Mk_XII_%27Comet%27_Pattern_Novamarines.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/28/Mk_XII_%27Comet%27_Pattern_Novamarines.jpg/revision/latest?cb=20140117195605
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Plasma Cannon

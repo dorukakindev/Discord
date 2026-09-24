@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/37/Mars_Red_Planet2.jpg/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Mars
 

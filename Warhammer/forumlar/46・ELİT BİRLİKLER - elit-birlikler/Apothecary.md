@@ -12,4 +12,8 @@ Apothecary, Space Marine Chapter'ının 'cerrah ve genetik bekçisi'dir — sava
 
 Apothecary'nin savaş rolü kritiktir: Narthecium eldivenleri ve 'Reductor' aletiyle hem cerrah hem 'son dokunuş' verir — kurtarılamayan kardeşlere 'İmparator'un Huzuru'nu (ölümü) vermek de onun görevidir. Chapter kayıtlarında Apothecary, 'hem en şefkatli hem en gerekli' figürdür — bir Chapter'ın savaş gücünün ötesinde, onun 'var olabilme' güvencesidir.
 
+## Tarihçe
+
+Chapter'ın hekimi ve gene-seed koleksiyoncusu; düşenlerin genetik mirasını kurtaran beyaz-zırhlı doktor. Chapter'ın geleceğini elinde taşır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

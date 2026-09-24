@@ -10,4 +10,8 @@ The Hand of Dominion (Egemenlik Eli), Primarch Roboute Guilliman'ın taşıdığ
 
 Bir güç eldiveni olarak, Hand of Dominion en ağır zırhı parçalayabilir, bir tankı ezebilir ve en güçlü düşmanları tek bir darbeyle yok edebilir; enerji alanıyla kaplı bu dev yumruk, neredeyse hiçbir şeyin dayanamayacağı bir güç taşır. Ama onu sıradan bir güç eldiveninden ayıran bir özelliği daha vardır; içine gömülü, entegre bir bolter taşır, böylece Guilliman hem yakın dövüşte ezici, hem de menzilli ateşte ölümcül olur.
 
+## Tarihçe
+
+Sons of Horus'un eski relic'i; Horus'un iktidar sembolü. Warmaster'ın ilk işareti — gücün başlangıcı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

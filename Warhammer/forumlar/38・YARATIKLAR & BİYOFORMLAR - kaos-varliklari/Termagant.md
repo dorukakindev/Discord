@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/90/Termagaunt_2.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/9/90/Termagaunt_2.png/revision/latest?cb=20141230013259
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Termagant

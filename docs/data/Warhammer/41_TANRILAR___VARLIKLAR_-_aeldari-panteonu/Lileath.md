@@ -10,4 +10,8 @@ Lileath, Aeldari panteonunun en genç tanrıçasıdır; "Bakire" (the Maiden) ol
 
 Lileath, kehanetli rüyalarıyla ünlüydü; gördüğü düşler tanrılar arasında bile gerçek birer kehanet sayılırdı. En önemli rüyasında, savaş tanrısı Khaine'in bir gün, Isha ve Kurnous'un ölümlü soyundan gelen Aeldari'nin elinde parçalara ayrılacağını gördü. Bu kehanet, Aeldari mitolojisinin kaderini belirleyen dönüm noktalarından biridir.
 
+## Tarihçe
+
+Rüya ve kehanet tanrısı; seer'ların patroniçesi. Fall'da Slaanesh'e yutuldu ama rüyaları hâlâ Eldar yollarını aydınlatır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

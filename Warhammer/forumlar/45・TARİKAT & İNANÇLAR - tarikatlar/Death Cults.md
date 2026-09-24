@@ -12,4 +12,8 @@ Death Cults, İmparatorluk'un 'ölüm tapınması' tarikatlarıdır — hem İmp
 
 Death Cults'un ritüelleri, İmparatorluk'un en vahşi ibadetleridir: 'Blood Sacrament' (kan kurbanı), 'Red Tears' ve 'Sanguinary' törenleri, öldürmenin 'kutsal hizmet' olduğu inancını taşır. İmparatorluk için bu tarikatlar 'gerekli kötülük'tür — hem Assassinorum'a asker sağlarlar hem de 'vahşeti kanalize eden' bir boşaltım vanası olarak çalışırlar; ancak kontrolsüz kaldıklarında, kaosa kaymanın en hızlı yoludur.
 
+## Tarihçe
+
+Ölüm kültleri; kadim şiddet geleneklerinin Inquisition'la iç içe olduğu yeraltı tarikatları. Assassinorum'un sivil kardeşi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608
 
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Void Armour

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a0/Tyranid_Carnifex1.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/a0/Tyranid_Carnifex1.jpg/revision/latest?cb=20110719032415
 
 -# THE IMPERIAL ARCHIVE · Tyranid Araclari · Kayıt
 # Carnifex

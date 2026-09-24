@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Mortarion%2C_Prince_of_Decay.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Mortarion
 

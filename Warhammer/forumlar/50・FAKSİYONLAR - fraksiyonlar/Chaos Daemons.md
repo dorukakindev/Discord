@@ -12,4 +12,8 @@ Chaos Daemons (Kaos İblisleri), Warp'ın 'yaşayan' ordusudur — dört tanrın
 
 Daemon'ların tehlikesi, 'fiziksel olmayan' doğalarıdır: onlar sadece Warp'ta tam anlamıyla 'var' olur ve gerçek dünyaya ancak 'tessellation' (geçici beden) ile geçebilirler — bir daemon'u öldürmek onu yok etmez, sadece geri gönderir. İmparatorluk için Chaos Daemons, 'asıl düşman'dır — Space Marine'ler, Ork'lar veya diğerleri 'savaş' içindir ama daemon'lar 'varoluş' savaşıdır; bir daemon istilası, bir gezegenin 'ruhunu' da yer.
 
+## Tarihçe
+
+Warp'tan gelen şeylerin genel sınıfı; Khorne, Nurgle, Tzeentch, Slaanesh ve Undivided güçleri. İmparatorluk'un tek gerçek düşmanı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

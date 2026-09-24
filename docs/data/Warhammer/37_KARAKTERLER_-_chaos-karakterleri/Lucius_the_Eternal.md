@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/da/Armour_of_Shrieking_Souls.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/da/Armour_of_Shrieking_Souls.jpg/revision/latest?cb=20130830210624
 
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Lucius the Eternal

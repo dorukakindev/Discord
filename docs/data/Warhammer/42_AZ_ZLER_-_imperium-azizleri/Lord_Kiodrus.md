@@ -8,4 +8,8 @@ Aziz Kiodrus, 35'inci binyıldaki büyük Sabbat Worlds Haçlı Seferi'nin perde
 
 Kiodrus, gücünün doruğundayken Sabbat'ın etrafında toplanan çağın en parlak stratejistleri arasında özel bir yer tutuyordu.
 
+## Tarihçe
+
+Imperial Guard'ın eski komutanlarından; birkaç kaynakta adı geçen efsanevi subay. Yerel/periodik kahraman.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

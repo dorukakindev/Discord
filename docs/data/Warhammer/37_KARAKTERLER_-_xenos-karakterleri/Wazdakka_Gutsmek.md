@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/00/WazdakkaGutsmek.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/0/00/WazdakkaGutsmek.jpg/revision/latest?cb=20110727051547
 
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Wazdakka Gutsmek

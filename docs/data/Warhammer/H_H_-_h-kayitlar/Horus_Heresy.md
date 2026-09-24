@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/82/HH_Eye_of_Horus_icon.png/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Horus Heresy
 

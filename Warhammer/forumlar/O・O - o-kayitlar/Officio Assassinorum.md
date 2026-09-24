@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Assassinorum_Icon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Officio Assassinorum
 

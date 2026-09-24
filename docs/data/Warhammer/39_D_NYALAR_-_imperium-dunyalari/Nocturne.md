@@ -1,8 +1,8 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Nocturne.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Nocturne.png/revision/latest?cb=20131018051339
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Nocturne — Nocturne
+# Nocturne
 
 Salamanders'ın volkanik anavatanı; deprem ve lav patlamalarıyla sürekli sarsılan, demircilik kültürünün hâkim olduğu dünya.
 

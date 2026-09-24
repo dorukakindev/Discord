@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/07/Trazyn.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Trazyn the Infinite
 

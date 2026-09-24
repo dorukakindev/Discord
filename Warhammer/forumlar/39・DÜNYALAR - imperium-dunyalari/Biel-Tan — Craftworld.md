@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/87/Biel-tan-icon2.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/87/Biel-tan-icon2.jpg/revision/latest?cb=20100829031457
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Biel-Tan — Craftworld

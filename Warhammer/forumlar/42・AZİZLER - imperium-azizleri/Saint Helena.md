@@ -10,4 +10,8 @@ Saint Helena, "Helena the Virtuous" -- yani "Erdemli Helena" -- olarak anılan b
 
 Order of the Key'de tam otuz yıl hizmet ettikten sonra Canoness mertebesine yükseldi; bu dönemde Ecclesiarchy'nin nüfuz ve gücünün artmasından sorumlu tutuldu.
 
+## Tarihçe
+
+Order of Our Martyred Lady'nin azize-martırı; Vivian'daki şehitliğiyle efsane. Kadın fedakârlığının kutsal hali.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

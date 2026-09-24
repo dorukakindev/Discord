@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/66/Catachan2.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Catachan
 

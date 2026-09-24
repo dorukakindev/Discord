@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/93/Rune_of_Unity.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Harlequins
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d3/Terminus_Est.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/d3/Terminus_Est.png/revision/latest?cb=20131219001854
 
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 # Terminus Est

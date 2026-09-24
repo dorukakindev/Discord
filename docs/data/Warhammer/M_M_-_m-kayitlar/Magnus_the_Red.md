@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Magnus-1.jpg/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Magnus the Red
 

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/af/Necromunda_Map.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Necromunda
 

@@ -10,3 +10,7 @@
 **Karakter serileri:** Garro (4→42) · Khârn (24) · Ahriman (44) · Luther (6→11→38)
 
 -# Antolojiler (10, 16, 20, 22, 25, 31, 33, 35, 43, 48, 52) istediğiniz sırada okunabilir.
+
+## Tarihçe
+
+Horus Heresy serisinin okuma rehberi; 60+ kitaplık saga için önerilen başlangıç. Xenos'tan sonra: Horus Rising ile başla, önemli lejyonların düşüşlerini izle, Siege of Terra ile bitir — kronolojik değil, duygusal sıra.

@@ -3,6 +3,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsw
 ## Echo of the First Murder
 Drach'nyen sıradan bir iblis kılıcı değildir — kendisi İnsanlığın ilk cinayetinin Warp'taki yankısıdır: mağara adamının kardeşini taşla öldürdüğü ilk an, onu var etti. İmparator, Uralan'da onu bir kılıç gibi kullandığı söylenen İblis'i yendi ve Altın Taht'ın derinliklerine mühürledi; ama mühür bir hapishane değil, yalnızca bir duraklamaydı. Drach'nyen'i kuşanan herkes onun piyonudur — silah taşıyanı kullanır. Abaddon onu ele geçirdiğinde, İmparator'un korktuğu tek savaşçı donanımına sahip oldu.
 
+https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsword3.png/revision/latest?cb=20130821095331
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 # Drach'nyen
 

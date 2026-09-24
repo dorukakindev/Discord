@@ -14,4 +14,8 @@ Saint Praxedes, Ophelia VII'nin (Sororitas'ın ana dünyası) en ünlü azizeler
 
 Praxedes'in önemi, Sororitas'ın 'sadece savaşçı' olmadığını göstermesidir — Dialogus ve Hospitaller kollarının da azizesi olarak, hem şifa hem sözle savaşan geleneğin temsilcisidir. Ophelia VII'nin anıtlarında Praxedes, 'kılıcın yanında dil' taşıyan figür olarak tasvir edilir; İmparatorluk'un 'diplomatik zafer' mümkün olduğunu hatırlatan nadir azizlerdendir.
 
+## Tarihçe
+
+Order of the Valorous Heart'ın ikinci azizi; Ophelia II'yi savunmuş. 'Sabrın' ve 'korumanın' azizi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

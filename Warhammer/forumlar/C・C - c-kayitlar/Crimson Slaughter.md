@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/fd/Crimson_Slaughter_SP.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Crimson Slaughter
 

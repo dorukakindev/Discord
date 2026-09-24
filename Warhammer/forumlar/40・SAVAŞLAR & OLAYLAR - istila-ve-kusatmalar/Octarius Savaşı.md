@@ -12,4 +12,8 @@ Octarius Savaşı, İmparatorluk'un en sinsi stratejik zaferidir — Inquisitor 
 
 Savaşın bedeli ve sorunu şudur: Orklar ve Tyranidler birbirini öğütse de, hayatta kalan taraf daha da güçleniyor — kazanan, hem Ork'un adaptasyonunu hem Tyranid'in biyokütlesini devralacak. Octarius, İmparatorluk'un 'kendi yaratığı olan zafer' paradoksudur — plan işe yaradı ama yarattığı canavar, muhtemelen her iki orijinal tehditten daha tehlikelidir.
 
+## Tarihçe
+
+Leviathan'ın Ork Octarius'a yöneltilmesi; Kryptman'ın iki düşmanı birbirine yedirme planı. En sinik İmparatorluk taktiği — Tyranid'ler Ork'ları, Ork'lar Tyranid'leri yer.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

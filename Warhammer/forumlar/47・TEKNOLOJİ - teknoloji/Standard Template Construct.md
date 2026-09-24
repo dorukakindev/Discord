@@ -8,4 +8,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Gr
 
 Standard Template Construct (STC, Standart Şablon Yapı), insanlığın Karanlık Teknoloji Çağı'ndan (Dark Age of Technology, M21-M23) kalma, kadim ve paha biçilmez bir bilgi sistemidir. Bir STC, bir kolonicinin ya da yeni bir uygarlığın ihtiyaç duyabileceği neredeyse her şeyin (bir lasgun'dan bir tarım aletine, bir barınaktan bir savaş aracına) eksiksiz üretim tarifini içeren analitik bir veri tabanıydı; tek başına yerel malzemelerden istenen her şeyi tasarlayıp imal edebilirdi. İnsanlığın yıldızlara yayılmasını mümkün kılan, devrim niteliğindeki bu teknoloji, o çağda her dünyaya götürülen bir tür taşınabilir uygarlık tohumuydu.
 
+## Tarihçe
+
+Karanlık Teknoloji Çağı'nın tasarım veritabanları; İmparatorluk'un teknolojik mirası. Bugün bulunan her STC, Mechanicum'un kutsal hazinesidir — kayıp bilginin kutsal kitabı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

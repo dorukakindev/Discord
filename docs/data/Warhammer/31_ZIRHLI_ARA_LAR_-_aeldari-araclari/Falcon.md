@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/21/Mymeara_Falcons_Battle.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/21/Mymeara_Falcons_Battle.jpg/revision/latest?cb=20150403024932
 
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Falcon

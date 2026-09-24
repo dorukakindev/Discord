@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Arbites_Icon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Adeptus Arbites
 

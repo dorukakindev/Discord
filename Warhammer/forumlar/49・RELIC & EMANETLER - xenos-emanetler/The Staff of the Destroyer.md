@@ -10,4 +10,8 @@ The Staff of the Destroyer (Yok Edicinin Asası), Necron'ların en güçlü lide
 
 Asanın tarihi, Necron'ların kendisi kadar eskidir; ilk olarak Zehet Hanedanı'nın kurucusu Zehet tarafından taşındı ve nesiller boyunca bir hükümdarlık emaneti olarak korundu. Sonunda, Necron türünün en büyük strateji dehası ve en hırslı liderlerinden biri olan Imotekh the Stormlord'un eline geçti; onun için asa, yalnızca yüce rütbesinin bir nişanı değil, aynı zamanda inanılmaz derecede güçlü bir silahtır.
 
+## Tarihçe
+
+Destroyer Lord'ların taşıdığı asa; Necron yıkım gücünün simgesi. 'Silme' felsefesinin aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

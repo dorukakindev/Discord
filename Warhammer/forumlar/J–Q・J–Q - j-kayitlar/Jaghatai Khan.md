@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8e/JaghataiKhanPencil.jpg/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Jaghatai Khan
 

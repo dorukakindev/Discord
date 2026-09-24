@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b7/ImperialKnightsIconSmall.JPG/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/b7/ImperialKnightsIconSmall.JPG/revision/latest?cb=20220816185140
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Imperial Knights

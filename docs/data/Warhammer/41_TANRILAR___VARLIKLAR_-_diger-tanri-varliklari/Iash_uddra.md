@@ -8,4 +8,8 @@ Iash'uddra, "Bitmeyen Sürü" (the Endless Swarm), C'tan yıldız tanrılarını
 
 Necron mitolojisinde, "Kederli Gece Kitabı"nda (Book of Mournful Night) anlatıldığına göre, Bitmeyen Sürü ölümlülerin zihninde doğan ve asla sönmeyen bir tür hastalık gibidir; sürekli her gözün ardında, her bakışın içinde var olur. Bir tür bulaşıcı keder ve kolektif çöküş olarak betimlenir; tek bir bedeni değil, sonsuzca yayılan bir varlık biçimini temsil eder.
 
+## Tarihçe
+
+'Yıldızların Efendisi' C'tan; Necron'ların en çok tapındığı shard'lardan. Sessiz ve mutlak — yıldızların karanlık yüzü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

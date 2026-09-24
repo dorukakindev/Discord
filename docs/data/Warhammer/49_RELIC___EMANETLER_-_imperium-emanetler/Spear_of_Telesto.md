@@ -12,4 +12,8 @@ Spear of Telesto, Blood Angels'ın en efsanevi emanetidir — Mephiston veya di�
 
 Spear'ın gücü, 'Sanguinius'un iradesinin' parçası olduğu söylenir — Chapter'ın Black Rage'e düşmeden önceki 'son umut' sembolüdür. Blood Angels'ın 'kızıl kılıç' efsanesi olan Spear of Telesto, hem bir silah hem Chapter'ın 'babasının vasiyetinin' taşıyıcısıdır — Sanguinius'un ölümünün acısını, onun silahını taşıyan her savaşçıda yaşatır.
 
+## Tarihçe
+
+Blood Angels'ın en kutsal relic'i; Sanguinius'un kendisi tarafından dövüldüğü söylenen mızrak. Onu taşıyan, geçmişin gücünü taşır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/24/PlasmaCaliver.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/PlasmaCaliver.jpg/revision/latest?cb=20180819001217
 
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Plasma Caliver

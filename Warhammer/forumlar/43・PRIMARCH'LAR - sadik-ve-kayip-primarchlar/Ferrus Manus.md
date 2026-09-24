@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/81/Ferrus_Manus_sketch.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/81/Ferrus_Manus_sketch.jpg/revision/latest?cb=20131031081150
 
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Ferrus Manus
@@ -10,4 +10,6 @@ Ferrus Manus, volkanik ve acımasız Medusa dünyasına düştü; sert, dayanık
 
 İmparator onu X. Lejyon Iron Hands'in başına geçirdi ve Ferrus'un "et zayıf, makine güçlüdür" felsefesi lejyonun da özü oldu; üyeleri bedenlerini biyonik parçalarla değiştirmeye, duyguyu bir zaaf saymaya başladı. Ferrus sert, sabırsız ve uzlaşmaz bir liderdi, ama paradoksal biçimde kardeşi Fulgrim ile derin, neredeyse karşıt-kutup bir dostluk kurmuştu.
 
+## Isstvan V ve Ölüm
+Ferrus, Heresy'nin ilk büyük ihanetinin en önde gelen kurbanı oldu: Isstvan V'teki Drop Site Katliamı'nda Fulgrim'in Emperor's Children'ına doğrudan saldırdı. İki kardeşin düellosu efsanevidir; Fulgrim'in elindeki gümüş kılıç — içinde Slaanesh iblisi barındıran Blade of the Laer — darbeyi indirdi ve Ferrus'un başı kesildi. Ölümü, Iron Hands'in "et zayıftır" doktrinini mutlak bir keder ve öfke kültüne çevirdi; lejyon bugün bile Fulgrim'i ve tüm zevk arayışını lanetle anar. Savaş Alanı'nda Iron Hands'in yaşadığı kırılma, onun "en sadık" Primarch olmasını gölgeledi.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

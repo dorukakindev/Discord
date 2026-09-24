@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Fulgrim_Ancient_Sketch.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Fulgrim_Ancient_Sketch.jpg/revision/latest?cb=20150206220501
 
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Fulgrim (III)

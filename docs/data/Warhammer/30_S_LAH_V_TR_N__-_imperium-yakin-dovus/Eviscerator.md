@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/61/Sister_Repentia.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/6/61/Sister_Repentia.jpg/revision/latest?cb=20120125195646
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Eviscerator

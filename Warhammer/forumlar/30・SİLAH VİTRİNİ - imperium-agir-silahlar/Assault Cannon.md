@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Astartes_Mk_II_Absinia_Pattern_BA.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Astartes_Mk_II_Absinia_Pattern_BA.jpg/revision/latest?cb=20140103005206
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Assault Cannon

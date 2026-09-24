@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Legio_Tritonis_Icon_Fancy.png/revision/latest?cb=20211208002305
+
 -# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
 # Legio Tritonis
 

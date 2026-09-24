@@ -7,4 +7,8 @@ Karanlık Teknoloji Çağı (Dark Age of Technology), insanlığın teknolojik z
 
 Çağın sonu, Men of Iron'un isyanıyla geldi — insanlığın yarattığı robot orduları sahiplerine döndü ve teknolojik üstünlüğün en korkulan biçimini gösterdi. Bu felaket, İmparatorluk'un 'yapay zekâ yasağı'nın (Abominable Intelligence) temelidir — Dark Age'in mirası, 'teknolojinin hem kurtuluş hem yıkım' olduğu gerçeğidir ve İmparatorluk'un 'ilerleme korkusu'nun kaynağıdır.
 
+## Tarihçe
+
+İnsanlığın ilk altın çağı; STC'ler, Men of Iron, galaksinin ilk kolonileşmesi. Men of Iron isyanıyla bitti — teknolojinin vaat ve lanetinin kaynağı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -9,6 +9,7 @@
 - <#1551815541943963739>
 - <#1551815358896283669>
 - <#1551815325429796877>
+- <#1552695344872292452>
 - <#1551815557676929034>
 - <#1551815439078658154>
 - <#1551815272074055681>
@@ -21,15 +22,15 @@
 - <#1551815624248922143>
 - <#1551815643274158260>
 - <#1551815664266780734>
+- <#1552694190121426944>
 - <#1551815400222756926>
 - <#1551815694029430827>
 - <#1551815376663347254>
 - <#1551815718759174255>
 - <#1551815745162186823>
 - <#1551815769845801062>
+- <#1552690522798428221>
 - <#1551905401241600000>
-
--# 27 kayıt · güncel
 
 • **Ibram Gaunt**
 • **Illuminor Szeras**
@@ -39,6 +40,7 @@
 • **Imperial Dating System**
 • **Imperial Fists**
 • **Imperial Knights**
+• **Imperial Palace**
 • **Imperial Truth**
 • **Imperial Worlds**
 • **Imperium of Man**
@@ -51,10 +53,12 @@
 • **Inquisitor Kryptman**
 • **Interex**
 • **Inwit**
+• **Irillyth**
 • **Iron Hands**
 • **Iron Snakes**
 • **Iron Warriors**
 • **Iskandar Khayon**
 • **Isstvan Campaign**
 • **Iyanden**
+• **Iybraesil (Craftworld)**
 • **Necron Immortals**

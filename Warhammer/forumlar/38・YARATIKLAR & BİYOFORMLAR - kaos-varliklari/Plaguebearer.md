@@ -14,4 +14,8 @@ Plaguebearer, Nurgle'un en yaygın daemon'udur — tek gözlü, çürüyen deril
 
 Bir Plaguebearer'ın tehlikesi fiziksel değil biyolojiktir: taşıdığı 'Nurgle's Rot' — galaksinin en korkulan hastalığı — hem bedeni hem ruhu çürütür ve kurbanı, ölümünden sonra yeni bir Plaguebearer'a dönüştürür. İmparatorluk için bu, savaşmanın ötesinde bir kâbustur: bir Plaguebearer istilası, gezegenin 'yaşayan' nüfusunu da 'veba ordusu' hâline getirir. Great Unclean Ones'ların saflarının çoğu bu varlıklardan oluşur.
 
+## Tarihçe
+
+Nurgle'ın standart daemon piyadesi; tek gözü, tek boynuzu ve çürüyen bedeniyle hastalık taşıyan sayım memuru. Her Plaguebearer bir ölü sayısıdır — Nurgle'ın defterine yazılmış bir irin noktası.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

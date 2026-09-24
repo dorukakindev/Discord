@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1f/AngelsSanguineBadge.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/1/1f/AngelsSanguineBadge.jpg/revision/latest?cb=20171212175657
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Angels Sanguine

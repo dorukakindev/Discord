@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/24/UthartheDestinedMini.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/UthartheDestinedMini.jpg/revision/latest?cb=20230206163854
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Ûthar the Destined

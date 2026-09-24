@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3c/Leigo_Venator_Icon_Fancy.png/revision/latest?cb=20210507212147
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Venator
 

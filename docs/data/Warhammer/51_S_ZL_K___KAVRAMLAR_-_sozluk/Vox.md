@@ -9,4 +9,8 @@ Imperium'un standart telsiz/iletişim sistemi; kişisel vox-caster'dan gemi öl�
 - **Sınıf:** İletişim
 - **Kanon Sınıfı:** A — resmî kaynak
 
+## Tarihçe
+
+İmparatorluk'un radyo sistemi; kısa menzilli askeri iletişim. Cephenin ve geminin sesi — emirler buradan iner.
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

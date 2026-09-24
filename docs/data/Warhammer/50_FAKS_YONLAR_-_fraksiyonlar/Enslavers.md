@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Enslaver_sketch.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Enslaver_sketch.jpg/revision/latest?cb=20100627221027
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Enslavers
@@ -11,5 +11,9 @@ Enslavers (Köleleştirenler; Psyren ya da Krell olarak da anılır), Warp'a (An
 Enslavers, Warp'ın en korkulan 'psi-parazit'leridir — psikerlerin zihnine giren ve onları 'kukla' hâline getiren devasa, dokunaçlı varlıklar. Bir Enslaver'ın görünüşü (yüzen, iğrenç bir psi-polip) kadar tehlikesi de mide bulandırıcıdır: psikerin zihnini gasp eder, bedenini kullanır ve sonunda kurbanı 'psi-kapı' olarak kullanıp başka Enslaver'ları çağırır.
 
 Enslaver'ların tarihi, 'Eski Savaş' (War in Heaven) kadar eskidir — Necronların warp'ı kestiği zamanlarda bile varlıklarını sürdürdüler. İmparatorluk için Enslaver'lar 'görünmez düşman'dır — bir psikerin 'garip davranmaya' başlaması, bir Enslaver istilasının ilk işareti olabilir; Sacris gibi dünyaların 'gizli geçmişi', bu varlıkların galaktik tehdidinin boyutunu hatırlatır — bir Enslaver görüldüğünde, 'psi-silah' kullanımı hemen yasaklanır.
+
+## Tarihçe
+
+Warp-benzeri varlıklar; zihinlere giren, bedenleri kontrol eden eski istilacılar. Çok az kayıtta geçer ama her keşif bir felaket.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

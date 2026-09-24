@@ -12,4 +12,8 @@ Altın Taht, İmparator'un yarı-ölü bedenini yaşatan ve Astronomican'ı besl
 
 Altın Taht'un sırrı, 'çalışma şeklinin' bilinmemesidir: Mechanicum onu tamir edemez, sadece 'ibadetle' besler ve 'binlerce psikerin günlük tüketimi' (soul sacrifice) Taht'ın çalışmasını sağlar. İmparatorluk'un en kutsal ve en korkulan nesnesi olan Taht, 'insanlığın tanrısının makinesi'dir — onun 'tamir edilemez' olduğu bilgisi, İmparatorluk'un en derin korkusudur: bir gün duracağı ve kimsenin onu yeniden başlatamayacağı gerçeği.
 
+## Tarihçe
+
+Terra'nın kalbindeki yaşam desteği; İmparator'un ölümsüz ama cansız bedeni. İmparatorluk'un hem tahtı hem mezarı — bugün çatlamakta.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

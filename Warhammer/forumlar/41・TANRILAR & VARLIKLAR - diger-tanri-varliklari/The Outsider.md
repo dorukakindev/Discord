@@ -10,4 +10,8 @@ The Outsider (Llandu'gor), C'tan yıldız tanrılarının en deli, en izole ve e
 
 Bu delilik onu o kadar değiştirdi ki, diğer C'tan'lardan ve onların kendi kardeşlerini yeme pratiğinden tiksindi; kendi türünden duyduğu bu nefret ve çılgınlık, onu galaksinin diğerlerinden tamamen kopardı. Sonunda kendini, galaksinin uzak bir kenarında devasa bir Dyson küresinin (bir yıldızı tümüyle saran yapay yapı) içine hapsetti ve oraya kendini sürgün etti.
 
+## Tarihçe
+
+En korkulan C'tan; kendini bile yiyen kendi-parçası. Dış uzayda akılsız ve aç — Necron'ların bile görmezden geldiği.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

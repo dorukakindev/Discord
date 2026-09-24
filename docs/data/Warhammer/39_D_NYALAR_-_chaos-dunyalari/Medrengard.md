@@ -7,4 +7,8 @@ Medrengard, Halkaların Gözü'nün içinde yer alan bir iblis-dünyasıdır (da
 
 Medrengard, baştan başa Iron Warriors'un ruhunu yansıtır: demir surlar, dikenli teller, zincirler, devasa hapishaneler, işkence makineleri ve sonu gelmez savunma tahkimatlarıyla kaplı, gri ve kasvetli bir cehennem. Gökyüzü demir grisi, toprak kül rengidir; hiçbir güzellik, hiçbir umut yoktur, yalnızca acımasız mühendislik ve kin vardır.
 
+## Tarihçe
+
+Perturabo'un demir gezegeni; Iron Warriors'ın kuşatma diyarı. Kaleler, çukurlar ve savaş makineleri — Perturabo'un kişiliğinin gezegen hali.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

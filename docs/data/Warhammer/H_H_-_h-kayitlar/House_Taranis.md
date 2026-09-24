@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # House Taranis
 

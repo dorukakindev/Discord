@@ -8,4 +8,8 @@ Aeldari'nin Düşüş'ten, şehir büyüklüğündeki wraithbone gemi-dünyalar�
 
 Craftworld Aeldari (kendilerine Asuryani derler), kadim Aeldari ırkının üç büyük hayatta kalan kolundan en bilinenidir; Düşüş'ün (the Fall) felaketinden, şehir büyüklüğündeki dev gemi-dünyalara (craftworld) binerek kaçanların torunlarıdır. Bir zamanlar galaksiye binlerce yıl hükmeden Aeldari imparatorluğu, kolektif hazcılığa batıp M30 dolaylarında farkında olmadan Kaos Tanrısı Slaanesh'i doğurdu; bu tanrının doğum çığlığı milyarlarca ruhu yuttu ve gerçeklikte yirmi bin ışık yıllık bir yara (Halkaların Gözü) açtı.
 
+## Tarihçe
+
+Asuryani; yaşayan Eldar'ın ana gövdesi, craftworld'lerde yaşayan disiplinli halk. Parçalanmış ama dayanıklı — gerçek Eldar uygarlığının kalbi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

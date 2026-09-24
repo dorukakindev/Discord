@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/de/Krytos-Symbol.jpg/revision/latest?cb=20190121095307
+
 -# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
 # Legio Krytos
 

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Star_Phantoms_Livery.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Star_Phantoms_Livery.jpg/revision/latest?cb=20150831101944
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Star Phantoms

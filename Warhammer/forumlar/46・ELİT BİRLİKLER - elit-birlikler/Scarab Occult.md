@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/92/Sekhmet_Terminator_Squad.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/9/92/Sekhmet_Terminator_Squad.jpg/revision/latest?cb=20120910001535
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Scarab Occult

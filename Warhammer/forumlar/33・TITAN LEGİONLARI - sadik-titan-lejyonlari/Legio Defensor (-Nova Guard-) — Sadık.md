@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Nova_Guard_Legio_Heraldry.png/revision/latest?cb=20210505224817
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Defensor
 

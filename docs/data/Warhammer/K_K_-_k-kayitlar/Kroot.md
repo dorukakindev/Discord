@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Kroot2.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Kroot
 

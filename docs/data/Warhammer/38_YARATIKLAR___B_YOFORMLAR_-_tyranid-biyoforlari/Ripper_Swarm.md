@@ -12,4 +12,8 @@ Ripper Swarm, Tyranid ordusunun 'temizlik sürüsü'dür — küçük, açgözl�
 
 Ripper'ların tehlikesi sayılarıdır: tekil olarak zayıf ama sayıca sonsuz bir dalga oluştururlar ve Hive Mind'ın 'toplama ve yeniden dağıtma' doktrininin tabanıdır — Ripper'lar yediklerini dönüştürüp Hive'a verir, Hive onlardan yeni organizmalar üretir. Bir Ripper Swarm'ın görülmesi, bir gezegenin 'tüketim' aşamasına girdiğinin son işaretidir — sonrasında sadece boş kabuk kalır.
 
+## Tarihçe
+
+Tyranid istilasının en küçük ve en çok biçimi; milyonlarca küçük solucan-sürü, savaş sonrası gezegeni kemirir. Her şeyi yerler — organik madde onların sofrasıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

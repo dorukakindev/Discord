@@ -12,4 +12,8 @@ Servitor, İmparatorluk'un 'beyinsiz işçi' sınıfıdır — suçluların, vah
 
 Servitor'ların üretimi, Mechanicum'un 'insan kaynağı' doktrininin en karanlık yüzüdür: 'günahkârın bedeni, makinenin işine yarar' felsefesiyle, İmparatorluk'un suçluları 'faydalı hâle' getirilir. Servitor'un sessiz hizmeti, İmparatorluk'un 'insanı makineye dönüştürme' kültürünün günlük kanıtıdır — bir Servitor'un yanından geçen vatandaş, hem İmparatorluk'un gücünü hem de bireyin yok sayılmasını görür; 'verimlilik' adına yazılmış en soğuk cümledir.
 
+## Tarihçe
+
+İmparatorluk'un insan-makine hizmet birimi; suçluların veya vatandaşların lobotomize hali. 'Flesh is weak' ilkesinin günlük yüzü — sadık ama iradesiz.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

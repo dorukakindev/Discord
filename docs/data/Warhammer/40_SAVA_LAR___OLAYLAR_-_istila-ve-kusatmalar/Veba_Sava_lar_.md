@@ -10,4 +10,8 @@ Veba Savaşları, M42'de, Büyük Yarık'ın açtığı kapıdan Daemon Primarch
 
 Büyük Yarık açıldığında, Mortarion ve Death Guard lejyonu, gerçek uzaya taştı ve hedeflerini seçti: Guilliman'ın örnek, müreffeh krallığı Ultramar. Nurgle'ın kulları için, düzenin ve sağlığın bu vitrini, çürümeyle kirletilmesi gereken kusursuz bir hedefti. Mortarion, "Düşüş Bahçesi" denen bir Nurgle istilasını başlattı; gezegenler hastalık, irin ve çürümeyle boğuldu.
 
+## Tarihçe
+
+Nurgle'ın Ultramar'a saldırısı; Mortarion ve Typhus'un Ultramar'ı vebalandırma kampanyası. Guilliman'ın dönüşü sonrası ilk büyük sadık-hain çarpışması.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

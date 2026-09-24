@@ -7,4 +7,8 @@ Kararmış Galaksi (The Blackout / Noctis Aeterna), Büyük Yarık'ın açılmas
 
 Kararmış Galaksi'nin psikolojik etkisi, İmparatorluk'un 'yenilmezlik' efsanesinin çöküşüydü: ışık geri geldiğinde bile, binlerce dünya çoktan kaybolmuş, kaos tarikatları güçlenmiş ve 'yalnız başına kalan' koloniler kendi kurtuluşlarını aramıştı. Noctis Aeterna, İmparatorluk'un 'tek ışık kaynağına bağlı olmanın' bedelinin en somut kanıtıdır — Astronomican sönerse, İmparatorluk söner.
 
+## Tarihçe
+
+Great Rift'in açılmasıyla İmparatorluk'un kuzey yarısının Astronomicon'u kaybetmesi; 'Dark Imperium' dönemi. Nihilus yarısı kendi başına kaldı — çaresizlik ve kahramanlığın en yoğun çağı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

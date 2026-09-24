@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_Heart.png/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Drukhari
 

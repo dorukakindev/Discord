@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/31/Dark_Eldar_Lord.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/31/Dark_Eldar_Lord.jpg/revision/latest?cb=20111108172617
 
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Asdrubael Vect

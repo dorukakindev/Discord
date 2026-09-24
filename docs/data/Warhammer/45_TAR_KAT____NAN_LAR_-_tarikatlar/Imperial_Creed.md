@@ -12,4 +12,8 @@ Imperial Creed (İmparatorluk İnancı), İmparatorluk'un resmi dinidir — 'İm
 
 Creed'in gücü, İmparatorluk'un sosyal tutkalıdır: pazar günleri, vaazlar, aziz takvimi ve 'Tithes' (din vergisi) sistemi, her dünyayı İmparatorluk'a bağlar. İmparatorluk'un hem en güçlü hem en yozlaşmış kurumu olan Ecclesiarchy, Creed'in yürütücüsüdür — bu inanç, insanlığı birleştirir ama aynı zamanda 'sapkınlık' ve 'hoşgörüsüzlük' kültürünü de besler; Creed'siz İmparatorluk, sadece haritaların birliğidir.
 
+## Tarihçe
+
+Ministorum'un resmi imanı; İmparator'a tanrı olarak tapma. Age of Apostasy sonrası sabitlenen devlet dininin adı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

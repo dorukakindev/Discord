@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Primarchs_Perturabo_coverart.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Perturabo
 

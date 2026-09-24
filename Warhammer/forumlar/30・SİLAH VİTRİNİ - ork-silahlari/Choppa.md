@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/96/Choppa.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/Choppa.png/revision/latest?cb=20100505015333
 
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Choppa

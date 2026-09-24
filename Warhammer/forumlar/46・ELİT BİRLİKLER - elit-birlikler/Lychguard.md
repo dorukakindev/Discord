@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b1/Lychguard30.JPG/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/b1/Lychguard30.JPG/revision/latest?cb=20150226013000
 
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Lychguard

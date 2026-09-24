@@ -10,4 +10,8 @@ Harlequins (Harlequinler), Aeldari ırkının en gizemli ve en büyüleyici frak
 
 Harlequinler, Aeldari mitolojisini ve özellikle ırklarının düşüşünün ve tanrılarının hikâyesini, görkemli ve ölümcül tiyatro gösterileriyle yaşatır; bu gösteriler hem dini ayin, hem tarih dersi, hem de büyüleyici bir sanattır. Renkli, sürekli değişen holografik kostümleri ve akıl almaz çeviklikleriyle, savaş alanında bir bale kadar zarif ama bir suikast kadar ölümcül hareket ederler.
 
+## Tarihçe
+
+Cegorach'ın dansçıları; Webway'in efendileri. Savaş, tiyatro ve ölümün birleştiği maskeli halk — Eldar'ın en özgür kolu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

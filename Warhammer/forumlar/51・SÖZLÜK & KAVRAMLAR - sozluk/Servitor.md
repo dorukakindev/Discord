@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Servitor.jpg/revision/latest?cb=20090214185113
 
+https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Servitor.jpg/revision/latest?cb=20090214185113
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Servitor — Servitör

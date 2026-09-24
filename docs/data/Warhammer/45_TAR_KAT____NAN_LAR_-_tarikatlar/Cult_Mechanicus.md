@@ -12,4 +12,8 @@ Cult Mechanicus, Mars'ın ve Adeptus Mechanicus'un resmi dinidir — 'Machine Go
 
 Cult'un ritüelleri katıdır: 'Rite of Activation', 'Litany of the Machine' ve STC parçalarının 'kutsal metin' gibi okunması. İmparatorluk'un 'imparator tanrı' inancıyla uyumlu ama farklıdır — Mechanicus için İmparator, 'Omnissiah'ın avatarıdır ama asıl tapınak nesnesi bilginin kendisidir. Cult Mechanicus'un gücü, teknolojiyi din haline getirmesidir — bir Space Marine zırhı, onlar için 'kutsal emanettir' ve bu inanç, İmparatorluk'un askeri teknolojisinin korunmasının çapasıdır.
 
+## Tarihçe
+
+Machine God'a tapan Mechanicum'un resmi dini; Omnissiah kültü. Teknoloji ibadettir — bilgi kutsal, cehalet günah.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

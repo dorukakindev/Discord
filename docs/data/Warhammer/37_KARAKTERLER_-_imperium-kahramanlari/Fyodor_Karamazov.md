@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b9/Karamazov_on_the_Throne_of_Judgement.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/b9/Karamazov_on_the_Throne_of_Judgement.jpg/revision/latest?cb=20120924232907
 
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Fyodor Karamazov

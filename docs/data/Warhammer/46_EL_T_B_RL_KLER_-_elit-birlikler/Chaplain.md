@@ -12,4 +12,8 @@ Chaplain, Space Marine'in 'din adamı ve savaş vaizi'dir — Chapter'ın manevi
 
 Savaşta Chaplain, 'Crozius Arcanum' kılıcı ve 'Rosarius' kalkanıyla ön saflarda savaşır; onun vaazları, kardeşlerin 'neden savaştıklarını' hatırlatır ve Chapter'ın 'kültür savaşçısı' rolü, Chaplain'in varlığında somutlaşır. İmparatorluk'un 'imparator inancının' askeri kolu olan Chaplain, hem dinin hem savaşın adamıdır — bir Space Marine'in ruhunu, onun vaazı şekillendirir.
 
+## Tarihçe
+
+Chapter'ın din adamı ve disiplin bekçisi; savaş ayinlerini yöneten, ruhları ayakta tutan siyah zırhlı rahip. İnanç ve öfke dengesinin sahibi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

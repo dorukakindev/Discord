@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/82/HH_Eye_of_Horus_icon.png/revision/latest/scale-to-width-down/900?cb=20141212235101
 
+https://static.wikia.nocookie.net/warhammer40k/images/8/82/HH_Eye_of_Horus_icon.png/revision/latest?cb=20141212235101
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Horus Heresy — The Horus Heresy

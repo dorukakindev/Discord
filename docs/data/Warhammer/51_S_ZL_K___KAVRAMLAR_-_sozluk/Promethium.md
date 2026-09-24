@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/82/A_Promethium_mine.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/8/82/A_Promethium_mine.jpg/revision/latest?cb=20160427101018
 
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Promethium
@@ -9,5 +9,9 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/82/A_Promethium_mine.jpg
 Promethium, İmparatorluğun devasa savaş makinesini fiilen çalıştıran temel yakıttır; tanklardan uçaklara, jeneratörlerden alev silahlarına kadar neredeyse her şeyi besleyen, yanıcı bir hidrokarbon türevidir. İmparatorluğun her köşesinde, sayısız biçimde kullanılır ve onsuz koca bir uygarlık dururdu.
 
 Promethium, farklı kalitelerde ve biçimlerde gelir; bazıları araç ve makineleri çalıştıran ham yakıt, bazıları ise alev silahlarında (flamer) kullanılan, yapışkan ve son derece yanıcı özel bir karışımdır. Bu yapışkan biçim, temas ettiği her şeye yapışıp söndürülmesi neredeyse imkansız bir alevle yanar; bu yüzden hem korkunç bir silah hem de arındırıcı, kutsal bir ateş kaynağı sayılır.
+
+## Tarihçe
+
+İmparatorluk'un yakıtı; alev silahlarının ve motorların ham maddesi. Savaşın benzinidir — olmadan ordu durur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

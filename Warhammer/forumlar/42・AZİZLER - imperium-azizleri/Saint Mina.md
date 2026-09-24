@@ -10,4 +10,8 @@ Saint Mina, Adepta Sororitas'ın Order of the Bloody Rose'unun -- "Kanlı Gül D
 
 Dikkat çekici bir tarihsel ayrıntı, Order of the Bloody Rose'un Mina'nın patronluğunu taşımasına rağmen, ilk dört büyük Orders Militant'ın kuruluşundan tam iki buçuk binyıl sonra resmen kurulmuş olmasıdır.
 
+## Tarihçe
+
+Order of the Bloody Rose'un kurucusu; vahşi fedakârlık ve kan-itaatin azizi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,4 +12,8 @@ Cogitator, İmparatorluk'un 'kutsal bilgisayarıdır' — Mechanicum'un 'Motive 
 
 Cogitator'ların gizemli yanı, içlerindeki 'Machine Spirit' kavramıdır — Mechanicum'a göre her makine bir ruh taşır ve Cogitator'ların 'yarı-canlı' olduğu inancı, onların bakımını ibadet hâline getirir. İmparatorluk'un 'bilgi işleme' kültürü, bu makinelerin sınırlı ve ritualize edilmiş kapasitesine bağlıdır — bir Cogitator'un 'yanlış okuması', bir sektörün kaderini değiştirebilir ve bu belirsizlik, İmparatorluk'un 'teknolojiye güven ama ibadetle' yaklaşımının simgesidir.
 
+## Tarihçe
+
+İmparatorluk'un bilgisayarı; düşünen makinenin en masum hali. Abominable Intelligence değil — ama sınıra yakın çalışan eski teknoloji.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -8,4 +8,8 @@ Pariah Nexus Savaşı, M42'de, Büyük Yarık'ın açtığı kıyamet çağında
 
 Pariah Nexus, Ultima Segmentum'daki Nephilim Sektörü'nde, devasa bir Necron pylon (sütun) dizisinin yarattığı yapay bir bölgedir; "Sessizlik Zonu" da denir. Bu pylonlar, bölgeyi tümüyle Warp'ın etkisinden yalıtır; ne psişik güç çalışır, ne iblisler girebilir, ne de Astronomican'ın ışığı ulaşır. Bu, hem bir lanet hem de stratejik açıdan paha biçilmez bir silahtır; çünkü Warp'a dayanan İmparatorluk için bu bölge bir kör nokta, Necron'lar için ise bir kale anlamına gelir.
 
+## Tarihçe
+
+Necron'ların Pariah Nexus'ta 'sessizlik' projesi; İmparatorluk ve Sisters of Silence'ın müdahalesi. Warp'a karşı en sistematik Necron hamlesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

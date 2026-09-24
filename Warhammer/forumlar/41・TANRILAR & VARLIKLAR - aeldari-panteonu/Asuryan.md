@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/56/Order.gif/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/56/Order.gif/revision/latest?cb=20110602203800
 
 -# THE IMPERIAL ARCHIVE · Aeldari Panteonu · Kayıt
 # Asuryan
@@ -11,5 +11,9 @@ Asuryan, Aeldari panteonunun en yaşlı, en güçlü ve en yüce tanrısıdır; 
 Mitolojide o kadar yüce ve uzak kabul edilirdi ki ona doğrudan tapınılmaz, yalnızca derin bir saygıyla anılırdı; Asuryan, panteonun anlaşmazlıklarında son sözü söyleyen hakemdi. Aeldari'nin altın çağında, tanrıların ve ölümlülerin düzeninin tepesinde dururdu.
 
 Ama Düşüş geldiğinde, Slaanesh'in doğuşunun yarattığı psişik fırtına panteonun neredeyse tamamını yuttu; Asuryan bile bu felaketten kurtulamadı ve yok oldu (ya da en azından artık aktif değildir). Tanrıların kralının bile düşmesi, Aeldari uygarlığının çöküşünün ne kadar mutlak olduğunu gösterir.
+
+## Tarihçe
+
+Phoenix King, Aeldari tanrılarının başı; atası olduğu halkına sınır koydu (tanrılar ile ölümlüler ayrıldı). Slaanesh tarafından yutulmuş en üstün varlık.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

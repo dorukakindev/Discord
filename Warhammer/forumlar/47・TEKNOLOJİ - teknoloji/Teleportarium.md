@@ -12,4 +12,8 @@ Teleportarium, İmparatorluk'un 'ışınlanma teknolojisinin' merkezidir — gem
 
 Teleportarium'un tehlikesi, Warp ile olan temasıdır: ışınlanma sırasında Warp'a dokunulur ve 'hata' durumunda (koordinat şaşması, alan çökmesi) ışınlanan kişi, hem fiziksel hem ruhsal olarak parçalanabilir. İmparatorluk'un 'en ileri' teknolojilerinden biri olan Teleportarium, Mechanicum'un 'yarı-anlaşılır' makinelerinin örneğidir — çalışır ama nasıl çalıştığı tam bilinmez; bir Teleportarium'un 'hazır' ışığı, savaşın en kritik anının habercisidir.
 
+## Tarihçe
+
+Uzay gemilerinin ışınlanma güvertesi; ışınlanma teknolojisinin adı. Terminatör'leri sahneye çıkaran cihaz — dakikada değil saniyede savaşa.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

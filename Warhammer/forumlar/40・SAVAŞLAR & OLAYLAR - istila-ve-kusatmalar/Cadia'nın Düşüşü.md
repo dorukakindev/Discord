@@ -12,4 +12,8 @@ Cadia'nın Düşüşü, Abaddon'un On Üçüncü Kara Haçlı Seferi'nin doruğu
 
 Abaddon'un 'Blackstone Fortress' düşürmesiyle Cadia fiziksel olarak parçalandı; Creed ve Cadian Shock Troops'un direnişi efsanedir ama gezegenin yok oluşu, Büyük Yarık'ın (Cicatrix Maledictum) açılmasına neden oldu. Cadia'nın külleri, 'İmparatorluk'un artık savunamayacağı gerçeği'nin simgesidir — 'The planet broke before the Guard did' sözü, bu düşüşün edebi kaydıdır.
 
+## Tarihçe
+
+Abaddon'un Cadia'yı Blackstone Fortress'le kırması; 13. Kara Haçlı Seferi'nin sonucu. Büyük Yarık'ın açıldığı an — İmparatorluk'un kalbinin kırılması.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,4 +10,8 @@ Battle of the Fang (Fang Kuşatması), M32'de yaşanan ve iki ezeli düşmanı (
 
 Thousand Sons'ın primarch'ı, artık bir Daemon Prince olan Magnus the Red, kardeşi Leman Russ'ın lejyonuna duyduğu kini hiç unutmadı. Yüzeyde Prospero'nun yakılışının öcünü almak için, ama asıl olarak Space Wolves'un yeni halef chapter'lar yaratmasını engellemek için, lejyonunun büyük bölümüyle Space Wolves'un anavatanı Fenris'e, onların efsanevi kale-dağı Fang'e yürüdü.
 
+## Tarihçe
+
+Space Wolves'un Fenris'te Magnus ve Thousand Sons'a karşı savunması; iki eski düşmanın çağlar ötesi hesaplaşması. Prospero'nun intikamı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

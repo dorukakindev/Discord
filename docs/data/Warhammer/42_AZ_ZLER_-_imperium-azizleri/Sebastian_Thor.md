@@ -11,4 +11,8 @@ Sebastian Thor, İmparatorluk'un en büyük 'dini reformcu' azizidir — Age of 
 
 Thor'un mirası devasadır: Ecclesiarchy'nin reformu, Adepta Sororitas'ın kuruluşu (Thor'un 'brides' denen muhafızları) ve 'Decree Passive' — kilisenin askeri güçten yoksun bırakılması — onun eseridir. Sebastian Thor, 'inanmışlığın gücü'nün İmparatorluk'un askeri gücünü bile aşabildiğinin kanıtıdır — bir aziz olmanın, imparatorluğun kendisini bile değiştirebileceğinin simgesidir.
 
+## Tarihçe
+
+Age of Apostasy'yi bitiren reformcu Ecclesiarch; Vandire'i devirdi, Decree Passive ile Sisters'ı doğurdu. İmparatorluk Kilisesi'nin kurtarıcısı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,4 +10,8 @@ The Axe Morkai (Morkai Baltası), Space Wolves chapter'ının en kutsal silahlar
 
 Baltanın adı, Fenris'in (Space Wolves'un buzul anavatanı) mitolojisinden gelir; Morkai, ölümün kapılarını bekleyen iki başlı dev kurttur, Fenrisian inancında ölüm ve öteki dünyanın bekçisidir. Çift ağızlı balta, bu iki başlı kurdu simgeler; her ağzı, Morkai'nin bir başı gibidir. Bu isim, baltaya hem bir kutsallık hem de bir ölüm habercisi niteliği katar.
 
+## Tarihçe
+
+Space Wolves'un efsanevi iki ağzı; Logan Grimnar'ın taşıdığı antik Morkai'si. Chapter'ın kutsal silahı — kurt ve demon savaşının aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

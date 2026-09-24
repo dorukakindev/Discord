@@ -12,4 +12,8 @@ Canoptek Tomb Stalker, Necronların en büyük avcı robotudur — Tomb Spyder'�
 
 Savaşta Tomb Stalker, Gauss flux arc ve 'necrodermis' pençeleriyle zırhlı araçları ve yaratıkları parçalar; canoptek doktrini içinde 'ağır keşif' rolü oynar. İmparatorluk için Tomb Stalker, Necron'un 'uyanan mezar' kavramının en korkulan mekanik yüzüdür — bir tomb world'de 'yavaş yavaş hareket eden' dev metal gölgelerin hikâyesi, her Necron temas raporunun kabusudur.
 
+## Tarihçe
+
+Necron'un mezar-kalelerini koruyan dev solucan-makine; Canoptek serisinin en büyüğü. Yeraltında kayar, duvarları deler — mezar dünyasının bağışıklık sistemi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

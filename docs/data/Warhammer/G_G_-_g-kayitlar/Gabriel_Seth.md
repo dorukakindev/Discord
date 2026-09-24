@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/93/Trial_By_Blood_coverart.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Gabriel Seth
 

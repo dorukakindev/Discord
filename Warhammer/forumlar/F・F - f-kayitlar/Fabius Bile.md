@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Fabius Bile
 

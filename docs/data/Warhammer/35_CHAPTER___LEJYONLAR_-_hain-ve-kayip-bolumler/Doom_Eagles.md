@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/56/DoomEaglesBadge2.jpg/revision/latest?cb=20260109164749
 
+https://static.wikia.nocookie.net/warhammer40k/images/5/56/DoomEaglesBadge2.jpg/revision/latest?cb=20260109164749
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Doom Eagles — Kıyamet Kartalları

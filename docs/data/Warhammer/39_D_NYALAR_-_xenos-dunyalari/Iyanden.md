@@ -14,4 +14,8 @@ Iyanden, 'Ölülerin Craftworld'üdür — Aeldari'nin en trajik ve en büyük d
 
 Iyanden'in kültürü, yas ve hatıra üzerine kuruludur: Craftworld'ün 'Spiritseer'leri, ölülerin ruhlarını hem kutsar hem savaşa yönlendirir; Iyanden'in Wraith orduları, 'ölülerin son savunması' olarak bilinir. Büyük Yarık ve sonraki tehditler karşısında Iyanden, 'ölümsüzlüğün bedeli' doktriniyle varlığını sürdürür — bu Craftworld'ün hikâyesi, bir halkın yok olmaktansa ölüleriyle birlikte yaşamayı seçmesinin destanıdır.
 
+## Tarihçe
+
+Kraken'in neredeyse yuttuğu craftworld; hayaletlerin evi. Nüfusun çoğu ölülerden — Infinity Circuit yaşayanlardan kalabalık.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

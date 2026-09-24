@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest?cb=20090224193610
 
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # İkinci Armageddon Savaşı
@@ -13,5 +13,9 @@ Ghazghkull, sıradan bir warboss değil, Gork ve Mork'un seçilmiş peygamberi o
 İkinci Armageddon Savaşı, Ghazghkull'un ilk büyük İmparatorluk meydan okumasıdır — Ork warboss'un devasa WAAAGH!'ı, Armageddon'un hive şehirlerini kuşattı ve İmparatorluk'un o güne dek gördüğü en organize Ork saldırısını başlattı. Savaşın kahramanı Komutan Yarrick'ti: kayıp bir koluyla savaşan ve Orklar'ın kendisinin 'gözünü kestiği' korkulan adam.
 
 Yarrick'in Steel Legion ve Blood Angels desteğiyle kazandığı zafer, Ghazghkull'u durdurdu ama yok etmedi — bu 'yarım zafer', üçüncü ve daha büyük savaşın tohumunu ekti. İkinci Savaş'ın önemi, Armageddon'un 'sonsuz savaş' kimliğini kazandırmasıdır: gezegen artık sadece bir dünya değil, Ork ve İmparatorluk'un 'ebedi rakip' savaş alanıdır.
+
+## Tarihçe
+
+Ghazghkull'un ilk Armageddon saldırısı; Yarrick'in yükseldiği savaş. Orklarla İmparatorluk'un efsane düşmanlığının başlangıcı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

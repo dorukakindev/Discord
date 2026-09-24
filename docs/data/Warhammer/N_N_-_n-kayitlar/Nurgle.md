@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/1a/MarkofNurgleBig.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Nurgle
 

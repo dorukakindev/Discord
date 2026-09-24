@@ -14,4 +14,6 @@ Logan Grimnar, Space Wolves'un Great Wolf'u — 'Chapter Master'ı — ve İmpar
 
 Grimnar'ın efsanesi 'Months of Shame'de perçinlendi: Armageddon'un sağ kalanlarının İmparatorluk tarafından 'decontamination' kampına alınmasına karşı tek başına durdu ve Inquisition'la neredeyse savaş noktasına geldi. Space Wolves'un 'görevli değil onurlu' kimliğinin somut hâli olan Grimnar, bugün İmparatorluk'un 'yaşayan efsanesi' olarak sayılır — Russ'un dönüşünü beklerken Fenris'i koruyan yaşlı ama yenilmez kurt.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+## Tarihçe
+
+Space Wolves'un iki yüzyılı aşkın süredir Great Wolf'u; Fenris'in soğuk savası ve İmparatorluk'un en kendi halinde Lord'u. Administratum'la bile kavga etmekten çekinmez — First War of Armageddon'da sivilleri kurtarmak için Inquisition'a karşı geldi. Bugün hâlâ

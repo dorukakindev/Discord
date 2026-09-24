@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/52/Soul_Drinkers_SP.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Soul Drinkers
 

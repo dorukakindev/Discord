@@ -9,4 +9,8 @@ Kısa menzilli tarama/algılama cihazı; hareket, enerji imzası ve yaşam sinya
 - **Sınıf:** Cihaz
 - **Kanon Sınıfı:** A — resmî kaynak
 
+## Tarihçe
+
+Taranabilir sensör aleti; ısı, hareket, enerji okuyan el cihazı. Guard subaylarının ve teknisyenlerin gözü — 'orada mı?' sorusunun cevabı.
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

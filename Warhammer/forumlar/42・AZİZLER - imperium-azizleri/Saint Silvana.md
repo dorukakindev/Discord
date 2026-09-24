@@ -14,4 +14,8 @@ Saint Silvana, 'Gümüş Azize' olarak bilinen ve Valorous Heart Order'ının en
 
 Silvana'nın kültü, 'sürekli nöbet' geleneğini temsil eder — Ophelia VII'nin korunması ve Sororitas'ın manevi merkezinin bekçisi olarak anılır. 'Gümüş' metaforu, saflık ve yansıtma anlamı taşır — İmparator'un ışığını yansıtan ayna olarak Silvana, İmparatorluk'un 'kadın savaşçılarının en eski koruyucu azizesi' olarak sayılır.
 
+## Tarihçe
+
+Order of the Ebon Chalice'ın kurucusu; affetmek ve sabrın azizi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

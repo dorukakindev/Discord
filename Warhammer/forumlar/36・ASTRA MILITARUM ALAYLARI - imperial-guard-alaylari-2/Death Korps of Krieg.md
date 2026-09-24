@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest/scale-to-width-down/900?cb=20120626222205
 
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest?cb=20120626222205
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Death Korps of Krieg — Krieg Ölüm Kolordusu

@@ -10,4 +10,8 @@ Inquisition'un iç savaşı, dış düşmanlarından daha karmaşıktır: 'Purit
 
 Bu hiziplerin pratik sonucu devasadır: bir Inquisitor'un 'doğru' gördüğü, diğerinin 'heretik' saydığı olabilir; Eisenhorn gibi figürler bu gri alanda yaşar. Hizipler arası çatışma, 'Shadow Wars' olarak bilinen gizli iç savaşa dönüşmüştür — İmparatorluk'un en güçlü teşkilatı, kendi içinde de sürekli savaşır ve bu, İmparatorluk'un 'mutlak otorite' mitinin en büyük çatlakıdır.
 
+## Tarihçe
+
+Inquisition'ın iç fraksiyonları; Puritan-Radikal ekseninin alt bölümleri. Monodominant, Xanthite, Istvaanian, Recongregator ve daha fazlası — İmparatorluk'un iç savaşı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

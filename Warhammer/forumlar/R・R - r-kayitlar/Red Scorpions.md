@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/46/Red_Scorpions_Chapter_Icon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE · R Kayıtları
 # Red Scorpions
 

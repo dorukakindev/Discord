@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/5/52/DA_Chainfist.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/5/52/DA_Chainfist.jpg/revision/latest?cb=20130928045533
 
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Chainfist

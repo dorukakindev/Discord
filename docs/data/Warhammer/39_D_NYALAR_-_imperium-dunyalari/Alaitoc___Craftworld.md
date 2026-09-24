@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Alaitoc-icon.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Alaitoc-icon.jpg/revision/latest?cb=20100709012432
 
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Alaitoc — Craftworld

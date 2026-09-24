@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f1/VigilusMap.jpg/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Vigilus
 

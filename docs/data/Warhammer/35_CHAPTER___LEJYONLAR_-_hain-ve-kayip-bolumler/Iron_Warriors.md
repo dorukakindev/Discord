@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852
 
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Iron Warriors — Demir Savaşçıları (IV. Lejyon)

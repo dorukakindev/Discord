@@ -8,4 +8,8 @@ Morvenn Vahl, Adepta Sororitas'ın Abbess Sanctorum'u (yüce komutanı) ve tüm 
 
 Ecclesiarchy yeni bir Abbess Sanctorum seçmek istediğinde, genç bir Celestian Superior olan Vahl'ı seçti; siyasi arenada kolayca yönlendirilebileceğini sandılar. Ama bunun yerine, Kutsal Synod toplantılarına tam savaş zırhıyla katılan, kendisini etkilemeye çalışanları sindiren dosdoğru ve demir iradeli bir savaşçı buldular.
 
+## Tarihçe
+
+Adepta Sororitas'ın Abbess'i ve High Lord'u; Sisters of Battle'ın en üst komutanı. Karizması ve siyasi zekâsıyla inanç ordusunu Modern dönemde yeniden merkezileştirdi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,4 +10,8 @@ Thramas Haçlı Seferi, Horus Heresy'nin gölgede kalan ama stratejik açıdan e
 
 Isstvan V'teki Hain zaferinin ardından Horus, devasa ve güçlü Dark Angels lejyonunun Terra savunmasına yetişmesinden korkuyordu. Bu yüzden Konrad Curze ve onun Night Lords lejyonunu, Lion El'Jonson'ın güçlerini oyalamak için Thramas ve Heroldar bölgelerine sürdü; amaç zafer değil, koca bir lejyonu Heresy'nin kaderini belirleyecek savaştan uzakta meşgul etmekti.
 
+## Tarihçe
+
+Night Lords'a karşı Dark Angels'ın yürüttüğü üç yıllık Heresy dönemi seferi; Curze ve Lion'ın kişisel hesaplaşması. İki primarch'ın karanlık düellosu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Raven Guard
 

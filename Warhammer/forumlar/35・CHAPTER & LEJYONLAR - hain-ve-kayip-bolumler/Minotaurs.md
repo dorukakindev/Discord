@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/11/Minotaurs_Livery.jpg/revision/latest?cb=20160303041712
 
+https://static.wikia.nocookie.net/warhammer40k/images/1/11/Minotaurs_Livery.jpg/revision/latest?cb=20160303041712
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Minotaurs — Minotorlar

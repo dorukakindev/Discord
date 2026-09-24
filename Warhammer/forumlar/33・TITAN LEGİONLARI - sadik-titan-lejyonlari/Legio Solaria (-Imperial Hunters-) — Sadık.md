@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Imperial_Hunters_Iconography.png/revision/latest?cb=20200224043720
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Solaria
 

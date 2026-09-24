@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/31/Dark_Eldar_Lord.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Asdrubael Vect
 

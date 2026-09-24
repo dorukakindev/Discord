@@ -13,4 +13,8 @@ Davin, Horus'un 'ilk ciddi yarası' ve İmparatorluk'un çöküşünün sessiz b
 
 Sapkınlık'ın kilit anı Davin'de yaşandı: Horus, dünyayı ele geçirirken Eugen Temba'nın ordusunu yenerken 'Anathame' kılıcıyla yaralandı ve bu yara, Erebus'un düzenlediği 'şifa töreni' sırasında Kaos'un kapısını açtı. Davin'de Horus, İmparator'un gerçek niyetini gördüğünü sandığı bir 'kehanet vizyonu' yaşadı — bu vizyon, onu sonu gelmez ihanete iten kıvılcımdı. Davin, 'sıradan dünyanın kaderi değiştirmesi'nin en korkulan örneğidir.
 
+## Tarihçe
+
+Horus'un düşüş yerinin diyarı; Davin'de Davinite kült onu ilk kez Chaos'a itti. Küçük ay, büyük felaket — Heresy'nin tetikleyicisi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

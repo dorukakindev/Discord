@@ -12,4 +12,8 @@ Saint Arabella, 'Araştırmacı Azize' olarak bilinir — Adepta Sororitas'ın D
 
 Arabella'nın önemi, İmparatorluk'un 'bilgi savaşı' yönünü temsil etmesidir — Sororitas'ın sadece fiziksel değil, entelektüel savunucusu olarak. Dialogus Sororitas'lar onun adını anarak metinleri çözer ve Arabella, 'imparatorun imanının kelime gücüyle kazanıldığı' inancının azizesidir — İmparatorluk'un 'silah kadar kalem de' savaştığının kanıtıdır.
 
+## Tarihçe
+
+Order of the Sacred Rose'un kurucusu; merhamet ve direncin azizi. 'Son şafağın' bekçisi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/74/Old_One_Eye-0.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/7/74/Old_One_Eye-0.jpg/revision/latest?cb=20161207213107
 
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Old One Eye

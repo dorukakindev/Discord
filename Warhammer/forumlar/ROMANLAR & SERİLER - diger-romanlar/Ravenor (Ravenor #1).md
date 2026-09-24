@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/0a/RavenorOmnibusCover.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/0/0a/RavenorOmnibusCover.jpg/revision/latest?cb=20221128171506
 
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Ravenor (Ravenor #1)

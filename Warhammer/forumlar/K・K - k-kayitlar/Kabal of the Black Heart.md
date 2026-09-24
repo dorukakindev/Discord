@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_heart_symbol.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Kabal of the Black Heart
 

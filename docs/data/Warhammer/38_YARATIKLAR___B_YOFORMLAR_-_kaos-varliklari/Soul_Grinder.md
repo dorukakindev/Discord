@@ -14,4 +14,8 @@ Soul Grinder, Warp'ın 'Saf Makine' tarafının en korkulan yaratığıdır — 
 
 Savaşta Soul Grinder, korkunç çok yönlülüğüyle tanınır: hem yakın mesafe pençeleri hem uzun menzilli 'Warp Gaze' silahları vardır ve bedeni, sıradan mühimmatı emen iblis-zırhıyla kaplıdır. İmparatorluk'un titan ve şövalye savaşlarında Soul Grinder'lar, 'daemon ile zırh arasında duran' en korkulan hibritler olarak kayıtlıdır — yok edilmeleri, bir makineyi öldürmek kadar zordur.
 
+## Tarihçe
+
+Daemon'ın Chaos metaline bağlanmış hali; eski Daemon'ların beden makineleri. Forge of Souls'ta dövülür — silahları hem beden hem makinedir ve Warp'ta sürekli yeniden doğarlar.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

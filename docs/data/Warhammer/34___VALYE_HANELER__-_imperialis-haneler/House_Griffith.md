@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/ee/House_Griffith_Icon2.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/House_Griffith_Icon2.jpg/revision/latest?cb=20140312043313
 
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Griffith

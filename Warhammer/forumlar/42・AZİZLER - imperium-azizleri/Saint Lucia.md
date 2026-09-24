@@ -14,4 +14,8 @@ Saint Lucia, İmparatorluk'un 'kör azize'sidir — gözleri Kaos tarafından ç
 
 Lucia'nın kültü, 'fiziksel yetersizliğin imanla aşılması' mitinin merkezidir — onun Order'ı (Valorous Heart), Sabbat Dünyaları'nda ve Calixis'te aktif olan ve 'sesli dua' geleneğiyle tanınan Sororitas koludur. Lucia, 'İmparatorluk'un en çaresiz görüneninin bile en tehlikeli olabileceğinin' simgesidir — kör bir azizenin, kaosun gözünü oyduğu hikâye, İmparatorluk'un en sevilen vaazlarından biridir.
 
+## Tarihçe
+
+Order of the Valorous Heart'ın kurucusu; kör edildi, koruyucu azize oldu. Gözleri olmayanların ve disiplinlilerin azizi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

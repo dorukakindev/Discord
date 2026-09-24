@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452
 
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Iron Hands

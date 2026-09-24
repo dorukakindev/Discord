@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Grimnar_Heraldry_SP.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Logan Grimnar
 

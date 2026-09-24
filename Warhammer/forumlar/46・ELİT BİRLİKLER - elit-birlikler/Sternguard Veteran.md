@@ -12,4 +12,8 @@ Sternguard Veteran, Space Marine'in 'keskin nişancı ve uzman savaşçı' kadro
 
 Sternguard'ın ünü, 'en güvenilir' kardeşlerin oluşudur: yılların deneyimi, Chapter'ın her savaşını görmüş ve 'hayatta kalmış' olmanın işaretidir. Savaşta Sternguard, 'Chapter'ın mızrak başı' olarak kullanılır — en zorlu görevler, en kritik hedefler ve 'geri dönüşü olmayan' operasyonlar onlara verilir; bir Sternguard'ın görülmesi, 'en kötü düşman' için sonun başlangıcıdır.
 
+## Tarihçe
+
+Chapter'ın en tecrübeli ateş birliği; bolter'larıyla hat kıran 1st Company gazileri. Uzaktan öldürme sanatının zirvesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

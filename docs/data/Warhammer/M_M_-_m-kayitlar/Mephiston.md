@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Brother_Calistarius.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Mephiston
 

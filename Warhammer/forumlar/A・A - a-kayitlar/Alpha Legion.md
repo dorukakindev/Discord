@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Alpha_Legion_Heretic_Armorial.png/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Alpha Legion
 

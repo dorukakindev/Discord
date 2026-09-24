@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SilverSkullsBadge2.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Silver Skulls
 

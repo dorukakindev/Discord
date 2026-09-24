@@ -14,4 +14,8 @@ Kelkannis Evisser, Sabbat Dünyaları'nın efsanevi generalidir ve Ibram Gaunt'�
 
 Evisser'in en büyük savaşı, 'Balhaut' operasyonu ve Chaos Warmaster'ların yenilgisiydi; stratejik vizyonu, Crusade'in geniş cephelerini koordine etme yeteneğindeydi. 'General' olarak Evisser, İmparatorluk'un 'büyük savaş plancısı' idealinin somut hâlidir — sahadan komuta eden değil, savaşın haritasını çizen adamdı.
 
+## Tarihçe
+
+Sabbat Worlds'te Chaos'a düşen sahte aziz; Gaunt'ın avladığı 'Sahte Aziz'. İnanç taklidi yapan heresiarch — Sabbat haçlılarının en tehlikeli düşmanı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

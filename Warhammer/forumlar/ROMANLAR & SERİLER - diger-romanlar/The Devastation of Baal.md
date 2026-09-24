@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/72/DomeofAngelsAssaultBaal.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/7/72/DomeofAngelsAssaultBaal.png/revision/latest?cb=20180510015640
 
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # The Devastation of Baal

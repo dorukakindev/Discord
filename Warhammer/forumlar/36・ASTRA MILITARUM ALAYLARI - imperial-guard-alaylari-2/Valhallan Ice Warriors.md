@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Valhallans.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Valhallans.jpg/revision/latest?cb=20110804010323
 
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Valhallan Ice Warriors

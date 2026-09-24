@@ -12,4 +12,8 @@ Frateris Templar, İmparatorluk'un en büyük 'din ordusu' örgütüdür — Age
 
 Frateris'in tarihi karanlıktır: Vandire döneminde 'Brides of the Emperor' (sonradan Sororitas) için tasarlanan yapı, Thor'un reformu sonrası 'törensel' hâline getirildi ama fiilen hâlâ savaşır. İmparatorluk'un 'din ve savaş' çelişkisinin en somut örneğidir — Frateris Templar, 'Decree Passive'ın ihlal edilen ama tolere edilen sonucudur ve kilisenin 'görünmez ordusu' olarak İmparatorluk'un her cephesinde görülür.
 
+## Tarihçe
+
+Ecclesiarchy'nin fanatik savaşçıları; rahiplerin 'unofficial' ordusu. Decree Passive'den önceki dönemin silahlı imanı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

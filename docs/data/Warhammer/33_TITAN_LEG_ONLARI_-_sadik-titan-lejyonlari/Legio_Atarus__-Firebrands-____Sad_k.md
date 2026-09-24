@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Atarus-Logo.jpg/revision/latest?cb=20191027113428
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Atarus
 

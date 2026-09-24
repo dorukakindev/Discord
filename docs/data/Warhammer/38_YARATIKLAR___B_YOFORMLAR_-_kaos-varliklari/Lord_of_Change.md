@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Lord_of_Change_warp_power.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Lord_of_Change_warp_power.jpg/revision/latest?cb=20130323213730
 
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Lord of Change

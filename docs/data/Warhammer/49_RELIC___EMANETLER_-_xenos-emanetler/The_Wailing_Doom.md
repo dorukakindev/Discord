@@ -10,4 +10,8 @@ Wailing Doom (Ağlayan Kıyamet), Eldar mitolojisinin en bilinen silahıdır —
 
 Wailing Doom'un gücü hem fiziksel hem manevidir: kılıç, 'savaşın kutsallığını' temsil eder ve onu taşıyan Eldar, savaşın içinde 'tanrısal' bir hâl alır. Eldar'ın 'düşmüş tanrılarının' kalıntısı olan bu silah, hem nostalji hem umut taşır — Aeldari'nin 'eski ihtişamının' son somut kanıtlarından biri olarak, Khaine'in savaşçılarının elinde 'son zafer' hayalini taşır.
 
+## Tarihçe
+
+Khaine'in savaş çığlığı kılıcı; Avatar'ların taşıdığı dev kılıç. Aeldari'nin savaş tanrısının sesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/ef/Marines_Errant_Livery.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/e/ef/Marines_Errant_Livery.jpg/revision/latest?cb=20150903030510
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Marines Errant

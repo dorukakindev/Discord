@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cb/TyranidsIcon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Tyranids
 

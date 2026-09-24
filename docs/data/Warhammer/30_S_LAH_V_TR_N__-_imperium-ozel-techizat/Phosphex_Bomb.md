@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Astartes_Icon.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Astartes_Icon.jpg/revision/latest?cb=20121011234034
 
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Phosphex Bomb

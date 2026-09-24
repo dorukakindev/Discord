@@ -14,4 +14,8 @@ The Maelstrom, Eye of Terror'dan sonra ikinci büyük warp fırtınasıdır — 
 
 Badab Savaşı'nın jeopolitiğini de Maelstrom yazdı: Huron Blackheart'ın 'Tyrant' olarak güçlenmesinin bir nedeni, bu warp fırtınasının sağladığı doğal koruma ve kaynak havzasıydı. Maelstrom'un içindeki 'New Badab' ve diğer korsan dünyalar, İmparatorluk'un 'erişilemez' haritasının en karanlık bölgesidir — burası, galaksinin 'kanunsuz deniz'idir ve Red Corsairs'in korsan krallığının merkezidir.
 
+## Tarihçe
+
+Segmentum Obscurus'taki büyük Warp rifti; Eye of Terror'un küçük kardeşi. Red Corsairs'in evidir — Huron Blackheart'ın krallığı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

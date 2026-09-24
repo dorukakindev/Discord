@@ -14,4 +14,6 @@ Marneus Calgar, Ultramarines'in Chapter Master'ı ve Macragge'ın Lord'udur — 
 
 Primaris cerrahisine gönüllü olarak ilk girenlerden biri olan Calgar, 'Rubicon' testini geçen ilk kıdemli Astartes'tir — bu, onun sadece savaşçı değil aynı zamanda değişimi kabul eden vizyoner olduğunu gösterir. Guilliman'ın dönüşüyle 'Lord Regent' rolüne geçen Calgar, İmparatorluk'un 'en güvenilir ikinci adamı' olarak sayılır: Codex'in yazarı olan babasının yanında, Ultramar'ın hem geçmişi hem geleceğidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+## Tarihçe
+
+Macragge'ın Chapter Master'ı olarak iki yüzyıldan fazla hükmetti; Tyranid Behemoth'u durduran Macragge Savaşı'nın komutanıydı ve savaşta ağır yaralanıp biyonikle döndü. Vigilus, Thramas ve sayısız cephede liderlik etti; Guilliman'ın dönüşünden sonra onun en güvenilir sahalarından

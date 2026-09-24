@@ -14,4 +14,8 @@ Lucius of Agathea, Agathea dünyasının efsanevi azizidir — İmparatorluk İn
 
 Aziz olarak Lucius, 'silah taşıyan aziz' kategorisinin en eski örneklerindendir — hem savaşçı hem ibadet eden bir figür. Agathea'nın kiliseleri onun adını taşır ve İmparatorluk'un 'saint-knight' mitolojisinin temelini oluşturur — bir aziz olmanın hem dua hem kılıç gerektirdiği inancının simgesidir.
 
+## Tarihçe
+
+Agathea'nın lokal azizi; kısmi bilinen bir bölgesel inanç figürü. Yerel piety'nin örneği.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

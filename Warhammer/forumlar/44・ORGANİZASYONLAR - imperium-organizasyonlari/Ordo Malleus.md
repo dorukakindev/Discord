@@ -14,4 +14,8 @@ Ordo Malleus, Inquisition'un 'daemon avcısı' koludur — Grey Knights'ın komu
 
 Ordo'nun işleri, İmparatorluk'un en karanlık sırlarıdır — daemon istilası, İmparatorluk vatandaşlarından bile saklanır ve bir Malleus operasyonu, hem fiziksel hem bilgi temizliği gerektirir. Malleus'un 'Daemonhunters' unvanı, İmparatorluk'un en korkulan ve en bilinmeyen güçlerinden birini tanımlar — onların varlığı bile çoğu İmparatorluk vatandaşı için efsanedir ve bu gizlilik, ordo'nun en güçlü silahıdır.
 
+## Tarihçe
+
+Daemon avcısı Inquisition kolu; Grey Knights'ın patronu. Warp'ın en somut tehdidine karşı İmparatorluk'un en seçkin kolu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

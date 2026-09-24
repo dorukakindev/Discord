@@ -10,4 +10,8 @@ Saint Aspira, Adepta Sororitas'ın Order of the Bloody Rose düzeninin on sekizi
 
 Aspira, sapkın (heretic) Denescura'ya karşı yürüdü; emrindeki kuvvet yalnızca bin savaşçıdan ibaretti. Bu küçük ama imanla çelikleşmiş ordu sayesinde, Denescura'nın egemenliği altındaki neredeyse yüz dünyayı kurtardı.
 
+## Tarihçe
+
+Küçük ama tanınmış bir aziz; seyahat edenlerin ve tehlikeli görevlerin koruyucusu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

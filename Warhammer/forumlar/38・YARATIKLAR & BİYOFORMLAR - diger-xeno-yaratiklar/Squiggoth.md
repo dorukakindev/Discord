@@ -14,4 +14,8 @@ Squiggoth, Ork ekolojisinin en büyük ve en vahşi yaratığıdır — filler b
 
 Squiggoth'un Ork kültüründeki yeri ataviktir — 'en büyük ve en sert hayvan' olarak Gork ve Mork'un vahşi tarafının sembolüdür. Bir Squiggoth'un öfkeli hücumu, İmparatorluk siperlerini ve hafif zırhını öğütebilecek kadar güçlüdür; Catachan ve Armageddon'un açık arazilerinde, Squiggoth sürülerinin tozu, Ork istilasının en ilkel ve en korkulan görüntüsüdür.
 
+## Tarihçe
+
+Ork evcilleştirilmiş dev squig canavarı; Elephant-Squiggoth varyantıyla savaş makinesine dönüşür. Orkların hem evcil hayvanı hem tankı — hantal ama yıkıcı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/44/Relictors_Livery.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/Relictors_Livery.jpg/revision/latest?cb=20110712064222
 
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Relictors

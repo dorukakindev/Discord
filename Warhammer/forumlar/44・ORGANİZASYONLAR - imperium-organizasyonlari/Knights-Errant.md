@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/30/Knights-Errant_SP.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/30/Knights-Errant_SP.png/revision/latest?cb=20241109235948
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Knights-Errant

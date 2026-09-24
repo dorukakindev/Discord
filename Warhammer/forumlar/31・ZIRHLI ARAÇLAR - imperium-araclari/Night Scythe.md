@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f8/Nightscythe1.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/f/f8/Nightscythe1.jpg/revision/latest?cb=20130402102258
 
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Night Scythe

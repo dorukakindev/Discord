@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/43/Howling_Griffons_SP2.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Howling Griffons
 

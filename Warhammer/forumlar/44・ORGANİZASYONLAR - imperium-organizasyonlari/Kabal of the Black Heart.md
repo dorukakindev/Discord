@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_heart_symbol.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_heart_symbol.png/revision/latest?cb=20180407134529
 
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Kabal of the Black Heart

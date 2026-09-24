@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/ba/SoulreaperCannonMini.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/b/ba/SoulreaperCannonMini.jpg/revision/latest?cb=20180221074750
 
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Soulreaper Cannon

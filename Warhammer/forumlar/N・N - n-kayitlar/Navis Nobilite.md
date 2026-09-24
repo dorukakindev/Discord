@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/69/Navis_Nobilite_Icon.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Navis Nobilite
 

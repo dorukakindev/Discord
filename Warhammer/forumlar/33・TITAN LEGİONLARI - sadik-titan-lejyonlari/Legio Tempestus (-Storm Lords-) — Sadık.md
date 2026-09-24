@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/29/Legio_Tempestus_Legio_Icon.png/revision/latest?cb=20210508210912
+
 -# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
 # Legio Tempestus
 

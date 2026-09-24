@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Fulgrim_Ancient_Sketch.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Fulgrim_Ancient_Sketch.jpg/revision/latest?cb=20150206220501
 
 -# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Fulgrim
@@ -10,4 +10,6 @@ Fulgrim, ölmekte olan maden dünyası Chemos'a düştü; gezegen kaynakları t�
 
 İmparator onu III. Lejyon Emperor's Children'ın başına geçirdiğinde, bu mükemmeliyet takıntısı lejyonun da kimliği oldu; Emperor's Children, İmparator'un kendi armasını (Palatine Aquila) taşıma onuru verilen tek lejyondu ve her üyesi fiziksel ve askeri kusursuzluğun zirvesini hedefliyordu. Ama mükemmellik arayışı tehlikeli bir kapıdır: tatmin asla gelmez, sürekli daha fazlası aranır.
 
+## Ele Geçirilme ve Düşüş
+Laeran tapınağında bulduğu gümüş kılıç aslında bir Slaanesh iblisinin zindanıydı; Fulgrim silahı kuşandıkça iblis onun mükemmeliyet açlığını besledi, sonra bedenine el koydu. Kendi bedenine hapsolan Fulgrim, iblisin Isstvan V'te Ferrus Manus'u öldürmesini izledi; bu cinayet onu paramparça etti ama iblisin kontrolü tamdı. Daha sonra ruhu bedenini geri aldı ve Fulgrim tamamen Slaanesh'e teslim oldu — dört kollu yılan benzeri bir İblis Primarch'a yükseldi. Bugün bilinmeyen bir zevk dünyasında hüküm sürer; son kayda değer çıkışı, bir iblis ordusunun başında ortaya çıkıp bir Primaris şirketini yok etmesiydi.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

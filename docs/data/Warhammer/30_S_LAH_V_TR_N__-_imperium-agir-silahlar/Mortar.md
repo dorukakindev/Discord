@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3d/Mortar_Vraks.png/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/3d/Mortar_Vraks.png/revision/latest?cb=20120203010907
 
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Mortar

@@ -1,4 +1,4 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Arbites_Icon.jpg/revision/latest
+https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Arbites_Icon.jpg/revision/latest?cb=20150725004632
 
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Imperial Agents

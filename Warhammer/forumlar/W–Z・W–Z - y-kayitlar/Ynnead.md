@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Spiritseer_Rune.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Ynnead
 

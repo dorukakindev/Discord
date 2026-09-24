@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/29/Slanni_Brave.jpg/revision/latest/scale-to-width
-
 -# THE IMPERIAL ARCHIVE
 # Old Ones
 

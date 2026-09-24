@@ -10,4 +10,8 @@ Makine Ruhu (Machine Spirit), Adeptus Mechanicus inancının merkezindeki kavram
 
 Bu inanca göre, bir makine doğru çalışsın diye, makine ruhunun yatıştırılması ve onurlandırılması gerekir; bir silahı ateşlemeden önce dualar okunur, kutsal yağlar (sacred unguents) sürülür, tütsüler yakılır ve ritüel bakımlar yapılır. Bir Tech-Priest için, bir makineyi anlamak değil, ona tapınmak ve onunla "iletişim kurmak" esastır.
 
+## Tarihçe
+
+Machine Spirit'in Türkçesi; teknolojinin 'ruhu' kavramı. Mechanicum'un inancı — her aletin bir benliği var.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

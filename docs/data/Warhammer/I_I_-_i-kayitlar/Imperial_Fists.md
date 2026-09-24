@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a3/IF_Shoulder_Pad_2.jpg/revision/latest
-
 -# THE IMPERIAL ARCHIVE
 # Imperial Fists
 
