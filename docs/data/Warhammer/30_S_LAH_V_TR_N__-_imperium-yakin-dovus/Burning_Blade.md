@@ -10,4 +10,13 @@ Alev alev yanan, taşıyanını bile yakacak kadar güçlü kutsanmış emanet k
 
 ## Teknik ve Kullanım
 Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
+
+## Teknik Özellikler
+- Tip: Imperium enerji kılıcı — alev benzeri enerji kılıcı deseni
+- Çalışma: güç alanı kesim yerine termal deşarj; temas ettiği zırhı eritir
+- Kullanıcılar: Adepta Sororitas ve Inquisition yakın dövüş uzmanları
+
+## Not
+Standart güç kılıcından daha nadir bir desen; 'yakan kılıç' doktriniyle bağlantılı işkence-imha görevlerinde kullanılmıştır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

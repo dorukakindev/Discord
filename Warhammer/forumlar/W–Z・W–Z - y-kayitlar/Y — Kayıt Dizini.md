@@ -1,7 +1,11 @@
--# THE IMPERIAL ARCHIVE · Y Kayıtları
+-# THE IMPERIAL ARCHIVE · Harf Kayıtları · Dizin
 # Y — Kayıt Dizini
 
-3 kayıt — alfabetik:
+- <#1551809867201908737>
+- <#1551809889721122857>
+- <#1551806888021196880>
+
+-# 3 kayıt · güncel
 
 • **Ynnari**
 • **Ynnead**

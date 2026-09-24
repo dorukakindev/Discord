@@ -8,4 +8,13 @@ Carnifex ve bazı büyük biyoformların gövdesinde üretilen, ağızdan püsk�
 
 ## Teknik ve Kullanım
 Plasma silahları hidrojen yakıtını yıldız sıcaklığına ısıtıp manyetik şişe içinde fırlatır; isabet ettiği zırhı güneş yüzeyi sıcaklığıyla eritir. Aşırı ısınma riski taşıyıcısını öldürebilir — 'kendi ışığıyla yanan silah' olarak hem saygı hem korku uyandırır.
+
+## Teknik Özellikler
+- Tip: Tyranid biyolojik enerji silahı — organizmanın ürettiği plasma
+- Etki: plazma topu kısa menzilde araç ve piyadeyi eritir
+- Taşıyıcı: Carnifex ve ağır biyoformlar
+
+## Not
+Tyranid'in 'silahı' ayrı bir organizma değil, taşıyıcının kendi biyokimyasıdır — vücut içinde üretilip ağız/borulardan fışkırtılır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

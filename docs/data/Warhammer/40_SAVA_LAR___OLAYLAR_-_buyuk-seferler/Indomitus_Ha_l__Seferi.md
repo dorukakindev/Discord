@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Guilliman_Saviour.jpeg/revision/latest/scale-to-width-down/649?cb=20170316203623
 
--# THE IMPERIAL ARCHIVE · Buyuk Seferler · Kayıt
+-# THE IMPERIAL ARCHIVE · Büyük Seferler · Kayıt
 # Indomitus Haçlı Seferi
 *The Indomitus Crusade*
 

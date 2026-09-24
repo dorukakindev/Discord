@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Tau_vs._Sythes_Chapter.jpg/revision/latest/scale-to-width-down/900?cb=20140603204706
 
--# THE IMPERIAL ARCHIVE · Buyuk Seferler · Kayıt
+-# THE IMPERIAL ARCHIVE · Büyük Seferler · Kayıt
 # Damocles Haçlı Seferi
 *The Damocles Gulf Crusade*
 

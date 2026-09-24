@@ -16,6 +16,14 @@ Savaş alanında düşen Necron Warrior'larını toplayan, gövdesindeki düzene
 
 Ghost Ark'lar Necron savaş düzeninin aşınmaya karşı direncini temsil eder.
 
+## Teknik Özellikler
+- Tip: Necron birim taşıyıcısı / destek aracı — hareketli onarım merkezi
+- Özellik: yakınındaki Necron birimlerinin necrodermis self-repair'ini hızlandırır
+- Silahlar: gauss flux arc yan pilleri
+
+## Not
+Ghost Ark basit nakliye aracı değil 'canlandırma platformudur'; bir Ghost Ark sahadayken Necron birlikleri neredeyse yok edilemez.
+
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
