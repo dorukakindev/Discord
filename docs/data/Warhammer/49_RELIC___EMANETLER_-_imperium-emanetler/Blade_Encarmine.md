@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f7/SanguiniusBladeEncarmine.jpg/revision/latest?cb=20171213010028
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Blade Encarmine
 *Kanlı Kılıç (Sanguinius'un Kılıcı)*

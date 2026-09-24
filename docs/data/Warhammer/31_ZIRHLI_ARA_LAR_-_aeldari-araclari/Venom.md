@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/70/DrukhariVenom.jpg/revision/latest?cb=20181031061038
+
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Venom
 

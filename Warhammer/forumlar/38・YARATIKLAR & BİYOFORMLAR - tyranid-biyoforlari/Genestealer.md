@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/49/Tyranid-header.jpg/revision/latest?cb=20160523003947
+
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Genestealer
 

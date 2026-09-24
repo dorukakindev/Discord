@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Agoniser7thEdition.jpg/revision/latest?cb=20181031225307
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Agoniser
 

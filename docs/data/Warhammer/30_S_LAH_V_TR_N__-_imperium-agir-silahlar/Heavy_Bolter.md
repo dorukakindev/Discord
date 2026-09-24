@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Accatran_Pattern.jpg/revision/latest?cb=20130109104133
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Heavy Bolter
 

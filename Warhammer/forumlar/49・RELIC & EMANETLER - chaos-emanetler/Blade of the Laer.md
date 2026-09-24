@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/68/Blade_of_the_Laer.png/revision/latest?cb=20130830214057
+
 -# THE IMPERIAL ARCHIVE · Chaos Emanetler · Kayıt
 # Blade of the Laer
 *Laer'ın Kılıcı (Gümüş Bıçak)*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Adeptus_Terra_Icon.jpg/revision/latest?cb=20140526090516
+
 -# THE IMPERIAL ARCHIVE · Sözlük · Kavram
 # Adeptus Terra
 

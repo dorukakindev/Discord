@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Helbrute_of_Khorne.jpg/revision/latest?cb=20140409151341
+
 -# THE IMPERIAL ARCHIVE · Chaos Araclari · Kayıt
 # Helbrute
 

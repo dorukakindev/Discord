@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Manreaper_schematic.png/revision/latest?cb=20131007175729
+
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Typhus
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/60/Pride_of_the_Emperor_-_Flagship.jpg/revision/latest?cb=20120830193439
+
 -# THE IMPERIAL ARCHIVE · Chaos Gemileri · Kayıt
 # Pride of the Emperor
 

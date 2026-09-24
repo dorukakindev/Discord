@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/18/Maccabian_Jannisary_close_up.jpg/revision/latest?cb=20130223234922
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Maccabian Janissaries
 

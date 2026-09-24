@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/71/Astronomican1.jpg/revision/latest?cb=20200625221719
+
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Astronomican
 *Astronomican, İmparator'un Warp'ta Parlayan Psişik Feneri*

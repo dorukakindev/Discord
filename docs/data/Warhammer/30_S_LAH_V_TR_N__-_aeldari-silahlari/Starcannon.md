@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/43/Starcannon.png/revision/latest?cb=20130826111650
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Starcannon
 

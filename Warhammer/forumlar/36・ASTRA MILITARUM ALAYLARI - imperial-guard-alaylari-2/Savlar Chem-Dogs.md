@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4a/Savlar_Chem-Dog_Trooper_2.png/revision/latest?cb=20160403224426
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Savlar Chem-Dogs
 

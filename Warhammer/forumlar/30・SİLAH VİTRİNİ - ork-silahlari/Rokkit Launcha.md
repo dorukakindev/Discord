@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3c/Rokkit_Launcha_Schematic.jpg/revision/latest?cb=20140108085911
+
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Rokkit Launcha
 

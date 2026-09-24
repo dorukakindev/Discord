@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/93/443px-Lelith.png/revision/latest?cb=20141009020055
+
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Lelith Hesperax
 

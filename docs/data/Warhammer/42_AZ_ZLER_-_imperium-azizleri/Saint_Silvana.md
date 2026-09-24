@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2c/OrderoftheArgentShroud.jpg/revision/latest?cb=20191212223508
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Silvana
 *Aziz Silvana*

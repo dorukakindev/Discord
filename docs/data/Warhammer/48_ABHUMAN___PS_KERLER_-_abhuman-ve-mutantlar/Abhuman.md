@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2f/MilitarumAuxilla.png/revision/latest?cb=20170621015143
+
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Abhuman
 *İnsan-Altı Soylar, Galaksinin Saçılmış Çocukları*

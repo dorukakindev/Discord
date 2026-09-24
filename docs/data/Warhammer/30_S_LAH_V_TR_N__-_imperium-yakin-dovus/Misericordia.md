@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/ff/CustodianWardenMini.jpg/revision/latest?cb=20180201040349
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Misericordia
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Squiggoth_art.jpg/revision/latest?cb=20110209125921
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Squiggoth
 *Skiggot*

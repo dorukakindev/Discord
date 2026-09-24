@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Exorcists_Icon.jpg/revision/latest?cb=20160121214647
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Exorcists
 

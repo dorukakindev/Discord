@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/82/Aunshi6.jpg/revision/latest?cb=20170612050252
+
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Aun'Shi
 

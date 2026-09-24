@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/14/Monolith1.jpg/revision/latest?cb=20130331072708
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Particle Whip
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Canoptekspyder10.jpg/revision/latest?cb=20150219223033
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Canoptek Spyder
 

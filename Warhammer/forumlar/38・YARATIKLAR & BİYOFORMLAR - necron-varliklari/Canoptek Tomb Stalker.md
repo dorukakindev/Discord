@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0f/Alexandr-elichev-whk18-15085-rumblingtombstalker-alexandrelichev.jpg/revision/latest?cb=20161012030530
+
 -# THE IMPERIAL ARCHIVE · Necron Varliklari · Kayıt
 # Canoptek Tomb Stalker
 *Canoptek Mezar Avcısı*

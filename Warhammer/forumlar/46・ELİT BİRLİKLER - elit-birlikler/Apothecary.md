@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Apothecaries_RT_era.jpg/revision/latest?cb=20130915024113
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Apothecary
 *Savaş Cerrahı, Gen-tohum Koruyucusu*

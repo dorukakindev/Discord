@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Departmento_Cartographicae_Chart_Sabbat_Worlds.jpg/revision/latest?cb=20111024184158
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Sabbat Worlds Crusade
 

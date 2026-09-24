@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9e/Ghazghkull2.png/revision/latest?cb=20140723001859
+
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Ghazghkull Mag Uruk Thraka
 *Orklar'ın Peygamberi*

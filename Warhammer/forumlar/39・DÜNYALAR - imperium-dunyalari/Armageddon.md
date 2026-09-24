@@ -1,6 +1,8 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest?cb=20090224193610
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Armageddon — Armageddon
+# Armageddon
 
 Dev kovan şehirleri ve zehirli çölleriyle ünlü endüstri dünyası; Ork warboss Ghazghkull Thraka'nın defalarca işgal ettiği savaşların sahnesi.
 

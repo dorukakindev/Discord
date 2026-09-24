@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Vindicator001.jpg/revision/latest?cb=20120603042824
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Vindicator
 

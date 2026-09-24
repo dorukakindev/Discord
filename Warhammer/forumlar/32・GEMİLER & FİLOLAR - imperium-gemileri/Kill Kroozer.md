@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/00/Ork_Killa_Kroozer.png/revision/latest?cb=20200705034537
+
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Kill Kroozer
 

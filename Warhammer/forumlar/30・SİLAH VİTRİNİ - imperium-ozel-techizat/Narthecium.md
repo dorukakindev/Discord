@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/71/Apothecary_Emperor%27s_Peace.jpg/revision/latest?cb=20111219232016
+
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Narthecium
 

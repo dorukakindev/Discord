@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c5/Crozius_Arcanums.jpg/revision/latest?cb=20121214054629
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Crozius Arcanum
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/33/Deathleaper_updated.jpg/revision/latest?cb=20140627220523
+
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Deathleaper
 

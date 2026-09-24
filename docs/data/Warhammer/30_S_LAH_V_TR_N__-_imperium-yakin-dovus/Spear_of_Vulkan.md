@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ac/Vulkan_the_Salamander_.jpg/revision/latest?cb=20151024100557
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Spear of Vulkan
 

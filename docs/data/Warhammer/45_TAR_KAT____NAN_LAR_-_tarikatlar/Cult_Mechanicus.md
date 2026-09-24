@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/67/CultMechanicus2.jpg/revision/latest?cb=20241120171018
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Cult Mechanicus
 *Omnissiah Kültü, Makine Tanrısı Dini*

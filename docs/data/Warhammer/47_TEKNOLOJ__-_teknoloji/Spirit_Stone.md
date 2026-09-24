@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Harlequin_Motley_Mask_of_Vyle.jpg/revision/latest?cb=20141117015658
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Spirit Stone
 

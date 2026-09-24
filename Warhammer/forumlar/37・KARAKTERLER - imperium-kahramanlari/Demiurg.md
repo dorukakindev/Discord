@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Demiurg_survey_glass.jpg/revision/latest?cb=20120918020001
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Demiurg
 

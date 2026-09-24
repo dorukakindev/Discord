@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Davinite_Lodge_Priest
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
-# Davin — Davin
+# Davin
 
 Yılan Locası kültlerinin yuvası olan dünya; Horus'un lanetli bir kılıçla yaralanıp Kaos'a döndürüldüğü, tüm Heresy'nin gerçek dönüm noktası.
 

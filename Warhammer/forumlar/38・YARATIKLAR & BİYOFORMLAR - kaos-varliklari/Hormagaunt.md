@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Hormagaunts_colored.jpg/revision/latest?cb=20110726010217
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Hormagaunt
 

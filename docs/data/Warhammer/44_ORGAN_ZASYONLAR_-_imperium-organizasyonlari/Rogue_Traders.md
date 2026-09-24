@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Rogue_Trader_Icon2.jpg/revision/latest?cb=20140526181558
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Rogue Traders
 *Serbest Tüccarlar*

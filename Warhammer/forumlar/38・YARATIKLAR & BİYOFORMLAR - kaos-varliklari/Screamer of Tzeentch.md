@@ -10,4 +10,6 @@ Screamer of Tzeentch, sık sık "Gök-Köpekbalığı" (Sky-shark) olarak anıla
 
 Uçuş yetenekleri sayesinde son derece çeviktirler ve vahşi ama kurnaz bir zekâ taşırlar. Uçarken ardlarında çok renkli kıvılcımlardan izler bırakır ve onlara adını veren o delici, yüksek frekanslı çığlığı yayarlar. Savaş alanının üzerinde süzülerek düşmanları kuyruklarıyla kamçılar ve acımasız barbetlerine saplarlar; gökten inen, çığlık atan bir ölüm yağmuru gibidirler.
 
+## Gökyüzü Avcısı
+Screamer'lar, Tzeentch'in manta benzeri uçan iblisleridir — Warp'ın akıntılarında süzülen, çığlık atan, et ve psişik enerji karışımı yaratıklar. Maddi dünyada yelkenli köpekbalığı gibi süzülürler; sürüler hâlinde saldırıp düşmanı gökyüzünden biçerler. Keskin sırtları zırhı deler; çeneleri et ve ruhu birlikte koparır. Tzeentch'çi büyücüler onları binek (Disc of Tzeentch) olarak kullanır — bir büyücü Screamer'ı evcilleştirip üzerine binmeyi başarırsa, ona sadık ama tehlikeli bir binek kazanır. Gözleri olmayan bu yaratıklar avı psişik olarak hisseder.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

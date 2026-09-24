@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Voidblade10.jpg/revision/latest?cb=20150316111848
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Voidblade
 

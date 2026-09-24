@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Warscythe8.jpg/revision/latest?cb=20140703052241
+
 -# THE IMPERIAL ARCHIVE · Xenos Emanetler · Kayıt
 # The War Scythe of the Nightbringer
 *Nightbringer'ın Savaş Tırpanı*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/af/Grot_battle.png/revision/latest?cb=20140804180005
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Gretchin
 *Gretchin (Grot)*

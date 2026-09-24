@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Gladiator.jpg/revision/latest?cb=20120831062335
+
 -# THE IMPERIAL ARCHIVE · Chaos Gemileri · Kayıt
 # Conqueror
 

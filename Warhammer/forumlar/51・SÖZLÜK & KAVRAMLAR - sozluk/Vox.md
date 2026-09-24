@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/38/Vox-caster.jpg/revision/latest?cb=20121213062211
+
 -# THE IMPERIAL ARCHIVE · Sözlük · Kavram
 # Vox
 

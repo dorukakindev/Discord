@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9d/SlyMarboAmbush.jpg/revision/latest?cb=20171209060432
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Sly Marbo
 *Tek Kişilik Ordu*

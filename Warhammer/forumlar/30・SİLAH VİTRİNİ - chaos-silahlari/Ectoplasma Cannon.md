@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/51/EctoplasmaCannon00a.jpg/revision/latest?cb=20130324063611
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Ectoplasma Cannon
 

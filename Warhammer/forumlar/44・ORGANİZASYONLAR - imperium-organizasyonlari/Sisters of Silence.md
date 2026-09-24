@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8c/SoS_Icon.jpg/revision/latest?cb=20170327223644
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Sisters of Silence
 *Sessizlik Rahibeleri (Anathema Psykana)*

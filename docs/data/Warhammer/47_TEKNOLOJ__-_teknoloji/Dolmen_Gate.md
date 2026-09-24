@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d3/Ankh_Triarch.jpg/revision/latest?cb=20120922040712
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Dolmen Gate
 

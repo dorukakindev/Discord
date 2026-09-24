@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/Forgefiend01.jpg/revision/latest?cb=20130316224413
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Forgefiend
 

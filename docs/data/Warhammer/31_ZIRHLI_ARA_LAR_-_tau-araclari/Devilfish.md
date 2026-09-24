@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Devilfish_dex.JPG/revision/latest?cb=20121103010613
+
 -# THE IMPERIAL ARCHIVE · Tau Araclari · Kayıt
 # Devilfish
 

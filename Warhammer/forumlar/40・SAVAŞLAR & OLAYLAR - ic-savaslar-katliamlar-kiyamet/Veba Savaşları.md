@@ -27,3 +27,5 @@ Guilliman, büyük bedeller ödeyerek Ultramar'ı savundu ve Mortarion'un istila
 - Typhus
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Guilliman_vs._Mortarion.png/revision/latest?cb=20170912010908

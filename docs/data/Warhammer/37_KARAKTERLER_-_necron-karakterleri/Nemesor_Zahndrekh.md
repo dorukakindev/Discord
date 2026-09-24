@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/ZahndrekhandObyron.jpg/revision/latest?cb=20181202194253
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Nemesor Zahndrekh — Gidrim'in Nemesor'u / Aldanmış General

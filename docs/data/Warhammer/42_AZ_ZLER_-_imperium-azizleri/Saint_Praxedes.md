@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Saint_Praxedes_of_Ophelia_VII.jpg/revision/latest?cb=20110825174525
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Praxedes
 *Aziz Praxedes*

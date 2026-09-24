@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/24/Attilan_Cav_Charge.jpg/revision/latest?cb=20130530172522
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Attilan Rough Riders
 

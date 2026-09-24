@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0d/Burna_%26_TAnk.png/revision/latest?cb=20140108014548
+
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Burna
 

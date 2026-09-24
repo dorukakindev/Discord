@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/16/Mentors_Chapter_Badge.jpg/revision/latest?cb=20160303040314
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Mentors
 

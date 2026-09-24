@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/80/Baneblade_of_Tallarn_409th_Heavy_Tank_Regiment.png/revision/latest?cb=20120129012157
+
 -# THE IMPERIAL ARCHIVE · B Kayıtları · Kayıt
 # Baneblade
 

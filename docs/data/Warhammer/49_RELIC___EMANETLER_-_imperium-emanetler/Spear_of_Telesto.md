@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/55/Sanguinius_Spear_of_Telesto.png/revision/latest?cb=20201020071059
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Spear of Telesto
 *Telesto Mızrağı*

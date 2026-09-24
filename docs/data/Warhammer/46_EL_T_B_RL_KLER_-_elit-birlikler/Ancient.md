@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/99/RG_MkII_CommandSet06.jpg/revision/latest?cb=20171018174126
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Ancient
 *Sancaktar, Bölük Bayrağının Onurlu Taşıyıcısı*

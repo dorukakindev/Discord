@@ -1,6 +1,6 @@
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Ryza — Ryza
+# Ryza
 
 Adeptus Mechanicus'un en önemli Forge World'lerinden biri; özellikle plazma silah ve reaktör teknolojisinde ustalığıyla ünlü, sürekli kuşatma altında.
 

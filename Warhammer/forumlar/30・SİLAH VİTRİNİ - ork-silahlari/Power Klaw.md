@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Power_Klaw_1.jpg/revision/latest?cb=20141119210758
+
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Power Klaw
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Abyss-Class_Vessel.png/revision/latest?cb=20150810210329
+
 -# THE IMPERIAL ARCHIVE · Chaos Gemileri · Kayıt
 # Furious Abyss
 

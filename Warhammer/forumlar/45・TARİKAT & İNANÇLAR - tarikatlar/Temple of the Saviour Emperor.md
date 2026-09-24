@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Ministorum1.jpg/revision/latest?cb=20121025151220
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Temple of the Saviour Emperor
 

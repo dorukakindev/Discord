@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/Parasite_of_mortrex_artwork.jpg/revision/latest?cb=20100802150911
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # The Parasite of Mortrex
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bd/The_Armouring_of_a_Space_Marine/revision/latest?cb=20220311172314
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Power Armour
 *Güç Zırhı*

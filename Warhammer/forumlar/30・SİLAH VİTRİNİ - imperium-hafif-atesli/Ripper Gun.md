@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/61/Ogryn_Ripper_Gun.jpg/revision/latest?cb=20120104082647
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Ripper Gun
 

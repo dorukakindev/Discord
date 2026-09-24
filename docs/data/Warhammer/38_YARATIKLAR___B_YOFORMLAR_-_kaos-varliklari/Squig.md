@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/ff/Attack_Squig.jpg/revision/latest?cb=20130612211122
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Squig
 

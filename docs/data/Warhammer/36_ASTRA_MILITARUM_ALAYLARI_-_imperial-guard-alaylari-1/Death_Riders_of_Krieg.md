@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Krieg_Death_Rider_Company.jpg/revision/latest?cb=20121224080500
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Death Riders of Krieg
 
