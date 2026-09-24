@@ -11,5 +11,3 @@ Soul Drinkers, Imperial Fists'in (Dorn) bir halefidir ve 40K'nın en trajik ve e
 Chapter, yozlaşmış ve acımasız İmparatorluk kurumlarıyla (sömüren yöneticiler, çürümüş yetkililer, sivilleri umursamayan otoriteler) karşılaştıkça, "gerçekten doğru olanın" ne olduğunu sorgulamaya başladı. Sıradan insanları koruyup zalim İmparatorluk yetkililerine karşı çıktıklarında, İmparatorluk onları renegade ilan etti; doğru olanı yapmaya çalışmak, onları kanun kaçağı yaptı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d9/Adrian_smith_soul_drinker.jpg)

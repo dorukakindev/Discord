@@ -11,8 +11,6 @@ Necromunda'nın ansiklopedideki ağırlığı yalnızca Imperial kayıtlardan ge
 ## Kül Çölleri ve Hive'lar
 Hive'ların dışında uzanan **Ash Wastes**, asit yağmurlarının ve zehirli fırtınaların dövdüğü, kül tepeleriyle kaplı bir arazidir. Bu çöllerde yaşayan göçebeler, hive'lar arasındaki ticaret yolları ve terk edilmiş sanayi kalıntıları, Necromunda yayınlarında giderek genişleyen bir coğrafya oluşturur. Hive'ların kendisi ise dikey katmanlar hâlinde örgütlenir: en tepede, temiz havanın ve lüksün tadını çıkaran soyluların **Spire**'ı; ortada fabrikaların ve işçi kitlelerinin **Hive City**'si; altında çökmüş, terk edilmiş katmanlardan oluşan **Underhive**; en dipte de zehirli atıkların biriktiği sump ve Hive Bottom. Toplumsal konum burada kelimenin tam anlamıyla bir yükseklik meselesidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/af/Necromunda_Map.jpg/revision/latest/scale-to-width-down/1000?cb=20180909011810)
-
 ## Lord Helmawr ve Hive Primus'un Düzeni
 Necromunda'nın Imperial Commander'ı, Hive Primus'un Spire'ından gezegeni yöneten **Lord Gerontius Helmawr**'dır. Oyun kaynakları onu, yaşam uzatma yöntemleriyle olağan insan ömrünün çok ötesine taşınmış, entrikayı bir yönetim sanatına çevirmiş yaşlı bir hükümdar olarak çizer. Helmawr soyu, Imperium'a karşı gezegenin tithe'ini güvence altına aldığı sürece, Necromunda'nın iç işlerini kendi çıkarına göre düzenlemekte büyük ölçüde serbesttir. Helmawr'un gözden düşmüş oğullarından biri olarak anlatılan ödül avcısı **Kal Jerico**, Necromunda'nın en tanınmış karakterlerinden biridir.
 

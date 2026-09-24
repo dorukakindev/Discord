@@ -31,8 +31,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Ultramarines_Livery.j
 
 Ultramarines, pek çoğunun "modern" bir askeri kuvvet olarak adlandıracağı şeye en yakın Adeptus Astartes Chapter'ıdır. **Strateji, planlama ve kayıp minimizasyonu** her Ultramarines savaş planının temelidir. "Bilgi zaferdir" onların yoludur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Ultramarines_Livery.jpg/revision/latest?cb=20160501032216)
-
 Primarch'ları ile yeniden birleşmeden önce bile XIII. Lejyon (o zaman **War Born**) dikkatlice düşünülmüş savaş planları, yerleşik bir komuta zinciri ve yan hasarın en aza indirilmesine güçlü bir eğilim gösteriyordu. Bu eğilimler, **Codex Astartes**'in kapsamlı çalışma ve pratiğiyle daha da yoğunlaştırıldı. Her şirket pürüzsüz işleyen bir savaş makinesi gibi çalışır; her birim diğeriyle işlevsel olarak iç içe geçer.
 
 **Codex Astartes** çok geniş bir savaş alanı durumu ve doktrin yelpazesini kapsar; ancak Codex'in hazırlamadığı durumlar Ultramarines'i hazırlıksız yakalar — gerçek antik Roma Lejyonları gibi. **İlk Tyranid İstilası** ve **Damnos Olayı** böyle durumlardı; düşmanlarının alışılmadık doğası neredeyse yenilgiye yol açıyordu.

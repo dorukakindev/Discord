@@ -19,5 +19,3 @@ War in Heaven boyunca Necron'lar ve C'tan, Old Ones'ın sığınağına dönüş
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551809699312181339>, <#1551649070286897172>, <#1551817636516470845>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d3/Ankh_Triarch.jpg/revision/latest?cb=20120922040712)

@@ -11,5 +11,3 @@ Red Corsairs, geleneksel bir chapter değil, bir Kaos korsan imparatorluğudur; 
 Huron yenildiğinde ölümcül yaralandı ama ölmedi; Mechanicus tarafından kurtarıldı, Kaos'a tam olarak döndü ve "Huron Blackheart" oldu (vücudunun yarısı artık biyoniktir, omzunda Hamadrya adlı canlı bir iblis-yaratık taşır). Kaçan savaşçılarıyla birlikte, Warp anormalliği Maelstrom'a sığındı ve Red Corsairs'i kurdu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/be/RCArt10th.jpg)

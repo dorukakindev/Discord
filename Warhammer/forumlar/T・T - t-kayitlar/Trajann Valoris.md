@@ -11,8 +11,6 @@ Trajann'ın dönemi, Custodes'in kendini yeniden tanımladığı dönemle örtü
 ## Köken ve Unvanlar
 Custodes'in kökenleri kurumsal bir gizlilikle örtülüdür ve Trajann'ın kişisel geçmişi de bu örtünün altında kalır. Kaynaklar Custodes adaylarının çocuk yaşta, Terra'nın köklü aileleri arasından seçildiğini ve gene-seed'e dayanmayan, Astartes'ten farklı bir yeniden yapılandırmadan geçtiğini anlatır; Trajann'ın hangi aileden geldiği, Captain-General olmadan önce hangi görevlerde bulunduğu ve makama hangi yolla seçildiği ise yayımlanmış kanonda ayrıntılandırılmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Cpt.-General_Trajann_Valoris.jpg/revision/latest/scale-to-width-down/837?cb=20180116050053)
-
 Taşıdığı en belirgin unvanlar Captain-General ve High Lord'luktur. Kurumun başı olarak Custodes'in bütün Shield Host'ları ve Captain-General'ın kendi seçtiği Hetaeron Guard onun komutasındadır; Sisters of Silence ile tarihsel ortaklık da bu makamın siyasi ve askerî sorumlulukları arasında yer alır.
 ---MSG---
 ## Kişilik: Watchers of the Throne

@@ -11,5 +11,3 @@ Macragge'in Onuru, Ultramarines Primarch'ı ve Imperium Naibi Roboute Guilliman'
 Ultramarines'in disiplinli, düzenli savaş doktrininin yüzen bir simgesi olarak galaksinin dört bir yanında hizmet etti.\n\nGeminin en ünlü çarpışması, İsyan sırasında ihanetkar Infidus Imperator ile yaptığı düellodur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/ab/MacraggesHonor.jpg)

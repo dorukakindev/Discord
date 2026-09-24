@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e6/WyrdvanePsyker.png/revision/latest?cb=20171117000158
+
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Wyrdvane Psyker (Sanctioned Psyker)
 

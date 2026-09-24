@@ -7,5 +7,3 @@ Karanlık ve sert mizaçlı, dövüşte ölümcül olan; Order of the Bloody Ros
 Saint Mina, Adepta Sororitas'ın Order of the Bloody Rose'unun -- "Kanlı Gül Düzeni" -- ve minör Order of the Thorn'un patron azizesidir. Alicia Dominica'nın beş yoldaşından biriydi ve aralarında en karanlık, en düşünceli olanı olarak bilinirdi; çabuk öfkelenen, savaş alanında ölümcül bir savaşçıydı. Onun ateşli mizacı, daha sonra kurulacak Order of the Bloody Rose'un savaş ruhuna damgasını vuracaktı.\n\nDikkat çekici bir tarihsel ayrıntı, Order of the Bloody Rose'un Mina'nın patronluğunu taşımasına rağmen, ilk dört büyük Orders Militant'ın kuruluşundan tam iki buçuk binyıl sonra resmen kurulmuş olmasıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/44/Mina.jpg)

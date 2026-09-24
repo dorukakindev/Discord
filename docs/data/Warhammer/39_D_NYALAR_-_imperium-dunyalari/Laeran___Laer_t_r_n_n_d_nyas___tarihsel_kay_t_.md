@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/72/MarkofSlaaneshVariant.png/revision/latest?cb=20220211232210
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Laeran — Laer türünün dünyası (tarihsel kayıt)
 

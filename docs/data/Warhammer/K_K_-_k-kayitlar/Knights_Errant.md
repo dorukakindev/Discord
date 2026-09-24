@@ -11,8 +11,6 @@ Anlatının taşıyıcısı büyük ölçüde James Swallow'dur. *The Flight of 
 
 Bu madde Knights-Errant'ı bir kurum olarak ele alır. Kişisel hikâyeler için nathaniel-garro ve <#1551814578508144701>, Sigillite'ın kendisi için <#1551816677669343263>, sonraki Chapter için <#1551641477501947995> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/50/Knight_Errants_combat.jpg/revision/latest?cb=20150511181236)
-
 ## Doğuş: Güven Sorunu
 Knights-Errant'ın ortaya çıkışı, Heresy'nin Terra'ya getirdiği ilk ve en yakıcı soruya bağlıdır: bir Primarch ihanet edebiliyorsa, hangi Space Marine'e güvenilebilirdi? Death Guard kaptanı Nathaniel Garro'nun *Eisenstein*'la Sol sistemine ulaşıp Horus'un ihanetini haber vermesi, Terra'da yalnızca bir yas değil, bir kuşku dalgası da başlattı. Garro'nun kendisi de bu kuşkunun nesnesiydi; Legion'ı ihanet etmiş bir savaşçının sözüne ne ölçüde yaslanılabilirdi?
 

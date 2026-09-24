@@ -11,5 +11,3 @@ Alpha Legion, tüm lejyonların en gizemlisidir; primarch'ları aslında gizli i
 Açık savaştan çok ağ kurmayı, sızmayı, sabotajı ve düşmanı kendi içinden çökertmeyi tercih ederler; her lejyoner bir ajan, her plan bir aldatmaca içinde aldatmacadır. Sembolleri hidradır ve sözleri her şeyi özetler: "Biz Hidra'yız; bir başımızı keserseniz iki tane daha çıkar."
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/53/Alpha_LegionPH.jpg)

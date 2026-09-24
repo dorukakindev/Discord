@@ -11,5 +11,3 @@ Legio Astorum, "Warp Runners" (Warp Kosuculari) olarak bilinen, Segmentum Obscur
 Lejyonun Titanlari, dogrudan savas alanina isinlanabilecek kadar gelismis tek tanri-makineler olarak anilir; bu kabiliyet onlara essiz bir taktiksel hareketlilik kazandirir.\n\nLejyonun renkleri agirlikli olarak altin vurgulu mavidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d1/WarpRunners.jpg)

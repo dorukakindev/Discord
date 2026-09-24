@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4f/Ion_rifle.jpg/revision/latest?cb=20130829041352
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Ion Rifle (ve ion silah ailesi)
 

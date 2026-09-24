@@ -12,5 +12,3 @@ Guilliman'ın Imperium'u yeniden yönetmeye çalışması ve Mortarion'la 'Tanr�
 -# Seri: Diğer Romanlar (Black Library)
 
 -# Kaynaklar: Black Library
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/31/9thEditionGalaxyMap.jpg/revision/latest/scale-to-width-down/1000?cb=20230622173814)

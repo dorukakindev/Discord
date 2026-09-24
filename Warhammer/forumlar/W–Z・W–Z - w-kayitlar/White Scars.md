@@ -13,8 +13,6 @@ Primarch'ların dağıtılmasının ardından Jaghatai Khan'ın kapsülü, göç
 
 Legion, Khan'la buluşmadan önce Terra'da kurulmuş ve yetiştirilmişti. Horus Heresy dönemini işleyen eserler, Chogoris'ten gelen yeni savaşçılar ile Terra kökenli kıdemli kuşak arasındaki kültürel mesafeyi ayrıntılı biçimde işler. Khan, Legion'a Chogoris'in dilini, törenlerini ve savaş anlayışını aşılamış; Legion içinde Chogoris kökenli Khorchin dili ortak bir kimlik aracına dönüşmüştür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e2/WS_Shoulder_Plate.png/revision/latest?cb=20160306102920)
-
 ## Great Crusade
 Great Crusade boyunca White Scars, Imperium'un sınır bölgelerinde, çoğu zaman Terra'nın gözünden uzakta savaştı. Hızlı akınlar, uzun menzilli takip harekâtları ve düşmanın merkezine yıldırım baskınlarıyla ün kazanan Legion, Imperial bürokrasi ile ilişkisini asgari düzeyde tuttu. Bu mesafe, Legion'ın bağımsızlığını korurken ona tartışmalı bir ün de kazandırdı: Terra'daki kayıtlarda White Scars, katkısı az belgelenmiş, kolay ulaşılamayan ve niyeti kestirilemeyen bir Legion olarak görünür.
 

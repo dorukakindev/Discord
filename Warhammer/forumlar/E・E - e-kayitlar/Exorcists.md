@@ -10,8 +10,6 @@ Bu uygulama, Exorcists'i Imperium'un kurumsal dünyasında garip bir konuma yerl
 
 Bu kanal Exorcists'in kuruluşunu, gene-seed'ini çevreleyen gizliliği, adaylık ritüeline dair aktarılanları ve daemon avcılığına dayalı savaş geleneğini ele alır. Daemon'ların doğası <#1551654107058540595>, Inquisition'ın daemon avcısı kolu ordo-malleus, Imperium'un bu alandaki gizli ordusu ise <#1551641477501947995> kanalında işlenir. Exorcists'e dair ayrıntıların önemli bir kısmı dağınık ve kısa kaynaklara dayandığından, anlatılanla ima edileni ayırmak bu kanalın temel ilkesidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Exorcists_Icon.jpg/revision/latest?cb=20160121214647)
-
 ## Kuruluş ve Mühürlü Soy
 Exorcists'in kuruluşu kaynaklarda Thirteenth Founding'le ilişkilendirilir; ancak bu kaydın ayrıntıları, Chapter'ın tarihine dair pek çok bilgi gibi, Inquisition'ın mührü altında tutulur. Anlatılar Chapter'ın Inquisition'ın, özellikle de Ordo Malleus'un güdümünde tasarlandığını, daemon tehdidine karşı özel olarak yetiştirilmiş bir Astartes kuvveti yaratma girişiminin ürünü olduğunu ima eder. Bu bir deney miydi, bir güvence mi, yoksa ikisi birden mi; kaynaklar bunu kesinleştirmez.
 

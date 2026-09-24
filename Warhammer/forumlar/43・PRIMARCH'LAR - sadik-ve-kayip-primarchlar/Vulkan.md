@@ -9,5 +9,3 @@ Vulkan, volkanik ölüm dünyası Nocturne'e düştü ve demirci bir halkın ara
 İmparator onu XVIII. Lejyon Salamanders'ın başına geçirdi; lejyon, primarch'ları gibi usta zanaatkârlardan oluşuyordu ve her savaşçı kendi teçhizatını döver, melta ve alev silahlarında ustalaşırdı. Salamanders sayıca her zaman küçüktü ama sıcaklığı ve sivilleri koruma ilkesiyle eşsizdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/18/YoungVulkan.jpg)

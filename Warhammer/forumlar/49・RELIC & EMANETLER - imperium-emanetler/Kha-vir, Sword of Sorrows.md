@@ -18,4 +18,4 @@ Yvraine, Ynnari'nin doğuşundan itibaren Kha-vir'i taşıdı. Biel-Tan'ın ard�
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*; *Psychic Awakening: Phoenix Rising*
 
--# İlişkili kayıtlar: <#1551588084628590646>, <#1551588087455289414>, <#1551741381813211187>
+-# İlişkili kayıtlar: <#1552483346846715924>, <#1551742665756901377>, <#1551814468458258434>

@@ -9,5 +9,3 @@ Plaguebearer'lar, Kaos Tanrısı Nurgle'ın temel iblisleri ve "bahçıvanlarıd
 En tuhaf özellikleri, takıntılı bir muhasebecilik dürtüsüdür; sürekli, durmadan Nurgle'ın salgınlarını ve "armağanlarını" sayarlar (the Tally), her şeyi düzene sokmaya çalışırlar. Bu, onlara komik ama aynı zamanda ürpertici bir titizlik verir. Plaguesword'leriyle açtıkları en küçük yara bile ölümcül bir hastalık aşılar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/72/PlaguebearersArt8th.jpg)

@@ -10,8 +10,6 @@ Tallarn'ı öteki alay dünyalarından ayıran, bugünkü kimliğini doğrudan o
 
 Bu kanal Tallarn alay geleneğini merkeze alır. Heresy'deki muharebenin kendisi için <#1551811752969371679>, virüs bombardımanının kurumsal anlamı için <#1551655332277784759> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/77/TallarnBaneblade.JPG/revision/latest/scale-to-width-down/1000?cb=20110803071401)
-
 ## Bugünkü Tallarn
 M41'in Tallarn'ı, rüzgârın durmaksızın biçimlendirdiği kum denizlerinden, kayalık yaylalardan ve kavurucu gündüzlerle dondurucu gecelerin birbirini izlediği bir iklimden oluşur. Su değerlidir, gölge değerlidir, yol bilgisi değerlidir. Kaynakların çizdiği halk, bu kıtlık içinde sabrı, tutumluluğu ve dayanıklılığı bir yaşam biçimine dönüştürmüş, derin bir dindarlıkla birbirine bağlanmış insanlardır.
 ---MSG---

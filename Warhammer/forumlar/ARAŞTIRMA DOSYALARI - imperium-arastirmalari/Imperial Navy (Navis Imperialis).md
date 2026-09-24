@@ -20,8 +20,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/32/ImperialNavyIcon.png/
 
 ### Bir İmparatorluk Kuvveti Olarak İyi Yönetilen Bir Kurum
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/32/ImperialNavyIcon.png/revision/latest?cb=20200605191100)
-
 Imperial Navy gerçekten İmparatorluk tarafından iyi yönetilir. Şok edici, biliyorum. Ancak (orada!) İmparatorluk her yeri savunmaya çalışmanın iyi bir fikir olduğunu düşünüyor gibi görünüyor. Bu genellikle çoğu tehdidin komik şekilde eşleşmediği isyancılar olduğu için iyi işler. Ancak komik şekilde eşleşmemiş isyancılarla yüzleşmediklerinde, Donanma zafer ve genellikle bu gezegenleri geri almak için yeterli güç yoğunluğu elde edemeden önce birden fazla dünya kaybedilir. Bu isyancılar escortları ezmek için bir şeylere ihtiyaç duymadığından (ve Muhafız taşıma gemilerini korumak için) Donanma'nın tam filoları her yere itme ve hafif kruvazörleri devriye gezdirme eğilimi düşünülmemiştir. Bu, Muhafızlar'ın sistemi güvence altına almak için başlangıçta görevlendirilen tam bir savaş grubunun desteğini almayacağı anlamına gelir (bkz. **Vraks** örneği).
 
 ## Horus Heresy Sonrası Ayrılık

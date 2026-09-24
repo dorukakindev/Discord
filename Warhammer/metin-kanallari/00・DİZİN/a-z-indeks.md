@@ -30,8 +30,6 @@ Bir harf forumuna tıkla → açılan listeden kaydı seç.
 **Y** → <#1551804792953774150>
 **Z** → <#1551809901972557844>
 
----
-
 ## Koleksiyon Forumları
 
 • abhuman-ve-mutantlar → <#1551629205660237978>
@@ -75,10 +73,21 @@ Bir harf forumuna tıkla → açılan listeden kaydı seç.
 • istila-ve-kusatmalar → <#1551629181971079290>
 • kaos-tanrilari → <#1551629185410146404>
 
----
-
 ## Romanlar & Seriler
 
 • Horus Heresy (54 kitap) → <#1551876422782419034>
 • Siege of Terra (9 cilt) → <#1551876426796376074>
 • Diğer romanlar → <#1551876430810578984>
+
+## Araştırma Dosyaları
+
+• imperium-arastirmalari → <#1552481902898716742>
+• astartes-sadik-arastirma → <#1552482546460270694>
+• astartes-hain-arastirma → <#1552482782633132042>
+• kaos-arastirma → <#1552483022782074931>
+• xenos-arastirmalari → <#1552483090805297183>
+
+## Diğer Sunucularımız
+
+• trech-crusade → <#1551903313333723136>
+• mörkborg-darksun-kult-etc → <#1551903439385268307>

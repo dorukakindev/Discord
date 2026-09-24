@@ -10,8 +10,6 @@ Chartist Captain'ı en iyi anlatan şey, Rogue Trader ile arasındaki farktır. 
 
 Chartist Captain'lar hakkında yayımlanmış kanon, Imperium'un öteki kurumlarına kıyasla oldukça seyrek ayrıntı verir. Charter'ların kim tarafından, hangi koşullarla verildiği; ticaret filolarının merkezî bir örgütü olup olmadığı ya da kaç gemiden oluştuğu kaynaklarda sistemli biçimde anlatılmaz. Bu madde bilinen çerçeveyi, belirsiz kalan noktaları da işaretleyerek aktarır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Misericord.jpg/revision/latest?cb=20080521220415)
-
 ## Charter, Hanedanlar ve Merchant Fleet
 Bir charter, kaptanına belirli rotalarda sefer etme, belirli yükleri taşıma ve bunun karşılığında kazanç sağlama hakkını tanıyan bir belgedir. Kaynaklarda bu belgelerin Imperial otoritelerce verildiği anlatılır; hangi makamın bu yetkiye sahip olduğu ise tek bir kurala bağlanmaz ve arşiv bunu kesinleştirmez. Charter'lar da tıpkı gemiler gibi çoğu zaman kuşaktan kuşağa geçer; böylece bir kaptanlık aile işletmesine, kimi durumlarda da küçük bir hanedanın servetinin kaynağına dönüşür.
 

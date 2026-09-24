@@ -9,5 +9,3 @@ Leman Russ, buzul ölüm dünyası Fenris'e düştü ve efsaneye göre bir dişi
 İmparator onu VI. Lejyon Space Wolves'ın başına geçirdi ve Russ, İmparator'un en sadık ama en az anlaşılan oğlu oldu; kaba, içkici ve vahşi görünüşünün altında derin bir onur, stratejik zekâ ve sadakat yatıyordu. Diğer Primarch'lar onu İmparator'un "infazcısı" ya da "cellat-köpeği" olarak görürdü, çünkü en kirli, en gözden çıkarılan görevler ona verilirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/ca/LemanRussNovel.jpg)

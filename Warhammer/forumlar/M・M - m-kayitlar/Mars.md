@@ -10,8 +10,6 @@ Mars'ın coğrafyası bile kutsal bir haritaya dönüşmüştür. Fabricator Gen
 
 Mars'ın Imperium içindeki konumu benzersizdir. Terra'ya coğrafi olarak bu kadar yakın olup Terra'dan bu kadar farklı yönetilen başka bir dünya yoktur. Mechanicus'un kurum ve inanç bütünü <#1551753449878724689>, Heresy'de ayrılan kol ise <#1551650329156788287> kanalında ele alınır; bu madde gezegenin kendisini, siyasi tarihini ve sırlarını merkeze alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/37/Mars_Red_Planet2.jpg/revision/latest/scale-to-width-down/1000?cb=20150420203301)
-
 ## Age of Strife ve Treaty of Olympus
 Dark Age of Technology'nin sonunda gelen çöküşle birlikte Mars, Terra gibi uzun bir karanlığa gömüldü. Bu çağda Martian toplumu, hayatta kalan teknolojiyi kutsallaştıran Cult of Mars etrafında örgütlendi; kayıtlar iç savaşlardan ve bilginin kaybından söz etse de ayrıntılar yayımlanmış kanonda büyük ölçüde açıklanmamıştır.
 

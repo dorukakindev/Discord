@@ -12,8 +12,6 @@ Kaynakların verdiği tablo ise kısadır. Ichar IV'ü anlatan yayınlar genelli
 
 **Kanal sınırı.** Kraken'in bütün seferi ve öteki cepheleri <#1551809334483361823> ile <#1551815033518948404>, Calgar'ın kişisel yolu marneus-calgar, Iyanden'in felaketi ise iyanden kanalındadır. Burada merkezde Ichar IV'ün kendisi durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Kraken_Tyranid_Warrior.jpg/revision/latest?cb=20200708133604)
-
 ## Arka Plan: Kraken ve Dağınık Bir Cephe
 Behemoth'un Macragge önlerinde parçalanmasının üzerinden iki yüzyılı aşkın bir süre geçmişti. Imperium, Tyranid tehdidini artık tanıyordu; ama bir sonraki dalganın nasıl geleceğini bilmiyordu. M41'in son on yıllarında Eastern Fringe'den gelen Hive Fleet Kraken bu sorunun cevabını acı biçimde verdi.
 

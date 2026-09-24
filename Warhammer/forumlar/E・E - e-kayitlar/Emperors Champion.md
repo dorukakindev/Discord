@@ -10,8 +10,6 @@ Champion'ın rolü hem askerî hem dinseldir. Savaş alanındaki görevi, bir ç
 
 Bu kanal makamı bir gelenek ve bir görev olarak ele alır: kökenini, seçiliş biçimini, emanetlerini ve anlamını. Bu geleneği doğuran Chapter <#1551637696466788466>, makamın ilk sahibi ve kaynağı sayılan figür sigismund, geleneğin köklendiği kuşatma ise <#1551809039342501970> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d2/Emperor%27s_Champion.jpg/revision/latest?cb=20140304073003)
-
 ## Kökeni: Sigismund ve Siege of Terra
 Emperor's Champion geleneğinin kaynağı, Horus Heresy'nin doruğundaki Terra kuşatmasına ve Imperial Fists'in First Captain'ı Sigismund'a dayanır. Kuşatmanın en tehlikeli cephelerinde dövüşen Sigismund, Emperor'ın adına düşmanın en güçlü önderlerine meydan okuyan savaşçı olarak öne çıktı; Black Templars'ın gözünde ilk Emperor's Champion odur. Bu makamın ona tam olarak nasıl verildiği farklı eserlerde aynı ayrıntıyla anlatılmaz, ama anlamı bellidir: Emperor'ın seçtiği kılıç olmak.
 

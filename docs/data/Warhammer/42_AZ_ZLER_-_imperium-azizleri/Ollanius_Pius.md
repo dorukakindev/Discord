@@ -8,5 +8,3 @@ Ollanius Pius, İmparatorluk İnancı'nın belki de en sevilen ve en çok anlat�
 Sıradan bir ölümlü olmasına rağmen, galaksinin en güçlü ve en lanetli varlığı haline gelmiş hain Horus'a meydan okudu; "Horus'un İmparator'a dokunmasına izin vermeyeceğini" haykırdı ve elindeki lazer tüfeğini o canavarca varlığın göğsüne boşalttı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/87/Ollanius_Pius.jpg)

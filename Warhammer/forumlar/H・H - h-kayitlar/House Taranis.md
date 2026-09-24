@@ -10,8 +10,6 @@ Taranis'in tarihi aynı zamanda bir yıkımın tarihidir. Horus Heresy'nin baş�
 
 Bu kanal Hanenin kendisini, Mars'la bağını ve Heresy'deki yıkımını ele alır. Schism'in bütünü mechanicum-30k ve <#1551650329156788287>, Mars'ın genel tarihi <#1551816635839549491>, Knight Hanelerinin ortak kültürü ise <#1551753465900961795> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revision/latest?cb=20140312041617)
-
 ## Mars'ın Şövalyeleri: Köken ve Bağlılık
 Knight Hanelerinin çoğu, Dark Age of Technology'de sınır kolonilerine verilen savaş yürüteçlerinin mirasçısıdır; Age of Strife'ın yalnızlığında feodal birer düzene dönüşen bu dünyalar, ancak Great Crusade'de Imperium ve Mechanicum'la yeniden karşılaşmıştır. Taranis'in hikâyesi bu örüntüden ayrılır. Kaynaklar Hanenin Mars'ta kurulduğunu ve öteki Haneleri yüzyıllarca öncelediğini aktarır; ancak kuruluşun tam olarak ne zaman, kimler tarafından ve hangi amaçla gerçekleştiği yayımlanmış kanonda ayrıntılı biçimde işlenmez.
 

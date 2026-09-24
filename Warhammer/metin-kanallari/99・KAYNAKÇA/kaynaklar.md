@@ -18,8 +18,6 @@ Arşiv, bir iddiayı doğrularken şu sırayı esas alır:
 
 Bu sıra mutlak bir rütbe cetveli değildir. Bir roman, Codex'in iki cümleyle geçtiği bir olayı yüzlerce sayfa boyunca işleyebilir; ancak iki kaynak doğrudan çeliştiğinde arşiv bunu gizlemez, "kaynaklar bu konuda aynı anlatımı sunmaz" diyerek iki anlatımı da kaydeder.
 
----
-
 ## Core Book ve Codex'ler
 
 **Core Book**, her edition'ın başında galaksinin o anki hâlini tanımlar. 8th Edition ile birlikte anlatının Great Rift sonrasına taşınması, 10th Edition'da Hive Fleet Leviathan'ın saldırısının öne çıkması gibi büyük çerçeve değişimleri önce burada görünür. Arşiv, "güncel durum" başlıklarında Core Book'un çizdiği çerçeveyi temel alır ve eski edition'ların güncel sayılmayan anlatımlarını ayrıca işaretler.
@@ -32,8 +30,6 @@ Bu sıra mutlak bir rütbe cetveli değildir. Bir roman, Codex'in iki cümleyle 
 
 **Kural metni lore değildir.** Datasheet, puan, stat ve detachment kuralları arşive girmez; tabletop'taki bir profil, evren-içi gücün ölçüsü olarak okunmaz.
 
----
-
 ## Campaign Kitapları ve Forge World Materyali
 
 **Campaign ve anlatı kitapları**, galaksinin hikâyesini ileri taşıyan asıl araçlardır. 7th Edition'ın sonunda başlayan *Gathering Storm* üçlemesi (*Fall of Cadia*, *Fracture of Biel-Tan*, *Rise of the Primarch*) Cadia'nın düşüşünü, Ynnari'nin yükselişini ve Roboute Guilliman'ın dönüşünü kayda geçirdi. 8th Edition'da *Vigilus Defiant* ve *Vigilus Ablaze* Vigilus savaşını, *Psychic Awakening* dizisi ise galaksinin farklı köşelerindeki gelişmeleri işledi. 9th Edition'da *War Zone Charadon* ve *Arks of Omen* dizisi, 10th Edition döneminde ise Pariah Nexus anlatısı bu geleneği sürdürdü.
@@ -43,8 +39,6 @@ Bu kitaplar çoğu zaman "şimdi" yazıldığı için arşivin güncel durum ba�
 **Forge World / Horus Heresy materyali**, 30K dönemine ait en ayrıntılı askerî kaynaktır. *Horus Heresy Book One: Betrayal* ile başlayan campaign kitapları, Legion'ların örgütlenmesini, savaş düzenlerini ve Heresy savaşlarını belgeledi; 2022'de yenilenen *The Horus Heresy: Age of Darkness* dönemindeki *Liber* kitapları da Legion kimliklerini derledi. Bu kitapların önemli bir kısmı da evren-içi tarihçilerin, çoğu zaman eksik ve çelişkili kayıtlarına dayanır gibi yazılmıştır.
 
 Forge World anlatımı ile Black Library romanları arasında ayrıntı farkı bulunduğunda arşiv ikisini de aktarır; birini diğerinin "doğrusu" ilan etmez.
-
----
 
 ## Black Library, White Dwarf ve Dijital Materyal
 
@@ -57,8 +51,6 @@ Black Library eserleri kaynak satırında *Eser — Yazar* biçiminde gösterili
 **White Dwarf:** Resmî lore makaleleri, kısa öyküler ve faction tanıtımları kaynak olarak kullanılabilir; kural önizlemeleri ve hobi içerikleri lore kaynağı sayılmaz.
 
 **Warhammer Community ve Warhammer+:** Yayın tarihleri, duyurular ve resmî açıklamalar için başvurulur. Pazarlama metni, fragman dili ve "en güçlü" türünden satış ifadeleri kanon hükmü ya da güç ölçüsü olarak kullanılmaz.
-
----
 
 ## Kullanılmayan Kaynaklar ve Atıf Kuralları
 
@@ -79,11 +71,7 @@ Kaynaklarla ilgili düzeltme ve itirazlar, gerekçesi ve resmî dayanağıyla bi
 **Kaynaklar:** *Warhammer 40,000 Core Book — 10th Edition*; *Horus Heresy Book One: Betrayal*; *Horus Rising — Dan Abnett*; *Codex: Necrons — 10th Edition*
 **Çapraz:** <#1551587905703649300>, <#1551587907918106624>, <#1551587903191388183>, <#1551587898892222517>, <#1551587901278650491>
 
----
-
 ——— `black-library-okuma-listesi` kanalından taşındı ———
-
----
 
 -# THE IMPERIAL ARCHIVE
 # Black Library Okuma Listesi
@@ -109,8 +97,6 @@ Evrene ilk kez adım atan okur için, farklı köşeleri tanıtan ve ön bilgi g
 - *Brutal Kunnin' — Mike Brooks*: Orkların dünyası, Orkların gözünden.
 - *Dark Imperium — Guy Haley*: Guilliman'ın dönüşü ve Great Rift sonrası Imperium.
 
----
-
 ## Rota 2: Horus Heresy — Temel Taşlar
 
 Horus Heresy dizisi, 2006'da *Horus Rising* ile başlayıp 2019'da elli dört kitaba ulaşan ve ardından Siege of Terra dizisiyle tamamlanan büyük anlatıdır. Her kitabı okumak gerekmez; aşağıdaki çekirdek, ihanetin nasıl filizlendiğini ve galaksiyi nasıl ikiye böldüğünü izlemeye yeter.
@@ -129,8 +115,6 @@ Horus Heresy dizisi, 2006'da *Horus Rising* ile başlayıp 2019'da elli dört ki
 - *Know No Fear — Dan Abnett*: Calth'taki ihanet ve Ultramarines.
 
 Bu kitaplardan *A Thousand Sons* ile *Prospero Burns* bilerek birbirine karşı okunmak üzere yazılmıştır; aynı olaylar hakkında farklı yargılara varmaları, dizinin bilinçli bir tercihidir ve arşiv de Prospero'yu tek bir tarafın anlatımına indirgemez.
-
----
 
 ## Rota 2 (devam): Heresy'nin Derinleri ve Siege of Terra
 
@@ -157,8 +141,6 @@ Bu kitaplardan *A Thousand Sons* ile *Prospero Burns* bilerek birbirine karşı 
 
 Siege of Terra dizisinde ana romanların yanı sıra novella'lar da yayımlanmıştır; bunlar ek bakış açıları sunar ama ana çizgiyi izlemek için zorunlu değildir.
 
----
-
 ## Rota 3: Imperium'un İçinden
 
 Imperium'u yalnızca Space Marine zaferleriyle değil; soruşturmacıları, askerleri, rahipleri ve memurlarıyla tanımak isteyen okur için:
@@ -180,8 +162,6 @@ Imperium'u yalnızca Space Marine zaferleriyle değil; soruşturmacıları, aske
 
 Bu rota, Imperium'un devasa ve çoğu zaman kendi içinde çelişen doğasını göstermek için seçilmiştir. Eisenhorn ve Ravenor'da özellikle Inquisition'ın farklı felsefeleri arasındaki gerilim, arşivin <#1551815304252887041> maddesini tamamlayan bir okuma sunar.
 
----
-
 ## Rota 4: Chaos ve Heretic Astartes
 
 Chaos'u yalnızca bir düşman olarak değil, kendi mantığı, iç çekişmeleri ve trajedisiyle görmek isteyen okur için:
@@ -201,8 +181,6 @@ Chaos'u yalnızca bir düşman olarak değil, kendi mantığı, iç çekişmeler
 
 Bu eserlerde anlatıcı sesi çoğu zaman bir Heretic Astartes'e aittir. Onların Imperium'a, Emperor'a ya da birbirlerine dair yargıları karakter bakışı olarak okunmalıdır; arşivin <#1551812225570836561> ve <#1551816158951510069> maddeleri, bu bakışı ansiklopedik çerçeveye yerleştirir.
 
----
-
 ## Rota 5: Aeldari ve Necrons
 
 **Aeldari**
@@ -217,8 +195,6 @@ Bu eserlerde anlatıcı sesi çoğu zaman bir Heretic Astartes'e aittir. Onları
 - *The Twice-Dead King: Ruin* ve *The Twice-Dead King: Reign* — Nate Crowley: Uyanışın ardından çöküşle yüz yüze gelen bir Necron soylusunun gözünden dynasty siyaseti.
 
 Necron romanları, 5th Edition'dan sonra yeniden yazılan Necron anlatısını, yani kişiliklerini koruyan soylular ve bilinçsiz askerler arasındaki uçurumu anlamak için en iyi girişlerdir. Aeldari rotasında ise anlatıcıların kendi mitlerini gerçek tarih gibi aktarabileceği unutulmamalıdır.
-
----
 
 ## Rota 6: Orks, T'au, Tyranids ve Genestealer Cults, Votann
 
@@ -236,8 +212,6 @@ Necron romanları, 5th Edition'dan sonra yeniden yazılan Necron anlatısını, 
 
 **Leagues of Votann**
 Votann için resmî roman materyali sınırlıdır. İlk Votann romanı olarak duyurulan *The High Kâhl's Oath — Gav Thorpe* (2025) bu alandaki başlıca Black Library eseridir; lore'un omurgası hâlâ *Codex: Leagues of Votann*'dır. Votann kökenleri hakkında birçok soru kasıtlı olarak açık bırakılmıştır ve arşiv bu boşlukları romanlardan hareketle kesinleştirmez.
-
----
 
 ## Rota 7: Karakter Odaklı Okumalar
 
@@ -260,8 +234,6 @@ Primarchs dizisi Great Crusade dönemindeki belirli anları işler; bir Primarch
 - *The Magos — Dan Abnett*: Eisenhorn'un geç dönem vakaları.
 
 Karakter romanlarında anlatının sempatisi çoğu zaman merkezdeki figüre yönelir. Bir Primarch'ın ya da Chaos lordunun kendini haklı çıkaran iç sesi, arşivde nesnel yargı olarak yer almaz; ilgili karakter maddeleri bu romanları evren-içi bakış olarak işaretleyerek kullanır.
-
----
 
 ## Rota 8: Era Indomitus
 
@@ -289,15 +261,9 @@ Dawn of Fire, Indomitus Crusade'in farklı cephelerini farklı yazarların göz�
 **Kaynaklar:** *Horus Rising — Dan Abnett*; *The Master of Mankind — Aaron Dembski-Bowden*; *The End and the Death: Volume I — Dan Abnett*; *Dark Imperium — Guy Haley*; *The Infinite and the Divine — Robert Rath*; *Avenging Son — Guy Haley*
 **Çapraz:** <#1551814951365115956>, <#1551815418619101185>, <#1551815304252887041>, <#1551812225570836561>, <#1551759762193121282>, <#1551587907918106624>, <#1551587905703649300>
 
----
-
 ​
 
----
-
 ——— `surum-ve-revizyon-notlari` kanalından taşındı ———
-
----
 
 -# THE IMPERIAL ARCHIVE
 # Sürüm ve Revizyon Notları
@@ -316,8 +282,6 @@ Bu kanal iki ayrı kaydı bir arada tutar: Warhammer 40,000'in gerçek dünya ya
 
 **4th Edition (2004):** *Battle for Macragge* kutusuyla Ultramarines ile Tyranids'i merkeze aldı. Anlatı hâlâ M41'in sonunda, 999.M41 civarında donmuş hâldeydi; galaksinin "şimdi"si yıllarca ileri gitmedi.
 
----
-
 ## Edition Tarihçesi (II): 5th Edition'dan 11th Edition'a
 
 **5th Edition (2008):** *Assault on Black Reach* kutusuyla Space Marines ve Orkları öne çıkardı. Bu dönemin en köklü lore değişikliklerinden biri 2011'deki Necron yeniden yazımıdır.
@@ -334,8 +298,6 @@ Bu kanal iki ayrı kaydı bir arada tutar: Warhammer 40,000'in gerçek dünya ya
 
 **11th Edition (2026):** *Warhammer 40,000: Armageddon* başlangıç kutusu ve *Operation Imperator* lore kitapçığıyla geldi. Resmî anlatı, Ghazghkull Thraka'nın Armageddon'a dönüşünün ardından büyüyen Ork dalgasına karşı Space Marine'lerin Operation Imperator'ı başlatmasını konu alır. Yeni edition anlatısı gelişmektedir.
 
----
-
 ## Büyük Retconlar ve Yeniden Çerçevelemeler (I)
 
 **Squats'tan Leagues of Votann'a:** Rogue Trader ve 2nd Edition döneminde yer alan Squats, sonraki edition'larda aktif ürün ve anlatıdan çekildi. 2022'de tanıtılan Leagues of Votann, galaksinin çekirdeğine yakın bölgelerde yaşayan, kökleri Dark Age of Technology'ye uzanan insan soyundan gelme bir tür olarak sunuldu. Votann, bazı açılardan Squat mirasını hatırlatsa da Games Workshop onları yeni bir anlatıyla tanıttı; arşiv ikisini bire bir aynı faction olarak ele almaz.
@@ -345,8 +307,6 @@ Bu kanal iki ayrı kaydı bir arada tutar: Warhammer 40,000'in gerçek dünya ya
 **Necron yeniden yazımı (2011):** Önceki anlatımda Necron'lar, C'tan'a hizmet eden ruhsuz makineler olarak öne çıkıyordu. 5th Edition'daki *Codex: Necrons* ile Necron'lar, kişiliğini koruyan soyluları, dynasty yapısı ve Silent King Szarekh ile bir uygarlık olarak yeniden çerçevelendi; C'tan ise War in Heaven'ın sonunda parçalara ayrılmış güçler olarak konumlandı.
 
 **Primaris Space Marine'ler (2017):** Belisarius Cawl'un Ultima Founding'i ile tanıtılan Primaris, Adeptus Astartes anlatısına yeni bir kuşak ekledi. Kökeninin Guilliman'ın dönüşünden çok önceye uzanan gizli bir projeye dayandırılması, sonraki romanlarda ayrıntılandırıldı.
-
----
 
 ## Büyük Retconlar ve İsim Değişiklikleri (II)
 
@@ -361,8 +321,6 @@ Bu kanal iki ayrı kaydı bir arada tutar: Warhammer 40,000'in gerçek dünya ya
 **Anlatının ileri taşınması:** 8th Edition öncesinde galaksinin "şimdi"si 999.M41 civarında sabitti. Gathering Storm ile başlayan süreç, Cadia'nın düşüşünü, Great Rift'i ve Era Indomitus'u kalıcı kanona yerleştirdi. Bu nedenle 7th Edition ve öncesine ait "güncel durum" anlatımları, arşivde tarihsel bir katman olarak ele alınır.
 
 **Dikkat:** Her değişiklik bir retcon değildir. Yeni bir yayın eski anlatıyı açıkça geçersiz kılmıyorsa arşiv "retconlandı" demez; "sonraki yayınlar farklı çerçeveler" ifadesini kullanır.
-
----
 
 ## Arşiv Revizyon Günlüğü
 
@@ -394,7 +352,5 @@ The Imperial Archive'daki her kalıcı değişiklik bu kanala aşağıdaki şabl
 
 **Kaynaklar:** *Warhammer 40,000 Core Book — 10th Edition*; *Codex: Necrons*; *Codex: Leagues of Votann*; *Codex: T'au Empire*; *Codex: Astra Militarum*
 **Çapraz:** <#1551587905703649300>, <#1551587903191388183>, <#1551759789988642876>, <#1551759762193121282>, <#1551814400938082357>, <#1551814951365115956>, <#1551753444308811807>
-
----
 
 ​

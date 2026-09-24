@@ -24,6 +24,4 @@ Vashtorr'un doğası ve Dark Mechanicus ile ilişkisi henüz bütünüyle açık
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Mechanicum — Graham McNeill*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/08/Chaos_beasts_break_marine%27s_line.jpg/revision/latest?cb=20130418211338)
-
 -# İlişkili kayıtlar: <#1551650329156788287>, <#1551812225570836561>, <#1551637652569067542>, <#1551809619544899625>

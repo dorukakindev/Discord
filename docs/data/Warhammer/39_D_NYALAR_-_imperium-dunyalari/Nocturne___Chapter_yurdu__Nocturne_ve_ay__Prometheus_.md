@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Nocturne.png/revision/latest?cb=20131018051339
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Nocturne — Chapter yurdu (Nocturne ve ayı Prometheus)
 

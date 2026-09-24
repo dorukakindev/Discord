@@ -22,5 +22,3 @@ Güç üreteci kalkanın içindedir; enerji alanı etkin olduğunda sıradan bir
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551818213782716427>, <#1551809133156634696>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Warrior_Inquisitor.jpg/revision/latest?cb=20110404052712)

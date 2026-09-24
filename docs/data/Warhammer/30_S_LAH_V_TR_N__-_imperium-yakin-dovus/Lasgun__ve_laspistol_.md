@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fa/StandardLasgun.jpg/revision/latest?cb=20151113200208
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Lasgun (ve laspistol)
 

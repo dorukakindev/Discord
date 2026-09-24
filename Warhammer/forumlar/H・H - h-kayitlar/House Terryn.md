@@ -10,8 +10,6 @@ Terryn'in öne çıkmasının bir nedeni de yayın tarihidir. Games Workshop'un 
 
 Bu kanal Hanenin kendisini ele alır: yurdu, bağlılığı, ahlakı ve bilinen savaşları. Knight Hanelerinin genel kültürü ve Questor Imperialis ile Questor Mechanicus ayrımı <#1551753465900961795>, Hanenin kullandığı suit aileleri ise <#1551818501625483265> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Terryn_Icon.jpg/revision/latest?cb=20140312043422)
-
 ## Voltoris ve Imperialis Yemini
 Terryn'in yurdu Voltoris, öteki Knight World'ler gibi kökenini Dark Age of Technology'nin sınır kolonilerine dayandıran feodal bir dünyadır. Age of Strife'ın uzun yalnızlığında bu tür dünyalarda Knight suit'lerini yöneten aileler önce halkın koruyucusu, sonra hükümdarı hâline gelmiş; makineleri ayakta tutan bilgi kutsal bir mirasa, pilotluk ise soyluluğun kendisine dönüşmüştü. Voltoris'in bu çağdaki tarihine dair ayrıntılar yayımlanmış kanonda işlenmez; bilinen, Hanenin Great Crusade döneminde Imperium'la yeniden bağ kurduğudur.
 

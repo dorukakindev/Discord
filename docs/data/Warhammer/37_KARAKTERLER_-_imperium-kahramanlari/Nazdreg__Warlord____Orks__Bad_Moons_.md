@@ -19,5 +19,3 @@ Nazdreg, Warhammer 40,000'in ilk edition'larından beri Bad Moons'un simge Warlo
 -# Kaynaklar: *Arks of Omen: Farsight*; *Codex: Orks*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814127541026827>, <#1551810874635976776>
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/1/10/Conquestart-nazdreg.jpg/250px-Conquestart-nazdreg.jpg)

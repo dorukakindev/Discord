@@ -19,5 +19,3 @@ Toplanan psykerler Terra'da sınanır; bir bölümü eğitilip astropath, primar
 -# Kaynaklar: *Codex: Imperial Agents*; *Warhammer 40,000 Core Book — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551810610264678443>, <#1551818131679215728>, <#1551743688680669286>, <#1551652847697797191>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/32/Inquisitorial_Black_Ship.jpg/revision/latest?cb=20130418001957)

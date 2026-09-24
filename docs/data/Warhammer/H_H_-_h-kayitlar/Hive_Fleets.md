@@ -12,8 +12,6 @@ Hive Fleet'lerin ayırt edici "karakterleri" de bu gözlem çerçevesinde okunma
 
 Bu kanal filoların yapısını, sınıflandırılmasını ve bilinen başlıca filoları ele alır. Savaşların seyri tyrannic-wars, türün biyolojisi <#1551759780211589197> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Tyranid_Ancient_One.jpg/revision/latest/scale-to-width-down/1000?cb=20240406000430)
-
 ## Bir Filonun Anatomisi
 Bir Hive Fleet'in omurgasını **hive ship**'ler oluşturur. Bu dev biyogemiler, üreme odacıklarında sayısız küçük organizmayı büyüten, sindirim havuzlarında hammadde işleyen ve uzayın boşluğunda kendi savaşını verebilen canlılardır. Kaynaklar onları bir tersane, bir kışla ve bir mide olarak aynı anda tarif eder.
 

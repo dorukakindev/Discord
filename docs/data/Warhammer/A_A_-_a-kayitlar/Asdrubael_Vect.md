@@ -13,8 +13,6 @@ Kişiliği kaynaklarda soğuk bir sabır, kusursuz bir oyunculuk ve kimseyi ger�
 
 **Kanal sınırı.** Drukhari toplumunun bütünü <#1551813105166712966>, şehrin kendisi commorragh kanalında işlenir. Burada merkezde Vect'in kişiliği, yükselişi ve hükümranlığı durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/31/Dark_Eldar_Lord.jpg/revision/latest/scale-to-width-down/694?cb=20111108172617)
-
 ## Köleden Supreme Overlord'a
 
 Fall sonrası Commorragh'ı eski soylu hanedanlar yönetiyordu. Bu hanedanlar gücü soydan alan, kendi aralarında yüzyıllarca süren kan davalarıyla meşgul, fakat şehrin alt katmanlarında biriken hırsı görmeyen bir aristokrasiydi. Vect'in yükselişi tam da bu körlükten yararlandı.

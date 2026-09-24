@@ -10,8 +10,6 @@ Onu besleyen duygu, en masum biçimiyle bile tehlikelidir. Zincirlerinden kurtul
 
 Bu kanal, <#1551812165172994160> maddesindeki özeti tanrının kendi perspektifinden derinleştirir: doğası, diyarı, daemon'ları, ölümlü hizmetkârları ve insanlık tarihindeki izi. Thousand Sons'ın Legion tarihi <#1551809231580307517>, Primarch'ın kişisel hikâyesi <#1551816657691746335>, Warp'ın genel doğası ise <#1551809666454134928> kanalında ayrıca işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8b/TzeentchMark.png/revision/latest?cb=20170908232309)
-
 **Gözlem ile yorum.** Imperial Creed Tzeentch'e tanrı sıfatı tanımaz ve onu Ruinous Powers'ın aldatıcı bir yüzü olarak anar; müritleri ise onu bilgeliğin ve ilerlemenin kaynağı sayar. Ansiklopedi iki bakışı da evren-içi yorum olarak kaydeder. Gözlenen olgu, Tzeentch'in gerçek, bilinçli ve maddi evrene uzanabilen bir güç olduğu ve etkisinin çoğu zaman yalanla değil, gerçek bir umutla başladığıdır.
 
 ## Doğası: Plan İçinde Plan

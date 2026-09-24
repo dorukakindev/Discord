@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Armageddon-_Warhammer_40%2C000_New_Edition_Cinematic_Trailer/revision/latest?cb=20260326135225
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Mozrog Skragbad (Beastboss) — Orks (Beast Snagga)
 

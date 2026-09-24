@@ -10,8 +10,6 @@ Colchis'in önemi, burada doğan fikirlerin galaksiye yayılmış olmasından ge
 
 Bu kanal Colchis'i bir dünya ve bir inanç geleneği olarak ele alır. Lorgar'ın kişisel hikâyesi <#1551816346268999763>, Legion'un tarihi <#1551638953101365340>, ruhban düzeni dark-apostles kanalında işlenir. Yayımlanmış kanon Colchis'in coğrafyası, nüfusu ve Heresy sonrası akıbeti hakkında sınırlı bilgi verir; arşiv bu boşlukları tahminle doldurmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1e/Colchis.png/revision/latest?cb=20131117182652)
-
 ## Covenant'ın Dünyası
 Kaynaklarda Colchis çoğunlukla kurak, sert ve güneşin kavurduğu bir dünya olarak betimlenir; ama onu anlatan yayınların asıl ilgisi coğrafyasından çok toplumundadır. Gezegeni **Covenant** adıyla bilinen bir rahip sınıfı yönetiyordu. Siyasi otorite ile dinî otorite burada birbirinden ayrılmaz; yasa, ayin ve günlük yaşam aynı kutsal düzenin parçalarıydı. Halkın büyük bölümü bu hiyerarşinin en altında, kitlesel ibadetin ve rahiplere itaatin belirlediği bir hayat sürüyordu.
 

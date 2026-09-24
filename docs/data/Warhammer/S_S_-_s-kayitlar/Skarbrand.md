@@ -10,8 +10,6 @@ Skarbrand'ın hikâyesi, Khorne'un doğasına dair tuhaf bir gerçeği açığa 
 
 Bu kanal Skarbrand'ı bir birey olarak ele alır. Kan Tanrısı'nın doğası <#1551815867845578773>, daemon'ların genel ontolojisi <#1551654107058540595>, Tzeentch'in entrikacı doğası ise <#1551647728692633643> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Skarbrand_Exiled_One_Mini.jpg/revision/latest?cb=20180126054613)
-
 ## Yükseliş
 Sürgünden önceki Skarbrand, Codex anlatılarında Bloodthirster'ların önde gelenlerinden biri, Khorne'un ordularının başında sayısız savaşa girmiş ve tanrısının özel lütfuna mazhar olmuş bir komutan olarak anılır. Bu döneme ait ayrıntılı savaşlar ya da adları, yayımlanmış kanonda sınırlı biçimde yer alır; bu arşiv onları doldurmaz. Belirleyici olan, Skarbrand'ın ne kadar yükseğe çıktığıdır, çünkü düşüşünün derinliği bu yükseklikle ölçülür.
 ---MSG---

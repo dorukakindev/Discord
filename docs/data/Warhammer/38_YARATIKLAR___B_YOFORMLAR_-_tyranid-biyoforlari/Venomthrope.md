@@ -9,5 +9,3 @@ Venomthrope, Tyranid sürüsü için yaşayan bir kimyasal silah dağıtıcısı
 Venomthrope'un kamçı-benzeri dokunaçları, sayısız yabancı zehirle damlar; bu toksinler o kadar güçlüdür ki, bir Venomthrope'un yalnızca dokunuşunun bile kesin ölüm anlamına geldiğine inanılır. Ona yaklaşan herhangi bir düşman, daha o dokunmadan, çevresindeki zehirli atmosferden zarar görmeye başlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/07/40k-147-venomthrope.jpg)

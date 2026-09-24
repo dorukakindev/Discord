@@ -9,5 +9,3 @@ Drach'nyen, galaksinin en kadim ve en korkunç silahlarından biridir; Abaddon t
 Abaddon, bu silahı kolayca elde etmedi; onu Halkaların Gözü'nün (Eye of Terror) derinliklerindeki bir labirentin içinde, yıllar süren bir mücadeleyle aradı ve sonunda ele geçirdi. Drach'nyen sıradan bir kılıç değildir; düşünen, kötücül ve canlı bir varlıktır, içinde sayısız iblis barındırır ve taşıyıcısının iradesine sürekli meydan okur. Onu kullanmak, bir kâbusu zapt etmek gibidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/60/Daemon_Sword_Drach%27nyen.png)

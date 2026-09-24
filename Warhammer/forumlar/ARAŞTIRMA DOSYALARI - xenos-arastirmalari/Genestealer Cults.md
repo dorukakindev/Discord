@@ -29,8 +29,6 @@ Genestealer'lar uzun dillerindeki sivri uçlu bir **ovipositor** ile sentient an
 
 **Twisted Helix** adlı Cult, bu tohumu yiyecek ve ilaçlardan çıkarmayı keşfetmiş — bu sayede uzaktaki yerler bile Genestealer lanetinden etkilenebilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/1st-gen.jpg/revision/latest?cb=20160523003800)
-
 Tohum, saatler içinde konağın bedeninde fiziksel ve psikolojik değişikliklere yol açar; konağı tüm enfeksiyonu unutturur ve Purestrain'in sürüsüne bağımlı kılar. Konak aynı zamanda çocuk sahibi olmaya itilir (önceden istemese bile); partnere de enfeksiyon cinsel ilişki yoluyla bulaşır.
 
 Doğumdan sonra ilk yavru, kendisi, ebeveynleri ve Genestealer'lar arasında bir **Hive Mind bağlantısı** oluşturur. Bu bağlantı, ebeveynlerin zihinlerini subliminal olarak bükerek çocuklarını koşulsuz sevmelerini ve Genestealer'ları ya tanrı ya da tanrıların gönderdiği yaratıklar olarak tapmalarını sağlar. Genellikle keşiften kaçınmak için karanlık tünellere, katakomplere veya lağım kanallarına sığınırlar.

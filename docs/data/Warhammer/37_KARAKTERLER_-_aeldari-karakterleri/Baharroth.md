@@ -11,5 +11,3 @@ Baharroth, "Rüzgârın Çığlığı" (the Cry of the Wind) olarak anılan, Swo
 Baharroth, Asur Tapınağı'nda ilk Phoenix Lord Asurmen'in altında eğitim gördü ve onun öğretilerinden doğan ilk kuşağın bir parçasıdır. Phoenix Lord'ların en canlısı ve en genç ruhlusu olarak betimlenir; kanatlarına vuran güneş ışığının ve göğün özgürlüğünün hazzını yaşar. Bu neşeli kişilik, onu daha kasvetli kardeşlerinden ayırır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/ca/Bah6.jpg)

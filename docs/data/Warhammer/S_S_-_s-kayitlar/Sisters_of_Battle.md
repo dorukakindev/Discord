@@ -13,8 +13,6 @@ Tarikatın çekirdeği Age of Apostasy'den önce San Leor dünyasında **Daughte
 
 Bu nedenle aynı kadınlardan söz eden bir kayıtta dönemine göre üç farklı ad görmek mümkündür; bunlar ayrı örgütler değil, tek bir tarikatın tarih içindeki aşamalarıdır. Kuruluşun ayrıntılı hikâyesi <#1551753444308811807> kanalında anlatılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Adeptus_Sororitas_Icon.jpg/revision/latest?cb=20110820063406)
-
 ## Kısa Terim Sözlüğü
 - **Orders Militant Majoris:** Age of Apostasy'den sonra kurulan ilk altı büyük savaşçı Order; Ebon Chalice, Our Martyred Lady, Valorous Heart, Sacred Rose, Bloody Rose ve Argent Shroud.
 - **Orders Militant Minoris:** Büyük Order'lardan türeyen ya da onlara bağlı daha küçük savaşçı tarikatlar; sayıları kaynaklarda kesinleştirilmez.

@@ -11,8 +11,6 @@ Enslaver'lar dört Chaos God'un daemon'larından ayrı bir tehdit olarak anlatı
 ## İşleyiş
 Bir Enslaver'ın maddi âleme geçişi, bir psyker'ın zihni aracılığıyla gerçekleşir. Eski anlatımlara göre psyker bir kez geçide dönüştüğünde Enslaver karşısındakilerin iradesini ele geçirebilir, köleleştirdiği zihinleri kendi amaçları için kullanabilir ve yeni kurbanlar aracılığıyla etkisini yayabilir. Böyle bir salgın kontrol altına alınmazsa bir topluluğun, hatta bir dünyanın halkının kendi iradesi olmayan bir sürüye dönüşebileceği anlatılır. Enslaver'ların amacı, düşünüp düşünmedikleri ya da yalnızca bir içgüdüyle mi hareket ettikleri kanonda ayrıntılandırılmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Enslaver_sketch.jpg/revision/latest?cb=20100627221027)
-
 ## Enslaver Plague
 Enslaver'ların en çok bilinen yeri, War in Heaven'ın sonlarına yerleştirilen **Enslaver Plague**'dir. Kaynaklar, Old Ones'un Necrontyr ve C'tan'a karşı savaşı kazanmak için Warp'ı giderek daha dikkatsiz biçimde kullandığını ve psişik yetenekli türleri çoğalttığını anlatır. Psyker'larla dolu bir galaksi, psyker'ları geçit olarak kullanan varlıklar için sınırsız bir av sahası demekti. Enslaver Plague bu koşullarda yayıldı ve Old Ones'un çöküşüne katkıda bulunan felaketler arasında anılır.
 

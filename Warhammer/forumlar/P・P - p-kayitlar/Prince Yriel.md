@@ -13,8 +13,6 @@ Yriel'in hikâyesinin bir bedeli vardır: Iyanden'i kurtarmak için kuşandığ�
 
 **Kanal sınırı.** Corsair toplumu **kayıt**, Iyanden'in felaketinin Tyranid tarafı **kayıt** ve **kayıt**, craftworld yaşamı **kayıt** kanalında işlenir. Burada merkezde Yriel'in kişisel yolu durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/80/Prince_Yriel_Iyanden.png/revision/latest?cb=20130726163331)
-
 ## Zafer, Sürgün ve Eldritch Raiders
 
 Yriel'in ünü, Iyanden filosunun başında kazandığı büyük bir deniz zaferiyle doğdu. Kaynakların anlatımına göre Iyanden'i tehdit eden düşman bir filoyu kovalayıp ağır bir yenilgiye uğrattı; bazı yayınlar bu çarpışmayı Flame Nebula ile ve **Eye of Night** adıyla anılan düşman amiral gemisinin yok edilişiyle ilişkilendirir. Bu ayrıntılar farklı yayınlarda aynı açıklıkla verilmediğinden arşiv onları temkinle aktarır; kesin olan, zaferin Yriel'e büyük bir şöhret kazandırdığıdır.

@@ -13,8 +13,6 @@ Kaynaklara dair önemli bir uyarı gerekir: War in Heaven'ı tanıklıkla anlata
 
 Kanal sınırı: C'tan'ın doğası <#1551812203584295003>, Necron uygarlığının bütünü <#1551759762193121282>, Old Ones'un kendisi <#1551817636516470845> kanalında işlenir; burada merkezde savaşın kendisi durur.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/bf/WIHNightScythe.png)
-
 ## Kökenler — İki Uygarlık, Tek Kıskançlık
 
 **Old Ones.** Kadim, Warp'a derinden bağlı ve kendi adları bile bilinmeyen bu uygarlık, galaksinin pek çok köşesine yaşam eken bir tür "bahçıvan" olarak tasvir edilir. Webway'i, dünyaları birbirine bağlayan bir ağ olarak onlar inşa etmiştir. Uzun ömürleri ve psişik kudretleri, onları galaksinin tartışmasız hâkimi kılıyordu.

@@ -21,6 +21,4 @@ Kör olan astropathlar dünyayı psişik bir duyuyla algılamayı öğrenir. Bir
 
 -# Kaynaklar: *The Outcast Dead — Graham McNeill*; *Codex: Astra Militarum — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3d/Imperial_Astropath2.jpg/revision/latest?cb=20130107170352)
-
 -# İlişkili kayıtlar: <#1551810610264678443>, <#1551818131679215728>, <#1551652847697797191>, <#1551814400938082357>

@@ -19,5 +19,3 @@ Horus Heresy'den önce Ullanor'da Horus ve Emperor'a karşı büyük bir yenilgi
 -# Kaynaklar: *Codex: Orks — 10th Edition*; *Brutal Kunnin' — Mike Brooks*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091013>, <#1551643990196232303>, <#1551809818250182657>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Armageddon-_Warhammer_40%2C000_New_Edition_Cinematic_Trailer/revision/latest?cb=20260326135225)

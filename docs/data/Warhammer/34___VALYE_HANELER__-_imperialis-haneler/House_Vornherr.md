@@ -11,5 +11,3 @@ House Vornherr (Vornherr Hanedanı), İmparatorluk'a bağlı (Questor Imperialis
 Calth Birleşimi'nin arifesinde, hane Grand Master Duke Bhaevenwulf'un denetimi için toplandığında, neredeyse altı yüz Knight zırhı sayılıyordu; bu, onları tüm Doğu Sınırı boyunca bilinen en büyük şövalye hanesi yapıyordu. Bir zamanlar "Luhnborg Uhlanii" ve "Kanlı Dükler" olarak anılan bu görkemli hane, gururunun zirvesindeydi. Ama bu onur bir gün bile sürmedi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/9f/HouseVornherrKnight.jpg)

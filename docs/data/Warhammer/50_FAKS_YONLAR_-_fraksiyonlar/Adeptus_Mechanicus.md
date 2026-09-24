@@ -19,5 +19,3 @@ Heresy'de Mars ikiye bölündü; Horus'un safına geçen kesim Dark Mechanicum o
 -# Kaynaklar: *Codex: Adeptus Mechanicus*; *Mechanicum — Graham McNeill*; *Priests of Mars — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551753449878724689>, <#1551816635839549491>, <#1551809095655493743>, <#1551650329156788287>, <#1551639038291611649>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723)

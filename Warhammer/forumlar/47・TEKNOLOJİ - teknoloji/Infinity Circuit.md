@@ -18,4 +18,4 @@ Spiritseer'ler tehlike anında ruhları buradan çağırıp Wraithguard ve Wrait
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Gathering Storm II: Fracture of Biel-Tan*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551588084628590646>, <#1551588087455289414>, <#1551741381813211187>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1552483346846715924>, <#1551742665756901377>, <#1551814468458258434>

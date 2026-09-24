@@ -11,5 +11,3 @@ Demir Kan (Iron Blood), Iron Warriors'ın bir Gloriana sınıfı savaş gemisi v
 Iron Warriors'ın amansız kuşatma ve yıkım doktrininin yüzen bir simgesi olarak, korkunç bir güç yoğunlaşmasını temsil ediyordu.\n\nGeminin en dikkat çekici özelliklerinden biri, tasarımına bizzat katkıda bulunan Perturabo'nun soğuk mantığını yansıtmasıdır; gemide, köprüsünde bile lomboz penceresi yoktur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5e/IronBlood.jpg)

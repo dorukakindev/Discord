@@ -11,5 +11,3 @@ Legio Vulcanum I, "Dark Fire" (Kara Ates) olarak bilinen, Imparator'a ettigi yem
 Warmaster Horus Imparator'a sirtini dondugunde, donanim dunyasinin her iki Titan lejyonunun da buyuk kismi Buyuk Hacli Seferi'nde Horus'un yaninda savasiyordu; bu yuzden hizla ona baglilik yemini ettiler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/45/WarhoundLV.jpg)

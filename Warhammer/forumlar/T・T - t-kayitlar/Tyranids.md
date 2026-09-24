@@ -12,8 +12,6 @@ Tyranid'ler tek bir ordu olarak değil, **Hive Fleet** adı verilen devasa canl�
 
 Bu kanal türü, filoları ve Tyrannic Wars'u merkeze alır. Kolektif bilincin doğası <#1551814990338723904>, istilaların önünü açan gizli kültler <#1551759784821137419> kanalında ele alınır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e9/TyranidArt9th.jpg)
-
 ## Kökenler ve Bilinmeyenler
 Tyranid'lerin nereden geldiği yayımlanmış kanonda kesin olarak açıklanmamıştır. Yerleşik anlatım, filoların galaktik düzlemin ve galaksinin sınırlarının ötesinden, galaksiler arası boşluktan geldiğidir. Hive Fleet'ler Eastern Fringe'in karanlığından, daha sonra da galaktik düzlemin altından ortaya çıkmış; her yeni dalga Imperium'a, düşmanın yalnızca tek bir yönden gelmediğini hatırlatmıştır.
 
@@ -22,8 +20,6 @@ Neden geldikleri de bilinmez. Evren içinde dolaşan açıklamalar birbirinden f
 Bazı sonraki yayınlar, Horus Heresy döneminde Sotha'da ateşlenen kadim Pharos cihazının saldığı sinyalin Tyranid'lerin dikkatini çekmiş olabileceğini ima eder. Bu bağlantı ilgili metinlerde bir olasılık ve evren içi yorum olarak sunulur; Tyranid göçünün tek nedeni gibi okunmamalıdır.
 
 Genestealer'lar ise ayrı bir soru işaretidir. Ana filolardan çok önce, uzay hulk'larıyla galaksinin dört bir yanına dağılmış görünen bu öncü organizmalar, Tyranid'lerin galaksiye ilk kez 745.M41'de değil, çok daha önce sızmış olabileceğini düşündürür. Imperium'un kayıtları, Tyrannic Wars'tan önce de Genestealer enfeksiyonlarıyla karşılaşıldığını gösterir; ancak bunların hive fleet'lerle bağı ilk karşılaşmalarda anlaşılamamıştır.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cb/TyranidsIcon.jpg/revision/latest/scale-to-width-down/1000?cb=20230331182929)
 
 ## Biyoloji, Synapse ve Bio-form'lar
 Tyranid'ler için teknoloji ile beden arasında bir ayrım yoktur. Silahları, zırhları, gemileri ve hatta taşıma araçları; belirli bir işlev için yetiştirilmiş canlı organizmalardır. Bir Termagant'ın elindeki fleshborer, böcek benzeri mermiler fırlatan bir ortakyaşardır; bir hive ship ise uzayın boşluğunda yüzen, iç organlarıyla yeni savaşçılar üreten dev bir canlıdır. Tyranid'ler bu organizmaları bir fabrikada değil, sindirdikleri gezegenlerin maddesinden yeniden örer.

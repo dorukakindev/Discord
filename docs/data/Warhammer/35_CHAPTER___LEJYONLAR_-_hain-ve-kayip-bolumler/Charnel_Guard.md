@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/6d/Charnel_Guard_Chapter_Icon3.jpg/revision/latest?cb=20140208115611
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6d/Charnel_Guard_Chapter_Icon3.jpg/revision/latest?cb=20140208115611)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Charnel Guard — Mezar Muhafızları

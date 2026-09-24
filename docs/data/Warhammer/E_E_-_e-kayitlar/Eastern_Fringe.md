@@ -10,8 +10,6 @@ Bölgeyi tanımlayan şey uzaklıktır. Astronomican'ın erişimi klasik kaynakl
 
 Ancak Eastern Fringe yalnızca bir ıssızlık değildir. M41 boyunca galaksinin en yoğun karşılaşmalarından bazıları burada yaşandı: Ultramar'ın yıldız krallığı bu kıyıya yakın uzanır, genç T'au Empire burada doğup büyüdü ve galaksinin dışından gelen Tyranid'ler Imperium'a ilk kez bu karanlık kıyıdan dokundu. Bu kanal, bölgenin kendisini ve orada kesişen tarihleri merkeze alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4a/The_Eastern_Fringe.jpg/revision/latest?cb=20110630053523)
-
 ## Imperial Varlık ve Kadim Kökler
 Imperium'un doğu kıyısındaki en güçlü dayanağı, merkezi Macragge olan ve Ultramarines'in yönettiği **Ultramar**'dır. Great Crusade döneminde Roboute Guilliman'ın örnek bir devlet olarak inşa ettiği bu yıldız krallığı, Horus Heresy yıllarında da galaksinin geri kalanından kopmuş bir sığınak işlevi gördü. Arşivin önceki ciltleri Macragge'yi Eastern Fringe bağlamında anar; Ultramar'ın iç düzeni ise <#1551809577425575998> kanalının konusudur.
 

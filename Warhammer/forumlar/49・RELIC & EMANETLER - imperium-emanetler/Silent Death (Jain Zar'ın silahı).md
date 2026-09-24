@@ -18,4 +18,4 @@ Jain Zar, Asurmen'in öğrencilerinden biri ve Howling Banshees Aspect'inin ilk 
 
 -# Kaynaklar: *Jain Zar: The Storm of Silence — Gav Thorpe*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>, <#1551587961009741945>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551814105046851615>

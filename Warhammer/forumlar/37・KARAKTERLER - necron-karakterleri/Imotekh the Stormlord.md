@@ -13,5 +13,3 @@ Imotekh the Stormlord, güçlü Sautekh Hanedanı'nın Phaeron'u (imparatoru) ve
 Bir savaş ustası olarak, sabırlı ve milyonlarca yıllık ölçekte düşünür; ölümlü ırkları (insanlık, Aeldari, Orklar) yalnızca geçici, sinir bozucu birer baş belası olarak görür. Onun için bir savaşı kazanmak yıllar sürebilir, ama Necron'lar ölümsüz olduğundan zaman onların lehinedir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/77/Imotekh-the-stormlord.jpg)

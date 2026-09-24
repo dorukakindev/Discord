@@ -18,6 +18,4 @@ Her craftworld'ün Webway kapıları vardır; bu kapılar Asuryani'yi Maiden Wor
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *The Master of Mankind — Aaron Dembski-Bowden*
 
--# İlişkili kayıtlar: <#1551588076609085510>, <#1551588026868830378>, <#1551714833236496445>, <#1551587949450371253>, <#1551714821831921734>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1b/WebwayGate1.jpg/revision/latest?cb=20251007160745)
+-# İlişkili kayıtlar: <#1551993959876657192>, <#1551997861409984543>, <#1551812290439942255>, <#1551997841356881980>, <#1552483150322737262>

@@ -12,8 +12,6 @@ Bu kanal Bjorn'u bir kişi olarak ele alır. Chapter'ın örgütlenmesi ve kült
 
 > Bu maddedeki bilgilerin önemli bir kısmı codex'lerdeki kısa anlatılara ve Chapter'ın kendi geleneğine dayanır. Bjorn'un uzun hayatının pek çok evresi yayımlanmış kanonda ayrıntılandırılmamıştır; arşiv bu boşlukları sagalarla doldurmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e2/Bjorn_the_Fell-Handed_battle_ready.jpg/revision/latest?cb=20150503212033)
-
 ## Kökenler: Russ'ın Çağında Bir Savaşçı
 Bjorn'un Fenris'te nasıl bir hayat sürdüğü, hangi kabileden geldiği ve Wolf Priest'lerin gözüne nasıl ilişip Legion'a alındığı codex anlatılarında ayrıntılı olarak işlenmez. Kesin olan şu: Bjorn, VI Legion'ın Fenris dilinde kendine **Vlka Fenryka** dediği, Russ'ın Legion'ı Fenris'in savaşçı kültürüyle yeniden yoğurduğu dönemde saflardaydı. Great Crusade'in son yıllarını, Horus Heresy'yi ve Scouring'i yaşamış bir kuşaktandı; Prospero'nun yanışından Alpha Legion'la süren yıpratıcı savaşlara kadar Legion'ın en ağır yıllarının onun gençliğine denk geldiği anlaşılır, ama hangi savaşta nerede durduğu çoğu zaman kayıtlarda yer almaz.
 

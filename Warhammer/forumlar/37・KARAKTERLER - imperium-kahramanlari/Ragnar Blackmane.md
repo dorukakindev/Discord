@@ -9,5 +9,3 @@ Ragnar Blackmane, Space Wolves chapter'ının tarihindeki en genç Wolf Lord'udu
 Fenris'in sert buzul dünyasından gelen Ragnar, daha genç bir savaşçıyken bile olağanüstü yetenekler gösterdi ve rekor bir hızla rütbe atladı; bu yükseliş, Space Wolves'un disiplinden çok cesarete ve içgüdüye değer veren kültürüne uygundu. Onun hikâyesi, çoğu zaman atılganlık ile pervasızlık arasındaki ince çizgide gezinen bir gencin olgunlaşma destanıdır (William King'in romanlarında işlenir).
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/40/RagnarBlackmaneColor.jpg)

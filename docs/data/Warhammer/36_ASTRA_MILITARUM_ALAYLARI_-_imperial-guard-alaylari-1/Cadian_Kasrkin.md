@@ -11,5 +11,3 @@ Cadia Kasrkin'leri, kale dünyası Cadia'nın güvenliğine adanmış seçkin Im
 Kasrkin'ler, daha Cadia Gezegen Savunma Kuvvetleri'nde Whiteshield (yeni er) olarak hizmet ederken, zaten yetenekli Cadia askerlerinin en iyileri arasından seçilirler. Aldıkları eğitimin, seçkin Storm Trooper'larınkine bile denk hatta üstün sayıldığı söylenir. Boyunlarında, Cadia seçkinlerinin işareti olan Caducades deniz kartalı dağlamasını taşırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/96/TempestusScions.jpg)

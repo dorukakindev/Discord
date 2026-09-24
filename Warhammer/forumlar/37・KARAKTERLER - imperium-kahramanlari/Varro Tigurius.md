@@ -9,5 +9,3 @@ Varro Tigurius, Ultramarines chapter'ının Baş Kütüphanecisi (Chief Libraria
 Tigurius'un yetenekleri olağanüstüdür; geleceği parçalar halinde görebilir, Warp'ın tehlikeli akıntılarını çoğu psyker'dan daha güvenle yönetir ve savaş alanında muazzam psişik güçler salabilir. Macragge'in Tyranid istilasında, Hive Mind'ın o boğucu, akıl çelen baskısına (Warp'taki Gölge'ye) direnebilen ender varlıklardan biri oldu; bu, gücünün ve irade disiplininin bir kanıtıydı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f5/TiguriusPrimaris.jpg)

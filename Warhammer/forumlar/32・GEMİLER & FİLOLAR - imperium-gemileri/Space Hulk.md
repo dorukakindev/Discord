@@ -18,6 +18,4 @@ Space Hulk'ların bir sistemde belirmesi, Imperium için hem tehlike hem fırsat
 
 -# Kaynaklar: *Space Hulk* (Games Workshop, 1989); *Codex: Genestealer Cults*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/be/Death_of_Integrity_Diorama.PNG/revision/latest/scale-to-width-down/720?cb=20160105044723)
-
 -# İlişkili kayıtlar: <#1551809133156634696>, <#1551759784821137419>, <#1551811368389181491>, <#1551809666454134928>

@@ -10,8 +10,6 @@ Imperial gözlemciler için bu savaşçılar, Chaos'un bir Space Marine'e neler 
 
 Bu kanal iki bozulma biçimini birlikte ele alır. Daemon'ların genel doğası **kayıt**, daemon'u makineye bağlayan teknoloji ise **kayıt** kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Obliterator_Transforms.png/revision/latest/scale-to-width-down/524?cb=20150321214441)
-
 ## Possessed: Bedene Davet Edilen Daemon
 Possession geleneğinin Astartes arasındaki ilk büyük örneği, Horus Heresy'nin eşiğinde Word Bearers'ın **Gal Vorbak**'ıdır. *The First Heretic*, Lorgar'ın Eye of Terror kıyılarına uzanan hac yolculuğu sırasında Argel Tal ve kardeşlerinin bedenlerine daemon'ların yerleşmesini anlatır; bu savaşçılar Legion içinde yeni imanın canlı kanıtı sayıldı. M41'in Possessed'ları bu mirasın devamı olarak anlatılır, ancak Gal Vorbak ile sonraki Possessed arasındaki bağ bir birim sürekliliği değil, bir gelenek çizgisidir.
 

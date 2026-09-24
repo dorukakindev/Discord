@@ -18,4 +18,4 @@ Asuryani'nin Falcon ve Fire Prism gibi grav-tankları ile Aeldari Titan'ları ho
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551714821831921734>, <#1551587928025600012>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1552483150322737262>, <#1551997822725922938>

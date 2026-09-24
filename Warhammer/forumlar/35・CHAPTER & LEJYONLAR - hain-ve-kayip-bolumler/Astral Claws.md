@@ -11,5 +11,3 @@ Astral Claws (Yıldız Pençeleri), bir zamanlar İmparatorluğun güçlü ve on
 Ama chapter'ın gücü ve özerkliği, Chapter Master'ları Lufgt Huron'un kibrini besledi. Huron, kontrolü altındaki dünyaların vergilerini Administratum'a göndermeyi reddetmeye başladı; ayrıca chapter'ın gen-tohumunun bir kısmını saflık denetimi için Terra'ya yollamayı da reddetti. Bu itaatsizlik, kanlı bir iç savaşa, Badab Savaşı'na (901-912.M41) yol açtı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f8/Astralclawsarmo.jpg)

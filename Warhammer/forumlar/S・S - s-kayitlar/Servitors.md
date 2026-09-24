@@ -8,8 +8,6 @@ Servitor, zihni silinmiş ya da ağır biçimde küçültülmüş bir insan bede
 
 Servitor'ların varlık nedeni, Imperium'un düşünen makineye duyduğu derin korkudur. Men of Iron isyanının kolektif hafızaya kazıdığı dehşetten sonra gerçek yapay zekâ **Abominable Intelligence** sayılarak yasaklandı; karmaşık bir işi yürütebilecek bir "beyin" gerektiğinde Mechanicus'un vardığı çözüm, bir makine zihni yaratmak yerine bir insan zihnini makineye dönüştürmek oldu. Bu tercih, Imperium'un değer ölçüsünü de çıplak biçimde gösterir: özgür iradeli bir makine iğrenç bir suçtur, iradesi elinden alınmış bir insan ise sıradan bir alettir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Servitor.jpg/revision/latest?cb=20090214185113)
-
 Servitor'ların hammaddesi kaynaklarda çoğunlukla suçlular ve mahkûmlardır; servitörlüğe mahkûm edilmek, bazı dünyalarda ağır suçların cezası olarak anılır. Bazı anlatılarda başka kaynaklardan, örneğin laboratuvarda yetiştirilmiş bedenlerden de söz edilir; bu konuda kaynaklar tek bir düzen tarif etmez.
 ---MSG---
 ## Türler ve Kullanım Alanları

@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Cadia — Fortress world (Cadian Gate) — yok edilmiş
 
-Varlığı savunmaya adanmış, halkı çocukluktan itibaren askerlik için yetiştirilen ve Imperium'un en tanınmış Guard alaylarını veren dünya. Ayrıntılı madde <#1551587939803471872> kanalındadır.
+Varlığı savunmaya adanmış, halkı çocukluktan itibaren askerlik için yetiştirilen ve Imperium'un en tanınmış Guard alaylarını veren dünya. Ayrıntılı madde <#1551994117842673776> kanalındadır.
 
 - **Kategori:** Dünya — düşmüş fortress world, yönlendirme kaydı — <#1551629176136663150>
 - **Fraksiyon:** Imperium of Man (tarihsel); Chaos
@@ -21,4 +21,4 @@ Cadia bir dünya olarak artık yoktur; Cadian kimliği diaspora hâlinde sürer.
 
 -# Kaynaklar: *Warhammer 40,000: Gathering Storm – Fall of Cadia*; *Cadia Stands — Justin D. Hill*; *Creed: Ashes of Cadia — Jude Reid*
 
--# İlişkili kayıtlar: <#1551587939803471872>, <#1551714773392035952>, <#1551714716915728414>, <#1551741154590990360>
+-# İlişkili kayıtlar: <#1551994117842673776>, <#1551813775848509482>, <#1551811393680838699>, <#1551811621285003315>

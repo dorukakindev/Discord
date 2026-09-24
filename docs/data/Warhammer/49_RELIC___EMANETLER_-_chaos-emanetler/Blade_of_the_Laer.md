@@ -7,5 +7,3 @@ Fulgrim'in Laeran tapınağında bulduğu, bir Slaanesh Büyük İblisini barın
 Blade of the Laer (Laer'ın Kılıcı), Horus Heresy'nin en lanetli silahlarından biridir; Emperor's Children primarch'ı Fulgrim'in düşüşünün doğrudan nedeni olan bir Slaanesh daemon silahıdır. Görünüşte zarif bir gümüş kılıç, gerçekte bir felaketin kabıydı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/54/LaerBlade.jpg)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/de/OF_Flash_Git.jpg/revision/latest?cb=20150709110039
+
 -# THE IMPERIAL ARCHIVE · F Kayıtları · Kayıt
 # Flash Gitz
 

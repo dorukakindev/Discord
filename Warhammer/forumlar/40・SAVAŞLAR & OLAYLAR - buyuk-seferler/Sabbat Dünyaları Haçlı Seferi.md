@@ -11,5 +11,3 @@ Sabbat Dünyaları Haçlı Seferi, M41'de bir yıldız kümesini (Sabbat Worlds)
 Sefer, Warmaster Slaydo (ve sonra Macaroth) önderliğinde, kutsal sayılan Sabbat Worlds yıldız kümesini Kaos güçlerinden (Blood Pact, Sons of Sek gibi) geri almak için başladı; aziz Sabbat'ın anısına adanmış bir haçlı seferiydi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/99/WoeMachine.jpg)

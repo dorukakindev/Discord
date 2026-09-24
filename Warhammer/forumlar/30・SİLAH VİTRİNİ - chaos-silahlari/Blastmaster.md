@@ -7,4 +7,6 @@ Noise Marine'lerin ağır sonik silahı; tek yoğun bas darbesiyle beden parçal
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/16/BlastmasterArt.jpg)
+## Teknik ve Kullanım
+
+Noise Marine'lerin ağır sonik silahı; ses dalgasını ölümcül bir silaha çeviren Slaanesh teknolojisi. İki atış modu vardır: tek bir yoğun bas darbesiyle hedefi paramparça eden tekil atış, ya da sürekli titreyen ve piyadeyi ayakta titreyen bir duvara çeviren seri modu. Kurbanın organları rezonansla sıvılaşır; panoplik zırhı ve kemikler aynı frekansta çözülür. Hem alan silahı hem psikolojik terör aracıdır.

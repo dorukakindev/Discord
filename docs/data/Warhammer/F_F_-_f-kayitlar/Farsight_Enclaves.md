@@ -12,8 +12,6 @@ Bu deneyim, Farsight'ın dünya görüşünü kökünden sarstı. Ethereal'lerin
 
 Kaynaklar bu kararın gerekçelerini tek biçimde açıklamaz; bazıları, gördüklerini imparatorluğu sarsmadan paylaşamayacağı için sürgünü seçtiğini ima eder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ac/Farsight_Enclaves_Symbol.png/revision/latest?cb=20100828053717)
-
 ## Toplum, Yönetim ve The Eight
 Enclaves beş kastın tamamını barındırır, fakat ağırlık açıkça Fire Caste'tadır; bu, onu bir askerî sınır devleti hâline getirir. Earth Caste yeraltı üretim ve araştırma tesislerini işletir, Water Caste ticareti ve yönetimi sürdürür. Ethereal'lerin yokluğunda son sözü söyleyen Farsight'ın kendisi ve çevresindeki kıdemli komutanlardır. Imperium'dan kopmuş ve Greater Good'a katılmış insan **Gue'vesa**'lar da Enclaves nüfusunun parçasıdır. Ethereal High Council ise T'au'nun bu bölgeye gitmesini ve onunla iletişim kurmasını yasaklamıştır.
 

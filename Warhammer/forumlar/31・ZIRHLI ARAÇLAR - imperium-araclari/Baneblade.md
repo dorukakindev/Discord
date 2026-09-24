@@ -11,5 +11,3 @@ Baneblade, Astra Militarum'un efsanevi süper ağır tankıdır; İmparatorluk M
 Baneblade'i efsanevi kılan, silahlanmasıdır; tek bir araç üzerinde on bir ayrı silah taşır. Devasa Baneblade Cannon'ı, kuşatma Demolisher topu, çoklu lascannon'lar, heavy bolter'lar ve autocannon'larla, tek başına bütün bir tank mangasının ateş gücüne bedeldir. Bir savaş alanında birçok hedefi aynı anda imha edebilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/63/Baneblade-cover-clean.jpg)

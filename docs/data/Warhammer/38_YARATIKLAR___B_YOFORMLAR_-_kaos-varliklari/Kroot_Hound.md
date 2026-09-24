@@ -19,5 +19,3 @@ Kroot kindred'leri T'au Empire'a paralı asker ve müttefik olarak hizmet ettik�
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551643950014795948>, <#1551809146850910260>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Kroothound.jpg/revision/latest?cb=20180419011941)

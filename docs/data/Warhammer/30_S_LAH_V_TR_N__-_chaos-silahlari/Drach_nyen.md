@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsword3.png/revision/latest/scale-to-width-down/210?cb=20130821095331
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsword3.png/revision/latest/scale-to-width-down/210?cb=20130821095331)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Drach'nyen — Drach'nyen (Sonun Kılıcı)

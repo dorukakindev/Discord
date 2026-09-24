@@ -19,5 +19,3 @@ Arhra'nın düşüşüyle Aspect geleneğinden kopan bu yol, Commorragh'ta kendi
 -# Kaynaklar: *Codex: Drukhari*; *Path of the Incubus — Andy Chambers*
 
 -# İlişkili kayıtlar: <#1551813105166712966>, <#1551812290439942255>, <#1551809867201908737>, <#1551810506078290021>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/94/Incubus_Model.jpg/revision/latest?cb=20141115010708)

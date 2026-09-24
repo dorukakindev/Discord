@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/47/The_pax_macharia_walks_by_columbussage.jpg/revision/latest/scale-to-width-down/490?cb=20120313041730
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/47/The_pax_macharia_walks_by_columbussage.jpg/revision/latest/scale-to-width-down/490?cb=20120313041730)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Titan — Titan (Satürn'ün Ayı)

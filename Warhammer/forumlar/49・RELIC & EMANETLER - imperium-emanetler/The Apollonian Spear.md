@@ -7,5 +7,3 @@
 The Apollonian Spear (Apollon Mızrağı), İmparatorluğun var olan en kadim iki silahından biridir; onu Birlik Savaşları'ndan, Büyük Haçlı Sefer'den ve hatta Adeptus Custodes'in kendisinden bile önce, İmparator'un bizzat Karışıklık Çağı'nın derinliklerinde, Terra'daki ilk yer altı kalesinde dövdüğü söylenir. Onunla birlikte, kız kardeş silahı Dionysian Spear da dövüldü; ikisi tek bir ustalığın iki yüzüdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Fulgrim_Ancient_Sketch.jpg/revision/latest?cb=20150206220501)

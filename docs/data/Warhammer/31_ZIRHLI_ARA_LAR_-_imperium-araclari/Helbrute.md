@@ -21,6 +21,4 @@ Eski kaynaklarda aynı araçlar "Chaos Dreadnought" adıyla anılır; Helbrute a
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714702705561620>, <#1551588009495756830>, <#1551588074331447346>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Helbrute_of_Khorne.jpg/revision/latest?cb=20140409151341)
+-# İlişkili kayıtlar: <#1551812225570836561>, <#1551816158951510069>, <#1551809666454134928>

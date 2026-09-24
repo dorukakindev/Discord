@@ -10,8 +10,6 @@ Dünyanın kaderi, Imperium için forge world yitirmenin ne demek olduğunu gös
 
 Aşağıda dünyanın kendisi, Legio'su ve müttefik Knight'larıyla bağı ve düşüşü anlatılıyor. Forge world kavramının bütünü için <#1551814305874448396>, Titan Legio'larının yapısı için <#1551809313096474696> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/63/Gryphonne_IV.jpg/revision/latest?cb=20130217075526)
-
 ## Bir Forge World Olarak Gryphonne IV
 Her forge world gibi Gryphonne IV de bir Imperial Governor'a değil, Adeptus Mechanicus'un rahiplerine bağlıydı; yönetimi, hukuku ve savunması Mars'ın dogmasına göre biçimlenmişti. Imperium'a borcunu buğdayla ya da askerle değil, silah, gemi ve makineyle öderdi. Bu yönüyle öteki forge world'lerden farksızdı: dökümhaneyle tapınağın iç içe geçtiği, üretimin bir ayin gibi yürütüldüğü bir teokrasi.
 

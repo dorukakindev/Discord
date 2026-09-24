@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Death_Bolts_Icon.png/revision/latest?cb=20210503214348
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Death_Bolts_Icon.png/revision/latest?cb=20210503214348)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Legio Honorum — Olum Oklari

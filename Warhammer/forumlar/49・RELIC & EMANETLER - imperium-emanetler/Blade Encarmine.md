@@ -9,5 +9,3 @@ Blade Encarmine (Kanlı Kılıç), Blood Angels chapter'ının en kutsal emanetl
 Sanguinius, Büyük Haçlı Sefer ve Horus Heresy boyunca bu kılıcı kuşandı; onunla Khorne'un büyük iblisi Ka'Bandha'ya, Slaanesh'in iblisi Kyriss'e ve sayısız düşmana karşı savaştı. Kılıcın gizemli bir özelliği vardır; yalnızca Sanguinius'un gen-kodunu taşıyanların, yani onun oğullarının elinde tam gücüyle uyanır; bir yabancının elinde sıradan bir çelik gibi kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/4b/EchoesArt.jpg)

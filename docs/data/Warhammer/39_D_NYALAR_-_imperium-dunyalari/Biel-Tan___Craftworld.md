@@ -18,4 +18,4 @@ Biel-Tan, Exodite dünyalarının ve maiden world'lerin savunmasına düzenli ku
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Valedor — Guy Haley*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551588084628590646>, <#1551741271301947542>, <#1551588087455289414>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1552483346846715924>, <#1551655323658494093>, <#1551742665756901377>

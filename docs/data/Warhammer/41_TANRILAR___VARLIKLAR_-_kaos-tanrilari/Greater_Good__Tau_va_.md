@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f0/T%27au_Empire_Icon.png/revision/latest?cb=20230512074501
+
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Greater Good (Tau'va)
 

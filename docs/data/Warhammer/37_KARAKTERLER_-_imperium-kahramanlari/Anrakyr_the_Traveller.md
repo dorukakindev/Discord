@@ -19,5 +19,3 @@ Uyanıştan sonra kendi dynasty'sinin sınırlarında kalmayıp başka hanedanla
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Devastation of Baal — Guy Haley*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551811368389181491>, <#1551809334483361823>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Overlord_Anrakyr_.jpeg/revision/latest/scale-to-width-down/714?cb=20200412101935)

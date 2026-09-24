@@ -7,5 +7,3 @@ Bedenine, savaş sırasında stimm, ağrı kesici ve diğer savaş kimyasalları
 Gland Warrior, bir abhuman soyundan çok, İmparatorluk askeri biyo-mühendisliğinin yarattığı dönüştürülmüş bir asker tipidir; bedeni, savaşmak için bir silaha çevrilmiş bir insan. Sıradan bir asker, savaşın stresiyle, ağrısıyla ve bitkinliğiyle mücadele eder; bir Gland Warrior ise bu sınırların ötesine taşınmıştır. Bedenine, cerrahi olarak özel organlar, salgı bezleri implante edilmiştir; bu bezler, savaş anında çeşitli güçlü kimyasalları doğrudan kana salgılayacak şekilde tasarlanmıştır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/89/Gland_Warrior_Stone.png)

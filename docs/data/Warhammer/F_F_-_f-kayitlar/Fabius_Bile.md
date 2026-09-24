@@ -13,8 +13,6 @@ Fabius, Legion'ın kusursuzluk arayışının biyolojik boyutunu üstlenen hekim
 
 Heresy anlatılarında Bile, Fulgrim'in isteğiyle Ferrus Manus'u klonlama girişimleri gibi karanlık projelerle de anılır. Siege of Terra dönemindeki faaliyetleri ise farklı eserlerde farklı ayrıntıyla işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/revision/latest/scale-to-width-down/750?cb=20131222212324)
-
 ## Legion Wars ve Horus Klonu
 Eye of Terror'daki Legion Wars döneminde Emperor's Children, Sons of Horus'un kalesi **Maeleum**'a yapılan saldırıda Warmaster'ın bedenini ele geçirdi. Amaç, Bile'ın genetik bilgisiyle Horus'u yeniden yaratmak ve hainlerin başına yeni bir lider çıkarmaktı. Bile bu işi başardı; ancak ortaya çıkan klon, Abaddon tarafından yok edildi. Eski Codex anlatısı ve Aaron Dembski-Bowden'ın *The Talon of Horus*'u, Abaddon'ın bu klonu öldürerek Horus'un gölgesiyle bağını kopardığını aktarır. Bu olay Bile'ı Traitor Legion'ların iç siyasetinden fiilen kopardı: bundan sonra bir Legion'ın hekimi değil, herkese hizmetini satan bir dış güç olacaktı.
 

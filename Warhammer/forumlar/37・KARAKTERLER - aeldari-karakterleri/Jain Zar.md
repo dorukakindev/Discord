@@ -11,5 +11,3 @@ Jain Zar, "Sessizliğin Fırtınası" (the Storm of Silence) olarak da bilinen, 
 Faraethil adıyla, Aeldari'nin Düşüş'ünden kısa süre önce Eidafaeron dünyasında doğdu; o felaket geldiğinde o kadar gençti ki Aeldari İmparatorluğu'ndaki yaşamı hiç hatırlamadı. Ailesi onu bir bebekken Kurnussei'ye bıraktı; oluşum yıllarını, efendisinin ve binlerce seyircinin keyfi için sahne alan bir kan-dansçısı gladyatris olarak geçirdi ve arena dışındaki yaşamdan habersizdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/65/Blood-of-the-Phoenix.jpg)

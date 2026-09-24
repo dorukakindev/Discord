@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/3/37/Mars_Red_Planet2.jpg/revision/latest/scale-to-width-down/900?cb=20150420203301
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/37/Mars_Red_Planet2.jpg/revision/latest/scale-to-width-down/900?cb=20150420203301)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Mars — Kızıl Gezegen

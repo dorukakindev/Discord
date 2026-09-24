@@ -11,5 +11,3 @@ Iron Snakes (Demir Yılanlar), Dan Abnett'in romanlarıyla tanınan, güçlü bi
 Ithaka'nın halkı, sert bir deniz kültürüne sahiptir; chapter, savaşçılarını bu balıkçı ve denizci toplumundan devşirir. Iron Snakes, kendilerini Ithaka'nın koruyucu ruhlarına ("the Snake") adamış gibi görür; mızraklarına Teukros adını verirler ve her savaşçı, kişisel onurunu ve cesaretini her şeyin üstünde tutar. Büyük ordu manevralarından çok, bireysel kahramanlığa ve yüz yüze cesarete değer verirler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/51/IronSnake.jpg)

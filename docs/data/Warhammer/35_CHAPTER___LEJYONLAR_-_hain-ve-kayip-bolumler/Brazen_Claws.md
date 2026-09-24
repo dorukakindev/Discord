@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/54/Brazen_Claws_Livery.jpg/revision/latest?cb=20170613013050
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/54/Brazen_Claws_Livery.jpg/revision/latest?cb=20170613013050)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Brazen Claws — Tunç Pençeler

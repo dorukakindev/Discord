@@ -19,5 +19,3 @@ Great Crusade ve Heresy boyunca Primarch'ın çevresinde savaştılar. Legion'un
 -# Kaynaklar: *Codex: Death Guard*; *The Buried Dagger — James Swallow*; *Plague War — Guy Haley*
 
 -# İlişkili kayıtlar: <#1551813274327060552>, <#1551650329316036699>, <#1551754683222327439>, <#1551818194841501818>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Deathshroud_-Mortarion%27s_Bodyguards.jpg/revision/latest?cb=20110314075302)

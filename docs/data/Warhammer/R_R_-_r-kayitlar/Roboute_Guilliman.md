@@ -13,8 +13,6 @@ Guilliman, Primarch'ların Terra'dan saçılmasının ardından Macragge'a düş
 
 Emperor Macragge'a ulaştığında Guilliman'ın kurduğu düzeni bir tehdit değil, bir örnek olarak gördü. Böylece Guilliman, XIII Legion'ın komutasını üstlenerek Great Crusade'e katıldı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/45/Roboute_Guilliman_Avenging_Son.png/revision/latest/scale-to-width-down/817?cb=20160919055552)
-
 ## Great Crusade ve Horus Heresy
 Guilliman'ın Great Crusade'deki yöntemi, fethi yeniden yapılanmayla birleştirmekti. Legion'ı yalnızca savaşmakla kalmayıp fethettiği dünyaları Imperium'a entegre ediyor, onlara yönetim, sanayi ve savunma kazandırıyordu. Ultramar'ın büyümesi, bu yaklaşımın sonucuydu. Kardeşleri arasında Guilliman'ın bu verimliliğine hayranlık duyanlar kadar, onun imparatorluk kurma hevesinden kuşkulananlar da vardı.
 

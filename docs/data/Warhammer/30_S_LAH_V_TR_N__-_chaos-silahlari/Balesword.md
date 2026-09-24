@@ -9,5 +9,3 @@ Veba iblislerinin dev çürüme kılıcı; açtığı yara kapanmaz, sıyrığı
 Balesword, Veba Tanrısı'nın cömertliğinin keskin ucudur. Great Unclean One'ların ve üst düzey veba iblislerinin taşıdığı bu dev kılıçlar, Nurgle'ın bahçesindeki en virülan özlerle dövülmüştür. Ağzı pastan ve irinden görünmez ama bu onu yavaşlatmaz: en küçük temas bile ruhu kemiren, maddeyi çürüten bir hastalık aşılar. Açtığı yaralar kapanmaz, iyileşme büyüleri bozulur; kurban genellikle kılıcın kendisinden değil, sonraki saatlerin çürümesinden ölür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e1/Balesword.jpg)

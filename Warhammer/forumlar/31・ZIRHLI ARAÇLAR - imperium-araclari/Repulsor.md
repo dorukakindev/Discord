@@ -11,5 +11,3 @@ Repulsor, Primaris Space Marine'lerin (Guilliman'ın Indomitus Sefer'iyle gelen 
 Repulsor'ın en çarpıcı yanı, taşıdığı muazzam silah sayısıdır; neredeyse her yüzeyi bir silahla kaplıdır. Ağır lazer yıkıcılardan, gatling top'lara, çoklu bolter'lardan füze sistemlerine kadar, tek başına bir piyade bölüğünün ateş gücüne denk silah taşır. Hem düşman zırhını delebilir, hem piyade dalgalarını biçebilir, hem de havadan gelen tehditlere karşılık verebilir; gerçek bir çok amaçlı yıkım platformudur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/0a/RepulsorArt.jpg)

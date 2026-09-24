@@ -13,5 +13,3 @@ Boss Snikrot (Snikrot the Stalker, Avcı Snikrot olarak da anılır), İmparator
 O, ormanda bir hayalet gibi süzülen bir katildir; throttlevine korularından tek bir yaprağı bile kıpırdatmadan geçebilen bir avcı olarak tanımlanır. Aslen Warboss Killzkar'ın Kommando Boss'uydu; onun kişisel suikastçısı ve cellatı olarak hizmet ediyordu. Onun mevcudiyeti, ormanın gölgelerine bir dehşet salar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d6/SnikrotArmageddon.jpeg)

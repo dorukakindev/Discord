@@ -22,5 +22,3 @@ Celestine'in gerçekten Emperor'ın bir tezahürü olup olmadığı kaynaklarda 
 -# Kaynaklar: *Gathering Storm I: Fall of Cadia*; *Codex: Adepta Sororitas — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753444308811807>, <#1551812139935866891>, <#1551814468458258434>, <#1551651549804236801>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4d/SaintCelestine.jpg/revision/latest?cb=20180616201508)

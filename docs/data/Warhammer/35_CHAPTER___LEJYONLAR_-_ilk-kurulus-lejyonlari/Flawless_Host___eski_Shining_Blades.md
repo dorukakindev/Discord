@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e6/Flawless_Host_SP.png/revision/latest?cb=20170816235820
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Flawless Host — eski Shining Blades
 

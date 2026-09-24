@@ -19,5 +19,3 @@ Horus, Great Crusade ve Heresy boyunca bu topuzu taşıdı. Heresy dönemi tasvi
 -# Kaynaklar: *Liber Hereticus – Traitor Legiones Astartes Army Book*
 
 -# İlişkili kayıtlar: <#1551650246508150857>, <#1551809114328399874>, <#1551809039342501970>, <#1551814951365115956>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Horussmallbase.jpg/revision/latest?cb=20150210093004)

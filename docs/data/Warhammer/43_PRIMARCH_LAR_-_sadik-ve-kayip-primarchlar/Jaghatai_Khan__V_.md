@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8e/JaghataiKhanPencil.jpg/revision/latest?cb=20190325202836
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Jaghatai Khan (V)
 

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/06/MW_Shoulder_Pad.jpg/revision/latest?cb=20161118022909
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/06/MW_Shoulder_Pad.jpg/revision/latest?cb=20161118022909)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Mantis Warriors — Peygamberdevesi Savaşçıları

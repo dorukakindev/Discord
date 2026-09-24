@@ -10,8 +10,6 @@ Lycaeus'u anlamak, Raven Guard'ı anlamanın ilk adımıdır. Legion'ın gölgel
 
 Bu kanal ayın kendisini, isyanın mekânını ve Deliverance'ın sonraki kaderini merkeze alır. Primarch'ın kişiliği ve hayat hikâyesi için <#1551649028121563137>, Chapter'ın örgütlenmesi ve savaş tarihi için <#1551637736593821790> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/45/Deliverance.png/revision/latest/scale-to-width-down/1000?cb=20200422111801)
-
 ## Kiavahr ve Tech-guild'ler
 Lycaeus'un kaderi, çevresinde döndüğü dünyanın düzeninden ayrı düşünülemez. Kiavahr, Great Crusade öncesinde Mars'ın Mechanicum'una bağlı olmaksızın kendi teknoloji ve üretim loncalarınca yönetilen bir sanayi dünyasıydı. Kaynaklar bu yönetimi, üretimi kutsal bir değer sayan, halkı ise çarkların yakıtı gibi gören kapalı ve kıskanç bir lonca oligarşisi olarak çizer. Kiavahr'ın fabrikaları durmaksızın ham madde istiyordu; o ham madde de ayın derinliklerinden çıkıyordu.
 

@@ -13,8 +13,6 @@ Bütün Commissar'lar gibi Yarrick de Schola Progenium geleneğinden gelen, ceph
 
 Imperial anlatılar Yarrick'in şöhretinin ilk kıvılcımını genç bir Commissar olarak katıldığı erken seferlere bağlar; bu dönemde gösterdiği kararlılığın onu ilk kez dikkat çekici bir figür yaptığı aktarılır. Bu erken dönemin ayrıntıları farklı yayınlarda farklı genişlikte anlatıldığından arşiv, tek tek çarpışmaların taraflarını ve sonuçlarını kesinleştirmez. David Annandale'in *Yarrick: Imperial Creed* romanı, Hades'ten çok önceki bu gençlik yıllarını ve Yarrick'in karakterinin nasıl biçimlendiğini işler.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/70/Return_to_Armageddon-_Warhammer_40%2C000_Animation/revision/latest?cb=20260317144703)
-
 Bu dönemden çıkan portre, askerlerinden istediği cesareti önce kendisi göstermesi gerektiğine inanan, bozgunculuğa acımasız ama kayıplarına kayıtsız olmayan bir subaydır.
 ---MSG---
 ## Second War for Armageddon: Hades Hive

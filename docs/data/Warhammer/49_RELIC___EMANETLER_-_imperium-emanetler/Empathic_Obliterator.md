@@ -19,5 +19,3 @@ Trazyn, binyıllar boyunca Imperial dünyalarından xenos harabelerine kadar gal
 -# Kaynaklar: *Codex: Necrons — 5th Edition*; *The Infinite and the Divine — Robert Rath*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Trazyn.png/revision/latest?cb=20130421042952)

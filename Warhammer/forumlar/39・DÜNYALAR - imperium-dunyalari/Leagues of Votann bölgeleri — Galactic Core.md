@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/62/KinhostMobilises.jpg/revision/latest?cb=20221121190853
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Leagues of Votann bölgeleri — Galactic Core
 

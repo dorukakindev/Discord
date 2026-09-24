@@ -21,6 +21,4 @@ Warpflame ve çeşitli büyü disiplinlerine hâkimiyet; kanatlarıyla uçabilen
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Thousand Sons*
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d5/TzeentchBattletome.jpg)
-
 -# İlişkili kayıtlar: <#1551742261522333726>, <#1551714793138954350>, <#1551588063615000637>, <#1551588014940098713>

@@ -13,5 +13,3 @@ Devşirme yöntemi basittir: mahkumlara, savaş alanından aldıkları her şeyi
 Imparatorluğun en inatçı ve açıkça kirli dövüşen savaşçıları arasındadırlar. Kovan kentlerinin dar, zehirli savaş alanlarında üstündürler; cesaretlerinin büyük kısmını sürekli soludukları nitro-kimya inhalerlerinden alırlar. Bu da onlara çıldırmış bir pervasızlık kazandırır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/76/Chem_Dog_01.jpg)

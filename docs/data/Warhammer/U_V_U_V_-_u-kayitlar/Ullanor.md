@@ -9,8 +9,6 @@ Ullanor'un hikâyesi burada bitmez. Yaklaşık bir buçuk bin yıl sonra, M32'de
 
 Bu kanal Ullanor'u bir olaylar dizisi ve bir sembol olarak ele alır. Horus'un kişisel hikâyesi <#1551650246508150857>, Crusade'in bütünü <#1551814367203303506>, M32 istilası <#1551809818250182657>, Ork türünün genel tarihi <#1551759766966116383> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest?cb=20090224193610)
-
 ## Urlakk Urg'un İmparatorluğu
 Ullanor merkezli Ork gücü, Crusade'in karşılaştığı dağınık Ork topluluklarından farklıydı. Imperial anlatılar onu, çok sayıda dünyaya yayılmış, tek bir Overlord'un iradesiyle birleşmiş büyük bir imparatorluk olarak betimler. Kaynaklar bu imparatorluğun kesin büyüklüğü hakkında doğrulanmış bir sayı vermez; "en büyük Ork imparatorluğu" gibi nitelemeler Imperial zafer söyleminin parçası olarak okunmalıdır.
 ---MSG---

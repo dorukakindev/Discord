@@ -13,8 +13,6 @@ Great Crusade boyunca Imperial Fists, tahkimat kurmakta ve düşman surlarını 
 
 Crusade'in son evresinde Emperor, Dorn'u Terra'ya çağırarak Imperial Palace'ın tahkimatını ona emanet etti. Bu karar, Legion'ın kaderini belirleyen dönüm noktası oldu: Horus isyan ettiğinde Imperium'un kalbini savunacak olanlar Imperial Fists'ti.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a3/IF_Shoulder_Pad_2.jpg/revision/latest?cb=20181125055310)
-
 ## Horus Heresy
 Istvaan'dan gelen haberler Terra'ya ulaştığında Dorn, Imperial Fists filosunun büyük bir kısmını isyanı bastırmak üzere yola çıkarmıştı; ancak bu filo Phall sisteminde Iron Warriors ile çatışmaya girerek geciktirildi ve Istvaan V'e hiç ulaşamadı. Legion'ın bir bölümü böylece galaksinin başka köşelerinde dağınık kalırken Dorn, Terra'nın Praetorian'ı sıfatıyla Sol sistemini bir kale dünyalar zincirine çevirmeye girişti.
 

@@ -36,8 +36,6 @@ Space Wolves, savaştaki vahşetleri ve otoriteye başkaldırıları, diğer Spa
 
 ### Fenris
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Space_Wolves_Livery.jpg/revision/latest?cb=20110305084412)
-
 **Fenris**, Space Wolves'un ana gezegenidir. Viking/Nordik bir kültüre sahip sert, soğuk bir death world'dur. Fenris, **Eye of Terror**'un İmparatorluk sınırındaki en kuzeydeki noktalardan biridir.
 
 #### Fenris'in Özellikleri

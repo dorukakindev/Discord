@@ -12,8 +12,6 @@ Chapter'ın tarihindeki en ağır karar, M41'in son yüzyılında Badab War'da A
 
 Bu kanal Lamenters'ı bir Chapter olarak ele alır: kökenlerini, gene-seed'inin tartışmalı durumunu, Badab'daki seçimini, kefaretini ve Kraken'la karşılaşmasını. Savaşın bütünü <#1551811438547312645>, Blood Angels soyunun genel mirası <#1551811368389181491> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/Lamenters_Livery.jpg/revision/latest?cb=20230808224720)
-
 ## Kökenler: Cursed Founding'in Mirası
 Kaynaklar Lamenters'ı Blood Angels'ın gene-seed'inden türeyen ve 21st Founding'de, yani Imperium'un tarihine **Cursed Founding** adıyla geçen kuruluş dalgasında doğan Chapter'lar arasında sayar. M36'ya yerleştirilen bu Founding, Adeptus Mechanicus'un gene-seed'deki kusurları gidermeye ya da onu geliştirmeye yönelik müdahaleleriyle ilişkilendirilir. Sonuç, Imperium'un umduğu gibi daha kusursuz Astartes değil, dengesiz mutasyonlar, açıklanamayan zaaflar ve kimi zaman bütünüyle kaybolan Chapter'lar oldu.
 

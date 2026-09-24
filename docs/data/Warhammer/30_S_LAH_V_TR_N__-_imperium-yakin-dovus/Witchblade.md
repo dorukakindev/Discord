@@ -18,6 +18,4 @@ Craftworld'lerin Seer Council'lerinde Warlock'lar ve Farseer'lar witchblade taş
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Seer — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551588035399782573>, <#1551587928025600012>, <#1551588084628590646>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/22/EldarWitchblade.jpg/revision/latest?cb=20120919043658)
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551818131679215728>, <#1551997822725922938>, <#1552483346846715924>

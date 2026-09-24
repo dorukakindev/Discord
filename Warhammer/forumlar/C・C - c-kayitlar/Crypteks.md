@@ -10,8 +10,6 @@ Cryptek'lerin toplumsal yeri tuhaftır. Soyluların katı hiyerarşisinin tam i�
 
 5th Edition anlatısı cryptek'leri kendi aralarında **conclave** adı verilen topluluklarda örgütlenmiş, soyluların saraylarına ise danışman ve uzman olarak bağlanan bir kast olarak çizer. Biotransference sırasında soylular gibi onlar da bilinçlerinin ve kişiliklerinin büyük kısmını korumuştur; bu, bilgilerinin uyku boyunca yitip gitmemesinin başlıca nedenidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Cryptek-0.jpg/revision/latest?cb=20161103213706)
-
 ## Necrontyr'den Uyanışa
 Necrontyr çağında cryptek'ler, kısa ömürlü bir türün ölümle savaşan bilginleriydi. Kaynaklar onların bedenlerin çürümesine çare aradığını ve bu arayışın sonunda C'tan'ın sunduğu bilgiyle birleştiğini anlatır. Biotransference'ı uygulanabilir bir sürece dönüştüren **Illuminor Szeras**, bu tarihin en karanlık adıdır: halkının ruhsuzlaşmasında taşıdığı pay onu vicdan azabına değil, bilgiye duyduğu sınırsız açlığa yöneltmiş bir cryptek olarak anlatılır (ayrıntılar illuminor-szeras).
 

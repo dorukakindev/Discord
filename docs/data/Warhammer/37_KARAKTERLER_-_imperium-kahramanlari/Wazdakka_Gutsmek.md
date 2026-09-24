@@ -19,5 +19,3 @@ Kaynaklara göre Wazdakka, aceleyle bir araya getirilmiş bir motosikletle kazan
 -# Kaynaklar: *Codex: Orks*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551809313096474696>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/00/WazdakkaGutsmek.jpg/revision/latest?cb=20110727051547)

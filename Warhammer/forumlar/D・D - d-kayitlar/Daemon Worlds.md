@@ -10,8 +10,6 @@ Bu dünyaların çoğu, Warp ile maddenin kalıcı biçimde karıştığı büy�
 
 Bir daemon world hem bir yurt hem de bir ibadet biçimidir. Chaos God'ların ya da onların en güçlü hizmetkârlarının hükmü altındaki bu gezegenler, hükümdarlarının maddi evrene uzanan birer köprüsü gibi işler. Eye of Terror'un bütünü için <#1551813775848509482>, Warp'ın doğası için <#1551809666454134928>, tanrıların diyarları için realm-of-chaos kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/64/Daemon_World.jpg/revision/latest/scale-to-width-down/714?cb=20160302210203)
-
 ## Bir Daemon World Nasıl İşler
 Daemon world'ü her şeyden önce kararsızlığı belirler. Yüzeyi, hükümdarının ruh hâliyle birlikte değişebilir; bir dağ bir gecede yok olabilir, bir deniz kana ya da iltihaba dönüşebilir. Bu dünyalarda yaşayan ölümlü köleler ve kültistler, çoğu zaman gerçekliğin bu oynaklığına boyun eğerek var olur.
 

@@ -9,5 +9,3 @@ The Spear of Russ (Russ'ın Mızrağı), Space Wolves chapter'ının en kutsal e
 Leman Russ, Space Wolves'un vahşi, gururlu ve efsanevi primarch'ıydı; Heresy'den sonra "the Wolf King", gizemli bir biçimde, bir gün en büyük ihtiyaç anında döneceğine söz vererek ortadan kayboldu (the Wolftime). Onunla ilişkilendirilen bu mızrak, chapter için onun mirasının ve bir gün döneceğine dair umudun somut bir parçası haline geldi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest/scale-to-width-down/750?cb=20160525204059)

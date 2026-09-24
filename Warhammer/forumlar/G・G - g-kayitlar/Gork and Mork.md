@@ -13,8 +13,6 @@
 
 **Kanal sınırı.** Ork türü ve biyolojisi <#1551759766966116383>, klanlar ve alt kültürler ork-clans kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/18/Gork_%26_Mork.png/revision/latest/scale-to-width-down/1000?cb=20140716063515)
-
 ## İnanç, Waaagh! ve Peygamberler
 
 **Waaagh! ile bağ.** Ork'ların ortak psişik alanı olan Waaagh!, Gork ve Mork inancıyla iç içedir. Bir Waaagh! büyüdükçe Ork'ların tanrılarına duyduğu coşku da büyür; Ork'lar bunu tanrıların kendilerini kayırdığının kanıtı sayar. Bu alanı en doğrudan hisseden **Weirdboyz**, çevrelerindeki Ork enerjisini emip dışarı patlatır ve Ork gözünde tanrıların sesine en yakın olanlardır. Aynı enerjinin fazlası onları yakıp yok edebilir.

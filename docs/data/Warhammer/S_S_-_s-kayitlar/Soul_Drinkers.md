@@ -10,8 +10,6 @@ Chapter'ın bilinen hikâyesi, Ben Counter'ın Black Library için yazdığı al
 
 Soul Drinkers'ın yolculuğu bu sorunun cevabını kolayca vermez. Bir relic uğruna Adeptus Mechanicus'la girdikleri çatışma, ardından gelen iç savaş, bedenlerini değiştiren mutasyonlar, Inquisition'ın ve kardeş Chapter'ların peşlerini bırakmayan avı ve sonunda atalarının kalesi Phalanx'ta yargılanmaları, dizinin omurgasını oluşturur. Her adımda Chapter hem daha özgür hem de daha yalnız hâle gelir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/52/Soul_Drinkers_SP.jpg/revision/latest?cb=20160504014313)
-
 Bu kanal Soul Drinkers'ı bir Chapter olarak ele alır: kökenini, kopuşunu, Sarpedon'un önderliğini, mutasyon ve av yıllarını, Phalanx'taki yargılanmayı ve Chaos'a düşmemelerinin anlamı üzerine süren tartışmayı. Imperial Fists'in kurumsal mirası <#1551636479925559479>, Primarch'ın kendisi <#1551650286559559741> kanalındadır.
 ---MSG---
 ## Köken ve Kopuştan Önceki Chapter

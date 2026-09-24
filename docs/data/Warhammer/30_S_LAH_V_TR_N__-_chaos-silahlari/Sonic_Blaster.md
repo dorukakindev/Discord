@@ -7,4 +7,6 @@ Slaanesh'e adanmış Noise Marine'lerin ses silahı; öldürücü frekanslarda a
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/94/SonicBlasterArt.jpg)
+## Teknik ve Kullanım
+
+Noise Marine'lerin standart sonik silahı; Blastmaster'ın hafif versiyonu olarak düşünülebilir. Sürekli bir bas dalgası yayar; hedefin organları titreşimle patlar, zırhı bile rezonansla çözer. Uzun menzilli olması Noise Marine'in 'her an savaşın içinde' felsefesine uyar — silah sürekli çığlık atar, kullanıcısı da kendi çığlığını bastıramaz.

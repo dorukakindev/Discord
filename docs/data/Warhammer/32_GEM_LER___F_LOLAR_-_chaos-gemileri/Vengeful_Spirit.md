@@ -11,5 +11,3 @@ Kindar Ruh (Vengeful Spirit), 30. binyılda Mars'ın zanaatkarları tarafından 
 Luna Wolves' ve sonradan Sons of Horus Lejyonu'nun seferlerinin çekirdeğini oluşturdu.\n\nKindar Ruh'un en karanlık anı, İsyan'ın doruğundaki Terra Kuşatması'nda yaşandı; İmparator ile Horus arasındaki o ölümcül son düello bu geminin güvertelerinde geçti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/ce/Vengefulspirit.jpg)

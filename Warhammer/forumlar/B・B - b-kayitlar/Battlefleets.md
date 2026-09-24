@@ -10,8 +10,6 @@ Terim kaynaklarda iki katmanda kullanılır. Üst katmanda beş Segmentum'un bü
 
 Bu kanal Navy'nin bütününü değil, bu bölgesel düzeni merkeze alır. Kurumun kökeni, gemi sınıfları ve hava kuvvetleri <#1551817319288676373>, Segmentum'ların coğrafyası kendi kanallarında, Gothic Sektörü'nün savaşı ise <#1551814512657698817> kanalında işlenir. Kaynaklar Segmentum filolarının ya da sektör filolarının gemi sayısını genellikle vermez; verildiği ender durumlarda bile oyun materyalinin senaryo ölçeğine bağlıdır. Arşiv bu yüzden hiçbir filo için sayı tahmin etmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/32/ImperialNavyIcon.png/revision/latest?cb=20200605191100)
-
 ## Kökenler: Legion Filolarından Navy'ye
 Great Crusade çağında yıldızlar arası savaş, bugünkü anlamıyla tek bir donanmanın elinde değildi. Legiones Astartes kendi büyük filolarıyla sefer ederken Imperial Army'nin gemileri, Mechanicum'un tersanelerinden çıkan savaş gemileri ve sefer filolarına bağlı sayısız yardımcı unsur, her Expeditionary Fleet'te iç içe geçmiş bir kuvvet oluşturuyordu. Bir Primarch ya da bir Lord Commander, askerini de onu taşıyan gemiyi de aynı elde tutabiliyordu.
 

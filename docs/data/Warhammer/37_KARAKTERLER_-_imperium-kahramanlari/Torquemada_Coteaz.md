@@ -9,5 +9,3 @@ Torquemada Coteaz, Ordo Malleus'a bağlı bir Puritan Inquisitor Lordu ve psyker
 Coteaz'ın itibarı, sayısız büyük operasyona dayanır; Lorgamar İsyanları sırasında Xethorit'leri yok ederek "Xethorit Belası" unvanını kazandı, Medarea Bulutsusu'nu temizledi ve bu başarı onu Inquisitor Lordu rütbesine yükseltti, ayrıca Opridia'nın kovanlarını Nurgle'ın kirinden arındırdı. Her zaferi, onu daha da tehlikeli bir avcı yaptı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e0/Daemonhunter.jpg)

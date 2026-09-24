@@ -12,8 +12,6 @@ Navigators, **alınlarının ortasındaki üçüncü gözleriyle** Warp'a doğru
 
 ### Dark Age of Technology Kökeni
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Navigator_2.jpg/revision/latest?cb=20121226092726)
-
 Navigators, Teknolojinin Kara Çağı'nda (Dark Age of Technology) insanlığın Warp'ta yol bulmak için özel bir kişiye ihtiyacı olduğunu fark etmesi üzerine genetik mühendislikle yaratılmıştır — en azından Navigator Houses bunu iddia eder. O dönemde Astronomican henüz var olmadığı için insanların sadece çok kısa Warp sıçramaları yaptığı, yapay Warp beacon'ları kullandığı veya benzeri bir yönteme başvurduğu varsayılır. **Pharos** gibi cihazların var olduğu bilinir; bunlar güvenli seyahat için dünyaları aydınlatan Warp fenerleri gibi çalışırdı, ancak insan kökenli oldukları düşünülmez. Astronomican relayer'ları Astronomican'ın deniz fenerine göre fenerler gibidir; Dark Age'de de bunların teknolojik eşdeğerleri olması olasıdır.
 
 Navigator + Astronomican birleşimi, İmparatorluk'a Webway dışında eşsiz bir erişim avantajı sağlamış, Great Crusade'i ve İmparatorluk'un sürekliliğini mümkün kılmıştır. Tau gemileri içinse yeniden yazılan (retcon) fluff, onların bir dönem cogitator tabanlı Warp seyahati kullandığını gösterir.
@@ -143,5 +141,3 @@ Inquisition, Navigator'ların kendi mevkilerinin dışına çıkıp kendi başla
 7. *Dark Imperium* (Guy Haley) — Kadak Mir ve Uila Lamma
 8. *Lords of the Storm* — Kartr Hollis Navigator karakteri
 9. *Inquisition* kuralları — Navigators'a karşı tutum
-
-![gorsel](https://static.wikitide.net/1d6chanwiki/d/dd/Navigator.jpg)

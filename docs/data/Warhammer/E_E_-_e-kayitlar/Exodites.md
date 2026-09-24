@@ -11,8 +11,6 @@ Yerleştikleri gezegenler, Aeldari'nin çok önceden yaşanabilir kılmak üzere
 
 Bu yüzden Exodite yaşamı, craftworld'lerin incelmiş ve katı biçimde kurallaştırılmış düzeninden çok farklıdır. Şehir kurmayan, göçebe klanlar hâlinde dolaşan, sürülerini ve dev binek hayvanlarını güden bu toplumlar, ileri teknolojiyi tümüyle reddetmese de onu gündelik yaşamın merkezinden uzak tutar. Craftworld Aeldari'si onları çoğu zaman kaba ve geri kalmış kuzenler olarak görür; Exodite'ler ise kendilerini atalarının yozlaşmasına en baştan direnmiş olanlar sayar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/92/Eldar_exodites.png/revision/latest?cb=20111202051447)
-
 ## World Spirit, Klanlar ve Dragon Knights
 
 **World spirit.** Exodite'ler de spirit stone taşır, fakat ruhlar bir infinity circuit'e değil gezegenin kendisine emanet edilir. Güncel yayınlar bunu dünyaya yayılmış psiko-kristal dikilitaşlar, menhirler ve höyük düğümlerinden oluşan geniş bir ağ olarak betimler. Ölen her Exodite'nin ruhu bu ağa katılarak gezegenin **world spirit**'ini besler ve onu She Who Thirsts'ten korur. Bu, Exodite'leri toprağa craftworld'lerden çok daha derin bir bağla bağlar: bir dünyayı kaybetmek, yalnızca bir yurdu değil, bütün ataları kaybetmektir.

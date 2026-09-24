@@ -30,8 +30,6 @@ Knights Templar, Teutonic Knights ve Knights Hospitaller karışımı bir ikonog
 
 ### Kökenler — Templar Brethren
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Black_Templars_Badge.png/revision/latest?cb=20090228072318)
-
 Black Templars'ın kökenleri, **Great Crusade** dönemi **Imperial Fists**'ın birinci şirketine dayanır; orijinal olarak **Templar Brethren** olarak bilinen, tamamen siyah zırh giyen, sağ pauldron ve kalkanlarında siyah haç taşıyan bir gruptu. **Temple of Oaths**'u korumaya yemin etmişlerdi. İmparator'un Şampiyonu (Emperor's Champion) geleneğini başlatan kişi, Imperial Fists Commander ve First Captain'ı **Sigismund**'du — bir Templar düşmanın şampiyonlarını teke tek dövüşe çağırırdı.
 
 Black Templar mentalitesi **Siege of Terra** sırasında doğdu — Rogal Dorn, Sigismund'un sessizlik içinde kendini serbest bırakmasına izin verdi. Heres sona erdikten sonra Roboute Guilliman **Second Founding**'i çağırdığında, Sigismund Templar Brethren'ı alıp **Black Templars**'ı kurdu. Dorn yeni Chapter'a **Cross of Dorn** (Tier VIII ocean war cruiser) hediye etti.

@@ -9,5 +9,3 @@ Canoptek Wraith'ler, Necron mezar dünyalarının (tomb world) sessiz bekçileri
 En korkunç yetenekleri, faz kaymasıdır (phase shift); Necron faz teknolojisi sayesinde maddesizleşip katı duvarların, zırhların ve hatta gezegen kabuğunun içinden geçebilirler. Bir an bir duvarın içinden süzülür, ertesi an düşmanın tam yanında belirir, saldırır ve yine maddesizleşip kaybolurlar. Bu, onlara karşı savunmayı neredeyse imkânsız kılar; kapalı bir oda bile onlardan korunmaz.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/97/WraithArt.jpg)

@@ -11,5 +11,3 @@ Malal (sonradan "Malice" olarak da anılan), Kaos'un en sıra dışı ve en para
 Siyah ve beyaz ikiliğiyle, ihaneti, nihilizmi ve "yıkımın yıkımını" simgeler. Takipçileri çoğu zaman diğer Kaos güçlerini yok etmeye adanmış sürgünler ve nihilistlerdir; kendi davalarına bile düşman olabilen, hiçbir şeye gerçekten bağlı olmayan savaşçılardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b1/Malal.jpg)

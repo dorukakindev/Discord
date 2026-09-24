@@ -9,5 +9,3 @@ Hydraphur, galaksinin Terra'nın batısında kalan devasa bölgesi olan Segmentu
 Hydraphur'un asıl önemi İmparatorluk Donanması'ndadır; gezegeni saran devasa yapay halkalar ve yörünge tersaneleri, Pacificus filosunun ana üssünü oluşturur. Yörüngesinde dev savaş istasyonu "Star Fort Ascendant" asılı durur. Buradan bölgenin dört bir yanına savaş gemileri, takviyeler ve emirler gönderilir; Hydraphur düşerse, koca bir segmentumun savunması felç olur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ec/Inferno7Galaxy.jpg)

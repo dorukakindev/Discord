@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/House_Khymere_Icon.png/revision/latest?cb=20220102200206
+
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Khymere — Chaos (Iconoclast)
 

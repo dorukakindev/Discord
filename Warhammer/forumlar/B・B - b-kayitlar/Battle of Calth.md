@@ -11,8 +11,6 @@ Olayın zemini Horus'un bir emriydi. Warmaster, Guilliman'a Ghoul Stars bölgesi
 ## Kin ve Hazırlık
 Word Bearers'ın Ultramarines'e yönelik kininin kökü **Monarchia**'ya uzanır. Emperor'ın emriyle bu şehri yerle bir eden Ultramarines'ti; Word Bearers için Calth, o aşağılanmanın bedelini ödetmenin fırsatıydı. Saldırının komutanı Lorgar değil, Legion'ın Master of the Faith unvanlı rahibi **Kor Phaeron**'du; First Chaplain **Erebus** de oradaydı. Lorgar ise bu sırada Angron'la birlikte başka bir seferin, sonradan Shadow Crusade adıyla anılacak saldırının hazırlığındaydı. Saldırı, sistemin savunmasını ve haberleşmesini ilk anda felç edecek biçimde tasarlanmıştı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/60/Know_No_Fear_huge.jpg/revision/latest?cb=20120413142117)
-
 ## Baskın
 Saldırı yörüngede başladı. Word Bearers gemileri, dostane bir toplanma sırasında Ultramarines filosuna ve Calth'ın yörünge platformlarına ateş açtı; sistemin savunma ağı büyük ölçüde etkisiz bırakıldı. Ultramarines hazırlıksız yakalandı, ama çözülmedi. Kaynakların Guilliman portresinde en çok vurgulanan nokta budur: Primarch, ihanetin ilk saatlerindeki kargaşada Legion'ını bir kez daha komuta zincirine bağlamayı ve karşı saldırıyı örgütlemeyi başardı.
 

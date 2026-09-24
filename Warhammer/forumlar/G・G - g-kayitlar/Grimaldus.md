@@ -10,8 +10,6 @@ Hikâyesini ayırt edici kılan, bir zafer anlatısı olmamasıdır. Helsreach b
 
 Bu kanal Grimaldus'u bir kişi olarak ele alır: Chapter içindeki yeri, Helsreach'te yaşadıkları, inancı ile kuşkuları arasındaki gerilim ve savaş sonrasındaki rolü. Chapter'ın geneli için <#1551637696466788466>, dünyanın ve üç büyük savaşın bütünü için <#1551643990196232303>, Chaplain makamı için <#1551812532409466901> kanallarına bakılabilir. Helsreach'in ayrıntılı anlatısı büyük ölçüde Aaron Dembski-Bowden'ın *Helsreach* romanına dayanır; romandaki sahneler, Codex metinlerinin kısa özetleriyle yan yana okunmalıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a7/Grimuldus.jpeg/revision/latest/scale-to-width-down/694?cb=20170829175324)
-
 ## Reclusiam ve Black Templars'ta Chaplain
 Grimaldus'un rolünü anlamak için Black Templars'ta Chaplain'ın taşıdığı ağırlığı hatırlamak gerekir. Codex Chapter'larının çoğunda Chaplain, savaşçıların ruhani gözetmeni ve Chapter kültünün koruyucusudur; Black Templars'ta ise Emperor'ı açıkça bir tanrı olarak yücelten Chapter inancı, Chaplain'lara neredeyse fiilî bir önderlik yetkisi verir. Savaş öncesi vaazlar, yeminler ve dualar bu Chapter'da taktik planlar kadar belirleyicidir. **Reclusiam**, Chaplain'ların ruhani merkezidir; Reclusiarch ise bu kurumun başında, High Marshal'ın yanında Chapter'ın ruhunu taşıyan kişidir.
 

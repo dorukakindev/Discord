@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/70/Warlord_Ghazkull_Thraka.jpg/revision/latest?cb=20190630130844
+
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Waaagh! (Ork inancının psişik alanı)
 

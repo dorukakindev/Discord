@@ -11,5 +11,3 @@ Space Wolves'un çift başlı emanet güç baltası; her iki başı, ölüm kap�
 ## Teknik ve Kullanım
 Zincir silahları monomoleküler dişlere sahip motorlu kılıç ve baltalardır; dönen dişler zırhı ve kemiği öğütür. Yıkım gücü kadar sesi ve görüntüsüyle de psikolojik silahtır — bir chainsword'un uğultusu savaş alanında düşmana 'kaç' der.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c6/AxeOfMorkai.jpg)

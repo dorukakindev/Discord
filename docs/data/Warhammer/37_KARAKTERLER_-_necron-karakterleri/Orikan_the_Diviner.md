@@ -13,5 +13,3 @@ Orikan the Diviner (Kâhin), bir Necron Cryptek astromancer'ıdır; yıldızlar�
 Orikan, savaşçı bir aileye doğdu ama babasının istediği gibi Immortals'a (Ölümsüzler birliğine) alınamayacak kadar fiziksel olarak zayıftı. Immortals Tapınağı'nda başarısız olunca, bunun yerine mistisizm sanatına yöneldi. Milyonlarca Terra yılı önce, Necrontyr imparatorluğunun yönetici Triarch'ının astromancer'ı ve Sessiz Kral Szarekh'in en güvendiği danışmanlarından biriydi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e1/Orikan.jpg)

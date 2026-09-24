@@ -22,5 +22,3 @@ Dimensional destabilisation matrix adı verilen düzenek, Wraith'in maddi evrenl
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/45/Canoptek_wraith_necrons.jpg/revision/latest?cb=20130319162707)

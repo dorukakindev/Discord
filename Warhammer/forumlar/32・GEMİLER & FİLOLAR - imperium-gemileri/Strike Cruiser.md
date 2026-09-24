@@ -19,5 +19,3 @@ Strike Cruiser'lar Chapter'ların uzun seferlerinde ve bağımsız bölük harek
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Codex: Space Marines — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753431230971988>, <#1551808888666587197>, <#1551817319288676373>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Strike_Cruiser.jpg/revision/latest/scale-to-width-down/1000?cb=20110420045302)

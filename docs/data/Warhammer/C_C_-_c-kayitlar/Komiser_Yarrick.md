@@ -17,5 +17,3 @@ Ork güç kıskacı protezi, biyonik göz ve sarsılmaz otoritesiyle tanınır. 
 -# Kaynaklar: Armageddon romanları, Warhammer 40,000 kodeksleri
 
 -# İlişkili kayıtlar: `armageddon`, `ghazghkull`, `second-war-for-armageddon`, `commissariat`, `astra-militarum`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/70/Return_to_Armageddon-_Warhammer_40%2C000_Animation/revision/latest?cb=20260317144703)

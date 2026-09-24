@@ -11,5 +11,3 @@ Genesis Chapter, Ultramarines'in (Guilliman) kurulan ilk halef chapter'ıdır; b
 Anavatanları Newfound, Ultramar krallığının galaktik kuzeybatısında, ona kısa bir mesafede yer alır; bu coğrafi yakınlık, chapter'ın Ultramarines ile hem doktrinsel hem fiziksel bağını pekiştirir. Genesis Chapter, hem astrografik hem de ideolojik olarak, tüm Ultramarines halefleri arasında ata-lejyonuna en yakın olanıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b0/Genesis_Chapter_Battle-Brother.jpg)

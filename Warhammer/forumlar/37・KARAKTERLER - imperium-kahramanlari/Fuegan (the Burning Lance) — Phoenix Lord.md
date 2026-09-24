@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/65/Fuegan2_7th_Ed.png/revision/latest?cb=20141120193413
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Fuegan (the Burning Lance) — Phoenix Lord
 

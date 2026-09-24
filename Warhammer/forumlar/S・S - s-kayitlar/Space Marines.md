@@ -10,8 +10,6 @@ Bu kanal, Space Marine'i okuyucuya bir **kavram ve yaşam biçimi** olarak tanı
 
 Space Marine'i anlamanın anahtarı ölçektir. Imperium milyonlarca dünyaya yayılmışken Chapter'lar yalnızca yaklaşık bin savaşçıdan oluşur; dolayısıyla Marine'ler bir cepheyi uzun süre tutan ordular değil, kritik bir noktada belirip savaşın gidişatını değiştiren, sonra başka bir krize yönelen kuvvetlerdir. Bu seyreklik hem efsanelerini besler hem de her kaybı acı bir yara hâline getirir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Adeptus_Astartes_Icon.jpg/revision/latest?cb=20190630130730)
-
 ## Chapter Düzeni
 Codex Astartes'e bağlı bir Chapter geleneksel olarak on company'ye ayrılır. **1. Company** Chapter'ın veteran'larından oluşur ve Terminator zırhı gibi en değerli teçhizatı taşır. **2.–5. Company**'ler Battle Company'lerdir; savaşın asıl yükünü onlar taşır. **6.–9. Company**'ler Reserve Company'lerdir ve geleneksel düzende belirli savaş rollerine yoğunlaşarak Battle Company'lerin kayıplarını karşılar. **10. Company** ise Neophyte'ların Scout olarak eğitildiği birliktir.
 

@@ -13,8 +13,6 @@ Seer yolunun bedeli Eldrad'ın bedeninde görünür. Path of the Seer'de fazla u
 
 **Kanal sınırı.** Ulthwé'nin toplumu <#1551812290439942255>, Ynnari hareketinin bütünü <#1551809867201908737>, ölüler tanrısının doğası <#1551742665756901377> kanalında işlenir. Burada merkezde kişi olarak Eldrad durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Eldrad_Ulthran-0.jpg/revision/latest/scale-to-width-down/750?cb=20160902185928)
-
 ## Ulthwé, Kehanet ve Soğuk Hesap
 
 Ulthwé, Eye of Terror'a en yakın craftworld'lerden biridir ve diğer Aeldari tarafından "the Damned" diye anılır. Warp'ın bu yakınlığı Ulthwé'de seer'leri çoğaltmış, Chaos'a karşı sürekli bir tetikte kalmayı zorunlu kılmıştır. Eldrad bu craftworld'ün Seer Council'ında yüzyıllar boyunca belirleyici ses oldu; Ulthwé'nin daimî ordu gibi örgütlenmiş Black Guardian'ları ve Seer Council savaşçıları, onun öngörülerinin sahadaki aracıdır.

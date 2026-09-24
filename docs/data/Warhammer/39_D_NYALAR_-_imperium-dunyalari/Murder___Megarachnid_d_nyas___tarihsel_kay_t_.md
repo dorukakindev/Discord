@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/64/Endless_Murder_SP.png/revision/latest?cb=20170110175305
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Murder — Megarachnid dünyası (tarihsel kayıt)
 

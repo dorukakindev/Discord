@@ -11,8 +11,6 @@ Bu kanal seferin kendisini ele alır. Dark Angels'ın kurumsal tarihi için <#15
 ## Kökenler
 Isstvan V'teki ihanetin ardından Night Lords, doğu bölgelerinde Imperial dünyalara yönelik terör kampanyalarına girişti. Legion'ın savaş tarzı, ele geçirdiği dünyaları yönetmekten çok onları ibret için yakıp yıkmak, ikmal ve iletişim hatlarını kesmek ve direnme iradesini korkuyla kırmaktı. Galaksinin o kesiminde bulunan Dark Angels'ın bu tehdide yönelmesi, iki Legion'ı yıllara yayılacak bir av ve karşı av döngüsüne soktu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/98/Sevatar_novella_art.jpg/revision/latest?cb=20160104063131)
-
 Seferin tam başlangıç tarihi, süresi ve Thramas'ın sınırları yayımlanmış kaynaklarda kesin çizgilerle verilmez; anlatılar savaşı "yıllar süren" bir çatışma olarak tanımlamakla yetinir. Arşiv bu belirsizliği korur.
 ---MSG---
 ## Savaşın Doğası

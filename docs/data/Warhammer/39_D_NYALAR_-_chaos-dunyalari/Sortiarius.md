@@ -9,5 +9,3 @@ Sortiarius, "Büyücüler Gezegeni" (Planet of the Sorcerers), Thousand Sons hai
 Gezegenin kökeni, Prospero'nun yakılışına dayanır. Space Wolves Thousand Sons'un anavatanı Prospero'yu yaktığında, Magnus the Red son bir hamleyle, paha biçilmez ve yasak bilgiyle dolu Işık Şehri Tizca'yı, büyük bir büyüyle Warp üzerinden Sortiarius'a taşıdı. Böylece lejyonun kütüphaneleri ve kadim bilgeliği yıkımdan kurtarıldı; şehir, artık gerçekliğin kurallarına uymayan bu iblis dünyasına yerleşti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d3/SortiariusBfG.jpg)

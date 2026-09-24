@@ -9,5 +9,3 @@ Tzeentch, değişimin, dönüşümün, büyünün ve entrikanın Kaos Tanrısı'
 Hırs ve umuttan beslenir, çünkü her ikisi de bir şeyleri değiştirme arzusudur; bir büyücünün güç açlığı, bir devrimcinin umudu, bir entrikacının hesapları... hepsi Tzeentch'in ekmeğidir. Büyü ve psişik güç onun alanıdır; en güçlü büyücüler (İblis Primarch Magnus the Red ve sürgün edilmiş Ahriman gibi) ona çekilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/03/Tzeentch.jpg)

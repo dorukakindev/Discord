@@ -9,5 +9,3 @@ Soul Grinder, Kaos'un eti ve makineyi en korkunç biçimde birleştirme yeteneğ
 Görünüşü kâbus gibidir; üst kısmında bir iblisin gövdesi, alt kısmında ise örümcek benzeri, devasa mekanik bacaklar ve ağır toplar bulunur. Bu hibrit yapı, ona hem bir savaş makinesinin ağır ateş gücünü hem de bir iblisin doğaüstü dayanıklılığını ve vahşetini verir. Ağır toplarıyla uzaktan döver, dev pençesiyle yakında parçalar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e0/Soulgrinder.jpg)

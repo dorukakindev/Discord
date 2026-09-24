@@ -17,5 +17,3 @@ Stratejik deha, karizma ve amansız hırs. 'Macharius gibi olmak' İmparatorluk 
 -# Kaynaklar: Macharian Haçlı Seferi kayıtları, Imperial Armour
 
 -# İlişkili kayıtlar: `astra-militarum`, `armageddon`, `lord-solar`, `sabbat-worlds`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/96/Lord_Solar_Macharius.jpg/revision/latest?cb=20111020044308)

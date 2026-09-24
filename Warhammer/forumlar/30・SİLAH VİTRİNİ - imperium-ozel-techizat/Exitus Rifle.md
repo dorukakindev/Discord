@@ -9,5 +9,3 @@ Vindicare Suikast Tapınağı'nın kişiye özel üretilen tüfeği; turbo-penet
 ## Teknik ve Kullanım
 Vindicare tapınağının kutsal tüfeği — turbo-penetrator ve hellfire mermileriyle kilometreler öteden kalkan, zırh ve güç alanını aynı kurşunla deler. Egzotik veya kalıntı teknoloji — üretimi kaybolmuş, özel yapılmış veya inanılmaz derecede tehlikeli silahlar; kullanan taraf kadar hedefi için de risk taşırlar.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/97/ExtiusRifle.jpg)

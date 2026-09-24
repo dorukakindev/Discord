@@ -11,8 +11,6 @@ Bu kanal Creed'i bir kişi olarak ele alır: kökenini, komuta üslubunu, yakın
 ## Köken
 Kaynaklar Creed'in soylu bir aileden ya da subay geleneğinden gelmediğini vurgular. Yaygın anlatıma göre Cadia'daki kale-şehirlerden birinin, bir **kasr**'ın yıkıntıları arasında kimsesiz bir çocuk olarak bulunmuş, sıradan bir Cadian gibi askerî eğitimden geçmiştir. Bu ayrıntı, Cadian toplumunun yapısıyla da örtüşür: Cadia'da neredeyse her çocuk asker olarak yetiştirildiğinden, bir yetimin saflardan yükselerek gezegenin en yüksek komuta makamına ulaşması o toplumun kendi mitolojisine uygun düşer.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/23/Lord_Castellan_Creed.jpg/revision/latest/scale-to-width-down/772?cb=20140412033351)
-
 Creed'in erken kariyerine ilişkin kayıtlar parçalıdır. Imperial anlatılar onun şöhretini, sayıca üstün düşmanlara karşı kazandığı ve geleneksel doktrinin öngörmediği manevralara dayanan zaferlere bağlar; bunlar arasında en sık anılanı Tyrok Fields'dır. Bu çarpışmaların ayrıntıları farklı yayınlarda farklı genişlikte anlatıldığından arşiv, tek tek birlik adlarını ya da kayıp rakamlarını kaydetmez.
 ---MSG---
 ## Kişilik ve Komuta Üslubu

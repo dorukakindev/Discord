@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/db/Krieg.jpg/revision/latest?cb=20120628044710
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Krieg — Harabeye dönmüş Guard dünyası
 

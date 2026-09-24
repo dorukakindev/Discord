@@ -12,8 +12,6 @@ Kaynaklar onu Apollonian Spear adıyla anılan bir guardian spear ile ilişkilen
 
 Bu madde Valdor'u bir kişi olarak ele alır. Kurumun bütünü <#1551753439581831278>, Unification çağı <#1551809555841818669>, kuşatma <#1551809039342501970> kanalında işlenir. Doğumu, yaratılışının ayrıntıları ve Emperor'la ilk karşılaşması kaynaklarda açıklanmaz; ansiklopedi bu boşlukları doldurmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Constantin_Valdor.jpg/revision/latest/scale-to-width-down/1000?cb=20170315125020)
-
 ## Unification Wars ve Thunder Warriors
 Valdor'un kişisel hikâyesini en ayrıntılı işleyen eser, Chris Wraight'ın *Valdor: Birth of the Imperium* romanıdır. Roman, Unification'ın son günlerini ve Emperor'ın Terra'yı birleştirmek için kullandığı araçların birbirinin yerini alışını Valdor'un gözünden anlatır.
 

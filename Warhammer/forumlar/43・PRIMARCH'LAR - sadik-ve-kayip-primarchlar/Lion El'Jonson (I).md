@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/73/LionElJonsonWolfBladeMini.jpg/revision/latest?cb=20230324161910
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Lion El'Jonson (I)
 

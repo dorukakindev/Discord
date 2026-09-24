@@ -17,5 +17,3 @@ Standart Cadian camo, Kasrkin seçkinleri, Kale Dünya doktrini: disiplin ve sa�
 -# Kaynaklar: Codex: Astra Militarum, Fall of Cadia
 
 -# İlişkili kayıtlar: `cadia`, `astra-militarum`, `kasrkin`, `thirteenth-black-crusade`, `catachan`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Organisation_med.jpg/revision/latest/scale-to-width-down/1000?cb=20120629094246)

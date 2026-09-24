@@ -11,5 +11,3 @@ Bolter (Bolt Tüfeği), 40K evreninin en ikonik silahıdır; Adeptus Astartes'i 
 Bolter'ı bu kadar korkunç kılan, mühimmatıdır; bir bolt hedefe çarpmaz, hedefin içine saplanır ve bir saniyenin kesriyle gecikmeli olarak içeride patlar. Bu, hafif zırhı deler ve içerideki bedeni paramparça eder; bolterin açtığı yara asla temiz ya da küçük değildir. Geri tepmesi o kadar güçlüdür ki, sıradan bir insan onu kullanamaz; yalnızca bir Space Marine'in gen-geliştirilmiş gücü onu dengede tutabilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ee/Bolter_-_Astartes_MK_Vb.jpg)

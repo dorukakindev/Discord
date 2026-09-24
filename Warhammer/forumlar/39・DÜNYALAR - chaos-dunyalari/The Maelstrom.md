@@ -9,5 +9,3 @@ Maelstrom (Girdap), galaksinin Halkaların Gözü'nden sonraki ikinci büyük Wa
 Maelstrom, Göz'den daha küçük ama daha kararsız ve öngörülemezdir; içindeki ve çevresindeki Warp akıntıları sürekli değişir, bu da yıldızlar arası seyahati ve savunmayı son derece zorlaştırır. Bu kaos, onu Kaos güçleri için ideal bir saklanma ve operasyon üssü yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/4e/Maelstrom_Detail.jpg)

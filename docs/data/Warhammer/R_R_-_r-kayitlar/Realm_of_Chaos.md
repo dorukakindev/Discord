@@ -13,8 +13,6 @@ Bu yüzden her diyarı, hükümdarının bir portresi gibi okumak gerekir. Khorn
 ## Diyarların Doğası
 Warp'ta zaman ve uzay ölümlü mantığa boyun eğmez. Bir tanrının diyarında yürüyen yolcu, geçtiği yolu bir daha bulamayabilir; bir gün gibi görünen süre dışarıda yüzyıllara denk düşebilir. Diyarın büyüklüğü de sabit değildir. Tanrı ölümlü dünyalardan daha çok duygu topladıkça ülkesi büyür, o duygu kuruyunca çeker.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bf/RealmofChaosMap.jpg/revision/latest/scale-to-width-down/738?cb=20181014212202)
-
 Diyarlar arasındaki geçişler de tanrıların ilişkisini yansıtır. Nurgle ile Tzeentch'in toprakları sık sık birbirine girer; çürüme ile değişimin karşıtlığı, iki diyarın sınırındaki bitmez çatışmada somutlaşır. Bu çekişmeler yalnızca simgesel değildir: daemon orduları o sınırlarda gerçekten savaşır.
 
 Ölümlü bir ruh bu diyarlardan birine düştüğünde, çoğu zaman oranın doğasına göre bir kadere sürüklenir. Khorne'un ovalarında sonsuz bir boğazlaşmaya, Slaanesh'in sarayında bitmeyen bir arzuya, Tzeentch'in labirentinde çözülemez bir bilmeceye kapılır. Kaçış nadirdir; çünkü diyar, tanrının kendi zihninin içidir.

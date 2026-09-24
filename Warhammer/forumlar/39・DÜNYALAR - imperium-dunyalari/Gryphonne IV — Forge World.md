@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/63/Gryphonne_IV.jpg/revision/latest?cb=20130217075526
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Gryphonne IV — Forge World
 

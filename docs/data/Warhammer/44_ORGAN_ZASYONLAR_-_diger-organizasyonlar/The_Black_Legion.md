@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ca/SoH_vs._Emp%27s_Children_Slave_Wars.png/revision/latest?cb=20130910035238
+
 -# THE IMPERIAL ARCHIVE · Diger Organizasyonlar · Kayıt
 # The Black Legion
 *Kara Lejyon*

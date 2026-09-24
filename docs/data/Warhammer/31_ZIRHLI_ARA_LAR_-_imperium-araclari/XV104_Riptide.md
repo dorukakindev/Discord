@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9b/XV104_Riptide_Battlesuit_12.jpg/revision/latest?cb=20130603120022
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # XV104 Riptide
 

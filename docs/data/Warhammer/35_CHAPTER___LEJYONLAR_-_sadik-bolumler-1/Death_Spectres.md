@@ -11,5 +11,3 @@ Death Spectres (Ölüm Hayaletleri), primarch Corvus Corax'ın Raven Guard'ında
 Death Spectres, Imperium'un sınırlarının ötesinde konuşlanmıştır; görevleri, Ghoul Stars denen uğursuz yıldız bölgesini gözlemek ve oradaki doğaüstü sakinlerin galaksiyi bir daha tehdit etmesini önlemektir. Kurucuları Corcaedus, İmparator'un kendisinden aldığı bir vizyonun ardından chapter'ı Occludus'a getirmiştir; bu vizyon onu, gezegenin yüzeyinin altındaki gizli bir mağarada saklı, muazzam güçte bir xeno eseri olan Shariax'a yönlendirmiştir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a7/DeathSpectres.jpg)

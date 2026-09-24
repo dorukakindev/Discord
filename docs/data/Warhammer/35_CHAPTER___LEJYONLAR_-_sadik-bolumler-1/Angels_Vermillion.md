@@ -11,5 +11,3 @@ Angels Vermillion (Kızıl Melekler), Blood Angels'ın gen-tohumundan yaratılm�
 Angels Vermillion'ı diğer tüm Sanguinius halefleri arasında benzersiz kılan şey, mutlak yalnızlıklarıdır; Blood Angels'ın halefleri içinde tek başına onlar, kardeş chapter'larla her türlü teması reddeder ve lanetlerini yalnızlık ve tecrit içinde taşımayı seçerler. İkinci Kuruluş'tan bu yana eylemlerine dair çok az kayıt vardır, ama chapter ne zaman anılsa, savaş sicilinin kusursuz olduğu belirtilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/65/Angels_Vermillion_Marine2.jpg)

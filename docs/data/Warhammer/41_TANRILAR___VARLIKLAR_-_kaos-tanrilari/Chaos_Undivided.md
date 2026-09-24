@@ -9,5 +9,3 @@ Bölünmemiş Kaos (Chaos Undivided), dört büyük tanrıdan herhangi birine de
 Bu yol pratik bir avantaj sunar: tek bir tanrının kaprisine ve mutasyonlarına tam bağlı kalmamak. Word Bearers (Lorgar'ın lejyonu) ve Abaddon'un Black Legion'ı bu dengeli hizmeti tercih eder; çünkü bir tanrıya tam adanmak (örneğin Khorne'a) savaşçıyı tek boyutlu ve öngörülebilir kılar, oysa Bölünmemiş kalmak esneklik ve daha geniş bir güç yelpazesi verir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/8f/Chaos.png)

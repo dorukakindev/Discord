@@ -14,8 +14,6 @@ Daemon'lar yine de basit kuklalar değildir. Pek çoğu kendi hırsına, kıskan
 **Bağlanmamış varlıklar**
 Warp'taki her varlık dört tanrıdan birine bağlı değildir. Kaynaklar dört tanrıdan birine ait olmayan daemon'lardan ve Warp yırtıcılarından da söz eder; Furies gibi varlıklar, "Undivided" ya da bağlanmamış Warp varlıkları olarak anılır. Bunların kökeni ve doğası hakkında kanonik açıklama sınırlıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5f/ChaosDaemons.png/revision/latest?cb=20240226051839)
-
 ## Hiyerarşi: Greater ve Lesser Daemon'lar
 Daemon toplulukları, tanrılarının doğasını yansıtan bir hiyerarşiye sahiptir. Bu hiyerarşi insan ordusu gibi rütbeye değil, tanrının lütfuna ve güce dayanır.
 

@@ -28,5 +28,3 @@ Orklar sonunda büyük bedellerle ve fedakarlıklarla püskürtüldü; ama Ghazg
 - Commissar Yarrick
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/16/Ork_Waaagh%21_Armageddon.png/revision/latest/scale-to-width-down/900?cb=20140723171409)

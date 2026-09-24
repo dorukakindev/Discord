@@ -12,8 +12,6 @@ C'tan'ın tarihteki asıl ağırlığı, Necrontyr ile kurdukları ilişkiden ge
 
 **Bilgi düzeyi uyarısı:** C'tan hakkında bilinenlerin büyük kısmı Necron kayıtları, Aeldari mitleri ve Imperium'un parçalı bilgilerinden gelir. Bu madde, doğrulanmış olanla evren içi iddiayı ve eski edition anlatısını ayırmaya özen gösterir.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/16/40k-62-their-name-is-death.jpg)
-
 ## Kökenler: Yıldız Yiyenler
 Kaynaklara göre C'tan, evrenin doğumuna yakın çağlarda, yıldızların enerjisinden beslenen, biçimsiz ve kendi varlıklarının pek de farkında olmayan varlıklar olarak ortaya çıktı. Güneş rüzgârlarında sürüklenen bu enerji bulutlarının zamanla birbirini de yuttuğu, güçlülerin zayıfları tüketerek büyüdüğü anlatılır.
 

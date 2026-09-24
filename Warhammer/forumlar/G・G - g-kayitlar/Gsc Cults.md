@@ -12,8 +12,6 @@ Kaynaklar altı büyük kült kimliğini öne çıkarır: **Cult of the Four-Arm
 
 Hepsinin ortak bir yanı vardır: hiçbir kült, hizmet ettiği efendinin gerçek doğasını bilmez. Kurtuluş sandıkları şey, kendi sonlarıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/1st-gen.jpg/revision/latest?cb=20160523003800)
-
 ## Kuşaklar: Bedenin Sessiz Dönüşümü
 Bir kültü anlamak için önce kuşaklarını okumak gerekir, çünkü tarikatın yaşı üyelerinin bedenine yazılıdır. Her şey bir Purestrain Genestealer'ın enfekte ettiği ilk kurbanla başlar. Bu kişinin çocukları kültün ilk kuşağını oluşturur ve xenos atalarına en çok benzeyenler de onlardır: çarpık uzuvlar, kitin plakalar, insan yüzünü zorlayan hatlar. İlk kuşaklar bu yüzden yeraltında saklanır. Kültün en ağır savaşçıları da bu çarpık ama korkunç güçlü bedenler arasından çıkar.
 

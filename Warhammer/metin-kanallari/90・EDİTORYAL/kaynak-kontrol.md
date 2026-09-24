@@ -27,8 +27,6 @@ Lexicanum, Fandom, Reddit, YouTube ve forumlar birincil kaynağı bulmak için i
 - Başka bir birincil kaynak doğrudan çelişiyor mu?
 - Metindeki kesinlik dili, kaynaktaki kesinlik düzeyiyle örtüşüyor mu?
 
----
-
 ## Kaynak Denetim Checklist'i
 
 Denetçi aşağıdaki listeyi taslak başlığına yanıt olarak yapıştırır ve her maddeyi işaretler. `[x]` geçti, `[ ]` sorunlu, `[-]` uygulanamaz anlamına gelir.
@@ -58,8 +56,6 @@ Eksikler:
 ```
 
 Sonuç **Kaynak Bekliyor** ise taslağın durum etiketi buna göre güncellenir ve eksik her madde, hangi iddiaya ait olduğu belirtilerek listelenir.
-
----
 
 ## Kaynak Satırı Biçimi ve Sık Hatalar
 

@@ -20,8 +20,6 @@ Ama Sanguinius lejyonuyla kümeye vardığında, gerçeğin çok daha karanlık 
 
 Çatışmanın doruğunda Sanguinius, Khorne'un en güçlü hizmetkarlarından biri olan Bloodthirster Ka'Bandha ile yüz yüze geldi. İlk karşılaşmada iblis, primarch'ın bacaklarını kırarak onu yere serdi ve binlerce Blood Angels savaşçısını tek bir vuruşla katletti; ama Sanguinius, yaralarına rağmen ayağa kalktı ve ikinci düelloda Ka'Bandha'yı Warp'a geri sürdü.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Ka%27Banda_vs_Sanguinius.jpg/revision/latest?cb=20111120055801)
-
 Blood Angels yozlaşmadı, zaferi kazandı; ama bedel ağırdı. Bu seferde, lejyonun kanına işleyen iki lanet ilk kez su yüzüne çıktı: savaş çılgınlığına sürükleyen Kan Açlığı (Red Thirst) ve Sanguinius'un ölümünü tekrar tekrar yaşatan Kara Öfke (Black Rage). Signus Kampanyası, Blood Angels'ın hem en büyük kahramanlığının hem de onları sonsuza dek lanetleyecek genetik trajedinin doğum yeridir; bir zaferin, bir ırkın damarlarına işleyen bir lanete dönüştüğü andır.
 
 ## Figürler

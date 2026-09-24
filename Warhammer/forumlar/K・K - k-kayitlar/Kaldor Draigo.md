@@ -11,8 +11,6 @@ Bu durum Draigo'yu hem bir savaş önderi hem de bir muamma yapar. Imperium'un C
 ## Köken ve Kişisel Geçmiş
 Draigo'nun kökenine dair bilgiler, Grey Knights'ın genel gizliliğine yaraşır biçimde sınırlıdır. Doğduğu dünya, Titan'a hangi yolla getirildiği ve Supreme Grand Master makamına hangi sırayla yükseldiği yayımlanmış kanonda ayrıntılı bir biyografiyle verilmez. Chapter'ın bütün savaşçıları gibi psişik yeteneği fark edilerek gizlice devşirildiği, Titan'daki ölümcül sınamalardan geçtiği ve zamanla Chapter'ın en yüksek makamına ulaştığı anlaşılır. Kaynakların vurguladığı şey, onun bir daemonun gerçek adını bilmenin ve söylemenin ağırlığını taşıyan, saflığıyla Chapter içinde bile ayrı tutulan bir savaşçı olduğudur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/95/KaldorDraigo1.png/revision/latest?cb=20170813205141)
-
 ## Warp'a Bağlanış
 Draigo'nun lanetinin tam koşulları kaynaklarda kısa ve mitsel bir dille anlatılır: bir daemonla yüzleşmesinin sonunda gerçek evrenle bağı koparılmış ve Warp'ın akıntılarına bırakılmıştır. Hangi daemonla, hangi dünyada ve hangi tarihte karşılaştığına dair ayrıntılar, arşivin kesinleştirebileceği biçimde sabit değildir; bu nedenle burada tek bir anlatı gerçekmiş gibi sunulmaz.
 

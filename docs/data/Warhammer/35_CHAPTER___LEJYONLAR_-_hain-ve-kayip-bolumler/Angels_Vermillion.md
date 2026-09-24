@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c1/AE_Shoulder_Guard.jpg/revision/latest?cb=20230808214524
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c1/AE_Shoulder_Guard.jpg/revision/latest?cb=20230808214524)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Angels Vermillion — Kızıl Melekler (Angels Vermillion)

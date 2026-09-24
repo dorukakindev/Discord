@@ -11,5 +11,3 @@ Lascannon (Lazer Topu), İmparatorluğun en yaygın ve en güvenilir ağır tank
 Meltagun'un aksine, Lascannon uzun menzilde etkilidir; bu onu savunma hatları, tank avı ve uzaktan ağır hedef imhası için ideal kılar. İmparatorluk Muhafızı'nın tanklarında, sabit savunma platformlarında ve ağır silah timlerinde her yerde bulunur. Plazma silahları gibi patlama riski taşımaz; güvenilirliği ve menzili onu İmparatorluğun belkemiği anti-tank silahı yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fd/LascannonIA.jpg)

@@ -31,8 +31,6 @@ Custodian'lar, insanlığın en güçlü savaşçılarıdır. Space Marine'lere,
 
 ### Unification Era
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312)
-
 Custodes, İmparator'un Terra'yı birleştirme savaşları sırasında **Thunder Warriors**'a ek olarak yaratıldı. Çok daha az sayıda olmalarına rağmen, Custodes Thunder Warriors'tan çok daha üstündü — genetik manipülasyonları daha gelişmişti ve bağlılıkları koşulsuzdu. İmparator, Custodes'ı uzun vadeli koruyucuları olarak tasarladı; Thunder Warriors kısa vadeli savaşçılardı.
 
 ### Great Crusade (Büyük Sefer)

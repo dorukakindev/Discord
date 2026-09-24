@@ -9,5 +9,3 @@ Necron mezar dünyalarının asla uyumayan dev örümcek-konstrüktü; bakım ya
 Canoptek Spyder (Canoptek Örümceği), Necron mezar dünyalarını "Deep Spirit" ana kontrol sistemi adına gözeten ve bakımını yapan dev, örümcek-benzeri bir konstrükttür. Necronların kendisinin aksine, Canoptek Spyder'lar asla uyumaz; çağları, mezar dünyalarının yapılarına hizmet ederek, uyuyan efendilerini koruyarak ve onları barındıran karmaşık stasis makinelerini işler tutarak geçirirler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/ce/CanoptekSpyderArt.jpg)

@@ -13,8 +13,6 @@ Cawl'ın en çarpıcı iddiası, on bin yıldan uzun süredir yaşadığıdır. 
 
 Bu yüzden Cawl'ın geçmişine dair anlatılanların önemli bir kısmı **evren içi iddia** niteliğindedir: tanıkların çoğu ölmüş, belgeler Cawl'ın kendi arşivlerinde durmaktadır. Yaşı konusunda Imperium'un elinde onun sözünden daha sağlam bir kanıt yoktur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/08/Archmagos_Dominus_Belisarius_Cawl.jpg/revision/latest?cb=20170414203353)
-
 ## Guilliman'ın Görevi ve Great Work
 Heresy'nin ardından Guilliman, Imperium'un yeniden bir ihanet ya da kendi ölümüyle savunmasız kalabileceğini öngörerek Cawl'a iki büyük iş emanet etti: gerekirse Primarch'ı yeniden hayata döndürmek ve yeni, daha güçlü bir Space Marine kuşağı yaratmak. Bu ikinci görev için Cawl'a, kaynaklarda Primarch'ların genetik mirasıyla ilişkilendirilen, içeriği tam olarak açıklanmayan **Sangprimus Portum** adlı emanet teslim edildi. Emanetin içeriği ve kökeni primaris-space-marines kanalında ayrıntılandırılır.
 

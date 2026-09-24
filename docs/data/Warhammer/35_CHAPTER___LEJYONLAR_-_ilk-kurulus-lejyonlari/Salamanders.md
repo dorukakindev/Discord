@@ -11,5 +11,3 @@ Salamanders, primarch'ları Vulkan'ın insancıllığını, zanaat sevgisini ve 
 Nocturne, ayı Prometheus'un çekimiyle sürekli deprem ve lav patlamalarına maruz kalan bir cehennemdir; bu zorlu hayatta kalma, halkı dayanışmaya ve demirciliğe yöneltmiştir. Her Salamander bir usta zanaatkârdır; teçhizatını, hatta silahlarını kendi döver. Bu yüzden ekipmanları genellikle el yapımı, kaliteli ve kişiseldir. Melta ve alev silahlarında uzmandırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/ab/Massacre_Salamander.jpg)

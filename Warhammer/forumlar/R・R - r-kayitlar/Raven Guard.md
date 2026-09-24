@@ -13,8 +13,6 @@ Emperor bu ayaklanmanın ardından Corax'a ulaştı ve Primarch'ı XIX Legion'ı
 
 Great Crusade boyunca Raven Guard, geniş cephelerde ağır ordularla savaşmaktan çok hedefli sızma operasyonları, hızlı saldırılar ve düşmanın komuta yapısını çökertmeyi amaçlayan harekâtlarla tanındı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg/revision/latest?cb=20111203004542)
-
 ## Horus Heresy
 Istvaan V'e inen ilk dalgada Raven Guard da vardı ve Drop Site Massacre, Legion için neredeyse topyekûn bir yok oluş anlamına geldi. Hain Legion'ların ateşi altında Raven Guard'ın büyük kısmı katledildi; Corax ağır yaralanarak ancak az sayıda kardeşiyle birlikte kurtulabildi. Gav Thorpe'un *Deliverance Lost* romanı, bu felaketin ardından Legion'ın yeniden kurulma çabasını işler.
 

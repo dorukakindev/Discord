@@ -10,8 +10,6 @@ Coteaz'ın adı, Imperium'un savunucuları arasında bile tedirginlik uyandırı
 
 Karakterin adı, gerçek dünya tarihinden, İspanyol Engizisyonu'nun ünlü başı Tomás de Torquemada'dan esinlenir. Warhammer 40,000'in Inquisition tasvirini tarihsel engizisyon imgelerine yaslayan açık bir göndermedir bu; evren içinde ise yalnızca bir addır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/87/Inquisitor_Lord_Coteaz_%26_Psyber-Eagle.jpg/revision/latest/scale-to-width-down/350?cb=20191116040916)
-
 Bu kanal Coteaz'ı bir kişi olarak ele alır. Ordo'nun kendisi için <#1551652766496071781>, Chamber Militant'ı için <#1551641477501947995>, kurumun bütünü için <#1551815304252887041> kanallarına bakınız.
 ---MSG---
 ## Rütbe, Yetki ve Konum

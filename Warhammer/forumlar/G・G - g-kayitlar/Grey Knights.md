@@ -12,8 +12,6 @@ Grey Knights'ın yuvası, Sol sistemindeki Saturn'ün uydusu Titan'dır. Burada,
 
 Chapter'ın yaklaşık bin savaşçıdan oluştuğu söylenir; bu, Codex Chapter'larının genel ölçüsüyle uyumludur. Ancak Grey Knights'ın yüklendiği görevin genişliği düşünüldüğünde, bu küçüklük onların her müdahalesini hem hayati hem de ağır bedelli kılar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/15/GK_Shoulder_Pauldron.jpg/revision/latest?cb=20161118015332)
-
 ## Kökenler
 Grey Knights'ın kuruluşu Horus Heresy'nin son dönemine, Siege of Terra'dan önceki günlere tarihlenir. Anlatıya göre Malcador the Sigillite, Legion'larından koparak onun hizmetine giren Space Marine'ler arasından, yani **Knights-Errant** olarak bilinen savaşçılardan psişik yeteneğe sahip sekiz kişiyi seçip Emperor'a sundu. Bu sekiz savaşçı, Chapter'ın ilk Grand Master'ları oldu; aralarında Janus, ilk **Supreme Grand Master** olarak anılır.
 

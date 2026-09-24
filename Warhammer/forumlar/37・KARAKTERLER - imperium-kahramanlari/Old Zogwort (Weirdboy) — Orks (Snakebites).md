@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/95/Old_zogwort_by_albe75.jpg/revision/latest?cb=20141008100642
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Old Zogwort (Weirdboy) — Orks (Snakebites)
 

@@ -12,8 +12,6 @@ Bu kanal gene-seed'i bir **soy ve kaynak** olarak ele alır: progenoid döngüs�
 
 Gene-seed'in doğası üzerine bilinenler, büyük ölçüde onu kullanan ve saklayan kurumların anlatısıdır. Mechanicus'un bilgisi eksik, Chapter'ların bilgisi gizli, Emperor'un asıl tasarımı ise büyük ölçüde kayıptır; arşiv bu boşlukları kesin bilgiyle doldurmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/98/Space_Marine_Implants_chart.jpg/revision/latest?cb=20120707032617)
-
 ## Progenoid Döngüsü ve Hasat
 Gene-seed'in çoğalmasını sağlayan organlar **Progenoid Glands**'dir. Yaygın Codex anlatımına göre bir Marine iki progenoid bezi taşır; biri boyunda, diğeri göğüste yer alır ve yıllar içinde farklı sürelerde olgunlaşır. Olgunlaşan bezler, yeni bir aday için gerekli organları yetiştirmeye yetecek genetik malzemeyi biriktirir. Bu nedenle genç bir Marine'in ölümü, yalnızca bir savaşçının değil, henüz olgunlaşmamış bir tohumun da kaybıdır.
 

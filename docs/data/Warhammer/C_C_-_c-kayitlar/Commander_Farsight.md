@@ -12,8 +12,6 @@ Karakteri tanımlayan asıl gerilim içe dönüktür. Farsight, Tau'va'ya inanc�
 
 Kapsam notu: Enclaves'in toplum, yönetim ve savaş tarihi <#1551814127541026827>, T'au imparatorluğunun bütünü <#1551809146850910260>, eski öğretmeni puretide, çağdaşı ve karşıtı shadowsun kanalındadır. Bu madde Farsight'ı bir kişi olarak ele alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Commander_Farsighta.jpg/revision/latest?cb=20131028093450)
-
 ## Yükseliş: Vior'la'dan Damocles Gulf'a
 Farsight, askerî geleneğiyle tanınan Vior'la sept'inde yetişti. Kaynakların bir kısmı onu, Fire Caste'ın savaş felsefesini biçimlendiren efsanevi komutan **Puretide**'ın öğrencileri arasında anar. Puretide'ın iki yolundan Farsight'ın mizacına en yakın düşeni, doğru anda indirilen ölümcül darbe olan **Mont'ka** olmuştur; sabırlı pusunun yolu olan Kauyon ise daha çok çağdaşı Shadowsun'ın adıyla özdeşleşir. İki komutanın aynı ustanın mirasını iki farklı yöne taşıması, T'au anlatısının kalıcı karşıtlıklarından birinin temelidir.
 

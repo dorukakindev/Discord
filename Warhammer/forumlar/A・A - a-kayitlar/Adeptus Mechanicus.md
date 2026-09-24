@@ -10,8 +10,6 @@ Mechanicus, Imperium'un içinde yer alıp ona tam olarak ait olmayan tuhaf bir g
 
 Bu madde kurumun inanç, yapı ve tarih bütününü ele alır. Kızıl Gezegen'in kendisi <#1551816635839549491>, Heresy'de ayrılan hain kol <#1551650329156788287>, Mechanicus'a bağlı Knight Houses ise <#1551753465900961795> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723)
-
 ## Kökenler: Cult of Mars'tan Mechanicum'a
 Dark Age of Technology'nin çöküşü ve Age of Strife'ın kaosu boyunca Mars, Terra'dan kopuk biçimde kendi karanlığına gömüldü. Bu yüzyıllarda Martian toplumu, yitirilen bilginin kalıntılarına tutunan ve teknolojiyi kutsallaştıran bir rahipliğe, Cult of Mars'a dönüştü. Kayıtlar bu dönemin iç savaşlarını ve çöküşünü parça parça anlatır; ayrıntıların büyük bölümü yayımlanmış kanonda açıklanmamıştır.
 

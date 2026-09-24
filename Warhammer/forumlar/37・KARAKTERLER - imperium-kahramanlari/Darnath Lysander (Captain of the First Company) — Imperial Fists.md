@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/42/IF_Cpt_Darnath_Lysander.jpg/revision/latest?cb=20130909035909
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Darnath Lysander (Captain of the First Company) — Imperial Fists
 

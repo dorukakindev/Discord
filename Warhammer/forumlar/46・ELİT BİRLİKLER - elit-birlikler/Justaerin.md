@@ -22,5 +22,3 @@ Black Legion'daki Terminator birliklerinin Justaerin geleneğinin doğrudan deva
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *The Talon of Horus — Aaron Dembski-Bowden*; *Black Legion — Aaron Dembski-Bowden*
 
 -# İlişkili kayıtlar: <#1551809114328399874>, <#1551638958352506881>, <#1551811342405599345>, <#1551814951365115956>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9a/Justaerin_Termi_Wargear.png/revision/latest/scale-to-width-down/1000?cb=20131114184001)

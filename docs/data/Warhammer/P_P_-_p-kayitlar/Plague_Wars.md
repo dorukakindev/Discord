@@ -10,8 +10,6 @@ Seferin kişisel bir boyutu da vardı. Mortarion'un Guilliman'a duyduğu kin, He
 
 İstila hazırlıksız bir krallığa çarpmadı ama çok uzun bir hazırlığın meyvesiydi. Ultramar'ın kuzeyindeki ve Nurgle'ın kontrolüne geçmiş **Scourge Stars** adlı sistemler istilanın çıkış noktası oldu. Salgın kültleri ve gizli hastalıklar Ultramar dünyalarına önceden sızmış, Great Rift'in Warp'ı taşırmasıyla bu sabırlı çürüme açık bir savaşa dönüşmüştü. Saldırı başladığında Guilliman, Indomitus Crusade'in başında Ultramar'dan uzaktaydı; savunma yükü önce Marneus Calgar'ın ve Ultramar'ın kendi kuvvetlerinin omuzlarına bindi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Guilliman_vs._Mortarion.png/revision/latest/scale-to-width-down/792?cb=20170912010908)
-
 ## Cepheler ve Seyir
 Nurgle'ın güçleri tek bir hedefe değil, Ultramar'ın birçok dünyasına aynı anda yüklendi. En çok anılan cepheler üçtür. **Iax**, Ultramar'ın bahçe dünyası olarak bilinir; Nurgle'ın burada kendi Garden'ının bir yansımasını maddi evrende kök saldırmaya çalıştığı, dünyanın bereketini çürümenin bereketine çevirmeye giriştiği anlatılır. **Espandor**, salgının diriltip yürüttüğü ölüler ordularıyla boğuşan bir cephe oldu. **Parmenio** ise Titan'ların da katıldığı, seferin en büyük zırhlı çarpışmalarına sahne oldu.
 

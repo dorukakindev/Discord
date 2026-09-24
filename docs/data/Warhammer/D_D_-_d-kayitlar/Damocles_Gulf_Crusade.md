@@ -10,8 +10,6 @@ Seferin kökü, T'au'nun **First Sphere Expansion** ile büyümesinde yatar. War
 
 Inquisition'ın bu temasları ortaya çıkarması, bölgedeki Imperial otoritelerin xenos'u kökünden kazımak için bir crusade çağrısı yapmasına yol açtı. Donanma, Astra Militarum alayları, Adeptus Mechanicus unsurları ve Space Marine kuvvetlerinden oluşan crusade filosu Gulf'u geçerek T'au bölgesine girdi. Kaynaklarda bu kuvvetler arasında Iron Hands ve Scythes of the Emperor gibi Chapter'ların adları anılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Tau_vs._Sythes_Chapter.jpg/revision/latest/scale-to-width-down/1000?cb=20140603204706)
-
 ## Seferin Seyri: Dal'yth'e Giden Yol
 Crusade'in ilk safhası Imperium için umut vericiydi. Imperial filo, T'au'nun sınır dünyalarında ve boşlukta ilk karşılaşmalarda üstünlük sağladı; T'au'nun daha küçük ama teknolojik olarak gelişkin gemileri Imperial donanmanın ağır savaş gemileri karşısında geri çekildi. Space Marine'ler sınır dünyalarında T'au kuvvetlerini yendi; ancak bu çarpışmalar, karşılarındaki xenos'un Imperium'un beklediğinden çok daha disiplinli ve iyi donanmış olduğunu da gösterdi.
 

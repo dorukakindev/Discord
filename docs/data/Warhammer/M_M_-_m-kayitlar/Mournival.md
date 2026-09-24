@@ -11,8 +11,6 @@ Adın kökü gerçek dünyadadır: *mournival*, eski bir İngiliz kart oyununda 
 
 Bu madde Mournival'ı bir kurum ve bir kardeşlik olarak ele alır. Legion'ın bütünü **kayıt**, üyelerin en ünlü ikisi **kayıt** ve **kayıt**, Warmaster'ın kendisi **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/03/Luna_wolves_emblem_by_steel_serpent-d3acive.png/revision/latest?cb=20111005145101)
-
 ## Çemberin İşlevi: Warmaster'ın Vicdanı
 Mournival'ı anlamak için Horus'un komuta üslubunu hatırlamak gerekir. Kaynaklar onu, subaylarının adını bilen, meclislerde dinleyen ve kararlarını yalnız başına değil, güvendiği adamlarla tartışarak veren bir Primarch olarak çizer. Mournival bu tavrın kurumlaşmış hâliydi: Warmaster'ın masasında, ihtiyaç duyduğunda ona karşı çıkabilecek sesler bulunmalıydı. Romanlara göre çembere düşen görev, Horus'a doğruyu söylemek ve yanılabileceğini ona hatırlatmaktı.
 

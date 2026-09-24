@@ -11,5 +11,3 @@ Cato Sicarius, Ultramarines'in 2. Bölük (Second Company) kaptanı ve chapter'�
 Sicarius, savaş alanında gerçekten olağanüstüdür; stratejik dehası, cesareti ve liderliği sayısız zafer kazandırmıştır. Anavatanı Talassar'ı bir Necron istilasına karşı savundu ve "Master of the Watch" gibi prestijli unvanlar topladı. Birçok kişi onu, bir gün Ultramarines'in Chapter Master'ı (belki Marneus Calgar'ın halefi) olmaya en yakın aday olarak görür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/cc/Cato_Fall_of_Damnos.JPG)

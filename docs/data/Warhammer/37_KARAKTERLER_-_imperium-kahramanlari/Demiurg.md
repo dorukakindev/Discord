@@ -22,5 +22,3 @@ Eski T'au kaynakları Demiurg'u ayrı bir tür gibi sunar. *Codex: Leagues of Vo
 -# Kaynaklar: *Codex: Tau Empire*; *Codex: Leagues of Votann*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551759789988642876>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Demiurg_survey_glass.jpg/revision/latest?cb=20120918020001)

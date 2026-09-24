@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/74/Ignatum-Logo.jpg/revision/latest?cb=20200208082228
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/74/Ignatum-Logo.jpg/revision/latest?cb=20200208082228)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Legio Ignatum — Ates Yabanarilari

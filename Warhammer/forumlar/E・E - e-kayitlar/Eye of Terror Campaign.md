@@ -10,8 +10,6 @@ Etkinliğin önemi iki yönlüdür. Kampanya, 13th Black Crusade'i ilk kez büy�
 
 Bu kanal etkinliğin kendisine, işleyişine ve kanona etkisine odaklanır. Bölgenin evren içindeki doğası için <#1551813775848509482>, Abaddon'ın seferlerinin evren içi anlatısı için <#1551811393680838699> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/60/The_eye_of_Terror_2.jpg/revision/latest/scale-to-width-down/875?cb=20120917215958)
-
 ## Kampanyanın İşleyişi
 Kampanyanın temel fikri, oyuncuların masada oynadığı oyunları daha büyük bir tabloya bağlamaktı. Katılımcılar sonuçlarını çevrimiçi bir sistem üzerinden bildiriyor, bu sonuçlar da kabaca iki büyük tarafın hanesine yazılıyordu: bir yanda Imperium'un savunucuları, öbür yanda Chaos'un saldırganları. Xenos ordularının bu iki kutuplu tabloya nasıl yerleştirildiği ise kaynaklarda farklı biçimlerde özetlenir.
 

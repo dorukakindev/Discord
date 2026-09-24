@@ -11,8 +11,6 @@ Ansiklopedi açısından bu iki katmanı ayırmak gerekir. Kaynaklarda gözlemle
 ## Köken
 Aziz olarak anılmadan önceki hayatı kaynaklarda sınırlı biçimde anlatılır. Adepta Sororitas saflarından geldiği ve bir savaş alanında şehit düştüğü aktarılır; kuşandığı **Armour of Saint Katherine**, onu Katherine'in kurduğu Order of Our Martyred Lady'nin geleneğiyle ilişkilendirir. Doğum dünyası, Sororitas içindeki rütbesi ve ilk ölümünün tam koşulları farklı yayınlarda aynı ayrıntıyla verilmez; bu nedenle burada tek bir biyografi kesinmiş gibi sunulmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4d/SaintCelestine.jpg/revision/latest?cb=20180616201508)
-
 Kesin olan, Celestine'in ilk ölümünden sonra yeniden görüldüğü ve bu dönüşlerin tek seferlik bir mucize değil, farklı çağlara ve savaş alanlarına yayılan bir örüntü olarak kayda geçtiğidir. Imperial kronikler onu bu yüzden bir kişi olduğu kadar, tekrar eden bir alâmet olarak da anar.
 ---MSG---
 ## Living Saint Olgusu ve Geminae Superia

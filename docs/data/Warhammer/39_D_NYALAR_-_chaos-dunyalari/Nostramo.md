@@ -8,5 +8,3 @@ Nostramo, 40K'nın en karanlık primarch anavatanlarından biridir; sürekli gec
 Nostramo, sönmekte olan bir yıldızın çevresinde, kalıcı karanlık içinde yüzen bir madencilik dünyasıydı; yönetimi çökmüş, sokakları çetelerin, katillerin ve yozlaşmanın eline geçmişti. Bebek primarch Curze buraya düştüğünde, bu dehşetin ortasında, tek başına büyüdü. Gördüğü tek "adalet", korkuydu; bu yüzden bir vigilante, bir gece dehşeti oldu, suçluları akıl almaz vahşetle cezalandırıp cesetlerini sergileyerek tüm gezegeni dehşetle hizaya soktu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/1d/Galaxy_map_NOSTRAMO.jpg)

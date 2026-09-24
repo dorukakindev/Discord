@@ -26,8 +26,6 @@ Yalnızca noktalama veya yazım hatası düzeltmeleri toplu tek kayıt olarak gi
 - **Üslup / Biçim:** İçeriği değiştirmeyen dil veya Discord biçimi düzenlemesi.
 - **Yapısal:** Kanal adı, kategori veya çapraz bağlantı düzeni değişti.
 
----
-
 ## Kayıt Şablonu
 
 Her değişiklik için aşağıdaki şablon kopyalanıp doldurulur. Uzun ifadelerde yalnızca değişen cümle yazılır; tam sürümler taslak başlığında saklanır.
@@ -63,8 +61,6 @@ Her değişiklik için aşağıdaki şablon kopyalanıp doldurulur. Uzun ifadele
 
 Kayıt numaraları yıl bazında sıralı verilir ve yeniden kullanılmaz. Retcon kayıtlarında ilgili kanalın "Yayın ve Retcon Notu" bölümünün de güncellenip güncellenmediği belirtilir.
 
----
-
 ## Değişiklik Günlüğü: VI. Cilt Denetiminden Önceki Ciltlere Düzeltmeler (1/3)
 VI. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bulundu. IV. ve V. ciltlerin sonundaki listelere ek olarak bunları da uygulayın.
 
@@ -78,8 +74,6 @@ VI. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bu
 - **chaos-fraksiyonlari kaydı (Red Corsairs):** Kaydın sonunda başka bir kayıttan kaymış ikinci bir **Çapraz** satırı var; silinmeli.
 - **<#1551629143723081848> kaydı (V Legion):** Khan'ın Webway'de peşine düştüğü akıncılar "Aeldari" değil, **Drukhari** olarak yazılmalı. Diğer kanallarla aynı terim kullanılmalı.
 
----
-
 ## Değişiklik Günlüğü (2/3)
 **Temkinli dile çevrilmesi ya da uyumlu hâle getirilmesi gerekenler**
 - **<#1551629147695087659> kaydı (Red Scorpions):** Soy "bilinmiyor" deniyor; kaynaklar Chapter'ı sıkça Ultramarines'e bağlar ama tek sesle doğrulamaz (bkz. red-scorpions, VI. cilt). "Verant Ortys", "Zaebus Minoris" ve "Vigil" ayrıntıları doğrulanmadı.
@@ -90,8 +84,6 @@ VI. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bu
 - **blanks-pariahs kaydı:** "Pariah Nexus adı eski birimlere ya da blank'lere doğrudan bağlanmaz" hükmü fazla kesin; yumuşatılmalı.
 - **Siege of Vraks ile Red Corsairs:** Vraks kanalları (813–830.M41) Red Corsairs'i kuşatmada gösterir, oysa Chapter Badab War'dan (901–912.M41) sonra doğar. Bu, Forge World kaynaklarının kendi içindeki bir gerilimdir. siege-of-vraks, death-korps-of-krieg ve <#1551629181971079290> kaydına bu not eklenmeli (bkz. red-corsairs).
 - **battle-of-tallarn (IV. cilt):** "Eski kaynaklar Tallarn'ı yalnızca çöl dünyası olarak anardı" ifadesi temkinli yazılmalı.
-
----
 
 ## Değişiklik Günlüğü (3/3)
 **Yazım ve üslup**
@@ -108,8 +100,6 @@ VI. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bu
 - *Codex: Leagues of Votann — 10th Edition* ve *Codex: Drukhari — 10th Edition* başlıkları.
 - Forge world kişiliklerinin 2015 Skitarii ve Cult Mechanicus kitaplarıyla "geldiği" ifadesi (<#1551809095655493743>, metalica).
 
----
-
 -# THE IMPERIAL ARCHIVE
 ## Günlük — Büyük Migrasyon
 
@@ -121,8 +111,6 @@ VI. cilt yazılırken ve denetlenirken önceki ciltlerde aşağıdaki hatalar bu
 - Karşılama ekranı (Welcome Screen) etkin; baslangic kanalına Okuma Yolu eklendi
 - 19 yeni kayıt: Yarrick, Macharius, Baneblade, Leman Russ, Titus, Blank, Perpetual, Gaunt'un Hayaletleri, Tanith, Cadian, Catachan, Krieg, Kasrkin, Navigator, Astropath, Armageddon üçlemesi, Infinite and the Divine
 - Kanal sayısı 500 → ~156; gelecek ciltlere ~340 slot açıldı
-
----
 
 -# 22.09.2026 · Kalite Güvence Turu
 **Yapılan işler:**

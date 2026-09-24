@@ -11,8 +11,6 @@ Bu gösterişin altında bir utanç yatar. Horus Heresy sırasında Vostroya, Im
 ## Vostroya
 Vostroya, bacalarının dumanı gökyüzünü karartan manufactorum'larla kaplı, iklimi sert ve soğuk bir dünyadır. Gezegenin hayatı üretim etrafında döner; fabrikalar, dökümhaneler ve atölyeler, halkın büyük kısmının doğduğu, çalıştığı ve öldüğü yerlerdir. Vostroya'nın yönetimi Adeptus Mechanicus'la iç içe geçmiştir; dünyanın hem sanayi gücünü hem de Heresy'deki tutumunu anlamak için bu yakınlığı akılda tutmak gerekir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/13/Vostroyan_soldier.jpg/revision/latest?cb=20120710053054)
-
 Vostroya'nın ürettiği silahlar, zırhlar ve teçhizat, Imperium'un savaş makinesine akar. Bu yüzden Vostroya, Imperium'a iki şey birden verir: fabrikalarının ürünlerini ve ailelerinin ilk evlatlarını.
 ---MSG---
 ## Kökenler: Heresy'deki Ret

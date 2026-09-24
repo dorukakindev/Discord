@@ -11,5 +11,3 @@ Wraithlord, Aeldari'nin (Eldar) en hüzünlü ve en güçlü savaş makinelerind
 Wraithlord, devasa, insansı bir yürüteçtir; içindeki ölü kahramanın ruhu, onu hareket ettiren bilinçtir. Ama ölü bir ruh, gerçek dünyaya tam bağlı değildir; bu yüzden bir Wraithlord, genellikle bir "Spiritseer" (ruh-kahini) tarafından yönlendirilir ve canlı tutulur. Bright lance, starcannon ve wraithbone yumruklarıyla hem uzaktan döver hem yakında parçalar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3f/WLArt.png)

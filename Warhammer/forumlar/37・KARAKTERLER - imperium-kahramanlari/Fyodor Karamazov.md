@@ -11,5 +11,3 @@ Fyodor Karamazov, "Salem Proctor'ın Pyrophant Yargıcı" olarak da anılan, Ord
 Katı bir Amalathian olan Karamazov, alışılmış biçimde Throne of Judgement (Yargı Tahtı) adlı yürüyen bir mekanik katedralin üzerinde oturarak yargılar ve savaşır; bu devasa makineyi, mahkeme oturumlarını kaydeden ve yargıladığı herkese kaçınılmaz suçluluk cezasını infaz eden servitor'lar işletir. Tahtının kendisi hem bir mahkeme, hem bir infaz platformu, hem de bir savaş makinesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b9/Karamazov_on_the_Throne_of_Judgement.jpg)

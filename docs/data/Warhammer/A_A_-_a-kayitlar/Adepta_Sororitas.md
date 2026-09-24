@@ -12,8 +12,6 @@ Kurum, Imperium tarihindeki en karanlık iç çöküşlerden birinin, Age of Apo
 
 Bugün Orders Militant, Ecclesiarchy'nin sahip olduğu en güçlü silahlı araç olmanın yanında Inquisition'ın Ordo Hereticus koluna Chamber Militant olarak hizmet eder; sapkınlık, cadılık ve isyanın bastırılmasında sıklıkla ilk safta yer alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Adeptus_Sororitas_Icon.jpg/revision/latest?cb=20110820063406)
-
 ## Kökenler: Age of Apostasy
 M36'da yaşanan Reign of Blood döneminde Administratum'un efendisi Goge Vandire, entrika ve tasfiyelerle Ecclesiarch makamını da ele geçirerek hem Administratum'un hem Ecclesiarchy'nin denetimini tek elde topladı. Bu eşi görülmemiş iktidar birikimi Imperium'u terör, tasfiye ve iç savaşa sürükledi; kayıtların bu dönemi anlatırken kullandığı dil bile, Imperium'un kendi kurumlarından ne denli korktuğunu ele verir.
 

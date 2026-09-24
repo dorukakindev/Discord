@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/77/TallarnBaneblade.JPG/revision/latest?cb=20110803071401
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Tallarn Desert Raiders — Tallarn
 

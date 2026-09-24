@@ -19,5 +19,3 @@ En çok, yangın çıkarmayı bir tutkuya dönüştürmüş Burna Boyz ile özde
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/Burna_%26_TAnk.png/revision/latest/scale-to-width-down/1000?cb=20140108014548)

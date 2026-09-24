@@ -8,5 +8,3 @@ Medusa (resmî adıyla Medusa IV), Iron Hands chapter'ının ve kayıp primarch'
 Gezegenin en belirgin özelliği, jeolojik kararsızlığıdır; buzul sıradağları, volkanlar ve kaynayan gayzerler iç içe geçer ve manzara sürekli bir değişim halindedir. Tektonik plakaların hareketi durmadan yeni dağlar ve denizler oluşturur, yarattığı hızla da yok eder. Böyle bir dünyada kalıcı hiçbir şey inşa edilemez; istikrar bir lüks, değişim ise tek sabittir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f2/Medusa%27sFury.jpg)

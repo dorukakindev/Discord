@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest/scale-to-width-down/675?cb=20160525204059
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest/scale-to-width-down/675?cb=20160525204059)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Leman Russ — Kurt Kral

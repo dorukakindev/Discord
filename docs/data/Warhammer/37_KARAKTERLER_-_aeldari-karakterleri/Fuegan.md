@@ -11,5 +11,3 @@ Fuegan, "Yanan Mızrak" (the Burning Lance) olarak anılan, Fire Dragons (Ateş 
 Fuegan, ilk ve kurucu mezhep olan Asur Tapınağı'nda, Phoenix Lord geleneğinin atası Asurmen'in altında eğitim gördü; en eski Phoenix Lord kuşağındandır. Khaine'in yıkıcı ateş yönünü, körü körüne bir yok ediş değil, odaklanmış ve seçici bir imha disiplinine dönüştürdü; ona göre yerinde kullanılan yıkım, uyum getirebilirdi. Fire Dragons mezhebini bu felsefeyle kurdu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/27/FueganCCG.jpeg)

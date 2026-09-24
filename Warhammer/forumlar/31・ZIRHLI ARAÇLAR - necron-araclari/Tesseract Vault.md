@@ -11,5 +11,3 @@ Tesseract Vault, Necron teknolojisinin ve dehşetinin zirvelerinden biridir; dev
 Sıradan bir C'tan Shard, daha küçük bir Tesseract Labyrinth'te hapsedilebilir; ama Transcendent C'tan farklıdır. Bu varlık, düzinelerce, hatta yüzlerce küçük C'tan parçasının birleşmesinden doğan, akıl almaz boyutta ve iradede bir tanrıdır; bir Labyrinth'in boyutlar-arası kıvrımlarına sığmayacak kadar güçlüdür. İşte bu yüzden Tesseract Vault yapılmıştır; hem bir hapishane hem de bir güç-iletkeni olarak hizmet eder.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/49/VaultArt.jpg)

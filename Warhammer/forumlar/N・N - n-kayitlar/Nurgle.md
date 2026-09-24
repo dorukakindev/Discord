@@ -13,8 +13,6 @@ Kutsal sayısı yedidir. Üç daireden oluşan rün işareti ve sinek imgesi, ta
 **Kozmik yeri**
 Pantheon içinde Nurgle'ın doğal hasmı Tzeentch'tir. Tzeentch değişimi, umudu ve sürekli dönüşümü temsil ederken Nurgle, döngünün kaçınılmazlığını ve direnmenin anlamsızlığını temsil eder. Bu iki gücün çatışması, Chaos'un kendi içindeki çekişmeli dengenin en belirgin örneklerinden biridir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1a/MarkofNurgleBig.png/revision/latest?cb=20170908232551)
-
 ## Garden of Nurgle
 Nurgle'ın Warp'taki diyarı **Garden of Nurgle** olarak anılır. Burada çürüyen ağaçlar, iltihaplı çiçekler, küflü bataklıklar ve sinek sürüleri arasında, Nurgle'ın yıkık ve kararmış ahşaptan kurulmuş devasa malikânesi yükselir. Tanrının bu malikânenin derinliklerinde büyük bir kazanın başında, yeni hastalıklar kaynatarak ve onları ölümlü dünyaya salmak için sabırsızlanarak çalıştığı anlatılır. Her yeni salgın, onun gözünde bir babanın evlatlarına sunduğu hediyedir.
 

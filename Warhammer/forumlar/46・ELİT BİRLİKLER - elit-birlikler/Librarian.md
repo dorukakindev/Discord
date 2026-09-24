@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest/scale-to-width-down/679?cb=20130930181411
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest/scale-to-width-down/679?cb=20130930181411)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Librarian — Kütüphaneci, Astartes Psyker'ı

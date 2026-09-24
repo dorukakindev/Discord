@@ -9,5 +9,3 @@ Adeptus Astra Telepathica, İmparatorluğun psyker'larla (psişik güce sahip mu
 İşlevi, kasvetli bir biçimde başlar; "Black Ships" (Kara Gemiler) denen ürkütücü gemiler, galaksinin her dünyasında doğan psyker'ları toplar. Bu, ailelerden koparılan çocuklar için bir ölüm yolculuğudur. Toplananların büyük çoğunluğu Terra'ya getirilip Altın Taht'ı (Astronomican'ı) beslemek için İmparator'a kurban edilir; her gün binlerce ruh, insanlığın hayatta kalması için harcanır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5a/Telepathica.jpg)

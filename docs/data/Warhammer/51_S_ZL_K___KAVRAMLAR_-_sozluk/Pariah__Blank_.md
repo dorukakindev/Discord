@@ -11,5 +11,3 @@ Pariah (ya da Blank, "Boşluk"), psyker'ın tam zıttı olan son derece nadir bi
 Bir Pariah'ın varlığı, çevresindeki psişik gücü emer ve etkisiz kılar; bir psyker, bir Pariah'ın yanında büyü yapamaz, bir iblis ona yaklaşamaz. Bu, onları Kaos'a ve psişik tehditlere karşı paha biçilmez bir silah yapar. Ama aynı "boşluk", çevrelerindeki normal insanlarda açıklanamaz bir tiksinti, huzursuzluk ve korku yaratır; insanlar bir Pariah'ın yanında neden rahatsız olduklarını bilmeden ondan kaçar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/af/NecronPariah.JPG)

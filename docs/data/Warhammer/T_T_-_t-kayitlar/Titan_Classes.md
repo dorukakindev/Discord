@@ -95,5 +95,3 @@ Silah adları, silah düzenleri ve kimi sınıfların boyutları yayınlar aras�
 
 **Kaynaklar:** *Titanicus — Dan Abnett*; *Galaxy in Flames — Ben Counter*; *Titandeath — Guy Haley*; *Mechanicum — Graham McNeill*; *Adeptus Titanicus* (Games Workshop, 2018); *Codex: Adeptus Mechanicus*
 **Çapraz:** <#1551809313096474696>, <#1551753449878724689>, <#1551817917962780682>, <#1551650329156788287>, <#1551811854135722044>, <#1551818501625483265>, <#1551753465900961795>, <#1551816635839549491>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/47/The_pax_macharia_walks_by_columbussage.jpg/revision/latest/scale-to-width-down/545?cb=20120313041730)

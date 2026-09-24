@@ -11,8 +11,6 @@ Bu ayrım, kurumu anlamanın anahtarıdır. Yerel suçlar, gezegen yönetiminin 
 ## Kökenler
 Arbites'in kuruluşu tek bir tarihe bağlanmaz. Bazı kaynaklar, Great Crusade döneminde Imperium'a katılan dünyalara "yerel olmayan" meseleler için Imperial yasa görevlileri yerleştirildiğini ve kurumun kökünün bu uygulamaya uzandığını aktarır; ancak Heresy öncesi yapısı ayrıntılı biçimde anlatılmaz. Kesin olan, Arbites'in Heresy sonrası Imperium'un vazgeçilmez yönetim araçlarından biri hâline geldiğidir: valilere büyük özerklik tanıyan bir düzen, bu özerkliğin kötüye kullanılmasını denetleyecek bir göze de muhtaçtı. Arbites, Imperium'un kendi valilerine duyduğu güvensizliğin kurumsal biçimidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Arbites_Icon.jpg/revision/latest?cb=20150725004632)
-
 ## Yapı ve Organizasyon
 Kurumun başında Terra'daki **Hall of Judgement**'tan yönetim yapan **Grand Provost Marshal** bulunur. Bu makam kimi dönemlerde High Lords of Terra arasında sandalye sahibi olarak anılır; ancak konsey koltuklarının değişkenliği nedeniyle bunu her dönem için sabit saymamak gerekir. Onun altında, geniş bölgelerdeki precinct'leri denetleyen Marshal'lar ve yargı görevlileri yer alır.
 

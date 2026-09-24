@@ -19,5 +19,3 @@ Legion'lar Great Crusade boyunca bu tür gemilerle seferler yürüttü. Heresy'd
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Codex: Space Marines — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753431230971988>, <#1551808888666587197>, <#1551817319288676373>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8d/ImperialFistsBattleBarge.jpg/revision/latest?cb=20130918080231)

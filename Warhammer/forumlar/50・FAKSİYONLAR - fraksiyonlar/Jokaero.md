@@ -19,5 +19,3 @@ Bazı Inquisitor'lar Jokaero'ları retinue'lerinde "weaponsmith" olarak kullanm�
 -# Kaynaklar: *Codex: Grey Knights*
 
 -# İlişkili kayıtlar: <#1551809846066548779>, <#1551815304252887041>, <#1551753472070783096>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/95/Jokaero_Weaponsmith.jpg/revision/latest?cb=20111024035420)

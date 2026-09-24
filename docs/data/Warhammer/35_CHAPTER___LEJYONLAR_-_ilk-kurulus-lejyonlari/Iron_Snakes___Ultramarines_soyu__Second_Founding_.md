@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Iron_Snakes_SP2.png/revision/latest?cb=20170726153946
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Iron Snakes — Ultramarines soyu (Second Founding)
 

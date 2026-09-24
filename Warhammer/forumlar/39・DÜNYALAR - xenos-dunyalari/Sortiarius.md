@@ -20,8 +20,6 @@ Gezegenin kökeni, Prospero'nun yakılışına dayanır. Space Wolves Thousand S
 
 Sortiarius'a gelişlerinden kısa süre sonra, Thousand Sons Tzeentch'in "armağanı" olan mutasyon dalgasıyla yüzleşti; lejyon, akılsız Chaos Spawn'lara dönüşmenin eşiğine geldi. Buna dehşete kapılan Ahriman, gizli bir büyücü meclisiyle "Rubric of Ahriman" büyüsünü yaptı; bu büyü mutasyonu durdurdu, ama bedeli korkunçtu: büyücü olmayan kardeşlerinin çoğunu, zırhları içinde toz olan, ruhsuz otomatonlara (Rubric Marines) çevirdi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b8/Sortiarius.jpg/revision/latest/scale-to-width-down/900?cb=20170228022442)
-
 Sortiarius, görünmez büyülerle korunur; üzerine ateşlenen mermiler Warp'a emilir, lazerler zararsız ışığa dağılır, yörünge bombardımanları geri yansıtılır. Gezegen, 999.M41'de Fenris Sistemi Kuşatması'nı tamamlayan güçlü bir ritüelle kısmen gerçek uzaya geri döndü. Sortiarius, bilginin bedelinin ve Magnus'un trajik gururunun somut halidir; bir uygarlığın bilgisini kurtarmak uğruna ruhunu Tzeentch'e teslim ettiği, büyüyle örülmüş bir iblis-cennetidir.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

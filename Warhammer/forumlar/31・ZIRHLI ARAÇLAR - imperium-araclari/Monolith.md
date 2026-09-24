@@ -22,5 +22,3 @@ Kendini onaran living metal gövde, gauss silahları, ağır bir parçacık sila
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/de/Monolith20.JPG/revision/latest?cb=20150226012910)

@@ -9,5 +9,3 @@ Yaklaşık bir düzine geminin enkazından kaynaşmış devasa bir space hulk; i
 Bütünlüğün Ölümü (Death of Integrity), M39'da İmparatorluk'un karşılaştığı devasa bir space hulk'tur; neredeyse bir düzine farklı geminin enkazından kaynaşarak oluşmuş, gezgin bir mezarlık-yapıdır. Derinliklerine, kadim ve ileri bir yapay zeka olan Spirit of Eternity gömülüdür; bu YZ, M24'te Warp'a yaptığı bir yolculukta zamanın dışına savrulmuş, galaksinin doğuşuna ve evrenin sonuna tanık olmuştur.\n\nHulk, Genestealer'larla ağır biçimde istila edilmişti ve bu, onu hem ölümcül bir tehdit hem de değerli bir hedef yapıyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/c/ce/CitationIssueMarkerEnd.png/60px-CitationIssueMarkerEnd.png)

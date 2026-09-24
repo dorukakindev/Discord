@@ -7,4 +7,6 @@ Incubi'lerin iki elli tören kılıcı; her biri bir tapınakta kutsanır ve dö
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/d/d7/DarkEldar.png/38px-DarkEldar.png)
+## Teknik ve Kullanım
+
+Incubi'lerin iki elli tören kılıcı; her biri bir tapınakta ayrı ayrı dövülmüş ve içine bir ruh taşı yerleştirilmiş karametal bıçaktır. Kesici kenarı disjunction alanıyla kaplıdır — power armour'u ipek gibi keser. Incubi geleneğinde klaive'ın taşınması ustalık ve şeref işaretidir; Kaballi savaşçıların en saygın silahı. Arena dövüşünün ritüel silahı olarak savaş alanında da ritüel korunur.

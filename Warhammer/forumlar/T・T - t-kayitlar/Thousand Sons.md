@@ -13,8 +13,6 @@ XV. Legion'ın gene-seed'i, olağanüstü bir psişik potansiyelle birlikte kork
 
 Primarch **Magnus**, psykerlerin zulümden kaçarak kurduğu bilgin kolonisi **Prospero**'da büyüdü. Emperor'la buluşmasının ardından Legion'ın başına geçen Magnus, flesh-change'i durdurmayı başardı. *A Thousand Sons* romanı bu kurtuluşun bedelini açıkça ima eder: Magnus, oğullarını kurtarmak için Warp'taki bir güçle, sonraki olaylar ışığında Tzeentch olduğu anlaşılan bir varlıkla pazarlık etmişti. Legion bundan sonra Prospero'dan, psişik yeteneği olan adaylardan beslendi; başkenti **Tizca** olan bu dünya Legion'ın yurdu oldu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/81/Thousand_Sons_Post-Heresy_Armorial.png/revision/latest?cb=20210415205803)
-
 ## Great Crusade: Bilginin Legion'ı
 Magnus'un önderliğinde Legion, Warp'ı bir bilim nesnesi gibi incelemeye koyuldu. Savaşçılar, psişik disiplinlere göre **Cult** (Fellowship) adı verilen topluluklara ayrıldı: kehanet ve geleceği okuma üzerine yoğunlaşan **Corvidae**, beden ve biyomansi üzerinde çalışan **Pavoni**, telekinezi uzmanı **Raptora**, ateşe hükmeden **Pyrae** ve telepatların oluşturduğu **Athanaeans**. Legion'ın Chief Librarian'ı **Ahzek Ahriman**, Corvidae'nin başında Magnus'un en yakın öğrencisi ve danışmanıydı.
 

@@ -64,5 +64,3 @@ Ailenin sınırlarının bugüne dek kesinleşmemesi bir eksiklik sayılmamalı;
 
 **Kaynaklar:** *Codex Supplement: Dark Angels — 10th Edition*; *Codex: Dark Angels*; *Angels of Darkness — Gav Thorpe*; *The Lion: Son of the Forest — Mike Brooks*
 **Çapraz:** <#1551813077991686208>, <#1551809277692215330>, <#1551816136679751721>, second-founding, <#1551812677507096647>, <#1551640173442502677>, <#1551812532409466901>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9c/DAB3.jpg/revision/latest?cb=20160103051635)

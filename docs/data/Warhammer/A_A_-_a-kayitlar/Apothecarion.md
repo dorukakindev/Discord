@@ -12,8 +12,6 @@ Asıl kutsal görev ise ölümden sonra başlar. Apothecary, **reductor** adı v
 
 Fortress-monastery'de Apothecarion, Neophyte'lara organların aşamalı biçimde yerleştirilmesini yürütür, gene-seed stoklarını sapma, mutasyon ve bozulma belirtilerine karşı izler ve Chapter'ın biyolojik sağlığına dair en ayrıntılı kayıtları tutar. Pek çok Chapter'da Apothecary'ler beyaz zırh ya da beyaz işaretlerle ayırt edilir; bu gelenek evrensel değildir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Apothecaries_RT_era.jpg/revision/latest/scale-to-width-down/705?cb=20130915024113)
-
 ## Tarihçe ve Chapter'lar Arası Farklar
 Apothecarion'lar Legion çağında da vardı ve Legion'larla birlikte büyüdü. Bu kurumun karanlık yüzü, Emperor's Children'ın Chief Apothecary'si **Fabius**'un hikâyesinde görülür: Legion'unun gene-seed'i üzerinde yürüttüğü deneyler Heresy boyunca giderek sapkın bir et işçiliğine dönüştü ve onu, bugün Fabius Bile adıyla anılan, Imperium'un en nefret ettiği genetik zanaatkârlardan biri yaptı. Bu örnek, gene-seed üzerindeki yetkinin ne denli tehlikeli olabileceğini gösterir.
 

@@ -13,8 +13,6 @@ Segmentum'un **Segmentum Fortress**'i **Bakka**'dır. Bölgenin kesin sınırlar
 ## Bakka ve Donanma
 Segmentum Fortress kavramı, bir Segmentum'un askerî ve lojistik merkezini ifade eder: bölgenin Imperial Navy filolarının karargâhı, tersaneleri ve ikmal düğümü bu dünyada toplanır. Bakka da Tempestus için bu rolü üstlenir ve bölgenin donanması, Battlefleet Tempestus, bu kale-dünyaya bağlı olarak anılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Segmentum_tempestus.jpg/revision/latest?cb=20120406181603)
-
 Bir Segmentum kalesinin işlevi yalnızca kendi bölgesini savunmak değildir. Imperium'un büyük krizlerinde bu merkezler, filoların ve takviyelerin başka Segmentum'lara aktarıldığı düğüm noktaları hâline gelir; bir cephenin kaderi çoğu zaman yüzlerce ışık yılı uzaktaki bir kaleden yola çıkan gemilerin zamanında gelip gelmemesine bağlıdır. Bakka'nın bu türden belirli seferlerdeki rolü ise yayınlarda tutarlı ve ayrıntılı bir biçimde anlatılmaz.
 
 Bakka'nın yüzeyi, yönetimi, nüfusu ya da tarihine dair ayrıntılı bir portre, Hydraphur için Matthew Farrer'ın romanlarında bulunana benzer biçimde, bilinen yayınlarda yer almaz. Bu yüzden arşiv Bakka'yı yalnızca kaynakların doğruladığı kimliğiyle kaydeder: Segmentum Tempestus'un kalesi ve donanma merkezi.

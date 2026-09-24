@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest?cb=20170813040332
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest?cb=20170813040332)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Black Legion — Kara Lejyon (XVI. Lejyon)

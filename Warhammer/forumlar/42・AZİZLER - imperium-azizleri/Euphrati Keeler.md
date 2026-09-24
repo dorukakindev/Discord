@@ -19,5 +19,3 @@ Imperial Truth'un tanrıları reddettiği bir çağda Emperor'a iman etmeye baş
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *Galaxy in Flames — Ben Counter*; *The Flight of the Eisenstein — James Swallow*
 
 -# İlişkili kayıtlar: <#1551813713403580438>, <#1551651549804236801>, <#1551814951365115956>, <#1551814367203303506>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Euphrati_KeelerSiege.jpg/revision/latest/scale-to-width-down/619?cb=20200709011421)

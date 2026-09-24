@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/8e/JaghataiKhanPencil.jpg/revision/latest/scale-to-width-down/871?cb=20190325202836
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8e/JaghataiKhanPencil.jpg/revision/latest/scale-to-width-down/871?cb=20190325202836)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Jaghatai Khan — Warhawk

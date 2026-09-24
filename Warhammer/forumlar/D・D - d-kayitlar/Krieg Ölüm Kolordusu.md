@@ -17,5 +17,3 @@ Gaz maskesi + uzun palto görüntüsü, ölüm kültü, amansız siper doktrini;
 -# Kaynaklar: Imperial Armour: Siege of Vraks
 
 -# İlişkili kayıtlar: `astra-militarum`, `vraks`, `leman-russ-tank`, `cadian`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest/scale-to-width-down/1000?cb=20120626222205)

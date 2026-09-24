@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/8c/SoS_Icon.jpg/revision/latest?cb=20170327223644
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8c/SoS_Icon.jpg/revision/latest?cb=20170327223644)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Sisters of Silence — Sessizlik Kız Kardeşleri, Ruhsuz Avcılar

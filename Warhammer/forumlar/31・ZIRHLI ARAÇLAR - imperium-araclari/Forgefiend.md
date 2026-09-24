@@ -21,6 +21,4 @@ Gövdeye kaynaşmış hades autocannon'lar ya da ectoplasma cannon'lar. Makineni
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714702705561620>, <#1551714726583607336>, <#1551714756161703968>, <#1551588074331447346>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c0/Forgefiend01.jpg/revision/latest?cb=20130316224413)
+-# İlişkili kayıtlar: <#1551812225570836561>, <#1551650329156788287>, <#1552482861872062494>, <#1551809666454134928>

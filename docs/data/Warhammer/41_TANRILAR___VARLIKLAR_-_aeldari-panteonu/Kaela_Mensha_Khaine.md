@@ -9,5 +9,3 @@ Kaela Mensha Khaine, Aeldari panteonunun savaş ve katliam tanrısıdır; "Kanl�
 Düşüş felaketinde (Slaanesh'in doğuşu), Aeldari panteonunun çoğu yok oldu; ama Khaine, Slaanesh ile giriştiği büyük savaşta parçalansa da tamamen yok edilmedi. Tanrının kanlı bedeni binlerce parçaya bölündü ve her parça, bir Craftworld'ün kalbinde uyuyan demir bir Avatar haline geldi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/7d/KhaineTheDestroyer.png)

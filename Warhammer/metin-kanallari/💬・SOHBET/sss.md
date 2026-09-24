@@ -9,8 +9,6 @@ The Imperial Archive, Warhammer 40,000 evrenini Türkçe okumak için hazırlanm
 ## Kayıtlar neye dayanıyor?
 Her maddenin sonundaki **Kaynaklar:** satırı kullanılan resmî yayınları (codex, roman, kural kitabı) gösterir. Ayrıntı için <#1551587905703649300>.
 
----
-
 ## Neden yazamıyorum?
 Arşiv bölümleri bilinçli olarak salt-okunurdur; kayıt bütünlüğünü korumak için yalnızca küratörler yazar. Sohbet için <#1551676211409715290> açıktır.
 

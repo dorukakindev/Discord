@@ -13,8 +13,6 @@ Primarch **Fulgrim**, zorlu bir sanayi ve maden dünyası olan **Chemos**'ta bü
 
 Emperor, Legion'a **Palatine Aquila**'yı, yani kendi imparatorluk kartalını zırhlarında taşıma ayrıcalığını tanıdı; "Emperor's Children" adı da bu yakınlığın ifadesi oldu. Bu onur, Legion'ın kimliğini tek bir düşünce etrafında sabitledi: babalarının adına layık olmak için her alanda kusursuz olmak. Neredeyse yok olmuş bir Legion'ın bu özel ilgiye mazhar olması, gururunu hem besledi hem de kırılgan kıldı.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/64/III_Legion_Pad.jpg)
-
 ## Great Crusade: Kusursuzluğun Bedeli
 Fulgrim'in önderliğinde Emperor's Children, savaşı bir sanat gibi icra etmeye çalıştı. Legion'ın savaşçıları kılıç ustalığından strateji kuramlarına, müzikten estetiğe kadar her alanda mükemmellik peşindeydi. Fulgrim'in en yakın kardeşlik bağlarından biri Iron Hands'in Primarch'ı **Ferrus Manus**'la kuruldu; ikisinin birbirine silah dövdüğü dostluk, sonradan Heresy'nin en acı hikâyelerinden birine dönüşecekti.
 

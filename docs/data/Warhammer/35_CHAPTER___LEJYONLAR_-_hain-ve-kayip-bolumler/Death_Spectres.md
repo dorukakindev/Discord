@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Death_Spectres_Livery.jpg/revision/latest?cb=20150902183958
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Death_Spectres_Livery.jpg/revision/latest?cb=20150902183958)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Death Spectres — Ölüm Hayaletleri

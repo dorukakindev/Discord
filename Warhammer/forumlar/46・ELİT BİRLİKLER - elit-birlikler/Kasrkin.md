@@ -19,5 +19,3 @@ Kasrkin, Cadia'nın kale-şehirlerinin savunmasında ve Eye of Terror'dan taşan
 -# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *Cadia Stands — Justin D. Hill*; *Cadian Honour — Justin D. Hill*
 
 -# İlişkili kayıtlar: <#1551812139935866891>, <#1551753458779029565>, <#1551813775848509482>, <#1551811393680838699>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Kasrkin_hvy_plasma.jpg/revision/latest/scale-to-width-down/578?cb=20130601200056)

@@ -11,5 +11,3 @@ House Raven (Raven Hanedanı), Adeptus Mechanicus'a bağlı (Questor Mechanicus)
 Questor Mechanicus haneleri, Adeptus Mechanicus ile derin ve simbiyotik bir ilişki içindedir; karşılığında ileri teknoloji, nadir Knight varyantları ve Mechanicus'un desteğini alırlar, ama aynı zamanda Makine Kültü'nün dini-teknolojik dünyasına da daha yakındırlar. House Raven, bu ilişkinin en gelişmiş örneklerinden biridir; diğer hanelerin sahip olmadığı, daha gelişmiş ve nadir savaş makinelerine erişimleri vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/92/HouseRavenKnight.jpg)

@@ -10,8 +10,6 @@ Legion'un bugünkü kimliği, bir ordudan çok bir kiliseye benzer. Savaş, onla
 
 Bu kanal Legion'un teolojisini ve tarihini merkeze alır. Chaos'un genel doğası <#1551812165172994160>, Imperial dinin kurumsal yapısı <#1551651549804236801> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/66/WordBearersArmourial.png/revision/latest?cb=20170813043044)
-
 ## Kökenler: Colchis ve Monarchia
 Lorgar'ın düştüğü dünya Colchis, Covenant adıyla bilinen katı bir rahip sınıfının yönettiği dindar bir gezegendi. Primarch'ı bulup büyüten ve onun akıl hocası olan rahip Kor Phaeron, ileride Legion'un en karanlık figürlerinden biri olacaktı. Lorgar, gençliğinde gördüğü altın bir tanrı vizyonlarına dayanarak Covenant'a karşı bir inanç savaşı başlattı ve Colchis'in hâkimi oldu. Emperor geldiğinde Lorgar onu bu vizyonların gerçekleşmesi, yani yeryüzüne inmiş bir tanrı olarak karşıladı.
 

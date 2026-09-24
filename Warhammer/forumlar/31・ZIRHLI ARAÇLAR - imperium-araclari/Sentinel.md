@@ -11,5 +11,3 @@ Sentinel, İmparatorluk Muhafızı'nın en yaygın ve en çok yönlü hafif sava
 Sentinel'in en büyük gücü, arazi yetenekindedir; iki bacağı sayesinde, tekerlekli ya da paletli araçların geçemeyeceği bataklıkları, ormanları, harabeleri ve dik yamaçları aşabilir. Bu, onu mükemmel bir keşif aracı yapar; düşman hatlarının önünde ilerler, tehlikeleri tespit eder ve ana kuvvete bilgi sağlar. Aynı zamanda piyade kanatlarını korur ve ani ateş desteği verir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5e/IG5ESentinel.jpg)

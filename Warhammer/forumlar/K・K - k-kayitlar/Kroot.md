@@ -10,8 +10,6 @@ Kroot'u tanımlayan temel özellik, yedikleri canlılardan genetik özellikler e
 
 Imperium'un gözünde Kroot, yamyamlıkları nedeniyle özellikle ürkütücüdür. Kroot'un kendi bakışında ise bu, türün geleceğini şekillendiren kutsal ve pratik bir sorumluluktur; bu nedenle ne tür bir etin yeneceği rastgele değildir, bilinçli bir seçimdir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Kroot2.jpg/revision/latest?cb=20100706070107)
-
 ## Biyoloji, Shaper'lar ve Kindred'ler
 Kroot toplumunda bu genetik yolculuğu yöneten kişiler **Shaper**'lardır. Bir Shaper, hangi türün etinin topluluğu güçlendireceğine, hangisinin zarar vereceğine karar verir; kindred'in liderliği, savaş kararları ve kültürel belleği de büyük ölçüde onun elindedir. Yanlış bir beslenme seçiminin bir soyu çıkmaza sokabileceği Kroot'un kendi tarihinden bilinen bir gerçektir.
 

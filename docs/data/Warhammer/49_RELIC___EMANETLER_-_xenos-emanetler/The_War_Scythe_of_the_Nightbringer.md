@@ -9,5 +9,3 @@ The War Scythe of the Nightbringer (Nightbringer'ın Savaş Tırpanı), sıradan
 Nightbringer, C'tan denen kadim yıldız tanrılarının en korkuncudur; galaksinin gençliğinde tüm ölümlü ırkları dolaşıp onların kolektif bilincine ölüm korkusunu derin biçimde kazıyan varlıktır. Onun taşıdığı tırpan, bu rolün somut bir parçasıdır; birbirinden bağımsız evrilmiş sayısız ırkın ölümü neden oraklı, kemikten bir biçici (the Grim Reaper) olarak hayal ettiğinin nedeni, doğrudan bu varlık ve onun silahıdır. İmgelem bile ondan korkar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Img011.jpg/revision/latest?cb=20121231054919)

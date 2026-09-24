@@ -20,8 +20,6 @@ Kurum, **Unification Wars** (Birleştirme Savaşları) dönemine kadar uzanır �
 
 ## Genel Bakış
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Assassinorum_Icon.jpg/revision/latest?cb=20140526093223)
-
 Officio Assassinorum'un başı, **Grand Master of Assassins** (Suikastçıların Büyük Ustası) unvanını taşır. Bu kişi, organizasyonun gücü ve geleneği gereği, her zaman **Senatorum Imperialis** (İmparatorluk Senatosu) üyesidir. Ancak Grand Master organizasyonu denetlerken, suikastçı gönderebilmek için **Senatorum**'un yetkilendirmesini almak zorundadır. Tek bir suikastçı gönderebilmek için **High Lords** (Yüksek Lordlar)'ın üçte ikisinin çoğunluk onayı gerekir. Bu, Officio'nun kontrolsüz güç kullanmasını engellemek için var olan bir mekanizmadır — ama aynı zamanda High Lords'un kendi siyasi rakiplerini ortadan kaldırmak için bu gücü nasıl kullanabileceğini de gösterir.
 
 Kurum, **Inquisition** kadar gizlidir — ki bu zaten çok gizli bir kurum olduğu düşünülürse, Officio Assassinorum'un ne kadar kapalı bir kutu olduğunu anlamak kolaydır. Bu iki organizasyonun yakın çalıştığı bilinir; birbirlerine suikastçı ve ajan sağlarlar. Officio Assassinorum'un varlığı, İmparatorluğun belirli çevrelerince bilinir — özellikle **deneyimli paralı askerler**, **belirli Imperial Guard birlikleri**, **Adeptus Mechanicus üyeleri** ve **gezegen valileri veya soylular**. Ancak ortalama bir İmparatorluk vatandaşı veya Imperial Guard eri için Officio Assassinorum, yaramaz çocukları korkutmak için anlatılan bir **karanlık masal**dan ibarettir. Çoğu sıradan insan veya asker, bir "Suikastçı"nın fısıltısını duyduğunda bunu **"böcek adam" hakkında uydurma bir söylenti** olarak bir kenara atar.

@@ -10,8 +10,6 @@ Necron soylularının çoğu galaksiyi yeniden fethetmek, eski mülklerini geri 
 
 Kültlerin başında **Destroyer Lord**'lar görülür. Bunlar takıntıya kapılmış soylulardır ve kişiliklerinin bir kısmını korudukları için, sıradan bir Destroyer'ın körlemesine öfkesini bir amaca, bir savaş planına yöneltebilirler. Bu kanal kültlerin kendisini ele alır; Necron toplumu genel olarak <#1551759762193121282>, hanedan siyaseti <#1551817348900589669> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3c/NekrosorAmmentar1.jpg/revision/latest/scale-to-width-down/457?cb=20260107160805)
-
 ## Kökenler ve Psikoloji
 Destroyer takıntısının nereden doğduğu yayımlanmış kanonda tek bir nedene bağlanmaz. Kaynaklar biotransference'ın bıraktığı yarayı, ruhun büyük kısmının yitirilmesiyle gelen boşluğu ve Great Sleep'in zihinlerde açtığı çatlakları bu sapmanın zemini olarak işaret eder. Uyanan kimi Necron'lar için yaşayan her şey, kendilerinden alınmış olanın dayanılmaz bir hatırlatıcısıdır; yaşamı yok etmek, bu hatırlatıcıyı susturmanın tek yolu gibi görünür. Bu okuma kaynakların önerdiği bir çerçevedir, kesin bir mekanizma değildir.
 

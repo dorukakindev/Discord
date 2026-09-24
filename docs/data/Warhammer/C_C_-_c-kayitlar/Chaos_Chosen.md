@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Chaos_Chosen.png/revision/latest?cb=20200408192912
+
 -# THE IMPERIAL ARCHIVE · C Kayıtları · Kayıt
 # Chaos Chosen
 

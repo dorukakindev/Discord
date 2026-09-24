@@ -11,5 +11,3 @@ White Scars, primarch'ları Jaghatai Khan'ın anavatanı Chogoris'in (Mundus Pla
 Diğer chapter'lar ve sıradan İmparatorluk birlikleri onları çoğu zaman yanlış anlar; barbar, mesafeli ve gizemli sanılırlar. Ama bu yüzeyin altında hem ölümcül bir savaşçı hem de derin bir şair-filozof kültürü yatar; Chogoris geleneği, savaşı bir sanat ve onuru bir yaşam biçimi olarak görür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b0/Alekh_Daumas.jpg)

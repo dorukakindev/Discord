@@ -11,5 +11,3 @@ Lady Malys (gerçek adı Aurelia Malys), Commorragh'ın en zeki ve siyasi olarak
 Yükselişinden önce, Commorragh'ın Yüce Efendisi Asdrubael Vect'in metresiydi; o zaman bile olağanüstü zekâsıyla Vect'in iç çevresinde sivrilmişti. Ama Vect, kendisine entelektüel olarak denk bir metres olmasından sıkıldı (kibirli bir efendi için ender bir itiraf) ve onu sarayından sürdü. Onu etkisizleştirmesi gereken bu sürgün, tersine, varoluşunun dönüm noktasını tetikledi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/1b/AureliaMalys.jpg)

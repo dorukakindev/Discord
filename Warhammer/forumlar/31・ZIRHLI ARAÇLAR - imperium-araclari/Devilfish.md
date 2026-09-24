@@ -19,5 +19,3 @@ Devilfish, T'au kuvvetlerinin standart taşıyıcısı olarak Fire caste harekâ
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Devilfish_dex.JPG/revision/latest?cb=20121103010613)

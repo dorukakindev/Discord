@@ -11,5 +11,3 @@ Blood Ravens, 40K'nın en gizemli chapter'larından biridir; çünkü hangi prim
 En belirgin özellikleri, sıra dışı biçimde yüksek sayıda psyker (Librarian) barındırmaları ve bilgiye duydukları doyumsuz açlıktır; "Bilgi Güçtür, Onu Koru" (Knowledge is Power, Guard it Well) sözü onların özüdür. Kütüphanelerini, relikt ve artefakt koleksiyonlarını takıntılı bir biçimde büyütürler; çoğu zaman bir savaşın ganimeti, onlar için zaferin kendisinden daha değerlidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/ba/Blood_Raven.JPG)

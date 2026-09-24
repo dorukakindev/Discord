@@ -9,5 +9,3 @@ Alpharius, tüm Primarch'ların en gizemlisidir ve en büyük sırrı şudur: as
 İmparator tarafından bulunan son Primarch oydu ve diğer kardeşleri gibi açıkça öne çıkmak yerine gölgede, casusluk, sızma ve sabotaj üzerine uzmanlaştı. Alpha Legion, açık savaştan çok ağ kurmayı, içeriden çökertmeyi ve düşmanı kendi içinde bölmeyi tercih ederdi; her lejyoner bir ajan gibi düşünmeye eğitilmişti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/41/AlphariusFull.jpg)

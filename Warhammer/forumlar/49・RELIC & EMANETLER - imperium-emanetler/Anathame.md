@@ -19,5 +19,3 @@ Horus Heresy'nin kıvılcımlarından biri sayılan bıçaktır. Warp varlıklar
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *False Gods — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551650246508150857>, <#1551814951365115956>, <#1551638953101365340>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Erebus_Kinebrach_Anathame.jpg/revision/latest?cb=20130125094705)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4f/Marneus_Calgar_by_Karl_Kopinski.jpg/revision/latest?cb=20100718212449
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 # Chapter Master Tu'Shan
 

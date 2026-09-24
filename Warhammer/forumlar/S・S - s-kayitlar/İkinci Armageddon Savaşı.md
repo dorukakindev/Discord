@@ -17,5 +17,3 @@ Yarrick'in kol kaybı ve efsanesi; Ork Rok Drop kullanımı; Dante, Tu'Shan ve H
 -# Kaynaklar: Codex: Armageddon, Warhammer 40,000 kampanya kitapları
 
 -# İlişkili kayıtlar: `ghazghkull`, `commissar-yarrick`, `first-war-for-armageddon`, `third-war-for-armageddon`, `armageddon`, `salamanders`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Armageddon_Steel_Legion_Warboss_Thraka.jpg/revision/latest/scale-to-width-down/1000?cb=20130206020302)

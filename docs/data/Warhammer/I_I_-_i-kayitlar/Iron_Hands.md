@@ -13,8 +13,6 @@ Emperor Medusa'ya ulaştığında, rivayete göre Ferrus'la bir sınamaya giriş
 
 Ferrus'un Primarch kardeşleri arasındaki en belirgin bağı Fulgrim'le olan dostluğuydu. Kaynaklara göre iki Primarch zanaatta birbirleriyle yarışarak birbirlerine silah dövdüler: Ferrus, Fulgrim için **Fireblade**'i, Fulgrim ise Ferrus için **Forgebreaker** çekicini yaptı. Bu dostluk, Heresy'nin en acı ihanetlerinden birine sahne olacaktı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452)
-
 ## Horus Heresy
 Istvaan III'teki ihanetin ardından Iron Hands, Salamanders ve Raven Guard ile birlikte isyanı bastırmak üzere Istvaan V'e inen ilk dalganın parçasıydı. Ferrus, Fulgrim'in kendisine katılma teklifini öfkeyle reddetmiş ve Emperor's Children'la hesaplaşmak için sabırsızlanıyordu. Drop Site Massacre'da hainlerin ikinci dalgası da Horus'un safında olduğunu açık edip ateş açtığında Ferrus çoktan Morlocks muhafızlarıyla birlikte Fulgrim'e doğru ilerlemişti. Graham McNeill'in *Fulgrim* romanında anlatılan yüzleşmede Ferrus, bir daemon'un etkisindeki kılıcı taşıyan eski dostunun eliyle başı kesilerek öldürüldü.
 

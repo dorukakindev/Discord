@@ -11,5 +11,3 @@ Cadia Şok Birlikleri, Imparatorluğun Göz Terror'a açılan kapısında, kale 
 Disiplinleri, sebatları ve tahkim edilmiş mevzileri tutma yetenekleriyle ün saldılar. Kara Haçlı Seferleri boyunca Cadia, Imparatorluğun ilk savunma hattı olarak durdu; Cadialı bir askerin teslim olmaktansa mevziisinde ölmesi beklenirdi. Bu yüzden bütün Astra Militarum, Cadia'nın talim el kitaplarına ve örgütlenme modeline göre biçimlendirildi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e8/Cadian_Officer.png)

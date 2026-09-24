@@ -10,8 +10,6 @@ Catachan alaylarını öteki geleneklerden ayıran, yurtlarının onlara verdiğ
 
 Bu kanal alay geleneğini, yani askerî kültürü, savaş tarzını ve adı bilinen figürleri merkeze alır. Dünyanın kendisi, ekosistemi ve halkı için <#1551644032688595056>, Guard'ın kurumsal yapısı için <#1551753458779029565> kanalına bakılmalıdır. Aynı konuların tekrarını önlemek için gezegenin doğası burada yalnızca alay kültürüne yansıdığı ölçüde anılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a2/CatachanMXIV.PNG/revision/latest?cb=20171013021210)
-
 ## Ormandan Alaya: Askerî Kültür
 Kaynaklarda Catachan alaylarının iç dünyası, Guard'ın tören, rütbe ve kâğıt üzerindeki doktrin geleneğinden belirgin biçimde ayrılır. Saygı unvanla değil hayatta kalma ustalığıyla kazanılır; bir subayın emirlerinin ağırlığı, askerlerinin onun deneyimine duyduğu güvenle ölçülür. Catachan subaylarının askerlerinin önünde savaşan, onların tehlikesini paylaşan önderler olarak anılması bu yüzden şaşırtıcı değildir. Masa başı komutanlık ve cepheden uzak generaller, Catachan anlatılarında çoğu zaman küçümsenen figürlerdir.
 
@@ -46,8 +44,6 @@ Catachan'ın en tanınmış komutanı **Colonel "Iron Hand" Straken**'dır. Kayn
 Straken, Catachan kültürünün kişileşmiş hâli gibi çizilir. Askerleriyle omuz omuza savaşan, onların arasında sert şakalarla dolaşan, cepheden uzak generalleri ve kâğıt üzerindeki planları küçümseyen bir önderdir. Kaynaklarda yaşlanmış bedenine ve yaralarına rağmen yakın dövüşten kaçmayan bir savaşçı olarak betimlenir; bu imge, Catachan alaylarında subaylığın kışlada değil cephede kazanılan bir saygınlık olduğunu vurgular.
 
 Onun ilişkileri de bu çerçevede anlatılır: askerleri tarafından sevilen, üst komuta tarafından çoğu zaman idare edilmesi zor bulunan bir subay. Toby Frost'un *Straken* romanı karakteri Black Library'de merkeze alarak Catachan komutasının zorluklarını ve Straken'ın liderlik tarzını daha ayrıntılı işler. Romanın olay örgüsünü burada özetlemek yerine şu not düşülebilir: Straken'ın hikâyesi büyük bir galaktik kahramanlık destanından çok, askerlerini yaşatmaya çalışan inatçı bir komutanın hikâyesidir.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/66/Catachan2.jpg/revision/latest?cb=20120406222234)
 
 ## Sly Marbo ve Öteki Adlar
 **Sly Marbo**, Catachan'ın en efsanevi ve en esrarengiz figürüdür. Kaynaklar onu "One-Man Army" diye anılan, tek başına düşman hatlarının ardında faaliyet gösteren, günler ya da haftalarca ortadan kaybolup sonra en beklenmedik anda yeniden beliren bir gerilla savaşçısı olarak anlatır. Zehirli bıçağı ve tabancasıyla düşman komutanlarını ortadan kaldırdığı, tek başına bütün birlikleri sarstığı söylenir.

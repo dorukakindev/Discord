@@ -10,8 +10,6 @@ Commissar'lar **Schola Progenium**'da yetişir. Imperial hizmette ölenlerin ök
 
 Kurumun kesin kuruluş tarihi kaynaklarda açıkça belirtilmez. Genel çerçeve, Heresy'de Imperial Army birliklerinin önemli bir kısmının Warmaster'a katılmasının ardından ordunun sadakatini içeriden denetleme ihtiyacına işaret eder. Bu nedenle Commissar, Imperium'un kendi askerlerine duyduğu kuşkunun üniformalı biçimi olarak da okunabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Commissar_Genera2.jpg/revision/latest/scale-to-width-down/1000?cb=20130302195137)
-
 ## Kültür ve Önemli Figürler
 Bir Commissar'ın işi yalnızca cezalandırmak değildir. Vaaz verir, *Imperial Infantryman's Uplifting Primer*'ın öğütlerini tekrarlatır, siperin en tehlikeli noktasında durarak örnek olur. İyi bir Commissar'ın en büyük silahı çoğu zaman tabancası değil, askerlerin gözünde kaçınılmaz bir otorite olarak görünmesidir. Kaynaklar, alayından korkulan ama saygı gören Commissar'lar kadar, gereksiz infazlarla birliğini çözen ya da kendi askerlerinin kurşunuyla ölen Commissar'lara da yer verir.
 

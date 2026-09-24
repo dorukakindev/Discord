@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Warp_Spiders_Aspect_Rune.jpg/revision/latest?cb=20121119045934
+
 -# THE IMPERIAL ARCHIVE · W Kayıtları · Kayıt
 # Warp Spiders
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/26/Shining_Spears_Rune.png/revision/latest?cb=20150505204409
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları · Kayıt
 # Shining Spears
 

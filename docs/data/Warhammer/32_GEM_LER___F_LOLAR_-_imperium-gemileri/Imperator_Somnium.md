@@ -1,5 +1,13 @@
-**Imperator Somnium**
+-# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
+
+# Imperator Somnium
+
 Büyük Sefer'in son yıllarında İmparator'un kullandığı, Terra'da inşa edilen eşsiz altın bir savaş gemisi; "İmparator'un Düşü" anlamına gelen, sadece üç Custodian ile işletilebilen kolosal amiral gemisi.
+
+- **Kategori:** Savaş gemisi
+- **Fraksiyon:** Imperium
+
+## Tarihçe
 
 Imperator Somnium, Büyük Sefer'in son yıllarında, geç 30. binyılda İmparator'un kullandığı eşsiz bir sancak gemisiydi; bizzat İmparator'un yönettiği 1. Sefer Filosu'nun, Principia Imperialis'in komuta gemisi olarak hizmet etti. Adı Latinceden kabaca "İmparator'un Düşü" olarak çevrilir.\n\nBu muazzam gemi, sınıfı bilinmeyen, benzersiz altın bir savaş gemisiydi ve o çağın en büyük İmparatorluk savaş gemilerini bile boyut ve ateş gücüyle gölgede bırakıyordu.
 

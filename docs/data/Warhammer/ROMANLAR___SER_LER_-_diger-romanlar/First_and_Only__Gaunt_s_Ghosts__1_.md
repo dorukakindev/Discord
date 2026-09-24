@@ -12,5 +12,3 @@ Gaunt'un 'The Sabbat' seçilmesi, Vermilion Conspiracy ve Dercius'un ihaneti; Gh
 -# Seri: Diğer Romanlar (Black Library)
 
 -# Kaynaklar: Black Library
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5c/FirstandOnlyCover.jpg/revision/latest?cb=20171226053857)

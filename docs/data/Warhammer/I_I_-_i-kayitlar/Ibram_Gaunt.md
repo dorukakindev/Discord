@@ -13,8 +13,6 @@ Gaunt'un babası, bir Imperial Guard subayı olan Dercius Gaunt'tur; babasının
 
 Sabbat Worlds Crusade'in kesin zaferlerinden biri olan **Balhaut** çarpışmasında gösterdiği başarı, Gaunt'un kariyerinin dönüm noktasıdır. Slaydo, Balhaut'un ardından ölürken Gaunt'a Tanith dünyasında kurulacak alayların komutasını bırakır. Bu armağan, kısa süre içinde onun hayatının en ağır yüküne dönüşecektir. Seferin genel çerçevesi için sabbat-worlds-crusade kanalına bakılmalıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Ibram_Gaunt-0.jpg/revision/latest/scale-to-width-down/724?cb=20171205193610)
-
 ## Tanith'in Düşüşü ve Ghosts'un Doğuşu
 Tanith, sisli ormanlarıyla bilinen bir orman dünyasıdır. Gaunt alay kurmak için oradayken Chaos kuvvetleri gezegene saldırır. Gaunt, yeni kurulan birliklerini savunmaya sürüp hepsini kaybetmek yerine, tahliye edilebilecek olanları alarak gezegeni terk etme kararını verir. Tanith yok olur; kurulması planlanan alaylardan geriye yalnızca biri kalır. **Tanith First and Only** adı bu yıkımdan gelir.
 

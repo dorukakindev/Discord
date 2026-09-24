@@ -11,8 +11,6 @@ Olayı en ayrıntılı işleyen kaynak Graham McNeill'in *A Thousand Sons* roman
 
 Bu kanal konseyi bir olay olarak ele alır. Magnus'un kişiliği <#1551816657691746335>, Legion'ın bütün tarihi <#1551809231580307517>, Prospero'nun yakılışı <#1551812119220064348>, psişik gücün genel doğası <#1551818131679215728> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Magnus_the_Red_Primarchs_coverart.png/revision/latest?cb=20161119115333)
-
 ## Arka Plan: Librarius Meselesi
 Great Crusade boyunca Legion'ların çoğu, saflarındaki psykerleri **Librarius** adı verilen yapılar içinde örgütledi. Bu Librarian'lar savaş alanında düşman zihinlerini okuyor, gelecek tehlikeleri seziyor ve Warp kaynaklı tehditlere karşı Legion'ı koruyordu. Ancak psişik gücün kaynağı bizzat Warp olduğundan, bu yeteneklerin sınırı ve bedeli hiçbir zaman üzerinde uzlaşılmış bir konu olmadı.
 

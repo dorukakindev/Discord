@@ -9,5 +9,3 @@ Guilliman'ın bir Kaos şampiyonundan geri aldığı, içlerine bolter gömülü
 The Gauntlets of Ultramar (Ultramar Eldivenleri), Ultramarines chapter'ının en kutsal silahlarından biridir; usta işçilikle dövülmüş, süslü omuz zırhları ve içlerine gömülü, bir storm bolter kadar ölümcül entegre boltergiller taşıyan bir çift devasa güç eldivenidir (power fist). Hem ezici bir silah hem de mutlak bir otorite simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b3/Gauntlets_of_ultramar.jpg/revision/latest?cb=20130322202129)

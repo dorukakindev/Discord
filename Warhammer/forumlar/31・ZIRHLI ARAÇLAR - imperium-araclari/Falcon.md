@@ -21,6 +21,4 @@ Wraithbone gövde, antigrav tahrik, taret ve gövde silahları, küçük bir ta�
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/21/Mymeara_Falcons_Battle.jpg/revision/latest/scale-to-width-down/1000?cb=20150403024932)
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>

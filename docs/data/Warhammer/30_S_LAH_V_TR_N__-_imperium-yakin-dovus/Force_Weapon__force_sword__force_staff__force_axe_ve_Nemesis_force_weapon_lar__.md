@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/Eldar_Warlock.jpg/revision/latest?cb=20120822071508
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Force Weapon (force sword, force staff, force axe ve Nemesis force weapon'ları)
 

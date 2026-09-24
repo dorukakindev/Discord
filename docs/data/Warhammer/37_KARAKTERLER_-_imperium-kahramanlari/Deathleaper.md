@@ -22,5 +22,3 @@ Kaynaklarda en bilinen vaka, Missionary World St Caspalen'de yaşanır: Deathlea
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551651549804236801>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/33/Deathleaper_updated.jpg/revision/latest/scale-to-width-down/735?cb=20140627220523)

@@ -9,8 +9,6 @@ The Imperial Archive, Warhammer 40,000 evreninin Türkçe ansiklopedik arşividi
 4. Sohbeti doğru kanalda tut: genel konuşma <#1551676211409715290>.
 5. Moderatör yönlendirmelerine uy.
 
----
-
 ## Arşiv Kullanımı
 - A–Z kanalları ve forumlar salt-okunurdur; kayıtlar küratörler tarafından yazılır.
 - Yanlış veya eksik bulduğun bir kaydı <#1551676211409715290> içinde bildirebilirsin.

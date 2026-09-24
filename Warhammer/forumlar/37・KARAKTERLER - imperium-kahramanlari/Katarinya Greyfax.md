@@ -11,5 +11,3 @@ Katarinya Greyfax, Ordo Hereticus'a bağlı katı bir Puritan Inquisitor'dır; C
 Yüzyıllar boyunca, eksantrik Necron lordu Trazyn the Infinite tarafından bir Tesseract Kasası'nın (Tesseract Vault) içine, zaman içinde dondurulmuş bir sergi olarak hapsedilmişti. On Üçüncü Kara Haçlı Seferi sırasında Cadia kuşatılınca, Trazyn onu ve diğer tutsaklarını İmparatorluk güçlerine yardım etmeleri için serbest bıraktı; Greyfax, çağların ötesinden bir savaşçı olarak geri döndü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/03/GreyfaxArt.jpg)

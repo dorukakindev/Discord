@@ -19,5 +19,3 @@ Old Ones'a karşı War in Heaven'da C'tan'ın yanında savaştılar, sonra Silen
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551812203584295003>, <#1551649070286897172>, <#1551818153271627807>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/AnkhoftheTriarch9thEdition.jpg/revision/latest/scale-to-width-down/650?cb=20200925173557)

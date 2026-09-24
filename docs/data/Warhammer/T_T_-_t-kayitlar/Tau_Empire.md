@@ -10,8 +10,6 @@ T'au Empire, Ultima Segmentum'un doğu ucunda, Eastern Fringe olarak bilinen bö
 
 T'au'yu öteki galaktik güçlerden ayıran bir başka özellik, Warp ile ilişkilerinin son derece zayıf oluşudur. Türün psişik yansıması çok sönüktür, bilinen bir psiker geleneği yoktur ve gemileri Warp'a ancak yüzeysel biçimde dalabilen sürüş sistemleri kullanır. Bu durum hem bir sınırlılık hem de bir kalkandır: T'au, Chaos'un en doğrudan etkilerinden görece uzak kalır, ancak Warp'ın gerçek doğasını kavramakta da diğer türlerin gerisindedir. İmparatorluğun toplam nüfusu ve filo büyüklüğü hakkında kanonda güvenilir bir rakam yoktur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f0/T%27au_Empire_Icon.png/revision/latest/scale-to-width-down/1000?cb=20230512074501)
-
 ## Kökenler: Mont'au ve Ethereal'lerin Gelişi
 T'au'nun anavatanı olan dünya, bir dönem Imperium'un Explorator filolarınca keşfedilmiş ve ilkel bir türün yaşadığı, ileride kolonileştirilebilecek bir gezegen olarak kaydedilmiştir. Ne var ki bölgeyi saran Warp fırtınaları Damocles Gulf'u uzun süre geçilmez kıldı. Fırtınalar dindiğinde, insanlığın taş devri düzeyinde bıraktığı tür, uzaya açılmış bir uygarlığa dönüşmüştü. Bu hızın nedeni kanonda kesin olarak açıklanmaz ve kasıtlı bir gizem olarak korunur.
 

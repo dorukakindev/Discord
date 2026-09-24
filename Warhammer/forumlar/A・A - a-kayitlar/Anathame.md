@@ -10,8 +10,6 @@ Adı bile bir uyarı gibi çınlar. "Anathame" sözcüğü okura hem ayin bıça
 
 Bu kanal bıçağın kendisini ele alır: kökenini, yolculuğunu ve bıraktığı izi. Onu çalan Chaplain erebus, yaralandığı dünya davin, çalındığı uygarlık interex kendi kanallarında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Erebus_Kinebrach_Anathame.jpg/revision/latest?cb=20130125094705)
-
 ## Kökeni: Kinebrach'ın Eseri
 Kaynaklara göre bıçağı Kinebrach adlı bir xenos türü yaptı. Great Crusade çağında Kinebrach, Interex denen insan uygarlığının egemenliği altında yaşayan bir halktı ve ustalığı Interex'in kendi teknolojisinin erişemediği alanlara uzanıyordu. Anathame de bu ustalığın karanlık bir ürünüydü; Interex bu bıçakları elinde tutabiliyor, ama kendisi yapamıyordu.
 

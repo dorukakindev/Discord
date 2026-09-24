@@ -11,5 +11,3 @@ Catachan Devil, galaksinin en ölümcül ölüm dünyası olan Catachan'ın simg
 En tehlikeli özelliği, kamuflajı ve gizliliğidir; Catachan'ın yoğun, yeşil cangıl örtüsüne mükemmel uyum sağlar ve avına saldırana kadar neredeyse tümüyle görünmezdir. Bir Catachan Jungle Fighter bile, ancak çok dikkatliyse bir Catachan Devil'ın varlığını fark edebilir; çoğu zaman ilk işaret, dev kıskaçların aniden karanlıktan çıkmasıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a4/CDArt.jpg)

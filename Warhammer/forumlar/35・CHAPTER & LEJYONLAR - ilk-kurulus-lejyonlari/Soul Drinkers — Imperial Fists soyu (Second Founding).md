@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/52/Soul_Drinkers_SP.jpg/revision/latest?cb=20160504014313
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Soul Drinkers — Imperial Fists soyu (Second Founding)
 

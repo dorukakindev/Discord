@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Dark_Heresy_Ascension_2_by_faroldjo.jpg/revision/latest?cb=20120429075747
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Age of Apostasy (yönlendirme kaydı)
 

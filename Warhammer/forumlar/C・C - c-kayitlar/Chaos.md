@@ -12,8 +12,6 @@ Chaos'un tehlikesi yalnızca silahlarında değil, cazibesindedir. Tanrılar ken
 
 Warp'ın doğası için <#1551809666454134928>, daemon'ların ontolojisi için <#1551654107058540595>, Heretic Astartes için <#1551812225570836561> kanalına başvurulmalıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4f/Blades_of_The_Traitor.jpg/revision/latest/scale-to-width-down/1000?cb=20121005170412)
-
 ## Kökenler
 Kaynakların ortak çerçevesine göre Chaos God'lar, Warp'ın duyarlı canlıların duygularını yansıtan doğasından doğmuştur. Belirli bir duygu, sayısız varlığın zihninde çağlar boyunca tekrarlandıkça Warp'ta yankılanıp birikir; bu birikim zamanla biçim, irade ve en sonunda kendi bilincini kazanır. Tanrılar bu anlamda hem duyguların ürünü hem de onların açgözlü tüketicisidir.
 
@@ -40,8 +38,6 @@ Ayrıntılı işlenişleri için <#1551815867845578773> ve <#1551754683222327439
 **Diyarı.** Tzeentch'in Warp'taki diyarı sürekli biçim değiştiren bir kristal labirent olarak tasvir edilir; merkezinde, onun oturduğu **Impossible Fortress** yükselir. Bu diyarda mesafe ve yön, Tzeentch'in iradesine göre durmaksızın yeniden kurulur.
 
 **Sayısı ve rengi.** Tzeentch'in kutsal sayısı dokuzdur; rengi ise mavi ve onun parıldayan tonlarıdır. Tzeentch'in en büyük rakibi, değişimin karşıtı olan durağanlığı ve teslimiyeti temsil eden Nurgle'dır. Bu iki gücün çekişmesi Great Game'in en eski ve en köklü eksenlerinden biri olarak aktarılır.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4f/Blades_of_The_Traitor.jpg/revision/latest/scale-to-width-down/1000?cb=20121005170412)
 
 ## Tzeentch: Hizmetkârları ve Tarihteki İzi
 **Daemon'ları.** Tzeentch'in en büyük daemon'ları kanatlı, kuş başlı büyücüler olarak tasvir edilen **Lord of Change**'lerdir; iki başıyla geçmişi ve geleceği aynı anda görebildiği anlatılan **Kairos Fateweaver** bunların en bilinenidir. Pink ve Blue Horror'lar, Flamer'lar ve Warp'ın akıntılarında süzülen Screamer'lar onun daemonic ordularını oluşturur.

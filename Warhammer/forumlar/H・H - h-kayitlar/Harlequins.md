@@ -11,8 +11,6 @@ Harlequin'lerin asıl işlevi hatırlamaktır. Sahnelerinde Aeldari'nin kadim mi
 
 Aynı zamanda Harlequin'ler Webway'in bekçileridir. Cegorach'ın öğrettiği gizli patikaları bilir, Aeldari'nin bile unuttuğu kapıları korur ve evrenin en tehlikeli bilgi hazinelerinden biri olan Black Library'nin muhafızlığını üstlenirler. Savaşa girdiklerinde bunu çoğu zaman görünür bir nedenden değil, yalnızca kendilerinin bildiği daha büyük bir kurgunun parçası olarak yaparlar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/93/Rune_of_Unity.jpg/revision/latest?cb=20150303170716)
-
 ## Kökenler ve Cegorach
 
 Aeldari mitolojisinde Cegorach, tanrılar arasında hileleri ve kurnazlığıyla bilinen figürdür. Fall anında Slaanesh'in doğuşu Aeldari panteonunu dağıttığında Cegorach'ın, kaçıp Webway'e sığınarak ya da kendi hilesiyle kurtulan tanrılardan biri olduğu anlatılır. Harlequin'ler bu kurtuluşu inançlarının merkezine koyar: Laughing God hâlâ vardır, Webway'in labirentlerinde gülmektedir ve bir gün She Who Thirsts'e son oyununu oynayacaktır.

@@ -11,5 +11,3 @@ Mortifactors, teknik olarak Ultramarines'in (Guilliman) bir halefidir; ama anava
 Posul'un yerel ölüm kültü gelenekleri chapter'ı şekillendirdi; zırhları kafatasları ve kemiklerle süslüdür, ayinleri ölümü ve ataları yüceltir. Düşmanlarının kafataslarını toplar (bir tür trofesi ve ruhsal güç kaynağı olarak) ve önemli kararlar almadan önce ata ruhlarına danıştıklarına inanırlar. Bu, onları Codex'in rasyonel, düzenli savaşçılarından çok, kabilesel bir ölüm tarikatına benzetir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/69/Mortifactors_3.png)

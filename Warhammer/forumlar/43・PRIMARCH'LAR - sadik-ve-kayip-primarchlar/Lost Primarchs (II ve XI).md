@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Investiary_Imperial_Palace.png/revision/latest?cb=20170104025430
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Lost Primarchs (II ve XI)
 

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/84/Fire_Hawks_Livery.jpg/revision/latest?cb=20161118002336
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/84/Fire_Hawks_Livery.jpg/revision/latest?cb=20161118002336)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Fire Hawks — Ateş Şahinleri

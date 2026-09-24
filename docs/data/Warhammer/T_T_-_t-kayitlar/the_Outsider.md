@@ -10,8 +10,6 @@ Onu diğer C'tan'lardan ayıran ilk şey, adıdır, daha doğrusu adının yoklu
 
 Bu madde bu yüzden kısa ve disiplinli tutulmuştur. Bilinen az şey, eski ve yeni yayınların çerçevesi içinde yerine oturtulacak; sonra Outsider'ın etrafında dolaşan spekülasyonlar, özellikle Warp ve Great Rift ile ilgili olanlar, kanon durumlarıyla birlikte ele alınacaktır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/aa/Necron_head.jpg/revision/latest?cb=20130318180412)
-
 Kanal sınırı: C'tan'ın genel doğası ve bilinen C'tan listesi <#1551812203584295003>, Necron'larla ilişkileri <#1551759762193121282> ve <#1551649070286897172> kanallarındadır.
 ---MSG---
 ## Delilik ve Yamyamlık: Eski Anlatıdaki Yeri

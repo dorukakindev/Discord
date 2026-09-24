@@ -8,8 +8,6 @@ Kategori: Tarihsel Dönem / Astartes Kuruluşu · Fraksiyon: Imperium, Adeptus A
 
 Ultima Founding iki şeyi aynı anda yaptı. Bir yandan tümüyle yeni Primaris Chapter'ları kurdu; öte yandan Great Rift'in getirdiği felaketlerle tükenmenin eşiğine gelen eski Chapter'lara Primaris takviyeleri aktardı. Böylece hem Adeptus Astartes'in saflarını yeniledi hem de on bin yıllık Chapter geleneğine yepyeni bir savaşçı kuşağını kattı. Bu, Heresy'den bu yana Space Marine dünyasının yaşadığı en köklü genişlemedir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/57/Primaris_Astartes_Mars.png/revision/latest/scale-to-width-down/1000?cb=20170515202629)
-
 Burada dönem hem bir kuruluş hem de bir dönüşüm olarak ele alınıyor: zemini, işleyişi, doğurduğu yeni Chapter'ları ve açtığı soruları. Primaris kuşağının biyolojisi ve kökeni <#1551818213782716427>, projenin mimarı <#1551639038291611649>, dağıtımın yürütüldüğü sefer <#1551815418619101185> kanalında işlenir.
 ---MSG---
 ## Zemin: Cawl'ın Uzun Emeği ve Guilliman'ın Dönüşü

@@ -11,8 +11,6 @@ Huron'un hikâyesi bu yüzden bir uyarı gibi okunur. Codex Astartes'in Legion'l
 ## Maelstrom'un Bekçisi
 Astral Claws, Maelstrom'dan taşan korsanlara ve Warp tehditlerine karşı Badab bölgesinde konuşlanmış bir Chapter'dı. Huron'un önderliğinde Chapter, bölgenin güvenliğini sağlayan başarılı bir güç olarak ün kazandı; kaynaklar onun karizmasını, stratejik yeteneğini ve çevresindeki Chapter'lar üzerindeki etkisini özellikle vurgular. Bu başarı zamanla bir iddiaya dönüştü: Huron, Maelstrom'u kalıcı olarak temizleyecek büyük bir crusade önerdi. Önerinin Terra'da reddedilmesi, onun gözünde Imperium'un bölgeyi yüzüstü bıraktığının kanıtı oldu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Huron_Blackheart_Revealed_-_Warhammer_40%2C000/revision/latest?cb=20251229163241)
-
 ## Tyrant of Badab
 Huron'un Imperium'dan kopuşu tek bir anda değil, adım adım gerçekleşti. Kaynaklara göre gene-seed tithe'ını Adeptus Mechanicus'a göndermeyi kesti, bölgedeki ticaret ve geçiş yollarını güvenlik gerekçesiyle kendi denetimine aldı ve sektörü fiilen kendi hükmü altında topladı. 901.M41'de Badab sistemine giren bir Imperial tithe filosunun onun kuvvetlerince yok edilmesi, bu sessiz ayrılığı açık bir isyana çevirdi.
 

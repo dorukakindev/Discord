@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Sanguinor_Leviathan.png/revision/latest?cb=20141226193833
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları · Kayıt
 # Sanguinor
 

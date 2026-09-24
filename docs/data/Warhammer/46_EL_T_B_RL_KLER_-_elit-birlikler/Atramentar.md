@@ -22,5 +22,3 @@ M41 Atramentar'ı ile Heresy dönemi birimi arasındaki süreklilik warband düz
 -# Kaynaklar: *Soul Hunter — Aaron Dembski-Bowden*; *Prince of Crows — Aaron Dembski-Bowden*
 
 -# İlişkili kayıtlar: <#1551637693933289523>, <#1551650286626672722>, <#1551813077991686208>, <#1551812225570836561>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d7/NL_Atrementar_Terminator_Aran_Vastak.png/revision/latest/scale-to-width-down/673?cb=20231201092050)

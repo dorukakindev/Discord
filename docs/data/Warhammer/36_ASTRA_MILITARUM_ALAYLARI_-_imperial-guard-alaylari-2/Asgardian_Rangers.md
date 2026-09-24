@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Asgardian_Rangers.jpg/revision/latest?cb=20130212044133
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Asgardian_Rangers.jpg/revision/latest?cb=20130212044133)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Asgardian Rangers — Asgard Korucuları

@@ -13,8 +13,6 @@ Primarch'ların Chaos tarafından galaksiye dağıtılmasının ardından Lion'u
 
 Order'ın içinde yetişen Lion, kısa sürede Caliban'ın bütün şövalye tarikatlarını ortak bir amaç etrafında topladı ve Great Beasts'e karşı bir yok etme seferi başlattı. Bu sefer Caliban'ı insan için güvenli bir dünyaya dönüştürürken bir yandan da tarikatların kadim yaşam biçimini sona erdirdi. Lion'un kişiliğine damgasını vuran kararlılık ile kayıp arasındaki gerilim, ilk kez bu dönemde belirir.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fc/YoungLion.jpg)
-
 ## Great Crusade
 Emperor Caliban'a ulaştığında Lion, I Legion'ın komutasını devraldı. Legion'ı Caliban'ın şövalye ahlakıyla yeniden biçimlendirirken Terra'dan gelen kıdemli savaşçıları da komuta zincirinde tuttu. Horus Heresy dönemini işleyen eserler, onu kendi kararlarını açıklamaya pek tenezzül etmeyen, en ağır görevleri üstlenmekten kaçınmayan ve gerektiğinde bir dünyayı bütünüyle yok etmeyi soğukkanlılıkla emredebilen bir komutan olarak çizer.
 

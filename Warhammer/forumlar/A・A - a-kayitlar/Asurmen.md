@@ -13,8 +13,6 @@ Bu yüzden Asurmen'in hikâyesi, bir savaşçının biyografisinden çok bir hal
 
 Bu madde Asurmen'i bir kişi olarak ele alır: kökeni, ilk shrine'ı ve öğrencileri, Arhra'nın düşüşü karşısındaki konumu, Dire Avengers geleneği ve Great Rift çağındaki yeri. Phoenix Lord'ların ortak doğası phoenix-lords, Aspect geleneğinin bütünü <#1551811222129745941>, Path sistemi ve craftworld toplumu <#1551812290439942255> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Asurmen_Cover_Art.jpg/revision/latest/scale-to-width-down/774?cb=20150505201048)
-
 ## Köken: Fall'dan Sonra Bir Disiplin Arayışı
 
 Asuryani anlatısına göre Asurmen, Fall'dan sağ çıkan Aeldari'dendir. Atalarının imparatorluğunun kendi tutkuları altında çöktüğünü ve bu tutkulardan Slaanesh'in doğduğunu gören Asurmen, hayatta kalanların da aynı yoldan yürümeye mahkûm olup olmadığını sorgulamıştır. Onun vardığı cevap, sonraki binyılların Asuryani'sini biçimlendirecekti: savaşmaktan kaçınamayacak kadar tehlikeli bir galakside yaşayan bir halk, öfkeyi yok sayamaz; ama onu belirli bir biçime, belirli ritüellere ve belirli bir süreye hapsedebilir.

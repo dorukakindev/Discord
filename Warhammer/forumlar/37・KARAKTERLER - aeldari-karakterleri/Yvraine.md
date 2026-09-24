@@ -11,5 +11,3 @@ Yvraine, doğmakta olan Aeldari ölüm tanrısı Ynnead'ın sesi ve habercisi (E
 Bir zamanlar Karanlık Şehir Commorragh'ın acımasız arenalarında ölümcül bir gladyatördü; Drukhari yaşamının zulmü ve hazcılığı içindeydi. Ama bir arenada öldürüldüğünde, ruhu Ynnead'ın gücüyle temas etti ve geri döndü; bu ölüm-ve-diriliş, onu tanrının seçilmiş sesine dönüştürdü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c5/YvrainePortrait.jpg)

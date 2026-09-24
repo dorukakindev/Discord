@@ -10,8 +10,6 @@ Bu durum onu bir kurtuluş örneği yapmaz. Lemartes Rage'den dönmemiştir; dur
 
 Bu kanal Lemartes'i ve onunla özdeşleşen Death Company'yi kişisel perspektiften ele alır. Kusurun biyolojisi ve kökeni için <#1551811968946540596>, Chaplain makamının geneli için <#1551812532409466901>, soyun High Chaplain'ı için <#1551811246322614273> kanallarına bakılabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ac/Lemartes.jpg/revision/latest?cb=20250105224105)
-
 ## Düşüş ve Bağışlanma
 Lemartes'in Rage'e hangi savaşta ve hangi koşullarda düştüğü yayımlanmış kaynaklarda ayrıntılı biçimde anlatılmaz. Codex metinleri onun bir Chaplain olarak kardeşlerini yıllarca Death Company'nin son yürüyüşlerine uğurladığını, sonra aynı karanlığın kendisini de yakaladığını söyleyen kısa bir çerçeve sunar. Arşiv bu boşluğu bir savaş adı, bir düşman ya da bir tarih uydurarak doldurmaz.
 

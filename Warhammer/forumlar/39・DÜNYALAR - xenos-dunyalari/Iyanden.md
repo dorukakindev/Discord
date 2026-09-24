@@ -9,5 +9,3 @@ Iyanden, bir zamanlar Aeldari craftworld'lerinin en görkemlilerinden ve en kala
 Felaket, Hive Fleet Kraken'in (devasa bir Tyranid sürüsü) Iyanden'e saldırmasıyla geldi. Tyranidler craftworld'e akın etti ve nüfusunun büyük çoğunluğunu (bazı kayıtlara göre dörtte üçünü) yuttu; canlı savaşçılar, sürünün sonsuz dalgalarına karşı koyamadı. Craftworld yok olmanın eşiğine geldi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/92/Asuryan.png)

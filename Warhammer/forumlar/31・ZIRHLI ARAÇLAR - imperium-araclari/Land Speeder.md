@@ -10,5 +10,3 @@ Land Speeder'ın gücü, hızında ve hareketliliğindedir; anti-grav motorları
 **Çapraz:** `space-marines`, `dark-angels`, `white-scars`, `the-fallen`
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/01/LandSpeederArt.jpg)

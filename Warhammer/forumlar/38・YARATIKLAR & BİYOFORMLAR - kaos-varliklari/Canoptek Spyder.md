@@ -22,5 +22,3 @@ Gövdesinde yeni Scarab'lar üretebilen bir yapı taşıdığı anlatılır; ona
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Canoptekspyder10.jpg/revision/latest?cb=20150219223033)

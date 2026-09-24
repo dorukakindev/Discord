@@ -13,8 +13,6 @@ Zehirli sislerle örtülü, alçak vadilerinde insanların güçlükle yaşayabi
 
 Kaynakların anlatımına göre Mortarion, Necare'nin kalesine son kez tırmandığında zehre yenik düşmek üzereydi ve efendisini ancak Emperor'un müdahalesiyle alt edebildi. Kurtuluşunu kendi elinden almış bu an, Mortarion'un babasına duyduğu kırgınlığın ilk tohumu olarak yorumlanır. Barbarus'ta öğrendiği ders ise Legion'ın ruhuna işledi: katlanmak, ayakta kalmak ve hiçbir zaman eğilmemek.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/DeathGuardBadge.png/revision/latest?cb=20190111222147)
-
 ## Great Crusade ve İhanetin Tohumları
 Mortarion'un komutayı devralmasıyla birlikte Legion, **Death Guard** adını ve Barbarus'un ağır, gösterişsiz savaş anlayışını benimsedi. Gaz maskeleri, zırhı sızdırmaz kılan ağır teçhizat ve kimyasal ortamlarda savaşma yeteneği Legion'ın alameti oldu. Death Guard, düşmanı parlak manevralarla değil, geri çekilmeyi reddeden kesintisiz bir baskıyla ezmeyi tercih ediyordu. Barbarus'tan toplanan yeni savaşçılar zamanla Legion'ın Terra kökenli çekirdeğiyle kaynaştı.
 

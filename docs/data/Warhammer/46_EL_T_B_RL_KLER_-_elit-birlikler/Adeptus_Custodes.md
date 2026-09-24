@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Adeptus Custodes — İmparator'un Altın Muhafızları

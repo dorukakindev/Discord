@@ -21,4 +21,4 @@ Kısa, tıknaz, inatçı ve usta zanaatkâr bir halk olarak betimlenen Squat'lar
 
 -# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Codex: Leagues of Votann — 10th Edition*
 
--# İlişkili kayıtlar: <#1551588004882030622>, <#1551714856053506078>, <#1551587905703649300>
+-# İlişkili kayıtlar: <#1552483294329962596>, <#1551813334993739777>, <#1551587905703649300>

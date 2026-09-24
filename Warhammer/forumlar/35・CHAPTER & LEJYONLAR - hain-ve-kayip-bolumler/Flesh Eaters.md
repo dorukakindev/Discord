@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Flesh_Eaters_Livery.jpg/revision/latest?cb=20241031005418
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Flesh_Eaters_Livery.jpg/revision/latest?cb=20241031005418)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Flesh Eaters — Et Yiyenler

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/28/House_Krast_Icon.jpg/revision/latest?cb=20140312041912
+
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Krast — Questor Mechanicus
 

@@ -19,5 +19,3 @@
 -# Kaynaklar: *Betrayer — Aaron Dembski-Bowden*; *Codex: World Eaters — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809718085746759>, <#1551649073432494263>, <#1551815867845578773>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1b/Angron_Primarch2.jpg/revision/latest?cb=20120629041033)

@@ -11,5 +11,3 @@ Harpy, Tyranid Hive Mind'ının uçar bir savaş biyoformudur; gökyüzü sürü
 Harpy'nin saldırı tarzı, alçaktan süzülüp ölüm yağdırmaktır; düşman mevzilerinin üzerinden geçerken, alt gövdesindeki şişkin keselerden spor mayınları bırakır ve aynı anda ön kollarına kaynaşmış biyo-toplarıyla (twin stranglethorn cannon ya da heavy venom cannon) cepheyi tarar. Bazı Harpy'lerin kaburgalarında dikenli sıralar ve Stinger Salvo denen ek atış sistemleri bulunur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/2d/T5EHarpy.jpg)

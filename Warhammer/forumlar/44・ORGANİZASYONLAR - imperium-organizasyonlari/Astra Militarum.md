@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.jpg/revision/latest?cb=20190630130730
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.jpg/revision/latest?cb=20190630130730)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Astra Militarum — İmparatorluk Muhafızı (Imperial Guard)

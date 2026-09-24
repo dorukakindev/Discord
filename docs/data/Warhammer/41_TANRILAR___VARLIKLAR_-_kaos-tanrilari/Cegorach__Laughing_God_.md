@@ -21,4 +21,4 @@ Cegorach'ın bugünkü planları, Ynnead karşısındaki tutumu ve Black Library
 
 -# Kaynaklar: *Codex: Harlequins — 8th Edition*; *Codex: Aeldari — 9th Edition*
 
--# İlişkili kayıtlar: <#1551740924244271140>, <#1551714821831921734>, <#1551588076609085510>, <#1551588050960781432>
+-# İlişkili kayıtlar: <#1551810744754905123>, <#1552483150322737262>, <#1551993959876657192>, <#1551754688008032321>

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Legio_Gryphonicus_Legio_Icon.png/revision/latest?cb=20200225011515
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Legio_Gryphonicus_Legio_Icon.png/revision/latest?cb=20200225011515)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Legio Gryphonicus — Savas Grifonlari

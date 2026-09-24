@@ -10,8 +10,6 @@ Shadowsun, imparatorluğun en büyük askerî sept'lerinden **Vior'la**'nın ço
 
 Bu kanal Shadowsun'ı bir kişi olarak ele alır: kimliği, komuta anlayışı, ilişkileri, seferleri ve bugünkü konumu. İmparatorluğun genel tarihi <#1551809146850910260>, kast ve sept düzeni <#1551809256649527381>, ayrılıkçı komşusu <#1551814127541026827> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/47/Roberto_Cirillo%27s_XV22.jpg/revision/latest?cb=20130403074349)
-
 Kaynaklar Shadowsun'ın doğum tarihini ve erken yıllarını ayrıntılı bir kronolojiyle vermez; *The Last of Kiru's Line* romanı, adından da anlaşılacağı gibi, soyuna ve mirasına eğilir. Değişmeyen tek çizgi, Ethereal High Council'in güvenini hiç yitirmemiş olmasıdır.
 ---MSG---
 ## Kişilik, İnanç ve Kauyon

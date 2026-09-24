@@ -11,5 +11,3 @@ Space Wolves, buzul ölüm dünyası Fenris'in vahşi, Viking benzeri savaşçı
 Fenris öyle acımasız bir dünyadır ki yalnızca en sert kabileler hayatta kalır; Kurt Rahipleri (Wolf Priests), ölmek üzere olan en güçlü savaşçıları seçer ve onları gen-tohum ve Canis Helix denen kurt geniyle dönüştürür. Bu dönüşüm onlara insanüstü duyular ve vahşet kazandırır, ama bir bedeli vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/07/SWHeresySymbol.jpg)

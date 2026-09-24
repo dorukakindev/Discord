@@ -11,5 +11,3 @@ The Talon of Horus (Horus'un Pençesi), Kaos'un en sembolik ve en güçlü silah
 Horus'un ölümünden sonra pençe kayboldu, ama yüzyıllar sonra Abaddon, Horus'un eski First Captain'ı, onu geri kazanmaya girişti. Pençe, karmaşık ve kanlı bir ritüelle yeniden dövüldü; bir Justaerin Terminatör'ün zırhıyla ve güçlü bir iblisle birleştirildi, böylece eski silah yeni ve daha korkunç bir biçim aldı. Abaddon onu kuşandığında, bu sadece bir silah edinmek değildi; Horus'un mirasını, Warmaster unvanını ve Kaos'un birleşik gücünün liderliğini üstlenmekti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/67/Talon-of-Horus.jpg)

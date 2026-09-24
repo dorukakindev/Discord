@@ -8,8 +8,6 @@ Ratling'ler, Imperium'un tanıdığı abhuman soylarının en küçüğüdür. B
 
 Ogryn'ler gibi Ratling'lerin kökeni de Dark Age of Technology'nin kolonileşme dalgalarına ve Age of Strife'ın uzun yalıtımına bağlanır. Hangi dünyalarda ve hangi koşullarda farklılaştıkları, bu değişimin doğal mı yoksa bilinçli bir uyarlamanın ürünü mü olduğu kaynaklarda açıklanmamıştır. Arşiv, Ratling'lere ait tek bir anayurt ya da kesin bir köken anlatısı kaydetmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Ratling2.jpg/revision/latest?cb=20120704020454)
-
 Imperial anlatımda Ratling'lere yapışan imge, yetenekleri kadar kusurlarıyla da biçimlenmiştir. Subaylar onları yemeğe ve içkiye düşkün, kaçakçılığa yatkın, disiplinsiz ve fırsatçı bir halk olarak betimler; buna karşılık Ratling aşçılarının bir alayın morali için ne kadar değerli olduğu da aynı kayıtlarda itirafla karışık bir dille anılır. Bu tasvir, Ogryn'lerde olduğu gibi, gözlemle önyargının iç içe geçtiği bir Imperial bakışı yansıtır.
 ---MSG---
 ## Savaş Rolü ve Cephe Gerisi Yaşam

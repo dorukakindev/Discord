@@ -19,5 +19,3 @@ Catachan halkı ve dünyanın ormanlarında yetişen Catachan Jungle Fighters al
 -# Kaynaklar: *Codex: Astra Militarum*
 
 -# İlişkili kayıtlar: <#1551753458779029565>, <#1551815439078658154>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/98/CatachanDevil_-_Old.jpg/revision/latest?cb=20130216080412)

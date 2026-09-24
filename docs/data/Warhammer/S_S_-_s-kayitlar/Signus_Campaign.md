@@ -10,8 +10,6 @@ Signus'un Heresy tarihindeki ağırlığı iki katmanlıdır. İlki stratejiktir
 
 Primarch'ın kişiliği için <#1551650289579335757>, Legion'ın bütün tarihi için <#1551811368389181491> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Ka%27Banda_vs_Sanguinius.jpg/revision/latest?cb=20111120055801)
-
 ## Bir Tuzağın Kuruluşu
 Horus, Blood Angels'ı Signus'a, kümenin xenos tehdidi altında olduğu gerekçesiyle gönderdi. Gerçekte bölge, Word Bearers'ın uzun hazırlığıyla Warp'a açılmış bir tuzaktı; Lorgar'ın Legion'ı Heresy'nin gizli mimarı olarak Chaos Gods'la kurduğu bağı burada doğrudan savaş alanına taşıdı. Horus'un bu tuzakla kardeşini ortadan kaldırmayı mı, yoksa koşulları zorlayarak kendi safına çekmeyi mi umduğu kaynaklarda tek bir açıklamaya bağlanmaz.
 ---MSG---

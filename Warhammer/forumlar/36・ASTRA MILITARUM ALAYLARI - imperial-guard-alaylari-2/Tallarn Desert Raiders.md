@@ -11,5 +11,3 @@ Tallarn Çöl Akıncıları, Segmentum Tempestus'taki ikili yıldız sistemine a
 Tallarn Muharebesi, kurgudaki en büyük zırhlı çarpışmalardan biri olarak tarihe geçti; sayısız tank, gezegenin kavurucu kumlarında karşı karşıya geldi. Bu felaketten yaklaşık yirmi yıl sonra resmi Tallarn Çöl Akıncıları alayları kuruldu ve çöl savaşı ile yüksek hareketli zırhlı harekat alanında uzmanlaştılar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5b/TallarnDR.jpg)

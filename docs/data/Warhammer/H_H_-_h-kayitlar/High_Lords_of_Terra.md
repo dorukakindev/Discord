@@ -10,8 +10,6 @@ Konseyin kendine özgü çelişkisi, gücünün hem sınırsız hem de kör olma
 
 Bu kanal konseyi bir kurum olarak ele alır: kökenini, sandalyelerini, iç siyasetini ve Imperium'un büyük krizlerindeki sicilini. Terra'nın kendisi <#1551809168032268310>, Imperium'un genel siyasi yapısı <#1551815272074055681>, konseyde temsil edilen kurumlar ise kendi kanallarında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/High_Lords_of_Terra_Icon.jpg/revision/latest?cb=20150421185709)
-
 ## Kökenler: Council of Terra'dan High Lords'a
 Konseyin öncülü, Great Crusade döneminin **Council of Terra**'sıdır. Horus Heresy romanlarının anlatımına göre Emperor, Ullanor zaferinin ardından seferin komutasını Horus'a bırakıp Terra'ya çekildiğinde, genişleyen Imperium'un sivil yönetimi Malcador the Sigillite'ın başında durduğu bu meclisin ağırlığına geçti. Council, Legion'ların fethettiği dünyalara vergi ve yönetim düzeni getiren sivil aygıtın sesiydi; Legion komutanlarının bir kısmı bu gelişmeyi, savaşın yükünü taşıyanların yerine memurların söz sahibi olması diye okudu. *Horus Rising*'den itibaren işlenen bu huzursuzluk, Heresy'yi besleyen siyasi gerilimler arasında sayılır.
 

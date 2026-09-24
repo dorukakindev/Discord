@@ -11,8 +11,6 @@ Guard'ın gücü bireyin üstünlüğünden değil, kitleden, lojistikten ve ina
 **Kökenler**
 Guard'ın atası, Great Crusade döneminin **Imperialis Army**'sidir. Bu dev yapı hem kara kuvvetlerini hem de yıldızlar arası filoları tek komuta altında topluyordu. Horus Heresy'de ordu birliklerinin önemli bir kısmının Warmaster'a bağlılık göstermesi, bu birleşik gücün ne denli tehlikeli olabileceğini kanıtladı. Heresy sonrasında Roboute Guilliman'ın öncülük ettiği reformlar, kara ordusunu donanmadan ayırdı: askerler gemilerini, gemi komutanları da asker taşıma yükünü kendi başına denetleyemeyecekti. Bu ayrılığın sonucu olarak Imperial Guard ile Imperial Navy iki ayrı kurum hâline geldi; bir alay artık kendi başına yıldızlar arası sefere çıkamaz, taşınmak için Navy'ye muhtaçtır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.jpg/revision/latest?cb=20190630130730)
-
 ## Yapı ve Organizasyon
 Guard'ın temel birimi **alaydır** (regiment). Alaylar, Imperium'a bağlı dünyaların ödediği Imperial tithe (vergi-haraç) kapsamında toplanır: bir dünya, yükümlülüğü ölçüsünde asker vermek zorundadır ve bu askerler çoğu zaman bir daha anavatanlarını görmez. Kurulan alay genellikle geldiği gezegenin adını ve bir sıra numarasını taşır; aynı dünyadan gelen askerler aynı birimde tutulur, böylece ortak dil, gelenek ve savaş üslubu korunur.
 

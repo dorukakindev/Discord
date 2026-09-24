@@ -11,5 +11,3 @@ Catachan Orman Savaşçıları, adını galaksinin en ölümcül ölüm dünyala
 Bu cehennem gibi ortamda büyüyen Catachanlılar fiziksel ve zihinsel olarak son derece dayanıklı, kurnaz ve uzlaşmaz savaşçılar haline gelir. Orman ve tehlikeli arazi savaşında, gerilla ve asimetrik harekatlarda Imparatorluğun en iyileridir; usta izciler ve sızma uzmanlarıdır, düşmanlarını hain tuzaklara çekmekte ustadırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/1c/Catachans_9e.jpg)

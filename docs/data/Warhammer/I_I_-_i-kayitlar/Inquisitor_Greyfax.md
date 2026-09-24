@@ -13,8 +13,6 @@ Greyfax'ın Inquisitor olmadan önceki hayatı, doğum dünyası ve Ordo içinde
 
 Kuşandığı silahlar da bu kimliği yansıtır. Tasvirlerinde ustalıkla işlenmiş bir kılıç ve özellikle psyker'lara karşı kullanılmak üzere tasarlanmış bir **condemnor boltgun** taşır; Ordo Hereticus'un cadı avcılığı geleneğinin simgesi. Greyfax'ın kendisinin psişik yeteneklere sahip olup olmadığı konusunda kaynakların ortak bir vurgusu bu arşivin bilgisinde yoktur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Greyfax.jpg/revision/latest/scale-to-width-down/1000?cb=20170501070314)
-
 ## Cadia: Cawl'ın Gölgesinde
 *Gathering Storm I: Fall of Cadia*'da Greyfax, Archmagos Dominus Belisarius Cawl'la birlikte kuşatılmış Cadia'ya ulaşır. Cawl, gezegeni saran pylon ağının sırrını çözmeye çalışıyordu; Greyfax'ın onun yanındaki varlığı hem bir eşlik hem de bir gözetim olarak okunabilir. Binlerce yıldır gizli çalışmalar yürüten, bilgisini kimseyle paylaşmayan bir Tech-Priest, Ordo Hereticus'un doğal şüphe alanına girer. Kaynaklar ikisini birbirine muhtaç, ama birbirine güvenmeyen bir çift olarak çizer.
 

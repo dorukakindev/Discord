@@ -26,8 +26,6 @@ CIA/FBI, MI5, Erkekler Siyahlar, Sovyet KGB, Nazi Gestapo'su, SCP Vakfı, Jedi T
 
 Bilinen kurucular şunlardır:
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Inquisition_MKV_Land_Raider.jpg/revision/latest/scale-to-width-down/900?cb=20110420061452)
-
 - **Kyril Sindermann** — Horus'un filolarının eski Iterator'ı ve İmparator'un tanrısallığına ilk inananlardan biri
 - **Lemuel Gaumon (Promeus olarak da bilinir)** — Thousand Sons'un eski bir Remembrancer'ı ve başarıyla egzorsiz edilen ilk kişi
 - **Moriana Görücü** — İmparator'un bir hizmetkârı ve daha sonra Chaos tapıcısı olan biri (İnzibatçıların Chaos'a sapan Quixos gibi kişileri işaret etmek ironiktir — çünkü kuruculardan birinin hain çıktığı ortaya çıkmıştır!)

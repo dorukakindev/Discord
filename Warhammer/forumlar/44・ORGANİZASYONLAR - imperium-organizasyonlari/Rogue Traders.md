@@ -9,5 +9,3 @@ Rogue Trader'lar (Serbest Tüccarlar), İmparatorluğun en sıra dışı ve en �
 İmparatorluğun katı, durağan ve kuralcı dünyasının aksine, Rogue Trader'lar olağanüstü bir özgürlüğe sahiptir; İmparatorluğun bilinen sınırlarının ötesine, haritalanmamış uzaya açılırlar. Yeni dünyalar keşfeder, kayıp insan kolonilerini bulur, xeno uygarlıklarıyla pazarlık eder (ya da onları yağmalar) ve hayal edilemez servetler ile tehlikeler arasında dolaşırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/31/RogueTraderSymbol.jpg)

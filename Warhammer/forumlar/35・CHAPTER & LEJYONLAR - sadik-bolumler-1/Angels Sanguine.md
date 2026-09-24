@@ -11,5 +11,3 @@ Angels Sanguine (Kutsal Melekler), Blood Angels'ın İkinci Kuruluş halef chapt
 Chapter'ı saran en büyük gizem, üyelerinin yüzlerini gizleme takıntısıdır; Angels Sanguine, chapter dışından hiç kimsenin önünde miğferlerini çıkarmaz. Kendi kardeşleri arasında bile yüzleri çoğu zaman kukuletayla örtülüdür. Onları başkalarının bakışından yüzlerini saklamaya iten şeyin ne olduğu bilinmez; chapter'ın yalnızca birkaç kişinin bildiği korkunç bir sırrı olduğu söylenir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/08/Angel_Sanguine_Marine.jpg)

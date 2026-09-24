@@ -22,5 +22,3 @@ Bukalemunu andıran pullar; dev pençeler ve kurbanı yakalayan kancalar; kurban
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551759784821137419>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Lictorclintlangley.jpg/revision/latest?cb=20150319200550)

@@ -22,5 +22,3 @@ Kitin kabuk, biyolojik silahlar, organizma üreten iç yapılar ve küçük bio-
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Battlefleet Gothic* (Games Workshop, 1999)
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551815033518948404>, <#1551814990338723904>, <#1551809334483361823>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Hive_Ship.png/revision/latest/scale-to-width-down/1000?cb=20200703171702)

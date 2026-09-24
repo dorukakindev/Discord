@@ -12,8 +12,6 @@ Bir Inquisitor ordular çağırabilir, Space Marine Chapter'larından yardım ta
 
 Imperial yönetimin tepesindeki High Lords of Terra arasında Inquisition'ı temsil eden bir koltuk da bulunur; ne var ki kurumun asıl etkisi, resmî meclislerden çok, gölgelerde verilen kararlarda yatar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Inquisition_MKV_Land_Raider.jpg/revision/latest/scale-to-width-down/1000?cb=20110420061452)
-
 ## Kökenler
 Inquisition'ın kuruluşu, kurumun kendisinin de kasıtlı olarak bulanık bıraktığı bir konudur. Horus Heresy anlatılarında **Malcador the Sigillite**, Legion'lardan ve başka kurumlardan seçtiği bireyleri gizli görevler için bir araya getirir. **Knights-Errant** olarak bilinen bu ajanlar, sonraki yayınlarda Inquisition'ın ve Grey Knights'ın öncülleri olarak çerçevelenir. Nathaniel Garro bu figürlerin en tanınmışıdır.
 

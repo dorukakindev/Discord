@@ -12,8 +12,6 @@ Kurumun başındaki **Captain-General**, High Lords of Terra arasında kalıcı 
 
 Unification Wars'tan Era Indomitus'a uzanan tarihleri boyunca Custodes'in en belirleyici özelliği, kendini tek bir göreve adamış olmasıdır. On bin yıl boyunca bu görev büyük ölçüde Palace'ın duvarları arasında yerine getirildi; Great Rift'in açıldığı çağda ise bu içe kapanıklığın bedeli sorgulanmaya başladı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312)
-
 ## Kökenler ve Yaratılış
 Custodes, Primarch'lardan ve Legion'lardan önce, Emperor'ın Terra'yı birleştirmek için savaştığı Unification Wars döneminde zaten vardı. İlk Captain-General **Constantin Valdor**, bu çağın savaşlarında Emperor'ın yanında yer alan kişi olarak anılır.
 

@@ -12,5 +12,3 @@ Missile Launcher'ın gücü esnekliğindedir. Tek silah iki rol oynar: frag füz
 ## Teknik ve Kullanım
 Çok yönlü fırlatıcı — krak (zırh), frag (piyade) ve flakk (hava) mermileriyle her görev için tek silah. Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan, bakımı basit ve üretimi bol İmparatorluk ve düşman silahları; bolt veya enerji teknolojisi olmadan da cephede en çok iş yapan sınıftır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f4/ImpMissileLauncher.jpg)

@@ -11,5 +11,3 @@ Belisarius Cawl, on bin yıldır yaşayan, bedeni mekanik uzantılar, kollar ve 
 Hikâyesinin kalbinde gizli bir görev yatar: Horus Heresy sonrası, Primarch Guilliman ona insanlık için yeni, daha güçlü bir Space Marine türü yaratma görevini verdi. Cawl bu görevi on bin yıl boyunca, Mechanicus'un en katı yasalarını (yeni teknoloji icat etmenin küfür sayılması) gizlice çiğneyerek sabırla sürdürdü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/ce/CawlBfG.jpg)

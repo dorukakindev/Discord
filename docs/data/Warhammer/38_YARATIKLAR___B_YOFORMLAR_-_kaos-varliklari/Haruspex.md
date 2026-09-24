@@ -22,5 +22,3 @@ Haruspex'in savaş sırasında yuttuğu biyokütlenin Hive Fleet'e nasıl aktar�
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Haruspex_in_action.png/revision/latest/scale-to-width-down/725?cb=20160102183024)

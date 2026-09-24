@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Black Crusades (yönlendirme kaydı)
 
-Imperium'un on üç adet olarak numaralandırdığı büyük Chaos seferleri. Tam liste ve tarihler <#1551714716915728414> kanalındadır.
+Imperium'un on üç adet olarak numaralandırdığı büyük Chaos seferleri. Tam liste ve tarihler <#1551811393680838699> kanalındadır.
 
 - **Kategori:** Sefer dizisi — <#1551629180972572742>
 - **Fraksiyon:** Black Legion ve Chaos koalisyonları
@@ -21,4 +21,4 @@ Sonuç: Cadian Gate'in kaybı ve Great Rift'in açılması. Önceki seferlerin �
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Gathering Storm I: Fall of Cadia*; *Battlefleet Gothic*
 
--# İlişkili kayıtlar: <#1551714716915728414>, <#1551740852148240444>, <#1551587933931446354>, <#1551741430328852620>, <#1551587939803471872>
+-# İlişkili kayıtlar: <#1551811393680838699>, <#1551638958352506881>, <#1551995352704622652>, <#1551814512657698817>, <#1551994117842673776>

@@ -19,5 +19,3 @@ Sonraki yayınların anlatımına göre Swarmlord, Hive Fleet Behemoth'un Macrag
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551809394226765939>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Swarmlord.png/revision/latest/scale-to-width-down/725?cb=20160103170035)

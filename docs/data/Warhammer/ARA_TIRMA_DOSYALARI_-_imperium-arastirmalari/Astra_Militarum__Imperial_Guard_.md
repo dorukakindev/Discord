@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.
 
 Tam olarak bir sayı vermek mümkün olmasa da, **milyarlarca muhafız** olduğu ve bunların **milyonlarca alaya** (regiment) bölündüğü tahmin ediliyor. Bu mutlak sayısal üstünlük, Muhafızlar'ın ana gücünü oluşturur: sonunda zafere ulaşan sayılarla savaşabilme becerisi. Savaş alanlarına sonsuz dalgalar halinde akın eden, devasa bombardımanların örtüsünde ilerleyen ve toplu lazer tüfeği (lasgun) saldırıları düzenleyen Muhafızlar'da bireysel insan askeri **kayıp bir şey**, neredeyse unutulmuş gibi görünebilir. Ancak bu anonim askerlerin eylemleri, her gün dünyaların kaderini belirler.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.jpg/revision/latest?cb=20190630130730)
-
 Kriz zamanlarında İmparatorluk Muhafızları, en ölümcül askerlerini çağırır — ister İmparatorluğun ünlü **Storm Trooper**'ları, ister alay elitlerinden **Kasrkin** ve **Death Korps Grenadiers** olsun.
 
 Muhafızlar, İmparatorluğun omurgasını oluşturur; onsuz İnsanlık kesinlikle yok olurdu. Normal muhafızlar Space Marine'lerle eşit değildir — ne genetik geliştirmenin ne de en güçlü kişisel silahların avantajına sahip değiller — ancak Muhafızlar, Galaksi genelinde İmparator'un düşmanlarıyla yüzleşmek ve onları yok etmek için cesarete ve insan gücüne sahiptir.

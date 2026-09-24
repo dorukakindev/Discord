@@ -12,8 +12,6 @@ Bu düzenin izi T'au adlarında da görülür. Tam bir T'au adı sırasıyla kas
 
 İmparatorluğun genel tarihi, ideolojisi ve savaş doktrininin temelleri <#1551809146850910260> kanalındadır; bu kanal kastları ve sept'leri ayrı ayrı ele alır.
 
-![gorsel](https://www.wargamer.com/wp-content/sites/wargamer/2022/12/warhammer-40k-tau-empire-faction-focus.jpg)
-
 ## Fire, Earth ve Air Caste
 **Fire Caste (Shas)**, ovaların savaşçı halklarının mirasçısıdır. Onları biçimlendiren şey kör cesaret değil, disiplin ve silah arkadaşlığıdır. Genç savaşçılar askerî akademilerde yetiştirilir, rütbe atlamak için **Trial by Fire** adı verilen savaş sınavlarından geçer. Aynı birimde savaşanların birbirine hayat boyu bağlılık andı içtiği **Ta'lissera** töreni, Fire Caste'ın bireyi birliğe bağlayan en güçlü ritüelidir. Commander Puretide'ın Kauyon ve Mont'ka öğretileri, bu kastın bütün komuta kültürünü şekillendirmiştir.
 

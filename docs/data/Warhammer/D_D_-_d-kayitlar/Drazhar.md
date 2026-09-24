@@ -13,8 +13,6 @@ Arşiv bu maddede Drazhar'ı bir kişi olarak ele alır: bilinen eylemleri, Comm
 
 Bir uyarıyla başlamak gerekir: Drazhar, yayımlanmış kanonda bilinçli olarak karanlıkta bırakılmış bir karakterdir. Aşağıda "bilinen" ile "söylenen" arasındaki çizgi özenle korunmuştur; söylentiler ne kadar çekici olursa olsun, kesin bilgi yerine geçmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Drazhar2.jpg/revision/latest?cb=20240718141602)
-
 ## Great Shrine'a Geliş
 
 Drazhar'ın hikâyesi, kaynakların aktardığı tek bir sahneyle başlar. Anlatıya göre eski bir zırh içindeki yabancı bir savaşçı, habersizce Incubi'nin Commorragh'taki **Great Shrine**'ına geldi. Yolunu kesmek isteyen muhafızları birer birer yararak tapınağın içlerine kadar ilerledi. Incubi ise en kutsal mekânlarında yaşanan bu olay karşısında yabancıyı cezalandırmak yerine onu aralarına kabul etti.

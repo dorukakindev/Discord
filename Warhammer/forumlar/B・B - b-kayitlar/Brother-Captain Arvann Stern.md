@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Brother_Cpt._Arvann_Stern.png/revision/latest?cb=20140825212535
+
 -# THE IMPERIAL ARCHIVE · B Kayıtları · Kayıt
 # Brother-Captain Arvann Stern
 

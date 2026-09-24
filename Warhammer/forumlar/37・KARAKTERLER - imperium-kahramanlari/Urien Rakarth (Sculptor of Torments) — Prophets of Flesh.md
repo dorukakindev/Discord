@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Urien_Rakarth-0.jpg/revision/latest?cb=20200414112627
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Urien Rakarth (Sculptor of Torments) — Prophets of Flesh
 

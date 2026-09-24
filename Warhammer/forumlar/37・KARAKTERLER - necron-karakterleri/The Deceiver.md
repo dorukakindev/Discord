@@ -13,5 +13,3 @@ The Deceiver (Aldatan, Mephet'ran), C'tan yıldız tanrılarının en kurnaz, en
 Deceiver'ın en büyük "başarısı", galaksinin kaderini değiştiren o korkunç anlaşmadır; ölümsüzlüğe aç Necrontyr ırkını, kendi etlerini ve ruhlarını terk edip ölümsüz ama ruhsuz Necron makinelerine dönüşmeye (biotransference) ikna eden oydu. Bu, tarihin en büyük aldatmacalarından biriydi; bir ırk, ölümsüzlük vaadiyle kandırılıp gerçekte köleleştirildi ve canlılığını sonsuza dek yitirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/1a/SS_Deceiver.jpg)

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Legio_Metalica_Icon_Pre-Heresy.png/revision/latest?cb=20211211072253
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Legio_Metalica_Icon_Pre-Heresy.png/revision/latest?cb=20211211072253)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Legio Metalica — Demir Kafataslari

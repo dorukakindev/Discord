@@ -11,5 +11,3 @@ House Griffith (Griffith Hanedanı), İmparatorluk'a bağlı bir Imperial Knight
 Griffith şövalyeleri, daha hafif ve daha hızlı Knight sınıflarını (özellikle çevik Armiger ve hafif Knight'ları) tercih eder; ağır bir süvari hücumu yerine, hız ve manevrayla savaşırlar. Düşman hatlarının etrafında dolanır, kanatları vurur, zayıf noktaları bulur ve en savunmasız hedefleri (komuta birimlerini, ağır araçların arkasını) ani saldırılarla avlarlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/08/GriffithOrg.jpg)

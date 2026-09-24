@@ -19,5 +19,3 @@ Kin orduları, Imperium'un çoğu zaman anlayamadığı güçlü kalkan sistemle
 -# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*
 
 -# İlişkili kayıtlar: <#1551759789988642876>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)

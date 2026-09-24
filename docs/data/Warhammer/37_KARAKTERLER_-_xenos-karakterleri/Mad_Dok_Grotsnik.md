@@ -11,5 +11,3 @@ Mad Dok Grotsnik, Orkların en ünlü ve en tehlikeli "Painboss"udur (cerrah-dok
 Grotsnik için ameliyat ile katliam arasındaki çizgi son derece bulanıktır; bir hastayı "iyileştirmek" ile parçalamak çoğu zaman aynı işlemdir. Sayısız çılgın biyonik "ameliyat" yaptı: gereksiz fazladan kollar, dev metal çeneler, anlamsız implantlar. En ünlü manik dürtülerinden biri, kavga sesi duyduğunda ameliyatın ortasında hastayı bırakıp dövüşe katılmasıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/16/GrotsnikArtNew.jpg)

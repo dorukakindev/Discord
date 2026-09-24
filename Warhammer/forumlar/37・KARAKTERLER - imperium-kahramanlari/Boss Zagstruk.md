@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b0/1410_x_zagstrukart.jpg/revision/latest?cb=20110728192308
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Boss Zagstruk
 

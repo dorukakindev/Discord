@@ -18,4 +18,4 @@ Kraken ulaşmadan önce dünyada büyük bir Genestealer Cult ayaklanması patla
 
 -# Kaynaklar: *Codex: Tyranids*; *Codex: Space Marines*
 
--# İlişkili kayıtlar: <#1551742227967901717>, <#1551587972376436806>, <#1551741455062540318>, <#1551588067880472658>
+-# İlişkili kayıtlar: <#1551809334483361823>, <#1552483319097069629>, <#1551815033518948404>, <#1552482553003376650>

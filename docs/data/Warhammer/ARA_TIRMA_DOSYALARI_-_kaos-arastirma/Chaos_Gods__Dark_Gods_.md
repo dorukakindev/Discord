@@ -22,8 +22,6 @@ Chaos Gods, maddi uzaya paralel psişik bir ayna alem olan **Warp**'ta var olan 
 
 ### Daemonlar (Daemonlar)
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bf/RealmofChaosMap.jpg/revision/latest/scale-to-width-down/664?cb=20181014212202)
-
 Bir daemon, bir Chaos God'ın bilincinin bir parçasından oluşan bir yaratıktır. Chaos God'ların ordularını oluştururlar ve sıklıkla diğer tanrıların ve inançsızların ordularıyla maddi düzlemde savaşırlar.
 
 Tanrılar, kendi doğalarını yansıtan görünüş ve karaktere sahip daemonlar yaratmaya güçlerinin bir kısmını adayabilir. Bu daemonlar istenildiğinde tanrıya geri emilebilir. Küçük tanrıların en küçüğü, bir daemon yaratmak için güç harcaması tüm gücünün tükenmesi anlamına gelebilir; pratikte tanrı daemon haline gelir.

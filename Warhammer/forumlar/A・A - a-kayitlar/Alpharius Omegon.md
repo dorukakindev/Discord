@@ -13,8 +13,6 @@ Alpharius, kaynakların genel anlatımında Emperor'un bulduğu son Primarch'tı
 
 Omegon'un varlığı ise uzun süre Imperium'un geri kalanından saklandı. İkizlerin nasıl bir arada bulunduğu ve Emperor'un bundan ne ölçüde haberdar olduğu, kaynakların kasıtlı olarak bulanık bıraktığı sorular arasındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Alpharius_Pythian_Scales.jpg/revision/latest?cb=20140410023824)
-
 ## İkizlik: Hydra'nın İki Başı
 Dan Abnett'in *Legion* romanı, ikiz Primarch gerçeğini ilk kez açığa çıkaran eserdir. İkizler dışarıya karşı tek bir "Alpharius" olarak görünür; biri komuta ederken diğeri başka bir cephede, başka bir kimlikle, çoğu zaman sıradan bir Legionnaire kılığında hareket edebilir. Kardeş Primarch'lar ve Imperial yetkililer, karşılarındakinin hangisi olduğunu bilmeden onlarla konuşmuştur.
 

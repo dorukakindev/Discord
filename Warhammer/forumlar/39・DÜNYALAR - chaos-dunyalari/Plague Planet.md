@@ -9,5 +9,3 @@ Veba Gezegeni (the Plague Planet), Death Guard lejyonunun ve Daemon Primarch Mor
 Mortarion, burada Nurgle'ın gözüne girdi; hastalıklar ve vebalarla yaptığı sayısız deneyle Çürüme Tanrısı'nın lütfunu kazandı ve sonunda tam yetkili bir Daemon Prince gücüyle ödüllendirildi. Gezegen, onun bu yeni doğasının bir yansımasıdır: sürekli vebanın norm olduğu, fetid kürenin üzerine çöken yeşilimsi miasmik bulutların, Nurgle'ın kutsamadığı her varlığa hastalık ve ölüm getirdiği bir cehennem.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e6/Plague_Planet.jpg)

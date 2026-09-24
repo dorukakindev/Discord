@@ -58,5 +58,3 @@ Tech-Priest figürü *Rogue Trader* (1987) döneminden beri arka planda yer alı
 
 **Kaynaklar:** *Codex: Adeptus Mechanicus — 10th Edition*; *Priests of Mars — Graham McNeill*; *Mechanicum — Graham McNeill*; *Tech-Priest — Rob Sanders*; *Belisarius Cawl: The Great Work — Guy Haley*; *Codex: Space Marines — 10th Edition*
 **Çapraz:** <#1551753449878724689>, <#1551817917962780682>, <#1551816938185957387>, servitors, <#1551809095655493743>, <#1551816635839549491>, <#1551639038291611649>, <#1551650329156788287>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/34/Techpriest2.jpg/revision/latest?cb=20111026163206)

@@ -19,5 +19,3 @@ Gargoyle sürüleri Tyranid istilalarında öncü rolü üstlenir; savunucuları
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/40/Tyranid_Gargoyles.png/revision/latest?cb=20180724203028)

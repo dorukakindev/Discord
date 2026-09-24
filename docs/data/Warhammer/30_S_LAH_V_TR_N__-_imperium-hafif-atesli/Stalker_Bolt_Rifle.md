@@ -11,5 +11,3 @@ Bolt Rifle'ın dürbünlü keskin nişancı varyantı; ağır namlusu ve Executo
 Stalker Bolt Rifle, Primaris cephaneliğinin hassas atış ucudur. Ağırlaştırılmış uzun namlusu, gelişmiş optikleri ve yüksek şarjlı Executor bolt mühimmatıyla tek atışta sonuç almak üzere tasarlanmıştır. Intercessor mangaları bu varyantı savunma hatlarında ve kuşatmalarda kullanır; rolü, düşman komuta zincirini uzaktan kesmek ve siperdeki hedefleri tek tek ayıklamaktır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ee/Bolter_-_Astartes_MK_Vb.jpg)

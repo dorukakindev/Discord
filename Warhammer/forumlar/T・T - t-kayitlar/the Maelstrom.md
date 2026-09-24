@@ -12,8 +12,6 @@ Maelstrom'un içinde yolculuk, en deneyimli Navigator için bile kumara dönüş
 
 **Warden Chapter'lar.** Imperium, Maelstrom'dan taşan korsanlığa karşı komşu Badab bölgesine uzun süre bir grup Space Marine Chapter'ı yerleştirdi. Kaynaklarda Maelstrom Wardens olarak anılan bu Chapter'ların başında Lufgt Huron'un Astral Claws'u vardı. Fırtınayı gözetlemekle görevli olanların sonunda onun efendisine dönüşmesi, bölgenin tarihindeki en acı ironidir. Ayrıntılı savaş tarihi için <#1551811438547312645> kanalına bakılmalıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Huron_Blackheart_Revealed_-_Warhammer_40%2C000/revision/latest?cb=20251229163241)
-
 ## Badab'dan Korsan İmparatorluğuna
 Astral Claws'un Chapter Master'ı **Lufgt Huron**, M41'in son yüzyılında gene-seed tithe'ını reddedip Badab bölgesini kendi hükmü altında toplamaya yöneldi ve kendini *Tyrant of Badab* olarak konumlandırdı. Mantis Warriors, Lamenters ve Executioners'ın onun safına geçmesiyle başlayan **Badab War** (901–912.M41), Astartes'in Astartes'e karşı savaştığı uzun bir iç savaşa dönüştü. Savaşın sonunda bir melta darbesiyle ağır biçimde yaralanan Huron, hayatta kalan Astral Claws'la birlikte bir zamanlar gözetlemeye yemin ettiği Maelstrom'a kaçtı.
 

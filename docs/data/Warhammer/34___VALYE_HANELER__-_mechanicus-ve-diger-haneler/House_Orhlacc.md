@@ -11,5 +11,3 @@ House Orhlacc (Orhlacc Hanedanı), resmi unvanıyla "Orhlacc'ın Korkunç ve Bil
 Anavatanları, Karanlık Teknoloji Çağı'nın son günlerinde kolonileştirilen ölüm dünyası Dark Haven'dı; ölümcül bir mantar organizmasının kapladığı bu gezegende kolonizasyon yavaş ve sancılıydı, kıtlık sıradan bir tehditti. Bu dünyanın yırtıcılarına, asalaklarına ve mantar istilasına yalnızca Knight haneleri dayanabildi; sonunda hayatta kalmayı başaran tek hane, House Orhlacc oldu. Gezegene uyum sağlamak için genetik mühendisliğe başvurarak, bir düzine kuşak içinde Dark Haven'da insan yaşamının sürmesini sağladılar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/13/OrhlaccKnight.jpg)

@@ -10,8 +10,6 @@ Szeras'ı öteki büyük cryptek'lerden ayıran şey, bu tarihsel sorumluluğa v
 
 Kapsam notu: Biotransference'ın uygarlık düzeyindeki sonuçları <#1551759762193121282>, C'tan'ın doğası <#1551812203584295003>, cryptek'lerin disiplinleri ve toplumsal konumu <#1551812950052962325>, bu dönüşümün içinde yaşandığı savaş <#1551649070286897172> kanalındadır. Bu madde Szeras'ı bir kişi olarak ele alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c5/SzerasArt9thEdition.jpg/revision/latest/scale-to-width-down/799?cb=20200616150054)
-
 ## Biotransference'ın Mimarı
 Necrontyr'in trajedisi, kısa ve acı dolu ömürleriyle başladı; C'tan'ın vaadi bu yarayı kapatmak üzere geldi. Kaynaklar, yıldız-tanrılarının Necrontyr'e sunduğu bilginin tek başına bir dönüşümü mümkün kılmadığını, o bilgiyi gerçek bir sürece çeviren cryptek emeğinin Szeras'ta yoğunlaştığını anlatır. Onun katkısının ne kadarının kendi buluşu, ne kadarının C'tan'dan devşirilmiş bilgi olduğu yayımlanmış kanonda kesin çizgilerle ayrılmaz; arşiv bu yüzden onu biotransference'ın "tek yaratıcısı" olarak değil, sürecin tasarımında ve uygulanmasında kilit rol oynayan cryptek olarak kaydeder.
 

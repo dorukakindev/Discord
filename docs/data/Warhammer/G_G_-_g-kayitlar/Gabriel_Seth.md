@@ -10,8 +10,6 @@ Onu soyun öteki önderlerinden ayıran, yanılsamalara pek yer vermemesidir. Da
 
 Bu kanal Seth'i bir kişi olarak ele alır: Chapter'ının mirası içindeki yeri, önderlik anlayışı, Baal'ın savunmasındaki rolü ve Primaris çağındaki tutumu. Flaw'un kendisi için <#1551811968946540596>, kuşatmanın bütünü için <#1551813631660789811>, Chapter'ın ana gövdesi için <#1551811368389181491> kanallarına bakılabilir; Flesh Tearers'ın ayrı bir kanalı bulunmadığından Chapter'ın bağlamı burada da gerektiği kadar işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/93/Trial_By_Blood_coverart.jpg/revision/latest?cb=20141107214338)
-
 ## Miras: Nassir Amit ve Flesh Tearers
 Seth'in taşıdığı yük ondan binyıllar önce başlar. Flesh Tearers, Horus Heresy'nin ardından Codex Astartes uyarınca Legion'ların bölündüğü Second Founding'de, IX Legion'dan ayrılan Chapter'lar arasında doğdu. İlk Chapter Master'ı, Legion döneminde Sanguinius'un kaptanlarından biri olan **Nassir Amit**'tir. Horus Heresy dönemini işleyen Black Library eserleri Amit'i, savaştaki gaddarlığı yüzünden kardeşleri arasında "Flesh Tearer" lakabıyla anılan, Legion'ın içindeki karanlık açlığı herkesten önce ve herkesten açık biçimde taşıyan bir kaptan olarak gösterir. Chapter'ın adının bu lakaptan geldiği yaygın biçimde kabul edilir.
 

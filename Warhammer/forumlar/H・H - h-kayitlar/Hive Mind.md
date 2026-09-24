@@ -12,8 +12,6 @@ Imperium'un bu bilince bakışı büyük ölçüde korku ve çaresizlikle şekil
 
 Bu madde kolektif bilincin kavramsal ve metafizik boyutunu ele alır. Filoların tarihi ve Tyrannic Wars <#1551759780211589197>, Genestealer kültlerinin psişik yapısı ise <#1551759784821137419> kanalındadır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/03/40k-191-aetherize.jpg)
-
 ## Synapse Ağı: İradenin Taşıyıcıları
 Hive Mind'ın iradesi savaş alanına **synapse creature**'lar aracılığıyla ulaşır. Hive Tyrant'lar, Tyranid Warrior'lar, Zoanthrope ve Neurothrope'lar ile Genestealer sürülerini yöneten Broodlord'lar, bu ağın düğümleri gibi çalışır. Onlar sayesinde yüzlerce, binlerce basit organizma tek bir planın parçası gibi hareket eder; biri saldırırken öteki kuşatır, bir başkası geri çekilip tuzak kurar.
 

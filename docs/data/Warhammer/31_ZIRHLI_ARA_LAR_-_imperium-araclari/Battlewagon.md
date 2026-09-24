@@ -19,5 +19,3 @@ Battlewagon'lar Ork ordularının zırhlı çekirdeğini oluşturur. Kimi Mek'le
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Battlewagon.jpg/revision/latest/scale-to-width-down/700?cb=20151108205429)

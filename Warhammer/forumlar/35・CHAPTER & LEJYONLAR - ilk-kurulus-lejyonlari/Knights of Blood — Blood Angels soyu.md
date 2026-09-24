@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6d/Knights_of_Blood_Armorial.png/revision/latest?cb=20220817200127
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Knights of Blood — Blood Angels soyu
 

@@ -11,5 +11,3 @@ Kara Kütüphane (the Black Library), Webway'in en gizli ve en korunaklı noktas
 Kara Kütüphane'nin amacı paradoksaldır; Kaos hakkındaki bilgiyi hem korumak hem de ondan korunmaktır. Aeldari, Düşüş felaketini bizzat yaşadıkları için Kaos'un tehlikesini herkesten iyi bilir; bu yüzden bu bilgiyi yok etmek yerine, onu güvenli ama erişilemez bir yerde toplayıp incelemeyi seçtiler. Buradaki bilgi öyle tehlikelidir ki, yanlış ellerde tüm galaksiyi mahvedebilir; bir büyücü bu kütüphanedeki tek bir kitapla bir Daemon Prince'e dönüşebilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/03/Black_Library_Anthology_2013.jpg)

@@ -14,8 +14,6 @@ Davin, Luna Wolves'un Crusade boyunca Imperium'a kattığı dünyalardan biriydi
 
 Uyduda Imperial kuvvetleri, Temba'nın askerlerinin hastalıkla bozulmuş, insan dışı bir hâle gelmiş olduğunu gördü. Roman bu yozlaşmayı açıkça Warp kaynaklı bir çürüme olarak çizer ve sonraki Heresy kaynakları bu tabloyu Nurgle'ın etkisiyle ilişkilendirir. Temba'nın kendisi de bu dönüşümden nasibini almıştı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Davinite_Lodge_Priest.jpg/revision/latest?cb=20111106061440)
-
 ## Anathame ve Yara
 Uydudaki çatışmanın doruğunda Horus, Temba ile karşı karşıya geldi. Temba'nın elindeki silah, Interex ile yaşanan felaketin ardından Erebus'un çaldığı kadim bıçak **Anathame** idi; bıçağın Temba'ya Erebus aracılığıyla ulaştığı anlatılır. Horus bu karşılaşmada Anathame ile yaralandı.
 

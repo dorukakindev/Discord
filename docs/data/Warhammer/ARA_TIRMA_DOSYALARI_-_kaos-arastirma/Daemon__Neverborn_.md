@@ -14,8 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5f/ChaosDaemons.png/revi
 
 Daemonlar, kendi özlerinden oluşan Chaos Gods'un yaratımıdır. Ustalarından biraz farklı bir doğaya sahiptirler; Warp'ın en çok sayıda sakinidirler ve sayılarının neredeyse sonsuz olduğu düşünülmektedir. Bir Daemon, bir Chaos God'ın bilinç ve kişiliğe sahip ayrı bir varlık yaratmak için gücünün bir kısmını harcamasıyla "doğar"; bir duyular, düşünceler ve amaçlar koleksiyonunu birbirine bağlar. Bu, esasen Warp içinde hareket edebilen bir bilinç ve kişilik yaratır. Chaos God her an bu formu geri alabilir; bu, Daemon'un sadakatini sağlar. Tüm Daemonlar tamamen ustalarına uygun hareket etmez, ama en büyükleri bile açıkça itaatsizlik etmeye cesaret edemez. Materium'da maddeden yapılmış gibi görünmesine rağmen, Warp içinde bir Daemon, Realm of Chaos'ın geri kalanından daha fiziksel değildir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5f/ChaosDaemons.png/revision/latest?cb=20240226051839)
-
 Daemonlar, Warp içinde diğer Chaos God'ların karşılıklarına karşı sonsuza dek **The Great Game**'i yürütür, ancak Chaos tanrılarının çıkarları örtüştüğünde birleşmeleri bilinir. Ölümlü ruhları talep etme ve Chaos'ı Materium içinde yayma olasılığıyla karşı karşıya kalan Daemonik ordular, daha büyük bir düşmana savaşmak için bir süreliğine farklılıklarını bir kenara bırakacaktır.
 
 Özellikle güçlü Daemonlar, Materium'da özellikle güçlü, acımasız, duygusal veya yıkıcı bir eylemin Warp'a yankılanmasıyla oluşabilir. Bu eylemlerin gerçekleştiği zaman önemli değildir, çünkü zaman Warp içinde var olmaz. Böylece Daemonlar, onları doğuran eylemden çok önce maddi alemde aktif olabilir ve hatta öldürülebilir. Bu tür doğumların örnekleri **Samus** ve **Drach'nyen**'dir.

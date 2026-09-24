@@ -11,5 +11,3 @@ Bu boşluk, kanonun bilinçli bir sırrıdır ve hiçbir zaman resmen doldurulma
 Gerçek ne olursa olsun, iki numaranın (II ve XI) boşaltılması İmparator'un bile gömmek istediği bir geçmişe işaret eder; Horus Heresy çağı romanlarında bile bu konu yalnızca ima ve sessizlikle geçilir. On Birinci Primarch, hiç anlatılmamış olmasıyla 40K mitolojisinin en güçlü boşluklarından biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/aa/The_Primarchs.jpg/revision/latest/scale-to-width-down/1000?cb=20171210211743)

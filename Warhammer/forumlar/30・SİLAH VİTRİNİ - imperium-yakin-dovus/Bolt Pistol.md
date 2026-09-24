@@ -19,5 +19,3 @@ Legiones Astartes'in bolt pistol ve chainsword ikilisi, Great Crusade'den bu yan
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551812353157365862>, <#1551815304252887041>, <#1551818213782716427>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Ceres-Pattern_Bolt_Pistol.jpg/revision/latest?cb=20120929085750)

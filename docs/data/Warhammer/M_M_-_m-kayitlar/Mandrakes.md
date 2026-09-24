@@ -13,8 +13,6 @@ Commorragh halkı Mandrake'leri hem kullanır hem de onlardan korkar. Onlar şeh
 
 **Kanal sınırı.** Aelindrach'ın Commorragh'ın alt âlemleri içindeki yeri <#1551645291873050666>, Drukhari toplumunun genel düzeni <#1551813105166712966> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a2/MandrakeShadows.jpg/revision/latest?cb=20111119195445)
-
 ## Gölgeden Yürümek — Yetenekler ve Savaş Tarzı
 
 Mandrake'lerin en korkutucu yanı gölgeyle kurdukları ilişkidir. Kaynaklara göre bir gölgeden girip başka bir gölgeden çıkabilir, karanlık bir köşede fark edilmeden bekleyebilir ve kurbanlarının ayaklarının dibinden, kendi gölgelerinin içinden belirebilirler. Bu yetenek onları Drukhari baskınlarının öncüleri yapar: asıl kuvvet Webway kapısından çıkmadan önce Mandrake'ler hedefin içindedir, nöbetçileri sessizce öldürür ve savunmayı içeriden çözmeye başlar.

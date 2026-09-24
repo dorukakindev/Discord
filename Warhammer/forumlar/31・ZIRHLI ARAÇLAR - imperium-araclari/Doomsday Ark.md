@@ -22,5 +22,3 @@ Antigrav tahrik, açık iskeletimsi yapı, doomsday cannon ve yan gauss silahlar
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/12/Doomsdayark1.jpg/revision/latest?cb=20130401054831)

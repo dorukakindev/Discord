@@ -13,8 +13,6 @@ Be'lakor'un kökeni bilinçli olarak efsane ve rivayetin ardında bırakılmış
 
 Bu köken hikâyesi Warhammer Fantasy geleneğinde de işlenir; orada Be'lakor'un kibri yüzünden tanrılarca cezalandırıldığı ve başka şampiyonları taçlandırmaya mahkûm edildiği anlatılır. Warhammer 40,000 kaynakları ise iki evrendeki Be'lakor'un hikâyesini tek bir kronolojide açıkça birleştirmez; bu bağlantı kasıtlı bir belirsizlik olarak kalır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/f/f6/Belakor.jpg/300px-Belakor.jpg)
-
 ## Horus Heresy ve Kadim Çağlar
 Be'lakor'un ilk Daemon Prince olması, onu insanlığın yıldızlara yayılışından çok daha eski bir varlık yapar. Ancak yayımlanmış 40K kanonu, ona Horus Heresy içinde açık ve somut bir rol atfetmez. Heresy'nin daemonik yükselişleri, yani Angron, Mortarion, Fulgrim ve Magnus'un Daemon Prince'liği, kaynaklarda Be'lakor'un müdahalesiyle ilişkilendirilmez. Bu nedenle onu Heresy'nin gizli mimarı ya da Primarch'ların yozlaşmasının arkasındaki güç olarak sunan yorumlar kanon değildir. **Kanon durumu: doğrulanmamış teori.**
 

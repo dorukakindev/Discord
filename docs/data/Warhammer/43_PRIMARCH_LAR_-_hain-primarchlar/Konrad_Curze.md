@@ -9,5 +9,3 @@ Konrad Curze, güneşsiz, karanlık ve suçla boğulmuş kovan dünyası Nostram
 Nostramo'nun suç dünyasını yalnızca akıl almaz bir terörle dizginleyebileceğine inandı: suçluları avlayıp parçaladı, cesetlerini ibret olsun diye sergiledi ve kısa sürede gezegen, korkudan suçun durduğu bir yere döndü. Onun tek adalet anlayışı buydu: korku. İmparator onu VIII. Lejyon Night Lords'ın başına geçirdiğinde, bu terör doktrini bir savaş tarzına dönüştü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/45/YoungCurze.jpg)

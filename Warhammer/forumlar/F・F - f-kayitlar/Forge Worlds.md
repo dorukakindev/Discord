@@ -10,8 +10,6 @@ Forge world'ü sıradan bir sanayi dünyasından ayıran, ürettiği malın mikt
 
 Bu madde forge world'ü bir kavram ve bir siyasi düzen olarak ele alır. Mechanicus'un inanç ve kurum bütünü <#1551753449878724689>, ilk ve en büyük forge world olan Kızıl Gezegen <#1551816635839549491> kanalındadır. Ryza, Metalica, Stygies VIII, Agripinaa ve Lucius gibi tek tek dünyalar kendi kanallarında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fa/Forge_World_3.png/revision/latest?cb=20170901183216)
-
 ## Kökenler: Mars'ın Kızları mı, Kayıp Kardeşleri mi?
 Forge world'lerin bir kısmı, Great Crusade'den çok önce, Dark Age of Technology'nin insanlığı yıldızlara yaydığı çağda kurulmuş sanayi kolonilerinin kalıntılarıdır. Age of Strife boyunca Terra'dan ve birbirinden kopan bu dünyalar, tıpkı Mars gibi, ellerinde kalan makineleri anlamadan korumaya, bakımlarını ayine, bilgilerini kutsal metne dönüştürmeye başladı. Great Crusade filoları onlara ulaştığında karşılarında çoğu zaman Martian inancına şaşırtıcı ölçüde benzeyen, makineyi kutsayan rahiplikler buldu. Kimi Legio'ların ve forge world'lerin kökenlerini Imperium'dan önceye dayandırması da bundandır.
 

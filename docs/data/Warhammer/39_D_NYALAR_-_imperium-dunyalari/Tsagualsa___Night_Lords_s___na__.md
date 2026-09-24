@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/19/TsagualsaWorld.jpg/revision/latest?cb=20241126162141
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Tsagualsa — Night Lords sığınağı
 

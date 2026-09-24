@@ -12,5 +12,3 @@ Battle Cannon, Leman Russ tankının kulesinde oturan büyük çaplı toptur ve 
 ## Teknik ve Kullanım
 Leman Russ'un standart ana topu — 72mm'lik patlayıcı mermiyle tank, piyade ve yapıya karşı çok yönlü İmparatorluk iş atı. Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan, bakımı basit ve üretimi bol İmparatorluk ve düşman silahları; bolt veya enerji teknolojisi olmadan da cephede en çok iş yapan sınıftır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/03/RussBC.jpg)

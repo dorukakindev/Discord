@@ -9,5 +9,3 @@ Fulgrim, ölmekte olan maden dünyası Chemos'a düştü; gezegen kaynakları t�
 İmparator onu III. Lejyon Emperor's Children'ın başına geçirdiğinde, bu mükemmeliyet takıntısı lejyonun da kimliği oldu; Emperor's Children, İmparator'un kendi armasını (Palatine Aquila) taşıma onuru verilen tek lejyondu ve her üyesi fiziksel ve askeri kusursuzluğun zirvesini hedefliyordu. Ama mükemmellik arayışı tehlikeli bir kapıdır: tatmin asla gelmez, sürekli daha fazlası aranır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ec/YoungFulgrim.jpg)

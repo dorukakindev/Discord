@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SilverSkullsBadge2.jpg/revision/latest?cb=20260109164610
+
 -# THE IMPERIAL ARCHIVE · sadik-bolumler-2 · Kayıt
 # Silver Skulls — Gene-lineage uzun süre belirsiz
 

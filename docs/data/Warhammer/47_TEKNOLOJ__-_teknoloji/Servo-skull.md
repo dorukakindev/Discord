@@ -19,5 +19,3 @@ Tech-priest'lerin, Inquisitor'ların, Administratum görevlilerinin ve Astartes'
 -# Kaynaklar: *Codex: Adeptus Mechanicus — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753449878724689>, <#1551815304252887041>, <#1551810643785687071>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f0/Grey_Knight.jpg/revision/latest/scale-to-width-down/669?cb=20091025225339)

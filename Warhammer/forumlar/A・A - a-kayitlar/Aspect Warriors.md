@@ -13,8 +13,6 @@ Asuryani inancında geleneğin başlangıcı, ilk Phoenix Lord kabul edilen **As
 
 **Kanal sınırı.** Path sisteminin bütünü ve craftworld toplumu <#1551812290439942255>, Khaine miti <#1551810744754905123>, Arhra'nın düşüşünden doğan karanlık kardeş gelenek incubi kanalında ele alınır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/83/Aspect_Warriors.jpg/revision/latest/scale-to-width-down/1000?cb=20160303112958)
-
 ## War Mask ve Shrine Yaşamı
 
 Aspect Warrior'ın hayatını anlamanın anahtarı **war mask**'tir. Bu, kaynaklarda hem fiziksel miğferi hem de onunla birlikte takılan zihinsel perdeyi anlatan bir kavramdır. Savaşa hazırlanan Aeldari, shrine'ın ritüelleri, mantraları ve zırh kuşanma törenleri eşliğinde kendi gündelik benliğini geri çeker ve yerine yalnızca savaşmak için var olan bir kişiliği koyar. Savaş bittiğinde maske çıkarılır; öldürmenin anıları ise bu perdenin ardında, gündelik benliği zehirlemeyecek biçimde kalır.

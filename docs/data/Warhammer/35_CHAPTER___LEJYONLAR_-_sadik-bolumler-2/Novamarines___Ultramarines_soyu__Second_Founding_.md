@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/NovamarinesBadge.jpg/revision/latest?cb=20260109163845
+
 -# THE IMPERIAL ARCHIVE · sadik-bolumler-2 · Kayıt
 # Novamarines — Ultramarines soyu (Second Founding)
 

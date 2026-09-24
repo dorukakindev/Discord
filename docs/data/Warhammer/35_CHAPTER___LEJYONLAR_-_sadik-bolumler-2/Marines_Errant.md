@@ -11,5 +11,3 @@ Marines Errant (Gezgin Marinler), Mythos Angelica Mortis'te Eagle Warriors chapt
 Chapter, varlığı boyunca Imperium'un her köşesinde ve çoğu zaman onun sınırlarının çok ötesinde aktif olmuştur. Codex Astartes'a uyarlar, ama sürekli sefer halinde olmaları onlara olağanüstü bir esneklik ve dayanıklılık kazandırmıştır; geniş bir yelpazedeki Imperium Haçlı Seferleri'ne katılabilmişlerdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/23/MarinesErrant.jpg)

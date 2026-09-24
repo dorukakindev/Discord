@@ -10,8 +10,6 @@ Bu yaklaşım Elysian'lara Guard içinde seçkin bir ün kazandırmıştır; ne 
 
 Bu kanal alay geleneğinin kültürünü, doktrinini ve en iyi bilinen seferi olan Taros Campaign'i merkeze alır. Guard'ın genel yapısı için <#1551753458779029565>, benzer araçlarla savaşan fakat bambaşka bir kökenden gelen Tempestus Scion'lar için <#1551816756417269853> kanalına bakılmalıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/23/Elysian_Drop_Forces_deploying_on_planet_Betalis_III.png/revision/latest?cb=20120123014142)
-
 ## Elysia ve Seçkinlik Duygusu
 Elysia'nın kendisi hakkında yayımlanmış kaynaklar şaşırtıcı ölçüde sessizdir. Dünyanın konumu, sınıfı, toplumu ya da alay toplama düzeni ayrıntılı bir biçimde anlatılmaz; Imperium'un pek çok alay yurdu için sıkça yazılan coğrafya ve tarih sayfaları Elysia için bulunmaz. Arşiv bu boşluğu doldurmaz: Elysia'yı çöl, orman ya da hive dünyası diye nitelemek, kaynakların vermediği bir bilgiyi uydurmak olur.
 

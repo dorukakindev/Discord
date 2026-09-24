@@ -19,5 +19,3 @@ Parçalanan Behemoth filosunun kalıntıları Ultramar'ın çevresinde uzun sür
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551809334483361823>, <#1551809577425575998>, <#1551809394226765939>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/74/Old_One_Eye-0.jpg/revision/latest/scale-to-width-down/714?cb=20161207213107)

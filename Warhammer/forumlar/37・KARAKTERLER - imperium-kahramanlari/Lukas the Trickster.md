@@ -9,5 +9,3 @@ Lukas the Trickster (Strifeson, Gülen Kurt ve Jackalwolf olarak da anılır), S
 Kurnazlığı tartışmasızdır; silahsızken bile chapter'ın en "kirli" dövüşçüsüdür. Jackal Wolf, her zaman kardeşlerinden ayrı durmuş, kızgın Wolf Lord'lar tarafından bölükten bölüğe savrulmuş, hem ün salmış hem de aynı ölçüde nefret edilmiş bir figürdür. Onun şakaları ve hileleri çoğu zaman ölümcüldür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/73/LukasArtColor.jpg)

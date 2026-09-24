@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c5/ThurianEinhyrChampion.jpg/revision/latest?cb=20221213193354
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Einhyr Champion (rol kaydı)
 

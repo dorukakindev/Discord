@@ -18,4 +18,4 @@ Mortarion, Legion'uyla birlikte Göz'e çekildikten sonra bu dünyaya yerleşti.
 
 -# Kaynaklar: *Codex: Death Guard — 10th Edition*; *Dark Imperium: Plague War — Guy Haley*
 
--# İlişkili kayıtlar: <#1551587951631269999>, <#1551741720675487836>, <#1551588020694556762>, <#1551741846860996688>
+-# İlişkili kayıtlar: <#1551995328863932499>, <#1551650329316036699>, <#1551754683222327439>, <#1551818194841501818>

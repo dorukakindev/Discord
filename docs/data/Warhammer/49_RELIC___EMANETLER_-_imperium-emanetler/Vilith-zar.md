@@ -18,4 +18,4 @@ Yncarne, Biel-Tan'da Ynnari'nin doğuşunda ve sonraki çatışmalarda ortaya ç
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551588084628590646>, <#1551588087455289414>, <#1551740924244271140>
+-# İlişkili kayıtlar: <#1552483346846715924>, <#1551742665756901377>, <#1551810744754905123>

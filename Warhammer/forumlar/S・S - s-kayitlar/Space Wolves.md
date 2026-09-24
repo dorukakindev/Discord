@@ -13,8 +13,6 @@ Primarch'ların dağıtılmasının ardından Russ'ın kapsülü, dondurucu kı�
 
 Emperor'un Fenris'e gelişi de bir saga olarak aktarılır: yiyme ve içme yarışmalarında kendisini geride bırakan Russ'ı sonunda dövüşte yenen Emperor, bu yenilgiyi kahkahayla karşılayan Russ'ın sadakatini kazanmıştır. Bu anlatı, Chapter'ın kendi sözlü geleneğine ait bir destan olarak okunmalıdır; ayrıntıları kaynaktan kaynağa değişir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Space_Wolves_Livery.jpg/revision/latest?cb=20110305084412)
-
 ## Great Crusade
 Russ, VI Legion'ın başına geçtikten sonra Legion'ı Fenris'in savaşçı kültürüyle yeniden biçimlendirdi. Crusade boyunca Space Wolves, diğer Legion'ların kaçındığı ağır görevleri üstlenen bir güç olarak ün kazandı: isyankâr dünyaların cezalandırılması ve gerektiğinde bir Legion'ın hizaya getirilmesi. Horus Heresy dönemini işleyen eserler, Russ'ı ve Legion'ını Emperor'un "cellâdı" rolüne yerleştirir; bu rol Legion'a kardeşleri arasında korku, güvensizlik ve kin kazandırmıştır.
 

@@ -11,5 +11,3 @@ Raider, Drukhari'nin (Dark Eldar) imza akın gemisidir; açık, dikenli, keskin 
 Raider, bir Kabalite birliğini (Drukhari savaşçılarını) şimşek hızıyla, çoğu zaman düşmanın hiç beklemediği bir anda cepheye indirir; gelir, vurur, esir ve kurban toplar ve bir anda kaybolur. Üzerinde, topladığı kurbanlar için kazıklar ve dikenler taşır; bu, hem işlevsel hem de teröre yöneliktir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Dark_Eldar_Raider.jpeg/revision/latest?cb=20161219205824)

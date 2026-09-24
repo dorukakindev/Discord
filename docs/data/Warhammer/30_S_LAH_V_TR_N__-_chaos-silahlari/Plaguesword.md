@@ -7,4 +7,6 @@ Nurgle'ın Plaguebearer'larının taşıdığı irinli kılıç; en küçük çi
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/27/Plaguebearer.jpg)
+## Teknik ve Kullanım
+
+Nurgle'ın Plaguebearer'larının taşıdığı irinli kılıç; en küçük çizik bile dokunduğu dokuyu saniyeler içinde necrotize eden virus ve daemon hastalıklarıyla yüklüdür. Kesmekten çok bulaştırmak için kullanılır; yaranın iyileşmesi neredeyse imkânsızdır. Nurgle'ın 'cömertlik' armağanlarının fiziksel aracısıdır — her yara bir vaftizdir.

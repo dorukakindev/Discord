@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/DA_Inter_Chap.jpg/revision/latest?cb=20130119063357
+
 -# THE IMPERIAL ARCHIVE · A Kayıtları · Kayıt
 # Interrogator-Chaplain Asmodai
 

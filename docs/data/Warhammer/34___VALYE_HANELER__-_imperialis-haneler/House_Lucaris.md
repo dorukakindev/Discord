@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/8a/House_Lucaris_Icon.png/revision/latest?cb=20220102200353
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8a/House_Lucaris_Icon.png/revision/latest?cb=20220102200353)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Lucaris — Lucaris Hanedanı

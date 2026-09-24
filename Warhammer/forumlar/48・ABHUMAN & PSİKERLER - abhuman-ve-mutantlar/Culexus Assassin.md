@@ -21,4 +21,4 @@ Kaynaklarda en çok anılan silahı, çevredeki psişik enerjiyi yakalayıp yık
 
 -# Kaynaklar: *Nemesis — James Swallow*; *Codex: Imperial Agents — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714809345609929>, <#1551587991384752213>, <#1551588035399782573>, <#1551587976943902770>
+-# İlişkili kayıtlar: <#1552482133107408997>, <#1551753472070783096>, <#1551818131679215728>, <#1551997969417502752>

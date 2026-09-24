@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0e/Swooping_Hawks_Rune.png/revision/latest?cb=20150505205616
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları · Kayıt
 # Swooping Hawks
 

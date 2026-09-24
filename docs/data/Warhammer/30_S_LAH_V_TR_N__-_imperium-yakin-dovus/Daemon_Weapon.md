@@ -21,6 +21,4 @@ Silah maddi bir nesne olsa da etkisi Warp'tandır; içindeki daemon düşmanın 
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *The Talon of Horus — Aaron Dembski-Bowden*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ea/DaemonWeapon.png/revision/latest?cb=20121107120631)
-
 -# İlişkili kayıtlar: <#1551812225570836561>, <#1551654107058540595>, <#1551638958352506881>, <#1551809666454134928>

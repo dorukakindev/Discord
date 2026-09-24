@@ -19,5 +19,3 @@ Deff Dread'e bağlanmak her Ork'un gönüllü seçtiği bir yazgı değildir; ka
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4a/DeffDread1.jpg/revision/latest?cb=20260705175818)

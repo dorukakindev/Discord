@@ -19,5 +19,3 @@ Silent King'in yönetiminde Necrontyr'in makine bedenlere aktarılmasını tasar
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 9th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551812203584295003>, <#1551649070286897172>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c5/SzerasArt9thEdition.jpg/revision/latest/scale-to-width-down/799?cb=20200616150054)

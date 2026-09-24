@@ -13,8 +13,6 @@ Black Rage'e düşen savaşçılar **Death Company**'de toplanır. Benlikleri si
 
 Astorath'ın görevi, dönenlerin ve dönmeyi bekleyenlerin hikâyesidir. Kaynaklar, savaştan sağ çıkan ya da artık savaşa bile sürülemeyecek ölçüde yitip gitmiş kardeşlerin Chapter içinde yaşamaya bırakılmadığını anlatır; onların sonu Astorath'ın baltasıyla gelir. Bu, Blood Angels'ın kendi gözünde bir cellatlık değil, bir merhamet ve kurtuluş eylemidir: Redeemer unvanı da buradan gelir. Dışarıdan bakan bir gözlemci için ise bu, Sanguinius'un oğullarının kendi lanetini gizlemek için kurduğu en karanlık ayinlerden biri gibi görünebilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/36/AstoraththeGrim2.jpg/revision/latest?cb=20250106180716)
-
 ## Chapter'lar Arasında Dolaşan
 Blood Angels soyunun ardılları galaksiye dağılmıştır ve her biri kusurla farklı biçimde yaşar. Astorath'ın bu Chapter'lara gelişi, anlatılarda hem saygıyla hem de derin bir kasvetle karşılanır: onun geminin kapısında belirmesi, Chapter'ın içinde bir yerde kurtarılamayacak kardeşler bulunduğu anlamına gelir. Ardılların Astorath'ı nasıl karşıladığı, onun gelişine ne kadar izin verdiği ve bu yolculukların nasıl düzenlendiği kaynaklarda ayrıntılı biçimde anlatılmaz; arşiv bunları genel çerçevenin ötesinde kesinleştirmez.
 

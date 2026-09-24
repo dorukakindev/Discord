@@ -13,8 +13,6 @@ Russ'ın kapsülü, kıtaları mevsimden mevsime okyanusa gömülen ölüm düny
 
 Emperor'la karşılaşma da aynı destan dilinde aktarılır: Fenris'e gelen yabancı, yeme içme yarışlarında Russ'ı alt edemeyince onu dövüşte yenmiş, yenilgiyi kahkahayla karşılayan Russ da biat etmiştir. Hikâyenin öğrettiği şey, Russ'ın sadakatinin bir tören değil, kendisinden daha güçlü birini tanıyıp kabul etmenin sonucu olduğudur. Fenris'in savaşçı ahlakı, saga geleneği ve Emperor'a duyulan bu dolaysız, neredeyse kabilevi bağlılık Russ'ın VI Legion'a bıraktığı mirasın temelidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest/scale-to-width-down/750?cb=20160525204059)
-
 ## Emperor'ın Cellâdı
 Great Crusade'de Russ ve Legion'ı, diğer Legion'ların üstlenmek istemediği işleri yapan bir kuvvet olarak ün kazandı. Kaynaklarda Russ, Emperor'ın resmî olmayan cellâdı ve düzen bekçisi olarak anılır: isyankâr dünyaları cezalandırmak, gerektiğinde bir kardeşin karşısına dikilmek onun rolüydü. Dan Abnett'in *Prospero Burns* romanı, Legion'ın kendini bu işlev üzerinden tanımladığını ve Russ'ın, kardeşlerini durdurmaya yetecek bir silah olarak konumlandırıldığının farkında olduğunu gösterir. Aynı roman, Legion'ın kendi içinde **Rout** adını kullandığını ve Russ'ın barbar görüntüsünü bilinçli bir maske gibi taşıdığını işler.
 

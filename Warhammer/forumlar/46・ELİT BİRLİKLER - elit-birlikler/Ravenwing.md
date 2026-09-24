@@ -22,5 +22,3 @@ Siyah zırh; bike ve jetbike'lar, land speeder'lar; Dark Talon ve Nephilim gibi 
 -# Kaynaklar: *Codex Supplement: Dark Angels*; *Ravenwing — Gav Thorpe*; *Angels of Caliban — Gav Thorpe*
 
 -# İlişkili kayıtlar: <#1551813077991686208>, <#1551809277692215330>, <#1551816136679751721>, <#1551808888666587197>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/be/Ravenwing_Standard2.jpg/revision/latest?cb=20150713092450)

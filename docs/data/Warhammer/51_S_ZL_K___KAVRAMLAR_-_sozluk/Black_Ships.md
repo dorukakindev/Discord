@@ -9,5 +9,3 @@ Black Ships (Kara Gemiler), Adeptus Astra Telepathica'ya ait, galaksiyi dolaşı
 Black Ship'ler, "Tithe" (öşür) sisteminin bir parçası olarak çalışır; her İmparatorluk dünyası, vergisinin bir kısmını psyker biçiminde ödemek zorundadır. Gemiler, bu psyker'ları (genellikle korkmuş çocukları) toplar ve Terra'ya taşır. Yolculuk, çoğu için tek yönlüdür ve kasvetlidir; gemiler psyker'larla doludur ve sürekli bir dehşet ve hüzün atmosferi taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/32/Inquisitorial_Black_Ship.jpg/revision/latest?cb=20130418001957)

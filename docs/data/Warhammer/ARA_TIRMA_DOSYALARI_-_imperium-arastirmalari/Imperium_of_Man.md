@@ -31,8 +31,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3f/IoMhighres.png/revisi
 
 ## Büyüklük
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/IoMhighres.png/revision/latest/scale-to-width-down/900?cb=20190630130844)
-
 İmparatorluk, galaksideki en büyük ve en güçlü politik varlıktır. Bir İmparatorluk gezegeni, en yakın komşusundan yüzlerce veya binlerce ışık yılı uzakta olabilir. Yıldız imparatorluğu olarak, İmparatorluğun büyüklüğü bitişik toprak açısından değil, sadece kontrolü altındaki gezegen sistemlerinin sayısı açısından ölçülebilir. İmparatorluğun bir milyon dünyadan oluşan bir imparatorluk olduğu yaygın olarak belirtilirken, İmparatorluk aslında sayısız dünyayı kontrol eder. Bazıları bir milyon, milyonlarca, bir milyar veya toplamda milyarlarca dünya olduğunu söyler. Toplam gezegen sayısı tam olarak belirlenmemiştir; Administratum'un tüm departmanları kontrol edilen her dünyayı kataloglamaya adanmıştır — bu, alanın sürekli değişen doğası nedeniyle sonsuz bir görevdir. Yeni gezegenler sürekli keşfedilir, fethedilir veya sömürgeleştirilirken eskileri kaybedilir. İmparatorluk ayrıca sayısız milyonlarca yıldızı da kontrol eder.
 
 Bir milyon dünya kuralı, vatandaşları arasında yaygın olarak duyulan yaygın bir sözdür. Bir milyon dünya çok sayıda ve güçlü gelir. Baskın bir güç. İnsanların ego'su tarafından kolayca anlaşılır. Gerçekte, İmparatorluk milyarlarca dünyaya seyrek bir şekilde yayılmıştır, bireysel zerreler galaksinin genişliğine dağılmıştır. Birçok tehlikeli tehdide karşı savunmasız. Galaksinin büyük çoğunluğu keşfedilmemiş, bilinmeyen ve tehlikelidir. Wilderness Space'in geniş alanları, İmparatorluk uzayının keşfedilmiş ve nüfuslu bölgelerini bile ayırır ve parçalar.

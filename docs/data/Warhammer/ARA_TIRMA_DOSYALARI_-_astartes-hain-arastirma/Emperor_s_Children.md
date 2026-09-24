@@ -39,8 +39,6 @@ Emperor's Children, **Fulgrim**'in genetik materyalinden yaratıldı. Fulgrim, *
 
 #### Erken Crusade
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/64/EmperorsChildrenArmourial.png/revision/latest?cb=20170813041500)
-
 Emperor's Children, Great Crusade sırasında **İmparator'un en gözde Legion'ı** olarak kabul edildi. Özellikleri:
 
 - **Mükemmeliyetçilik** — Her savaşta mükemmellik arayışı.

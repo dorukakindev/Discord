@@ -19,5 +19,3 @@ Kaynaklar Orikan'ı, Imotekh'in fetihlerini öngörüleriyle yönlendiren, ancak
 -# Kaynaklar: *The Infinite and the Divine — Robert Rath*; *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551812203584295003>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/79/OrikantheDiviner.jpg/revision/latest?cb=20230929173137)

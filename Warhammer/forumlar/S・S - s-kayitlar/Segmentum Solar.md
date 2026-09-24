@@ -10,8 +10,6 @@ Bu merkezîlik yalnızca coğrafi değildir. Golden Throne, Senatorum Imperialis
 
 Segmentum'un **Segmentum Fortress**'i, yani askerî ve lojistik merkezi **Mars**'tır. Bölgedeki Imperial Navy kuvvetleri kaynaklarda **Battlefleet Solar** adıyla anılır. Mars'ın aynı anda hem Mechanicus'un başkenti hem de bir Segmentum kalesi olması, Terra ile Mars arasındaki kadim ortaklığın askerî örgütlenmeye yansımış biçimidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/62/Segmentum_solar.jpg/revision/latest?cb=20120406162728)
-
 Bölgenin kesin sınırları, kapsadığı sektör sayısı ya da nüfusu için yayımlanmış kanon güvenilir rakamlar vermez; bu kanal da vermez. Terra'nın kendisi <#1551809168032268310>, Mars'ın kurumsal yapısı <#1551816635839549491> kanalında işlenir; burada bölgenin bütünü ele alınır.
 ---MSG---
 ## Sol Sistemi: Çekirdeğin Çekirdeği

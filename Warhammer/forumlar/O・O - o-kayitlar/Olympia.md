@@ -10,8 +10,6 @@ Yayımlanmış kanon, Olympia'yı bir gezegen kataloğundaki madde gibi değil, 
 
 Bu kanal dünyanın kendisini merkeze alır. Primarch'ın hayatının bütünü için **kayıt**, Legion'ın kurumsal tarihi ve Warsmith'ler için **kayıt** kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Olympia.jpg/revision/latest?cb=20140407093303)
-
 ## Dağlar, Surlar ve Tiranlar
 Olympia'nın insanları, Age of Strife'ın galaksiyi birbirinden kopardığı çağlarda yalnız kalmış pek çok dünya gibi kendi başlarının çaresine bakmak zorunda kalmıştı. Ancak onları bir arada tutan bir krallık ya da imparatorluk yoktu. Gezegenin sarp dağ sıraları, her biri kendi vadisine, geçidine ve kalesine sığınmış şehir devletlerini birbirinden ayırıyor; bu kentler arasındaki ittifaklar ve ihanetler kuşaklar boyunca süren savaşları besliyordu. Kaynakların çizdiği Olympia, barışın iki savaş arasındaki soluklanmadan ibaret sayıldığı bir dünyadır.
 

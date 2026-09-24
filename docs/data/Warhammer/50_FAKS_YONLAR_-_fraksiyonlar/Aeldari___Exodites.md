@@ -18,4 +18,4 @@ Fall'un yıkımından büyük ölçüde uzak kaldılar ve binyıllar boyunca dü
 
 -# Kaynaklar: *Codex: Eldar*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551741271301947542>, <#1551587928025600012>, <#1551587961009741945>, <#1551714833236496445>
+-# İlişkili kayıtlar: <#1551655323658494093>, <#1551997822725922938>, <#1551814105046851615>, <#1551812290439942255>

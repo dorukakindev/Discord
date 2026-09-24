@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/45/Roboute_Guilliman_Avenging_Son.png/revision/latest?cb=20160919055552
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Roboute Guilliman (XIII)
 

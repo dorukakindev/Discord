@@ -13,5 +13,3 @@ Predator, güvenilir Rhino şasisine bir zırhlı kule ve sponson silahları ekl
 Predator, iki ana varyantta gelir ve chapter'ın ihtiyacına göre donatılır. "Predator Annihilator" varyantı, kulesinde ve sponsonlarında lascannon'lar taşır ve tank avına odaklanır; düşman zırhlılarını uzaktan deler. "Predator Destructor" varyantı ise autocannon ile donanır ve piyade kümeleri ile hafif araçları temizlemede ustadır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/31/PredatorArt.jpg)

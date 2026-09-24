@@ -10,8 +10,6 @@ Legion'un tarihi, efendisinin tarihiyle iç içedir. Primarch Angron, yeryüzün
 
 Bu kanal Legion'un kendisini, Angron ile ilişkisini ve güncel dönüşünü ele alır. Khorne'un doğası <#1551815867845578773> kanalında, Heretic Astartes ekosistemi <#1551812225570836561> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/revision/latest?cb=20120915224004)
-
 ## Kökenler: War Hounds ve Nuceria
 Angron'un bulunmasından önce XII Legion, War Hounds adıyla savaşan, saldırgan ama disiplinli bir yürüyüş kuvvetiydi. Primarch'ın düştüğü dünya Nuceria'da ise onu bekleyen şey bir baba değil, bir arena oldu. Soyluların, High Riders olarak anılan yönetici sınıfın eğlencesi için dövüştürülen köle gladyatörler arasında büyüyen Angron'un kafatasına Butcher's Nails yerleştirildi; bu kadim ve kaba teknoloji onu hem savaş alanında ölümcül hem de sükûnet anlarında dayanılmaz bir acının esiri kıldı.
 

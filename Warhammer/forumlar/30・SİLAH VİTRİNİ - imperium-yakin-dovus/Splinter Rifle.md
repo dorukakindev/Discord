@@ -21,4 +21,4 @@ Silahın asıl gücü mermide değil zehirdedir. Drukhari'nin kullandığı toks
 
 -# Kaynaklar: *Codex: Drukhari*; *Path of the Renegade — Andy Chambers*
 
--# İlişkili kayıtlar: <#1551587949450371253>, <#1551587928025600012>, <#1551588076609085510>
+-# İlişkili kayıtlar: <#1551997841356881980>, <#1551997822725922938>, <#1551993959876657192>

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/29/Slanni_Brave.jpg/revision/latest/scale-to-width-down/462?cb=20160720181609
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/29/Slanni_Brave.jpg/revision/latest/scale-to-width-down/462?cb=20160720181609)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Old Ones — Eski Tanrılar (Kadim Progenitörler)

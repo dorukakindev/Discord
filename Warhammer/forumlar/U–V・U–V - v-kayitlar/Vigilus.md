@@ -10,8 +10,6 @@ Gezegen, birbirinden kıraç düzlüklerle ayrılmış dev **hivesprawl**'lara b
 
 Great Rift'in ardından Vigilus'ta patlayan çok cepheli savaş, Imperial kayıtlarda **War of Beasts** diye anılır. Bu kanal dünyanın ve bu savaşın perspektifini merkeze alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f1/VigilusMap.jpg/revision/latest/scale-to-width-down/991?cb=20190107031457)
-
 ## War of Beasts: İstila ve İhanet
 Savaş, gökten başladı. Speedboss **Krooldakka** önderliğindeki bir Ork **Speedwaaagh!**'ı Vigilus'un düzlüklerine inerek hivesprawl'ları kuşattı; araç sürüleri boşlukları kaplayıp surlara çarptı. Ork'ların saldırısı, gezegenin savunmasını dışarıdan zorlayan kaba ama tüketici bir baskıydı.
 

@@ -11,5 +11,3 @@ Freeblades (Hanesiz Şövalyeler), herhangi bir Imperial Knight hanesine bağlı
 Bir şövalye, çeşitli yollarla Freeblade olur; bazıları, hanelerinin bir felakette (bir Tyranid istilası, bir Kaos saldırısı, bir iç savaş) yok olmasından sonra geriye kalan tek kişidir ve artık hanesiz kalmıştır. Bazıları, kişisel bir onur borcu, bir kefaret arayışı ya da bir yemin uğruna hanesinden ayrılmayı seçer. Bazıları ise sürgün edilmiş ya da hanesiyle yolları ayrılmıştır. Her biri, artık kendi başınadır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e0/ObsidianKnight.jpg)

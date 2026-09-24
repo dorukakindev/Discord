@@ -11,5 +11,3 @@ Night Lords, primarch'ları Konrad Curze'ün (Night Haunter) terörle adalet fel
 Curze, Nostramo'da suçu yalnızca akıl almaz bir terörle dizginleyebileceğine inanmıştı; suçluları parçalar, cesetlerini ibret için sergilerdi. Bu doktrin lejyona da işledi: Night Lords bir gezegeni teslim almak için önce bir şehri kâbusa çevirir (rastgele dehşet, parçalanmış cesetler, çığlıklar), geri kalanını korkudan teslim olmaya zorlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/96/NLTerrorist.jpg)

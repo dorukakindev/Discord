@@ -11,8 +11,6 @@ Mephiston'un kendi anlatısı, eski kimliğinin öldüğü üzerinedir. Calistar
 ## Calistarius
 Calistarius, Blood Angels Librarius'unda yetişmiş bir Librarian'dı. *Space Hulk* oyununun anlatısında, Blood Angels'ın **Sin of Damnation** adlı hulk'a karşı yürüttüğü seferlerde Sergeant Lorenzo'nun yanında savaşan Terminator zırhlı psyker olarak görülür. Bu dönemin Calistarius'u, kaynaklarda henüz sıradan bir Librarian'dan fazlası olarak çizilmez: güçlü, disiplinli, ama Chapter'ın her savaşçısı gibi içindeki kusurun gölgesinde yaşayan bir kardeş.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Brother_Calistarius.jpg/revision/latest?cb=20141215203238)
-
 ## Hades Hive'da Yeniden Doğuş
 941.M41'de Ghazghkull'un Waaagh!'ı Armageddon'u vurduğunda Calistarius, Commander Dante'nin komutasındaki Blood Angels kuvvetleriyle birlikte gezegene indi. **Hades Hive** çevresindeki savaşta çöken bir yapının enkazı altında kaldı. Kaynakların anlatımına göre günlerce karanlıkta, taşın altında, yalnızca Black Rage'in kabarışı ve Sanguinius'un ölüm anından sızan görüntülerle baş başa kaldı. Blood Angels'ın bildiği bütün örneklerde bu kabarış geri dönüşsüz bir düşüşle sonuçlanırdı.
 

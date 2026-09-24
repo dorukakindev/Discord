@@ -13,8 +13,6 @@ Slaanesh'in cinsiyeti kaynaklarda sabit değildir. Eski metinler çoğunlukla er
 **Kozmik yeri**
 Pantheon içinde Slaanesh'in doğal hasmı Khorne'dur: disiplinli öfke ile sınırsız aşırılık arasındaki bu karşıtlık sayısız savaşta kendini gösterir. Diğer tanrılarla ilişkisi de rekabetle doludur; Slaanesh'in doğuşu, Chaos'un kendi iç dengesini sarsan son büyük olay olarak anlatılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/01/MarkofSlaaneshBig.png/revision/latest?cb=20170908234238)
-
 ## Doğuşu ve Fall of the Aeldari
 Slaanesh'in doğuşu, Warhammer 40,000 kozmolojisinin en kesin tarihlendirilmiş metafizik olaylarından biridir. Aeldari uygarlığı, zirvesinde hiçbir ihtiyacın ve korkunun kalmadığı bir refah ile zenginlik çağına ulaştığında, pek çoğu duygusal ve duyusal deneyimin sınırlarını zorlamaya yöneldi. Haz kültleri bütün imparatorluğa yayıldıkça bu ruhsal enerji Warp'ta birikmeye başladı ve Aeldari'nin kendi psychic yansımasından yeni bir tanrı şekillendi.
 

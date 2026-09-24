@@ -13,8 +13,6 @@ Dante, Baal sisteminin kabilelerinden devşirilmiştir; Blood Angels'ın aday to
 
 Dante'nin Chapter'ı ne zaman devraldığına dair kesin bir yıl arşivde verilmez; kaynakların ortak vurgusu, komutasının bin yılı aşkın, bazı anlatımlarda on bir yüzyılı bulan bir süreye yayıldığı ve bu sürenin bir Space Marine için bile olağanüstü sayıldığıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b7/Dante_4.jpg/revision/latest?cb=20120408032404)
-
 ## Maske, Yaş ve Kehanet
 Dante'nin **Death Mask of Sanguinius**'u başkalarının yanında neredeyse hiç çıkarmaması, kaynaklarda kişisel bir tercih olarak değil, siyasi ve ruhani bir sorumluluk olarak açıklanır: Blood Angels'ın ve onları izleyen halkların gözünde Dante, Sanguinius'un yaşayan bir yankısıdır; yaşlanmış yüzü ise bu imgenin kırılganlığını ele verecektir. Maske böylece hem bir relic hem de bir yüktür.
 

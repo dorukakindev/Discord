@@ -18,6 +18,4 @@ Slaydo, Balhaut'taki kesin zaferin ardından öldü ve komutayı Warmaster Macar
 
 -# Kaynaklar: *First and Only — Dan Abnett*; *Honour Guard — Dan Abnett*; *The Sabbat Worlds Crusade — Dan Abnett*
 
--# İlişkili kayıtlar: <#1551587930706022431>, <#1551714805390508233>, <#1551587941900361860>, <#1551587984305029242>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Departmento_Cartographicae_Chart_Sabbat_Worlds.jpg/revision/latest?cb=20111024184158)
+-# İlişkili kayıtlar: <#1551997696456532101>, <#1551651549804236801>, <#1551812165172994160>, <#1552481908988969001>

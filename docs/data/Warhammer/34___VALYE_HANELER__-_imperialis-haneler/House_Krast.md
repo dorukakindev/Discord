@@ -11,5 +11,3 @@ House Krast (Krast Hanedanı), İmparatorluk'a bağlı Imperial Knight haneleri 
 Krast'ın bu nefretinin kökleri çok eskiye, Horus Heresy'ye kadar uzanır; o büyük ihanette, bazı Knight haneleri Kaos'a düştü ve kardeşlerine ihanet etti. House Krast bu ihaneti asla unutmadı ve affetmedi; o günden beri, düşmüş hanelere ve onların yozlaşmış Chaos Knight'larına karşı amansız bir kan davası sürdürürler. Onlar için bir hain Knight'ı yok etmek, kutsal bir görev ve bir onur borcudur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/99/KrastOrg.jpg)

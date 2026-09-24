@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/72/Inwit2.jpg/revision/latest?cb=20140410021650
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/72/Inwit2.jpg/revision/latest?cb=20140410021650)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Inwit — Inwit

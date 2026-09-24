@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/BA_1st_Co._Veteran.jpg/revision/latest?cb=20120913050039
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Terminator Armour (Tactical Dreadnought Armour)
 

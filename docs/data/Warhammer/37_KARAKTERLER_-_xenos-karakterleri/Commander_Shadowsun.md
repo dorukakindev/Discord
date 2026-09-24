@@ -11,5 +11,3 @@ Commander Shadowsun (Tau adıyla O'Shaserra), Tau Ateş Kastı'nın (Fire Caste)
 Shadowsun, Tau'nun üçüncü büyük genişleme seferine (Third Sphere Expansion) önderlik etti; bu sefer, Tau İmparatorluğu'nun sınırlarını insanlık ve diğer ırklar pahasına genişletti. Stratejik dehası ve disiplini, onu Tau toplumunda neredeyse efsanevi bir konuma taşıdı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/0f/ShadowsunNov.jpg)

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Star_Phantoms_Livery.jpg/revision/latest?cb=20150831101944
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Star_Phantoms_Livery.jpg/revision/latest?cb=20150831101944)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Star Phantoms — Yıldız Hayaletleri

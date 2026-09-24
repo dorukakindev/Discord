@@ -7,5 +7,3 @@ Bir Space Marine Chapter'ının manevi lideri ve savaşçı-rahibi; kardeşlerin
 Chaplain (Ruhban), bir Space Marine Chapter'ının manevi kalbi ve savaşçı-rahibidir; kardeşlerinin ruhunu, inancını ve cesaretini ayakta tutan kutsal bir önderdir. Bir Chapter yalnızca silahla ayakta durmaz; onun en derin gücü, kardeşlerinin paylaştığı inanç, gelenek ve adanmışlıktır. İşte Chaplain, bu manevi mirasın bekçisidir. O, kardeşlerine Chapter'ın değerlerini aşılar, İmparator'a duyulan saygıyı, bazen de gerçek bir tapınmayı canlı tutar ve onların ruhsal iyiliğini korur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/85/DAChap.jpg)

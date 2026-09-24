@@ -15,8 +15,6 @@ Bu kanal olayları üçlemenin kendi perspektifinden, yani üç kitabın nasıl 
 - *Gathering Storm II: Fracture of Biel-Tan* — Yvraine'in yükselişi, Ynnari'nin doğuşu ve Biel-Tan'ın parçalanması.
 - *Gathering Storm III: Rise of the Primarch* — Guilliman'ın Macragge'da dirilişi, Terra'ya yürüyüşü ve Indomitus Crusade'in ilanı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Cadia.jpg/revision/latest?cb=20100408114727)
-
 ## Birinci Cilt: Fall of Cadia
 İlk kitap, Abaddon the Despoiler'ın 13th Black Crusade'inin Cadian Gate'e çöken son dalgasını anlatır. Chaos donanmaları, Heretic Astartes, Renegade orduları ve daemon lejyonları Cadia'yı her yönden kuşatırken, Abaddon'ın asıl hedefi yalnızca gezegenin orduları değil, binlerce yıldır Warp'ı dizginleyen kara **pylon** ağıydı. Warmaster'ın ele geçirdiği kadim **Blackstone Fortress**'ler bu savaşın en ürkütücü silahları oldu.
 

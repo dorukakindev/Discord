@@ -13,8 +13,6 @@ Bu kanal Scythes of the Emperor'ı bir Chapter olarak ele alır: Ultramarines k�
 ## Kökenler ve Sotha'nın Bekçileri
 Scythes of the Emperor, Ultramarines'in gene-seed'ini, yani Roboute Guilliman'ın soyunu taşır. Kuruluşları, Heresy'den yaklaşık bin yıl sonraya yerleştirilen **Third Founding**'e bağlanır; bu bakımdan Guilliman'ın köklü ardıl Chapter'larından biridir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7f/ScythesoftheEmperor.jpg/revision/latest?cb=20260109164450)
-
 Chapter'a yurt olarak verilen Sotha, galaksinin doğu ucunda, Eastern Fringe'de yer alan görece sakin bir dünyaydı. Chapter buradan galaksinin bu ıssız ve tehlikeli kıyısını gözetler; korsanlara, xenos akıncılarına ve sınırın sayısız tehdidine karşı Imperium'un varlığını ayakta tutardı. Yüzyıllar boyunca bu görevi sessizce, büyük destanlara konu olmadan sürdürdüler.
 
 Sotha'nın Chapter için taşıdığı anlam, sıradan bir yurt dünyasınınkinden fazlaydı. Dünyanın altında, Horus Heresy sırasında Imperium Secundus'a yol gösteren kadim Pharos aygıtı gizliydi. Scythes of the Emperor bu mirasın üzerinde yaşadı; ancak aygıtın gerçek doğası, onlar için de büyük ölçüde bir sır olarak kaldı. Kaderlerinin bu gizemle nasıl kesiştiğini ise ancak felaket günü anlayacaklardı.

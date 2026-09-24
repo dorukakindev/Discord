@@ -12,8 +12,6 @@
 
 Bu kanal kusurun kendisini, onu yöneten kurumları ve soyun bu yükle nasıl yaşadığını merkeze alır. Chapter'ın genel tarihi <#1551811368389181491>, Primarch'ın kişiliği <#1551650289579335757>, gene-seed biyolojisinin geneli gene-seed kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4d/Tycho_Black_Rage.jpg/revision/latest/scale-to-width-down/1000?cb=20160618052445)
-
 ## Kökenler: Bilinen ve Bilinmeyen
 Kusurun nereden geldiği, Imperium'un binyıllar boyunca cevaplayamadığı bir sorudur ve arşiv de onu kesinleştirmez. Kaynaklar birkaç ipucunu yan yana koyar. Birincisi, Horus Heresy dönemini işleyen eserler, IX Legion'ın içinde bir kan açlığının Heresy'den önce de var olduğunu ve Legion'ın bunu dış dünyadan gizlediğini ima eder; kusur Signus'ta doğmamış, orada ilk kez herkesin gözü önünde patlamıştır. James Swallow'un *Fear to Tread* romanında Word Bearers'ın hazırladığı daemonik tuzak, Legion'ı kan kokusuyla çıldırtan bir öfkeye sürükler.
 

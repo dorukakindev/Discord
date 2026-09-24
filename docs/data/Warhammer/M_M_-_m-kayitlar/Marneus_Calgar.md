@@ -13,8 +13,6 @@ Calgar Ultramar'da yetişip Ultramarines saflarında yükselmiştir; ancak Chapt
 
 Lord Macragge makamı yalnızca askerî bir rütbe değildir. Chapter Master aynı zamanda Ultramar dünyalarının sivil düzeninin koruyucusu ve Guilliman'ın klasik devlet anlayışının mirasçısıdır; Calgar'ın yüzyıllar boyunca taşıdığı yük de bu ikili sorumluluktan doğar. Bir yanda savaş alanındaki komutan, öte yanda meclislere, valilere ve Ultramar'ın yurttaşlarına karşı hesap veren bir yönetici vardır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/80/MarneusCalgarVigilus.jpg/revision/latest?cb=20190107032801)
-
 ## Macragge ve Behemoth
 745.M41'de Hive Fleet Behemoth'un Ultramar'a ulaşması, Calgar'ın hayatını ve Chapter'ın belleğini bölen andır. Prandium'un yutulmasının ardından filo Macragge'a yöneldiğinde Calgar, Imperial Navy ile birlikte yörüngede savaşırken yüzeydeki kutup kalelerinin savunmasını da örgütlemek zorunda kaldı. Kuzeyde Captain Invictus komutasındaki **1st Company**, kayıtlara göre son savaşçısına kadar yok oldu. Calgar'ın kendisi de bu savaşta ağır yaralandı; sonraki yayınlar onu karşısına çıkan **Swarmlord** ile çarpışmış olarak anlatır. Savaşın kaderi ise Circe çevresinde, Behemoth'un hive ship'lerinin büyük kısmının yok edilmesiyle belirlendi.
 

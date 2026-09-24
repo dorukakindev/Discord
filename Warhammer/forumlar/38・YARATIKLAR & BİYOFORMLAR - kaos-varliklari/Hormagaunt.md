@@ -22,5 +22,3 @@ Scything talon'lar, sıçramaya uyarlanmış bacaklar, hızlı hareket. Kaynakla
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Hormagaunts_colored.jpg/revision/latest?cb=20110726010217)

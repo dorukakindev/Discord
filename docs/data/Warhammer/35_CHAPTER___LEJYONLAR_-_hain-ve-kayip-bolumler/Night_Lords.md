@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Night Lords — Gece Lordları (VIII. Lejyon)

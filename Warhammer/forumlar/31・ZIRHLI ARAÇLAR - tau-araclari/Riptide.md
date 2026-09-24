@@ -13,5 +13,3 @@ Riptide, Tau İmparatorluğu'nun ağır battlesuit'idir (savaş zırhı); Tau'nu
 Riptide, ağır ateş gücü ile hareketliliği dengeli biçimde birleştirir; Ion Accelerator (yüksek enerjili iyon topu) ya da Heavy Burst Cannon (gatling) ile uzaktan ağır darbeler indirir, twin smart missile ya da fusion blaster ile destek alır. Bir battlesuit olarak, bir tanktan daha çevik ama bir tank kadar güçlüdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/98/Riptide6.jpg)

@@ -9,5 +9,3 @@ Red Thirst (Kan Susuzluğu), Blood Angels chapter'ını ve onun tüm halef chapt
 Kan Susuzluğu, taşıyıcısını kana, ölüme ve yakın dövüşe karşı doyumsuz, ilkel bir açlığa iter; savaşın hararetinde, bir Blood Angel kendini bu açlığa kaptırabilir ve kontrolünü yitirebilir. Çoğu zaman demir bir iradeyle bastırılır, ama her savaş, her dökülen kan, bu susuzluğu biraz daha derinleştirir; bu, kaçınılmaz, yavaş bir çöküştür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/37/BloodAngelsRedThirst.jpg/revision/latest/scale-to-width-down/719?cb=20200702195608)

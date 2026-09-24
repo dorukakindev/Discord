@@ -20,8 +20,6 @@ Bu kanal, taslakların hangi aşamada olduğunu izlemek ve yayın sırasını y�
 5. Yayına Hazır bir metinde yayından önce değişiklik yapılırsa taslak Hazır'a geri alınır.
 6. Yayın gerçekleştiğinde kayıt kuyruktan kaldırılır ve <#1551588115540480020>na işlenir.
 
----
-
 ## Kuyruk Tablosu ve Öncelik
 
 Kuyruk, editörler tarafından sabitlenmiş tek bir mesajda güncel tutulur. Her satır bir taslağı temsil eder.

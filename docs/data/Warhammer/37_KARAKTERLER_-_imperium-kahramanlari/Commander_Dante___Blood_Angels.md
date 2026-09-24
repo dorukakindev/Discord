@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b7/Dante_4.jpg/revision/latest?cb=20120408032404
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Commander Dante — Blood Angels
 

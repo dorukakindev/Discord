@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/62/Patriarch.jpg/revision/latest?cb=20180215061625
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Patriarch (rol kaydı)
 

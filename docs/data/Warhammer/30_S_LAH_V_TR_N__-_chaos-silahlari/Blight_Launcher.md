@@ -7,4 +7,6 @@ Death Guard'ın küçük çaplı veba bombası fırlatıcısı; her atış, isab
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/bf/BlightLauncher.jpg)
+## Teknik ve Kullanım
+
+Death Guard'ın el bombası fırlatıcısı; zehirli çamur yüklü el bombalarını bölge bombardımanı gibi atar. Patlayan her bomba sadece şarapnel saçmaz — çevresindeki havayı, suyu ve toprağı da Nurgle'ın hastalıklarıyla kirletir. Sadece öldürmez, öldürdüğü zemini de yaşanmaz kılar. Plague Marine tüfeklerinin en korkulan destek silahıdır.

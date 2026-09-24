@@ -9,5 +9,3 @@ Old One Eye ("Tek Göz"), Tyranid biyoformları arasında benzersiz bir varlıkt
 İlk kez Macragge Savaşı'nda (Hive Fleet Behemoth'un Ultramar istilası) öne çıktı; Ultramarines'e ağır kayıplar verdirdi ve o savaşta bir gözünü kaybetti, adını oradan aldı. O savaşta sözde öldürüldü, ama Hive Mind onu yeniden büyüttü; ve her dirilişinde, önceki ölümünün dersleriyle daha kalın zırhlı, daha güçlü ve daha tehlikeli olarak geri döndü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/67/Oldoneeye.jpg)

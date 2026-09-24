@@ -10,8 +10,6 @@ Questoris suit'lerinin temelinde, Dark Age of Technology'den kalma şablonlara d
 
 Questoris suit'leri Knight Hanelerinin asıl omurgasını oluşturur. Daha küçük Armiger'ler öncülük ve avcılık yaparken, daha nadir ve ağır Dominus suit'leri kuşatma ve ağır ateş desteği sağlarken, Questoris'ler hem hattı tutan hem de düşman saflarına dalan çok yönlü bir güç olarak görülür.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/ad/Imperial_Knight_10e.jpg)
-
 ## Questoris Varyantları
 Imperial Knight Hanelerinin kullandığı başlıca Questoris düzenleri şunlardır:
 - **Knight Paladin**: hızlı ateşli bir battle cannon ile reaper chainsword taşıyan, klasik ve dengeli düzen.

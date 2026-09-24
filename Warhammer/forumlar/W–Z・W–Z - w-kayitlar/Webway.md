@@ -11,8 +11,6 @@ Webway'in yapısı tek ve bütünlüklü bir harita değildir. Kaynakların anla
 
 Webway'in içinde yalnızca tüneller değil, bütün şehirler ve âlemler de bulunur. Bunların en büyüğü, Drukhari'nin başkenti Commorragh'tır. Craftworld'lerin Webway kapıları ise Asuryani'nin galaksinin farklı noktalarına ulaşmasını sağlar. Webway'in varlığı, Aeldari'nin sayıca az olmasına rağmen galaksinin dört bir yanında aniden ortaya çıkabilmesinin de temel nedenidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Warp_Gate.jpg/revision/latest?cb=20151101182120)
-
 ## Kökenler: Old Ones ve War in Heaven
 
 Webway, yayımlanmış kanonda Old Ones tarafından inşa edilmiş bir yapı olarak tanımlanır. War in Heaven döneminde Old Ones, Necrontyr ve onların C'tan efendileriyle girdikleri savaşta bu ağı stratejik bir ulaşım ve savunma altyapısı olarak kullandı. Webway'in inşasının ayrıntıları ve Old Ones'ın bunu hangi teknolojiyle gerçekleştirdiği kanonda açıklanmamıştır.

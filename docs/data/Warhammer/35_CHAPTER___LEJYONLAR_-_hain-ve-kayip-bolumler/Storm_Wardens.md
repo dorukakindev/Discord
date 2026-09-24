@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/77/Storm_Wardens_Livery.jpg/revision/latest?cb=20170128020915
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/77/Storm_Wardens_Livery.jpg/revision/latest?cb=20170128020915)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Storm Wardens — Fırtına Bekçileri

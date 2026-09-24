@@ -8,8 +8,6 @@ Kategori: Renegade Astartes / korsan gücü · Fraksiyon: Red Corsairs (Astral C
 
 Zamanla bu topluluk, Astral Claws'ın dar bir kalıntısı olmaktan çıkıp galaksinin dört bir yanından kaçan Astartes'in, dönek gemi mürettebatlarının ve her türden yağmacının toplandığı bir sığınağa dönüştü. Imperial değerlendirmeler onu çoğu zaman en büyük renegade Astartes topluluklarından biri olarak anar; ne var ki mevcuduna dair kaynaklarda kesin bir sayı verilmez ve yapılan tahminler birbirini tutmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Red_Corsairs_SP.png/revision/latest?cb=20180709210013)
-
 Bu kanal Red Corsairs'i bir örgüt, bir ekonomi ve bir sığınak olarak ele alır. Huron'un kişiliği, yaraları ve Chaos'la kişisel pazarlıkları <#1551640215154597919> kanalında; Badab War'un askerî seyri <#1551811438547312645>'da; fırtınanın kendisi ise <#1551809294750449746>'da işlenir. Burada merkezde olan soru şudur: yemininden dönen bir Space Marine, Imperium'un dışında nasıl yaşar ve kime hizmet eder?
 ---MSG---
 ## Kökenler: Bekçilerin Düşüşü

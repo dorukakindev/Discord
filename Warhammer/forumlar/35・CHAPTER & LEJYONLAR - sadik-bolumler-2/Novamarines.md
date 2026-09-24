@@ -11,5 +11,3 @@ Novamarines (Nova Marinler), Ultramarines Lejyonu'nun (Roboute Guilliman) bir İ
 Novamarines'i en çok tanımlayan olaylardan biri, Badab Savaşı'ndaki rolüdür. 906.M41'de, Engizisyon'un ilk yardım çağrılarına yanıt olarak savaş bölgesine bir Novamarines birliği ulaştı. İki bölüğü üç Strike Cruiser ve daha küçük saldırı gemileriyle konuşlandırdılar ve bir "itfaiye" (fire brigade) rolü üstlendiler; küçük müfrezeler halinde, kuşatılmış kardeş Space Marine'lerin imdadına koşup ikmal hatlarını korudular.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/ce/Novamarines_Original_Color_Scheme.jpg)

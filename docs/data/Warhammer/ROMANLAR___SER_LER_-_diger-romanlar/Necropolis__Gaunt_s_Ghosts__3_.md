@@ -12,5 +12,3 @@ Ghostların kovan şehri savunmasına katılması; Commissar'lık ve 'Welcome to
 -# Seri: Diğer Romanlar (Black Library)
 
 -# Kaynaklar: Black Library
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/da/NecropolisCover.jpg/revision/latest?cb=20171226193244)

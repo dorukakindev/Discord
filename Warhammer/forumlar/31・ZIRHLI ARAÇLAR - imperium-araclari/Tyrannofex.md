@@ -22,5 +22,3 @@ Kalın kitin kabuk ve ağır biyolojik silahlar: rupture cannon, asit püskürte
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a1/Tyrannofex_battle.png/revision/latest/scale-to-width-down/733?cb=20140725230344)

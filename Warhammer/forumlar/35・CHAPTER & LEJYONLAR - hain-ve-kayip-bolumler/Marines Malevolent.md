@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Marines_Malevolent_SP.jpg/revision/latest?cb=20150831012555
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Marines_Malevolent_SP.jpg/revision/latest?cb=20150831012555)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Marines Malevolent — Kötücül Marinler

@@ -10,8 +10,6 @@ Bu bedenin en belirgin sonucu, acıya ve yaraya karşı neredeyse alaycı bir ka
 
 Ork biyolojisi tek bir bireyle sınırlı da değildir. Ork'lar, Gretchin'ler, Snotling'ler, Squig'ler ve onları besleyen mantar türleri aynı yaşam döngüsünü paylaşan tek bir ekosistemin parçalarıdır. Imperial yazında bu bütün için sık kullanılan terim **orkoid**dir. Bu kanal o döngünün biyolojisini ele alır; klanlar ve alt kültürler **kayıt**, tanrılar ve Waaagh!'ın metafiziği **kayıt**, türün genel tarihi **kayıt** kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Armageddon-_Warhammer_40%2C000_New_Edition_Cinematic_Trailer/revision/latest?cb=20260326135225)
-
 ## Spor Döngüsü: Üreme Değil, Yayılma
 Ork'ların dişisi, erkeği ya da cinsel üremesi yoktur. Tür, yaşamı boyunca ve özellikle öldüğü anda saldığı sporlarla çoğalır. Ork anlatılarında "o" diye anılmaları, biyolojik bir cinsiyetin değil dilsel bir alışkanlığın sonucudur. Bir savaş alanında yüzlerce Ork'un can vermesi, bu yüzden yalnızca bir kayıp değil, aynı zamanda bir ekimdir.
 

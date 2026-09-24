@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/46/Red_Scorpions_Chapter_Icon.jpg/revision/latest?cb=20161118072442
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/46/Red_Scorpions_Chapter_Icon.jpg/revision/latest?cb=20161118072442)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Red Scorpions — Kızıl Akrepler

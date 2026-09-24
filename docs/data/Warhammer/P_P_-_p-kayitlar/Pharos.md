@@ -10,8 +10,6 @@ Pharos'un hikâyesi yine de tek bir çağa sığmaz. On bin yıl sonra Sotha, Sc
 
 Bu kanal aygıtın kendisini merkeze alır. Onu gerekli kılan fırtına için ruinstorm, ışığının etrafında kurulan yönetim için **kayıt**, Astronomican'ın doğası için **kayıt** kanalına bakılmalıdır. Aygıtın M41'deki olası sonuçları **kayıt** ve **kayıt** kanallarıyla ilişkilidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/36/Pharos.jpg/revision/latest?cb=20170102054534)
-
 ## Köken ve Doğa
 Pharos'u kimin, ne zaman ve ne amaçla inşa ettiği yayımlanmış kanonda tümüyle açıklanmaz. Heresy dönemi anlatılarında aygıt, insan elinden çıkmadığı apaçık bir xenos kalıntısıdır; sadık teknisyenler bile işleyişini ancak kısmen kavrayabilir. Sonraki yayınlar onu **Necron** teknolojisiyle ilişkilendirir; bu bağ, aygıtın galaksinin War in Heaven çağından kalma katmanlarına ait olabileceğini düşündürür, ancak kesin bir yapım tarihi ya da yapımcı hanedan adı verilmez.
 

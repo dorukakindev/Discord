@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/de/Asuryani.jpg/revision/latest?cb=20230501133347
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Path (Asuryani yaşam disiplini)
 

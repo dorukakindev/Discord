@@ -11,5 +11,3 @@ Lucius the Eternal, Emperor's Children lejyonunun en yetenekli kılıç ustası 
 Slaanesh'in laneti şöyle işler: Lucius öldürüldüğünde, onu öldüren kişi en küçük bir zafer hazzı, gurur ya da memnuniyet duyarsa, Lucius o kişinin bedeninde yeniden doğar; öldüren, yavaşça Lucius'a dönüşür ve yüzü, kurbanın zırhının bir parçası olarak donar. Bu yüzden Lucius'u yenmek, ondan kurtulmaktan beterdir: onu öldürmemek imkânsız, öldürdükten sonra zafer hissetmemek ise neredeyse imkânsızdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/19/LuciusHeresy.jpg)

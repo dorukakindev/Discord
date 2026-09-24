@@ -13,8 +13,6 @@ Asuryani toplumunun bütün kurumları tek bir travmaya verilmiş cevaptır: ata
 
 **Kanal sınırı.** Türün bütünü, panteonu ve diğer Aeldari toplumları <#1551810506078290021>, craftworld'lerin doğduğu felaket <#1551814105046851615> kanalında işlenir. Burada merkezde Asuryani'nin kendi toplumu, kurumları ve savaş geleneği durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/34/Alaitoc_Guardian2.jpg/revision/latest?cb=20150316214010)
-
 ## Craftworld'ün Anatomisi — Wraithbone ve Infinity Circuit
 
 Bir craftworld, dökülmüş ya da dövülmüş bir yapı değil, büyütülmüş bir yapıdır. Temel malzemesi olan **wraithbone**, Warp'tan çekilen enerjinin fiziksel biçime sokulmasıyla oluşan psiko-plastik bir maddedir. Bu maddeyi şekillendiren ve onaran uzmanlar **Bonesinger**'lardır; adlarını, wraithbone'u psişik şarkılarla biçimlendirmelerinden alırlar.

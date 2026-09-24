@@ -10,8 +10,6 @@ Kampanyanın kurmaca çerçevesi, adını taşıyan dünyanın kaderiydi. **Medu
 
 Bu kanal etkinliğin kendisine ve işleyişine odaklanır. Warp fırtınalarının evren içindeki doğası için <#1551809666454134928>, benzer bir global kampanya için <#1551814074080297004> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/eb/MedusaV_planet.jpg/revision/latest?cb=20100712083048)
-
 ## Kampanyanın İşleyişi
 Medusa V, Eye of Terror kampanyasının biçimini büyük ölçüde sürdürdü. Oyuncular maç sonuçlarını çevrimiçi bir sistemle bildiriyor, bu sonuçlar da Medusa V'teki tarafların hanesine yazılıyordu. GW, kampanya boyunca düzenli güncellemeler yayımlayarak dünyadaki dengenin nasıl değiştiğini anlattı.
 

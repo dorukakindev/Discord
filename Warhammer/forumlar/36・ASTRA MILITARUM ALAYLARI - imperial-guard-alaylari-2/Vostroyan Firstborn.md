@@ -11,5 +11,3 @@ Vostroya İlk Doğanları, Segmentum Obscurus'ta, Göz Terror'un ötesinde yer a
 Vostroyalılar, Horus Sapkınlığı sırasında asker sağlamayı reddetmenin kefareti olarak, her ailenin her ilk doğan oğlunu ebediyen Astra Militarum'a vermeye ant içtiler. 'İlk Doğan Borcu' olarak bilinen bu yemin, alaylarının ruhunu biçimlendirir; her İlk Doğan, soyunun onurunu cephede temsil eder.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d7/Vostroyan-trooper.jpg)

@@ -8,8 +8,6 @@ Adeptus Arbites, Warhammer 40,000 evreninde İmparatorluk'un gezegenler arası k
 
 Personelin çoğu Schola Progenium (İmparatorluk devlet okulları) mezunudur. Carapace Armour giyerler, İmparatorluk'un kanununun acımasız ama tarafsız bekçileri olurlar. Mahkumlar genelde idamla cezalandırılır ve yakınları servitorize edilir. Yargılama sistemi son derece sert işler: Ölüm cezası, servitorizasyon veya Penal Legionlara (İmparatorluk Gardiyanı ceza lejyonlarına) gönderilme en yaygın cezalar arasındadır. Bazı dünyalarda suçlular İmparatorluk Gardiyanı ceza lejyonlarına gönderilir; orada savaş alanında İmparator'un bereketini kazanma şansına erişirler.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Arbites_Icon.jpg/revision/latest?cb=20150725004632)
-
 Yargıçlar (Judge/Arbitrator), suçluyu mahkeme önüne sürükler, mahkeme merasimsel olarak suçluyu suçlu ilan eder ve cezayı infaz eder. Bir suçlu olmak İmparatorluk'ta zaten tek bir suça eşdeğerdir: HERESY (Dinsizlik/İhanet).
 
 Motto: *"To be just, our law must be cruel."* — Adeptus Arbites'in mottosu.
@@ -161,5 +159,3 @@ Adeptus Arbites yaratılırken şu kaynaklardan ilham alınmıştır:
 7. Citadel Journal #12, #29 — Eski sürüm kuralları
 8. *Agents of the Imperium* (2023 Boarding Actions PDF) — 9th Edition kuralları
 9. *Kill Team: Arbites* (2023) — Yeni miniature seti
-
-![gorsel](https://static.wikitide.net/1d6chanwiki/5/53/Arbites_Coat_of_Arms.png)

@@ -10,8 +10,6 @@ Ragnar'ın arşivdeki yeri iki farklı kaynak katmanından beslenir. Bir yanda C
 
 Bu kanal Ragnar'ı bir kişi olarak ele alır. Chapter'ın örgütlenmesi ve tarihi için <#1551638910344630307>, Great Wolf için <#1551642816092962907>, dünyası için <#1551645208406401069> kanallarına bakılabilir. "En genç Wolf Lord" nitelemesi, önceki arşiv kayıtlarında da belirtildiği gibi, Chapter içi bir övgüdür ve kesin bir yaş ya da tarihle desteklenmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/19/Blood_on_the_mountain_ragnar_by_nachomolina.jpg/revision/latest/scale-to-width-down/638?cb=20170131032247)
-
 ## Fenris'te Gençlik
 King'in *Space Wolf* romanı Ragnar'ı, Fenris'in denizlere ve buzlara kazınmış kabile dünyasında, kan davalarının ve yağma seferlerinin içinde büyüyen genç bir savaşçı olarak tanıtır. Fenris'in insanları için hayat, acımasız bir doğaya ve birbirlerine karşı verilen sürekli bir savaştır; bu savaşta kahramanca ölmek, Space Wolves'un dikkatini çekmenin ve Chapter'a seçilmenin yoludur. Chapter, adaylarını çoğu zaman ölümün eşiğinde, en büyük cesareti gösterdikleri anda seçer.
 

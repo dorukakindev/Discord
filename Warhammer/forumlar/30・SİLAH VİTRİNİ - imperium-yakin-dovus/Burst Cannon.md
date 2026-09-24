@@ -19,5 +19,3 @@ T'au battlesuit'lerinin en yaygın silahlarından biridir: XV8 Crisis battlesuit
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Burstcannon10.JPG/revision/latest?cb=20140704022711)

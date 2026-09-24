@@ -19,5 +19,3 @@ Imotekh, Phaeron'u varisiz öldüğü için iç savaşa sürüklenen Mandragora'
 -# Kaynaklar: *Codex: Necrons — 5th Edition*; *Codex: Necrons — 10th Edition*; *Crusade: Pariah Nexus*
 
 -# İlişkili kayıtlar: <#1551817348900589669>, <#1551759762193121282>, <#1551818153271627807>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/42/Imotekh.png/revision/latest?cb=20130427081851)

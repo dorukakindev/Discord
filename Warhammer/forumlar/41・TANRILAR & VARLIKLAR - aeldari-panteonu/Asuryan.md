@@ -11,5 +11,3 @@ Mitolojide o kadar yüce ve uzak kabul edilirdi ki ona doğrudan tapınılmaz, y
 Ama Düşüş geldiğinde, Slaanesh'in doğuşunun yarattığı psişik fırtına panteonun neredeyse tamamını yuttu; Asuryan bile bu felaketten kurtulamadı ve yok oldu (ya da en azından artık aktif değildir). Tanrıların kralının bile düşmesi, Aeldari uygarlığının çöküşünün ne kadar mutlak olduğunu gösterir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/92/Asuryan.png)

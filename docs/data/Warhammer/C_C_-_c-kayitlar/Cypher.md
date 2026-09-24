@@ -10,8 +10,6 @@ Unvanın kendisi de yanıltıcıdır. Cypher'ın bütün Fallen'ı yöneten bir 
 
 Bu kanal Cypher'ı kişi ve bilmece olarak ele alır; Fallen topluluğunun genel tarihi <#1551809277692215330>, Dark Angels'ın avı ve sırrı <#1551813077991686208> ile <#1551638997539758123> kanallarındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Lord_Cypher.jpg/revision/latest/scale-to-width-down/722?cb=20131227103607)
-
 ## Kimlik Belirsizliği
 Cypher'ın yüzü çoğunlukla kapüşonun gölgesinde kalır ve kaynaklar kimliğini bilinçli olarak saklar. Onun Caliban isyanına bizzat katılmış biri olduğu, Warp fırtınasıyla zamanın içinde savrulan Fallen'dan biri olduğu yaygın bir kabuldür; ama bu bile Dark Angels'ın ve Fallen'ın kendi anlatılarına dayanır. Cypher'ı belirli bir Heresy dönemi karakteriyle özdeşleştiren okur yorumları vardır; Cypher'ın bir kişi değil, farklı Fallen'ın sırayla üstlendiği bir kimlik olduğu da uzun süredir tartışılır. **Kanon durumu: doğrulanmamış teori.**
 

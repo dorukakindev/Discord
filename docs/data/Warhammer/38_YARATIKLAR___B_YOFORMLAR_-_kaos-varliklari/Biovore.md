@@ -25,5 +25,3 @@ Spore mine'lar yalnızca Biovore'dan değil, başka organizmalardan ve yörünge
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Tyranid_Biovore.jpg/revision/latest?cb=20100330105709)

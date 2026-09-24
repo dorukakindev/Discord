@@ -13,8 +13,6 @@ Ullanor Crusade'de Overlord Urlakk Urg'un imparatorluğunun yıkılmasının üz
 
 Dizinin ilk kitabı bu rehaveti bilinçli olarak sahneler: Imperium'un kurumları, felaket kapıya dayandığında bile tehdidin boyutunu kavramakta gecikir. War of the Beast'in asıl dehşeti de buradadır. Düşman yalnızca güçlü değildir; onu karşılayacak devlet, kendi kendini felç etmiştir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/IF_Veteran_Beast_Arises.jpg/revision/latest?cb=20160919011906)
-
 ## Ardamantua: İlk Darbe
 Savaşın açılışı Segmentum Solar'daki **Ardamantua** dünyasında yaşandı. Imperial Fists'in büyük bir kuvveti orada, kaynaklarda Chromes adıyla geçen böceksi bir xenos türüne karşı savaşıyordu. Çatışma sürerken gezegenin yörüngesinde devasa bir Ork gök cismi belirdi. Bu ay-kalenin ortaya çıkışıyla birlikte savaşın bütün dengesi altüst oldu: Ork'lar yüzeye yığınla indi, ay-kaleden yöneltilen silahlar Imperial filoyu parçaladı ve Imperial Fists, Chapter olarak neredeyse bütünüyle yok edildi.
 

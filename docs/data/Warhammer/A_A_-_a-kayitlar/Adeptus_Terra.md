@@ -16,8 +16,6 @@ Ecclesiarchy, Inquisition, Officio Assassinorum ya da Navis Nobilite gibi yapıl
 
 Bu kanal çatının kendisini, ortak kültürünü ve galaksiyle kurduğu ilişkiyi ele alır; tek tek kurumların ayrıntısı kendi kanallarındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Adeptus_Terra_Icon.jpg/revision/latest?cb=20140526090516)
-
 ## Kökenler ve Tarihçe
 Adeptus Terra'nın kökleri, Emperor'ın Terra'yı birleştirmesiyle kurulan yönetim düzenine ve Treaty of Olympus'la Mars'la yapılan ortaklığa uzanır. Mars kendi rahipliğini, üretimini ve yasalarını korurken Terra fethedilen dünyaların sivil yönetimini üstlendi; iki gövde arasındaki bu iş bölümü, Imperium'un sonraki on bin yılı boyunca da temel çizgisini korudu. Great Crusade ilerledikçe Legion'ların arkasından gelen yazıcılar, vergi tahsildarları ve valiler, Terra'nın yönetim aygıtını galaksinin uzak köşelerine taşıdı; kurumların erken dönem örgütlenmesinin ayrıntısı ise yayımlanmış kanonda tam olarak açıklanmaz.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ae/Sisters_of_battle_seraphim_by_ilacha.jpg/revision/latest?cb=20150804221021
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları · Kayıt
 # Seraphim
 

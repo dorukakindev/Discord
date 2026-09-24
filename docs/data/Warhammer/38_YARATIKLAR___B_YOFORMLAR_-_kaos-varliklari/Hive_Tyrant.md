@@ -19,5 +19,3 @@ Tyrannic Wars boyunca Imperial kaynaklar Hive Tyrant'ları en öncelikli hedef o
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551809334483361823>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Hive_Tyrant_1.png/revision/latest/scale-to-width-down/725?cb=20140304224106)

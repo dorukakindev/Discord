@@ -13,8 +13,6 @@ Warrant'lar genellikle bir hanedanın içinde kuşaktan kuşağa aktarılır. Ka
 
 Bir Warrant'ın tanıdığı haklar ve sınırlar belgeden belgeye değişebilir; iki Rogue Trader'ın aynı yetkilere sahip olduğunu varsaymak doğru değildir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Rogue_Trader_Icon2.jpg/revision/latest?cb=20140526181558)
-
 ## Yapı, Kültür ve İlişkiler
 Bir Rogue Trader, çoğu zaman küçük bir krallığa benzeyen bir yapının başındadır. Hanedanın gemileri, silahlı kuvvetleri, danışmanları, tüccarları ve uzmanları, onun kişisel iradesine bağlı bir maiyet oluşturur. Bu maiyetin en önemli üyelerinden biri, gemileri Warp'ta yönlendiren **Navigator**'dır; Navigator hanedanlarıyla kurulan ilişki, bir Rogue Trader'ın başarısı için hayati önem taşır.
 

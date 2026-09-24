@@ -11,5 +11,3 @@ Ghost Ark (Hayalet Gemi), Necron ordularının hem bir nakliye aracı hem de bir
 Temel işlevi, Necron Warrior'larını (ana piyade gücünü) taşımaktır; ama bunu sıradan bir taşıyıcıdan çok daha sinsi bir biçimde yapar. Açık iskelet yapısı boyunca, Necron Warrior'lar dizilir ve gemi onları savaşın içinden geçirir. Daha da korkuncu, onarım yeteneğidir; Ghost Ark, parçalanmış ya da düşmüş Necron Warrior'ları nano-makineleriyle onarabilir ve onları yeniden ayağa kaldırabilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3b/40k-156-ghost-ark.jpg)

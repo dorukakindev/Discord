@@ -18,4 +18,4 @@ Fall'la birlikte bu dünyalar Göz'ün içinde kaldı ve binyıllar boyunca Trai
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551587961009741945>, <#1551714773392035952>, <#1551588050960781432>, <#1551588084628590646>
+-# İlişkili kayıtlar: <#1551814105046851615>, <#1551813775848509482>, <#1551754688008032321>, <#1552483346846715924>

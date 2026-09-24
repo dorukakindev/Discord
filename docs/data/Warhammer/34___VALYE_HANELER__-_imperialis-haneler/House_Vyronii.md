@@ -9,5 +9,3 @@ Segmentum Obscurus'un en köklü hanelerinden; sis ve bataklıkla örtülü Dama
 House Vyronii (Vyronii Hanedanı), İmparatorluk'a bağlı (Questor Imperialis), Secundus dereceli bir Imperial Knight hanedanıdır; Segmentum Obscurus'un en köklü ve en saygın hanelerinden biri sayılır. "Felweather Bekçileri" ve "Tanrı-yiyenler" unvanlarıyla anılırlar; onları tanımlayan şey, yılmaz azimleri ve hiçbir hanede görülmeyen, eşsiz kederli mizaçlarıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/64/VyroniiKnight.jpg)

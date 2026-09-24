@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/63/Black_Staff_of_Ahriman.png/revision/latest/scale-to-width-down/758?cb=20131016082559
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/63/Black_Staff_of_Ahriman.png/revision/latest/scale-to-width-down/758?cb=20131016082559)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Ahriman — Bin Oğul'un Mimarı

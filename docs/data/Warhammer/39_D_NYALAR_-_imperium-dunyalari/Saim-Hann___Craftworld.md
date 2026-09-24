@@ -18,4 +18,4 @@ Saim-Hann, Biel-Tan gibi Exodite dünyalarının savunmasına kuvvet gönderen c
 
 -# Kaynaklar: *Codex: Craftworlds — 8th Edition*; *Vigilus Ablaze*; *Rise of the Ynnari: Wild Rider — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551741271301947542>, <#1551588071235911740>, <#1551740852148240444>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551655323658494093>, <#1551995191441883288>, <#1551638958352506881>

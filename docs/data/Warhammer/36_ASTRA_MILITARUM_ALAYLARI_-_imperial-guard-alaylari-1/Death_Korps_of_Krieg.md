@@ -11,5 +11,3 @@ Krieg Ölüm Kolordusu, bir zamanlar milyarlarca insanın yaşadığı müreffeh
 Alay, gönüllü kendini feda kültürüyle, siper ve kuşatma savaşı uzmanlığıyla ve gaz maskeli, kasvetli görünümüyle tanınır. Kriegliler kişisel kimliklerini bir kenara bırakır; numaralarla anılır, bireysel zafer ya da hayatta kalma beklentisi taşımazlar. Görevleri Imparator'a borçlu oldukları kanı geri ödemektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c3/DKOKOfficer.jpg)

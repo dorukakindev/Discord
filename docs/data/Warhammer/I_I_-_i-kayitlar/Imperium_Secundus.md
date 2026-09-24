@@ -13,8 +13,6 @@ Guilliman'ın hayatı için <#1551808704901423186>, Ultramar'ın tarihi için <#
 ## Kuruluşun Arka Planı
 Word Bearers'ın Calth'a yaptığı baskın ve orada gerçekleştirilen ayinler, Heresy'nin haritasını değiştiren **Ruinstorm**'u doğurdu. Warp fırtınası Ultramar'ı Terra'dan kopararak seyir ve haberleşmeyi neredeyse imkânsız kıldı; Lorgar ile Angron'un Shadow Crusade'i Ultramar dünyalarını yakıp yıkarken Guilliman, dışarıdan hiçbir haber alamadan kendi krallığını savunmak zorunda kaldı. Uzun sessizlik Guilliman'ı en kötü ihtimale göre plan yapmaya yöneltti. Imperium Secundus bu yalnızlığın ve bu hesabın ürünüdür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/IoMhighres.png/revision/latest/scale-to-width-down/1000?cb=20190630130844)
-
 ## Pharos: Sotha'daki Fener
 Astronomican'ın yokluğunda Ultramar'ı birleştirmek ve dağılmış sadıkları kendine çekmek için bir ışığa ihtiyaç vardı. Guilliman bu ışığı, Ultramar'ın doğu sınırındaki **Sotha** dünyasında, bir dağın içine gömülü kadim xenos cihazı **Pharos**'ta buldu. Cihaz Warp'ın içinden bir işaret yayarak gemilerin Ruinstorm'da yol bulmasına imkân tanıdı ve Imperium Secundus'un fiilî Astronomican'ı oldu. Guy Haley'nin *Pharos* romanı bu aygıtı ve onun uğruna verilen savaşı ayrıntılı biçimde işler.
 

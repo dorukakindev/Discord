@@ -11,5 +11,3 @@ Warp'taki Gölge (Shadow in the Warp), bir Tyranid hive fleet'inin Hive Mind'ın
 Gölge'nin etkisi yıkıcıdır; bir bölgeyi kaplayan bu psişik karanlık, Astropath'ların telepatik iletişimini keser ve o bölgeyi galaksinin geri kalanından tümüyle koparır. Bir dünya, Gölge'nin altına girdiğinde, yardım çağrısı bile gönderemez hale gelir; sessizliğe gömülür. Aynı karanlık, psyker'ları boğar, onların gücünü ve hatta akıl sağlığını tehdit eder; Hive Mind'ın engin, aç ve kişiliksiz bilinci, tüm psişik aktiviteyi bastırır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d7/Shadow-in-the-Warp.jpg)

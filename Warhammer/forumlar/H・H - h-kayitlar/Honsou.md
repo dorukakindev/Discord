@@ -12,8 +12,6 @@ Bu kanal Honsou'yu bir kişi olarak ele alır. Legion için <#155163765256906754
 
 > Honsou codex'lerden çok romanların figürüdür. Aşağıdaki anlatı, ağırlıkla McNeill'in kitaplarına dayanır; romanlardaki her sahne ayrıntısı burada kesinleştirilmemiştir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a6/IronWarriorsHonsou.jpg/revision/latest?cb=20110915043500)
-
 ## Kökenler: "Yarı-Kan"
 Honsou'nun Iron Warriors içindeki konumunu belirleyen şey, gene-seed'inde başka bir Legion'un mirasının bulunmasıdır. Kardeşleri onu bu yüzden **yarı-kan** diye aşağılar. Heresy'den bu yana Eye of Terror'da yaşayan, gene-seed stokları giderek tükenen ve yeni savaşçılarını çoğu zaman bozulmuş ya da çalıntı mirasla yaratmak zorunda kalan Traitor Legion'ların dünyasında, bu tür karışık bir soy şaşırtıcı değildir. Ama Iron Warriors'ın gözünde saflık, kıdem ve Perturabo'ya uzanan kan bağı hâlâ bir değer ölçüsüdür; Honsou bu ölçüde her zaman eksik kalır.
 

@@ -11,5 +11,3 @@ Helbrute, Kaos Space Marine'lerinin Dreadnought'udur; İmparatorluk Dreadnought'
 İmparatorluk Dreadnought'undaki kahraman saygıyla uyutulurken, Helbrute'un içindeki lanetli savaşçı on bin yıllık hapis, yalnızlık ve Warp'ın yozlaştırıcı etkisiyle çıldırmıştır. Sürekli acı, öfke ve delilik içindedir; lahde hapsolmuş olmanın verdiği klostrofobi ve nefret onu bir canavara dönüştürmüştür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/8d/HelbruteArt.jpg)

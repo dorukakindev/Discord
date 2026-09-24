@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/73/LionElJonsonWolfBladeMini.jpg/revision/latest/scale-to-width-down/828?cb=20230324161910
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/73/LionElJonsonWolfBladeMini.jpg/revision/latest/scale-to-width-down/828?cb=20230324161910)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Lion El'Jonson — Ormanın Aslanı

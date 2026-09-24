@@ -11,5 +11,3 @@ Red Scorpions, gen-tohumlarının olağanüstü saflığıyla gurur duyan, mutas
 Gen-tohum saflığına o kadar değer verirler ki, sıradan insanlarla teması bile sınırlarlar (kirlenme korkusuyla) ve diğer chapter'larla gen-tohum paylaşmayı reddederler. Güçlü ve seçkin bir Apothecary geleneğine sahiptirler; bu, hem gen-tohumlarını korumalarını hem de yaralı savaşçıları kurtarmalarını sağlar. Ağır teçhizat ve disiplinli savaşla bilinirler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5d/Astraeus.jpg)

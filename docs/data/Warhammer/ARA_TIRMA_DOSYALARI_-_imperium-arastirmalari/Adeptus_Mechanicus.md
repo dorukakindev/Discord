@@ -18,8 +18,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/
 
 **Techpriests** (Teknik Rahipler) olarak bilinen bireysel üyeleri, **Forge Worlds** (Demir Dünyaları) olarak bilinen düzinelerce, belki yüzlerce ağır kirliliğe maruz kalmış gezegen-fabrika komplekslerine sahiptir. Adeptus Mechanicus'un en büyük demir dünyası, en güçlü silahların üretildiği ana dünyası **Mars**'tır — bunların çoğunu paylaşmayı reddeder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723)
-
 İmparatorluğun bir parçası olmasına rağmen, **AdMech** aslında **Great Crusade** döneminde ve büyük ölçüde günümüzde bile saygın bir süper güç olarak **kendi başına bir ulustu**. "İmparatorluğun parçası olma" saçmalığı, **Mars Antlaşması** tarafından imzalanan iyi niyet jestiydi, ancak eski liderleri Chaos'a düştüğünde **"Adeptus Mechanicus"** olduklarında kodifiye edildi. Yine de yarı-bağımsızlık ve özel mülkiyet haklarını güvence altına aldılar — nasıl mı? Bir **Imperator titanını** senato odasına yürüterek ve onları bina boyutlu silahlarla hedef alarak.
 
 ### Mega-Şirket Olarak Adeptus Mechanicus

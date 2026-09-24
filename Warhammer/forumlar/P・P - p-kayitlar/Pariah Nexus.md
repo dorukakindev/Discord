@@ -10,8 +10,6 @@ Bu felaketin ardında Necron'lar durur. Bölgedeki dünyalarda yükselen devasa 
 
 Bu kanal olaylara bir savaş bölgesi ve kampanya olarak bakar. Necron uygarlığının genel yapısı **kayıt**, C'tan'ların doğası **kayıt**, Warp'ın kendisi ise **kayıt** kanalında ele alınır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/77/PariahNexusLocation.jpg)
-
 ## Keşif: Zone of Silence ve Battle Group Kallides
 Noctis Aeterna'nın karanlığı dağılmaya başladığında astropath'lar ve psykerlar, Warp'ın uğultusu içinde ürpertici bir boşluk fark ettiler. Kaynaklara göre her ruh Warp'a bir ışık düşürür; oysa bu bölgeden hiçbir ışık gelmiyordu. Imperial kayıtlarda bir "sessizlik bölgesi" olarak anılan bu alanı araştırmak üzere Indomitus Crusade'e bağlı **Battle Group Kallides**, Groupmaster **Marran** komutasında Nephilim bölgesine yöneldi.
 

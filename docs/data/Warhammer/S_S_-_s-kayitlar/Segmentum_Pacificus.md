@@ -8,8 +8,6 @@ Kategori: Coğrafya / İdari Bölge · Fraksiyon: Imperium of Man · Dönem: Hor
 
 Segmentum'un **Segmentum Fortress**'i **Hydraphur**'dur ve bölgenin Imperial Navy kuvvetleri, yani Battlefleet Pacificus, bu dünyaya bağlı olarak anılır. Hydraphur, Black Library'de alışılmadık ölçüde ayrıntılı bir portreye sahiptir: Matthew Farrer'ın **Shira Calpurnia** romanları, Adeptus Arbites'in bu kale-dünyadaki işleyişini anlatırken Hydraphur'u donanma üslerinin, Ecclesiarchy törenlerinin, soylu ailelerin ve kurumlar arası çekişmelerin iç içe geçtiği kalabalık bir merkez olarak resmeder. Bir Segmentum kalesinin yalnızca bir garnizon değil, kendi siyaseti ve çürümesiyle yaşayan bir toplum olduğunu en iyi bu kitaplar gösterir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/96/Segmentum_pacificus.jpg/revision/latest?cb=20120406172323)
-
 Bölgenin kesin sınırları, sektör sayısı ve nüfusu yayımlanmış kanonda verilmez; burada da tahmin edilmez.
 ---MSG---
 ## Tarihçe: Rakip Taht ve Fatihin Seferi

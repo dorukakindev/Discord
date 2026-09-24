@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revision/latest?cb=20140312041617
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revision/latest?cb=20140312041617)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Taranis — Taranis Hanedanı

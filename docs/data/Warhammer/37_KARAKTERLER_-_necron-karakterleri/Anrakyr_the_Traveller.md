@@ -13,5 +13,3 @@ Anrakyr the Traveller (Gezgin), mezar dünyasından mezar dünyasına galaksi bo
 Çoğu Necron'un aksine, Anrakyr Büyük Uyku'dan aklı tam yerinde ve yenilenmiş bir amaçla uyandı; bilinci, milyonlarca yıllık uykunun aşındırmasına yenik düşmedi. Birçok Necron soylusu için o, asaletin en yüksek örneğidir; halkının yararına tüm kişisel rütbe ve statü bağlarını terk etmiş bir savaşçı. Görevi, hâlâ uykuda olan kardeş hanedanları uyandırmaktır; gerekirse bunu zorla, savaşarak yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ed/Wayfarer%27sBauble.jpg)

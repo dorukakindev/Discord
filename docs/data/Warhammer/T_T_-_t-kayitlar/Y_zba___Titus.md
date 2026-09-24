@@ -17,5 +17,3 @@ Bolt tabancası ve zincir kılıç ustalığı, liderlik ve sıra dışı Warp d
 -# Kaynaklar: Warhammer 40,000: Space Marine / Space Marine II (oyunlar)
 
 -# İlişkili kayıtlar: `ultramarines`, `primaris-marines`, `inquisition`, `blank`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Warhammer_40%2C000-_500_Worlds_Announced_-_World_Championships_Warhammer_Preview_Live%21_2025/revision/latest?cb=20251111150830)

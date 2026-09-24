@@ -21,6 +21,4 @@ Ağır bir top, yakın dövüş pençeleri ve ek silah kolları taşıyan çok b
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714702705561620>, <#1551714726583607336>, <#1551714756161703968>, <#1551714793138954350>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/41/Defiler.png/revision/latest?cb=20131207045157)
+-# İlişkili kayıtlar: <#1551812225570836561>, <#1551650329156788287>, <#1552482861872062494>, <#1551654107058540595>

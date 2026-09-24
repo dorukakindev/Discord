@@ -13,5 +13,3 @@ Commissar Sebastian Yarrick, sıradan bir insan olmasına rağmen galaksinin en 
 Yarrick, Ork peygamberi Ghazghkull Thraka'nın Armageddon'a yönelttiği devasa istilalarda (İkinci ve Üçüncü Armageddon Savaşları) verdiği amansız direnişle ün kazandı; kovan şehirleri cehenneme dönerken onun varlığı insanlığın moralini ayakta tuttu. Bir Ork'un güç kıskacını koparıp kendi koluna taktı ve bionik bir göz edindi; bu görünüş onu daha da efsaneleştirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/99/Yarrick_No_Claw_Warhammer_40%2C000_Armageddon.jpg)

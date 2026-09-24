@@ -11,5 +11,3 @@ Hierophant Biyo-Titan, Tyranid Hive Mind'ının Titan ölçeğindeki canavarıd�
 Hierophant, muazzam ateş gücü ve fiziksel güç taşır; bio-cannon'ları (canlı toplar) ile uzaktan döver, dev scything talon'ları (tırpan-pençeler) ile yakında en büyük düşmanları bile parçalar, spore mayını püskürtücüleri ile çevresini korur. Bir düşman Titanı'yla bile baş edebilecek güçtedir; Tyranid sürüsünün en büyük ve en güçlü savaş unsurlarındandır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a2/HierophantFW_IA4cover2018.jpg)

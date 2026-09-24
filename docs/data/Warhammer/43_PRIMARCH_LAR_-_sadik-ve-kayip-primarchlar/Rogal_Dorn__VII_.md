@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/94/Rogal_Dorn_sketch.jpg/revision/latest?cb=20140410020309
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Rogal Dorn (VII)
 

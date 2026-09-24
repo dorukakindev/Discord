@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/Redemptionist.jpg/revision/latest?cb=20120716195747
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Cult of Redemption (Redemptionist'ler)
 

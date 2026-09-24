@@ -19,5 +19,3 @@ Night Scythe'lar Necron akınlarının öncüsü olarak anlatılır: bir dünyan
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f8/Nightscythe1.jpg/revision/latest?cb=20130402102258)

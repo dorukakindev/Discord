@@ -11,5 +11,3 @@ Legio Gryphonicus, Imparatorluk dilinde "War Griffons" (Savas Grifonlari) olarak
 Bu donanim dunyasi yalnizca devasa tanri-makineleriyle degil, Adeptus Mechanicus genelinde gipta edilen, disiplin ve isabetleriyle un salmis Skitarii lejyonlariyla da aniliyordu.\n\nHorus Sapkinligi boyunca lejyon, yeminlerine sadik kalarak Hain lejyonlara karsi sarsilmaz bir kararlilikla savasti. War Griffons, dunya-kiran ates gucuyle korku saliyor; Imparatorluk saflarinda bir ideal ve mukemmel bir Titan lejyonu ornegi olarak gosteriliyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/6f/GryphWarmaster.jpg)

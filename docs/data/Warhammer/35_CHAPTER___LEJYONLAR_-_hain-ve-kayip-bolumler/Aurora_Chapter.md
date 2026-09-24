@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/df/Aurora_Livery.jpg/revision/latest?cb=20230531172710
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/df/Aurora_Livery.jpg/revision/latest?cb=20230531172710)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Aurora Chapter — Şafak Chapter'ı (Aurora)

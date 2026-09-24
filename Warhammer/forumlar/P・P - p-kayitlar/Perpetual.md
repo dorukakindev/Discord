@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/50/EmperorsWisdom.jpg/revision/latest?cb=20110727213356
+
 -# THE IMPERIAL ARCHIVE · P Kayıtları · Kayıt
 # Perpetual
 

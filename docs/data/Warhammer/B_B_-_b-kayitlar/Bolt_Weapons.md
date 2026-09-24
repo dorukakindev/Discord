@@ -10,8 +10,6 @@ Silahın anlamı teknik üstünlüğüyle sınırlı kalmaz. Astartes için bolt
 
 Bu kanal bolt silahını bir aile olarak ele alır ve tarihine, mekaniğine, kültürel yüküne bakar: boltgun'dan bolt pistol'a, heavy bolter'dan Primaris çağının bolt rifle'ına dek. Tekil silahların kayıtları forum-30-silah-vitrini altındaki alt kanallarda tutulur; burada amaç ailenin bütününü ve anlamını görmektir. Oyun içi sayısal değerler bu anlatının dışında kalır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Bolter_Baal-Pattern_Ultima.jpg/revision/latest?cb=20140102222913)
-
 ## Mekanik: Bir Bolt Nasıl Öldürür
 Bolt silahının kalbinde kendinden itişli mermi yatar. Küçük bir başlangıç yükü mermiyi namludan fırlatır; hemen ardından merminin kendi motoru tutuşur ve onu bir mikro-füze gibi hedefe doğru hızlandırır. Bu ikili düzen, silaha yakın mesafede sertlik, uzakta ise delici bir güç kazandırır.
 

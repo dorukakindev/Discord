@@ -12,8 +12,6 @@ Bu kanalda anlatılan düzen bir **ideal**dir. Kaynaklar, uzun savaşlar ve ağ�
 
 Yapının temel mantığı basittir: Chapter Master'ın ve uzman kurumların oluşturduğu bir **Chapter Command**, onun altında on company ve bütün bu yapıyı taşıyan filo, fortress-monastery ve sayısız ölümlü hizmetkâr.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Adeptus_Astartes_Icon.jpg/revision/latest?cb=20190630130730)
-
 ## Chapter Command
 Yapının tepesinde **Chapter Master** durur. Chapter'ın en üst komutanıdır; çoğu zaman aynı zamanda homeworld'ün ya da Chapter'ın egemenliğindeki dünyaların efendisidir. Ultramarines'in başındaki Marneus Calgar'ın Ultramar'ın Lord Macragge'ı olarak yönettiği dünyalar, bu makamın askerî olduğu kadar siyasi bir ağırlık da taşıyabildiğini gösterir.
 

@@ -11,5 +11,3 @@ Kızıl Gözyaşı (Red Tear), Blood Angels Primarch'ı Sanguinius'un Büyük Se
 Blood Angels'in soylu ve estetik ruhunu yansıtan zarafetiyle, sıradan bir savaş gemisinden çok yüzen bir sanat eserini andırıyordu.\n\nKızıl Gözyaşı'nın en karanlık anı, Signus Prime'da yaşandı; Kaos'un varlığıyla çıldıran kaptanı Athene DuCade, köprü mürettebatını öldürdü ve kontrolleri tahrip ederek gemiyi gezegene düşürdü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Red_Tear.jpg/revision/latest?cb=20120827032103)

@@ -17,5 +17,3 @@ Rok düşüşleri, Hive Hades destanı, Ghazghkull'un sonraki Octarius seferine 
 -# Kaynaklar: Armageddon kodeksleri, Ghazghkull (M. Brooks)
 
 -# İlişkili kayıtlar: `second-war-for-armageddon`, `first-war-for-armageddon`, `ghazghkull`, `commissar-yarrick`, `armageddon`, `black-templars`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/16/Ork_Waaagh%21_Armageddon.png/revision/latest/scale-to-width-down/1000?cb=20140723171409)

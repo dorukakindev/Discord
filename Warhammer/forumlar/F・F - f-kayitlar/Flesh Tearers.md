@@ -10,8 +10,6 @@ Chapter'ın asıl dramı, kendi sonunu bilmesidir. Red Thirst'ün ve Black Rage'
 
 Bu kanal Flesh Tearers'ı bir Chapter olarak ele alır: Legion kökleri, kurucusu Nassir Amit, yurdu Cretacia, kusurun kurumsal yaşama etkisi, Imperium'la gergin ilişkisi ve Great Rift sonrası durumu. Chapter Master'ın kişiliği ve önderliği gabriel-seth, kusurun kendisi <#1551811968946540596>, Baal kuşatmasının bütünü <#1551813631660789811>, soyun ana gövdesi ise <#1551811368389181491> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/19/Flesh_Tearers_Livery2.jpg/revision/latest?cb=20180515162944)
-
 ## Legion'ın İçindeki Gölge: Nassir Amit
 Flesh Tearers'ın hikâyesi Chapter kurulmadan önce, IX Legion'ın Great Crusade ve Heresy yıllarında başlar. Blood Angels, dışarıdan bakana Imperium'un en soylu Legion'ı gibi görünüyordu; oysa Legion'ın içinde, Sanguinius'un bizzat sakladığı ve dizginlemeye çalıştığı bir açlık yaşıyordu. Bu açlığı herkesten önce ve herkesten açık biçimde taşıyan komutanlardan biri **Nassir Amit**'ti.
 

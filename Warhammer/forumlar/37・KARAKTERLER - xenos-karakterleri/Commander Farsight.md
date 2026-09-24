@@ -11,5 +11,3 @@ Commander Farsight (Tau adıyla O'Shovah, "uzak görüşlü"), Tau İmparatorlu�
 Farsight, Orklara karşı verilen umutsuz Damocles cephesi savaşlarında bir kahraman olarak öne çıktı; ama uzak, izole bir cephede savaşırken Tau toplumunu yöneten gizemli Ethereal kastının kontrolünden çıktı. Kendi bağımsız topraklarını, Farsight Enklavları'nı kurdu ve İmparatorluk'tan fiilen ayrıldı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fc/Farsight6.jpg)

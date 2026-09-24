@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1f/XV95_Ghostkeel_Battlesuit.png/revision/latest?cb=20151022115109
+
 -# THE IMPERIAL ARCHIVE · G Kayıtları · Kayıt
 # XV95 Ghostkeel Battlesuit
 

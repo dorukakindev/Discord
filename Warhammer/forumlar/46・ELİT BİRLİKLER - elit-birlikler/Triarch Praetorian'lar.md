@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/16/Triarch_Praetorians.png/revision/latest?cb=20150202202820
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Triarch Praetorian'lar
 

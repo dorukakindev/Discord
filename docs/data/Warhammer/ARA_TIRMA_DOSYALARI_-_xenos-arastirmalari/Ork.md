@@ -20,8 +20,6 @@ Orkoid ırkların binlerce yıl önce genetik olarak tasarlandığına inanılı
 
 **Necron** ve **Aeldari** dış kaynakları, **War in Heaven**'dan bilinen bir tür olan **Krork**'u hatırlar — Old Ones tarafından son kalelerini Necron ve Enslavers'a karşı savunmak için yaratılmışlardı ve Aeldari tarafından güçlerinin zirvesindeyken zorlu düşmanlar olarak hatırlanıyorlardı. Trazyn tarafından tutulan on iki metre boyunda bir Orkish örneğinin, Fabius Bile tarafından böyle bir yaratık olduğu tahmin edildi; ancak Krork ve Ork'un aynı tür olup olmadığı, ayrıca Brain Boyz'un gerç
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Armageddon-_Warhammer_40%2C000_New_Edition_Cinematic_Trailer/revision/latest?cb=20260326135225)
-
 Orklar, War in Heaven zamanından beri Galaksi'de var olmuşlardır ve İmparatorluğun kuruluşundan çok önce, **Dark Age of Technology** sırasında on binlerce yıl önce insanlıkla savaştıkları bilinmektedir. Efsaneye göre, Orkl'lar insanlığın karşılaştığı ilk yabancı uygarlıktı — uzun zaman önce unutulmuş havasız bir dünyada ilk ork ve insan birbirlerine sert bir bakış attığında, tabancalarını çekmiş ve aynı anda birbirlerini vurup öldürmüştü. İnsanlık ve Orkl'lar o zamandan beri sayısız çatışma yaşadı ve muhtemelen hiç durmayacaklar. İnsanlar ve orklar, neredeyse her yerde bulunan, galaksideki en çok sayıda türden ikisidir. Tüm yaratıklar arasında insanların Orkl'ların en sevdiği düşman olmaya devam ettiği söylenir.
 
 ### Age of Strife ve Great Crusade

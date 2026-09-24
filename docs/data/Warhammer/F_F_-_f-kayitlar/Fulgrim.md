@@ -11,8 +11,6 @@ Fulgrim'in gestation capsule'ü, maden ve sanayiyle ayakta duran gri, yorgun bir
 
 Olağanüstü zekâsı ve önderlik yeteneğiyle kısa sürede Callax'ın yönetim kademelerine yükselen Fulgrim, üretim ve madencilik yöntemlerini yeniden düzenleyerek dünyasını çöküşün eşiğinden geri çekti; Chemos'un rakip fabrika-kaleleri de zamanla onun otoritesi altında birleşti. Kıtlık içinde büyüyen bir çocuğun, sonradan her şeyin en iyisini ve en güzelini isteyen bir Primarch'a dönüşmesi, pek çok yazarın Fulgrim karakterini okurken üzerinde durduğu bir karşıtlıktır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Fulgrim_Ancient_Sketch.jpg/revision/latest?cb=20150206220501)
-
 ## Emperor ve Palatine Aquila
 Emperor Chemos'a ulaştığında Fulgrim, kaynakların aktardığı biçimiyle ona tereddütsüz boyun eğip hizmetini sundu. Karşılığında devraldığı III. Legion, gene-seed'ini etkileyen erken bir felaket yüzünden neredeyse tükenmiş, bir süre Horus'un Luna Wolves'u yanında savaşarak ayakta kalabilmiş küçük bir topluluktu. Fulgrim Legion'ı Chemos'tan gelen yeni savaşçılarla yeniden inşa ederken bir süre Horus'un yanında da sefer yürüttü; iki Primarch arasındaki bu erken yakınlık, ileride ihanetin kapısını açacak bağlardan biri oldu.
 

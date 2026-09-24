@@ -19,5 +19,3 @@ Sphere Expansion'larla sınırlarını genişlettiler. M41'de Damocles Gulf Crus
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Farsight: Crisis of Faith — Phil Kelly*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>, <#1551813361887617108>, <#1551643950014795948>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f0/T%27au_Empire_Icon.png/revision/latest/scale-to-width-down/1000?cb=20230512074501)

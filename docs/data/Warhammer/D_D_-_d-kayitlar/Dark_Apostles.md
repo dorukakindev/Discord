@@ -12,8 +12,6 @@ Imperial bakış için Dark Apostle, sapkınlığın en tehlikeli biçimidir: ya
 
 Legion'un tarihi ve teolojisi <#1551638953101365340>, Primarch'ın kendisi <#1551816346268999763> kanalındadır; bu madde rahip sınıfının kendisine odaklanır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b7/DarkApostle2.jpg/revision/latest?cb=20121112205904)
-
 ## Kökenler ve Hiyerarşi
 Word Bearers'ın ruhban geleneği Colchis'e, Lorgar'ın büyüdüğü ve Covenant adlı rahip sınıfının yönettiği dünyaya uzanır. Great Crusade döneminde Legion'un Chaplain'ları Emperor'a tapınmayı yayarken, perde arkasında Kor Phaeron ve First Chaplain Erebus eski Colchis inançlarını yaşatan gizli bir çekirdek örüyordu. Monarchia'nın yıkımının ardından Lorgar'ın imanı Chaos'a yönelince bu rahiplik de yeni tanrılarına döndü. Horus Heresy yayınlarında Zardu Layak gibi "Apostle" unvanlı rahip-savaşçılar görülür; ancak Heresy dönemi unvanlarının M41'deki Dark Apostle rütbesine nasıl evrildiği ayrıntılı biçimde anlatılmaz.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/04/Dark_Reapers_Aspect_Rune.jpg/revision/latest?cb=20121117234306
+
 -# THE IMPERIAL ARCHIVE · D Kayıtları · Kayıt
 # Dark Reapers
 

@@ -10,8 +10,6 @@ Onları öteki Ultramarines ardıllarından ayıran şey bir savaş doktrini de�
 
 Kaynaklar Mortifactors'ı sadık, disiplinli ve yetkin bir Chapter olarak çizer; ne var ki onların sadakati öteki Astartes'inkinden farklı bir dille konuşur. Bu kanal Chapter'ı kendi perspektifinden ele alır: Ultramarines kökenini, Posul'un karanlığında biçimlenen kültürünü, ölüm kültünü ve Tyranid'lere karşı verdikleri savaşları. Ultramarines soyunun genel mirası **kayıt**, Chaplain kurumunun bütünü **kayıt** kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg/revision/latest?cb=20190901001441)
-
 ## Kökenler: Second Founding'in Bir Evladı
 Mortifactors, Scouring'in ardından Ultramarines Legion'ının Codex Astartes uyarınca bölünmesiyle doğan Chapter'lar arasında sayılır. Kökleri böylece **Second Founding**'e ve Roboute Guilliman'ın gene-seed'ine uzanır. Galaksiyi Ultramarines soyuyla dolduran o büyük dalganın bir parçasıdırlar.
 

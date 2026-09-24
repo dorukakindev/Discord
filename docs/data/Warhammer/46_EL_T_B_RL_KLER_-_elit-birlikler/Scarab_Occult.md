@@ -22,5 +22,3 @@ Sekhmet ile Scarab Occult arasındaki geçişin ayrıntıları kaynaklarda sın�
 -# Kaynaklar: *Codex: Thousand Sons*; *Ahriman: Exile — John French*
 
 -# İlişkili kayıtlar: <#1551809231580307517>, <#1551808728062501019>, <#1551816657691746335>, <#1551647728692633643>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/92/Sekhmet_Terminator_Squad.jpg/revision/latest?cb=20120910001535)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Galaxy_Map_1.jpg/revision/latest?cb=20200116230555
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Time of Ending (yaklaşık 900–999.M41)
 

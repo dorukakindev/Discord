@@ -21,6 +21,4 @@ Wraithbone iskelet, antigrav tahrik, taret silahı ve serpent shield. Kalkan sav
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>, <#1551740901133520896>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Wave_Serpents.png/revision/latest/scale-to-width-down/1000?cb=20210207143912)
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551810727445004339>

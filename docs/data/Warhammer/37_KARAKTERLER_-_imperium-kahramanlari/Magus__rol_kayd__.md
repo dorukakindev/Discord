@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/47/GenestealerMagus2.jpg/revision/latest?cb=20190217235408
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Magus (rol kaydı)
 

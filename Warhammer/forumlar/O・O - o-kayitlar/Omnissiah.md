@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e4/Taghmata_Omnissiah_Icon.jpg/revision/latest?cb=20150910145742
+
 -# THE IMPERIAL ARCHIVE
 # Omnissiah
 

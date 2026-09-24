@@ -18,4 +18,4 @@ Second Tyrannic War'da Hive Fleet Kraken'in bir tendril'i craftworld'e çöktü.
 
 -# Kaynaklar: *Codex Supplement: Iyanden*; *Valedor — Guy Haley*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551742227967901717>, <#1551740901133520896>, <#1551741455062540318>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551809334483361823>, <#1551810727445004339>, <#1551815033518948404>

@@ -22,5 +22,3 @@ Laer'in Slaanesh'e ne ölçüde tapındığı ve kılıçtaki varlığın köken
 -# Kaynaklar: *Fulgrim — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551650243865477191>, <#1551813750305198101>, <#1551754688008032321>, <#1551814367203303506>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/72/MarkofSlaaneshVariant.png/revision/latest?cb=20220211232210)

@@ -21,4 +21,4 @@ Avatar, her craftworld'ün kalbinde uyuyan demir bir figürdür; savaş zamanı 
 
 -# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Path of the Warrior — Gav Thorpe*; *Codex: Eldar — 6th Edition*
 
--# İlişkili kayıtlar: <#1551740924244271140>, <#1551714833236496445>, <#1551587928025600012>, <#1551588050960781432>
+-# İlişkili kayıtlar: <#1551810744754905123>, <#1551812290439942255>, <#1551997822725922938>, <#1551754688008032321>

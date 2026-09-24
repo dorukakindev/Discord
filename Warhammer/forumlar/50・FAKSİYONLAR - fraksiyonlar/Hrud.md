@@ -9,5 +9,3 @@ Hrud, Warhammer 40.000 evreninin en gizemli ve en az anlaşılan xenos ırkları
 Hrud'u gerçekten korkunç ve eşsiz kılan, bedenlerinin etrafında taşıdıkları pasif "entropi alanı"dır; bu alan, çevrelerindeki zamanı ve yıpranmayı hızlandırır. Bir Hrud'un yakınında, metal paslanır, taş ufalanır, makineler bozulur ve canlı varlıklar hızla yaşlanıp ölür. Bu yetenek bilinçli bir saldırı değil, sadece varoluşlarının doğal bir yan etkisidir; ama onları yakınlarındaki her şey için son derece tehlikeli kılar. Yeterli sayıda Hrud, bir bölgeyi bütünüyle çürütebilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3b/Hrud.jpg)

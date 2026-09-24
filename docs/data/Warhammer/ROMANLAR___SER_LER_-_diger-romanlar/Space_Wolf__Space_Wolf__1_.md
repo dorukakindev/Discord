@@ -12,5 +12,3 @@ Ragnar'ın Fenris'teki klan savaşından Thunderhawk savaşlarına; 'Blackmane' 
 -# Seri: Diğer Romanlar (Black Library)
 
 -# Kaynaklar: Black Library
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Space_Wolves_Livery.jpg/revision/latest?cb=20110305084412)

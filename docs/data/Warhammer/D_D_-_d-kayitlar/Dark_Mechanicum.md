@@ -10,8 +10,6 @@ Sadık Mechanicus için makine, Machine God'ın kutsal bedenidir; Dark Mechanicu
 
 Bu madde hain kolun kökenini ve 40K'daki varlığını ele alır. Mars'taki iç savaşın cephe anlatısı <#1551816635839549491>, sadık kurumun yapısı ise <#1551753449878724689> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Archmagos-Dray2.jpg/revision/latest?cb=20150113021027)
-
 ## Kökenler ve Horus Heresy
 Dark Mechanicum'un doğuşu, Fabricator General Kelbor-Hal'in Horus'un safına geçmesiyle başlayan Schism of Mars'a dayanır. Kaynaklar bu ihanetin arkasında tek bir neden göstermez: Emperor'ın araştırmalara koyduğu yasaklara duyulan kırgınlık, Great Crusade'in Mars'a yüklediği ağır yük, Horus'un sınırsız bilgi vaadi ve bazı magos'ların zaten Warp'ın fısıltılarına kapılmış olması birlikte anılır.
 

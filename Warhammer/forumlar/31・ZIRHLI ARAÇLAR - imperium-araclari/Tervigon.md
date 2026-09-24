@@ -19,5 +19,3 @@ Tervigon'lar Tyranid istilalarında hem sürekli yeni organizma üreten bir kayn
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/36/Tervigon_attack.png/revision/latest?cb=20140726014705)

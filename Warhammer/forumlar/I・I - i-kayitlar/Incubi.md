@@ -13,8 +13,6 @@ Arhra'nın düşüşünün nedenleri ve Incubi'nin Commorragh'a yerleşme sürec
 
 **Kanal sınırı.** Arhra'nın kişiliği ve Phoenix Lord'lar içindeki yeri phoenix-lords, Aspect geleneğinin kendisi <#1551811222129745941>, Drukhari toplumunun genel düzeni <#1551813105166712966> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/94/Incubus_Model.jpg/revision/latest?cb=20141115010708)
-
 ## Tapınaklar, Sınavlar ve Yaşam Tarzı
 
 Incubi, Commorragh'ın çeşitli yerlerindeki tapınaklarda yaşar; bunların en büyüğü ve en saygını kaynaklarda **Great Shrine** olarak anılır. Tapınaklar Arhra'nın öğretisinin korunduğu, adayların eğitildiği ve savaşçıların sözleşmeler arasında çekildiği yerlerdir. Commorragh'ın geri kalanı Incubi'yi hem saygıyla hem de tedirginlikle izler: onlar şehrin içinde yaşayan, ama onun değerlerini açıkça küçümseyen bir topluluktur.

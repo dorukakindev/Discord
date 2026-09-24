@@ -18,4 +18,4 @@ Asdrubael Vect'in rakiplerince defalarca öldürüldüğüne inanılıp her sefe
 
 -# Kaynaklar: *Codex: Drukhari*; *Path of the Renegade — Andy Chambers*
 
--# İlişkili kayıtlar: <#1551587949450371253>, <#1551587928025600012>, <#1551588050960781432>
+-# İlişkili kayıtlar: <#1551997841356881980>, <#1551997822725922938>, <#1551754688008032321>

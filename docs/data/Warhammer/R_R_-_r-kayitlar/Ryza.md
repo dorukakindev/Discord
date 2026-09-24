@@ -8,8 +8,6 @@ Adeptus Mechanicus'un en tanınmış forge world'lerinden biri olan Ryza'nın ad
 
 Ryza'yı öbür forge'lardan ayıran ikinci özellik, bu kadim bilginin bir kuşatmanın gölgesinde korunmasıdır. M41'in son dönemini anlatan Mechanicus kaynakları, Ryza'yı Ork istilalarına karşı uzun süredir direnen, fabrikaları ile surlarını aynı anda işletmek zorunda kalan bir dünya olarak çizer. Plazmanın inceliğiyle kuşatmanın kabalığı, Ryza'nın kimliğinde yan yana durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Ryza.jpg/revision/latest?cb=20200801195133)
-
 Ryza'nın konumu, kuruluşu ve Great Crusade ile Heresy dönemindeki tarihi yayımlanmış kanonda ayrıntılı biçimde anlatılmaz. Bu madde forge world'ün tanındığı iki büyük temaya, plazma bilgisine ve Ork kuşatmalarına odaklanır. Forge world kavramının geneli <#1551814305874448396>, Mechanicus'un kurum yapısı <#1551753449878724689> kanalındadır.
 ---MSG---
 ## Plazma: Hapsedilmiş Güneş

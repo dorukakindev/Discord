@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/ff/Ulrik_the_Slayer_portrait.jpeg/revision/latest?cb=20161125115036
+
 -# THE IMPERIAL ARCHIVE · U Kayıtları · Kayıt
 # Ulrik the Slayer
 

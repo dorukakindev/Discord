@@ -10,8 +10,6 @@ Yine de yayımlanmış kanon Cthonia'nın ayrıntılı bir coğrafyasını çizm
 
 Primarch'ın hayatı için <#1551650246508150857>, Legion'ın kurumsal tarihi için <#1551809114328399874>, Abaddon için <#1551638958352506881> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d4/Cthonia.jpg/revision/latest?cb=20121011204116)
-
 ## Tükenmiş Bir Dünya
 Kaynaklar Cthonia'yı en tutarlı biçimde, madenleri boşaltılmış, yüzeyi ve derinlikleri kazılarla delik deşik edilmiş bir gezegen olarak betimler. Ne zaman ve kimin eliyle bu hâle geldiği yayımlanmış kanonda ayrıntılandırılmaz: Dark Age of Technology'nin sanayi açlığı mı, Age of Strife boyunca süren çaresiz sömürü mü, yoksa daha uzun bir çöküşün sonucu mu olduğu açık bırakılmıştır. Kesin olan, Horus'un düştüğü çağda Cthonia'nın zenginliği çoktan tüketilmiş, geriye yalnızca terk edilmiş galeriler, çökmüş kuyular ve bu boşluklarda yaşamaya çalışan insanlar kalmış olmasıdır.
 

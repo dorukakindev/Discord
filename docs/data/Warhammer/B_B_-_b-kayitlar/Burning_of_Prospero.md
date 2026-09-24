@@ -13,8 +13,6 @@ Bu mesaj, Imperial Palace'ı koruyan psişik korumaları delip geçerek Emperor'
 
 Emperor, **Leman Russ**'ı Magnus'u yakalayıp Terra'ya getirmekle görevlendirdi. Kaynaklar, emrin daha sonra ölümcül bir cezaya dönüşmesinde **Horus**'un müdahalesinin rol oynadığını anlatır; bu değişimin ağırlığı *A Thousand Sons* ile *Prospero Burns*'te farklı vurgulanır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8e/The_Battle_for_Prospero.jpg/revision/latest?cb=20161124013033)
-
 ## Saldırı ve Tizca'nın Düşüşü
 Russ'ın filosu Prospero'ya geldiğinde Space Wolves'un yanında, Emperor'ın doğrudan gözü ve eli sayılan Custodes birlikleri ile Silent Sisterhood'un pariah savaşçıları bulunuyordu. Sisters of Silence'ın varlığı özellikle belirleyiciydi: psişik yeteneği olmayan, dahası psişik gücü söndüren bu kadınlar, sorcery'yi bir bilim gibi işleyen bir Legion'a karşı en etkili silahlardan biriydi. Kaynaklar Custodes'in başında Captain-General **Constantin Valdor**'un bulunduğunu anlatır.
 

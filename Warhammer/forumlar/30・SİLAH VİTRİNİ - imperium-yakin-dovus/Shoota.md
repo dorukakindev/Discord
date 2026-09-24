@@ -25,5 +25,3 @@ Bazı Imperium gözlemcileri, derme çatma Ork silahlarının Orkların ortak in
 -# Kaynaklar: *Codex: Orks — 10th Edition*; *Brutal Kunnin' — Mike Brooks*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091013>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/41/Shoota.png/revision/latest?cb=20100505100553)

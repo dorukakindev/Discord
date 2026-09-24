@@ -10,8 +10,6 @@ Bu kanal Emperor'ın kendisini değil, onu taşıyan makineyi merkeze alır. Emp
 
 Throne'un Imperium için anlamı iki katmanlıdır. Pratik düzeyde Emperor'ın bedenini sürdüren, Palace'ın altındaki Webway gediğini mühürlü tutan ve Astronomican'ın kaynağı olan iradeyi yaşatan bir altyapıdır. İnanç düzeyinde ise Imperial Cult'un en kutsal nesnesidir: milyarlarca müminin dualarının yöneldiği, ama pek azının gözleriyle gördüğü bir merkez. Traitor Legion'ların söyleminde ise aynı taht, "Corpse Emperor" diye alay ettikleri bir ölünün kafesidir; ansiklopedi bu iki bakışı da evren-içi yorum olarak kaydeder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/23/GoldenThroneSiegeofTerra.jpg/revision/latest/scale-to-width-down/1000?cb=20230302134551)
-
 ## Kökenler: Bir Kapının Anahtarı
 Throne'un kökeni kaynaklarda tek bir cümleyle verilmez. Genel çerçeve, onun Emperor tarafından tasarlanmış ya da Dark Age of Technology'den kalma bilgiye dayanarak onun eliyle uyarlanmış bir düzenek olduğudur; iki anlatım da farklı yayınlarda karşımıza çıkar ve ansiklopedi bunlardan birini kesinleştirmez.
 

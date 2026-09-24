@@ -19,5 +19,3 @@ Uyanıştan bu yana Imperium'un ve öteki türlerin dünyalarında belirip kaybo
 -# Kaynaklar: *The Infinite and the Divine — Robert Rath*; *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551815304252887041>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Trazyn.jpg/revision/latest?cb=20151005061231)

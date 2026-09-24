@@ -18,4 +18,4 @@ Badab War'un siyasi ve askerî merkezi. Kendini Tyrant of Badab olarak anan Lufg
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Ten: The Badab War – Part Two*
 
--# İlişkili kayıtlar: <#1551741108218757215>, <#1551742175048376450>, <#1551714702705561620>
+-# İlişkili kayıtlar: <#1551811438547312645>, <#1551646508808405093>, <#1551812225570836561>

@@ -13,5 +13,3 @@ Warlord Titan (Battle Titan sınıfı), Adeptus Titanicus'un en büyük yaygın 
 Warlord'un ateş gücü akıl almazdır; Belicosa volcano cannon'ları, sunfury plazma silahları, quake cannon'ları ve apocalypse füzeleriyle, tek başına bütün bir orduyu, bir tank kolonunu ya da bir kaleyi silebilir. Bir Warlord'un tam salvoları, küçük bir gezegen yüzeyini cehenneme çevirebilir; karşısında durabilecek çok az şey vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c7/WarlordTitanicus.jpg)

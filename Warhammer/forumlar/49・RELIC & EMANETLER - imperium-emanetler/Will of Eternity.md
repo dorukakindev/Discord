@@ -18,6 +18,4 @@ Abaddon, 139.M41'de başlattığı 12th Black Crusade'de, yani Gothic War'da, Go
 
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Gathering Storm I: Fall of Cadia*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Blackstone_Fortress_Coloured.png/revision/latest?cb=20170315185533)
-
 -# İlişkili kayıtlar: <#1551811621285003315>, <#1551812139935866891>, <#1551814512657698817>, <#1551638958352506881>

@@ -11,5 +11,3 @@ Valkyrie, Astra Militarum'un (İmparatorluk Muhafızı) ana saldırı ve nakliye
 Valkyrie'nin asıl işlevi, askerleri hızla cepheye taşımaktır; bir Muhafız mangasını düşman hattının arkasına ya da kritik bir noktaya indirir. Grav-chute denen bir sistemle, askerlerin uçaktan alçaktan, hızlı bir şekilde atlamasını sağlar; bu, ani baskınlar ve cephe gerisi operasyonlar için idealdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d7/IG5EValkyrie.jpg)

@@ -19,5 +19,3 @@ Unification Wars'da Emperor'ın yanında savaştılar; Great Crusade'in büyük 
 -# Kaynaklar: *Codex: Adeptus Custodes*; *Master of Mankind — Aaron Dembski-Bowden*; *Valdor: Birth of the Imperium — Chris Wraight*
 
 -# İlişkili kayıtlar: <#1551753439581831278>, <#1551813713403580438>, <#1551809168032268310>, <#1551743688680669286>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312)

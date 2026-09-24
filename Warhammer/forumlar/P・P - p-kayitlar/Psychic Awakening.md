@@ -19,8 +19,6 @@ Dizi tek bir savaşı değil, aynı olgunun farklı cephelerdeki yansımaların�
 8. *War of the Spider* — Fabius Bile, Death Guard ve Imperial kuvvetler.
 9. *Pariah* — Pariah Nexus ve Necron'ların Warp'ı bastıran ağı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c8/PsychicAwakeningSymbol.jpg/revision/latest?cb=20191114194416)
-
 Psişik gücün genel doğası için **kayıt**, olguyu doğuran yarık için **kayıt** kanalına bakılmalıdır.
 
 ## Evren İçi Olgu: Warp'ın Taşması

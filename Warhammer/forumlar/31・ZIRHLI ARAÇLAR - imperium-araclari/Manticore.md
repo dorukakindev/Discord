@@ -11,5 +11,3 @@ Manticore, İmparatorluk Muhafızı'nın esnek ve ölümcül bir füze-topçu pl
 Manticore'un sırtında, dört devasa füze taşıyan açık bir rampa bulunur; bu füzeler ateşlendiğinde, ufkun çok ötesindeki hedeflere bile (dolaylı ateşle) ölüm yağdırır. Tek bir Manticore salvosu, bir düşman birliğini, bir tank kolonunu ya da bir tahkimatı paramparça edebilir; gökten gelen o roket yağmuru, hedefin üzerinde adeta bir kıyamet yaratır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/cb/Manticore_Missile.jpg)

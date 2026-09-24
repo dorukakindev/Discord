@@ -10,8 +10,6 @@ Seferin asıl önemi, askerî sonucundan çok kurduğu örüntüdedir. Abaddon b
 
 Seferin öteki Black Crusade'ler arasındaki yeri ve bütün seferlerin kronolojisi <#1551811393680838699> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Star_of_Chaos.jpg/revision/latest?cb=20110716020415)
-
 ## Tarihlendirme ve Bağlam
 Eski codex kronolojileri First Black Crusade'i **781.M31**'e tarihler. Bu tarihi temkinle okumak gerekir, çünkü Heresy sonrasına ait kayıtlar hem seyrektir hem de kaynaktan kaynağa değişir. Tarih, Scouring'in ardından Imperium henüz yaralarını sararken Eye of Terror'dan ilk örgütlü tehdidin belirdiği yılları gösterir.
 

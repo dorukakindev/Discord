@@ -13,5 +13,3 @@ Huron Blackheart, Maelstrom Warp anormalliğini üs alan Red Corsairs korsan imp
 Bir zamanlar Astral Claws chapter'ının Chapter Master'ı Lufgt Huron'du; Badab Savaşı'nda İmparatorluk denetimine başkaldırdı ve yıllar süren bir iç savaşa yol açtı. Yenildiğinde ölümcül yaralandı, ama ölmedi; Mechanicus tarafından kurtarıldı ve Kaos'a tam olarak döndü. Vücudunun yarısı artık biyoniktir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/15/HuronACArt.jpg)

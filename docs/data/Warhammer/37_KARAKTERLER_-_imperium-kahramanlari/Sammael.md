@@ -9,5 +9,3 @@ Sammael, Dark Angels chapter'ının Ravenwing'inin (hızlı, atlı saldırı kan
 Dark Angels'ın karanlık sırrı, kuruluşlarına dayanır; chapter'ın ataları olan I. Lejyon'un bir kısmı Heresy sırasında ihanet etti (the Fallen) ve dağıldı. Dark Angels, bu utancı gizli tutar ve hayatta kalan Fallen'ları teker teker bulup tövbeye (ya da ölüme) zorlamayı en kutsal, en gizli görevleri sayar. Ravenwing, bu avın hızlı ucu, gökyüzünden inen avcı kanadıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/63/SammaelArt.jpg)

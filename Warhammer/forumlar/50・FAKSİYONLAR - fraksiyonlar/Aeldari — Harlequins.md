@@ -18,4 +18,4 @@ Harlequin'ler Fall'dan bu yana Black Library'yi ve Webway'in sırlarını korudu
 
 -# Kaynaklar: *Codex: Harlequins*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714821831921734>, <#1551740924244271140>, <#1551588076609085510>, <#1551588084628590646>
+-# İlişkili kayıtlar: <#1552483150322737262>, <#1551810744754905123>, <#1551993959876657192>, <#1552483346846715924>

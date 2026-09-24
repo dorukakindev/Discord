@@ -23,14 +23,10 @@ Bilinmeyen bir şeyi "bilinmiyor" diye yazmak, ikna edici görünen ama uydurulm
 - Tırnaklı alıntı yalnızca kelimesi kelimesine doğrulanmış kısa sözler içindir.
 - Power-scaling, tabletop statı, puan ve detachment kuralı lore metnine girmez.
 
----
-
 ## Biçim ve Üslup Kuralları
 
 **4. Discord biçimi**
 - Dosya `### KANAL: kanal-adi` satırıyla başlar; mesajlar tek başına bir satırdaki `
-
----
 
 ` ile ayrılır.
 - Her mesaj Markdown dahil en fazla 1800 karakterdir; güvenli hedef 1300–1700 karakterdir.
@@ -54,8 +50,6 @@ Bilinmeyen bir şeyi "bilinmiyor" diye yazmak, ikna edici görünen ama uydurulm
 - Yeni metin ve tam revizyonlar önce taslak-kuyruguna gönderilir.
 - Yayından önce <#1551588107592143021> ve <#1551588109857202218> denetimleri tamamlanır.
 - Yayımlanan her değişiklik <#1551588115540480020>na işlenir.
-
----
 
 ## Katkı Türleri ve Hızlı Düzeltme Bildirimi
 

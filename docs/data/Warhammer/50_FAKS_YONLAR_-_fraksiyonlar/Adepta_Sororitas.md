@@ -22,5 +22,3 @@ Order of Our Martyred Lady, Order of the Valorous Heart, Order of the Bloody Ros
 -# Kaynaklar: *Codex: Adepta Sororitas*; *Faith and Fire — James Swallow*
 
 -# İlişkili kayıtlar: <#1551753444308811807>, <#1551808932744269985>, <#1551651549804236801>, <#1551810771472883713>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Adeptus_Sororitas_Icon.jpg/revision/latest?cb=20110820063406)

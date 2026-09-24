@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_Heart.png/revision/latest/scale-to-width-down/900?cb=20141020194824
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_Heart.png/revision/latest/scale-to-width-down/900?cb=20141020194824)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Drukhari — Karanlık Eldar (Commorragh)

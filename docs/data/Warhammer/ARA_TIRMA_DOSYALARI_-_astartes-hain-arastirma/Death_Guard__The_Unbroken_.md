@@ -16,8 +16,6 @@ Barbarus'un toksik ortamı nedeniyle Death Guard, zehir, hastalık ve genel olar
 
 ## Temel Bilgiler
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/DeathGuardBadge.png/revision/latest?cb=20190111222147)
-
 | Özellik | Değer |
 |---|---|
 | Legion Numarası | XIV |

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Nocturne.png/revision/latest?cb=20131018051339
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Nocturne.png/revision/latest?cb=20131018051339)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Nocturne — Nocturne

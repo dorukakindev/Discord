@@ -7,4 +7,6 @@ Reaver jetbike'larının melta-benzeri darklight kargısı; yüksek hızda geçe
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/85/HeatLanceDE.jpg)
+## Teknik ve Kullanım
+
+Reaver jetbike'larının melta-benzeri darklight kargısı; yüksek hızda hücum sırasında hedefe odaklanmış bir ısı ışını fırlatır. Standart melta'dan daha uzun menzildedir ve jetbike'ın hareket enerjisini kullanır; vur-kaç taktiklerinin silahıdır. Ymgarl ya da Reaver sürüleri için tasarlanmış hassas zırh avcısıdır.

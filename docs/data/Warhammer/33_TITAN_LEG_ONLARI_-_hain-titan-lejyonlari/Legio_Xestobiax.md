@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Legio_Xestobiax_Livery.png/revision/latest?cb=20170909194252
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Legio_Xestobiax_Livery.png/revision/latest?cb=20170909194252)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Legio Xestobiax — Demir Nobet

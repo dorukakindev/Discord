@@ -10,8 +10,6 @@ Bu yüzden Kantor'un hikâyesi, Warhammer 40,000'in zafer anlatılarından çok 
 
 Bu kanal Kantor'u bir kişi olarak ele alır: Rynn's World felaketindeki rolü, sonrasındaki yeniden inşa ve karakterinin kaynaklarda nasıl çizildiği. Crimson Fists'in Chapter olarak kısa kaydı 2. ciltteki <#1551629145937674330> kayıtlarında, ata Chapter'ın tarihi **kayıt** kanalında, Snagrod'un unvanı yüzünden sık sık onunla ilişkilendirilen savaş bölgesi ise war-zone-charadon kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e8/CM_Pedro_Kantor_battle.png/revision/latest/scale-to-width-down/752?cb=20130913205934)
-
 ## Crimson Fists ve Rynn's World
 Crimson Fists, Heresy'nin ardından Codex Astartes uyarınca bölünen VII Legion'dan Second Founding'de doğan Chapter'lardandır. Koyu mavi zırhları ve kızıla boyanmış eldivenleriyle tanınırlar; Imperial Fists gibi filo tabanlı bir yapıyı değil, sabit bir yurt dünyasını seçmişlerdir. O yurt Rynn's World, fortress-monastery'leri ise Chapter'ın gücünün ve belleğinin toplandığı **Arx Tyrannus** idi. Bazı metinlerin Loki Sektörü'ne yerleştirdiği bu Imperial dünya, kaynaklarda Chapter ile halkı arasındaki sıkı bağla anılır.
 

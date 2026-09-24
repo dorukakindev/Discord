@@ -19,5 +19,3 @@ Heresy döneminde bazı Legion'ların saldırı doktrininde merkezî bir yer tut
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Blood Angels*; *Codex: Chaos Space Marines — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551811368389181491>, <#1551637736593821790>, <#1551637693933289523>, <#1551818213782716427>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bd/WE_Assault_Vet_Mk_II.jpg/revision/latest?cb=20130104014517)

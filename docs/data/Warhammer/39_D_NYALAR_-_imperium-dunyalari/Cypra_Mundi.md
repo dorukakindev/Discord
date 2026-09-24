@@ -8,5 +8,3 @@ Cypra Mundi, Adeptus Mechanicus'a ait büyük bir Forge World ve aynı zamanda S
 Bir Forge World olarak Cypra Mundi, devasa bir sanayi ve üretim merkezidir; İmparatorluğun savaş makinesini besleyen silah, mühimmat ve gemiler burada üretilir. Ama asıl stratejik önemi, askeri rolünden gelir; Segmentum Obscurus'taki İmparatorluk donanmasının (Navis Imperialis) geleneksel merkezidir. Donanma subayları genellikle Cypra Mundi'nin aristokrasisi arasından seçilir; gezegen, segmentum'un askeri kültürünün ve komuta zincirinin kalbidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/2b/Galaxy-Rift-Obscurus.jpg)

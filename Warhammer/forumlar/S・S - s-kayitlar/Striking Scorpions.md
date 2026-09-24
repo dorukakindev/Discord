@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cf/Striking_Scorpions_Rune.png/revision/latest?cb=20150505205154
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları · Kayıt
 # Striking Scorpions
 

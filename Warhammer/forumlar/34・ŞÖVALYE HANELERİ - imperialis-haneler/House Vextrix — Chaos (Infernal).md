@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/85/House_Vextrix_Corrupted_Icon.png/revision/latest?cb=20211206212803
+
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Vextrix — Chaos (Infernal)
 

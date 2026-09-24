@@ -10,8 +10,6 @@ Founding'in ne zaman ve kimin buyruğuyla başlatıldığı yayımlanmış kanon
 
 Bu kanal 21. Founding'i bir dönem ve bir felaket olarak ele alır: gerekçesini, ürünlerini ve bıraktığı korkuyu. Astartes'in genetik temeli gene-seed, Legion'ların ilk bölünüşü second-founding, gene-seed'i denetleyen kurum <#1551753449878724689> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/64/Cursedfounding3.jpg/revision/latest?cb=20120712053126)
-
 ## Gerekçe: Kusursuz Astartes Arayışı
 Space Marine gene-seed'i on bin yıllık kopyalamanın, savaş hasarının ve Warp etkisinin altında yavaş yavaş yıpranan bir mirastır. Kimi soylarda organların işlemez hâle gelmesi, kimilerinde tuhaf mutasyonların birikmesi, Imperium'un en değerli kaynağının zamanla bozulduğunu gösteriyordu. 21. Founding, bu bozulmayı tersine çevirme ya da hiç değilse durdurma iddiasıyla yola çıktı.
 

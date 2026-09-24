@@ -9,8 +9,6 @@ Bu kanal Horus'u bir kişi olarak ele alır: kökeni, karakteri, ilişkileri, d�
 ## Cthonia ve Bulunuş
 Horus'un kapsülü, madenleri tükenip oyulmuş, çete savaşlarının gündelik hayatın dokusuna işlediği Cthonia'ya düştü. Sonraki kaynaklar, onun bu dünyada bir çete efendisinin himayesinde, kimliğini bilmeden şiddet içinde büyüdüğünü ayrıntılandırır; ayrıntılar yayından yayına farklı derinlikte işlenir. Kesin olan, Emperor'ın onu Primarch'lar arasında ilk bulduğu ve Horus'un uzun bir süre babasının yanında tek oğul olarak savaştığıdır. Bu yakınlık, sonradan hem onun ayrıcalığının hem de kırılganlığının kaynağı olacaktı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Warmaster_Horus_Remembrancer_Sketch.jpg/revision/latest?cb=20150816012256)
-
 ## Kişilik, Unvanlar ve İlişkiler
 Kaynakların ortak tablosunda Horus, kardeşlerini birbirine bağlayabilen nadir Primarch'tır. Savaş meclislerinde dinleyen, askerlerinin adını bilen, fethettiği halklara karşı gereksiz zulümden kaçınan bir komutan olarak betimlenir. *Horus Rising* onu Legion'ının içinde neredeyse bir baba, aynı zamanda soğukkanlı bir stratejist olarak gösterir. Ancak bu sıcaklığın altında, Emperor'ın sevgisini ve onayını kaybetme korkusu, başkalarının gölgesinde kalmaya duyulan tahammülsüzlük ve derin bir gurur yatar.
 **Unvanlar ve simgeler**

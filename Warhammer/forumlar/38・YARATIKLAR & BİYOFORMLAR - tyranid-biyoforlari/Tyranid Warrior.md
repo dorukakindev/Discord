@@ -9,5 +9,3 @@ Tyranid Warrior (Tyranid Savaşçısı), bir Tyranid sürüsünün belkemiğini 
 Tyranid Warrior'ın en önemli işlevi sinapstır (synapse); Hive Mind'ın engin, uzak bilinci, iradesini doğrudan en küçük yaratığa iletemez. Bunun yerine, Warrior'lar birer canlı verici, birer ileti düğümü gibi çalışır; Hive Mind'ın komutlarını alır ve çevrelerindeki sürüye yayarlar. Bir Tyranid Warrior'ın menzilindeki Gaunt'lar disiplinli ve ölümcül bir bütün gibi hareket eder; ama Warrior öldürülürse, çevresindeki küçük yaratıklar aniden içgüdüsel paniğe kapılıp dağılabilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/26/TyranidWarriorArt6th.jpg)

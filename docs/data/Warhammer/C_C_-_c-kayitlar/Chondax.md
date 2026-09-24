@@ -12,8 +12,6 @@ Bu kanal seferin kendisini, haberin gelişini ve bu belirsizliğin Legion üzeri
 
 **Konum notu:** Chondax'ın galaktik konumu, gezegenlerinin sayısı ve seferin kesin başlangıç tarihi yayımlanmış kaynaklarda ayrıntılı verilmez. Arşiv bu boşlukları doldurmaz; sistemin Terra'dan ve Horus'un ana cephelerinden uzak olduğu, anlatının asıl dayandığı olgudur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Brotherhood_of_the_Storm.jpg/revision/latest/scale-to-width-down/1000?cb=20160912113442)
-
 ## Kökenler: Uzak Cephelerin Legion'ı
 V Legion'ın Heresy arifesinde Chondax gibi bir yerde bulunması tesadüf değildi. Jaghatai Khan, Great Crusade boyunca Legion'ını çoğunlukla Imperium'un sınır bölgelerinde, bağımsız ve hızlı harekâtlarda kullanmayı yeğlemişti. Kaynaklar onu, Terra'nın saray siyasetinden, kardeşlerinin rekabetinden ve bürokrasinin ağır işleyişinden bilerek uzak duran bir Primarch olarak çizer. Chogoris'in bozkırlarında biçimlenen bu anlayış için özgürlük, uzağa gidebilmek demekti; uzak cephe de hem bir görev hem de bir sığınaktı.
 

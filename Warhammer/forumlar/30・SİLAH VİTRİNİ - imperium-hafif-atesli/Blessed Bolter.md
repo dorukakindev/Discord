@@ -11,5 +11,3 @@ Adepta Sororitas'ın kendi kalıbından dökülen, her parçası dualarla mühü
 ## Teknik ve Kullanım
 Bolt silah ailesi .75 kalibre kendi-itmeli mermi kullanır; her mermi kütledelici çekirdek + patlayıcı başlık taşır ve hedefin içinde infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; bir bolt mermisi ortalama bir insanı ortadan ikiye ayırır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Bolter_Baal-Pattern_Ultima.jpg/revision/latest?cb=20140102222913)

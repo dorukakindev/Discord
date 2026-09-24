@@ -10,8 +10,6 @@ Numaralı savaşlar, bir düşmanla yapılan kesintisiz bir çatışmanın dön�
 
 Bu kanal savaşların seyrine, komutanlarına, dönüm noktalarına ve sonuçlarına odaklanır. Filoların kendi karakterleri ve sınıflandırılması <#1551815033518948404>, türün biyolojisi ve genel tarihi <#1551759780211589197>, kolektif bilincin doğası <#1551814990338723904> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cb/TyranidsIcon.jpg/revision/latest/scale-to-width-down/1000?cb=20230331182929)
-
 ## First Tyrannic War: Tyran'dan Macragge'a
 745.M41'de Eastern Fringe'in kıyısındaki Tyran karakol dünyası iletişimi kesti. Olay yerine ulaşan Inquisitor Kryptman, gezegenin canlı maddesinden arındırılmış bir kayaya dönüştüğünü gördü; son kayıtlar, gökyüzünden inen ve hiçbir tanıdık türe benzemeyen bir istilayı anlatıyordu. Kryptman düşmana bu ölü dünyanın adını verdi ve filonun Ultramar'a doğru ilerlediğini hesaplayarak Ultramarines'i uyardı.
 

@@ -8,5 +8,3 @@ Zoanthrope, Tyranid Hive Mind'ının psişik gücünü kullanan, son derece uzma
 Zoanthrope, Hive Mind'ın engin, kolektif psişik gücünü bir mercek gibi odaklar ve yıkıcı bir silaha çevirir; en korkunç saldırısı "Warp Blast"tır, en ağır tank zırhını bile eritebilen yoğun bir psişik enerji ışınıdır. Bir Zoanthrope, uzaktan bir savaş makinesini ya da bir grup askeri bir anda yok edebilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/99/Zoanthrope.jpg)

@@ -19,5 +19,3 @@ Second War for Armageddon sırasında kabilesinden kopan Snikrot, Kommando'ları
 -# Kaynaklar: *Codex: Orks*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551643990196232303>
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a8/Boss_Snikrot.jpg)

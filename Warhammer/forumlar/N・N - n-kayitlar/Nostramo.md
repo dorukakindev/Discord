@@ -10,8 +10,6 @@ Nostramo'nun hikâyesi üç evrede okunabilir. Önce suçun ve yozlaşmanın bo�
 
 Bu kanal Nostramo'yu bir dünya ve bir toplum olarak ele alır. Curze'nin kişiliği ve akıbeti **kayıt**, Legion'un savaşları ve dağılışı **kayıt** kanalında işlenir. Yayımlanmış kanon Nostramo'nun coğrafyası, nüfusu ve yönetim kurumları hakkında sınırlı ayrıntı verir; arşiv bu boşlukları tahminle doldurmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Nostramo_Great_Crusade.jpg/revision/latest?cb=20130914044300)
-
 ## Karanlığın Dünyası
 Kaynaklar Nostramo'yu ortak bir çizgide, bir gece dünyası olarak tasvir eder. Işığın bu denli yoksun olmasının fiziksel nedeni yayınlarda tutarlı bir açıklamaya kavuşturulmaz; anlatıyı belirleyen, gökbilimsel mekanizmadan çok bu karanlığın insanlara yaptıklarıdır. Kentler yapay ışıkla ayakta durur, ama o ışık da yoksulların mahallelerine pek uğramaz. Primarch'ın solgun teni, karanlığa alışkın gözleri ve Night Lords'un sonraki kuşaklarında da görülen solgunluk bu dünyanın izleri olarak anılır.
 

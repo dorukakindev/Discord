@@ -19,5 +19,3 @@ Stompa'lar, yeterince büyük bir Waaagh! toplandığında Mek'lerin topluca gir
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551814495138091013>, <#1551809313096474696>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Stompa01.jpg/revision/latest?cb=20181129175043)

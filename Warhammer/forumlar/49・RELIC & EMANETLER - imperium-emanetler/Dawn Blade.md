@@ -22,5 +22,3 @@ Farsight'ın doğal ömrünü aşmış görünmesinin kılıçla ilişkili olup 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Arks of Omen: Farsight*; *Farsight: Crisis of Faith — Phil Kelly*
 
 -# İlişkili kayıtlar: <#1551814127541026827>, <#1551809146850910260>, <#1551810874635976776>, <#1551654107058540595>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/69/Dawn_Blade_2.jpg/revision/latest?cb=20131002183732)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Grotesque.jpg/revision/latest?cb=20200925201411
+
 -# THE IMPERIAL ARCHIVE · G Kayıtları · Kayıt
 # Grotesques
 

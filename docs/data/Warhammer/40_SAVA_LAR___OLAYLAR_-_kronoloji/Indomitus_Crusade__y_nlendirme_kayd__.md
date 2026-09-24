@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Indomitus Crusade (yönlendirme kaydı)
 
-Guilliman'ın başlattığı, Great Crusade'den bu yana Imperium'un en geniş askerî seferberliği olarak betimlenen harekât. Tam madde <#1551714817604329604> kanalındadır.
+Guilliman'ın başlattığı, Great Crusade'den bu yana Imperium'un en geniş askerî seferberliği olarak betimlenen harekât. Tam madde <#1551815418619101185> kanalındadır.
 
 - **Kategori:** Sefer — <#1551629180972572742>
 - **Fraksiyon:** Imperium of Man
@@ -18,4 +18,4 @@ Crusade numaralandırılmış filolara bölündü; Fleet Primus'u Guilliman bizz
 
 -# Kaynaklar: *Gathering Storm III: Rise of the Primarch*; *Dark Imperium — Guy Haley*
 
--# İlişkili kayıtlar: <#1551714817604329604>, <#1551588042450403339>, <#1551741870458151003>, <#1551587969436094494>
+-# İlişkili kayıtlar: <#1551815418619101185>, <#1551997912307732560>, <#1551818213782716427>, <#1551814400938082357>

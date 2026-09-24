@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/36/Waves_of_the_Warp.jpg/revision/latest?cb=20160211182552
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Warp (Immaterium) — Büküm / Madde-Ötesi

@@ -10,8 +10,6 @@ Imotekh'i öteki Necron hükümdarlarından ayıran, hem soğukkanlı bir strate
 
 Kapsam notu: Sautekh ve öteki hanedanların yapısı <#1551817348900589669>, Necron uygarlığının bütünü <#1551759762193121282>, Imotekh'in emrindeki Gidrim Nemesor'u <#1551809907060113460>, Nephilim War'un askerî seyri ise <#1551818153271627807> kanallarındadır. Bu madde Imotekh'i bir kişi olarak ele alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/48/Imotekh_the_Stormlord.png/revision/latest?cb=20150202200103)
-
 ## Nemesor'dan Phaeron'a
 Necrontyr çağında Imotekh bir hükümdar değil, Sautekh ordularına komuta eden bir **Nemesor**'du. Great Sleep'e yatarken hanedanın tahtında başka bir Phaeron oturuyordu. Kaynaklara göre bu Phaeron uyku sırasında varis bırakmadan öldü ve Mandragora uyandığında sarayı, tahtın boş kaldığını fark eden soylular arasında bir iç savaşa sürüklendi.
 

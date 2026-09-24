@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/45/Deliverance.png/revision/latest/scale-to-width-down/900?cb=20200422111801
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/45/Deliverance.png/revision/latest/scale-to-width-down/900?cb=20200422111801)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Deliverance — Deliverance (Lycaeus)

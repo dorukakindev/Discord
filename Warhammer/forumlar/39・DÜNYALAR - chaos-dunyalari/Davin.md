@@ -8,5 +8,3 @@ Davin, ilk bakışta önemsiz görünen, ama 40K tarihinin gerçek kırılma nok
 Davin, Büyük Haçlı Sefer sırasında İmparatorluk'a katılmış, ama yüzeyinin altında karanlık "Yılan Locası" (Serpent Lodge) savaşçı kültlerini gizleyen bir dünyaydı. Word Bearers ve özellikle kara rahip Erebus, bu kültlerle ve gezegenin Kaos'a yakınlığıyla bağlantılıydı. Davin, masum bir İmparatorluk dünyası kılığında, Kaos'un Horus'a uzanması için kurulmuş bir tuzaktı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/73/SerpentLodge.jpg)

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest/scale-to-width-down/675?cb=20160528134728
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest/scale-to-width-down/675?cb=20160528134728)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Corvus Corax — Kuzgun Lordu

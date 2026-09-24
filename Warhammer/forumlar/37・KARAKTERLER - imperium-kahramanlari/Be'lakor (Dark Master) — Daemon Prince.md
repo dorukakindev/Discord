@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Be%27larkor_First_Greater_Daemon.png/revision/latest?cb=20140122233745
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Be'lakor (Dark Master) — Daemon Prince
 

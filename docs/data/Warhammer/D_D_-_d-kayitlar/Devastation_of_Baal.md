@@ -13,8 +13,6 @@ Leviathan'ın kolları Imperium'un iç bölgelerine doğru uzanırken bunlardan 
 
 Kalkan sonunda delindi. Cryptus'taki savaşlar Baal'a zaman kazandırdı, fakat Leviathan'ın ilerleyişini durduramadı. Tyranid kollarının neden özellikle Baal'a yöneldiği yayımlanmış kanonda kesin biçimde açıklanmaz; Hive Mind'ın amaçlarına dair her yorum, evren içi tahmin düzeyinde kalır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/72/DomeofAngelsAssaultBaal.png/revision/latest/scale-to-width-down/1000?cb=20180510015640)
-
 ## Soyun Toplanışı
 Tehdidin boyutunu gören Commander **Dante**, Sanguinius'un soyundan gelen bütün Chapter'ları Baal'a çağırdı. Kaynaklar bu çağrıya verilen yanıtı, Blood Angels ailesinin tarihindeki en büyük toplanmalardan biri olarak anlatır. Flesh Tearers'ın Chapter Master'ı **Gabriel Seth** gibi sertliği ve öfkesiyle bilinen komutanlar da, Imperium'un gözünden düşmüş ya da kuşkuyla izlenen Chapter'lar da aynı surların ardında yer aldı. Dante için bu birlik yalnızca askerî bir zorunluluk değildi: kusuru paylaşan ve Imperium'un bir kısmı tarafından korkuyla izlenen bir ailenin, Primarch'ının mezarı başında ortak bir kader etrafında buluşmasıydı.
 

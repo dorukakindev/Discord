@@ -10,8 +10,6 @@ Kusurun kaynağı olarak gösterilen **Canis Helix**, VI Legion'ın gene-seed'in
 
 Dönüşümün tetikleyicisi ve mekanizması yayımlanmış kanonda tek bir açıklamaya bağlanmaz. Bazı anlatılar onu adayların dönüşüm sürecinde Canis Helix'i taşıyamamasına, bazıları savaşın ve öfkenin uyandırdığı bir kabarışa, daha sonraki kampanya materyali ise Warp'la ve Eye of Terror'la ilişkili daha esrarengiz bir kaynağa bağlar. **Kanon durumu:** Bu anlatımlar birbirini açıkça dışlamaz; ama tek bir kesin mekanizma sunulmuş değildir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/98/Wulfen.jpg/revision/latest?cb=20170318221008)
-
 Bu kanal Wulfen'i ve lanetin kendisini ele alır. Chapter'ın genel yapısı <#1551638910344630307>, dünyası <#1551645208406401069>, Primarch <#1551649072912269433> kanallarındadır.
 ---MSG---
 ## Chapter İçinde Wulfen

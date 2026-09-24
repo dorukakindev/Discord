@@ -7,4 +7,6 @@ Tankbusta'ların tek kullanımlık dev çekici; ucundaki devasa patlayıcıyı d
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/bd/Tankhammer.jpg)
+## Teknik ve Kullanım
+
+Tankbusta'ların tek kullanımlık dev çekici; ucundaki patlayıcı şarjeyi düşman zırhına çarpıp aynı anda patlatır. Kullanan Ork'un da kendi kolunu kaybetmesi yaygındır — Tankbusta kültüründe bu bir onur işaretidir, çünkü 'tankı patlatan Ork kol feda eder'. Zırhlı hedeflere karşı son çare ama en garantili yakın dövüş çözümüdür; tek darbe ile bir Land Raider'ın zırhını delebilir.

@@ -11,5 +11,3 @@ House Taranis (Taranis Hanedanı), var olan en eski ve belki de en saygın Imper
 Taranis'in en büyük efsanesi, Horus Heresy sırasında yaşandı; ihanet Mars'a da ulaştığında (the Schism of Mars), gezegenin Mechanicum'unun büyük bölümü Kaos'a ve hain Dark Mechanicum'a döndü. Bu kıyamet gibi iç savaşta, House Taranis sadık kaldı ve Kızıl Gezegen'i, kendi dünyalarını, ihanete karşı kahramanca savundu. Neredeyse yok olma noktasına geldiler, ama sadakatlerinden asla dönmediler; bu direniş, onların onurunu sonsuza dek perçinledi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/8e/TaranisHeresy.jpg)

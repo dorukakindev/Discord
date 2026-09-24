@@ -7,5 +7,3 @@ Sanguinius'un Blade Encarmine ile birlikte taşıdığı, ucu tek bir kan damlas
 Spear of Telesto (Telesto Mızrağı), Blood Angels chapter'ının en kutsal eserlerinden biridir; melek-primarch Sanguinius'un, Blade Encarmine kılıcının yanı sıra ana silahı olarak taşıdığı bir mızraktır. Bu mızrak, Sanguinius'un hem savaş gücünün hem de İmparator'a bağlılığının somut bir simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/72/SangTerra.jpg)

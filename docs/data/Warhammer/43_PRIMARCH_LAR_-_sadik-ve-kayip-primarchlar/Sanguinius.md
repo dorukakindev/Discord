@@ -9,5 +9,3 @@ Sanguinius, radyasyonla kavrulmuş ölüm dünyası Baal'ın mutant kabileleri a
 İmparator onu IX. Lejyon Blood Angels'ın başına geçirdi ve Sanguinius, hem kardeşleri hem sıradan insanlar için bir ideal haline geldi; güzelliği, fedakarlığı ve onuru ona neredeyse melek gibi bir saygı kazandırdı. Ama kanatları gibi gen-tohumu da bir sır taşıyordu: gizli bir genetik kusur, gelecekteki lanetlerin tohumu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/0f/YoungSang.jpg)

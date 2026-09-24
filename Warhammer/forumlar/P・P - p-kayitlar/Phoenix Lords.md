@@ -15,8 +15,6 @@ Bu sürecin tam olarak nasıl işlediği, yani yeniden doğan varlığın gerçe
 
 **Kanal sınırı.** Shrine'lar, Exarch'lar ve Aspect'lerin savaş tarzı **kayıt**, Arhra'nın mirasından doğan Commorragh geleneği **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Asurmen_Art.jpg/revision/latest?cb=20110218054221)
-
 ## Asurmen ve İlk Shrine
 
 **Asurmen.** Phoenix Lord'ların ilki ve Dire Avengers'ın kurucusudur. Asuryani anlatısına göre Fall'dan sağ çıkıp Aeldari'nin kendi tutkularına yenik düştüğünü gören Asurmen, savaşın kendisini disipline edecek bir yol aradı ve ilk Aspect Shrine'ı kurdu. Kaynaklarda **Shrine of Asur** olarak anılan bu ilk tapınakta yetişen öğrenciler, her biri Khaine'in bir başka yönünü benimseyerek kendi Aspect'lerini kurdu.

@@ -7,4 +7,6 @@ Necron Lord'larının iki elli boyut tırpanı; ağzı gerçeklikte bir yarık a
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/76/WarscytheArt.jpg)
+## Teknik ve Kullanım
+
+Necron Lord ve Overlord'ların iki elli boyut tırpanı; Warscythe'ın daha ağır ve daha yıkıcı varyantı. Kesici kenarı faz-dönüştürücü teknolojiyle gerçeklikte bir yarık açar; zırhın kalınlığı veya enerji kalkanları anlamsızlaşır. Ünlü örnekleri Zahndrekh gibi eski soyluların ellerinde görülür. Tek darbesiyle bir tankı ikiye biçebilecek güçtedir; hem yakın dövüş silahı hem komuta simgesidir.

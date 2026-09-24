@@ -22,5 +22,3 @@ Leagues of Votann Squat'ların yayın mirasını taşır; ancak köken, kültür
 -# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Codex: Leagues of Votann*
 
 -# İlişkili kayıtlar: <#1551759789988642876>, <#1551815272074055681>, <#1551810663859626054>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)

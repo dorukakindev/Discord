@@ -11,5 +11,3 @@ Legion of the Damned, 40K'nın en gizemli ve en doğaüstü "chapter"ıdır; gel
 Davranışları her zaman aynıdır: İmparatorluk güçleri en umutsuz, en çaresiz anlarında, yok oluşun eşiğindeyken, Legion of the Damned bir anda hiçbir yerden belirir. Yeşil-mavi alevlerle yanan bolterleri ve melta silahlarıyla düşmanı acımasızca biçer, savaşın gidişatını değiştirir; ama kendileri kurşunlardan, patlamalardan etkilenmez gibidir, sanki zaten ölüymüşler gibi. Görev bitince sessizce, geldikleri gibi kaybolurlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/9e/LOTD6th.jpg)

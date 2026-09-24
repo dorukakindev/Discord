@@ -23,6 +23,4 @@ Boyunlarındaki Collar of Khorne, büyüye karşı koruma sağlayan bir tılsım
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: World Eaters — 10th Edition*
 
--# İlişkili kayıtlar: <#1551588001434574908>, <#1551714793138954350>, <#1551588078441734327>, <#1551588035399782573>
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/62/Flesh_Hound.jpg)
+-# İlişkili kayıtlar: <#1551995201386578031>, <#1551654107058540595>, <#1551995320303489068>, <#1551818131679215728>

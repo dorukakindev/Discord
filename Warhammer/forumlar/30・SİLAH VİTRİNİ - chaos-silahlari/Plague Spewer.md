@@ -7,4 +7,6 @@ Death Guard'ın alev silahı yerine taşıdığı irin fışkırtıcısı; alev 
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ef/PlagueSpewer.jpg)
+## Teknik ve Kullanım
+
+Death Guard'ın alev silahı; basınçlı bulaşıcı çamuru düşman mevzilerine püskürtür. Alevden farklı olarak ısı yerine hastalık kullanır — püskürtülen sıvı dokunduğu her şeyi necrotize eder ve yaydığı buhar solunum yoluyla bulaşır. Kapalı alan savaşında en korkulan Death Guard silahıdır; sığınaklardaki düşmanı dumanla boğmak yerine hastalıkla boğar.

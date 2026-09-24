@@ -18,4 +18,4 @@ Fall'dan sonra Craftworld'ler galaksinin boşluklarında dağınık biçimde yol
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Warrior — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>, <#1551587961009741945>, <#1551740924244271140>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551814105046851615>, <#1551810744754905123>

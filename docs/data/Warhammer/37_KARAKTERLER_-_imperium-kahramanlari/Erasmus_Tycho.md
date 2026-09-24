@@ -11,5 +11,3 @@ Erasmus Tycho, bir zamanlar Blood Angels chapter'ının sahip olduğu en büyük
 O savaşta yaşamını ve kaderini belirleyen olay yaşandı; bir Ork warband'ına karşı verilen bir çatışmanın başında, bir Ork Weirdboy'un ölümcül bir psişik saldırısına uğradı ve ölü sanılarak terk edildi. Bir şekilde hayatta kaldı, ama bu korkunç zihinsel saldırının yan etkisi, yüzünün yarısının korkunç bir sırıtış halinde felç olması oldu. Bu yaralanma, onun Orklara duyduğu nefreti derinleştirdi ve içine işleyen bir karanlığın tohumunu ekti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/97/TychoMemorial.jpg)

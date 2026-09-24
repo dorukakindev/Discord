@@ -13,5 +13,3 @@ Warhound Titan (Scout sınıfı), Adeptus Titanicus'un en küçük ve en hızlı
 Warhound'lar genellikle çiftler halinde avlanır; daha büyük, daha ağır Titanlar (Reaver, Warlord) yavaşça ilerlerken, Warhound'lar önden koşar, düşman hattının kanatlarına ve zayıf noktalarına saldırır, avı sindirir ve ana güce yol açar. Turbo-laser, mega-bolter ve plazma silahlarıyla hızlı, vurucu darbeler indirir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/35/WarhoundArtAT.jpg)

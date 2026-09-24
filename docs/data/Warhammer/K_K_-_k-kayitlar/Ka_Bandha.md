@@ -12,8 +12,6 @@ Ka'Bandha'yı öteki Bloodthirster'lardan ayıran, kaynakların ona yüklediği 
 
 **Kanal sınırı.** Primarch'ın kişiliği <#1551650289579335757>, Signus kampanyasının bütünü signus-campaign, kan açlığı ve kara öfke <#1551811968946540596>, tanrının kendisi <#1551815867845578773> kanalında işlenir. Burada merkezde daemonun kendisi durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1b/Ka%27Bandha.jpg/revision/latest?cb=20120117202650)
-
 ## Signus: İlk Karşılaşma
 Ka'Bandha'nın bugünkü kimliğini asıl kuran metin James Swallow'un *Fear to Tread* romanıdır. Horus, isyanını henüz açığa vurmadan önce Blood Angels'ı sahte bir gerekçeyle Signus kümesine yönlendirmişti. Word Bearers'ın önceden hazırladığı bu bölge, Warp'a açılmış bir tuzaktı: Legion geldiğinde kümenin dünyaları daemonik güçlerin eline geçmiş, Warp fırtınaları geri çekilme yolunu kapatmıştı. Ka'Bandha bu tuzağın merkezinde, Signus Prime'da bekliyordu.
 

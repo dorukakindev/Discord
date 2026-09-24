@@ -11,5 +11,3 @@ Typhus the Traveller, Death Guard lejyonunun en güçlü şampiyonu ve Nurgle'ı
 Heresy sırasında, Death Guard'ın gemileri Warp'ta yol alırken Typhus, gizli bir Nurgle kültünün etkisiyle hareket etti; lejyonun gemilerini korkunç bir veba salgınına açtı. Death Guard, Warp'ta çaresizce çürürken primarch'ları Mortarion, lejyonu kurtarmak için Nurgle'a yalvardı ve böylece hepsi çürümenin ebedi kulları oldu. Typhus, bu felaketin baş aktörüydü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f0/TyphonHuman.jpg)

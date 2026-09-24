@@ -22,5 +22,3 @@ Gal Vorbak'ın Heresy sonrası akıbeti tek bir birim olarak net izlenmez; M41 W
 -# Kaynaklar: *The First Heretic — Aaron Dembski-Bowden*; *Betrayer — Aaron Dembski-Bowden*
 
 -# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763>, <#1551654107058540595>, <#1551814951365115956>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Argel_Tal-Lorgar%27s_Bodyguard.jpg/revision/latest?cb=20110321080742)

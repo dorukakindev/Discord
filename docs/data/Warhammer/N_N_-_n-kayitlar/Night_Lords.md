@@ -10,8 +10,6 @@ Legion'un kimliğini anlamak için bir çelişkiyi kabul etmek gerekir. Curze, k
 
 Night Lords Chaos'un güçlerinden yararlanır; fakat kaynaklar onların önemli bir kısmının Chaos tanrılarına tapınmayı küçümsediğini ve Warp'ı bir müttefik değil, bir araç olarak gördüğünü vurgular. Heretic Astartes ekosisteminin geneli için **kayıt** kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900)
-
 ## Kökenler: Nostramo ve Night Haunter
 Curze'un düştüğü dünya Nostramo, güneş ışığının neredeyse hiç ulaşmadığı, sonsuz bir gecenin altında suç ve yolsuzlukla çürüyen şehirlerden oluşan bir gezegendi. Hiçbir ebeveynin ve hiçbir yol göstericinin olmadığı bu sokaklarda büyüyen çocuk, suçluları avlayıp cesetlerini ibret için sergileyen bir hayalet, Night Haunter hâline geldi. Zamanla Nostramo'nun suç çeteleri ve yöneticileri ondan o kadar korktu ki gezegen, dehşetle dayatılan bir düzene kavuştu.
 

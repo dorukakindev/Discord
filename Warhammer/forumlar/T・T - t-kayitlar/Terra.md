@@ -12,8 +12,6 @@ Terra'nın merkezinde, Himalazia olarak anılan dağ silsilesinin üzerine kurul
 
 Bu kanal Terra'yı bir dünya olarak ele alır; Emperor'ın doğası, Imperium'un kurumsal yapısı ve Horus Heresy'nin genel akışı kendi kanallarında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/95/Terra_And_Luna.jpg/revision/latest?cb=20130409090405)
-
 ## Kökenler: Old Night ve Unification Wars
 Dark Age of Technology boyunca insanlığın galaksiye yayıldığı merkez olan Terra, Age of Strife'ın kaosunda büyük bir çöküşe uğradı. Warp fırtınalarının yıldızlararası seyahati kesmesiyle diğer dünyalardan kopan gezegen, tekno-barbar savaş ağaları, mutant kabileler ve harap olmuş kadim teknolojiler arasında bölündü. Old Night olarak anılan bu dönemde Terra'nın yaşadığı felaketlerin tam ayrıntısı kaynaklarda kasıtlı olarak bulanık bırakılmıştır.
 

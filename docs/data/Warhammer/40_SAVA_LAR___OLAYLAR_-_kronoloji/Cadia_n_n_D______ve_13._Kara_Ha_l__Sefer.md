@@ -6,5 +6,3 @@
 Cadia gezegeni, Halkaların Gözü'nün hemen sınırında yer alır. Yüzeyinin altında ve etrafında, kökeni Necron uygarlığından kalma kadim dikili taşlar (Cadian Pylons) bulunmaktadır. Bu pylonlar, Warp enerjisini bastıran ve Halkaların Gözü'nün galaksiye doğru genişlemesini engelleyen gizemli bir rezonans ağı oluşturuyordu. Cadia, adından öte bir anlam taşıyordu: o, Kaos'un galaktik akışını sınırlandıran en önemli fiziksel bariyerdi. Abaddon bunu biliyordu ve Cadia'yı fethetmek değil, yok etmek istiyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Cadia.jpg/revision/latest?cb=20100408114727)

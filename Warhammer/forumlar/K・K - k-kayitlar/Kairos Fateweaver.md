@@ -10,8 +10,6 @@ Bu yapı, Kairos'u Tzeentch'in doğasına dair yaşayan bir paradoksa dönüşt�
 
 Bu kanal Kairos'u bir birey olarak ele alır. Tanrının kendisi <#1551647728692633643>, daemon'ların genel ontolojisi <#1551654107058540595>, Maelstrom'un kendisi <#1551809294750449746> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/06/AOF_WEB_0_copy.jpg/revision/latest/scale-to-width-down/1000?cb=20120118003142)
-
 ## Kuyu ve Dönüşüm
 Codex anlatılarına göre Kairos, Tzeentch tarafından Impossible Fortress'ın derinliklerindeki Well of Eternity'ye atıldı. Bu kuyu, geçmişin ve geleceğin ipliklerinin düğümlendiği yer olarak tasvir edilir. Kairos kuyudan sağ çıktı; ama kanatları körelmiş, bedeni yaşlanmış ve başı ikiye bölünmüş hâlde. Tzeentch'in onu kuyuya neden attığı, bunun bir ödül mü, bir ceza mı yoksa tanrının kendi merakının bir deneyi mi olduğu kaynaklarda açıkça ayrıştırılmaz. Tzeentch'in doğası düşünüldüğünde bu belirsizlik rastlantı değildir: armağan ile lanet orada birbirinden ayrılmaz.
 

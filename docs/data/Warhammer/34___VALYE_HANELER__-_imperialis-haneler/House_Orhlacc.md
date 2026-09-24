@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/05/House_Orhlacc_Icon_Fancy.png/revision/latest?cb=20211209020449
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/05/House_Orhlacc_Icon_Fancy.png/revision/latest?cb=20211209020449)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Orhlacc — Orhlacc Hanedanı

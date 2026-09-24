@@ -19,5 +19,3 @@ Hive Mind'ın yönettiği, her canlıyı biyokütle olarak tüketen ve kendini s
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Leviathan — Darius Hinks*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551815033518948404>, <#1551814990338723904>, <#1551809334483361823>, <#1551759784821137419>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cb/TyranidsIcon.jpg/revision/latest/scale-to-width-down/1000?cb=20230331182929)

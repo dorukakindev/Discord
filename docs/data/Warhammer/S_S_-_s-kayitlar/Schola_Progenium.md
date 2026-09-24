@@ -8,8 +8,6 @@ Kategori: Imperial Kurum / Eğitim · Fraksiyon: Imperium of Man, Adeptus Minist
 
 Kurum Adeptus Ministorum'la, yani Ecclesiarchy'yle yakından bağlıdır ve eğitimin omurgası Imperial Creed'dir. Öğrenciler küçük yaşlardan itibaren dua, ilmihal, beden eğitimi, silah talimi ve mutlak itaat içinde büyür. Eğitmenler arasında kaynaklarda en sık anılanlar **Drill Abbot** ve **Drill Abbess**'lerdir: disiplini ve imanı aynı sertlikle öğreten, öğrencilerini sürekli eleyen hocalar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1a/Drill_Abbot.jpg/revision/latest?cb=20130319211624)
-
 Kurumun kuruluş tarihi ve yönetim şeması yayımlanmış kaynaklarda kesinleştirilmez. Hangi kurumlara ne ölçüde bağlı olduğu da yayından yayına farklı ayrıntıyla verilir. Değişmeyen çekirdek şudur: Schola, Imperium'un ölen hizmetkârlarının çocuklarını, babalarının ve annelerinin bıraktığı boşluğu dolduracak en güvenilir kadrolara dönüştüren bir makinedir. Bu kanal, kurumun kendisini ve mezunlarının Imperium'daki yerini ele alır; mezunların gittiği kurumların ayrıntısı kendi kanallarındadır.
 ---MSG---
 ## Mezunlar ve Kurumsal Ağ

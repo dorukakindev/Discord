@@ -18,4 +18,4 @@ World Eaters ile Emperor's Children arasındaki çatışma sürerken gezegenin g
 
 -# Kaynaklar: *Codex: World Eaters — 10th Edition*; *Codex: Emperor's Children — 10th Edition*
 
--# İlişkili kayıtlar: <#1551588078441734327>, <#1551587957440249937>, <#1551588009495756830>, <#1551588001434574908>
+-# İlişkili kayıtlar: <#1551995320303489068>, <#1551813750305198101>, <#1551816158951510069>, <#1551995201386578031>

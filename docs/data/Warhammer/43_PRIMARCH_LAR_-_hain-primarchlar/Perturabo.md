@@ -9,5 +9,3 @@ Perturabo, şehir-devletlerin sürekli savaştığı Olympia'ya düştü ve daha
 İmparator onu IV. Lejyon Iron Warriors'ın başına geçirdi ve Perturabo galaksinin en büyük kuşatma ustası oldu; hiçbir sur, hiçbir tahkimat onun topçusu ve mühendisliği karşısında dayanamazdı. Ne var ki bu yetenek bir lanete dönüştü: Iron Warriors sürekli en kanlı, en nankör ve en yıpratıcı kuşatma görevlerine sürüldü, sayısız kayıp verdiler ve hiçbir zaman hak ettikleri takdiri görmediler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/4b/PertYoung.jpg)

@@ -13,8 +13,6 @@ Erebus, Lorgar'ın düştüğü teokratik dünya Colchis'in dinî geleneğinden 
 
 Kaynaklar ikisini birbirini tamamlayan iki karakter olarak çizer. Kor Phaeron bağnaz, kıskanç ve dogmatiktir; Erebus ise soğukkanlı, ikna edici ve sonuca odaklıdır. Birincisi imanın katı çekirdeğini temsil ederken ikincisi o imanı galaksiye yayacak yolları, gerektiğinde yalanla, hesaplar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/11/Warhammer_40%2C000_Grim_Dark_Lore_Part_15_%E2%80%93_Bearer_of_the_Word/revision/latest?cb=20200608214004)
-
 ## Great Crusade: Localar ve Anathame
 Great Crusade'in son yıllarında Legion'lar arasında, rütbe ayrımı gözetmeden toplanan kapalı kardeşlik halkaları, yani warrior lodge'lar yayılıyordu. Erebus bu ağı kendi amaçlarına alet etti. *Horus Rising*'de Luna Wolves'la ortak sefere katılan Chaplain, localardaki ilişkiler aracılığıyla Horus'un Legion'unun içine sızar ve güven kazanır.
 

@@ -11,5 +11,3 @@ Gabriel Seth, "Öfkenin Muhafızı" (Guardian of Rage) olarak bilinen, kötü ş
 Devasa, iki elle kullanılan Blood Reaver (Kan Yağmacısı) adlı bir zincir kılıç taşır; bu silahla, en canavarsı düşmanları bile kol bacak doğrayabilir. Savaşta neredeyse bir kasap gibi acımasız ve ölümcüldür; Flesh Tearers'ın sürekli savaşla aşınan, sayıca azalan ve lanetlerine yenik düşen savaşçılarını, ön safta kendi vahşetiyle yönetir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e9/SethShieldOfBaal.jpg)

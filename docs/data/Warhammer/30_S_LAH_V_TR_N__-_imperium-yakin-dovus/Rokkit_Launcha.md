@@ -19,5 +19,3 @@ Ork Boyz birliklerinin ağır silahlarından biridir ve araçlara karşı kullan
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3c/Rokkit_Launcha_Schematic.jpg/revision/latest?cb=20140108085911)

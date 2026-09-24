@@ -13,8 +13,6 @@ Haemonculi'nin çoğu, uzun ve defalarca yenilenmiş hayatlarının sonucunda s�
 
 **Kanal sınırı.** Drukhari'nin genel toplum düzeni <#1551813105166712966>, şehrin kendisi ve Coven'ların oradaki yeri <#1551645291873050666> kanalında işlenir. Burada merkezde Coven'ların iç dünyası ve yeniden bedenlendirme sanatı durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/30/Master_Haemonculus_Urien_Rakarth.png/revision/latest/scale-to-width-down/737?cb=20141031073706)
-
 ## Yeniden Bedenlendirme ve Et Sanatı
 
 **Yeniden bedenlendirme.** Haemonculi'nin en değerli hizmeti, ölmüş bir Drukhari'yi geri getirmektir. Kaynaklara göre bunun için ölünün bedeninden geriye kalan küçük bir parça bile yetebilir; Haemonculus bu kalıntıdan yeni bir beden büyütür ve ruhun geri dönmesini sağlar. Commorragh'ta ölümün nihai olmaması bu sanat sayesindedir. Fakat hizmet ucuz değildir ve karşılıksız verilmez: geri getirilen, Haemonculus'a borçlanır; bu borçlar Coven'ların şehrin siyasetinde sessizce ördüğü ağların iplikleridir.

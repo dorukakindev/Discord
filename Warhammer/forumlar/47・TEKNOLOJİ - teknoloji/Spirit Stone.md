@@ -18,6 +18,4 @@ Aeldari mitinde spirit stone'ların, Isha'nın ölümlü çocukları için dökt
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551587928025600012>, <#1551714833236496445>, <#1551741271301947542>, <#1551588050960781432>, <#1551740924244271140>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Harlequin_Motley_Mask_of_Vyle.jpg/revision/latest?cb=20141117015658)
+-# İlişkili kayıtlar: <#1551997822725922938>, <#1551812290439942255>, <#1551655323658494093>, <#1551754688008032321>, <#1551810744754905123>

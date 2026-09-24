@@ -10,8 +10,6 @@ Zırhın "Mark" numaraları, on bin yılı aşan bir tasarım tarihinin dönüm 
 
 Burada zırh hem bir teknoloji hem de bir kültür nesnesi olarak ele alınıyor: Thunder Armour'dan Primaris çağının Mark X ailesine uzanan çizgi, her Mark'ın hangi ihtiyaçtan doğduğu ve zırhın Astartes belleğindeki yeri. Zırhı giyen savaşçının biyolojisi **kayıt** ve **kayıt**, onu üreten kurumlar ise **kayıt** ve **kayıt** kanallarında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bd/The_Armouring_of_a_Space_Marine/revision/latest?cb=20220311172314)
-
 ## Kökenler: Thunder Armour ve Mark I
 Zırhın soyu, Emperor'ın Terra'yı kılıç zoruyla birleştirdiği Unification Wars'a dek uzanır. O çağın savaşçıları, sonradan **Mark I Thunder Armour** diye anılacak ilk güç zırhını taşıyordu. Bu zırh henüz kapalı değildi: kollara ve bacaklara güç veren mekanizmalar açıkta kalıyor, baş ve gövde büyük ölçüde korunmasız duruyordu. Yaşam desteği yoktu; savaşçıyı boşlukta ya da zehirli havada koruyamazdı.
 

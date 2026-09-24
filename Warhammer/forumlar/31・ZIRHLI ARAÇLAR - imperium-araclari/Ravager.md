@@ -18,6 +18,4 @@ Kabal'ların akın filolarında Raider'ların yanında uçar. Drukhari'nin sava�
 
 -# Kaynaklar: *Codex: Drukhari*
 
--# İlişkili kayıtlar: <#1551587949450371253>, <#1551588076609085510>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Dark_Eldar_Ravager.jpg/revision/latest?cb=20111105095123)
+-# İlişkili kayıtlar: <#1551997841356881980>, <#1551993959876657192>

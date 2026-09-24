@@ -11,8 +11,6 @@ Primarch'lar Terra'dan dağıtıldıktan sonra Magnus, psykerlerin zulümden ka�
 
 Emperor'la buluşmasının ardından XV. Legion'ın komutasını üstlenen Magnus, Legion'ı yok olmanın eşiğine getiren flesh-change'i durdurdu. *A Thousand Sons* romanı, bu kurtuluşun Warp'taki bir güçle, yani sonradan Tzeentch olduğu anlaşılan bir varlıkla yapılmış bir pazarlığa dayandığını ima eder. Magnus'un kaderini belirleyen ilk adım, belki de bu pazarlıktı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Magnus-1.jpg/revision/latest/scale-to-width-down/726?cb=20161205070527)
-
 ## Great Crusade ve Nikaea
 Great Crusade boyunca Magnus, Warp'ın insanlık için tehlikeden çok bir fırsat olduğuna inandı. Legion'ını psişik disiplinlere göre Cult'lara ayırarak araştırmalarını derinleştirdi ve bu çalışmalarını, sonraki çağlarda **Book of Magnus** adıyla anılan büyü külliyatında topladı. Onun gözünde bilgi, doğru ellerde kullanıldığında kontrol edilebilir bir araçtı.
 

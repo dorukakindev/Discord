@@ -22,5 +22,3 @@ Bazı genel anlatımlar Aun'Va'yı Konsey'in başı olarak anmaya devam eder. Ö
 -# Kaynaklar: *Codex: T'au Empire*; *War Zone Damocles: Mont'ka*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551651588542828546>, <#1551813361887617108>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Aunva6.jpg/revision/latest?cb=20130526191600)

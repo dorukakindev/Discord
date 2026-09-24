@@ -15,8 +15,6 @@ Imperium'un kayıtlarında Ulthwé, Eye of Terror çevresindeki savaşların hem
 ---MSG---
 ## Eye of Terror'ın Kıyısında: Lanetli Olmanın Anlamı
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c8/Ulthwe_icon.jpg/revision/latest?cb=20100709014527)
-
 Eye of Terror, Fall of the Aeldari'de Slaanesh'in doğuşuyla açılan ve eski Aeldari dünyalarını, bugünkü adlarıyla Crone World'leri, içine alan Warp yarasıdır. Aeldari için orası yalnızca tehlikeli bir bölge değil, türün suçunun ve kaybının somut hâlidir. Ulthwé bu yaranın kenarında, onu gözetleyen bir konumda seyreder.
 
 Bu konum craftworld'ün bütün yaşamını biçimlendirmiştir. Warp'ın yakınlığı Ulthwé'nin çocuklarında psişik yeteneği daha sık ve daha güçlü ortaya çıkarır; bu, Path of the Seer'e yönelenlerin sayısını artırırken her psykeri de daha büyük bir tehlikeyle yüz yüze getirir. Bir Aeldari ruhu Slaanesh için en değerli avdır ve Göz'ün kıyısında yaşayan bir seer, o avcının nefesini herkesten yakından duyar.

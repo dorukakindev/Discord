@@ -9,5 +9,3 @@ Morvenn Vahl, Adepta Sororitas'ın Abbess Sanctorum'u (yüce komutanı) ve tüm 
 Ecclesiarchy yeni bir Abbess Sanctorum seçmek istediğinde, genç bir Celestian Superior olan Vahl'ı seçti; siyasi arenada kolayca yönlendirilebileceğini sandılar. Ama bunun yerine, Kutsal Synod toplantılarına tam savaş zırhıyla katılan, kendisini etkilemeye çalışanları sindiren dosdoğru ve demir iradeli bir savaşçı buldular.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a8/VahlArt.jpg)

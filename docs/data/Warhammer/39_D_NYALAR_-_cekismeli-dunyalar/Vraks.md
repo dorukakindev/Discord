@@ -10,5 +10,3 @@ Vraks, baştan başa devasa bir İmparatorluk cephanelik-deposuna dönüştürü
 Kriz, gezegenin yöneticisi Kardinal Xaphan'ın İmparatorluk'a isyan edip Kaos'a yönelmesiyle patladı; bu devasa cephaneliği ele geçirince, İmparatorluk için kabul edilemez bir tehdit doğdu. Gezegeni geri almak için Death Korps of Krieg alayları gönderildi ve tarihin en uzun, en yıpratıcı kuşatmalarından biri başladı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/71/Galaxy_map_Obscurus.jpg)

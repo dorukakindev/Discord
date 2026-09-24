@@ -13,8 +13,6 @@ Black Templars'ın kendilerine özgü tarih okuması burada şekillenir: onlara 
 
 Chapter geleneğine göre High Marshal'ın taşıdığı **Sword of the High Marshals**, Sigismund'un zamanından kalma ve Rogal Dorn'un kırılan kılıcından parçalar taşıdığına inanılan bir emanettir; her High Marshal'a geçerek makamın meşruiyetini simgeler. Sigismund'un ölümüne ilişkin anlatılar yayımlanmış kanonda ayrıntılı değildir; Chapter onu savaş içinde, Crusade'i sürdürürken hatırlar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Black_Templars_Badge.png/revision/latest?cb=20090228072318)
-
 ## Kültür, İnanç ve Dünya Görüşü
 Space Marine Chapter'larının çoğu Emperor'ı bir ata, bir yaratıcı ya da insanlığın en yüce lideri olarak görür; onu tanrı saymak Legion çağında Emperor'ın kendi yasaklarına aykırıydı. Black Templars ise Imperial Cult'a yakın bir ateşle Emperor'ı ilah olarak yüceltir. Chaplain'ları Chapter'ın ruhani ve fiilî önderleri arasında büyük ağırlık taşır; savaş öncesi vaazları, dualar ve yeminler Black Templars için taktik planlar kadar belirleyicidir. Bu inanç onları Ecclesiarchy ve Adepta Sororitas ile doğal müttefik yapar; Imperium'un dinî dünyaları tehdit altına girdiğinde Crusade'lerin yönünü çoğu zaman bu bağ belirler.
 

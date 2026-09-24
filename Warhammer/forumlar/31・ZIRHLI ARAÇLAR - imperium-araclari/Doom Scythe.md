@@ -19,5 +19,3 @@ Doom Scythe'lar Necron hava üstünlüğünün ve yer saldırısının aracı ol
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Doomscythe1.jpg/revision/latest?cb=20130402064458)

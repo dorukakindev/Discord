@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/20/Ork_Warboss2.jpg/revision/latest?cb=20120421002703
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Snagrod (the Arch-Arsonist of Charadon) — Orks
 

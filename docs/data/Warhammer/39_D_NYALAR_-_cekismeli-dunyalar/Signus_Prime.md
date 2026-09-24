@@ -9,5 +9,3 @@ Signus Prime, Horus Heresy'nin en sinsi tuzaklarından birinin merkezidir; Warma
 Heresy'nin başında Horus, kendisine kazanamayacağı lejyonları uzak köşelere, tuzaklara gönderdi. Kara rahip Erebus'un tavsiyesiyle, Blood Angels'ın gizli gen-tohum laneti olan "Kan Susuzluğu"ndan (Red Thirst) yararlanmaya karar verdi; Sanguinius'u Kan Tanrısı Khorne'un kollarına itmek için Signus Kümesi'ni iblislerle doldurdu. Blood Angels, kümeyi "temizlemek" için geldiğinde, bir daemon istilasının tam ortasına yürüdüler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3f/Galaxy_map_ultimasegmentum.jpg)

@@ -13,8 +13,6 @@ Bu kanal Khârn'ı bir kişi olarak ele alır. Legion'un kurumsal tarihi <#15518
 ## Kökenler
 Khârn'ın doğduğu dünya ve Legion'a katılmadan önceki yaşamı, kaynaklarda ayrıntılı bir anlatıya kavuşmuş değildir. Bilinen, onun XII Legion'un Angron'la buluştuğu ve Butcher's Nails'i benimseyerek World Eaters adını aldığı dönüşümün içinde yetiştiği ve bu dönüşümün en sadık taşıyıcılarından biri olduğudur. Legion Apothecary'leri implantı çoğaltıp Astartes'in kafataslarına yerleştirmeye başladığında Khârn da Nails'i taşıyanlar arasındaydı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e7/K3.png/revision/latest/scale-to-width-down/750?cb=20131222205641)
-
 ## Angron'un Yanında
 Aaron Dembski-Bowden'ın *Betrayer*'ı, Khârn'ı Angron'un kendisiyle gerçekten konuşabildiği az sayıdaki savaşçıdan biri olarak betimler. Primarch'ın öfke nöbetleri arasında onunla dil kurabilen, Nuceria'daki kayıp yoldaşlarının yasını hiçbir zaman bırakmayan efendisini en azından kısmen anlayan bir yavedir. Bu yakınlık bir sevgiden çok bir tanıklıktır: Khârn, Nails'in Angron'a yaptığını kendi kafatasında da hisseden ve onu hem bir bağ hem bir lanet olarak taşıyan biridir.
 

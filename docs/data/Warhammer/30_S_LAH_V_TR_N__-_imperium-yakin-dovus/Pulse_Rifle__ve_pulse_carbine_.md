@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e0/Pulse_rifle.jpg/revision/latest?cb=20130919040617
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Pulse Rifle (ve pulse carbine)
 

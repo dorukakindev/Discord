@@ -9,5 +9,3 @@ Ordo Hereticus (Cadı Tarikatı), Engizisyon'un içe dönük koludur; tehdidi d�
 Bu kolun varlığı, acı bir dersten doğdu. Apostasy Çağı'nda, çılgın Ecclesiarch Goge Vandire'ın hem Kilise'yi hem devleti ele geçirip trilyonları katlettiği "Reign of Blood" felaketinden sonra, gücün kötüye kullanımına ve içten gelen yozlaşmaya karşı bir denetim mekanizması olarak Ordo Hereticus güçlendi. Onlar, İmparatorluğun kendi kendini kontrol eden vicdanı (ve cellatı) gibidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/2d/HereticusInquisitor.jpg)

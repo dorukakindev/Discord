@@ -11,5 +11,3 @@ Crimson Consuls (Kızıl Konsüller), Ultramarines'in (Roboute Guilliman) bir ha
 Chapter, ihanetinin kendi iradesiyle değil, dışarıdan kurulan bir komployla geldiği trajik bir örnektir. Alpha Legion, muhtemelen bizzat Alpharius'un (ya da Alpharius kılığındaki Omegon'un) emriyle, Crimson Consuls'u yok edilmek üzere hedef aldı; amaç, chapter'ın gen-tohum stoklarını ele geçirip Abaddon the Despoiler'ın Black Legion'ına teslim etmek ve 13. Kara Haçlı Sefer öncesinde bu hain lejyonun saflarını takviye etmekti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/b/b1/Ultramarines_Symbol.png/45px-Ultramarines_Symbol.png)

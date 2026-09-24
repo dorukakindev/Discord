@@ -21,6 +21,4 @@ Ağzından ya da gövdesinden baleflamer veya hades autocannon ile ateş eden, p
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714702705561620>, <#1551714793138954350>, <#1551588074331447346>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/02/Heldrake05.jpg/revision/latest?cb=20130321060127)
+-# İlişkili kayıtlar: <#1551812225570836561>, <#1551654107058540595>, <#1551809666454134928>

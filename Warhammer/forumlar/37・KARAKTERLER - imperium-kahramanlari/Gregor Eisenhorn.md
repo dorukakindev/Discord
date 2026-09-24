@@ -11,5 +11,3 @@ Gregor Eisenhorn, Ordo Xenos'a bağlı bir Inquisitor'dır ve 40K'nın en derin 
 Eisenhorn kariyerine katı bir Puritan olarak başladı; yani İmparatorluk'un kurallarına ve saflığına sıkı sıkıya bağlı, yasak araçlara asla başvurmayan bir soruşturmacı. Sayısız Kaos komplosunu, xeno tehdidini ve sapkın ayaklanmayı çözdü; zekâsı, kararlılığı ve sezgisi onu efsaneleştirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f2/EisenhornMagos.jpg)

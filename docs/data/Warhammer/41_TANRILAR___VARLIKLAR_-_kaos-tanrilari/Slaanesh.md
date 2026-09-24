@@ -21,6 +21,4 @@ Kutsal sayısı altıdır. Diyarının, tanrının sarayını çevreleyen altı 
 
 -# Kaynaklar: *Codex: Emperor's Children*; *Fulgrim — Graham McNeill*; *Realm of Chaos: Slaves to Darkness*; *Codex: Chaos Daemons*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/01/MarkofSlaaneshBig.png/revision/latest?cb=20170908234238)
-
 -# İlişkili kayıtlar: <#1551754688008032321>, <#1551814105046851615>, <#1551813750305198101>, <#1551650243865477191>, <#1551813775848509482>

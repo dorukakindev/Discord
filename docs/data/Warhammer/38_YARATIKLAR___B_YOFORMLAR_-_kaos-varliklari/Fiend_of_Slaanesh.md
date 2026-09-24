@@ -11,5 +11,3 @@ Fiend of Slaanesh, Kaos Tanrısı Slaanesh'in iblis canavarlarıdır; Warp'ta do
 Her Fiend'in ardında, sinüzoidal biçimde dalgalanan barbet bir kuyruk uzanır; bu müthiş uzuv, seramit zırhı çatlatacak güçte savrulabilir ve iğnesi, acı ve ölüm getiren güçlü bir zehirle yüklüdür. Ama asıl tehlikeleri kaba güçleri değildir; bedenlerinden doğal olmayan, uyuşturucu bir misk yayarlar; avlarını çeken ve hareketsiz kılan ağır bir koku.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/cd/FiendArt8th.jpg)

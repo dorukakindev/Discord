@@ -9,8 +9,6 @@ Kategori: Sefer · Fraksiyon: Imperium of Man (Astra Militarum, Imperial Navy) v
 ## Saint Sabbat ve Kümenin Adı
 Küme adını, Imperial inancında kutsal sayılan **Saint Sabbat**'tan alır. Anlatılara göre Hagia dünyasında doğan bu kadın, binlerce yıl önce bu dünyaları özgürleştiren bir sefere önderlik etmiş, ölümünden sonra azizlik mertebesine yükseltilmiştir. Kalıntıları Hagia'daki tapınak kentlerinde korunur ve kümenin halkları için hem inancın hem de aidiyetin odağıdır. Azizin hayatına dair ayrıntıların ne kadarının tarih, ne kadarının kült geleneği olduğu evren içinde de ayırt edilemez; arşiv bu anlatıları Ecclesiarchy'nin aktardığı gelenek olarak sunar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Departmento_Cartographicae_Chart_Sabbat_Worlds.jpg/revision/latest?cb=20111024184158)
-
 Bu miras, M41 seferine dinî bir boyut kattı. Imperial kuvvetler için savaş, yalnızca stratejik bir kümenin geri alınması değil, bir azizin kurtardığı dünyaların ikinci kez kurtarılmasıydı. Chaos'un kümedeki egemenliği ise bu dünyaları, halkların bir kısmının gönüllü, bir kısmının zorla katıldığı derin bir bozulmanın içine sürüklemişti. Sefer, kurtarılan her dünyada bu yaraların nasıl sarılacağı sorusunu da beraberinde getirdi.
 ---MSG---
 ## Slaydo, Balhaut ve Ardıllık

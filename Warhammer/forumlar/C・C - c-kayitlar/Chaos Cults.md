@@ -10,8 +10,6 @@ Kültlerin açık savaşa dönüştüğü noktada ortaya çıkan geniş ve düze
 
 Kanal sınırı açıktır. Tanrıların metafiziği <#1551812165172994160> ve tzeentch gibi kanallarda, Heretic Astartes ekosistemi <#1551812225570836561> kanalında, Mechanicus'tan kopan Chaos yanlıları <#1551650329156788287> kanalında işlenir. **Genestealer Cults**, dış görünüşteki benzerliğe karşın Chaos'la değil Tyranid'lerle bağlantılıdır ve <#1551759784821137419> kanalına aittir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5f/ApostatePriest.jpg/revision/latest?cb=20110716170459)
-
 **Perspektif notu.** Imperial belgeler bu toplulukları sapkın ve hain diye anar ve çoğu kez aralarında ayrım gözetmez. Oysa kaynaklar, kültlere katılanların önemli bir kısmının açlık, zulüm, dışlanmışlık ya da çaresizlik içinde başka bir kurtuluş göremeyen insanlar olduğunu da açıkça gösterir. Ansiklopedi, Imperial hükmü kendi nesnel dili olarak benimsemez.
 
 ## Kökenler, Devşirme ve Yapı

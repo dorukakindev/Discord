@@ -9,5 +9,3 @@ Farseer'ların psişik uyumlu kılıcı; kullanıcının zihin gücünü kesme g
 ## Teknik ve Kullanım
 Force silahları psyker'ın zihinsel gücünü fiziksel darbeye odaklayan kanallık silahlardır; psyker'ın iradesi arttıkça silahın gücü de artar ve yaraladığı sadece beden değil ruhtur. Nemesis serisi Grey Knights'ın psi-usta doktrininin zirvesidir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/22/EldarWitchblade.jpg)

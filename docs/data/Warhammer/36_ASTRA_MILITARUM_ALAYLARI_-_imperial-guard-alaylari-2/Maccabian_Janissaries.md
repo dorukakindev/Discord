@@ -11,5 +11,3 @@ Maccabia Yeniçerileri, İmparator-Tanrı'ya duydukları sofu imanla birleşmiş
 Bu dünya, sahip olduğu kaynaklar (ki azdır) ya da iklimi (ki serttir) yüzünden değil, üzerinde bolca yeşeren iman yüzünden kutsal sayılır. Büyük general Drusus, Calixis Sektörü'nü Imparatorluk için fetheden Angevin Haçlı Seferi sırasında burada düşmüş ve İmparator'un ihtişamıyla bir aziz mertebesine yükseltilmişti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d9/Maccabian_Janissaries.jpg)

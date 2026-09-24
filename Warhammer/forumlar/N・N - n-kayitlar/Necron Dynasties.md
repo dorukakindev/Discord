@@ -10,8 +10,6 @@ Her dynasty'nin kalbinde, hanedanın başkenti sayılan bir **crownworld** bulun
 
 Bu kanal hanedanların kendisini, aralarındaki farkları ve onları bir arada tutan ya da parçalayan ilişkileri ele alır. Necron uygarlığının bütünü **kayıt**, C'tan'ın doğası **kayıt**, Old Ones'a karşı savaş ise **kayıt** kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/AnkhoftheTriarch9thEdition.jpg/revision/latest/scale-to-width-down/650?cb=20200925173557)
-
 ## Kökenler: Triarch, Silent King ve Wars of Secession
 Necrontyr imparatorluğu en parlak çağında bile tek bir irade değildi. En tepede, kaynaklarda Silent King'in başında durduğu üç kişilik yüce kurul olarak anlatılan **Triarch** yer alıyordu. Triarch'ın otoritesi, imparatorluğun genişleyen sınırlarında giderek zayıfladı; merkezden uzak dynasties'ler kısa ömürlerinin kısıtlı kaynaklarını, uzak bir tahtın hırsına harcamak istemedi. Böylece imparatorluğu içten kemiren **Wars of Secession** başladı.
 

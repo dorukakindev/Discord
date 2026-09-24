@@ -11,5 +11,3 @@ House Devine (Devine Hanedanı), Imperial Knight hanelerinin trajik ve karanlık
 Molech, İmparator için özel ve gizli bir öneme sahip bir gezegendi; yüzeyinin altında, İmparator'un bir zamanlar gücünü artırmak için kullandığı gizli bir Warp kapısı (warp gate) saklıydı. House Devine, bu gezegenin yöneticisiydi. Ama hanenin soyluluğunun altında karanlık bir sır vardı; özellikle hanenin önde gelen figürleri, gizlice Kaos Tanrısı Slaanesh ile bir pakt kurmuş, güç ve zevk karşılığında ruhlarını satmaya başlamıştı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a0/HouseDevine.jpg)

@@ -13,8 +13,6 @@ Kaynaklar Lucius'u Great Crusade'in son yıllarında, Fulgrim'in yeniden inşa e
 
 Kişiliğini belirleyen olaylardan biri, Heresy romanlarında anlatılan ve Sons of Horus'tan **Garviel Loken**'la yaptığı bir talim düellosudur. Loken'e yenilmek Lucius'un gururunda kapanmayan bir yara açtı. Zamanla kendi yüzünü ve bedenini bilerek yaralamaya, acıyı başarının ve üstünlüğün bir işaretine dönüştürmeye başladığı anlatılır. Yüzündeki kesikler, Slaanesh'e giden yolun ilk basamakları olarak okunur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Lucius_Skitarii_Icon.png/revision/latest?cb=20150420195123)
-
 ## Laer, Isstvan III ve İhanet
 Legion'ın düşüşünün başladığı **Laer** seferi, Lucius için de bir eşiktir. Laeran tapınaklarının duyuları kışkırtan estetiği ve orada yayılmaya başlayan aşırılık kültürü, onun zaten bilenmiş kibrini yeni bir yöne çevirdi. Lucius'la anılan **Laer Blade** (Blade of the Laer) de bu seferle bağlantılıdır; kılıcın hikâyesi aşağıda ayrıca ele alınır.
 

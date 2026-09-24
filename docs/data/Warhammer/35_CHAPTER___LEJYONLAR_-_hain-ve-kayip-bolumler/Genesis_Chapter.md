@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Genesis_Chapter_Livery.jpg/revision/latest?cb=20170625063721
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Genesis_Chapter_Livery.jpg/revision/latest?cb=20170625063721)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Genesis Chapter — Genesis Chapter'ı (İlk Oğul)
