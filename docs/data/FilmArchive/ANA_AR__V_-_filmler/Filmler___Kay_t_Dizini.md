@@ -65,9 +65,8 @@
 • **Love on the Ground (1984)**
 • **Man Facing Southeast (1986)**
 • **Manor House (2020)**
-• **Max and the
 
-Junkmen (1971)**
+• **Max and the Junkmen (1971)**
 • **Mournful Unconcern (1987)**
 • **My Mother's Smile (2002)**
 • **Next of Kin (1989)**
@@ -131,9 +130,8 @@ Junkmen (1971)**
 • **The Innocent (1976)**
 • **The Invitation (1973)**
 • **The Kerosene Salesman's Wife (1989)**
-• **The L-Shaped Roo
 
-m (1962)**
+• **The L-Shaped Room (1962)**
 • **The Leather Boys (1964)**
 • **The Little Theatre of Jean Renoir (1970)**
 • **The Lonely Passion of Judith Hearne (1987)**

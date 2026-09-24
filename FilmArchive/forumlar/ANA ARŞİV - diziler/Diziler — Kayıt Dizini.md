@@ -48,9 +48,8 @@
 • **Connections (1978)**
 • **Hofmann's Potion (2002)**
 • **How We Got to Now (2014–)**
-• **
 
-Human Instinct (2002)**
+• **Human Instinct (2002)**
 • **In Search of the Trojan War (1985)**
 • **Insomniac with Dave Attell (2001–2004)**
 • **Lost Worlds, Vanished Lives (1989)**

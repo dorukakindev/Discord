@@ -196,6 +196,22 @@ def chunks(text, limit=1900):
     return out
 
 
+def line_chunks(text, limit=1950):
+    """Satır listesi içeriklerini (dizinler) satır sınırlarından böler;
+    maddelerin ortasına denk gelen kesimler `**` artığı bırakır."""
+    out, cur = [], ""
+    for ln in text.split("\n"):
+        cand = ln if not cur else cur + "\n" + ln
+        if len(cand) > limit:
+            out.append(cur)
+            cur = ln
+        else:
+            cur = cand
+    if cur:
+        out.append(cur)
+    return out
+
+
 def film_messages(f, forum_label):
     """Bir film kaydının Discord mesajları (starter + devamlar)."""
     msgs = []
@@ -253,11 +269,10 @@ def film_messages(f, forum_label):
 
 def index_messages(forum_label, entries):
     """Forum başındaki sabit dizin kaydının mesajları."""
-    lines = [f"-# {SERVER} · {forum_label} · Dizin", f"# {forum_label} — Kayıt Dizini",
-             f"{len(entries)} kayıt — alfabetik:", ""]
-    for e in entries:
-        lines.append(f"• **{e}**")
-    return chunks("\n".join(lines), 1950)
+    head = "\n".join([f"-# {SERVER} · {forum_label} · Dizin", f"# {forum_label} — Kayıt Dizini",
+                       f"{len(entries)} kayıt — alfabetik:"])
+    body = "\n".join(f"• **{e}**" for e in entries)
+    return [head] + line_chunks(body)
 
 
 # ---------------------------------------------------------------- yapı
@@ -412,16 +427,18 @@ def az_text(main, kesifler):
     for f in kesifler:
         rows.append((title_of(f), "Keşif"))
     rows.sort(key=lambda x: norm(x[0]))
-    out = [f"-# {SERVER} · A–Z İndeks", "# A–Z İndeks",
-           f"{len(rows)} kayıt — Arşiv + Keşifler, alfabetik:", ""]
+    head = "\n".join([f"-# {SERVER} · A–Z İndeks", "# A–Z İndeks",
+                        f"{len(rows)} kayıt — Arşiv + Keşifler, alfabetik:"])
+    body = []
     cur = ""
     for title, tag in rows:
         ch = title[0].upper()
         if ch != cur:
             cur = ch
-            out.append(f"\n## {cur}")
-        out.append(f"• **{title}** · {tag}")
-    return chunks("\n".join(out), 1950)
+            body.append("")
+            body.append(f"## {cur}")
+        body.append(f"• **{title}** · {tag}")
+    return [head] + line_chunks("\n".join(body))
 
 
 # ---------------------------------------------------------------- post
