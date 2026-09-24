@@ -2,31 +2,20 @@ https://static.wikia.nocookie.net/whitewolf/images/d/d0/Mage_the_Ascension_Guide
 
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
-# Paradox — Paradoks, Gerçekliğin İntikamı
+# Paradox — Paradox, Gerçekliğin Vulgar Büyüye Tepkisi
 
-Bir büyücü, Sleeper'ların gerçeklik anlayışıyla açıklanamayan Vulgar (apaçık) büyü yaptığında biriken, gerçekliğin tepkisi. Backlash, lanet, Quiet ya da Paradoks ruhları olarak patlayabilir; mutabakata meydan okumanın bedelidir.
+Gerçekliğin, mutabık gerçekliği apaçık ihlal eden vulgar büyüye verdiği tepki; büyücüyü tuhaf etkiler, fiziksel zarar, lanetler ya da daha beter sonuçlarla cezalandıran, kâinatın kendini düzeltme kuvveti.
 
-- **Tür:** Gerçeklik İlkesi
+- **Kategori:** Büyü
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Paradoks (Paradox), Mage evreninde gerçekliğin, kendisine açıkça meydan okuyan büyücüye verdiği tepkidir; mutabakatın dışına çıkmanın kaçınılmaz bedelidir. Bir büyücü, Sleeper'ların gerçeklik anlayışıyla bağdaşan, makul görünebilecek bir büyü yaptığında (Coincidental büyü) gerçeklik buna boyun eğer. Ama büyücü apaçık imkânsız bir şey yaptığında, yani Vulgar büyü gerçekleştirdiğinde; havada uçtuğunda, bir bakışla ateş yarattığında, ölüyü dirilttiğinde, mutabakatın dokusunda bir gerilim birikir. Bu gerilim Paradoks'tur; gerçekliğin, ihlal edilmeye verdiği sessiz ama amansız yanıtı.
+Paradox, Mage: The Ascension evreninde gerçekliğin, kendi kabul edilmiş kurallarını apaçık ihlal eden büyüye verdiği tepkidir; mutabık gerçekliğin esnetildiğinde geri tepmesini, kâinatın kendini düzeltmeye çalışmasını ifade eder. Mage'in dünyasında gerçeklik, milyarlarca Sleeper'ın neyin mümkün olduğuna dair paylaştığı inançla, yani Consensus ile ayakta tutulur. Bir büyücü gerçekliği inceden ya da gizlice bükdüğünde bu mutabakat zorlanmaz; ama büyü açıkça, yani vulgar bir biçimde, mümkün olanın sınırlarını gözle görülür şekilde aştığında, gerçekliğin dokusu bu ihlale karşı direnir. İşte bu direncin adı Paradox'tur.
 
-Paradoks'un en tehlikeli olduğu durum, ortada Sleeper tanıklarının bulunmasıdır. Uyuyan kitlelerin gerçeklik üzerindeki ağırlığı öyle büyüktür ki, onların gözleri önünde yapılan imkânsız bir büyü çok daha şiddetli bir Paradoks biriktirir. Sleeper'lar imkânsızı gördüklerinde, ortak inançları adeta bir bağışıklık tepkisi gibi büyücüye yüklenir; gerçeklik, kendi yasalarını çiğneyen kişiyi hizaya getirmeye çalışır. Bu yüzden deneyimli büyücüler büyülerini olabildiğince 'tesadüfi' kılmaya, yaptıklarını mutabakatın kabul edebileceği bir kılığa sokmaya özen gösterir.
+Paradox, özellikle Sleeper'ların tanıklığında güçlenir. Bir büyücü gerçekliği apaçık büktüğünde ve bunu uyumayan zihinler gördüğünde, onların mutabık gerçekliğe olan derin inancı bu ihlale karşı bir baskı oluşturur; ve bu baskı, büyücünün üzerine Paradox olarak çöker. Vulgar büyü tek başına bile risklidir; ama tanıkların önünde yapıldığında bu risk katlanır. Bu yüzden büyücüler, büyülerini çoğu zaman gerçekliğin kabul edebileceği bir kılıfa sokmaya, ya da Sleeper'ların gözünden uzak tutmaya çalışır; çünkü her cüretkâr ihlal, onları cezalandırabilecek bir tepkiyi davet eder.
 
-![gorsel](https://static.wikia.nocookie.net/whitewolf/images/d/d0/Mage_the_Ascension_Guide_to_Paradox/revision/latest?cb=20220102163730)
-
-Birikmiş Paradoks birçok biçimde patlayabilir, ve hiçbiri hoş değildir. En basitinde bir Backlash olarak, büyünün büyücüye geri tepmesi şeklinde boşalır; büyücü yaralanır, gücü sekteye uğrar. Daha ağır biçimlerde kalıcı bir lanet, garip bir doğaüstü deformasyon ya da Quiet adı verilen büyülü bir delilik hâli olarak ortaya çıkar; Quiet'te büyücünün çarpık iç dünyası gerçeklikle karışır, ve o artık neyin gerçek neyin sanrı olduğunu ayırt edemez. En korkutucu biçiminde ise Paradoks, Paradoks ruhlarını (Paradox spirits) çağırır; gerçekliğin düzenini yeniden sağlamak için gelen, büyücüyü doğrudan avlayan ya da cezalandıran soyut, amansız varlıklar.
-
-Paradoks, Mage'de büyünün bedelini ve gerçekliğin direncini temsil eder. O, hiçbir büyücünün kitlelerin ortak inancına cezasız meydan okuyamayacağını gösterir; gerçeklik bükülebilir, ama her büküş bir gerilim biriktirir ve o gerilim er ya da geç geri tepe. Paradoks, büyücüyü dikkatli, kurnaz ve alçakgönüllü olmaya zorlar; çünkü bu evrende mutlak güç yoktur, sadece mutabakatla sürekli pazarlık vardır. Paradoks, o pazarlığın bozulduğu anda ödenmesi gereken faturadır.
-
-## Ayırt Edici Özellikler
-
-- Vulgar (apaçık imkânsız) büyünün gerçeklikte yarattığı gerilimdir
-- Sleeper tanıkları varken çok daha şiddetli birikir
-- Backlash, lanet ya da geçici sakatlanma olarak patlayabilir
-- Quiet adı verilen büyülü bir delilik halini tetikleyebilir
-- Paradoks ruhlarını çağırarak büyücüyü doğrudan cezalandırabilir
+Paradox'un sonuçları çeşitli ve çoğu zaman tehlikelidir. Hafif biçimleri tuhaf, talihsiz ya da utandırıcı etkiler doğurabilirken, ağır biçimleri büyücüye fiziksel zarar verebilir, üzerine kalıcı lanetler ya da bozulmalar bırakabilir, hatta onu gerçeklikten kopuk garip âlemlere sürükleyebilir. Paradox, böylece büyücünün gücüne içkin bir denge mekanizması gibi işler; gerçekliği ne kadar pervasızca büktüğünde, o kadar büyük bir bedelle yüzleşme ihtimalini taşır. Paradox, Mage evreninde gücün kendi bedelini temsil eder; gerçekliğin esnetilebilir ama cezasız bükülemez olduğunu, kâinatın kendi kurallarına apaçık meydan okuyanı geri ittiğini, ve her cüretkâr mucizenin, ardında onu dengeleyecek bir tehlike taşıdığını gösterir.
 
 -# Kaynaklar: Mage: The Ascension (White Wolf)
+-# Çapraz: Gerçekliğin vulgar büyüye verdiği tepkidir · Sleeper'ların tanıklığında daha güçlü tetiklenir · Büyücüyü zararlı ve tuhaf sonuçlarla cezalandırır

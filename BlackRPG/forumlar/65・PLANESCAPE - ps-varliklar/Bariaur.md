@@ -1,31 +1,29 @@
 https://static.wikia.nocookie.net/dungeonsdragons/images/f/f6/Bariaur.webp/revision/latest?cb=20250716181711
 
--# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
+-# THE BLACK RPG ARCHİVE · PLANESCAPE · Kayıt
 
-# Bariaur — Koc-Insanlar, Ysgard'in Gocebe Savascilari
+# Bariaur — Koç-İnsanlar, Ysgard'in Göçebe Savaşçıları
 
-Belden yukarisi insan, asagisi koc bedenli, Ysgard'in yuzen ada-diyarinda gocebe surulerde yasayan, seref ve eglence pesindeki neseli savascilar.
+Belden yukarısı insan, aşağısı koç bedenli, Ysgard'in yüzen ada-diyarında göçebe sürülerde yaşayan, şeref ve eğlence peşindeki neşeli savaşçılar.
 
 - **Tür:** Planar Irk
-- **Köken:** Ysgard (Gladsheim); Ust Diyarlar
+- **Köken:** Ysgard (Gladsheim); Üst Diyarlar
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Bariaur, Planescape evreninin en nesli ve en ozgur ruhlu planar irkidir; belden yukarisi guclu bir insan govdesi, asagisi ise dort toynakli bir koc bedeni olan, kentaurlari andiran ama at yerine koc bedeni tasiyan gururlu gocebelerdir. Anavatanlari, Ysgard'dir (Gladsheim olarak da bilinir); kahramanca mucadelenin, gorkemin ve ilhamin diyari. Ysgard, acik gokyuzunde suzulen devasa kaya adalardan (earthberg) olusur; bazilari bir kita kadar buyuktur ve alt yuzeyleri surekli buyulu bir atesle yanar. Bu, ayni zamanda Iskandinav tanrilarinin (Odin, Thor, Freya) ve takipcilerinin yurdudur; bariaurlar bu gorkemli diyari onlarla paylasir.
+Bariaur, Planescape evreninin en neşeli ve en özgür ruhlu planar ırkıdır; belden yukarısı güçlü bir insan gövdesi, aşağısı ise dört toynaklı bir koç bedeni olan, kentaurları andıran ama at yerine koç bedeni taşıyan gururlu göçebelerdir. Anavatanları, Ysgard'dır (Gladsheim olarak da bilinir); kahramanca mücadelenin, görkemin ve ilhamin diyarı. Ysgard, açık gökyüzünde süzülen devasa kaya adalardan (earthberg) oluşur; bazıları bir kıta kadar büyüktür ve alt yüzeyleri sürekli büyülü bir ateşle yanar. Bu, aynı zamanda İskandinav tanrılarının (Odin, Thor, Freya) ve takipçilerinin yurdudur; bariaurlar bu görkemli diyarı onlarla paylaşır.
 
-Erkek bariaurlarin alninda iki yana kivrilan gorkemli koc boynuzlari yukselir; bu, irkin en belirgin ozelligidir ve asla silahsizlandirilamaz bir silahtir. Disilerde boynuz yoktur. Surulerle yasarlar: 5-20 erkek, 10-30 disi ve yavrular, en guclu ya da en karizmatik erkegin onderliginde bir araya gelir. Onderlik mutlaktir ama meydan okumalar resmidir, ritueldir; asla pervasiz degildir ve yenilgi bir utanc getirmez. Kaotik dogalari ice degil disa donuktur; ofkelerini sure arkadaslarina degil, dusmanlarina, ozellikle de Ysgard'in yurdunu tehdit eden devlere yoneltirler.
+Erkek bariaurların alnında iki yana kıvrılan görkemli koç boynuzları yükselir; bu, ırkın en belirgin özelliğidir ve asla silahsızlandırılamaz bir silahdır. Dişilerde boynuz yoktur. Sürülerle yaşarlar: 5-20 erkek, 10-30 dişi ve yavrular, en güçlü ya da en karizmatik erkeğin önderliğinde bir araya gelir. Önderlik mutlaktır ama meydan okumalar resmidir, ritüeldir; asla pervasız değildir ve yenilgi bir utanç getirmez. Kaotik doğaları içe değil dışa dönüktür; öfkelerini sürü arkadaşlarına değil, düşmanlarına, özellikle de Ysgard'in yurdunu tehdit eden devlere yöneltirler.
 
-![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/f/f6/Bariaur.webp/revision/latest?cb=20250716181711)
-
-Bariaurlari taniman gucu, guclu bir gezginlik tutkusudur; suruler durmadan yol alir, kalici sehirler kurmaz. Kulturlerini iki yuce iyilik tanimlar: guclu bir seref duygusunu yuceltmek ve guzel vakit gecirmek. Sarki yarismalari, hikaye anlatimlari, boynuz carpisan turnuvalar ve polo benzeri oyunlarla doludur senlikleri. Otobur olduklarindan orman meyveleri, findik ve yapraklarla beslenirler. Kaotik iyi dogalariyla aasimarlar, elfler, gnomelar ve halflinglerle iyi gecinir; tieflinglere kuskuyla bakar; cogu devi nefretle anar. Sigil'de Annali Webspinner gibi unlu bariaurlar Society of Sensation'in saflarinda yer alir. Bariaur, Planescape'te Ust Diyarlar'in ozgur, neseli ve onurlu ruhunu temsil eder: dusmanina karsi acimasiz, ama dostuna karsi sadik; surekli yolda olan, ama her adimda yasami kutlayan kahramanlardir.
+Bariaurları tanıman gücü, güçlü bir gezginlik tutkusudur; sürüler durmadan yol alır, kalıcı şehirler kurmaz. Kültürlerini iki yüce iyilik tanımlar: güçlü bir şeref duygusunu yüceltmek ve güzel vakit geçirmek. Şarkı yarışmaları, hikaye anlatımları, boynuz çarpışan turnuvalar ve polo benzeri oyunlarla doludur şenlikleri. Otobur olduklarından orman meyveleri, fındık ve yapraklarla beslenirler. Kaotik iyi doğalarıyla aasimarlar, elfler, gnomelar ve halflinglerle iyi geçinir; tieflinglere kuşkuyla bakar; çoğu devi nefretle anar. Sigil'de Annali Webspinner gibi ünlü bariaurlar Society of Sensation'in saflarında yer alır. Bariaur, Planescape'te Üst Diyarlar'ın özgür, neşeli ve onurlu ruhunu temsil eder: düşmanına karşı acımasız, ama dostuna karşı sadık; sürekli yolda olan, ama her adımda yaşamı kutlayan kahramanlardır.
 
 ## Ayırt Edici Özellikler
 
-- Belden yukarisi insan govdesi, asagisi dort toynakli koc bedeni
-- Erkeklerde kivrik koc boynuzlari; disilerde boynuz yoktur
-- Ysgard'in yuzen earthberg'lerinde gocebe surulerde yasar
-- Yasamin iki yuce iyiligi: seref ve eglence; devleri ezeli dusman bilir
-- Kaotik iyi; aasimar, elf ve gnomelarla iyi gecinir
+- Belden yukarısı insan gövdesi, aşağısı dört toynaklı koç bedeni
+- Erkeklerde kıvrık koç boynuzları; dişilerde boynuz yoktur
+- Ysgard'in yüzen earthberg'lerinde göçebe sürülerde yaşar
+- Yaşamın iki yüce iyiliği: şeref ve eğlence; devleri ezeli düşman bilir
+- Kaotik iyi; aasimar, elf ve gnomelarla iyi geçinir
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

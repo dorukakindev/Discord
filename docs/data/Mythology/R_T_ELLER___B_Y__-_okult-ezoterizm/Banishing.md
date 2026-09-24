@@ -1,0 +1,6 @@
+-# CODEX MYTHICA · Okült & Ezoterizm · Kayıt
+# Banishing
+> **Gelenek:** Genel okültizm/büyü gelenekleri · **Amaç:** Kötü enerjiyi veya varlıkları ortadan kaldırmak, uzaklaştırmak · **Tür:** kavram
+*Bir ritüel veya büyü ile kötü enerjiyi veya varlıkları ortadan kaldırmak için kullanılan teknik*
+
+Banishing, bir ritüel veya büyü ile kötü enerjiyi veya varlıkları ortadan kaldırmak için kullanılan tekniktir. Kaynaklarda bu terim özellikle vampirlerin uzaklaştırılması bağlamında detaylandırılmıştır. Vampirleri uzaklaştırma (Banishing Vampires) yöntemleri arasında: balık ağlarını korunmak istenen girişlerin üzerine sermek (vampirin ağdaki tüm delikleri veya düğümleri saymaya zorlanacağı ve içeri giremeyeceği varsayımıyla); haşhaş, darı veya diğer küçük tohumları saçmak (vampirin bu tohumları saymaya veya toplamaya zorlanacağı) yer almaktadır. Ayrıca Mısır geleneğinde Meskhenet'in doğum yapan kadınlara şekil değiştirerek göründüğü ve Khnum'un yanında dans ederek büyüler söyleyip kötülüğü kovduğu (banishing evil) belirtilmektedir. İrlanda efsanelerinde Aziz Patrick'in yılanları kovmasının yanı sıra inatçı Pagan kadınları denizkızlarına dönüştürdüğü de aktarılmaktadır.

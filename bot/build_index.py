@@ -46,7 +46,7 @@ def scan(gid):
                                   'l': f'https://discord.com/channels/{gid}/{t["id"]}'}
             if len(ts) < 100:
                 break
-            before = ts[-1]['thread_metadata']['archive_timestamp']
+            before = requests.utils.quote(ts[-1]['thread_metadata']['archive_timestamp'], safe='')
             time.sleep(.25)
     act = req('GET', f'/guilds/{gid}/threads/active')
     if act and act.status_code == 200:

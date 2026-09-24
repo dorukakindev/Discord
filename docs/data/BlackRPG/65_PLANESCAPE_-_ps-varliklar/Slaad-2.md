@@ -2,30 +2,30 @@ https://static.wikia.nocookie.net/forgottenrealms/images/9/94/Slaad5e.jpg/revisi
 
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
-# Slaad — Limbo'nun Kurbaga Lordlari, Entropi'nin Cocuklari
+# Slaad — Limbo'nun Kaos Kurbağaları
 
-Limbo'nun saf kaosundan dogan, dev kurbagalari andiran, kafataslarinda denetim tasi tasiyan, entropi yayan ve parazitce ureyen kaotik varliklar.
+Mutlak kaosun (Chaotic Neutral) cisimleşmiş hâli; iri, kurbağa benzeri canavarlar. Sürekli değişen Limbo düzleminde yaşayan, üreme taşına (Spawning Stone) bağlanmış, modronların düzenli karşıtı olan yıkıcı ve öngörülemez varlıklardır.
 
-- **Tür:** Planar Irk
-- **Köken:** Limbo; Spawning Stone'dan dogdu
+- **Tür:** Kaos-Varlığı
+- **Düzlem:** Limbo (Sınırsız Kaos Dehlizleri)
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Slaad, Planescape evreninin saf kaos timsalleridir; Limbo'nun ever-changing corbasindan dogan, dev kurbagalari andiran, akildisi ve yikici varliklardir. Kokenlerinde buyuk bir ironi yatar: Modronlarin hukumdari Primus, Limbo'ya dusen dayatmak icin saf Dusen'den bir tas (Spawning Stone) firlatti; ama Limbo'nun kaotik enerjisi bu tasla kaynasti ve bir bagisiklik tepkisi gibi ilk slaadlari uretti. O gunden beri her slaad, kafatasinda bu Spawning Stone'dan bir denetim tasi tasir; bu tasi guclu buyuyle cikaran biri, slaadi denetimi altina alabilir. Slaadlar, dusenin tam karsiti olan kaosu somutlastirir; diyarlar boyunca amacsizca entropi yayarlar.
+Slaadi (tekili Slaad), Planescape'in sınırsız kaos düzlemi Limbo'da yaşayan, mutlak kaosun cisimleşmiş varlıklarıdır. Modronlar düzenin örnek ırkıysa, slaadi de tam karşı kutbun, kaotik-tarafsızlığın (Chaotic Neutral) örnek ırkıdır. İri, dik duran kurbağaları andırırlar; ama bu kurbağamsı biçim onların gerçek doğası değil, onlara dışarıdan dayatılmış bir kalıptır. Deri renkleri güçlerini ve türlerini belirtir: kırmızı ve mavi slaadi en yaygınlarıyken, yeşil ve gri slaadi büyücü-savaşçılardır, ölüm slaad'ı (death slaad) ise türün en karanlık ve en güçlü, çoğu zaman kaotik-kötü olan üyesidir.
 
-Slaadlar bir renk hiyerarsisi icinde dizilir, ama bu hiyerarsi guce dayalidir, dogustan degil. Kizil slaadlar en zayif ve en kalabalik olanidir; sekiz fit boyunda, uzun kollu, pencelidirler. Mavi slaadlar daha iri ve hantaldir; bileklerindeki kemik kancalariyla dort kez saldirir. Yesil slaadlar en zekileri ve guclu buyuculeridir; yalnizca buyulu silahla yaralanir. Gri slaadlar insan kiligina girebilen, keskinlik kiliclari tasiyan cellatlardir. Olum slaadlari en kucuk ama en guclulerdir; slaad ordularinin komutanlaridir ve her an yalnizca dort tanesinin var oldugu soylenir.
+Slaadi'nin doğasındaki en büyük ironi, kaosun çocukları olmalarına rağmen bir düzen nesnesine bağlanmış olmalarıdır. Limbo'da, Üreme Taşı (Spawning Stone) adı verilen devasa, geometrik bir yapı yüzer; rivayete göre bu taş, modronların efendisi Primus tarafından kaosu dizginlemek için yaratılmış, sonra kaos lordu Ygorl tarafından ele geçirilmiştir. Bu taşın yasa gücü, slaadi'yi asıl saf-kaotik biçimlerinden koparıp onlara kurbağamsı bedenlerini dayatır. Her mevsim, slaadi bu taşın çevresinde toplanıp çoğalır; ürerken kurbanlarına yumurta ya da tohum enjekte ederler, ve bu kurban içeriden yenilerek yeni bir slaad'a dönüşür; bu da onları yalnızca canavar değil, korkunç bir bulaşıcı tehdit yapar.
 
-![gorsel](https://static.wikia.nocookie.net/forgottenrealms/images/9/94/Slaad5e.jpg/revision/latest/scale-to-width-down/900?cb=20240216111943)
+Limbo'nun kendisi, slaadi'yi anlamanın anahtarıdır. Bu düzlem, kararlı bir biçime sahip değildir; ateş, su, toprak ve hava sürekli birbirine dönüşen, akan ve kaynayan bir kaos çorbasıdır. Yalnızca güçlü bir irade, bu kaosu geçici olarak şekillendirip içinde ayakta kalabilir; slaadi, doğuştan bu yeteneğe sahiptir. Onlar Limbo'da kendilerini evlerinde hissederler; çünkü öngörülemezlik, ani şiddet ve düzensizlik onların doğasıdır. Bir slaad'ın ne yapacağı asla tahmin edilemez; bu, onları savaşta hem korkunç hem de stratejik olarak anlaşılmaz kılar.
 
-Slaadlari gercekten korkunc kilan, parazitce ureme dongusudur. Bir kizil slaad, penceleriyle bir kurbanin teni altina yumurta-tanesi eker; bu tane bir kurtcuğa donusup konagi iceriden tuketir ve bir mavi slaad olarak ortaya cikar (konak bir buyucuyse yesil slaad). Bir mavi slaad ise bilek kancalariyla Kaos Vebasi (Slaad Fever) bulastirir; bu olumcul hastalikla olen kurban, bir kizil slaad olarak yeniden dogar. Boylece kizil ve mavi slaadlar, birbirlerinden tiksinmelerine ragmen ureme baginda kilitlidir. Limbo'da, kaosa zihinleriyle direnen githzerailerle ayni diyari paylasirlar ama asla muttefik degildirler. Slaadlara, Entropi'nin Lordu Ygorl (yanik bir iskelet slaad, Limbo'nun fiili hukumdari) ve Deliligin Lordu Ssendam (icinde bir insan beyni yuzen altin bir amip) gibi guclu lordlar hukmeder. Slaad, Planescape'te saf kaosun, yani amacsiz, yikici ve durdurulamaz entropinin yasayan timsalidir; dusenin her yapisini coken bir kaynama.
+Slaad, Planescape'te kaosun yıkıcı ama yaratıcı yüzünü temsil eder. Onlar kötü olmak zorunda değildir, ama güvenilir de değildir; bir an müttefik, bir sonraki an tehdit olabilirler. Modronların kusursuz düzenine karşı slaadi, evrenin asla tümüyle ehlileştirilemeyeceğini, her zaman ölçülemeyen, sayılamayan ve dizginlenemeyen bir kaos kalacağını hatırlatır. Limbo'nun derinliklerinde bu kurbağa-canavarlar, düzenin her zaferinin geçici, kaosun ise sonsuz olduğunun canlı kanıtıdır.
 
 ## Ayırt Edici Özellikler
 
-- Limbo'nun kaosunun, Primus'un Dusen tasina verdigi yanit olarak dogdu
-- Kafatasinda Spawning Stone'dan bir denetim tasi tasir
-- Renk hiyerarsisi: kizil, mavi, yesil, gri, olum slaadi
-- Parazitce urer: kizil tirnaklari yumurta eker, mavi Kaos Vebasi bulastirir
-- Lordlari: Entropi'nin efendisi Ygorl, Deliligin lordu Ssendam
+- Mutlak kaotik-tarafsızlığın (Chaotic Neutral) cisimleşmiş hâlidir
+- İri, dik duran kurbağaları andırır; renkleri güçlerini belirtir (kırmızı, mavi, yeşil, gri, ölüm)
+- Modronların tam karşıtıdır; düzene içgüdüsel bir nefret duyar
+- Üreme Taşı (Spawning Stone) çevresinde toplanıp ürer; kurbananlarına yumurta enjekte eder
+- Limbo'nun biçimsiz kaosunu irade gücüyle geçici olarak şekillendirebilir
 
 -# Kaynaklar: Planescape Campaign Setting (TSR)

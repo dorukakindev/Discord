@@ -2,31 +2,20 @@ https://static.wikia.nocookie.net/dungeonsdragons/images/a/a7/Forbidden_Lore.jpg
 
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
-# Blood Mist — Kan Sisi, Üç Yüzyıl Süren Lanet
+# Blood Mist — Kan Sisi, Üç Yüzyıl Her Geceyi Ölümcül Kılan Doğaüstü Sis
 
-Ravenland'ın büyük bölümünü her gece kaplayan doğaüstü sis; yaklaşık üç yüz yıl önce Kızılağaç Savaşları'nın sonunda bilinmeyen bir nedenle aniden başladı. İçinde yaşayan yırtıcı yaratıklar, karanlık çöktükten sonra dışarı çıkan herkesi katletti. Bu lanet, bölgeyi örgütlemeye ya da yönetmeye yönelik her girişimi üç yüzyıl boyunca yok etti.
+Üç yüzyıl boyunca Ravenland'in her gecesini ölümcül kılan doğaüstü sis; Kızılağaç Savaşları'nın sonunda ortaya çıkıp diyarı dış dünyadan koparan ve sonradan esrarengiz biçimde dağılarak toprakları keşfe açan lanet.
 
-- **Dönem:** 300 yıllık lanet, Alder Wars sonu
+- **Kategori:** Çekirdek Kavram
 - **Kaynak Sınıfı:** A — birincil kural kitabı / resmî külliyat
 
 ## Kayıt
 
-Kan Sisi, Ravenland'ın üzerine çöken en büyük lanettir; üç yüzyıl boyunca bütün bölgeyi bir mezarlığa çeviren doğaüstü ve demonic bir fenomen. Yaklaşık üç yüz yıl önce, Kızılağaç Savaşları'nın sonunda, bilinmeyen bir nedenle aniden belirdi ve kısa sürede Ravenland'ın büyük bölümünü kapladı. Her gün güneş battıktan sonra bu kızıl sis topraktan yükselir, vadileri, ormanları ve yıkık şehirleri sarar; ve onunla birlikte gelen şey ölümden başka bir şey değildir. Sis bir hava olayı değil, canlı bir tehdittir; karanlığın kendisi gibi sinsi, açgözlü ve amansız.
+Blood Mist (Kan Sisi), Forbidden Lands evreninin tarihini ve atmosferini biçimlendiren doğaüstü bir lanettir; üç yüzyıl boyunca Ravenland'in her gecesini ölümcül kılan, diyarı dış dünyadan koparan ve onu tecride mahkûm eden esrarengiz bir sistir. Bu sis sıradan bir hava olayı değildir; o, gece çöktüğünde ortaya çıkan ve dışarıda yakalanan herkesi öldüren doğaüstü bir tehlikedir. Kan Sisi'nin gelişiyle birlikte Ravenland'de hayat tümüyle değişti; insanlar geceleri dışarı çıkamaz oldu, uzun yolculuklar imkânsızlaştı ve diyar yavaş yavaş birbirinden kopuk, izole adacıklara bölündü. Sis, üç yüzyıl boyunca toprakların üzerine asılı kalan görünmez bir hapishane gibiydi.
 
-Kan Sisi'ni gerçek bir kâbusa çeviren, içinde yaşayan yırtıcı yaratıklardır. Karanlık çöktükten sonra dışarı çıkmaya cüret eden her canlı, sisin içinde gizlenen bu varlıklar tarafından paralanır. Bu yüzden üç yüzyıl boyunca Ravenland'ın halkları geceyi dört duvar arasında, kapıları sürgülenmiş ve nefeslerini tutarak geçirdi. Gece, bir dinlenme zamanı değil, hayatta kalma sınavıydı; ve sabahın ilk ışığı, her seferinde yeniden başlayan bir mucize gibiydi. Sis, insanı evine, köyüne ve korkusuna hapsetti.
+Kan Sisi'ni bu kadar yıkıcı kılan, getirdiği uzun tecrittir; çünkü sis yalnızca bireyleri değil, bütün bir uygarlığı çökertti. Geceleri seyahat edilemediği için ticaret durdu, kasabalar birbirinden koptu, krallıklar parçalandı ve geniş bölgeler terk edildi. Üç yüzyıl boyunca Ravenland, dış dünyadan kopuk biçimde kendi karanlığında yaşadı; bilgi kayboldu, yollar unutuldu ve diyar yavaş yavaş bir harabeye dönüştü. Bu uzun tecrit, oyunun başlangıç durumunu açıklayan temel olaydır; çünkü maceraperestlerin keşfettiği terk edilmiş kaleler ve unutulmuş sırlar, hep bu sisin getirdiği yüzyıllık kopukluğun mirasıdır.
 
-![gorsel](https://static.wikia.nocookie.net/dungeonsdragons/images/a/a7/Forbidden_Lore.jpg/revision/latest/scale-to-width-down/661?cb=20230720170237)
-
-Kan Sisi'nin en yıkıcı etkisi, doğrudan öldürdüklerinin ötesindeydi. Geceleri seyahat etmeyi, ticareti, haberleşmeyi ve birlik kurmayı imkânsız kılarak, bölgeyi örgütlemeye ya da yönetmeye yönelik her girişimi kökünden baltaladı. Krallıklar kurulamadı, ordular toplanamadı, yollar açık tutulamadı; çünkü hiçbir güç, her gece insanlarını yutan bir lanete karşı ayakta kalamazdı. Sis, Ravenland'ı parçalanmış, izole ve korku içinde bir topraklar yığınına çevirdi.
-
-Kan Sisi, Forbidden Lands'in karanlık kalbidir; gücün, uygarlığın ve umudun nasıl bir lanetle boğulabileceğini temsil eder. Sonunda, başladığı gibi esrarengiz biçimde dağıldı ve geri çekildi; ve ancak o zaman maceraperestler bu unutulmuş toprağı yeniden keşfetmeye cesaret edebildi. Ama sisin üç yüzyıllık gölgesi her yıkıntıya, her terk edilmiş köye ve her hayatta kalanın belleğine sinmiştir; geçmiş gitmiş olsa da, bıraktığı korku hâlâ Ravenland'ın havasında asılı durur.
-
-## Ayırt Edici Özellikler
-
-- Ravenland'ın çoğunu her gece kaplayan doğaüstü, demonic bir sistir
-- Alder Wars'ın sonunda yaklaşık 300 yıl önce aniden ve sebepsiz başladı
-- İçinde yaşayan yırtıcı yaratıklar geceleyin dışarı çıkan herkesi katleder
-- Bölgeyi örgütlemeye ya da yönetmeye yönelik her girişimi yok etti
-- Üç yüzyıl sonra esrarengiz biçimde dağıldı ve toprağı keşfe açtı
+Kan Sisi'nin oyundaki rolü, hem geçmişi açıklamak hem de bugünkü maceraya kapı aralamaktır; çünkü sisin kökeni kadar dağılması da bir gizemdir. Bu lanet, Kızılağaç Savaşları'nın sonunda ortaya çıktı; ve uzun yıllar boyunca diyarı kuşattıktan sonra, esrarengiz bir biçimde dağıldı. Sisin neden geldiği ve neden çekildiği, evrenin çözülmeyi bekleyen büyük sorularındandır. Onun dağılmasıyla birlikte Ravenland yeniden erişilebilir hâle geldi, ve maceraperestler için keşfin kapısı açıldı. Blood Mist, Forbidden Lands evreninde bir diyarı yüzyıllarca dünyadan koparan doğaüstü lanetin ağırlığını temsil eder; bir sisin sıradan bir hava değil, bütün bir uygarlığı tecride sürükleyen bir güç olabileceğini, ve onun gelişinin de gidişinin de hâlâ çözülmemiş bir gizem olduğunu gösterir.
 
 -# Kaynaklar: Forbidden Lands core box (Free League)
+-# Çapraz: Her geceyi ölümcül kılan doğaüstü bir sistir · Kızılağaç Savaşları'nın sonunda ortaya çıktı · Esrarengiz biçimde dağılarak diyarı keşfe açtı
