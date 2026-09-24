@@ -9,7 +9,9 @@ MÖRK BORG · KULT · Underground · Dark Sun · Blades in the Dark · Call of C
 ## Yapı
 
 - `forumlar/` — sistem başına koleksiyon forumları (`<sistem>-<konu>` önekli; yeni sistemlerde 6 standart forum: bilgi · varlıklar · karakterler · yerler · güç-ve-eşya · organizasyon)
-- `metin-kanallari/` — sistem başına giriş kanalları + dizin + editoryal
+- `metin-kanallari/` — sistem başına giriş kanalları + dizin + editoryal + `{forum}-arsiv` kanalları (Discord'un 1000 aktif-thread sınırını aşan kayıtların kalıcı metin kopyası; sunucuda aynı kategoride yer alır)
+- `💬・SOHBET` kategorisi — `genel-sohbet` (yazılabilir) + `giris-cikis` (sistem kanalı)
+- Metin kanalı dosyalarında mesajlar `---` ile ayrılır; forum kayıtları tek dosyada birleşiktir
 
 ## Kayıt formatı
 
