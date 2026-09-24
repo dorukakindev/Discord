@@ -1,0 +1,21 @@
+https://upload.wikimedia.org/wikipedia/commons/7/77/Samuel_Liddell_MacGregor_Mathers_in_Egyptian_getup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+-# CODEX MYTHICA · Tanrılar & Kahramanlar · Kayıt
+# Samuel Liddell MacGregor Mathers
+> **Gelenek:** Hermetizm, Kabala, Golden Dawn · **Doğum:** 1854 · **Ölüm:** 1918 · **Nationality:** İngiliz · **Teachings:** Hermetik Kabbala, ritüel büyü, ezoterik masonluk, Abramelin büyüsü sistemi, İsis büyüsü ve Osiriş büyüsü ile ilgili öğretiler · **Tür:** kisi · **Mitoloji:** Okültistler
+*İngiliz okültist, Büyücü ve Hermetik Kabalist; Hermetic Order of the Golden Dawn'ın kurucularından ve önde gelen figürlerinden biri.*
+
+![gorsel](https://upload.wikimedia.org/wikipedia/commons/7/77/Samuel_Liddell_MacGregor_Mathers_in_Egyptian_getup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+Samuel Liddell MacGregor Mathers (1854-1918), İngiliz okült dünyasının en etkili figürlerinden biri olarak kabul edilir. Golden Dawn tarikatının kurucuları arasında yer almış ve tarikatın başlıca ritüellerini ve öğretilerini şekillendirmiştir. Mathers, özellikle Kabalistik çalışmalarıyla tanınır; 1887'de Knorr von Rosenroth'un Kabbala Denudata'sından üç Sohar özeti (Sifra de-Zniuta, Idra Rabba ve Idra Zuta) çevirerek The Kabbalah Unveiled (Kabbala Açığa Çıkarıldı) adlı eseri yayınlamıştır. Bu çeviri, ezoterik masonluk çevrelerinde büyük etki yapmıştır. Mathers ayrıca 1898'de Abraham the Jew'un oğlu Lamech'e 1458 yılında teslim ettiği iddia edilen Abramelin the Mage'nin Kutsal Büyüsü Kitabı'nı (The Book of the Sacred Magic of Abramelin the Mage) çevirmiş ve yayınlamıştır. Bu çeviri, modern okültizmde Abramelin büyüsü operasyonunun temelini oluşturmuştur. Mathers'in Paris'e taşınması ve orada tarikatın merkezini kurması, Golden Dawn'ın tarihinde önemli bir dönüm noktası olmuştur. Ancak 'Horos olayı' olarak bilinen talihsiz bir dolandırıcılık vakasına karışmış; Frank ve Editha Jackson (Mr. ve Mrs. Horos olarak taklit eden bir çift) tarafından kandırılarak tarikatın bazı belgelerini vermiş, bu belgeler daha sonra kötüye kullanılmıştır. Mathers'in yazdığı veya çevirdiği diğer eserler arasında çeşitli Hermetik yazılar ve ritüeller bulunmaktadır. R.A. Gilbert tarafından The Sorcerer and His Apprentice: Unknown Hermetic Writings of S.L. MacGregor Mathers and J.W. Brodie-Innes (1983) adı altında derlenmemiş Hermetik yazıları yayınlanmıştır. Francis King tarafından Ritual Magic of the Golden Dawn: Works by S.L. MacGregor Mathers and Others (1997) ve Darcy Küntz tarafından The Golden Dawn Legacy of MacGregor Mathers (1998) gibi eserlerde Mathers'in mirası incelenmiştir. Mathers, William Wynn Westcott (1848-1925) ile birlikte çalışmış ve Golden Dawn'ın ezoterik öğretilerinin geli
+
+ştirilmesinde önemli rol oynamıştır. Ithell Colquhoun'un The Sword of Wisdom: MacGregor Mathers and the Golden Dawn (1975) ve R.A. Gilbert'in The Golden Dawn Scrapbook: The Rise and Fall of a Magical Order (1997) gibi biyografik çalışmalar Mathers'in hayatı ve etkisi üzerine önemli kaynaklardır. Ellic Howe'un The Magicians of the Golden Dawn: A Documentary History of a Magical Order 1887-1923 (1985) adlı eseri ise tarikatın tarihsel belgelerini içermektedir.
+
+### Başlıca Eserler
+The Kabbalah Unveiled (1887), The Book of the Sacred Magic of Abramelin the Mage (1898), The Sorcerer and His Apprentice: Unknown Hermetic Writings of S.L. MacGregor Mathers and J.W. Brodie-Innes (derleyen R.A. Gilbert, 1983), Ritual Magic of the Golden Dawn: Works by S.L. MacGregor Mathers and Others (derleyen Francis King, 1997), The Golden Dawn Legacy of MacGregor Mathers (derleyen Darcy Küntz, 1998)
+
+### Etki
+Modern Batı okültizminin ve özellikle Golden Dawn geleneğinin şekillenmesinde temel rol oynamış; Kabalistik çalışmaları ve çevirileri ezoterik masonluk üzerinde derin etki bırakmış; Abramelin büyüsü operasyonunun modern okültizme kazandırılmasında öncü olmuştur
+
+### İlişkili Şahsiyetler
+William Wynn Westcott (1848-1925), J.W. Brodie-Innes, Frank ve Editha Jackson (Horos olarak bilinen dolandırıcılar), Annie Besant (1847-1933), H.P. Blavatsky, Giuliano Kremmerz (Ciro Formisano), Giustiniano Lebano, Leone Caetani
