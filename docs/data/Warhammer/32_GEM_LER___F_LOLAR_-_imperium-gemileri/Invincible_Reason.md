@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/df/Pre-Heresy_DA_Icon.jpg/revision/latest?cb=20160913230423
-
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Invincible Reason
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Long_War_II.png/revision/latest?cb=20160520052615
+
 -# THE IMPERIAL ARCHIVE
 # The Long War
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/98/Sevatar_novella_art.jpg/revision/latest?cb=20160104063131
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Thramas Crusade
 

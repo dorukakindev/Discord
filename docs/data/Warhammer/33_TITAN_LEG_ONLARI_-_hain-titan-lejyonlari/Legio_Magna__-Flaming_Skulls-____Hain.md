@@ -1,21 +1,18 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Legio_Magna_Icon_Fancy.png/revision/latest?cb=20210510110102
+-# THE IMPERIAL ARCHIVE · Hain Titan Lejyonlari · Kayıt
+# Legio Magna
 
--# THE IMPERIAL ARCHIVE · Hain Titan Lejyonları · Kayıt
-# Legio Magna ("Flaming Skulls") — Hain
+-# *Alevli Kafataslari*
 
-Estaban VII'den gelen, Schism of Mars'ta sadık tasfiyesini başlatan ilk ateşi açan ve sonradan deliliğe ve yamyamlığa saplanan hain lejyon.
-
-- **Kategori:** Titan Legion (Legio) — <#1551629138693980331>
-- **Fraksiyon:** Dark Mechanicum — Traitor Titan Legio'ları
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Ultima Segmentum'daki Estaban VII Forge World'ü
+Estaban VII'den gelen, Mars Bolunmesi'nde Sadik tasfiyesini baslatan ilk ates ve sonradan delirip yamyamlasan Hain kanadi olan lejyon.
 
 ## Tarihçe
-Legio Magna, "Flaming Skulls" (Alevli Kafatasları) olarak bilinen, Imperator'a ettiği yeminleri reddedip Horus Heresy sırasında Ruinous Powers'ın (Yıkıcı Güçler) hizmetine giren bir Dark Mechanicum hain Titan lejyonudur. Anavatanı Ultima Segmentum'daki Estaban VII Forge World'üdür ve Imperium Çağı'ndan önce, Çekişmeler Çağı'nda kurulduğu sanılır.
+Legio Magna, "Flaming Skulls" (Alevli Kafataslari) olarak bilinen, Imparator'a ettigi yeminleri reddedip Horus Sapkinligi sirasinda Yikici Gucler'in hizmetine giren bir Dark Mechanicum Hain Titan lejyonudur. Anavatani Ultima Segmentum'daki Estaban VII Forge World'udur ve Imparatorluk Cagi'ndan once, Cekismeler Cagi'nda kuruldugu sanilir.
 
-Büyük Haçlı Seferi boyunca küçük bir lejyon olan Flaming Skulls, hem XVI. Lejyon Sons of Horus hem de XVII. Lejyon Word Bearers ile yan yana sefere çıkmasıyla anılır; bu yakınlık, lejyonun Heresy'deki yönelimini de belirledi. Schism of Mars sırasında Mars'ta konuşlu kısmı, sadık tasfiyesinde ilk ateşi açan taraf oldu.
+Buyuk Hacli Seferi boyunca kucuk bir lejyon olan Alevli Kafataslari, hem XVI.
 
-Legio Magna Titan'ları savaşı fiilen başlatan ilk silahlardı ve sadık Marslıları avlarken kasap ve canavar ünü kazandılar; sonraki çağlarda lejyonun tamamen deliliğe ve yamyamlığa saplandığı aktarılır.
+Lejyon Sons of Horus hem de XVII. Lejyon Word Bearers ile yan yana sefere cikmasiyla anilir; bu yakinlik, lejyonun Sapkinlik'taki yonelimini de belirledi. Mars Bolunmesi sirasinda Mars'ta konuslu kismi, Sadik tasfiyesinde ilk ates acan taraf oldu.
+
+Legio Magna Titanlari savasi fiilen baslatan ilk silahlardi ve Sadik Marslilari avlarken kasap ve canavar unu kazandilar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

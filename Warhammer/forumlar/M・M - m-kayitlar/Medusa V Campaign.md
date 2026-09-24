@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/eb/MedusaV_planet.jpg/revision/latest?cb=20100712083048
+
 -# THE IMPERIAL ARCHIVE
 # Medusa V Campaign
 

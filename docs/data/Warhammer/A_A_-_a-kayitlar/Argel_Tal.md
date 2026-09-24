@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/51/Argeltal.jpg/revision/latest?cb=20120124061115
+
 -# THE IMPERIAL ARCHIVE
 # Argel Tal
 

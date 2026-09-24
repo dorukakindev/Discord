@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/df/Captain_Garviel_Loken_Portrait.jpg/revision/latest?cb=20151110021549
+
 -# THE IMPERIAL ARCHIVE
 # Garviel Loken
 

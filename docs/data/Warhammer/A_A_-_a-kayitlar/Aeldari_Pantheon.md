@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ea/Bloody-Handed_God.jpg/revision/latest?cb=20110927145831
+
 -# THE IMPERIAL ARCHIVE
 # Aeldari Pantheon
 

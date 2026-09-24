@@ -8,6 +8,8 @@ Hive Fleet Leviathan'ın Blood Angels'ın anavatanı Baal'ı kuşatması; chapte
 
 Baal'ın Yıkımı (Devastation of Baal), 40K'nın güncel (8. edisyon) anlatısının en önemli ve en duygusal olaylarından biridir; en güzel ve en soylu Space Marine chapter'ı Blood Angels'ın, tüm türünü yutmaya gelen Tyranid sürüsüne karşı verdiği umutsuz, varoluşsal son savunmadır. Chapter neredeyse tümüyle yok olmanın eşiğine geldi.
 
-## Cryptus ve Baal
-M41 sonunda Hive Fleet Leviathan, Blood Angels'ın ana sistemi Baal'a yöneldi. Cryptus Sistemi'nin düşüşüyle başlayan istila, Baal'ın üç dünyasını birden kırbaçladı; Commander Dante, Baal üzerindeki son savunmayı yönetti. Devastation of Baal'da milyonlarca Tyranid öldü ama dalga bitmiyordu; Blood Angels neredeyse yok olmanın eşiğindeydi. Son anda iki kurtuluş geldi: Büyük Yarık'ın açılması Leviathan'ı yuttu ve Indomitus Haçlı Seferi'nin öncüleri (Roboute Guilliman dahil) Baal'a ulaştı. Dante hayatta kaldı ve Primaris takviyeleriyle lejyon yeniden kuruldu — ama Baal sonsuza dek yaralıdır.
+Baal'ın Yıkımı (Devastation of Baal), Leviathan Hive Fleet'in Blood Angels'ın ana dünyasına yaptığı tarihi saldırıdır — Chapter'ın neredeyse yok oluşunun hikâyesi. Hive Mind'ın devasa filosu, Baal'ın üç uydusunu da istila etti ve Blood Angels ile tüm oğul bölümleri, son savunma savaşında birleşti.
+
+Savaşın doruğunda Dante komutasındaki savunucular yenilmek üzereydi — Ka'Bandha'nın daemon müdahalesi ve Büyük Yarık'ın açılmasıyla Warp'ın kaosu Hive Fleet'i yuttu ve Baal kurtarıldı. Ancak zafer bedelsiz değildi: Sanguinius'un oğullarının çoğu öldü ve Baal, 'son savaşta yaşayan' ama manevi olarak yaralı bir Chapter'ın evidir. Baal'ın Yıkımı, İmparatorluk'un 'bir dünyanın kaybı' ile 'bir halkın yok oluşu' arasındaki çizgiyi gösteren en keskin örnektir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

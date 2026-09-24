@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/53/Techmarine_Harkus.jpg/revision/latest?cb=20140304071953
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Techmarines
 

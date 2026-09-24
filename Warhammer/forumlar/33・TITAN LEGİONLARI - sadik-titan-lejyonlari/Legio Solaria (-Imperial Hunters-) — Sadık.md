@@ -1,23 +1,17 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/07/Imperial_Hunters_Iconography.png/revision/latest?cb=20200224043720
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Solaria
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Solaria ("Imperial Hunters") — Sadık
+-# *Imparatorluk Avcilari*
 
-Soğuk hesap yerine hız, cüret ve av içgüdüsünü öne çıkaran; gururlu ve duygularını saklamayan kültürüyle Mechanicum'un tipik Legio'larından ayrılan bir kurumdur. Adını hak ettiren şey, hafif ve hızlı Titan'larla yürüttüğü vur-kaç savaşıdır.
-
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Horus Heresy'den M41'e
-- **Köken:** Kurucusu Mohana Mankata'ya dayanan, Princeps'leri yalnızca kadınlardan oluşan bir gelenekle kurulmuş Legio. Forge World bilgisi bu kayıtta ayrıca doğrulanmamıştır.
-- **Teknik / Biyolojik Özellikler:** Reaver ve Warhound ağırlıklı Titan grupları; kuşatıcı ve avcı taktikler.
-- **Bilinen Kullanıcılar / Operatörler:** Mohana soyundan gelen Princeps'ler; *Titandeath*'te Esha Ani Mohana.
-- **Önemli Olaylar:** Beta-Garmon ("Titandeath"); Siege of Terra.
-- **Kanon Notu:** Legio'nun M41 dönemindeki kayıpları ve yurdunun akıbeti kaynaklarda ayrıntılı biçimde işlenmez.
+Tigrus'tan gelen, Procon Vi soylusu Mohana Mankata VI tarafindan kurulan ve cogunlukla kadin personelle anilan Sadik lejyon.
 
 ## Tarihçe
+Legio Solaria, "Imperial Hunters" (Imparatorluk Avcilari) olarak bilinen, Tigrus Forge World'une dayanan Sadik bir Titan lejyonudur. Personeli ezici cogunlukla kadindir; bu, lejyonun kurulusunda yerlesen bir gelenektir. Legio Solaria, Buyuk Hacli Seferi'nin baslarinda, anavatani Procon Vi'de bir Sovalye zirhi kullanma hakki reddedilen Sovalye Dunyasi soylusu Mohana Mankata VI tarafindan kuruldu; becerileri Mechanicum'u etkileyince kendini surgune yollayip onlarin yardimiyla yeni bir Titan lejyonu kurdu.
 
-Heresy'de sadık kalan Solaria, Beta-Garmon'da hain Legio Vulpa'yla kişisel bir kan davasına dönüşen çetin bir savaş verdi; Guy Haley'nin *Titandeath* romanı bu çatışmayı Solaria'nın gözünden anlatır. Legio ardından Siege of Terra'da da savaştı. Sonraki binyıllarda da hizmetini sürdürdüğü aktarılır.
+Lejyon, hizli oncu harekatlari ve yikici mizrakbasi taarruzlariyla un salmistir.
 
--# Kaynaklar: *Titandeath — Guy Haley*; *The Titandeath*; *Adeptus Titanicus: Loyalist Legios*
+Legio Solaria, "Imperial Hunters" (İmparatorluk Avcıları) unvanıyla bilinen ve Tigres dünyasından gelen sıra dışı bir lejyondu: princeps kadrosunun tamamına yakını, Tigres'in avcı-soylu ailelerinin kadınlarından oluşuyordu. Ana dünyanın avcı geleneği, titan komutasında da kendini gösterdi — Solaria'nın av partileri, düşman titanlarını sürüp pusuya düşürme sanatında ustaydı.
 
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551814951365115956>, <#1551809039342501970>, <#1551753449878724689>
+Sapkınlık sırasında Solaria sadık kaldı ve İmparatorluk saflarında ağır savaşlar verdi; lejyonun avcı doktrini, kaos lejyonlarının büyük makinelerine karşı küçük ve hızlı titanların nasıl kullanılacağının okulunu yazdı. M41'de Solaria hâlâ aktiftir ve Adeptus Titanicus'un en saygın lejyonları arasındadır.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

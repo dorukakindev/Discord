@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest?cb=20170903200334
+
 -# THE IMPERIAL ARCHIVE
 # Great Rift — Cicatrix Maledictum
 

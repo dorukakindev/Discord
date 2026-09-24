@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest?cb=20090224193610
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Üçüncü Armageddon Savaşı
 *The Third War for Armageddon*

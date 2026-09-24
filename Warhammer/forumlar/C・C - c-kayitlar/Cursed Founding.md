@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/64/Cursedfounding3.jpg/revision/latest?cb=20120712053126
+
 -# THE IMPERIAL ARCHIVE
 # Cursed Founding
 

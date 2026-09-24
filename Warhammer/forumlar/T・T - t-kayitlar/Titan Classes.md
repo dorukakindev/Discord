@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Various_Titan_Heads.jpg/revision/latest?cb=20150322165212
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Titan Classes
 

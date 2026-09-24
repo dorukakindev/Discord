@@ -8,4 +8,8 @@ Fulgrim'in Laeran tapınağında bulduğu, bir Slaanesh Büyük İblisini barın
 
 Blade of the Laer (Laer'ın Kılıcı), Horus Heresy'nin en lanetli silahlarından biridir; Emperor's Children primarch'ı Fulgrim'in düşüşünün doğrudan nedeni olan bir Slaanesh daemon silahıdır. Görünüşte zarif bir gümüş kılıç, gerçekte bir felaketin kabıydı.
 
+Blade of the Laer, Fulgrim'in Slaanesh'e düşüşünün fiziksel nesnesidir — Laer xenos gezegeninin tapınağından alınan bu gümüş kılıç, içinde bir Keeper of Secrets iblisi barındırıyordu ve Fulgrim'in 'mükemmellik' arayışını yozlaştıran nesne oldu. Kılıç, Fulgrim'in kulağına 'aşırılığın güzelliği' fısıldadı ve primarch'ın son direnç noktasını kırdı.
+
+Blade'in gücü, hem fiziksel hem ruhsaldir: her yarası 'zevk ve acının' karışımını bırakır ve taşıyıcısını Slaanesh'in etkisine açar. Fulgrim'in ihanetinin sembolü olan kılıç, 'Silmarillion' olarak da bilinen İmparatorluk kayıtlarındaki en tehlikeli emanettir — bir nesnenin, bir primarch'ı nasıl düşürdüğünün kanıtıdır; Blade of the Laer, 'güzellik maskeli yozlaşma'nın en bilinen aracıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

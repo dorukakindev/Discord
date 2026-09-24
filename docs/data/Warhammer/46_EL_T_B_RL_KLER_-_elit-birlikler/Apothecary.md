@@ -8,4 +8,8 @@ Bir Space Marine bölüğüne eşlik eden uzman savaş hekimi; yaralı kardeşle
 
 Apothecary (Savaş Cerrahı), bir Space Marine Chapter'ının hayatta kalması için belki de en hayatî uzman roldür; hem bir savaş hekimi hem de Chapter'ın geleceğinin koruyucusudur. Her bölüğe (company) bir Apothecary eşlik eder ve savaşın en kanlı anlarında, yaralı kardeşlerinin yanında belirir. Görevi iki katmanlıdır: yaşayanları iyileştirmek ve ölenlerden çok daha değerli bir şeyi kurtarmak. Bu yüzden o, savaş alanında hem bir umut hem de bir son ayin gibidir.
 
+Apothecary, Space Marine Chapter'ının 'cerrah ve genetik bekçisi'dir — savaşta yaralıları iyileştirmenin ötesinde, asıl görevi 'gene-seed'i korumaktır: bir kardeşin Progenoid organları (Chapter'ın geleceği), ölümden önce çıkarılır ve Chapter'ın devamlılığını garanti eder. Bir Apothecary, Chapter'ın 'gelecek sigortası'dır.
+
+Apothecary'nin savaş rolü kritiktir: Narthecium eldivenleri ve 'Reductor' aletiyle hem cerrah hem 'son dokunuş' verir — kurtarılamayan kardeşlere 'İmparator'un Huzuru'nu (ölümü) vermek de onun görevidir. Chapter kayıtlarında Apothecary, 'hem en şefkatli hem en gerekli' figürdür — bir Chapter'ın savaş gücünün ötesinde, onun 'var olabilme' güvencesidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

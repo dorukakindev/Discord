@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a0/DA_Chaplain_capelan.jpg/revision/latest?cb=20120524213305
+
 -# THE IMPERIAL ARCHIVE
 # Chaplains
 

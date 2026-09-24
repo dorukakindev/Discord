@@ -1,23 +1,17 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/74/Ignatum-Logo.jpg/revision/latest?cb=20200208082228
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Ignatum
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Ignatum ("Fire Wasps") — Sadık
+-# *Ates Yabanarilari*
 
-Kızıl, sarı ve siyah renkleriyle tanınan, Mars'ın en kadim savaş kurumlarından biridir. Heresy'de Mars ikiye bölündüğünde Emperor'a bağlı kalmış, bu sadakati ona Terra'nın savunmasında merkezî bir yer kazandırmıştır.
-
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Great Crusade'den M41'e
-- **Köken:** Mars. Resmî anlatıda Legio Mortis ve Legio Tempestus ile birlikte Mars'ın ilk üç Titan Legio'sundan biri sayılır.
-- **Teknik / Biyolojik Özellikler:** Imperator sınıfı *Magnificum Incendius*, Legio'nun adıyla özdeşleşmiş tanrı-makinedir.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Ignatum'un Princeps'leri; *Magnificum Incendius*.
-- **Önemli Olaylar:** Webway War; Siege of Terra'da Imperial Palace savunması.
-- **Kanon Notu:** Legio'nun M41 dönemi görevleri çeşitli kaynaklarda dağınık biçimde anılır; bu kayıt yalnızca Heresy dönemine ait doğrulanmış çekirdeği aktarır.
+Mars'in uc ozgun lejyonundan biri olan, Kelbor-Hal'in boyundurugundan kurtulup Imparator icin savasan Sadik lejyon.
 
 ## Tarihçe
+Legio Ignatum, "Fire Wasps" (Ates Yabanarilari) olarak bilinen Sadik bir Titan lejyonudur. Yuvasi, Cult Mechanicus'un merkezi ve hukum suren fabricator-general'in tahtinin bulundugu Segmentum Solar'daki Mars'tir. Bu onurlu lejyon, Mars'in uc ozgun Titan lejyonu olan Triad Ferrum Morgulus'un bir uyesidir; Imparatorluk Cagi'ndan once, Cekismeler Cagi'nda kuruldugu kabul edilir.
 
-Mars'ın ilk Legio'ları başlangıçta dostane bir rekabet içindeyken Fabricator General'in Horus'un safına geçmesiyle yolları ayrıldı. Ignatum sadık kaldı. Emperor'ın Webway'de yürüttüğü gizli savaşa katılan Legio, ardından Imperial Palace'ın savunmasında eski rakibi Legio Mortis'le yeniden karşılaştı.
+Horus Sapkinligi sirasinda Legio Ignatum, hain Fabricator-General Kelbor-Hal'in boyundurugundan kurtularak Imparator'in safini secti.
 
--# Kaynaklar: *The Master of Mankind — Aaron Dembski-Bowden*; *Mortis — John French*; *Adeptus Titanicus: Loyalist Legios*
+Legio Ignatum, "Fire Wasps" (Ateş Eşekarıları) lakabıyla bilinen ve Terra'nın kadim savunucularından biri olan lejyondu. Ana üssü Mars'ın yaşlı dövme bölgeleriydi ama onur yeri Terra'ydı: Horus Sapkınlığı sırasında İmparatorluk Sarayı'nın nihai savunma hattında görev yapan az sayıdaki lejyondan biriydi.
 
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551816635839549491>, <#1551809039342501970>, <#1551809699312181339>, <#1551814951365115956>
+Terra Kuşatması'nda Ignatum'un Warhound ve Reaver titanları, Saray surlarının üzerinde ve Eternity Kapısı önünde savaştı; hain lejyonların Imperator sınıfı makineleriyle çarpışırken ağır kayıplar verdiler ama hattı tuttular. Bugün lejyon, Terra'nın manevi muhafızı sayılır ve unvanını Saray'ın gölgelerinde hâlâ taşır.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

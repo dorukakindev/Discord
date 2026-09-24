@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/65/Szarekh2.jpg/revision/latest?cb=20250131185606
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Silent King Szarekh
 

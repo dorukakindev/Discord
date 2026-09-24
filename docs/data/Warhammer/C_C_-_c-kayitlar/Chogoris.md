@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Chogoris.jpg/revision/latest?cb=20190414001604
+
 -# THE IMPERIAL ARCHIVE
 # Chogoris
 

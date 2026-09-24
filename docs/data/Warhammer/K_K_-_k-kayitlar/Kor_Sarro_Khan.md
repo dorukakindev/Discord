@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/db/1000px-WS_Korsarro_Khan.png/revision/latest?cb=20130917034327
+
 -# THE IMPERIAL ARCHIVE
 # Kor Sarro Khan
 

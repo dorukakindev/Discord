@@ -10,6 +10,8 @@ Plaguebearer'lar, Kaos Tanrısı Nurgle'ın temel iblisleri ve "bahçıvanlarıd
 
 En tuhaf özellikleri, takıntılı bir muhasebecilik dürtüsüdür; sürekli, durmadan Nurgle'ın salgınlarını ve "armağanlarını" sayarlar (the Tally), her şeyi düzene sokmaya çalışırlar. Bu, onlara komik ama aynı zamanda ürpertici bir titizlik verir. Plaguesword'leriyle açtıkları en küçük yara bile ölümcül bir hastalık aşılar.
 
-## Nurgle'ın Sayıcıları
-Plaguebearer'lar, Nurgle'ın en yaygın küçük iblisleridir — çürüyen, tek boynuzlu, gözleri sönmüş, ur ve irinle kaplı varlıklar. Her biri bir zamanlar Nurgle'ın Rot'u (çürüme vebası) tarafından öldürülmüş bir ölümlüdür; son anlarında Nurgle onları "kabul" eder ve yeniden doğarlar. İğrenç ama garip biçimde neşelidirler: savaşta bile şarkı söyler, sayı sayarlar — kaç ölü, kaç veba, kaç ur. Tallyman denen özel Plaguebearer'lar, büyük vebaların canlı defteridir. Etleri basit silahları iter; bıçakları (Plaguesword) tek sıyrıkta ölümcül enfeksiyon taşır.
+Plaguebearer, Nurgle'un en yaygın daemon'udur — tek gözlü, çürüyen derili, 'zehir kılıcı' taşıyan ve her yarasından irin sızan bir veba yaratığı. Plaguebearer'ların sayısı efsanevidir: Nurgle'un 'gülümseyen veba ordusu' olarak bilinir ve her savaşta sayıca üstün ama tek tek zayıf bir dalga oluşturur.
+
+Bir Plaguebearer'ın tehlikesi fiziksel değil biyolojiktir: taşıdığı 'Nurgle's Rot' — galaksinin en korkulan hastalığı — hem bedeni hem ruhu çürütür ve kurbanı, ölümünden sonra yeni bir Plaguebearer'a dönüştürür. İmparatorluk için bu, savaşmanın ötesinde bir kâbustur: bir Plaguebearer istilası, gezegenin 'yaşayan' nüfusunu da 'veba ordusu' hâline getirir. Great Unclean Ones'ların saflarının çoğu bu varlıklardan oluşur.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

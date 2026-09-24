@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Tau_Empire_Symbol.png/revision/latest/scale-to-width-down/900?cb=20240522165435
+
 -# THE IMPERIAL ARCHIVE
 # Puretide
 

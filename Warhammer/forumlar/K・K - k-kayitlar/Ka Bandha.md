@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1b/Ka%27Bandha.jpg/revision/latest?cb=20120117202650
+
 -# THE IMPERIAL ARCHIVE
 # Ka Bandha
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3c/NekrosorAmmentar1.jpg/revision/latest?cb=20260107160805
+
 -# THE IMPERIAL ARCHIVE
 # Destroyer Cults
 
