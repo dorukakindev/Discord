@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/6/6b/Trench-Crusade-Shrine-Anchorite.jpg/revision/latest/scale-to-width-down/900?cb=20250428001617
+
 -# THE TRENCH ARCHIVE · 31・ZIRH & SAVAŞ MAKİNELERİ · Forum Açıklaması
 # Forum Açıklaması & Kurallar
 

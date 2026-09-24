@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/c/cd/Jabirean-Alchemist.jpg/revision/latest/scale-to-width-down/757?cb=20250428012219
+
 -# THE TRENCH ARCHIVE · 38・TEKNOLOJİ, SİMYA & METAFİZİK · Forum Açıklaması
 # Forum Açıklaması & Kurallar
 

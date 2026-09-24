@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/e/ed/Mike-franchina-demon-slayer-2b.jpg/revision/latest/scale-to-width-down/785?cb=20241212015742
+
 -# THE TRENCH ARCHIVE · 33・KARAKTERLER · Forum Açıklaması
 # Forum Açıklaması & Kurallar
 

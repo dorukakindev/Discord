@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/f/fd/Trench_Ghost_Trooper.jpg/revision/latest/scale-to-width-down/696?cb=20250428014242
+
 -# THE TRENCH ARCHIVE · 35・DÜNYA & CEPHELER · Forum Açıklaması
 # Forum Açıklaması & Kurallar
 

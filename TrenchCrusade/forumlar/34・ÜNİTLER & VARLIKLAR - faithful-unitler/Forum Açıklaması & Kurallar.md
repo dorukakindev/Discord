@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/5/5a/Heretic_Legion_Logo.png/revision/latest/scale-to-width-down/900?cb=20260915053107
+
 -# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Forum Açıklaması
 # Forum Açıklaması & Kurallar
 

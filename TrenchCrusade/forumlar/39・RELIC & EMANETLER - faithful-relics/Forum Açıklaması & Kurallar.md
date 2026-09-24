@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade-english/images/c/c2/Mike-franchina-hermit-sniper.jpg/revision/latest/scale-to-width-down/501?cb=20250428003710
+
 -# THE TRENCH ARCHIVE · 39・RELIC & EMANETLER · Forum Açıklaması
 # Forum Açıklaması & Kurallar
 
