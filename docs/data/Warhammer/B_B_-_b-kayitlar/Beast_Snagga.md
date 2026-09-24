@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/4/47/SnaggaArt.jpg
+
 -# THE IMPERIAL ARCHIVE
 # Beast Snagga
 

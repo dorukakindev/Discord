@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/a/a5/RippersArt.jpg
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Ripper Swarm
 

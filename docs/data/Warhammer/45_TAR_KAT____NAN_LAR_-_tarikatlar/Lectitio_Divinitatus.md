@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a8/AquilaBlack.jpg/revision/latest?cb=20190630130844
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Lectitio Divinitatus
 *İlahi Okuma, İmparator'un Tanrılığını İlan Eden Metin*

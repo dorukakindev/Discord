@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Imperial_Eagle_by_DarkWristband_%281%29.jpg/revision/latest?cb=20120324220955
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Scouring'den War of the Beast'e (M31 sonu – M32)
 

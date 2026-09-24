@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/42/KinDifferences.jpg/revision/latest?cb=20221110204148
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Kin Klonlama Teknolojisi (cloneskein'ler)
 

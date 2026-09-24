@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Assassinorum_Icon.jpg/revision/latest?cb=20140526093223
+
 -# THE IMPERIAL ARCHIVE · V Kayıtları · Kayıt
 # Vanus Tapınağı
 

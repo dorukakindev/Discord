@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/a/a8/Boss_Snikrot.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Mork's Teeth (Boss Snikrot'un bıçakları)
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d1/High_Lords_of_Terra_Icon.jpg/revision/latest?cb=20150421185709
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # High Lords of Terra / Senatorum Imperialis
 

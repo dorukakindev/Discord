@@ -1,11 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Burna
 
--# *Yakıcı*
+Hem alev püskürtücü hem de kesme meşalesi olarak kullanılan Ork silahıdır. Alevi geniş yayıldığında siperdekileri yakar; odaklandığında metali kesecek kadar yoğunlaşır. Orkların ateşe duyduğu çocuksu hayranlık, bu silahta en yalın hâlini bulur.
 
-Burna Boyz'un hem alev makinesi hem kesme şalomesi olarak kullandığı çok amaçlı aleti; yakmadığı şeyi keser, kesmediği şeyi yakar. Ork mühendisliğinin nadir gerçekten işlevsel ürünlerindendir.
+- **Kategori:** Alev silahı / kesme aleti — <#1551629116715827340>
+- **Fraksiyon:** Orks
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Mekboy yapımıdır; standart bir tasarımı yoktur.
+- **Teknik / Biyolojik Özellikler:** Yakıt deposu ve püskürtme mekanizması yapana göre değişir. Kesme ve yakma işlevleri arasında geçiş yapabildiği anlatılır.
+- **Bilinen Kullanıcılar / Operatörler:** Burna Boyz, Mekboy'lar, bazı Ork araçları.
+- **Önemli Olaylar:** Kaynaklarda tek bir olayla özdeşleşmez.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
+## Tarihçe
 
-## Teknik ve Kullanım
-Flamer silahları basınçlı promethium karışımını ateşleyerek kalın bir alev akıntısı üretir; siperde saklananı, kalabalığı ve pusu kuranı aynı anda yakıp temizler. 'Temizlik ateşi' doktriniyle İmparatorluk'un en sevdiği yakın temizlik aracıdır.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+En çok, yangın çıkarmayı bir tutkuya dönüştürmüş Burna Boyz ile özdeşleşmiştir. Mekboy'lar da burna'yı hem silah hem de iş aleti olarak kullanır; savaş sırasında araç tamiri ve düşman zırhını kesmek için elverişlidir.
+
+-# Kaynaklar: *Codex: Orks — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>

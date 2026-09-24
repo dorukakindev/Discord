@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/5/54/Phantine_XX_Squadron_Badge.png
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Phantine Air Corps
 

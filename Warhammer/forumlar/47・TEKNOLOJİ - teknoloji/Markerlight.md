@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/e/e7/Markerlight.jpg
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Markerlight
 

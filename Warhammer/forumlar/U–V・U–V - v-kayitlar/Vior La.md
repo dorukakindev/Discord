@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Vior%27laSeptIcon.png/revision/latest?cb=20191216210639
+
 -# THE IMPERIAL ARCHIVE · V Kayıtları
 # Vior La
 

@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/f/f2/Chronosinquisitor.jpg
+
 -# THE IMPERIAL ARCHIVE · O Kayıtları · Kayıt
 # Ordo Chronos
 

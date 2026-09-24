@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/60/Know_No_Fear_huge.jpg/revision/latest?cb=20120413142117
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Calth Baskını ve Underworld War — Ultramarines / Word Bearers
 

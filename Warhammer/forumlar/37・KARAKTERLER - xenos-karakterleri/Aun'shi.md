@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
-# Aun'shi
+# Aun'Shi
 
--# *Bıçağın Efendisi / Yaşlı Mucize*
+Aun'Shi, doğrudan savaşan nadir Ethereal'lerden biri olarak bilinir. Ethereal'lerin çoğu otoriteleri ve varlıklarıyla Fire Caste'ı yönlendirirken, Aun'Shi onur kılıcıyla ön safta durduğu bir savunmayla efsaneleşmiştir.
 
-Vior'la Sept'inden çıkan savaşçı Ethereal; Honour Blade ustalığıyla Fire Caste'i ölümden kurtaran demir iradeli lider.
+- **Kategori:** Karakter / Ethereal
+- **Fraksiyon:** T'au Empire — Ethereal Caste
+- **Dönem:** M41
+- **Köken:** Kaynaklarda ayrıntılandırılmaz.
+- **Teknik / Biyolojik Özellikler:** Ethereal'lere özgü onur kılıcıyla (honour blade) ve koruyucu alan teçhizatıyla tasvir edilir.
+- **Bilinen Kullanıcılar / Operatörler:** Fire Caste savaşçıları; Ethereal Caste.
+- **Önemli Olaylar:** Fi'rios savunması.
+- **Kanon Notu:** Aun'Shi'nin Fi'rios sonrasındaki akıbeti güncel yayınlarda ayrıntılı olarak işlenmez.
 
 ## Tarihçe
-Aun'shi, savaşçı ruhlu Vior'la Sept'inden gelen, demir iradesiyle sayısız cephede Tau'nun azmini çelikleştirmiş yenilmez bir Ethereal'dir. Çoğu Ethereal'in aksine, o yalnızca ruhani bir lider değil, aynı zamanda olağanüstü bir savaşçıdır; unvanları arasında "Bıçağın Efendisi" (Master of the Blade), "Fire Caste'in Kurtarıcısı", "Fio'vash'ın Kahramanı" ve "Yaşlı Mucize" (the Aged Wonder) sayılır.
 
-Yaşamının neredeyse tamamı boyunca dövüş sanatlarının adanmış bir öğrencisi olan Aun'shi, Honour Blade ile (Ethereal'ların taşıdığı o tuhaf çift uçlu asa-silah) çok az Tau'nun erişebileceği bir ustalık düzeyine ulaşmıştır. Onun düello sanatı, Ethereal kastının savaşçı olmayan imajına bir istisnadır; o, hem ruhani otoriteyi hem de cephedeki ölümcüllüğü tek bedende birleştirir.
+Kaynaklara göre Fi'rios'ta Ork saldırısı sırasında Fire Caste komutanları düştüğünde savunmanın başına geçen Aun'Shi, onur kılıcıyla saatler boyunca savaşarak T'au kuvvetlerinin dağılmasını önlemiştir. Bu olay, onu T'au arasında Ethereal'lerin cesaretinin simgesi hâline getirmiştir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: T'au Empire*; *Codex: Tau*
+
+-# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551759766966116383>

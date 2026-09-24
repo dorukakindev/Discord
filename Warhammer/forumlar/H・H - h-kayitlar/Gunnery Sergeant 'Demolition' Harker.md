@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3d/GunnerySergeantHarker.png/revision/latest?cb=20171120020129
+
 -# THE IMPERIAL ARCHIVE · H Kayıtları · Kayıt
 # Gunnery Sergeant 'Demolition' Harker
 

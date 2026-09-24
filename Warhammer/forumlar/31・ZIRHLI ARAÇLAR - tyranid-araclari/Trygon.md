@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Tyranid Araclari · Kayıt
 # Trygon
 
--# *Trygon (Tünel Canavarı)*
+Kayayı ve toprağı pençeleriyle yararak savunma hatlarının altından geçen, düşmanın arasında aniden yüzeye çıkan bir canlıdır. Açtığı tüneller, arkasından gelen küçük organizmaların da savunmanın ötesine ulaşmasını sağlar.
 
-Yerin altından tünel kazarak düşman hattının ortasında aniden beliren dev yılan-canavar.
+- **Kategori:** Yeraltı taarruz organizması — <#1551629131161149510>
+- **Fraksiyon:** Tyranids
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Hive Fleet'lerin biyolojik üretiminden gelen, toprağın altından ilerlemeye uyarlanmış dev, yılanımsı bir organizmadır. Mawloc ile akraba bir biçim olarak anlatılır.
+- **Teknik / Biyolojik Özellikler:** Kazıcı pençeler, uzun yılanımsı gövde, kitin kabuk ve biyoelektrik enerji boşaltabilen organlar.
+- **Bilinen Kullanıcılar / Operatörler:** Hive Fleet'ler.
+- **Önemli Olaylar:** Kaynaklarda tek bir Trygon'a bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
 ## Tarihçe
-Trygon, Tyranid sürüsünün yeraltı baskın canavarıdır; dev, yılan benzeri bir biyoformdur ve en korkunç yeteneği, yerin altından hızla tünel kazabilmesidir. Bu, onu Tyranid taktiklerinin en sinsi ve en yıkıcı unsurlarından biri yapar.
 
-Trygon, düşman hattının arkasında ya da tam ortasında, hiç beklenmedik bir anda yerden fışkırarak belirir; bir savunma hattının en savunmasız noktasına (top mevzileri, komuta merkezleri, cephanelikler) ulaşabilir. Çoklu scything talon'ları (kesici pençeleri), bio-elektrik darbesi ve kıskaç kuyruğuyla, ortaya çıktığı yerde anında bir kıyım başlatır.
+Trygon'lar, statik savunmalara dayanan orduların en büyük korkularından biri olarak anlatılır: surlar, siperler ve mayın tarlaları, yerin altından gelen bir saldırı karşısında anlamsızlaşır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Tyranids — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759780211589197>, <#1551815033518948404>, <#1551814990338723904>

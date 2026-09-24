@@ -3,13 +3,21 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Snikrot.jpg/revision/
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Boss Snikrot
 
--# *Kommando Boss / Gece Avcısı*
+Snikrot, Armageddon'un balta girmemiş ormanlarında gölge gibi dolaşan Kommando'larıyla Imperial savunucular arasında korku hikâyelerine dönüşmüş bir Ork'tur. Doğrudan çatışmaya değil, pusuya, sızmaya ve dehşet yaymaya dayanan savaş tarzı, onu kaba kuvvete yaslanan Ork imgesinden ayırır.
 
-Armageddon ormanlarının hayalet katili; Red Skull Kommandoz'a önderlik eden, gerilla savaşının doğaüstü ustası Ork.
+- **Kategori:** Karakter / Kommando Boss
+- **Fraksiyon:** Orks — Kommandos (Red Skull Kommandos)
+- **Dönem:** M41
+- **Köken:** Kaynaklar onu Armageddon'un ormanlarıyla özdeşleştirir; daha önceki geçmişi ayrıntılandırılmaz.
+- **Teknik / Biyolojik Özellikler:** Mork's Teeth adlı, Mork tarafından kutsandığına inanılan iki büyük bıçakla tasvir edilir.
+- **Bilinen Kullanıcılar / Operatörler:** Red Skull Kommandos.
+- **Önemli Olaylar:** Second ve Third War for Armageddon'daki orman savaşları.
+- **Kanon Notu:** Snikrot'un Imperial askerler arasındaki efsanesi, kısmen evren içi korku anlatılarına dayanır; bu anlatıların abartı payı taşıdığı açıktır.
 
 ## Tarihçe
-Boss Snikrot (Snikrot the Stalker, Avcı Snikrot olarak da anılır), İmparatorluk Hive Dünyası Armageddon'un ekvator ormanlarında faaliyet gösteren Red Skull Kommandoz adlı Ork özel kuvvetlerine önderlik eden, vahşi ve yetenekli bir Ork Kommando'sudur. Armageddon'un ünlü Ork Avcıları (Ork Hunters), tek bir Ork'tan korkar: Snikrot.
 
-O, ormanda bir hayalet gibi süzülen bir katildir; throttlevine korularından tek bir yaprağı bile kıpırdatmadan geçebilen bir avcı olarak tanımlanır. Aslen Warboss Killzkar'ın Kommando Boss'uydu; onun kişisel suikastçısı ve cellatı olarak hizmet ediyordu. Onun mevcudiyeti, ormanın gölgelerine bir dehşet salar.
+Second War for Armageddon sırasında kabilesinden kopan Snikrot, Kommando'larını orman savaşına uyarlayarak Imperial kuvvetlere karşı uzun soluklu bir yıpratma ve psikolojik savaş yürüttü. Third War for Armageddon'da da etkin olduğu anlatılır; kaynaklara göre efsanesi, Armageddon'un Ork avcısı birliklerinin bile çekindiği bir düzeye ulaşmıştır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Orks*
+
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551643990196232303>

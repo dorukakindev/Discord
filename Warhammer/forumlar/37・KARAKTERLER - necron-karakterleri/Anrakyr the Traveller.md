@@ -3,13 +3,21 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Overlord_Anrakyr_.jpe
 -# THE IMPERIAL ARCHIVE · Necron Karakterleri · Kayıt
 # Anrakyr the Traveller
 
--# *Gezgin / Pyrrhia'nın Eski Hükümdarı*
+Anrakyr, uykudaki Tomb World'leri tek tek uyandırıp eski Necron imparatorluğunu yeniden ayağa kaldırmak için galaksiyi dolaşan bir Overlord'dur. Kaynaklar onu onurlu, kararlı ve hanedanlar arasındaki bölünmüşlüğe rağmen bütün Necron'ların ortak geleceğine inanan bir figür olarak anlatır.
 
-Mezar dünyasından mezar dünyasına dolaşıp uyuyan Necronları uyandıran göçebe Overlord; aklı tam uyanan, makinelere hükmeden kadim soylu.
+- **Kategori:** Karakter / Overlord
+- **Fraksiyon:** Necrons — Pyrrhian dynasty
+- **Dönem:** M41 – Era Indomitus
+- **Köken:** Pyrrhian dynasty
+- **Teknik / Biyolojik Özellikler:** Tachyon Arrow ile ve düşman makinelerinin denetimini zihinsel olarak ele geçirebilme yeteneğiyle tasvir edilir.
+- **Bilinen Kullanıcılar / Operatörler:** Pyrrhian dynasty ve uyandırdığı dünyaların kuvvetleri; geçici müttefik olarak Blood Angels.
+- **Önemli Olaylar:** Tomb World'lerin uyandırılması; Cryptus savaşı.
+- **Kanon Notu:** Cryptus'taki ittifak iki tarafın da çıkarına dayanan geçici bir düzenlemedir; kalıcı bir dostluk olarak sunulmaz.
 
 ## Tarihçe
-Anrakyr the Traveller (Gezgin), mezar dünyasından mezar dünyasına galaksi boyunca dolaşan, Necron davasına nerede ve nasıl yapabilirse yardım eden göçebe bir Necron Overlord'udur. Pyrrhia mezar dünyasının eski hükümdarıdır, ama tahtında oturmak yerine bir amaca adanmış sonsuz bir yolculuğu seçmiştir.
 
-Çoğu Necron'un aksine, Anrakyr Büyük Uyku'dan aklı tam yerinde ve yenilenmiş bir amaçla uyandı; bilinci, milyonlarca yıllık uykunun aşındırmasına yenik düşmedi. Birçok Necron soylusu için o, asaletin en yüksek örneğidir; halkının yararına tüm kişisel rütbe ve statü bağlarını terk etmiş bir savaşçı. Görevi, hâlâ uykuda olan kardeş hanedanları uyandırmaktır; gerekirse bunu zorla, savaşarak yapar.
+Uyanıştan sonra kendi dynasty'sinin sınırlarında kalmayıp başka hanedanların uyuyan dünyalarını arayan Anrakyr, bu yolculuğuyla unvanını kazanmıştır. Tyranid tehdidinin Baal'a yaklaştığı dönemde Cryptus sisteminde, kendi dünyasını Tyranid'lerden korumaya çalışırken Blood Angels'la zorunlu ve geçici bir çıkar birliğine girmiştir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Necrons — 10th Edition*; *Devastation of Baal — Guy Haley*
+
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551811368389181491>, <#1551809334483361823>

@@ -1,3 +1,4 @@
+-# THE IMPERIAL ARCHIVE · Araştırma Dosyası · Imperial Cult
 https://static.wikia.nocookie.net/warhammer40k/images/3/31/Adeptus_Ministorum_Icon.jpg/revision/latest?cb=20140526091152
 
 # Imperial Cult (Adeptus Ministorum / Ecclesiarchy) — Araştırılmış Bilgiler

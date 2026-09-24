@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/1/1e/Overfiend-teleportation-platform.jpg
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Tellyporta (Ork teleport teknolojisi)
 

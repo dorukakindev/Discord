@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Raider
 
--# *Raider Akın Gemisi*
+Açık güverteli, bıçak kanatlı ve son derece hızlı bir antigrav tekne olan Raider, Drukhari'nin realspace akınlarının simgesidir. Webway kapılarından fırlayıp kurbanlarının üzerine çullanır, esirlerini alıp aynı hızla kaybolur.
 
-Drukhari'nin açık, dikenli ve son derece hızlı anti-grav akın gemisi; bir Kabalite birliğini şimşek hızıyla cepheye indirir.
+- **Kategori:** Hafif antigrav akın gemisi — <#1551629126320918589>
+- **Fraksiyon:** Aeldari — Drukhari
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Commorragh'da üretilen Drukhari akın filolarının temel aracıdır; Craftworld'lerin wraithbone geleneğinden ayrı bir üretim anlayışına dayanır.
+- **Teknik / Biyolojik Özellikler:** Hafif gövde, antigrav tahrik, güverte silahı (çoğunlukla dark lance) ve rüzgârla değil enerjiyle dolan yelkenler. Koruma yerine hızı esas alır.
+- **Bilinen Kullanıcılar / Operatörler:** Drukhari Kabal'ları, Wych Cult'ları; Commorragh akıncıları.
+- **Önemli Olaylar:** Drukhari'nin realspace akınları; tek bir Raider'a bağlanmış öne çıkan olay kaynaklarda yoktur.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
 ## Tarihçe
-Raider, Drukhari'nin (Dark Eldar) imza akın gemisidir; açık, dikenli, keskin hatlı ve son derece hızlı bir anti-grav taşıyıcıdır. Drukhari savaş tarzının (hız, terör, ani akın ve kaybolma) temel aracıdır. Craftworld Aeldari'nin korunaklı Wave Serpent'inin tam zıttıdır; koruma değil, saf hız üzerine kuruludur.
 
-Raider, bir Kabalite birliğini (Drukhari savaşçılarını) şimşek hızıyla, çoğu zaman düşmanın hiç beklemediği bir anda cepheye indirir; gelir, vurur, esir ve kurban toplar ve bir anda kaybolur. Üzerinde, topladığı kurbanlar için kazıklar ve dikenler taşır; bu, hem işlevsel hem de teröre yöneliktir.
+Kabal'lar ve Wych Cult'lar Raider'ları, Commorragh'ın doyumsuz esir ve acı ihtiyacını karşılayan akınların merkezine yerleştirir. Aracın açık güvertesi, savaşçıların ilerlerken ateş etmesine ve düşmanın üzerine atlamasına imkân tanır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Drukhari*
+
+-# İlişkili kayıtlar: <#1551997841356881980>, <#1551993959876657192>, <#1551997822725922938>

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Severian.JPG/revision/latest?cb=20130919044438
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Altın Taht ve Codex Astartes
 

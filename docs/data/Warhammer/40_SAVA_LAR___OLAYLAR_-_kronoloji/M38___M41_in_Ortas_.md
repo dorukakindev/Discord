@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c4/Aquila1.jpg/revision/latest?cb=20170411051211
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # M38 – M41'in Ortası
 

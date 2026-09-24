@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/0/00/ExocrineArt.jpg
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Exocrine
 

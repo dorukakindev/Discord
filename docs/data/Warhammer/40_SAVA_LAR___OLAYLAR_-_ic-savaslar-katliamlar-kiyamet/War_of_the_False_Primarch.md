@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a8/AquilaBlack.jpg/revision/latest?cb=20190630130844
+
 -# THE IMPERIAL ARCHIVE · Ic Savaslar Katliamlar Kiyamet · Kayıt
 # War of the False Primarch
 *Sahte Primarch Savaşı*

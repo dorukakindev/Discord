@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7d/Cadian_Pylon_semi-ruined.jpg/revision/latest?cb=20140408193119
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Cadia pylonları
 

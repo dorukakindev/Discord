@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/1/17/PuretideChip.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Puretide Engram Neurochip
 

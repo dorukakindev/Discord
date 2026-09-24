@@ -1,16 +1,24 @@
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
-
 # Monolith
 
-Necron'ların kayan kara piramidi; neredeyse yok edilemez, anti-grav bir savaş tapınağı.
+Kara, piramidal ve sessiz bir kütle olarak savaş alanına süzülen Monolith, hem yürüyen bir kale hem de bir geçittir. Gövdesindeki eternity gate, Necron savaşçılarını uzak bir tomb world'den doğrudan savaşın ortasına taşıyabilir.
 
-- **Kategori:** Savaş aracı
+- **Kategori:** Ağır zırhlı platform ve boyutsal geçit — <#1551629128736702656>
 - **Fraksiyon:** Necrons
+- **Dönem:** Kökeni War in Heaven dönemine uzanan Necron teknolojisi; M41 ve Era Indomitus'ta aktif
+- **Köken:** Necron'ların living metal (yaşayan metal) teknolojisiyle yapılmış, uzun uykunun ardından tomb world'lerden yeniden yükselen savaş platformlarındandır.
+- **Bilinen Kullanıcılar / Operatörler:** Necron Dynasty'leri ve tomb world kuvvetleri.
+- **Önemli Olaylar:** Necron uyanışı sonrası çatışmalar; tek bir Monolith'e bağlanmış öne çıkan olay kaynaklarda yoktur.
+- **Kanon Notu:** Eternity gate'in bağlandığı noktalar ve teknik işleyişi yayımlanmış kanonda ayrıntılandırılmamıştır.
 
 ## Tarihçe
 
-Monolith, Necron'ların en ikonik ve en korkutucu savaş makinelerinden biridir; sessizce kayan, kara, anti-grav bir piramittir. Bir araçtan çok, yürüyen (ya da yüzen) bir savaş tapınağı gibidir; soğuk, sessiz ve neredeyse yok edilemez.
+Necron'ların Great Sleep'ten uyanışıyla birlikte Monolith'ler galaksinin dört bir yanında yeniden görülmeye başlamıştır. Kaynaklar onları Necron istilalarının en korkutucu ve en simgesel görüntüsü olarak anlatır: Imperial ateşi yüzeyinde iz bırakmadan kayarken savaşçı dalgaları kapısından akmaya devam eder.
 
-Monolith'in en korkunç özelliği, dayanıklılığıdır; Necron teknolojisi ve "living metal" (yaşayan metal) zırhı sayesinde, en ağır ateşi bile yutarak, çoğu zaman hiç hasar görmeden ilerler. Onu yok etmek son derece zordur, çünkü hasar alsa bile kendini onarır. Sessizce, kaçınılmaz biçimde gelir.
+## Teknik / Biyolojik Özellikler
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Kendini onaran living metal gövde, gauss silahları, ağır bir parçacık silahı ve eternity gate. Necron teknolojisi insan kavrayışının ötesinde anlatılır; işleyişi ayrıntılı biçimde açıklanmaz.
+
+-# Kaynaklar: *Codex: Necrons — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>

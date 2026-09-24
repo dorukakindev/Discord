@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/6/6b/Galaxy-Rift-Ultima.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Solemnace — Tomb World ve galeri dünyası
 

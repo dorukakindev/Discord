@@ -2,12 +2,22 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8b/99800103023_MadDokGro
 
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Mad Dok Grotsnik
-*Çılgın Dok*
 
-Orklar'ın en ünlü ve en tehlikeli "cerrahı"; ameliyat ile katliam arasındaki farkı pek umursamayan deli dahi.
+Grotsnik, Ghazghkull Thraka'nın kafatasını metal bir plakayla yeniden kurarak Ork tarihinin akışını değiştiren Painboy'dur. Ameliyat masasını bir deney tezgâhına çeviren, yarattığı cyborklar ve ürkütücü nakilleriyle Ork'lar arasında bile tedirginlik uyandıran bir cerrahtır.
 
-Mad Dok Grotsnik, Orkların en ünlü ve en tehlikeli "Painboss"udur (cerrah-doktoru); Ork tıbbının (yani vahşi, deneysel ve genellikle ölümcül cerrahinin) en uç örneğidir. Adındaki "Mad" (Çılgın) sıfatı, fazlasıyla hak edilmiştir.
+- **Kategori:** Karakter / Painboy (Dok)
+- **Fraksiyon:** Orks — Ghazghkull'un Waaagh!'ı; kaynaklarda Deathskulls ile ilişkilendirilir
+- **Dönem:** M41 – Era Indomitus
+- **Köken:** Kaynaklarda ayrıntılandırılmaz.
+- **Teknik / Biyolojik Özellikler:** Kendi bedenine ve hastalarına uyguladığı bionik parçalarla tasvir edilir; cyborklar ve dönüştürülmüş Ork'lar onun eseridir.
+- **Bilinen Kullanıcılar / Operatörler:** Ghazghkull Thraka; kendi cyborkları ve hastaları.
+- **Önemli Olaylar:** Ghazghkull'un ameliyatı; Armageddon savaşları.
+- **Kanon Notu:** Ghazghkull'un vizyonlarının ameliyatla mı yoksa gerçek bir ilahi temasla mı ilgili olduğu kanonda kasıtlı olarak belirsizdir.
 
-Grotsnik için ameliyat ile katliam arasındaki çizgi son derece bulanıktır; bir hastayı "iyileştirmek" ile parçalamak çoğu zaman aynı işlemdir. Sayısız çılgın biyonik "ameliyat" yaptı: gereksiz fazladan kollar, dev metal çeneler, anlamsız implantlar. En ünlü manik dürtülerinden biri, kavga sesi duyduğunda ameliyatın ortasında hastayı bırakıp dövüşe katılmasıdır.
+## Tarihçe
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Urk'ta bir Imperial saldırısında başından ağır yaralanan Ghazghkull'u ameliyat edişi, Warboss'un sonradan Gork ve Mork'tan geldiğine inandığı vizyonların başlangıcı sayılır. Kaynaklara göre Grotsnik'in kendisi de bir Deff Dread'in kafatasını yarmasıyla ölümün eşiğinden dönmüş ve bu olaydan sonra deneyleri iyice tekinsizleşmiştir. O günden beri Ghazghkull'un yanında hem cerrah hem de savaşçı olarak yer alır.
+
+-# Kaynaklar: *Codex: Orks*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
+
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551643990196232303>

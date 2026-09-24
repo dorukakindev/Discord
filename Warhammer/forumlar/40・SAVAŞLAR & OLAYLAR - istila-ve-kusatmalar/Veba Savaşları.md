@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Guilliman_vs._Mortarion.png/revision/latest?cb=20170912010908
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Veba Savaşları
 *The Plague Wars*

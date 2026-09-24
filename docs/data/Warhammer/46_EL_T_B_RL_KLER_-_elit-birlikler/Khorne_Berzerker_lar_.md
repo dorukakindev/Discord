@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/aa/WE_Berserker.jpg/revision/latest?cb=20130102081531
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Khorne Berzerker'ları
 

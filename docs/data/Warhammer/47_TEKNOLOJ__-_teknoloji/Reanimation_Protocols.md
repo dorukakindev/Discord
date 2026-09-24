@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/0/07/Reanimation_Protocol_Pariah_Nexus_%28Animated_Series%29.gif
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Reanimation Protocols
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Serghar_Targost.jpg/revision/latest?cb=20121107195206
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Warrior lodge'lar
 

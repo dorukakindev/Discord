@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/7/7f/Galaxy-Rift-Solar.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Urk — Ghazghkull Thraka'nın doğduğu dünya
 

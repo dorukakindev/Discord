@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e6/Goff_Guard.png/revision/latest?cb=20140727001036
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Nobz ve Meganobz
 

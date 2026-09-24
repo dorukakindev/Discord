@@ -1,11 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Xenos Karakterleri · Kayıt
 # Old One Eye
-*Tek Göz*
 
-Defalarca öldürülüp her seferinde daha güçlü dönen, bir gözünü kaybetmiş efsanevi Carnifex biyoformu.
+Old One Eye, Ultramar'ın kayıtlarında yıllarca avlanan dev bir Carnifex'tir. Olağanüstü iyileşme yeteneği, onu defalarca "öldürülmüş" ama her seferinde geri dönmüş bir efsaneye dönüştürmüştür.
 
-Old One Eye ("Tek Göz"), Tyranid biyoformları arasında benzersiz bir varlıktır: efsaneleşmiş, adı olan bir Carnifex. Normalde Carnifex'ler harcanabilir, beyinsiz canlı kuşatma motorlarıdır; ama Old One Eye, defalarca ölüp her seferinde geri dönerek bir istisnaya dönüşmüştür.
+- **Kategori:** Adlandırılmış Tyranid organizması / Carnifex
+- **Fraksiyon:** Tyranids — Hive Fleet Behemoth kalıntıları
+- **Dönem:** M41 – Era Indomitus
+- **Köken:** Calth; Behemoth'un parçalanmasından sonra geride kalan organizmalardan biri
+- **Teknik / Biyolojik Özellikler:** Tek gözü ve kendini hızla onarabilen bedeniyle tanınır; diğer Carnifex'leri etrafında sürü hâlinde toplayabildiği anlatılır.
+- **Bilinen Kullanıcılar / Operatörler:** Çevresinde toplanan Carnifex sürüleri.
+- **Önemli Olaylar:** Calth'taki saldırılar; Ultramarines'in tekrarlanan avları.
+- **Kanon Notu:** "Öldürülüp geri dönmesinin" her seferinde aynı organizma mı yoksa benzer bir yeniden üretim mi olduğu kaynaklarda kesinleştirilmez.
 
-İlk kez Macragge Savaşı'nda (Hive Fleet Behemoth'un Ultramar istilası) öne çıktı; Ultramarines'e ağır kayıplar verdirdi ve o savaşta bir gözünü kaybetti, adını oradan aldı. O savaşta sözde öldürüldü, ama Hive Mind onu yeniden büyüttü; ve her dirilişinde, önceki ölümünün dersleriyle daha kalın zırhlı, daha güçlü ve daha tehlikeli olarak geri döndü.
+## Tarihçe
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Parçalanan Behemoth filosunun kalıntıları Ultramar'ın çevresinde uzun süre avlanmayı sürdürdü; Old One Eye efsanesi bu kalıntılara bağlanır. Kaynaklara göre Calth'ta uzun süre hareketsiz kalan organizma yeniden uyanıp kırsal bölgeleri kasıp kavurmuş, Ultramarines tarafından defalarca yere serilmesine rağmen yeniden ortaya çıkmıştır. Hive Mind'ın doğrudan synapse denetimi olmadan hayatta kalması, onu Tyranid organizmaları arasında ayrıksı bir örnek yapar.
+
+-# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
+
+-# İlişkili kayıtlar: <#1551759780211589197>, <#1551809334483361823>, <#1551809577425575998>, <#1551809394226765939>

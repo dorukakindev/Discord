@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Jain Zar
 
--# *Howling Banshees'in Phoenix Lordu / Sessizliğin Fırtınası*
+Howling Banshee'lerin Phoenix Lord'u Jain Zar, Aspect Warrior geleneğinin kadim atalarından biridir. Zırhının içinde yaşayan kimliğini, zırhı giyen her yeni Exarch'ın ruhuyla sürdürdüğü anlatılır; Aeldari'nin gözünde yaşayan bir efsanedir.
 
-Howling Banshees Aspect'inin kurucusu Phoenix Lord; akıl donduran çığlığı ve eşsiz hızıyla savaşan ölümsüz savaş azizesi.
+- **Kategori:** Karakter / Phoenix Lord — Storm of Silence
+- **Fraksiyon:** Aeldari (Asuryani); Ynnari ile bağlantılı
+- **Dönem:** Fall of the Aeldari sonrasından Era Indomitus'a
+- **Köken:** Asurmen'in ilk öğrencilerinden biri olarak Howling Banshee Aspect'inin kurucusu kabul edilir.
+- **Teknik / Biyolojik Özellikler:** Silent Death adlı fırlatılan bıçaklı silahı ve Blade of Destruction ile tasvir edilir; Banshee'lerin psişik çığlığının en güçlü biçimini taşır.
+- **Bilinen Kullanıcılar / Operatörler:** Howling Banshee Aspect tapınakları; Yvraine ve Ynnari.
+- **Önemli Olaylar:** Howling Banshee Aspect'inin kuruluşu; Ynnari'ye katılım; Drazhar'la karşılaşma.
+- **Kanon Notu:** Phoenix Lord'ların sürekliliği (aynı kimliğin zırh aracılığıyla yeniden doğması) kaynaklarda mistik ve kısmen belirsiz bir süreç olarak anlatılır.
 
 ## Tarihçe
-Jain Zar, "Sessizliğin Fırtınası" (the Storm of Silence) olarak da bilinen, Howling Banshees Aspect Warrior'larının Phoenix Lord'udur; eşsiz hızıyla ünlüdür ve Phoenix Lord'lar arasında yalnızca Baharroth ondan daha hızlıdır. O, Aeldari savaş geleneğinin en ölümcül ve en eski ustalarından biridir.
 
-Faraethil adıyla, Aeldari'nin Düşüş'ünden kısa süre önce Eidafaeron dünyasında doğdu; o felaket geldiğinde o kadar gençti ki Aeldari İmparatorluğu'ndaki yaşamı hiç hatırlamadı. Ailesi onu bir bebekken Kurnussei'ye bıraktı; oluşum yıllarını, efendisinin ve binlerce seyircinin keyfi için sahne alan bir kan-dansçısı gladyatris olarak geçirdi ve arena dışındaki yaşamdan habersizdi.
+Fall'ın ardından Asurmen'in yanında savaş yolunu öğrenen Jain Zar, ilk Howling Banshee tapınağını kurdu ve binyıllar boyunca Craftworld'lerin savaşlarında belirip kayboldu. Ynnari'nin doğuşuyla birlikte hareketin en dikkat çekici destekçilerinden biri oldu; Drazhar'ın Saim-Hann baskınında Yvraine'i koruması, onun Ynnari'deki rolünün en bilinen örneğidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Jain Zar: The Storm of Silence — Gav Thorpe*; *Psychic Awakening: Phoenix Rising*
+
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1552483346846715924>, <#1551810744754905123>, <#1551997822725922938>

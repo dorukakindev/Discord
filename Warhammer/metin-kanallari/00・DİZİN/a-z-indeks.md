@@ -89,5 +89,5 @@ Bir harf forumuna tıkla → açılan listeden kaydı seç.
 
 ## Diğer Sunucularımız
 
-• trech-crusade → <#1551903313333723136>
+• trench-crusade → <#1551903313333723136>
 • mörkborg-darksun-kult-etc → <#1551903439385268307>
