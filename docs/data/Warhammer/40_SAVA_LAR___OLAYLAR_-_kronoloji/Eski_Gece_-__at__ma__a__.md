@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammerfb/images/b/b3/Warhammer_Chaos_Symbols.png/revision/latest?cb=20250805080144
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Eski Gece / Çatışma Çağı
 

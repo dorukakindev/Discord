@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammerfb/images/b/b4/Warhammer_Fantasy_Cabal_Cultist.png/revision/latest?cb=20200812084302
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Cabal
 

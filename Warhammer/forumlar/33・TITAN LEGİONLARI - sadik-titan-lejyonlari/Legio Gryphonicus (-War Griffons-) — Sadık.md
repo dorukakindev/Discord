@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Legio_Gryphonicus_Legio_Icon.png/revision/latest?cb=20200225011515
 
--# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+-# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
 # Legio Gryphonicus ("War Griffons") — Sadık
 
 Benekli gri ve sarı renkleriyle bilinen, Horus'un sadık kuvvetleri galaksiye dağıtma stratejisine rağmen Emperor'a bağlı kalan Legio'dur. Heresy boyunca hain Legio Mortis'le süren kanlı bir rekabet, kimliğinin ayrılmaz parçası hâline gelmiştir.

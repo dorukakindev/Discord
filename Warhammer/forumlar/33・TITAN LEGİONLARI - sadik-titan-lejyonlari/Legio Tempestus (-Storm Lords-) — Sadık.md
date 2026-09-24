@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/29/Legio_Tempestus_Legio_Icon.png/revision/latest?cb=20210508210912
 
--# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+-# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
 # Legio Tempestus ("Storm Lords") — Sadık
 
 Schism of Mars'ta Kelbor-Hal'e karşı sadık kalıp neredeyse yok olan, küçük bir kalıntıdan yeniden doğan Legio'dur. Adı M41'de Orestes savunmasıyla birlikte anılır.

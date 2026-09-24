@@ -9,6 +9,8 @@ Ağır biçimde değiştirilmiş bir Gloriana sınıfı savaş gemisi ve Space W
 
 ## Tarihçe
 
-Hrafnkel, Space Wolves filosunun amiral gemisi ve geç 30. ile erken 31. binyıllarda, Büyük Sefer ve Horus İsyanı sırasında Space Wolves Lejyonu'nun Primarch'ı Leman Russ'un sancak gemisi olan, ağır biçimde değiştirilmiş bir Gloriana sınıfı savaş gemisiydi. Vengeful Spirit, Conqueror ve Iron Blood ile birlikte sınıfının en büyük örneklerinden biriydi.\n\nHrafnkel, Gloriana çatısının en büyük kalıplarından biriydi; hem ağır bir savaş gemisi olarak hem de bağımsız gezegen-yok-etme (planetkill) harekatları yürütecek şekilde yapılandırılmıştı.
+Hrafnkel, Space Wolves filosunun amiral gemisi ve geç 30. ile erken 31. binyıllarda, Büyük Sefer ve Horus İsyanı sırasında Space Wolves Lejyonu'nun Primarch'ı Leman Russ'un sancak gemisi olan, ağır biçimde değiştirilmiş bir Gloriana sınıfı savaş gemisiydi. Vengeful Spirit, Conqueror ve Iron Blood ile birlikte sınıfının en büyük örneklerinden biriydi.
+
+Hrafnkel, Gloriana çatısının en büyük kalıplarından biriydi; hem ağır bir savaş gemisi olarak hem de bağımsız gezegen-yok-etme (planetkill) harekatları yürütecek şekilde yapılandırılmıştı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammerfb/images/4/46/Warhammer_Lileath.png/revision/latest?cb=20161017012204
+
 -# THE IMPERIAL ARCHIVE · Aeldari Panteonu · Kayıt
 # Lileath
 *Bakire / Rüyaların Tanrıçası*

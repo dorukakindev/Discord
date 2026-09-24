@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Legio_Metalica_Icon_Pre-Heresy.png/revision/latest?cb=20211211072253
 
--# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+-# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
 # Legio Metalica ("Iron Skulls") — Sadık
 
 Kızıl renkleriyle tanınan ve kökünü Imperium'un kuruluşundan önceye dayandıran kadim bir Legio'dur. Kaynaklar onu zafer kaydı en parlak Legio'lardan biri olarak sunar; bu, Collegia'nın kendi övgüsü olarak okunmalıdır.

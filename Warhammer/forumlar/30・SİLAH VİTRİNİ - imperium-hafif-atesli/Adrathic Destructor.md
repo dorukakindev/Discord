@@ -10,4 +10,13 @@ Custodes'a özgü, neredeyse kayıp bir teknoloji; hedef maddeyi alt-atomik düz
 
 ## Teknik ve Kullanım
 Adrathic silahları maddeyi atomik düzeyde çözen bir ışın üretir; İmparatorluk'un kayıp teknolojilerinin en korkunç örneklerinden biridir ve yalnızca Custodes ile nadir özel birimlerde bulunur. İsabet eden hiçbir şey geride 'iz' bırakmaz.
+
+## Teknik Özellikler
+- Tip: Imperium antik silah — Adrathic enerji silahları ailesi
+- Köken: Unification Wars öncesi teknoloji; üretimi unutulmuş
+- Etki: hedefi atomik seviyede bozar
+
+## Not
+Golden Age of Technology kalıntısıdır — mevcut Imperium'un üretemediği, sadece muhafaza edebildiği silah sınıfıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

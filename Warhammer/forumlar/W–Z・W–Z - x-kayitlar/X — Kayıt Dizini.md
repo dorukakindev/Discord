@@ -1,6 +1,8 @@
--# THE IMPERIAL ARCHIVE · X Kayıtları
+-# THE IMPERIAL ARCHIVE · Harf Kayıtları · Dizin
 # X — Kayıt Dizini
 
-1 kayıt — alfabetik:
+- <#1551809846066548779>
+
+-# 1 kayıt · güncel
 
 • **Xenos**

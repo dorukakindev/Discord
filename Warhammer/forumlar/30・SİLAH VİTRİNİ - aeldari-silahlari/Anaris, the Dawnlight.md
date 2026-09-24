@@ -12,4 +12,12 @@ Tanrı Vaul'ün dövdüğü yüz kılıçtan en güçlüsü; Eldar mitolojisinde
 - **Özel:** Vaul'ün başyapıtı: Mitolojik ışık kılıcı; Eldar destanının kalbi
 - **Kanon Sınıfı:** A — resmî kaynak
 
+## Arka Plan
+- Tip: Vaul dövmesi kadim Aeldari kılıcı
+- Taşıyıcı: Eldanesh — ilk ve en büyük Aeldari kahramanı
+- Olay: Khaine ile düellosunda taşındı; Eldanesh'in yenilgisinden sonra kılıcın kaderi efsanelerde ayrıntısız kalır
+
+## Not
+Eldanesh'in Khaine'e yenilmesi, Aeldari mitolojisinde ölümlülüğün ve Pride'un hikâyesidir. Anaris adı Aeldari kadim külliyatında 'gün ışığı' anlamında anılır.
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
