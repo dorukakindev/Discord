@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/24/Astorum-Logo.jpg/revision/latest?cb=20200208082645
 
--# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+-# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
 # Legio Astorum ("Warp Runners") — Sadık
 
 Mavi ve altın renkleriyle tanınan, Heresy'de tereddüt etmeden hainlerin karşısına çıkan Legio'dur. Knight Haneleriyle, özellikle House Terryn'le kurduğu savaş ortaklığı kayıtlarda sıkça öne çıkar.

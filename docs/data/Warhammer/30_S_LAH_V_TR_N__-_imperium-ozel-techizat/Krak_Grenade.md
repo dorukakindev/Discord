@@ -8,4 +8,13 @@
 
 ## Teknik ve Kullanım
 Anti-zırh patlayıcı — yoğunlaştırılmış patlamasıyla tank ve yapı hedeflerini deler. El bombası sınıfı — tek atımlık patlayıcı cephane; siper, kalabalık, zırh veya özel hedef için her Guardsman'in kemerindeki çok yönlü cevap.
+
+## Teknik Özellikler
+- Tip: Imperium anti-zırh el bombası — frag grenade'in zırh delici kuzeni
+- Etki: şekilli patlama tek bir noktaya odaklanır, araç ve tahkimat zırhını deler
+- Taşıyıcı: piyade standart anti-tank cephaneliği
+
+## Not
+Frag'ten farklı olarak serpinti saçmaz; tüm patlama enerjisini tek yönde toplar. Piyadenin zırhlı hedeflere tek şansıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

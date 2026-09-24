@@ -10,4 +10,13 @@ Mechanicus'un araç ve makinelere karşı ürettiği elektrik silahı; yüksek v
 
 ## Teknik ve Kullanım
 Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan, bakımı basit ve üretimi bol İmparatorluk ve düşman silahları; bolt veya enerji teknolojisi olmadan da cephede en çok iş yapan sınıftır.
+
+## Teknik Özellikler
+- Tip: Adeptus Mechanicus hayvan-yakalama/etkisizleştirme silahı — Skitarii kullanır
+- Etki: yüksek voltajlı elektrik arkı canlıyı sersemletir/ölmeden etkisiz kılar
+- Rol: numune toplama ve düşman esir alma
+
+## Not
+Mechanicus'un 'biyolojik varlık toplama' cephaneliğindendir; öldürmek yerine bozmak için tasarlanmıştır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

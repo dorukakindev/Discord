@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/74/Ignatum-Logo.jpg/revision/latest?cb=20200208082228
 
--# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+-# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
 # Legio Ignatum ("Fire Wasps") — Sadık
 
 Kızıl, sarı ve siyah renkleriyle tanınan, Mars'ın en kadim savaş kurumlarından biridir. Heresy'de Mars ikiye bölündüğünde Emperor'a bağlı kalmış, bu sadakati ona Terra'nın savunmasında merkezî bir yer kazandırmıştır.

@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/07/Imperial_Hunters_Iconography.png/revision/latest?cb=20200224043720
 
--# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+-# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
 # Legio Solaria ("Imperial Hunters") — Sadık
 
 Soğuk hesap yerine hız, cüret ve av içgüdüsünü öne çıkaran; gururlu ve duygularını saklamayan kültürüyle Mechanicum'un tipik Legio'larından ayrılan bir kurumdur. Adını hak ettiren şey, hafif ve hızlı Titan'larla yürüttüğü vur-kaç savaşıdır.

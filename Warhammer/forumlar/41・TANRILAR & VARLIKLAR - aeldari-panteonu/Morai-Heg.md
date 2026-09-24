@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammerfb/images/6/62/Herald-of-morai-heg.png/revision/latest?cb=20170109152449
+
 -# THE IMPERIAL ARCHIVE · Aeldari Panteonu · Kayıt
 # Morai-Heg
 *Kocakarı / Kaderin Hanımı*
