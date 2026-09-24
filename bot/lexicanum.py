@@ -2,7 +2,9 @@
 """Lexicanum — arşiv botu.
 Komutlar: /ara /rastgele /istatistik (herkes) · /kayit-ekle /kayit-duzenle /index-yenile (manage_messages)
 Çalıştırma: DISCORD_TOKEN=... python3 lexicanum.py"""
+import asyncio
 import json
+import logging
 import os
 import random
 import re
@@ -11,6 +13,11 @@ from datetime import datetime, timezone
 
 import discord
 from discord import app_commands
+from rapidfuzz import fuzz
+
+log = logging.getLogger('lexicanum')
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s %(levelname)s %(message)s')
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, 'data')
@@ -27,12 +34,21 @@ def load_index():
     return json.load(open(p)) if os.path.exists(p) else []
 
 
+def save_index():
+    p = os.path.join(DATA, 'index.json')
+    tmp = p + '.tmp'
+    with open(tmp, 'w') as f:
+        json.dump(INDEX, f, ensure_ascii=False)
+    os.replace(tmp, p)
+
+
 def norm(s):
     s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode()
     return ' '.join(re.sub(r'[^a-z0-9 ]', ' ', s.lower()).split())
 
 
 INDEX = load_index()
+INDEX_LOCK = asyncio.Lock()
 
 intents = discord.Intents(guilds=True, members=True)
 bot = discord.Client(intents=intents)
@@ -61,9 +77,13 @@ def search(q, gid=None, limit=10):
             sc = 60
         else:
             inter = len(set(toks) & set(nt.split()))
-            if not inter:
+            fz = fuzz.token_set_ratio(nq, nt)
+            if inter:
+                sc = inter * 10 - abs(len(nt) - len(nq)) / 100
+            elif fz >= 75:
+                sc = 20 + fz * 0.35
+            else:
                 continue
-            sc = inter * 10 - abs(len(nt) - len(nq)) / 100
         scored.append((sc, r))
     scored.sort(key=lambda x: -x[0])
     return [r for _, r in scored[:limit]]
@@ -155,8 +175,13 @@ class KayitModal(discord.ui.Modal):
                           'f': self.forum.name, 'c': '',
                           'l': f'https://discord.com/channels/{self.forum.guild.id}/{th.id}',
                           's': GUILDS.get(str(self.forum.guild.id), {}).get('name', '?')})
-        except Exception as e:
-            await inter.response.send_message(f'Hata: {e}', ephemeral=True)
+        except discord.Forbidden:
+            await inter.response.send_message('İzin hatası — forumda yazma yetkim yok.', ephemeral=True)
+        except discord.HTTPException as e:
+            await inter.response.send_message(f'Discord hatası: {e.status}', ephemeral=True)
+        except Exception:
+            log.exception('kayit-ekle hatası')
+            await inter.response.send_message('Beklenmedik hata — loga bak.', ephemeral=True)
 
 
 @tree.command(name='kayit-ekle', description='Foruma yeni kayıt aç (yönetici)')
@@ -205,8 +230,15 @@ class DuzenleModal(discord.ui.Modal):
                 await self.thread.send(rest[:2000])
             await self.thread.edit(archived=True)
             await inter.response.send_message('Kayıt güncellendi.', ephemeral=True)
-        except Exception as e:
-            await inter.response.send_message(f'Hata: {e}', ephemeral=True)
+        except discord.Forbidden:
+            await inter.response.send_message('İzin hatası — thread düzenleyemiyorum.', ephemeral=True)
+        except discord.NotFound:
+            await inter.response.send_message('Kayıt mesajı bulunamadı.', ephemeral=True)
+        except discord.HTTPException as e:
+            await inter.response.send_message(f'Discord hatası: {e.status}', ephemeral=True)
+        except Exception:
+            log.exception('kayit-duzenle hatası')
+            await inter.response.send_message('Beklenmedik hata — loga bak.', ephemeral=True)
 
 
 @tree.command(name='kayit-duzenle', description='Kayıt metnini düzenle (yönetici)')
@@ -220,8 +252,11 @@ async def kayit_duzenle(inter, kayit: str):
         tid = int(kayit)
         th = await inter.guild.fetch_channel(tid)
         msg = await th.fetch_message(tid)
-    except Exception as e:
-        await inter.response.send_message(f'Kayıt bulunamadı: {e}', ephemeral=True)
+    except (discord.NotFound, ValueError):
+        await inter.response.send_message('Kayıt bulunamadı.', ephemeral=True)
+        return
+    except discord.HTTPException as e:
+        await inter.response.send_message(f'Discord hatası: {e.status}', ephemeral=True)
         return
     old = msg.content
     if old.startswith('http'):
@@ -235,7 +270,9 @@ async def index_yenile(inter):
         await inter.response.send_message('Yetkin yok.', ephemeral=True)
         return
     await inter.response.send_message('İndeks taranıyor — birkaç dakika sürebilir…', ephemeral=True)
-    import asyncio
+    if INDEX_LOCK.locked():
+        await inter.followup.send('Zaten bir indeksleme sürüyor.', ephemeral=True)
+        return
     import build_index as bi
 
     def run():
@@ -243,9 +280,15 @@ async def index_yenile(inter):
         bi.H = {'Authorization': 'Bot ' + TOKEN, 'Content-Type': 'application/json'}
         bi.main()
 
-    await asyncio.to_thread(run)
-    global INDEX
-    INDEX = load_index()
+    async with INDEX_LOCK:
+        try:
+            await asyncio.to_thread(run)
+        except Exception:
+            log.exception('index-yenile hatası')
+            await inter.followup.send('İndeksleme hata verdi — loga bak.', ephemeral=True)
+            return
+        INDEX[:] = load_index()
+    log.info('İndeks yenilendi: %d kayıt', len(INDEX))
     await inter.followup.send(f'Bitti — {len(INDEX)} kayıt indekslendi.', ephemeral=True)
 
 
@@ -260,6 +303,65 @@ def log_embed(member, join):
     if g:
         e.set_footer(text=f'Üye sayısı: {g.member_count}')
     return e
+
+
+def rec_of_thread(th):
+    g = th.guild
+    forum = bot.get_channel(th.parent_id)
+    return {'t': th.name, 'g': str(g.id),
+            'f': forum.name if forum else '', 'c': '',
+            'l': f'https://discord.com/channels/{g.id}/{th.id}',
+            's': GUILDS.get(str(g.id), {}).get('name', '?')}
+
+
+def upsert_thread(th):
+    tid = str(th.id)
+    rec = rec_of_thread(th)
+    for i, r in enumerate(INDEX):
+        if r['l'].rsplit('/', 1)[1] == tid:
+            INDEX[i] = rec
+            return
+    INDEX.append(rec)
+
+
+def forum_thread_in_scope(th):
+    if str(th.guild.id) not in GUILDS:
+        return False
+    parent = bot.get_channel(th.parent_id)
+    return isinstance(parent, discord.ForumChannel)
+
+
+@bot.event
+async def on_thread_create(th):
+    if not forum_thread_in_scope(th):
+        return
+    async with INDEX_LOCK:
+        upsert_thread(th)
+        save_index()
+    log.info('Index +%s (%s)', th.name, th.id)
+
+
+@bot.event
+async def on_thread_update(before, after):
+    if not forum_thread_in_scope(after) or before.name == after.name:
+        return
+    async with INDEX_LOCK:
+        upsert_thread(after)
+        save_index()
+    log.info('Index ~%s (%s)', after.name, after.id)
+
+
+@bot.event
+async def on_thread_delete(th):
+    if str(th.guild.id) not in GUILDS:
+        return
+    tid = str(th.id)
+    async with INDEX_LOCK:
+        before_n = len(INDEX)
+        INDEX[:] = [r for r in INDEX if r['l'].rsplit('/', 1)[1] != tid]
+        if len(INDEX) != before_n:
+            save_index()
+            log.info('Index -%s (%s)', th.name, th.id)
 
 
 @bot.event
@@ -282,7 +384,8 @@ async def on_ready():
     await bot.change_presence(
         activity=discord.Activity(type=discord.ActivityType.watching,
                                   name='arşivi · /ara'))
-    print(f'Lexicanum çevrimiçi — {bot.user} · {len(INDEX)} kayıt', flush=True)
+    log.info('Lexicanum çevrimiçi — %s · %d kayıt', bot.user, len(INDEX))
 
 
-bot.run(TOKEN)
+if __name__ == '__main__':
+    bot.run(TOKEN)
