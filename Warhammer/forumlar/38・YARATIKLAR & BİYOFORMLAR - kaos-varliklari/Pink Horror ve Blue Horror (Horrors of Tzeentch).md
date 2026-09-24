@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Horrors_5th_ed.jpg/revision/latest?cb=20130227210754
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Pink Horror ve Blue Horror (Horrors of Tzeentch)
 

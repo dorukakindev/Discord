@@ -1,13 +1,24 @@
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Wave Serpent
 
--# *Wave Serpent Taşıyıcı*
+Aspect Warrior'ları ve Guardian takımlarını savaşın kalbine hızla taşıyan zarif bir antigrav taşıyıcıdır. Asıl ayırt edici yanı, ön cephesine yayılan ve düşman ateşini dağıtan serpent shield denen enerji perdesidir.
 
-Aeldari'nin en korunaklı taşıyıcısı; önündeki enerji alanı saptırıcısı gelen atışları yumuşatır.
+- **Kategori:** Antigrav zırhlı taşıyıcı — <#1551629126320918589>
+- **Fraksiyon:** Aeldari — Asuryani (Craftworld'ler); Aeldari Corsair'ler ve Ynnari de kullanır
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Craftworld'lerin Bonesinger'larının wraithbone'dan biçimlendirdiği araç geleneğinin ürünüdür.
+- **Bilinen Kullanıcılar / Operatörler:** Craftworld Aeldari (Ulthwé, Biel-Tan, Iyanden, Saim-Hann, Alaitoc ve diğerleri); Aeldari Corsair grupları.
+- **Önemli Olaylar:** Kaynaklarda tek bir Wave Serpent'e bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
 ## Tarihçe
-Wave Serpent, Aeldari'nin (Eldar) en korunaklı ve en güvenilir birlik taşıyıcısıdır; Falcon şasisine dayanan, ama taşımaya ve korumaya odaklanmış bir anti-grav aracıdır. Aeldari için her bir savaşçının hayatı paha biçilmez olduğundan (ölmekte olan bir ırktır), birliklerini güvenle taşımak hayatidir.
 
-Wave Serpent'i benzersiz kılan, önündeki enerji alanı projektörüdür; bu alan, araca doğru gelen atışları yavaşlatıp saptırarak ya da emerek, içindeki birliği olağanüstü biçimde korur. Bu sayede, bir Aspect Warrior timini en yoğun düşman ateşi altında bile savaşın tam kalbine, en kritik noktaya güvenle ulaştırabilir.
+Nüfusu azalan ve her bir ölümü telafisi güç bir kayıp sayan Asuryani için Wave Serpent, savaşçılarını korumanın vazgeçilmez aracıdır. Craftworld savaş ev sahiplerinde yaygın olarak kullanılır; hızlı yıldırım harekâtlarının bel kemiğini oluşturur.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+## Teknik / Biyolojik Özellikler
+
+Wraithbone iskelet, antigrav tahrik, taret silahı ve serpent shield. Kalkan savunmanın yanında, enerjisi boşaltılarak kısa süreli bir silah olarak da kullanılabilir.
+
+-# Kaynaklar: *Codex: Aeldari — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551810727445004339>

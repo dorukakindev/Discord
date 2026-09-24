@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Tau Araclari · Kayıt
 # Hammerhead
 
--# *Hammerhead Grav-Tankı*
+T'au zırhlı kuvvetlerinin omurgasıdır. Uzun namlulu railgun'ı, bir mermiyi elektromanyetik yolla müthiş bir hıza ulaştırarak düşman tanklarını uzak mesafeden delip geçer.
 
-Tau'nun ana muharebe tankı; kulesindeki Railgun galaksinin en delici silahlarından biridir.
+- **Kategori:** Antigrav ana muharebe tankı — <#1551629130137608262>
+- **Fraksiyon:** T'au Empire
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Devilfish ile aynı gövde ailesinden gelen, taşıma bölmesi yerine ağır bir taret silahı taşıyan Earth caste tasarımı.
+- **Teknik / Biyolojik Özellikler:** Antigrav tahrik, railgun ya da ion cannon gibi ağır taret silahı, ikincil silahlar ve drone'lar.
+- **Bilinen Kullanıcılar / Operatörler:** T'au Fire caste zırhlı birlikleri; T'au Sept'leri.
+- **Önemli Olaylar:** T'au'nun Imperium'la yaşadığı cephe çatışmaları; tek bir Hammerhead'e bağlanmış ayrıntılı olay bu kayıtta verilmemiştir.
+- **Kanon Notu:** Railgun'ın evren içi gücü kaynak metinlerde anlatısal olarak vurgulanır; bu vurgu tabletop değerleriyle karıştırılmamalıdır.
 
 ## Tarihçe
-Hammerhead, Tau İmparatorluğu'nun ana muharebe tankı ve birincil tank avcısıdır; Devilfish ile aynı sağlam grav-şasiye dayanır, ama taşıma kapasitesi yerine devasa bir ateş gücü taşır. Tau'nun mesafeli, üstün teknolojiye dayanan savaş doktrininin zirvesidir.
 
-Hammerhead'i ölümcül kılan, kulesindeki Railgun'dur; elektromanyetik raylarla hipersonik hıza ulaştırılan sert bir mermi fırlatır ve galaksinin en delici silahlarından biri olarak, en ağır zırhı (hatta süper ağır tankları) bile uzaktan, tek bir atışla delip geçebilir. Bir Hammerhead, en güçlü düşman zırhlısını bile güvenli bir mesafeden yok edebilir.
+Hammerhead, T'au'nun menzili ve isabeti öne çıkaran savaş anlayışının zırhlı ifadesidir. Codex'lerde Longstrike adlı ünlü bir Hammerhead komutanı öne çıkar; bu isim, Fire caste içinde tank mürettebatının da kahramanlaştırılabildiğini gösterir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: T'au Empire — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551813361887617108>

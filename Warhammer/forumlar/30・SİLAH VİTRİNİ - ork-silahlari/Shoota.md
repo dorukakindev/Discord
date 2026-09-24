@@ -1,12 +1,27 @@
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Shoota
 
--# *Ork Tüfeği*
+Büyük kalibreli, gürültülü ve kaba görünümlü bir Ork tüfeğidir. Orklar için bir silahın değeri isabetinden çok çıkardığı sesle ve yağdırdığı mermi miktarıyla, yani "dakka" ile ölçülür; shoota bu anlayışın en yaygın ifadesidir.
 
-Her Mekboy'un kendine göre yaptığı gürültülü Ork tüfeği; Ork inancına göre ne kadar gürültülüyse o kadar öldürücüdür ve WAAAGH! alanı sayesinde bu gerçekten işe yarar.
+- **Kategori:** Hafif ateşli silah / Ork piyade silahı — <#1551629116715827340>
+- **Fraksiyon:** Orks
+- **Dönem:** M41 ve Era Indomitus (Orkların daha eski geçmişi için tek bir başlangıç verilmez)
+- **Köken:** Mekboy'ların ve Ork demircilerinin elinde, hurdadan ve yağmalanmış parçalardan yapılır; standart bir tasarımı yoktur.
+- **Bilinen Kullanıcılar / Operatörler:** Ork Boyz, Nob'lar, Mekboy'lar; Bad Moons gibi zengin klanlar süslü ve pahalı biçimleriyle anılır.
+- **Önemli Olaylar:** Kaynaklarda tek bir olayla özdeşleşmez; bütün Ork istilalarında görülür.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+## Tarihçe
 
-## Teknik ve Kullanım
+Ork Boyz'un en yaygın ateşli silahlarından biridir; her WAAAGH! sayısız shoota ile ilerler. Ork kabilelerinin her biri kendi zevkine göre silah yapar ve takas eder. Daha ağır biçimi big shoota, tabanca biçimi slugga'dır.
 
-Her Mekboy'un kendi zevkine göre ürettiği gürültülü Ork tüfeği; teknik olarak bir otomatik silah ama pratikte 'vurursa iyi, vuramazsa da gürültü çıkarır' felsefesiyle çalışır. Ork inancına göre shoota ne kadar gürültü çıkarırsa o kadar isabetli olur — Waaagh! alanının kolektif psişik etkisi bunu kısmen gerçeğe çevirir. Savaş alanındaki en yaygın Ork silahıdır.
+## Teknik / Biyolojik Özellikler
+
+Her shoota benzersizdir; parçaları, kalibresi ve mekanizması yapanın elindeki malzemeye göre değişir. Orkların silahı mermi harcamak için taşıdığı, nişan almaktan çok sürekli ateş etmeyi sevdiği anlatılır.
+
+## Kanon Notu
+
+Bazı Imperium gözlemcileri, derme çatma Ork silahlarının Orkların ortak inancının da yardımıyla çalıştığını ileri sürer; bu, kanonda kasıtlı olarak belirsiz bırakılmış bir evren-içi iddiadır.
+
+-# Kaynaklar: *Codex: Orks — 10th Edition*; *Brutal Kunnin' — Mike Brooks*
+
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091013>

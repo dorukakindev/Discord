@@ -1,3 +1,4 @@
+-# THE IMPERIAL ARCHIVE · Araştırma Dosyası · Navigators
 https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Navigator_2.jpg/revision/latest?cb=20121226092726
 
 # Navigators (Navis Nobilite) — Araştırılmış Bilgiler

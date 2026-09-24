@@ -1,13 +1,22 @@
 -# THE IMPERIAL ARCHIVE · Xenos Ve Diger Gemiler · Kayıt
 # Blackstone Fortress
 
--# *Karataş Kalesi*
+Karanlık, taş görünümlü, devasa ve anlaşılması güç yapılardır. Imperium onları kullanmaya çalışmış, ama işleyişlerini hiçbir zaman tam kavrayamamıştır.
 
-Eski Ones tarafından C'tan'a karşı yapıldığına inanılan altı kadim xenos super-yapısı; tam aktive olduğunda gerçeklik ile Warp arasındaki bariyeri yırtabilen ölümcül silahlar.
+- **Kategori:** Kadim xenos kale sınıfı (Chaos'un eline geçmiş örnekleriyle) — <#1551629133967269900>
+- **Fraksiyon:** Kökeni bilinmiyor; Gothic War'da Imperium'un elindeyken bazı örnekleri Abaddon'ın eline geçmiştir
+- **Dönem:** Kökeni insanlıktan eski; Gothic War (M41) ve 13th Black Crusade
+- **Köken:** Yapımcıları kesin olarak bilinmez. Kaynaklar bu yapıların insanlık öncesi bir uygarlığa ait olduğunu belirtir; belirli bir türe bağlanmaları yayımlanmış kanonda kesinleşmemiştir.
+- **Teknik / Biyolojik Özellikler:** Muazzam bir yıkım gücüne sahip silahlar; içyapıları Imperial kaynaklarda muğlak ve değişken biçimde betimlenir.
+- **Bilinen Kullanıcılar / Operatörler:** Imperial Navy (Gothic War öncesi); Abaddon the Despoiler ve Black Legion.
+- **Önemli Olaylar:** Gothic War; Cadia'nın düşüşü.
 
 ## Tarihçe
-Karataş Kaleleri (Blackstone Fortresses), kökeni bilinmeyen kadim xenos super-yapılarıdır; İmparatorluk tarafından geç M31'de, Gothic Sektörü'nde altı tanesi keşfedildi. İlk incelemeler yaşlarını 17.000 ile 300.000 yıl arasında tahmin etti, fakat tam yapım süreçleri bilinmezliğini korur.\n\nGeniş bir kabule göre Blackstone Fortress'ler, kadim Old Ones tarafından ölümsüz yıldız tanrıları C'tan ile savaşmak üzere yaratılmıştır; bu, onları galaksinin en eski ve en gizemli savaş yapılarından biri kılar.
 
-Devasa, kara ve tehditkar siluetler olarak void'de süzülürler.\n\nTam olarak aktive edildiğinde bir Blackstone Fortress, gerçeklik (realspace) ile Warp arasındaki bariyeri kırma yeteneğine sahiptir; saf immateryumdan oluşan bir ışın yaratarak yolundaki her şeyi yok eder.
+Gothic Sektörü'ndeki Blackstone Fortress'ler, 12th Black Crusade olarak da bilinen Gothic War'da Abaddon'ın asıl hedefiydi. Abaddon bazı Fortress'leri ele geçirip onlarla dünyaları yok etti ve bunların bir kısmıyla Eye of Terror'a çekildi. 13th Black Crusade'de Fortress *Will of Eternity* Cadia'nın yüzeyine düşürüldü; çarpma pylon ağını parçaladı ve Cadia'yı fiilen yok etti.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+## Kanon Notu
+
+Chaos'a ait bir gemi sınıfı değil, ele geçirilmiş xenos yapılarıdır. *Warhammer Quest: Blackstone Fortress* (2018) başka bir Fortress'i ayrı bir anlatıda işler; ele geçirilen Fortress sayısı kaynaklarda farklı verilir.
+
+-# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Gathering Storm I: Fall of Cadia*

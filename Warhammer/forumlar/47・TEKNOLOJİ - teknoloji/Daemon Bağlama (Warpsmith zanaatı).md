@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0f/Warpsmith_2.jpg/revision/latest?cb=20121018184723
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Daemon Bağlama (Warpsmith zanaatı)
 

@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Fire Prism
 
--# *Ateş Prizması*
+Işığı kristal bir odaktan geçirip yoğunlaştıran prism cannon ile tanınan bir grav-tanktır. Tek bir güçlü ışınla ağır zırhı delebilir ya da enerjisini yayarak kalabalık hedefleri vurabilir.
 
-Aeldari'nin zarif anti-grav tankı; tek bir devasa prizma topuyla hem zırhı deler hem geniş alanı süpürür, birden çoğu ateşini birleştirebilir.
+- **Kategori:** Antigrav ağır ateş destek tankı — <#1551629126320918589>
+- **Fraksiyon:** Aeldari — Asuryani (Craftworld'ler)
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Falcon gövdesi üzerine kurulmuş, taşıma bölmesi yerine dev bir kristal silah taşıyan türev.
+- **Teknik / Biyolojik Özellikler:** Falcon kökenli gövde, antigrav tahrik ve prism cannon. Holo-field gibi Aeldari savunma sistemleriyle donatılabilir.
+- **Bilinen Kullanıcılar / Operatörler:** Craftworld Aeldari savaş ev sahipleri.
+- **Önemli Olaylar:** Kaynaklarda tek bir Fire Prism'e bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
 ## Tarihçe
-Fire Prism (Ateş Prizması), Aeldari'nin (Eldar craftworld'lerinin) en zarif ve en güçlü ana savaş tanklarından biridir; insan tanklarının kaba, köşeli hantallığının aksine, akıcı, anti-grav bir gövdeye ve eşsiz bir silaha sahiptir. Aeldari teknolojisinin hem güzelliğini hem ölümcüllüğünü temsil eder.
 
-Fire Prism'in kalbi, adını aldığı prizma topudur; bu silah, bir kristal-lazer enerjisini devasa bir prizmadan geçirerek odaklar. En büyük avantajı, çok yönlülüğüdür: enerji huzmesi, tek bir noktaya odaklanıp en ağır düşman zırhını bile delecek dar, yıkıcı bir ışına dönüştürülebilir; ya da geniş bir alana yayılıp bir piyade grubunu süpüren geniş bir patlamaya çevrilebilir. Aynı tank, görevine göre tank avcısı ya da piyade biçici olur.
+Craftworld ev sahiplerinin zırh avcısı ve ağır ateş desteği olarak kullanılır. Birden fazla Fire Prism'in ışınlarını birbirine aktararak tek bir yıkıcı atışta birleştirebildiği anlatılır; bu, Aeldari savaş sanatının kolektif inceliğini yansıtır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Aeldari — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>

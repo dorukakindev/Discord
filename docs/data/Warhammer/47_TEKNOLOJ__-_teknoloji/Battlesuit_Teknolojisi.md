@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4d/XV8_7.jpg/revision/latest?cb=20130114051143
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Battlesuit Teknolojisi
 

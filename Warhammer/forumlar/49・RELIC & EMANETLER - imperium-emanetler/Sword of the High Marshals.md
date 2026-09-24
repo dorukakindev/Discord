@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/6/62/Helbrecht6.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Sword of the High Marshals
 

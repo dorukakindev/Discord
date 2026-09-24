@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Tyranid Araclari · Kayıt
 # Harpy
 
--# *Harpy (Tyranid Uçar-Biyoformu)*
+Geniş zarlı kanatlarıyla savaş alanının üzerinde süzülen ve düşman hatlarının üzerine spore mine bırakan bir organizmadır. Tiz, delici çığlığı, altındaki savunucuları sarsıp dağıtmak için kullanılır.
 
-Tyranid sürüsünün uçar biyoformu; geniş kanatlarıyla süzülerek alttan spor mayınları bırakır ve biyo-toplarıyla cepheyi tarar.
+- **Kategori:** Uçan savaş organizması — <#1551629131161149510>
+- **Fraksiyon:** Tyranids
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Hive Fleet'lerin biyolojik üretiminden gelen, Harridan ile akraba kanatlı bir organizma. Bir uçak değil, canlı bir yırtıcıdır.
+- **Teknik / Biyolojik Özellikler:** Zarlı kanatlar, çığlık organları, spore mine bırakan keseler ve canlı silah organları.
+- **Bilinen Kullanıcılar / Operatörler:** Hive Fleet'ler.
+- **Önemli Olaylar:** Kaynaklarda tek bir Harpy'ye bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Harpy ile daha büyük Harridan ayrı organizmalardır; kaynaklar ikisini akraba biçimler olarak sunar.
 
 ## Tarihçe
-Harpy, Tyranid Hive Mind'ının uçar bir savaş biyoformudur; gökyüzü sürüsünün (Skyswarm) bir parçası olarak, kanatlı bir ölüm habercisidir. Daha küçük akrabası Gargoyle'dan belirgin biçimde daha büyük ve daha güçlüdür; havadan saldıran bir Trygon'a kabaca denk gelir. Tamamen canlı, kanatlı bir biyolojik silahtır.
 
-Harpy'nin saldırı tarzı, alçaktan süzülüp ölüm yağdırmaktır; düşman mevzilerinin üzerinden geçerken, alt gövdesindeki şişkin keselerden spor mayınları bırakır ve aynı anda ön kollarına kaynaşmış biyo-toplarıyla (twin stranglethorn cannon ya da heavy venom cannon) cepheyi tarar. Bazı Harpy'lerin kaburgalarında dikenli sıralar ve Stinger Salvo denen ek atış sistemleri bulunur.
+Harpy'ler Tyranid istilalarında hava akınlarının parçası olarak anlatılır; savunma hatlarını yıpratmak, piyadeyi sersemletmek ve ağır organizmaların ilerleyişi için yolu açmak görevini üstlenir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Tyranids — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759780211589197>, <#1551815033518948404>

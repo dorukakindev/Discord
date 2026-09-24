@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Tau Araclari · Kayıt
 # Devilfish
 
--# *Devilfish Taşıyıcı*
+Fire Warrior takımlarını cepheye taşıyan, drone'larla desteklenen bir antigrav taşıyıcıdır. T'au'nun mekanize ve hareketli savaş anlayışında piyadenin hızla konumlanması bu araca dayanır.
 
-Tau'nun anti-grav birlik taşıyıcısı; bir Fire Warrior takımını hızla cepheye indirir ve drone'larıyla destekler.
+- **Kategori:** Antigrav zırhlı piyade taşıyıcı — <#1551629130137608262>
+- **Fraksiyon:** T'au Empire
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Earth caste (Fio) mühendisliğinin ürünü; Hammerhead ve Sky Ray ile ortak bir gövde ailesini paylaşır.
+- **Teknik / Biyolojik Özellikler:** Antigrav tahrik, gövde silahı, bağlanabilen gun drone'lar ve arka taşıma bölmesi.
+- **Bilinen Kullanıcılar / Operatörler:** T'au Fire caste (Shas) kuvvetleri; T'au Sept'leri.
+- **Önemli Olaylar:** Kaynaklarda tek bir Devilfish'e bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
 ## Tarihçe
-Devilfish, Tau İmparatorluğu'nun temel anti-grav birlik taşıyıcısıdır; Tau'nun hareketli, mesafeli ve teknolojik savaş doktrininin omurgasını oluşturur. Tau Ateş Kastı'nın (Fire Caste) askerlerini (Fire Warrior'ları) savaş alanında hızla konumlandırmak için tasarlanmıştır.
 
-Devilfish, bir Fire Warrior takımını hızla cepheye taşır ve burst cannon'ı ile destek ateşi sağlar; üzerindeki Gun Drone'lar (silahlı insansız hava araçları) ek koruma ve ateş gücü verir. Anti-grav teknolojisiyle zorlu arazide bile hızlı ve düzgün hareket eder; Tau'nun "doğru konumdan vur, sonra konum değiştir" felsefesini destekler.
+Devilfish, T'au kuvvetlerinin standart taşıyıcısı olarak Fire caste harekâtlarının ayrılmaz parçasıdır. Aynı gövdenin farklı rollere uyarlanması, Earth caste'in pratik ve modüler tasarım anlayışını yansıtır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: T'au Empire — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>

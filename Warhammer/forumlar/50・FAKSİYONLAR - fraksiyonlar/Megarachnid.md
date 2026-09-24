@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/4/45/Megarachnid.jpg
+
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Megarachnid
 

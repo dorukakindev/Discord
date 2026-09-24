@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/77/Officio_Assassinorum_symbol_2.png/revision/latest?cb=20110920234530
+
 -# THE IMPERIAL ARCHIVE · V Kayıtları · Kayıt
 # Venenum Tapınağı
 

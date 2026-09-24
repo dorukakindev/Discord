@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Gundrone.jpg/revision/latest?cb=20130220073334
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Drone'lar
 

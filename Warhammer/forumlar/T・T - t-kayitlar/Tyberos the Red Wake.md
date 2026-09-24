@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/d/d1/Tyberosp8.jpg
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 # Tyberos the Red Wake
 

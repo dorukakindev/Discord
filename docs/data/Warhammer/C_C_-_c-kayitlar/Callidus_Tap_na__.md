@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/14/Callidus_Temple_Icon.jpg/revision/latest?cb=20150601183015
+
 -# THE IMPERIAL ARCHIVE · C Kayıtları · Kayıt
 # Callidus Tapınağı
 

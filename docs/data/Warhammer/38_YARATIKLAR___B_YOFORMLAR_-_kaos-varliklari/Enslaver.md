@@ -1,24 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Enslaver
 
-Bir Enslaver'ın asıl silahı zihindir: çevresindeki canlıların iradesini ele geçirip onları kukla gibi yönetir. Bir Enslaver salgını, bir dünyanın halkını kendi iradesi olmayan bir sürüye çevirebilir.
+Enslaver'lar, psyker'ları geçit olarak kullanarak fiziksel âleme sızan ve canlıları iradesiz kuklalara çeviren psişik parazitlerdir. Kaynaklar onları şişkin, etli bir gövde, tek bir göz ve dokunaçlarla tasvir eder.
 
-- **Kategori:** Warp paraziti — <#1551629172386955308>
-- **Fraksiyon:** Fraksiyonsuz (Warp varlığı)
-- **Dönem:** War in Heaven döneminden itibaren anılır
-- **Köken:** Enslaver'lar, Warp'ta var olan ve maddi evrene ancak bir psyker'ın zihnini geçit olarak kullanarak ulaşabilen psişik varlıklardır. Dört Chaos God'un daemon'larından ayrı bir tehdit olarak anlatılırlar.
-- **Teknik / Biyolojik Özellikler:** Psişik tahakküm; maddi evrene geçmek için psyker'lara bağımlılık. Imperial kayıtlarda son derece tehlikeli olarak işaretlenir.
-- **Bilinen Kullanıcılar / Operatörler:** Hiçbir fraksiyon tarafından kullanılmaz; bütün türler için tehdittir.
-- **Önemli Olaylar:** Enslaver Plague ve Old Ones'un çöküşü.
+- **Kategori:** Xenos / Warp varlığı — tip kaydı
+- **Fraksiyon:** Bağımsız; hiçbir uygarlığa bağlı değildir
+- **Dönem:** War in Heaven'dan günümüze uzanan kayıtlar
+- **Köken:** Kaynaklarda Warp'ın savaşta silah olarak kullanılmasının öngörülemeyen sonuçlarıyla ilişkilendirilir.
+- **Teknik / Biyolojik Özellikler:** Psyker'ları geçit olarak kullanma ve canlıların iradesini ele geçirme yeteneği.
+- **Bilinen Kullanıcılar / Operatörler:** Kimse tarafından kullanılmaz; kurbanları iradesiz kuklalara dönüşür.
+- **Önemli Olaylar:** Enslaver Plague.
+- **Kanon Notu:** Enslaver'lar ağırlıklı olarak eski yayınlarda işlenmiştir; güncel kanondaki yerleri sınırlı ayrıntıyla verilir.
 
 ## Tarihçe
 
-Kaynaklarda **Enslaver Plague**, War in Heaven'ın sonlarında Old Ones'un Warp'ı silah gibi kullanmasının yol açtığı felaketlerin en bilineni olarak anılır ve Old Ones'un çöküşündeki etkenler arasında sayılır.
+War in Heaven'ın son dönemine ilişkin anlatılarda Warp'ın silah gibi kullanılması, en iyi bilineni Enslaver Plague olan felaketlere yol açmıştır: bu salgında Enslaver'lar psyker'ları canlı birer geçide dönüştürüp bütün dünyaların nüfusunu zihinsel olarak boyunduruk altına almıştır. Güncel kaynaklarda nadiren ayrıntılandırılsalar da evrenin kadim tehditlerinden biri olarak anılmayı sürdürürler.
 
-## Kanon Notu
-
-Enslaver'lar Rogue Trader döneminde ayrıntılı biçimde işlenmiş, güncel kaynaklarda ise nadiren ve genel çizgilerle anılır; eski tasviri güncel ayrıntı gibi sunmamak gerekir.
-
--# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*
+-# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Codex: Necrons — 3rd Edition*
 
 -# İlişkili kayıtlar: <#1551649070286897172>, <#1551817636516470845>, <#1551809666454134928>, <#1551818131679215728>

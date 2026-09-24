@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/3/3f/Galaxy_map_unknown.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Antikef — Ithakas Dynasty crownworld'ü
 

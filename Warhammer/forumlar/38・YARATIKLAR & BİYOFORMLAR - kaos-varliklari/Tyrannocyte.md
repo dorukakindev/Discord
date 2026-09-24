@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/3/39/TyrannocyteArt.jpg
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Tyrannocyte
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/13/Battlesuit1.JPG/revision/latest?cb=20130609083051
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Crisis Battlesuit kadroları
 

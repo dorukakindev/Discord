@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Necron Araclari · Kayıt
 # Ghost Ark
 
--# *Hayalet Gemi*
+Savaş alanında düşen Necron Warrior'larını toplayan, gövdesindeki düzenekle onarıp yeniden saflara salan uğursuz bir taşıyıcıdır. Düşmanı için onun görüntüsü, zaferin bile geçici olabileceği anlamına gelir.
 
-Necron Warrior'larını taşıyan ve savaş sırasında onları onaran anti-grav araç; ürkütücü bir omurga-iskelet estetiğine sahip yüzen tabut.
+- **Kategori:** Antigrav taşıyıcı ve onarım platformu — <#1551629128736702656>
+- **Fraksiyon:** Necrons
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Doomsday Ark ile aynı iskelet gövdeyi paylaşan, silah yerine onarım ve taşıma işlevi üstlenen bir Necron aracı.
+- **Teknik / Biyolojik Özellikler:** Antigrav tahrik, açık iskeletimsi yapı, yan gauss silahları ve düşmüş Necron'ları onaran bir düzenek.
+- **Bilinen Kullanıcılar / Operatörler:** Necron Dynasty'leri.
+- **Önemli Olaylar:** Kaynaklarda tek bir Ghost Ark'a bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Onarım düzeneğinin işleyişi ayrıntılandırılmamıştır; Necron'ların kendini onarma kapasitesi ile Ghost Ark'ın işlevi karıştırılmamalıdır.
 
 ## Tarihçe
-Ghost Ark (Hayalet Gemi), Necron ordularının hem bir nakliye aracı hem de bir savaş-alanı onarım istasyonu olan ürkütücü anti-grav aracıdır; devasa, kemik benzeri kaburgalardan oluşan, açık bir omurga-iskelet estetiğine sahiptir. Yüzen bir tabut ya da bir hayalet gemisi gibi, sessizce savaş alanının üzerinde süzülür.
 
-Temel işlevi, Necron Warrior'larını (ana piyade gücünü) taşımaktır; ama bunu sıradan bir taşıyıcıdan çok daha sinsi bir biçimde yapar. Açık iskelet yapısı boyunca, Necron Warrior'lar dizilir ve gemi onları savaşın içinden geçirir. Daha da korkuncu, onarım yeteneğidir; Ghost Ark, parçalanmış ya da düşmüş Necron Warrior'ları nano-makineleriyle onarabilir ve onları yeniden ayağa kaldırabilir.
+Ghost Ark'lar Necron savaş düzeninin aşınmaya karşı direncini temsil eder.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Necrons — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>

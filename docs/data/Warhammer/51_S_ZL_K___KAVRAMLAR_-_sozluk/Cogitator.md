@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/9/92/Cogitator.jpg
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Cogitator — Düşünce Makinesi

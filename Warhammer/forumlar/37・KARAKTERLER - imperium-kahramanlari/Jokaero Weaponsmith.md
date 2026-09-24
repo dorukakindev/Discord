@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/f/f8/JokaeroArt.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Jokaero Weaponsmith
 

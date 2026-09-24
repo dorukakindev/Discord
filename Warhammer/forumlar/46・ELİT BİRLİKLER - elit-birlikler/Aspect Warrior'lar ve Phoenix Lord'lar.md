@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/83/Aspect_Warriors.jpg/revision/latest?cb=20160303112958
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Aspect Warrior'lar ve Phoenix Lord'lar
 

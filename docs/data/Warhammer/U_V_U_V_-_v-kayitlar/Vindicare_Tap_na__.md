@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/14/Vindicare_Temple_Icon.jpg/revision/latest?cb=20150601191024
+
 -# THE IMPERIAL ARCHIVE · V Kayıtları · Kayıt
 # Vindicare Tapınağı
 

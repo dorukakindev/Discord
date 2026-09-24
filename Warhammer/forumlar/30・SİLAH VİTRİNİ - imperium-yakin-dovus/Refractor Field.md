@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/8/8a/RefractorFieldGenerator.jpg
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Refractor Field
 

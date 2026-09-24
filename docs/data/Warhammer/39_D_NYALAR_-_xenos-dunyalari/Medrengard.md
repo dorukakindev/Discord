@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/2/2b/Galaxy-Rift-Obscurus.jpg
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Medrengard — Medrengard

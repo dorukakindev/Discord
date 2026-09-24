@@ -1,13 +1,26 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7c/RubricDust.png/revision/latest/scale-to-width-down/626?cb=20180214015840
+https://static.wikia.nocookie.net/warhammer40k/images/7/7c/RubricDust.png/revision/latest?cb=20180214015840
 
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Inferno Bolt
 
--# *Cehennem Boltu*
+Üzerine büyülü işaretler kazınmış, Warp ateşiyle yüklenmiş bolt mermileridir. Hedefe çarptığında sıradan bir patlamadan öte, zırhı ve eti yakıp eriten büyülü bir alevle etki eder.
 
-Rubric Marine bolterlerine sürülen büyülü mühimmat; Tzeentch'in warp ateşini taşır, zırhı fiziği umursamadan eritir ve ruhu da yakar.
+- **Kategori:** Özel mühimmat / büyülü bolt mermisi — <#1551628867939078274>
+- **Fraksiyon:** Chaos (Thousand Sons)
+- **Dönem:** Rubric of Ahriman'dan Era Indomitus'a
+- **Köken:** Thousand Sons'ın sorcerer'larına ve Tzeentch'in lütfuna bağlanan bir mühimmattır; ilk üretimi kanonda ayrıntılandırılmaz.
+- **Bilinen Kullanıcılar / Operatörler:** Thousand Sons Rubric Marine'leri ve Scarab Occult Terminator'ları.
+- **Önemli Olaylar:** Rubric of Ahriman ve sonrasında Thousand Sons'ın savaşları.
+- **Kanon Notu:** Mermilerin tam olarak nasıl yapıldığı kanonda açıklanmamıştır.
 
 ## Tarihçe
-Inferno Bolt bir silah değil, lanetli bir mühimmat türüdür. Thousand Sons lejyonunun toz haline gelmiş Rubric Marine'leri bolterlerini bu büyü işlenmiş boltlarla doldurur. Her mermi, Tzeentch'in warp ateşini taşır: isabet ettiği zırhı fiziksel kurallara aldırmadan eritir ve kurbanın hem bedenini hem ruhunu yakar. Mavi-yeşil alevlerle iz bırakan bu mermiler, Prospero büyücülerinin bin yıllık kin ve bilgisinin ürünüdür.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Ahriman'ın Rubric'i Thousand Sons'ın psişik olmayan savaşçılarını zırhlarının içinde toza çevirip ruhlarını zırha bağladıktan sonra, Rubric Marine'ler inferno bolt ateşleyen silahlarla savaşmaya başladı. Thousand Sons'ın Long War boyunca yürüttüğü seferlerde bu mermiler Legion'un simgelerinden biri olmuştur.
+
+## Teknik / Biyolojik Özellikler
+
+Mermi bolt ilkesine dayanır; asıl yıkım, ona işlenen Warp enerjisinden gelir. Rubric Marine'lerin yanı sıra Scarab Occult Terminator'ları gibi birlikler de benzer silahlar taşır.
+
+-# Kaynaklar: *Codex: Thousand Sons*; *Ahriman: Exile — John French*
+
+-# İlişkili kayıtlar: <#1551809231580307517>, <#1551808728062501019>, <#1551647728692633643>, <#1551816657691746335>

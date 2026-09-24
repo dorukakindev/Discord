@@ -1,11 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Warscythe
 
--# *Savaş Tırpanı*
+Uzun bir sapın ucuna yerleştirilmiş geniş bir bıçaktan oluşan, Necron aristokrasisinin savaşla ve törenle özdeşleşmiş silahıdır. Bıçağını çevreleyen enerji alanı sayesinde en ağır zırhı bile yarabildiği anlatılır.
 
-Necron soylularının milyonlarca yıldır taşıdığı enerji tırpanı; güç alanlı ağzı neredeyse her maddeyi biçer ve silahın kendisi neredeyse tahrip edilemez.
+- **Kategori:** Yakın dövüş silahı / uzun saplı bıçak — <#1551629117542113372>
+- **Fraksiyon:** Necrons
+- **Dönem:** Kadim dönemden Era Indomitus'a
+- **Köken:** Necron soylularının ve muhafızlarının geleneksel silahıdır; ilk yapımı kanonda açıklanmamıştır.
+- **Teknik / Biyolojik Özellikler:** Bıçak, Necron teknolojisine özgü bir alanla desteklenir; alanın fiziksel ilkesi kanonda ayrıntılandırılmaz.
+- **Bilinen Kullanıcılar / Operatörler:** Necron Lord'ları ve Overlord'ları, Lychguard'lar.
+- **Önemli Olaylar:** Kaynaklarda tek bir olayla özdeşleşmez.
+- **Kanon Notu:** Adı konmuş tekil Necron silahları `49・RELIC & EMANETLER` altında kaydedilir.
 
+## Tarihçe
 
-## Teknik ve Kullanım
-Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Necron Lord'ları ve Overlord'ları warscythe'ı hem silah hem rütbe simgesi olarak taşır. Soyluların korumaları olan Lychguard'lar da warscythe ile savaşır; bu seçkinler efendilerine olan sadakatlerini biyotransferansın ardından bile korumuştur.
+
+-# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
+
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551809907060113460>

@@ -1,11 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Tyranid Silahlar · Kayıt
 # Fleshborer
 
--# *Et Delici*
+Bir Tyranid'in koluna tutunan ya da onunla bütünleşen, içinde etobur böcekler barındıran canlı bir silahtır. Ateşlendiğinde bu "borer" böcekleri hedefe fırlatılır; kurbanın etine gömülerek içini kemirirler ve kısa ömürleri de bu saldırıyla tükenir.
 
-Termagant sürülerinin standart biyosilahı; namlusundan diş dolu kemirgen böcekler fırlatır. Her böcek isabet ettiği yerde çiğneyerek ilerler; tek tek önemsiz, binlercesi bir dalga halinde karşı konulmazdır.
+- **Kategori:** Symbiote silah organizması — <#1551629122592182382>
+- **Fraksiyon:** Tyranids
+- **Dönem:** M41'in ikinci yarısından Era Indomitus'a
+- **Köken:** Hive Mind'ın biyolojik tasarımıdır; mekanik bir üretim söz konusu değildir.
+- **Teknik / Biyolojik Özellikler:** Silah bir yuva organizmadır; mühimmatını kendi içinde üretir ya da barındırır. Taşıyıcısıyla sinirsel ve biyolojik bir bağ kurduğu anlatılır.
+- **Bilinen Kullanıcılar / Operatörler:** Termagant'lar ve diğer küçük Tyranid organizmaları.
+- **Önemli Olaylar:** Hive Fleet Behemoth'tan Leviathan'a kadar bütün büyük Tyranid istilaları.
+- **Kanon Notu:** Tyranid silahları canlı organizmalardır; "üretildi" ya da "monte edildi" gibi mekanik ifadeler kanona uymaz.
 
+## Tarihçe
 
-## Teknik ve Kullanım
-Tyranid silahları canlı organizmalardır: biyo-toplar asit, zehir, iğne veya canlı mermi fırlatır ve her biri Hive Mind'ın kolektif tasarımının parçasıdır. Bonesword veya devourer gibi organlar kendi 'yaşam' döngüsüne sahiptir — tyranid silahı kullanıldıktan sonra beslenir, beslenemezse ölür.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Termagant sürülerinin en yaygın silahıdır. Hive Fleet'lerin istila ettiği dünyalarda sayısız Termagant'ın fleshborer atışları, Imperium savunucularının karşılaştığı ilk ve en sürekli tehditlerden biri olmuştur.
+
+-# Kaynaklar: *Codex: Tyranids — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>

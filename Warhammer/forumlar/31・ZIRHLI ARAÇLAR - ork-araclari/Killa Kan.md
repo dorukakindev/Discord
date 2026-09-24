@@ -1,16 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
-
 # Killa Kan
 
-İçine bir Grot'un mıhlandığı küçük Ork savaş yürüteci; Dreadnought'un komik ama ölümcül kuzeni.
+Ork toplumunun en altında ezilen Grot'lar için bir Killa Kan, ilk kez güç ve korku salma fırsatı demektir. Bu küçük yürüyen makineler çoğu zaman sürüler hâlinde savaşa girer.
 
-- **Kategori:** Savaş aracı
-- **Fraksiyon:** Orks
+- **Kategori:** Küçük yürüyen savaş makinesi — <#1551629127629414451>
+- **Fraksiyon:** Orks (Gretchin pilotlar)
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Mek'lerin Gretchin'ler için yaptığı, Deff Dread'den küçük yürüyen kabuklardır.
+- **Teknik / Biyolojik Özellikler:** Küçük yürüyen gövde, bir yakın dövüş kolu ve tek bir silah; Gretchin pilotu içeri kapatan kaba bir kabuk.
+- **Bilinen Kullanıcılar / Operatörler:** Ork Warband'ları; Big Mek'lerin öncülük ettiği ordular.
+- **Önemli Olaylar:** Kaynaklarda tek bir Killa Kan'a bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
 ## Tarihçe
 
-Killa Kan, Ork'ların küçük savaş yürüteçidir; Space Marine Dreadnought'unun komik ama ölümcül Ork kuzenidir. Ama önemli bir farkla: içinde onurlu bir kahraman değil, korku içinde bir kabine mıhlanmış bir Grot (küçük, zayıf, ezilen bir Ork türü) bulunur.
+Killa Kan'lar, Mek'lerin Grot'ları makineye bağlayarak çattığı ucuz fakat tehlikeli savaş araçları olarak anlatılır. İçindeki Gretchin'in elde ettiği güç, onu çoğu zaman gerçek bir Ork gibi davranmaya iter; kaynaklar bu küçük pilotların yeni güçleriyle sarhoş olduklarını vurgular.
 
-Grot pilot, genellikle bu role gönüllü olmaz; Mekboy'lar tarafından makineye bağlanır ve istese de istemese de savaşa sürüklenir. Bu, Ork toplumunun acımasız mizahının bir örneğidir; en zayıf yaratık (Grot), ölümcül bir savaş makinesine zorla yerleştirilir. Big shoota, rokkit ya da kombi-skorcha ile ateş eder, dev kıskacıyla yakında parçalar.
+-# Kaynaklar: *Codex: Orks — 10th Edition*
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>

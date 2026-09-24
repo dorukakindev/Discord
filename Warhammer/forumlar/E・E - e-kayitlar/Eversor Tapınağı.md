@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/01/Eversor_Temple_Icon.jpg/revision/latest?cb=20150601204729
+
 -# THE IMPERIAL ARCHIVE · E Kayıtları · Kayıt
 # Eversor Tapınağı
 

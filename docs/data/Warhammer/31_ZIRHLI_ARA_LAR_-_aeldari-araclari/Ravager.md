@@ -1,13 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # Ravager
 
--# *Ravager Ağır Skimmer*
+Drukhari akınlarının zırh avcısıdır. Raider'ın açık güverteli hızını korurken güvertesine birden çok ağır silah yerleştirilmiştir; düşman tanklarını ve ağır piyadesini akıncılar için temizlemek üzere savaşa girer.
 
-Raider gövdesine üç darklight topu monte edilmiş Drukhari ağır saldırı gemisi.
+- **Kategori:** Antigrav ağır ateş destek gemisi — <#1551629126320918589>
+- **Fraksiyon:** Aeldari — Drukhari
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Raider'la aynı Commorragh üretim geleneğinden gelen, taşıma yerine ağır silahlara ayrılmış bir türev.
+- **Teknik / Biyolojik Özellikler:** Hafif antigrav gövde ve dark lance ya da disintegrator cannon gibi ağır silahlar için birden fazla yuva. Zırh yerine hız ve menzille korunur.
+- **Bilinen Kullanıcılar / Operatörler:** Drukhari Kabal'ları.
+- **Önemli Olaylar:** Drukhari akınları; tek bir Ravager'a bağlanmış öne çıkan olay kaynaklarda yoktur.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
 ## Tarihçe
-Ravager, Drukhari'nin (Dark Eldar) ağır saldırı gemisi ve tank avcısıdır; Raider akın gemisinin gövdesine, taşıma kapasitesi yerine ağır silahların (üç darklight topu) monte edilmiş halidir. Drukhari'nin hız ve ölümcül ateş gücünü birleştiren bir avcı platformudur.
 
-Ravager'ın asıl gücü, üç dark lance (ya da disintegrator cannon) taşımasıdır; bu darklight silahları, ışık emen eksotik enerji fırlatır ve hedefin zırh kalınlığını neredeyse umursamaz. Bir Ravager, en kalın İmparatorluk zırhını (hatta süper ağır tankları) bile bir anda delip geçebilir; galaksinin en ölümcül anti-tank platformlarından biridir.
+Kabal'ların akın filolarında Raider'ların yanında uçar. Drukhari'nin savaşa yaklaşımında amaç çoğu zaman araziyi tutmak değil, esir almaktır; Ravager bu amaca ulaşmanın önündeki ağır engelleri kaldırır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: *Codex: Drukhari*
+
+-# İlişkili kayıtlar: <#1551997841356881980>, <#1551993959876657192>

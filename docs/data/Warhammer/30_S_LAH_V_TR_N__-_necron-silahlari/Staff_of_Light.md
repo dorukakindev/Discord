@@ -1,11 +1,21 @@
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Staff of Light
 
--# *Işık Asası*
+Hem mevki simgesi hem de enerji huzmeleri ateşleyebilen bir silah olarak kullanılan asadır. Yakın dövüşte de iş görür; ama asıl anlamı, taşıyanın Necron hiyerarşisindeki yerini göstermesidir.
 
-Hem otorite sembolü hem silah olan Necron asası; yoğunlaştırılmış yeşil enerji boltları fırlatır. Overlord'ların alametidir.
+- **Kategori:** Tören ve savaş asası — <#1551629117542113372>
+- **Fraksiyon:** Necrons
+- **Dönem:** Kadim dönemden Era Indomitus'a
+- **Köken:** Necron soylularının ve Cryptek'lerin geleneksel asasıdır; ilk yapımı kanonda açıklanmamıştır.
+- **Teknik / Biyolojik Özellikler:** Asa enerji huzmeleri yayar ve bir yakın dövüş silahı olarak kullanılabilir; enerji kaynağının niteliği kanonda ayrıntılandırılmaz.
+- **Bilinen Kullanıcılar / Operatörler:** Necron Lord'ları ve Overlord'ları, Cryptek'ler.
+- **Önemli Olaylar:** Kaynaklarda tek bir olayla özdeşleşmez.
+- **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
+## Tarihçe
 
-## Teknik ve Kullanım
-Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Necron Lord'ları, Overlord'lar ve Cryptek'ler arasında yaygındır. Necron soyluluğunun kadim görgüsü ve törenleri, biyotransferansın ardından bile bu asalarda yaşamaya devam eder.
+
+-# Kaynaklar: *Codex: Necrons — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>

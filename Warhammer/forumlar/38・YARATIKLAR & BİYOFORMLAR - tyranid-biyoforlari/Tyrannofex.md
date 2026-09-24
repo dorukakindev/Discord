@@ -1,11 +1,24 @@
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Tyrannofex
-*Tyrannofex (Yürüyen Kale-Top)*
 
-Onlarca kat kitin zırhla kaplı, gövdesine kaynaşmış dev bir biyo-top taşıyan kale-benzeri Tyranid ateş-desteği canavarı; zırhı eriten asit püskürten yürüyen bir top.
+Kalın kitin kabuğuyla yürüyen bir kale gibi ilerleyen, sırtında ve gövdesinde canlı silah organları taşıyan dev bir yaratıktır. Asıl işlevi, Imperial tankları ve tahkimatları gibi sert hedefleri ortadan kaldırmaktır.
 
-Tyrannofex, yalnızca yıkım yaymak için var olan, kale-benzeri devasa bir Tyranid ateş-desteği biyoformudur; sürünün en çetin savaş alanları için yetiştirilmiş, yürüyen bir silah kulesidir. Onlarca kat ablatif kitin zırhla kaplıdır ve üç çift devasa bacak üzerinde, sarsılmaz bir kale gibi ilerler.
+- **Kategori:** Dev savaş organizması (biyolojik ağır ateş desteği) — <#1551629131161149510>
+- **Fraksiyon:** Tyranids
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Hive Fleet'lerin biyolojik üretim süreçlerinde, ağır düşman hedeflerine karşı tasarlanmış bir organizmadır. Bir araç değil, canlıdır; "araç" adlandırması yalnızca forum düzenine aittir.
+- **Bilinen Kullanıcılar / Operatörler:** Hive Fleet'ler; Hive Mind'ın yönettiği Tyranid istila kuvvetleri.
+- **Önemli Olaylar:** Kaynaklarda tek bir Tyrannofex'e bağlanmış öne çıkan olay yoktur.
+- **Kanon Notu:** Tyranid organizmalarının biyolojik işleyişi kaynaklarda genel çizgilerle anlatılır; mekanik bir kökene ya da üretim hattına bağlanmaz.
 
-Tyrannofex'in ana silahı, gövdesine kaynaşmış muazzam bir biyo-toptur; bir Bio-Titan dışında hiçbir Tyranid biyoformunun taşıdığından daha büyük ve daha yıkıcı silahlar arasındadır. Bu canlı top, sürünün düşmanlarına ağır ve sürekli bir ateş yağdırır; zırhlı araçları ve tahkimatları bile söküp atabilir.
+## Tarihçe
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Tyrannofex, Hive Mind'ın karşılaştığı direnişe göre savaş organizmalarını uyarlamasının bir örneği olarak anlatılır. Zırhlı araçlara ve tahkimatlara dayanan savunmalar karşısında Hive Fleet'ler bu tür ağır organizmaları sahaya sürer.
+
+## Teknik / Biyolojik Özellikler
+
+Kalın kitin kabuk ve ağır biyolojik silahlar: rupture cannon, asit püskürten organlar ya da canlı mermi üreten silah sürüleri. Silahları yaratığın bedeninin parçasıdır.
+
+-# Kaynaklar: *Codex: Tyranids — 10th Edition*
+
+-# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>

@@ -1,3 +1,5 @@
+https://wh40k.lexicanum.com/mediawiki/images/d/dc/Waaghaz-kommando1.jpg
+
 -# THE IMPERIAL ARCHIVE · K Kayıtları · Kayıt
 # Ork Kommandos
 
