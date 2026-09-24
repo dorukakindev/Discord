@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ea/BlackCrusades3.jpg/revision/latest?cb=20130831031102
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Black Crusades (yönlendirme kaydı)
 

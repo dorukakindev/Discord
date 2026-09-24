@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/67/Angels_Vengeance_Armorial.png/revision/latest?cb=20220817212923
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Angels of Vengeance
 

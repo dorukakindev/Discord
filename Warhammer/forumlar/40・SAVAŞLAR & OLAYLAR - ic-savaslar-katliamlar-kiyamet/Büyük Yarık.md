@@ -28,3 +28,5 @@ Büyük Yarık, 10.000 yıllık statükonun sonu ve yeni bir kâbus çağının 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
 
 https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest?cb=20170903200334
+
+https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest?cb=20170903200334

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d2/Cegorach2.png/revision/latest?cb=20230703073412
+
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Cegorach (Laughing God)
 

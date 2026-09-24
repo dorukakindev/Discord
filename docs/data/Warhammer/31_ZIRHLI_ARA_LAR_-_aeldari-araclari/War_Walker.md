@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/48/SH_Walker2.png/revision/latest?cb=20150511055415
+
 -# THE IMPERIAL ARCHIVE · Aeldari Araclari · Kayıt
 # War Walker
 

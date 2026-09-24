@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Bolter_Baal-Pattern_Ultima.jpg/revision/latest?cb=20140102222913
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Bolter
 

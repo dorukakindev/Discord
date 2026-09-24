@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Kroot2.jpg/revision/latest?cb=20100706070107
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Kroot
 *Kroot Carnivore*

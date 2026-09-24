@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d7/NL_Atrementar_Terminator_Aran_Vastak.png/revision/latest?cb=20231201092050
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Atramentar
 

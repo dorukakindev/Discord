@@ -10,6 +10,8 @@ Techmarine'in kimliğini belirleyen şey **çifte yemin**dir. Teknik yeteneği v
 
 Bu ikili konum hem bir köprü hem de bir gerilim kaynağıdır. Mechanicus'un sırlarını Chapter'a taşıyan Techmarine, aynı zamanda iki farklı inanç ve çıkar sisteminin arasında durur. Bu gerilim çoğu zaman sessiz bir denge içinde yaşanır; ama Chapter ile Mars karşı karşıya geldiğinde Techmarine'in vicdanının hangi yöne ağır basacağı açık bir soru olarak kalır.
 
+https://static.wikia.nocookie.net/warhammer40k/images/5/53/Techmarine_Harkus.jpg/revision/latest?cb=20140304071953
+
 Tipik bir Techmarine, sırtına bağlı **servo-harness** ya da servo-arm'larla, beraberinde çalışan servitor'larla ve giderek artan bionic parçalarla tasvir edilir. Pek çok tasvirde zırhında Mars'ın kızılı yer alır; bu renk kullanımı Chapter'dan Chapter'a değişir.
 ---MSG---
 ## Tarihçe ve Chapter'lar Arası Farklar

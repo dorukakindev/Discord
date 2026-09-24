@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/64/BTWhirlwind.JPG/revision/latest?cb=20130929064336
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Whirlwind
 

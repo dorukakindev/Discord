@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8c/PsychneueinLiberXenologis.png/revision/latest?cb=20220707192637
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Psychneuein
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Lunar-class.jpg/revision/latest?cb=20130407031627
+
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Lunar-class Cruiser
 

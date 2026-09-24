@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/11/Executioners_Livery.jpg/revision/latest?cb=20170919210120
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Executioners
 

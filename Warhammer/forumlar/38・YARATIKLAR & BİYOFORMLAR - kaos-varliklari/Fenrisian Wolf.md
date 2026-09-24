@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Fenrisian_Wolves.jpg/revision/latest?cb=20120427194943
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Fenrisian Wolf
 

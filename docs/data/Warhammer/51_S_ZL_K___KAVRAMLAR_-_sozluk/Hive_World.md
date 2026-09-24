@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/26/Hive_city.jpg/revision/latest?cb=20101226205931
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Hive World
 *Kovan Dünya*

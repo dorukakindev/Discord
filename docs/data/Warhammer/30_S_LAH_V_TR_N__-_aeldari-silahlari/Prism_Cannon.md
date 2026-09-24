@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f6/Eldar_Fire_Prism.jpg/revision/latest?cb=20130626064126
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Prism Cannon
 

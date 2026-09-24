@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fb/KillaKanMob.png/revision/latest?cb=20240530140016
+
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
 # Killa Kan
 

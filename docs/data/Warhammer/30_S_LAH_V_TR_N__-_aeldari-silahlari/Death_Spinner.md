@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/29/Death_Spinner2.png/revision/latest?cb=20130826111326
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Death Spinner
 

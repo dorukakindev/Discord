@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0b/Mortarion-WD-Sep.jpg/revision/latest?cb=20170912173015
+
 -# THE IMPERIAL ARCHIVE · Chaos Emanetler · Kayıt
 # Silence
 *Sessizlik (Mortarion'un Tırpanı)*

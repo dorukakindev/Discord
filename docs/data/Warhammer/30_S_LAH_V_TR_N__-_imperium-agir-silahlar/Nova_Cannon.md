@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9d/NovaCannon.jpg/revision/latest?cb=20180416190226
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Nova Cannon
 

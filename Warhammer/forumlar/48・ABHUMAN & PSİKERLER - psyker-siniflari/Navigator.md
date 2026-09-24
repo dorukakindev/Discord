@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Navigator_2.jpg/revision/latest?cb=20121226092726
+
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Navigator
 *Navigatör, Üçüncü Gözle Warp'ta Yol Bulan Mutant Soy*

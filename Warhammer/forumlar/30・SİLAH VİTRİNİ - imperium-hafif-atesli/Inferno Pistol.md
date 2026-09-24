@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/97/Inferno_Pistol_%27Melta%27_Pattern.jpg/revision/latest?cb=20121129173330
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Inferno Pistol
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fd/Crimson_Slaughter_SP.png/revision/latest?cb=20170817000312
+
 -# THE IMPERIAL ARCHIVE · Hain Ve Kayip Bolumler · Kayıt
 # Crimson Slaughter
 

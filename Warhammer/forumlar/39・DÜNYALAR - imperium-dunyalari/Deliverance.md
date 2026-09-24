@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/45/Deliverance.png/revision/latest?cb=20200422111801
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
 # Deliverance — Deliverance (Lycaeus)

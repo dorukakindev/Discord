@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ac/HadesAutocannon00.jpg/revision/latest?cb=20130321230056
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Hades Autocannon
 

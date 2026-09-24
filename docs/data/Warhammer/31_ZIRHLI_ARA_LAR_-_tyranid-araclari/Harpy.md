@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Harpy-0.png/revision/latest?cb=20160103163239
+
 -# THE IMPERIAL ARCHIVE · Tyranid Araclari · Kayıt
 # Harpy
 

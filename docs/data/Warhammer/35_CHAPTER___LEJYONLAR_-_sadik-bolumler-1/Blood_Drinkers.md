@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4a/BloodDrinkersBadge.jpg/revision/latest?cb=20171212180633
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Blood Drinkers
 

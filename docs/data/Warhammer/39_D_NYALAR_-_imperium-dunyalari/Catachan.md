@@ -1,6 +1,8 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/66/Catachan2.jpg/revision/latest?cb=20120406222234
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Catachan — Catachan
+# Catachan
 
 Her bitki ve hayvanın öldürmeye programlı olduğu efsanevi cangıl ölüm dünyası; hayatta kalanlar galaksinin en sert gerilla askerlerini oluşturur.
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/30/SaintLucia.png/revision/latest?cb=20260225151716
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Lucia
 *Aziz Lucia*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg/revision/latest?cb=20111203004542
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Raven Guard
 

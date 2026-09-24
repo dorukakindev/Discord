@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Wraithguard.jpg/revision/latest?cb=20111129080556
+
 -# THE IMPERIAL ARCHIVE · Diger Xeno Yaratiklar · Kayıt
 # Wraithguard
 *Hayalet Muhafız (Wraithguard)*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Red_Corsairs_SP.png/revision/latest?cb=20180709210013
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Red Corsairs
 

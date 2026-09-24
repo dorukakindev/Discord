@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Plague_Planet.png/revision/latest?cb=20170323140301
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Plague Planet — Daemon World (Eye of Terror)
 

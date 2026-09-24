@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Thunder_Weapon.jpg/revision/latest?cb=20121220090414
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Thunder Hammer
 

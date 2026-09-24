@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/22/ArmourofFate.jpg/revision/latest?cb=20170620230955
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Armour of Fate
 

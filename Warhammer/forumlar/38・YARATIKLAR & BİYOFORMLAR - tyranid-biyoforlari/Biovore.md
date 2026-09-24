@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Tyranid_Biovore.jpg/revision/latest?cb=20100330105709
+
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Biovore
 

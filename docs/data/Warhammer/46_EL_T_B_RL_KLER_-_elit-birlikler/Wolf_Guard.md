@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/36/SW_Wolf_Guard.png/revision/latest?cb=20140812174653
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Wolf Guard
 

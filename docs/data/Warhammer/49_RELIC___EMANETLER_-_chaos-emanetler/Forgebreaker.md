@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/25/Ferrus-manus1_%281%29.jpg/revision/latest?cb=20130921001335
+
 -# THE IMPERIAL ARCHIVE · Chaos Emanetler · Kayıt
 # Forgebreaker
 *Demir Kıran*

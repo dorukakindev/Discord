@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/77/Storm_Wardens_Livery.jpg/revision/latest?cb=20170128020915
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 2 · Kayıt
 # Storm Wardens
 

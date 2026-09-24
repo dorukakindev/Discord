@@ -10,4 +10,6 @@ Juggernaut, Kaos Tanrısı Khorne'un iblis binekleridir; Kan Tanrısı'nın en k
 
 Juggernaut'lar, savaşın en ham anlarını, ezici gücün her şeye hükmettiği ve yalnızca en güçlünün, en dayanıklının hayatta kalabildiği o anları bedenler. Hücum ettiğinde, devasa uzuvları yeri sarsarak yere iner ve yaratığı şaşırtıcı bir güçle ileri sürer; önüne çıkan her şeyi ezer, boynuzlarıyla deler ve çiğneyip geçer. Hareket halindeki bir Juggernaut'u durdurmak, bir tankı çıplak elle durdurmaya benzer.
 
+## Khorne'un Koçbaşı
+Juggernaut'lar, Khorne'un metal ve et karışımı savaş canavarlarıdır — devasa, boynuzlu, çelikten kaburgalı yaratıklar; hem binek hem silahtır. Khorne'un Bloodletter'ları ve Bloodcrusher'ları üzerlerine biner; duvarları ezen, barikatları parçalayan bir hücum koçu olarak hareket ederler. Tamamen Khorne'un demiridir: sıcak kan damlatan, bronz dişli, kasları metal tellerden örülü. Ölümcül darbeler onları durdurmaz — ancak başları kesildiğinde ya da tamamen parçalandığında dururlar. Khorne'un en sevdiği "hediye" budur: bir savaşçıya Juggernaut bineği, kanlı hizmetin ödülüdür.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

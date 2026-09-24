@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e4/Cato_4.png/revision/latest?cb=20131222214152
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Plasma Pistol
 

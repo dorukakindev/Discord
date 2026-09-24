@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/55/SW_Lascannon.png/revision/latest?cb=20140810205557
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Lascannon
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c8/Ulthwe_icon.jpg/revision/latest?cb=20100709014527
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Ulthwé — Craftworld ("the Damned")
 

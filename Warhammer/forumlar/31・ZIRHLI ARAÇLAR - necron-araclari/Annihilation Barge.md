@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/20/AnnihilationBarges2.JPG/revision/latest?cb=20130614064524
+
 -# THE IMPERIAL ARCHIVE · Necron Araclari · Kayıt
 # Annihilation Barge
 

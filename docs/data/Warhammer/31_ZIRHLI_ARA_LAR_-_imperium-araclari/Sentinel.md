@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a9/IA_Airborne_Sentinel.jpg/revision/latest?cb=20160215022410
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Sentinel
 

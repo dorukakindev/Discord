@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/27/Astral_Claws_SP.jpg/revision/latest?cb=20110401033648
+
 -# THE IMPERIAL ARCHIVE · Hain Ve Kayip Bolumler · Kayıt
 # Astral Claws
 

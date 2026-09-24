@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Njal_Stormcaller_Power_Armour.jpg/revision/latest?cb=20140908173800
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Njal Stormcaller
 *Fırtına Çağıran*

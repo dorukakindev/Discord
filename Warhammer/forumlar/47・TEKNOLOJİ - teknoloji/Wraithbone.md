@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/EldarCraftworld.jpg/revision/latest?cb=20111026031954
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Wraithbone
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0e/Imperial_Psyker2.jpg/revision/latest?cb=20140206052926
+
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Sanctioned Psyker
 *Onaylanmış Psyker, Eğitilip Zincirlenmiş Cadı*

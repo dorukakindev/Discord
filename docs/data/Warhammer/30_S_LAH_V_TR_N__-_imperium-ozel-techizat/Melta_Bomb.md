@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b6/AeldariMeltaBomb.PNG/revision/latest?cb=20180523220128
+
 -# THE IMPERIAL ARCHIVE · Imperium Ozel Techizat · Kayıt
 # Melta Bomb
 

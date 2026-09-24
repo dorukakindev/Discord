@@ -1,6 +1,6 @@
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
-# Octarius — Octarius
+# Octarius
 
 Inquisition'ın bir Tyranid hive fleet'ini bir Ork imparatorluğunun üzerine salarak iki tehdidi birbirine kırdırmaya çalıştığı bölge.
 

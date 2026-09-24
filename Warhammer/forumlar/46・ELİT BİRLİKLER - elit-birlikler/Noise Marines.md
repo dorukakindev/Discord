@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9e/NoiseMarinesMinis10thEdition1.jpg/revision/latest?cb=20250304164154
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Noise Marines
 

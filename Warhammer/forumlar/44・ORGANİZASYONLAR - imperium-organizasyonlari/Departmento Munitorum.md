@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/31/Administratum_Symbol.jpg/revision/latest?cb=20130312233824
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Departmento Munitorum
 *Munitorum (Savaş Lojistiği Dairesi)*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/06/Chimera01.png/revision/latest?cb=20120320000614
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Chimera
 

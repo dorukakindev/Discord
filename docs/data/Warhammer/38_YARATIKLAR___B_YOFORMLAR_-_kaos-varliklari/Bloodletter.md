@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/02/Bloodletter_b%26w_sketch.jpg/revision/latest?cb=20130321232622
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Bloodletter
 

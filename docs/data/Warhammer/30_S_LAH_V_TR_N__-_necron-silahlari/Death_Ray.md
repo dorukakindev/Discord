@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f8/M2390160a_99120110023_Doomscythe06_873x627.jpg/revision/latest?cb=20130402065110
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Death Ray
 

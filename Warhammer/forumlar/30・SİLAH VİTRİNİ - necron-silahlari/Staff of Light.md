@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/47/Staff_of_Light_colour.jpg/revision/latest?cb=20130410124946
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Staff of Light
 

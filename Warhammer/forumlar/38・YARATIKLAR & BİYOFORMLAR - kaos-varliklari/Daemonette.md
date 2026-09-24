@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ea/Daemonette_of_--Slaanesh--.jpg/revision/latest?cb=20170110220135
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Daemonette
 

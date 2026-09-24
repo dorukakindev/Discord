@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/11/Warhammer_40%2C000_Grim_Dark_Lore_Part_15_%E2%80%93_Bearer_of_the_Word/revision/latest?cb=20200608214004
+
 -# THE IMPERIAL ARCHIVE · Chaos Karakterleri · Kayıt
 # Erebus
 

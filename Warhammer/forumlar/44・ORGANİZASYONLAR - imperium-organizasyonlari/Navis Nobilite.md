@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/69/Navis_Nobilite_Icon.jpg/revision/latest?cb=20140526093722
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Navis Nobilite
 *Navigator Hanedanları*

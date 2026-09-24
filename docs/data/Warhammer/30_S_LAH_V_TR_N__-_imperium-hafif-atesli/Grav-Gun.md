@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Grav-Gun.png/revision/latest?cb=20131006151423
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Grav-Gun
 

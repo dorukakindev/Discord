@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/aa/Necron_Lord_%26_Warriors.jpg/revision/latest?cb=20110928212942
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Necrodermis
 

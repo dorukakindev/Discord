@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/87/BaleswordBlightlordTerminator.jpg/revision/latest?cb=20180126224907
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Balesword
 

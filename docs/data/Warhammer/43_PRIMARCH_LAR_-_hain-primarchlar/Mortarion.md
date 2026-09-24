@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Mortarion%2C_Prince_of_Decay.jpg/revision/latest?cb=20110312202131
+
 -# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Mortarion
 *Solgun Kral*
@@ -8,4 +10,6 @@ Mortarion, zehirli sislerle kaplı, ölümcül bir gezegen olan Barbarus'a düş
 
 Barbarus'un sıradan insanlarını bu cadı-lordlardan kurtarmaya adadı kendini ve teker teker onları devirdi; ama üvey babası olan en güçlü lordu tek başına yenmeye çalışırken zehir onu alt etmek üzereyken İmparator araya girip işi bitirdi. Mortarion, gücünü kendi başına kanıtlayamadığı için bunu bir aşağılanma olarak gördü ve otoriteye, özellikle de İmparator'a karşı derin, kalıcı bir güvensizlik besledi.
 
+## Düşüş ve Veba
+Mortarion, içindeki büyü ve psişik güçten nefret eden bir primarch idi — Barbarus'un cadı-lordları onda bu tiksintiyi doğurmuştu. Ama Davin'de ve Terra yolunda Destroyer Hive veba filosu onu paramparça etti: vebadan kaçamayan Death Guard, Nurgle'ın vaatleriyle çürümeyi kabul etti. Mortarion direndi ama sonunda oğullarını kurtarmak için teslim oldu; İblis Primarch olarak yükseldi. Bugün Plague Planet'te hüküm sürer — Barbarus'un çürümüş bir yansıması. Plague Wars'ta Ultramar'ı istila etti ve Guilliman'la karşılaştı; kuzeni Ix'a çekildi ama ölümlü düşmanının geri dönüşü, on bin yıllık nefretini yeniden alevlendirdi.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

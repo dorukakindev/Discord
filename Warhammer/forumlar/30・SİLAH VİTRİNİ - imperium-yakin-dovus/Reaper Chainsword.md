@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/39/ReaperChainsword000.png/revision/latest?cb=20171209160326
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Reaper Chainsword
 

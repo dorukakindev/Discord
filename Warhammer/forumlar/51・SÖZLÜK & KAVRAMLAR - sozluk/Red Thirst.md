@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/37/BloodAngelsRedThirst.jpg/revision/latest?cb=20200702195608
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Red Thirst
 *Kan Susuzluğu*

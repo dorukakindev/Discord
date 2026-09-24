@@ -1,6 +1,8 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/72/Inwit2.jpg/revision/latest?cb=20140410021650
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
-# Inwit — Inwit
+# Inwit
 
 Sönmekte olan kızıl bir yıldıza gelgit-kilitli, sürekli karanlık ve dondurucu buzul dünyası; Rogal Dorn'un buz kabileleri arasında yetiştiği, Imperial Fists'in ilk anavatanı.
 

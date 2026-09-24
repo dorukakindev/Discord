@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/50/Accursed_Crozius.png/revision/latest?cb=20150425211102
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Accursed Crozius
 

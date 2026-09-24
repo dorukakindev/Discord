@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c4/Adeptus_Mechanicus_Icon.jpeg/revision/latest?cb=20180905094036
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Machine Spirit
 

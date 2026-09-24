@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest?cb=20130930181411
+
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Librarian
 *Kütüphaneci, Adeptus Astartes'in Psişik Savaşçısı*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ea/Manticore.jpg/revision/latest?cb=20151018213919
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Manticore
 

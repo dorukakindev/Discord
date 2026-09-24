@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Kroothound.jpg/revision/latest?cb=20180419011941
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Kroot Hound
 

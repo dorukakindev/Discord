@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bb/Prospero-0.png/revision/latest?cb=20170304155120
+
 -# THE IMPERIAL ARCHIVE · Cekismeli Dunyalar · Kayıt
 # Prospero
 *Prospero (Yıkık)*

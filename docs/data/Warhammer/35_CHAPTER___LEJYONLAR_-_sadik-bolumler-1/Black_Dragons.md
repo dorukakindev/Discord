@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bb/BlackDragonsBadge.jpg/revision/latest?cb=20240922003823
+
 -# THE IMPERIAL ARCHIVE · Sadik Bolumler 1 · Kayıt
 # Black Dragons
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Sanguinary_Guard.jpg/revision/latest?cb=20250623043802
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Sanguinary Guard
 

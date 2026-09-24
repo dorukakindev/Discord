@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Shadowsword_02.png/revision/latest?cb=20120130013831
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Shadowsword
 

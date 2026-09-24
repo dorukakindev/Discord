@@ -10,4 +10,6 @@ Terra Kuşatması, Horus Heresy'nin doruğu ve insanlık tarihinin en belirleyic
 
 Rogal Dorn'un tasarladığı, milyon kilometrelik İmparatorluk Sarayı surları aylarca kanla dövüldü; tarihin en büyük kuşatması yaşandı. Sayısız Astartes, Custodes, Titan ve trilyonlarca insan asker öldü. İmparator, son ana kadar gizemli bir biçimde geri durdu (belki Webway'i koruyor, belki oğlunu öldürmek istemiyordu).
 
+## Son Perde
+Heresy'nin doruğu: hain lejyonlar Terra'ya ulaştığında Dorn'un İmparatorluk Sarayı, galaksi tarihinin en büyük tahkimatına dönüşmüştü. Aylarca süren bombardıman ve kuşatma Eternity Kapısı'nda kırıldı — Sanguinius orada tek başına Ka'Bandha'yı durdurdu. Horus, son kozunu oynadı: Vengeful Spirit'in kalkanlarını indirip İmparator'u gemisine çekti. İmparator, Sanguinius ve Dorn ile çıkarma yaptı; Sanguinius öldü, İmparator Horus'u tamamen yok etti ama ölümcül yaralandı. Golden Throne'a bağlanması, İmparatorluk'un canlı cenaze hâline dönüşmesinin başlangıcıydı.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

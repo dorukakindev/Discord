@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Trazyn.png/revision/latest?cb=20130421042952
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Empathic Obliterator
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/GalvanicRifle.png/revision/latest?cb=20170625015537
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Galvanic Rifle
 

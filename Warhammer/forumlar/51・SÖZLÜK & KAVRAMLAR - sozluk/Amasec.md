@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3a/AmasecNecromunda.jpg/revision/latest?cb=20250929141557
+
 -# THE IMPERIAL ARCHIVE · Sözlük · Kavram
 # Amasec
 

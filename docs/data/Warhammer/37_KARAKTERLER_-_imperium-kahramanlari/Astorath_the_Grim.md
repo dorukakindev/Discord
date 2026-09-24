@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/36/AstoraththeGrim2.jpg/revision/latest?cb=20250106180716
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Astorath the Grim
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Hive_Tyrant_1.png/revision/latest?cb=20140304224106
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Hive Tyrant
 

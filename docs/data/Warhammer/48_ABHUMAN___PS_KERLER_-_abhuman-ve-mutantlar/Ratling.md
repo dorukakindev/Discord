@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Ratling2.jpg/revision/latest?cb=20120704020454
+
 -# THE IMPERIAL ARCHIVE · Abhuman ve Mutantlar · Kayıt
 # Ratling
 *Homo sapiens minimus, İmparatorluğun Usta Nişancıları*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ec/GreatUncleanOne2.png/revision/latest?cb=20180211041308
+
 -# THE IMPERIAL ARCHIVE · Kaos Varliklari · Kayıt
 # Great Unclean One
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Adeptus_Astronomica_Icon2.jpg/revision/latest?cb=20200910213848
+
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Adeptus Astronomica
 

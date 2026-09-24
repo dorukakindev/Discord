@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/30/Koronus_Expanse_of_the_Halo_Stars.jpg/revision/latest?cb=20200315143529
+
 -# THE IMPERIAL ARCHIVE · Xenos Emanetler · Kayıt
 # Anaris, the Dawnlight
 *Anaris, Şafak Işığı*

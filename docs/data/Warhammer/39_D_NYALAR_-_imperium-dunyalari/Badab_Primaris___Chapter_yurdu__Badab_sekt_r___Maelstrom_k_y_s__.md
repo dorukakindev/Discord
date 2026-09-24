@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Badab_Primaris.jpg/revision/latest?cb=20120328165918
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Badab Primaris — Chapter yurdu (Badab sektörü, Maelstrom kıyısı)
 

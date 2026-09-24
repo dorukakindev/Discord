@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Trygon_vs._Eldar_Tank.png/revision/latest?cb=20140725231125
+
 -# THE IMPERIAL ARCHIVE · Tyranid Araclari · Kayıt
 # Trygon
 

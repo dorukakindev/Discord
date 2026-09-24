@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e8/Ghostark1.jpg/revision/latest?cb=20130403233318
+
 -# THE IMPERIAL ARCHIVE · Necron Araclari · Kayıt
 # Ghost Ark
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/93/Trial_By_Blood_coverart.jpg/revision/latest?cb=20141107214338
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Gabriel Seth
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/TerraxGuardMini.jpg/revision/latest?cb=20130319201122
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Terrax Guard
 
