@@ -12,5 +12,3 @@ Apothecary Pindar ve Iron Snakes'ın bağımsız operasyonları; bölüğün 'It
 -# Seri: Diğer Romanlar (Black Library)
 
 -# Kaynaklar: Black Library
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bc/BrothersoftheSnakeCover.jpg/revision/latest?cb=20180319205400)

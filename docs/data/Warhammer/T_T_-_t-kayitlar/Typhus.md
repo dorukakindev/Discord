@@ -11,8 +11,6 @@ Bu kanal Typhus'u bir kişi olarak ele alır. Legion'un kurumsal tarihi <#155181
 ## Kökenler: Barbarus ve Gizli Yetenek
 Calas Typhon, Mortarion'un düştüğü zehirli dünya Barbarus'un çocuklarındandı ve Legion'un Barbarus'tan beslenen kuşağıyla birlikte Death Guard'ın saflarına girdi. Yükselişi hızlı oldu; First Captain olarak Legion'un en kıdemli savaşçıları arasına katıldı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Manreaper_schematic.png/revision/latest/scale-to-width-down/767?cb=20131007175729)
-
 Ne var ki Typhon'un bir sırrı vardı: psyker'dı. Mortarion, Barbarus'un Overlord'larının sisli büyüsünü psykerlerin gücüyle özdeşleştiren ve Legion'unun Librarius'una baştan beri karşı çıkan bir Primarch'tı. Council of Nikaea'nın psişik güç kullanımını yasaklamasıyla bu karşıtlık resmî bir kurala da dönüştü. Typhon'un yeteneği, böylece yalnızca saklanması gereken bir kusur değil, yasak güçlerle kurulan ilişkinin de kapısı oldu. Kaynaklar onun Heresy'den önce Warp'taki güçlerle çoktan bağ kurduğunu anlatır.
 ---MSG---
 ## Heresy'nin Eşiğinde: Loca ve Garro

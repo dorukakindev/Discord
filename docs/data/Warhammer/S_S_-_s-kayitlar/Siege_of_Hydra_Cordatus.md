@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Hydra_Cordatus.jpg/revision/latest?cb=20111106074708
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Siege of Hydra Cordatus
 

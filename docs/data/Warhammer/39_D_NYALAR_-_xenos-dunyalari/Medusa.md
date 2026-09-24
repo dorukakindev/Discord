@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Medusa.png/revision/latest/scale-to-width-down/900?cb=20131017200830
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Medusa.png/revision/latest/scale-to-width-down/900?cb=20131017200830)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Medusa — Medusa

@@ -8,8 +8,6 @@
 
 Ork toplumunda **Kommando**'lar azınlıktır. Çoğu Ork için savaşın anlamı düşmana olabildiğince yüksek sesle ve olabildiğince hızlı yaklaşmaktır; gizlenmek, beklemek ve pusu kurmak bu anlayışa yabancıdır. Kommando'lar ise Mork'un kurnaz vahşetini Gork'un kaba gücüne tercih eden Ork'lardır ve bu yollarıyla öteki Ork'lar arasında hem tuhaf hem de saygı uyandıran bir yere sahiptirler. İnsan savaş yöntemlerini taklit etmekle bilinen **Blood Axes**, Kommando geleneğinin başlıca beşiği sayılır; ancak Kommando'luk klan sınırlarını aşan bir yaşam biçimidir ve Snikrot'un kesin klan bağı kaynaklarda aynı vurguyla verilmez. Klan kültürleri için <#1551817830096310363>, Ork tanrıları için <#1551814495138091013> kanalına bakılabilir.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a8/Boss_Snikrot.jpg)
-
 ## Armageddon Ormanlarında
 Snikrot'un efsanesi, Armageddon'un iki kıtası arasında uzanan balta girmemiş ormanlarda biçimlenir. Second War for Armageddon'da Ghazghkull'un Waaagh!'ı kırılıp Warboss gezegenden kaçtığında, Ork kuvvetlerinin tamamı onunla gitmedi; ormanlarda kalan kabileler ve onların yoğun bitki örtüsünde çoğalan yeni kuşaklar, Imperial otoritenin hiçbir zaman tam olarak temizleyemediği bir yeşil sınır oluşturdu. Kaynakların çizdiği tabloya göre Snikrot, bu yarım kalmış savaşın gölgesinde öne çıktı ve Kommando'larını orman savaşına uyarlayarak uzun soluklu bir yıpratma ve korku savaşı yürüttü. Kişisel kökenine dair ayrıntılar yayınlar arasında aynı ölçüde anlatılmaz.
 

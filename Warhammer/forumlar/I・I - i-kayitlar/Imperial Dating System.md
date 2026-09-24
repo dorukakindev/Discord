@@ -16,8 +16,6 @@ Buna göre *999.M41*, kırk birinci binyılın 999. yılı, yani yaklaşık 40.9
 
 Gündelik kullanımda ve bu arşivde tarih çoğu zaman kısaltılır: doğrulama rakamı ve yıl kesri atılarak *999.M41* ya da yalnızca *M41* yazılır. Tam biçim ise daha çok evren içi belgelerde, Inquisition raporlarında ve Administratum kayıtlarında görülür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/97/Chronicle.jpg/revision/latest?cb=20110811234448)
-
 ## Doğrulama Rakamı
 Doğrulama rakamı, tarihi kaydeden kişinin olay sırasında Terra ile ne kadar doğrudan bağ içinde olduğunu gösterir. Klasik arka planda verilen ölçek kabaca şöyledir:
 - **0:** Olay Terra'da gerçekleşmiştir.

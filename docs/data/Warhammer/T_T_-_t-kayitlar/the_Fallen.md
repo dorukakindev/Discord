@@ -12,8 +12,6 @@ Lion'un filosu Caliban'a döndüğünde gezegenin savunmaları ona ateş açtı.
 
 Luther ise bir istisnadır. Kaynaklara göre the Rock'un derinliklerine kapatılmış ve yalnızca Supreme Grand Master'ların bildiği bir tutsaklıkta yaşatılmıştır. Lion'un kendisini parçalanan Caliban'dan "Watchers in the Dark"ın aldığını ileri süren odur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Lord_Cypher.jpg/revision/latest/scale-to-width-down/722?cb=20131227103607)
-
 ## Fallen'ın Yüzleri ve Cypher
 Fallen tek bir örgüt değildir; ortak bir amacı, komuta zinciri ya da inancı yoktur. Kaynaklarda Chaos'a tamamen teslim olup Heretic Astartes savaş gruplarına katılanlar, paralı asker ya da korsan olarak yaşayanlar, Imperium'un kıyılarında sahte kimliklerle yerleşenler ve Lion'a karşı işlenen suçun yükünü taşıyarak kendi başlarına İmparator'a hizmet etmeye çalışanlar görülür. Dark Angels'ın gözünde bu ayrım fark etmez; Imperium için ise çoğu Fallen, yalnızca kökeni bilinmeyen birer renegade'dir.
 

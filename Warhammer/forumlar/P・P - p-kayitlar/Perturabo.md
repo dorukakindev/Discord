@@ -11,8 +11,6 @@ Perturabo'nun büyüdüğü **Olympia**, dağlarla bölünmüş, birbirine düş
 
 Perturabo'nun tasarladığı savaş makineleri ve tahkimatlarla Lochos, Olympia'nın rakip şehirlerini birer birer boyunduruğa aldı. Ne var ki bu fetihler ona huzur getirmedi. Haley'nin anlatısında, üvey ailesi içinde yalnızca kız kardeşi **Calliphone**'un ona gerçek bir yakınlık gösterdiği, Perturabo'nun ise insan ilişkilerinde hep yabancı ve tedirgin kaldığı vurgulanır. Olympia'yı birleştiren el, Olympia'yı sevmeyi hiçbir zaman tam olarak öğrenemedi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Primarchs_Perturabo_coverart.png/revision/latest?cb=20161119114321)
-
 ## Great Crusade: Takdir Görmeyen Deha
 Emperor Olympia'ya ulaştığında Perturabo, dünyasının yönetimini bırakıp IV. Legion'ın başına geçti. Legion, Primarch'ının yeteneklerine uygun biçimde kuşatma, tahkimat ve yıpratma savaşında uzmanlaştı; fakat bu uzmanlık bir laneti de beraberinde getirdi. Iron Warriors, başka Legion'ların kaçındığı kanlı kuşatmalara gönderildi, fethedilen dünyalara garnizon olarak dağıtıldı ve zaferlerinin şanı çoğu zaman başkalarına kaldı. Perturabo'nun gözünde bu, Legion'ını parça parça tüketen sistemli bir aşağılanmaydı.
 

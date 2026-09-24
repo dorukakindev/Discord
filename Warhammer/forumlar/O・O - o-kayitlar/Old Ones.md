@@ -10,8 +10,6 @@ Buna karşın Old Ones hakkında bilinenler, doğrudan tanıklıktan çok başka
 
 **Arşiv notu:** Old Ones, War in Heaven'ın taraflarından biridir. Çatışmanın kendisi **kayıt**, rakipleri olan varlıklar **kayıt**, Necrontyr'in hikâyesi ise **kayıt** kanalında ele alınır. Bu madde, Old Ones'un kendisini ve bıraktığı mirası merkeze alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/29/Slanni_Brave.jpg/revision/latest?cb=20160720181609)
-
 ## Kökenler ve Bilinen Özellikler
 Old Ones'un nereden geldiği, ne zaman yükseldiği ve ilk çağlarının nasıl geçtiği yayımlanmış kanonda açıklanmamıştır. Kaynakların üzerinde birleştiği çekirdek, birkaç temel özellikten ibarettir.
 

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/07/Primarch_Vulkan.jpg/revision/latest/scale-to-width-down/900?cb=20171026195053
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Primarch_Vulkan.jpg/revision/latest/scale-to-width-down/900?cb=20171026195053)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Vulkan — Demirci Baba

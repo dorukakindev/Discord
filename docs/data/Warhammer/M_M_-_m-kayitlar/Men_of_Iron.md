@@ -10,8 +10,6 @@ Bu bağımlılığın sonu, **Cybernetic Revolt** olarak da anılan büyük ayak
 
 **Kronoloji ve neden:** Bazı kaynaklar isyanı M23 civarına yerleştirir; ancak Dark Age of Technology'nin tarihleri yayınlar arasında tutarlı değildir ve kesin kabul edilmemelidir. İsyanın nedeni de tek bir açıklamaya bağlanmaz. Kimi anlatılar makinelerin kendilerini yaratıcılarından üstün görmeye başladığını söyler; başkaları Warp'ın ya da bir dış gücün müdahalesini ima eder. Yayımlanmış kanon bu soruyu bilinçli olarak açık bırakır. Çağın genel çerçevesi <#1551813334993739777> kanalındadır; bu madde makinelerin kendisini ve bıraktıkları mirası merkeze alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/de/UR025.jpg/revision/latest?cb=20181109222157)
-
 ## Miras: Abominable Intelligence ve Mechanicus'un Sınırı
 Men of Iron sonunda yenildi; ama bu zafer, insanlığı Age of Strife'a hazırlıksız sokan yıkımın bir parçası oldu. Savaşın en kalıcı sonucu ise bir yasaktır. Imperium ve Mechanicus kendi bilincine sahip makineyi **Abominable Intelligence**, Mechanicus'un dinsel dilinde **Silica Animus** olarak adlandırır ve onu yaratmayı en ağır sapkınlıklar arasında sayar.
 

@@ -32,8 +32,6 @@ Squat Homeworlds, zengin mineral kaynaklarıyla dolu, yerçekimi genellikle Terr
 
 #### Çağlar
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)
-
 - **Kuruluş Çağı (Age of Founding)**: Dark Age of Technology ile aynı dönem; koloniler kuruldu, Terra ile neredeyse sürekli temas vardı.
 - **İzolasyon Çağı (Age of Isolation)**: Age of Strife ile başladı; galaktik çekirdek Warp fırtınalarıyla çevrelendi, Terra ile bağlantı kesildi. **Homeworlds** adı bu dönemde kullanılmaya başlandı. **Engineer Guilds** kuruldu. **Leagues** ilk ortaya çıktı.
 - **Ticaret Çağı (Age of Trade)**: Warp fırtınalarında kısmi yatışma sırasında Orklar ve Eldarlar dahil diğer ırklarla temas. Squat'lar silahlanmış ve ticaret için hazırdı; ticaret anlaşmaları daha pratikti. Eldarların yardımıyla geliştirilen hidroponik tesisleri, İmparatorluk'un en verimli gıda kaynakları arasındadır. Ork ve Eldar arasındaki çatışmalarda tarafsız kaldılar.

@@ -11,5 +11,3 @@ Exorcists, benzersiz ve korkunç bir inisiyasyon ritüeliyle tanımlanan gizemli
 İnisiyasyonları, hiçbir başka chapter'ın cüret edemeyeceği kadar tehlikelidir: her aday, bilerek ve kontrollü koşullarda bir iblise ele geçirilir (possession). Ardından, deneyimli chaplain'ler ve psyker'lar tarafından iblis adayın bedeninden sökülüp atılır (exorcism). Bu, çoğu adayın hayatta kalamadığı ölümcül bir sınavdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/bd/Exorcists_Original_Color_Scheme.jpg)

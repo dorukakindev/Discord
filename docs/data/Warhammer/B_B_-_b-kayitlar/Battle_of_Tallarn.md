@@ -13,8 +13,6 @@ Bu kanal muharebenin kendisini ele alır. Sonraki binyıllardaki Tallarn alay ge
 ## Virüs Bombardımanı
 Iron Warriors filosu Tallarn'ın yörüngesine ulaşınca gezegeni, organik yaşamı çözüp yok eden virüs silahlarıyla dövdü. Yüzeydeki yaşam, kentler ve kırlar boyunca birkaç gün içinde silindi. Ne var ki Tallarn'ın halkının bir bölümü ve dünyada konuşlu kuvvetler, derin sığınaklara çekilerek bu felaketten kurtulmayı başardı. Kaynakların anlatımıyla bu sığınaklar, sonraki savaşın hem sığınağı hem de hedefi hâline geldi. Iron Warriors'ın ardından yüzeye indirdiği kuvvetler, hayatta kalanların direnişiyle karşılaştı; kısa süre sonra da sadık takviyeler sisteme ulaşmaya başladı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/67/Tallarn.jpg/revision/latest?cb=20100811035832)
-
 ## Zehirli Çölde Zırhlı Savaş
 Tallarn'a akan sadık kuvvetler ağırlıklı olarak Imperial Army'nin zırhlı birlikleri ve Mechanicum'un kuvvetleriydi; Iron Warriors da zırhlı araçlara ve Legion'ın ağır savaş makinelerine yaslanan kuvvetlerle karşılık verdi. Yüzeyin zehirli oluşu, piyadenin açık alanda savaşmasını neredeyse imkânsız kıldığından muharebe, kara zırhlıların birbirini aradığı, ezdiği ve pusuya düşürdüğü uçsuz bucaksız bir av alanına dönüştü. Mürettebat haftalarca, kimi zaman aylarca araçlarının içinde yaşamak zorunda kaldı; bir zırhın delinmesi, yalnızca silahla değil havanın kendisiyle ölmek demekti.
 

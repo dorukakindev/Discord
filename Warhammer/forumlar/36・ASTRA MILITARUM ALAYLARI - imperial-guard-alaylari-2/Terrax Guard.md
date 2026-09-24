@@ -11,5 +11,3 @@ Terrax Muhafızları, büyük bir Schola Progenium tesisine, yani Komiserlerin v
 En yüksek standartlarda eğitilmiş grenadierler olan Terrax Muhafızları'nın neredeyse tüm bir Komiser alayı gibi olduğu söylenir; disiplinleri o denli katıdır. Sıradan piyade alaylarından farklı olarak, çok sayıda Storm Trooper mangası ve Komiser barındırırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/86/Terrax_Guard_colonel_by_Dan_Harden_WD2012Nov.jpg)

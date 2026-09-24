@@ -10,8 +10,6 @@ Sicarius'u Ultramarines'in öteki büyük figürlerinden ayıran şey, bu iki y�
 
 Sicarius'un kariyerindeki en belirleyici olay ise bir zafer değil, bir yenilgidir. Necron'ların uyanışıyla yitirilen **Damnos**, onun efsanesine düşen en koyu gölge ve karakterinin en ağır sınavıdır. Bu kanal Sicarius'u bir kişi olarak ele alır: unvanları ve Talassar'la bağı, komuta tarzı, Damnos'un ona bıraktığı yara, Calgar'la ilişkisi ve güncel betimlemesi. Olayın kendisi damnos, Chapter'ın kurumsal tarihi <#1551809394226765939>, krallığın yapısı <#1551809577425575998> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/10/Cato_3.png/revision/latest/scale-to-width-down/750?cb=20131222213759)
-
 ## Unvanlar ve Talassar
 Ultramar, Imperium'un geri kalanından farklı olarak Guilliman'ın klasik devlet anlayışını yaşatan bir krallıktır ve bu krallıkta Ultramarines Captain'ları yalnızca asker değildir. Company komutanları çoğu zaman Ultramar dünyalarının onursal lordları, koruyucuları ya da askerî hamileri olarak sivil unvanlar da taşır. Sicarius'un **High Suzerain of Talassar** sıfatı bu geleneğin en tanınmış örneğidir; onu Ultramar'ın dünyalarından biri olan Talassar'a ve oranın halkına bağlayan bir hamilik ilişkisini ifade eder.
 

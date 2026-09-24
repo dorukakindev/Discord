@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/05/KrootShaper.jpg/revision/latest?cb=20160505212128
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Kroot Shaper (rol kaydı)
 

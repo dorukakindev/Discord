@@ -9,5 +9,3 @@ Aquila, İmparatorluğun çift başlı altın kartal sembolüdür; 40K evreninin
 Aquila'nın iki başının anlamı üzerine çeşitli yorumlar vardır; en yaygın olanı, İmparator'un hem Terra (insanlığın kutsal geçmişi ve kalbi) hem de galaksinin geri kalanı (insanlığın geleceği ve egemenliği) üzerindeki çift hakimiyetini temsil ettiğidir. Bazıları, iki başın beden ile ruhun, ya da maddi ile manevi alemlerin birliğini simgelediğini söyler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f1/Imperial_Eagle.jpg)

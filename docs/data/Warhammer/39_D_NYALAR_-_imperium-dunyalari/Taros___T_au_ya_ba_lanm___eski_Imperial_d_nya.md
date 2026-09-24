@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e8/Taros2.jpg/revision/latest?cb=20131212075528
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Taros — T'au'ya bağlanmış eski Imperial dünya
 

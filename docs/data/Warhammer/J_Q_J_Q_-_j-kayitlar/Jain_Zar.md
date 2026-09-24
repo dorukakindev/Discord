@@ -13,8 +13,6 @@ Jain Zar'ı kardeşlerinden ayıran, Great Rift çağında kazandığı görün�
 
 Bu madde Jain Zar'ı bir kişi olarak ele alır: kökeni, Aspect'i, silahları, Ynnari'deki yeri ve Drazhar'la karşılaşması. Phoenix Lord'ların ortak doğası ve zırh sürekliliği phoenix-lords, Howling Banshees'in shrine yaşamı ve öteki Aspect'lerle ilişkisi <#1551811222129745941>, Ynnari hareketinin kendisi <#1551809867201908737> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Jain_Zar2_7th_Ed.png/revision/latest/scale-to-width-down/766?cb=20141120193458)
-
 ## Köken: Asurmen'in Öğrencisi
 
 Asuryani anlatısına göre Jain Zar, ilk Phoenix Lord **Asurmen**'in Fall'dan sonra kurduğu ilk shrine'da yetişen öğrenciler arasındadır. Kaynaklarda topluca **Asurya** diye anılan bu ilk kuşak, Asurmen'den savaşın disiplinini öğrenmiş, sonra her biri Khaine'in bir başka yönünü benimseyerek kendi Aspect'ini kurmuştur. Jain Zar'ın payına ise savaşın hızı, dehşeti ve ölümü haber veren çığlık düştü.

@@ -19,5 +19,3 @@ Fulgrim'in Legion'u kusursuzluk arayışını Slaanesh'e bağladıkça bazı sav
 -# Kaynaklar: *Codex: Emperor's Children — 10th Edition*; *Fulgrim — Graham McNeill*; *Angel Exterminatus — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551813750305198101>, <#1551650243865477191>, <#1551754688008032321>, <#1551812225570836561>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9e/NoiseMarinesMinis10thEdition1.jpg/revision/latest?cb=20250304164154)

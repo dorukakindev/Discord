@@ -8,8 +8,6 @@ Kategori: Karakter / Captain · Fraksiyon: Adeptus Astartes, Ultramarines · Dö
 
 Uriel'in hikâyesinin merkezinde, Codex Astartes'e yürekten bağlı bir Ultramarine olmakla sahada Codex'in öngörmediği durumlarda kendi yargısına güvenmek arasındaki gerilim durur. Bu gerilim onu hem başarılı bir komutan yapar hem de kendi Chapter'ının önünde yargılanmasına yol açar. Uriel, sadakatinden asla vazgeçmeyen ama sadakatin ne anlama geldiği konusunda Chapter'ıyla çatışan bir savaşçıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6c/UrielVentrisPrimaris.jpg/revision/latest/scale-to-width-down/591?cb=20201206040529)
-
 Serinin öteki kutbunda ise Iron Warriors Warsmith'i **Honsou** yer alır. İki adam arasındaki düşmanlık, Uriel'in sürgününden Ultramar'ın savunmasına kadar serinin omurgasını oluşturur. Bu kanal Uriel'i bir kişi olarak ele alır; Honsou'nun kendi perspektifi <#1551640212537479189>, Pavonis'te uyanan C'tan <#1551817439845683331>, Chapter'ın tarihi ise <#1551809394226765939> kanalındadır. Romanların ayrıntıları Codex metinlerinden çok daha geniştir; arşiv, anlatılanları romanların kendi çerçevesi içinde aktarır.
 ---MSG---
 ## Calth, Agiselus ve Idaeus

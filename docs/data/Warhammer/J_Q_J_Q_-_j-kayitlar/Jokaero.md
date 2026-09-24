@@ -11,8 +11,6 @@ Jokaero'yu ürkütücü kılan asıl şey, bu ustalığın arkasındaki zihnin o
 ## Adeptus Mechanicus'un Açmazı
 Jokaero'nun varlığı, Adeptus Mechanicus'un dünya görüşüne sessiz bir meydan okumadır. Mechanicus için bilgi, Omnissiah'ın emaneti olarak kadim şablonlardan, ritüellerden ve korunmuş bilgilerden gelir; yenilik kuşkuyla karşılanır. Jokaero ise hiçbir ritüele ihtiyaç duymadan, bir yaratıcı gibi değil adeta içgüdüyle üretir. Bu tezat Imperial kaynaklarda ayrıntılı bir teolojik tartışma olarak işlenmez; ama Jokaero'nun Imperium'da neden hem değerli hem de tedirgin edici sayıldığını anlamak için önemlidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/95/Jokaero_Weaponsmith.jpg/revision/latest?cb=20111024035420)
-
 ## Imperium'un Hizmetinde
 Jokaero en çok, bazı Inquisitor'ların maiyetlerinde **weaponsmith**, yani silah ustası olarak bilinir. Inquisition'ın bu tercihi, Imperium'un xenos teknolojisine duyduğu derin kuşku düşünüldüğünde çarpıcıdır: bir yanda xenos'la temasın ölümle cezalandırılabildiği bir düzen, öte yanda bir xenos'u hiç ayrılmadan yanında taşıyan ve onun elinden çıkan aletlere hayatını emanet eden Inquisitor'lar. Bu, Inquisition'ın Radical ve Puritan eğilimleri arasındaki eski gerilimin somut bir örneğidir; bir Jokaero barındıran Inquisitor'ın meslektaşlarının gözünde nasıl göründüğü de onun eğilimi hakkında çok şey söyler.
 

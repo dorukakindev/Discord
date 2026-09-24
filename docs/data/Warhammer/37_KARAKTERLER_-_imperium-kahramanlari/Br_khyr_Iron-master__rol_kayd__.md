@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/BrokhyrThunderkyn.jpg/revision/latest?cb=20230308172540
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Brôkhyr Iron-master (rol kaydı)
 

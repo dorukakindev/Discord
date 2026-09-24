@@ -11,8 +11,6 @@ Bu kadınları sıradan askerlerden ayıran yalnızca yetenekleri değil, yeminl
 ## Kökenler
 Sisterhood'un nasıl ve kim tarafından kurulduğu yayımlanmış kanonda net biçimde açıklanmaz. Kurum Great Crusade'in erken dönemlerinde zaten faaldir ve Emperor'un doğrudan himayesinde, Adeptus Custodes'in yanında anılır. Adayların nasıl bulunduğu da ayrıntılı anlatılmaz; kaynaklar onları çoğunlukla Black Ships'le ilişkilendirir. Psyker avlayan bu gemilerin, tam tersine Warp'a kapalı pariah çocuklarını da toplayabildiği aktarılır. Kaynaklar Sisterhood'un başlıca üssü olarak **Luna**'daki **Somnus Citadel**'i gösterir. Kurumun Dark Age of Technology'ye uzanan daha eski bir mirası olup olmadığı ise evren içinde de söylenti düzeyinde kalır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8c/SoS_Icon.jpg/revision/latest?cb=20170327223644)
-
 ## Yapı ve Talons of the Emperor
 Sisterhood'un büyük birimleri **Vigil**, onların alt birimleri **Cadre** olarak anılır. Savaş alanında en sık görülen kadrolar şunlardır:
 - **Prosecutor**'lar, uzaktan ateşle psykerleri ve onların korumalarını avlayan birliklerdir.

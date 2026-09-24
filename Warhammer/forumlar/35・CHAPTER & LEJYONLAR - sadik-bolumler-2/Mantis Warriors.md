@@ -11,5 +11,3 @@ Mantis Warriors (Peygamberdevesi Savaşçıları), White Scars (Jaghatai Khan) s
 Mantis Warriors, Maelstrom Warders denen bir chapter ittifakının üyesiydi ve bu kardeşlik yeminlerini mutlak, ihlal edilemez sayardı. Badab Savaşı'nda ayrılıkçı tarafa katılma sebepleri tam da buydu: müttefiklerinden birine yapılan saldırıyı (İmparatorluk tarafından bile olsa) hepsine yapılmış sayıyorlardı. İhanetleri kötülükten değil, sadakat anlayışlarından doğdu; 903.M41'de ittifaklarına bağlı kalarak isyancı saflara geçtiler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/78/Mantismarine.JPG)

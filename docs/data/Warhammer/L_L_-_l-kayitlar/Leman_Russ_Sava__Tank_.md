@@ -17,5 +17,3 @@ Güçlü ön zırh, basit bakım, sayısız varyant. Punisher Gatling piyade kat
 -# Kaynaklar: Codex: Astra Militarum
 
 -# İlişkili kayıtlar: `baneblade`, `astra-militarum`, `leman-russ`, `imperial-guard-araclari`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d2/SA_Leman_Russ_Solar-Ryza_Pattern.jpg/revision/latest?cb=20150527052830)

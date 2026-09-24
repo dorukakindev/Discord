@@ -14,8 +14,6 @@ Bu yüzden madde, her bilgiyi kimin anlattığını gözeterek ilerler:
 - Shard'larının bağlılığı ve serbestliğine dair söylentiler,
 - Cadia pylonları gibi yerlerle kurulan, kanonda doğrulanmamış bağlantılar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/82/Deceiver.jpg/revision/latest/scale-to-width-down/729?cb=20200813103511)
-
 Kanal sınırı: C'tan'ın genel doğası <#1551812203584295003>, Silent King'in kişiliği silent-king-szarekh, Necron uygarlığı <#1551759762193121282> kanalındadır.
 ---MSG---
 ## Doğası: Yanılsamanın Tanrısı

@@ -13,5 +13,3 @@ Stormsurge, Tau İmparatorluğu'nun en büyük yaygın battlesuit'idir; bir Ript
 Stormsurge'ün gücü, devasa silahlanmasındadır; ayaklarındaki demirleme sistemiyle yere sabitlenir (bu, ona muazzam atışlar için kararlılık verir) ve sonra dev Pulse Driver Cannon'ı, Destroyer Missile'ları ve cluster roket sistemleriyle koca bir bölgeyi döver. Tek başına, bir düşman zırhlı kolonunu ya da bir kale-tahkimatı yok edebilir; gerçek bir yürüyen topçu bataryasıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c2/KV128Art.jpg)

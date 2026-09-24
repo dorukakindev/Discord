@@ -19,5 +19,3 @@ Mournival, Horus'un kendi subaylarıyla kurduğu yakınlığın simgesiydi. Resm
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *Galaxy in Flames — Ben Counter*
 
 -# İlişkili kayıtlar: <#1551809114328399874>, <#1551650246508150857>, <#1551638958352506881>, <#1551814951365115956>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/03/Luna_wolves_emblem_by_steel_serpent-d3acive.png/revision/latest?cb=20111005145101)

@@ -10,8 +10,6 @@ Scion'ların kökü **Schola Progenium**'dur. Imperial hizmette ölen subayları
 
 Tempestus alayları, gezegen adı taşıyan sıradan Guard alaylarından farklı olarak ilgili Schola ya da eğitim merkeziyle ilişkili, çoğu zaman Yunan harflerinden türetilmiş adlar taşır. Kaynaklarda anılan **55th Kappic Eagles** ve **43rd Iotan Dragons** bu geleneğin tanınmış örnekleridir. Alay kimliği anavatan geleneğinden değil, ortak eğitimden ve savaş geçmişinden beslenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/MilitarumTempestus.png/revision/latest?cb=20170622213228)
-
 ## Yapı, Doktrin ve Kullanım
 Scion birlikleri küçük kadrolardır. Kadroları **Tempestor**'lar, daha büyük birlikleri ve komuta timlerini **Tempestor Prime**'lar yönetir. Standart teçhizat, ağır carapace zırh, güç paketine bağlı **hot-shot lasgun** ve benzeri yüksek güçlü las-silahlar, havadan indirme için grav-chute'lar ve sızma operasyonlarında kullanılan özel ekipmandır. Kara hareketliliğini Tempestus'a özgü Taurox türevleri, hava indirmesini ise Valkyrie gibi Navy araçları sağlar.
 

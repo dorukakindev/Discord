@@ -10,8 +10,6 @@ Bu tavır, Graia'ya Mechanicus içinde ayrı bir kişilik kazandırır. Kimi for
 
 Forge world kavramının bütünü <#1551814305874448396>, Mechanicus'un inanç ve kurumları <#1551753449878724689>, ilk forge world <#1551816635839549491> kanalında işlenir. Bu kanal Graia'nın kendisine odaklanır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Graia_Skitarii_Icon.png/revision/latest?cb=20150420183943)
-
 ## Mantığın Disiplini
 Graia'nın ününü belirleyen şey, savaş doktrinine kadar sinen bir tutumdur. Güncel Mechanicus kaynakları bu dünyanın birliklerini, yıkıma uğradıktan sonra bile savaşmayı sürdüren bir inatla anlatır. Onların mantığına göre bir asker, görevi tamamlanmadan durmak için bir gerekçe bulamaz; bedeni çökmüş olsa bile buyruğu yerine getirmek, aklın son emridir. Bu özellik, Graia savaşçılarını düşman için tekinsiz kılar.
 

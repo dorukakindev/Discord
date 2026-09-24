@@ -19,5 +19,3 @@ Morkanaut gibi savaş makinelerinin adı, Ork'ların Mork'a duyduğu saygının 
 -# Kaynaklar: *Codex: Orks — 10th Edition*; *Gorkamorka*; *'Ere We Go*
 
 -# İlişkili kayıtlar: <#1551814495138091013>, <#1551759766966116383>, <#1551817830096310363>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/18/Gork_%26_Mork.png/revision/latest/scale-to-width-down/1000?cb=20140716063515)

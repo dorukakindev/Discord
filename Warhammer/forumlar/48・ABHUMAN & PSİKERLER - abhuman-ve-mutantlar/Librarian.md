@@ -18,6 +18,4 @@ Librarian adayları Chapter'a alınırken sınanır ve yıllara yayılan eğitim
 
 -# Kaynaklar: *A Thousand Sons — Graham McNeill*; *Codex: Space Marines — 10th Edition*; *Mephiston: Blood of Sanguinius — Darius Hinks*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest/scale-to-width-down/754?cb=20130930181411)
-
 -# İlişkili kayıtlar: <#1551753431230971988>, <#1551818131679215728>, <#1551809231580307517>, <#1551641477501947995>, <#1551811368389181491>

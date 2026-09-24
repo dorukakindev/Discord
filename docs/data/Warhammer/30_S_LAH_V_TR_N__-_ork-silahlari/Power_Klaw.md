@@ -7,4 +7,6 @@ Ork Nob ve Warboss'larının dev hidrolik kıskacı; güç alanlı makasları ta
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/aa/Power_Klaw_2.jpg)
+## Teknik ve Kullanım
+
+Ork Nob ve Warboss'larının dev hidrolik kıskacı; dışarıdan kaba bir makas gibi görünür ama içinde bir güç alanı jeneratörü barındırır. Kapandığında önce fiziksel basınç ezer, sonra güç alanı zırhı ve kemikleri moleküler düzeyde keser — Land Raider'ı bile ikiye bölebilir. Ork kültüründe statü simgesidir; kıskaç ne kadar büyükse sahibi o kadar 'zly boss' sayılır. Yakın dövüşte Orklar'ın en ölümcül silahıdır.

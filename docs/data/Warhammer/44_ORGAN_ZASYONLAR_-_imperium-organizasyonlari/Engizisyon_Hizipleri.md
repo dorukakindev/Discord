@@ -7,5 +7,3 @@ Engizisyon'un merkezi bir otoritesi olmadığından, mensupları yöntem felsefe
 Engizisyon'un en sıra dışı yanlarından biri, merkezi bir komuta yapısının olmamasıdır; her Inquisitor, kendi vicdanı ve yargısıyla hareket eden, neredeyse mutlak yetkili bir bireydir. Bu özgürlük, kaçınılmaz olarak derin felsefi bölünmelere yol açar; Inquisitor'lar, "İmparatorluğu nasıl korumalıyız?" ve "hangi yöntemler meşrudur?" sorularına verdikleri yanıtlara göre "hizipler"e (factions) ayrılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Inquisition_MKV_Land_Raider.jpg/revision/latest/scale-to-width-down/1000?cb=20110420061452)

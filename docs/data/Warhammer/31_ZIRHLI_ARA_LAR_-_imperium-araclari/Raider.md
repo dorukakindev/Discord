@@ -18,6 +18,4 @@ Kabal'lar ve Wych Cult'lar Raider'ları, Commorragh'ın doyumsuz esir ve acı ih
 
 -# Kaynaklar: *Codex: Drukhari*
 
--# İlişkili kayıtlar: <#1551587949450371253>, <#1551588076609085510>, <#1551587928025600012>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Dark_Eldar_Raider.jpeg/revision/latest?cb=20161219205824)
+-# İlişkili kayıtlar: <#1551997841356881980>, <#1551993959876657192>, <#1551997822725922938>

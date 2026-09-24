@@ -10,8 +10,6 @@ Lucius'un adı Imperium'da en çok iki yoldan duyulur. İlki, forge world'ün ke
 
 Okuyucunun sık düştüğü bir karışıklığı baştan belirtmek gerekir: Forge World Lucius'un, Emperor's Children'dan düellocu Lucius the Eternal ile hiçbir ilgisi yoktur. Bu madde yalnızca forge world'ü ele alır; Lucius the Eternal için lucius, forge world kavramının geneli için forge-worlds kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Lucius_Skitarii_Icon.png/revision/latest?cb=20150420195123)
-
 ## Oyuk Dünya ve Yapay Güneş
 Lucius'un yapısı, Imperium'da benzeri pek görülmeyen bir mühendislik mirasına işaret eder. Kaynakların çizdiği tabloda gezegenin iç kısmı boştur ve bu boşluğun merkezinde, forge world'ün ocaklarını ve sistemlerini besleyen yapay bir yıldız yanar. Bu yıldızın ne zaman, kim tarafından ve nasıl yaratıldığı yayımlanmış kanonda açıklanmaz. Imperium'un bugünkü bilgisiyle böyle bir şeyin inşa edilemeyeceği açık olduğundan, genel kanı onun Dark Age of Technology'den kalma bir eser olduğu yönündedir; ancak bu da kaynaklarda ayrıntılandırılan bir bilgi değil, bağlamdan çıkan bir yorumdur.
 

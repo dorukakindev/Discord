@@ -10,8 +10,6 @@ Old One Eye'ın hikâyesi, 745.M41'de Macragge önlerinde parçalanan **Hive Fle
 
 Bir Tyranid organizmasının Hive Mind'ın doğrudan synapse denetimi olmadan uzun süre hayatta kalabilmesi olağan değildir. Kaynaklar synapse bağı koptuğunda organizmaların çoğunun ilkel içgüdülerine döndüğünü, dağıldığını ya da işlevini yitirdiğini anlatır. Old One Eye ise yalnız kaldığında bile avlanmayı, beslenmeyi ve hayatta kalmayı sürdürmüş; Tyranid biyolojisinin sınırlarını zorlayan ayrıksı bir örnek olarak kayda geçmiştir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/74/Old_One_Eye-0.jpg/revision/latest/scale-to-width-down/714?cb=20161207213107)
-
 ## Calth'teki Av ve Biyolojisi
 Kaynaklara göre organizma Calth'te uzun bir süre hareketsiz kalmış, ardından yeniden uyanarak gezegenin kırsal bölgelerini kasıp kavurmuştur. Ultramarines onu defalarca yere sermiş, her seferinde ölü sanmış ve her seferinde yanılmıştır. Calth, Horus Heresy sırasında Word Bearers'ın saldırısıyla yıldızı hasar görmüş ve halkının büyük kısmı yeraltındaki mağara kentlerine çekilmiş bir dünyadır; Old One Eye'ın yüzeyde uzun süre gözden kaçabilmesi bu tenha, yaralı dünyanın doğasıyla da uyumludur, ancak kaynaklar bu bağı açıkça kurmaz.
 

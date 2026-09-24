@@ -15,8 +15,6 @@ The Imperial Archive, tek tek okunabilen ama birbirine sıkıca bağlı maddeler
 
 Bir maddede aradığınızı bulamazsanız son mesajdaki **Çapraz:** satırı, konuyu tamamlayan kanallara yönlendirir. Bütün kanalların kısa açıklamalı listesi <#1551587901278650491> kanalındadır.
 
----
-
 ## Bilgi Satırı, Kaynaklar ve Çapraz
 
 **Bilgi satırı.** Ana maddelerin ilk mesajı tek satırlık bir künyeyle açılır:
@@ -34,8 +32,6 @@ Bu satır maddenin ne tür bir konu olduğunu, hangi büyük güce ait olduğunu
 - "Ecclesiarchy'ye göre", "Imperial kayıtlarına göre" gibi ifadeler, bilginin ansiklopedik gerçek değil, bir tarafın iddiası olduğunu belirtir.
 - **Yayın ve Retcon Notu** bölümü evren içi tarihi değil, gerçek dünya yayın geçmişini anlatır.
 
----
-
 ## Mini Sözlük — I
 
 **Imperial tarih sistemi.** Imperium tarihleri binyıl esasına göre yazar: *999.M41*, kırk birinci binyılın 999. yılı demektir; *M31* ise otuz birinci binyıldır. Tam biçimde tarihin önüne bir doğrulama rakamı ve yılın binde birlik dilimini gösteren bir sayı eklenir (ör. *0 523 999.M41*). Doğrulama rakamı tarihin ne kadar güvenilir olduğunu belirtir: 0, olayın doğrudan Terra'da kaydedildiğini gösterir; rakam büyüdükçe güvenilirlik azalır. Great Rift'in ardından Warp kaynaklı zaman bozulmaları Imperium'un takvimini de güvenilmez kılmıştır; bu yüzden Era Indomitus tarihleri kaynaklarda çoğu zaman yaklaşık verilir.
@@ -49,8 +45,6 @@ Bu satır maddenin ne tür bir konu olduğunu, hangi büyük güce ait olduğunu
 **Legion ve Chapter.** Great Crusade ve Heresy döneminde Space Marine'ler devasa Legion'lar hâlinde örgütlenmişti. Heresy'nin ardından Codex Astartes'le Legion'lar yaklaşık bin kişilik Chapter'lara bölündü. Traitor Legion'lar ise Legion adını korudu.
 
 **Space Marine / Adeptus Astartes.** Gene-seed ve implantlarla dönüştürülmüş insanüstü savaşçılar. **Gene-seed**, Primarch'ın genetik mirasını taşıyan ve bir Marine'in dönüşümünü mümkün kılan organlardır.
-
----
 
 ## Mini Sözlük — II
 
@@ -74,8 +68,6 @@ Bu satır maddenin ne tür bir konu olduğunu, hangi büyük güce ait olduğunu
 
 Daha ayrıntılı terimler için 51 koleksiyon forumundaki sozluk kanalına bakılabilir.
 
----
-
 ## Önerilen Okuma Rotaları
 
 **Yeni başlayanlar için:** <#1551815272074055681>  <#1551813713403580438>  <#1551808888666587197>  <#1551753458779029565>  <#1551812165172994160>  <#1551814400938082357>  <#1551815418619101185>
@@ -97,8 +89,6 @@ Daha ayrıntılı terimler için 51 koleksiyon forumundaki sozluk kanalına bak�
 **Kırk birinci binyılın sonu:** <#1551811393680838699>  <#1551812139935866891>  <#1551814400938082357>  <#1551808704901423186>  <#1551809601207533690>  <#1551815418619101185>
 
 **Diğer halklar:** <#1551809846066548779>  <#1551759766966116383>  <#1551809146850910260>  <#1551643950014795948>  <#1551759789988642876>
-
----
 
 Rotalar zorunlu değildir; her madde kendi başına okunabilir. Ancak bu sırayla ilerleyen okuyucu, her yeni maddede bir öncekinin kurduğu zemine basarak evrenin katmanlarını daha kolay kavrar. Dönemlerin genel sırasını görmek için <#1551587903191388183> kanalı her rotaya eşlik edebilir.
 

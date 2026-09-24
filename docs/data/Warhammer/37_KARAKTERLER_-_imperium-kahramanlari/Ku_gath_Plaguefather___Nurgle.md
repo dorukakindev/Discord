@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Ku%27gath.jpg/revision/latest?cb=20120118222107
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Ku'gath Plaguefather — Nurgle
 

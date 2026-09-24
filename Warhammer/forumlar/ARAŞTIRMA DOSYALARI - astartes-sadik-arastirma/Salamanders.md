@@ -30,8 +30,6 @@ Chapter, aynı adlı mitolojik ateş kertenkelesinden esinlenmiştir. Vulkan asl
 
 ## Erken Crusade
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/25/Salamanders_Chapter_Livery.jpg/revision/latest?cb=20161118072946)
-
 XVIII Lejyonu, **VI** ve **XX** Lejyonlarıyla birlikte diğerlerinden ayrı tutulan üç Lejyon'dan biriydi. Sebebi hâlâ bilinmemektedir; bu gizem güvensizliğe yol açtı. Üçünün de belirli bir konuda uzmanlaşmak üzere tasarlandığı ima edilir: **Space Wolves** İçişleri Lejyonu, **Alpha Legion** Black Ops oldu; Salamanders belirli bir niş edinmedi — "Astartes'in Bros'u" olmak dışında.
 
 **İlk kamuya açık konuşlandırma** Unification Wars'un sonlarına doğru, Ethnarchy'nin **Tempest Galleries**'ni yok etmek içindi. 20.000 XVIII Lejyon askeri 1.000'e düştü ama imkânsız görünen zafere ulaştı. Ağır kayıpları onları Solar Reclamation'ın çoğundan uzak tuttu. Kendi keşif filolarına sahip olmadılar; küçük gruplar halinde farklı seferlere ve savaş gruplarına takviye olarak gönderildiler. Özellikle **space hulk**'ların ani ortaya çıkışı veya **Eldar** baskınları gibi İmparatorluk sınırlarının gerisindeki acil durumlarla ilgilendiler.

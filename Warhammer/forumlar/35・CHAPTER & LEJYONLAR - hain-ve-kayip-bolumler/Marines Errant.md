@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/e/ef/Marines_Errant_Livery.jpg/revision/latest?cb=20150903030510
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ef/Marines_Errant_Livery.jpg/revision/latest?cb=20150903030510)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Marines Errant — Gezgin Marinler

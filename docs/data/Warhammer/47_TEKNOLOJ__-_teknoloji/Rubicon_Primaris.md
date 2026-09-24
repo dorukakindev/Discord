@@ -19,5 +19,3 @@ Rubicon'u aşan en tanınmış isimler Ultramarines Chapter Master'ı Marneus Ca
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Dark Imperium — Guy Haley*
 
 -# İlişkili kayıtlar: <#1551818213782716427>, <#1551639038291611649>, <#1551753431230971988>, <#1551809394226765939>, <#1551811368389181491>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_Dragons_Primaris_Intercessor.jpg/revision/latest/scale-to-width-down/698?cb=20170719174211)

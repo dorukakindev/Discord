@@ -11,8 +11,6 @@ Vulkan'ın kapsülü, depremlerin, volkanik patlamaların ve zehirli rüzgârlar
 
 Emperor'ın gelişi, Salamanders geleneğinde bir sınama olarak anlatılır. Kimliğini gizleyen bir yabancı, Vulkan'la günlerce süren bir yarışmaya girdi ve sonuç bir türlü belirlenemedi. Son sınamada ikisi ateş ejderleri avladı; bir patlama Vulkan'ı ölümün eşiğine getirdiğinde yabancı, kendi avını bırakıp Primarch'ı kurtardı. Vulkan bu fedakârlıkta hem yabancının kim olduğunu hem de gururdan önce hayatı gözeten birine biat etmesi gerektiğini gördü. Anlatı, Salamanders'ın ateş ve fedakârlık üzerine kurulu kimliğinin kurucu efsanesidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Primarch_Vulkan.jpg/revision/latest/scale-to-width-down/1000?cb=20171026195053)
-
 ## Legion, Kişilik ve Perpetual Doğası
 Vulkan'ın XVIII Legion'la buluşmasıyla Legion, Nocturne'ün ayı **Prometheus**'u merkez alan ve Primarch'ın adıyla özdeşleşen Salamanders kimliğine kavuştu. Legion, Nocturne'ün zanaatkâr ve dayanıklı kültürünü benimsedi; Vulkan'ın çevresindeki seçkin muhafızlar **Pyre Guard** olarak anıldı. Primarch, kendi elleriyle silah ve zırh döven bir usta olarak kaldı; Legion'ı da savaş kadar yaratmayı onurlandırmaya yöneltti.
 

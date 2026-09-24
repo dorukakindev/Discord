@@ -13,8 +13,6 @@ Kutsal sayısı sekizdir; sekiz köşeli yıldız ve Khorne'un rün işareti, on
 **Kozmik yeri**
 Chaos pantheonunda Khorne'un doğal hasmı Slaanesh'tir: biri ham şiddetin ve disiplinli öfkenin, diğeri aşırılığın ve hazzın tanrısıdır. Tzeentch'in entrikacı büyücülüğü de Khorne'un açık, dolaysız savaş anlayışıyla sürekli çatışır. Tanrıların ne zaman ve hangi sırayla bilinç kazandığı yayımlanmış kanonda kesin bir takvime bağlanmamıştır; Khorne'un kadim olduğu vurgulanır, fakat "ilk tanrı" iddiası bir kaynak hükmü değil, yorumdur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/17/MarkofKhorneBig.png/revision/latest?cb=20170908233325)
-
 ## Brass Throne ve Khorne'un Diyarı
 Warp içindeki diyarında Khorne'un, kurbanlarının kafataslarından yükselen bir dağın tepesinde, pirinç bir tahtta oturduğu anlatılır. Bu **Brass Throne** (Skull Throne olarak da anılır), Brass Citadel denen devasa kalenin kalbindedir. Kalenin çevresinde kaynayan kan nehirleri ve sonsuz savaş ovaları uzanır; Khorne'un daemon'ları burada birbirleriyle çarpışarak tanrılarına aralıksız bir sunu sürdürür.
 

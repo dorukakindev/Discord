@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Purge_SP.png/revision/latest?cb=20170817000821
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # The Purge — Nurgle'a adanmış renegade savaş grubu
 

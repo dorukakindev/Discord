@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bf/YmyrConglometareKahlKinhost.jpg/revision/latest?cb=20221221175835
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Kâhl (rol kaydı)
 

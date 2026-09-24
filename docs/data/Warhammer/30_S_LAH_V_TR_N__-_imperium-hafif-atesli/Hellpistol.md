@@ -9,5 +9,3 @@ Hot-shot teknolojili las tabanca; güç kemeri beslemeli, zırh delen yan silah.
 Hellpistol, hellgun teknolojisini tek elin avucuna sığdırır: güç kemerine ya da sırt hücresine bağlanan tabanca, standart laspistolün kat kat üzerinde yoğunlukta atım üretir. Tempestus Scion subayları onu rütbe silahı olarak taşır; Inquisition ajanları için ise gizlenebilir boyutuyla zırh delebilen ender yan silahlardandır. Atımının vınlaması, sıradan lazerden daha derin ve daha tehditkardır; bilenler sesi duyduğunda siper arar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/dd/HotshotLaspistol.jpg)

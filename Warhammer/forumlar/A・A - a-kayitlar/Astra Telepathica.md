@@ -9,8 +9,6 @@ Kurumun sorumluluğu bununla sınırlı değildir. Galaksinin dört bir yanında
 
 Astra Telepathica, Emperor'un Terra'dan yaydığı işareti yöneten **Adeptus Astronomica** ile sıkı bir bağ içindedir ama onunla aynı şey değildir. Astronomican'ın korosunu besleyen psykerlerin önemli kısmı da Astra Telepathica'nın elinden geçer; bu iki kurum, Imperium'un Warp'a dayanan iki yaşamsal damarını birlikte taşır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/85/AdeptusAstraTelepathica1.png/revision/latest?cb=20170621041106)
-
 ## Kökenler ve Great Crusade
 Great Crusade döneminde Emperor'un fetih filoları arasındaki iletişim, telepatik yeteneklere sahip insanların örgütlü kullanımına dayanıyordu. Heresy dönemini anlatan romanlarda astropathların merkezi Terra'nın Himalazia dağlarındaki **City of Sight** olarak betimlenir. Graham McNeill'in *The Outcast Dead* romanı, Horus'un ihanetinin haberlerinin Terra'ya ulaştığı günlerde bu kentte yaşayan astropath **Kai Zulane** üzerinden kurumun iç dünyasına, astropatik travmaya ve bir mesajın taşıdığı dehşetin psykerin zihninde nasıl yaşadığına eğilir.
 

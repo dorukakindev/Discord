@@ -19,5 +19,3 @@ Kaynaklar Ûthar'ı, Great Rift sonrasında League'lerin çekirdeğin dışına 
 -# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votann — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759789988642876>, <#1551813334993739777>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/24/UthartheDestinedMini.jpg/revision/latest/scale-to-width-down/996?cb=20230206163854)

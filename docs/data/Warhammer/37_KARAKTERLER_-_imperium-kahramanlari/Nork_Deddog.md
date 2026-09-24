@@ -9,5 +9,3 @@ Nork Deddog, gelişmiş beyin gücünü ve devasa Ogryn kuvvetini bir Komiser'in
 Yapay zihinsel geliştirme (muhtemelen Bone 'ead'lerin yaratımında kullanılan süreçle aynısı) geçirdi ve kısa sürede özel bir birimde eğitim görmeye başladı. Albay Greiss komutasındaki 2. Catachan'a atandı ve Balur'da savaştı; çabucak Albay'ın kişisel koruması olarak alındı ve savaşların sürdüğü dört yıl boyunca ikisinin birlikte görülmesi sıradan bir manzaraya dönüştü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/8b/IG5ENork_Deddog.jpg)

@@ -11,5 +11,3 @@ Battlewagon, Orklar'ın devasa ana savaş aracıdır; Trukk'un çok daha büyük
 Battlewagon, hem bir taşıyıcı hem bir savaş aracıdır; koca bir mob (kalabalık) Ork'u düşman hattına taşırken, aynı zamanda çok sayıda silahı (killkannon, kannon, big shoota) ile ateş yağdırır ve önündeki "Deff Rolla" (ezme mahmuzu) ile önüne çıkan her şeyi (askerleri, engelleri, hatta araçları) ezerek ilerler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fa/BattlewagonArt.jpg)

@@ -13,5 +13,3 @@ Crisis Battlesuit (XV8), Tau İmparatorluğu'nun en ikonik ve en çok yönlü sa
 Crisis Battlesuit'in en büyük gücü, modülerliğidir; sabit silahlara mahkûm değildir, görevine göre farklı silah sistemleriyle (plazma tüfeği, füze pod'ları, burst cannon, fusion blaster gibi) donatılabilir. Bu, onu inanılmaz derecede uyarlanabilir kılar; aynı zırh, bir görevde tank avcısı, bir başkasında piyade biçici olabilir. Tau'nun "doğru araç, doğru iş için" mühendislik zihniyetinin mükemmel bir örneğidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b5/BattlesuitsArt.jpg)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0f/Master_of_Shadows_Kayvaan_Shrike.png/revision/latest?cb=20190930090827
+
 -# THE IMPERIAL ARCHIVE · K Kayıtları · Kayıt
 # Kayvaan Shrike
 

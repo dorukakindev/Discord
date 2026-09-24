@@ -12,8 +12,6 @@ Bu kanal Heretic Astartes ekosisteminin bütününe odaklanır. Tek tek Legion'l
 
 **Temel ayrım:** *Traitor Legion*, Horus Heresy'de isyan eden on sekiz Legion'dan dokuzunun mirasıdır; *Renegade Chapter* ise Heresy'den sonra, M31–M41 arasında Imperium'dan kopan Codex çağı Chapter'larıdır. İki grup aynı sancağın altında savaşabilir, ama kökenleri ve kültürleri birbirinden belirgin biçimde ayrılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/da/ChaosSpaceMarinesIcon.jpg/revision/latest/scale-to-width-down/1000?cb=20220727154127)
-
 ## Kökenler: Heresy'den Eye of Terror'a
 Heretic Astartes'ın başlangıç noktası Horus Heresy'dir. Warmaster Horus'un isyanına katılan Emperor's Children, Iron Warriors, Night Lords, World Eaters, Death Guard, Thousand Sons, Sons of Horus, Word Bearers ve Alpha Legion, Siege of Terra'da Horus'un ölümüyle birlikte dağıldı. Great Scouring boyunca Imperial kuvvetleri tarafından galaksinin dört bir yanında kovalanan bu Legion'ların büyük kısmı sonunda Eye of Terror'a, gerçeklik ile Warp'ın iç içe geçtiği o yaralı bölgeye çekildi.
 

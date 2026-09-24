@@ -11,5 +11,3 @@ Terra Kuşatması, Horus Heresy'nin doruğu ve insanlık tarihinin en belirleyic
 Rogal Dorn'un tasarladığı, milyon kilometrelik İmparatorluk Sarayı surları aylarca kanla dövüldü; tarihin en büyük kuşatması yaşandı. Sayısız Astartes, Custodes, Titan ve trilyonlarca insan asker öldü. İmparator, son ana kadar gizemli bir biçimde geri durdu (belki Webway'i koruyor, belki oğlunu öldürmek istemiyordu).
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/7/7e/Book2.jpg/45px-Book2.jpg)

@@ -19,5 +19,3 @@ Eye of Terror'daki savaşlar, Legion'ların çözülüşü ve warband'lerin doğ
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Black Legion — Aaron Dembski-Bowden*
 
 -# İlişkili kayıtlar: <#1551812225570836561>, <#1551811342405599345>, <#1551816158951510069>, <#1551811393680838699>
-
-![gorsel](https://vignette.wikia.nocookie.net/warhammer40k/images/6/68/ChaosChosen.jpg/revision/latest?cb=20170824054022)

@@ -11,5 +11,3 @@ Minotaurs, 40K'nın en karanlık ve en tartışmalı chapter'larından biridir; 
 En dikkat çekici özellikleri, sahip oldukları olağanüstü miktarda eski, nadir ve değerli teçhizattır; Heresy çağından kalma relikt silah ve zırhlara, başka hiçbir chapter'ın erişemediği kadar bol miktarda sahiptirler. Bu, onların doğrudan İmparatorluğun en yüksek otoritesiyle (Terra'nın Yüksek Lordları) gizli bir bağı olduğu söylentilerini doğurur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/84/MolocArt.jpg)

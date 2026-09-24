@@ -10,8 +10,6 @@ Garro, XIV Legion'ın Mortarion'la buluşmasından önceki Terra kökenli çekir
 
 Garro'nun hikâyesi James Swallow'un kaleminde şekillenmiştir: *The Flight of the Eisenstein* ile başlayan yol, onu Malcador'un gizli işlerine, Knights-Errant'ın kuruluşuna ve Grey Knights'ın doğuşuna tanıklık eden *The Buried Dagger*'a kadar taşır. Bu madde Garro'yu bir kişi olarak ele alır; Death Guard'ın düşüşü **kayıt** ve **kayıt**, Sigillite'ın ağı **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c3/Nathaniel_Garro_Agentia_Primus.png/revision/latest?cb=20160829053135)
-
 ## Isstvan III ve Eisenstein'ın Kaçışı
 *The Flight of the Eisenstein*, Garro'yu Legion'ının içinde büyüyen karanlığı sezmeye başlayan bir kaptan olarak tanıtır. First Captain Calas Typhon'un çevresinde toplanan lodge ve gizli bağlılıklar, Garro'nun gözünde Death Guard'ın sade, gösterişsiz onurunu kemiren bir hastalıktı. Legion içindeki rakibi Ignatius Grulgor ise bu çatlakların öteki yakasında duruyordu.
 

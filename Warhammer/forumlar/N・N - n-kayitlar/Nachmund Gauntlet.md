@@ -10,8 +10,6 @@ Geçidin neden istikrarlı kaldığı yayımlanmış kanonda açıklanmamıştı
 
 Adındaki "gauntlet" sözcüğü boşuna seçilmemiştir. Koridordan geçmek, iki yanı düşmanla dolu bir sıranın arasından yürümek demektir: Warp'ın kıyısında pusuya yatan Chaos kuvvetleri, esir avına çıkan akıncılar ve geçidin kendisinin öngörülemez çalkantıları, her konvoyu bir sınava çevirir. Buna karşın Imperium'un Nihilus'a asker, ikmal ve umut ulaştırabileceği yollar o kadar azdır ki bu tehlike göze alınmak zorundadır. Aynı kural öbür yön için de geçerlidir: Gauntlet'i tutan bir Chaos gücü, Sanctus'un kalbine uzanan bir kapının anahtarını da elinde tutar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/89/NachmundGauntlet.jpg/revision/latest?cb=20190107030902)
-
 ## İki Uç: Vigilus ve Sangua Terra
 Geçidin Imperium Sanctus yakasındaki ağzında **Vigilus** durur. Hivesprawl'larıyla ünlü bu dünya, Gauntlet'in açılmasıyla birlikte bir sanayi ve savunma merkezinden, bütün bir yarım galaksinin kaderine bağlanan bir kilit noktasına dönüştü. Ork Speedwaaagh!'ı, Pauper Princes kültünün ayaklanması ve Abaddon'ın saldırısıyla örülen War of Beasts'in ayrıntısı **kayıt** kanalındadır; burada önemli olan, bu savaşın bir dünya için değil, bir geçit için verildiğidir. Abaddon'ın Vigilus'a yönelmesi, kaynaklarda doğrudan Nachmund Gauntlet'in denetimini ele geçirme amacına bağlanır.
 

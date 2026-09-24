@@ -13,8 +13,6 @@ Lorgar'ın düştüğü Colchis, Covenant adıyla bilinen bir rahip sınıfını
 
 Genç Lorgar, gördüğü vizyonlarda altın bir figürün geleceğini vaaz etti; Colchis'in eski inancının tanrılarını tek bir yüce varlığın yüzleri gibi yorumlayan öğretisi, Covenant'la kanlı bir iç savaşa yol açtı. Lorgar bu savaşı kazanarak Colchis'in dinî hâkimi oldu; Urizen unvanıyla anıldı. Emperor geldiğinde, yanında Magnus the Red de bulunuyordu. Lorgar, gökten inen bu varlığı vizyonlarının gerçekleşmesi olarak karşılayıp önünde diz çöktü. Bu karşılaşma, onun hem en büyük umudu hem de en derin yarasının başlangıcıydı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/11/Warhammer_40%2C000_Grim_Dark_Lore_Part_15_%E2%80%93_Bearer_of_the_Word/revision/latest?cb=20200608214004)
-
 ## Great Crusade: İmanın Ordusu
 XVII Legion'a kavuşan ve onu Word Bearers adıyla yeniden şekillendiren Lorgar, Great Crusade'i bir fetih değil, bir müjde olarak gördü. Emperor'un tanrısallığını akılla temellendirmeye çalışan metinler yazdı; Imperium'da sonradan yayılacak Lectitio Divinitatus geleneği onun kalemine bağlanır. Fethettiği dünyalarda katedraller yükseltiyor, halkı dönüştürmeden bir dünyayı tamamlanmış saymıyordu. Bu yüzden Legion'un ilerleyişi yavaşladı ve Word Bearers'ın başarısı, kardeş Legion'ların gözünde giderek şüpheyle anılır oldu.
 

@@ -22,5 +22,3 @@ Son derece değişken biçimler: yiyecek olarak yetiştirilenler, saldırı squi
 -# Kaynaklar: *Codex: Orks — 10th Edition*; *'Ere We Go*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/ff/Attack_Squig.jpg/revision/latest?cb=20130612211122)

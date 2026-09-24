@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Primarchs_Perturabo_coverart.png/revision/latest?cb=20161119114321
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Perturabo (IV)
 

@@ -18,6 +18,4 @@ Iyanden filosunun başında parlak bir zafer kazanıp craftworld'ü savunmasız 
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Codex: Craftworlds — 8th Edition*
 
--# İlişkili kayıtlar: <#1551740901133520896>, <#1551714833236496445>, <#1551742227967901717>, <#1551741455062540318>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/80/Prince_Yriel_Iyanden.png/revision/latest?cb=20130726163331)
+-# İlişkili kayıtlar: <#1551810727445004339>, <#1551812290439942255>, <#1551809334483361823>, <#1551815033518948404>

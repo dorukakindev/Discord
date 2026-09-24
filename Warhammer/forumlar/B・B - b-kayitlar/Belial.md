@@ -11,8 +11,6 @@ Chapter içindeki yeri, Ravenwing'in Grand Master'ı **Sammael** ile birlikte d�
 ## Köken ve Yükseliş
 Belial'ın doğum dünyası ve Chapter'a katılışı hakkında yayımlanmış ayrıntılar son derece sınırlıdır. Gav Thorpe'un Piscina IV'teki Ork savaşını işleyen *The Purging of Kadillus* romanı onu Deathwing'in başına geçmeden önceki bir dönemde, bir Company komutanı olarak gösterir; Deathwing'e hangi seferin ya da hangi kararın ardından yükseldiği ise kaynaklarda aynı ayrıntıyla anlatılmaz. Arşiv bu boşluğu doldurmaz: Belial'ın kimliği, kendi geçmişinden çok taşıdığı makam üzerinden tanımlanır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/61/Sword_of_Silence_Belial.png/revision/latest/scale-to-width-down/802?cb=20130821191255)
-
 ## Deathwing'in Başında
 Deathwing, Horus Heresy döneminde I Legion'ın **Hexagrammaton** adı verilen altı Wing'inden biri olarak anılır; Codex sonrası Chapter'da ise yalnızca adı ve seçkinlik geleneği yaşamaya devam etmiştir. Birliğin kemik beyazı renginin kökenine dair Chapter içinde birbirinden ayrılan efsaneler dolaşır ve kaynaklar bunları tek bir anlatıya bağlamaz. Belial'ın komuta ettiği Deathwing, bu kadim adın taşıdığı ağırlıkla hem gurur hem de yükümlülük olarak yaşar.
 

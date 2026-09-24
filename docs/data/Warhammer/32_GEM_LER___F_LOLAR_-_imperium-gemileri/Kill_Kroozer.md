@@ -19,5 +19,3 @@ Kill Kroozer'lar Ork filolarının belkemiği olarak anlatılır. Ork'ların uza
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814512657698817>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/00/Ork_Killa_Kroozer.png/revision/latest?cb=20200705034537)

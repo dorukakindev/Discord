@@ -9,5 +9,3 @@ Banner of Macragge (Macragge Sancağı), Ultramarines chapter'ının en saygın 
 Sancağın kutsallığı, bizzat kökeninden gelir; ca. 798.M30'da, Büyük Haçlı Sefer'in başında, İmparator onu XIII. Lejyon'un primarch'ı Roboute Guilliman'a kendi eliyle sundu. İnsanlığın Efendisi'nin dokunuşunu taşıması, ona ölçülemez bir kutsallık katar. Ultramarines, onu on standart milenyum boyunca ateşten, savaştan ve yıkımdan geçirerek korudu; her nesil, onu yarattıkları ölümsüz İmparator'a duydukları sevginin yanan bir meşalesi olarak bir sonrakine devretti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/b/b1/Ultramarines_Symbol.png/45px-Ultramarines_Symbol.png)

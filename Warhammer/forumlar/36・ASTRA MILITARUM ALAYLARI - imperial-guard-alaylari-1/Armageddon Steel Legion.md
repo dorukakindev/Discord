@@ -11,5 +11,3 @@ Armageddon Çelik Lejyonu, Segmentum Solar'daki yoğun sanayileşmiş kovan dün
 Çelik Lejyonu en çok mekanize piyade alaylarıyla tanınır; bu, gezegenin Chimera bolluğunun doğal bir sonucudur. Çoğu alay zırh, topçu, piyade ve mekanize piyadeyi bir araya getiren birleşik silah birlikleridir. Her alay genellikle on iki bölükten oluşur ve tam mevcudunda bir bölük yüz yetmiş beş askere ulaşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/46/Steel.jpg)

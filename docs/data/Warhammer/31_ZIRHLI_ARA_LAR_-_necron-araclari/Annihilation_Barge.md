@@ -11,5 +11,3 @@ Annihilation Barge (İmha Gemisi), Necron'ların yüzen ağır ateş platformudu
 Annihilation Barge'ın ana silahı, ikiz Tesla Destructor'larıdır; bu devasa enerji topları, yıkıcı yıldırım yayları fırlatır. Tesla teknolojisinin korkunç özelliği, enerjinin bir hedeften diğerine sıçramasıdır; tek bir atış, bir piyade kümesinin içinde zincirleme atlayarak birden çok düşmanı aynı anda kavurur. Bu, Annihilation Barge'ı Necron'ların en sevilen anti-piyade destek platformu yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/54/AnnihilationBargeArt.jpg)

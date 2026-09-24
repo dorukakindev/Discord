@@ -32,8 +32,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9c/DAB3.jpg/revision/lat
 
 ### Unification Wars
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9c/DAB3.jpg/revision/latest?cb=20160103051635)
-
 Dark Angels, **Terra Unification Wars** sırasında kuruldu. **M30**'da **Emperor**'un emriyle **I. Legion** olarak faaliyet gösterdi.
 
 ### Great Crusade

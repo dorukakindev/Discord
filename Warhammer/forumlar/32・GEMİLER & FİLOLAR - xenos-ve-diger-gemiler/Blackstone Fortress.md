@@ -11,5 +11,3 @@ Karataş Kaleleri (Blackstone Fortresses), kökeni bilinmeyen kadim xenos super-
 Devasa, kara ve tehditkar siluetler olarak void'de süzülürler.\n\nTam olarak aktive edildiğinde bir Blackstone Fortress, gerçeklik (realspace) ile Warp arasındaki bariyeri kırma yeteneğine sahiptir; saf immateryumdan oluşan bir ışın yaratarak yolundaki her şeyi yok eder.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a9/Blackstone_Fortress.jpg)

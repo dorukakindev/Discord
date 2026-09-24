@@ -11,5 +11,3 @@ Biovore, Tyranid sürüsü için güçlü bir "yaşayan topçu" silahıdır; bod
 Biovore'un bodur formunun derinliklerinde, bir Spor Mayını kümesi beslenir; bunlar, savaş alanını kaplayan ve düşmanları asit, zehir ve kitin parçalarıyla örten canlı bombalardır. Biovore bu mayınları bedeninden fırlatarak, uzaktaki düşman yığınaklarının üzerine adeta bir topçu bataryası gibi yağdırır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/67/Biovore_art.jpg)

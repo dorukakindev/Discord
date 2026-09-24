@@ -11,8 +11,6 @@ Corax'ın kapsülü, Forge World **Kiavahr**'ın yörüngesindeki maden ve hapis
 
 Corax bu yıllarda kendine özgü bir yeteneği keşfetti: doğrudan bakan birinin algısından bile sıyrılarak fark edilmeden hareket edebiliyordu. Kaynaklar bu gücün cihazları değil gözlemcinin zihnini yanılttığını belirtir; mekanizması ise kesin bir psişik tanıma bağlanmaz. Gardiyanların arasında görünmeden dolaşabilmesi, isyanın temelini oluşturan küçük hücrelerin örgütlenmesini mümkün kıldı. Corax'ın kişiliği de bu karanlıkta biçimlendi: temkinli, içine kapanık, zulme karşı sönmeyen bir öfke taşıyan ve bağlılığını unvanlara değil insanlara veren bir önder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest/scale-to-width-down/750?cb=20160528134728)
-
 ## İsyan ve Emperor
 Corax'ın hazırladığı ayaklanma, silah ve cephane çalan, kilit sistemleri sabote eden küçük hücrelerin sabırlı çalışmasıyla olgunlaştı. İsyan patladığında kanlıydı; Corax adi suçluların savaş gücünü bile kullanmak zorunda kaldı. *Deliverance Lost*'taki anlatıya göre tech-guild'lerin kendi stokladığı nükleer silahları Kiavahr'ın fabrikalarına çevirme kararı, binlerin ölümüyle milyonları kurtarma hesabını ona erkenden öğretti. Bu, özgürlükçü bir önderin bile savaşın soğuk aritmetiğinden kaçamayacağının ilk dersiydi.
 

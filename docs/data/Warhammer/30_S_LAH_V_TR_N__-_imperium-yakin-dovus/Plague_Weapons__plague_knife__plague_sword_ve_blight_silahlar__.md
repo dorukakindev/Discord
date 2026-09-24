@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b9/PlagueKnife.png/revision/latest?cb=20170826025208
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Plague Weapons (plague knife, plague sword ve blight silahları)
 

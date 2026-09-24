@@ -11,5 +11,3 @@ Carnifex, Tyranid Hive Mind'ının "yaşayan tankıdır"; tamamen biyolojik, dev
 Carnifex, bir koçbaşı gibi düşman hattına dalar; muazzam fiziksel gücü, kalın doğal zırhı ve devasa pençeleriyle (crushing claws, scything talons) hem zırhlı araçları hem tahkimatları parçalar. Bio-plazma (canlı ateş) ya da venom cannon gibi biyo-silahlarla uzaktan da döver. Bir Carnifex'i durdurmak, çoğu zaman onu defalarca "öldürmek" gerektirir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a9/Carnifex.jpg)

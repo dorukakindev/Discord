@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Ryza.jpg/revision/latest/scale-to-width-down/900?cb=20200801195133
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Ryza.jpg/revision/latest/scale-to-width-down/900?cb=20200801195133)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Ryza — Ryza

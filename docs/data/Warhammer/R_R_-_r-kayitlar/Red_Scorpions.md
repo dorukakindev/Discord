@@ -10,8 +10,6 @@ Bu inanç Red Scorpions'ı hem saygı duyulan hem de pek sevilmeyen bir kardeşl
 
 Chapter'ın modern kimliği büyük ölçüde Forge World'ün *Imperial Armour* ciltlerinde biçimlenmiştir. Bu yüzden Red Scorpions, bir roman kahramanının gözünden değil; seferleri, komuta yapısı ve kurumsal takıntıları üzerinden, askerî tarih diliyle tanınır. Merkezdeki iki olay, M41'in son yüzyıllarında Imperium'un kendi içinde kanadığı iki savaştır: **Siege of Vraks** ve **Badab War**. Merkezdeki isim ise Chapter'ın Lord High Commander'ı **Carab Culln**'dür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/46/Red_Scorpions_Chapter_Icon.jpg/revision/latest?cb=20161118072442)
-
 Bu kanal Red Scorpions'ı bir Chapter olarak ele alır: soyunu, saflık öğretisini, Apothecarion'un Chapter içindeki olağandışı yerini, komutanlarını ve iç savaşlardaki rolünü. Badab War'un bütünlüklü anlatısı <#1551811438547312645>, Vraks kuşatmasının seyri siege-of-vraks kanalındadır.
 ---MSG---
 ## Kökenler ve Soy
@@ -20,8 +18,6 @@ Red Scorpions'ın soyu konusunda kaynaklar tek sesli değildir. Kimi özetler Ch
 Chapter'ın hangi Founding'de kurulduğu konusunda yayımlanmış kaynaklar tek ve açık bir tarih öne çıkarmaz; bu yüzden kesin bir Founding numarası verilemez. Belirgin olan, Red Scorpions'ın M41'in sonlarına gelindiğinde köklü, deneyimli ve kendi geleneklerini çoktan oturtmuş bir Chapter olduğudur.
 
 Soyun asıl anlatıldığı yer gene-seed'in kendisidir. Kaynaklar Red Scorpions'ın gene-seed'ini olağanüstü saf, bozulmadan korunmuş bir stok olarak tanımlar: Adeptus Astartes'in çoğunda yüzyıllar içinde birikmiş kusurlar, işlevini yitirmiş organlar ve kuşaktan kuşağa aktarılan sapmalar Red Scorpions'ta çok daha az görülür. Chapter bu durumu bir şans ya da biyolojik bir ayrıcalık olarak değil, kendi titizliğinin ödülü olarak yorumlar.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/46/Red_Scorpions_Chapter_Icon.jpg/revision/latest?cb=20161118072442)
 
 Burada evren içi iddia ile gözlem arasındaki çizgiye dikkat etmek gerekir. Gene-seed'in saflığı kaynaklarda aktarılan bir durumdur; bu saflığın Chapter'ın ahlaki üstünlüğünü kanıtladığı fikri ise tamamen Red Scorpions'ın kendi inancıdır. Imperium'un geri kalanı bu inancı her zaman paylaşmaz. Nitekim saf gene-seed'e bu denli değer veren bir Chapter'ın, kusurlu soydan gelen kardeş Chapter'lara nasıl baktığı, Red Scorpions'ın diplomatik yalnızlığının da açıklamasıdır.
 ---MSG---

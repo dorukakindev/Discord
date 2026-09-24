@@ -11,5 +11,3 @@ Chainsword (Zincir Kılıç), 40K'nın en ikonik yakın dövüş silahlarından 
 Chainsword'ün etkisi yalnızca fiziksel değil, aynı zamanda psikolojiktir; çalışırken çıkardığı o tiz, öfkeli vınlama sesi başlı başına bir moral silahıdır. Bir Space Marine taarruz biriminin (Assault Marine) düşman hattına dalıp chainsword'lerini çalıştırması, en cesur düşmanın bile yüreğine korku salar. Astartes'ten Imperial Guard'a, hatta Kaos güçlerine kadar İmparatorluk savaşının her yerindedir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/00/ChainswordArt.jpg)

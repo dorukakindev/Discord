@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Fire_Dragons_Aspect_Rune.jpg/revision/latest?cb=20121118074207
+
 -# THE IMPERIAL ARCHIVE · F Kayıtları · Kayıt
 # Fire Dragons
 

@@ -22,5 +22,3 @@ Her atış öncesinde büyük bir enerji birikimi gerekir; bu yüzden ateş hız
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551753458779029565>, <#1551753449878724689>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/SW_Lascannon.png/revision/latest?cb=20140810205557)

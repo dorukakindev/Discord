@@ -21,6 +21,4 @@ Diyarı Garden of Nurgle'dır; tanrının orada bir kazanın başında yeni hast
 
 -# Kaynaklar: *Codex: Death Guard — 10th Edition*; *The Buried Dagger — James Swallow*; *Realm of Chaos: The Lost and the Damned*; *Dark Imperium: Plague War — Guy Haley*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1a/MarkofNurgleBig.png/revision/latest?cb=20170908232551)
-
 -# İlişkili kayıtlar: <#1551754683222327439>, <#1551813274327060552>, <#1551650329316036699>, <#1551818194841501818>, <#1551654107058540595>

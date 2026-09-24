@@ -11,5 +11,3 @@ Legio Defensor, "Nova Guard" (Nova Muhafizlari) olarak da bilinen Sadik bir Tita
 Bu inanc, lejyonun Sapkinlik boyunca sergiledigi sarsilmaz sadakatin de ruhani temelini olusturdu.\n\nSapkinlik sirasinda Nova Muhafizlari, Tarren Bastirmasi'nda Hain-yandasi sehirleri vahsi bir ibret olarak cezalandirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f3/Legio-Defensor-Warlord.jpg)

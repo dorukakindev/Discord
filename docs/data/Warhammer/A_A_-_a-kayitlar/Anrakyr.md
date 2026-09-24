@@ -10,8 +10,6 @@ Anrakyr'ı uyanış çağının öteki Overlord'larından ayıran, bakışının
 
 Kapsam notu: Hanedanların genel düzeni <#1551817348900589669>, Necron uygarlığının bütünü <#1551759762193121282>, Tomb World'lerin yapısı tomb-worlds, Cryptus'un içinde yer aldığı büyük savaş ise devastation-of-baal ve <#1551809334483361823> kanallarındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Overlord_Anrakyr_.jpeg/revision/latest/scale-to-width-down/714?cb=20200412101935)
-
 ## Uyandıran Soylu: Misyon ve Yöntem
 Great Sleep, Necron dünyalarını eşit biçimde korumadı. Bir kısmı zamanında uyandı, bir kısmı uyanma protokollerindeki arızalar yüzünden sessiz kaldı, bir kısmı da genç ırkların kazıları ya da doğal felaketlerle hasar gördü. Anrakyr'ın yolculuğu bu dağınık mirasın içinden geçer: uyuyan dünyaları bulmak, uyandırmak ve onları yeniden ortak bir amacın parçası yapmak. Kaynaklar onun bu çabayla birden fazla Tomb World'ü ayağa kaldırdığını anlatır; bunların sayısı ve hangi hanedanlara ait oldukları ise yayımlanmış kanonda ayrıntılandırılmaz.
 

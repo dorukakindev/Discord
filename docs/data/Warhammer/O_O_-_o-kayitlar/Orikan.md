@@ -10,8 +10,6 @@ Orikan'ı sıradan bir saray kâhininden ayıran şey, sabrıdır. Necron soylul
 
 Kapsam notu: Cryptek'lerin disiplinleri ve toplumsal konumu **kayıt**, Sautekh ve öteki hanedanların yapısı **kayıt**, efendisi **kayıt**, ezelî rakibi ise trazyn-the-infinite kanalındadır. Bu madde Orikan'ı bir kişi olarak ele alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/79/OrikantheDiviner.jpg/revision/latest?cb=20230929173137)
-
 ## Yıldızlar, Zaman ve "Doğru An"
 Orikan'ın kehanet sanatı, Necron teknolojisinin en ürkütücü alanlarından biriyle, zamanın kendisiyle iç içedir. Kaynaklar onun olası gelecekleri gözlemleyebildiğini, zamanın akışına küçük ama kritik müdahalelerde bulunabildiğini anlatır. Bazı anlatımlar, Orikan'ın bir öngörüsünün boşa çıkmaması için olayların içine geri dönüp düzeltmeler yaptığını ima eder. Bunun ne ölçüde gerçek bir zaman yolculuğu olduğu, ne ölçüde saray çevresinin ona yakıştırdığı bir efsane olduğu yayımlanmış kanonda kesinleştirilmez; arşiv bu yüzden onu kanıtlanmış bir yetenek olarak değil, karakterin çevresindeki iddia ve imalar olarak kaydeder.
 

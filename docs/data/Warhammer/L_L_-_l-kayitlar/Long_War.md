@@ -9,8 +9,6 @@ Long War'u özgün kılan, katılımcılarının bir kısmı için gerçek anlam
 
 Bu kanal, Long War'u bir kavram ve ideoloji olarak ele alır. Heretic Astartes'in örgütlenmesi ve faction yapısı için <#1551812225570836561>, Abaddon'un büyük seferleri için <#1551811393680838699>, Long War'u doğuran sürgün için <#1551808968190464005> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Long_War_II.png/revision/latest?cb=20160520052615)
-
 ## Kökenler ve Kin
 Long War, Siege of Terra'nın yenilgisiyle ve ardından gelen Great Scouring'le doğdu. Horus'un ölümü hain Legion'ları dağıttı; Eye of Terror'a sürülen bu savaşçılar kendi gözlerinde yalnızca yenilmemiş, aynı zamanda aldatılmışlardı. Pek çoğu için Emperor, Imperial Truth'un arkasında Warp'ın gerçek doğasını saklayan ve oğullarını birer araç gibi kullanan bir yalancıydı. Bu kin, Long War'un en eski ve en ortak yakıtıdır; fakat bunun bir evren içi bakış açısı olduğu, ansiklopedik bir hüküm olmadığı unutulmamalıdır.
 

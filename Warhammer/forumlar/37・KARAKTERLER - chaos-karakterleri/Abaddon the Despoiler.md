@@ -13,5 +13,3 @@ Abaddon the Despoiler ("Talihsizlik Getiren"), Horus'un mirasını üstlenen ve 
 Abaddon'un dehası, normalde birbirine düşman olan dört Kaos gücünün kullarını (Khorne, Tzeentch, Nurgle, Slaanesh ve Bölünmemiş) tek bir amaç (İmparatorluğun yıkımı) altında toplayabilmesidir; bu, neredeyse imkânsız bir liderlik başarısıdır. Horus'un entegre bolterli dev pençesi Talon of Horus'u ve gerçekliği kesen kadim iblis kılıcı Drach'nyen'i taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/cf/AbaddonHH1.jpg)

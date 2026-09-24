@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Mark_of_Chaos.png/revision/latest?cb=20141230221639
+
 -# THE IMPERIAL ARCHIVE · Tarikatlar · Kayıt
 # Chaos Undivided
 

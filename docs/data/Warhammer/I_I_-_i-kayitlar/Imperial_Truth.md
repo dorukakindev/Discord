@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d3/SeditionsGateCover.jpg/revision/latest?cb=20140709072403
+
 -# THE IMPERIAL ARCHIVE
 # Imperial Truth
 

@@ -10,8 +10,6 @@ Kökenleri Dark Age of Technology'nin büyük kolonileşme dalgalarına uzanır.
 
 Bu kabulün bedeli, soya yapışan önyargıdır. Imperial subaylar Ogryn'leri çoğu zaman aptal, çocuksu ve yalnızca kaba kuvvete yarar varlıklar olarak betimler. Ogryn'lerin zekâsının sıradan insanın gerisinde kaldığı kaynaklarda tutarlı biçimde vurgulanır; ancak bu tasvirin önemli bir kısmı Imperial bakışın küçümsemesini de taşır. Birçok anlatı, Ogryn'lerin sadakatini, sevgisini ve basit ama sarsılmaz ahlakını, onları yöneten insanlarınkinden daha temiz gösterir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Ogryn_battle2.jpg/revision/latest?cb=20141126181038)
-
 ## Savaş Rolü, Bone'ead'ler ve Bullgryn'ler
 Ogryn birlikleri Astra Militarum'da genellikle ayrı yardımcı birlikler olarak örgütlenir ve bir alaya ya da savaş grubuna bağlanır. Görevleri açıktır: en sert noktaya yüklenmek, siper ve barikatları dağıtmak, düşman yakın dövüşçülerini durdurmak ve gerektiğinde komutanları bedenleriyle korumak. Ogryn'ler, bir kez bağlandıkları komutana ve Emperor'a olan dolaysız inançlarıyla, moralin çöktüğü anlarda bile yerlerinde kalabilen nadir birliklerdendir. Karmaşık emirleri kavramakta zorlanmaları ise onları yöneten subaylar için sürekli bir sınavdır.
 

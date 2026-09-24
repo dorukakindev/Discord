@@ -52,5 +52,3 @@ Shrike, 2008'deki 5th Edition *Codex: Space Marines* ile tanıtıldı ve Targus 
 
 **Kaynaklar:** *Codex: Space Marines — 5th Edition*; *Hunt for Voldorius — Andy Hoare*; *Codex Supplement: Raven Guard — 8th Edition*; *Psychic Awakening: The Greater Good*; *Codex: Space Marines — 10th Edition*
 **Çapraz:** <#1551637736593821790>, <#1551649028121563137>, <#1551816084280320062>, <#1551638913683034174>, <#1551809146850910260>, <#1551818213782716427>, <#1551759766966116383>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0f/Master_of_Shadows_Kayvaan_Shrike.png/revision/latest?cb=20190930090827)

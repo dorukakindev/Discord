@@ -24,6 +24,4 @@ Nurgle'ın daemon lejyonları; Death Guard ile birlikte savaşan daemon kuvvetle
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Death Guard — 10th Edition*
 
--# İlişkili kayıtlar: <#1551588020694556762>, <#1551714793138954350>, <#1551587951631269999>, <#1551741846860996688>
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5b/Great_Unclean_Ones.JPG)
+-# İlişkili kayıtlar: <#1551754683222327439>, <#1551654107058540595>, <#1551995328863932499>, <#1551818194841501818>

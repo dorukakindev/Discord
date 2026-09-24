@@ -9,5 +9,3 @@ Lorgar, dini bir kültürün hâkim olduğu Colchis dünyasına düştü ve doğ
 İmparator'u bir tanrı ilan eden ilk ve en hararetli Primarch oydu; lejyonu Word Bearers'ı bir misyoner ordusuna çevirdi, fethedilen her dünyada İmparator'a devasa tapınaklar dikti. Ama İmparator tanrı olarak görülmeyi reddediyordu; Lorgar'ın yavaşlattığı fetihler ve aşırı dindarlığı onu rahatsız etti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/84/LorgarArt.jpg)

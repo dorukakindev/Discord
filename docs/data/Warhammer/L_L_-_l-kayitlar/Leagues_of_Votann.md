@@ -10,8 +10,6 @@ Kin uygarlığının kalbinde **Votann** adı verilen **Ancestor Core**'lar bulu
 
 Kin'i Imperium'dan ayıran en belirgin özellik, akla ve teknolojiye yaklaşımlarıdır. Kin, Imperium'un unuttuğu pek çok teknolojiyi hâlâ anlayarak kullanır; batıl inanç yerine hesaplama, ticari akıl ve pragmatizm onların dünya görüşünü belirler. Yayımlanmış kaynaklar ayrıca Kin'in Warp'taki yansımasının sönük olduğunu ve bu nedenle Chaos'un onları kolayca etkileyemediğini vurgular. League'lerin toplam nüfusu ya da askerî gücü hakkında kanonda kesin rakam verilmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)
-
 ## Kökenler ve Tarihçe
 Kin'in kökeni, insanlığın galaksiye yayıldığı Dark Age of Technology'ye uzanır. Kaynaklar, galaktik çekirdeğin maden ve kaynak açısından zengin ama yaşam için son derece düşmanca bölgelerine yerleşen insan kolonilerinin, kuşaklar boyunca bu ortama uyum sağlayarak ve teknolojinin de katkısıyla bugünkü Kin'e dönüştüğünü anlatır. Bu dönüşümün ayrıntılı biyolojik mekanizması ve kesin kronolojisi yayımlanmış kanonda tam olarak açıklanmaz.
 

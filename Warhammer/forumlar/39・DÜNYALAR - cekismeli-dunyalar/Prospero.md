@@ -9,5 +9,3 @@ Prospero, Heresy çağında Magnus the Red ve Thousand Sons lejyonunun anavatan�
 Prospero, İmparatorluğun çoğu dünyasının aksine, psyker'lara değer veren ve onları yetiştiren bir yerdi; Magnus burada hem bedence hem psişik güççe akıl almaz biçimde gelişmişti. Ama bu bilgi açlığı, gezegenin sonunu getirdi. Magnus'un Horus'un ihanetini İmparator'a yasak psişik güçle haber vermeye çalışması, Terra'nın savunmalarını delince mahkum oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e6/Prospero_%28John_Blanche%29.jpg)

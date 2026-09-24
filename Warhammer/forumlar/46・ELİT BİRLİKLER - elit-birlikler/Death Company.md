@@ -19,5 +19,3 @@ Death Company bir seçkinlik değil, bir sondur: kardeşler Chaplain'ların göz
 -# Kaynaklar: *Codex Supplement: Blood Angels — 10th Edition*; *The Devastation of Baal — Guy Haley*; *Mephiston: Blood of Sanguinius — Darius Hinks*
 
 -# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551808888666587197>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f5/DA_Co_Saltires.png/revision/latest?cb=20170111202206)

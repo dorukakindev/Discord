@@ -13,8 +13,6 @@ Commorragh'ı anlamanın anahtarı, şehrin bir ekonomi üzerine kurulu olmasıd
 
 **Kanal sınırı.** Drukhari halkının doğası ve savaş tarzı <#1551813105166712966>, Supreme Overlord'un kişiliği <#1551640169881534505>, Webway'in kendisi <#1551809699312181339> kanalında işlenir. Burada merkezde şehir, kurumları ve felaketleri durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/35/DrukhariRune.jpg/revision/latest?cb=20200730184358)
-
 ## Kökenler ve Şehrin Coğrafyası
 
 Commorragh'ın kökleri Aeldari imparatorluğunun doruk dönemine uzanır. Kaynaklara göre başlangıçta Webway'in korunaklı katmanlarında kurulmuş bir liman şehri, realspace'ten uzak bir buluşma ve ticaret noktasıydı. Aeldari toplumunun geleneksel denetiminin ulaşamadığı bu kentte zevk kültleri serbestçe yeşerdi ve zamanla imparatorluğun en aşırı soyluları burayı kendi sığınakları hâline getirdi.

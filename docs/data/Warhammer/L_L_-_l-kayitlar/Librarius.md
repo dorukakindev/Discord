@@ -10,8 +10,6 @@ Librarius'un görevleri savaş alanıyla sınırlı değildir. Librarian'lar dü
 
 Bu kanal Librarius'u bir **Chapter kurumu** olarak ele alır: kökeni, Council of Nikaea'nın gölgesi, Heresy sonrası yeniden kuruluşu, rütbeleri ve Chapter'lar arasındaki farklılıkları. Psişik gücün genel doğası <#1551818131679215728>, Warp'ın kendisi <#1551809666454134928> kanalında; tek tek ünlü Librarian'lar ise kendi maddelerinde işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest/scale-to-width-down/754?cb=20130930181411)
-
 ## Kökenler: Legion Librarius'ları ve Nikaea
 Great Crusade döneminde Legion'lar, saflarındaki psykerleri **Librarius** adı verilen yapılar içinde örgütledi. Bu yapıların ağırlığı Legion'dan Legion'a büyük farklılık gösteriyordu. Magnus the Red'in Thousand Sons'ı psişik bilgiyi Legion kimliğinin merkezine yerleştirirken, bazı Legion'lar psykerlere derin bir kuşkuyla baktı; Space Wolves kendi Rune Priest'lerini psyker saymayıp Fenris'in ruhlarıyla konuşan kâhinler olarak görmeyi yeğledi, White Scars ise Stormseer'larını Chogoris'in şaman geleneğinin devamı sayıyordu.
 

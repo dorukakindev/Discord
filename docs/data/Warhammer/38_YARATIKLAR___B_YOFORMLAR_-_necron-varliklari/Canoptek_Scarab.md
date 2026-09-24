@@ -11,5 +11,3 @@ Canoptek Scarab (Canoptek Bokböceği), Necron teknolojisinin en küçük ama en
 Barış zamanında, Canoptek Scarab sürüleri birer bakım ve onarım ordusudur; mezar kompleksini, uyuyan Necron lejyonlarını, yapıları ve makineleri çağlar boyunca temiz ve işler tutarlar. Hasar görmüş bir Necron savaşçısını ya da yapıyı, nano-ölçekli mekanizmalarıyla parça parça söker, ham maddeye dönüştürür ve yeniden inşa ederler; Necron'ların neredeyse anında "kendini onaran" doğasının bir parçası budur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b2/T40k-22-insect.jpg)

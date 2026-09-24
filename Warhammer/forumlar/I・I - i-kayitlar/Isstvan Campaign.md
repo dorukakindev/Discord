@@ -13,8 +13,6 @@ Sistemin yöneticisi **Vardus Praal**'ın Imperium'a karşı başlattığı isya
 
 Horus'un emrindeki dört Legion, yani Sons of Horus, Emperor's Children, World Eaters ve Death Guard, isyana katılmayacağı düşünülen savaşçılarını yüzeye indirdi. Bu savaşçıların seçimi, her Legion'da Primarch'ın ve onun yakın çevresinin kime güvenmediğine göre yapıldı. Böylece Isstvan III, bir cezalandırma seferi kılığına bürünmüş bir iç tasfiyeye dönüştü.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a1/Betrayal_Istvaan_III.jpg/revision/latest/scale-to-width-down/1000?cb=20121017031734)
-
 ## Isstvan III: Virüs Bombardımanı ve Choral City
 Sadıklar Praal'ın kuvvetlerini ezip şehri ele geçirdiğinde Warmaster'ın filosu gezegeni yaşayan her şeyi çürüten **virüs bombalarıyla** dövdü. Plan, sadık savaşçıların isyancılarla birlikte yok olmasıydı. Ne var ki uyarı, bombardımandan önce yüzeye ulaştı; sadıkların bir bölümü sığınaklara ve yıkıntılara çekilerek bu ilk darbeden kurtuldu.
 

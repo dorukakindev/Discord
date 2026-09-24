@@ -24,8 +24,6 @@ Attilan Vahşi Süvarileri gibi, Ölüm Süvarileri de hızlı saldırı ve keş
 
 ## Muharebeler
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest/scale-to-width-down/900?cb=20120626222205)
-
 - Hızlı saldırı ve keşif harekatları
 - Bozguna uğrayan düşmanın amansız takibi
 - Attila Vahşi Süvarileri'yle benzer süvari rolü

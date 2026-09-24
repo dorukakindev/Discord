@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Doomscythe1.jpg/revision/latest?cb=20130402064458
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # The Wailing Doom — Çığlık Atan Felaket

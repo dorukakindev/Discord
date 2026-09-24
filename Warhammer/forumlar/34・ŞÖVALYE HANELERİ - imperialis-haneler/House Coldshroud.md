@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/a1/House_Coldshroud_Icon_Fancy.png/revision/latest?cb=20211208101038
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a1/House_Coldshroud_Icon_Fancy.png/revision/latest?cb=20211208101038)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Coldshroud — Coldshroud Hanedanı

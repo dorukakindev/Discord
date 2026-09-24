@@ -19,5 +19,3 @@ Astra Militarum'da ağır silah ekiplerinin, Sentinel yürüyüşçülerinin ve 
 -# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *Codex: Chaos Space Marines — 10th Edition*; *Codex: Space Marines — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753458779029565>, <#1551812225570836561>, <#1551808888666587197>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/39/Imperial_Autocannon.jpg/revision/latest?cb=20120715232543)

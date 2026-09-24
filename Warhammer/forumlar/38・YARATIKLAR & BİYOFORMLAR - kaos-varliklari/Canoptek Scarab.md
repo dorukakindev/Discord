@@ -22,5 +22,3 @@ Maddeyi söküp ham malzemeye dönüştürebildikleri anlatılır; bu malzeme on
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/79/Necron_scarabs2.jpg/revision/latest?cb=20130327051648)

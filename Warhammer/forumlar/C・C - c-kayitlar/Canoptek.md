@@ -12,8 +12,6 @@ Canoptek construct'ları kuramsal olarak Tomb World'ün protokollerine, pratikte
 
 Adın, gerçek dünyada Mısır mumyalama geleneğindeki kanopik kapları çağrıştırdığı sıkça belirtilir; bu bir yayın tasarımı gözlemidir, evren içi bir etimoloji değildir. Bu kanal construct'ların kendisini ele alır; onların koruduğu dünyalar tomb-worlds, onları yöneten uzmanlar crypteks kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/45/Canoptek_wraith_necrons.jpg/revision/latest?cb=20130319162707)
-
 ## Başlıca Canoptek Biçimleri
 **Canoptek Scarab:** Metal böceklere benzeyen, sürü hâlinde hareket eden en kalabalık construct. Maddeyi söküp ham malzemeye dönüştürebildiği anlatılır; bu malzeme onarımda ya da yeni yapılarda kullanılır. Savaşta, önüne çıkanı kemiren bir metal bulutu olarak görülür.
 **Canoptek Spyder:** Örümceği andıran iri bakım ustası ve sürülerin çobanı. Gövdesinde yeni Scarab'lar üretebilen bir yapı taşıdığı anlatılır; bazı biçimleri fabricator düzenekleri ya da gloom prism gibi araçlarla tasvir edilir.

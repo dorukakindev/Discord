@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ae/Ork_Mega_Rok.png/revision/latest?cb=20200705035452
+
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Ork Rok
 

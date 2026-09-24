@@ -17,5 +17,3 @@ Abaddon'ın daemon kılıcıdır. İçindeki varlık, kaynakların ortak anlatı
 Abaddon, Drach'nyen'i Talon of Horus ile birlikte taşıyarak Black Crusade'lerine önderlik etti. *The Master of Mankind*'da aynı varlık Heresy döneminde Terra'nın altındaki Webway savaşında da belirir. Kılıç, 13th Black Crusade ve Fall of Cadia dahil Abaddon'ın büyük seferlerinin simgelerindendir.
 
 -# Kaynaklar: *The Talon of Horus — Aaron Dembski-Bowden*; *Black Legion — Aaron Dembski-Bowden*; *Codex: Chaos Space Marines — 10th Edition*
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsword3.png/revision/latest/scale-to-width-down/233?cb=20130821095331)

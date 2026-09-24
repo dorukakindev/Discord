@@ -11,5 +11,3 @@ Devilfish, Tau İmparatorluğu'nun temel anti-grav birlik taşıyıcısıdır; T
 Devilfish, bir Fire Warrior takımını hızla cepheye taşır ve burst cannon'ı ile destek ateşi sağlar; üzerindeki Gun Drone'lar (silahlı insansız hava araçları) ek koruma ve ateş gücü verir. Anti-grav teknolojisiyle zorlu arazide bile hızlı ve düzgün hareket eder; Tau'nun "doğru konumdan vur, sonra konum değiştir" felsefesini destekler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3d/DevilfishArt.jpg)

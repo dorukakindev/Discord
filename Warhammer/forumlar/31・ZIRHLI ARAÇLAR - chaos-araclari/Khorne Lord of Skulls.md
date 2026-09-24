@@ -13,5 +13,3 @@ Khorne Lord of Skulls, Kan Tanrısı Khorne'a adanmış devasa bir süper ağır
 Lord of Skulls, saf kıyım için tasarlanmıştır; bir elinde Great Cleaver of Khorne (devasa bir savaş baltası) ile en büyük düşmanları, hatta Titanları bile ikiye bölebilir, diğer silahlarıyla (kafatası fırlatan toplar, Hades gatling cannon) uzaktan kitleleri biçer. Khorne'un "büyü değil, sadece çelik ve kan" doktrinine uygun olarak, hile değil ham yıkım gücüne dayanır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/bd/LordOfSkullsArt.jpg)

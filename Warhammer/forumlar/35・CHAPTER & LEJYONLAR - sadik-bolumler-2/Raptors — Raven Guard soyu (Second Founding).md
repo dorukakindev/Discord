@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Raptors_Icon.jpg/revision/latest?cb=20150902192034
+
 -# THE IMPERIAL ARCHIVE · sadik-bolumler-2 · Kayıt
 # Raptors — Raven Guard soyu (Second Founding)
 

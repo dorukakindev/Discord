@@ -10,8 +10,6 @@ Chaplain'ın görevi, Emperor'a ve Primarch'a duyulan bağlılığı Chapter'ın
 
 Chaplain'ın işi savaşta da barışta da aynı ölçüde ağırdır. Fortress-monastery'de Neophyte'ların inisiyasyon ayinlerini yönetir, yeminleri kabul eder, kardeşlerin iradesindeki çatlakları, şüpheyi ve ahlaki yozlaşmanın ilk belirtilerini kollar. Savaş alanında ise litany'ler ve nefret ilahileriyle kardeşlerinin öfkesini bileyerek ön safta savaşır; Chaplain'ın varlığı, bir hattın dağılmakla direnmek arasında kaldığı anlarda çoğu zaman belirleyici olarak anlatılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a0/DA_Chaplain_capelan.jpg/revision/latest?cb=20120524213305)
-
 ## Kökenler: Legion Chaplain'larından Chapter'lara
 Chaplain makamı Legion çağında da vardı. Ancak Great Crusade, Emperor'un din karşıtı **Imperial Truth**'u üzerine kurulmuştu; bu yüzden Legion Chaplain'larının rolü, bugünkü inanç önderliğinden çok Legion'un yeminlerini, geleneklerini ve savaşçı ruhunu koruyan bir görev olarak çizilir. Bu rolün Legion'dan Legion'a nasıl farklılaştığı Horus Heresy kaynaklarında tek tip anlatılmaz.
 

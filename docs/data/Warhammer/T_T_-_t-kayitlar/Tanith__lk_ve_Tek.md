@@ -17,5 +17,3 @@ Ghillie-suit benzeri kamuflaj, cameleoline pelerinler, 'Straight Silver' sloganl
 -# Kaynaklar: Gaunt's Ghosts serisi (D. Abnett)
 
 -# İlişkili kayıtlar: `gaunts-ghosts`, `astra-militarum`, `sabbat-worlds`, `commissariat`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/76/PlanetTanith2.jpg/revision/latest?cb=20140404162358)

@@ -22,5 +22,3 @@ Görümün gerçekten Emperor'dan geldiği Chapter'ın inancıdır; ansiklopedik
 -# Kaynaklar: *Codex Supplement: Black Templars — 10th Edition*; *Sigismund: The Eternal Crusader — John French*; *Helsreach — Aaron Dembski-Bowden*
 
 -# İlişkili kayıtlar: <#1551637696466788466>, <#1551636479925559479>, <#1551809039342501970>, <#1551808888666587197>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d2/Emperor%27s_Champion.jpg/revision/latest?cb=20140304073003)

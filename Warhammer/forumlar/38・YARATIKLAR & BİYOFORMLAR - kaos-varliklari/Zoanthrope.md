@@ -19,5 +19,3 @@ Zoanthrope'lar Tyranid istilalarında hem synapse düğümü hem ağır psişik 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551818131679215728>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/89/Biothrope.jpg/revision/latest?cb=20250523133733)

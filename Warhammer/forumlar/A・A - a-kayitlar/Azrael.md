@@ -11,8 +11,6 @@ Azrael'in hikâyesi bu yüzden iki katmanlıdır. Görünür yüzünde Imperium'
 ## Köken ve Yükseliş
 Azrael'in kökenine dair yayımlanmış ayrıntılar sınırlıdır. Codex anlatıları onun Chapter'ın farklı birliklerinde sivrilerek olağandışı bir hızla yükseldiğini ve Inner Circle'ın güvenini kazanarak Supreme Grand Master makamına ulaştığını aktarır; ancak bu yükselişin ayrıntıları edition'dan edition'a değişen vurgularla verilir. Arşiv, doğum dünyası ya da ilk savaşları gibi konuları kesinleştirmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/10/Lion%27s_Helm.png/revision/latest/scale-to-width-down/828?cb=20131219211600)
-
 ## Sırrın Bekçisi
 Dark Angels'ta bilgi katmanlar hâlinde dağıtılır ve Azrael bu piramidin tepesindedir. Sıradan bir Battle-Brother Fallen'ın varlığından habersiz olabilir; Deathwing ve Ravenwing'e kabul, sırrın daha derin katmanlarına ortak olmak demektir; Inner Circle ise gerçeğin en geniş biçimini bilir. Supreme Grand Master bu düzeni yalnızca korumakla kalmaz, kimin neyi ne zaman öğreneceğine de karar verir. Azrael'in liderliği bu yüzden açık savaş kadar sessiz bir yönetim sanatıdır: müttefiklere söylenmeyenler, Imperial yetkililerden saklanan kayıtlar, yarıda bırakılan seferler.
 

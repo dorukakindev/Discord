@@ -13,8 +13,6 @@ Ynnari'nin savaşta ölümle ilişkisi de bu inançtan beslenir. Onlar etraflar�
 
 Harekete bakış Aeldari dünyasında ikiye bölünmüştür. Bazıları onu Slaanesh'e karşı yüzyıllardır beklenen bir umut olarak görürken, pek çok Farseer ve Craftworld yöneticisi Ynnari'yi dogmayı tehlikeli biçimde aşan, belki de yeni bir felakete kapı aralayan bir sapkınlık sayar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/74/YnnariRune.png/revision/latest?cb=20230501133930)
-
 ## Kökenler: Yvraine'in Yeniden Doğuşu
 
 Yvraine, Craftworld Biel-Tan'da doğmuş ve orada dansçılıktan Warlock'luğa, oradan savaşçılığa uzanan pek çok Path'i yürümüştür. Daha sonra bir Corsair filosunun önderi olarak ün kazanmış, fakat bir isyan onu Webway'e kaçmaya zorlamıştır. Yolculuğunun sonunda Commorragh'ın arenalarına düşen Yvraine, orada dövüşürken ölümün eşiğine geldi.

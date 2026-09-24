@@ -9,8 +9,6 @@ Rift'in adları bakan gözle değişir. Imperium ona Cicatrix Maledictum, yani "
 
 Rift'in iki yakası ayrı adlarla anılır. Terra'nın bulunduğu, Astronomican'ın ışığının hâlâ ulaşabildiği yarı **Imperium Sanctus**; Rift'in öte yanında kalan, ışıktan ve Terra'dan kopan yarı ise **Imperium Nihilus**'tur. Bu ayrım, Great Rift sonrası anlatının neredeyse bütün savaşlarının zeminini oluşturur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest/scale-to-width-down/1000?cb=20170903200334)
-
 ## Oluşumu
 Rift'in açılışı, Abaddon the Despoiler'ın 13th Black Crusade'i ve **999.M41**'de Cadia'nın düşüşüyle doğrudan ilişkilendirilir. Cadia, Eye of Terror'ın ağzında binyıllardır Warp'ı dizginleyen kadim pylon'ların bulunduğu dünyaydı; gezegen parçalandığında bu dengenin çöktüğü ve Eye'ın dışarı taştığı anlatılır. *Gathering Storm* kampanya kitapları, bu olayı galaksinin dört bir yanındaki Warp fırtınalarının birbirine bağlanarak tek bir zincire dönüşmesi olarak işler.
 

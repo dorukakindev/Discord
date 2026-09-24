@@ -19,5 +19,3 @@ World Eaters, Angron'un komutası altında ve Butcher's Nails'in körüklediği 
 -# Kaynaklar: *Codex: World Eaters*; *Betrayer — Aaron Dembski-Bowden*
 
 -# İlişkili kayıtlar: <#1551809718085746759>, <#1551815867845578773>, <#1551649073432494263>, <#1551812225570836561>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/61/Imperial_Chainaxe_Flesh_Tearers.jpg/revision/latest?cb=20140110034643)

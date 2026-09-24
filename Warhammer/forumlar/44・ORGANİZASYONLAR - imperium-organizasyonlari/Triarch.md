@@ -21,6 +21,4 @@ Triarch, Wars of Secession ve dynasty yapısı 2011 tarihli *Codex: Necrons — 
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*; *The Infinite and the Divine — Robert Rath*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/AnkhoftheTriarch9thEdition.jpg/revision/latest/scale-to-width-down/650?cb=20200925173557)
-
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>, <#1551812203584295003>

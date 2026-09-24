@@ -12,8 +12,6 @@ Kabal'ın büyüklüğü, savaşçı sayısı ya da denetlediği bölgeler yayı
 
 **Kanal sınırı.** Vect'in kişiliği ve biyografisi <#1551640169881534505>, şehrin bütünü <#1551645291873050666>, Drukhari halkı <#1551813105166712966> kanalında işlenir. Burada merkezde Kabal'ın kendisi durur: nasıl doğduğu, nasıl işlediği, Commorragh'taki üstünlüğünü nasıl koruduğu ve Dysjunction'lardan nasıl çıktığı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_heart_symbol.png/revision/latest?cb=20180407134529)
-
 ## Kökenler: İlk Kabal
 Black Heart'ın hikâyesi, Kabal denen örgütlenme biçiminin hikâyesiyle iç içedir. Fall sonrası Commorragh'ı, gücünü soydan alan eski soylu hanedanlar yönetiyordu. Kendi aralarındaki kan davalarına dalmış bu hanedanlar, şehrin alt katmanlarında biriken hırsı göremedi. Kaynaklara göre köle olarak dünyaya gelmiş Vect, bu körlükten yararlanarak yeni bir model kurdu: üyeliği doğumla değil faydayla, sadakati soyla değil çıkar ve korkuyla belirlenen, bir Archon'un çevresinde toplanan siyasi-askerî bir hizip.
 

@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Vigilus — Hive world (Nachmund bölgesi, Segmentum Obscurus)
 
-Rift'in iki yakası arasındaki az sayıdaki güvenli geçitten biri olan Nachmund Gauntlet'in ağzında duran dünya. Onu tutan, Imperium Nihilus'a uzanan yolun anahtarını da tutar; ayrıntılı madde <#1551588071235911740> kanalındadır.
+Rift'in iki yakası arasındaki az sayıdaki güvenli geçitten biri olan Nachmund Gauntlet'in ağzında duran dünya. Onu tutan, Imperium Nihilus'a uzanan yolun anahtarını da tutar; ayrıntılı madde <#1551995191441883288> kanalındadır.
 
 - **Kategori:** Dünya — çekişmeli hive world, yönlendirme kaydı — <#1551629176136663150>
 - **Fraksiyon:** Imperium of Man; Orks; Genestealer Cults; Chaos

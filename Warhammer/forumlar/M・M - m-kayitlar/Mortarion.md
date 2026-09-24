@@ -13,8 +13,6 @@ Mortarion'un düştüğü Barbarus, alçak vadilerinde insanların güçlükle h
 
 İsyanın sonunda Mortarion, Necare'nin kalesine tırmandı. Kaynakların anlatımına göre en yoğun zehrin içinde gücü tükenmek üzereyken efendisini ancak Emperor'un müdahalesiyle alt edebildi. Kendi elinden alınmış bu zafer, babasına duyduğu kırgınlığın ilk tohumu olarak okunur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Mortarion%2C_Prince_of_Decay.jpg/revision/latest?cb=20110312202131)
-
 ## Karakter: Katlanmanın Felsefesi
 Barbarus, Mortarion'a tek bir ders öğretti: ayakta kalmak. Onun gözünde gerçek güç parlaklıkta ya da ilhamda değil, başkalarının çökeceği yerde yürümeye devam edebilmekteydi. Bu yüzden Death Guard'ı gösterişsiz, ağır, kimyasal ortamlarda savaşabilen ve geri çekilmeyi tanımayan bir kuvvete dönüştürdü. Kişisel muhafızları Deathshroud, bu anlayışın en seçkin taşıyıcıları olarak anılır.
 

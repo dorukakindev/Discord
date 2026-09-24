@@ -53,5 +53,3 @@ Stygies VIII adı, Imperial ekipman ve Mechanicus anlatılarında uzun süredir 
 
 **Kaynaklar:** *Codex: Skitarii — 7th Edition*; *Codex: Cult Mechanicus — 7th Edition*; *Codex: Adeptus Mechanicus*
 **Çapraz:** <#1551814305874448396>, <#1551753449878724689>, <#1551650329156788287>, <#1551652847727288412>, <#1551815304252887041>, <#1551814052613988413>, <#1551809095655493743>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Stygies_VIII_Skitarii_Icon.png/revision/latest?cb=20150420223607)

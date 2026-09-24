@@ -13,5 +13,3 @@ The Nightbringer (Gece Getiren), C'tan denen kadim yıldız tanrılarının en k
 C'tan, kökeni War in Heaven'a (Yıldızlardaki Savaş'a) dayanan, Warp dışı, maddesel enerjiyle beslenen kadim tanrılardır; Necrontyr onlarla ittifak yapıp sonra onlara ihanet ederek onları parçaladı. Bugün C'tan'lar yalnızca "şard" (shard) denen parçalar halinde var olur, ama bu parçalar bile akıl almaz derecede güçlüdür. Nightbringer, bunların en dehşet vericisidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Img011.jpg/revision/latest?cb=20121231054919)

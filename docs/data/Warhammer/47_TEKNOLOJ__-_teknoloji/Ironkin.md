@@ -19,5 +19,3 @@ Ironkin madencilik, yük taşıma, savaş pilotluğu ya da ön cephe görevleri 
 -# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759789988642876>, <#1551757340905181286>, <#1551813334993739777>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)

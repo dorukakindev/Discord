@@ -18,4 +18,4 @@ Iron Warriors, Scouring'den sonra Göz'ün içinde bu dünyaya yerleşti. Pertur
 
 -# Kaynaklar: *Dead Sky Black Sun — Graham McNeill*; *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714756161703968>, <#1551741820663365723>, <#1551714773392035952>, <#1551588067880472658>
+-# İlişkili kayıtlar: <#1552482861872062494>, <#1551650332029751500>, <#1551813775848509482>, <#1552482553003376650>

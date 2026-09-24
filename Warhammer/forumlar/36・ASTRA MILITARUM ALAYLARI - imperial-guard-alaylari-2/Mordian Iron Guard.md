@@ -11,5 +11,3 @@ Mordian Demir Muhafızları, gelgit kilitli bir kovan dünyası olan ve 'Sonsuz 
 Demir Muhafızlar'a katılmak için olağanüstü bir disiplin sergilemek gerekir. Eğitim mümkün olan en sıkı biçimdedir: üniformaların ütülenmesinden geçit törenlerine, süngü talimine ve gerçek mermili tatbikatlara kadar bitmek bilmeyen tekrarlardan oluşur. Bu süreç her askere şiddetli bir sadakat ve kararlılık aşılar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/0c/Mordian_Iron_Guard.jpg)

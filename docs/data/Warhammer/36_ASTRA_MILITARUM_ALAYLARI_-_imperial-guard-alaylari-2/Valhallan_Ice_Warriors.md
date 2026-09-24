@@ -11,5 +11,3 @@ Valhalla Buz Savaşçıları, Segmentum Ultima'da yer alan donmuş ve ıssız bu
 Bu acımasız soğukta yetişen Valhallalılar, Imparatorluğun konuşlandırdığı en sert birliklerden biridir; asla geri çekilmez, teslim olmayı reddederler. En umutsuz koşullarda bile mevzilerini tutmaktaki inatları ve korkunç kayıpları bozguna uğramadan göğüsleyebilme yetenekleriyle ünlüdürler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f1/Valhallan_597th.JPG)

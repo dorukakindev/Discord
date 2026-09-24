@@ -1,5 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Adeptus_Astronomica_Icon2.jpg/revision/latest/scale-to-width-down/710?cb=20200910213848
 
+-# THE IMPERIAL ARCHIVE · Araştırma Dosyası · Adeptus Astronomica
+
 # Adeptus Astronomica — Araştırılmış Bilgiler
 
 ## Tanım ve Genel Bakış
@@ -13,8 +15,6 @@ Astronomican olmadan İmparatorluk var olamaz. İnsanlık ancak Astronomican say
 ## Tarihçe
 
 ### Kuruluş
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Adeptus_Astronomica_Icon2.jpg/revision/latest/scale-to-width-down/710?cb=20200910213848)
 
 Teknolojinin Altın Çağı'nı izleyen dönemde, insanlık şiddetli Warp fırtınaları ve kendi beacon ağının kaybı nedeniyle koloni dünyalarından kopuk hale geldi. M29 civarında Warp fırtınaları dinse de, Navigators'ın gemileri güvenli biçimde yönlendirmesi neredeyse imkânsızdı. İmparator, Astronomican'ı yarattı — Terralı 50.000 ışık yılı yarıçapında Warp'ta seyahat imkânı veren psişik bir deniz feneri (dışına çıkmak hâlâ mümkündür ama navigasyon zorlaşır ve Gellar Field'in sönmesini ummak zorundasınız). Galaktik çekirdek Dünya'dan 26.000 ışık yılı uzakta, tüm galaksi 105.700 ışık yılı; Astronomican kabaca galaksonin yarısını kaplayabilir. İmparator'un psişik enerjisiyle çalışan cihaz, Great Crusade boyunca ve Horus Heresy boyunca neredeyse kesintisiz uzaktan çalıştırıldı.
 
@@ -102,5 +102,3 @@ Bir gezegenin en iyi umudu, gezegen valisini hızlı ve ani bir darbeyle devirip
 8. *Master of Mankind* (Aaron Dembski-Bowden) — İmparator'un Astronomican kullanımı
 9. *The Solar War* (John French) — Siege of Terra'da Astronomican
 10. *Horus Rising* (Dan Abnett) — Astronomican'a ilk tanıklık
-
-![gorsel](https://static.wikitide.net/1d6chanwiki/2/26/Astronomican_3.jpg)

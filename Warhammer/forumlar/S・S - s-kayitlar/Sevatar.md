@@ -10,8 +10,6 @@ Sevatar'ı ilgi çekici kılan, Night Lords'un bütün çelişkilerini tek bir k
 
 Bu kanal Sevatar'ı bir kişi olarak ele alır. Legion'un kurumsal tarihi <#1551637693933289523>, Primarch'ın hikâyesi <#1551650286626672722>, Atramentar'ın birim kaydı ise ilgili forum kaydında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ab/HHL_First_Cpt_Sevatar_Prince_of_Crows.png/revision/latest/scale-to-width-down/688?cb=20231201101756)
-
 ## Kökenler
 Sevatar, Nostramo doğumlu kuşaktandır; Legion'un Curze'un bulunmasından sonra giderek Nostramo'dan toplanan savaşçılarla dolduğu dönemin ürünüdür. Anavatanının sonsuz gecesi altında, çetelerin ve korkunun yönettiği şehirlerde büyümüş olması, onun Legion'un dehşet doktrinini bir öğreti olarak değil, doğal bir dil olarak konuşmasını açıklar. Legion'a katılmadan önceki yaşamına dair ayrıntılar yayımlanmış kanonda sınırlıdır ve bu arşiv onları doldurmaz.
 ---MSG---

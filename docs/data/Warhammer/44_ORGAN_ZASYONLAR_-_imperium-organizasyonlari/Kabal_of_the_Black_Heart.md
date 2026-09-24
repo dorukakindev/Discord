@@ -21,6 +21,4 @@ Vect'in kökeni Drukhari'nin kendi anlatılarına dayanır ve Karanlık Şehir'd
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Archon — Andy Chambers*; *Gathering Storm II: Fracture of Biel-Tan*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_heart_symbol.png/revision/latest?cb=20180407134529)
-
 -# İlişkili kayıtlar: <#1551813105166712966>, <#1551809867201908737>, <#1551809699312181339>, <#1551810506078290021>

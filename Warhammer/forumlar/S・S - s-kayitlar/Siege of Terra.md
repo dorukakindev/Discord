@@ -10,8 +10,6 @@ Kuşatmanın bir tarafında Rogal Dorn'un komutasındaki Imperial Fists, Sanguin
 
 Bu madde kuşatmanın kendisini, safhalarını ve komutanlarını merkeze alır. Heresy'nin genel seyri <#1551814951365115956>, Throneworld'ün kendisi <#1551809168032268310>, Emperor'ın kaderi <#1551813713403580438> kanalında işlenir. Kuşatmanın bugünkü ayrıntılı anlatısı büyük ölçüde Black Library'nin **Siege of Terra** serisine dayanır; eski kodeks ve Realm of Chaos anlatılarıyla arasındaki farklar son mesajlarda ele alınır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/db/Siege_Imperial_Palace.jpg/revision/latest?cb=20110306024936)
-
 ## Arka Plan: Kaleye Dönüştürülen Bir Dünya
 Emperor, Great Crusade'in son yıllarında Rogal Dorn'u Terra'ya çağırıp Imperial Palace'ın tahkimatını ona bırakmıştı. Isstvan'dan gelen haberlerin ardından bu görev bir süs projesi olmaktan çıktı: Dorn, Praetorian of Terra sıfatıyla Palace'ı kıta boyutunda bir kale sistemine, Sol sistemini de iç içe geçmiş savunma halkalarına dönüştürdü. Palace'ın saray bahçeleri ve anıtsal kapıları surlar, bastionlar ve top yuvalarıyla örtüldü; Lion's Gate'in süslü heykelleri bile yerini gri kulelere bıraktı.
 
@@ -38,8 +36,6 @@ Kuşatmanın ilk büyük hedefleri, Outer Palace'ın çevresindeki dev uzay lima
 Uzay limanlarının kaybı, Outer Palace'ın bastion zincirinin doğrudan saldırıya açılması demekti. Marmax gibi dış bastion kompleksleri bu dönemde ağır çarpışmalara sahne oldu; ayrıntıları romanlara dağılmış olan bu direnişlerin ortak anlamı, her mevzinin bir sonraki surun hazırlanması için satın alınmış zaman olmasıdır.
 
 Bu safhada Emperor's Children'ın, World Eaters'ın ve Death Guard'ın varlığı da hissedilmeye başladı. Angron'un kan susamışlığı ve Fulgrim'in Daemon Prince olarak savaş alanında belirmesi, kuşatmanın yalnızca bir askerî harekât olmadığını erkenden gösterdi.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/db/Siege_Imperial_Palace.jpg/revision/latest?cb=20110306024936)
 
 ## Saturnine ve Mercury Wall
 Dan Abnett'in *Saturnine* romanı, kuşatmanın en iddialı sadık hamlelerinden birini anlatır. Traitorlar Ultimate Wall'un Saturnine bölümüne büyük bir saldırı hazırlamış, yüzeydeki saldırının altından yeraltı delme makineleriyle ilerlemeyi planlamıştı. Dorn bu planı sezdi ve kendisi müdahale ederek bir tuzak kurdu. Yeraltında ilerleyen Sons of Horus seçkinleri, Sigismund gibi isimleri de içeren sadık vuruş birlikleriyle karanlık tünellerde karşılaşıp ağır kayıplar verdi. Zafer pahalıydı; roman pek çok sadık kahramanın bu yeraltı savaşında düştüğünü ve kuşatmanın dengesinin değişmediğini vurgular.

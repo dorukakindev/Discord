@@ -9,5 +9,3 @@ Navis Nobilite (Navigator Hanedanları), İmparatorluğun en ayrıcalıklı ama 
 Navigator'ları benzersiz kılan, üçüncü gözleriyle Immaterium'un (Warp'ın) kaosunu güvenle "görebilmeleridir"; sıradan bir insan Warp'a baktığında delirir ya da ölür, ama bir Navigator orada bir yol, bir akıntı, bir geçit görebilir. Onlar olmadan hiçbir İmparatorluk gemisi tehlikeli Warp'ta güvenle yol alamaz; bir Navigator, gemiyi İmparator'un psişik feneri Astronomican'ın ışığını bir deniz feneri gibi takip ederek yıldızdan yıldıza taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/45/Nostromo_Navigator_House_Emblem.jpg)

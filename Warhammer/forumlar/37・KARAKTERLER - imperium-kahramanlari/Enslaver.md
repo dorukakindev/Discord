@@ -19,5 +19,3 @@ War in Heaven'ın son dönemine ilişkin anlatılarda Warp'ın silah gibi kullan
 -# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Codex: Necrons — 3rd Edition*
 
 -# İlişkili kayıtlar: <#1551649070286897172>, <#1551817636516470845>, <#1551809666454134928>, <#1551818131679215728>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Enslaver_sketch.jpg/revision/latest?cb=20100627221027)

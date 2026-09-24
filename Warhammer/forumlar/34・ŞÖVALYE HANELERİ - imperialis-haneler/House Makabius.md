@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b0/Makabius_House_Heraldry_1.png/revision/latest?cb=20150331170610
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b0/Makabius_House_Heraldry_1.png/revision/latest?cb=20150331170610)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Makabius — Makabius Hanedanı

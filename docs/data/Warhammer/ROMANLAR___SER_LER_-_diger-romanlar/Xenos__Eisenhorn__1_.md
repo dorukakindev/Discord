@@ -12,5 +12,3 @@ Eisenhorn'un Pontius pilotundan Host'a, 'Magus' takibinden Eye of Terror arka pl
 -# Seri: Diğer Romanlar (Black Library)
 
 -# Kaynaklar: Black Library
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/06/Various_Xenos.jpg/revision/latest/scale-to-width-down/1000?cb=20120901182819)

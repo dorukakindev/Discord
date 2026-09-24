@@ -10,8 +10,6 @@ T'au halkının gözünde Aun'Va, Greater Good'un yaşayan simgesidir. Ansiklope
 
 Kaynaklar Aun'Va'nın doğum tarihini, Konsey'in başına ne zaman ve nasıl geçtiğini ya da ondan önce kimin bu makamda bulunduğunu ayrıntılı biçimde vermez. Bu kanal bilinenleri, evren içi iddiaları ve açık kalan soruları birbirinden ayırarak ele alır. Ethereal Caste'ın genel yapısı ve Ethereal etkisinin doğası üzerine tartışma <#1551809256649527381> kanalındadır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/0a/AunVa.gif)
-
 ## Otorite, Tasvir ve İlişkiler
 Aun'Va'nın gücü kişisel savaşçılığından değil, varlığından doğar. Kaynaklar onu savaş alanına çıktığında bile kılıç sallayan bir komutan olarak değil, yanındaki **Ethereal Guard**'ların koruduğu, çevresindeki T'au'ya yön ve kararlılık veren bir merkez olarak çizer. T'au savaşçıları için bir Ethereal'in, hele Ethereal Supreme'in gözü önünde savaşmak, en yüksek onurlardan biridir; onun kaybı ise en derin sarsıntılardan biri.
 

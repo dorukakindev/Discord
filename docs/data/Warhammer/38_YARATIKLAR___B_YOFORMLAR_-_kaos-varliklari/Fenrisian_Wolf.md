@@ -19,5 +19,3 @@ Fenris sagalarına göre Leman Russ'ı çocukken dev bir dişi kurt büyüttü; 
 -# Kaynaklar: *Codex: Space Wolves*; *Prospero Burns — Dan Abnett*; *Wolfsbane — Guy Haley*
 
 -# İlişkili kayıtlar: <#1551638910344630307>, <#1551649072912269433>, <#1551815439078658154>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Fenrisian_Wolves.jpg/revision/latest/scale-to-width-down/704?cb=20120427194943)

@@ -7,4 +7,6 @@ Ork peygamberi Ghazghkull Thraka'nın dev güç kıskacı; entegre topuyla birli
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/27/GorksKlaw.jpg)
+## Teknik ve Kullanım
+
+Gorkanaut'un dev hidrolik güç kıskacı; devasa Killa Kan eli boyutunda, bir bina kolunu ya da tank taretini sökecek güçtedir. İçindeki güç alanı ve hidrolik basınç birlikte çalışır — önce ezer, sonra koparır. Ork kültüründe 'Gork'un kendisi sıkıştırsa' denilen silah; Stompa seviyesindeki savaş makinesinin en ikonik kolu. Savaş alanındaki en ağır Ork yakın dövüş silahıdır.

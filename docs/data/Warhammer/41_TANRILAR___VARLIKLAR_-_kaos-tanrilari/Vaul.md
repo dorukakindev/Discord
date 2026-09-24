@@ -21,4 +21,4 @@ Genel anlatıya göre Fall'da Slaanesh tarafından yutuldu; akıbeti ayrıntıl�
 
 -# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Codex: Eldar — 6th Edition*; *Path of the Warrior — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551740924244271140>, <#1551587928025600012>, <#1551714768803463238>, <#1551587961009741945>
+-# İlişkili kayıtlar: <#1551810744754905123>, <#1551997822725922938>, <#1551649070286897172>, <#1551814105046851615>

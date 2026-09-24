@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Commorragh — Dark City (Webway)
 
-Webway'in labirentinde, gerçek uzayın dışında büyüyen Drukhari başkenti. Halkı başkalarının acısından beslenerek ruhlarının Slaanesh'e sızmasını geciktirir; ayrıntılı madde <#1551587949450371253> kanalındadır.
+Webway'in labirentinde, gerçek uzayın dışında büyüyen Drukhari başkenti. Halkı başkalarının acısından beslenerek ruhlarının Slaanesh'e sızmasını geciktirir; ayrıntılı madde <#1551997841356881980> kanalındadır.
 
 - **Kategori:** Webway kenti — yönlendirme kaydı — aeldari-dunyalari
 - **Fraksiyon:** Aeldari — Drukhari
@@ -18,4 +18,4 @@ Kent, Fall'u Webway'in korumasında atlattı. Kaynaklara göre köle olarak dün
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Renegade — Andy Chambers*; *Gathering Storm II: Fracture of Biel-Tan*
 
--# İlişkili kayıtlar: <#1551587949450371253>, <#1551588076609085510>, <#1551588084628590646>, <#1551588050960781432>
+-# İlişkili kayıtlar: <#1551997841356881980>, <#1551993959876657192>, <#1552483346846715924>, <#1551754688008032321>

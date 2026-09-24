@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Grimnar_Heraldry_SP.png/revision/latest?cb=20150429201838
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Logan Grimnar (Great Wolf) — Space Wolves
 

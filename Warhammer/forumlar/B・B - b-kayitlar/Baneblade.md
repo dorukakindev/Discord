@@ -17,5 +17,3 @@ Ana Baneblade topu, koaksiyel otomatik top, iki yan sponson grubu (lascannon + a
 -# Kaynaklar: Codex: Astra Militarum
 
 -# İlişkili kayıtlar: `leman-russ-tank`, `astra-militarum`, `armageddon`, `imperial-guard-araclari`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/80/Baneblade_of_Tallarn_409th_Heavy_Tank_Regiment.png/revision/latest?cb=20120129012157)

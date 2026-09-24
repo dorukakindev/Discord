@@ -11,5 +11,3 @@ House Mortan (Mortan Hanedanı), İmparatorluk'a bağlı, ama diğer hanelerin g
 Çoğu şövalye hanesi savaşa gururlu naralar, fanfarlar ve savaş çığlıklarıyla girerken, House Mortan tam tersini yapar; mutlak bir sessizlik içinde, bir cenaze alayının kasveti ve disipliniyle savaşa yürürler. Devasa Knight'ları hiçbir ses çıkarmadan, ağır ve kaçınılmaz adımlarla ilerler; bu sessizlik, kendi başına korkunç bir psikolojik silahtır. Düşmanlar, üzerlerine sessizce yürüyen bu kara devleri gördüğünde dehşete kapılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/46/MortanKnight.jpg)

@@ -11,5 +11,3 @@ Raven Guard, primarch'ları Corvus Corax'ın gölge, gizlilik ve özgürlük ruh
 Corax, forge dünyası Kiavahr'ın hapishane ayı Lycaeus'ta köleleri özgürleştirdi ve oraya "Deliverance" (Kurtuluş) adını verdi; bu özgürlük ve baskıya isyan ruhu, lejyonun çekirdeğindedir. Sıradan insanlara karşı şefkatlidirler, ama doğaları gereği yalnız ve içe dönüktürler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/7c/XIX_Legion.jpg)

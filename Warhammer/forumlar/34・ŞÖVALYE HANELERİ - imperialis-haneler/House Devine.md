@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/4b/House_Devine_Heraldry.jpg/revision/latest?cb=20150321082517
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4b/House_Devine_Heraldry.jpg/revision/latest?cb=20150321082517)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Devine — Devine Hanedanı

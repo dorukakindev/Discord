@@ -11,5 +11,3 @@ Venom, Drukhari'nin (Dark Eldar) küçük, ok kadar hızlı anti-grav akın gemi
 Venom, özellikle Archon'lar, Succubus'lar ve onların seçkin muhafızları için ideal bir taşıyıcıdır; küçük ama paha biçilmez bir avcı timini, düşmanın hiç beklemediği bir noktaya şimşek hızıyla indirir. Üzerindeki splinter silahları (twin splinter rifle ya da splinter cannon), zehirli kristal iğneler yağdırır; bu silahlar, en kalın zırhı umursamaz, çünkü hedefin etini ve sinir sistemini felç eden toksinlerle çalışır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/af/VenomArt.jpg)

@@ -18,4 +18,4 @@ Scouring'den sonra Word Bearers, Sicarus'u Long War'un ruhani merkezi hâline ge
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Dark Apostle — Anthony Reynolds*
 
--# İlişkili kayıtlar: <#1551714697299103884>, <#1551741616287645756>, <#1551714773392035952>, <#1551741174228717580>
+-# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763>, <#1551813775848509482>, <#1551812325521100811>

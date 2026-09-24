@@ -19,5 +19,3 @@ Harpy'ler Tyranid istilalarında hava akınlarının parçası olarak anlatılı
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Harpy-0.png/revision/latest/scale-to-width-down/725?cb=20160103163239)

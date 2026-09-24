@@ -9,5 +9,3 @@ Hedefin kütlesini ona karşı silaha çeviren graviton silahı; ağır zırhlı
 ## Teknik ve Kullanım
 Grav silahları hedefin kütle alanını ters çevirip onu kendi ağırlığıyla ezer; ağır zırhlı hedefe karşı özel olarak etkilidir. Büyük Haçlı Seferi teknolojisinin nadir hayatta kalan parçalarındandır ve bakımı sadece Techmarine seviyesinde yapılabilir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b7/GravGun6.jpg)

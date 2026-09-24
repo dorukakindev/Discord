@@ -9,5 +9,3 @@ Njal Stormcaller (Fırtına Çağıran), Space Wolves chapter'ının en güçlü
 Space Wolves, psişik güçlerini diğer chapter'lardan farklı görür; onların Rune Priest'leri, kendilerini büyücü değil, Fenris'in vahşi doğasının ve atalarının ruhlarının elçileri olarak tanımlar. Bu kültürel fark, gücün kontrolsüz kullanımının getirdiği iblis tehlikesine karşı bir tür ruhsal kalkan işlevi görür. Njal, bu geleneğin zirvesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/0c/Njal_Stormcaller.jpg)

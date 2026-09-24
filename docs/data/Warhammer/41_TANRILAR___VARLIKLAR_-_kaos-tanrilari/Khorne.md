@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/17/MarkofKhorneBig.png/revision/latest?cb=20170908233325
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/17/MarkofKhorneBig.png/revision/latest?cb=20170908233325)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Khorne — Kan Tanrısı / Öfke Tahtı

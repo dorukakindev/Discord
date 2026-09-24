@@ -10,8 +10,6 @@ Great Crusade boyunca savaş gemileri büyük ölçüde Imperial Army'nin deniz 
 
 Bu ayrım bugün de Imperial savaş yapısının temelidir. Bir Lord General, askerlerini cepheye taşımak için Navy'nin iş birliğine muhtaçtır; bir amiral ise yörüngeyi tutabilir ama bir gezegeni tek başına fethedemez. Karşılıklı bağımlılık, güvensizliğin kurumsallaşmış biçimidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/32/ImperialNavyIcon.png/revision/latest?cb=20200605191100)
-
 ## Yapı ve Organizasyon
 Navy'nin tepesinde **Lord High Admiral** bulunur ve bazı dönemlerde High Lords of Terra arasında yer alır. Kuvvetler beş Segmentum'a göre bölünmüştür; her Segmentum'un kendi büyük filosu ve kalesi vardır: Solar için Mars, Obscurus için Cypra Mundi, Pacificus için Hydraphur, Tempestus için Bakka, Ultima için Kar Duniash. Bunların altında sektör düzeyindeki **Battlefleet**'ler yer alır; Battlefleet Gothic ya da Battlefleet Armageddon gibi adlar bu yerel filoları anlatır.
 

@@ -19,5 +19,3 @@ Orikan, Imotekh the Stormlord'un sarayında kehanetleriyle nüfuz kazanmış bir
 -# Kaynaklar: *Codex: Necrons — 5th Edition*; *The Infinite and the Divine — Robert Rath*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551809907060113460>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Orikan.png/revision/latest/scale-to-width-down/926?cb=20231118082355)

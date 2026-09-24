@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/49/Disciples_of_Caliban_Livery_2.png/revision/latest?cb=20160228004439
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/49/Disciples_of_Caliban_Livery_2.png/revision/latest?cb=20160228004439)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Disciples of Caliban — Caliban Müritleri

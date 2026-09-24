@@ -21,6 +21,4 @@ Parmaklarını uzun, keskin bıçaklara dönüştürmüş metal bedenler; yüzü
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*; *Imperial Armour Volume Twelve: The Fall of Orpheus*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/36/Flayedone20.JPG/revision/latest?cb=20150226004854)
-
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551812203584295003>

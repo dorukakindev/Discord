@@ -18,6 +18,4 @@ Macharius yedi yıl boyunca galaksinin kıyısına doğru ilerledi. Anlatılara 
 
 -# Kaynaklar: *Codex: Imperial Guard*; *Angel of Fire — William King*; *Fist of Demetrius — William King*; *Fall of Macharius — William King*
 
--# İlişkili kayıtlar: <#1551587930706022431>, <#1551587984305029242>, <#1551587903191388183>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/Solar_Macharius-Angel_of_Fire.jpg/revision/latest?cb=20111020044233)
+-# İlişkili kayıtlar: <#1551997696456532101>, <#1552481908988969001>, <#1551587903191388183>

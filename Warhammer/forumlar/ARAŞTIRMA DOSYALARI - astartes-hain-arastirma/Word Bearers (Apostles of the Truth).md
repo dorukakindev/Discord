@@ -37,8 +37,6 @@ Word Bearers, **Lorgar Aurelian**'ın genetik materyalinden yaratıldı. Lorgar,
 
 #### İmparator'a Tapınma
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/66/WordBearersArmourial.png/revision/latest?cb=20170813043044)
-
 Lorgar, Great Crusade sırasında fetih edilen her dünyada İmparator'a tapınaklar inşa ettirdi. Bu, İmparator'un **Imperial Truth**'unu (bilim ve mantık ideolojisi) ihlal ediyordu.
 
 ### Horus Heresy

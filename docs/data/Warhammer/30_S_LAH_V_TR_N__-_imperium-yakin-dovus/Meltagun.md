@@ -22,5 +22,3 @@ Etkisi mesafe açıldıkça hızla zayıflar; güçlü olduğu yer, hedefin dibi
 -# Kaynaklar: *Codex: Adepta Sororitas — 10th Edition*; *Codex: Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753444308811807>, <#1551808888666587197>, <#1551753458779029565>, <#1551816756417269853>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f0/Melta_Gun.jpg/revision/latest?cb=20120715233941)

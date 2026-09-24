@@ -22,5 +22,3 @@ Tam üye listesi ve sekiz kurucunun kimlikleri Heresy romanları ile 40K kodeksl
 -# Kaynaklar: *Garro — James Swallow*; *Vengeful Spirit — Graham McNeill*; *The Buried Dagger — James Swallow*
 
 -# İlişkili kayıtlar: <#1551816677669343263>, <#1551641477501947995>, <#1551815304252887041>, <#1551743688680669286>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/30/Knights-Errant_SP.png/revision/latest?cb=20241109235948)

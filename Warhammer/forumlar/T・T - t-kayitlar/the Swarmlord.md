@@ -8,8 +8,6 @@ Kategori: Adlandırılmış Tyranid Organizması · Fraksiyon: Tyranids · Döne
 
 Tyranid'ler söz konusu olduğunda "karakter" kavramını dikkatle kullanmak gerekir. Swarmlord'un bir adı, bir kişiliği ya da kendi iradesi olduğu anlatılmaz; adını ona veren, onunla karşılaşıp hayatta kalanların tuttuğu Imperial kayıtlardır. Onu öteki Hive Tyrant'lardan ayıran şey, Imperial gözlemcilerin farklı savaşlarda aynı zekânın, aynı taktik imzanın ve aynı ürkütücü öngörünün yeniden ortaya çıktığını fark etmiş olmasıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Swarmlord.png/revision/latest/scale-to-width-down/725?cb=20160103170035)
-
 Bu kanal Swarmlord'un doğasını, kayıtlı görünüşlerini ve Imperial yorumlarını ele alır. Kolektif bilincin kendisi <#1551814990338723904>, türün bütünü <#1551759780211589197>, istila savaşlarının seyri <#1551809334483361823> kanalındadır.
 ---MSG---
 ## Doğası: Beden ve Bilinç

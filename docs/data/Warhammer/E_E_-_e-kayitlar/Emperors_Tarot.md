@@ -10,8 +10,6 @@ Bu inancın iki katmanı ayrılmalıdır. Tarot'un Emperor tarafından bizzat ta
 
 Tarot'u kullananlar geniş bir yelpazeye yayılır: sanctioned psykerler ve kâhinler, bir seferin ya da çıkarmanın öncesinde işaret arayan komutanlar, Inquisitor'lar ve onların maiyetleri, gemilerinde yolculuğun kaderini soran kaptanlar. Pek çok Imperial dünyada Tarot'un aynı zamanda kumar ve eğlence için oynanan bir kart oyunu olarak da kullanıldığı anlatılır; kutsal bir kehanet aracının meyhane masalarında da dolaşması, Imperium'daki inancın ne kadar farklı biçimlere büründüğünü gösterir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Reading_the_Emperor%27s_Tarot.jpeg/revision/latest/scale-to-width-down/716?cb=20191022194444)
-
 ## Yapı, Okuma ve Tehlike
 Destenin yapısı kaynaklarda yalnızca parçalar hâlinde verilir. Latinceleşmiş adlar taşıyan serilerden ve gerçek dünyadaki tarot geleneğini andıran büyük kartlardan söz edilir; *Discordia*, *Mandatio*, *Adeptio* ve *Executeria* gibi seri adları anılır. Bütün destenin kart kart dökümü ise yayımlanmış kaynaklarda tutarlı biçimde verilmez ve ansiklopedi bu boşluğu doldurmaz.
 

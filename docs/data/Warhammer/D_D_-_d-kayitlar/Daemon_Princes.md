@@ -10,8 +10,6 @@ Onu öbür daemon'lardan ayıran şey kökenidir. Bloodletter ya da Plaguebearer
 
 Bu kanal Daemon Prince olgusunun kendisini, yani yükselişi, bedelini ve Primarch'lardan sıradan şampiyonlara uzanan örneklerini ele alır. Daemon'ların genel ontolojisi <#1551654107058540595>, tanrıların doğası <#1551812165172994160>, tek tek Primarch'ların hayatları ise kendi kanallarında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Daemon_prince_by_corbella.jpg/revision/latest?cb=20120731224206)
-
 ## Yükseliş Yolu: Armağan, Bedel ve Spawn
 Kaynakların ortak anlatısına göre Chaos'a hizmet eden bir şampiyon, eylemleriyle tanrılarının dikkatini çektikçe onlardan armağanlar alır: bir mutasyon, bir güç, bir daemon silahı ya da bir tanrının işareti. Bu armağanlar hem ödül hem sınavdır. Her yeni lütuf bedeni ve zihni biraz daha değiştirir; savaşçı insan biçiminden uzaklaştıkça tanrıların gözüne biraz daha yaklaşır.
 

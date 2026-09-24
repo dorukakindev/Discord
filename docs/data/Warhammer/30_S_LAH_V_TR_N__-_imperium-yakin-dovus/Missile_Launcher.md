@@ -22,5 +22,3 @@ Silahın asıl gücü mühimmatındadır: kullanıcı görev ne gerektiriyorsa o
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*; *Codex: Chaos Space Marines — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551753458779029565>, <#1551812225570836561>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/37/Soundstrike_Pattern_Raptors.png/revision/latest?cb=20140108082204)

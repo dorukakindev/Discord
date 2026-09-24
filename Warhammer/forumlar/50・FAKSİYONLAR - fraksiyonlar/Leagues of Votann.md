@@ -19,5 +19,3 @@ Galaksinin merkezindeki Kindred'ler, binyıllar boyunca Imperium'un büyük öl�
 -# Kaynaklar: *Codex: Leagues of Votann*
 
 -# İlişkili kayıtlar: <#1551759789988642876>, <#1551809846066548779>, <#1551757340905181286>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)

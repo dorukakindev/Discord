@@ -11,5 +11,3 @@ STC (Standard Template Construct, Standart Şablon Yapı), insanlığın altın 
 Eski çağda, bir STC sistemi yerel malzemelerden istenen her şeyi tasarlayıp üretebilirdi; bu, insanlığın yıldızlara yayılmasını mümkün kılan devrim niteliğinde bir teknolojiydi. Ama Karanlık Çağ'ın çöküşü ve sonraki binlerce yıllık kaos sırasında, bu STC'lerin çoğu kayboldu, yok edildi ya da parçalandı. İnsanlık, kendi yarattığı teknolojiyi anlama yeteneğini büyük ölçüde yitirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fc/STCArt.jpg)

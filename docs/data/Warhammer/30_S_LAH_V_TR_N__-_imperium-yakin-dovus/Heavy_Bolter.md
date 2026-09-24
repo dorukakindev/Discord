@@ -22,5 +22,3 @@ Mermi ilkesi boltgun'la aynıdır; ancak mermiler daha büyüktür ve silah ço�
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*; *Codex: Adepta Sororitas — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551753458779029565>, <#1551753444308811807>, <#1551818213782716427>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Accatran_Pattern.jpg/revision/latest?cb=20130109104133)

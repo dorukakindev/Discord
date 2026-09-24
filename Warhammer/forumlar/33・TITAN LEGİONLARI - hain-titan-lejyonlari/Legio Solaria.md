@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/07/Imperial_Hunters_Iconography.png/revision/latest?cb=20200224043720
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Imperial_Hunters_Iconography.png/revision/latest?cb=20200224043720)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Legio Solaria — Imparatorluk Avcilari

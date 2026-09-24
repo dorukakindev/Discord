@@ -21,6 +21,4 @@ Psişik enerjiyi taşıyabilir ve iletebilir; bu nedenle ruhların bedenlendiril
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Valedor — Guy Haley*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>, <#1551587961009741945>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/EldarCraftworld.jpg/revision/latest?cb=20111026031954)
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551814105046851615>

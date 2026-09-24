@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/82/HH_Eye_of_Horus_icon.png/revision/latest?cb=20141212235101
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Horus Heresy (yönlendirme kaydı)
 

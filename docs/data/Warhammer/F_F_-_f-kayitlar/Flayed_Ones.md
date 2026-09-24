@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/36/Flayedone20.JPG/revision/latest?cb=20150226004854
+
 -# THE IMPERIAL ARCHIVE · F Kayıtları · Kayıt
 # Flayed Ones
 

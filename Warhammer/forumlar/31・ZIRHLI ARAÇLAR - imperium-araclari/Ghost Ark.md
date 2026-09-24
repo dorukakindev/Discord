@@ -19,5 +19,3 @@ Ghost Ark'lar Necron savaş düzeninin aşınmaya karşı direncini temsil eder.
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e8/Ghostark1.jpg/revision/latest?cb=20130403233318)

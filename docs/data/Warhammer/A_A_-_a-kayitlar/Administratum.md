@@ -12,8 +12,6 @@ Aynı zamanda Administratum, Imperium'un ataletinin simgesidir. Binlerce yıl ö
 
 Bu kanal Administratum'u bir kurum olarak ele alır; Imperium'un genel siyasi yapısı <#1551815272074055681> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/98/Administratum_Icon.png/revision/latest?cb=20150814203214)
-
 ## Kökenler ve Tarihçe
 Administratum'un kökleri, Emperor'un Terra'yı birleştirmesi ve Great Crusade süresince fethedilen dünyaların yönetilme ihtiyacına uzanır. Genişleyen Imperium, vergi, ikmal ve kayıt işlerini yürütecek bir aygıta muhtaçtı; Emperor seferden Terra'ya döndüğünde yönetimi üstlenen Malcador the Sigillite ve Council of Terra, bu aygıtın büyümesini yönetti. Horus Heresy romanları, bu dönemde sivil yönetimin askerî güce karşı ağırlık kazanmasının, özellikle Legion'lar ile Primarch'lar arasında huzursuzluk yarattığını işler. Kurumun erken dönem örgütlenmesinin ayrıntıları yayımlanmış kanonda tam olarak açıklanmamıştır.
 

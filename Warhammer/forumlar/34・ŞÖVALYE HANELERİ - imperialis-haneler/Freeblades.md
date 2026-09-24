@@ -21,8 +21,6 @@ Bir şövalye, çeşitli yollarla Freeblade olur; bazıları, hanelerinin bir fe
 
 Freeblade'ler, bağlı oldukları hanenin armasını terk eder ve kendi benzersiz, kişisel armalarını ve adlarını alır (örneğin "Yenilmez", "Kül Şövalyesi" gibi unvanlar). Kendi onurlarının ve vicdanlarının dışında hiçbir efendiye yemin etmezler; bu özgürlük, hem bir güç hem de bir tehlikedir. Çünkü bir Knight'ın makine ruhu ve pilotu, bir hanenin desteği ve disiplini olmadan, izolasyonun ağırlığı altında yavaşça deliliğe ya da yozlaşmaya kayabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/06/Freeblade_Amaranthine_Combat.jpg/revision/latest/scale-to-width-down/684?cb=20140311212412)
-
 Freeblades, Imperial Knight dünyasının en bireysel ve en romantik yüzünün somut halidir; bir hanenin gücü olmadan, yalnızca kendi onuruyla ve kadim makinesiyle galakside dolaşan yalnız savaşçılar. Onlar, hem en özgür hem de en kırılgan şövalyelerdir; bazıları büyük kahramanlar olur, bazıları yalnızlığın karanlığında kaybolur. Her Freeblade, kişisel bir destanın, bir onur ya da kefaret arayışının yürüyen hikâyesidir.
 
 ## Kayda Değer

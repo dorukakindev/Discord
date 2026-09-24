@@ -9,5 +9,3 @@ Saint Celestine, "Yaşayan Aziz" (Living Saint) olarak anılan, İmparator'un ir
 En çarpıcı özelliği, ölümsüzlüğüdür: savaşta defalarca öldürülmüş, ama her seferinde alevler ve ışık içinde, daha güçlü olarak yeniden dirilmiştir. Bu dirilişler o kadar inanç verir ki, çevresindeki Sororitas savaşçıları onun varlığıyla gerçek mucizeler (Acts of Faith) gerçekleştirir. Geinos adlı kutsal kılıcı ve onunla birlikte savaşan Gemini adlı iki muhafız-ruhuyla cepheye iner.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/87/Celestine.jpg)

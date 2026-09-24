@@ -18,4 +18,4 @@ Imperium mutasyona karşı tutarlı değildir. Ogryn ve Ratling gibi soylar "abh
 
 -# Kaynaklar: *Warhammer 40,000 Core Book — 10th Edition*; *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551741174228717580>, <#1551587984305029242>, <#1551714841142493214>, <#1551587972376436806>
+-# İlişkili kayıtlar: <#1551812325521100811>, <#1552481908988969001>, <#1551651548713455758>, <#1552483319097069629>

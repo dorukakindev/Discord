@@ -13,8 +13,6 @@ Kurumsal çerçeve için <#1551753458779029565>, Valhallan 597th'in Commissar'ı
 ## Valhalla
 Kaynakların anlattığına göre Valhalla her zaman bir buz dünyası değildi. Gezegeni vuran büyük bir kuyruklu yıldız çarpması iklimini kökünden değiştirmiş; yüzey, kalıcı bir kışın pençesine düşerek bugünkü buzul çölüne dönüşmüştür. Çarpmanın yörüngeyi mi saptırdığı yoksa atmosferi mi karartarak dünyayı soğuttuğu, yayınlarda farklı ayrıntı düzeyinde verilir; ortak nokta, felaketin sonuçlarının kalıcı olduğudur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Valhallans.jpg/revision/latest/scale-to-width-down/696?cb=20110804010323)
-
 Halk, bu felaketten sonra yüzeyin altına çekildi. Valhalla'nın şehirleri buzun ve kayanın derinliklerine oyulmuş, yerin ısısıyla ayakta tutulan yeraltı yerleşimleridir. Valhallan askerinin buzla kurduğu tuhaf yakınlık da buradan gelir: başka dünyaların insanı için ölüm demek olan soğuk, onun için yalnızca evin havasıdır.
 ---MSG---
 ## Kökenler: Felaket ve Ork İstilası

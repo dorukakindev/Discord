@@ -15,8 +15,6 @@ Bu yüzden madde, baştan sona bir **belirsizlik protokolü** ile yazılmıştı
 
 Okur bu katmanları birbirine karıştırmadıkça konu anlaşılır kalır. Karıştırdığında ise, fandom tartışmalarında sıkça görüldüğü gibi, bir ima kesin hüküm, bir soru da çözülmüş bir sır kılığına girer.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/93/VoidDragonShard.jpg/revision/latest/scale-to-width-down/666?cb=20211025210202)
-
 Kanal sınırı: C'tan'ın genel doğası <#1551812203584295003>, Mars'ın kendisi <#1551816635839549491>, Mechanicus ilahiyatı <#1551817917962780682> kanalındadır. Burada merkezde Void Dragon'ın kendisi ve onun etrafında örülen soru durur.
 ---MSG---
 ## Doğası ve Alameti

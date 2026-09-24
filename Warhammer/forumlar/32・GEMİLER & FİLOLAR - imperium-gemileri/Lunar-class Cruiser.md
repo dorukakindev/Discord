@@ -22,5 +22,3 @@ Sınıfın özelliklerinin bir kısmı oyun kurallarından türetilmiştir; bu k
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999)
 
 -# İlişkili kayıtlar: <#1551817319288676373>, <#1551814512657698817>, <#1551815272074055681>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Lunar-class.jpg/revision/latest?cb=20130407031627)

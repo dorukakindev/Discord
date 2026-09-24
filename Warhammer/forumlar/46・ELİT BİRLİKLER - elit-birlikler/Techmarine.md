@@ -7,5 +7,3 @@ Mars'ta Mechanicus tarafından makine kültüne kabul edilen Space Marine'ler; C
 Techmarine (Tekno-rahip Savaşçı), bir Space Marine Chapter'ı içinde benzersiz bir konuma sahiptir; hem bir savaşçı hem de kutsal makinelerin hizmetkârıdır. Her Chapter, teknolojiye karşı doğuştan bir yeteneği olan kardeşlerini, eğitim için kızıl gezegen Mars'a gönderir. Orada, Adeptus Mechanicus tarafından makine kültüne (Cult Mechanicus) kabul edilirler; uzun ve gizemli bir eğitimden geçer, makine ruhlarının (machine spirit) sırlarını ve Omnissiah'a, yani Makine Tanrısı'na duyulan kutsal saygıyı öğrenirler. Geri döndüklerinde, artık tümüyle değişmiş, çifte sadakatli savaşçılardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/6d/DATM.jpg)

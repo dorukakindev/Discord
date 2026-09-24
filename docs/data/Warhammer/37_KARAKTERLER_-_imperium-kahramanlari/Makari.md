@@ -22,5 +22,3 @@ Makari'nin şansının gerçek bir ilahi kayırma mı yoksa Ork inancının ür�
 -# Kaynaklar: *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*; *Codex: Orks*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551643990196232303>, <#1551814495138091013>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9e/Ghazghkull2.png/revision/latest/scale-to-width-down/698?cb=20140723001859)

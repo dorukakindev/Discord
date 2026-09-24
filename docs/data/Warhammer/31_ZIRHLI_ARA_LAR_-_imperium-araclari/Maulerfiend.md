@@ -21,6 +21,4 @@ Metali eritip kesen magma cutter'lar, avını yakalayan kırbaç dokunaçlar ve 
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714702705561620>, <#1551714726583607336>, <#1551714756161703968>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Maulerfiend2.png/revision/latest/scale-to-width-down/1000?cb=20170829054955)
+-# İlişkili kayıtlar: <#1551812225570836561>, <#1551650329156788287>, <#1552482861872062494>

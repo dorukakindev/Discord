@@ -19,5 +19,3 @@ Genestealer'lar Space Hulk'larda ve uzak dünyalarda Imperium'un en eski kabusla
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Genestealer Cults*; *Space Hulk*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551759784821137419>, <#1551809133156634696>, <#1551811368389181491>, <#1551814990338723904>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/49/Tyranid-header.jpg/revision/latest/scale-to-width-down/1000?cb=20160523003947)

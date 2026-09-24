@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Exploded_View_Ancient_Dreadnought.jpg/revision/latest/scale-to-width-down/900?cb=20140225220447
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Exploded_View_Ancient_Dreadnought.jpg/revision/latest/scale-to-width-down/900?cb=20140225220447)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Dreadnought — Dreadnought

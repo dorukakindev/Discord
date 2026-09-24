@@ -10,8 +10,6 @@ Unification Wars (Birleşme Savaşları), Age of Strife'ın son yüzyıllarında
 
 Savaşların kesin başlangıç tarihi ve kaç yıl sürdüğü kaynaklarda net değildir; genellikle M30'un son yüzyıllarına yerleştirilir ve Great Crusade'in başlangıcıyla birlikte kapanan bir dönem olarak anılır. Evren içi resmî tarihin Unification'ı sade bir kurtuluş destanı gibi anlattığını, oysa Horus Heresy dönemi romanlarının bu anlatının arkasındaki acımasızlığı, siyasi hesapları ve bilinçli tarih yazımını gün yüzüne çıkardığını akılda tutmak gerekir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Raptor_Imperialis_Icon.png/revision/latest?cb=20150526214513)
-
 ## Techno-Barbar Hükümdarlıklar ve Fetih
 Emperor'un karşısındaki güçler birbirinden oldukça farklıydı. Horus Heresy dönemi kaynaklarında anılan başlıca düşmanlar arasında şunlar sayılabilir:
 

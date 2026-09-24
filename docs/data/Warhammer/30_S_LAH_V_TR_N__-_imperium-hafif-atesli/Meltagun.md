@@ -11,5 +11,3 @@ Meltagun (Melta Tüfeği), İmparatorluğun en etkili kısa menzilli tank-avcıs
 Melta'nın gücü yakın mesafede ezicidir; bir Land Raider'ın ya da bir Ork tankının zırhını delip içindekileri buharlaştırabilir. Ama bu güç menzille sınırlıdır; ışın yalnızca kısa mesafede tam etkisini gösterir, uzakta hızla dağılır. Bu yüzden melta timleri hedeflerine tehlikeli derecede yaklaşmak zorundadır; bir tankı avlamak için çoğu zaman onun ateş menziline girmeyi göze alırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ef/Meltagun.jpg)

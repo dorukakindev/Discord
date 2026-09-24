@@ -19,5 +19,3 @@ Kaynaklar Stormsurge'ü, en ağır zırhlı hedeflere ve kalabalık düşman saf
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/58/Stormsurge4.jpg/revision/latest?cb=20170325230059)

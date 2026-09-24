@@ -7,4 +7,6 @@
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ed/SM_Bloodletter.jpg)
+## Teknik ve Kullanım
+
+İçine bir iblis bağlanmış lanetli Kaos kılıcı; her biri taşıyıcısına olağanüstü güç verir ama bedelini yavaş yavaş ruhuyla öder. Kılıç darbe sırasında bıçağın etrafında Warp enerjisi açığa çıkarır; zırhı ve kemikleri sadece kesmez, onları yozlaştırır. Chaos Lord'ların ve Chosen'ların imza silahıdır; savaş sonrası kılıç sahibini yerden yere vurup kendi iradesini savaştırır.

@@ -8,8 +8,6 @@ Kategori: Karakter / Captain · Fraksiyon: Adeptus Astartes, Imperial Fists · D
 
 Garadon'un hikâyesi, tek bir büyük düellodan ya da parlak bir zaferden çok, yıkımın ardından yeniden inşa etmenin hikâyesidir. Kaynaklar onu, defalarca ağır kayıplar vererek neredeyse yok olan bir company'yi her seferinde yeniden ayağa kaldıran bir önder olarak anar. Bu kanal Garadon'u bir kişi olarak ele alır; Chapter'ın kurumsal tarihi <#1551636479925559479>, Primarch'ın mirası <#1551650286559559741> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/62/Tor_Garadon.png/revision/latest?cb=20191027102455)
-
 ## Köken ve Erken Kariyer
 Garadon'un Chapter'a katılmadan önceki hayatı, doğduğu dünya ve Captain rütbesine yükselişi yayımlanmış kaynaklarda ayrıntılı işlenmez. Imperial Fists'in sabit bir yurt dünyası yerine filo ve Terra çevresindeki tahkimatlar etrafında örgütlenen bir Chapter olması, aday kökenlerini genel olarak belirsizleştiren bir etkendir. Arşiv, Garadon'un geçmişine dair doğrulanmamış ayrıntıları kesinleştirmez.
 ---MSG---

@@ -18,4 +18,4 @@ Visarch, Ynnari'nin ortaya çıkışından itibaren Yvraine'in yanında yer ald�
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551588084628590646>, <#1551588087455289414>, <#1551714833236496445>
+-# İlişkili kayıtlar: <#1552483346846715924>, <#1551742665756901377>, <#1551812290439942255>

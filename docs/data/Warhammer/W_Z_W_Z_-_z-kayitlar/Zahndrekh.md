@@ -10,8 +10,6 @@ Uzun uykudan uyanan pek çok Necron gibi Zahndrekh de bu süreçten yara alarak 
 
 Kaynaklar bu noktada bilinçli bir belirsizlik bırakır. Zahndrekh'in durumu gerçek bir engram hasarının sonucu olabileceği gibi, zaman zaman yaşadığı berrak anlara bakılırsa ebedî bir savaşa neşeyle katlanmanın, ölümsüzlüğü bir ceza olmaktan çıkarmanın yolu olarak benimsenmiş bir yanılgı da olabilir. Kanonda Zahndrekh'in kendisinin de bundan emin olmadığı ima edilir; hangisinin doğru olduğu yayımlanmış kanonda açıklanmamıştır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/ZahndrekhandObyron.jpg/revision/latest?cb=20181202194253)
-
 ## Vargard Obyron ve Savaş Tarzı
 Zahndrekh'in hikâyesi, **Vargard Obyron** olmadan eksik kalır. Obyron, Nemesor'un kadim korumasıdır; ikisinin bağı Necrontyr çağına uzanır ve uyanıştan sonra efendisinin yanılsamasını fark eden de, ona rağmen sadakatini bir an bile bozmayan da odur. Obyron, Zahndrekh'in hayal ettiği dünyayı yıkmaya kalkışmaz; onu korur, gerektiğinde yönlendirir ve tehlike anında ona ulaşmak için taşıdığı **Ghostwalk Mantle** sayesinde uzayı katlayarak efendisinin yanında belirir. Kaynaklarda koruma görevinin onun için her şeyin önünde geldiği vurgulanır.
 

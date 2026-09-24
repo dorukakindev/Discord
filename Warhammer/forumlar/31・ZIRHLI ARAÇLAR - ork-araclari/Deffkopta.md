@@ -22,5 +22,3 @@ Rotorlar, açık pilot yeri ve shoota, rokkit gibi Ork silahları. Ork teknoloji
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091013>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Deffkopta_Squad.png/revision/latest?cb=20200712211114)

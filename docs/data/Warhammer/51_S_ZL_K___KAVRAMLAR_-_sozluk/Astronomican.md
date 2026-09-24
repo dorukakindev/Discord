@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/71/Astronomican1.jpg/revision/latest/scale-to-width-down/900?cb=20200625221719
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/71/Astronomican1.jpg/revision/latest/scale-to-width-down/900?cb=20200625221719)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Astronomican — İmparator'un Feneri

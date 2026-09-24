@@ -11,5 +11,3 @@ Scythes of the Emperor, Ultramarines'in (Guilliman) bir halefidir ve anavatanlar
 Hive Fleet Kraken (büyük bir Tyranid sürüsü) anavatanları Sotha'ya saldırdığında, chapter umutsuzca savundu ama yenildi; gezegen, üzerindeki neredeyse tüm Scythes savaşçılarıyla birlikte yutuldu. Binlerce savaşçıdan ve bütün bir anavatandan geriye, yalnızca bir avuç hayatta kalan kaldı; chapter fiilen yok edilmişti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/2f/ScythesEmpArt.jpg)

@@ -8,8 +8,6 @@ Kategori: Sefer / Horus Heresy Harekâtı · Fraksiyon: Word Bearers ve World Ea
 
 Seferi yalnızca askerî bir oyalama harekâtı olarak okumak, kaynakların çizdiği resmi eksik bırakır. Word Bearers için bu savaş aynı zamanda bir ayindi: yakılan her şehir, kurban edilen her nüfus, Warp'ı bu bölgeye doğru çağıran büyük bir duanın parçası sayılıyordu. Aaron Dembski-Bowden'ın *Betrayer* romanı seferin bu iki yüzünü, yani strateji ile teolojiyi, birbirinden ayrılmaz biçimde işler ve onu Angron'un Nuceria'daki dönüşümüyle sonlandırır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Lorgar_%26_Angron_Purge_of_Nuceria.jpg/revision/latest?cb=20121217052452)
-
 Bu kanal seferin kendisini merkeze alır. Calth'taki baskın <#1551811689790312569>, doğurduğu Warp fırtınası ruinstorm, ardından kurulan yedek imparatorluk <#1551815573459968000> kanalında işlenir. Primarch'ların kişisel hikâyeleri için <#1551816346268999763> ve <#1551649073432494263> kanallarına bakılmalıdır.
 ---MSG---
 ## Arka Plan: Monarchia'dan Isstvan'a

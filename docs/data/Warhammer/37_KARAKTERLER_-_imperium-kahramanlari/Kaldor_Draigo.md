@@ -11,5 +11,3 @@ Kaldor Draigo, Grey Knights'ın Supreme Grand Master'ı ve belki de İmparatorlu
 Warp'ta zaman ve mekan anlamsızdır; Draigo, çağlar arasında, geçmiş ve gelecek savaşların ortasında savrularak yüzyıllardır iblislerle tek başına savaşıyor. Bazen Heresy çağında, bazen uzak bir gelecekte belirir; iradesinin gücü o kadar büyüktür ki Cehennem'in kalbinde bile yozlaşmadan, akıl sağlığını koruyarak var olmayı başarır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/7d/Draigo.jpg)

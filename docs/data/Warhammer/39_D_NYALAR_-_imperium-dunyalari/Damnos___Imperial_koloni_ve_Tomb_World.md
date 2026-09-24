@@ -18,4 +18,4 @@ Necron'ların uyanmasıyla koloni kısa sürede çöktü. Ultramarines, Captain 
 
 -# Kaynaklar: *Fall of Damnos — Nick Kyme*; *Spear of Macragge — Nick Kyme*; *Codex: Necrons*
 
--# İlişkili kayıtlar: <#1551588018320707634>, <#1551588067880472658>, <#1551741746323521587>
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1552482553003376650>, <#1551817348900589669>

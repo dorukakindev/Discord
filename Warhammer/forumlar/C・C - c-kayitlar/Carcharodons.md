@@ -10,8 +10,6 @@ Chapter'ın büyük kısmı zamanını Imperium'un bilinen sınırlarının öte
 
 Carcharodons'u ansiklopedik bakımdan zorlaştıran, hakkında bilinenlerin azlığı kadar bilinmeyenlerin kasıtlı biçimde örtülmüş olmasıdır. Kökenleri, Founding'leri ve gene-seed soyları yayımlanmış kanonda kesin olarak açıklanmaz; Raven Guard'a işaret eden güçlü ipuçları vardır, ama bu ipuçları bir hükme dönüşmez. Aşağıdaki bölümler bu belirsizliği korur: bilinen savaşlar, kültür ve yaşam biçimi, kökene dair tartışmalardan ayrı tutularak işaretlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/48/Carcharodons_Livery.jpg/revision/latest?cb=20150903073239)
-
 ## Köken Sorunu
 Bir Space Marine Chapter'ı için Founding ve gene-seed soyu, kimliğin en temel iki satırıdır. Carcharodons söz konusu olduğunda bu iki satır da boş kalır. Chapter'ın hangi Founding'de kurulduğu, kim tarafından ve hangi amaçla yaratıldığı yayımlanmış kaynaklarda açıklanmamıştır; Chapter'ın kendi kayıtlarında bu soruların yanıtı bulunsa bile dış dünyayla paylaşılmaz.
 

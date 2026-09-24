@@ -18,4 +18,4 @@ Alaitoc'un katı düzeni ile ona sığamayanların yolu, Gav Thorpe'un Path üç
 
 -# Kaynaklar: *Path of the Warrior — Gav Thorpe*; *Path of the Seer — Gav Thorpe*; *Path of the Outcast — Gav Thorpe*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>, <#1551740901133520896>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551810727445004339>

@@ -8,5 +8,3 @@ Baal, Blood Angels ve onların halef chapter'larının anavatanıdır; çok eski
 Bu acımasız dünyada, radyasyona dirençli sert mutant kabileler hayatta kalır; Blood Angels, en güçlü ve en dayanıklı adaylarını bu kabileler arasından devşirir. Ölüm dünyasının zorlukları, chapter'a gelecek savaşçıların daha test edilmeden önce çelikleşmesini sağlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/df/BaalFortressMonestary.jpg)

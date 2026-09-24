@@ -9,5 +9,3 @@ Mortarion, zehirli sislerle kaplı, ölümcül bir gezegen olan Barbarus'a düş
 Barbarus'un sıradan insanlarını bu cadı-lordlardan kurtarmaya adadı kendini ve teker teker onları devirdi; ama üvey babası olan en güçlü lordu tek başına yenmeye çalışırken zehir onu alt etmek üzereyken İmparator araya girip işi bitirdi. Mortarion, gücünü kendi başına kanıtlayamadığı için bunu bir aşağılanma olarak gördü ve otoriteye, özellikle de İmparator'a karşı derin, kalıcı bir güvensizlik besledi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5a/MortarionYoung.jpg)

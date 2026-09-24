@@ -13,5 +13,3 @@ Commander Dante, galaksinin en yaşlı ve en saygın Space Marine'idir; bin yıl
 Dante, Blood Angels'ın iki lanetinin (Kan Susuzluğu ve Kara Öfke) yükünü yüzyıllardır taşır; her geçen on yıl, primarch'ının ölümünü yeniden yaşatan çılgınlığa kapılma riskini artırır. Yine de iradesi ve göreve bağlılığı sayesinde ayakta kalır; bu, onu hem trajik hem de muazzam saygın bir figür yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3d/PICFILE_-BA6824593.jpg)

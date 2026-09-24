@@ -7,4 +7,6 @@ Dark Reaper aspect savaşçılarının çok atışlı füze rampası; her füze 
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/4c/ReaperLauncher.jpg)
+## Teknik ve Kullanım
+
+Dark Reaper aspect savaşçılarının çok atışlı füze rampası; tek atışta birden çok yüksek patlayıcılı yıldız-mermisi fırlatır. Uzun menzilde piyade ve hafif zırhlıları biçmek için tasarlanmıştır; Dark Reaper'ın 'ölüm meleği' rolünün aracıdır. Aspect tapınağının felsefesi gereği darbe tek seferde, isabetli ve ölümcüldür — füzeler hedefe ulaşmadan önce yörünge düzeltir.

@@ -9,5 +9,3 @@ Plague of Unbelief (İnançsızlık Vebası), M36'da, Apostasy Çağı'nın geni
 İsyanın merkezinde, Gathalamor'un apostat (dinden dönmüş) Kardinali Bucharis vardı; sapkınlıkları öyle büyük boyutlara ulaştı ki, dönem bütün olarak "İnançsızlık Vebası" adıyla anıldı. Bucharis'in temel iddiası dehşet vericiydi: Terra'nın düştüğünü ve artık dinin gerçek merkezinin Gathalamor olduğunu vaaz etti; böylece insanlığın kutsal merkezini kendi tahtıyla değiştirmeye kalktı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/b/b9/ServiceImage.jpg/50px-ServiceImage.jpg)

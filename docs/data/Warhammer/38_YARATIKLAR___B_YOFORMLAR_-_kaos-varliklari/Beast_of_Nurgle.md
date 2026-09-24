@@ -11,5 +11,3 @@ Beast of Nurgle (Nurgle'ın Canavarı), 40K'nın en tuhaf ve en ironik biçimde 
 Bir Beast of Nurgle, tıpkı bir köpek yavrusu gibi davranır; sonsuz bir coşku, neşe ve oyun arzusuyla doludur. Yeni "arkadaşlar" edinmeye bayılır ve birini gördüğünde, saf bir sevinçle ona doğru koşar (sürünür), onunla oynamak ister. Sorun şu ki, onun "oynaması" ölümcüldür; devasa, sümüklü gövdesi felç edici toksinler ve Nurgle'ın sayısız hastalığını salgılar, dokunaçları her şeyi ezer. Birlikte oynamak istediği "arkadaşı" çoğu zaman birkaç dakika içinde ölür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/37/DaysofNurgle-Day6-Thumb4dsv.jpg)

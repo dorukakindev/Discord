@@ -8,5 +8,3 @@ Catachan, galaksinin en ölümcül ölüm dünyalarından biri olarak ün salmı
 Böyle bir dünyada doğmak ve yetişkinliğe ulaşmak başlı başına bir mucizedir; çocukluk, ölümle sürekli bir dans içinde geçer ve yalnızca en dikkatli, en güçlü ve en becerikli olanlar hayatta kalır. Bu acımasız doğal seçilim, Catachan halkını galaksinin en sert insanları yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a9/IGCatachanWorld.jpg)

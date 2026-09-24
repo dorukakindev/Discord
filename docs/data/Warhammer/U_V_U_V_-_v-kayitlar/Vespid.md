@@ -8,8 +8,6 @@ Vespid, T'au Empire'a bağlı kanatlı, böceksi bir türdür. Kroot'la birlikte
 
 Kaynaklar Vespid'in anayurdunu sert koşullu bir dünya olarak anlatır; türün kanatları, bedeni ve toplumsal düzeni bu çevrenin ürünü olarak tasvir edilir. Vespid toplumu, kaynaklarda **strain** diye anılan soylara ya da gruplara bölünmüştür. Bu yapının bir böcek kovanına ne ölçüde benzediği, bireylerin ne kadar bağımsız düşünebildiği ya da kolektif bir bilince sahip olup olmadıkları kanonda kesinleştirilmez; Imperial yorumcular bu belirsizliği çoğu zaman kendi önyargılarıyla doldurur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f7/NeutronBlaster.jpg/revision/latest?cb=20121003014336)
-
 ## T'au Empire'a Katılış
 Vespid'in imparatorluğa katılışı, Water Caste'ın diplomatik girişimleriyle kurulan bir ilişki olarak anlatılır. İki tür arasındaki iletişim güçlüğü bu ilişkinin merkezindedir: T'au'nun sunduğu teknoloji olmadan emir verip almak, anlaşma yapıp bozmak neredeyse imkânsızdır. Bu yüzden katılımın ne ölçüde gönüllü olduğu, Vespid'in Tau'va'yı gerçekten kavrayıp kavramadığı ya da yalnızca kendi toplumsal düzeni içinde yeni bir hiyerarşiyi mi kabul ettiği sorusu açık kalır. T'au anlatısında bu, Greater Good'un kapsayıcılığının kanıtıdır; Imperium'un gözünde ise xenos türlerinin T'au etrafında toplanmasının tedirgin edici bir örneği.
 ---MSG---

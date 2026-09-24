@@ -12,8 +12,6 @@ Bu kanal Khayon'u bir kişi ve bir anlatıcı olarak ele alır. Legion'un tarihi
 
 > Bu maddede aktarılan olayların büyük bölümü Khayon'un kendi anlatısına dayanır. Arşiv, anlatıcının iddialarını nesnel tarih olarak değil, evren içi bir tanıklık olarak kaydeder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Iskandar_Khayon.jpg/revision/latest?cb=20160829205424)
-
 ## Thousand Sons Kökeni
 Khayon, Magnus the Red'in bilgin-savaşçılardan oluşan XV Legion'unda, yani Warp'ı bir bilim nesnesi gibi inceleyen ve psişik disiplinleri Cult'lara ayrılmış bir düzen içinde öğreten Legion'da yetişti. Romanlarda albino bir sorcerer olan **Ashur-Kai**, onun akıl hocası ve uzun yıllar boyunca en yakın yol arkadaşıdır. Khayon'un psişik yeteneği Legion'un ölçüsüyle bile dikkat çekici bulunur; ama romanlar onun Great Crusade dönemindeki kariyerini ayrıntılı bir biyografi olarak işlemez.
 

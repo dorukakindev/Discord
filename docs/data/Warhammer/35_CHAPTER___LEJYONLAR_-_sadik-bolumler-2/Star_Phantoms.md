@@ -11,5 +11,3 @@ Star Phantoms (Yıldız Hayaletleri), kökeni gizemli kalan bir Space Marine cha
 Başlangıçta mezar dünyası Haakoneth'i üs almışlardı; ama 120.M40'ta bu gezegenin yok olmasıyla, zorunlu olarak filo-temelli, gezici bir chapter haline geldiler. Beyaz zırhları, sağ omuzlarındaki siyah taktik sembolleri ve kafatası-yıldız armalarıyla tanınırlar; isimlerine yakışan, hayalet gibi gezici bir varlık sürdürürler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/df/StarPhantomTDAIA10.jpg)

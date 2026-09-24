@@ -24,6 +24,4 @@ Emperor's Children'ın Fulgrim ile yeniden sahneye çıktığı dönemde Slaanes
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Emperor's Children*
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/47/KeeperOfSecretsFF.jpg)
-
 -# İlişkili kayıtlar: <#1551588050960781432>, <#1551714793138954350>, <#1551587957440249937>, <#1551587961009741945>

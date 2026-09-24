@@ -14,8 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/r
 
 ## Temel Bilgiler
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/revision/latest?cb=20120915224004)
-
 | Özellik | Değer |
 |---|---|
 | Legion Numarası | XII |

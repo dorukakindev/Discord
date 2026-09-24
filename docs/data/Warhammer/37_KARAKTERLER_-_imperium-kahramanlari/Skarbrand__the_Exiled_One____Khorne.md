@@ -19,5 +19,3 @@ Yaygın anlatıma göre Tzeentch'in kurduğu bir entrikaya kapılarak Khorne'un 
 -# Kaynaklar: *Codex: Chaos Daemons*
 
 -# İlişkili kayıtlar: <#1551815867845578773>, <#1551654107058540595>, <#1551647728692633643>, <#1551809666454134928>
-
-![gorsel](https://cdn.shoplightspeed.com/shops/622104/files/62306069/games-workshop-warhammer-40k-chaos-daemons-khorne.jpg)

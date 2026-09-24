@@ -11,5 +11,3 @@ Thunder Hammer (Gök Gürültüsü Çekici), İmparatorluğun en görkemli ve en
 Bu silahın gücü efsanevidir; bir Thunder Hammer darbesi bir insanı zırhıyla birlikte ezebilir, bir aracı çökertebilir ve hatta küçük yürüteçleri devirebilir. Sıklıkla bir Storm Shield (enerji kalkanı) ile birlikte taşınır; bu kombinasyon, özellikle Terminatör zırhlı elit savaşçıların ve chapter komutanlarının gözde donanımıdır. Ağırdır ve yavaştır, ama isabet ettiğinde karşı konulamaz.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b5/Thunder_Hammer_%28Lathe_Pattern%29.jpg)

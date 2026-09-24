@@ -11,5 +11,3 @@ Haarken Worldclaimer, "Kıyametin Habercisi" (Herald of the Apocalypse) ve "Abad
 Kariyerine, artık parçalanmış olan Night Lords lejyonunun bir üyesi olarak başladı; Konrad Curze'nin korku ve dehşet üzerine kurulu savaş geleneğini miras aldı. Abaddon, onun operasyon yöntemlerinden öyle etkilendi ki, Beşinci Kara Haçlı Seferi'nden kısa süre önce, Haarken ve onun Gloomtalons (Kasvet Pençeleri) birliğine Black Legion'la yan yana savaşma onurunu sundu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/05/HaarkenArt.jpg)

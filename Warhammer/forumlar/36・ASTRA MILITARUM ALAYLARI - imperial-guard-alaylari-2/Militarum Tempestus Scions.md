@@ -13,5 +13,3 @@ Militarum Tempestus Scionları, halk arasında Storm Trooper olarak da bilinen, 
 Çocukluklarından itibaren Schola Progenium tarafından savaş sanatlarında eğitilen Scionlar, Imparatorluk Muhafızı saflarında hizmet etmiş belki de en usta askerlerdir. Genellikle Imparatorluğun şehit olmuş hizmetkârlarının yetimlerinden devşirilir, sarsılmaz bir sadakat ve disiplinle biçimlendirilirler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://www.wargamer.com/wp-content/sites/wargamer/2022/10/warhammer-40k-astra-militarum-rogal-dorn-tank-reveal-painted-model-with-troops.jpg)

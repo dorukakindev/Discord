@@ -13,5 +13,3 @@ Thunderhawk Gunship, Space Marine'lerin en ikonik ve en hayati hava aracıdır; 
 Thunderhawk'ın temel görevi, bir Space Marine kuvvetini (onlarca savaşçıyı, bazen araçlarıyla birlikte) yörüngedeki bir savaş gemisinden doğrudan gezegen yüzeyindeki savaş alanına indirmektir; bu, Astartes'in o ani, ezici "yıldırım saldırısı" doktrininin temelidir. Düşman hiçbir uyarı almadan, gökyüzü yarılır ve Thunderhawk'lar tam savaşın kalbine iner.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/51/RGThunderhawk.jpg)

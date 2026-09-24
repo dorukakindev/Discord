@@ -13,8 +13,6 @@ Aşağıda Silver Skulls hem bir kurum hem de bir inanç topluluğu olarak anlat
 ## Kökenler ve Soy Tartışması
 Silver Skulls'ın kuruluşu ve gene-seed soyu uzun süre tartışma konusu oldu. Eski kaynaklar Chapter'ın soyunu belirsiz bırakır; hangi Founding'de kuruldukları da açıkça yazılmaz. Bu boşluk yıllarca farklı yorumlara kapı araladı; okurların bir kısmı onları çok eski bir Founding'e yerleştirdi, kaynakların çoğu ise soylarını çözülmemiş bir soru olarak bıraktı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SilverSkullsBadge2.jpg/revision/latest?cb=20260109164610)
-
 Sonraki yayınlar bu belirsizliği bir yönde kapatmaya yöneldi. 13th Black Crusade'i işleyen yayınlarla birlikte Chapter, Roboute Guilliman'ın gene-seed'inden gelen bir Ultramarines soyu olarak anılmaya başladı. Yine de bu bağ, Ultramarines geleneğinin düzenli, ölçülü kültürüyle Silver Skulls'ın kehanete gömülü dünyası arasındaki keskin farkı ortadan kaldırmaz. İki Chapter aynı kandan gelse bile birbirine hiç benzemez.
 
 Bu yüzden soy meselesini tek bir hükümle kapatmamak gerekir. Güncel kaynaklar Silver Skulls'ı Guilliman soyuna bağlar; ama Chapter'ın kimliğini kanından çok, kuşaklar boyu sürdürdüğü batıl gelenek biçimlendirir. Bir Silver Skull kardeşi için önemli olan hangi Primarch'tan geldiği değil, hangi alametin altında savaşa gittiğidir.

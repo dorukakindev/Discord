@@ -21,6 +21,4 @@ Genel anlatıya göre Fall sırasında Slaanesh tarafından yutuldu ya da yok ed
 
 -# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Asurmen: Hand of Asuryan — Gav Thorpe*; *Codex: Eldar — 6th Edition*
 
--# İlişkili kayıtlar: <#1551740924244271140>, <#1551587928025600012>, <#1551714833236496445>, <#1551587961009741945>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/56/Order.gif/revision/latest?cb=20110602203800)
+-# İlişkili kayıtlar: <#1551810744754905123>, <#1551997822725922938>, <#1551812290439942255>, <#1551814105046851615>

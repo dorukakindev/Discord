@@ -17,5 +17,3 @@ Grey Knights'ın İmparatorluk'a en büyük ortaya çıkışı; Months of Shame 
 -# Kaynaklar: The Emperor's Gift (A. D-B.), Grey Knights kodeksi
 
 -# İlişkili kayıtlar: `angron`, `world-eaters`, `grey-knights`, `space-wolves`, `logan-grimnar`, `inquisition`, `second-war-for-armageddon`, `armageddon`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Armageddon_by_StTheo.jpg/revision/latest/scale-to-width-down/720?cb=20100529213521)

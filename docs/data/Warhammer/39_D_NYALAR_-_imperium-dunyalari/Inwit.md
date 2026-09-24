@@ -8,5 +8,3 @@ Inwit, Imperial Fists lejyonunun ilk anavatanı ve primarch'ları Rogal Dorn'un 
 Gezegenin karanlık yüzünü yarık-labirentleri, donmuş sıradağlar ve buz-kum düzlükleri kaplar; yaşam, bu dondurucu cehennemde ancak "buz-kovanları" (ice-hives) içinde, sıkı sıkıya örgütlenmiş kabileler halinde tutunabilir. Bu acımasız ortam, halkı son derece sert, disiplinli ve dayanıklı yapar; zorluğa karşı sebat, Inwit kültürünün özüdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/29/Galaxy_map_INWIT.jpg)

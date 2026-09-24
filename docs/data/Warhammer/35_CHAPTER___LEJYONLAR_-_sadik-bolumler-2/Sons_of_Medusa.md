@@ -11,5 +11,3 @@ Sons of Medusa (Medusa'nın Oğulları), primarch Ferrus Manus'un Iron Hands lej
 Iron Hands ve halefleri, primarch'ları Ferrus Manus'un Heresy sırasında öldürülmesinin travmasını taşır; bu kayıp, onları duygusal zayıflıktan iğrenen, kendilerini biyonik geliştirmelerle (bedenlerini makine parçalarıyla değiştirerek) "güçlendiren" bir kültüre itti. Sons of Medusa, bu mirası alır ama kendi özerk yapısını ve geleneklerini kurar; Iron Hands'ten ayrı, kendi başına hareket eden bir güç haline gelmişlerdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e2/ClanMagera.jpg)

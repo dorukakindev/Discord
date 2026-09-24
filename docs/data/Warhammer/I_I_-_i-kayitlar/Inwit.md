@@ -10,8 +10,6 @@ Inwit'in bir başka tuhaflığı da ardında bıraktığı boşluktur. Birçok F
 
 Bu kanal dünyanın kendisini ve Dorn'un yetişmesindeki payını merkeze alır. Primarch'ın kişiliği ve kaderi için <#1551650286559559741>, Legion ve Chapter tarihi için <#1551636479925559479> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/72/Inwit2.jpg/revision/latest?cb=20140410021650)
-
 ## Buzun ve Soluk Güneşin Dünyası
 Kaynaklar Inwit'i, zayıf ışıklı bir yıldızın çevresinde dönen, yüzeyi buzla kaplı ve yaşamın her gün doğanın kendisine karşı kazanıldığı sert bir dünya olarak betimler. Bu betimleme ayrıntıdan çok bir karakter tablosudur: yayımlanmış kanonda Inwit'in coğrafyası, nüfusu, kentlerinin adları ya da ekonomisinin nelere dayandığı sistemli biçimde anlatılmaz. Arşiv bu yüzden gezegeni bir harita gibi değil, Dorn'u biçimlendiren bir iklim olarak ele alır.
 

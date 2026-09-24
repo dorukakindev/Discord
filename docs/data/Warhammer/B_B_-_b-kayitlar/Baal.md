@@ -13,8 +13,6 @@ Chapter geleneğinin ve Imperial kaynakların aktardığına göre Baal'ın ayla
 
 Bu felaketin kronolojisi yayımlanmış kanonda ayrıntılandırılmamıştır. Kesin olan, Imperium Baal'a ulaştığında karşısında radyasyonun ve kıtlığın elediği, sert ama insan kalmayı başarmış halklar bulduğudur. Baal Secundus'un saf insan kabileleri ile onları avlayan mutant yağmacılar arasındaki bitmeyen savaş, Sanguinius'un bulunacağı dünyanın gündelik gerçeğiydi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/13/BaalOrbit.jpg/revision/latest?cb=20190420000514)
-
 ## Sanguinius ve Legion'ın Yurdu
 Primarch'ların dağılışında Sanguinius'un kapsülü Baal Secundus'a düştü. Kaynaklarda **the Blood** adıyla anılan kabile, kanatlarıyla doğan çocuğu kendi aralarında büyüttü; olağanüstü hızla serpilen Sanguinius, çok geçmeden kabileleri mutant tehdidine karşı birleştiren bir önder oldu. Emperor'un Baal'a gelişiyle bu önder IX Legion'ın başına geçti ve sistem, Legion'ın manevi merkezi hâline geldi. Chris Wraight'ın *Sanguinius: The Great Angel* romanı bu yılları derinleştirir.
 

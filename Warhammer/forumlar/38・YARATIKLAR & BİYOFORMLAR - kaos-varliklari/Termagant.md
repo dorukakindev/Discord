@@ -25,5 +25,3 @@ Gaunt organizmalarının varyantları ve silah seçenekleri edition'dan edition'
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551809334483361823>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/90/Termagaunt_2.png/revision/latest?cb=20141230013259)

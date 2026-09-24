@@ -10,8 +10,6 @@ Treaty of Olympus'la kurulan bu ittifak, Great Crusade'in sanayi motoru oldu. Le
 
 Bu madde Mechanicum'u bir kurum ve savaşan bir güç olarak ele alır. Mars'ın kendisi ve Schism'in coğrafi anlatısı <#1551816635839549491>, hain kolun sonraki binyılları <#1551650329156788287>, Titan Legio'ları <#1551809313096474696>, rahiplik düzeni tech-priests kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723)
-
 ## Yapı: Mars, Forge World'ler ve Taghmata
 Mechanicum'un tepesinde Mars'ın hükümdarı **Fabricator General** oturuyordu. Heresy'nin başladığı dönemde bu makamda **Kelbor-Hal** vardı; onun yanında ve karşısında ise **Fabricator-Locum** unvanıyla anılan **Zagreus Kane** duruyordu. Forge world'ler Mars'a bağlılık bildiren, ama kendi Fabricator'ları, kendi gelenekleri ve kendi Knight hanedanlarıyla yarı bağımsız yaşayan dünyalardı. Bu gevşek yapı, Heresy geldiğinde her forge world'ün ayrı bir karar vermesine zemin hazırlayacaktı.
 

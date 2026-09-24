@@ -19,5 +19,3 @@ Heresy'de Mars ikiye bölündü; hain kesim, Horus'un savaş makinesine Titan'la
 -# Kaynaklar: *Mechanicum — Graham McNeill*; *Codex: Chaos Space Marines*
 
 -# İlişkili kayıtlar: <#1551650329156788287>, <#1551753449878724689>, <#1551816635839549491>, <#1551637652569067542>, <#1551809313096474696>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Archmagos-Dray2.jpg/revision/latest?cb=20150113021027)

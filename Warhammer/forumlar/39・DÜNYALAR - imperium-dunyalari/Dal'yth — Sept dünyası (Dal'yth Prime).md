@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Dal%27yth-0.png/revision/latest?cb=20200605133218
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Dal'yth — Sept dünyası (Dal'yth Prime)
 

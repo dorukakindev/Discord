@@ -7,4 +7,6 @@ Chaos Terminator'larının döner namlulu ağır bolt silahı; ele geçirilmiş 
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a1/SoulreaperCannon.jpg)
+## Teknik ve Kullanım
+
+Death Guard'ın ağır rotasyon topu; çok namlulu bir gatling düzeneğiyle zehirli mermileri sürekli yaylım hâlinde atar. Tek atış gücü değil, sürekli ateş kuvvetiyle çalışır; piyade yığınlarını ve hafif zırhlıları biçmek için idealdir. Nurgle'ın 'bol ve cömert' doktrinini silah olarak uygular — bolca atar, bolca kirletir.

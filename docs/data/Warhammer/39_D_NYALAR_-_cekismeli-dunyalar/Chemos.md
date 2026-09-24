@@ -8,5 +8,3 @@ Chemos, Emperor's Children lejyonunun ve primarch'ları Fulgrim'in anavatanıyd�
 Gezegenin kaynakları tükeniyor, kendi nüfusunu besleyecek yiyeceği bile üretemiyordu. Halk, devasa fabrika-kalelerde, günün her saatini buhar madenlerinde ve sentezleyicilerde köleler gibi çalışarak, yavaşça açlıktan ölmeye mahkumdu. Umutsuz, kasvetli, ölmekte olan bir uygarlıktı; her gün hayatta kalma savaşıyla geçerdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/be/Galaxy_map_CHEMOS.jpg)

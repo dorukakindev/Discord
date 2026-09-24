@@ -9,5 +9,3 @@ Silence (Sessizlik), Death Guard primarch'ı Mortarion'un kişisel savaş tırpa
 Silence'ın kökeni karanlık fısıltılarla örülüdür; bıçağın xenos-lekeli bir kökeni olduğu, hatta Mortarion'un zehirli anavatanı Barbarus'ta kendisine "baba" diyen korkunç leş-yaratık High Overlord Necare'ın silahı olabileceği söylenir. Mortarion, bu devasa hasat tırpanını ilk kez Barbarus'un dağlarındaki canavarları doğramak için kullandı; o ölümcül dünyada hayatta kalmanın aracıydı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/71/Galaxy_map_Obscurus.jpg)

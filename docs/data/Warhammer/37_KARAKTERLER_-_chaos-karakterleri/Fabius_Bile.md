@@ -11,5 +11,3 @@ Fabius Bile, Heresy çağından kalma, et ve genetik üzerinde tanrıcılık oyn
 Fabius'un takıntısı, "kusursuz yeni insanı" (Homo Novus, New Men) yaratmaktır; ona göre hem insanlık hem Astartes kusurludur ve o, eti ve geni yeniden tasarlayarak üstün bir tür yaratabilir. Bu uğurda sayısız korkunç deney yaptı: canavarlaşmış mahluklar, geliştirilmiş savaşçılar, genetik kimeralar. Kendi ölümünü, bedenini sürekli klonlayıp bilincini yenisine aktararak (ya da öyle göründüğü için) defalarca aldattı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fc/Fabius.jpg)

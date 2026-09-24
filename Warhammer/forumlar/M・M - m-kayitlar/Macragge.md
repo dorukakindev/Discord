@@ -10,8 +10,6 @@ Kaynakların çizdiği Macragge, sert dağları, soğuk yaylaları ve bu dağlar
 
 Bu kanal Macragge'ı bir dünya olarak ele alır: kökleri, kurumları, kuşatmaları ve belleği. Chapter'ın askerî tarihi <#1551809394226765939>, krallığın bütünü <#1551809577425575998>, Primarch'ın kişisel hikâyesi <#1551808704901423186> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Macragge2.png/revision/latest?cb=20170802085537)
-
 ## Guilliman'dan Önce: Consul'ler Dünyası
 Macragge'ın Age of Strife'tan nasıl çıktığı kaynaklarda ayrıntılı anlatılmaz; bilinen, Guilliman düştüğünde gezegenin insan uygarlığını tümüyle yitirmemiş, ama gerilemekte olan bir dünya olduğudur. Başkent, iki consul'ün birlikte yönettiği klasik esinli bir düzenle idare ediliyordu. Kent surlarının ötesinde, özellikle kuzeydeki **Illyrium** yaylalarında, merkezî otoriteyi tanımayan topluluklar ve yağmacılar yaşıyordu; Macragge'ın soyluları ise sayıca az, çıkarları bakımından da bölünmüştü.
 

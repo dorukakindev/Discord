@@ -9,5 +9,3 @@ Squiggoth (Skiggot), Ork ekosisteminin en büyük yaratıklarından biridir; "sq
 Squig'ler, Ork biyolojisinin tuhaf bir parçasıdır; Orklar mantar benzeri varlıklar olduğu için, çevrelerindeki tüm Ork yaşam formları (squig'ler dahil) onların genetik ekosisteminin bir uzantısıdır. Squig'lerin çoğu küçüktür (yiyecek, silah ya da evcil hayvan olarak kullanılır), ama Squiggoth devasadır; kalın derisi, devasa dişleri ve boynuzlarıyla başlı başına bir canavardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/de/SquiggothArt.jpg)

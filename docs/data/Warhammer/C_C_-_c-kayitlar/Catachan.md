@@ -11,8 +11,6 @@ Bu kanal dünyanın doğasını ve halkını merkeze alır. Guard'ın genel yap�
 ## Yeşil Cehennem
 Catachan'ın ormanı, kaynaklarda bir manzara değil bir düşman olarak tasvir edilir. Dünyanın yırtıcıları arasında en çok anılanı, çok bacaklı zırhlı gövdesi ve zehirli iğnesiyle bataklıklarda ve orman tabanında pusuya yatan **Catachan Devil**'dir. Bitki örtüsü de en az hayvanlar kadar tehlikelidir: bir canlıya tutunup onun iradesini ele geçirdiği anlatılan parazit **Brain Leaf**, Catachan'ın ormanına bir cangıldan çok bir tuzaklar labirenti niteliği kazandıran türlerin simgesidir. Hastalıklar, zehirler ve sürekli değişen arazi bu tabloyu tamamlar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/66/Catachan2.jpg/revision/latest?cb=20120406222234)
-
 Catachan'ın Imperium öncesi tarihi, kolonileşmesi ve bu koşullara nasıl uyum sağlandığı yayımlanmış kanonda ayrıntılı açıklanmaz. Kesin nüfus, ortalama yaşam süresi ya da ekosistem üzerine dolaşan popüler rakamlar da güvenilir bir kaynağa dayanmaz; arşiv bunları aktarmaz. Kaynakların ortak vurgusu, Catachan'da çocukluğun hayatta kalma eğitimiyle iç içe geçtiği ve yetişkinliğe ulaşanların olağanüstü dayanıklı, iri yapılı ve tehlikeye karşı içgüdüsel bir farkındalığa sahip insanlar olduğudur.
 
 ## Halk ve Savaş Kültürü

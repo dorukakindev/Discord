@@ -14,5 +14,3 @@ Multi-Laser, lascannonun delici gücünden vazgeçip atış hızını seçer: d�
 ## Teknik ve Kullanım
 Las silahları tutarlı foton ışını üretir: güneşle şarj edilebilen hücreleri, neredeyse sıfır geri tepmesi ve mermi 'tükenmezliği' ile İmparatorluk'un en güvenilir silah ailesidir. Lascannon gibi ağır tipler tank avcısı olarak kullanılırken lasgun, 'Hammer of the Emperor' olarak milyonlarca Guardsman'ın standart silahıdır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/ac/Multi-Laser.jpg)

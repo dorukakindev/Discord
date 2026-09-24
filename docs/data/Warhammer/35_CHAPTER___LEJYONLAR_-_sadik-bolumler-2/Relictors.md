@@ -11,5 +11,3 @@ Relictors (Emanetçiler), 40K'nın en trajik ve en ahlaki açıdan karmaşık ch
 Relictors, Kaos'a karşı verdikleri savaşta radikal bir inanca vardılar: düşmanı yenmenin en iyi yolu, onun kendi silahlarını ona karşı çevirmektir. Bu yüzden lanetli Kaos eserlerini, daemon silahlarını ve yasak teçhizatı ele geçirip, onları arındırmaya ve Kaos'a karşı kullanmaya çalıştılar. Niyetleri tamamen sadıktı; amaçları, İmparatorluğu içeriden değil, düşmanın gücünü çalarak korumaktı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/2c/Relictors_Armageddon_War.jpg)

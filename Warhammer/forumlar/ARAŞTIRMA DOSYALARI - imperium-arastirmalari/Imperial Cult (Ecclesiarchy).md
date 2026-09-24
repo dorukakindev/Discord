@@ -10,8 +10,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/31/Adeptus_Ministorum_Ic
 
 Motto: *"The Emperor Protects!"*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/31/Adeptus_Ministorum_Icon.jpg/revision/latest?cb=20140526091152)
-
 Roboute Guilliman döndü ve Ecclesiarchy'yi sevmedi (temelcilik ve lüks düşkünlüğü sorun, salt theizm/mezhep değil). Kendisi bile İmparator'un bir tanrı olup olmadığını sorgulamaya, Lectitio Divinitatus'un Great Crusade öncesi baskısını okumaya başladı. Yine de Cawl, Celestine ve başkalarının sözleri onu İmparatorluk için zorunluluğuna ikna etti. **Ecclesiarch Baldo Slyst**'ı kovdu (kendisi Guilliman'a karşı başarısız Hexarchy darbe girişiminde suikaste kurban gitti) ve yerine **Eos Ritira**'yı atadı. Reformcu olarak görülür.
 
 ## Kilisenin Doğası
@@ -177,5 +175,3 @@ Inquisition gibi, onların da kendi Space Marine Chapter uşakları vardır.
 8. *Dark Heresy* (FFG) — Frateris Militia kuralları
 9. *Codex: Witchhunters* — Zealots trial rules
 10. 1d6chan üzerinden diğer kurum dosyaları (Inquisition, Sisters of Battle, Adeptus Custodes vb.)
-
-![gorsel](https://static.wikitide.net/1d6chanwiki/thumb/c/c5/Cathedral.jpg/1200px-Cathedral.jpg)

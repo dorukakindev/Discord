@@ -9,5 +9,3 @@ Daemon Primarch Angron'un Khorne iblisleriyle Armageddon'a indiği; Grey Knights
 Khorne'a adanmış Daemon Primarch Angron, dört World Eaters bölüğü ve devasa bir iblis ordusuyla kovan dünya Armageddon'a indi; gezegeni kana buladı. İlginç biçimde, Angron ilerleyişini sürekli yavaşlatmak zorunda kaldı, çünkü Materium'da (gerçeklikte) kalabilmek için Khorne adına kanlı anıtlar dikmesi gerekiyordu. Yerel savunma ve Space Wolves takviyeleri çaresizdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/88/AngronBlackBlade.jpg)

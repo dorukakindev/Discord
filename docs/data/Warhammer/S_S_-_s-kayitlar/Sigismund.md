@@ -8,8 +8,6 @@ Kategori: Karakter · Fraksiyon: Imperial Fists (VII Legion), ardından Black Te
 
 Sigismund'un iki yüzü vardır ve ansiklopedi bu ikisini birbirinden ayırır. Birincisi Chapter geleneğinin Sigismund'udur: kusursuz bir şövalye, Emperor'ın seçilmiş Champion'ı, yeminlerin ve sonsuz seferin kaynağı. İkincisi romanların Sigismund'udur: Rogal Dorn'un en güvendiği kılıç, ama ölüm, kayıp ve Warp'ın dehşeti karşısında giderek karararak kendi kardeşlerini bile kaygılandıran bir adam. Birincisi evren-içi bir anlatı ve inanç mirası, ikincisi ise o mirasın arkasındaki insanın daha karmaşık portresidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bf/SigismundNoHelmet.jpg/revision/latest?cb=20180110225906)
-
 Bu madde Sigismund'u bir kişi olarak ele alır. Legion'ın tarihi <#1551636479925559479>, Primarch'ı <#1551650286559559741>, kurduğu Chapter <#1551637696466788466>, kuşatmanın bütünü <#1551809039342501970> kanalında işlenir. Sigismund'un kökeni, Legion'a alınışının koşulları ve Great Crusade'deki ilk seferlerinin ayrıntıları kaynaklarda sınırlıdır; ansiklopedi bu boşlukları tahminle doldurmaz.
 ---MSG---
 ## Great Crusade: Dorn'un Kılıcı

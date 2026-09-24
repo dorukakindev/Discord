@@ -17,5 +17,3 @@ Alınlarındaki üçüncü göz Warp'a bakar; Astronomican'ın ışığını izl
 -# Kaynaklar: Codex: Imperialis, Navigator romanları
 
 -# İlişkili kayıtlar: `astronomican`, `warp`, `imperial-navy`, `astropath`, `blank`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Navigator_2.jpg/revision/latest?cb=20121226092726)

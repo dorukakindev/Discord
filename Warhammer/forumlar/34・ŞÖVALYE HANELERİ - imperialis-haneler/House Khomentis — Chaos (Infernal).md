@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fe/KhomentisBadge.jpg/revision/latest?cb=20220414193128
+
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Khomentis — Chaos (Infernal)
 

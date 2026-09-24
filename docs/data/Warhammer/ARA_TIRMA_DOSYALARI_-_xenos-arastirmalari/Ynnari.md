@@ -14,8 +14,6 @@ Ynnari, Aeldari toplumunun fringe (marjinal) bir unsuru olmaya devam ediyor; gel
 
 ## Genel Bakış
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/74/YnnariRune.png/revision/latest?cb=20230501133930)
-
 Ynnead'ın Emissary'si **Yvraine** tarafından yönetilen grup, Eldar'ın Craftworlds, Corsair grupları, Exodites, Commorragh ve hatta Harlequins'larından oluşur. Birleşik güçleriyle sadece Ynnead'ın doğuşunu sağlamaya değil, aynı zamanda Eldar'ı İmparatorlukları düşmeden önceki ihtişamlarına döndürmeye çalışan yükselen bir güç haline geldiler. Ancak, ırklarını kurtarmak için kullandıkları kibirli zorlama, Yvraine komutası altında birleştirdiği kadar çok Eldar'ı da yabancılaştırdı. Daha kötüsü, birçoğu Ynnari'yi engellemeye çalıştıkları daemonic güçler tarafından yozlaşmış olarak görüyor; diğerleri ise zaten içlerinin ölmüş olduğuna inanıyor. Ve büyüyen güçleri nedeniyle, Chaos Gods'un dikkatini çektiler; bu tanrılar şimdi Ynnari'yi nereye giderse orada avlamak için güçlerini gönderiyor. Özellikle Slaanesh, Ynnari'nin kendisine yönelik tehdidini bitirmek için Ynnari'yi yok etmeye çalışıyor.
 
 Ynnari, Ynnead'ı tam olarak güçlendirmeyi ve Slaanesh'i yenmeyi amaçlıyor. Ancak, Ynnead'ı uyandırmak için tüm Eldar'ın ölümünü gerektirecek beklenen miti izlemek yerine, **Rhana Dandra**'nın inişinde Eldar Irkı'nın fedakarlığını gerektirmeyecek bir ritüelde bunu başarmayı hedefliyorlar; bu yönteme **Seventh Path** (Yedinci Yol) denir. Beşinci **Crone Sword** Slaanesh'in Sarayı'na taşındığından beri, Seventh Path ümitsiz görünüyor.

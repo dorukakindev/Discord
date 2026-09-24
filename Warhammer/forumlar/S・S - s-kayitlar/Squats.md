@@ -8,8 +8,6 @@ Squat'lar, Warhammer 40,000'in ilk yıllarında ortaya çıkan, kısa boylu, tı
 
 Bu kanal Squat'ları iki katmanda anlatır: ilk olarak eski materyalin onları nasıl çerçevelediği, ikinci olarak oyundan kaldırılışları ve 2022'de tanıtılan Leagues of Votann'ın bu mirasla ilişkisi. Arşivin temel ilkesi burada özellikle önemlidir: eski Squat lore'u güncel kanon gibi sunulmaz ve Squat'lar ile Kin bire bir aynı halk olarak ele alınmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)
-
 ## Eski Materyalde Köken
 Rogue Trader dönemi ve sonraki erken yayınlarda Squat'lar, galaksinin çekirdeğine yakın, maden bakımından zengin ve ağır koşullu dünyalara yerleşmiş insan kolonistlerin torunları olarak anlatılıyordu. Bu dünyaların çetin çevresi, kuşaklar boyunca onların bedenini kısa, geniş ve dayanıklı bir biçime sokmuş; Age of Strife'ın Warp fırtınaları da onları insanlığın geri kalanından uzun süre koparmıştı. Bu yalnızlık çağında Ork istilalarına karşı ayakta kaldıkları, ardından Imperium'la yeniden temas kurdukları anlatılır. Eski materyaldeki bu tablo Imperium'la bir ittifak ilişkisini öne çıkarır; tam anlamıyla bir Imperial eyalet gibi yönetilip yönetilmedikleri ise o dönemin kaynaklarında her zaman aynı netlikte çizilmez.
 ---MSG---

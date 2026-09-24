@@ -10,8 +10,6 @@ Knight Houses'ın dünyası onur, yemin, soy ve hiyerarşi üzerine kuruludur. B
 
 Bu madde Hanelerin tarihini, kültürünü ve Imperium içindeki yerini ele alır. Knight suit'lerinin teknik ailesi ve Questoris sınıfı <#1551818501625483265>, hain Haneler ise <#1551743981778640899> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b7/ImperialKnightsIconSmall.JPG/revision/latest?cb=20220816185140)
-
 ## Kökenler: Dark Age'in Sınır Kolonileri
 Knight World'lerin kökeni Dark Age of Technology'ye uzanır. Kaynaklara göre insanlık galaksiye yayılırken, düşman canlılarla ve tehlikeli koşullarla dolu sınır dünyalarına yerleşen kolonilere, onları koruyabilecek ağır savaş yürüteçleri verildi. Bu makineleri kullanan aileler zamanla toplulukların koruyucusu, sonra da yöneticisi hâline geldi.
 

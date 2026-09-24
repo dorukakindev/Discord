@@ -19,5 +19,3 @@ Mechanicus inancına göre her makinenin içinde onu hareket ettiren bir ruh var
 -# Kaynaklar: *Codex: Adeptus Mechanicus — 10th Edition*; *Titanicus — Dan Abnett*; *Priests of Mars — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551753449878724689>, <#1551816635839549491>, <#1551809313096474696>, <#1551757340905181286>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c4/Adeptus_Mechanicus_Icon.jpeg/revision/latest?cb=20180905094036)

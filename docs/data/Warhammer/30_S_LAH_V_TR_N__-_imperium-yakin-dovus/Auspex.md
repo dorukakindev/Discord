@@ -19,5 +19,3 @@ Space Marine sergeant'ları ve Scout'ları, Inquisition ajanları ve Adeptus Mec
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551753449878724689>, <#1551815304252887041>, <#1551809133156634696>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/48/Astartes_Auspex_Type_18.png/revision/latest?cb=20141008191603)

@@ -10,8 +10,6 @@ Bu ünün anlamını kavramak için T'au'nun galaksideki yükselişinin hızın�
 
 Her sept gibi Bork'an da beş kastın tümünü barındırır ve kendi Ethereal konseyiyle yönetilir. Onu öteki sept'lerden ayıran, bu dengenin içinde Earth Caste'ın taşıdığı saygınlık ve bilimsel kurumlarının ağırlığıdır. Kast ve sept düzeninin bütünü <#1551809256649527381>, imparatorluğun genel tarihi <#1551809146850910260> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c4/Bork%27an_Sept_Symbol.png/revision/latest?cb=20120904094029)
-
 ## Earth Caste'ın Yurdu: Bilim Bir Hizmettir
 Earth Caste, Mont'au çağında dağlarda kaleler kuran halkın soyundan gelir; ova savaşçılarının kuşatması altındaki Fio'taun kalesi onların atalarına aitti. Ethereal'lerin getirdiği barıştan sonra bu halkın mühendisliği, inşa ve üretim yeteneği bütün imparatorluğun hizmetine koşuldu. Bugün imparatorluğun mühendisleri, bilim insanları, işçileri, çiftçileri ve tersane ustaları bu kasttan çıkar. Bork'an bu geniş kastın içinde özellikle akademik ve deneysel yüzü temsil eder.
 

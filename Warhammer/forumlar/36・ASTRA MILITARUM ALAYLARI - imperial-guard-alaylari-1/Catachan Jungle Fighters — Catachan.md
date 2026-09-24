@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a2/CatachanMXIV.PNG/revision/latest?cb=20171013021210
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Catachan Jungle Fighters — Catachan
 

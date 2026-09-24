@@ -19,5 +19,3 @@ Urk'ta bir Imperial saldırısında başından ağır yaralanan Ghazghkull'u ame
 -# Kaynaklar: *Codex: Orks*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551643990196232303>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8b/99800103023_MadDokGrotsnik02.png/revision/latest?cb=20200509044503)

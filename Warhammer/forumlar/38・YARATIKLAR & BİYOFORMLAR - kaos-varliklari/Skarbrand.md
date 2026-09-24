@@ -11,5 +11,3 @@ Skarbrand, Kan Tanrısı Khorne'un Büyük İblisi (Bloodthirster) sınıfının
 Bu ihanetin cezası olarak Khorne, Bloodthirster'ını sonsuza dek Kan Tanrısı'nın diyarından sürdü; onu Warp boyunca fırlatıp attı. Skarbrand sekiz gün sekiz gece boyunca uçtu, tanrıların diyarları boyunca alev alev bir yıkım izi bıraktı. Düşüşü devasa bir kanyon oydu ve kanatlarını paramparça etti. Sürgünündeki öfkeli yolculuğunda Slaanesh'in İlk Sarayı'nı yıktı ve Nurgle'ın büyük Poxviathan'ını öldürdü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/94/GuillimanSkarbrand.jpg)

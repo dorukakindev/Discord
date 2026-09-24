@@ -25,5 +25,3 @@ Black Legion, Night Lords, Iron Warriors, Word Bearers, Alpha Legion, Death Guar
 -# Kaynaklar: *Codex: Chaos Space Marines*; *Talon of Horus — Aaron Dembski-Bowden*
 
 -# İlişkili kayıtlar: <#1551812225570836561>, <#1551816158951510069>, <#1551811342405599345>, <#1551811393680838699>, <#1551638958352506881>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/da/ChaosSpaceMarinesIcon.jpg/revision/latest/scale-to-width-down/1000?cb=20220727154127)

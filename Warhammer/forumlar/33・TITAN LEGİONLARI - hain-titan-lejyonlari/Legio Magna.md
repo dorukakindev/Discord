@@ -11,5 +11,3 @@ Legio Magna, "Flaming Skulls" (Alevli Kafataslari) olarak bilinen, Imparator'a e
 Lejyon Sons of Horus hem de XVII. Lejyon Word Bearers ile yan yana sefere cikmasiyla anilir; bu yakinlik, lejyonun Sapkinlik'taki yonelimini de belirledi. Mars Bolunmesi sirasinda Mars'ta konuslu kismi, Sadik tasfiyesinde ilk ates acan taraf oldu.\n\nLegio Magna Titanlari savasi fiilen baslatan ilk silahlardi ve Sadik Marslilari avlarken kasap ve canavar unu kazandilar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/31/LegioMagna_Warlord.png)

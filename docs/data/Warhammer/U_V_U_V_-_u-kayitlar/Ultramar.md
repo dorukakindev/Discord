@@ -13,8 +13,6 @@ Bu kanal Ultramar'ı bir krallık olarak ele alır. Chapter'ın askerî tarihi <
 ## Five Hundred Worlds
 Great Crusade döneminde Guilliman, XIII Legion'ın fethettiği dünyaları yalnızca boyunduruk altına almakla yetinmeyip onları Macragge merkezli, birbirine bağlı ve kendi kendine yeten bir ekonomik ağa dönüştürdü. Horus Heresy'nin eşiğinde bu krallık **Five Hundred Worlds** (Beş Yüz Dünya) olarak anılıyordu; Legion'ın olağanüstü mevcudunu ve lojistik gücünü besleyen asıl kaynak da buydu. Ultramar'ın kendi insan ordusu ve donanması, Legion'ın yanında savaşan yardımcı kuvvetler olarak bu düzenin parçasıydı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/47/Realms_of_Ultramar_2.png/revision/latest/scale-to-width-down/1000?cb=20170312223402)
-
 ## Heresy'nin Yaraları ve Küçülme
 Heresy, Ultramar'ı açılışından itibaren vurdu. **Calth**'ta Word Bearers'ın ihaneti sistemin yıldızını zehirleyerek yüzeyi yaşanmaz kıldı; hayatta kalanlar yeraltına çekildi ve Calth, o günden beri halkının büyük bölümünü yer altındaki arcology'lerde barındıran bir dünya olarak anılır. Ardından gelen **Shadow Crusade**, Ultramar'ın pek çok dünyasını yakıp yıktı. Ruinstorm Terra ile bağları koparınca Guilliman'ın Macragge'da kurduğu **Imperium Secundus**, Ultramar'ı kısa bir süre için bir yedek Imperium'un başkenti yaptı; bu girişim sonradan hem sadakat hem de tehlikeli bir hırs örneği olarak tartışılacaktı.
 

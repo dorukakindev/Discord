@@ -10,8 +10,6 @@ Yayımlanmış kanon bu dünyayı ayrıntılı bir coğrafya ya da siyasi harita
 
 Bu kanal dünyanın kendisini merkeze alır. Primarch'ın hayatı için **kayıt**, Legion'ın kurumsal tarihi için **kayıt**, Kan Tanrısı'nın doğası için **kayıt** kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Lorgar_%26_Angron_Purge_of_Nuceria.jpg/revision/latest?cb=20121217052452)
-
 ## Arenaların Dünyası
 Kaynakların çizdiği Nuceria'da kölelik, toplumsal düzenin temel taşıdır. Gezegenin yönetici sınıfı **High Riders** olarak anılır; onların eğlencesi için köleler arenalarda birbirine karşı dövüştürülür, gladyatörlerin kanı hem bir gösteri hem de efendilerin gücünün kanıtı sayılırdı. Angron'un büyüdüğü kent devleti **Desh'ea**'dır; Primarch'ın gençliğine ait anlatılar bu kentin çukurlarında ve dövüş alanlarında geçer.
 

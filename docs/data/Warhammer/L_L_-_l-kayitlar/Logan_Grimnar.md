@@ -13,8 +13,6 @@ Bu kanal Grimnar'ın kişiliğine ve kariyerine odaklanır. Chapter'ın örgütl
 ## Köken ve Yükseliş
 Grimnar, Space Wolves'un bütün savaşçıları gibi Fenris'in savaşçı kabileleri arasından seçilmiştir. Gençliğine, Blood Claw ve Grey Hunter yıllarına ve Great Wolf seçilmesine dair ayrıntılar kaynaklarda sınırlıdır; Chapter'ın kendi sagalarında anlatılan kahramanlıklar, evren içi sözlü gelenek olarak okunmalıdır. Kesin olan, Grimnar'ın Great Wolf olarak doğrudan kendi Great Company'sini de yönettiği ve bu topluluğun **Champions of Fenris** adıyla anıldığıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Grimnar_Heraldry_SP.png/revision/latest?cb=20150429201838)
-
 ## Kişilik ve Önderlik Anlayışı
 Kaynaklar Grimnar'ı, ölçüsüz ziyafetleri ve gür kahkahasıyla Fenris'in kabile reislerini andıran, ama savaş meclisinde soğukkanlı ve hesaplı bir komutan olarak çizer. Wolf Lord'lar arasındaki rekabeti bastırmak yerine yönetmeyi seçer; Great Company'lerin bağımsızlığına ve gururuna saygı duyarken son sözün Great Wolf'a ait olduğunu hiç unutturmaz. Bu denge, Codex Astartes'in katı hiyerarşisini benimsemeyen bir Chapter'ı dağılmaktan koruyan başlıca unsurlardan biri sayılır.
 

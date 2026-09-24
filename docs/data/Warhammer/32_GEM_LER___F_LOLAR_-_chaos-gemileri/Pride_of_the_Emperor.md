@@ -9,5 +9,3 @@ Jüpiter tersanelerinde el işçiliğiyle inşa edilen görkemli bir Gloriana s�
 İmparator'un Gururu (Pride of the Emperor), Emperor's Children Primarch'ı Fulgrim'in Büyük Sefer ve Horus İsyanı sırasındaki sancak gemisi olan görkemli bir Gloriana sınıfı savaş gemisidir. III. Lejyon'un 28. Sefer Filosu'nun amiral gemisi olarak, filodaki tüm gemiler arasında en muhteşemiydi; zırhlı gövdesi altın kakmalarla ve zengin şarap renginde plakalarla bezeliydi.\n\nGemi, Jüpiter'in tersanelerinde inşa edildi ve Horus İsyanı'nın başında 160 yılı aşkın bir yaşa sahipti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/62/PrideoftheEmperor.jpg)

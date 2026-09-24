@@ -11,8 +11,6 @@ Kaynakların aktardığı inanca göre Ynnead, Craftworld'lerin Infinity Circuit
 
 Bu kehanet uzun süre bir teselli, belki de acı bir kaderciliğin ifadesi olarak yaşadı. Pek çok Aeldari'ye göre Ynnead'in uyanması, türün kendisinin sona ermesi anlamına geliyordu; bu yüzden onu çağırmak bir umut değil, ancak son çare olabilirdi. Asuryani toplumlarında Ynnead'e dair inanç ve kültler bulunsa da, onun uyanışını aktif olarak hızlandırmaya çalışmak uzun süre tehlikeli ve marjinal bir fikir olarak kaldı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Spiritseer_Rune.jpg/revision/latest?cb=20150611200336)
-
 ## Doğası ve Tartışmalar
 
 Ynnari hareketi bu geleneği tersine çevirdi. Yvraine'in savunduğu Seventh Path, Ynnead'in türün yok oluşu beklenmeden yaşayan Aeldari aracılığıyla kısmen uyandırılabileceğini ileri sürer. Yvraine'in kendi dirilişi, Yncarne adlı avatarın ortaya çıkışı ve Ynnari'nin ölümden güç çektiğine inandığı savaş deneyimi, hareketin gözünde bu kısmi uyanışın kanıtlarıdır.

@@ -10,8 +10,6 @@ Armageddon'un önemi yalnızca fabrikalarından gelmez. Buradan çıkan zırhlı
 
 Bu kanal Armageddon'u bir dünya ve bir savaş bölgesi olarak ele alır. Ghazghkull'un kişiliği ve Ork toplumu için <#1551759766966116383>, Hades Hive'da doğan Blood Angels efsaneleri için <#1551811368389181491>, Helsreach savunması için <#1551637696466788466> kanallarına bakılabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Armageddon.jpg/revision/latest?cb=20090224193610)
-
 ## First War for Armageddon (444.M41)
 Armageddon'un ilk büyük savaşı Ork'larla değil, Chaos'la yapıldı. Kaynaklar, gezegenin hive'larında patlak veren isyanların Imperial savunmayı içeriden sarstığı bir sırada Daemon Primarch **Angron**'un, World Eaters savaşçıları ve Khorne'un daemon'larından oluşan bir orduyla Armageddon'a indiğini anlatır. Armageddon Prime'daki savunma kısa sürede çöktü; hayatta kalan Imperial kuvvetler tahkimli hatlara çekilerek varlıklarını korumaya çalıştı.
 

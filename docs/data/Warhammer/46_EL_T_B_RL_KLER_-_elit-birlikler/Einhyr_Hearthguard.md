@@ -22,5 +22,3 @@ Kin ve Einhyr 2022'de yeniden tasarlanarak tanıtıldı; eski Squat lore'u otoma
 -# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*; *Codex: Leagues of Votann — 9th Edition*
 
 -# İlişkili kayıtlar: <#1551759789988642876>, <#1551809846066548779>, <#1551759766966116383>, <#1551759780211589197>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/71/YmyrConglomerateEinhyrHearthguard.jpg/revision/latest/scale-to-width-down/1000?cb=20221221175631)

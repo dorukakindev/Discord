@@ -9,5 +9,3 @@ Titan, Satürn'ün en büyük ayıdır ve İmparatorluğun en derin sırlarında
 Grey Knights, yalnızca Warp'ın iblislerine ve Kaos'a karşı savaşmak için kurulmuş gizli bir chapter'dır; her üyesi son derece güçlü bir psyker'dır ve kökenleri Heresy çağına, İmparator'un yardımcısı Malcador'un gizli çalışmasına dayanır. Titan, bu chapter'ın hem üssü hem de kutsanmış, psişik olarak korunan kalesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f4/Reaver_Titan2.jpg)

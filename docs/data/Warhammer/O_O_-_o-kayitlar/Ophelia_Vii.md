@@ -13,8 +13,6 @@ Bu kanal dünyanın kendisini ve Imperium içindeki yerini merkeze alır. Sister
 ## Konum ve Kayıtlar
 Ophelia VII'nin kesin Segmentum ve sektör konumu, yörünge özellikleri, iklimi ya da nüfusu hakkında yayımlanmış kanonda güvenilir ayrıntı bulunmaz. Arşiv bu boşlukları doldurmaz; dünyanın önemi coğrafyasından değil, taşıdığı kurumlardan ve inanç mirasından gelir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Ophelia.jpg/revision/latest?cb=20130227183722)
-
 ## Convent Sanctorum ve Kilisenin İkinci Kalbi
 Convent Sanctorum'un kökeni, Age of Apostasy'nin ardından gelen düzenlemeye bağlanır. Goge Vandire'in devrilmesi ve Thorian Reformation'la birlikte Daughters of the Emperor, Adepta Sororitas olarak yeniden örgütlendi; Sisterhood'un gücü tek bir merkezde toplanmak yerine Terra ile Ophelia VII arasında bölündü. Kaynaklar bu ikili düzenin ardındaki niyeti tek bir cümleyle açıklamaz; ancak Vandire döneminin, silahlı bir dinî gücün tek bir iktidar odağına bağlanmasının ne denli tehlikeli olabileceğini gösterdiği Imperium'un kendi kayıtlarında da kabul edilir. Bu yorum arşivin çıkarımı değil, Reformation anlatısının genel çerçevesidir; iki merkezli yapının kesin gerekçesi ise açıkça belirtilmez.
 

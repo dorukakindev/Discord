@@ -19,5 +19,3 @@ Cadre, T'au'nun genişleme seferlerinde temel örgütlenme olarak anılır. Sab�
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Fire Caste — Peter Fehervari*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551643950014795948>, <#1551814127541026827>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Tau_with_kroot.jpg/revision/latest?cb=20061107230429)

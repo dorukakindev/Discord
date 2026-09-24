@@ -8,8 +8,6 @@ Kategori: Karakter · Fraksiyon: Necrons (Nihilakh Dynasty) · Dönem: Necrontyr
 
 Trazyn'in koleksiyonculuğu bir heves değil, bir dünya görüşüdür. Onun gözünde genç ırkların tarihi kısa, dağınık ve kolayca kaybolan bir malzemedir; o malzemeyi kurtarıp doğru biçimde düzenlemek de bir Necron soylusuna yakışan bir görevdir. Nihilakh'ın eski mülklerine ve geçmiş ihtişama duyduğu takıntılı bağlılık, Trazyn'de bütün galaksinin geçmişini sahiplenme arzusuna dönüşmüştür. Kaynaklar onu çoğu zaman mizahi bir tonla anlatır; ama bu mizahın altında, başkalarının hayatlarını birer vitrin nesnesine indiren soğuk bir kibir yatar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Trazyn.jpg/revision/latest?cb=20151005061231)
-
 Onu yakalamayı neredeyse imkânsız kılan şey, bilincini önceden hazırlanmış yedek Necron bedenlerine aktarabilmesidir. Bedeni yok edildiğinde yakındaki uygun bir Necron gövdesinde yeniden belirir; bu yüzden onu "öldürdüğünü" sanan pek çok düşman, yalnızca bir kabuğu yıktığını sonradan anlamıştır. Taşıdığı silah **Empathic Obliterator**, kaynaklarda vurduğu hedefle ortak özellikler taşıyan başka canlılara da yayılan bir yıkımla anılır.
 ---MSG---
 ## Koleksiyon Seferleri ve Orikan'la Rekabet

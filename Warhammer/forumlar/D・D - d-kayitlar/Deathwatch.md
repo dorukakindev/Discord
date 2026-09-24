@@ -12,8 +12,6 @@ Deathwatch'ın temel operasyon birimi **Kill Team**'dir: farklı Chapter'lardan,
 
 Long Vigil'i tamamlayan Marine'lerin önemli bir kısmı kendi Chapter'larına döner ve edindikleri bilgiyi yanlarında götürür; ancak Deathwatch'ta gördüklerinin ne kadarını paylaşabilecekleri, Inquisition'ın gizlilik talepleriyle sınırlanır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7c/DeathwatchBadge.jpg/revision/latest?cb=20110327043200)
-
 ## Kökenler: İki Anlatı
 Deathwatch'ın kuruluşu hakkında yayımlanmış kanonda tek bir anlatı yoktur. Kaynaklar birbirinden farklı iki çerçeve sunar ve bunlar arasında kesin bir uzlaştırma yapılmamıştır.
 

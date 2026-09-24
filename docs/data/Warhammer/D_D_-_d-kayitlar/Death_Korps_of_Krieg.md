@@ -10,8 +10,6 @@ Death Korps'ta ölüm bir kayıp olarak değil, borcun bir taksiti olarak görü
 
 Bu kanal Krieg dünyasını, alayların doğuşunu, kültürünü ve savaş tarzını ele alır. Krieg'in en büyük savaşı siege-of-vraks, Astra Militarum'un geneli <#1551753458779029565> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest/scale-to-width-down/1000?cb=20120626222205)
-
 ## Kökenler: Krieg İsyanı ve Atomik Yıkım
 Krieg bir zamanlar Imperium'un sıradan dünyalarından biriydi. Kaynaklar M40'a yerleştirdikleri bir krizde gezegenin yöneticisi **Autarch**'ın ve çevresindeki yönetimin Imperium'dan ayrıldığını ilan ettiğini anlatır. Halkın ve silahlı kuvvetlerin önemli bir bölümü bu ayrılığa katıldı. Imperium'a sadık kalanların başında, kaynaklarda gezegenin yerel alaylarından birinin komutanı olarak anılan **Colonel Jurten** vardı.
 

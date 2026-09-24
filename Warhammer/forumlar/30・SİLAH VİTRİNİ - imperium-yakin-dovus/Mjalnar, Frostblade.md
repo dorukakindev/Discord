@@ -9,5 +9,3 @@ Ragnar Blackmane'in kraken dişli buz kılıcı; kesişi kemiği don gibi yakar.
 Frostblade'ler, Space Wolves silah ustalığının zirvesidir: güç alanlı ağızlarına Fenris denizlerinin dev kraken'lerinden sökülen dişler işlenir ve kesişleri kemiği don gibi yakar. Mjalnar, bu kılıçların en ünlüsüdür; Genç Kral Ragnar Blackmane'in elinde sayısız destana konu olmuştur. Fenris inancına göre kraken dişi, avının ruhundan bir parça taşır; Mjalnar her savaşta hem Ragnar'ın hem de derinlerdeki canavarın öfkesiyle keser. (Eski kayıtlarda yanlışlıkla Khorne'a atfedilmiştir; kılıç bir İmparatorluk emanetidir.)
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/SW_Frost_Blade_colour.png/revision/latest/scale-to-width-down/1000?cb=20140810065348)

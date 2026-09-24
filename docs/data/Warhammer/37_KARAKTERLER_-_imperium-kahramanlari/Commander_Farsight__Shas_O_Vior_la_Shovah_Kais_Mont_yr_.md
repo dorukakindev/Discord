@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Commander_Farsighta.jpg/revision/latest?cb=20131028093450
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Commander Farsight (Shas'O Vior'la Shovah Kais Mont'yr)
 

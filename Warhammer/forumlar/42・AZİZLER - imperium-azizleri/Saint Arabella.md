@@ -7,5 +7,3 @@
 Saint Arabella, Adepta Sororitas'ın büyük düzenlerinden Order of the Sacred Rose'un -- yani "Kutsal Gül Düzeni"nin -- patron azizesidir; düzen onun adına, ölümünden çok sonra, 38'inci binyılın ortasında Ecclesiarch Deacis VI tarafından onun anısını onurlandırmak için kuruldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/1c/Arabella.jpg)

@@ -22,5 +22,3 @@ Meltagun gibi yakın mesafede en yıkıcı etkiyi gösterir; ancak ağır yapıs
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Adepta Sororitas — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551753444308811807>, <#1551808932744269985>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Space_Marine_Multi-Melta.jpg/revision/latest/scale-to-width-down/750?cb=20110515030441)

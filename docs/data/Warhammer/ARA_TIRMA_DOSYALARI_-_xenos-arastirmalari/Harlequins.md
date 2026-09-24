@@ -27,8 +27,6 @@ Salt performansçı değillerdir; görünüşleri gülünç olsa da aslında Eld
 
 ## The Glue That Keeps The Eldar Together
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/93/Rune_of_Unity.jpg/revision/latest?cb=20150303170716)
-
 Harlequin'ler hiçbir Craftworld'e, Korsan Filosuna, Exodite Dünyasına veya Dark Eldar Kabal'ine bağlı değildir; tüm gruplardan üye alırlar ve hepsinin ordularında savaşırlar. Tek sadakatleri Cegorach'adır — onların inancına göre Cegorach onlara "Büyük Eser" (The Great Work) görevini vermiştir: Craftworld Eldarları, Korsanları, Dark Eldarları ve Exodite Eldarlarını tek bir ırkta birleştirip Slaanesh, Necronlar ve başka düşmanlara karşı savaşmak.
 
 Diğer Eldar'ların yaptığı gibi ruhlarını güvende tutmak için Spirit Stone, Infinity Circuit vs. kullanmazlar — Cegorach'a olan salt inançları yeterlidir (Harlequin olmak için geçen "Deneme" sonrası tamamen güvendeymiş olurlar). Yine de Craftworld ve Commorragh'tan serbestçe geçerler — Craftworld ve Exodite Eldarları onları tarihlerini korudukları için sayar; Dark Eldar ve Korsanlar ise onları durdurmaya cesaret edemez çünkü Death Jester'ların mizah anlayışını hiç komik bulmazlar ve Webway'i Harlequin'lerden daha iyi kullanamazlar.

@@ -11,5 +11,3 @@ Mordant Asit-Köpekleri, Göz Terror'un galaktik kuzeyinde, Segmentum Obscurus't
 Gezegende insanlar yalnızca yeraltında yaşar; binlerce yıl boyunca, yüzeyin altında biriken ışıldayan bakteri damarlarını çıkarmak için tüm dünyayı kuşatan devasa bir mağara ve tünel zinciri oydular. Bu bakterilerden, Imparatorluğun bildiği en aşındırıcı asitler rafine edilir ve gezegenin başlıca ihraç ürünü budur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/84/Acidog.jpg)

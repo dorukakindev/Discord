@@ -12,8 +12,6 @@ Bu kanal Codex'i bir **metin ve düzen fikri** olarak ele alır: yazılışı, i
 
 Codex'in evren içindeki konumu tuhaf bir ikilik taşır. Yazarı onu değiştirilebilir bir el kitabı olarak düşünmüşken, pek çok Chapter için zamanla neredeyse kutsal bir metne dönüşmüştür. Bu gerilim, metnin bütün tarihini okumak için anahtardır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Severian.JPG/revision/latest?cb=20130919044438)
-
 ## Yazılışı: Heresy'nin Dersleri
 Codex'in doğuşu Horus Heresy'nin açtığı yaradan ayrı düşünülemez. Horus'un yüz binlerce Astartes'i ve onları taşıyan filoları tek bir iradeye bağlayabilmiş olması, Imperium'un ayakta kalan yöneticilerine açık bir ders verdi: Legion ölçeğinde bir kuvvet, başındaki kişi saptığında bütün insanlığı tehdit edebilirdi. Guilliman'ın çözümü bu gücü bölmekti. Codex'in en bilinen hükmü, sadık Legion'ların her biri yaklaşık bin Marine'den oluşan ve kendi komutasına sahip Chapter'lara ayrılmasıdır; bu dönüşüm **Second Founding** adıyla anılır.
 

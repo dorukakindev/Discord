@@ -10,8 +10,6 @@ Chemos'un hikâyesi, Emperor's Children'ın bütün trajedisini tersinden okumay
 
 Bu kanal dünyanın kendisini merkeze alır. Primarch için <#1551650243865477191>, Legion'ın kurumsal tarihi için <#1551813750305198101> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/24/Chemos.jpg/revision/latest?cb=20121014060942)
-
 ## Gri Bir Dünyanın Toplumu
 Kaynakların Chemos'a dair çizdiği ortak tablo, hayatın fabrikaların, madenlerin ve üretim hatlarının ritmine bağlandığı bir dünyayı gösterir. Chemos'un insanları kalın duvarlarla çevrili sanayi yerleşimlerinde, fabrika-kalelerde yaşıyordu; her yerleşim kendi üretimini, kendi işgücünü ve kendi kıt kaynaklarını korumaya çalışıyordu. Age of Strife'ın galaksiyi parçaladığı çağlarda dış dünyayla bağları kopmuş pek çok gezegen gibi Chemos da kendi imkânlarıyla ayakta kalmak zorundaydı ve bu imkânlar giderek tükeniyordu.
 

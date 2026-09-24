@@ -12,8 +12,6 @@ Madde şu soruların çevresinde kurulmuştur: Nightbringer nedir ve neyle besle
 
 Kanal sınırı: C'tan'ın genel doğası **kayıt**, Old Ones'a karşı savaşın bütünü **kayıt**, Aeldari tanrılarının kendisi **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Img011.jpg/revision/latest?cb=20121231054919)
-
 ## Doğası: Yaşamı Tüketen Açlık
 C'tan'ın her biri, necrodermis bedenlere kavuştuktan sonra belirginleşen bir iştah ve kişilik taşır. Nightbringer'ınki canlılığın kendisine yöneliktir. Kaynaklar onu yaşayan varlıkların özünden beslenen, geçtiği yerde hayatı söndüren bir varlık olarak çizer; kudreti, dokunduğu şeyi tüketen bir soğukluk ve karanlık imgesiyle anlatılır. Bütün C'tan'ın bir biçimde canlıların özünden beslendiği düşünülürse Nightbringer'ı ayıran şey, bu iştahın en çıplak ve en doğrudan biçimini temsil etmesidir.
 

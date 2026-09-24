@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d7/House_Herpetrax_Icon.png/revision/latest?cb=20220102200043
+
 -# THE IMPERIAL ARCHIVE · Imperialis Haneler · Kayıt
 # House Herpetrax — Chaos (Iconoclast)
 

@@ -10,8 +10,6 @@ Executioners'ı anlamayı güçleştiren şey de buradadır. M41'in sonlarında 
 
 Chapter'ın ikiz yurt dünyaları **Stygia-Aquilon** adıyla, fortress-monastery'si ise **Darkenvault** adıyla anılır. Aşağıda Executioners'ın soyu, onur kültürü, Badab'daki ayrılığı ve ardından yüklendiği kefaret seferi anlatılıyor. Badab War'un bütünlüklü anlatısı için <#1551811438547312645> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/11/Executioners_Livery.jpg/revision/latest?cb=20170919210120)
-
 ## Kökenler ve Soy
 Executioners kendi kayıtlarında Third Founding'e dayandığını ileri sürer; ne var ki bu iddia bağımsız kaynaklarca kesin biçimde doğrulanmış değildir. Chapter'ın erken tarihine dair elde çok az şey var; bilinenlerin çoğu da Badab'ın bıraktığı izlerden çıkarılıyor.
 

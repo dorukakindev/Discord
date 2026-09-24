@@ -9,5 +9,3 @@ Mars'in Mons Sutura kovugundan adini alan, Kelbor-Hal'in safina cosukyla gecen v
 Legio Suturvora, "Fire Masters" (Ates Ustalari) olarak bilinen ve sonraki caglarda Legio Infernus adiyla anilan bir Hain Titan lejyonudur. Mars'in ilk birlestirilmesi sirasinda, Kutsal Mars'in en ucra bolgelerinden biri olan oyulmus Mons Sutura'nin icinde bir yuva ile odullendirilmis ve adini bu yeni evden almistir.\n\nLakabini, Buyuk Hacli Seferi boyunca muttefiklerinden kazandi: tanri-makinelerinin ates gucu ve yikici alev silahlari karsisinda Ates Ustalari unvani yakistirildi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e2/FireMastersTitan.jpg)

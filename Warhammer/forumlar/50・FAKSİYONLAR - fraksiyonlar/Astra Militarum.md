@@ -19,5 +19,3 @@ Heresy'de Imperial Army'nin bazı birliklerinin ihaneti, kuvvetlerin bölünmesi
 -# Kaynaklar: *Codex: Astra Militarum*; *First and Only — Dan Abnett*; *Cadia Stands — Justin D. Hill*
 
 -# İlişkili kayıtlar: <#1551753458779029565>, <#1551816756417269853>, <#1551812353157365862>, <#1551812139935866891>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.jpg/revision/latest?cb=20190630130730)

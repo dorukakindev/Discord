@@ -22,5 +22,3 @@ Zırhın bileşenleri ve işleyişi kaynaklarda ayrıntılı açıklanmaz. Guill
 -# Kaynaklar: *Gathering Storm III: Rise of the Primarch*; *Dark Imperium — Guy Haley*; *Codex: Space Marines — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808704901423186>, <#1551639038291611649>, <#1551814468458258434>, <#1551809867201908737>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/22/ArmourofFate.jpg/revision/latest?cb=20170620230955)

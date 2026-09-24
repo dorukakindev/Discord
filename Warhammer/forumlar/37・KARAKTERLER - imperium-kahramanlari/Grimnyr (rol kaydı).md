@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/84/GrimnyrAncestralStaveGreaterThurianLeague.jpg/revision/latest?cb=20221121184248
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Grimnyr (rol kaydı)
 

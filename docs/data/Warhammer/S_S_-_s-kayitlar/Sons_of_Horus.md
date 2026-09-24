@@ -9,8 +9,6 @@ Bu madde Legion'ı kurum olarak ele alır: kimliği, iç yapısı, Heresy'deki r
 Legion'ın eski adı, Terra'nın uydusu Luna ile ilişkilendirilir; Luna Wolves beyaz zırhları ve ay simgeleriyle tanınırdı. Horus'un bulunmasının ardından Legion, Primarch'ının yetiştiği Cthonia'dan da savaşçı devşirmeye başladı. Madenleri tükenmiş, çete savaşlarıyla yoğrulmuş bu dünyanın sert kültürü, zamanla Legion'ın ruhuna sindi: kardeşlik yeminleri, kişisel sadakat bağları ve şiddete alışkın bir gurur, Luna Wolves'u öteki Legion'lardan ayıran özellikler arasında sayılır. Savaş narası Horus'un lakabı olan *Lupercal*'dan gelir.
 Horus Warmaster ilan edildikten sonra Legion, onun onuruna Sons of Horus adını aldı. Zırhlar beyazdan deniz yeşiline döndü ve Horus'un açık gözü Legion'ın simgesi oldu. *Horus Rising* ile başlayan romanlar bu geçişi, Legion'ın bir kısmının gururla, bir kısmının ise sessiz bir tedirginlikle karşıladığı bir kimlik değişimi olarak işler: Legion artık Imperium'un değil, bir adamın adını taşıyordu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest?cb=20170813040332)
-
 ## Yapı, Kültür ve Savaş Tarzı
 **Mournival**
 Legion'ın en tanınmış kurumu, Warmaster'a gayriresmî danışmanlık yapan dört kaptanlık çember Mournival'dır. *Horus Rising*'de bu çember First Captain Ezekyle Abaddon, Horus Aximand, Tarik Torgaddon ve romanın başında aralarına alınan Garviel Loken'den oluşur. Mournival, Horus'un kendi subaylarıyla kurduğu yakınlığın simgesiydi; Heresy'nin başında ikiye bölünmesi ise Legion'ın içindeki kırılmanın en kişisel görüntüsü oldu.

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Asurmen_Cover_Art.jpg/revision/latest?cb=20150505201048
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Asurmen (Hand of Asuryan) — Phoenix Lord
 

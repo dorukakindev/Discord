@@ -22,5 +22,3 @@ Kazıya uyarlanmış güçlü pençeler, kalın dış kabuk ve karanlık tünell
 -# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*
 
 -# İlişkili kayıtlar: <#1551809846066548779>, <#1551815439078658154>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/Ambull.png/revision/latest?cb=20150919114240)

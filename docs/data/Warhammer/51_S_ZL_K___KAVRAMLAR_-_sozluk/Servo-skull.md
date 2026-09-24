@@ -9,5 +9,3 @@ Servo-skull (Servo-kafatası), İmparatorluğun her köşesinde görülen, kasve
 Bir insanın kafatasının bu şekilde kullanılması, İmparatorluk için bir saygısızlık değil, bir onurdur; yaşarken sadakatle hizmet etmiş birinin, ölümünden sonra da efendisine hizmet etmeye devam etmesi kutsal sayılır. Kafatası kutsanır, korunur ve sonsuz bir görev için yeniden işe koşulur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/27/Servo-skull.jpg)

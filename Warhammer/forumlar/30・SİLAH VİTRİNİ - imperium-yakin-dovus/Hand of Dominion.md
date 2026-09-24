@@ -9,5 +9,3 @@ Guilliman'ın entegre bolterli dev güç yumruğu; tank kulesi koparacak güçte
 Hand of Dominion, Ultramar'ın efendisine layık bir silahtır: Guilliman'ın zırhına entegre edilmiş, bileğinde bolter taşıyan devasa bir güç yumruğu. Archmagos Cawl'un elden geçirdiği eldiven, bir tankın kulesini koparabilecek kadar güç üretir. Guilliman bir elinde babasının alevli kılıcını, diğerinde bu yumruğu taşır; ikili, Naib'in savaş felsefesinin özetidir — bir el düzeni kurar, diğeri düzeni bozanı ezer.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b1/HandOfDominion.jpg)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Necron_Deathmarks.png/revision/latest?cb=20150202202403
+
 -# THE IMPERIAL ARCHIVE · D Kayıtları · Kayıt
 # Deathmarks
 

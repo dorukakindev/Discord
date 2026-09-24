@@ -19,5 +19,3 @@ Trygon'lar, statik savunmalara dayanan orduların en büyük korkularından biri
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551815033518948404>, <#1551814990338723904>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Trygon_vs._Eldar_Tank.png/revision/latest/scale-to-width-down/731?cb=20140725231125)

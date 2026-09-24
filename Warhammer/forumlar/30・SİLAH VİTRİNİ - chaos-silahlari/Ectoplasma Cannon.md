@@ -9,5 +9,3 @@ Hellbrute ve iblis makinelerinin Warp'la kirlenmiş plazma topu; sıradan plazma
 ## Teknik ve Kullanım
 Plasma silahları hidrojen yakıtını yıldız sıcaklığına ısıtıp manyetik şişe içinde fırlatır; isabet ettiği zırhı güneş yüzeyi sıcaklığıyla eritir. Aşırı ısınma riski taşıyıcısını öldürebilir — 'kendi ışığıyla yanan silah' olarak hem saygı hem korku uyandırır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a9/EctoplasmaCannon.jpg)

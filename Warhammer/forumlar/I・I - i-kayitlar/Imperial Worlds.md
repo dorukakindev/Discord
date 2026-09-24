@@ -10,8 +10,6 @@ Yine de bu harita, göründüğü kadar düzenli değildir. Imperium'a bağlı d
 
 Bir dünyanın sınıfı, tithe derecesiyle de doğrudan ilişkilidir. "Aptus Non" ile "Exactis" arasında sıralanan tithe kademeleri <#1551815272074055681> kanalında ele alınır; bu kanal ise dünyaların kendisine, yani Imperium'un insanlarının gerçekte hangi koşullarda doğup, çalışıp öldüğüne odaklanır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/26/Hive_city.jpg/revision/latest?cb=20101226205931)
-
 ## Kalabalık ve Sanayi Dünyaları
 **Hive world:** Nüfusun gökyüzüne yükselen devasa kent-kulelerde, yani hive'larda toplandığı dünyalardır. Yüzey çoğu zaman sanayi atığıyla zehirlenmiş, yaşanmaz bir çoraktır; insanlar katmanlar hâlinde yaşar: tepede soylular ve yönetici sınıf, ortada işçi kitleleri, en dipte yasanın ulaşmadığı, çetelerin ve mutantların hüküm sürdüğü **underhive**. Hive world'ler Imperium'un başlıca asker ve işgücü kaynağıdır; kıtlık, isyan ve kült tehlikesi de en çok burada kaynar. Segmentum Solar'daki **Necromunda** ve Ork istilalarının hedefi olan **Armageddon** bu sınıfın en tanınmış örnekleridir.
 

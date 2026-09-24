@@ -18,6 +18,4 @@ Craftworld ev sahiplerinin zırh avcısı ve ağır ateş desteği olarak kullan
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/30/Fire_Prisms.png/revision/latest/scale-to-width-down/1000?cb=20200409171715)
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>

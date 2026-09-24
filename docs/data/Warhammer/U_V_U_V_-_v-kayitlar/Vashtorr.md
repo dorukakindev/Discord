@@ -10,8 +10,6 @@ Vashtorr'u ayrıca tehlikeli kılan, Daemon Prince'lerin çoğundan farklı olar
 
 Bazı özet anlatımlarda Daemon Prince diye anılsa da resmî tanıtımlar onu bir ölümlünün yükselişiyle açıklamaz; bu nedenle en güvenli tanım, bağımsız ve kadim güce sahip bir daemon olduğudur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f7/VashtorrArkifane.jpg/revision/latest/scale-to-width-down/1000?cb=20230306183935)
-
 ## Forge of Souls ve Sözleşmeler
 Forge of Souls, daemon silahlarının ve Daemon Engine'lerin dövüldüğü metafizik bir tezgâhtır. Anlatıya göre herhangi bir daemon Vashtorr'la burada pazarlık edebilir: ölümlü ruhlar karşılığında bir savaş makinesine, örneğin bir Soul Grinder'a dönüştürülmeyi ya da belli bir süre Vashtorr'a hizmet etmeyi kabul eder. Vashtorr'un Warp'taki öteki varlıklardan ayrılan yanı, aldatmaya dayanmamasıdır; sözleşmeleri açık ve koşulları bellidir. Buna rağmen daemonlar kendi doğalarının tuzağına düşer, her yenilgiyle yeni bir ruh borcunun altına girerek ocağa daha sıkı bağlanır.
 

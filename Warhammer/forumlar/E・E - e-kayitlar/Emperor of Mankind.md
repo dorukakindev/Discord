@@ -10,16 +10,12 @@ Imperium'un her kurumu meşruiyetini ondan alır. Ecclesiarchy onu insanlığın
 
 Bu madde, Emperor'u tek bir hakikate indirgemek yerine üç katmanı ayırarak ele alır: yayımlanmış kanonda doğrulanan olaylar, evren-içi inançlar ve iddialar, ve Games Workshop'un bilinçli olarak cevapsız bıraktığı sorular. Onun kökeni, doğası ve Throne üzerindeki bilincinin durumu bu son kategoriye girer; ansiklopedi bu belirsizliği kapatmaya çalışmaz.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/10/EmperorwLegions.jpg)
-
 ## Kökenler: Kasıtlı Bir Belirsizlik
 Emperor'un nereden geldiği Warhammer 40,000 lore'unun en bilinçli biçimde bulanık bırakılmış konularından biridir. Yaygın anlatıya göre Terra'nın insanlık tarihinin çok erken bir döneminde, Anadolu olarak bilinen bölgede doğmuştur. Bazı kaynaklar, onu kendi ruhlarını tek bir bedende yeniden doğmak üzere feda eden kadim şamanların birleşik varlığı olarak betimler; ancak bu anlatı her yayında aynı biçimde tekrarlanmaz ve güncel kanon onu kesin bir köken olarak dayatmaz.
 
 Daha kesin olan, onun **Perpetual** olarak anılan, ölümü aşarak yeniden dirilebilen ender insanlardan biri olduğudur. Horus Heresy serisi, John Grammaticus, Ollanius Persson ve Erda gibi başka Perpetual'ları da sahneye çıkararak Emperor'un binlerce yıl boyunca insan tarihinin arka planında, çoğu zaman adsız ya da başka kimliklerle dolaştığını ima eder. Bu figürlerin Emperor hakkında söyledikleri, çoğunlukla kişisel kırgınlık ya da ideolojik karşıtlıkla renklenmiş evren-içi tanıklıklardır ve nesnel gerçek gibi okunmamalıdır.
 
 Kanonda açıklanmayan şeyler de açıkça belirtilmelidir: Emperor'un gerçek adı, psişik gücünün kaynağı ve Old Night öncesinde tam olarak ne yaptığı yayımlanmış kaynaklarda tek ve kesin bir cevaba bağlanmamıştır. Graham McNeill'in *The Last Church* adlı öyküsünde Revelation adıyla ortaya çıkan figür, onun dine bakışını dramatize eder; fakat bu da bir biyografi değil, belirli bir anın sahnelenişidir.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c3/No_Peace_Amongst_the_Stars_-_Warhammer_40%2C000_Official_Cinematic_Trailer/revision/latest?cb=20260612164709)
 
 ## Old Night'tan Unification Wars'a
 Age of Strife'ın, yani Old Night'ın sonunda Terra, savaş ağaları, gen-savaşçılar ve teknobarbar krallıklar arasında paramparça bir dünyaydı. Emperor, bu kaotik mirasın üzerinde yükselerek **Unification Wars** adıyla anılan uzun ve kanlı fetih sürecini başlattı. Bu savaşlarda omuz omuza yürüyen **Thunder Warriors**, Space Marine'lerden önceki kaba ama korkunç derecede etkili gen-savaşçılardı; Terra birleştikten sonra büyük çoğunluğunun ortadan kaldırıldığı anlatılır, bu da Emperor'un araçlarına nasıl baktığını gösteren erken ve karanlık bir işarettir.

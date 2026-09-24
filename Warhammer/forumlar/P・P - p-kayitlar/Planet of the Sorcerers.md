@@ -10,8 +10,6 @@ Bu dünya, Thousand Sons için hem bir sığınak hem de bir tapınaktır. Legio
 
 Bu kanal dünyanın kendisine odaklanır. Legion'ın tarihi için **kayıt**, Primarch'ın kişiliği için **kayıt**, Legion'ı kalıcı biçimde değiştiren ritüel için **kayıt**, tanrının doğası için **kayıt** kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b8/Sortiarius.jpg/revision/latest/scale-to-width-down/1000?cb=20170228022442)
-
 ## Kökeni: Prospero'nun Külünden Bir Sürgün Yurdu
 Dünyanın öyküsü, Thousand Sons'ın yurdu Prospero'nun yakılmasıyla başlar. Space Wolves, Custodes ve Sisters of Silence'dan oluşan kuvvetler başkent Tizca'yı yerle bir ettiğinde, Magnus Leman Russ'la düellosunda yenilmişti. Kaynaklara göre son anda Tzeentch'in müdahalesiyle Magnus ve hayatta kalan oğulları Warp'a çekilerek Eye of Terror'un içindeki bu dünyaya ulaştı.
 

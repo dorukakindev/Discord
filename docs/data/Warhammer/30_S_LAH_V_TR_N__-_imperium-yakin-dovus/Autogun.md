@@ -21,6 +21,4 @@ Mühimmatı fiziksel olarak taşınması gereken fişeklerdir; bu nedenle lojist
 
 -# Kaynaklar: *Codex: Genestealer Cults*; *Codex: Chaos Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c5/Autogun2.jpg/revision/latest?cb=20120104175013)
-
 -# İlişkili kayıtlar: <#1551759784821137419>, <#1551812325521100811>, <#1551753458779029565>, <#1551815439078658154>

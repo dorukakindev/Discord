@@ -13,8 +13,6 @@ Bu olay yalnızca bir uygarlığın sonu değildir. Galaksinin metafizik düzeni
 
 **Kanal sınırı.** Türün genel tarihi <#1551810506078290021>, doğan tanrı <#1551754688008032321>, felaketin bıraktığı bölge <#1551813775848509482> kanalında işlenir. Burada merkezde çöküşün kendisi, nedenleri ve doğrudan sonuçları durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a6/AeldariRune.jpg/revision/latest?cb=20200609223234)
-
 ## Kökenler — Rakipsiz Bir Çağın Çürümesi
 
 War in Heaven'ın ardından Old Ones çekilmiş, Necron'lar uykuya dalmıştı. Aeldari, Webway'in sağladığı erişimle galaksiye yayılarak uzun bir hâkimiyet çağı yaşadı. Kaynaklar bu dönemi rakipsiz bir kudretin ve rahatlığın çağı olarak anlatır: teknoloji emeği gereksiz kılmış, dış tehdit neredeyse ortadan kalkmış, uzun ömür ise zamanı sınırsız gibi göstermişti.

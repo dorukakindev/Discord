@@ -20,8 +20,6 @@ Tau gezegeni **T'au**, **789. M35**'te Adeptus Mechanicus Explorator Fleet gemis
 
 ### Mont'au (Ölüm Çağı)
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f0/T%27au_Empire_Icon.png/revision/latest/scale-to-width-down/900?cb=20230512074501)
-
 İlkel T'au ovalarda yaşayan bir ırktı. Tarih öncelerinde, çöl ovalarında göçebe kabileler halinde yaşıyor, yiyeceklerini avlıyor ve topluyorlardı. Bu kabilelerden bazıları sonunda diğer ortamlara yayıldı. Dağlardaki T'au, çöller üzerinde termal hava akımlarıyla süzülmelerini sağlayan deri kanatları ve hafif kemikler geliştirdi. Nehir vadilerindeki T'au tarım ve metalürji geliştirip ilk gerçek yerleşimleri kurdu. Yerleşimlerin gelişimi ticaret ihtiyacını doğurdu; dolaşan T'au, ilkel mavnalarla nehirler boyunca hareket ederek farklı kabileler arasında müzakere ve arabuluculuk yapmaya başladı. Ovalarda kalan T'au güçlü ve yetenekli avcılar oldu, diğer T'au'ların çoğundan daha büyük ve güçlüydü.
 
 T'au için maalesef, geçirdikleri hızlı toplumsal, biyolojik ve teknolojik değişimler çatışmaya yol açtı. Dağ T'au ve ova T'au, nehir vadisi T'au'nun çiftliklerini ve şehirlerini almak için ittifak kurdu; tüccar kervanları ittifakların oluşmasını engellemek için düzenli olarak yağmalandı. Nehir vadilerindeki T'au, surlar ve kaleler inşa etmek için mimari becerilerinden yararlandı ve kendilerini savunmak için kara barut silahlarının üretimini hızla keşfetti. Ama hasatların bozulması, ticaretin çökmesi ve temiz suya erişimin engellenmesiyle, T'au'ların çoğunun yaşadığı sefil koşullarda hastalıklar hızla yayıldı; hastalıktan ölenler savaşta ölenler kadar çoktu. T'au tarihi bu dönemi **Mont'au**, "Korku" veya "ölüm çağı" olarak kaydeder.

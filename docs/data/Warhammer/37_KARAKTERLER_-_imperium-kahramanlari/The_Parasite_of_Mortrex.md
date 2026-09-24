@@ -19,5 +19,3 @@ Ultima Segmentum'daki Fortress World Mortrex, Tyranid istilasına karşı günle
 -# Kaynaklar: *Codex: Tyranids*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551753458779029565>, <#1551815439078658154>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/96/Parasite_of_mortrex_artwork.jpg/revision/latest?cb=20100802150911)

@@ -13,8 +13,6 @@ Mordian kütleçekimsel olarak yıldızına kilitlenmiş bir dünyadır: kendi e
 
 Böyle bir dünyanın gökyüzünde alışılmış bir gündüz ve gece döngüsü yoktur. Mordian'da doğan bir insan güneşin doğuşunu görmeden büyür; zaman, ışığın değil saatlerin, vardiyaların ve buyrukların ölçüsüyle akar. Kaynakların Mordian askerinin açık gökyüzü altında, hele parlak bir güneşin altında savaşmayı yabancı ve zor bulduğunu aktarması bu yüzden şaşırtıcı değildir: Iron Guard'ın her ilerleyişi, bir anlamda evden ne kadar uzaklaştığının da ölçüsüdür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/aa/Mordian_Ironguards_by_jeenhoong.jpg/revision/latest?cb=20111019161851)
-
 ## Toplum: Düzen Olarak Hayatta Kalma
 Mordian'ın temel sorunu kalabalıktır. Yaşanabilir alanın yarım bir gezegenle, üstelik güneş görmeyen bir yarıküreyle sınırlı olduğu bir dünyada kaynaklar her zaman kıttır, insanlar her zaman fazladır. Kaynaklar, Mordian yönetiminin bu baskıyı katı yasalar, sıkı toplumsal denetim ve düzene yönelik sarsılmaz bir vurguyla dengelediğini anlatır. Mordian'da kargaşa sıradan bir huzursuzluk değil, felaketin habercisidir; çünkü milyonların sıkıştığı kulelerde başlayan bir kıvılcım, kısa sürede bütün bir şehri yakabilir.
 

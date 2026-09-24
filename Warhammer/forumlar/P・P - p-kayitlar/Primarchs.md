@@ -10,16 +10,12 @@ Primarch'ların tarihi, Imperium'un en büyük zaferleriyle en derin felaketinin
 
 Bu madde, Primarch'ları bir kavram ve kuşak olarak ele alır: nasıl yaratıldıkları, nasıl kaybolup bulundukları, doğalarına dair bilinenler ve bilinmeyenler, her birinin kaderine kısa bir bakış ve Era Indomitus'ta yeniden sahneye çıkanlar. Tekil Primarch'ların ayrıntılı biyografileri kendi kanallarında ve koleksiyon forumlarında işlenir. Düello sonuçları ve unvanlar bu maddede bir güç sıralaması olarak kullanılmaz; Primarch'lar arasındaki karşılaşmalar koşullara, silahlara ve Warp'ın müdahalesine sıkı sıkıya bağlıdır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/20/The_primarchs_wall.jpg)
-
 ## Yaratılış: Primarch Projesi
 Primarch'ların yaratılışı, Unification Wars'un son dönemlerinde Emperor'un yürüttüğü en gizli girişimlerden biriydi. En yaygın anlatıya göre proje, Terra'da, Himalazia dağlarının derinliklerine gömülü gen-laboratuvarlarında gerçekleştirildi. Bazı anlatılar Luna'nın gen-bilim geleneğini de bu sürece bağlar; ancak Luna daha çok Space Marine üretimi ve Selenar gen-kültleri bağlamında anılır ve kaynaklar projenin tüm aşamalarının nerede yürütüldüğü konusunda aynı ayrıntıyı vermez.
 
 Emperor'un Primarch'ları yalnızca genetik mühendislikle mi yarattığı, yoksa sürece psişik ve Warp kaynaklı güçler mi kattığı da açık bırakılmıştır. Pek çok Primarch'ın öngörü, telepati ya da başka psişik yetenekler sergilemesi, Magnus'un olağanüstü psişik gücü, Sanguinius'un kanatları ve kehanet vizyonları, Curze'nin karanlık öngörüleri bu yaratılışın salt biyolojik olmadığı izlenimini güçlendirir.
 
 Bazı evren-içi kaynaklarda ve eski anlatılarda Emperor'un Primarch'ları yaratmak için Chaos Gods'la bir pazarlığa girdiği ve sözünü tutmadığı için onların çocuklarını kaçırdığı iddiası yer alır. Bu anlatı, özellikle Chaos'un kendi bakışını yansıtan sahnelerde dile getirilir. Yayımlanmış kanon bunu kesin bir gerçek olarak doğrulamaz; Kaynaklar bu konuda aynı anlatımı sunmaz. Ansiklopedi bu iddiayı, olasılığı açık bırakılmış bir evren-içi söylem olarak kaydeder.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/aa/The_Primarchs.jpg/revision/latest/scale-to-width-down/1000?cb=20171210211743)
 
 ## Dağılma ve Bulunuş
 Proje tamamlanmak üzereyken bebek Primarch'lar, gen-laboratuvarlarında açılan bir Warp gediğiyle Terra'dan koparılıp galaksinin dört bir yanına saçıldı. Standart anlatı bunu Chaos Gods'ın müdahalesine bağlar; kapsüllerin rastgele gibi görünen, ama her biri bir Primarch'ın karakterini derinden biçimleyecek dünyalara düşmesi bu anlatının parçasıdır. Horus Heresy serisinin geç döneminde Erda adlı Perpetual'ın dağılmada kendi payı olduğuna dair iddialar da yer alır; bu, doğrulanmış bir sonuç değil, tartışmalı bir evren-içi tanıklıktır.

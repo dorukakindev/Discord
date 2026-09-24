@@ -9,5 +9,3 @@ Ordo Malleus (Çekiç Tarikatı), Engizisyon'un en gizli ve en tehlikeli koludur
 Bu bilgiyle çalışmak büyük bir risktir; iblis bilgisini bu kadar derin kullanan bir Inquisitor, farkında olmadan kendisi de yozlaşıp Kaos'un bir parçası haline gelebilir. Bu yüzden Ordo Malleus üyeleri, hem en güçlü hem de en çok izlenen Inquisitor'lardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/83/Maellusinquisitor.JPG)

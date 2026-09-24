@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/MilitarumTempestus.png/revision/latest?cb=20170622213228
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Tempestus Scion'lar
 

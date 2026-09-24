@@ -12,8 +12,6 @@ Genestealer Cults'u diğer tehditlerden ayıran, Imperium'un kendi dokusunu sila
 
 Bu kanal kültlerin yapısını, inancını ve tarihini ele alır. Tyranid türü ve filoların tarihi <#1551759780211589197>, kolektif bilincin doğası <#1551814990338723904> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/1st-gen.jpg/revision/latest?cb=20160523003800)
-
 ## Yaşam Döngüsü: Kiss'ten Purestrain'e
 Her kült bir Purestrain Genestealer'la başlar. Bu organizma, genellikle bir uzay hulk'ı ya da ticaret gemisiyle bir dünyaya ulaşır ve bir kurbanı yakalayarak ona ovipositor aracılığıyla genetik malzeme bırakır. Imperial kayıtlarda **Genestealer's Kiss** olarak bilinen bu enfeksiyon, kurbanı çoğu zaman öldürmez. Kurban eski hayatına döner; ancak artık Genestealer'a psişik olarak bağlıdır ve içindeki şeyin farkında bile olmayabilir.
 

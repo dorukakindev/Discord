@@ -10,8 +10,6 @@ Savaşın merkezinde **Astral Claws** Chapter Master'ı **Lufgt Huron** vardı. 
 
 Kıvılcım 901.M41'de çaktı. Badab sistemine giren bir Imperial tithe filosu Huron'un kuvvetlerince yok edildi; Huron filonun talimatlara uymadığını ve kendisini tehdit ettiğini iddia etti. Ardından Maelstrom bölgesinin Imperium'dan ayrıldığını, ancak bölgeyi korumayı sürdüreceğini ilan eden bir bildirge yayımladı. Terra'nın gözünde bu, açık bir isyandı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c0/BadabWar.jpg/revision/latest?cb=20121103183926)
-
 ## Taraflar ve Savaşın Seyri
 Huron yalnız değildi. **Mantis Warriors**, **Lamenters** ve **Executioners** Chapter'ları secessionist safta yer aldı; Huron ayrıca Astartes olmayan kuvvetlerden oluşan **Tyrant's Legion**'ı kurdu. Bu Chapter'ların katılım gerekçeleri kaynaklarda farklı biçimlerde açıklanır: onur borcu, bölgesel dayanışma, Terra'ya duyulan kırgınlık ve Huron'un ikna gücü bunların başında gelir. Loyalist tarafta ise **Fire Hawks**, **Red Scorpions**, **Howling Griffons**, **Raptors**, **Marines Errant**, **Salamanders**, **Star Phantoms**, kökeni gizemli **Minotaurs** ve daha da gizemli **Carcharodons** gibi Chapter'lar yer aldı.
 

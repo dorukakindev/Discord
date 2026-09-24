@@ -10,8 +10,6 @@
 
 Ordo'nun özel bir sorumluluğu daha vardır: Ecclesiarchy'yi gözetmek. Imperial Cult'ın kilisesi galaksinin en yaygın kurumlarından biri olsa da Age of Apostasy'den sonra Imperium, kilisenin kendi başına bırakılamayacağını öğrenmiştir. Ordo Hereticus bu dersin kurumsal karşılığıdır. Bu kanal Ordo'nun kendisine odaklanır; Chamber Militant'ı olan Orders Militant **kayıt** ve **kayıt**, Inquisition'ın genel yapısı ise **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/68/Female_Inquisitor_Ordo_Hereticus.png/revision/latest/scale-to-width-down/407?cb=20141201094336)
-
 ## Kökenler ve Age of Apostasy
 Ordo Hereticus'un ne zaman kurulduğu yayımlanmış kanonda kesin bir tarihle verilmez. Kimliğinin bugünkü biçimini ise M36'daki Age of Apostasy'nin ardından kazandığı genel olarak kabul edilir. Goge Vandire'ın Administratum ile Ecclesiarchy'yi tek elde toplayarak başlattığı Reign of Blood, dinî otoritenin silahla birleştiğinde nasıl bir terör aygıtına dönüşebileceğini göstermişti. Vandire'ın düşüşünden sonra ilan edilen Decree Passive, kilisenin silah altında erkeklerden oluşan bir kuvvet bulundurmasını yasakladı.
 

@@ -10,8 +10,6 @@ Barbarus'un Death Guard'a bıraktığı miras kaynaklarda açıkça izlenebilir.
 
 Bu kanal Barbarus'u bir dünya ve bir toplum olarak ele alır. Mortarion'un kişisel hikâyesi <#1551650329316036699>, Legion'ın tarihi ve Nurgle'a düşüşü <#1551813274327060552> kanalında işlenir. Yayımlanmış kanon Barbarus'un Age of Strife geçmişi, nüfusu ve Overlord'ların kökeni hakkında sınırlı bilgi verir; arşiv bu boşlukları tahminle doldurmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/48/Barbarus_planet.jpg/revision/latest?cb=20121011044318)
-
 ## Sisin Dünyası
 Barbarus'un yaşamı yüksekliğe göre bölünmüştü. Kaynakların anlatımına göre gezegenin atmosferi zehirliydi ve bu zehir yukarı çıkıldıkça yoğunlaşıyordu; tepeler ve dağ yamaçları hiçbir sıradan insanın dayanamayacağı sislerle örtülüydü. İnsanlar, sisin görece seyreldiği alçak vadilere sıkışmış, toprağı işleyerek ve her gece sisin içinden inecek olanlardan korkarak yaşıyordu.
 

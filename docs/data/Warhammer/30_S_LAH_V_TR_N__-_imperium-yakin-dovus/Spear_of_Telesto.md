@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/55/Sanguinius_Spear_of_Telesto.png/revision/latest/scale-to-width-down/900?cb=20201020071059
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/Sanguinius_Spear_of_Telesto.png/revision/latest/scale-to-width-down/900?cb=20201020071059)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Spear of Telesto — Telesto'nun Mızrağı

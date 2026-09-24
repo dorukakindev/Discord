@@ -9,5 +9,3 @@ Ork'ların saplı el bombası; içinde ne olduğu Mekboy'dan Mekboy'a değişir 
 ## Teknik ve Kullanım
 El bombası sınıfı — tek atımlık patlayıcı cephane; siper, kalabalık, zırh veya özel hedef için her Guardsman'in kemerindeki çok yönlü cevap.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/4e/Stikkbombs_2.jpg)

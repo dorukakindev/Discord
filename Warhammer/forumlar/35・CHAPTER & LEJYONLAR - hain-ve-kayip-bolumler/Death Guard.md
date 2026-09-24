@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/2f/DeathGuardBadge.png/revision/latest?cb=20190111222147
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/DeathGuardBadge.png/revision/latest?cb=20190111222147)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Death Guard — Ölüm Muhafızları (XIV. Lejyon)

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/23/Elysian_Drop_Forces_deploying_on_planet_Betalis_III.png/revision/latest/scale-to-width-down/900?cb=20120123014142
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/23/Elysian_Drop_Forces_deploying_on_planet_Betalis_III.png/revision/latest/scale-to-width-down/900?cb=20120123014142)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Elysian Drop Troops — Elysia İndirme Birlikleri

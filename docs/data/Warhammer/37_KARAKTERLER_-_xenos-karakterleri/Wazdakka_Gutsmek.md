@@ -9,5 +9,3 @@ Wazdakka Gutsmek, sözde var olan en büyük Ork Warbiker'ı ve Speedboss'udur; 
 Wazdakka, "Bike of the Aporkalypse" (Aporkalips Bisikleti) olarak bilinen, ağır biçimde modifiye edilmiş bir Ork Warbike'a biner; bu makine, bir tankı bile yok edebilen Dakkakannon adlı canavarca güçlü bir Shoota ile donatılmıştır. Basit bir Evil Sunz Mekaniak olarak başladı, ama çabucak Kult of Speed'in (Hız Kültü'nün) cazibesine kapıldı ve kabilesinden sürüldü; ardından bir Bad Ork Biker oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/8f/Gutsmek.jpg)

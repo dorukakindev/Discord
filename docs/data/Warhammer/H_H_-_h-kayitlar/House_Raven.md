@@ -10,8 +10,6 @@ Raven'ın hikâyesi iki kutup arasında gerilir. Bir yanda binyıllar boyunca ay
 
 Bu kanal Hanenin kurumsal kimliğini, Metalica'yla bağını ve Kolossi'nin düşüşünü ele alır. Knight Hanelerinin genel kültürü <#1551753465900961795>, Metalica'nın forge world olarak tarihi metalica, Charadon savaşının bütünü ise war-zone-charadon kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/db/House_Raven_Icon_3.jpg/revision/latest?cb=20140312042049)
-
 ## Kolossi ve Metalica'ya Verilen Yemin
 Kolossi, kaynaklarda ağır sanayinin şekillendirdiği bir Knight World olarak betimlenir. Öteki Knight World'ler gibi kökenini Dark Age of Technology'nin sınır kolonilerine dayandıran bu dünya, Age of Strife'ın yalnızlığında kendi feodal düzenini kurmuş; Great Crusade'le birlikte ise Mechanicum'un yörüngesine girmiştir. Raven'ın tercihinin ardında salt inanç değil, somut bir ihtiyaç da vardı: Knight suit'lerini ayakta tutan bilgi ve malzeme, Mechanicum'un forge'larında saklıydı.
 

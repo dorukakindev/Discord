@@ -13,8 +13,6 @@ IX Legion'ın başına geçen Sanguinius, Legion'ı kendi karizması ve idealler
 
 Sanguinius, Primarch kardeşleri arasında eşsiz bir sevgi ve saygı gördü. Horus Lupercal ile yakınlığı özellikle bilinir; bu bağ, Heresy'nin trajedisini daha da ağırlaştıracaktı. Primarch'ın öngörü yeteneği de kaynaklarda vurgulanır: kendi ölümünü önceden sezdiği ve buna rağmen yolundan dönmediği anlatısı, Blood Angels'ın kendini feda etme kültünün çekirdeğini oluşturur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Blood_Angels_Livery.jpg/revision/latest?cb=20220207032425)
-
 ## Horus Heresy
 Horus isyanını gizlerken Blood Angels'ı en tehlikeli yere gönderdi: James Swallow'un *Fear to Tread* romanında işlendiği üzere Legion, Signus kümesinde daemonik güçlerin kurduğu bir tuzağa düştü. Signus Prime'da Khorne'un Bloodthirster'ı Ka'Bandha ile yüzleşen Sanguinius ağır biçimde yenildi; Legion'ın savaşçıları ise kan kokusuyla kışkırtılan bir öfke dalgasına kapıldı. Blood Angels'ın genetik kusurunun ilk kez bu denli açık biçimde yüzeye çıkması Signus'a bağlanır.
 

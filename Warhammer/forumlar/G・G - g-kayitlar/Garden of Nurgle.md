@@ -10,8 +10,6 @@ Bahçeyi öteki Chaos diyarlarından ayıran, ölü bir yer olmamasıdır. Nurgl
 
 Bu kanal diyarın kendisine odaklanır. Nurgle'ın kişiliği ve kültü için <#1551754683222327439>, dört tanrının diyarlarının ortak çerçevesi için realm-of-chaos, Warp'ın doğası için <#1551809666454134928> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bf/RealmofChaosMap.jpg/revision/latest/scale-to-width-down/738?cb=20181014212202)
-
 ## Bahçenin Coğrafyası ve Doğası
 Bahçe, ölümlü akla tam kavranabilir bir coğrafya sunmaz. Kaynaklarda bahçe, ölçülüp haritalanabilen bir yerden çok tanrının doğasının bir yansımasıdır. Ne var ki bazı imgeler sık sık yinelenir: bataklıklar, çürük meyvelerle dolu ağaçlar, kaynayan kazanlar ve her yeri kaplayan bir cıvık örtü.
 

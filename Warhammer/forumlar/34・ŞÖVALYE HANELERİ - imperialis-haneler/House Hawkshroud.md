@@ -11,5 +11,3 @@ House Hawkshroud (Hawkshroud Hanedanı), İmparatorluk'a bağlı bir Imperial Kn
 Hawkshroud'un en kutsal ilkesi basittir ama mutlaktır; bir kez bir ittifaka ya da bir göreve söz verdiklerinde, o sözü ne pahasına olursa olsun yerine getirirler. Bir müttefik yardım çağırdığında, durum ne kadar umutsuz, savaş ne kadar kayıp görünürse görünsün, Hawkshroud şövalyeleri gelir. Bu güvenilirlik, onları İmparatorluk güçleri arasında en çok aranan ve en çok saygı duyulan müttefiklerden biri yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/08/HouseHawkshroudKnight.jpg)

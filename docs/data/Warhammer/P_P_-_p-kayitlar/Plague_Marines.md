@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/65/PlagueMarineHead.PNG/revision/latest?cb=20170916225814
+
 -# THE IMPERIAL ARCHIVE · P Kayıtları · Kayıt
 # Plague Marines
 

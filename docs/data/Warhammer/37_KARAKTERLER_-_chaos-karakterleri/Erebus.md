@@ -11,5 +11,3 @@ Erebus, Word Bearers lejyonunun Dark Apostle'ı (Karanlık Havarisi) ve tüm Hor
 Word Bearers, primarch'ları Lorgar gibi inanca muhtaç bir lejyondu; İmparator tapınmayı reddedip onları aşağıladığında, inançlarını gizlice Kaos Tanrıları'na çevirdiler. Erebus, bu dönüşümün baş aktörlerinden biriydi; Kaos'a en erken ve en derinden bağlanan kişilerdendi. Heresy daha başlamadan önce, yıllarca süren entrikalarla zemini hazırladı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/42/ErebusGC.jpg)

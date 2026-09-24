@@ -11,5 +11,3 @@ Eldrad Ulthran, Ulthwé craftworld'ünün ve muhtemelen tüm Aeldari ırkının 
 Eldrad, geleceğin sayısız olası dalını görür ve ırkının hayatta kalması için en uygun olanı seçip o yöne doğru ince hamleler yapar; bazen bir gezegenin kaderini, bazen bir savaşın sonucunu, bazen bir bireyin tek bir kararını etkileyerek devasa felaketleri önler ya da yönlendirir. Onun için zaman, dokunabileceği bir kumaştır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/43/Eldrad_Ulthran_6th_ed.jpg)

@@ -10,8 +10,6 @@ Lysander'ı Chapter'ın öteki büyük savaşçılarından ayıran şey ise bir 
 
 Bu kanal Lysander'ı bir kişi olarak ele alır: First Company'deki rolü, esareti ve kaçışı, Iron Warriors'a duyduğu nefret, taşıdığı relic'ler ve kaynaklardaki portresinin nasıl değiştiği. Imperial Fists'in kurumsal tarihi <#1551636479925559479>, IV Legion <#1551637652569067542>, Primarch'ın kişiliği ise <#1551650286559559741> kanalındadır. Aynı Chapter'ın yeni kuşak yüzlerinden biri olan Tor Garadon için tor-garadon kanalına bakılabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/42/IF_Cpt_Darnath_Lysander.jpg/revision/latest?cb=20130909035909)
-
 ## First Company ve Chapter İçindeki Yeri
 Codex Astartes'e bağlı Chapter'larda First Company, en kıdemli ve en deneyimli savaşçıların toplandığı veteran birliğidir; Terminator zırhlarının büyük kısmı bu company'nin elindedir. Imperial Fists'te bu birlik, Chapter'ın kuşatma geleneğinin en ağır silahıdır: düşman kalesinin gediğine ilk girenler, abordaj harekâtlarında düşman gemisinin koridorlarını açanlar ve savunmada en çok baskı gören bastiyonu tutanlar çoğu zaman First Company'nin Terminator'larıdır. Bu birliğin başındaki Lysander, böylece Chapter'ın en tehlikeli işlerinin doğal komutanı olur.
 

@@ -12,8 +12,6 @@ Kökeni açıklanmamıştır. Emperor'ı Unification Wars'tan önce tanıdığı
 
 Bu madde Malcador'u bir kişi olarak ele alır; Grey Knights, Inquisition ve Administratum'un kurumsal tarihleri kendi kanallarında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Malcador_the_Sigillite.jpg/revision/latest?cb=20120809162533)
-
 ## Regent ve Council of Terra
 Unification Wars boyunca Emperor'ın yanında bulunan Malcador, doğmakta olan Imperium'un siyasi, idari ve istihbarat altyapısının kurulmasında belirleyici rol oynadı. Great Crusade başladığında Emperor cephelerdeyken Terra'yı yöneten oydu. Fethedilen dünyaların vergisini, ikmalini ve kaydını tutacak bürokrasinin, yani sonraki Administratum'un büyümesi onun gözetiminde gerçekleşti.
 

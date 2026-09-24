@@ -10,8 +10,6 @@ Crimson Slaughter'ı öteki renegade'lerden ayıran şey, kaynakların *haunting
 
 Bu kanal Chapter'ı bir bütün olarak ele alır; Chaos Space Marine olgusunun genel çerçevesi <#1551812225570836561>, Dark Angels ile süren husumet ise <#1551813077991686208> kanalındadır. Crimson Slaughter'a dair ayrıntıların büyük bölümü tek bir 6th Edition ek kitabına ve bir başlangıç kutusuna dayandığından, bu kanal da anlatılanla anlatılmayanı ayırmaya özen gösterir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fd/Crimson_Slaughter_SP.png/revision/latest?cb=20170817000312)
-
 ## Crimson Sabres: Düşüşten Önce
 Crimson Sabres'in Founding'i ve gene-seed soyu yayımlanmış kanonda açıklanmamıştır. Kaynaklar onları, Imperium'un sayısız Chapter'ı gibi uzun ve onurlu bir hizmet geçmişi olan, sadakatinden şüphe edilmeyen bir Astartes kuvveti olarak tanıtır. Onları öteki Chapter'lardan ayıran belirgin bir kusur ya da şüpheli bir soy kaydı anlatılmaz; bu sıradanlık, hikâyenin korkutucu yanlarından biridir.
 

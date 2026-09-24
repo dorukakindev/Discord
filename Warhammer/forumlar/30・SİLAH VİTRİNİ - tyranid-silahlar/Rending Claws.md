@@ -7,4 +7,6 @@ Genestealer ve avcı biyoformların kıvrık pençeleri; zırhın en zayıf nokt
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/03/Genestealer_b.jpg)
+## Teknik ve Kullanım
+
+Parçalayıcı pençeler, Genestealer'ların ve avcı biyoformların en korkulan doğal silahıdır; her biri elmas sertliğinde kıvrık kalkan uçludur ve darbe anında birbirinden bağımsız hareket ederek zırh plakalarını bulup içeri yırtar. Zırh delme kabiliyetleri o kadar yüksektir ki Terminatör zırhı bile uzun süre dayanamaz; pençeler moleküler kenar keskinliğiyle power armour'u kağıt gibi açar. Tyranid sürüsünün yakın dövüş gücünün bel kemiğidir; yakalanan hedef bir saniyede parçalanır.

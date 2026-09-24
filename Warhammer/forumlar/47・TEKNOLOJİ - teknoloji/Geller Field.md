@@ -18,6 +18,4 @@ Imperial donanmasından Rogue Trader gemilerine kadar her Warp yolculuğu bu ala
 
 -# Kaynaklar: *Warhammer 40,000 Core Book — 10th Edition*; *Horus Rising — Dan Abnett*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Iron_Hands_Fleet_Arrives.png/revision/latest/scale-to-width-down/1000?cb=20140415161335)
-
 -# İlişkili kayıtlar: <#1551809666454134928>, <#1551817319288676373>, <#1551651548713455758>, <#1551809133156634696>

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/1f/AngelsSanguineBadge.jpg/revision/latest?cb=20171212175657
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1f/AngelsSanguineBadge.jpg/revision/latest?cb=20171212175657)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Angels Sanguine — Kutsal Melekler (Angels Sanguine)

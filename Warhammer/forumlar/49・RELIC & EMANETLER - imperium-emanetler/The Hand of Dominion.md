@@ -11,5 +11,3 @@ The Hand of Dominion (Egemenlik Eli), Primarch Roboute Guilliman'ın taşıdığ
 Bir güç eldiveni olarak, Hand of Dominion en ağır zırhı parçalayabilir, bir tankı ezebilir ve en güçlü düşmanları tek bir darbeyle yok edebilir; enerji alanıyla kaplı bu dev yumruk, neredeyse hiçbir şeyin dayanamayacağı bir güç taşır. Ama onu sıradan bir güç eldiveninden ayıran bir özelliği daha vardır; içine gömülü, entegre bir bolter taşır, böylece Guilliman hem yakın dövüşte ezici, hem de menzilli ateşte ölümcül olur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Guilliman_Post-Heresy.png/revision/latest?cb=20170312223906)

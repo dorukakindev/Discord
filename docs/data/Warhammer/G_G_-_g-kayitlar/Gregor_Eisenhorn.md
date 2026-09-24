@@ -8,8 +8,6 @@
 
 Eisenhorn romanları büyük ölçüde birinci tekil şahısla, Eisenhorn'un kendi ağzından yazılmıştır. Bu yüzden onun kararlarını, düşmanlarını ve kendi ahlâkını değerlendirişi nesnel hüküm sayılmamalıdır: okuyucu, kendini haklı çıkarmaya çalışan bir adamın tanıklığını okur. Maceraları ağırlıklı olarak Segmentum Obscurus'taki Scarus Sector çevresinde geçer ve rejuvenat tedavileri sayesinde yüzyıllara yayılan bir ömrü kapsar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Gregor_Eisenhorn.jpg/revision/latest?cb=20100810074115)
-
 ## Xenos: Puritan Soruşturmacı
 İlk roman *Xenos*, Eisenhorn'u görevine sarsılmaz biçimde bağlı, Imperial düzenin kurallarına inanan bir Inquisitor olarak tanıtır. Kaçak bir sapkının izini sürerken açılan soruşturma, soylu **Glaw** ailesine ve yasak bir metin olan **Necroteuch**'a uzanır. Glaw hanedanının en tehlikeli adı, ölümünden sonra bilinci korunarak varlığını sürdüren sapkın **Pontius Glaw**'dır; onunla hesaplaşma, Eisenhorn'un hayatının sonraki onlarca yılına gölge düşürecektir.
 

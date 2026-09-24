@@ -10,8 +10,6 @@ Abaddon, Horus'un yetiştiği Cthonia'da doğdu ve Luna Wolves saflarına bu dü
 **Klon söylentisi**
 Bazı eski kaynaklar, Abaddon'ın Horus'un genetik mirasından yaratılmış bir klon olduğuna dair bir söylentiyi aktarır. Bu iddia hiçbir zaman doğrulanmadı; sonraki yayınlar Abaddon'ı Cthonia'da doğmuş, sıradan bir devşirme olarak işler. **Kanon durumu: doğrulanmamış evren-içi rivayet.**
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Abaddon_Eternal_Crusade.jpg/revision/latest/scale-to-width-down/630?cb=20150813212509)
-
 ## Heresy'de First Captain
 *Horus Rising*'de Abaddon, Mournival'ın en kıdemli üyesi, gururlu, öfkesi çabuk parlayan ve Horus'a neredeyse dinsel bir bağlılıkla bağlı bir savaşçı olarak tanıtılır. Onun sadakati Emperor'a değil, doğrudan babası saydığı Horus'aydı; Heresy'nin başında Warmaster'ın yanında yer alması bu bağlılığın doğal sonucu olarak işlenir. Isstvan III'te Mournival'ın parçalanması, Abaddon'ın eski kardeşlerini Horus uğruna feda etmeye hazır olduğunu gösterdi.
 **Kuşatma ve kopuş**

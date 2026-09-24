@@ -17,5 +17,3 @@ Orman dünyası yetiştirmesi izcilerden oluşur; gizlilik, keskin nişancılık
 -# Kaynaklar: Gaunt's Ghosts (seri), First and Only
 
 -# İlişkili kayıtlar: `tanith`, `astra-militarum`, `sabbat-worlds`, `commissariat`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Ibram_Gaunt-0.jpg/revision/latest/scale-to-width-down/724?cb=20171205193610)

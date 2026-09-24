@@ -44,5 +44,3 @@ Szarekh'in nihai hedefinin tam niteliği, örneğin Warp'ın sürülmesinin ard�
 
 **Kaynaklar:** *Codex: Necrons — 5th Edition*; *Codex: Necrons — 9th Edition*; *Codex: Necrons — 10th Edition*; *Psychic Awakening: Pariah*; *Crusade: Pariah Nexus*
 **Çapraz:** <#1551759762193121282>, <#1551812203584295003>, <#1551649070286897172>, <#1551817348900589669>, <#1551818153271627807>, <#1551640212562645203>, <#1551815033518948404>, <#1551809619544899625>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/65/Szarekh2.jpg/revision/latest/scale-to-width-down/1000?cb=20250131185606)

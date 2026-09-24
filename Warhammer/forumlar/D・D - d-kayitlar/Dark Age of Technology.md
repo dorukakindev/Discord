@@ -10,8 +10,6 @@ Adındaki "karanlık" sözcüğü bir çelişki gibi görünse de bilinçli bir 
 
 **Kronoloji uyarısı:** Geleneksel çerçevede Age of Terra'yı (M1–M15) izleyen bu çağ kabaca M15 ile M25 arasına yerleştirilir ve ardından Age of Strife gelir. Ancak farklı yayınlar olayları farklı bin yıllara koyar; Men of Iron isyanı ya da Navigator'ların ortaya çıkışı için kaynaklar arasında tutarlı tek bir tarih yoktur. Bu maddedeki tarihler yaklaşık kabul edilmelidir. Imperial arşivlerin kendisi de bu dönemi söylenti, dinsel yorum ve kasıtlı sansür süzgecinden geçirerek aktarır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429)
-
 ## Kökenler: Yıldızlara Açılış
 Dönemin kökleri, insanlığın henüz Sol sistemi içinde genişlediği Age of Terra'ya uzanır. Mars ve diğer dünyaların yaşanabilir hâle getirilmesinin ardından insanlık önce yavaş, ışıktan yavaş gemilerle yakın yıldızlara yerleşim filoları gönderdi. Bu ilk koloniler çoğu zaman Terra'dan kopuk, kendi başlarına ayakta durmak zorunda kalan toplulukların tohumlarını attı.
 

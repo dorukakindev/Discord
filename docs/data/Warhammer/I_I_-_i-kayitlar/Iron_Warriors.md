@@ -10,8 +10,6 @@ Legion'un ihanet hikâyesi, Primarch'ları Perturabo'nun kişiliğinden ayrı d�
 
 Iron Warriors'ın mottosu, sık aktarılan biçimiyle, "Iron within, iron without" olarak bilinir. Bu söz, Legion'un duygusuz disiplinini ve içteki çürümeyi dışarıdaki zırhla örten kimliğini özetler. Bu kanal Legion'u merkeze alır; Imperial Fists ile kadim rekabetinin öteki yüzü <#1551636479925559479> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852)
-
 ## Kökenler: Olympia ve Perturabo
 Perturabo'nun düştüğü dünya Olympia, dağlık, şehir devletlerine bölünmüş ve bitmeyen iç savaşlarla sarsılan bir gezegendi. Lochos şehrinin tiranı Dammekos tarafından evlat edinilen genç Primarch, olağanüstü zekâsı ve mühendislik becerisiyle Lochos'u Olympia'nın hâkimi hâline getirdi; ancak yayınlar onun bu süreçte içten içe yalnız ve anlaşılmamış kaldığını vurgular. Emperor geldiğinde Perturabo, Olympia'nın yönetimini bırakıp IV Legion'un başına geçti.
 

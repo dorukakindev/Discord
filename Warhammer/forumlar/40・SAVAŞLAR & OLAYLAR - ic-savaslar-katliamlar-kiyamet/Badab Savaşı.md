@@ -11,5 +11,3 @@ Badab Savaşı, M41'de Space Marine chapter'larının birbirine kılıç çekti�
 Savaş, Astral Claws chapter'ının Chapter Master'ı Lufgt Huron'un İmparatorluk denetimine başkaldırmasıyla başladı; Badab sektöründeki kaynakları ve öşürü Terra'ya teslim etmeyi reddetti ve kendi bağımsız bölgesini kurmaya çalıştı. Birkaç chapter ona katıldı (Mantis Warriors, Lamenters gibi), birçoğu ise İmparatorluğa sadık kaldı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c0/BadabWar.jpg/revision/latest?cb=20121103183926)

@@ -7,5 +7,3 @@
 Aziz Anais, 41'inci binyılda ortaya çıkan ve Adepta Sororitas saflarında savaşan bir Yaşayan Aziz'dir (Living Saint); kökeni, hangi Orders Militant'tan geldiği ve azizliğe nasıl yükseldiği bilinmez bir muamma olarak kalmıştır. İlahi varlığıyla İmparatorluk kuvvetlerine ilham veren, savaş alanında bir mucize gibi beliren bir figürdü.\n\nAnais, Kaurava Sistemi'nde patlak veren büyük İman Savaşı'nda (War of Faith) öne çıktı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/53/Saint_Anais.jpg)

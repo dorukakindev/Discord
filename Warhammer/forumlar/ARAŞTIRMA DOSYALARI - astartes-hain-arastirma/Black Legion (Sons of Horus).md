@@ -31,8 +31,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorus
 
 #### Oluşum ve İlk Günler
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest?cb=20170813040332)
-
 Black Legion, başlangıçta **XVI. Legion** olarak bilinirdi ve en eski **Space Marine Legions**'ından biriydi. **Horus Lupercal**, **Emperor of Mankind**'in en sevdiği oğlu ve **Warmaster** (Büyük Usta) olarak görev yaptı. Horus, Great Crusade'un başında yer alarak **Emperor**'a vekiller olarak hizmet etti.
 
 #### İlk Komutanlar

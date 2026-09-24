@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Alpha_Legion_Heretic_Armorial.png/revision/latest?cb=20180709221710
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Alpha_Legion_Heretic_Armorial.png/revision/latest?cb=20180709221710)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Alpha Legion — Alfa Lejyonu (XX. Lejyon)

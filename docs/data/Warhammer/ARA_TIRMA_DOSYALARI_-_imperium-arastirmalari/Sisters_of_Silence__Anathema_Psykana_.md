@@ -12,8 +12,6 @@ Beklenmedik biçimde Big E, Sisters of Silence üyelerinin **tam sessizlik yemin
 
 Sessizlik yemininin sebebi hakkında son dönemlerde Emperor'un doğasıyla ilgili ortaya çıkan bilgiler ışığında bir teori var: Bu, onların İmparator'un glamourosu/görünümleri altında gördüklerini başkalarına anlatmalarını engellemek içindir. Bir Sister'ın Warp varlığına bakarken gördüğü sıradan bir insanın gördüğüyle aynı değildir; Tanau Aleya, **Bloodthirster**'ları örneğin "büyük, iğrenç, aşağılık yaratıklar" olarak tarif eder — daha fazlası değil. Korkutucu canavarlar yerine, bir Sister'ın daemon tarifleri tiksintiyle doludur, sanki bir hamamböceği tarif eder gibidir ve tuhaf biçimde Necron'ların son romanlardaki tarifleriyle benzerdir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/8c/SoS_Icon.jpg/revision/latest?cb=20170327223644)
-
 Daemon konusunda, Horus Heresy/Siege of Terra romanları ile Dark Imperium serisi, **neverborn**'ların bu hanımlardan ne kadar korktuğunu gerçekten genişletmiştir. **Drach'nyen** ve **Ku'Gath** gibi son derece güçlü Greater Daemon'lar bile, bir Sisters of Silence tarafından öldürülmenin sadece Warp'a sürülmek değil, gerçek bir ölüm olduğunu açıkça söylemiştir — tüm varoluşu ve dünya görüşü sonsuz varoluş üzerine kurulu bir varlık için söndürülme fikri katlanarak daha korkutucudur.
 
 ## Savaş Kapasitesi
@@ -120,5 +118,3 @@ Silent Hunters'da 40k'nın 11. Edition başlangıcında mini-detachment aldılar
 9. *Psychic Awakening: War of the Spider* — Sisters + Custodes Talons
 10. *Talons of the Emperor* (8th Edition codex)
 11. *The Tithes* (animasyon serisi) — Sisters ve Femstodes tartışması
-
-![gorsel](https://static.wikitide.net/1d6chanwiki/f/f3/SoS_logo.png)

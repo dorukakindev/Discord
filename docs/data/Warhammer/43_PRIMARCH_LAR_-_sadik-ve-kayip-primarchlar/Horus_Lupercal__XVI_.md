@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Warmaster_Horus_Remembrancer_Sketch.jpg/revision/latest?cb=20150816012256
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Horus Lupercal (XVI)
 

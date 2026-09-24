@@ -21,5 +21,3 @@ Kültler Imperial dünyalarında kuşaklar boyunca gizlice büyür, Day of Ascen
 -# Kaynaklar: *Codex: Genestealer Cults*; *Day of Ascension — Adrian Tchaikovsky*
 
 -# İlişkili kayıtlar: <#1551759784821137419>, <#1551759780211589197>, <#1551814990338723904>, <#1551809601207533690>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/1st-gen.jpg/revision/latest?cb=20160523003800)

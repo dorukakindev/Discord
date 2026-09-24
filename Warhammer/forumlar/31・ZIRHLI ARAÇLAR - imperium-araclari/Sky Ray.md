@@ -19,5 +19,3 @@ Sky Ray, T'au ordularında hava savunmasının ve hedef işaretlemeye dayalı at
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fe/Skyray4.jpg/revision/latest?cb=20120821084522)

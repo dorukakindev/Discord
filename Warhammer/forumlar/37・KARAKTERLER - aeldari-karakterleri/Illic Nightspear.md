@@ -11,5 +11,3 @@ Illic Nightspear, Craftworld Alaitoc'un bir Aeldari Ranger'ıdır ve binlerce Te
 Nice Ork Warboss'u, Necron Overlord'u, Kaos Şampiyonu ve İmparatorluk Generali, onun bakışıyla sonunu bulmuştur; tercih ettiği silah, en sağlam zırhı bile kolaylıkla delebilen kadim bir keskin nişancı tüfeği olan Voidbringer'dır (Boşluk Getiren). O, bir savaş alanını uzaktan yöneten, hedeflerini görünmeden seçip biçen sessiz bir ölümdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/22/Illic_Nightspear.jpg)

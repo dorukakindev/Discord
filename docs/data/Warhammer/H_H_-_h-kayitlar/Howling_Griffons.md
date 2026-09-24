@@ -10,8 +10,6 @@ Zırhlarını kırmızı ile sarının bölündüğü dörtlü bir arma kaplar. 
 
 Bu kanal Howling Griffons'ı bir Ultramarines successor'ı olarak ele alır: kuruluşlarını, yurtları Mancora'yı, Word Bearers'a karşı sürdürdükleri düşmanlığı ve Badab War ile öteki seferlerdeki rollerini. Ata Chapter'ın tarihi <#1551809394226765939>, düşmanlıklarının öbür ucu ise <#1551638953101365340> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/43/Howling_Griffons_SP2.jpg/revision/latest?cb=20200502033253)
-
 ## Kökenler, Mancora ve Proud Eyrie
 Ultramarines soyundan gelen Howling Griffons'ın kuruluşu kaynaklarda M33'e yerleştirilir. Chapter böylece Second Founding'in hemen ardından değil, Imperium'un çalkantılı erken binyıllarından birinde doğmuş olur. Guilliman'ın gene-seed'i ona Ultramarines geleneğinin disiplinini taşıdı; Howling Griffons ise bu mirası kendi onur diliyle ayrı bir renge büründürdü.
 

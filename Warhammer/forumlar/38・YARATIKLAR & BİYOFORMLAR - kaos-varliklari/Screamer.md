@@ -25,5 +25,3 @@ Screamer ile Disc of Tzeentch arasındaki akrabalık kaynaklarda genel çizgiler
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Thousand Sons*
 
 -# İlişkili kayıtlar: <#1551647728692633643>, <#1551654107058540595>, <#1551809666454134928>, <#1551809231580307517>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/12/Screamer2.jpg/revision/latest?cb=20130324034412)

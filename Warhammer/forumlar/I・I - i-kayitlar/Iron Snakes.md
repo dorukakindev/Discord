@@ -10,8 +10,6 @@ Chapter, büyük bloklar hâlinde değil, küçük ve bağımsız birliklerle sa
 
 Burada Iron Snakes bir Ultramarines successor'ı olarak ele alınıyor: yurtları Ithaka'yı, yılan ve deniz kültürünü, savaş biçimlerini ve Chapter'ın en ayrıntılı kaydını oluşturan Damocles Squad ile Priad'ın anlatısını. Chapter'ın lore'u büyük ölçüde tek bir Black Library eserine, Dan Abnett'in *Brothers of the Snake*'ine dayanır; Codex'lerde ise yalnızca kısa anılırlar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Iron_Snakes_SP2.png/revision/latest?cb=20170726153946)
-
 ## Kökenler ve Ultramarines Soyu
 Iron Snakes, kaynaklarda Roboute Guilliman'ın gene-seed'inden gelen bir Second Founding Chapter'ı diye anılır. Bu yönüyle Heresy'nin ardından Ultramarines'in bölünmesiyle doğan çok sayıda successor'dan biridir. Ata Chapter'ın disiplini, Codex'e bağlılığı ve savaş bilgisi, Iron Snakes'in temelinde durur; ama Chapter bu mirası, yurdunun denizci kültürüyle kendine özgü bir kalıba döktü.
 

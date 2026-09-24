@@ -10,8 +10,6 @@ Başka forge world'ler kendilerini ürettikleri teknolojiyle, Titan'larıyla ya 
 
 Agripinaa'nın kuruluşu, iç yapısı ve Heresy dönemindeki tarihi yayımlanmış kanonda ayrıntılı biçimde anlatılmaz. Bu madde forge world'ü Cadian Gate içindeki yeri, kuşatma kültürü ve Great Rift sonrası belirsiz akıbeti üzerinden ele alır. Forge world kavramının geneli forge-worlds, Cadia'nın kendisi <#1551812139935866891>, Eye of Terror'ın doğası ise <#1551813775848509482> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fb/Agripinaa.jpg/revision/latest?cb=20120106085214)
-
 ## Cadian Gate'in Örsü
 Cadian Gate'in savunması tek bir kaleye değil, birbirini besleyen bir sistemler zincirine dayanıyordu. Merkezde, asker yetiştiren ve geçidi tutan fortress world Cadia duruyordu; Belis Corona'daki Imperial Navy üsleri Eye'dan taşan donanmaları boşlukta karşılıyordu; Agripinaa ise bu savaşın silahlarını döküyordu. Böyle bir düzende forge world cephenin gerisinde güvenle çalışan bir fabrika sayılamazdı; o, cephenin ta kendisiydi. Chaos kuvvetleri Cadia'yı zayıflatmak istediğinde, onu besleyen ocakları da hedef almak zorundaydı.
 

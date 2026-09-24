@@ -10,8 +10,6 @@ Bölünmenin süresi kaynaklarda dokuz yüzyılı aşkın bir dönem olarak veri
 
 Dönemin Imperium'un geri kalanı için ne anlama geldiği de ancak dolaylı olarak izlenebilir. Bazı kaynaklar, genel kargaşa sürerken Ultramar gibi kendi kendine yeten bölgelerin görece korunaklı kaldığını ima eder; ancak bu tür değerlendirmeler dönemin bütününe dair kapsamlı bir tablo sunmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c9/NovaTerrumInterregnum.jpg/revision/latest?cb=20180121043809)
-
 ## Bilinen Olaylar
 Interregnum'un kargaşası yalnızca sivil yönetimle sınırlı kalmadı. Adeptus Mechanicus içinde **Moirae Schism** olarak anılan doktrinel bölünme aynı döneme düşer ve bazı kaynaklar iki krizi birbiriyle ilişkilendirir; Mars'ın iç tartışmalarının ayrıntısı ise ayrı bir konudur.
 

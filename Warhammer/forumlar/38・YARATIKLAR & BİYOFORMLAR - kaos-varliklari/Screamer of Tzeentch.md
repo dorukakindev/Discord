@@ -11,5 +11,3 @@ Screamer of Tzeentch, sık sık "Gök-Köpekbalığı" (Sky-shark) olarak anıla
 Uçuş yetenekleri sayesinde son derece çeviktirler ve vahşi ama kurnaz bir zekâ taşırlar. Uçarken ardlarında çok renkli kıvılcımlardan izler bırakır ve onlara adını veren o delici, yüksek frekanslı çığlığı yayarlar. Savaş alanının üzerinde süzülerek düşmanları kuyruklarıyla kamçılar ve acımasız barbetlerine saplarlar; gökten inen, çığlık atan bir ölüm yağmuru gibidirler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f1/ScreamerArt8th.jpg)

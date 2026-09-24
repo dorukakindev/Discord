@@ -19,5 +19,3 @@ Kustom force field, Ork teknolojisinin çelişkisini iyi özetler: derme çatma 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0f/BigMekKustomForceField.jpg/revision/latest?cb=20230508145427)

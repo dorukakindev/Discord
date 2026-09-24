@@ -10,8 +10,6 @@ Bir forge world olarak Mezoa, Imperium için hem paha biçilmez bir değer hem d
 
 Forge world kavramının bütünü <#1551814305874448396>, Mechanicus'un inanç ve kurumları <#1551753449878724689> kanalında işlenir. Burada yalnızca Mezoa ve onun adıyla anılan kuşatma ele alınıyor.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/1b/Mezoa.jpg/revision/latest?cb=20150522185618)
-
 ## Kaynaklardaki Yeri
 Mezoa hakkında bilinenlerin büyük bölümü Great Rift sonrası anlatılara dayanır. Dünyanın eski tarihi, kuruluşu ve Mars'la bağının niteliği yayımlanmış kaynaklarda ancak kısa değinilerle geçer. Kimi anlatılar kuruluşunu Great Crusade'in ilk yıllarına yerleştirir ve Ferrus Manus'un adıyla ilişkilendirir; bu ayrıntılar da genişçe işlenmez.
 

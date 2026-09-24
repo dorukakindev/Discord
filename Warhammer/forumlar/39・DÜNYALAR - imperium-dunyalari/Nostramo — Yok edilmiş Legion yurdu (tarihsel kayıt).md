@@ -18,4 +18,4 @@ Curze, çocukluğunu tek başına geçirdiği sokaklarda suçluları avlayıp ce
 
 -# Kaynaklar: *Konrad Curze: The Night Haunter — Guy Haley*; *Soul Hunter — Aaron Dembski-Bowden*; *Prince of Crows — Aaron Dembski-Bowden*
 
--# İlişkili kayıtlar: <#1551714735810945118>, <#1551741547639214131>, <#1551587966688956538>
+-# İlişkili kayıtlar: <#1552482880331063347>, <#1551650286626672722>, <#1551814367203303506>

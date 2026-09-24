@@ -10,8 +10,6 @@ Bu bağlılık onlara Imperium içinde tekinsiz bir rol biçer. Minotaurs, Imper
 
 Minotaurs'un tarihi, bir sır perdesinin arkasında durur. Founding'leri mühürlü kayıtlarla örtülüdür, gene-seed soyları resmî olarak bilinmez ve sahip oldukları donanım ile kaynaklar, statülerinin açıklayabileceğinden fazladır. Bu kanal Chapter'ı o belirsizliği bozmadan ele alır; bilinenleri, evren içi iddiaları ve okur tartışmalarını birbirinden ayrı tutar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/11/Minotaurs_Livery.jpg/revision/latest?cb=20160303041712)
-
 ## Köken: Mühürlü Kayıtlar
 Minotaurs'un kuruluşu, Imperial kayıtlarda en çok soru uyandıran konulardan biridir. Resmî belgeler Chapter'ı sonradan **Cursed Founding** olarak anılacak 21st Founding dönemiyle ilişkilendirir; ancak kaynaklar, Chapter'ın bundan daha eski bir kökene sahip olabileceğine dair işaretlerden de söz eder. Bu işaretlerin neler olduğu ve hangi kayıtların birbiriyle çeliştiği ayrıntılı biçimde açıklanmaz. Açık olan, Minotaurs'a dair temel belgelerin sıkı mühürler altında tutulduğudur.
 

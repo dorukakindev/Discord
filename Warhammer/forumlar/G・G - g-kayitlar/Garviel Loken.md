@@ -10,8 +10,6 @@ Loken bir Primarch ya da efsanevi bir fatih olarak değil, dürüstlüğü ve Im
 
 Bu madde Loken'i bir kişi olarak ele alır. Legion'ın kurumsal tarihi <#1551809114328399874>, Warmaster'ın kendisi <#1551650246508150857>, Malcador'un gizli ağı <#1551816677669343263> kanalında işlenir. Loken'in doğum yeri, yaşı ve Legion'a alınışının ayrıntıları kaynaklarda sınırlı biçimde yer alır; ansiklopedi bu boşlukları tahminle doldurmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/df/Captain_Garviel_Loken_Portrait.jpg/revision/latest?cb=20151110021549)
-
 ## Great Crusade ve Mournival
 *Horus Rising*, Luna Wolves'un Imperium'un Sixty-Three Nineteen olarak kaydettiği dünyada, kendini insanlığın gerçek Emperor'ı ilan eden bir hükümdarla karşılaşmasıyla açılır. Diplomasi kan içinde çöker; Mournival üyesi Hastur Sejanus bu karşılaşmada öldürülür ve Horus, boşalan yere Loken'i seçer. Böylece Tenth Company'nin kaptanı, Ezekyle Abaddon, Horus Aximand ve Tarik Torgaddon'la birlikte Warmaster'ın en yakın çemberine girer. Birbirini uzun yılların yakınlığıyla tanıyan bu kaptanların arasında, çembere en son katılan Loken hep biraz yabancı kalacaktı.
 

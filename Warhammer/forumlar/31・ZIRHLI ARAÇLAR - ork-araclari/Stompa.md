@@ -11,5 +11,3 @@ Stompa, Orklar'ın Titanıdır; İmparatorluk Titanlarının ve diğer dev yür�
 Stompa'lar genellikle Ork tanrıları Gork ya da Mork'un suretinde, bir tanrı totemi gibi inşa edilir; bu, onları sadece bir savaş makinesi değil, aynı zamanda dini bir sembol yapar. Orklar inandıkça WAAAGH! enerjisi artar ve bu enerji, Stompa gibi makinelerin (Ork mühendisliği açısından çalışmaması gerekirken) çalışmasını sağlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/48/StompaArt.jpg)

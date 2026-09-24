@@ -28,5 +28,3 @@ Tyranid Behemoth sonunda püskürtüldü (kraliçesinin yörüngede yok edilmesi
 - Hive Fleet Behemoth
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/10/Tactical_Advance.jpg/revision/latest?cb=20110307041148)

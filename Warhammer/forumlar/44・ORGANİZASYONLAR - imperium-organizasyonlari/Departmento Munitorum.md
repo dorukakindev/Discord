@@ -9,5 +9,3 @@ Departmento Munitorum, Adeptus Administratum'un savaşa adanmış koludur; Astra
 Munitorum'un işleyişi, öşür (Tithe) sistemine dayanır; her İmparatorluk dünyası, Terra'ya düzenli olarak asker, kaynak, para ve malzeme ödemek zorundadır. İlk öşür kademesi, bir gezegenin yerel savunma gücünün (PDF) onda birini yeni Muhafız askeri olarak toplar. Bir alt-sektördeki yerel Munitorum varlığı, gerektiğinde önceden haber vermeden bile anında öşür dayatma yetkisine sahiptir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c8/MunitorumOrg.jpg)

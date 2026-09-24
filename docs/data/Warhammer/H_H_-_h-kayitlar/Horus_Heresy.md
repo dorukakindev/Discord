@@ -12,8 +12,6 @@ Imperium'un kendi kayıtlarında Heresy çoğu zaman bir efsane, yarı dinsel bi
 
 Traitor saflarına geçen Legion'lar şunlardır: Emperor's Children (III), Iron Warriors (IV), Night Lords (VIII), World Eaters (XII), Death Guard (XIV), Thousand Sons (XV), Sons of Horus (XVI), Word Bearers (XVII) ve Alpha Legion (XX). Thousand Sons'ın bu listeye girişi, aşağıda görüleceği gibi ötekilerden farklı bir yoldan gerçekleşmiştir.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/6e/Prospero-burns-cover-clean.jpg)
-
 ## Kökenler: Ullanor'dan Davin'e
 Ullanor'daki büyük Ork seferinin ardından düzenlenen zafer töreninde Emperor, Horus'u Warmaster ilan ederek Great Crusade'in askerî komutasını ona bıraktı ve kendisi Terra'ya çekildi. Emperor'ın ayrılışının gerçek nedeni, Imperial Palace'ın altında yürüttüğü gizli Webway projesiydi; ancak bu sır Primarch'lardan saklandığı için pek çoğu bu çekilmeyi terk edilmişlik olarak algıladı. Crusade'in yönetimine sivil yöneticilerin, yani sonradan Administratum'a dönüşecek bürokrasinin eklenmesi ve Council of Nikaea'da psykerlik üzerine alınan kısıtlayıcı karar bu hoşnutsuzluğu derinleştirdi.
 
@@ -30,8 +28,6 @@ Yüzeydeki sadıklar ölmedi; Choral City'nin yıkıntıları arasında, Saul Ta
 Aynı dönemde Magnus the Red, Horus'un ihanetini büyüsüyle öğrenip Emperor'ı uyarmak için Terra'ya psişik bir mesaj gönderdi. Bu mesaj, Imperial Palace'ı koruyan korumaları delerek Emperor'ın gizli Webway projesini felakete sürükledi. Emperor, Leman Russ'ı Magnus'u yakalayıp Terra'ya getirmekle görevlendirdi; *A Thousand Sons* ve *Prospero Burns*, emrin daha sert bir cezaya dönüşmesinde Horus'un etkisini öne çıkarır.
 
 Space Wolves, Adeptus Custodes ve Silent Sisterhood'dan oluşan kuvvet Prospero'ya indi; Tizca şehri yakıldı ve Magnus ile Russ'ın düellosu, Primarch'ın bedeninin kırılmasıyla sonuçlandı. Magnus, kalan Legion'ı Warp'a taşıyarak Eye of Terror'daki Planet of the Sorcerers'a çekildi. Thousand Sons'ı Horus'un kucağına iten şey, bu yıkımdı.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/82/HH_Eye_of_Horus_icon.png/revision/latest/scale-to-width-down/1000?cb=20141212235101)
 
 ## Isstvan V: Drop Site Massacre
 Isstvan III'teki katliamın haberi yayılınca Terra, isyanı bastırmak üzere yedi Legion'luk bir ceza kuvveti gönderdi. İlk dalgada Iron Hands, Salamanders ve Raven Guard, Urgall Depression'da tahkim edilmiş Horus mevzilerine indi. Çetin bir çarpışmanın ardından ikinci dalgayı oluşturan Night Lords, Iron Warriors, Word Bearers ve Alpha Legion da iniş bölgesine vardı; ne var ki bu dört Legion, gizlice Horus'a bağlıydı.

@@ -8,8 +8,6 @@ Space Hulk'lar, Warp'ın derinliklerinde sürüklenen ve zaman zaman gerçek uza
 
 Bu belirsizlik, onları hem tehdit hem de hazine yapar. Bir hulk'un derinliklerinde Dark Age of Technology'den kalma bir gemi, bozulmamış bir arkeoteknoloji ya da kayıp bir STC parçası bulunabilir; bu yüzden Adeptus Mechanicus'un Explorator'ları ve kimi Rogue Trader'lar hulk'lara büyük ilgi duyar. Ama aynı karanlık dehlizler çoğu zaman canlı bir şeyle doludur: Genestealer'lar, Ork'lar, Chaos kültistleri ya da daha adı konmamış varlıklar. Imperial kayıtlar hulk'lara verilen adları ve görüldükleri sistemleri titizlikle not eder; bazı hulk'lar kuşaklar boyunca yeniden ve yeniden ortaya çıkarak bir sektörün kâbusuna dönüşür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/be/Death_of_Integrity_Diorama.PNG/revision/latest/scale-to-width-down/720?cb=20160105044723)
-
 ## Hulk'u Kim Taşır?
 **Genestealer'lar:** Space Hulk ile en çok özdeşleşen tehdit Genestealer'dır. Kaynaklar hulk'ların Genestealer'ları dünyadan dünyaya taşıyan bir taşıyıcı işlevi gördüğünü anlatır; bir hulk'un temas ettiği dünyada kök salan istila, zamanla bir Genestealer Cult'a dönüşebilir. Bu yüzden hulk'lar, Tyranid'lerin öncü organizmasını galaksiye yayan yollardan biri olarak da görülür.
 

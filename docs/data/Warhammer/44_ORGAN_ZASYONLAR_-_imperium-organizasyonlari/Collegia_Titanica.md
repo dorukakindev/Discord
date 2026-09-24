@@ -19,5 +19,3 @@ Horus Heresy, Collegia Titanica'yı kendi içinden parçaladı: Mars'ın bölün
 -# Kaynaklar: *Titanicus — Dan Abnett*; *Mechanicum — Graham McNeill*; *Titandeath — Guy Haley*
 
 -# İlişkili kayıtlar: <#1551809313096474696>, <#1551753449878724689>, <#1551816635839549491>, <#1551650329156788287>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Warlord_Identification_Mark.jpg/revision/latest?cb=20120729194117)

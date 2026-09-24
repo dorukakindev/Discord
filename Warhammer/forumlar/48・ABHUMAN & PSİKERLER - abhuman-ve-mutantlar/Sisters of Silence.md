@@ -3,7 +3,7 @@
 
 Yalnızca pariah kadınlardan oluşan, ömür boyu sessizlik yemini eden ve Thoughtmark işaret diliyle anlaşan tarikattır. Pariah olgusunun Imperium'daki en örgütlü kullanımıdır.
 
-- **Kategori:** Pariah tarikatı — kısa kayıt, ana madde <#1551742037555028058>
+- **Kategori:** Pariah tarikatı — kısa kayıt, ana madde <#1551654024351191241>
 - **Fraksiyon:** Imperium of Man (Talons of the Emperor; güncel yayınlarda Anathema Psykana)
 - **Dönem:** Great Crusade'den Era Indomitus'a
 - **Köken:** Kuruluşu yayımlanmış kanonda net açıklanmaz; Great Crusade'in erken döneminde Emperor'un himayesinde, Adeptus Custodes'in yanında faaldir.
@@ -18,4 +18,4 @@ Heresy'de Prospero'ya gönderilen kuvvette ve Terra'nın altındaki Webway sava�
 
 -# Kaynaklar: *Codex: Adeptus Custodes — 10th Edition*; *The Emperor's Legion — Chris Wraight*
 
--# İlişkili kayıtlar: <#1551742037555028058>, <#1551587923776770231>, <#1551714752038707241>
+-# İlişkili kayıtlar: <#1551654024351191241>, <#1551996908216520775>, <#1551810610264678443>

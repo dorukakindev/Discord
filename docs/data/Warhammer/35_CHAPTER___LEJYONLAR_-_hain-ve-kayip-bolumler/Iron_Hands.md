@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Iron Hands — Demir Eller (X. Lejyon)

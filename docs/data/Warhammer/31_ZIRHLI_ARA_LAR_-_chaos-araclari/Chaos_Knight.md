@@ -13,5 +13,3 @@ Chaos Knight, İmparatorluk Şövalyesi'nin (Imperial Knight) yozlaşmış, kara
 Bir Chaos Knight, İmparatorluk Şövalyesi ile aynı muazzam güce sahiptir; Reaper zincir kılıcı, dev toplar ve enerji kalkanlarıyla bir orduyu dağıtabilir. Ama makine ruhu iblislerle kirlenmiştir; bu, ona doğaüstü bir dayanıklılık, bir öfke ve bir öngörülemezlik katar. Yüzeyi Kaos sembolleri, kafatasları ve lanetli ikonlarla kaplıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/92/ChaosKnightArt79.jpg)

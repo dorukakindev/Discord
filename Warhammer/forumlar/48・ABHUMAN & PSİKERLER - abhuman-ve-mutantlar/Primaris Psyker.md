@@ -19,5 +19,3 @@ Primaris Psyker'lar Guard içinde güç ile kuşku arasında yaşar. Kendilerine
 -# Kaynaklar: *Codex: Astra Militarum — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753458779029565>, <#1551810610264678443>, <#1551818131679215728>, <#1551812353157365862>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/83/Primaris_Psyker_IG_Battle.jpg/revision/latest/scale-to-width-down/765?cb=20140509185018)

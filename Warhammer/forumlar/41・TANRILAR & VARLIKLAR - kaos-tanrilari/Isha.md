@@ -24,4 +24,4 @@ Spirit stone'ların kökeni kimi metinde Isha'nın gözyaşlarına, kimi metinde
 
 -# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Codex: Eldar — 6th Edition*; *Codex: Chaos Daemons*
 
--# İlişkili kayıtlar: <#1551740924244271140>, <#1551588020694556762>, <#1551714833236496445>, <#1551741271301947542>
+-# İlişkili kayıtlar: <#1551810744754905123>, <#1551754683222327439>, <#1551812290439942255>, <#1551655323658494093>

@@ -10,8 +10,6 @@ Steel Legion'ı öteki geleneklerden ayıran şey tek bir yetenek değil, yurdu 
 
 Bu kanal alayların kendisini, yani askerî kültürü, doktrini ve tarihini merkeze alır. Gezegenin coğrafyası ve savaşların genel seyri için <#1551643990196232303>, Hades'in savunucusu için sebastian-yarrick, Guard'ın kurumsal yapısı için <#1551753458779029565> kanalına bakılmalıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f2/2199_imperial_guard.steel_legion.jpg/revision/latest?cb=20130319185744)
-
 ## Fabrika Dumanından Gelen Asker
 Steel Legion'ın askerleri, göğü kararmış, havası yüzyılların sanayi artığıyla ağırlaşmış bir dünyanın çocuklarıdır. Armageddon'un hive'larında hayat vardiyaların, üretim kotalarının ve kalabalık konut bloklarının düzenine göre akar. Kaynaklar bunu açıkça bir askerlik okulu gibi anlatmasa da makinelerin arasında büyüyen bir genç için bir Chimera'nın motoru, bir tankın paletleri ya da bir topçu bataryasının bakımı yabancı işler değildir; Steel Legion'ın mekanize kimliği bu yakınlıkla kolayca örtüşür.
 

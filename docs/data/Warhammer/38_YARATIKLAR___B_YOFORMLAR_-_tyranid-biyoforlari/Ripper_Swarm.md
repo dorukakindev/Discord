@@ -9,5 +9,3 @@ Ripper'lar, Tyranid sürüsünün en küçük, en basit ve en sayıca kalabalık
 Tek bir Ripper neredeyse hiçbir tehdit oluşturmaz; küçük ve zayıftır. Ama Tyranid doğasına uygun olarak, sayıları akıl almazdır. Milyonlarcası, her şeyi (eti, kemiği, bitkiyi, hatta bazı malzemeleri) yiyip biyokütleye çeviren, durdurulamaz bir dalga halinde gelir. Bu canlı halı, önüne çıkan her şeyi boğar, ısırır ve sindirir; bir orduyu sayıca ezerek yutabilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a5/RippersArt.jpg)

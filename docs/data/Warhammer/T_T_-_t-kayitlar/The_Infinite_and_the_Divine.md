@@ -17,5 +17,3 @@ Zamana yayılan dedektif hikâyesi + kara komedi; necron kültürü, Solemance M
 -# Kaynaklar: The Infinite and the Divine (R. Rath, 2020)
 
 -# İlişkili kayıtlar: `trazyn-the-infinite`, `orikan`, `necrons`, `solemance`
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Trazyn.jpg/revision/latest?cb=20151005061231)

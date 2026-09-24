@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Sword_of_Secrets.png/revision/latest?cb=20131219211752
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Lion Sword
 *Aslan'ın Kılıcı*

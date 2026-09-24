@@ -13,8 +13,6 @@ Warp'ın savurduğu kapsül, bebek Primarch'ı Nuceria adlı dünyaya bıraktı.
 
 Angron sonunda gladyatör yoldaşlarıyla birlikte zincirlerini kırarak dağlara çekildi ve kendilerini avlamaya gelen Nuceria ordularına karşı son bir direniş hazırladı. Kaynakların anlatımına göre kuşatılmış ve ölmeye hazır bu küçük orduyla birlikte dövüşecekken Emperor gelip Primarch'ı savaş alanından aldı; geride kalan yoldaşları, Angron olmadan katledildi. Bu an, Angron'un geri kalan bütün hayatını belirleyen yaranın kaynağıdır. Babasını hiçbir zaman bir kurtarıcı olarak görmedi; onu, ölümüne bile sahip olmasına izin vermeyen bir gaspçı saydı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Daemon_Prince_Angron_by_Alex_Boyd.jpg/revision/latest?cb=20130116014233)
-
 ## Butcher's Nails: Kafatasındaki Makine
 Nuceria'lı efendilerin Angron'a yerleştirdiği implant, sonradan Butcher's Nails adıyla anılacak kaba ama korkunç derecede etkili bir kadim teknolojiydi. Kaynaklara göre Nails, beynin haz ve öfkeyle ilgili bölgelerini yeniden düzenleyerek taşıyıcısına yalnızca şiddet anında dinen bir acı bırakır; sükûnet, düşünce ve sevgi gibi duyguları ise giderek soldurur. Implantın çıkarılması ise Primarch'ın ölümüne yol açacak kadar derine işlemiştir. Böylece Angron, hem arenada eşsiz bir katil hem de savaşmadığı her anda kendi kafatasının tutsağı hâline geldi.
 

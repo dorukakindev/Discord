@@ -15,8 +15,6 @@ Bu kanal, taslakların kanon denetiminin yürütüldüğü editoryal alandır. K
 - **Kanon Dışı:** Resmî olmayan, meme-lore veya lisanssız kaynaktan gelen içerik; metinden çıkarılır.
 - **Evren-İçi İddia:** Bir karakterin, kurumun, propaganda metninin veya güvenilmez anlatıcının iddiası; anlatıcının nesnel hükmü gibi yazılmamalı, kime ait olduğu belirtilmelidir.
 
----
-
 ## Kanon Denetim Checklist'i ve Satır Etiketleme
 
 Denetçi, sorunlu her ifadeyi mesaj numarasıyla birlikte etiketler ve aşağıdaki özeti taslak başlığına yanıt olarak ekler.
@@ -49,8 +47,6 @@ Sonuç: GEÇTİ / REVİZYON GEREKLİ
 Not: Bu hüküm Ecclesiarchy söylemidir; "Imperial Creed'e göre" diye çerçevelenmeli.
 Öneri: "..."
 ```
-
----
 
 ## Karar Kuralları
 

@@ -19,5 +19,3 @@ William King'in *Wolfblade* romanı, Space Wolves'un Terra'daki bu muhafız birl
 -# Kaynaklar: *Wolfblade — William King*
 
 -# İlişkili kayıtlar: <#1551651548713455758>, <#1551638910344630307>, <#1551809168032268310>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/02/Belisarius_Navigator_.jpg/revision/latest?cb=20160305213402)

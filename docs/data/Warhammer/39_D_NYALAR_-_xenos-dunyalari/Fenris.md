@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/48/Fenris_updated.png/revision/latest?cb=20140810043624
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/48/Fenris_updated.png/revision/latest?cb=20140810043624)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Fenris — Fenris

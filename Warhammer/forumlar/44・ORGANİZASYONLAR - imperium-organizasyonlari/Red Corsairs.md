@@ -20,5 +20,3 @@ Kendini Tyrant of Badab olarak anan Huron, Badab War'un sonunda Palace of Thorns
 Red Corsairs'in mevcudu kaynaklarda kesin sayıyla verilmez. Huron'un Badab'da ne zaman Chaos'a yöneldiği farklı biçimlerde anlatılır. Ayrıntı için <#1551809294750449746> ve <#1551811438547312645>.
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Huron Blackheart: Master of the Maelstrom — Mike Brooks*; *Codex: Chaos Space Marines — 10th Edition*
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Red_Corsairs_SP.png/revision/latest?cb=20180709210013)

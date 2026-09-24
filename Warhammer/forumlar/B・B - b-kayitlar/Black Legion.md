@@ -12,8 +12,6 @@ Black Legion'ın dört Chaos God'dan herhangi birine tamamen adanmadığı, *Und
 
 Bu kanal Legion'ın tarihine ve kimliğine odaklanır. Abaddon'ın seferleri için <#1551811393680838699>, genel Heretic Astartes ekosistemi için <#1551812225570836561> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest?cb=20170813040332)
-
 ## Kökenler: Luna Wolves'tan Sons of Horus'a
 Black Legion'ın hikâyesi XVI Legion ile başlar. Great Crusade'de Luna Wolves adıyla savaşan bu Legion, Primarch'ı Horus Lupercal'ın Warmaster ilan edilmesinin ardından Sons of Horus adını aldı. Ezekyle Abaddon bu dönemde Legion'ın First Captain'ı, elit Terminator birliği Justaerin'in komutanı ve Horus'un en sadık yardımcılarından biriydi; *Horus Rising* ile başlayan Horus Heresy serisi onu Mournival'ın bir üyesi olarak tanıtır.
 

@@ -11,5 +11,3 @@ Hormagaunt (Hormagant), bir Tyranid sürüsünün en yaygın ve en hızlı yakı
 Hormagaunt'lar, hız ve saldırganlık için tasarlanmıştır; olağanüstü çevik bacakları ve güçlü kasları sayesinde inanılmaz bir hızla koşar ve uzun mesafeler sıçrayabilirler. Ana silahları, vücutlarından uzanan büyük orak benzeri pençelerdir (scything talons); bu pençelerle düşmanı parçalarlar. Tek bir Hormagaunt kolayca öldürülebilir, ama onlar asla tek gelmez.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e7/40k-93-hormagaunt-horde.jpg)

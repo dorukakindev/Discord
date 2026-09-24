@@ -11,5 +11,3 @@ Horus Lupercal, suç çeteleriyle dolu kovan dünyası Cthonia'ya düştü ve İ
 Karizması, liderliği ve diğer Primarch'ları birleştirme yeteneği eşsizdi; bu yüzden İmparator Terra'ya dönüp gizli Webway projesine odaklanırken Büyük Haçlı Sefer'in komutasını ona bıraktı ve onu ilk Warmaster ilan etti. Ama bu yük, içinde bir gurur ve kıskançlık tohumu ekti: İmparator'un onu terk edip "daha önemli" bir işe gittiğini, kardeşlerinin yükselişinin gölgesinde kaldığını hissetti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/df/HorusSaturnine.jpg)

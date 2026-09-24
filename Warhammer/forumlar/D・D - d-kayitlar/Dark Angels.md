@@ -15,8 +15,6 @@ I Legion, Primarch'ı bulunmadan önce Terra'da kuruldu ve Great Crusade'in ilk 
 
 Lion'un Caliban'da bulunmasıyla Legion, şövalye tarikatlarının dünyası Caliban'ın ahlakını ve törenlerini benimseyen bir yapıya dönüştü.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9c/DAB3.jpg/revision/latest?cb=20160103051635)
-
 ## Great Crusade ve Horus Heresy
 Lion'un Legion'ın başına geçmesiyle Caliban'dan yoğun biçimde asker alınmaya başlandı; Terra doğumlu eski kuşakla Calibanlı yeni kuşak arasındaki gerilim, sonraki felaketin sessiz zeminlerinden biri olarak anılır. Lion'un yakın dostu ve Order'ın eski büyüğü Luther, Crusade'in ortalarında bir grup savaşçıyla birlikte Caliban'a geri gönderildi. Bu kararın gerekçesi yayınlarda tek bir biçimde açıklanmaz; güvensizlik, kıskançlık ve siyasi hesaplar farklı eserlerde farklı ağırlıklarla öne çıkar.
 

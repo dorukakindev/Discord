@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/da/CSM_Havocs.jpg/revision/latest?cb=20130322023614
+
 -# THE IMPERIAL ARCHIVE · H Kayıtları · Kayıt
 # Chaos Havocs
 

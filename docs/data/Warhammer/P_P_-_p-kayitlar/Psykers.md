@@ -9,8 +9,6 @@ Imperium için psyker hem vazgeçilmez hem de korkulan bir varlıktır. Astropat
 
 Bu kanal psykerliği bir olgu olarak ele alır: kökenlerini, Imperium'daki yerini, taşıdığı tehlikeleri ve öteki türlerde nasıl göründüğünü. Psykerleri toplayan ve eğiten kurum için **kayıt**, Warp'ın kendisi için **kayıt** kanalına bakılabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429)
-
 ## Kökenler ve Tarihçe
 Imperial anlatılarda insan türünde psişik yeteneğin zamanla arttığı ve Dark Age of Technology'nin sonlarına doğru psyker doğumlarının belirginleştiği kabul edilir. Age of Strife'ı başlatan Warp fırtınaları ve bu dönemin kaosu, eğitimsiz psykerlerin yol açtığı felaketlerle iç içe anlatılır; bu çöküşün mekanizması ise kaynaklarda tek bir açıklamaya bağlanmaz.
 

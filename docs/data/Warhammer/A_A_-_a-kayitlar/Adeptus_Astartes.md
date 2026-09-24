@@ -10,8 +10,6 @@ Bu kanal Astartes'i bir **kurum ve biyolojik proje** olarak ele alır: gene-seed
 
 Astartes'in varlık nedeni basittir, sonuçları ise değildir. Sayıca Astra Militarum'un yanında damla kadar kalan bu savaşçılar, Imperium'un en tehlikeli cephelerine, düşmanın başını kesmek için gönderilen bir bıçak gibi kullanılır. Bir Chapter'ın geleneksel mevcudu yaklaşık bin Marine'dir; Imperium'un bütün Chapter'larının toplam sayısı ise kaynaklarda genellikle "bin civarı" diye verilir ve kesin bir rakam hiçbir yerde yayımlanmamıştır. Bu seyreklik, her Marine'i ve her gene-seed kapsülünü telafisi güç bir hazine hâline getirir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Adeptus_Astartes_Icon.jpg/revision/latest?cb=20190630130730)
-
 ## Kökenler ve Tarihçe
 Astartes'in kökleri, Emperor'un Terra'yı birleştirdiği **Unification Wars**'a uzanır. Bu savaşlarda kullanılan **Thunder Warriors**, sonraki Marine'lerin öncülü sayılan ama daha kaba, kısa ömürlü genetik savaşçılardı; birleşme tamamlandığında büyük ölçüde yok olup gittiler ve ardıllarına yer açtılar.
 

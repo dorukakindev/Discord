@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Kaurava2.jpg/revision/latest?cb=20100619071420
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # II ve XI — Kayıtlardan Silinmiş Legion'lar
 

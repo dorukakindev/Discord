@@ -12,8 +12,6 @@ Kaynaklar Noise Marine'leri çoğu zaman bir birlik türü olarak anlatır. Yine
 
 **Kanal sınırı.** Legion'ın bütün tarihi **kayıt**, Primarch'ın kişisel yolu **kayıt**, düşüşün başladığı sefer **kayıt**, Legion'ın en ünlü düellocusu ise **kayıt** kanalındadır. Burada merkezde sonik savaşçıların kendisi durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9e/NoiseMarinesMinis10thEdition1.jpg/revision/latest?cb=20250304164154)
-
 ## Kökenler: Laer ve Duyuların Uyanışı
 Noise Marine geleneğinin kökleri Great Crusade'in son yıllarına, **Laer** seferine uzanır. Graham McNeill'in *Fulgrim* romanında Emperor's Children, Laer'e karşı ağır bir savaş verir ve bu xenos türünü yok eder. Laer tapınağının duyuları zorlayan sanatı ve Fulgrim'in orada ele geçirdiği daemonik kılıç, Legion'ın değişiminin başlangıcı olarak anılır.
 

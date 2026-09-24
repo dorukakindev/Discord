@@ -9,5 +9,3 @@ Promethium, İmparatorluğun devasa savaş makinesini fiilen çalıştıran teme
 Promethium, farklı kalitelerde ve biçimlerde gelir; bazıları araç ve makineleri çalıştıran ham yakıt, bazıları ise alev silahlarında (flamer) kullanılan, yapışkan ve son derece yanıcı özel bir karışımdır. Bu yapışkan biçim, temas ettiği her şeye yapışıp söndürülmesi neredeyse imkansız bir alevle yanar; bu yüzden hem korkunç bir silah hem de arındırıcı, kutsal bir ateş kaynağı sayılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fa/Can_of_Promethium.jpeg)

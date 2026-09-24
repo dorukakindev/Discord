@@ -9,5 +9,3 @@ Hive World (Kovan Dünya), İmparatorluğun en kalabalık ve en kasvetli gezegen
 Bir kovanın içi, dikey bir kast toplumudur; en yukarıdaki "Spire"larda zenginler ve soylular temiz havada yaşarken, aşağı indikçe yoksulluk, kirlilik ve umutsuzluk artar. En altta, "Underhive" denen, ışığın hiç ulaşmadığı, kanunsuz, çeteler ve mutantlarla dolu derin katmanlar vardır; çoğu insan tüm hayatı boyunca gökyüzünü hiç görmeden doğar, çalışır ve ölür. Kovan dünyalar genellikle devasa sanayi merkezleridir; kirlilik o kadar yoğundur ki çoğunun atmosferi zehirlidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/26/Hive_city.jpg)

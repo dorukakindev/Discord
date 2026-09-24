@@ -11,5 +11,3 @@ Crimson Slaughter, bir zamanlar Crimson Sabres adında sadık ve onurlu bir chap
 Bu katliamdan sonra, öldürdükleri kurbanların lanetli sesleri kafalarında yankılanmaya başladı; durmaksızın fısıldayan, çığlık atan, onlara işkence eden hayalet sesleri. Bu sesler dayanılmazdı ve chapter onları susturmanın tek bir yolunu buldu: daha çok kan dökmek. Her kıyım, sesleri geçici olarak susturuyordu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b4/Crimson_Sabre_scheme.jpg)

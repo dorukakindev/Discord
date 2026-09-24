@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7d/Crimson_Fists_symbol.jpg/revision/latest?cb=20160516001011
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7d/Crimson_Fists_symbol.jpg/revision/latest?cb=20160516001011)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Crimson Fists — Kızıl Yumruklar

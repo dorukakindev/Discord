@@ -9,5 +9,3 @@ Worldbreaker (Dünya Kıran), Warmaster Horus'un devasa savaş çekiciydi; adın
 Silahı, bizzat İmparator, en sevdiği oğlu ve seçtiği Warmaster'ı Horus'a bir armağan olarak verdi; bu, baba ile oğul arasındaki o özel bağın, İmparator'un Horus'a duyduğu güvenin somut bir ifadesiydi. Horus, Worldbreaker'ı Büyük Haçlı Sefer boyunca taşıdı; onunla sayısız dünyayı insanlık çatısı altına kattı, galaksinin en büyük kahramanı oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/46/WorldbreakerArt.jpg)

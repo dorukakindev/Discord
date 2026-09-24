@@ -11,8 +11,6 @@ Bu kanal Kor'sarro'yu bir kişi olarak ele alır: unvanının anlamı, Daemon Pr
 ## Köken
 Kor'sarro'nun Chapter'a alınmadan önceki hayatı yayımlanmış kaynaklarda ayrıntılı işlenmez. White Scars'ın aday seçimini büyük ölçüde Chogoris'in göçebe kabilelerinden yaptığı bilindiğinden onun da bu gelenekten geldiği düşünülebilir; ancak doğduğu kabile, gençliği ve Chapter içindeki erken kariyeri hakkında arşiv kesin bir bilgi sunamaz. Kaynakların anlattığı Kor'sarro, zaten Third Brotherhood'un başında, Chapter'ın en seçkin avcılarından biri olarak sahneye çıkan bir komutandır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/db/1000px-WS_Korsarro_Khan.png/revision/latest/scale-to-width-down/751?cb=20130917034327)
-
 ## Master of the Hunt
 Master of the Hunt unvanı, Chapter'ın öç yeminine konu olan düşmanların peşine düşme göreviyle ilişkilendirilir. White Scars geleneğinde bazı düşmanlar yalnızca yenilmesi gereken bir tehdit değil, Chapter'ın onuruna sürülmüş bir leke sayılır; bu lekeyi temizleyecek olan da Great Khan'ın bu görevi emanet ettiği savaşçıdır. Kaynaklar Kor'sarro'yu bu unvana Chapter Master'ın, yani Great Khan'ın doğrudan takdiriyle yükselmiş biri olarak anlatır.
 

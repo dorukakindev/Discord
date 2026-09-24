@@ -10,8 +10,6 @@ Mechanicus'un gözünde bu arayış bilimsel bir merak değil, ibadetin en yüce
 
 Bu madde Explorator geleneğini ve seferlerini merkeze alır. Rahiplik düzeninin bütünü tech-priests, kurumun genel yapısı <#1551753449878724689>, Heresy dönemi Mechanicum'u mechanicum-30k kanalındadır. Kaynaklar Explorator filolarının sayısı, büyüklüğü ya da merkezî bir örgütü hakkında genel geçer bilgi vermez; her filo, onu donatan forge world'ün ve yöneten Magos'un kişisel damgasını taşır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Explorator_by_andreauderzo.jpg/revision/latest?cb=20120702065647)
-
 ## Kökenler ve Great Crusade
 Explorator geleneğinin kökeni, Mars'ın Age of Strife'ın karanlığından çıkarken taşıdığı bilgi açlığına uzanır. Great Crusade başladığında Mechanicum, Emperor'ın sefer filolarına yalnızca silah ve Titan vermekle kalmadı; yeniden bulunan dünyalarda kayıp teknolojiyi arayan kendi filolarını da gönderdi. Kaynaklar bu dönemin Explorator filolarını, Crusade'in insan dünyalarını yeniden Imperium'a bağlarken Mars için de kayıp forge'ları, kadim depoları ve Dark Age mirasını topladığı bir hasat mevsimi olarak çizer. Treaty of Olympus'un Mars'a tanıdığı özerkliğin, bu keşiflerin önemli bir kısmının Terra'ya değil Mars'a akmasına zemin hazırladığı düşünülebilir.
 

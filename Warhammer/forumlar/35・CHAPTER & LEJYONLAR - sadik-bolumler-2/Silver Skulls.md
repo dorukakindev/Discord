@@ -11,5 +11,3 @@ Silver Skulls (Gümüş Kafatasları), İmparatorluğun en batıl inançlı ve k
 Diğer chapter'lar psyker'larını ihtiyatla kullanırken, Silver Skulls onları merkeze koyar; "Prognosticar" denen kâhin-psyker konseyleri, her seferden önce alâmetleri okur, gelecekten işaretler arar ve savaşın ne zaman, nerede ve nasıl verileceğine karar verir. Bir Silver Skull komutanı, kehanet uygun zamanı işaret etmeden saldırmaz; ama o an geldiğinde, tüm güçleriyle ve mutlak bir özgüvenle hücum ederler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f8/SilverSkullClintLangley.jpg)

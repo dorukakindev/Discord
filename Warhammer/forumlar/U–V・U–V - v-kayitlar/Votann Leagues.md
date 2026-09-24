@@ -86,5 +86,3 @@ League kavramı 2022'de, 9th Edition döneminin *Codex: Leagues of Votann*'ıyla
 
 **Kaynaklar:** *Codex: Leagues of Votann — 9th Edition*; *Warhammer 40,000 Core Book — 10th Edition*; *Warhammer 40,000: Rogue Trader — Rick Priestley*
 **Çapraz:** <#1551759789988642876>, uthar-the-destined, <#1551813334993739777>, <#1551810663859626054>, <#1551757340905181286>, <#1551814400938082357>, <#1551759766966116383>, <#1551815272074055681>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/0d/LeaguesofVotannIcon.png/revision/latest?cb=20221030142608)

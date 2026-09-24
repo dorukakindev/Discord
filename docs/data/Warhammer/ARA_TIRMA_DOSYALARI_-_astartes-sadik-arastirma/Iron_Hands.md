@@ -32,8 +32,6 @@ Iron Hands, mekanize savaş ustalarıdır; tank, uçak ve Dreadnought'lardan bü
 
 ### Geçmiş ve Bugün
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452)
-
 Iron Hands, her First Founding Chapter gibi **tamamen delidir**. Ferrus Manus, civa zehirlenmesiyle (frengi tedavisi için kullanılan eski yöntem gibi) **gümüş metal kaplı ellere** sahipti. Bu nedenle Chapter üyeleri onu taklit ederek vücut parçalarını makine ve cybernetic implantlarla değiştirmeye başladılar (Heres sonrası duygu inhibitörleri dahil). Ferrus Manus aslında buna karşıydı; İmparator'un eserine güvenilmesi gerektiğine, geliştirilmemesi gerektiğine inanıyordu.
 
 Bu, **Isstvan V**'deki **Drop Site Massacre**'da Primarch'larının kaybının yarattığı **Freudiyen kompleks**'in bir parçasıdır. Chapter herkesi, özellikle de Ferrus Manus'un kafasını kesen Lejyonu (Iron Warriors) suçladı. Ayrıca Ferrus Manus'un kendisini de suçladılar — duygularını kontrol edememesinin taktik hatalara yol açtığı sonucuna vardılar (aslında hata yoktu, sadece ihanet vardı).

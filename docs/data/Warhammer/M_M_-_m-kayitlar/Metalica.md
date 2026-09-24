@@ -10,8 +10,6 @@ Metalica'nın tarihi büyük ölçüde bu düşmanla verilen savaşların tarihi
 
 Bu madde Metalica'yı bir dünya, bir kültür ve bir tarih olarak ele alır. Forge world kavramının geneli <#1551814305874448396>, Collegia Titanica'nın kurumsal yapısı <#1551809313096474696>, Charadon kampanyasının bütünü ise war-zone-charadon kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Metalica_Skitarii_Icon.png/revision/latest?cb=20150420210216)
-
 ## Düzenin Dini
 Her forge world Omnissiah'ya tapar; ama her biri bu ibadete kendi vurgusunu ekler. Metalica'nın vurgusu düzendir. Mechanicus kaynaklarına göre bu dünyanın rahipleri, makinenin kusursuz ve öngörülebilir işleyişinde ilahi iradenin en saf ifadesini görür; kaos ve belirsizlik ise onların gözünde Machine God'a karşı işlenmiş bir günahtır. Bir üretim hattındaki tek bir aksaklık, Metalica'da yalnızca teknik bir sorun değil, düzeltilmesi gereken bir sapkınlıktır.
 

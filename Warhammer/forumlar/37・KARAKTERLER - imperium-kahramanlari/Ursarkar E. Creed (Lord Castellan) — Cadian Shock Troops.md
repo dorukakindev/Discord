@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/23/Lord_Castellan_Creed.jpg/revision/latest?cb=20140412033351
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Ursarkar E. Creed (Lord Castellan) — Cadian Shock Troops
 

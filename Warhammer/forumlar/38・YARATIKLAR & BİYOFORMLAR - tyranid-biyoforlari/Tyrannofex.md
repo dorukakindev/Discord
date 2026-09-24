@@ -9,5 +9,3 @@ Tyrannofex, yalnızca yıkım yaymak için var olan, kale-benzeri devasa bir Tyr
 Tyrannofex'in ana silahı, gövdesine kaynaşmış muazzam bir biyo-toptur; bir Bio-Titan dışında hiçbir Tyranid biyoformunun taşıdığından daha büyük ve daha yıkıcı silahlar arasındadır. Bu canlı top, sürünün düşmanlarına ağır ve sürekli bir ateş yağdırır; zırhlı araçları ve tahkimatları bile söküp atabilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e5/TyrannofexArt.jpg)

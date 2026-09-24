@@ -11,8 +11,6 @@ Curze'un gestation capsule'ü, güneş ışığının neredeyse hiç ulaşmadı�
 
 Halkının ona taktığı Night Haunter adı bu dönemin mirasıdır. "Konrad Curze" adının kökeni ise kaynaklarda aynı netlikle açıklanmaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/29/Night_Haunter_8th_Ed.jpg/revision/latest/scale-to-width-down/631?cb=20170814071135)
-
 ## Emperor ve VIII. Legion
 Emperor Nostramo'ya geldiğinde onu Konrad Curze adıyla karşıladı; bu karşılaşmada söylenenler kaynaklarda farklı biçimlerde aktarılır. VIII. Legion'ın başına geçen Curze, Nostramo'da uyguladığı yöntemi galaksiye taşıdı. Night Lords isyankâr dünyaları teslim olmaya zorlamak için ibret amaçlı katliamlara, şehir halklarına yönelik terör kampanyalarına ve dehşet görüntülerinin yayılmasına başvurdu; Legion'ın ilk Terra kökenli kuşakları zamanla Nostramo'nun sokaklarından devşirilen savaşçılarla yer değiştirdi.
 

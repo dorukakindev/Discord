@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/23/FallofTyran.jpg/revision/latest?cb=20111115103343
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Tyran — Karakol dünyası (Eastern Fringe)
 

@@ -19,5 +19,3 @@ Huron, Badab'da Imperium'a meydan okuyunca Badab War başladı. Savaşın sonund
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Ten: The Badab War – Part Two*; *Codex: Chaos Space Marines*
 
 -# İlişkili kayıtlar: <#1551811438547312645>, <#1551809294750449746>, <#1551812225570836561>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Red_Corsairs_SP.png/revision/latest?cb=20180709210013)

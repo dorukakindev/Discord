@@ -9,5 +9,3 @@ Adeptus Arbites, İmparatorluk yasasının (Lex Imperialis) acımasız uygulayı
 Arbites, sıradan suçlarla (hırsızlık, cinayet gibi yerel meselelerle) pek ilgilenmez; bunlar yerel kolluk güçlerinin işidir. Onların alanı, doğrudan İmparatorluğa karşı işlenen suçlardır: isyan, sapkınlık, öşür ödememe ve İmparatorluk'un birliğini tehdit eden her şey. Bir gezegen vergisini ödemezse ya da bir kült İmparator'a karşı ayaklanırsa, Arbites devreye girer.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a8/ArbitesDH.jpg)

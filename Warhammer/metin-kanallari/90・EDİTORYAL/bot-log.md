@@ -25,8 +25,6 @@ Bu kanal, arşivin otomatik süreçlerinin ve editör işlemlerinin makine taraf
 - Tarih ve saat ISO 8601 biçiminde ve UTC olarak yazılır.
 - Kullanıcılar Discord kullanıcı adıyla değil, sunucu içi kısa editör kodu veya bot adıyla gösterilir.
 
----
-
 ## Log Satırı Biçimi
 
 **Standart biçim**
@@ -54,8 +52,6 @@ Bu kanal, arşivin otomatik süreçlerinin ve editör işlemlerinin makine taraf
 [2026-09-21T16:07:44Z] CHANGELOG | kanal-adi | live | ED-01 | tur=Yeni | DG-2026-001
 ```
 
----
-
 ## Değer Sözlüğü ve Hata Kayıtları
 
 **Değer sözlüğü**
@@ -70,8 +66,6 @@ Otomatik bir işlem başarısız olduğunda bot `ERROR` satırı yazar ve işlem
 
 **Saklama**
 Bot-log kayıtları kalıcıdır. Kanal kalabalıklaştığında editörler dönemsel özet sabitler; eski satırlar yerinde kalır ve arama için kullanılmaya devam eder.
-
----
 
 This channel has been set up to receive official Discord announcements for admins and moderators of Community servers. We'll let you know about important updates, such as new moderation features or changes to your server's eligibility for Server Discovery, here.
 

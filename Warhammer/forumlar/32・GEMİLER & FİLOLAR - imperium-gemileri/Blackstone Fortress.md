@@ -20,5 +20,3 @@ Gothic Sektörü'ndeki Blackstone Fortress'ler, 12th Black Crusade olarak da bil
 Chaos'a ait bir gemi sınıfı değil, ele geçirilmiş xenos yapılarıdır. *Warhammer Quest: Blackstone Fortress* (2018) başka bir Fortress'i ayrı bir anlatıda işler; ele geçirilen Fortress sayısı kaynaklarda farklı verilir.
 
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Gathering Storm I: Fall of Cadia*
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Blackstone_Fortress_Coloured.png/revision/latest?cb=20170315185533)

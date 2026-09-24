@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/ea/Servant_of_the_C_tan_by_MajesticChicken.jpg/revision/latest?cb=20110928172314
+
 -# THE IMPERIAL ARCHIVE · I Kayıtları · Kayıt
 # Necron Immortals
 

@@ -10,8 +10,6 @@ Chapter'ı tanımlayan olay, Badab War'da Lufgt Huron'un ayrılıkçı safında 
 
 Yine de Mantis Warriors'ı yalnızca bir "hain Chapter" saymak eksik kalır. Maelstrom'a kaçmadılar, Chaos'un kucağına düşmediler ve kefareti reddetmeden sırtlandılar; bu da baştan beri Imperium'dan kopmak niyetinde olmadıklarını düşündürür. Bu kanal Chapter'ı kendi perspektifinden ele alır: kökenini, savaş tarzını, Badab'daki seçimini, Ootheca'nın kaybını ve kefaretini. Savaşın bütünü <#1551811438547312645> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/06/MW_Shoulder_Pad.jpg/revision/latest?cb=20161118022909)
-
 ## Kökenler ve Soy
 Forge World'ün Badab ciltleri Mantis Warriors'ı **White Scars** soyuna, yani Jaghatai Khan'ın mirasına bağlar. Bu bağ başka yayınlarda pek işlenmez; soyun ara halkaları ve ayrıntıları da sınırlı biçimde anlatılır.
 

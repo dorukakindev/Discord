@@ -11,5 +11,3 @@ Legio Mortis, "Death's Heads" (Olum Kafalari) lakabiyla bilinen ve Terror Gozu i
 Legio Mortis bu karari destekledi ve Yikici Gucler hizmetinde savasan ilk Titan lejyonlarindan biri oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/9c/MortisReaver.jpg)

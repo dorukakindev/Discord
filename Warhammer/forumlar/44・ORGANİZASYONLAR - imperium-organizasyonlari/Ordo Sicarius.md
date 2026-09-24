@@ -9,5 +9,3 @@ Ordo Sicarius, Engizisyon'un sayısız "Ordo Minoris"inden (küçük ordo) birid
 Officio Assassinorum, Vindicare, Callidus, Eversor ve Culexus gibi tapınaklarıyla, tek bir suikastçısı bile bir gezegenin kaderini değiştirebilecek kadar ölümcül bir güçtür. Böylesine bir gücün denetimsiz kalması, İmparatorluk için kabul edilemez bir risktir; yanlış ellerde ya da yozlaşmış bir amaç uğruna, bu suikastçılar bir kâbusa dönüşebilir. Ordo Sicarius, bu riski dizginlemek için vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/92/OrdoSicariusInitiate.jpg)

@@ -22,5 +22,3 @@ Kalın ön zırh, ana taret topu, gövde silahı ve sponsonlar. Pattern'e göre 
 -# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551753458779029565>, <#1551812139935866891>, <#1551753449878724689>, <#1551649072912269433>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest/scale-to-width-down/750?cb=20160525204059)

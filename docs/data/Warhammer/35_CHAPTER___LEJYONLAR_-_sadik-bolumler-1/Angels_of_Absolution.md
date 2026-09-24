@@ -9,5 +9,3 @@ Dark Angels'ın İkinci Kuruluş halefi; günahlarının Caliban'ın Düşüşü
 Angels of Absolution (Kefaret Melekleri), Dark Angels'ın (Lion El'Jonson) İkinci Kuruluş halef chapter'ıdır. Diğer tüm Dark Angels haleflerinden ayrıldıkları kritik bir nokta vardır: İmparator'un gözündeki utançlarının çoktan silindiğine ve O'nun affını (absolution) kazandıklarına inanırlar. Bu inanç o kadar köklüdür ki, kendileri için "Unforgiven" (Affedilmeyenler) terimini kullanmayı reddederler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/02/Angelsofabsolutionmini.jpg)

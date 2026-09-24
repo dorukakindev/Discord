@@ -8,8 +8,6 @@ Kategori: Karakter · Fraksiyon: Leagues of Votann — Greater Thurian League ·
 
 Unvanındaki "Destined", yani "yazgılı" sıfatı, Ûthar'ı anlamanın hem anahtarı hem de tuzağıdır. Kin, Votann adı verilen Ancestor Core'ların rehberliğine büyük bir güven duyar ve Ûthar'ın kaderinin bu kadim zekâlarca büyük işlere işaret ettiğine inanır. Arşiv bu inancı kaydeder, fakat onu kendi hükmü olarak benimsemez: "yazgılı" nesnel bir kesinlik değil, bir halkın önderine ve kendi rehberlerine duyduğu güvenin adıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/24/UthartheDestinedMini.jpg/revision/latest/scale-to-width-down/996?cb=20230206163854)
-
 Yayımlanmış kaynaklar, Ûthar'ı ayrıntılı bir biyografiyle değil, bir rolün ve bir inancın en parlak örneği olarak sunar. Doğumu, gençliği, Kâhl'lığa yükselişi ve adıyla anılan tek tek zaferleri hakkında kanonda sınırlı ölçüde bilgi bulunur; bu kanal da o boşlukları hayal gücüyle doldurmak yerine, Ûthar'ı bağlamı içinde okumayı hedefler. Kin'in bütünü, kökenleri ve toplum yapısı için <#1551759789988642876> kanalına bakılabilir.
 ---MSG---
 ## Kâhl, League ve Savaş Alanı
@@ -39,5 +37,3 @@ Kin'in yayın öncülleri olan Squat'lar *Warhammer 40,000: Rogue Trader* (1987)
 
 **Kaynaklar:** *Codex: Leagues of Votann — 9th Edition*; *Warhammer 40,000 Core Book — 10th Edition*; *Warhammer 40,000: Rogue Trader — Rick Priestley*
 **Çapraz:** <#1551759789988642876>, <#1551813334993739777>, <#1551759766966116383>, <#1551759780211589197>, <#1551809846066548779>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Primarchs-detail.jpg/revision/latest?cb=20121220221508)

@@ -12,8 +12,6 @@ Bu kanal Legion'ları bir **kurum** olarak ele alır: örgütlenmeleri, recruitm
 
 Legion mevcutlarına dair yayınlarda geçen rakamlar tutarlı değildir. Arşiv bu nedenle Legion büyüklükleri için sayı vermez; yalnızca Legion'ların birbirinden çok farklı ölçeklerde olduğunu ve Heresy döneminde Ultramarines'in en kalabalık Legion'lardan biri olarak anıldığını kaydeder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/29/Aquila.jpg/revision/latest/scale-to-width-down/1000?cb=20120329090509)
-
 ## Kökenler: Primarch'lardan Önce Legion'lar
 Legion'lar, Primarch'lardan önce savaşa girdi. Emperor'un Terra'daki gen-laboratuvarlarında yarattığı yirmi Primarch bebekken Warp'ın müdahalesiyle galaksiye saçılınca, geride onların genetik mirasından türetilen gene-seed kaldı. Bu tohumla yetiştirilen ilk Astartes, Unification Wars'un son safhalarında ve Great Crusade'in ilk yıllarında Emperor'un ve onun atadığı komutanların emrinde savaştı. Kendilerine yol gösterecek babayı tanımadan, yalnızca Legion numaralarıyla ve çoğu zaman sonradan terk edilecek eski adlarla savaştılar.
 

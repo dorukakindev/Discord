@@ -10,8 +10,6 @@ Abaddon'ın hedefi de tam olarak buydu. Gothic War, bir gezegeni ele geçirme se
 
 Tarihleme konusunda dikkat gerekir. Arşivde ve pek çok kaynakta savaş 139–151.M41 aralığıyla verilir; bazı anlatılar ise ana muharebelerin ardından sektörde kalan Chaos, korsan ve Ork kuvvetlerine karşı süren temizlik harekâtını 160.M41'e dek uzatır. Savaşın başında sektörün Warp fırtınalarıyla uzun süre dış dünyadan yalıtıldığı ve takviyelerin gecikmeli ulaştığı aktarılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9e/The_Despoiler_Gothic_War.jpg/revision/latest?cb=20120907172527)
-
 ## Savaşın Seyri: Kalelerin Düşüşü
 Savaş, Imperial ileri karakollarına yönelik dağınık saldırılarla başladı ve kısa sürede sektörün donanma üslerine yönelen büyük bir istilaya dönüştü. Imperial savunmanın başında Lord Admiral **Ravensburg** bulunuyordu; onun filoları sayıca ve zamanlama bakımından çoğu kez dezavantajlı olarak savaştı. Inquisitor **Horst**'un, düşmanın asıl amacının Blackstone Fortress'ler olduğundan erkenden şüphelendiği anlatılır.
 

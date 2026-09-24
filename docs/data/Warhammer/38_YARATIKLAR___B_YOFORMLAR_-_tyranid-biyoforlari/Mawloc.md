@@ -9,5 +9,3 @@ Mawloc, Tyranid sürüsünün öncü-avcısı (outrider) olarak hizmet eden, dev
 Mawloc'un saldırı deseni acımasızdır; ikmal hatlarının, komuta mevkilerinin ya da topçu bataryalarının tam ortasından patlayarak çıkar, geride kalanları kırıp geçirir, sonra karşılık görmeden yine yer altına dalıp kaybolur. Bu "derinlerden gelen dehşet" taktiği, onu bir savunucunun en büyük kâbusu yapar; ne zaman, nereden çıkacağı asla bilinmez.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/43/T5EMawloc.jpg)

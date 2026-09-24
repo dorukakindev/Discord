@@ -11,5 +11,3 @@ Blood Drinkers (Kan İçenler), Blood Angels'ın gen-tohumundan yaratılmış bi
 İsimlerinin aksine, Blood Drinkers tüm chapter'lar arasında en onurlu sayılanlardan biridir; itibarları o kadar lekesizdir ki, dostları da kusursuz üne sahip chapter'lardır: Crimson Fists, Novamarines ve Howling Griffons gibi. Disiplinli, soylu ve güvenilir bir kardeşlik olarak tanınırlar; kana olan açlıklarını sıkı bir öz denetimle dengelerler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/83/Blood_Drinkers_marine.jpg)

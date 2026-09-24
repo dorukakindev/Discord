@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Blood_Ravens_Livery.jpg/revision/latest?cb=20170613000140
+
 -# THE IMPERIAL ARCHIVE · sadik-bolumler-2 · Kayıt
 # Blood Ravens — Gene-lineage bilinmiyor
 

@@ -11,5 +11,3 @@ Legio Crucius, "Warmongers" (Savas Kiskirticilari) olarak bilinen Sadik bir Tita
 Legio Crucius, mantikli Mechanicum arasinda bile plancilar ve ileri-gorusluler olarak anilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5e/Astramos_Mortis_%C3%86ternem.jpg)

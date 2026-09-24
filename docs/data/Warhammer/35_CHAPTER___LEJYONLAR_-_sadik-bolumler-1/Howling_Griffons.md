@@ -11,5 +11,3 @@ Howling Griffons, Ultramarines'in (Guilliman) örnek bir halefidir; sarı ve mor
 En belirgin özellikleri, "Yüksek Yeminler" (High Vows) denen katı onur kurallarıdır; verdikleri sözlere mutlak bir bağlılıkla uyar, onuru her şeyin üstünde tutarlar. Bu, onları güvenilir, ilkeli ve örnek bir chapter yapar; Ultramarines geleneğinin ideal bir devamıdırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/62/HowlingGriffonsFortress.jpg)

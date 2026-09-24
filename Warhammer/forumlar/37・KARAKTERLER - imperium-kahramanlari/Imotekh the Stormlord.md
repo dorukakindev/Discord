@@ -19,5 +19,3 @@ Uyanıştan sonra taht için çekişen taraflardan biri, rakiplerine karşı kul
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*; *Crusade: Pariah Nexus*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551818153271627807>, <#1551809907060113460>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/48/Imotekh_the_Stormlord.png/revision/latest?cb=20150202200103)

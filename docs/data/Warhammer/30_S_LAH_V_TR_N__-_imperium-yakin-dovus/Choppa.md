@@ -19,5 +19,3 @@ Ork Boyz'un yaygın donanımı olan slugga ve choppa ikilisi, WAAAGH!'lerin dü�
 -# Kaynaklar: *Codex: Orks — 10th Edition*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551643990196232303>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/96/Choppa.png/revision/latest?cb=20100505015333)

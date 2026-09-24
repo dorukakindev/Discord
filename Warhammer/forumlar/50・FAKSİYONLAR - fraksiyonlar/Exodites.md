@@ -9,5 +9,3 @@ Exodites (Exodite'ler), Aeldari ırkının en az bilinen ama belki en bilge koll
 Exodite'ler bilinçli bir tercih yaptı; ırklarını mahveden ileri teknolojiyi ve aşırı konforu büyük ölçüde reddettiler. Bunun yerine, doğayla uyumlu, basit, tarımsal ve neredeyse ilkel bir yaşamı benimsediler. Bu sadelik, bir gerileme değil, bilinçli bir hayatta kalma stratejisiydi; aşırılıktan uzaklaşarak, Slaanesh'i besleyen o yıkıcı tutku döngüsünden kurtulmaya çalıştılar. Çoğu zaman dinozor-benzeri büyük yaratıklara binerek savaşırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/ae/Exodites.jpg)

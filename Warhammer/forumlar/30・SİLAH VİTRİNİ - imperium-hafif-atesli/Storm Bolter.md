@@ -11,5 +11,3 @@ Storm Bolter (Fırtına Bolteri), standart bolter'ın ikiz-namlulu, yüksek ate�
 Storm Bolter, özellikle Terminatör zırhlı elit savaşçıların ve komuta kademesinin gözde silahıdır; ağır Terminatör zırhının taşıyabildiği bu silah, kısa ve orta menzilde ezici bir ateş üstünlüğü sağlar. Bir Terminatör mangasının storm bolter yaylım ateşi, bir düşman hattını birkaç saniyede biçebilir. Araçlara ve sabit platformlara da sıkça monte edilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/96/SBDiagram.jpg)

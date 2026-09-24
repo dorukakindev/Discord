@@ -28,5 +28,3 @@ Bu, görkemli bir onurdu; ama aynı zamanda zehirli bir tohumdu. Horus, babasın
 - Horus Lupercal
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/IF_Veteran_Beast_Arises.jpg/revision/latest/scale-to-width-down/573?cb=20160919011906)

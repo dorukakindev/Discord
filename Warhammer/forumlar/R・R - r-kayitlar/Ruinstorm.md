@@ -8,8 +8,6 @@ Kategori: Warp Fenomeni / Horus Heresy Olayı · Fraksiyon: Word Bearers (kaynak
 
 Ruinstorm'un tarihsel önemi, yol açtığı fiziksel yıkımdan çok yarattığı sessizlikten gelir. Fırtınanın içinde kalan sadıklar yıllarca Terra'dan haber alamadı; Emperor'un yaşayıp yaşamadığını, Throneworld'ün ayakta olup olmadığını bilmeden karar vermek zorunda kaldılar. Roboute Guilliman'ın Imperium Secundus'u kurması, bu sessizliğin doğrudan sonucudur. Bu anlamda Ruinstorm, Heresy'nin en etkili silahlarından biriydi: sadık kuvvetleri yenmeden savaşın dışına iten bir karanlık.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/36/Waves_of_the_Warp.jpg/revision/latest/scale-to-width-down/1000?cb=20160211182552)
-
 Bu kanal fırtınanın doğasını ve sonuçlarını merkeze alır. Onu doğuran sefer için shadow-crusade, açılış baskını için <#1551811689790312569>, fırtınanın içinde yol gösteren xenos işaret aygıtı için <#1551818326936649812>, kurulan yedek imparatorluk için <#1551815573459968000> kanalına bakılmalıdır. Warp fırtınalarının genel doğası <#1551809666454134928> kanalında işlenir.
 ---MSG---
 ## Doğuş: Calth'ın Ayinleri ve Seferin Kurbanları

@@ -19,5 +19,3 @@ T'au'nun hareketli, koordineli savaş anlayışı içinde Piranha'lar, Pathfinde
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/10/Piranha_dex.JPG/revision/latest?cb=20121103010708)

@@ -19,5 +19,3 @@ Vandire döneminde Ecclesiarchy'nin kendi ordusu Frateris Templars, Imperium'un 
 -# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
 
 -# İlişkili kayıtlar: <#1551651549804236801>, <#1551810771472883713>, <#1551753444308811807>, <#1551753458779029565>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/85/Frateris_Militia.jpg/revision/latest?cb=20120717001116)

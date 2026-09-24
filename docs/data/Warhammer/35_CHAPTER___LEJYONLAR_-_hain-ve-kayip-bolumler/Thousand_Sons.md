@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/81/Thousand_Sons_Post-Heresy_Armorial.png/revision/latest?cb=20210415205803
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/81/Thousand_Sons_Post-Heresy_Armorial.png/revision/latest?cb=20210415205803)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Thousand Sons — Bin Oğul (XV. Lejyon)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/da/Armour_of_Shrieking_Souls.jpg/revision/latest?cb=20130830210624
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Lucius the Eternal — Emperor's Children
 

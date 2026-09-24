@@ -13,8 +13,6 @@ Bu özgürlüğün bir bedeli vardır. Aeldari'nin yoğun duyguları, onları yo
 
 **Kanal sınırı.** Path of the Outcast'in craftworld içindeki yeri <#1551812290439942255>, Drukhari kökeni <#1551813105166712966>, türün genel çerçevesi <#1551810506078290021> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/22/Ranger%27s_Rune.png/revision/latest?cb=20150511062032)
-
 ## Filolar, Void Dreamer'lar ve Savaş Tarzı
 
 **Örgütlenme.** Corsair toplulukları genellikle bir **prens** ya da prensesin çevresinde toplanan filolar ve daha küçük çeteler hâlinde yaşar; güncel yayınlar bu küçük toplulukları *coterie* adıyla da anar. Önderlik doğuştan değil başarıdan, zenginlikten ve karizmadan doğar; bir prensin otoritesi, ancak mürettebatına ganimet ve şan getirebildiği sürece yaşar. Voidreaver takımlarının önderleri **Felarch** unvanıyla anılır. Uzun yıllar boşlukta dolaşmış, bedeni ve zihni bu yaşamın izlerini taşıyan kıdemli korsanlar ise **Voidscarred** olarak bilinir.

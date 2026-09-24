@@ -10,8 +10,6 @@ En yaygın açıklama, **Fire Hawks** Chapter'ına dayanır. Kaynaklara göre bu
 
 Bu açıklama güçlüdür ama eksiktir. Legion'ın göründüğüne dair kayıtlar 963.M41'den öncesine de uzanır; bu, ya Imperial tarih kayıtlarının Warp ve zaman karmaşası yüzünden bozulduğunu ya da Legion'ın yalnızca Fire Hawks'tan ibaret olmadığını düşündürür. Kaynaklar iki olasılıktan birini kesinleştirmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/LoD_SP.png/revision/latest?cb=20170626004908)
-
 ## Teoriler ve Kayıtlı Müdahaleler
 Imperial bilginler ve Inquisitor'lar Legion'ın doğası hakkında birbiriyle çelişen yorumlar ileri sürmüştür: Warp'ın içinde lanetlenmiş ve ebediyen yanan savaşçılar; ölen Space Marine'lerin, düşmana duydukları nefretin ölümü aştığı hayaletleri; insanlığın umutsuzluk anlarındaki ortak psişik iradesinin biçim kazanmış hâli; hatta Emperor'ın iradesinin, daemon'ların Chaos God'lara hizmet ettiği gibi ona hizmet eden kıymıkları. Bu yorumların hepsi evren-içi iddiadır. Legion'ın gerçekte ne olduğu yayımlanmış kanonda kasıtlı olarak açıklanmamıştır.
 

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/45/Roboute_Guilliman_Avenging_Son.png/revision/latest/scale-to-width-down/735?cb=20160919055552
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/45/Roboute_Guilliman_Avenging_Son.png/revision/latest/scale-to-width-down/735?cb=20160919055552)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Roboute Guilliman — Avenging Son / İmparatorluk Naibi

@@ -10,8 +10,6 @@ Skitarii'nin ayırt edici özelliği bağımsız savaşan birer asker olmaktan �
 
 Mechanicus'un askerî gücü yalnızca Skitarii'den ibaret değildir. Kastelan robotları, Kataphron servitor'ları ve Electro-Priest'ler **Cult Mechanicus**'a, Titan'lar **Collegia Titanica**'ya aittir. Kurumun bütünü <#1551753449878724689>, Titan kolu titan-legions kanalında işlenir; bu madde Skitarii lejyonlarını merkeze alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b8/MechanicusSkitarii.jpg/revision/latest?cb=20121008114038)
-
 ## Yapı ve Kollar
 Her büyük forge world kendi Skitarii lejyonlarını besler. Kaynaklar bu lejyonları **cohort** ve **maniple** gibi birimlere ayrılmış olarak anlatır; bir maniple'ı sahada genellikle **Alpha** unvanlı bir lider yönetir, lejyonların daha yüksek komutası ise bir Tech-Priest'e, çoğunlukla bir Magos Dominus'a ya da Skitarii Marshal'a bağlıdır. Lejyonların mevcudu için kaynaklarda genel geçer bir rakam verilmez.
 

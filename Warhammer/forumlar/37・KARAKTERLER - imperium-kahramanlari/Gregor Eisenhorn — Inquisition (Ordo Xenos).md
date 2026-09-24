@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Gregor_Eisenhorn.jpg/revision/latest?cb=20100810074115
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Gregor Eisenhorn — Inquisition (Ordo Xenos)
 

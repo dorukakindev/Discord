@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c3/No_Peace_Amongst_the_Stars_-_Warhammer_40%2C000_Official_Cinematic_Trailer/revision/latest?cb=20260612164709
+
 -# THE IMPERIAL ARCHIVE · Kaos Tanrilari · Kayıt
 # Emperor of Mankind (Imperial Cult perspektifi)
 

@@ -11,8 +11,6 @@ Bu kanal dünyanın doğasını, the Fang'i ve Fenris'e yönelen büyük saldır
 ## Buz, Deniz ve Ateş
 Fenris'in yüzeyinin büyük bölümü, fırtınaların dövdüğü okyanuslar ve buz tabakalarıyla kaplıdır. Kaynaklar, gezegenin güneşine yaklaşıp uzaklaştığı döngüye bağlı sert mevsimlerden söz eder: uzun ve öldürücü kışların ardından gelen sıcak dönemde buzlar çözülür, volkanlar uyanır ve pek çok ada kütlesi yeniden okyanusa gömülür. Bu yüzden Fenris'in insanları çoğunlukla göçebe denizciler, adadan adaya savrulan kabileler ve kısa ömürlü krallıklar hâlinde yaşar. Yörünge ve mevsim ayrıntıları kaynaklar arasında aynı biçimde verilmez.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/48/Fenris_updated.png/revision/latest?cb=20140810043624)
-
 Bu değişken dünyada kalıcı bir istisna vardır: **Asaheim**. Mevsimlerin gömemediği bu dağlık kara parçası, Chapter'ın kalesi the Fang'e ev sahipliği yapar. Fenris'in canlıları da dünyası kadar acımasızdır: sagaların merkezindeki dev **Fenrisian wolf**'lar ve denizlerin devasa yaratıkları sıkça anılır; Thunderwolf binicileri ve savaşçılara eşlik eden kurtlar, bu vahşi doğanın Chapter'ın savaş kültürüne girmiş yüzüdür.
 
 ## Kabileler ve Sagalar

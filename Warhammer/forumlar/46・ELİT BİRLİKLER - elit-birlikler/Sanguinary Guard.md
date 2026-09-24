@@ -19,5 +19,3 @@ Legion çağında Primarch'ın yanında savaşan Sanguinary Guard, Siege of Terr
 -# Kaynaklar: *Codex Supplement: Blood Angels — 10th Edition*; *Fear to Tread — James Swallow*; *Echoes of Eternity — Aaron Dembski-Bowden*; *Dante — Guy Haley*
 
 -# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809039342501970>, <#1551808888666587197>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Sanguinary_Guard.jpg/revision/latest/scale-to-width-down/756?cb=20250623043802)

@@ -23,6 +23,4 @@ Implant edilen gene-seed organları; power armour; bolter ailesi silahlar; Codex
 
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*; *Dark Imperium — Guy Haley*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Adeptus_Astartes_Icon.jpg/revision/latest?cb=20190630130730)
-
 -# İlişkili kayıtlar: <#1551753431230971988>, <#1551808888666587197>, <#1551818213782716427>, <#1551818097504157699>

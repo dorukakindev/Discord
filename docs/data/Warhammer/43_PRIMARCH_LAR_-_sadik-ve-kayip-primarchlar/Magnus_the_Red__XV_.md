@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Magnus-1.jpg/revision/latest?cb=20161205070527
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Magnus the Red (XV)
 

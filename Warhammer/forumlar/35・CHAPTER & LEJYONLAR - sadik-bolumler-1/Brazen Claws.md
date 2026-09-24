@@ -11,5 +11,3 @@ Brazen Claws (Tunç Pençeler), Iron Hands'in (Ferrus Manus) İkinci Kuruluş ha
 Lacivert ve kırmızı çeyrekli (quartered) zırhlarıyla bilinen chapter, bir zamanlar Talus IV gezegeninden geliyordu. Ama 955.M41'de bir Kaos / iblis istilası anavatanlarını harap etti; Brazen Claws gezegenlerini terk etmek zorunda kaldı ve o günden beri filo-temelli, gezici bir chapter haline geldi. Yurtlarının yitirilişi, onların kolektif belleğine derin bir öfke ve intikam tohumu ekti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3f/BrazenClaws.jpg)

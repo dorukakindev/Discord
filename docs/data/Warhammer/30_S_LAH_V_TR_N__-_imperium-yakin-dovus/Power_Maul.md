@@ -14,5 +14,3 @@ Power Maul, güç alanını kaba kuvvetle birleştirir: her darbe, şok dalgası
 ## Teknik ve Kullanım
 Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f8/HorusHeresyMeridiaPatternPowerMaul.jpg/revision/latest?cb=20190222000225)

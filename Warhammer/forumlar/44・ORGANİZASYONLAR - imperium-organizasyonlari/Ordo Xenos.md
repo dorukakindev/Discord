@@ -9,5 +9,3 @@ Ordo Xenos (Xeno Tarikatı), Engizisyon'un yabancı türlere (xenos) karşı sav
 Bu kolun üyeleri, düşmanı yenmek için onu tanımak zorundadır; bu yüzden bazı Ordo Xenos Inquisitor'ları, yasak xeno teknolojisini, dillerini ve hatta bazen geçici xeno müttefiklerini kullanmaktan çekinmez. Bu pragmatizm, onları Puritan meslektaşlarıyla çatışmaya sokabilir; düşmanın silahını kullanmak, kişiyi düşmana benzetir mi?
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/56/Ordo_Xenos_Inquisitor.jpg)

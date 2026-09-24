@@ -10,8 +10,6 @@ Tarikatın bütün varlığı, Imperium'un en derin korkularından biriyle sın�
 
 Bu madde tarikatı ve robotlarını merkeze alır. Heresy dönemi Mechanicum'unun bütün Taghmata yapısı mechanicum-30k, düşünen makinelerin tarihi <#1551757340905181286>, servitor'lar servitors, Skitarii lejyonları ise <#1551809095655493743> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Castellan.jpg/revision/latest?cb=20120105054009)
-
 ## Heresy Çağı: Taghmata'nın Metal Omurgası
 Legio Cybernetica'nın en ayrıntılı portresi, Forge World'ün Horus Heresy yayınlarında çizilir. Bu kaynaklarda tarikat, Mechanicum'un Taghmata adı verilen askerî güçlerinin temel unsurlarından biri olarak görünür ve Great Crusade boyunca sefer ordularının yanında dünyadan dünyaya taşınır. Crusade'in sayısız savaşında insan askerlerin yetersiz kaldığı ya da fazla değerli görüldüğü yerde, battle-automata maniple'ları siperlere yürüdü.
 

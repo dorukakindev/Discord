@@ -33,8 +33,6 @@ Night Lords, **Konrad Curze**'nin genetik materyalinden yaratıldı. Curze, **No
 
 #### Nostramo
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900)
-
 **Nostramo**, Night Lords'ın ana gezegeniydi. Işıksız, sürekli gece olan bir dünya. Curze, Nostramo'yu bir suç cehenneminden düzenli bir topluma dönüştürdü — ama bunu yapmak için sürekli terör uyguladı.
 
 #### Korku Savaşı

@@ -9,5 +9,3 @@ Karanlık Teknoloji Çağı'ndan kalma ısı-ışını ağır silahı; kurbanın
 ## Teknik ve Kullanım
 Volkite ('thermal ray') silahları hedefi radyant ısı ışınıyla içten tutuşturur — isabet eden beden alev alarak yanar. Büyük Haçlı Seferi'nin efsanevi silahıdır; üretim tekniği Horus Heresi'nde kaybolduğu için bugün kalan örnekleri kutsal kalıntıdır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f6/VolkiteCul2.jpg)

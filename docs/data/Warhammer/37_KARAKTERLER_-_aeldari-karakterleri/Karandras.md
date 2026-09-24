@@ -11,5 +11,3 @@ Karandras, "Gölge Avcısı" (the Shadow Hunter) olarak anılan, Striking Scorpi
 Arhra, Asur Tapınağı'nda Asurmen'in ilk öğrencilerindendi; ama karanlığa, büyük olasılıkla Slaanesh'in etkisine kapıldı ve Düşmüş Phoenix oldu. Tapınağı içeriden yıktığına ve yozlaşmış halinin bugün Drukhari şehri Commorragh'taki Incubi savaşçı kültünün efendisi olarak sürdüğüne inanılır. Karandras, Arhra'nın en büyük öğrencisiydi; ustasının düşüşünden sonra mezhebin denetimini aldı ve onu içeriden yeniden inşa etti. Aslen, Düşüş'ten kısa süre sonra yok olan küçük bir craftworld'ün Exarch'ı olduğu sanılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c4/Karandras6.jpg)

@@ -10,8 +10,6 @@ Navigator Houses, Imperium'dan çok daha eskidir. Kökenlerinin Dark Age of Tech
 
 Emperor'un yükselişiyle birlikte Houses, Imperium'a katılmanın karşılığında geniş ayrıcalıklar ve Warp yolculuğu üzerinde fiilî bir tekel elde etti. Kısa ve tehlikeli sıçramalarla sınırlı kalan Navigator yeteneği, Terra'dan yayılan **Astronomican**'ın ışığıyla galaksinin uzak köşelerine ulaşabilen bir güce dönüştü. Great Crusade, bu ittifak olmadan düşünülemezdi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/69/Navis_Nobilite_Icon.jpg/revision/latest?cb=20140526093722)
-
 ## Biyoloji: Warp Gözü
 Bir Navigator'ı sıradan insandan ayıran şey alnındaki üçüncü göz, yani **warp eye**'dır. Bu göz maddi dünyayı değil Immaterium'u görür; Navigator onunla Warp'ın akıntılarını okur ve Astronomican'ın ışığını seçer. Göz çoğunlukla bir bant, başlık ya da süslü bir örtüyle kapalı tutulur, çünkü doğrudan bakışının sıradan bir insanı öldürebildiği anlatılır. Pek çok kaynakta Navigator'ların bu bakışı hem kendini koruma aracı hem de korku salan bir ün olarak kullandığı görülür.
 

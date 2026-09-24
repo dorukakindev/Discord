@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/3/33/Brontonian_Longknives_trooper.jpg/revision/latest/scale-to-width-down/398?cb=20130531221142
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/33/Brontonian_Longknives_trooper.jpg/revision/latest/scale-to-width-down/398?cb=20130531221142)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Brontian Longknives — Bront Uzunbıçakları

@@ -8,8 +8,6 @@ Kategori: Savaş / Kuşatma · Fraksiyon: Imperium of Man (Death Korps of Krieg)
 
 Vraks'ın önemi, gezegenin kendisinden değil yeraltındaki depolarından gelir. Armoury world olarak dünya, çevre sektörlerde savaşan Imperial kuvvetlere silah, mühimmat ve teçhizat dağıtan büyük bir ikmal düğümüydü. Aynı zamanda Ecclesiarchy'nin güçlü biçimde yerleştiği, bir Cardinal'in yönetimine bırakılmış bir dünyaydı. Bu iki özellik birleşince, isyan eden bir din adamı yalnızca bir gezegeni değil, koca bir ordunun ömrü boyunca tüketebileceği bir cephaneliği de ele geçirmiş oldu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/96/Vraks_System.jpg/revision/latest/scale-to-width-down/1000?cb=20150324095302)
-
 Savaşın arşivdeki ağırlığı bir başka nedenden de kaynaklanır: Vraks, **Death Korps of Krieg**'in amansız yıpratma doktrininin en tanınmış sahnesidir. Siperlerin, topçu barajlarının ve yıllara yayılan metre metre ilerleyişin savaşı olan Vraks, Imperium'un insan hayatını bir kaynak kalemi gibi harcayarak zafer satın alma anlayışının en çıplak örneklerinden biri olarak okunur.
 ---MSG---
 ## Kökenler: Apostate Cardinal
@@ -60,5 +58,3 @@ Siege of Vraks, Forge World'ün *Imperial Armour* serisinde üç cilt hâlinde y
 
 **Kaynaklar:** *Imperial Armour Volume Five: The Siege of Vraks – Part One*; *Imperial Armour Volume Six: The Siege of Vraks – Part Two*; *Imperial Armour Volume Seven: The Siege of Vraks – Part Three*; *Codex: Astra Militarum*
 **Çapraz:** <#1551753458779029565>, <#1551651549804236801>, <#1551640215154597919>, <#1551636477090467942>, <#1551813077991686208>, <#1551641477501947995>, <#1551815304252887041>, segmentum-obscurus
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Hydra_Cordatus.jpg/revision/latest?cb=20111106074708)

@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Damocles Gulf Crusade (yönlendirme kaydı)
 
-Imperium'un T'au Empire'la ilk büyük askerî çatışması. Tam madde <#1551741251945238629> kanalındadır.
+Imperium'un T'au Empire'la ilk büyük askerî çatışması. Tam madde <#1551813361887617108> kanalındadır.
 
 - **Kategori:** Sefer — <#1551629180972572742>
 - **Fraksiyon:** Imperium of Man ile T'au Empire
@@ -18,4 +18,4 @@ Crusade filosu Gulf'u geçip ilk çarpışmalarda üstünlük sağladı, ancak D
 
 -# Kaynaklar: *Codex: Tau*; *Star of Damocles — Andy Hoare*
 
--# İlişkili kayıtlar: <#1551741251945238629>, <#1551588056967159920>, <#1551742227967901717>
+-# İlişkili kayıtlar: <#1551813361887617108>, <#1551809146850910260>, <#1551809334483361823>

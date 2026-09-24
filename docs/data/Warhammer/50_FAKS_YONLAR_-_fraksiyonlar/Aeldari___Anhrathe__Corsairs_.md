@@ -18,4 +18,4 @@ Corsair prensliklerinin çoğu, tek bir liderin çevresinde toplanan kısa ömü
 
 -# Kaynaklar: *Imperial Armour Volume Eleven: The Doom of Mymeara*; *Path of the Outcast — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551740901133520896>, <#1551587928025600012>, <#1551714833236496445>, <#1551587949450371253>
+-# İlişkili kayıtlar: <#1551810727445004339>, <#1551997822725922938>, <#1551812290439942255>, <#1551997841356881980>

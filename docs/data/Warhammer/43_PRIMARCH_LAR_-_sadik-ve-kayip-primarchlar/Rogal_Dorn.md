@@ -9,5 +9,3 @@ Rogal Dorn, buzlu Inwit dünyasının zorlu kabile imparatorluğunda büyüdü; 
 Dorn savunma ve tahkimatın dehasıydı; bu, onu kuşatma ustası Perturabo'nun ebedi ve trajik zıttı yaptı. İkisi birbirine hem hayranlık hem nefret besledi, çünkü biri yıkmak diğeri korumak için yaratılmış gibiydi. Dorn'un dürüstlüğü efsaneviydi: bir keresinde İmparator'a savunma planlarını eleştirdiği için neredeyse cezalandırılacaktı, ama doğru bildiğini söylemekten asla çekinmedi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/ff/DornYoung.jpg)

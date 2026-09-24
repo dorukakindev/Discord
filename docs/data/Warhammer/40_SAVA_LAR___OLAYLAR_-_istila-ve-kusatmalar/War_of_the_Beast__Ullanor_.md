@@ -9,5 +9,3 @@ Ullanor Zaferi (Ullanor Seferi), Büyük Haçlı Sefer'in en görkemli ve en sem
 Ullanor, galaksinin gördüğü en büyük Ork imparatorluklarından biriydi; onu ezmek, İmparator'un ordularının gücünü ve birliğini kanıtlayan büyük bir başarı oldu. Horus, bu seferde olağanüstü bir liderlik sergiledi ve zaferin baş mimarı oldu. Zaferin ardından düzenlenen büyük tören (Triumph of Ullanor), insanlığın altın çağının doruğunu simgeledi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/04/Koorland.jpg)

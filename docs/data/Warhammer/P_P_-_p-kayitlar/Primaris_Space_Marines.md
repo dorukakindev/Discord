@@ -10,8 +10,6 @@ Primaris'lerin gelişiyle birlikte eski kuşak için yeni bir ad yerleşti: **Fi
 
 Bu kanal Primaris'i bir kuşak ve bir proje olarak ele alır: kökeni, biyolojisi, dağıtımı, Rubicon Primaris ve eski Chapter'larla yaşanan gerilim. Astartes kurumunun genel yapısı ve on dokuz klasik organ **kayıt** kanalında, projenin mimarı Cawl'ın kişisel hikâyesi ise **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Black_Dragons_Primaris_Intercessor.jpg/revision/latest/scale-to-width-down/698?cb=20170719174211)
-
 ## Köken: Guilliman'ın Emri ve Sangprimus Portum
 Horus Heresy'nin ardından Guilliman, Legion'ları bölen Codex Astartes'in Imperium'u bir sonraki felakete karşı yeterince korumayabileceğini öngörerek uzun vadeli bir sigorta kurdu. Kaynaklara göre Cawl'dan yeni bir Astartes kuşağı yaratmasını istedi; bu iş için Cawl'a, Primarch'ların genetik mirasını taşıyan **Sangprimus Portum** adlı emanet ulaştırıldı. Emanetin Cawl'a tam olarak kimin eliyle geçtiği yayınlarda aynı netlikle anlatılmaz. İçindeki genetik materyalin, binyıllar boyunca kopyalanıp yıpranan Chapter gene-seed'inden daha saf olduğu anlatılır; Primaris'lerin iri yapısı ve üstünlüğü de kısmen buna bağlanır.
 

@@ -22,5 +22,3 @@ Fatidicus adı, kuruluşun tarihleri ve tapınak ile Ministorum arasındaki kuru
 -# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
 
 -# İlişkili kayıtlar: <#1551651549804236801>, <#1551815272074055681>, <#1551813713403580438>, <#1551809168032268310>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Ministorum1.jpg/revision/latest?cb=20121025151220)

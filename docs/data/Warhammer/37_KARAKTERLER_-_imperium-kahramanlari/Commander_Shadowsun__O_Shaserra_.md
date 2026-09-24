@@ -19,5 +19,3 @@ Damocles bölgesindeki 7th Edition campaign anlatılarında Agrellan'da Imperial
 -# Kaynaklar: *Shadowsun: The Last of Kiru's Line — Justin D. Hill*; *War Zone Damocles: Kauyon*; *Psychic Awakening: The Greater Good*; *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>, <#1551813361887617108>
-
-![gorsel](https://vignette.wikia.nocookie.net/warhammer40k/images/f/f0/Commander_Shadowsun_Helmetless_Model.jpg/revision/latest?cb=20180216194450)

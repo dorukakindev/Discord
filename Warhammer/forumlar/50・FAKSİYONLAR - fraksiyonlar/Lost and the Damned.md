@@ -22,5 +22,3 @@ Heresy'de Imperial Army'nin önemli bir bölümü Warmaster'ın safına geçti. 
 -# Kaynaklar: *Realm of Chaos: The Lost and the Damned*; *Imperial Armour Volume Five: The Siege of Vraks – Part One*; *Codex: Chaos Space Marines*
 
 -# İlişkili kayıtlar: <#1551812325521100811>, <#1551812165172994160>, <#1551753458779029565>, <#1551811393680838699>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7e/Brotherhood_of_the_Knife.jpg/revision/latest?cb=20120211084442)

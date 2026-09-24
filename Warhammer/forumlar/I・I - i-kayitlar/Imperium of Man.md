@@ -12,16 +12,12 @@ Imperium'u ayakta tutan şey tek bir ordu ya da tek bir inanç değil, birbirine
 
 Bu kanal Imperium'u bir devlet olarak ele alır: siyasi yapısını, coğrafi örgütlenmesini, ekonomisini, kurumlar arası çekişmeyi ve Great Rift sonrası dönüşümünü. Tekil kurumların ayrıntısı kendi kanallarındadır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/fa/40k-107-birth-of-the-imperium.jpg)
-
 ## Kökenler: Unification'dan Great Crusade'e
 Imperium'un temelleri, Age of Strife'ın kaosu içinde parçalanmış Terra'nın Emperor tarafından Unification Wars ile birleştirilmesine dayanır. Kabile savaş beylerini ve teknobarbar krallıkları birer birer boyun eğdiren Emperor, ardından Mars ile ittifak kurarak Adeptus Mechanicus'un atası olan Mechanicum'un sanayi gücünü kendi seferine bağladı. Kaynaklarda Treaty of Olympus olarak anılan bu anlaşma, Imperium'un iki başlı yapısının, yani Terra ile Mars arasındaki yarı eşit ortaklığın da tohumudur.
 
 Great Crusade, M30'un sonlarında başlayarak insan yerleşimlerini yeniden tek bir otoritenin altında toplamayı amaçladı. Imperial Army'nin sayısız alayı, Space Marine Legion'ları ve bulunan Primarch'lar, Age of Strife boyunca kopmuş dünyaları ya ikna ederek ya da zorla bu yeni düzene kattı. Seferin ideolojisi Imperial Truth idi: dinin ve batıl inancın reddine, aklın ve insanlığın galaksideki meşru hükümranlığına dayanan seküler bir öğreti. Dünyalar fethedildikçe yerlerine valiler atanıyor, vergi yükümlülükleri tanımlanıyor ve Terra'daki yönetim aygıtı büyüyordu.
 
 Emperor seferden çekilip Terra'ya döndüğünde, Horus Warmaster ilan edildi; Terra'nın yönetimi ise Malcador the Sigillite'ın önderliğindeki Council of Terra'ya kaldı. Bu dönemde imparatorluk, kâğıt üzerinde zafer ilan ederken iç çelişkilerini de biriktiriyordu: Legion'ların sivil otoriteye tabi kılınması, Primarch'ların birbirine karşı kıskançlıkları ve yeni kurulan bürokrasinin askerî komutanlarla gerilimi, yaklaşan felaketin zeminini hazırladı.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/3f/IoMhighres.png/revision/latest/scale-to-width-down/1000?cb=20190630130844)
 
 ## Horus Heresy ve Yeni Düzenin Kuruluşu
 Horus'un isyanı Imperium'u ikiye böldü ve dokuz Legion'ın Chaos safına geçtiği iç savaş, Siege of Terra ile doruğa ulaştı. Emperor, Horus'u Vengeful Spirit'in güvertesinde öldürdü; fakat kendisi de öylesine ağır yaralandı ki ancak Golden Throne'un yaşam destek düzeneğine bağlanarak varlığını sürdürebildi. O günden sonra Imperium'un hükümdarı hem mevcut hem de yoktu.

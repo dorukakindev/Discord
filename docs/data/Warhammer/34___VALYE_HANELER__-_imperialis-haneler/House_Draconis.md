@@ -11,5 +11,3 @@ House Draconis (Draconis Hanedanı), şövalye dünyası Adrastapol'ün önde ge
 Imperial Knight dünyaları, çoğu zaman birden çok hanenin (kimi büyük, kimi küçük) bir arada yaşadığı feodal toplumlardır; bu hanelerden biri genellikle baş hane olarak diğerlerine önderlik eder. Adrastapol'de bu rol, House Draconis'e aittir; gezegenin kralları onların soyundan gelir ve diğer haneler onların liderliği altında birleşir. Bu liderlik, hem bir onur hem de ağır bir sorumluluktur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d3/KingsbladeNovel.jpg)

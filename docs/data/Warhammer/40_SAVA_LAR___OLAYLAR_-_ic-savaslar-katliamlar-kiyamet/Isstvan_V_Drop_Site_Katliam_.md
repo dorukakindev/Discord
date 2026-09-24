@@ -9,5 +9,3 @@ Isstvan V Drop Site Katliamı, Horus Heresy'nin en kanlı ve en yıkıcı pusula
 Ama bu yedi lejyonun gizli bir kusuru vardı: yalnızca üçü (Iron Hands, Salamanders, Raven Guard) gerçekten sadıktı; diğer dördü (Alpha Legion, Night Lords, Iron Warriors, Word Bearers) gizliden Horus'un tarafındaydı. Plan, ilk dalga olan üç sadık lejyonun Horus'un güçleriyle savaşa girmesi, sonra "destek" olarak gelen dört hain lejyonun onları arkadan vurmasıydı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e4/Urgall_Depression_Aftermath.png/revision/latest/scale-to-width-down/1000?cb=20140415173824)

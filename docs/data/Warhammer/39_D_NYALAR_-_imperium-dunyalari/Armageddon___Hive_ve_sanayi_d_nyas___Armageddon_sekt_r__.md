@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Armageddon — Hive ve sanayi dünyası (Armageddon sektörü)
 
-Fabrika dumanıyla kararmış gökyüzü, kül çölleri ve dev hive kentleriyle bilinen, M41 boyunca üç büyük savaşa sahne olmuş dünya. Adı Imperial bilinçte artık bir gezegenden çok süregiden bir cepheyi anlatır; ayrıntılı madde <#1551741076996628492> kanalındadır.
+Fabrika dumanıyla kararmış gökyüzü, kül çölleri ve dev hive kentleriyle bilinen, M41 boyunca üç büyük savaşa sahne olmuş dünya. Adı Imperial bilinçte artık bir gezegenden çok süregiden bir cepheyi anlatır; ayrıntılı madde <#1551643990196232303> kanalındadır.
 
 - **Kategori:** Dünya — çekişmeli hive world, yönlendirme kaydı — <#1551629176136663150>
 - **Fraksiyon:** Imperium of Man; Orks; Chaos (tarihsel)

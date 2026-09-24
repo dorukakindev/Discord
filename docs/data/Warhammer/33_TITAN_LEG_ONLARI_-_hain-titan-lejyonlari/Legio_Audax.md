@@ -11,5 +11,3 @@ Legio Audax, "Ember Wolves" (Kor Kurtlari) olarak bilinen, Isstvan III Savasi si
 Cok sayida Warhound Kesif Titani sahaya surer, onlari kendilerinden cok daha buyuk dusman makinelerini taciz edip alasagi etmekte dehset verici olcude etkili hizli av sureleri olarak kullanirlardi. Ursus Claw, baslangicta World Eaters Lejyonu'nun bosluk gemilerinde kullanilmak uzere tasarlanmis bir silahti; XII.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/28/LegioAudaxWarhound.jpg)

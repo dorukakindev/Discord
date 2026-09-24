@@ -10,8 +10,6 @@ Zırhlarını, mavi ile kemik renginin bölündüğü dörtlü bir desen kaplar.
 
 Bu kanal Novamarines'i bir Ultramarines successor'ı olarak ele alır: yurtları Honourum'u, kuruluş anlatılarını, Badab War'daki rollerini ve Great Rift sonrasında Ultramar'ı savunurken ödedikleri ağır bedeli. Ata Chapter'ın genel tarihi **kayıt**, soyun ortak şablonu ise **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/09/NovamarinesBadge.jpg/revision/latest?cb=20260109163845)
-
 ## Kökenler ve Honourum
 Novamarines'in soyu, Heresy'nin ardından Guilliman'ın Codex Astartes'i dayatmasıyla başlar. Ultramarines, Legion'ların Chapter'lara bölünmesi kuralına ilk uyanlardandı ve bu bölünmeden pek çok successor doğdu; Novamarines de Second Founding'le anılan bu Chapter'lar arasındadır. Anlatılara göre ilk Chapter Master, Horus Heresy'deki yiğitliğiyle anılan Ultramarines Captain'ı Lucretius Corvo'ydu.
 

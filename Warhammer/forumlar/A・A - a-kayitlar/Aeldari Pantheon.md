@@ -11,8 +11,6 @@ Bu kanalın temel ilkesi, **mit ile olgu** arasındaki ayrımdır. Aeldari mitle
 
 **Adlandırma notu.** Savaş tanrısının adı yayınlarda hem *Khaela Mensha Khaine* hem *Kaela Mensha Khaine* biçiminde geçer; ad mitte "Bloody-Handed" (Kanlı Elli) lakabıyla ilişkilendirilir. Arşiv iki yazımı da aynı tanrı için kabul eder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ea/Bloody-Handed_God.jpg/revision/latest/scale-to-width-down/599?cb=20110927145831)
-
 **Kanal sınırı.** Türün genel tarihi <#1551810506078290021>, tanrıları yutan felaket <#1551814105046851615>, Ynnead'in ayrıntılı ele alınışı <#1551742665756901377>, Cegorach'ın hizmetkârları <#1551655326716133498> kanalındadır.
 
 ## Asuryan'ın Kararı ve Isha'nın Gözyaşları

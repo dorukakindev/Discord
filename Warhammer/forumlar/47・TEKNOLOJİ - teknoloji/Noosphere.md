@@ -22,5 +22,3 @@ Horus Heresy'nin başında Schism of Mars sırasında yayılan scrapcode gibi ve
 -# Kaynaklar: *Codex: Adeptus Mechanicus — 10th Edition*; *Mechanicum — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551753449878724689>, <#1551809095655493743>, <#1551816635839549491>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c4/Adeptus_Mechanicus_Icon.jpeg/revision/latest?cb=20180905094036)

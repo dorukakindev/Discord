@@ -19,5 +19,3 @@ Votann, galaksinin çekirdeğine yakın kaynak zengini bölgelerden gelip Imperi
 -# Kaynaklar: *Codex: Leagues of Votann*
 
 -# İlişkili kayıtlar: <#1551759789988642876>, **Squats**
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b5/ThurianHekatonLandFortressMini.jpg/revision/latest/scale-to-width-down/1000?cb=20230217202246)

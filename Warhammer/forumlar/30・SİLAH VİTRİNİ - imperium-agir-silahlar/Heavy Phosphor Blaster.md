@@ -7,4 +7,6 @@ Mechanicus'un fosfeks silahı; yakıcı fosfor yükü hem hedefi yakar hem de on
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/01/Heavy_Phosphor_Blaster_%28on_the_Onager%29.jpg)
+## Teknik ve Kullanım
+
+Onager Dunecrawler ve Serberys Raider'ların fosfor silahı; parlayan beyaz fosfor mermilerini yüksek hızda atar ve hedefi hem yakar hem işaretler. Fosfor yanarken duman çıkarır ve bölgeyi görünür kılar — vurulan hedef arkasındaki birlikler için de 'işaretli' kalır. Skitarii'nin kombine silah doktrininin parçasıdır: aydınlat, işaretle, imha et.

@@ -12,8 +12,6 @@ Lelith'in siyasi ağırlığı da bu popülerlikten doğar. Kaynaklarda **Crucib
 
 **Kanal sınırı.** Wych Cult'ların genel yapısı <#1551813105166712966>, arenaların şehir içindeki yeri <#1551645291873050666>, Vect'in hükümranlığı <#1551640169881534505> kanalında işlenir. Burada merkezde Lelith'in kişiliği ve ilişkileri durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/93/443px-Lelith.png/revision/latest?cb=20141009020055)
-
 ## Arena, Üslup ve Cult of Strife
 Wych'ler arenada hız, çeviklik ve gösterişle dövüşür; Drukhari savaş sanatı kaba kuvvetten çok ritme, zamanlamaya ve rakibin acısını uzatma ustalığına dayanır. Lelith bu geleneğin zirvesi olarak tasvir edilir. En bilinen özelliği zırha duyduğu küçümsemedir: kaynaklara göre neredeyse hiç koruma taşımadan dövüşür, çünkü onun gözünde bir darbeyi zırhla karşılamak, ondan kaçamamayı itiraf etmektir. Hafif bıçaklarla savaştığı anlatılır; ustalığı ise kendi bedenini bir silah gibi kullanabilmesinde yatar.
 

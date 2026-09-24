@@ -10,8 +10,6 @@ Chapter'ın en dikkat çekici yanı, bu kusura verdiği yanıttır. Başka bir C
 
 Black Dragons'ın hikâyesinde Adeptus Astartes'in bütün kusurlu soyları kendini bulur: gene-seed'e el sürmenin bedeli, saflık takıntısıyla mutasyon korkusu arasındaki gerilim ve laneti güce çevirmeye çalışan bir kardeşliğin kaderi. Burada Chapter kendi bakışından anlatılıyor. Kusuru doğuran büyük kuruluş felaketi cursed-founding, gene-seed biyolojisinin bütünü gene-seed kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bb/BlackDragonsBadge.jpg/revision/latest?cb=20240922003823)
-
 ## Cursed Founding: Bir Lanetin Doğuşu
 Black Dragons, Imperium tarihine **Cursed Founding**, yani "Lanetli Kuruluş" adıyla geçen 21. Founding'in en sık anılan evlatlarındandır. M36'ya yerleştirilen bu kuruluşta Adeptus Mechanicus, gene-seed'deki kusurları gidermeye ya da onu geliştirmeye yönelik müdahalelerde bulundu; sonuç, umulan daha kusursuz Astartes değil, dengesiz mutasyonlar ve tuhaf zaaflarla damgalanmış bir kuşak oldu.
 

@@ -19,5 +19,3 @@ Necron Lord'ları ve Overlord'ları warscythe'ı hem silah hem rütbe simgesi ol
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551809907060113460>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Warscythe8.jpg/revision/latest?cb=20140703052241)

@@ -7,4 +7,6 @@ Hedefin bulunduğu noktada küçük bir Warp yarığı açan distorsiyon silahı
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/ae/Wraithcannon.jpg)
+## Teknik ve Kullanım
+
+Aeldari'nin distorsiyon silahı; hedefin bulunduğu noktada küçük bir Warp yarığı açar ve hedefi parçalara ayırarak maddeyi Warp'a çeker. Mermi ya da ışın yoktur — sadece gerçekliğin ani çöküşü. Support platformlarda ve Wraithguard/Wraithlord'ların ellerinde görülür; zırha karşı galaksinin en ölümcül piyade silahlarından biridir çünkü hedefin dayanıklılığı önemsizdir, yarık her şeyi yutar.

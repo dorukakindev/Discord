@@ -11,5 +11,3 @@ Hellhound, Astra Militarum'un (İmparatorluk Muhafızı) alev tankıdır; güven
 Hellhound'un ana silahı, "Inferno Cannon" (namıdiğer Dragonfire Thrower) adı verilen devasa bir alev topudur; sıradan bir alev silahından farklı olarak, yanan Prometyum akışını gerçek bir menzilden fırlatabilir. Bu, onu siper almış düşmanları bunkerlerinden ve gizlendikleri yerlerden yakıp çıkarmak için ideal kılar; özellikle zırhlılara saldırmaya çalışan düşman yakın dövüş birliklerini temizlemede ustadır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/83/IG5EHellhoundFlameTank.jpg)

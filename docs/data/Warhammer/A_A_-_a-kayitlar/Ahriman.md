@@ -13,8 +13,6 @@ Bu kanal Ahriman'ı bir kişi olarak ele alır. Legion'un tarihi <#1551809231580
 ## Kökenler: Ohrmuzd ve Et Değişimi
 XV Legion'un gene-seed'i olağanüstü bir psişik potansiyelle birlikte korkunç bir kusur taşıyordu: flesh-change (et değişimi) adıyla anılan, savaşçıların bedenlerini denetimsizce dönüştüren mutasyon. Ahriman'ın ikiz kardeşi Ohrmuzd da bu lanetin kurbanları arasındaydı. Kardeşinin et değişimiyle yok oluşu, Ahriman'ın bütün ömrünü biçimlendiren yaradır; kaynaklar Rubric'e giden yolun duygusal kökünü bu kayıpta görür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/63/Black_Staff_of_Ahriman.png/revision/latest/scale-to-width-down/842?cb=20131016082559)
-
 ## Great Crusade: Magnus'un Öğrencisi
 Magnus'un bulunup Legion'un başına geçmesiyle flesh-change durdu ve Thousand Sons, Prospero'dan beslenen bir bilgin-savaşçılar Legion'una dönüştü. Legion'un psişik disiplinlere göre Cult'lara ayrılan düzeninde Ahriman, kehanet ve geleceği okuma üzerine yoğunlaşan Corvidae'nin başındaydı. Chief Librarian olarak Legion'un psişik bilimini yöneten, Magnus'un düşüncelerini en iyi anlayan ve Primarch'ın çevresindeki en güçlü zihinlerden biri olarak anıldı.
 

@@ -9,5 +9,3 @@ Dark Mechanicum, Adeptus Mechanicus'un yozlaşmış, karanlık aynasıdır; Maki
 Dark Mechanicum'u yaratan şey, bilgiye duyulan sınırsız açlıktır; sıradan Mechanicus, yeni icadı bir küfür sayar ve antik bilgiye sıkı sıkıya bağlı kalır, ama Dark Mechanicum bu sınırları bir hapis olarak görür. Yasak teknolojiyi, xeno bilgisini ve en tehlikeli deneyleri kucaklarlar; onlar için hiçbir tabu, hiçbir sınır yoktur. Bilgi peşinde ruhlarını ve makine-tanrılarını terk ettiler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/ef/DarkMechanicum_ChaosKnights9th_03.jpg)

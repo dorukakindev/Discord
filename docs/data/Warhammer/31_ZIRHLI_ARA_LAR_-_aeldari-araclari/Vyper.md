@@ -11,5 +11,3 @@ Vyper, Aeldari'nin (Eldar) büyütülmüş bir jetbike tasarımına dayanan, son
 Vyper'ı bir pilot ve bir nişancı (genellikle kan bağı olan iki Aeldari) yönetir; küçük gövdesi onu webway'in en ince geçitlerinden bile geçirebilir. Hafif zırhlıdır, ama olağanüstü hızı ve manevra kabiliyeti, neredeyse zırhından üstün bir savunma sağlar; isabet edilmesi son derece zordur. Sabit shuriken cannon'ının yanında bright lance, scatter laser ya da starcannon gibi ağır bir silah taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/d6/EldarVyper.jpg)

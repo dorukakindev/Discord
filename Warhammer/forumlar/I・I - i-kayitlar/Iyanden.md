@@ -13,8 +13,6 @@ Bu craftworld'ün savaş kuvvetleri kaynaklarda çoğu zaman **wraith host** ya 
 
 **Kanal sınırı.** Yriel'in kişisel yolu prince-yriel, Kraken'in Tyranid tarafı <#1551815033518948404> ve <#1551809334483361823>, craftworld toplumunun genel kurumları <#1551812290439942255> kanalında işlenir. Burada merkezde Iyanden'in kendi yazgısı, hayalet ordusu ve halkı durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fb/Iyanden-icon.jpg/revision/latest?cb=20100709014230)
-
 ## Kraken'den Önce: Soylu Hanedanlar ve Bir Prensin Sürgünü
 
 Kraken'den önceki Iyanden'e dair kaynakların verdiği tablo kısa ama anlamlıdır. Craftworld büyük, zengin ve kalabalık bir toplum olarak anılır; sarı ve mavi renkleri, güçlü filosu ve köklü hanedanlarıyla Asuryani arasında saygın bir yer tutar. Iyanden'in toplumunda soylu evlerin ağırlığı, "prens" unvanıyla anılan Yriel'in varlığından da anlaşılır; bu evlerin sayısı, yapısı ve Seer Council'la ilişkisi ise ayrıntılı olarak anlatılmaz.

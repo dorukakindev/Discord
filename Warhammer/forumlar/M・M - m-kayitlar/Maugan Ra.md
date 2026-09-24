@@ -13,8 +13,6 @@ Maugan Ra'nın adı ve unvanı, Aeldari'nin ölümle kurduğu karmaşık ilişki
 
 Bu madde Maugan Ra'yı bir kişi olarak ele alır: kökeni, Aspect'i, silahı ve imgesi, Altansar hikâyesi ve güncel durumu. Phoenix Lord'ların ortak doğası phoenix-lords, Dark Reapers'ın shrine yaşamı <#1551811222129745941>, Altansar'ın kendisi <#1551811054286405653> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7e/Maugan_Ra.jpg/revision/latest?cb=20110822184605)
-
 ## Köken: Asurya'dan Dark Reapers'a
 
 Asuryani anlatısına göre Maugan Ra, ilk Phoenix Lord **Asurmen**'in Fall'dan sonra kurduğu ilk shrine'da yetişen öğrenciler arasındadır. Kaynaklarda **Asurya** olarak anılan bu kuşak, Asurmen'den savaşın disiplinini öğrenmiş, ardından her biri Khaine'in bir yönünü benimseyerek kendi Aspect'ini kurmuştur. Maugan Ra'nın benimsediği yön, savaş tanrısının en kasvetli yüzüdür: yok eden, biçen, ardında yalnızca sessizlik bırakan Khaine.

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/54/Dire_Avengers_Aspect_Rune.jpg/revision/latest?cb=20150505194657
+
 -# THE IMPERIAL ARCHIVE · D Kayıtları · Kayıt
 # Dire Avengers
 

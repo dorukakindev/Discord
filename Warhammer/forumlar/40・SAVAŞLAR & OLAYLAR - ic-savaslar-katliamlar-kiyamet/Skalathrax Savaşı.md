@@ -11,5 +11,3 @@ Skalathrax Savaşı, Horus Heresy'nin ardından hain lejyonların kendi içlerin
 Heresy yenilmiş, hain lejyonlar Halkaların Gözü'ne sürülmüştü; ama orada bile huzur yoktu. Khorne'a (Kan Tanrısı) adanmış World Eaters ile Slaanesh'e (Zevk Tanrısı) adanmış Emperor's Children, efendi-tanrılarının ezeli rekabetini kendi aralarında sürdürdü. Khârn önderliğindeki World Eaters, Skalathrax'a indi ve durdurulamaz bir öfkeyle Emperor's Children'ın üzerine çullandı; Lucius gibi savaşçıların sert direnişine rağmen neredeyse kazanmak üzereydiler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/c/cf/World_Eaters_symbol.png/38px-World_Eaters_symbol.png)

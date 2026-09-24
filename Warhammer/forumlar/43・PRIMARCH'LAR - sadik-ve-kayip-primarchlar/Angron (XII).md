@@ -18,6 +18,4 @@ Köle isyanının son direnişinden Emperor tarafından koparılıp alınması, 
 
 -# Kaynaklar: *Betrayer — Aaron Dembski-Bowden*; *Angron: Slave of Nuceria — Ian St. Martin*; *Arks of Omen: Angron*; *Codex: World Eaters — 10th Edition*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Daemon_Prince_Angron_by_Alex_Boyd.jpg/revision/latest/scale-to-width-down/250?cb=20130116014233)
-
 -# İlişkili kayıtlar: <#1551649073432494263>, <#1551809718085746759>, <#1551815867845578773>, <#1551643990196232303>, <#1551818097504157699>

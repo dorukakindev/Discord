@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Organisation_med.jpg/revision/latest/scale-to-width-down/900?cb=20120629094246
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Organisation_med.jpg/revision/latest/scale-to-width-down/900?cb=20120629094246)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Cadian Shock Troops — Cadia Şok Birlikleri

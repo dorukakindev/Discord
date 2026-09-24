@@ -18,4 +18,4 @@ En çok, yıkıcı ateşe adanmış Fire Dragon Aspect Warrior'larıyla özdeşl
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>, <#1551740924244271140>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551810744754905123>

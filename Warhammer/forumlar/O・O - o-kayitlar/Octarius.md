@@ -12,8 +12,6 @@ Imperium için Octarius bir ikilemdir. Savaşın Imperial dünyalardan uzakta s�
 
 Bu kanal Octarian War'ı savaş bölgesi olarak ele alır. Ork'ların doğası **kayıt**, Tyranid'lerin genel tarihi **kayıt** kanalındadır.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/d/de/BTvsOrks.jpg)
-
 ## Kryptman's Gambit: Savaşın Başlangıcı
 Octarian War, Inquisitor Fidus Kryptman'ın kararıyla başladı. Ordo Xenos'un önde gelen Tyranid uzmanı olarak tanınan Kryptman, Third Tyrannic War sırasında Hive Fleet Leviathan'ı durdurmak için en ağır önlemlere başvurmuştu. Tarsis Ultra'daki savaşın ardından filonun ilerleme hattındaki dünyalara Exterminatus ilan ederek onu açlığa mahkûm etmeye çalışmış; bu karar sayısız insanın ölümüne yol açmış, ancak filoyu yalnızca yavaşlatabilmişti.
 

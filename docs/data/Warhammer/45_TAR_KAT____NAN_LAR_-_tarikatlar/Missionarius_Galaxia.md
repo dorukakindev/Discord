@@ -19,5 +19,3 @@ Age of Strife boyunca Terra'dan kopmuş insan toplulukları, Imperium'a yeniden 
 -# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
 
 -# İlişkili kayıtlar: <#1551651549804236801>, <#1551652850319368254>, <#1551753458779029565>, <#1551815272074055681>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Imperial_Missionary-0.png/revision/latest?cb=20180320211443)

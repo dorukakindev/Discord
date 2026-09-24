@@ -7,5 +7,3 @@ White Scars'ın 3. Kardeşliği'nin kaptanı ve 51. Av Üstadı; chapter'ın en 
 Kor'sarro Khan, White Scars chapter'ının 3. Kardeşliği'nin (Third Brotherhood) Kaptanı ve 51. Av Üstadı'dır (Master of the Hunt); vahşete varan bir hırçınlık, pervasızlığa varan bir cesaret ve itaatsizliğe varan bir küstahlıkla tanımlansa da, chapter'ın en yetenekli savaşçılarından biridir. Av Üstadı olarak görevi, İmparatorluğun en tehlikeli düşmanlarının izini sürüp başlarını almaktır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/6f/Kor%27sarro_Khan.jpg)

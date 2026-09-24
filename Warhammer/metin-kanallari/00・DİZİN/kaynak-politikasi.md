@@ -19,8 +19,6 @@ Arşivdeki her önemli iddia, zihinsel olarak şu beş kategoriden birine yerle�
 
 **E — Fan teorisi.** Resmî kanonun doğrulamadığı yorum. Yalnızca konuyu anlamaya gerçekten katkı sunuyorsa anılır ve her zaman **Kanon durumu: doğrulanmamış teori** ibaresiyle işaretlenir.
 
----
-
 ## Kaynak Hiyerarşisi
 
 Bir bilgiyi doğrularken arşiv şu önceliği izler:
@@ -40,8 +38,6 @@ Bu sıra katı bir üstünlük zinciri değil, bir ağırlık ölçüsüdür. Bi
 
 **Kaynak satırının dürüstlüğü:** Bir eserin adı, yazarı, edition'ı ya da sayfa numarası tahminle yazılmaz. Edition'dan emin olunmayan durumda yalnızca eser adı verilir; sayfa numarası ancak gerçekten doğrulanmışsa eklenir. Uydurma bir kaynak, hiç kaynak göstermemekten daha büyük bir kusur sayılır.
 
----
-
 ## Retcon ve Eski Lore
 
 Games Workshop, edition'lar boyunca birçok konuyu genişletmiş, daraltmış ya da bütünüyle yeniden çerçevelemiştir. Arşiv bu değişimi gizlemez; ama eski bilgiyi de güncelmiş gibi sunmaz.
@@ -57,8 +53,6 @@ Games Workshop, edition'lar boyunca birçok konuyu genişletmiş, daraltmış ya
 
 Bu tür değişimlerin toplu kaydı 99 kaynakça kategorisindeki sürüm ve revizyon notlarında tutulur.
 
----
-
 ## Doğrulama İlkeleri
 
 Her önemli iddia yazılmadan önce şu sorulardan geçer: Hangi yayına dayanıyor? Hangi dönemi anlatıyor: 30K mı, 40K mı, Era Indomitus mu? Anlatıcı güvenilir mi, yoksa bu bir evren içi iddia mı? Daha yeni bir yayın bunu değiştirmiş ya da yeniden çerçevelemiş mi? Başka bir birincil kaynak doğrudan çelişiyor mu? Metnin kesinlik dili, kaynağın kesinliğiyle örtüşüyor mu?
@@ -70,8 +64,6 @@ Her önemli iddia yazılmadan önce şu sorulardan geçer: Hangi yayına dayanı
 **Güç kıyası.** Arşiv karakterleri ya da faction'ları bir güç sıralamasına sokmaz. Bir düellonun sonucu, bağlamından koparıldığında mutlak bir güç ölçüsü değildir; propaganda unvanları ve model satış metinleri de nesnel ölçü sayılmaz. Masaüstü oyunun statları, puanları ve kuralları lore maddelerinde yer almaz.
 
 **Fan teorileri.** Bir teori ne kadar yaygın ya da ikna edici olursa olsun kanon sayılmaz. Anıldığında gerekçesiyle birlikte kısaca aktarılır ve **Kanon durumu: doğrulanmamış teori** notunu taşır. Kasıtlı belirsizlik bırakılmış bir konuda arşiv, bilinmeyeni bilinmeyen olarak bırakmayı tercih eder.
-
----
 
 ## Düzeltme Bildirimi
 

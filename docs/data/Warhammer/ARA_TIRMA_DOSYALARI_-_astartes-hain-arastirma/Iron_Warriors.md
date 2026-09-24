@@ -37,8 +37,6 @@ Iron Warriors, **Perturabo**'nun genetik materyalinden yaratıldı. Perturabo, *
 
 #### Kuşatma Uzmanlığı
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852)
-
 Iron Warriors, Great Crusade sırasında **kuşatma uzmanı** olarak ün kazandı. Birçok kale ve savunma hattını yıktılar. Perturabo, kuşatma sanatının en büyük ustasıydı.
 
 #### Iron Cage (Erken Belirti)

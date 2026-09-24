@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Irradial_Forge_Dark_Mechanicus.jpg/revision/latest?cb=20120707045724
+
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Hell-forge
 

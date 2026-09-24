@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/55/Lamenters_Livery.jpg/revision/latest?cb=20230808224720
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/Lamenters_Livery.jpg/revision/latest?cb=20230808224720)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Lamenters — Ağıtçılar

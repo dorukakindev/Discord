@@ -13,8 +13,6 @@ Emperor Nocturne'e geldiğinde, Chapter geleneğine göre Vulkan'la bir dizi sı
 
 Vulkan'ın XVIII Legion'ın başına geçmesiyle Legion, Nocturne'ün ayı **Prometheus** merkezli yeni bir kimliğe kavuştu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/25/Salamanders_Chapter_Livery.jpg/revision/latest?cb=20161118072946)
-
 ## Horus Heresy
 Istvaan V'e inen ilk dalgada Salamanders da vardı. Drop Site Massacre'da hain Legion'ların ateşi altında Salamanders ağır kayıplar verdi ve Vulkan'ın akıbeti uzun süre belirsiz kaldı. Nick Kyme'ın *Vulkan Lives* romanında anlatıldığı üzere Primarch, Konrad Curze'un eline düştü ve defalarca öldürülüp yeniden hayata döndü: Vulkan'ın bir **Perpetual**, yani ölümden sonra geri dönebilen bir varlık olduğu bu anlatıda açığa çıkar. Curze'un işkencelerinden kurtulan Vulkan, sonunda kardeşlerinin yanına dönmeyi başardı.
 

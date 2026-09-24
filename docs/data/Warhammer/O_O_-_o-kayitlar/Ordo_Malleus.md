@@ -10,8 +10,6 @@ Ordo Malleus'u öteki Ordo'lardan ayıran en belirgin özellik, gizliliğin gör
 
 Bu durum Ordo'yu Imperium'un en paradoksal kurumlarından biri yapar: Warp hakkında en çok şey bilenler, bilginin en amansız bekçileridir. Bu kanal Ordo'nun kendisine odaklanır; Chamber Militant'ı olan Grey Knights **kayıt**, daemonların doğası ise **kayıt** kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/1/14/Ahmazzi-big.jpg/revision/latest?cb=20110404050826)
-
 ## Kökenler ve Grey Knights
 Ordo Malleus'un kuruluşu, Inquisition'ın kökeni gibi kasıtlı olarak bulanık bırakılmıştır. Anlatının genel çerçevesi, Horus Heresy'nin son dönemine, Malcador the Sigillite'ın Knights-Errant ağına ve daemonlara karşı savaşmak üzere kurulan Grey Knights'a uzanır. Heresy, Imperium'a Warp'tan gelen düşmanın Legion'ları, dünyaları ve bir Primarch'ın ruhunu bile yutabileceğini göstermişti; bu tehdide adanmış bir Ordo'nun doğması bu tecrübenin mantıklı sonucu olarak okunur. Kuruluşun kesin tarihi ve ilk üyeleri yayımlanmış kanonda verilmez.
 

@@ -19,5 +19,3 @@ Kaynaklar Darkstrider'ın bakış açısını Damocles Gulf Crusade sırasında 
 -# Kaynaklar: *Codex: T'au Empire*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551813361887617108>, <#1551809256649527381>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/56/Pathfinder_Darkstrider.png/revision/latest?cb=20160426202733)

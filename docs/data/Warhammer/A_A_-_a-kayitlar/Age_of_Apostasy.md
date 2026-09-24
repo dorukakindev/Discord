@@ -11,8 +11,6 @@ Bu kanal Age of Apostasy'yi siyasi bir kriz olarak ele alır: iktidarın nasıl 
 ## Arka Plan: Kilisenin Yükselişi
 Age of Apostasy bir anda ortaya çıkmadı. Kaynaklara göre M35'te Nova Terra Interregnum'u sona erdiren Cataclysm of Souls, Ecclesiarchy'nin Imperium'u dinî bir birlik etrafında yeniden toparlama girişimiyle iç içeydi; bu süreç kiliseye eşi görülmemiş bir siyasi ağırlık kazandırdı. Ecclesiarchy'nin elindeki silahlı güçler, yani **Frateris Templars** olarak bilinen dinî ordular ve bunlara eşlik eden filolar, zamanla Imperium'un düzenli kuvvetleriyle boy ölçüşür hâle geldi. Kilise artık yalnızca ruhları yöneten bir kurum değil, kendi ordusu olan bir güç merkeziydi. Vandire'nin yükselişi bu zeminde mümkün oldu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Dark_Heresy_Ascension_2_by_faroldjo.jpg/revision/latest/scale-to-width-down/1000?cb=20120429075747)
-
 ## Vandire'nin Yükselişi
 Goge Vandire, Master of the Administratum makamına yükselerek Imperium'un bürokratik omurgasını elinde tutan bir High Lord'du. Kaynakların anlatımına göre entrika, şantaj ve suikastlarla yolunu açarak kilisenin başına da kendisi geçti. Böylece Imperium'un vergi, kayıt ve ikmal düzenini yöneten kurum ile milyarlarca inananın vicdanını yöneten kurum aynı elde birleşti. Devrilen Ecclesiarch'ın adı ve bu darbenin ayrıntıları kaynaklarda sınırlı biçimde verilir.
 

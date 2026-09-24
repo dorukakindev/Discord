@@ -19,5 +19,3 @@ Hammerhead, T'au'nun menzili ve isabeti öne çıkaran savaş anlayışının z�
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551813361887617108>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/21/Hammerheadawesome.jpg/revision/latest/scale-to-width-down/1000?cb=20130220055020)

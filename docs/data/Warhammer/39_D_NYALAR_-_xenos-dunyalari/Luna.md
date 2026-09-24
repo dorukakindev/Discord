@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/42/Luna.jpg/revision/latest/scale-to-width-down/892?cb=20110825142346
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/42/Luna.jpg/revision/latest/scale-to-width-down/892?cb=20110825142346)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Luna — Ay

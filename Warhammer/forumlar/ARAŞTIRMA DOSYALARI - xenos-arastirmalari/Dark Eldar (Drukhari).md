@@ -28,8 +28,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_He
 
 The Fall yaşandığında, Eldar imparatorluğu kendi kendini yok etmiş, Slaanesh doğmuş, ırkın %90'ı ölmüştü. Slaanesh, Eldar ruhlarını "Eldar McNuggets" gibi yiyordu; Craftworld'lerdeki ve Maiden World'lerdeki Eldarlar yalnızca ascetik mistisizm ve Soulstone kullanımıyla bundan kurtulabiliyordu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_Heart.png/revision/latest/scale-to-width-down/900?cb=20141020194824)
-
 Ancak Webway'in bazı bölümlerinde olan birkaç Eldar kurtuldu — ya da öyle sandılar. Gerçekte Slaanesh, onların ruhlarını da diğer her Soulstone'suz Eldar gibi yiyordu; ancak bitmek bilmez hedonizm, işkence ve başkalarına acı çektirme faaliyetleri Slaanesh'in etkisini (geçici olarak) azaltıyor ya da tersine çeviriyordu. Bu, onları sürekli olarak "daha az ırkları" yakalayıp işkence etmeye itti. Sonuç olarak, Dark Eldar'lar neredeyse ölümsüzdür — yeterli acı kaynağı varsa.
 
 ## Commorragh (Dark City)

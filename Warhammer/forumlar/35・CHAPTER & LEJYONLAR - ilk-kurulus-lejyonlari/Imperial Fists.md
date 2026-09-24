@@ -11,5 +11,3 @@ Imperial Fists, primarch'ları Rogal Dorn'un sarsılmaz iradesini, dürüstlüğ
 En büyük onurları, Horus Heresy'nin doruğunda Terra Kuşatması'nda İmparator'un kalkanı olmalarıdır; Dorn'un tasarladığı milyon kilometrelik İmparatorluk Sarayı surlarını savundular ve insanlığın hayatta kalmasını sağladılar. O günden beri kendilerini en zor, en umutsuz savunma ve kuşatma görevlerine adarlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/57/IF_VII_Legion_Vet.jpg)

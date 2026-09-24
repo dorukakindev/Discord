@@ -21,6 +21,4 @@ Emperor'ın gizli Webway projesi çöktüğünde, Palace'a sızan Warp'ı durdur
 
 -# Kaynaklar: *The Master of Mankind — Aaron Dembski-Bowden*; *The End and the Death — Dan Abnett*; *Warhammer 40,000 Core Book — 10th Edition*
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/23/GoldenThroneSiegeofTerra.jpg/revision/latest/scale-to-width-down/1000?cb=20230302134551)
-
 -# İlişkili kayıtlar: <#1551813713403580438>, <#1551809168032268310>, <#1551809699312181339>, <#1551816677669343263>, <#1551753439581831278>

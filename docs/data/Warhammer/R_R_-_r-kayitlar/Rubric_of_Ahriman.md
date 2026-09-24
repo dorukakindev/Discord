@@ -11,8 +11,6 @@ Prospero'nun yanışının ardından Planet of the Sorcerers'a sığınan Legion
 
 Kaynakların genel anlatımına göre Magnus, bu dönemde kulesinde kendi çalışmalarına gömülmüş ve Legion'ın akıbetiyle doğrudan ilgilenmekten uzak bir tutum takınmıştı. Ahriman ve cabal'ı, Primarch'larının onayını almadan harekete geçerek flesh-change'e kalıcı bir çözüm bulmak için gizlice büyük bir ritüel hazırladı. Cabal'ın bütün üyeleri ve ritüelin kesin tarihi kaynaklarda tutarlı biçimde verilmez; Legion Wars dönemine, Heresy'den sonraki yüzyıllara yerleştirildiği söylenebilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Ahriman_battle.jpg/revision/latest/scale-to-width-down/668?cb=20121003161931)
-
 ## Ritüel ve Sonuçları
 Ritüel serbest bırakıldığında Planet of the Sorcerers'ı büyük bir psişik fırtına süpürdü. Sonuç Ahriman'ın beklediğinden çok farklı oldu:
 

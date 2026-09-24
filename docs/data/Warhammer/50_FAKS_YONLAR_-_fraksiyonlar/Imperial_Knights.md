@@ -19,5 +19,3 @@ Great Crusade'de yeniden keşfedilen Knight Worlds, ya Mechanicus'a (Questor Mec
 -# Kaynaklar: *Codex: Imperial Knights*; *Knightsblade — David Guymer*
 
 -# İlişkili kayıtlar: <#1551753465900961795>, <#1551818501625483265>, <#1551753449878724689>, <#1551743981778640899>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b7/ImperialKnightsIconSmall.JPG/revision/latest?cb=20220816185140)

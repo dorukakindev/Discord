@@ -18,6 +18,4 @@ Untouchable, bir psykerin dokunamadığı, okuyamadığı ve etkileyemediği ki�
 
 -# Kaynaklar: *Xenos — Dan Abnett*; *Pariah — Dan Abnett*
 
--# İlişkili kayıtlar: <#1551587986590933025>, <#1551587991384752213>, <#1551588035399782573>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Sisters_of_Silence_art.jpg/revision/latest?cb=20120405005050)
+-# İlişkili kayıtlar: <#1552482353559896205>, <#1551753472070783096>, <#1551818131679215728>

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Ophelia.jpg/revision/latest?cb=20130227183722
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Ophelia.jpg/revision/latest?cb=20130227183722)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Ophelia VII — Ophelia VII (Cardinal World)

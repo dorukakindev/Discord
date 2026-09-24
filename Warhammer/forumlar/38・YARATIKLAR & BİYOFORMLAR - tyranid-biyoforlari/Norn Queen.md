@@ -9,5 +9,3 @@ Norn Queen, bir Tyranid hive fleet'inin kalbi ve üreme merkezidir; tüm Tyranid
 Norn Queen'in en korkunç yeteneği, uyarlanabilirliğidir; bir gezegenin direnişini, savunmasını ve düşmanın taktiklerini analiz eder, sonra bu tehdide özel olarak evrimleşmiş yeni canavarlar tasarlar. Düşman ağır zırh mı kullanıyor? Norn Queen, zırh delen biyoformlar üretir. Alev silahları mı var? Ateşe dirençli yaratıklar büyütür. Bu, Tyranidlerin neden her savaşta bir öncekinden daha tehlikeli olduğunu açıklar; sürü, canlı bir şekilde, neredeyse gerçek zamanlı olarak evrimleşir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/thumb/4/4f/CitationMarkerBoth.png/60px-CitationMarkerBoth.png)

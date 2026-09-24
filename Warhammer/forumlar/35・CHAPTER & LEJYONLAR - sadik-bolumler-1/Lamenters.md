@@ -11,5 +11,3 @@ Lamenters (Ağıtçılar), 40K evreninin en trajik ve en sevilen chapter'larınd
 Lamenters, çoğu Space Marine chapter'ının aksine, koruması gereken insanlara gerçekten değer verir; sivilleri kurtarmayı, merhameti ve doğru olanı yapmayı görevlerinin merkezine koyar. Ama 40K'nın acımasız evreninde, bu asalet bir güç değil, bir lanet gibi işler; doğru olanı yapma çabaları, tekrar tekrar onları felakete sürükler. "İyi niyetin cezalandırıldığı" bir hikâyenin canlı örneğidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/4f/LamentersWhiteDwarf101.PNG)

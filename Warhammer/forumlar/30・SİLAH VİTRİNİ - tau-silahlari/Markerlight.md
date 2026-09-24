@@ -7,4 +7,6 @@ Tau'nun savaş doktrininin kalbi; hedefi görünmez bir işaretle damgalar ve t�
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e7/Markerlight.jpg)
+## Teknik ve Kullanım
+
+Tau'nun hedef işaretleme lazeri; görünür bir silah değil ama savaşın en önemli aracıdır. Hedefi kızılötesi/lazer işaretleyiciyle boyar ve tüm Tau ateş ağının koordinat sistemine bağlar; işaretli hedef her birim için görünür ve her atış ona isabet bonusu sağlar. Tau doktrininin 'koordineli imha' ilkesinin kalbidir — bir Markerlight ışığı bir savaşın sonucudur.

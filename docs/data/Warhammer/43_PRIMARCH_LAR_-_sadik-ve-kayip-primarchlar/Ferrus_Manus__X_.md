@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/81/Ferrus_Manus_sketch.jpg/revision/latest?cb=20131031081150
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Ferrus Manus (X)
 

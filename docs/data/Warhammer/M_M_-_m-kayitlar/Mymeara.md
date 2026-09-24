@@ -10,8 +10,6 @@ Kaynağın çizdiği tabloda Mymeara, galaksinin geri kalanıyla temasını dar 
 
 Mymeara'nın galaksi sahnesindeki en önemli izi, Imperial dünyası **Betalis III** üzerinde yaşanan çatışmadır. *Doom of Mymeara* bu çatışmayı hem craftworld'ün hem de onunla karşılaşan Imperial kuvvetlerin gözünden işler. Kitabın adındaki "doom", yani yazgı ya da yıkım sözcüğü, Aeldari anlatılarında sıkça rastlanan bir temaya, kehanetle kaçınılmaz son arasındaki gerilime işaret eder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f8/Mymeara_World-Rune.jpg/revision/latest?cb=20150402225852)
-
 **Kanal sınırı.** Asuryani toplumunun bütünü **kayıt**, Aspect geleneği **kayıt**, Phoenix Lord'lar phoenix-lords kanalında işlenir. Bu kanal, sınırlı ve tek kaynağa dayalı bilgiyi temkinle toplar; burada geçmeyen bir ayrıntının yokluğu, onun kanonda bulunmadığı anlamına gelmez.
 
 ## Gizli Bir Craftworld

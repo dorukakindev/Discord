@@ -9,5 +9,3 @@ Agathea dünyasından, Ecclesiarchy'nin ilk Arch-confessor'u (Baş İtirafçı);
 Aziz Lucius, Agathea dünyasından gelen ve İmparatorluk İnancı'nın en saygıdeğer itirafçı-azizlerinden biri olarak anılan bir figürdür; Ecclesiarchy tarihinin ilk Arch-confessor'u, yani Baş İtirafçı'sı olarak tanınır. İmanın salt bir duygu değil, eğilmez bir irade meselesi olduğuna inanan bir rahipti ve gayretinin keskinliğiyle çağına damga vurdu.\n\nLucius'un mirası, her şeyden önce kendi sözlerinde yaşar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Lucius_Skitarii_Icon.png/revision/latest?cb=20150420195123)

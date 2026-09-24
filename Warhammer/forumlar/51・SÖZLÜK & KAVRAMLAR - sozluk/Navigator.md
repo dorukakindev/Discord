@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Navigator_2.jpg/revision/latest?cb=20121226092726
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Navigator_2.jpg/revision/latest?cb=20121226092726)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Navigator — Navigatör (Üçüncü Göz)

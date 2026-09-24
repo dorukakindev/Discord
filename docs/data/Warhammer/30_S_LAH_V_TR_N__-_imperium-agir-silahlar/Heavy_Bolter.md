@@ -9,5 +9,3 @@ Büyük kalibreli, sürekli atışlı bolt silahı; piyade dalgalarına ve hafif
 ## Teknik ve Kullanım
 Ağır bolter versiyonu, standart boltgun'dan daha büyük kalibreli (.998) ve stabil platformlara monte edilir; dakikada yüzlerce roket-mermiyle kalabalık piyade veya hafif zırh için tasarlanmıştır. Bolt silah ailesi .75 kalibre kendi-itmeli mermi kullanır; her mermi kütledelici çekirdek + patlayıcı başlık taşır ve hedefin içinde infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; bir bolt mermisi ortalama bir insanı ortadan ikiye ayırır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/4/42/HeavyBolter6.jpg)

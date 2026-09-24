@@ -11,5 +11,3 @@ Aun'shi, savaşçı ruhlu Vior'la Sept'inden gelen, demir iradesiyle sayısız c
 Yaşamının neredeyse tamamı boyunca dövüş sanatlarının adanmış bir öğrencisi olan Aun'shi, Honour Blade ile (Ethereal'ların taşıdığı o tuhaf çift uçlu asa-silah) çok az Tau'nun erişebileceği bir ustalık düzeyine ulaşmıştır. Onun düello sanatı, Ethereal kastının savaşçı olmayan imajına bir istisnadır; o, hem ruhani otoriteyi hem de cephedeki ölümcüllüğü tek bedende birleştirir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/82/Aunshi6.jpg)

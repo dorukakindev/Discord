@@ -11,5 +11,3 @@ Birleşme Savaşları (the Unification Wars), İmparatorluğun gerçek doğum an
 Old Night sırasında Terra, sayısız küçük techno-barbar savaş baronluğuna, tiranlığa ve hizip devletine bölünmüştü; insanlığın doğduğu kutsal gezegen, kana bulanmış bir savaş alanıydı. İmparator, binlerce yıldır gizlice beklediği sahneye çıktı ve bu parçalanmış dünyayı tek bir bayrak altında birleştirme görevine girişti; çünkü ona göre, insanlığın hayatta kalması ancak birlikle mümkündü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Raptor_Imperialis_Icon.png/revision/latest?cb=20150526214513)

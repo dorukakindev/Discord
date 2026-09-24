@@ -11,8 +11,6 @@ O çekirdek ruhun kendisindedir. Slaanesh'in doğuşundan bu yana her Aeldari ru
 
 Bu yüzden realspace baskınları, yani Webway kapılarından ansızın çıkıp dünyaları talan eden, halkını köle olarak Commorragh'a taşıyan akınlar bir tercihten öte, bir hayatta kalma ekonomisidir. Köleler hem emek hem gıda hem de eğlencedir; arena gösterileri, Haemonculus atölyeleri ve soyluların sarayları bu tüketimin üzerine kuruludur. Drukhari toplumunu anlamak için bu soğuk mantığı görmek gerekir: zulüm onların gözünde bir sapma değil, soluk alıp vermenin bedelidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_Heart.png/revision/latest/scale-to-width-down/1000?cb=20141020194824)
-
 ## Kökenler: Fall'dan Önce ve Sonra
 
 Commorragh'ın kökleri, Aeldari imparatorluğunun doruğunda Webway içinde kurulmuş bir liman şehrine uzanır. Realspace'e bağlı olmayan, Webway'in korunaklı katmanlarında yükselen bu kent, imparatorluğun soylu hanedanları için gözden uzak bir sığınak ve zamanla zevk kültlerinin serbestçe yeşerdiği bir merkez hâline geldi. Aeldari toplumunu çözen ahlaki çöküş ilerledikçe en uç, en arsız kültler Commorragh'ın sokaklarında ve saraylarında yuvalandı.

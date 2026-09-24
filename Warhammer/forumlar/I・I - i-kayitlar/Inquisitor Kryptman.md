@@ -13,8 +13,6 @@ Kryptman'ın hikâyesi, Inquisition'ın özündeki soruyu keskin biçimde ortaya
 
 Hive Fleet Behemoth adıyla anılacak bu filo Macragge önlerinde durdurulduğunda, Kryptman'ın uyarısı Imperium'un ilk Tyrannic War'dan sağ çıkmasının koşullarından biri olarak görüldü. Onun Ordo Xenos içindeki ünü, Tyranid'lere adanmış bir uzmanlık geleneğinin doğuşuyla iç içedir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Inquisitor_Kryptman.jpg/revision/latest?cb=20130108055748)
-
 ## Kişilik ve Yöntem
 Kaynakların Kryptman'ı, tek bir tehdide ömrünü adamış ve o tehdidin ölçeği karşısında bütün öteki ölçüleri önemsizleştirmiş bir zihindir. Tyranid'leri yenilebilecek bir ordu değil, galaksinin bütün canlılığını tüketebilecek bir doğa olayı olarak görmesi, onu kayıpları değil yalnızca sonuçları hesaplayan bir stratejiste dönüştürür. Bu soğuk mantık, Ordo Xenos'un düşmanı anlamak için ona yaklaşma zorunluluğuyla birleştiğinde, Kryptman'ı Imperium'un en sert kararlarını verebilen adamlarından biri yapar.
 

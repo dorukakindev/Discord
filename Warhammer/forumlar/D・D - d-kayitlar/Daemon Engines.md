@@ -10,8 +10,6 @@ Daemon engine'ler kaynaklarda yarı canlı, yarı makine varlıklar olarak anlat
 
 Bu kanal daemon engine'i bir teknoloji sınıfı olarak ele alır. Bağlama zanaatının taşıyıcısı olan Dark Mechanicus <#1551650329156788287>, daemon'ların doğası <#1551654107058540595> kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/08/Chaos_beasts_break_marine%27s_line.jpg/revision/latest?cb=20130418211338)
-
 ## Yaratılış: Hell-forge, Warpsmith ve Pazarlık
 Daemon engine'lerin büyük bölümü, Heresy'nin ardından Eye of Terror'a ve galaksinin karanlık köşelerine çekilen Dark Mechanicus'un hell-forge'larında doğar. Heretic Astartes arasında bu zanaatın en belirgin taşıyıcıları **Warpsmith**'lerdir: eski Techmarine geleneğinden gelip makineyi Warp'la kaynaştırmayı öğrenmiş savaşçı-zanaatkârlar. Bağlama işinde ritüelin, isimlerin ve anlaşmaların rolü kaynaklarda ima edilir, fakat süreç hiçbir zaman adım adım bir mühendislik yöntemi olarak açıklanmaz. Bu belirsizlik bilinçlidir; Chaos teknolojisi bilimle büyünün ayrılmadığı bir alanda durur.
 

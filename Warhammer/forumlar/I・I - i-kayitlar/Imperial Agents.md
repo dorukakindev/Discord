@@ -15,8 +15,6 @@ Bu başlık, evren-içinde resmî bir kurum adından çok, farklı kurumları ay
 - **Rogue Traders**: Warrant of Trade ile Imperium sınırlarının ötesine geçme yetkisi taşıyan hanedanlar ve onların maiyetleri.
 - **Chambers Militant**: Grey Knights, Deathwatch ve Adepta Sororitas'ın Orders Militant birlikleri; Inquisition'ın askerî kolları olarak çağrılabilirler.
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/8/86/InquisitionOrg.jpg)
-
 ## Adeptus Arbites ve Diğer Unsurlar
 Imperial Agents başlığı altında ayrı kanalı bulunmayan en önemli kurum **Adeptus Arbites**'tir. Arbites, bir gezegenin kendi yöneticilerinin koyduğu yasalarla ilgilenmez; onun görevi, Imperium'un bütününe dair yükümlülüklerin yerine getirilmesini güvence altına almaktır: tithe'ın ödenmesi, Imperial otoritenin tanınması ve Imperium'a karşı isyanın bastırılması. Bu yüzden Arbites'in bir dünyadaki varlığı, yerel yönetim için hem bir güvence hem de sürekli bir uyarıdır. Kale-karakollarında (precinct) konuşlanan Arbitrator'lar, gerektiğinde bir gezegenin valisine bile karşı durabilir; yerel suçlarla uğraşmak ise genellikle yerel güvenlik güçlerine, yani Enforcer'lara bırakılır.
 

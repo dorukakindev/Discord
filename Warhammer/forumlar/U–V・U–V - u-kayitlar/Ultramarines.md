@@ -13,8 +13,6 @@ Ultramar, Heresy döneminde "Five Hundred Worlds" (Beş Yüz Dünya) olarak anı
 
 Ultramar'ın yönetimi, Imperium'un geri kalanından farklı biçimde Guilliman'ın klasik devlet anlayışını taşır. Siviller ve Astartes arasında yakın bir ilişki vardır; Chapter'ın Captain'ları Ultramar dünyalarının onursal lordları olarak da görev yapabilir. Ultramar'ın kendi askerî gelenekleri, düzenli ordusu ve verimli yönetimi, bölgeyi Imperium içinde örnek ama aynı zamanda kıskanılan bir krallık hâline getirmiştir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Ultramarines_Livery.jpg/revision/latest?cb=20160501032216)
-
 ## Great Crusade ve Horus Heresy
 Guilliman'ın bulunmasının ardından XIII Legion, Great Crusade boyunca yalnızca savaşarak değil, fethettiği dünyaları yeniden inşa ederek de ün kazandı. Legion'ın gücü sistemli lojistiğinden, dünyaları hızla Imperium'a entegre edebilmesinden ve Ultramar'ın ekonomik desteğinden geliyordu. Heresy'nin eşiğinde XIII Legion, çoğu kaynakta en kalabalık Legion olarak anılır; kesin sayı ise verilmez.
 

@@ -17,8 +17,6 @@ Dizi, Era Indomitus'un üç büyük dönemecini aynı örgüde birleştirir: Ang
 
 Dizinin kesin tarihsel yeri Imperial takvime tek bir yıl olarak sabitlenmez; olaylar Great Rift sonrası, Indomitus Crusade'in sürdüğü dönemde geçer.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f7/VashtorrArkifane.jpg/revision/latest/scale-to-width-down/1000?cb=20230306183935)
-
 ## Ark'lar, Key ve İttifak
 Vashtorr'un zanaatı Warp'ta biçimlenmiş makinelerle, yasaklı teknolojiyle ve daemonic ustalıkla ilişkilendirilir; "Arkifane" unvanı da bu yönüne işaret eder. **Arks of Omen** adı verilen gemiler, kaynaklarda Space Hulk benzeri, lanetli gemi kütlelerinden dönüştürülmüş dev savaş araçları olarak betimlenir. Her biri bir Chaos komutanının buyruğuna verilen bu Ark'lar, Key parçalarının izini sürmek ve yollarına çıkan her direnci ezmek üzere galaksiye dağıldı.
 

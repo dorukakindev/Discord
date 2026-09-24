@@ -9,5 +9,3 @@ Commorragh, "Karanlık Şehir" (the Dark City), Drukhari'nin (Dark Eldar) başke
 Commorragh'ın varlık nedeni, hayatta kalmaktır. Aeldari'nin Düşüşü'nden sonra, Slaanesh tüm Aeldari ruhlarını yutmaya açtır; ama bu gizli şehirde, Slaanesh'in pençeleri Drukhari'ye ulaşamaz. Bunun karşılığında Drukhari, ruhlarının yavaşça sönmesini engellemek için başka varlıkların acısını ve korkusunu emmek zorundadır; bu yüzden galaksiye sürekli akınlar düzenleyip esir, kurban ve acı getirirler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/2/2c/Rb6-Commorragh.jpg)

@@ -1,7 +1,7 @@
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Great Crusade (yönlendirme kaydı)
 
-İnsanlığın Old Night sonrasında galaksiye yeniden yayılışını sağlayan, numaralandırılmış Expeditionary Fleet'lerden oluşan büyük fetih seferi. Ayrıntılı madde <#1551587966688956538> kanalındadır; bu kayıt yalnızca forum içi yönlendirme işlevi görür.
+İnsanlığın Old Night sonrasında galaksiye yeniden yayılışını sağlayan, numaralandırılmış Expeditionary Fleet'lerden oluşan büyük fetih seferi. Ayrıntılı madde <#1551814367203303506> kanalındadır; bu kayıt yalnızca forum içi yönlendirme işlevi görür.
 
 - **Kategori:** Sefer — <#1551629180972572742>
 - **Fraksiyon:** Imperium of Man (Space Marine Legion'ları, Imperial Army, Mechanicum)
@@ -18,4 +18,4 @@ Primarch'ların birer birer bulunması, Rangdan Xenocides, Ullanor seferi ve Hor
 
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *Horus Heresy Book One: Betrayal*
 
--# İlişkili kayıtlar: <#1551587966688956538>, <#1551587955108347986>, <#1551588033340514436>, <#1551587976943902770>
+-# İlişkili kayıtlar: <#1551814367203303506>, <#1551813713403580438>, <#1551818097504157699>, <#1551997969417502752>

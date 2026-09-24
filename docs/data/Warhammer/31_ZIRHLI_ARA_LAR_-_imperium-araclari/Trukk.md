@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/JunkaTrukk01.jpg/revision/latest?cb=20130411212500
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Trukk
 

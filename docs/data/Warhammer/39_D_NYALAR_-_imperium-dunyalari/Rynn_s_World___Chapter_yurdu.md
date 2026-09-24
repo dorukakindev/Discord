@@ -18,4 +18,4 @@ Snagrod'un Waaagh!'ı Rynn's World'e indiğinde Arx Tyrannus'taki bir savunma f�
 
 -# Kaynaklar: *Rynn's World — Steve Parker*; *Codex: Space Marines*
 
--# İlişkili kayıtlar: <#1551714731553726524>, <#1551588024574283836>, <#1551741930528972850>
+-# İlişkili kayıtlar: <#1552482659119398954>, <#1551759766966116383>, <#1551650286559559741>

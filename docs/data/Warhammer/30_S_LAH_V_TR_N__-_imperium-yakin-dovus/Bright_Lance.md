@@ -18,6 +18,4 @@ Guardian ağır silah platformlarında, War Walker'larda, Vyper'larda ve Falcon 
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Bright_Lance.png/revision/latest/scale-to-width-down/1000?cb=20160126214003)
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>

@@ -8,8 +8,6 @@ Kategori: Astra Militarum tekil alayı · Fraksiyon: Imperium of Man, Astra Mili
 
 Alayın adı bir övünç değil, bir yara taşır. "First and Only", Tanith'ten kurulması planlanan alayların ilki olup gezegenin yıkımından sağ kurtulan tek alay olmasından gelir. Geride dönülecek bir dünya, alaya katılacak yeni Tanith'li gençler ya da askerleri bekleyen aileler yoktur. Her ölüm, bir daha yerine konamayacak bir halkın küçülmesi demektir; alayın bütün hikâyesi bu bilinçle yazılır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dc/TanithFirstIcon.png/revision/latest?cb=20230721180720)
-
 Bu kanal alayın kendisini, yani kökenini, savaş tarzını, kadrosunu ve kimliğinin yıllar içindeki dönüşümünü merkeze alır. Alayın komutanı Ibram Gaunt'un kişisel hikâyesi için <#1551815458984960013>, seferin genel seyri, Archenemy ve Saint Sabbat için sabbat-worlds-crusade kanalına bakılmalıdır. Aşağıdaki anlatım dizinin kendisine dayanır ve kimi yerlerde kitapların olay örgüsünü açık eder.
 ---MSG---
 ## Tanith: Yürüyen Ormanların Dünyası

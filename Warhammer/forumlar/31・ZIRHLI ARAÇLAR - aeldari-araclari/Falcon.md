@@ -11,5 +11,3 @@ Falcon, Aeldari'nin (Eldar) çok amaçlı anti-grav tankıdır; İmparatorluk ar
 Falcon, hem bir taşıyıcı hem bir tanktır; küçük bir Aeldari birliğini (genellikle bir Aspect Warrior timini) taşırken, aynı anda güçlü pulse laser'ı ve shuriken silahlarıyla ateş desteği verir. Bu ikili işlev, onu Aeldari ordularının çok yönlü bir unsuru yapar; hem nakliye hem ateş gücü sağlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/5b/EldarFalcon.jpg)

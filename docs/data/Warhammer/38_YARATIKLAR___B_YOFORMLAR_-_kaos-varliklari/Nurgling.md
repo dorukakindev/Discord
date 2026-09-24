@@ -20,6 +20,4 @@ Nurgle'ın daemon ordularının yanında her yerde görülürler; Death Guard'ı
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Death Guard — 10th Edition*
 
--# İlişkili kayıtlar: <#1551588020694556762>, <#1551714793138954350>, <#1551587951631269999>
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/f/f5/NurglingArt.jpg)
+-# İlişkili kayıtlar: <#1551754683222327439>, <#1551654107058540595>, <#1551995328863932499>

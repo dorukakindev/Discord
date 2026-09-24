@@ -11,5 +11,3 @@ Necromunda 8. Alayı, namı diğer 'Örümcekler', galaksinin en yoğun kovan d�
 M30/M31 dolaylarında kurulan Necromunda 8. Alayı, tarihi boyunca defalarca yok edildi ve yeniden kuruldu; ancak her seferinde yüksek itibarını korudu. Saflara katıldıklarında Örümcekler, tüm bir çetenin oluşturduğu mangalara bölünür; her er, yüzüne klanın simgesi olan Necromunda örümceğini dövme olarak kazır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/af/Necromunda_Map.jpg/revision/latest/scale-to-width-down/1000?cb=20180909011810)

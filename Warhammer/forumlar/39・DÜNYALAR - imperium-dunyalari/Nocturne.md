@@ -8,5 +8,3 @@ Nocturne, Salamanders'ın anavatanı, volkanik bir ölüm dünyasıdır; sürekl
 Bu cehennemde halk, dayanışma, demircilik ve hayatta kalma kültürüyle var olur; her Time of Trial'da yer altı sığınaklarına çekilir, sonra yıkıntıları yeniden inşa ederler. Bu döngüsel mücadele, halkı olağanüstü dayanıklı, sabırlı ve birbirine bağlı yapar; koyu tenleri ve (gen-tohum etkisiyle) kızıl gözleri onların alametidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/13/NocturnePlanetArt.jpg)

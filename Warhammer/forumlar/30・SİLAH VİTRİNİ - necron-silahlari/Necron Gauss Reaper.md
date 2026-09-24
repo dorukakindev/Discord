@@ -12,5 +12,3 @@ Gauss Reaper, klasik Gauss Flayer'ın saldırı varyantıdır: menzili kısalmı
 ## Teknik ve Kullanım
 Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/58/Necron_Warriors_come_forth.jpg/revision/latest?cb=20130318174414)

@@ -10,8 +10,6 @@ Crimson Fists'in anlatısı bu yüzden iki yarıya bölünür. Birincisi, Dorn'u
 
 Bu kanal Crimson Fists'i bir kurum ve bir topluluk olarak ele alır: kökenleri, yurduyla bağı, felaketin Chapter'ın yapısına bıraktığı yara, yeniden kuruluşun anlamı ve Imperial Fists soyu içindeki yeri. Chapter Master'ın kişiliği, kararları ve silahları pedro-kantor kanalında; ata Legion'ın tarihi <#1551636479925559479> ve <#1551650286559559741> kanallarında; Snagrod'un unvanı yüzünden sık sık karıştırılan savaş bölgesi ise war-zone-charadon kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7d/Crimson_Fists_symbol.jpg/revision/latest?cb=20160516001011)
-
 ## Kökenler: Dorn'un Bölünen Legion'ı
 Crimson Fists'in doğuşu, Horus Heresy'nin külleri arasında yaşanan en sancılı kararlardan birine bağlıdır. Roboute Guilliman'ın Codex Astartes'i Legion'ların bin kişilik Chapter'lara bölünmesini öngördüğünde, buna en sert direnen Primarch'lardan biri Rogal Dorn oldu. Terra'yı kuşatmaya karşı savunmuş bir Legion'ı parçalamak, onun gözünde Imperium'u bir sonraki felakete karşı silahsız bırakmak demekti. Kaynaklar, Dorn'un bu direncinin ancak Scouring sırasında Perturabo'nun kurduğu **Iron Cage** tuzağından ve Chapter geleneğinin anlattığı kişisel kefaretinden sonra kırıldığını aktarır.
 

@@ -7,4 +7,6 @@ Yaşayan yeşil yıldırım fırlatan Necron karabinası; ilk hedeften sonra çe
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/7/7b/Tesla_Carbine.jpg)
+## Teknik ve Kullanım
+
+Yaşayan yeşil yıldırım fırlatan Necron karabinası; ilk hedefi vurduktan sonra elektrik yakınlardaki diğer hedeflere zincirleme atlar. Necron teknolojisinin imza özelliği: bir atış bir manga vurabilir. Tesla bobinleri enerjiyi canlı bir yaylım hâlinde depolar ve bırakır; hedefin yanındaki herkes de aynı şoku paylaşır. Piyade topluluklarına karşı en etkili Necron silahıdır.

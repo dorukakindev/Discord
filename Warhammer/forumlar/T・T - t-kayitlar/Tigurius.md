@@ -8,8 +8,6 @@ Kategori: Karakter / Chief Librarian · Fraksiyon: Adeptus Astartes, Ultramarine
 
 Bu kanal Tigurius'u bir kişi olarak ele alır: kâhinlik yeteneği, Chapter içindeki konumu, kehanetlerinin sınırları ve güncel durumu. Librarius kurumu için <#1551816495775088684>, psykerlerin Imperium'daki genel konumu için <#1551818131679215728> kanalına bakılabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Varro_Tigurius2.jpg/revision/latest?cb=20111101212615)
-
 ## Köken ve Yükseliş
 Tigurius'un Chapter'a alınmadan önceki hayatı, psişik yeteneğinin nasıl keşfedildiği ve Librarius içindeki yükselişi yayımlanmış kaynaklarda ayrıntılı işlenmez. Space Marine Librarian'larının genel yolu bellidir: aday Chapter'a kabul edilirken yeteneği tespit edilir, uzun yıllara yayılan bir eğitimle ruhu ve iradesi sınanır, Lexicanium ve Codicier gibi derecelerden geçerek ilerler. Tigurius'un da bu yolu izlediği varsayılabilir; ancak arşiv, kaynaklarda bulunmayan kişisel ayrıntıları eklemez. Kaynakların anlattığı Tigurius, uzun süredir Librarius'un başında bulunan, Chapter Master Marneus Calgar'ın kıdemli danışmanları arasında yer alan olgun bir figürdür.
 ---MSG---

@@ -19,5 +19,3 @@ Heresy'de Molech'teki House Devine'ın Horus'a geçişi bilinen en ünlü örnek
 -# Kaynaklar: *Codex: Chaos Knights*; *Vengeful Spirit — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551743981778640899>, <#1551753465900961795>, <#1551818501625483265>, <#1551812165172994160>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/49/ChaosKnightsIcon.jpg/revision/latest/scale-to-width-down/975?cb=20220816184542)

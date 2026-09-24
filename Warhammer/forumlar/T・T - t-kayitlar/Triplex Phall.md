@@ -13,8 +13,6 @@ Triplex Phall üzerine yazılanlar dağınık kaynaklardan derlenir: Forge World
 ## Heresy: Üç Kardeş Dünya ve Thramas
 Kaynakların anlatımına göre Triplex Phall, Horus Heresy yıllarında **Galatia** ve **Thule** adlı iki kardeş dünyayla birlikte bölgesel bir güç oluşturuyordu. Üç forge, galaksinin doğu kıyısında kendi çıkarlarını gözeten, Mars'a bağlı ama ondan uzak bir sanayi kümesiydi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/44/Triplex_Phall_Banner.png/revision/latest?cb=20170924224949)
-
 Heresy doğuya ulaştığında bu dünyalar, Dark Angels ile Night Lords arasındaki uzun ve yıpratıcı **Thramas Crusade**'in sahnelerinden birine döndü. Anlatılara göre üç dünya Night Lords'a direndi, ama direniş kırıldı; tech-priest'lerin önemli bir kısmı hain saflara geçti. Galatia'nın Dark Angels tarafından yok edilmesinin ardından sadık kalan unsurların ayaklandığı ve Triplex Phall'ı yeniden Imperium'a kazandırdığı aktarılır. Sonunda Heresy'den sağ çıkan, üçünün içinde yalnızca Triplex Phall oldu.
 
 Bu olayların sırası ve ayrıntısı tek bir kaynakta uzun uzun sahnelenmez. Hangi forge'un ne zaman düştüğü, ayaklanmayı kimin yönettiği gibi sorular açık kalır. Kesin olan, Triplex Phall'ın Heresy'yi bir kayıp olarak değil, ağır bedelle kazanılmış bir hayatta kalış olarak geride bıraktığıdır.

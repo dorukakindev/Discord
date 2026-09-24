@@ -11,5 +11,3 @@ House Cadmus (Cadmus Hanedanı), İmparatorluk'a bağlı bir Imperial Knight han
 Imperial Knight haneleri, feodal bir sistemde, koruması altındaki halk ve dünyalar üzerinde hüküm sürer; bu, bir ayrıcalık olduğu kadar bir sorumluluktur. House Cadmus, bu sorumluluğu ciddiye alan hanelerin en iyi örneğidir; özellikle besin üreten tarım dünyalarını (agri-world) ve oralarda yaşayan sıradan halkı korumaya adanmışlardır. Onlar için soyluluk, hükmetmek değil, korumaktır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/3e/HouseCadmusKnight.jpg)

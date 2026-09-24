@@ -10,8 +10,6 @@ Bu hayranlığın kökü ruhun kendisindedir. Slaanesh'in doğuşundan bu yana h
 
 Wych Cult'lar arenayla sınırlı değildir. Kabal'ların realspace baskınlarına eşlik eder, gösteriler için canlı tutsak, yeni rakip ve yabancı yaratıklar toplar. Bir Wych için savaş alanı, seyircisi daha az ama dekoru daha geniş bir başka arenadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/93/443px-Lelith.png/revision/latest?cb=20141009020055)
-
 **Kanal sınırı.** Commorragh'ın genel yapısı <#1551645291873050666>, Drukhari halkı <#1551813105166712966>, Cult of Strife'ın efsanevi Succubus'u <#1551641514440925200> kanalında işlenir. Burada merkezde kurum olarak Wych Cult'lar, arena kültürü ve Hekatarii'nin yaşamı durur.
 ---MSG---
 ## Kökenler: Zevk Kültlerinden Arenaya

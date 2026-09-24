@@ -10,8 +10,6 @@ Emri verme yetkisi en çok Inquisition'la ilişkilendirilir: Rosette taşıyan b
 
 Exterminatus hafife alınan bir karar olarak sunulmaz. Bir dünyanın yok edilmesi, onun tithe'ını, sanayisini, alaylarını ve stratejik konumunu da sonsuza dek silmek demektir. Bu yüzden karar, Imperium içinde çoğu zaman sert tartışmalara, kurumlar arası gerilimlere ve kimi zaman kararı verenin kendi meslektaşlarınca yargılanmasına yol açar. Sıradan halk ise Exterminatus'un varlığından çoğu zaman habersizdir; kayıtlarda bir dünyanın adı yalnızca sessizce silinir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/54/Exterminatus_1.jpg/revision/latest/scale-to-width-down/1000?cb=20130419182806)
-
 ## Yöntemler
 Kaynaklarda Exterminatus'un tek bir tekniği yoktur; hedefe ve eldeki araçlara göre farklı yöntemler anlatılır:
 - **Virus bombing:** En bilinen yöntem, **life-eater** virüsünün yörüngeden salınmasıdır. Virüs organik maddeyi kısa sürede çürütür, açığa çıkan gazlar ateşlenince bütün gezegeni saran bir yangın fırtınası doğar. Gezegenin kendisi ayakta kalır, ama yüzeyinde yaşam kalmaz.

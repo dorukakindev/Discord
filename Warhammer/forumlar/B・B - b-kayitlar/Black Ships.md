@@ -10,8 +10,6 @@ Psyker teslimi, Imperium'un dünyalardan talep ettiği yükümlülüklerin bir p
 
 Filonun hangi kuruma bağlı olduğu kaynaklarda farklı vurgularla anlatılır. Toplanan psykerlerin kaderi **Adeptus Astra Telepathica**'nın düzenine bağlıdır; gemilerde psişik tehlikeye karşı **Sisters of Silence** görev yapar; pek çok metin ise **Inquisition**'ı bu gemilerin yöneticisi ya da denetçisi olarak anar ve "Inquisition'ın Black Ship'leri" ifadesi yaygındır. Ansiklopedi bu anlatımları uzlaştırmaya çalışmaz: gemiler, birbirine sıkıca dolanmış birkaç kurumun ortak aracı olarak görünür. Psykerleri toplayan kurumun kendisi için <#1551810610264678443>, olgunun kendisi için <#1551818131679215728> kanalına bakılabilir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/32/Inquisitorial_Black_Ship.jpg/revision/latest?cb=20130418001957)
-
 ## Kökenler ve Yolculuk
 Black Ship düzeninin kökleri Great Crusade dönemine uzanır. Horus Heresy yayınları, pariah kadınlardan oluşan **Silent Sisterhood**'u, yani Sisters of Silence'ı, daha o dönemde psykerlerin izlenmesi ve toplanmasıyla ilişkilendirir. Emperor'ın Terra'daki büyük projeleri, özellikle Webway girişimi ve Astronomican, psişik yeteneği olan insanlara sürekli ihtiyaç duyuyordu; toplama sistemi de bu ihtiyaçla birlikte büyüdü. Heresy'den sonra Golden Throne'un talebi eklendiğinde düzen, Imperium'un en kalıcı ve en az sorgulanan kurumlarından birine dönüştü.
 

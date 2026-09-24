@@ -12,8 +12,6 @@ Bu köken, ansiklopedi açısından özel bir dikkat gerektirir. Oyunların anla
 
 Kanalın odağı, Chapter'ın kimliği, bilinen seferleri, köken belirsizliği ve bu belirsizliğin doğurduğu Thousand Sons teorisidir. Oyunların kanon statüsüne dair genel ilkeler <#1551587905703649300> kanalında ele alınır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Blood_Ravens_Livery.jpg/revision/latest?cb=20170613000140)
-
 ## Lisanslı Köken ve Kanon Statüsü
 *Warhammer 40,000: Dawn of War*, Relic Entertainment tarafından geliştirilip 2004'te yayımlanan bir gerçek zamanlı strateji oyunudur. Oyunun merkezine Games Workshop'un mevcut Chapter'larından biri yerine yeni bir Chapter'ın konması, geliştiricilere hikâyeyi özgürce kurabilme imkânı verdi. Blood Ravens bu tercihten doğdu ve GW'nin onayıyla Warhammer 40,000 evrenine katıldı.
 

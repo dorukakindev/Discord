@@ -19,5 +19,3 @@ Kaynaklar, Zodgrod'un yöntemlerinin başlangıçta alay konusu olduğunu, fakat
 -# Kaynaklar: *Codex: Orks — 9th Edition*
 
 -# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Zodgrod2.jpg/revision/latest?cb=20140727011247)

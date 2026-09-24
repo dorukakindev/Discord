@@ -16,8 +16,6 @@ Arşivin amacı mümkün olan en fazla metni yığmak değil, uzun vadede güven
 
 Aşağıdaki mesajlar arşivin nasıl bölümlendiğini, spoiler ve kaynak yaklaşımını özetler. İlk kez geliyorsanız ardından <#1551587907918106624> kanalına geçmeniz önerilir.
 
----
-
 ## Kapsam ve Kanal Sistemi
 
 Arşiv, Warhammer 40,000'in bütün büyük dönemlerini kapsar: War in Heaven'ın kozmik çatışmasından Dark Age of Technology ve Age of Strife'a, Unification Wars'tan Great Crusade ve Horus Heresy'ye, oradan kırk birinci binyılın sonuna, Great Rift'in açılışına ve Era Indomitus'un güncel anlatısına kadar. Imperium, Chaos ve xenos uygarlıkları aynı ciddiyetle ele alınır.
@@ -34,8 +32,6 @@ Kanallar beş ana kategoriye ayrılır:
 
 **90 — Editoryal.** Taslakların, kaynak ve kanon denetiminin, yayın kuyruğunun ve değişiklik günlüğünün tutulduğu operasyonel alan. Bu kanallar okuyucuya yönelik lore makalesi değil, arşivin iç işleyişidir.
 
----
-
 ## Kaynak Yaklaşımı
 
 Arşivdeki her ana madde yalnızca resmî yayınlara dayanır: Games Workshop'un Core Book'ları ve Codex'leri, campaign ve narrative kitapları, Forge World ve Horus Heresy materyalleri, Black Library romanları ve öyküleri, resmî White Dwarf makaleleri ve gerektiğinde Warhammer Community duyuruları. Wiki siteleri, forumlar ve video içerikleri araştırmada ipucu olabilir; ama hiçbir zaman bir maddenin dayanağı olarak gösterilmez.
@@ -47,8 +43,6 @@ Kaynaksız kesin sayılar, yani nüfus, filo büyüklüğü, kayıp ya da Legion
 ## Spoiler Yaklaşımı
 
 Bir ansiklopedi, doğası gereği sonuçları anlatır: kimin düştüğü, hangi dünyanın yandığı, hangi Primarch'ın geri döndüğü. Arşiv bu tür bilgileri saklamaz; ancak romanların olay örgüsünü baştan sona yeniden anlatmak yerine yalnızca lore açısından sonuç doğuran bilgiyi aktarır. Yakın tarihte yayımlanmış bir eserde önemli bir sürpriz söz konusuysa, ilgili bölümün başına kısa bir spoiler uyarısı konur.
-
----
 
 ## Güncel Anlatı ve Nereden Başlamalı
 
@@ -63,8 +57,6 @@ Arşiv, Eylül 2026 itibarıyla güncellenmektedir. Warhammer 40,000 ilk kez 198
 Arşiv yaşayan bir kayıttır. Bir hatayı, eksik kaynağı ya da güncelliğini yitirmiş bir ifadeyi fark ederseniz, düzeltme bildirme yolu <#1551587905703649300> kanalında açıklanmıştır.
 
 **Çapraz:** <#1551587907918106624>, <#1551587901278650491>, <#1551587903191388183>, <#1551587905703649300>, <#1551815272074055681>, <#1551813713403580438>
-
----
 
 -# THE IMPERIAL ARCHIVE
 ## Okuma Yolu — Nereden Başlamalı?

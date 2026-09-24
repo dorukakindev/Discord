@@ -8,5 +8,3 @@ Solemnace, eksantrik Necron arkeolog-lordu Trazyn the Infinite'in mezar dünyas�
 Trazyn, ölümsüz varlığının milyonlarca yıllık can sıkıntısını koleksiyonculukla doldurur; Solemnace, onun galaksinin dört bir yanından "topladığı" (yani çaldığı) sergilerle baştan başa doludur. Koleksiyonunda paha biçilmez tarihi eserler, kayıp teknolojiler, ünlü silahlar ve hatta zaman içinde dondurulmuş canlı varlıklar bulunur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/6b/Galaxy-Rift-Ultima.jpg)

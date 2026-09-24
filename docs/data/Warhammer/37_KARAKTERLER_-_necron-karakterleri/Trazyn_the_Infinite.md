@@ -13,5 +13,3 @@ Trazyn the Infinite, ölümsüz varlığını galaksinin tarihini ve hazinelerin
 Mezar dünyası Solemnace, baştan başa galaksinin dört bir yanından "toplanmış" (yani çalınmış) sergilerle dolu devasa bir müze-hapishanedir. Koleksiyonunda zaman içinde dondurulmuş canlı varlıklar, kayıp ordular, paha biçilmez eserler ve tarihin en önemli figürleri bulunur; bütün bir Genestealer kültünü, ünlü kahramanları, hatta belki bazı kayıp sırları sergi olarak saklar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/0/0c/TrazynArtColor.jpg)

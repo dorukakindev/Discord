@@ -10,8 +10,6 @@ Galaksi bu öğretinin öngördüğünden çok daha kalabalıktır. Aeldari, Nec
 
 Imperium, "xenos" etiketini zaman zaman insan kökenli olup Imperium'a bağlanmamış topluluklara karşı da siyasi bir silah olarak kullanmıştır. Bu yüzden bir evren içi kaynağın bir topluluğu "xenos" olarak anması, her zaman biyolojik bir gerçeği değil, çoğu zaman bir tutumu yansıtır. Leagues of Votann gibi insan kökenli ama bağımsız halkların Imperial kayıtlarda nasıl sınıflandırılacağı, bu gerilimin güncel bir örneğidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/06/Various_Xenos.jpg/revision/latest/scale-to-width-down/1000?cb=20120901182819)
-
 ## Imperial Xenofobi: Öğreti ve Kurumlar
 Imperium'un xenos karşıtlığının kökleri Great Crusade'e uzanır. Emperor'un seferi insan dünyalarını yeniden birleştirmeyi amaçlarken, yol üstündeki xenos uygarlıklarını da çoğu zaman yok etti ya da sürdü. Sefer döneminde Laer gibi türlerin ortadan kaldırılması ve insan kökenli olmasına rağmen xenos türleriyle ittifak kurmuş **Interex** ile yaşanan felaketle sonuçlanan temas, bu politikanın sonuçlarını gösteren örneklerdir. Kimi xenos türlerinin, özellikle Rangdan olarak anılan düşmanın Great Crusade öncesinde ya da sırasında korkunç savaşlara neden olduğu ima edilir; ancak bu olayların ayrıntıları kasıtlı olarak belirsizdir.
 

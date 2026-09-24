@@ -10,8 +10,6 @@ Bu kanal, o rolleri tek tek ele alır: **Patriarch**, **Magus**, **Primus**, **A
 
 Bu rolleri birbirine bağlayan tek bir güç vardır: broodmind. Onu anlamayan hiyerarşiyi de anlayamaz, çünkü kültün liderlerini birbirine kenetleyen şey bir emir zinciri değil, ortak bir zihindir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/62/Patriarch.jpg/revision/latest?cb=20180215061625)
-
 ## Broodmind: Ortak Zihin
 Kültü ayakta tutan asıl bağ bir örgüt şeması değil, psişik bir ağdır. Imperial kayıtlarda **broodmind** diye geçen bu ağ Patriarch'ın zihninden yayılır ve bütün melezleri, hatta bağa katılmış sıradan insanları tek bir iradeye bağlar. Bu bağ zorlama değildir; kült üyeleri Patriarch'a itaat etmeyi bir görev gibi değil, sevgi ve tapınma gibi yaşar. Onları en tehlikeli kılan da budur: kimse zorlanmadığı için kimse ihanet etmez.
 

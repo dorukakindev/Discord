@@ -10,8 +10,6 @@ Bir Chapter için kale-manastır, taştan bir binadan çok daha fazlasıdır. Ch
 
 Bu kanal kale-manastırı bir kurum ve bir mimari gelenek olarak ele alır: içinde nelerin barındığını, hangi biçimlerde yükseldiğini ve en tanınmış örneklerini. Bir Chapter'ın iç komuta düzeni <#1551812549412913264>, gene-seed'in korunması gene-seed, bir Marine'in gündelik yaşamı ise <#1551808888666587197> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/21/Fortressmonastery12.JPG/revision/latest?cb=20140304073401)
-
 ## Bir Kale-Manastırın İçi
 Bir kale-manastır, işlevleri iç içe geçmiş bir dünyadır. En derin ve en korunaklı yerinde çoğu zaman **Apothecarion** durur; Chapter'ın gene-seed stoklarının saklandığı, düşen kardeşlerden progenoid organların toplanıp yeni kuşağa aktarıldığı bu mekân, kelimenin gerçek anlamıyla Chapter'ın geleceğidir. Apothecarion'ı yitiren bir Chapter, kendini yeniden üretme gücünü de yitirir.
 

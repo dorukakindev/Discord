@@ -21,6 +21,4 @@ Ynnead'in bir tanrı mı, ruhların kolektif bir yankısı mı olduğu ve Slaane
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Psychic Awakening: Phoenix Rising*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551588087455289414>, <#1551588084628590646>, <#1551740924244271140>, <#1551588050960781432>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Spiritseer_Rune.jpg/revision/latest?cb=20150611200336)
+-# İlişkili kayıtlar: <#1551742665756901377>, <#1552483346846715924>, <#1551810744754905123>, <#1551754688008032321>

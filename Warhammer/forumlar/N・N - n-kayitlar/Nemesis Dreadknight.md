@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3d/DreadknightMini.jpg/revision/latest?cb=20130427201008
+
 -# THE IMPERIAL ARCHIVE · N Kayıtları · Kayıt
 # Nemesis Dreadknight
 

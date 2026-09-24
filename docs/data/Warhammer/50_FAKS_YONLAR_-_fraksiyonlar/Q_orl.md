@@ -9,5 +9,3 @@ Q'orl Swarmhood (Q'orl Sürü-Topluluğu), galaksinin Segmentum Pacificus bölge
 Q'orl toplumunun temelinde kraliçe yatar; her gün binlerce yumurta bırakarak tümüyle erkek bir ırkı çoğaltan tek dişidir. Farklı kastlar, larva kreşlerinde, kraliçenin saldığı hormonal "çorbalar" aracılığıyla biçimlendirilir; bir Q'orl'un işçi, savaşçı ya da başka bir role uygun olarak doğması, yumurtanın maruz kaldığı bu kimyasal yönlendirmeye bağlıdır. Bu, onlara sıkı bir biyolojik hiyerarşi ve sürü-zihnine yakın bir örgütlülük verir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/5/58/QOrlSwarmhood.jpg)

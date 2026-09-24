@@ -11,5 +11,3 @@ Imperial Navy, İmparatorluğun uzay savaş gücüdür; kilometrelerce uzunlukta
 Donanmanın görevleri muazzamdır; gezegenleri yörüngeden bombalar (lance ve macro-cannon ateşiyle), Astra Militarum ordularını yıldızlar arası taşır, İmparatorluk ticaretini korur ve Warp'taki düşman filolarıyla (Kaos, Ork, Aeldari korsanları) çarpışır. Bu gemiler, gizemli Navigator'lar tarafından tehlikeli Warp'ta yönlendirilir; onlar olmadan hiçbir gemi yıldızlar arası yol alamaz.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/b9/BFG_Box.jpg)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Blades_of_Magnus_Rubricae_1.png/revision/latest?cb=20170109010127
+
 -# THE IMPERIAL ARCHIVE · R Kayıtları · Kayıt
 # Rubric Marines
 

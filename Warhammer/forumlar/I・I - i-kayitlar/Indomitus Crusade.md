@@ -10,8 +10,6 @@ Crusade'in ağırlığı yalnızca askerî değildir. Guilliman'a göre Imperium
 ## Başlangıç: Primarch'ın Dönüşü
 Guilliman, Horus Heresy sonrasında Fulgrim'in darbesiyle yaralanıp Macragge'da bir durağanlık alanında binyıllarca bekledi. *Gathering Storm III: Rise of the Primarch*'ta Ynnari'nin önderi Yvraine ve Archmagos Belisarius Cawl'un katkısıyla yeniden hayata döndürüldü. Ardından Terra'ya ulaşarak Golden Throne'daki Emperor'un huzuruna çıktı ve Lord Commander of the Imperium olarak Imperium'un askerî yönetimini üstlendi. Crusade, bu yeni otoritenin ilk ve en büyük eylemiydi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Guilliman_Saviour.jpeg/revision/latest/scale-to-width-down/721?cb=20170316203623)
-
 ## Primaris Space Marine'ler ve Ultima Founding
 Crusade'in en belirleyici unsuru Primaris Space Marine'lerdi. Belisarius Cawl, Guilliman'ın binyıllar önce verdiği bir görev doğrultusunda Mars'ta uzun süredir bu yeni nesil Astartes üzerinde çalışıyordu. Primaris Marine'ler, daha önceki Space Marine'lerden daha güçlü ve dayanıklı olacak biçimde tasarlanmış ek organlara sahipti ve Guilliman'ın dönüşüyle birlikte savaşa sürüldü.
 

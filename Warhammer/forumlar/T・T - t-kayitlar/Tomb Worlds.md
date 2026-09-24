@@ -8,8 +8,6 @@ Kategori: Xenos Dünya Sınıfı · Fraksiyon: Necrons · Dönem: War in Heaven 
 
 Yüzeyde görünen çoğu zaman pek az şeydir. Kaynaklar Tomb World'lerin asıl gövdesini, kabuğun altına uzanan nekropol komplekslerinde, katman katman inen galerilerde ve sıra sıra dizilmiş stasis kriptlerinde anlatır. Bu kriptlerde Warrior legion'ları, Immortal falanksları ve bilinçlerini koruyan soylular donmuş hâlde yatar; koridorlarda ise uykunun bütün süresi boyunca **Canoptek** construct'ları dolaşarak onarım, bakım ve muhafızlık görevini sürdürür. Bir Tomb World'ün uyanışı, bu yüzden çoğu zaman yüzeyin altından yükselen bir kıyamet gibi yaşanır: Monolith'ler kumun ve kayanın içinden çıkar, sessiz tepeler birer geçide dönüşür.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/6e/NecronTombWorlds.jpg/revision/latest/scale-to-width-down/1000?cb=20170607230332)
-
 Her Tomb World eşit değildir. Hanedanın başkenti sayılan **crownworld** siyasi merkezken, çevresindeki dünyalar yönetim merkezleri, sınır toprakları ya da garnizonlar olarak anlatılır. Bu kanal dünyaların kendisini, uyku ve uyanış düzenini ele alır; hanedan siyaseti <#1551817348900589669>, uygarlığın bütünü <#1551759762193121282> kanalındadır.
 ---MSG---
 ## Kökenler: Ölülerin Şehirlerinden Uyku Dünyalarına

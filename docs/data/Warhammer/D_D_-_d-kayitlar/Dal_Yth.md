@@ -12,8 +12,6 @@ Bu yüzden Dal'yth iki ayrı anlam taşır. T'au için o, genç imparatorluğun 
 
 Kapsam notu: Seferin bütünü, nedenleri ve Imperial tarafın hesapları <#1551813361887617108> kanalındadır. Bu madde Dal'yth'i bir sept olarak ve kuşatmayı savunan dünyanın gözünden ele alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Dal%27yth-0.png/revision/latest?cb=20200605133218)
-
 ## Sept'in Kimliği: Kapı ve Pazar
 Dal'yth, anavatan T'au'nun çevresindeki ilk koloni halkası içinde kuruldu ve Vior'la, Sa'cea, Bork'an gibi sept'lerle birlikte imparatorluğun çekirdeğini oluşturdu. Kuruluş tarihi ve ilk yerleşimin seyri yayımlanmış kaynaklarda ayrıntılandırılmaz. Kaynakların üzerinde durduğu şey, sept'in karakteridir: Dal'yth halkı yeniliğe, ticarete ve yabancılarla temasa ötekilerden daha yatkın, daha uyumlu ve daha esnek bir topluluk olarak betimlenir.
 

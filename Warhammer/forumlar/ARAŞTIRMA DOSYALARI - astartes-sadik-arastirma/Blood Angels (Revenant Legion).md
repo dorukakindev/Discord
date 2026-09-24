@@ -36,8 +36,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Blood_Angels_Livery.j
 
 Blood Angels, Primarch'ları **Sanguinius**'ün genetik materyalinden yaratıldı. Tüm Primarch'lar gibi Sanguinius de üstün bir süper asker olarak genetik olarak tasarlandı, ancak bebekliğinde kardeşleriyle birlikte Warp'a atıldı ve nükleer yıkım yaşamış **Baal Secundus** ayında bulundu.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Blood_Angels_Livery.jpg/revision/latest?cb=20220207032425)
-
 **IXth Legion** olarak başlangıçta bilinen Legion'ın erken kayıtları, Unification Wars'ın birçok önemli fetihlerinde kayda değer bir yokluk gösterir. Bunun yerine Legion, İmparator'un infernosu olarak hareket etti, serbest bırakıldıkları her düşmanı tahrip ve yok etti. Az sayıda olmalarına rağmen, sıklıkla öncü olarak görev yaptılar ve öldürücü yakın dövüşe odaklanan küçük ve cesur baskınlarla savaştılar. En tehlikeli savaş bölgelerine, en çarpık düşmanlara karşı, spot ışıklarından uzakta yalnız başına hat tutarak konuşlandırıldılar. Bu, erken IXth Legion'ın Terra'nın kayıp ve evsizlerinden seçildiği bir roldü. Sıklıkla mutasyon izleri taşımalarına rağmen, genetik olarak uzun ve zarif örnekler halinde şekillendirildiler. Ancak, Legion'ı izleyen başka karanlık söylentiler de vardı; kısa sürede savaştan sonra düşman cesetlerini yeme alışkanlıkları nedeniyle **"Eaters of the Dead"** (Ölülerin Yiyicileri) lakabını kazandılar. Bu, aspirant olarak seçilmeyi uman takipçiler olan **Cult of the Reborn**'un oluşumunu engellemedi.
 
 #### Sanguinius'ün Gelişi

@@ -13,8 +13,6 @@ Geçidin stratejik ağırlığı, Cadia'yı Imperium'un en militarize dünyalar�
 
 Cadia'nın önemi yalnızca konumundan gelmiyordu. Gezegenin yüzeyine dağılmış, kökeni binlerce yıl boyunca çözülemeyen kara taş sütunlar, Warp'ın bu bölgedeki davranışını gizemli biçimde etkiliyordu. Cadia'nın hikâyesi, bu sütunların sırrı açığa çıkana dek tam anlamıyla anlaşılamaz.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Cadia.jpg/revision/latest?cb=20100408114727)
-
 ## Pylonlar: Taşın Sırrı
 Cadia'nın yüzeyinde yükselen dev, pürüzsüz ve kapkara **pylon**'lar Imperial kayıtlarda uzun süre açıklanamayan kalıntılar olarak geçti. Adeptus Mechanicus onları incelemeye çalıştı, ama gerçek işlevini binlerce yıl boyunca kavrayamadı. Bilinen şey, Cadia çevresinde Warp fırtınalarının beklenenden sakin kalmasıydı: Eye of Terror'ın hemen kıyısında istikrarlı bir geçidin var olabilmesi, büyük ölçüde bu sütunlarla ilişkilendirildi.
 

@@ -9,5 +9,3 @@ Ophelia VII, İmparatorluk İnancı'nın Terra'dan sonra en kutsal saydığı d�
 Dünyanın yüceliği, Ecclesiarch Benedin IV ile başladı; o, kardinalliği döneminde Ophelia VII'nin piskoposuydu ve Ecclesiarch olduğunda, tüm Adeptus Ministorum'u buraya taşıdı. Bu seçimin üç nedeni vardı: Benedin'in gezegene kişisel bağlılığı, Ophelia VII'nin (Terra ve Mars'tan sonra en zengin dünya olarak) muazzam serveti ve onu Terra'daki diğer High Lord'lardan uzak tutan mesafe. Benedin, 90.000 mil kareyi aşan ve gökyüzüne 4.000 metre yükselen devasa katedraller inşa ettirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Ophelia.jpg/revision/latest?cb=20130227183722)

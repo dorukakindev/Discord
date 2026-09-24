@@ -13,8 +13,6 @@ Bu kanal Argel Tal'ı bir kişi olarak ele alır. Legion'un teolojisi ve tarihi 
 ## Kökenler
 Argel Tal'ın Colchis kökenli olduğu ve Legion'un Lorgar'ın dünyasından beslendiği kuşağa ait olduğu anlatılır. Legion'a katılmadan önceki yaşamına dair ayrıntılar romanlarda sınırlı tutulur; bu arşiv onları doldurmaz. Bilinen, onun Great Crusade yıllarında Lorgar'ın Emperor'a tapınma öğretisini içtenlikle paylaşan bir savaşçı olarak yetiştiğidir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/51/Argeltal.jpg/revision/latest?cb=20120124061115)
-
 ## Monarchia ve İnancın Kırılması
 *The First Heretic*, Argel Tal'ın hikâyesini Monarchia'da açar. Emperor'un emriyle Ultramarines'in Lorgar'ın ideal şehrini yerle bir etmesi ve Word Bearers'ın küllerin arasında diz çöktürülmesi, Argel Tal için bir Legion'un aşağılanmasından öte, kişisel imanının çöküşüdür. Tapındığı tanrı, kendisine tapınılmasını bir şehrin yıkımıyla yasaklamıştır.
 

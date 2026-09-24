@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7a/DSCF1512.jpg/revision/latest?cb=20121224102927
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 1 · Kayıt
 # Praetorian Guard — Praetoria
 

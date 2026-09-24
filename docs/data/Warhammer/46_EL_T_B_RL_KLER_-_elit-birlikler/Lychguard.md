@@ -19,5 +19,3 @@ C'tan ile yapılan anlaşma ve biotransference, Necrontyr'in katı soy hiyerarş
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551812203584295003>, <#1551649070286897172>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/b1/Lychguard30.JPG/revision/latest?cb=20150226013000)

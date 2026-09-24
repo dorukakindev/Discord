@@ -10,8 +10,6 @@ Segmentum'un **Segmentum Fortress**'i **Cypra Mundi**'dir. Bölgenin donanması 
 
 Obscurus'u Imperium için vazgeçilmez kılan şey, Eye of Terror'dan çıkan tehditlerin iç bölgelere, dolayısıyla Segmentum Solar'a ve Terra'ya ulaşmadan önce bu topraklarda karşılanmasıdır. Segmentum'un askerî coğrafyası bu yüzden bir tampon bölgenin mantığıyla örülmüştür: kale-dünyalar, donanma üsleri, Forge World'ler ve asker veren hive'lar, hepsi aynı kapıyı tutmak için birbirine bağlanır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/0/07/Segmentum_obscurus.jpg/revision/latest?cb=20120406164433)
-
 Eye of Terror'ın doğası <#1551813775848509482>, Cadia'nın kendisi <#1551812139935866891> kanalında işlenir; bu kanal bölgenin bütününe ve Imperial savunma düzenine odaklanır.
 ---MSG---
 ## Eye of Terror ve Cadian Gate

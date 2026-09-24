@@ -32,8 +32,6 @@ Moğol ve Tatar karışımıdırlar, güçlü Çin etkisi vardır (Yuan Hanedan�
 
 ### Erken Tarih — Unification Wars ve Pioneer Companies
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/e/e2/WS_Shoulder_Plate.png/revision/latest?cb=20160306102920)
-
 Unification Wars'ta V. Lejyon, birleştiricilerin gözleri ve kulaklarıydı; **Big E'nin keşif birliği**. Terra'nın harap olmuş manzarasında, genellikle birkaç düzine kişilik küçük gruplar halinde, düşman ya da düşmanları ararlardı. Terra'nın birleştirilmesi bittiğinde İmparator, V. Lejyonu birkaç yüz Marine'lik **pioneer şirketlerine** ayırarak sınırlara keşfe gönderdi. Bu pioneer şirketleri gene-seed ile bağlantılıydı ama aksi takdirde bağımsız bölümlerdi. Ana seferlerden çok daha ileriye, warp akımlarını izleyerek bilinmeyen yerlere giderlerdi. **Star Hunters** adını aldılar.
 
 Bu davranış, Lejyonun hit-and-run tercihinin kökenidir. Pioneer şirketleri neredeyse her zaman sayıca üstün düşmanlara karşı savaşıyordu, başka seçenekleri yoktu. Düşmana baskınlar ve sürpriz saldırılar yaparlar, düşmanın stratejilerini ve taktiklerini öğrenir, sonra öğrendiklerini diğer seferlere aktarırlardı. Bazıları (özellikle Horus) onları takdir etti — özellikle homeworld'ünü keşfeden pioneer şirketini (bir Horus'un yuvasıydı). V. Lejyonun savaşlarına genellikle dikkat edilmezdi ama hiçbiri bunun için üzülmedi.

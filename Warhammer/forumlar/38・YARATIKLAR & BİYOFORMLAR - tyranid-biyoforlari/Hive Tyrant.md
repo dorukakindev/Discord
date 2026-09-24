@@ -11,5 +11,3 @@ Hive Tyrant, Tyranid Hive Mind'ının bir savaş alanındaki doğrudan iradesi v
 En kritik işlevi, "sinaps" denen psişik bağ aracılığıyla çevresindeki Tyranid sürüsünü kontrol etmesidir; o, sürünün beynidir. Hive Tyrant'ın yakınındaki Tyranidler koordineli, akıllı ve odaklı savaşır. Ama o öldürülürse, kontrol ettiği sürü bir anda sinaps bağını kaybedip vahşi, içgüdüsel bir kaosa düşebilir; bu yüzden onu öldürmek, bir Tyranid ordusunu felç etmenin anahtarıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/1/1f/HiveTyrant.jpg)

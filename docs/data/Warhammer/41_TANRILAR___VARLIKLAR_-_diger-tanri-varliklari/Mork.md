@@ -11,5 +11,3 @@ Mork, Ork ırkının ikiz savaş tanrılarından diğeridir; ikizi Gork'un tersi
 Ork teolojisine göre Mork, düşmana sinsice, arkadan ve "akıllıca" saldırır; yani düşman uyurken gelip kafasına vurur. Orklara göre bu da en az Gork'un doğrudan saldırısı kadar saygındır, çünkü sonuçta yine kafaya vurmak söz konusudur; fark sadece zamanlamada ve yöntemdedir. Diş ve göz (gözetleyen, planlayan göz) onun simgeleridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/9/96/Gork_And_Mork.jpg)

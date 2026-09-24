@@ -13,8 +13,6 @@ Bu kanal türün bütününü ele alır: kökeni, mitolojisi, ruh anlayışı ve
 
 **Adlandırma notu.** Imperial kayıtlarda ve eski yayınlarda tür uzun süre "Eldar" olarak anılmıştır. Güncel yayınlar "Aeldari" adını kullanır; ikisi aynı türü karşılar.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429)
-
 ## Kökenler — Old Ones'un Çocukları
 
 Aeldari'nin ortaya çıkışı, galaksinin en eski savaşına bağlanır. Kaynaklara göre Old Ones, Necrontyr ve onların efendisi olan C'tan'a karşı yürüttükleri War in Heaven sırasında birçok "genç ırk" yaratmış ya da yükseltmişti; Aeldari bu ırkların en önemlilerinden biridir. Warp'a yatkın zihinleri ve psişik güçleri, onları Old Ones'un Immaterium'a dayanan savaş tarzının doğal müttefikleri hâline getirmişti.
@@ -24,8 +22,6 @@ Aeldari'nin War in Heaven'daki rolü modern kaynaklarda ana hatlarıyla anlatıl
 War in Heaven'ın sonunda Old Ones sahneden çekildi, Necron'lar Tomb World'lerinde uykuya daldı ve C'tan parçalandı. Geriye kalan boşluğu dolduran Aeldari, Old Ones'un bıraktığı Webway'i miras alarak galaksiye yayıldı. Bu miras, sonraki bütün Aeldari tarihinin altyapısıdır: kaçış yolları, ticaret hatları, gizli savaş güzergâhları ve Commorragh'ın kendisi hep bu labirentin içinde yer alır.
 
 Savaşın kendisi <#1551649070286897172>, yaratıcı uygarlık <#1551817636516470845>, Yngir'in doğası <#1551812203584295003> kanalında ayrıntılı işlenir.
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429)
 
 ## Panteon — Tanrılar ve Mitler
 

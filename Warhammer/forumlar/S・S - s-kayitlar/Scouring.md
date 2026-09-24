@@ -11,8 +11,6 @@ Scouring'in süresi ve bitiş tarihi yayınlarda kesin olarak sabitlenmez. Genel
 
 Kanal, Heresy'nin kendisini değil onun ardından gelen dönüşümü merkeze alır. Siege of Terra ve öncesi için <#1551814951365115956>, hain Legion'ların sonraki intikam savaşı için <#1551816158951510069> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/fc/Imperial_Eagle_by_DarkWristband_%281%29.jpg/revision/latest/scale-to-width-down/1000?cb=20120324220955)
-
 ## Hainlerin Sürülüşü
 Horus'un ölümüyle Traitor Legion'lar arasındaki birlik çözüldü. Kendi gemilerine çekilen hain kuvvetler Terra'dan geri çekildi; kimi düzenli bir ricatla, kimi bozgun hâlinde. Sons of Horus, Horus'un bedenini alarak kaçtı. Sadık Legion'lar ise Primarch'larının liderliğinde onları takip etti; bu süreçte Roboute Guilliman, Imperium'un siyasi ve askerî yeniden inşasında merkezi bir figür olarak öne çıktı.
 

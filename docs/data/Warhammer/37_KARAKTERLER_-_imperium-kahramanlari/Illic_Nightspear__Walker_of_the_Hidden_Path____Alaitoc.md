@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/77/Illic_Nightspear_updated.jpg/revision/latest?cb=20150505204554
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Illic Nightspear (Walker of the Hidden Path) — Alaitoc
 

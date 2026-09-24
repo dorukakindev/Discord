@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/66/GoliathTruck1.jpg/revision/latest?cb=20190301230038
+
 -# THE IMPERIAL ARCHIVE · Imperium Araclari · Kayıt
 # Goliath (Goliath Truck ve Goliath Rockgrinder)
 

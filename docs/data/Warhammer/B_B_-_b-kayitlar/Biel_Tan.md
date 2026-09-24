@@ -13,8 +13,6 @@ Bu craftworld'ün Great Rift çağındaki önemi ise yalnızca askerî değildir
 
 **Kanal sınırı.** Asuryani toplumunun genel kurumları <#1551812290439942255>, Aspect geleneği <#1551811222129745941>, Ynnari hareketi <#1551809867201908737>, felaketin üçleme içindeki yeri <#1551814468458258434> kanalında işlenir. Burada merkezde Biel-Tan'ın kendi kimliği, savaş geleneği ve kaderi durur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/87/Biel-tan-icon2.jpg/revision/latest?cb=20100829031457)
-
 ## Kökenler ve Yeniden Doğuş Düşü
 
 Biel-Tan da öteki craftworld'ler gibi Fall of the Aeldari'nin öncesinde ya da sırasında imparatorluğun merkezinden uzaklaşan büyük gemilerden biridir. Hangi yıllarda yola çıktığı, ilk kuşaklarının kimler olduğu ya da Slaanesh'in doğuşunda neler yitirdiği yayımlanmış kanonda ayrıntılı bir kronik olarak verilmez. Kaynakların üzerinde durduğu şey, bu kökenin craftworld'ün ruhuna bıraktığı izdir.

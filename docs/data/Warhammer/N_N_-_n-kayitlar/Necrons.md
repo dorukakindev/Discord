@@ -10,8 +10,6 @@ Necron'ları diğer büyük güçlerden ayıran şey, ruhsal bir sessizlik için
 
 Güncel anlatıda Necron'lar tek bir imparatorluk değil, uyanış sırası, uyku sırasında gördükleri hasar ve soylarının gururuna göre bölünmüş dynasties'lerden oluşan bir mozaiktir. Silent King Szarekh'in dönüşü ise bu parçalı halkı yeniden bir araya getirme girişiminin başlangıcıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/55/AnkhoftheTriarch9thEdition.jpg/revision/latest/scale-to-width-down/650?cb=20200925173557)
-
 ## Kökenler: Necrontyr
 Necrontyr, sert ve ışınımla yakan bir yıldızın altında gelişen, bu yüzden acılı ve kısa ömürlere mahkûm bir türdü. Ölümün her an yakın olduğu bu kültürde mezar yapıları ve ölüm ritüelleri toplumun merkezindeydi; yaşayanlar kısa sürede ölülerin şehirlerine katılacaklarını bilerek yaşardı. Kısa ömrün yarattığı bu burukluk, Necrontyr'in sonraki bütün tarihine yön veren kıskançlık ve öfkenin tohumunu attı.
 

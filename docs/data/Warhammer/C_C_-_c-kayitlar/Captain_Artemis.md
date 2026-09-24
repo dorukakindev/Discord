@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Artemis2.jpg/revision/latest?cb=20230606152357
+
 -# THE IMPERIAL ARCHIVE · C Kayıtları · Kayıt
 # Captain Artemis
 

@@ -1,7 +1,5 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Magnus-1.jpg/revision/latest/scale-to-width-down/653?cb=20161205070527
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Magnus-1.jpg/revision/latest/scale-to-width-down/653?cb=20161205070527)
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Magnus the Red — Kızıl Kral

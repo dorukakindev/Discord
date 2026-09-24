@@ -11,5 +11,3 @@ Attila Vahşi Süvarileri, Ultima Segmentum'da yer alan eski bir insan kolonisi 
 Attila kültürünün en önemli unsuru attır. Attila atları kötü huylu, dayanıklı ve sıkı yapılı hayvanlardır; binicileri acil durumlarda bu atlardan az miktarda kan çekerek düşman hatlarının gerisinde uzun süre hayatta kalabilir. Her klan savaşçısı, erginlik ritüelinden edindiği uzun yara izlerini yanaklarında gururla taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e8/IG5ERoughrider.jpg)

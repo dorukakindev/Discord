@@ -10,8 +10,6 @@ Kaleleri oluşturan madde, Imperial Mechanicus terminolojisinde **noctilith** ad
 
 **Köken meselesi:** Kaynaklar birkaç ihtimali yan yana tutar. Aeldari mitleri bu yapıları **Talismans of Vaul** diye anar ve tanrı Vaul'un C'tan'a karşı dövdüğü silahlarla ilişkilendirir; bu, Aeldari'nin kendi anlatısıdır. Başka metinler War in Heaven'da Old Ones'ın ya da onların müttefiklerinin elinden çıkmış olabileceklerini ima eder. Noctilith'in Necron teknolojisiyle bağı ise tabloyu daha da karmaşık kılar. Yayımlanmış kanon bu soruyu bilinçli olarak yanıtsız bırakır; arşivin tutumu, hiçbir kökeni kesin gerçek gibi sunmamaktır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Blackstone_Fortress_Coloured.png/revision/latest?cb=20170315185533)
-
 ## Gothic War
 Blackstone Fortress'lerin kaderini belirleyen olay, Abaddon the Despoiler'ın 139.M41'de başlattığı 12th Black Crusade, yani **Gothic War**'dur. Gothic Sektörü'nde altı Blackstone Fortress bulunuyordu ve Imperial Navy bunları uzun süre gerçek işlevlerini bilmeden üs ve tahkimat olarak kullanmıştı. Abaddon'ın bu uzun ve dağınık seferdeki asıl hedefi, kalelerin kendisiydi.
 

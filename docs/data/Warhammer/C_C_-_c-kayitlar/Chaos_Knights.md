@@ -10,8 +10,6 @@ Bir Imperial Knight'ın kültürü onur, yemin ve korumaya dayanır. Chaos Knigh
 
 Bu madde hain Haneleri merkeze alır. Knight suit ailelerinin teknik bağlamı <#1551818501625483265>, Imperium'a sadık Hanelerin tarihi ve kültürü ise <#1551753465900961795> kanalında ele alınır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/49/ChaosKnightsIcon.jpg/revision/latest/scale-to-width-down/975?cb=20220816184542)
-
 ## Kökenler: Heresy'den Dreadblade'lere
 Chaos Knight'ların ilk büyük dalgası Horus Heresy'ye dayanır. Heresy sırasında Knight Haneleri de Legion'lar ve Titan Legio'ları gibi bölündü; Molech dünyasının Hanelerinden **House Devine**'in Horus'un safına geçmesi bu ihanetin en bilinen örneklerindendir. Hain Mechanicum ile birlikte savaşan Haneler, Heresy'nin sonunda Eye of Terror'a çekilen hain kuvvetler arasında yer aldı.
 

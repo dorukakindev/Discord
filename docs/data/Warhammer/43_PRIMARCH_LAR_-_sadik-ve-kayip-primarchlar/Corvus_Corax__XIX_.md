@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest?cb=20160528134728
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Corvus Corax (XIX)
 

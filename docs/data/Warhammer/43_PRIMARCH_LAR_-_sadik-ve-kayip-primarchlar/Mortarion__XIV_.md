@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Mortarion%2C_Prince_of_Decay.jpg/revision/latest?cb=20110312202131
+
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Mortarion (XIV)
 

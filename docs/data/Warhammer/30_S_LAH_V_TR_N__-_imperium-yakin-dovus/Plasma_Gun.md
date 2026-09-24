@@ -22,5 +22,3 @@ Hidrojen temelli yakıt odasında plazmaya dönüştürülür ve manyetik hapset
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551808888666587197>, <#1551753458779029565>, <#1551816756417269853>, <#1551813334993739777>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/81/Plasmagun8.jpg/revision/latest?cb=20130918100344)

@@ -10,8 +10,6 @@ PDF'ler dünyanın **Planetary Governor**'una, yani Imperium adına o gezegeni y
 
 Kaynaklar PDF'lerin toplam büyüklüğüne, tek tek dünyaların mevcuduna ya da standart bir örgüt şemasına dair genel geçer bir rakam vermez; arşiv de vermez. Bu madde kurumu kavram olarak, Astra Militarum ile ilişkisini ve Imperium'un güvenlik düzenindeki yerini ele alır. Guard'ın kendisi **kayıt**, dünyaların sınıflandırması ise **kayıt** kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5e/PlanetaryGovernors.png/revision/latest?cb=20171008081110)
-
 ## Kökenler: Güvensizlikten Doğan Bir Denge
 PDF sisteminin mantığı, Imperium'un bütün askerî düzenini biçimlendiren korkuyla aynıdır: Horus Heresy. Heresy'de ordusunu ve donanmasını aynı elde tutan komutanların neler yapabildiğini gören Imperium, Heresy sonrasında Imperial Army'yi bölüp gemileri Navy'ye verdi. Aynı güvensizlik yerel düzeyde de işler. Bir dünyanın yetiştirdiği askerlerin en iyileri Guard alayı olarak kurulup başka yıldızlara gönderilir; geriye kalan yerel kuvvet ise bir valinin düzen kurmasına yetecek, ama Terra'ya meydan okumasına yetmeyecek ölçüde tutulmaya çalışılır. Kaynaklar bu dengeyi ayrıntılı bir yasa metni olarak vermez; daha çok Imperial yönetimin genel ilkesi olarak betimler.
 

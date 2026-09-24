@@ -11,8 +11,6 @@ Altansar'ın hikâyesini yalnızca bir kurtuluş anlatısı olarak okumak onun �
 
 **Kanal sınırı.** Eye of Terror'ın doğası ve tarihi <#1551813775848509482>, 13th Black Crusade'in bütünü <#1551811393680838699>, Maugan Ra'nın kişiliği ve Dark Reapers geleneği maugan-ra kanalında işlenir. Bu madde Altansar'ın kendi kaderini ve dönüşünün doğurduğu güvensizliği merkeze alır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/37/Altansar1.jpg/revision/latest?cb=20110827200003)
-
 ## Göz'e Düşüş
 
 Altansar'ın Eye of Terror'a hangi aşamada ve hangi koşullarda düştüğü, arşivin dayandığı kaynaklarda ayrıntılı biçimde anlatılmaz. Kimi okuyucular craftworld'ün Fall'un kendisinde, Slaanesh'in doğuşunun şok dalgası içinde yutulduğunu varsayar; kimi ise Göz'ün sınırlarının zaman zaman genişlediğini hatırlatarak daha sonraki bir felaketi düşünür. Arşiv bu iki olasılıktan birini kesinleştirmez; bilinen, craftworld'ün Göz'ün içinde kaldığı ve Asuryani'nin geri kalanının onu uzun süre yitirilmiş saydığıdır.

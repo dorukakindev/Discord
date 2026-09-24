@@ -13,8 +13,6 @@ Officio'nun kesin kuruluş tarihi kaynaklarda net değildir. Horus Heresy anlat�
 
 Bu erken dönemden itibaren Officio'nun yapısı, birbirinden bağımsız Temple'ların bir çatı altında toplanması şeklinde sürer. Her Temple kendi yöntemlerini, geleneklerini ve sırlarını korur; ortak operasyonlar ise istisnai durumlar için saklıdır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Assassinorum_Icon.jpg/revision/latest?cb=20140526093223)
-
 ## Temple'lar
 Officio'nun her Temple'ı belirli bir suikast felsefesine ve yöntemine adanmıştır. En tanınmış dört Temple şunlardır:
 

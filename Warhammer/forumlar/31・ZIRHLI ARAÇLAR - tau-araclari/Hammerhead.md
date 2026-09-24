@@ -11,5 +11,3 @@ Hammerhead, Tau İmparatorluğu'nun ana muharebe tankı ve birincil tank avcıs�
 Hammerhead'i ölümcül kılan, kulesindeki Railgun'dur; elektromanyetik raylarla hipersonik hıza ulaştırılan sert bir mermi fırlatır ve galaksinin en delici silahlarından biri olarak, en ağır zırhı (hatta süper ağır tankları) bile uzaktan, tek bir atışla delip geçebilir. Bir Hammerhead, en güçlü düşman zırhlısını bile güvenli bir mesafeden yok edebilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/c/c2/HammerheadArt.jpg)

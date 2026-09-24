@@ -13,8 +13,6 @@ Okuyucunun en sık karıştırdığı nokta budur. **Warhound, Reaver, Warlord, 
 
 Bu madde kurumu, Legio'ları ve tarihlerini ele alır. Tekil Titan sınıfları ile tek tek Legio kayıtları `33・TITAN` forumunda, Mechanicus'un genel yapısı <#1551753449878724689>, Heresy'deki ayrılık ise <#1551650329156788287> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/5/59/Warlord_Identification_Mark.jpg/revision/latest?cb=20120729194117)
-
 ## Collegia Titanica ve Legio'nun Yapısı
 Her Legio bir forge world'e bağlıdır. Legio Ignatum ve Legio Mortis Mars'tan, Legio Metalica aynı adlı forge world'den, Legio Gryphonicus Gryphonne IV'ten çıkar; forge world Titan'ları inşa eder, onarır ve Legio'nun bakımını üstlenir. Karşılığında Legio, forge world'ün en büyük gücü ve onurudur. Bir Legio'nun tam mevcudu kaynaklarda genellikle verilmez ve Legio'dan Legio'ya büyük farklılık gösterir; savaşa ise çoğu zaman bütün olarak değil, birkaç Titan'dan oluşan **maniple**'lar hâlinde gönderilir.
 

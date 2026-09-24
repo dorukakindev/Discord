@@ -19,5 +19,3 @@ Necron Lord'ları, Overlord'lar ve Cryptek'ler arasında yaygındır. Necron soy
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/47/Staff_of_Light_colour.jpg/revision/latest?cb=20130410124946)

@@ -31,8 +31,6 @@ Hayatta kalan tek bilinçli üyeler, kafir psişik güçlerde inanılmaz dereced
 
 ### Prospero (Eski)
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/8/81/Thousand_Sons_Post-Heresy_Armorial.png/revision/latest?cb=20210415205803)
-
 **Prospero**, Thousand Sons'un eski ana gezegeniydi. **Tizca**'nın merkezi, gelişmiş bir medeniyetti. Magnus burada büyük bir kütüphane, **Prospero'nun Pyramids of Tizca**'sını inşa etti. **Space Wolves** tarafından yok edildi.
 
 ### Sortiarius (Mevcut)

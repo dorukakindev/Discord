@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/64/EmperorsChildrenArmourial.png/revision/latest?cb=20170813041500
+
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # III — Emperor's Children
 

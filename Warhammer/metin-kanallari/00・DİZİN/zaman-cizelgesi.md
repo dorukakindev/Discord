@@ -13,8 +13,6 @@ Bu kanal, galaksinin bilinen tarihini War in Heaven'ın kadim karanlığından G
 
 Bu yüzden aşağıdaki çizelge bir cetvel değil, bir haritadır: yönü gösterir, mesafeyi her zaman ölçmez. Tarihler arasında çelişki bulunan yerlerde güncel anlatım esas alınmış, eski çerçeveler gerektiğinde ilgili kanalların "Yayın ve Retcon Notu" bölümlerine bırakılmıştır.
 
----
-
 ## I. Kadim Çağ — War in Heaven ve Genç Irklar
 
 **Yaklaşık altmış milyon yıl önce (modern kaynakların genel çerçevesi).** Galaksinin bilinen en eski büyük çatışması, Old Ones ile Necrontyr arasında patlak veren War in Heaven'dır. Warp'a hâkim, yaşamı gezegenlere eken ve Webway'i inşa eden Old Ones'a karşı, kısa ve acı dolu ömürlerinden bıkmış Necrontyr önce yenilgiye uğradı; ardından C'tan adlı yıldız varlıklarıyla anlaşarak biotransference sürecinden geçti ve ölümsüz ama ruhu kazınmış Necron'lara dönüştü.
@@ -26,8 +24,6 @@ Old Ones bu savaşta Aeldari ve Orkların atası sayılan Krork gibi savaşçı 
 **Aeldari altın çağı.** Aeldari imparatorluğu Webway üzerinden galaksiye yayıldı; bu çağın iç düzeni ve kronolojisi kaynaklarda ayrıntısız kalır. Bilinen şudur: imparatorluğun sonu, M30'da gelen Fall ile olmuştur ve bu felaket insan tarihiyle doğrudan kesişir.
 
 İlgili kanallar: <#1551649070286897172>, <#1551817636516470845>, <#1551812203584295003>, <#1551759762193121282>, <#1551810506078290021>, <#1551809699312181339>
-
----
 
 ## II. İnsanlığın Yükselişi ve Old Night (yaklaşık M1–M30)
 
@@ -41,8 +37,6 @@ Old Ones bu savaşta Aeldari ve Orkların atası sayılan Krork gibi savaşçı 
 
 İlgili kanallar: <#1551813334993739777>, <#1551810663859626054>, <#1551814105046851615>, <#1551813775848509482>, <#1551754688008032321>, <#1551818131679215728>
 
----
-
 ## III. Unification Wars ve Great Crusade (M30'un sonları – M31'in başı)
 
 **Unification Wars.** Old Night'ın sonlarında Terra'da ortaya çıkan Emperor, kökeni kaynaklarda kasıtlı olarak sisli bırakılmış bir figür olarak, parçalanmış Terra'yı savaş ağaları ve teknobarbar krallıklarının elinden kopararak birleştirdi. Bu savaşların öncü birlikleri Thunder Warriors'tı; onların yerini daha sonra Space Marine Legion'ları aldı. Birleşme, Mars'ın Mechanicum'uyla yapılan Treaty of Olympus ile taçlandı ve Terra ile Mars arasındaki kadim ortaklık bu antlaşmayla kuruldu.
@@ -52,8 +46,6 @@ Old Ones bu savaşta Aeldari ve Orkların atası sayılan Krork gibi savaşçı 
 **Ullanor ve Warmaster.** M31'in eşiğinde Ullanor'daki büyük Ork imparatorluğunun yıkılmasının ardından Emperor, Horus Lupercal'ı Warmaster ilan ederek Terra'ya çekildi. Bu geri çekilişin ardında Webway'e dair gizli bir projenin yattığı, Horus Heresy yayınlarında zamanla açığa çıkar. Aynı dönemde Council of Nikaea psyker kullanımını tartışmaya açmış, Legion'lar arasındaki gerilimler derinleşmeye başlamıştı.
 
 İlgili kanallar: <#1551809555841818669>, <#1551813713403580438>, <#1551814367203303506>, <#1551818097504157699>, <#1551816635839549491>, <#1551809168032268310>
-
----
 
 ## IV. Horus Heresy ve Scouring (yaklaşık 005.M31 – M31'in sonları)
 
@@ -66,8 +58,6 @@ Old Ones bu savaşta Aeldari ve Orkların atası sayılan Krork gibi savaşçı 
 **İlk Black Crusade (781.M31).** Abaddon, Sons of Horus'un kalıntılarından doğan Black Legion'ın başında Eye of Terror'dan çıkan ilk Black Crusade'i başlattı.
 
 İlgili kanallar: <#1551814951365115956>, <#1551808968190464005>, <#1551808704901423186>, <#1551811393680838699>, <#1551811342405599345>, <#1551816158951510069>
-
----
 
 ## V. Orta Binyıllar (M32–M40)
 
@@ -83,8 +73,6 @@ Old Ones bu savaşta Aeldari ve Orkların atası sayılan Krork gibi savaşçı 
 
 İlgili kanallar: <#1551759766966116383>, <#1551636479925559479>, <#1551809146850910260>, <#1551651549804236801>, <#1551753444308811807>, <#1551810643785687071>
 
----
-
 ## VI. M41 — Kırk Birinci Binyılın İlk Yarısı ve Ortası
 
 M41, Warhammer 40,000'ın klasik anlatısının geçtiği binyıldır ve kaynaklar bu dönemde çok daha yoğundur.
@@ -98,8 +86,6 @@ M41, Warhammer 40,000'ın klasik anlatısının geçtiği binyıldır ve kaynakl
 **First Tyrannic War (745.M41).** Hive Fleet Behemoth'un galaksiye girişi. Ultramar'daki Battle for Macragge'de Ultramarines'in ağır bedelle kazandığı savunma, Tyranid tehdidinin Imperium için gerçek boyutunu ilk kez gösterdi.
 
 İlgili kanallar: <#1551811393680838699>, <#1551817319288676373>, <#1551638910344630307>, <#1551641477501947995>, <#1551809146850910260>, <#1551759780211589197>, <#1551809394226765939>
-
----
 
 ## VII. M41'in Sonu — Time of Ending
 
@@ -115,8 +101,6 @@ M41, Warhammer 40,000'ın klasik anlatısının geçtiği binyıldır ve kaynakl
 
 İlgili kanallar: <#1551808888666587197>, <#1551759766966116383>, <#1551759780211589197>, <#1551817657777389601>, <#1551812139935866891>, <#1551811342405599345>
 
----
-
 ## VIII. Great Rift ve Era Indomitus (999.M41'den itibaren)
 
 **Great Rift ve Noctis Aeterna.** Cadia'nın düşüşüyle birlikte Eye of Terror'dan galaksiyi boydan boya kesen Cicatrix Maledictum açıldı. Astronomican'ın ışığının geniş bölgelerde görülemediği Noctis Aeterna döneminde Imperium, Imperium Sanctus ve Warp'ın ötesinde kalan Imperium Nihilus olarak ikiye bölündü.
@@ -128,8 +112,6 @@ M41, Warhammer 40,000'ın klasik anlatısının geçtiği binyıldır ve kaynakl
 **Arks of Omen.** Chaos'un zanaat ve dövme ustası Vashtorr'un ortaya çıkışını ve Abaddon ile ilişkisini, Angron'un maddi âleme dönüşünü ve Lion El'Jonson'un yeniden ortaya çıkışını içeren anlatı hattıdır. Vashtorr'un ve Abaddon'ın asıl amaçları yayınlarda bilerek kısmen örtülü bırakılmıştır.
 
 İlgili kanallar: <#1551814400938082357>, <#1551815418619101185>, <#1551809601207533690>, <#1551818153271627807>, <#1551816136679751721>, <#1551809718085746759>
-
----
 
 ## IX. 10th ve 11th Edition Anlatısı (güncel durum)
 

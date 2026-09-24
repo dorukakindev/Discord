@@ -22,5 +22,3 @@ Kaya ve toprağı yaran güçlü ön uzuvlar, kalın kitin kabuk ve çok büyük
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/63/Mawloc_Attack.png/revision/latest/scale-to-width-down/724?cb=20140725230754)

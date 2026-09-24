@@ -18,6 +18,4 @@ Craftworld Guardian'larının temel silahıdır; bir Craftworld topyekûn savaş
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Warrior — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551714833236496445>, <#1551587928025600012>, <#1551714821831921734>, <#1551740901133520896>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9a/Shuriken_catapult.jpg/revision/latest?cb=20131207013441)
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1552483150322737262>, <#1551810727445004339>

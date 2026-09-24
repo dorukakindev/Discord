@@ -9,5 +9,3 @@ Vulkan He'stan, Salamanders chapter'ının Forgefather'ıdır (Demirci-Ata); cha
 Salamanders'ın primarch'ı Vulkan, gizemli bir biçimde ortadan kaybolmadan önce, soyunu sınamak için galaksinin dört bir yanına dokuz kutsal eser sakladı; inanışa göre, bu emanetlerin hepsi bir araya getirildiğinde Vulkan geri dönecektir. Bu, chapter için tükenmez bir umut kaynağıdır; primarch'larının bir gün döneceğine olan inanç, onları ayakta tutar. Forgefather unvanı, bu arayışı sürdüren ve emanetleri en çok toplayabilen savaşçıya verilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/e/e0/VulkanHestanArt.jpg)

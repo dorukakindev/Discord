@@ -13,8 +13,6 @@ Legion'ın genel tarihi için <#1551636479925559479>, Perturabo için <#15516503
 ## Arka Plan
 Isstvan III'teki katliamın haberi Nathaniel Garro'nun *Eisenstein* gemisiyle Terra'ya ulaştığında Dorn, Legion'ının güçlü bir bölümünü Horus'a karşı gönderilecek ceza kuvvetine katmak üzere yola çıkardı. Primarch ise Emperor'ın emriyle Terra'da kaldı ve Imperial Palace'ın tahkimatına döndü. Isstvan V'teki Drop Site Massacre'ın ardından Horus'un tarafına geçmiş Legion'ların gerçek yüzü ortaya çıkınca, yolda olan bu filo artık Warmaster için hem bir tehdit hem de kolay bir av hâline geldi.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9f/BattleofPhall.jpg/revision/latest/scale-to-width-down/1000?cb=20180514104345)
-
 ## Baskın
 John French'in *The Crimson Fist*'inin anlattığı üzere Imperial Fists filosu Phall sisteminde bulunduğu sırada Iron Warriors gemileri Warp'tan çıkarak saldırıya geçti. Baskını Perturabo bizzat, amiral gemisi **Iron Blood**'un güvertesinden yönetti. Lord of Iron'ın savaşı, sahada olduğu gibi uzayda da bir kuşatma mühendisinin hesabıyla kurulmuştu: sistemin geometrisi, filonun kaçış yolları ve takviye ihtimalleri, düşmanı yavaş yavaş boğacak bir çember hâline getirildi.
 

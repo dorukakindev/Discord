@@ -8,5 +8,3 @@ Biel-Tan, dağılmış Aeldari ırkının en militan, en gururlu ve en saldırga
 Biel-Tan'ın halkı, Aeldari'nin galaksinin meşru efendileri olduğuna ve bu kayıp ihtişamın savaşla geri kazanılabileceğine inanır; insanları, orkları ve diğer "alt ırkları" hor görür, eski Aeldari dünyalarını (özellikle Exodite dünyalarını) bu istilacılardan "temizlemeyi" kutsal bir görev sayar. Bu militarist felsefe, onları craftworld'ler arasında en savaşçı olanı yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/a/a4/AutarchArt8th.jpg)

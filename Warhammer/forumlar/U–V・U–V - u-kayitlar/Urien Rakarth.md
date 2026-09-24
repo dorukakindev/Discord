@@ -10,8 +10,6 @@ Rakarth'ı anlamak için Haemonculus'ların Drukhari toplumundaki yerini hatırl
 
 Rakarth'ın yaşı kesin olarak bilinmez. Onu Commorragh'ın en yaşlı Haemonculus'larından biri sayan anlatılar, Karanlık Şehir'in kendi ününe dayanır; arşiv bu nitelemeyi doğrulanmış bir ölçü değil, evren içi bir şöhret olarak kaydeder. Yine de kaynaklar onun, pek çok Archon'un doğumundan önce de et sanatının ustası olduğunu ima eder.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Urien_Rakarth-0.jpg/revision/latest?cb=20200414112627)
-
 **Kanal sınırı.** Haemonculus Coven'larının genel yapısı ve et sanatı <#1551815081644265473>, şehrin kendisi <#1551645291873050666>, Drukhari toplumu <#1551813105166712966> kanalında işlenir. Burada merkezde Rakarth'ın kişiliği ve konumu durur.
 ---MSG---
 ## Ölüm, Yeniden Doğuş ve Bir Sanatçının Takıntısı

@@ -13,8 +13,6 @@ Caliban, sık ve karanlık ormanlarla kaplı, feodal düzende yaşayan bir düny
 
 Order'ın içinde yetişen Lion, tarikatları birleştirip Great Beasts'e karşı bir yok etme seferi başlattı. Mitchel Scanlon'un *Descent of Angels* romanı, bu seferin Caliban'ı insan için güvenli kılarken tarikatların kadim yaşamını da sona erdirdiğini, birliğe direnen tarikatların ise sert bir bedel ödediğini anlatır. Horus Heresy romanları, Great Beasts'in ve ormanların Warp'la lekeli olduğunu, bu lekenin canavarlar yok edildikten sonra da dünyadan tümüyle silinmediğini ima eder. Lekenin sonraki isyanla doğrudan bağı ise yayımlanmış kanonda kesinleştirilmemiştir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Caliban_asteroid_belt.jpg/revision/latest?cb=20120319160609)
-
 ## Imperial Dönem ve Yıkım
 Emperor'un gelişiyle Caliban, I Legion'ın yurdu ve aday kaynağı oldu. Horus Heresy dönemini işleyen eserler, bu dönemde ormanların temizlenip dünyanın Imperium'un ihtiyaçlarına göre sanayileştirildiğini, eski feodal düzenin çözüldüğünü ve bunun halk arasında derin bir hoşnutsuzluk doğurduğunu gösterir. Mike Lee'nin *Fallen Angels* romanı Caliban'daki huzursuzluğun ve Imperial yönetime duyulan öfkenin tohumlarını işler. Crusade'in ortasında Caliban'a geri gönderilen Luther, zamanla bu öfkenin ve Legion'ın dışlanmış savaşçılarının merkezine dönüştü.
 

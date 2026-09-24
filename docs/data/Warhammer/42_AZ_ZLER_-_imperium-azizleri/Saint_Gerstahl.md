@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Adeptus_Ministorum_Icon.jpeg/revision/latest?cb=20180904094959
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Gerstahl
 *Aziz Gerstahl*

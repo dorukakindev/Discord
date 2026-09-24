@@ -13,8 +13,6 @@ Horus Heresy kaynaklarında Luna'nın, Age of Strife'tan Terra'ya boyun eğmeyen
 
 Selenar'ın bilgisinin nereden geldiği, ne kadar eski olduğu ve kültlerin iç yapısı yayımlanmış kanonda ayrıntılı açıklanmaz. Kesin olan, Emperor'un Terra'yı birleştirirken Luna'yı göz ardı edemeyeceği kadar kıymetli ve tehlikeli bir bilgi hazinesiyle karşı karşıya olduğudur.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/4/42/Luna.jpg/revision/latest/scale-to-width-down/991?cb=20110825142346)
-
 ## Luna'nın Boyun Eğdirilişi ve Luna Wolves
 Unification Wars'un son evrelerinde Emperor'un kuvvetleri Luna'ya yöneldi ve Selenar kültleri boyun eğdirildi. Horus Heresy literatüründe bu harekât, ilk Space Marine Legion'larının sahneye çıktığı dönemle ilişkilendirilir; ancak savaşın safhaları, süresi ve kayıpları hakkında kaynaklar sınırlı bilgi verir. XVI Legion'ın **Luna Wolves** adını bu fetihten aldığı yaygın biçimde aktarılır. Bu ad, Legion'ın Primarch'ına kavuşmasından önce de kullanılıyordu; Horus'un bulunuşunun ardından Legion Cthonia'dan savaşçı devşirmeye başlasa da beyaz zırhı ve ay simgeleri eski adın hatırasını taşımayı sürdürdü.
 

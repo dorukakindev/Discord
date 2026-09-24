@@ -9,5 +9,3 @@ Bedeni tümüyle yanmış, mühürlü bir yaşam-destek koltuğuna hapsolmuş g�
 Gideon Ravenor, İmparatorluk Engizisyonu'nun en güçlü psyker'larından biri; korkunç bir felaketin ardından bedeni tümüyle harap olduğu için, mühürlü ve anti-gravitik bir yaşam-destek koltuğuna kalıcı olarak hapsedilmiş bir Ordo Xenos Inquisitor'ıdır. Koltuk artık onun bedenidir; içinde tamamen hareketsizdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/3/33/Ravenor_Thracian.jpeg)

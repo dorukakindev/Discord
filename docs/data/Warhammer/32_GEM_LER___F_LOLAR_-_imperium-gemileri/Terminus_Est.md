@@ -19,5 +19,3 @@ Horus Heresy'nin başlarında Typhon'un gemisi olarak görülür. Terra'ya yöne
 -# Kaynaklar: *The Flight of the Eisenstein — James Swallow*; *The Buried Dagger — James Swallow*; *Codex: Death Guard — 10th Edition*
 
 -# İlişkili kayıtlar: <#1551813274327060552>, <#1551754683222327439>, <#1551650329316036699>, <#1551818194841501818>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/d3/Terminus_Est.png/revision/latest/scale-to-width-down/769?cb=20131219001854)

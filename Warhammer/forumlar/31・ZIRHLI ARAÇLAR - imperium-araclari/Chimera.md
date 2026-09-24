@@ -11,5 +11,3 @@ Chimera, Astra Militarum'un (İmparatorluk Muhafızı) her cephede görülen, va
 Chimera, bir takım Muhafız askerini ateş altında güvenle taşır ve kulesindeki multi-laser ile ateş desteği sağlar; ön kısmında heavy bolter ya da heavy flamer da bulunur. Tank kadar ağır değildir ama bir piyade birliğini koruyup cepheye ulaştırmak için yeterince zırhlıdır; tank ile yaya asker arasındaki köprüdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/6/64/IG5EChimeraArmouredTransport.jpg)

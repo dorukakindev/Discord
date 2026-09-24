@@ -10,8 +10,6 @@ Ghazghkull hakkında bilinenler iki farklı süzgeçten geçerek bize ulaşır. 
 
 Kapsam notu: Armageddon dünyası ve üç savaşın askerî seyri <#1551643990196232303>, Ork toplumu ve biyolojisi <#1551759766966116383>, klan yapısı <#1551817830096310363>, Ork tanrıları <#1551814495138091013> kanallarındadır. Bu madde Ghazghkull'u bir kişi olarak merkeze alır: kökeni, inancı, düşünme biçimi, rakipleri ve yayın tarihi boyunca geçirdiği dönüşüm.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/9/9e/Ghazghkull2.png/revision/latest/scale-to-width-down/698?cb=20140723001859)
-
 ## Urk ve Kafa Yarası
 Ghazghkull'un hikâyesi, Urk adlı sert bir Ork dünyasında, sıradan bir Goff savaşçısı olarak başlar. Kaynaklar onun gençliğine dair ayrıntıya pek girmez; önemli olan, Imperial kuvvetlerin Urk'a yönelttiği bir saldırı sırasında başından aldığı ve bir Ork için bile ölümcül sayılacak yaradır. Kafatasının bir bölümü parçalanan Ghazghkull'u, Ork cerrahisinin en tekinsiz uygulayıcılarından **Mad Dok Grotsnik** ameliyat masasına yatırdı ve eksilen kemiği metal bir plakayla kapattı. Eski kaynaklarda bu plakanın adamantium olduğu söylenir; ayrıntı yayınlar arasında aynı ısrarla tekrarlanmaz.
 

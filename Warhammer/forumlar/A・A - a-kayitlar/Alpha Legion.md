@@ -10,8 +10,6 @@ Bu yüzden Alpha Legion hakkında yazılan her şey, özenle okunmalıdır. Legi
 
 Legion'un simgesi çok başlı Hydra'dır ve sık aktarılan mottosu "Hydra Dominatus" olarak bilinir. Hydra imgesi, bir başın kesilmesiyle ölmeyen, merkezsiz ve kendini yenileyen bir örgütlenmeyi anlatır. Heretic Astartes ekosisteminin geneli için <#1551812225570836561> kanalına bakınız.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Alpha_Legion_Heretic_Armorial.png/revision/latest?cb=20180709221710)
-
 ## Kökenler: Alpharius ve Omegon
 Alpha Legion'un Primarch'ı Alpharius, kayıtlara göre Emperor'un bulduğu son Primarch'tır. Ancak Heresy yayınları, özellikle Dan Abnett'in *Legion* romanı, sarsıcı bir gerçeği ortaya koyar: Legion'un başında tek bir Primarch değil, Alpharius ve Omegon adında birbirinin aynısı iki ikiz kardeş bulunuyordu. İkizler, dışarıya karşı tek bir kişi gibi davranarak birbirlerinin yerini alabiliyor ve Legion'un bütün kültürünü bu ikili yapı üzerine kuruyordu.
 

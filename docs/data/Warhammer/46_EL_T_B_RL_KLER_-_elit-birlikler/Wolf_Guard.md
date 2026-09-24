@@ -19,5 +19,3 @@ Great Company'ler arasındaki rekabet ve bağımsızlık, her Wolf Guard'a kendi
 -# Kaynaklar: *Codex Supplement: Space Wolves*; *Space Wolf — William King*
 
 -# İlişkili kayıtlar: <#1551638910344630307>, <#1551649072912269433>, <#1551808888666587197>, <#1551753431230971988>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/3/36/SW_Wolf_Guard.png/revision/latest/scale-to-width-down/671?cb=20140812174653)

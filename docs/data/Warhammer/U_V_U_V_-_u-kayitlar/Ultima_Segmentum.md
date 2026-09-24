@@ -10,8 +10,6 @@ Segmentum'un **Segmentum Fortress**'i **Kar Duniash**'tır; bölgenin Imperial N
 
 Ultima'nın tarihini diğer Segmentum'lardan ayıran üç eksen vardır: Roboute Guilliman'ın mirası olan **Ultramar**, galaksinin doğu kıyısında yükselen **T'au Empire** ile Ork imparatorlukları ve Imperium'un **Tyranid**'lerle ilk kez yüzleştiği doğu sınırı. Buna Terra'ya yakın kesimdeki **Maelstrom**'u da eklemek gerekir. Bu kanal bu eksenleri Segmentum düzeyinde bir araya getirir; her birinin ayrıntısı kendi kanalındadır.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/b/be/Segmentum_ultima.jpg/revision/latest/scale-to-width-down/661?cb=20120406195349)
-
 Ad konusunda küçük bir not: kaynaklarda yaygın biçim **Ultima Segmentum**'dur; "Segmentum Ultima" kullanımı da görülür ve aynı bölgeyi anlatır.
 ---MSG---
 ## Ultramar, Baal ve Maelstrom

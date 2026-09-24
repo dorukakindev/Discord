@@ -10,8 +10,6 @@ Kaynakların ortak vurgusu, Drach'nyen'in içindeki şeyin sıradan bir daemon o
 
 Bu kanal silahın kendisine odaklanır. Onu taşıyan lord <#1551638958352506881>, kurduğu Legion <#1551811342405599345>, yürüttüğü seferler <#1551811393680838699> kanalında işlenir.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Drach%27nyen_Daemonsword3.png/revision/latest/scale-to-width-down/233?cb=20130821095331)
-
 ## İçindeki Varlık: İlk Cinayetin Yankısı
 Drach'nyen'in asıl dehşeti, bir kılıç olmasından değil, içine hapsedilmiş varlığın ne olduğundan gelir. Aaron Dembski-Bowden'ın Black Legion romanlarında bu varlık, insanlığın işlediği ilk cinayetin Warp'ta bıraktığı yankı olarak tasvir edilir. Bu tanım evren-içi bir anlatımdır; kılıcı somut bir tarihe değil, insan doğasının en eski günahına bağlayan karanlık bir köken sunar.
 

@@ -11,5 +11,3 @@ Deathwatch, geleneksel anlamda tek bir chapter değildir; Ordo Xenos Inquisition
 Tek bir uzmanlık alanları vardır: xenos (yabancı tür) avı. Ork'tan Tyranid'e, Aeldari'den Necron'a kadar galaksinin tüm yabancı tehditlerini inceler, izler ve yok ederler; her biri belirli xeno türleri hakkında derin bilgiye sahiptir. Hellfire (Tyranid'e karşı asit) ve Kraken (zırh delici) gibi özel mühimmatları, farklı düşmanlara göre kullanırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-![gorsel](https://wh40k.lexicanum.com/mediawiki/images/b/bd/Deathwatch-Epistolary.jpg)

@@ -22,5 +22,3 @@ Cybernetic Revolt adıyla da anılan ayaklanmaları, insan uygarlığının gala
 -# Kaynaklar: *Warhammer 40,000 Core Book — 10th Edition*; *Warhammer Quest: Blackstone Fortress*
 
 -# İlişkili kayıtlar: <#1551757340905181286>, <#1551813334993739777>, <#1551810663859626054>, <#1551753449878724689>, <#1551811621285003315>
-
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/d/de/UR025.jpg/revision/latest?cb=20181109222157)

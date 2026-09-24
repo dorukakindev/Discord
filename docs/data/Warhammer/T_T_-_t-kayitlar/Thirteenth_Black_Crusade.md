@@ -13,8 +13,6 @@ Cadia'nın bir dünya ve bir halk olarak kaybı için <#1551812139935866891>, fe
 ## Bağlam ve Hazırlık
 Thirteenth Black Crusade birdenbire patlamadı. Abaddon'ın seferleri çoğu zaman bir sonrakinin zeminini hazırlar. Özellikle Gothic War'da (12th Black Crusade) ele geçirilen kadim **Blackstone Fortress**'ler bu son sefer için saklanmış silahlardı. Warmaster on yıllar boyunca Eye of Terror'da kuvvet topladı. Black Legion'ın yanına birbirine düşman Traitor Legion warband'leri, Renegade Chapter'lar, daemon orduları, kültist sürüleri ve Dark Mechanicum kuvvetleri katıldı.
 
-![gorsel](https://static.wikia.nocookie.net/warhammer40k/images/6/60/The_eye_of_Terror_2.jpg/revision/latest/scale-to-width-down/875?cb=20120917215958)
-
 Hedef her zamanki gibi Cadian Gate'ti. Eye of Terror'dan Imperium'un iç bölgelerine uzanan en güvenilir geçit burasıydı ve onu tutan Cadia, on bin yıldır Imperium'un kalkanıydı. Ama Abaddon bu kez yalnızca gezegenin ordularını kırmayı amaçlamıyordu. Asıl hedefi, Cadia'nın yüzeyine dağılmış, kökeni binlerce yıl çözülemeyen kara **pylon**'lardı. Bu sütunlar, Eye of Terror'ın genişlemesini bastıran kadim bir mühür işlevi görüyordu.
 
 Savunmanın başında Lord Castellan **Ursarkar E. Creed** vardı. Onun cüretkâr ve sezgisel komutası, seferin ilk safhasında Imperium'un en büyük kozu olacaktı.
