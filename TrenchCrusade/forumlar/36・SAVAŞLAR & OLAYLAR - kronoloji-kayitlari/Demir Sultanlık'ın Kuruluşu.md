@@ -16,7 +16,7 @@ Cehennem'in Levant'ı yutması, yalnızca Hristiyan dünyasını değil, bölgen
 
 Bu devletin bel kemiği, adını Kuran'da geçen İskender figüründen, yani Dhu al-Karneyn'den (İki Boynuzlu) alan devasa bir savunma yapısıydı: Demir Duvar. Bu sadece bir sur değil, Cehennem'in sapkın ordularına karşı dikilmiş, bir uygarlığın varlığını koruyan fiziksel bir cepheydi. Sultanlık, gerçek dünyadaki Türk-Pers devletlerinin ve çürüyen Bizans'tan koparılan toprakların alternatif bir yansımasıydı; ama burada düşman komşu bir imparatorluk değil, bizzat Cehennem'in kendisiydi.
 
-![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Africa_Map_in_Ottoman_Turkish.jpg/960px-Africa_Map_in_Ottoman_Turkish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+---
 
 Demir Sultanlık'ı eşsiz kılan, kaybolmuş bilginin onun surlarının ardında yeşermesiydi. Alamut'un Suikastçıları, çevrelerindeki uzay-zamanı bükebilen gizemli savaşçılardı; Bilgelik Evi'nin (House of Wisdom) simyacıları ise teknolojiyi ve ilahi büyüyü harmanlayarak akıl almaz şeyler yaratıyordu. Onların elinden, simyayla güçlendirilmiş askerler, Cabir'in Aslanları (Lions of Jabir) ve dev Tunç Boğalar (Brazen Bulls) gibi yapay yaşam formları çıkıyordu. Demir Sultanlık böylece imanlı insanlığın bir başka büyük kalesi hâline geldi: Hristiyan Avrupa'dan ayrı, kendi inancı, kendi simyası ve kendi kahramanlarıyla, ama aynı düşmana karşı dikilen ikinci bir surdu. Onun kuruluşu, Cehennem'e karşı verilen savaşın tek bir halkın değil, tüm imanlı uygarlıkların ortak kaderi olduğunu gösterir.
 

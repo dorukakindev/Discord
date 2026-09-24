@@ -13,6 +13,8 @@ Melekler (the Angels), Trench Crusade evreninde ilahi müdahalenin en saf ve en 
 
 Bir melek belirdiğinde, varlığı maddi dünyaya o kadar kökten aykırıdır ki, sadece ortaya çıkması bile yıkıcı bir güce dönüşür. Bir melek, savaş alanına çıktığı an, dost ve düşman ayırt etmeksizin, sırf orada bulunmasıyla bütün orduları yok edebilir; İmanlılar da, Sapkınlar da, onun varlığının dayanılmaz gerçekliği karşısında silinip gidebilir. Melekler, ölümlü bedenlerin ve ölümlü düzlemin doğasına o denli zıttır ki, onların huzuru ölümlüler için yaşanabilir bir şey değildir; varlıkları, adeta gerçekliği yırtan bir felakettir.
 
+---
+
 Bu, Trench Crusade'in kutsallık ve dehşet anlayışının en çarpıcı yönlerinden biridir; bu evrende Cennet'in gücü bile, insan için güvenli ya da yumuşak değildir. Bir melek çağırmak ya da onunla karşılaşmak, bir kurtuluştan çok bir kıyamettir; çünkü o güç, ölümlülerin kavrayışını ve dayanma sınırını kat kat aşar. İmanlılar, meleklerin müdahalesine sığınmaktan çok, onların yokluğunda kendi imanlarıyla savaşmak zorundadır. Melekler, Trench Crusade'de ilahi olanın insan ölçeğini nasıl aştığını temsil eder; en yüce kutsal gücün bile, ölümlü bir dünyada belirdiğinde, dost düşman demeden her şeyi silip süpüren bir dehşete dönüşebileceğini, ve bu evrende ne Cennet'in ne Cehennem'in insan için merhametli olmadığını gösterir.
 
 -# Kaynaklar: Resmî lore terminolojisi

@@ -14,6 +14,8 @@ Tartaros Pençeleri (Tartarus Claws), Cehennem Lejyonları'nın en sinsi ve en �
 
 Bu silahın gücü, açtığı yaranın doğasında yatar. Tartaros Pençeleri'nin verdiği tek bir kesik bile, kurbanı yalnızca yaralamakla kalmaz; Styx'in zehrini bedene zerk eder. Bu cehennem zehri, ölümlü hiçbir panzehirin etkisiz kılamayacağı kadar güçlüdür; en küçük bir çizik bile, sağlıklı bir savaşçıyı saatler, hatta dakikalar içinde içeriden çürütüp öldürebilir. Bu yüzden Ölüm Komandoları, bu pençeleri taşıyarak gölgelerden sızar, düşmanın en değerli savaşçılarına yaklaşır ve tek bir dokunuşla onları ölüme mahkûm eder. Onlar için bir savaşı kazanmak, düşmanı ezmek değil, doğru kurbana bir kez dokunmaktır.
 
+---
+
 Ama tüm cehennem silahları gibi, Tartaros Pençeleri de taşıyanına bir bedel yükler. Cehennem metalinden dövülmüş bu lanetli eşyaları taşımak, bedeni ve ruhu yavaşça kemirir; Styx'in zehri sadece kurbanı değil, onu kullananı da kirletir. Bir Ölüm Komandosu, bu pençelerin gücüyle ne kadar çok öldürürse, kendi insanlığından da o kadar çok kaybeder; lanetli silahları, onu kullandıkça onu kendisine benzetir. Tartaros Pençeleri, Trench Crusade'de Cehennem'in pazarlığının özünü temsil eder: korkunç, karşı konulamaz bir güç vaat eder, ama karşılığında her zaman taşıyanın bedeninden, ruhundan ve insanlığından bir parça koparıp alan, asla bedelsiz olmayan lanetli bir silahtır.
 
 ## Ayırt Edici Özellikler

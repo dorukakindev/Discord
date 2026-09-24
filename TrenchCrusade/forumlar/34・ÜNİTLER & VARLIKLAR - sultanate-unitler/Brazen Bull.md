@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/1/13/Brazen-Bull.jpg/revision/latest/scale-to-width-down/900?cb=20250428013201
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/1/13/Brazen-Bull.jpg/revision/latest/scale-to-width-down/900?cb=20250428013201)
+---
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
 
@@ -19,6 +19,8 @@ Brazen Bull (Tunç Boğa), Iron Sultanate'in savaş alanındaki en korkunç gör
 Bu yaratıkların gücü efsanevidir. Devasa kuvvetleri ve canlılıklarıyla, düşmanlarını ikiye bölecek (tearing in half) kadar acımasız bir fiziksel üstünlüğe sahiptirler. Bir Brazen Bull'un ilerleyişini durdurmak için sıradan silahlar çoğu zaman yetersiz kalır; o, mermi yağmurunun içinden, tunç gövdesi çentilse de durmadan yürür. Sultanlık'ın birleşik silah doktrininde, Azaplar düşmanı oyalarken ve Yeniçeriler karşı hücum için beklerken, Brazen Bull hattın ağır çekiç ucudur.
 
 Adı, tarihteki o meşhur işkence aletini, antik Akragas tiranı Phalaris'in tunçtan boğasını yankılar; bu da yaratığın hem korku salan görünüşüne hem de Iron Sultanate'in estetik dilindeki kadim ve acımasız tona uygundur. Bir Brazen Bull, yalnızca bir makine değildir; o, simyanın ürünü, yapay olarak doğmuş, çoğu zaman bir tür çarpık bilince ve dolayısıyla bir tür ıstıraba sahip bir Takwin varlığıdır. Onun gümbürtüsünün altında, yaratılmış bir canlının trajedisi yatar.
+
+---
 
 Brazen Bull, Jabirean Alchemist'in dehâsının ve cüretinin en görkemli kanıtıdır. O, Demir Duvar'ı korumak için var edilmiş canlı bir kuşatma kulesidir; toplarıyla uzaktan, elleriyle yakından öldüren bir bahemottur. Düşman için yenilmez bir kâbus, Sultanlık için ise hem bir gurur kaynağı hem de yaratılışın sınırlarını zorlamanın canlı bedelidir. Tunç gövdesi parladığında, savaş alanında kimin gerçek güç olduğu bir an için tartışmasız hâle gelir.
 

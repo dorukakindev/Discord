@@ -15,7 +15,7 @@ Lanetliler (the Damned), Trench Crusade'de Sapkın Lejyonları'nın çekirdek pi
 
 Bu yolculuğun bedeli, ruhun sonsuza dek lanetlenmesidir. Cehennem'in Kapısı'nı görmek, bir insanı ebediyen değiştirir; geri dönenler artık tümüyle insan değildir. Derileri, kapıya yaptıkları kutsanmış olmayan yolculukların ateşinde yanmış, kavrulmuş ve kabuk bağlamıştır; bu yanıklar, gördükleri dehşetin ve kabul ettikleri lanetin kalıcı izidir. Lejyonlar'a kabul edildiklerinde, kendilerini sonsuza dek karanlığa zincirleyen kırılmaz yeminler ederler; artık geri dönüş yoktur, ruhları Cehennem'e aittir.
 
-![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Accademia_-_Visioni_dell%27Aldil%C3%A0_-_L%27inferno_-_Bosch.jpg/960px-Accademia_-_Visioni_dell%27Aldil%C3%A0_-_L%27inferno_-_Bosch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+---
 
 Lanetliler, Sapkın güçlerinin omurgasını oluşturur. Onlar fanatik, korkusuz ve acıya kayıtsız askerlerdir; çünkü en kötüsünü, yani Cehennem'in kendisini görmüş ve hayatta kalmışlardır. Ölümden korkmazlar, çünkü onları bekleyen kaderin ölümden de beter olduğunu bilirler. Cehennem'in Kapısı'nın görüş alanına ulaşanlar, seçtikleri Başşeytan'ın markasıyla damgalanır ve karşılığında korkunç silahlar ve güçler kazanır. Lanetliler, Trench Crusade'de teslimiyetin ve geri dönüşü olmayan tercihin somut hâlini temsil eder; bir insanın, hayatta kalmak ya da güç kazanmak uğruna ruhunu nasıl sonsuza dek satabileceğini, ve Cehennem'e bakıp sağ kalmanın, aslında en ağır lanet olduğunu gösterir.
 

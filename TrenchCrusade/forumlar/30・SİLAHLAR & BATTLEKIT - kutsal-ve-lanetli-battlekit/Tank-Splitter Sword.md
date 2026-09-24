@@ -16,7 +16,7 @@ Tank-Yaran Kılıç (Tank-Splitter Sword), New Antioch Prensliği'nin yakın dö
 
 Bu silahın gücünün sırrı, dövüldüğü metaldedir. New Antioch'un, Holy See'nin himayesindeki silah ustaları, metalcilerin koruyucu azizi Aziz Eligius'un takipçilerinin sırlarını kullanarak, ilahi ışıkla yoğrulmuş özel çelik alaşımları üretir. Bu kutsal metal, orikalkum, sıradan çelikten hem daha sert hem de paradoksal biçimde daha işlenebilirdir; ondan dövülen bir kılıç, dünyevi hiçbir bıçağın kesemeyeceğini keser. Tank-Yaran Kılıç işte bu kutsanmış metalden yapılır; bu yüzden zırhı, makine plakasını ve canavar postunu bir kumaş gibi yarabilir.
 
-![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/10/Zweihaender_im_historischen_Museum_Basel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+---
 
 Tank-Yaran Kılıç, New Antioch'un savaş felsefesini de yansıtır: inanç ve çeliğin birleşimi. Bu, kutsal metalürjinin gücünü en saf, en doğrudan biçimde, bir bıçağın ucunda toplayan bir silahtır. Onu taşıyan asker, çoğu zaman düşmanın en zırhlı, en korkunç birimlerine, dev savaş makinelerine ya da Cehennem'in zırhlı canavarlarına karşı gönderilir; çünkü başka hiçbir silahın delemediği yeri, bu kılıç deler. Tank-Yaran Kılıç, Trench Crusade'de Faithful'un inancının somut, keskin bir ifadesidir: ilahi ışıkla dövülmüş bir çeliğin, modern savaşın en kalın zırhını bile aşabileceğinin görkemli kanıtıdır.
 

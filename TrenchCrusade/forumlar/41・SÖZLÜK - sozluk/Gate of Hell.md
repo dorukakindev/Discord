@@ -15,7 +15,7 @@ Cehennem'in Kapısı (the Gate of Hell), Trench Crusade evreninin coğrafi ve ma
 
 Kapı çevresindeki coğrafya, bu evrenin en korkunç bölgelerini barındırır. Cehennem'in Ağzı (Hell's Maw) olarak anılan eşik, kapının kendisidir; ona doğru uzanan büyük yol ise Gözyaşı Vadisi (Valley of Tears) diye bilinir, feryat eden ruhlarla döşeli, kömürleşmiş ceset yığınlarıyla dolu lanetli bir güzergâhtır. Bu kapıdan, sadece iblisler değil, Cehennem'in en derin katmanlarından yükselen ordular da dünyaya akar; her gün yeni dehşetler bu gedikten ölümlü düzleme taşar.
 
-![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/La_puerta_del_Infierno_de_Rodin_del_museo_Soumaya_%28con_fondo_negro%29.jpg/960px-La_puerta_del_Infierno_de_Rodin_del_museo_Soumaya_%28con_fondo_negro%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+---
 
 Kapı, aynı zamanda Sapkınlar'ın hac yerinin de hedefidir. Cehennem'e gönüllü olarak yürüyen ölümlüler, bu kapının görüş alanına ulaştıklarında, seçtikleri Başşeytan'ın damgasıyla işaretlenir ve korkunç güçler kazanır; ama bu yolculuk, ruhlarını sonsuza dek lanetler. Kapıyı görüp sağ kalmak, bir insanı ebediyen değiştirir, derisini yakar ve onu Lanetli (the Damned) yapar. Cehennem'in Kapısı, Trench Crusade'de iyilik ile kötülük arasındaki sınırın yıkıldığı yeri temsil eder; dünyanın en kutsal noktasının nasıl en derin karanlığa dönüşebileceğini, ve sekiz yüzyıllık savaşın etrafında döndüğü o kapanmaz yarayı gösterir.
 

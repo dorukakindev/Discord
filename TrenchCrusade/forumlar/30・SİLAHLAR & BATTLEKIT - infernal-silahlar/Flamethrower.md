@@ -16,7 +16,7 @@ Alev Makinesi (Flamethrower), Trench Crusade'in en korkunç ve en acımasız sil
 
 Bu silahın asıl gücü, sadece verdiği fiziksel hasarda değil, yaydığı dehşettedir. Bir alev makinesinin ateş açtığını görmek, en disiplinli askerin bile cesaretini kırabilir; kimse diri diri yanmak istemez. Bu yüzden alev makineleri, siper temizleme ve hücum birliklerinin en değerli silahlarındandır; bir mevziyi savunan düşmanı, onları öldürmeden önce panikletip kaçırabilirler. Pahalı ve tehlikeli bir teçhizattır, taşıyanın sırtındaki yakıt deposu onu da bir hedefe çevirir, ama yarattığı etki bedelini fazlasıyla öder.
 
-![gorsel](https://upload.wikimedia.org/wikipedia/commons/7/75/Type_93_japanese_flamethrower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+---
 
 Cehennem Lejyonları'nın elinde bu silah, çok daha korkunç bir biçim alır. Heretic kuvvetlerin ağır alev makineleri, Dis şehrinin Demir Çukurları'nda (Iron Pits of Dis) dövülür ve sıradan yakıt değil, lanetli ruhların sonsuza dek kavrulduğu Ateş Gölü'nün (Lake of Fire) alevini kusar. Bu cehennem ateşi, dünyevi hiçbir alevin yapamayacağını yapar; sadece bedeni değil, ruhu da yakar. Alev Makinesi, Trench Crusade'de savaşın en ilkel dehşetini, ateşle yok etme arzusunu temsil eder; insan elinde acımasız, Cehennem'in elinde ise diri diri lanetleyen bir silahtır.
 

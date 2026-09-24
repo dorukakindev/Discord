@@ -16,7 +16,7 @@ Cehennem Ağzı (Mouth of Hell), Trench Crusade dünyasının bilinen en büyük
 
 Bu silahın varlığı, Trench Crusade'in topyekûn savaşının ne denli devasa bir ölçeğe ulaştığını gösterir. New Antioch'un dökümhaneleri, metalürji ustalıkları sayesinde 300 fiti aşan dev toplar üretebilir; ama Cehennem, bu insan başarısına kendi canavarıyla yanıt verir. Cehennem Ağzı, o insan toplarının iki katından büyüktür ve sadece bir silah değil, bir korku ve üstünlük gösterisidir. Onun menzilindeki hiçbir mevzi güvende değildir; bu dev top, ufkun ötesinden, görülemeyecek kadar uzaktan, bir mevkiyi haritadan silebilir.
 
-![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hellmouth.jpg/960px-Hellmouth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+---
 
 Cehennem Ağzı, aynı zamanda bu savaşın gayrişahsi, ezici dehşetini de simgeler. Bireysel kahramanlık, kutsal emanetler, ustaca dövülmüş kılıçlar, hepsi böyle bir silahın karşısında anlamsızlaşır; çünkü bu top, bir düşmanı görmeden, ona dokunmadan, sadece koordinatlarına bir cehennem mermisi göndererek yok eder. Onu yapan ellerin lanetli doğası, attığı her mermide kendini gösterir; bu, sadece çelik ve barut değil, Cehennem'in iradesinin uzaktan dünyaya uzanan parmağıdır. Cehennem Ağzı, Trench Crusade'de modern endüstriyel savaşın ve cehennem gücünün birleştiği noktada doğan nihai yıkımı temsil eder: bir uygarlığı tek bir gürlemeyle dize getirebilen, lanetli sayılarla mühürlenmiş, dev bir kıyamet silahıdır.
 

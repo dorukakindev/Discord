@@ -16,7 +16,7 @@ Cizayir Tüfeği (Jezzail), Iron Sultanate'in, yani Rûm Sultanlığı'nın sila
 
 Jezzaili Iron Sultanate'in elinde benzersiz kılan, işte bu simyasal cephanedir. Sultanate'in Bilgelik Evi'ne (House of Wisdom) bağlı Jabirean simyacılar, yasak metalürji ve kimya sırlarını kullanarak akıl almaz mühimmat türleri üretir. Aynı jezzail, bir atışta hedefi sönmeyen simyasal ateşle tutuşturabilir, bir sonrakinde ise eti ve metali kemiren ruinöz bir asitle eritebilir. Bu, tek bir silahı bir cephane sandığı kadar çok yönlü yapar; jezzail taşıyan bir Sultanate askeri, karşısındaki tehdide göre ölüm biçimini seçebilir. Daha ağır olan Siege Jezzail versiyonu ise 30 inçe varan menzili ve ek yaralama gücüyle, kuşatma ve uzun menzilli taciz için tasarlanmıştır.
 
-![gorsel](https://upload.wikimedia.org/wikipedia/commons/0/00/Jezail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+---
 
 Jezzail, Iron Sultanate'in savaş tarzının özünü taşır: hareket, taciz ve simyasal ustalık. Sultanate orduları, düşmana doğrudan dalmak yerine, jezzailleriyle uzaktan, ölümcül bir hassasiyetle taciz etmeyi tercih eder; her atış, simyanın yasak bilgisinin bir gösterisidir. Mızrağın ucundaki çekirdek piyade, bu silahla düşmanı yıpratır, onu açığa sürer ve Sultan'ın daha korkunç yaratıklarına teslim eder. Cizayir Tüfeği, Trench Crusade'de Iron Sultanate'in benzersiz dehasını temsil eder: sade bir tüfeği, Bilgelik Evi'nin simyasıyla evrensel bir ölüm aracına dönüştüren, hem geleneğin hem yasak bilimin birleştiği bir silahtır.
 

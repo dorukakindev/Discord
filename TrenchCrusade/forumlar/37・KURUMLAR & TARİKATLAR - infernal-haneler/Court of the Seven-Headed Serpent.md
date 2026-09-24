@@ -16,7 +16,7 @@ Court of the Seven-Headed Serpent (Yedi Başlı Yılan'ın Sarayı), Trench Crus
 
 Bu fraksiyonun en kurnaz yanı, kutsal bir yasayı çiğnemeden savaşmasıdır. Göklerle Cehennem arasındaki Misak (Covenant), hiçbir gerçek iblisin Dünya üzerinde yürümesine izin vermez; ama Yılan'ın başları bu sınırı aşmanın yolunu bulmuştur. İblisleri, hem insan hem hayvan, yeryüzünde yürüyen yaratıklarla harmanlayarak maddi düzleme sızarlar; böylece O'nun gazabını üzerlerine çekmeden istila ederler. Bu, hile ve kurnazlıkla örülmüş, kadim bir yasanın etrafından dolaşan bir savaş biçimidir.
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/e/ec/Court_Logo.png/revision/latest/scale-to-width-down/888?cb=20260914184918)
+---
 
 Saray'ın savaş güçleri seçkin ve güçlüdür. Hell Knight'lar (Cehennem Şövalyeleri), Yedi Başlı Yılan'ın Sarayı'nın temel ayak askerleridir; ağır zırha bürünmüş, hem kılıcı hem goetik (büyüsel) güçleri ustalıkla kullanan savaşçılardır. Yoke Fiend'ler ise Cehennem'in iblislerine kölelik eden, biçimsiz bir canavar-adam ırkıdır; çoğunlukla top yemi olarak hizmet etseler de, yakın dövüşte ölümcüldürler. Saray, son derece elit bir oyun tarzı izler; kaynaklarının ve gücünün büyük kısmını az sayıda seçkin savaşçıya akıtır, kalite üzerine kurulu bir güçtür.
 

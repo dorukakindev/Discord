@@ -1,6 +1,6 @@
 https://static.wikia.nocookie.net/trench-crusade-english/images/3/37/Trench-Crusade-New-Antioch-Lieutenant.jpg/revision/latest/scale-to-width-down/900?cb=20250428003253
 
-![gorsel](https://static.wikia.nocookie.net/trench-crusade-english/images/3/37/Trench-Crusade-New-Antioch-Lieutenant.jpg/revision/latest/scale-to-width-down/900?cb=20250428003253)
+---
 
 -# THE TRENCH ARCHIVE · Koleksiyon · Kayıt
 
@@ -19,6 +19,8 @@ Shocktrooper (Şok Birlikleri), New Antioch Prensliği'nin omurgasıdır; Dük'�
 Görevleri açık ve acımasızdır: Hiçkimsenin Toprağı'nın (No Man's Land) çorak, çamurlu ve mermi yağmuru altındaki ölüm bölgesini aşmak, sonra düşman siperinin tam kalbine dalmak. Ağır zırhları, onları yaylım ateşine karşı bir nebze korur; donanımları ise yakın mesafe katliamı için seçilmiştir. Hızlı baskın (assault) doktrininde eğitilirler; bir Shocktrooper bölüğü, dakikalar içinde bir bunkeri ele geçirip içindekileri kılıçtan geçirebilir. Onlar savunma için değil, ileri atılmak için vardır.
 
 Bir warband'ın çekirdeği genellikle iki ila sekiz Shocktrooper'dan kurulur; New Antioch'un sayısız varyantında (Papalık Müdahale Gücü'nden Éire Korucuları'na dek) bayrak hep onların etrafında döner. Diğer birlikler, Trench Cleric'in dualarından Mechanized Heavy Infantry'nin top ateşine kadar, çoğu zaman Shocktrooper'ların ilerleyişini desteklemek için konumlanır. Onlar manevranın eksenidir.
+
+---
 
 Shocktrooper olmak, New Antioch için bir onurdur ama aynı zamanda bir ölüm fermanıdır. Bu şövalyeler, inançlarının düşmanlarına, yani Cehennem'in lejyonlarına ve sapkınlara karşı, geri çekilmenin bir seçenek olmadığı bir savaşa atılır. Zırhları çentilmiş, pelerinleri çamura bulanmış, gözleri sabit bir kararlılıkla parlar. Shocktrooper, modern siper savaşının vahşetiyle ortaçağ haçlı ruhunun birleştiği yerdir: dua eden, yemin eden ve düşman hattına bir mızrak ucu gibi saplanan kutsal piyadedir.
 

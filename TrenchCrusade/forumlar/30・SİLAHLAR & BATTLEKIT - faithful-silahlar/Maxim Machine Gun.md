@@ -16,7 +16,7 @@ Maxim Makineli Tüfeği, Trench Crusade'in siper savaşına neden bir kâbus old
 
 Bu silahın savaş alanındaki ağırlığı, onu hem bir avantaj hem bir hedef yapar. Makineli tüfek mevzisi, bir warband için bir kale gibidir; ateş hattını kontrol eden taraf, düşmanın hareketini felç eder. Ama Maxim yavaş konuşlanır ve hareket ettirilmesi zordur; bir kez kurulduğunda ölümcüldür, ama yerini değiştirmek değerli zaman ister. Bu yüzden makineli tüfek, savunma hatlarının ve sıkışmış cephelerin silahıdır; siperleri çapraz ateşle örerek hiçbir canlının geçemeyeceği bir ağ kurar.
 
-![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Maxim_gun%2C_Georgian_national_museum.JPG/960px-Maxim_gun%2C_Georgian_national_museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+---
 
 Trench Crusade'in fantastik dünyasında bile bu silah hem Faithful hem Heretic ordularının vazgeçilmez destek gücüdür. Daha da korkuncu, mühendisliğin sınırlarını zorlayan Mechanized Heavy Trooper gibi zırhlı dev askerler, sıradan bir insanın taşıyamayacağı bu ağır silahları elde tutarak ateş ederler; yürüyen bir makineli tüfek yuvasına dönüşürler. Maxim Makineli Tüfeği, Trench Crusade'de modern savaşın o soğuk, gayrişahsi dehşetini temsil eder: kahramanlığın ve mucizelerin bir anda anlamsızlaştığı, bir insanın sadece bir ateş hattına denk geldiği için öldüğü, çelikten ve barut dumanından örülmüş ölüm makinesidir.
 

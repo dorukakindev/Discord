@@ -14,6 +14,8 @@ Gaz Bombası (Gas Grenade), Trench Crusade siperlerinin görünmez ve sinsi kati
 
 Gaz bombasını bu denli korkunç kılan, kaçışı zorlaştırmasıdır. Sıradan ateşli silahlar bir korunak duvarının ardındaki askere ulaşamaz; ama gaz, o duvarı dolanır, en derin sığınağa sızar. Bir siperi savunan düşman, kurşunlardan saklanabilir, ama zehirli buluttan saklanamaz; ya mevziyi terk etmek ya da boğularak ölmek zorunda kalır. Bu yüzden gaz bombası sadece bir öldürme aracı değil, aynı zamanda bir arazi denetim silahıdır; bir siperi geçici olarak kullanılmaz hâle getirip düşmanı açığa, ateş hattına sürebilir.
 
+---
+
 Iron Sultanate'in Bilgelik Evi'nin (House of Wisdom) simyacıları, bu silahı bir sanata dönüştürmüştür. Onların simyasal gaz bombaları, sıradan zehirli gazdan çok daha güçlüdür; Jabir okulunun yasak metalürji ve kimya sırlarıyla hazırlanan bu bulutlar, dünyevi hiçbir gazın yapamayacağı tahribatı yapar. Sultanate savaşçıları, jezzaillerinin yanı sıra bu güçlü gaz bombalarını da taşır ve düşmanı uzaktan, görünmez bir ölümle taciz eder. Gaz Bombası, Trench Crusade'de modern savaşın en gayriahlaki yüzünü temsil eder: ne cesaretin ne zırhın işe yaradığı, sadece sessiz, sürünerek gelen ve ciğerleri içeriden yakan bir ölümü getiren sinsi bir silahtır.
 
 ## Ayırt Edici Özellikler
