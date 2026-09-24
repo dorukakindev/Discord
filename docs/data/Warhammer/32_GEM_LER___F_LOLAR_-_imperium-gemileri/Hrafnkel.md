@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Hrafnkel_SW_Flagship.png/revision/latest?cb=20151128210726
-
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 
 # Hrafnkel

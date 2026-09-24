@@ -13,4 +13,8 @@ Speranza, Archmagos Lexell Kotov'un Halo Bölgesi olarak bilinen yabani uzay bö
 
 Gemi, kadim ve korkunç silahlarla donatılmıştır; minik kara delikler yaratabilen güçlü graviton-ışın silahları ve hedeflerini nanosaniyeler kadar geçmişe kaydırabilen krono-silahlar taşır.
 
+Speranza, Adeptus Mechanicus'un efsanevi arkeotek keşif gemisidir — Teli Taşıyıcı sınıfının ötesinde, içinde kayıp STC parçalarının kuyusu olduğu söylenen, Mars'ın en gizemli savaş gemisi. Lexell Kotov'un Kotov Filosu'nu taşıyan gemi, 'geçmişin makinesi olarak geleceği arayan' Mechanicum idealinin somut hâliydi.
+
+Speranza'nın gizemi, içinde çalışan tam potansiyelli bir 'nano-AI' ya da bilinmeyen çekirdek olduğu söylentisinden gelir — gemi bazen mürettebatın anlamadığı kararlar alır ve imkânsız hesaplamalar yapar. Kotov'un Halo Sınırı ötesindeki seferi sırasında Speranza, sayısız Necron ve diğer tehditleri beklenmedik şekilde yendi; Mechanicum'un gizli arşivlerinde 'en değerli ve en tehlikeli kayıp hazinenin' kaydı olarak kaldı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

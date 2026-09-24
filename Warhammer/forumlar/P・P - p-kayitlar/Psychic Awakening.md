@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c8/PsychicAwakeningSymbol.jpg/revision/latest?cb=20191114194416
+
 -# THE IMPERIAL ARCHIVE
 # Psychic Awakening
 

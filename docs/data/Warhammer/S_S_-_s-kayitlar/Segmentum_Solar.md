@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/62/Segmentum_solar.jpg/revision/latest?cb=20120406162728
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Segmentum Solar
 

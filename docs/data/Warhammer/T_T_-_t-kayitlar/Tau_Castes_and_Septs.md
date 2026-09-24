@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/90/XV81_Shas%27el_leading_the_attack.jpg/revision/latest?cb=20130126093240
+
 -# THE IMPERIAL ARCHIVE
 # T'au Castes and Septs
 

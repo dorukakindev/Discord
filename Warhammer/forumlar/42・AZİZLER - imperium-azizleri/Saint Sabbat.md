@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/11/Saint_Sabbat.jpg/revision/latest?cb=20110825065524
-
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Sabbat
 *Aziz Sabbat*

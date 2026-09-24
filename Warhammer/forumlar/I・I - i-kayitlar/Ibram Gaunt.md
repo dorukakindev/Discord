@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Ibram_Gaunt-0.jpg/revision/latest?cb=20171205193610
+
 -# THE IMPERIAL ARCHIVE
 # Ibram Gaunt
 

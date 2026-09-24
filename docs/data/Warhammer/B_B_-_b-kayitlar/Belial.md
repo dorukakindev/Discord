@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/61/Sword_of_Silence_Belial.png/revision/latest?cb=20130821191255
+
 -# THE IMPERIAL ARCHIVE
 # Belial
 

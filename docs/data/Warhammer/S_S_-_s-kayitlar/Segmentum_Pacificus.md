@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/Segmentum_pacificus.jpg/revision/latest?cb=20120406172323
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Segmentum Pacificus
 

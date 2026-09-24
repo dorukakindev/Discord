@@ -12,4 +12,8 @@ Armageddon Çelik Lejyonu, Segmentum Solar'daki yoğun sanayileşmiş kovan dün
 
 Çelik Lejyonu en çok mekanize piyade alaylarıyla tanınır; bu, gezegenin Chimera bolluğunun doğal bir sonucudur. Çoğu alay zırh, topçu, piyade ve mekanize piyadeyi bir araya getiren birleşik silah birlikleridir. Her alay genellikle on iki bölükten oluşur ve tam mevcudunda bir bölük yüz yetmiş beş askere ulaşır.
 
+Steel Legion, III. Armageddon Savaşı'nın çamur ve küllerinde dövülmüş bir alaydır: Hive world'ün devasa üretim bantlarından çıkan mechanized infantry birlikleri, ork ordularıyla yapılan devasa tank savaşlarının emektarlarıdır. Tamamen tekerlekli-paletli Chimera'larıyla hareket eden birlikleri, 'mekanize piyade' doktrininin okul örneğidir.
+
+Alayın ünü, Ghazghkull'un iki büyük istilasında ve III. Savaş'ta perçinlendi: Steel Legion, gezegenin kül bölgelerinde ork dalgalarını tank-sürüsü taktikleriyle öğüttü. Armageddon'un savaş endüstrisi, alayın her Chimera'sını devasa kalıplarla üretir — bir Steel Legion askeri için 'ev' kavramı, cephane hattının kendisidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

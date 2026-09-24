@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Misericord.jpg/revision/latest?cb=20080521220415
-
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 
 # Misericord

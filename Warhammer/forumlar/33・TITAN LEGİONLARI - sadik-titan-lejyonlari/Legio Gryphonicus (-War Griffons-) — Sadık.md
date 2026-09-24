@@ -1,23 +1,15 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Legio_Gryphonicus_Legio_Icon.png/revision/latest?cb=20200225011515
+-# THE IMPERIAL ARCHIVE · Sadik Titan Lejyonlari · Kayıt
+# Legio Gryphonicus
 
--# THE IMPERIAL ARCHIVE · Sadık Titan Lejyonları · Kayıt
-# Legio Gryphonicus ("War Griffons") — Sadık
+-# *Savas Grifonlari*
 
-Benekli gri ve sarı renkleriyle bilinen, Horus'un sadık kuvvetleri galaksiye dağıtma stratejisine rağmen Emperor'a bağlı kalan Legio'dur. Heresy boyunca hain Legio Mortis'le süren kanlı bir rekabet, kimliğinin ayrılmaz parçası hâline gelmiştir.
-
-- **Kategori:** Titan Legion (Legio) — <#1551629137561522286>
-- **Fraksiyon:** Adeptus Mechanicus — Collegia Titanica
-- **Dönem:** Horus Heresy'den 999.M41'e
-- **Köken:** Forge World Gryphonne IV.
-- **Teknik / Biyolojik Özellikler:** Standart Collegia Titanica sınıflarını kullanır; Legio'ya özgü teknik ayrıntı yayımlanmış kanonda sınırlıdır.
-- **Bilinen Kullanıcılar / Operatörler:** Legio Gryphonicus Princeps'leri; Gryphonne IV'le bağlı House Cadmus gibi Knight Haneleri müttefik olarak anılır.
-- **Önemli Olaylar:** Battle of Molech; Beta-Garmon; Gryphonne IV'ün düşüşü (997.M41).
-- **Kanon Notu:** Gryphonne IV'ün düşüşünden sonra Legio'nun toplu akıbeti kaynaklarda kesinleştirilmemiştir.
+Imparatorluga sadakatiyle anilan, Collegia Titanica'nin en saygin Titan lejyonlarindan biri sayilan Sadik lejyon.
 
 ## Tarihçe
+Legio Gryphonicus, Imparatorluk dilinde "War Griffons" (Savas Grifonlari) olarak bilinen ve Collegia Titanica'nin en seckin Titan lejyonlarindan biri kabul edilen Sadik bir tanri-makine lejyonudur. Koken Forge World'u, Segmentum Tempestus'ta yer alan ve sonradan yok edilen Gryphonne IV gezegenidir.
 
-Heresy'de Legio birden fazla cephede savaştı; Molech'in savunması ve Beta-Garmon'un uzun Titan savaşları bunların en bilinenleridir. On bin yıl sonra, 997.M41'de Hive Fleet Leviathan'ın Gryphonne IV'ü istila etmesiyle Legio yurdunu ve gücünün büyük kısmını yitirdi. Hayatta kalan unsurlar sonraki savaşlarda, Cadia'nın 13th Black Crusade'e karşı savunması da dahil, sahneye çıkmayı sürdürdü.
+Bu donanim dunyasi yalnizca devasa tanri-makineleriyle degil, Adeptus Mechanicus genelinde gipta edilen, disiplin ve isabetleriyle un salmis Skitarii lejyonlariyla da aniliyordu.
 
--# Kaynaklar: *Vengeful Spirit — Graham McNeill*; *Adeptus Titanicus: Loyalist Legios*; *Codex: Imperial Knights*
+Horus Sapkinligi boyunca lejyon, yeminlerine sadik kalarak Hain lejyonlara karsi sarsilmaz bir kararlilikla savasti. War Griffons, dunya-kiran ates gucuyle korku saliyor; Imparatorluk saflarinda bir ideal ve mukemmel bir Titan lejyonu ornegi olarak gosteriliyordu.
 
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551815033518948404>, <#1551809334483361823>, <#1551814951365115956>, <#1551812139935866891>
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

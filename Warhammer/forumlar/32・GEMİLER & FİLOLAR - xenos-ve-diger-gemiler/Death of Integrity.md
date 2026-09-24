@@ -10,4 +10,8 @@ Bütünlüğün Ölümü (Death of Integrity), M39'da İmparatorluk'un karşıla
 
 Hulk, Genestealer'larla ağır biçimde istila edilmişti ve bu, onu hem ölümcül bir tehdit hem de değerli bir hedef yapıyordu.
 
+Death of Integrity, Adeptus Mechanicus'un araştırma flotillasının parçası olan efsanevi bir gemi değil — asıl olarak 'kaybedilmiş bir savaş gemisinin' adıdır: Novamarines ve Blood Drinkers bölümlerinin ortak operasyonunda karşılaşılan devasa Space Hulk'un kayıtlardaki adı. Space Hulk'lar, Warp'ta yüzyıllarca kaybolmuş gemilerin birbirine kaynamış yığınlarıdır ve Death of Integrity de böyle bir kabustu.
+
+Olay, 'Otamis Kaynakları' olarak bilinen kayıplarda kayda geçti: Space Marine güçleri hulku araştırırken içindeki genestealer istilasıyla yüzleşti ve zayiat verdi. Death of Integrity, Warhammer evreninin en karanlık kategorisinin — 'dönen gemi' efsanesinin — en iyi belgelenmiş örneklerinden biridir ve terminatör operasyonlarının bedelinin ders kitabı sayfasıdır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

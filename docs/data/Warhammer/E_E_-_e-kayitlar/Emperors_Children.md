@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9e/TormentorLimitedEditionMini.jpg/revision/latest?cb=20250530161356
+
 -# THE IMPERIAL ARCHIVE
 # Emperors Children
 

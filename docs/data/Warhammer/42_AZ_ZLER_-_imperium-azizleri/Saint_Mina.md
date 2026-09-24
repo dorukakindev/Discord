@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Order_Bloody_Rose_Icon.png/revision/latest?cb=20210406073836
-
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Saint Mina
 *Aziz Mina*

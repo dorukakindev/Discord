@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Stygies_VIII_Skitarii_Icon.png/revision/latest?cb=20150420223607
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Stygies Viii
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a2/MandrakeShadows.jpg/revision/latest?cb=20111119195445
+
 -# THE IMPERIAL ARCHIVE
 # Mandrakes
 

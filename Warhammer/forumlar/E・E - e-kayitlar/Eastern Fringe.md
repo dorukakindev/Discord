@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4a/The_Eastern_Fringe.jpg/revision/latest?cb=20110630053523
+
 -# THE IMPERIAL ARCHIVE
 # Eastern Fringe
 

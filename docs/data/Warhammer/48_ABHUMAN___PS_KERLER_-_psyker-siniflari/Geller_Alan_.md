@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Iron_Hands_Fleet_Arrives.png/revision/latest?cb=20140415161335
+
 -# THE IMPERIAL ARCHIVE · Psiker Siniflari · Kayıt
 # Geller Alanı
 *Geller Field, Warp Yolculuğunda Gemiyi Saran Koruyucu Kalkan*

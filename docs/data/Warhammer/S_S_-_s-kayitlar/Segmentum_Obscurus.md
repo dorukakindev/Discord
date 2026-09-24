@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Segmentum_obscurus.jpg/revision/latest?cb=20120406164433
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Segmentum Obscurus
 

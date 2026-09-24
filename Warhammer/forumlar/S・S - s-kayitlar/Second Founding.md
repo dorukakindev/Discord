@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c5/Chapter.jpg/revision/latest/scale-to-width-down/900?cb=20110411194956
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Second Founding
 

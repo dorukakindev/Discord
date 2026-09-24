@@ -8,4 +8,8 @@ Kelkannis Evisser, İmparatorluk İnancı'nın en tedirgin edici figürlerinden 
 
 Evisser'in adını efsaneye çeviren, gerçekleştirdiği akıl almaz mucizelerdi.
 
+Kelkannis Evisser, Sabbat Dünyaları'nın efsanevi generalidir ve Ibram Gaunt'ın mentörü olarak bilinir — 'Sabbat Worlds Crusade'inin en stratejik zihni. Evisser'in ünü, sadece askeri zaferleriyle değil, 'subaylar yetiştiren subay' ünüyle de doludur — Gaunt gibi figürlerin arka planında onun öğretisi vardır.
+
+Evisser'in en büyük savaşı, 'Balhaut' operasyonu ve Chaos Warmaster'ların yenilgisiydi; stratejik vizyonu, Crusade'in geniş cephelerini koordine etme yeteneğindeydi. 'General' olarak Evisser, İmparatorluk'un 'büyük savaş plancısı' idealinin somut hâlidir — sahadan komuta eden değil, savaşın haritasını çizen adamdı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

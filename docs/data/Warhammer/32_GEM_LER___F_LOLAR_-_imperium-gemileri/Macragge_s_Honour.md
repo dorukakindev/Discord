@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/08/Macragges_Honour.jpg/revision/latest?cb=20200512222657
-
 -# THE IMPERIAL ARCHIVE · Imperium Gemileri · Kayıt
 # Macragge's Honour
 

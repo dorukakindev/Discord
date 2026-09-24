@@ -3,6 +3,8 @@
 
 Terra birleşince İmparator gözlerini galaksiye çevirdi. Büyük Haçlı Sefer (Great Crusade), yıldızlararası erişimin yeniden mümkün hale geldiği M30'dan itibaren yaklaşık iki yüzyıl boyunca sürdü. Amaç tek ve açıktı: Çatışma Çağı'nın Warp fırtınaları altında birbirinden kopmuş binlerce insan dünyasını yeniden tek bir çatı altında toplamak, xeno imparatorluklarını kırmak ve insanlığın tam potansiyelini gerçekleştireceği bir medeniyetin temelini atmak.
 
-## Seferin Akışı
-Terra'nın Birleşme Savaşları'ndan sonra İmparator, yirmi Primarch'ı bulup yirmi Astartes lejyonunu onlara verdi ve galaksiyi yaklaşık iki yüzyıl süren bir fetih dalgasına sürdü. Her lejyon bir eksen boyunca ilerledi: Ullanor Orkları Horde'u yenildi, insan dünyaları tek tek "Compliance"a (itaat) alındı, yabancı imparatorluklar ezildi. Sefer, İmparatorluk Gerçeği'ni (din yok, akıl var) yaydı — ama bu yalan bir felsefeydi; Kaos gerçekti ve reddedilmesi zafere tohum ekti. Ullanor'daki zaferden sonra İmparator Terra'ya döndü ve Warmaster'lığı Horus'a bıraktı — seferin altın çağı o an bitti.
+Büyük Haçlı Seferi (Great Crusade), İmparator'un Terra'dan başlattığı ve insanlığın kayıp kolonilerini tek tek geri kazandığı iki yüzyıllık fetih çağıdır — Space Marine lejyonları, Imperial Army ve Mechanicum'un birleşik ordusu, binlerce dünyayı 'insanlığın yazgısı' bayrağı altında topladı. Bu dönem, İmparatorluk'un tek 'parlak çağı' olarak anılır.
+
+Seferin sonu hem zafer hem trajediydi: Ullanor'un fethiyle (Ork'ların en büyük merkezi) doruğa ulaştı ama İmparator'un Terra'ya dönüp Primarch'ları sefer komutanlığından çekmesi, Horus'un kırgınlığını ve sonrasındaki ihaneti hazırladı. Büyük Haçlı Seferi'nin mirası, İmparatorluk'un 'mükemmellik efsanesi'dir — o günlerin geri gelmeyeceği, İmparatorluk'un en acı bilgisidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
