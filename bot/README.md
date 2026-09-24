@@ -1,6 +1,6 @@
 # Lexicanum Bot
 
-Üç arşiv sunucusunu (Imperial / Trench / Black RPG) tek botla yönetir.
+Arşiv sunucularını (Imperial / Trench / Black RPG / Film Archive) tek botla yönetir.
 
 ## Komutlar
 
