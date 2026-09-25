@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Maximus Octavian Grüber III, İmparatorluk kayıtlarında bilinen bir Astra Militarum komutanıdır.
+Maximus Octavian Grüber III, Cadian Shock Troops'un aristokratik ve kibirli generali; Cadia'nın düşüşünde sağ kalan birliğin komutanı olarak 'geleneksel ama sert' komuta tarzıyla bilinir.
 
 -# Kaynaklar: *Fandom wiki*

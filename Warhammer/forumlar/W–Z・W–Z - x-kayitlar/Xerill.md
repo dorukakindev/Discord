@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Master_of_the_Forge_X
 
 ## Tarihçe
 
-Xerill, İmparatorluk kayıtlarında yer alan bir Inquisitor figürüdür.
+Xerill, Iron Hands'in Master of the Forge'u olarak Deathwatch'a ikinci edilmiş ve Jericho Reach'te 'Dead Cabal' üyesi olarak 'Dark Pattern' fenomenini araştıran Mechanicum-Inquisition köprüsü.
 
 -# Kaynaklar: *Fandom wiki*
 

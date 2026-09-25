@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/44/DroganHololith.jpg/re
 
 ## Tarihçe
 
-Drogan, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür; detayları sınırlıdır.
+Drogan, İmparatorluk kayıtlarında geçen figürlerden biridir; sınırlı bilgiyle arşivde yer alan bu isim, Imperial Fists bağlantılı tarihi bir karakter olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*
 

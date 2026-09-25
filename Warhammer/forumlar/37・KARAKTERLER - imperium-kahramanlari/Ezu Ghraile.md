@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/72/Ezu_Ghraile.png/revis
 
 ## Tarihçe
 
-Ezu Ghraile, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Ezu Ghraile, Ordo Xenos Inquisitor'üdür; Jericho Reach'i tek sebeple ziyaret etti — Tyranid'ler. 'Hive Fleet' uzmanı olarak bilinen fanatik avcı.
 
 -# Kaynaklar: *Fandom wiki*

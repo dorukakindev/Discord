@@ -10,7 +10,7 @@
 
 ## Tarihçe
 
-Hezika Carmillus, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Hezika Carmillus, Puritan Ordo Xenos Inquisitor'üdür; Deathwatch Erioch Kalesi'ndeki 'Chamber' Inquisitor'ü olarak İmparatorluk'un resmi temsilcisi — 'radikalliği reddeden' tutucu.
 
 -# Kaynaklar: *Fandom wiki*
 

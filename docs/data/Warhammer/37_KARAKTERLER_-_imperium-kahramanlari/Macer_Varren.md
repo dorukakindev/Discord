@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/37/MacerVarren.jpg/revis
 
 ## Tarihçe
 
-Macer Varren, İmparatorluk tarihinin eski Inquisitor figürlerinden; klasik kaynaklarda anılan bir savaşçı-investigator.
+Macer Varren, World Eaters'ın 12. Bölük'ünün eski kaptanı olarak İmparator'a sadık kalan nadir hain-lejyon figürü; ihanete katılmayıp 'öteki' seçen nadir World Eater.
 
 -# Kaynaklar: *Fandom wiki*

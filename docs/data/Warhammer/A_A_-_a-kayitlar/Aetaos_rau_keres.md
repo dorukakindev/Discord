@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9d/Aetanos%27rau%27keres
 
 ## Tarihçe
 
-Aetaos'rau'keres, Tzeentch'in Lord of Change'lerinden biridir; bilgi ve sır toplamakla meşgul, uzun entrikalı bir daemon.
+Aetaos'rau'keres ('Ruhların Katili'), Tzeentch'in Lord of Change'i; 'Efendilerin Efendisi', 'Gerçekliğin Bozanı' gibi birçok sahte adla bilinen bu daemon, galaksideki en eski ve en korkulan Tzeentch varlıklarından.
 
 -# Kaynaklar: *Fandom wiki*
 

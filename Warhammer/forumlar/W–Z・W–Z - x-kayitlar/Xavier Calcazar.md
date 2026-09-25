@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/89/XavierCalcazar.jpg/re
 
 ## Tarihçe
 
-Xavier Calcazar, Calixis Sektörü'nde hem Rogue Trader hem de Inquisitor bağlantıları olan nüfuzlu bir figürdür.
+Xavier Calcazar, Koronus Expanse'deki tüm Inquisition aktivitelerinin Ordo Xenos Lord'uydu; sektörün 'görünmez efendisi' olarak tüm Inquisitor'leri denetleyen figür.
 
 -# Kaynaklar: *Fandom wiki*
 

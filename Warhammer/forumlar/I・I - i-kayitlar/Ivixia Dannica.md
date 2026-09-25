@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/13/Ivixia_Dannica_model.
 
 ## Tarihçe
 
-Ivixia Dannica, Inquisition'ın ünlü daemon avcılarından biridir; Gregor Eisenhorn kuşağının tanınan isimlerinden.
+Ivixia Dannica, Ordo Malleus'un önde gelen Inquisitor'lerinden; daemon-avında 'kadın eli' olarak bilinen uzman figür — Calixis'in tanınmış avcılarından.
 
 -# Kaynaklar: *Fandom wiki*
 

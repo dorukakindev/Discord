@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a1/StormRaptorValkyrie.w
 
 ## Tarihçe
 
-Gillia Masozi, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Gillia Masozi, Aeronautica Imperialis'in uçuş-teğmen'i; Astra Militarum'a hava desteği sağlayan donanma kanadının kadın pilotlarından — 'gökyüzünün çelik kuşu'.
 
 -# Kaynaklar: *Fandom wiki*

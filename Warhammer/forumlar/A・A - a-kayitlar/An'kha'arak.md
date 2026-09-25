@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-An'kha'arak, Tzeentch'e bağlı az bilinen Greater Daemon'dur; İmparatorluk kayıtlarına nadir sızar.
+An'kha'arak, Khorne'un Bloodthirster'ı olarak 579.M41'de Toreus'a Chaos istilasını yönetti ve dünyayı 300 yıl boyunca yönetti — 'üç asırlık tiran' olarak bilinen daemon lord.
 
 -# Kaynaklar: *Fandom wiki*
 

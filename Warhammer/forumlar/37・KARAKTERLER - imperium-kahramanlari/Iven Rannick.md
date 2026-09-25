@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/IvenRennick.webp/revi
 
 ## Tarihçe
 
-Iven Rannick, İmparatorluk kayıtlarında bilinen bir Inquisitor'dür.
+Iven Rannick, Ordo Hereticus'un 'interrogator'ü ve Inquisitor Grendyl'in en üst rütbeli Acolyte'ıdır; Grendyl'in warband'inin operasyonel beyni — Atoma Prime krizinin 'ikinci el' figürü.
 
 -# Kaynaklar: *Fandom wiki*

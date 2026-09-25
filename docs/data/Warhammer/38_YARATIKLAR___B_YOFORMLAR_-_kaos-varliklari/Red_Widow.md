@@ -11,6 +11,6 @@
 
 ## Tarihçe
 
-Red Widow, Slaanesh'e bağlı az bilinen Greater Daemon'dur; adını kurbanlarını yavaşça öldürme tarzından alır.
+Red Widow, Imperial Fists'in Malodrax istilasında karşılaştığı güçlü Chaos daemonu; Lysander'in kaçışı sonrası ortaya çıkan 'kırmızı ölüm' — Warp'ın en korkulan varlıklarından.
 
 -# Kaynaklar: *Fandom wiki*

@@ -1,7 +1,9 @@
 -# THE IMPERIAL ARCHIVE · DİZİN
 # O Harfi Kayıt Dizini
 
+• **Oan Mkoll**  <#1553061120703729847>
 • **Obelisk**  <#1552851313350414409>
+• **Oberdeii**  <#1553059992779624619>
 • **Occlusiad War**  <#1552690645938995230>
 • **Octarius**  <#1551817657777389601>
 • **Officio Assassinorum**  <#1551817813612560476>

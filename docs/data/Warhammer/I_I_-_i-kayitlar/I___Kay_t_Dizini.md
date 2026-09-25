@@ -6,6 +6,7 @@
 • **Iddinam**  <#1552900258374099045>
 • **Ignatius Grulgor**  <#1552899660681846884>
 • **Illuminor Szeras**  <#1551815479805485078>
+• **Immolator**  <#1553062407134384233>
 • **Imotekh the Stormlord**  <#1551815496184373259>
 • **Imperial Agents**  <#1551815345587621949>
 • **Imperial Cult**  <#1551815514777591900>

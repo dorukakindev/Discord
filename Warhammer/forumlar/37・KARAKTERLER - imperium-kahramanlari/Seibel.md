@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Seibel, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Seibel, Ordo Malleus Inquisitor'ü olarak Chaos Sorcerer Nemeroth'un Ork/Chaos istilasından sonra Forge World Graia'yı izlemekle görevlendirildi; 'temizlik sonrası bekçi' rolüyle bilinir.
 
 -# Kaynaklar: *Fandom wiki*

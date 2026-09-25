@@ -10,6 +10,7 @@
 • **Captain Artemis**  <#1551905468492947466>
 • **Carab Culln**  <#1552902687149002772>
 • **Carcharodons**  <#1551812426775797801>
+• **Carnac Commodus**  <#1553061265478385769>
 • **Cassian Vaughn**  <#1552901381369761892>
 • **Castellan Garran Crowe**  <#1551905351559942174>
 • **Castus Izdubar**  <#1552902640814395552>
@@ -20,6 +21,7 @@
 • **Cato Sicarius**  <#1551812504743583796>
 • **Celestian**  <#1552850163326914632>
 • **Centurion Savaş Zırhı**  <#1552695314018992130>
+• **Certus Minor**  <#1553062439803813948>
 • **Changeling**  <#1552905137943748658>
 • **Chaos**  <#1551812165172994160>
 • **Chaos Chosen**  <#1551905391993028708>
@@ -40,12 +42,14 @@
 • **Colchis**  <#1551812699531509911>
 • **Commander Brightsword**  <#1552850102903640184>
 • **Commander Farsight**  <#1551812728694509609>
+• **Commander Flamewing**  <#1553061319178064023>
+
 • **Commissariat**  <#1551812353157365862>
 • **Commorragh**  <#1551812754304667693>
 • **Constantin Valdor**  <#1551812782729723917>
-
 • **Cor'Bax Utterblight**  <#1552851373844865027>
 • **Corbulo**  <#1552690615651934319>
+• **Corswain**  <#1553060020441063555>
 • **Corvin Severax**  <#1552902738537357403>
 • **Corvus Blackstar**  <#1552878801858592868>
 • **Corvus Corax**  <#1551812366696452198>

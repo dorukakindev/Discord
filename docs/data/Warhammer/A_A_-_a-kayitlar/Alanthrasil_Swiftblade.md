@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/de/Alanthrasil_Swiftblad
 
 ## Tarihçe
 
-Alanthrasil Swiftblade, Aeldari kayıtlarında bilinen efsanevi bir savaş lordu figürüdür.
+Aliachemoranthrashe'ill ('Alanthrasil Swiftblade'), Inquisitor Lichtenstein'ın hizmetindeki Aeldari Corsair Prince'i; 'insan hizmetindeki xenos' nadir figürü — Outcast'in en tuhaf ittifakı.
 
 -# Kaynaklar: *Fandom wiki*
 

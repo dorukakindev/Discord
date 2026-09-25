@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Vils_Andarion.png/rev
 
 ## Tarihçe
 
-Vils Andarion, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Vils Andarion, Ordo Xenos Inquisitor'üdür; Jericho-Maw Warp Gate açıldığından beri Erioch Kalesi'ne çekilen 'ışık figürlerden' — Warp-geçit olgusunun araştırmacısı.
 
 -# Kaynaklar: *Fandom wiki*
 

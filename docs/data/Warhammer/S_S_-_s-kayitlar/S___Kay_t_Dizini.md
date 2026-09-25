@@ -26,6 +26,7 @@
 • **Scythes of the Emperor**  <#1551805172231970908>
 • **Scythian**  <#1552690510303469578>
 • **Sebastian Yarrick**  <#1551805194646593537>
+• **Sebiascor Ebongrave**  <#1553061147710722099>
 • **Second Founding**  <#1551805221863301161>
 • **Seekers of Slaanesh**  <#1552851346133221456>
 • **Segmentum Obscurus**  <#1551805250715779146>
@@ -33,23 +34,31 @@
 • **Segmentum Solar**  <#1551805285411328031>
 • **Segmentum Tempestus**  <#1551805305069764849>
 • **Seibel**  <#1552902668370841672>
+• **Selena Agna**  <#1553060121654067443>
 • **Sensei and Star Child**  <#1551805325408079982>
 • **Sentry Pylon**  <#1552877493847859362>
+• **Seraphax**  <#1553061217009016842>
 • **Seraphim**  <#1551905441934483487>
 • **Serberys Raiders**  <#1552850154154098749>
+• **Serita**  <#1553060110815862885>
 • **Servitors**  <#1551805353912434732>
 • **Sevastus Acheran**  <#1552905184332742758>
+
 • **Sevatar**  <#1551805368940888176>
 • **Severus Agemman**  <#1552902690554515557>
 • **Shadow Crusade**  <#1551805392634388501>
 • **Shadowseer**  <#1552850211255226431>
-
 • **Shadowsun**  <#1551805422359281745>
 • **Shalaxi Helbane**  <#1552690607284293672>
 • **Shalaxi Hellbane**  <#1552899707540607037>
+• **Shiban Khan**  <#1553060045778845696>
 • **Shining Spears**  <#1551905339518226452>
+• **Sholen Skara**  <#1553061191327293470>
 • **Shrike**  <#1551805451367096362>
+• **Sicaran Arcus Strike Tank**  <#1553062427002933318>
 • **Sicaran Battle Tank**  <#1552903961533612175>
+• **Sicaran Punisher Assault Tank**  <#1553062423014154331>
+• **Sicaran Venator**  <#1553062417724874782>
 • **Sicarian İnfiltrator**  <#1552850145132028085>
 • **Siege of Hydra Cordatus**  <#1551805475790528556>
 • **Siege of Terra**  <#1551809039342501970>
@@ -62,12 +71,14 @@
 • **Sisters of Silence**  <#1551809078504718407>
 • **Skarbrand**  <#1551805620129243208>
 • **Skitarii**  <#1551809095655493743>
+• **Skold Greypelt**  <#1553060059792023702>
 • **Skorpekh Destroyers**  <#1552877466257854499>
 • **Skra'kalichaust**  <#1552900155924021321>
 • **Skulltaker**  <#1552851351451471892>
 • **Skylance Gunship**  <#1552903933574512733>
 • **Slaanesh**  <#1551808911907229706>
 • **Slaugth**  <#1552690488878825513>
+• **Slaydo**  <#1553061107034365954>
 • **Sniper Rifle**  <#1552904062754627606>
 • **Sokar Pattern Stormbird**  <#1552903900531658813>
 • **Solitaire**  <#1552851257243467796>
@@ -75,6 +86,7 @@
 • **Solomon Demeter**  <#1552905160022298624>
 • **Solomon Lok**  <#1552902630110404629>
 • **Solun Decius**  <#1552899674401149021>
+
 • **Sons of Horus**  <#1551809114328399874>
 • **Sor Talgron**  <#1552850113024757780>
 • **Soul Drinkers**  <#1551805635103039540>
@@ -86,9 +98,9 @@
 • **Spiritseer**  <#1552877511426183218>
 • **Squats**  <#1551805669269569628>
 • **Sslyth**  <#1552690494306394192>
-
 • **Sssair Gleamling**  <#1552900113037533226>
 • **Stealth Battlesuits**  <#1552878775346270310>
+• **Stonetooth Harker**  <#1553061117272531077>
 • **Storm Eagle**  <#1552903894672343120>
 • **Storm Guardians**  <#1552877545949626368>
 • **Stormbird**  <#1552903897755033680>
@@ -96,6 +108,7 @@
 • **Stormboy**  <#1552690534089367612>
 • **Stormhammer**  <#1552850197359497287>
 • **Stormhawk Assault Gunship**  <#1552903928247750737>
+• **Stormhawk Interceptor**  <#1553061329743511624>
 • **Stormsword**  <#1552878821877747722>
 • **Stormtalon**  <#1552878796812849284>
 • **Striking Scorpions**  <#1551905310556291134>

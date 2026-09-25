@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/62/ThousandSonsPreHeresy
 
 ## Tarihçe
 
-Khalophis, Thousand Sons'ın Fellowship sorcerer'larındandı; Prospero'nun yakılmasında savaşıp hayatta kalan figür.
+Khalophis, Büyük Sefer sonu ve Heresy başındaki 6. Fellowship'in kaptanıydı; Thousand Sons'un 'Komün' figürlerinden — Prospero'nun son günlerinin tanığı.
 
 -# Kaynaklar: *Fandom wiki*

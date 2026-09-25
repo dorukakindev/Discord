@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Ghankus Dhar, İmparatorluk kayıtlarında bilinen bir Inquisitor'dür.
+Ghankus Dhar, Calixian Conclave'da Ordo Malleus'un liderlerinden Inquisitor Lord'dur; Calixis'in daemon-avı politikalarını yöneten 'Scholariate at Arms' Proctor'ü olarak bilinen gölgedeki otorite figürü.
 
 -# Kaynaklar: *Fandom wiki*

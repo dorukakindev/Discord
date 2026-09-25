@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Doom_Eagles_Assault_M
 
 ## Tarihçe
 
-Tarikus, İmparatorluk kayıtlarında bilinen bir Space Marine figürüdür.
+Tarikus, Doom Eagles'ın kıdemli çavuşuydu; Red Corsairs'in elinde esir düşüp 'Badab'ın işkenceci' korsanlarından kaçmayı başaran nadir savaşçı.
 
 -# Kaynaklar: *Fandom wiki*
 

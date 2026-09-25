@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9e/Knight-Warden_Alric_b
 
 ## Tarihçe
 
-Alric, İmparatorluk kayıtlarında yer alan bir Inquisitor'dür; az bilinen ama kayıtlarda geçen isim.
+Alric, Deathwatch'un Knight-Warden'ı ve 'Black Shield'idir; ismini ve geçmişini sildiren nadir figürlerden — 'kimliği olmayan şövalye' olarak Jericho'da görev yapar.
 
 -# Kaynaklar: *Fandom wiki*
 

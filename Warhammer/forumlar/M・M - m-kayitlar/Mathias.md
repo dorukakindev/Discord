@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8f/Watch-Captain_Mathias
 
 ## Tarihçe
 
-Mathias, İmparatorluk kayıtlarında adı geçen bir Inquisitor'dür.
+Mathias, İmparatorluk kayıtlarında geçen isimlerden biridir; detayları sınırlı olan bu kayıt, arşivde küçük ama kalıcı bir yer tutar.
 
 -# Kaynaklar: *Fandom wiki*
 

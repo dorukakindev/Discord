@@ -7,6 +7,8 @@
 • **Halo Devices**  <#1552695340904226886>
 • **Harakoni Warhawks**  <#1552879926577860688>
 • **Harald Deathwolf**  <#1552902702197903383>
+• **Haran Serpens**  <#1553061151682592798>
+• **Harath Shen**  <#1553062483344883732>
 • **Harek Ironhelm**  <#1552905180993945600>
 • **Harlequins**  <#1551815008558514187>
 • **Harridan**  <#1552877460088033331>
@@ -16,9 +18,11 @@
 • **Hector Rex (Lord Inquisitor)**  <#1552690610073510093>
 • **Heinrix van Calox**  <#1552905134571257949>
 • **Hellhammer**  <#1552850187779702854>
+• **Heritor Asphodel**  <#1553061195655675964>
 • **Hezika Carmillus**  <#1552902637219749960>
 • **Hierodule**  <#1552694210849677355>
 • **High Lords of Terra**  <#1551815098081742862>
+• **Hito Ulanti**  <#1553061134280425472>
 • **Hive Fleet Dagon**  <#1552904014117740574>
 • **Hive Fleet Kraken**  <#1552690565748101190>
 • **Hive Fleets**  <#1551815033518948404>

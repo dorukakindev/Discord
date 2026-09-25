@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/77/DariusMelk.webp/revis
 
 ## Tarihçe
 
-Darius Melk, İmparatorluk kayıtlarında yer alan bir Inquisitor'dür.
+Sire Darius Melk XIV — 'Quartervest'in Lordu, Endless March'ın Sahibi, Crux Mortem'in Muhafızı — Lord Dolmar Martialis tarafından üç kez cesaretle ödüllendirilen bu züppe, İmparatorluk aristokrasisinin 'şatafatlı' yüzünü temsil eder.
 
 -# Kaynaklar: *Fandom wiki*
 

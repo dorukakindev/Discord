@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Andrastia_4.jpg/revis
 
 ## Tarihçe
 
-Adrastia, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Adrastia — Aeldari Autarch Kayleth'in 'İmparatorun Evladı' dediği — Ordo Hereticus Inquisitor'ü ve Dawn of War II'nin ana karakterlerinden; Retribution'ın 'adalet' yüzü.
 
 -# Kaynaklar: *Fandom wiki*
 

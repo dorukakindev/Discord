@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Gore Lord, Khorne'un Bloodthirster'larından biridir; adı kadar acımasız katliamlarıyla bilinir.
+Gore Lord, Khorne'un Bloodthirster'ı olarak Khorne-Slaanesh daemonik ittifakının lideri; 'beklenmedik ittifak'ın komutanı — kan ve zevk arasındaki nadir koalisyonun efendisi.
 
 -# Kaynaklar: *Fandom wiki*

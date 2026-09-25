@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Horosa_Barnabas.png/r
 
 ## Tarihçe
 
-Horosa Barnabas, İmparatorluk kayıtlarında bilinen bir Inquisitor'dür.
+Horosa Barnabas, Jericho Reach'te dört yüzyıl boyunca 'hiç iyi yansımayan' ün kazanmış Ordo Xenos Inquisitor'üdür; 'şanssız ama kalıcı' figür olarak sektörün efsanesi.
 
 -# Kaynaklar: *Fandom wiki*
 

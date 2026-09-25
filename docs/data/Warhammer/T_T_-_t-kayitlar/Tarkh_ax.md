@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/82/Mark_of_Tzeentch.jpeg
 
 ## Tarihçe
 
-Tarkh'ax, Tzeentch'e hizmet eden Lord of Change'dir; planları katmanlı ve kayıtları belirsizdir.
+Tarkh'ax, Tzeentch'in Lord of Change'i; İmparatorluk-T'au çatışmasını 'sahnelediği' bilinen değişim daemonu — 'kukla ustası' olarak iki imparatorluğu birbirine düşüren figür.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/54/Inquisitor40.jpg/revi
 
 ## Tarihçe
 
-Velayne Ramaeus, İmparatorluk'un bilinen kadın Inquisitor'larından biridir; Dark Heresy ve ilişkili kaynaklarda geçen isim.
+Velayne Ramaeus, Ordo Xenos Inquisitor'ü ve Jericho Reach'teki Deathwatch 'Dead Cabal' fraksiyonunun lideri; 'ölümcül araştırma' grubunun beyni.
 
 -# Kaynaklar: *Fandom wiki*
 

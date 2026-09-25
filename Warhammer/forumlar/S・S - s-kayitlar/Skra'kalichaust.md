@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Lord_of_Change_bust.j
 
 ## Tarihçe
 
-Skra'kalichaust, Tzeentch'e bağlı Lord of Change'dir; kayıtlarda seyrek görünen kadim bir varlıktır.
+Skra'kalichaust ('Düzenbaz'), Tzeentch'in Lord of Change'i; Screaming Vortex'teki warband'lerin şeref yarışlarından 'keyif alan' nadir daemon — kaos içinde eğlenen figür.
 
 -# Kaynaklar: *Fandom wiki*
 

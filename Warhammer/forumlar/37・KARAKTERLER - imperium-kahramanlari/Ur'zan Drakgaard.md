@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f6/Cpt._Ur%27zan_Drakgaa
 
 ## Tarihçe
 
-Ur'zan Drakgaard, Space Wolves'un bilinen komutanlarından biridir; Drakgaard Great Company'nin eski efendisi.
+Ur'zan Drakgaard, Salamanders'in 6. Bölük'ünün mevcut kaptanı; 'tavizsiz' liderliği ve savaş-hardened tutumuyla chapter'ın en sert komutanlarından biri.
 
 -# Kaynaklar: *Fandom wiki*
