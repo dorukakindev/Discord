@@ -22,3 +22,7 @@ Tüm bu hazırlık Ragnarök için yapılmaktadır: Odin, kıyamet savaşında F
 -# Çapraz: Odin · Valkyrie · Einherjar · Ragnarök · Hel · Fenrir · Asgard
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/5/5f/Walhalla_%281896%29_by_Max_Br%C3%BCckner.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Odin'in 'düşmüşlerin salonu': einherjar — savaşta ölen seçilmişler — Valkyrie'lerin getirdiği savaşçılar; her gün ölüp dirilen domuz Sæhrímnir'la beslenirler, Ragnarök için egzersiz yaparlar. 'Savaşanların cenneti' — Viking savaş-ahlakının ödül diyarı; mead içip savaşanlar için ölümün devamı.

@@ -29,3 +29,7 @@ Batı korku kültürüne 18-19. yüzyılda Binbir Gece Masalları çevirileri ar
 - Kuzey Afrika
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/0/0e/Amine_Discovered_with_the_Goule.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Ghul (ğul), Arap çöl-mitin 'mezarlık sakinleri'nden: ceset yiyen, yolcu kandıran, şekil değiştiren dişi-çöl cini. 'Gulyabani' Türkçe formu. Bedevi korku-hikâyesinin figürü: kandil görüp ilerleyen yolcu ghul'un kapanına düşer. 'Açgözlülük ve ısırma' metaforu — İslamî cin sınıflaması içinde 'kötü cin' katmanı.

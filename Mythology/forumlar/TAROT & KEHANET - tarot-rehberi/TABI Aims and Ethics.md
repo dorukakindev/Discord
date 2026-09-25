@@ -6,3 +6,7 @@
 Üçüncü kişi, sağlık/hukuk yönlendirmesi ve saygılı okuma protokolü için kullan.
 
 -# Kaynaklar: https://tabi.org.uk/about-us/aims-and-ethics/
+
+### Arka Plan
+
+TABI Aims — 'standart' figürü: 'TABI' 'amaç' 'etik' 'standartları'; 'TABI = kural' figürü.

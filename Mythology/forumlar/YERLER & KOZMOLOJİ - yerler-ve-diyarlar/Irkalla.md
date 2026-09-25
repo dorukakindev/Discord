@@ -14,3 +14,7 @@ Bu mekan kaydı, kutsal coğrafyanın yeralti-diyar başlığı altında daha ok
 - Geri Dönülmez Diyar
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dumuzi_aux_enfers.jpg/960px-Dumuzi_aux_enfers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Sümer-Akad öteki dünyası — 'büyük karanlık şehir': toz yiyen, kil içen, aydınlık görmeyen ölülerin kasvetli mekânı; kraliçesi Ereshkigal, kapıcısı Neti. İnanna'nın inişi — yedi kapıda yedi takı bırakıp çırılçıplak kalması — 'gücünün değeri' testi. 'Karanlık ev'den kimse geri dönmez — kural bu; tanrı bile.

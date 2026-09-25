@@ -18,3 +18,7 @@ Bu ölüm sonrası kaydı, yeniden-dogus filtresinin gerçek örneklerle çalı�
 - Sidpa Bardo
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Juancito.jpg/960px-Juancito.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Tibet Budizmi'nin 'ara durum' sistemi: Bardo Thödol'de ('Ölüler Kitabı' diye Batı'da bilinir) ölümle yeniden doğuş arası 49 gün; chikhai (ölüm ânı), chönyid (kozmik farkındalık), sidpai (yeniden doğuş arayışı) bardoları. 'Işık görülürse serbest kal' — eşiğin rehber-metni; 'ölüm de meditasyon konusu'.

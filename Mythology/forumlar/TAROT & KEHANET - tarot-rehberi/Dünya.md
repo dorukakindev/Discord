@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/960px-Hubble_ultra_deep_field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Dünya (The World) — XXI numaralı kart: çelenk içinde dans eden çıplak figür ve dört köşede dört evangelist hayvanı (insan-aslan-öküz-kartal); 'tamamlanma', 'döngünün kapanışı' ve 'başarı'. Marseille'de 'le monde' — 'evren'in kişisel formu; 'son kart = ilk' döngüsü.

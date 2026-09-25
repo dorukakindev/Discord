@@ -22,3 +22,7 @@ Zombi, Haiti ve Batı Afrika Vodou geleneklerinde kök salan efsanevi bir yarat�
 -# Çapraz: Bokor · Baron Samedi · Vodou · Nzambi
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/a/ad/Zombie_haiti_ill_artlibre_jnl.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Zombi, Haiti Vodou'nun 'dirilmiş ceset' figürü: bokor (büyücü) tarafından beden canlanır ama 'ti bon ange' (küçük iyi melek — irade) çalınmıştır; sadece papa-bokor'un emrinde köle-işçi. Tetrodotoxin (kirpi balığı zehiri) hipotezi Wade Davis'in 'Serpent and the Rainbow'uyla popülerleşti. Batı sinemasında (Romero) ölü-yiyen kalabalığa dönüştü — kökündeki 'irade hırsızlığı' unutuldu.

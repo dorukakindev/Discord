@@ -7,3 +7,7 @@
 
 ### Kayıt
 Münker ve Nekir, İslami inançta ölen kişiyi kabrinde sorgulayan iki melektir. Defin sonrası ölüye 'Rabbin kim, peygamberin kim, dinin ne?' gibi sorular sorarlar. Doğru cevaplayan iman sahibinin kabri genişletilip rahat ettirilirken, inkârcı ve günahkâr için kabir azabı başlar. Heybetli ve sert görünümleriyle tasvir edilen bu iki melek, hadis geleneğinde kabir hayatının ve ölüm sonrası hesabın ilk aşaması olarak önemli bir yer tutar.
+
+### Arka Plan
+
+Münker-Nekir — 'kabir' melekleri: 'ölü' 'sorgu' 'melekleri' 'üç' 'soru' 'figürü'; 'Rabbin kim?', 'Dinin ne?', 'Peygamberin kim?'.

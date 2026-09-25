@@ -8,3 +8,7 @@ Waite, Smith ve Rider yayın hattını tarihsel sıraya oturtmak için kullanıl
 -# Kaynaklar: https://tarot-heritage.com/history-4/the-rider-waite-smith-deck/
 
 ![gorsel](https://tarot-heritage.com/wp-content/uploads/2011/07/hist42.jpg?w=108)
+
+### Arka Plan
+
+Tarot Heritage — 'tarih' figürü: 'tarot' 'miras' 'araştırması'; 'Heritage = tarih' figürü.

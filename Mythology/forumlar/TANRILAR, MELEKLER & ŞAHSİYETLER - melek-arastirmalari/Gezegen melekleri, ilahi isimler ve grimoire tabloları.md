@@ -8,3 +8,7 @@ Agrippa, Heptameron, Key of Solomon ve benzeri kaynaklarda melek adları gezegen
 - esoteric-archives-agrippa
 - esoteric-archives-heptameron
 - esoteric-archives-key-solomon
+
+### Arka Plan
+
+Gezegen-melek — 'tablo' figürü: 'gezegen' 'melek' 'isim' 'grimoire' 'tabloları'; 'tablo = liste' figürü.

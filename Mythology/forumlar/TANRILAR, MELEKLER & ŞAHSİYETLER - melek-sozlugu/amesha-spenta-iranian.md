@@ -9,3 +9,7 @@ Amesha Spenta: kutsal ölümsüz nitelik-varlıklar
 - iranica-amesha-spenta
 - avesta-yasna
 -# Çapraz: Vohu Manah · Asha Vahishta · Spenta Armaiti · Haurvatat
+
+### Arka Plan
+
+Amesha-Spenta — 'İran' figürü: 'İranî' 'kutsal' 'nitelik' 'sınıfı'; 'Amesha = İran' figürü.

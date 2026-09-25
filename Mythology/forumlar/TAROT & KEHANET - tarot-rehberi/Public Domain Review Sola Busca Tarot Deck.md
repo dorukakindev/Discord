@@ -8,3 +8,7 @@ Sola Busca ile RWS arasındaki sahneli Minor Arcana köprüsünü ve yorumdaki t
 -# Kaynaklar: https://publicdomainreview.org/collection/sola-busca
 
 ![gorsel](https://pdr-assets.b-cdn.net/collections/sola-busca/sola-busca-thumb.jpeg)
+
+### Arka Plan
+
+PDR Sola Busca — 'kamusal' figürü: 'Sola Busca' 'kamusal' 'inceleme'; 'PDR = açık' figürü.

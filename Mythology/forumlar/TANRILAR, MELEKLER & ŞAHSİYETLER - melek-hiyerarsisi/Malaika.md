@@ -8,3 +8,7 @@
 - Kayıt
 - Secde
 -# Çapraz: Jibril · Mikail · Israfil · Malak al-Mawt
+
+### Arka Plan
+
+Malaika — 'melek' 'Arapça' 'kök' 'figürü'; 'malaika = melek' figürü.

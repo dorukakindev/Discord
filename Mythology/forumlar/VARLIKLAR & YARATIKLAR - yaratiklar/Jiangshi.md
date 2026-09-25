@@ -18,3 +18,7 @@ Bu varlık, undead kategorisinin ayrı filtrelenebilmesi için ansiklopediye ekl
 - Gece dolaşma
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Jiangshi_custome.jpg/960px-Jiangshi_custome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Jiangshi ('katı ceset'), Çin'in 'zıplayan vampir' geleneği: ölen bedeni yeraltından kaldıran, gece yürüyen, kollarını uzatmış zıplayarak hareket eden figür — ruhu bedenden ayrılmamış cesetler. Seçimini Qing dönem resmi-kafas bağlamaklı postürden alır. Pirinç, ayna, bakla-fasulyesi ve 'qigong' ustası eliyle durdurulur. 'Qi'nin hapsolması' doktrininin korku-teatral dışavurumu.

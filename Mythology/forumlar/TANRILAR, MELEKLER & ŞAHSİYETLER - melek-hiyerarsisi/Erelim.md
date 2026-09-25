@@ -8,3 +8,7 @@
 - Yas
 - Kudret
 -# Çapraz: Michael · Tzaphkiel
+
+### Arka Plan
+
+Erelim — 'kahraman' 'melek' 'cesaret' 'figürü'; 'Erelim = kahraman' figürü.

@@ -12,3 +12,7 @@ Celtic Cross yalnız on kartlık liste değildir: merkez-çapraz mevcut atmosfer
 - sacred-texts-pkt-celtic
 - sacred-texts-pkt-art
 - worldcat-holistic-tarot
+
+### Arka Plan
+
+Kelt Haçı — 10 kartlık 'klasik' yayılım: 'kalp' (soru), 'üst' (ideal), 'alt' (temel), 'sol' (geçmiş), 'sağ' (gelecek), 'merkez' (soru) ve 'kule' (sonuç); 'en bilinen' figürü. 'Klasik = kapsamlı' pratiği.

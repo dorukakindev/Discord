@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL determinatives
 - Classifier study
+
+### Arka Plan
+
+Foreign-desert — 'yabancı' figürü: 'foreign' 'desert' 'yabancı' 'ü'lke' 'figürü'; 'foreign = yabancı' figürü.

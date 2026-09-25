@@ -16,3 +16,7 @@
 - tabi-aims-ethics
 - itf-code-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Üçüncü kişi — 'niyet' figürü: 'üçüncü' 'kişi' 'niyet' 'sınırı'; 'niyet = sınır' pratiği.

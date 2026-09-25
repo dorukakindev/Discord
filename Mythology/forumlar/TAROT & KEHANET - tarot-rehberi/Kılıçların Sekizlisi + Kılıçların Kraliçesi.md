@@ -7,3 +7,7 @@ Zihinsel tutsaklık net dil, sınır ve ayırt etmeyle çözülür.
 ### Cards
 - eight-of-swords
 - queen-of-swords
+
+### Arka Plan
+
+Kılıçların Sekizlisi + Kılıçların Kraliçesi — 'esaret + sınır' ikilisi: sekiz kılıcın 'bağlı' figürüyle kraliçenin 'netlik' — 'kendi hapishaneni gör' mesajı; 'sınır çiz, özgür kal' önermesi.

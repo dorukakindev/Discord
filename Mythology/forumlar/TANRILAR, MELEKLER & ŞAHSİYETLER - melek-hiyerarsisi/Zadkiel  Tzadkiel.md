@@ -23,3 +23,7 @@ Zadkiel, özellikle Kabala-Hermetik sistemlerde Chesed, Jüpiter ve merhamet ilk
 
 ### Source refs
 - Hermetic correspondence tradition
+
+### Arka Plan
+
+Zadkiel — 'merhamet' 'melek' 'doğruluk' 'figürü'; 'Zadkiel = merhamet' figürü.

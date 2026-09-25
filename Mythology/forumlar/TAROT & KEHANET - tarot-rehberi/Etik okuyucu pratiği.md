@@ -12,3 +12,7 @@
 - itf-code-ethics
 - tabi-aims-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Okuyucu pratiği — 'etik' figürü: 'okuyucu' 'sorumluluk' 'pratiği'; 'pratik = sorumluluk' figürü.

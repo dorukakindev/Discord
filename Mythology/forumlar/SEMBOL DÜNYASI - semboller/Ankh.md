@@ -14,3 +14,7 @@ Ankh (☥), yaşam anlamına gelir. Tanrılar ve firavunlar ellerinde tutarak ta
 -# Çapraz: Djed sütunu · Was asası · Ölüler Kitabı
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ankh_%28SVG%29_01.svg/960px-Ankh_%28SVG%29_01.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ankh (☥) — 'yaşam anahtarı': Mısır'da tanrıların taşıdığı, nefes-suyu-hayat birleşimi halkalı haç; 'yaşam' (ankh), 'kutsal' ve 'sır' üç anlamda kullanılır. Firavun'un ağzına tutulan ankh 'nefes verme' simgesi; iki kol veya halka + T biçimi. 'Ölümsüz yaşamın el çantası' — her figürün elinde ama hep aynı işaret.

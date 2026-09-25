@@ -6,3 +6,7 @@
 Israfil'in sûra üfleme görevi, Kur'an'da adının geçmemesi ve Raphael/Uriel eşitlemelerindeki belirsizliği desteklemek için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/topic/Israfil
+
+### Arka Plan
+
+Britannica Israfil — 'sur' figürü: 'Britannica' 'İsrafil' 'sur' 'meleği'; 'İsrafil = sur' figürü.

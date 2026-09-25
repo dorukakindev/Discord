@@ -10,3 +10,7 @@ Ahit Sandığı üzerindeki Cherubim ve görünmez Rabbin tahtı/kapak ilişkisi
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Exodus 25 — 'keruv' figürü: 'Exodus' '25' 'keruv' 'sandık' 'ayeti'; 'Exodus = keruv' figürü.

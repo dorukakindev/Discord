@@ -14,3 +14,7 @@ Delphi, antik dünyada **"dünyanın göbeği" (omphalos)** sayılırdı; efsane
 -# Çapraz: Apollon · Python · Croesus · Oidipus · Alkibiades
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphi%2C_Greece_-_panoramio.jpg/960px-Delphi%2C_Greece_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Parnassos'un eteğindeki Apollon kehanet merkezi: 'Dünya'nın göbeği' (omphalos taşı), Pythia'nın telafoz sesi üzerine üç ayağa oturup kehanet verdiği chasma. 'Kendini bil' (gnōthi seauton) ve 'aşırıya kaçma' (mēden agan) yazıtları. Kroisos'un 'ordu geçerse imparatorluk yıkılır' bilmece-kehaneti ve Socrates'in 'en bilge' çıkışı — antik dünyanın danışma merkezi.

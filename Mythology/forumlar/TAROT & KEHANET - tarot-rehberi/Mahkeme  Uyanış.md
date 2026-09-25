@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Roters_Illustrators_198
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Roters_Illustrators_19807_%28thinking_judge%29.svg/960px-Roters_Illustrators_19807_%28thinking_judge%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Mahkeme (Judgement) — XX numaralı kart: trumpet çalan melek ve mezardan kalkan figürler; 'uyanış', 'çağrı' ve 'ikinci şans'; 'le jugement' — 'son mahkeme' miti. 'Geçmişin affı' olarak 'yeniden doğum' kartı.

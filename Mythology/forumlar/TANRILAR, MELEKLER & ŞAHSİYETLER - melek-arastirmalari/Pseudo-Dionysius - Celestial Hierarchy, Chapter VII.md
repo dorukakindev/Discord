@@ -6,3 +6,7 @@
 Seraphim, Cherubim ve Thrones üçlüsünün Tanrı'ya yakın tefekkür katı olarak okunmasını desteklemek için kullanıldı.
 
 -# Kaynaklar: https://ccel.org/ccel/dionysius/celestial.vii.html
+
+### Arka Plan
+
+Dionysius VII — 'bölüm' figürü: 'Pseudo-Dionysius' 'Chapter VII' 'göksel' 'hiyerarşi'; 'VII = bölüm' figürü.

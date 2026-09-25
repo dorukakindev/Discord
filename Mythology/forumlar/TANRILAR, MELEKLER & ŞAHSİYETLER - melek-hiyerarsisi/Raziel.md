@@ -27,3 +27,7 @@ Raziel adı 'Tanrı'nın sırrı' anlamıyla ilişkilendirilir. Mistik gelenekte
 - Jewish Encyclopedia: Angelology
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/4/45/Archangel_Raziel_%28Circle_of_Francisco_de_Zurbar%C3%A1n%29.jpg/revision/latest/scale-to-width-down/519?cb=20250518011345)
+
+### Arka Plan
+
+Raziel — 'sır' 'melek' 'gizli' 'bilgi' 'figürü'; 'Raziel = sır' figürü.

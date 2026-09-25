@@ -21,3 +21,7 @@ Asmodeus, Apokrifal Tobit kitabında Sara adlı bir kadına aşık olarak yedi k
 - Hazine bulma
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/9/94/Asmodeus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Asmodeus (Asmoday), Tobit Kitabı'nda Sara'nın yedi kocasını öldüren aşk-kıskançlık demonu; 'yıkıcı' (aeshma-daeva kökenli Zerdüşt figürü Aēšma). Ars Goetia'da 32. kral: üç başlı (insan, boğa, koç), yılan kuyruklu, zehirli nefesli; mücevher, dans, fen ve ahlaksızlık öğretir; evlilikleri bozar. 'Kumar ve şehvet' demonu — ortaçağ demonologların favori lüks figürü.

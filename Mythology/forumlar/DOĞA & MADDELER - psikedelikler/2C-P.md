@@ -9,3 +9,7 @@ Shulgin 2C serisinin en güçlü ve en uzun üyelerinden; küçük doz farkları
 -# Kaynaklar: Alexander Shulgin: PiHKAL
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2C-P2DACS.svg/960px-2C-P2DACS.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+2C-P — 4-propil-2,5-dimetoksifenetilamin: Shulgin'in 'uzun süreli' üyesi (6-10+ saat); 'ağırlıklı' görsel ve 'psikolojik derin' etki; 'prospektif' kategori olarak 'az bilinen' üye.

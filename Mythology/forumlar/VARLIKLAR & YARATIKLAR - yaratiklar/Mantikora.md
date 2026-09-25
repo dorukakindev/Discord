@@ -19,3 +19,7 @@ Mantikora (Martikhoras), Pers kökenli bir yaratıktır; adı eski Farsça'da **
 - Mantikora (Pers/Yunan)
 - Manticore (Orta Çağ Avrupa)
 -# Çapraz: Sfenks · Khimaira · Griphon
+
+### Arka Plan
+
+Mantikora, Pers kökenli 'insan yüzlü aslan-akrep' canavarı: üç sıra keskin diş, çığlıkla seslenen, zehirli kuyruğu diken savuran. Plinius-Aristoteles kaynaklı 'insanlığın düşmanı' figürü; Orta Çağda 'en korkulan hayvan' seçildi. 'İnsan yüzüyle konuşan ama yiyen' metaforu modern fantezide de sürer.

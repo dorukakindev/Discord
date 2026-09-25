@@ -9,3 +9,7 @@ Tarih, nesne kanıtı, görsel malzeme, koleksiyon ve basım bağlamı için en 
 - met-article
 - yale-team-tarocchi
 - pinacoteca-sola-busca
+
+### Arka Plan
+
+Müze bağlamı — 'tarihsel' okuma: 'Visconti-Sforza' ve 'Marseille' figürü; 'müze = köken' katmanı.

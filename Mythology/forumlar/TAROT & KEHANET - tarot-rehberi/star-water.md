@@ -5,3 +5,7 @@
 İyileşmenin hem maddeye hem bilinçaltına akmasıdır; umut soyut kalmaz, bedene ve ritme iner.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+Yıldız'daki su — iki testiden dökülen su: 'beslenen dünya' ve 'açık kaynak'; 'yıldız = kaynak' figürü.

@@ -6,3 +6,7 @@
 RWS sahneli okumasını Marseille pip/sayı okumasından ayır.
 
 -# Kaynaklar: https://i-p-c-s.org/pattern/PS001.pdf
+
+### Arka Plan
+
+Marseille Type I — 'erken' figürü: 'Tip I' 'Marseille' varyantı; 'Tip I = erken' figürü.

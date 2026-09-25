@@ -6,3 +6,7 @@
 Yayılım ve çalışma önerilerini pedagojik tut.
 
 -# Kaynaklar: https://www.learntarot.com/course.htm
+
+### Arka Plan
+
+LearnTarot kurs — 'eğitim' figürü: 'sistematik' 'öğrenme'; 'kurs = süreç' figürü.

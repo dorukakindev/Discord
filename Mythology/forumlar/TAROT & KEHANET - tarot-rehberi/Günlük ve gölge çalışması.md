@@ -13,3 +13,7 @@
 - labyrinthos-meanings
 - biddy-reversals
 - itf-code-ethics
+
+### Arka Plan
+
+Günlük-gölge — 'ritüel' 'gölge' figürü: 'günlük' 'farkındalık' olarak 'sürekli' pratiği.

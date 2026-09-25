@@ -6,3 +6,7 @@
 Fravashi kavramının ritüel ve koruyucu ruh bağlamını metin atlasında göstermek için kullanıldı.
 
 -# Kaynaklar: https://www.avesta.org/ka/yt13sbe.htm
+
+### Arka Plan
+
+Farvardin Yasht — 'ruh' figürü: 'Avesta' 'Farvardin' 'ruh' 'yasht' 'metni'; 'yasht = övgü' figürü.

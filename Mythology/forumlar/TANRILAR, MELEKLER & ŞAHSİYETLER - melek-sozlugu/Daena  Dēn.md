@@ -9,3 +9,7 @@ Din, vicdan, iç benlik ve ölüm sonrası karşılaşma fikrini taşıyan İran
 - iranica-rasn
 - iranica-sraosha
 -# Çapraz: Daena · Cinvat köprüsü · Rashnu · Sraosha
+
+### Arka Plan
+
+Daena — Zerdüştlük'ün 'din' figürü: 'ölümden sonraki üç gün' 'kadın' figürü olarak 'iyiler için güzel', 'kötüler için çirkin' figür; 'yargı' figürü.

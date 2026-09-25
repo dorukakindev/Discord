@@ -14,3 +14,7 @@ Geçiş, karar, inisiyasyon ve bilinmeyene adım temasını gösterir; pozisyonl
 - met-article
 - sacred-texts-pkt-intro
 - tarot-heritage-rws
+
+### Arka Plan
+
+Eşik-kapı — 'geçiş' figürü: 'Ölüm' ve 'Yıldız' ikilisi; 'eşik = geçiş' pratiği.

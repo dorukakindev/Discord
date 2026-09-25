@@ -7,3 +7,7 @@
 
 ### Kayıt
 Angels (Melekler), Hristiyan dokuz koroda üçüncü hiyerarşinin ve tüm sistemin en alt düzenidir. İnsanlığa en yakın olan, gündelik hayatta koruma, rehberlik ve haberleşme görevini üstlenen meleklerdir. Her insanın yanındaki koruyucu melekler bu düzene aittir. İnsanlarla Tanrı arasında doğrudan aracılık eder, duaları taşır ve ilahi mesajları iletirler; göksel hiyerarşinin insanlara dokunan en somut ve erişilebilir basamağını oluştururlar.
+
+### Arka Plan
+
+Melekler korosu — 'dokuz koro'nun en altı: 'sıradan' melekler olarak 'insanla en yakın' figür; 'koruyucu melek' kategorisinin 'taban' katmanı.

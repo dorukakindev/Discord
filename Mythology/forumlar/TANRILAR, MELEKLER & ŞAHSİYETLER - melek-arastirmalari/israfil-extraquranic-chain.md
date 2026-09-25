@@ -12,3 +12,7 @@ Israfil'in sûra üfleme görevi güçlü geleneksel bir profildir; fakat adı K
 - tdv-israfil
 - quran-naml-87-tafsir
 -# Çapraz: Israfil · Sûr · Kıyamet · Raphael karşılaştırması
+
+### Arka Plan
+
+İsrafil-extra — 'sur' figürü: 'İsrafil' 'extra' 'Kur'an' 'sur' 'zinciri'; 'İsrafil = sur' figürü.

@@ -8,3 +8,7 @@ Daniel, Tobit ve Enoch çevresinde Gabriel, Michael, Raphael, Uriel ve Watchers 
 - usccb-daniel-10
 - usccb-tobit-12
 - sacred-texts-book-of-enoch
+
+### Arka Plan
+
+İsimli-savaş — 'isim' figürü: 'isimli' 'başmelek' 'Watchers' 'kozmik' 'savaş' 'dili'; 'isim = güç' figürü.

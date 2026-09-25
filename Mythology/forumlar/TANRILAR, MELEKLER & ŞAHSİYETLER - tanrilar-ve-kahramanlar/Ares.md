@@ -35,3 +35,7 @@ Ares, Zeus ve Hera'nın oğlu olmakla birlikte Olimpos'ta çok sevilmez. Afrodit
 - Diomedes Tarafından Yaralanması
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%CE%9F_%CE%86%CF%81%CE%B7%CF%82_%28Borghese-%CE%9B%CE%BF%CF%8D%CE%B2%CF%81%CE%BF%CF%85%29.jpg/960px-%CE%9F_%CE%86%CF%81%CE%B7%CF%82_%28Borghese-%CE%9B%CE%BF%CF%8D%CE%B2%CF%81%CE%BF%CF%85%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ares — Yunan 'kaba savaş' tanrısı: Athena'nın 'stratejik'ine karşı 'sarhoş' ve 'yenilir' figür (Diomedes yaralar, Aloadae'lar kavanozda hapseder); Afrodit'le 'skandal' ilişkisi. 'Savaşın bedeli' olarak 'kırmızı' figür — 'güçlü ama sevilmeyen' kategori.

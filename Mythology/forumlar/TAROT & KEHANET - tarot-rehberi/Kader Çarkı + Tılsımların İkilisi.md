@@ -7,3 +7,7 @@ Dış döngü değişirken pratik denge kurmak gerekir; esneklik kader dalgasın
 ### Cards
 - wheel-of-fortune
 - two-of-pentacles
+
+### Arka Plan
+
+Kader Çarkı + Tılsımların İkilisi — 'döngü + denge' ikilisi: iki tılsımın 'top oyunu' (jonglerie) ile çarkın 'dönüş' — 'değişimi dengele' mesajı; 'esneklik' önermesi.

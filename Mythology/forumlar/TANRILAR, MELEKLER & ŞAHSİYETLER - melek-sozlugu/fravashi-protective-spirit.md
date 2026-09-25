@@ -8,3 +8,7 @@ Fravashi: koruyucu ruh ve ön-varlık
 - iranica-fravashi
 - avesta-fravardin-yasht
 -# Çapraz: Fravashi · Faravahar · Atalar · Koruma
+
+### Arka Plan
+
+Fravashi-protective — 'koruyucu' figürü: 'fravashi' 'koruyucu' 'ruh' 'figürü'; 'protective = koruyucu' figürü.

@@ -14,3 +14,7 @@ Torii, Japonya'da Sinto tapinaklarinin girisinde veya kutsal alan sinirlarinda b
 -# Çapraz: Sinto mabedi · Kami · Arinma ritueli
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ItsukushimaTorii7379.jpg/960px-ItsukushimaTorii7379.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Torii (鳥居) — 'kuşların evi': Şinto giriş kapısı — iki dikme + iki yatay kiriş (kasagi-nuki); 'kutsalın eşiği' olarak profan'dan kutsal'a geçiş. Kırmızı (vermilyon) 'güneş-ateş-koruma' üçlemesi; Fushimi Inari'de binlercesi 'dilek tüneli' yapar. 'Kapı=teklif' — geçerken reverans yapılır.

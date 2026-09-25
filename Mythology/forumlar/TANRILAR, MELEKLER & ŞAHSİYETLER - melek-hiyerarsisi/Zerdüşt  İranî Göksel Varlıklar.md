@@ -14,3 +14,7 @@ Amesha Spenta ve Yazata varlıkları Hristiyan anlamda 'melek' değildir; karş�
 
 ### Source note
 Britannica, Amesha Spenta'yı Ahura Mazda tarafından yaratılışı yönetmeye yardım eden altı kutsal/ölümsüz varlık olarak açıklar; bu yüzden sayfada 'melek karşılığı' değil 'karşılaştırmalı göksel kategori' etiketiyle verilir.
+
+### Arka Plan
+
+Zerdüşt-İran — 'İran' figürü: 'Zerdüşt' 'İranî' 'göksel' 'varlık' 'sınıfı'; 'Zerdüşt = İran' figürü.

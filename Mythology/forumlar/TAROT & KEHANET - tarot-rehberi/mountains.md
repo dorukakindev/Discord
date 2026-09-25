@@ -11,3 +11,7 @@ Uzun yol, yüksek hedef, sınav ve ruhsal mesafedir; kartın arkasındaki dağla
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg/960px-Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 
 ![gorsel](http://labyrinthos.co/cdn/shop/t/25/assets/logo.png?v=92197997819353518551709912922)
+
+### Arka Plan
+
+Dağlar — 'uzak' sembol: 'yolculuk' ve 'zirve' figürü; 'dağ = hedef' olarak 'uzak gerçek'.

@@ -14,3 +14,7 @@ Bu varlık, abyssal kategorisinin ayrı filtrelenebilmesi için ansiklopediye ek
 - Kaos ordusu
 - Deniz derinliği
 - Tanrılara karşı savaş
+
+### Arka Plan
+
+Tiamat'ın savaş için yarattığı on bir canavar takımı: Kingu lideri olarak Tabletler'i alır; ardından 'akrep-insan' (girtablilu), 'insan-aslan' (urmahlilu), 'ejderha' (ušumgallu), 'kızgın yılan' (mušmaḫḫu), 'fırtına-şeytanı' (ugallu), 'balık-insan' (kulullu), 'boğa-insan' (kusarikku) ve diğerleri. Hepsi Marduk'un savaşında düşer; yenilgileri kozmosun 'düzen-kuruluş' bedeli olarak okunur.

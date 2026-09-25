@@ -15,3 +15,7 @@ Pamela Colman Smithin sahneli Minor dili kartı yalnız anahtar kelime olmaktan 
 - vam-article
 - sacred-texts-pkt-title
 - morgan-exhibition
+
+### Arka Plan
+
+RWS kompozisyon — 'sahne' 'kompozisyon' figürü: 'Smith'in 'sanat' olarak 'düzen' pratiği.

@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL ideograms
 - PharaLex sign functions
+
+### Arka Plan
+
+Mystic-single — 'tek' figürü: 'mystic' 'single' 'sembol' 'tek' 'figürü'; 'single = tek' figürü.

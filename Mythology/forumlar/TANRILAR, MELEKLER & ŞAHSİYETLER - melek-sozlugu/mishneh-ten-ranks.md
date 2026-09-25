@@ -8,3 +8,7 @@ Mishneh Torah: on melek rütbesi
 - sefaria-mishneh-torah-yesodei
 - ou-torah-ten-levels-angels
 -# Çapraz: Hayyot · Ophanim · Erelim · Hashmallim · Ishim
+
+### Arka Plan
+
+Mishneh-on — 'on' figürü: 'Mishneh' 'on' 'seviye' 'melek' 'listesi'; 'on = seviye' figürü.

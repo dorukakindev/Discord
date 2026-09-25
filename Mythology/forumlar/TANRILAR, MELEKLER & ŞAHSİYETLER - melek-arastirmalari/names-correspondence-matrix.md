@@ -8,3 +8,7 @@
 - saet-islam-angels
 - iranica-sraosha
 - esoteric-archives-agrippa
+
+### Arka Plan
+
+Names-matrix — 'isim' figürü: 'names' 'correspondence' 'melek' 'isim' 'matrisi'; 'names = isim' figürü.

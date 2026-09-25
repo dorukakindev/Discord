@@ -15,3 +15,7 @@ Heksagram, iki üçgenin birleşiminden oluşur: biri yukarı, biri aşağı. Ya
 -# Çapraz: Sefirot · Solomon'un Mührü · Pentagram
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Regular_star_figure_2%283%2C1%29.svg/960px-Regular_star_figure_2%283%2C1%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Heksagram (✡) — 'Davut'un yıldızı': altı köşeli yıldız, iki üçgenin birleşimi (yukarı-ateş/erkek + aşağı-su/dişi); 'yukarı nasılsa aşağı öyle' kalıbı. Yahudi kimliğinin 19. yy'da ulusallaşan simgesi — eski 'sihir mührü' (Seal of Solomon) mirası. 'Mikro-makro kozmos birleşimi' olarak okült'te de çalışır.

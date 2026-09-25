@@ -4,3 +4,7 @@
 
 ### Not
 s sesi; alfabetik kartlarda ve fonetik tamamlayıcılarda sık görülür.
+
+### Arka Plan
+
+Katlanmış kumaş — 'giysi' figürü: 'kumaş' (S29 's') ve 'giyim' determinatifi; 'kumaş = örtü' olarak 'giysi' sınıfı.

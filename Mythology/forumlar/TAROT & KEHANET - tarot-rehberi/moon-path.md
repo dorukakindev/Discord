@@ -5,3 +5,7 @@
 Bilinçdışı koridordan geçiş, rüya, sezgi ve korkunun aynı patikada belirmesidir; netlik değil eşik deneyimi verir.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+Ay yolu — 'belirsiz' sembol: 'sudan çıkan' ve 'kuleler arası' figürü; 'yol = belirsizlik' paradoksu.

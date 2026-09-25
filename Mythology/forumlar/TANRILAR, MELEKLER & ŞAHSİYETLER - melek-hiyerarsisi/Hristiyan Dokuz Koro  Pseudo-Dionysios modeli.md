@@ -17,3 +17,7 @@ Hristiyan gelenekte en etkili model, dokuz koroyu üç hiyerarşiye ayıran Pseu
 
 ### Yapı
 Birinci üçlü Tanrı'ya en yakın tefekkür katı olarak Seraphim, Cherubim ve Thrones; ikinci üçlü kozmik yönetim ve güç aktarımı olarak Dominions, Virtues ve Powers; üçüncü üçlü yaratılmış dünyaya yakın hizmet katı olarak Principalities, Archangels ve Angels biçiminde okunur.
+
+### Arka Plan
+
+Dokuz-koro — 'model' figürü: 'Hristiyan' 'dokuz' 'koro' 'Pseudo-Dionysios' 'modeli'; 'dokuz = sistem' figürü.

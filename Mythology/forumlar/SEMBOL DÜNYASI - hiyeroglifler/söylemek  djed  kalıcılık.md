@@ -8,3 +8,7 @@
 ### Kaynak No
 - TLA lemma lists
 - PharaLex guide
+
+### Arka Plan
+
+Djed — 'kalıcılık' figürü: 'djed' 'söylemek' 'kalıcılık' 'figürü'; 'djed = kalıcı' figürü.

@@ -22,3 +22,7 @@ Ugarit tabletleri, Baal dongusu ve Kanaan firtina-bereket kozmolojisi.
 - **Mount Zaphon** — Enlem: 35.95; Boylam: 35.98
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Duck_container_Louvre_AO14779.jpg/960px-Duck_container_Louvre_AO14779.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ugarit (Ras Şamra) metinleri (MÖ ~1200) Eski Ahit'in arka planını aydınlatan Kanaan mitolojisini verir: El gök-babası, Asherah tanrıçası-anası ve '72 oğlu' (bn il — ilahlar meclisi), Baal-Hadad fırtına-kralı, Anat savaş-bakiresi, Mot ölüm, Yam deniz. Baal döngüsünde Baal Mot'a yenilir, Anat onu parçalar, Baal dirilip tahtı geri alır — bereket-ölüm-diriliş kalıbı. Baal-Elyon ve 'Baal Zebul' İsrail polemğinde şeytanlaştı (Beelzebub).

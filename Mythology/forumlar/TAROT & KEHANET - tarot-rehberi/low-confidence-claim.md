@@ -4,3 +4,7 @@
 
 ### Kullanım
 Forum, tekil blog, viral iddia, antik köken miti veya kaynaksız eşleştirme yalnızca uyarı örneği olarak kullanılmalıdır.
+
+### Arka Plan
+
+Düşük güven iddiası — 'tarihsel' katman: 'belge' yoksa 'efsane' figürü; 'kanıt = sınır' doktrini.

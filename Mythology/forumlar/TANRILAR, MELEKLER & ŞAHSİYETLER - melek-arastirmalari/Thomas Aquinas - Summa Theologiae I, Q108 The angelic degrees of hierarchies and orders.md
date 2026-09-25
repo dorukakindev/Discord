@@ -6,3 +6,7 @@
 Dokuz koro dizilimini skolastik hiyerarşi, bilgi ve görev mantığıyla açıklamak için kullanıldı.
 
 -# Kaynaklar: https://www.newadvent.org/summa/1108.htm
+
+### Arka Plan
+
+Aquinas Q108 — 'derece' figürü: 'Aquinas' 'Q108' 'melek' 'derece' 'hiyerarşi'; 'Q108 = derece' figürü.

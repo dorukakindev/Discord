@@ -14,3 +14,7 @@
 - labyrinthos-meanings
 - learntarot-cards
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Ateş-asalar — 'ateş' 'element' 'asa' 'suit' 'eşleşmesi'; 'ateş = irade' figürü.

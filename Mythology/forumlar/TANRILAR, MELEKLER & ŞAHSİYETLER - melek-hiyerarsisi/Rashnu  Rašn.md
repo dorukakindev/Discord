@@ -26,3 +26,7 @@ Rashnu, İranî gelenekte ilahi yargıç olarak özellikle yemin, doğruluk ve �
 - Encyclopaedia Iranica: Rašn
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Faravahar.svg/960px-Faravahar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Rashnu — 'adalet' 'melek' 'yargı' 'figürü'; 'Rashnu = adalet' figürü.

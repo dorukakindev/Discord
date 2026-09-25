@@ -25,3 +25,7 @@ Vohu Manah, Zerdüşt doktrininde iyi düşünce, aydınlanma ve sevgi ilkesi ol
 - Britannica: Amesha Spenta
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/d/d3/Vohu_Manah_Kusan..jpg/revision/latest?cb=20250817165534)
+
+### Arka Plan
+
+Vohu Manah — 'iyi' 'düşünce' 'melek' 'figürü'; 'Vohu = iyi' figürü.

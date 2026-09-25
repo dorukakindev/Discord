@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dirt_jump_IMG_7609.jpg/
 - itf-code-ethics
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dirt_jump_IMG_7609.jpg/960px-Dirt_jump_IMG_7609.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Özgür irade — 'seçim' figürü: 'irade' ve 'sorumluluk' figürü; 'irade = seçim' pratiği.

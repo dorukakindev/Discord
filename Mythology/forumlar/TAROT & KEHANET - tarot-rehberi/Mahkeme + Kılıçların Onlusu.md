@@ -7,3 +7,7 @@ Kesin kapanıştan sonra çağrı gelir; eski hikaye bittiği için yeni kimlik 
 ### Cards
 - judgement
 - ten-of-swords
+
+### Arka Plan
+
+Mahkeme + Kılıçların Onlusu — 'uyanış + son' ikilisi: on kılıcın 'sırtüstü' figürüyle Mahkeme'nin 'çağrı' — 'en düşükten uyan' en güçlü 'kurtuluş' kombinasyonu; 'son = başlangıç' önermesi.

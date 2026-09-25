@@ -17,3 +17,7 @@ Tartaros, Yunan kozmolojisinde önce ilkel bir güç (Khaos'tan sonra doğan iki
 -# Çapraz: Hades · Zeus · Titanlar · Sisyphos · Elysium · Khaos
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg/960px-Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Yunan cehennemin en dibindeki karanlık uçurum: Hades'ten 'yeryüzünden gökyüzüne olduğu kadar uzak' — Hesiodos'ta 'dokuz gün düşen örs' derinliği. Titanların ve Typhon'un hapsedildiği yer; 'Hades'in de Hades'i' — kozmik hücre. Kronos ve Iapetus orada zincirli; 'son duvar'.

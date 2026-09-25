@@ -20,3 +20,7 @@ Minotauros, Girit Kraliçesi Pasiphaë ile kutsal bir boğanın birleşmesinden 
 -# Çapraz: Theseus · Ariadne · Daidalos · Pasiphaë · Kral Minos
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Theseus_Minotaur_Louvre_F33.jpg/960px-Theseus_Minotaur_Louvre_F33.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Minotauros, Girit labirentindeki boğa-başlı insanoğlu: Pasiphae'nin Poseidon'un boğasıyla birleşmesinden doğan Asterios; Daedalos'un labirentinde tutulur, her yıl yedi erkek-yedi kız Atinalı tribute yer. Theseus Ariadne'nin ipliğiyle labirenti çözüp Minotaur'u öldürür. 'İnsan-hayvan' ikililiğinin en eski mimarisi — labirent hem hapishane hem simgesi.

@@ -10,3 +10,7 @@ Court kartını sadece dış kişi değil, kullanıcının üstlendiği rol olar
 ### Kaynak No
 - britannica-tarot
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Court kartları — Page-Knight-Queen-King dört rütbe: 'öğrenci-hareket-içsel-dışsal' figürleri; 'kişi' ve 'enerji' olarak 'rol matrisi'.

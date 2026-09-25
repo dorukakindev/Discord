@@ -9,3 +9,7 @@ Eliphas Levi ve sonrasındaki okült canlanma tarot kartlarını Kabala, astrolo
 - wikipedia-eliphas-levi
 - wikipedia-golden-dawn
 - worldcat-occult-history
+
+### Arka Plan
+
+Levi-Kabala — '19. yy' figürü: 'Kabala' ve 'tarot' 'birleşimi'; 'Levi = birleşim' figürü.

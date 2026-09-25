@@ -5,3 +5,7 @@
 Uzak ihtimal, ticaret, geçiş, haber ve değişen koşullarda yön bulma imgesidir.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+Ufuktaki gemiler — 'uzak' figür: 'beklenen' ve 'gelen' sembolü; 'ufuk = beklenti' figürü.

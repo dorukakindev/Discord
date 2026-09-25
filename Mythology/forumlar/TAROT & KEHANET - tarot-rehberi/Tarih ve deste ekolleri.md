@@ -13,3 +13,7 @@
 - vam-article
 - ipcs-marseille-type1
 - tarot-heritage-rws
+
+### Arka Plan
+
+Tarih-ekol — 'deste' figürü: 'Marseille' 'RWS' 'Thoth' 'ekol' 'ayrımı'; 'ekol = dil' figürü.

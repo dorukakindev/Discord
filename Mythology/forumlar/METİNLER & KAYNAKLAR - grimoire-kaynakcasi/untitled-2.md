@@ -10,3 +10,7 @@ Birçok grimoire meşruiyet için Süleyman, Musa, Honorius, Raziel veya antik M
 - **Melek/Kabala** — Entries: sefer-raziel-hamalakh · ars-notoria
 - **Folklorik/Peri kralı** — Entries: book-of-oberon · galdrakver-lbs-143
 - **Popüler egzotizm** — Entries: black-pullet · grand-grimoire
+
+### Arka Plan
+
+Grimoire'ların 'metin-doğası' — 'kopya zinciri'nde her nüsha 'yeni varyant': hata, ek, sansür ve 'yorum' katmanları; 'eleştiri edisyonu' kavramı bu katmanları 'doğru'yu ayıklamak için geliştirdi. 'Metin = yaşayan süreç' olarak 'kopya-tarihi'.

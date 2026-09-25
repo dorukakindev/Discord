@@ -9,3 +9,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/68/CNW_brakeman%27s_kerosene_la
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/6/68/CNW_brakeman%27s_kerosene_lantern.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Fener — Ermiş kartının 'iç ışık' sembolü: 'küçük ama net' ışık; 'altı köşeli yıldız' içindeki 'bilgelik alevi' olarak 'yol gösterici'.

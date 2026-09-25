@@ -6,3 +6,7 @@
 Ters kart, gölge, blokaj ve yorum tuzağı bölümlerini felaketçi olmayan dile bağla.
 
 -# Kaynaklar: https://search.worldcat.org/title/The-complete-book-of-tarot-reversals/oclc/905587490
+
+### Arka Plan
+
+Reversals — 'ters' figürü: 'tarot' 'ters' 'rehberi'; 'reversals = yön' figürü.

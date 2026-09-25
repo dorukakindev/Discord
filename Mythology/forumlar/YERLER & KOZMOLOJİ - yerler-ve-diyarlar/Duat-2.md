@@ -5,3 +5,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_de
 > **Tür:** merged
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/960px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Mısır öteki dünya haritası: güneşin gece yolculuğu yaptığı on iki 'saat'lik geçit, timsahlar ve ateşle çevrili koridorlar, 'iki gerçeğin salonu'nda kalp-Maat terazisi. Amduat ve 'Kapılar Kitabı' rehber metinler; mezarlarda 'kitabı yanmak' için yazılı sihirler. 'Gece yolculuğu' — güneşin ölüm ve yeniden doğuş döngüsü.

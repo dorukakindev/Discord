@@ -9,3 +9,7 @@ Ters kart geldiğinde önce enerji yönü açıklanır, sonra uygulanabilir deng
 - labyrinthos-meanings
 - biddy-reversals
 - itf-code-ethics
+
+### Arka Plan
+
+Ters kart — 'yön' figürü: 'kötü' değil 'farklı' olarak 'yön' okuması.

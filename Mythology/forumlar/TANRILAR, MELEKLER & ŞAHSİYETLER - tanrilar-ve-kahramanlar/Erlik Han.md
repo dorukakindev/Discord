@@ -29,3 +29,7 @@ Tengri'nin karşıt kutbu olan Erlik Han, yeraltının dokuz katında hüküm s�
 - Ruh Çalma Hikayeleri
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Court_of_Erlik_Khan.jpg/960px-Court_of_Erlik_Khan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Erlik Han — Türk-Moğol mitolojisinin 'yeraltı kralı': 'kara tengri' olarak 'ölülerin efendisi'; Ülgen'in kardeşi/rakibi olarak 'dünyayı yaratırken katkısı' ('kötü kokuları ben yaptım' anlatısı). 'Kötü ama gerekli' figür — 'ölüm'ün 'mitolojik adresi'.

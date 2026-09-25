@@ -18,3 +18,7 @@ Bu varlık, spirit kategorisinin ayrı filtrelenebilmesi için ansiklopediye ekl
 - İlham verme
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Evelyn_De_Morgan_-_The_Dryad.jpg/960px-Evelyn_De_Morgan_-_The_Dryad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Dryad (Hamadryad), Yunan ağaç perileri: ağacının ömrüyle bağlı, ağacı ölünce o da ölür. Meşe için dryad, dağlar için oread, su için naiad. Erysikhthon mitinde Ceres'in kutsal meşesini kesen adam sonsuz açlıkla cezalanır — dryad intikamı. Ormanın 'kişi'leşmiş hassasiyeti; Antik Yunan'ın ağaç-kültü kalıntısı.

@@ -9,3 +9,7 @@ Genesis 3 ve Exodus 25: Cherubim, sınır ve Ahit Sandığı
 - usccb-exodus-25
 - je-cherubim
 -# Çapraz: Cherubim · Eden · Ahit Sandığı · Kutsal mekân
+
+### Arka Plan
+
+Eden-cherubim — 'kapı' figürü: 'Eden' 'cherubim' 'kapı' 'bekçisi'; 'bekçi = sınır' figürü.

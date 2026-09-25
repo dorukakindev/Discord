@@ -11,3 +11,7 @@ https://upload.wikimedia.org/wikipedia/commons/f/f5/Signorelli-Antichrist_and_th
 - worldcat-greer-self
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/f/f5/Signorelli-Antichrist_and_the_devil.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Şeytan (The Devil) — XV numaralı kart: Baphomet figürü ve zincirli iki figür; 'bağlanma', 'bağımlılık' ve 'gölge'; 'le diable' — 'kendi zincirlerin' miti. 'Bağımlılık = seçim' paradoksu — zincirler gevşek.

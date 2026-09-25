@@ -7,3 +7,7 @@ Kapanan döngü yeni ateş için alan açar. Bırakılmayan eski biçim, yeni he
 ### Cards
 - death
 - ace-of-wands
+
+### Arka Plan
+
+Ölüm + Asaların Ası — 'son + başlangıç' ikilisi: as'ın 'ağaçtan çıkan asa' figürüyle Ölüm'ün 'geçiş' — 'yeni ateş yak' en güçlü 'dönüşüm' kombinasyonu; 'küllerden doğ' önermesi.

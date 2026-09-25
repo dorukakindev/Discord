@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/960
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/960px-Statue-Augustus.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+İmparatoriçe (The Empress) — III numaralı kart: buğday tarlasında oturan taçlı kadın; 'bereket', 'yaratım' ve 'doğa'; 'Venus' sembolü ve 'on iki yıldız' tacı — 'göksel anne' figürü. 'Bolluk' kartı olarak 'yaratım' figürü.

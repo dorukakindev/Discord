@@ -7,3 +7,7 @@
 
 ### Kayıt
 Thrones (Tahtlar), Hristiyan dokuz koroda Tanrı'ya en yakın birinci hiyerarşinin üçüncü düzenidir. İlahi adaleti, otoriteyi ve Tanrı'nın tahtının ağırlığını taşıdıklarına inanılır. Yahudi geleneğindeki Ophanim (Hezekiel'in gözlerle dolu, dönen tekerlekleri) ile özdeşleştirilirler. Tanrı'nın iradesini ve yargısını alçakgönüllülük ve kusursuz tarafsızlıkla yansıtan, derin tefekkür içindeki varlıklar olarak betimlenirler; ilahi hukukun sembolüdür.
+
+### Arka Plan
+
+Tahtlar — 'taht' melekleri: 'dokuz' 'koro'nun 'üçüncü' 'katmanı'; 'adalet' 'taht' 'figürü'.

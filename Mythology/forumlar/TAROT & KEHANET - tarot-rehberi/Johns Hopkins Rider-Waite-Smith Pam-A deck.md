@@ -6,3 +6,7 @@
 RWS basım/nesne tarihi ve 78 kart kompozisyonunu arşiv kaydıyla destekle.
 
 -# Kaynaklar: https://aspace.library.jhu.edu/repositories/3/archival_objects/330032
+
+### Arka Plan
+
+Pam-A — 'erken' figürü: 'Pamela A' 'ilk' RWS baskısı; 'Pam-A = orijinal' figürü.

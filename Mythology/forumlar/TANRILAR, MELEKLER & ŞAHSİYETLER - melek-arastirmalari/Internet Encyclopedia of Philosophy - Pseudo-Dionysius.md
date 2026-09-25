@@ -6,3 +6,7 @@
 Celestial Hierarchy'nin hiyerarşik kozmoloji ve apofatik teoloji içindeki yerini ikinci akademik özetle dengelemek için kullanıldı.
 
 -# Kaynaklar: https://iep.utm.edu/pseudo-dionysius-the-areopagite/
+
+### Arka Plan
+
+IEP Dionysius — 'felsefe' figürü: 'IEP' 'Pseudo-Dionysius' 'felsefe' 'makalesi'; 'IEP = felsefe' figürü.

@@ -10,3 +10,7 @@ Hayyot, tekerlekler, gözlerle dolu hareket ve Merkabah taht-arabası imgesini a
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Ezekiel 1 — 'vizyon' figürü: 'Ezekiel' '1' 'tekerlek' 'vizyon' 'ayeti'; 'Ezekiel = tekerlek' figürü.

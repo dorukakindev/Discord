@@ -8,3 +8,7 @@
 - Tesbih
 - Kozmik sütun
 -# Çapraz: Throne bearers
+
+### Arka Plan
+
+Hamalat — 'taht' 'taşıyıcı' 'melek' 'figürü'; 'hamalat = taşıyıcı' figürü.

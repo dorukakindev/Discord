@@ -9,3 +9,7 @@ Karşıt kuvvetleri tek iradede tutma, gizli bilmece ve yön verme gücünü tem
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Sphinx_CdM_Paris_DeRidder865_n2.jpg/960px-Sphinx_CdM_Paris_DeRidder865_n2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Sfinks — Savaş Arabası'nın siyah-beyaz çifti: 'bilinmez' ve 'birleşik' güçlerin 'yön verici' figürü; 'cava = kontrol' olarak 'zıtların harmonisi'.

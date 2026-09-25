@@ -10,3 +10,7 @@ https://upload.wikimedia.org/wikipedia/commons/c/c0/Homer_Ilias_Griphanius_c1572
 - Homeros Ilias
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/c/c0/Homer_Ilias_Griphanius_c1572.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+İlyada — 'İlion'un şarkısı': Achilles'in 'öfkesi' (menis) — 'tanrıların kavgası' değil 'insanlığın bedeli'; 'on günün' epik çözümlemesi. 'Savaş = görünmezlik' paradoksu.

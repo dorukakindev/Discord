@@ -8,3 +8,7 @@
 - Eşik
 - Tanıklık
 -# Çapraz: Malak al-Mawt
+
+### Arka Plan
+
+Munkar-Nakir — 'kabir' 'sorgu' 'melek' 'figürü'; 'Munkar = sorgu' figürü.

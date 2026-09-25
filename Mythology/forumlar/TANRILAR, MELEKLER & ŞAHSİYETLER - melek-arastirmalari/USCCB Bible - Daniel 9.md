@@ -10,3 +10,7 @@ Gabriel'in açıklayıcı ve vahiy-yorumlayıcı haberci rolünü göstermek iç
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Daniel 9 — 'vakit' figürü: 'Daniel' '9' 'vakit' 'melek' 'ayeti'; 'Daniel = vakit' figürü.

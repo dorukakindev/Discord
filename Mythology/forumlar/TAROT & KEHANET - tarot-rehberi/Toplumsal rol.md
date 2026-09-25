@@ -9,3 +9,7 @@
 - conflict
 - ethics
 - home
+
+### Arka Plan
+
+Toplumsal rol — 'court' figürü: 'rol' ve 'görev' figürü; 'rol = kimlik' pratiği.

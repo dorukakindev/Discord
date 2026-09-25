@@ -20,3 +20,7 @@ Nil vadisi, Memfis, Teb ve delta kult merkezleri.
 - **Abydos** — Enlem: 26.18; Boylam: 31.92
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/960px-Flag_of_Egypt.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Mısır kozmolojisi Nun ilksel sularından Benben tepesinin çıkışıyla başlar; Atum tükürük/hareketle Shu-Tefnut'u, onlar Geb-Nut'u, Geb-Nut Osiris-Isis-Set-Nephthys dörtlüsünü doğurur. Osiris'in Set tarafından parçalanması ve Isis'in onu diriltmesi ölüm-dirilme kalıbının arketipi; Horus-Set savaşı 80 yıl sürer. Ra'nın güneş-barkında Apep (kaos-yılan) ile gece savaşı; kalbinin Anubis terazisinde Maat'ın tüyüyle tartılması Hades-etik evrenin erken formu.

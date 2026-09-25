@@ -26,3 +26,7 @@ Daena, kişinin dini/vicdani iç benliği ve ölüm sonrası karşılaştığı 
 - Encyclopaedia Iranica: Dēn / Daena
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sogdian-Zoroastrian_Deities%2C_Tunhwang.jpg/960px-Sogdian-Zoroastrian_Deities%2C_Tunhwang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Daena — 'din' figürü: 'Daena' 'Dēn' 'din' 'kadın' 'figürü'; 'Daena = din' figürü.

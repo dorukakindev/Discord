@@ -17,3 +17,7 @@ Seraphim, Cherubim, Hayyot, Ophanim ve Thrones gibi varlıklar haber taşımakta
 - usccb-genesis-3
 - usccb-exodus-25
 - ccel-celestial-hierarchy-ch7
+
+### Arka Plan
+
+Taht-yakınlık — 'taht' 'melek' 'övgü' 'yakınlık' 'figürü'; 'taht = yakın' figürü.

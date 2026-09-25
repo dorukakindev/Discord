@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Hojas_de_chacruna_%28Ps
 Ayahuascaya DMT katan yaprak. Caapi asmasıyla birleştiğinde içkinin görsel ve vizyoner katmanını açar.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Hojas_de_chacruna_%28Psychotria_viridis%29.jpg/960px-Hojas_de_chacruna_%28Psychotria_viridis%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Chacruna (Psychotria viridis) — 'ayahuasca'nın 'ışık' bitkisi: DMT içeriğiyle caapi'nin MAOI'ıyla birlikte 'aktive' eden; 'yeşil' bitki olarak 'vision' kaynağı. 'Caapi = anahtar, chacruna = kapı' doktrini.

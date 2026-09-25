@@ -12,3 +12,7 @@
 - British Museum cartouches
 - Global Egyptian Museum cartouche
 - Penn Lintel E1823
+
+### Arka Plan
+
+Kartuş ad-unvan — 'içerik' figürü: 'kartuş' 'içinde' 'ad' mı 'unvan' mı 'sorusu'; 'içerik = ad' figürü.

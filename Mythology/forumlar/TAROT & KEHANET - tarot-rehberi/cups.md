@@ -28,3 +28,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cup_and_Saucer_LACMA_47
 - learntarot-cards
 - labyrinthos-meanings
 - worldcat-holistic-tarot
+
+### Arka Plan
+
+Kupa serisi — su: 'duygu' ve 'ilişki' figürü; 'aşk' ve 'akış' kartları.

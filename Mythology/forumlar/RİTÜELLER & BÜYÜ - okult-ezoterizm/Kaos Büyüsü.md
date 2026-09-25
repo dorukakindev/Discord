@@ -10,3 +10,7 @@ Kaos büyüsü, 1970'lerde Austin Osman Spare'in fikirlerinden ve Peter Carroll'
 - Sigil
 - Pragmatik
 - Post-modern
+
+### Arka Plan
+
+Kaos büyüsü (Chaos Magic) — 'inanç = araç' doktrini; 'gizli' (gnosis) halleriyle 'sihirli-durum' tekniği. 'Her şey geçerli' ilkesi — 'sistem değil, sonuç' olarak 'postmodern büyü'.

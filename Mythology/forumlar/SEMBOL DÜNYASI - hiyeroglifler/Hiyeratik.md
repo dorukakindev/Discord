@@ -8,3 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/8/8a/Heratic_script_limestone.jpg
 Hiyerogliften türemiştir ama çoğu işaret hiyeroglif modelden çok uzaklaşır.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/8/8a/Heratic_script_limestone.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Hiyeratik — 'rahip yazısı': hiyeroglifin 'hızlı' kursif versiyonu; 'papirüs' ve 'ostrakon'da 'günlük' yazı; 'hiyeroglif = taş, hiyeratik = papirüs' ikilisi.

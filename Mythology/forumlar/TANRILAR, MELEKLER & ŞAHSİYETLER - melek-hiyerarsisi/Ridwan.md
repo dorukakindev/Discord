@@ -21,3 +21,7 @@ Ridwan, İslamî halk ve gelenek literatüründe cennetin bekçisi olarak bilini
 
 ### Source refs
 - Islamic angelology tradition notes
+
+### Arka Plan
+
+Rıdvan — 'cennet' 'bekçi' 'melek' 'figürü'; 'Rıdvan = cennet' figürü.

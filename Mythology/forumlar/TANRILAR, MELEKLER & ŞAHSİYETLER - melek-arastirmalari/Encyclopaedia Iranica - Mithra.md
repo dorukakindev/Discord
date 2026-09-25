@@ -8,3 +8,7 @@ Mithra'nın sözleşme, tanıklık ve adalet alanını göksel aracı figürlerl
 -# Kaynaklar: https://www.iranicaonline.org/articles/mithra
 
 ![gorsel](https://www.iranicaonline.org/wp-content/uploads/2025/03/iranica.jpg)
+
+### Arka Plan
+
+Iranica Mithra — 'sözleşme' figürü: 'Iranica' 'Mithra' 'sözleşme' 'figürü'; 'Mithra = sözleşme' figürü.

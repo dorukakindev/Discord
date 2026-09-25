@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/4-AcO-DMT_structure.svg
 Psilosinin asetillenmiş öncülü; vücutta psilosine dönüşerek sihirli mantara çok yakın bir deneyim verir. Araştırma kimyasalı olarak bilinir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/4-AcO-DMT_structure.svg/960px-4-AcO-DMT_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+4-AcO-DMT — 'psilacetin': psilocin'in (4-HO-DMT) asetil esteri — 'prodrug' olarak 'magic mushroom' benzeri ama 'sentetik' versiyon; 'O-Acetylpsilocin' olarak 1999'da Albert Hofmann tarafından sentezlendi. 'Mantarın kimyasal eşdeğeri' olarak bilinir.

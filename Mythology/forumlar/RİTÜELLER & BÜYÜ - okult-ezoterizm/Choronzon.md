@@ -10,3 +10,7 @@ Choronzon, modern okültizmde özellikle Thelema geleneğinde Abyss eşiğinde k
 - 333
 - Enochian
 - Thelema
+
+### Arka Plan
+
+Choronzon — 'dağıtıcı' melek-demon: Dee-Kelley'nin Enochian metinlerinde '336' (kaosun sayısı); Crowley'nin 1909'da Sahra'da 'görme' denemesiyle 'kaos şeytanı' olarak kültleşti. 'Bozucu' figürü — 'ego dağıtıcısı'.

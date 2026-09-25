@@ -8,3 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/b/b4/La_Tombe_de_Horemheb_cropped
 Tanrı, kutsallık ve tapınak alanlarıyla ilişkili temel işarettir.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/b/b4/La_Tombe_de_Horemheb_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Netjer — 'tanrı' figürü: 'bayrak' (R8 'ntr') ve 'tanrı' determinatifi; 'netjer = güç' olarak 'ilahi' sınıfı.

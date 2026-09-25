@@ -15,3 +15,7 @@ Sayılar süreç evresini, tekrarlar ise ana hayat alanını gösterir; aynı sa
 - ipcs-marseille-type1
 - wikipedia-minor
 - learntarot-cards
+
+### Arka Plan
+
+Sayı-tekrar — 'ritim' figürü: 'sayı' 'tekrar' 'düzen' 'yankı' 'figürü'; 'tekrar = işaret' figürü.

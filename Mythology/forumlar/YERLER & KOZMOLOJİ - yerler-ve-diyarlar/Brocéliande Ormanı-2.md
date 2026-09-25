@@ -6,3 +6,7 @@
 **Brocéliande Ormanı**, Brocéliande, Arthur anlatılarında Merlin, peri büyüsü ve şövalye sınavlarıyla ilişkilenen büyülü orman coğrafyasıdır.
 
 Bu mekan kaydı, kutsal coğrafyanın kutsal-orman başlığı altında daha okunur biçimde filtrelenmesi için eklenmiştir. Anlatıdaki rolü yalnızca fiziksel yer olarak değil, ritüel, geçiş, sınır ve kozmik düzen bağlamında ele alınır. Böylece kutsal mekanlar paneli dağ, nehir, orman, yeraltı ve gökyüzü gibi alanları ayrı ayrı gösterebilir.
+
+### Arka Plan
+
+Bretanya'nın Paimpont ormanı — Artur efsanelerinin 'meraklıların diyarı': Merlin'in Viviane tarafından ağaca hapsedildiği yer, Val sans Retour, kutsal Barenton pınarı. Chrétien de Troyes'tan beri şövalye-araştırmasının 'belirsizliğin çekirdeği'; 'merveille' kavramının ormanla özdeşleştiği tek adres.

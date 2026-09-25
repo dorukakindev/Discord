@@ -9,3 +9,7 @@
 - friendship
 - family
 - collaboration
+
+### Arka Plan
+
+İlişkiler okuması — 'kupa' figürü: 'bağ' ve 'karşılıklılık' figürü; 'ilişki = dinamik' pratiği.

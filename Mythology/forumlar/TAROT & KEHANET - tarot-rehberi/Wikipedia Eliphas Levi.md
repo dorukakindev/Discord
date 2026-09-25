@@ -8,3 +8,7 @@ V&A çizgisiyle birlikte okült sistemleşmeyi açıkla.
 -# Kaynaklar: https://en.wikipedia.org/wiki/%C3%89liphas_L%C3%A9vi
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/9/92/Eliphas_Levi.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Eliphas Levi — 'Kabala' figürü: '19. yy' 'okült' 'sistem' 'kurucusu'; 'Levi = sistem' figürü.

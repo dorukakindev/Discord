@@ -6,3 +6,7 @@
 Enochian çağrılar, dil ve meleksel tablo fikrinin okült-tarihsel katmanını göstermek için kullanıldı.
 
 -# Kaynaklar: https://www.esotericarchives.com/dee/invocat.htm
+
+### Arka Plan
+
+Enochian Invocations — 'çağrı' figürü: 'Enochian' 'çağrı' 'invocation' 'metinleri'; 'invocation = çağrı' figürü.

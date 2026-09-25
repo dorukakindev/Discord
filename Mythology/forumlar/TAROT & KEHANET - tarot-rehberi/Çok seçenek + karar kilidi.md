@@ -6,3 +6,7 @@ Fazla olasılık zihni donduğunda seçimi erteleme eğilimi; sadeleştirme gere
 ### Cards
 - Seven of Cups
 - Two of Swords
+
+### Arka Plan
+
+Karar kilidi — 'seçim' figürü: 'çok seçenek' ve 'kararsızlık' ikilisi; 'kilid = seçim' pratiği.

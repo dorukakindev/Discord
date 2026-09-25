@@ -7,3 +7,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Dodona-Greece-April-200
 Zeus'a adanmış en eski Yunan kehanet ocağı; meşe yapraklarının hışırtısı yorumlanırdı.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Dodona-Greece-April-2008-107.JPG/960px-Dodona-Greece-April-2008-107.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Epir'in kutsal meşe korusu — Zeus'un 'yaprak fısıltısı' kehaneti: pelia (güvercinler) veya meşe sesiyle Zeus'la konuşulan en eski Yunan kehanet yeri. 'Dodona'ya git' — danışma-merkez olarak Delphi'den eski. Bronze tripod tencerelerinin sesi 'Zeus'un sesi' sayılırdı; en eski hellespontik tapınak katmanı.

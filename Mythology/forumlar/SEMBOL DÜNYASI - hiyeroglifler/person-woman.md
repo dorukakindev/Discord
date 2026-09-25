@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL determinatives
 - Classifier study
+
+### Arka Plan
+
+Person-woman — 'kadın' figürü: 'person' 'woman' 'kadın' 'figürü'; 'woman = kadın' figürü.

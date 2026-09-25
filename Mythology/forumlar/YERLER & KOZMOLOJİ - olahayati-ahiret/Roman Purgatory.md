@@ -12,3 +12,7 @@ Bu ölüm sonrası kaydı, araf filtresinin gerçek örneklerle çalışması i�
 
 ### Realms
 - Arınma katmanları
+
+### Arka Plan
+
+Roma-Katolik ara-diyar: 'limbus' mirasını devralan ama 'arsıtma' (purgatio) olarak sistemleşen bekleme süresi; kilisenin 'dua sayısı' uygulaması ve Dante'nin şiirleştirdiği katmanlı dağ. 'Ateşle arınma' kalıbı ��� ölümden sonraki 'ikinci şans' diyarı.

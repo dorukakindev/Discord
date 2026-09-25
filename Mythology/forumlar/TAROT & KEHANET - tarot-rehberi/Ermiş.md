@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Phaethornis_idaliae_Min
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Phaethornis_idaliae_Minute_Hermit%3B_Aracruz%2C_Espirito_Santo%2C_Brazil.jpg/960px-Phaethornis_idaliae_Minute_Hermit%3B_Aracruz%2C_Espirito_Santo%2C_Brazil.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ermiş (The Hermit) — IX numaralı kart: fener tutan yaşlı figür; 'iç ışık', 'inziva' ve 'arayış'; 'fenerdeki yıldız' — bilgeliğin 'küçük ama net' ışığı. Marseille'de 'l'hermite' — 'zaman' (Saturn) ataması; 'dağa çıkan' figür olarak 'iç yolculuk'.

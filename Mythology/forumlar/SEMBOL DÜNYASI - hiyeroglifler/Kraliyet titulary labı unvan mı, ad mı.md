@@ -12,3 +12,7 @@
 - Brooklyn Nsw-bity
 - Global Egyptian Museum cartouche
 - Penn cartouche name
+
+### Arka Plan
+
+Titulary — 'beş ad' figürü: 'Horus', 'İki Hanım', 'Altın Horus', 'Sazlık-Arı', 'Güneş Oğlu' 'beş' 'kraliyet' 'adı'; 'titulary = kimlik' figürü.

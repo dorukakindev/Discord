@@ -8,3 +8,7 @@ Vahiy 12: Michael ve ejderha savaşı
 - usccb-revelation-12
 - catholic-encyclopedia-angels
 -# Çapraz: Michael · Düşmüş melekler · Demonoloji sınırı · Apokaliptik
+
+### Arka Plan
+
+Vahiy-Michael — 'savaş' figürü: 'Vahiy' 'Michael' 'savaş' 'zinciri'; 'savaş = ejderha' figürü.

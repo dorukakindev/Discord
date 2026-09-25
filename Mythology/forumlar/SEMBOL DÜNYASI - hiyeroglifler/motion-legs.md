@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL determinatives
 - PharaLex sign functions
+
+### Arka Plan
+
+Motion-legs — 'hareket' figürü: 'motion' 'legs' 'hareket' 'bacak' 'figürü'; 'motion = hareket' figürü.

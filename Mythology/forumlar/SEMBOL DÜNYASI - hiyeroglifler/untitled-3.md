@@ -5,3 +5,7 @@
 ### Kaynak No
 - Unicode Chapter 11
 - UAX #57
+
+### Arka Plan
+
+Quadrat — 'hayali kutu' düzeni: işaretler dikdörtgen hayali bloklara yerleştirilir (iki küçük yan yana, dikey istif); 'blok = estetik' olarak 'okuma kolaylığı' kuralı. Unicode format kontrolleriyle dijitalde modellenir.

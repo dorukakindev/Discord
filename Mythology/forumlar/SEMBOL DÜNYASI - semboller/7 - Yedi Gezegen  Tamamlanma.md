@@ -29,3 +29,7 @@ Yedi sayısı, çıplak gözle izlenen klasik gezegenler, haftanın yedi günü,
 - heptagram
 
 -# Kaynaklar: https://www.britannica.com/topic/number-symbolism
+
+### Arka Plan
+
+Yedi — 'gök ölçüsü': yedi klasik gezegen (Güneş, Ay + beş gezegen), yedi gün, yedi kat gök, yedi büyük söz (Mısır), yedi chakra katmanı. 'Tamamlanma' sayısı — yedinci gün 'dinlenme'yle döngü kapanır. Simyada yedi metal, simyanın 'yedi süreç' katmanı. 'Kozmik sayı' — astronomiyle takvimin evliliği.

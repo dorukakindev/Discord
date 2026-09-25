@@ -18,3 +18,7 @@ Bu varlık, spirit kategorisinin ayrı filtrelenebilmesi için ansiklopediye ekl
 - Atasal koruma
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/d/d1/Amaterasu_cave_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Kami, Şinto'nun 'yüce/şaşırtıcı' varlıkları: tanrıdan doğa ruhuna, ölü atadan olağanüstü nesneye kadar geniş kategori. Amaterasu güneş-kami'si, Inari pirinç-kami'si, Hachiman savaş-kami'si. Doğanın 'görünür olağanüstülüğü' — şelale, dağ, ağaç, taş — kami sayılır; tapınak (jinja) o auranın adresidir. 'Kami' diye adlandırılan dağa, rüzgâra, ataya aynı doktrin uyar.

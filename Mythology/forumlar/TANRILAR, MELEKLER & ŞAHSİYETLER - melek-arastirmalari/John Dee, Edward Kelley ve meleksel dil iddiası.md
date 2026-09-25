@@ -8,3 +8,7 @@ Dee ve Kelley'nin vizyon kayıtları, meleksel dil, çağrılar ve tablolarla er
 - britannica-john-dee
 - esoteric-archives-dee
 - esoteric-archives-enochian-invocations
+
+### Arka Plan
+
+Dee-Kelley — 'dil' figürü: 'Dee' 'Kelley' 'Enochian' 'melek' 'dil' 'iddiası'; 'dil = Enochian' figürü.

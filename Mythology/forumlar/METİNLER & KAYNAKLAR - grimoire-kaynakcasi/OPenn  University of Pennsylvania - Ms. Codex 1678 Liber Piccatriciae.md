@@ -9,3 +9,7 @@ Picatrix'in yalnızca Arapça kökenli bir başlık değil, Latin Avrupa'da geç
 
 -# Kaynaklar: https://openn.library.upenn.edu/Data/0002/html/mscodex1678.html
 -# Çapraz: picatrix
+
+### Arka Plan
+
+UPenn OPenn'de Ms. Codex 1678 — 'Picatrix' Latince nüsha; 'Ghāyat al-Ḥakīm' tercümesi — gezegen-tılsım reçeteleri ve 'nüfuz isimleri'. 'Arap büyüsünün Avrupa tercümesi' katmanı.

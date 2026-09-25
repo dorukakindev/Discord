@@ -22,3 +22,7 @@ Malak al-Mawt/Azrael, Munkar ve Nakir, Malik, Ridwan ve Raphael'in bazı yorumla
 - saet-islam-angels
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/3/33/Yama_on_buffalo.jpg/revision/latest?cb=20200219202835)
+
+### Arka Plan
+
+Ölüm-eşik — 'eşik' 'melek' 'ölüm' 'kabir' 'ahiret' 'figürü'; 'ölüm = eşik' figürü.

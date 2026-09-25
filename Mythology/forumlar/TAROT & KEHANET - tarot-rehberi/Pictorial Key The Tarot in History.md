@@ -6,3 +6,7 @@
 Birincil okült metin ile modern tarih arasındaki farkı göster.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/pkt0104.htm
+
+### Arka Plan
+
+Tarot in History — 'tarih' figürü: 'Pictorial Key' 'tarot' 'tarih' 'bölümü'; 'history = köken' figürü.

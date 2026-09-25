@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL orientation
 - Unicode Chapter 11
+
+### Arka Plan
+
+Okuma yönü — 'yüz yönü' kuralı: insan-hayvan işaretleri metnin başlangıcına bakar, okur onların yüzüne doğru ilerler; 'kuşlar sola bakıyorsa sağdan sola' kuralı. 'Yön = başlangıç' olarak 'yüzey okuma' pratiği.

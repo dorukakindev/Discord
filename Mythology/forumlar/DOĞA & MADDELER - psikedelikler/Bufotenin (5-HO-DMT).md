@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bufotenin2DACS.svg/960p
 Anadenanthera tohumlarında ve bazı kurbağalarda bulunan triptamin. Tarihsel olarak yopo ve cohoba enfiyelerinin etkin maddelerinden biri kabul edilir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bufotenin2DACS.svg/960px-Bufotenin2DACS.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Bufotenin — 'kurbağa zehri' (Bufo alvarius): Colorado Nehri kurbağasının salgısındaki 5-HO-DMT; 'bufo' deneyimi olarak 'en güçlü' kısa süreli psikedelik (~20-30 dakika); 'egzozom' (die-in) deneyimiyle 'yeniden doğuş' niteliği.

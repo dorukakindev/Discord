@@ -5,3 +5,7 @@
 -# Kaynaklar: https://www.swansea.ac.uk/egypt/egyptology/hieroglyphs/
 
 ![gorsel](https://egypt.swansea.ac.uk/egyptcentre/files/2024/06/cropped-cropped-Logo.png)
+
+### Arka Plan
+
+Swansea — 'merkez' figürü: 'Swansea' 'Mısır' 'hiyeroglif' 'merkezi'; 'Swansea = merkez' figürü.

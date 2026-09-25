@@ -24,3 +24,7 @@
 - learntarot-cards
 - labyrinthos-meanings
 - worldcat-holistic-tarot
+
+### Arka Plan
+
+Asa serisi — ateş: 'irade' ve 'hareket' figürü; 'yaratım' ve 'enerji' kartları.

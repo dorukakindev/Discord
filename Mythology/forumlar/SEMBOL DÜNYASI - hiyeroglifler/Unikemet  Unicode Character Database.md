@@ -10,3 +10,7 @@
 ### Kaynak No
 - UAX #57
 - Unikemet.txt
+
+### Arka Plan
+
+Unikemet UCD — 'veri tabanı' figürü: 'Unikemet' 'Unicode' 'veri tabanı'; 'UCD = veri' figürü.

@@ -11,3 +11,7 @@ Hiyeroglifler sağdan sola, soldan sağa veya dikey sütunlar halinde yazılabil
 ### Kaynak No
 - UCL orientation
 - UCL system1
+
+### Arka Plan
+
+Okuma yönü — 'yön' figürü: 'sağdan-sola', 'soldan-sağa', 'yukarıdan-aşağı' 'okuma' 'yönü'; 'yön = başlangıç' figürü.

@@ -5,3 +5,7 @@
 ### Kaynak No
 - Met Nakht record
 - Penn Lintel E1823
+
+### Arka Plan
+
+Provenance — 'körlük' figürü: 'provenance' 'blindness' 'kaynak' 'körlüğü' 'figürü'; 'provenance = köken' figürü.

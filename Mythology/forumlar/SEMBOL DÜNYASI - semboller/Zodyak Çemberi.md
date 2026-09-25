@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde astrolojik kategorisinin ayrı filtreleneb
 - Astrolojik harita
 - Kehanet
 - Zaman döngüsü
+
+### Arka Plan
+
+Zodyak çemberi — 'hayvan halkası': 30°'lik 12 dilimde güneşin yıllık yolunun bölgeleri; Babil'de MUL.ȦN sayımından gelen, Ptolemy'nin Tetrabiblos'unda sabitlenen sistem. 'Kozmik saat' — 12 ay = 12 burç = 12 saatlik düzen; tropik-sidereal farkı ~24°'ye kaydı. 'Gökyüzü alfabe'si.

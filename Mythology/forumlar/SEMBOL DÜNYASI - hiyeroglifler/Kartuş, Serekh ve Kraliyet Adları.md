@@ -15,3 +15,7 @@ Kartuş, kral adını oval bir çerçeveyle korur ve görünür kılar. Erken d�
 - Unicode Chapter 11
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Birth_and_Throne_cartouches_of_pharaoh_Seti_I%2C_from_KV17_at_the_Valley_of_the_Kings%2C_Egypt._Neues_Museum.jpg/960px-Birth_and_Throne_cartouches_of_pharaoh_Seti_I%2C_from_KV17_at_the_Valley_of_the_Kings%2C_Egypt._Neues_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Kartuş-Serekh — 'çerçeve' figürü: 'Serekh' (saray cephesi) ve 'Kartuş' (halka) 'kral adı' 'çerçeveleri'; 'çerçeve = koruma' figürü.

@@ -10,3 +10,7 @@ Goetia mühür çalışması, her varlığa atfedilen seal formlarının ritüel
 - Seal
 - Evokasyon
 - Ritüel güvenliği
+
+### Arka Plan
+
+Goetia mühür çalışması — 'sigil' kullanımı: her ruhun 'mühür'ü bakır/parşömen üzerine çizilir; 'mühür = adres' olarak 'çağrı = mektup' metaforu. 'Görünmez imza' pratiği.

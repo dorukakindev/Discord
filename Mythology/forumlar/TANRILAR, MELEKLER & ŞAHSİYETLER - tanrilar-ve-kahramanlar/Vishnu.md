@@ -25,3 +25,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Vishnu_from_Gita_Govind
 - Samudra Manthan anlatısı
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Vishnu_from_Gita_Govinda.jpg/960px-Vishnu_from_Gita_Govinda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Vishnu — 'koruyucu': 'avatar' sistemi (10 avatar — Matsya'dan Kalki'ye), 'Shesha yılanında uyuma', 'Lotus navel' (Vishnu'nun göbeğinden Brahma); 'mavi' renkle 'sınırsız' figür. 'Devamlılık' figürü — 'dünyayı koruyan'.

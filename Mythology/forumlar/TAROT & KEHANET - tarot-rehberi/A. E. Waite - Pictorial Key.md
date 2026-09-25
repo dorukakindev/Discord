@@ -6,3 +6,7 @@
 RWS sembollerini kart üzerindeki sahne, jest, nesne ve arketip diliyle bağlamak için kullanılır.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+Pictorial Key to the Tarot (1910) — Waite'in kendi destesinin 'kullanım kılavuzu': 'Major' ve 'Minor' anlamları, 'Celtic' yayılımı ve 'tarot tarihi' bölümleri; 'birincil metin' olarak RWS'nin 'resmi' açıklaması.

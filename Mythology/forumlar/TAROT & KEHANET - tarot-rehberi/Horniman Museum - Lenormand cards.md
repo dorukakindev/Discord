@@ -6,3 +6,7 @@
 Lenormandın tarotun basit versiyonu değil, ayrı 36 kartlık bir cartomancy sistemi olduğunu göstermek için kullanılır.
 
 -# Kaynaklar: https://www.horniman.ac.uk/object/1970.18/
+
+### Arka Plan
+
+Lenormand — '36 kart' figürü: 'Horniman' koleksiyonu; 'Lenormand = ayrı' figürü.

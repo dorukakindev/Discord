@@ -14,3 +14,7 @@ Valknut, Odin'le ilişkilendirilir ve İskandinav mezar taşlarında görülür.
 -# Çapraz: Triquetra · Odin · Valhalla
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Valknut_variations.svg/960px-Valknut_variations.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Valknut — 'ölülerin düğümü': üç iç içe üçgen; Odin'le bağlantılı ölüm-şövalye mitinin işareti. 'Valr' (öldürülenler) + 'knut' (düğüm) — savaşta düşenlerin Odin'in yanına taşınması. 'Son savaşın belgesi' olarak modern Asatru'nun sembolü; 'üçleme' hem 'valkyrie'nin geçişi' hem 'Odin'in üç yönü'.

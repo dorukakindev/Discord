@@ -3,3 +3,7 @@
 > **Tür:** standard · **Odak:** U+13460-U+143FF genişletilmiş işaret repertuvarı
 
 -# Kaynaklar: https://www.unicode.org/charts/PDF/Unicode-17.0/U170-13460.pdf
+
+### Arka Plan
+
+Unicode Extended — 'geniş' figürü: 'Unicode 17' 'Extended-A' 'hiyeroglif' 'tablosu'; 'Extended = geniş' figürü.

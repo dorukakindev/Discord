@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL determinatives
 - PharaLex sign functions
+
+### Arka Plan
+
+Person-man — 'adam' figürü: 'person' 'man' 'adam' 'figürü'; 'man = adam' figürü.

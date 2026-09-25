@@ -5,3 +5,7 @@
 ### Kaynak No
 - Penn cartouche name
 - British Museum highlights
+
+### Arka Plan
+
+Neb-tawy — 'iki' figürü: 'nb tꜣwy' 'iki' 'ülke' 'efendisi' 'figürü'; 'neb-tawy = iki' figürü.

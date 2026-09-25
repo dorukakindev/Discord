@@ -7,3 +7,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Cenote_2.jpg/960px-Ceno
 Yucatan'ın yeraltı sularına açılan kutsal kuyuları; Maya inancında yeraltı diyarına geçit ve kurban yeri.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Cenote_2.jpg/960px-Cenote_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Maya yeraltı su mağarası-kuyusu: 'cenote' kelimesi 'dzonot'tan — kutsal kuyu. Chichen Itza'nın Sacrifice Cenote'ine Yağmur Tanrısı Chaak için altın, jade ve insan sunulurdu; kuyudan çıkan kemikler şimdi Peabody Müzesi'nde. 'Yaşam suyu'nun aynı zamanda ölüm-sunum adresi olması — su ve kurban denklemi.

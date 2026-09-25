@@ -3,3 +3,7 @@
 > **Tür:** university · **Odak:** Coptic'in Greek harfleri ve Demotik kökenli ek işaretlerle yazılması
 
 -# Kaynaklar: https://www.ucl.ac.uk/museums-static/digitalegypt/writing/coptic.html
+
+### Arka Plan
+
+UCL Coptic — 'yazı' figürü: 'UCL' 'Kıptî' 'yazı' 'rehberi'; 'Coptic = yazı' figürü.

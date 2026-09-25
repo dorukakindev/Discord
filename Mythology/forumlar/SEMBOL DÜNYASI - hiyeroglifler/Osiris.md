@@ -12,3 +12,7 @@ Sunu formüllerinde ve ölü kültünde merkezi tanrıdır; epitetlerle birlikte
 - TLA lemma lists
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Standing_Osiris.svg/960px-Standing_Osiris.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Osiris — 'taht' figürü: 'taht' (Q1 'wsir') ve 'göz' 'birleşimi' 'adı'; 'Osiris = ölüler' olarak 'yeraltı' figürü.

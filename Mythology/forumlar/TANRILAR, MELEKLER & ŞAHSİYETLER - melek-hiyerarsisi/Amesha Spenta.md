@@ -8,3 +8,7 @@
 - Elementler
 - Altın taht
 -# Çapraz: Vohu Manah · Asha Vahishta · Spenta Armaiti · Haurvatat · Ameretat
+
+### Arka Plan
+
+Amesha Spenta — 'yedi' 'kutsal' 'ölümsüz' 'nitelik'; 'Amesha = İran' figürü.

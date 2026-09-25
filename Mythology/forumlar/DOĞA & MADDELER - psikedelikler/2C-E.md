@@ -7,3 +7,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2C-E.svg/960px-2C-E.svg
 Shulgin serisinin güçlü ve uzun üyelerinden; içe dönük, düşünsel olarak ağır bir deneyim verir. Sıklıkla zorlu olarak nitelenir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2C-E.svg/960px-2C-E.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+2C-E — 4-etil-2,5-dimetoksifenetilamin: Shulgin'in 'güçlü' üyesi; 'teknik' görsel etki (renk çeşitlemeleri, 'akışkan' desenler) ve uzun süre (6-10 saat); 'Europa' ismiyle bilinir. 'Derin' ve 'enerjik' kategori.

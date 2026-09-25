@@ -10,3 +10,7 @@ Cherubim'in Eden sınırında hayat ağacının yolunu koruyan varlıklar olarak
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Genesis 3 — 'kapı' figürü: 'Genesis' '3' 'cherubim' 'kapı' 'ayeti'; 'Genesis = kapı' figürü.

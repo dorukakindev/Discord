@@ -8,3 +8,7 @@ Rashnu/Rašn'ın ilahi yargıç, doğruluk ve ölüm sonrası terazi işlevini �
 -# Kaynaklar: https://www.iranicaonline.org/articles/rasn-deity/
 
 ![gorsel](https://www.iranicaonline.org/wp-content/uploads/2025/03/iranica.jpg)
+
+### Arka Plan
+
+Iranica Rashn — 'adalet' figürü: 'Iranica' 'Rašn' 'adalet' 'figürü'; 'Rashn = adalet' figürü.

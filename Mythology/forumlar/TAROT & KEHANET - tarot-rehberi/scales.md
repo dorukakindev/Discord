@@ -5,3 +5,7 @@
 Adalet, ölçü, karşılıklılık ve kaynak dağıtımıdır; kararın etik bedeli veya verme-alma dengesi sorgulanır.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+Terazi — Adalet'in 'denge' aleti: 'Maat'ın tüyü' ve 'özen' figürü; 'doğru tartım' olarak 'sonuç = seçim' paradoksu.

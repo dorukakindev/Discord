@@ -4,3 +4,7 @@
 
 ### Not
 w, u veya yarı sesli değerle okunabilir; isim ve fiil çekimlerinde çok yaygındır.
+
+### Arka Plan
+
+Bıldırcın — 'w' figürü: 'bıldırcın' (G43 'w') ve 'ses' 'figürü'; 'bıldırcın = ses' figürü.

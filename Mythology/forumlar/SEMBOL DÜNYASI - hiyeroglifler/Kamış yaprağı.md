@@ -4,3 +4,7 @@
 
 ### Not
 i veya y alanında çalışır; kelime başı ve sonunda yarı sesli değer kazanabilir.
+
+### Arka Plan
+
+Kamış yaprağı — 'papirüs' figürü: 'yaprak' (M13 'h3') ve 'yazı' determinatifi; 'papirüs = Mısır' olarak 'yeşil' figürü.

@@ -10,3 +10,7 @@ Gabriel'in Zekeriya ve Meryem'e haber getiren melek olarak Hristiyan anlatıdaki
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Luke 1 — 'müjde' figürü: 'Luke' '1' 'müjde' 'Gabriel' 'ayeti'; 'Luke = müjde' figürü.

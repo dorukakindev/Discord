@@ -21,3 +21,7 @@ Jörmungandr, Loki'nin Angrboða'dan doğan üç yavrusundan biridir. **Odin onu
 -# Çapraz: Loki · Thor · Fenrir · Hel · Odin
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png/960px-Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Jörmungandr, Midgard'ı çevreleyen dünya yılanı: Loki'nin çocuğu, Ouroboros gibi kendi kuyruğunu ısırarak okyanus dibinde bekler. Thor'un üç kez onu balık tutmaya çalışması (Utgard-Loki'de kedi-kılığı; Hymir'de öküz başıyla olta) balık-destanlarının merkezi. Ragnarök'te kuyruğunu bırakır, karaya çıkar ve Thor'la çift-taraflı ölümle savaşır — çevrelenmiş sınırın sönmesi.

@@ -7,3 +7,7 @@ Yeni duygu beklenmedik nazik mesaj, yaratıcı sezgi veya iç çocuk sesiyle bel
 ### Cards
 - ace-of-cups
 - page-of-cups
+
+### Arka Plan
+
+Kupaların Ası + Kupaların Prensi — 'duygu + teklif' ikilisi: as'ın 'taşan kadeh' ve prensin 'kupa taşıması' — 'duyguyu sunma' en güçlü 'yeni aşk/teklif' kombinasyonu; 'kalbini aç' mesajı.

@@ -24,3 +24,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d1/Amaterasu_cave_crop.jpg?utm_
 - Ise kültü
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/d/d1/Amaterasu_cave_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Amaterasu ('gökten ışıyan') — Şinto'nun güneş tanrıçası ve Japonya imparatorluğunun atası; 'mağara' miti (Susanoo'nun şiddetiyle saklanıp 'ışığı çekmesi' — dünya karanlıkta kaldı) ve 'ayna-şafak' kurtarma. 'Ise Jingu' tapınağı ve 'üç kutsal nesne' (ayna-kılıç-mücevher) ile 'devlet' miti.

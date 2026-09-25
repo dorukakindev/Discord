@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/LA-SS-Az_structure.svg/
 LSD nin yapısal olarak sabitlenmiş türevi; sıklıkla daha berrak ve döngüsel bir görsel karakter taşır.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/LA-SS-Az_structure.svg/960px-LA-SS-Az_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+LSZ — LSD'nin '2,4-dimetilazetidin' türevi: 'araştırma kimyasalı' sınıf; 'LSA' benzeri ama 'sentetik' profil.

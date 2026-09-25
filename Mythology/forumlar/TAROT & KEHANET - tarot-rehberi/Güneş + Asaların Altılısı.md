@@ -7,3 +7,7 @@ Görünür başarı, açıklık ve topluluk takdiri güçlenir; sahneye çıkma 
 ### Cards
 - sun
 - six-of-wands
+
+### Arka Plan
+
+Güneş + Asaların Altılısı — 'açıklık + zafer' ikilisi: altı asanın 'tören' figürüyle Güneş'in 'gün ışığı' — 'kazan ve görünür ol' en güçlü 'başarı' kombinasyonu; 'zaferin fotoğrafı' figürü.

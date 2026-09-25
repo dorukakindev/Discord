@@ -6,3 +6,7 @@
 Erken basılı tarot kalıntılarında tam deste kesinliği yerine yaprak, baskı, geri dönüşüm ve ihtiyat dilini koru.
 
 -# Kaynaklar: https://www.tarotsheetrevival.com/tarot-history/about-the-rosenwald-tarot-uncut-sheets/
+
+### Arka Plan
+
+Rosenwald uncut — 'yaprak' figürü: 'kesilmemiş' 'yaprak' 'baskı' 'kalıntısı'; 'uncut = erken' figürü.

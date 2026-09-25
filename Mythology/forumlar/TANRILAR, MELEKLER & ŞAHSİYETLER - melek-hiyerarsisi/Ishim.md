@@ -8,3 +8,7 @@
 - Rüya
 - Dünya kapısı
 -# Çapraz: Sandalphon · Zephaniel
+
+### Arka Plan
+
+Ishim — 'insan' 'melek' 'alt' 'katman' 'figürü'; 'Ishim = insan' figürü.

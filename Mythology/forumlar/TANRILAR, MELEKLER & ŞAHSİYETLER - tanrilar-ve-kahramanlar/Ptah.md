@@ -20,3 +20,7 @@ Bu kayıt, yaratıcı sınıfının ansiklopedide ayrı filtrelenebilmesi için 
 - Zanaat aletleri
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ptah_standing.svg/960px-Ptah_standing.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ptah — Mısır 'zanaatkâr' tanrısı: 'sözle yaratma' (Memphis'te 'kalp ve dil' doktrini — 'söylenen = yapılan'); 'sanat' ve 'zanaat' figürü; 'zümrüt' rengiyle 'doğa' bağlantısı. 'Söz = yaratım' olarak 'kelime-tanrı' kategorisi.

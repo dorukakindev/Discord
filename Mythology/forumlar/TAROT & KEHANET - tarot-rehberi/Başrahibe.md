@@ -11,3 +11,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/de/Anonymous_Abbess_Eufemia_Sza
 - worldcat-greer-self
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/d/de/Anonymous_Abbess_Eufemia_Szaniawska.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Başrahibe (The High Priestess) — II numaralı kart: iki sütun (Boaz-Jachin) arasında oturan, ay taçlı, TORA parşömeni tutan ve nar-perde önündeki figür; 'gizli bilgi', 'sezgi' ve 'örtülü gerçek'. Marseille'de 'la papesse' (kadın papaz) — Papaz Joan efsanesi; 'kapının bekçisi' olarak 'bilinmeyen'in girişi.

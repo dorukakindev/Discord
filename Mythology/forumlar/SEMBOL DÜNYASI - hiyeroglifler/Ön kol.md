@@ -4,3 +4,7 @@
 
 ### Not
 Türkçe veya İngilizcede bire bir karşılığı olmayan boğazsal sessizi temsil eder.
+
+### Arka Plan
+
+Ön kol — 'kol' figürü: 'ön' 'kol' 'beden' 'figürü'; 'kol = eylem' figürü.

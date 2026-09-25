@@ -7,3 +7,7 @@ Fırsat, tekrar ve zanaatla kalıcı değere dönüşür; başlangıç emeği is
 ### Cards
 - ace-of-pentacles
 - eight-of-pentacles
+
+### Arka Plan
+
+Tılsım As-Sekiz — 'tohum + ustalık' ikilisi: 'as' 'tohum' 'sekiz' 'ustalık' 'figürü'; 'ustalık = süreç' önermesi.

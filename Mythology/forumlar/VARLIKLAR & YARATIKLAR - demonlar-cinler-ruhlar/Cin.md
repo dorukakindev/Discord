@@ -27,3 +27,7 @@ Kuran'da cinlere ayrılmış "Cin Suresi" (72. sure) bulunmaktadır. Bu surede b
 - Türkiye
 - İran
 - Kuzey Afrika
+
+### Arka Plan
+
+Cin (jinn), İslam mitolojisinin dumansız-ateşten yaratılmış 'görünmez halk'ı: irade sahibi, özgür seçimli, insanlar gibi yargılanacak. Sûre 72 (Cin Suresi) onlara adanır; üç katman — Marid (en güçlü deniz-cini), İfrit (ateşli), Şeytanlar. Çölde, harabelerde, havalandırmasız yerlerde yaşar; insan biçimine veya hayvana bürünebilir. Peygamberin yemeğinden önce 'besmele' ile beslenirler — gündelik hukuk düzeni.

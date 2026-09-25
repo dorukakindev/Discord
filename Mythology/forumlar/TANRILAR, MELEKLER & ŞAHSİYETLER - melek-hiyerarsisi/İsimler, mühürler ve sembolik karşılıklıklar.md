@@ -14,3 +14,7 @@ Kabala, Hermetik Qabalah, Agrippa çizgisi, grimoire tabloları ve Enochian sist
 - esoteric-archives-agrippa
 - esoteric-archives-heptameron
 - esoteric-archives-dee
+
+### Arka Plan
+
+İsim-mühür — 'mühür' 'melek' 'isim' 'sembolik' 'karşılık' 'figürü'; 'mühür = sembol' figürü.

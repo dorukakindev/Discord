@@ -4,3 +4,7 @@
 
 ### Ayrıntı
 Rosetta Stone'un keşfi, Young'un katkıları ve Champollion'un 1822 açıklaması Egyptology'nin temel kırılma anıdır.
+
+### Arka Plan
+
+Keşif-çözülme — 'Rosetta' figürü: '1799' 'buluş' ve '1822' 'çözüm' 'zinciri'; 'çözüm = anlayış' figürü.

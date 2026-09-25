@@ -3,3 +3,7 @@
 > **Tür:** university · **Odak:** Byzantine ve Islamic Egypt içinde Coptic kullanımı ve çözülme tarihindeki yeri
 
 -# Kaynaklar: https://www.ucl.ac.uk/museums-static/digitalegypt/coptic/coptic.html
+
+### Arka Plan
+
+UCL Coptic — 'arka plan' figürü: 'UCL' 'Kıptî' 'arka plan' 'rehberi'; 'Coptic = son' figürü.

@@ -18,3 +18,7 @@ Bu varlık, undead kategorisinin ayrı filtrelenebilmesi için ansiklopediye ekl
 - Ruhsal sezgi
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/960px-Banshee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Banshee (bean sídhe — 'höyük kadını'), İrlanda-İskoçya'nın ölüm ağlayıcısı: yaşlı veya güzel kadın suretinde belirir, tarakla saçını tarar, keening (ağıt) çığlığı yaklaşan ölümü haber verir. Belirli aileler (O'Brien, O'Neill, MacCarthy) 'kendi' banshee'lerine sahiptir — soyun koruyucu laneti. Bean-nighe (çamaşırcı) çeşidi ölülerin kefenini derede yıkar.

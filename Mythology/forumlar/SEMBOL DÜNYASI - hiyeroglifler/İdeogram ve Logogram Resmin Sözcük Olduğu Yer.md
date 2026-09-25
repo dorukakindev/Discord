@@ -11,3 +11,7 @@ Bazı işaretler temsil ettikleri nesne veya kavramın sözcüğü olarak okunur
 ### Kaynak No
 - UCL ideograms
 - UCL system1
+
+### Arka Plan
+
+İdeogram-logogram — 'resim' figürü: 'ideogram' 'logogram' 'resim' 'sözcük' 'figürü'; 'ideogram = resim' figürü.

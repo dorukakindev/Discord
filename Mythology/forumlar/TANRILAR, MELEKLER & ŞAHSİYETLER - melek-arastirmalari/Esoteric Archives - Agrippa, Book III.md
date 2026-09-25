@@ -6,3 +6,7 @@
 İlahi isimler, zihinler, melek düzenleri ve gezegensel eşleştirmeler için Hermetik katmanın tarihsel kaynağı olarak kullanıldı.
 
 -# Kaynaklar: https://www.esotericarchives.com/agrippa/agrippa3.htm
+
+### Arka Plan
+
+Agrippa III — 'melek' figürü: 'Agrippa' 'Book III' 'melek' 'sihir' 'bölümü'; 'III = melek' figürü.

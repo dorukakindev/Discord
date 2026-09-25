@@ -4,3 +4,7 @@
 
 ### Not
 Mısır dışı alan, çöl, sınır ve yabancılık anlam alanlarını işaretler.
+
+### Arka Plan
+
+Çöl — 'yabancı' figürü: 'çöl' 'yabancı' 'ülke' 'figürü'; 'çöl = yabancı' figürü.

@@ -10,3 +10,7 @@ Bu ekol, kartı karakterli sahne yerine kuvvet, gezegen, sefira, renk ve ritüel
 -# Kaynaklar: https://en.wikipedia.org/wiki/Tarot
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/9/9d/Print%2C_playing-card_%28BM_1904%2C0511.47.1-78_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Thoth-modern — 'okült' figürü: 'Thoth' 'modern' 'okült' 'deste' 'hattı'; 'modern = devam' figürü.

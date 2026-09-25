@@ -6,3 +6,7 @@
 AI yorumunu çok akademik kalmaktan çıkarıp kullanıcıya uygulanabilir okuma dili vermek için kullanılır.
 
 -# Kaynaklar: https://www.learntarot.com/cards.htm
+
+### Arka Plan
+
+LearnTarot — 'öğrenme' figürü: 'kurs' ve 'kart' rehberi; 'LearnTarot = kurs' figürü.

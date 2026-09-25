@@ -14,3 +14,7 @@ Pictorial Key klasik birincil metindir, ama RWS yorumunda metin ile Smithin gör
 - sacred-texts-pkt-title
 - sacred-texts-pkt-index
 - vam-article
+
+### Arka Plan
+
+Waite-Smith — 'metin' figürü: 'Waite'in 'metin' 'Smith'in 'görsel' 'birleşimi'; 'metin = açıklama' figürü.

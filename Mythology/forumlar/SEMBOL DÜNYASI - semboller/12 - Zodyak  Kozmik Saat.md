@@ -29,3 +29,7 @@ On iki sayısı, zodyak kuşağı, yılın ayları ve kültürel topluluk düzen
 - Herakles
 
 -# Kaynaklar: https://www.britannica.com/topic/number-symbolism · https://www.britannica.com/topic/zodiac
+
+### Arka Plan
+
+Zodyak çemberi — 'hayvan halkası': 30°'lik 12 dilimde güneşin yıllık yolunun bölgeleri; Babil'de MUL.ȦN sayımından gelen, Ptolemy'nin Tetrabiblos'unda sabitlenen sistem. 'Kozmik saat' — 12 ay = 12 burç = 12 saatlik düzen; tropik-sidereal farkı ~24°'ye kaydı. 'Gökyüzü alfabe'si — aynı harflerle her kültür başka hikâye yazar.

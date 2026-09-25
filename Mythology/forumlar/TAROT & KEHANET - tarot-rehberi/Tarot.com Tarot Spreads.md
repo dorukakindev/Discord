@@ -6,3 +6,7 @@
 Yayılım UI metinlerinde çağdaş beklentiyi kontrol et.
 
 -# Kaynaklar: https://www.tarot.com/tarot/spreads
+
+### Arka Plan
+
+Tarot.com spread — 'modern' figürü: 'yayılım' 'rehberi'; 'spread = yapı' figürü.

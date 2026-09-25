@@ -5,3 +5,7 @@
 ### Kaynak No
 - Offering formula overview
 - UCL Denderah translation
+
+### Arka Plan
+
+Netjer-aa — 'büyük' figürü: 'nṯr ꜥꜣ nb ꜣbḏw' 'büyük' 'tanrı' 'Abydos' 'efendisi' 'figürü'; 'netjer = tanrı' figürü.

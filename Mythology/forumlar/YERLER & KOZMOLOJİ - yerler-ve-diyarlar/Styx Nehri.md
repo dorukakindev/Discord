@@ -6,3 +6,7 @@
 **Styx Nehri**, Styx, Yunan mitolojisinde yeraltı ile yaşayanlar dünyası arasındaki sınırı çizen ve tanrısal yeminleri bağlayan nehirdir.
 
 Bu mekan kaydı, kutsal coğrafyanın kutsal-nehir başlığı altında daha okunur biçimde filtrelenmesi için eklenmiştir. Anlatıdaki rolü yalnızca fiziksel yer olarak değil, ritüel, geçiş, sınır ve kozmik düzen bağlamında ele alınır. Böylece kutsal mekanlar paneli dağ, nehir, orman, yeraltı ve gökyüzü gibi alanları ayrı ayrı gösterebilir.
+
+### Arka Plan
+
+Hades'in 'nefret suyu' — ölülerin ilk geçişi: Charon'un obolos karşılığı feribotu; 'Styx'e yemin' tanrılar için bile bozulmaz yemin — 'su insanları öldürür' mitiyle çift katmanlı. Achilles'in topuk dışı 'dokunulmazlık' banyosu. 'Sınır suyu' — diğer dört nehirle beraber öteki dünyanın koruma hattı.

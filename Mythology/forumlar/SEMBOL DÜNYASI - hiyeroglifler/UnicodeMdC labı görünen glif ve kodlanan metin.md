@@ -13,3 +13,7 @@
 - UAX #57
 - Unikemet.txt
 - JSesh
+
+### Arka Plan
+
+UnicodeMdC lab — 'lab' figürü: 'Unicode' 'MdC' 'glif' 'metin' 'kodlaması'; 'lab = deney' figürü.

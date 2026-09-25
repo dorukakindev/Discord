@@ -8,3 +8,7 @@
 - quran-2-97
 - iranica-sraosha
 - esoteric-archives-dee
+
+### Arka Plan
+
+Messenger-matrix — 'haber' figürü: 'messenger' 'revelation' 'melek' 'vahiy' 'matrisi'; 'messenger = haber' figürü.

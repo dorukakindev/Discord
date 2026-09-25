@@ -6,3 +6,7 @@
 Standart 78 kartlı tarot dışındaki Floransa varyantını somut müze nesnesiyle göster.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/object/P_1903-1221-24-1-97
+
+### Arka Plan
+
+Minchiate 97 — 'geniş' figürü: '97 kart' 'Floransa' destesi; 'geniş = fazla' figürü.

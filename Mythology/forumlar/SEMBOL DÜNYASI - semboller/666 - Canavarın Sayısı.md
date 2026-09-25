@@ -28,3 +28,7 @@
 - gematria
 
 -# Kaynaklar: https://www.britannica.com/topic/Revelation-to-John
+
+### Arka Plan
+
+666 — Vahiy 13:18'in 'canavarın sayısı': Neron'un (Caesar Neron) İbrani gematria'sı N R O N Q S R = 666 (bir metinde 616); 'kötü tanrı kralı' figürü. İmparatorluk polemiği olarak okunmasıyla 'Roma'nın şifreli adı' yorumu; 'insan sayısı' olarak da 'altı'nın (tamamlanmamış yedi) üç katı. Popüler kültürde 'kötü' kodu.

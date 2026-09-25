@@ -12,3 +12,7 @@ Yggdrasil, İskandinav kozmolojisinin temel yapısıdır; adı **"Odin'in atı"*
 - Nornlar
 - Dört geyik
 -# Çapraz: Odin · Nornlar · Níðhöggr · Asgard · Ragnarök · Dokuz Dünya
+
+### Arka Plan
+
+İskandinav kozmik ekseni: dokuz dünyayı bağlayan dev kızıl ağaç; kökleri Jötunheim (Urðarbrunnr — Normlar), Nilfheim (Hvergelmir — Níðhöggr'ün kemirdiği), Gökyüzü. Dört geyik yapraklarını yer, iki sincap (Ratatoskr) kartal-yılan arasında haber taşır. 'Yggr'in atı' = 'Odin'in darağacı' — Odin kendini ona astı. Denge ve çürüme birlikte.

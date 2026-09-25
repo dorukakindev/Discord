@@ -7,3 +7,7 @@
 - sacred-texts-pkt-major
 - worldcat-pollack-78
 - worldcat-greer-self
+
+### Arka Plan
+
+Savaş Arabası (The Chariot) — VII numaralı kart: sfinks çeken taçlı figür; 'irade', 'kontrol' ve 'zafer'; 'canopi' (yıldızlı gökyüzü) — 'irade = yön' doktrini. 'Siyah-beyaz sfinks' ikilisi — 'zıtları birleştirme'.

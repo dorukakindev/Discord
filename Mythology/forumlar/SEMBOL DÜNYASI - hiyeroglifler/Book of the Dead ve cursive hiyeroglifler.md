@@ -4,3 +4,7 @@
 
 ### Ayrıntı
 Funerary metinler papirüs, tabut ve mezar nesnelerinde ritüel rehberlik sağlar.
+
+### Arka Plan
+
+BoD-cursive — 'papirüs' figürü: 'Book of the Dead' 'kursif' 'hiyeroglif' 'papirüsü'; 'cursive = hızlı' figürü.

@@ -8,3 +8,7 @@ Daena'nın ruhun karşılaşması, vicdan ve yargı eşiği temalarını ölüm 
 -# Kaynaklar: https://www.iranicaonline.org/articles/den/
 
 ![gorsel](https://www.iranicaonline.org/wp-content/uploads/2025/03/iranica.jpg)
+
+### Arka Plan
+
+Iranica Den — 'din' figürü: 'Iranica' 'Dēn' 'Daēnā' 'din' 'figürü'; 'Den = din' figürü.

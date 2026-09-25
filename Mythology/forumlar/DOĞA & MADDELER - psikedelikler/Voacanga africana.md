@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Voacanga_Africana_06.jp
 İbogainle akraba alkaloitler (voakangin) taşıyan Batı Afrika ağacı. Düşük dozda uyarıcı, yüksek dozda vizyoner kabul edilir; ibogain yarı-sentezinin de hammaddesidir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Voacanga_Africana_06.jpg/960px-Voacanga_Africana_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Voacanga africana — 'voacanga' ağacı: Batı Afrika'nın 'ibogain' içeren bitkisi; 'iboga' ailesinin 'küçük kuzeni' olarak 'viseral' etki.

@@ -6,3 +6,7 @@ Sarsıntıdan sonra umut, arınma ve yeni yönün doğması; kırılan yapının
 ### Cards
 - The Tower
 - The Star
+
+### Arka Plan
+
+Yıkım-iyileşme — 'Kule' ve 'Yıldız' figürü: 'yıkım' ve 'şifa' ikilisi; 'yıkım = arınma' pratiği.

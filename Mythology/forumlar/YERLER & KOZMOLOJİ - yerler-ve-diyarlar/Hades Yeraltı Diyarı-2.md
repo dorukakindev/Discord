@@ -9,3 +9,7 @@ Bu mekan kaydı, kutsal coğrafyanın yeralti-diyar başlığı altında daha ok
 
 ### Diğer Adlar
 - Hades
+
+### Arka Plan
+
+Zeus'un kardeşi Hades'in karanlık krallığı: Styx, Acheron, Cocytus, Lethe ve Pyriphlegethon beş nehirle bölünmüş; Kerberos bekçi, Charon geçiş parasını alır. 'Sessizlik ülkesi' — yaşayanlar neredeyse hiç çıkamaz; Orpheus bile eşiğinde eşini kaybetti. 'Görünmez' (A-ides) kelimesiyle — adı bile söylenmez tanrının diyarı.

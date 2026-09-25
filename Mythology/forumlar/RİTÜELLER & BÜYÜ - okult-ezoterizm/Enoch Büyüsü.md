@@ -14,3 +14,7 @@ John Dee ve Edward Kelley, 1582-1589 yılları arasında "Enoch dili" adını ve
 - Golden Dawn
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Enochian_letters_%281583_manuscript%29.png/960px-Enochian_letters_%281583_manuscript%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Enochian büyüsü — Dee-Kelley'nin 'melek dili' sistemi: 19 'çağrı' (key), 30 'aethyr' katmanı ve 'izleme' (scrying) tabloları; 'meleklerin kendi dilini' öğrenme doktrini. 'Dil = evrensel imleç' kalıbı.

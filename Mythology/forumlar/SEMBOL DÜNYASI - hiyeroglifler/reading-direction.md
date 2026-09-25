@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL art and script orientation
 - Getty Webennesre record
+
+### Arka Plan
+
+Reading-direction — 'yön' figürü: 'reading' 'direction' 'okuma' 'yön' 'figürü'; 'direction = yön' figürü.

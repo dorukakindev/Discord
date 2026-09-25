@@ -6,3 +6,7 @@ Sezginin güçlü ama henüz bulanık olduğu; acele karar yerine rüya, beden v
 ### Cards
 - The High Priestess
 - The Moon
+
+### Arka Plan
+
+Gizli bilgi — 'Başrahibe' ve 'Ay' figürü: 'sis' ve 'örtü' ikilisi; 'gizli = örtülü' pratiği.

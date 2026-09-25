@@ -9,3 +9,7 @@ Yunanca 'haberci' anlamındaki angelos, Septuagint ve Hristiyan metinlerde İbra
 - pseudo-dionysius-celestial-hierarchy
 - aquinas-angelic-orders
 -# Çapraz: Angels · Archangels · Pseudo-Dionysios · Haberci
+
+### Arka Plan
+
+Angelos — 'melek' kökü: Yunanca 'ἄγγελος' (haberci) kelimesi; 'malakh' (İbrani) 'malaika' (Arapça) ile aynı 'görev' figürü. 'Melek = haberci' olarak 'işlev' tanımı.

@@ -9,3 +9,7 @@ Court kart geldiğinde hemen dış kişiye sabitleme; önce kullanıcının üst
 - sacred-texts-pkt-lesser
 - learntarot-cards
 - itf-code-ethics
+
+### Arka Plan
+
+Court kart matrisi — Page 'öğrenci', Knight 'hareket', Queen 'içsel', King 'dışsal': 'rütbe = enerji' figürü; 'kişi değil, kalıp' okuması.

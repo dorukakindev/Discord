@@ -9,3 +9,7 @@ Aynı sayı farklı suitlerde tekrar ediyorsa soru aynı gelişim evresini farkl
 - learntarot-cards
 - sacred-texts-pkt-lesser
 - worldcat-bunning-big-book
+
+### Arka Plan
+
+As'tan On'a sayı döngüsü — '1=başlangıç, 10=son' ritmi: As 'tohum', İki 'seçim', Üç 'büyüme', Dört 'denge', Beş 'çatışma', Altı 'geçiş', Yedi 'sınav', Sekiz 'hareket', Dokuz 'son yaklaşım', On 'tamamlanma'. 'Sayı = gelişim' doktrini.

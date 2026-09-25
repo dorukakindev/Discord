@@ -3,3 +3,7 @@
 > **Soru:** Kariyer/maddi yorumda uygulanabilir adım, risk, kaynak yönetimi ve hangi becerinin gelişmesi gerektiğini açıkça belirt.
 
 Suit ve sayı iş, para, emek, görünürlük, karar, plan, kaynak ve sürdürülebilirlik diline çevrilir.
+
+### Arka Plan
+
+Maddi alan — 'tılsım' figürü: 'para' ve 'güven' figürü; 'madde = somut' pratiği.

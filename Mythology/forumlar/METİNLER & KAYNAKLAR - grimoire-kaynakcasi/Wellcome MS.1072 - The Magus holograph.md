@@ -6,3 +6,7 @@
 - Barrett imzaları
 - Ay konakları ve talisman diyagramı
 - Sepharial mektubu ve provenance notu
+
+### Arka Plan
+
+Wellcome MS.1072 — Barrett'ın 'The Magus' el yazması ('holograph' = yazarın eli): 'kutsal zekâ'nın orijinal taslak katmanı — 'melek-astronomi-tılsım' metni el yazısıyla. 'Yazarın el yazısı' olarak 'otantik metin' katmanı.

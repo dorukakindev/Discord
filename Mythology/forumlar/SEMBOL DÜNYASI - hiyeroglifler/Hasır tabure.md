@@ -4,3 +4,7 @@
 
 ### Not
 p değeri verir; pr gibi iki sessizli yapılarda da tamamlayıcı olarak görünür.
+
+### Arka Plan
+
+Hasır tabure — 'oturma' figürü: 'sandalye' (Q2 'st') ve 'taht' işareti; 'oturma = mevki' olarak 'koltuk' figürü.

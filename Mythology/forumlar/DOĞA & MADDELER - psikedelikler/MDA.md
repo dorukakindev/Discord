@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/MDA_molecule_ball.png/9
 MDMA nin daha psikedelik ve daha uzun akrabası; hem duygusal açılım hem belirgin görsel etki taşır.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/MDA_molecule_ball.png/960px-MDA_molecule_ball.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+MDA — 'Sass' (sassafras): MDMA'nın 'sassafras' kökenli 'empatik' kuzeni; 'daha psikedelik' (görsel) ve 'daha uzun' etki; 'tenamphetamine' olarak 'aşk' ilacı.

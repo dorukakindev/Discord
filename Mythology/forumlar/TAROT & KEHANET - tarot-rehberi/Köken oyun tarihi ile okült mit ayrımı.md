@@ -9,3 +9,7 @@ Tarot için en sağlam tarihsel çizgi 15. yüzyıl Kuzey İtalya oyun kartları
 - met-article
 - vam-article
 - worldcat-wicked-pack
+
+### Arka Plan
+
+Köken ayrımı — 'oyun' 'okült' 'ayrım' figürü: 'tarih' 'mit' 'ayrım' 'uyarısı'; 'köken = tarih' figürü.

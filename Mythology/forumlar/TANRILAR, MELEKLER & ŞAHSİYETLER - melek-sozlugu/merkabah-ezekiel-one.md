@@ -9,3 +9,7 @@ Hezekiel 1: Hayyot, Ophanim ve taht-arabası imgesi
 - jewish-encyclopedia-angelology
 - sefaria-mishneh-torah-yesodei
 -# Çapraz: Hayyot · Ophanim · Merkabah · Thrones
+
+### Arka Plan
+
+Merkabah-Ezekiel — 'bir' figürü: 'Merkabah' 'Ezekiel' 'bir' 'vizyonu'; 'bir = vizyon' figürü.

@@ -18,3 +18,7 @@ Amesha Spenta, Yazata, Sraosha, Mithra, Rashnu, Daena ve Fravashi gibi kategoril
 - iranica-rasn
 - iranica-daena
 - avesta-yasna
+
+### Arka Plan
+
+İranî-aracı — 'aracı' 'varlık' 'nitelik' 'figürü'; 'aracı = İran' figürü.

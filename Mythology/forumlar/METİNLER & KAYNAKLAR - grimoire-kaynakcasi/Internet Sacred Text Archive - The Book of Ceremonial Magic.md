@@ -9,3 +9,7 @@ Karanlık grimoire, pakt literatürü ve geç modern okuma çerçevesi için omu
 
 -# Kaynaklar: https://sacred-texts.com/grim/bcm/index.htm
 -# Çapraz: book-of-ceremonial-magic · grimorium-verum · grand-grimoire · black-pullet · heptameron · arbatel-of-magic
+
+### Arka Plan
+
+A.E. Waite'in 1911 tarihli 'Tören Büyüsü Kitabı' — grimoire geleneğinin ilk akademik eleştirisi: 'büyü teolojisi' bölümüyle 'büyü tarihi' ve 'büyü eleştirisi' ayrımı. 'Grimoire'ların katalogu — 'büyü kutsallık mı güç mü' sorusunun ilk sistematik metni.

@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Southern_Double-collare
 Çok hafif bir bilinç değişimi veren Güney Afrika bitkisi. Sakinleştirici ve hafif keyif verici olarak bilinir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Southern_Double-collared_Sunbird_%28Cinnyris_chalibeus%29_immature_male_foraging_on_flowers_of_Wild_Dagga_%28Leonotis_leonurus%29_%2832812380721%29.jpg/960px-Southern_Double-collared_Sunbird_%28Cinnyris_chalibeus%29_immature_male_foraging_on_flowers_of_Wild_Dagga_%28Leonotis_leonurus%29_%2832812380721%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Wild Dagga (Leonotis leonurus) — 'aslan kuyruğu': Güney Afrika'nın 'hafif' bitkisi; 'marrubiin' içerik ve 'rahatlatıcı' etki; 'dagga' (kenevir) alternatifi olarak 'yasal' sınıf.

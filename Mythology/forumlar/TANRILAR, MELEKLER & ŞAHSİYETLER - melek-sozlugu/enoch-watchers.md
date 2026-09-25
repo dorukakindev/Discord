@@ -8,3 +8,7 @@
 - sacred-texts-book-of-enoch
 - britannica-book-of-enoch
 -# Çapraz: Watchers · Grigori · Azazel · Shemihazah
+
+### Arka Plan
+
+Enoch-Watchers — 'gözcü' figürü: 'Enoch' 'Watchers' 'gözetim' 'figürü'; 'watcher = gözcü' figürü.

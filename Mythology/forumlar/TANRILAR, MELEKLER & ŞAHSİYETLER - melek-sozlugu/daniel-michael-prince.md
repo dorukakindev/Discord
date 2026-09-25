@@ -9,3 +9,7 @@ Daniel 10: Michael, göksel prens ve koruyucu savaşçı
 - britannica-mikal
 - je-gabriel
 -# Çapraz: Michael · Mikail · Koruyucu prens · Apokaliptik savaş
+
+### Arka Plan
+
+Daniel-Michael — 'prens' figürü: 'Daniel' 'Michael' 'prens' 'figürü'; 'prens = güç' figürü.

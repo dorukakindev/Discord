@@ -14,3 +14,7 @@ Lemegeton, modern demonoloji kanonunun temel metinlerinden biridir. Özellikle A
 - Ritüel
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Goetia_seal_of_solomon.svg/960px-Goetia_seal_of_solomon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Lemegeton — 'küçük anahtar': Ars Goetia (72 ruh) + Ars Theurgia + Ars Paulina + Ars Almadel + Ars Notoria beş kitaplık 17. yy. derlemesi. 'Süleyman'ın beş halkası' — 'demon-melek' çifti tek elde.

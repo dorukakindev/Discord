@@ -8,3 +8,7 @@ Melek fikri erken metinlerde çoğunlukla ilahi haberci, göksel kurul, kutsal s
 - usccb-isaiah-6
 - usccb-ezekiel-1
 - je-cherubim
+
+### Arka Plan
+
+Haberci-taht — 'imge' figürü: 'haberci' 'kurul' 'taht' 'imge' 'sınıfı'; 'imge = vizyon' figürü.

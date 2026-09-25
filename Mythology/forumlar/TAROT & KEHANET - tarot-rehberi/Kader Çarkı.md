@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RWS_Tarot_10_Wheel_of_F
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg/960px-RWS_Tarot_10_Wheel_of_Fortune.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Kader Çarkı (Wheel of Fortune) — X numaralı kart: dönen çark ve üç figür (yükselen, düşen, üstteki sfinks); 'döngü', 'kader' ve 'değişim'; 'rota fortunae' — 'çarkın tepesi' miti. 'Ananké' figürüyle 'zorunluluk' kartı; 'dönen = değişen' önermesi.

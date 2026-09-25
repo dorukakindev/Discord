@@ -6,3 +6,7 @@
 Pseudo-Dionysios'un teoloji, hiyerarşi ve mistik düşünce içindeki etkisini modern akademik bağlamla doğrulamak için kullanıldı.
 
 -# Kaynaklar: https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/
+
+### Arka Plan
+
+Stanford Dionysius — 'felsefe' figürü: 'Stanford' 'Pseudo-Dionysius' 'felsefe' 'makalesi'; 'Stanford = felsefe' figürü.

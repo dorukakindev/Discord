@@ -8,3 +8,7 @@
 - Mucize
 - Güç
 -# Çapraz: Raphael · Barbiel
+
+### Arka Plan
+
+Faziletler — 'fazilet' 'melek' 'mucize' 'figürü'; 'virtue = fazilet' figürü.

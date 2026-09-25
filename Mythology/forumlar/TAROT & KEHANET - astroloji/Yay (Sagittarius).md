@@ -4,3 +4,7 @@
 *Sagittarius tropical zodiac sign; Ates element, mutable mode, ruled by Jupiter.*
 
 Sagittarius is represented here as a tropical zodiac archive record. Calculator logic in js/panels/astroloji.js uses the same boundary dates for sun-sign checks and Whole Sign house assignment.
+
+### Arka Plan
+
+Yay, ateş elementinin değişken burcu; Jüpiter yönetiminde. Okçu kentaur — genellikle bilge Kheiron veya Satyr Pholos'la ilişkilendirilir. Yüksek öğrenim, inanç, yolculuk, felsefe ve 'ufkun ötesi'; 'anlam arama' arketipi. Oku göğe doğru: Akrep'in yeraltı kazasından çıkan hakikat Yay'da inanca dönüşür. Gölgesi: fanatizm, aşırı genelleme, köksüzlük.

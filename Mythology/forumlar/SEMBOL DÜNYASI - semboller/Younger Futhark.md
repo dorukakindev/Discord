@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde runik kategorisinin ayrı filtrelenebilmes
 - Taş yazıt
 - İsim işareti
 - Kehanet
+
+### Arka Plan
+
+Younger Futhark — İskandinav rün alfabesi (MS ~800-1100): 16 harfe indirgenmiş (F-U-Þ-Ą-R-K-H-N-I-A-S-T-B-M-L-Y-R) — 'basitleştirilmiş ama daha esnek'. Viking çağı taşları (Rök, Jelling) bu yazıyla; 'ses-indirgeme' = daha az harfle aynı dil. 'Savaşan rune' olarak kısa kesin form.

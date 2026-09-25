@@ -6,3 +6,7 @@
 Modern derin yorum dili için bibliyografik referans.
 
 -# Kaynaklar: https://search.worldcat.org/title/Seventy-eight-degrees-of-wisdom-%3A-a-book-of-tarot/oclc/14165626
+
+### Arka Plan
+
+78 Degrees — 'klasik' figürü: 'Pollack'ın '78' 'bilgelik' 'rehberi'; '78 = tam' figürü.

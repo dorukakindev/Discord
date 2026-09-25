@@ -6,3 +6,7 @@
 RWS sembol dili ve klasik anlamları birincil metinden destekle.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+Pictorial Key — Waite'in 'resimli anahtar' metni: 'Major Arcana' bölümüyle 'kos' anlamları, 'Lesser Arcana' ile 'suit' anlamları; 'Waite'in 'okült' yorumu — 'birincil ama taraflı' kaynak.

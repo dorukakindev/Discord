@@ -4,3 +4,7 @@
 
 ### Not
 Ölüm sonrası kimlik, sunu ve mezar kültü için temel kavramdır.
+
+### Arka Plan
+
+Ka-2 — 'yaşam' figürü: 'ka' 'yaşamsal' 'öz' 'figürü'; 'ka = yaşam' figürü.

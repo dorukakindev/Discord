@@ -5,3 +5,7 @@
 ### Kaynak No
 - itf-code-ethics
 - tabi-aims-ethics
+
+### Arka Plan
+
+Sağlık sınırı — 'sınır' figürü: 'sağlık' 'teşhis' 'sınır' 'uyarısı'; 'sağlık = risk' pratiği.

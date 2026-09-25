@@ -14,3 +14,7 @@ Avesta ve Zerdüşt geleneğinde tapınmaya/çağrılmaya layık ilahi varlıkla
 -# Çapraz: Sraosha · Mithra · Rashnu · Yasht
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/5/59/Kanishka_I_with_Miiro.jpg/revision/latest/scale-to-width-down/900?cb=20250816162212)
+
+### Arka Plan
+
+Yazata — 'tapınılan' figürü: Zerdüştlük'ün 'kutsal' 'varlık' 'sınıfı'; 'yazata = tapınılan' figürü.

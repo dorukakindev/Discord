@@ -6,3 +6,7 @@
 Tarot dışı kart falı geleneğiyle karıştırmamak için sınır çiz.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/object/P_2008-7116-1
+
+### Arka Plan
+
+Lenormand — '36 kart' figürü: 'Fransız' divinasyon; 'Lenormand = ayrı' figürü.

@@ -10,3 +10,7 @@ Principality, authority, power ve dominion adlarının Hristiyan kozmik otorite 
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Ephesians — 'güç' figürü: 'Ephesians' '1' 'güç' 'otorite' 'ayeti'; 'Ephesians = güç' figürü.

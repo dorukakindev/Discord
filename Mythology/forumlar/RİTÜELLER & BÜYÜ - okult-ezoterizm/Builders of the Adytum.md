@@ -11,3 +11,7 @@ Builders of the Adytum (B.O.T.A), Amerika Birleşik Devletleri'nde faaliyet gös
 - Hermetik
 - Amerika
 - B.O.T.A
+
+### Arka Plan
+
+Builders of the Adytum (BOTA) — Paul Foster Case'in kurduğu 'Batı ezoterizm' okulu: 'Tarot' ve 'Kabala' odaklı; 'Adytum' (tapınak hücresi) metaforuyla 'insan yapısı' sistemleştirmesi. 'Kart-meditasyon' okulu.

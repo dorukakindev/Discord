@@ -26,3 +26,7 @@ Yahudi apokrif geleneğine göre Lilith, Adem ile aynı anda topraktan yaratıld
 - Bebekler üzerinde büyü
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/b/b6/Lilith_%28John_Collier_painting%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Lilith, Sümer lil (rüzgar)-demonlarından İbrani Lilith'e: gece cadısı, bebek öldüren, erkeklerin rüyalarını kirleten 'ilk eş' miti (Alphabet of Ben Sira — Adem'in ilk karısı, eşitlik isteyip kaçan). Kabalada 'Qliphoth'un annesi; 'gece feneri' (screech owl) çevirisiyle İşaya 34'te geçer. 'Eşitlik talebiyle kovulan kadın' olarak feminist yeniden okumada merkez figür.

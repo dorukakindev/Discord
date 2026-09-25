@@ -13,3 +13,7 @@
 ### Kaynak No
 - tabi-aims-ethics
 - itf-code-ethics
+
+### Arka Plan
+
+Gizlilik-kayıt — 'hassasiyet' figürü: 'kayıt' 'gizli' 'hassasiyet' 'ilkesi'; 'kayıt = sır' pratiği.

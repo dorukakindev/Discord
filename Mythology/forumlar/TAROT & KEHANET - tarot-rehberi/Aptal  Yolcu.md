@@ -7,3 +7,7 @@
 - sacred-texts-pkt-major
 - worldcat-pollack-78
 - worldcat-greer-self
+
+### Arka Plan
+
+Aptal (The Fool) — 0 numaralı kart: uçurum kenarında küçük beyaz köpekle yürüyen, sırtında küçük bohça, elinde beyaz gül taşıyan genç; 'yolculuğun başlangıcı' ve 'saf potansiyel'. Marseille'de 'il matto' (deli) olarak 'oyun dışı' kart — kos değil ama kos oyununun 'joker'i; 'Fool's Journey' ile Major Arcana'nın anlatı omurgası.

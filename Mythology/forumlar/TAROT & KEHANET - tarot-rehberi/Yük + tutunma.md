@@ -6,3 +6,7 @@ Sorumluluk fazlasının güvenlik ihtiyacıyla birleşip kişiyi hem yoran hem b
 ### Cards
 - Ten of Wands
 - Four of Pentacles
+
+### Arka Plan
+
+Yük-tutunma — 'asa on' figürü: 'yük' ve 'bırakma' ikilisi; 'yük = sorumluluk' pratiği.

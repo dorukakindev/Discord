@@ -13,3 +13,7 @@ Niflheim'ın alt katmanı olan Niflhel, ölülerin gittiği Helheim'ın en derin
 - Niflhel'de en kötü günahkârlar
 - Niflheim genel olarak tüm ölülerin köküdür
 -# Çapraz: Hel · Yggdrasil · Odin · Muspelheim · Ymir · Ragnarök · Valhalla
+
+### Arka Plan
+
+İskandinav 'sisler diyarı': Ginnungagap'ın kuzey ucu, buz ve soğuk dünyası; Hvergelmir pınarından on iki nehir (Élivágar) çıkar. Ymir'in oluştuğu katman — 'buzla başlayan kozmos'. Helheim ile iç içe geçer ama teknik olarak 'sisler' öteki dünya değil, kozmik-iklim.

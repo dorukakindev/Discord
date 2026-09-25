@@ -9,3 +9,7 @@ AI, belirsiz sonuçlarda "yeniden çek" yerine önce hangi belirsizliği gördü
 - sacred-texts-pkt-celtic
 - itf-code-ethics
 - tabi-aims-ethics
+
+### Arka Plan
+
+Tekrar okuma — 'sınır' figürü: 'belirsizlik' 'tekrar' 'sınır' 'uyarısı'; 'tekrar = risk' pratiği.

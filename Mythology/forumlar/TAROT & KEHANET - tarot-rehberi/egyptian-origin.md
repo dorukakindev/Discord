@@ -12,3 +12,7 @@ Güçlü tarihsel omurga 15. yüzyıl İtalya oyun kartları ve trionfi kozları
 - vam-article
 - sacred-texts-pkt-intro
 - wikipedia-court-de-gebelin
+
+### Arka Plan
+
+Mısır kökeni — 'efsane' olarak 'Court de Gébelin'in '1781' iddiası; 'gerçek' olarak '15. yy İtalya' figürü.

@@ -14,3 +14,7 @@ Michael, Revelation 12, Watchers, Powers ve düşmüş melek anlatıları angelo
 - usccb-revelation-12
 - sacred-texts-book-of-enoch
 - britannica-angel-demon-world-religions
+
+### Arka Plan
+
+Apokaliptik-savaş — 'sınır' figürü: 'apokaliptik' 'savaş' 'düşmüş' 'güç' 'sınır' 'figürü'; 'sınır = savaş' figürü.

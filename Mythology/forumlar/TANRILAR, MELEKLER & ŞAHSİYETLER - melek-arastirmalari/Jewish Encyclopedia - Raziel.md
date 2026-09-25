@@ -6,3 +6,7 @@
 Raziel'in sır, kitap ve ilahi adlar çevresindeki geç mistik profilini açıklamak için kullanıldı.
 
 -# Kaynaklar: https://www.jewishencyclopedia.com/articles/12641-raziel
+
+### Arka Plan
+
+Jewish Raziel — 'sır' figürü: 'Jewish' 'Raziel' 'sır' 'makalesi'; 'Raziel = sır' figürü.

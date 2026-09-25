@@ -4,3 +4,7 @@
 
 ### Kaynak No
 - itf-code-ethics
+
+### Arka Plan
+
+Bağımlılık — 'etik' figürü: 'bağımlı' 'müşteri' 'yaratmama' 'ilkesi'; 'bağımlılık = zarar' pratiği.

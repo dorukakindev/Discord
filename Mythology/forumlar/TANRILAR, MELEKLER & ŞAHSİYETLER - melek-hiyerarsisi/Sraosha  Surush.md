@@ -27,3 +27,7 @@ Sraosha, Zerdüşt geleneğinde işitme/itaat, ritüel söz, gece koruması ve r
 - Britannica: Sraosha
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Persian_angel_1555.jpg/960px-Persian_angel_1555.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Sraosha — 'itaat' 'melek' 'dinleme' 'figürü'; 'Sraosha = itaat' figürü.

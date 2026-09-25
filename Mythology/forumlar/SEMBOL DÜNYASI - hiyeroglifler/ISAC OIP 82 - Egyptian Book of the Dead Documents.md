@@ -7,3 +7,7 @@
 ![gorsel](https://isac.uchicago.edu/sites/default/files/styles/social_share/public/publications/covers/OIP_82_cover_0.jpg?h=d234eb54&itok=LvamElMg)
 
 ![gorsel](https://isac.uchicago.edu/themes/custom/isactheme/assets/images/social-share.png)
+
+### Arka Plan
+
+OIP 82 — 'belge' figürü: 'ISAC' 'OIP 82' 'BoD' 'belgeleri'; 'OIP = yayın' figürü.

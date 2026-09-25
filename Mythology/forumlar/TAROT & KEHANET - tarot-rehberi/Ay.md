@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/960px-
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/960px-FullMoon2010.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ay (The Moon) — XVIII numaralı kart: iki kule arasında gökyüzünde ay, aşağıda havlayan köpek-kurt ikilisi ve sudan çıkan kerevit; 'yanılsama', 'sezgi' ve 'belirsiz yol'. Marseille'de 'la lune' — ayın 'evreleri' değişim döngüsü; 'karanlıkta yürüme' ve 'kerevit = sualtı bilinç' figürü.

@@ -10,3 +10,7 @@ Hayat Agaci motifi Mezopotamya, Yahudi mistisizmi, Norse gelenegi ve bircok yerl
 - Kabala sembolizmi
 - Tapinak ve sanat motifleri
 -# Çapraz: Yggdrasil · Sefirot Agaci · Dunya Ekseni
+
+### Arka Plan
+
+Hayat Ağacı (Etz Chaim) — Kabala'nın on sefirot haritası: Keter (taç) → Malkhut (krallık) katmanları; 22 yol İbrani harflerle bağlanır. 'Yaratılışın akış şeması' — ilahi ışığın maddeye indiği elektrik-çemberi; 'ağaç = insan' okuması. Her sefira tanrının bir niteliği; 'kişisel gelişim haritası' olarak modern simya.

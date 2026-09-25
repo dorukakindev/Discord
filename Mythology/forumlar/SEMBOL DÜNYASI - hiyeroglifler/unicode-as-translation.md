@@ -5,3 +5,7 @@
 ### Kaynak No
 - Unicode UAX #57 Latest - Unikemet
 - Unicode UCD Unikemet
+
+### Arka Plan
+
+Unicode-translation — 'çeviri' figürü: 'unicode' 'translation' 'çeviri' 'kodlama' 'figürü'; 'translation = çeviri' figürü.

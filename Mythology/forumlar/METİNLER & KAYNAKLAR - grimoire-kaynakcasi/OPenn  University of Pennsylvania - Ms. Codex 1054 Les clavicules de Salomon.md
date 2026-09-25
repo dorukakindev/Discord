@@ -9,3 +9,7 @@ Key of Solomon'un Latin dışı Fransız el yazması dolaşımını ve taşınab
 
 -# Kaynaklar: https://openn.library.upenn.edu/Data/0002/html/mscodex1054.html
 -# Çapraz: key-of-solomon
+
+### Arka Plan
+
+UPenn OPenn koleksiyonunda Ms. Codex 1054 — Fransız 'Süleyman'ın anahtarları' 17. yy. el yazması; 'açık erişim' (OPenn) dijitalleştirmesiyle serbest görüntülenebilir nüsha. 'Süleyman'ın kuyusu'ndan çıkan tılsım reçeteleri Fransızca.

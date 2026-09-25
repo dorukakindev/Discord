@@ -4,3 +4,7 @@
 
 ### Kaynak No
 - British Museum Eureka
+
+### Arka Plan
+
+Dacier mektubu — 'çözüm' figürü: 'Champollion'un 'Dacier' 'mektubu' 'fonetik' 'sistem'; 'mektup = çözüm' figürü.

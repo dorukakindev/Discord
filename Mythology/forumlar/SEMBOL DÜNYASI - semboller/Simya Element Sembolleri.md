@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde alkimik kategorisinin ayrı filtrelenebilm
 - Laboratuvar notu
 - Ritüel çizim
 - Element eşleştirme
+
+### Arka Plan
+
+Simya elementleri — 'maddenin ilk dili': 🜂 Ateş (üçgen yukarı), 🜄 Su (üçgen aşağı), 🜁 Hava (üçgen yukarı + çizgi), 🜃 Toprak (üçgen aşağı + çizgi); 🜔 Kükürt, ☿ Cıva, 🜑 Tuz — 'üç prensip' tria prima. Paracelsus'un 'element-ruh-metot' triangülasyonu; simyanın 'alfabesi' olarak her simge hem madde hem süreç.

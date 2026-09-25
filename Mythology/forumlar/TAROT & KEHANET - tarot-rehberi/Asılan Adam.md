@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/RWS_Tarot_12_Hanged_Man
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/RWS_Tarot_12_Hanged_Man.jpg/960px-RWS_Tarot_12_Hanged_Man.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Asılan Adam (The Hanged Man) — XII numaralı kart: T şekilli ağaçtan tek ayağıyla asılı, elleri arkada bağlı, başı haleli figür; 'gönüllü askıda kalma' — Odin'in Yggdrasil'de asılılığı ve 'yeni perspektif için durma' motifi. Marseille'de 'le pendu' — İtalyan 'traditore' (hain) kökeni tartışmalı; 'tersten bakma' eylemi.

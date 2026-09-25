@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL ideograms
 - Ancient Egypt Online tutorial
+
+### Arka Plan
+
+Mouth-speech — 'ağız' figürü: 'mouth' 'speech' 'eating' 'ağız' 'konuşma' 'yeme' 'figürü'; 'mouth = ağız' figürü.

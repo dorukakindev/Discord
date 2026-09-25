@@ -13,3 +13,7 @@
 - Kiraman Katibin
 - Hafaza
 - Hamalat al-Arsh
+
+### Arka Plan
+
+İslami-melekiyat — 'sistem' figürü: 'İslami' 'melek' 'sistem' 'figürü'; 'melekiyat = sistem' figürü.

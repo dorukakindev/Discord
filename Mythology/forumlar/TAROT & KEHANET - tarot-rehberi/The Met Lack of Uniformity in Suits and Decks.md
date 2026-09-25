@@ -6,3 +6,7 @@
 78 kart standardını tek doğal form gibi göstermemek, erken oyun kartı çeşitliliğini tarot tarihine bağlamak için kullan.
 
 -# Kaynaklar: https://www.metmuseum.org/perspectives/suits-and-decks
+
+### Arka Plan
+
+Met uniformity — 'çeşitlilik' figürü: 'Met' 'suit' 'deste' 'çeşitliliği'; 'uniformity = yok' figürü.

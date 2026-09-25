@@ -16,3 +16,7 @@ Sağlam öğrenme yolu önce tek sessizli işaretler, sonra çok sessizli işare
 - TLA
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cooking_contest_140418-N-OX321-101.jpg/960px-Cooking_contest_140418-N-OX321-101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Öğrenme sırası — 'sıra' figürü: 'kart' 'metin' 'öğrenme' 'sırası'; 'sıra = süreç' figürü.

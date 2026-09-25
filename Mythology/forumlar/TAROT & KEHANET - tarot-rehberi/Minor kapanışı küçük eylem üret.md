@@ -9,3 +9,7 @@ AI yorumunun kapanışında Minor karttan bir mikro eylem, bir risk uyarısı ve
 - learntarot-course
 - labyrinthos-meanings
 - itf-code-ethics
+
+### Arka Plan
+
+Küçük eylem — 'Minor' önermesi: 'yap' ve 'bitir' figürü; 'kapanış = eylem' pratiği.

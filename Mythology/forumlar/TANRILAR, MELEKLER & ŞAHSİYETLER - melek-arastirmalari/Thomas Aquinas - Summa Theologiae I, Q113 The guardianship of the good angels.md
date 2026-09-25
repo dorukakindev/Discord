@@ -6,3 +6,7 @@
 Koruyucu melek fikrinin görev, kişi ve takdir ilişkisini sistematik biçimde açıklamak için kullanıldı.
 
 -# Kaynaklar: https://www.newadvent.org/summa/1113.htm
+
+### Arka Plan
+
+Aquinas Q113 — 'koruma' figürü: 'Aquinas' 'Q113' 'melek' 'koruma' 'görevi'; 'Q113 = koruma' figürü.

@@ -3,3 +3,7 @@
 > **Tür:** museum · **Odak:** nsw-bity unvanını nesne kaydı üzerinden izleme
 
 -# Kaynaklar: https://www.brooklynmuseum.org/objects/10190
+
+### Arka Plan
+
+Brooklyn nsw-bity — 'unvan' figürü: 'Brooklyn' 'nsw-bity' 'heykel' 'unvanı'; 'nsw-bity = kral' figürü.

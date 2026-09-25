@@ -10,3 +10,7 @@ Michael'ın koruyucu prens ve göksel çatışma figürü olarak belirmesini aç
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Daniel 10 — 'savaş' figürü: 'Daniel' '10' 'savaş' 'melek' 'ayeti'; 'Daniel = savaş' figürü.

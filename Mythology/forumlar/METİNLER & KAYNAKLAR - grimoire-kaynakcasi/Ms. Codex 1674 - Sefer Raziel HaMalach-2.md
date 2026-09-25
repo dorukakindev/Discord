@@ -6,3 +6,7 @@
 - Raziel/angelology hattı
 - İlahi adlar ve invokasyonlar
 - Çok dilli aktarım
+
+### Arka Plan
+
+UPenn Ms. Codex 1674 — 'Raziel meleğinin kitabı': İbrani melek-kabala metni; melek hiyerarşisi ve 'yaratım meleği' öğretisi. 'Gizli bilgelik' olarak 'yaratıcı kitap' sınıfı.

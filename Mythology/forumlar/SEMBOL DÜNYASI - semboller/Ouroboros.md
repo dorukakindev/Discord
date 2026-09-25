@@ -15,3 +15,7 @@ Ouroboros, MÖ 1600'lü yıllara dayanan kadim bir semboldür. Gnostisizm'de ebe
 -# Çapraz: Jörmungandr · Uroboros · Sonsuzluk sembolü
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/7/71/Serpiente_alquimica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Ouroboros — 'kendi kuyruğunu yiyen yılan': Mısır'dan simyaya, Platon'dan Jung'a 'sonsuz döngü' simgesi; 'bir, her şey' (hen to pan) — başlangıç sona, son başlangıca. Simyada 'madde dönüşümü'nün kendi kendini beslemesi; 'yaratıcı yıkım' kalıbı. Kekule'nin benzen keşfi 'uroboros rüyası' anekdotuyla popülerleşti.

@@ -8,3 +8,7 @@ Müze ve Tarot Heritage ile çapraz kontrol et.
 -# Kaynaklar: https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/1f/Arthur_Waite_Author.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+RWS — 'deste' figürü: 'Rider-Waite' 'Smith' 'üçlü' 'destesi'; 'RWS = sistem' figürü.

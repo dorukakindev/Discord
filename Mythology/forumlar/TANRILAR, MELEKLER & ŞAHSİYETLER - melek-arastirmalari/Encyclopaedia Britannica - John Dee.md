@@ -6,3 +6,7 @@
 Dee'nin matematik, kraliyet danışmanlığı, simya ve meleksel vizyon bağlamını tarihsel kişilik olarak konumlandırmak için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/biography/John-Dee
+
+### Arka Plan
+
+Britannica Dee — 'Enochian' figürü: 'Britannica' 'John' 'Dee' 'Enochian' 'figürü'; 'Dee = dil' figürü.

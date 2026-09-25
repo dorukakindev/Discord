@@ -18,3 +18,7 @@ Bu varlık, dev kategorisinin ayrı filtrelenebilmesi için ansiklopediye eklene
 - Tanrısal koruma
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Humbaba_deamon-AO_9034-IMG_0655-black.jpg/960px-Humbaba_deamon-AO_9034-IMG_0655-black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Humbaba (Huwawa), Gılgamış destanının Sedir Ormanı koruyucusu: Enlil tarafından dikilmiş dev yüz; ağzı ateş, dişleri 'ölüm'. Yedi halka/yüz katman tasvirleriyle çevresel sınırın kişiselleştirilmiş halidir — sedir ormanı tanrıların korusudur. Gılgamış ve Enkidu'nun kesimiyle 'insan-doğa' ayrımının mitik dönüm noktası; zafer trajiktir, ormanın yas tutuşu metinde kalır.

@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Death_Mexico_06-89.jpg/
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Death_Mexico_06-89.jpg/960px-Death_Mexico_06-89.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ölüm (Death) — XIII numaralı kart: siyah bayraklı iskelet şövalye ve beyaz gül; 'dönüşüm', 'son' ve 'yeniden doğuş'; 'la mort' — 'geçiş' kartı olarak 'en çok yanlış anlaşılan'. 'Ölüm = kapı' figürü.

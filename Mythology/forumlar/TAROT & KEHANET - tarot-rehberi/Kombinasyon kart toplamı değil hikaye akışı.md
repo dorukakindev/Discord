@@ -9,3 +9,7 @@
 - taros-tarot-combinations
 - learntarot-cards
 - labyrinthos-meanings
+
+### Arka Plan
+
+Hikâye akışı — 'kart toplamı' değil 'anlatı': 'sıralı' okuma olarak 'akış' figürü; 'toplam ≠ anlatı' paradoksu.

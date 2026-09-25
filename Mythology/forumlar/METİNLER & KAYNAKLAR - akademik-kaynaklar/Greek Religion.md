@@ -16,3 +16,7 @@ Standard modern synthesis for Greek cult, myth, and ritual context.
 - Burkert Greek Religion
 
 -# Kaynaklar: https://archive.org/search?query=title%3A%28Greek%20Religion%29%20Burkert
+
+### Arka Plan
+
+Walter Burkert'in 'Yunan Dini' (1977) — 'mithos + logos' süreklilik tezi; kurban, tapınak ve 'gizem' kültlerinin haritası. 'Yunan dininin kuralları' olarak 'pratik' odaklı referans.

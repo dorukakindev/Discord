@@ -12,3 +12,7 @@ Hiyeroglifler daha anıtsal ve resmi bir görsel dildir. Hiyeratik fırça ve pa
 - UCL hieratic
 - UCL demotic
 - British Museum Rosetta
+
+### Arka Plan
+
+Dört yazı — 'hiyeroglif = taş', 'hiyeratik = rahip', 'demotik = halk', 'Kıptî = son': Mısır yazısının 'dört evresi'; 'Rosetta'da üçü' olarak 'çözüm zinciri'.

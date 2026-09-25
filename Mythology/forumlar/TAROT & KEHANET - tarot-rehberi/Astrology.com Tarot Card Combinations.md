@@ -6,3 +6,7 @@
 Birlikte okuma motoruna modern çift mantığı sağla.
 
 -# Kaynaklar: https://www.astrology.com/tarot/card-combinations
+
+### Arka Plan
+
+Tarot kombinasyonları — 'çift' figürü: 'kart' 'kart' 'sentez' 'rehberi'; 'combination = sentez' figürü.

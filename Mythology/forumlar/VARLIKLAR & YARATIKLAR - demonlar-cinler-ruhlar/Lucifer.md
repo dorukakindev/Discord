@@ -20,3 +20,7 @@ Lucifer (Latince: ışık taşıyan), İbrahimi geleneklerde Tanrı'nın en güz
 - Sanatları öğretme
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Alexandre_Cabanel_-_Fallen_Angel.jpg/960px-Alexandre_Cabanel_-_Fallen_Angel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Lucifer ('ışık taşıyan'), Latince 'sabah yıldızı' (Venüs) çevirisi: İşaya 14'te 'Babil Kralı'nın düşüşü' dizesi sonradan Şeytan'ın düşüşü diye okundu. Hristiyan demonolojisinde kibir'den düşen baş melek; 'Adversary'den (Satan = karşıt) 'Lightbearer'a dönüşüm. Cehennem kralı, Goetia derlemelerinde üçlü üst kurulda (Lucifer-Beelzebub-Astaroth). 'Gururun düşüşü' arketipi.

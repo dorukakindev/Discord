@@ -30,3 +30,7 @@ Kırk sayısı, kutsal metinlerde sık sık bir eşik süresi gibi görünür: t
 - süre
 
 -# Kaynaklar: https://www.britannica.com/topic/number-symbolism
+
+### Arka Plan
+
+Kırk — 'sınav dönemi': Musa'nın 40 gün dağı, 40 yıl çölü, İsa'nın çölü, Muhammed'in 40 yaşı, Ashura'nın kırkı; 'arba'în' çile geleneği. 'Zamanın dönüşüm eşiği' olarak 40 — bir şeyin 'olması' için gereken minimum süre. Yağmurun 'kırk gün' ve Nuh'un 'kırk gün' kalıbı evrensel.

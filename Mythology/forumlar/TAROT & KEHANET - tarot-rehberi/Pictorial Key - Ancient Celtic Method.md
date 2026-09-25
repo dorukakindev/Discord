@@ -6,3 +6,7 @@
 Celtic Cross ve pozisyon temelli okumalarda kartın görevini, eksenlerini ve sonuç sentezini klasik birincil metinden kurmak için kullanılır.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/pkt0307.htm
+
+### Arka Plan
+
+Celtic Method — 'Kelt' figürü: 'Pictorial Key' 'Kelt' 'yayılım' 'metodu'; 'Celtic = klasik' figürü.

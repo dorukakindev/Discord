@@ -6,3 +6,7 @@
 Lenormandın tarot değil ayrı 36 kartlık cartomancy sistemi olduğunu görünür kıl.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/object/P_1896-0501-525-
+
+### Arka Plan
+
+Lenormand 36 — 'küçük' figürü: '36 kart' 'Fransız' destesi; 'küçük = ayrı' figürü.

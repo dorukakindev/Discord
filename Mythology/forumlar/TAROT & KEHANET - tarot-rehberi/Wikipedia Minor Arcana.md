@@ -8,3 +8,7 @@ Minor Arcana yapısını hızlı doğrulama için kullan.
 -# Kaynaklar: https://en.wikipedia.org/wiki/Minor_Arcana
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Swords14.jpg/960px-Swords14.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+
+### Arka Plan
+
+Minor Arcana — '56 kart' figürü: 'küçük' 'sır' 'dizisi'; 'Minor = gündelik' figürü.

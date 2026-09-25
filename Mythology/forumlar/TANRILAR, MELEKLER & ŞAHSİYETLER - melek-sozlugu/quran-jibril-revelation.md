@@ -10,3 +10,7 @@ Kur'an 2:97-98: Jibril ve Mikail'in isimli anılması
 - britannica-jibril
 - britannica-mikal
 -# Çapraz: Jibril · Mikail · Vahiy · Malaika
+
+### Arka Plan
+
+Kur'an-Cibril — 'vahiy' figürü: 'Kur'an' 'Cibril' 'vahiy' 'zinciri'; 'vahiy = Cebrail' figürü.

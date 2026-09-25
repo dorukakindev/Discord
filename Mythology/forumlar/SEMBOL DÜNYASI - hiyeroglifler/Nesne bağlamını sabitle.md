@@ -4,3 +4,7 @@
 
 ### Ayrıntı
 Yazıtın yüzeyi, dönem tahmini, buluntu yeri, malzeme ve sahne ilişkisi olmadan yalnızca işaret okumaya başlama.
+
+### Arka Plan
+
+Nesne bağlamı — 'bağlam' figürü: 'nesne' 'bağlam' 'sabitleme' 'pratiği'; 'bağlam = anlam' figürü.

@@ -8,3 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/c/ca/Caapi.jpg?utm_source=en.wiki
 Ayahuasca içkisinin omurgasını oluşturan asma. Harmin ve harmalin içerir; tek başına hafif etkili olsa da içeceğin MAOI motorudur.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/c/ca/Caapi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Caapi (Banisteriopsis caapi) — 'ayahuasca'nın asma'ı: Amazon'un 'sarı-meryem' asması; 'beta-karbolin' (harmalin, harmol, tetrahidroharmalin) MAOI içeriğiyle 'DMT'yi aktive eden' bileşen; 'ayahuasca'da 'asma = anne' figürü.

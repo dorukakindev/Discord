@@ -15,3 +15,7 @@ Yin ve Yang birbirini tamamlar ve içinde birbirinin tohumunu taşır. Taoizm'in
 -# Çapraz: Taiji · Beş Element · I Ching
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/960px-Yin_and_Yang_symbol.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Yin-Yang (☯) — 'zıtların döngüsü': siyah (yin) ve beyaz (yang) balık şekli; her birinde karşıtın noktası. 'Taiji' — denge değil hareket: dönen, döngüsel, birbirine dönüşen. Daoist 'eş-değer-zıtlık' ilkesi.

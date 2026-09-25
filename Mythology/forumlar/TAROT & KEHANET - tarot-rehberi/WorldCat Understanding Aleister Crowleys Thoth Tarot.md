@@ -6,3 +6,7 @@
 Thoth karşılaştırmasını RWS anlamına karıştırmadan ayrı ekol ve ileri çalışma notu olarak tut.
 
 -# Kaynaklar: https://search.worldcat.org/de/title/understanding-aleister-crowleys-thoth-tarot/oclc/52554137?referer=list_view
+
+### Arka Plan
+
+Understanding Thoth — 'açıklama' figürü: 'Crowley' 'Thoth' 'açıklaması'; 'understanding = açık' figürü.

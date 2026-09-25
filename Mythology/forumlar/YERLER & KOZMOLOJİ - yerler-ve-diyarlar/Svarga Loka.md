@@ -9,3 +9,7 @@ Bu mekan kaydı, kutsal coğrafyanın gokyuzu-diyar başlığı altında daha ok
 
 ### Diğer Adlar
 - Svargaloka
+
+### Arka Plan
+
+Hint kozmolojisinin 'gökyüzü diyarı': Indra'nın Amravati şehri, apsara'ların dansı, airavata üç başlı fil — 'karmik ödül' ölü-diyarı. Bhūr (yer), Bhuvar (gökyüzü) ve Svar (gök) üçlü lokanın üst katmanı; 'gök de geçici' — iyi karma tükenirse düşüş başlar. 'Cennet de samsara içinde' — döngünün ödül katmanı.

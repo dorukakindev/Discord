@@ -6,3 +6,7 @@
 - UCL system
 - PharaLex sign functions
 - Ancient Egypt Online tutorial
+
+### Arka Plan
+
+Sign-function — 'harita' figürü: 'sign' 'function' 'işaret' 'işlev' 'haritası'; 'function = işlev' figürü.

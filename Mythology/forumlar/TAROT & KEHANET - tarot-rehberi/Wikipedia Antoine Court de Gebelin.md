@@ -8,3 +8,7 @@ Kanıtsız antik köken dosyasında uyarı kaynağı olarak kullan.
 -# Kaynaklar: https://en.wikipedia.org/wiki/Antoine_Court_de_G%C3%A9belin
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/7/73/AntoineCourtdeGebelin.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Court de Gébelin — 'Mısır' 'efsane' figürü: '1781' 'Mısır' 'köken' 'iddiası'; 'Gébelin = efsane' figürü.

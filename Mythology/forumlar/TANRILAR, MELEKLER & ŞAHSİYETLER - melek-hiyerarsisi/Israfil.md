@@ -27,3 +27,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Irakischer_Maler_um_128
 - Quran.com tafsir: 27:87
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Irakischer_Maler_um_1280_001.jpg/960px-Irakischer_Maler_um_1280_001.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+İsrafil — 'sur' 'melek' 'kıyamet' 'figürü'; 'İsrafil = sur' figürü.

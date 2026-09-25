@@ -10,3 +10,7 @@ Michael'ın ejderha ve düşmüş güçlere karşı savaşçı başmelek imgesin
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Revelation 12 — 'savaş' figürü: 'Revelation' '12' 'savaş' 'Michael' 'ayeti'; 'Revelation = savaş' figürü.

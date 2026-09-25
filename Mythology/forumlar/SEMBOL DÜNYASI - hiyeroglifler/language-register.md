@@ -6,3 +6,7 @@
 - UCL language development
 - ISAC Demotic Grammar
 - UCL Coptic
+
+### Arka Plan
+
+Language-register — 'kayıt' figürü: 'language' 'register' 'dil' 'kayıt' 'figürü'; 'register = kayıt' figürü.

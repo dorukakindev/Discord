@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Virola_koschnyi_1zz.jpg
 Virola ağacının kırmızı reçinesinden hazırlanan DMT içerikli enfiye. Amazon kabilelerince burundan alınan güçlü bir trans aracıdır.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Virola_koschnyi_1zz.jpg/960px-Virola_koschnyi_1zz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Virola — Amazon 'kırmızı ağaç' reçinesi: DMT ve 5-MeO-DMT içeren 'epena' (yopo benzeri) burun tozu; Yanomami'nin 'şnuff' geleneği; 'ağaç = dünya' mitiyle 'kozmik' sınıf.

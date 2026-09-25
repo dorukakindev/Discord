@@ -13,3 +13,7 @@ Kuei-jin, Çin mitolojisinde bulunan bir tür vampirdir. Normal vampirlerin aksi
 
 ### Öne Çıkanlar
 - Kuei-jin (Çin)
+
+### Arka Plan
+
+Kuei-jin ('hayalet-insan'), Çin hayalet doktrininde ölülerin hun ruhu bedenden gidince po ruhunun cesette takılı kalmasıyla oluşan varlık: jiangshi'den daha 'insan' ama tam canlı değil. Cenaze ritüeli düzgün yapılmazsa po 'yerde kalıp' huysuz ruh olur. Budist-Taoist karışık ölü-sonrası katmanında 'aç ruh' (egui) ile aynı halkanın üyesidir.

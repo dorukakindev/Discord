@@ -14,3 +14,7 @@ RWS sahneli yorumla Marseille yapısal yorumunu ayır.
 - wikipedia-marseille
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg/960px-Notre-Dame_de_la_Garde_aerial_view_2020.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Marseille — 'Fransız' deste: 'sayı' ve 'ikonografi' geleneği; 'Nicolas Conver' baskısıyla 'standart' figürü.

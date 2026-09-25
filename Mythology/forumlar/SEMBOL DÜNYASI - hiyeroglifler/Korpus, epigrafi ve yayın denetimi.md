@@ -6,3 +6,7 @@
 - TLA text corpus
 - ISAC epigraphy
 - Met Irtisen
+
+### Arka Plan
+
+Korpus-denetim — 'denetim' figürü: 'korpus' 'epigrafi' 'yayın' 'denetim' 'pratiği'; 'denetim = güven' figürü.

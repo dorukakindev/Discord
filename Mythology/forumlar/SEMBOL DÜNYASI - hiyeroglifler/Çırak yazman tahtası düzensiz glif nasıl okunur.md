@@ -10,3 +10,7 @@
 
 ### Kaynak No
 - Met apprentice board
+
+### Arka Plan
+
+Çırak tahta — 'tahta' figürü: 'çırak' 'yazman' 'tahta' 'düzensiz' 'glif' 'okuma' 'pratiği'; 'tahta = pratik' figürü.

@@ -29,3 +29,7 @@ Dört sayısı, soyut kutsallıktan çok kurulmuş dünya duygusunu taşır. Dö
 - mandala
 
 -# Kaynaklar: https://www.britannica.com/topic/number-symbolism
+
+### Arka Plan
+
+Dört — 'sağlam çerçeve': dört yön, dört element (toprak, hava, ateş, su), dört mevsim, dört İncil, dört Ehliyeni (Mısır kaos tanrıları), dört nokta kompleksi. Kare ve haç simgesi — 'sınırlı ama eksiksiz'. 'Dört köşe' kültürlere göre evrensel 'istemlendirilmiş alan' demektir.

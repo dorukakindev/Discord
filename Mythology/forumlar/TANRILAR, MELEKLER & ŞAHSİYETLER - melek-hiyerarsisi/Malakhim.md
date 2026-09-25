@@ -8,3 +8,7 @@
 - Yol
 - Mühür
 -# Çapraz: Gabriel · Michael · Uriel
+
+### Arka Plan
+
+Malakhim — 'melekler' 'İbrani' 'çoğul' 'figürü'; 'malakhim = melek' figürü.

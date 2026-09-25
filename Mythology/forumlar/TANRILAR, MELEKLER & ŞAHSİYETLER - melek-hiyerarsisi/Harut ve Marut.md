@@ -28,3 +28,7 @@ Harut ve Marut, Kur'an 2:102 çevresinde Babil'de sınama ve sihir anlatısıyla
 - St Andrews Encyclopaedia of Theology: Angels
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/2/2c/Marduks_strid_med_Tiamat.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Harut-Marut — 'sihir' 'melek' 'Babil' 'figürü'; 'Harut = sihir' figürü.

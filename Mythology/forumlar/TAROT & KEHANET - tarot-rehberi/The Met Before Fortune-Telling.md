@@ -6,3 +6,7 @@
 Erken kartları saray oyunu ve maddi kültür kanıtı olarak ele al.
 
 -# Kaynaklar: https://www.metmuseum.org/perspectives/tarot-2
+
+### Arka Plan
+
+Met before — 'önce' figürü: 'Met' 'kehanet' 'öncesi' 'oyun'; 'before = oyun' figürü.

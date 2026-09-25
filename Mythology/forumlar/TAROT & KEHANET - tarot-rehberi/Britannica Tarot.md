@@ -6,3 +6,7 @@
 Tarihsel omurga ve oyun/kehanet ayrımı için kullan.
 
 -# Kaynaklar: https://www.britannica.com/topic/tarot
+
+### Arka Plan
+
+Tarot — 'genel' figürü: 'tarot'un 'tarih' ve 'kullanım' özeti; 'referans' katmanı.

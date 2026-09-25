@@ -7,3 +7,7 @@ Bağımlı kalıp, aşırılık veya bağlanma örüntüsü ölçü ve arıtma �
 ### Cards
 - devil
 - temperance
+
+### Arka Plan
+
+Şeytan + Denge — 'bağımlılık + ılımlılık' ikilisi: Denge'nin 'su döken' figürüyle Şeytan'ın 'zincir' — 'aşırıyı dengele' mesajı; 'bağımlılığı dengeye çağır' önermesi.

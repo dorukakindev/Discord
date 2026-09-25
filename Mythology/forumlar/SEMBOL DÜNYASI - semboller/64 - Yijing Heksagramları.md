@@ -28,3 +28,7 @@ Yijing, kırık ve kesintisiz çizgilerin yin-yang mantığıyla birleşmesinden
 - yin-yang
 
 -# Kaynaklar: https://www.britannica.com/topic/Yijing
+
+### Arka Plan
+
+64 heksagram — Yin-Yang'ın 6 satırlı kombinasyonları (2⁶): 8 trigram çiftinden oluşan 'değişim alfabesi'; Fuxi'ye atfedilir, Kral Wen'le sıralandı. 'Değişimler Kitabı' (Yijing) — rastgelelik değil 'durum okuması': sorulan soruya gelen heksagram o anın yapısını tarif eder. DNA'yla 64 kodon tesadüfü modern mitolojiyi ekledi.

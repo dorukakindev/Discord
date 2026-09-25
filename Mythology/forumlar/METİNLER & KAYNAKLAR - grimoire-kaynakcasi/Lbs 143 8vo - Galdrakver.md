@@ -6,3 +6,7 @@
 - Galdrastafir
 - Aegishjalmur ve Solomon mührü varyantları
 - Hristiyan koruma metinleri
+
+### Arka Plan
+
+Galdrakver ('büyü kitabı') — 17. yy. İzlanda el yazması: Landsbókasafn (Milli Kütüphane) MS Lbs 143 8vo; galdrastafir (büyü işaretleri — Ægishjálmur korku kaskı, Vegvísir pusula) ve İskandinav galdr metinleri. 'İzlanda'nın halk-büyü arşivi' — pagan kalıntıyla Hristiyan duaların aynı defterde buluştuğu kodeks.

@@ -9,3 +9,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jp
 -# Çapraz: Druidizm · Kelt Mitolojisi · Merlin · Gün Dönümü Ritüelleri · Göbekli Tepe
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/960px-Stonehenge2007_07_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Salisbury Ovası'ndaki ~5000 yıllık taş çember: sarsen (yerel) + bluestone (Galler'den 250km) taşları; gündönümü güneş-ekseni. 'Devlerin oyunu' miti (Merlin'in İrlanda'dan taşıması); mezar-ritüel ve gökbilim kalıbı. 'Druidlere' yanlış atfedilir — taşlar onlardan 2000 yıl eski. 'Taşın tarihi, taştan önce' anlayışının simgesi.

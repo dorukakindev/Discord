@@ -5,3 +5,7 @@
 ### Kaynak No
 - itf-code-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Duygusal bakım — 'kupa' figürü: 'öz-bakım' ve 'destek' figürü; 'bakım = besleme' pratiği.

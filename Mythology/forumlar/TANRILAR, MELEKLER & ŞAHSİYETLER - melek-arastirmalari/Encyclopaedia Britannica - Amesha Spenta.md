@@ -6,3 +6,7 @@
 Amesha Spenta'yı karşılaştırmalı angelolojiye dahil ederken 'melek' ile birebir eşitlememek için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/topic/amesha-spenta
+
+### Arka Plan
+
+Britannica Amesha — 'nitelik' figürü: 'Britannica' 'Amesha' 'Spenta' 'makalesi'; 'Amesha = nitelik' figürü.

@@ -7,3 +7,7 @@
 ![gorsel](https://isac.uchicago.edu/sites/default/files/styles/social_share/public/publications/covers/SAOC_45_cover.jpg?h=c22778b5&itok=N2l9vZHB)
 
 ![gorsel](https://isac.uchicago.edu/themes/custom/isactheme/assets/images/social-share.png)
+
+### Arka Plan
+
+Onchsheshonqy — 'Demotik' figürü: 'Onchsheshonqy' 'Demotik' 'gramer' 'metni'; 'Demotik = halk' figürü.

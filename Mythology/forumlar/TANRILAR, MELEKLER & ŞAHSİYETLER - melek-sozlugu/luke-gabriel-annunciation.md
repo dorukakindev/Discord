@@ -9,3 +9,7 @@ Luke 1: Gabriel, Zekeriya ve Meryem'e gönderilen haberci
 - usccb-daniel-9
 - je-gabriel
 -# Çapraz: Gabriel · Müjde · Zekeriya · Meryem
+
+### Arka Plan
+
+Luke-Gabriel — 'müjde' figürü: 'Luke' 'Gabriel' 'müjde' 'zinciri'; 'müjde = haber' figürü.

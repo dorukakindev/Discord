@@ -13,3 +13,7 @@
 - labyrinthos-spreads
 - tarot-com-spreads
 - astrology-com-combinations
+
+### Arka Plan
+
+Orta seviye — 'kombinasyon' figürü: 'çift' ve 'pozisyon' ikilisi; 'orta = sentez' pratiği.

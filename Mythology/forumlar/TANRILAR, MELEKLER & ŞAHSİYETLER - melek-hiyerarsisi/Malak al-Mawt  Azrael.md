@@ -23,3 +23,7 @@
 
 ### Source refs
 - Britannica: Angel and demon
+
+### Arka Plan
+
+Malak-Mawt — 'ölüm' 'melek' 'Azrail' 'figürü'; 'Mawt = ölüm' figürü.

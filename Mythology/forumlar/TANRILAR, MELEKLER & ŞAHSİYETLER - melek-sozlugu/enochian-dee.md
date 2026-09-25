@@ -10,3 +10,7 @@ John Dee ve Enochian meleksel sistem
 - esoteric-archives-enochian-invocations
 - encyclopedia-enochian-calls
 -# Çapraz: John Dee · Edward Kelley · Enochian Calls · Meleksel dil
+
+### Arka Plan
+
+Enochian-Dee — 'dil' figürü: 'Dee' 'Enochian' 'melek' 'dili'; 'enochian = dil' figürü.

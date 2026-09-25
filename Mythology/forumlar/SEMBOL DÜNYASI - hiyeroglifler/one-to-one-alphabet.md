@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL system
 - Penn write your name
+
+### Arka Plan
+
+One-to-one — 'alfabe' figürü: 'one-to-one' 'alphabet' 'tek' 'harf' 'figürü'; 'alphabet = tek' figürü.

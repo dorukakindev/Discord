@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde astrolojik kategorisinin ayrı filtreleneb
 - Doğum haritası
 - Burç yorumu
 - Takvim sembolizmi
+
+### Arka Plan
+
+Zodyak işaretleri — 'göksel alfabe': ♈ Koç (boynuz), ♉ Boğa (baş), ♊ İkizler (çift), ♋ Yengeç (kabuk), ♌ Aslan (yele), ♍ Başak (başak), ♎ Terazi (ölçek), ♏ Akrep (iğne), ♐ Yay (ok), ♑ Oğlak (boynuz+kuyruk), ♒ Kova (dalga), ♓ Balık (çift balık). 'Harita kısaltması' olarak her biri bir burç-enerji-imgelemi.

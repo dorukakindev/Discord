@@ -7,3 +7,7 @@ Bilinçdışı sis çok seçenekle birleşir; arzu, korku ve fantezi birbirine k
 ### Cards
 - moon
 - seven-of-cups
+
+### Arka Plan
+
+Ay + Kupaların Yedilisi — 'yanılsama + çok seçenek' ikilisi: yedi kupanın 'hayal çeşitliliği' Ay'ın 'sis'iyle birleşince 'görünen gerçek olmayabilir — hangi hayal, hangi yanılsama?' uyarısı; 'seçim yapmadan önce sis dağılana kadar bekle' önermesi.

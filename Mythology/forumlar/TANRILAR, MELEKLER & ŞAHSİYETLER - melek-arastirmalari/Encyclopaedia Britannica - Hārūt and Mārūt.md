@@ -6,3 +6,7 @@
 Harut-Marut anlatısının sihir, sınama ve melek yorumları çevresindeki tartışmalı statüsünü açıklamak için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/topic/Harut-and-Marut
+
+### Arka Plan
+
+Britannica Harut — 'Babil' figürü: 'Britannica' 'Harut' 'Marut' 'Babil' 'melekleri'; 'Harut = sihir' figürü.

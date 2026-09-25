@@ -15,3 +15,7 @@ RWS Minor kartları gündelik hayat sahneleri kurduğu için küçük karar, iş
 - vam-article
 - sacred-texts-pkt-lesser
 - public-domain-review-sola-busca
+
+### Arka Plan
+
+Gündelik sahneler — 'RWS' figürleri: 'insan' ve 'eylem' figürü; 'sahne = yaşam' katmanı.

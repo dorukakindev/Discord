@@ -22,3 +22,7 @@ Hz. Muhammed'in de bir Qareen'i olduğu ancak onu Müslüman yaptığı rivayet 
 
 ### Bölgeler
 - Evrensel (İslam inanışı)
+
+### Arka Plan
+
+Qareen ('yakın arkadaş'), İslam geleneğinde her insanın doğuştan beraberinde getirdiği cin-arkadaşı: kişiyi kötüye teşvik eden içsel dürtü kişileşmesi. Hadis'te Peygamber 'benimkinin Müslüman olduğu'nu söyler — o bile qareen'inden kurtulamaz ama onu dönüştürür. 'İçses'in demonolojik karşılığı; cin sınıflamasının 'kişisel' katmanı.

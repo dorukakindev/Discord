@@ -11,3 +11,7 @@ Barrett'in The Magus'unu sadece matbu derleme değil, Wellcome'da somut yazar n�
 -# Çapraz: the-magus · three-books-of-occult-philosophy
 
 ![gorsel](https://i.wellcomecollection.org/assets/icons/square_icon.png)
+
+### Arka Plan
+
+Wellcome MS.1072 — Francis Barrett'ın 'The Magus, or Celestial Intelligencer' (1801) el yazması-temelinde baskısı: 'kutsal zekâ'nın 'melek-astronomi-tılsım' üçlemesi; 'fetih' değil 'ikna' — 'meleklerin dostluğu' doktrini. 'İngiliz grimoire'ının 'yüzyıl dönümü' metni.

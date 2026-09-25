@@ -6,3 +6,7 @@
 RWS adlandırmasını, Smith katkısını ve modern görsel standart oluşunu destekle.
 
 -# Kaynaklar: https://library.whitney.org/bib/67344
+
+### Arka Plan
+
+Whitney RWS — 'deste' figürü: 'Whitney' 'RWS' 'koleksiyonu'; 'Whitney = müze' figürü.

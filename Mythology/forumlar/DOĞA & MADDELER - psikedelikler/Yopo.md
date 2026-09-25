@@ -8,3 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/5/5b/Anadenanthera_peregrina.jpg?
 Anadenanthera ağacının tohumlarından yapılan, bufotenin ve triptaminler içeren kutsal enfiye. Burundan alınır, hızlı ve yoğun bir trans yaratır.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/5/5b/Anadenanthera_peregrina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Yopo (Anadenanthera peregrina) — 'cohoba': Karayip ve Amazon'un 'DMT-burun tozu': 'bufotenin' + 'DMT' içeren tohumlar; Taino kültürünün 'sihirli toz' geleneği; 'yopo = tanrıların tozu' miti.

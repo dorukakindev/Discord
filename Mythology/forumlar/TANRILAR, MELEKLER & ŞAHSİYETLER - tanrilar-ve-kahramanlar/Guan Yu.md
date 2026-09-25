@@ -7,3 +7,7 @@ https://upload.wikimedia.org/wikipedia/commons/e/ec/Guanyu-1.jpg?utm_source=en.w
 Üç Krallık dönemi generali; sadakat, doğruluk ve savaş erdemlerinin tanrısallaşmış kahramanı.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/e/ec/Guanyu-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Guan Yu — 'doğruluk' generali: Üç Krallık'ın 'sadakat' arketipi — Liu Bei'ye 'peach garden' yemini, 'yeşil elbise' ve 'uzun bıyık' ikonografisi; 'Cao Cao'ya saygılı ama Liu'ya bağlı' kalıbıyla 'vicdan' figürü. 'Esnafın koruyucusu' olarak iş ahlakının tanrısı.

@@ -20,3 +20,7 @@ Bu kayıt, yaratıcı sınıfının ansiklopedide ayrı filtrelenebilmesi için 
 - Veda metinleri
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Brahma%2C_dal_soffitto_del_tempio_di_huchchappaiyya_gudi%2C_aihole_%28balgakot%29%2C_karnataka%2C_VII_secolo_%28cropped%29.jpg/960px-Brahma%2C_dal_soffitto_del_tempio_di_huchchappaiyya_gudi%2C_aihole_%28balgakot%29%2C_karnataka%2C_VII_secolo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Brahma — 'yaratıcı' ama 'az tapınılan' Hindu tanrısı: dört yüz/dört Veda, 'lotus üstünde' oturma (Vishnu'nun göbeğinden çıkar); 'yaratma' işi 'tamamlanmış' olarak 'pasif' figür. 'Pushkar' tapınağı ve 'Brahma'yı niye tapmıyorsunuz' miti — 'görevi biten' tanrı.

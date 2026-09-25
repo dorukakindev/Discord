@@ -12,3 +12,7 @@ Bu sembol kaydı, semboller panelinde milli kategorisinin ayrı filtrelenebilmes
 - Arma
 - Tören
 - Anıt
+
+### Arka Plan
+
+Ulusal mitolojik semboller — 'devletin miti': Türk'ün kurdu, Mısır'ın gözü, Japonya'nın krizantemi, İngiltere'nin aslanı, Fransa'nın horozu; 'her ülkenin bir atası' doktrini. 'Millet miti' olarak 'biz kimiz' hikâyesinin sıkıştırılmış sembolü; 'ulusal sembol = anlatılmış sözleşme'.

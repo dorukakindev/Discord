@@ -11,3 +11,7 @@ Key of Solomon kaydındaki bölüm hiyerarşisi ve okuma bağlantıları için a
 -# Çapraz: key-of-solomon · magical-treatise-of-solomon
 
 ![gorsel](https://sacred-texts.com/img/logo.jpg)
+
+### Arka Plan
+
+Clavicula Salomonis — 'Süleyman'ın anahtarı': 15-16. yy. İtalyan grimoire'ının 'sihirli-mekanik' metni; malzeme listesi, ay takvimi, talisman reçeteleri ve 'ikna sözleri'. 'Tılsım kitabı' olarak tanınan versiyon — 'doğru zamanda doğru kelime' formülü; 'Süleyman'ın kuyusu'ndan çıkan tılsım geleneğinin ana metni.

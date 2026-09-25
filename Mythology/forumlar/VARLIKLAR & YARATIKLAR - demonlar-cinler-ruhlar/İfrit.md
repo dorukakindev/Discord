@@ -30,3 +30,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Brooklyn_Museum_-_Argha
 - Orta Doğu
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Brooklyn_Museum_-_Arghan_Div_Brings_the_Chest_of_Armor_to_Hamza.jpg/960px-Brooklyn_Museum_-_Arghan_Div_Brings_the_Chest_of_Armor_to_Hamza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+İfrit ('efreet'), İslam cin sınıflamasının ateşli-güçlü katmanı: dumansız ateşten, dev cüsseli, yeraltı harabelerinde yaşayan; Süleyman'ın 'tahtı getirme' hikâyesinde bir ifrit 'göz açıp kapamadan önce' getirir — güç örneği. Marid'le birlikte 'büyük cin' sınıfı; cin çağırma büyülerinde en riskli ama en etkili kategori.

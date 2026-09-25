@@ -6,3 +6,7 @@
 Dokuz koro, Pseudo-Dionysios etkisi, Gregory ve Thomas çizgisindeki üç hiyerarşi modelini yerleştirmek için kullanıldı.
 
 -# Kaynaklar: https://www.newadvent.org/cathen/01476d.htm
+
+### Arka Plan
+
+Catholic Angels — 'melek' figürü: 'Catholic' 'melek' 'doktrin' 'makalesi'; 'Catholic = doktrin' figürü.

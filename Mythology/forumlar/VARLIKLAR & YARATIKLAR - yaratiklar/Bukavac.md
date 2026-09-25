@@ -14,3 +14,7 @@ Bukavac, Slav folklorunda ve mitolojisinde önemli bir yere sahip olan doğaüst
 
 ### Öne Çıkanlar
 - Bukavac (Slav)
+
+### Arka Plan
+
+Bukavac, Sırp-Bosna göl-cinlerinin dev-yaratığı: altı bacaklı, büyük boynuzlu, geceleri gölden çıkıp hayvanları ve geçenleri boğar. Slav mitinin 'su-alacakaranlık' figürlerinden; Bukova gölü efsanesiyle özdeşleşir. Demir-çakmak ve dua ile kovulabilir. 'Yerel canavar' kategorisinde kalsa da genç nesil için 'göl-yasası'nın halk pedagogik karşılığıdır.

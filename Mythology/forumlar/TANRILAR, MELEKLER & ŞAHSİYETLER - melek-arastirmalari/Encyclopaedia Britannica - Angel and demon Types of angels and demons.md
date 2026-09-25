@@ -6,3 +6,7 @@
 Meleklerin haberci, koruyucu, kozmik ve ölüm eşiği işlevlerini; İslam'da melek/şeytan/cin ayrımını çerçevelemek için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/topic/angel-religion/Types-of-angels-and-demons
+
+### Arka Plan
+
+Britannica Types — 'tür' figürü: 'Britannica' 'melek' 'demon' 'tür' 'makalesi'; 'types = tür' figürü.

@@ -15,3 +15,7 @@
 - itf-code-ethics
 - tabi-aims-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Kriz-kırılganlık — 'Kule' figürü: 'kriz' ve 'dayanıklılık' ikilisi; 'kriz = eşik' pratiği.

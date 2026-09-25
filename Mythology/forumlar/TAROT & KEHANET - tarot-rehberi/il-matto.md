@@ -9,3 +9,7 @@ Fool kartını hem oyun tarihi hem arketipik eşik olarak iki rafla anlat.
 
 ### Kaynak No
 - britannica-tarot
+
+### Arka Plan
+
+İl matto — 'deli': Fool'un İtalyan adı; 'tarocchi' destesinin 'oyun dışı' kartı; 'matto = başlangıç' figürü.

@@ -15,3 +15,7 @@ Malakh, angelos ve Jibril/Gabriel çizgisi melek fikrinin en eski ve en tanınan
 - usccb-daniel-9
 - usccb-luke-1
 - my-jewish-learning-angels
+
+### Arka Plan
+
+Haberci-vahiy — 'haber' 'melek' 'vahiy' 'taşıyıcı' 'figürü'; 'haberci = vahiy' figürü.

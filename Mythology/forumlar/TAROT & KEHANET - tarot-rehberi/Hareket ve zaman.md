@@ -9,3 +9,7 @@
 - risk
 - transformation
 - habit
+
+### Arka Plan
+
+Hareket-zaman — 'asa' figürü: 'hareket' ve 'hız' figürü; 'zaman = ritim' pratiği.

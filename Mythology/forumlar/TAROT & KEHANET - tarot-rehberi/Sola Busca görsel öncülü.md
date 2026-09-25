@@ -14,3 +14,7 @@ Sola Busca, RWSden önce sahneli Minor fikrinin tarihsel örneğidir; RWS ile be
 - public-domain-review-sola-busca
 - pinacoteca-sola-busca
 - britishmuseum-sola-busca
+
+### Arka Plan
+
+Sola Busca — 'öncül' figürü: 'sahneli Minor' 'RWS'nin 'ilhamı'; 'Sola Busca = öncül' figürü.

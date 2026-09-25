@@ -7,3 +7,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Jade_Emperor._Ming_Dyna
 Çin halk dinindeki göksel hükümdar; Tian'ın yüce yöneticisi olarak tasvir edilen Yu Huang Da Di.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Jade_Emperor._Ming_Dynasty.jpg/960px-Jade_Emperor._Ming_Dynasty.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Yeşim İmparator (Yuhuang) — Taoizmin 'göksel hükümdar'ı: 'insan dünyasının gök versiyonu' olarak 'bürokratik' figür; 'Pangu'yu yaratır ve 'gök düzeni' yönetir. 'Gök = devlet' olarak 'rütbe' figürü.

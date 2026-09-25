@@ -9,3 +9,7 @@ Anamelech is an obscure demon known as the bearer of ill news. He was worshipped
 ### Hüküm Alanları
 - Bearer of ill news
 - bad tidings
+
+### Arka Plan
+
+Anamelech, Sefarvaim'lerin Adramelech'in yanına konan ay/karanlık tanrısı: 'yoksul kral' okumasıyla bazı listelerde Adramelech'in dişi-ya da gölge figürü. 2 Krallar metninde tek satır; demonologlar onu 'kötü şans getiren' olarak sıralar. Sefarvaim çifti — ışık ve karanlık, gündüz ve gece — iki kralın aynası.

@@ -28,3 +28,7 @@
 - Trimurti
 
 -# Kaynaklar: https://www.britannica.com/topic/number-symbolism
+
+### Arka Plan
+
+Üç — 'oluşun dengesi': baba-anne-çocuk, başlangıç-orta-son, yaratıcı-koruyucu-yıkıcı (Trimurti), maddi-ruhsal-ilahi. Triquetra ve triskele Kelt üçlemi; 'üç kez' ritüel kalıbı (soru üç kez sorulur). Hegel'in 'tez-antitez-sentez'inden Mısır'ın Osiris-Isis-Horus'una 'üçlü tamamlanma' ilkesi.

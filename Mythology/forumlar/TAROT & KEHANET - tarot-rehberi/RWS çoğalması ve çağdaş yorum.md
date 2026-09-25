@@ -7,3 +7,7 @@ RWS çizgisi 20. yüzyılın ikinci yarısından itibaren Anglo-Amerikan tarot d
 -# Kaynaklar: https://tarot-heritage.com/history-4/the-rider-waite-smith-deck/
 
 ![gorsel](https://tarot-heritage.com/wp-content/uploads/2011/07/hist42.jpg?w=108)
+
+### Arka Plan
+
+RWS çoğalma — 'varyant' figürü: 'RWS' 'kopya' ve 'yorum' 'çoğalması'; 'çoğalma = yayılım' figürü.

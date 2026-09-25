@@ -12,3 +12,7 @@ Tarocchi 15. yüzyılda popüler bir trick-taking oyunuydu; fal ve okült yorum 
 - britannica-tarot
 - britannica-tarot-game
 - vam-article
+
+### Arka Plan
+
+Başlangıçtan şans — 'okült' iddiası: 'oyun'dan 'kehanet'e evrim; 'şans = sonradan' figürü.

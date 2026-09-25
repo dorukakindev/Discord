@@ -11,3 +11,7 @@ Bibliyomansinin en eski biçimlerinden biriyle ilişkilendirilir; bu eski biçim
 - Ağırlıklar
 - Tartı
 - Ölçüm değerleri
+
+### Arka Plan
+
+Zygomancy — 'terazi/baskül falcılığı': ağırlık ve denge değişimlerine göre 'evet/hayır' veya 'kötü/iyi' cevabı alma; 'zygos' (terazi) köküyle eski Helen-Roma aletli kehanetin parçası. 'Tartılan şüphe' olarak fizik-okuma kategorisinin mekanik üyesi.

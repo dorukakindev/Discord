@@ -20,3 +20,7 @@ Samael, Yahudi mistisizminde ölümü infaz eden melek ve şeytan figürüdür. 
 - İnsanları saptırma
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/8/85/Samael_%28Angel_of_Death%29_Personification.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Samael ('zehirli tanrı'), Yahudi demonolojisinde ölüm meleği ve 'Tanrı'nın sol eli': Talmud'da şehvet ve ölüm meleği; ağaç-kızı Lilith'in kocası. Şeytanlıkla meleklik arası — 'kötü için araç, iyinin sağlanması için bekçi'. Kabala'da 'sol kolon' figürü; Şofar'ın ölüm sesini veren melek olarak da okunur.

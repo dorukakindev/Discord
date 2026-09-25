@@ -8,3 +8,7 @@ Fravashi'nin koruyucu ruh, ön-varlık ve topluluk hafızası boyutlarını koru
 -# Kaynaklar: https://www.iranicaonline.org/articles/fravasi-
 
 ![gorsel](https://www.iranicaonline.org/wp-content/uploads/2025/03/iranica.jpg)
+
+### Arka Plan
+
+Iranica Fravashi — 'ruh' figürü: 'Iranica' 'Fravaši' 'ruh' 'figürü'; 'Fravashi = ruh' figürü.

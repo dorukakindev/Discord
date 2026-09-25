@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde talisimatik kategorisinin ayrı filtrelene
 - Nazar savma
 - Beden koruma
 - Çocuk koruma
+
+### Arka Plan
+
+Amuletler — 'taşınan koruma': materyal obje (taş, metal, yazı, kemik) olarak sihrin küçültülmüş halidir; göz, el, kalp, anahtar ve sözcük formları. 'Taşımak = giymek' ayrımı amuletlerin tanımıdır; kolye, bilezik, pazu. Yazılı amuletler 'metinle koruma' olarak dua yazılıdır — pasif ama sürekli koruma simgesi.

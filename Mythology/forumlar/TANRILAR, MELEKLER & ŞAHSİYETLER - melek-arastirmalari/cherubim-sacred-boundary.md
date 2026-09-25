@@ -13,3 +13,7 @@ Cherubim'in çekirdek metinsel rolü tombul bebek melek değil; kutsal sınır, 
 - je-cherubim
 - my-jewish-learning-cherubim
 -# Çapraz: Cherubim · Eden · Ahit Sandığı · Kutsal sınır
+
+### Arka Plan
+
+Cherubim-boundary — 'sınır' figürü: 'cherubim' 'sacred' 'boundary' 'sınır' 'figürü'; 'boundary = sınır' figürü.

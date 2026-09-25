@@ -8,3 +8,7 @@ Kısa tarih omurgası, trionfi, oyun/kehanet ayrımı ve genel kavram çerçeves
 ### Kaynak No
 - britannica-tarot
 - britannica-tarot-game
+
+### Arka Plan
+
+Ansiklopedi — 'referans' katmanı: 'WorldCat' ve 'Britannica' figürü; 'ansiklopedi = toplu' katmanı.

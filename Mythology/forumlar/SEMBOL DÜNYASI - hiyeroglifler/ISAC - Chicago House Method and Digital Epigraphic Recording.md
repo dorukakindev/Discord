@@ -7,3 +7,7 @@
 ![gorsel](https://isac.uchicago.edu/sites/default/files/styles/social_share/public/2026-08/Brett%2C-Jen%2C-Keli-at-Khonsu-2009.jpg?h=30c08e7f&itok=pWitUbSw)
 
 ![gorsel](https://isac.uchicago.edu/themes/custom/isactheme/assets/images/social-share.png)
+
+### Arka Plan
+
+Chicago House — 'metod' figürü: 'ISAC' 'Chicago House' 'dijital' 'epigrafi' 'metodu'; 'Chicago = metod' figürü.

@@ -10,3 +10,7 @@ Suit yoğunluğu ve komşu kart elementleri üzerinden hız, duygu, zihin ve kay
 ### Kaynak No
 - learntarot-cards
 - labyrinthos-meanings
+
+### Arka Plan
+
+Elemental dignities — 'komşu kart' dengesi: kartın 'element' komşusuyla 'güçlendirme/zayıflatma'; 'arkadaş-düşman' figürü.

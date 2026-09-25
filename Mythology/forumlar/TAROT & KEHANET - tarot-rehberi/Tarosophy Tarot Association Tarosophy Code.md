@@ -8,3 +8,7 @@ Profesyonel okuma, hizmet sınırı, yerel yasal koşullar ve şeffaflık notlar
 -# Kaynaklar: https://www.tarotassociation.net/tarosophy-code/
 
 ![gorsel](https://www.tarotassociation.net/wp-content/uploads/2017/05/Wands02.jpg)
+
+### Arka Plan
+
+Tarosophy Code — 'kod' figürü: 'Tarosophy' 'tarot' 'etik' 'kodu'; 'Tarosophy = standart' figürü.

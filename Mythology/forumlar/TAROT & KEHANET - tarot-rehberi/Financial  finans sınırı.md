@@ -4,3 +4,7 @@
 
 ### Kaynak No
 - itf-code-ethics
+
+### Arka Plan
+
+Finans sınırı — 'sınır' figürü: 'finans' 'tahmin' 'sınır' 'uyarısı'; 'finans = risk' pratiği.

@@ -9,3 +9,7 @@ Eşik, sıçrayış, düşüş ve geri dönüşü olmayan karar anıdır; bağla
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/White_Cliffs_of_Dover_02.JPG/960px-White_Cliffs_of_Dover_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Uçurum kenarı — Fool kartının 'risk' sembolü: 'bilinmezlik' ve 'düşme olasılığı' figürü; 'uçurum = başlangıç' olarak 'bilinçsiz cesaret' ve 'saf adım' ikilisi.

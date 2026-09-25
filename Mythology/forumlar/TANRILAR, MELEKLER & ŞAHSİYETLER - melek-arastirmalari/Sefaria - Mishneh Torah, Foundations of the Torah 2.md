@@ -8,3 +8,7 @@ Maimonides'in on melek rütbesi listesini, Hayyot-Ophanim-Erelim-Hashmallim gibi
 -# Kaynaklar: https://www.sefaria.org/Mishneh_Torah%2C_Foundations_of_the_Torah.2?lang=en
 
 ![gorsel](https://www.sefaria.org/api/img-gen/Mishneh_Torah,_Foundations_of_the_Torah.2?lang=en&platform=twitter&ven=&vhe=)
+
+### Arka Plan
+
+Sefaria Mishneh — 'temel' figürü: 'Sefaria' 'Mishneh' 'temel' 'Tora' 'metni'; 'Mishneh = temel' figürü.

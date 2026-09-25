@@ -7,3 +7,7 @@ Kayıp, hatıra ve yumuşak bağla iyileşmeye döner; yas geçmişin sadece ac�
 ### Cards
 - five-of-cups
 - six-of-cups
+
+### Arka Plan
+
+Kupaların Beşlisi + Kupaların Altılısı — 'yas + hatıra' ikilisi: beş kupanın 'dökülen' figürü (üç dökülmüş, iki duran) ile altı kupanın 'geçmiş' — 'kayıp ve hatırlama' kombinasyonu; 'döküleni gör, duranı da gör' önermesi.

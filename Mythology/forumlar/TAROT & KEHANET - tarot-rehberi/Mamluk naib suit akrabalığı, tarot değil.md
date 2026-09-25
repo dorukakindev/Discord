@@ -7,3 +7,7 @@ World of Playing Cards, Mamluk kartlarını erken Arap oyun kartları arasında 
 ### Kaynak No
 - wopc-mamluk-cards
 - met-suits-decks
+
+### Arka Plan
+
+Mamluk — 'akrabalık' figürü: 'naib' 'suit' 'akraba' ama 'tarot' değil; 'Mamluk = akraba' figürü.

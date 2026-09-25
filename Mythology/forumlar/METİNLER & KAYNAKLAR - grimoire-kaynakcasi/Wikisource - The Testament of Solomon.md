@@ -9,3 +9,7 @@ Testament kaydı için çevrimiçi metin erişimi sağlamak amacıyla kullanıld
 
 -# Kaynaklar: https://en.wikisource.org/wiki/Testament_of_Solomon
 -# Çapraz: testament-of-solomon
+
+### Arka Plan
+
+Testament of Solomon — 1-3. yy. Hristiyan-Yahudi metni: 'Süleyman'ın yüzüğüyle demonları sorgulama kataloğu' — her demon kendi ismini, işlevini ve 'nasıl kovulduğunu' söyler; 'Beelzebul' lideri. 'İlk demon-katalog' — 'ismini bilen kontrol eder' kalıbının başlangıcı.

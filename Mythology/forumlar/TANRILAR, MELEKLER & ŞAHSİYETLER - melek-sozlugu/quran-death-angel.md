@@ -8,3 +8,7 @@ Kur'an 32:11: Malak al-Mawt
 - quran-32-11
 - britannica-azrael
 -# Çapraz: Malak al-Mawt · Azrael · Ölüm · Berzah
+
+### Arka Plan
+
+Kur'an-ölüm — 'ölüm' figürü: 'Kur'an' 'ölüm' 'meleği' 'figürü'; 'ölüm = rol' figürü.

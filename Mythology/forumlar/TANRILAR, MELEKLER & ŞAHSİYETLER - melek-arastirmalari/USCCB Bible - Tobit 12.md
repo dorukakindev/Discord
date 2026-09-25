@@ -10,3 +10,7 @@ Raphael'in şifa, yolculuk rehberliği ve Tanrı huzurunda duran yedi melek fikr
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Tobit 12 — 'yolculuk' figürü: 'Tobit' '12' 'Rafael' 'yolculuk' 'ayeti'; 'Tobit = yolculuk' figürü.

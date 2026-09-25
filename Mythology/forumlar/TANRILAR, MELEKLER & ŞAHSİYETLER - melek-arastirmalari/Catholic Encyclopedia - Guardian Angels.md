@@ -6,3 +6,7 @@
 Koruyucu melek öğretisinin Katolik teolojideki sınırlarını ve kişisel koruma fikrinin tarihini ayırmak için kullanıldı.
 
 -# Kaynaklar: https://www.newadvent.org/cathen/07049c.htm
+
+### Arka Plan
+
+Catholic Guardian — 'koruyucu' figürü: 'Catholic' 'koruyucu' 'melek' 'doktrin' 'makalesi'; 'guardian = koruyucu' figürü.

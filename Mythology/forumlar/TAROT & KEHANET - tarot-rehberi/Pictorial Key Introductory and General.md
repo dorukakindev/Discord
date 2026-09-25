@@ -6,3 +6,7 @@
 Kanıtsız antik köken iddialarına güven notu ekle.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/pkt0101.htm
+
+### Arka Plan
+
+Introductory — 'giriş' figürü: 'Pictorial Key' 'giriş' 'genel' 'bölümü'; 'intro = başlangıç' figürü.

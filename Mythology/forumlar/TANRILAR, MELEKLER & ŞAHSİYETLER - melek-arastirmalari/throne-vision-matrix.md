@@ -8,3 +8,7 @@
 - quran-40-7
 - iranica-amesha-spenta
 - esoteric-archives-agrippa
+
+### Arka Plan
+
+Throne-matrix — 'taht' figürü: 'throne' 'vision' 'melek' 'taht' 'matrisi'; 'throne = taht' figürü.

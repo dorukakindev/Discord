@@ -9,3 +9,7 @@ AI her kart için "pozisyon görevi + kart kanıtı + davranış sonucu" sıras�
 - sacred-texts-pkt-celtic
 - learntarot-course
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Pozisyon önceliği — 'yer' 'anlam'dan önce: 'pozisyon' kartın 'anlamını' belirler; 'yer = bağlam' doktrini.

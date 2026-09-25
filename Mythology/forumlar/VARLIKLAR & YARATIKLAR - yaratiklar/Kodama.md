@@ -18,3 +18,7 @@ Bu varlık, spirit kategorisinin ayrı filtrelenebilmesi için ansiklopediye ekl
 - Uğursuzluk işareti
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/0/0f/SekienKodama.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Kodama, Japon ağaç ruhu: ağacın 'yankı'sı (kodama aslında 'yankı' demek); ağaç kesilirse ruh intikam alır — tororo-patatesi ile yatıştırılır. Princess Mononoke'nin beyaz başı sallayan figürleriyle popülerleşti. Kami kategorisinin 'inceden kişisel' hali: ormanın görgü bekçisi.

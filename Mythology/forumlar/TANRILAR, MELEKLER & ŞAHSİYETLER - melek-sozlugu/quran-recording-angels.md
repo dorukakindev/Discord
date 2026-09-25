@@ -9,3 +9,7 @@ Kur'an 50:17-18 ve 82:10-12: Kayıt melekleri
 - quran-82-10-12
 - saet-islam-angels
 -# Çapraz: Kiraman Katibin · Raqib · Atid · Hesap
+
+### Arka Plan
+
+Kur'an-yazan — 'yazan' figürü: 'Kur'an' 'yazan' 'melek' 'figürü'; 'yazan = kayıt' figürü.

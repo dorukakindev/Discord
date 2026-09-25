@@ -5,3 +5,7 @@
 ### Kaynak No
 - TLA text corpus
 - Met Stela of Nakht
+
+### Arka Plan
+
+Imakhu — 'saygı' figürü: 'jmꜣḫw' 'saygı' 'durum' 'figürü'; 'imakhu = saygı' figürü.

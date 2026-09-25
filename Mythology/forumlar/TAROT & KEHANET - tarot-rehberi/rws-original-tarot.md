@@ -12,3 +12,7 @@ RWS modern tarotun en etkili görsel standartlarından biridir, fakat Visconti-S
 - pinacoteca-sola-busca
 - yale-visconti
 - vam-article
+
+### Arka Plan
+
+RWS-original — 'orijinal' figürü: 'RWS' 'orijinal' 'deste' 'uyarısı'; 'original = ilk' figürü.

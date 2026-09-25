@@ -7,3 +7,7 @@ Bereket, bakım ve maddi güven duygusu birleşir; üretim bedene ve eve kök sa
 ### Cards
 - empress
 - queen-of-pentacles
+
+### Arka Plan
+
+İmparatoriçe + Tılsımların Kraliçesi — 'bereket + işlevsellik' ikilisi: kraliçenin 'tılsım tutma' figürüyle İmparatoriçe'nin 'doğa' — 'üret ve besle' en güçlü 'bolluk' kombinasyonu; 'madde + annelik' figürü.

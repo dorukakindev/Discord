@@ -10,3 +10,7 @@ Koruyucu/intercessor melek fikrinin Hristiyan metin zeminini Matthew 18:10 notuy
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Matthew 18 — 'küçük' figürü: 'Matthew' '18' 'küçük' 'melek' 'ayeti'; 'Matthew = küçük' figürü.

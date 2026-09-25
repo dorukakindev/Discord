@@ -14,3 +14,7 @@ Goetia, Solomon'un 72 ruhunu çağırma, bağlama ve görev verme sanatıdır. T
 - Mühür
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/2/2a/Goetia2.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Goetia — 'aşağı sihir': 72 ruhun çağrıldığı operasyonel pratiği; 'kötü ruh çağırma' olarak 'demonic magic' terimi. 'Süleyman'ın 72'si' olarak 'sözleşme' mantığı — 'isim + sigil + talimat' üçlüsü.

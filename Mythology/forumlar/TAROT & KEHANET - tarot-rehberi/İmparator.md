@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/02-08-2014-Emperor_at_W
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/02-08-2014-Emperor_at_Wacken_Open_Air_2014-JonasR_03.jpg/960px-02-08-2014-Emperor_at_Wacken_Open_Air_2014-JonasR_03.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+İmparator (The Emperor) — IV numaralı kart: tahtta oturan koç-başlı taçlı figür; 'otorite', 'yapı' ve 'babalık'; 'sarp kayalık' arka plan — 'sert ama gerekli' figür. 'Düzen' kartı olarak 'hukuk' figürü.

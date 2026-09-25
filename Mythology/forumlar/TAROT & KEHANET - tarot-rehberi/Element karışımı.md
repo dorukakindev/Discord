@@ -3,3 +3,7 @@
 > **Tetikleyici:** elementCount >= 2 · **Soru:** Elementleri birlikte oku: ateş-su duygu/eylem gerilimi, hava-toprak fikir/gerçeklik testi, ateş-hava hızlanma, su-toprak beslenme verir.
 
 Elementler birbirini besleyebilir, yavaşlatabilir veya gerilim yaratabilir; karışım okumanın ritmini belirler.
+
+### Arka Plan
+
+Element karışımı — 'komşu kart' etkisi: 'ateş + hava' uyumlu, 'su + toprak' uyumlu, 'ateş + su' çatışmalı; 'dignity' olarak 'komşu gücü' figürü.

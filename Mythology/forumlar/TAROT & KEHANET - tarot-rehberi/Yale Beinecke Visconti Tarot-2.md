@@ -6,3 +6,7 @@
 Erken kartların hayatta kalan maddi kanıtı, altın/gümüşlü Rönesans portre dili ve kart koleksiyon tarihi için kullanılır.
 
 -# Kaynaklar: https://beinecke.library.yale.edu/collections/highlights/visconti-tarot
+
+### Arka Plan
+
+Yale Visconti-2 — 'saray' figürü: 'Yale' 'Beinecke' 'Visconti' 'ikinci' 'destesi'; 'Yale = köken' figürü.

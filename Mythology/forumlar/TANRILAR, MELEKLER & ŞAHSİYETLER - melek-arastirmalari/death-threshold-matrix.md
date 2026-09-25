@@ -8,3 +8,7 @@
 - usccb-tobit-12
 - iranica-sraosha
 - iranica-daena
+
+### Arka Plan
+
+Death-threshold — 'eşik' figürü: 'death' 'threshold' 'melek' 'eşik' 'matrisi'; 'threshold = eşik' figürü.

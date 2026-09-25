@@ -23,3 +23,7 @@ Raqib ve Atid adları, Kur'an 50:17-18 ve kayıt melekleri geleneğiyle ilişkil
 - Quran.com 50:17-18
 - Quran.com 82:10-12
 - St Andrews Encyclopaedia of Theology: Angels
+
+### Arka Plan
+
+Raqib-Atid — 'yazan' 'melek' 'yakın' 'gelecek' 'figürü'; 'Raqib = yazan' figürü.

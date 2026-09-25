@@ -18,3 +18,7 @@ Bu varlık, dev kategorisinin ayrı filtrelenebilmesi için ansiklopediye eklene
 - Demircilik veya vahşilik
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/c/cb/Head_of_a_Cyclops_Colosseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Cyclops (Tek Göz), Hesiodos'ta Uranos'un çocukları Brontes-Steropes-Arges — Zeus'a yıldırım yapan dev-demirciler. Homer'de Polyphemos ayrı soydur: Poseidon'un oğlu, koyun çobanı, Odysseus'un 'hiç kimse' oyunuyla kör edilen figür. Tek göz 'tek açıdan gören' okunur — 'varlığın daralması'. Dağ ocakları ve volkan türküleriyle bağlantılı; Etna'nın içi onların demirhanesi.

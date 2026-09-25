@@ -8,3 +8,7 @@ Sraosha'nın itaat, dinleme, koruma ve gece bekçiliği motiflerini Yazata ailes
 -# Kaynaklar: https://www.iranicaonline.org/articles/sraosa
 
 ![gorsel](https://www.iranicaonline.org/wp-content/uploads/2025/03/iranica.jpg)
+
+### Arka Plan
+
+Iranica Sraosha — 'itaat' figürü: 'Iranica' 'Sraoša' 'itaat' 'figürü'; 'Sraosha = itaat' figürü.

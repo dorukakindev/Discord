@@ -9,3 +9,7 @@ Yorum sonunda üç satırlık kapanış yapılır: ana tema, dikkat edilmesi ger
 - worldcat-holistic-tarot
 - learntarot-course
 - itf-code-ethics
+
+### Arka Plan
+
+İkinci geçiş — 'sentez' figürü: 'ikinci' 'geçiş' 'sentez' 'kapanış' 'pratiği'; 'geçiş = sentez' figürü.

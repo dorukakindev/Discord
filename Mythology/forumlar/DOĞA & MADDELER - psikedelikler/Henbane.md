@@ -8,3 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/4/4f/Hyoscyamus_niger_-_K%C3%B6hl
 Tropan alkaloitli klasik büyücü bitkisi; antik çağdan beri kehanet ve zehir olarak bilinir. Tehlikeli ve öngörülemez bir deliriant.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/4/4f/Hyoscyamus_niger_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-073.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Henbane (Hyoscyamus niger) — 'banotu': Avrupa 'cadı' bitkisi — tropan alkaloid (skopolamin, hiyosiyamin) ile 'deliryant' sınıf; 'flying ointment' (uçan merhem) geleneğinin ana bileşeni.

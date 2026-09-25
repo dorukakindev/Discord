@@ -3,3 +3,7 @@
 > **Tetikleyici:** sameNumberCount >= 2 · **Soru:** Tekrarlanan sayının dersini açıkla; örneğin iki karar/dengedir, beş çatışma/sınavdır, on tamamlanma/yük boşaltmadır.
 
 Aynı sayı tekrarlandığında suitler değişse bile aynı gelişim aşaması farklı alanlarda tekrarlanır.
+
+### Arka Plan
+
+Sayı yankısı — 'tekrar' figürü: 'aynı sayı' 'yankı' olarak 'güçlendirme'; 'tekrar = işaret' doktrini.

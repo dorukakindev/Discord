@@ -6,3 +6,7 @@
 Lenormandı tarotun küçük versiyonu değil, ayrı kartomansi grameri olarak ayır.
 
 -# Kaynaklar: https://www.horniman.ac.uk/object/1970.18/
+
+### Arka Plan
+
+Lenormand 36 — 'küçük' figürü: '36 kart' 'Fransız' destesi; 'küçük = ayrı' figürü.

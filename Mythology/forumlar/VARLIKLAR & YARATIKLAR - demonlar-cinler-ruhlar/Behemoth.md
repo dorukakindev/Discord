@@ -14,3 +14,7 @@ Behemoth, kutsal metinlerde Tanri'nin kudretini gostermek icin anilan devasa bir
 - Kaos
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ill_dict_infernal_p0100-86_behemoth.jpg/960px-Ill_dict_infernal_p0100-86_behemoth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Behemoth, Eyüp 40'ta Nil'in dev su aygırı/fil-benzeri 'ilkel güç' figürü: 'kemikleri demir çubuklar gibi' — Leviathan'ın kara eşi. Yahudi ağız geleneğinde Cennet'in marjında yaşar; son günde ikisi de kesilip kutsal ziyafet olur. 'İnsanın ehlileştiremediği güç' arketipi; Hobbes'ta 'toprak-yönetim' simgesi olarak Leviathan'la çift.

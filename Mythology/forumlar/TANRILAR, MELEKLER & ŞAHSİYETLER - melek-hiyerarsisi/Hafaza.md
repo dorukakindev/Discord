@@ -8,3 +8,7 @@
 - Çember
 - Gözetim
 -# Çapraz: Mu'aqqibat
+
+### Arka Plan
+
+Hafaza — 'koruyucu' 'melek' 'nöbet' 'figürü'; 'hafaza = koruyucu' figürü.

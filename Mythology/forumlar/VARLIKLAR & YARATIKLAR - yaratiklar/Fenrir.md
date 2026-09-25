@@ -20,3 +20,7 @@ Fenrir (ya da Fenrisúlfr), Hilebaz Loki ile dev Angrboða'nın oğludur; Jörmu
 -# Çapraz: Loki · Odin · Tyr · Jörmungandr · Hel · Gleipnir
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tullstorpstenen%2C_DR_271%2CTullstorp_1-1%2C_Runristning_%28cropped%29.jpg/960px-Tullstorpstenen%2C_DR_271%2CTullstorp_1-1%2C_Runristning_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Fenrir (Fenrisúlfr), Loki'nin Angrboða'dan doğan dev kurdudur: zincirler (Gleipnir — sihirli ince bağ) onu bağlar; Týr elini dişlerinin arasına koyar ve kurtarılır ama el gider. Ragnarök'te zincir kırılır, Fenrir Odin'i yutar; Víðarr ağzını kafatasıyla yırtarak öç alır. 'Kontrol edilemez özgür irade' — tanrıların bile zincirlediği ama zincirin ancak tek seferlik olduğu figür.

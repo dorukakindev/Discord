@@ -9,3 +9,7 @@ Kullanıcı RWS görseliyle çalışıyorsa sahne kanıtı ekle; Marseille ya da
 - ipcs-marseille-type1
 - vam-article
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Pip-sahne ayrımı — 'sayı' vs 'sahne': 'Marseille' (sayı) ve 'RWS' (sahne) ikilisi; 'görsel = anlam' paradoksu.

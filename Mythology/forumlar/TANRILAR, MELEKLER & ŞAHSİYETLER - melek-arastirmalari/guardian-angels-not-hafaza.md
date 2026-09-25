@@ -13,3 +13,7 @@ Guardian angels, Hafaza/Mu'aqqibat ve Fravashi benzer koruma temaları taşır; 
 - quran-13-11
 - iranica-fravashi
 -# Çapraz: Guardian angels · Hafaza · Mu'aqqibat · Fravashi
+
+### Arka Plan
+
+Guardian-hafaza — 'koruyucu' figürü: 'guardian' 'hafaza' 'farklı' 'koruyucu' 'figürü'; 'hafaza = İslam' figürü.

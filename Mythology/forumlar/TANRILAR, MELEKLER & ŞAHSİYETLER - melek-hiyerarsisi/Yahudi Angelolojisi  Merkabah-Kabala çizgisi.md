@@ -16,3 +16,7 @@ Yahudi angelolojisi tek ve kapalı bir dogmatik şema değil, metin dönemlerine
 
 ### Yapı
 Erken metinlerde malakh Tanrı'nın habercisi anlamına gelir. Hezekiel ve İşaya vizyonlarında Cherubim, Seraphim, Ophanim ve Hayyot gibi taht çevresi varlıkları belirginleşir. Ortaçağ ve Kabala geleneğinde bunlar onlu ya da çok katmanlı listelere dönüştürülür.
+
+### Arka Plan
+
+Yahudi-Kabala — 'mistik' figürü: 'Yahudi' 'Merkabah' 'Kabala' 'mistik' 'çizgi'; 'Kabala = mistik' figürü.

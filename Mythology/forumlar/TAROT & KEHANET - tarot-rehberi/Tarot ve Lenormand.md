@@ -6,3 +6,7 @@
 - britishmuseum-lenormand-36
 - horniman-lenormand
 - britannica-tarot
+
+### Arka Plan
+
+Tarot-Lenormand — 'ayrım' figürü: 'tarot' '78' 'Lenormand' '36' 'ayrı' 'sistem'; 'ayrım = sınır' figürü.

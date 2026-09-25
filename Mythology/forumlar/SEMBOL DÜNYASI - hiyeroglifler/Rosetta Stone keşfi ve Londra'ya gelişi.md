@@ -5,3 +5,7 @@
 ### Kaynak No
 - British Museum Rosetta
 - British Museum Explore Rosetta
+
+### Arka Plan
+
+Rosetta keşif — 'yolculuk' figürü: '1799' 'buluş' '1802' 'Londra' 'varışı'; 'yolculuk = buluş' figürü.

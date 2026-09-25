@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL determinatives
 - TLA lemma lists
+
+### Arka Plan
+
+Road-place — 'yol' figürü: 'road' 'place' 'yol' 'yer' 'figürü'; 'road = yol' figürü.

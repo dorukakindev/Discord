@@ -7,3 +7,7 @@ Ani yıkımın ardından gelen arınma ve umut. Yapı kırılır ama gökyüzü 
 ### Cards
 - tower
 - star
+
+### Arka Plan
+
+Kule + Yıldız — 'çöküş + umut' ikilisi: Yıldız'ın 'sulayan' figürüyle Kule'nin 'yıldırım' — 'yıkımdan sonra şifa' en güçlü 'geçiş' kombinasyonu; 'yıkıntıdan yıldız doğar' önermesi.

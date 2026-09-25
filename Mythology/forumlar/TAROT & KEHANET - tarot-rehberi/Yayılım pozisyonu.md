@@ -5,3 +5,7 @@
 Kart anlamı pozisyonla birlikte değişir; aynı kart geçmişte sebep, engelde direnç, sonuçta olasılık olarak çalışabilir.
 
 -# Kaynaklar: https://www.learntarot.com/cards.htm
+
+### Arka Plan
+
+Yayılım pozisyonu — 'yer' figürü: 'pozisyon' 'anlam' olarak 'yer' pratiği.

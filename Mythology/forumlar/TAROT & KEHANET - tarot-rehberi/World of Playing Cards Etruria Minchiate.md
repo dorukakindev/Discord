@@ -8,3 +8,7 @@ Minchiateyi RWS ya da Marseille ile karıştırmadan genişletilmiş alegorik ta
 -# Kaynaklar: https://www.wopc.co.uk/italy/minchiate/etruria-minchiate
 
 ![gorsel](https://www.wopc.co.uk/images/countries/italy/etruria-minchiate-stamp.jpg)
+
+### Arka Plan
+
+Etruria Minchiate — 'geniş' figürü: 'Etruria' 'Minchiate' 'destesi'; 'Etruria = geniş' figürü.

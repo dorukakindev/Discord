@@ -27,3 +27,7 @@ Metatron, Hekhalot ve Kabala katmanlarında en yüksek meleklerden biri olarak �
 - Jewish Encyclopedia: Angelology
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/a/ad/MetatronInIslamicArts.jpg/revision/latest?cb=20250531221757)
+
+### Arka Plan
+
+Metatron — 'yüz' 'melek' 'gizli' 'bilgi' 'figürü'; 'Metatron = yüz' figürü.

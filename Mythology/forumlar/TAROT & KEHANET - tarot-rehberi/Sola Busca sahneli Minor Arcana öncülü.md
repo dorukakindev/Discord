@@ -14,3 +14,7 @@ Sola Busca, tam 78 kartlık ve sahneli Minor Arcana açısından RWSden çok ön
 - public-domain-review-sola-busca
 - pinacoteca-sola-busca
 - britishmuseum-sola-busca
+
+### Arka Plan
+
+Sola Busca — 'sahne' figürü: 'sahneli Minor' 'ilk' 'destesi'; 'Sola Busca = ilk' figürü.

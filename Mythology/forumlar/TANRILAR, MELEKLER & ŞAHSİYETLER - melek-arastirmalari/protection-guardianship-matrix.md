@@ -8,3 +8,7 @@
 - quran-13-11
 - iranica-fravashi
 - esoteric-archives-agrippa-book3
+
+### Arka Plan
+
+Protection-matrix — 'koruma' figürü: 'protection' 'guardianship' 'melek' 'koruma' 'matrisi'; 'protection = koruma' figürü.

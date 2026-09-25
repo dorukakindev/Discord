@@ -7,3 +7,7 @@
 -# Kaynaklar: https://tarostarot.com/tarot-card-combinations
 
 ![gorsel](https://tarostarot.com/images/og/og-default.jpg)
+
+### Arka Plan
+
+Kart kombinasyonu — 'ikili' okuma: 'ana kart + yardımcı' figürü; 'sentez' olarak 'üçüncü anlam' pratiği.

@@ -9,3 +9,7 @@ Sefer Raziel'in sadece efsanevi bir başlık değil, somut el yazması dolaşım
 
 -# Kaynaklar: https://openn.library.upenn.edu/Data/0002/html/mscodex1674.html
 -# Çapraz: sefer-raziel-hamalakh · shams-al-maarif
+
+### Arka Plan
+
+UPenn OPenn'de Ms. Codex 1674 — 'Raziel meleğinin kitabı' İbrani nüsha; 'sır meleği'nin 'yaratıcı öğreti'si — 'Semifor' ve 'yaratım harfleri'. 'Gizli bilgelik' olarak 'yaratıcı kitap' sınıfı.

@@ -29,3 +29,7 @@ KART YORUMU YAPMA. Bunun yerine sıcak, yargısız, kısa bir destek mesajı ver
 - itf-code-ethics
 - tarosophy-code
 - tabi-aims-ethics
+
+### Arka Plan
+
+Kriz-intihar — 'kriz' figürü: 'kendine zarar' 'intihar' 'risk' 'yönlendirme'; 'kriz = acil' pratiği.

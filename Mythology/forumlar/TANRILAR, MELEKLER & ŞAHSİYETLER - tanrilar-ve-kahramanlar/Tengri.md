@@ -35,3 +35,7 @@ Tengri somut bir kişilik değil; göğün kendisi ve evrensel düzenin kaynağ�
 - Erlik'le Dengesinin Korunması
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Orkhon.svg/960px-Orkhon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Tengri — Türk-Moğol 'gök' tanrısı: 'gök' (tanrı) ve 'kutsal' ikilisi; 'kut' (göksel onay) doktriniyle 'hakan = gökten' meşruiyet. 'Gök = düzen' olarak 'göçebe' siyasi teolojisi.

@@ -15,3 +15,7 @@ Saflık/gölge, irade/sükunet, dünyevi/ruhsal gibi ikilikleri taşır; yorumda
 - tarot-heritage-rws
 - sacred-texts-pkt-index
 - worldcat-place-tarot
+
+### Arka Plan
+
+Renk-zıtlık — 'görsel' figürü: 'renk' 'anlam' 'zıtlık' 'denge' ikilisi; 'renk = duygu' pratiği.

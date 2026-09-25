@@ -6,3 +6,7 @@
 Tarihsel imge ile çağdaş yeniden yorum arasını bağla.
 
 -# Kaynaklar: https://www.themorgan.org/exhibitions/tarot
+
+### Arka Plan
+
+Morgan Tarot — 'sergi' figürü: 'Rönesans' 'modern' 'sergisi'; 'Morgan = sergi' figürü.

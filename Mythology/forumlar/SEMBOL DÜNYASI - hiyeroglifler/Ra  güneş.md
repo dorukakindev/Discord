@@ -8,3 +8,7 @@ Güneş diski hem tanrı adı hem gün/güneş alanıyla çalışır; sꜣ-Rꜥ 
 ### Kaynak No
 - UCL ideograms
 - PharaLex sign functions
+
+### Arka Plan
+
+Ra — 'güneş' figürü: 'güneş diski' (N5 'ra') ve 'tanrı' determinatifi; 'Ra = ışık' olarak 'gök' figürü.

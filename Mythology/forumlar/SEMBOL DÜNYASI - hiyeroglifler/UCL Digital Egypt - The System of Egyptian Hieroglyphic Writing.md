@@ -3,3 +3,7 @@
 > **Tür:** university · **Odak:** Fonogram, determinatif, ideogram ve sesli harf yazılmaması
 
 -# Kaynaklar: https://www.ucl.ac.uk/museums-static/digitalegypt/writing/system.html
+
+### Arka Plan
+
+UCL System — 'sistem' figürü: 'UCL' 'hiyeroglif' 'sistem' 'rehberi'; 'system = yapı' figürü.

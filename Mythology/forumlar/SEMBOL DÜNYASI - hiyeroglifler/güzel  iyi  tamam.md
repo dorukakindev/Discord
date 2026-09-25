@@ -8,3 +8,7 @@
 ### Kaynak No
 - TLA lemma lists
 - UCL system
+
+### Arka Plan
+
+Nefer — 'güzel' figürü: 'nefer' (F35 'nfr') 'güzel' 'iyi' 'tamam' 'anlamı'; 'nefer = güzel' figürü.

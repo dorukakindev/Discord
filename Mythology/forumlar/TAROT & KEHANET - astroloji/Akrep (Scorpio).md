@@ -8,3 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Antique_Konya_Kilim_detail.j
 Scorpio is represented here as a tropical zodiac archive record. Calculator logic in js/panels/astroloji.js uses the same boundary dates for sun-sign checks and Whole Sign house assignment.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/d/d4/Antique_Konya_Kilim_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Akrep, su elementinin sabit burcu; geleneksel yöneticisi Mars, modern yöneticisi Plüton. Orion'u sokan dev akrep miti (Artemis/Gaia'nın öç aracı) ve kartal-yılan dönüşümüyle bağlanır. Kriz, ölüm-yeniden doğuş, paylaşılan kaynak, cinsellik ve görünenin altı; 'dönüşüm' arketipi. Üç evresi vardır: akrep (instingt), kartal (vizyon), anka (diriliş). Gölgesi: kontrol, kıskançlık, sır-saplanma.

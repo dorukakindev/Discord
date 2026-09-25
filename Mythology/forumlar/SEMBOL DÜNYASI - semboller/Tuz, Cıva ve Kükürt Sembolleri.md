@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde alkimik kategorisinin ayrı filtrelenebilm
 - Madde analizi
 - Ruhsal alegori
 - Alkimik diyagram
+
+### Arka Plan
+
+Tria prima — Paracelsus'un üç simya prensibi: Kükürt (sülfür — 'ruh/yakılabilirlik'), Cıva (merkur — 'hayat/akışkanlık'), Tuz ('beden/kalıcı form'). 'Üçlü madde' teorisi — her şey bu üçün dengesi; 'beden-ruh-zihin' veya 'tuz-cıva-kükürt' olarak insana da uyarlanır. Simyanın 'öğeler kuramı' — ruhlar aleminin 'element tablosu'.

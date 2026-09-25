@@ -6,3 +6,7 @@
 Golden Dawn, Crowley, Dion Fortune ve 20. yüzyıl ekolleri için bibliyografya.
 
 -# Kaynaklar: https://search.worldcat.org/title/A-history-of-the-occult-tarot-1870-1970/oclc/855350623
+
+### Arka Plan
+
+Occult Tarot — 'tarih' figürü: 'okült' 'tarot' 'tarihi'; 'occult = gizli' figürü.

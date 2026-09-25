@@ -4,3 +4,7 @@
 
 ### Not
 Coğrafi adlarda determinatif ve ideogram olarak güçlü bir yerleşim göstergesidir.
+
+### Arka Plan
+
+Kent — 'yerleşim' figürü: 'kent' 'niwt' 'yerleşim' 'figürü'; 'kent = yerleşim' figürü.

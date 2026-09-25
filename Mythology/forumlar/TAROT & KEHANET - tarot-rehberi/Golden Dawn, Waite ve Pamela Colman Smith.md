@@ -7,3 +7,7 @@ Hermetic Order of the Golden Dawn ortamı Waite ve Smithin aynı sembolik dilde 
 -# Kaynaklar: https://tarot-heritage.com/history-4/the-rider-waite-smith-deck/
 
 ![gorsel](https://tarot-heritage.com/wp-content/uploads/2011/07/hist42.jpg?w=108)
+
+### Arka Plan
+
+Golden Dawn — 'sistem' figürü: 'Waite' ve 'Smith' 'ortak' çalışması; 'GD = sistem' figürü.

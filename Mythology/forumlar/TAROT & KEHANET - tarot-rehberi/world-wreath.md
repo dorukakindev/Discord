@@ -5,3 +5,7 @@
 Tamamlanmış döngü, bütünleşme ve sınırın kapıya dönüşmesidir; başarı yalnız sonuç değil ritüel kapanıştır.
 
 -# Kaynaklar: https://www.britannica.com/topic/tarot
+
+### Arka Plan
+
+Dünya çelengi — 'döngü tamamlanması': 'wreath' olarak 'kapanan daire'; 'son = başlangıç' figürü.

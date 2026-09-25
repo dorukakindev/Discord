@@ -9,3 +9,7 @@ https://upload.wikimedia.org/wikipedia/commons/f/ff/Flickr_-_Nic%27s_events_-_Br
 - Book of the Dead context
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/f/ff/Flickr_-_Nic%27s_events_-_British_Museum_with_Cory_and_Mary%2C_6_Sep_2007_-_152.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Maat-kheru — 'doğru' figürü: 'mꜣꜥ-ḫrw' 'doğru' 'ses' 'figürü'; 'maat-kheru = doğru' figürü.

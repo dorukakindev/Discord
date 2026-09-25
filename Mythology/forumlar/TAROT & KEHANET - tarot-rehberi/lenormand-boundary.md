@@ -10,3 +10,7 @@ Kullanıcı Lenormand, oracle veya kartomansi sorarsa tarotla karıştırmadan s
 ### Kaynak No
 - britishmuseum-lenormand-36
 - britishmuseum-lenormand
+
+### Arka Plan
+
+Lenormand sınırı — '36 kart' vs '78 kart': 'ayrı sistem' olarak 'kendi dili' figürü.

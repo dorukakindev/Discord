@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mandragoras_454_Dodoens
 İnsan biçimli kökü efsaneleşen tropan alkaloitli bitki. Hem uyuşturucu hem zehir; kontrolsüz kullanımı tehlikelidir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mandragoras_454_Dodoens_1583.png/960px-Mandragoras_454_Dodoens_1583.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Mandrake (Mandragora) — 'adamotu': 'insan şekilli' kökün 'çığlık atarak öldürdüğü' miti; 'köpek' ile çıkarma ritüeli; 'aşk-ölüm' ikilisiyle 'sihirli kök' figürü. Tropan alkaloidli 'deliryant' sınıf.

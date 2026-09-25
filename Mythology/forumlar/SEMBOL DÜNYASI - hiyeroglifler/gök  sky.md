@@ -8,3 +8,7 @@ Gök işareti kozmolojik sahnelerde ve tanrı ikonografisinde önemlidir.
 ### Kaynak No
 - UCL ideograms
 - UAX #57 current
+
+### Arka Plan
+
+Gök — 'sky' figürü: 'gök' 'pet' 'gökyüzü' 'figürü'; 'gök = yukarı' figürü.

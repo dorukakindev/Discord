@@ -8,3 +8,7 @@
 - quran-82-10-12
 - iranica-mithra
 - iranica-rasn
+
+### Arka Plan
+
+Judgment-matrix — 'yargı' figürü: 'judgment' 'justice' 'melek' 'yargı' 'matrisi'; 'judgment = yargı' figürü.

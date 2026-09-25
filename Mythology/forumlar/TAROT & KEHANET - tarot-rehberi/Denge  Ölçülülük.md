@@ -7,3 +7,7 @@
 - sacred-texts-pkt-major
 - worldcat-pollack-78
 - worldcat-greer-self
+
+### Arka Plan
+
+Denge (Temperance) — XIV numaralı kart: iki kupa arasında su döken melek figürü; 'ılımlılık', 'simya' ve 'orta yol'; 'temperantia' (karıştırma) — şarabı suyla karıştırma eylemi. Marseille'de 'la temperance' — erdem kartı; 'suyun akışı' olarak 'uyum' figürü.

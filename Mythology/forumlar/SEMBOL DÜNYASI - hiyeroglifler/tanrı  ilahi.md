@@ -8,3 +8,7 @@ Tanrı adları ve kutsal epitetlerde temel kelimedir; determinatiflerle birleşe
 ### Kaynak No
 - TLA lemma lists
 - UCL determinatives
+
+### Arka Plan
+
+Netjer — 'tanrı' figürü: 'tanrı' 'ilahi' 'figürü'; 'tanrı = ilahi' figürü.

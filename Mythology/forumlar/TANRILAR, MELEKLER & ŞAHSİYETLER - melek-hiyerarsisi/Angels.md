@@ -8,3 +8,7 @@
 - Yolculuk
 - Koruyucu el
 -# Çapraz: Guardian angels · Gabriel
+
+### Arka Plan
+
+Melekler — 'taban' 'korosu' 'insan' 'yakın' 'figürü'; 'melek = haberci' figürü.

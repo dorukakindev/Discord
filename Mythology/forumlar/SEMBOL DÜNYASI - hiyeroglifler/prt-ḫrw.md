@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL Denderah translation
 - Global Egyptian Museum htp
+
+### Arka Plan
+
+Peret-kheru — 'sunu' figürü: 'prt-ḫrw' 'çıkan' 'ses' 'sunu' 'figürü'; 'peret = sunu' figürü.

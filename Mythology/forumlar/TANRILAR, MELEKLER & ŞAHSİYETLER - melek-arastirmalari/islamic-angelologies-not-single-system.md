@@ -13,3 +13,7 @@ St Andrews Encyclopaedia of Theology, Kur'an'da meleklerin vahiy, kayıt, koruma
 - quran-2-98
 - quran-2-102
 -# Çapraz: Malaika · Jibril · Mikail · Harut ve Marut · Kelam
+
+### Arka Plan
+
+İslam-sistem — 'tek' figürü: 'İslam' 'melek' 'sistem' 'tek' 'değil' 'uyarısı'; 'sistem = çok' figürü.

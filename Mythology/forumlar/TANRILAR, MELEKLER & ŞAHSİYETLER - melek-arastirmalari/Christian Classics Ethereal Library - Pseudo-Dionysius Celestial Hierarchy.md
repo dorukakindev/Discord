@@ -6,3 +6,7 @@
 Dokuz koro modelinin teolojik-mistik arka planını işaretlemek için kaynak listesine alındı.
 
 -# Kaynaklar: https://ccel.org/ccel/dionysius/celestial.toc.html
+
+### Arka Plan
+
+CCEL Pseudo-Dionysius — 'dokuz' figürü: 'CCEL' 'Pseudo-Dionysius' 'göksel' 'hiyerarşi' 'metni'; 'CCEL = kaynak' figürü.

@@ -8,3 +8,7 @@ RWS yorumunun birincil metin/sanatçı atfını netleştir; Waite metnini tarihs
 -# Kaynaklar: https://archive.sacred-texts.com/tarot/pkt/pkttp.htm
 
 ![gorsel](https://sacred-texts.com/img/logo.jpg)
+
+### Arka Plan
+
+Sacred Texts — 'kaynak' figürü: 'Pictorial Key' 'başlık' 'sayfası'; 'sacred = kaynak' figürü.

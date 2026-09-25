@@ -9,3 +9,7 @@
 - jewish-encyclopedia-angelology
 - britannica-angel-demon
 -# Çapraz: Malakhim · Gabriel · Haberci · Elçi
+
+### Arka Plan
+
+Malakh — 'haberci' kökü: İbrani 'מַלְאָךְ' 'melek' 'kelimesi'; 'görev' 'anlamı' figürü.

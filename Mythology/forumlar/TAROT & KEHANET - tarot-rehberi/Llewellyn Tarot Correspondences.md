@@ -8,3 +8,7 @@
 -# Kaynaklar: https://www.llewellyn.com/product.php?ean=9780738755120
 
 ![gorsel](https://gaia.llewellyn.com/product_images/200/9780738755120.jpg)
+
+### Arka Plan
+
+Llewellyn — 'eşleşme' figürü: 'Llewellyn' 'tarot' 'eşleşme' 'tablosu'; 'correspondence = bağ' figürü.

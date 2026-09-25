@@ -22,3 +22,7 @@ Yurei, Japonca'da 'hafif ruh' anlamına gelir. Her ölü ruh Yurei'ye dönüşem
 -# Çapraz: Hayalet · Goryo · Hannya · Oiwa · Yokai · Obake
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/23.Yuurei.jpg/960px-23.Yuurei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Yūrei, Japon ölü-ruhu: gövdesi yok, elleri önde sarkan, ayakları bulanık, uzun siyah saçlı kadın figürü. Ölüm nedenine göre sınıflanır — onryō (öç-ruh), ubume (doğum-ruh), goryō (soylu-öfke), funayūrei (deniz). Obake/bakemono kategorisinin üyesi ama 'öfke' değil 'yas' katmanı — Edo kaidan (hayalet hikâyesi) tiyatrosunun yüzü.

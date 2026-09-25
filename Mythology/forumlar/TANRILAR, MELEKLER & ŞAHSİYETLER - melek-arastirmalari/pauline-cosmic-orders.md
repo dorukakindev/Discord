@@ -13,3 +13,7 @@ Thrones, Dominions, Principalities ve Powers adları önce kozmik otorite dili o
 - ccel-celestial-hierarchy-ch9
 - aquinas-angelic-orders
 -# Çapraz: Thrones · Dominions · Principalities · Powers
+
+### Arka Plan
+
+Pauline-orders — 'düzen' figürü: 'Pauline' 'cosmic' 'orders' 'kozmik' 'düzen' 'figürü'; 'orders = düzen' figürü.

@@ -5,3 +5,7 @@
 ### Kaynak No
 - tarosophy-code
 - itf-code-ethics
+
+### Arka Plan
+
+Çocuk-kırılgan — 'koruma' figürü: 'kupa' ve 'bakım' figürü; 'kırılgan = özen' pratiği.

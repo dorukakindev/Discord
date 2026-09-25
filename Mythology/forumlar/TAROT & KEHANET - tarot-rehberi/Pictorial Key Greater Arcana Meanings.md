@@ -6,3 +6,7 @@
 Major kartların klasik düz/ters anlamını kaynak katmanına ekle.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/pkt0303.htm
+
+### Arka Plan
+
+Greater Arcana — 'Major' figürü: 'Pictorial Key' 'Major' 'anlam' 'bölümü'; 'Greater = büyük' figürü.

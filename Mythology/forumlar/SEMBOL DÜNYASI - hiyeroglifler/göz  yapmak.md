@@ -4,3 +4,7 @@
 
 ### Not
 Göz işareti hem görme hem de fiil alanında farklı bağlamlarla çalışır.
+
+### Arka Plan
+
+Göz-yapmak — 'eye' figürü: 'göz' 'irt' 'yapmak' 'figürü'; 'göz = eylem' figürü.

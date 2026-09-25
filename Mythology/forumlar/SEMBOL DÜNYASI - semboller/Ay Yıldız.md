@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde milli kategorisinin ayrı filtrelenebilmes
 - Bayrak
 - Devlet arması
 - Kimlik sembolü
+
+### Arka Plan
+
+Hilal-yıldız ikilisi — 'gökyüzü ikilisi': İslam'da kabul edilmiş ama aslında daha eski; Bizans Konstantinopolis'in İmparatorluk bayrağından Osmanlı'ya geçen İllyrik simge. Ay 'ölçü' olarak İslam takviminin hilaline bağlanır; yıldız 'beş köşe' bazı varyantlarda 'gök pusulası'. 'Ulusal-uyarlanmış mit' olarak okunur.
