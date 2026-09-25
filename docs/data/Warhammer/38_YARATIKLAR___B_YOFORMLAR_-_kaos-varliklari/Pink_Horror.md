@@ -12,4 +12,8 @@ Elerinden çok renkli Warp ateşi (büyü) fırlatırlar ve sürekli bir kaotik 
 
 ## İkiyüzlü İblis
 Pink Horror'lar, Tzeentch'in çılgın, sürekli kıkırdayan küçük iblisleridir — ikiye bölünmüş pembe etten, çok kollu, büyü püskürten yaratıklar. Öldürüldüklerinde ölmezler: ikiye bölünür ve iki Blue Horror'a dönüşürler (öfkeli, homurdanan küçük kardeşler); Blue Horror ölünce de iki Brimstone Horror doğar. Bu yüzden bir Pink Horror'u öldürmek sorunu çözmez — katlar. Büyü yetenekleri gerçektir: Warp alevi, mutasyon, zihin bükücü vizyonlar. Kaos'un en saf kaotik ruhunu taşırlar — kahkaha, değişim ve mantıksız şiddet.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Pink Horror ('Tzeentch'in Gıdıklayıcısı'), Tzeentch'in Lesser Daemon'udur; sürekli değişen pembe et yığını, kahkaha atan ve her öldürülüşünde iki küçük Blue Horror'a bölünen bir yaratıktır. Savaşta çıldırmış bir karnaval gibi ilerler — büyü fırlatır, çığlık atar ve mutlu bir delilikle düşmana koşar. Öldürüldüğünde iş bitmez: iki Blue Horror doğar ve onlar da öldüğünde ikişer Brimstone Horror'a bölünür — Tzeentch'in 'değişim' ilkesinin canlı paradoksudur.
+-# Kaynaklar: Warhammer 40,000 —

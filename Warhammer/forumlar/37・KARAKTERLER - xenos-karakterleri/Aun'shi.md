@@ -16,7 +16,7 @@ Aun'Shi, doğrudan savaşan nadir Ethereal'lerden biri olarak bilinir. Ethereal'
 
 ## Tarihçe
 
-Kaynaklara göre Fi'rios'ta Ork saldırısı sırasında Fire Caste komutanları düştüğünde savunmanın başına geçen Aun'Shi, onur kılıcıyla saatler boyunca savaşarak T'au kuvvetlerinin dağılmasını önlemiştir. Bu olay, onu T'au arasında Ethereal'lerin cesaretinin simgesi hâline getirmiştir.
+Aun'Shi, T'au Ethereal Kastı'nın üyesi ve birçok savaşın mütevazı kahramanıdır — barışı özler ama yoldaşlarına olan görevi onu savaşa bağlar. Fire Caste tarafından 'bir T'au liderinin olması gereken her şey' olarak yüceltilen bu figür, Ork'lara karşı kazandığı zaferlerle Ethereal'lerin savaş alanında da yol gösterebileceğinin kanıtıdır — 'barışçıl savaşçı' olarak Greater Good'un en sevilen yüzü.
 
 -# Kaynaklar: *Codex: T'au Empire*; *Codex: Tau*
 

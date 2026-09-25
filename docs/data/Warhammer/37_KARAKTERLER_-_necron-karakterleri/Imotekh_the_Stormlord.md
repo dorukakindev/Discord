@@ -16,7 +16,7 @@ Sautekh dynasty'sinin hükümdarı Imotekh, Necron soyluları arasında strateji
 
 ## Tarihçe
 
-Uyanıştan sonra taht için çekişen taraflardan biri, rakiplerine karşı kullanmak üzere Nemesor Imotekh'i uyandırdı; Imotekh ise aracı olmayı reddedip bütün talipleri ezdi ve Mandragora'nın tahtını kendisi için aldı. Ardından Sautekh egemenliğini çevre sistemlere yayarak büyük bir fetih dönemi başlattı. Pariah Nexus'ta Silent King'e boyun eğmeyip kargaşadan yararlanarak birkaç sistemi kendi adına ele geçirdi.
+Imotekh the Stormlord ('Fırtına Lordu'), Sautekh Hanedanı'nın phaeron'udur — Necron'un en güçlü ve en yayılmacı hanedanının hükümdarı. Mandragora'nın efendisi olarak Necron uygarlığının yeniden genişlemesini yöneten bu figür, 'uyuyan imparatorluğun generali' olarak galaksinin en tehlikeli askeri zihinlerinden biridir.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*; *Crusade: Pariah Nexus*
 

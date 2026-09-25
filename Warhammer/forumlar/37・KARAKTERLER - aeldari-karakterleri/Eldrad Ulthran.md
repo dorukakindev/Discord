@@ -15,7 +15,7 @@ Ulthwé'nin kadim Farseer'ı Eldrad, geleceğin sayısız ipliğini okuyup onlar
 
 ## Tarihçe
 
-Codex anlatıları Eldrad'a, başka türlerin savaşlarını Aeldari'nin çıkarına yönlendiren binlerce yıllık müdahaleler atfeder. Andante IV'te Abaddon'a karşı kazanılan başarı, Despoiler'ın kaçmasıyla sonuçlanan kısmi bir zafer olarak anılır. Uzun ömrünün sonuna yaklaşırken bedeni yavaşça kristalleşen Farseer, Ynnead'in tür yok olmadan uyandırılabileceği fikrinin en eski savunucularından biri oldu; Gathering Storm dönemindeki girişimleri Ynnari'nin doğuşuna uzanan olaylar zincirinin parçasıdır.
+Eldrad Ulthran, Ulthwé craftworld'ünün en güçlü ve en kadim Farseer'ıdır; Fall'dan sonra Aeldari arasında doğmuş en yetenekli psyker sayılır ve inanılmaz öngörüsüyle binlerce Asuryani'nin hayatını kurtardı. 'Geleceği yazan' olarak Phoenix Lord'lar dahil herkesten saygı gören figür — 'Aeldari'nin yaşayan kehaneti'.
 
 ## Kanon Notu
 

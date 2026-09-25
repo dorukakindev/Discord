@@ -16,7 +16,7 @@ Magus, psişik yetenekleriyle kültün inancını yöneten ve Imperial yetkilile
 
 ## Tarihçe
 
-İnsan görünümüne yakınlığı sayesinde Imperial toplumun içinde dolaşabilen Magus, kültün yöneticiler, din adamları ve askerler arasında yayılmasını sağlar; ayaklanma zamanı geldiğinde kalabalıkları harekete geçiren de çoğu zaman odur. Great Rift sonrasında pek çok kültün ayaklanmasında Magus'ların belirleyici rol oynadığı anlatılır.
+Magus ('Genestealer Magus'), psişik yetenek geliştirmiş Genestealer hibritidir; kültünün baş infazcısı, propagandacısı ve dış dünyayla diplomatı olarak görev yapar. Güçlü telepatik gücüyle kitleleri 'babalığına' bağlayan bu figür, Genestealer kültünün görünen yüzü ve zihin efendisidir.
 
 -# Kaynaklar: *Codex: Genestealer Cults — 10th Edition*; *Day of Ascension — Adrian Tchaikovsky*
 

@@ -16,7 +16,7 @@ Heresy'den beri Legion'ın en ünlü düellocusu. Kusursuzluk saplantısını k�
 
 ## Tarihçe
 
-Emperor's Children'ın Heresy'deki düşüşüne katılıp Slaanesh'e adandı. 40K anlatılarında onu öldüren ve bundan gurur ya da zevk duyan kişinin zamanla Lucius'a dönüştüğü anlatılır; bu yüzden "Eternal" diye anılır. Zırhında yenilmiş rakiplerinin ruhları çığlık atan yüzler olarak yaşar. Güncel anlatıda Fulgrim'in dönüşüyle yeniden toparlanan Legion'ın öne çıkan figürleri arasında yer alır.
+Lucius the Eternal, Emperor's Children'ın Chaos Lord'u ve Slaanesh'in Şampiyonu'udur — Lash of Torment ve Blade of the Laer'ı taşır. Onu öldüren herkes — Lucius'u yenmekten gurur duyarsa — yavaşça ona dönüşür; yani 'öldürülemez düellocu' olarak kendi katillerinin bedeninde yaşamaya devam eder. Zırhındaki çığlık yüzleri eski kurbanlarının kanıtıdır.
 
 -# Kaynaklar: *Lucius: The Faultless Blade — Ian St. Martin*; *Fulgrim — Graham McNeill*; *Codex: Emperor's Children — 10th Edition*
 

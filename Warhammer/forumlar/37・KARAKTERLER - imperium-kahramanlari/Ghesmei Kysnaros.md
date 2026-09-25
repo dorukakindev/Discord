@@ -12,6 +12,6 @@
 
 ## Tarihçe
 
-Ghesmei Kysnaros, İkinci Armageddon Savaşı'nda görev yapan Inquisitor'dür; Yarrick ve Steel Legion'la birlikte Hive Hades'in savunmasında yer aldı.
+Ghesmei Kysnaros, 41. Binyıl'ın ilk yarısında aktif bir Inquisitor Lord'du; 444.M41'deki Birinci Armageddon Savaşı'na katıldı ve o çatışmada Chaos'un varlığıyla rolüne dair hassas bilgilerin İmparatorluk'a sızmasını engellemek için görevli Inquisition gücünü yönetti. Bu 'bilgi temizliği' operasyonu — hayatta kalan milyonlarca askeri ve sivili sterilize edip kamplara gönderen — İmparatorluk tarihinin en tartışmalı eylemlerinden biri oldu ve Kysnaros 'Space Wolves'la savaşan Inquisitor' olarak rezil oldu.
 
 -# Kaynaklar: *Fandom wiki*

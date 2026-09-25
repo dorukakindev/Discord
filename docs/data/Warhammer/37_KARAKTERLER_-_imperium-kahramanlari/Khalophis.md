@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/62/ThousandSonsPreHeresy
 
 ## Tarihçe
 
-Khalophis, Büyük Sefer sonu ve Heresy başındaki 6. Fellowship'in kaptanıydı; Thousand Sons'un 'Komün' figürlerinden — Prospero'nun son günlerinin tanığı.
+Khalophis, Büyük Sefer'in sonunda ve Horus Heresy'nin başında Thousand Sons'ın 6. Bursunun kaptanıydı; aynı zamanda Pyrae Kültü'nün Magister Templi'siydi — 'ateş' disiplininin efendisi. Prospero'nun Yakılması'nda — Space Wolves'un Legio Custodes ve Sisters of Silence'la lejyonunu yok etmeye geldiğinde — mevcuttu; lejyonunun son günlerinin tanığı ve ateş-büyücüsü olarak 'yanan lejyon'un figurüdür.
 
 -# Kaynaklar: *Fandom wiki*

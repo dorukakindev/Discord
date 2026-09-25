@@ -16,7 +16,7 @@ Horus Heresy'nin görünmez mimarlarından biri. Kaba kuvvetten çok yalan, sab�
 
 ## Tarihçe
 
-Great Crusade sırasında Legion'lar arasında yayılan gizli warrior lodge'lar aracılığıyla etkisini genişletti. Interex'le barışçıl temas, onun *Anathame* adlı bıçağı çalıp gerilimi kışkırtmasıyla çöktü. Davin'in uydusunda Warmaster bu bıçakla yaralandığında, Erebus'un yönlendirdiği ritüeller Horus'un Chaos güçleriyle temasına giden yolu açtı. Heresy'nin ilerleyen safhalarında da Legion'ın karanlık ağlarını örmeyi sürdürdü.
+Erebus, Word Bearers'ın kıdemli Dark Apostle'ıdır ve Horus Heresy'nin mimarıdır; Büyük Sefer'in sonunda lejyonun birinci papazı olarak 'ilk ihanet eden adam' olarak bilinir. İlk Chaos tapınağını kuran, Lorgar'ı ve sonra Horus'u döndüren figür — 'Heresy'nin babası' olarak tarihin en nefret edilen figürlerinden biridir.
 
 -# Kaynaklar: *False Gods — Graham McNeill*; *The First Heretic — Aaron Dembski-Bowden*
 

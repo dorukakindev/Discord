@@ -16,7 +16,7 @@ Great Crusade'in karşılaştığı en büyük Ork gücünün önderi. Onun impa
 
 ## Tarihçe
 
-Ullanor Crusade, Emperor'un ve Horus'un doğrudan katıldığı büyük bir sefer olarak Urlakk Urg'un imparatorluğuna yöneldi. Horus, Urlakk Urg'u bizzat öldürdü ve Ork imparatorluğu dağıldı. Zaferin ardından düzenlenen Ullanor Triumph'ta Emperor, Horus'u Warmaster ilan ederek Crusade'in askerî komutasını ona bıraktı ve Terra'ya çekildi. Yaklaşık bir buçuk bin yıl sonra War of the Beast sırasında Ullanor yeniden bir Ork kalesine dönüştü.
+Urlakk Urg, Ullanor'un Overlord'uydu — Büyük Sefer'in sonunda Ork'ların en büyük imparatorluğunun hükümdarı; Horus'un bizzat yüzleştiği en büyük yeşil tehditti. Ullanor Seferi'nde İmparatorluk güçlerini yenen bu figür, 'İmparatorluk öncesi son büyük Ork' olarak tarihteki yerini aldı — düşüşü Ullanor'un (sonradan Armageddon'un) İmparatorluk'a geçişini sağladı.
 
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *Shadow of Ullanor — Rob Sanders*
 

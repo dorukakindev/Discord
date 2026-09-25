@@ -16,7 +16,7 @@ Etin ve acının sanatında ustalaşmış bir Master Haemonculus. Kaynaklar onu 
 
 ## Tarihçe
 
-Haemonculus'ların ölüleri yeniden bedenlendirme sanatı, Rakarth'ın uzun ömrünün temelidir; o, ölümü bir son değil, yeni biçimler için bir fırsat olarak görür. Commorragh siyasetinde Asdrubael Vect'in müttefikleri arasında anılır ve Vect'in Kabal'lerine sunduğu hizmetler karşılığında coven'ının gücünü korur. Deneyleri, Grotesque'ler ve öteki et yapıtlarıyla şehrin dehşetine katkıda bulunur.
+Urien Rakarth, Prophets of Flesh coven'ının Drukhari Master Haemonculus'udur — 'İşkencelerin Heykeltıraşı'. Beden manipülasyonu ve anatomik heykel alanında yozlaşmış deha olarak fleshcrafter yeteneği efsanevidir; 'et ve acının sanatçısı' olarak Commorragh'ın en korkulan figürlerinden biridir — kurbanlarını 'güzelleştiren' canavar.
 
 -# Kaynaklar: *Codex: Dark Eldar*; *Codex: Drukhari*
 

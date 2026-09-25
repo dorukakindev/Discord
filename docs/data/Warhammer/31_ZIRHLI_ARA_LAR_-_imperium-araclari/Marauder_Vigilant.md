@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Marauder09.png/revisi
 
 ## Tarihçe
 
-Marauder Vigilant, standart Marauder Bomber'ın keşif/bombardıman varyantı; Imperial Navy'nin uzun-menzilli atmosferik vurucu gücü.
+Marauder Vigilant, standart Marauder Bomber'ın uzun-menzilli keşif/bombardıman varyantıdır; Imperial Navy'nin Aeronautica Imperialis'inin ana atmosferik bombardıman uçağı olarak kullanılır. Vigilant adı, gelişmiş gözetleme ekipmanıyla donatılmış olmasından gelir — önce hedefleri tespit edip sonra yok eden 'keskin gözlü bombacı'.
 
 -# Kaynaklar: *Fandom wiki*

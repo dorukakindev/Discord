@@ -16,7 +16,7 @@ Darkstrider, düşman hatlarının derinliklerine sızan Pathfinder birliklerini
 
 ## Tarihçe
 
-Kaynaklar Darkstrider'ın bakış açısını Damocles Gulf Crusade sırasında Dal'yth'ta Imperial kuvvetlere karşı verdiği savaşla ilişkilendirir; Imperium'un taktiklerini yakından gözlemleyen Darkstrider, düşmanını anlamanın ve geleneksel doktrinden sapabilmenin değerini bu savaşta kavramıştır. Bu bireysel tavır, onu hem etkili hem de siyasi açıdan tartışmalı kılar.
+Darkstrider (T'au Lügati'nde El'Myamoto), alışılmadık bir T'au Pathfinder subayıdır; shas'el ('alt-komutan') rütbesinde kalıp birkaç terfiyi reddetti — Pathfinder yoldaşlarıyla kalmak için. 'Sahanın adamı' olarak yükselmeyi reddeden bu figür, T'au'nun keşif ve vur-kaç doktrininin en sadık uygulayıcısıdır.
 
 -# Kaynaklar: *Codex: T'au Empire*
 

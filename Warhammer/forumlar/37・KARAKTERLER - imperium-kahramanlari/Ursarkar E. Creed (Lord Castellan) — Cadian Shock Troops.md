@@ -16,7 +16,7 @@ Cadia'nın son Lord Castellan'ı; alışılmadık, cüretkâr planlarıyla tanı
 
 ## Tarihçe
 
-13th Black Crusade'in ilk dalgasını Cadian savunucularının başında durdurdu. Abaddon daha büyük bir kuvvetle dönüp Blackstone Fortress *Will of Eternity*'yi gezegene düşürünce pylon ağı parçalandı ve Cadia düştü. Creed, son saatlerde kaçabilecek olanların tahliyesini örgütledi; bir süre kayıp sayıldı, sonraki anlatılar ise hayatta kalıp Cadian kuvvetlerini yönetmeyi sürdürdüğünü gösterir. Jude Reid'in romanı, Cadia'nın küllerinden sonraki bu dönemi onun gözünden işler.
+Ursarkar E. Creed, 50 yaşındaki Astra Militarum lord generali, Cadia'nın Lord Castellan'ı ve Cadia'ya tahsis edilen tüm İmparatorluk askeri güçlerinin yüce komutanıydı — aynı zamanda Cadia Sistemi'nin İmparatorluk Komutanı. 13. Kara Sefer'de Cadia'nın son savunmasını yöneten bu figür, 'dünyanın son generali' olarak gezegenin düşüşünde kayboldu — ölü mü yaşıyor mu bilinmez.
 
 -# Kaynaklar: *Gathering Storm I: Fall of Cadia*; *Creed: Ashes of Cadia — Jude Reid*; *Codex: Astra Militarum*
 

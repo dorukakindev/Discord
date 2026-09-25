@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fb/Prognosticator_Rennin
 
 ## Tarihçe
 
-Rennin Tri'el, Silver Skulls'un Librarian'ı olarak Deathwatch'a ikinci edilmiştir; Jericho Reach'teki 'uzun gece' görevlerinin psyker-desteği.
+Rennin Tri'el, Silver Skulls chapter'ının Librarian'ı olarak Deathwatch'a verilmiştir ve Jericho Reach'teki Dead Cabal'ın üyesidir. Prognosticator (kehanet uzmanı) olarak Cabal içinde Aeldari konusunda en yetkin otoritedir — bilgisi rakipsizdir ve bu xenos ırkının gizemli hareketlerini okumada İmparatorluk'un en iyi kaynağı sayılır.
 
 -# Kaynaklar: *Fandom wiki*

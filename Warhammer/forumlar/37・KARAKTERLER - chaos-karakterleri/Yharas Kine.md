@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.p
 
 ## Tarihçe
 
-Yharas Kine, Night Lords'un Chaos Lord'u olarak 'Nightmare of Celyx' savaş gemisini komuta eder; lejyonun 'korku ekonomisi'nin modern uygulayıcılarından.
+Yharas Kine, Night Lords'un Chaos Lord'u olarak 'Nightmare of Celyx' savaş gemisini komuta eder. VIII. Lejyon'un 'korku ekonomisi' — düşmana zarar vermeden önce korku salma — doktrininin modern uygulayıcılarından biri olarak uzay savaşlarında bilinir.
 
 -# Kaynaklar: *Fandom wiki*

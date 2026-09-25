@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d5/931664_20060929_scree
 
 ## Tarihçe
 
-Taldeer ('Rüya Gören'), Craftworld Ulthwé'nin Farseer'ı; Lorn V'de Necron tehdidine karşı sevk edilen Asuryani kuvvetinin komutanı olarak Dawn of War: Dark Crusade'de İmparatorluk'la hem çatıştı hem dolaylı işbirliği yaptı.
+Taldeer ('Rüya Gören'), Craftworld Ulthwé'nin önde gelen Farseer'lerinden biriydi. Lorn V'de Necron tehdidini öngörüp Asuryani kuvvetini gönderdi ve iki kez İmperial General Sturnn'un birliklerini — onlar farkında bile olmadan — kurtardı. Sturnn daha sonra Ork WAAAGH!'ından onları koruyunca iki ırk arasında zorunlu ama tedirgin bir ittifak kuruldu. Sonradan Kronus'a sevk ettiği güçlerle Necron mezarlarını yok etmeye çalışırken İmparatorluk General Lukas Alexander'ın dikkatini çekti; Taldeer'in 'insanları piyon gibi kullanan sezgi' tarzı, Aeldari diplomasisinin hem dehasını hem de iki yüzlülüğünü gösterir.
 
 -# Kaynaklar: *Fandom wiki*

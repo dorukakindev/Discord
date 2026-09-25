@@ -15,7 +15,7 @@ Kaybettikleri ete karşı delice bir özlemle dolu bu Necron'lar, kurbanlarını
 
 ## Tarihçe
 
-Lanetin en büyük yıkımı Maynarkh dynasty'sinde görülür; Llandu'gor'u yok edenler olarak anılan bu soyun büyük kısmı Flayed One'a dönüşmüştür. Diğer dynasty'ler Flayed One'ları dışlanmış bir tehlike olarak görür; lanetin bulaşıcılığı Necron soylular arasında derin bir korkudur.
+Flayed One, kadim bir enfeksiyonun yarattığı organik et açlığıyla bükülmüş ve ürkütücü bir Necron terörüdür; derileri yüzülmüş kurbanlarının etini kendine 'giyen' özel yakın-dövüş askerleridir. Bilinmeyen cep-boyutlarından Necron ordularına katılan bu yaratıklar, 'canavarın kılığındaki makine' olarak Necron'un en korkutucu birimidir.
 
 ## Teknik / Biyolojik Özellikler
 

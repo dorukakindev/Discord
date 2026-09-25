@@ -12,6 +12,6 @@ Dark Angels'ın karanlık sırrı, kuruluşlarına dayanır; chapter'ın atalar�
 
 ## Tarihçe
 
-Dark Angels 3rd Company'nin Master'ı ve Chapter'ın baş binicisi; jetbike'ı 'Corvex'le savaşa girer. Ravenwing'in intikamcı ruhunu somutlaştırır — Fallen avında en ön saflarda.
+Sammael, Dark Angels'ın elit 2. Bölüğü Ravenwing'in mevcut ve 348. Grand Master'ı ve 'Avın Lideri'dir — chapter'ın Fallen Angels avını yöneten kaptan. İç Halka'nın kıdemli üyesi olarak chapter'ın en karanlık sırrını tamamen bilir; kadim İmparatorluk Jetbike'i 'Corvex'in üzerinde savaşan bu figür, 'son sağ kalan jetbike sürücüsü' olarak hız avcılığının efendisidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

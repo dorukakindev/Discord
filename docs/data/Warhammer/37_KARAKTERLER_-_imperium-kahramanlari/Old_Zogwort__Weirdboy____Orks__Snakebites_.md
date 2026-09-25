@@ -16,7 +16,7 @@ Ork'ların psişik gücünün en tuhaf ve en tehlikeli yüzünü temsil eden bir
 
 ## Tarihçe
 
-Codex anlatısında Snakebites'ın yaşlı ve saygı duyulan bir Weirdboy'u olarak yer aldı. Ork Weirdboy'larının gücü, çevrelerindeki Ork'ların topladığı Waaagh! enerjisinden beslenir; Zogwort bu enerjiyi alışılmadık bir ustalıkla, düşmanlarını gülünç ama korkunç bir biçimde dönüştürmek için kullanır.
+Old Zogwort, Ork kabileleri arasında yaşamış en büyük ve en güçlü Weirdboy'dur — WAAAGH! enerjisini kullanarak düşmanını Squig'e dönüştürebilme ('Zogwort'un Laneti') eşsiz yeteneğiyle özellikle korkulur. Snakebites'ın en vahşi büyücüsü olarak 'düşmanı yemeğe çeviren şaman' efsanesidir.
 
 -# Kaynaklar: *Codex: Orks*
 

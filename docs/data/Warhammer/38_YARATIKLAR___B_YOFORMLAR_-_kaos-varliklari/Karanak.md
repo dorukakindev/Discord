@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Karanak8thEd.jpg/revi
 
 ## Tarihçe
 
-Karanak, Khorne'un efsanevi üç başlı daemon tazısıdır — Blood God'un en seçkin avcısı. Üç ayrı başın her biri geçmişi, şimdiyi ve geleceği koklar; Khorne'un istediği hedefi hiçbir şekilde kaybedemez. Brass Citadel'in salonlarında dolaşıp efendisinin emriyle maddi aleme salınır; kaçış imkânsızdır.
+Karanak — 'İntikamın Tazısı' — Khorne'un eşsiz Flesh Hound'udur ve Blood God'un intikamının bedenlenişidir; Pirinç Taht'ın muhafızı. Kimsenin saklanamayacağı bu favori tazı, uzay-zaman boyunca avını kovalar — 'asla durmayan avcı' olarak Khorne'un kişisel intikam silahıdır.
 
 -# Kaynaklar: *Fandom wiki*

@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/56/Magratha_Orvel_von_Ka
 
 ## Tarihçe
 
-Magratha Orphel von Karlack, hem Karlack düşesi hem Astra Militarum'un önde gelen Lord General'lerinden; 'soylu-general' çift kimliğiyle İmparatorluk'un üst düzey komuta erkini temsil eder.
+Magratha Orphel von Karlack, hem Karlack'ın düşesi hem de Astra Militarum'un önde gelen Lord General'lerinden biridir; 'soylu-general' çift kimliğiyle İmparatorluk'un aristokratik-askeri zirvesini temsil eder. Sosyal gücü ve komuta yetkisini birleştiren nadir figürlerden.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,7 +16,7 @@ Swarmlord, Hive Mind'ın stratejik zekâsının en yoğun hâliyle beliren bir H
 
 ## Tarihçe
 
-Sonraki yayınların anlatımına göre Swarmlord, Hive Fleet Behemoth'un Macragge'a saldırısında Cold Steel Ridge'de Marneus Calgar'la çarpışmış ve Chapter Master'ı ağır yaralamıştır. Öldürüldüğünde bile bilincinin Hive Mind'da korunduğu ve gerektiğinde yeni bir bedende yeniden doğduğu anlatılır; bu yüzden farklı savaşlarda yeniden belirmesi, Imperium için ayrı bir kâbus kaynağıdır.
+The Swarmlord, Hive Mind'ın en büyük tekil komutan biyoformudur — öldürülse bile Hive Mind onu yeni bedenlerde 'yeniden doğurur', yani fiilen ölümsüzdür. Sayısız Hive Fleet'i yöneten bu varlık, 'gezegenleri yutan iradenin kılıcı' olarak Tyranid'in en zeki savaş figürüdür — Marneus Calgar'la bile dövüşmüş efsanevi canavar.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 

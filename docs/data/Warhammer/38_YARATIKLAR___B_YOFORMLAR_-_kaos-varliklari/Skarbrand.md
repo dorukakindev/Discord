@@ -12,4 +12,7 @@ Bu ihanetin cezası olarak Khorne, Bloodthirster'ını sonsuza dek Kan Tanrısı
 
 ## Sürgün Edilmiş
 Skarbrand, Khorne'un en büyük Bloodthirster'larından biriydi — ama Tzeentch'in entrikasıyla efendisine ihanet etmeye kışkırtıldı ve bir kez sırtını kılıcıyla devirdi. Khorne'un gazabı onu paramparça etti: aklı, iradesi, adı yok edildi; geriye yalnızca saf, sebepsiz bir cinnet kaldı. Sürgün edilmiş Skarbrand şimdi amaçsızca galakside dolaşır; varışında iki ordu birbirine düşer, dost düşmanı tanımaz, kendi ordusunu bile keser. Savaş Lordu'nun tahtından düşen tek Büyük İblis'tir — ve bu yüzden en tehlikelisidir, çünkü ona hiçbir plan, hiçbir elçi, hiçbir pazarlık ulaşamaz.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Skarbrand 'Sürgün Edilmiş', Khorne'un en büyük Bloodthirster'larından biriydi — bir zamanlar Blood God'un en sevdiği celladıydı. Ancak Tzeentch'in kışkırtmasıyla efendisine isyan edecek kadar kibirlenen Skarbrand, Khorne'un tahtına sald

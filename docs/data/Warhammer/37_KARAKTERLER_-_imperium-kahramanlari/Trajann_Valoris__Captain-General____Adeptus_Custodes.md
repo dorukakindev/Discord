@@ -16,7 +16,7 @@ Emperor'un muhafızlarının komutanı ve High Lords of Terra arasında yer alan
 
 ## Tarihçe
 
-Chris Wraight'ın *Watchers of the Throne* romanlarında Emperor'un sessizliği ve Golden Throne'un zayıfladığı yönündeki kaygılar karşısında kurumunun rolünü sorgulayan bir lider olarak çizilir. Guilliman'la ittifak ile Custodes'in bağımsızlığı arasında denge kurmaya çalışır; Terra'yı tehdit eden iç ve dış tehlikelere karşı Custodes'i yönetirken bu gerilim hiç çözülmez.
+Trajann Valoris, Adeptus Custodes'in mevcut Chief Custodian'ı ve 17. Captain-General'ıdır — İmparator'un elit muhafızının başı. İkinci Terra Savaşı'nda Khorne'un güçlerine karşı İmparatorluk Sarayı'nı savunan bu figür, Guilliman'ın dönüşü sonrası Custodes'in sahaya çıkışını yöneten 'nöbetin efendisi'dir.
 
 -# Kaynaklar: *Watchers of the Throne: The Emperor's Legion — Chris Wraight*; *Watchers of the Throne: The Regent's Shadow — Chris Wraight*; *Codex: Adeptus Custodes*
 

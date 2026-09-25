@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3c/Relictors_Banner.jpg/
 
 ## Tarihçe
 
-Artekus Bardane, Relictors'ın Chapter Master'ıydı; Inquisition'ın açık yasağına rağmen Chaos artefakt'larını silah olarak kullanmaya devam edince chapter'ı 'Excommunicate Traitoris' ilan edildi — marjinal sadakatın simgesi.
+Artekus Bardane, Relictors chapter'ının eski Komutanıydı (Chapter Master); chapter Chaos artefakt ve silahlarıyla oynamaya devam ettiği için — Inquisition'un açık yasağına rağmen — Excommunicate Traitoris ilan edilmeden önceki son lideriydi. Neutra'nın vahşi Feral World'ünden gelen sert savaşçı olarak 'yasak bilginin peşindeki adam' — chapter'ının düşüşünün lideri.
 
 -# Kaynaklar: *Fandom wiki*

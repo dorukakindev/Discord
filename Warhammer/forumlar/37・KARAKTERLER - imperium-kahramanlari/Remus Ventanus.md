@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Cpt_Remus_Ventanus3.j
 
 ## Tarihçe
 
-Remus Ventanus, Ultramarines'in 4. Bölük kaptanıydı; Calth'ta ihanetin ilk anlarında hayatta kalıp yeraltı savunmasını örgütledi — 'Ventanus'un adamları' olarak bilinen direnişin lideri.
+Remus Ventanus, Büyük Sefer ve Heresy'de Ultramarines'ın 1. Bölük 4. Bölüğü'nün kaptanıydı; Word Bearers'ın Ultramarines'a ihanetli saldırısı olan Calth Savaşı'nda merkezi rol oynadı. İlk şokun ardından hayatta kalan sadık komutanlardan biri olarak Ultramar'ın savunmasını organize etti — 'ihanetin ilk günü' direnişinin simgesi.
 
 -# Kaynaklar: *Fandom wiki*

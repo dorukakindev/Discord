@@ -16,7 +16,7 @@ Graham McNeill'in Ultramarines romanlarının merkezindeki kaptan. Codex Astarte
 
 ## Tarihçe
 
-Pavonis'te uyanan Nightbringer'la, Tarsis Ultra'da Tyranid'lerle savaştı. Codex'ten sapan kararları nedeniyle Pasanius'la birlikte bir Death Oath'a bağlanıp Eye of Terror'a gönderildi; Iron Warriors'ın dünyası Medrengard'da Warsmith Honsou'yla karşılaştı ve iki adam arasındaki düşmanlık serinin geri kalanını belirledi. Dönüşünde sadakati sınandı; sonraki romanlarda Honsou'nun Ultramar'a yönelttiği saldırıya karşı savaştı.
+Uriel Ventris, Ultramarines'ın genç 4. Bölük kaptanıdır; Rubicon Primaris'i geçip Primaris Space Marine oldu. Codex'e sadık ama esnek düşünebilen bu figür, 'kuralları bilerek büken' komutan olarak Medrengard'a ve Death Guard'a karşı görevlerde chapter'ın yükselen yıldızıdır.
 
 -# Kaynaklar: *Nightbringer — Graham McNeill*; *Dead Sky Black Sun — Graham McNeill*; *The Chapter's Due — Graham McNeill*; *Codex: Space Marines*
 

@@ -16,7 +16,7 @@ Inquisition'ın felsefi yelpazesindeki kaymayı kendi hayatında yaşayan bir fi
 
 ## Tarihçe
 
-*Xenos*'ta Glaw ailesi ve yasak Necroteuch'un izini sürdü; *Malleus*'ta Radical Inquisitor Quixos'la hesaplaştı; *Hereticus*'a uzanan süreçte Inquisition içindeki eski dostlarının bile ona karşı döndüğü bir yalnızlığa düştü. Bu yolda daemonhost Cherubael'le kurduğu ilişki, Puritan'lıktan uzaklaşmasının en açık işareti oldu. Öğrencisi Gideon Ravenor'la yolları sonraki anlatılarda yeniden kesişir.
+Gregor Eisenhorn, Ordo Xenos'un Inquisitor'üdür; başta Amalathian Puritan'ı olarak başlayan ideolojisi, kariyeri boyunca Radical Xanthism'e o kadar dramatik değişti ki 'kendi inandığı her şeyi kendisi avlayan' adam oldu. Daemonhost Cherubael'i kullanan, heretic'leri alt eden ve kendi kurumunun da şüphelisi olan bu figür, Inquisition'un 'karanlık tarafı' efsanesinin kahramanıdır.
 
 -# Kaynaklar: *Eisenhorn: Xenos — Dan Abnett*; *Eisenhorn: Malleus — Dan Abnett*; *Eisenhorn: Hereticus — Dan Abnett*; *The Magos — Dan Abnett*
 

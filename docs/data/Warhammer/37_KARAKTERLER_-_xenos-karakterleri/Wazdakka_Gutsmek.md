@@ -16,7 +16,7 @@ Wazdakka, hız tutkusunu bir inanç hâline getiren Speed Freeks kültürünün 
 
 ## Tarihçe
 
-Kaynaklara göre Wazdakka, aceleyle bir araya getirilmiş bir motosikletle kazandığı bir yarışla ün kazanmıştır. Codex anlatısında en bilinen başarısı, Scalex VI'da alevler içindeki motosikletiyle bir Warlord-class Titan'ın kalkanlarını ve kokpitini aşarak mürettebatını öldürmesidir. Yalnızca hız düşkünü Ork'lardan oluşan bir Waaagh!'ın başına geçtiği anlatılır.
+Wazdakka Gutsmek, Ork Mekboy'u ve belki yaşamış en büyük Warbiker'dır — tamamen Speed Freek'lerden oluşan bir WAAAGH!'ın Warlord'u. 'Aporkalypse'in Bisikleti' üzerinde savaşan bu figür, hız tutkusunun Ork'taki zirvesidir; 'gökyüzünden bile hızlı' denen bu adam, tekerlekli WAAAGH! geleneğinin efsanesidir.
 
 -# Kaynaklar: *Codex: Orks*
 

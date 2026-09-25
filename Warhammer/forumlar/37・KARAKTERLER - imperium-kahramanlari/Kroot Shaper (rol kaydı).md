@@ -16,7 +16,7 @@ Shaper, bir Kroot kindred'inin genetik yolculuğunu yöneten önderdir. Hangi t�
 
 ## Tarihçe
 
-Kroot, yedikleri canlılardan kalıtsal nitelikler edinebildiği için yanlış bir seçim bütün bir soyu çıkmaza sokabilir; Kroot Hound, Krootox ve Knarloc gibi akraba türler bu tehlikenin canlı hatırlatıcılarıdır. 10th Edition yayınları Shaper geleneğini farklı işlevlere ayırarak genişletir: kindred'i yolculuğunda yönlendiren Trail Shaper, savaşta önderlik eden War Shaper ve etin kutsal bilgisini taşıyan Flesh Shaper gibi roller öne çıkar.
+Kroot Shaper, Kroot Kindred'inin lideridir — T'au İmparatorluğu'nun doğrudan askeri gücü ya da en yüksek teklifi verene hizmet satan paralı grup olarak görev yapar. Kadim bilgelik ve şamanik yetenekle tanınan bu figürler, Kroot'un 'et yeme' evrimini yönlendiren 'yol gösterici' olarak türünün manevi ve genetik bekçisidir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Codex: Tau*
 

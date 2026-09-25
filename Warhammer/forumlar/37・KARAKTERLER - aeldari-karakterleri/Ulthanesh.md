@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/96/EldarRaceRune.png/rev
 
 ## Tarihçe
 
-Ulthanesh (Ulthanash), Aeldari mitolojisinde Eldanesh hanesinin en büyük 'ölümlü' kahramanı; Eldanesh'in hikâyesinde kilit figür olarak ırkın 'ilk kahraman' örneği.
+Ulthanesh (Ulthanash), Aeldari mitolojisinde Eldanesh'in hikâyesindeki kilit figür ve ırkın en büyük 'ölümlü' kahramanıdır. Eldanesh hanesinin üyesi olarak, tanrıların dahi kıskandığı bu figür Aeldari'nin 'kahramanlık ideali'nin mitolojik kaynağıdır — Tanrılar Cağı öncesi yıldızlı günlerin destanı.
 
 -# Kaynaklar: *Fandom wiki*

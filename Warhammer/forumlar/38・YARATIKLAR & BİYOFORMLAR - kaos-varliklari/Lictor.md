@@ -15,7 +15,7 @@ Rengini ve dokusunu çevresine uyduran pullarıyla neredeyse görünmez hâle ge
 
 ## Tarihçe
 
-Imperial kaynaklarda Lictor'un bir dünyada görülmesi, çoğu zaman bir Hive Fleet'in yaklaştığının ilk işaretidir. Kaybolan devriyeler ve açıklanamayan ölümler, istila başlamadan önce Lictor'ların varlığını ele verir. Deathleaper olarak bilinen organizma, bu türün adlandırılmış ve ayrı kayda değer bir örneğidir.
+Lictor (Tyranicus chameleo), Tyranid'in özel evrimleşmiş izci-suikastçı biyoformudur; görünmezlik kamuflajıyla sızar ve 'Feeder Tendrils' ile kurbanının beyin ve omurilik sıvısını çıkarıp anılarını Hive Mind için analiz eder — 'canlı istihbarat toplayıcı' olarak istilanın öncü gözü ve bıçağıdır.
 
 ## Teknik / Biyolojik Özellikler
 

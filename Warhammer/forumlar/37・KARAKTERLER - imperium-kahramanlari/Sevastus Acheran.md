@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8a/AcheranSMII.jpg/revis
 
 ## Tarihçe
 
-Sevastus Acheran, Ultramarines'in 2. Bölük kaptanıdır; Titus'un Space Marine II'de hizmet ettiği subay — modern Ultramarines'in saha komutanı.
+Sevastus Acheran, Primaris Space Marine olarak Ultramarines 2. Bölüğü'nün eski kaptanı ve 'Nöbetin Efendisi'ydi. Aslen bölüğün uzun süreli komutanı Cato Sicarius'un emrinde görev yaptı; Sicarius Büyük Yarık'ın doğuşunda Terra'dan Macragge'a dönerken Warp'ta kaybolunca Acheran onun yerini aldı. Recidious Seferi'nde battle barge Resilient'tan komuta eden bu figür, 'yedekten efendiye' yükselen Primaris kuşağının önde gelen isimlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,7 +16,7 @@ Shadowsun, T'au Empire'ın en önde gelen Fire Caste komutanlarından biri olara
 
 ## Tarihçe
 
-Damocles bölgesindeki 7th Edition campaign anlatılarında Agrellan'da Imperial kuvvetlere karşı imparatorluğun savaşını yönetir; aynı dönemde belirli bir savaşta Farsight'la aynı cephede görünmesi ayrılığı sona erdirmemiştir. Psychic Awakening döneminde Fifth Sphere Expansion'ın başında Chalnath Expanse ve Astorgius seferlerini yönetir; sonraki yayınlar da bu genişleme dalgasını onun komutasıyla ilişkilendirir.
+Commander Shadowsun — kendi halkı arasında Shas'O Shaserra — 'Greater Good'un Mizrakbaşı', 'Puretide'ın Gerçek Öğrencisi', 'Üçüncü Küre Genişlemesinin Kahramanı' olarak bilinir; T'au Fire Caste'in askeri seferinin komutanıdır. Stealth battlesuit'leriyle 'görünmez general' olarak T'au'nun en ünlü saha komutanıdır.
 
 -# Kaynaklar: *Shadowsun: The Last of Kiru's Line — Justin D. Hill*; *War Zone Damocles: Kauyon*; *Psychic Awakening: The Greater Good*; *Codex: T'au Empire — 10th Edition*
 

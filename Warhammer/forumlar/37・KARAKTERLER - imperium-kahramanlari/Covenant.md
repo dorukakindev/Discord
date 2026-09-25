@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Inquisitor_Covenant_C
 
 ## Tarihçe
 
-Covenant, Calixis Sektörü'nde faaliyet gösteren deneyimli Inquisitor'dur; Dark Heresy kampanya dünyasının tanınan figürlerinden.
+Covenant, daemon avcısı Ordo Malleus'un Inquisitor'üdür; Inquisition'un içindeki 'yozlaşmayı temizlemeye' adanmış yeni nesil ateşli figürlerden biridir. Ordo Malleus üyesi olarak Psycannon gibi özel daemon-avcısı ekipmanlara erişimi vardır ve daha az puritan olan meslektaşlarının yarattığı Daemonhost'ları özellikle yok etmeyi görev edinir. Şu anda Imperium'un güney bölgelerini tarayıp kendi kurumunun karanlığını avlıyor — 'avcının avcısı' olarak tartışmalı bir figür.
 
 -# Kaynaklar: *Fandom wiki*

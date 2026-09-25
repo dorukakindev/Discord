@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/91/Knight-Errant_Tylos_R
 
 ## Tarihçe
 
-Tylos Rubio, Ultramarines'in psyker'ıydı; Calth'ta hayatta kaldı ve Malcador'un gizli projesine katılıp ilk Grey Knights'lardan biri oldu — 'Knight Errant'lerin kurucularından.
+Tylos Rubio, Büyük Sefer ve Heresy başında son derece güçlü bir Space Marine savaş psyker'ıydı; eskiden Ultramarines'in Codicier'ıydı — İmparator'un Nikaea Konseyi'ndeki fermanı lejyonların psyker kullanımını yasaklayınca Librarius'tan ayrıldı. Sonradan Nathaniel Garro'nun Knight-Errant'larına katıldı ve sonunda Malcador'un emriyle yeni Grey Knights'ın ilk Grand Master'larından biri oldu — 'yasaktan doğan şövalye' olarak İmparatorluk tarihinin en gizli geçişini yaşayan figür.
 
 -# Kaynaklar: *Fandom wiki*

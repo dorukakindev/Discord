@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9e/KarnakTwins.webp/revi
 
 ## Tarihçe
 
-Karnak Twins, Chaos'a bağlı iki kardeş suikastçı/sorcerer figürüdür; İmparatorluk kayıtlarında nadir geçen gizemli düşmanlar.
+Karnak İkizleri — Rinda ve erkek kardeşi Rodin Karnak — Traitoris Militarum'un Moebian 6. Alayı'nın Hive Tertium doğumlu subaylarıdır ve Atoma Prime'daki Nurgle çürümesini yaymaya çalışan Kaptan Wolfer'in baş yaverleridir. Darktide'ın ana antagonistlerinden olan ikizler, bir zamanlar sadık İmparatorluk askerleriydi; düştükten sonra bile disiplinli ve koordineli savaşırlar — 'birbirini tamamlayan hain çift' olarak Moebian 6.'nın en tehlikeli suç ortaklarıdır.
 
 -# Kaynaklar: *Fandom wiki*

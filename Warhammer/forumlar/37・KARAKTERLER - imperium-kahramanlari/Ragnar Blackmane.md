@@ -12,6 +12,6 @@ Fenris'in sert buzul dünyasından gelen Ragnar, daha genç bir savaşçıyken b
 
 ## Tarihçe
 
-Space Wolves'un en genç Wolf Lord'u; Wolfblade döneminden Chapter'ın en sert isimlerine yükseldi. Salamander'daki Thousand Sons savaşlarında kaybettiği Spear of Russ'ın peşine düştü — hikâyesi Chapter'ın kayıp emanet destanıdır.
+Ragnar Blackmane — bazen 'Kara Kurt' — Space Wolves'un yükselmiş Primaris subayı ve Leman Russ'ın oğulları tarihinde bir Büyük Bölüğü yöneten en genç Wolf Lord'dur. Blood Claw'dan hızla yükselerek 'en genç efsane' statüsüne ulaştı; Bloodied Fang'ı ve keskin zekâsıyla bilinen bu figür, Fenris'in yeni kuşağının yüzüdür — 'yaşayan destan' olarak chapter'ın en ünlü aktif kahramanı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

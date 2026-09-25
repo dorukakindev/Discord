@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Efc10968b662d90160c30
 
 ## Tarihçe
 
-Kelbor-Hal, Horus Heresy'de Mars'ın Fabricator General'iydi; Horus'a katılıp 'Dark Mechanicum'u kurdu — Mechanicum'un iki yakan savaşını başlatan adam, Moravec sığınaklarında bulduğu yasak bilgiyle yozlaştı.
+Kelbor-Hal, Büyük Sefer ve Heresy başında Mars'ın fabricator-general'ıydı — eski Mechanicum'un politik ve manevi lideri ve Cult Mechanicus magi'lerinin efendisi. Heresy başladığında o ve zihnindekiler Horus'a katıldı ve 'Dark Mechanicum'u kurdu — 'Mars'ın hain efendisi' olarak İmparatorluk'un en büyük teknolojik ihanetinin mimarı oldu.
 
 -# Kaynaklar: *Fandom wiki*

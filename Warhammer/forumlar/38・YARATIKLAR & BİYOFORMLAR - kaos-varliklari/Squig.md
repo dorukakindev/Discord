@@ -15,7 +15,7 @@ Squig, çoğu zaman bir ağızdan ve dişlerden ibaretmiş gibi görünen, ama s
 
 ## Tarihçe
 
-Bir Ork topluluğunun kurulduğu her yerde squig'ler de ortaya çıkar; bu yüzden Ork'ları bir dünyadan temizlemek, onlarla birlikte büyüyen bütün bir ekosistemi söküp atmayı gerektirir. Dev squig türleri **squiggoth** adıyla bilinir ve Ork'larca yük ve savaş hayvanı olarak kullanılır.
+Squig'ler ('Sqaig'lar), Ork ekosisteminin en çok yönlü yaratıklarıdır — yemek, savaş, evcil hayvan ve hatta saç modeli olarak kullanılan yuvarlak, dişli mantar-canlıları. Ork biyolojisinin 'şekilsiz temeli' olarak her yerde bulunurlar; 'dişi olan top' olarak Ork hayatının en basit ve en tehlikeli birimidirler — bir Squig'in ısırığı zırhı bile deler.
 
 ## Teknik / Biyolojik Özellikler
 

@@ -16,7 +16,7 @@ Snaggaların av tutkusunu en uç noktasına taşıyan bir önder. Mozrog için s
 
 ## Tarihçe
 
-Beast Snagga Ork'ları, 9th Edition döneminde Ork anlatısına eklenen, ilkel ve av odaklı bir kültür olarak tanıtıldı; Mozrog onların adlandırılmış önderlerinden biri olarak Codex'te yer aldı. Kaynaklar onu kalabalık bir Snagga savaş grubunu peşinden sürükleyen, en büyük avı arayan bir avcı olarak tasvir eder.
+Mozrog Skragbad, Beast Snagga Ork'larının efsanevi Beastboss'udur — 'en büyük canavar avcısı' olarak Squigosaur bineği üzerinde dev yaratıkları avlar. 'Canavarın da avcısı' figürüyle Beast Snagga kültürünün zirvesidir; onun ekibi galaksinin en büyük yaratıklarını kovalar ve 'en büyük ısırığı' kazanır.
 
 -# Kaynaklar: *Codex: Orks — 9th Edition*
 

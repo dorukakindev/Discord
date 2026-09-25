@@ -15,7 +15,7 @@ Grey Knights'ın Supreme Grand Master'ı. Anlatıya göre bir daemonla yüzleşm
 
 ## Tarihçe
 
-Warp'ta sürüklendiği dönemde gerçekleştirdiği söylenen işler, 5th Edition codex'inde abartılı başarılarla anlatıldı; en bilineni Mortarion'un kalbine kendi adını kazıdığı iddiasıdır. Sonraki yayınlar bu tür ayrıntıları geri planda bırakıp Draigo'yu daha ölçülü bir tonla çerçeveledi: Warp'ın içinden Imperium'a yardım eden, kendi gerçekliğiyle bağı zayıflamış yalnız bir savaşçı.
+Kaldor Draigo, Grey Knights'ın mevcut Supreme Grand Master'ıdır; en azından son standart yüzyıldır Warp'ın Realm of Chaos'unda kayıptır — ama orada bile savaşıyor: Titan Sword'üyle daemonları kesip 'Cehennem'de hayatta kalan adam. 'Kayıp ama ölümsüz efendi' olarak chapter'ın en efsanevi figürü ve 'gerçekliğe geri dönmeyi reddeden kahraman'.
 
 ## Kanon Notu
 

@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a0/Feirros.jpg/revision/
 
 ## Tarihçe
 
-Malkaan Feirros, Iron Hands'in Iron Father'ı ve Master of the Forge'u; Clan Raukaan'ın önde gelen figürü olarak chapter'ın 'etten makineye' felsefesinin yaşayan temsilcisi.
+Malkaan Feirros, Iron Hands'ın Iron Father'ı ve Master of the Forge'u; Clan Raukaan'ın önde gelen figürü olarak chapter'ın 'etten makineye' felsefesinin hem koruyucusu hem yaşayan kanıtıdır. Teknik ve doktrinel otoriteyi aynı bedende birleştiren nadir figürlerden biri.
 
 -# Kaynaklar: *Fandom wiki*

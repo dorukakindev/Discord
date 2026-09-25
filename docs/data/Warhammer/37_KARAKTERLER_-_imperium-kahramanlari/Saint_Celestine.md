@@ -12,6 +12,6 @@ En çarpıcı özelliği, ölümsüzlüğüdür: savaşta defalarca öldürülm�
 
 ## Tarihçe
 
-Order of Our Martyred Lady'nin yaşayan azizi; ölür ama asla ölmez — her düşüşte geri döner. Cadia'nın düşüşünde ve Guilliman'ın dirilişinde sahneye çıktı; İmparatorluk'un en görünür mucizesidir.
+Saint Celestine, Adepta Sororitas'ın Order of Our Martyred Lady'sinin Yaşayan Azizesidir — inanılmaz psişik güç ve inanca sahip bu varlığın İmparator tarafından defalarca ölümden diriltilip görevlendirildiğine inanılır. Ölümlü olarak savaşta düştüğü sanıldı ama defalarca geri döndü; 'yaşayan mucize' olarak İmparatorluk'un en kutsal savaş figürü, kriz anlarında beliren kurtarıcı meleğidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

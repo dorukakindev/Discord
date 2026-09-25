@@ -15,7 +15,7 @@ Yılanımsı bir gövde, uzun pençeli kollar ve kafatasını andıran bir başl
 
 ## Tarihçe
 
-Great Sleep boyunca Tomb World'lerin koridorlarında nöbet tutan ve bakım işlerini yürüten Wraith'ler, uyanış çağında Necron ordularıyla birlikte savaş alanına da çıkar. Kaynaklarda mezar dünyalarını yağmalamaya çalışan akıncıların en ölümcül düşmanları arasında anılırlar.
+Canoptek Wraith, Necron'un otomatik robotik yapısıdır — Tomb World'ün merkezi işletim sisteminin gözleri ve kulakları olarak davetsiz misafirleri izler ve kadim sistemleri hasar ile çürüme işaretleri için denetler. Faz-değiştirme yeteneğiyle duvarlardan geçen bu 'hayalet makine', tomb'ların sessiz bekçisidir.
 
 ## Teknik / Biyolojik Özellikler
 

@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Chapter_Master_Gabrie
 
 ## Tarihçe
 
-Gabriel Angelos, Blood Ravens'ın efsanevi komutanı ve sonradan Chapter Master'ıdır; Tartarus, Kronus ve Kaurava seferlerinde İmparatorluk zaferlerinin mimarı — Dawn of War serisinin simge kahramanı.
+Gabriel Angelos, Blood Ravens'ın mevcut Chapter Master'ı ve eski 3. Bölük kaptanıdır; Chaos'un kuklası haline gelmiş eski Chapter Master-Azariah Kyras'ı bizzat öldürmekle yükümlü figürdür. Daemonhammer 'God-Splitter' ile savaşan bu figür, Tartarus'taki ilk görevlerinden chapter'ın efendisine yükselen 'kendi efendisini yargılayan' adam olarak Dawn of War serisinin kahramanıdır.
 
 -# Kaynaklar: *Fandom wiki*

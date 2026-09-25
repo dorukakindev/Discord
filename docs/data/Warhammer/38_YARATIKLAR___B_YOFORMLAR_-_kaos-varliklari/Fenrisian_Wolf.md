@@ -16,7 +16,7 @@ Fenris kurtları, gezegenin acımasız kışlarında avlanan ve Fenris'in savaş
 
 ## Tarihçe
 
-Fenris sagalarına göre Leman Russ'ı çocukken dev bir dişi kurt büyüttü; bu anlatı, Chapter'ın sözlü geleneğine ait bir destan olarak okunmalıdır. Russ'ın yanında dolaştığı anlatılan Freki ve Geri adlı kurtlar da aynı geleneğin parçasıdır. Space Wolves arasında Fenris kurtları Wolf Lord'ların yol arkadaşları olarak savaşır; en irileri **Thunderwolf** olarak bilinir ve savaşçıların bineği olur.
+Fenrisian Wolf (Lupus fenrisii), Space Wolves'un donmuş homeworld Fenris'inin devasa, yarı-zeki avcısı ve kalıcı simgesidir; Space Wolves Astartes'leri, primarch'ları Leman Russ'ın kadim geleneğiyle bu kurtları 'savaş kardeşi' olarak yetiştirir. 'Köpekle savaşan bölük' olarak chapter'ın kimliğinin canlı parçasıdır.
 
 -# Kaynaklar: *Codex: Space Wolves*; *Prospero Burns — Dan Abnett*; *Wolfsbane — Guy Haley*
 

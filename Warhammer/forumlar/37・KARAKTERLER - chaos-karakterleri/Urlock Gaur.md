@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Urlock Gaur, Blood Pact'in 'Gaur'ı ve Nadzybar'ın ardından Sabbat Worlds'deki Chaos kuvvetlerinin Archon'u; İmperium'un en organize kaos ordusunun komutanı — 'Blood Pact'in kalbi'.
+Urlock Gaur, ünlü 'Blood Pact' Chaos ordusunun Gaur'ı — yani lideri — ve selefi Nadzybar'ın ölümünden sonra Sabbat Dünyaları Sektörü'ndeki tüm Chaos kuvvetlerinin Archon'u oldu. Blood Pact'i sıradan bir kült ordusundan çıkarıp İmparatorluk'a neredeyse ayna gibi disiplinli bir savaş makinesine çevirdi; askerleri düzenli üniformalar, alay yapısı ve korku disipliniyle İmperial Guard'ın 'karanlık ikizi' sayılır. Sabbat Seferi'nde İmparatorluğun en zorlu düşmanı oldu; Chaos'un 'medeni' yüzü olarak tarihe geçti.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,7 +16,7 @@ Aaron Dembski-Bowden'ın Black Legion romanlarının birinci ağızdan anlatıc�
 
 ## Tarihçe
 
-Eye of Terror'daki Legion Wars sırasında Abaddon'la yolları kesişti ve Horus'un mirası üzerinde hak iddia eden güçlere karşı onun yanında yer aldı. Sons of Horus'un kalıntılarından yeni bir Legion kurulmasında, Horus'un bedeni ve amiral gemisi *Vengeful Spirit* etrafında dönen mücadelede ve Abaddon'ın en yakın komutanlarından oluşan çemberin, Ezekarion'un, oluşumunda rol aldı. Yanında Rubricae muhafızları, daemon kurdu Gyre ve Aeldari okçu Nefertari bulunur.
+Iskandar Khayon — 'Kingbreaker', 'Kara Khayon' — aslen Thousand Sons'lı Heretic Astartes Chaos Sorcerer'ıdır; Power Axe 'Saern' ile bilinen bu figür, lejyonunun dağılması sonrası Black Legion'a geçti ve Abaddon'un Ezekyle Abaddon'la 'Uzun Savaş'ın anlatıcısı oldu. 'İki lejyonun büyücüsü' olarak Heresy sonrası Chaos'un güç dengesinin gözlemci-figürü.
 
 -# Kaynaklar: *The Talon of Horus — Aaron Dembski-Bowden*; *Black Legion — Aaron Dembski-Bowden*
 

@@ -16,7 +16,7 @@ Warmaster'ın saldırıya geçeceği dünyaların düşüşünü önceden ilan e
 
 ## Tarihçe
 
-*Vigilus Ablaze*'in anlattığı Vigilus seferinde tanıtıldı; Abaddon'ın gezegene saldırısı sırasında Worldclaimer, düşeceğini ilan ettiği dünyanın cephelerinde dolaştı. Vigilus'un düşmemesi, bu ilanların her zaman gerçekleşmediğini gösterir.
+Haarken Worldclaimer, Black Legion'un Chaos Lord'u ve Heretic Astartes Raptor'udur; 'Kıyametin Habercisi' ve Abaddon'un 'Proclamator'ı olarak bilinir — düşecek dünyalara düşüşü ilan eden ağzıdır. Vigilus'ta savunmacılara gezegenin akıbetini söyleyen bu figür, Despoiler'ın psikolojik savaş silahıdır — 'ölümün ilan edildiği' daemonik prelüd.
 
 -# Kaynaklar: *Vigilus Ablaze*; *Codex: Chaos Space Marines*
 

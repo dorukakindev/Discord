@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/81/DoC_warlord_Zahariel.
 
 ## Tarihçe
 
-Zahariel El'Zurias, Dark Angels'ın güçlü Librarian'ıydı; Luther'le birlikte Caliban'ı yönetip Chaos'a yenik düştü — ilk Fallen Angels'lardan biri olarak İmparatorluk'un gizli düşmanı.
+Zahariel (Zahariel El'Zurias), Büyük Sefer ve Heresy'de Dark Angels'ın güçlü Librarian'ıydı; Chaplain Nemiel'in kuzeni olarak The Order'ın iki rekabetçi evladından biriydi. Sonradan Chaos tarafından yozlaştırılıp ilk Fallen Angels'lardan biri oldu — 'sadık lejyonun ilk düşeni' olarak Dark Angels'ın en büyük sırrının ve İç Halka'nın avının merkezindeki trajik figürdür.
 
 -# Kaynaklar: *Fandom wiki*

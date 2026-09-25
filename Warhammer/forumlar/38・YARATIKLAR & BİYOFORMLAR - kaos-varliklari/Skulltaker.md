@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/99/Skulltaker_Updated.pn
 
 ## Tarihçe
 
-Skulltaker, Khorne'un 'kafa avcısı' Herald'ıdır; U'Zuhl lakabıyla bilinen bu daemon, özel olarak 'adını bilen' düşmanları avlayıp kafataslarını toplar — Khorne'un en ünlü 'kişisel' katili.
+Skulltaker (U'zuhl), kötü şöhretli Bloodletter ve Khorne'un Herald'ıdır; Khul'tyran adlı Juggernaut daemonik bineğine sahiptir ve Kan Tanrısının 'Kutsal Celladı' olarak meshedilmiştir. Sık sık 'Cohort of Blood'ın başında savaşa gider; kafatası toplayan bu figür, Khorne'un 'en güçlü düşmanların kafalarını' kişisel koleksiyonuna katan avcısıdır.
 
 -# Kaynaklar: *Chaos Daemons Codex*

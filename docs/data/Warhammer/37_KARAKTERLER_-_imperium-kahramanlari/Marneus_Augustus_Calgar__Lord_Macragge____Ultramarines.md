@@ -15,7 +15,7 @@ Guilliman'ın yokluğunda Ultramar'ı yöneten, soğukkanlı ve Codex Astartes'e
 
 ## Tarihçe
 
-M41'de Hive Fleet Behemoth'un Macragge'a saldırısında savunmayı yöneterek filoyu durdurdu; zaferin bedeli 1st Company'nin yok oluşuydu. Vigilus'ta Saint's Haven'da Abaddon'la teke tek çarpışıp ağır yaralandı; Warmaster'ın geri çekilmesi ise düellonun değil, amiral gemisinin aldığı darbenin sonucuydu. Bu yaraların ardından Rubicon Primaris'ten geçerek Primaris Space Marine'e dönüştü.
+Marneus Augustus Calgar, Ultramarines'in Chapter Master'ı, Greater Ultramar'ın Lord Savunucusu ve Macragge'ın Lord'udur — 'Macragge'ın Efendisi'. Chapter tarihinin en ünlü komutanı olarak Hive Fleet Behemoth'u püskürten figürdür; Guilliman'ın dönüşü sonrası Primaris'e geçip 'ikinci kariyerini' yaşayan 'zamanın ötesindeki general'.
 
 ## Teknik / Biyolojik Özellikler
 

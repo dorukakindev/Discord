@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ae/Hereticus_Stamp.jpg/r
 
 ## Tarihçe
 
-Gholic Ren-Sar Valinov, Word Bearers'ın deneyimli saha komutanlarından; Horus Heresy sırasında Ultramar seferinde görev yapmış karanlık figür.
+Gholic Ren-Sar Valinov, eskiden daemon avcısı Ordo Malleus'a bağlı kötü şöhretli bir Inquisitor'dü — önce Radical'a, sonra düpedüz Heretic'e dönüştü. Tzeentch'in 'Bin Yüzlü Prens' Ghargatuloth adlı Greater Daemon'unun baş ajanı olduğu ve onun yeniden doğuşunda kilit rol oynadığı düşünülür; aynı zamanda birçok büyük Chaos komplosunun baş kışkırtıcısıdır. 'Kendi içinden düşen avcı' olarak Inquisition'un en utanç verici ihanetlerinden birinin simgesidir.
 
 -# Kaynaklar: *Fandom wiki*

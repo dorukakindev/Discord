@@ -16,7 +16,7 @@ Zihni hâlâ Necrontyr çağının savaşlarında yaşayan Nemesor Zahndrekh ile
 
 ## Tarihçe
 
-Uyanışta yaşanan hafıza kaybı ve yanılsamaların en bilinen örneği Zahndrekh'tir. Obyron, efendisinin hayal ettiği dünyayı yıkmaya kalkışmaz; onu korur ve gerektiğinde yönlendirir.
+Nemesor Zahndrekh, Sautekh Hanedanı'nın efsanevi nemesor'u — Necron'un en büyük askeri dehasıdır; Büyük Uyku'dan hasarlı çıkmış, kendini hâlâ organik bir Necrontyr asilzadesi sanan lord. Sadık koruması Vargard Obyron, efendisinin sanrısını bilen ve 'onurlu esirleri' sessizce infaz eden figürdür — ikili Necron'un 'asaletin kalıntısı' trajedisi.
 
 -# Kaynaklar: *Codex: Necrons — 5th Edition*; *Severed — Nate Crowley*
 

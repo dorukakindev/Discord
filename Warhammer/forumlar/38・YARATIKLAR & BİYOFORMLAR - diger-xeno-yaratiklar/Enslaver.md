@@ -12,6 +12,6 @@ Enslaver'lar, ele geçirdikleri canlıların zihnini tümüyle silip onları bey
 
 ## Tarihçe
 
-Warp-benzeri xeno avcısı; zihinlere giren ve bedenleri kontrol eden parazitik canlı. Enslavement dalgaları dünyaları sessizce ele geçirir — İmparatorluk'un en sinsi tehditlerinden.
+Enslaver ('Köleleştirici'), Warp'ın en korkulan varlıklarından biridir — kafadan bacaksız, dokunaçlı dev mantar şeklindeki bu xenos/psişik varlık, ölümlülerin zihnine girip onları 'kukla' yapar; psyker'lara özellikle düşmandır. 'Zihin tüketen' olarak bilinen bu varlıklar, erken Warp istilalarının efsanevi figürlerindendir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

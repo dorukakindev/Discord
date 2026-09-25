@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Tyranid_Biovore.jpg/r
 
 ## Tarihçe
 
-Biovore'lar, Tyranid ordularında dolaylı ateş desteği sağlayan organizmalar olarak anlatılır. Siperlenmiş savunuculara karşı spore mine yağmuru, onları saklandıkları yerden çıkarmaya ya da bekledikleri yerde çürütmeye yarar.
+Biovore (Tyranicus patris-boletus), Tyranid sürülerinin güçlü 'canlı topçu' silahıdır; bodur, tümsekli bedeninin derinliklerinde bir dizi Spore Mine — canlı bomba — besler ve savaş alanını asit, zehir ve iğne bulutlarıyla kaplar. 'Yürüyen cephane fabrikası' olarak menzilinin ötesinden ölüm yağdıran bu varlık, piyadeyi vahşice değil stratejik olarak ezer.
 
 ## Teknik / Biyolojik Özellikler
 

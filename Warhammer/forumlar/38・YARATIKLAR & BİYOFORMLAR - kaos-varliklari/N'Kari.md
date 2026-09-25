@@ -18,6 +18,6 @@ Ulthwé kayıtlarında en korkulan Keeper of Secrets; Phoenix Lord Jain Zar'ı n
 
 ## Tarihçe
 
-N'Kari, Slaanesh'in en eski ve en ciddi Keeper of Secrets'larındandır; Aeldari'nin düşüşü çağında doğduğu söylenir. Ulthwé seer'ları ismini fısıldar: Jain Zar'la çarpıştı, ikisi de yaralı çıktı ama N'Kari'nin ruh hasadı durmadı. Her dönüşünde bir craftworld'ün ruh hazinesine uzanır — Aeldari'nin en korktuğu varlıklardandır.
+N'Kari, bazılarının Slaanesh'in Aşırılık Lejyonları içindeki en büyük Keeper of Secrets saydığı güçlü büyü-kullanan Greater Daemon'dur; kritik anlarda realspace'i defalarca istila etti. Aeldari'nin en eski düşmanlarından biri olarak 'kadim zevk efendisi' ününü taşır — Fall'un doğuşundan beri var olan figürlerden.
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Aeldari*

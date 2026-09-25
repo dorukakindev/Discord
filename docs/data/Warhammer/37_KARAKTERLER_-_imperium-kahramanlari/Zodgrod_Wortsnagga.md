@@ -16,7 +16,7 @@ Zodgrod, Ork tarihinin en ünlü Runtherd'lerinden biri olarak anılan, Gretchin
 
 ## Tarihçe
 
-Kaynaklar, Zodgrod'un yöntemlerinin başlangıçta alay konusu olduğunu, fakat köşeye sıkışan Warboss'ların onun eğittiği "Super-Runts" adı verilen grot'lara başvurmaktan çekinmediğini anlatır. Zor yoldan kazanılmış bu ün, onu Ork toplumunun alt katmanlarına yeni bir gözle bakan nadir figürlerden biri yapmıştır.
+Zodgrod Wortsnagga, Ork tarihinin belki de en büyük Runtherd'ıydı — gretchin ve squig'lerin 'çobanı'. Snakebites klanından Warboss Ugulhard Duffgruntas'ın köktenci Chargerz'ından kovuldu (teknolojiyi aşırı reddeden bu grup için bile fazla 'ileri'ydi) — 'Grot'un efendisi' olarak Ork hiyerarşisinin en dip ama en gerekli figürü.
 
 -# Kaynaklar: *Codex: Orks — 9th Edition*
 

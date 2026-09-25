@@ -16,7 +16,7 @@ Space Wolves'un uzun ömürlü Chapter Master'ı. Fenris geleneğinin, Russ'a ba
 
 ## Tarihçe
 
-First War for Armageddon'da Space Wolves'u Angron'un daemon ordusuna karşı savaştırdı; ardından Inquisition'ın tanıkları susturma girişimine karşı çıkması, Chapter ile Inquisition arasındaki uzun husumetin başlangıcı oldu. Magnus the Red'in Thousand Sons'la Fenris'e saldırdığı *Wrath of Magnus* anlatısında yurt dünyasının savunmasını yönetti. Great Rift çağında Chapter'ı yeni savaşlara sürdü; güncel anlatı onun liderliği ve Wolftime beklentisi etrafında gelişir.
+Logan Grimnar, Space Wolves'un 'Büyük Kurdu' — Chapter Master'ıdır ve Era Indomitus'un en büyük Astartes liderlerinden biri. Fenris'in 'Yaşlı Kurt'u olarak yüzyıllardır chapter'ı yöneten bu figür, İmparatorluk'un en savaşkan ve dikbaşlı komutanı olarak bilinir — 'bağımsız kurt' olarak Space Wolves'un özgür ruhunun bedenidir.
 
 -# Kaynaklar: *Codex Supplement: Space Wolves*; *War Zone Fenris: Wrath of Magnus*
 

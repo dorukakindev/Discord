@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/30/Jurgen.jpg/revision/l
 
 ## Tarihçe
 
-Ferik Jurgen, Valhallan Ice Warriors'ın gunner first class'ı ve onlarca yıl Commissar Ciaphas Cain'in yaveriydi; kokusu ve 'kahve-seven' sadakatiyle efsaneleşmiş — İmparatorluk'un en ünlü yaveri.
+Ferik Jurgen, Astra Militarum'un Valhallan Ice Warriors alaylarının gunner first class'ıydı ve onlarca yıl boyunca Commissar Ciaphas Cain'in yaverliğini yaptı. Cain'in Schola Progenium'dan mezun olup Desolatia IV'teki 12. Valhallan Saha Topçusu'na ilk atamasında yaver olarak atandı. Bakımsız görünümü, sosyal becerilerinin yokluğu ve bir Carnifex'i bile sersemletecek vücut kokusuna rağmen kariyeri boyunca Cain için vazgeçilmez oldu: korkusuzluğu, efendisine sarsılmaz sadakati ve en önemlisi onunla paylaşılan sıcak 'tervallar' (re-caff) geleneğiyle İmparatorluk'un en ünlü yaveri olarak tarihe geçti.
 
 -# Kaynaklar: *Fandom wiki*

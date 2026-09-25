@@ -16,7 +16,7 @@ Striking Scorpions'ın Phoenix Lord'u; gölgelerde bekleyen, sabırlı ve ölüm
 
 ## Tarihçe
 
-Asurmen'in öğrencilerinden Arhra, Striking Scorpions'ı kurduktan sonra düştü; Aspect'in bir kolu onun mirasını karanlık bir yöne taşıdı ve bu çizginin Commorragh'taki Incubi geleneğiyle ilişkilendirildiği anlatılır. Karandras, Aspect'i kurucusunun gölgesinden kurtararak Striking Scorpions'ın Phoenix Lord'u oldu. Binyıllar boyunca Craftworld'lerin savaşlarında ortaya çıkıp kaybolan bir figür olarak anılır.
+Karandras — 'Gölge Avcısı' — Craftworld Aeldari'nin Striking Scorpions Aspect'inin Phoenix Lord'udur; efsaneye göre düşmüş Phoenix Lord Arhra'nın öğrencisiydi ve onu avlamaya yemin etti. 'Kendi ustasını kovalayan figür' olarak zıpkın gibi sessiz avcıdır — 'en sessiz Phoenix' olarak bilinir.
 
 -# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
 

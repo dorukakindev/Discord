@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Vulture2.png/revision
 
 ## Tarihçe
 
-Vulture, Navis Imperialis Aeronautica Imperialis'in dikey kalkışlı ağır gunship'i; ağır hava desteği ve zırhlı avında kullanılan 'saldırı helikopteri' sınıfı platform — Imperial Guard'ın gökyüzü topçusu.
+Vulture, Navis Imperialis'in Aeronautica Imperialis'ine ait dikey kalkışlı ağır gunship'idir; Astra Militarum kara birliklerine hava desteği sağlar. Elysian Drop Troops gibi hafif hava indirme birlikleri zırhlı destekten yoksun oldukları için ilk saldırılarda tamamen Vulture'ın ateş gücüne bel bağlar; 'uçan topçu bataryası' olarak da bilinir. Geniş silah yelpazesiyle piyade, zırhlı ve tahkimatları aynı anda avlayabilen çok yönlü platformdur.
 
 -# Kaynaklar: *Fandom wiki*

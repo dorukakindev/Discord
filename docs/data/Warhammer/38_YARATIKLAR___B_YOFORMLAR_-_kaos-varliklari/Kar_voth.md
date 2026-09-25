@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Kar'voth, Khorne'un Bloodthirster'ı; Kaldor Draigo'yla karşılaşan 'talihsiz' daemon olarak bilinir — 'yanlış adamı bulan' figür.
+Kar'voth, Khorne'un Bloodthirster'ıdır — bu zavallı Blood God kulu hakkında bilinen tek büyük olay, Warp'ta Realm of Chaos'ta dolaşmak zorunda kalan Kaldor Draigo'yla karşılaşmasıdır. Sayısız çağ boyunca korkunç arazide yürüyen Grey Knights Supreme Grand Master'ıyla çatışan bu dev daemon, 'Warp'taki en tehlikeli avcıyla en tehlikeli avın' karşılaşmasının parçasıdır.
 
 -# Kaynaklar: *Fandom wiki*

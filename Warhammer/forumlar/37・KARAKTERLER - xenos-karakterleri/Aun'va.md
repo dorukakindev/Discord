@@ -13,7 +13,7 @@ Aun'Va, T'au Empire'ın en yüksek otoritesi olan Ethereal High Council'in baş�
 
 ## Tarihçe
 
-Kaynaklar Aun'Va'yı uzun bir süre boyunca imparatorluğun genişleme dalgalarını yönlendiren ve Fire Caste komutanlarına, özellikle Commander Shadowsun'a, savaş yetkisi veren figür olarak anlatır. 7th Edition'ın Damocles bölgesindeki campaign anlatısında, Second Agrellan Campaign sırasında gizli komuta merkezine sızan bir Culexus Assassin tarafından öldürülür; bu, T'au Empire'a indirilmiş stratejik bir darbe olarak sunulur.
+Aun'Va, T'au İmparatorluğu'nun en yüksek Ethereal'ıydı — 'Master of the Undying Spirit' olarak bilinen figür, Ethereal Kastı'nın lideri ve Greater Good'un manevi tepesiydi. Damocles Körfezi ve sonrasındaki tüm T'au politikalarının mimarı olarak 'imanın sesi'ydi; Space Marines'in elinde öldürülüp yerini gizli hologram/halef aldığı söylenir.
 
 ## Kanon Notu
 

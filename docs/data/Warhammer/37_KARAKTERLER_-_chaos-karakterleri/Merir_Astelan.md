@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Chapter_master_Merir_
 
 ## Tarihçe
 
-Merir Astelan, Dark Angels'ın Terran doğumlu ilk Legion Master'larındandı; Heresy'de Luther'e katılıp Caliban'ın ihanetini yöneten kilit figürlerden — sonradan İmparatorluk'a sızan Fallen liderlerinden.
+Merir Astelan, Terra doğumlu Dark Angels bölük komutanıydı ve Heresy sırasında İmparator'a ihanet eden en rezil Fallen Angels'lardan biri sayılır — chapter tarihinin karanlık sayfasının yazarı. 40. Binyıl'da chapter tarafından geri yakalanan bu figür, 'ilk düşen subay' olarak Fallen destanının merkezi karakterlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*

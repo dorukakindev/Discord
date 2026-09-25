@@ -16,6 +16,4 @@ III. Savaş'ta İmparatorluk'un zaferi Ghazghkull'u durduramadı: hayatta kaldı
 
 ## Tarihçe
 
-Gork ve Mork'un peygamberi; tarihin en büyük Ork Warlord'u. Armageddon'u iki kez istila etti, Ullanor'u gördü, Prophet of the WAAAGH! olarak Ork türünün lideri sayılır. Imperial Fists'in eksik primarch'ından bile daha tehlikeli.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Ghazghkull Mag Uruk Thraka (kısaca Ghazghkull), Goff klanının Ork warlord'u ve WAAAGH!'ın güçlü peygamberidir — Gork ve Mork'un sesini duyduğuna inanılan tek Ork. 41. Binyıl'ın galaksisindeki en etkili Ork'tur; İkinci Armageddon Savaşı'nı kaybetmesine rağmen Üçüncü'de döndü ve 'Büyük WAAAGH!'ın' lideri olarak tüm klanl

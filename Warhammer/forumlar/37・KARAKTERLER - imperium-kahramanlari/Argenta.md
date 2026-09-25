@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/52/SisterArgenta.jpg/rev
 
 ## Tarihçe
 
-Argenta, Adepta Sororitas'ın (Order of Our Martyred Lady → Orders Pronatus) savaş kızkardeşidir; House von Valancius Rogue Trader'ının ekibine katılarak Koronus Expanse'ın en tehlikeli bölgelerinde inancını kılıç gibi kullandı.
+Argenta, Adepta Sororitas'ın Orders Pronatus üyesi ve eski Order of Our Martyred Lady kızkardeşidir; House von Valancius Rogue Trader'ının ekibinde görev yapar. Astra Militarum subaylarının yetim kızı olarak Schola Progenium'da sert eğitim aldı; Sisters of Battle'ın 'inançlı savaş makinesi' doktrinini en katıksız haliyle temsil eder. Koronus Expanse'ın en tehlikeli bölgelerinde bile 'kutsal ateş' ve bolter'la İmparator'un yolunu koruyan, 'kızıl dua'lı figür.
 
 -# Kaynaklar: *Fandom wiki*

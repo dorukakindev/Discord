@@ -15,7 +15,7 @@ On bin yılı aşkın süredir yaşayan, Space Wolves'un hayattaki en yaşlı sa
 
 ## Tarihçe
 
-Russ'ın ortadan kaybolmasının ardından Chapter'ı onun yönettiği ve Great Wolf unvanının onunla başladığı anlatılır. Daha sonra ölümcül yaralar alarak bir Dreadnought'a yerleştirildi. O günden bu yana uzun uykulardan yalnızca büyük tehlike anlarında uyandırılır; Wolf Lord'lar ve Rune Priest'ler onun sözüne, Primarch'ın döneminden kalan bir tanıklık gibi kulak verir.
+Bjorn the Fell-Handed — 'En Kadim', 'Trueclaw', 'Saygın Olan', 'Russ'ın Bölüğünden Sonuncu' — Space Wolves'un Venerable Mars Pattern Mark V Dreadnought'u ve eski Büyük Kurt'udur; on bin yaşından fazladır ve Leman Russ'la yan yana savaşmış son figürdür. 'Yaşayan tarih' olarak chapter'ın en eski bilgesi ve Russ'ın dönüşünü bekleyen son tanıktır.
 
 ## Kanon Notu
 

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7b/MaySymbol.jpg/revisio
 
 ## Tarihçe
 
-Kutlakh ('Dünya Katili'), Necron'un ünlü 'Crown of Worlds' generallerinden biridir; Toil'in Felaketi olarak da bilinen bu overlord, Maynarkh hanedanının 'yıkım elçisi'dir.
+Kutlakh 'Dünya Katili', Necron Maynarkh Hanedanı'nın efsanevi nemesor'udur — 'uyuyan ırkın' en kanlı generali olarak bilinir. Uykudan hasarlı çıkmış olmasına rağmen savaş yeteneği kusursuzdur; Ork imparatorluklarına ve İmparatorluk kolonilerine karşı sayısız yıkım seferi yürütmüştür. 'Canlı dünyaları katleden' figür olarak Necron'un en korkulan komutanlarından biridir.
 
 -# Kaynaklar: *Imperial Armour XII*

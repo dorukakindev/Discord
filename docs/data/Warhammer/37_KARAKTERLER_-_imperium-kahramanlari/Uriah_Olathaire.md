@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Raptor_Imperialis_Ico
 
 ## Tarihçe
 
-Uriah Olathaire, Terra'nın 'son kilisesi'nin son rahibiydi; Büyük Birleştirme sonunda İmparator'la bizzat tanışıp inancını savunan, sonra kilisesiyle birlikte yakılan adam — Imperial Truth'un trajik simgesi.
+Uriah Olathaire, Unification Wars döneminde Terra'daki 'Yıldırım Taşı Kilisesi'nin insan rahibiydi; İmparatorluk tarihi onu 'İmparator son kilisenin son taşını onun üzerine attığında' anımsatan figür olarak kaydeder. İmparator'un din karşıtı seküler yürüyüşünün son engeli olan bu adam, 'son rahip' olarak İmparatorluk'un seküler doğumunun simgesidir.
 
 -# Kaynaklar: *Fandom wiki*

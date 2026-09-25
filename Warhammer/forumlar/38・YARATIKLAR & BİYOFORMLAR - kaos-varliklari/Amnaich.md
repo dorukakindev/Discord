@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/14/KeeperofSecretsAmnaic
 
 ## Tarihçe
 
-Amnaich ('Altın Amnaich', 'Orduların Efendisi'), Karanlık Prens'in bir daemonuna verdiği en kusursuz formu taşıdığı söylenen Keeper of Secrets'dır.
+'Altın Amnaich' veya 'Orduların Lordu', Slaanesh'in güçlü Keeper of Secrets'ıdır; Dark Prince'in daemonlarından birine bahşettiği 'en kusursuz biçim' olarak kabul edilir. Horus Heresy'deki Terra Kuşatması'nda Thousand Sons lejyonunun çağırdığı daemonlar arasındaydı — İmparatorluk Sarayı'nı çevreleyen burçlara saldıran bu figür, 'saf altın' bedeniyle Heresy'nin en büyük kuşatmasının parçası oldu.
 
 -# Kaynaklar: *Fandom wiki*

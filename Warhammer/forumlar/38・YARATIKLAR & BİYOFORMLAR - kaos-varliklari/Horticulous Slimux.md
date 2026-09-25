@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/94/Horticulous.png/revis
 
 ## Tarihçe
 
-Horticulous Slimux ('Büyük Yetiştirici'), Nurgle'un cehennem bahçesini yetiştiren baş Herald'dır; pratik ve şaşırtıcı derecede ciddi bir daemon — Nurgle'un en güvendiği figürlerdendir.
+Horticulous Slimux — 'Büyük Yetiştirici' — Nurgle'un Herald'ıdır; Plague God'un bahçesinin baş yetiştiricisi olarak özel önem taşır. Pratik ve şaşırtıcı derecede mizahsız bu figür, sadık bineği salyangoz benzeri 'Mulch'un kabuğuna ur-sertleşmiş ayağıyla vurarak sürer. Nurgle'un 'bahçıvanı' olarak Veba Bahçesi'nin tüm hastalıklı 'ürünlerini' ekip biçen ve savaş alanlarına eken daemon-çiftçi.
 
 -# Kaynaklar: *Fandom wiki*

@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/37/MacerVarren.jpg/revis
 
 ## Tarihçe
 
-Macer Varren, World Eaters'ın 12. Bölük'ünün eski kaptanı olarak İmparator'a sadık kalan nadir hain-lejyon figürü; ihanete katılmayıp 'öteki' seçen nadir World Eater.
+Macer Varren, hain World Eaters'ın eski 12. Bölük kaptanıydı — ama lejyonu Chaos'a düşüp Horus'un saflarına katıldığında İmparator'a sarsılmaz sadakatle bağlı kaldı. Isstvan III Vahşeti'nden sonra Nathaniel Garro tarafından 'Knight-Errant' olarak toplandı — 'yolu ayıran sadık' olarak Malcador'un elit gizli ajanlarından biri oldu.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,7 +16,7 @@ Ripper'lar, kurtçuk ya da solucanı andıran, dişlerle dolu ağızlarıyla her
 
 ## Tarihçe
 
-Bir dünyanın savunması çöktükten sonra Ripper sürüleri yüzeyi kaplayarak biyokütleyi toplayan ilk organizmalar arasında yer alır. Bu nedenle Imperial anlatımlarda Ripper'lar, Tyranid istilasının son evresiyle, bir dünyanın kemiklerine kadar sıyrılmasıyla özdeşleşir.
+Ripper Swarm ('Yırtıcı Sürü'), Tyranid'in küçük, solucan benzeri biyoformlarıdır — büyük düşmanların kemiklerini bile temizleyen 'canlı piranha sürüsü'. Sürü halinde ilerleyen bu yaratıklar savaş alanını 'biomasa'ya çevirir; 'son temizlik ekibi' olarak istilanın ardından her şeyi yutan son dalgadır.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

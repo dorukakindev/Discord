@@ -15,7 +15,7 @@ Adı, bir Chapter'ın neredeyse yok oluşundan sağ çıkan inatla özdeşleşmi
 
 ## Tarihçe
 
-Ork Warlord Snagrod'un Waaagh!'ı Rynn's World'e indiğinde Arx Tyrannus'taki bir savunma füzesinin arızalanıp kale-manastırın üzerine düşmesi Chapter'ın büyük kısmını tek anda yok etti. Kantor, enkazdan kurtulan küçük bir kuvveti toplayıp kuşatılmış dünyada halkla omuz omuza direnişi sürdürdü; takviye gelene dek başkentin savunmasını ayakta tuttu. Savaşın ardından Chapter'ın uzun ve sancılı yeniden kuruluşunu üstlendi; Great Rift çağında gelen Primaris takviyeleri bu çabaya eklendi.
+Pedro Kantor — 'Lord Helblade' — Crimson Fists'in 29. ve mevcut Chapter Master'ıdır; 900.M41'den beri yaklaşık bir yüzyıldır yönetir. Rynn's World'ün Ork istilasında chapter'ının neredeyse yok oluşundan onu kurtarıp yeniden inşa eden figür olarak 'kalan son yumruk' efsanesidir.
 
 ## Kanon Notu
 

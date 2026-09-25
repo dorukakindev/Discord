@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Marabas.jpg/revision/
 
 ## Tarihçe
 
-Marabas, Tzeentch'in Lord of Change'i olarak Calixis Sektörü'nde aktifti; Angevin Seferi'ni baltalayan entrikalarıyla bilinen 'karanlık komplo' daemonu.
+Marabas, Değişim'in Lord'u Tzeentch'in Greater Daemon'ıdır (Lord of Change). Calixis Sektörü'nde bir zamanlar aktifti ve entrikaları sektörü İmparatorluk kontrolüne ilk getiren Angevin Seferi'ne karşı çıkan karanlık ellerden biriydi. Sonunda Inquisition onu Malfi dünyasında alt edip Warp'a geri kovdu — ama Marabas intikam için aç ve Calixis'in 'geri dönmeyi bekleyen' en tehlikeli daemonlarından biri olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*

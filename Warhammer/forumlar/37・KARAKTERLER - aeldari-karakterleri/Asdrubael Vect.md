@@ -16,6 +16,6 @@ Karanlık Şehir'in tartışmasız efendisi Vect, soylu hanedanların yüzyılla
 
 ## Tarihçe
 
-Köle kökeninden yükselen Vect, Kabal of the Black Heart'ı kurdu; rüşvet, suikast ve hanedanları birbirine düşürme yoluyla eski soyluluğu çökerterek Supreme Overlord unvanını aldı. Rakiplerinin onu devirme girişimlerini atlatışı, hükümranlığının ayırt edici yanıdır. Yvraine'in şehirde yeniden doğuşu ve kaçışı, Vect'in onu en büyük tehditlerden biri olarak görmesine yol açtı; Gathering Storm ve Psychic Awakening dönemlerinde Ynnari'ye karşı açıkça harekete geçti.
+Asdrubael Vect, Kabal of the Black Heart'ın Drukhari archon'ı ve Karanlık Şehir Commorragh'ın mevcut yüce overlord'udur; halkının en entrikacısı sayılır. 'Komplo'nun kendisi olarak binlerce yıl hüküm süren bu figür, komplo ile Commorragh'ın zirvesine çıkan ve onu elinde tutan figürdür — 'karanlığın efendisi' olarak Drukhari siyasetinin mutlak tepesi.
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Renegade — Andy Chambers*; *Gathering Storm II: Fracture of Biel-Tan*

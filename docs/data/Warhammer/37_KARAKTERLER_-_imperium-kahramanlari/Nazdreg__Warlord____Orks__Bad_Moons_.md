@@ -14,7 +14,7 @@ Klanının karakterini yansıtan, en iyi silahları ve en gösterişli teçhizat
 
 ## Tarihçe
 
-Nazdreg, Warhammer 40,000'in ilk edition'larından beri Bad Moons'un simge Warlord'larından biri olarak anılır. Modern anlatıda *Arks of Omen: Farsight* kitabında yeniden öne çıktı: kaynağa göre Alsanta bölgesindeki dağınık Ork güçlerini kendi bayrağı altında toplayarak Farsight Enclaves'e meydan okudu ve belirleyici bir çarpışmanın sonunda savaş alanından kayboldu; akıbeti açık bırakılır.
+Nazdreg, Bad Moons klanının ünlü Ork Warlord'udur — 'zenginlikle savaşan' figür olarak taktiksel zekâsı ve 'pahalı' donanımıyla bilinir (Bad Moons'da diş = para). Ghazghkull'la ittifakları olan bu figür, 'kurnaz korsan-Warlord' olarak Ork siyasetinin bağımsız oyuncusudur.
 
 -# Kaynaklar: *Arks of Omen: Farsight*; *Codex: Orks*
 

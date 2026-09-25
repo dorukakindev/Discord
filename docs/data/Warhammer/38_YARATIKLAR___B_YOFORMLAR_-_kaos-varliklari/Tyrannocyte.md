@@ -14,7 +14,7 @@ Tyrannocyte, içindeki savaş organizmalarını gezegenin yüzeyine taşıyan, d
 
 ## Tarihçe
 
-Tyranid istilalarında yörüngeden yüzeye yağan spor yağmurları, savunucuların en korkulan görüntülerinden biridir. Tyrannocyte'ler bu yağmurun içinde doğrudan savunma hatlarının arkasına organizma bırakarak düşmanı kuşatır.
+Tyrannocyte, Tyranid'in devasa 'canlı iniş kapsülü'dür — Mycetic Spore'ların daha büyük varyantı olarak yörüngeden biyoformları gezegen yüzeyine taşır. Gökyüzünden düşen 'et meteorları' olarak Hive Fleet'in ilk darbesini indiren bu varlıklar, inişte parçalanıp içindeki canlı ordusunu salar — 'gökyüzünün açılan kabuğu' olarak istilanın habercisidir.
 
 ## Teknik / Biyolojik Özellikler
 

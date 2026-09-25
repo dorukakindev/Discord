@@ -16,7 +16,7 @@ Dört kollu, pençeleri ceramite'ı yarabilen, olağanüstü hızlı ve sinsi bi
 
 ## Tarihçe
 
-Genestealer'lar Space Hulk'larda ve uzak dünyalarda Imperium'un en eski kabuslarından biri olarak anılır. Enfekte ettikleri insanların melez torunları, bir Patriarch'a psişik bağla bağlı Genestealer Cult'ları oluşturur; bu kültler bir gün Hive Fleet'i kendi dünyalarına çeken bir işaret işlevi görür.
+Genestealer (Corporaptor hominis), Hive Mind tarafından başka zeki türlerin yerleşik dünyalarına sızma için genetik olarak tasarlanmış Tyranid biyoformudur — safkan bir Genestealer tek başına Space Marine'i bile öldürebilir. Kurbanlarını implant edip 'Genestealer kültlerini' başlatan bu figürler, istilanın 'içeriden gelen' ilk ajanıdır — Hive Fleet'in en sinsi silahı.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Genestealer Cults*; *Space Hulk*
 

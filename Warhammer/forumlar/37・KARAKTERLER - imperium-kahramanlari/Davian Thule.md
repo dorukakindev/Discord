@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2a/Davian_Thule2.jpg/rev
 
 ## Tarihçe
 
-Davian Thule, Blood Ravens kaptanı ve Kronus'taki üç-bölük komutanıydı; Dawn of War: Dark Crusade'de chapter'ın en üst saha komutanı olarak bilinir.
+Davian Thule, Blood Ravens chapter'ının kaptanı ve Kronus'taki Dark Crusade'de — 41. Binyılda o Necron Tomb World'de patlayan çatışmada — üç bölükten (elit 1. Bölük unsurları dâhil) oluşan gücün Force Commander'ıydı. Litany of Fury adlı savaş gemisini kullandı; bu gemi daha önce Gabriel Angelos'un Tartarus operasyonlarındaydı ve Angelos'un Dark Crusade sırasındaki konumu belirsizdir. Kronus hizmetinin ardından chapter'ın en ünlü saha komutanlarından biri oldu.
 
 -# Kaynaklar: *Fandom wiki*

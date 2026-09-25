@@ -16,7 +16,7 @@ Yıldızların hareketlerinden geleceği okuyan Orikan, Imotekh'in sarayında hi
 
 ## Tarihçe
 
-Kaynaklar Orikan'ı, Imotekh'in fetihlerini öngörüleriyle yönlendiren, ancak efendisinin çıkarıyla kendi hesaplarını ustalıkla ayrı tutan bir figür olarak çizer. Trazyn the Infinite ile binyıllara yayılan, kimi zaman işbirliğine, çoğu zaman karşılıklı sabotaja dönüşen rekabeti *The Infinite and the Divine*'ın omurgasını oluşturur.
+Orikan the Diviner ('Kâhin'), Necron'un en güçlü Cryptek'lerinden — astromancer'ıdır; yıldızların hareketinden geleceği okuyan figür. Zamanın kendisini manipüle edebilen bu figür, 'yazgıyı gören' olarak Necron'un en tehlikeli kehanet-makinelerinden biridir — savaşı 'önceden bilerek' kazanır.
 
 -# Kaynaklar: *The Infinite and the Divine — Robert Rath*; *Codex: Necrons — 10th Edition*
 

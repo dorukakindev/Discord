@@ -16,7 +16,7 @@ Cult of Strife'ın hâkimesi Lelith, Commorragh arenalarının yaşayan efsanesi
 
 ## Tarihçe
 
-Kaynaklar, Wych Cult'ların arenalarında sayısız rakibi alt eden Lelith'in ününün bütün Karanlık Şehir'e yayıldığını ve Cult of Strife'ın Commorragh'ın en güçlü kültlerinden biri hâline geldiğini anlatır. Vect'le ilişkisi karşılıklı çıkara dayalı bir denge olarak tasvir edilir. Yvraine'in yükselişinden sonra Lelith, Ynnari'nin kurduğu ittifakta onun yanında yer alan figürler arasında anılır; bu, Commorragh'ın siyasetinde kendi başına bir karar olarak okunabilir.
+Lelith Hesperax, Cult of Strife Wych Cult'unun Drukhari Succubus'udur ve Commorragh'ın gladyatör arenalarının tartışmasız şampiyonudur; Asdrubael Vect'in kişisel favorisi — bazılarına göre ara sıra metresi. 'Arenanın kraliçesi' olarak Karanlık Şehir'in en ünlü savaşçısıdır — güzellik ve ölümün mükemmel birleşimi.
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Gathering Storm II: Fracture of Biel-Tan*
 

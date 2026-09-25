@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/44/House_Draconis.jpg/re
 
 ## Tarihçe
 
-Jennika Tan Draconis, Adrastapol'un Knight Dünyası'nın şövalye efendisidir; Donatos Savaşı'nda İmparatorluk zaferinin mimarlarından biridir.
+Jennika Tan Draconis, Adrastapol Knight World'ünün House Draconis'inin mensubu ve Yüksek Kral Danial Tan Draconis'in ablasıdır. Yüksek kral onu, Donatos Savaşı'nda gösterdiği savaşçı becerisi takdiriyle hanedanın yönetim konseyinin 'Birinci Şövalyesi' yaptı. Adrastapol'da, House Chimaeros ve Wyvorn'u ihanete sürükleyen gaspçı Gerraint Tan Chimaeros'un katili olarak haklı bir üne sahiptir — 'hain avcısı' olarak gezegenin kahramanidir.
 
 -# Kaynaklar: *Fandom wiki*

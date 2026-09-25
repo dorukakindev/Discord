@@ -16,7 +16,7 @@ Szeras, C'tan'ın sağladığı bilgiyi uygulanabilir bir sürece dönüştürer
 
 ## Tarihçe
 
-Silent King'in yönetiminde Necrontyr'in makine bedenlere aktarılmasını tasarlayan Szeras, uyanıştan sonra canlı türleri inceleyip parçalara ayırarak yaşamın ve bilincin sırlarını çözmeye çalışmıştır. Kaynaklar onun, deneylerine malzeme sağlayan soylulara karşılığında gövde geliştirmeleri sunduğunu ve bu yolla kendi yükselişini hedeflediğini aktarır.
+Illuminor Szeras, Necron'un efsanevi Cryptek'idir — biotransference'ın mimarlarından biri olarak ırkını 'makineye çeviren' bilim adamı. Organik bedenleri hâlâ 'geliştirmeye' çalışan bu figür, 'çalışan cerrah' olarak sayısız dünyada deneyler yapar — Necron'un kendi karanlık doktoru.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 9th Edition*
 

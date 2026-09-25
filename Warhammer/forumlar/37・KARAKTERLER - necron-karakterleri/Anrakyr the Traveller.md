@@ -16,7 +16,7 @@ Anrakyr, uykudaki Tomb World'leri tek tek uyandırıp eski Necron imparatorluğu
 
 ## Tarihçe
 
-Uyanıştan sonra kendi dynasty'sinin sınırlarında kalmayıp başka hanedanların uyuyan dünyalarını arayan Anrakyr, bu yolculuğuyla unvanını kazanmıştır. Tyranid tehdidinin Baal'a yaklaştığı dönemde Cryptus sisteminde, kendi dünyasını Tyranid'lerden korumaya çalışırken Blood Angels'la zorunlu ve geçici bir çıkar birliğine girmiştir.
+Anrakyr the Traveller ('Gezgin'), Necron'un efsanevi nemesor'udur — hanedanları arasında gezip 'uyuyan krallıkları' uyandıran figür. Hiçbir hanedana bağlı olmayan bu 'bağımsız efendi', Necron uygarlığının yeniden doğuşunu gezegen gezegen örgütleyen kilit liderdir — 'uyuyanları uyandıran' olarak ırkının katalizörü.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Devastation of Baal — Guy Haley*
 

@@ -16,7 +16,7 @@ Zarlı kanatları ve ince bedenleriyle Gargoyle'lar, gökyüzünü karartan sür
 
 ## Tarihçe
 
-Gargoyle sürüleri Tyranid istilalarında öncü rolü üstlenir; savunucuları dağıtır, hareketlerini engeller ve arkadan gelen ana sürüye zaman kazandırır. Kaynaklar, gökyüzünü dolduran Gargoyle bulutlarını Tyranid saldırısının ilk görüntülerinden biri olarak anlatır.
+Gargoyle (Gaunti avius, 'Cehennem Yarası' da denir), kanatlı vahşi Tyranid biyoformudur ve savaşta genellikle görülen ilk Tyranid türüdür. Ana görevi düşmanı bulup içine terör ve kargaşa salmaktır — 'gökyüzünden inen çığlık' olarak istilanın haberci dalgasıdır; ateş ve kanat sesiyle gelen canlı kabus.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c4/Adeptus_Mechanicus_Ic
 
 ## Tarihçe
 
-Haran Serpens, Adeptus Mechanicus'un tanınmış Magos Biologis'idir; mikrobiyoloji ve hücre replikasyonu uzmanı — Mechanicum'un 'yaşam-ören' uzmanlarından.
+Haran Serpens, Adeptus Mechanicus'un tanınmış Magos Biologis'i — mikrobiyoloji ve hücre replikasyonu uzmanı — idi. Erken ölümünün ardından kimliği Fabius Bile tarafından gasp edilip takma ad olarak kullanıldı: Bile bu kimlikle habersiz muhataplarla ticaret yaptı ve en bilinen olayda Blood Angels'ın Apothecary Majoris Caecus'unu aldatarak Baal'a ayak basmayı ve Primarch Sanguinius'un kanını içeren şişeyi çalmayı başardı. Böylece 'Serpens' adı, Mechanicum tarihinin en tehlikeli kimlik-hırsızlığına bağlandı — masum bilginin adı, ihanetin maskesi oldu.
 
 -# Kaynaklar: *Fandom wiki*

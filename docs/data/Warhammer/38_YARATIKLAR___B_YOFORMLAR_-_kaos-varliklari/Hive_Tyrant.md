@@ -16,7 +16,7 @@ Hive Tyrant, Tyranid sürülerinin savaş alanındaki komutanıdır: iri, zeki, 
 
 ## Tarihçe
 
-Tyrannic Wars boyunca Imperial kaynaklar Hive Tyrant'ları en öncelikli hedef olarak işaretledi. Hive Mind'ın stratejik dehasının yoğunlaştığı, öldürüldüğünde yeni bir bedende yeniden belirdiği anlatılan **Swarmlord** da bu organizmanın özel bir tezahürüdür ve ayrı kayıtta işlenir.
+Hive Tyrant (Tyranicus praefactor), Tyranid sürüsünün ana saha komutanı olan devasa biyoformdur — sıradan Tyranid'lerin üstünde duran bir 'synapse yaratığı'. Güçlü psişik güçlere sahiptir ama Warp daemonlarından etkilenmez — 'etten zihin' olarak Hive Mind'ın iradesini savaş alanına taşıyan canlı komuta kulesidir.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 

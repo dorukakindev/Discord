@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7d/Arjac_Rockfist_Anvil_
 
 ## Tarihçe
 
-Arjac Rockfist — 'Dağ-Adam', 'Grimnar'ın Şampiyonu', 'Fenris'in Örüsü' — Space Wolves'un Great Wolf'u Logan Grimnar'ın kişisel şampiyonu; devasa gücü ve 'anvil' rolüyle chapter'ın en efsanevi savaşçılarından.
+Arjac Rockfist — 'Dağ-Adam', 'Grimnar'ın Şampiyonu', 'Fenris'in Örüsü' — Space Wolves'un Great Wolf'u Logan Grimnar'ın kişisel şampiyonudur ve bu görevi bazı insanların yaşam süresinden uzun süredir sürdürür. Wulfen'in Kadehi'nden içmeden önce bile dev bir adamdı; Canis Helix bedenine yerleşince gerçek bir dev oldu. Aslen Fenris'in Bear Claw kabilesinden bir demirciydi — ama asıl hüneri dövmede değil savaş potasındaydı. İnanılmaz gücü ve dayanıklılığı Great Wolf'u o kadar etkiledi ki Astartes'e bile dönüştürülmeden önce onu kişisel şampiyonu yaptı — 'en saf Fenrisli' olarak anılır.
 
 -# Kaynaklar: *Fandom wiki*

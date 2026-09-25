@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Ursulia.jpg/revision/
 
 ## Tarihçe
 
-Ursulia, bir zamanlar Aeldari Exodite Maiden World'ü ve Biel-Tan korumasındaydı; Chaos'a düşüp Daemon World'e dönüştü — 'kaybedilmiş cennet' olarak Eldar mitolojisinde yara.
+Ursulia, bir zamanlar Aeldari Exodite'ların kutsal Maiden World'üydü ve Labirent yoluyla Craftworld Biel-Tan'ın korumasına bağlıydı. Galaksinin en nadir 'güvenli' dünyalarından biri sayılıyordu. Ancak Chaos'un eline düştü ve canlı bir Daemon World'e dönüştü; dünya hâlâ 'yaşıyor' ama artık Aeldari değil Warp'a ait. Kaybı, Biel-Tan'ın en büyük utançlarından ve Eldar mitolojisinin 'çalınan cennet' hikâyelerinden biridir — düşüşünün sebebi hâlâ tartışmalıdır.
 
 -# Kaynaklar: *Fandom wiki*

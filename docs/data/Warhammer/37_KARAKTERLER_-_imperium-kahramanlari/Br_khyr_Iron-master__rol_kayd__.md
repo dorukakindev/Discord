@@ -16,7 +16,7 @@ Iron-master, Brôkhyr loncalarının en usta temsilcisidir. Kin'in teknolojik mi
 
 ## Tarihçe
 
-Imperium'un Adeptus Mechanicus'u teknolojiyi dogmayla korurken, Kin'in Brôkhyr'leri hesaplama ve pragmatizmle çalışır; Iron-master bu farkın en somut temsilcisidir. Kaynaklar onu, League ordularının teknolojik üstünlüğünü sahada ayakta tutan figür olarak anlatır.
+Brôkhyr Iron-master, Leagues of Votann'ın Kin'lerinin demir-efendisi ve teknoloji ustasıdır — 'kin'in demirci-mühendis kastının başı. Oathband'in silah ve zırhını döven bu figürler, Kadim STC bilgisini yaşatan 'demir rahibi' olarak Votann ordularının teknik kalbidir; hem zanaatkar hem savaşçı.
 
 -# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votann — 10th Edition*
 

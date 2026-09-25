@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ef/Alpha_Legion_Livery.j
 
 ## Tarihçe
 
-Arkos the Faithless, Alpha Legion'un önde gelen Chaos Lord'larından; 'İmansız' lakabıyla kardeşlerinin bile güvenini kötüye kullanmasıyla bilinir — Alpha Legion'un 'herkesi aldat' doktrininin simgesi.
+Arkos the Faithless ('İmansız'), Alpha Legion'un kötü şöhretli Chaos Lord'udur; XX. Lejyon'un komplo ağlarını yöneten figürlerden biri olarak kayıtlara geçmiştir. 'Sadakatsiz' lakabı onun hem İmparatorluk'a hem kendi lejyonunun planlarına olan karmaşık sadakatsizliğini anlatır — 'hiçbir sancağa tam eğilmeyen' entrikacı komutan.
 
 -# Kaynaklar: *Fandom wiki*

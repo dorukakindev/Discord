@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/18/Phosis_T%27Kar.jpg/re
 
 ## Tarihçe
 
-Phosis T'Kar, Thousand Sons'ın güçlü Fellowship kaptanıydı; Prospero'da Space Wolves'la savaşırken öldü — Magnus'un yanındaki en parlak sorcerer'lardan biriydi.
+Phosis T'Kar, Büyük Sefer sonunda ve Heresy başında Thousand Sons'ın 2. Bursu'nun kaptanıydı; XV. Lejyon'un en güçlü telekinlerinden biri olarak Corvidae kültünün lideri — Magister Templi'si — olarak görev yaptı. Prospero'nun Yakılması sırasında lejyonun en üst komutanları arasındaydı; 'geleceği gören' kültünün en güçlü üyesi olarak kendi sonunu da öngörmüş olabilirdi.
 
 -# Kaynaklar: *Fandom wiki*

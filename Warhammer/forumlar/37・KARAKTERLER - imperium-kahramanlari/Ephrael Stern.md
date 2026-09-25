@@ -18,6 +18,6 @@ Demonifuge; ölüp dirilen Battle Sister, İmparatorluk'un en esrarengiz 'yaşay
 
 ## Tarihçe
 
-Ephrael Stern, Order of Our Martyred Lady'nin Seraphim'idir; Parnis'te ölü kabul edilip dirildi ve o günden sonra daemonların bile ürktüğü bir inanç-ateşi taşır. Inquisitor Greyfax onu sapkınlıkla sorguladı ama hiçbir test gücünün kaynağını yalanlayamadı. Yaşayan azizlerin en esrarengizi sayılır — savaştığı yerde mucize görülür.
+Ephrael Stern, Order of Our Martyred Lady'nin Sisters of Battle üyesiydi; İmparator'a olan sarsılmaz inancından doğan ve sıradan psyker'ları aşan özel psişik yeteneklere önceden yazgılıydı. Uzun tarihi boyunca 'Kutsanmış Kurtarıcı' dahil birçok unvan taşıdı — ölümden dönen ve inancı silah yapan 'yaşayan azize-adayı' olarak İmparatorluk'un en gizemli figürlerinden.
 
 -# Kaynaklar: *Daemonifuge* çizgi romanı; *Sisters of Battle* kaynakları

@@ -16,6 +16,4 @@ Bir Plaguebearer'ın tehlikesi fiziksel değil biyolojiktir: taşıdığı 'Nurg
 
 ## Tarihçe
 
-Nurgle'ın standart daemon piyadesi; tek gözü, tek boynuzu ve çürüyen bedeniyle hastalık taşıyan sayım memuru. Her Plaguebearer bir ölü sayısıdır — Nurgle'ın defterine yazılmış bir irin noktası.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Plaguebearer — 'Kurtçuk-Kin', 'Nurgle'un Saymanı' — Lord of Decay'in daemonik lejyonlarının piyade askeridir. Bu iğrenç yaratıklar, Nurgle'ın Çürümesi tarafından öldürülen ölümlülerin lekeli ruhlarından dövülür; her biri vücudundaki ur ve kurtları sayan 'yaşayan sayım' olarak Nurgle'un hastalık muhasebesini tutar. Veba ta

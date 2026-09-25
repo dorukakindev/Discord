@@ -16,7 +16,7 @@ Red Terror, kan rengi kabuğu, dev tırpan uzuvları ve bir insanı bütünüyle
 
 ## Tarihçe
 
-Kaynaklara göre Eastern Fringe'deki madencilik dünyası Devlan'ın uzay limanına saldırarak çok sayıda insanı öldürmüş, püskürtülse de defalarca geri dönmüştür. Onu tünellerde avlamak için gönderilen Imperial arama ekibi geri dönmemiştir.
+The Red Terror ('Kızıl Dehşet'), Ravener biyoformunun bir varyantı olan dev Tyranid yaratığıdır — kumun ve toprağın altından çıkan 'kızıl kurt'. Küçük bir kale gibi surlar arasında yol açıp müstahkem mevkileri bile yerin altından yıkan bu varlık, 'görünmeyen katil' olarak Devil's Dyke gibi savunmaları içten çökerten figürdür.
 
 -# Kaynaklar: *Codex: Tyranids*
 

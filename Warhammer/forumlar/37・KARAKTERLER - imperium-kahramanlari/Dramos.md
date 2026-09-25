@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Black_Templars_Badge.
 
 ## Tarihçe
 
-Dramos, Black Templars'ın Castellan'ı olarak Rutherian Seferi'nin Gladius Taarruz Kuvveti'ni komuta etti; chapter'ın Haçlı seferlerinin ön-saf komutanlarından.
+Dramos, Black Templars'ın Castellan'ı olarak Rutherian Seferi'nin Gladius Taarruz Kuvveti'ni komuta etti; chapter'ın sonsuz haçlı seferlerinin ön-saf komutanlarından.
 
 -# Kaynaklar: *Fandom wiki*

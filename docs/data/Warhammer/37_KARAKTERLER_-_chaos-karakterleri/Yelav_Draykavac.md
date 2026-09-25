@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/90/Archmagos_Draykavac.j
 
 ## Tarihçe
 
-Yelav Draykavac, Dark Mechanicum'un 'Karanlık Magos'larından; Heresy sırasında Kelbor-Hal'ın sağ kolu olarak Mars'ın ikiye bölünmesinde rol oynadı.
+Yelav Draykavac, eski Mechanicum'un archmagos'u ve Horus Heresy sırasında Forge World Cyclothrathe'ın baş savaş lorduydu. İmparatorluk'u ikiye bölen olaylardan önce duyulmamış olan bu figür, ün ve rezil şöhretle yükselerek Dark Mechanicum'un en güçlü ve korkulan temsilcilerinden biri oldu — 'bozulmuş bilginin' efendisi olarak lejyonlar arası savaşın karanlık teknolojik yüzüdür.
 
 -# Kaynaklar: *Fandom wiki*

@@ -12,4 +12,7 @@ Her Fiend'in ardında, sinüzoidal biçimde dalgalanan barbet bir kuyruk uzanır
 
 ## Slaanesh'in Av Köpeği
 Fiend'ler, Slaanesh'in yarattığı en garip avcılardır: at bedeni, akrep kuyruğu, sürüngen bacaklar ve zevkle çığlık atan yüzlerin karışımı. Dayanılmaz bir uyarıcı ve kafa karıştırıcı koku salgılarlar — avları onlara koşar, düşünce duraklar, savaş düzeni çözülür. Avını kıskaçlarıyla yakalayıp delirircesine zevk çığlıklarıyla parçalar; ölüm onlar için hem av hem hazdır. Slaanesh iblisleri arasında bile yırtıcı bir doyumsuzlukları vardır; Keeper of Secrets'ların sürüsünde, ya da Shalaxi Helbane gibi büyüklerin ön muhafızında görülürler.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Fiend of Slaanesh, Slaanesh'in Daemon Beast'lerinden biridir — aşırı hız ve zevk-obsesyonunun vahşi bedenlenişi. Çok bacaklı, kırbaç kuyruklu ve sarhoş edici bir musk kokusu yayan bu yaratıklar, düşmanın savunma hattını tuzla buz eden 'zehirli arzu'nun simgesidir; onların varlığı yakınındaki savaşçıların irades

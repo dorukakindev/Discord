@@ -15,7 +15,7 @@ Haruspex, savaş alanında öldürmekle yetinmeyip biyokütleyi o anda yutan bir
 
 ## Tarihçe
 
-Tyranid istilasının asıl amacı dünyaların biyokütlesini toplamaktır ve Haruspex, bu toplayıcılığın savaş sırasında bile sürdüğünü gösteren organizmalardan biridir. Kaynaklar onu, düşman hatlarına dalıp orada kalan her canlıyı tüketmek için tasarlanmış bir yırtıcı olarak anlatır.
+Haruspex, Hive Mind'ın gezegensel istilanın son safhalarında biomas'ı mide bulandırıcı hızla tüketmesi için yarattığı vahşi Tyranid canavarıdır; sonsuz açlığı gidermek için güdülenen bu varlık, 'yutan canavar' olarak cephe hattının ötesinde savaş alanını 'yiyen' figürdür. Çok az düşman ona yaklaşmaya cesaret eder.
 
 ## Kanon Notu
 

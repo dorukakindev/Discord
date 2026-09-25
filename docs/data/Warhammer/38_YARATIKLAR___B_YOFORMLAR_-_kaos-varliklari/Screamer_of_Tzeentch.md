@@ -12,4 +12,7 @@ Uçuş yetenekleri sayesinde son derece çeviktirler ve vahşi ama kurnaz bir ze
 
 ## Gökyüzü Avcısı
 Screamer'lar, Tzeentch'in manta benzeri uçan iblisleridir — Warp'ın akıntılarında süzülen, çığlık atan, et ve psişik enerji karışımı yaratıklar. Maddi dünyada yelkenli köpekbalığı gibi süzülürler; sürüler hâlinde saldırıp düşmanı gökyüzünden biçerler. Keskin sırtları zırhı deler; çeneleri et ve ruhu birlikte koparır. Tzeentch'çi büyücüler onları binek (Disc of Tzeentch) olarak kullanır — bir büyücü Screamer'ı evcilleştirip üzerine binmeyi başarırsa, ona sadık ama tehlikeli bir binek kazanır. Gözleri olmayan bu yaratıklar avı psişik olarak hisseder.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Screamer of Tzeentch ('Değişimin Avcısı'), Tzeentch'in uçan daemonik yaratığıdır — büyük bir manta biçiminde gökyüzünde süzülür ve avının üstüne şimşek çakarak çarpar. Warp'ta doğan bu yaratıklar 'gökyüzünün iblis köpekbalıkları' gibi sürüler hâlinde dolaşır; renkleri sür

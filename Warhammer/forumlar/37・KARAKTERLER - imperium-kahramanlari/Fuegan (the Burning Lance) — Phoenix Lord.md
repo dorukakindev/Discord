@@ -16,7 +16,7 @@ Fire Dragons'ın Phoenix Lord'u; yıkımın ve kararlılığın ateşini temsil 
 
 ## Tarihçe
 
-Asurmen'in yanında savaş yolunu öğrendikten sonra Fire Dragons geleneğini kurdu. Anlatılarda defalarca düşüp yeniden ayağa kalktığı, bu yüzden hiçbir zaman gerçekten yenilmediği söylenir. Asuryani kehanetine göre Rhana Dandra geldiğinde öteki Phoenix Lord'ları son savaşa çağıracak olan odur.
+Fuegan — 'Yanan Mızrak' — Craftworld Aeldari Phoenix Lord'dur ve Fire Dragons Aspect Warriors'ının kurucusudur; etrafındaki hava çatırdar, düşmanları dokunuşunda kabarcıklanıp kömürleşir. 'Yok oluşun tüketen ateşi'yle beslenen bu figür, kıyametin kendisini bedenler — Fall'da kaybettiği öğrencilerin yasını hâlâ taşıyan 'yaslı ateş' olarak son günlerde her zamankinden tehlikelidir.
 
 -# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
 

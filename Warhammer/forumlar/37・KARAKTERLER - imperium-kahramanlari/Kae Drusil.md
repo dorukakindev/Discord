@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Senior_Arbitrator_Kae
 
 ## Tarihçe
 
-Kae Drusil, Adeptus Arbites'ın kıdemli arbitratörü ve Calixis Sektörü'ndeki Divisio Immoralis özel görev gücünün marshal-in-chief'i; 'ahlaksızlık' avcısının başı.
+Kae Drusil, Adeptus Arbites'ın kıdemli arbitratörü ve Calixis Sektörü'ndeki Divisio Immoralis özel görev gücünün marshal-in-chief'idir. On beş yaşında katıldığı Universitariate'te teyzesi ve tüm soylu hanesi suikaste kurban gidince Arbites'e alındı; onu sorgulayan isimsiz Yargıç, Kae'nin İmparatorluk hukukuna duyduğu inancı ve öfkesini fark edip onu Arbites'e kazandırdı. Divisio Immoralis, 'ahlaksızlık' suçlarını — organize suç, yasadışı xenos ticareti, yozlaşmış elitler — araştıran özel birimdir; Drusil bu kurumun en üst yürütücüsü olarak Calixis'in karanlık hukukunun yüzüdür.
 
 -# Kaynaklar: *Fandom wiki*

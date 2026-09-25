@@ -15,7 +15,7 @@ Demiurg, T'au Empire ile ilişkiler kurduğu bilinen, büyük gemilerde yaşayan
 
 ## Tarihçe
 
-T'au kaynaklarında Demiurg, imparatorlukla ticari ve diplomatik ilişkiler içindeki türler arasında anılır. İlişkinin kapsamı ve Demiurg'un T'au'ya ne ölçüde bağlı olduğu ayrıntılandırılmaz.
+Demiurg, Leagues of Votann'ın Kin'lerinin T'au İmparatorluğu'yla müttefik olan militarize, kaynak arayan 'Prospect' seferidir. Uzun süre hem T'au hem İmparatorluk tarafından kısa, tıknaz insansı madenci ve tüccarların 'minör xenos ırkı' sanıldılar — aslında Kadim klon-soylu Votann Lejyonları'nın uzantısıdırlar. 'Yanlış tanınan müttefik' olarak T'au'nun en gizemli ortaklarıdır.
 
 ## Kanon Notu
 

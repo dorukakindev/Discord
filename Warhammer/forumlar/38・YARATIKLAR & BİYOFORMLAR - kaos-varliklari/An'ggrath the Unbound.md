@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/da/An%27Ggrath_the_Unbou
 
 ## Tarihçe
 
-An'ggrath the Unbound, Khorne'un en güçlü Bloodthirster'larından biri olarak bilinen devasa Greater Daemon'dur; 'Bağlanmamış' lakabı, onu kontrol edebilen hiçbir zincirin olmaması demektir. Skarbrand'la birlikte 'en güçlü Khornate' unvanını paylaşır.
+An'ggrath the Unbound — 'Kafatasları Tahtının Muhafızı', 'Khorne'un En Sevileni', 'Bloodthirster'ların Lordu', 'Ölüm Getiren' — Bloodthirster'ların en büyüğüdür ve Khorne'un Greater Daemon'larının tepesidir. 830.M41'deki Vraks Kuşatması'nda maddi âlemden son sürgününü yaşadı — 'daemonların kralı' olarak Khorne'un en nadir ama en yıkıcı silahıdır.
 
 -# Kaynaklar: *Chaos Daemons Codex*

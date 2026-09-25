@@ -12,6 +12,6 @@ Kurnazlığı tartışmasızdır; silahsızken bile chapter'ın en "kirli" döv�
 
 ## Tarihçe
 
-Space Wolves'un en ukala ve en zeki Blood Claw'ı; Dreadnought'a düşmanlarını kışkırtıp güldüren tek kişi. Şakacılığı Chapter'ın efsanesidir — ama savaşta hiç şaka yapmaz.
+Lukas the Trickster (Strifeson), Space Wolves'un Astartes'idir — üstlerinin otoritesine de düşmanlara da aynı isteklilikle karşı çıkan gürültülü, canlı bir figür. Chapter'ın diğer savaşçılarının peşinde koştuğu şan ve yükselme onu ilgilendirmez; 'hilebaz kurt' olarak Fenris'in kurnazlık geleneğinin bedenidir. Blood Claw saflarından hiç çıkmayan tek figür olarak 'ebedi gençlik' efsanesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

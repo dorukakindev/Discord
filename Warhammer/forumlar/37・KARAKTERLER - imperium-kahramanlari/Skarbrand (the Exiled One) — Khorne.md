@@ -16,7 +16,7 @@ Tanrısının gözünden düşmüş, sürgün edilmiş bir Bloodthirster. Artık
 
 ## Tarihçe
 
-Yaygın anlatıma göre Tzeentch'in kurduğu bir entrikaya kapılarak Khorne'un kendisine saldırdı. Khorne onu Brass Citadel'den fırlatıp attı; düşüş sırasında kanatları parçalandı ve geriye yalnızca dinmek bilmeyen bir öfke kaldı. O günden beri Skarbrand, Khorne'a ancak durmaksızın kan dökerek hizmet edebilen bir sürgün olarak savaş alanlarında dolaşır.
+Skarbrand 'Sürgün', Khorne'un bir zamanlar en sevdiği Bloodthirster'ıydı — ama Tzeentch'in kışkırtmasıyla efendisine isyan etti; Pirinç Taht'a saldırıp başarısız oldu. Khorne onu dokuz gün düşmeye bıraktı ve aklı tamamen yok oldu — artık saf öfke bedenidir. 'Hain daemon' olarak nefretle anılır ama yine de Khorne'un en yıkıcı silahlarından biridir.
 
 -# Kaynaklar: *Codex: Chaos Daemons*
 

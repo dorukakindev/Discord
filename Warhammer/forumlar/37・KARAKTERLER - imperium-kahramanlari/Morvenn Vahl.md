@@ -10,6 +10,6 @@ Ecclesiarchy yeni bir Abbess Sanctorum seçmek istediğinde, genç bir Celestian
 
 ## Tarihçe
 
-Adepta Sororitas'ın Abbess'i ve High Lord'u; Sisters of Battle'ın en üst komutanı. Karizması ve siyasi zekâsıyla inanç ordusunu Modern dönemde yeniden merkezileştirdi.
+Morvenn Vahl, Adepta Sororitas'ın Abbess Sanctorum'u — Sisters of Battle'ın en yüksek rütbesi — ve İmparatorluk'un dini-askeri gücünün başıdır. Exorcist-class Paragon Warsuit'iyle savaşan bu figür, Era Indomitus'ta Guilliman'ın ordularıyla koordineli çalışan Sororitas'ın yaşayan komutanıdır; 'inancın general' olarak İmparatorluk'un en güçlü kadın figürüdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

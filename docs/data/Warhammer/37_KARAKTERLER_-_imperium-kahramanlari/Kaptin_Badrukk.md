@@ -16,7 +16,7 @@ Badrukk, galaksinin en tanınmış Ork korsan kaptanlarından biridir. Parıltı
 
 ## Tarihçe
 
-Kaynaklara göre Badrukk, Bad Moons arasında bile fazla zengin bulunarak kabilesinden kovulmuş ve Freebooter yaşamına atılmıştır. O günden beri çeşitli Warboss'ların seferlerine gemisi ve tayfasıyla katılmış; Tyranid'lere ve T'au'ya karşı savaşan Ork kuvvetlerine kiralık güç olarak eşlik ettiği anlatılır.
+Kaptin Badrukk, Ork'un en ünlü Flash Gitz'i ve korsan efendisidir — 'en gösterişli Ork' olarak bilinen bu figür, devasa 'Da Rippa' silahı ve aşırı zenginliğiyle (Ork'ta para = diş) en lüks savaş lordudur. Yağma ve gösteriş için savaşan bu figür, 'altın dişli korsan' olarak Freebooter kültürünün zirvesidir.
 
 -# Kaynaklar: *Codex: Orks*
 

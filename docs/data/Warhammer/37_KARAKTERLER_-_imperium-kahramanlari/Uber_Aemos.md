@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e2/Aemos.jpg/revision/la
 
 ## Tarihçe
 
-Uber Aemos, Inquisitor Gregor Eisenhorn'un en sadık acolyte'ı ve veri-analiz ustasıdır; 'Veritak' sistemiyle İmparatorluk'un en iyi arşiv uzmanı — Eisenhorn üçlemesinin en sevilen figürlerinden.
+Uber Aemos, Radical Inquisitor Gregor Eisenhorn'un en uzun süre hizmet veren Savant'ı ve Throne Agent'ıydı — efendisinin babası Pontius Glaw'ın dosyasına bile hizmet etmişti. Daemonhost Cherubael'i başarıyla kontrol altına alması hayatına mal oldu ama 'bilginin fedaisi' olarak Eisenhorn'un ekibinin kalbiydi — devasa bilgi deposu ve sadık bilgin figür.
 
 -# Kaynaklar: *Fandom wiki*

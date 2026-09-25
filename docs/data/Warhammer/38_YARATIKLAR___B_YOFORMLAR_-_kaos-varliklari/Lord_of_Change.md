@@ -15,7 +15,7 @@ Rengârenk tüylü kanatları, kuş başı ve uzun asasıyla Lord of Change, hem
 
 ## Tarihçe
 
-Lord of Change'ler Tzeentch'in daemon ordularına komuta eder, Thousand Sons'ın büyücüleriyle ve Tzeentch'e tapan kültlerle iş birliği yapar. Kairos Fateweaver adıyla bilinen iki başlı Lord of Change, başlarından birinin geçmişi, diğerinin geleceği gördüğü söylenen ve tanrısının sırlarını taşıyan bir varlık olarak öne çıkar.
+Lord of Change — 'Yüce Değiştirici', 'Tüylü Lord', 'İzleyen', 'Tzeentch'in Gözü' — Değişim ve büyü tanrısının sinsi Greater Daemon'ıdır; imkânsız bir kâbustan doğan bu varlıklar, çok yüzlü, kanatlı dev kuş-figürlerdir. Tzeentch'in iradesinin en doğrudan kanalı olarak 'entrikanın bedeni'dir — söylediği her kelime bir tuzak.
 
 ## Teknik / Biyolojik Özellikler
 

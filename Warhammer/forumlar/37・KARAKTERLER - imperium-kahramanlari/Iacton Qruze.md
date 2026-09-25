@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Iacton_Qruze_Grey_Ang
 
 ## Tarihçe
 
-Iacton Qruze ('Yarım-Kulak'), Sons of Horus'un yaşlı, doğrudan ve sadık kaptanıydı; lejyonunun Chaos'a düşmesini reddedip Eisenstein'la kaçan üç 'sadık lejyoncu'dan biri — Garro ve Loken'la Terra'ya ulaştı.
+Iacton Qruze — 'Yarı-Duyulan' — Luna Wolves'un, sonra Sons of Horus'un 3. Bölük kaptanıydı; çok yaşlı bir Space Marine ve Cthonia'lıydı. Heresy başında lejyonun en kıdemli figürlerinden biri olarak İmparator'a sadık kaldı ve 'yaşlı sadık' olarak Dark Angels'ın kalesine sızan figür olarak kayıtlarda yer alır — 'Horus'un unuttuğu eski adam'ın lejyonun vicdanı olarak anılması.
 
 -# Kaynaklar: *Fandom wiki*

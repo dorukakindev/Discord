@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """Live dump of the WH40K guild -> repo files (branch: devin-wh40k-live-dump)."""
-import json, os, re, time, sys
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import json, os, re, time
 from dapi import req, get, guild_channels, channel_messages, forum_threads, GUILD
 
-REPO = os.environ.get("DISCORD_REPO", os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+REPO = "/home/ubuntu/repos/discord-repo"
 WAR = os.path.join(REPO, "Warhammer")
 DOCS = os.path.join(REPO, "docs")
 
@@ -51,20 +50,6 @@ def main():
     docs_forums = []      # manifest forums for Warhammer server
     forumlar_root = os.path.join(WAR, "forumlar")
     docs_war_root = os.path.join(DOCS, "data", "Warhammer")
-    written_files = set()   # files this dump produced; leftovers are stale
-
-    def mark(p):
-        written_files.add(os.path.normpath(p))
-
-    def sweep_stale(root):
-        for dirpath, _, files in os.walk(root):
-            for fn in files:
-                if not fn.endswith(".md"):
-                    continue
-                fp = os.path.normpath(os.path.join(dirpath, fn))
-                if fp not in written_files:
-                    os.remove(fp)
-                    print("stale removed:", fp)
 
     cat_children = {}
     for f in forums:
@@ -87,11 +72,9 @@ def main():
                 titles.append(title)
                 fname = fsafe(title) + ".md"
                 fdir = f"{cat} - {f['name']}"
-                p1 = os.path.join(forumlar_root, fdir, fname)
-                w(p1, txt); mark(p1)
+                w(os.path.join(forumlar_root, fdir, fname), txt)
                 u = "data/Warhammer/" + dsan(fdir) + "/" + dsan(fname)
-                p2 = os.path.join(docs_war_root, dsan(fdir), dsan(fname))
-                w(p2, txt); mark(p2)
+                w(os.path.join(docs_war_root, dsan(fdir), dsan(fname)), txt)
                 posts.append({"title": title, "file": u})
                 docs_index_new.append({"s": "THE IMPERIAL ARCHIVE", "f": f["name"], "t": title, "u": u})
                 time.sleep(0.12)
@@ -99,9 +82,6 @@ def main():
             items.append({"name": f["name"], "posts": posts})
             print(f"forum {f['name']}: {len(posts)} posts")
         docs_forums.append({"cat": re.sub(r"^\d+・", "", cat), "items": items})
-
-    sweep_stale(forumlar_root)
-    sweep_stale(docs_war_root)
 
     # ---------- metin-kanallari ----------
     mk_root = os.path.join(WAR, "metin-kanallari")
@@ -112,8 +92,7 @@ def main():
         txt = post_text(msgs)
         if not txt:
             continue
-        p3 = os.path.join(mk_root, cat, fsafe(c["name"]) + ".md")
-        w(p3, txt); mark(p3)
+        w(os.path.join(mk_root, cat, fsafe(c["name"]) + ".md"), txt)
         print(f"text {c['name']}: {len(msgs)} msgs")
         time.sleep(0.15)
 

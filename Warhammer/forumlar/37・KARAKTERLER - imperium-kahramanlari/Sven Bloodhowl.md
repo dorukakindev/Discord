@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c0/Wolf_Lord_Sven_Bloodh
 
 ## Tarihçe
 
-Sven Bloodhowl, Space Wolves'un 'Kan Ulumu' Great Company'nin Büyük Kurt'udur; Fenris'in Wrath of Magnus'daki savunmasında savaşan liderlerden.
+Sven Bloodhowl, Space Wolves'un on iki efsanevi Wolf Lord'undan biridir ve Büyük Bölükleri savaşa götürür. Önden savaşan Bloodhowl'un adamları yakın dövüş tutkularıyla ünlüdür — güçlü Jump Pack'lerle donanıp savaş alanında güçlü sıçramalar yaparak beklenmedik anda düşmanın ortasına düşerler. 'Sıçrayan sürü' doktrininin en agresif uygulayıcısı olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -15,7 +15,7 @@ Makari, Ghazghkull Thraka'nın kişisel sancağını taşıyan küçük ve kurna
 
 ## Tarihçe
 
-Kaynaklar Makari'yi, Ghazghkull'un seferleri boyunca efendisinin dibinden ayrılmayan ve onun öfkesinden de, düşman ateşinden de aynı ustalıkla sıyrılan bir figür olarak anlatır. Nate Crowley'in romanında anlatının önemli bir kısmı Makari'nin ağzından verilir; böylece Ghazghkull'un yükselişi, onu en yakından gören ama en az ciddiye alınan tanığın gözünden aktarılır.
+Makari, Ghazghkull Thraka'nın en küçük ama en sadık grot'udur — 'şanslı Gretchin' olarak Warlord'unun yanında duran figür. Ork büyüklük hiyerarşisinin en dibinde ama 'şansın kendisi' olarak Ghazghkull'un maskotu sayılır; 'büyük planın küçük gözcüsü' olarak WAAAGH!'ın sembolik figürlerinden biridir.
 
 ## Kanon Notu
 

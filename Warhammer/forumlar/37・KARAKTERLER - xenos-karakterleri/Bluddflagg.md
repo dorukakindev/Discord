@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/99/Bluddflag_battle_2.jp
 
 ## Tarihçe
 
-Kaptan Bluddflagg, Korianis Sektörü'nde Ork korsan ekibini yöneten Freebooter kaptanı; Retribution'ın 'yağmacı' yüzü — 'mantıklı görünen ork' olarak bilinir.
+Kaptan Bluddflagg, Korianis Sektörü'nde Ork korsan ekibini yöneten ünlü Freebooter kaptanıdır. Üçüncü Aurelian Seferi sırasında Aurelia Alt-Sektörü'nü belirsiz süre boyunca yağmaladı. Çoğu Ork Warboss'unun aksine Bluddflagg sadece 'daha büyük WAAAGH!' için değil aynı zamanda yağma için savaşır — bu onu başarılı bir Freebooter yaptı ve 'sadece kârlı gördüğü dövüşleri seçme' gibi bir Ork için olağandışı bir rasyonellik verdi. Dawn of War II: Retribution'ın Ork senaryosunun kahramanı olarak bilinir; 'hırslı ama hesapçı' ork arketipinin en canlı örneği.
 
 -# Kaynaklar: *Fandom wiki*

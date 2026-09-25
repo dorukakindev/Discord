@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bf/FallenAngelsIcon.png/
 
 ## Tarihçe
 
-Seraphax, Dark Angels'ın Fallen'ı ve Imperium Nihilus'ta 'Ten Thousand Eyes' warhost'unun Sorcerer Lord'u; Lion'un 'kaybolan oğulları'ndan en tehlikelilerinden.
+Seraphax, Dark Angels'ın Fallen'ı (Düşmüş Melekler) ve Imperium Nihilus'ta 'Ten Thousand Eyes' hain warhost'unun Sorcerer Lord'uydu. Diğer Fallen'lar gibi kendini İmparator'a hain saymazdı; Chaos'un gücünü insanlık yararına kullanmayı hedeflediğine inanırdı. Era Indomitus'ta uyanan Lion El'Jonson'ı Sable'a çeken 'Mirror-Caliban' planının mimarıydı — amacı primarch'ın bedenini Chaos tanrılarını devirmek için kullanmaktı. Lion'la düellosunda mutasyona uğramış haldeyken kendi teğmeni Baelor tarafından arkadan hançerlendi; 'kendi kurgunun kurbanı' olarak öldü.
 
 -# Kaynaklar: *Fandom wiki*

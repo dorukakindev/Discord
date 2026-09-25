@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ec/GreatUncleanOne2.png/
 
 ## Tarihçe
 
-Nurgle'ın daemon lejyonlarını yöneten generaller olarak salgın dünyalarında ve Death Guard'ın seferlerinde görülürler. Great Rift'in açılmasının ardından Ultramar'a yönelen Plague Wars, Nurgle'ın daemon ordularının ve Great Unclean One'ların en geniş sahneye çıktığı dönemlerden biridir.
+Great Unclean One — 'Veba Lordu', 'Sinek Efendisi', 'Koku Lordu' — Veba Tanrısı Nurgle'un grotesk biçimde şişman Greater Daemon'ıdır; hastalık, ölüm ve çürümenin efendisinin elçisidir. Bu iğrenç daemonlar 'çürümenin babacan yüzü' olarak bilinir — sırıtan, şen ve sevecen bir dış görünümle gelir ama dokunuşu vebadır; Nurgle'un 'kişileşmiş afeti'.
 
 ## Teknik / Biyolojik Özellikler
 

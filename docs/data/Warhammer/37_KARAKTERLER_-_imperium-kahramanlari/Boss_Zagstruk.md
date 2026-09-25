@@ -16,7 +16,7 @@ Zagstruk, roket sırt çantalarıyla gökten inen Stormboyz'un en tanınmış ö
 
 ## Tarihçe
 
-Kaynaklara göre bir Space Marine Dreadnought'uyla karşılaşmasında bacaklarını yitiren Zagstruk, yerlerine taktırdığı metal pençeli bionik bacaklarla savaşa dönmüştür. Kaynaklara göre bionik bacaklar, onu yaralayan Dreadnought'un kendi yakın dövüş silahlarından yapılmıştır.
+Boss Zagstruk, Ork'un ünlü Stormboy lideridir — 'Vulcha Squad' adlı özel birimiyle bilinen bu figür, rokkit pack'li hava saldırılarının ustasıdır. Disiplinli Stormboy'ların (Ork'ta nadir görülen 'düzenli' birlikler) efendisi olarak 'gökyüzünün Ork'u' olarak kayıtlara geçmiştir.
 
 -# Kaynaklar: *Codex: Orks*
 

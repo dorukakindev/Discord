@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/75/AttackBike01.jpg/revi
 
 ## Tarihçe
 
-Attack Bike, Space Marine'in standart motosikletinin yan-arabalı saldırı varyantı; heavy bolter veya multi-melta taşıyan 'ikiz-silah' platform — hız ve ateşin birleşimi.
+Attack Bike, Space Marine'in standart motosikletinin yan-arabalı saldırı varyantıdır; bir sürücü ve bir silahlı yolcu taşır. Heavy bolter veya multi-melta monte edilen bu platform, hızın yanına ciddi ateş gücü ekler — 'tekerlekli pusu' olarak chapter'ların hızlı-müdahale timlerinin vazgeçilmezidir.
 
 -# Kaynaklar: *Fandom wiki*

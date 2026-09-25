@@ -12,4 +12,7 @@ Juggernaut'lar, savaşın en ham anlarını, ezici gücün her şeye hükmettiğ
 
 ## Khorne'un Koçbaşı
 Juggernaut'lar, Khorne'un metal ve et karışımı savaş canavarlarıdır — devasa, boynuzlu, çelikten kaburgalı yaratıklar; hem binek hem silahtır. Khorne'un Bloodletter'ları ve Bloodcrusher'ları üzerlerine biner; duvarları ezen, barikatları parçalayan bir hücum koçu olarak hareket ederler. Tamamen Khorne'un demiridir: sıcak kan damlatan, bronz dişli, kasları metal tellerden örülü. Ölümcül darbeler onları durdurmaz — ancak başları kesildiğinde ya da tamamen parçalandığında dururlar. Khorne'un en sevdiği "hediye" budur: bir savaşçıya Juggernaut bineği, kanlı hizmetin ödülüdür.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Juggernaut of Khorne, Khorne'un daemonik savaş hayvanıdır — yaşayan metal ve öfkeden dövülmüş dev bir binek canavarıdır. Pirinç ve kanlı bakırdan yapılmış bedeni hem makine hem yaratıktır; Khorne'un Bloodcrusher'ları bu canavarların sırtında savaşa koşar. Ezici ağırlığı ve y

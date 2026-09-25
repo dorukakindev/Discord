@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a0/Bloodclaw_Pack_Markin
 
 ## Tarihçe
 
-Bran Redmaw, Space Wolves'un Büyük Kurt'larından biridir; Wulfen lanetine en yakın duran kurt olarak bilinir — içindeki canavarla savaşan lider.
+Bran Redmaw — 'Lanetli Lord', 'Wulfen-Kin', 'Kanlı Avcı' — Space Wolves'un on iki Wolf Lord'undan biridir; ama diğer 11 tarafından şüpheyle bakılır çünkü bölüğü 'lekeli' sayılır. Wulfen Laneti'ni taşıyan Space Wolves'un en çok onun bölüğünde savaşması, Redmaw'ı hem tehlikeli hem değerli kılar — 'canavarın efendisi' olarak chapter'ın karanlık yüzünü taşıyan liderdir.
 
 -# Kaynaklar: *Fandom wiki*

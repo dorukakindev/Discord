@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/10/Tiber_Achilus.png/rev
 
 ## Tarihçe
 
-Tiber Achilus, Jericho Reach'teki Achilus Haçlı Seferi'nin komutanı olan efsanevi Lord Militant'tır; İmparatorluk'un son büyük 'geri alma' seferinin adını taşıyan figür.
+Tiber Achilus, Astra Militarum'un general subayı ve Jericho Reach'i geri alma seferinin — Achilus Seferi'nin — asıl Lord Militant'ı, Warmaster'ı ve adaşıydı. Ölümünden sonra yerini Solomon Tetrarchus aldı; seferin ismini taşıyan kurucu figür olarak Jericho'nun İmparatorluk tarihindeki başlangıç noktasıdır.
 
 -# Kaynaklar: *Fandom wiki*

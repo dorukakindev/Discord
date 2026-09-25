@@ -16,7 +16,7 @@ Halkını C'tan'ın vaatlerine teslim ederek biotransference'a götüren hüküm
 
 ## Tarihçe
 
-War in Heaven sırasında C'tan'la yapılan anlaşma Necrontyr'i ölümsüz ama ruhsuz makinelere dönüştürdü; dönüşümün anlamını kavrayan Szarekh, C'tan'a karşı ayaklanarak onları parçalara ayırdı. Halkına Great Sleep'e dalmalarını emrettikten sonra kendini galaksinin ötesine sürgün etti. 9th Edition anlatısıyla geri dönerek dynasties'leri bir araya toplamaya girişti; Pariah Nexus'taki blackstone pylon ağı onun yönettiği bir girişimin parçasıdır.
+Szarekh — 'Sessiz Kral' — Triarch'ın son üyesi ve tüm Necron ırkının en üst hükümdarıdır; biotransference'ı emreden ve sonra 'kendi ırkını köleleştirdiğini' fark edip galakside sürgüne çıkan figür. Tyranid tehdidini görüp geri dönen bu figür, 'kendi hatasını düzeltmeye çalışan kral' olarak Necron uygarlığının hem kurucusu hem trajik figürüdür.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*; *Crusade: Pariah Nexus*
 

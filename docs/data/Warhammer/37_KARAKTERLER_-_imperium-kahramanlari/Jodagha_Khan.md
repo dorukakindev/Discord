@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e2/WS_Shoulder_Plate.png
 
 ## Tarihçe
 
-Jodagha Khan, White Scars 10. Kardeşlik'in kaptanı; chapter'ın 'hız savaşı' doktrininin modern uygulayıcılarından.
+Jodagha Khan, White Scars'ın 10. Kardeşlik kaptanıdır; chapter'ın 'hız savaşı' doktrininin modern uygulayıcılarından biri olarak görev yapar.
 
 -# Kaynaklar: *Fandom wiki*

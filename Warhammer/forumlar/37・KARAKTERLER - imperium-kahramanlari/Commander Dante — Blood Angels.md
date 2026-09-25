@@ -16,7 +16,7 @@ Bin yılı aşkın süredir Blood Angels'ı yöneten Chapter Master. Yaşlanmı�
 
 ## Tarihçe
 
-M41'in sonunda Hive Fleet Leviathan'ın bir kolu Baal'a yöneldiğinde Sanguinius'un soyundan gelen Chapter'ları ana dünyanın savunması için topladı. Savunma çöküşün eşiğine geldiğinde Great Rift'in açılması ve Guilliman'ın Primaris takviyeleriyle gelişi Baal'ı kurtardı. Primarch, Dante'yi Imperium Nihilus'un Regent'i olarak atadı; yaşlı Chapter Master, Astronomican'ın ışığından kesilmiş yarı galaksinin savunmasını üstlendi.
+Commander Dante, Blood Angels'ın Chapter Master'ıdır — 'Baş Melek' olarak bilinen bu figür, İmparatorluk'un en yaşlı aktif Space Marine'i (1100+ yıl). Sanguinius'un 'altın maskesi'ni taşıyan bu figür, Blood Angels'ın kaderini yöneten en efsanevi komutandır; 'yaşayan meleğin sonu' olarak Baal'ın savunucusu.
 
 -# Kaynaklar: *Dante — Guy Haley*; *The Devastation of Baal — Guy Haley*; *Codex Supplement: Blood Angels — 10th Edition*
 

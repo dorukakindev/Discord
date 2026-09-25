@@ -14,7 +14,7 @@ Boynuzlu başı, dört kolu ve çoğu zaman kıskaç biçimli pençeleriyle bir 
 
 ## Tarihçe
 
-Keeper of Secrets'lar Slaanesh'in daemon ordularına komuta eder ve Emperor's Children gibi Slaanesh'e adanmış kuvvetlerle birlikte görülür. Adı bilinenlerden Shalaxi Helbane, tanrısının şampiyonu ve özellikle Khorne'un daemon'larına karşı savaşan bir düellocu olarak anlatılır.
+Keeper of Secrets — 'Ayartıcının Getiricisi', 'Acının Şöleniyicisi', 'Slaanesh'in Katili', 'Etin Yağmalayıcı' — Slaanesh'in hermafrodit Greater Daemon'ıdır; iğrenç ama büyüleyici bu varlık, Dark Prince'in karanlık arzularının en mükemmel bedenidir. Çok kollu ve zarif-ölümcül bu figür, 'zevkin kendisinin efendisi' olarak Slaanesh'in en büyük hizmetkârlarından biridir.
 
 ## Teknik / Biyolojik Özellikler
 

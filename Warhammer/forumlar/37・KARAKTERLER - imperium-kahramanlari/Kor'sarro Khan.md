@@ -14,6 +14,6 @@ Khan'ın 'Moondrakkan' adlı kişisel bisikleti ve kılıç 'Moonfang', Chapter'
 
 ## Tarihçe
 
-White Scars 3rd Company'nin Khan'ı; Chapter'ın binicilik ve hız doktrininin en iyi örneği. Voldorius'u on yıl avlayıp Kelmain'te başını aldı — White Scars'ın 'sabırlı avcı' kimliğinin yaşayan halidir.
+Kor'sarro Khan, White Scars'ın 3. Kardeşliği'nin khan'ı (kaptanı) ve chapter'ın mevcut 51. 'Av Efendisi'dir. Vahşiliğe varan öfkeli, pervasızlığa varan cesur ve isyankârlığa varan atılgan bu figür, Chogoris'in 'step savaşçısı' arketipinin en saf halidir; Moonsight'ı ve power sword'üyle 'gökyüzünün avcısı' olarak White Scars'ın önde gelen figürlerinden.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

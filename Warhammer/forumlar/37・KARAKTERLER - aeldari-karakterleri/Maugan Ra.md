@@ -16,7 +16,7 @@ Dark Reaper'ların Phoenix Lord'u Maugan Ra, Khaine'in yok edici yönünü temsi
 
 ## Tarihçe
 
-Asurmen'in yanında savaş yolunu öğrenen Maugan Ra, Dark Reaper geleneğini kurdu. Anlatılarda en çok, Eye of Terror'a yutulduğu düşünülen Craftworld Altansar'la ilişkisiyle anılır: 13th Black Crusade sırasında Altansar'ın Eye'dan yeniden çıkışı onun rehberliğiyle ilişkilendirilir. Bu dönüş, Craftworld'ün Chaos tarafından bozulup bozulmadığına dair derin şüpheleri de beraberinde getirmiştir.
+Maugan Ra — 'Ruhların Biçici'si' — Craftworld Aeldari'nin Dark Reaper Aspect Warriors'ının kurucusu ve Phoenix Lord'udur. Altansar craftworld'ü Eye of Terror'dan kurtaran figür olarak 'karanlıktan dönen' efsanedir; 'Maugetar' reaper launcher'ıyla ölüm biçen bu Phoenix Lord, 'hasatın efendisi' olarak en korkulanıdır.
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Codex: Eye of Terror*
 
