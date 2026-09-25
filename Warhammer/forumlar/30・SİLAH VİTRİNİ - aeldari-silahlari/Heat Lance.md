@@ -5,6 +5,10 @@
 
 Reaver jetbike'larının melta-benzeri darklight kargısı; yüksek hızda geçerken tank zırhını eritir. Drukhari hızının ve zalimliğinin birleşimi.
 
+## Tarihçe
+
+Drukhari'nin karanlık ışın silahı; Warp'tan beslenen soğuk-ışık projektörü. Dark Lance'in piyade versiyonu — acı vermeden öldüren sessiz Commorragh teknolojisi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

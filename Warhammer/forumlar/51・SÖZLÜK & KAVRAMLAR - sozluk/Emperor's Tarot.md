@@ -11,6 +11,6 @@ Divinasyon destesi — İmparator'un iradesini okumak için kullanılan kart sis
 
 ## Tarihçe
 
-İmparatorluk'un kehanet aracı; psyker'ların Warp'tan işaret okuduğu kart destesi. Hem dua hem pusula — İmparatorluk'un resmi kahini.
+İmparator'a bağlı 78 sıvı-kristal wafer; Warp'taki İmparator psikozuna bağlı kehanet aracı. Heresy öncesi İmparator'un kendisi tasarladığına inanılır — İmparatorluk'un resmi 'yol gösterici'si, okuyanlar ne görürse görsün fiyat bedenle ödenir.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

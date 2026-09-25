@@ -10,4 +10,9 @@ Monolith'in ana silahı; yoğunlaştırılmış parçacık enerjisini tek devasa
 
 ## Teknik ve Kullanım
 Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+
+## Tarihçe
+
+Monolith'in güç matriksinden beslenen anti-madde ışını; temas eden her şeyle infilak eden minicik parçacık akışı. Basit güvenlikle çalışan mutlak ölüm — Necron'un 'güvenilir dehşet' ilkesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

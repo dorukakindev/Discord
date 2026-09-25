@@ -10,4 +10,9 @@ Flash Gitz'in gösterişli, parayla süslenmiş ağır silahları; ne kadar paha
 
 ## Teknik ve Kullanım
 Ork silahları 'Waaagh! enerjisi' ile çalışır: fiziksel olarak imkânsız görünen tasarımlar ork'un kolektif inancı sayesinde işlev görür. Choppa, slugga ve kustom icatlar hiçbir mühendislik standardına uymaz ama savaş alanında kesinlikle çalışır — ork için 'büyük ses ve çok hasar' yeterlidir.
+
+## Tarihçe
+
+Flash Gitz'lerin gösterişli özel silahı; kişiye-özel namlular, dürbünler ve bionik bağlantılarla donatılmış Ork şaheseri. Çok süslü, çok gürültülü — teknolojinin 'gösteri' versiyonu, 'dakka' kültürünün zirvesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

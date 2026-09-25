@@ -10,4 +10,9 @@ Büyük Haçlı Seferi çağının ısı ışını silahı; kurbanını içten t
 
 ## Teknik ve Kullanım
 Volkite ('thermal ray') silahları hedefi radyant ısı ışınıyla içten tutuşturur — isabet eden beden alev alarak yanar. Büyük Haçlı Seferi'nin efsanevi silahıdır; üretim tekniği Horus Heresi'nde kaybolduğu için bugün kalan örnekleri kutsal kalıntıdır.
+
+## Tarihçe
+
+Karanlık Teknoloji Çağı'ndan kalma ısı silahı; hedefi mikrodalga gibi içten pişiren eski insan teknolojisi. Heresy dönemi Legiones Astartes'in standart destek silahıydı — bugün neredeyse hiç üretilemeyen kutsal kalıntı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

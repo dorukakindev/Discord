@@ -11,4 +11,8 @@ Pontius'un iblis-anlaşmasının ortaya çıkışı ve Eisenhorn'un eski öğren
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Eisenhorn serisinin 3. kitabı; Tyrant Star Komus'un kehaneti ve Eisenhorn'un en büyük dönüşü — 'Hereticus Tenebrae' kehanetinin gerçekleşmesi.
+
 -# Kaynaklar: Black Library

@@ -13,4 +13,8 @@ Grimaldus'un Armageddon'un en büyük kovan şehrini orklara karşı son adam ka
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Aaron Dembski-Bowden'ın Black Templars romanı; Helsreach hive şehrinin Ghazghkull WAAAGH!'ına karşı savunması — Grimaldus'un ünlü 'I have dug my grave' konuşması burada.
+
 -# Kaynaklar: Black Library

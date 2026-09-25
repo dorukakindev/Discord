@@ -13,4 +13,8 @@ Gaunt'un 'The Sabbat' seçilmesi, Vermilion Conspiracy ve Dercius'un ihaneti; Gh
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Gaunt's Ghosts 1; Black Library'nin ilk 40K romanı — Tanith First-and-Only'nin kuruluşu ve Sabbat Worlds haçlı seferinin başlangıcı. Ibram Gaunt'un ilk kayıt.
+
 -# Kaynaklar: Black Library

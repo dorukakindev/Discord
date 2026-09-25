@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6d/SonicBlaster.png/revi
 
 Slaanesh'e adanmış Noise Marine'lerin ses silahı; öldürücü frekanslarda akort edilmiş kakofoni dalgaları fırlatır. Kurban için son duyduğu şey, dayanılmaz güzellikte bir çığlıktır.
 
+## Tarihçe
+
+Noise Marine'in iki-elli sonik silahı; hedefi aşırı ses dalgalarıyla fiziksel olarak parçalayan Heavy Bolter boyu alet. Slaanesh'in 'müzikle ölüm' doktrininin yaygın aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

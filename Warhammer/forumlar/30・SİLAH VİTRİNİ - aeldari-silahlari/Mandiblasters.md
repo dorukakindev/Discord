@@ -5,6 +5,10 @@
 
 Striking Scorpion aspect kasklarına monteli minyatür lazer silahları; yakın dövüşe girerken otomatik olarak ateşlenip düşmanı sersemletir. Akrep, sokmadan önce şok verir.
 
+## Tarihçe
+
+Drukhari başının ağız kısmından çıkan pençe/bıçak uzantısı; Incubus zırhının ikinci silahı. Klaive'e ek olarak kullanılan yakın-mesafe sürpriz — dövüş sanatının 'çeneyle de vurabilir' felsefesi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

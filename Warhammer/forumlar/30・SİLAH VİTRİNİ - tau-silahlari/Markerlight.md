@@ -5,6 +5,10 @@
 
 Tau'nun savaş doktrininin kalbi; hedefi görünmez bir işaretle damgalar ve tüm Tau ateş hattının isabetini ve füze kilidini katlar. Tek başına zarar vermez ama ölümün habercisidir.
 
+## Tarihçe
+
+T'au'nun hedef-işaretleme lazeri; kendisi zarar vermez ama işaretlediği düşmana isabet bonusu veren taktik alet. 'Markerlight'la vurulan bir hedef — ordunun ortak nişangâhı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

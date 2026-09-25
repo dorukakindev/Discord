@@ -11,6 +11,6 @@ Imperium'un merkezi yönetim teşkilatının çatı adı — Ecclesiarchy, Admin
 
 ## Tarihçe
 
-İmparatorluk'un Terra'daki kurumlarının genel adı; Administratum, Mechanicum, Ecclesiarchy ve diğerlerinin çatısı. 'Terra'nın adamları' — İmparatorluk'un yönetim kalbi.
+Terra'nın Rahipleri — İmparatorluk'un merkezi bürokratik yapısı; High Lords'un emirlerini milyarlarca gezegene indiren devasa devlet çarkı. Kendi başına bir kurumdan çok, tüm otonom departmanların çatısı — 'Terra'nın adamları' tam olarak budur.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

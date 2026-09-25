@@ -10,4 +10,9 @@ Tau Ateş Kastı'nın standart piyade silahı; elektromanyetik indüksiyonla hı
 
 ## Teknik ve Kullanım
 Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
+
+## Tarihçe
+
+T'au Fire Warrior'ın standart pulse tüfeği; parçacık hızlandırıcı teknolojiyle plazma-mermi fırlatan İmparatorluk bolter'ının eşiti. Third Sphere Expansion döneminin ikonik piyade silahı — Greater Good'un 'standart ölüm'ü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

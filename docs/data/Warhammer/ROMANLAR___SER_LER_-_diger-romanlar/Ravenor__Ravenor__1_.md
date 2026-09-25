@@ -13,4 +13,8 @@ Ravenor'un ekibi (Kara Yuanjin, Nayl, Harlon vs.) ile Sirk'teki 'Flect' uyuştur
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Eisenhorn'un devamı; tekerlekli sandalyedeki Inquisitor Gideon Ravenor ve operatiflerinin gizli savaşı. 'Beden hapsindeki zihin' inquisitor'unun vakaları.
+
 -# Kaynaklar: Black Library

@@ -11,6 +11,6 @@ Imperium'un standart damıtılmış alkollü içeceği; subay sofralarından mey
 
 ## Tarihçe
 
-İmparatorluk'ta en bilinen içki; güçlü, eski, saygın. Subayların ve soyluların masasında — yalnızca savaştan önce ve sonra.
+İmparatorluk'un klasik içkisi; yerel tahıllardan damıtılan güçlü likör. Mistral'ın bağlarından Atoma'nın depolarına — kalitesi molotov sınıfından subay likörüne kadar değişir ama adı her yerde aynı.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

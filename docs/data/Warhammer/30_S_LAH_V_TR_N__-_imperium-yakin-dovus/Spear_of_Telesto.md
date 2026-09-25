@@ -22,4 +22,8 @@ Blood Angels Chapter Master'ı Dante'nin taşıdığı kadim emanet; ucuna enteg
 - **Özel:** Gizli melta: Mızrak darbesiyle birlikte yakın mesafe füzyon atışı
 - **Kanon Sınıfı:** A — resmî kaynak
 
+## Tarihçe
+
+Blood Angels'ın en kutsal relic'i; Sanguinius'un kendi elleriyle dövdüğüne inanılan mızrak. Onu taşıyan geçmişin gücünü taşır — Chapter'ın en büyük emaneti, arkasındaki gerçek tarihi bilinse bile her Blood Angel'in saygı duyduğu simge.
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

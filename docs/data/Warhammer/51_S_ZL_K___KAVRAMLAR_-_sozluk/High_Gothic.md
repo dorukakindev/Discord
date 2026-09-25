@@ -9,6 +9,6 @@ Imperium'un resmî/aristokrat dili (Latin); tören, yasa ve kayıtlarda kullanı
 
 ## Tarihçe
 
-İmparatorluk'un resmi ve törensel dili; Latince-temelli eski dil. Kanun, ayin ve resmi konuşma — 'gerçek' İmparatorluk dili.
+İmparatorluk'un hiyeratik dili; Adeptus Terra ve resmi kurumların unvan dili. Mechanicum'un 'Tech' dediği, kutsal sayılan eski dil — kanun ve ayin burada yazılır, sokakta konuşulmaz.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

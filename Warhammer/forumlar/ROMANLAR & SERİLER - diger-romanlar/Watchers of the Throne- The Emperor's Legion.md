@@ -11,4 +11,8 @@ Tieron chancellor'un ve Custodes Shield-Captain Valerian'ın gözünden İmparat
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Custodes'un iç romanı; Hetaeron Guard'ın İmparator'un en yakınındaki rolü ve Guilliman dönüşü sonrası Terra'daki siyasi gerilim. 'Üç Yüz'ün günlüğü.
+
 -# Kaynaklar: Black Library

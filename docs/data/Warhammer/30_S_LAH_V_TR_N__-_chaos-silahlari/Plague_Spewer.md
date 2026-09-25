@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4c/PlagueSpewerBlightlor
 
 Death Guard'ın alev silahı yerine taşıdığı irin fışkırtıcısı; alev yerine Nurgle'ın çürüten salgılarını püskürtür. Dokunduğu et çürür, zırh paslanır.
 
+## Tarihçe
+
+Nurgle hizmetkârlarının hastalık püskürtücüsü; daemonik patojen ve toksin karışımını püskürtür. Blightlord Terminator'ların favori yakın-mesafe silahı — mermi değil, veba saçar.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

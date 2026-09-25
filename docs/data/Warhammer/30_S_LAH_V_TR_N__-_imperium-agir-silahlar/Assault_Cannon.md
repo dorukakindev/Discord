@@ -10,4 +10,9 @@ Altı namlulu döner gatling topu; saniyede yüzlerce mermi kusar. Terminatörle
 
 ## Teknik ve Kullanım
 Çok namlulu döner top — Terminator ve Land Speeder'ların dakikada binlerce mermi atan piyade biçici silahı. Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan, bakımı basit ve üretimi bol İmparatorluk ve düşman silahları; bolt veya enerji teknolojisi olmadan da cephede en çok iş yapan sınıftır.
+
+## Tarihçe
+
+Döner namlulu otomatik top; terminator ve araç üzerindeki altı-namlulu seri-ateş silahı. Piyade süpürmesinin adı — tek saniyede düzine mermi, sürekli ses, sürekli ölüm.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

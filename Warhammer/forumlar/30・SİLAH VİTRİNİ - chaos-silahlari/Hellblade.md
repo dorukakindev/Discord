@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/88/BloodletterHellblade.
 
 İçine bir iblis bağlanmış lanetli Kaos kılıcı; taşıyıcısına olağanüstü güç verir ama iblis her vuruşta iradesini kemirir.
 
+## Tarihçe
+
+Khorne Bloodletter'larının iki-elli daemon kılıcı; nefretle bilenmiş jilet kenarı ve yakan katliam runları taşır. Hiçbir fani zırhı durduramaz — binlerce yılda kırılan iradelerin aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

@@ -10,6 +10,6 @@ Daemon Dünyası (Daemon World), Warp ile gerçek uzay arasındaki perdenin tama
 
 ## Tarihçe
 
-Chaos'un hükmettiği gezegen; Warp'ın fizikle kaynaştığı yer. Cehennemin haritası — burada insan sadece besindir.
+Chaos'un egemen olduğu gezegen; Warp'ın fiziksel kavramları zorladığı cehennem-dünya. Daemon Primarch'ların ve Lejyonların 'yeni yurdu' — burada insan sadece besin, yalnızca daemon kraliçe ve tanrılar hükmeder.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

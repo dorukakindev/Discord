@@ -11,6 +11,6 @@ Imperium'un standart telsiz/iletişim sistemi; kişisel vox-caster'dan gemi öl�
 
 ## Tarihçe
 
-İmparatorluk'un radyo sistemi; kısa menzilli askeri iletişim. Cephenin ve geminin sesi — emirler buradan iner.
+İmparatorluk'un askeri telsiz sistemi; kask-üstü linkten karargâh boyu istasyonlara kadar uzanan iletişim ağı. Cephenin sesi — emrin, raporun ve son çağrının gittiği kanal.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

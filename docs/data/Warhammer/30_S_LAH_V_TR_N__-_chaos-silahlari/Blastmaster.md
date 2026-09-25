@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/19/Noise_Marine_Blast_Ma
 
 Noise Marine'lerin ağır sonik silahı; tek yoğun bas darbesiyle beden parçalayan, ayarlanabilir frekanslı yıkım enstrümanı. Slaanesh kültünde savaş, konserin devamıdır.
 
+## Tarihçe
+
+Slaanesh Noise Marine'lerinin ağır sonik silahı; bas notasını patlayıcı ses-kresendo'suna dönüştürüp göz kürelerini ve iç organları patlatır. Frekans değiştirilerek etki ayarlanır — savaşın en 'estetik' versiyonu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

@@ -10,4 +10,9 @@ Space Marine Chaplain'lerinin makam asası ve güç silahı; ucundaki kanatlı k
 
 ## Teknik ve Kullanım
 Chaplain'in kutsal asası — hem güç silahı hem 'İmparator'un Otoritesi' simgesi; Space Marine manevi liderliğinin taşıyıcısı. Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
+
+## Tarihçe
+
+Chaplain'in kutsal asası; savaş rahibinin hem rütbe simgesi hem ölümcül güç silahı. Kartal ya da kafatası başlığı taşır, disruption alanıyla kaplıdır ve Chapter'ın dini otoritesini somutlaştırır. Bir Chaplain'in Crozius'u, Chapter'ın inancının fiziksel halidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

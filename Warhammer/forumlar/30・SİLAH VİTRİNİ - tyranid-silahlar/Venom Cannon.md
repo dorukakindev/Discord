@@ -10,4 +10,9 @@ Büyük Tyranid biyoformlarının ağır silahı; manyetik kas kasılmalarıyla 
 
 ## Teknik ve Kullanım
 Tyranid silahları canlı organizmalardır: biyo-toplar asit, zehir, iğne veya canlı mermi fırlatır ve her biri Hive Mind'ın kolektif tasarımının parçasıdır. Bonesword veya devourer gibi organlar kendi 'yaşam' döngüsüne sahiptir — tyranid silahı kullanıldıktan sonra beslenir, beslenemezse ölür.
+
+## Tarihçe
+
+Tyranid'in toksin-fırlatan biyofor; zehirli kristalleri yüksek hızla fırlatan canlı top. Venom Cannon'un vurduğu zırh delinir, et zehirlenir — biyolojik savaşın tek özeti.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
