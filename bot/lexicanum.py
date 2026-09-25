@@ -1,5 +1,5 @@
 """Lexicanum — arşiv botu.
-Komutlar: /ara /rastgele /istatistik (herkes) · /kayit-ekle /kayit-duzenle /index-yenile (manage_messages)
+Komutlar: /ara /sor /rastgele /istatistik (herkes) · /kayit-ekle /kayit-duzenle /index-yenile (manage_messages)
 Çalıştırma: DISCORD_TOKEN=... python3 lexicanum.py"""
 import asyncio
 import logging
@@ -158,6 +158,89 @@ async def istatistik(inter):
         e.add_field(name=m['name'], value=f'{n} kayıt', inline=True)
     e.set_footer(text=f'Toplam {len(INDEX)} kayıt')
     await inter.response.send_message(embed=e)
+
+
+# /sor — soru kelimelerinden en iyi paragrafı çıkarır (LLM yok, saf puanlama)
+_STOP = {'bir', 've', 'ya', 'veya', 'ile', 'icin', 'gibi', 'de', 'da', 'ki',
+         'ne', 'bu', 'su', 'o', 'nasil', 'neden', 'nicin', 'nedir', 'kim',
+         'kimdir', 'kac', 'hangi', 'hangisi', 'mi', 'mu', 'var', 'yok', 'en',
+         'cok', 'az', 'diye', 'kadar', 'hakkinda', 'konusunda', 'nerede',
+         'kimse', 'sey', 'olan', 'olur', 'olarak', 'arasinda'}
+
+
+def question_terms(q):
+    return {t for t in norm(q).split() if t not in _STOP and len(t) > 2}
+
+
+def thread_id_of(r):
+    return r.get('i') or str(r.get('l', '')).rsplit('/', 1)[-1]
+
+
+async def thread_text(r):
+    try:
+        th = await bot.fetch_channel(int(thread_id_of(r)))
+    except (discord.HTTPException, ValueError):
+        return ''
+    if not hasattr(th, 'history'):
+        return ''
+    return '\n\n'.join(m.content async for m in th.history(limit=None, oldest_first=True))
+
+
+def best_excerpt(text, terms, limit=1500):
+    paras = [p.strip() for p in text.split('\n\n') if p.strip()]
+    paras = [p for p in paras if not p.startswith(('#', '-#', '---', '!['))]
+    if not paras:
+        return ''
+
+    def score(i, p):
+        words = norm(p).split()
+        if not words:
+            return -i * 0.01
+        hits = sum(1 for t in terms if t in words)
+        cov = hits / len(terms) if terms else 0.0
+        return cov * 10 + hits / len(words) - i * 0.01
+
+    out = paras[max(range(len(paras)), key=lambda i: score(i, paras[i]))]
+    if len(out) > limit:
+        out = out[:out.rfind(' ', 0, limit)].rstrip() + '…'
+    return out
+
+
+@tree.command(name='sor', description='Arşive soru sor (örn: astartes nedir)')
+@app_commands.describe(soru='Sorunuz', sunucu='Yalnızca bu sunucuda ara')
+@app_commands.choices(sunucu=[app_commands.Choice(name=m['name'], value=s)
+                            for m in GUILDS.values() for s in [m['slug']]])
+async def sor(inter, soru: str, sunucu: app_commands.Choice[str] = None):
+    gid = None
+    if sunucu:
+        gid = next(g for g, m in GUILDS.items() if m['slug'] == sunucu.value)
+    elif inter.guild_id:
+        gid = str(inter.guild_id)
+    await inter.response.defer()
+    terms = question_terms(soru)
+    q = ' '.join(sorted(terms)) or soru
+    rows, _ = search(q, gid)
+    if not rows and gid:
+        rows, _ = search(q, None)
+    if not rows:
+        msg = f'**{soru[:100]}** için kayıt bulunamadı.'
+        hits = suggest(norm(soru), gid)
+        if hits:
+            msg += '\nBunu mu demek istediniz?\n' + '\n'.join(
+                f'• [{r["t"][:80]}]({r["l"]})' for r in hits)
+        await inter.followup.send(msg, ephemeral=True)
+        return
+    for r in rows[:3]:
+        ex = best_excerpt(await thread_text(r), terms)
+        if not ex:
+            continue
+        e = discord.Embed(title=f'“{soru[:200]}”', colour=0xC8A24B,
+                          description=ex[:4096])
+        e.add_field(name='Kaynak', inline=False,
+                    value=f'[{r["t"][:80]}]({r["l"]}) — {r["f"]} · {r["s"]}')
+        await inter.followup.send(embed=e)
+        return
+    await inter.followup.send(embed=result_embed(f'“{soru[:200]}”', rows[:3]))
 
 
 def is_admin(inter):

@@ -6,7 +6,8 @@ Arşiv sunucularını (Imperial / Trench / Black RPG / Film Archive) tek botla y
 
 | Komut | Kim | İşlev |
 |---|---|---|
-| `/ara <sorgu>` | herkes | Kayıtlarda Türkçe-normalize + fuzzy arama, Discord bağlantılı sonuç listesi |
+| `/ara <sorgu>` | herkes | Kayıtlarda Türkçe-normalize + fuzzy arama, Discord bağlantılı sonuç listesi; 0 sonuçta öneri sunar |
+| `/sor <soru>` | herkes | Soruyu en yakın kayda eşler, kaydın thread metninden en ilgili paragrafı çıkarır (LLM yok, anahtar-kelime puanlama) |
 | `/rastgele` | herkes | Rastgele kayıt (içinde bulunulan sunucu öncelikli) |
 | `/istatistik` | herkes | Sunucu başına kayıt sayısı |
 | `/kayit-ekle` | `manage_messages` | Forum seç + modal ile başlık/metin → yeni kayıt postu |
