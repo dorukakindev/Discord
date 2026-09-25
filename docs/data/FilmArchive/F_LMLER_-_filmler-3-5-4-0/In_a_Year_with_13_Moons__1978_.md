@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · In a Year with 13 Moons (1978) · Derin Analiz
 # Ayrıntılı konu
-Elvira (Erwin), trans bir kadındır; sevgilisi Anton onu terk eder ve intihara sürükler. Elvira'nın geçmişi flashbacklerle açılır — eski hayatı, ameliyatı, aşkları ve ölümü. İntihar sahnesi uzun ve çaresizdir: Elvira 'yalnız kaldı' notunu bırakır ve sokakta ölür. Fassbinder'ın en acımasız filmi — trans yaşamının toplumsal reddini gösterir.
+Elvira (doğum adı Erwin), sevgilisi Anton Saitz için Fas'ta cinsiyet değiştirmiştir; döndüğünde Anton onu reddeder ve Elvira Frankfurt'un marjlarında yalnız kalır. Film birkaç günlük 'vurgu' anlarıyla ilerler: Elvira'nın mezbaha işi, rahibe Suor Teresina'ya sığınması, şair Zora'yla ilişkisi, ve en sonda Anton'un ofisine yaptığı 'hesaplaşma' ziyareti. Elvira'nın cesedi dairesinde bulunur — intihar değil, aşkın tüketmesi.
 
 # Tez
-Kimlik değiştirmek varlığı değiştirmez — Elvira'nın yeni bedeni eski yalnızlığını taşır. Fassbinder'ın sorusu: cinsiyet değişimi, sevgiyi kabul eder mi?
+Beden değiştirmek dünyayı değiştirmez — Elvira'nın trajedisi aşka 'doğru' beden sunamamak değil, aşkın kendisinin bedene değil güce bağlı olmasıdır. Fassbinder'ın en merhametli ve en acımasız filmi: Elvira'yı aşağılayan herkes onu hak edilmiş görüp izleyiciyi suç ortağı yapar.
 
 ## Mekanizma
-Elvira'nın yüzü sürekli çekilir — acının fiziksel kanıtıdır; karanlık mekânlar ve kırmızı renkler umutsuzluğu biçimlendirir. '13 ay' zamanın da döngüsel olduğunu gösterir.
+Elvira'nın yüzü (Volker Spengler) sürekli yakın çekimdedir — acının topografyası; mezbaha sahnesi kamerayı çevirmeyi reddeder çünkü izleyicinin kaçışı filmin ahlaki testidir. Mezar ziyareti sahnesindeki uzun sessizlik karakterlerin 'hayata dönüş'ünü bile boğar.
 
 ## Kişisel uygunluk
-Kimlik ve yalnızlık profiline güçlü uyuyor.
+Kimlik, aşk ve toplumsal dışlanma teması profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · In a Year with 13 Moons (1978) · Notlar
 ### Tartışmalar & Notlar

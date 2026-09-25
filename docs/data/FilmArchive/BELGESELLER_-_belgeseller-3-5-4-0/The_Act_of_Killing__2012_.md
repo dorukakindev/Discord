@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg
 -# THE FILM ARCHIVE · Belgeseller · 3.5–4.0 · Kayıt
 # The Act of Killing (2012)
 > **Yönetmen:** Joshua Oppenheimer, Anonymous, Christine Cynn · **Tür:** Belgesel, Biography, Suç · **Süre:** 117 dk · **Dil:** Endonezce · **Yıl:** 2012

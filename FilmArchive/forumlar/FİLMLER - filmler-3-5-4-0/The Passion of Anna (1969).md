@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/cr01316AyxUZyZrdLwzz3AXrgJc.jpg
 > **Yönetmen:** Ingmar Bergman · **Tür:** Dram · **Süre:** 101 dk · **Dil:** İsveççe · **Yıl:** 1969
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-A recently divorced man and an emotionally devastated widow begin a love affair.
+Sürgün gibi yaşayan Andreas, küçük bir adada Anna'nın kayıp kocasının ardından yalanlarına ve adadaki gizemli hayvan ölümlerine karışır. Dört yalnız insanın duygusal kopukluğu sessiz bir şiddetle iç içe geçer.
 
 ### Puanlar
 IMDb **7.6/10** · Letterboxd **3.93/5** · nMDB **77.3**

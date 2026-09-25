@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg
 > **Yönetmen:** Darren Aronofsky · **Tür:** Dram, Korku, Gizem · **Süre:** 121 dk · **Dil:** Amerikan İngilizcesi · **Yıl:** 2017
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
+Şair kocasıyla ıssız bir evde yaşayan genç kadının sükûneti, durmadan gelen davetsiz misafirlerle bozulur. Ev yavaş yavaş bir kaosa sürüklenir; kadının bedeni ve evi, yaratıcıya tapınan insanlığın sömürdüğü doğanın alegorisine dönüşür.
 
 ### Puanlar
 IMDb **6.6/10** · Letterboxd **3.49/5** · nMDB **67.9**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · mother! (2017) · Derin Analiz
 # Ayrıntılı konu
-Bir kadın (Anne) ve şair kocası (O) ıssız bir evde yaşar; misafirler gelir — Adam ve Eve gibi, sonra oğulları (Cain ve Abel), sonra dünyanın geri kalanı. Ev kalabalıklaşır, yıkılır ve Anne'nin bebeği kalabalık tarafından parçalanır. Sonunda Anne evi yakar ve O'nun 'kalbi' olarak yeni bir kristal doğar — döngü başlar.
+İsimsiz bir kadın (Anne) ve şair kocası (O), yakılmış bir evi restore edip yaşar; bir gece bir 'doktor' (Adam) gelir, sonra karısı (Eve), sonra iki oğul — kavga sonucu ölürler, ardından yüzlerce hayran O'nun şiirine tapınmak için eve gelir. Anne'nin bebeği kalabalık tarafından parçalanır ve yenir — Komünyon'un grotesk biçimi. Anne evi yakar; O onun kalbindeki kristali alır ve yeni bir 'Anne' ve yeni bir ev başlar — döngüsel yaratım.
 
 # Tez
-Tanrı'nın sevgisi yıkımdır çünkü 'sevgi' adına yaratılan dünya, yaratıcısını tüketir. Aronofsky'nin alegorisi: Tanrı (O) sevgisini insanlara verir ama Anne (doğa/Toprak Ana) onu yok eder.
+Yaratıcılık, yaratılanı sömürür — O (Tanrı/Yazar) sevgisini 'insanlığa' dağıttıkça Anne (Doğa/Toprak Ana) tüketilir; Aronofsky'nin alegorisi aynı anda İncil, çevre ve sanatın kendi açgözlülüğüdür. 'Anne'nin bakış açısından çekilen film, tapınmanın fiziksel maliyetini gösterir.
 
 ## Mekanizma
-Tek mekân, tek bakış açısı: kamera Anne'nin yüzünden ayrılmaz; kalabalık invaziv olarak evi işgal eder. Kristal 'ilahi armağan'dır ama aynı zamanda sömürü kaynağıdır.
+Kamera neredeyse hiç Anne'in yüzünden ayrılmaz — sırt kamerası ve yakın çekim; ev 'canlı' bir organdır (dokunulduğunda kanar). İnsanların eve girmesi istilanın koreografisidir: ilk başta kibar, sonra yıkıcı — toplumun tüketim ritüeli.
 
 ## Kişisel uygunluk
-Teolojik alegori ve çevre/ yaratım profiline güçlü uyuyor.
+Teolojik alegori, çevre ve yaratım maliyeti profiline güçlü uyuyor.
 
 -# THE FILM ARCHIVE · mother! (2017) · Notlar
 ### Tartışmalar & Notlar

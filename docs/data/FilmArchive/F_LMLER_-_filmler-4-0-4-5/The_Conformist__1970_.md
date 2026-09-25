@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg
 > **Yönetmen:** Bernardo Bertolucci · **Tür:** Dram · **Süre:** 108 dk · **Dil:** İtalyanca · **Yıl:** 1970
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-İradesi zayıf bir İtalyan, artık siyasi muhalif olan eski öğretmenine suikast düzenlemek için yurtdışına giden faşist bir uşak olur.
+Marcello Clerici, faşist İtalya'da 'normallik' arayışıyla gizli polise katılır ve balayı gezisini eski hocası Profesör Quadri'ye suikast göreviyle birleştirir. Uzlaşma arzusu onu önce dalkavuk, sonra suç ortağı, en sonunda da hiçliğe götürür.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.19/5** · nMDB **81.4**

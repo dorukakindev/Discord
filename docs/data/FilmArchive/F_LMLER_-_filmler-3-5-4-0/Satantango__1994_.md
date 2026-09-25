@@ -4,6 +4,8 @@ https://images.metahub.space/poster/small/tt0111341/img
 > **Yıl:** 1994
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
+Çökmekte olan bir Macar tarım kooperatifinin sakinleri, kumpanyalarının dağılmasının ardından parayı bölüşme umuduyla bekler; öldüğü sanılan Irimias'ın dönüşü herkesi yeni bir 'plan'a çeker. Kasvetli çamur içinde umut, aldatıcılık ve yavaş çürüme yedi saatin koreografisinde işlenir.
+
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.36/5** · nMDB **84.6**
 

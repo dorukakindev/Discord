@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg
 > **Yönetmen:** Pedro Almodóvar · **Tür:** Dram, Gizem, Romantik · **Süre:** 112 dk · **Dil:** İspanyolca · **Yıl:** 2002
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-İki adam, ikisi de derin komada olan iki kadınla ilgilenirken tuhaf bir dostluk paylaşırlar.
+Bakıcı Benigno yıllardır komadaki bale öğrencisi Alicia'ya 'konuşur'; gazeteci Marco da komadaki boğa güreşçisi Lydia'nın başındadır. İki adamın aşkı hastane odasında kesişir — birinin sevgisi diğerininkinden hem daha saf hem daha karanlıktır.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **3.86/5** · nMDB **78.1**

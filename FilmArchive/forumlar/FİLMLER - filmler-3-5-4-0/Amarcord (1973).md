@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Amarcord (1973) · Derin Analiz
 # Ayrıntılı konu
-Rimini'de küçük bir kasaba, 1930'ların İtalya'sı: Gradisca'nın düğünü, Titta'nın ergen arzuları, çılgın amca, deniz feneri, faşist gösteri, denizdeki büyük gemi ve 'kuşlar'ın gelişi. Fellini'nin çocukluğu hatıralarla değil, efsanelerle dolar — her karikatür bir masalın parçasıdır.
+Fellini'nin çocukluk kasabası Rimini'de bir yıl: Titta'nın ergen arzuları, Gradisca'nın evlenme arzusu, çılgın amca'nın ağaçtaki günü, faşist geçit töreni, denizdeki Rex gemisinin geçişi, büyükannesinin ölümü, kar fırtınası. 'Ben hatırlıyorum' (Amarcord = 'a m'arcord') anlamına gelir ama burada hatıra zaten hayaldir — her karakter bir kartpostal, her olay bir efsanedir. Tarih faşizmin geçişiyle hatıranın içine sızar ama masalsı kalır.
 
 # Tez
-Bellek, gerçeğin güzelleştirilmiş hâlidir — Fellini'nin 'benim Rimini'm' filminde kasaba, tarihin ve kişisel fantezinin karışımıdır. 'Ben hatırlıyorum' demek 'ben hayal ediyorum' demektir.
+Bellek gerçeği değil, gerçeğin ihtiyaç duyduğu efsaneyi üretir — Fellini'nin Rimini'si asla var olmadı ama hepimizin çocukluğudur. Film, 'öznel gerçek'in 'tarihsel gerçek'ten daha doğru olduğunu savunur: hatıralar güzeldir çünkü gerektiği gibi çarpıtılmıştır.
 
 ## Mekanizma
-Büyük gemi sahnesi (Rex) tarihin görkemidir ama aynı zamanda çocukluğun büyüklüğüdür; kuşların gelişi mevsimin değişimini işaretler. Karakterler kartpostal gibi görünür ama duygusal gerçeklik taşırlar.
+Set açıkça yapaydır (deniz bir branda, kar pamuk) — sahtelik amaçlanır çünkü hatıra da sahtedir; her sahne bir 'sketch' gibi kapanır, anlatı değil atmosfer toplar. Rex'in geçişi filmin merkezi görsel mitidir — modernitenin çocukluğa baskını.
 
 ## Kişisel uygunluk
-Bellek ve efsane teması profiline güçlü uyuyor.
+Bellek, efsane ve otobiyografik büyü teması profiline güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Amarcord (1973) · Notlar
 ### Tartışmalar & Notlar

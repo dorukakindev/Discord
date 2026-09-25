@@ -4,6 +4,8 @@ https://images.metahub.space/poster/small/tt6710474/img
 > **Yıl:** 2022
 **Sana uygunluk: 3.7/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve olay örgüsü 8/10.
 
+Çamaşırhane işleten Evelyn Wang, vergi denetimi sırasında çoklu evrenlerin çökmekte olduğunu ve tek umudun kendisi olduğunu öğrenir. Paralel hayatlarının becerilerini kullanarak kızı Joy'un nihilist benliği Jobu Tupaki'yi durdurmaya çalışır.
+
 ### Puanlar
 IMDb **7.7/10** · Letterboxd **4.24/5** · nMDB **80.9**
 

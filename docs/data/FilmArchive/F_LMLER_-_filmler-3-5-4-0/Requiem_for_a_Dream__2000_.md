@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg
 > **Yönetmen:** Darren Aronofsky · **Tür:** Dram · **Süre:** 102 dk · **Dil:** İngilizce · **Yıl:** 2000
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Dört Coney Adası sakininin uyuşturucu kaynaklı ütopyaları, bağımlılıkları derinleşince paramparça olur.
+Dört kişi — Harry, Marion, Tyrone ve Harry'nin annesi Sara — bağımlılığın farklı biçimlerine kapılır: eroin, hayal, televizyon şöhreti. Her birinin 'yükselişi' bir yıkıma dönüşür; istek onları parçalayarak tüketir.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.11/5** · nMDB **82.6**

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg
 > **Yönetmen:** Park Chan-wook · **Tür:** Aksiyon, Dram, Gizem · **Süre:** 120 dk · **Dil:** Korece · **Yıl:** 2003
 **Sana uygunluk: 3.9/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve psikolojik mekanizma 8/10.
 
-With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.
+Oh Dae-su, nedenini bilmeden 15 yıl bir otel odasında hapsedilir; ansızın serbest bırakılınca intikam peşine düşer. Soruşturma onu gençlik yıllarına ve unutamayacağı bir sırra götürür — intikam sandığı şeyin aslında bir tuzak olduğunu geç anlar.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.36/5** · nMDB **85.1**

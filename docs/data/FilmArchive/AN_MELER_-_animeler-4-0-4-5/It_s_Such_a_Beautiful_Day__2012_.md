@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg
 > **Yönetmen:** Don Hertzfeldt · **Tür:** Animasyon, Komedi, Dram · **Süre:** 62 dk · **Dil:** İngilizce · **Yıl:** 2012
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Bill parçalanmış ruhunu toparlamakta zorlanır.
+Bill, gündelik hayatın detaylarıyla çorap eşleştiren, yolda yürüyen sıradan bir adamdır; zihni giderek çözülür, hatıralar parçalanır ve hastalık onun 'ben' dediği şeyi dağıtır. Çöp adam çizimleriyle anlatılan bu küçük film, varoluşun kırılganlığına dair devasa bir elegiye dönüşür.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.36/5** · nMDB **84.6**
