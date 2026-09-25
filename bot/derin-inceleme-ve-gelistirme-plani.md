@@ -264,16 +264,114 @@ Tüm dosya G/Ç'si (`load_index`, `save_index`, `GUILDS` yükleme, `build_index`
 
 ---
 
-## 7. Bu Rapor İçin Çalıştırılan Doğrulamalar
+## 7. Ek Öneriler — Yapısal Fikirler (ikinci tur)
+
+Bu bölüm tek tek bulguları değil, **bulguları üreten desenleri** hedefler. Sıralama etki/maliyet oranına göre.
+
+### Ö1 — Yıkıcı işlemlere `--dry-run` + `--apply` kapısı (en yüksek kaldıraç)
+
+`build_server.py` canlı Discord'da **geri alınamaz** işler yapıyor: `delete(/channels/{fid})` (forum),
+mesaj silme, thread taşıma. Repoda `dry-run` veya `--apply` **hiç yok** (grep: 0 eşleşme) ve
+`C3`, `C4`, `M12`, `N1` bulgularının hepsi aynı kökten geliyor: *eksik/eski duruma dayanarak silme kararı*.
+
+Öneri: her faz önce **plan** üretsin (`work/plan-<faz>-<ts>.json`: silinecek kanal/mesaj id'leri, taşınacak
+thread'ler, gerekçeleri), stdout'a özet bassın ve `--apply` verilmedikçe **hiçbir** `DELETE`/`PATCH`
+atmasın. Ek kapı: plan içinde tanınmayan thread varsa `--apply` reddedilsin (`--force-unknown` ile
+bilinçli geçilebilsin). Bu tek değişiklik C3'ü yapısal olarak kapatır ve gelecekteki her yeni fazı da korur.
+
+### Ö2 — Yıkıcı işlem öncesi otomatik snapshot
+
+Repoda `shutil.copy`/yedek çağrısı **yok**. Oysa `post_state.json` ve `data/index.json` kaybı = arşivin
+Discord↔repo eşlemesinin kaybı; `state["done"]` bozulursa `by_tid` boşalır ve **her** thread "bilinmeyen"
+olur (C3'ün en kötü senaryosu). Öneri: `save()` içinde yazma öncesi `work/backup/<ts>/post_state.json`
+(son N=20 tutulur) + `delete(/channels/...)` öncesi ilgili thread'in mesajlarının `work/trash/<tid>.json`'a
+dökümü. Maliyet ~20 satır, kazanç: yıkıcı hata artık kurtarılabilir hale gelir.
+
+### Ö3 — `dapi.py` ikizlerini birleştir — ama **iyi** olanı kazandır
+
+Ölçüm: `wh40k/dapi.py` (70 satır) ve `filmarchive/dapi.py` (80 satır) aynı adla 7 fonksiyon taşıyor
+(`req/get/post/patch/delete/guild_channels/forum_threads/channel_messages`). Fark, film sürümünün
+lehine: ağ istisnası için `try/except` + geri çekilme, `timeout` 40s (vs 30s), `retries` 8 (vs 6),
+`400` için açıklayıcı `RuntimeError`. Yani **WH40K betiği geçici ağ hatasında çöker** — H5 bu.
+
+Öneri: `bot/core/dapi.py` tek modül; token/guild dışarıdan parametre (`DapiClient(token, guild)`).
+Bu, H5'i kapatırken N7 (ortam değişkeni tutarsızlığı) ve L5'i de kapatır. `norm()` de iki yerde
+kopya (`lexicanum.py:56`, `build_server.py:28`) — aynı `core` paketine taşınmalı, yoksa C1 sınıfı
+bir Türkçe normalizasyon hatası tekrar iki yere ayrı ayrı sızar.
+
+### Ö4 — `open()` için tek sarmalayıcı (N6'yı 20 yerde değil 1 yerde çöz)
+
+Ölçüm: üç ana dosyada 20 `open()` çağrısı, `encoding=` kullanan **0**. Windows'ta `index.json`
+okuması canlı olarak `UnicodeDecodeError` veriyor. 20 çağrıyı tek tek düzeltmek aynı hatanın
+21.'sinin eklenmesini engellemez. Öneri: `core/io.py` içinde `read_json(path)` / `write_json_atomic(path, obj)`
+(utf-8 + `tmp`+`os.replace`); tüm çağrılar buna yönlendirilsin. `build_index.py`'deki atomik yazma
+deseni zaten doğru — onu tek yere alıp her yerde kullanmak yeterli.
+
+### Ö5 — Test edilebilirlik: `dapi` seviyesinde sahte Discord
+
+Projede test **yok**; ama mimari şanslı: tüm ağ erişimi ince bir `req()` katmanından geçiyor.
+Öneri: `DapiClient` protokolüne karşı `FakeDapi` (bellek içi guild/forum/thread/mesaj sözlüğü) yazılsın.
+Bununla `run_bands`/`run_relabel`/`run_posts` **çevrimdışı ve yıkıcı olmayan** biçimde uçtan uca
+koşturulabilir; C4'ün 50+ mesajlı thread senaryosu bir fixture'a dönüşür. Saf fonksiyon testleri
+(`norm`, `chunk`, `band_of`, `film_messages`) ilk adım; `FakeDapi` ikinci adım. CI'da `ruff` +
+`pytest` + `compileall` (Faz E) bunun üzerine oturur.
+
+### Ö6 — `/dogrula` — salt-okunur uzlaştırma komutu
+
+Bugün canlı durum ile `index.json` arasındaki sapmayı görmenin tek yolu, **yazan** betikleri
+çalıştırmak. Öneri: hiçbir şey yazmayan bir komut/betik; indeksde olup Discord'da olmayan,
+Discord'da olup indekste olmayan ve başlığı değişmiş kayıtları raporlasın. Bu hem N14'ün
+(sessiz forum atlaması) erken uyarısı olur, hem de Ö1'deki planın doğruluk kontrolü.
+
+### Ö7 — Depoyu altyapı sırlarından arındır
+
+README canlı Oracle VM adresini (`158.101.217.164`) ve dağıtım ayrıntılarını **herkese açık** depoda
+tutuyor. Öneri: IP/SSH/servis ayrıntıları özel bir nota (veya `.env.example` + genel talimat) taşınsın;
+README yalnız "kendi sunucunuzda nasıl kurulur" anlatsın. Token'ın geçmişte repoya girip girmediği
+`git log -p -S` ile taranmalı; girdiyse **rotasyon** gerekir (rapor bunu iddia etmiyor, kontrol öneriyor).
+
+### Ö8 — İzlenebilirlik: heartbeat + yapılandırılmış log
+
+Bot tek bir VM'de systemd altında çalışıyor; düşerse haber veren bir mekanizma yok. Öneri:
+`data/heartbeat` dosyasına periyodik `mtime` yazımı + systemd `WatchdogSec` veya basit bir cron
+kontrolü; `log` çıktısı `--json-log` ile satır-JSON'a çevrilebilsin (sonradan `jq` ile ölçüm).
+Düşük maliyet, "bot sessizce ölmüş" sınıfını kapatır.
+
+### Ö9 — Bulgu kütüğü (rapor enflasyonunu durdur)
+
+`bot/` altında artık iki rapor var ve her tur öncekinin hangi maddesinin kapandığını elle
+yeniden tespit ediyor. Öneri: tek `bot/BULGULAR.md` tablosu — `ID | seviye | dosya | durum | kapatan commit`.
+Yeni tur yalnız satır durumunu güncellesin. Aksi halde 3. turda "C3 kapandı mı?" sorusu yine
+sıfırdan araştırma gerektirir.
+
+---
+
+## 8. Bu Rapor İçin Çalıştırılan Doğrulamalar
 
 | Kontrol | Sonuç |
 |---|---|
 | `python -m compileall bot/` (Python 3.14) | ✅ tüm dosyalar derleniyor |
 | `index.json` ayrıştırma + dağılım | 5.807 kayıt, 5 guild, `c` alanı dolu |
 | Windows varsayılan kodlamasıyla `index.json` okuma | ❌ `UnicodeDecodeError` (N6 canlı kanıtı — cp1254, `・` U+30FB kodlanamıyor) |
-| `git ls-remote` + fetch | remote main 2 commit ilerideydi (#12, #13); rapor güncel HEAD `9798d336` üzerine |
+| `git ls-remote` + fetch | remote main 2 commit ilerideydi (#12, #13); ilk tur HEAD `9798d336` üzerine |
 | v11/v12 dalları diff | v11 main'in gerisinde; v12 main ile aynı (N15) |
+
+**İkinci tur (`8588a001` üzerine) ek doğrulamalar:**
+
+| Kontrol | Sonuç |
+|---|---|
+| `main` yeniden senkron (7 commit: #14–#20) | ürün kodu neredeyse sabit — `bot/` altında tek değişiklik: `build_server.py` boş-bant `continue` (2 satır) |
+| N11 (`docs/` görüntüleyici kaynağı) | ✅ **kapandı** — `docs/index.html` repoda (8.520 bayt, `HEAD:docs/index.html`); yerelde sparse-checkout `bot` olduğu için görünmüyor |
+| C3 (tanınmayan thread'li forum silme) | ❌ **açık** — `build_server.py:718` `continue`, ardından `:737` koşulsuz `delete(/channels/{fid})` |
+| C4 (relabel sayfalama) | ❌ **açık** — `sync_thread` içinde `channel_messages(tid, limit=50)`, sayfalama yok |
+| N1 (`post_state.json`) | ❌ **açık** — 4 ayrı yerde koşulsuz `json.load(open(state_p))` |
+| N6 (`encoding=`) | ❌ **açık** — 3 ana dosyada 20 `open()`, `encoding=` kullanan 0 |
+| `dapi.py` ikizleri ölçümü (Ö3) | 7 fonksiyon aynı adla 2 kez; WH40K sürümünde ağ `try/except`, 400 yönetimi yok, `timeout` 30s/`retries` 6 (film: 40s/8) |
+| Yedek / dry-run envanteri (Ö1, Ö2) | `shutil.copy`/`backup`/`yedek`: 0 eşleşme · `dry-run`/`--apply`: 0 eşleşme |
+| `norm()` kopyası (Ö3) | 2 tanım: `lexicanum.py:56`, `filmarchive/build_server.py:28` |
 
 ---
 
-*Rapor `bot/` ve repo genelinin 2026-09-25 tarihli `main` (`9798d336`) hâli üzerine hazırlandı. Kod değiştirilmedi; tüm bulgular salt-okunur analiz, repo verisi ve bu makinede çalıştırılan doğrulamalarla desteklendi.*
+*Rapor `bot/` ve repo genelinin 2026-09-25 tarihli `main` hâli üzerine hazırlandı; birinci tur `9798d336`,
+ikinci tur (§7 öneriler + §8 ek doğrulamalar) `8588a001` üzerine. Kod değiştirilmedi; tüm bulgular
+salt-okunur analiz, repo verisi ve bu makinede çalıştırılan doğrulamalarla desteklendi.*
