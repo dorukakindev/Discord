@@ -36,6 +36,12 @@ Replay the build script's own generators against the source DBs and compare with
 - Index threads are the LAST item in each forum's nav list. Chrome find-in-page auto-expands collapsed `<details>` — use Ctrl+F to jump to deep items.
 - `browser_console` tool may fail to attach to a manually relaunched Chrome even with `--remote-debugging-port` — verify render-level counts against the source .md (each `• ` line = one `<li>`) plus screenshots.
 
+## Static viewer (docs/index.html, "Lexicanum Arşivleri")
+- No public Pages URL — serve yourself: `cd docs && python3 -m http.server <port>`.
+- Viewer loads `manifest.json` (servers[].title → switcher; forums[].items[] → `details` "name (count)"; texts[] grouped by `grp`) and `index.json` (search entries {s,f,t,u}, s = display title e.g. 'THE FILM ARCHIVE'). `load(u)` fetches `docs/<u>` md and renders with a small line-mapper: bare image-URL line → `<img>`, `-# `→sub, `#/##/###`→headings, `>`→blockquote, `- `/`* `→li, `**`→bold, `[t](u)`→link.
+- Index threads are the LAST item in each forum's nav list. Chrome find-in-page auto-expands collapsed `<details>` — use Ctrl+F to jump to deep items.
+- `browser_console` tool may fail to attach to a manually relaunched Chrome even with `--remote-debugging-port` — verify render-level counts against the source .md (each `• ` line = one `<li>`) plus screenshots.
+
 ## Shell pitfalls
 - The Chrome binary is `chrome` (`chrome-linux64/chrome`), not `google-chrome`. `pkill -f "chrome"` matches your own shell command and kills it — use `pkill -9 -x chrome`.
 - Use `pgrep -f "chrome-linux64/chrome"` to inspect real Chrome processes.
