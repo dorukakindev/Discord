@@ -15,7 +15,7 @@ Hearthguard, Einhyr'in Kâhl'ları ve League'in en değerli varlıklarını koru
 
 ## Tarihçe
 
-League'lerin Great Rift sonrası çekirdeğin dışına doğru genişlemesiyle Kin orduları Imperium, Ork'lar ve Tyranid'lerle daha sık karşılaştı; Hearthguard bu çatışmalarda Kâhl'ların yanında yer aldı. Bir Grudge söz konusu olduğunda Kin'in göze aldığı ağır bedellerin taşıyıcıları çoğu zaman bu savaşçılardır.
+Einhyr Hearthguard, Leagues of Votann'ın seçkin koruma birimidir; Votann'a, League'in liderlerine veya önemli kişilere bağlı kutsal savaşçılardır ve görevleri League'in kalbini korumaktır. Hearthguard'lar ağır zırh ve en iyi Votann silahlarını taşır — disintegration gun, concussion maul ve plasma blade gibi nadir emanettir; onların varlığı bir League'in en değerli hazinesinin korunduğunu gösterir. Einhyr Hearthguard olmak, bir Kin için en yüksek askeri onurdur — sadece en sadık, en deneyimli ve League'e en çok bağlı olanlar seçilir. Savaşta Hearthguard'lar en son hattı tutar — düşman Votann'a veya League'in liderine yaklaştığında Hearthguard'lar onu durdurur ve gerekirse hepsi ölür ama korunan asla düşmez.
 
 ## Kanon Notu
 
@@ -23,4 +23,4 @@ Kin ve Einhyr 2022'de yeniden tasarlanarak tanıtıldı; eski Squat lore'u otoma
 
 -# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*; *Codex: Leagues of Votann — 9th Edition*
 
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551809846066548779>, <#1551759766966116383>, <#1551759780211589197>
+-# İlişkili kayıtlar: <#1551759789988642876>,

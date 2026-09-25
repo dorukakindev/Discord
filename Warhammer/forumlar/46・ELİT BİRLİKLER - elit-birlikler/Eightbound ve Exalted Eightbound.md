@@ -13,7 +13,7 @@ Eightbound, benliklerini içlerindeki daemonla paylaşan ve bu yüzden insan bi�
 
 ## Tarihçe
 
-Bu birlikler, Angron'un dönüşüyle World Eaters'ın yeniden bir sefer gücü olarak anlatının merkezine yerleştiği dönemin kaynaklarında öne çıktı. Warband'lerin en tehlikeli saldırı kuvvetleri arasında sayılır ve düşman hatlarına ilk çarpan savaşçılar arasında yer alırlar.
+Eightbound, World Eaters'ın en kutsal ve en yozlaşmış savaşçılarıdır; bedenlerine sekiz daemon bağlanmış ve bu yüzden artık ne insan ne de tamamen demon olan korkunç varlıklardır. Sekiz daemon, World Eaters'ın sekiz değerli savaş kusurunu temsil eder — öfke, kan, kasaplık, vs. — ve Eightbound'un bedeni bu daemonların ortak alanıdır; savaşta sekiz ses konuşur, sekiz irade çarpışır ama sonuç tek bir ölüm makinesidir. Exalted Eightbound daha da ileri gitmiştir — onların bedeninde daemonlar tamamen kaynaşmış ve tek bir kolektif varlık haline gelmiştir; Exalted, artık World Eater değil, Khorne'un materyal dünyadaki tezahürüdür. Eightbound'lar nadir ve dehşet vericidir — bir Eightbound'un ortaya çıkması, World Eaters'ın o bölgedeki en kutsal savaşını işaret eder ve onların varlığı bile Khorne'a adanmış bir tapınak gibidir.
 
 ## Kanon Notu
 
@@ -21,4 +21,4 @@ Birim ilk kez 10th Edition dönemi World Eaters yayınlarında tanıtıldı. Ba�
 
 -# Kaynaklar: *Codex: World Eaters — 10th Edition*
 
--# İlişkili kayıtlar: <#1551809718085746759>, <#1551815867845578773>, <#1551649073432494263>, <#1551810874635976776>
+-# İlişkili kayıtlar: <#1551809718

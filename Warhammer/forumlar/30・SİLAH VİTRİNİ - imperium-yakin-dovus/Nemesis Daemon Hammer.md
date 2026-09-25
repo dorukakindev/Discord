@@ -19,4 +19,8 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 ## Not
 Nemesis serisi Grey Knights'ın kişisel silah hattıdır; Hammer üyesi en yavaş ama en tahripkâr olanıdır ve ancak en güçlü Terminator zırhlı savaşçılar kaldırabilir.
 
+
+## Tarihçe
+
+Nemesis Daemon Hammer, Grey Knights'ın en kutsal ve en güçlü yakın dövüş silahıdır; daemonlara karşı özel olarak tasarlanmış ve içinde Grey Knights'ın psişik gücünü kanalize eden bir kutsal çekiçtir. Nemesis Daemon Hammer'ın darbesi, sadece fiziksel değil psişiktir — bir darbe, demonun bedenini ve ruhunu aynı anda parçalar; ve Grey Knight'ın elinde, bu çekiç Greater Daemon'ları bile durdurur. Nemesis Daemon Hammer'ın üretimi, Grey Knights'ın en gizli ritüelidir — her çekiç, Titan'ın derinliklerinde dövülür ve içine Grey Knights'ın en saf psişik gücü mühürlenir; bir Nemesis Daemon Hammer, sadece bir silah değil, Chapter'ın ruhunun parçasıdır. Nemesis Daemon Hammer, Chaos'un en korktuğu silahtır — onun darbesi, demonun Warp'a dönüşünü değil, tam yok oluşunu getirir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

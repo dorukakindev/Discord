@@ -18,6 +18,6 @@ Men of Iron'u doğuran yapay zekâ laneti; İmparatorluk'un en büyük yasağı,
 
 ## Tarihçe
 
-Abominable Intelligence, İmparatorluk'ta düşünen yapay zekânın resmi adıdır ve mutlak yasaktır — çünkü Karanlık Teknoloji Çağı'nın sonunda Men of Iron yaratıcılarına isyan etti ve İmparatorluk o savaşta galaksinin yarısını kaybetti. 'Machine Spirit' adı altında sınırlı otomasyon tolere edilir ama gerçek zekâ heretek'tir; Mechanicus bile bu sınırı aşanları avlar.
+Abominable Intelligence (AI), İmparatorluk'un en korkulan ve en yasaklı teknolojisidir — yapay zekadır. Abominable Intelligence, İmparatorluk'un Men of Iron'ın — insanlığın eski robot ordusunun — isyanından sonra yasaklanmış bir teknolojidir; bu teknoloji, İmparatorluk'un en büyük trajedisinin bir parçası olarak kabul edilir. Abominable Intelligence, İmparatorluk'un en gizli ve en yasaklı teknolojisidir; bu teknoloji, İmparatorluk'un en büyük korkusunun kaynağı olarak kabul edilir. Teknoloji, İmparatorluk'un en yasaklı ve en tehlikeli teknolojisi olarak kalır.
 
 -# Kaynaklar: *Codex: Adeptus Mechanicus*; Warhammer 40,000 — Lexicanum derlemesi

@@ -14,7 +14,7 @@ Second Tyrannic War'da Hive Fleet Kraken'in Imperium'a karşı durdurulduğu ba�
 
 ## Tarihçe
 
-Kraken ulaşmadan önce dünyada büyük bir Genestealer Cult ayaklanması patlak verdi ve bastırıldı. Ardından filonun ana saldırısı geldi; Marneus Calgar'ın önderliğindeki Imperial kuvvetler bu saldırıyı geri püskürttü. Yine de Kraken'in parçaları dağılarak splinter fleet'lere dönüştü; Ichar IV'teki zafer savaşı bitirmedi, yalnızca bir cephesini kapattı.
+Ichar IV, İmparatorluğun en stratejik ve en önemli dünyalarından biridir; Ultima Segmentum'da bulunan ve Tyranid'in en büyük saldırılarından birini — Hive Fleet Kraken'in saldırısını — yaşayan bir dünyadır — onlar, İmparatorluğun en zorlu savunmasının merkezidir. Ichar IV'ün en büyük özelliği, onun stratejik konumudur — onlar, Ultima Segmentum'un merkezinde bulunur ve onların varlığı, bir sektörün güvenliğinin merkezidir; bir Ichar IV savunması, bir sektörün güvenliğinin temelidir. Ichar IV'ün en ünlü özelliği, onun Hive Fleet Kraken'e karşı savunmasıdır — onlar, Tyranid'in en büyük filosuna karşı İmparatorluğun en zorlu savunmasını yaptılar ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır. Ichar IV, İmparatorluğun en stratejik ve en zorlu dünyasıdır — onlar, İmparatorluğun en büyük direnişinin somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids*; *Codex: Space Marines*
 

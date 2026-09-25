@@ -16,8 +16,6 @@ Cadian askerlerinin en yeteneklilerinden seçilen, daha iyi zırh ve silahlarla 
 
 ## Tarihçe
 
-Kasrkin, Cadia'nın kale-şehirlerinin savunmasında ve Eye of Terror'dan taşan Chaos istilalarına karşı düşman hatlarına yapılan baskınlarda öne çıktı. 999.M41'de Cadia'nın düşüşünden sonra da Cadian alayları ve onların Kasrkin'leri Imperium'un dört bir yanında savaşmayı sürdürdü; dünyalarını yitirmiş olmaları kimliklerini sarsmadı, keskinleştirdi.
+Kasrkin, Cadian Shock Troops'un seçkin birimidir; Cadia'nın en sert eğitimini almış, carapace armour giyen ve hot-shot lasgun taşıyan profesyonel savaşçılardır — Cadia'nın düşmesinden sonra bile hayatta kalan ve hâlâ savaşan son Cadia askerleridir. Kasrkin olmak, Cadia'nın en yüksek askeri onuruydu — eğitim Schola Progenium seviyesinde sertti ve sadece en iyi askerler seçilirdi; Kasrkin'ler, Cadia'nın Eye of Terror'a karşı binlerce yıl süren savunmasının en keskin kılıcıydı. Cadia yıkıldığında Kasrkin'lerin çoğu son savaşta öldü ama hayatta kalanlar dağıldı — bazıları Imperial Guard birimlerine katıldı, bazıları Rogue Trader'lara hizmet etti, bazıları sadece kayboldu. Kasrkin'in varlığı, Cadia'nın hâlâ yaşadığının kanıtıdır — onlar için Cadia düşmedi, sadece kayboldu ve onlar hâlâ onun için savaşıyorlar.
 
--# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *Cadia Stands — Justin D. Hill*; *Cadian Honour — Justin D. Hill*
-
--# İlişkili kayıtlar: <#1551812139935866891>, <#1551753458779029565>, <#1551813775848509482>, <#1551811393680838699>
+-# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *Cadia

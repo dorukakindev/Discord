@@ -16,8 +16,8 @@ Puretide'ın deneyiminden süzülen bilgiyi taşıyan ve seçkin komutanlara ver
 
 ## Tarihçe
 
-Fire Caste'ın savaş felsefesi Puretide'ın öğretilerine, özellikle Kauyon ve Mont'ka yollarına dayanır. Kaynaklara göre Farsight ve Shadowsun gibi komutanlar onun öğrencileri arasındaydı. Arks of Omen'da Farsight, öfke ve kan vizyonlarıyla boğuşurken Puretide'ın hatırasına tutunarak kendini toparlar; bu, ustanın mirasının T'au komuta kültüründeki ağırlığını gösterir.
+Puretide Engram Neurochip, T'au'nun en ünlü ve en önemli relic'idir; Komutan Puretide'in — T'au'nun en büyük generali — bilincinin ve savaş taktiklerinin saklandığı bir nöroçip'dir — onlar, T'au'nun en ünlü ve en önemli hazinesidir. Puretide Engram Neurochip'in en büyük özelliği, onun bilgisidir — onlar, bir generalin tüm bilgisini ve taktiklerini saklar ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır; bir Puretide Engram Neurochip kullanıcısı, hem bir savaşçı hem de bir generalin bilgisinin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de taktiksel bir mücadeledir. Puretide Engram Neurochip'in en ünlü özelliği, onun Puretide'in bilincidir — onlar, bir generalin kendi bilincinin simgesidir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır. Puretide Engram Neurochip, T'au'nun en ünlü ve en önemli relic'idir — onlar, bir generalin bilgisinin ve T'au'nun gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Tau Empire*; *Arks of Omen: Farsight*
 
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>
+-# İlişkili kayıtlar: <#155

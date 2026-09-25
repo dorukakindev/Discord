@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a1/Tyrannofex_battle.png
 
 ## Tarihçe
 
-Dimachaeron, bilinen en büyük tyranid kara savaş canavarlarından biridir — Carnifex'in bile üstünde, zırhlı, devasa kıskaçlı ve dövüş için optimize edilmiş bir kas kütlesidir. Ön saflarda Imperial tanklarını ve Terminator'ları parçalamak üzere evrilmiştir; nadir ama yıkıcı bir saha varlığıdır.
+Dimachaeron, Tyranid'in en ünlü ve en ölümlü yakın dövüş yaratığıdır; bir Tyranid ordusunun en ölümlü yakın dövüş birliği olan ve onun en zorlu savaşlarını yapan Dimachaeron, Tyranid'in en ölümlü ve en tehlikeli varlığıdır — onlar, Tyranid'in en ünlü ve en ölümlü yakın dövüş yaratığıdır. Dimachaeron'un en büyük özelliği, onun ölümlülüğüdür — onlar, bir Tyranid ordusunun en ölümlü yakın dövüş birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Dimachaeron, hem bir yaratık hem de bir katildir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Dimachaeron'un en ünlü özelliği, onun yakın dövüşüdür — onlar, Tyranid'in en ölümlü ve en tehlikeli yakın dövüş yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Dimachaeron, Tyranid'in en ünlü ve en ölümlü yakın dövüş yaratığıdır — onlar, bir ölümlülüğün ve Tyranid'in en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

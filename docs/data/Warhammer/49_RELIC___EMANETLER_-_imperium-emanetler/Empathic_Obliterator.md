@@ -16,8 +16,6 @@ Solemnace'in efendisi, galaksinin tarihinden "örnekler" toplayıp galerilerinde
 
 ## Tarihçe
 
-Trazyn, binyıllar boyunca Imperial dünyalarından xenos harabelerine kadar galaksinin dört bir yanında "koleksiyon" seferleri yürüttü; Empathic Obliterator bu seferlerde en çok anılan silahıdır. Bedeni yok edildiğinde bilincini yakındaki başka bir Necron bedenine aktarabilmesi onu neredeyse yakalanamaz kılar. Robert Rath'ın *The Infinite and the Divine*'ı, Trazyn'in Orikan the Diviner ile binyıllara yayılan rekabetini işler.
+Empathic Obliterator, İmparatorluğun en ünlü ve en korkulan relic'idir; bir Space Marine'in — İmparatorluğun en güçlü savaşçılarından biri — kullandığı ve onun en büyük savaşlarının simgesi olan bir çekiçtir — onlar, İmparatorluğun en ünlü ve en korkulan hazinesidir. Empathic Obliterator'ın en büyük özelliği, onun gücüdür — onlar, bir Space Marine'in en güçlü çekicidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Empathic Obliterator kullanıcısı, hem bir savaşçı hem de bir empati taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Empathic Obliterator'ın en ünlü özelliği, onun 'Empatik Yok Edici' anlamıdır — onlar, bir savaşçının en korkulan silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Empathic Obliterator, İmparatorluğun en ünlü ve en korkulan relic'idir — onlar, bir savaşçının gücünün ve İmparatorluğun en büyük gücünün somut halidir.
 
--# Kaynaklar: *Codex: Necrons — 5th Edition*; *The Infinite and the Divine — Robert Rath*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551809846066548779>
+-# Kaynaklar: *Codex: Necrons — 5th Edition*; *The Infinite and the Divine

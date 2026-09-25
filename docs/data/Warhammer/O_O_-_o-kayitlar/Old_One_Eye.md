@@ -12,7 +12,7 @@ Bir Tyranid organizmasının Hive Mind'ın doğrudan synapse denetimi olmadan uz
 
 ## Tarihçe
 
-Old One Eye ('Tek Gözlü'), ölümcül yaralardan kendini iyileştirebilen eşsiz bir Tyranid Carnifex'idir; bedeni öldürmesi gereken birçok darbenin izini taşır ve İmparatorluk güçleri arasında onun 'öldürülüp öldürülüp geri döndüğü' söylenir. 'Ölümsüz Carnifex' olarak söylenti efsanesi olan bu figür, Hive Fleet'in 'geri dönen korku'sudur.
+Old One Eye, Hive Fleet Behemoth'un en efsanevi ve en ölümcül Carnifex'idir — tek gözlü devasa bir Tyranid biyomorfudur. Bu varlık, Macragge Savaşı sırasında Ultramarines'e karşı savaştı ve birçok Space Marine'in hayatına mal oldu; Old One Eye, Tyranid'lerin en efsanevi ve en ölümcül varlığıdır. Bu varlık, Hive Fleet Behemoth'un en ölümcül
 
 ## Calth'teki Av ve Biyolojisi
 Kaynaklara göre organizma Calth'te uzun bir süre hareketsiz kalmış, ardından yeniden uyanarak gezegenin kırsal bölgelerini kasıp kavurmuştur. Ultramarines onu defalarca yere sermiş, her seferinde ölü sanmış ve her seferinde yanılmıştır. Calth, Horus Heresy sırasında Word Bearers'ın saldırısıyla yıldızı hasar görmüş ve halkının büyük kısmı yeraltındaki mağara kentlerine çekilmiş bir dünyadır; Old One Eye'ın yüzeyde uzun süre gözden kaçabilmesi bu tenha, yaralı dünyanın doğasıyla da uyumludur, ancak kaynaklar bu bağı açıkça kurmaz.

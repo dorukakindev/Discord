@@ -9,6 +9,4 @@ Seferin sonu hem zafer hem trajediydi: Ullanor'un fethiyle (Ork'ların en büyü
 
 ## Tarihçe
 
-İmparator'un insanlığı birleştirme seferi; Primarch'lar ve lejyonlarının iki yüzyıllık galaksi fethi. Ullanor'da zirveye ulaştı, Isstvan'da kırıldı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Büyük Haçlı Sefer (Great Crusade), İmparatorluğun en büyük ve en önemli askeri hareketidir; İmparator'un insanlığı birleştirmek ve onu Chaos'tan korumak için başlattığı ve yirmi primarch Legion'unu sahaya sürdüğü devasa bir seferdir — onlar, İmparatorluğun en büyük zaferinin ve en büyük hatasının başlangıcıdır. Büyük Haçlı Seferi'nin en büyük özelliği, onun boyutudur — onlar, bir galaksiyi fethetmek için yapılan en büyük savaştır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Büyük Haçlı Seferi, bir insanlığın birleşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin kanıtıdır. Büyük Haçlı Seferi'nin en ünlü özelliği, onun sonucudur — onlar, Horus Heresy'yi başlattılar ve onların v

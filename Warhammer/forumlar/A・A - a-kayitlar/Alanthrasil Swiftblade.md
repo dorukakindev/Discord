@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/de/Alanthrasil_Swiftblad
 
 ## Tarihçe
 
-Aliachemoranthrashe'ill — kısaca Alanthrasil Swiftblade — Inquisitor Lichtenstein'ın hizmetindeki Aeldari Corsair Prensi'dir; bir 'xenos paralı asker' olarak İmparatorluk'un içinde çalışan nadir figürlerden. Savaşta ölümle alay ettiği ama yakınındakilerin de hayatını şiddetli ya da acılı biçimde sonlandırdığı söylenir — 'tehlikeli ortak' olarak Inquisition'un en riskli müttefiklerinden.
+Alanthrasil Swiftblade, Aeldari'nin en gizli ve en tehlikeli Corsair Prince'idir; Inquisitor Lichtenstein'a hizmet veren bir Eldar Outcast olan Swiftblade, İmparatorluğun en gizli ve en şaşırtıcı müttefikidir — onlar, Aeldari'nin en gizli ve en tehlikeli üyesidir. Alanthrasil Swiftblade'in en büyük özelliği, onun hizmetidir — onlar, bir Inquisitor'a hizmet veren bir Aeldari'dir ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Swiftblade, hem bir savaşçı hem de bir müttefiktir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Alanthrasil Swiftblade'in en ünlü özelliği, onun Inquisitor'a hizmetidir — onlar, bir xeno'nun İmparatorluğun en gizli organizasyonunda çalışmasının en şaşırtıcı kanıtıdır ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Alanthrasil Swiftblade, Aeldari'nin en gizli ve en tehlikeli Corsair Prince'idir — onlar, bir xeno'nun ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/21/PlagueDroneofNurgle1.
 
 ## Tarihçe
 
-Nurgle'un Veba Uçakları (Plague Drones), Plaguebearer'ları taşıyan devasa daemonik sinek-bineklerdir — çürümenin 'uçan ordusu'. Rot Flies denen devasa zehirli sineklere binen daemonlar olarak gökyüzünden ölüm saçan bu birimler, Nurgle'un hava gücüdür; 'vebanın kanatları' olarak kuşatılmış dünyaların üzerinde dolanır.
+Plague Drones of Nurgle, Nurgle'un en ünlü ve en tiksindirici daemon birliğidir; Nurgle'un 'sevgi'sini yayan ve onun en tehlikeli operasyonlarını yapan en tiksindirici daemon'lar olan Plague Drones, Chaos'un en tiksindirici ve en tehlikeli varlıklarıdır — onlar, Nurgle'un en ünlü ve en tiksindirici daemon birliğidir. Plague Drones'un en büyük özelliği, onların vebasıdır — onlar, Nurgle'un 'sevgi'sini yayan ve onu her yere taşıyan en tiksindirici daemon'lardır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Plague Drones birliği, hem bir daemon topluluğu hem de bir veba taşıyıcısıdır ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Plague Drones'un en ünlü özelliği, onların uçmasıdır — onlar, Nurgle'un en tiksindirici ve en uçan daemon'larıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır. Plague Drones of Nurgle, Nurgle'un en ünlü ve en tiksindirici daemon birliğidir — onlar, bir vebanın ve Nurgle'un 'sevgi'sinin somut halidir.
 
 -# Kaynaklar: *Chaos Daemons Codex*

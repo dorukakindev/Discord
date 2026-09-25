@@ -16,8 +16,4 @@ Szeras, C'tan'ın sağladığı bilgiyi uygulanabilir bir sürece dönüştürer
 
 ## Tarihçe
 
-Illuminor Szeras, Necron'un efsanevi Cryptek'idir — biotransference'ın mimarlarından biri olarak ırkını 'makineye çeviren' bilim adamı. Organik bedenleri hâlâ 'geliştirmeye' çalışan bu figür, 'çalışan cerrah' olarak sayısız dünyada deneyler yapar — Necron'un kendi karanlık doktoru.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 9th Edition*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551812203584295003>, <#1551649070286897172>
+Illuminor Szeras, Necron'ların en ünlü ve en tehlikeli Cryptek'idir; Necron'ların en büyük bilim insanı olan ve onların en gizli teknolojisini yaratan Szeras, Necron'ların en tehlikeli ve en gizli varlığıdır — onlar, Necron'ların en ünlü ve en tehlikeli bilim insanıdır. Illuminor Szeras'ın en büyük özelliği, onun bilimidir — onlar, Necron'ların en gizli teknolojisini yaratan ve onların en tehlikeli silahlarını üreten en büyük Cryptek'tir ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Szeras, hem bir bilim insanı hem de bir canavardır ve onların varlığı, Necron'ların en büyük tehdidinin somut halidir. Illuminor Szeras'ın en ünlü özelliği, onun Pariah'ları yaratmasıdır — onlar, psişik güçleri yok eden en tehlikeli Necron silahını yaratan bilim insanıdır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. Illuminor Szeras, Necron'ların en ünlü ve en tehl

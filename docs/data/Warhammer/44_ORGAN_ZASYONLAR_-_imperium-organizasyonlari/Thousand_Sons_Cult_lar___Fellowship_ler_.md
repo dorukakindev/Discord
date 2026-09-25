@@ -15,10 +15,4 @@ Thousand Sons savaşçıları, psişik yeteneklerinin doğasına göre Cult ya d
 
 ## Tarihçe
 
-Cult'lar, Magnus'un Warp'ı bir bilim gibi inceleme projesinin kurumsal omurgasıydı. Council of Nikaea psişik güç kullanımını yasakladığında bu yapı doğrudan hedef hâline geldi, ancak araştırmalar gizlice sürdü. Prospero'nun yakılışının ve Rubric of Ahriman'ın ardından Legion'ın büyük bölümü toza dönüşünce eski düzen yıkıldı.
-
-## Kanon Notu
-
-Cult yapısının 40K'da nasıl sürdüğü kaynaklarda aynı açıklıkla işlenmez; Heresy dönemi Cult liderlerinin sonraki kaderleri de her yayında aynı netlikte verilmez. Ayrıntı için <#1551809231580307517>.
-
--# Kaynaklar: *A Thousand Sons — Graham McNeill*; *Ahriman: Exile — John French*; *Codex: Thousand Sons — 10th Edition*
+Thousand Sons'ın Cult'ları (Fellowship'ler), Legion'un içindeki uzmanlaşmış psişik disiplinlerdir; her cult, Tzeentch'in farklı bir yönüne adanmıştır ve Legion'un savaş doktrinini ve büyü yapısını belirler. Ana cult'lar: Cult of Prophecy (geleceği gören), Cult of Time (zaman manipülasyonu), Cult of Mutation (beden dönüşümü), Cult of Scheming (entrika ve plan) ve Cult of Duplicity (aldatma ve yanılsama); her cult'un kendi büyüleri, kendi ritüelleri ve kendi daemonik bağlantıları vardır. Cult sistemi, Thousand Sons'un hem gücü hem de zaafıdır — cult'lar arası rekabet Legion'u böler ama aynı zamanda her cult, kendi alanında üstün güç sağlar; bir Cult of Prophecy üyesi, düşmanın planını önceden bilirken, bir Cult of Mutation üyesi kendi bedenini silaha çevirir. Cult'la

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f5/KunradVoigtvir.jpg/re
 
 ## Tarihçe
 
-Kunrad Voigtvir (tam adı Kunrad Voigtvir von Valancius), Koronus Expanse'ın üç büyük hanedanından House von Valancius'un 'Fısıltıların Efendisi'ydi ve Lord Captain Theodora'nın varisi sayılıyordu — ta ki gözden düşene dek. Entrikacı bu figür, 'görünmeyen hanedan varisi' olarak Rogue Trader evreninin politik gölgesindeki tehlikeli oyuncudur.
+Kunrad Voigtvir, Chaos'un en gizli ve en tehlikeli üyesidir; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en gizli sırlarını saklayan Voigtvir, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir. Kunrad Voigtvir'in en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli üyesidir ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Voigtvir, hem bir savaşçı hem de bir sırdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Kunrad Voigtvir'in en ünlü özelliği, onun gizliliğidir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Kunrad Voigtvir, Chaos'un en gizli ve en tehlikeli üyesidir — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

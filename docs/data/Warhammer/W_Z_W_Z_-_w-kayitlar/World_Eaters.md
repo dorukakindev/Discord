@@ -24,6 +24,10 @@ Horus ayaklandığında World Eaters, Isstvan III'te sadık kalan unsurları tem
 
 Siege of Terra sırasında Angron ve Legion'u, kuşatmanın en kanlı çatışmalarında yer aldı. Horus'un yenilgisinin ardından World Eaters, diğer Traitor Legion'larla birlikte Eye of Terror'a doğru geri çekildi.
 
+## Tarihçe
+
+World Eaters (XII Legion, eski adıyla War Hounds), Angron'un oğullarıdır; kan, vahşet ve yakın dövüş üzerine kurulu ve Horus Heresy'de Khorne'a düşen ilk Legion'dur — onların savaşı, sadece kan ve öfkedir. World Eaters'ın düşüşü, Angron'un trajedisidir — onların primarch'ı, Butcher's Nails implantlarıyla delirtilmiş bir köleydi ve onun öfkesi, Legion'unu da delirtti; World Eaters, Heresy'nin en vahşi savaşçıları oldular ve onların savaşı, sadece öldürmek ve kan akıtmaktır. World Eaters'ın savaşı, basit ve acımasızdır — onlar savaşta bağırmaz, sadece keser ve biçer; bir World Eater, düşmanını parçalar ve onun amacı, sadece Khorne'a kan ve kafatası sunmaktır. World Eaters, İmparatorluğun en vahşi ve en korkulan düşmanıdır — onlar, Khorne'un en sadık çocuklarıdır.
+
 ## Skalathrax ve Legion'un Dağılışı
 Legion olarak World Eaters'ın sonu, Heresy sonrası Legion Wars döneminde Skalathrax'ta geldi. Emperor's Children'a karşı sürdürülen çatışma sırasında gezegenin gecesi bütün yüzeyi donduracak kadar soğuyunca savaşçıların çoğu barınaklara çekildi. Angron'un yakın yoldaşı Khârn, bu çekilmeyi Khorne'a ve savaşa ihanet sayarak barınakları ateşe verdi ve kendi kardeşlerine saldırdı. Ardından gelen kardeş kıyımı, zaten parçalanmakta olan Legion'u tamamen dağıttı.
 

@@ -9,7 +9,7 @@ Dark Reaper aspect savaşçılarının çok atışlı füze rampası; her füze 
 
 ## Tarihçe
 
-Dark Reaper Exarch'ların uzun-menzilli füze silahı; zırh delen füzelerle tek salvoda yangın fırtınası yaratır. Psişik aktivasyonlu wraithbone yapım — 'uzaktan ölüm' sanatının Aeldari ustası.
+Reaper Launcher, Aeldari'nin en ünlü ve en ölümlü roket silahıdır; onların Aeldari'nin en güçlü ve en ölümlü roket silahı olan ve onun en zorlu savaşlarını yapan Reaper Launcher, Aeldari'nin en güçlü ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en ölümlü roket silahıdır. Reaper Launcher'ın en büyük özelliği, onun gücüdür — onlar, Aeldari'nin en güçlü roket silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Reaper Launcher, hem bir silah hem de bir yıkımdır ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Reaper Launcher'ın en ünlü özelliği, onun Dark Reapers'ın kullanımıdır — onlar, Aeldari'nin en ölümlü birliğinin en ölümlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Reaper Launcher, Aeldari'nin en ünlü ve en ölümlü roket silahıdır — onlar, bir gücün ve Aeldari'nin en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

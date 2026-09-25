@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Bonesinger_Miniature.
 
 ## Tarihçe
 
-Bonesinger, Craftworld Aeldari'nin psişik mühendisi ve zanaatkarıdır — Asuryani'nin tüm silahlarını, araçlarını ve hatta craftworld'lerin kendisini inşa eden ve bakımını yapan figürler. 'Kemik şarkısı' söyleyerek wraithbone'u şekillendiren bu psyker'lar, 'şarkıyla inşa eden' olarak Aeldari teknolojisinin kalbidir.
+Bonesinger, Aeldari'nin en gizli ve en önemli zanaatkârıdır; onların bir craftworld'ün en gizli yapı ustası olan ve onun wraithbone'unu şekillendiren Bonesinger, Aeldari'nin en gizli ve en önemli üyesidir — onlar, Aeldari'nin en gizli ve en önemli zanaatkârıdır. Bonesinger'ın en büyük özelliği, onların zanaatkârlığıdır — onlar, wraithbone'u şekillendiren ve onu yapılara dönüştüren en gizli ustadır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Bonesinger, hem bir zanaatkâr hem de bir sanatçıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin somut halidir. Bonesinger'ın en ünlü özelliği, onların wraithbone'u şekillendirmesidir — onlar, Aeldari'nin en gizli malzemesini şekillendiren en gizli ustadır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Bonesinger, Aeldari'nin en gizli ve en önemli zanaatkârıdır — onlar, bir zanaatkârlığ��n ve Aeldari'nin en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

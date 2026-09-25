@@ -9,6 +9,4 @@ Kararmış Galaksi'nin psikolojik etkisi, İmparatorluk'un 'yenilmezlik' efsanes
 
 ## Tarihçe
 
-Great Rift'in açılmasıyla İmparatorluk'un kuzey yarısının Astronomicon'u kaybetmesi; 'Dark Imperium' dönemi. Nihilus yarısı kendi başına kaldı — çaresizlik ve kahramanlığın en yoğun çağı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Kararmış Galaksi (Dark Imperium / Imperium Nihilus), İmparatorluğun en karanlık ve en trajik dönemidir; Büyük Yarık'ın açılmasıyla galaksinin yarısının karanlıkta kalması ve İmparatorluğun yarısının Chaos'a maruz kalmasıyla başlayan bir dönemdir — onlar, İmparatorluğun en büyük felaketinin ve en büyük trajedisinin somut halidir. Kararmış Galaksi'nin en büyük özelliği, onun karanlığıdır — onlar, galaksinin yarısının Astronomicon'un ışığından mahrum kalmasıdır ve onların varlığı, İmparatorluğun en büyük felaketinin kanıtıdır; bir Kararmış Galaksi, bir galaksinin yarısının karanlıkta kalmasıdır ve onların varlığı, İmparatorluğun en büyük yenilgisinin somut halidir. Kararmış Galaksi'nin en ünlü özelliği, onun Imperium Nihilus'udur — onlar, İmparatorluğun karanlık yarısıdır ve onların va

@@ -16,8 +16,8 @@ Yıldızları ve zamanı okuduğunu iddia eden Orikan'ın, zamanla oynayan ustal
 
 ## Tarihçe
 
-Orikan, Imotekh the Stormlord'un sarayında kehanetleriyle nüfuz kazanmış bir cryptek'tir; ama kehanetlerinin ne kadarının gerçek öngörü, ne kadarının kendi planlarını gerçekleştirmek için kurulan bir düzen olduğu hep sorudur. *The Infinite and the Divine*, onun Trazyn the Infinite ile binyıllara yayılan rekabetini işler.
+Staff of Tomorrow, İmparatorluğun en ünlü ve en gizli relic'idir; bir psyker'ın — İmparatorluğun en güçlü psişik kullanıcılarından biri — kullandığı ve onun en büyük kehanetlerinin simgesi olan bir asadır — onlar, İmparatorluğun en ünlü ve en gizli hazinesidir. Staff of Tomorrow'un en büyük özelliği, onun kehanetidir — onlar, bir psyker'ın geleceği görmesine yardımcı olur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Staff of Tomorrow kullanıcısı, hem bir savaşçı hem de bir kehanet taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Staff of Tomorrow'un en ünlü özelliği, onun kehanet gücüdür — onlar, bir psyker'ın en büyük kehanet aracıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır. Staff of Tomorrow, İmparatorluğun en ünlü ve en gizli relic'idir — onlar, bir psyker'ın kehanetinin ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Necrons — 5th Edition*; *The Infinite and the Divine — Robert Rath*
 
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551809907060113460>
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1

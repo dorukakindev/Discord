@@ -12,6 +12,6 @@ Kan Susuzluğu, taşıyıcısını kana, ölüme ve yakın dövüşe karşı doy
 
 ## Tarihçe
 
-Blood Angels'ın genetik laneti; kan ihtiyacı ve öfke nöbeti. Chapter'ın karanlık mirası — her Blood Angel'in savaştığı iç düşman.
+Red Thirst, Blood Angels ve onların halef Chapter'larının genetik lanetidir; Sanguinius'un kanından geçen doğuştan bir susuzluktur ve savaşçıyı kan içmeye, öldürmeye ve vahşete sürükleyen kontrol edilemez bir dürtüdür. Red Thirst, Black Rage'den farklıdır — Black Rage psikolojik hayalettir, Red Thirst ise fizyolojik bir ihtiyaçtır; bir Blood Angel kan içmezse zayıflar, delirir ve sonunda kendi kardeşlerine bile saldırır. Chapter bu laneti kontrol etmek için ritüeller, disiplin ve kan bankaları geliştirmiştir — Blood Angels'ın savaşçıları savaş sonrası kurbanların kanını içer ve bu onları hem güçlendirir hem de sakinleştirir. Red Thirst, Blood Angels'ın en büyük sırrı ve en büyük utancıdır — onlar İmparatorluğun en asil savaşçılarıdır ama içlerinde taşıdıkları şey, onları vampir-kutsal savaşçı arasında bir çizgide tutar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

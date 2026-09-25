@@ -16,8 +16,4 @@ Tek bir katı mühimmat bloğundan kesilen, keskin kenarlı ince diskleri yükse
 
 ## Tarihçe
 
-Craftworld Guardian'larının temel silahıdır; bir Craftworld topyekûn savaşa çağrıldığında sivil hayattan gelen savaşçılar shuriken catapult kuşanır. Dire Avenger Aspect Warrior'ları daha gelişmiş bir biçimi olan avenger shuriken catapult ile savaşır. Shuriken pistol ve araçlara monte shuriken cannon aynı ailenin üyeleridir.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Warrior — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1552483150322737262>, <#1551810727445004339>
+Shuriken Catapult, Aeldari'nin en ünlü ve en yaygın silahıdır; onların Aeldari'nin en yaygın ve en ölümlü shuriken silahı olan ve onun en zorlu savaşlarını yapan Shuriken Catapult, Aeldari'nin en yaygın ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en yaygın silahıdır. Shuriken Catapult'un en büyük özelliği, onun yaygınlığıdır — onlar, Aeldari'nin en yaygın shuriken silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Shuriken Catapult, hem bir silah hem de bir destek silahıdır ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Shuriken Catapult'un en ünlü özelliği, onun Guardian'ların kullanımıdır — onlar, Aeldari'nin en yaygın birliğinin en yaygın sil

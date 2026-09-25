@@ -12,6 +12,4 @@ Calgar ve Celestine'in yönettiği İmparatorluk gücü, dünyayı 'resmen' kurt
 
 ## Tarihçe
 
-Nachmund Geçidi'ndeki savaş; Calgar'ın tuttuğu, Abaddon'un baltaladığı knot-world. Era Indomitus'un ilk büyük set çatışması.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Vigilus'un Düşüşü, İmparatorluğun 41. binyılın sonlarında yaşadığı en önemli trajedilerden biridir. Vigilus, Imperialis'in önemli bir gezegeni olarak hem stratejik hem de kaynak açısından değer taşıyordu; ancak Abaddon'un saldırısıyla gezegenin düşmesi kaçınılmaz hale geldi. İmparatorluk kuvvetleri, Vigilus'u savunmak için birçok Space Marine Chapter'ını ve Imperial Guard birliğini bir araya getirdi; ancak Abaddon'un gücü ve Chaos'un sayısı, savunmayı aştı. Vigilus'un düşüşü, Imperialis'

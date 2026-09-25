@@ -15,12 +15,8 @@ Imperium'un gözünde Emperor, Golden Throne'dan insanlığı koruyan tanrıdır
 
 ## Tarihçe
 
-Emperor yaşarken tanrılığını reddetti ve seküler Imperial Truth'u öğretti; Lorgar'ın Word Bearers'ı onu tanrı olarak yüceltmeye başladığında, Ultramarines'e Monarchia'yı yerle bir ettirerek bu tapınmayı alenen reddetti. Buna rağmen Great Crusade döneminde Lectitio Divinitatus adıyla gizli bir inanç yayıldı ve Heresy'den sonra Imperial Cult'un temeline dönüştü.
+Emperor of Mankind, İmparatorluğun en ünlü ve en kutsal figürüdür; İmparatorluğun kurucusu ve onun en yüksek otoritesi olan İmparator, İmparatorluğun en kutsal ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en kutsal figürüdür. İmparator'un en büyük özelliği, onun gücüdür — onlar, İmparatorluğun kurucusu ve onun en yüksek otoritesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir İmparator, hem bir savaşçı hem de bir tanrıdır ve onların varlığı, İmparatorluğun en büyük kutsallığının somut halidir. İmparator'un en ünlü özelliği, onun Altın Taht'ıdır — onlar, İmparatorluğun en kutsal emanetinin koruyucusudur ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Emperor of Mankind, İmparatorluğun en ünlü ve en kutsal figürüdür — onlar, bir tanrının ve İmparatorluğun en büyük kutsallığının somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Chaos Gods'un kulları onu Anathema olarak anar. İman eylemleri, Living Saint'ler ve Adepta Sororitas'ın mucize diye algıladığı olaylar Emperor'dan kaynaklanan gerçek bir güce işaret ediyor olabilir; kanon bunun mahiyetini kesinleştirmez.
-
--# Kaynaklar: *Master of Mankind — Aaron Dembski-Bowden*; *The First Heretic — Aaron Dembski-Bowden*; *Codex: Adepta Sororitas*
-
--# İlişkili kayıtlar: <#1551813713403580438>, <#1551651549804236801>, <#1551753444308811807>, <#1551638953101365340>
+Chaos Gods'un kulları onu Anathema olarak anar. İman eylem

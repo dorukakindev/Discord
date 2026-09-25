@@ -16,8 +16,4 @@ Kült üyeleri yıldızlardan inecek Star Children'ın kendilerini zulümden kur
 
 ## Tarihçe
 
-Kültler kuşaklar boyunca gizlice büyüyüp Day of Ascension'a, açık ayaklanma gününe hazırlanır. Kaynaklarda Cult of the Four-Armed Emperor, Pauper Princes, Hivecult, Bladed Cog, Rusted Claw ve Twisted Helix gibi kült kimlikleri anılır. Great Rift sonrasında Vigilus'taki büyük ayaklanma, bu inancın Imperial toplumdaki derinliğini gösterdi.
-
--# Kaynaklar: *Codex: Genestealer Cults — 10th Edition*; *Day of Ascension — Adrian Tchaikovsky*
-
--# İlişkili kayıtlar: <#1551759784821137419>, <#1551759780211589197>, <#1551814990338723904>, <#1551809601207533690>
+Genestealer Cult inancı, Tyranid'in en sinsi ve en tehlikeli inancıdır; onların İmparator'un dört kollu bir tanrı olduğunu savunan ve aslında Tyranid'in gizli ajanları olan bir inançtır — onlar, İmparatorluğun en sinsi ve en tehlikeli iç düşmanıdır. Genestealer Cult inancının en büyük özelliği, onun sinsiliğidir — onlar, bir Imperial Cult gibi görünür ama aslında Tyranid'in gizli ajanlarıdır; bir Genestealer Cult üyesi, hem bir inanan hem de bir haindir ve onların varlığı, İmparatorluğun en sinsi düşmanının kanıtıdır. Genestealer Cult inancının en ünlü özelliği, onların Patriarch'ıdır — onlar, bir Genestealer'ın psişik gücüyle birleşir ve onların varlığı, Tyranid'in en sinsi silahının kanıtıdır. Genestealer Cult inancı, İmparatorluğun en sins

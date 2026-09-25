@@ -15,6 +15,6 @@ Cain'in gravball sahasında tau büyükelçisi kurtarma palavrası ve 'kahraman'
 
 ## Tarihçe
 
-Ciaphas Cain serisinin ilk romanı; 'Halk Kahramanı' lakaplı commissar'ın Valhallan 597. ile Perlia'daki ilk gerçek tehlikesi ve Jurgen'le tanışması. 'Cesaret görünen korkaklık' destanının başlangıcı.
+For the Emperor, Sandy Mitchell'in yazdığı ve Ciaphas Cain'in hikâyesini anlatan bir roman serisinin ilk kitabıdır. Bu roman, Ciaphas Cain'in en önemli hikâyesini anlatır; roman, Ciaphas Cain'in hikâyesinin başlangıcıdır. Bu roman, Ciaphas Cain'in hikâyesinin başlangıcıdır; roman, Ciaphas Cain'in en önemli hikâyesinin başlangıcıdır. Roman, Ciaphas Cain'in hikâyesinin başlangıcı olarak kalır.
 
 -# Kaynaklar: Black Library

@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Taremar Aurellian — soylu işlerinin uzun listesi için 'Altın Taremar' — Grey Knights'ın 3. Kardeşliği'nin kardeş-kaptanı, Warden'ı ve chapter amiral gemisinin efendisiydi; Birinci Armageddon Savaşı'nın kahramanıdır. World Eaters'ın Daemon Primarch'ı Angron'la bizzat yüzleşti ve Kızıl Melek'i 100 Terra yıllığına sürgün etmeyi başardı — ama bu zafer hayatına mal oldu. 'Primarch'ı yenen adam' olarak Grey Knights'ın en büyük şehitlerinden biri.
+Taremar Aurellian, Grey Knights'ın en ünlü ve en trajik üyesidir; 'Argento'nun Warp Seer'ının kehanetinin merkezinde olan ve İmparatorluğun en trajik savaşını yapan Aurellian, İmparatorluğun en trajik ve en önemli savaşçısıdır — onlar, Grey Knights'ın en ünlü ve en trajik üyesidir. Taremar Aurellian'ın en büyük özelliği, onun trajedisidir — onlar, bir kehanetin merkezinde olan ve İmparatorluğun en trajik savaşını yapan en önemli savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Aurellian, hem bir savaşçı hem de bir kehanet taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Taremar Aurellian'ın en ünlü özelliği, onun Grey Knights'ın üyesidir — onlar, bir Chapter'ın en trajik savaşçısıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Taremar Aurellian, Grey Knights'ın en ünlü ve en trajik üyesidir — onlar, bir kehanetin ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

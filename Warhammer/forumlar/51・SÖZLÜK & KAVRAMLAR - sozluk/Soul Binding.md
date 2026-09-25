@@ -17,5 +17,7 @@ Ritüel sırasında, psyker doğrudan İmparator'un (Altın Taht'taki) muazzam p
 
 Ama korumanın bedeli ağırdır; İmparator'un gücünün ham şiddeti, ritüelden geçen psyker'ların çoğunu kalıcı olarak kör eder (bazıları başka duyularını da kaybeder). Yine de hayatta kalanlar, gözlerini kaybetmiş olsalar bile, İmparatorluğun tek hızlı iletişim ağını taşıyan vazgeçilmez Astropath'lara dönüşür. Soul Binding, İmparatorluğun hayatta kalmasının ne kadar acımasız bir bedelle geldiğinin somut halidir; iletişim kurabilmek için, insanlar gözlerini ve bazen akıllarını feda eder. O, İmparator'un gücünün hem koruyucu hem yakıcı doğasının, ve insanlığın hayatta kalmak için ödediği sessiz fedakarlığın bir simgesidir.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
--# Çapraz: Astropath · İmparator · Psyker
+
+## Tarihçe
+
+Soul Binding, bir psyker'ın zihnini doğrudan İmparator'un iradesine bağlayan ritüeldir; Terra'daki İmparatorluk Sarayı'nda yapılır ve sonucunda psyker, Astropath olarak görev yapacak kadar güçlenir ama aynı zamanda kalıcı olarak kör kalır. Ritüel, İmparator'un Altın Taht üzerinden yayılan psişik dokunuşuyla gerçekleşir — psyker'ın zihni Astronomicon'a açılır ve onun ışığı, taşıyıcı

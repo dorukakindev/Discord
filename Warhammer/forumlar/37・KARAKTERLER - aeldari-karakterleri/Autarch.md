@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Saim-Hann_Autrach.png
 
 ## Tarihçe
 
-Autarch, Craftworld Aeldari'nin yüzyıllar içinde birçok Asuryani Yolu'nu — Savaş Yolu'nun bir veya daha fazla yönü dahil — ustalaşmış seçkin figürüdür. Savaş sanatını eksiksiz anlayan bu komutanlar, warhost'ların en yüksek komutanı ve stratejisti olarak görev yapar; 'her yolu bilen general' olarak Aeldari'nin askeri zirvesidir.
+Autarch, Aeldari'nin en önemli ve en saygın komutanıdır; onların bir craftworld'ün en yüksek rütbeli komutanı olan ve onun en zorlu savaşlarını yöneten Autarch, Aeldari'nin en önemli ve en saygın üyesidir — onlar, Aeldari'nin en önemli ve en saygın komutanıdır. Autarch'ın en büyük özelliği, onların komutasıdır — onlar, bir craftworld'ün en yüksek rütbeli komutanıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Autarch komutası, bir craftworld'ün en kritik anının en büyük avantajıdır ve onların varlığı, Aeldari'nin en büyük onurunun somut halidir. Autarch'ın en ünlü özelliği, onların craftworld'ün komutanıdır — onlar, bir craftworld'ün en yüksek rütbeli komutanıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Autarch, Aeldari'nin en önemli ve en saygın komutanıdır — onlar, bir onurun ve Aeldari'nin en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

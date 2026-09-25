@@ -15,4 +15,4 @@ Juggernaut'lar, Khorne'un metal ve et karışımı savaş canavarlarıdır — d
 
 ## Tarihçe
 
-Juggernaut of Khorne, Khorne'un daemonik savaş hayvanıdır — yaşayan metal ve öfkeden dövülmüş dev bir binek canavarıdır. Pirinç ve kanlı bakırdan yapılmış bedeni hem makine hem yaratıktır; Khorne'un Bloodcrusher'ları bu canavarların sırtında savaşa koşar. Ezici ağırlığı ve y
+Juggernaut of Khorne, Khorne'un en ünlü ve en vahşi daemon yaratığıdır; Khorne'un en büyük ve en vahşi binek yaratığı olan ve onun en vahşi savaşlarını yapan Juggernaut, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en vahşi daemon ya

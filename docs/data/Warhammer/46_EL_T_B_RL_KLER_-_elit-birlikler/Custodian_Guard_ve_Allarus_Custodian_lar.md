@@ -15,12 +15,8 @@ Custodian Guard, Custodes'in çekirdek savaşçılarıdır; Allarus Custodian'la
 
 ## Tarihçe
 
-Custodes Great Crusade boyunca büyük ölçüde Emperor'ın yanında kaldı; Prospero'ya yürüyüş, sefer dışı en bilinen görevleridir. Heresy'nin ardından Sol'un içine çekildiler; Era Indomitus'ta Captain-General Trajann Valoris'in dönemiyle birlikte Shield Host'lar Terra dışındaki savaşlara da giderek daha sık katıldı.
+Custodian Guard, Adeptus Custodes'in temel savaş birimidir; her biri tek tek yetiştirilmiş, auramite zırhlı ve Guardian Spear taşıyan altın savaşçılardır ve Terra'nın son savunma hattıdırlar. Allarus Custodian'lar, Custodian Guard'ın daha ağır varyantıdır — Allarus Pattern Terminator Armour giyer ve bu zırh onlara hem neredeyse dokunulmazlık hem de teleport saldırısı imkânı verir; bir Allarus, bir Warhound Titan'ı durdurabilecek tek piyade birimidir. Custodian Guard ve Allarus'lar, İmparatorluğun en pahalı savaşçılarıdır — bir tanesinin maliyeti bir Space Marine bölüğünün bütçesine eşittir; ama değeri de öyledir: tek bir Custodian, bir Chaos Lord'u durdurabilir veya bir daemon prince'i yenilgiye uğratabilir. Onların görevi sadece savaş değil — İmparator'un iradesinin yaşayan tezahürüdürler ve varlıkları bile İmparatorluk için kutsaldır.
 
 ## Teknik / Biyolojik Özellikler
 
-Guardian spear, castellan axe ve sentinel blade; Allarus Terminator zırhı. Custodes'i Space Marine'lerden ayıran, çok daha kişisel ve ayrıntılı bir yaratım sürecidir.
-
--# Kaynaklar: *Codex: Adeptus Custodes*; *Master of Mankind — Aaron Dembski-Bowden*; *Watchers of the Throne: The Emperor's Legion — Chris Wraight*
-
--# İlişkili kayıtlar: <#1551753439581831278>, <#1551809168032268310>, <#1551813713403580438>, <#1551809039342501970>
+Guardian spear, castellan axe ve sentinel blade; Allarus Termina

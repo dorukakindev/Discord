@@ -16,8 +16,4 @@ Imperial tarihinde Great Crusade'den sonraki en büyük fetih seferlerinden biri
 
 ## Tarihçe
 
-Macharius yedi yıl boyunca galaksinin kıyısına doğru ilerledi. Anlatılara göre ordusu bilinmeyenin eşiğinde daha ileri gitmeyi reddedince sefer durdu ve Macharius geri dönmek zorunda kaldı. Kısa süre sonra ölümü, komutanlarının fethedilen toprakları paylaşmak için birbirine girdiği ve Macharian Heresy adıyla anılan iç savaşları başlattı.
-
--# Kaynaklar: *Codex: Imperial Guard*; *Angel of Fire — William King*; *Fist of Demetrius — William King*; *Fall of Macharius — William King*
-
--# İlişkili kayıtlar: <#1551997696456532101>, <#1552481908988969001>, <#1551587903191388183>
+Macharian Crusade, İmparatorluğun en büyük ve en onurlu seferidir; Lord Solar Macharius'un — İmparatorluğun en büyük generali — İmparatorluğun en büyük fetih hareketini başlattığı ve onun ölümüyle sonuçlanan en büyük savaştır — onlar, İmparatorluğun en büyük zaferinin ve en büyük kaybının somut halidir. Macharian Crusade'in en büyük özelliği, onun boyutudur — onlar, İmparatorluğun en büyük fetih hareketidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Macharian Crusade, bir generalin en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Macharian Crusade'in en ünlü özelliği, onun Macharius'un ölümüdür — onlar, bir generalin en büyük zaferinin ve en büyük kaybının anıdır ve onlar

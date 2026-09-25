@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/19/GlaiveSpecialWeaponsT
 
 ## Tarihçe
 
-Glaive (Fellglaive), Fellblade süper-ağır tankının Volkite Carronade silahlı varyantıdır; en gelişmiş lejyon zırhlısı olarak sayılır — kaybolmuş STC teknolojisinin zirvesi.
+Glaive, Imperial Guard tarafından kullanılan en büyük ve en güçlü ağır savaş tankıdır; onun devasa boyutu ve silahlandırmasıyla — bir düşman zırhlısını veya kale duvarını yıkabilen bir araçtır — onlar, Imperial Guard'ın en güçlü ve en yıkıcı tankıdır. Glaive'in en büyük özelliği, onun Volcano Cannon'udur — onun lazer topu, bir düşman Titan'ını bile yok edebilir; bir Glaive, bir düşman pozisyonunu tek atışla yok edebilir ve onların varlığı, bir Imperial Guard saldırısının en güçlü silahıdır. Glaive'in en ünlü görevi, Imperial Guard'ın en zorlu savaşlarıdır — onlar, düşmanın en güçlü zırhlısını yok etmek için kullanılırlar ve onların varlığı, Imperial Guard'ın en güçlü silahıdır. Glaive, Imperial Guard'ın en güçlü ve en yıkıcı tankıdır — onlar, bir saldırının en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -16,8 +16,6 @@ Blood Angels ve Luna Wolves'un birlikte savaştığı, xenos tehdidinin korkunç
 
 ## Tarihçe
 
-Murder'da Imperial kuvvetler Megarachnid'lere karşı ağır bir çıkmaza sürüklendi. Sanguinius'un Blood Angels'ı ve Imperial Army birlikleri Horus'un Luna Wolves'u ile birlikte bu dünyada savaştı; iki Primarch'ın kardeşliği de bu sefer sırasında romanın öne çıkardığı temalardan biridir. Sefer, Great Crusade'in son yıllarında Imperium'un karşılaştığı xenos düşmanların çeşitliliğini gösteren bir örnek olarak anılır.
+Murder, İmparatorluğun en eski ve en korkulan dünyalarından biridir; Megarachnid'in evidir ve Büyük Haçlı Seferi'nde İmparatorluk'la savaşan ve neredeyse insanlığı yok eden bir türün merkezidir — onlar, İmparatorluğun en eski ve en korkulan düşmanının evidir. Murder'ın en büyük özelliği, onun tehlikesidir — onlar, Megarachnid'in evidir ve onların varlığı, İmparatorluğun en eski düşmanının merkezidir; bir Murder, bir gezegenin en korkulan halidir ve onların varlığı, İmparatorluğun en eski savaşının kanıtıdır. Murder'ın en ünlü özelliği, onun İmparatorluk kayıtlarından silinmesidir — onlar, İmparatorluğun en gizli tarihinin bir parçasıdır ve onların varlığı, İmparatorluğun kendi tarihini bile reddettiği kanıttır. Murder, İmparatorluğun en eski ve en korkulan dünyasıdır — onlar, İmparatorluğun en eski düşmanının evinin somut halidir.
 
--# Kaynaklar: *Horus Rising — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551809114328399874>, <#1551814367203303506>, <#1551650246508150857>
+-# Kayna

@@ -16,8 +16,4 @@ Graham McNeill'in *Storm of Iron* romanında anlatılan, Iron Warriors'ın kuşa
 
 ## Tarihçe
 
-İsimsiz Warsmith'in komutasındaki Iron Warriors, siperler, topçu ve istihkâm çalışmalarıyla citadel'in surlarını sistemli biçimde kırdı. Savunmayı Jouran Dragoons ve küçük bir Imperial Fists kuvveti tuttu. Warsmith'in yüzbaşıları arasındaki rekabet anlatının merkezindedir; aralarında sonradan Iron Warriors serisinin baş karakteri olacak Honsou da vardır.
-
--# Kaynaklar: *Storm of Iron — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551637652569067542>, <#1551650332029751500>, <#1551636479925559479>, <#1551753458779029565>
+Siege of Hydra Cordatus, İmparatorluğun en zorlu ve en önemli kuşatmalarından biridir; Iron Warriors'ın Hydra Cordatus'a — bir Imperial kalesine — saldırısı ve İmparatorluğun en zorlu savunmasını yaptığı en büyük savaştır — onlar, İmparatorluğun en zorlu kuşatmasının ve en büyük direnişinin somut halidir. Siege of Hydra Cordatus'un en büyük özelliği, onun zorluğudur — onlar, bir kuşatmanın en zorlu halidir ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır; bir Siege of Hydra Cordatus, bir kalenin en zorlu savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük savunmasının somut halidir. Siege of Hydra Cordatus'un en ünlü özelliği, onun Iron Warriors'ın taktikleriidir — onlar, Perturabo'nun en acımasız taktiklerinin kanıtıdır ve onların varlığı, bir Legion'un en büyük gücünün somut halidir. Siege o

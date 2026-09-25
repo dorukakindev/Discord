@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Rotigus.png/revision/
 
 ## Tarihçe
 
-Rotigus Rainmaker ('Yağmur Getiren'), Nurgle'un Great Unclean One'larından biridir; başlı başına bir 'kasırgasalı veba' olarak bilinen dev daemon. Varlığıyla etrafındaki gerçeklik çürür — çürümenin yağmuru onunla yağar; Talledus Savaşı'nda İmparatorluk savunmasına karşı konuşlanan bu figür, 'salgın doğa olayı' olarak Nurgle'un en yıkıcı hizmetkârlarındandır.
+Rotigus Rainmaker, Nurgle'un en ünlü ve en tiksindirici Greater Daemon'ıdır; 'Rainmaker' olarak bilinen ve Nurgle'un vebasını yağmur gibi yağdıran en tiksindirici daemon olan Rotigus, Chaos'un en tiksindirici ve en tehlikeli varlıklarından biridir — onlar, Nurgle'un en ünlü ve en tiksindirici daemon'udur. Rotigus'un en büyük özelliği, onun vebasıdır — onlar, Nurgle'un vebasını yağmur gibi yağdıran en tiksindirici daemon'dur ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Rotigus, hem bir daemon hem de bir veba taşıyıcısıdır ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Rotigus'un en ünlü özelliği, onun 'Rainmaker' lakabıdır — onlar, Nurgle'un vebasını yağmur gibi yağdıran en tiksindirici daemon'dur ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır. Rotigus Rainmaker, Nurgle'un en ünlü ve en tiksindirici Greater Daemon'ıdır — onlar, bir vebanın ve Nurgle'un 'sevgi'sinin somut halidir.
 
 -# Kaynaklar: *Chaos Daemons Codex*

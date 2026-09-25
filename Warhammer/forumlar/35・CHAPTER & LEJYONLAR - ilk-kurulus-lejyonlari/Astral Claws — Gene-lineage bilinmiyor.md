@@ -16,8 +16,6 @@ Maelstrom'un kıyısında Imperium'un bekçiliğini yapan, parlak bir savaş sic
 
 ## Tarihçe
 
-Maelstrom Warden görevini uzun süre başarıyla yürüten Chapter, Chapter Master Lufgt Huron'un gene-seed tithe'ını reddedip bölgeyi kendi hükmü altına almasıyla Imperium'dan koptu. Lamenters, Mantis Warriors ve Executioners gibi Chapter'lar onun safında yer aldı. Loyalist Chapter'ların uzun seferi Palace of Thorns'un düşüşüyle sonuçlandı; ağır yaralanan Huron sadık kalan adamlarıyla Maelstrom'a kaçtı.
-
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War — Part One*; *Imperial Armour Volume Ten: The Badab War — Part Two*
+Astral Claws, gene-lineage'i bilinmeyen ve Badab War'da İmparatorluğa ihanet eden ünlü Space Marine Chapter'ıdır; onların Chapter Master'ı Lufgt Huron, İmparatorluğun baskısına isyan etti ve sonunda Chaos'a düştü — Astral Claws, İmparatorluğun en büyük ihanetinin simgesidir. Astral Claws'un en büyük özelliği, onların taktik dehasıdır — Huron'un liderliğinde, onlar İmparatorluğun en güçlü bölgesel gücü oldular ve onların Badab'daki hakimiyeti, İmparatorluğun otoritesine en büyük meydan okumaydı; ama onların ihaneti, sonlarını getirdi. Astral Claws'un düşüşü, İmparatorluğun en büyük dersidir — onların isyanı, İmparatorluğun kendi içi
 
 -# İlişkili kayıtlar: <#1551811438547312645>, <#1551809294750449746>, <#1551812225570836561>

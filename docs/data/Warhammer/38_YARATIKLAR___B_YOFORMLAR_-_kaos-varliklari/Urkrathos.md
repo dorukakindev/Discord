@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1e/Urkrathos.png/revisio
 
 ## Tarihçe
 
-Urkrathos ('Urkanthos' da denir), Black Legion'un Chaos Lord'u, 'Hounds of Abaddon' warband'inin efendisi ve Abaddon'un Seçilmişler'inin Lord Ravager'ıydı — ayrıca Despoiler'ın Kara Filosu'nun amirali. İronik biçimde, Sable'i yani filo savaşını yöneten bu adam Blackfleet'in en kanlı komutanı olarak Cadia'nın düşüşünden önceki son deniz savaşlarında merkezi rol oynadı.
+Urkrathos, Chaos'un en ünlü ve en tehlikeli Daemon Prince'idir; eskiden bir Iron Warrior olan ve Chaos'a yükselen Urkrathos, İmparatorluğun en tehlikeli ve en gizli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en tehlikeli daemon'udur. Urkrathos'un en büyük özelliği, onun gücüdür — onlar, bir Daemon Prince olarak İmparatorluğun en tehlikeli düşmanlarından biridir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Urkrathos, hem bir daemon hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Urkrathos'un en ünlü özelliği, onun Iron Warriors kökenidir — onlar, bir Legion'un en tehlikeli üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Urkrathos, Chaos'un en ünlü ve en tehlikeli Daemon Prince'idir — onlar, bir ihanetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,8 +16,8 @@ Badrukk, galaksinin en tanınmış Ork korsan kaptanlarından biridir. Parıltı
 
 ## Tarihçe
 
-Kaptin Badrukk, Ork'un en ünlü Flash Gitz'i ve korsan efendisidir — 'en gösterişli Ork' olarak bilinen bu figür, devasa 'Da Rippa' silahı ve aşırı zenginliğiyle (Ork'ta para = diş) en lüks savaş lordudur. Yağma ve gösteriş için savaşan bu figür, 'altın dişli korsan' olarak Freebooter kültürünün zirvesidir.
+Kaptin Badrukk, Ork'ların en ünlü ve en tehlikeli korsan kaptanıdır; Freebooterz'ın — Ork korsanlarının — en ünlü lideri olan ve onların en büyük yağma ve savaş filosunu yöneten Badrukk, Ork'ların en tehlikeli ve en gizli düşmanıdır — onlar, Ork'ların en ünlü ve en tehlikeli korsanıdır. Kaptin Badrukk'un en büyük özelliği, onun yağmacılığıdır — onlar, bir Ork korsan filosunun en büyük kaptanıdır ve onların varlığı, Ork'ların en gizli gücünün kanıtıdır; bir Badrukk, hem bir korsan hem de bir savaşçıdır ve onların savaşı, sadece yağma ve öldürmek içindir. Kaptin Badrukk'un en ünlü özelliği, onun Freebooterz'ın lideridir — onlar, Ork korsanlarının en büyük ve en tehlikeli lideridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Kaptin Badrukk, Ork'ların en ünlü ve en tehlikeli korsan kaptanıdır — onlar, bir korsan filosunun gücünün ve Ork'ların en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Codex: Orks*
 
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551809146850910260>
+-# İlişkil

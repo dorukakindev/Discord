@@ -16,8 +16,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1b/Angron_Primarch2.jpg/
 
 ## Tarihçe
 
-*Betrayer*'da Armatura'daki çatışmalarda Gorefather ve Gorechild kullanılmaz hâle gelir. Gorechild sonraki çağlarda Legion Captain Khârn'ın elinde anılır; Khârn, Angron'un kendisiyle gerçekten konuşabildiği az sayıdaki savaşçıdan biriydi. Skalathrax'ta her iki tarafı da biçtiği anlatılan Khârn'ın adı, bu baltayla birlikte World Eaters'ın parçalanışının sembolüne dönüştü.
+Gorechild, World Eaters'ın en ünlü ve en vahşi zincir kılıcıdır; onların World Eaters'ın en güçlü ve en ölümlü zincir kılıcı olan ve onun en vahşi savaşlarını yapan Gorechild, World Eaters'ın en güçlü ve en ölümlü silahıdır — onlar, World Eaters'ın en ünlü ve en vahşi zincir kılıcıdır. Gorechild'ın en büyük özelliği, onun vahşetidir — onlar, World Eaters'ın en güçlü zincir kılıcıdır ve onların varlığı, World Eaters'ın en büyük gücünün kanıtıdır; bir Gorechild, hem bir silah hem de bir vahşettir ve onların varlığı, World Eaters'ın en büyük silahının somut halidir. Gorechild'ın en ünlü özelliği, onun Khorne Berzerkers'ın kullanımıdır — onlar, World Eaters'ın en vahşi birliğinin en ölümlü silahıdır ve onların varlığı, World Eaters'ın en büyük gücünün kanıtıdır. Gorechild, World Eaters'ın en ünlü ve en vahşi zincir kılıcıdır — onlar, bir vahşetin ve World Eaters'ın en büyük silahının somut halidir.
 
 -# Kaynaklar: *Betrayer — Aaron Dembski-Bowden*; *Codex: World Eaters — 10th Edition*
 
--# İlişkili kayıtlar: <#1551809718085746759>, <#1551649073432494263>, <#1551815867845578773>
+-# İlişkili kayıtlar: <#1551

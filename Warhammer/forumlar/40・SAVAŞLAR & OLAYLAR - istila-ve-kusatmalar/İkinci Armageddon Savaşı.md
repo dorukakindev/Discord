@@ -16,6 +16,4 @@ Yarrick'in Steel Legion ve Blood Angels desteğiyle kazandığı zafer, Ghazghku
 
 ## Tarihçe
 
-İkinci Armageddon Savaşı, 941.M41'de Ghazghkull Thraka'nın Armageddon'a ilk büyük istilasıdır; Commissar Yarrick ve Armageddon Steel Legion'un efsanevi savunmasıyla püskürtüldü. Hive Hades'in savunulmasıyla İmparatorluk kazandı ama Ghazghkull'un 'sonsuz düşman' efsanesi başladı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+İkinci Armageddon Savaşı, Armageddon gezegenine yapılan üç büyük Ork saldırısının ortancası ve en kanlılarından biriydi. Ghazghkull Mag Uruk Thraka, İmparatorluğun en önemli Hive World'lerinden biri olan Armageddon'a devasa bir Ork Waaagh! ordusuyla saldırdı. İmparatorluk kuvvetleri, Hive Hades'in düşüşü gibi ağır kayıplar yaşadı; ancak Komiser Yarrick'in liderliğindeki savunma, gezegeni tamamen

@@ -16,8 +16,4 @@ Imperium tarihindeki en büyük Founding olarak anılan Ultima Founding, bir yan
 
 ## Tarihçe
 
-Great Rift'in açılması ve Noctis Aeterna'nın ardından Guilliman'ın başlattığı Indomitus Crusade, Cawl'ın on bin yıl boyunca hazırladığı Primaris kuşağına dayanıyordu. Yeni Chapter'lar yurt dünyası, gelenek ve kimlik inşa etme süreçlerini savaşın ortasında yaşadı; pek çoğu kurulur kurulmaz Great Rift'in iki yanındaki cephelere dağıtıldı.
-
--# Kaynaklar: *Dark Imperium — Guy Haley*; *Codex: Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551818213782716427>, <#1551639038291611649>, <#1551815418619101185>, <#1551808704901423186>
+Ultima Founding, Belisarius Cawl'ın Primaris Space Marine'lerini sahaya sürdüğü ve İmparatorluğun on bin yıldır gördüğü en büyük askeri genişleme hareketidir; Guilliman'ın Indomitus Crusade'iyle birlikte başlayan bu founding, İmparatorluğa yüz binlerce yeni Primaris savaşçı ve onlarca yeni Chapter kazandırdı. Ultima Founding'in en büyük özelliği, Primaris teknolojisidir — yeni Chapter'ların tamamı Primaris Space Marine'lerden oluşur ve onların gene-seed'i, eski Chapter'larınkinden daha saftır; ama Ultima Founding'in Chapter'ları, eski Chapter'ların tarihine ve geleneğine sahip değildir — onlar, İmparatorluğun yeni neslidir

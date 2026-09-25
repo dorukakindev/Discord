@@ -15,12 +15,4 @@ Emperor'ı insanlığı Chaos'tan ve karanlıktan kurtaran tanrı-hükümdar ola
 
 ## Tarihçe
 
-Emperor'ın Golden Throne'a bağlanmasından sonraki yüzyıllarda tapınak rakip kültleri soğurarak ya da bastırarak genişledi. Kaynaklara göre M32'nin başlarında High Lords onu resmî din olarak tanıdı; Ecclesiarch'ın High Lords arasında kalıcı koltuk kazanması da bu sürecin ürünüdür. Böylece bir halk kültü, Imperium'un en yaygın kurumlarından birine dönüştü.
-
-## Kanon Notu
-
-Fatidicus adı, kuruluşun tarihleri ve tapınak ile Ministorum arasındaki kurumsal geçiş kaynaklarda sınırlı ve dağınık biçimde verilir; birçok modern metin iki adı birbirinin yerine kullanır.
-
--# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
-
--# İlişkili kayıtlar: <#1551651549804236801>, <#1551815272074055681>, <#1551813713403580438>, <#1551809168032268310>
+Temple of the Saviour Emperor, İmparatorluğun en kutsal ve en önemli dini tapınağıdır; onların İmparator'a — Saviour Emperor'a — olan inançları ve onun kutsallığını savunan bir inançtır — onlar, İmparatorluğun en kutsal ve en önemli tapınağıdır. Temple of the Saviour Emperor'ın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un bir tanrı olduğunu savunur ve onların varlığı, Imperial Cult'un merkezinin kanıtıdır; bir Temple of the Saviour Emperor takipçisi, hem bir inanan hem de bir rahiptir ve onların varlığı, İmparatorluğun dininin somut halidir. Temple of the Saviour Emperor'ın en ünlü özelliği, onun Ecclesiarchy'nin merkezidir — onlar, İmparatorluğun kilisesinin merkezidir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır. Temple of the Saviour Emperor, İmparatorluğun en kutsal ve en önemli dini tapınağıdır —

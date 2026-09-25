@@ -16,8 +16,4 @@ Horus Heresy'nin doruk noktası olan kuşatma. 1. cilt forum açıklamasında ö
 
 ## Tarihçe
 
-Solar War'la aşılan sistem savunmalarının ardından Imperial Palace kuşatıldı; savunmayı Praetorian sıfatıyla Rogal Dorn yönetti. Son safhada Emperor Vengeful Spirit'e geçerek Horus'la yüzleşti.
-
--# Kaynaklar: *The Solar War — John French*; *The End and the Death — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551809039342501970>, <#1551814951365115956>, <#1551809168032268310>, <#1551650286559559741>
+Siege of Terra, İmparatorluğun en büyük ve en son savunmasıdır; Horus'un Terra'ya saldırısı ve İmparator'un kendi oğluyla son savaşıyla sonuçlanan ve İmparatorluğun en büyük savaşının sonudur — onlar, İmparatorluğun en büyük savunmasının ve en büyük fedakarlığının somut halidir. Siege of Terra'nın en büyük özelliği, onun sonudur — onlar, Horus Heresy'nin sonudur ve onların varlığı, İmparatorluğun en büyük savaşının sonunun kanıtıdır; bir Siege of Terra, bir imparatorluğun son savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin ve en büyük kaybının somut halidir. Siege of Terra'nın en ünlü özelliği, onun İmparator'un son savaşıdır — onlar, İmparator'un kendi oğluyla son savaşının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajed

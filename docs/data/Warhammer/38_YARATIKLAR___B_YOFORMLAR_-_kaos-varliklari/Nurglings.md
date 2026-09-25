@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/64/Nurgling_invasion.jpg
 
 ## Tarihçe
 
-Nurgling'ler ('Nurgle'un Bitleri', 'Neşeli Artıklar', 'İr İnleri', 'Küçük Veba'lar', 'Küçük Lord'lar', Dark Tongue'da Khan'gurani'i), Nurgle'un minik, yaramaz Lesser Daemon'larıdır. Büyük bir Nurgle daemon'unun irin ve çürük etinden doğan bu küçük yaratıklar sürüler halinde savaşa girer — 'neşeli veba yavruları' olarak Plague God'un en sevimli ama en bulaşıcı figürleri.
+Nurglings, Nurgle'un en küçük ve en sinsi daemon'larıdır; Nurgle'un en küçük ve en tiksindirici varlıkları olan ve onun 'sevgi'sini yayan en sinsi organizmalar olan Nurglings, Chaos'un en küçük ve en sinsi varlıklarıdır — onlar, Nurgle'un en ünlü ve en sinsi daemon'larıdır. Nurglings'in en büyük özelliği, onların sinsiliğidir — onlar, Nurgle'un 'sevgi'sini yayan ve onu her yere taşıyan en sinsi daemon'lardır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Nurglings sürüsü, hem bir daemon topluluğu hem de bir veba taşıyıcısıdır ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Nurglings'in en ünlü özelliği, onların küçüklüğüdür — onlar, Nurgle'un en küçük ve en sinsi daemon'larıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır. Nurglings, Nurgle'un en küçük ve en sinsi daemon'larıdır — onlar, bir vebanın ve Nurgle'un 'sevgi'sinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

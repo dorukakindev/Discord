@@ -15,12 +15,8 @@ Emperor's Children'ın düşüşünün çoğu kaynakta işaret edilen dönüm no
 
 ## Tarihçe
 
-Great Crusade sırasında Emperor's Children, Imperium'unkiyle boy ölçüşen bir teknolojiye sahip Laer'e karşı çetin bir harekât yürüttü. Laer'in şiddetle savunduğu bir tapınakta Fulgrim, daemonik bir varlığın barındığı bir kılıç ele geçirdi. Laer'in ardından Legion'da aşırılığa, duyuların sınırlarını zorlamaya ve kusursuzluğu her ne pahasına olursa olsun elde etmeye yönelik bir kültür yayıldı; Fulgrim'in düşüşü de bu kılıcın fısıltılarıyla iç içe anlatılır.
+Laeran, İmparatorluğun en trajik ve en önemli dünyalarından biridir; Laer türünün evidir ve Fulgrim'in düşüşünün başlangıcı olan yerdir — onlar, İmparatorluğun en büyük trajedisinin merkezidir. Laeran'ın en büyük özelliği, onun tarihi önemidir — onlar, Fulgrim'in düşüşünün başlangıcı olan yerdir ve onların varlığı, bir primarch'ın düşüşünün ve bir Legion'un yozlaşmasının kanıtıdır; bir Laeran, bir gezegenin en trajik halidir ve onların varlığı, İmparatorluğun en büyük kaybının somut halidir. Laeran'ın en ünlü özelliği, onun Laeran kılıcıdır — onlar, Fulgrim'in bulduğu ve onun düşüşünün başlangıcı olan kılıcın evidir ve onların varlığı, bir primarch'ın düşüşünün kanıtıdır. Laeran, İmparatorluğun en trajik ve en önemli dünyasıdır — onlar, bir primarch'ın düşüşünün somut halidir.
 
 ## Kanon Notu
 
-Fulgrim'in sonraki eylemlerinde kılıcın etkisinin ne ölçüde belirleyici olduğu yorumlara açık bırakılmıştır. Dünyanın fetih sonrası akıbeti bu kayıtta belirtilmemiştir.
-
--# Kaynaklar: *Fulgrim — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551813750305198101>, <#1551650243865477191>, <#1551754688008032321>, <#1551814367203303506>
+Fulgrim'in sonraki eylemlerinde kılıcın etkisinin ne ölçüde belirleyici olduğu yorumlara açık bırakılmıştır. Dünyanın fetih sonrası akıbeti bu

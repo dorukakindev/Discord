@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Cherubael.jpg/revisio
 
 ## Tarihçe
 
-Cherubael ('Bael'in Kerub'u'), muazzam güçteki bir daemonhost'tur; eskiden Gregor Eisenhorn'un alt ettiği Renegade Inquisitor Quixos'un hizmetindeydi. Eisenhorn başta ondan nefret etse de zamanla 'düşmanın silahını çevirme' ihtiyacı duydu ve Cherubael'i zincirleyip kullandı — 'mühürlü şeytan' olarak Inquisition'un en tehlikeli müttefik-varlığı.
+Cherubael, Chaos'un en ünlü ve en trajik daemonhost'udur; Inquisitor Eisenhorn'un en gizli ve en tehlikeli varlığı olan ve onun tarafından kontrol edilen Cherubael, İmparatorluğun en gizli ve en trajik varlığıdır — onlar, Chaos'un en ünlü ve en trajik daemonhost'udur. Cherubael'in en büyük özelliği, onun trajedisidir — onlar, bir daemonhost olarak bir Inquisitor tarafından kontrol edilen en trajik varlıktır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Cherubael, hem bir daemon hem de bir esirdir ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Cherubael'in en ünlü özelliği, onun Eisenhorn'un kontrolündedir — onlar, bir Inquisitor'un en gizli ve en tehlikeli varlığıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Cherubael, Chaos'un en ünlü ve en trajik daemonhost'udur — onlar, bir trajedinin ve İmparatorluğun en büyük sırrının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

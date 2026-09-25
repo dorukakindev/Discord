@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/ba/Harridan-0.jpg/revisi
 
 ## Tarihçe
 
-Harridan, tyranid sürüsünün en büyük uçan biyoforlarından biridir; dev kanatlı gövdesiyle bir Imperium savaş uçağı boyutundadır. Havada Gargoyle sürüleri taşıyan canlı bir transport olarak da çalışır ve biocannon'larıyla kara ve hava hedeflerini bombalar.
+Harridan, Tyranid'in en ünlü ve en ölümlü uçan yaratığıdır; bir Tyranid ordusunun en büyük uçan avcısı olan ve onun en gizli operasyonlarını yapan Harridan, Tyranid'in en ölümlü ve en büyük varlığıdır — onlar, Tyranid'in en ünlü ve en ölümlü uçan yaratığıdır. Harridan'ın en büyük özelliği, onun ölümlülüğüdür — onlar, bir Tyranid ordusunun en büyük uçan avcısıdır ve onların varlığı, Tyranid'in en büyük gücünün kan��tıd��r; bir Harridan, hem bir yaratık hem de bir avcıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Harridan'ın en ünlü özelliği, onun uçmasıdır — onlar, Tyranid'in en büyük ve en ölümlü uçan yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Harridan, Tyranid'in en ünlü ve en ölümlü uçan yaratığıdır — onlar, bir avcının ve Tyranid'in en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

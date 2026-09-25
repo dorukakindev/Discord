@@ -16,6 +16,6 @@ Vanguard Veteran, Chapter'ın elit yakın dövüş gazilerinden oluşan birim ti
 
 ## Tarihçe
 
-Vanguard Veteran, Chapter'ın elit yakın dövüş gazilerinden oluşan birim tipidir: jump pack'li, relic silahlar taşıyan, savaşın en sıcak noktasına atılan 1st Company askeri. Sternguard'ın yakın dövüş kardeşidir — biri ateşi, diğeri çeliği temsil eder.
+Vanguard Veteran, Space Marine Chapter'ının en deneyimli yakın dövüş uzmanlarıdır; Sternguard'ın aksine onlar yakın temas savaşında ustalaşmışlardır ve jump pack, power weapon ve storm shield ile düşman saflarına dalarlar. Vanguard Veteran'lar, yüzlerce savaş görmüş ve melee'de uzmanlaşmış savaşçılardır — onların görevi düşmanın en güçlü noktasını yakın dövüşle kırmak ve genç savaşçıların giremediği yerlere girmektir. Honour Guard veya Company Veteran olarak da bilinen birimler Vanguard'ın bir parçasıdır ve Captain'ın kişisel muhafızı olarak da görev yaparlar. Vanguard Veteran'ın zırhı, Chapter'ın en kutsal emanettir — üzerindeki her iz, her sembol bir savaşın ve bir şehidin hikâyesini taşır.
 
 -# Kaynaklar: *Codex: Space Marines*

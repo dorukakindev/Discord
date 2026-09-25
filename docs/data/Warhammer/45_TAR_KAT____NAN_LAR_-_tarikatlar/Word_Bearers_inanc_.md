@@ -15,12 +15,8 @@ Chaos'u bilinçli, yazılı ve kurumsal bir din olarak yayan tek Legion'ın teol
 
 ## Tarihçe
 
-Monarchia'nın yakılmasıyla aşağılanan Lorgar, Kor Phaeron ve Erebus'un yönlendirmesiyle Colchis'in eski tanrılarını Warp'ın güçlerinde buldu. Erebus'un warrior lodge'ları bu inancı Legion'lar arasına taşıdı; Gal Vorbak, Warp'la kurulan temasın ilk meyvesi oldu. Heresy'den sonra Legion Sicarus'a çekildi ve M41'e dek Host'lar hâlinde, hedef dünyalarda önceden kült yetiştirerek savaştı.
+Word Bearers inancı, Chaos'un en eski ve en fanatik inanç sistemlerinden biridir; onların Chaos'un dört büyük tanrısına olan inançları ve onların 'söz' — Chaos'un öğretisi — üzerine kurulu bir inançtır — onlar, Chaos'un en fanatik ve en tehlikeli dinidir. Word Bearers inancının en büyük özelliği, onun fanatikliğidir — onlar, Chaos'un öğretisini takip eder ve onların savaşı, hem askeri hem de dini bir seferdir; bir Word Bearers takipçisi, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Word Bearers inancının en ünlü özelliği, onun Lorgar'ın inancıdır — onlar, bir primarch'ın inancıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Word Bearers inancı, Chaos'un en fanatik ve en tehlikeli inanç sistemidir — onlar, Chaos'un öğretisinin ve fanatikliğinin somut halidir.
 
 ## Kanon Notu
 
-Legion genellikle Undivided olarak anılır; tek tek Host'ların tek bir tanrıya ağırlık verdiği örnekler de vardır. Lorgar'ın M41'deki etkinliği hakkında kaynaklar sınırlıdır.
-
--# Kaynaklar: *The First Heretic — Aaron Dembski-Bowden*; *Dark Apostle — Anthony Reynolds*; *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763>, <#1551812325521100811>, <#1551816158951510069>
+Legion genellikle Undivided olarak anılır; tek tek Host'ların tek bir tanrıya ağırlık verdiği örnekle

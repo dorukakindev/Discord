@@ -16,8 +16,4 @@ Realspace ile Webway arasında geçiş sağlayan kapılardır. Warp'ın içinden
 
 ## Tarihçe
 
-Her craftworld'ün Webway kapıları vardır; bu kapılar Asuryani'yi Maiden World'lere, Exodite'lara ve diğer craftworld'lere bağlar. Drukhari realspace baskınlarını bu kapılardan yapar, Commorragh'ın sayısız kapısı ağın bir bölümünü onların hâkimiyetine verir. Pek çok kapı bugün mühürlü, yıkık ya da Warp'a açılmış hâldedir.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *The Master of Mankind — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551993959876657192>, <#1551997861409984543>, <#1551812290439942255>, <#1551997841356881980>, <#1552483150322737262>
+Webway Gate, Old Ones'ın inşa ettiği devasa ışıktan hızlı yol ağının kapılarıdır; gerçek uzay ile Webway (Warp'ın içine oyulmuş tünel ağı) arasında geçiş noktasıdır. Eldari'ler Webway'i günlük ulaşım ve savaş için kullanır — kapılar onların elinde galaksinin her köşesine anında gitme imkânı verir ve bu yüzden Eldari sürpriz saldırılarının ardında hep Webway vardır. Kapılar devasa yapılardır — bazıları gezegen boyutunda, bazıları gizli ve küçük; aktif olanlar Eldari kontrolünde, kırık olanlar ise Chaos veya başka güçlerin eline geçmiş tehlikeli kalıntılardır. Emperor of Mankind, Horus Heresy öncesinde Webway'e insan erişimi açmak için Terra'da kendi kapısını inşa ediyordu — Magnus'un ihaneti bu projeyi çökertti ve insanlık Webway'in anahtarını sonsuza dek kaybetti. Bugün Webway'in tamamı Eldari tekeli

@@ -20,4 +20,8 @@ Tanrı Vaul'ün dövdüğü yüz kılıçtan en güçlüsü; Eldar mitolojisinde
 ## Not
 Eldanesh'in Khaine'e yenilmesi, Aeldari mitolojisinde ölümlülüğün ve Pride'un hikâyesidir. Anaris adı Aeldari kadim külliyatında 'gün ışığı' anlamında anılır.
 
+
+## Tarihçe
+
+Anaris, the Dawnlight, Aeldari'nin en ünlü ve en kutsal relic'idir; Eldanesh'in — Aeldari'nin efsanevi kahramanı — kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, Aeldari'nin en ünlü ve en kutsal hazinesidir. Anaris'in en büyük özelliği, onun gücüdür — onlar, bir efsanevi kahramanın en güçlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Anaris kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Anaris'in en ünlü özelliği, onun Eldanesh'in silahıdır — onlar, Aeldari'nin en ünlü kahramanının simgesidir ve onların varlığı, Aeldari'nin en büyük onurunun kanıtıdır. Anaris, Aeldari'nin en ünlü ve en kutsal relic'idir — onlar, bir efsanevi kahramanın mirasının ve Aeldari'nin ruhunun somut halidir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

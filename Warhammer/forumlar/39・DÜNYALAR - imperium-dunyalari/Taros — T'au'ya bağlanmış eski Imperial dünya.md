@@ -16,8 +16,8 @@ Imperial Guard'ın T'au ile doğrudan ve uzun süre savaştığı Taros Campaign
 
 ## Tarihçe
 
-Dünyanın T'au'ya yönelmesi üzerine Imperium, gezegeni geri almak için bir sefer düzenledi. Elysian alaylarının da aralarında bulunduğu Imperial kuvvetler T'au savunmasına karşı ağır bir yıpratma savaşına girdi; bir Elysian alayı ele geçirdiği tesiste kuşatılıp yok edildi. Sefer, Imperium'un amacına ulaşamadan geri çekilmesiyle sonuçlandı ve Taros T'au'nun elinde kaldı.
+Taros, İmparatorluğun en trajik ve en önemli dünyalarından biridir; eski bir Imperial dünyası olan ama T'au Empire'a katılan ve Taros Campaign'ın merkezi olan bir dünyadır — onlar, İmparatorluğun en büyük kaybının ve en büyük dersinin merkezidir. Taros'un en büyük özelliği, onun ihanetidir — onlar, İmparatorluğa ihanet edip T'au'ya katıldılar ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Taros, bir gezegenin en trajik halidir ve onların varlığı, İmparatorluğun en büyük yenilgisinin somut halidir. Taros'un en ünlü özelliği, onun Taros Campaign'ıdır — onlar, İmparatorluğun onları geri almaya çalıştığı ve başarısız olduğu savaştır ve onların varlığı, İmparatorluğun en büyük yenilgisinin kanıtıdır. Taros, İmparatorluğun en trajik ve en önemli dünyasıdır — onlar, İmparatorluğun en büyük kaybının ve en büyük dersinin somut halidir.
 
 -# Kaynaklar: *Imperial Armour Volume Three: The Taros Campaign*
 
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551753458779029565>, <#1551815439078658154>
+-# İlişkili kayıtlar: <#1551809146850910260>, <#1551753458779029565>, <#1551815439078658154

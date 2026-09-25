@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Asurmen_Art.jpg/revis
 
 ## Tarihçe
 
-Exarch, Path of the Warrior'da kendini kaybedip bir daha ayrılamayan eski Craftworld Aeldari Aspect Warrior'udur; artık Aspect Shrine'ının kalıcı rahibi ve savaş lideridir. Yaşayan savaş zırhı ve shrine'ın ruh taşlarıyla beslenen bu figürler, 'yolda kalan' olarak Aeldari'nin hem en değerli hem en trajik askerleridir — Phoenix Lord'ların da temelidir.
+Exarch, Aeldari'nin en önemli ve en saygın savaşçısıdır; onların bir Aspect'in en yüksek rütbeli üyesi olan ve onun savaş geleneğini koruyan Exarch, Aeldari'nin en önemli ve en saygın üyesidir — onlar, Aeldari'nin en önemli ve en saygın savaşçısıdır. Exarch'ın en büyük özelliği, onların saygınlığıdır — onlar, bir Aspect'in en yüksek rütbeli üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Exarch, hem bir savaşçı hem de bir koruyucudur ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Exarch'ın en ünlü özelliği, onların Aspect'in lideridir — onlar, bir Aspect'in en yüksek rütbeli üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Exarch, Aeldari'nin en önemli ve en saygın savaşçısıdır — onlar, bir onurun ve Aeldari'nin en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

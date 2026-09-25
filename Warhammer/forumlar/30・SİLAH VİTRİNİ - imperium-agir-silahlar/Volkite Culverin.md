@@ -19,4 +19,8 @@ Volkite ('thermal ray') silahları hedefi radyant ısı ışınıyla içten tutu
 ## Not
 Volkite teknolojisi Great Crusade kalıntısıdır; üretimi unutulduğu için kalan parçalar kutsal mühendislik mirası sayılır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Volkite Culverin, Adeptus Mechanicus'un en ünlü ve en gizli silahıdır; onların Mechanicus'un en eski ve en ölümlü volkite silahı olan ve onun en zorlu savaşlarını yapan Volkite Culverin, Adeptus Mechanicus'un en gizli ve en ölümlü silahıdır — onlar, Adeptus Mechanicus'un en ünlü ve en gizli silahıdır. Volkite Culverin'in en büyük özelliği, onun volkite'ıdır — onlar, Mechanicus'un en eski ve en ölümlü volkite silahıdır ve onların varlığı, Mechanicus'un en büyük gücünün kanıtıdır; bir Volkite Culverin, hem bir silah hem de bir antikadır ve onların varlığı, Mechanicus'un en büyük geleneğinin somut halidir. Volkite Culverin'in en ünlü özelliği, onun antikalığıdır — onlar, Mechanicus'un en eski ve en ölümlü silahıdır ve onların varlığı, Mechanicus'un en büyük geleneğinin kanıtıdır. Volkite Culverin, Adeptus Mechanicus'un en ünlü ve en gizli silahıdır — onlar, bir antikanın ve Mechanicus'un en büyük geleneğinin somut halidir.
+-# Kaynaklar: Warhammer 40,000

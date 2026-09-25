@@ -16,8 +16,6 @@ Space Wolves'un yurdu ve aday kaynağı. Kaynaklar Fenris'i, yaşamın kendisini
 
 ## Tarihçe
 
-Russ'ın VI Legion'ın başına geçmesiyle Legion, Fenris'in kabile geleneklerini ve sagalarını benimsedi. Kaynaklarda Legion'ın yurdunun Thousand Sons'la kan davasının hedefi olduğu tekrar tekrar görülür: Battle of the Fang anlatısı Magnus'un soyunun bu dağlara uzanan intikamını işler. M41'in sonlarında Magnus, *Wrath of Magnus* anlatısında Fenris'i Warp'a çekecek bir ritüel yürüterek dünyaya doğrudan saldırdı; Space Wolves ağır bedel ödeyerek direndi.
-
--# Kaynaklar: *Codex Supplement: Space Wolves — 10th Edition*; *Battle of the Fang — Chris Wraight*; *War Zone Fenris: Wrath of Magnus*
+Fenris, Space Wolves'un Chapter yurdu olan ve İmparatorluğun en sert ve en ölümcül dünyasıdır; onun buzulları ve vahşi doğasıyla — bir ölüm dünyası olarak bilinen ve Space Wolves'un en sert savaşçılarını yetiştiren bir dünyadır — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Fenris'in en büyük özelliği, onun sertliğidir — onlar, İmparatorluğun en sert doğasına sahiptir ve onların varlığı, Space Wolves'un sertliğinin ve vahşetinin kanıtıdır; bir Fenris, bir gezegenin en ölümcül halidir ve onların varlığı, bir Legion'un evinin en sert parçasıdır. Fenris'in en ünlü özelliği, onun Space Wolves'un evidir — onlar, bir Legion'un evidir ve onların varlığı, bir Legion'un ruhunun ve onurunun kanıtıdır. Fenris, Space Wolves'un evidir ve onların ruhunun merkezidi
 
 -# İlişkili kayıtlar: <#1551638910344630307>, <#1551649072912269433>, <#1551809231580307517>, <#1551816657691746335>

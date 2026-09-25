@@ -16,8 +16,8 @@ Blood Angels'ın kale-manastırı Arx Angelicum'un yükseldiği, Sanguinius'un s
 
 ## Tarihçe
 
-Sanguinius'un bulunuşuyla sistem IX Legion'ın merkezi oldu ve Legion'ın adayları ayların mutasyonla boğuşan kabilelerinden seçilmeye başlandı. Heresy sonrasında Blood Angels ve ardılları Baal'ı ortak soylarının kalbi olarak gördü. M41'in sonunda Hive Fleet Leviathan'ın bir kolu sisteme yöneldi; ay dünyaları yıkıma uğradı ve savunma Arx Angelicum'un surlarına dek geriledi. Great Rift'in açılışıyla birlikte Roboute Guilliman'ın Indomitus filosu Primaris takviyeleriyle yetişti ve Baal kurtarıldı.
+Baal, Blood Angels'ın Chapter yurdu olan ve İmparatorluğun en trajik ve en asil dünyasıdır; onun çöl ve kaya yapısıyla — Blood Angels'ın sert ve asil yapısının somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Baal'ın en büyük özelliği, onun trajedisidir — onlar, Hive Fleet Leviathan'ın saldırısına uğradılar ve neredeyse yok edildiler; bir Baal, hem bir gezegen hem de bir mezardır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır. Baal'ın en ünlü özelliği, onun Blood Angels'ın evidir — onlar, bir Legion'un evidir ve onların varlığı, bir Legion'un ruhunun ve onurunun kanıtıdır. Baal, Blood Angels'ın evidir ve onların ruhunun merkezidir — onlar, trajedinin ve asaletin somut halidir.
 
--# Kaynaklar: *The Devastation of Baal — Guy Haley*; *Codex Supplement: Blood Angels — 10th Edition*; *Shield of Baal: Leviathan*
+-# Kaynaklar: *The Devastation of Baal — Guy Haley*; *Codex Supplement: Blood Angels — 10th Editi
 
 -# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809334483361823>, <#1551815418619101185>

@@ -8,6 +8,6 @@ Afriel Strain, diğer abhumanlardan temelden farklı bir kökene sahiptir; onlar
 
 ## Tarihçe
 
-Afriel Strain, İmparatorluk'un 'süper-insan' klon projesidir; ölmüş kahramanların genlerini kullanarak mükemmel askerler üretme denemesi. 'Afriel' askerler doğuştan zalim ama talihsizdirler — proje, klonların insanlıktan uzaklaşması nedeniyle gizlice durduruldu.
+Afriel Strain, İmparatorluğun en gizli ve en tehlikeli genetik programıdır; İmparatorluğun en gizli genetik mühendisliği programı olan ve onun en gizli operasyonlarını yapan Afriel Strain, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli genetik programıd��r. Afriel Strain'in en büyük özelliği, onun genetikliğidir — onlar, İmparatorluğun en gizli genetik mühendisliği programıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Afriel Strain üyesi, hem bir mutant hem de bir üründür ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Afriel Strain'in en ünlü özelliği, onun genetik mühendisliğidir — onlar, İmparatorluğun en gizli ve en tehlikeli genetik programıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Afriel Strain, İmparatorluğun en gizli ve en tehlikeli genetik programıdır — onlar, bir sırrın ve İmparatorluğun en büyük sırrının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

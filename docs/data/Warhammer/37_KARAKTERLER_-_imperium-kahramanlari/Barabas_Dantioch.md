@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/75/Barabas_Dantioch_Rene
 
 ## Tarihçe
 
-Barabas Dantioch, Büyük Sefer ve Heresy başında Iron Warriors'ın formidabl Warsmith'iydi; primarch Perturabo'nun gözünden düşünce çorak Lesser Damantyne dünyasına garnizon görevine sürüldü. İhanetten sonra sadık kalan nadir IW figürlerinden biri olarak Pharos artefaktını kurtarma görevinde merkezi rol oynadı — 'sürgünden doğan kahraman' olarak Heresy'nin iyi adamlarından.
+Barabas Dantioch, Iron Warriors'ın en ünlü ve en trajik sadık üyesidir; bir Warsmith olan ve Horus Heresy'de kendi Legion'unun ihanetini reddeden Dantioch, İmparatorluğun en onurlu ve en trajik kahramanlarından biridir — onlar, Iron Warriors'ın en onurlu ve en trajik üyesidir. Barabas Dantioch'un en büyük özelliği, onun sadakatidir — onlar, Perturabo'nun ihanetini reddeden ve İmparator'a sadık kalan en onurlu savaşçıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır; bir Dantioch, hem bir mühendis hem de bir kahramandır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Barabas Dantioch'un en ünlü özelliği, onun Iron Warriors'ın sadık üyesidir — onlar, bir Legion'un en trajik ihanetini reddeden en onurlu savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Barabas Dantioch, Iron Warriors'ın en ünlü ve en trajik sadık üyesidir — onlar, bir sadakatin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

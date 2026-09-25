@@ -12,6 +12,6 @@ Baltanın adı, Fenris'in (Space Wolves'un buzul anavatanı) mitolojisinden geli
 
 ## Tarihçe
 
-Space Wolves'un efsanevi iki ağzı; Logan Grimnar'ın taşıdığı antik Morkai'si. Chapter'ın kutsal silahı — kurt ve demon savaşının aracı.
+The Axe Morkai, Space Wolves'un en ünlü ve en kutsal relic'idir; Morkai — Fenris'in efsanevi kurt tanrısı — şerefine yapılan ve Space Wolves'un en büyük savaşlarının simgesi olan bir baltadır — onlar, Space Wolves'un en ünlü ve en kutsal hazinesidir. The Axe Morkai'nin en büyük özelliği, onun gücüdür — onlar, bir Space Wolves'un en güçlü silahıdır ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır; bir Axe Morkai kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. The Axe Morkai'nin en ünlü özelliği, onun Morkai'ye adanmasıdır — onlar, Fenris'in kurt tanrısının simgesidir ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır. The Axe Morkai, Space Wolves'un en ünlü ve en kutsal relic'idir — onlar, bir tanrının simgesinin ve Space Wolves'un ruhunun somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

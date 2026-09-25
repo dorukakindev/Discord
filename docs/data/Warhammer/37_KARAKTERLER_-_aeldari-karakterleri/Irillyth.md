@@ -16,6 +16,6 @@ Irillyth, Shadow Spectres Aspect'inin Phoenix Lord'udur ve binlerce yıl tek kay
 
 ## Tarihçe
 
-Irillyth — 'Alacakaranlığın Gölgesi' — Asuryani'nin uzun süredir yok olmuş Shadow Spectres Aspect Warriors'ının Phoenix Lord'udur. Bin yıllarca kayıp olan bu Aspect'in tapınakları terk edilmişti ama Irillyth geri döndü — 'Spear of Starlight' ile 'geri gelen hayalet' olarak Phoenix Lord'ların en nadir figürüdür.
+Irillyth, Aeldari'nin en ünl�� ve en gizli Phoenix Lord'udur; Shadow Spectres Aspect'inin kurucusu olan ve Aeldari'nin en gizli savaşçı geleneğinin lideri olan Irillyth, Aeldari'nin en gizli ve en ölümcül savaşçısıdır — onlar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur. Irillyth'in en büyük özelliği, onun gizliliğidir — onlar, Shadow Spectres'ın kurucusu ve en gizli üyesidir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Irillyth, hem bir savaşçı hem de bir efsanedir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Irillyth'in en ünlü özelliği, onun Shadow Spectres'ın kurucusudur — onlar, Aeldari'nin en gizli Aspect'inin yaratıcısıdır ve onların varlığı, Aeldari'nin savaş sanatının en gizli noktasının kanıtıdır. Irillyth, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur — onlar, bir gizliliğin ve Aeldari'nin savaş sanatının somut halidir.
 
 -# Kaynaklar: *Codex: Aeldari*; *Mymeara* kaynakları

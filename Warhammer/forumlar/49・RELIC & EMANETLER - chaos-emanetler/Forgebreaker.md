@@ -12,6 +12,6 @@ Silah, Iron Hands'ın (Iron Hands) primarch'ı, usta demirci Ferrus Manus taraf�
 
 ## Tarihçe
 
-Fulgrim'in Vulkan'a hediye ettiği çekici; sonra ihanete uğradı. İki primarch'ın dostluğunun kırık simgesi — şimdi Perturabo'nun elinde.
+Forgebreaker, İmparatorluğun en ünlü ve en trajik relic'idir; Fulgrim'in — Emperor's Children'ın primarch'ı — Ferrus Manus'a — Iron Hands'in primarch'ı — kardeşlik hediyesi olarak verdiği ama sonra Ferrus'u öldürmek için kullandığı bir çekiçtir — onlar, İmparatorluğun en trajik ve en ünlü relic'idir. Forgebreaker'ın en büyük özelliği, onun trajedisidir — onlar, bir kardeşlik hediyesinin bir cinayet silahına dönüştüğü en büyük trajedidir; bir Forgebreaker, bir primarch'ın ihanetinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Forgebreaker'ın en ünlü özelliği, onun Ferrus Manus'un ölümüdür — onlar, bir primarch'ın kendi kardeşi tarafından öldürülmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük ihanetinin kanıtıdır. Forgebreaker, İmparatorluğun en ünlü ve en trajik relic'idir — onlar, bir kardeşlik hediyesinin ve bir ihanetin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

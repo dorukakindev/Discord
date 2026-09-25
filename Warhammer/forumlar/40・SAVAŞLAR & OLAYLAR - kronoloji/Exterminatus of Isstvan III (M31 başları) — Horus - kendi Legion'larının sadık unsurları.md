@@ -15,12 +15,6 @@ Horus'un ihanetini ilk kez açığa vurduğu, kendi Legion'larının sadık unsu
 
 ## Tarihçe
 
-Sadık olduğu düşünülen Astartes Choral City'e indirildi, ardından Warmaster'ın filosu gezegeni yaşayan her şeyi çürüten virüs bombalarıyla dövdü. Uyarıyı önceden alan sadıklar sığınaklara çekilerek bombardımandan kurtuldu ve Saul Tarvitz ile Garviel Loken'in önderliğinde uzun süre direndi. Nathaniel Garro'nun *Eisenstein* ile kaçışı, ihanet haberini Terra'ya taşıdı.
-
-## Teknik / Biyolojik Özellikler
-
-Sonuç: Sadık unsurların büyük kısmı yok edildi; dört Legion Horus'un safında birleşti. Virüs bombardımanı, Exterminatus yönteminin kendi askerlerine karşı kullanılmasıdır.
-
--# Kaynaklar: *Galaxy in Flames — Ben Counter*; *The Flight of the Eisenstein — James Swallow*; *Horus Heresy Book One: Betrayal*
+Exterminatus of Isstvan III, Horus Heresy'nin en acımasız ve en trajik anıdır; Horus'un kendi Legion'larının — Sons of Horus, Death Guard, Emperor's Children ve World Eaters — sadık unsurlarını Isstvan III'ün viral bombardımanıyla yok ettiği en büyük katliamdır — onlar, Heresy'nin en acımasız anının ve en büyük ihanetinin somut halidir. Exterminatus of Isstvan III'ün en büyük özelliği, onun ihanetidir — onlar, bir babanın kendi oğullarını öldürmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Exterminatus, bir gezegenin en acımasız halidir ve onların varlığı, İmparatorluğun en büyük ihanetinin somut halidir. Exterminatus of Isstvan III'ün en ünlü özelliği, onun sadık Space Marine'lerin direnişidir — onlar, İmparator'a sonuna kadar sadık kalanların en büyük direnişidir ve onların varlığı, İmparatorluğun en büyü
 
 -# İlişkili kayıtlar: <#1551814951365115956>, <#1551655332277784759>, <#1551809114328399874>, <#1551813274327060552>, <#1551809718085746759>

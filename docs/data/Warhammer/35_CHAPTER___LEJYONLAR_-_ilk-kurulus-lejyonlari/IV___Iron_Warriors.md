@@ -16,8 +16,4 @@ Kuşatma savaşının ustası; tahkimat kurmak ve yıkmak üzerine inşa edilmi�
 
 ## Tarihçe
 
-Olympia'daki isyanı Perturabo'nun acımasızca bastırması Legion'ı geri dönülmez biçimde Horus'a bağladı. Heresy'de Imperial Fists ile süren kin, Siege of Terra'da Rogal Dorn'un surları önünde doruğa çıktı. Heresy sonrasında Iron Cage adıyla anılan savaşta Imperial Fists'e ağır kayıp verdirdiler; Daemon Prince'e yükselen Perturabo ise Eye of Terror'daki Medrengard'a çekildi. M41'de Hydra Cordatus kuşatması, Legion'ın uzun savaşının bilinen örneklerindendir.
-
--# Kaynaklar: *Storm of Iron — Graham McNeill*; *Angel Exterminatus — Graham McNeill*; *Perturabo: The Hammer of Olympia — Guy Haley*
-
--# İlişkili kayıtlar: <#1551637652569067542>, <#1551650332029751500>, <#1551809039342501970>, <#1551636479925559479>
+Iron Warriors (IV Legion), Perturabo'nun oğullarıdır; kuşatma savaşı, yıkım ve acımasız pragmatizm üzerine kurulu ve Horus Heresy'de Chaos'a düşen ilk Legion'lardan biridir — onların savaşı, sadece yıkmak ve fethetmektir. Iron Warriors'un savaş doktrini, Perturabo'nun mühendislik dehasından ve acımasız pragmatizminden doğar — onlar kuşatmayı sever, yıkımı kutsar ve onların savaşı, bir kale duvarını yıkmaktan ibarettir; bir Iron Warrior, savaşta duygu göstermez ve onun varlığı, düşmanın en zorlu engelidir. Iron Warriors'un en büyük özelliği, onların acımasızlığıdır — onlar, sivil veya asker fark etmeksizin her şeyi yıkarlar; ve onların kuşatması, bir gezegenin sonu demektir. Iron Warriors, İmparatorluğun en pragmatik ve en acımasız düşmanıdır — onlar için savaş, sadece bir hesaplamadı

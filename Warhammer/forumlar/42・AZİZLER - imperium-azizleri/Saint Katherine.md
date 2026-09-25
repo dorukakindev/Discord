@@ -16,6 +16,4 @@ Katherine'in kültü, 'şehitlik' kavramını İmparatorluk'un en yüksek erdemi
 
 ## Tarihçe
 
-Saint Katherine (Katherine Elysius), Order of Our Martyred Lady'nin hamisi ve Adepta Sororitas'ın en büyük azizlerinden; 'Alevli Kalp' düzeninin kurucu figürü — inancın beden bulmuş hali.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Katherine, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Katherine, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Katherine'ın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafi

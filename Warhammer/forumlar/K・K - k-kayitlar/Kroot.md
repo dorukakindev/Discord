@@ -38,4 +38,8 @@ Kroot, 2001'de 3rd Edition döneminde T'au ile birlikte, ilk *Codex: Tau* içind
 **Kaynaklar:** *Codex: T'au Empire — 10th Edition*; *Codex: Tau — 3rd Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 **Çapraz:** <#1551809146850910260>, <#1551809846066548779>, <#1551759766966116383>, <#1551652850319368254>
 
+## Tarihçe
+
+Kroot, T'au Empire'ın en ünlü ve en vahşi müttefik ırkıdır; T'au'nun en vahşi ve en sadık müttefiki olan ve onların en zorlu savaşlarını yapan Kroot, T'au'nun en vahşi ve en önemli varlığıdır — onlar, T'au'nun en ünlü ve en vahşi müttefik ırkıdır. Kroot'un en büyük özelliği, onların vahşetidir — onlar, T'au'nun en vahşi müttefikiır ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır; bir Kroot, hem bir savaşçı hem de bir avcıdır ve onların savaşı, sadece avlanmak ve öldürmek içindir. Kroot'un en ünlü özelliği, onların et yemesidir — onlar, düş
+
 ​

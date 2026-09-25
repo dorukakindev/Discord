@@ -13,6 +13,6 @@ Güç alanıyla kaplı adamantium bıçaklardan oluşan pençe eldiven; zırhı 
 
 ## Tarihçe
 
-Önkoldan çıkan üç-dört bıçaklı güç silahı; terminatorların ve assault savaşçılarının en hızlı ölüm aleti. Kesme değil rendeleme — disruption alanıyla kaplı bıçaklar zırhı kağıt gibi yırtar. Lightning Claw taşıyan bir veteran, odağı 'ölümcül hız' olarak tanımlar.
+Lightning Claw, Space Marine'lerin en hızlı ve en ölümcül yakın dövüş silahıdır; elin üstüne takılan ve her biri ayrı disruption field'a sahip pençe benzeri bıçaklardır — bir lightning claw darbesi, dört paralel kesim yapar ve onu taşıyan, Chapter'ın en hızlı savaşçısıdır. Lightning Claw'un bıçakları, disruption field'la çevrilidir — her kesim, moleküler seviyede böler ve bir Space Marine'in lightning claw'ları, bir daemon'u veya bir Chaos Marine'i saniyeler içinde parçalar; ve çift lightning claw, sekiz kesim demektir. Lightning Claw'un en ünlü kullanıcıları, Space Wolves'un Wolf Guard'ları ve diğer hızlı yakın dövüş uzmanlarıdır — onların elinde, lightning claw bir dans silahıdır ve düşman, kesildiğini anlamadan ölür. Lightning Claw, İmparatorluğun en zarif vahşetidir — onun kesimi, hem ölümcül hem de estetiktir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

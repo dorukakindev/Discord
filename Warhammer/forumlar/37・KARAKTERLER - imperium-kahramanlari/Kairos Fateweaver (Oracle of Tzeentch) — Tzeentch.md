@@ -16,8 +16,4 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/06/AOF_WEB_0_copy.jpg/re
 
 ## Tarihçe
 
-Kairos Fateweaver — 'Tzeentch'in Kahini' — iki başlı bir Lord of Change'dir; Tzeentch'e hizmet eden Lords of Change'in en güçlüsü olarak bilinen tüm gelecekleri görme yeteneğiyle kutsanmıştır. İki başı 'geçmişi bilen' ve 'geleceği bilen' olarak sürekli konuşur — 'yazgının ağzı' olarak Değişim'in en esrarengiz varlığıdır.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Gathering Storm III: Rise of the Primarch*
-
--# İlişkili kayıtlar: <#1551647728692633643>, <#1551654107058540595>, <#1551808704901423186>, <#1551809294750449746>
+Kairos Fateweaver, Tzeentch'in en ünlü ve en korkulan Greater Daemon'ıdır; iki başlı ve geleceği gören en güçlü Oracle olan Kairos, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Tzeentch'in en güçlü ve en gizli daemon'udur. Kairos'un en büyük özelliği, onun kehanetidir — onlar, geleceği gören ve Tzeentch'in en güvenilir Oracle'ıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Kairos, hem bir daemon hem de bir kehanet taşıyıcısıdır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Kairos'un en ünlü özelliği, onun iki başıdır — onlar, biri doğruyu söyleyen ve diğeri yalan söyleyen iki başa sahiptir ve onların varlığı, Tzeentch'in en gizli gücünün kanıtıdır. Kairos Fateweaver, Tzeentch'in en ünlü ve en korkulan

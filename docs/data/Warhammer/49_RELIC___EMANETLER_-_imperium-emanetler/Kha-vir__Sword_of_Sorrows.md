@@ -14,8 +14,8 @@ Emissary of Ynnead Yvraine'in taşıdığı kılıçtır. Ynnari için yalnızca
 
 ## Tarihçe
 
-Yvraine, Ynnari'nin doğuşundan itibaren Kha-vir'i taşıdı. Biel-Tan'ın ardından Ynnari, öteki Croneswords'ü aramaya koyuldu; bu arayış *Psychic Awakening: Phoenix Rising* ile genişleyen anlatıda da sürer ve henüz tamamlanmış değildir. Kılıç, Yvraine'in Roboute Guilliman'ın dirilişine katkıda bulunduğu Gathering Storm olaylarında da onun yanındaydı.
+Kha-vir, Sword of Sorrows, Aeldari'nin en ünlü ve en trajik relic'idir; bir Aeldari Phoenix Lord'un — Aeldari'nin efsanevi savaşçıları — kullandığı ve onun en büyük kayıplarının simgesi olan bir kılıçtır — onlar, Aeldari'nin en ünlü ve en trajik hazinesidir. Kha-vir'in en büyük özelliği, onun trajedisidir — onlar, bir Phoenix Lord'un en büyük kaybının simgesidir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır; bir Kha-vir kullanıcısı, hem bir savaşçı hem de bir yas tutanlardır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Kha-vir'in en ünlü özelliği, onun 'Keder Kılıcı' anlamıdır — onlar, bir Phoenix Lord'un en büyük kaybının simgesidir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Kha-vir, Aeldari'nin en ünlü ve en trajik relic'idir — onlar, bir Phoenix Lord'un kaybının ve Aeldari'nin ruhunun somut halidir.
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*; *Psychic Awakening: Phoenix Rising*
 
--# İlişkili kayıtlar: <#1552483346846715924>, <#1551742665756901377>, <#1551814468458258434>
+-# İlişkili kayıtlar: <#1552483346846715924>, <#1551742665756901377>, <#15518

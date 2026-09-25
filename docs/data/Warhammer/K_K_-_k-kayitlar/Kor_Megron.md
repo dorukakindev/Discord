@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/00/Daemon_Prince_Kor_Mae
 
 ## Tarihçe
 
-Kor Megron — 'Rhodax'ın Azraili' — Chaos Undivided'ın Daemon Prince'idir ve Heresy sırasında Word Bearers'ın Dark Apostle'ıydı. Daemonluğa yükseldikten sonra bile galaksiyi kirleten bu varlık, Cardinal World Rhodax'ın düşüşünden sorumluydu — 'dini yıkan din adamı' olarak WB tarihinin en kanlı yükselişlerinden birini yaşadı.
+Kor Megron, Chaos'un en ünlü ve en tehlikeli Chaos Lord'udur; eskiden bir Word Bearer olan ve Chaos'a yükselen Megron, İmparatorluğun en tehlikeli ve en gizli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en tehlikeli Chaos Lord'udur. Kor Megron'un en büyük özelliği, onun gücüdür — onlar, bir Chaos Lord olarak İmparatorluğun en tehlikeli düşmanlarından biridir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Megron, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Kor Megron'un en ünlü özelliği, onun Word Bearer kökenidir — onlar, bir Legion'un en tehlikeli üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Kor Megron, Chaos'un en ünlü ve en tehlikeli Chaos Lord'udur — onlar, bir ihanetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

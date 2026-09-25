@@ -16,8 +16,8 @@ Klanlar hâlinde örgütlenen, jetbike'lı Wild Rider'larıyla tanınan ve diğe
 
 ## Tarihçe
 
-Saim-Hann, Biel-Tan gibi Exodite dünyalarının savunmasına kuvvet gönderen craftworld'ler arasında anılır. Great Rift sonrasında Vigilus'ta Marneus Calgar'la gizli bir uzlaşmaya girdi: bu uzlaşma çerçevesinde bir Aeldari gemisi Abaddon'ın amiral gemisi Vengeful Spirit'e çarpıp ambarında patlayıcılar ateşledi ve Abaddon'ın geri çekilmesinde belirleyici rol oynadı.
+Saim-Hann, Aeldari ırkının en büyük ve en geleneksel Craftworld'lerinden biridir; onun sürat ve savaş geleneğiyle — hızlı savaşçıları ve jetbike'larıyla bilinen bir Craftworld'dür — onlar, Aeldari'nin en hızlı ve en geleneksel evidir. Saim-Hann'ın en büyük özelliği, onun süratidir — onlar, Aeldari'nin en hızlı savaşçılarını yetiştirir ve onların jetbike'ları, bir savaşın en hızlı gücüdür; bir Saim-Hann savaşçısı, hem bir savaşçı hem de bir sürücüdür ve onların savaşı, hem hız hem de gelenektir. Saim-Hann'ın en ünlü özelliği, onun vahşi geleneğidir — onlar, diğer Craftworld'lerden daha az disiplinli ama daha vahşi savaşçılardır ve onların varlığı, Aeldari'nin en eski geleneğinin kanıtıdır. Saim-Hann, Aeldari ırkının en hızlı ve en geleneksel Craftworld'üdür — onlar, hızın ve geleneğin somut halidir.
 
 -# Kaynaklar: *Codex: Craftworlds — 8th Edition*; *Vigilus Ablaze*; *Rise of the Ynnari: Wild Rider — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551655323658494093>, <#1551995191441883288>, <#1551638958352506881>
+-# İlişkili kayıtlar

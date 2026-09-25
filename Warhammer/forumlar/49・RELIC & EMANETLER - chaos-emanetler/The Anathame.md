@@ -10,6 +10,6 @@ The Anathame (Lanetli Bıçak), tüm Horus Heresy'yi başlatan tek silahtır; g�
 
 ## Tarihçe
 
-The Anathame, Horus'u Chaos'a çeviren lanetli silahtır — Nurgle'un yozlaşmış gücü taşıyan bu xenos bıçağı, Davin'in veba tapınağında Erebus tarafından çalındı ve yaralı Warmaster'a saplandı. Yara sıradan silahların ötesindeydi; İmparator'un oğlunu öldürülemez kılan büyüyü kırdı ve Heresy'nin fitilini ateşledi.
+The Anathame, Chaos'un en ünlü ve en trajik relic'idir; Horus'un — İmparator'un en sevgili oğlu — Chaos'a düşmesinin başlangıcı olan ve onun Davin'de yaralanmasına neden olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en trajik silahıdır. The Anathame'in en büyük özelliği, onun trajedisidir — onlar, bir primarch'ın düşüşünün başlangıcıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Anathame, bir primarch'ın Chaos'a düşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. The Anathame'in en ünlü özelliği, onun Horus'un düşüşüdür — onlar, İmparatorluğun en büyük ihanetinin simgesidir ve onların varlığı, Chaos'un en büyük zaferinin kanıtıdır. The Anathame, Chaos'un en ünlü ve en trajik relic'idir — onlar, bir primarch'ın düşüşünün ve Chaos'un zaferinin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

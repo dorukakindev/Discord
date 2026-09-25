@@ -24,6 +24,10 @@ Erebus, Interex'in koleksiyonundan anathame'yi çaldı. Bu sıradan bir soygun d
 
 Erebus'un asıl istediği bıçağın kendisiydi. Onu neden aradığı o an belli değildi; bunun uzun bir planın parçası olduğu sonradan anlaşıldı. Word Bearers, Warmaster'ı Chaos'un yörüngesine çekmeyi tasarlıyordu ve anathame, tam da böyle bir silaha gerek duyulacağı an için saklandı.
 
+## Tarihçe
+
+Anathame, Chaos'un en ünlü ve en trajik relic'idir; Horus'un — İmparator'un en sevgili oğlu — Chaos'a düşmesinin başlangıcı olan ve onun Davin'de yaralanmasına neden olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en trajik silahıdır. Anathame'in en büyük özelliği, onun trajedisidir — onlar, bir primarch'ın düşüşünün başlangıcıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Anathame, bir primarch'ın Chaos'a düşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Anathame'in en ünlü özelliği, onun Horus'un düşüşüdür — onlar, İmparatorluğun en büyük ihanetinin simgesidir ve onların varlığı, Chaos'un en büyük zaferinin kanıtıdır. Anathame, Chaos'un en ünlü ve en trajik relic'idir — onlar, bir primarch'ın düşüşünün ve Chaos'un zaferinin somut halidir.
+
 ## Davin: Warmaster'ın Yarası
 Bıçağın kaderi, Graham McNeill'in *False Gods* romanında tamamlandı. Davin dünyasının yönetimi Horus'un güvendiği bir komutana, **Eugan Temba**'ya bırakılmıştı; Temba'nın isyan ettiği haberi gelince Warmaster bizzat dünyanın uydusuna indi. Orada, Warp'ın çürüttüğü askerlerin arasında eski yoldaşıyla yüzleşti.
 

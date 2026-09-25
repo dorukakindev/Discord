@@ -16,8 +16,8 @@ Fulgrim'in düşüşünün aracı olarak anlatılan kılıçtır. Fısıltılar�
 
 ## Tarihçe
 
-Laer'den sonra Emperor's Children'da duyuların sınırını zorlayan bir kültür filizlendi. Daemon'un kışkırtmasıyla Fulgrim'in Ferrus Manus'a duyduğu kırgınlık kine dönüştü. Isstvan V'te Fulgrim bu kılıcı çekti; romana göre son anda merhameti düşünse de kılıç onun iradesinin ötesinde hareket ederek Ferrus Manus'un başını gövdesinden ayırdı.
+Laer kılıcı, Chaos'un en ünlü ve en trajik relic'idir; Fulgrim'in — Emperor's Children'ın primarch'ı — Laer'dan — bir xeno gezegeni — aldığı ve onun Chaos'a düşmesinin başlangıcı olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en trajik silahıdır. Laer kılıcının en büyük özelliği, onun trajedisidir — onlar, bir primarch'ın düşüşünün başlangıcıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Laer kılıcı, bir primarch'ın Chaos'a düşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Laer kılıcının en ünlü özelliği, onun Fulgrim'in düşüşüdür — onlar, bir primarch'ın Chaos'a düşmesinin simgesidir ve onların varlığı, Chaos'un en büyük zaferinin kanıtıdır. Laer kılıcı, Chaos'un en ünlü ve en trajik relic'idir — onlar, bir primarch'ın düşüşünün ve Chaos'un zaferinin somut halidir.
 
 -# Kaynaklar: *Fulgrim — Graham McNeill*; *Codex: Emperor's Children*
 
--# İlişkili kayıtlar: <#1551650243865477191>, <#1551813750305198101>, <#1551649069817008243>, <#1551754688008032321>
+-# İlişkili kayıtlar: <#155

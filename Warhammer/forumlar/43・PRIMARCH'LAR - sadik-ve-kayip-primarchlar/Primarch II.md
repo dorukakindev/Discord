@@ -12,4 +12,7 @@ Kanonik anlatı, bu boşluğu bilinçli olarak bir gizem olarak korur; Games Wor
 
 ## Kayıp Primarch
 II. Lejyon'un Primarch'ı, İmparator'un yirmi oğlundan biriydi ve kayıtlardan tamamen silindi: adı, dünyası, eseri, hatta suçu bilinmiyor. Bilinen tek şey şu — İmparatorluk kayıtlarında Lejyon II ve XI "unutulmuş ve tasfiye edilmiş" olarak geçer; heykelleri yıkıldı, isimleri söylenmez. Lorgar bir keresinde Magnus'a kayıp kardeşlerinden bahsetmeyi yasakladığı için İmparator'u suçlamıştı; Horus ise II'nin kaybının "nereye kadar sürüklenebileceğinin" işareti olduğunu söyler. Bazı teoriler II'nin lejyonunun Ultramarines'a katıldığını öne sürer — Ultramarines'ın garip şekilde büyük sayısı bunu destekler.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Primarch II, İmparatorluğun en gizli ve en trajik figürüdür; İmparator tarafından yaratılan 20 primarch'tan ikincisi olan ve kaybolan Primarch II, İmparatorluğun en gizli ve en trajik varlığıdır — onlar, İmparatorluğun en gizli ve en trajik primarch'ıdır. Primarch II'nin en büyük özelliği, onun gizliliğidir — onlar, kaybolan bir primarch'tır ve onların varlığı, İmparatorluğ

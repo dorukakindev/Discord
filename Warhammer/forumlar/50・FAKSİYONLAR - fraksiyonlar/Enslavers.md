@@ -14,6 +14,4 @@ Enslaver'ların tarihi, 'Eski Savaş' (War in Heaven) kadar eskidir — Necronla
 
 ## Tarihçe
 
-Enslavers, Warp ile gerçeklik sınırında yaşayan parazitik varlıklardır; psyker'ların zihnine tutunup onları kukla gibi kullanarak maddi aleme sızarlar. Bir kez yerleştiler mi tüm psyker ağını ele geçirebilirler — İmparatorluk'un en korkulan psişik parazitleri.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Enslavers, WH40K evreninin en sinsi ve en tehlikeli varlıklarından biridir; Warp'ta yaşayan ve psyker'ların zihnini ele geçiren parazit varlıklardır — onlar, İmparatorluğun en gizli ve en tehlikeli iç düşmanlarından biridir. Enslavers'ın en büyük özelliği, onların zihin kontrolüdür — onlar, bir psyker'ın zihnini ele geçirir ve onu kendi köleleri yapar; bir Enslaver, bir gezegenin ruhu

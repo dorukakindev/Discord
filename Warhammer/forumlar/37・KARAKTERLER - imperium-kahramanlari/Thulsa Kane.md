@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/84/Executioners_Chapter_
 
 ## Tarihçe
 
-Thulsa Kane, Executioners chapter'ının yüksek rahibi (High Chaplain), 'High Mortiurge'ü ve 'Ölülerin Sözcüsü'dür. Tek gözlü, korku verici görünümüyle chapter'ın en fanatik figürüdür; Badab Savaşı'ndaki ağır kayıplardan sonra Executioners'ın 'kan-borcu' doktrinini bizzat yaşatan isimdir. Savaş alanında hem din adamı hem de en acımasız cellat rolünü üstlenir; Red Tithe'ın borcunu ödemeyi reddeden düşmanlara karşı chapter'ın intikam mekanizmasının ta kendisidir.
+Thulsa Kane, Executioners'ın en ünlü ve en korkulan High Chaplain'ıdır; 'Old Night' olarak bilinen ve Executioners'ın en yüksek rahip rütbelisi olan Kane, İmparatorluğun en korkulan ve en ölümcül rahibidir — onlar, Executioners'ın en ünlü ve en korkulan üyesidir. Thulsa Kane'in en büyük özelliği, onun korkusudur — onlar, 'Old Night' olarak bilinen ve Executioners'ın en korkulan rahibidir ve onların varlığı, Executioners'ın en büyük gücünün kanıtıdır; bir Kane, hem bir rahip hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Thulsa Kane'in en ünlü özelliği, onun Executioners'ın lideridir — onlar, İmparatorluğun en acımasız Chapter'ının en korkulan rahibidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Thulsa Kane, Executioners'ın en ünlü ve en korkulan High Chaplain'ıdır — onlar, bir rahibin ve İmparatorluğun en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

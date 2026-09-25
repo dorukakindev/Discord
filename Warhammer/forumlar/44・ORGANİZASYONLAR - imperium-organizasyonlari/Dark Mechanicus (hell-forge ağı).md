@@ -16,6 +16,4 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Archmagos-Dray2.jpg/r
 
 ## Tarihçe
 
-Heresy'de hain Legion'ların sanayi gücü olan Dark Mechanicum, geri çekilişin ardından Eye of Terror'daki daemon world'lerde et, metal ve daemon arasında sınır tanımayan bir zanaat geliştirdi. Iron Warriors ile hell-forge'lar arasındaki yakın ilişki özellikle öne çıkar. Arks of Omen'de ortaya çıkan Vashtorr, daemonic zanaatla ilişkilendirilen bir varlık olarak bu dünyaya yeni bir boyut ekledi.
-
--# Kaynaklar: *Mechanicum — Graham McNeill*; *Codex: Chaos Space Marines — 10th Edition*; *Codex: Chaos Knights*
+Dark Mechanicus, Chaos'a düşmüş Adeptus Mechanicus'un karşıtıdır; Mars'ın iç savaşında (Horus Heresy'de) İmparator'a ihanet eden Tech-priest'lerin kurduğu ve bugün Hell-forge'lerde Daemon Engine'ler, yozlaşmış teknoloji ve Warp-makine hibritleri üreten korku kurumudur. Dark Mechanicus'un üretimi, Mechanicus'un kâbusudur — onlar makineyi değil, demonu kutsar; Hell-forge'lerde üretilen her şey, yaşayan ve acı çeken bir varlıktır — Daemon Engine'ler, Possessed silahlar ve Warp-powered zırhlar. Dark Mechanicus'un en büyük gücü, Chaos'un teknolojik altyapısıdır — onlar olmadan Chaos warband'lerinin silahları, araçları ve Daemon Engine'leri olmaz; ve onlar

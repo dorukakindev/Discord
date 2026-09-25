@@ -16,8 +16,4 @@ Black Templars'ın Emperor's Champion'ının taşıdığı kılıçtır. Savaş 
 
 ## Tarihçe
 
-Chapter, Sigismund'un Heresy sonrasında başlattığı Crusade'i hiç bitmemiş tek bir sefer olarak okur; Emperor's Champion bu okumanın en görünür simgesidir. Her yeni Champion'ın seçilişi Chapter'ın gözünde ilahî bir işaret sayılır ve kılıç, seçilmişliğin nişanıdır.
-
--# Kaynaklar: *Codex Supplement: Black Templars — 10th Edition*; *Sigismund: The Eternal Crusader — John French*
-
--# İlişkili kayıtlar: <#1551637696466788466>, <#1551636479925559479>, <#1551809039342501970>, <#1551650286559559741>
+Black Sword (Emperor's Champion geleneği), İmparatorluğun en ünlü ve en kutsal relic geleneğidir; her Black Templars Chapter'ının bir Emperor's Champion'unun — İmparator'un seçilmiş şampiyonu — kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, İmparatorluğun en ünlü ve en kutsal geleneğidir. Black Sword'ın en büyük özelliği, onun kutsallığıdır — onlar, bir Emperor's Champion'un silahıdır ve onların varlığı, İmparatorluğun en kutsal geleneğinin kanıtıdır; bir Black Sword kullanıcısı, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Black Sword'ın en ünlü özelliği, onun Emperor's Champion geleneğidir — onlar, İmparator'un en kutsal şampiyonunun simgesidir ve onların varlığı, İmparatorluğun dininin somut halidir. Bl

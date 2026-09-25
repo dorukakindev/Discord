@@ -73,4 +73,8 @@ Nurgle ve Tzeentch, 1990'da yayımlanan *Realm of Chaos: The Lost and the Damned
 **Kaynaklar:** *Codex: Chaos Daemons*; *Codex: Death Guard*; *Dark Imperium: Plague War — Guy Haley*; *The Lords of Silence — Chris Wraight*; *Realm of Chaos: The Lost and the Damned*; *Warhammer 40,000 Core Book — 10th Edition*
 **Çapraz:** **kayıt**, **kayıt**, **kayıt**, **kayıt**, **kayıt**, **kayıt**, **kayıt**, **kayıt**
 
+## Tarihçe
+
+Nurgle, Chaos'un en ünlü ve en tiksindirici tanrısıdır; veba, çürüme ve 'sevgi'nin tanrısı olan ve onun en sinsi operasyonlarını yöneten Nurgle, Chaos'un en tiksindirici ve en tehlikeli gücüdür — onlar, Chaos'un en ünlü ve en tiksindirici tanrısıdır. Nurgle'un en büyük özelliği, onun vebasıdır — onlar, veba ve çürümenin tanrısıdır ve onların varlığı, Chaos'
+
 ​

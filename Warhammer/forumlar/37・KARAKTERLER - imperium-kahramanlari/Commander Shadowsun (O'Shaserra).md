@@ -16,8 +16,4 @@ Shadowsun, T'au Empire'ın en önde gelen Fire Caste komutanlarından biri olara
 
 ## Tarihçe
 
-Commander Shadowsun — kendi halkı arasında Shas'O Shaserra — 'Greater Good'un Mizrakbaşı', 'Puretide'ın Gerçek Öğrencisi', 'Üçüncü Küre Genişlemesinin Kahramanı' olarak bilinir; T'au Fire Caste'in askeri seferinin komutanıdır. Stealth battlesuit'leriyle 'görünmez general' olarak T'au'nun en ünlü saha komutanıdır.
-
--# Kaynaklar: *Shadowsun: The Last of Kiru's Line — Justin D. Hill*; *War Zone Damocles: Kauyon*; *Psychic Awakening: The Greater Good*; *Codex: T'au Empire — 10th Edition*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>, <#1551813361887617108>
+Commander Shadowsun (O'Shaserra), T'au Empire'ın en ünlü ve en ölümcül komutanıdır; Puretide'in öğrencisi olan ve T'au'nun en büyük savaşlarını yöneten Shadowsun, T'au'nun en saygın ve en tehlikeli askeri lideridir — onlar, T'au'nun en ünlü ve en ölümcül komutanıdır. Shadowsun'un en büyük özelliği, onun taktiksel zekasıdır — onlar, T'au'nun en iyi stratejistidir ve onların komutası, T'au'nun en büyük zaferlerinin kanıtıdır; bir Shadowsun komutası, bir savaşın en kritik anının en büyük avantajıdır ve onların varlığı, T'au'nun en büyük gücünün somut halidir. Shadowsun'un en ünlü görevi, İmparatorluğa karşı savaşmasıdır — onlar, Damocles Gulf Crusade'de İmparatorluğu geri püskürten ve T'au'nun en büyük zaferini kazanan komutanlardır ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır. Commander Shadowsun, T'au Empire'ın en ünlü ve en ölümcül komutanıdır — onlar, taktiksel zekanın ve T'au'nun en büyük gücünün s

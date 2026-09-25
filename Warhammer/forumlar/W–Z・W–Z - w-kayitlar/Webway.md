@@ -21,6 +21,10 @@ Old Ones'ın çekilmesinin ardından Aeldari, Webway'in varisi oldu ve onu kadim
 
 Fall, Webway'e ağır bir darbe indirdi. Slaanesh'in doğuşuyla birlikte ağın bazı bölümleri çöktü, bazıları Warp'ın etkisine açıldı; imparatorluğun kalbindeki dünyalar Eye of Terror'ın içinde kalıp Crone Worlds'e dönüşünce onlara giden geçitlerin pek çoğu ya kapandı ya da ölümcül hâle geldi. Hayatta kalan Aeldari, Webway'in geri kalan bölümlerini mühürleyerek ya da tamir ederek kullanmaya devam etti.
 
+## Tarihçe
+
+Webway, Old Ones tarafından milyonlarca yıl önce inşa edilmiş boyutlararası tünel ağıdır; Warp'ın içine oyulmuş ama onun kaosundan korunmuş gerçeklik kanallarından oluşur ve galaksinin her noktasını anında birbirine bağlar. Eldari'ler onu şu an kullanan tek büyük güçtür — Webway üzerinden savaş, ticaret ve haberleşme yaparlar ve bu ağ onların İmparatorluk karşısındaki en büyük stratejik avantajıdır. Emperor of Mankind da Webway'e erişmeye çalıştı — Terra'da gizli bir
+
 ## Commorragh, Harlequin'ler ve Black Library
 
 Webway'in bugünkü sakinleri arasında en belirgin olanları Drukhari'dir. Commorragh, Webway içinde kurulmuş en büyük şehir olarak bilinir; alt âlemleri, çalınmış güneşleri ve sayısız kapısıyla Webway'in bir bölümünü tamamen kendi hâkimiyeti altına almıştır. Commorragh'ın realspace'e açılan kapıları, Drukhari baskınlarının galaksinin herhangi bir noktasına ulaşabilmesini sağlar.

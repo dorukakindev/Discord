@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9e/NoiseMarinesMinis10th
 
 ## Tarihçe
 
-Fulgrim'in Legion'u kusursuzluk arayışını Slaanesh'e bağladıkça bazı savaşçılar duyularının sınırlarını zorlamaya başladı; Kakophoni bu yolun ilk örgütlü biçimidir. Heresy'den sonra Legion warband'lere dağılırken Noise Marines Emperor's Children'ın en tanınan simgelerinden biri oldu. Fulgrim'in Era Indomitus'ta Legion'la yeniden birleşmesi, bu savaşçıları yeniden bir Primarch'ın sancağı altında topladı.
+Noise Marines, Emperor's Children Legion'unun Slaanesh'e adanmış savaşçılarıdır; ses, müzik ve aşırı duyusal uyaranı silah olarak kullanan ve bu yüzden hem savaşçı hem de sanatçı olan yozlaşmış birimlerdir. Noise Marine'in silahı sonic weapon'dur — sonic blaster, blastmaster veya doom siren; bu silahlar ultra-yüksek frekanslı ses dalgaları üretir ve hedefin beynini, iç organlarını veya zırhını titreşimle parçalar. Noise Marines için savaş bir performanstır — onların amacı sadece öldürmek değil, en güzel sesi, en mükemmel çığlığı ve en aşırı duyguyu üretmektir; Slaanesh için savaş sanattır ve Noise Marines bu sanatın ustalarıdır. Noise Marines'in duyuları o kadar yükseltilmiştir ki normal dünya onlara soluk gelir — bu yüzden sürekli daha yüksek ses, daha güçlü duygu ve daha aşırı deneyim ararlar; sonuç, tamamen kendi arzularına köle olmuş bir savaşçıdır.
 
--# Kaynaklar: *Codex: Emperor's Children — 10th Edition*; *Fulgrim — Graham McNeill*; *Angel Exterminatus — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551813750305198101>, <#1551650243865477191>, <#1551754688008032321>, <#1551812225570836561>
+-# Kayna

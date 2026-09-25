@@ -12,4 +12,7 @@ Fulgrim, ölmekte olan maden dünyası Chemos'a düştü; gezegen kaynakları t�
 
 ## Ele Geçirilme ve Düşüş
 Laeran tapınağında bulduğu gümüş kılıç aslında bir Slaanesh iblisinin zindanıydı; Fulgrim silahı kuşandıkça iblis onun mükemmeliyet açlığını besledi, sonra bedenine el koydu. Kendi bedenine hapsolan Fulgrim, iblisin Isstvan V'te Ferrus Manus'u öldürmesini izledi; bu cinayet onu paramparça etti ama iblisin kontrolü tamdı. Daha sonra ruhu bedenini geri aldı ve Fulgrim tamamen Slaanesh'e teslim oldu — dört kollu yılan benzeri bir İblis Primarch'a yükseldi. Bugün bilinmeyen bir zevk dünyasında hüküm sürer; son kayda değer çıkışı, bir iblis ordusunun başında ortaya çıkıp bir Primaris şirketini yok etmesiydi.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Fulgrim, Emperor's Children'ın en ünlü ve en trajik primarch'ıdır; Chemos'un — Emperor's Children'ın ev gezegeni — en güzel ve en mükemmel figürü olan ve Emperor's Children'ı Chaos'a çeken Fulgrim, İmparatorluğun en trajik ve en tehlike

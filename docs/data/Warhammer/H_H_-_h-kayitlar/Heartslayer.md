@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Mark_of_Slaanesh.png/
 
 ## Tarihçe
 
-Heartslayer — gerçek adı Ail'Slath'Sleresh — Slaanesh'in Keeper of Secrets'ıdır ve Aeldari Craftworld Kher-Ys'in düşüşünde kilit rol oynadı. Ruh bakımından zengin ve Eye of Terror'a tehlikeli yaklaşan bu Asuryani dünyasını arzulayan Dark Prince, Heartslayer'ı içeriye sızdırdı — 'calatdan içinden çalınan' felaket olarak craftworld'ün trajedisinin efendisi oldu.
+Heartslayer, Chaos'un en ünlü ve en trajik Daemon Prince'idir; eskiden bir Space Marine olan ve Chaos'a yükselen Heartslayer, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en trajik daemon'udur. Heartslayer'ın en büyük özelliği, onun trajedisidir — onlar, bir Space Marine'in Chaos'a düşüşünün en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Heartslayer, hem bir daemon hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Heartslayer'ın en ünlü özelliği, onun 'Heartslayer' lakabıdır — onlar, Chaos'un en trajik ve en tehlikeli daemon'ıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Heartslayer, Chaos'un en ünlü ve en trajik Daemon Prince'idir — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

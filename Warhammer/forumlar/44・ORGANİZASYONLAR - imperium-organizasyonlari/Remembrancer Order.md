@@ -16,8 +16,4 @@ Remembrancer'lar, Great Crusade'i kayda geçirmekle görevlendirilen sanatçıla
 
 ## Tarihçe
 
-Sivillerin savaş filolarına eklenmesi Legion'larda her zaman sevinçle karşılanmadı; kimi Astartes onları bir yük, kimi bir denetim aracı olarak gördü. *Horus Rising* ile başlayan seri, Remembrancer'ların gözünden Luna Wolves'u ve Warmaster'ı yakından gösterir. Heresy'nin patlamasıyla bu sivillerin çoğu ihanetin ortasında kaldı; kimi öldürüldü, kimi kaçtı, kimi de filolarda doğan yeni inançların parçası oldu. Euphrati Keeler, Lectitio Divinitatus geleneğiyle özdeşleşen bir figüre dönüştü.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *False Gods — Graham McNeill*; *Galaxy in Flames — Ben Counter*
-
--# İlişkili kayıtlar: <#1551814367203303506>, <#1551814951365115956>, <#1551809114328399874>, <#1551651549804236801>
+Remembrancer Order, Büyük Haçlı Seferi döneminde İmparator tarafından kurulan ve savaşın, zaferlerin ve trajedilerin kaydedilmesini sağlayan tarihçi, sanatçı ve yazarlardan oluşan kurumdur; onların görevi, İmparatorluğun yükselişini gelecek nesillere anlatmaktı. Remembrancer'lar her türlü sanatçıydı — ressam, heykeltıraş, yazar, tarihçi ve fotoğrafçı; onların eserleri, Büyük Haçlı Seferi'nin görsel ve yazısal kaydıydı ve onların varlığı, İmparator'un insanlığa bir hikâye verme isteğinin parçasıydı. Remembrancer Order, Horus Heresy'de trajik bir rol oynadı — bazıları Heresy'nin ilk tanıkları oldu ve onların kayıtları, ihanetin ilk kanıtlarıydı; ama çoğu, ihanet sırasında öldürüldü çünkü gerçeği kaydetmek, hainlerin en büyük düşmanıydı. Remembrancer Order'ın mirası, İmparatorluğun en değerli arşividir — onların eserleri, Büyük Ha

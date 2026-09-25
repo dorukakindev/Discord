@@ -12,6 +12,4 @@ Navigator'ın üçüncü gözü (Warp Eye), hem lütuf hem lanettir: açıldığ
 
 ## Tarihçe
 
-Navigator soyunun genetik mirası; Warp'ta yol gösterme yeteneğinin kaynağı. Soyhanedanların en büyük serveti — gerçek iktidar burada.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Navigator soyu, insanlığın Warp'ta güvenli seyahat edebilmesini sağlayan mutasyona uğramış seçkin bir kan hattıdır; üyelerinin alnında Warp'ı doğrudan algılayabilen üçüncü bir göz bulunur. Bu mutasyon Dark Age of Technology'de kasıtlı olarak üretildi — Navigator geni laboratuvar ortamında yaratıldı ve nesiller boyu titizlikle korunarak Navis Nobilite'nin büyük hanedanları arasında aktarıldı. Üçüncü göz Warp'ın akıntılarını görür ve

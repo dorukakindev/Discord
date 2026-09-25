@@ -12,6 +12,6 @@ Kriz, Montar Sistemi'ne giren bir Ork Space Hulk'ı ile başladı; bu devasa enk
 
 ## Tarihçe
 
-Armageddon kayıtlarındaki iç savaş mevzi katliamı; Ork'larla savaşın insan-insan çatışmasına dönüştüğü karanlık olay. İmparatorluk'un kendi vahşetinin kaydı.
+Big Toof Nehri Katliamı, Ork'ların İmparatorluk'a yönelik en vahşi katliamlarından biridir. Bu olay, Ork'ların Big Toof Nehri'nde İmparatorluk askerlerine saldırmasıyla başladı; katliam sırasında binlerce İmparatorluk askeri hayatını kaybetti. Olay, İmparatorluk'un Ork tehdidinin ne kadar büyük olduğunu gösteren en çarpıcı örnektir ve İmparatorluk'un savunma stratejilerini etkiledi. Big Toof Nehri Katliamı, İmparatorluk tarihindeki en vahşi olaylardan biri olarak anılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

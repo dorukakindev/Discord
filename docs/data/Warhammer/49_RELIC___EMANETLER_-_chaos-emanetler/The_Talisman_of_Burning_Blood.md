@@ -12,6 +12,6 @@ Tılsımın gücü, taşıyıcısını dönüştürür; kalbinde Khorne'un kanl�
 
 ## Tarihçe
 
-The Talisman of Burning Blood, Khorne'un damgasını taşıyan daemonik emanettir; taşıyıcısını durmaksızın kanlı bir savaş coşkusuna iter. Her vuruşunda Blood God'ın onayı hissedilir; Chaos'un savaş-tapınaklarında saklanan, sahibini kendi kan açlığına kurban edebilen çift uçlu bir nimettir.
+The Talisman of Burning Blood, Chaos'un en ünlü ve en korkulan relic'idir; bir World Eaters savaşçısının — Khorne'un en sadık takipçisi — kullandığı ve onun en büyük katliamlarının simgesi olan bir tılsımdır — onlar, Chaos'un en ünlü ve en korkulan hazinesidir. The Talisman of Burning Blood'ın en büyük özelliği, onun vahşetidir — onlar, bir Khorne kültistinin en vahşi tılsımıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Talisman of Burning Blood kullanıcısı, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece kan ve kafatası içindir. The Talisman of Burning Blood'ın en ünlü özelliği, onun Khorne'un gücüdür — onlar, bir kan tanrısının en büyük gücünün simgesidir ve onların varlığı, Chaos'un en vahşi gücünün kanıtıdır. The Talisman of Burning Blood, Chaos'un en ünlü ve en korkulan relic'idir — onlar, bir kan tanrısının gücünün ve Chaos'un vahşetinin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

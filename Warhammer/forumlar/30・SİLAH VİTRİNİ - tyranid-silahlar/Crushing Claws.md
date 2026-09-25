@@ -3,14 +3,19 @@
 
 -# *Ezici Pençeler*
 
-Carnifex ve büyük biyoformların hidrolik basınçlı dev kıskaçları; bir tankı kavrayıp hurdaya çevirebilir. Yavaştır ama tuttuğunu bırakmaz.
+En büyük Tyranid organizmalarının taşıyabildiği, yengeç benzeri dev kıskaçlardır; tek savuruşta birden çok düşmanı ezebilir ya da en kalın araç zırhını kesebilir. Yavaştır, ama yakaladığını bırakmaz.
 
-
-## Teknik ve Kullanım
-Tyranid silahları canlı organizmalardır: biyo-toplar asit, zehir, iğne veya canlı mermi fırlatır ve her biri Hive Mind'ın kolektif tasarımının parçasıdır. Bonesword veya devourer gibi organlar kendi 'yaşam' döngüsüne sahiptir — tyranid silahı kullanıldıktan sonra beslenir, beslenemezse ölür.
+- **Kategori:** Biyolojik yakın dövüş organı — <#1551629122592182382>
+- **Fraksiyon:** Tyranids
+- **Dönem:** M41'in ikinci yarısından Era Indomitus'a
+- **Köken:** Hive Mind'ın biyolojik tasarımıdır; taşıyıcı biyoformun ön uzuvlarının yerini alır.
+- **Teknik / Biyolojik Özellikler:** Muazzam kütleleri ancak Carnifex sınıfı biyoformların kaldırabileceği devasa kıskaçlardır; biyolojik kas gücüyle plaka zırhı ve kemik aynı kolaylıkla kırarlar.
+- **Bilinen Kullanıcılar / Operatörler:** Carnifex'ler; daha da büyütülmüş hali Tervigon gibi devasa biyoformlarda görülür.
+- **Önemli Olaylar:** Kaynaklarda tek bir olayla özdeşleşmez.
+- **Kanon Notu:** Tervigon'un taşıdığı genişletilmiş varyant Monstrous Crushing Claws olarak ayrı kataloglanır.
 
 ## Tarihçe
 
-Tyranid'in dev kırıcı pençeleri; Carnifex ve Hive Tyrant'ın taşıdığı atomik güç. Adamantium plakayı bile ezen biyolojik mühendislik — Sürü'nün elindeki en ağır 'yumruk'.
+Carnifex'in simgesi olan bu kıskaçlar, Sürü'nün canlı tank-avcısı anatomisinin en ağır yumruğudur. Kaynaklara göre tek savuruşta birden çok düşmanı yok edebilecek ya da en sert araç zırhını kesebilecek güçtedir; bunker kapılarını ve adamantium plakayı büken bu pençeler, yavaşlıklarıyla dengelenir — ancak tutunacak bir şey bulduklarında sonuç kaçınılmazdır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

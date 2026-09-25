@@ -15,12 +15,4 @@ Word Bearers'ın Ultramarines'e ansızın saldırdığı ve Calth'ın yüzeyini 
 
 ## Tarihçe
 
-Baskın yörüngede başladı; orbital savunmalar ve gezegenin yıldızı Veridian zarar görünce yüzey yaşanmaz oldu. Hayatta kalanlar yeraltı sığınaklarına çekildi ve Underworld War adıyla anılan uzun, karanlık çatışma başladı. Word Bearers'ın Calth'ta yürüttüğü ayin Ruinstorm'u doğurarak Ultramar'ı Terra'dan ve Astronomican'dan kopardı.
-
-## Teknik / Biyolojik Özellikler
-
-Sonuç: Ultramarines ağır kayıplar verdi; Ruinstorm Heresy'nin geri kalanında haberleşme ve seyir düzenini bozdu. Lorgar ve Angron bu kargaşada Shadow Crusade'i yürüttü.
-
--# Kaynaklar: *Know No Fear — Dan Abnett*; *The First Heretic — Aaron Dembski-Bowden*; *Mark of Calth*
-
--# İlişkili kayıtlar: <#1551809394226765939>, <#1551638953101365340>, <#1551808704901423186>, <#1551816346268999763>, <#1551809577425575998>
+Calth Baskını ve Underworld War, Horus Heresy'nin en acımasız ve en önemli savaşıdır; Word Bearers'ın Calth'a — Ultramar'ın en önemli dünyalarından birine — sürpriz saldırısı ve Ultramarines'in en büyük kaybıdır — onlar, Heresy'nin en acımasız baskınının ve en büyük trajedisinin somut halidir. Calth Baskını'nın en büyük özelliği, onun sürprizidir — onlar, bir savaşın en acımasız baskınıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Calth Baskını, bir gezegenin en acımasız halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Calth Baskını'nın en ünlü özelliği, onun Underworld War'udur — onlar, Calth'ın yüzeyinin altında devam eden savaştır ve onların varlığı, İmparatorluğun en uzun ve en acımasız savaşının kanıtıdır. Calth Baskını ve Underworld War, Horus Heresy'nin en acımasız ve en önemli savaşıdır — onlar, İmparatorluğun en büyük kaybının ve en büyük trajedisinin somut

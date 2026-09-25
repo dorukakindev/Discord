@@ -8,8 +8,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Imperial_Guard_Sentin
 Döner namlulu hızlı lazer topu; Chimera kulesinin standart silahı. Piyade hatlarını ışık yağmuruyla süpürür.
 
 ## Tarihçe
-Multi-Laser, lascannonun delici gücünden vazgeçip atış hızını seçer: döner namlu grupları saniyede onlarca lazer atımı yağdırır. Tek atımı orta sıkletteki hedefler için yeterlidir ve enerji tabanlı olduğu için cephane sorunu yaşamaz. Chimera zırhlı taşıyıcısının kulesinde milyonlarcası hizmet eder; Muhafız taktiklerinde rolü nettir: piyade indirme yapılırken düşman hattını kurşun yerine ışıkla süpürmek.
 
+Multi-Laser, İmparatorluğun en ünlü ve en yaygın ağır silahıdır; onların İmparatorluk'un en yaygın ve en ölümlü lazer silahı olan ve onun en zorlu savaşlarını yapan Multi-Laser, İmparatorluğun en yaygın ve en ölümlü silahıdır — onlar, İmparatorluğun en ünlü ve en yaygın ağır silahıdır. Multi-Laser'ın en büyük özelliği, onun yaygınlığıdır — onlar, İmparatorluk'un en yaygın ağır lazer silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Multi-Laser, hem bir silah hem de bir destek silahıdır ve onların varlığı, İmparatorluğun en büyük silahının somut halidir. Multi-Laser'ın en ünlü özelliği, onun Chimera üzerindeki kullanımıdır — onlar, Muhafız'ın en ünlü taşıyıcı aracının en yaygın silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Multi-Laser, İmparatorluğun en ünlü ve en yaygın ağır silahıdır — onlar, bir yaygınlığın ve İmparatorluğun en büyük silahının somut halidir.
 
 ## Teknik ve Kullanım
 Las silahları tutarlı foton ışını üretir: güneşle şarj edilebilen hücreleri, neredeyse sıfır geri tepmesi ve mermi 'tükenmezliği' ile İmparatorluk'un en güvenilir silah ailesidir. Lascannon gibi ağır tipler tank avcısı olarak kullanılırken lasgun, 'Hammer of the Emperor' olarak milyonlarca Guardsman'ın standart silahıdır.

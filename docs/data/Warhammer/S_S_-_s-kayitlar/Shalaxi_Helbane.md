@@ -18,6 +18,6 @@ Slaanesh'in en büyük Keeper of Secrets'ı; Phoenix Lord'ları ve İblis Primar
 
 ## Tarihçe
 
-Shalaxi Helbane ('Avın Hükümdarı'), Slaanesh'in Keeper of Secrets'ıdır — ama sıradışı bir avcı: tercih ettiği av diğer Dark Gods'ın en büyük şampiyonları, özellikle Khorne'un Bloodthirster'larıdır. 'Daemon avlayan daemon' olarak Büyük Oyun'da Slaanesh'in en keskin silahıdır.
+Shalaxi Helbane, Slaanesh'in en ünlü ve en korkulan Greater Daemon'ıdır; diğer Greater Daemon'ları avlayan ve onları yenen en tehlikeli daemon olan Helbane, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Slaanesh'in en ünlü ve en korkulan daemon'udur. Shalaxi Helbane'ın en büyük özelliği, onun avcılığıdır — onlar, diğer Greater Daemon'ları avlayan ve onları yenen en tehlikeli daemon'dur ve onların varlığı, Slaanesh'in en büyük gücünün kanıtıdır; bir Helbane, hem bir daemon hem de bir avcıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Shalaxi Helbane'ın en ünlü özelliği, onun 'Helbane' lakabıdır — onlar, Greater Daemon'ların en korkulan düşmanıdır ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Shalaxi Helbane, Slaanesh'in en ünlü ve en korkulan Greater Daemon'ıdır — onlar, bir avcının ve Chaos'un en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Psychic Awakening* kaynakları

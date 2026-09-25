@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Tyranid_Biovore.jpg/r
 
 ## Tarihçe
 
-Biovore (Tyranicus patris-boletus), Tyranid sürülerinin güçlü 'canlı topçu' silahıdır; bodur, tümsekli bedeninin derinliklerinde bir dizi Spore Mine — canlı bomba — besler ve savaş alanını asit, zehir ve iğne bulutlarıyla kaplar. 'Yürüyen cephane fabrikası' olarak menzilinin ötesinden ölüm yağdıran bu varlık, piyadeyi vahşice değil stratejik olarak ezer.
+Biovore, Tyranid'in en büyük ve en ölümcül canlı topçu yaratığıdır; bir Tyranid ordusunun en büyük biyolojik topçu birliği olan ve onun en büyük savaşlarını yapan Biovore, Tyranid'in en büyük ve en ölümcül varlığıdır — onlar, Tyranid'in en büyük ve en ölümcül canlı topçu yaratığıdır. Biovore'un en büyük özelliği, onun topçuluğudur — onlar, bir Tyranid ordusunun en büyük biyolojik topçu birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Biovore, hem bir yaratık hem de bir topçu birliğidir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Biovore'un en ünlü özelliği, onun canlı topçu olmasıdır — onlar, bir Tyranid ordusunun en büyük biyolojik silahıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Biovore, Tyranid'in en büyük ve en ölümcül canlı topçu yaratığıdır — onlar, bir topçunun ve Tyranid'in en büyük tehdidinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -22,8 +22,4 @@ Spore mine yetiştiren keseler, fırlatma için güçlü kas yapısı, kalın ki
 
 ## Kanon Notu
 
-Spore mine'lar yalnızca Biovore'dan değil, başka organizmalardan ve yörüngeden bırakılan sporlardan da gelebilir; kaynaklar bunları aynı biyolojik silah ailesi içinde ele alır.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+Spore mine'lar yalnızca Bio

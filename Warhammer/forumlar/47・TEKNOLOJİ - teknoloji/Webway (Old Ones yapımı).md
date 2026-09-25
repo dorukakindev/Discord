@@ -16,8 +16,6 @@ Realspace ile Warp arasında uzanan, ikisinden de ayrı duran bir tüneller, ge�
 
 ## Tarihçe
 
-Webway, Old Ones için hem ulaşım hem savunma sistemiydi. War in Heaven'da Necron'lar ve C'tan onu parçalamak için bütün güçlerini seferber ettiğinde ağ bir sığınağa dönüştü. Old Ones'ın çekilişinden sonra ağı Aeldari devraldı; Fall of the Aeldari'de büyük bölümü yıkıldı, mühürlendi ya da Warp'a açıldı. Emperor'ın Terra'nın altındaki gizli projesi, bu ağın bir bölümünü insanlık için ele geçirme girişimiydi.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Aeldari — 10th Edition*; *The Master of Mankind — Aaron Dembski-Bowden*
+Webway, Old Ones tarafından milyonlarca yıl önce inşa edilmiş boyutlararası tünel ağıdır; Warp'ın içine oyulmuş ama onun kaosundan korunmuş gerçeklik kanallarından oluşur ve galaksinin her noktasını anında birbirine bağlar. Eldari'ler onu şu an kullanan tek büyük güçtür — Webway üzerinden savaş, ticaret ve haberleşme yaparlar ve bu ağ onların İmparatorluk karşısındaki en büyük stratejik avantajıdır. Emperor of Mankind da Webway'e erişmeye çalıştı — Terra'da gizli bir Webway Gate inşa ederek insanlığı Warp'tan bağımsız hale getirmek istedi ama Magnus'un ihaneti bu projeyi çökertti ve insanlık Webway'in anahtarını kaybetti. Ağ yaşlıdır — koridorları yırtılır, demonlar sızar ve bazı bölgeleri tamamen kaybolmuştur; Black Libr
 
 -# İlişkili kayıtlar: <#1551809699312181339>, <#1551817636516470845>, <#1551649070286897172>, <#1551810506078290021>

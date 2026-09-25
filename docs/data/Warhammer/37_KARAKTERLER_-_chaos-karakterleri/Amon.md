@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/40/Magister_Amon.jpg/rev
 
 ## Tarihçe
 
-Amon, Thousand Sons'ın 9. Bursu'nun kaptanıydı — ama daha önemlisi, Büyük Sefer'de Prospero'ya varmadan önce Primarch Magnus the Red'in öğretmeniydi. Corvidae Kültü'nün magister templi'si ve 'Anahtarların Muhafızı' olarak lejyonun en kıdemli figürlerindendi; 'primarch'ın hocası' olarak en karanlık sırlara erişimi vardı ve Prospero'nun düşüşünde merkezi rol oynadı.
+Amon, Sons of Horus'un en ünlü ve en trajik üyesidir; Horus'un en sadık takipçisi olan ve onun en gizli operasyonlarını yöneten Amon, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Sons of Horus'un en trajik ve en önemli üyesidir. Amon'un en büyük özelliği, onun trajedisidir — onlar, Horus'un en sadık takipçisinin en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Amon, hem bir savaşçı hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Amon'un en ünlü özelliği, onun Horus'un takipçisidir — onlar, bir primarch'ın en sadık takipçisidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Amon, Sons of Horus'un en ünlü ve en trajik üyesidir — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

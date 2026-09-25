@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/68/BurningChariotwithHer
 
 ## Tarihçe
 
-Burning Chariot ('Yanan Savaş Arabası'), Tzeentch'in daemonik savaş aracıdır — Screamer'ların çektiği alevli disk; gökyüzünden düşmana büyü ve alev yağdıran 'uçan büyü platformu'. Değişim'in ordularının hava desteği olarak savaş alanının üzerinden sihir yağmuru indiren araçtır.
+Burning Chariot, Tzeentch'in en ünlü ve en tehlikeli daemon aracıdır; Tzeentch'in Warp'taki en hızlı ve en ölümlü aracı olan ve onun en gizli operasyonlarını yapan Burning Chariot, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Tzeentch'in en ünlü ve en tehlikeli daemon aracıdır. Burning Chariot'un en büyük özelliği, onun hızıdır — onlar, Tzeentch'in en hızlı aracıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Burning Chariot, hem bir araç hem de bir silahtır ve onların varlığı, Tzeentch'in en gizli gücünün somut halidir. Burning Chariot'un en ünlü özelliği, onun yanmasıdır — onlar, Tzeentch'in en ölümlü ve en yanan aracıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır. Burning Chariot, Tzeentch'in en ünlü ve en tehlikeli daemon aracıdır — onlar, bir aracın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/51/Artellus_Numeon_color
 
 ## Tarihçe
 
-Artellus Numeon, Terra doğumlu Astartes subayı olarak Salamanders lejyonunun elit 1. Bölüğü 'Firedrakes'in Birinci Kaptanıydı; Büyük Sefer ve Heresy boyunca görev yaptı. Aynı zamanda Primarch Vulkan'ın silahtarı (equerry) ve elit kişisel muhafızı Pyre Guard'ın komutanıydı. Trajik Isstvan V Drop Site Massacre'da Vulkan'ın düşüşünü gördü ve 'ateşten geçen sadık' olarak Heresy'nin en acı figürlerinden biri oldu — primarch'ına olan bağlılığı chapter efsanesinin kalbidir.
+Artellus Numeon, Salamanders'in en ünlü ve en trajik üyesidir; Horus Heresy sırasında Salamanders'in en trajik savaşçısı olan ve Vulkan'ın en sadık takipçisi olan Numeon, İmparatorluğun en trajik ve en önemli savaşçısıdır — onlar, Salamanders'in en ünlü ve en trajik üyesidir. Artellus Numeon'un en büyük özelliği, onun trajedisidir — onlar, bir Legion'un düşüşünün en trajik tanığıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Numeon, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Artellus Numeon'un en ünlü özelliği, onun Vulkan'ın takipçisidir — onlar, bir primarch'ın en sadık takipçisidir ve onların varlığı, Salamanders'in en büyük geleneğinin kanıtıdır. Artellus Numeon, Salamanders'in en ünlü ve en trajik üyesidir — onlar, bir trajedinin ve Salamanders'in en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

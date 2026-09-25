@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1b/Ka%27Bandha.jpg/revis
 
 ## Tarihçe
 
-Ka'Bandha, Khorne'un en rezil Bloodthirster'ı ve en güçlü, en korkulan kullarından biridir; Heresy'de önemli rol oynadı — Signus Prime'da Sanguinius'la efsanevi düellosunda Blood Angels'ın primarch'ını ölümün eşiğine getirdi ve Kyriss'le birlikte Signus Vahşeti'nin efendilerinden oldu. 'Blood Angels'ın baş düşmanı' olarak chapter tarihinin en korkulan daemon'udur — Terra Kuşatması'nda bile Sanguinius'un karşısına çıktı.
+Ka'Bandha, Khorne'un en ünlü ve en vahşi Greater Daemon'ıdır; Blood Angels'ın en büyük düşmanı olan ve Sanguinius'u öldürmeye çalışan Ka'Bandha, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en vahşi daemon'udur. Ka'Bandha'nın en büyük özelliği, onun vahşetidir — onlar, Khorne'un en vahşi Greater Daemon'ıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Ka'Bandha, hem bir daemon hem de bir katildir ve onların savaşı, sadece kan ve kafatası içindir. Ka'Bandha'nın en ünlü özelliği, onun Blood Angels'a olan düşmanlığıdır — onlar, Sanguinius'u öldürmeye çalışan ve Blood Angels'ın en büyük düşmanı olan en vahşi daemon'dur ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Ka'Bandha, Khorne'un en ünlü ve en vahşi Greater Daemon'ıdır — onlar, bir vahşetin ve Chaos'un en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

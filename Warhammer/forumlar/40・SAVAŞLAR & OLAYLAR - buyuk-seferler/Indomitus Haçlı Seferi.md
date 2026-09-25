@@ -12,6 +12,6 @@ Seferin lideri, on bin yıl sonra dirilen Primarch Roboute Guilliman'dı; Archma
 
 ## Tarihçe
 
-Indomitus Haçlı Seferi, Guilliman'ın dönüşü ve Great Rift'in açılmasıyla başlatılan devasa Imperial karşı-saldırısıdır; Primaris Space Marines'in ilk büyük konuşlanması. Imperium Nihilus'u kurtarmak ve Imperium Sanctus'u pekiştirmek için yüzlerce dünyanın sefer edildiği modern dönemin temel seferi.
+Indomitus Haçlı Seferi, Roboute Guilliman'ın Büyük Yarık'ın açılmasından sonra başlattığı ve İmparatorluğu yeniden birleştirmeyi amaçlayan en büyük operasyondur. Büyük Yarık'ın açılması, İmparatorluğu ikiye böldü ve Imperialis'in birçok bölgesini Chaos'a karşı savunmasız bıraktı; Guilliman, bu durumu düzeltmek için Indomitus Crusade'i başlattı. Sefer sırasında Guilliman, İmparatorluğun birçok kayıp bölgesini geri aldı ve Chaos'a karşı savunma hatlarını yeniden kurdu; bu, İmparatorluk'un Büyük Yarık'tan sonra en büyük yeniden doğuş operasyonu oldu. Indomitus Haçlı Seferi, Guilliman'ın İmparatorluğu yeniden birleştirme iradesinin en güçlü kanıtı olarak tarihe geçti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

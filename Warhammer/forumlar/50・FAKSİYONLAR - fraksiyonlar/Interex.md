@@ -14,8 +14,8 @@ Luna Wolves'un Great Crusade sırasında karşılaştığı, ileri teknolojiye s
 
 ## Tarihçe
 
-Horus'un önderliğindeki temas başlangıçta barışçıl ilerledi. Ancak Erebus'un Interex'in hazinesinden anathame adlı bıçağı çalması ve gerilimi kışkırtması, ilişkinin kanlı bir çatışmayla çökmesine yol açtı. Aynı bıçak daha sonra Davin'de Horus'u yaralayacak ve Warmaster'ın düşüşünde rol oynayacaktı.
+Interex, WH40K evreninin en trajik ve en önemli xeno türlerinden biridir; İmparatorluk'la barışçıl bir ilişki kurmaya çalışan ama sonunda İmparatorluk tarafından yok edilen bir türdür — onların yok edilmesi, İmparatorluğun en büyük utancıdır. Interex'in en büyük özelliği, onların barışçıllığıdır — onlar, İmparatorluk'la savaşmak istemiyorlardı ve onlar, xeno'lara karşı bile hoşgörülüydüler; bir Interex, hem bir savaşçı hem de bir diplomatdır ve onların varlığı, İmparatorluğun en büyük kaybıdır. Interex'in en ünlü anı, İmparatorluğun onları yok etmesidir — onların yok edilmesi, İmparatorluğun en büyük suçlarından biridir; ve onların varlığı, İmparatorluğun kendi barbarlığının ve kendi paranoyasının kanıtıdır. Interex, İmparatorluğun en trajik ve en önemli xeno türüdür — onlar, İmparatorluğun kendi barbarlığının kurbanıdır.
 
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *False Gods — Graham McNeill*
 
--# İlişkili kayıtlar: <#1551814367203303506>, <#1551650246508150857>, <#1551809114328399874>, <#1551638953101365340>, <#1551814951365115956>
+-# İlişkili kayıtlar: <#1551814367203303506>, <#1551650246508150857>, <#1551809114328399874>,

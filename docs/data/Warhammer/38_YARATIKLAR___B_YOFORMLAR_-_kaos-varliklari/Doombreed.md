@@ -18,6 +18,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Doombreed, Khorne'un kadim Daemon Prince'idir — daemonluğa yükselişi İmparatorluk'un varlığından bile önceye gider, bazı kaynaklara göre ilk yükselen insan-daemon'dur. Kara dumana bürünmüş dev Bloodthirster biçiminde görünen bu figür, 'en eski kanlı' olarak Khorne'un ilk büyük kazanımı sayılır.
+Doombreed, Khorne'un en ünlü ve en eski Daemon Prince'idir; İmparatorluğun en eski düşmanı olan ve Khorne'un en sadık hizmetkârı olan Doombreed, Chaos'un en eski ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en eski daemon'udur. Doombreed'in en büyük özelliği, onun eskiliğidir — onlar, Khorne'un en eski Daemon Prince'idir ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Doombreed, hem bir daemon hem de bir efsanedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Doombreed'in en ünlü özelliği, onun İmparatorluğa olan düşmanlığıdır — onlar, İmparatorluğun en eski düşmanıdır ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Doombreed, Khorne'un en ünlü ve en eski Daemon Prince'idir — onlar, bir efsanenin ve Chaos'un en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Codex: Chaos Space Marines*; Black Legion kaynakları

@@ -10,6 +10,6 @@ Ecclesiarchy yeni bir Abbess Sanctorum seçmek istediğinde, genç bir Celestian
 
 ## Tarihçe
 
-Morvenn Vahl, Adepta Sororitas'ın Abbess Sanctorum'u — Sisters of Battle'ın en yüksek rütbesi — ve İmparatorluk'un dini-askeri gücünün başıdır. Exorcist-class Paragon Warsuit'iyle savaşan bu figür, Era Indomitus'ta Guilliman'ın ordularıyla koordineli çalışan Sororitas'ın yaşayan komutanıdır; 'inancın general' olarak İmparatorluk'un en güçlü kadın figürüdür.
+Morvenn Vahl, Sisters of Battle'ın en ünlü ve en kutsal Abbess Superior'udur; İmparatorluğun en büyük din ordusunun lideri olan ve Indomitus Crusade'de İmparatorluğun en büyük zaferlerini kazanan Vahl, İmparatorluğun en kutsal ve en güçlü lideridir — onlar, Sisters of Battle'ın en ünlü ve en kutsal lideridir. Morvenn Vahl'ın en büyük özelliği, onun kutsallığıdır — onlar, Sisters of Battle'ın en yüksek rütbeli lideridir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Vahl komutası, bir Haçlı Seferi'nin en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük gücünün somut halidir. Morvenn Vahl'ın en ünlü özelliği, onun Abbess Superior'ıdır — onlar, Sisters of Battle'ın en yüksek rütbeli lideridir ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Morvenn Vahl, Sisters of Battle'ın en ünlü ve en kutsal Abbess Superior'udur — onlar, İmparator'un dininin ve İmparatorluğun en büyük gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

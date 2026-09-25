@@ -15,12 +15,8 @@ Astra Militarum'un zırhlı alaylarının belkemiğidir. Kaba, ağır ve yavaşt
 
 ## Tarihçe
 
-Leman Russ, Imperial ordularının binyıllar boyu değişmeden koruduğu tasarımlardan biridir. Aynı şasi üzerinde Vanquisher, Demolisher, Punisher, Executioner ve Eradicator gibi farklı ana silahlara göre adlandırılan varyantlar gelişmiştir. Cadia'nın Knight Commander Pask'ı gibi tank komutanları Guard kültüründe ün kazanmıştır.
+Leman Russ, Imperial Guard ve Astra Militarum'un en yaygın ve en güvenilir savaş tankıdır; onun çok yönlü silahlandırması ve dayanıklılığıyla — bir kadro askeri koruyabilen ve düşmanı yakın mesafede imha eden bir araçtır — onlar, Imperial Guard'ın omurgasıdır. Leman Russ'un en büyük özelliği, onun çok yönlülüğüdür — onlar, hem bir tank hem de bir piyade destek aracıdır; bir Leman Russ, bir kadro askeri koruyabilir ve onların varlığı, bir Imperial Guard hattının merkezidir. Leman Russ'un en ünlü görevi, Imperial Guard'ın sayısız savaşıdır — onlar, Büyük Haçlı Seferi'nden bugüne kadar İmparatorluğun en güvenilir tankıydı ve onların varlığı, Imperial Guard'ın en büyük gücüdür. Leman Russ, Imperial Guard'ın en yaygın ve en güvenilir savaş tankıdır — onlar, İmparatorluğun zırhlı gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Kalın ön zırh, ana taret topu, gövde silahı ve sponsonlar. Pattern'e göre küçük farklılıklar gösterir; Mechanicus'un Machine Spirit inancı bu araçlar için de geçerlidir.
-
--# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
-
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551812139935866891>, <#1551753449878724689>, <#1551649072912269433>
+Kalın ön zırh, ana taret topu, gövde silahı ve spons

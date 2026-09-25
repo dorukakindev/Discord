@@ -15,12 +15,8 @@ Kısa, tıknaz, inatçı ve usta zanaatkâr bir halk olarak betimlenen Squat'lar
 
 ## Tarihçe
 
-1990'larda aktif ürün ve anlatıdan çekildiler. Fandomda yayılan "Tyranid'lerce yenip bitirildiler" söylentisi, resmî kanonda sınırlı ağırlığı olan bir şakaya dönüştü.
+Squat, İmparatorluğun en ünlü ve en eski abhuman ırkıdır; kısa boylu ve güçlü olan ve İmparatorluğun en eski abhuman ırkı olan Squat, İmparatorluğun en eski ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en eski abhuman ırkıdır. Squat'ın en büyük özelliği, onun eskiliğidir — onlar, İmparatorluğun en eski abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır; bir Squat, hem bir abhuman hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Squat'ın en ünlü özelliği, onun kısa boyudur — onlar, İmparatorluğun en kısa ve en güçlü abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Squat, İmparatorluğun en ünlü ve en eski abhuman ırkıdır — onlar, bir geleneğin ve İmparatorluğun en büyük tarihinin somut halidir.
 
 ## Kanon Notu
 
-2022'de tanıtılan Leagues of Votann bu mirası anımsatır; ancak kökeni, kültürü, teknolojisi ve Votann ilişkisi baştan kurulmuştur. Arşiv iki kavramı bire bir aynı saymaz; eski Squat lore'u Kin'in kesin tarihi gibi okunmamalıdır.
-
--# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Codex: Leagues of Votann — 10th Edition*
-
--# İlişkili kayıtlar: <#1552483294329962596>, <#1551813334993739777>, <#1551587905703649300>
+2022'de tanıtılan Leagues of Votann bu mirası anımsatır; ancak kökeni,

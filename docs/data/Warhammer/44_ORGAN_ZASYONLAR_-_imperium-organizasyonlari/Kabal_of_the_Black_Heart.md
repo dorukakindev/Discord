@@ -15,12 +15,10 @@ Kabal, Vect'in icat ettiği anlatılan siyasi-askerî örgütlenme biçimidir; K
 
 ## Tarihçe
 
-Vect kurnazlık, rüşvet ve sonsuz bir sabırla hanedanları birbirine düşürüp çökertti ve kendini Commorragh'ın efendisi ilan etti. Hükümranlığı binlerce yıldır süren kesintisiz bir suikast ve komplo zinciridir; rakip Kabal'lar, Wych Cult'lar ve Haemonculus Coven'ları sürekli olarak onun tahtına göz diker. Yvraine'in arenada dirilişiyle başlayan kargaşa şehirde yeni bir Dysjunction'a yol açtı; Vect'in Ynnari'ye bakışı düşmancadır.
+Kabal of the Black Heart, Commorragh'ın en güçlü ve en korkulan kabalıdır; Asdrubael Vect'in kişisel ordusudur ve Drukhari toplumunun en büyük siyasi ve askeri gücüdür — Black Heart'ın yönetimi, Commorragh'ın yönetimi demektir. Black Heart'ın üyeleri, Drukhari'nin en acımasız ve en yetenekli savaşçılarıdır — onların Archon'ları, Incubi'leri ve savaş makineleri, Webway'in en ölümcül kombinasyonudur; ve onların zulmü, diğer kabal'ları bile korkutur. Black Heart'ın gücü sadece askeri değildir — Vect'in entrika ağı, Commorragh'ın her köşesine uzanır ve onun düşmanları, genellikle kendi kendini yok eder; Black Heart'ın yöntemi, açık savaştan çok gizli manipülasyondur. Kabal of the Black Heart, Drukhari'nin zirvesidir — onların yükselişi Commorragh'ın tarihiyle birliktedir ve onların düşüşü, Drukhari toplumunun sonu demektir.
 
 ## Kanon Notu
 
-Vect'in kökeni Drukhari'nin kendi anlatılarına dayanır ve Karanlık Şehir'de gerçek ile söylenti ayrımı her zaman belirsizdir. Diğer Kabal'lar arasında Poisoned Tongue, Flayed Skull ve Obsidian Rose öne çıkar. Ayrıntı için <#1551813105166712966>.
-
--# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Archon — Andy Chambers*; *Gathering Storm II: Fracture of Biel-Tan*
+Vect'in kökeni Drukhari'nin kendi anlatılarına dayanır ve Karanlık Şehir'de gerçek ile söylenti ayrımı her zaman belirsizdir. Diğer Kabal'lar arasında Poisone
 
 -# İlişkili kayıtlar: <#1551813105166712966>, <#1551809867201908737>, <#1551809699312181339>, <#1551810506078290021>

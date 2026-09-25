@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/76/Toth.jpg/revision/lat
 
 ## Tarihçe
 
-Mordecai Toth, Ordo Malleus'un Tartarus'a gönderdiği Inquisitor'dü; Blood Ravens'ı gezegene çarpmak üzere olan Warp fırtınası hakkında uyarmak ve o lanetli dünyada faaliyet gösteren Chaos güçlerini bulup temizlemekle görevliydi. Başta Blood Ravens'ın Force Commander'ı Kaptan Gabriel Angelos'tan şüphelendi — 'doğru ihbar, yanlış şüpheli' olarak Dawn of War evreninin ilk Inquisitor yüzüdür.
+Mordecai Toth, Inquisition'ın en ünlü ve en trajik üyesidir; Ordo Malleus'un en deneyimli Inquisitor'u olan ve Tartarus'u uyaran Toth, İmparatorluğun en trajik ve en önemli figürüdür — onlar, İmparatorluğun en trajik ve en önemli Inquisitor'udur. Mordecai Toth'un en büyük özelliği, onun uyarısıdır — onlar, bir gezegenin düşüşünü gören ve onu uyaran en trajik Inquisitor'dur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Toth, hem bir Inquisitor hem de bir habercidir ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Mordecai Toth'un en ünlü görevi, Tartarus'u uyarmasıdır — onlar, bir Warp fırtınasının yaklaştığını gören ve Blood Ravens'ı uyaran en trajik Inquisitor'dur ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Mordecai Toth, Inquisition'ın en ünlü ve en trajik üyesidir — onlar, bir uyarıcının ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

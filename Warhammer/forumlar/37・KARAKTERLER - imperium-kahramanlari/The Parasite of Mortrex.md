@@ -16,8 +16,4 @@ Parasite of Mortrex, kurbanlarının bedenine Ripper parazitleri yerleştirerek 
 
 ## Tarihçe
 
-Parasite of Mortrex, Mortrex dünyasını istila eden ünlü Tyranid biyoformudur — Ripper varyantının gelişmiş hali olarak bilinen bu yaratık, kurbanına parazitik larva yerleştirip 'içinden doğan' dehşetin simgesi oldu. 'Mortrex'in zehri' olarak Hive Fleet'in en korkutan mutasyonlarından biridir.
-
--# Kaynaklar: *Codex: Tyranids*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551753458779029565>, <#1551815439078658154>
+The Parasite of Mortrex, Tyranid'in en gizli ve en tehlikeli varlığıdır; Mortrex'te keşfedilen ve konakçısının bedenini ele geçiren bir Tyranid organizması olan Parasite, Tyranid'in en sinsi ve en ölümcül silahıdır — onlar, Tyranid'in en gizli ve en tehlikeli varlığıdır. The Parasite of Mortrex'in en büyük özelliği, onun sinsiliğidir — onlar, bir konakçının bedenini ele geçiren ve onu bir Tyranid yuvasına dönüştüren en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Parasite, hem bir organizma hem de bir istilacıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. The Parasite of Mortrex'in en ünlü özelliği, onun Mortrex'teki keşfidir — onlar, bir gezegenin düşüşünün en sinsi nedenidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. The Parasite of Mortrex, Tyranid'in en gizli ve en tehlikeli varlığıdır — onlar, bir

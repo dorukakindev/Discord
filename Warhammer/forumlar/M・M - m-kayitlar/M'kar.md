@@ -18,6 +18,6 @@ Ultramarines'ın ezeli düşmanı; Maledictum'un içindeki daemon, tekrar tekrar
 
 ## Tarihçe
 
-M'kar the Reborn ('Üç Kez Doğan'), Chaos Undivided'ın Daemon Prince'idir; Heresy'de Maloq Kartho adıyla Word Bearers'ın Chaplain'i ve sonra Dark Apostle'ıydı. Daemonluğa yükselip sahiplenilmiş Dreadnought biçiminde geri dönen bu varlık, Ultramar'ın yıllardır süren düşmanı olarak 'asla ölmeyen kin' efsanesinin bedenidir.
+M'kar, Chaos'un en ünlü ve en trajik Daemon Prince'idir; eskiden bir Word Bearer olan ve Chaos'a yükselen M'kar, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en trajik daemon'udur. M'kar'ın en büyük özelliği, onun trajedisidir — onlar, bir Space Marine'in Chaos'a düşüşünün en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir M'kar, hem bir daemon hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. M'kar'ın en ünlü özelliği, onun Ultramar'a olan düşmanlığıdır — onlar, Ultramarines'in en büyük düşmanlarından biridir ve onların varlığı, İmparatorluğun en büyük tehdidinin kanıtıdır. M'kar, Chaos'un en ünlü ve en trajik Daemon Prince'idir — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Ultramarines* romanı serisi; Warhammer 40,000 — Lexicanum derlemesi

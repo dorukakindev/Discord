@@ -18,6 +18,6 @@ Solucan-sürüsü bedenlerden oluşan, teknoloji-hırsızı ve psikopat xeno tü
 
 ## Tarihçe
 
-Slaugth'lar, insansı şekillerde dolaşan ama aslında yüzlerce siyah solucandan oluşan xeno'lardır; 'kurt-adam' efsanelerinin ardındaki gerçek türlerdendir. Calixis Sektörü'nde gizli koloniler kurarlar; görülen her Slaugth, sayısız saklanmış koloninin ucudur. Teknoloji hırsızlığı ve sabotaj ana yöntemleridir.
+Slaugth, WH40K evreninin en korkulan ve en tehlikeli xeno türlerinden biridir; solucan benzeri, biyomekanik ve bir gezegenin nüfusunu yavaşça yutan parazit varlıklardır — onlar, İmparatorluğun en sinsi ve en ölümcül iç düşmanlarından biridir. Slaugth'un en büyük özelliği, onların parazitikliğidir — onlar, bir gezegenin nüfusuna karışır ve onları yavaşça yutar; bir Slaugth, bir gezegenin ruhunu bile yutabilir ve onların varlığı, bir gezegenin sonunun başlangıcıdır. Slaugth'un en korkulan yönü, onların sinsiliğidir — onlar, bir gezegenin nüfusuna karışır, onlar gibi yaşar ve çalışır; ve onların savaşı, bir isyanın en zayıf anında, en beklenmedik yerden gelir. Slaugth, İmparatorluğun en sinsi ve en tehlikeli düşmanıdır — onlar, İmparatorluğun kendi bedeninin içinde büyüyen kanserdir.
 
 -# Kaynaklar: *Dark Heresy* kaynakları; Warhammer 40,000 — Fandom / Lexicanum derlemesi

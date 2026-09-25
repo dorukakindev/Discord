@@ -12,6 +12,4 @@ Andros Launceddre'in Years of Madness (Çılgınlık Yılları) sırasındaki ö
 
 ## Tarihçe
 
-Trajann Valoris, Adeptus Custodes'in mevcut Chief Custodian'ı ve 17. Captain-General'ıdır — İmparator'un elit muhafızının başı ve belki de İmparatorluk'taki en ölümcül birey. Khorne'un güçlerine karşı İmparatorluk Sarayı'nın İkinci Terra Savaşı'ndaki savunmasında Custodes'i yöneten bu figür, 'on bin yıllık nöbetin' en üst komutanıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Trajann Valoris, Adeptus Custodes'in Captain-General'i ve İmparatorluğun en güçlü ve en gizli savaşçısıdır; İmparator'un en sadık ve en ölümlü koruyucularının lideri olan Valoris, İmparatorluğun en büyük gücü ve en gizli varlığıdır — onlar, Adeptus Custodes'in en ünlü ve en güçlü lideridir. Trajann Valoris'in en büyük özelliği, onun gücüdür — onlar, İmparator'un en sadık koruyucularının lideridir ve onların varlığı, Custodes'in en büyük gücünün kanıtıdır; bir Valoris komutası, İmparator'un en gizli operasyonlarının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük gücünün somut halidir. Trajann Valoris'in en ünlü özelliği, onun İmparator'un en yakınıdır — onlar, Altın Taht'ın en sadık koruyucusudur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır. Trajann Valoris, Adeptus Custodes'in en güçlü ve en gizli Captain-General'idir — onlar, İmparator'un

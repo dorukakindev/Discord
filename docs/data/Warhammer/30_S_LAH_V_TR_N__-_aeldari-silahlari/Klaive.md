@@ -7,7 +7,7 @@ Incubi'lerin iki elli tören kılıcı; her biri bir tapınakta kutsanır ve dö
 
 ## Tarihçe
 
-Incubus'un iki-elli dev kılıcı; Drukhari'nin simetrik ölüm aleti. Denklem çok basit: tek hamlede Space Marine'i ikiye böler — Commorragh'ın zırh-delen kılıç sanatı.
+Klaive, Drukhari'nin en ünlü ve en ölümlü yakın dövüş silahıdır; onların Drukhari'nin en güçlü ve en ölümlü kılıcı olan ve onun en zorlu savaşlarını yapan Klaive, Drukhari'nin en güçlü ve en ölümlü silahıdır — onlar, Drukhari'nin en ünlü ve en ölümlü yakın dövüş silahıdır. Klaive'ın en büyük özelliği, onun gücüdür — onlar, Drukhari'nin en güçlü kılıcıdır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Klaive, hem bir silah hem de bir sanat eseridir ve onların varlığı, Drukhari'nin en büyük silahının somut halidir. Klaive'ın en ünlü özelliği, onun Incubi'lerin kullanımıdır — onlar, Drukhari'nin en ölümlü savaşçılarının en ölümlü silahıdır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır. Klaive, Drukhari'nin en ünlü ve en ölümlü yakın dövüş silahıdır — onlar, bir gücün ve Drukhari'nin en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

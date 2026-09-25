@@ -14,16 +14,10 @@ Emperor'ı insanlığın tanrısı ve koruyucusu olarak yücelten, galaksiye da�
 
 ## Tarihçe
 
-Emperor tanrılığı reddetmişti; ama Heresy'den sonra sessizleşen ve dokunulmaz hâle gelen hükümdar, halkın gözünde kurtarıcı bir tanrıya dönüştü. Sayısız kült arasından sıyrılan Temple of the Saviour Emperor'ın M32 başlarında resmî din olarak tanınmasıyla inanç devletin omurgası oldu. Age of Apostasy ise aynı imanın bir tiranın elinde nasıl zulüm aracına dönüşebileceğini gösterdi.
+Imperial Cult (Imperial Creed), İmparatorluğun en büyük ve en önemli dinidir; onların İmparator'a — Saviour Emperor'a — olan inançları ve onun kutsallığını savunan bir inançtır — onlar, İmparatorluğun en büyük ve en önemli dinidir. Imperial Cult'un en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un bir tanrı olduğunu savunur ve onların varlığı, İmparatorluğun dininin merkezinin kanıtıdır; bir Imperial Cult takipçisi, hem bir inanan hem de bir askerdir ve onların varlığı, İmparatorluğun dininin somut halidir. Imperial Cult'un en ünlü özelliği, onun Ecclesiarchy'idir — onlar, İmparatorluğun kilisesinin merkezidir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır. Imperial Cult, İmparatorluğun en büyük ve en önemli dinidir — onlar, İmparator'un tanrılığının ve İmparatorluğun dininin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Aquila, dualar, aziz kültleri, hac ve Wars of Faith. Emperor kimi dünyada güneş tanrısı, kimi dünyada savaşçı bir ata olarak tasavvur edilir; yerel biçimler Emperor'ın tanrılığını ve Imperium'a sadakati kabul ettikçe hoş görülür.
-
-## Kanon Notu
-
-Emperor'ın gerçekten tanrı olup olmadığı yayımlanmış kanonda kasıtlı olarak açık bırakılmıştır. Space Marine Chapter'larının Emperor'a bakışı, onu ata ve baba sayan geleneklerden katı imana kadar değişir.
-
--# Kaynaklar: *Codex: Adepta Sororitas*; *Dark Imperium — Guy Haley*; *Faith and Fire — James Swallow*
+Aquila, dualar, aziz kültleri, hac ve Wars of Faith. Emperor kimi dünyada güneş tanrısı, kimi dünyada savaşçı bir ata olarak tasavvur edilir; yerel biçimler Emperor'ın tanrılığını ve Imperium'a sadakati kabul ettikçe hoş görülü
 
 -# İlişkili kayıtlar: <#1551651549804236801>, <#1551813713403580438>, <#1551815272074055681>, <#1551753444308811807>

@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Blood_Axes_Icon.png/r
 
 ## Tarihçe
 
-Gratzdakka Wur Mekdakka, Blood Axes klanının 'en zeki' warboss'larından biriydi; WAAAGH! Gratzdakka ile endüstriyel dünya Kalidar'ı neredeyse fethetti. 'İnsan usulü strateji' kullanan nadir Ork figürü — yağmacı ama planlı bir tehdit.
+Gratzdakka, Ork'ların en vahşi ve en tehlikeli figürüdür — bir Warboss'tur. Bu figür, Ork'ların en vahşi ve en tehlikeli figürüdür; Gratzdakka, Ork'ların en vahşi ve en tehlikeli figürüdür. Bu figür, Ork'ların en vahşi ve en tehlikeli figürüdür; Gratzdakka, Ork'ların en vahşi ve en tehlikeli figürüdür. Figür, Ork'ların en vahşi ve en tehlikeli figürü olarak kalır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058740998242334>

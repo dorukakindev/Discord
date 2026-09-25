@@ -15,12 +15,10 @@ Horus'la düellosunda ölümcül biçimde yaralanan Emperor'ı on bin yıldır n
 
 ## Tarihçe
 
-Emperor'ın gizli Webway projesi çöktüğünde, Palace'a sızan Warp'ı durdurmak için Throne'a oturmak zorunda kaldı. Siege of Terra'nın son safhasında Emperor savaşa katılmak için kalkınca yükü Malcador the Sigillite üstlendi ve Throne üzerinde tükenerek öldü. Düellonun ardından Emperor yeniden Throne'a bağlandı ve bir daha kalkmadı. Throne'u besleyen psyker kurbanları ve Custodes'in nöbeti o günden beri sürer.
+Altın Taht, Terra'nın derinliklerinde, İmparatorluk Sarayı'nın kalbinde duran devasa bir psionik-teknolojik düzenektir; hem İmparator'un yaşayan bedenini ölümün eşiğinde tutan yaşam destek ünitesi hem de Astronomicon'un odak noktasıdır. Kökeni İhtilaf Çağı'na dayanan bu makine, Horus Heresy'nin sonunda Terra Kuşatması'nda ağır yaralanan İmparator'un içine yerleştirilmesiyle bugünkü işlevini kazandı. Taht, İmparator'un zihnini bedenine bağlı tutar; onun psişik iradesi sayesinde Astronomicon yanar ve insan gemileri Warp'ta yol bulabilir. Her gün yaklaşık bin psyker'ın yaşam gücü Taht'ı beslemek için feda edilir ve buna rağmen makine on bin yıldır yavaş yavaş çökmektedir. Taht'ın durması insanlığın Warp seyahatinin çökmesi demektir; İmparatorluğun varlığı bu tek makineye bağlıdır.
 
 ## Teknik / Biyolojik Özellikler
 
-İşleyişi tam anlaşılmamıştır. Mechanicus onu kuşaklar boyunca onarır ama artık tam kavrayamaz; bu durum Imperium'un teknolojik çürümesinin simgesi olarak işlenir.
-
--# Kaynaklar: *The Master of Mankind — Aaron Dembski-Bowden*; *The End and the Death — Dan Abnett*; *Warhammer 40,000 Core Book — 10th Edition*
+İşleyişi tam anlaşılmamıştır. Mechanicus onu kuşaklar boyunca onarır
 
 -# İlişkili kayıtlar: <#1551813713403580438>, <#1551809168032268310>, <#1551809699312181339>, <#1551816677669343263>, <#1551753439581831278>

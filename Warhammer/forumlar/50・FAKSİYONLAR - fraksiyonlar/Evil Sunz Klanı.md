@@ -16,6 +16,6 @@ Hız takıntılı Ork klanı; kırmızı araçları, gürültülü motorları ve
 
 ## Tarihçe
 
-Evil Sunz, hızın ve gürültünün klanıdır; üyeleri Warbike'lara, Warbuggy'lere ve rokkit destekli her şeye tapar. 'Kırmızı daha hızlıdır' inancının merkezidir — bir aracı kırmızıya boyarlar ve evren de buna uyum sağlar gibi görünür. Sürat onların hem takıntısı hem taktikleridir.
+Evil Sunz, Ork ırkının en hızlı ve en araçlı klanıdır; hız, araçlar ve gürültüye olan sevgiyle bilinen ve İmparatorluğun en hızlı ve en gürültülü Ork düşmanlarından biridir — onlar, Ork'ların en hızlısıdır. Evil Sunz'ın en büyük özelliği, onların hızıdır — onlar, motorlu araçları sever ve onların savaşı, bir konvoyun baskını gibidir; bir Evil Sunz, hem sürücü hem de savaşçıdır ve onların savaşı, hem hız hem de gürültüdür. Evil Sunz'ın en ünlü özelliği, onların kırmızı araçlarıdır — onlar, araçlarını kırmızıya boyar ve onların konvoyu, bir kırmızı kasırga gibidir; bir Evil Sunz konvoyu, bir Imperial savunmasını bile geçebilir. Evil Sunz, Ork ırkının en hızlı ve en gürültülü klanıdır — onlar, Ork'ların en hızlısı ve en gürültülüsüdür.
 
 -# Kaynaklar: *Codex: Orks*

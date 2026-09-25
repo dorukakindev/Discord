@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3c/Relictors_Banner.jpg/
 
 ## Tarihçe
 
-Artekus Bardane, Relictors chapter'ının eski Komutanıydı (Chapter Master); chapter Chaos artefakt ve silahlarıyla oynamaya devam ettiği için — Inquisition'un açık yasağına rağmen — Excommunicate Traitoris ilan edilmeden önceki son lideriydi. Neutra'nın vahşi Feral World'ünden gelen sert savaşçı olarak 'yasak bilginin peşindeki adam' — chapter'ının düşüşünün lideri.
+Artekus Bardane, Chaos'un en gizli ve en tehlikeli üyesidir; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en gizli sırlarını saklayan Bardane, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir. Artekus Bardane'in en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli üyesidir ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Bardane, hem bir savaşçı hem de bir sırdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Artekus Bardane'in en ünlü özelliği, onun gizliliğidir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Artekus Bardane, Chaos'un en gizli ve en tehlikeli üyesidir — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

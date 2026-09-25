@@ -16,6 +16,6 @@ Bio-Titan, Titan boyutundaki devasa Tyranid organizmalarına verilen genel addı
 
 ## Tarihçe
 
-Bio-Titan, Titan boyutundaki devasa Tyranid organizmalarına verilen genel addır: Hierodule, Dominatrix, Harridan ve benzeri. Bir Bio-Titan'ın gelmesi, savaşın artık orduların değil efsanelerin dövüştüğü aşamaya geçtiğini gösterir; İmparatorluk'un cevabı genelde Titan Legion'dır.
+Bio-Titan, Tyranid'in en ünlü ve en büyük yaratığıdır; bir Tyranid ordusunun en büyük ve en güçlü yaratığı olan ve onun en büyük savaşlarını yapan Bio-Titan, Tyranid'in en büyük ve en tehlikeli varlığıdır — onlar, Tyranid'in en ünlü ve en büyük yaratığıdır. Bio-Titan'ın en büyük özelliği, onun boyutudur — onlar, bir Tyranid ordusunun en büyük ve en güçlü yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Bio-Titan, hem bir yaratık hem de bir yıkımdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Bio-Titan'ın en ünlü özelliği, onun Titan benzerliğidir — onlar, bir Titan'a benzeyen ve onunla savaşan en büyük yaratıktır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Bio-Titan, Tyranid'in en ünlü ve en büyük yaratığıdır — onlar, bir devasa yaratığın ve Tyranid'in en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids*; *Imperial Armour*

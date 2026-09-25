@@ -15,12 +15,4 @@ On bin yılı aşkın süredir yaşayan, Space Wolves'un hayattaki en yaşlı sa
 
 ## Tarihçe
 
-Bjorn the Fell-Handed — 'En Kadim', 'Trueclaw', 'Saygın Olan', 'Russ'ın Bölüğünden Sonuncu' — Space Wolves'un Venerable Mars Pattern Mark V Dreadnought'u ve eski Büyük Kurt'udur; on bin yaşından fazladır ve Leman Russ'la yan yana savaşmış son figürdür. 'Yaşayan tarih' olarak chapter'ın en eski bilgesi ve Russ'ın dönüşünü bekleyen son tanıktır.
-
-## Kanon Notu
-
-Hangi savaşta Dreadnought'a girdiği ve Russ dönemine dair hatıralarının güvenilirliği kaynaklarda ayrıntılandırılmaz; "Russ'ı tanıyan son kişi" nitelemesi Chapter içindeki rolünün özüdür.
-
--# Kaynaklar: *Codex: Space Wolves*; *Codex Supplement: Space Wolves — 10th Edition*
-
--# İlişkili kayıtlar: <#1551638910344630307>, <#1551649072912269433>, logan-grimnar, fenris
+Bjorn the Fell-Handed, Space Wolves'un en eski ve en efsanevi üyesidir; 'Last of the Company of Russ' olarak bilinen ve bir Dreadnought'ta yaşayan Bjorn, İmparatorluğun en yaşlı ve en saygın savaşçısıdır — onlar, Space Wolves'un en eski ve en efsanevi üyesidir. Bjorn'un en büyük özelliği, onun yaşlılığıdır — onlar, Büyük Haçlı Seferi'nde Leman Russ'la birlikte savaşan ve hâlâ hayatta olan en eski Space Marine'dir ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır; bir Bjorn, hem bir savaşçı hem de bir efsanedir ve onların varlığı, İmparatorluğun en eski gücünün somut halidir. Bjorn'un en ünlü özelliği, onun Dreadnought'ta yaşamasıdır — onlar, bir savaş makinesinin içinde binlerce yıldır yaşayan ve hâlâ savaşan en eski savaşçıdır ve onların varlığı, Space Wolves'un en büyük onurunun kanıtıdır. Bjorn the Fell-Handed, Space Wolves'un en eski ve en efsanevi üyesidir — onlar, bir efsanenin ve Space Wolves'un en büyük geleneğinin som

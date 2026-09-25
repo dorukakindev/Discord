@@ -15,12 +15,8 @@ Demiurg, T'au Empire ile ilişkiler kurduğu bilinen, büyük gemilerde yaşayan
 
 ## Tarihçe
 
-Demiurg, Leagues of Votann'ın Kin'lerinin T'au İmparatorluğu'yla müttefik olan militarize, kaynak arayan 'Prospect' seferidir. Uzun süre hem T'au hem İmparatorluk tarafından kısa, tıknaz insansı madenci ve tüccarların 'minör xenos ırkı' sanıldılar — aslında Kadim klon-soylu Votann Lejyonları'nın uzantısıdırlar. 'Yanlış tanınan müttefik' olarak T'au'nun en gizemli ortaklarıdır.
+Demiurg, Leagues of Votann'ın en gizli ve en önemli Prospect'idir; T'au Empire'la müttefik olan ve onların en değerli kaynak arayıcısı olan Demiurg, Leagues'ın en gizli ve en önemli birliğidir — onlar, Leagues'ın en gizli ve en önemli Prospect'idir. Demiurg'un en büyük özelliği, onların müttefikliğidir — onlar, T'au'yla müttefik olan ve onların en değerli kaynak arayıcısıdır ve onların varlığı, Leagues'ın en gizli gücünün kanıtıdır; bir Demiurg, hem bir arayıcı hem de bir müttefiktir ve onların varlığı, T'au'nun en büyük müttefikinin somut halidir. Demiurg'un en ünlü özelliği, onların yanlış tanınmasıdır — onlar, hem T'au hem de İmparatorluk tarafından yanlış tanınan ve aslında Leagues'ın bir Prospect'i olan en gizli birliktir ve onların varlığı, Leagues'ın en büyük sırrının kanıtıdır. Demiurg, Leagues of Votann'ın en gizli ve en önemli Prospect'idir — onlar, bir arayıcının ve Leagues'ın en büyük sırrının somut halidir.
 
 ## Kanon Notu
 
-Eski T'au kaynakları Demiurg'u ayrı bir tür gibi sunar. *Codex: Leagues of Votann* ise onları Leagues of Votann ile ilişkilendiren bir çerçeve getirmiş olarak aktarılır; bu bağın kapsamı sınırlı biçimde işlendiğinden arşiv onu kesinleştirmez, sonraki yayınların farklı çerçevelediğini not eder.
-
--# Kaynaklar: *Codex: Tau Empire*; *Codex: Leagues of Votann*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551759789988642876>, <#1551809846066548779>
+Eski T'au kaynakları Demiurg'u ayrı bir tür gibi sunar. *Codex: Leagues of Votann* ise onları Leagues of Votann ile ilişkilendiren bir çerçeve getirmiş ola

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Tarosasdf.jpg/revisio
 
 ## Tarihçe
 
-Taros Campaign, 998.M41'de T'au İmparatorluğu'nun Imperial maden dünyası Taros'u fethetmesiyle başlayan kampanyadır. İmparatorluk'un karşı-saldırısı (Taros'a çıkan Imperial Guard ve Titan desteği) T'au'nun savunması ve mobilitesi karşısında ağır kayıplarla püskürtüldü; kampanya T'au'nun Imperium'u ilk kez büyük ölçekte yenmesi olarak tarihe geçti.
+Taros Campaign, İmparatorluğun T'au'ya karşı giriştiği ve kaybettiği en ünlü seferlerden biridir. Taros, T'au'nun Imperialis'e ait bir gezegeni ele geçirmesiyle başlayan çatışmanın merkeziydi; İmparatorluk, gezegeni geri almak için birçok Imperial Guard birliğini ve Space Marine desteğini gönderdi. Sefer sırasında İmparatorluk kuvvetleri, T'au'nun gelişmiş teknolojisi ve savunma stratejisi karşısında zorlandı; özellikle T'au'nun dronları ve battlesuit'leri, İmparatorluk askerlerine ağır kayıplar verdi. Sonunda İmparatorluk kuvvetleri Taros'tan geri çekilmek zorunda kaldı; bu, Imperialis'in T'au karşısındaki en kayda değer yenilgilerinden biri olarak kayda geçti.
 
 -# Kaynaklar: *Fandom wiki*

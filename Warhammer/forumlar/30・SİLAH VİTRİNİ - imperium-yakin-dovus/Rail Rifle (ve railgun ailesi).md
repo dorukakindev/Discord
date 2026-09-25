@@ -16,8 +16,8 @@ Katı bir mermiyi elektromanyetik hızlandırmayla çok yüksek hıza çıkaran 
 
 ## Tarihçe
 
-Rail rifle en çok, T'au ordusunun öncü keşif birlikleri olan Pathfinder'larla anılır. Aynı teknolojinin ağır biçimleri, Hammerhead Gunship'in railgun'ı ve Broadside battlesuit'lerinin ağır rail rifle'ları olarak T'au'nun en güçlü anti-zırh silahları arasında yer alır.
+Rail Rifle ve railgun ailesi, T'au'nun en güçlü silahlarıdır; elektromanyetik hızlandırma ile katı mermiyi ışık hızına yakın hızda fırlatan ve her türlü zırhı delen, T'au teknolojisinin doruk noktasıdır. Rail Rifle'ın çalışması basit ama dehşet vericidir — mermi, manyetik raylar arasında hızlandırılır ve hedefe çarptığında kinetik enerjisi her şeyi deler; bir railgun atışı, bir Imperial tankını, bir Titan'ı veya bir daemon'u tek atışta durdurabilir. Railgun ailesi, rail rifle'dan hammerhead'ın railgun'ına kadar çeşitlidir — bir Hammerhead tankının railgun'ı, İmparatorluğun en ağır zırhlısını bile deler; ve railgun teknolojisi, T'au'nun İmparatorluk karşısındaki en büyük avantajıdır. Rail Rifle, T'au'nun teknolojik üstünlüğünün en keskin kanıtıdır — onların silahları, İmparatorluğunkinden daha güçlü, daha hassas ve daha ölümcüldür.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>
+-# İlişkili kayıtlar: <#1551809146850910260>, <#1551

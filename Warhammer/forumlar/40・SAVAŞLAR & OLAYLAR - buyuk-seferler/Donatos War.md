@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b5/KIngsbladeDonatosCove
 
 ## Tarihçe
 
-Donatos War (Donatosian War), Sanayi Dünyası Donatos Primus'ta Chaos'a karşı kazanılan İmparatorluk zaferidir; Adrastapol'un Imperial Knight'ları bu savaşta kilit rol oynadı.
+Donatos War, İmparatorluğun Sisters of Battle'ın en trajik ve en önemli savaşlarından biridir. Savaş, Donatos gezegenindeki Chaos tehdidini ortadan kaldırmak için başlatıldı; Sisters of Battle, bu operasyonda Penitent Engine'leri — İmparatorluk'un en trajik savaş makinelerini — kullandı. Donatos War sırasında Sisters of Battle, Chaos güçlerine karşı büyük bir mücadele verdi ve birçok üye hayatını kaybetti. Savaş, Imperialis'in zaferiyle sonuçlandı; ancak Penitent Engine'lerin kullanımı ve yaşanan zayiat, bu olayın Sisters of Battle tarihindeki en trajik sayfalardan biri olmasına neden oldu.
 
 -# Kaynaklar: *Fandom wiki*

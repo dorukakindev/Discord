@@ -12,4 +12,7 @@ Lorgar, dini bir kültürün hâkim olduğu Colchis dünyasına düştü ve doğ
 
 ## Heresy'nin Mimarisi
 Monarchia'nın İmparator tarafından yıktırılması — Lorgar'ın en güzel şehrinin küle çevrilmesi ve lejyonunun toz içinde diz çöktürülmesi — onu kırdı. Pilgrimage of Lorgar'da Kaos Tanrıları'nı buldu ve inancını onlara çevirdi; sonra kırk yıl sabırla zehir ekti. Erebus ve Kor Phaeron aracılığıyla Colchis kültlerini lejyonlara sızdırdı; Davin'de Horus'u kıran da onun planıydı. Heresy'nin gerçek mimarı Lorgar'dır. Terra Kuşatması'nda Sanguinius'a yenildiğinde büyük bir Korku Gözü tapınağına çekildi; o günden beri meditasyonda. Word Bearers hâlâ onun karanlık inciliyle savaşır: Lectitio Divinitatus'un Kaos karşılığı onun eseridir.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Lorgar, Word Bearers'ın en ünlü ve en trajik primarch'ıdır; Colchis'in — Word Bearers'ın ev gezegeni — en kutsal figürü olan ve Word Bearers'ı Chaos'a çeken Lorgar, İmparatorluğun en trajik ve en tehlikeli primarch'ıdır — onlar, Word Bearers'ın en ünlü ve en trajik primarch'ıdır. Lorgar'ın en büyük özelliği, onun

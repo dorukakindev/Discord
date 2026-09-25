@@ -12,6 +12,4 @@ Nightbringer, C'tan denen kadim yıldız tanrılarının en korkuncudur; galaksi
 
 ## Tarihçe
 
-The War Scythe of the Nightbringer, C'tan Nightbringer'ın efsanevi tırpanıdır — yıldızları hasat eden tanrının ölüm aleti. Necron Warscythe'lerinin mitolojik atası sayılır; Overlord'ların taşıdığı silahlar bu kadim orijinalin zayıf kopyalarıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The War Scythe of the Nightbringer, C'tan'ın — Necron'ların yıldız tanrıları — en ünlü ve en korkulan silahıdır; Nightbringer'ın — C'tan'ın en ünlüsü — kullandığı ve onun en büyük katliamlarının simgesi olan bir tıpandır — onlar, Necron'ların en ünlü ve en korkulan relic'idir. The War Scythe of the Nightbringer'ın en büyük özelliği, onun gücüdür — onlar, bir yıldız tanrısının en güçlü silahıdır ve onların varlığı, Necron'ların en büyük tehdidinin kanıtıdır; bir War Scythe of the Nightbringer kullanıcısı, hem bir savaşçı hem de bir ölümün somut halidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. The War Scythe of the Nightbringer'ın en ünlü özelliği, onun Nightbringer'ın silahıdır — onlar, bir yıldız tanrısının en ünlü silahıdır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. The War Scythe of the Nightbringer, Necron'l

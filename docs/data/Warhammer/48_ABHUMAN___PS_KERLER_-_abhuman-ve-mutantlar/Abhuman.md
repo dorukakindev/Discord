@@ -10,6 +10,4 @@ Abhuman, Warhammer 40.000 evreninde insanlığın kendisinden türemiş, ama bin
 
 ## Tarihçe
 
-İmparatorluk'un genetik olarak değişmiş ama resmi olarak 'insan' saydığı sınıf; Ogryn, Ratling, Squat vb. 'İnsanın değişmiş hali' — kabul edilen sapma.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Abhuman, İmparatorluğun en ünlü ve en yaygın mutant sınıfıdır; insan dışı görünümlü olan ve İmparatorluğun en yaygın mutant sınıfı olan Abhuman, İmparatorluğun en yaygın ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en yaygın mutant sınıfıdır. Abhuman'ın en büyük özelliği, onların yaygınlığıdır — onlar, İmparatorluğun en yaygın mutant sınıfıdır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin kanıtıdır; bir Abhuman, hem bir mutant hem de bir vatandaştır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin somut halidir. Abhuman'ın en ünlü özelliği, onların çeşitliliğidir — onlar, İmparatorluğun en yaygın ve en çeşitli mutant sınıfıdır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin kanıtıdır. Abhuman, İmparatorluğun en ü

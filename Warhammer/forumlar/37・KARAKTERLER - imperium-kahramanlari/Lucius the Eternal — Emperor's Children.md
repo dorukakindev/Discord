@@ -16,8 +16,4 @@ Heresy'den beri Legion'ın en ünlü düellocusu. Kusursuzluk saplantısını k�
 
 ## Tarihçe
 
-Lucius the Eternal, Emperor's Children'ın Chaos Lord'u ve Slaanesh'in Şampiyonu'udur — Lash of Torment ve Blade of the Laer'ı taşır. Onu öldüren herkes — Lucius'u yenmekten gurur duyarsa — yavaşça ona dönüşür; yani 'öldürülemez düellocu' olarak kendi katillerinin bedeninde yaşamaya devam eder. Zırhındaki çığlık yüzleri eski kurbanlarının kanıtıdır.
-
--# Kaynaklar: *Lucius: The Faultless Blade — Ian St. Martin*; *Fulgrim — Graham McNeill*; *Codex: Emperor's Children — 10th Edition*
-
--# İlişkili kayıtlar: <#1551813750305198101>, <#1551650243865477191>, <#1551754688008032321>
+Lucius the Eternal, Chaos'un en ünlü ve en korkulan savaşçısıdır; Emperor's Children'ın en büyük düellocu ve Slaanesh'in en sadık şampiyonu olan Lucius, Chaos'un en ölümsüz ve en tehlikeli savaşçısıdır — onlar, Chaos'un en ünlü ve en korkulan üyesidir. Lucius'un en büyük özelliği, onun ölümsüzlüğüdür — onlar, öldürüldükten sonra katilinin bedenini ele geçiren ve onun yerine yaşayan bir varlıktır ve onların varlığı, Slaanesh'in en büyük gücünün kanıtıdır; bir Lucius, hem bir savaşçı hem de bir lanet taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Lucius'un en ünlü özelliği, onun düelloculuğudur — onlar, İmparatorluğun en iyi düellocusudur ve onların varlığı, Emperor's Children'ın en büyük gücünün kanıtıdır. Lucius the Eternal, Chaos'un en ünlü ve en korkulan savaşçısıdır — onlar, Slaanesh'in gücünün ve Chaos'un en ö

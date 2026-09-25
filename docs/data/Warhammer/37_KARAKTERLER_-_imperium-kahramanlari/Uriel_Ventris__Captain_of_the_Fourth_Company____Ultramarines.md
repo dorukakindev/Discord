@@ -16,8 +16,4 @@ Graham McNeill'in Ultramarines romanlarının merkezindeki kaptan. Codex Astarte
 
 ## Tarihçe
 
-Uriel Ventris, Ultramarines'ın genç 4. Bölük kaptanıdır; Rubicon Primaris'i geçip Primaris Space Marine oldu. Codex'e sadık ama esnek düşünebilen bu figür, 'kuralları bilerek büken' komutan olarak Medrengard'a ve Death Guard'a karşı görevlerde chapter'ın yükselen yıldızıdır.
-
--# Kaynaklar: *Nightbringer — Graham McNeill*; *Dead Sky Black Sun — Graham McNeill*; *The Chapter's Due — Graham McNeill*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: <#1551809394226765939>, <#1551637652569067542>, <#1551812203584295003>, <#1551809577425575998>
+Uriel Ventris, Ultramarines'in en ünlü ve en cesur kaptanıdır; Dördüncü Bölük'ün kaptanı olan ve Ultramar'ın en büyük savunmalarını yöneten Ventris, İmparatorluğun en saygın ve en ölümcül Space Marine'lerinden biridir — onlar, Ultramarines'in en ünlü ve en onurlu üyesidir. Uriel Ventris'in en büyük özelliği, onun cesaretidir — onlar, Ultramar'ın en zorlu savaşlarını yöneten ve onun en büyük zaferlerini kazanan komutandır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Uriel Ventris komutası, bir gezegenin savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Uriel Ventris'in en ünlü görevi, Honsou'nun Iron Warriors'ına karşı savaşmasıdır — onlar, Ultramar'ın en büyük düşmanına karşı savaşan ve on

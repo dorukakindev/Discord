@@ -12,6 +12,4 @@ Officio Assassinorum, Vindicare, Callidus, Eversor ve Culexus gibi tapınakları
 
 ## Tarihçe
 
-Ordo Sicarius, Inquisition'un Officio Assassinorum'u denetleyen nadir koludur; tapınakların suikastçılarının aşırı güç kullanımını izler ve gerektiğinde kendi icra operasyonlarını yürütür. Inquisition içinde bile az tanınan, en gizli izleme-dengeleme organlarından biridir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Ordo Sicarius, Inquisition'ın dördüncü büyük ordusudur (diğer üçü: Hereticus, Xenos, Malleus) ve İmparatorluk içindeki suikast tehditlerini, gizli örgütleri ve siyasi komploları izler; onların işi, İmparatorluğun en karanlık köşelerindeki sessiz savaştır. Ordo Sicarius'un varlığı nadiren bilinir — onlar, diğer Ordo'lardan daha az gösterişli ama aynı derecede ölümcüldür; bir Ordo Sicarius Inquisitor'u, bir suikastçı ağı yok eder, bir isyanı bastırır veya bir düşük seviyeli heretik hücresini ortaya çıkarır. Ordo Sicarius'un işi, İmparatorluğun en küçük ama en zehirli tehditlerini durdurmaktır — bir suikast, bir gezegenin düşmesine neden olabilir; ve Ordo Sicarius, o suikastı henüz planlanırken durdurur. Ordo Sicarius, İmparatorluğun sessiz bekçisidir — onların başarısı, kimsenin haberdar olmadığı b

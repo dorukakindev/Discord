@@ -12,4 +12,7 @@ Perturabo, şehir-devletlerin sürekli savaştığı Olympia'ya düştü ve daha
 
 ## İsyan ve Iron Cage
 Uzun yıllar boyunca yıpratıcı kuşatmalar ve takdir edilmeme Perturabo'nun içini kemirdi; sonunda Olympia isyan edince kendi anavatanını kırmızıya boyadı — bu katliam, onun dönülmez noktasıydı. Horus'un saflarına katıldı ve Terra Kuşatması'nın kuşatma mimarisi onun eseri oldu: surlara gömülen her patlamada onun dehası vardı. Savaş sonrası Iron Cage'de Dorn'u tuzağa çekti ve Imperial Fists'e neredeyse soykırım uyguladı; zaferini bir İblis Primarch yükselişiyle taçlandırdı. Bugün Medrengard'ta hüküm sürer — gezegen büyüklüğünde bir kale, sürgün ve öfke.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Perturabo, Iron Warriors'un en ünlü ve en trajik primarch'ıdır; Olympia'nın — Iron Warriors'un ev gezegeni — en zorlu savaşçısı olan ve Iron Warriors'u kuran Perturabo, İmparatorluğun en trajik ve en tehlikeli primarch'ıdır — onlar, Iron Warriors'un en ünlü ve en trajik primarch'ıdır. Perturabo'nun e

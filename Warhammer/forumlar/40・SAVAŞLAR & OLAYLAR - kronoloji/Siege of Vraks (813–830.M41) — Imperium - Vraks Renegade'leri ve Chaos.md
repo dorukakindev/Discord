@@ -16,8 +16,6 @@ On yedi yıl süren, Death Korps of Krieg'in amansız yıpratma doktrininin simg
 
 ## Tarihçe
 
-Krieg'in kuşatma ordusu, Lord Commander Zuehlke'nin komutasında Vraks'ın citadel'ine doğru siper siper ilerledi. Savaş uzadıkça Chaos kuvvetleri de sahneye çıktı: Red Corsairs ve Alpha Legion unsurları Renegade'lere destek verdi; son safhada Khorne daemon'larının belirmesi Grey Knights'ın ve Ordo Malleus'un müdahalesini gerektirdi. Dark Angels ve successor'ları da kuşatmanın ileri safhalarında yer aldı.
-
--# Kaynaklar: *Imperial Armour Volume Five: The Siege of Vraks – Part One*; *Imperial Armour Volume Six: The Siege of Vraks – Part Two*; *Imperial Armour Volume Seven: The Siege of Vraks – Part Three*
+Siege of Vraks, İmparatorluğun en zorlu ve en uzun kuşatmalarından biridir; Vraks'ın — bir Imperial cephanelik dünyası — renegade'lerin ve Chaos'un eline düşmesi ve İmparatorluğun onu geri almaya çalıştığı en uzun savaştır — onlar, İmparatorluğun en zorlu kuşatmasının ve en büyük fedakarlığının somut halidir. Siege of Vraks'ın en büyük özelliği, onun süresidir — onlar, on yedi yıl süren en uzun kuşatmadır ve onların varlığı, İmparatorluğun en uzun savaşının kanıtıdır; bir Siege of Vraks, bir kalenin en uzun savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük fedakarlığının somut halidir. Siege of Vraks'ın en ünlü özelliği, onun Death Korps of Krieg'idir — onlar, İmparatorluğun en fanatik ve en sadık alaylarının en büyük fedakarlığıdır ve onların varlığ
 
 -# İlişkili kayıtlar: <#1551753458779029565>, <#1551641477501947995>, <#1551813077991686208>, <#1551809294750449746>, <#1551636477090467942>

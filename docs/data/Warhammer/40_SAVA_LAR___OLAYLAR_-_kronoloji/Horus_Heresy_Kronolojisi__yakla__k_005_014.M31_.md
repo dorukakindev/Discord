@@ -15,12 +15,6 @@ Heresy'nin olaylarını yaygın kabul gören sıraya dizen tarihlendirme kaydı.
 
 ## Tarihçe
 
-Yaygın sıra şöyledir: Isstvan III'teki ayıklama; hemen ardından Isstvan V'teki Drop Site Massacre. Calth'a yapılan Word Bearers baskını ve Prospero'nun yakılması bu olaylarla yaklaşık eşzamanlı yerleştirilir. Ardından Signus, Imperium Secundus bunalımı ve Beta-Garmon'daki büyük çarpışmalar gelir; Solar War ile Sol sistemine giren Traitor kuvvetleri Siege of Terra'yı başlatır ve savaş Vengeful Spirit'teki son yüzleşmeyle kapanır.
-
-## Kanon Notu
-
-Heresy'nin geleneksel bitiş tarihi 014.M31 olarak verilir. Warp yolculuğu ve Ruinstorm yüzünden eşzamanlı olayların göreli sırası kaynaklarda kesin değildir; *Siege of Terra* serisi kuşatmanın süresini kasıtlı olarak bulanık bırakır.
-
--# Kaynaklar: *Horus Heresy Book One: Betrayal*; *Horus Rising — Dan Abnett*; *Know No Fear — Dan Abnett*; *The End and the Death — Dan Abnett*
+Horus Heresy Kronolojisi, İmparatorluğun en büyük ve en trajik iç savaşının zaman çizelgesidir; Horus'un Chaos'a düşmesinden (005.M31) Terra Kuşatması'na kadar (014.M31) olan en büyük savaşların ve en büyük anların zaman çizelgesidir — onlar, Heresy'nin en büyük trajedisinin ve en büyük dersinin somut halidir. Horus Heresy Kronolojisi'nin en büyük özelliği, onun kapsamıdır — onlar, bir savaşın en büyük zaman çizelgesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Horus Heresy Kronolojisi, bir imparatorluğun en büyük yarasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Horus Heresy Kronolojisi'nin en ünlü özelliği, onun Terra Kuşatması'dır — onlar, Heresy'nin sonunun en büyük anıdır ve onların varlığı, İmparatorluğun en büyük savaşının kanıtıdır. Horus Heresy Kronolojisi, İmparatorluğun en büyük ve en trajik iç savaşının zaman çizelgesidir — onlar, İmparatorlu
 
 -# İlişkili kayıtlar: <#1551814951365115956>, <#1551809039342501970>, <#1551814367203303506>, <#1551808968190464005>

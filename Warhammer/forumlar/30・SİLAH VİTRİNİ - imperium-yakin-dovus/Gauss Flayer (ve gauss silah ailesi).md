@@ -15,12 +15,8 @@ Hedefini katman katman, molekül düzeyinde söküp parçalayan bir enerji huzme
 
 ## Tarihçe
 
-Necron Warrior'larının temel silahıdır. Uzun uykunun ardından uyanan tomb world'lerin legion'ları gauss flayer'larla sahaya çıkar. Immortal'lar daha güçlü gauss blaster'lar taşır; gauss cannon'lar ve Monolith gibi yapıların silahları da aynı ailenin daha büyük biçimleridir.
+Gauss Flayer ve gauss silah ailesi, Necron'ların temel silahlarıdır; hedefin atomlarını katman katman soyan ve onu moleküler seviyede parçalayan, Necron'un en yaygın ve en korkulan silah sistemidir. Gauss Flayer'ın çalışması basit ama dehşet vericidir — gauss ışını, hedefin atomik bağlarını kırar ve onu katman katman söker; bir gauss flayer atışı, bir Space Marine'in zırhını veya bir Imperial Guard'ın bedenini saniyeler içinde parçalar ve hedefin geriye kalanı sadece tozdur. Gauss silah ailesi, gauss flayer'dan gauss cannon'a kadar çeşitlidir — bir gauss cannon, bir Imperial tankını veya bir Knight'ı tek atışta eritir; ve gauss teknolojisi, Necron'un en güvenilir silah sistemidir. Gauss Flayer, Necron'un teknolojik üstünlüğünün simgesidir — onların silahları, hedefi sadece öldürmez, onu varoluştan siler.
 
 ## Teknik / Biyolojik Özellikler
 
-Gauss huzmesi hedefin atomik bağlarını bozacak biçimde tarif edilir. Necron teknolojisinin genel niteliği gereği bu silahların da zamanla kendini onarabildiği anlatılır.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Infinite and the Divine — Robert Rath*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>
+Gauss huzmesi hedefin atomik bağlarını bozacak biçimde tarif edilir. Necron

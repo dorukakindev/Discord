@@ -16,8 +16,6 @@ Black Templars'ın High Marshal'ı; Emperor'a tapınmayı savaşla bir tutan, d�
 
 ## Tarihçe
 
-Helbrecht, Black Templars'ın mevcut High Marshal'ıdır (Chapter Master); aynı zamanda Adeptus Astartes'in en büyük deniz komutanıdır. 'Sonsuz haçlının' efendisi olarak Ghazghkull'a ve sayısız düşmana karşı seferler yürüten bu figür, 'uzayın savaşçı-rahibi' olarak chapter'ın en görünür figürüdür.
-
--# Kaynaklar: *Helsreach — Aaron Dembski-Bowden*; *Codex Supplement: Black Templars*
+Helbrecht, Black Templars'ın High Marshal'ı — Chapter'ın en yüksek lideri — ve İmparatorluğun en fanatik ve en ölümcül savaşçılarından biridir; onların görevi, Black Templars'ı İmparator'un düşmanlarına karşı yönlendirmektir ve onlar, İmparatorluğun en korkulan ve en saygın komutanlarıdır. Helbrecht'in en büyük özelliği, onun fanatikliğidir — onlar, İmparator'a olan inançlarıyla savaşır ve onların komutası, Black Templars'ın en büyük seferlerinin kanıtıdır; bir Helbrecht komutası, bir Haçlı Seferi'nin en büyük anıdır ve onların varlığı, İmparatorluğun en fanatik gücünün kanıtıdır. Helbrecht'in en ünlü görevi, Armageddon Savaşı'nda Ork'lara karşı savaşmasıdır — onlar, Ghazghkull'ın filosuna saldıran ve onu geri püskürten komutanlardır ve onların varlığı, Black Templars'ın en büyük za
 
 -# İlişkili kayıtlar: <#1551637696466788466>, <#1551643990196232303>, <#1551759766966116383>, <#1551815418619101185>, <#1551651549804236801>

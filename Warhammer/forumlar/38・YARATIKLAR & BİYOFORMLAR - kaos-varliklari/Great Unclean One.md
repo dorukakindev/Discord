@@ -14,16 +14,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ec/GreatUncleanOne2.png/
 
 ## Tarihçe
 
-Great Unclean One — 'Veba Lordu', 'Sinek Efendisi', 'Koku Lordu' — Veba Tanrısı Nurgle'un grotesk biçimde şişman Greater Daemon'ıdır; hastalık, ölüm ve çürümenin efendisinin elçisidir. Bu iğrenç daemonlar 'çürümenin babacan yüzü' olarak bilinir — sırıtan, şen ve sevecen bir dış görünümle gelir ama dokunuşu vebadır; Nurgle'un 'kişileşmiş afeti'.
+Great Unclean One, Nurgle'un en ünlü ve en korkulan Greater Daemon'ıdır; Nurgle'un en büyük ve en tiksindirici varlığı olan ve onun 'sevgi'sini yayan en tehlikeli daemon olan Great Unclean One, Chaos'un en büyük ve en tehlikeli varlıklarından biridir — onlar, Nurgle'un en ünlü ve en korkulan daemon'udur. Great Unclean One'ın en büyük özelliği, onun vebasıdır — onlar, Nurgle'un en büyük vebasının taşıyıcısıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Great Unclean One, hem bir daemon hem de bir veba taşıyıcısıdır ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Great Unclean One'ın en ünlü özelliği, onun 'sevgi'sidir — onlar, Nurgle'un en büyük ve en 'sevgi dolu' daemon'ıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır. Great Unclean One, Nurgle'un en ünlü ve en korkulan Greater Daemon'ıdır — onlar, bir vebanın ve Nurgle'un 'sevgi'sinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Paslı bileblade, plague flail ya da doomsday bell gibi silahlar taşır; hastalık ve çürüme büyüsüne hâkimdir. Bedeninden sürekli Nurgling'ler dökülür ve bu küçük daemon'lar onun etrafında dolaşır.
-
-## Bilinen Kullanıcılar / Operatörler
-
-Nurgle'ın daemon lejyonları; Death Guard ile birlikte savaşan daemon kuvvetleri. Adı bilinen örnekler arasında Ku'gath Plaguefather ve Rotigus Rainfather sayılır.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Death Guard — 10th Edition*
-
--# İlişkili kayıtlar: <#1551754683222327439>, <#1551654107058540595>, <#1551995328863932499>, <#1551818194841501818>
+Paslı bileblade, plague flail ya da doomsday bell gibi silahla

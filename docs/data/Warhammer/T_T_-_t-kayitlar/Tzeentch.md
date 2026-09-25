@@ -46,6 +46,10 @@ Tzeentch'in daemon orduları kendi doğasını yansıtır. Kahkahalarla savaşan
 
 Prospero'dan sonra Magnus, Tzeentch'in Daemon Prince'i oldu. Ahriman'ın Rubric'i Legion'ı kurtarmak yerine büyük ölçüde toza çevirdiğinde, klasik anlatıma göre Magnus'un öfkesini durduran ve Ahriman'ın öldürülmek yerine sürgüne gönderilmesini sağlayan yine Tzeentch'in iradesiydi. Ahriman'ın sonraki arayışı da bu ironinin gölgesinde sürer: tanrının oyununu bozmaya çalışan her hamle, belki de oyunun bir parçasıdır. Ayrıntılar için <#1551809231580307517>, <#1551816657691746335> ve <#1551808728062501019>.
 
+## Tarihçe
+
+Tzeentch, Chaos'un en gizli ve en tehlikeli tanrısıdır; değişim, entrika ve büyünün tanrısı olan ve onun en gizli planlarını yöneten Tzeentch, Chaos'un en gizli ve en tehlikeli gücüdür — onlar, Chaos'un en gizli ve en tehlikeli tanrısıdır. Tzeentch'in en büyük özelliği, onun entri
+
 ## Great Rift Sonrası ve Güncel Durum
 Great Rift'in açılmasıyla Warp'ın maddi evrene taşması, değişimin tanrısına eşi görülmemiş fırsatlar sundu. Magnus'un M41 sonlarındaki Fenris saldırısı ve Guilliman'ın Terran Crusade'ine kurduğu pusu, Tzeentch'e bağlı güçlerin bu dönemdeki en görünür hamleleridir. 10th Edition dönemi Codex'leri Tzeentch'in güçlerini Era Indomitus'ta bilgi ve kadim sırlar peşinde gösterir. Tzeentch'in uzun vadeli amacı, doğasına uygun biçimde açıklanmaz.
 

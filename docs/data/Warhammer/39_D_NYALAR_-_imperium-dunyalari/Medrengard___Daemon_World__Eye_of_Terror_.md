@@ -14,8 +14,8 @@ Kara kaleler, surlar ve bitmek bilmeyen tahkimatlarla kaplı, kararmış bir gü
 
 ## Tarihçe
 
-Iron Warriors, Scouring'den sonra Göz'ün içinde bu dünyaya yerleşti. Perturabo'nun yükselişinin zamanlaması kaynaklarda farklı çerçevelenir. M41 anlatısında Medrengard, Graham McNeill'in Uriel Ventris romanlarında ayrıntılı biçimde görülür: *Dead Sky Black Sun*'da Death Oath'la sürgün edilen Ventris ve Pasanius bu dünyaya düşer ve Warsmith Honsou'yla yollarını kesiştirir.
+Medrengard, Chaos'un en korkulan ve en yozlaşmış dünyasıdır; Eye of Terror'da bulunan ve Iron Warriors'ın evidir — onlar, Chaos'un en pragmatik ve en tehlikeli dünyasıdır. Medrengard'ın en büyük özelliği, onun sanayisidir — onlar, Iron Warriors'ın evidir ve onların varlığı, Chaos'un sanayisinin merkezidir; bir Medrengard, bir fabrika ve bir mezardır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Medrengard'ın en ünlü özelliği, onun Perturabo'nun evidir — onlar, Iron Warriors'ın primarch'ının evidir ve onların varlığı, bir primarch'ın düşüşünün ve bir Legion'un yozlaşmasının kanıtıdır. Medrengard, Chaos'un en pragmatik ve en tehlikeli dünyasıdır — onlar, sanayinin ve yıkımın somut halidir.
 
 -# Kaynaklar: *Dead Sky Black Sun — Graham McNeill*; *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1552482861872062494>, <#1551650332029751500>, <#1551813775848509482>, <#1552482553003376650>
+-# İlişkili kayıtlar: <#1

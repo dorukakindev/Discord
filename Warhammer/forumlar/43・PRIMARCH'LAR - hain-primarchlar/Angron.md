@@ -12,4 +12,7 @@ Angron, köle yoldaşlarını gerçek bir aile gibi sevdi ve onlarla birlikte ef
 
 ## Kasap Çivileri ve Yükseliş
 Angron'un trajedisi beyinseldir: Nuceria'nın köle-ciran arenasının efendileri, kafatasına Butcher's Nails denen sinirsel işkence çivileri işledi — sürekli öfke ve acı veren, çıkarılması ölümcül bir implant. İmparator onu bulduğunda tam bir isyanın ortasındaydı; köle kardeşlerini savaş alanında bırakmak zorunda kaldığı için onu asla affetmedi. Lejyonu World Eaters aynı çivileri gönüllü taktırdı. Heresy'de ilk hain saflarındaydı; Skalathrax'ta Khârn'ın lejyonu parçalamasından sonra dağılan World Eaters'ı bir savaş tanrısına çevirdi. Armageddon'un İlk Savaşı'nda yalnız yüz Gri Şövalye onu durdurabildi. Bugün Khorne'un en saf, en mahkûm avatarıdır.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Angron, World Eaters'ın en ünlü ve en trajik primarch'ıdır; Nuceria'nın — World Eaters'ın ev gezegeni — en vahşi savaşçısı olan ve World Eaters'ı kuran Angron, İmparatorlu

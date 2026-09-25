@@ -16,7 +16,7 @@ Magus, psişik yetenekleriyle kültün inancını yöneten ve Imperial yetkilile
 
 ## Tarihçe
 
-Magus ('Genestealer Magus'), psişik yetenek geliştirmiş Genestealer hibritidir; kültünün baş infazcısı, propagandacısı ve dış dünyayla diplomatı olarak görev yapar. Güçlü telepatik gücüyle kitleleri 'babalığına' bağlayan bu figür, Genestealer kültünün görünen yüzü ve zihin efendisidir.
+Magus, Genestealer Cults'un en önemli ve en gizli lideridir; onların bir kült'ün psişik lideri olan Magus, Patriarch'ın en yakın yardımcısı ve kültün en güçlü psyker'ıdır — onlar, Genestealer Cults'un en önemli ve en gizli gücüdür. Magus'un en büyük özelliği, onun psişik gücüdür — onlar, bir kültün en güçlü psyker'ıdır ve onların varlığı, kültün en büyük gücünün kanıtıdır; bir Magus, hem bir lider hem de bir psyker'dır ve onların varlığı, Tyranid'in en sinsi silahının somut halidir. Magus'un en ünlü özelliği, onun Patriarch'a olan bağlılığıdır — onlar, bir Genestealer'ın psişik gücüyle birleşen ve kültü yöneten en sadık liderdir ve onların varlığı, kültün en büyük gücünün kanıtıdır. Magus, Genestealer Cults'un en önemli ve en gizli lideridir — onlar, bir kültün psişik gücünün ve Tyranid'in en sinsi silahının somut halidir.
 
 -# Kaynaklar: *Codex: Genestealer Cults — 10th Edition*; *Day of Ascension — Adrian Tchaikovsky*
 

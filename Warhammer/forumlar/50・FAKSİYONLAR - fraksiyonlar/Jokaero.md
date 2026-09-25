@@ -16,8 +16,8 @@ Turuncu kürklü, büyük maymunlara benzeyen, teknolojiyi içgüdüsel olarak a
 
 ## Tarihçe
 
-Bazı Inquisitor'lar Jokaero'ları retinue'lerinde "weaponsmith" olarak kullanmıştır. Bir silahı ya da aleti alıp daha etkili bir şeye dönüştürebildikleri anlatılır.
+Jokaero, WH40K evreninin en tuhaf ve en yetenekli xeno türlerinden biridir; orangutan benzeri, devasa elleri ve zihinleri olan ve evrenin en iyi zanaatkârları ve mühendisleri olarak bilinen bir türdür — onların teknolojisi, İmparatorluğun bile anlayamayacağı kadar gelişmiştir. Jokaero'nun en büyük özelliği, onların yaratıcılığıdır — onlar, rastgele nesnelerden bile en sofistike teknolojiyi yapabilir; bir Jokaero, bir çöp yığınından bir lazer silahı, bir enkazdan bir gemi yapabilir ve onların zanaatı, sadece yetenek değil, doğuştan gelen bir yetenektir. Jokaero'nun İmparatorluk'la ilişkisi karmaşıktır — onlar, Inquisition tarafından hem avlanır hem de kullanılır; bazı Inquisitor'lar, Jokaero'nun zanaatını kendi amaçları için kullanır ve onların eserleri, İmparatorluğun en değerli ve en nadir teknolojisidir. Jokaero, İmparatorluğun en tuhaf ve en değerli xeno türüdür — onlar, evrenin en iyi zanaatkârlarıdır ve onların varlığı, zekânın ve yaratıcılığın en saf halidir.
 
 -# Kaynaklar: *Codex: Grey Knights*
 
--# İlişkili kayıtlar: <#1551809846066548779>, <#1551815304252887041>, <#1551753472070783096>
+-# İlişkili kayıtlar: <#15

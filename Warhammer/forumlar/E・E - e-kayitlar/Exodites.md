@@ -11,6 +11,10 @@ Yerleştikleri gezegenler, Aeldari'nin çok önceden yaşanabilir kılmak üzere
 
 Bu yüzden Exodite yaşamı, craftworld'lerin incelmiş ve katı biçimde kurallaştırılmış düzeninden çok farklıdır. Şehir kurmayan, göçebe klanlar hâlinde dolaşan, sürülerini ve dev binek hayvanlarını güden bu toplumlar, ileri teknolojiyi tümüyle reddetmese de onu gündelik yaşamın merkezinden uzak tutar. Craftworld Aeldari'si onları çoğu zaman kaba ve geri kalmış kuzenler olarak görür; Exodite'ler ise kendilerini atalarının yozlaşmasına en baştan direnmiş olanlar sayar.
 
+## Tarihçe
+
+Exodites, Aeldari ırkının en eski ve en geleneksel kesimidir; Craftworld'lerden kaçan ve Maiden World'lerde — basit ama saf bir yaşam süren — Aeldari'lardır — onlar, Aeldari'nin en doğal ve en geleneksel halidir. Exodites'ın en büyük özelliği, onların basitliğidir — onlar, teknolojiyi reddeder ve
+
 ## World Spirit, Klanlar ve Dragon Knights
 
 **World spirit.** Exodite'ler de spirit stone taşır, fakat ruhlar bir infinity circuit'e değil gezegenin kendisine emanet edilir. Güncel yayınlar bunu dünyaya yayılmış psiko-kristal dikilitaşlar, menhirler ve höyük düğümlerinden oluşan geniş bir ağ olarak betimler. Ölen her Exodite'nin ruhu bu ağa katılarak gezegenin **world spirit**'ini besler ve onu She Who Thirsts'ten korur. Bu, Exodite'leri toprağa craftworld'lerden çok daha derin bir bağla bağlar: bir dünyayı kaybetmek, yalnızca bir yurdu değil, bütün ataları kaybetmektir.

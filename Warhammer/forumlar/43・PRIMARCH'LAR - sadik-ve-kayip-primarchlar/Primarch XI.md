@@ -14,4 +14,7 @@ Gerçek ne olursa olsun, iki numaranın (II ve XI) boşaltılması İmparator'un
 
 ## Kayıp Primarch
 XI. Lejyon'un Primarch'ı da adı ve eseri silinen ikinci kayıptır. Kardeşleri bile onlardan fısıltıyla bahseder: Sanguinius, Fulgrim'e kanının kayıp kardeşlerin hatasını tekrarlamaması için yalvarmıştır; Magnus, kaybolan ikisinin "İmparator'un en büyük sırrı" olduğunu söylemiştir. Lejyonlarının akıbeti bilinmiyor — dağıtıldı mı, imha mı edildi, başka lejyonlara mı katıldı; hepsi söylenti. Games Workshop bu iki boşluğu kasıtlı bırakır: ev sahibi oyuncuların kendi lejyonlarını yazabilmesi için.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Primarch XI, İmparatorluğun en gizli ve en trajik figürüdür; İmparator tarafından yaratılan 20 primarch'tan on birincisi olan ve kaybolan Primarch XI, İmparatorluğun en gizli ve en trajik varlığıdır — onlar, İmparatorluğun en gizli ve en trajik primarch'ıdır. Primarch XI'in en büyük özelliği, onun gizliliğidir — on

@@ -16,8 +16,8 @@ Lychguard, Phaeron'ların, Overlord'ların ve Lord'ların yakın korumalarıdır
 
 ## Tarihçe
 
-C'tan ile yapılan anlaşma ve biotransference, Necrontyr'in katı soy hiyerarşisini metal bedenlere taşıdı; Lychguard da bu düzende muhafız rolünü sürdürdü. Great Sleep'ten uyanan Tomb World'lerde soylular yeniden savaşa girerken Lychguard onların yanındaki en güvenilir kuvvettir. *The Twice-Dead King* dizisi, bir hanedanın yıkık düzeninde bu muhafızların yerine ışık tutar.
+Lychguard, Necron lordlarının kişisel muhafızlarıdır; sıradan Necron savaşçılardan daha güçlü, daha zeki ve daha dayanıklı bedenlerde yaşayan ve Triarch Praetorian'ların altındaki en yüksek savaş rütbesini taşıyan elit birimdir. Lychguard'lar dispersion shield ve warscythe taşır — shield'ları energy reflector özelliğine sahiptir ve düşmanın ateşini geri yansıtır; warscythe ise hem yakın dövüş silahı hem de statü sembolüdür. Görevleri basit ve mutlaktır: Necron lordunu korumak; bir Lychguard manga'sı, lordunun etrafında duvar gibi durur ve düşmanın en güçlü saldırısını bile durdurur. Lychguard'lar, Biotransference'de daha iyi bedenler aldıkları için hâlâ kişilik ve sadakat duygusu taşırlar — onların sadakati mekanik değil, gönüllüdür ve bu yüzden Necron'un en güvenilir savaşçılarıdırlar.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
 
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551812203584295003>, <#1551649070286897172>
+-# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1

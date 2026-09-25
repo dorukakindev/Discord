@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/87/Inquisitor_Lord_Cotea
 
 ## Tarihçe
 
-Torquemada Coteaz, Ordo Malleus'un Puritan Inquisitor Lord'u ve güçlü psyker'dır; onlarca yıllık Chaos karşıtı eylemiyle korkulan Daemonhunter ünü kazandı ve 'Formosa Sektörü'nün Yüksek Koruyucusu' olarak tanınır. Psyber-eagle'ı eşliğinde çalışan bu figür, Inquisition'un en yetkili ve en fanatik daemon avcılarından biridir — 'kutsal paranoya'nın bedeni olarak her şüpheyi soruşturan adam.
+Inquisitor Coteaz, Inquisition'ın en ünlü ve en korkulan üyesidir; Ordo Malleus'un en deneyimli Inquisitor'u olan ve devasa bir psişik kartal — Cherubael — taşıyan Coteaz, İmparatorluğun en gizli ve en tehlikeli koruyucusudur — onlar, İmparatorluğun en ünlü ve en korkulan Inquisitor'udur. Coteaz'ın en büyük özelliği, onun psişik kartalıdır — onlar, bir psişik varlık taşıyan ve onunla daemon'ları avlayan en gizli Inquisitor'dur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Coteaz, hem bir Inquisitor hem de bir avcıdır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Coteaz'ın en ünlü özelliği, onun Ordo Malleus'un üyesidir — onlar, daemon'lara karşı savaşan en gizli ordo'nun en deneyimli üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Inquisitor Coteaz, Inquisition'ın en ünlü ve en korkulan üyesidir — onlar, bir avcının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Inquisition Codexi*, *Eisenhorn romanları*
 -# İlişkili kayıtlar: <#1552848736663765072>

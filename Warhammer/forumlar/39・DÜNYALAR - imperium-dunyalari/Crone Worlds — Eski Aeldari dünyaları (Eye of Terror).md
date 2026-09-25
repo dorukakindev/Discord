@@ -14,8 +14,8 @@ Bir zamanlar Aeldari imparatorluğunun kalbi olan, bugün daemon'ların dolaşt�
 
 ## Tarihçe
 
-Fall'la birlikte bu dünyalar Göz'ün içinde kaldı ve binyıllar boyunca Traitor Legion'ların, kültistlerin ve daemonic varlıkların dünyalarıyla komşu oldu. Great Rift çağında Ynnari, Ynnead'i Aeldari'nin tükenmesini beklemeden uyandırmak için Fall'da kaybolan Croneswords'ü aramaya başladı; bu arayış onları yeniden Crone World'lere yöneltti.
+Crone Worlds, Aeldari ırkının en eski ve en trajik dünyalarıdır; Eye of Terror'da bulunan ve Slaanesh'in doğumundan önce Aeldari'nin evi olan dünyalardır — onlar, Aeldari'nin en büyük trajedisinin ve en eski tarihinin merkezidir. Crone Worlds'ün en büyük özelliği, onların eskiliğidir — onlar, Slaanesh'in doğumundan önce Aeldari'nin evi olan dünyalardır ve onların varlığı, Aeldari'nin en eski tarihinin kanıtıdır; bir Crone World, bir gezegenin en trajik halidir ve onların varlığı, Aeldari'nin en büyük kaybının somut halidir. Crone Worlds'ün en ünlü özelliği, onların Slaanesh'in doğumudur — onlar, Slaanesh'in doğumunun merkeziydi ve onların varlığı, Aeldari'nin en büyük trajedisinin merkezidir. Crone Worlds, Aeldari ırkının en eski ve en trajik dünyalarıdır — onlar, Aeldari'nin en büyük kaybının ve en eski tarihinin somut halidir.
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*
 
--# İlişkili kayıtlar: <#1551814105046851615>, <#1551813775848509482>, <#1551754688008032321>, <#1552483346846715924>
+-# İ

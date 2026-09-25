@@ -15,10 +15,4 @@ Word Bearers, Traitor Legion'lar arasında dinî hiyerarşiyi komuta zincirinin 
 
 ## Tarihçe
 
-Heresy'den sonra Lorgar, Eye of Terror'daki Sicarus'ta tapınağına kapanınca Legion'ın gündelik yönetimi Dark Apostle'lara ve kaynaklarda Sicarus'ta inanç işlerini yöneten bir Dark Council olarak geçen meclise kaldı. Word Bearers, fethettiği dünyalarda Chaos'un sözünü yayan, kült ağları kuran ve kitlesel ayinler düzenleyen misyoner bir güç olarak Long War'u sürdürür.
-
-## Teknik / Biyolojik Özellikler
-
-Dark Apostle'ın yanında savaş liderliğini üstlenen Coryphaus ve rahiplik yolunda ilerleyen yardımcıları yer alır; kutsal metinler, crozius ve Host'un ikonları hiyerarşinin simgeleridir.
-
--# Kaynaklar: *Dark Apostle — Anthony Reynolds*; *The First Heretic — Aaron Dembski-Bowden*; *Codex: Chaos Space Marines — 10th Edition*
+Word Bearers'ın ruhban hiyerarşisi, Chaos'a düşmüş ilk Legion'un dini yapısıdır; Lorgar Aurelian'ın kurduğu ve İmparator'a olan tapınmayı Chaos tanrılarına çeviren en organize Chaos teokrasisidir — onların ordusu hem askeri hem de dini bir yapıdır. Word Bearers'ın en tepesinde Dark Council ve onun başında Erebus, Kor Phaeron veya doğrudan Lorgar bulunur; altında Dark Apostle'lar (Chaplain'lerin Chaos versiyonu), Coryphaus'lar (savaş liderleri) ve sayısız rahip ve acolyte vardır — onların görevi, Chaos tanrılarının iradesini yorumlamak ve Legion'u doğru yola yönlendirmektir. Word Bearers'ın ruhban yapısı, onları diğer Chaos Legion'larından ayırır — onlar sadece savaşçı değil, aynı zamanda misyonerdir; bir Word Bearer'ın görevi, sadece öldürmek değil, İmparatorluğun her köşesine Chaos'un sözünü taşımaktır. Word Bearers'ın hiyerarşisi, Chaos'un en or

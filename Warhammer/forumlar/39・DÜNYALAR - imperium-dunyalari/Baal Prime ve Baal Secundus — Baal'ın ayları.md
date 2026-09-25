@@ -16,8 +16,8 @@ Blood Angels'ın aday kaynağı olan, mutasyonla boğuşan kabilelerin yaşadı�
 
 ## Tarihçe
 
-Legion ve sonra Chapter, adaylarını bu ayların kabilelerinden seçti. M41'in sonunda Hive Fleet Leviathan'ın bir kolu, önce Cryptus sisteminde yavaşlatılıp ardından Baal'a ulaştı. Kaynaklara göre ay dünyaları yıkıma uğradı ve savunma Arx Angelicum'un surlarına dek geriledi. Great Rift'in açılışı ve Guilliman'ın Indomitus filosunun gelişi Baal'ı kurtardı; aylar ise savaşın en ağır bedelini ödeyen yerler olarak anıldı.
+Baal Prime ve Baal Secundus, Blood Angels'ın Chapter yurdu olan Baal'ın iki aylarıdır; onların çöl ve kaya yapısı, Blood Angels'ın sert ve asil yapısının somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Baal'ın aylarının en büyük özelliği, onların sertliğidir — onlar, çöl ve kayadır ve onların varlığı, Blood Angels'ın sertliğinin ve asaletinin kanıtıdır; bir Baal ayı, bir gezegenin en sert halidir ve onların varlığı, bir Legion'un evinin en sert parçasıdır. Baal'ın aylarının en ünlü özelliği, onların Blood Angels'ın evidir — onlar, bir Legion'un evidir ve onların varlığı, bir Legion'un ruhunun ve onurunun kanıtıdır. Baal Prime ve Baal Secundus, Blood Angels'ın evidir ve onların ruhunun merkezidir — onlar, sertliğin ve asaletin somut halidir.
 
 -# Kaynaklar: *Devastation of Baal — Guy Haley*; *Shield of Baal: Leviathan*; *Codex Supplement: Blood Angels — 10th Edition*
 
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809334483361823>
+-# İlişkili kayıtlar: <#1551811368389181491>,

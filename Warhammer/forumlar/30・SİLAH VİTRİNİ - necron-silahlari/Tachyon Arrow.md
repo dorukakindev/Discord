@@ -5,14 +5,23 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Tachyonarrow10.jpg/re
 
 -# *Takyon Oku*
 
-Necron soylularının kolundaki tek atışlık silah; ışık hızını aşan bir enerji oku fırlatır. Menzili neredeyse sınırsızdır ve hiçbir zırh onu durduramaz, ama yalnızca bir kez ateşlenebilir.
+Necron soylularının bileğine monte edilmiş incelikli yöneltilmiş-enerji silahı; etkinleştirildiğinde eylemsiz bir metal parçasını, bir dağın kalbini delebilecek durdurulamaz bir yıldırıma dönüştürür. Menzili neredeyse sonsuzdur ve Titan zırhı dahil hemen her zırhı deler — fakat tuhaf cephaneliği tek atışta tükenir.
 
-
-## Teknik ve Kullanım
-Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+- **Kategori:** Tek atışlık bilek silahı / takyon hızlandırıcı — <#1551629117542113372>
+- **Fraksiyon:** Necrons
+- **Dönem:** Kadim dönemden Era Indomitus'a
+- **Köken:** Necron kraliyetinin bilek donanımıdır. *Sonsuzluk Oku* (Arrow of Infinity) adlı gelişmiş varyantı, Khosyphane xenos uygarlığının kalbinde yatan Star of Ages kristalinin kütleçekimsel sıkıştırılmış bir parçasını barındırır — Mandrakyn Conclave'in Cryptek'leri bu kristali ele geçirmek için Khosyphane'yi yok etmiştir.
+- **Teknik / Biyolojik Özellikler:** Aktivasyonda küçük bir metal parçası ışık hızına eş bir takyon okuna çevrilir; cephanesi savaş ortasında yeniden doldurulamayacak kadar karmaşıktır.
+- **Bilinen Kullanıcılar / Operatörler:** Necron Overlord'ları, Lord'ları ve Destroyer Lord'ları.
+- **Önemli Olaylar:** *The Twice-Dead King: Ruin* romanında tek atışlık bir varyantın Imperial Titan'ı tek vuruşta yok ettiği anlatılır; kanonda bir Overlord'un takyon okuyla bir Warlord Titan'ın reaktörlerini vurup patlattığı da geçer.
+- **Kanon Notu:** Adı, ışıktan hızlı hareket ettiği varsayılan takyon parçacığından gelir.
 
 ## Tarihçe
 
-Necron soylularının bileğe monte silahı; bir metal parçasını dağın kalbini delebilen durdurulamaz yıldırıma çevirir. Neredeyse sonsuz menzil — tek atış, tek ölüm.
+Soylunun bileğindeki bu küçük mekanizma, Necron'un "fiziğe emretme" teknolojisinin en saf örneklerinden biridir: kapalı ve pasifken sade bir bileklik, açıkken bir dağın kalbini delecek mermiyi kucaklayan bir kundaktır. Tek atış, tek ölüm — kullanan soylu o tek atışı ziyan etmemek için fırsatını bekler; çünkü ikinci atış ancak cephaneliğin mezar dünyasında yeni
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+den yüklenebildiği yerde gelir.
+
+-# Kaynaklar: *Codex: Necrons — 5th Edition* (s.82); *The Twice-Dead King: Ruin — Nate Crowley* (Bölüm 18); Lexicanum — "Tachyon Arrow", "Arrow of Infinity"; Warhammer 40,000 — Fandom
+
+-# İlişkili kayıtlar: <#1551812950052962325>, <#1551817348900589669>, <#1551817244844232727>

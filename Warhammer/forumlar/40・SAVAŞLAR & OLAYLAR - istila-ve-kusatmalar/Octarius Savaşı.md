@@ -14,6 +14,4 @@ Savaşın bedeli ve sorunu şudur: Orklar ve Tyranidler birbirini öğütse de, 
 
 ## Tarihçe
 
-Leviathan'ın Ork Octarius'a yöneltilmesi; Kryptman'ın iki düşmanı birbirine yedirme planı. En sinik İmparatorluk taktiği — Tyranid'ler Ork'ları, Ork'lar Tyranid'leri yer.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Octarius Savaşı, İmparatorluğun Ork ve Tyranid'ler arasındaki en büyük çatışmayı izlediği ve etkilendiği nadir savaşlardan biridir. Octarius sektörü, Ork'lar ve Tyranid Hive Fleet Leviathan arasındaki savaşın merkezine dönüştü; bu iki xeno ırkı birbirlerini yok etmek için savaşırken Imperialis, aradan yararlanmaya çalıştı. Savaş sırasında hem Ork'lar hem de Tyranid'ler karşılıklı olarak evrimleşti ve güçlendi; bu durum, Imperialis için her iki tehdidin de büyüdüğü anlamına geliyordu. İmparatorluk kuvvetleri, Octarius sektörüne girerek her iki

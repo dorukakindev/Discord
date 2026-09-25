@@ -14,6 +14,6 @@ Pavonis, Ultramarines kayıtlarında tanınan bir İmparatorluk dünyasıdır: T
 
 ## Tarihçe
 
-Pavonis, Ultramarines kayıtlarında tanınan bir İmparatorluk dünyasıdır: Tau İmparatorluğu'na yakınlığı onu sürekli diplomatik ve askeri çekişme alanı yapar. Uriel Ventris'in burada geçen görevleri roman serisinin önemli bölümlerindendir; dünya, İmparatorluk'un doğu sınırındaki kırılganlığın simgesidir.
+Pavonis, İmparatorluğun en stratejik ve en önemli dünyalarından biridir; Ultramar'ın en önemli dünyalarından birini oluşturan ve Ultramarines'in savunmasında kritik rol oynayan bir dünyadır — onlar, Ultramar'ın en önemli savunma noktasıdır. Pavonis'in en büyük özelliği, onun stratejik konumudur — onlar, Ultramar'ın merkezinde bulunur ve onların varlığı, Ultramar'ın güvenliğinin merkezidir; bir Pavonis savunması, Ultramar'ın güvenliğinin temelidir. Pavonis'in en ünlü özelliği, onun tarihi önemidir — onlar, Ultramar'ın en eski ve en sadık dünyalarından biridir ve onların varlığı, Ultramar'ın geleneğinin ve sadakatinin kanıtıdır. Pavonis, Ultramar'ın en stratejik ve en önemli dünyasıdır — onlar, Ultramar'ın savunmasının somut halidir.
 
 -# Kaynaklar: *Ultramarines* roman serisi; Warhammer 40,000 — Lexicanum derlemesi

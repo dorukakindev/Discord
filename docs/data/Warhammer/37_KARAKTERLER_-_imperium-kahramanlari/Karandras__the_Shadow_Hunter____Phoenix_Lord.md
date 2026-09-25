@@ -16,8 +16,4 @@ Striking Scorpions'ın Phoenix Lord'u; gölgelerde bekleyen, sabırlı ve ölüm
 
 ## Tarihçe
 
-Karandras — 'Gölge Avcısı' — Craftworld Aeldari'nin Striking Scorpions Aspect'inin Phoenix Lord'udur; efsaneye göre düşmüş Phoenix Lord Arhra'nın öğrencisiydi ve onu avlamaya yemin etti. 'Kendi ustasını kovalayan figür' olarak zıpkın gibi sessiz avcıdır — 'en sessiz Phoenix' olarak bilinir.
-
--# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551813105166712966>, <#1551814105046851615>, <#1551810506078290021>
+Karandras (the Shadow Hunter), Aeldari'nin en gizli ve en ölümcül Phoenix Lord'udur; Striking Scorpions Aspect'inin kurucusu olan Karandras, Aeldari'nin en gizli savaşçı geleneğinin ve onların en ölümlü suikastçısının simgesidir — onlar, Aeldari'nin en gizli ve en ölümcül savaşçısıdır. Karandras'ın en büyük özelliği, onun gizliliğidir — onlar, bir suikastçının en büyük ustasıdır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Karandras, hem bir savaşçı hem de bir hayalettir ve onların savaşı, hem fiziksel hem de sinsidir. Karandras'ın en ünlü özelliği, onun Striking Scorpions'ın kurucusudur — onlar, Aeldari'nin en gizli Aspect'inin yaratıcısıdır ve onların varlığı, Aeldari'nin savaş sanatının en gizli noktasının kanıtıdır

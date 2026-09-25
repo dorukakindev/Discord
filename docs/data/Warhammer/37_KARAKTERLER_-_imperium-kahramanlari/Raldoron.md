@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/BA_war_Chapter_Master
 
 ## Tarihçe
 
-Raldoron — 'Kanlı' ve 'Bilgeliğin Archein'i — Büyük Sefer ve Heresy'de Blood Angels lejyonunun efsanevi birinci kaptanıydı; elit 1. Bölüğün Chapter Master'ı ve 'Encarmine Warblade' kılıcını taşıyan figür. Signus'ta ve Terra Kuşatması'nda Sanguinius'un yanındaydı; 'en soylu oğul' olarak Blood Angels'ın altın çağının simgesi.
+Raldoron, Blood Angels'ın en ünlü ve en onurlu First Captain'ıdır; Büyük Haçlı Seferi'nin sonunda Blood Angels'ın 1. Bölük'ünün First Captain'ı olan ve Chapter Master olarak görev yapan Raldoron, İmparatorluğun en saygın ve en onurlu savaşçısıdır — onlar, Blood Angels'ın en ünlü ve en onurlu üyesidir. Raldoron'un en büyük özelliği, onun onurudur — onlar, Blood Angels'ın en saygın First Captain'ıdır ve onların varlığı, Blood Angels'ın en büyük onurunun kanıtıdır; bir Raldoron komutası, bir Chapter'ın en onurlu zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Raldoron'un en ünlü özelliği, onun Blood Angels'ın First Captain'ıdır — onlar, bir Chapter'ın en yüksek rütbeli üyesidir ve onların varlığı, Blood Angels'ın en büyük gücünün kanıtıdır. Raldoron, Blood Angels'ın en ünlü ve en onurlu First Captain'ıdır — onlar, bir onurun ve Blood Angels'ın en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

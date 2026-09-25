@@ -16,8 +16,4 @@ Kin, Votann'ları atalarının bilgeliğini taşıyan kutsal varlıklar olarak s
 
 ## Tarihçe
 
-Age of Strife'ın Warp fırtınaları Kin'i insanlığın geri kalanından koparınca, galaktik çekirdekteki topluluklar Votann'ların sakladığı bilgiyle ayakta kaldı. Her League bir ya da birkaç Votann çevresinde örgütlenir ve siyasi, ekonomik, askerî kararlar onların rehberliğiyle alınır.
-
--# Kaynaklar: *Codex: Leagues of Votann*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551813334993739777>, <#1551757340905181286>
+Votann (Ancestor Core'lar), Leagues of Votann'ın en ünlü ve en kutsal varlıklarıdır; Leagues'ın atalarının bilgisini saklayan ve onların en kutsal emanetleri olan Votann, Leagues'ın en kutsal ve en önemli varlıklarıdır — onlar, Leagues'ın en ünlü ve en kutsal varlıklarıdır. Votann'ın en büyük özelliği, onların bilgisidir — onlar, Leagues'ın atalarının bilgisini saklayan en kutsal varlıklardır ve onların varlığı, Leagues'ın en büyük geleneğinin kanıtıdır; bir Votann, hem bir bilgi hem de bir tanrıdır ve onların varlığı, Leagues'ın en büyük geleneğinin somut halidir. Votann'ın en ünlü özelliği, onların Ancestor Core'larıdır — onlar, Leagues'ın en kutsal ve en gizli varlıklarıdır ve onların varlığı, Leagues'ın en büyük geleneğinin kanıtıdır. Votann, Leagues of Votann'ın en ünlü ve en kutsal varlıklarıdır — onlar, bir bilginin ve League

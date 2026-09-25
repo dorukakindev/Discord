@@ -15,12 +15,4 @@ Nova Terra Interregnum'dan Age of Apostasy'ye ve onu izleyen Black Crusade'lere 
 
 ## Tarihçe
 
-4th Black Crusade 001.M34'e tarihlenir. Nova Terra Interregnum yaklaşık M34 sonundan 975.M35'e dek sürer; Mechanicus içindeki Moirae Schism de bu döneme düşer. M36, Goge Vandire'nin Reign of Blood'uyla anılır; Sebastian Thor'un Confederation of Light hareketi ve Alicia Dominica'nın saf değiştirmesi dönemi kapatır, Decree Passive ile Orders Militant kurumsallaşır. Black Crusade'ler aralıklarla sürer: 5th (723.M36), 6th (901.M36), 7th (811.M37) ve 8th (999.M37).
-
-## Kanon Notu
-
-Interregnum'un başlangıcı kesin bir tarihle verilmez. Reign of Blood'un tam yılları ve Plague of Unbelief'in Vandire dönemine göre yeri kaynaklarda aynı biçimde anlatılmaz.
-
--# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*; *Codex: Chaos Space Marines*; *Warhammer 40,000 Rulebook — 5th Edition*
-
--# İlişkili kayıtlar: <#1551648987482951770>, <#1551810771472883713>, <#1551651549804236801>, <#1551811393680838699>
+M33–M37 Interregnum ve Apostasy Çağı, İmparatorluğun en karanlık ve en yozlaşmış dönemidir; İmparatorluğun iç savaşlarını, dini yozlaşmasını ve en büyük iktidar mücadelelerini yaşadığı bir dönemdir — onlar, İmparatorluğun en karanlık ve en yozlaşmış döneminin somut halidir. Interregnum ve Apostasy Çağı'nın en büyük özelliği, onun yozlaşmasıdır — onlar, İmparatorluğun en yozlaşmış döneminin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük iç tehdidinin kanıtıdır; bir Apostasy Çağı, bir imparatorluğun en karanlık anının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük yozlaşmasının somut halidir. Interregnum ve Apostasy Çağı'nın en ünlü özelliği, onun Vandire'in düşüşüdür — onlar, bir liderin en büyük yozlaşmasının ve en büyük yenilgisinin anıdır ve onların varlığı, İmparatorluğun en büyük dersinin kanıtıdır. M33–M37 Interregnum ve Apostasy Çağı, İmparatorluğun en karanlık ve en yozlaşmış dönemidir — onlar, İmparatorluğun en büyük yozlaşmasının ve en büyük dersinin somut halid

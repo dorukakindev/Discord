@@ -15,7 +15,7 @@ Emperor's Children'ın Great Crusade'de yok ettiği, sanat ve kusursuzluk takın
 
 ## Tarihçe
 
-Emperor's Children, Laer'e karşı ağır bir harekât yürüttü ve türü yok etti. Bir Laer tapınağında Fulgrim, içinde daemonik bir varlığın yuvalandığı bir kılıç ele geçirdi. Kılıcın fısıltıları Primarch'ın gururunu besleyerek onu zamanla Slaanesh'e sürükledi.
+Laer, WH40K evreninin en trajik ve en önemli xeno türlerinden biridir; Fulgrim'in düşüşünün sebebi olan ve Slaanesh'in tapınağı olan bir türdür — onların yok edilmesi, Horus Heresy'nin en önemli anlarından biridir. Laer'in en büyük özelliği, onların mükemmellik arayışıdır — onlar, Slaanesh'in en sadık ve en yozlaşmış tapınakçılarıydı; ve onların dünyası, Laeran, mükemmelliğin ve aşırılığın merkeziydi — orada Fulgrim, onun düşüşünün başlangıcı olan Laeran kılıcını buldu. Laer'in en ünlü anı, Fulgrim'in onları yok etmesidir — onların yok edilmesi, bir primarch'ın düşüşünün ve bir Legion'un yozlaşmasının başlangıcıdır; ve onların varlığı, Slaanesh'in en büyük tuzağıydı. Laer, İmparatorluğun en trajik ve en önemli xeno türüdür — onlar, bir primarch'ın düşüşünün ve bir Legion'un yozlaşmasının başlangıcıdır.
 
 ## Kanon Notu
 
@@ -23,4 +23,4 @@ Laer'in Slaanesh'e ne ölçüde tapındığı ve kılıçtaki varlığın köken
 
 -# Kaynaklar: *Fulgrim — Graham McNeill*
 
--# İlişkili kayıtlar: <#1551650243865477191>, <#1551813750305198101>, <#1551754688008032321>, <#1551814367203303506>
+-# İlişkili kayıtlar: <#1551650243865477191>, <#1551813750305198101>, <#1551754688008032321>, <#155181436

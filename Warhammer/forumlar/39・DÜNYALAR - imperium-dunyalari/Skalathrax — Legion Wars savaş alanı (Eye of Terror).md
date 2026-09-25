@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Kharn.jpeg/revision/l
 
 ## Tarihçe
 
-World Eaters ile Emperor's Children arasındaki çatışma sürerken gezegenin gecesi bütün yüzeyi donduracak kadar soğudu ve savaşçıların çoğu barınaklara çekildi. Angron'un yakın yoldaşı Khârn bu çekilmeyi Khorne'a ihanet sayarak barınakları ateşe verdi ve kendi kardeşlerine saldırdı. Ardından gelen kıyım World Eaters'ı bağımsız warband'lere böldü; Khârn o günden sonra Betrayer lakabıyla anıldı. Emperor's Children da bu çatışmanın ardından tek bir komuta altında birleşmeyen warband'lere dağıldı.
+Skalathrax, Chaos'un en korkulan ve en trajik dünyasıdır; Eye of Terror'da bulunan ve Legion Wars'ın — Chaos Legion'larının birbirine karşı savaştığı — en büyük savaşının merkezidir — onlar, Chaos'un en karanlık ve en trajik dünyasıdır. Skalathrax'ın en büyük özelliği, onun savaşıdır — onlar, Chaos Legion'larının birbirine karşı savaştığı en büyük savaşın merkezidir ve onların varlığı, Chaos'un en büyük trajedisinin kanıtıdır; bir Skalathrax, bir gezegenin en savaş halidir ve onların varlığı, Chaos'un en büyük yıkımının somut halidir. Skalathrax'ın en ünlü özelliği, onun Kharn'ın evidir — onlar, World Eaters'ın en büyük savaşçısının en büyük katliamını yaptığı yerdir ve onların varlığı, bir Legion'un düşüşünün ve bir savaşçının deliliğinin kanıtıdır. Skalathrax, Chaos'un en korkulan ve en trajik dünyasıdır — onlar, Chaos'un en büyük yıkımının somut halidir.
 
--# Kaynaklar: *Codex: World Eaters — 10th Edition*; *Codex: Emperor's Children — 10th Edition*
-
--# İlişkili kayıtlar: <#1551995320303489068>, <#1551813750305198101>, <#1551816158951510069>, <#1551995201386578031>
+-# Kaynaklar: *Codex: World Eaters — 10

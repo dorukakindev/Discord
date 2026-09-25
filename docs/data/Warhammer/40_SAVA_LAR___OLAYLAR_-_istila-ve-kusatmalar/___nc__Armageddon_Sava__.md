@@ -12,4 +12,7 @@ Ghazghkull, ilk yenilgisinden hiç yılmamıştı; aksine onu bir ders olarak g�
 
 ## Ghazghkull'un Dönüşü
 998.M41'de Ghazghkull Mag Uruk Thraka, elli yıl önce İkinci Savaş'ta öğrendiği derslerle geri döndü: devasa Rok inişleri, sürpriz Titan savaşları, koordineli WAAAGH!. Komiser Yarrick yaşlanmıştı ama yine sahadaydı; Armageddon bir kez daha cehenneme döndü. İmparatorluk devasa takviye yolladı — Black Templars Haçlı Seferi (Marshal Helbrecht'in kendi seferi), çok sayıda lejyon ve Guard ordusu. Savaş yıllarca sürdü ve resmen hiç bitmedi: Ghazghkull çekildiğinde bile Armageddon'un çorak bölgelerinde Ork direnişi sürer. Gezegen bugün de sonsuz bir siper-cephesidir.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Üçüncü Armageddon Savaşı, Armageddon'un üçüncü ve son büyük Ork saldırısı olarak başladı ve günümüzde hâlâ devam etmektedir. Ghazghkull Mag Uruk Thraka, ikinci saldırısında tamamen yenilmediği için daha büyük bir orduyla geri döndü; bu sefer amacı, Armageddon'u tamamen ele geçirmekti. İmparatorluk kuvvetleri, Yarrick'in yanı sıra birçok Space M

@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Thaddeus_Hakk-0.png/r
 
 ## Tarihçe
 
-Thaddeus Hakk, Ordo Xenos'un Inquisitor'üdür; İmparatorluk'a yaklaşık bir yüzyıllık hizmetin gazisi ve eski Radical Ocularian tarikatı üyesidir. İlk kariyeri meslektaşlarına neredeyse bilinmez — Calixis Sektörü'ne zaten Inquisitorial Rosette sahibi olarak geldi. Şu anda Achilus Seferi'nde görev yapıyor; 'geçmişi karanlık araştırmacı' olarak Jericho'nun gizli dosyalarının ortasındadır.
+Thaddeus Hakk, Inquisition'ın en gizli ve en bilgili üyesidir; 'Bilgi dayanır' diyen ve Inquisition'ın en büyük bilgisini saklayan Hakk, İmparatorluğun en gizli ve en bilgili varlığıdır — onlar, Inquisition'ın en gizli ve en bilgili üyesidir. Thaddeus Hakk'ın en büyük özelliği, onun bilgisidir — onlar, Inquisition'ın en büyük bilgisini saklayan ve onu kullanan en bilgili Inquisitor'dur ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Hakk, hem bir Inquisitor hem de bir bilgindir ve onların varlığı, İmparatorluğun en gizli varlığının somut halidir. Thaddeus Hakk'ın en ünlü özelliği, onun bilgisidir — onlar, İmparatorluğun en gizli bilgisinin en büyük koruyucusudur ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Thaddeus Hakk, Inquisition'ın en gizli ve en bilgili üyesidir — onlar, bir bilginin ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

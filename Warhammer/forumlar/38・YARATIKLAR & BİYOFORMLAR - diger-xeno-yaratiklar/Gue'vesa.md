@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/48/Gue%27vesa_mini.jpg/r
 
 ## Tarihçe
 
-Gue'vesa ('insan yardımcı'), Greater Good'u kabul eden insanlardır — Damocles Seferi ve sonrasında T'au'ya katılan Imperial vatandaşları, eski Guardsman'lar ve kolonistler. Pulse rifle'larla donatılıp Fire Warrior'ların yanında savaşırlar; İmparatorluk için en ağır ihanet biçimidir — insanlığın kendi iradesiyle xenos'a geçişi.
+Gue'vesa, T'au Empire'ın en ünlü ve en trajik insan birliğidir; T'au'ya katılan ve onların Greater Good'unu savunan en trajik insan birliği olan Gue'vesa, T'au'nun en trajik ve en önemli varlığıdır — onlar, T'au'nun en ünlü ve en trajik insan birliğidir. Gue'vesa'nın en büyük özelliği, onların trajedisidir — onlar, T'au'ya katılan ve onların Greater Good'unu savunan en trajik insan birliğidir ve onların varlığı, T'au'nun en büyük ideolojisinin kanıtıdır; bir Gue'vesa, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Gue'vesa'nın en ünlü özelliği, onların T'au'ya katılmasıdır — onlar, bir insanın T'au'ya ihanetinin en trajik halidir ve onların varlığı, T'au'nun en büyük ideolojisinin kanıtıdır. Gue'vesa, T'au Empire'ın en ünlü ve en trajik insan birliğidir — onlar, bir trajedinin ve T'au'nun en büyük ideolojisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,6 +14,4 @@ Frateris'in tarihi karanlıktır: Vandire döneminde 'Brides of the Emperor' (so
 
 ## Tarihçe
 
-Frateris Templar, Ecclesiarchy'nin sivil silahlı gücüdür; 'din yolunda savaşan siviller' olarak Ministorum'un kendi ordusunu oluşturur. Resmî savaş gücü olmayan ama fanatik bağlılıkla donanmış — kilisenin gizli ordusu.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Frateris Templar, Ecclesiarchy'nin en eski ve en fanatik askeri tarikatıdır; onların görevi, İmparator'un kilisesini korumak ve onun düşmanlarını yok etmektir ve onlar, İmparatorluğun en fanatik ve en sadık savaşçılarıdır. Frateris Templar'ın en büyük özelliği, onların fanatikliğidir — onlar, İmparator'a olan inançlarıyla savaşır ve onların savaşı, hem askeri hem de dini bir seferdir; bir Frateris Templar, hem bir savaşçı hem de bir rahiptir ve onların savaşı, he

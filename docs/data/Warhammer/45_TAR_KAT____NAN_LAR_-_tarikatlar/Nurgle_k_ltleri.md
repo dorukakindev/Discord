@@ -16,8 +16,6 @@ Nurgle kültleri çoğu zaman salgının, açlığın ve terk edilmişliğin iç
 
 ## Tarihçe
 
-Kaynaklarda Nurgle'a tapınma, bir veba salgınının ortasında umudunu yitirmiş halk arasında hızla yayılır. Plague cult'lar Death Guard istilalarının öncüsü olur; dünyayı içeriden hasta eder, savunmayı çürütür. Great Rift sonrası Plague Wars'ta Ultramar'a yönelen Nurgle seferi, bu yaklaşımın Imperium'un kalbine kadar uzanabileceğini gösterdi.
+Nurgle kültleri, Chaos'un en korkulan ve en tiksindirici inanç sistemlerinden biridir; onların Nurgle'a — Chaos'un hastalık ve çürüme tanrısı — olan inançları ve onların 'sevgi' anlayışını uygulayan gizli tarikatlardır — onlar, İmparatorluğun en korkulan ve en tiksindirici iç düşmanıdır. Nurgle kültlerinin en büyük özelliği, onların hastalığıdır — onlar, Nurgle'un 'sevgi' anlayışını uygular ve onların görevi, tüm yaşamı Nurgle'un kutsal çürümesiyle 'sevmek'tir; bir Nurgle kültisti, hem bir inanan hem de bir hastalık taşıyıcısıdır ve onların varlığı, İmparatorluğun en korkulan düşmanının kanıtıdır. Nurgle kültlerinin en ünlü özelliği, onların 'sevgi' anlayışıdır — onlar için hastalık, bir armağandır ve onların varlığı, Chaos'un en korkulan gücünün kanıtıdır. Nurgle kültleri, İmparatorluğun en korkulan ve en tiksindirici inanç sistemidir — onlar, hastalığın ve 'sevgi'nin birleşimidir.
 
--# Kaynaklar: *Realm of Chaos: The Lost and the Damned*; *Codex: Death Guard*; *Dark Imperium: Plague War — Guy Haley*
-
--# İlişkili kayıtlar: <#1551754683222327439>, <#1551813274327060552>, <#1551818194841501818>, <#1551812325521100811>
+-# Kaynaklar: *Rea

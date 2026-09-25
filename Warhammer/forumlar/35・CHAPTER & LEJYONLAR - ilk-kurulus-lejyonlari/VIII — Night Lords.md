@@ -16,8 +16,4 @@ Terörü bir yönetim ve savaş aracı olarak kullanan Legion. Chaos'a tapınmak
 
 ## Tarihçe
 
-Great Crusade'de itaati korkuyla dayatan Legion'ın yöntemleri, zamanla öteki Legion'larla ve Emperor'la açık bir kopuşa varan gerilim yarattı. Curze, Nostramo'yu kendi eliyle yok etti ve Heresy'de Horus'un safında yer aldı; Thramas'ta Dark Angels'la uzun bir savaş yürüttü. Heresy'nin ardından Curze, ölümünü önceden gördüğü halde kaçmadığı bir Callidus suikastiyle öldürüldü. Legion, dağınık akıncı filolar hâlinde uzun savaşı sürdürmektedir.
-
--# Kaynaklar: *Soul Hunter — Aaron Dembski-Bowden*; *Konrad Curze: The Night Haunter — Guy Haley*
-
--# İlişkili kayıtlar: <#1551637693933289523>, <#1551650286626672722>, <#1551813077991686208>
+Night Lords (VIII Legion), Konrad Curze'un oğullarıdır; terör, korku ve adaletsiz bir adalet anlayışıyla savaşan ve Horus Heresy'de Chaos'a düşen ilk Legion'lardan biridir — onların savaşı, karanlıkta, sessizlikte ve dehşetle yapılır. Night Lords'un savaş doktrini, Curze'un vizyonundan doğar — onlar terörü silah olarak kullanır; bir Night Lord, düşmanını öldürmeden önce onu paralize edecek kadar korkutur ve onların savaşı, fiziksel olduğu kadar psikolojiktir. Night Lords'un en korkulan özelliği, onların sessizliğidir — onlar savaşta bağırmaz, konuşmaz, sadece avlanır ve öldürür; ve onların kurbanları, son nefeslerinde bile Night Lord'un yüzünü görmez. Night Lords'un düşüşü, Heresy'nin en karanlık hikâyesidir — Curze'un deliliği, Legion'un yozlaşması ve sonunda Curze'un kendi oğulları tarafından öldürülmesi; Night Lords, İmparatorluğun en karanlık efsanes

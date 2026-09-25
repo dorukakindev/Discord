@@ -10,6 +10,6 @@ Leman Russ, Space Wolves'un vahşi, gururlu ve efsanevi primarch'ıydı; Heresy'
 
 ## Tarihçe
 
-Space Wolves'un kutsal mızrağı; Leman Russ'un kendisi kullandı. Chapter'ın en derin sırrı — herkesin aradığı, Ragnar'ın kaybettiği şey.
+The Spear of Russ, Space Wolves'un en ünlü ve en kutsal relic'idir; Leman Russ'un — Space Wolves'un primarch'ı — kendi kullandığı ve onun en büyük savaşlarının simgesi olan bir mızraktır — onlar, Space Wolves'un en ünlü ve en kutsal hazinesidir. The Spear of Russ'ın en büyük özelliği, onun gücüdür — onlar, bir primarch'ın kendi silahıdır ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır; bir Spear of Russ kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de semboliktir. The Spear of Russ'ın en ünlü özelliği, onun Leman Russ'a ait olmasıdır — onlar, bir primarch'ın kendi silahıdır ve onların varlığı, Space Wolves'un en büyük onurunun kanıtıdır. The Spear of Russ, Space Wolves'un en ünlü ve en kutsal relic'idir — onlar, bir primarch'ın mirasının ve Space Wolves'un ruhunun somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,4 +12,7 @@ Dorn savunma ve tahkimatın dehasıydı; bu, onu kuşatma ustası Perturabo'nun 
 
 ## Heresy ve Sonrası
 Heresy sırasında Dorn, Terra'nın ve İmparatorluk Sarayı'nın savunmasını tasarlayıp komuta etti: surları, hava savunma hatlarını ve son mevzi planlarını bizzat çizdi. Terra Kuşatması'nda İmparator'un yanında durdu ve düşen babasının bedenini Vengeful Spirit'ten taşıyan oydu. Kardeşlerinin kaybı onu öfkeye itti; Iron Cage'de Perturabo'nun tuzağına neredeyse tüm lejyonunu feda edecek kadar ileri gitti. Sonrasında lejyonları bölen Codex Astartes'e en son boyun eğen Primarch'lardan oldu. Geleneksel kayıtlara göre bir Chaos saldırısında kayboldu; geriye yalnızca kesik eli kaldı ve Imperial Fists tarafından kutsal emaneti olarak saklanır.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Rogal Dorn, Imperial Fists'in en ünlü ve en saygın primarch'ıdır; Inwit'in — Imperial Fists'in ev gezegeni — en saygın savaşçısı olan ve Imperial Fists'i kuran Dorn, İmparatorluğun en saygın ve en onurlu primarch'ıdır — onlar, Imperial Fists'in en

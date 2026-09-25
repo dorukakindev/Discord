@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/55/Dagon_Overlord.jpg/re
 
 ## Tarihçe
 
-Hive Fleet Dagon, Jericho Reach'e gelen ilk büyük tyranid sürüsüdür; 812.M41'de Warp'a gölge bırakan bu sürü, Achilus Crusade'in düşmanını ikiye katladı — 'Jericho'nun ikinci felaketi'.
+Hive Fleet Dagon, Tyranid'lerin Imperialis'e yönelik en tehlikeli saldırılarından birini gerçekleştiren büyük bir hive fleet'idir. Dagon, diğer Tyranid ordularından farklı olarak daha organize ve daha stratejik hareket eden bir güç olarak bilinir; ordusu, Imperialis'in birçok savunma hattını aşmayı başardı. Hive Fleet Dagon'un en tehlikeli özelliği, Imperialis'in en gizli operasyonlarına bile saldırabilmesidir; bu, Imperialis'in hiçbir yerinin Tyranid'lerden güvenli olmadığını gösterdi. Dagon'un saldırıları, Imperialis'in Tyranid tehdidini yeniden değerlendirmesine neden oldu ve Imperialis'in savunma stratejilerini etkiledi.
 
 -# Kaynaklar: *Fandom wiki*

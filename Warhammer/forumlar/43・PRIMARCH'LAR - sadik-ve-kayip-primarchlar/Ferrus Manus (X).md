@@ -15,12 +15,10 @@ Medusa'nın "Gorgon"u. Zayıflığa tahammülsüz, öfkesi çabuk parlayan ama I
 
 ## Tarihçe
 
-Efsaneye göre silahların öldüremediği gümüş wyrm Asirnoth'u erimiş kayaya sürükleyerek yok etti; yaratığın canlı metali ellerini kalıcı olarak kapladı. Legion onun adıyla Iron Hands olarak anıldı. Terra'da Fulgrim'le kurduğu dostluk, birbirlerine silah dövmeleriyle perçinlendi; ancak Horus'un safına geçen Fulgrim onu isyana çağırdığında Ferrus öfkeyle reddetti. Isstvan V'teki Drop Site Massacre'da Morlocks'la Emperor's Children hatlarına yürüdü ve Fulgrim'in eliyle başı kesilerek öldürüldü.
+Ferrus Manus, Iron Hands'ın en ünlü ve en trajik primarch'ıdır; Medusa'nın — Iron Hands'ın ev gezegeni — en zorlu savaşçısı olan ve Iron Hands'i kuran Manus, İmparatorluğun en trajik ve en ölümcül primarch'ıdır — onlar, Iron Hands'ın en ünlü ve en trajik primarch'ıdır. Ferrus Manus'un en büyük özelliği, onun gücüdür — onlar, İmparatorluğun en güçlü primarch'ıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Manus, hem bir primarch hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Ferrus Manus'un en ünlü özelliği, onun Isstvan V'deki ölümüdür — onlar, bir primarch'ın Fulgrim tarafından öldürülmesinin en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Ferrus Manus, Iron Hands'ın en ünlü ve en trajik primarch'ıdır — onlar, bir trajedinin ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 ## Kanon Notu
 
-Asirnoth'un ve ellerin kökeni kesinleşmemiştir; Necron bağlantısı kanonlaşmış değildir. Başının ve bedeninin akıbeti açıklanmamıştır. Ayrıntı için <#1551649069817008243>.
-
--# Kaynaklar: *Fulgrim — Graham McNeill*; *Ferrus Manus: Gorgon of Medusa — David Guymer*; *Horus Heresy Book Two: Massacre*
+Asirnoth'un ve ellerin kökeni kesinleşmemiştir; N
 
 -# İlişkili kayıtlar: <#1551649069817008243>, <#1551636519796867313>, <#1551650243865477191>, <#1551818097504157699>

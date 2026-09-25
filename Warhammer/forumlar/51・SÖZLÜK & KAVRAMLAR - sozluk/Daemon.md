@@ -12,6 +12,6 @@ Daemon (İblis), 40K evreninin en saf dehşetlerinden biridir; ama önemli bir n
 
 ## Tarihçe
 
-Daemon, Warp'ta doğan ve Chaos tanrılarının iradesinin maddi parçaları olan varlıklardır; ruhsal enerjiden biçimlenip ancak güçlü irade veya ritüellerle gerçekliğe sızarlar. Lesser (Bloodletter, Daemonette) ile Greater (Bloodthirster, Great Unclean One) arasında hiyerarşi kurarlar — saf Warp'ın maddi kılığıdır.
+Daemon, Warp'ta yaşayan ve Chaos tanrılarının iradesinin somutlaşmış hali olan varlıktır; saf duygu ve enerjiden doğan, fiziksel dünyaya ancak sınırlı süreyle girebilen ama girdiğinde yıkım getiren doğaüstü varlıklardır. Daemon'ların hiyerarşisi vardır — en güçlüleri Greater Daemon'lar (Bloodthirster, Great Unclean One, Lord of Change, Keeper of Secrets) tanrılarının doğrudan tezahürüdür; onların altında Daemon Prince'ler (insan kökenli ama yükseltilmiş), Herald'lar (tanrıların habercisi) ve sayısız Lesser Daemon (Bloodletter, Plaguebearer, Horrors, Daemonettes vb.) bulunur. Daemon'lar ölmez — fiziksel bedenleri yok edildiğinde sadece Warp'a döner ve yüz yıl sonra tekrar doğabilir; onları kalıcı olarak yok etmek için ruhlarını parçalamak gerekir ki bu neredeyse imkânsızdır. Daemon, Chaos'un ordusudur — onlar olmadan Chaos tanrıları sadece düşüncedir; onlarla birlikte, gerçek dünyayı yakabilen canlı kabuslardır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000

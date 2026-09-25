@@ -16,6 +16,6 @@ En büyük ve en sert Ork klanı; siyah-beyaz üniformalı, yakın dövüş tak�
 
 ## Tarihçe
 
-Goff'lar altı büyük Ork klanının en serti ve en saygınıdır: yakın dövüşü, düşük teknolojiyi ve kalın kafataslarını onur sayarlar. Klanın kültürü basittir — 'büyük olan doğrudur, sert olan haklıdır' — ve WAAAGH! enerjisinin en yoğun taşıyıcıları onlardır. Ghazghkull Thraka'nın klanı olmaları tesadüf değildir.
+Goff, Ork ırkının en büyük ve en güçlü klanıdır; yakın dövüş, güç ve vahşetle bilinen ve İmparatorluğun en korkulan Ork düşmanlarından biridir — onlar, Ork'ların en güçlüsü ve en vahşisidir. Goff'un en büyük özelliği, onların gücüdür — onlar, yakın dövüşte rakipsizdir ve onların savaşı, sadece öldürmek değil, parçalamaktır; bir Goff, bir Space Marine'i bile kolayca yenebilir ve onların savaşı, hem vahşet hem de güçtür. Goff'un en ünlü özelliği, onların Nob'larıdır — onlar, en büyük ve en güçlü Ork'lardır ve onların varlığı, bir Goff ordusunun merkezidir; bir Goff Nob, bir Imperial tankını bile durdurabilir. Goff, Ork ırkının en büyük ve en güçlü klanıdır — onlar, Ork'ların en güçlüsü ve en vahşisidir.
 
 -# Kaynaklar: *Codex: Orks*

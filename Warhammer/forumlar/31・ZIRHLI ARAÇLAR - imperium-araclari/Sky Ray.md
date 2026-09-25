@@ -16,7 +16,7 @@ T'au kuvvetlerini hava saldırılarına karşı koruyan ve güdümlü seeker fü
 
 ## Tarihçe
 
-Sky Ray, T'au ordularında hava savunmasının ve hedef işaretlemeye dayalı ateş desteğinin kilit unsuru olarak anlatılır. Markerlight'larla işaretlenen hedefler, başka birimlerin ateşiyle birlikte eşgüdümlü biçimde vurulur.
+Sky Ray, T'au Empire tarafından kullanılan bir hava savunma ve destek aracıdır; onun Marker Light sistemi ve füzeleriyle — düşmanı işaretleyen ve T'au kuvvetlerini yönlendiren bir araçtır — onlar, T'au'nun en değerli ve en kullanışlı hava aracıdır. Sky Ray'in en büyük özelliği, onun Marker Light sistemidir — onlar, bir düşman pozisyonunu işaretleyebilir ve onların bilgisi, bir savaşın kaderini değiştirebilir; bir Sky Ray, bir T'au saldırısının merkezidir ve onların varlığı, bir T'au ordusunun en değerli varlığıdır. Sky Ray'in en ünlü görevi, T'au'nun çeşitli operasyonlarıdır — onlar, düşmanı işaretlemek ve T'au kuvvetlerini yönlendirmek için kullanılırlar ve onların varlığı, T'au'nun en değerli hava aracıdır. Sky Ray, T'au Empire'ın en değerli ve en kullanışlı hava aracıdır — onlar, bir saldırının merkezinin somut halidir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 

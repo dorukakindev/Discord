@@ -16,8 +16,4 @@ Emperor'ın kişisel koruyucuları ve Imperial Palace'ın bekçileri. Her biri �
 
 ## Tarihçe
 
-Unification Wars'da Emperor'ın yanında savaştılar; Great Crusade'in büyük kısmında Terra'da kaldılar. Siege of Terra'da Palace'ı savundular ve Heresy'den sonra Golden Throne'un çevresinde binyıllar boyunca nöbet tuttular. Era Indomitus'ta Trajann Valoris önderliğinde Terra dışında da daha sık görünmeye başladılar.
-
--# Kaynaklar: *Codex: Adeptus Custodes*; *Master of Mankind — Aaron Dembski-Bowden*; *Valdor: Birth of the Imperium — Chris Wraight*
-
--# İlişkili kayıtlar: <#1551753439581831278>, <#1551813713403580438>, <#1551809168032268310>, <#1551743688680669286>
+Adeptus Custodes, İmparatorluğun en eski ve en kutsal savaş gücüdür; İmparator'un kişisel koruması olan ve her biri bir Space Marine'den daha güçlü olan altın zırhlı savaşçılardır — onlar, İmparatorluğun en kutsal ve en ölümcül savaşçılarıdır. Adeptus Custodes'un en büyük özelliği, onların bireysel gücüdür — bir Custodian, bir Space Marine'den daha güçlü ve daha deneyimlidir; onların eğitimi, bir ömür sürer ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Adeptus Custodes'un en ünlü özelliği, onların altın zırhıdır — onlar, Auramite'ten yapılmış zırh giyer ve onların varlığı, İmparator'un gücünün somut halidir; bir Custodian, hem bir savaşçı hem de bir simgedir. Adeptus Custodes, İmparatorluğun en kutsal ve en ölümcül savaş gücüdür — onlar, İm

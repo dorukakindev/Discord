@@ -42,3 +42,7 @@ Medusa, Iron Hands'in erken dönem sunumlarından beri yurtları olarak anılır
 **Çapraz:** <#1551636519796867313>, <#1551649069817008243>, <#1551637652569067542>, <#1551811393680838699>, <#1551816635839549491>, <#1551815439078658154>
 
 ​
+
+### Arka Plan
+
+Medusa, üç Gorgon'dan tek ölümlü olan: Poseidon'un Athena tapınağında zorladığı genç kadın, ceza olarak yılan-saçlı, bakışı taş yapan surete çevrilir. Perseus aynalı kalkan ve Hermes'in kılıcıyla keser; boynundan Pegasus ve Chrysaor doğar. Athena kalkanın ortasına başını koyar — 'aegis'. Freud'dan feminist okumalara 'bakışın gücü/cezası' figürü.

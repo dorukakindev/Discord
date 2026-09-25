@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Magister_Heritor_Asph
 
 ## Tarihçe
 
-Heritor Asphodel, Sabbat Dünyaları Seferi'nde Archon Nadzybar'ın emrindeki Chaos kuvvetlerinin 'Magister'ıydı — en taktiksel yetenekli komutanlarından biri. Seferin son safhalarında Verghast dünyasında, Albay-Komiser Ibram Gaunt ve Tanith First and Only alayının elinden öldürüldü. Bu ölüm seferin dönüm noktalar��ndan biri oldu; 'Magister'ların organizasyonunun sembolik sonunu getirdi.
+Heritor Asphodel, Dark Mechanicum'un en ünlü ve en tehlikeli üyesidir; eskiden bir Adeptus Mechanicus üyesi olan ve Chaos'a düşen Asphodel, İmparatorluğun en tehlikeli ve en gizli düşmanlarından biridir — onlar, Dark Mechanicum'un en ünlü ve en tehlikeli üyesidir. Heritor Asphodel'ın en büyük özelliği, onun ihanetidir — onlar, bir Adeptus Mechanicus üyesinin Chaos'a düşüşünün en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Asphodel, hem bir mühendis hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Heritor Asphodel'ın en ünlü özelliği, onun Dark Mechanicum'un üyesidir — onlar, Chaos'un en büyük teknolojik gücünün üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Heritor Asphodel, Dark Mechanicum'un en ünlü ve en tehlikeli üyesidir — onlar, bir ihanetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058626690748508>

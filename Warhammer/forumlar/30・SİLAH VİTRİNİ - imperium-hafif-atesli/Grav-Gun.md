@@ -9,10 +9,10 @@ Hedefin kütlesini ona karşı silaha çeviren graviton silahı; ağır zırhlı
 
 
 ## Teknik ve Kullanım
-Grav silahları hedefin kütle alanını ters çevirip onu kendi ağırlığıyla ezer; ağır zırhlı hedefe karşı özel olarak etkilidir. Büyük Haçlı Seferi teknolojisinin nadir hayatta kalan parçalarındandır ve bakımı sadece Techmarine seviyesinde yapılabilir.
+Graviton gun, Land Speeder gibi grav-araçları çalıştıran 'gravitik tepki' ilkesinin silaha çevrilmiş halidir; fırlattığı parçacık akımı hedef bölgenin yerel kütleçekim alanını değiştirir ve cismi ayara göre çok daha ağır ya da çok daha hafif yapar. Ateşlendiğinde, dalgalar hava basıncını titreştirir ve silah derin, bas bir uğultu çıkarır.
 
-## Tarihçe
+Etki çoğunlukla öldürücü değildir; hedef ya yavaşlar ya tamamen hareketsiz kalır — canlı esir alınacak düşmanlara karşı idealdir. En yüksek ayarları ise zırhın içindeki organları patlatıp kemikleri çatlatır; devasa bir yaratık kendi ağırlığı altında ezilerek ölebilir. Zırh ne kadar ağırsa silah o kadar etkilidir; bu yüzden grav-gun, ağır piyadeye karşı özelleşmiş bir cevaptır. Sığınak ve tahkimatlara karşı da kullanılır — yapının kendi kütlesi, yıkımının aracı olur. Uzay gemisi ya da sıfır kütleçekimli ortam çarpışmalarında paha biçilmezdir.
 
-Karanlık Teknoloji Çağı'ndan kalma yerçekimi silahı; hedefin kütlesini kendine düşman eder ve ağır zırhlı savaşçıyı kendi seramidinin altında ezer. Terminator gibi ağır piyadeye karşı korkunç — Gravity teknolojisinin sırrı sadece birkaç Chapter'a açık kutsal bir onurdur.
+Her graviton gun Karanlık Teknoloji Çağı'ndan kalma bir kalıntıdır; aslında düşük kütleçekimli ortamlarda nesnelerin göreli ağırlığını artırmak için, yani sivil amaçla geliştirilmiştir. Adeptus Mechanicus onları kıymetli sayar ve cephanelikten çıkarmaya nadiren izin verir; yine de bazı Space Marine chapter'ları az sayıda örneği hâlâ sahaya sürer. Bakımını ancak Techmarine seviyesinde bir zanaatkâr üstlenebilir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Lexicanum (Graviton Gun) / Fandom

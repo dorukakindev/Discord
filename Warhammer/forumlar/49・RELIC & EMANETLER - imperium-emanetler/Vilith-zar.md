@@ -14,7 +14,7 @@ Ynnead'in avatarı olarak anılan Yncarne'nin kullandığı kılıçtır. Yncarn
 
 ## Tarihçe
 
-Yncarne, Biel-Tan'da Ynnari'nin doğuşunda ve sonraki çatışmalarda ortaya çıktı. Kaynaklarda Yvraine'in taşıdığı Kha-vir ile birlikte, Ynnari'nin elindeki Croneswords'ün bilinen örnekleri arasında anılır.
+Vilith-zar, C'tan'ın — Necron'ların yıldız tanrıları — en ünlü ve en korkulan silahıdır; bir C'tan'ın bedeninden yapılan ve onun en büyük gücünün simgesi olan bir silahtır — onlar, Necron'ların en ünlü ve en korkulan relic'idir. Vilith-zar'ın en büyük özelliği, onun gücüdür — onlar, bir yıldız tanrısının bedeninden yapılan bir silahtır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır; bir Vilith-zar kullanıcısı, hem bir savaşçı hem de bir tanrının gücünün taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Vilith-zar'ın en ünlü özelliği, onun C'tan'ın gücüdür — onlar, bir yıldız tanrısının en büyük gücünün simgesidir ve onların varlığı, Necron'ların en büyük tehdidinin kanıtıdır. Vilith-zar, Necron'ların en ünlü ve en korkulan relic'idir — onlar, bir yıldız tanrısının gücünün ve Necron'ların en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Codex: Aeldari — 10th Edition*
 

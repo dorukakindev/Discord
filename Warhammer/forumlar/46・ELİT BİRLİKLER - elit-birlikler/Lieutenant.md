@@ -10,6 +10,6 @@ Lieutenant (Teğmen), bir Space Marine bölüğünün komuta yapısında, son d�
 
 ## Tarihçe
 
-Lieutenant, Space Marine bölüğünün ikinci komutanıdır; Captain'ın yardımcısı olarak birliğin yarısını yönetir. Yeni eklenen rütbe — Primaris reorganizasyonunda standartlaşan 'yardımcı komutan' rolü.
+Space Marine Lieutenant, company'nin ikinci komutanıdır ve Captain'ın sağ koludur; eskiden nadiren görülen bir rütbeydi ama Guilliman'ın Codex Astartes reformlarıyla her company'ye zorunlu kılındı. Lieutenant'ın görevi savaşın taktik detayını yönetmektir — Captain stratejiyi ve komutayı belirler, Lieutenant ise bunu saha düzeyinde uygular: squad'ları koordine eder, rezervleri yönetir ve Captain düştüğünde komutayı devralır. Primaris döneminde Lieutenant'lık daha da kritikleşti çünkü yeni Primaris savaşçıları eğitmek ve onları Chapter'ın geleneğine bağlamak genellikle Lieutenant'ın görevidir. Lieutenant'lar genelde Veteran Sergeant'lıktan yükselir ve onların zırhında hem savaş izleri hem de Chapter tarihinin işaretleri vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

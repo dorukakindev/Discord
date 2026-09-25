@@ -12,7 +12,7 @@
 
 ## Tarihçe
 
-Keriath the Shrouded, Tzeentch'in Lord of Change'iydi; bin yıllar önce İmparatorluk dünyası Totem IV'e daemonik saldırı yönetti. Yardım çağrısına gelen Exorcists chapter'ıyla savaşta onların Chapter Master'ı Enoch Trismegistus'u sahiplendi — 'kendi efendisini yiyen savaş' olarak Exorcists'in karanlık tarihinin kritik olayı.
+Keriath the Shrouded, Chaos'un en gizli ve en tehlikeli daemon'ıdır; 'the Shrouded' olarak bilinen ve İmparatorluğun en gizli operasyonlarında ortaya çıkan Keriath, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli daemon'udur. Keriath'ın en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli daemon'dur ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Keriath, hem bir daemon hem de bir sırdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Keriath'ın en ünlü özelliği, onun 'the Shrouded' lakabıdır — onlar, Chaos'un en gizli ve en örtülü daemon'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Keriath the Shrouded, Chaos'un en gizli ve en tehlikeli daemon'ıdır — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

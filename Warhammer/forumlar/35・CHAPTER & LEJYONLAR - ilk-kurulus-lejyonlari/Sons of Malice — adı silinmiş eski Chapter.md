@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/04/Sons_of_Malice_Livery
 
 ## Tarihçe
 
-Zafer kutlamalarındaki yamyamlık içeren ayinler, Inquisitor Pietas'ı yozlaşmadan şüphelendirdi. Inquisitor'un Adepta Sororitas kuvvetleriyle başlattığı baskı kanla karşılandı: Captain Kathal Sisters'a saldırdı ve Inquisitor'u Chapter'ın sunağında kurban etti. Renegade ilan edilen Chapter Eye of Terror'a çekildi. Cadia'nın düşüşünden sonra Sons of Malice, Scelus'a yönelik saldırıdaki payları nedeniyle Cadian sağ kalanlarından intikam almak için Battle of Faith's Anchorage'da onlara saldırdı.
-
--# Kaynaklar: *Codex: Eye of Terror*; *Codex: Chaos Space Marines*
+Sons of Malice, adı İmparatorluk kayıtlarından silinmiş ve Malal — kayıp Chaos tanrısı — 'a adanmış en gizemli Chaos warband'idir; onların savaş doktrini, anarşi ve kendi kendini yok etme üzerine kuruludur ve onlar, Chaos'un bile reddettiği en karanlık güçtür. Sons of Malice'in en büyük özelliği, onların nihilizmidir — onlar, sadece yıkmak için savaşır ve onların hedefi, sadece İmparatorluk değil, tüm düzendir; bir Son of Malice, hem düşmanını hem de kendini yok eder ve onların savaşı, anarşinin somut halidir. Sons of Malice'in kökeni, İmparatorluğun en karanlık sırlarından biridir — onların Chapter'ı, resmi kayıtlardan tamamen silindi ve onların varlığı, İmparatorluğun kendi tarihini bile reddettiği
 
 -# İlişkili kayıtlar: <#1551812225570836561>, <#1551812139935866891>, <#1551813775848509482>, <#1551812165172994160>

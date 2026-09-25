@@ -16,8 +16,4 @@ Tanrısının gözünden düşmüş, sürgün edilmiş bir Bloodthirster. Artık
 
 ## Tarihçe
 
-Skarbrand 'Sürgün', Khorne'un bir zamanlar en sevdiği Bloodthirster'ıydı — ama Tzeentch'in kışkırtmasıyla efendisine isyan etti; Pirinç Taht'a saldırıp başarısız oldu. Khorne onu dokuz gün düşmeye bıraktı ve aklı tamamen yok oldu — artık saf öfke bedenidir. 'Hain daemon' olarak nefretle anılır ama yine de Khorne'un en yıkıcı silahlarından biridir.
-
--# Kaynaklar: *Codex: Chaos Daemons*
-
--# İlişkili kayıtlar: <#1551815867845578773>, <#1551654107058540595>, <#1551647728692633643>, <#1551809666454134928>
+Skarbrand (the Exiled One), Khorne'un en ünlü ve en vahşi Greater Daemon'ıdır; Khorne'a ihanet ettiği için sürgün edilen ve onun en acımasız savaşçısı olan Skarbrand, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en vahşi daemon'udur. Skarbrand'ın en büyük özelliği, onun vahşetidir — onlar, Khorne'un en acımasız savaşçısıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Skarbrand, hem bir daemon hem de bir katildir ve onların savaşı, sadece kan ve kafatası içindir. Skarbrand'ın en ünlü özelliği, onun sürgünüdür — onlar, Khorne'a ihanet eden ve ondan sürülen en acımasız daemon'dır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır. Skarbrand, Khorne'un en ünlü ve en vahşi Greater Daemon'ıdır

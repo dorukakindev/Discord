@@ -16,8 +16,6 @@ Sırta takılan, güçlü iticileriyle zırhlı bir savaşçıyı uzun sıçrama
 
 ## Tarihçe
 
-Heresy döneminde bazı Legion'ların saldırı doktrininde merkezî bir yer tuttu; Blood Angels, Raven Guard ve Night Lords'un havadan saldıran birlikleri bu geleneğin en bilinen temsilcileridir. M41'de Assault Squad'lar, Vanguard Veteran'lar ve Blood Angels'ın Sanguinary Guard'ı jump pack kullanır. Chaos tarafında Raptor'lar ve Warp Talon'lar aynı teçhizatı taşır. Era Indomitus'ta Primaris Inceptor'lar yeni bir jump pack tasarımıyla sahaya iner.
+Jump Pack, Space Marine'lerin uçmasını sağlayan sırt ünitesidir; içindeki iticiler veya anti-grav düzenekler, savaşçıyı havaya kaldırır ve ona savaşın üçüncü boyutunu — dikeylik — verir; bir Jump Pack'li Space Marine, düşmanın üstünden atlar ve arkasına düşer. Jump Pack'in çalışması basit ama etkilidir — güçlü iticiler veya grav düzenekleri, savaşçıyı birkaç saniyede yükseltir ve ona inişte momentum kazandırır; bir Jump Pack'li saldırı, düşmanın en zayıf noktasına — arkasına veya üstüne — girer ve onu hazırlıksız yakalar. Jump Pack, İmparatorluğun en dinamik silahıdır — onu taşıyan, savaşın en hızlı savaşçısıdır ve onun inişi, düşmanın en korkulan anıdır. Jump Pack, İmparatorluğun hareketliliğinin simgesidir — onunla savaşan, gökyüzünü de savaş alanına çevirir.
 
--# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Blood Angels*; *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551637736593821790>, <#1551637693933289523>, <#1551818213782716427>
+-# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Blood Angels*; *Codex

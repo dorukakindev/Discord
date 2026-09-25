@@ -15,12 +15,4 @@ Culexus suikastçısı, psykerleri ve Warp varlıklarını avlamak için yaratı
 
 ## Tarihçe
 
-James Swallow'un *Nemesis* romanında Temple'ların Horus'u öldürmek için kurduğu ortak görev gücünde Iota adlı bir Culexus yer alır; anlatı, Temple'lar arasındaki güvensizliği ve bu yöntemin sınırlarını da gösterir. M41 ve Era Indomitus'ta Culexus'lar, Execution Force operasyonlarında ve High Lords'un onayladığı görevlerde Chaos büyücülerine ve psyker önderlere karşı kullanılır.
-
-## Teknik / Biyolojik Özellikler
-
-Kaynaklarda en çok anılan silahı, çevredeki psişik enerjiyi yakalayıp yıkıcı bir ışına çeviren animus speculum'dur. Ayrıntılı donanımı ve eğitimi yayınlar arasında farklı ağırlıkla işlenir.
-
--# Kaynaklar: *Nemesis — James Swallow*; *Codex: Imperial Agents — 10th Edition*
-
--# İlişkili kayıtlar: <#1552482133107408997>, <#1551753472070783096>, <#1551818131679215728>, <#1551997969417502752>
+Culexus Assassin, İmparatorluğun en gizli ve en tehlikeli suikastçısıdır; psişik enerjiyi yok eden blank'lerden oluşan ve onun en gizli operasyonlarını yapan en gizli suikastçı olan Culexus Assassin, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli suikastçısıdır. Culexus Assassin'in en büyük özelliği, onun blank'lığıdır — onlar, psişik enerjiyi yok eden blank'lerden oluşan ve onun en gizli operasyonlarını yapan en gizli suikastçıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Culexus Assassin, hem bir suikastçı hem de bir blank'tir ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Culexus Assassin'in en ünlü özelliği, onun blank'lığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli suikastçısıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Culexus Assassin, İmparatorluğun en gizli ve en tehlik

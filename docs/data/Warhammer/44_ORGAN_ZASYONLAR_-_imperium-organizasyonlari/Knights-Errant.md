@@ -15,12 +15,8 @@ Knights-Errant, Legion kimliklerinden arındırılmış, yalnızca Malcador'a he
 
 ## Tarihçe
 
-Knights-Errant, Heresy boyunca Sigillite'ın gözü ve eli olarak casusluk, keşif ve özel görevler üstlendi. Malcador, onların arasından psişik yetenekli sekiz Space Marine'i seçerek Emperor'a sundu ve Satürn'ün uydusu Titan'a gönderdi; bu olay, sonraki Grey Knights'ın kuruluşuyla ilişkilendirilir. Inquisition'ın kökleri de bu gizli ağa bağlanır.
+Knights-Errant, Horus Heresy sırasında İmparator'a sadık kalan ve tek başına savaşan Space Marine'lerin oluşturduğu efsanevi gruptur; resmi bir emir yoktu, tek bağlayıcıları İmparator'a olan sadakatleriydi ve onlar Heresy'nin en karanlık günlerindeki tek ışıktı. Knights-Errant'lar her Chapter'dan ve her gezegenden geldi — bazıları kendi Legion'larından kaçan sadık savaşçılar, bazıları kayıp bölüklerin tek kalanı, bazıları sadece İmparator'a inanan tek başına savaşan askerler; ortak noktaları, Heresy'nin ihanetine rağmen İmparator'un yanında durmalarıydı. Knights-Errant'ların görevi basit ama imkânsızdı — Heresy'yi durdurmak; onlar sayısız savaşta savaştılar, sayısız sadık askeri kurtardılar ve sonunda Terra Kuşatması'nda İmparator'un yanında durdular. Knights-Errant'ların çoğu öldü — onların adı bile kaydedilmedi; ama onların varlığı, Heresy'nin en karanlık anında bile sadakatin mümkün olduğunun kanıtıdır.
 
 ## Kanon Notu
 
-Tam üye listesi ve sekiz kurucunun kimlikleri Heresy romanları ile 40K kodekslerinde tamamen örtüşmez; arşiv eksiksiz liste vermez. Ayrıntı için <#1551816677669343263>.
-
--# Kaynaklar: *Garro — James Swallow*; *Vengeful Spirit — Graham McNeill*; *The Buried Dagger — James Swallow*
-
--# İlişkili kayıtlar: <#1551816677669343263>, <#1551641477501947995>, <#1551815304252887041>, <#1551743688680669286>
+Tam üye

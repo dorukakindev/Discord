@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ea/NephilimJetfighter000
 
 ## Tarihçe
 
-Nephilim Jetfighter, sadece Dark Angels ve onların Unforgiven varis chapter'larının kullandığı özel saldırı uçağıdır. Asıl görevi atmosferik önleme yapmak — savaş alanının üstünde gökyüzünü temiz tutup karadaki kardeşleri hava saldırısından korumak. Uzayda kısa yolculuklar (yörüngedeki gemiden veya The Rock'tan iniş) yapabilse de muharebe kabiliyeti esas olarak atmosferdedir. Zarif hava-avcıları olan Nephilim'ler, Dark Angels'ın 'Fallen avı' misyonuna da uygundur; pilotları Ravenwing'in 2. ve 3. Mangalarından gelen seçkin savaşçılardır.
+Nephilim Jetfighter, Dark Angels tarafından kullanılan en gizli ve en güçlü savaş uçağıdır; onun gelişmiş teknolojisi ve silahlandırmasıyla — düşmanı havadan imha eden bir araçtır — onlar, Dark Angels'ın en gizli ve en ölümcül hava aracıdır. Nephilim'in en büyük özelliği, onun gizliliğidir — onlar, Dark Angels'ın en gizli teknolojisini kullanır ve onların varlığı, bir Fallen'ın sonunun başlangıcıdır; bir Nephilim, bir düşman uçağını saniyeler içinde parçalayabilir ve onların varlığı, Dark Angels'ın en gizli silahıdır. Nephilim'in en ünlü görevi, Dark Angels'ın Fallen'ları avlamasıdır — onlar, Fallen'ları bulmak ve yok etmek için kullanılırlar ve onların varlığı, Dark Angels'ın en gizli ve en ölümcül silahıdır. Nephilim Jetfighter, Dark Angels'ın en gizli ve en ölümcül hava aracıdır — onlar, bir Legion'un en gizli silahının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058762527481869>

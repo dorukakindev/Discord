@@ -16,8 +16,4 @@ Kin, Votann adı verilen Ancestor Core'ları ataların bilgisini ve bilgeliğini
 
 ## Tarihçe
 
-Age of Strife Kin'i insanlığın geri kalanından koparırken Votann'ların sakladığı bilgi onları ayakta tuttu. Her League bir ya da birkaç Votann'ın çevresinde kuruldu; siyasi, ekonomik ve askerî kararlarda onların rehberliğine başvurulur. Great Rift sonrası genişleme, bu geleneği Imperium ve öteki güçlerle daha sık karşı karşıya getirdi.
-
--# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*; *Codex: Leagues of Votann — 9th Edition*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551813334993739777>, <#1551810663859626054>, <#1551757340905181286>
+Votann'a saygı ve ata geleneği, Leagues of Votann'ın en önemli ve en kutsal inanç sistemidir; onların Ancestor Cores'a — atalarının bilgisini ve ruhunu saklayan devasa bilgisayarlara — olan saygıları ve onların geleneğini takip eden bir inançtır — onlar, Leagues'ın en önemli ve en kutsal geleneğidir. Votann'a saygının en büyük özelliği, onun geleneğidir — onlar, atalarının bilgisini ve ruhunu saygı gösterir ve onların inancı, Leagues'ın en kutsal geleneğinin kanıtıdır; bir Votann üyesi, hem bir savaşçı hem de bir inanan'dır ve onların varlığı, Leagues'ın en kutsal geleneğinin somut halidir. Votann'a saygının en ünlü özelliği, onun Ancestor Cores'ıdır — onlar, Leagues'ın en kutsal ve en değerli varlığıdır ve onların varlığı, Leagues'ın en büyük gücünün

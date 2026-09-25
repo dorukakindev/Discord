@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/79/CaestusAssaultRam03.j
 
 ## Tarihçe
 
-Caestus Assault Ram, İmparatorluk'un devasa 'koç' gemisidir; düşman gemisinin gövdesine çarpıp içinden Astartes birliğini indiren bu araç, uzay savaşının 'kuşatma silahı'dır.
+Caestus Assault Ram, Legiones Astartes tarafından kullanılan bir uzay saldırı aracıdır; onun devasa boyutu ve silahlandırmasıyla — bir düşman gemisini veya bir düşman kalesini delebilecek bir araçtır — onlar, Space Marine'lerin en güçlü ve en yıkıcı uzay aracıdır. Caestus'un en büyük özelliği, onun delici gücüdür — onlar, bir düşman gemisinin gövdesini bile delebilir; bir Caestus, bir düşman kalesini tek atışla yok edebilir ve onların varlığı, bir Space Marine uzay saldırısının merkezidir. Caestus'un en ünlü görevi, Horus Heresy'deki çeşitli uzay savaşlarıdır — onlar, Space Marine Legion'larının en güçlü uzay aracıydı ve onların varlığı, bir Legion'un en güçlü silahıydı. Caestus Assault Ram, Space Marine'lerin en güçlü ve en yıkıcı uzay aracıdır — onlar, bir Legion'un uzay gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,8 +16,4 @@ Bir C'tan Shard'ını içinde hapseden, onu Necron soylularının emrinde bir si
 
 ## Tarihçe
 
-Shard'lar savaşa götürüldüğünde sıkı bağlayıcı protokollerle kontrol edilir. Bir Shard'ın zincirleri gevşerse ne olacağı Necron soylularının kalıcı kaygılarından biridir; bağlanmış varlıkların öfkesi ve eski efendilik hatıraları sönmemiştir. Tesseract Vault gibi yapılar, bir Shard'ı savaş alanına taşıyan daha büyük platformlar olarak anılır.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Infinite and the Divine — Robert Rath*
-
--# İlişkili kayıtlar: <#1551812203584295003>, <#1551759762193121282>, <#1551649070286897172>
+Tesseract Labyrinth, Necron'ların C'tan'ları ve güçlü varlıkları hapsetmek için kullandığı dört-boyutlu hapishane küpleridir; içine alınan varlık, boyutlar arası bir labirentte sonsuza dek kısılır. Teknoloji Necron'un doruk noktasıdır — fiziksel hapsetme değil, geometrik tutsaklık; küpün içinde varlık, dış dünyadan kopartılmış bir fractal hücrede yaşar ve çıkış yoktur. Trazyn the Infinite'ın koleksiyonunun en değerli parçaları Tesseract Labyrinth'lerde saklıdır — orada C'tan parçaları, demon prince'ler, Space Marine kaptanları ve hatta bir Ork Waaagh!'ının lideri donmuş halde durur. C'tan'ların parçalanmasında da Tesseract teknolojisi kullanıldı — bütün bir C'tan küplerle bölündü ve her parça ayrı bir labirentte tutsak edildi. Küp kırılırsa içindeki varlık serbest kalır; bu yüzden Tesseract'ler sadece Necron elinde güvenlidir ve İmparatorluk'ta ele geçen bir tanesi fe

@@ -16,8 +16,6 @@ Salamanders'ın aday kaynağı ve Promethean Cult'ın yurdu. Chapter'ın kale-ma
 
 ## Tarihçe
 
-Vulkan, Nocturne halkını yağmacı akınlarına karşı savunarak hem önder hem usta olarak yükseldi. Chapter geleneğine göre Emperor'la demircilik ve bir ateş ejderhasını avlama üzerine sınamalara girişti ve ardından XVIII Legion'ın başına geçti. Legion'ın kimliği, Prometheus merkezli bu yeni düzen üzerine kuruldu. Heresy sonrasında Salamanders, halkıyla bağını koparmayan bir Chapter olarak Nocturne'le iç içe yaşamayı sürdürdü.
+Nocturne, Salamanders'ın Chapter yurdu olan ve İmparatorluğun en volkanik ve en tehlikeli dünyalarından biridir; onun volkanları ve ateşi, Salamanders'in ateş ve demircilik geleneğinin somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Nocturne'nin en büyük özelliği, onun volkanik yapısıdır — onlar, İmparatorluğun en volkanik dünyalarından biridir ve onların varlığı, Salamanders'in ateş ve demircilik geleneğinin temelidir; bir Nocturne, bir gezegenin en volkanik halidir ve onların varlığı, bir Legion'un evinin en sıcak parçasıdır. Nocturne'nin en ünlü özelliği, onun ayı Prometheus'tur — onlar, Salamanders'in kale manastırının bulunduğu yerdir ve onların varlığı, bir Legion'un merkezinin kanıtıdır. Nocturne, Salamanders'ın evidir ve onların ruhunun merkezidir — onlar, ateşin ve demirciliğin somut halidir.
 
--# Kaynaklar: *Salamander — Nick Kyme*; *Vulkan Lives — Nick Kyme*; *Codex: Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551637740049670195>, <#1551650329240674335>, <#1551818097504157699>
+-# Kaynaklar: *Salamander — Nick Kyme*; *Vulkan

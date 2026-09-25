@@ -10,6 +10,6 @@ Primaris / Belisarius Cawl Technology, on bin yıl süren gizli bir çalışman�
 
 ## Tarihçe
 
-Guilliman'ın on bin yıllık planı; Belisarius Cawl'un tasarladığı üstün Marine mimarisi. Rubicon geçişiyle eski Marine'ler de yükseltilir — Chapter'ların yeniden doğuşu.
+Belisarius Cawl'ın teknolojisi, İmparatorluğun on bin yıldır gördüğü en büyük askeri devrimdir; Büyük Haçlı Seferi sırasında İmparator'un bizzat emrettiği bir proje olarak başlayan çalışma, Mars'ın derinliklerinde on bin yıl boyunca gizlice sürdürüldü. Cawl, primarch genetik malzemesinden yola çıkarak Primaris Space Marine'i yarattı — standart Astartes'ten daha güçlü, daha dayanıklı ve üç ek organ taşıyan bir savaşçı: Sinew Coils kas gücünü artırır, Magnificat hormon kontrolünü sağlar, Belisarian Furnace ise ölümcül yaralarda vücudu hayata döndürür. Cawl ayrıca Mark X Tacticus zırhı, Repulsor tankı ve yeni silah sistemlerini de tasarladı. Guilliman'ın M42'deki dönüşüyle Ultima Founding başlatıldı ve Cawl'ın stoklarındaki yüz binlerce Primaris savaşçı, yıkılmakta olan İmparatorluğa ikinci bir nefes verdi. Ancak Cawl'ın bazı çalışmaları — yasak genetik deneyler ve muhtemel yapay zekâ araştırmaları — Mechanicus içinde bile tartışmalıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

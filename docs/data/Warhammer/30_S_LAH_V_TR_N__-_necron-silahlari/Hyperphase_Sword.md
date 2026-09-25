@@ -5,14 +5,25 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e6/Hyperphase_sword.jpg/
 
 -# *Hiperfaz Kılıcı*
 
-Necron Lychguard'larının faz kayması yapan kılıcı; ağzı boyut frekansları arasında titreşir ve zırhın içinden, ona hiç dokunmadan geçer. Kesilen kurban çoğu zaman kesildiğini sonradan fark eder.
+Enerji ağzı boyutlar arasında titreşen Necron yakın dövüş silahı; zırhı ve eti aynı kayıtsızlıkla kesip içindeki hayati organlara ulaşır. Diğer ırkların güç silahlarının çok daha gelişmiş bir karşılığı sayılır.
 
-
-## Teknik ve Kullanım
-Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+- **Kategori:** Yakın dövüş silahı / faz-kaymalı enerji kılıcı — <#1551629117542113372>
+- **Fraksiyon:** Necrons
+- **Dönem:** Kadim dönemden Era Indomitus'a
+- **Köken:** Yalnızca Necron kraliyetinin cephaneliklerinde bulunur; ilk yapımı kanonda açıklanmamıştır.
+- **Teknik / Biyolojik Özellikler:** Ağızdaki moleküler uyarıcı, kesici yüzeyin kuantum durumları arasında salınmasını sağlar; kılıç maddeyi fiziksel dirençten bağımsız olarak ayırır — zırhın varlığı neredeyse anlamsızlaşır.
+- **Bilinen Kullanıcılar / Operatörler:** Lychguard'lar (Dispersion Shield ile eşleştirilir), Necron Overlord'ları, Lord'ları ve Destroyer Lord'ları.
+- **Önemli Olaylar:** Kaynaklarda tek bir olayla özdeşleşmez.
+- **Kanon Notu:** Lychguard düzeninde warscythe'a alternatif donanımdır; etkili Overlord'ların muhafız mangaları kılıç-kalkan ikilisini tercih eder.
 
 ## Tarihçe
 
-Necron soylularının dimensional kılıcı; bıçağı boyutlar arasında titreşir ve zırhı, eti, organları kolayca ayırır. Overlord, Lord ve Lychguard'ların silahı — güç silahının gelişmiş Necron biçimi.
+Necrontyr'in soylu haneleri, efendilerini korumakla yükümlü kişisel muhafızlar tutardı; biyotransferans bu geleneği Lychguard'larda yaşattı. Soyluların seçkin koruyucuları iki düzen arasında seçim yapar: iki elli warscythe'ın ham gücü, ya da hiperfaz kılıcıyla dağılım kalkanının (Dispersion Shield) iç içe geçen enerji bariyerlerinin sunduğu koruma.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Kesilen kurban çoğu zaman kesildiğini ancak sonradan fark eder; ağız, zırhın içinden ona hiç değmeden geçer. Necron soylusunun kılıcı, sadakatle statüyü aynı çizgide taşır.
+
+-# Kaynaklar: *Codex: Necrons — 5th Edition* (s.81) ve *8th Edition*; Warhammer 40,000 — Fandom ("Hyperphase Sword", "Lychguard"); Lexicanum — "Hyperphase Sword"
+
+-# İlişkili kayıtlar
+
+: <#1551759732220493826>, <#1551631442784813077>, <#1551817244844232727>

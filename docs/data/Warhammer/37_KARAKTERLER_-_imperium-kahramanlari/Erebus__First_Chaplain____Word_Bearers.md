@@ -16,8 +16,4 @@ Horus Heresy'nin görünmez mimarlarından biri. Kaba kuvvetten çok yalan, sab�
 
 ## Tarihçe
 
-Erebus, Word Bearers'ın kıdemli Dark Apostle'ıdır ve Horus Heresy'nin mimarıdır; Büyük Sefer'in sonunda lejyonun birinci papazı olarak 'ilk ihanet eden adam' olarak bilinir. İlk Chaos tapınağını kuran, Lorgar'ı ve sonra Horus'u döndüren figür — 'Heresy'nin babası' olarak tarihin en nefret edilen figürlerinden biridir.
-
--# Kaynaklar: *False Gods — Graham McNeill*; *The First Heretic — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763>, <#1551650246508150857>, <#1551814951365115956>
+Erebus, Word Bearers'ın en ünlü ve en nefret edilen din adamıdır; Lorgar'ın First Chaplain'i olan ve Horus'u Chaos'a çeken en büyük sorumlu olan Erebus, İmparatorluğun en büyük ihanetinin mimarlarından biridir — onlar, Word Bearers'ın en tehlikeli ve en nefret edilen üyesidir. Erebus'un en büyük özelliği, onun ihanetidir — onlar, Horus'u Chaos'a çeken ve İmparatorluğun en büyük savaşını başlatan en büyük ihanettir ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Erebus, hem bir rahip hem de bir haindir ve onların varlığı, Chaos'un en gizli gücünün somut halidir. Erebus'un en ünlü özelliği, onun Davin'deki tuzaktır — onlar, Horus'u Chaos'a çeken tuzağın mimarıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Erebus, Word Bearers'ın

@@ -16,8 +16,4 @@ Reign of Blood olarak anılan zulüm döneminin Imperium'u iç savaşa sürükle
 
 ## Tarihçe
 
-Sebastian Thor'un Confederation of Light hareketi, Mechanicus ve bazı Chapter'ların desteğiyle Terra'ya dayandı. Custodes'in aracılığıyla Emperor'ın huzuruna çıkan Alicia Dominica geri döndüğünde Vandire'yi öldürdü.
-
--# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
-
--# İlişkili kayıtlar: <#1551810771472883713>, <#1551651549804236801>, <#1551753444308811807>
+Age of Apostasy, İmparatorluğun en karanlık ve en yozlaşmış dönemidir; Goge Vandire'in — Ecclesiarchy'nin en yozlaşmış lideri — İmparatorluğun en büyük dini savaşını başlattığı ve İmparatorluğu neredeyse yok eden bir dönemdir — onlar, İmparatorluğun en karanlık ve en yozlaşmış döneminin somut halidir. Age of Apostasy'nin en büyük özelliği, onun yozlaşmasıdır — onlar, İmparatorluğun en yozlaşmış liderinin en büyük savaşıdır ve onların varlığı, İmparatorluğun en büyük iç tehdidinin kanıtıdır; bir Age of Apostasy, bir imparatorluğun en karanlık anının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük yozlaşmasının somut halidir. Age of Apostasy'nin en ünlü özelliği, onun Vandire'in düşüşüdür — onlar, bir liderin en büyük yozlaşmasının ve en büyük yenilgisinin anıdır ve onların varlığı, İmparatorluğun en büyük dersinin kanıtıdır. Age of Apostasy, İmparatorluğun en karanlık ve en yozlaşmış dönemidir — onlar, İmparatorluğun en büyük yozlaşmasının ve en büyük dersin

@@ -12,7 +12,7 @@ Bu gelenek Leman Russ'a kadar uzanır. Russ'ın Council of Nikaea'da Legion psyk
 
 ## Tarihçe
 
-Njal Stormcaller — 'Yürüyen Fırtına' — Space Wolves'un en büyük Rune Priest'i (Kütüphaneci)dir; hem Astartes savaşçısı hem de formidabl psişik güç olarak rakipsizdir. Psyber-raven'i Nightwing eşliğinde savaşan bu figür, Fenris'in şamanik geleneğini — 'gökyüzünün sesi'ni — Space Marines'in en güçlü psişik kullanıcılarından biri olarak temsi
+Njal Stormcaller, Space Wolves'un en güçlü ve en efsanevi High Rune Priest'idir; 'The Tempest that Walks' olarak bilinen ve Space Wolves'un en güçlü psyker'ı olan Njal, İmparatorluğun en gizli ve en kutsal savaşçısıdır — onlar, Space Wolves'un en güçlü ve en efsanevi üyesidir. Njal Stormcaller'ın en büyük özelliği, onun psişik gücüdür — on
 
 ## Köken ve Kişilik
 Njal'ın Fenris'teki kökeni, hangi kabileden geldiği ve Rune Priest olarak nasıl yükseldiği hakkında yayımlanmış ayrıntılar sınırlıdır; arşiv bunları kesinleştirmez. Kaynakların çizdiği portre daha çok onun Chapter içindeki konumuna odaklanır: sert, sözünü esirgemeyen, gücünün yarattığı korkunun farkında olan ve bu gücü Fenris'in ve Russ'ın mirasına borçlu olduğuna inanan bir yaşlı savaşçı. Space Wolves'un çoğu figüründe olduğu gibi Njal'ın kişiliği de kurumsal bir unvandan çok bir destan kahramanının diliyle anlatılır; bu anlatıların bir bölümü Chapter'ın kendi sagalarına aittir ve evren içi abartıyı taşıyabilir.

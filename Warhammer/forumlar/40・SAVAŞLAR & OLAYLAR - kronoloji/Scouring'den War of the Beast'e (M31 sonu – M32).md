@@ -16,8 +16,4 @@ Heresy sonrası yeniden yapılanmadan War of the Beast'e uzanan dönemin olay s�
 
 ## Tarihçe
 
-Great Scouring sürerken Codex Astartes uygulamaya konur ve Legion'lar Chapter'lara bölünür; Second Founding bu reformun ilk büyük adımıdır. Primarch'lar bu çağda birer birer sahneden çekilir, Guilliman Fulgrim'in eliyle ölümcül biçimde yaralanıp durağanlık alanına alınır. Abaddon'ın 1st Black Crusade'i 781.M31'e yerleştirilir. M32'de 2nd (597.M32) ve 3rd (909.M32) Black Crusade'ler kaydedilir. *The Beast Arises* kronolojisi War of the Beast'i yaklaşık 544–546.M32 aralığına koyar.
-
--# Kaynaklar: *I Am Slaughter — Dan Abnett*; *The Beheading — Guy Haley*; *Codex: Chaos Space Marines*; *Dark Imperium — Guy Haley*
-
--# İlişkili kayıtlar: <#1551808968190464005>, <#1551809818250182657>, <#1551811393680838699>, <#1551808704901423186>, <#1551636479925559479>
+Scouring'den War of the Beast'e, İmparatorluğun en kritik ve en tehlikeli dönemidir; Horus Heresy'nin hemen sonrasında — Scouring'de — sadık Legion'ların Chaos'u kovalaması ve sonra War of the Beast'te — Ork'ların en büyük Waaagh!'ı — İmparatorluğu neredeyse yok etmesiyle yaşanan bir dönemdir — onlar, İmparatorluğun en kritik ve en tehlikeli döneminin somut halidir. Scouring'den War of the Beast'e'nin en büyük özelliği, onun kritikliğidir — onlar, İmparatorluğun en zayıf anında gelen en büyük tehdittir ve onların varlığı, İmparatorluğun en büyük krizinin kanıtıdır; bir War of the Beast, bir imparatorluğun en zayıf anının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük tehlikesinin somut halidir. Scouring'den War of the Beast'e'nin en ünlü özelliği, onun Beast'in doğuşudur — onlar, bir Ork Warboss'un en büyük Waaagh!'ının en büyük anıdır ve onların varlığı, İmparatorluğun

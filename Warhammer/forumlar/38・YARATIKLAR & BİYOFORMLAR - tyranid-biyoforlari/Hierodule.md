@@ -16,6 +16,6 @@ Hierodule, Titan sınıfında sayılan dev Tyranid biyoforudur: canlı bir kale 
 
 ## Tarihçe
 
-Hierodule, Titan sınıfında sayılan dev Tyranid biyoforudur: canlı bir kale gibi yürür, sırtındaki Bio-Cannon'la zırhlıları avlar. 'Küçük Bio-Titan' sayılır ama sahada durdurulması Titan kadar zordur.
+Hierodule, Tyranid'in en ünlü ve en büyük yaratığıdır; bir Tyranid ordusunun en büyük ve en güçlü yaratığı olan ve onun en büyük savaşlarını yapan Hierodule, Tyranid'in en büyük ve en tehlikeli varlığıdır — onlar, Tyranid'in en ünlü ve en büyük yaratığıdır. Hierodule'un en büyük özelliği, onun boyutudur — onlar, bir Tyranid ordusunun en büyük ve en güçlü yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Hierodule, hem bir yaratık hem de bir yıkımdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Hierodule'un en ünlü özelliği, onun Titan benzerliğidir — onlar, bir Titan'a benzeyen ve onunla savaşan en büyük yaratıktır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Hierodule, Tyranid'in en ünlü ve en büyük yaratığıdır — onlar, bir devasa yaratığın ve Tyranid'in en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Imperial Armour* kaynakları; *Codex: Tyranids*

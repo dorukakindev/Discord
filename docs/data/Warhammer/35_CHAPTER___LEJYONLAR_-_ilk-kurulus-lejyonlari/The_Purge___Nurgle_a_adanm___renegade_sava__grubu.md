@@ -15,12 +15,8 @@ Galaktik uygarlığın kurtarılamayacak kadar çürümüş olduğuna, tek arın
 
 ## Tarihçe
 
-Kaynaklar The Purge'ü M36'nın sonlarından beri savaşan bir grup olarak anar. Sayılarının azlığını bilen savaşçıları, bütün bilinçli yaşamı silecek bir büyük salgın için dua eder. M41'de Arkos the Faithless'ın çağrısıyla Vraks'ın savunmasına katıldılar. Era Indomitus'ta Typhus önderliğindeki Death Guard kuvvetleriyle birlikte Iron Hands'in yurdu Medusa'ya saldırdıkları kaydedilir.
+The Purge, Nurgle'a adanmış en korkulan renegade warband'lerinden biridir; onların savaş doktrini, Nurgle'un 'temizleme' anlayışından doğar — onlar için yaşam, hastalıktır ve onların görevi, tüm yaşamı Nurgle'un kutsal çürümesiyle 'temizlemek'tir. The Purge'un en büyük özelliği, onların zehridir — onların silahları, hastalıkları ve varlıkları, sadece öldürmez, aynı zamanda çürütür; bir Purge savaşçısı, düşmanını zehirler ve onu yavaşça eritir ve onların savaşı, hem fiziksel hem de biyolojik bir kirliliktir. The Purge'un en ünlü savaşı, İmparatorluğun çeşitli dünyalarına yaptıkları biyolojik saldırılardır — onların zehiri, bir gezegenin ekosistemini bozar ve onun halkını, Nurgle'un en korkunç hastalıklarına maruz bırakır. The Purge, Chaos'un en korkulan ve en tiksindirici warband'idir — onların savaşı, hem ölüm hem de çürümedir.
 
 ## Teknik / Biyolojik Özellikler
 
-Sivil ve askerî hedef ayırmadan kullanılan kimyasal silahlar ve zehirli gazlar; Blight Drone gibi Nurgle'a adanmış makineler. Zırhta gri-yeşil tonlar öne çıkar.
-
--# Kaynaklar: *Codex: Chaos Space Marines*; *Imperial Armour Volume Seven: The Siege of Vraks – Part Three*
-
--# İlişkili kayıtlar: <#1551754683222327439>, siege-of-vraks, typhus, <#1551636519796867313>
+Sivil ve askerî hedef ayırmadan kullanılan kimyasal silahlar

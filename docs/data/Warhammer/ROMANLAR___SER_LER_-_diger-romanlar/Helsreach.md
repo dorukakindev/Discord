@@ -15,6 +15,6 @@ Grimaldus'un Armageddon'un en büyük kovan şehrini orklara karşı son adam ka
 
 ## Tarihçe
 
-Aaron Dembski-Bowden'ın Black Templars romanı; Helsreach hive şehrinin Ghazghkull WAAAGH!'ına karşı savunması — Grimaldus'un ünlü 'I have dug my grave' konuşması burada.
+Helsreach, Aaron Dembski-Bowden'in yazdığı ve Black Templars'ın hikâyesini anlatan bir romandır. Bu roman, Black Templars'ın en önemli hikâyesini anlatır; roman, Black Templars'ın en önemli hikâyesidir. Bu roman, Black Templars'ın en önemli hikâyesidir; roman, Black Templars'ın en önemli parçasıdır. Roman, Black Templars'ın en önemli hikâyesi olarak kalır.
 
 -# Kaynaklar: Black Library

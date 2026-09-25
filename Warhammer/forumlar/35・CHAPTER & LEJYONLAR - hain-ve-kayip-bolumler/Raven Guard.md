@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg/revision/latest?cb=20111203004542
 
+## Tarihçe
+
+Raven Guard (XIX Legion), Corvus Corax'ın oğullarıdır; gizlilik, sabotaj ve gerilla savaşı üzerine uzmanlaşmış ve Horus Heresy'de en ağır kayıpları veren Legion'dur — onların savaşı, gölgelerde ve sessizlikte yapılır. Raven Guard'ın savaş doktrini, Corax'ın isyan geçmişinden doğar — onlar görünmezliği sever, stealth ve sabotajı tercih eder ve onların savaşı, düşmanın en zayıf anında, en beklenmedik yerden gelir; bir Raven Guard, savaşta görünmezdir ve onun varlığı, ancak ölüm anında fark edilir. Raven Guard'ın en büyük trajedisi, Isstvan V'de Legion'unun neredeyse yok edilmesidir — Corax'ın oğulları, ihanetin en ağır bedelini ödedi ve o günden beri Raven Guard, sayısı az ama ruhu büyük bir Chapter olarak kaldı. Raven Guard, İmparatorluğun en sessiz ve en ölümcül savaşçılarıdır — onların savaşı, görünmezlik ve ani ölümdür.
+
 https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg/revision/latest?cb=20111203004542
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

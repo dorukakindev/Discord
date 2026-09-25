@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ae/Hereticus_Stamp.jpg/r
 
 ## Tarihçe
 
-Gholic Ren-Sar Valinov, eskiden daemon avcısı Ordo Malleus'a bağlı kötü şöhretli bir Inquisitor'dü — önce Radical'a, sonra düpedüz Heretic'e dönüştü. Tzeentch'in 'Bin Yüzlü Prens' Ghargatuloth adlı Greater Daemon'unun baş ajanı olduğu ve onun yeniden doğuşunda kilit rol oynadığı düşünülür; aynı zamanda birçok büyük Chaos komplosunun baş kışkırtıcısıdır. 'Kendi içinden düşen avcı' olarak Inquisition'un en utanç verici ihanetlerinden birinin simgesidir.
+Gholic Ren-Sar Valinov, İmparatorluk Muhafızı'nın en trajik ve en tehlikeli ihanetcisidir; eskiden bir İmparatorluk Muhafızı subayı olan ve Chaos'a düşen Valinov, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, İmparatorluk Muhafızı'nın en trajik ve en tehlikeli ihanetcisidir. Gholic Ren-Sar Valinov'un en büyük özelliği, onun ihanetidir — onlar, bir İmparatorluk Muhafızı subayının Chaos'a düşüşünün en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Valinov, hem bir subay hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Gholic Ren-Sar Valinov'un en ünlü özelliği, onun İmparatorluk Muhafızı'nın üyesidir — onlar, bir ordunun en trajik ihanetinin parçasıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Gholic Ren-Sar Valinov, İmparatorluk Muhafızı'nın en trajik ve en tehlikeli ihanetcisidir — onlar, bir ihanetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

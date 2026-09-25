@@ -16,8 +16,6 @@ Navigator geni taşıyan soyların örgütlendiği hanedanlardır. Her House ken
 
 ## Tarihçe
 
-Houses, Navigator'larını Navy'ye, Rogue Trader hanedanlarına, ticaret filolarına ve Mechanicus'a sözleşmeyle kiralar. Gen saf tutulmak zorunda olduğundan evlilikler sıkı denetlenir; soy politikası, ittifak ve suikast Houses arasındaki rekabetin olağan araçlarıdır. Heresy'de pek çok Navigator hizmet ettiği traitor filolarla birlikte saf değiştirdi.
-
--# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Void Stalker — Aaron Dembski-Bowden*; *Warhammer 40,000 Core Book — 10th Edition*
+Navigator Houses, İmparatorluğun en gizli ve en önemli aileleridir; Navigators'ın — Warp'ta gemi süren mutant'ların — en gizli ve en önemli aileleri olan Navigator Houses, İmparatorluğun en gizli ve en önemli varlıklarıdır — onlar, İmparatorluğun en gizli ve en önemli aileleridir. Navigator Houses'ın en büyük özelliği, onların Navigators'ıdır — onlar, Warp'ta gemi süren mutant'ların en gizli aileleridir ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Navigator Houses üyesi, hem bir mutant hem de bir soyludur ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Navigator Houses'ın en ünlü öze
 
 -# İlişkili kayıtlar: <#1551651548713455758>, <#1551652850319368254>, <#1551817319288676373>, <#1551813334993739777>

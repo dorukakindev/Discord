@@ -19,4 +19,8 @@ Force silahları psyker'ın zihinsel gücünü fiziksel darbeye odaklayan kanall
 ## Not
 Witch blade'in menzilli kuzenidir — Aeldari'nin 'silahı da hedefi de seçer' doktrininin örneği; fırlatıldıktan sonra iradeyle geri çağrılır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Singing Spear, Aeldari'nin en ünlü ve en gizli psyker silahıdır; onların Aeldari'nin en gizli ve en ölümlü psişik mızrağı olan ve onun en zorlu savaşlarını yapan Singing Spear, Aeldari'nin en gizli ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en gizli psyker silahıdır. Singing Spear'ın en büyük özelliği, onun psişik gücüdür — onlar, psyker enerjisiyle düşmanı yok eden en ölümlü mızraktır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Singing Spear, hem bir silah hem de bir psişik güçtür ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Singing Spear'ın en ünlü özelliği, onun Warlock'ların kullanımıdır — onlar, Aeldari'nin en gizli üyelerinin en ölümlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Singing Spear, Aeldari'nin en ünlü ve en gizli psyker silahıdır — onlar, bir psişik gücün ve Aeldari'nin en büyük silahının somut halidir.
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derleme

@@ -16,8 +16,6 @@ Birden fazla Chapter'ın Imperium'a karşı silaha sarıldığı iç savaş. Tam
 
 ## Tarihçe
 
-Astral Claws'ın yanında Mantis Warriors, Lamenters ve Executioners secessionist safta yer aldı. Palace of Thorns'un düşüşünde Huron ağır yaralanarak Maelstrom'a kaçtı.
+Badab War, İmparatorluğun en büyük ve en trajik iç savaşıdır; Huron'un — Astral Claws'un Chapter Master'ı — İmparatorluğa isyan etmesi ve sonunda Chaos'a düşmesiyle sonuçlanan İmparatorluğun en büyük iç savaşıdır — onlar, İmparatorluğun en büyük ihanetinin ve en büyük dersinin somut halidir. Badab War'un en büyük özelliği, onun ihanetidir — onlar, bir Chapter'ın İmparatorluğa isyan ettiği en büyük savaştır ve onların varlığı, İmparatorluğun kendi içindeki en büyük tehdidin kanıtıdır; bir Badab War, bir Chapter'ın düşüşünün en büyük anıdır ve onların varlığı, İmparatorluğun en büyük dersinin somut halidir. Badab War'un en ünlü özelliği, onun Huron'un düşüşüdür — onlar, bir Chapter Master'ın Chaos'a düşüşünün en büyük anıdır ve onların varlığı, İmparatorluğun en büyük ihanetinin kanıtıdır. Badab War, İmparatorluğun en büyük ve en trajik iç savaşıdır — onlar, İmparatorluğun en büyük ihanetinin ve en büyük dersinin somut halidir.
 
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Ten: The Badab War – Part Two*
-
--# İlişkili kayıtlar: <#1551811438547312645>, <#1551809294750449746>, <#1551812225570836561>
+-# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *I

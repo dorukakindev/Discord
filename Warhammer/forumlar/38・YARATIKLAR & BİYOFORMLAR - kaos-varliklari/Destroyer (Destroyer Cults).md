@@ -15,12 +15,4 @@ Destroyer, bedenini yalnızca öldürmek için yeniden biçimlendirmiş Necron'd
 
 ## Tarihçe
 
-Destroyer'lar, Necron'un 'yok edici' savaşçılarıdır — Destroyer Kültü'nün üyeleri olarak organik yaşamı galaksiden tamamen silmeye yeminli figürler. Kendilerini ağır silah platformlarına dönüştürmüş bu varlıklar, 'biyolojik hayata karşı cihat'ın askerleridir; 'yaşamın yeminli düşmanı' olarak Necron'un en nihilist yüzüdür.
-
-## Kanon Notu
-
-Destroyer'lar Necron'ların ilk yayınlarından beri vardır; Destroyer Cult adı daha önceki Codex'lerde de geçer; Skorpekh ve Ophydian biçimleri ile Lokhust adı 9th Edition'la geldi. Flayed One'ların lanetiyle karıştırılmamalıdır.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 9th Edition*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>
+Destroyer (Destroyer Cults), Necron'ların en tehlikeli ve en delirmiş birliğidir; 'yok etme' ideolojisiyle delirmiş olan ve her şeyi yok etmeye çalışan en tehlikeli Necron'lar olan Destroyer Cults, Necron'ların en tehlikeli ve en delirmiş varlıklarıdır — onlar, Necron'ların en tehlikeli ve en delirmiş birliğidir. Destroyer Cults'un en büyük özelliği, onların deliliğidir — onlar, 'yok etme' ideolojisiyle delirmiş olan ve her şeyi yok etmeye çalışan en tehlikeli Necron'lardır ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Destroyer Cults birliği, hem bir makine topluluğu hem de bir delilik gücüdür ve onların varlığı, Necron'ların en büyük tehdidinin somut halidir. Destroyer Cults'un en ünlü özelliği, onların 'yok etme' ideolojisidir — onlar, her şeyi y

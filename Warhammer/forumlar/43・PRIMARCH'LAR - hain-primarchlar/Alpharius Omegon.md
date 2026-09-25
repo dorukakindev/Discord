@@ -12,4 +12,7 @@ Alpharius, tüm Primarch'ların en gizemlisidir ve en büyük sırrı şudur: as
 
 ## İkiz ve İhanet
 Alpharius aslında ikizdi — Alpharius ve Omegon, XX. Lejyon Alpha Legion'ı birlikte yönetti; İmparatorluk onları tek kişi sandı. Heresy'de hain saflarına katılmalarının nedeni tartışmalıdır: bir Cabal kehaneti, İmparatorluk'un yok edilmesinin Kaos'u da yok edeceğini söylüyordu ve Alpharius bu yolu seçti — ya da seçmiş gibi yaptı. Eskrador'da Dorn'un Imperial Fists'iyle çatıştı; kayıtlar Alpharius'un (ya da Omegon'un) orada öldüğünü söyler, ama Alpha Legion'da kimse bir diğerinden ayırt edilemez — "Ben Alpharius'um" hep bir yalandır. Bugün lejyon parçalara bölünmüş hücreler hâlinde hâlâ aktif; gerçek amaçları bilinmiyor.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Alpharius Omegon, Alpha Legion'un en gizli ve en tehlikeli primarch'ıdır; 'Ben Alpharius'um' diyen ve herkesin Alpharius olabileceğini savunan en gizli primarch olan Omegon, İmparatorluğun en gizli ve en tehlikeli düş

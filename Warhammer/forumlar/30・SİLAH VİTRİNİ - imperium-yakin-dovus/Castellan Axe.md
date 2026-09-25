@@ -13,6 +13,6 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 
 ## Tarihçe
 
-Castellan sınıfı iki-elli büyük güç baltası; Adeptus Custodes ve seçkin savaşçıların ağır yakın dövüş silahı. Kalkan kullanan Sentinel Guard geleneğinin parçası — hem bıçak hem savunma mekanizması olarak çalışan imparatorluk usta-işi.
+Castellan Axe, Black Templars Chapter'ının özel güç baltasıdır; Castellan veya Marshal rütbesindeki komutanların taşıdığı ve onların otoritesinin simgesi olan devasa power axe'dir — onun kesimi, bir Chaos Lord'u veya bir daemon'u tek hamlede ikiye böler. Castellan Axe'in baltası, disruption field ve Black Templars'ın kendi demirci geleneğiyle dövülmüştür — onun kesimi, hem güç hem de onur taşır; ve onu taşıyan, Black Templars'ın en yüksek rütbeli savaşçısıdır. Castellan Axe'in tarihi, Black Templars'ın kuruluşuna dayanır — Sigismund'un savaş geleneğinin devamı olarak, her Castellan onu taşır ve onunla Chapter'ın en zorlu düşmanını karşılar. Castellan Axe, Black Templars'ın otoritesinin somut halidir — onu taşıyan, Chapter'ın iradesini taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,6 +16,6 @@ Adeptus Mechanicus'un iç savaşı; kadim veritabanlarına karşı 'gerçek-ruh'
 
 ## Tarihçe
 
-Moirae Schism, Mechanicum'un Moirae gezegenindeki bir tekno-ruh mahlûku yüzünden patlayan bölünmesidir: Moirae keşişleri Machine God'ın gerçek sinyalini yakaladıklarını iddia etti ve Mars'a karşı çıktı. Bin yıl süren savaşta Titan Legion'ları ikiye bölündü; Moirae yok edildi ama 'Dark Mechanicum'un proto-köklerinin bir kısmı buradan beslendi.
+Moirae Schism, Adeptus Mechanicus'un içindeki en büyük bölünme olarak tarihe geçti. Bu olay, Mechanicus'un içindeki iki rakip grubun çatışması olarak başladı; Moirae Schism sırasında Mechanicus'un birçok üyesi, farklı yönlerde ilerlemeye çalıştı. Bölünme, Mechanicus'un içindeki en büyük çatışma olarak kayda geçti ve Mechanicus'un gelecekteki yönünü etkiledi. Moirae Schism, İmparatorluk'un en gizli organizasyonunun bile içinde bölünmeler yaşayabildiğini gösteren en çarpıcı örnektir.
 
 -# Kaynaklar: *Codex: Adeptus Mechanicus*; Warhammer 40,000 — Lexicanum derlemesi

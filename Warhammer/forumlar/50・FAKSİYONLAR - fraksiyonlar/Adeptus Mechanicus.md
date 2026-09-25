@@ -16,8 +16,4 @@ Machine God'a tapan, teknolojiyi anlamaktan çok koruyup kopyalayan tech-priest'
 
 ## Tarihçe
 
-Heresy'de Mars ikiye bölündü; Horus'un safına geçen kesim Dark Mechanicum olarak ayrıldı. Sonraki binyıllarda Quest for Knowledge sürdü ve STC parçaları en değerli hazine sayıldı. Era Indomitus'ta Belisarius Cawl'ın Primaris projesi kurumun en görünür eseri oldu.
-
--# Kaynaklar: *Codex: Adeptus Mechanicus*; *Mechanicum — Graham McNeill*; *Priests of Mars — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551753449878724689>, <#1551816635839549491>, <#1551809095655493743>, <#1551650329156788287>, <#1551639038291611649>
+Adeptus Mechanicus, İmparatorluğun en eski ve en gizli kurumudur; teknolojiyi kutsal kabul eden ve Machine God'a tapınan bir dini-teknolojik organizasyondur — onlar, İmparatorluğun en güçlü ve en gizli gücüdür. Adeptus Mechanicus'un en büyük özelliği, onların teknolojik tekeli vardır — onlar, İmparatorluğun tüm teknolojisini kontrol eder ve onların bilgisi, İmparatorluğun en değerli ve en gizli sırrıdır; bir Tech-Priest, hem bir rahip hem de bir mühendistir ve onların savaşı, hem fiziksel hem de teknolojik bir mücadeledir. Adeptus Mechanicus'un en ünlü özelliği, onların Forge World'leridir — onlar, devasa fabrika gezegenleridir ve onların üretim

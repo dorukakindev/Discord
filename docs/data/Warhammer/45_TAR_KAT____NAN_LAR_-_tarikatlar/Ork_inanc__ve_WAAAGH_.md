@@ -14,7 +14,7 @@ Ork inancının ne kilisesi ne yazılı öğretisi vardır; savaşmak, kazanmak 
 
 ## Tarihçe
 
-Güçlü bir Warboss yeterince Ork'u peşine taktığında Waaagh! bir sefere dönüşür; zaferler geldikçe yeni kabileler katılır. Ghazghkull Thraka, başındaki yaranın ardından gördüğü vizyonlarla kendini Gork ve Mork'un peygamberi ilan ederek bu inancı M41'in en büyük Ork seferlerine taşıdı.
+Ork inancı ve WAAAGH!, Ork ırkının en temel ve en güçlü inanç sistemidir; onların Gork ve Mork'a olan inançları ve WAAAGH! — bir Ork'un kolektif psişik gücü — ile birleşen bir inançtır — onlar, Ork'ların en temel ve en güçlü gücüdür. Ork inancının en büyük özelliği, onun basitliğidir — onlar, Gork ve Mork'a inanır ve onların inancı, sadece savaş ve güç üzerine kuruludur; bir Ork, hem bir savaşçı hem de bir inanan'dır ve onların varlığı, Ork'ların en temel gücünün kanıtıdır. WAAAGH!'ın en büyük özelliği, onun kolektif gücüdür — onlar, bir Ork'un psişik gücüyle birleşir ve onların kolektif bilinci, bir gezegeni bile etkileyebilir; bir WAAAGH!, bir Ork ordusunun en büyük gücüdür. Ork inancı ve WAAAGH!, Ork ırkının en temel ve en güçlü inanç sistemidir — onlar, savaşın ve gücün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -22,8 +22,4 @@ Weirdboyz'un Waaagh! enerjisini emip boşaltması; inancın Ork teknolojisini et
 
 ## Kanon Notu
 
-Ork inancının gerçekliği fiilen etkileyip etkilemediği Imperial gözlemcilerin yorumu olarak sunulur; mekanizma kesinleştirilmez. Ghazghkull'un tanrılarla iletişimi evren içi bir iddiadır.
-
--# Kaynaklar: *Codex: Orks — 10th Edition*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*; *Brutal Kunnin' — Mike Brooks*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551814495138091013>, <#1551817830096310363>, <#1551643990196232303>
+Ork inancının gerçekliği fiilen etkileyip etkilemediği Imperial gözlemcilerin yorumu olarak sunulur; mekanizma kes

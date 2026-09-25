@@ -19,4 +19,8 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 ## Not
 Düşmüş inanç sembolüdür — Crozius hâlâ otorite taşır ama artık hizmeti başka tanrıyladır.
 
+
+## Tarihçe
+
+Accursed Crozius, Chaos'un en ünlü ve en gizli silahıdır; onların Chaos'un en gizli ve en ölümlü crozius'u olan ve onun en tehlikeli operasyonlarını yapan Accursed Crozius, Chaos'un en gizli ve en ölümlü silahıdır — onlar, Chaos'un en ünlü ve en gizli silahıdır. Accursed Crozius'un en büyük özelliği, onun gizliliğidir — onlar, Chaos'un en gizli ve en ölümlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Accursed Crozius, hem bir silah hem de bir emanet'dir ve onların varlığı, Chaos'un en büyük silahının somut halidir. Accursed Crozius'un en ünlü özelliği, onun Dark Apostle'ların kullanımıdır — onlar, Chaos'un en korkulan rahiplerinin en ölümlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Accursed Crozius, Chaos'un en ünlü ve en gizli silahıdır — onlar, bir emanetin ve Chaos'un en büyük silahının somut halidir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

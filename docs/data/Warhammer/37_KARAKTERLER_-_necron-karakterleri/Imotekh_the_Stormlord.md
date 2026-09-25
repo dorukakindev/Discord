@@ -16,8 +16,4 @@ Sautekh dynasty'sinin hükümdarı Imotekh, Necron soyluları arasında strateji
 
 ## Tarihçe
 
-Imotekh the Stormlord ('Fırtına Lordu'), Sautekh Hanedanı'nın phaeron'udur — Necron'un en güçlü ve en yayılmacı hanedanının hükümdarı. Mandragora'nın efendisi olarak Necron uygarlığının yeniden genişlemesini yöneten bu figür, 'uyuyan imparatorluğun generali' olarak galaksinin en tehlikeli askeri zihinlerinden biridir.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*; *Crusade: Pariah Nexus*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551818153271627807>, <#1551809907060113460>
+Imotekh the Stormlord, Necron'ların en ünlü ve en güçlü lideridir; Sautekh hanedanının — Necron'ların en büyük hanedanı — lideri olan ve onun en büyük savaşlarını yöneten Imotekh, Necron'ların en güçlü ve en tehlikeli varlığıdır — onlar, Necron'ların en ünlü ve en güçlü lideridir. Imotekh'ın en büyük özelliği, onun gücüdür — onlar, Sautekh hanedanının en yüksek lideridir ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır; bir Imotekh komutası, bir hanedanın en büyük zaferinin en büyük anıdır ve onların varlığı, Necron'ların en büyük tehdidinin somut halidir. Imotekh'ın en ünlü özelliği, onun 'Stormlord' lakabıdır — onlar, Necron'ların en güçlü ve en tehlikeli lideridir ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. Imotekh the Stormlord, Necron'ların en ünlü ve en güçlü lideridir — onlar, bir gücün ve Necron'ların

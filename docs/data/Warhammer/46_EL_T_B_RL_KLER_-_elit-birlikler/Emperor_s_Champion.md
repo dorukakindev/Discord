@@ -15,12 +15,10 @@ Her Crusade'de, savaş öncesi tutulan dua nöbetinde Emperor'dan görüm aldı�
 
 ## Tarihçe
 
-Sigismund Imperial Fists'in First Captain'ı olarak Siege of Terra'da bu unvanı taşıdı ve Heresy'den sonra Black Templars'ın ilk High Marshal'ı oldu. Chapter'ın sonsuz Crusade anlayışı içinde Emperor's Champion, imanın savaş alanındaki en görünür simgesidir. Makam kalıcı ya da kalıtsal değildir; her görümle yeni bir Champion belirlenir.
+Emperor's Champion, Black Templars Chapter'ının en kutsal savaşçısıdır; her seferde tek bir kişi — Chapter'ın en sadık ve en güçlü savaşçısı — bu rütbeye yükselir ve İmparator'un gazabının somut halini taşır. Champion, Emperor's Sword — Black Templars'ın en kutsal emaneti — ve Armour of Faith giyer; onun görevi düşmanın en güçlü savaşçısını bulmak ve onu tek düelloda yenmektir. Emperor's Champion, savaştan önce rüyasında İmparator'un işaretini görür ve Chaplain'lar onu bu işaretle tanır; bir kez seçildiğinde, o artık sadece savaşçı değil, İmparator'un öfkesinin aracıdır. Black Templars için Emperor's Champion, Chapter'ın ruhunun yaşayan sembolüdür — onun düşmesi, Chapter'ın en büyük kaybıdır ve onun zaferi, İmparator'un hâlâ onları izlediğinin kanıtıdır.
 
 ## Kanon Notu
 
 Görümün gerçekten Emperor'dan geldiği Chapter'ın inancıdır; ansiklopedik bir hüküm verilmez. Imperial Fists'in Heresy dönemi Templar geleneğiyle ilişkisi kaynaklarda farklı ayrıntılarla anlatılır.
 
--# Kaynaklar: *Codex Supplement: Black Templars — 10th Edition*; *Sigismund: The Eternal Crusader — John French*; *Helsreach — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551637696466788466>, <#1551636479925559479>, <#1551809039342501970>, <#1551808888666587197>
+-# Kaynaklar: *Codex Supplement: Black Templars — 10th Edition*; *Sigismund: The Eternal Crusader

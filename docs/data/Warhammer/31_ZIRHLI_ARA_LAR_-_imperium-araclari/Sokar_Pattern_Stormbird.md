@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d1/SokarStormbird00000.p
 
 ## Tarihçe
 
-Sokar Pattern Stormbird, Stormbird'ün en büyük ve en nadir kalıbıdır; bir Titan sınıfı araç büyüklüğünde olan bu devasa taşıyıcı, lejyonların en ağır hava saldırılarında kullanıldı.
+Sokar Pattern Stormbird, Legiones Astartes tarafından kullanılan ve Stormbird'ün bir varyantı olan en büyük ve en güçlü hava taşıma aracıdır; onun gelişmiş zırhı ve silahlandırmasıyla — bir Space Marine şirketini ve onların zırhlısını taşıyabilen bir araçtır — onlar, Space Marine'lerin en güçlü ve en yıkıcı hava taşıma aracıdır. Sokar'ın en büyük özelliği, onun zırhıdır — onlar, bir Stormbird'den daha kalın zırhlıdır ve onların varlığı, bir Space Marine saldırısının en güçlü silahıdır; bir Sokar, bir düşman savunmasını bile geçebilir ve onların varlığı, bir Legion'un en güçlü silahıdır. Sokar'ın en ünlü görevi, Horus Heresy'deki çeşitli savaşlarıdır — onlar, Space Marine Legion'larının en güçlü hava taşıma aracıydı ve onların varlığı, bir Legion'un en güçlü silahıydı. Sokar Pattern Stormbird, Space Marine'lerin en güçlü ve en yıkıcı hava taşıma aracıdır — onlar, bir Legion'un hava gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

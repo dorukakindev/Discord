@@ -16,8 +16,4 @@ Guilliman'ın başlattığı, Great Crusade'den bu yana Imperium'un en geniş as
 
 ## Tarihçe
 
-Crusade numaralandırılmış filolara bölündü; Fleet Primus'u Guilliman bizzat yönetti. Primaris Space Marine'ler Ultima Founding ile hem yeni Chapter'lar hâlinde hem de mevcut Chapter'lara takviye olarak savaşa sürüldü. Guilliman Rift'i aşarak Baal'a ulaştı ve Dante'yi Imperium Nihilus'un Lord Regent'i atadı. İlk büyük evre Raukos zaferinin ardından sona erdi.
-
--# Kaynaklar: *Gathering Storm III: Rise of the Primarch*; *Dark Imperium — Guy Haley*
-
--# İlişkili kayıtlar: <#1551815418619101185>, <#1551997912307732560>, <#1551818213782716427>, <#1551814400938082357>
+Indomitus Crusade, İmparatorluğun en yeni ve en umutlu askeri hareketidir; Guilliman'ın — Ultramarines'in primarch'ı — hayata döndürülmesi ve İmparatorluğa Primaris Space Marine'lerini kazandırmasıyla başlayan en büyük seferdir — onlar, İmparatorluğun en büyük umudunun ve en büyük değişiminin somut halidir. Indomitus Crusade'in en büyük özelliği, onun umududur — onlar, İmparatorluğun en karanlık saatinde gelen yeni ışıktır ve onların varlığı, İmparatorluğun en büyük umudunun kanıtıdır; bir Indomitus Crusade, bir imparatorluğun yeniden doğuşunun en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin somut halidir. Indomitus Crusade'in en ünlü özelliği, onun Guilliman'ın dönüşüdür — onlar, bir primarch'ın hayata döndürülmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük umudunun kanıtıdır. Indomitus Crusade, İmparatorluğun en yeni

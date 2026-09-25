@@ -12,6 +12,4 @@ Tyranid Warrior'ın en önemli işlevi sinapstır (synapse); Hive Mind'ın engin
 
 ## Tarihçe
 
-Tyranid Warrior, tyranid sürüsünün bel kemiği piyade canavarıdır; bioconstruct silahlarla donanmış orta-boy savaşçı form. Hive Mind'ın 'ana asker' — insan boyutundaki ama savaşta ölümcül temel birim.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Tyranid Warrior, Tyranid'in en ünlü ve en yaygın savaş yaratığıdır; bir Tyranid ordusunun en yaygın ve en ölümlü savaş birliği olan ve onun en zorlu savaşlarını yapan Tyranid Warrior, Tyranid'in en yaygın ve en ölümlü varlığıdır — onlar, Tyranid'in en ünlü ve en yaygın savaş yaratığıdır. Tyranid Warrior'ın en büyük özelliği, onların yaygınlığıdır — onlar, bir Tyranid ordusunun en yaygın ve en ölümlü savaş birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Tyranid Warrior, hem bir yaratık hem de bir askerdir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Tyranid Warrior'ın en ünlü özelliği, onların çok yönlülüğüdür — onlar, bir Tyranid ordusunun en yaygın ve en ölümlü savaş yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Tyranid Warrior, Tyranid'in en ünlü ve en yaygın savaş yaratığıdır — on

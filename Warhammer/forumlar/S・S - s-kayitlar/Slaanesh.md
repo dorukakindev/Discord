@@ -74,4 +74,8 @@ Slaanesh, 1988'de yayımlanan *Realm of Chaos: Slaves to Darkness* ile Khorne'la
 **Kaynaklar:** *Codex: Chaos Daemons*; *Codex: Emperor's Children — 10th Edition*; *Fulgrim — Graham McNeill*; *Path of the Warrior — Gav Thorpe*; *Gathering Storm II: Fracture of Biel-Tan*; *Realm of Chaos: Slaves to Darkness*
 **Çapraz:** <#1551812165172994160>, <#1551654107058540595>, <#1551813750305198101>, <#1551814105046851615>, <#1551810506078290021>, <#1551742665756901377>, <#1551813775848509482>, <#1551815867845578773>
 
+## Tarihçe
+
+Slaanesh, Chaos'un en gizli ve en ayartıcı tanrısıdır; zevk, acı ve aşırılığın tanrısı olan ve onun en gizli operasyonlarını yöneten Slaanesh, Chaos'un en gizli ve en ayartıcı gücüdür — onlar, Chaos'un en gizli ve en ayartıcı tanrısıdır. Slaanesh'in en büyük özelliği, onun ayartıcılığıdır — onlar, zevk ve acının tanrısıdır ve onların varlığı, Chaos'un en büyük g
+
 ​

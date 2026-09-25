@@ -5,14 +5,17 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/df/BlightLauncherBlightl
 
 -# *Çürüme Fırlatıcı*
 
-Death Guard'ın küçük çaplı veba bombası fırlatıcısı; her atış, isabet noktasında patlayıp Nurgle'ın hastalık sporlarını yayan bir küre gönderir.
+Death Guard'ın ağır bomba atarı; zırh delici mermileri hedefin derinliklerine gömüp içeride parçalayarak aşındırıcı Ironblight'ı ete ve gövdeye boşaltır.
+
+- **Kategori:** Plague Weapon — ağır bomba atar (grenade launcher)
+- **Fraksiyon:** Death Guard (Nurgle)
+- **Dönem:** Dark Imperium ve Plague Wars'tan Era Indomitus'a
+- **Köken:** Blight Grenade mühimmatının silahla atılan türevidir; ilk üretimine dair ayrıntı kanonda verilmez.
+- **Teknik / Biyolojik Özellikler:** Zırh delici mermiler hedefin içine girer, kırılgan "brittleglass" çekirdekleri parçalanır ve aşındırıcı Ironblight'ı bedenlere ve zırhlara salar. Foetid Bloat-Drone'ların taşıdığı büyük türevine Heavy Blight Launcher denir.
+- **Bilinen Kullanıcılar / Operatörler:** Blightlord Terminator'ları, Plague Marine'ler; ağır türevle Foetid Bloat-Drone'lar.
+- **Önemli Olaylar:** Plague Wars — Mortarion'un Ultramar seferi.
+- **Kanon Notu:** "Plague Weapon" sınıfındadır; zarar patlamadan çok taşıdığı patojen ve aşındırıcı yükten gelir.
 
 ## Tarihçe
 
-Death Guard Blightlord ve Plague Marine'lerin ağır bomba atarı; Blight Grenade'leriyle daemonik patojenleri saçar. Nurgle'un biyolojik savaşının standart dağıtım aracı — atış değil, salgın.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-## Teknik ve Kullanım
-
-Death Guard'ın el bombası fırlatıcısı; zehirli çamur yüklü el bombalarını bölge bombardımanı gibi atar. Patlayan her bomba sadece şarapnel saçmaz — çevresindeki havayı, suyu ve toprağı da Nurgle'ın hastalıklarıyla kirletir. Sadece öldürmez, öldürdüğü zemini de yaşanmaz kılar. Plague Marine tüfeklerinin en korkulan destek silahıdır.
+Blight Launcher, Death Guard'ın en ünlü ve en ölümlü silahıdır; onların Death Guard'ın en güçlü ve en ölümlü blight silahı olan ve onun en tehlikeli operasyonlarını yapan Blight Launcher, Death Guard'ın en güçlü ve en ölümlü silahıdır — onlar, Death Guard'ın en ünlü ve en ölümlü silahıdır. Blight Launcher'ın en büyük özelliği, onun blight'ıdır — onlar, Death Guard'ın en güçlü blight silahıdır ve onların varlığı, Death Guard'ın en büyük gücünün kanıtıdır; bir Blight Launcher, hem bir silah hem de bir blight taşıyıcısıdır ve onların varlığı, Death Guard'ın en büyük silahının somut halidir. Blight Launcher'ın en ünlü özelliği, onun blight atmasıdır — onlar, Death Guard'ın en güçlü ve en ölümlü silahıdır ve onların varlığı, Death Guard'ın en büyük gü

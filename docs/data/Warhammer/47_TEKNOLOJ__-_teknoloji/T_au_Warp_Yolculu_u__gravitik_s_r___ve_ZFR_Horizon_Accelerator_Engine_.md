@@ -16,8 +16,4 @@ T'au gemileri Warp'a ancak yüzeysel biçimde dalabilen sürüş sistemleri kull
 
 ## Tarihçe
 
-Kaynaklar, Earth Caste'ın bir xenos Warp teknolojisini T'au'nun gravitik sürüşüyle birleştirerek geliştirdiği **ZFR Horizon Accelerator Engine**'i, genişlemeyi hızlandıran bir yenilik olarak anar. Great Rift'in doğuşuyla eş zamanlı Warp çalkantıları Third Sphere Expansion filolarını ağır kayıplara uğrattı ve T'au'yu Warp'ın gerçekliğiyle daha önce hiç olmadığı kadar yüz yüze getirdi.
-
--# Kaynaklar: *Codex: T'au Empire*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809666454134928>, <#1551814400938082357>
+T'au, İmparatorluk veya Eldari gibi doğrudan Warp'a dalmaz; bunun yerine gravitik sürüş (grav-drive) ve ZFR Horizon Accelerator Engine ile gerçek uzayda ışık hızına yakın sürerler. Grav-drive, geminin önünde uzay-zamanı bükerek onu iten bir sistemdir; Warp yolculuğundan daha yavaş ama güvenlidir — demon yok, Gellar alanı gerekmiyor ve yön kaybı olmuyor. ZFR Horizon Accelerator, son T'au nesillerinin geliştirdiği üst düzey motordur ve Etheral Caste'nin gizli araştırma projelerinin ürünüdür; galaksinin diğer güçleri için tam olarak anlaşılmış değildir. Ancak gravitik sürüşün sınırı var: çok uzun mesafelerde Warp'dan yavaştır ve T'au'nun galaktik yayılımını kısıtlar — bu yüzden dördüncü küre genişlemesinde Warp-dive denemeleri yapıldı ama felaketle sonuçlandı (Mau'la'tau sürüşü). T'au teknolojisinin zarafeti burada: dah

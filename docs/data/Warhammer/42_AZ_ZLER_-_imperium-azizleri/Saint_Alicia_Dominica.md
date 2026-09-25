@@ -14,6 +14,4 @@ San Leor dünyasındaki Daughters of the Emperor mezhebine mensup olan Dominica 
 
 ## Tarihçe
 
-Saint Alicia Dominica, Adepta Sororitas'ın (Sisters of Battle) kurucu azizidir ve İmparatorluk tarihinin en kritik figürlerinden biridir. Goge Vandire'in dehşet saltanatını sona erdiren kadın — İmparator'un önüne çıkarılıp gerçeği gördükten sonra Vandire'ı bizzat kafasını keserek öldürdü; sonrasında Ecclesiarchy'nin askeri kolunu Sisters of Battle olarak yeniden düzenledi ve ilk Imperial Saint oldu.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Alicia Dominica, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; Adepta Sororitas'ın — Sisters of Battle — kurucusu olan ve İmparatorluğun en kutsal ordusunu yaratan Alicia Dominica, İmparatorluğun en kutsal ve en önemli figürüdür — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Alicia Dominica'nın en büyük özelliği, onun kuruculuğudur — onlar, Adepta Sororitas'ın kurucusudur ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Alicia Dominica, hem bir aziz hem de bir kurucudur ve onların varlığı, İmparatorluğun dininin en büyük geleneğinin somut halidir. Saint Alicia Dominica'nın en ünlü özelliği, onun Adepta Sororitas'ın kurucusudur — onlar, İmparatorluğun en kutsal ordusunun yaratıcısıdır ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Saint Alicia Dominica,

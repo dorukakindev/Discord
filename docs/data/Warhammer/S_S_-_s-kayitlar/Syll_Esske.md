@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/96/Syll%27EsskeMini.jpg/
 
 ## Tarihçe
 
-Syll'Esske, Slaanesh'in daemonik Herald'ı Syll Lewdtongue ile Daemon Prince Esske'nin birleşik adıdır — 'öteki-öteki' olarak tanınan bir çift. Herald Syll, 'yok edilmek için ayartılanlara' fazla bağlanmakla Slaanesh'in sarayında dışlanmıştı; Esske ise ölümlü bir düellocuydu. İkisi ölümden birbirini kurtarıp tanrının gözünde eşsiz bir statü kazandı — 'aşk ve kılıç' çifti olarak Slaanesh'in en tuhaf ordusunu yönetirler.
+Syll'Esske, Chaos'un en ünlü ve en trajik ikilisidir; bir Daemon Prince (Syll) ve bir Daemon (Esske) olarak birleşen ve birlikte savaşan en trajik varlık olan Syll'Esske, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en ünlü ve en trajik ikilisidir. Syll'Esske'in en büyük özelliği, onların birliğidir — onlar, bir Daemon Prince ve bir Daemon'un birleşimi olarak birlikte savaşan en trajik varlıktır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Syll'Esske, hem bir daemon hem de bir birliktir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Syll'Esske'in en ünlü özelliği, onların ikili olmasıdır — onlar, Chaos'un en trajik ve en birleşik daemon'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Syll'Esske, Chaos'un en ünlü ve en trajik ikilisidir — onlar, bir birliğin ve Chaos'un en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850039137636462>

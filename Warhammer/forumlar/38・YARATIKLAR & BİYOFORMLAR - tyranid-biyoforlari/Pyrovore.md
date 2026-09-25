@@ -16,6 +16,6 @@ Pyrovore, sırtında taşıdığı canlı alev topuyla bilinen Tyranid'dir; zır
 
 ## Tarihçe
 
-Pyrovore, sırtında taşıdığı canlı alev topuyla bilinen Tyranid'dir; zırhlı mevzi ve sığınakları temizlemede uzmandır. En sinsi yanı ölümden sonrasıdır: Pyrovore düştüğünde bedeni patlar ve biyokimyasal alev saçar — onu öldürmek bile bir bedeldir.
+Pyrovore, Tyranid'in en ünlü ve en yakıcı canlı topçu yaratığıdır; bir Tyranid ordusunun en yakıcı biyolojik topçu birliği olan ve onun en zorlu savaşlarını yapan Pyrovore, Tyranid'in en yakıcı ve en ölümlü varlığıdır — onlar, Tyranid'in en ünlü ve en yakıcı canlı topçu yaratığıdır. Pyrovore'un en büyük özelliği, onun yakıcılığıdır — onlar, bir Tyranid ordusunun en yakıcı biyolojik topçu birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Pyrovore, hem bir yaratık hem de bir topçu birliğidir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Pyrovore'un en ünlü özelliği, onun alev atmasıdır — onlar, Tyranid'in en yakıcı ve en ölümlü canlı topçu yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Pyrovore, Tyranid'in en ünlü ve en yakıcı canlı topçu yaratığıdır — onlar, bir alemin ve Tyranid'in en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids*

@@ -16,8 +16,6 @@ Her Asuryani'nin göğsünde taşıdığı, ölüm anında ruhu yakalayan psiko-
 
 ## Tarihçe
 
-Aeldari mitinde spirit stone'ların, Isha'nın ölümlü çocukları için döktüğü gözyaşlarından doğduğu anlatılır. Craftworld'lerde ölenlerin taşları infinity circuit'e katılır; Exodite'lerde ise ruhlar gezegenin world spirit'ine karışır. Exarch'ların zırhları önceki Exarch'ların spirit stone'larını barındırır.
+Spirit Stone, Aeldari'nin ruhlarını Slaanesh'ten korumak için kullandığı kutsal taşdır; ölen bir Eldari'nin ruhu bu taşa çekilir ve orada korunur, Warp'a düşmeden Infinity Circuit'e taşınabilir. Waystone olarak da bilinir — taşıyıcısı öldüğünde ruhu otomatik olarak taşa bağlanır ve craftworld'e götürülünce Infinity Circuit'e bırakılır; orada ölüler kolektif bir bilinç olarak yaşar ve gerektiğinde yaşayanlara rehberlik eder. Spirit Stone olmadan ölen Eldari'nin ruhu doğrudan Slaanesh'e düşer — bu yüzden her Aeldari hayatı boyunca bir taş taşır ve taşın kaybı aileler için büyük trajedidir. Wraithguard ve Wraithlord'lar, spirit stone'lara bağlanmış ölü ruhların yaşayan metal gövdesine sürüldüğü savaş makineleridir — ölü, yaşayanla birlikte savaşır. Spirit Stone üretimi Craftworld'lerde kontrollüdür ve kaybı telafisi zordur; taş olmadan Eldari, Slaanesh karşısında savunmasız kalır.
 
--# Kaynaklar: *Codex: Aeldari — 10th Edition*
-
--# İlişkili kayıtlar: <#1551997822725922938>, <#1551812290439942255>, <#1551655323658494093>, <#1551754688008032321>, <#1551810744754905123>
+-# Kaynaklar: *Codex: Aeldari — 10

@@ -15,12 +15,10 @@ Terra'nın Praetorian'ı ve Imperial Palace'ı kaleye dönüştüren mimar. Yala
 
 ## Tarihçe
 
-Crusade'in son evresinde Palace'ın tahkimatıyla görevlendirildi, Perturabo'yla rekabeti de kişisel bir düşmanlığa dönüştü. Heresy'de Legion filosu Phall'da geciktirilirken kendisi Terra'da kaldı ve Siege of Terra'da bütün savunmanın baş komutanı oldu. Vengeful Spirit'te Emperor'ın parçalanmış bedenini bulanlardandı. Scouring'de Iron Cage tuzağına düştü; Codex Astartes'e uzun süre karşı çıktı. Sonradan bir Chaos gemisine yapılan çıkarmada kayboldu.
+Rogal Dorn, Imperial Fists'in en ünlü ve en saygın primarch'ıdır; Inwit'in — Imperial Fists'in ev gezegeni — en saygın savaşçısı olan ve Imperial Fists'i kuran Dorn, İmparatorluğun en saygın ve en onurlu primarch'ıdır — onlar, Imperial Fists'in en ünlü ve en saygın primarch'ıdır. Rogal Dorn'un en büyük özelliği, onun onurudur — onlar, İmparatorluğun en saygın primarch'ıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır; bir Dorn, hem bir primarch hem de bir komutandır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Rogal Dorn'un en ünlü özelliği, onun Terra Kuşatması'ndaki savunmasıdır — onlar, İmparatorluğun en büyük savunmasını yöneten ve onu kazanan en saygın primarch'dır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Rogal Dorn, Imperial Fists'in en ünlü ve en saygın primarch'ıdır — onlar, bir onurun ve İmparatorluğun en büyük gücünün somut halidir.
 
 ## Kanon Notu
 
-Geriye yalnızca kemikleşmiş bir elinin kaldığı ve Phalanx'ta saklandığı anlatılır; akıbeti açıklanmamıştır. Codex'i kabul edişinin koşulları her anlatıda aynı sırayla verilmez. Ayrıntı için <#1551650286559559741>.
-
--# Kaynaklar: *Rogal Dorn: The Emperor's Crusader — Guy Haley*; *Praetorian of Dorn — John French*; *The Solar War — John French*; *The End and the Death — Dan Abnett*
+Geriye yalnızca kemikleşmiş
 
 -# İlişkili kayıtlar: <#1551650286559559741>, <#1551636479925559479>, <#1551637696466788466>, <#1551809039342501970>, <#1551818097504157699>

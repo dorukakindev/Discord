@@ -16,8 +16,4 @@ Necron legion'larının ve soylularının milyonlarca yıl boyunca uyuduğu stas
 
 ## Tarihçe
 
-Uyku planlandığı gibi geçmedi. Çağların, jeolojik felaketlerin ve başka ırkların müdahalelerinin yıprattığı pek çok mezar hiç uyanmadı ya da hasarla uyandı; uyanan Necron'ların bir kısmının zihni bozulmuş hâlde döndüğü anlatılır. Kırk birinci binyılda tomb world'lerin birer birer uyanışı Great Awakening olarak anılır ve Necron'ları galaksinin yeniden sahneye çıkan güçlerinden biri yapar.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>
+Great Sleep, Necron ırkının altmış milyon yıl süren kolektif uykusudur; War in Heaven'ın sonunda C'tan'ları yenip Silent King'in emriyle bütün Necron'lar mezar dünyalarına çekildi ve stasis-tomb'larda donmuş olarak bekledi. Stasis-tomb, zamanın içinde donmuş bir hücredir — içindeki Necron ne yaşlanır ne değişir; bedeni yaşayan metalden yapılmış olduğu için onarım protokolleri çalışır ve beyin (canoptek implantlarla korunmuş) tamamen uykudadır. Uyanış yavaş ve düzensizdir — bazı mezar dünyaları tam zamanında uyanır, bazıları milyonlarca yıl geç kalır veya hiç uyanamaz; süreçte birçok Necron'un zihni çöktü ve bunlar Flayed Ones'a veya yıkıcı drone'lara dönüştü. Silent King, Great Sleep'in sonunda galaksiyi gördü ve dehşete kapıldı: insanlık, Ork ve Chaos her yeri istila etmişti; Necron'ların uyanışı galaksinin en

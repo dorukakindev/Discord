@@ -16,8 +16,6 @@ Hive Fleet Leviathan'ın bir kolunun bu imparatorluğa yönlendirilmesiyle iki x
 
 ## Tarihçe
 
-Octarian War, Inquisitor Fidus Kryptman'ın kararıyla başladı: resmî anlatıma göre Kryptman yakalanmış Genestealer'ları bir space hulk'a gizleyerek Octarius'a gönderdi ve Leviathan'ın bir kolunu Ork imparatorluğuna çekti. Umulan karşılıklı yok oluş yerine savaş bir tırmanmaya dönüştü; Ork'lar savaştıkça büyüdü, Tyranid'ler tükettikleriyle uyum sağladı. Imperium için Octarius, galip tarafın çok daha güçlü çıkacağı bir ikilemdir.
+Octarius, İmparatorluğun en büyük ve en tehlikeli savaş bölgesidir; onun Ork imparatorluğu ve Tyranid savaş bölgesi olmasıyla — İmparatorluğun en büyük savaşının merkezidir — onlar, İmparatorluğun en büyük ve en korkulan savaş bölgesidir. Octarius'un en büyük özelliği, onun savaşıdır — onlar, Ork'ların ve Tyranid'lerin en büyük savaşının merkezidir ve onların varlığı, İmparatorluğun en büyük savaşının merkezidir; bir Octarius, bir gezegenin en savaş halidir ve onların varlığı, İmparatorluğun en büyük savaşının kanıtıdır. Octarius'un en ünlü özelliği, onun Kryptmann Gambit'idir — onlar, İmparatorluğun Ork'ları Tyranid'lere karşı kullandığı en büyük stratejidir ve onların varlığı, İmparatorluğun en büyük planının kanıtıdır. Octarius, İmparatorluğun en büyük ve en tehlikeli savaş bölgesidir — onlar, İmparatorluğun en büyük savaşının somut halidir.
 
--# Kaynaklar: *War Zone Octarius — Book 1: Rising Tide*; *War Zone Octarius — Book 2: Critical Mass*; *Codex: Orks*
-
--# İlişkili kayıtlar: <#1551817657777389601>, <#1551759780211589197>, <#1551809334483361823>, <#1551809133156634696>
+-# Kaynaklar: *War Zone Octarius — Book 1: Rising Tide*; *War Zone Octarius — Book 2: Critical Mass*; *Codex: Or

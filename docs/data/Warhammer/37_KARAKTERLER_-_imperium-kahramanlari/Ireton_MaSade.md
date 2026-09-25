@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Equis_Astra_60th_Exp_
 
 ## Tarihçe
 
-Ireton MaSade, Büyük Sefer'de Imperial Army'nin lord marshal'ı ve Excertus Imperialis birliklerinin örnek savaşçısıydı. Basit bir asker olarak orduya katılıp hızla yükseldi ve 60. Sefer Filosu'nun Solar Auxilia kohortlarını yönetti — 'sıradan insanın Astartes seviyesine çıkışı' olarak İmparatorluk ordusunun en ünlü figürlerinden biridir.
+Ireton MaSade, İmparatorluk Muhafızı'nın en ünlü ve en cesur Lord Militant'ıdır; onların en büyük seferlerini yöneten ve İmparatorluğun en zorlu savaşlarını yapan MaSade, İmparatorluğun en cesur ve en kararlı generalidir — onlar, İmparatorluk Muhafızı'nın en ünlü ve en cesur generalidir. Ireton MaSade'nin en büyük özelliği, onun cesaretidir — onlar, İmparatorluk Muhafızı'nın en cesur generalidir ve onların varlığı, İmparatorluğun en büyük cesaretinin kanıtıdır; bir MaSade komutası, bir seferin en kritik anının en büyük avantajıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Ireton MaSade'nin en ünlü özelliği, onun 'Lord Militant' unvanıdır — onlar, İmparatorluk Muhafızı'nın en yüksek rütbeli generalidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Ireton MaSade, İmparatorluk Muhafızı'nın en ünlü ve en cesur Lord Militant'ıdır — onlar, bir generalin ve İmparatorluğun en büyük cesaretinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

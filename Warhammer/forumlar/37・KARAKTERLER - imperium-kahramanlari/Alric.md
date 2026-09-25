@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9e/Knight-Warden_Alric_b
 
 ## Tarihçe
 
-Alric, Deathwatch'ın Knight-Warden'ı ve Black Shield'ıdır; Inquisition'un Jericho Reach'teki Dead Cabal'ının üyesi olarak 'Karanlık Desen' fenomenini araştırır. Gizli tutanların ve karanlığa karşı nöbet tutanların kardeşliğinde 'Knight-Warden Alric', geçmişini silmiş sadık bir figürdür — imza silahı Power-Flail ile 'unvanını bırakmış şövalye' olarak savaşır.
+Alric, Deathwatch'ın en ünlü ve en gizli Knight-Warden'ıdır; bir Black Shield olarak İmparatorluğun en gizli savaşlarını yapan ve xeno'lara karşı savaşan Alric, İmparatorluğun en gizli ve en ölümcül savaşçısıdır — onlar, Deathwatch'ın en ünlü ve en gizli üyesidir. Alric'in en büyük özelliği, onun gizliliğidir — onlar, bir Black Shield olarak İmparatorluğun en gizli operasyonlarını yapan en ölümcül savaşçıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Alric, hem bir savaşçı hem de bir hayalettir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Alric'in en ünlü özelliği, onun Power-Flail'ıdır — onlar, İmparatorluğun en ölümcül silahını kullanan en gizli savaşçıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Alric, Deathwatch'ın en ünlü ve en gizli Knight-Warden'ıdır — onlar, bir savaşçının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

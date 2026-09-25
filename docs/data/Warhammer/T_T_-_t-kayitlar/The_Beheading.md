@@ -18,6 +18,6 @@ High Lords'un suikastla devrildiği gece; Grand Master Vangorich'in tek gecede �
 
 ## Tarihçe
 
-The Beheading, Officio Assassinorum'un Grand Master'ı Drakan Vangorich'in High Lords of Terra'nın yarısını tek gecede suikastla indirip İmparatorluk'u fiilen ele geçirmesidir. Yüz yıl süren rejimi sonunda çöktü ama ders kaldı: İmparatorluk'un en gizli muhafızları aynı zamanda en keskin bıçağıdır. High Lords bu olayı asla unutmadı.
+The Beheading, İmparatorluk tarihindeki en trajik ve en gizli suikastlardan biridir. Bu olay, İmparatorluk'un en yüksek rütbeli figürlerinin — High Lords of Terra — öldürülmesini içeriyordu; The Beheading sırasında İmparatorluk'un en yüksek yönetimi hedef alındı ve birçok önemli figür hayatını kaybetti. Olay, İmparatorluk'un en büyük yönetim krizi olarak tarihe geçti ve İmparatorluk'un en gizli ve en tehlikeli suikastlarının bir parçası oldu. The Beheading, İmparatorluk'un en büyük trajedisinin kendi içindeki suikastlar olduğunu gösteren en çarpıcı örnektir.
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum derlemesi; *The Beast Arises* serisi sonrası dönem

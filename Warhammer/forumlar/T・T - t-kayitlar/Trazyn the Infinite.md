@@ -19,6 +19,10 @@ Trazyn'in seferleri klasik fetihlere benzemez. Bir savaş alanına, bir harabeye
 
 Trazyn'in en uzun soluklu ilişkisi, Sautekh sarayının kâhin cryptek'i **Orikan the Diviner** ile olan rekabetidir. Robert Rath'ın *The Infinite and the Divine*'ı bu ilişkiyi binyıllara yayılan bir anlatıyla işler: iki Necron, kimi zaman zorunlu bir işbirliği içinde, çoğu zaman birbirinin planlarını sabote ederek galaksinin tarihinin içinden geçer. Trazyn'in geçmişe bakan takıntısı ile Orikan'ın geleceğe dönük hırsı arasındaki karşıtlık, romanın temel gerilimidir. Roman aynı zamanda Trazyn'i yalnızca gülünç bir koleksiyoncu değil, ırkının kaybettiği şeylerin yükünü taşıyan trajik bir figür olarak da gösterir.
 
+## Tarihçe
+
+Trazyn the Infinite, Necron'ların en ünlü ve en gizli koleksiyoncusudur; 'the Infinite' olarak bilinen ve Necron'ların en gizli koleksiyonunu yöneten Trazyn, Necron'ların en gizli ve en önemli varlığıdır — onlar, Necron'ların en ünlü ve en gizli koleksiyoncusudur. Trazyn'in en büyük özelliği, onun koleksiyonudur — onlar, 'the Infini
+
 Bu rekabetin sonucu kesin bir galip üretmez. Romanın ayrıntıları için doğrudan esere başvurulmalıdır; arşiv burada olay örgüsünü değil, iki karakterin Necron tarihindeki konumunu kaydeder.
 ---MSG---
 ## Cadia'nın Pylonları

@@ -16,8 +16,4 @@ Zihni hâlâ Necrontyr çağının savaşlarında yaşayan Nemesor Zahndrekh ile
 
 ## Tarihçe
 
-Nemesor Zahndrekh, Sautekh Hanedanı'nın efsanevi nemesor'u — Necron'un en büyük askeri dehasıdır; Büyük Uyku'dan hasarlı çıkmış, kendini hâlâ organik bir Necrontyr asilzadesi sanan lord. Sadık koruması Vargard Obyron, efendisinin sanrısını bilen ve 'onurlu esirleri' sessizce infaz eden figürdür — ikili Necron'un 'asaletin kalıntısı' trajedisi.
-
--# Kaynaklar: *Codex: Necrons — 5th Edition*; *Severed — Nate Crowley*
-
--# İlişkili kayıtlar: <#1551809907060113460>, <#1551759762193121282>, <#1551817348900589669>
+Nemesor Zahndrekh ve Vargard Obyron, Necron'ların en ünlü ve en trajik ikilisidir; Zahndrekh — hâlâ kendini Necrontyr sanan eski bir general — ve onun sadık koruması Obyron — gerçeği bilen ama söylemeyen sadık muhafız — birlikte Necron'ların en ünlü ve en trajik hikâyesidir — onlar, Necron'ların en ünlü ve en trajik liderleridir. Nemesor Zahndrekh'in en büyük özelliği, onun yanılgısıdır — onlar, kendini hâlâ organik bir Necrontyr sanan ve onur kodlarıyla savaşan bir generaldir ve onların varlığı, Necron'ların en büyük trajedisinin kanıtıdır; bir Zahndrekh komutası, bir hanedanın en onurlu zaferinin en büyük anıdır ve onların varlığı, Necron'ların en büyük çelişkisinin somut halidir. Vargard Obyron'un en ünlü özelliği, onun sadakatidir — onlar, Zahndrekh'in gerçeğini bilen ama onu koruyan en sadık muhafızdır ve onların varlığı, Necron'ları

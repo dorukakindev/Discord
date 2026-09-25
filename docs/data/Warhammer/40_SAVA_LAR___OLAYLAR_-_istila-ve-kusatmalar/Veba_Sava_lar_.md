@@ -12,6 +12,6 @@ Büyük Yarık açıldığında, Mortarion ve Death Guard lejyonu, gerçek uzaya
 
 ## Tarihçe
 
-Nurgle'ın Ultramar'a saldırısı; Mortarion ve Typhus'un Ultramar'ı vebalandırma kampanyası. Guilliman'ın dönüşü sonrası ilk büyük sadık-hain çarpışması.
+Veba Savaşları (Plague Wars), Death Guard'ın Nurgle'un talimatıyla Ultramar'a yönelik başlattığı en tiksindirici operasyonlardan biridir. Mortarion, Roboute Guilliman'ın Terra'dan dönmesiyle Imperialis'in zayıf bir anını yakalayarak Ultramar'ı vebasıyla kuşattı. Plague Wars sırasında Death Guard, Nurgle'un hastalıklarını yayarak Ultramar'ın en değerli dünyalarını zehirledi ve Ultramar'ın savunma güçlerini kırdı. Guilliman, Terra'dan getirdiği takviyelerle savaşa katıldı ve Mortarion'la karşı karşıya geldi; ancak Plague Wars, Ultramar'ın uzun süreli hasar görmesiyle sonuçlandı. Savaşlar, Death Guard'ın Chaos'un hizmetindeki en tehlikeli Legion'lardan biri olduğunu bir kez daha gösterdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

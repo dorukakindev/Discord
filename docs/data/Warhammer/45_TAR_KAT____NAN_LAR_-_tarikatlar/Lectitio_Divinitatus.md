@@ -14,6 +14,4 @@ Lectitio'nun yayılması, İmparatorluk'un en büyük ironisidir: İmparator'un 
 
 ## Tarihçe
 
-İmparator'a ilk kez tanrı olarak ibadet eden metin; Lorgar'ın yazdığı, heresy sonrası resmi inanç oldu. Kutsal kitabın kökeni — ihanetin en büyük paradoksu.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Lectitio Divinitatus, İmparatorluğun en önemli ve en kutsal metinlerinden biridir; İmparator'un bir tanrı olduğunu savunan ve Imperial Cult'un temelini oluşturan bir dini metindir — onlar, İmparatorluğun en önemli ve en kutsal metnidir. Lectitio Divinitatus'un en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un bir tanrı olduğunu savunur ve onların varlığı, Imperial Cult'un temelinin kanıtıdır; bir Lectitio Divinitatus okuması, bir inananın en kutsal ritüelidir ve onların varlığı, İmparatorluğun dinini

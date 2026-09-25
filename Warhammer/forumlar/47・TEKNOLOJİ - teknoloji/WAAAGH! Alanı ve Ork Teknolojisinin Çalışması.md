@@ -15,12 +15,8 @@ Hurda yığınından kurulmuş silahların ateş etmesi, kırmızıya boyanmış
 
 ## Tarihçe
 
-Imperial gözlemciler, Ork silahlarının mantıken çalışmaması gerekirken çalıştığını sıkça aktarır. Bu gözlemler zamanla "Ork'lar inandıkları için teknolojileri çalışır" fikrine dönüşmüştür.
+Ork teknolojisinin çalışması, onların kolektif psişik alanına — WAAAGH! enerjisine — bağlıdır; bir Mekboy'un tasarladığı silah fizik yasalarına göre çalışmaması gerekirken, yeterince Ork ona inandığı için çalışır. Bu fenomen Mechanicus'u çaresiz bırakır: sökülen Ork silahları İmparatorluk mühendisleri elinde sadece hurdadır ama aynı silah Ork elinde cephane üreten, patlamayan ve öldüren bir canavara dönüşür. WAAAGH! alanı büyüdükçe Ork teknolojisi de büyür — bir Waaagh! doruktayken Mekboy'lar normalde imkânsız Stompa, Gargant ve Rok gemileri üretir. Ork teknolojisi bilgi değil, içgüdüdür: Mekboy'ların genetik hafızası Old Ones tarafından kodlanmıştır ve bu yüzden bir Ork hiç okumadan alet yapabilir. WAAAGH! bitince teknoloji bozulur; alan Ork zihninin kolektif projeksiyonudur ve fizik kanunlarına sadece Ork inancı kadar boyun eğer.
 
 ## Kanon Notu
 
-Kasıtlı belirsizlik. Bazı metinler etkiyi açıkça gösterir, bazıları Ork mühendisliğinin sanıldığından daha işlevsel olduğunu vurgular. "Ork teknolojisi yalnızca inançla çalışır" görüşü kesin kanon değildir; bu tartışmanın uç biçimleri fan yorumudur (Kanon durumu: doğrulanmamış teori).
-
--# Kaynaklar: *Codex: Orks — 10th Edition*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551814495138091013>, <#1551818131679215728>
+Kasıtlı belirsizlik. Bazı metinler etkiyi açıkça gösterir, bazıları Ork mühendisliğinin sanıldığından daha işlevsel olduğunu vurgular. "Ork teknolojisi yalnızca inançla çalışır" görüşü kesin kanon değildir; bu tartışmanın uç biçimleri

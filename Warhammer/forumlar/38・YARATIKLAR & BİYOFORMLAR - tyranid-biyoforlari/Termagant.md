@@ -12,6 +12,6 @@ Termagant'ın en ayırt edici yanı, taşıdığı canlı silahtır; en yaygın 
 
 ## Tarihçe
 
-En yaygın Tyranid piyadesi; fleshborer taşıyan küçük ama sayısız avcı. Sürü mantığıyla çalışır — tek başına önemsiz, milyonlar halinde dünya yutan dalga.
+Termagant, Tyranid'in en küçük ve en yaygın yaratığıdır; bir Tyranid ordusunun en küçük piyade birliği olan ve onun en yaygın savaşlarını yapan Termagant, Tyranid'in en küçük ve en yaygın varlığıdır — onlar, Tyranid'in en küçük ve en yaygın yaratığıdır. Termagant'ın en büyük özelliği, onun yaygınlığıdır — onlar, bir Tyranid ordusunun en küçük ve en yaygın piyade birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Termagant, hem bir yaratık hem de bir askerdir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Termagant'ın en ünlü özelliği, onun küçüklüğüdür — onlar, Tyranid'in en küçük ve en yaygın yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Termagant, Tyranid'in en küçük ve en yaygın yaratığıdır — onlar, bir askerin ve Tyranid'in en büyük gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

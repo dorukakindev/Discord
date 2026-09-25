@@ -16,8 +16,4 @@ Astra Militarum'a bağlanan en güçlü ve en disiplinli sanctioned psykerlerdir
 
 ## Tarihçe
 
-Primaris Psyker'lar Guard içinde güç ile kuşku arasında yaşar. Kendilerine ihtiyaç duyulur, ama bir psykerin düşüşünün bütün bir alayı mahvedebileceği bilindiğinden yakından izlenirler. Kaynaklar, Commissar'ların ve komutanların kontrolden çıkan bir psykeri gerektiğinde infaz etmeye hazır bulunduğunu vurgular.
-
--# Kaynaklar: *Codex: Astra Militarum — 10th Edition*
-
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551810610264678443>, <#1551818131679215728>, <#1551812353157365862>
+Primaris Psyker, Space Marines'in en ünlü ve en güçlü psyker'ıdır; onların Astartes'in en yeni ve en güçlü psyker sınıfı olan ve onun en zorlu savaşlarını yapan Primaris Psyker, Space Marines'in en yeni ve en güçlü üyesidir — onlar, Space Marines'in en ünlü ve en güçlü psyker sınıfıdır. Primaris Psyker'ın en büyük özelliği, onların psişik gücüdür — onlar, Astartes'in en yeni ve en güçlü psyker sınıfıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır; bir Primaris Psyker, hem bir savaşçı hem de bir psyker'dır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Primaris Psyker'ın en ünlü özelliği, onların Primaris olmasıdır — onlar, Space Marines'in en yeni ve en güçlü psyker sınıfıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır. Primaris Psyker, Space Marines'in en ün

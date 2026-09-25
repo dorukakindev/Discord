@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/49/EC_Livery.png/revisio
 
 ## Tarihçe
 
-Solomon Demeter, Büyük Sefer ve Heresy'de Emperor's Children'ın 2. Bölük kaptanıydı; lejyonunun yozlaşmasına karşı çıkan ve Isstvan III'te İmparator'a sadık kalan nadir EC figürlerinden biridir. Fulgrim'le son yüzleşmesinde düşüp ölen bu figür, 'kusursuzluğun reddedilen vicdanı' olarak lejyonun trajik kayıtlarındandır.
+Solomon Demeter, Word Bearers'ın en ünlü ve en trajik üyesidir; bir First Captain olan ve Horus Heresy'de kendi Legion'unun ihanetine tanık olan Demeter, İmparatorluğun en trajik ve en karmaşık figürlerinden biridir — onlar, Word Bearers'ın en trajik ve en karmaşık üyesidir. Solomon Demeter'in en büyük özelliği, onun trajedisidir — onlar, bir Legion'un ihanetini gören ve onun içinde kalan bir savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Solomon Demeter, hem bir savaşçı hem de bir tanıktır ve onların varlığı, Word Bearers'ın düşüşünün somut halidir. Solomon Demeter'in en ünlü özelliği, onun Word Bearers'ın First Captain'ıdır — onlar, bir Legion'un en yüksek rütbeli üyesidir ve onların varlığı, İmparatorluğun en büyük ihanetinin kanıtıdır. Solomon Demeter, Word Bearers'ın en ünlü ve en trajik üyesidir — onlar, bir Legion'un düşüşünün ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

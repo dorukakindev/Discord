@@ -13,12 +13,8 @@ Ezekarion, Abaddon'ın savaş meclisi ve en güvendiği adamların halkasıdır.
 
 ## Tarihçe
 
-Aaron Dembski-Bowden'ın Black Legion romanları, çemberin Eye of Terror'daki savaşlar sırasında nasıl biçimlendiğini ve Abaddon'ın Warmaster olarak yükselişine nasıl eşlik ettiğini anlatır.
+Ezekarion, Black Legion'un en üst konseyidir; Abaddon the Despoiler'in doğrudan komuta ettiği ve Legion'un en güçlü lordlarından oluşan savaş konseyidir — Chaos'un en organize ve en tehlikeli askeri yapısıdır. Ezekarion'un üyeleri, Black Legion'un en deneyimli lordlarıdır — her biri kendi warband'inin lideri ve Abaddon'un stratejik danışmanıdır; konsey, Black Crusade'lerin planlandığı ve Legion'un geleceğinin belirlendiği yerdir. Ezekarion'un varlığı, Black Legion'u diğer Chaos warband'lerinden ayırır — Chaos genelde dağınık ve iç savaşlıdır ama Ezekarion, Abaddon'un otoritesini zorlar ve Legion'u tek bir irade altında tutar; bu yüzden Black Legion, Chaos'un en disiplinli gücüdür. Ezekarion'un kararları, galaksinin kaderini belirler — 13. Kara Haçlı Seferi, Cadia'nın düşüşü ve Great Rift'in açılması hep Ezekarion'un planıydı.
 
 ## Kanon Notu
 
-Anlatının büyük bölümü Khayon'un birinci ağızdan anılarına dayanır; evren içinde güvenilirliği tartışmaya açık bir anlatıcının kaydıdır. Çemberin bütün üyeleri ve 40K'daki kaderleri bu arşivde kesinleştirilmez. Ayrıntı için <#1551811342405599345>.
-
--# Kaynaklar: *The Talon of Horus — Aaron Dembski-Bowden*; *Black Legion — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551811342405599345>, <#1551638958352506881>, <#1551816158951510069>, <#1551809114328399874>
+Anlatının

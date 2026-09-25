@@ -12,6 +12,6 @@ Macharius'un şöhreti, 392.M41'de başlattığı ve adını taşıyan büyük s
 
 ## Tarihçe
 
-Saint Macharius, 41. Binyıl başında yedi yıl gibi kısa sürede neredeyse bin dünyayı Imperium'a katan efsanevi Lord Commander'dır; tarihin en büyük fetih zincirini yönetti. Ölümü seferin sonunda geldi — orduları sınırı aşmayı reddetti — ama adı İmparatorluk'un fetih-azizi olarak yaşar; Macharian Haçlı Seferi İmparatorluk tarihinin doruk noktalarından biridir.
+Saint Macharius (Lord Solar Macharius), İmparatorluğun en büyük ve en efsanevi azizidir; İmparatorluğun en büyük seferini — Macharian Crusade'i — yöneten ve İmparatorluğun sınırlarını en uzağa taşıyan Macharius, İmparatorluğun en efsanevi ve en kutsal figürüdür — onlar, İmparatorluğun en büyük ve en efsanevi azizidir. Saint Macharius'un en büyük özelliği, onun seferidir — onlar, İmparatorluğun en büyük seferini yöneten ve onu en uzağa taşıyan en efsanevi figürdür ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Macharius komutası, bir seferin en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Saint Macharius'un en ünlü özelliği, onun Macharian Crusade'idir — onlar, İmparatorluğun en büyük ve en efsanevi seferinin lideridir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Saint Macharius, İmparatorluğun en büyük ve en efsanevi azizidir — onlar, bir seferin ve İmparatorluğun en büyük onurunun somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom

@@ -12,6 +12,6 @@ Heresy yenilmiş, hain lejyonlar Halkaların Gözü'ne sürülmüştü; ama orad
 
 ## Tarihçe
 
-Night Lords ve World Eaters'ın Skalathrax'ta kendi aralarında parçalanması; Kharn'ın 'tüm hepsini öldürmesi' efsanesi. Hain lejyonların dağıldığı an.
+Skalathrax Savaşı, Horus Heresy'nin en trajik savaşlarından biri olarak tarihe geçti. Bu savaş, Night Lords'un İmparatorluk'a saldırmasıyla başladı; Skalathrax Savaşı sırasında Night Lords, Skalathrax'ı ele geçirdi ve birçok insanın hayatına mal oldu. Savaş, Night Lords'un zaferiyle sonuçlandı; ancak zafer, İmparatorluk'un en trajik kayıplarından biri olarak kayda geçti. Skalathrax Savaşı, Night Lords'un İmparatorluğa yönelik en gizli ve en tehlikeli saldırılarından biri olarak anılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

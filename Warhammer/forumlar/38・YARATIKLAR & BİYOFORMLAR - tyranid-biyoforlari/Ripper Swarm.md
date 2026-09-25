@@ -14,6 +14,4 @@ Ripper'ların tehlikesi sayılarıdır: tekil olarak zayıf ama sayıca sonsuz b
 
 ## Tarihçe
 
-Tyranid istilasının en küçük ve en çok biçimi; milyonlarca küçük solucan-sürü, savaş sonrası gezegeni kemirir. Her şeyi yerler — organik madde onların sofrasıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Ripper Swarm, Tyranid'in en küçük ve en sinsi yaratık sürüsüdür; bir gezegenin kaynaklarını yiyen ve onları Tyranid ordusuna dönüştüren en sinsi organizmalar olan Ripper Swarm, Tyranid'in en küçük ve en sinsi varlıklarıdır — onlar, Tyranid'in en küçük ve en sinsi yaratık sürüsüdür. Ripper Swarm'ın en büyük özelliği, onların açlığıdır — onlar, bir gezegenin kaynaklarını yiyen ve onları Tyranid ordusuna dönüştüren en sinsi organizmalardır ve onların varlığı,

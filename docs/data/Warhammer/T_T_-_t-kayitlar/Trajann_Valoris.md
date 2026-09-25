@@ -22,7 +22,7 @@ Trajann'ın iç dünyası en ayrıntılı biçimde Chris Wraight'ın *Watchers o
 
 ## Tarihçe
 
-Trajann Valoris, Adeptus Custodes'in mevcut Chief Custodian'ı ve 17. Captain-General'ıdır — İmparator'un elit muhafızının başı ve belki de İmparatorluk'taki en ölümcül birey. Khorne'un güçlerine karşı İmparatorluk Sarayı'nın İkinci Terra Savaşı'ndaki savunmasında Custodes'i yöneten bu figür, 'on bin yıllık nöbetin' en üst komutanıdır.
+Trajann Valoris, Adeptus Custodes'in Captain-General'i ve İmparatorluğun en güçlü ve en gizli savaşçısıdır; İmparator'un en sadık ve en ölümlü koruyucularının lideri olan Valoris, İmparatorluğun en büyük gücü ve en gizli varlığıdır — onlar, Adeptus Custodes'in en ünlü ve en güçlü lideridir. Trajann Valoris'in en büyük özelliği, onun gücüdür — onlar, İmparator'un en sadık koruyucularının lid
 
 Romanların Trajann'ı soğuk bir mutlakiyetçi değildir; kararsızlığını gizleyen, ama kararını verdikten sonra geri adım atmayan bir önderdir. Bu tasvirin codex'lerdeki daha kısa ve kurumsal çerçeveyle aynı derinliğe sahip olmadığını belirtmek gerekir.
 ---MSG---

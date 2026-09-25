@@ -15,12 +15,6 @@ Genetik saflığı bir inanç meselesine dönüştüren, abhuman'lara ve öteki 
 
 ## Tarihçe
 
-Red Scorpions, Siege of Vraks ve Badab War gibi M41'in önemli iç savaşlarında yer aldı. Badab War'da loyalist kuvvetler arasında savaşan Chapter, bu çatışmada Lord High Commander Verant Ortys'i kaybetti; ardından Carab Culln komutayı üstlendi.
+Red Scorpions, gene-lineage'i bilinmeyen ve İmparatorluğun en fanatik saflık taraftarlarından olan bir Space Marine Chapter'ıdır; onların savaş doktrini, saflık ve mutasyon karşıtlığı üzerine kuruludur ve onlar, kendi gene-seed'lerinin saflığını diğer Chapter'larınkinden daha katı korurlar. Red Scorpions'ın en büyük özelliği, onların mutasyon karşıtlığıdır — onlar mutantları, psyker'ları ve herhangi bir genetik anomaliyi acımasızca yok eder; ve onların kendi Chapter'ında bile mutasyon görülürse, o savaşçı anında imha edilir. Red Scorpions'ın en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en ön safta savaştılar ve onların fanatikliği, o savaşın en kanlı sayfalarını yazdı. Red Scorpions, İmparatorluğun en katı ve en korkulan Chapter'ıdır — onlar için saflık, sadece genetik değil, ruhsal bir zorunluluktur.
 
-## Teknik / Biyolojik Özellikler
-
-Master of the Apothecarion'un geleneksel olarak Chapter'ın ikinci komutanı olması; Apothecary'lerin gene-seed'i her koşulda geri almak için squad'lara bağlanması.
-
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War — Part One*; *Imperial Armour Volume Ten: The Badab War — Part Two*
-
--# İlişkili kayıtlar: <#1551811438547312645>, <#1551808888666587197>, <#1551753431230971988>
+## Te

@@ -13,12 +13,6 @@ Harlequin'ler Masque adı verilen topluluklar hâlinde örgütlenir. Her Masque 
 
 ## Tarihçe
 
-Masque'lar Webway'in geçitlerinden geçerek Craftworld'ler, Exodite dünyaları ve Commorragh arasında dolaşır; Aeldari'nin bölünmüş kolları arasında hareket edebilen ender topluluklardır. Her Masque bir Great Harlequin tarafından yönetilir ve kendine özgü üslubu, renkleri ve repertuvarı olan Troupe'lardan oluşur.
-
-## Kanon Notu
-
-Harlequin'lerin Black Library'yi koruma görevi ve Cegorach'la ilişkileri kendi anlatılarına dayanır; bu anlatıların ne kadarının gösteri, ne kadarının tarih olduğu bilinçli olarak belirsiz bırakılır. Ayrıntı için <#1551655326716133498>.
-
--# Kaynaklar: *Codex: Harlequins*; *Codex: Aeldari — 10th Edition*; *The Masque of Vyle — Andy Chambers*
+Harlequin Masque'ları, Aeldari'nin en gizemli ve en tehlikeli savaş topluluklarıdır; Cegorach — Gülen Tanrı — 'ın takipçileri olan Harlequin'ler, hem sanatçı hem savaşçıdır ve onların performansları, aslında koreografik ölüm danslarıdır. Masque, bir Harlequin topluluğunun temel birimidir — her Masque kendi rengi, kendi dans stili ve kendi mitolojisi vardır; Masque'lar Craftworld'lere, Commorragh'a ve hatta İmparatorluk'a bağlı değildir — onlar sadece Cegorach'a hizmet eder ve onun tek amacı, Slaanesh'i yenmektir. Harlequin'lerin savaşı bir performanstır — holo-field ile görünmezleşir, dans ederken öldürür ve sahnede düşmana hem gösteri hem dehşet sunar; bir Harlequin'in kılıcı, en güzel dansın parçasıdır ve ölümü, en büyük alkışdır. Harlequin Masque'ları, Aeldari'nin en özgür varlıklarıdır — onlar hiçbir kanuna bağlı değildir ve hiçbir Craftworld onları kontrol edemez; onlar sadece Gülen Tanrı'nın iradesiyle hareket eder ve onların d
 
 -# İlişkili kayıtlar: <#1551655326716133498>, <#1551810744754905123>, <#1551809699312181339>, <#1551810506078290021>

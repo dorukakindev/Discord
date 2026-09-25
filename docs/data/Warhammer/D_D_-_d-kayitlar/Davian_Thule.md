@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2a/Davian_Thule2.jpg/rev
 
 ## Tarihçe
 
-Davian Thule, Blood Ravens chapter'ının kaptanı ve Kronus'taki Dark Crusade'de — 41. Binyılda o Necron Tomb World'de patlayan çatışmada — üç bölükten (elit 1. Bölük unsurları dâhil) oluşan gücün Force Commander'ıydı. Litany of Fury adlı savaş gemisini kullandı; bu gemi daha önce Gabriel Angelos'un Tartarus operasyonlarındaydı ve Angelos'un Dark Crusade sırasındaki konumu belirsizdir. Kronus hizmetinin ardından chapter'ın en ünlü saha komutanlarından biri oldu.
+Davian Thule, Blood Ravens'ın en ünlü ve en cesur Captain'ıdır; Kronus'taki Dark Crusade'de savaşan ve Blood Ravens'ın en cesur komutanı olan Thule, İmparatorluğun en cesur ve en ölümcül savaşçısıdır — onlar, Blood Ravens'ın en ünlü ve en cesur üyesidir. Davian Thule'un en büyük özelliği, onun cesaretidir — onlar, Blood Ravens'ın en cesur kaptanıdır ve onların varlığı, Blood Ravens'ın en büyük gücünün kanıtıdır; bir Thule komutası, bir savaşın en kritik anının en büyük avantajıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Davian Thule'un en ünlü görevi, Kronus'taki Dark Crusade'dir — onlar, İmparatorluğun en zorlu savaşlarından birini yapan ve onu kazanan en cesur komutandır ve onların varlığı, Blood Ravens'ın en büyük zaferinin kanıtıdır. Davian Thule, Blood Ravens'ın en ünlü ve en cesur Captain'ıdır — onlar, bir cesaretin ve Blood Ravens'ın en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057402402771106>

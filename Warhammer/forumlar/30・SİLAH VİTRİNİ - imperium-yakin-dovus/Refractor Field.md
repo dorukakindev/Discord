@@ -15,12 +15,4 @@ Kullanıcısının çevresinde görünmez bir enerji alanı oluşturan, gelen da
 
 ## Tarihçe
 
-Astra Militarum subayları, Commissar'lar ve Inquisition ajanları gibi önemli kişilerce taşınır. Nadir ve değerli bir teçhizat olduğundan çoğu kez rütbe ya da ayrıcalık göstergesidir.
-
-## Kanon Notu
-
-Rosarius, conversion field ve displacer field gibi başka kişisel alan üreteçleri benzer amaca hizmet eder ama farklı cihazlardır; kaynaklar hepsinin çalışma ilkesini ayrıntılandırmaz.
-
--# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *Eisenhorn: Xenos — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551812353157365862>, <#1551815304252887041>, <#1551652850319368254>
+Refractor Field, İmparatorluğun kişisel enerji kalkanıdır; kullanıcının etrafında görünmez bir enerji alanı oluşturan ve gelen ateşi veya yakın dövüş darbesini saptıran, nadir ve pahalı bir savunma düzeneğidir. Refractor Field'ın çalışması basit ama etkilidir — enerji alanı, gelen darbenin momentumunu ve enerjisini dağıtır; bir refractor field, bir bolter atışını veya bir power sword kesimini durdurabilir ama sürekli darbelere karşı zayıftır. Refractor Field, genellikle komutanlar ve değerli savaşçılar tarafından taşınır — bir Chapter Master veya bir Inquisitor'un refractor field'i, onun hayatının son savunmasıdır; ve refractor field'ın üretimi, Dark Age of Technology'den kalma nadir bir teknolojidir. Refractor Field, İmparatorluğun en zarif savunmasıdır — onun varlığı, kullanıcısının değerin

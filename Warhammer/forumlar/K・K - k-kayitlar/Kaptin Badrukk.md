@@ -12,7 +12,7 @@ Freebooterz geleneksel bir klan değil, bir yaşam biçimidir: kabilelerinden ko
 
 ## Tarihçe
 
-Kaptin Badrukk, Ork'un en ünlü Flash Gitz'i ve korsan efendisidir — 'en gösterişli Ork' olarak bilinen bu figür, devasa 'Da Rippa' silahı ve aşırı zenginliğiyle (Ork'ta para = diş) en lüks savaş lordudur. Yağma ve gösteriş için savaşan bu figür, 'altın dişli korsan' olarak Freebooter kültürünün zirvesidir.
+Kaptin Badrukk, Ork'ların en ünlü ve en tehlikeli korsan kaptanıdır; Freebooterz'ın — Ork korsanlarının — en ünlü lideri olan ve onların en büyük yağma ve savaş filosunu yöneten Badrukk, Ork'ların en tehlikeli ve en gizli düşmanıdır — onlar, Ork'ların en ünlü ve en tehlikeli korsanıdır. Kaptin Badrukk'un en büyük özelliği, onun yağmacılığıdır — onlar, bir Ork korsan filosunun en büyük kaptanıdır ve onların varlığı, Ork'ların en gizli gücünün kanıtıdır; bir Badrukk, hem b
 
 ## Paralı Savaşçı, Tayfa ve Silahlar
 Badrukk'un gücü, bir Warboss'un kalabalık ordusundan değil, gemisinden ve **Flash Gitz** tayfasından gelir. Flash Gitz, servetlerini en pahalı, en gürültülü ve çoğu zaman en güvenilmez kustom silahlara, yani *snazzgun*'lara harcayan, görkem ve ganimet peşindeki Ork'lardır; Badrukk'un tayfası bu kültürün en tanınmış örneğidir. Onun seferleri de bu tayfanın doğasını yansıtır: kısa, gösterişli, kârlı ve sadakatten yoksun. Bir Waaagh!'a katılan Badrukk, ücreti ödendiği sürece savaşır; daha iyi bir teklif geldiğinde saf değiştirmesi, Ork'lar arasında şaşırtıcı değil, beklenen bir şeydir.

@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Black_Templars_Badge.
 
 ## Tarihçe
 
-Dramos, Black Templars'ın Castellan'ı olarak Rutherian Seferi'nin Gladius Taarruz Kuvveti'ni komuta etti; chapter'ın sonsuz haçlı seferlerinin ön-saf komutanlarından.
+Dramos, Black Templars'ın en ünlü ve en cesur Castellan'ıdır; Rutherian Crusade'in Gladius Strike Force'unu yöneten ve İmparatorluğun en cesur savaşlarını yapan Dramos, İmparatorluğun en cesur ve en ölümcül savaşçısıdır — onlar, Black Templars'ın en ünlü ve en cesur üyesidir. Dramos'un en büyük özelliği, onun cesaretidir — onlar, bir Haçlı Seferi'nin en önde gelen savaşçısıdır ve onların varlığı, Black Templars'ın en büyük cesaretinin kanıtıdır; bir Dramos komutası, bir Haçlı Seferi'nin en kritik anının en büyük avantajıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Dramos'un en ünlü görevi, Rutherian Crusade'dir — onlar, İmparatorluğun en zorlu savaşlarından birini yöneten ve onu kazanan en cesur savaşçıdır ve onların varlığı, Black Templars'ın en büyük zaferinin kanıtıdır. Dramos, Black Templars'ın en ünlü ve en cesur Castellan'ıdır — onlar, bir cesaretin ve Black Templars'ın en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057399470825622>

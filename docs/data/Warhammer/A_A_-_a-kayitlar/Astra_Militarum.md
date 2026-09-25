@@ -37,6 +37,10 @@ Bu çeşitlilik, Imperium'un tekdüzeliği kadar dağınıklığını da yansıt
 
 Guardsman'ın inancı resmî Imperial Cult'tur; ama cephedeki pratik çoğu zaman yerel azizlere, alay sancaklarına ve batıl ritüellere karışır. Warp'ın, daemon'ların ve xenos'un gerçek doğası sıradan askerden gizlenir. Bu cehalet bilinçli bir politikadır: bilgi bir askeri korkutabilir ya da yoldan çıkarabilir. Bu yüzden görülmemesi gereken şeyleri gören birlikler, zaman zaman Inquisition tarafından "arındırılır".
 
+## Tarihçe
+
+Astra Militarum (Imperial Guard), İmparatorluğun en büyük ve en kalabalık askeri gücüdür; milyarlarca askerden oluşan ve İmparatorluğun her köşesinde savaşan insan ordusudur — onlar, İmparatorluğun omurgası ve en büyük fedakarlığıdır. Astra Militarum'un en büyük özelliği, onların sayısıdır — onlar, trilyonlarca askerden oluş
+
 ## Doktrin ve Savaş Tarzı
 Guard doktrini tek bir kelimeyle özetlenecekse, o kelime **yıpratmadır**. Topçu bataryaları düşman mevzilerini günlerce döverken zırhlı tümenler ilerler, piyade dalgaları da çoğu zaman ağır kayıplar pahasına mevziyi tutar ya da alır. *Tactica Imperium* adıyla anılan kadim öğreti bütününün yorumları alaydan alaya değişse de temel yaklaşım, sayı ve ateş gücünün düşmanı er geç tüketeceğine duyulan güvendir.
 

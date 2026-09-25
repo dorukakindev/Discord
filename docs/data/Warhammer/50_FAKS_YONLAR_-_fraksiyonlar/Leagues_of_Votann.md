@@ -16,8 +16,4 @@ Kendilerine Kin diyen, insan kökenli, kısa boylu ve olağanüstü dayanıklı,
 
 ## Tarihçe
 
-Galaksinin merkezindeki Kindred'ler, binyıllar boyunca Imperium'un büyük ölçüde farkında olmadığı bir hayat sürdü. Era Indomitus'ta Kin'in dış dünyaya yönelik faaliyetleri, özellikle Ork'lar ve Tyranid'lerle çatışmalar ile Imperium'la temaslar arttı.
-
--# Kaynaklar: *Codex: Leagues of Votann*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551809846066548779>, <#1551757340905181286>
+Leagues of Votann, WH40K evreninin en eski ve en gizli insan türevi ırkıdır; Squat'ların devamı olarak bilinen ve Galactic Core'da — yıldızların en yoğun ve en tehlikeli bölgesinde — yaşayan, İmparatorluğun en bağımsız ve en gelişmiş insan türevi gücüdür. Leagues of Votann'ın en büyük özelliği, onların bağımsızlığıdır — onlar, İmparatorluğa bağlı değildir ve kendi teknolojileriyle, kendi ordularıyla ve kendi yasalarıyla yaşarlar; onların toplumu, hem insan hem de makine arasındaki en gelişmiş birleşimdir. Leagues of Votann'ın en ünlü özelliği, onların Ancestor Cores'udur — onlar, atalarının bilgisini ve ruhunu saklayan devasa bilgisayarlardır ve onların varlığı, Leagues'ın en kutsal ve en değerli varlığıdır; bir Ancestor Core, bir Leagues üyesinin atasıdır ve onların rehberliği, Leagues'ın en büyük gücüdür. Leagues of Votann, İmparatorluğun en bağımsız ve en gelişmiş insan türevi gücü

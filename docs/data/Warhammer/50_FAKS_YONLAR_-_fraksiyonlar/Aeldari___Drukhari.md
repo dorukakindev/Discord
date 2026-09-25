@@ -16,8 +16,4 @@ Eski adıyla Dark Eldar. Slaanesh'in ruhlarını yavaş yavaş emmesini, başkal
 
 ## Tarihçe
 
-Webway'in içinde saklanan Commorragh, Fall'un yıkımından büyük ölçüde korundu. O günden beri Drukhari realspace'e baskınlar düzenleyerek köle ve acı topladı. Asdrubael Vect'in binyıllar süren yönetimi, Great Rift'in ardından Dysjunction adıyla anılan felaketle sarsıldı.
-
--# Kaynaklar: *Codex: Drukhari*; *Path of the Renegade — Andy Chambers*
-
--# İlişkili kayıtlar: <#1551997841356881980>, <#1551993959876657192>, <#1551997822725922938>, <#1551754688008032321>
+Drukhari, Aeldari ırkının en karanlık ve en yozlaşmış kesimidir; Commorragh — Dark City — 'de yaşayan ve acı çektirme, işkence ve kölelikle yaşayan bir türdür — onlar, Aeldari'nin en karanlık ve en tehlikeli halidir. Drukhari'nin en büyük özelliği, onların acıya olan ihtiyacıdır — onlar, Slaanesh'in onlara verdiği lanetten kurtulmak için başkalarına acı çektirir; bir Drukhari, hem savaşçı hem de işkencecidir ve onların savaşı, hem öldürmek hem de acı çektirmektir. Drukhari'nin en ünlü özelliği, onların Commorragh'ıdır — onlar, Webway'in en karanlık köşesinde yaşar ve onların şehri, hem bir hapishane hem de bir zevk sarayıdır; bir Drukhari kabal, hem bir suç örgütü hem de bir savaş birliğidir. Drukhari, Aeldari ırkının en karan

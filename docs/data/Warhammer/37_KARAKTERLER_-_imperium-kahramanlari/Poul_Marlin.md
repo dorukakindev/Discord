@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/02/PoulMarlin.png/revisi
 
 ## Tarihçe
 
-Poul Marlin, 10. Slavok Imperial Guard Alayı'nın çavuşuydu; Ice World Shadrac'taki çatışmalarda ve gezegenden kaçışta adamlarıyla birlikte yer aldı. O dünyadaki Tyranid'lere karşı çarpışmalarda Space Wolves'un Skold Greypelt'i tarafından kurtarılıp onunla dost oldu — 'sıradan askerle Astartes arasında' nadir görülen bağın hikâyesi olarak anılır. Bolt pistol'üyle savaşan bu çavuş, Imperial Guard'ın 'hayatta kalma' efsanelerinden biridir.
+Poul Marlin, İmparatorluk Muhafızı'nın en ünlü ve en cesur Sergeant'ıdır; bir Carnifex'e karşı Space Wolves'un yanında savaşan ve İmparatorluğun en cesur askeri olan Marlin, İmparatorluğun en cesur ve en onurlu askeridir — onlar, İmparatorluk Muhafızı'nın en ünlü ve en cesur üyesidir. Poul Marlin'in en büyük özelliği, onun cesaretidir — onlar, bir Carnifex'e karşı savaşan ve Space Wolves'un yanında duran en cesur askerdir ve onların varlığı, İmparatorluğun en büyük cesaretinin kanıtıdır; bir Marlin, hem bir asker hem de bir kahramandır ve onların savaşı, hem fiziksel hem de cesur bir mücadeledir. Poul Marlin'in en ünlü özelliği, onun Carnifex'e karşı savaşmasıdır — onlar, bir devasa Tyranid'e karşı savaşan ve Space Wolves'un yanında duran en cesur askerdir ve onların varlığı, İmparatorluğun en büyük cesaretinin kanıtıdır. Poul Marlin, İmparatorluk Muhafızı'nın en ünlü ve en cesur Sergeant'ıdır — onlar, bir cesaretin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

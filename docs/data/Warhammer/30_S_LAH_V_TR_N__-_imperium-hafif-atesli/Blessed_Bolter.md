@@ -9,10 +9,10 @@ Adepta Sororitas'ın kendi kalıbından dökülen, her parçası dualarla mühü
 
 
 ## Teknik ve Kullanım
-Bolt silah ailesi .75 kalibre kendi-itmeli mermi kullanır; her mermi kütledelici çekirdek + patlayıcı başlık taşır ve hedefin içinde infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; bir bolt mermisi ortalama bir insanı ortadan ikiye ayırır.
+Bolt silah ailesi .75 kalibre kendinden itişli mermi kullanır; her bolt elmas-uçlu kütledelici çekirdek ve patlayıcı başlık taşır, hedefin içine saplanıp orada infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; tek bir bolt mermisi ortalama bir insanı ikiye ayırır.
 
-## Tarihçe
+Godwyn-De'az kalıbı, Battle Sister'ların ilk kuruluşundan bu yana standart silahıdır ve diğer neredeyse tüm boltgun tiplerine üstünlüğü sayesinde hiç değiştirilmemiştir. Hem Astartes hem Sororitas için boltgun yalnızca bir silah değil, İmparator'un gazabının kutsal simgesidir; bu yüzden her tüfek Ministorum dualarıyla mühürlenir, kutsal yağlarla yağlanır ve bakımı bir ayin gibi yürütülür. Sister'lar tüfeklerine ayrıca 'Sarissa' denen bıçak eklentisini takar.
 
-Kutsanmış bolter; Tech-priest ritüeliyle takdis edilmiş ve düşmanına daha sadık hale getirilmiş boltgun. Space Marine'in sembolü olan silahın dini versiyonu — hem silah hem ikon, Mechanicum onayı taşıyan ölüm aleti.
+Kutsanmış bolt mühimmatı ise inançla arındırılmış çekirdekler taşır; Sororitas bu boltları warp-varlıklarına, cadılara ve kafirlere karşı kullanır. Sıradan silahların dokunamadığı iblisi ve psyker'ı yaralayan, bu şekilde mühürlenmiş mermilerdir; onlar için her şarjör, vaftiz edilmiş bir hüküm gibidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Lexicanum (Boltgun / Godwyn-De'az Pattern, Bolt Ammunition) / Fandom

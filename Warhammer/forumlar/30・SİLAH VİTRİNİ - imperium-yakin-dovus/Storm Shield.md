@@ -15,12 +15,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Warrior_Inquisitor.jp
 
 ## Tarihçe
 
-M41'de en çok thunder hammer ile birlikte kullanan Assault Terminator'larla özdeşleşmiştir; Captain'lar ve veteran savaşçılar da kalkanı tercih eder. Era Indomitus'ta Primaris Bladeguard Veteran'lar power sword ve storm shield ikilisini birliğin simgesi hâline getirmiştir.
+Storm Shield, İmparatorluğun en güçlü kişisel kalkanıdır; kullanıcının etrafında güçlü bir enerji alanı oluşturan ve hem ateşi hem de yakın dövüş darbesini durduran, genellikle Terminator'lar ve seçkin savaşçılar tarafından taşınan nadir savunma düzeneğidir. Storm Shield'ın çalışması basit ama etkilidir — enerji alanı, gelen darbenin momentumunu ve enerjisini tamamen absorbe eder; bir storm shield, bir lascannon atışını veya bir power fist darbesini durdurabilir ve onu taşıyan, savaşın en ön saflarında bile hayatta kalır. Storm Shield'ın üretimi, Dark Age of Technology'den kalma nadir bir teknolojidir — bir storm shield, bir Chapter'ın en değerli emanettir ve onu taşıyan, Chapter'ın en güvenilir savaşçısıdır. Storm Shield, İmparatorluğun en güçlü savunmasıdır — onun varlığı, kullanıcısının kırılmayacağının kanıtıdır.
 
 ## Teknik / Biyolojik Özellikler
 
-Güç üreteci kalkanın içindedir; enerji alanı etkin olduğunda sıradan bir kalkanın dayanamayacağı darbelere karşı koruma sağlar. Ağırlığı nedeniyle çoğu kez zırhlı savaşçılarca taşınır.
-
--# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
-
--# İlişkili kayıtlar: <#1551808888666587197>, <#1551818213782716427>, <#1551809133156634696>
+Güç üreteci kalkanın içindedir; enerji alanı etkin olduğunda sıradan bir kalkanın dayanamayacağı darbelere karşı

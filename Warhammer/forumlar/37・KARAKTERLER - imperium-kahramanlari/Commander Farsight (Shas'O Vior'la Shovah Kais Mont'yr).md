@@ -16,8 +16,4 @@ Farsight, Ethereal otoritesini reddedip Damocles Gulf'un ötesinde kendi dünyal
 
 ## Tarihçe
 
-Commander Farsight — Shas'O Vior'la Shovah Kais Mont'yr, kısaca O'Shovah — 'Vior'la'nın Kahramanı', 'Puretide'ın Protejisi', 'Greenskin'lerin Belası'; Farsight Enclaves'in efendisi ve T'au İmparatorluğu'nun en ünlü 'asili'dir. Ethereal'siz özerkliğini ilan eden bu figür, Dawn Blade'iyle 'kendi Greater Good'unun' yolunu yürüyen en tartışmalı T'au komutanıdır.
-
--# Kaynaklar: *Farsight: Crisis of Faith — Phil Kelly*; *Arks of Omen: Farsight*; *Codex: T'au Empire — 10th Edition*
-
--# İlişkili kayıtlar: <#1551814127541026827>, <#1551809146850910260>, <#1551810874635976776>, <#1551815867845578773>
+Commander Farsight (Shas'O Vior'la Shovah Kais Mont'yr), T'au Empire'ın en ünlü ve en bağımsız komutanıdır; Ethereal'lerin kontrolünden kurtulan ve kendi kolonisini kuran Farsight, T'au'nun en büyük savaşçısı ve en büyük ihtilafıdır — onlar, T'au'nun en ünlü ve en bağımsız lideridir. Farsight'ın en büyük özelliği, onun bağımsızlığıdır — onlar, Ethereal'lerin kontrolünden kurtulan ve Farsight Enclaves'i kuran tek T'au komutanıdır ve onların varlığı, T'au'nun en büyük ihtilafının kanıtıdır; bir Farsight komutası, bir koloninin bağımsızlığının en büyük anıdır ve onların varlığı, T'au'nun en büyük gücünün somut halidir. Farsight'ın en ünlü özelliği, onun Dawn Blade'idir — onlar, daemon kılıcı taşıyan ve onun gücüyle yaşayan komutandır ve onların varlığı, T'au'nun en gizli sırrının kanıtıdır. Commander Farsight, T'au

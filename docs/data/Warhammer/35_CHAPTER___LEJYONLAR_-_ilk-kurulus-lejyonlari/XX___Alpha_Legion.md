@@ -16,8 +16,6 @@ Aldatma, sızma ve hücre yapısına dayalı Legion. Neye hizmet ettikleri, belk
 
 ## Tarihçe
 
-Heresy'de Horus'un safında yer alan Legion'ın bu tercihinin ardında, kendi anlatımlarına göre gizli bir örgütün yönlendirmesi vardı. Heresy boyunca iki tarafa da darbe vuran eylemleri, sadakat sorusunu açık bıraktı. Primarch'ın akıbeti hakkında birbiriyle çelişen anlatımlar vardır. Heresy sonrasında Alpha Legion, kültler ve gizli ağlarla Imperium'u içten kemiren hücreler hâlinde varlığını sürdürmektedir.
+Alpha Legion (XX Legion), Alpharius ve Omegon'un Legion'udur; gizlilik, aldatma ve psikolojik savaş üzerine uzmanlaşmış ve Horus Heresy'de hangi tarafta olduğu bile tartışmalı olan, İmparatorluğun en gizemli ve en tehlikeli Legion'udur. Alpha Legion'un savaş doktrini, Alpharius'un dehasından doğar — onlar savaşmaz, manipüle eder; bir Alpha Legion operasyonu, yıllar önce başlar ve hedef farkına varmadan tamamlanır; ve onların savaşı, fiziksel olduğu kadar bilgi savaşıdır. Alpha Legion'un en büyük gizemi, onların sadakatidir — Heresy'de hangi tarafta oldukları bile bilinmez; bazıları onların İmparator'a sadık kaldığını, bazıları onların Chaos'a düştüğünü ve bazıları onların kendi planlarını izlediğini söyler; ama bilinen tek şey, onların her yerde olduğu ve hiçbir yerde görünmedikleridir. Alpha Legion, İmparatorluğun en gizemli ve en tehlikeli düşmanıdır — onlar, gerçekliğin kendisiyle savaşırlar.
 
--# Kaynaklar: *Legion — Dan Abnett*; *Codex: Chaos Space Marines*
-
--# İlişkili kayıtlar: <#1551636477090467942>, <#1551649069972070434>, <#1551812225570836561>
+-# Kaynaklar: *Legion — Dan Abn

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Mastodon00.png/revisi
 
 ## Tarihçe
 
-Mastodon, Büyük Haçlı Seferi'nin en büyük kara taşıyıcısıydı; 40+ Marine taşıyan bu devasa 'canavar', en ağır kuşatmalar için ayrılmış — Titan sınıfı kara aracı.
+Mastodon Heavy Assault Transport, Legiones Astartes tarafından kullanılan en büyük ve en güçlü taşıma aracıdır; onun devasa boyutuyla — bir kadro Terminator'ı veya bir Primarch'ı bile taşıyabilen bir araçtır — onlar, Space Marine'lerin en büyük ve en güçlü taşıma aracıdır. Mastodon'un en büyük özelliği, onun boyutudur — onlar, bir Land Raider'dan çok daha büyük ve daha güçlüdür; bir Mastodon, bir Space Marine şirketini bile taşıyabilir ve onların varlığı, bir Space Marine saldırısının en güçlü silahıdır. Mastodon'un en ünlü savaşı, Horus Heresy'deki çeşitli savaşlarıdır — onlar, Space Marine Legion'larının en büyük taşıma aracıydı ve onların varlığı, bir Legion'un en güçlü silahıydı. Mastodon, Space Marine'lerin en büyük ve en güçlü taşıma aracıdır — onlar, bir Legion'un en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

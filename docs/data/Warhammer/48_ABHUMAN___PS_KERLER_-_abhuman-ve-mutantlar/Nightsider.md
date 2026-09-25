@@ -8,6 +8,6 @@ Nightsider, abhuman soyları içinde en az bilinen ama en çarpıcı uyum örnek
 
 ## Tarihçe
 
-Nightsider, İmparatorluk kayıtlarında geçen daemon/varlık figürlerinden biridir; detayları sınırlı olan bu kayıt, arşivde yer alan kalıcı isimlerden biridir.
+Nightsider, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır; karanlıkta görebilen ve onun en gizli operasyonlarını yapan en gizli mutant olan Nightsider, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır. Nightsider'ın en büyük özelliği, onun gece görüşüdür — onlar, karanlıkta görebilen ve onun en gizli operasyonlarını yapan en gizli mutant'dır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Nightsider, hem bir mutant hem de bir ajandır ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Nightsider'ın en ünlü özelliği, onun gece görüşüdür — onlar, İmparatorluğun en gizli ve en tehlikeli mutant'ıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Nightsider, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır — onlar, bir gizliliğin ve İmparatorluğun en büyük sırrının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

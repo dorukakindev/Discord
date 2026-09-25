@@ -16,7 +16,7 @@ Nate Crowley'in *The Twice-Dead King* dizisinin merkezindeki dünya. Antikef, Gr
 
 ## Tarihçe
 
-Hanedanın varislerinden Oltyx, uyanış döneminde merkezden uzak bir sınır dünyasında bulunuyordu. Uyanışla birlikte Antikef'in saray çevreleri uykunun açtığı zihinsel yaraların etkisiyle çözülürken, Imperial kuvvetlerin saldırısı crownworld'ü bir kuşatmaya sürükledi. Antikef'in düşüşü Oltyx'i yurtsuz bir varise dönüştürdü ve dizinin ikinci kitabı onun bu kayıptan sonraki yolunu işler.
+Antikef, Necron Ithakas Dynasty'nin en önemli ve en gizli dünyasıdır; onun crownworld'ü olarak hizmet veren ve Necron'ların en eski ve en güçlü hanedanlarından birinin merkezidir — onlar, Necron'ların en eski ve en güçlü dünyasıdır. Antikef'in en büyük özelliği, onun gizliliğidir — onlar, Necron'ların en gizli dünyalarından biridir ve onların varlığı, Necron'ların en eski gücünün merkezidir; bir Antikef, bir gezegenin en gizli halidir ve onların varlığı, Necron'ların en büyük sırrının kanıtıdır. Antikef'in en ünlü özelliği, onun Ithakas Dynasty'nin crownworld'ü oluşudur — onlar, bir hanedanın merkezidir ve onların varlığı, Necron'ların en eski ve en güçlü gücünün kanıtıdır. Antikef, Necron Ithakas Dynasty'nin en önemli ve en gizli dünyasıdır — onlar, Necron'ların en eski gücünün somut halidir.
 
 -# Kaynaklar: *The Twice-Dead King: Ruin — Nate Crowley*; *The Twice-Dead King: Reign — Nate Crowley*
 

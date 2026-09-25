@@ -12,6 +12,6 @@ Isstvan V'teki Hain zaferinin ardından Horus, devasa ve güçlü Dark Angels le
 
 ## Tarihçe
 
-Night Lords'a karşı Dark Angels'ın yürüttüğü üç yıllık Heresy dönemi seferi; Curze ve Lion'ın kişisel hesaplaşması. İki primarch'ın karanlık düellosu.
+Thramas Haçlı Seferi, Horus Heresy sırasında Dark Angels'ın Night Lords'a karşı yürüttüğü en gizli ve en kritik operasyonlardan biridir. Thramas, Night Lords'un faaliyet gösterdiği bir bölgeydi ve Dark Angels, bu bölgeyi ele geçirmek için gizli bir operasyon başlattı. Sefer sırasında Dark Angels, Night Lords'un gizli üslerini keşfetti ve birçok Night Lords üyesini öldürdü; ancak Night Lords'un lideri Konrad Curze, operasyondan sağ çıkmayı başardı. Thramas Haçlı Seferi, Dark Angels'ın Horus Heresy sırasındaki en önemli operasyonlarından biri olarak kayda geçti ve Dark Angels'ın sadakatini kanıtladı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

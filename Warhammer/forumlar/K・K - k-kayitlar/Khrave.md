@@ -16,6 +16,6 @@ Warp'tan beslenen, zihin-emici eski xeno ırkı; gemileri 'Sindallat' ve köle-s
 
 ## Tarihçe
 
-Khrave'ler, Büyük Haçlı Seferi kayıtlarına bile giren eski bir Warp-yoğunlaşmış xeno türüdür; zihin enerjisiyle beslenir ve tüm gezegenleri hasat ederler. Gemileri doğal Warp olaylarını izler, hedef dünyaları psişik olarak felç eder. Kayıtları belirsizdir ama imzaları tanınır.
+Khrave, WH40K evreninin en sinsi ve en tehlikeli xeno türlerinden biridir; psişik olarak güçlü ve bir gezegenin nüfusunu zihin kontrolüyle ele geçiren parazit varlıklardır — onlar, İmparatorluğun en gizli ve en tehlikeli iç düşmanlarından biridir. Khrave'in en büyük özelliği, onların zihin kontrolüdür — onlar, bir gezegenin nüfusunu psişik olarak ele geçirir ve onları kendi köleleri yapar; bir Khrave, bir gezegenin ruhunu bile ele geçirebilir ve onların varlığı, bir gezegenin sonunun başlangıcıdır. Khrave'in en korkulan yönü, onların sinsiliğidir — onlar, bir gezegenin nüfusuna karışır, onlar gibi yaşar ve çalışır; ve onların savaşı, bir isyanın en zayıf anında, en beklenmedik yerden gelir. Khrave, İmparatorluğun en sinsi ve en tehlikeli düşmanıdır — onlar, İmparatorluğun kendi bedeninin içinde büyüyen kanserdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,8 +16,6 @@ Aaron Dembski-Bowden'ın Black Legion romanlarının birinci ağızdan anlatıc�
 
 ## Tarihçe
 
-Iskandar Khayon — 'Kingbreaker', 'Kara Khayon' — aslen Thousand Sons'lı Heretic Astartes Chaos Sorcerer'ıdır; Power Axe 'Saern' ile bilinen bu figür, lejyonunun dağılması sonrası Black Legion'a geçti ve Abaddon'un Ezekyle Abaddon'la 'Uzun Savaş'ın anlatıcısı oldu. 'İki lejyonun büyücüsü' olarak Heresy sonrası Chaos'un güç dengesinin gözlemci-figürü.
-
--# Kaynaklar: *The Talon of Horus — Aaron Dembski-Bowden*; *Black Legion — Aaron Dembski-Bowden*
+Iskandar Khayon, Black Legion'un en ünlü ve en güçlü sorcerer'ıdır; Abaddon'un en yakın danışmanı ve onun en güçlü psişik kullanıcısı olan Khayon, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Black Legion'un en ünlü ve en güçlü sorcerer'ıdır. Khayon'un en büyük özelliği, onun psişik gücüdür — onlar, Black Legion'un en güçlü sorcerer'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Khayon, hem bir savaşçı hem de bir sorcerer'dır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Khayon'un en ünlü özelliği, onun Abaddon'un danışmanıdır — onlar, Black Legion'un liderinin en yakın ve en güçlü yardımcısıdır ve onların varlığı, Chaos'un en büyük
 
 -# İlişkili kayıtlar: <#1551811342405599345>, <#1551638958352506881>, <#1551809231580307517>, <#1551813775848509482>

@@ -16,8 +16,6 @@ Imotekh'in simge silahıdır. Kaynaklarda yıkıcı bir enerji salabilen kadim b
 
 ## Tarihçe
 
-Imotekh, Phaeron'u varisiz öldüğü için iç savaşa sürüklenen Mandragora'da, taraflardan biri tarafından rakiplerine karşı kullanılmak üzere uyandırılan bir Nemesor'du; kendisini uyandıranların aracı olmayı reddedip bütün talipleri ezdi ve tahtı kendisi için aldı. Sonraki yüzyıllarda dağınık Sautekh dünyalarını zor, tehdit ve diplomasiyle yeniden bağladı. Great Rift sonrasında Pariah Nexus'ta Silent King'e boyun eğmeyip kargaşadan yararlanarak birkaç sistemi kendi adına ele geçirdi.
+Staff of the Destroyer, Necron'ların en ünlü ve en korkulan relic'idir; bir Necron Lord'un — Necron'ların en güçlü liderleri — kullandığı ve onun en büyük savaşlarının simgesi olan bir asadır — onlar, Necron'ların en ünlü ve en korkulan hazinesidir. Staff of the Destroyer'ın en büyük özelliği, onun gücüdür — onlar, bir Necron Lord'un en güçlü silahıdır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır; bir Staff of the Destroyer kullanıcısı, hem bir savaşçı hem de bir ölümün somut halidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Staff of the Destroyer'ın en ünlü özelliği, onun 'Yok Edicinin Asası' anlamıdır — onlar, bir Necron'un en korkulan silahıdır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. Staff of the Destroyer, Necron'ların en ünlü ve en korkulan relic'idir — onlar, bir Necron'un gücünün ve Necron'ların en büyük tehdidinin somut halidir.
 
--# Kaynaklar: *Codex: Necrons — 5th Edition*; *Codex: Necrons — 10th Edition*; *Crusade: Pariah Nexus*
-
--# İlişkili kayıtlar: <#1551817348900589669>, <#1551759762193121282>, <#1551818153271627807>
+-# Kaynaklar: *Codex: Necrons — 5th Edition*; *Codex: Necrons — 10th Edition*; *Crusade: Pa

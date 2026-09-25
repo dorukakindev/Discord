@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f6/Cpt._Ur%27zan_Drakgaa
 
 ## Tarihçe
 
-Ur'zan Drakgaard, Salamanders'ın 6. Bölüğü'nün mevcut kaptanıdır; yüz yılı aşkın süredir chapter'a sadakatle hizmet veren savaşla sertleşmiş bir Veterandır. Bedeni ve yüzü yara dokusu ve dağlanmış yaralardan oluşan bir mozaik — her biri Prometheus'un sert oğullarının yaşam tarzının kanıtıdır. 'Yanmaz' chapter'ın en dayanıklı figürlerinden biri olarak ön safta savaşır.
+Ur'zan Drakgaard, Salamanders'in en ünlü ve en cesur Captain'ıdır; 6. Bölük'ün kaptanı olan ve Salamanders'in en cesur savaşçısı olan Drakgaard, İmparatorluğun en saygın ve en cesur savaşçısıdır — onlar, Salamanders'in en ünlü ve en cesur üyesidir. Ur'zan Drakgaard'ın en büyük özelliği, onun cesaretidir — onlar, Salamanders'in en cesur kaptanıdır ve onların varlığı, Salamanders'in en büyük gücünün kanıtıdır; bir Drakgaard komutası, bir savaşın en kritik anının en büyük avantajıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Ur'zan Drakgaard'ın en ünlü özelliği, onun 6. Bölük'ün kaptanıdır — onlar, bir Chapter'ın en cesur komutanıdır ve onların varlığı, Salamanders'in en büyük gücünün kanıtıdır. Ur'zan Drakgaard, Salamanders'in en ünlü ve en cesur Captain'ıdır — onlar, bir cesaretin ve Salamanders'in en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

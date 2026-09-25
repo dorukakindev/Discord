@@ -18,6 +18,6 @@ Ruh taşı taşıyan hayalet savaşçılarının yakın dövüş varyantı; ruh 
 
 ## Tarihçe
 
-Wraithblade'ler, Wraithguard'ların yakın dövüş karşılığıdır: ölü Aeldari ruhlarının Wraithbone bedenlere konduğu yürüyen mezarlar. Ellerindeki Ghostsword'lar ruhla rezonansa girer; kesikleri hem eti hem ruhu parçalar. Bir craftworld ölülerini ancak son çare olarak savaşa sürer — Wraithblade hattı, hayatın en son savunmasıdır.
+Wraithblade, Aeldari'nin en ünlü ve en trajik savaşçısıdır; onların ölü Aeldari'lerin ruhlarıyla dolu olan ve onların en zorlu savaşlarını yapan Wraithblade, Aeldari'nin en trajik ve en ölümlü varlığıdır — onlar, Aeldari'nin en ünlü ve en trajik savaşçısıdır. Wraithblade'in en büyük özelliği, onun trajedisidir — onlar, ölü Aeldari'lerin ruhlarıyla dolu olan ve onların savaşlarını sürdüren en trajik savaşçıdır ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır; bir Wraithblade, hem bir savaşçı hem de bir ölüdür ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Wraithblade'in en ünlü özelliği, onun ölü ruhları taşımasıdır — onlar, bir Aeldari'nin ölü ruhunu taşıyan en trajik savaşçıdır ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Wraithblade, Aeldari'nin en ünlü ve en trajik savaşçısıdır — onlar, bir trajedinin ve Aeldari'nin en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Aeldari / Craftworlds*

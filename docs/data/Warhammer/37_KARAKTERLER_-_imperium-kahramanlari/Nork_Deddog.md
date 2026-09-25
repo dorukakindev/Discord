@@ -12,6 +12,4 @@ Yapay zihinsel geliştirme (muhtemelen Bone 'ead'lerin yaratımında kullanılan
 
 ## Tarihçe
 
-Nork Deddog, kendi yaşamında efsane olan bir Ogryn'dir — Astra Militarum askeri olarak savaş yetenekleri, türdeşleri için 'erken gelişmiş' sayılabilecek zihinsel kıvraklığı kadar şaşırtıcıdır. Alışılmadık zekâsıyla komiserlerin dikkatini çekti ve komuta yakınına yerleştirildi; 'zeki Ogryn' olarak İmparatorluk ordusunun en sevilen figürlerinden biri — birçok üst rütbeli subayın hayatını gövdesiyle kurtaran sadık devdir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Nork Deddog, İmparatorluk Muhafızı'nın en ünlü ve en sadık Ogryn'idir; bir Bodyguard olan ve en zorlu savaşlarda hayatta kalan Deddog, İmparatorluğun en basit ama en sadık savaşçısıdır — onlar, İmparatorluk Muhafızı'nın en ünlü ve en sadık Ogryn'idir. Nork Deddog'un en büyük özelliği, onun sadakatidir — onlar, İmparatorluk Muhafızı'nın en sadık ve en basit savaşçısıdır ve onların varlığı, İmparatorluğun en büyük cesaretinin kanıtıdır; bir Deddog, hem bir savaşçı hem de bir kahramandır ve onların savaşı, sadece emirleri yerine getirmek içindir. Nork Deddog'un en ünlü özelliği, onun basitliğidir — onlar, İmparatorluk Muhafızı'nın en basit ama en sadık savaşçısıdır ve onların varlığı, İmparatorluğun en büyük cesaretinin kanıtıdır. Nork Deddog, İmparatorluk Muhafızı'nın en ünlü ve en sadık Ogryn'idir — onlar, bir sadakatin ve İmparatorluğun en büyük cesaretinin somut hali

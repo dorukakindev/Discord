@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/EC_Post-Heresy_Livery
 
 ## Tarihçe
 
-Cyrius, Büyük Sefer ve Heresy'de Emperor's Children'ın Lord Commander'ıydı; Lucius the Eternal'ı savaşta yenen ikinci kişi olmasıyla bilinir — ama zaferi kısa sürdü: bedeni yavaş ve acılı biçimde Lucius'un yeni kopyasına dönüştü. 'Yenenin bedeninde kaybolan' trajedi olarak Slaanesh'in lanetinin en bilinen örneklerinden biridir — Lucius'un zırhındaki çığlık yüzlerinden biri onundur.
+Cyrius, Chaos'un en gizli ve en tehlikeli üyesidir; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en gizli sırlarını saklayan Cyrius, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir. Cyrius'un en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli üyesidir ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Cyrius, hem bir savaşçı hem de bir sırdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Cyrius'un en ünlü özelliği, onun gizliliğidir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Cyrius, Chaos'un en gizli ve en tehlikeli üyesidir — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

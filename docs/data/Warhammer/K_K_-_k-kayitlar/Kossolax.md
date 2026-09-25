@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fe/World_Eaters_Icon.png
 
 ## Tarihçe
 
-Kossolax — 'Yemin Bozan', bazen Kosolax yazılır — Abaddon'un 13. Kara Seferi'ni destekleyen kötü şöhretli Chaos Lord'dur. World Eaters'ın dağılmış saflarından toplanmış 'Foresworn' adlı büyük Khornate Berserker warband'ini yönetir; Cadia'nın düşüşüyle sonuçlanan son büyük harekâtta aktif rol oynadı. 'Kanlı yemin'in taşıyıcısı olarak World Eaters'ın modern kaosunun simgelerinden biridir.
+Kossolax, Chaos'un en ünlü ve en tehlikeli Chaos Lord'udur; eskiden bir Space Marine olan ve Chaos'a yükselen Kossolax, İmparatorluğun en tehlikeli ve en gizli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en tehlikeli Chaos Lord'udur. Kossolax'ın en büyük özelliği, onun gücüdür — onlar, bir Chaos Lord olarak İmparatorluğun en tehlikeli düşmanlarından biridir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Kossolax, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Kossolax'ın en ünlü özelliği, onun Chaos'a yükselişidir — onlar, bir Space Marine'in düşüşünün en tehlikeli halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Kossolax, Chaos'un en ünlü ve en tehlikeli Chaos Lord'udur — onlar, bir ihanetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058635947577395>

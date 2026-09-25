@@ -12,6 +12,6 @@ Bu alan son derece güçlüdür; bir plazma silahı atışını bile zararsız h
 
 ## Tarihçe
 
-Conversion Field, Warp veya enerji saldırılarını yansıtan gelişmiş koruma alanıdır; Inquisitor'lar ve bazı elit komutanlar tarafından kullanılır. Rosarius'tan daha güçlü ama pahalı — kişisel savunmanın en üst katmanıdır.
+Conversion Field, gelen kinetik ve enerji hasarını ışığa ve sese çeviren kişisel kalkan teknolojisidir; Space Marine sergeant'ları, Chaplain'ler ve bazı Inquisitor'lar tarafından kullanılan nadir ve pahalı bir savunma düzeneğidir. Conversion Field, darbeyi aldığında onu parlak bir flaşa ve boğuk bir gürültüye dönüştürür — kullanıcı zarar görmez ama çevresindekiler geçici olarak kör olabilir; bu yüzden hem savunma hem de saldırı aracıdır. Teknoloji Dark Age of Technology'den kalmadır ve üretimi neredeyse kaybolmuştur — mevcut conversion field'ler yüzyıllar önce dövülmüş emanettir ve bir tanesini taşımak, İmparatorluğun en eski ve en değerli teknolojisini taşımak demektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

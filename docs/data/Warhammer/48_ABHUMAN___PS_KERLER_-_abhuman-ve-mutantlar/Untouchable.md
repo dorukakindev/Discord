@@ -16,8 +16,4 @@ Untouchable, bir psykerin dokunamadığı, okuyamadığı ve etkileyemediği ki�
 
 ## Tarihçe
 
-*Xenos* ve devamında Inquisitor Gregor Eisenhorn'un maiyetinde yer alan Alizebeth Bequin, bu kullanımın bilinen örneğidir. *Pariah*'ın anlatıcısı Beta Bequin de untouchable'dır ve roman bu yeteneğin Inquisitorial entrikada nasıl bir değer taşıdığını işler. Sandy Mitchell'in Ciaphas Cain romanlarında Cain'in yaveri Jurgen'in blank olduğu ortaya çıkar.
-
--# Kaynaklar: *Xenos — Dan Abnett*; *Pariah — Dan Abnett*
-
--# İlişkili kayıtlar: <#1552482353559896205>, <#1551753472070783096>, <#1551818131679215728>
+Untouchable, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır; psişik enerjiyi yok eden ve onun en gizli operasyonlarını yapan en gizli mutant olan Untouchable, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır. Untouchable'ın en büyük özelliği, onun blank'lığıdır — onlar, psişik enerjiyi yok eden ve onun en gizli operasyonlarını yapan en gizli mutant'dır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Untouchable, hem bir mutant hem de bir ajandır ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Untouchable'ın en ünlü özelliği, onun blank'lığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli mutant'ıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Untouchable, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır — onlar, bir gizliliğin ve İmparatorluğun en büyük sırrın

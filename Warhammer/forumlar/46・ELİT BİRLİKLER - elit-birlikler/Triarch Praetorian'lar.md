@@ -16,8 +16,6 @@ Triarch Praetorian'lar, Necron hanedanlarının üzerinde duran kadim hukuku ve 
 
 ## Tarihçe
 
-Biotransference'dan sonra da Triarch'ın iradesini taşımayı sürdürdüler. Kaynaklara göre Praetorian'ların bir kısmı Great Sleep boyunca uyumadan galakside dolaştı ve eski yasaların bekçiliğini sürdürdü. Silent King Szarekh'in Era Indomitus'ta geri dönüşü, Triarch'ın otoritesini ve Praetorian'ların rolünü yeniden anlamlı kıldı.
+Triarch Praetorian'lar, Necron ırkının en eski ve en sadık savaşçılarıdır; Silent King'in kişisel muhafızı ve Necrontyr hukukunun (Triarch'ın) infazcısı olarak görev yapan elit birimdir. Praetorian'lar sıradan Necron savaşçılardan daha akıllı, daha özerk ve daha güçlüdür — Biotransference sürecinde daha iyi bedenler aldılar ve hâlâ kendi düşünce ve kişiliklerini korurlar; bu yüzden onlar Necron'un az sayıdaki 'gerçek' bireylerindendir. Görevleri Triarch'ın kanunlarını uygulamaktır — Necron lordları arasında anlaşmazlık çıktığında Praetorian'lar hakem ve cellât olarak devreye girer ve Triarch'ın iradesini zorla uygular. Triarch Praetorian'lar necrodermis'in en saf halini taşır — bedenleri daha parlak, daha hızlı ve daha dayanıklıdır; ve onların varlığı, Necron'un eski düzeninin hâlâ yaşadığını gösterir.
 
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Infinite and the Divine — Robert Rath*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>, <#1551812203584295003>
+-# Kaynaklar: *Codex: Necrons — 1

@@ -16,8 +16,4 @@ Koyu mavi zırhları ve kızıl eldivenleriyle tanınan, Codex Astartes'e bağl�
 
 ## Tarihçe
 
-M41'de Ork Warlord Snagrod'un Rynn's World'e saldırısı sırasında Arx Tyrannus'taki bir savunma füzesinin arızalanıp fortress-monastery'ye düşmesi, Chapter'ın büyük kısmını tek bir anda yok etti. Chapter Master Pedro Kantor, hayatta kalan küçük bir kuvvetle kuşatılmış dünyada direnişi sürdürdü ve yardım gelene dek Orkları durdurdu. Bu felaketten sonra Crimson Fists, uzun ve yavaş bir yeniden inşa dönemine girdi; Great Rift çağında Primaris takviyeleri bu çabayı destekledi.
-
--# Kaynaklar: *Rynn's World — Steve Parker*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: <#1551636479925559479>, <#1551650286559559741>, <#1551759766966116383>, <#1551808888666587197>
+Crimson Fists, Imperial Fists soyu ve Second Founding'de kurulan trajik bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinden doğar ama onların kaderi, İmparatorluğun en büyük kayıplarından birini yaşamaktır — Rynn's World'deki Ork istilası, Chapter'ı neredeyse yok etti. Crimson Fists'in en büyük trajedisi, Rynn's World'deki felakettir — bir Ork Waaagh!'ı, Chapter'ın kale manastırını yok etti ve Chapter'ın büyük kısmını öldürdü; ama Crimson Fists, küllerinden doğdu ve hâlâ savaşıyor — onların dirilişi, İmparatorluğun en büyük direniş hikâyelerinden biridir. Crimson Fists'in savaş doktrini, dayanıklılık ve fedakarlık üzerine kuruludur — onlar, kayıplarını asla unutmaz ve onların savaşı, ölenlerin anısı içindir; bir Crimson Fist, savaşta hem

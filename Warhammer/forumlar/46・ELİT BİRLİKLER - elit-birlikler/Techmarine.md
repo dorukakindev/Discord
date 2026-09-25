@@ -10,6 +10,6 @@ Techmarine (Tekno-rahip Savaşçı), bir Space Marine Chapter'ı içinde benzers
 
 ## Tarihçe
 
-Techmarine, Space Marine chapter'ının teknisyen-savaşçısıdır; zırh, silah ve makine-ruhların bakımcısı. Mars'ta eğitilmiş bu savaşçılar, chapter'ın 'kutsal tamirci' rolünü üstlenir — savaş alanında onarım ve teknoloji.
+Techmarine, hem Space Marine hem de Adeptus Mechanicus üyesi olan benzersiz savaşçıdır; Mars'ta on yıllarca eğitim almış ve hem Chapter'ın silahlarını tamir eden hem savaşta düşmanın teknolojisini bozan mühendis-savaşçıdır. Techmarine'in görevi Chapter'ın makinelerinin bakımıdır — Rhino'dan Titan'a kadar her aracın ruhunu (machine spirit) yatıştırır, hasarı onarır ve gerekirse düşman teknolojisini hackler. Savaşta servo-arm'larıyla tanınırlar — sırtlarında mekanik kollar taşır ve bunlarla hem tamir hem dövüş yaparlar. Techmarine'ler iki dünyaya aittir — hem Chapter'ın kardeşi hem Mechanicus'un öğrencisi; bu yüzden onların sadakati bazen çatışır ve bir Techmarine'in kime itaat edeceği, durumun karmaşıklığına bağlıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,8 +16,4 @@ Anrakyr, uykudaki Tomb World'leri tek tek uyandırıp eski Necron imparatorluğu
 
 ## Tarihçe
 
-Anrakyr the Traveller ('Gezgin'), Necron'un efsanevi nemesor'udur — hanedanları arasında gezip 'uyuyan krallıkları' uyandıran figür. Hiçbir hanedana bağlı olmayan bu 'bağımsız efendi', Necron uygarlığının yeniden doğuşunu gezegen gezegen örgütleyen kilit liderdir — 'uyuyanları uyandıran' olarak ırkının katalizörü.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Devastation of Baal — Guy Haley*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551811368389181491>, <#1551809334483361823>
+Anrakyr the Traveller, Necron'ların en ünlü ve en gizli gezginidir; 'the Traveller' olarak bilinen ve Necron'ların en gizli operasyonlarını yapan Anrakyr, Necron'ların en gizli ve en önemli varlığıdır — onlar, Necron'ların en ünlü ve en gizli gezginidir. Anrakyr'ın en büyük özelliği, onun gizliliğidir — onlar, 'the Traveller' olarak bilinen ve Necron'ların en gizli operasyonlarını yapan en önemli varlıktır ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Anrakyr, hem bir makine hem de bir gezgindir ve onların varlığı, Necron'ların en büyük sırrının somut halidir. Anrakyr'ın en ünlü özelliği, onun 'the Traveller' lakabıdır — onlar, Necron'ların en gizli ve en gezgin varlığıdır ve onların varlığı, Necron'ların en büyük sırrının kanıtıdır. Anrakyr the Traveller, Necron'ların en ünlü ve en gizli gezginidir — onlar, bir g

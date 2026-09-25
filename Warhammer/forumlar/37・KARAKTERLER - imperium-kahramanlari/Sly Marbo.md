@@ -12,6 +12,6 @@ Augmentasyon görmemiş bir insan için benzersiz askeri becerilere sahip olduğ
 
 ## Tarihçe
 
-Sly Marbo ('Sessiz Marbo'), Catachan Jungle Fighters'ın efsanevi tek-asker operatörüdür — 'tek başına bir ordu' olarak bilinen figür. Munitorum düzenlemelerini hiçe sayar, gizli emirlerle çalışır ve sayılamayacak kadar düşmanı tek başına katletti; 'ölüm makinesi' olarak Catachan'ın en tehlikeli ürünü, kaybolup tekrar beliren hayalet-askerdir.
+Sly Marbo, İmparatorluk Muhafızı'nın en ünlü ve en efsanevi askeridir; Catachan Jungle Fighters'ın en ölümlü komandosu olan ve tek başına düşman ordularını yenen Marbo, İmparatorluğun en büyük kahramanı ve en gizli silahıdır — onlar, İmparatorluk Muhafızı'nın en ünlü ve en efsanevi üyesidir. Sly Marbo'nun en büyük özelliği, onun ölümlülüğüdür — onlar, tek başına bir orduya karşı savaşan ve hayatta kalan en ölümlü askerdir ve onların varlığı, İmparatorluk Muhafızı'nın en büyük gücünün kanıtıdır; bir Sly Marbo, hem bir asker hem de bir efsanedir ve onların savaşı, hem fiziksel hem de mitolojiktir. Sly Marbo'nun en ünlü özelliği, onun Catachan'lı olmasıdır — onlar, İmparatorluğun en tehlikeli gezegeninden gelen en ölümlü savaşçıdır ve onların varlığı, İmparatorluk Muhafızı'nın en büyük gücünün kanıtıdır. Sly Marbo, İmparatorluk Muhafızı'nın en ünlü ve en efsanevi askeridir — onlar, bir komandonun ve İmparatorluğun en büyük gücünün somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom

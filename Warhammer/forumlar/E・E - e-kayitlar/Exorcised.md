@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/81/Exorcised.png/revisio
 
 ## Tarihçe
 
-Exorcised ('İbadetten Çıkarılmış'), bir Warp yaratığının tam ve istilacı sahiplenmesine uğrayıp sonra inanç ve ritüel gücüyle o varlığın bedeninden sökülüp atıldığı kişiye denir. Daemonik sahiplenmeden 'kurtarılmış' bu insanlar, İmparatorluk'un en nadir ve en tehlikeli 'tanık'larıdır — daemon'un iç yüzünü görmüş ve yaşamış kişiler. Ordo Malleus tarafından ya değerli istihbarat kaynağı ya da kalıcı karantina vakası olarak sınıflandırılırlar; bazıları 'Banisher' olmak üzere yeniden yetiştirilir.
+Exorcised, İmparatorluğun en gizli ve en ölümcül Space Marine Chapter'ıdır; onların savaş doktrini, daemon'ları ve Chaos'u yok etmek üzerine kuruludur ve onlar, İmparatorluğun en gizli ve en ölümcül savaşçılarıdır. Exorcised'ın en büyük özelliği, onların gizliliğidir — onlar, İmparatorluğun en gizli Chapter'ıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Exorcised, hem bir savaşçı hem de bir hayalettir ve onların savaşı, hem fiziksel hem de psişiktir. Exorcised'ın en ünlü görevi, daemon'ları yok etmektir — onlar, Chaos'un en büyük düşmanıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Exorcised, İmparatorluğun en gizli ve en ölümcül Space Marine Chapter'ıdır — onlar, gizliliğin ve ölümün birleşimidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553059905148031006>

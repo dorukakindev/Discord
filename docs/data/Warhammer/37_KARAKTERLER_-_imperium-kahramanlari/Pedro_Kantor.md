@@ -16,6 +16,4 @@ Kantor'un savaş tarzı 'dirençli kılıç' olarak tanımlanır: savunmadan hü
 
 ## Tarihçe
 
-Pedro Kantor — 'Lord Helblade' — Crimson Fists'in 29. ve mevcut Chapter Master'ıdır; 900.M41'den beri yaklaşık bir yüzyıldır chapter'ı yönetir ve hizmeti 250 yıl daha geriye gider. İlk ününü chapter'ın neredeyse yok olduğu çatışmalarda kazandı — 'kalan son yumruk' olarak Rynn's World'ün trajedisinden chapter'ı yeniden inşa eden adam.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluğun en cesur ve en kararlı komutanlarından biridir; onların Chapter'ı Ork Waaagh!'ı tarafından neredeyse yok edildikten sonra onu yeniden kuran ve İmparatorluğun en dirençli savaşçılarından biri olan Kantor, İmparatorluğun en büyük direnişinin simgesidir — onlar, Crimson Fists'in en ünlü ve en onurlu lideridir. Pedro Kantor'un en büyük özelliği, onun direnişi

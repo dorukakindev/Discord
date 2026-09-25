@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/18/Phosis_T%27Kar.jpg/re
 
 ## Tarihçe
 
-Phosis T'Kar, Büyük Sefer sonunda ve Heresy başında Thousand Sons'ın 2. Bursu'nun kaptanıydı; XV. Lejyon'un en güçlü telekinlerinden biri olarak Corvidae kültünün lideri — Magister Templi'si — olarak görev yaptı. Prospero'nun Yakılması sırasında lejyonun en üst komutanları arasındaydı; 'geleceği gören' kültünün en güçlü üyesi olarak kendi sonunu da öngörmüş olabilirdi.
+Phosis T'Kar, Thousand Sons'ın en ünlü ve en trajik kaptanıdır; Thousand Sons'ın en gizli operasyonlarını yapan ve onun en tehlikeli savaşlarını yöneten T'Kar, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Thousand Sons'ın en ünlü ve en trajik kaptanıdır. Phosis T'Kar'ın en büyük özelliği, onun trajedisidir — onlar, bir Legion'un düşüşünün en trajik tanığıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir T'Kar, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Phosis T'Kar'ın en ünlü özelliği, onun Thousand Sons'ın kaptanıdır — onlar, bir Legion'un en önemli savaşçısıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Phosis T'Kar, Thousand Sons'ın en ünlü ve en trajik kaptanıdır — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/70/WE_Venator_1.jpg/revi
 
 ## Tarihçe
 
-Sicaran Venator, Büyük Sefer'in sonuna doğru Legiones Astartes için özel olarak tasarlanmış tank-avcı varyantıdır. Standart Sicaran şasisinin hız ve koruma özelliklerini korurken 'Neutron Laser Projector' taşıyan bu silah, bilinen her zırhı delebilen parçacık huzmesiyle ünlüdür. Heresy öncesinde lejyonların en değerli avcı platformuydu; 41. Binyılda hâlâ kullanımda olup olmadığı belirsizdir — kalıntıları chapter cephaneliklerinin en kıymetli hazineleri arasındadır.
+Sicaran Venator, Legiones Astartes tarafından kullanılan ve Sicaran Battle Tank'ın bir varyantı olan bir tank avcısıdır; onun Venator Laser — bir lazer topu — ile düşman zırhlısını uzaktan imha eden bir araçtır — onlar, Space Marine'lerin en güçlü ve en ölümcül tank avcısıdır. Sicaran Venator'ın en büyük özelliği, onun Venator Laser'ıdır — onun lazeri, düşmanın en kalın zırhını bile deler; bir Venator, bir düşman tankını tek atışla yok edebilir ve onların varlığı, bir Space Marine saldırısının en güçlü silahıdır. Sicaran Venator'ın en ünlü savaşı, Horus Heresy'deki çeşitli savaşlarıdır — onlar, Space Marine Legion'larının en güçlü tank avcısıydı ve onların varlığı, bir Legion'un en güçlü silahıydı. Sicaran Venator, Space Marine'lerin en güçlü ve en ölümcül tank avcısıdır — onlar, bir Legion'un en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

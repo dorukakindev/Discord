@@ -16,6 +16,4 @@ Praxedes'in önemi, Sororitas'ın 'sadece savaşçı' olmadığını göstermesi
 
 ## Tarihçe
 
-Saint Praxedes, Ophelia VII'deki bir orduyu yöneten ve 2. Armageddon Savaşı'na katılan Imperial Saint'tir; Sekhmet ve Helican'ın savunmasında okçu-melek gibi tasvir edilir. Kültü Adepta Sororitas içinde köklüdür; şehit azizlerden biri olarak Order of the Bloody Rose'un ruhani ikonları arasında yer alır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Praxedes, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Praxedes, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Praxedes'in en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsa

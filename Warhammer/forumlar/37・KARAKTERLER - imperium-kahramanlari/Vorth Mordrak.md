@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Vorth Mordrak, Grey Knights'ın Grand Master'ıdır; Red Corsairs'in Mortain Kalesi Dünyası'na saldırısından sağ çıkan tek kişidir. O günden beri o dünyada ölen düşmüş yoldaşlarının hayalet apparisyonları tarafından korunur — 'ölülerin koruduğu adam' olarak chapter'ın en mistik figürüdür. Nihayetinde onları huzura kavuşturmaya kararlı bu Grand Master, intikam ve yasın bedenidir.
+Vorth Mordrak, Grey Knights'ın en ünlü ve en onurlu Grand Master'ıdır; 'Tyrant of Badab' — Huron Blackheart — a karşı bin yıl süren yeminini tutan Mordrak, İmparatorluğun en gizli ve en onurlu savaşçısıdır — onlar, Grey Knights'ın en ünlü ve en onurlu üyesidir. Vorth Mordrak'ın en büyük özelliği, onun yeminidir — onlar, bir düşmana karşı bin yıl süren yeminini tutan en onurlu savaşçıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır; bir Mordrak, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Vorth Mordrak'ın en ünlü özelliği, onun Grand Master'ıdır — onlar, bir Chapter'ın en yüksek rütbeli üyesidir ve onların varlığı, Grey Knights'ın en büyük gücünün kanıtıdır. Vorth Mordrak, Grey Knights'ın en ünlü ve en onurlu Grand Master'ıdır — onlar, bir yeminin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

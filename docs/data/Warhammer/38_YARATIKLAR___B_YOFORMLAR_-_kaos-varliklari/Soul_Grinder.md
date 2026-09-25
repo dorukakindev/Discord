@@ -16,4 +16,4 @@ Savaşta Soul Grinder, korkunç çok yönlülüğüyle tanınır: hem yakın mes
 
 ## Tarihçe
 
-Soul Grinder, Chaos'un devasa Daemon Engine'idir — daemon ile dev savaş makinesinin, karanlık kötülük ve kendi bastırılamaz yıkma arzusuyla beslenen diyabolik kaynaşması. Bazı Greater Daemon'ları bile boyut olarak sollayan bu zırhlı devler neredeyse durdurulamaz; 'metal devcanavar' olarak Forge of Souls'ın en ağır ürünlerinden biridir — pazarlık karşılığı ruhunu satan daemon
+Soul Grinder, Chaos'un en ünlü ve en tehlikeli daemon makinesidir; Vashtorr the Arkifane'ın Forge of Souls'unda yaratılan ve daemon ve makinenin birleşimi olan Soul Grinder, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en ünlü ve en tehlikeli daemon makinesidir. Soul Grinder'ın en büyük özelliği, onun birleşimidir — onlar, bir daemon ve bir maki

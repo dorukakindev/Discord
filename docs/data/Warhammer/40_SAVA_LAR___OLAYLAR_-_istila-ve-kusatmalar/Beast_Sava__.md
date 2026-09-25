@@ -14,6 +14,4 @@ Beast'ı durduran, Imperial Fists'in son temsilcileri ve 'Last Wall' protokolüy
 
 ## Tarihçe
 
-Beast Savaşı (War of the Beast), 544-546.M32'de Ork'ların neredeyse Terra'ya ulaştığı devasa istiladır; tek 'Beast' liderliğindeki Waaagh, İmparatorluk'u yok olma noktasına getirdi. İmparatorluk'un İmparatorluk'tan sonraki en büyük krizi — yeni Imperial Creed'in, Ordo Xenos'un ve yeni savunma düzeninin doğumunu tetikledi.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Beast Savaşı (War of the Beast), Imperialis'in 41. binyılın ortalarında yaşadığı en tehlikeli Ork saldırısıydı. 'The Beast' olarak bilinen Ork Warboss, Imperialis tarihindeki en güçlü ve en organize Ork lideriydi; ordusu, Imperialis'in daha önce gördüğü her Ork saldırısından kat kat büyüktü. War of the Beast sırasında Ork'lar, Attack Moon adı verilen devasa savaş istasyonlarıyla Imperialis'in kalbine doğru ilerlediler; bu, Imperialis için herhangi bir xeno tehdidinin gösterdiği en tehlikeli durumdu. İm

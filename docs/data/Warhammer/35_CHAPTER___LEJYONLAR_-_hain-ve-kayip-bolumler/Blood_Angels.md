@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Blood_Angels_Livery.jpg/revision/latest?cb=20220207032425
 
+## Tarihçe
+
+Blood Angels (IX Legion), Sanguinius'un oğullarıdır; asalet, sanat ve ölümsüz trajedi üzerine kurulu ve Horus Heresy'de en büyük kaybı yaşayan Legion'dur — onların savaşı, hem güzellik hem de lanettir. Blood Angels'ın en büyük özelliği, onların ikilemidir — onlar, İmparatorluğun en asil savaşçılarıdır ama içlerinde Red Thirst ve Black Rage taşırlar; bir Blood Angel, hem en zarif hem de en vahşi savaşçıdır ve onların savaşı, hem bir dans hem de bir katliamdır. Blood Angels'ın en büyük trajedisi, Sanguinius'un ölümüdür — onların primarch'ı, Horus'u durdurmak için kendini feda etti ve onun ölümü, Chapter'ı sonsuza dek yaraladı; ve o günden beri, her Blood Angel, Sanguinius'un ölümünün psişik mirasını taşır. Blood Angels, İmparatorluğun en asil ve en trajik Chapter'ıdır — onlar, güzelliğin ve acının birleşimidir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Blood Angels — Kan Melekleri (IX. Lejyon)

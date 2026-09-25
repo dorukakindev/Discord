@@ -16,8 +16,6 @@ Nurgle'ın habercisi ve salgının galaksideki en tanınmış yolcusu. Primarch'
 
 ## Tarihçe
 
-Typhus — 'Gezgin', 'Nurgle'un Habercisi'; aslen Barbarus'lu Space Marine Calas Typhon — Death Guard'ın 1. Veba Bölüğü'nün Lord'u ve Destroyer Hive'ın taşıyıcısıdır. Lejyonunu Chaos'a sürükleyen iki figürden biridir (Erebus'la); 'vebanın elçisi' olarak Plague Fleet'iyle galaksiyi enfekte eden en büyük Nurgle figürü.
-
--# Kaynaklar: *The Buried Dagger — James Swallow*; *Dark Imperium: Plague War — Guy Haley*; *Codex: Death Guard*
+Typhus (eski adıyla Calas Typhon), Death Guard'ın en ünlü ve en korkulan Chaos Lord'udur; Mortarion'un birinci kaptanı olan ve Nurgle'un Herald'ı olarak bilinen Typhus, Death Guard'ın Chaos'a düşmesinin en büyük sorumlusudur — onlar, Nurgle'un en sadık ve en ölümcül hizmetkârıdır. Typhus'un en büyük özelliği, onun vebasıdır — onlar, Nurgle'un en güçlü vebasının taşıyıcısıdır ve onların varlığı, Death Guard'ın en büyük gücünün kanıtıdır; bir Typhus, hem bir savaşçı hem de bir hastalık taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Typhus'un en ünlü özelliği, onun Davin'deki ihanetidir — onlar, Horus'u Chaos'a çeken ve Death Guard'ı Nurgle'a teslim eden en büyük ihanettir ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır. Typhus, Death
 
 -# İlişkili kayıtlar: <#1551813274327060552>, <#1551650329316036699>, <#1551754683222327439>, <#1551818194841501818>

@@ -15,12 +15,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg
 
 ## Tarihçe
 
-M41'in son yıllarında Tarsis Ultra'nın Tyranid'lere karşı savunmasında Ultramarines'in yanında savaşan Mortifactors, bu savunmada müttefiklerine hem yiğitlikleri hem de ürkütücü ritüelleriyle derin bir iz bıraktı. Chapter'ın adına M41'in son büyük savaşlarının kayıtlarında da rastlanır.
+Mortifactors, Ultramarines soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, ölüm ve ölümsüzlük üzerine kuruludur ve onlar, İmparatorluğun en kasvetli ve en disiplinli savaşçılarıdır. Mortifactors'un en büyük özelliği, onların ölüm kültürüdür — onlar için savaş, ölümün kutsal törenidir ve onların zırhı, kemik ve mezar sembolleriyle süslüdür; bir Mortifactor, savaşta ölümü kabul eder ve onun varlığı, düşmana ölümün kaçınılmazlığını hatırlatır. Mortifactors'un en ünlü savaşı, Tyranid istilalarına karşı verdikleri savunmadır — onların ölüm kültürü, Tyranid'in yaşam emmesine karşı en güçlü direniştir; ve onların savaşı, ölümün kendisiyle savaşmaktır. Mortifactors, İmparatorluğun en kasvetli ve en sadık Chapter'ıdır — onlar için savaş, ölümün kendisidir ve onlar, onu kabul edenlerdir.
 
 ## Teknik / Biyolojik Özellikler
 
-Kültür: savaş öncesi ataları ve Primarch'la bağ kurmak için girilen ölüm transları; Basilica Mortis'in duvarlarını süsleyen kafatasları. Savaş sonrası düşmanların kanını ve etini tüketip kafataslarını ayırmaları, başkalarına ürkütücü gelen bir gelenektir.
-
--# Kaynaklar: *Warriors of Ultramar — Graham McNeill*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: <#1551809394226765939>, <#1551759780211589197>, <#1551815033518948404>
+Kültür: savaş öncesi ataları ve Primarch'la bağ

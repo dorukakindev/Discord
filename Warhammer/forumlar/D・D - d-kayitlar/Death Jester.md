@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Death_Jester_updated.
 
 ## Tarihçe
 
-Death Jester ('margorach' — Aeldari Lügati'nde 'ölüm başı'), Harlequin'lerin ağır silah uzmanı ve cenaze şakacısıdır; Shrieker Cannon ile donanmış bu figür, Masque'un karanlık mizahını savaş alanına taşır. Troupe'a bağlı olmasa da performansın ve ölümün uğursuz birleşimini temsil eder — Harlequin topluluğunun 'kara komedyen'idir.
+Death Jester, Harlequin'lerin en ünlü ve en ölümcül üyesidir; bir Harlequin'in en korkulan ve en ölümlü rolü olan ve onun en gizli operasyonlarını yapan Death Jester, Aeldari'nin en gizli ve en ölümcül üyesidir — onlar, Harlequin'lerin en ünlü ve en ölümcül üyesidir. Death Jester'ın en büyük özelliği, onun ölümlülüğüdür — onlar, bir Harlequin'in en korkulan ve en ölümlü rolüdür ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Death Jester, hem bir savaşçı hem de bir aktördür ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Death Jester'ın en ünlü özelliği, onun Harlequin'lerin üyesidir — onlar, Aeldari'nin en gizli ve en ölümlü organizasyonunun üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Death Jester, Harlequin'lerin en ünlü ve en ölümcül üyesidir — onlar, bir ölümlülüğün ve Aeldari'nin en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Harlequins Codex*
 -# İlişkili kayıtlar: <#1552848848332787715>

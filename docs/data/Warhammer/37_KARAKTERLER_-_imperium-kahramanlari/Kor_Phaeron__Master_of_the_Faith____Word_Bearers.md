@@ -16,8 +16,4 @@ Word Bearers'ın en eski ve en dogmatik figürü. Lorgar'ın inanç arayışın�
 
 ## Tarihçe
 
-Kor Phaeron, Word Bearers'ın birinci kaptanı ve Primarch Lorgar'ın manevi danışmanı ve üvey babasıydı — Heresy'nin mimarlarından biri. Colchis'te Lorgar'ı 'İmparator tanrıdır' inancından 'dört tanrı' inancına yönlendiren figür olarak 'chaos'un papazı' olarak Heresy'nin fikir babasıdır — Erebus'la birlikte ilk dönmeyi sağlayan adam.
-
--# Kaynaklar: *The First Heretic — Aaron Dembski-Bowden*; *Know No Fear — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763>, <#1551809394226765939>, <#1551809577425575998>
+Kor Phaeron, Word Bearers'ın en ünlü ve en tehlikeli din adamıdır; Lorgar'ın — Word Bearers'ın primarch'ı — en yakın danışmanı ve onun Chaos'a düşmesinin en büyük sorumlusu olan Kor Phaeron, İmparatorluğun en büyük ihanetinin mimarlarından biridir — onlar, Word Bearers'ın en tehlikeli ve en fanatik üyesidir. Kor Phaeron'un en büyük özelliği, onun fanatikliğidir — onlar, Chaos'un öğretisini Lorgar'a öğreten ve Word Bearers'ı Chaos'a çeken en büyük ihanettir ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Kor Phaeron, hem bir rahip hem de bir haindir ve onların varlığı, Chaos'un en gizli gücünün somut halidir. Kor Phaeron'un en ünlü özelliği, onun Lorgar'ın danışmanıdır — onlar, bir primarch'ın düşüşünün en büyük sorumlusudur ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Kor Phaeron, Word Bearers'ın

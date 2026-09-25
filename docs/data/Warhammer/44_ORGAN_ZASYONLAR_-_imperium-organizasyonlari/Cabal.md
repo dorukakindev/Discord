@@ -15,12 +15,10 @@ Cabal, Chaos'u galaksinin en büyük tehdidi sayan ve onu yok etmek için insanl
 
 ## Tarihçe
 
-Cabal, binlerce yıldır yaşayan Perpetual John Grammaticus aracılığıyla Alpha Legion'ın ikiz Primarch'larına ulaştı ve onlara iki gelecek sundu: Emperor kazanırsa insanlık yavaşça çürüyüp Chaos'a yem olacak, Horus kazanırsa insanlık yok olacak ama Chaos da beslendiği kaynaktan yoksun kalacaktı. Alpharius ve Omegon bu önermeyi kabul ederek Horus'un safına geçti. Grammaticus, sonraki romanlarda Cabal'in hesabından giderek bağımsızlaşan bir figür olarak görünür.
+Cabal, Warhammer 40k evreninin en eski ve en gizli örgütüdür; İmparator'un yükselişinden bile önce var olan, farklı ırklardan (Eldari, insan ve diğerleri) üyeleri olan ve amacı Chaos'u tamamen yok etmek olan gizli bir komplodur. Cabal'ın yöntemi acımasızdır — onlar için tek bir insanın, tek bir gezegenin hatta tek bir ırkın ölümü önemli değildir; tek hedefleri Chaos'un tamamen yok edilmesidir ve bu yüzden onlar, Horus Heresy'nin bile arkasındaki görünmez el olarak görülürler. Cabal'ın üyeleri ölümsüz veya neredeyse ölümsüzdür — onlar, binlerce yıl boyunca aynı hedef için çalışırlar ve onların planı, yüzyıllar sürer; bir Cabal ajanı, bir primarch'ı manipüle edebilir veya bir savaşı başlatabilir. Cabal'ın varlığı, İmparatorluğun en derin sırrıdır — onlar ne İmparatorluğun dostu ne de düşmanıdır; onlar sadece Chaos'un sonunu isteyen, her şeyi feda etmeye hazır varlıklardır.
 
 ## Kanon Notu
 
-Cabal'in kehanetinin doğruluğu, üyelerinin tam kimliği ve Heresy sonrası akıbeti açıklanmamıştır. İkizlerin Cabal'e ne ölçüde inandığı da kasıtlı olarak belirsizdir. Ayrıntı için <#1551636477090467942> ve <#1551649069972070434>.
-
--# Kaynaklar: *Legion — Dan Abnett*; *The Serpent Beneath — Rob Sanders*; *The Unremembered Empire — Dan Abnett*
+Cabal'in kehanetinin doğruluğu, üyelerinin tam kimliği v
 
 -# İlişkili kayıtlar: <#1551636477090467942>, <#1551649069972070434>, <#1551814951365115956>, <#1551809846066548779>

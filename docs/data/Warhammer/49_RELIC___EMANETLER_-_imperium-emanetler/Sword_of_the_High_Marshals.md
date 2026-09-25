@@ -16,8 +16,8 @@ Black Templars'ın High Marshal'ının taşıdığı kılıçtır. Silahtan çok
 
 ## Tarihçe
 
-Kılıç her High Marshal'a geçerek makamın sürekliliğini simgeler. Sabit bir homeworld'ü olmayan, bütün varlığını seferdeki filolara dağıtmış bir Chapter için bu tür emanetler, dağınık Crusade'leri tek bir kimliğe bağlayan az sayıdaki ortak dayanaktandır.
+Sword of the High Marshals, İmparatorluğun en ünlü ve en kutsal relic'idir; Black Templars'ın High Marshal'ının — Chapter'ın en yüksek lideri — kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, İmparatorluğun en ünlü ve en kutsal relic'idir. Sword of the High Marshals'ın en büyük özelliği, onun gücüdür — onlar, bir Chapter'ın en yüksek liderinin silahıdır ve onların varlığı, Black Templars'ın en büyük gücünün kanıtıdır; bir Sword of the High Marshals kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de semboliktir. Sword of the High Marshals'ın en ünlü özelliği, onun Black Templars'ın liderinin silahıdır — onlar, bir Chapter'ın en yüksek otoritesinin simgesidir ve onların varlığı, Black Templars'ın en büyük onurunun kanıtıdır. Sword of the High Marshals, İmparatorluğun en ünlü ve en kutsal relic'idir — onlar, bir Chapter'ın gücünün ve onurunun somut halidir.
 
 -# Kaynaklar: *Codex Supplement: Black Templars — 10th Edition*; *Codex: Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551637696466788466>, <#1551650286559559741>, <#1551636479925559479>
+-# İlişkili kayıtlar: <#15516

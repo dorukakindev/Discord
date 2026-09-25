@@ -16,8 +16,8 @@ Karnındaki keselerde gelişen Termagant'ları savaş sırasında dünyaya getir
 
 ## Tarihçe
 
-Tervigon'lar Tyranid istilalarında hem sürekli yeni organizma üreten bir kaynak hem de sürüleri bir arada tutan bir düğüm işlevi görür. Kaynaklar, bir Tervigon öldüğünde bedenindeki yavruların da çoğu zaman onunla birlikte telef olduğunu anlatır.
+Tervigon, Tyranid'in en ünlü ve en büyük yaratığıdır; bir Tyranid ordusunun en büyük 'anne' yaratığı olan ve onun yavrularını doğuran Tervigon, Tyranid'in en büyük ve en önemli varlığıdır — onlar, Tyranid'in en ünlü ve en büyük yaratığıdır. Tervigon'un en büyük özelliği, onun doğurganlığıdır — onlar, bir Tyranid ordusunun en büyük 'anne' yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Tervigon, hem bir yaratık hem de bir üreticidir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Tervigon'un en ünlü özelliği, onun yavrularıdır — onlar, bir Tyranid ordusunun yavrularını doğuran en büyük yaratıktır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Tervigon, Tyranid'in en ünlü ve en büyük yaratığıdır — onlar, bir üreticinin ve Tyranid'in en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+-# İlişkili kayıtlar: <#155

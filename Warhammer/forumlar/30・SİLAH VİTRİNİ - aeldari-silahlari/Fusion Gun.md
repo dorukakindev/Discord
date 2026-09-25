@@ -16,8 +16,6 @@ Hedefini yoğun bir ısı huzmesiyle eriten, Imperium'un melta silahlarına benz
 
 ## Tarihçe
 
-En çok, yıkıcı ateşe adanmış Fire Dragon Aspect Warrior'larıyla özdeşleşmiştir. Fire Dragons düşman araçlarını ve tahkimatlarını avlamakla ün kazanmış, fusion gun bu tapınağın savaş yolunun simgesi olmuştur. Fusion pistol ve bazı araçlara monte edilen daha büyük biçimleri aynı teknolojiye aittir.
+Fusion Gun, Aeldari'nin en ünlü ve en ölümlü melta silahıdır; onlar��n Aeldari'nin en güçlü ve en ölümlü füzyon silahı olan ve onun en zorlu savaşlarını yapan Fusion Gun, Aeldari'nin en güçlü ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en ölümlü melta silahıdır. Fusion Gun'ın en büyük özelliği, onun füzyonudur — onlar, düşmanı eriten füzyon ışını atan en ölümlü silahtır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Fusion Gun, hem bir silah hem de bir tank-savardır ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Fusion Gun'ın en ünlü özelliği, onun Fire Dragons'ın kullanımıdır — onlar, Aeldari'nin en ölümlü tank-savar birliğinin en ölümlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Fusion Gun, Aeldari'nin en ünlü ve en ölümlü melta silahıdır — onlar, bir füzyonun ve Aeldari'nin en büyük silahının somut halidir.
 
--# Kaynaklar: *Codex: Aeldari — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551810744754905123>
+-# Kaynaklar: *Code

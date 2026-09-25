@@ -12,6 +12,4 @@ Administratum'un ölçeği akıl almazdır ve bu, onun en belirgin (ve en kara m
 
 ## Tarihçe
 
-Adeptus Administratum, İmparatorluk'un devasa bürokratik koludur; milyarlarca memur, katip ve hesapçıyla vergi, kayıt, lojistik ve yönetimi yürütür. Imperial Truth'un çöküşünden sonra bile hayatta kalan en eski kurumdur — İmparatorluk gerçekte bu kağıt imparatorluğunun sırtında döner.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Adeptus Administratum, İmparatorluğun devasa bürokratik yönetim sistemidir; her gezegenin vergisini, kayıtlarını, yasalarını ve kaynaklarını yöneten ve İmparatorluğun varoluşunun görünmez iskeletini oluşturan devasa kurumdur. Administratum'un boyutu anlaşılamaz — trilyonlarca memur, milyonlarca ofis ve sayısız arşiv; bir Imperial gezegeninin tek bir kaydı bile Administratum'un onlarca departmanından geçer ve bir hatanın düzeltilmesi yüzyıllar sürebilir. Administratum'un işi basit ama imkânsızdır — İmparatorluğu yönetmek; bir gezegenin tithe'ini hesaplamak, bir ordunun ihtiyacını karşılamak ve bir dünyanın kaydını tutmak; ama Administratum'un bürokrasisi o kadar ağırdır ki bazen bir karar, kararın verildiği dünyanın yıkılmasından sonra çıkar. Administratum, İmparatorluğun en güçlü ve en yavaş kurumudur — onlar olmadan İmparatorluk yok olur ama onlar da İmparatorluğun en büyük engel

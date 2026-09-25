@@ -16,8 +16,4 @@ Dev yürüyen savaş makinelerini Throne Mechanicum aracılığıyla yöneten as
 
 ## Tarihçe
 
-Great Crusade'de yeniden keşfedilen Knight Worlds, ya Mechanicus'a (Questor Mechanicus) ya da Terra'ya (Questor Imperialis) bağlılık yemini etti. Heresy'de bazı haneler Horus'a geçti. Era Indomitus'ta haneler Imperium'un cephelerine daha sık çağrıldı.
-
--# Kaynaklar: *Codex: Imperial Knights*; *Knightsblade — David Guymer*
-
--# İlişkili kayıtlar: <#1551753465900961795>, <#1551818501625483265>, <#1551753449878724689>, <#1551743981778640899>
+Imperial Knights, İmparatorluğun en eski ve en soylu savaş gücüdür; devasa mekanik savaş makinelerini pilotlayan ve Knight World'lerde yaşayan asil ailelerin oluşturduğu bir güçtür — onlar, İmparatorluğun en geleneksel ve en onurlu savaşçılarıdır. Imperial Knights'ın en büyük özelliği, onların şövalyeliğidir — onlar, sadece savaşçı değil, aynı zamanda şövalyedirler; bir Knight pilotu, bir makine değil, bir şövalyedir ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Imperial Knights'ın en ünlü özelliği, onların Throne Mechanicum'udur — onlar, atalarının bilgisini ve ruhunu taşıyan ve Knight'ı pilotlayan pilotun zihnine bağlanan bir sistemdir; bir Throne Mechanicum, hem bir makine hem de bir mirastır ve onların varlığı, Knight'ın en kutsal ve

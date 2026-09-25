@@ -57,6 +57,10 @@ Black Heart açısından bu anlatının dersi yalındır: Kabal'ın gücü, efen
 
 Üçlemenin anlattığı Dysjunction ile Gathering Storm dönemindeki Dysjunction'ın kronolojik ilişkisi kaynaklarda açıkça bağlanmaz; ikisini aynı olay saymamak gerekir.
 
+## Tarihçe
+
+Kabal of the Black Heart, Commorragh'ın en güçlü ve en korkulan kabalıdır; Asdrubael Vect'in kişisel ordusudur ve Drukhari toplumunun en büyük siyasi ve askeri gücüdür — Black Heart'ın yönetimi, Commorragh'ın yönetimi demektir. Black Heart'ın üyeleri, Drukhari'nin en acımasız ve en yetenekli savaşçılarıdır — onların Archon'ları, Incubi'leri ve savaş makineleri, Webway'in
+
 ## Dysjunction Sonrası: Yvraine, Ynnari ve Great Rift Çağı
 Gathering Storm döneminde Commorragh ikinci büyük sarsıntısını, bu kez arenanın içinden yaşadı. Arenada ölüp Ynnead aracılığıyla yeniden ayağa kalktığı anlatılan **Yvraine**'in dirilişi şehirde yeni bir Dysjunction'a yol açtı ve Yvraine, Vect'in elinden kaçarak Ynnari hareketini başlattı. Black Heart için bu, sıradan bir düzen bozulmasından ağırdı: Drukhari'yi Commorragh'ın dışında bir sadakate çağıran bir peygamber doğmuştu.
 

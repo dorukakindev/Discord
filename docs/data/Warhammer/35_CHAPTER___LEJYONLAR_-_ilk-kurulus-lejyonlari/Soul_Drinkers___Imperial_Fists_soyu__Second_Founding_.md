@@ -16,8 +16,4 @@ Imperium'u reddedip Chaos'u da reddeden, Emperor'un ideallerini kendi yorumuyla 
 
 ## Tarihçe
 
-Kadim emanet Soulspear'in Adeptus Mechanicus'a bırakılmasını reddeden Chapter, Mechanicus kuvvetleriyle çatışınca Excommunicate Traitoris ilan edildi. Librarian Sarpedon, Chapter Master Gorgoleon'a karşı iç savaşı kazanarak Chapter'ın başına geçti. Soul Drinkers'ın sonraki savaşları, Imperial Fists'in elinde yargılanmalarıyla doruğa ulaştı; burada Chapter'ın isyanının kadim filozof-savaşçı Daenyathos tarafından çok önceden hazırlandığı ortaya çıktı.
-
--# Kaynaklar: *Soul Drinker — Ben Counter*; *Phalanx — Ben Counter*
-
--# İlişkili kayıtlar: <#1551636479925559479>, <#1551650286559559741>, <#1551815304252887041>
+Soul Drinkers, Imperial Fists soyu ve Second Founding'de kurulan trajik bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinden doğar ama onların kaderi, İmparatorluğun en büyük ihanet ve kurtuluş hikâyelerinden biridir. Soul Drinkers'ın en büyük trajedisi, onların yanlış anlaşılmasıdır — onlar, İmparatorluk tarafından heretik ilan edildiler ve sürgün edildiler; ama onlar, hâlâ İmparator'a sadık kaldılar ve onların savaşı, artık İmparatorluk için değil, İmparator içindir. Soul Drinkers'ın en ünlü hikâyesi, onların Daemon Engine'i yok etmek için yaptıkları savaştır — onlar, İmparatorluğun onları avlamasına rağmen, İmparatorluğun en büyük tehdidini durdurdular

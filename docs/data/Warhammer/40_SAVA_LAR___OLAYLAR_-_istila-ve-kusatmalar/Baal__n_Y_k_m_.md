@@ -14,6 +14,4 @@ Savaşın doruğunda Dante komutasındaki savunucular yenilmek üzereydi — Ka'
 
 ## Tarihçe
 
-Leviathan'ın Blood Angels'ın anavatanına saldırısı; Dante'nin son savunması, Sanguinor'un gelişi, Guilliman'ın kurtarışı. Chapter'ın en karanlık ve en mükemmel günü.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Baal'ın Yıkımı, Blood Angels'ın tarihindeki en trajik olaylardan biri olarak yaşandı. Hive Fleet Leviathan, Baal sistemine saldırdığında Blood Angels, evlerini ve halklarını korumak için son bir savunma hattı oluşturdu. Dante komutasındaki Blood Angels, Leviathan'ın baskın gücüne karşı neredeyse tamamen yok olma noktasına geldi; ancak son anda Indomitus Crusade güçlerinin gelmesiyle hayatta kaldılar. Savaş sırasında Baal'ın yüzeyi ciddi zarar gördü ve Blood Angels'ın birçok değerli kaynağı yok oldu; a

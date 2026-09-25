@@ -11,6 +11,10 @@ Imperial bakış açısından bu, kabul edilmesi güç bir tablodur. Emperor'un 
 ## Kökenler
 Interex'in nasıl kurulduğu, Old Night'ı hangi koşullarda atlattığı ve tam olarak galaksinin hangi bölgesinde yaşadığı yayımlanmış kanonda ayrıntılı biçimde açıklanmaz. Kaynakların güvenle aktardığı çekirdek şudur: bu uygarlık Terra'yla bağı koptuktan sonra kendi kurumlarını, kendi silahlarını ve kendi tarih anlayışını geliştirmiş, Imperium'la karşılaştığında ise ona boyun eğmesi gereken kayıp bir koloni gibi değil, eşit bir muhatap gibi davranmıştı. Nüfusu, dünya sayısı ve siyasi yapısı hakkında kesin bilgi verilmez; arşiv bu boşluğu tahminle doldurmaz.
 
+## Tarihçe
+
+Interex, WH40K evreninin en trajik ve en önemli xeno türlerinden biridir; İmparatorluk'la barışçıl bir ilişki kurmaya çalışan ama sonunda İmparatorluk tarafından yok edilen bir türdür — onların yok edilmesi, İmparatorluğun en büyük utancıdır. Interex'in en büyük özelliği, onların barışçıllığ
+
 ## Temas: Horus Rising'deki Karşılaşma
 Interex hakkında bilinenlerin neredeyse tamamı Dan Abnett'in *Horus Rising* romanından gelir. Horus'un Warmaster ilan edilmesinin ardından yürüttüğü seferler sırasında Luna Wolves, bu uygarlıkla barışçıl bir temas kurdu. Kaptan Garviel Loken ve Tarik Torgaddon gibi subaylar Interex temsilcileriyle yüz yüze geldi; romanda Loken'in Interex savaşçısı Mithras Tull'la kurduğu saygıya dayalı ilişki, iki insanlık arasında kurulabilecek köprünün en insani yüzü olarak işlenir. Interex'in askerî önderlerinden Jephta Naud da bu görüşmelerin öne çıkan figürüdür.
 

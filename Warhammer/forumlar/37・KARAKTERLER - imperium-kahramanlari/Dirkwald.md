@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/eb/House_Mortan_Heraldry
 
 ## Tarihçe
 
-Sir Dirkwald, House Mortan'ın soylusudur ve 'Black Heart' adlı Knight Errant'ı pilot eder; 'vahşi ama kasvetli' kişiliğiyle tanınır. Gezegeni Kimdaria'da 1.000. devriyesini tamamladı ve House Mortan'ın geleneklerine göre artık gezegen dışında hizmet edebilir hale geldi — bu yüzden Rutherian Seferi'ni desteklemek için gönderilen Mortan güçleri arasına katıldı. Şövalye dünyasının 'görev saplantılı' savaşçılarından biri olarak kayıtlara geçmiştir.
+Dirkwald, İmparatorluğun en vahşi ve en onurlu Knight'ıdır; House Mortan'ın soylusu olan ve Knight Errant 'Black Heart'ı pilot eden Dirkwald, İmparatorluğun en vahşi ve en onurlu savaşçısıdır — onlar, İmparatorluğun en vahşi ve en onurlu Knight'ıdır. Dirkwald'ın en büyük özelliği, onun vahşetidir — onlar, 'Black Heart'ı pilot eden ve onunla en vahşi savaşları yapan en onurlu Knight'tır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır; bir Dirkwald, hem bir savaşçı hem de bir soyludur ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Dirkwald'ın en ünlü özelliği, onun 'Black Heart'ıdır — onlar, House Mortan'ın en vahşi Knight'ıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Dirkwald, İmparatorluğun en vahşi ve en onurlu Knight'ıdır — onlar, bir soylunun ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

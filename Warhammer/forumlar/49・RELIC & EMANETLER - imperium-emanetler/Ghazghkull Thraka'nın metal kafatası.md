@@ -16,8 +16,4 @@ Ork tarihinin belki de en sonuçlu cerrahi müdahalesinin izidir. Bu onarımdan 
 
 ## Tarihçe
 
-Vizyonlarla kendinden emin bir peygambere dönüşen Ghazghkull, Urk'u birleştirip dev bir Waaagh!'ı ateşledi ve Armageddon savaşlarıyla galaksinin en tanınan Ork'u oldu. Nate Crowley'nin *Ghazghkull Thraka: Prophet of the Waaagh!*'ı bu yükselişi Ork bakış açısından ve güvenilmez anlatıcılar aracılığıyla yeniden çerçeveler. 11th Edition'ın açılış anlatısında Ghazghkull'un Armageddon'a dönüşü, galaksiyi yeniden sarsan Ork dalgasının merkezindedir.
-
--# Kaynaklar: *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*; *Codex: Orks — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551643990196232303>, <#1551814495138091013>, <#1551817830096310363>
+Ghazghkull Thraka'nın metal kafatası, Ork'ların en ünlü ve en vahşi relic'idir; Ghazghkull Thraka'nın — Ork'ların en büyük Warboss'u — kafasının metal bir kopyasıdır ve onun en büyük savaşlarının simgesidir — onlar, Ork'ların en ünlü ve en vahşi hazinesidir. Ghazghkull'un metal kafatasının en büyük özelliği, onun vahşetidir — onlar, bir Warboss'un en vahşi simgesidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Ghazghkull'un metal kafatası taşıyıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, sadece öldürmek ve fethetmek içindir. Ghazghkull'un metal kafatasının en ünlü özelliği, onun Ghazghkull'a ait olmasıdır — onlar, Ork'ların en büyük liderinin simgesidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Ghazghkull

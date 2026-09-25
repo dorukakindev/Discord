@@ -16,8 +16,4 @@ Galaksinin insanlıktan milyonlarca yıl önceki efendileri. Etten metale geçi�
 
 ## Tarihçe
 
-Old Ones'a karşı War in Heaven'da C'tan'ın yanında savaştılar, sonra Silent King Szarekh'in önderliğinde C'tan'ı parçalayıp Great Sleep'e çekildiler. Binyıllar sonra uyanan dynasty'ler birbirleriyle ve genç türlerle çatıştı. Era Indomitus'ta Szarekh'in galaksiye dönüşü ve Pariah Nexus olayları öne çıkar.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551812203584295003>, <#1551649070286897172>, <#1551818153271627807>
+Necrons, WH40K evreninin en eski ve en tehlikeli xeno ırkıdır; altmış milyon yıl önce yıldız tanrılarına (C'tan) hizmet etmek için bedenlerini metal yapıya çeviren ve şimdi uyandıklarında tüm yaşamı yok etmek isteyen mekanik bir ırktır — onlar, İmparatorluğun en eski ve en kaçınılmaz düşmanıdır. Necrons'un en büyük özelliği, onların ölümsüzlüğüdür — onlar, bir Necron öldürülse bile, onun bedeni kendi kendini tamir eder ve geri döner; bir Necron ordusu, sadece yok edilemez, aynı zamanda geri döner ve onların savaşı, hem fiziksel hem de zamansal bir mücadeledir. Necrons'un en korkulan yönü, onların C'tan'larıdır — onlar, yıldız tanrılarıdır ve onların gücü

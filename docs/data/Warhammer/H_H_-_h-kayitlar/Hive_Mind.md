@@ -21,6 +21,10 @@ Daha yüksek bir ölçekte Norn Queen'ler ve hive ship'ler, filonun kendisini y�
 
 Lictor ve Genestealer gibi bazı organizmalar ise synapse'ten görece bağımsız çalışacak biçimde yaratılmıştır. Bu, Hive Mind'ın doğrudan kontrolün her zaman gerekmediğini, bazı görevleri kendi başına yapabilen organizmalar ürettiğini gösterir.
 
+## Tarihçe
+
+Hive Mind, Tyranid ırkının kolektif bilincidir; galaksinin dışından gelen, trilyonlarca Tyranid organizmasını tek bir iradeye bağlayan saf psişik varlık. Bir Tyranid'in zihni yoktur — sadece Hive Mind'ın emirlerini işleyen bir sinir düğümüdür; Hive Tyrant ve Warrior gibi synapse yaratıkları bu iradeyi sahadaki küçük bioformlara aktarır. Synapse yaratığı düşerse bağlantı kesilir ve Tyranid sürüsü hayvani içgüdüye döner — kaotik, dağınık ama hâlâ
+
 ## Shadow in the Warp ve Psişik Doğa
 Hive Mind'ın varlığı yalnızca maddi dünyada değil, Warp'ta da hissedilir. Filoların çevresinde yayılan **Shadow in the Warp**, astropathic iletişimi boğar, Navigator'ların yol bulmasını engeller ve psykerlerin zihinlerini ağır bir baskı altına alır. Kaynaklar bu gölgenin içinde psişik gücü kullanmanın zorlaştığını, bazı psykerlerin çıldırdığını ya da öldüğünü anlatır.
 

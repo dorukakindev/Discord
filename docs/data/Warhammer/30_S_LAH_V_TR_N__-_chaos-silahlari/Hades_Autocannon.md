@@ -19,4 +19,8 @@ Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan,
 ## Not
 Chaos savaş makinelerinin standart orta menzilli silahıdır; Imperium'un Autocannon'ına karşılık gelir ama daemon-forged türevlerde warp rezonansıyla beslenir.
 
+
+## Tarihçe
+
+Hades Autocannon, Chaos'un en ünlü ve en ölümlü ağır silahıdır; onların Chaos'un en güçlü ve en ölümlü ağır silahı olan ve onun en tehlikeli operasyonlarını yapan Hades Autocannon, Chaos'un en güçlü ve en ölümlü silahıdır — onlar, Chaos'un en ünlü ve en ölümlü ağır silahıdır. Hades Autocannon'un en büyük özelliği, onun gücüdür — onlar, Chaos'un en güçlü ağır silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Hades Autocannon, hem bir silah hem de bir yıkımdır ve onların varlığı, Chaos'un en büyük silahının somut halidir. Hades Autocannon'un en ünlü özelliği, onun Chaos Defiler üzerindeki kullanımıdır — onlar, Chaos'un en büyük savaş makinesinin en ölümlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Hades Autocannon, Chaos'un en ünlü ve en ölümlü ağır silahıdır — onlar, bir gücün ve Chaos'un en büyük silahının somut halidir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

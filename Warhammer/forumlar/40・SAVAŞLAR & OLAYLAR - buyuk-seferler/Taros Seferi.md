@@ -12,6 +12,6 @@ Taros, gezegen savunma gücünün ve insan nüfusunun (Gue'vesa, yani Tau'ya hiz
 
 ## Tarihçe
 
-Taros'un Tau'ya düşmesini engelleme savaşı; Imperial Armour kampanyasının kanonik örneği. Desert çölünde mekanize savaşın destanı — Tau kazandı.
+Taros Seferi, İmparatorluğun T'au'ya karşı giriştiği ve kaybettiği en trajik operasyonlardan biridir. Taros, T'au'nun İmparatorluk'a ait bir gezegeni ele geçirmesiyle başlayan çatışmanın merkeziydi; İmparatorluk, gezegeni geri almak için büyük bir askeri güç gönderdi. Sefer sırasında İmparatorluk kuvvetleri, T'au'nun gelişmiş teknolojisi ve savunma stratejisi karşısında zorlandı ve ağır kayıplar verdi. Sonunda İmparatorluk kuvvetleri Taros'tan geri çekilmek zorunda kaldı; bu, İmparatorluk'un T'au karşısındaki en kayda değer yenilgilerinden biri olarak kayda geçti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

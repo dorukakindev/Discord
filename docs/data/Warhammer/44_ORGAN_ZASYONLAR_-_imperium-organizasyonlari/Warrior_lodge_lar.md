@@ -16,8 +16,6 @@ Lodge'lar dışarıdan bakıldığında savaşçıların rütbe dışı bir eşi
 
 ## Tarihçe
 
-Davin'de yaralanan Horus'u yerel Serpent Lodge tapınağına götüren, Luna Wolves içindeki lodge'ların baskısıydı. Heresy yaklaşırken lodge'lar birçok Legion'da ihanetin örgütlendiği gizli hücrelere dönüştü. Chris Wraight'ın *Scars* romanı, lodge'ların White Scars içinde de kök saldığını ve Torghun Khan gibi komutanların Legion'ın bir kısmını ihanete sürüklemeye çalıştığını anlatır.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *False Gods — Graham McNeill*; *Scars — Chris Wraight*
+Warrior lodge'lar, Büyük Haçlı Seferi döneminde Space Marine Legion'larında ortaya çıkan gizli savaşçı topluluklarıydı; resmi olarak yasaklanmış ama pratikte tolerans gösterilen bu lodge'lar, savaşçıların Legion hiyerarşisinin dışında, eşitler olarak toplanıp savaş, onur ve kardeşlik konuştuğu gizli kulüplerdi. Lodge'ların üyeleri kendi aralarında sır saklar, birbirlerine sadık olur ve resmi komuta zincirinin dışında kendi kurallarını uygularlardı; bu yapı, Legion'lar arasında kardeşliği güçlendirdi ama aynı zamanda Horus Heresy'nin tohumlarını ekti — Warrior lodge'lar, Chaos'un Legion'lara sızdığı ilk kanallardı. Word Bearers'ın
 
 -# İlişkili kayıtlar: <#1551812325521100811>, <#1551638953101365340>, <#1551650246508150857>, <#1551638913683034174>

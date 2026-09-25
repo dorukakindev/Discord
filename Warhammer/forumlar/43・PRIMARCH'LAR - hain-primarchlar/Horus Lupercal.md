@@ -12,4 +12,7 @@ Karizması, liderliği ve diğer Primarch'ları birleştirme yeteneği eşsizdi;
 
 ## İhanet ve Düşüş
 Davin'in ayında yaralanan Horus, şifa bahanesiyle bir teknik-mabette Kaos'un vizyonlarına maruz bırakıldı; Erebus'un fısıltıları ve tanrıların vaatleri, içindeki gurur ve terk edilmişlik hissini ihanete çevirdi. Warmaster, lejyonlarının yarısını yanına çekti: Isstvan III katliamıyla sadıkları temizledi, Isstvan V'te üç lejyonu imha etti ve sonunda Terra'yı kuşattı. Sanguinius'u öldürdükten sonra İmparator'la teke tek karşılaştı; düellonun sonunda bedeni ve ruhu tamamen yok edildi. İhaneti galaksiyi on bin yıl boyunca sürecek bir dinsel ve askeri çöküşün eşiğine bıraktı.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Horus Lupercal, İmparatorluğun en ünlü ve en trajik primarch'ıdır; İmparator'un en sadık oğlu olan ve İmparatorluğa ihanet eden Horus, İmparatorluğun en trajik ve en tehlikeli figürüdür — onlar, İmparatorluğun en ünlü ve en trajik primarch'ıdır. Horus'un en büyük özelliği, onun ihaneti

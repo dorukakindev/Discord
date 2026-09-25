@@ -12,6 +12,6 @@ Enslaver'lar, ele geçirdikleri canlıların zihnini tümüyle silip onları bey
 
 ## Tarihçe
 
-Enslaver ('Köleleştirici'), Warp'ın en korkulan varlıklarından biridir — kafadan bacaksız, dokunaçlı dev mantar şeklindeki bu xenos/psişik varlık, ölümlülerin zihnine girip onları 'kukla' yapar; psyker'lara özellikle düşmandır. 'Zihin tüketen' olarak bilinen bu varlıklar, erken Warp istilalarının efsanevi figürlerindendir.
+Enslaver, Chaos'un en gizli ve en tehlikeli xeno yaratığıdır; Warp'ta yaşayan ve zihinleri ele geçiren en gizli varlık olan Enslaver, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli xeno yaratığıdır. Enslaver'ın en büyük özelliği, onun zihin kontrolüdür — onlar, zihinleri ele geçiren ve onları köleleştiren en gizli varlıktır ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Enslaver, hem bir yaratık hem de bir zihin kontrolcüsüdür ve onların varlığı, Chaos'un en büyük tehdidinin somut halidir. Enslaver'ın en ünlü özelliği, onun Warp'ta yaşamasıdır — onlar, Warp'ın en gizli ve en tehlikeli yaratığıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Enslaver, Chaos'un en gizli ve en tehlikeli xeno yaratığıdır — onlar, bir zihin kontrolcüsünün ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

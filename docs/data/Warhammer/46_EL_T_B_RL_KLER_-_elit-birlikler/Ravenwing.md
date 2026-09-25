@@ -15,12 +15,8 @@ Bike, land speeder ve hava araçlarıyla savaşan hızlı saldırı ve av birli�
 
 ## Tarihçe
 
-Ravenwing'e kabul, Chapter'ın katmanlı sırrının bir kısmına ortak olmak demektir; kardeşler Fallen'ın varlığını burada öğrenmeye başlar. Grand Master Sammael uzun süredir birimin başında anılır. Gav Thorpe'un *Ravenwing* romanı, Chapter'ın Fallen avını bu kanadın genç bir savaşçısının gözünden anlatır.
+Ravenwing, Dark Angels Chapter'ının hızlı saldırı ve keşif kanadıdır; motosiklet, land speeder ve jetbike üzerinde savaşan ve asıl görevi Fallen Angels'ı — Chaos'a düşmüş eski Dark Angels kardeşlerini — avlamak olan gizli birimdir. Ravenwing'in yüzey görevi keşif ve hızlı taarruzdur ama gerçek amacı daha karanlıktır — Dark Angels'ın bin yıllık utancı olan Fallen'ları bulmak, yakalamak ve Inner Circle'a teslim etmek. Ravenwing üyeleri black armour giyer ve beyaz kanat sembolü taşır; Master of the Ravenwing, Chapter'ın en yüksek rütbelerinden biridir ve Inner Circle'a doğrudan bağlıdır. Ravenwing'ler savaşta en hızlıdır — düşmanı kovalar, çevreler ve yakalar; ve bir Fallen'ın peşinde olduklarında, hiçbir savaş kuralı onları durduramaz.
 
 ## Teknik / Biyolojik Özellikler
 
-Siyah zırh; bike ve jetbike'lar, land speeder'lar; Dark Talon ve Nephilim gibi hava araçları. Ravenwing Black Knight'lar, kanadın sırrın daha derin katmanını bilen seçkinleridir.
-
--# Kaynaklar: *Codex Supplement: Dark Angels*; *Ravenwing — Gav Thorpe*; *Angels of Caliban — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551813077991686208>, <#1551809277692215330>, <#1551816136679751721>, <#1551808888666587197>
+Siyah zırh; bike ve jetbike'lar, land speeder'lar; Dark Talon ve Nephilim gibi hava araçları. Ravenwing Black Knight'lar, kanadın sırrın daha derin katmanını bilen

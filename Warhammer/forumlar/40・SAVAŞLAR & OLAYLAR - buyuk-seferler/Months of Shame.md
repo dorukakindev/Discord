@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/53/Ordo_Malleus_Symbol2.
 
 ## Tarihçe
 
-Months of Shame, 1. Armageddon Savaşı'ndan sonra Inquisition'ın hayatta kalanları 'temizlemesi' ve Space Wolves'un bu kirli işe direnişi anlatılan gizli İmparatorluk krizidir; Logan Grimnar'ın Inquisition'a karşı durması efsanevidir.
+Months of Shame, İmparatorluk tarihindeki en utanç verici ve en gizli olaylardan biridir. Bu olay, Space Wolves ve Inquisition arasındaki çatışma olarak başladı; Inquisition, Space Wolves'un bir operasyonu sırasında gösterdiği tavırdan rahatsız oldu ve iki güç arasında büyük bir anlaşmazlık çıktı. Months of Shame sırasında İmparatorluk, kendi içindeki en büyük güçler arasındaki çatışmayı yaşadı; bu, İmparatorluk'un en büyük trajedisinin kendi içindeki bölünmeler olduğunu gösterdi. Olay, Space Wolves ve Inquisition arasındaki ilişkilerin uzun süre gergin kalmasına neden oldu.
 
 -# Kaynaklar: *Fandom wiki*

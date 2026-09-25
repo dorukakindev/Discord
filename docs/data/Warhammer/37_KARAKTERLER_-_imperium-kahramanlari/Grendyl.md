@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/59/GrendylHologram.webp/
 
 ## Tarihçe
 
-Grendyl, Ordo Hereticus'un Inquisitor'üdür; Hive World Atoma Prime'daki Nurgle Admonition kültünün istilasını temizlemek için gönderilen tüm Acolyte ve Inquisition güçlerinin komutanıdır. Darktide'ın 'görünmeyen patronu' olarak Rogue Trader firkateyni Mourningstar'dan operasyonu yönetir — kendisi hiç görünmez ama ekibi sahada; 'gölgedeki inanç' figürü.
+Grendyl, Inquisition'ın en ünlü ve en gizli üyesidir; Ordo Hereticus'un en deneyimli Inquisitor'u olan ve Atoma Prime'daki Hive Tertium'u Chaos'tan temizleyen Grendyl, İmparatorluğun en büyük koruyucusu ve en gizli gücüdür — onlar, İmparatorluğun en ünlü ve en gizli Inquisitor'udur. Grendyl'in en büyük özelliği, onun görevidir — onlar, Hive Tertium'un en gizli savaşını yöneten ve onu Chaos'tan temizleyen en önemli Inquisitor'dur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Grendyl, hem bir Inquisitor hem de bir koruyucudur ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Grendyl'in en ünlü görevi, Darktide'daki operasyonudur — onlar, Hive Tertium'u Chaos'tan temizleyen ve en gizli operasyonun lideri olan Inquisitor'dur ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Grendyl, Inquisition'ın en ünlü ve en gizli üyesidir — onlar, bir koruyucunun ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,6 +16,4 @@ Karanlık Şehir'in tartışmasız efendisi Vect, soylu hanedanların yüzyılla
 
 ## Tarihçe
 
-Asdrubael Vect, Kabal of the Black Heart'ın Drukhari archon'ı ve Karanlık Şehir Commorragh'ın mevcut yüce overlord'udur; halkının en entrikacısı sayılır. 'Komplo'nun kendisi olarak binlerce yıl hüküm süren bu figür, komplo ile Commorragh'ın zirvesine çıkan ve onu elinde tutan figürdür — 'karanlığın efendisi' olarak Drukhari siyasetinin mutlak tepesi.
-
--# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Renegade — Andy Chambers*; *Gathering Storm II: Fracture of Biel-Tan*
+Asdrubael Vect, Drukhari'nin en ünlü ve en güçlü lideridir; Commorragh'ın — Drukhari'nin şehri — en yüksek lideri olan ve Drukhari'nin en gizli operasyonlarını yöneten Vect, Drukhari'nin en gizli ve en tehlikeli varlığıdır — onlar, Drukhari'nin en ünlü ve en güçlü lideridir. Asdrubael Vect'in en büyük özelliği, onun gücüdür — onlar, Commorragh'ın en yüksek lideridir ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Vect, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Asdrubael Vect'in en ünlü özelliği, onun Commorragh'ın lideridir — onlar, Drukhari'nin en gizli şehrinin en yüksek lideridir ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır. Asdrubael Vect, D

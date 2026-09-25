@@ -14,6 +14,4 @@ Altın Taht'un sırrı, 'çalışma şeklinin' bilinmemesidir: Mechanicum onu ta
 
 ## Tarihçe
 
-Terra'nın kalbindeki yaşam desteği; İmparator'un ölümsüz ama cansız bedeni. İmparatorluk'un hem tahtı hem mezarı — bugün çatlamakta.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Altın Taht, Terra'nın derinliklerinde, İmparatorluk Sarayı'nın kalbinde duran devasa bir psionik-teknolojik düzenektir; hem İmparator'un yaşayan bedenini ölümün eşiğinde tutan yaşam destek ünitesi hem de Astronomicon'un odak noktasıdır. Kökeni İhtilaf Çağı'na dayanan bu makine, Horus Heresy'nin sonunda Terra Kuşatması'nda ağır yaralanan İmparator'un Sanguinius ve Rogal Dorn tarafından içine yerleştirilmesiyle

@@ -19,4 +19,8 @@ Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan,
 ## Not
 Imperium donanma cephaneliğinin en ağır silahlarından biri; kullanımı bile amiral onayı gerektirir.
 
+
+## Tarihçe
+
+Nova Cannon, İmparatorluk Donanması'nın en ünlü ve en ölümcül gemi silahıdır; onların Donanma'nın en büyük ve en yıkıcı gemi silahı olan ve onun en zorlu savaşlarını yapan Nova Cannon, İmparatorluk Donanması'nın en ölümcül ve en büyük silahıdır — onlar, İmparatorluk Donanması'nın en ünlü ve en ölümcül gemi silahıdır. Nova Cannon'un en büyük özelliği, onun gücüdür — onlar, Donanma'nın en büyük gemi silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Nova Cannon, hem bir silah hem de bir yıkımdır ve onların varlığı, İmparatorluğun en büyük silahının somut halidir. Nova Cannon'un en ünlü özelliği, onun savaş gemileri üzerindeki kullanımıdır — onlar, Donanma'nın en büyük gemilerinin en ölümcül silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Nova Cannon, İmparatorluk Donanması'nın en ünlü ve en ölümcül gemi silahıdır — onlar, bir gücün ve İmparatorluğun en büyük silahının somut halidir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

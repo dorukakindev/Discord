@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/29/Crimson_hunters_rune.
 
 ## Tarihçe
 
-Crimson Hunters, Space Marines'ın 'kızıl avcı' chapter türevlerinden biridir; hava-savaş veya avcı görevlerinde uzmanlaşmış bu birlikler, 'kızıl hedef' doktriniyle savaşır.
+Crimson Hunters, Aeldari'nin Aspect Warrior'larından biridir ve hava üstünlüğü üzerine uzmanlaşmıştır; pilotları savaş uçağı kokpitinde doğar ve ölür — onlar için cockpit, evdir ve savaşın kendisi bir danstır. Shrine'larında öğretilen felsefe basittir: gökyüzü Aeldari'nindir ve Crimson Hunter'ın görevi bunu herhangi bir düşman pilotuna kanıtlamaktır. Nightshade Interceptor veya Hemlock Wraithfighter kokpitlerinde, düşman hava kuvvetlerini silip süpürürler; darbe indirir, tırmanır ve kaybolur — yakalanamazlar çünkü onlar havanın kendisidir. Crimson Hunter'lar diğer Aspect'lerden farklı olarak bireysel kahramanlığa inanır — bir pilot tek başına savaşı çevirebilir ve en ünlüleri (örneğin Iyanden'in Crimson Hunters'ı) tek seferde onlarca düşman uçağı düşürmüştür. Eldari düşüşünden sonra onların rolü daha da kritikleşti — Craftworld'ün gökyüzü savunması tamamen onların omzundadır.
 
 -# Kaynaklar: *Craftworlds Codex*

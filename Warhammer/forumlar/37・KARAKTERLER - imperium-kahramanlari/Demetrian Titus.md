@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Warhammer_40%2C000-_5
 
 ## Tarihçe
 
-Demetrian Titus — 'Ultramar'ın Muhafızı' — Ultramarines 2. Bölüğü'nün eski Firstborn kaptanı ve komutanı, sonradan Primaris Marine teğmeni olarak yaklaşık 300 yıl İmparatorluk için savaştı. Graia'nın Kurtuluşu'nda Nemeroth'u alt eden figür olarak ün kazandı; sonra Daemonhost şüphesiyle Inquisition'a düştü ve yüzyıl süren sürgünün ardından Primaris olarak döndü — 'iki çağı yaşayan kaptan' olarak Space Marine serisinin kahramanı.
+Demetrian Titus, Ultramarines'in en ünlü ve en cesur kaptanıdır; İmparatorluğun en büyük savaşlarını yöneten ve onun en zorlu düşmanlarını yenen Titus, İmparatorluğun en saygın ve en ölümcül Space Marine'lerinden biridir — onlar, Ultramarines'in en ünlü ve en cesur üyesidir. Demetrian Titus'un en büyük özelliği, onun cesaretidir — onlar, Ultramar'ın en zorlu savaşlarını yöneten ve onun en büyük zaferlerini kazanan komutandır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Titus komutası, bir savaşın en kritik anının en büyük avantajıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Demetrian Titus'un en ünlü görevi, Chaos'a karşı savaşmasıdır — onlar, İmparatorluğun en tehlikeli düşmanlarını yenen ve onu koruyan komutanlardır ve onların varlığı, Ultramarines'in en büyük zaferinin kanıtıdır. Demetrian Titus, Ultramarines'in en ünlü ve en cesur kaptanıdır — onlar, bir kaptanın cesaretinin ve Ultramarines'in onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

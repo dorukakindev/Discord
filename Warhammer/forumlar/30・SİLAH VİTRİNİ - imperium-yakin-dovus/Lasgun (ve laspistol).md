@@ -15,12 +15,10 @@ Değiştirilebilir bir enerji hücresiyle (power pack) beslenen, yoğunlaştır�
 
 ## Tarihçe
 
-Great Crusade'in Imperial Army'sinden bugünkü Astra Militarum'a dek insan piyadesinin temel silahı olmuştur. Sayısız Forge World ve dünya kendi pattern'ını üretir; Cadian birlikleri Kantrael pattern'ı, Death Korps of Krieg ise Lucius pattern'ı ile anılır. Tabanca biçimi olan laspistol subayların, mürettebatın ve pek çok ajanın silahıdır.
+Lasgun ve Laspistol, İmparatorluğun en yaygın ve en temel silahlarıdır; lazer enerjisi fırlatan ve basitliği, güvenilirliği ve ucuzluğuyla trilyonlarca askerin ana silahı olan, İmparatorluğun gerçek gücüdür. Lasgun'un çalışması basittir — bir lazer hücresi, enerjiyi paket halinde depolar ve tetik çekildiğinde tek atımlık lazer ışını fırlatır; bir lasgun atışı, bir insanın gövdesini deler veya bir Ork'un zırhını açar ve lasgun'un en büyük avantajı, onun basitliğidir — bir lasgun, çamurda, suda veya uzayda bile çalışır. Laspistol, lasgun'un küçük varyantıdır — bir subayın veya bir savaşçının yedek silahıdır ve onun küçüklüğü, onu her durumda kullanılabilir kılar. Lasgun, İmparatorluğun ruhudur — onun atışı, trilyonlarca askerin sesi ve İmparatorluğun en basit ama en güçlü cevabıdır.
 
 ## Teknik / Biyolojik Özellikler
 
-Hareketli parçası az, bakımı kolay ve sağlam bir silah olarak tanımlanır; bu yüzden en ücra dünyalarda bile üretilip onarılabilir. Bazı kaynaklar enerji hücrelerinin sahada yeniden şarj edilebildiğini anlatır. Daha güçlü akrabası hellgun (hot-shot lasgun) ayrı bir kayıttır.
-
--# Kaynaklar: *Codex: Astra Militarum — 10th Edition*; *First and Only — Dan Abnett*; *Cadia Stands — Justin D. Hill*
+Hareketli parçası az, bakımı kolay ve sağlam bir silah olarak ta
 
 -# İlişkili kayıtlar: <#1551753458779029565>, <#1551812139935866891>, <#1551815439078658154>, <#1551753449878724689>

@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d5/HH_IF_Cpt_Alexis_Polu
 
 ## Tarihçe
 
-Alexis Polux, Crimson Fists chapter'ının ilk Chapter Master'ı ve İkinci Founding öncesi Imperial Fists lejyonunun kahramanıydı. Büyük Sefer'de IF'nin 405. Bölüğü'nün kaptanı olarak hem büyüklüğe yükseltilen hem de büyük kederle lanetlenen benzersiz bir savaşçıydı — Phall Savaşı'nda Perturabo'nun Iron Warriors'ı karşısında hayatta kalan ve İkinci Founding'de yeni chapter'ın başına geçen figür. 'Yenilmezliğin mirasını' taşıyan son adam.
+Alexis Polux, Imperial Fists'in en ünlü ve en onurlu Captain'ıdır; Crimson Fists'in ilk Chapter Master'ı olan ve Büyük Haçlı Seferi'nin sonunda Imperial Fists'in en önemli savaşçısı olan Polux, İmparatorluğun en saygın ve en onurlu savaşçısıdır — onlar, Imperial Fists'in en ünlü ve en onurlu üyesidir. Alexis Polux'un en büyük özelliği, onun onurudur — onlar, Crimson Fists'in ilk Chapter Master'ıdır ve onların varlığı, Imperial Fists'in en büyük onurunun kanıtıdır; bir Polux komutası, bir Chapter'ın doğuşunun en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Alexis Polux'un en ünlü özelliği, onun Crimson Fists'in kurucusudur — onlar, bir Chapter'ın ilk lideridir ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Alexis Polux, Imperial Fists'in en ünlü ve en onurlu Captain'ıdır — onlar, bir onurun ve İmparatorluğun en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

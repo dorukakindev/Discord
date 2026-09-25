@@ -16,8 +16,4 @@ Mükemmelliği kutsal bir yükümlülük sayan Legion; Emperor'un adını taşı
 
 ## Tarihçe
 
-Laer'deki savaşta ele geçirilen bıçak aracılığıyla Fulgrim'e sızan etki, Legion'ın ruhunu içten kemirdi. Istvaan V'te Fulgrim, eski dostu Ferrus Manus'u kendi eliyle öldürdü. Heresy'nin ardından Eye of Terror'a çekilen Legion, Skalathrax'ta World Eaters'la yaşanan boğazlaşmadan sonra dağınık savaş gruplarına bölündü. Daemon Prince olarak Warp'ta kaybolan Fulgrim'in güncel anlatıdaki dönüşü, Legion'ı yeniden bir araya toplamaktadır.
-
--# Kaynaklar: *Fulgrim — Graham McNeill*; *Codex: Emperor's Children*
-
--# İlişkili kayıtlar: <#1551813750305198101>, <#1551650243865477191>, <#1551754688008032321>, <#1551814951365115956>
+Emperor's Children (III Legion), Fulgrim'in oğullarıdır; mükemmellik, sanat ve aşırılık üzerine kurulu ve Horus Heresy'de Slaanesh'e düşen ilk Legion'dur — onların savaşı, hem estetik hem de aşırı bir zevk arayışıdır. Emperor's Children'ın düşüşü, Fulgrim'in trajedisidir — onların primarch'ı, mükemmellik arayışında Slaanesh'in tuzağına düştü ve Legion'u, aşırılık ve zevkin kölesi oldu; ve onların savaşı, artık sadece öldürmek değil, en güzel ve en aşırı deneyimi yaşamaktır. Emperor's Children'ın savaşı, bir performanstır — onlar savaşta dans eder, müzik yapar ve düşmanını en sanatsal şekilde öldürür; bir Noise Marine'in sonic saldırısı, hem silah hem de senfonidir ve onların savaşı, Slaanesh'in tapınağıdır. Emperor's Children,

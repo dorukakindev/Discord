@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/65/HHL_Horus_Aximand.png
 
 ## Tarihçe
 
-Horus Aximand ('Küçük Horus'), Büyük Sefer'in sonunda ve Heresy başında Luna Wolves — sonradan Sons of Horus — lejyonunun 5. Bölük kaptanıydı; Cthonia doğumluydu ve Mournival'ın (Horus'un iç konseyinin) üyesiydi. Primarch'ına olan sadakati onu ihanetin derinliklerine sürükledi — 'Warmaster'ın yüzüne benzeyen adam' olarak Heresy'nin trajik sadık-ama-hain figürlerinden biridir.
+Horus Aximand ('Little Horus'), Sons of Horus'un en ünlü ve en trajik kaptanıdır; Horus'un en sadık ve en tehlikeli takipçisi olan ve onun en gizli operasyonlarını yöneten Aximand, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Sons of Horus'un en trajik ve en önemli üyesidir. Horus Aximand'ın en büyük özelliği, onun trajedisidir — onlar, Horus'un en sadık takipçisinin en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Aximand, hem bir savaşçı hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Horus Aximand'ın en ünlü özelliği, onun 'Little Horus' lakabıdır — onlar, Horus'un en sadık ve en tehlikeli takipçisidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Horus Aximand, Sons of Horus'un en ünlü ve en trajik kaptanıdır — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

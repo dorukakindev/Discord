@@ -15,12 +15,6 @@ Alev ve kemik motifleriyle bezeli siyah zırhlar içinde, hayalet gibi beliren v
 
 ## Tarihçe
 
-Legion of the Damned'ın görünümleri Imperium'un farklı cephelerinde kaydedilmiştir; 13th Black Crusade sırasında Cadia çevresindeki çarpışmalarda da anılırlar. Noctis Aeterna'dan sonra da görüldüklerine dair kayıtlar vardır.
+Legion of the Damned, İmparatorluğun en gizemli ve en ürkütücü savaş gücüdür; iskelet görünümlü, alevli ve neredeyse hayalet gibi savaşan Space Marine'lerin oluşturduğu ve kökeni tam olarak bilinmeyen bir birimdir — onlar, İmparatorluğun en karanlık saatlerinde ortaya çıkar ve savaş bittiğinde kaybolurlar. Legion of the Damned'in kökeni tartışmalıdır — bazıları onların ölen Space Marine'lerin ruhları olduğunu, bazıları onların Fire Hawks Chapter'ının hayaletleri olduğunu ve bazıları onların İmparator'un kendi ölü ordusunu olduğunu söyler; ama bilinen tek şey, onların İmparatorluğun en zorlu anlarında ortaya çıktığı ve düşmanı hem fiziksel hem de psişik olarak yok ettiğidir. Legion of the Damned'in savaşı, sessiz ve ölümcüldür — onlar bağırmaz, konuşmaz ve durmazlar; onların zırhı alevler içinde, gözleri ise boşluktur ve onların varlığı, düşmanın en korkulan kabusudur. Legion of the Damned, İmparatorluğun en büyük gizemidir — onlar kim oldukları bilinmeyen ama her zaman doğru zamanda gelen hayalet savaşçılardır.
 
-## Kanon Notu
-
-En eski anlatım, onları M41'de Warp'ta kaybolan Fire Hawks Chapter'ının kalıntıları olarak sunar; sonraki yayınlar bunu kesinleştirmeyip Warp kökenli başka açıklamaları da evren içi teori olarak aktarır.
-
--# Kaynaklar: *Codex: Legion of the Damned — 6th Edition*; *Legion of the Damned — Rob Sanders*
-
--# İlişkili kayıtlar: <#1551642690926420019>, <#1551809666454134928>, <#1551812139935866891>
+## Kanon

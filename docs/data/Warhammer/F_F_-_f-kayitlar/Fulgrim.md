@@ -53,4 +53,8 @@ Fulgrim, *Realm of Chaos* döneminde (1988–1990) Slaanesh'e bağlı hain Prima
 **Kaynaklar:** *Fulgrim — Graham McNeill*; *Angel Exterminatus — Graham McNeill*; *Fulgrim: The Palatine Phoenix — Josh Reynolds*; *Fulgrim: The Perfect Son — Jude Reid*; *Dark Imperium — Guy Haley*; *Codex: Emperor's Children — 10th Edition*
 **Çapraz:** <#1551813750305198101>, <#1551754688008032321>, <#1551649069817008243>, perturabo, horus-lupercal, <#1551808704901423186>, <#1551818097504157699>, <#1551814951365115956>
 
+## Tarihçe
+
+Fulgrim, Emperor's Children'ın en ünlü ve en trajik primarch'ıdır; Chemos'un — Emperor's Children'ın ev gezegeni — en güzel ve en mükemmel figürü olan ve Emperor's Children'ı Chaos'a çeke
+
 ​

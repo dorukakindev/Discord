@@ -12,6 +12,6 @@ Harlequinler, Aeldari mitolojisini ve özellikle ırklarının düşüşünün v
 
 ## Tarihçe
 
-Harlequins (Rillietann), Aeldari'nin maskeli dansçı-askerleridir; Black Library'nin koruyucuları ve Laughing God Cegorach'ın hizmetkârları. Tüm Aeldari kollarından bağımsız hareket ederler — sanat ve savaşın birleştiği, ırkın en gizemli kesimi.
+Harlequins, Aeldari ırkının en gizemli ve en tehlikeli kesimidir; Cegorach — Laughing God — 'a adanmış ve hiçbir Craftworld'e bağlı olmayan özgür ruhlu savaşçılardır — onlar, hem savaşçı hem de performans sanatçısıdır ve onların savaşı, hem dans hem de ölümdür. Harlequins'in en büyük özelliği, onların Masque'larıdır — her Harlequin, bir karakter oynar ve onun savaşı, o karakterin rolüdür; bir Shadowseer, hem büyücü hem de aktördür ve onun savaşı, hem görsel hem de psişik bir şovdur. Harlequins'in en ünlü özelliği, onların özgürlüğüdür — onlar, hiçbir Craftworld'e veya hiçbir kurumsal yapıya bağlı değildir; onlar, sadece Cegorach'a ve onun sonsuz oyununa hizmet ederler. Harlequins, Aeldari ırkının en gizemli ve en tehlikeli kesimidir — onlar, ölümün ve sanatın birleşimidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

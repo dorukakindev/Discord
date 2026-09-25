@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a0/Bloodclaw_Pack_Markin
 
 ## Tarihçe
 
-Bran Redmaw — 'Lanetli Lord', 'Wulfen-Kin', 'Kanlı Avcı' — Space Wolves'un on iki Wolf Lord'undan biridir; ama diğer 11 tarafından şüpheyle bakılır çünkü bölüğü 'lekeli' sayılır. Wulfen Laneti'ni taşıyan Space Wolves'un en çok onun bölüğünde savaşması, Redmaw'ı hem tehlikeli hem değerli kılar — 'canavarın efendisi' olarak chapter'ın karanlık yüzünü taşıyan liderdir.
+Bran Redmaw, Space Wolves'un en vahşi ve en kanlı Wolf Lord'udur; 'bloody-handed warrior' olarak bilinen ve düşmanlarının kafataslarından höyükler yapan Bran, Space Wolves'un en vahşi ve en kanlı savaşçısıdır — onlar, Space Wolves'un en vahşi ve en kanlı üyesidir. Bran Redmaw'ın en büyük özelliği, onun vahşetidir — onlar, düşmanlarının kafataslarından höyükler yapan ve onların kanını döken en vahşi savaşçıdır ve onların varlığı, Space Wolves'un en vahşi gücünün kanıtıdır; bir Bran, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece kan ve kafatası içindir. Bran Redmaw'ın en ünlü özelliği, onun 'Redmaw' lakabıdır — onlar, Space Wolves'un en kanlı ve en vahşi savaşçısıdır ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır. Bran Redmaw, Space Wolves'un en vahşi ve en kanlı Wolf Lord'udur — onlar, bir vahşetin ve Space Wolves'un en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

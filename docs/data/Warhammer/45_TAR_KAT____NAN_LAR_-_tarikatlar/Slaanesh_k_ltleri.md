@@ -16,8 +16,6 @@ Slaanesh kültleri zevki, acıyı, sanatı ve mükemmeliyeti sınır tanımayan 
 
 ## Tarihçe
 
-Slaanesh'in doğuşu Aeldari imparatorluğunu yıktı ve tanrıya Aeldari ruhları üzerinde bir hak kazandırdı. Heresy döneminde Fulgrim'in Laer'de bulduğu kılıç, Emperor's Children'ın kusursuzluk arayışını Slaanesh'e bağlayan dönüm noktası olarak anlatılır. İnsan kültleri ise sanat çevrelerinden soylu hanelere kadar Imperium'un her katında görülür.
+Slaanesh kültleri, Chaos'un en yozlaşmış ve en tehlikeli inanç sistemlerinden biridir; onların Slaanesh'e — Chaos'un aşırılık ve zevk tanrısı — olan inançları ve onların aşırılık arayışını uygulayan gizli tarikatlardır — onlar, İmparatorluğun en yozlaşmış ve en tehlikeli iç düşmanıdır. Slaanesh kültlerinin en büyük özelliği, onların aşırılığıdır — onlar, sadece zevk için değil, en aşırı deneyimi yaşamak için çalışır; bir Slaanesh kültisti, hem bir inanan hem de bir hedonisttir ve onların varlığı, İmparatorluğun en yozlaşmış düşmanının kanıtıdır. Slaanesh kültlerinin en ünlü özelliği, onların 'mükemmellik' arayışıdır — onlar için mükemmellik, aşırılığın kendisidir ve onların varlığı, Chaos'un en yozlaşmış gücünün kanıtıdır. Slaanesh kültleri, İmparatorluğun en yozlaşmış ve en tehlikeli inanç sistemidir — onlar, aşırılığın ve zevkin birleşimidir.
 
--# Kaynaklar: *Realm of Chaos: Slaves to Darkness*; *Fulgrim — Graham McNeill*; *Codex: Emperor's Children — 10th Edition*
-
--# İlişkili kayıtlar: <#1551754688008032321>, <#1551813750305198101>, <#1551814105046851615>, <#1551650243865477191>
+-#

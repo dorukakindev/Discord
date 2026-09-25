@@ -5,14 +5,23 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Resurrection_Orb.jpg/
 
 -# *Diriliş Küresi*
 
-Necron soylularının taşıdığı kutsal küre; çevresindeki düşmüş Necron'ların reanimasyon protokollerini tetikleyerek onları yeniden ayağa kaldırır. Ölümün Necron için neden geçici olduğunun simgesi.
+Necron soylularının taşıdığı gizemli artefakt; bilinmeyen bir maddeden yapılmış, zümrüt yeşili parlayan bir küredir. Taşıyıcının bir işaretiyle çevresindeki Necron'ların yaşayan metal bedenlerindeki onarım devrelerine enerji akıtır — parçalanmış savaşçıların dağılmış kalıntıları sürünerek bir araya gelir ve savaşa hazır biçimde ayağa kalkar.
 
-
-## Teknik ve Kullanım
-Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
+- **Kategori:** Savaş donanımı / destek artefaktı — <#1551629117542113372>
+- **Fraksiyon:** Necrons
+- **Dönem:** Kadim dönemden Era Indomitus'a
+- **Köken:** İlk Resurrection Orb olduğu düşünülen *Ebediyet Küresi* (Orb of Eternity), Ormandus dünyasında ilkel bir tapınakta binlerce yıl durdu; yerli halk onun teknolojilerini onaran sözde ilahi gücüne tapındı. Triarch Praetorian'ları durumu düzelttikten sonra küre, layık görülen Necron soylularına bir armağan olarak verilmeye başlandı.
+- **Teknik / Biyolojik Özellikler:** İçinde minyatür bir güneşe benzer bir füzyon tepkimesi yaratır; Necron'ların yaşayan metali (necrodermis) bu güneş radyasyonuyla beslenir ve hâlihazırda efsanevi olan rejenerasyon yetisi katlanarak artar.
+- **Bilinen Kullanıcılar / Operatörler:** Enderliği yüzünden yalnızca Necron Lord'ları ve Overlord'ları taşır; genellikle ana muharebe hattının ortasında konumlanarak yaklaşık elli metrelik bir alanı neredeyse yok edilemez kılarlar.
+- **Önemli Olaylar:** Ormandus'daki tapınak olayı — kürenin yerli halk tarafından tanrısal onarım gücü sanılarak tapınma görmesi.
+- **Kanon Notu:** Bir silah değil, canlandırma aracıdır; Necron'un "geri dönüş" doktrininin elle tutulur biçimidir.
 
 ## Tarihçe
 
-Necron'un gizemli viridian küresi; çevredeki düşmüş Necronların rejenerasyon devrelerini hızlandırır ve dağılmış parçaları birleştirip ayağa kaldırır. Ordunun 'geri dönüş' makinesi — ölümsüz ırkın ikinci hayatı.
+Ölümün Necron için neden geçici olduğuna bu küreden iyi örnek bulunamaz: ışımasının kapsadığı alanda düşen savaşçılar dirilir, dağılmış necrodermis parçaları kendini örer ve makine asker tekrar savaşa döner. Soylular
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+küreyi muharebe hattının ortasında tutar; alanının kavradığı lejyon neredeyse yok edilemez hâle gelir. Necron'un ölümsüz ordusunun "ikinci hayatı", işte bu küçük yeşil güneşte saklıdır.
+
+-# Kaynaklar: Warhammer 40,000 — Fandom ("Resurrection Orb"); Lexicanum — "Orb of Eternity"; *Codex: Necrons* (resurrection orb donanımı)
+
+-# İlişkili kayıtlar: <#1551755172017872931>, <#1552529621709357146>, <#1551817244844232727>

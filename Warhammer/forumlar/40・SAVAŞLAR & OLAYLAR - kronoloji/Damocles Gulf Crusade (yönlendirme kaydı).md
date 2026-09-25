@@ -16,8 +16,6 @@ Imperium'un T'au Empire'la ilk büyük askerî çatışması. Tam madde <#155181
 
 ## Tarihçe
 
-Crusade filosu Gulf'u geçip ilk çarpışmalarda üstünlük sağladı, ancak Dal'yth Prime'daki kuşatma bir yıpratma savaşına dönüştü. Hive Fleet Behemoth'un Ultramar'a yaklaşmasıyla crusade geri çekildi ve Water Caste'ın önerdiği ateşkesle savaş sona erdi.
+Damocles Gulf Crusade, İmparatorluğun en büyük ve en önemli T'au savaşıdır; İmparatorluğun T'au Empire'a karşı başlattığı ve Dal'yth'in savunmasıyla sonuçlanan en büyük savaştır — onlar, İmparatorluğun en büyük xeno savaşının ve en büyük yenilgisinin somut halidir. Damocles Gulf Crusade'in en büyük özelliği, onun yenilgisidir — onlar, İmparatorluğun T'au'ya karşı en büyük yenilgisidir ve onların varlığı, İmparatorluğun en büyük dersinin kanıtıdır; bir Damocles Gulf Crusade, bir imparatorluğun en büyük yenilgisinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Damocles Gulf Crusade'in en ünlü özelliği, onun Dal'yth'in savunmasıdır — onlar, T'au'nun en büyük zaferidir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır. Damocles Gulf Crusade, İmparatorluğun en büyük ve en önemli T'au savaşıdır — onlar, İmparatorluğun en büyük yenilgisinin ve en büyük dersinin somut halidir.
 
--# Kaynaklar: *Codex: Tau*; *Star of Damocles — Andy Hoare*
-
--# İlişkili kayıtlar: <#1551813361887617108>, <#1551809146850910260>, <#1551809334483361823>
+-# Kaynaklar: *

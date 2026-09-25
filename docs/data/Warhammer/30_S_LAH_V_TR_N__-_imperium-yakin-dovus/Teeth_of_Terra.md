@@ -11,6 +11,6 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 
 ## Tarihçe
 
-Teeth of Terra — Kör Suikastçı Culexus'un değil, İmparatorluk tarihinin bilinen zincir kılıç efsanelerinden biri; zincir dişleri tek geçişte seramidi parçalar. Zincir silahları 'saygısız' sayılır çünkü kesmez — parçalar ve iç organları dağıtır.
+Teeth of Terra, İmparatorluğun en eski ve en efsanevi kılıçlarından biridir; İmparator'un Büyük Haçlı Seferi sırasında kullandığı veya ona adanmış devasa bir power sword'dur ve onun kesimi, bir Titan'ın zırhını veya bir Greater Daemon'u tek hamlede keser. Teeth of Terra'nın bıçağı, İmparatorluğun en eski ve en kutsal metalinden dövülmüştür — Dark Age of Technology'den kalma ve İmparator'un kendi psişik imzasını taşır; onu taşıyan, İmparatorluğun en yüksek onurunu alır ve onun varlığı, İmparator'un bizzat savaşa girdiğinin kanıtıdır. Teeth of Terra'nın tarihi, İmparatorluğun kuruluşuna dayanır — onunla kazanılan savaşlar, İmparatorluğun en kutsal sayfalarıdır; ve onu kaybetmek, İmparatorluğun en büyük utancıdır. Teeth of Terra, İmparatorluğun ruhunun bıçağıdır — onun kesimi, İmparator'un iradesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

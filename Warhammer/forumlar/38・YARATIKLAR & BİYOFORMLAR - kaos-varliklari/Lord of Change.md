@@ -15,12 +15,6 @@ Rengârenk tüylü kanatları, kuş başı ve uzun asasıyla Lord of Change, hem
 
 ## Tarihçe
 
-Lord of Change — 'Yüce Değiştirici', 'Tüylü Lord', 'İzleyen', 'Tzeentch'in Gözü' — Değişim ve büyü tanrısının sinsi Greater Daemon'ıdır; imkânsız bir kâbustan doğan bu varlıklar, çok yüzlü, kanatlı dev kuş-figürlerdir. Tzeentch'in iradesinin en doğrudan kanalı olarak 'entrikanın bedeni'dir — söylediği her kelime bir tuzak.
-
-## Teknik / Biyolojik Özellikler
-
-Warpflame ve çeşitli büyü disiplinlerine hâkimiyet; kanatlarıyla uçabilen dev bir beden; kimi anlatımlarda ölümlülerin kaderini görebilen bir sezgi. Bedenleri kalıcı değildir; Tzeentch'in doğasına uygun olarak değişkendir.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Thousand Sons*
+Lord of Change, Tzeentch'in en ünlü ve en güçlü Greater Daemon'ıdır; Tzeentch'in en büyük ve en güçlü daemon'ı olan ve onun en gizli planlarını yöneten Lord of Change, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Tzeentch'in en ünlü ve en güçlü daemon'udur. Lord of Change'in en büyük özelliği, onun entrikasıdır — onlar, Tzeentch'in en büyük entrikacısıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Lord of Change, hem bir daemon hem de bir entrikacıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Lord of Change'in en ünlü özelliği, onun kuş görünümüdür — onlar, Tzeentch'in en büyük ve en kuş benzeri daemon'udur ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır. Lord of Change, Tzeentch'in en ünlü ve en güçl
 
 -# İlişkili kayıtlar: <#1551742261522333726>, <#1551714793138954350>, <#1551588063615000637>, <#1551588014940098713>

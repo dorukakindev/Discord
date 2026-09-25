@@ -16,8 +16,4 @@ Etin ve acının sanatında ustalaşmış bir Master Haemonculus. Kaynaklar onu 
 
 ## Tarihçe
 
-Urien Rakarth, Prophets of Flesh coven'ının Drukhari Master Haemonculus'udur — 'İşkencelerin Heykeltıraşı'. Beden manipülasyonu ve anatomik heykel alanında yozlaşmış deha olarak fleshcrafter yeteneği efsanevidir; 'et ve acının sanatçısı' olarak Commorragh'ın en korkulan figürlerinden biridir — kurbanlarını 'güzelleştiren' canavar.
-
--# Kaynaklar: *Codex: Dark Eldar*; *Codex: Drukhari*
-
--# İlişkili kayıtlar: <#1551813105166712966>, commorragh, asdrubael-vect, <#1551809699312181339>
+Urien Rakarth, Drukhari'nin en ünlü ve en korkulan Haemonculus'udur; 'Sculptor of Torments' olarak bilinen ve Prophets of Flesh'in lideri olan Rakarth, Drukhari'nin en eski ve en acımasız üyesidir — onlar, Drukhari'nin en gizli ve en tehlikeli varlığıdır. Urien Rakarth'ın en büyük özelliği, onun acımasızlığıdır — onlar, işkence ve deformasyonun en büyük ustasıdır ve onların yaratıkları — Wracks, Grotesques — Drukhari'nin en korkulan silahlarıdır; bir Urien Rakarth, hem bir sanatçı hem de bir canavardır ve onların varlığı, Drukhari'nin en karanlık gücünün somut halidir. Urien Rakarth'ın en ünlü özelliği, onun ölümsüzlüğüdür — onlar, binlerce yıldır yaşayan ve kendi bedenini sayısız kez yeniden yaratan en eski H

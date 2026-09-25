@@ -23,6 +23,10 @@ Heresy'nin geri kalanında Raven Guard, Iron Hands ve Salamanders'ın artıklar�
 ## Heresy Sonrası
 Codex Astartes'in ardından Legion, Raven Guard ve ardıl Chapter'lara bölündü. Chapter geleneğine göre Corax, Heresy'nin ve kendi deneylerinin ağırlığı altında giderek içine kapandı; sonunda Deliverance'tan ayrılarak Eye of Terror'a yöneldi ve bir daha geri dönmedi. Rivayete göre ardında bıraktığı son söz "Nevermore" olmuştur. Corax'ın akıbeti yayımlanmış kanonda belirsizdir.
 
+## Tarihçe
+
+Raven Guard (XIX Legion), Corvus Corax'ın oğullarıdır; gizlilik, sabotaj ve gerilla savaşı üzerine uzmanlaşmış ve Horus Heresy'de en ağır kayıpları veren Legion'dur — onların savaşı, gölgelerde ve sessizlikte yapılır. Raven Guard'ın savaş doktrini, Corax'ın isyan geçmişinden doğar — onlar görünmezliği sever, stealth ve sabotajı tercih eder ve onların savaşı, düşmanın en zayıf anında, en beklenmedik
+
 ## Yapı ve Organizasyon
 Raven Guard temelde Codex'e bağlı bir örgütlenmeye sahiptir, ancak bu yapıyı kendi savaş anlayışına göre esnek biçimde uygular. Scout'lar ve sızma birlikleri Chapter içinde özellikle önemlidir; Raven Guard'ın company kaptanları geleneksel olarak **Shadow Captain** unvanını taşır. Chapter Master **Master of Shadows** olarak anılır. Chapter'ın merkezi Deliverance olmaya devam eder.
 

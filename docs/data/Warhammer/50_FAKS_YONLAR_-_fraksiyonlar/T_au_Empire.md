@@ -16,8 +16,4 @@ Greater Good, yani T'au'va idealini galaksiye taşıdığını ileri süren, gen
 
 ## Tarihçe
 
-Sphere Expansion'larla sınırlarını genişlettiler. M41'de Damocles Gulf Crusade'de Imperium'la büyük çatıştılar; Farsight'ın ayrılışı ve Farsight Enclaves'in kuruluşu, imparatorluk içinde bir yarık yarattı. Great Rift sonrasında Fifth Sphere Expansion başlatıldı.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Farsight: Crisis of Faith — Phil Kelly*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>, <#1551813361887617108>, <#1551643950014795948>
+T'au Empire, WH40K evreninin en genç ve en idealist gücüdür; Greater Good felsefesiyle birleşmiş ve teknolojiyle güçlenmiş bir xeno imparatorluğudur — onlar, İmparatorluğun en büyük rakibi ve en büyük alternatifidir. T'au Empire'ın en büyük özelliği, onların Greater Good felsefesidir — onlar, tüm türlerin birlikte yaşamasını ve çalışmasını savunur; bir T'au, sadece bir savaşçı değil, aynı zamanda bir filozoftur ve onların savaşı, hem askeri hem de ideolojik bir seferdir. T'au Empire'ın en ünlü özelliği, onların teknolojisidir — onlar, Battlesuit'leri ve drone'larıyla savaşır ve onların teknolojisi, İmparatorluğun bile anlayamayacağı kadar gelişmiştir; bir T'au Battlesuit, bir Space Marine'i bile yenebilir. T'au Empire, İmparatorluğun en büyük rakibi ve en büyük alternatifidir — o

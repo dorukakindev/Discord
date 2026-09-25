@@ -10,6 +10,6 @@ Gretchin (tekil Grot, aşağılayıcı adıyla Runt), Orkoid ırkının daha kü
 
 ## Tarihçe
 
-Ork ekolojisinin en alt basamağı; ufak, sinsi, tekme atılan köle-cinler. 'Grot' olarak da bilinirler — orduda cephane taşıyıcısı ve kalkan olarak kullanılırlar.
+Gretchin, Ork'ların en küçük ve en zayıf birliğidir; onların Ork'ların en küçük ve en zayıf yaratığı olan ve onun en gizli operasyonlarını yapan Gretchin, Ork'ların en küçük ve en zayıf varlığıdır — onlar, Ork'ların en küçük ve en zayıf birliğidir. Gretchin'in en büyük özelliği, onların küçüklüğüdür — onlar, Ork'ların en küçük ve en zayıf yaratığıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Gretchin, hem bir yaratık hem de bir köledir ve onların varlığı, Ork'ların en büyük gücünün somut halidir. Gretchin'in en ünlü özelliği, onların Runtherd tarafından yönetilmesidir — onlar, Ork'ların en küçük ve en zayıf birliğinin en gizli yöneticisinin emrindeki yaratıklardır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Gretchin, Ork'ların en küçük ve en zayıf birliğidir — onlar, bir kölenin ve Ork'ların en büyük gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

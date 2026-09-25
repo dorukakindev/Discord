@@ -16,8 +16,6 @@ Prince Yriel'in kuşandığı mızraktır. Taşıyıcısına olağanüstü bir g
 
 ## Tarihçe
 
-Iyanden filosunun başında parlak bir zafer kazanıp craftworld'ü savunmasız bıraktığı gerekçesiyle sürgüne giden Yriel, Eldritch Raiders adlı korsan filosunu kurdu. Hive Fleet Kraken Iyanden'e çöktüğünde filosuyla geri dönen Yriel, bu savaşta Spear of Twilight'ı kuşandı ve Tyranid saldırısının kırılmasında belirleyici rol oynadı. Mızrağın onu tüketişi, Iyanden'in kurtuluşunun bedelinin bir parçası olarak anlatılır.
+Spear of Twilight, Aeldari'nin en ünlü ve en gizli relic'idir; bir Aeldari Phoenix Lord'un — Aeldari'nin efsanevi savaşçıları — kullandığı ve onun en büyük savaşlarının simgesi olan bir mızraktır — onlar, Aeldari'nin en ünlü ve en gizli hazinesidir. Spear of Twilight'ın en büyük özelliği, onun gücüdür — onlar, bir Phoenix Lord'un en güçlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Spear of Twilight kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Spear of Twilight'ın en ünlü özelliği, onun 'Alacakaranlık Mızrağı' anlamıdır — onlar, bir Phoenix Lord'un en gizli silahıdır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır. Spear of Twilight, Aeldari'nin en ünlü ve en gizli relic'idir — onlar, bir Phoenix Lord'un gücünün ve Aeldari'nin gizli gücünün somut halidir.
 
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Codex: Craftworlds — 8th Edition*
-
--# İlişkili kayıtlar: <#1551810727445004339>, <#1551812290439942255>, <#1551809334483361823>, <#1551815033518948404>
+-# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Codex:

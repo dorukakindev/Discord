@@ -16,8 +16,4 @@ Ork'lar bir araya gelip savaşa coştukça aralarında büyüyen bir enerji alan
 
 ## Tarihçe
 
-Tarihin büyük Ork seferleri, özellikle Ghazghkull Mag Uruk Thraka'nın Armageddon'a yönelttiği Waaagh!'lar, bu olgunun Imperial kayıtlardaki en bilinen örnekleridir. Ghazghkull, ağır bir baş yarasının ardından Gork ve Mork'tan geldiğine inandığı vizyonlar gördüğünü ilan ederek kendini onların peygamberi saydı; bu, evren içi bir iddiadır.
-
--# Kaynaklar: *Codex: Orks — 10th Edition*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*; *Warhammer 40,000 Core Book — 10th Edition*
-
--# İlişkili kayıtlar: <#1551814495138091013>, <#1551759766966116383>, <#1551643990196232303>, <#1551818131679215728>
+Waaagh!, Ork'ların en ünlü ve en gizli inanç sistemidir; Ork'ların kolektif psişik enerjisi olan ve onların en büyük gücü olan Waaagh!, Ork'ların en gizli ve en önemli gücüdür — onlar, Ork'ların en ünlü ve en gizli inanç sistemidir. Waaagh!'ın en büyük özelliği, onun kolektifliğidir — onlar, Ork'ların kolektif psişik enerjisidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Waaagh!, hem bir enerji hem de bir savaş çağrısıdır ve onların varlığı, Ork'ların en büyük gücünün somut halidir. Waaagh!'ın en ünlü özelliği, onun Ork'ların savaş çağrısıdır — onlar, Ork'ların en büyük savaşlarının başlangıcıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Waaagh!, Ork'ların e

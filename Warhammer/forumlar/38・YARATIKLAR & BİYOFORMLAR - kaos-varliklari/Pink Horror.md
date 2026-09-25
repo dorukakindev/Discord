@@ -15,5 +15,4 @@ Pink Horror'lar, Tzeentch'in çılgın, sürekli kıkırdayan küçük iblisleri
 
 ## Tarihçe
 
-Pink Horror ('Tzeentch'in Gıdıklayıcısı'), Tzeentch'in Lesser Daemon'udur; sürekli değişen pembe et yığını, kahkaha atan ve her öldürülüşünde iki küçük Blue Horror'a bölünen bir yaratıktır. Savaşta çıldırmış bir karnaval gibi ilerler — büyü fırlatır, çığlık atar ve mutlu bir delilikle düşmana koşar. Öldürüldüğünde iş bitmez: iki Blue Horror doğar ve onlar da öldüğünde ikişer Brimstone Horror'a bölünür — Tzeentch'in 'değişim' ilkesinin canlı paradoksudur.
--# Kaynaklar: Warhammer 40,000 —
+Pink Horror, Tzeentch'in en ünlü ve en sinsi daemon'ıdır; Tzeentch'in en küçük ve en sinsi varlığı olan ve onun en gizli operasyonlarını yapan en sinsi daemon olan Pink Horror, Chaos'un en küçük ve en sinsi varlığıdır — onlar, Tzeentch'in en ünlü ve en sinsi daemon'udur. Pink Horror'ın en büyük özelliği, onun sinsiliğidir — onlar, Tzeentch'in en küçük ve en sinsi daemon'ıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Pink Horror, hem bir daemon hem de bir sinsi güçtü

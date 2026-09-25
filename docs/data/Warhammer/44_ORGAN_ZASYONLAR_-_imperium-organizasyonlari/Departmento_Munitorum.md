@@ -12,6 +12,4 @@ Munitorum'un işleyişi, öşür (Tithe) sistemine dayanır; her İmparatorluk d
 
 ## Tarihçe
 
-Departmento Munitorum, Administratum'un askeri kolu ve Astra Militarum'un lojistik-ikmal organizasyonudur; alayların taşınması, ikmali ve kaydı ondan sorulur. İmparatorluk'un milyarlarca askerinin arkasındaki devasa bürokratik-savaş makinesidir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Departmento Munitorum, İmparatorluğun askeri lojistik ve kaynak yönetim bürokrasisidir; Astra Militarum'un tüm ihtiyaçlarını — asker, silah, gıda, cephane, ulaşım — organize eden devasa devlet kurumudur ve İmparatorluğun en büyük bürokratik yapısıdır. Munitorum'un işi basit ama imkânsızdır — trilyonlarca askerin beslenmesi, taşınması ve donatılması; bir Imperial Guard alayının sevkiyatı, Munitorum'un binlerce sayfalık formunun onaylanmasıyla başlar ve bir kutu mühimmatın kaybı, bir gezegenin düşmesine neden olabilir. Munitorum'un bürokrasisi o kadar karmaşıktır ki bir hatanın düzeltilmesi yıllar sürebilir — bir askerin ölüm kaydı, onun ailesine yüzyıl sonra ulaşabilir; ama Munitorum olmadan, İmparatorluğun orduları aç ve silahsız kalır. Munitorum, İmparatorluğun en sıkıcı ama en vazgeçilmez kurumudur — onlar savaşmaz, ama savaş onlarsı

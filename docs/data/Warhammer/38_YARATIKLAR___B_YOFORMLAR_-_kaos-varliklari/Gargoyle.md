@@ -16,8 +16,8 @@ Zarlı kanatları ve ince bedenleriyle Gargoyle'lar, gökyüzünü karartan sür
 
 ## Tarihçe
 
-Gargoyle (Gaunti avius, 'Cehennem Yarası' da denir), kanatlı vahşi Tyranid biyoformudur ve savaşta genellikle görülen ilk Tyranid türüdür. Ana görevi düşmanı bulup içine terör ve kargaşa salmaktır — 'gökyüzünden inen çığlık' olarak istilanın haberci dalgasıdır; ateş ve kanat sesiyle gelen canlı kabus.
+Gargoyle, Tyranid'in en küçük ve en sinsi uçan yaratığıdır; bir Tyranid ordusunun en küçük uçan avcısı olan ve onun en sinsi operasyonlarını yapan Gargoyle, Tyranid'in en küçük ve en sinsi varlığıdır — onlar, Tyranid'in en küçük ve en sinsi uçan yaratığıdır. Gargoyle'un en büyük özelliği, onun sinsiliğidir — onlar, bir Tyranid ordusunun en küçük uçan avcısıdır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Gargoyle, hem bir yaratık hem de bir avcıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Gargoyle'un en ünlü özelliği, onun uçmasıdır — onlar, Tyranid'in en küçük ve en sinsi uçan yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Gargoyle, Tyranid'in en küçük ve en sinsi uçan yaratığıdır — onlar, bir avcının ve Tyranid'in en sinsi gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+-# İlişkili kayıtlar: <#155175978021158919

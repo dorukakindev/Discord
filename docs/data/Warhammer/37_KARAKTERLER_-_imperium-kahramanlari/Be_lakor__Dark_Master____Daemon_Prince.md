@@ -16,8 +16,6 @@ Dark Master adıyla anılan, gölgelerden yapılmış bir ordu yöneten ve dört
 
 ## Tarihçe
 
-Be'lakor — 'Karanlık Efendi', 'İlk-Lanetli' — Ruinous Powers'ın birleşik iradesiyle ölümlülükten yükseltilmiş ilk Daemon Prince'tir; Chaos Undivided'ın hizmetkârıdır. 'Blade of Shadows'ı taşıyan bu figür, tanrıların kendi oyunlarının dışında kendi planları olan 'dördüncü güç' gibidir — 'gölgelerin efendisi' olarak Chaos'un en bağımsız varlığı.
+Be'lakor, Chaos'un en eski ve en güçlü Daemon Prince'idir; İmparatorluğun en eski düşmanı olan ve dört Chaos tanrısına eşit olarak hizmet eden Be'lakor, Chaos'un en büyük ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en eski ve en güçlü daemon'udur. Be'lakor'ın en büyük özelliği, onun eskiliğidir — onlar, Chaos'un ilk Daemon Prince'idir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Be'lakor, hem bir daemon hem de bir efsanedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Be'lakor'ın en ünlü özelliği, onun dört tanrıya hizmetidir — onlar, Chaos Undivided'ın en sadık takipçisidir ve onların varlığı, Chaos'un birliğinin en büyük kanıtıdır. Be'lakor, Chaos'un en eski ve en güçlü Daemon Prince'idir — onlar, Chaos'un en eski gücünün ve en büyük tehdidinin somut halidir.
 
--# Kaynaklar: *Codex: Chaos Daemons*; *Arks of Omen: Vashtorr*
-
--# İlişkili kayıtlar: <#1551654107058540595>, <#1551809619544899625>, <#1551810874635976776>, <#1551809666454134928>
+-# Ka

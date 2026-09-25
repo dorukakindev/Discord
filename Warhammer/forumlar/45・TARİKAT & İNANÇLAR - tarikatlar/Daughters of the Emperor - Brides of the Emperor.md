@@ -16,8 +16,4 @@ Emperor'a adanmış bu tarikat, Goge Vandire'ye bağlanarak Brides of the Empero
 
 ## Tarihçe
 
-Vandire, Rosarius'un koruyucu alanını bir tanrısal lütuf gibi sergileyerek tarikatı Emperor'ın iradesinin kendisinden geçtiğine inandırdı. Confederation of Light Vandire'nin düzenini sarstığında Custodes'in aracılığıyla Golden Throne'un huzuruna çıkarılan Alicia Dominica ve kız kardeşleri, geri döndüklerinde Vandire'yi yüzüstü bıraktı; Dominica tiranı kendi eliyle öldürdü. Tarikat ardından Adepta Sororitas olarak yeniden örgütlendi.
-
--# Kaynaklar: *Codex: Adepta Sororitas*; *Codex: Witch Hunters*
-
--# İlişkili kayıtlar: <#1551810771472883713>, <#1551753444308811807>, <#1551808932744269985>, <#1551651549804236801>
+Daughters of the Emperor (Brides of the Emperor), Adepta Sororitas'ın en eski ve en gizli tarikatıdır; onların İmparator'a olan inançları ve onların 'kızları' — İmparator'un kızları — olarak hizmet veren bir inançtır — onlar, İmparatorluğun en eski ve en gizli tarikatıdır. Daughters of the Emperor'ın en büyük özelliği, onların gizliliğidir — onlar, İmparatorluğun en eski tarikatıdır ve onların varlığı, İmparatorluğun dininin en eski kanıtıdır; bir Daughter of the Emperor, hem bir inanan hem de bir sır taşıyıcısıdır ve onların varlığı, İmparatorluğun dininin en eski halinin somut halidir. Daughters of the Emperor'ın en ünlü özelliği, onların 'Brides' — İmparator'un gelinleri — olarak hizmetleridir — onlar, İmparator'a tamamen bağlıdır ve onların varlığı, İmparatorluğun dininin en kutsal halinin kanıtıdır. Daughters of the Emperor, Adepta Sororitas'ın en eski ve en gizli tarikatıdır — on
