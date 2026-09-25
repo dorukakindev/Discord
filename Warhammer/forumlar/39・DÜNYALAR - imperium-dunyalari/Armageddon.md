@@ -21,3 +21,7 @@ Armageddon'ı efsaneleştiren şey, üç büyük savaşa sahne olmasıdır. İlk
 Bu savaşların kalbinde, Commissar Sebastian Yarrick vardı; sıradan bir insan olmasına rağmen amansız direnişi insanlığın moralini ayakta tuttu ve Orklar bile ondan "ölümsüz" bir kâbus olarak korktu. Ghazghkull ile Yarrick arasında, çağlar süren kişisel bir rekabet doğdu; ikisi de defalarca yüzleşti.
 
 Armageddon, İmparatorluğun sanayi gücünün ve sıradan insanlığın direnişinin sembolüdür; ama aynı zamanda Ork tehdidinin asla gerçekten yok edilemeyeceğinin, yalnızca geciktirilebileceğinin de kanıtıdır. Gezegen, kovan dünyası hayatının (üst katmanların gücü, alt katmanların yoksulluğu) ve sonu gelmez savaşın zengin bir örneğidir; insanlığın çekiciyle (Astra Militarum) en büyük zaferlerini ve en kanlı kayıplarını yaşadığı bir cephedir.
+
+## Tarihçe
+
+Armageddon, Segmentum Solar'da, Te

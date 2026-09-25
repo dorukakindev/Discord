@@ -22,4 +22,7 @@ Nocturne'ün demircilik geleneği, Salamanders chapter'ının özüne işlemişt
 
 Nocturne, bir dünyanın acımasızlığının nasıl bir erdeme dönüşebileceğinin örneğidir; volkanik felaketlerin öğrettiği dayanıklılık ve dayanışma, Salamanders'ı 41. milenyumun karanlığında nadir bir sıcaklık ve insancıllık kaynağı yaptı. Kayıp primarch Vulkan'ın bıraktığı dokuz kutsal emanet de burada saklanır; Nocturne, ateşin hem yıkım hem de yaratım (demircilik) olduğu bir dünyadır.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Nocturne, Segmentum Ultima'da Salamanders chapter'ının homewor

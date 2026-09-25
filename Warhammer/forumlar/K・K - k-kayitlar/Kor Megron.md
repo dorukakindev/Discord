@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/00/Daemon_Prince_Kor_Mae
 
 ## Tarihçe
 
-Kor Megron ('Rhodax'ın Orakçısı'), Horus Heresy'de Word Bearers'ın Dark Apostle'ıydı; sonradan Daemon Prince'e yükselip Rhodax'ın düşüşünü yönetti — günümüzde de galaksiyi vuran daemonik bir tehdit.
+Kor Megron — 'Rhodax'ın Azraili' — Chaos Undivided'ın Daemon Prince'idir ve Heresy sırasında Word Bearers'ın Dark Apostle'ıydı. Daemonluğa yükseldikten sonra bile galaksiyi kirleten bu varlık, Cardinal World Rhodax'ın düşüşünden sorumluydu — 'dini yıkan din adamı' olarak WB tarihinin en kanlı yükselişlerinden birini yaşadı.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -22,4 +22,7 @@ Hayatta kalanlar, Astra Militarum'un en saygın ve en korkunç gerilla askerleri
 
 Catachan, doğanın kendisinin bir düşman olduğu bir dünyadır; ekosistemi o kadar düşmancadır ki, halkı insanlık tarihinin en sert hayatta kalma uzmanlarına dönüşür. O, çevrenin bir halkı nasıl şekillendirebileceğinin uç bir örneğidir; Catachan, savaşın değil, hayatta kalmanın bir yaşam biçimi olduğu, her günü bir savaş olan efsanevi bir yeşil cehennemdir.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Catachan, galaksinin en rezil ve ölümcül İmparatorluk Death World'üdür — Ultima Segmentum'da, yoğun ormanlarla kapl

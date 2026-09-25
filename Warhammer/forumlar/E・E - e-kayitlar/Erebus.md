@@ -23,6 +23,10 @@ Aynı roman, Luna Wolves'un kendi teknolojisine ve xenos komşularına sahip ins
 
 Romanın dikkatle çizdiği nokta şudur: Erebus, Horus'ta olmayan bir şeyi yaratmadı. Warmaster'ın babasına duyduğu kırgınlığı, Terra'nın yeni bürokratlarına karşı öfkesini ve terk edilmişlik duygusunu bulup onlara bir dil ve bir yön verdi. Erebus'un zaferi, yalanın gücünden çok, dinlemeye hazır bir kulağın varlığındaydı.
 
+## Tarihçe
+
+Erebus, Word Bearers lejyonunun kıdemli Dark Apostle'ı ve Horus Heresy'nin baş mimarıdır — 'her şeyi başlatan adam'. Büyük Sefer'in sonunda lejyonun First Chaplain'i olarak görev yaptı; kafasının kazınmış derisine Lorgar'ın Kitabı'nın bölümlerini dövme yaptırarak düşmanları korkuturdu. Daha Astartes bile olmadan Chaos'a gönüllü dönmüştü ve Lorgar'ı, Horus'u ve İmparatorluk'u adım
+
 ## Monarchia'dan Sonra: Lorgar'ın Yanında
 Erebus'un Word Bearers içindeki konumu, Monarchia'nın yıkımıyla belirginleşti. Emperor'un emriyle Ultramarines'in Lorgar'ın ideal şehrini yerle bir etmesinin ardından Primarch'ı Colchis'in eski inancına, tapınılmayı kabul eden ve karşılığında güç veren tanrılara yönlendirenler Kor Phaeron ile Erebus oldu. *The First Heretic*, Lorgar'ın Eye of Terror'ın kıyılarına uzanan hac yolculuğunu ve bu yolculukta Word Bearers savaşçılarının içine daemon'ların yerleştirildiği Gal Vorbak'ın doğuşunu anlatır.
 

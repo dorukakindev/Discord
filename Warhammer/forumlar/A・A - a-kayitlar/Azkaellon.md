@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/95/Azkaellon.png/revisio
 
 ## Tarihçe
 
-Azkaellon, Sanguinius'un en yakın yaveri ve Sanguinary Guard'ın ilk komutanıydı; primarch'ın sesi olarak lejyonun en yüksek şeref muhafızı.
+Azkaellon, Blood Angels lejyonunun Sanguinary Guard'ının kurucusu ve lideriydi — melek primarch Sanguinius'un kişisel praetorian'ları olan elit Veteran savaşçılarının komutanıydı. Büyük Sefer'de Blood Angels ve Luna Wolves gibi diğer lejyonlarla ortak operasyonlarda kendini gösterdi. Sanguinius'un Horus'la son karşılaşmasında kendini feda ederek primarch'ına zaman kazandıran Azkaellon, 'Sanguinary Guard'ın ilk şehidi' olarak chapter'ın en kutsal figürlerinden biri oldu.
 
 -# Kaynaklar: *Fandom wiki*
 

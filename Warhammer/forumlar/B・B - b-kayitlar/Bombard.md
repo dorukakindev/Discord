@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/be/Bombard01.png/revisio
 
 ## Tarihçe
 
-Bombard, Leman Russ şasisi üzerine Heavy Siege Mortar taşıyan İmparatorluk mobil topçusu; en güçlü yer-bombardıman araçlarından — 'duvarların sonu'.
+Bombard, Leman Russ tank şasisi üzerine monte edilmiş Heavy Siege Mortar taşıyan İmparatorluk'un mobil kuşatma topçusudur. En güçlü yer-bombardıman araçlarından biri olarak uzun menzilli 'demir duvar kırıcı' rolündedir; bir atışla tahkimatlı binaları çökertebilir. Kuşatma savaşlarında İmparatorluk'un 'açılmaz' surların çözümüdür — yıkım gücüyle ünlüdür ama hareketliliği sınırlıdır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058808279081050>

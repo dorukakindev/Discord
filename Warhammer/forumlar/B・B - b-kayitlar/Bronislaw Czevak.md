@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Inquisiotr_Bronislaw_
 
 ## Tarihçe
 
-Bronislaw Czevak, İmparatorluk'un en efsanevi Inquisitor'larından biridir; 400 yıl görev yaptı, Eldarların 'Kara Kütüphane'sine giren tek insan olarak bilinir — sayısız düşmanıyla İmparatorluk'un bilgi hazinesi.
+Bronislaw Czevak, Ordo Xenos'un seçkin ve tartışmalı High Inquisitor'üydü; 41. Binyıl'ın ikinci yarısında Moebius Alt-Sektörü'nde aktifti. İmparatorluk'a yaklaşık 400 yıllık hizmetin ardından ve zaten bazılarınca yozlaşma şüphesi taşırken, bir arkeo-teknoloji seferi sırasında kayboldu — 'kaybolan efsane' olarak Aeldari'nin Kara Kütüphanesi'ne ulaştığı söylenen figür.
 
 -# Kaynaklar: *Fandom wiki*
 

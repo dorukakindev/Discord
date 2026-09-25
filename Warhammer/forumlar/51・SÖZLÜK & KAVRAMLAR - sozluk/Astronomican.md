@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/71/Astronomican1.jpg/revision/latest/scale-to-width-down/900?cb=20200625221719
 
+## Tarihçe
+
+Astronomican, Terra'da bulunan psişik bir seyir feneridir — İmparator'un Altın Taht'ın içinden, Hollow Mountain'ın üzerindeki devasa kubbe düzeneğiyle kalibre edilip yansıtılır. Warp'ta yolculuk eden tüm İmparatorluk gemilerinin 'pusula ışığı'dır; Navigator'lar bu sinyali görüp rotalarını hesaplar. Astronomican sönseydi İmparatorluk'un yıldızlararası iletişimi ve seyri çöker — 'İmparatorluk'un kalp atışı' olarak imparatorluğun varoluşunun merkezidir.
+
 https://static.wikia.nocookie.net/warhammer40k/images/7/71/Astronomican1.jpg/revision/latest?cb=20200625221719
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0f/Sebiascor_Ebongrave.p
 
 ## Tarihçe
 
-Sebiascor Ebongrave, Astra Militarum'un lord commander'ı ve Achilus Seferi'nin Canis Salient kolunun mevcut komutanı; Jericho Reach'in 'demir pençesi'.
+Sebiascor Ebongrave, Astra Militarum'un lord commander'ı ve Achilus Seferi'nin Canis Salient kolunun mevcut komutanıdır. Dhkasin Hussars süvarilerinde kendini gösteren yetenekli, hatta kahraman bir subay olarak seferin komutanı Lord Militant Solomon'un güvenilir danışmanı oldu; Jericho Reach'in geri alınması harekâtının İmparatorluk kanadındaki en üst askeri figürlerden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057514499739760>

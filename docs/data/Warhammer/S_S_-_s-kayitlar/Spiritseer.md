@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/IyannaArienal.jpg/rev
 
 ## Tarihçe
 
-Spiritseer, ölü Aeldari ruhlarıyla iletişim kurma nadir ve tehlikeli yeteneğine sahip psyker'dır. Wraithguard ve Wraithblade gibi ruh-barındıran savaş formlarını yönlendirir; ölülerin kristal zırhlarındaki ruhlarla konuşup onları savaşa çağırır. Bu yetenek onları hem değerli hem de korkulan kılar — psişik tehlikeyi bile bile ölüler dünyasına uzanırlar.
+Spiritseer, Seer Yolu'nu öyle yürüyen Eldar psyker'dır ki craftworld'ün Infinity Circuit'inde saklı ölü Eldar'ların ruhlarıyla iletişim kurabilir. Barışta yaşayanlarla ölüler arasında köprü olan bu figürler, savaşta Wraithguard ve Wraithlord'ları yönlendiren 'ölülerin sesi' olarak bilinir — 'hayalet ordusunun komutanı'.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877508989288488>

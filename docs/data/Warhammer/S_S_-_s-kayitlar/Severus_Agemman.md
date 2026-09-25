@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e3/SeverusAgemmanTermina
 
 ## Tarihçe
 
-Severus Agemman, Ultramarines'ın 1. Bölük kaptanı ve Guilliman'ın yokluğunda Ultramar'ın 'Regent'i (naibi)dir; First Company'nin efsanevi lideri.
+Severus Agemman, Ultramarines'in elit Veteran 1. Bölüğü'nün mevcut kaptanı ve 'Kalenin Efendisi' ile Ultramar Naibi'dir; Chapter Master başka işle meşgulken Macragge'ı yönetir. 200 yılı aşkın süredir 1. Bölüğü komuta eder — 'yaşayan tecrübe deposu' olarak Ultramar'ın en kıdemli saha komutanıdır.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Scabeiathrax_-_The_Bl
 
 ## Tarihçe
 
-Scabeiathrax the Bloated ('Vraks'ın Babası'), Nurgle'un Great Unclean One'larından biridir; Vraks Kuşatması'nda çağrılıp gezegenin son savunmasını kıran devasa vebalı daemon. Bedeninden Nurglings fışkıran bu 'babacık', Vraks'ın çöküşünün son damlasıydı.
+Scabeiathrax the Bloated ('Şişkin'), Nurgle'un Great Unclean One'larından biridir — Plague God'un devasa veba efendilerinden. 'Estağfurullah' olarak da bilinen bu figür, Vraks Kuşatması'nda İmparatorluk güçlerine karşı konuşlanan daemonik ordunun parçasıydı; 'yaşayan hastane' olarak çürümenin dev bedenidir.
 
 -# Kaynaklar: *Imperial Armour — Vraks*
 -# İlişkili kayıtlar: <#1552850025523191838>

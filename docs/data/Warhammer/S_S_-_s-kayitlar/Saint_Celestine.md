@@ -18,6 +18,10 @@ Imperial Cult'ta "Living Saint", ölümünden sonra anılan klasik azizlerden fa
 
 Celestine'in yanında **Geminae Superia** olarak bilinen iki muhafız savaşır. Bu iki Sister, azizeyi korumak için kendi hayatlarını feda etmeye hazır, onunla adeta tek bir varlık gibi hareket eden yoldaşlar olarak tasvir edilir. Imperial inanç onları azizenin mucizesine ortak sayar; ancak kimliklerinin, nasıl seçildiklerinin ve Celestine'in dönüşlerini ne ölçüde paylaştıklarının ayrıntıları kaynaklarda açık seçik anlatılmaz.
 
+## Tarihçe
+
+Saint Celestine, Adepta Sororitas'ın Order of Our Martyred Lady'sinin Yaşayan Azizesidir — inanılmaz psişik güç ve inanca sahip bu varlığın İmparator tarafından defalarca ölümden diriltilip görevlendirildiğine inanılır. Ölümlü olarak savaşta düştüğü sanıldı ama defalarca geri döndü; 'yaşayan mucize' olarak İmparatorluk'un en kutsal savaş figürü, kriz anlarında beliren kurtarıcı meleğidir.
+
 Celestine'in varlığı, Imperium'un askerî psikolojisinde de özel bir işlev görür. Onun göründüğü söylenen cephelerde çözülmek üzere olan birliklerin yeniden toparlandığı, umutsuz savunmaların direnişe dönüştüğü anlatılır. Bu etkinin doğaüstü bir güçten mi, yoksa inancın askerler üzerindeki gücünden mi kaynaklandığı sorusu, Imperium'un içinde sorulmaz; ansiklopedi ise soruyu açık bırakır.
 ---MSG---
 ## Cadia'nın Son Günleri

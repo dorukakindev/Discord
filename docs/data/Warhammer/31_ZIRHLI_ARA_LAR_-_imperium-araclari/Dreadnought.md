@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Exploded_View_Ancient_Dreadnought.jpg/revision/latest/scale-to-width-down/900?cb=20140225220447
 
+## Tarihçe
+
+Dreadnought, Adeptus Astartes'in büyüklük olarak orta sınıf sibernetik savaş yürüyüşüdür; ölümcül yaralanmış Space Marine kahramanlarının yaşamını sürdürebilmesi için bedeninin sarkofaja yerleştirildiği 'yaşayan mezar'. Ağır silahlarla donanmış bu figürler, chapter'ın 'ölümsüz gazileri' olarak hem savaşçı hem tarih deposudur.
+
 https://static.wikia.nocookie.net/warhammer40k/images/c/ce/Exploded_View_Ancient_Dreadnought.jpg/revision/latest?cb=20140225220447
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

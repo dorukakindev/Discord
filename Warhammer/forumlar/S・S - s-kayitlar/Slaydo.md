@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/75/Slaydo_portrait.jpg/r
 
 ## Tarihçe
 
-Slaydo, Sabbat Worlds Crusade'in mimarı ve ilk Warmaster'ıydı; Balhaut'un geri alınması sırasında savaşta öldü ama sefer onun vasiyetiyle sürdü — 'ölümünden sonra bile komuta eden' strateji dehası.
+Slaydo, Sabbat Dünyaları Seferi'nin mimarı ve ilk İmparatorluk Warmaster'ıydı; İmparatorluk'un 41. Binyıl'ın ikinci yarısındaki en büyük savaş planlamacısı sayılır. Balhaut dünyasını geri alma harekâtında savaş alanında öldü — ama vasiyeti ve planı o kadar kusursuzdu ki sefer onun ölümünden sonra da 'Slaydo'nun vasiyeti' olarak sürdü. 'Ölü Warmaster'ın ordusu' kavramının kaynağı.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057472024027137>

@@ -46,6 +46,10 @@ Kuzey kutbundaki savunmayı Ultramarines'in **1st Company**'si, kayıtlara göre
 
 Bu savaş Macragge'ın belleğine bir zafer anıtı olarak değil, bir yas olarak kazındı. 1st Company'nin yeniden kurulması uzun yıllar aldı; kutup kalelerinin taşlarında düşenlerin anısı yaşatıldı. Tyranid'lere karşı Ultramarines'in taşıdığı derin kin, Ortan Cassius gibi hayatta kalanlar aracılığıyla Chapter kültürüne işledi. Savaşın galaktik ölçekteki anlamı <#1551809334483361823> ve <#1551815033518948404> kanallarında ayrıntılı işlenir.
 
+## Tarihçe
+
+Macragge, Ultima Segmentum'un güney ucundaki İmparatorluk Civilised World'üdür — Ultramarines'in chapter homeworld'ü ve Ultramar Diyarı'nın başkenti. Çoğu çorak ve kayalık olsa da İmparatorluk'un en 'düzenli' dünyasıdır; Guilliman'ın mirasının canlı müzesi olarak 'Eastern Fringe'in en güvenli kalesi'dir.
+
 ## Diriliş ve Era Indomitus
 M41'in son yılında Macragge, Imperium tarihinin en beklenmedik anlarından birine tanıklık etti. *Gathering Storm III: Rise of the Primarch*'ın anlattığı olaylarda Belisarius Cawl, Inquisitor Greyfax, Saint Celestine ve Yvraine'in Ynnari'si Webway yoluyla Ultramar'a ulaştı ve kendilerine kuşkuyla bakan Ultramarines'in güvenini kazanarak Temple of Correction'a vardı. Diriliş, tapınağın çevresinde Chaos kuvvetlerinin saldırısı sürerken gerçekleşti; Cawl'ın hazırladığı **Armour of Fate** içinde uyanan Guilliman, on bin yıllık bekleyişi savaşın ortasında sona erdirdi. Aeldari katkısının kesin payı ve dirilişin mekanizması yayımlanmış kanonda bütünüyle açıklanmaz.
 

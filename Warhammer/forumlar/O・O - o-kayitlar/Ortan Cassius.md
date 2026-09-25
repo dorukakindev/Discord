@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e4/Chaplain_Cassius_Mode
 
 ## Tarihçe
 
-Ortan Cassius, Ultramarines'ın en yaşlı ve en sert Chaplain'idir; Tyranid'lerle savaşta efsaneleşmiş 'Kutsal Öfke' figürü — yüz yıllardır savaşan adam.
+Ortan Cassius — 'Gerçek İnanan' — Ultramarines'in kıdemli Chaplain'i ve 'Kutsallığın Efendisi'dir; Dreadnought zırhına gömülmemiş en yaşlı aktif Ultramarines üyesidir. Görünen az derisi arasında sayısız yara ve vida yerleşimi olan bu figür, yüzyıllardır chapter'ın manevi omurgasıdır; Styxia Prime'da Tyranid'lere karşı Ultramarines'i savaşa dizmesiyle bilinir. 'Chapter'ın yaşayan vicdanı' olarak Macragge'ın en saygın seslerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

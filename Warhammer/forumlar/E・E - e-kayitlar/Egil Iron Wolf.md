@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Borgen_%27Fire-eye%27
 
 ## Tarihçe
 
-Egil Iron Wolf, Space Wolves'un Büyük Kurt'larından ve Iron Priests'lerin ustasıdır; makine ve zırhın efendisi olan 'Demir Kurt' lakaplı lider.
+Egil Iron Wolf, Space Wolves'un on iki Wolf Lord'undan biridir ve Ironwolves Büyük Bölüğü'nü yönetir; 'Demir Kurt' totemini taşır. Fenris mitolojisinde Demir Kurt, Asaheim kıtasının altında uyuyan devasa bir canavardır — dağlar onun sırt tüyleri, içindeki metal damarlar ise damarlarıdır. Egil bu ağır-totemin taşıyıcısı olarak chapter'ın 'toprakla bağlı' lideri sayılır.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_Heart.png/revision/latest/scale-to-width-down/900?cb=20141020194824
 
+## Tarihçe
+
+Drukhari ('Karanlık Olanlar', dışarıdan Dark Eldar), yozlaşmış ve terk edilmiş Aeldari akrabalığıdır — Asuryani'nin sadist, kötü niyetli karşıtı. Commorragh'ın 'karanlık şehir'sinde yaşayan bu figürler, acı ve zulümle beslenerek ruhlarını Slaanesh'ten korur — 'zevkin vahşi yüzü' olarak Aeldari'nin düşüşünün en karanlık dalıdır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Drukhari — Karanlık Eldar (Commorragh)

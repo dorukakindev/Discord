@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/62/ThousandSonsPreHeresy
 
 ## Tarihçe
 
-Menes Kalliston, Büyük Sefer'de Thousand Sons'un 4. Fellowship kaptanı ve Athanaean Kültü üyesiydi; Heresy'nin açılış günlerinde Prospero'nun düşüşüne tanık olan figür.
+Menes Kalliston, Thousand Sons'ın 4. Bursu'nun kaptanı ve Athanaean Kültü'nün üyesiydi; Heresy başında lejyonunun yıkılmış homeworld Prospero'nun yüzeyine bir tim götürerek kayıp sır aradı. 'Enkaz kaşifi' olarak Prospero'nun düşüşünden sonrasını araştıran figürlerden — geri dönen kaptan olarak lejyonun kaderinin tanığı oldu.
 
 -# Kaynaklar: *Fandom wiki*
 

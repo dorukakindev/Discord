@@ -21,6 +21,10 @@ Graham McNeill'in *A Thousand Sons*'ı, onu bu dönemde parlak, sadık ama bilgi
 ## Nikaea ve Kurtuluşun Bedeli
 Council of Nikaea, Legion'larda psişik güç kullanımını yasakladığında Thousand Sons görünürde karara uydu; Magnus ve en yakın çevresi ise araştırmalarını sürdürdü. Ahriman bu çevrenin merkezindeydi. *A Thousand Sons*, flesh-change'in durdurulmasının ardındaki gerçeği de ima eder: Magnus oğullarını kurtarmak için Warp'taki bir güçle, sonraki olaylar ışığında Tzeentch olduğu anlaşılan bir varlıkla pazarlık etmişti. Legion'un kurtuluşu, baştan beri borçla alınmış bir kurtuluştu.
 
+## Tarihçe
+
+Ahriman (Ahzek Ahriman), Thousand Sons lejyonunun Daemon Primarch Magnus the Red'den sonraki en güçlü Chaos Sorcerer'ıdır; eski Baş Kütüphaneci ve birinci kaptandı. Lejyonunun 'et değişimi' lanetine çare olarak Rubric of Ahriman'ı yaptı — ama büyü onu kurtarmadı, kardeşlerini yaşayan zırhlı otomat-kül adamlara çevirdi. Bu felaket onu Magnus tarafından sürgün edilmeye mahkûm etti ve o zamandan beri hem lejyonu kurtarmak hem de Tzeentch'in gerçek doğasını anlayıp gücünü ele geçirmek için galaksiyi gezer. 'Sürgün büyücü' olarak 10.000 yıldır hem Chaos'un hem İmparatorluk'un en tehlikeli bilgi
+
 ## Prospero'nun Yanışı
 Magnus'un Horus'un ihanetini Emperor'a sorcery yoluyla bildirmeye çalışırken Terra'nın altındaki Webway projesine ağır bir yıkım getirmesi, Space Wolves, Adeptus Custodes ve Sisters of Silence'ın Prospero'ya saldırısıyla sonuçlandı. Tizca yerle bir edilirken Ahriman da yurdunu savunan Thousand Sons arasındaydı. Legion'un kalıntıları Tzeentch'in müdahalesiyle Eye of Terror içindeki bir dünyaya, sonradan Planet of the Sorcerers diye anılacak yere ulaştı.
 

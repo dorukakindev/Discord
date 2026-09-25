@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/57/HenrikvanCalox.jpg/re
 
 ## Tarihçe
 
-Heinrix van Calox, Calixis Sektörü'nün güçlü Inquisitor'lerinden biridir; Dark Heresy figürlerinden, sektörün en çok konuşulan dedektifi.
+Heinrix van Calox, biomancy disiplininde yetenekli bir Sanctioned Psyker ve Inquisition'ın Interrogator'üdür; şu anda Segmentum Obscurus'taki Koronus Expanse'da Lord Inquisitor efendisi için görevler yürütüyor. İmparatorluk'ta soyluluk birçok biçimde gelir ama van Calox gibi figürler 'ınquisitorial aristokrasi'nin' örneğidir — hem doğuştan yetki hem kazanılmış güç taşır. Rogue Trader bağlamında tanınan bu genç ama iddialı Interrogator, biyomantik gücüyle savaş alanında hem şifa hem yıkım sağlar.
 
 -# Kaynaklar: *Fandom wiki*
 

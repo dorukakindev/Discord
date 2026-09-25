@@ -11,6 +11,10 @@ Bu kanal dünyanın doğasını ve halkını merkeze alır. Chapter'ın örgütl
 ## Klanlar ve Kalıntı Teknoloji
 Medusa halkı, Age of Strife'ın karanlığından sabit kentler ya da büyük krallıklar kurarak değil, göçebe klanlar hâlinde yaşayarak çıktı. Kaynaklarda bu klanların, gezegenin öldürücü koşullarına karşı eski çağlardan kalma teknolojiyi koruyup onararak ayakta kaldığı anlatılır. Makineye bağımlılık burada bir tercih değil, hayatta kalmanın şartıdır; Medusalıların gözünde makineyi yaşatabilen kişi, klanını da yaşatabilen kişidir.
 
+## Tarihçe
+
+Medusa (resmen Medusa IV), Iron Hands'ın chapter homeworld'ü ve kayıp primarch'ları Ferrus Manus'un dünyasıdır; Eye of Terror'a tehlikeli yakın, sürekli karanlık ve kirli gökyüzlü sert bir Feral World. Güneşin neredeyse hiç görünmediği bu dünyada 'güçlü olan yaşar' kuralı chapter'ın 'et zayıflıktır' felsefesinin kaynağıdır.
+
 Bu düzenin içinden **Iron Father**'lar doğdu. Heresy literatüründe yarı tech-priest, yarı şaman diye tarif edilen bu zümre, teknolojinin bakımını ve onunla ilgili gelenekleri koruyan bir ruhban-zanaatkâr sınıfıydı. X Legion'ın ve sonra Chapter'ın Iron Father makamı, köklerini bu Medusa geleneğine borçludur. Klan bağlılığı da aynı biçimde yaşamaya devam etti: Iron Hands'in company'leri bugün hâlâ **Clan Company** olarak anılır ve Clan Raukaan, Garrsak ve Borrgos gibi Medusa klanlarının adlarını taşır.
 
 ## Gorgon'un Dünyası

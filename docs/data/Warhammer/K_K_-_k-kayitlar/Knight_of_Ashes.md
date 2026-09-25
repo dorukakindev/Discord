@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4d/Knight_of_Ashes.png/r
 
 ## Tarihçe
 
-Knight of Ashes (Cassian Vaughn/Dracos), Salamanders'ın Nocturne mitolojisindeki gizemli figürdür; Vulkan'la bağlantılı bu efsanevi şövalye, Heresy sırasında Vulkan'ın dirilişinde kilit rol oynadı.
+Knight of Ashes — eski adıyla Luk Tan Chimaeros — Imperial Knights'ın Freeblade'idir; Donatos Savaşı'nın ardından galaksinin dört yanında aktif olan figür. İhanet edip Renegade'a dönen şerefsiz Knight House Chimaeros'un son oğlu olarak hanesinin ismini bırakıp 'Küllerin Şövalyesi' oldu — 'lekeli soyun temizlenmesi' olarak şövalye dünyasının en trajik kahramanlarından biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

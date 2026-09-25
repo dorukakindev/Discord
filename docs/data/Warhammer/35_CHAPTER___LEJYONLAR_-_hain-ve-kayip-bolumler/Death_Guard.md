@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/2f/DeathGuardBadge.png/revision/latest?cb=20190111222147
 
+## Tarihçe
+
+Death Guard, Chaos Space Marines'in Hain Lejyonlarından biridir; Chaos Tanrısı Nurgle'a ibadet edip mutasyonel 'armağanları'yla Plague Marine'ler olmuş figürler — güç zırhları içinde ebediyen çürüyen ve bilinen her hastalıkla enfekte Heretic Astartes. 'Çürüyen lejyon' olarak Mortarion'un vebanın efendisi ordusudur.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Death Guard — Ölüm Muhafızları (XIV. Lejyon)

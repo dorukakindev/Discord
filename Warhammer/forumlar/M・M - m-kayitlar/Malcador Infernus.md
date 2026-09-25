@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/MalcadorInfernus1.png
 
 ## Tarihçe
 
-Malcador Infernus, Malcador Assault Tank'ın alev-silahı taşıyan nadir varyantı; kuşatma ve yakın-destek için tasarlanmış 'ateş-kutusu' — modern ordularda az görülür.
+Malcador Infernus, Malcador Assault Tank'ın alev-silahı taşıyan nadir varyantıdır; Inferno Gun'ıyla siperleri ve yakın-mesafe düşmanlarını 'arınma ateşi'yle kavurur. Büyük Sefer dönemi tasarımı olarak modern ordularda az görülür ama kuşatma ve şehir temizliğinde hâlâ korkulan bir platformdur. 'Alevli tank' olarak bilinen bu zırhlı, mevcut chapter'ların 'saklı arsenal'inde yer alır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058796916449361>

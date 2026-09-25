@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Alpha_Legion_Heretic_Armorial.png/revision/latest?cb=20180709221710
 
+## Tarihçe
+
+Alpha Legion, hakkında en az şey bilinen Chaos Space Marine Hain Lejyonu'dur; bir zamanlar İmparator'un Büyük Sefer'ini yürüten XX. Lejyon'du. Casusluk, sızma ve 'görünmez savaş' konusunda uzman bu figürler, 'herkes ve hiç kimse' doktriniyle — herhangi bir üyenin 'Alpharius' olabilmesi — en esrarengiz hainlerdir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Alpha Legion — Alfa Lejyonu (XX. Lejyon)

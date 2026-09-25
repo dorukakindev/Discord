@@ -12,6 +12,10 @@ Astronomican'ın erişimi klasik kaynaklarda yaklaşık 50.000 ışık yılı ol
 
 Astronomican'ın varlığı, Emperor'ın Golden Throne'da tutulmasının temel nedenlerinden biridir. Emperor'ın ölümü ya da tamamen yitip gitmesi, ışığın sönmesi ve Imperium'un yıldızlararası bağlarının kopması anlamına gelecektir. Imperial Cult bu işareti Emperor'ın insanlığa verdiği kutsal bir armağan olarak görür.
 
+## Tarihçe
+
+Astronomican, Terra'da bulunan psişik bir seyir feneridir — İmparator'un Altın Taht'ın içinden, Hollow Mountain'ın üzerindeki devasa kubbe düzeneğiyle
+
 ## Tarihçe: Great Crusade'den Horus Heresy'ye
 Astronomican, Great Crusade'in başlangıcında, Emperor'ın Unification Wars sonrasında insanlığı galaksiye yeniden yaymak için kurduğu altyapının bir parçasıydı. İşaret, Crusade filolarının Warp'ta daha uzun ve daha güvenli sıçramalar yapmasını sağlayarak Emperor'ın fetihlerini hızlandırdı. Bu dönemde Emperor'ın doğrudan katılımıyla çalışan sistem, Golden Throne'a bağlanmasından önce de insanlık için yaşamsal bir bağ işlevi görüyordu.
 

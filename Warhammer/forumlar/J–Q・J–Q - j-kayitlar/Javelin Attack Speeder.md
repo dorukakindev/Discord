@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Javelin04.png/revisio
 
 ## Tarihçe
 
-Javelin Attack Speeder, 30. Binyıl'dan kalma anti-gravitik skimmer tasarımı; Land Speeder'in 'ağır' kuzeni olarak lascannon veya missile pod taşıyan çok-yönlü hızlı-saldırı aracı.
+Javelin Attack Speeder, M30'dan kalma ileri gravimetrik skimmer tasarımıdır; Land Speeder'ın 'ağır' kuzeni olarak lascannon veya missile pod gibi ciddi silahlar taşır. Space Marine'lerin hızlı-saldırı doktrininin vazgeçilmez platformu olup, 'hızın silahlandığı' en net örneklerden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058766742622318>

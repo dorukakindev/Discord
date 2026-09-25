@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Lugganath_Warlock.jpg
 
 ## Tarihçe
 
-Warlock, Witch Path'te yürüyen Aeldari savaş-psyker'ıdır; Farseer'ların daha deneyimsiz ama daha savaşkan versiyonudur. Warhost içinde piyade birliklerinin başında savaşa katılır, hem Singing Spear hem psişik yıkımla savaşır. Güçlü Warlock'lar zamanla Farseer konumuna yükselir.
+Warlock, Craftworld Aeldari'nin Seer'ı/psyker'ıdır — daha önce Aspect Warrior olarak Savaş Yolu'nda yürümüş ve şimdi güçlü psişik güçlerini Asuryani savaş ordularına liderlik etmek için kullanan figür. Yolda kendini kaybedenler 'seer'ın' kalıcı üyeleri olur; 'askerden kahine' geçişin canlı köprüsü olarak Aeldari ordusunun ruhu sayılır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877504618962995>

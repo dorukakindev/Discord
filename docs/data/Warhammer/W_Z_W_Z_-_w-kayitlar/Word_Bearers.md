@@ -24,6 +24,10 @@ Erebus'un Heresy'deki rolü özellikle belirleyicidir. Legion'lar arasında yay�
 
 Açık savaşta Word Bearers, Isstvan V'teki ihanetin ikinci dalgasında yer aldı. Ardından Kor Phaeron komutasında Calth'ta Ultramarines'e karşı sinsi bir saldırı düzenlendi; *Know No Fear* romanında işlenen bu baskını, Ultramar'ı hedef alan Shadow Crusade izledi. Word Bearers'ın bu dönemde gerçekleştirdiği kitlesel ayinler, Ultramar'ı galaksinin geri kalanından ayıran Warp fırtınası Ruinstorm'un doğuşuyla ilişkilendirilir.
 
+## Tarihçe
+
+Word Bearers, Horus Heresy sırasında İmparator'a ihanet eden dokuz İlk Kuruluş Space Marine lejyonundan biridir; Chaos Space Marine oldular ve bağlılıkları Daemon Primarch Lorgar'a ve Chaos Undivided'a yöneldi. Chaos'a dönen İLK lejyon olarak 'ilk hain' unvanını taşırlar — 'kelimenin yıkıcısı' olarak Heresy'nin fikir babaları.
+
 ## Yapı, Teoloji ve Legion Sonrası Düzen
 Heresy'nin ardından Word Bearers, Eye of Terror içindeki daemon dünyası Sicarus'a çekildi. Diğer Traitor Legion'lar warband'lere bölünüp kimliklerini yitirirken Word Bearers, ortak inançları sayesinde görece bütünlüklü kalabilen nadir Legion'lardan biri oldu.
 

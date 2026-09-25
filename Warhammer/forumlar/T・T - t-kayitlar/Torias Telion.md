@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Torias_Telion-0.jpg/r
 
 ## Tarihçe
 
-Torias Telion, Ultramarines 10. Bölük'ün kıdemli çavuşudur; nesiller boyunca chapter'ın izcilerini yetiştiren 'efsanevi eğitmen'. Rivayete göre üç büyük savaşta görev aldı ve reddedilen her yükselişe rağmen izci kalmayı seçti — 'Telion'un öğrencisi olmak' Ultramar'da şereftir.
+Torias Telion, Ultramarines'in 10. (İzci) Bölüğü'nde görevli kıdemli çavuştur ve chapter'ın yaşayan en efsanevi eğitmenidir. Yüzlerce yıl boyunca sayısız izci onun elinde yetişti; komuta görevleri defalarca teklif edilmesine rağmen izci sınıfında kalmayı seçti. Saha deneyimi o kadar derindir ki Chapter Master Marneus Calgar bile onun görüşlerine başvurur. 'Telion'un okulu' Ultramar'da onur nişanı sayılır; ustalıkla nişancılık ve hayatta kalma dersleri veren 'büyük öğretmen' olarak hâlâ aktif görevdedir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057336182964356>

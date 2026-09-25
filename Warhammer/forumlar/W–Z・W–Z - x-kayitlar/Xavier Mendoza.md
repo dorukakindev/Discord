@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/be/Xavier_mendoza.jpg/re
 
 ## Tarihçe
 
-Xavier Mendoza, İmparatorluk tarihinin en meşum Inquisitor'lerinden biri sayılır; 'insanlığın en tehlikeli yargıcı' olarak adı geçen figür — metodları tartışmalı efsane.
+Xavier Mendoza, İmparatorluk tarihinin en rezil Inquisitor'lerinden biri olabilir — fanatik bir adam olarak 'Chaos'u bulduğuna inandığı her yerde ezip geçti ve sonunda Adeptus Astartes içinde var olmayan bir çürümeyi ortadan kaldırmaya çalıştı. Bu hata hayatına mal oldu: 31. Binyıl'ın sonlarında aktif olan bu figür, 'kendi adamını avlayan Inquisitor' olarak Space Marines'le çatışan en kötü örneklerden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

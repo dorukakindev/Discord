@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Jenetia_Krole.jpg/rev
 
 ## Tarihçe
 
-Jenetia Krole, Sisters of Silence'ın en güçlü Null Maiden komutanıydı; Horus Heresy'de psyker ve daemon avında kilit rol oynayan 'Cel' (baş rahibe) — Pariah'ların efsanesi.
+Jenetia Krole — halk mitinde 'Ruhsuz Kraliçe' veya 'Cadı-Bela' — Raptor Guard'ın efendisi ve İmparator'un kişisel savaş sırdaşlarından biriydi. Sisters of Silence'ın Knight-Commander'ı (Vigil-Commander) ve Baş Araştırmacısı olarak Büyük Sefer'de görev yaptı; 'pariah'ların yani psişik-boşluk taşıyanların en güçlüsü olarak Psyker avının simgesi olan figürdür.
 
 -# Kaynaklar: *Fandom wiki*
 

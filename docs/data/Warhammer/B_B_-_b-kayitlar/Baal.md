@@ -23,6 +23,10 @@ Arx Angelicum, Baal'ın yüzeyinde yükselen, on bin yılın sanat eserleri, rel
 
 Sanguinala gibi Imperial bayramlar ve Baal'a yönelen hac gelenekleri, sistemin yalnızca bir Chapter yurdu değil, Imperial Cult'un kutsal coğrafyasının bir parçası olduğunu gösterir. Mezarın kutsallığı ve Primarch'ın bedeninin durumu üzerine söylenenlerin önemli kısmı ise evren içi inanç düzeyindedir.
 
+## Tarihçe
+
+Baal, Baal Sistemi'ndeki Blood Angels'ın nominal homeworld'üdür; kendisi kuru, tozlu bir Desert World'dür — mutantlar ve vahşi hayvanlar dışında pek yerleşik değildir. İki uydusu Baal Prime ve Baal Secundus önemli insan yerleşimleri barındırır ve bir zamanlar 'cennet'ti. Hi
+
 ## Adaylar ve Sınav
 Blood Angels, adaylarını Baal Prime ve Baal Secundus'un kabilelerinden toplar. Radyasyonun ve mutasyonun bu denli yaygın olduğu bir ortamda Chapter'ın öncelikle saf, sağlıklı ve dayanıklı gençleri araması, seçimi baştan zalim bir eleme yapar: kabileler arası savaşlar, çölün kendisi ve Sanguinary Priest'lerin gözetimindeki sınavlar, adayların büyük bölümünü daha Arx Angelicum'a ulaşmadan geride bırakır. Sınavın hangi aralıklarla, hangi aşamalarla yapıldığı konusunda farklı edition kaynakları aynı ayrıntıyı vermez; ansiklopedi burada tek bir ritüel sırası dayatmaz.
 

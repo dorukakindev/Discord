@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Mark_of_Slaanesh.png/
 
 ## Tarihçe
 
-Heartslayer (gerçek adı Ail'Slath'Sleresh), Aeldari craftworld'ü Kher-Ys'in düşüşünde kilit rol oynayan Keeper of Secrets'dır — Slaanesh'in Aeldari ruhlarına olan açlığının aracı.
+Heartslayer — gerçek adı Ail'Slath'Sleresh — Slaanesh'in Keeper of Secrets'ıdır ve Aeldari Craftworld Kher-Ys'in düşüşünde kilit rol oynadı. Ruh bakımından zengin ve Eye of Terror'a tehlikeli yaklaşan bu Asuryani dünyasını arzulayan Dark Prince, Heartslayer'ı içeriye sızdırdı — 'calatdan içinden çalınan' felaket olarak craftworld'ün trajedisinin efendisi oldu.
 
 -# Kaynaklar: *Fandom wiki*
 

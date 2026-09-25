@@ -32,6 +32,10 @@ Old Ones'un mirasını en çok tartışılan yönü, War in Heaven sırasında v
 
 **İnsanlık ve Tyranid'ler.** İnsanlığın Old Ones tarafından "ekildiği" ya da Tyranid'lerin onların bir silahı veya düşmanı olduğu yönündeki yorumlar fandomda yaygındır. *Kanon durumu: doğrulanmamış teori.* Yayımlanmış kaynaklar bu iddiaları desteklemez.
 
+## Tarihçe
+
+Old Ones ('Kadimler'), soğukkanlı sürüngen benzeri, teknolojik ve psişik olarak son derece gelişmiş kadim türdür; War in Heaven'da Necrontyr'le savaşan ve Aeldari ile diğer genç ırkları yarattığı söylenen figürler. Tür olarak yok oldular ama yarattıkları — ve Chaos'un doğuşuna sebep olan mirasları — galaksinin tarihini şekillendirdi.
+
 ## War in Heaven ve Çöküş
 Old Ones'un galaktik hâkimiyeti, Necrontyr ile girdikleri savaşla sona erdi. Necrontyr'in, Old Ones'un uzun ömrünün sırrını paylaşmamasını bir ihanet gibi algıladığı ve bu kinin zamanla açık savaşa dönüştüğü anlatılır. Kaynaklar sırrın istenip reddedildiğine dair farklı ayrıntılar sunsa da kıskançlık ve kin her anlatının merkezindedir.
 

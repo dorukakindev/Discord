@@ -21,6 +21,10 @@ Primarch'ın ölümü Legion'ı dağıttı. Hayatta kalan Iron Hands; Raven Guar
 ## Heresy Sonrası
 Codex Astartes'in uygulanmasıyla Legion, Iron Hands ve ardıl Chapter'lara bölündü. Ferrus'un ölümünü zayıflıklarının kanıtı sayan savaşçılar, bedenlerini giderek daha fazla makineyle değiştirmeye başladı. Bu yönelim Chapter'ı Mechanicus'a yaklaştırırken, insanlığını ne kadar koruyacağı sorusunu da Chapter içindeki kalıcı bir gerilim hâline getirdi.
 
+## Tarihçe
+
+Iron Hands, sadık Space Marine chapter'ıdır ve İlk Kuruluş lejyonlarından biridir; şehit primarch Ferrus Manus'un gen-seed'inden yaratıldılar. Heresy sonrası diğer Legiones Astartes gibi bölünmüş bu chapter, 'et zayıflıktır' felsefesiyle Medusa'nın sert dünyasının ürünüdür — 'demirin içindeki adam' arketipi.
+
 ## Yapı ve Organizasyon
 Iron Hands, Medusa'nın klan geleneğini Codex'in company düzenine eklemleyen bir yapıya sahiptir. Chapter'ın company'leri **Clan Company** olarak anılır ve her biri Medusa'daki bir klanın adını taşır; Clan Raukaan, Garrsak ve Borrgos bunların bilinenleri arasındadır. Her Clan Company'nin başında, hem ruhani hem de teknik önder konumundaki **Iron Father**'lar ve Clan komutanları bulunur.
 

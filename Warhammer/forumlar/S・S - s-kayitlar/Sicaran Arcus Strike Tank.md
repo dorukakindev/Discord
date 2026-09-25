@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ea/ArcusStrikeTank00.png
 
 ## Tarihçe
 
-Sicaran Arcus Strike Tank, Sicaran'ın uzun-menzil missile-pod varyantı; çoklu-roket sistemiyle 'gökyüzü temizleyici' rolünde.
+Sicaran Arcus Strike Tank, Sicaran ailesinin missile-pod taşıyan ve en gizemli varyantıdır. Dreadclaw Drop Pod ve Cerastus Knight-Atrapos gibi 'gölgeli geçmişe' sahip bu tasarım, bilinmeyen bir sebeple Mechanicum tarafından Omnissiah'a bir hakaret sayılmıştır; bu yüzden Mars'ın hünerlileri onu üretmeyi veya tamir etmeyi reddeder. Hizmette kalan nadir örnekler, chapter'ların 'saklı silah' koleksiyonunun parçalarıdır — kullanımı Mechanicus'un gözünde teknik olarak 'yanlış' ama savaşta etkilidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553059851230253106>

@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7c/MetaurusImage.png/rev
 
 ## Tarihçe
 
-Metaurus, Ultramarines'in Bladeguard Veteran çavuşudur; Firstborn olarak başlayıp 'Rubicon Primaris'i geçerek Primaris oldu — eski kuşağın yeni bedende sürdürdüğü savaşın sembolü. Vigilus'ta Calgar'ın himayesinde savaştı.
+Metaurus, Ultramarines chapter'ının Bladeguard Veteran çavuşudur; bir zamanlar Firstborn'du ve Era Indomitus'ta 'Rubicon Primaris'i geçerek Primaris Marine oldu. Demetrian Titus'la ilk olarak Titus daha küçük bir çocukken karşılaşan ve onu Ultramarines aspirantı olmaya öneren kişidir; sonrasında Titus'un kariyeri boyunca mentör ve danışman olarak kaldı. Titus 2. Bölük komutanlığına ikinci kez yükseldiğinde onu 'Wardens of Ultramar' komuta timine seçti. Şimdi Primaris bedeninde Firstborn deneyimini taşıyan 'ölçülü tecrübe sesi' olarak Ultramar'ın yaşayan köprüsüdür.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057358823952405>

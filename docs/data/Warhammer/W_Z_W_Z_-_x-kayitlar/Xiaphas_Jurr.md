@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/80/Salamanders_Banner.jp
 
 ## Tarihçe
 
-Xiaphas Jurr — 'Ateş Peygamberi' — Salamanders lejyonunun şaipti. Isstvan V katliamından sağ çıkan parçalanmış lejyonlara ('Shattered Legions') önderlik edip Vulkan'ın ölmediği umudunu taşıyan kehanetleriyle direnişi ayakta tuttu; 'prophet' ünvanını gereksiz kan dökülmesini engellemek için kullanan nadir ruhlardandı.
+Xiaphas Jurr, 'Ateş Peygamberi' lakaplı Salamanders lejyonu üyesiydi; Reclusiam'ın öncüsü Igniax'ta Nomus Rhy'tan'ın elinden Chaplain eğitimi aldı. Isstvan V katliamının ardından Kaybedilen Vulkan'ın kaderini araştırmakla görevlendirildi. Savaş alanının kalıntılarında garip bir güç uyandı: ritüelleri artık kehanet taşıyordu. Parçalanmış lejyonlara ('Shattered Legions') umut veren bu figür, 'Alevin Havarileri' olarak bilinen bir takipçi grubu kurdu ve Heresy'nin karanlık günlerinde direnişin manevi lideri oldu.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057333448278147>

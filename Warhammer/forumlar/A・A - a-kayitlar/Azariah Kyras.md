@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/300px-Kyras.jpg/revis
 
 ## Tarihçe
 
-Azariah Kyras, Blood Ravens'ın efsanevi eski Bibliothecary'si ve Chapter Master'ıydı; Aurelia'ya düşen daemon Ulkair'le gizli ittifak kurup Chaos'a döndü — Dawn of War II'nin ana düşmanı.
+Azariah Kyras, Blood Ravens'ın eski Chapter Master'ı ve Baş Kütüphanecisiydi; Nurgle'un Greater Daemon'ı Ulkair'le yüzleşmesinin ardından trajik biçimde Chaos'a düştü. Kaybolduktan beş yüzyıl sonra açıklanamaz şekilde döndü — 'kendi chapter'ının içine gizlenen hain' olarak Dawn of War II'nin merkez kötüsüdür. Chapter'ın 'Kara Safhalar' döneminin simgesi.
 
 -# Kaynaklar: *Fandom wiki*
 

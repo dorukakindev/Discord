@@ -11,7 +11,7 @@
 
 ## Tarihçe
 
-Sa'ra'am ('Alttaki Daemon', 'Bıçağın Ucu', 'Savaşın Kahkahası'), Chaos Undivided daemon'u; Forge World Sarum'un çekirdeğine bağlanmış varlık — 'kelimeyi kesen' efsane.
+Sa'ra'am — 'Alttaki Daemon', 'Bıçağın Kenarı', 'Savaşın Kahkahası' — Chaos Undivided'ın daemon'udur; Büyük Sefer ve Heresy'de World Eaters'a savaş donanımı sağlayan Forge World Sarum'un çekirdeğine bağlanmıştı. Perturabo ve Iron Warriors'la karşılaştığında, daemon makineye bağlanma gücünü gösterdi — 'silahların içindeki şeytan' olarak karanlık forge tarihinin figürüdür.
 
 -# Kaynaklar: *Fandom wiki*
 

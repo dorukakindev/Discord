@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Scythes_Emperor_Armor
 
 ## Tarihçe
 
-Oberdeii — 'Pharos'un Muhafızı' — Ultramarines'in Pharos'a atanan şövalyesiydi; Sotha'nın savunmasından sonra Üçüncü Founding'in Scythes of the Emperor chapter'ının ilk Chapter Master'ı oldu. Miras chapter'ı Tyranidler tarafından neredeyse yok edildi ama Oberdeii'nin efsanesi sürdü.
+Oberdeii, 'Pharos'un Muhafızı' olarak bilinen ve Üçüncü Founding'in Scythes of the Emperor chapter'ının ilk Chapter Master'ı olan figürdür. Aslen Ultramarines lejyonunun 199. 'Aegida' Bölüğü'nün izcisi olarak Horus Heresy sırasında tarım dünyası Sotha'daki gizemli xenos artefaktı Pharos'un savunmasında yer aldı. Sotha Savaşı'ndan sonra Roboute Guilliman bizzat onu keşif timi çavuşluğuna yükseltti; sonra Aegida Bölüğü'nün kaptanı yapıldı — bölük, Codex Astartes'in izin vermediği 'hayalet 11. Bölük' olarak Guilliman'ın emriyle gizlice var edildi. Oberdeii, Sotha'nın üzerindeki nöbetini 32. Binyıl'a kadar yüzyıllar boyunca sürdürdü.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057347461714010>

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/87/Inquisitor_Lord_Cotea
 
 ## Tarihçe
 
-Torquemada Coteaz, Ordo Malleus'un en korkulan Inquisitor'lerinden; daemon tehdidini kişisel olarak avlayan, Daemonhost Cherubael'i hizmetine alan ve Greyfax gibi meslektaşlarıyla bile çatışan acımasız figür. Kendi Daemonhost'unu kullanması onu hem güçlü hem tartışmalı yapar.
+Torquemada Coteaz, Ordo Malleus'un Puritan Inquisitor Lord'u ve güçlü psyker'dır; onlarca yıllık Chaos karşıtı eylemiyle korkulan Daemonhunter ünü kazandı ve 'Formosa Sektörü'nün Yüksek Koruyucusu' olarak tanınır. Psyber-eagle'ı eşliğinde çalışan bu figür, Inquisition'un en yetkili ve en fanatik daemon avcılarından biridir — 'kutsal paranoya'nın bedeni olarak her şüpheyi soruşturan adam.
 
 -# Kaynaklar: *Inquisition Codexi*, *Eisenhorn romanları*
 -# İlişkili kayıtlar: <#1552848736663765072>

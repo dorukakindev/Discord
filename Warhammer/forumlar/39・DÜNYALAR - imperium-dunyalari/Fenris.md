@@ -22,4 +22,7 @@ Fenris kültürü (saga, onur, kabilesel sadakat, içki ve kavga), Space Wolves'
 
 Fenris, bir dünyanın bir chapter'ı nasıl şekillendirebileceğinin en saf örneğidir; Space Wolves'un vahşeti, onuru ve dayanıklılığı doğrudan bu acımasız buzul cehenneminden gelir. O, yalnızca en güçlülerin hayatta kaldığı, zayıflığın ölüm anlamına geldiği ve her günün bir saga olduğu, efsanevi bir ölüm dünyasıdır.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Fenris, Segmentum Obscurus'taki Death World'dür — 'Vlka Fenryka' yani Space Wolves'un homeworld'ü ve asker kaynağı; aynı zamanda Primarch Leman Russ'ın dünyası. Space Wolves'un devasa kale-manastırı The

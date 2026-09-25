@@ -39,6 +39,10 @@ Chapter'ın ruhani ve teknik düzeni de kendine özgüdür: **Wolf Priest**'ler 
 
 **Canis Helix** adı verilen Fenris kökenli gene-seed bileşeni, Chapter'ın ardıl Chapter oluşturmasını zorlaştıran bir istikrarsızlığa sahiptir. Kaynaklar, ardıl olarak kurulan Wolf Brothers'ın bu istikrarsızlık nedeniyle çöktüğünü anlatır.
 
+## Tarihçe
+
+Space Wolves — kendi Juvjk lehçelerinde 'Vlka Fenryka', 'Fenris'in Kurtları' — İlk Kuruluş'un 20 chapter'ından biridir; bir zamanlar efsanevi Primarch Leman Russ'ın liderliğindeydi. VI. Lejyon olarak Büyük Sefer'in şafağında İmparator tarafından yükseltilen bu chapter, 'kurtların özgürlüğü' olarak İmparatorluk'un en vahşi sadık figürleridir.
+
 ## Kültür, İnanç ve Dünya Görüşü
 Space Wolves'ın kültürü, Fenris'in savaşçı ahlakı, sözlü saga geleneği ve kurtla kurulan ruhani bağ üzerine kuruludur. Chapter'ın savaşçıları kahramanlık, kardeşlik ve onura değer verir; Imperium'un bürokratik yapısına ve dogmatik kurumlarına mesafelidir. Sıradan insanlara karşı koruyucu bir tutum sergilemeleri, özellikle Inquisition'la sık sık çatışmalarına yol açar.
 

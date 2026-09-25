@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Magister_Heritor_Asph
 
 ## Tarihçe
 
-Heritor Asphodel, Nadzybar'ın 'Magister'larından biriydi; Verghast'ta Gaunt's Ghosts'un elinden öldü — Sabbat Seferi'nin en bilinen Chaos kurbanlarından.
+Heritor Asphodel, Sabbat Dünyaları Seferi'nde Archon Nadzybar'ın emrindeki Chaos kuvvetlerinin 'Magister'ıydı — en taktiksel yetenekli komutanlarından biri. Seferin son safhalarında Verghast dünyasında, Albay-Komiser Ibram Gaunt ve Tanith First and Only alayının elinden öldürüldü. Bu ölüm seferin dönüm noktalar��ndan biri oldu; 'Magister'ların organizasyonunun sembolik sonunu getirdi.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058626690748508>

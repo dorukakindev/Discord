@@ -19,4 +19,8 @@ Bir Imperial Knight, muazzam bir savaş gücüdür; Reaper zincir kılıcı ya d
 
 Knight haneleri, çoğu zaman Adeptus Mechanicus'a bağlıdır ve Titan Lejyonları'nın küçük ama gururlu müttefikleridir; bir savaşta birkaç Knight, bir Titan'a destek olarak yürür. Her yürüteç, bir hanedanlık nişanı, bir onur ve nesiller boyu biriken bir savaş tarihi taşır; pilotu için sadece bir araç değil, bir miras ve bir kimliktir. Imperial Knight, İmparatorluğun feodal, onur-temelli ve dev ölçekli savaş kültürünün somut halidir; çelikten bir şövalye, bir aile mirası ve yürüyen bir kaledir.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Imperial Knight, Adeptus Titanicus'un altındaki şövalye evlerinin (Knight Households) pilotları tarafından kullanılan, Titan'dan küçük ama yine de devasa tek-koltuklu savaş yürüyüşüdür; 'şövalye motoru' olarak soylu hanelerin ve Freeblade'lerin silahıdır — bir kişinin pilotluk ettiği 'mini-tanrı-motor'.
+-# Kaynaklar: Lexicanum + resmî kural kitapları ve kül

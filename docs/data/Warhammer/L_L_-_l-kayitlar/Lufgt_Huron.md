@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Huron_Blackheart_Reve
 
 ## Tarihçe
 
-Lufgt Huron, Astral Claws'ın Chapter Master'ı olarak Badab Savaşı'nı çıkaran adam; savaşta yaralanıp 'Huron Blackheart' olarak yeniden doğdu — Red Corsairs'in kaos lordu.
+Lufgt Huron — 'Huron Blackheart', 'Badab'ın Tiranı' — bir zamanlar Astral Claws'ın Chapter Master'ı ve Badab Primaris'in kendi-ilan-etmiş İmparatorluk valisiydi. Badab Savaşı'nda yenilip ağır yaralandı — bedeni ancak kapsamlı biyonik augmentasyonla onarıldı — sonra Maelstrom'a kaçıp Red Corsairs'in Chaos Lord'u oldu. İmparatorluk'un en büyük korsan donanmasını kuran bu figür, 'sadık chapter'ın efendisinden Chaos'un ikinci büyük lorduna' düşüşün simgesidir.
 
 -# Kaynaklar: *Fandom wiki*
 

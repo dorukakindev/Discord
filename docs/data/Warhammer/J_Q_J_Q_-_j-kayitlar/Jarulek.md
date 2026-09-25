@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/86/Post-Heresy_Daemon_He
 
 ## Tarihçe
 
-Jarulek ('Yüceltilmiş', 'Kutsanmış'), Word Bearers'ın en korkulan Dark Apostle'larından; Lorgar'ın 'favorileri' arasında sayılan ve Word Bearer mitolojisinde 'vaiz' figürü.
+Jarulek ('Yüceltilmiş', 'Kutsanmış'), Word Bearers lejyonunun en korkulan Dark Apostle'larından biriydi ve ölümsüz Daemon Primarch Lorgar'ın favorileri arasındaydı. Chaos Undivided'e aşırı bağlılığı, öfkeli tutkusu ve ateşli hitabetiyle sayısız milyonlarca insanı Sekiz-Yol'un 'hakikatine' döndürdü; direnen milyonlarca kişi de onun emriyle katledildi. Necron'ların stasis mezarından güçlü bir artefaktı başarıyla çıkardıktan sonra Tanakreg dünyasında uyanan bir Necron Lord'u tarafından öldürüldü — 'kelimeyi mezara kadar taşıyan' fanatik.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553059917315702854>

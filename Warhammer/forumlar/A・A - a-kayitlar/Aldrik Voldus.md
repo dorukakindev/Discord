@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Grand_Master_Voldus.p
 
 ## Tarihçe
 
-Aldrik Voldus, Grey Knights'ın en kıdemli Büyük Ustasıdır; Terran Crusade'de Guilliman ve Cypher'la birlikte Terra'ya yürüyen 'Üçlü'nün parçası — İmparatorluk'un en güçlü psyker-şövalyesi.
+Aldrik Voldus, Grey Knights'ın 3. Kardeşliği'nin Grand Master'ı ve chapter'ın Librarius'unun Warden'ı — fiilen Baş Kütüphaneci'sidir. Supreme Grand Master Kaldor Draigo tarafından atanan bu figür, 'Warp'ta kaybolmuş efendinin yerini tutan' adam olarak chapter'ın günlük komutanı sayılır; güçlü psyker ve taktik deha birleşimi.
 
 -# Kaynaklar: *Fandom wiki*
 

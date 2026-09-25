@@ -22,4 +22,7 @@ Macragge'in en önemli askeri anı, ilk büyük Tyranid istilasıdır; Hive Flee
 
 Macragge, İmparatorluğun "olması gerektiği gibi" olabileceğinin kanıtıdır; karanlık, çürüme ve umutsuzlukla dolu bir galakside, düzenin, sorumluluğun ve iyi yönetimin bir adası. Guilliman'ın dirilişiyle birlikte, Macragge ve Ultramar, İmparatorluğun yeniden inşasının merkezi ve insanlığın hâlâ daha iyi bir geleceğe sahip olabileceğinin sembolü oldu.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Macragge, Ultima Segmentum'un güney ucundaki İmparatorluk Ci

@@ -19,3 +19,7 @@ Medusa (resmî adıyla Medusa IV), Iron Hands chapter'ının ve kayıp primarch'
 Gezegenin en belirgin özelliği, jeolojik kararsızlığıdır; buzul sıradağları, volkanlar ve kaynayan gayzerler iç içe geçer ve manzara sürekli bir değişim halindedir. Tektonik plakaların hareketi durmadan yeni dağlar ve denizler oluşturur, yarattığı hızla da yok eder. Böyle bir dünyada kalıcı hiçbir şey inşa edilemez; istikrar bir lüks, değişim ise tek sabittir.
 
 Medusa halkı, sürekli birbiriyle rekabet eden klanlar halinde örgütlenmiştir; kıt kaynaklar ve güvenli zemin için amansızca mücadele ederler, çünkü gezegenin öngörülemez doğası yüzünden hiçbir yerde uzun süre tutunamazlar. Bu acımasız hayatta kalma savaşı, halkı son derece sert, dayanıklı ve pragmatik yapar; zayıflık burada ölüm demektir. Iron Hands, en güçlü adaylarını bu klanlar arasından devşirir. Ferrus Manus'un düştüğü büyük buz zirvesi Karaashi, bugün hâlâ gezegende durur.
+
+## Tarihçe
+
+Medusa (resmen Medusa IV), Iron Hands'ın chapter homeworld'ü ve kayıp primarch'ları Ferrus Manus'un dünyasıdır; Eye of Terror'a tehlikeli yakın, sürekli karanlık ve kirli gökyüzlü sert bir Feral World. Güneşin neredeyse hiç görünmediği bu dü

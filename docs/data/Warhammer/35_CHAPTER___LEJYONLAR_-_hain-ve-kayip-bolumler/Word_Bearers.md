@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/66/WordBearersArmourial.png/revision/latest?cb=20170813043044
 
+## Tarihçe
+
+Word Bearers, Horus Heresy sırasında İmparator'a ihanet eden dokuz İlk Kuruluş Space Marine lejyonundan biridir; Chaos Space Marine oldular ve bağlılıkları Daemon Primarch Lorgar'a ve Chaos Undivided'a yöneldi. Chaos'a dönen İLK lejyon olarak 'ilk hain' unvanını taşırlar — 'kelimenin yıkıcısı' olarak Heresy'nin fikir babaları.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Word Bearers — Söz Taşıyanlar (XVII. Lejyon)

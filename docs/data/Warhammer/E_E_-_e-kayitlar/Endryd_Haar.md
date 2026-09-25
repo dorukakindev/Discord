@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/18/Endryd_Haar.jpg/revis
 
 ## Tarihçe
 
-Endryd Haar, World Eaters'ın sadık kalmayı seçen savaşçısıydı; lejyonunun Chaos'a düşmesini reddedip Angron'a karşı çıkan — 'son sadık XII. Lejyoncu' figürü.
+Endryd Haar — 'Yarık Tazı' — eski World Eaters lejyonunun Praetor'uydu; Terra'da yetiştirilen ilk asker dalgasındandı — XII. Lejyon'un 'War Hounds' olarak anılmasından bile önce, primarch Angron'un Nuceria'da bulunmasından onyıllar önce. Blackshield olarak lejyonunun yozlaşmasına karşı çıkan bu figür, 'asıl War Hound' kimliğini koruyan son sadıklardan biri olarak Heresy'nin karanlık savaşçıları arasında yer alır.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/64/EmperorsChildrenArmourial.png/revision/latest?cb=20170813041500
 
+## Tarihçe
+
+Emperor's Children ('Haz Lordları' da denir), Chaos'a düşmüş III. Lejyon'dur; bir zamanlar İmparatorluk'un gururlu lejyonuydu ama şimdi Zevk Prensi Slaanesh'e hizmet eder. 'Kusursuzluğun düşüşü' olarak Fulgrim'in yozlaşmış evlatları — güzellikten dehşete dönüşen lejyon.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Emperor's Children — İmparator'un Çocukları (III. Lejyon)

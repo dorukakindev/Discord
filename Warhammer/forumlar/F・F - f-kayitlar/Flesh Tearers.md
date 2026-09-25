@@ -45,6 +45,10 @@ Bu tarzın bedeli açıktır. Yakın dövüşün kanı, kokusu ve sesi, Red Thir
 
 Chapter Master **Gabriel Seth**'in iki elle kullanılan zincirli kılıcı **Blood Reaver**, bu savaş anlayışının simgesi gibi okunabilir: zarif bir relic değil, çarpışmanın göbeğine dalan bir komutanın aracı. Seth'in önderlik tarzı Chapter'ın bugünkü kimliğini derinden belirlemiştir; kusurla açıkça boğuşan, yanılsamalara yer vermeyen ve Chapter'ın çöküşünü durduramasa bile yavaşlatmayı görev edinen bu yaklaşımın ayrıntısı için gabriel-seth.
 
+## Tarihçe
+
+Flesh Tearers, Blood Angels'ın İkinci Kuruluş halefi ve Sanguinary Brotherhood'un en küçük chapter'ıdır — Baal'ın Yıkımı'ndan önce en dip noktasında sadece dört tam bölük Astartes vardı. İmparator'a sadıktırlar ama olağandışı şiddet eğilimleriyle bilinirler — 'kanla savaşan' chapter olarak en vahşi sadık figürlerden.
+
 ## Cryptus ve Baal
 M41'in son yıllarında Hive Fleet Leviathan'ın kolları Baal'a yöneldiğinde Flesh Tearers, soyun yurdunu savunan ilk Chapter'lar arasında yer aldı. *Shield of Baal* kampanya kitaplarının işlediği **Cryptus** sistemi, Baal'ın önünde bir kalkan olarak tutulmaya çalışılırken Chapter, Tyranid sürülerine karşı yakın dövüşün en ağır yükünü üstlendi. Sistem sonunda elden çıktı; yine de orada satın alınan zaman, Dante'ye soyun Chapter'larını Baal'da toplayabilme fırsatını verdi.
 

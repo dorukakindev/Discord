@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/HHL_Marius_Gage.webp/
 
 ## Tarihçe
 
-Marius Gage, Ultramarines'in 1. Chapter Master'ı ve Guilliman'ın en güvendiği komutanıydı; Calth'ın düşüşünü izleyen sahnelerde primarch'ın yanında duran adam.
+Marius Gage — 'Birinci Efendi' — Terra doğumlu XIII. Lejyon'un ikinci Lord Commander'ıydı; Primarch Roboute Guilliman'ın bulunmasının ardından Ultramarines'ın elit 1. Bölüğü'nün ilk Chapter Master'ı oldu. Guilliman'ın en güvenilir sağ kolu olarak Büyük Sefer ve Heresy'de görev yaptı — 'Ultramar'ın gölge mimarı' olarak lejyonun en kıdemli figürlerinden biriydi.
 
 -# Kaynaklar: *Fandom wiki*
 

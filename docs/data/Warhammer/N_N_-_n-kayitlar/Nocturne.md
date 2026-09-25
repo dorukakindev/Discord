@@ -13,6 +13,10 @@ Nocturne'ün doğası, belirli aralıklarla doruğa çıkan jeolojik bir kıyame
 
 Nocturnean zanaatkârlığının, özellikle demirciliğin, bu toprağın madenleriyle acımasızlığı arasında geliştiği anlatılır. Dünyanın büyük sürüngen yırtıcıları, halkın dilinde ve efsanelerinde **salamander** ya da drake olarak anılan ateş canavarları, hem tehdit hem de simgedir. Chapter'ın adı, sancakları ve kurucu efsaneleri bu yaratıklarla iç içedir.
 
+## Tarihçe
+
+Nocturne, Segmentum Ultima'da Salamanders chapter'ının homeworld'üdür; Feudal World ve Death World olarak sınıflandırılır. Aşırı büyük uydusu Prometheus'un yerçekimi yüzünden volkan zincirleri ve depremlerle dol
+
 ## Halk, Prometheus ve Promethean Cult
 Nocturne halkı, Imperium'un pek çok dünyasından farklı olarak Space Marine'lerle mesafeli bir tanrı-kul ilişkisi yaşamaz. Salamanders savaşçıları adaylarını sanctuary city'lerden seçer ve çoğu, Chapter'a katıldıktan sonra da kan ailesiyle bağını sürdürür; Time of Trial geldiğinde Space Marine'lerin yüzeye inip kentleri halkla birlikte koruduğu anlatılır. Bu yakınlık, Vulkan'ın Nocturne'deki yükselişinin doğrudan mirasıdır: Primarch, yağmacı akınlarına karşı halkı sığınaklara saklanmak yerine birlikte savunmaya çağırarak önder olmuştu. Kaynaklarda bu akıncıların Drukhari olduğu belirtilir.
 

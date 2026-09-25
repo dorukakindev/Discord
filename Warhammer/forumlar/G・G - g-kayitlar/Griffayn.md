@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bf/FallenAngelsIcon.png/
 
 ## Tarihçe
 
-Griffayn ('Mızrak Atımı'), Dark Angels lejyonunun Firewing'inde 'voted-lieutenant' olarak görev yaptı; Büyük Sefer ve Heresy boyunca hızlı-vuruş taktikleriyle bilinen subay.
+Griffayn — savaş kardeşleri arasında 'Mızrak Atışı' — Dark Angels lejyonunun Firewing'inin oy-lieutenant'ı olarak Büyük Sefer ve Heresy'de görev yaptı. Kariyerine sergeant-at-arms olarak başladı ve Muspel Seferi'nde yetkinlik ve liderlik göstererek teğmenliğe yükseldi; I. Lejyon'un 'savaş kanadı' komutanlarından biri olarak lejyonun az bilinen figürlerindendir.
 
 -# Kaynaklar: *Fandom wiki*
 

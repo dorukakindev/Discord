@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/63/Biel-Tan_Guardians_1.
 
 ## Tarihçe
 
-Storm Guardian, craftworld'ün militisinin yakın dövüş koludur; shuriken tabancası ve Aeldari savaş bıçağı taşıyan sivil-askerler, aspect warrior olmayanların görev çağrısıdır. Guardian Defender'ların aksine yakın mesafe çatışmalarına ve siper temizlemeye odaklanırlar; çoğu zaman Warlock veya Spiritseer eşliğinde savaşır.
+Storm Guardians, Craftworld Aeldari'nin sivil-asker (militia) birimidir — normalde Guardian Defender olan Asuryani vatandaşlarının yakın-dövüş varyantı. Fusion Gun ve güç kılıçlarıyla donanmış bu figürler, 'halkının son savunması' olarak craftworld ordularının gönüllü elitidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877544586608652>

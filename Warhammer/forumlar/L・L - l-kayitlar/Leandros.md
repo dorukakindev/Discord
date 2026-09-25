@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/01/LeandrosHeadShot.webp
 
 ## Tarihçe
 
-Leandros, Ultramarines'in katı 'Codex' kurallarına bağlı subayıdır; Titus'un Warp'a dokunmasını ihbar eden — Space Marine serisinin tartışmalı figürü.
+Leandros, Graia'nın Kurtuluşu'nda Kaptan Demetrian Titus'un Ultramarines 2. Bölük Komuta Timi'nde görev yapan genç bir savaş kardeşiydi — Space Marine oyununda Titus'un şüpheci takım arkadaşı olarak bilinir. Yüzyıldan fazla sonra Titus Primaris olarak döndüğünde karşılaştıkları andaki hesaplaşma, 'dogmatik genç ile sorgulanan kaptan'ın' efsanevi hikâyesidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -21,6 +21,10 @@ Deathwatch'ın kuruluşu hakkında yayımlanmış kanonda tek bir anlatı yoktur
 
 İki anlatı farklı zaman ve bağlamlar önerir. Bazı okurlar bunları, War of the Beast'teki prototip ekiplerin sonradan kurumsallaşan bir yapıya dönüşmesi olarak birleştirir; ancak bu bir yorumdur. Kanon durumu: kaynaklar aynı anlatımı sunmaz. Her iki anlatı da Deathwatch'ın sonunda Ordo Xenos'un Chamber Militant'ı hâline geldiği noktada buluşur.
 
+## Tarihçe
+
+Deathwatch — 'Uzun Nöbet', 'Uzun Gözcü' — Ordo Xenos'un Chamber Militant'ı olarak görev yapan, çoğunlukla Veteran Space Marines'ten oluşan eşsiz Adeptus Astartes chapter'ıdır; Inquisition'un 'son çare' olarak aşırı ateş gücüne ihtiyaç duyduğunda çağırdığı elit xenos avcılarıdır.
+
 ## Yapı ve Organizasyon
 Deathwatch, galaksiye dağılmış **Watch Fortress**'lardan yönetilir. Her fortress, bulunduğu bölgedeki xenos tehditlerini izleyen bir üs, silah deposu ve bilgi arşividir. Kaynaklarda anılan örnekler arasında Great Rift öncesinde en büyük Watch Fortress ve başlıca eğitim merkezi olarak anılan **Talasa Prime** ile Jericho Reach'teki **Watch Fortress Erioch** yer alır.
 

@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/dc/JaeHeydari.png/revisi
 
 ## Tarihçe
 
-Jae Hedari, Kasballica suç sendikasının Footfall'daki misyonunu yöneten suç figürü; Koronus Expanse'ın yeraltı dünyasının en etkili isimlerinden — 'kanunsuz ama vazgeçilmez' statüsü.
+Jae Hedari, suç dünyasının figürü ve Kasballica sendikasının Koronus Expanse'daki Footfall uzay istasyonundaki misyonunun üyesidir; yasadışı xenos ticareti ('Cold Trade') yapan 'Cold Trader'ların en bilinenlerinden biriydi. İmparatorluğun ışığı ne kadar parlarsa gölgesi o kadar koyu olur — Hedari o gölgede yaşayan, contraband artefaktları ve yasak bilgileri alıp satan kadın. Sonradan House von Valancius'un yeni Rogue Trader'ının ekibine katılarak yeraltı dünyasının bağlantılarını hanedanın hizmetine soktu.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058588598210640>

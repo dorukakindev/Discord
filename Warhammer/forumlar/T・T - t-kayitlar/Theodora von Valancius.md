@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/53/TheodoravonValancius1
 
 ## Tarihçe
 
-Theodora von Valancius Massimo af Scarus, House von Valancius'un lideri ve üç büyük Rogue Trader hanesinden birinin başıydı; ölümü halefine 'bin yıllık' bir imparatorluk bıraktı.
+Theodora von Valancius Massimo af Scarus, House von Valancius'un lideri ve Koronus Expanse'deki üç büyük Rogue Trader hanedanının başıydı. Uzun saltanatı boyunca hanedanı bölgenin en güçlü ticari ve askeri güçlerinden birine çevirdi; ölümünden sonra halefi olan karakter bin yıllık bir yük ve 'yaşayan efsane' mirası devraldı — von Valancius'un son büyük figürü.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058594889666701>

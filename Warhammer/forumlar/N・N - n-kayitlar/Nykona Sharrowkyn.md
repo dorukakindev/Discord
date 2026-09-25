@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/de/Nykona_Sharrowkyn.jpg
 
 ## Tarihçe
 
-Nykona Sharrowkyn, Raven Guard'ın efsanevi keskin nişancısıydı; Isstvan V katliamından kurtulan ve sonraki sabotaj görevlerinde başrol oynayan 'gölge okçu' — Fulgrim'i bile yaralamış nişancı.
+Nykona Sharrowkyn, 31. Binyıl başında Raven Guard'ın en ölümcül üyelerinden biriydi; rezil Isstvan V Drop Site Massacre'da ilk saldırı dalgasıyla konuşlandırılıp o karanlık günlerdeki umutsuz savaşlardan sağ çıktı — ama lejyonundan ayrı düştü. 'Kayıp avcı' olarak Lucius the Eternal'la olan efsanevi düellosu ve hayalet gibi hayatta kalmasıyla chapter'ın en gizemli figürlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

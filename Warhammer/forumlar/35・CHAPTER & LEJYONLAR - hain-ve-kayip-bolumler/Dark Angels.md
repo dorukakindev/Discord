@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/9/9c/DAB3.jpg/revision/latest?cb=20160103051635
 
+## Tarihçe
+
+Dark Angels, sadık Space Marine chapter'larının en güçlü ve en gizli olanlarından sayılır; 30. Binyıl'ın Birinci Kuruluşu'nda yaratılan ilk 20 lejyonun I.'siydi. İmparator'a tam sadakat iddia etseler de 'Fallen' sırrını — Caliban'ın yok oluşundaki ihaneti — saklayan chapter olarak 'karanlığın ilk lejyonu'dur.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Dark Angels — Karanlık Melekler (I. Lejyon)

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Goreman.jpg/revision/
 
 ## Tarihçe
 
-Luthir Veremonn Goreman, Vraks Kuşatması'nda görev yapan Death Korps of Krieg'in kıdemli komutanıydı; on yedi yıllık kuşatmanın kararlı figürlerinden.
+Luthir Veremonn Goreman, Calixian Büyük Karakolunun Lord Marshal'ıdır — Calixis Sektörü'ndeki tüm Adeptus Arbites güçlerinin komutanı. Scintilla'daki Büyük Karakol Kalesi'nden yöneten bu figür, sektörün İmparatorluk hukukunun en üst yürütücüsü olarak 'kanun'un bedenidir; arbiter ordularının, mahkemelerin ve infazların efendisi.
 
 -# Kaynaklar: *Fandom wiki*
 

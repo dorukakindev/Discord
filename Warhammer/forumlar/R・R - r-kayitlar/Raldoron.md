@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/BA_war_Chapter_Master
 
 ## Tarihçe
 
-Raldoron, Sanguinius'un en güvendiği kaptan ve Blood Angels 1. Bölüğü'nün komutanıydı; Signus Prime ve Terra Kuşatması'nda başrolde — sonradan ilk Chapter Master oldu.
+Raldoron — 'Kanlı' ve 'Bilgeliğin Archein'i — Büyük Sefer ve Heresy'de Blood Angels lejyonunun efsanevi birinci kaptanıydı; elit 1. Bölüğün Chapter Master'ı ve 'Encarmine Warblade' kılıcını taşıyan figür. Signus'ta ve Terra Kuşatması'nda Sanguinius'un yanındaydı; 'en soylu oğul' olarak Blood Angels'ın altın çağının simgesi.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -13,6 +13,10 @@ Yriel'in hikâyesinin bir bedeli vardır: Iyanden'i kurtarmak için kuşandığ�
 
 **Kanal sınırı.** Corsair toplumu **kayıt**, Iyanden'in felaketinin Tyranid tarafı **kayıt** ve **kayıt**, craftworld yaşamı **kayıt** kanalında işlenir. Burada merkezde Yriel'in kişisel yolu durur.
 
+## Tarihçe
+
+Prince Yriel — House Ulthanash'ın Oğlu, Iyanden'in Yüksek Amiral'i ve Eldritch Raiders'ın efendisi — Iyanden'in parlak ama pervasız Autarch'ıdır. Saf Iyanden soylusu değildir; korsan olarak sürüldü ama Hive Fleet Kraken'ın saldırısında lanetli Spear of Twilight'ı çekip craftworld'ünü kurtardı — 'sürgünden dönen korsan-prens' olarak Iyanden'ın en tartışmalı kahramanı.
+
 ## Zafer, Sürgün ve Eldritch Raiders
 
 Yriel'in ünü, Iyanden filosunun başında kazandığı büyük bir deniz zaferiyle doğdu. Kaynakların anlatımına göre Iyanden'i tehdit eden düşman bir filoyu kovalayıp ağır bir yenilgiye uğrattı; bazı yayınlar bu çarpışmayı Flame Nebula ile ve **Eye of Night** adıyla anılan düşman amiral gemisinin yok edilişiyle ilişkilendirir. Bu ayrıntılar farklı yayınlarda aynı açıklıkla verilmediğinden arşiv onları temkinle aktarır; kesin olan, zaferin Yriel'e büyük bir şöhret kazandırdığıdır.

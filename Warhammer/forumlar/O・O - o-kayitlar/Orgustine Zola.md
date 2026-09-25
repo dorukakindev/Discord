@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/80/ExplicatorZola.webp/r
 
 ## Tarihçe
 
-Orgustine Zola, Ordo Hereticus'un 'explicator'ı ve Grendyl'in ekibinin kıdemli üyesi; Atoma Prime operasyonunun 'sorgu-beşik' figürü — Iven Rannick'in yanındaki isim.
+Orgustine Zola, Ordo Hereticus'un explicator'ı ve Inquisitor Grendyl'in ekibinin kıdemli üyesidir; Atoma Prime'daki Chaos çürümesini temizlemeye çalışan Acolyte warband'inin parçasıdır. Üstünü Interrogator ile yakın çalışan bu figür, 'karanlık dosyaların açıklayıcısı' olarak Darktide'ın istihbarat zincirinin halkasıdır.
 
 -# Kaynaklar: *Fandom wiki*
 

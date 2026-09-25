@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1e/Urkrathos.png/revisio
 
 ## Tarihçe
 
-Urkrathos, Black Legion'un Hounds of Abaddon warband'inin efendisi ve 'Seçilmiş'in Lord Ravager'ıdır; Despoiler'in Black Fleet'inin amirali olarak 13. Kara Haçlı Seferi'nde Cadia'ya hücum etti.
+Urkrathos ('Urkanthos' da denir), Black Legion'un Chaos Lord'u, 'Hounds of Abaddon' warband'inin efendisi ve Abaddon'un Seçilmişler'inin Lord Ravager'ıydı — ayrıca Despoiler'ın Kara Filosu'nun amirali. İronik biçimde, Sable'i yani filo savaşını yöneten bu adam Blackfleet'in en kanlı komutanı olarak Cadia'nın düşüşünden önceki son deniz savaşlarında merkezi rol oynadı.
 
 -# Kaynaklar: *Fandom wiki*
 

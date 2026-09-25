@@ -53,6 +53,10 @@ Bu gelişlerin belirli savaşlara nasıl dağıldığı, yani Jain Zar'ın hangi
 
 **Rhana Dandra.** Asuryani kehanetine göre türün Chaos'a karşı son savaşında dağılmış Phoenix Lord'lar yeniden bir araya gelecek ve Fuegan'ın çağrısıyla birlikte savaşacaktır. Jain Zar da bu kehanetin parçasıdır. Onun Ynnari'ye katılmasının bu kehanetle nasıl ilişkilendiği, yani Ynnead'in uyanışını son savaşa giden yolun bir parçası olarak görüp görmediği, kaynaklarda açıkça ifade edilmez; bu konudaki okumalar yorumdur.
 
+## Tarihçe
+
+Jain Zar — 'Sessizlik Fırtınası' — Craftworld Aeldari'nin Howling Banshees Aspect Warriors'ının Phoenix Lord'u ve kurucusudur; Asurmen'in ilk öğrencisiydi. Blade of Destruction ve Jainas Mor'u taşıyan bu figür, savaş çığlığıyla düşmanı felç eden 'gürültüden doğan sessizlik' paradoksudur — Phoenix Lord'ların en yakın-dövüş ustası.
+
 ## Ynnari'ye Katılış
 
 Great Rift'in açılışıyla eş zamanlı gelişen olaylarda Yvraine, Commorragh'ta ölüp yeniden doğmuş ve ölüm tanrısı **Ynnead**'in, türün son bireyinin ölümünü beklemeden uyandırılabileceğini ilan etmişti. *Gathering Storm II: Fracture of Biel-Tan*'ın anlattığı olaylarda Biel-Tan'ın infinity circuit'i parçalanırken Yncarne ortaya çıktı ve bu yeni hareketin çevresinde çeşitli kadim figürler belirdi. Jain Zar, onların en dikkat çekicisidir.

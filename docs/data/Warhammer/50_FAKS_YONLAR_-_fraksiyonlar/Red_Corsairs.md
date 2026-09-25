@@ -16,7 +16,7 @@ Huron Blackheart önderliğinde Maelstrom'dan Imperium'a saldıran korsan bir g�
 
 ## Tarihçe
 
-Huron, Badab'da Imperium'a meydan okuyunca Badab War başladı. Savaşın sonunda ağır yaralandığı anlatılan Huron, sadık kalan adamlarıyla Maelstrom'a çekildi ve Red Corsairs'ı kurdu. Sonraki dönemde Maelstrom çevresinde baskınlar düzenlediler.
+Red Corsairs, Ultima Segmentum'daki Maelstrom Warp rift'i — 'Maelstrom Zone' — yakınındaki İmparatorluk sevkiyatı ve dünyalarını tehdit eden, ölümlüler ve diğer Hain Denizcilerden oluşan dev korsan filosuna komuta eden Renegade Chapter'dır. Lufgt Huron'un liderliğindeki bu grup, 'Badab'ın artıkları' olarak İmparatorluk'un en büyük deniz korsan tehdididir.
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Ten: The Badab War – Part Two*; *Codex: Chaos Space Marines*
 

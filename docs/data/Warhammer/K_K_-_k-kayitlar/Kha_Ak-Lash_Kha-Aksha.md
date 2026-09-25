@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Kha Ak-Lash Kha-Aksha, 'Usurper' olarak bilinen ve kayıtlara geçen en güçlü Bloodthirster'lardan biridir; adının kazandığı dehalar yasaklı bilginin derinliklerinde saklıdır.
+Kha Ak-Lash Kha-Aksha ('Gaspçı'), Khorne'un kötü şöhretli Bloodthirster'ıdır; Warp'ta doğmuş en güçlü varlıklardan biri olduğu yazılıdır. Bu ismi kazandıran işler en yasak bilgilere gömülü olsa da bazıları onun Khorne'un tahtını gasp etmeye çalıştığı için 'Sürgün' statüsünde olduğunu fısıldar — 'kendi efendisine isyan eden daemon' olarak Skarbrand'la aynı lanetli sınıftadır.
 
 -# Kaynaklar: *Fandom wiki*
 
