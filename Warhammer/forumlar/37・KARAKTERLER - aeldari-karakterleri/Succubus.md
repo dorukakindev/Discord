@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Succubi.jpg/revision/
 
 ## Tarihçe
 
-Succubus, Wych Cult'un lideri ve arena'nın en ölümcül gladyatörü; kan ve alkışın beslediği Commorragh güç odaklarından biri. Acıyla beslenen toplumun 'sanatçı-savaşçısı'.
+Succubus, Drukhari Wych Kültlerinin kadın lideridir; Commorragh'ın arena kraliçeleri olarak güzellik ve vahşeti birleştiren bu figürler, kabal'larının en 'ölümcül dansçısı'dır.
 
 -# Kaynaklar: *Drukhari Codex*

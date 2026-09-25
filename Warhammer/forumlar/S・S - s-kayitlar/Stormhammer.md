@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Stormhammer2.jpg/revi
 
 ## Tarihçe
 
-Stormhammer, Baneblade şasesine Stormhammer Cannon + çoklu sponson takılmış en ağır 'doğrudan savaş' varyantı; düşmanın savaş hattına çarpan duvar-güç.
+Stormhammer, İmparatorluk'un eski 'süper-ağır' Baneblade varyantıdır; standart Baneblade'den daha ağır zırh ve ek silah sistemleri taşıyan nadir bir savaş platformu. Modern ordularda neredeyse hiç görülmez — 'efsanevi süper-ağır' statüsünde.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848833946583121>

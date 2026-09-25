@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Cleaved_SP.png/revisi
 
 ## Tarihçe
 
-The Cleaved, Death Guard'ın ayrılmış ama yine de bağlı savaş-bandı; 'yarılmış' bedenlerle savaşan Plague Marine çetesi. Çürümenin yavaşlığı = stratejinin sabrı.
+The Cleaved, Death Guard'ın Nurgle'ın 'pençesi' olarak bilinen seçkin warband'idir; Typhus'un himayesinde çalışan bu elit birimler, veba-lejyonun en kudretli figürleri arasındadır.
 
 -# Kaynaklar: *Chaos Space Marines Codex*
 -# İlişkili kayıtlar: <#1552850057458487406>

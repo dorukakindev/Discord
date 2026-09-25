@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b8/MechanicusSkitarii.jp
 
 ## Tarihçe
 
-Pteraxii Skystalker ve Sterylizor sınıfı uçan Skitarii; kanatlı biyomekanik savaşçılar. Skystalker keşif ve yıldırım saldırısı yapar, Sterylizor ise düşmanı yakan alev birimi — Mechanicum'un gökyüzü kartalları.
+Pteraxii, Adeptus Mechanicus'un 'kanatlı' Skitarii birimleridir; Sterylizor veya Skystalk varyantlarıyla havada savaşan bu 'mekanik kuşlar', Mars'ın 'jet-halo'su.
 
 -# Kaynaklar: *Adeptus Mechanicus Codex*
 -# İlişkili kayıtlar: <#1552848789969043556>

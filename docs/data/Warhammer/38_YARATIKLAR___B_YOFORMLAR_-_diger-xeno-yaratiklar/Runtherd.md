@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Runtherd.jpg/revision
 
 ## Tarihçe
 
-Runtherd, Gretchin ve Squig sürülerini yöneten Ork 'çoban'; küçük-yeşilleri dövüşe ve işe koşan kamçı-sahibi. Ork toplumunun 'yönetici' sınıfı — zulmün organizatörü.
+Runtherd, Ork ordusunun 'Grot çobanı'dır; gretchin sürülerini kırbaçlayıp savaşa süren bu figür, küçük-alemin efendisidir — 'Mek' kadar hayati ama daha kaba.
 
 -# Kaynaklar: *Orks Codex*

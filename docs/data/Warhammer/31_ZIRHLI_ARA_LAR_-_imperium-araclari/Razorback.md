@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/59/AoF_MK_VI_Razorback.j
 
 ## Tarihçe
 
-Razorback, Rhino'nun üstüne Heavy Bolter veya Lascannon takılı piyade taşıyıcı varyantı; 'hem taşı hem vur' doktrini. Space Marine'in orta sınıf işatı — her Chapter'ın standart aracı.
+Razorback, Space Marines'ın klasik zırhlı piyade taşıyıcısıdır; Rhino şasisi üzerine lascannon veya heavy bolter kulesi taşıyan bu araç, 'ateş ve taşıma' dengesinin simgesi.
 
 -# Kaynaklar: *Adeptus Astartes Codexleri*

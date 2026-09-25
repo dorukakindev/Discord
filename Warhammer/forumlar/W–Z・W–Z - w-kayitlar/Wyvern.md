@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ec/WyvernFiring000.png/r
 
 ## Tarihçe
 
-Wyvern, dörtlü havan bataryası taşıyan ve 'havadan ölüm' yağdıran anti-piyade aracı; siperlerdeki düşmanı dolaylı atışla çıkarır. Guard'ın 'trench-breaker' silahı.
+Wyvern, İmparatorluk'un çift-top Hydra varyantıdır; dört hava-savunma topçusuyla hem uçak hem piyade avlayan bu araç, Armageddon'un gökyüzü savunmasında ünlendi — 'dron' katili.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848825784475742>

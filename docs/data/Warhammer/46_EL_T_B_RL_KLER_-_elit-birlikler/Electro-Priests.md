@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/33/Corpuscarii1.png/revi
 
 ## Tarihçe
 
-Electro-Priests, vücutlarını yaşayan enerji piline çeviren Mechanicum fanatik savaşçıları; Corpuscarii (şimşek saçan) ve Fulgurite (elektrik emen) iki kola ayrılır. Machine God'un 'kutsal akım' doktrininin somut hali.
+Electro-Priests, Adeptus Mechanicus'un 'elektrik-rahipleri' elite birimleridir; Corpuscarii ve Fulgurite varyantlarıyla 'Motive Force'un canlı kanalları — 'elektrikle vaftiz' veren fanatikler.
 
 -# Kaynaklar: *Adeptus Mechanicus Codex*

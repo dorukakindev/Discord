@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/87/Dark_Scourge.jpg/revi
 
 ## Tarihçe
 
-Scourges, kendilerine kanat cerrahi takılan paralı Drukhari savaşçıları; şehrin göklerinde avlanan yırtıcı birlik. Her kabal onları kiralar — 'kanatlı kiralık ölüm'.
+Scourges, Drukhari'nin kanatlı uçan birimleridir; 'Karanlık Şehir'in gökyüzü avcıları olarak jetpack'lerle savaş alanına dalıp kafaları koparırlar — Wych'lerin havadan gelen kardeşleri.
 
 -# Kaynaklar: *Drukhari Codex*

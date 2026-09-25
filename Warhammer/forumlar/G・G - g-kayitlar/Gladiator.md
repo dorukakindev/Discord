@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/20/BloodAngelsGladiatorR
 
 ## Tarihçe
 
-Gladiator, Cawl'un Primaris Space Marines için tasarladığı orta-ağırlık grav-tank; Valiant (kısa menzil), Reaper (orta) ve Lancer (uzun) üç versiyonuyla Repulsor'un küçük kardeşi. Modern Chapter'ın standart tankı.
+Gladiator, Primaris Space Marines'in modern ana-muharebe tankıdır; Impulsor şasisi üzerine kurulu bu yeni 'arenamer', lejyonların zırhlı ihtiyacını karşılayan Cawl tasarımı.
 
 -# Kaynaklar: *Adeptus Astartes Codexleri*
 -# İlişkili kayıtlar: <#1552848803428704256>

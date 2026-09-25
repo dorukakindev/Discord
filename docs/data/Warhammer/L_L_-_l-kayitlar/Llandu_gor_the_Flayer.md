@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/36/Flayedone20.JPG/revis
 
 ## Tarihçe
 
-Llandu'gor the Flayer, Necron'ların parçaladığı C'tan; ölürken Flayer Virus'u yaydı — et ve deri saplantılı çılgınlığın babası. Flayed Ones'ın kökeni — bir tanrının intikam hediyesi.
+Llandu'gor the Flayer ('Derisi Yüzen'), C'tan'ların en vahşi parçalarından biridir; Necron'ların kendi tanrılarını parçalayıp 'shard' haline getirdiği bu varlık, 'flayer' lanetinin kaynağı sayılır.
 
 -# Kaynaklar: *Necron Codexleri*
 -# İlişkili kayıtlar: <#1552850008124952717>

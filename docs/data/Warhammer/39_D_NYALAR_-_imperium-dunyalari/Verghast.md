@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Heritor_Asphodel.jpg/
 
 ## Tarihçe
 
-Verghast, Sabbat Worlds'de iki rakip hive şehri barındıran sanayi dünyası; Gaunt's Ghosts'un Necropolis savaşının sahnesi. Vervunhive'ın sadık kaldığı, Ferrozoica'nın Chaos'a düştüğü iç savaş — hive arası savaşın klasik örneği.
+Verghast, Tanith'in ikiz dünyası ve Gaunt's Ghosts'un ikinci evi sayılan Hive Dünyasıdır; Verghastite alayları olarak Ghosts'un 'kurtulan' kardeşleri — Sabbat Savaşları'nın ikinci evi.
 
 -# Kaynaklar: *Gaunt's Ghosts: Necropolis*

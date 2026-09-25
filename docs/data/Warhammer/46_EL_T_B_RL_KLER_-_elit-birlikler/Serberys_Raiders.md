@@ -12,6 +12,6 @@
 
 ## Tarihçe
 
-Serberys Raiders ve Sulphurhounds; mekanik-köpek yaratıklar üzerinde savaşan Skitarii süvarileri. Uzun mesafe keşfi ve süratli çemberleme — Mechanicum'un 'atlı' birliği.
+Serberys Raiders, Adeptus Mechanicus'un hızlı keşif-saldırı birimleridir; mekanik 'katır' benzeri Sulphurhount bineklerine binen bu Skitarii, uzun-menzilli operasyonlarda düşman hatlarını keser.
 
 -# Kaynaklar: *Adeptus Mechanicus Codex*

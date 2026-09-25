@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Scourged_SP.png/revis
 
 ## Tarihçe
 
-The Scourged, kendi içlerindeki 'yalan'ı cezalandırmaya kendini adamış Tzeentch'li savaş-bandı; paranoyanın askerileşmiş hali. Kendi aralarında bile sır saklayan — 'hiç kimsenin güvenemediği güvenlik güçleri'.
+The Scourged, İmparatorluk'un 'kırbaçlanmış' ceza chapter'ıdır; 'günah çıkarma' doktriniyle kendi bedenlerine eziyet eden bu savaşçılar, Chapter'larının en garip figürleri.
 
 -# Kaynaklar: *Chaos Space Marines Codex*

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/BaneWolf00.jpg/revisi
 
 ## Tarihçe
 
-Banewolf, Hellhound'un kimyasal-toksin püskürtücü varyantı; siperleri ve düşman hatlarını 'zehirle' temizleyen veba-tankı. Guard'ın en acımasız piyade temizleyicisi.
+Banewolf, İmparatorluk'un kimyasal-savaş varyantıdır; Hellhound'un 'zehirli kardeşi' olarak chem-cannon taşıyan bu araç, siperlerdeki düşmanı toksik gazla boğar — Death Korps'un favorisi.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848839440859196>

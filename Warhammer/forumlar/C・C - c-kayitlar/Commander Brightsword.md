@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Brightsword.jpg/revis
 
 ## Tarihçe
 
-Commander Brightsword, Farsight'in en sadık ve en acımasız komutanı; XV8 Crisis battlesuit'iyle düşmana 'kusursuz ölüm' getiren savaşçı. Greater Good'un sınırında ama Farsight'ın gölgesinde — Enclave'ın en keskin kılıcı.
+Brightsword ('Parlak Kılıç'), T'au İmparatorluğu'nun en genç efsanevi komutanlarından biridir; Farsight Enclaves'ın 'yıldız' generali — O'Shovah'ın öğrencisi.
 
 -# Kaynaklar: *T'au Codexi*, *Farsight romanları*
 -# İlişkili kayıtlar: <#1552848744033296384>

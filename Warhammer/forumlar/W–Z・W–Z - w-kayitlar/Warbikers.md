@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Nob_Warbiker.jpg/revi
 
 ## Tarihçe
 
-Warbiker'lar, Ork'ların motosikletli yıldırım-saldırı birimi; hız takıntısı ve 'dakka' kültürünün tekerlekli hali. Speed Freeks'in en ikonik figürü — motor sesi = Ork savaş şarkısı.
+Warbikers, Ork'ların 'Warbike' süvarileridir; 'Dakka tekerlekli' bu birimler, hızla düşmana dalıp motor sesiyle korku salar — Evil Sunz'un en sevdiği savaş biçimi.
 
 -# Kaynaklar: *Orks Codex*
 -# İlişkili kayıtlar: <#1552848914661777438>

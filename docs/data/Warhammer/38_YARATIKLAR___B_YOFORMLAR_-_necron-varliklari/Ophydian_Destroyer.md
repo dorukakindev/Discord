@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3c/NekrosorAmmentar1.jpg
 
 ## Tarihçe
 
-Ophydian Destroyer, Destroyer Kültü'nün yılan-bedenli sınıfı; 'yok etmek için var' felsefesini yarı-canlı gövdeyle birleştiren insansız robot-yılanlar. Destroyer'ların en yabancı biçimi.
+Ophydian Destroyer, Necron'ların 'yıkıcı' süper-savaş platformudur; Skorpekh Destroyer'in büyük kardeşi olarak devasa silah gücüyle düşmanı yok eden 'yürüyen mezar'.
 
 -# Kaynaklar: *Necrons Codex*

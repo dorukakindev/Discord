@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/99/Hellhammer000.png/rev
 
 ## Tarihçe
 
-Hellhammer, Baneblade şasesine Hellhammer Cannon takılmış süper-ağır tank; kuşatma ve bina-yıkımında uzman. 'Kale kırıcı' — Guard'ın bunker-destroyer'sı.
+Hellhammer, Baneblade'in yakın-mesafe kuşatma varyantıdır; ana silahı devasa bir 'Hellhammer Cannon' olan bu süper-ağır, şehir savaşı ve siper temizliği için tasarlanmıştır. 'Duvar kırıcı' — Leman Russ'un canavarlaşmış hali.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848828405776486>

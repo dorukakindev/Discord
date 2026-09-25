@@ -12,6 +12,6 @@
 
 ## Tarihçe
 
-Cryptothrall, Cryptek'lerin yanlarında savaşan küçük robot-hizmetkâr; bir zamanlar yaşayan Necron kalıntılarının alet-formuna indirgenmiş hali. Bilginin kölesi — teknolojinin sadık faresi.
+Cryptothrall, Necron Cryptek'lerin 'hizmet kuklası' koruma birimleridir; zırhsız ama ölümcül bu figürler, ustanın bedenini kalkan olarak kullanan 'canlı zırh' yaratıklar.
 
 -# Kaynaklar: *Necrons Codex*

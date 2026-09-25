@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/93/443px-Lelith.png/revi
 
 ## Tarihçe
 
-Wyches, Wych Cult'ların arena eğitimli gladyatör-piyade birimi; hız ve zarafetle savaşan, savaş sanatını gösteriye çeviren Drukhari kadın-savaşçıların adı. Acıyı sanata dönüştüren en kanlı performans.
+Wyches (Wych Kültleri), Drukhari'nin arena savaşçılarıdır; Commorragh'ın ölüm oyunlarında hayatta kalan bu 'dans-katiller', güzellikle vahşeti birleştiren en ölümcül piyadeler.
 
 -# Kaynaklar: *Drukhari Codex*
 -# İlişkili kayıtlar: <#1552848889214664804>

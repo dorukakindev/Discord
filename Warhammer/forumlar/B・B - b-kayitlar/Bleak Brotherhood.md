@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/92/Apocalypse_Company_Li
 
 ## Tarihçe
 
-Bleak Brotherhood, İmparatorluk'tan kopup Chaos'a dönmüş Space Marine savaş-bandı; 'kasvet' adını taşıyan ama motive, disiplinli undivided çete. Heresy sonrası 'ikinci jenerasyon' ihanetinin örneği.
+Bleak Brotherhood ('Kasvetli Kardeşlik'), Chaos'un kasvetli warband'lerinden biridir; 'umutsuzluk' temalı bu birlikler, İmparatorluk'u içeriden çürütmeye adanmış gizli düşmanlar.
 
 -# Kaynaklar: *Chaos Space Marines Codex*
 -# İlişkili kayıtlar: <#1552850060348493854>

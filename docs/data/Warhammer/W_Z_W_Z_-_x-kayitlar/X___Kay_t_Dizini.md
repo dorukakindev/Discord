@@ -1,8 +1,8 @@
--# THE IMPERIAL ARCHIVE · Harf Kayıtları · Dizin
-# X — Kayıt Dizini
+-# THE IMPERIAL ARCHIVE · DİZİN
+# X Harfi Kayıt Dizini
 
-- <#1551809846066548779>
-- <#1552694243779149958>
-
-• **Xenos**
-• **XV88 Broadside Battlesuit**
+• **Xavier Calcazar**  <#1552902626012696598>
+• **Xavier Mendoza**  <#1552902665296674839>
+• **Xenos**  <#1551809846066548779>
+• **Xerill**  <#1552901504183312474>
+• **XV88 Broadside Battlesuit**  <#1552694243779149958>

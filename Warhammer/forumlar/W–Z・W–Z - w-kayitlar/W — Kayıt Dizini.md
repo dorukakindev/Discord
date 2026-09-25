@@ -1,9 +1,8 @@
--# THE IMPERIAL ARCHIVE · W Kayıtları · Kayıt Dizini
+-# THE IMPERIAL ARCHIVE · DİZİN
 # W Harfi Kayıt Dizini
 
-Bu forumdaki tüm kayıtların alfabetik dizini:
-
 • **War in Heaven**  <#1551809768740495461>
+• **War in the Labyrinth**  <#1552904004659454042>
 • **War of the Beast**  <#1551809818250182657>
 • **War of the Confessor**  <#1552690649441239110>
 • **War Zone Charadon**  <#1551806752251707404>
@@ -13,34 +12,9 @@ Bu forumdaki tüm kayıtların alfabetik dizini:
 • **Warp Spiders**  <#1551905336045215839>
 • **Webway**  <#1551809699312181339>
 • **Webway War**  <#1551806779308908704>
+• **What Lies Beneath**  <#1552905150178402434>
 • **White Scars**  <#1551809798243221607>
 • **Windriders**  <#1552877550231879691>
-• **Word Bearers**  <#1551809740999229516>
-• **World Eaters**  <#1551809718085746759>
-• **Wracks**  <#1552851269578653748>
-• **Wraithblade**  <#1552690513071579208>
-• **Wrath of Magnus**  <#1551806813010395217>
-• **Wulfen**  <#1551806832576700519>
-• **Wurrboy**  <#1552851305523978313>
-• **Wych Cults**  <#1551806849618280599>
-• **Wyches**  <#1552851274918273076>
-• **Wyvern**  <#1552850185057734757>
-
--# THE IMPERIAL ARCHIVE · W Kayıtları · Kayıt Dizini
-# W Harfi Kayıt Dizini
-
-Bu forumdaki tüm kayıtların alfabetik dizini:
-
-• **War in Heaven**  <#1551809768740495461>
-• **War of the Beast**  <#1551809818250182657>
-• **War of the Confessor**  <#1552690649441239110>
-• **War Zone Charadon**  <#1551806752251707404>
-• **Warbikers**  <#1552851302839619614>
-• **Warp**  <#1551809666454134928>
-• **Warp Spiders**  <#1551905336045215839>
-• **Webway**  <#1551809699312181339>
-• **Webway War**  <#1551806779308908704>
-• **White Scars**  <#1551809798243221607>
 • **Word Bearers**  <#1551809740999229516>
 • **World Eaters**  <#1551809718085746759>
 • **Wracks**  <#1552851269578653748>

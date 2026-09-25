@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Tankbusta_mob.png/rev
 
 ## Tarihçe
 
-Tankbustas, tank yıkmaya adanmış Ork uzmanları; rokkit launcher ve bomb-squig'leriyle zırhlı araç avcısı. 'En iyi tank ölü olandır' felsefesinin Ork halini taşırlar.
+Tankbustas, Ork'ların tanksavar uzmanlarıdır; Rokkit Launcha ve Tankhamma taşıyan bu birimler, zırhlı araçları avlamak için evrilmiş 'roket-kafalı' orklardır. 'Dakka'dan sonra en sevdikleri şey büyük patlamalardır.'
 
 -# Kaynaklar: *Orks Codex*

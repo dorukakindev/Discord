@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Euphrati_KeelerSiege.
 
 ## Tarihçe
 
-Samus, 'I'm Samus. Samus is beside you.' fısıltısıyla bilinen en eski ve kriptik daemonlardan; Horus Heresy döneminde beliren ve kimliği tam bilinmeyen Undivided varlık. 'Sessizlikteki isim' — Chaos'un en tuhaf figürü.
+Samus, Dawn of War'da anılan efsanevi daemon figürüdür; 'Samus. That's the only name you'll hear. Samus.' repliğiyle bilinen bu daemon, Blood Ravens'ın Tartarus kâbusunun adı.
 
 -# Kaynaklar: *Horus Heresy romanları*
 -# İlişkili kayıtlar: <#1552850041440444418>

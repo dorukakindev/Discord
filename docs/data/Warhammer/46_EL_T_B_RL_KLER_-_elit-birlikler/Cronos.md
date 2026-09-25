@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Cronos_Parasite_Engin
 
 ## Tarihçe
 
-Cronos Parasite Engine, düşmanın yaşam-özünü emip yakındaki Drukhari'yi 'besleyen' yarı-canlı makine; Talos'un kardeşi. Savaş alanında yaşayan bir vampir — drukhari savaşının 'enerji merkezi'.
+Cronos, Drukhari'nin 'zaman-yutan' Haemonculus figürüdür; ruh-yeme uzmanı olan bu Talos muadili, acıyı gıda yapıp yaşam-enerjisini emen 'parazit' — Covens'in en soğuk varlığı.
 
 -# Kaynaklar: *Drukhari Codex*
