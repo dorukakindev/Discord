@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Loveless (2017) · Derin Analiz
 # Ayrıntılı konu
-Zhenya ve Boris boşanma aşamasındadır; oğulları Alyosha kaybolur ve arama kurtarma ekipleriyle aranır. Ebeveynlerin kavgası çocuğun yokluğunu açıklar — 'kaybolma' fiziksel değil duygusaldır. Alyosha bulunamaz (ya da bulunur ama film belirsiz bırakır); çiftin yeni ilişkileri de aynı boşluğu taşır.
+Zhenya ve Boris boşanırken yeni sevgilileri vardır ve 12 yaşındaki Alyosha'ya 'yük' gibi davranırlar; bir gün Alyosha ortadan kaybolur. Arama kurtarma ekipleri sistematik olarak ormanı tarar, Alyosha'nın geçtiği yol boyunca kırık oyuncaklar ve boş evler bulunur; annesinin yeni evinde, babasının yeni işinde 'yeni Alyosha'lar vardır — çocuk gerçekten hiç var olmamış gibidir. Film bir soruşturmadan çok bir atmosfer: Moskova kışı, Gri Savaş propagandası televizyonlarda akar.
 
 # Tez
-Sevgisizlik, nesilden nesile geçen bir virüstür — Alyosha'nın kaybolması sadece çocuğun değil, ailenin ortadan kaybolmasıdır. Zvyagintsev'in sorusu: sevgi, yükümlülükle karıştırılabilir mi?
+Sevgisizlik kuşaktan kuşağa geçen bir iklimdir — Alyosha'nın kaybolması fiziksel değil, ebeveynlerin onu hiç 'görmemesi' üzerine kuruludur; Zvyagintsev'in Rusya'sında kişisel duygusuzluk ulusal malaşla aynıdır. Çiftin son sahnesindeki koşu bandı metaforu: aynı yerde koşmak.
 
 ## Mekanizma
-Kış manzaraları ve boş binalar duygusal iklimi gösterir; arama ekiplerinin sistematik çalışması bürokrasinin çaresizliğini simgeler. Alyosha'nın yüzü fotoğraftan ibarettir — anne ve baba onu hatırlamaz.
+Uzun sabit çekimler ve cam duvarlar karakterleri 'akvaryum' içinde gösterir; arama ekiplerinin neon yelekleri ormanda tek renktir — medeniyetin tek parlaması devletten değil, gönüllülerden gelir. Alyosha'nın yüzü fotoğraftan ibaret kalır: anne ve baba çocuğu hatırlamaz.
 
 ## Kişisel uygunluk
-Aile ve sevgisizlik profiline çok güçlü uyuyor.
+Aile çözülmesi ve toplumsal kayıtsızlık profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Loveless (2017) · Notlar
 ### Tartışmalar & Notlar

@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **6** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · The Gospel According to St. Matthew (1964) · Derin Analiz
 # Ayrıntılı konu
-Pasolini, İsa'nın hayatını İtalyan köylülerle ve gerçek mekânlarda çeker — İsa'nın yüzü yüzlüdür ama öfkeli ve mesafelidir. Son yemek, çarmıha gerilme ve yeniden doğuş İncil'in metniyle bire bir uygulanır ama Pasolini'nin 'komünist İsa' anlayışıyla — İsa toplumsal adaletsizliği protesto eder ve halkın acısını paylaşır.
+Pasolini, İsa'nın hayatını Matteus İncili'nin metnine sadık kalarak İtalyan köylülerle ve Matera'nın çorak topraklarında çeker — beyaz sinema değil, 'kararname' sineması: İsa öfkeli, aceleci ve mesafelidir; halka hitap ederken kalabalığın üstünden geçer, mucizeler doğaüstü değil 'yaşanmış' gibi çekilir. Son yemek, ihanet ve çarmıha gerilme belgesel çıplaklığıyla anlatılır; diriliş sahnesi kalabalıklaşan öğrencileriyle kapanır.
 
 # Tez
-İsa, devrimcidir çünkü iktidara karşıdır — Pasolini'nin gayri-Hıristiyan perspektifi en sadık İncil uyarlamasını yapar: metne bağlı kalarak politik mesajı özgürleştirir.
+İsa'nın devrimciliği teolojik değil sosyaldir — Pasolini'nin komünist gözüyle İncil'in metni tam hâlde korunarak, onun iktidara ve zenginliğe karşı duruşu serbest kalır. Film, Hıristiyan olmayan birinin İncil'e en sadık bakışıdır: metin değişmez ama anlam politikleşir.
 
 ## Mekanizma
-El kamerası ve doğal ışık belgesel gibi çeker; İsa'nın konuşmaları doğrudan metinden gelir ama ses tonu devrimcidir. Köylülerin yüzleri ikon değil, insandır.
+El kamerası ve gerçek mekânlar 'kanıt' havası verir; kostüm ve saç İtalyan resim tarihinden (Masaccio, Piero della Francesca) gelir — sanat tarihi belgeselin aracı olur. Bach ve Bach dışındaki müzik seçkisi (Blind Willie Johnson dahil) anakroniktir ama duygusal tarihi taşır.
 
 ## Kişisel uygunluk
-Dini metin ve politik yorum profiline güçlü uyuyor.
+Dini metin-ideoloji gerilimi ve 'kutsal'ın sosyal okuması profiline güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Gospel According to St. Matthew (1964) · Notlar
 ### Tartışmalar & Notlar

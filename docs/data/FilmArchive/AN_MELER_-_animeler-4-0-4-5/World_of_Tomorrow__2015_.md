@@ -3,6 +3,8 @@
 > **Yıl:** 2015
 **Sana uygunluk: 4.2/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve felsefi yapı 9/10.
 
+Küçük Emily, gelecekten gelen bir klonu (Emily Prime) tarafından ziyaret edilir ve insanlığın hafızayı, aşkı ve ölümsüzlüğü nasıl çözdüğünü dinler — ya da nasıl kaybettiğini. On altı dakikalık animasyon, teknolojinin duygusal faturasını çocuk saflığıyla anlatır.
+
 ### Katmanlar (0–10)
 Düşünsel **9** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **7** · Sembolik **7** · Politik **3** · Felsefi **9** · Ezoterik **2** · Fikir-karakter **9**
 

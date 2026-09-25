@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **6** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · No Country for Old Men (2007) · Derin Analiz
 # Ayrıntılı konu
-Llewelyn Moss, Texas çölünde uyuşturucu vahşeti bulur ve parayı alır; Anton Chigurh onu kovalar — Chigurh, kaderin kendisidir: yazı-tura atan, 'sana bir şans tanıdım' diyen ölüm meleği. Şerif Bell kovalar ama Chigurh'ü asla yakalayamaz; sonunda Bell emekli olur ve babasının rüyasını anlatır.
+Llewelyn Moss, Texas çölünde bir uyuşturucu hesaplaşmasının kalıntılarından iki milyon dolarlık çanta alır; onun peşine Anton Chigurh düşer — kaderin kendisine benzeyen, yazı-tura atan, 'öldürmemin nedeni sen değilsin' diyen bir varlık. Şerif Ed Tom Bell kovalar ama hep geç kalır. Moss'un 'kahraman' ölümü ekran dışında gerçekleşir; Chigurh sonunda araba kazası geçirip yürüyerek uzaklaşır — yakalanamaz çünkü 'kural'dır, insan değil. Film Bell'in iki rüyasının anlatımıyla kapanır: babası ve 'ateş taşıma'.
 
 # Tez
-Zaman, iyilerin lehine işlemez — Chigurh kuralına uyar ama kural ahlak değil, sadece tutarlılıktır. Coen'lerin nihilizmi: kötülük sistematiktir, iyilik sadece şanstır.
+Kötülük sistematiktir çünkü kuralsızdır sanılır ama aslında en kuralcı olandır — Chigurh'un ahlakı 'seçim' değil 'prensip'tir. Coen'lerin nihilizmi: 'iyi' emekli olmak zorundadır çünkü dünya ona göre tasarlanmamıştır; Bell'in rüyası geçmişin kaybıdır.
 
 ## Mekanizma
-Çöl sessizliği ve ayak sesleri gerilimi biçimlendirir; Chigurh'un silahı (bolt pistol) hayvan kesim aletidir — insanları hayvan gibi işler. Bell'in anlatısı filmin moral merkezi ama çaresizliğidir.
+Diyalogdan çok ses tasarımı taşır gerilimi — çakıl sesi, kapı menteşesi, Chigurh'un ayağının yumuşak basışı. Çölün açıklığı kapanmadır; Bell'in anlatısı filmin 'ahlaki geri sayımı' olarak fonksiyon görür ama hiçbir sonuca ulaşamaz — film de ulaşmayı reddeder.
 
 ## Kişisel uygunluk
-Kader ve şiddetin felsefesi profiline çok güçlü uyuyor.
+Kader, şiddet ve ahlaki gerileme teması profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · No Country for Old Men (2007) · Notlar
 ### Tartışmalar & Notlar

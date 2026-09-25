@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Dead Man (1995) · Derin Analiz
 # Ayrıntılı konu
-William Blake, muhasebeci olarak batıya gider; bir kadın öldürülür, o da yaralanır ve 'Nobody' adlı Kızılderili onu kurtarır. Blake şair değildir ama adını taşır — Nobody onu öldürülmek istenen 'ölü adam' olarak görür ve öbür dünyaya hazırlar. Film siyah-beyazdır ve Neil Young'ın gitarı sürekli eşlik eder.
+William Blake — muhasebeci, şair değil — batıya Machine kasabasına gider; fabrikatör Dickinson'dan iş alamaz, bir kadınla yatar ve oğlu tarafından öldürülürken kadını kaybeder. Kızılderili 'Nobody' onu kurtarır çünkü onun adı ünlü şairin adıdır; Nobody, Blake'in 'ölü bir adam' olarak ruhunu öbür dünyaya taşıma görevini üstlenir. Blake'in yolculuğu ölümdür ama bedeni daha da çürürken 'ruh'u öğrenir — ölüm, onun ilk gerçek hayatıdır.
 
 # Tez
-Ölüm, yolculuğun sonudur ama ruhun başlangıcıdır — Blake'in bedeni çürürken 'ruh'u yükselir. Jarmusch'un ironisi: 'Dead Man' başlığı Blake'in yazgısıdır ama aynı zamanda Amerika'nın kuruluş mitinin ölümüdür.
+Amerika'nın kuruluş miti bir ölüm yürüyüşüdür — Jarmusch'un 'western'i cinayetler, beyaz adamın vahşeti ve sömürgeleştirmenin boşluğu üzerine kuruludur; Blake'in şair adı rastlantı değil, kadim ruhun yeni bedenidir.
 
 ## Mekanizma
-Uzun sessizlikler ve doğa manzaraları western'in 'meditatif' yanını gösterir; Nobody'nin İngilizcesi 'kötü' değil 'farklı'dır — dil, medeniyetin sınırıdır.
+Siyah-beyaz fotoğraf, uzun sessizlikler ve Neil Young'ın tek ezgili gitarı 'önceden bilinen' bir vahşi batı yaratır — izlerken hatırlamış gibi hissederiz; Nobody'nin İngilizcesi 'kırık' değil, başka bir bilgelik düzenidir. Blake'in gözlüğü film boyunca yavaş yavaş çatlar ve sonunda kaybolur — ölümle görme değişir.
 
 ## Kişisel uygunluk
-Varoluşsal western ve ölüm teması profiline güçlü uyuyor.
+Varoluşsal western ve ölüm-ritüeli profiline güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Dead Man (1995) · Notlar
 ### Tartışmalar & Notlar

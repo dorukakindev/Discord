@@ -4,7 +4,7 @@ https://a.ltrbxd.com/resized/sm/upload/je/hp/1g/rb/twin-peaks-the-return-1200-12
 > **Tür:** Suç, Dram, Korku · **Süre:** 1014 dk · **Dil:** İngilizce · **Yıl:** 2017
 **Sana uygunluk: 4.2/5** (güven %95) — En güçlü uyum: sembolik katman 10/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Kuzeybatıdaki şirin bir kasabanın sakinlerinin, eve dönüş kraliçeleri öldürülünce şaşkına dönmelerinden 25 yıl sonrasını konu alıyor.
+Ajan Dale Cooper'ın şeytani ikizi Mr. C yirmi beş yıldır serbesttir; Cooper ise Dougie Jones'un bedeninde 'çevrimdışı' bir hayat sürer. Laura Palmer'ın kaderi atom bombasıyla yazılmış alternatif bir tarihle karşılaşır — iyilik ve kötülük son bir yüzleşmede çarpışır.
 
 ### Puanlar
 IMDb **8.5/10** · Letterboxd **4.61/5** · nMDB **88.6**

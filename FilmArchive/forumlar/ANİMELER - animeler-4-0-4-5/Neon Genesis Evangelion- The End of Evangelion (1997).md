@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/3Vb9FFTNr5en0Szl9YgRWlUPGtk.jpg
 -# THE FILM ARCHIVE · Animeler · 4.0–4.5 · Kayıt
 # Neon Genesis Evangelion: The End of Evangelion (1997)
 > **Yönetmen:** Hideaki Anno, Kazuya Tsurumaki · **Tür:** Animasyon, Aksiyon, Dram · **Süre:** 87 dk · **Dil:** Japonca · **Yıl:** 1997

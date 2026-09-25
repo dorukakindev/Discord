@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg
 > **Yönetmen:** Akira Kurosawa · **Tür:** Suç, Dram, Gizem · **Süre:** 88 dk · **Dil:** Japonca · **Yıl:** 1950
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve felsefi yapı 9/10.
 
-Dört kişi, bir adamın öldürülmesi ve karısına tecavüz edilmesiyle ilgili hikayenin farklı versiyonlarını anlatıyor.
+Bir samurayın ölümü ve karısının saldırıya uğraması ormanda dört kişi tarafından dört farklı biçimde anlatılır — haydut, kadın, ölen adam ve oduncu. Kapıcıyla birlikte dinleyen izleyici, hakikatin kişisel çıkarla nasıl büküldüğünü görür.
 
 ### Puanlar
 IMDb **8.1/10** · Letterboxd **4.19/5** · nMDB **82.4**

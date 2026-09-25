@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Once Upon a Time in America (1984) · Derin Analiz
 # Ayrıntılı konu
-Noodles, 1920'lerin New York'unda Yahudi çete üyesidir; arkadaşı Max'i ihbar eder ve 30 yıl kaçar. Yaşlılığında geri döner ve Max'in ölmediğini, hükümetin zirvesinde olduğunu öğrenir — Max'in ona verdiği 'hediye' hayatıdır. Film geçmiş ve şimdi arasında akar: Noodles'ın hatıraları onun gerçek suçluluğudur.
+Noodles, 1920'lerin Lower East Side'ında Max, Cockeye ve Patsy ile büyür; Yahudi çetesi içki kaçakçılığıyla zenginleşir. 1933'te Max'in ölümüyle suçlulukla kaçar; 1968'de döner ve Max'in aslında yaşadığını — hükümet zirvesindeki 'Bailey' olarak — öğrenir. Max'in ona verdiği 'hayat' kredisi ihanettir ama asıl ihanet zamandır. Deborah, Hollywood'da olmuştur; Max'in oğlu David, Noodles'ın gençliğinin fotoğrafıdır. Son sahnede Noodles gülümser — afyon içmiş midir, yoksa affetmiş midir?
 
 # Tez
-Zaman hatıraları düzeltmez — Noodles'ın 'ihaneti' aslında dostluğun son jesti olduğu için suçluluk kalıcıdır. Leone'nun destanı: Amerika'nın yükselişi bireyin kaybı üzerine kuruludur.
+Zaman hatırayı düzeltmez — Noodles'ın 'ihaneti' aslında dostluğun son jestiydi ama suçluluk onu bırakmaz çünkü gerçek aşk kendini affettiremez. Leone'nin destanı: Amerika'nın yükselişi bireyin kıyamı üzerine kuruludur; anı, tek sahiplenebilir topraktır.
 
 ## Mekanizma
-Ennio Morricone'nin müziği hatıraları duygusallaştırır; kapı sesleri ve telefon zilleri zamanın geçişini simgeler. Deborah'nın odasındaki sigara içi 'güzel geçmiş'in tek sahnesidir.
+Morricone'nin 'Deborah's Theme' müziği geçmişi duygusallaştırır; telefon zili sesi 30 yıl boyunca aynı anda çalar — zamanın akordeonlaşmasıdır. Dumanlı ışık ve soyulmuş odaklar (Delli Colli) hatıranın optiğini yapar; 'güzel geçmiş' asla net gösterilmez.
 
 ## Kişisel uygunluk
-Bellek ve suçluluk teması profiline güçlü uyuyor.
+Bellek, suçluluk ve epik zaman profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Once Upon a Time in America (1984) · Notlar
 ### Tartışmalar & Notlar

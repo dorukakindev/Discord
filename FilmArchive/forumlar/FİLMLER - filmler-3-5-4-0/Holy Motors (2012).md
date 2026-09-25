@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · Holy Motors (2012) · Derin Analiz
 # Ayrıntılı konu
-Monsieur Oscar, Paris'te bir gün boyunca çeşitli 'randevulara' gider — her randevu başka bir karakterdir: fakir kadın, limuzin şoförü, deli adam, anne, ölü adam. Araba (limuzin) onu bir rolden diğerine taşır; her randevu farklı bir film türüdür. Son sahnede Oscar ailesine (gerçek ailesi?) döner ama arabanın içindeki asıl 'yuva' belirsizdir.
+Monsieur Oscar, sabah lüks bir limuzinle evden çıkar ve Paris'te bir dizi 'randevuya' gider — her randevu başka bir varoluştur: dilenci kadın, motion-capture dansçısı, kırmızı canavar Merde, akordeoncu, hatta 'kendi kızıyla' konuşan bir baba. Limuzin onun hareketli soyunma odasıdır; her randevu başka bir sinema türüdür. Film boyunca 'gerçek' Oscar'ı asla görürüz mü belli değildir — en sonunda limuzinlerin de konuştuğu bir dünyada eve döner.
 
 # Tez
-Kimlik, performansın aralığındadır — Oscar'ın 'gerçek' benliği var mıdır yoksa rollerin toplamı mıdır? Carax'ın cevabı: motor çalışırken her şey sahnedir.
+Kimlik performansın sürekliliğindedir — 'gerçek benlik' var mı sorusu anlamsızdır çünkü her maske gerçektir; tek sabit 'motor'un (temaşa) kendisidir. Carax'ın elegisi: kameralar kaybolduğunda bile oyunculuk sürer; hayat bir limuzin yolculuğudur.
 
 ## Mekanizma
-Her segment farklı sinema türünü referans alır (gangster, müzikal, canavar); limuzin hem araç hem sahnedir. 'Miles' adlı kukla-kadın Oscar'ın aynasıdır.
+Her segment farklı sinema tarihini referanslar (Melies'den Cronenberg'e); 'Miles' adlı kukla-lezbiyen Oscar'ın aynasıdır. Dijital/analog geçişi filmin kendi maddeselliğini sorgular — 'görünmez kameralar' çağında oynamak ölüme benzer ama ölümsüzlüktür de.
 
 ## Kişisel uygunluk
-Kimlik ve performans paradoksu profiline çok güçlü uyuyor.
+Kimlik ve performans paradoksu, film tarihi iç içeliği profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Holy Motors (2012) · Notlar
 ### Tartışmalar & Notlar

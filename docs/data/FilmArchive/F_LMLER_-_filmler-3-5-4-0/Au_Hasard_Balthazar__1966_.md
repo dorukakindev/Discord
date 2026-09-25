@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Au Hasard Balthazar (1966) · Derin Analiz
 # Ayrıntılı konu
-Balthazar, bir eşektir; doğar, sahipleri değişir, çalışır, dövülür ve ölür. Marie'nin hayatıyla paralel ilerler — aynı köyde, aynı kötü kader. Balthazar'ın ölümü kabul edilmiştir ama Marie'nin ölümü değil; eşek 'kutsal' bir varlıktır çünkü tüm şiddeti sessizce taşır.
+Balthazar, bir Fransız köyünde doğar ve Marie'nin çocukluğuyla birlikte büyür; sonra sahipten sahibe geçer — fırıncının eşeği, sirk hayvanı, kaçakçının hayvanı, son olarak da tekrar köye döner. Her yeni sahip ona başka bir hayat yükler: dövülür, kutsanır, matematik 'yapar', sonunda öldürülür. Marie'nin hayatı paraleldir: aşkı kötü adam Gérard'da, namuslu babası yoksullaşır, o da sonunda kaybolur. Balthazar'ın ölümü bir koyun sürüsünün çan sesleri arasında gelir — çarmıha gerilme gibi tasarlanmıştır.
 
 # Tez
-Masumiyet, şiddetin aynasıdır — Balthazar hiçbir şeye karşı çıkmaz ama onun sessizliği insanların gürültüsünü yargılar. Bresson'un sorusu: bir hayvanın hayatı insanınkinden daha ahlaklı olabilir mi?
+Masumiyet, şiddetin aynası değil süngeridir — Balthazar hiçbir şeye karşı çıkmaz ama onun sessizliği insanların kibrini, açgözlülüğünü ve zulmünü yargılar. Bresson'un sorusu: bir hayvanın pasifliği insanınkinden daha ahlaklı olabilir mi — hayatın değeri dayanma gücünde midir?
 
 ## Mekanizma
-Bresson'un 'model' aktörleri duygusuz konuşur — duygu jestlerde değil, varoluşta vardır. Eşeğin gözleri kameranın en dürüst objektifidir.
+Bresson'un 'model' aktörleri doğal olmayan, duygusuz seslerle konuşur — duygu jestte değil, varoluşun kendisindedir. Balthazar'ın gözleri çerçevenin en dürüst noktasıdır; Schubert müziği sadece ölüm anında girer, o da 'ayin' işlevi görür.
 
 ## Kişisel uygunluk
-Minimalizm ve hayvan-insan ahlakı profiline güçlü uyuyor.
+Minimalist ruhani sinema ve ahlaki metafor profiline çok güçlü uyuyor — Bresson'un çıplak diline en yakın metinlerden.
 
 -# THE FILM ARCHIVE · Au Hasard Balthazar (1966) · Notlar
 ### Tartışmalar & Notlar

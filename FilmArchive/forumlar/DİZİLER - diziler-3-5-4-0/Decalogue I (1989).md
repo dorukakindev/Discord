@@ -1,3 +1,4 @@
+https://a.ltrbxd.com/resized/sm/upload/mb/3e/pr/ra/the-decalogue-1200-1200-675-675-crop-000000.jpg?v=acfc424441
 -# THE FILM ARCHIVE · Diziler · 3.5–4.0 · Kayıt
 # Decalogue I (1989)
 > **Tür:** Dram · **Süre:** 572 dk · **Dil:** Lehçe · **Yıl:** 1989

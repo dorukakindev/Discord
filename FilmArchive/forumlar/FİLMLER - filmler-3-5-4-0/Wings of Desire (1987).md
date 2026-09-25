@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · Wings of Desire (1987) · Derin Analiz
 # Ayrıntılı konu
-Bruno Ganz ve Otto Sander, Berlin'de insanların düşüncelerini dinleyen meleklerdir; Damiel (Ganz) akrobat Marion'a aşık olur ve insan olmayı seçer — kaskını çıkarır, renkli dünyayı görür, kahve içer. Cassiel (Sander) izlemeye devam eder. Berlin Duvarı'nın altındaki hayat ve ölüm, meleklerin sessiz gözleminden geçer.
+Damiel ve Cassiel, duvarlı Berlin'de insanların iç seslerini dinleyen meleklerdir — kütüphanede kitap okuyanlardan metroda ağlayanlara kadar herkesin düşüncesi onlara açıktır. Damiel, sirk akrobatı Marion'a âşık olur ve insan olmaya karar verir: zırhını çıkarır, renk görmeye, soğuğu hissetmeye, kahve içmeye başlar. Cassiel ise 'devam eden' olarak kalır — film onun bakışıyla sürer. Berlin'in savaş yaraları, duvar ve şehrin belleği meleklerin gözlemci olduğu katmanlı bir arka planı oluşturur.
 
 # Tez
-İnsanlık, sınırlı olmak demektir — ama sınırlılık renklidir. Wenders'in tezi: ölümsüzlük görmektir ama yaşamak dokunmaktır; Damiel'ın düşüşü özgürlüktür.
+İnsanlık, ölümlülüğün renkliliğidir — sonsuzluk gri ve soğuktur, yaşamın küçük şeyleri (kanın sıcaklığı, bir ismin telaffuzu) meleği düşürür. Wenders'in tezi: ölümsüz bakış ayrıcalığıdır ama ayrıcalık duygusuzluktur; 'şimdi burada' olmak ancak sınırlı olduğunda anlam kazanır.
 
 ## Mekanizma
-Siyah-beyaz melek dünyası ile renkli insan dünyası karşıtlığı duyusal farkı biçimlendirir; 'zamanın sesi' olarak kütüphane ve çocuk sesleri meleklerin gürültüsüdür.
+Henri Alekan'ın siyah-beyaz fotoğrafçılığı melek perspektifini (Sepiatone) insan perspektifinden ayırır; Marion'ın sirk trapezi ve Nick Cave'in konser sahneleri dünyevi haz olarak çekilir. İç monologlar korosal bir 'şehir sesi' yaratır.
 
 ## Kişisel uygunluk
-Varoluşsal romantizm ve Berlin'in ruhu senin profiline tam uyuyor.
+Varoluşsal romantizm, kentsel bellek ve 'gözlemcinin düşüşü' teması senin profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Wings of Desire (1987) · Notlar
 ### Tartışmalar & Notlar

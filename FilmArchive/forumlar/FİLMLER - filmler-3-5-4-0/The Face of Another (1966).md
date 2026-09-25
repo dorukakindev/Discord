@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **5** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · The Face of Another (1966) · Derin Analiz
 # Ayrıntılı konu
-Okuyama, yüzü yanmış bir iş adamıdır; doktoru ona başka bir adamın yüzünü yapay olarak verir. Yeni yüzle farklı bir hayat kurar — karısını baştan çıkarır, başka kadınlarla yaşar ama eski benliği onu geri çağırır. Yüzün çıkarılması fiziksel olarak mümkün değildir — artık o başka biridir.
+Mühendis Okuyama, bir laboratuvar kazasında yüzünü kaybeder; doktoru ona bir başkasının yüzünü yapay deriyle verir. Yeni yüzle kendi karısını 'tanımadan' baştan çıkarır, başka hayatlar kurar, yavaş yavaş ahlaki sınırları da değişir — çünkü artık 'o değil'dir. Paralel hikâyede savaşta yüzü yanmış bir genç kadın gecekonduda abisiyle yaşar; onun hikâyesi Okuyama'nınkine ayna tutar. Sonunda Okuyama doktoru da öldürür — yeni yüzü eski hayatını tamamen siler.
 
 # Tez
-Yüz, benliğin örtüsüdür ama örtü bedeni değiştirir — Okuyama'nın yeni yüzü onun ahlakını da değiştirir. Teshigahara'nın sorusu: kimlik yüzde mi, yoksa yüz kimlikte midir?
+Yüz, benliğin örtüsü değil taşıyıcısıdır — yüzü değiştiren ahlakı da değiştirir çünkü başkalarının gözü seni var eder. Teshigahara'nın sorusu: kimlik yüzde midir, yoksa yüzün kaybı kimliğin de kaybı mıdır?
 
 ## Mekanizma
-Aynalar ve cam yüzeyler sürekli yansıma oluşturur; 'hasta' ve 'doktor' diyalogları bilimin ahlaki sınırlarını gösterir. Finaldeki sokak kalabalığı — herkes maske takar.
+Aynalar, cam yüzeyler ve tıbbi X-ışını görüntüleri sürekli 'yansıma' fikri üretir; hareketli kolajlar ve soyut mekân tasarımı (doktorun laboratuvarı cam duvarlarla) bilimin sterilitesini groteskleştirir. Final sokak sahnesindeki herkesin yüzü 'maske' gibidir — izleyici de dahildir.
 
 ## Kişisel uygunluk
-Kimlik ve beden teması profiline çok güçlü uyuyor.
+Beden-kimlik paradoksu ve varoluşsal gerilim senin profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Face of Another (1966) · Notlar
 ### Tartışmalar & Notlar

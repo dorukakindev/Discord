@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg
 > **Yönetmen:** Martin Scorsese · **Tür:** Dram, Tarih · **Süre:** 161 dk · **Dil:** İngilizce, Japonca, Latince · **Yıl:** 2016
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve felsefi yapı 8/10.
 
-17. yüzyılda iki Portekizli Cizvit rahibi, dinden döndüğü söylenen akıl hocalarını bulmak ve Katolikliği yaymak amacıyla Japonya'ya gider.
+17. yüzyılda iki Cizvit rahip, Japonya'da kaybolan akıl hocalarını aramak için Hıristiyanlığın yasak olduğu topraklara gider. İşkence ve inkâr tehdidi altında Rodrigues, Tanrı'nın sessizliğinin ne anlama geldiğini sorgular.
 
 ### Puanlar
 IMDb **7.2/10** · Letterboxd **4.02/5** · nMDB **76.2**

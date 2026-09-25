@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg
 > **Yönetmen:** Robert Eggers · **Tür:** Dram, Fantastik, Korku · **Süre:** 109 dk · **Dil:** İngilizce · **Yıl:** 2019
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve psikolojik mekanizma 8/10.
 
-İki deniz feneri bekçisi, 1890'larda uzak ve gizemli bir New England adasında yaşarken akıl sağlıklarını korumaya çalışırlar.
+1890'larda iki deniz feneri bekçisi, fırtınalı bir adada dört haftalık vardiyaya kapanır. Tuz, fırtına, martılar ve 'ışığın' sırrı iki adamı paranoya, hakimiyet savaşı ve mitolojik bir deliliğe sürükler.
 
 ### Puanlar
 IMDb **7.4/10** · Letterboxd **4.00/5** · nMDB **77.0**

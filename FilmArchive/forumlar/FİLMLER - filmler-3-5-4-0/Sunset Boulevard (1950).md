@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg
 > **Yönetmen:** Billy Wilder · **Tür:** Dram, Film-Noir · **Süre:** 110 dk · **Dil:** İngilizce · **Yıl:** 1950
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve diyalog 8/10.
 
-A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.
+Parasız senarist Joe Gillis, sessiz sinema döneminin unutulmuş yıldızı Norma Desmond'un malikânesine sığınır ve onun 'dönüş filmi' hayalinin yazarı olur. Norma'nın sahiplenmesi saplantıya, Joe'nun kaçış çabası trajediye dönüşür.
 
 ### Puanlar
 IMDb **8.4/10** · Letterboxd **4.44/5** · nMDB **86.4**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Sunset Boulevard (1950) · Derin Analiz
 # Ayrıntılı konu
-Joe Gillis, senarist olarak borçludur ve Norma Desmond'un malikanesine sığınır — sessiz film yıldızı, kendi senaryosunu yazdığı 'gerçek' içinde yaşar. Joe Norma'nın 'koruyucusu' olur ama genç Betty'ye âşık olur; Norma Joe'yu öldürür ve film Joe'nun havuzda yüzen cesedinin anlatısıdır — ölü adam kendi cinayetini anlatır.
+Senarist Joe Gillis, borçlulardan kaçarken Sunset Bulvarı'ndaki bir malikâneye sığınır — orası sessiz sinemanın unutulmuş yıldızı Norma Desmond'un evidir. Norma onu 'geri dönüş' senaryosunun yazarı yapar, gençliğini ve gücünü satın alır; Joe'nun senarist Betty'ye âşık olması dengeleri bozar. Sonunda Norma Joe'yu havuz başında vurur — ve film ölü adamın ağzından, suyun altından anlatılır. 'I am ready for my close-up' cümlesiyle Norma kameralara yürür: delilik ve tören aynıdır.
 
 # Tez
-Şöhret, zamanın dışında yaşayan hayalettir — Norma'nın malikanesi Hollywood'un gömüttüğü geçmiştir. Wilder'in ironisi: sessiz film yıldızı sesli filmde sadece kendi yüzüyle kalır.
+Şöhret ölür ama sahnesi asla kapanmaz — Norma'nın malikânesi Hollywood'un mumyalanmış geçmişidir ve Wilder'in ironisi Joe'nun sesidir: ölü bir anlatıcı, hikâyesini bile elinde tutamaz. Sistem sizi öldürür, sonra da sizi kendi ölümünüzü anlatmaya zorlar.
 
 ## Mekanizma
-Joe'nun ölü anlatıcısı noir'ı ironikleştirir; Norma'nın 'I am ready for my close-up' sözü hem zafer hem deliliktir. Malikane iç mekânı mezarlık gibi çekilir.
+Franz Waxman'ın müziği ve noir fotoğrafçılığı (John Seitz) malikâneyi mezar gibi çeker; sessiz film yıldızları (Keaton, Swanson'ın gerçek filmleri) araya girer. Joe'nun anlatısı Hollywood'un kendi hakkındaki en keskin metinidir — mezarın içinden film yapmak.
 
 ## Kişisel uygunluk
-Hollywood eleştirisi ve ölüm-anlatısı profiline güçlü uyuyor.
+Sistem eleştirisi ve ölüm-anlatısı profiline güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Sunset Boulevard (1950) · Notlar
 ### Tartışmalar & Notlar

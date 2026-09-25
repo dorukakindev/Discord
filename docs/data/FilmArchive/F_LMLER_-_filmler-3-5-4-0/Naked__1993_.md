@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/xMYP4uaNeyPmX4FQ2xxWk2eIN6K.jpg
 > **Yönetmen:** Mike Leigh · **Tür:** Komedi, Dram · **Süre:** 131 dk · **Dil:** İngilizce · **Yıl:** 1993
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: diyalog 9/10 ve psikolojik mekanizma 8/10.
 
-An unemployed Brit vents his rage on unsuspecting strangers as he embarks on a nocturnal London odyssey.
+Johnny, Manchester'dan Londra'ya kaçar ve birkaç gecede eski sevgilisinin ev arkadaşları, sokak serserileri ve bir gece bekçisiyle karşılaşır. Keskin zekâsı ve acımasız ağzıyla modern hayatın kofluğunu teşhir eder ama kendi çukurundan çıkamaz.
 
 ### Puanlar
 IMDb **7.7/10** · Letterboxd **3.97/5** · nMDB **78.2**

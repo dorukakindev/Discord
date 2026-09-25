@@ -1,3 +1,4 @@
+https://a.ltrbxd.com/resized/sm/upload/mb/3e/pr/ra/the-decalogue-1200-1200-675-675-crop-000000.jpg?v=acfc424441
 -# THE FILM ARCHIVE · Diziler · 4.0–4.5 · Kayıt
 # Dekalog (1989)
 > **Tür:** Dram · **Süre:** 572 dk · **Dil:** Lehçe · **Yıl:** 1989
