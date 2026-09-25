@@ -31145,6 +31145,18 @@
               "name": "protokol-kesifleri",
               "posts": [
                 {
+                  "title": "The Ox-Bow Incident (1943)",
+                  "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/The_Ox-Bow_Incident__1943_.md"
+                },
+                {
+                  "title": "Drive My Car (2021)",
+                  "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/Drive_My_Car__2021_.md"
+                },
+                {
+                  "title": "Castaway on the Moon (2009)",
+                  "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/Castaway_on_the_Moon__2009_.md"
+                },
+                {
                   "title": "Yearning (1964)",
                   "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/Yearning__1964_.md"
                 },
@@ -31183,10 +31195,6 @@
                 {
                   "title": "The Place Without Limits (1978)",
                   "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/The_Place_Without_Limits__1978_.md"
-                },
-                {
-                  "title": "The Ox-Bow Incident (1943)",
-                  "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/The_Ox-Bow_Incident__1943_.md"
                 },
                 {
                   "title": "The Other One (1946)",
@@ -31321,20 +31329,12 @@
                   "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/_l__1953_.md"
                 },
                 {
-                  "title": "Drive My Car (2021)",
-                  "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/Drive_My_Car__2021_.md"
-                },
-                {
                   "title": "Chinese Roulette (1976)",
                   "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/Chinese_Roulette__1976_.md"
                 },
                 {
                   "title": "Character (1997)",
                   "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/Character__1997_.md"
-                },
-                {
-                  "title": "Castaway on the Moon (2009)",
-                  "file": "data/FilmArchive/KE__FLER____NER_LER_-_protokol-kesifleri/Castaway_on_the_Moon__2009_.md"
                 },
                 {
                   "title": "Black Narcissus (1947)",
@@ -31556,20 +31556,240 @@
               "name": "yonetmenler",
               "posts": [
                 {
-                  "title": "Alain Resnais",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Alain_Resnais.md"
+                  "title": "Andrey Zvyagintsev",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Andrey_Zvyagintsev.md"
+                },
+                {
+                  "title": "Florian Zeller",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Florian_Zeller.md"
+                },
+                {
+                  "title": "Billy Wilder",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Billy_Wilder.md"
+                },
+                {
+                  "title": "Wim Wenders",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Wim_Wenders.md"
+                },
+                {
+                  "title": "Orson Welles",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Orson_Welles.md"
+                },
+                {
+                  "title": "Thomas Vinterberg",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Thomas_Vinterberg.md"
+                },
+                {
+                  "title": "Denis Villeneuve",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Denis_Villeneuve.md"
+                },
+                {
+                  "title": "Hideaki Anno, Kazuya Tsurumaki",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Hideaki_Anno__Kazuya_Tsurumaki.md"
+                },
+                {
+                  "title": "Lars von Trier",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Lars_von_Trier.md"
+                },
+                {
+                  "title": "Hiroshi Teshigahara",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Hiroshi_Teshigahara.md"
+                },
+                {
+                  "title": "Andrei Tarkovsky",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Andrei_Tarkovsky.md"
+                },
+                {
+                  "title": "Quentin Tarantino",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Quentin_Tarantino.md"
+                },
+                {
+                  "title": "Steven Spielberg",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Steven_Spielberg.md"
+                },
+                {
+                  "title": "Paolo Sorrentino",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Paolo_Sorrentino.md"
+                },
+                {
+                  "title": "Larisa Shepitko",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Larisa_Shepitko.md"
+                },
+                {
+                  "title": "Martin Scorsese",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Martin_Scorsese.md"
+                },
+                {
+                  "title": "Paul Schrader",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Paul_Schrader.md"
+                },
+                {
+                  "title": "Benny Safdie, Josh Safdie",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Benny_Safdie__Josh_Safdie.md"
+                },
+                {
+                  "title": "Roman Polanski",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Roman_Polanski.md"
+                },
+                {
+                  "title": "Pier Paolo Pasolini",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Pier_Paolo_Pasolini.md"
+                },
+                {
+                  "title": "Yasujirô Ozu",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Yasujir__Ozu.md"
+                },
+                {
+                  "title": "Toshio Matsumoto",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Toshio_Matsumoto.md"
+                },
+                {
+                  "title": "David Lynch",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/David_Lynch.md"
                 },
                 {
                   "title": "Sidney Lumet",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Sidney_Lumet.md"
                 },
                 {
-                  "title": "Akira Kurosawa",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Akira_Kurosawa.md"
+                  "title": "Sergio Leone",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Sergio_Leone.md"
+                },
+                {
+                  "title": "Mike Leigh",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Mike_Leigh.md"
+                },
+                {
+                  "title": "Yorgos Lanthimos",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Yorgos_Lanthimos.md"
+                },
+                {
+                  "title": "Stanley Kubrick",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Stanley_Kubrick.md"
+                },
+                {
+                  "title": "Krzysztof Kieslowski",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Krzysztof_Kieslowski.md"
+                },
+                {
+                  "title": "Abbas Kiarostami",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Abbas_Kiarostami.md"
+                },
+                {
+                  "title": "Elia Kazan",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Elia_Kazan.md"
+                },
+                {
+                  "title": "Charlie Kaufman",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Charlie_Kaufman.md"
+                },
+                {
+                  "title": "Spike Jonze",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Spike_Jonze.md"
+                },
+                {
+                  "title": "Jim Jarmusch",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Jim_Jarmusch.md"
                 },
                 {
                   "title": "Alfred Hitchcock",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Alfred_Hitchcock.md"
+                },
+                {
+                  "title": "Michael Haneke",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Michael_Haneke.md"
+                },
+                {
+                  "title": "Miloš Forman",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Milo__Forman.md"
+                },
+                {
+                  "title": "David Fincher",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/David_Fincher.md"
+                },
+                {
+                  "title": "Federico Fellini",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Federico_Fellini.md"
+                },
+                {
+                  "title": "Rainer Werner Fassbinder",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Rainer_Werner_Fassbinder.md"
+                },
+                {
+                  "title": "Asghar Farhadi",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Asghar_Farhadi.md"
+                },
+                {
+                  "title": "Robert Eggers",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Robert_Eggers.md"
+                },
+                {
+                  "title": "Joshua Oppenheimer, Anonymous, Christine Cynn",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Joshua_Oppenheimer__Anonymous__Christine_Cynn.md"
+                },
+                {
+                  "title": "David Cronenberg",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/David_Cronenberg.md"
+                },
+                {
+                  "title": "Ethan Coen, Joel Coen",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Ethan_Coen__Joel_Coen.md"
+                },
+                {
+                  "title": "Park Chan-wook",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Park_Chan-wook.md"
+                },
+                {
+                  "title": "Nuri Bilge Ceylan",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Nuri_Bilge_Ceylan.md"
+                },
+                {
+                  "title": "John Cassavetes",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/John_Cassavetes.md"
+                },
+                {
+                  "title": "Leos Carax",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Leos_Carax.md"
+                },
+                {
+                  "title": "Luis Buñuel",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Luis_Bu_uel.md"
+                },
+                {
+                  "title": "Robert Bresson",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Robert_Bresson.md"
+                },
+                {
+                  "title": "Ingmar Bergman",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Ingmar_Bergman.md"
+                },
+                {
+                  "title": "Darren Aronofsky",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Darren_Aronofsky.md"
+                },
+                {
+                  "title": "Paul Thomas Anderson",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Paul_Thomas_Anderson.md"
+                },
+                {
+                  "title": "Pedro Almodóvar",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Pedro_Almod_var.md"
+                },
+                {
+                  "title": "Woody Allen",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Woody_Allen.md"
+                },
+                {
+                  "title": "Yönetmenler — Kayıt Dizini",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Y_netmenler___Kay_t_Dizini.md"
+                },
+                {
+                  "title": "Alain Resnais",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Alain_Resnais.md"
+                },
+                {
+                  "title": "Akira Kurosawa",
+                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Akira_Kurosawa.md"
                 },
                 {
                   "title": "Werner Herzog",
@@ -31580,28 +31800,8 @@
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Carl_Theodor_Dreyer.md"
                 },
                 {
-                  "title": "Luis Buñuel",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Luis_Bu_uel.md"
-                },
-                {
-                  "title": "Ingmar Bergman",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Ingmar_Bergman.md"
-                },
-                {
-                  "title": "Yönetmenler — Kayıt Dizini",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Y_netmenler___Kay_t_Dizini.md"
-                },
-                {
                   "title": "Peter Watkins",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Peter_Watkins.md"
-                },
-                {
-                  "title": "Hiroshi Teshigahara",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Hiroshi_Teshigahara.md"
-                },
-                {
-                  "title": "Andrei Tarkovsky",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Andrei_Tarkovsky.md"
                 },
                 {
                   "title": "Bernard Queysanne",
@@ -31620,16 +31820,8 @@
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Jean-Pierre_Melville.md"
                 },
                 {
-                  "title": "David Lynch",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/David_Lynch.md"
-                },
-                {
                   "title": "Claude Lanzmann",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Claude_Lanzmann.md"
-                },
-                {
-                  "title": "Stanley Kubrick",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Stanley_Kubrick.md"
                 },
                 {
                   "title": "Satoshi Kon",
@@ -31672,24 +31864,12 @@
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Michel_Gondry.md"
                 },
                 {
-                  "title": "Federico Fellini",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Federico_Fellini.md"
-                },
-                {
                   "title": "Andrew Dominik",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Andrew_Dominik.md"
                 },
                 {
                   "title": "Francis Ford Coppola",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Francis_Ford_Coppola.md"
-                },
-                {
-                  "title": "Park Chan-wook",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Park_Chan-wook.md"
-                },
-                {
-                  "title": "Robert Bresson",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Robert_Bresson.md"
                 },
                 {
                   "title": "Bernardo Bertolucci",
@@ -31762,10 +31942,6 @@
                 {
                   "title": "Luchino Visconti",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Luchino_Visconti.md"
-                },
-                {
-                  "title": "Thomas Vinterberg",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Thomas_Vinterberg.md"
                 },
                 {
                   "title": "Christian Vincent",
@@ -32180,10 +32356,6 @@
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Peter_Medak.md"
                 },
                 {
-                  "title": "Toshio Matsumoto",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Toshio_Matsumoto.md"
-                },
-                {
                   "title": "Jonah Bekhor, Zach Math",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Jonah_Bekhor__Zach_Math.md"
                 },
@@ -32280,10 +32452,6 @@
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Krzysztof_Kie_lowski.md"
                 },
                 {
-                  "title": "Elia Kazan",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Elia_Kazan.md"
-                },
-                {
                   "title": "Aleksandr Kaydanovskiy",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Aleksandr_Kaydanovskiy.md"
                 },
@@ -32306,10 +32474,6 @@
                 {
                   "title": "Radu Jude",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Radu_Jude.md"
-                },
-                {
-                  "title": "Spike Jonze",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Spike_Jonze.md"
                 },
                 {
                   "title": "Akio Jissōji",
@@ -32466,10 +32630,6 @@
                 {
                   "title": "Leonardo Favio",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Leonardo_Favio.md"
-                },
-                {
-                  "title": "Rainer Werner Fassbinder",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Rainer_Werner_Fassbinder.md"
                 },
                 {
                   "title": "John Farrow",
@@ -32668,10 +32828,6 @@
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Fernando_Le_n_de_Aranoa.md"
                 },
                 {
-                  "title": "Paul Thomas Anderson",
-                  "file": "data/FilmArchive/K_NYE_-_yonetmenler/Paul_Thomas_Anderson.md"
-                },
-                {
                   "title": "Lindsay Anderson",
                   "file": "data/FilmArchive/K_NYE_-_yonetmenler/Lindsay_Anderson.md"
                 },
@@ -32714,6 +32870,26 @@
             {
               "name": "filmler-4-0-4-5",
               "posts": [
+                {
+                  "title": "Through a Glass Darkly (1961)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-4-0-4-5/Through_a_Glass_Darkly__1961_.md"
+                },
+                {
+                  "title": "Antichrist (2009)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-4-0-4-5/Antichrist__2009_.md"
+                },
+                {
+                  "title": "Amadeus (1984)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-4-0-4-5/Amadeus__1984_.md"
+                },
+                {
+                  "title": "Solaris (1972)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-4-0-4-5/Solaris__1972_.md"
+                },
+                {
+                  "title": "Synecdoche, New York (2008)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-4-0-4-5/Synecdoche__New_York__2008_.md"
+                },
                 {
                   "title": "Filmler · 4.0–4.5 — Kayıt Dizini",
                   "file": "data/FilmArchive/F_LMLER_-_filmler-4-0-4-5/Filmler___4.0_4.5___Kay_t_Dizini.md"
@@ -33143,6 +33319,286 @@
             {
               "name": "filmler-3-5-4-0",
               "posts": [
+                {
+                  "title": "Everything Everywhere All at Once (2022)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Everything_Everywhere_All_at_Once__2022_.md"
+                },
+                {
+                  "title": "Satantango (1994)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Satantango__1994_.md"
+                },
+                {
+                  "title": "M (1931)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/M__1931_.md"
+                },
+                {
+                  "title": "The Silence (1963)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Silence__1963_.md"
+                },
+                {
+                  "title": "The Shining (1980)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Shining__1980_.md"
+                },
+                {
+                  "title": "The Lighthouse (2019)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Lighthouse__2019_.md"
+                },
+                {
+                  "title": "The Gospel According to St. Matthew (1964)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Gospel_According_to_St._Matthew__1964_.md"
+                },
+                {
+                  "title": "The Face of Another (1966)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Face_of_Another__1966_.md"
+                },
+                {
+                  "title": "The Bitter Tears of Petra von Kant (1972)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Bitter_Tears_of_Petra_von_Kant__1972_.md"
+                },
+                {
+                  "title": "That Obscure Object of Desire (1977)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/That_Obscure_Object_of_Desire__1977_.md"
+                },
+                {
+                  "title": "Salò, or the 120 Days of Sodom (1975)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Sal___or_the_120_Days_of_Sodom__1975_.md"
+                },
+                {
+                  "title": "Pulp Fiction (1994)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Pulp_Fiction__1994_.md"
+                },
+                {
+                  "title": "Psycho (1960)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Psycho__1960_.md"
+                },
+                {
+                  "title": "Loveless (2017)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Loveless__2017_.md"
+                },
+                {
+                  "title": "In a Year with 13 Moons (1978)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/In_a_Year_with_13_Moons__1978_.md"
+                },
+                {
+                  "title": "Holy Motors (2012)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Holy_Motors__2012_.md"
+                },
+                {
+                  "title": "Funeral Parade of Roses (1969)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Funeral_Parade_of_Roses__1969_.md"
+                },
+                {
+                  "title": "Enemy (2013)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Enemy__2013_.md"
+                },
+                {
+                  "title": "Dead Man (1995)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Dead_Man__1995_.md"
+                },
+                {
+                  "title": "Au Hasard Balthazar (1966)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Au_Hasard_Balthazar__1966_.md"
+                },
+                {
+                  "title": "Amarcord (1973)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Amarcord__1973_.md"
+                },
+                {
+                  "title": "A Short Film About Killing (1988)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/A_Short_Film_About_Killing__1988_.md"
+                },
+                {
+                  "title": "Wings of Desire (1987)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Wings_of_Desire__1987_.md"
+                },
+                {
+                  "title": "The Wild Pear Tree (2018)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Wild_Pear_Tree__2018_.md"
+                },
+                {
+                  "title": "The White Ribbon (2009)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_White_Ribbon__2009_.md"
+                },
+                {
+                  "title": "The Passion of Anna (1969)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Passion_of_Anna__1969_.md"
+                },
+                {
+                  "title": "The Hunt (2012)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Hunt__2012_.md"
+                },
+                {
+                  "title": "The Father (2020)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Father__2020_.md"
+                },
+                {
+                  "title": "The Devil, Probably (1977)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Devil__Probably__1977_.md"
+                },
+                {
+                  "title": "The Ascent (1977)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Ascent__1977_.md"
+                },
+                {
+                  "title": "Talk to Her (2002)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Talk_to_Her__2002_.md"
+                },
+                {
+                  "title": "Sunset Boulevard (1950)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Sunset_Boulevard__1950_.md"
+                },
+                {
+                  "title": "Silence (2016)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Silence__2016_.md"
+                },
+                {
+                  "title": "Schindler's List (1993)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Schindler_s_List__1993_.md"
+                },
+                {
+                  "title": "Requiem for a Dream (2000)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Requiem_for_a_Dream__2000_.md"
+                },
+                {
+                  "title": "Poor Things (2023)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Poor_Things__2023_.md"
+                },
+                {
+                  "title": "Once Upon a Time in America (1984)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Once_Upon_a_Time_in_America__1984_.md"
+                },
+                {
+                  "title": "No Country for Old Men (2007)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/No_Country_for_Old_Men__2007_.md"
+                },
+                {
+                  "title": "mother! (2017)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/mother___2017_.md"
+                },
+                {
+                  "title": "Magnolia (1999)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Magnolia__1999_.md"
+                },
+                {
+                  "title": "Inland Empire (2006)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Inland_Empire__2006_.md"
+                },
+                {
+                  "title": "Dead Ringers (1988)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Dead_Ringers__1988_.md"
+                },
+                {
+                  "title": "Chinatown (1974)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Chinatown__1974_.md"
+                },
+                {
+                  "title": "Caché (2005)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Cach___2005_.md"
+                },
+                {
+                  "title": "A Man Escaped (1956)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/A_Man_Escaped__1956_.md"
+                },
+                {
+                  "title": "2001: A Space Odyssey (1968)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/2001-_A_Space_Odyssey__1968_.md"
+                },
+                {
+                  "title": "Uncut Gems (2019)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Uncut_Gems__2019_.md"
+                },
+                {
+                  "title": "The Piano Teacher (2001)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Piano_Teacher__2001_.md"
+                },
+                {
+                  "title": "The Great Beauty (2013)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Great_Beauty__2013_.md"
+                },
+                {
+                  "title": "The Double Life of Véronique (1991)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Double_Life_of_V_ronique__1991_.md"
+                },
+                {
+                  "title": "Mishima: A Life in Four Chapters (1985)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Mishima-_A_Life_in_Four_Chapters__1985_.md"
+                },
+                {
+                  "title": "First Reformed (2017)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/First_Reformed__2017_.md"
+                },
+                {
+                  "title": "Fight Club (1999)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Fight_Club__1999_.md"
+                },
+                {
+                  "title": "Dancer in the Dark (2000)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Dancer_in_the_Dark__2000_.md"
+                },
+                {
+                  "title": "A Streetcar Named Desire (1951)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/A_Streetcar_Named_Desire__1951_.md"
+                },
+                {
+                  "title": "Tokyo Story (1953)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Tokyo_Story__1953_.md"
+                },
+                {
+                  "title": "The Lobster (2015)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Lobster__2015_.md"
+                },
+                {
+                  "title": "Taste of Cherry (1997)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Taste_of_Cherry__1997_.md"
+                },
+                {
+                  "title": "One Flew Over the Cuckoo's Nest (1975)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/One_Flew_Over_the_Cuckoo_s_Nest__1975_.md"
+                },
+                {
+                  "title": "Naked (1993)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Naked__1993_.md"
+                },
+                {
+                  "title": "Crimes and Misdemeanors (1989)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Crimes_and_Misdemeanors__1989_.md"
+                },
+                {
+                  "title": "A Woman Under the Influence (1974)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/A_Woman_Under_the_Influence__1974_.md"
+                },
+                {
+                  "title": "A Separation (2011)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/A_Separation__2011_.md"
+                },
+                {
+                  "title": "There Will Be Blood (2007)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/There_Will_Be_Blood__2007_.md"
+                },
+                {
+                  "title": "The Killing of a Sacred Deer (2017)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/The_Killing_of_a_Sacred_Deer__2017_.md"
+                },
+                {
+                  "title": "Oldboy (2003)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Oldboy__2003_.md"
+                },
+                {
+                  "title": "Long Day's Journey Into Night (1962)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Long_Day_s_Journey_Into_Night__1962_.md"
+                },
+                {
+                  "title": "Dogville (2003)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Dogville__2003_.md"
+                },
+                {
+                  "title": "Citizen Kane (1941)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Citizen_Kane__1941_.md"
+                },
+                {
+                  "title": "Being John Malkovich (1999)",
+                  "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Being_John_Malkovich__1999_.md"
+                },
                 {
                   "title": "Filmler · 3.5–4.0 — Kayıt Dizini",
                   "file": "data/FilmArchive/F_LMLER_-_filmler-3-5-4-0/Filmler___3.5_4.0___Kay_t_Dizini.md"
@@ -33768,6 +34224,10 @@
               "name": "diziler-4-0-4-5",
               "posts": [
                 {
+                  "title": "Dekalog (1989)",
+                  "file": "data/FilmArchive/D_Z_LER_-_diziler-4-0-4-5/Dekalog__1989_.md"
+                },
+                {
                   "title": "Diziler · 4.0–4.5 — Kayıt Dizini",
                   "file": "data/FilmArchive/D_Z_LER_-_diziler-4-0-4-5/Diziler___4.0_4.5___Kay_t_Dizini.md"
                 },
@@ -33925,6 +34385,14 @@
               "name": "diziler-3-5-4-0",
               "posts": [
                 {
+                  "title": "Decalogue VI (1989)",
+                  "file": "data/FilmArchive/D_Z_LER_-_diziler-3-5-4-0/Decalogue_VI__1989_.md"
+                },
+                {
+                  "title": "Decalogue I (1989)",
+                  "file": "data/FilmArchive/D_Z_LER_-_diziler-3-5-4-0/Decalogue_I__1989_.md"
+                },
+                {
                   "title": "Diziler · 3.5–4.0 — Kayıt Dizini",
                   "file": "data/FilmArchive/D_Z_LER_-_diziler-3-5-4-0/Diziler___3.5_4.0___Kay_t_Dizini.md"
                 },
@@ -33999,6 +34467,10 @@
             {
               "name": "belgeseller-3-5-4-0",
               "posts": [
+                {
+                  "title": "The Act of Killing (2012)",
+                  "file": "data/FilmArchive/BELGESELLER_-_belgeseller-3-5-4-0/The_Act_of_Killing__2012_.md"
+                },
                 {
                   "title": "Belgeseller · 3.5–4.0 — Kayıt Dizini",
                   "file": "data/FilmArchive/BELGESELLER_-_belgeseller-3-5-4-0/Belgeseller___3.5_4.0___Kay_t_Dizini.md"
@@ -34198,6 +34670,14 @@
               "name": "animeler-4-0-4-5",
               "posts": [
                 {
+                  "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                  "file": "data/FilmArchive/AN_MELER_-_animeler-4-0-4-5/Neon_Genesis_Evangelion-_The_End_of_Evangelion__1997_.md"
+                },
+                {
+                  "title": "Animeler · 4.0–4.5 — Kayıt Dizini",
+                  "file": "data/FilmArchive/AN_MELER_-_animeler-4-0-4-5/Animeler___4.0_4.5___Kay_t_Dizini.md"
+                },
+                {
                   "title": "It's Such a Beautiful Day (2012)",
                   "file": "data/FilmArchive/AN_MELER_-_animeler-4-0-4-5/It_s_Such_a_Beautiful_Day__2012_.md"
                 },
@@ -34220,10 +34700,6 @@
                 {
                   "title": "Monster (2004)",
                   "file": "data/FilmArchive/AN_MELER_-_animeler-4-0-4-5/Monster__2004_.md"
-                },
-                {
-                  "title": "Animeler · 4.0–4.5 — Kayıt Dizini",
-                  "file": "data/FilmArchive/AN_MELER_-_animeler-4-0-4-5/Animeler___4.0_4.5___Kay_t_Dizini.md"
                 }
               ]
             }

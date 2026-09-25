@@ -1,6 +1,6 @@
 -# THE FILM ARCHIVE · Diziler · 4.0–4.5 · Dizin
 # Diziler · 4.0–4.5 — Kayıt Dizini
-37 kayıt — uygunluk sırası:
+38 kayıt — uygunluk sırası:
 
 • **03 Одиссей и Пенелопа - S01E03 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.4/5**
 • **07 Дедал и Икар - S01E07 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.4/5**
@@ -39,4 +39,5 @@
 • **09 Аталанта - Девушка дикарка - S01E09 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.0/5**
 • **Balls Deep (2016)** · IMDb 7.7/10 · nMDB 77.0 · uyg 4.0/5**
 • **Baltic Tribes (2018)** · IMDb 7.0/10 · LB 3.38/5 · nMDB 68.8 · uyg 4.0/5**
+• **Dekalog (1989)** · IMDb 8.9/10 · LB 4.59/5 · nMDB 90.4 · uyg 4.0/5**
 • **Insomniac with Dave Attell (2001–2004)** · IMDb 8.2/10 · nMDB 82.0 · uyg 4.0/5**
