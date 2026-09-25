@@ -53,13 +53,13 @@ bulgularının tek yerde durum takibi. Son güncelleme: 2026-09-25 — `bot/` ge
 | N8 | "N sonuç" toplam değil | ✅ `search` → (rows, total) |
 | N9 | forum lookup önbellek bağımlı, `c` boş | ✅ `forum_of()` fetch fallback + kategori doldurma |
 | N10 | biçimsiz `l` alanı IndexError | ✅ `r['i']` alanı + URL fallback |
-| N11 | docs/ görüntüleyici kaynağı yok | ⏸️ Kapsam dışı (docs sitesi ayrı tutuluyor) |
+| N11 | docs/ görüntüleyici kaynağı yok | ✅ Kapandı — `docs/index.html` repoda tracked; `docs/data/` + `docs/index.json` dump betikleriyle üretiliyor |
 | N12 | search() her sorguda norm+set | ✅ `r['n']` önceden-normalize (build_index + load_index + rec_of_thread) |
 | N13 | followup 15 dk sınırı | ✅ HTTPException → `channel.send` fallback |
 | N14 | forum-bazlı sessiz atlama | ✅ `scan` → (recs, bad) + %50 guild eşiği |
 | N15 | repo hijyeni | ✅ idx2.log, .env→gitignore, 20 devin dalı silindi |
 | L5 | wh40k manifest d��ğümü | ✅ create-if-missing + `texts` + `_txt` dökümü |
-| L6 | `dsan` çakışması | ⏸️ Açık — aynı slug'a ayrışan iki kayıt için sonlandırıcı ekleme gerek |
+| L6 | `dsan` çakışması | ✅ PR #31 — `unique_fname` aynı slug'a ayrışan adları `-<uid-son4>` ile ayırır, üst üste yazma yok |
 | L7 | bayat dosyalar | ✅ idx2.log silindi (index.json commitli = bilinçli dağıtım kanalı) |
 | L9 | TMDB scrape kırılgan | ✅ og:image regex `t/p/[^"]+` — boyut-agnostik |
 | L10 | `line_chunks` boş parça/uzun satır | ✅ boş chunk yok, >limit satır sert bölünür |

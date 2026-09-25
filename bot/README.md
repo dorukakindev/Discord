@@ -7,12 +7,15 @@ Arşiv sunucularını (Imperial / Trench / Black RPG / Film Archive) tek botla y
 | Komut | Kim | İşlev |
 |---|---|---|
 | `/ara <sorgu>` | herkes | Kayıtlarda Türkçe-normalize + fuzzy arama, Discord bağlantılı sonuç listesi; 0 sonuçta öneri sunar |
-| `/sor <soru>` | herkes | Soruyu en yakın kayda eşler, kaydın thread metninden en ilgili paragrafı çıkarır (LLM yok, anahtar-kelime puanlama) |
+| `/sor <soru>` | herkes | Soruyu arşiv gövdelerinde arar, en ilgili paragrafı kaynak linkiyle verir (LLM yok). `data/lexicanum.db` varsa FTS5 gövde araması, yoksa thread-fetch yolu |
 | `/rastgele` | herkes | Rastgele kayıt (içinde bulunulan sunucu öncelikli) |
+| `/gunun-kaydi` | herkes | Günün kaydı — tarihe göre deterministik, gün boyu aynı |
 | `/istatistik` | herkes | Sunucu başına kayıt sayısı |
 | `/kayit-ekle` | `manage_messages` | Forum seç + modal ile başlık/metin → yeni kayıt postu |
 | `/kayit-duzenle` | `manage_messages` | Kayıt seç + modal ile metni değiştir |
 | `/index-yenile` | `manage_messages` | Sunucuları yeniden tarayıp `data/index.json`'ı tazeler |
+| `/gunun-kaydi-kur <kanal> [saat]` | `manage_messages` | Günün kaydını her gün belirtilen saatte (TSİ) kanala otomatik gönder; `data/daily.json`'a yazılır |
+| `/gunun-kaydi-kapat` | `manage_messages` | Günlük otomatik gönderiyi kapat |
 
 Ayrıca `data/log_channels.json`'da tanımlı kanallara üye giriş/çıkış logu düşer.
 
@@ -46,7 +49,8 @@ DISCORD_TOKEN=... python3 build_index.py   # ~10 dk, data/index.json yazar
 | `filmarchive/build_server.py` | nMDB veritabanlarından Film Archive guild'ini kurar/günceller. Fazlar: `prep structure guide posts az bands split relabel all`. Flag'ler: `--dry-run`, `--force` |
 | `filmarchive/dump_all.py` · `wh40k/dump_all.py` | Canlı guild → repo markdown dökümü + `docs/` verisi. Flag'ler: `--dry-run`, `--force-sweep` |
 | `lib/dapi.py` | Ortak Discord REST katmanı (retry/429/5xx, DRY_RUN kısa devre). Guild'ler `configure()` veya `*_GUILD_ID` env ile bildirilir |
-| `lib/textnorm.py` · `lib/jsonio.py` | Türkçe arama normalizasyonu · utf-8 okuma + atomik JSON yazma |
+| `lib/textnorm.py` · `lib/jsonio.py` · `lib/ftsdb.py` | Türkçe arama normalizasyonu · utf-8 okuma + atomik JSON yazma · SQLite FTS5 gövde indeksi |
+| `build_fts.py` | Repo `.md` dökümlerinden `data/lexicanum.db` üretir (discord API'siz, ~5 sn). Döküm/index tazelemesinden sonra koştur |
 
 Güvenlik: yıkıcı betikler `post_state.json` yedeği (`work/backups/`) + silinmeden önce thread dökümü (`work/trash/`) alır. Bilinmeyen thread içeren forum `--force` olmadan silinmez; `sweep_stale` >%30 oranında durur. Önce `--dry-run` ile plan gör:
 
@@ -92,6 +96,11 @@ docker run -d --name lexicanum --restart unless-stopped --env-file .env lexicanu
    ```
 
 Güncelleme: `cd /opt/lexicanum-repo && git pull && cp -r bot/. /opt/lexicanum/ && sudo systemctl restart lexicanum`
+
+`/sor` için gövde indeksi (isteğe bağlı ama önerilir — olmadan /sor canlı thread çeker):
+```bash
+cd /opt/lexicanum && sudo -u lexicanum env DISCORD_REPO=/opt/lexicanum-repo python3 build_fts.py
+```
 
 ## Canlı kurulum (Eylül 2026)
 
