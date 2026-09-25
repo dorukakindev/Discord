@@ -176,6 +176,26 @@ def thread_id_of(r):
     return r.get('i') or str(r.get('l', '')).rsplit('/', 1)[-1]
 
 
+_FTS_DB = os.path.join(DATA, 'lexicanum.db')
+
+
+def fts_search(terms, gid=None, limit=3):
+    """data/lexicanum.db varsa gövde FTS5 araması -> [(r, orig)]; yoksa []."""
+    if not os.path.exists(_FTS_DB) or not terms:
+        return []
+    from lib.ftsdb import connect
+    from lib.ftsdb import search as fts_q
+    slug = GUILDS.get(str(gid), {}).get('slug') if gid else None
+    db = connect(_FTS_DB)
+    try:
+        rows = fts_q(db, list(terms), server=slug, limit=limit)
+    finally:
+        db.close()
+    sname = {m['slug']: m['name'] for m in GUILDS.values()}
+    return [{'t': d, 'l': u, 'f': f, 's': sname.get(s, s), '_orig': o}
+            for d, u, f, s, o in rows]
+
+
 async def thread_text(r):
     try:
         th = await bot.fetch_channel(int(thread_id_of(r)))
@@ -218,6 +238,12 @@ async def sor(inter, soru: str, sunucu: app_commands.Choice[str] = None):
         gid = str(inter.guild_id)
     await inter.response.defer()
     terms = question_terms(soru)
+    slug = GUILDS.get(str(gid), {}).get('slug') if gid else None
+    for r in fts_search(terms, slug):
+        ex = best_excerpt(r.pop('_orig'), terms)
+        if ex:
+            await inter.followup.send(embed=sor_embed(soru, r, ex))
+            return
     q = ' '.join(sorted(terms)) or soru
     rows, _ = search(q, gid)
     if not rows and gid:
@@ -232,15 +258,19 @@ async def sor(inter, soru: str, sunucu: app_commands.Choice[str] = None):
         return
     for r in rows[:3]:
         ex = best_excerpt(await thread_text(r), terms)
-        if not ex:
-            continue
-        e = discord.Embed(title=f'“{soru[:200]}”', colour=0xC8A24B,
-                          description=ex[:4096])
-        e.add_field(name='Kaynak', inline=False,
-                    value=f'[{r["t"][:80]}]({r["l"]}) — {r["f"]} · {r["s"]}')
-        await inter.followup.send(embed=e)
-        return
+        if ex:
+            await inter.followup.send(embed=sor_embed(soru, r, ex))
+            return
     await inter.followup.send(embed=result_embed(f'“{soru[:200]}”', rows[:3]))
+
+
+def sor_embed(soru, r, ex):
+    e = discord.Embed(title=f'“{soru[:200]}”', colour=0xC8A24B,
+                      description=ex[:4096])
+    src = f'[{r["t"][:80]}]({r["l"]})' if r.get('l') else r['t'][:80]
+    e.add_field(name='Kaynak', inline=False,
+                value=f'{src} — {r["f"]} · {r["s"]}')
+    return e
 
 
 def is_admin(inter):
