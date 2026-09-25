@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/49/Disciples_of_Caliban_Livery_2.png/revision/latest?cb=20160228004439
 
+## Tarihçe
+
+Disciples of Caliban, Dark Angels halefi bir Unforgiven Chapter'dır; kuruluşu tartışmalıdır — Supreme Grand Master Anaziel'in 37. Binyıl sonunda High Lords'tan olağandışı şekilde yeni bir Chapter talep ettiği ve bunun Cypher'ı kovalamak için kurulmuş olabileceği söylenir. Chapter, Fallen avında doğrudan görevlendirilmiş gibi davranır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Disciples of Caliban — Caliban Müritleri
@@ -24,4 +28,8 @@ Disciples of Caliban, körü körüne hızla vuran filo-tabanlı bir chapter'dı
 
 Disciples of Caliban, Dark Angels mirasının en gizli ve en hedef-odaklı yorumunun somut halidir; bir tek hainin (Cypher) peşine düşmek için yaratıldığı söylenen, en saf gen-tohumdan örülmüş bir av kardeşliği. Hızları, seçicilikleri ve relikt-yüklü onurlarıyla, I. Lejyon'un kefaret takıntısını galaksinin dört bir yanına taşıyan bu koyu yeşil zırhlı müritler, geçmişin bir günahını avlamaya adanmış bir iradenin simgesidir.
 
+
+## Tarihçe
+
+Disciples of Caliban, Dark Angels halefi bir Unforgiven Chapter'dır; kuruluşu tartışmalıdır — Supreme Grand Master Anaziel'in 37. Binyıl sonunda High Lords'tan olağandışı şekilde yeni bir Chapter talep ettiği ve bunun Cypher'ı kovalamak için kurulmuş olabileceği söylenir. Chapter, Fallen avında doğrudan görevlendirilmiş gibi davranır.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

@@ -7,8 +7,16 @@ Büyük Yarık (Cicatrix Maledictum), Cadia'nın düşüşüyle açılan ve gala
 
 Yarık'ın açılmasıyla Astronomican'ın ışığı 'Nihilus' tarafında titredi; binlerce dünya kayboldu, daemon istilaları patladı ve İmparatorluk'un 'tek bir güç' olarak hareket etme yeteneği kırıldı. Guilliman'ın Indomitus Haçlı Seferi, bu yarayı köprülemek için kuruldu — Büyük Yarık, İmparatorluk'un 'parçalanmış ama yok edilmemiş' olduğunun en büyük kanıtıdır.
 
+
+## Tarihçe
+
+Büyük Yarık (High Gothic: Cicatrix Maledictum), 999.M41'de 13. Kara Haçlı Seferi ve Cadia'nın düşüşüyle açılan, galaksiyi ikiye bölen devasa Warp fırtınası zinciridir. Açıldığında Astronomican'ın ışığını karartan empyrik enerji tsunamisi (Noctis Aeterna) saldı; İmparatorluk'u Imperium Sanctus ve karanlık Imperium Nihilus olarak ikiye ayırdı.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest?cb=20170903200334
 
 https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest?cb=20170903200334
+
+## Tarihçe
+
+Büyük Yarık (High Gothic: Cicatrix Maledictum), 999.M41'de 13. Kara Haçlı Seferi ve Cadia'nın düşüşüyle açılan, galaksiyi ikiye bölen devasa Warp fırtınası zinciridir. Açıldığında Astronomican'ın ışığını karartan empyrik enerji tsunamisi (Noctis Aeterna) saldı; İmparatorluk'u Imperium Sanctus ve karanlık Imperium Nihilus olarak ikiye ayırdı.

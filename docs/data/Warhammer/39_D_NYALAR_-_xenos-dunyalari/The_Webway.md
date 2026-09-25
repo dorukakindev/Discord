@@ -20,6 +20,14 @@ Webway'in dehası, çözdüğü problemde yatar; normalde yıldızlar arası sey
 
 Webway, Horus Heresy'nin gizli tetikleyicilerinden biridir. İmparator, insanlık için kendi Webway kapısını (Terra'nın altından) açmaya gizlice çalışıyordu; bu, insanlığı Warp'ın tehlikelerinden kurtaracak devrim niteliğinde bir projeydi. Ama Magnus'un yasak psişik gücü bu projeyi kazara delince, Terra'nın altındaki Webway bölümü iblis istilasına uğradı ve proje çöktü; İmparator, Heresy'nin doruğunda Webway'i savunmak için Altın Taht'a oturmak zorunda kaldı.
 
+## Tarihçe
+
+Webway, Aeldari'nin warp'tan bağımsız, gerçeklik ile Warp arasında var olan labirent boyutudur; wraithbone'dan örülmüş kapı ağları (Webway Gate) craftworld'lerin gövdelerine ve dağınık dünyalara bağlanır. Aeldari bu ağı ışık hı
+
 Webway, hem Aeldari'nin kalbi hem de insanlığın kaçırdığı bir kurtuluş fırsatıdır; ağın büyük bölümü çağlar içinde çökmüş, iblislerce istila edilmiş ve tehlikeli hale gelmiştir. O, kayıp bir altın çağın kalıntısı, boyutlar arası bir labirent ve "ne olabilirdi" sorusunun somut hali; eğer İmparator'un projesi başarılı olsaydı, insanlık belki de bambaşka, çok daha aydınlık bir geleceğe sahip olabilirdi.
 
+
+## Tarihçe
+
+Webway, Aeldari'nin warp'tan bağımsız, gerçeklik ile Warp arasında var olan labirent boyutudur; wraithbone'dan örülmüş kapı ağları (Webway Gate) craftworld'lerin gövdelerine ve dağınık dünyalara bağlanır. Aeldari bu ağı ışık hızını aşan güvenli yolculuk ve Commorragh gibi şehirler için kullanır; İmparator da Terra'dan Webway'e açılmaya çalışmış ama Magnus'un müdahalesiyle proje çökmüştür.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

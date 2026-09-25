@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Celestial_Lions_SP.jpg/revision/latest?cb=20240924201739
 
+## Tarihçe
+
+Celestial Lions, Imperial Fists halefi, 38. Binyıl'da kurulmuş bir Chapter'dır; Emperor's Spears ve Star Scorpions ile birlikte 'Sentinels of the Veil' üçlüsünün parçası olarak Elara's Veil bölgesini nöbetle korurlardı. Inquisition'la yaşadıkları çatışma ve Armageddon'daki kayıplar Chapter'ı yok olmanın eşiğine getirdi.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Celestial Lions — Göksel Aslanlar
@@ -24,4 +28,8 @@ Sonrasında Celestial Lions, art arda gelen felaketlerle adım adım yok edildi;
 
 Celestial Lions, İmparatorluğun kendi içindeki çürümenin ve "kardeş katli" karanlığının somut halidir; bir chapter, xenoslar tarafından değil, doğruyu söylediği için kendi tarafındaki bir başka chapter tarafından yok edildi. Onların trajedisi, 40K'nın acı bir gerçeğini gösterir: bu evrende onur ve dürüstlük, çoğu zaman ödüllendirilmez, cezalandırılır. Göksel Aslanlar, gururla yaşayıp ihanetle ölen, sönmekte olan onurlu bir soyu temsil eder.
 
+
+## Tarihçe
+
+Celestial Lions, Imperial Fists halefi, 38. Binyıl'da kurulmuş bir Chapter'dır; Emperor's Spears ve Star Scorpions ile birlikte 'Sentinels of the Veil' üçlüsünün parçası olarak Elara's Veil bölgesini nöbetle korurlardı. Inquisition'la yaşadıkları çatışma ve Armageddon'daki kayıplar Chapter'ı yok olmanın eşiğine getirdi.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

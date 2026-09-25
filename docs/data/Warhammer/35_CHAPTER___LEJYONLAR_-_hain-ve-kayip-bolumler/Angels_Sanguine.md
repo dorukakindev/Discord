@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/1f/AngelsSanguineBadge.jpg/revision/latest?cb=20171212175657
 
+## Tarihçe
+
+Angels Sanguine, Blood Angels'ın Second Founding halefidir ve Eye of Terror'dan çıkan dehşetlere karşı kazanılmış uzun bir zafer tarihine sahiptir; Sanguinary Brotherhood'un örnek üyelerinden sayılır. Ancak kardeşlerinin yüzlerini hiç göstermediği söylenir — başrahip konseyine katılanlar bile maskelerini çıkarmaz.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Angels Sanguine — Kutsal Melekler (Angels Sanguine)
@@ -24,4 +28,8 @@ Nadiren maskesiz görüldüklerinde, alışılmadık derecede kızıl bir tene v
 
 Angels Sanguine, görkemli bir kahramanlık ile derin bir gizliliğin iç içe geçtiği bir chapter'dır; Halkaların Gözü'nden çıkan Kaos dehşetlerine karşı sayısız zafere imza atmış, ama bunu hep maskelerin ardından, sessizce yapmışlardır. Yüzlerini saklayan, sırlarını koruyan ama sadakatleri ve cesaretleri tartışılmaz olan bu kızıl-siyah zırhlı melekler, gizemin ve onurun aynı anda taşınabileceğinin somut halidir.
 
+
+## Tarihçe
+
+Angels Sanguine, Blood Angels'ın Second Founding halefidir ve Eye of Terror'dan çıkan dehşetlere karşı kazanılmış uzun bir zafer tarihine sahiptir; Sanguinary Brotherhood'un örnek üyelerinden sayılır. Ancak kardeşlerinin yüzlerini hiç göstermediği söylenir — başrahip konseyine katılanlar bile maskelerini çıkarmaz.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723
 
+## Tarihçe
+
+Adeptus Mechanicus, Mars'taki Cult Mechanicus'un Adeptus Terra içindeki resmî adıdır; İmparatorluk'a bilim insanı, mühendis ve teknisyen sağlar. Tech-priest'ler, gelişmiş teknolojiyi korumak ve inşa etmek için gereken kutsal bilgiyi kıskançlıkla saklayan ayrıcalıklı bir kasttır; Omnissiah'ya tapar ve insanlığın kayıp bilgisini aramayı kutsal görev sayarlar.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Adeptus Mechanicus — Mars Mekanikus'u
@@ -22,4 +26,8 @@ Mechanicus, İmparator ile yapılan "Kızıl Gezegen Anlaşması" ile İmparator
 
 Adeptus Mechanicus, durağanlığın, batıl inancın ve kayıp bilginin somut halidir; insanlık bir zamanlar yıldızları fethedecek teknolojiye sahipti, ama şimdi o teknolojinin nasıl çalıştığını bile çoğu zaman anlamadan, sadece taklit ederek kullanır. Mars'ın derinliklerinde uyuyan Void Dragon gibi karanlık sırlarla, onlar hem insanlığın teknolojik gücünün kaynağı hem de en gizemli, en yabancılaşmış ve potansiyel olarak en tehlikeli kurumlarından biridir.
 
+
+## Tarihçe
+
+Adeptus Mechanicus, Mars'taki Cult Mechanicus'un Adeptus Terra içindeki resmî adıdır; İmparatorluk'a bilim insanı, mühendis ve teknisyen sağlar. Tech-priest'ler, gelişmiş teknolojiyi korumak ve inşa etmek için gereken kutsal bilgiyi kıskançlıkla saklayan ayrıcalıklı bir kasttır; Omnissiah'ya tapar ve insanlığın kayıp bilgisini aramayı kutsal görev sayarlar.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

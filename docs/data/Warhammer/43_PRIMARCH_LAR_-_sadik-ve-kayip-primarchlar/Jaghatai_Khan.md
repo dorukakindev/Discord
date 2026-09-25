@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/8e/JaghataiKhanPencil.jpg/revision/latest/scale-to-width-down/871?cb=20190325202836
 
+## Tarihçe
+
+Jaghatai Khan ('Büyük Han', 'Khagan', 'Warhawk'), White Scars V. Lejyonu'nun primarch'ıydı; Chogoris'in bozkır kabilelerinde yetişti ve Büyük Haçlı Seferi ile Horus Heresy boyunca lejyonuna komuta etti. Heresy'de tarafını İmparator'dan yana koydu, Terra Kuşatması'nda hayati rol oynadı. Savaştan sonra 70 yıl daha savaştı; 084.M31'de Drukhari korsanlarını kovalarken Maelstrom bölgesindeki bir Webway portalına girip kayboldu — hâlâ geri dönmedi.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Jaghatai Khan — Warhawk
@@ -31,4 +35,8 @@ Heresy sonrası Khan, Dark Eldar (Drukhari) akıncılarının peşine düşüp W
 - Terra Kuşatması'nda hava-kara akınları
 - Webway'de Dark Eldar peşinde kayboluş
 
+
+## Tarihçe
+
+Jaghatai Khan ('Büyük Han', 'Khagan', 'Warhawk'), White Scars V. Lejyonu'nun primarch'ıydı; Chogoris'in bozkır kabilelerinde yetişti ve Büyük Haçlı Seferi ile Horus Heresy boyunca lejyonuna komuta etti. Heresy'de tarafını İmparator'dan yana koydu, Terra Kuşatması'nda hayati rol oynadı. Savaştan sonra 70 yıl daha savaştı; 084.M31'de Drukhari korsanlarını kovalarken Maelstrom bölgesindeki bir Webway portalına girip kayboldu — hâlâ geri dönmedi.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

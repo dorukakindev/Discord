@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/55/Lamenters_Livery.jpg/revision/latest?cb=20230808224720
 
+## Tarihçe
+
+Lamenters, 21. 'Lanetli' Kuruluş'ta yaratılmış Blood Angels soyundan gelen ve kaderi adeta lanetli görünen bir Chapter'dır. Bilinmeyen yollarla Black Rage ve Red Thirst kusurlarını bastırdıkları sanılır, ancak zaferleri hep acıya dönüşmüştür: Badab Savaşı'nda Astral Claws'un ayrılıkçı saflarında sürüklenip ağır kayıplar verdiler, sonra da Hive Fleet Kraken önünde neredeyse yok olma noktasına geldiler.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Lamenters — Ağıtçılar
@@ -24,4 +28,8 @@ Tarihleri üst üste gelen trajedilerle doludur; yanlış tarafı destekledikler
 
 Lamenters, kötü şansın ve cezalandırılan iyiliğin somut halidir; "Bize bir şans verildi ve onu hak ettik" derken bile kader onlara gülmez. Ama tam da bu yüzden, hayranlar onları çok sever; onlar, evrenin karanlığına ve acımasızlığına rağmen merhameti ve onuru seçen, sonra da bunun bedelini ödeyen kahramanlardır. Sloganları "For Those We Cherish" (Sevdiklerimiz İçin), trajik asaletlerini özetler; en kötü kaderi, en iyi niyetle karşılayan ağıtçılar.
 
+
+## Tarihçe
+
+Lamenters, 21. 'Lanetli' Kuruluş'ta yaratılmış Blood Angels soyundan gelen ve kaderi adeta lanetli görünen bir Chapter'dır. Bilinmeyen yollarla Black Rage ve Red Thirst kusurlarını bastırdıkları sanılır, ancak zaferleri hep acıya dönüşmüştür: Badab Savaşı'nda Astral Claws'un ayrılıkçı saflarında sürüklenip ağır kayıplar verdiler, sonra da Hive Fleet Kraken önünde neredeyse yok olma noktasına geldiler.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

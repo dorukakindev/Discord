@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Angles_Abolustion_Armorial.png/revision/latest?cb=20250531232707
 
+## Tarihçe
+
+Angels of Absolution, Dark Angels'ın Second Founding halefidir; ancak diğer Unforgiven'dan farklı olarak İmparator'un gözündeki utançlarının zaten silindiğine ve affı hak ettiklerine inanırlar — bu yüzden 'Unforgiven' unvanını kullanmazlar. Bu tavır, ortak operasyonlarda kardeş Chapter'larla gerilim yaratır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Angels of Absolution — Kefaret Melekleri
@@ -24,4 +28,8 @@ Bu teolojik farklılığa rağmen, Angels of Absolution Dark Angels ile son dere
 
 Angels of Absolution, Dark Angels mirasının en umutlu, en barışmış yorumunun somut halidir; aynı utancı paylaşan kardeşlerinin aksine, kefaretine çoktan kavuştuğuna inanan bir chapter. Kemik beyazı zırhlarıyla, hâlâ Düşmüş'ün izini sürseler de, onları yönlendiren şey suçluluk değil, arınmışlığın huzurudur; bu chapter, aynı geçmişin bir lanet değil, bir özgürleşme olarak da yorumlanabileceğinin somut halidir.
 
+
+## Tarihçe
+
+Angels of Absolution, Dark Angels'ın Second Founding halefidir; ancak diğer Unforgiven'dan farklı olarak İmparator'un gözündeki utançlarının zaten silindiğine ve affı hak ettiklerine inanırlar — bu yüzden 'Unforgiven' unvanını kullanmazlar. Bu tavır, ortak operasyonlarda kardeş Chapter'larla gerilim yaratır.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

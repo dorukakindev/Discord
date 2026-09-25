@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Iron_Snakes_SP2.png/revision/latest?cb=20170726153946
 
+## Tarihçe
+
+Iron Snakes, Ultramarines'in Second Founding halefi ama Codex uyumlu olmayan, kendine özgü örgütlenmeli bir Chapter'dır. Adları, donmuş ana dünya Ithaka'nın okyanuslarındaki dev su yılanlarından gelir; en önemli geçit ritüeli, bir Water Wyrm'i 'Sea Lance' ile avlamaktır. Ana görevleri, Reef Stars bölgesini korumaktır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Iron Snakes — Demir Yılanlar
@@ -24,4 +28,8 @@ Ultramarines soyundan gelmelerine rağmen, Iron Snakes'in kendine has, neredeyse
 
 Iron Snakes, Space Marine'lerin tek tip olmadığını, her chapter'ın kendi dünyasının kültürünü ve ruhunu taşıdığını gösteren güzel bir örnektir; onlar, demir zırhın altında atan antik bir deniz-savaşçı kalbidir. Mitolojik bir geçmişin, onurun ve bireysel cesaretin somut halidir; galaksinin karanlığında, kendi adalarının efsanelerini yaşatan, mızraklı deniz kahramanları.
 
+
+## Tarihçe
+
+Iron Snakes, Ultramarines'in Second Founding halefi ama Codex uyumlu olmayan, kendine özgü örgütlenmeli bir Chapter'dır. Adları, donmuş ana dünya Ithaka'nın okyanuslarındaki dev su yılanlarından gelir; en önemli geçit ritüeli, bir Water Wyrm'i 'Sea Lance' ile avlamaktır. Ana görevleri, Reef Stars bölgesini korumaktır.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

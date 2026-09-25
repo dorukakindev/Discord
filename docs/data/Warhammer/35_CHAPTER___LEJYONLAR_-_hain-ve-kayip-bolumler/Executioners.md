@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/11/Executioners_Livery.jpg/revision/latest?cb=20170919210120
 
+## Tarihçe
+
+Executioners, Great Scouring sonrası 31. Binyıl'da kurulan Imperial Fists'in 3. Kuruluş halefidir. Badab Savaşı'nda dört eski sadık Chapter'dan biri olarak yanlışlıkla ayrılıkçı safta yer aldılar — Lufgt Huron'un isyanını onurlu bir borç sanıp katıldılar, savaşın sonunda teslim olup yüz yıllık kefaret haçlı seferi cezası aldılar.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Executioners — Cellatlar
@@ -24,4 +28,8 @@ Savaşın sonunda, Executioners'ın onurlu tavrı ve gerçekte kendi suçları o
 
 Executioners, körü körüne bağlılık ile koşulların zorlamasının bir chapter'ı nasıl bir ikileme sürükleyebileceğinin somut halidir; hain ilan edilmelerine rağmen, onurlarını korudular ve sonunda kefaretle sadakat saflarına döndüler. Onlar, 40K'da "yanlış tarafta olmak" ile "onursuz olmak"ın aynı şey olmadığını gösteren; baltası kadar keskin ama kalbi sadık kalan, tövbeyle arınmış bir kardeşliktir.
 
+
+## Tarihçe
+
+Executioners, Great Scouring sonrası 31. Binyıl'da kurulan Imperial Fists'in 3. Kuruluş halefidir. Badab Savaşı'nda dört eski sadık Chapter'dan biri olarak yanlışlıkla ayrılıkçı safta yer aldılar — Lufgt Huron'un isyanını onurlu bir borç sanıp katıldılar, savaşın sonunda teslim olup yüz yıllık kefaret haçlı seferi cezası aldılar.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

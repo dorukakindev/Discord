@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Astra_Militarum_Icon.jpg/revision/latest?cb=20190630130730
 
+## Tarihçe
+
+Astra Militarum — halk dilinde Imperial Guard — galaksideki en büyük bütünlüklü savaş gücü ve İmparatorluk'un birincil askeri koludur. Sayısız milyarlarca asker, yüz binlerce farklı alay ve devasa zırhlı araç desteğiyle, çoğu İmparatorluk dünyasının ilk ve son savunma hattıdır; uzaylı istilalarının, isyanların ve Chaos saldırılarının ağırlığını sıradan insanlar taşır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Astra Militarum — İmparatorluk Muhafızı (Imperial Guard)
@@ -22,4 +26,8 @@ Ordunun gücü, çeşitliliğinden gelir; sayısız farklı dünyadan toplanan a
 
 Astra Militarum, 40K'nın "küçük insan" perspektifidir; tanrı-imparatorların, süper insanların ve canavarların gölgesinde, galaksiyi gerçekten ayakta tutan, çamurda ölen sıradan insanlardır. Korkarlar, acı çekerler ve milyonlarca kayıp verirler; ama yine de ayağa kalkar ve savaşırlar. Onlar, kahramanlığın her zaman süper güçten gelmediğinin, sıradan bir insanın cesaretinin ve sayısının bile galaksiyi kurtarabileceğinin kanıtıdır; insanlığın gerçek, isimsiz ordusudur.
 
+
+## Tarihçe
+
+Astra Militarum — halk dilinde Imperial Guard — galaksideki en büyük bütünlüklü savaş gücü ve İmparatorluk'un birincil askeri koludur. Sayısız milyarlarca asker, yüz binlerce farklı alay ve devasa zırhlı araç desteğiyle, çoğu İmparatorluk dünyasının ilk ve son savunma hattıdır; uzaylı istilalarının, isyanların ve Chaos saldırılarının ağırlığını sıradan insanlar taşır.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

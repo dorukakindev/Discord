@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c1/AE_Shoulder_Guard.jpg/revision/latest?cb=20230808214524
 
+## Tarihçe
+
+Angels Vermillion, Blood Angels'ın Second Founding halefidir; ana dünyaları Corinal, Eastern Fringes'dedir. Blood Angels halefleri arasında tek başlarına kalırlar: kardeş Chapter'larla tüm teması reddeder, lanetlerini yalnızlık içinde taşırlar; buna rağmen savaş kayıtları örnek niteliktedir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Angels Vermillion — Kızıl Melekler (Angels Vermillion)
@@ -24,4 +28,8 @@ Bu inzivanın altında karanlık bir sebep yatar. Kan Susuzluğu'nu (Red Thirst)
 
 Angels Vermillion, kusursuz bir savaş onuru ile karanlık bir sırrın bir arada taşındığı bir chapter'dır; lanetleriyle baş etmek için seçtikleri yöntem, onları kendi ailelerinden kopardı. Yalnız, gururlu ve gizemli bir biçimde Doğu Kıyısı'nda savaşan bu kızıl zırhlı melekler, hayatta kalmanın bazen yalnızlaşmak pahasına geldiğinin ve her chapter'ın kendi laneti karşısında bir bedel ödediğinin somut halidir.
 
+
+## Tarihçe
+
+Angels Vermillion, Blood Angels'ın Second Founding halefidir; ana dünyaları Corinal, Eastern Fringes'dedir. Blood Angels halefleri arasında tek başlarına kalırlar: kardeş Chapter'larla tüm teması reddeder, lanetlerini yalnızlık içinde taşırlar; buna rağmen savaş kayıtları örnek niteliktedir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
