@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/3/34/Sons_of_Medusa_Livery.jpg/revision/latest?cb=20161118074055
 
+## Tarihçe
+
+Sons of Medusa, Iron Hands soyundan, 011.M37'de High Lords of Terra fermanıyla resmiyet kazanmış bir Chapter'dır. Zalim verimlilikleri ve Moirae Schism'de doğan 'işe yaramazın saf dışı edilmesi' doktriniyle tanınırlar; savaş kayıtları uzun ve görkemlidir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Sons of Medusa — Medusa'nın Oğulları
@@ -24,4 +28,8 @@ Sons of Medusa, Adeptus Mechanicus ile alışılmadık derecede yakın bir iliş
 
 Sons of Medusa, Iron Hands felsefesinin (etin zayıf, makinenin güçlü olduğu inancının) somut halidir; insanlığını adım adım metalle değiştiren, duygusunu mantığa kurban eden bir kardeşlik. Onlar, 40K'nın "insan ile makinenin birleşmesi" temasının karanlık bir yorumu; primarch'larının ölümünden çıkardıkları ders, asla yeterince güçlü olunamayacağıdır. Bordo-çelik zırhları altında, giderek daha az et, giderek daha çok makine olan, soğukkanlı bir güç yatar.
 
+
+## Tarihçe
+
+Sons of Medusa, Iron Hands soyundan, 011.M37'de High Lords of Terra fermanıyla resmiyet kazanmış bir Chapter'dır. Zalim verimlilikleri ve Moirae Schism'de doğan 'işe yaramazın saf dışı edilmesi' doktriniyle tanınırlar; savaş kayıtları uzun ve görkemlidir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

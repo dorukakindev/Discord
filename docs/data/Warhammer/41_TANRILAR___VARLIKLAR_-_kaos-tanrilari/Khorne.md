@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/17/MarkofKhorneBig.png/revision/latest?cb=20170908233325
 
+## Tarihçe
+
+Khorne — Kan Tanrısı, Kafatasları Lordu — savaş, nefret, öfke, kan, askeri onur, güç ve cinayetin Chaos tanrısıdır. Maddi evrendeki her öldürme eylemi onu besler; ne kadar anlamsız ve yıkıcıysa o kadar iyidir. Yine de kılıç ve kafatasıyla yapılan kişisel katliamı, uzaktan büyü veya sinsi entrikaya tercih eder — Tzeentch'in her şeyi hor görür.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Khorne — Kan Tanrısı / Öfke Tahtı
@@ -30,4 +34,8 @@ Khorne paradoksaldır: sınırsız öfke ve yıkım ister ama bir tür "onur" da
 - Skarbrand (sürgün Bloodthirster)
 - Khorne Berzerkers
 
+
+## Tarihçe
+
+Khorne — Kan Tanrısı, Kafatasları Lordu — savaş, nefret, öfke, kan, askeri onur, güç ve cinayetin Chaos tanrısıdır. Maddi evrendeki her öldürme eylemi onu besler; ne kadar anlamsız ve yıkıcıysa o kadar iyidir. Yine de kılıç ve kafatasıyla yapılan kişisel katliamı, uzaktan büyü veya sinsi entrikaya tercih eder — Tzeentch'in her şeyi hor görür.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

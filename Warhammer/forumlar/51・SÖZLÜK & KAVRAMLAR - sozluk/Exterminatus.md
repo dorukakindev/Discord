@@ -11,6 +11,6 @@ Exterminatus, bir gezegenin kurtarılamayacak kadar yozlaştığına ya da tehli
 
 ## Tarihçe
 
-Bir gezegeni tamamen yok etme emri; İmparatorluk'un son çaresi. 'Daha iyi boş olsun' doktrini — milyarlarca insanın fiyatı.
+Exterminatus, İmparatorluk'un en ağır yaptırımıdır — bir dünyayı tamamen yok etme emri. Cyclonic Torpedo, virus bomb veya kital bombardımanla dünyanın tüm yaşamı silinir; sadece Inquisition veya en üst otorite verebilir. 'Bazı dünyalar yaşamaya değmez' ilkesinin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

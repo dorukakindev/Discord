@@ -12,6 +12,6 @@ Kilise, İmparatorluk İnancı'nın (Imperial Creed) bekçisidir; sayısız rahi
 
 ## Tarihçe
 
-İmparatorluk Kilisesi; Ecclesiarchy, inancın resmi yapısı. Vandire sonrası kısıtlanmış ama hâlâ galaksinin en büyük sivil gücü.
+Adeptus Ministorum (Ecclesiarchy), İmparatorluk'un resmî din kurumudur; Imperial Cult'u öğretir, vaaz eder ve dayatır. Milyarlarca ruhu İmparator'a imanla yönetir; 'din ve devlet' ayrımı İmparatorluk'ta yoktur — Ministorum hem kilisedir hem siyasi güç.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

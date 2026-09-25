@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Flesh_Eaters_Livery.jpg/revision/latest?cb=20241031005418
 
+## Tarihçe
+
+Flesh Eaters, bilinmeyen bir kuruluşta yaratılmış Blood Angels halefidir; vahşi ve savaşkan bir Chapter'dır. Adlarına rağmen Astartes'lerinin gerçekten yamyamlık yaptığına dair kanıt yoktur — binlerce yıldır süren söylentileri Chapter inatla görmezden gelir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Flesh Eaters — Et Yiyenler
@@ -24,4 +28,8 @@ Bu genetik istikrarsızlık chapter'ı neredeyse yok ediyordu; sayıları tehlik
 
 Flesh Eaters, ürkütücü bir ün ile sarsılmaz bir sadakat arasında sıkışmış bir chapter'dır; ismi ve vahşeti onları canavarlaştırsa da, hiçbir zaman İmparator'a hizmetten sapmadılar. Kana susamış öfkeleriyle savaşa dalan, kendi gen-tohumlarının laneti yüzünden sürekli yok oluşun eşiğinde duran bu savaşçılar, Sanguinius mirasının en karanlık ve en kırılgan yüzünün somut halidir.
 
+
+## Tarihçe
+
+Flesh Eaters, bilinmeyen bir kuruluşta yaratılmış Blood Angels halefidir; vahşi ve savaşkan bir Chapter'dır. Adlarına rağmen Astartes'lerinin gerçekten yamyamlık yaptığına dair kanıt yoktur — binlerce yıldır süren söylentileri Chapter inatla görmezden gelir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

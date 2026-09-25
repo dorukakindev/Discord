@@ -10,6 +10,6 @@ Adeptus Ministorum (yaygın adıyla Ecclesiarchy), İmparatorluk İnancı'nı y�
 
 ## Tarihçe
 
-İmparatorluk'un kilisesi; Ministorum'un halk arasındaki adı. İmparator'a tapınmanın kurumsal hali.
+Ecclesiarchy, Adeptus Ministorum'un diğer adıdır — İmparatorluk Kilisesi. Imperial Creed'i vaaz eden, İmparator'u tanrı sayan ve dinî otoritesiyle yöneten devasa teokrasi; 'devletin ruhu' olarak bilinir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

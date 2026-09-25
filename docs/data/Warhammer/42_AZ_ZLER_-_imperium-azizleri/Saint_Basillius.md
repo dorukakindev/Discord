@@ -12,6 +12,6 @@ Aziz Basillius, İmparatorluk İnancı'nın en karanlık ve en ibret verici fig�
 
 ## Tarihçe
 
-Elder'dan beri sayılan eski aziz; 'basit ve mutlak inanç' sembolü.
+Saint Basillius, 36. Binyıl'da 'Abyssal Crusade' olarak bilinen felaket seferinin arkasındaki figürdür — otuz Chapter'lık Astartes gücünü Eye of Terror'a süren fanatik konsey lideri. Sefer bir felaketle sonuçlandı (çoğu Chapter yok oldu veya Chaos'a döndü) ve Basillius ölümünden sonra bile tartışmalı bir aziz olarak anılır; Abyssal Crusade İmparatorluk'un en pahalı hatalarından biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

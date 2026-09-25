@@ -12,6 +12,6 @@ Dark Mechanicum'u yaratan şey, bilgiye duyulan sınırsız açlıktır; sırada
 
 ## Tarihçe
 
-Chaos'a düşmüş Mechanicum; Hell-Forge'ların ustası. Daemon-makinenin doğduğu yer — İmparatorluk'un bilimin bozulmuş yüzü.
+Dark Mechanicum — Mars'ın ikiye bölündüğü Schism of Mars'ın karanlık yarısı; Horus'a katılıp daemon-makineleri, Warp-forge ve yasak teknolojilerle İmparatorluk'a savaş açtı. Heresy sonrası Eye of Terror'a sürülüp Hell-Forge'lar kurdular — Chaos'un silah ustaları.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

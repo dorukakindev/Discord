@@ -9,6 +9,6 @@ Tütün benzeri yasal keyif maddesi; lho-stick olarak içilir. Astra Militarum s
 
 ## Tarihçe
 
-İmparatorluk'un yaygın sigarası; hafif narkotik bitki özü içeren rulo tüp. Astra Militarum neferinin ve işçinin ortak tesellisi — cephedeki 'beş dakikalık barış'.
+Lho, İmparatorluk kayıtlarında bilinen bir dünya/figürdür; detayları sınırlı olan bu kayıt, İmparatorluk arşivinde yer alan küçük ama kalıcı bir isim.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

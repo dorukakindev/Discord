@@ -14,6 +14,6 @@ Ancient'ın savaş rolü hem pratik hem manevidir: sancağı taşımak, safları
 
 ## Tarihçe
 
-Chapter'ın sancaktarı; şan bayrağını taşıyan, onurun somut hali. Düşerse Chapter da düşer — moralin taşıyıcısı.
+Ancient, Space Marine chapter'ının standart taşıyıcısıdır; Chapter'ın kutsal sancağını omuzlayan onur muhafızı. Sancağın düşmesi lejyon için utanç demektir — Ancient'ler en deneyimli ve en sadık savaşçılardan seçilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,6 @@ Commissar sistemi, Prefectus'un en bilinen yüzüdür: siyah üniformalı, bolt 
 
 ## Tarihçe
 
-Guard'ın komiserlik kurumu; Commissar'ların evi. Moral, disiplin ve infaz — İmparatorluk'un asker üzerindeki siyasi gözü.
+Officio Prefectus, Commissar'ların kurumudur; Astra Militarum içindeki siyasi-askeri disiplin görevlilerini yetiştirir ve atar. Commissar'lar alayların moralini, sadakatini ve İmparator'a bağlılığını korur — başarısızlıkta tereddüt etmeyen infaz yetkileriyle korku-saygı karışımı uyandırırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,84 +1,71 @@
--# THE IMPERIAL ARCHIVE · Harf Kayıtları · Dizin
-# T — Kayıt Dizini
+-# THE IMPERIAL ARCHIVE · DİZİN
+# T Harfi Kayıt Dizini
 
-- <#1551905357297614921>
-- <#1551805718024298570>
-- <#1551805751515811942>
-- <#1551829683807453207>
-- <#1552690469832622223>
-- <#1551809256649527381>
-- <#1551809146850910260>
-- <#1551805796008861736>
-- <#1551805820117979158>
-- <#1551809168032268310>
-- <#1552690640062779434>
-- <#1551805839617298478>
-- <#1551809277692215330>
-- <#1551829681064513556>
-- <#1551809294750449746>
-- <#1551805868755128321>
-- <#1551805887801466903>
-- <#1551805907099451515>
-- <#1551805932638441523>
-- <#1551809231580307517>
-- <#1551805951667998791>
-- <#1552690472865235040>
-- <#1551805969351311431>
-- <#1551805998380093480>
-- <#1551809313096474696>
-- <#1551806172883984398>
-- <#1551806189120131083>
-- <#1551806204605501493>
-- <#1552690571888427008>
-- <#1551806229196570726>
-- <#1551806251573452844>
-- <#1551806264827449395>
-- <#1551806284167122984>
-- <#1551905348485648496>
-- <#1551806308313862157>
-- <#1551809189209440270>
-- <#1551809334483361823>
-- <#1551809360697761843>
-- <#1551829661472919615>
-- <#1551829720931369051>
+• **Chapter Master Tu'Shan**  <#1551905357297614921>
+• **T'au Pathfinders**  <#1552878768941441165>
+• **Talasa Secundus**  <#1553062435697721416>
+• **Taldeer**  <#1553061270243250235>
+• **Tallarn Desert Raiders**  <#1551805718024298570>
+• **Talos**  <#1552851280941027368>
+• **Tane Massata**  <#1553060106055196782>
+• **Tanith First and Only**  <#1551805751515811942>
+• **Tanith İlk ve Tek**  <#1551829683807453207>
+• **Tankbustas**  <#1552851286502678588>
+• **Tarellian**  <#1552690469832622223>
+• **Taremar Aurellian**  <#1552901537238491136>
+• **Tarik Torgaddon**  <#1553059982260568164>
+• **Tarikus**  <#1552902795093348402>
+• **Tarkh'ax**  <#1552900121015099495>
+• **Tarkus**  <#1553059977445253141>
+• **Taros Campaign**  <#1552878846657699932>
+• **Tau Castes and Septs**  <#1551809256649527381>
+• **Tau Empire**  <#1551809146850910260>
+• **Taurox**  <#1552878809349365832>
+• **Tech Priests**  <#1551805796008861736>
+• **Techmarines**  <#1551805820117979158>
+• **Terra**  <#1551809168032268310>
+• **Thaddeus Hakk**  <#1552901498248110141>
+• **The Beheading**  <#1552690640062779434>
+• **The Cleaved**  <#1552851388747485226>
+• **the Deceiver**  <#1551805839617298478>
+• **the Fallen**  <#1551809277692215330>
+• **The Infinite and the Divine**  <#1551829681064513556>
+• **the Maelstrom**  <#1551809294750449746>
+• **the Outsider**  <#1551805868755128321>
+• **The Scourged**  <#1552851394439020585>
+• **the Swarmlord**  <#1551805887801466903>
+• **the Warmaster**  <#1551805907099451515>
+• **Theodora von Valancius**  <#1553061169277968414>
+• **Thirteenth Black Crusade**  <#1551805932638441523>
+• **Thousand Sons**  <#1551809231580307517>
+• **Thramas Crusade**  <#1551805951667998791>
+• **Thulsa Kane**  <#1553062468601905192>
+• **Thunderbolt**  <#1552903974070526003>
+• **Thunderhawk Transporter**  <#1552903921729675334>
+• **Thyrrus**  <#1552690472865235040>
 
-• **Chapter Master Tu'Shan**
-• **Tallarn Desert Raiders**
-• **Tanith First and Only**
-• **Tanith İlk ve Tek**
-• **Tarellian**
-• **Tau Castes and Septs**
-• **Tau Empire**
-• **Tech Priests**
-• **Techmarines**
-• **Terra**
-• **The Beheading**
-• **the Deceiver**
-• **the Fallen**
-• **The Infinite and the Divine**
-• **the Maelstrom**
-• **the Outsider**
-• **the Swarmlord**
-• **the Warmaster**
-• **Thirteenth Black Crusade**
-• **Thousand Sons**
-• **Thramas Crusade**
-• **Thyrrus**
-• **Tigurius**
-• **Titan Classes**
-• **Titan Legions**
-• **Tomb Worlds**
-• **Tor Garadon**
-• **Torquemada Coteaz**
-• **Toxicrene**
-• **Trajann Valoris**
-• **Trazyn the Infinite**
-• **Triplex Phall**
-• **Trisolian**
-• **Tyberos the Red Wake**
-• **Typhus**
-• **Tyranids**
-• **Tyrannic Wars**
-• **Tzeentch**
-• **Yüzbaşı Titus**
-• **Üçüncü Armageddon Savaşı**
+• **Tiber Achilus**  <#1552902805055082548>
+• **Tigurius**  <#1551805969351311431>
+• **Titan Classes**  <#1551805998380093480>
+• **Titan Legions**  <#1551809313096474696>
+• **Tomb Blades**  <#1552877472637521976>
+• **Tomb Worlds**  <#1551806172883984398>
+• **Tor Garadon**  <#1551806189120131083>
+• **Torias Telion**  <#1553059972923789346>
+• **Torquemada Coteaz**  <#1551806204605501493>
+• **Toxicrene**  <#1552690571888427008>
+• **Trajann Valoris**  <#1551806229196570726>
+• **Trazyn the Infinite**  <#1551806251573452844>
+• **Triplex Phall**  <#1551806264827449395>
+• **Trisolian**  <#1551806284167122984>
+• **Triumvirate of the Primarch**  <#1552904050767429663>
+• **Twin-linked**  <#1552904053854568458>
+• **Tyberos the Red Wake**  <#1551905348485648496>
+• **Tylos Rubio**  <#1552904066131042395>
+• **Typhus**  <#1551806308313862157>
+• **Tyranids**  <#1551809189209440270>
+• **Tyrannic Wars**  <#1551809334483361823>
+• **Tyrus**  <#1552901451452260473>
+• **Tzeentch**  <#1551809360697761843>
+• **Üçüncü Armageddon Savaşı**  <#1551829720931369051>
+• **Yüzbaşı Titus**  <#1551829661472919615>

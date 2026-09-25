@@ -1,0 +1,21 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/62/ThousandSonsPreHeresyBadge.jpg/revision/latest?cb=20121204200847
+
+-# THE IMPERIAL ARCHIVE · K KAYITLARI · Kayıt
+
+# Khalophis
+
+*Thousand Sons'ın düşen sorcerer'ı*
+
+- **Kategori:** Karakter
+- **Fraksiyon:** Chaos — Thousand Sons
+- **Dönem:** M31
+- **Köken:** Prospero
+- **Önemli Olaylar:** Prospero'nun yakılması
+
+## Tarihçe
+
+Khalophis, Büyük Sefer sonu ve Heresy başındaki 6. Fellowship'in kaptanıydı; Thousand Sons'un 'Komün' figürlerinden — Prospero'nun son günlerinin tanığı.
+
+-# Kaynaklar: *Fandom wiki*
+
+-# İlişkili kayıtlar: <#1552897654386597979>

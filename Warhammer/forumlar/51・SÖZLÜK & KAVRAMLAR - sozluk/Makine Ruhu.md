@@ -12,6 +12,6 @@ Bu inanca göre, bir makine doğru çalışsın diye, makine ruhunun yatıştır
 
 ## Tarihçe
 
-Machine Spirit'in Türkçesi; teknolojinin 'ruhu' kavramı. Mechanicum'un inancı — her aletin bir benliği var.
+Makine Ruhu (Machine Spirit), Cult Mechanicus'un inandığı animist varlık; her makinede yaşadığına inanılan 'tekno-ruh' doktrini — Adeptus Mechanicus'un temel dini nosyonu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

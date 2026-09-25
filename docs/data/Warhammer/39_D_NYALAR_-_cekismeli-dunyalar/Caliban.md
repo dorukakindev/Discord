@@ -12,6 +12,6 @@ Primarch Lion El'Jonson, bu ormanlarda tek başına hayatta kaldı ve bir Şöva
 
 ## Tarihçe
 
-Lion El'Jonson'un evi; orman gezegeni, yok edilmiş. Dark Angels'ın ilk yurdu — Chapter'ın bölünmesinin ve Fallen'in doğduğu toprak.
+Caliban, Dark Angels'ın yok olmuş ana dünyasıdır; ormanlı, şövalye kültürlü ölü gezegen, Heresy sonunda lejyon içi savaşla parçalandı. Bugün sadece 'The Rock' asteroid-fortress'ı kalır — Caliban'ın yıkımı Dark Angels'ın en büyük yarası.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

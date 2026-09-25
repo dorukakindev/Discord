@@ -8,7 +8,13 @@ S.headers.update({"Authorization": f"Bot {TOKEN}"})
 
 def req(method, path, retries=6, **kw):
     for i in range(retries):
-        r = S.request(method, BASE + path, timeout=30, **kw)
+        try:
+            r = S.request(method, BASE + path, timeout=30, **kw)
+        except requests.exceptions.RequestException:
+            if i == retries - 1:
+                raise
+            time.sleep(1.5 * (i + 1))
+            continue
         if r.status_code == 429:
             wait = r.json().get("retry_after", 1.0)
             time.sleep(wait + 0.1)

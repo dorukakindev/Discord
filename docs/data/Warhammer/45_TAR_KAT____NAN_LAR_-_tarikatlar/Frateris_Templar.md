@@ -14,6 +14,6 @@ Frateris'in tarihi karanlıktır: Vandire döneminde 'Brides of the Emperor' (so
 
 ## Tarihçe
 
-Ecclesiarchy'nin fanatik savaşçıları; rahiplerin 'unofficial' ordusu. Decree Passive'den önceki dönemin silahlı imanı.
+Frateris Templar, Ecclesiarchy'nin sivil silahlı gücüdür; 'din yolunda savaşan siviller' olarak Ministorum'un kendi ordusunu oluşturur. Resmî savaş gücü olmayan ama fanatik bağlılıkla donanmış — kilisenin gizli ordusu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

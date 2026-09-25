@@ -12,6 +12,6 @@ Daemon (İblis), 40K evreninin en saf dehşetlerinden biridir; ama önemli bir n
 
 ## Tarihçe
 
-Warp'tan gelen varlık; Chaos tanrılarının parçaları. Ölümsüz, iradeli ve aç — İmparatorluk'un sürekli düşmanı.
+Daemon, Warp'ta doğan ve Chaos tanrılarının iradesinin maddi parçaları olan varlıklardır; ruhsal enerjiden biçimlenip ancak güçlü irade veya ritüellerle gerçekliğe sızarlar. Lesser (Bloodletter, Daemonette) ile Greater (Bloodthirster, Great Unclean One) arasında hiyerarşi kurarlar — saf Warp'ın maddi kılığıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/67/Angels_Vengeance_Armorial.png/revision/latest?cb=20220817212923
 
+## Tarihçe
+
+Angels of Vengeance, Dark Angels'ın Second Founding halefi ve Unforgiven Chapter'ıdır; işleri diğer Unforgiven'dan bile daha az bilinir çünkü şan ve şöhretten kaçınırlar. Tüm bölükleri simsiyah zırh giyer — bu, ilk Dark Angels lejyonunun Caliban'daki özgün donanımına bir saygı duruşudur.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Angels of Vengeance — İntikam Melekleri
@@ -24,4 +28,8 @@ Diğer Unforgiven chapter'ları gibi, Düşmüş Melekler'i (the Fallen) avlamay
 
 Angels of Vengeance, Dark Angels mirasının en kasvetli, en inatçı yorumunun somut halidir; sessiz, gösterişsiz ve asla teslim olmayan bir kardeşlik. Onlar, övgü ya da şan için değil, yalnızca görev ve kefaret için savaşırlar; geri çekilmeyi onursuzluk sayan, kayıplarını sineye çeken ve Düşmüş'ün izini sessizce süren mat siyah zırhlı intikamcılardır. Adlarındaki "intikam", hem İmparator'un düşmanlarına hem de kendi soylarının ihanetine karşı taşıdıkları sarsılmaz kararlılığı simgeler.
 
+
+## Tarihçe
+
+Angels of Vengeance, Dark Angels'ın Second Founding halefi ve Unforgiven Chapter'ıdır; işleri diğer Unforgiven'dan bile daha az bilinir çünkü şan ve şöhretten kaçınırlar. Tüm bölükleri simsiyah zırh giyer — bu, ilk Dark Angels lejyonunun Caliban'daki özgün donanımına bir saygı duruşudur.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

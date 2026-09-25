@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/5d/Star_Phantoms_Livery.jpg/revision/latest?cb=20150831101944
 
+## Tarihçe
+
+Star Phantoms, 38. Binyıl'ın başındaki 23. 'Sentinel' Kuruluşu'nda bilinmeyen gen kaynağıyla kurulmuş bir Chapter'dır; görevi İmparatorluk sınırlarındaki xenos tehditli bölgeleri tutmaktı. Badab Savaşı'nın son günlerinde Badab Primaris'e son saldırıya katılarak savaşın bitirilmesinde rol oynadılar.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Star Phantoms — Yıldız Hayaletleri
@@ -24,4 +28,8 @@ Star Phantoms'un en bilinen anı, Badab Savaşı'ndaki kritik rolüdür; bu kanl
 
 Star Phantoms, anavatanını yitirmiş ama görevine ve sadakatine sarılan bir chapter'ın somut halidir; kökeni belirsiz, yurdu yok olmuş, ama amacı net olan gezici bir kardeşlik. Onlar, İmparatorluğun en zayıf noktalarını korumak için yaratılmış, kendi gizemini taşıyan beyaz zırhlı hayaletler; geçmişleri sisle örtülü olsa da, sadakatleri ve savaştaki kararlılıkları tartışmasızdır.
 
+
+## Tarihçe
+
+Star Phantoms, 38. Binyıl'ın başındaki 23. 'Sentinel' Kuruluşu'nda bilinmeyen gen kaynağıyla kurulmuş bir Chapter'dır; görevi İmparatorluk sınırlarındaki xenos tehditli bölgeleri tutmaktı. Badab Savaşı'nın son günlerinde Badab Primaris'e son saldırıya katılarak savaşın bitirilmesinde rol oynadılar.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

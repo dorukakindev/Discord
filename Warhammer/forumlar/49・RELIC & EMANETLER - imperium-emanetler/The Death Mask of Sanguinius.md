@@ -12,6 +12,6 @@ Sanguinius, Horus Heresy'nin doruğunda, Terra Kuşatması'nda, hain kardeşi Ho
 
 ## Tarihçe
 
-Sanguinius'un ölüm maskesi; Blood Angels'ın kutsal emaneti ve Black Rage'in sembolü. Güzel ama lanetli — babalarının son yüzü.
+The Death Mask of Sanguinius, Sanguinius'un ölümünden sonra yüzünden alınan ve Sanguinary Guard'ın altın maskelerine ilham olan kutsal emanettir. Baal'daki en derin mahzende saklanır; Kara Öfke'ye kapılan savaşçıların son huzur bulduğu Death Company ritüellerinde sembolik rolü vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

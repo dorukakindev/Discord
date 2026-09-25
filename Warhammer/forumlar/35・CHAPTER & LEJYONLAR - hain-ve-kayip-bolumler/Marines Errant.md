@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/e/ef/Marines_Errant_Livery.jpg/revision/latest?cb=20150903030510
 
+## Tarihçe
+
+Marines Errant, Ultramarines soyundan Eagle Warriors halefi olarak kayıtlı, filo-temelli bir Chapter'dır; 37. Binyıl sonundaki 23. Kuruluş'ta yaratıldı. Adlarına uygun olarak on binlerce yıldır İmparatorluk'un her yerinde ve ötesinde aktiftirler; sürekli sefer halinde olmalarıyla ünlüdürler.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Marines Errant — Gezgin Marinler
@@ -24,4 +28,8 @@ Kalıcı bir yuvaya bağlı olmamanın getirdiği en büyük pratik sorun, kayı
 
 Marines Errant, köksüzlüğü bir zaaf değil bir güç haline getirmiş bir chapter'dır; sabit bir yuvanın güvenliğinden yoksun olsalar da, bu onları galaksinin her yerinde savaşabilen, kendi kendine yetebilen ve son derece uyumlu bir güce dönüştürmüştür. Sonsuz seferin yorgunluğunu taşıyan bu mavi-beyaz zırhlı gezginler, bir chapter'ın yuvasının duvarlarda değil, kardeşliğin kendisinde olabileceğinin somut halidir.
 
+
+## Tarihçe
+
+Marines Errant, Ultramarines soyundan Eagle Warriors halefi olarak kayıtlı, filo-temelli bir Chapter'dır; 37. Binyıl sonundaki 23. Kuruluş'ta yaratıldı. Adlarına uygun olarak on binlerce yıldır İmparatorluk'un her yerinde ve ötesinde aktiftirler; sürekli sefer halinde olmalarıyla ünlüdürler.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

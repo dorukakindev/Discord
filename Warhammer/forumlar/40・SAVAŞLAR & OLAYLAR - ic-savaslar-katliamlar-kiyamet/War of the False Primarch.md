@@ -10,6 +10,6 @@ War of the False Primarch (Sahte Primarch Savaşı), İmparatorluk tarihinin en 
 
 ## Tarihçe
 
-M33'te sahte Primarch iddiasıyla çıkan isyan; Lejyonların kendi içindeki ilk bölünme savaşı. Primarch efsanesinin ilk suiistimali.
+War of the False Primarch, M33 döneminde bir 'sahte primarch' ortaya çıkıp beş sektörü İmparatorluk'tan koparmaya çalıştığı büyük isyandır; İmparatorluk'un on iki yıl süren savaşı sonucu bastırıldı. Kayıtları büyük ölçüde silinmiş gizli bir kriz — Segmentum Pacificus'un kayıp tarihi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/a1/House_Coldshroud_Icon_Fancy.png/revision/latest?cb=20211208101038
 
+## Tarihçe
+
+House Coldshroud ('Gryphon Sires'), Gryphonne IV Forge World'ünün yönettiği Octad bölgesinden şövalyelerini toplayan sadık bir Questor Mechanicus vasal hanesidir. Gryphonne IV var olduğu sürece ayrıcalıklı aileler evlatlarını haneye vermeyi en büyük onur saymıştır. Coldshroud, Legio Gryphonicus'a amansız bir bağlılıkla hizmet eder; Büyük Haçlı Seferi'nden Horus Heresy'ye ve Paramar V İstilası'na dek Titan lejyonunun yanında savaşmıştır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Coldshroud — Coldshroud Hanedanı
@@ -29,4 +33,8 @@ House Coldshroud, Imperial Knight hanelerinin Titan Legio'larıyla kurduğu kadi
 - Legio Gryphonicus'a vassal bağ
 - God-engine'lerin önünde öncü keşif-hücum rolü
 
+
+## Tarihçe
+
+House Coldshroud ('Gryphon Sires'), Gryphonne IV Forge World'ünün yönettiği Octad bölgesinden şövalyelerini toplayan sadık bir Questor Mechanicus vasal hanesidir. Gryphonne IV var olduğu sürece ayrıcalıklı aileler evlatlarını haneye vermeyi en büyük onur saymıştır. Coldshroud, Legio Gryphonicus'a amansız bir bağlılıkla hizmet eder; Büyük Haçlı Seferi'nden Horus Heresy'ye ve Paramar V İstilası'na dek Titan lejyonunun yanında savaşmıştır.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

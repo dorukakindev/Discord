@@ -10,6 +10,6 @@ Squat, modern lore'da Leagues of Votann (Votann Birlikleri) olarak yeniden tanı
 
 ## Tarihçe
 
-İnsanların eski bir abhuman dalı; kısa, sağlam, cüce-mayıslı. Leagues of Votann'ın kökleri — geri dönen eski dostlar.
+Squat (Homo sapiens rotundus), İmparatorluk'un kaybolmuş abhuman ırkıdır; kısa, sağlam yapılı madenci-insanlar olarak bilinirdi. Tyranid'ler tarafından 'yutuldukları' söylenir — modern galakside neredeyse yoktur; Leagues of Votann (Kin) onların torunları sayılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

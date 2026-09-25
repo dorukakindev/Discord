@@ -8,6 +8,6 @@ Nightsider, abhuman soyları içinde en az bilinen ama en çarpıcı uyum örnek
 
 ## Tarihçe
 
-Karanlıkta yaşayan ve karanlıkta gören mutant insanlar; uyku görmeden yaşayan nöbetçi sınıf. Gezegenin gece vardiyası.
+Nightsider, İmparatorluk kayıtlarında geçen daemon/varlık figürlerinden biridir; detayları sınırlı olan bu kayıt, arşivde yer alan kalıcı isimlerden biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

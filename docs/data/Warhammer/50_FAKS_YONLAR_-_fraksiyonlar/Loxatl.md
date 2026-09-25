@@ -14,6 +14,6 @@ Loxatl'ların silahları, 'web' ve 'dart' temelli ölümcül araçlardır — Gu
 
 ## Tarihçe
 
-Zehirli parazit xeno; K'nib ve diğer tehditlerin müttefiki. Koruyucu ve ölümcül — sinsi ortak.
+Loxatl, galaksinin ölümcül sürüngen-avcı ırklarından biridir; mercenary olarak bilinirler ve kendi doğal zırhlarıyla donanmış hızlı, ölümcül saldırganlardır. İmparatorluk veya Chaos saflarında paralı asker olarak görülürler — vahşetleriyle korkulan xenos savaşçılarıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

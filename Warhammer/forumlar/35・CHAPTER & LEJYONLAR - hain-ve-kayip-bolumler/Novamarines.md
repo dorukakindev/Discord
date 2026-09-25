@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/09/NovamarinesBadge.jpg/revision/latest?cb=20260109163845
 
+## Tarihçe
+
+Novamarines, Ultramarines'in Second Founding halefi, Codex Astartes'e katı bağlı antik bir Chapter'dır; kutsal metni primarch'larının yazdığı ilahi kanun sayarlar ve aşırı sapanlara karşı kan dökmekten çekinmezler. Era Indomitus'ta Ultramar'ı savunan dokuz Shield Chapter'dan biridir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Novamarines — Nova Marinler
@@ -24,4 +28,8 @@ Bu savaşta saf sadakatlerini kanıtladılar; hain güçlere karşı kararlı bi
 
 Novamarines, Ultramarines mirasının en sadık ve en istikrarlı yorumlarından birinin somut halidir; iç savaşın ve ihanetin kol gezdiği Badab gibi bir kaosta bile, görev ve disiplinden bir an sapmadan duran bir chapter. Mavi-beyaz zırhları ve kadim dövme gelenekleriyle, kardeşlerine her daim yetişen bu savaşçılar, Codex'in vaat ettiği güvenilirliğin ve sarsılmaz sadakatin canlı bir örneğidir.
 
+
+## Tarihçe
+
+Novamarines, Ultramarines'in Second Founding halefi, Codex Astartes'e katı bağlı antik bir Chapter'dır; kutsal metni primarch'larının yazdığı ilahi kanun sayarlar ve aşırı sapanlara karşı kan dökmekten çekinmezler. Era Indomitus'ta Ultramar'ı savunan dokuz Shield Chapter'dan biridir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

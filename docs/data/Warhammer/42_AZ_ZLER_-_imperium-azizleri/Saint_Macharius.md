@@ -12,6 +12,6 @@ Macharius'un şöhreti, 392.M41'de başlattığı ve adını taşıyan büyük s
 
 ## Tarihçe
 
-Macharius'un azizleştirilmiş hali; Sabbat haçlısının baş kahramanı. Askeri dehanın ilahi kutsaması.
+Saint Macharius, 41. Binyıl başında yedi yıl gibi kısa sürede neredeyse bin dünyayı Imperium'a katan efsanevi Lord Commander'dır; tarihin en büyük fetih zincirini yönetti. Ölümü seferin sonunda geldi — orduları sınırı aşmayı reddetti — ama adı İmparatorluk'un fetih-azizi olarak yaşar; Macharian Haçlı Seferi İmparatorluk tarihinin doruk noktalarından biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

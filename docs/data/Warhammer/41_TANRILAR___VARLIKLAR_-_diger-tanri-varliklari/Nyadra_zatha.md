@@ -10,6 +10,6 @@ Necron tarihinde özel bir rol oynar. Eldritch ateşlerini gerçekliğin ötesin
 
 ## Tarihçe
 
-Ateş C'tan'ı; Tomb Blade'lerin tanrısı sayılır. Necron mezarlarının ateşli bekçisi.
+Nyadra'zatha ('the Burning One'), C'tan'ın ateş-ve-ateşleyici formundaki parçasıdır; Necron'lara Dolmen Gate teknolojisinin sırrını verdiği söylenen yıldız tanrısı. Webway'e girebilen tek C'tan olarak efsanevidir — Necron'ların hızlı saldırılarının ardındaki mit.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

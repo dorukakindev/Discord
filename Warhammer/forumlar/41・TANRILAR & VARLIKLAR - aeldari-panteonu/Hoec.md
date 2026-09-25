@@ -12,6 +12,6 @@ Aeldari teolojisinde Hoec özel bir yer tutar: Kurnous bedeni, Cegorach ruhu tem
 
 ## Tarihçe
 
-Gölgelerin ve yalnız yolcuların tanrısı; Pathfinder ve Ranger'ların koruyucusu. Sessizlik ve mesafe tanrısı.
+Hoec, Aeldari mitolojisinde Webway'in kadim koruyucu-tanrısı veya yol gösterici figürüdür; kayıtları bulanık ama Aeldari'nin gizli yolların efendisi olarak anılır. Harlequin ve Webway geleneğiyle bağlantılıdır — labirentin bekçisi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,6 +10,6 @@ The Anathame (Lanetli Bıçak), tüm Horus Heresy'yi başlatan tek silahtır; g�
 
 ## Tarihçe
 
-Plague-bearing kılıcın bilinen adı; zehriyle seçilmiş öldürücü. Her şeyi öldüren — Horus'u bile.
+The Anathame, Horus'u Chaos'a çeviren lanetli silahtır — Nurgle'un yozlaşmış gücü taşıyan bu xenos bıçağı, Davin'in veba tapınağında Erebus tarafından çalındı ve yaralı Warmaster'a saplandı. Yara sıradan silahların ötesindeydi; İmparator'un oğlunu öldürülemez kılan büyüyü kırdı ve Heresy'nin fitilini ateşledi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,6 +10,6 @@ Astronomican, İmparatorluğun yıldızlararası varlığını mümkün kılan, 
 
 ## Tarihçe
 
-İmparator'un psişik feneri; Terra'dan yayılan ışık. Binlerce psyker besler — galaksinin tek kılavuzu.
+Astronomican, Terra'daki Golden Throne'un yaydığı psikik fenerdir; Warp'ta yolculuk için tek güvenli referans noktası. Binlerce psyker'ın birleşik ruhuyla yanan bu ışık olmadan İmparatorluk gemileri Warp'ta kaybolur — İmparatorluk'un hayat damarı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

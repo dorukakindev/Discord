@@ -12,6 +12,6 @@ Nightbringer, C'tan denen kadim yıldız tanrılarının en korkuncudur; galaksi
 
 ## Tarihçe
 
-Nightbringer'ın savaş tırpanı; C'tan'ın korkutan silahı. Ölümün tarlası — kendisini biçen tanrı.
+The War Scythe of the Nightbringer, C'tan Nightbringer'ın efsanevi tırpanıdır — yıldızları hasat eden tanrının ölüm aleti. Necron Warscythe'lerinin mitolojik atası sayılır; Overlord'ların taşıdığı silahlar bu kadim orijinalin zayıf kopyalarıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

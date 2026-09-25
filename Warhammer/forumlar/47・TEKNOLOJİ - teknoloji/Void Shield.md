@@ -14,6 +14,6 @@ Void Shield'ın taktik önemi, 'aşamalı savunma' doktrinidir: kalkanlar katman
 
 ## Tarihçe
 
-Gemilerin ve Titan'ların enerji kalkanı; Warp'a kapanan dev balon. Bir Void Shield'i delmek ya güç ister ya sabır.
+Void Shield, İmparatorluk'un en büyük koruma sistemidir; Titan'lar, gemiler ve büyük yapılarda kullanılan, enerji saldırılarını Warp'a saptıran kalkan teknolojisi. Katmanlı olarak kurulabilir — Titan'ların neredeyse yok edilemezlik efsanesinin temelidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,6 +16,6 @@ Anais'in kültü, Adepta Sororitas'ın 'hospitalier' ve 'dialogus' dallarının 
 
 ## Tarihçe
 
-Order of the Argent Shroud'ın kurucusu; sessiz cesaret ve kendinden şüphe etmeyen sadakatin azizi.
+Saint Anais (Saint Anaïs), Adepta Sororitas kültünde savaş ve şehitlik azizlerinden biridir; Order of the Sacred Rose'un kurucu-ruhani figürlerinden sayılır. İkonografide İmparator'a adanmış savaş azizi olarak tasvir edilir; birçok katedral dünyasında ona adanmış chapel'ler vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

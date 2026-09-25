@@ -15,6 +15,6 @@ Sapkınlık'ın kilit anı Davin'de yaşandı: Horus, dünyayı ele geçirirken 
 
 ## Tarihçe
 
-Horus'un düşüş yerinin diyarı; Davin'de Davinite kült onu ilk kez Chaos'a itti. Küçük ay, büyük felaket — Heresy'nin tetikleyicisi.
+Davin, Horus Heresy'nin başlangıç noktası sayılan dünyadır; burada Word Bearers'ın tapınağı ve Davin'in vebaplayıcı kabileleri vardı. Warmaster'ın yaralanıp Chaos'la ilk temas ettiği gezegen — 'her şeyin başladığı yer'.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 —

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/54/Brazen_Claws_Livery.jpg/revision/latest?cb=20170613013050
 
+## Tarihçe
+
+Brazen Claws, Iron Hands'in Second Founding halefi, stoacılığı ve acımasız kararlılığıyla tanınan bir Chapter'dır. Ana dünyaları daemon sürüsünce yıkıldıktan sonra filo-temelli hale geldiler. Yakın dönemde Eye of Terror'a yapılan yirmi yıllık intihar niteliğindeki İntikam Haçlı Seferi'nden sağ çıkmış az sayıda Chapter'dan biridir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Brazen Claws — Tunç Pençeler
@@ -24,4 +28,8 @@ Bu kayba karşılık, Chapter Master Caul Engentre, Terror Gözü'ne (Eye of Ter
 
 Brazen Claws, Iron Hands felsefesinin (etin zayıf, makinenin ve iradenin güçlü olduğu inancının) somut halidir; anavatanlarını kaybettikten sonra bile pes etmeyen, kayıplarını biyonik güç ve stoacı kararlılıkla telafi eden bir kardeşlik. Onlar, yurdunu yitirmiş ama ruhunu çelikleştirmiş, gezici filolarında intikam ve hayatta kalma için savaşan, soğukkanlı ve dayanıklı bir halef chapter'dır.
 
+
+## Tarihçe
+
+Brazen Claws, Iron Hands'in Second Founding halefi, stoacılığı ve acımasız kararlılığıyla tanınan bir Chapter'dır. Ana dünyaları daemon sürüsünce yıkıldıktan sonra filo-temelli hale geldiler. Yakın dönemde Eye of Terror'a yapılan yirmi yıllık intihar niteliğindeki İntikam Haçlı Seferi'nden sağ çıkmış az sayıda Chapter'dan biridir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

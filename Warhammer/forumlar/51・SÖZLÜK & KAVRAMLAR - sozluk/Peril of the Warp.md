@@ -10,6 +10,6 @@ Peril gerçekleştiğinde, psyker ile Warp arasındaki perde tehlikeli biçimde 
 
 ## Tarihçe
 
-Psyker'ın güç sınırını aştığında başına gelen felaketler; Warp'ın geri tepmesi. Her psyker'ın bilinen tehlikesi — gücün bedeli.
+Peril of the Warp (Warp Tehlikesi), psyker'ların güç kullanırken karşılaştığı kozmik risktir; Warp'tan çekilen enerji bazen geri tepip daemon saldırısı, possession veya kafa-patlamasıyla sonuçlanır. İmparatorluk için psyker hem silah hem saatli bombadır — her güç çekişinde risk vardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

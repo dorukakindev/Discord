@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SilverSkullsBadge2.jpg/revision/latest?cb=20260109164610
 
+## Tarihçe
+
+Silver Skulls, Ultramarines'in Second Founding halefi Codex uyumlu bir Chapter'dır ve Era Indomitus'ta Ultramar'ı koruyan dokuz Shield Chapter'dan biridir. Primarch'ların önsezi yeteneğiyle ünlüdürler: kahinleri (Prognosticators) savaş planlarını kehanetle yönlendirir ve Chapter, bu kutsal görevi başından beri taşır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Silver Skulls — Gümüş Kafatasları
@@ -24,4 +28,8 @@ Bu uygulama, dışarıdan tehlikeli bir batıl inanç gibi görünür ve onları
 
 Silver Skulls, 40K'nın inanç ile psişik güç arasındaki bulanık çizgisinin somut halidir; bilim ve strateji yerine alâmetlere ve kehanete güvenen bir savaş kültürü. Onlar, geleceği okumaya çalışan ve okuduklarına mutlak biçimde inanan, gümüş zırhlı kâhin-savaşçılardır; her zaferlerini kadere, her hamlelerini bir işarete bağlayan, gizemli ve fanatik bir kardeşlik.
 
+
+## Tarihçe
+
+Silver Skulls, Ultramarines'in Second Founding halefi Codex uyumlu bir Chapter'dır ve Era Indomitus'ta Ultramar'ı koruyan dokuz Shield Chapter'dan biridir. Primarch'ların önsezi yeteneğiyle ünlüdürler: kahinleri (Prognosticators) savaş planlarını kehanetle yönlendirir ve Chapter, bu kutsal görevi başından beri taşır.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

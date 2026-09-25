@@ -12,6 +12,6 @@ Bu alan son derece güçlüdür; bir plazma silahı atışını bile zararsız h
 
 ## Tarihçe
 
-Enerji kalkanının eski adı; Conversion Field teknolojisi. Geleneksel İmparatorluk savunmasının adı.
+Conversion Field, Warp veya enerji saldırılarını yansıtan gelişmiş koruma alanıdır; Inquisitor'lar ve bazı elit komutanlar tarafından kullanılır. Rosarius'tan daha güçlü ama pahalı — kişisel savunmanın en üst katmanıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

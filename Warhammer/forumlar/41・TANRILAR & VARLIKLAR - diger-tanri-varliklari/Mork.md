@@ -12,6 +12,6 @@ Ork teolojisine göre Mork, düşmana sinsice, arkadan ve "akıllıca" saldırı
 
 ## Tarihçe
 
-Kurnazlıkla vuran Ork tanrısı; 'kafasına vurur'. Gork'la birlikte Ork psişik alanının iki kutbu — kurnaz olan.
+Mork, Ork'ların ikinci tanrısıdır; Gork'un tamamlayıcısı olarak 'kurnaz ama vahşi' ilkeyi temsil eder. İki tanrı arasındaki nüans Ork kültürünün kutsal tartışmasıdır — hangisinin daha güçlü olduğu Orklar arasında sonsuz bir kavga konusudur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

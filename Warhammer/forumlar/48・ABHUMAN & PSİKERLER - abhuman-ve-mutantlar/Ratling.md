@@ -10,6 +10,6 @@ Ratling (Homo sapiens minimus), insanlığın bilinen en küçük abhuman soyudu
 
 ## Tarihçe
 
-Küçük ve atik abhuman ırkı; keskin nişancı ve iz sürücü olarak ünlü. 'Uzun 'un yanında, 'Küçük'ün adı — ama onların da rolü var.
+Ratling, İmparatorluk'un küçük boylu abhuman ırkıdır; keskin nişancılık ve izcilikte uzmandırlar. Ufak ama ölümcül — sniper'lar ve scouts olarak Imperial Guard alaylarında görev alırlar. Huysuz ama sadık; 'Halfing' lakaplı minik devler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

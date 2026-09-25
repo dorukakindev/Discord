@@ -1,54 +1,37 @@
--# THE IMPERIAL ARCHIVE · Harf Kayıtları · Dizin
-# E — Kayıt Dizini
+-# THE IMPERIAL ARCHIVE · DİZİN
+# E Harfi Kayıt Dizini
 
-- <#1551813845188870166>
-- <#1551813795469459557>
-- <#1552694187055382638>
-- <#1552690519610490970>
-- <#1551813867888447519>
-- <#1551813889803419720>
-- <#1551813713403580438>
-- <#1551813916697563150>
-- <#1551813750305198101>
-- <#1551813945839591467>
-- <#1551813959844233307>
-- <#1552690612774641796>
-- <#1552690601781235762>
-- <#1551813972884459612>
-- <#1551905430912106526>
-- <#1551905295478030376>
-- <#1552690553055875105>
-- <#1551813995009409035>
-- <#1551813817204219936>
-- <#1551814025275383860>
-- <#1551814052613988413>
-- <#1551813831418978346>
-- <#1551813775848509482>
-- <#1551814074080297004>
-- <#1552694184178090025>
-
-• **Eastern Fringe**
-• **Ecclesiarchy**
-• **Eidolon**
-• **Eldanesh**
-• **Eldrad Ulthran**
-• **Elysian Drop Troops**
-• **Emperor of Mankind**
-• **Emperors Champion**
-• **Emperors Children**
-• **Emperors Tarot**
-• **Enslavers**
-• **Ephrael Stern**
-• **Epidemius**
-• **Erebus**
-• **Ethereal (Aun)**
-• **Eversor Tapınağı**
-• **Evil Sunz Klanı**
-• **Executioners**
-• **Exodites**
-• **Exorcists**
-• **Explorators**
-• **Exterminatus**
-• **Eye of Terror**
-• **Eye of Terror Campaign**
-• **Ezekiel**
+• **Eastern Fringe**  <#1551813845188870166>
+• **Ecclesiarchy**  <#1551813795469459557>
+• **Egil Iron Wolf**  <#1552902710217678878>
+• **Eidolon**  <#1552694187055382638>
+• **Eldanesh**  <#1552690519610490970>
+• **Eldrad Ulthran**  <#1551813867888447519>
+• **Electro-Priests**  <#1552850142162321490>
+• **Eliphas the Inheritor**  <#1553061256460636184>
+• **Elysian Drop Troops**  <#1551813889803419720>
+• **Emperor of Mankind**  <#1551813713403580438>
+• **Emperors Champion**  <#1551813916697563150>
+• **Emperors Children**  <#1551813750305198101>
+• **Emperors Tarot**  <#1551813945839591467>
+• **Endryd Haar**  <#1552902798654308483>
+• **Enslavers**  <#1551813959844233307>
+• **Ephrael Stern**  <#1552690612774641796>
+• **Epidemius**  <#1552690601781235762>
+• **Erebus**  <#1551813972884459612>
+• **Erwin Ramas**  <#1553061138600566945>
+• **Ethereal (Aun)**  <#1551905430912106526>
+• **Etrogar**  <#1553061212881682462>
+• **Eversor Tapınağı**  <#1551905295478030376>
+• **Evil Sunz Klanı**  <#1552690553055875105>
+• **Exarch**  <#1552877537967734884>
+• **Executioners**  <#1551813995009409035>
+• **Exodites**  <#1551813817204219936>
+• **Exorcised**  <#1553062459773034529>
+• **Exorcists**  <#1551814025275383860>
+• **Explorators**  <#1551814052613988413>
+• **Exterminatus**  <#1551813831418978346>
+• **Eye of Terror**  <#1551813775848509482>
+• **Eye of Terror Campaign**  <#1551814074080297004>
+• **Ezekiel**  <#1552694184178090025>
+• **Ezu Ghraile**  <#1552902662238896299>

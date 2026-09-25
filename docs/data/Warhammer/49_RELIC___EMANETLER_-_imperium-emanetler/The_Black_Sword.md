@@ -12,6 +12,6 @@ Gelenek, Imperial Fists'in First Captain'ı ve Black Templars'ın kurucusu olan 
 
 ## Tarihçe
 
-Black Templars'ın kutsal kılıcı; Chapter'ın sırlarını ve inancını taşıyan siyah çeliğin simgesi. Sword Brethren'in kalbi.
+The Black Sword, Sigismund'un ve ondan sonra her Emperor's Champion'ın taşıdığı kutsal Black Templars relic kılıcıdır. İmparator'a adanmış bu güç kılıcı, Chapter'ın haçlı seferi geleneğinin simgesidir; onu taşıyan, İmparator'un iradesinin vücut bulmuş halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

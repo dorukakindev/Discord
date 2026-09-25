@@ -12,6 +12,6 @@ Hrud'u gerçekten korkunç ve eşsiz kılan, bedenlerinin etrafında taşıdıkl
 
 ## Tarihçe
 
-Küçük, çok sayıda, hızlı böcek-adamlar; karanlık sürüler. Roketten geçen, dalga gibi gelen sürüngen tehlikesi.
+Hrud, yaşayan entropi yaratıklarıdır — temas ettikleri şeyi çürüten, zamanı büken ve sadece gölgede var olan xenos ırkı. İmparatorluk onları 'zeitgeist varlıkları' olarak görür; yakınlıkları pas, yaşlanma ve ölüm getirir. İlk Büyük Haçlı Seferi'nde bile ortadan kaldırılamadılar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

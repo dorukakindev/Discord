@@ -16,6 +16,6 @@ Ulthwé'nin ünü, Eldrad Ulthran gibi efsanevi farseer'lerden ve Craftworld'ün
 
 ## Tarihçe
 
-Kâhinlerin craftworld'ü; Eldrad Ulthran'ın evi. En çok seer'ın olduğu, en kötü haberlerin geldiği yer — Aeldari'nin nöbetçisi.
+Ulthwé ('Ulthwé'nin Lagünü'), Farseer'ların en güçlü olduğu Aeldari craftworld'üdür; Eldrad Ulthran'ın evi. Eye of Terror'ın yakınında konumlanıp Chaos'a karşı en ön safta durur — 'gözle görülen geleceğin şehri'.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

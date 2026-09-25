@@ -1,7 +1,8 @@
--# THE IMPERIAL ARCHIVE · İstatistik
+-# THE IMPERIAL ARCHIVE · İstatistikler
+# Arşiv İstatistikleri
 
-- Toplam kayıt: ~2.360
-- Kayıt forumları: 102
-- Aktif başlık: 110
-- Görsel kapsamı: ~94%
-- Son güncelleme: 24.09.2026 — dördüncü derinleştirme turu (292 kart) + 58 ek görsel + 75 yeni kanon kaydı
+- **Toplam kayıt:** ~2.990
+- **Forum sayısı:** 101
+- **Son güncelleme:** 110 yeni kanon kartı (2. tarama turu) + 110 harf-forum kopyası + 25 dizin yenilemesi + 60 ince kart araştırma-destekli genişletme.
+
+*Bu kart arşivin canlı durumunu yansıtır; periyodik dökümler GitHub reposuna işlenir.*

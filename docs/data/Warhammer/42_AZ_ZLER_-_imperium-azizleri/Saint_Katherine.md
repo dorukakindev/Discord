@@ -16,6 +16,6 @@ Katherine'in kültü, 'şehitlik' kavramını İmparatorluk'un en yüksek erdemi
 
 ## Tarihçe
 
-Order of Our Martyred Lady'nin kurucusu; en ünlü Savaş Rahibesi azizi. Savaşın ve fedakârlığın simgesi.
+Saint Katherine (Katherine Elysius), Order of Our Martyred Lady'nin hamisi ve Adepta Sororitas'ın en büyük azizlerinden; 'Alevli Kalp' düzeninin kurucu figürü — inancın beden bulmuş hali.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

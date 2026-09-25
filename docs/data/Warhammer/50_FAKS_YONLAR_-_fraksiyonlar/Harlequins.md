@@ -12,6 +12,6 @@ Harlequinler, Aeldari mitolojisini ve özellikle ırklarının düşüşünün v
 
 ## Tarihçe
 
-Cegorach'ın dansçıları; Webway'in efendileri. Savaş, tiyatro ve ölümün birleştiği maskeli halk — Eldar'ın en özgür kolu.
+Harlequins (Rillietann), Aeldari'nin maskeli dansçı-askerleridir; Black Library'nin koruyucuları ve Laughing God Cegorach'ın hizmetkârları. Tüm Aeldari kollarından bağımsız hareket ederler — sanat ve savaşın birleştiği, ırkın en gizemli kesimi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -100,6 +100,10 @@ The Waning'in etkileri nihayetinde **Time of Ending** olarak bilinen geç M41'de
 
 ## İmparatorluk Domain'i
 
+## Tarihçe
+
+Imperium of Man, 41. Binyıl'da Samanyolu'nu kapsayan devasa insan imparatorluğudur; yaşayan tanrı İmparat
+
 İmparatorluk, galaksiyi beş Segmentum'a ayırır:
 
 - **Segmentum Solar** — Terra'nın bulunduğu merkezi segment.
@@ -226,3 +230,7 @@ The Waning'in etkileri nihayetinde **Time of Ending** olarak bilinen geç M41'de
 - *Mechanicum* — Graham McNeill (Novel)
 - *The Flight of the Eisenstein* — James Swallow (Novel)
 - *Fulgrim* — Graham McNeill (Novel)
+
+## Tarihçe
+
+Imperium of Man, 41. Binyıl'da Samanyolu'nu kapsayan devasa insan imparatorluğudur; yaşayan tanrı İmparator tarafından yönetilir. Golden Throne'a bağlı İmparator'un adına High Lords of Terra ve Adeptus Terra yönetir; milyonlarca dünya, sürekli savaş, katı din ve devasa bürokrasiyle bir arada tutulur.

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/bb/BlackDragonsBadge.jpg/revision/latest?cb=20240922003823
 
+## Tarihçe
+
+Black Dragons, Lanetli 21. Kuruluş'ta yaratılmış, Salamanders gen-tohumundan geldiği sanılan bir Chapter'dır. Inquisition tarafından gen-tohumu mutasyonu nedeniyle kınandı: bazı savaşçıların kafasında ve önkollarında kemiksi bıçak çıkıntıları gelişir; etkilenenler bunları adamantiumla kaplayıp yakın dövüş silahı olarak kullanır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Black Dragons — Kara Ejderler
@@ -24,4 +28,8 @@ Bu kemik bıçaklarını bir zaaf değil, bir silah olarak kucaklarlar; mutasyon
 
 Black Dragons, lanetlenmiş bir mirasın gururla taşındığının somut halidir; Imperium'un saflık takıntısının dışladığı, ama vahşeti ve sadakatiyle varlığını kanıtlayan bir kardeşlik. Bedenlerinden çıkan kemikleri bir utanç olarak gizlemek yerine bir kimliğe dönüştürmüş, sürekli şüphe altında savaşan bu mutant savaşçılar, Imperium'un en marjinal ama en ölümcül chapter'larından birinin simgesidir.
 
+
+## Tarihçe
+
+Black Dragons, Lanetli 21. Kuruluş'ta yaratılmış, Salamanders gen-tohumundan geldiği sanılan bir Chapter'dır. Inquisition tarafından gen-tohumu mutasyonu nedeniyle kınandı: bazı savaşçıların kafasında ve önkollarında kemiksi bıçak çıkıntıları gelişir; etkilenenler bunları adamantiumla kaplayıp yakın dövüş silahı olarak kullanır.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

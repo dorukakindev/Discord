@@ -14,6 +14,6 @@ Zırhın önemi, 'ölümden dönen primarch' sembolüdür — Guilliman'ın Fulg
 
 ## Tarihçe
 
-Guilliman'ın Rubicon sonrası zırhı; yaralı primarch'ın dönüşünün simgesi. Eski yarayı yeni zırhla örten şey.
+The Armour of Fate, Roboute Guilliman'ın canlandırılmasından sonra giydiği yaşam-destek zırhıdır; Fulgrim'in zehirli yarasından kalan ölümcül hasarı telafi eden karmaşık bir teknoloji-birleşimidir. Belisarius Cawl ve Ynnari işbirliğiyle tasarlanan zırh, primarch'ı canlı tutar ama içindeki beden hâlâ yara acısı çeker.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

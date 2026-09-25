@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/6d/Charnel_Guard_Chapter_Icon3.jpg/revision/latest?cb=20140208115611
 
+## Tarihçe
+
+Charnel Guard, Blood Angels halefi olan ama Sanguinary Brotherhood tarafından tanınmayan, filo-temelli münzevi bir Chapter'dır; Üçüncü Kuruluş'ta kurulduğu sanılır. Sefer dışında geniş stasis kriptalarında saklanırlar; cephaneleri 41. Binyıl'da nadir görülen antik silah örnekleriyle doludur.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Charnel Guard — Mezar Muhafızları
@@ -24,4 +28,8 @@ Charnel Guard, Badab Savaşı sırasında, Maelstrom'un dış bölgelerini devri
 
 Charnel Guard, kadim teçhizatıyla, ölüm temalı armalarıyla ve gezici filo varlığıyla, 40K'nın gizemli halef chapter'larından birinin somut halidir; Blood Angels soyunun asaletini ve ölümle olan yakın ilişkisini, antik relikt bolluğuyla birleştirir. Onlar, geçmişin kadim silahlarını taşıyan, mezarlık-sessizliğinde galaksiyi dolaşan ve nereden geldiği bile bir muamma olan, kemik beyazı zırhlı bir muhafız soyudur.
 
+
+## Tarihçe
+
+Charnel Guard, Blood Angels halefi olan ama Sanguinary Brotherhood tarafından tanınmayan, filo-temelli münzevi bir Chapter'dır; Üçüncü Kuruluş'ta kurulduğu sanılır. Sefer dışında geniş stasis kriptalarında saklanırlar; cephaneleri 41. Binyıl'da nadir görülen antik silah örnekleriyle doludur.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

@@ -8,6 +8,6 @@ Afriel Strain, diğer abhumanlardan temelden farklı bir kökene sahiptir; onlar
 
 ## Tarihçe
 
-Genetik laboratuvar ürünü asker sınıfı; 'şanssız' olarak bilinen, kısa ömürlü elite asker. Talihsizliğin bilimsel hali.
+Afriel Strain, İmparatorluk'un 'süper-insan' klon projesidir; ölmüş kahramanların genlerini kullanarak mükemmel askerler üretme denemesi. 'Afriel' askerler doğuştan zalim ama talihsizdirler — proje, klonların insanlıktan uzaklaşması nedeniyle gizlice durduruldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

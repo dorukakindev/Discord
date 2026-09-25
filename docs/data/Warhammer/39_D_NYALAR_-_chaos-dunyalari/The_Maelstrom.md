@@ -16,6 +16,6 @@ Badab Savaşı'nın jeopolitiğini de Maelstrom yazdı: Huron Blackheart'ın 'Ty
 
 ## Tarihçe
 
-Segmentum Obscurus'taki büyük Warp rifti; Eye of Terror'un küçük kardeşi. Red Corsairs'in evidir — Huron Blackheart'ın krallığı.
+The Maelstrom, Eye of Terror'ın küçük kuzeni olan devasa Warp fırtınası bölgesidir; Ultima Segmentum'da yıllardır açık bir yara. İçinde daemon dünyaları, Chaos kolonileri ve kayıp medeniyetler saklar — Jaghatai Khan'ın kaybolduğu bölge.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

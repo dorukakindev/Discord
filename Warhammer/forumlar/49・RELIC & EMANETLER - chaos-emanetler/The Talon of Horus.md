@@ -12,6 +12,6 @@ Horus'un ölümünden sonra pençe kayboldu, ama yüzyıllar sonra Abaddon, Horu
 
 ## Tarihçe
 
-Horus'un taşıdığı dev pençe; Warmaster'ın silahı ve iktidar sembolü. Şimdi Abaddon'un elinde — babadan oğla lanet.
+The Talon of Horus, Abaddon'un sağ elindeki devasa kombinasyon silahıdır — babasının meşhur pençeli eldiveninin üzerine monte edilmiş storm bolter'la birleşik bir relic. Horus'un orijinal Lightning Claw'undan dövülmüştür; hem Black Legion'un iktidar simgesi hem İmparatorluk'un en nefret edilen silahıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

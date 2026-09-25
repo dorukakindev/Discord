@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest/scale-to-width-down/675?cb=20160525204059
 
+## Tarihçe
+
+Leman Russ ('Kurt Kralı'), Space Wolves VI. Lejyonu'nun primarch'ıydı; Fenris'in buzul dünyasında kurt sürüleri arasında büyüdü. Psişik güçlere ve büyüye duyduğu nefretle, 'İmparator'un celladı' olarak lejyonunu yönetti; Heresy sırasında Prospero'nun yakılmasında Magnus'la dövüştü. Heresy sonrası 211.M31'de 'İmparator'un son görevi'ni aramak için Eye of Terror'a yürüyüp kayboldu; Space Wolves onun dönüşünü hâlâ bekler.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Leman Russ — Kurt Kral
@@ -31,4 +35,8 @@ Heresy boyunca sadık kaldı ve Horus'a doğrudan saldırmaya yemin etti, ama ye
 - Horus'a saldırma yemini
 - Halkaların Gözü'ne doğru kayboluş
 
+
+## Tarihçe
+
+Leman Russ ('Kurt Kralı'), Space Wolves VI. Lejyonu'nun primarch'ıydı; Fenris'in buzul dünyasında kurt sürüleri arasında büyüdü. Psişik güçlere ve büyüye duyduğu nefretle, 'İmparator'un celladı' olarak lejyonunu yönetti; Heresy sırasında Prospero'nun yakılmasında Magnus'la dövüştü. Heresy sonrası 211.M31'de 'İmparator'un son görevi'ni aramak için Eye of Terror'a yürüyüp kayboldu; Space Wolves onun dönüşünü hâlâ bekler.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

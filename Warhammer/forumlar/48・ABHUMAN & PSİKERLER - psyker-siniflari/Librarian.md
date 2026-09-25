@@ -10,6 +10,6 @@ Librarian, bir Space Marine Chapter'ının en güçlü ve en gizemli savaşçıl
 
 ## Tarihçe
 
-Chapter'ların psyker savaşçısı; güçlü psişik yetenekli Space Marine. Hem savaşçı hem bilgin — Chapter'ın aklı.
+Librarian, Space Marine chapter'ının psyker-subayıdır; Warp gücüyle savaşan, psişik yetenekleri disiplinli kullanan 'savaş kütüphanecisi'. Hem saldırı hem savunma — chapter'ın Warp uzmanı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,6 +10,6 @@ Necron mitolojisinde, "Kederli Gece Kitabı"nda (Book of Mournful Night) anlatı
 
 ## Tarihçe
 
-'Yıldızların Efendisi' C'tan; Necron'ların en çok tapındığı shard'lardan. Sessiz ve mutlak — yıldızların karanlık yüzü.
+Iash'uddra ('the Endless Swarm'), C'tan'ın böcek-sürü formundaki yıldız tanrısıdır; Necrontyr'ın en dehşet verici parçalarından biri olarak binlerce küçük varlık halinde var olur. Sharded haliyle bile yaşam tüketme kapasitesi yüksektir — C'tan'ın 'sürü' yönü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

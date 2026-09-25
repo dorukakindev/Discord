@@ -14,6 +14,6 @@ Imperial Truth (İmparatorluk Gerçeği), İmparator'un kendi yarattığı 'bili
 
 ## Tarihçe
 
-İmparator'un orijinal öğretisi; din yok, akıl var. Heresy'de öldü ama Guilliman'ın dönüşüyle kısmen geri döndü — bilimin son şansı.
+Imperial Truth, Büyük Haçlı Seferi döneminin resmî ideolojisidir; İmparator'un insanlığı akıl, bilim ve laiklikle yönetme vizyonu. Heresy ve Imperial Cult'la çöküp yerini tanrı-kült aldı — İmparator'un hayalinin trajik başarısızlığı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

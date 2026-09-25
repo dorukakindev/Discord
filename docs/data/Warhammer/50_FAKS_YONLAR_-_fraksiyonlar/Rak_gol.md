@@ -14,6 +14,6 @@ Rak'gol'un tehlikesi, 'nedensizliğidir' — fetih, kaynak veya ideoloji değil,
 
 ## Tarihçe
 
-Kuzey xeno'ları; sürüngen yırtıcı uygarlığı. İmparatorluk'un bilinen ama uzak durduğu kuzey tehdidi.
+Rak'gol, galaksinin en vahşi xenos avcı ırklarından biridir; çıplak kas, doğal zırh ve cybernetic implant'larla donanmış yamyamlardır. Uzayda bordalama saldırılarıyla ünlüdürler — gemileri kesip içindekileri yiyen, teknolojik olarak ilkel ama savaşta acımasız bir ırk.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

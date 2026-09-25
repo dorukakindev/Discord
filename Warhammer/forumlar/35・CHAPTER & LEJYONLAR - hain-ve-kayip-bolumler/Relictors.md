@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/44/Relictors_Livery.jpg/revision/latest?cb=20110712064222
 
+## Tarihçe
+
+Relictors, 36. Binyıl'da bilinmeyen kökenle kurulmuş Renegade bir Chapter'dır; Eye of Terror çevresini korumak için yaratılan yirmi Astartes Praeses Chapter'ından biriydi. Kaos kalıntı silahlarını toplayıp kullanma alışkanlıkları yüzünden Inquisition'la çatıştılar; sonunda Excommunicate Traitoris ilan edilip Eye'a kaçtılar — hâlâ İmparatorluk için savaştıklarını iddia ederler.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Relictors — Emanetçiler
@@ -24,4 +28,8 @@ Ama İmparatorluk için bu, affedilemez bir sapkınlıktı; Kaos eserlerine doku
 
 Relictors, 40K'nın gri ahlakının somut halidir; kötülüğe karşı kötülüğün araçlarını kullanan, doğru olduğuna inandığı için her şeyini feda eden ve bunun bedelini sürgün ve avlanmayla ödeyen tragedyalı kahramanlar. Onlar, İmparatorluğun katı dogmasının, en sadık hizmetkârlarını bile nasıl düşmana çevirebileceğinin acı bir örneğidir; uçurumla savaşırken uçuruma fazla yaklaşan, ama asla kalbini Kaos'a teslim etmeyen, lanetli emanetçiler.
 
+
+## Tarihçe
+
+Relictors, 36. Binyıl'da bilinmeyen kökenle kurulmuş Renegade bir Chapter'dır; Eye of Terror çevresini korumak için yaratılan yirmi Astartes Praeses Chapter'ından biriydi. Kaos kalıntı silahlarını toplayıp kullanma alışkanlıkları yüzünden Inquisition'la çatıştılar; sonunda Excommunicate Traitoris ilan edilip Eye'a kaçtılar — hâlâ İmparatorluk için savaştıklarını iddia ederler.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

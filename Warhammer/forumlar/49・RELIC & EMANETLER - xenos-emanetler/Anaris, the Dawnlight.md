@@ -12,6 +12,6 @@ Mite göre, Anaris'i Aeldari panteonunun demirci-tanrısı Vaul dövdü; Vaul, s
 
 ## Tarihçe
 
-Kurnous'un efsanevi ışık kılıcı; Eldanesh'e verilen, sonunda Khaine'e karşı kullanılan eser. Aeldari'nin eski gücünün simgesi.
+Anaris, the Dawnlight, Aeldari mitolojisinde Eldanesh'in efsanevi kılıcıdır; savaş tanrısı Khaine'e karşı son direnişte Eldanesh'in silahıydı. Aeldari'nin kayıp kahramanlık çağının simgesi — 'şafak ışığı' kılıcı, ırkın düşüşünden önceki yüceliğinin metaforudur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312
 
+## Tarihçe
+
+Adeptus Custodes — Büyük Haçlı Seferi dönemindeki adıyla Legio Custodes, 'On Bin' — İmparatorluk Sarayı'nı ve İmparator'un bedenini korumakla görevli elit transhuman savaşçı örgütüdür; Astartes'den bile güçlüdürler ve İmparator'un en önemli elçileri ile sırdaşlarıdırlar. Great Rift sonrası artık saray duvarları dışında da aktif görev alırlar.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Adeptus Custodes — İmparator'un Muhafızları
@@ -22,4 +26,8 @@ On bin yıl boyunca, Custodes neredeyse hiç Terra'dan ayrılmadı; tek görevle
 
 Guilliman'ın dönüşü ve İmparatorluğun çöküşün eşiğine gelmesiyle, Custodes tarihi bir karar aldı: artık galaksiye açılıp savaşa katılmaya başladılar. Bu, durumun ne kadar umutsuz olduğunun bir işaretiydi; İmparator'un en değerli muhafızları bile artık tahtın başında bekleyemezdi. Adeptus Custodes, insanlığın ulaşabileceği savaşçı mükemmelliğinin zirvesidir; İmparator'un en saf, en sadık ve en ölümcül yaratımları, altın zırhlı yarı-tanrılardır.
 
+
+## Tarihçe
+
+Adeptus Custodes — Büyük Haçlı Seferi dönemindeki adıyla Legio Custodes, 'On Bin' — İmparatorluk Sarayı'nı ve İmparator'un bedenini korumakla görevli elit transhuman savaşçı örgütüdür; Astartes'den bile güçlüdürler ve İmparator'un en önemli elçileri ile sırdaşlarıdırlar. Great Rift sonrası artık saray duvarları dışında da aktif görev alırlar.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

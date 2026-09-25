@@ -14,6 +14,6 @@ Cult'un ritüelleri katıdır: 'Rite of Activation', 'Litany of the Machine' ve 
 
 ## Tarihçe
 
-Machine God'a tapan Mechanicum'un resmi dini; Omnissiah kültü. Teknoloji ibadettir — bilgi kutsal, cehalet günah.
+Cult Mechanicus (Adeptus Mechanicus'un dini yönü), Mars merkezli makine kültüdür; Omnissiah'yı — Machine God'ı — ve İmparator'u onun avatarı olarak tanır. Tech-priest'ler bilgiyi kutsal, makineleri yaşayan ruhlar sayar; İmparatorluk'un teknolojisi bu kültün liturjisiyle çalışır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum der

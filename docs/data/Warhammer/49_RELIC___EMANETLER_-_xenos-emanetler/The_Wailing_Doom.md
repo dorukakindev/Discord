@@ -12,6 +12,6 @@ Wailing Doom'un gücü hem fiziksel hem manevidir: kılıç, 'savaşın kutsall�
 
 ## Tarihçe
 
-Khaine'in savaş çığlığı kılıcı; Avatar'ların taşıdığı dev kılıç. Aeldari'nin savaş tanrısının sesi.
+The Wailing Doom, Avatar of Khaine'in elindeki devasa kılıçtır — Aeldari savaş tanrısının enkarnasyonunun tek silahı. Efsaneye göre Khaine'in savaş tanrısı gücünün maddi biçimi; craftworld'lerin Avatar'ı uyanıp savaşa yürüdüğünde bu kılıç alevler içinde belirir ve tanrısal öfkeyi keser.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

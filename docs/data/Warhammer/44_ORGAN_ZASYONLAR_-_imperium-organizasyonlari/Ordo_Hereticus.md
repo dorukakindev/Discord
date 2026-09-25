@@ -12,6 +12,6 @@ Bu kolun varlığı, acı bir dersten doğdu. Apostasy Çağı'nda, çılgın Ec
 
 ## Tarihçe
 
-Sapık avcısı Inquisition kolu; cadı ve inançsızların avcısı. Sisters of Battle'ın hamisi — iç düşmanın adı.
+Ordo Hereticus, Inquisition'un insan-içi tehditleri avlayan koludur; heretikler, mutantlar ve yozlaşmış İmparatorluk kurumlarını soruşturur. 'Witch Hunter'lar olarak da bilinir — psyker kaçakları ve Chaos kültleri onların ana avıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
