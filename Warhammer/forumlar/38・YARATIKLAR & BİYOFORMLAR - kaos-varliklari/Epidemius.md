@@ -18,6 +18,6 @@ Nurgle'ın baş sayıcısı; her vebayı, her ölümü, her irini kaydeden veba-
 
 ## Tarihçe
 
-Epidemius — 'Nurgle'un Saymanı' — Plague God'un güçlü Herald'ı ve daemonik lejyonlarının piyade efendilerinin yedisinden biridir. Nurgle'un birçok hastalığının gücünü kataloglama görevi ona düşer; 'salgının muhasebecisi' olarak tahtının üzerinde sayım yapan bu figür, çürümenin istatistiksel efendisidir.
+Epidemius, Nurgle'un en ünlü ve en gizli daemon'ıdır; Nurgle'un veba istatistiklerini tutan ve onun en gizli operasyonlarını yöneten Epidemius, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Nurgle'un en ünlü ve en gizli daemon'udur. Epidemius'un en büyük özelliği, onun bilgisidir — onlar, Nurgle'un veba istatistiklerini tutan ve onun en gizli operasyonlarını yöneten en bilgili daemon'dur ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Epidemius, hem bir daemon hem de bir kayıt tutucudur ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Epidemius'un en ünlü özelliği, onun 'Tallyman' lakabıdır — onlar, Nurgle'un vebalarının en gizli kayıt tutucusudur ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır. Epidemius, Nurgle'un en ünlü ve en gizli daemon'ıdır — onlar, bir kaydın ve Nurgle'un 'sevgi'sinin somut halidir.
 
 -# Kaynaklar: *Codex: Chaos Daemons*

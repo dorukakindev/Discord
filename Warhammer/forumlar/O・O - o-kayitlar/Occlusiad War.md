@@ -18,6 +18,6 @@ Kuzeybatı sınırında Karanlık Teknoloji kalıntılarının isyanı; Men of I
 
 ## Tarihçe
 
-Occlusiad Savaşı, galaksinin kuzeybatı fringe'inde 'Blind King' denen bir Karanlık Teknoloji artefaktının etrafında toplanan teknoloji-kültlerin isyanıdır; Men of Iron'ın hayaletleri ilk kez bu kadar açık görüldü. Dark Hunters Chapter ve Guard ordularıyla bastırıldı ama İmparatorluk için uyarı levhası olarak kalır: Abominable Intelligence asla tamamen silinmez.
+Occlusiad War, İmparatorluk'un en gizli ve en tehlikeli savaşlarından biridir. Bu savaş, İmparatorluk'un en gizli operasyonlarının ve en tehlikeli düşmanlarının bir araya geldiği bir olaydı; Occlusiad War sırasında İmparatorluk, kendi içindeki en gizli tehditlerle karşılaştı. Savaş, İmparatorluk'un en gizli operasyonlarının ve en tehlikeli düşmanlarının çatışması olarak tarihe geçti; Occlusiad War, İmparatorluk'un en büyük trajedisinin kendi içindeki sırlar olduğunu gösterdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

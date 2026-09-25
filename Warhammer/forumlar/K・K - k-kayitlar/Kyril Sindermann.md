@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/84/KyrilSindermanBust.pn
 
 ## Tarihçe
 
-Kyril Sindermann, Büyük Sefer'de filizlenen İmparatorluk'un ünlü Iterator'ıydı — söylev ve hitabet ustası olarak galakside geniş ün sahibi. Heresy'nin trajik olaylarının ardından İmparatorluk'un 'hatırlatıcı' figürlerinden biri oldu; 'mantığın sesi' olarak dinin çöküşünden İmparatorluk felsefesinin doğumuna geçişte entelektüel köprü rolü oynadı.
+Kyril Sindermann, İmparatorluğun en ünlü ve en trajik remembrancer'ıdır; Horus Heresy sırasında Word Bearers'ın gemisinde bulunan ve onların Chaos'a düşüşünü gören Sindermann, İmparatorluğun en önemli ve en trajik tanığıdır — onlar, İmparatorluğun en ünlü ve en trajik remembrancer'ıdır. Kyril Sindermann'ın en büyük özelliği, onun tanıklığıdır — onlar, Horus Heresy'nin başlangıcını gören ve onu kaydeden en önemli remembrancer'dır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Sindermann, hem bir sanatçı hem de bir tarihçidir ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Sindermann'ın en ünlü özelliği, onun Word Bearers'ın gemisinde olmasıdır — onlar, Chaos'un doğuşunu gören ve onu kaydeden en trajik tanıktır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Kyril Sindermann, İmparatorluğun en ünlü ve en trajik remembrancer'ıdır — onlar, bir tanıklığın ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

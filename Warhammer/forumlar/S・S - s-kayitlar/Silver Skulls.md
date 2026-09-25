@@ -29,6 +29,10 @@ Silver Skulls'ın yurdu, Ultima Segmentum'daki Varsavia dünyasıdır. Chapter a
 
 Chapter'ın en tanınan geleneği, gümüş kafataslarıdır. Yenilen güçlü düşmanların kafatasları törenle alınır, temizlenir ve gümüşle kaplanarak Chapter'ın kutsal alanlarında sergilenir. Bu, hem düşmanın gücünü kabul etmenin hem de o gücü Chapter'ın belleğine katmanın bir yoludur. Silver Skulls için bir düşman ne kadar korkunçsa, kafatası da o kadar değerlidir.
 
+## Tarihçe
+
+Silver Skulls, Ultramarines soyu ve İmparatorluğun en disiplinli ve en kehanetli Space Marine Chapter'larından biridir; onların savaş doktrini, Ultramar'ın disiplin geleneğinden ve kendi kehanet kültüründen doğar ve onlar, İmparatorluğun en disiplinli ve en kehanetli savaşçılarıdır. Silver Skulls'un en büyük özelliği, onların kehanetidir — onlar, geleceği görmeye çalışır ve onların savaşı, hem fiziksel hem de psişik bir planlamadır; bir Silver Skull, hem bir savaşçı hem de bir kahinidir ve onların savaşı, hem disiplinli hem de mistiktir. Silver Skulls'un en ünlü savaşı, çeşitli Imperial operasyonlarıdır — onlar, İmparatorluğun en disiplinli savaşçılarıdır ve onların varlığı, Ultramar'ın geleneğinin somut halidir. Silver Skulls, İmparatorluğun en disiplinli ve en kehanetli Chapter'ıdır — onlar, disiplinin ve kehanetin birl
+
 Cawkwell'in anlatılarında Chapter Master'ın adı Argentius olarak geçer; bu adın kişiden çok makama ait olup olmadığı ise kaynaklarda açıkça oturtulmaz. Batıl gelenek yalnızca Prognosticator'larla sınırlı değildir; sıradan kardeşler de uğur, alamet ve tören konusunda titizdir. Silver Skulls'ın dünyası, disiplinli bir savaş makinesiyle kadim bir inanç düzeninin iç içe geçtiği bir yerdir.
 ---MSG---
 ## Doktrin ve Savaş Tarzı

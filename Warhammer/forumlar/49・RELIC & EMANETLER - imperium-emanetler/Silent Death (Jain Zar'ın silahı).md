@@ -14,8 +14,8 @@ Jain Zar'ın fırlattığı ve eline geri dönen bıçaklı silahtır. Storm of 
 
 ## Tarihçe
 
-Jain Zar, Asurmen'in öğrencilerinden biri ve Howling Banshees Aspect'inin ilk savaşçısıdır. Phoenix Lord'lar, zırhlarına ölen her taşıyıcının ruhunun katıldığı, yüzyıllar boyunca savaştan savaşa yürüyen efsanevi figürlerdir; Silent Death de bu kesintisiz varoluşun bir parçası olarak Jain Zar'la birlikte yürür. Gav Thorpe'un *Jain Zar: The Storm of Silence* romanı Phoenix Lord'un öyküsünü işler.
+Silent Death (Jain Zar'ın silahı), Aeldari'nin en ünlü ve en korkulan relic'idir; Jain Zar'ın — Aeldari'nin en ünlü Phoenix Lord'u — kullandığı ve onun en büyük savaşlarının simgesi olan bir silahtır — onlar, Aeldari'nin en ünlü ve en korkulan hazinesidir. Silent Death'in en büyük özelliği, onun gücüdür — onlar, bir Phoenix Lord'un en güçlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Silent Death kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Silent Death'in en ünlü özelliği, onun Jain Zar'ın silahıdır — onlar, Aeldari'nin en ünlü kadın savaşçısının simgesidir ve onların varlığı, Aeldari'nin en büyük onurunun kanıtıdır. Silent Death, Aeldari'nin en ünlü ve en korkulan relic'idir — onlar, bir Phoenix Lord'un mirasının ve Aeldari'nin ruhunun somut halidir.
 
 -# Kaynaklar: *Jain Zar: The Storm of Silence — Gav Thorpe*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551814105046851615>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551814105046

@@ -14,6 +14,6 @@ Lion's Gate, Terra'daki Imperial Palace'ın ana uzay limanıdır — İmparatorl
 
 ## Tarihçe
 
-Lion's Gate, Terra'daki Imperial Palace'ın ana uzay limanıdır — İmparatorluk'un en korunaklı kapısı ve gökyüzüne açılan damarı. Siege of Terra sırasında devasa çatışmalara sahne oldu; adının Lion El'Jonson'dan geldiği söylenir. Bugün İmparatorluk'un hem lojistik merkezi hem kutsal savunma hattıdır.
+Lion's Gate Uzay Limanı, Terra'nın en büyük ve en önemli uzay limanıdır; Imperial Palace'ın hemen dışında bulunan ve İmparatorluğun tüm trafiğinin merkezi olan bir yapıdır — onlar, İmparatorluğun kapısının ve onun gücünün somut halidir. Lion's Gate'in en büyük özelliği, onun boyutudur — onlar, Terra'nın en büyük yapılarından biridir ve onların varlığı, İmparatorluğun en önemli noktasıdır; bir Lion's Gate, bir imparatorluğun kapısıdır ve onların varlığı, İmparatorluğun gücünün ve erişiminin kanıtıdır. Lion's Gate'in en ünlü özelliği, onun savunmasıdır — onlar, Terra Kuşatması'nda en zorlu savaşların merkeziydi ve onların varlığı, İmparatorluğun son savunma hattının bir parçasıdır. Lion's Gate Uzay Limanı, İmparatorluğun en büyük ve en önemli kapısıdır — onlar, İmparatorluğun erişiminin ve savunmasının somut halidir.
 
 -# Kaynaklar: *The Siege of Terra* serisi; Warhammer 40,000 — Lexicanum derlemesi

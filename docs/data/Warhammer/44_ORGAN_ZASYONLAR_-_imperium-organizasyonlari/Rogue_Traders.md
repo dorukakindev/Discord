@@ -12,6 +12,4 @@ Rogue Trader'lar (Serbest Tüccarlar), İmparatorluğun en sıra dışı ve en �
 
 ## Tarihçe
 
-Harita dışı işletmeciler; İmparatorluk'un sınırında hüküm süren serbest keşif kaptanları. Warrant of Trade sahipleri — neredeyse sınırsız izin, neredeyse sonsuz sorumluluk.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Rogue Trader'lar, İmparatorluğun en özgür ve en tehlikeli görevini taşıyanlardır; onlara verilen Warrant of Trade — İmparator veya High Lords of Terra tarafından imzalanmış antik bir belge — onlara İmparatorluk sınırlarının dışında ticaret, keşif ve savaş hakkı verir ve onları İmparatorluk kanunlarının çoğundan muaf tutar. Rogue Trader'ın görevi, bilinmeyen uzayı keşfetmek, yeni dünyalar bulmak, xeno ırklarıyla ticaret yapmak ve İmparatorluğun sınırlarını genişletmektir; ama aynı zamanda onlar en büyük yasadışı güçtür — Warrant of Trade, onlara neredeyse sınırsız özgürlük verir ve birçok Rogue Trader, korsanlık ve kaçakçılıkla sınırı aşar. Rogue Trader hanedanları binlerce yıldır var — bazıları İmparator'un ilk günlerine dayanır ve onların Warrant'ı, gezegenlerden daha değerlidir; bir Rogue Trader'ın filosu, küçük bir orduya ve zenginliğe sahiptir. Rogue Trader olmak, İmparatorluk'taki en büyük özgürlük ve en büyük risktir — sınırların ötesinde her şey yasal, ama

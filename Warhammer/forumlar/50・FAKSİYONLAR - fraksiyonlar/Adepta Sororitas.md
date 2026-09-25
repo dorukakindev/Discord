@@ -15,12 +15,4 @@ Sisters of Battle olarak da bilinen, Emperor'a olan inançlarını silah gibi ta
 
 ## Tarihçe
 
-Sebastian Thor'un ayaklanması sırasında Alicia Dominica'nın önderliğindeki Daughters, Vandire'ın gerçek yüzünü görüp onu idam etti. Sonraki binyıllarda Order'lar Imperium'un her köşesinde inanç savaşları yürüttü. Era Indomitus'ta Saint Celestine ve Abbess Sanctorum Morvenn Vahl öne çıkan figürlerdir.
-
-## Bilinen Kullanıcılar / Operatörler
-
-Order of Our Martyred Lady, Order of the Valorous Heart, Order of the Bloody Rose, Order of the Ebon Chalice, Order of the Argent Shroud, Order of the Sacred Rose.
-
--# Kaynaklar: *Codex: Adepta Sororitas*; *Faith and Fire — James Swallow*
-
--# İlişkili kayıtlar: <#1551753444308811807>, <#1551808932744269985>, <#1551651549804236801>, <#1551810771472883713>
+Adepta Sororitas (Sisters of Battle), İmparatorluğun en fanatik ve en sadık askeri gücüdür; İmparator'a olan inançla savaşan ve Ecclesiarchy'nin askeri kolu olan kadın savaşçılardır — onlar, İmparatorluğun en kutsal ve en acımasız savaşçılarıdır. Adepta Sororitas'ın en büyük özelliği, onların inancıdır — onlar, İmparator'a olan inançlarıyla savaşır ve onların savaşı, hem askeri hem de dini bir seferdir; bir Sister of Battle, hem bir savaşçı hem de bir rahibedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Adepta Sororitas'ın en ünlü özelliği, onların Retributor ve Celestian'larıdır — onlar, en deneyimli ve en fanatik savaşçılardır ve onların varlığı, İmparatorluğun en kutsal savaş gücüdür; bir Celestian, hem bir savaşçı hem de bir azizedir. Adepta Sororitas, İmparatorluğun en fanatik ve en sadık askeri gücüdür —

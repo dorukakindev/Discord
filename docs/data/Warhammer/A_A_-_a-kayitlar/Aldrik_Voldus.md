@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Grand_Master_Voldus.p
 
 ## Tarihçe
 
-Aldrik Voldus, Grey Knights'ın 3. Kardeşliği'nin Grand Master'ı ve chapter'ın Librarius'unun Warden'ı — fiilen Baş Kütüphaneci'sidir. Supreme Grand Master Kaldor Draigo tarafından atanan bu figür, 'Warp'ta kaybolmuş efendinin yerini tutan' adam olarak chapter'ın günlük komutanı sayılır; güçlü psyker ve taktik deha birleşimi.
+Aldrik Voldus, Grey Knights'ın en ünlü ve en güçlü Grand Master'ıdır; Chapter'ın en yüksek rütbeli üyesi olan ve daemon'ları yenen en kutsal savaşçı olan Voldus, İmparatorluğun en gizli ve en kutsal savaşçısıdır — onlar, Grey Knights'ın en ünlü ve en güçlü üyesidir. Aldrik Voldus'un en büyük özelliği, onun gücüdür — onlar, Grey Knights'ın en yüksek rütbeli üyesidir ve onların varlığı, İmparatorluğun en büyük psişik gücünün kanıtıdır; bir Voldus, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Aldrik Voldus'un en ünlü özelliği, onun Grand Master'ıdır — onlar, bir Chapter'ın en yüksek rütbeli üyesidir ve onların varlığı, Grey Knights'ın en büyük gücünün kanıtıdır. Aldrik Voldus, Grey Knights'ın en ünlü ve en güçlü Grand Master'ıdır — onlar, psişik gücün ve İmparatorluğun en büyük azizinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

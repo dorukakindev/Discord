@@ -9,6 +9,4 @@ Horus Sapkınlığı'nın mirası, İmparatorluk'un 'varoluşsal korkusu'dur —
 
 ## Tarihçe
 
-Warmaster Horus'un İmparator'a karşı isyanı; dokuz lejyonun düşüşü, Terra Kuşatması, İmparator'un Golden Throne'a bağlanması. İmparatorluk'un kurucu travması — bugünün bütün savaşlarının anası.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Horus Sapkınlığı, Horus Heresy'nin Türkçe karşılığıdır; Horus'un Chaos'a düşmesi ve İmparatorluğa ihanet etmesiyle başlayan İmparatorluğun en büyük iç savaşıdır — onlar, İmparatorluğun en büyük trajedisinin ve en büyük dersinin somut halidir. Horus Sapkınlığı'nın en büyük özelliği, onun ihanetidir — onlar, bir oğlun babasına ihanetinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Horus Sapkınlığı, bir imparatorluğun en büyük yarasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Horus Sapkınlığı'nın en ünlü özelliği, onun Terra Kuşatması'dır — onlar, Horus'un Terra'ya saldırısının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük savaşının kanıtıdır. Horus Sapkınlığı, İmparatorluğun en büyük ve

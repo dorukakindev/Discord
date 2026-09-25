@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/BaneWolf00.jpg/revisi
 
 ## Tarihçe
 
-Banewolf, İmparatorluk'un kimyasal-savaş varyantıdır; Hellhound'un 'zehirli kardeşi' olarak chem-cannon taşıyan bu araç, siperlerdeki düşmanı toksik gazla boğar — Death Korps'un favorisi.
+Banewolf, Imperial Guard tarafından kullanılan ve Chimera şasisi üzerine kurulu bir kimyasal silah tankıdır; onun Chem Cannon'u — bir kimyasal top — ile düşmanı zehirleyerek imha eden bir araçtır — onlar, Imperial Guard'ın en sinsi ve en korkulan aracıdır. Banewolf'un en büyük özelliği, onun Chem Cannon'udur — onun zehiri, bir düşman pozisyonunu saniyeler içinde zehirler; bir Banewolf, bir düşman hattını zehirle temizleyebilir ve onların varlığı, bir Imperial Guard saldırısının en sinsi silahıdır. Banewolf'un en ünlü görevi, Imperial Guard'ın çeşitli operasyonlarıdır — onlar, düşmanı zehirlemek için kullanılırlar ve onların varlığı, Imperial Guard'ın en korkulan silahıdır. Banewolf, Imperial Guard'ın en sinsi ve en korkulan aracıdır — onlar, zehrin ve yıkımın somut halidir.
 
 -# Kaynaklar: *Astra Militarum Codexleri*

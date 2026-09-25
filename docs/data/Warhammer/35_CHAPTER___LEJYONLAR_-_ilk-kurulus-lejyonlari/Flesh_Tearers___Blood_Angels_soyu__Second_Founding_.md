@@ -16,8 +16,4 @@ Sanguinius'un kalıtımındaki Flaw'un en yıkıcı biçimde görüldüğü Chap
 
 ## Tarihçe
 
-Kurulduğu günden beri öfkeleriyle anılan Chapter, Imperium'un en ağır cephelerinde kullanıldı. M41'in sonunda Gabriel Seth'in önderliğinde Hive Fleet Leviathan'a karşı Cryptus sistemindeki savunmada ve ardından Devastation of Baal'de Blood Angels'ın yanında savaştı. Primaris Space Marine'leri, yeni kuşağın da kusurdan kurtulamadığı anlaşılınca kabullendiler.
-
--# Kaynaklar: *The Devastation of Baal — Guy Haley*; *Codex: Blood Angels*
-
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809334483361823>
+Flesh Tearers, Blood Angels soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, Blood Angels'ın Red Thirst'ünün en vahşi ve en kontrolsüz halidir — onlar, İmparatorluğun en korkulan ve en kanlı savaşçılarıdır. Flesh Tearers'ın en büyük özelliği, onların vahşetidir — onların savaşı, sadece öldürmek değil, parçalamaktır; bir Flesh Tearer, düşmanını yer, içer ve parçalar ve onların savaş alanı, bir mezbahadan farksızdır. Flesh Tearers'ın en büyük trajedisi, onların Red Thirst'ünün en ağır halini taşımasıdır — onların savaşçıları, Black Rage'e diğer Chapter'lardan daha sık düşer ve onların sayısı, sürekli azalır; ama onların savaşı, İmparatorluğun en acımasız

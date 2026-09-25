@@ -16,7 +16,7 @@ Snikrot'un sessiz ve ürkütücü savaş tarzının simgesi olan ikiz bıçaklar
 
 ## Tarihçe
 
-Snikrot ve Red Skull Kommandos, Armageddon'un ormanlarında Imperial kuvvetlerin kâbusu olarak anılır; karanlıktan çıkıp nöbetçileri ve devriyeleri avlamaları, Imperial askerler arasında korkulu hikâyelere dönüşür. Mork's Teeth bu avların aracıdır.
+Mork's Teeth, Ork'ların en ünlü ve en vahşi relic'idir; Boss Snikrot'un — Ork'ların en ünlü komandosu — kullandığı ve onun en büyük savaşlarının simgesi olan iki bıçaktır — onlar, Ork'ların en ünlü ve en vahşi silahıdır. Mork's Teeth'in en büyük özelliği, onların vahşetidir — onlar, bir Ork komandosunun en vahşi silahıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Mork's Teeth kullanıcısı, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece öldürmek içindir. Mork's Teeth'in en ünlü özelliği, onların Snikrot'un silahıdır — onlar, bir Ork komandosunun en ünlü silahıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Mork's Teeth, Ork'ların en ünlü ve en vahşi relic'idir — onlar, bir komandonun vahşetinin ve Ork'ların gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

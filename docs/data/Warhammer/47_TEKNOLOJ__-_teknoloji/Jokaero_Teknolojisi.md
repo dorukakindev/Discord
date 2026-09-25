@@ -16,8 +16,4 @@ Jokaero, turuncu kürklü, maymunsu görünümlü bir xenos türüdür. Silah ve
 
 ## Tarihçe
 
-Bazı Inquisitor'lar Jokaero'yu, silah ustası olarak maiyetlerinde bulundurur; Imperium'un xenos teknolojisine duyduğu derin kuşku düşünüldüğünde bu, Inquisition'ın pragmatizminin çarpıcı bir örneğidir. Imperial soyluların yüzüklere gizlediği minyatür digital weapon'ların Jokaero işçiliğine bağlandığı anlatılır.
-
--# Kaynaklar: *Codex: Inquisition*; *Warhammer 40,000: Rogue Trader — Rick Priestley*
-
--# İlişkili kayıtlar: <#1551809846066548779>, <#1551815304252887041>, <#1551753472070783096>
+Jokaero, orangutan benzeri görünümlü ama teknolojide deha seviyesinde doğal yeteneği olan bir xeno türüdür; Old Ones tarafından üretilmişlerdir ve teknoloji onlara konuşma kadar doğal gelir. Bir Jokaero, birkaç saat içinde çevresindeki malzemeden lazer silahı, teleport düzeneği veya mini güneş üretebilir; ama ürettiği şeyi neden veya nasıl yaptığını açıklayamaz — bilinçli tasarım değil, içgüdüsel yetenektir. İmparatorluk'ta Inquisitor'lar ve Rogue Trader'lar Jokaero'yu 'tutarlar' (köleleştirmek veya ortak olmak arası gri bir ilişki) ve onlara özel silahlar ürettirirler; bir Jokaero'nun yaptığı digi-weapon (miniature silah) fiyatı bir gezegenin vergisine eşittir. Jokaero teknolojisi İmparatorluk standardının ötesindedir — Imperial mühendisler onların ürettiğini taklit edemez çünkü süreç anlaşılamaz, sa

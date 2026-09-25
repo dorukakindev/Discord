@@ -16,8 +16,4 @@ Yoğunlaştırılmış bir ışık huzmesi ateşleyen ağır Aeldari silahıdır
 
 ## Tarihçe
 
-Guardian ağır silah platformlarında, War Walker'larda, Vyper'larda ve Falcon ile Wave Serpent gibi antigrav araçlarda monte edilmiş hâlde kullanılır. Craftworld ordularının zırhlı düşmana karşı en güvendiği silahlardandır.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>
+Bright Lance, Aeldari'nin en ünlü ve en ölümlü tank-savar silahıdır; onların Aeldari'nin en güçlü ve en ölümlü lazer silahı olan ve onun en zorlu savaşlarını yapan Bright Lance, Aeldari'nin en güçlü ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en ölümlü tank-savar silahıdır. Bright Lance'in en büyük özelliği, onun gücüdür — onlar, Aeldari'nin en güçlü lazer silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Bright Lance, hem bir silah hem de bir tank-savardır ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Bright Lance'in en ünlü özelliği, onun tankları yok etmesidir — onlar, Aeldari'nin en güçlü ve en ölümlü tank-savar silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Bright Lance, Aeldari'nin en ünlü ve en ölümlü tank-savar silahıdır — onlar, bir gücün ve Aeldar

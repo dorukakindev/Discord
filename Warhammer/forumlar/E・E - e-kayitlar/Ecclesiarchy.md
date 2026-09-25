@@ -12,6 +12,10 @@ Ecclesiarchy'nin gücü, milyarlarca insanın gündelik hayatını biçimlendirm
 
 Ansiklopedik açıdan, Emperor'un gerçekten bir tanrı olup olmadığı sorusu yayımlanmış kanonda kasıtlı olarak belirsiz bırakılmıştır. İnananların mucize saydığı olaylar, Warp'taki inanç gücüyle ilişkili olabilir; ancak bu bir açıklama değil, kaynakların açık bıraktığı bir sorudur. Bu kanal, inanç iddialarını Ecclesiarchy'nin bakış açısı olarak aktarır.
 
+## Tarihçe
+
+Ecclesiarchy, İmparatorluk'un en önemli ve en güçlü dini organizasyonudur — İmparator'un dinini yöneten organizasyondur. Bu organizasyon, İmparatorluk'un en önemli ve en güçlü dini organizasyonudur; E
+
 ## Kökenler: Lectitio Divinitatus'tan Devlet Dinine
 Great Crusade döneminde Imperium'un resmî ideolojisi, dini ve batıl inancı reddeden Imperial Truth idi; Emperor'un kendisi de tanrı olarak tapınılmayı açıkça reddediyordu. Buna karşın seferin askerleri ve memurları arasında, Emperor'u ilahî bir varlık olarak gören gizli bir inanç yayılmaktaydı. Bu hareketin kutsal metni olarak anılan *Lectitio Divinitatus*, Horus Heresy romanlarında elden ele dolaşan yasak bir broşür olarak görünür. *The First Heretic*, Lorgar'ın ve Word Bearers'ın Emperor'a tapınma tutkusunu ve bunun yol açtığı kırılmayı işler; sonraki kaynaklar metnin kökenini de Lorgar'a bağlar. Böylece Imperial Cult'ın tohumlarından birinin, sonradan Chaos'a dönecek bir Primarch'ın imanından filizlendiği ironik bir tablo ortaya çıkar.
 

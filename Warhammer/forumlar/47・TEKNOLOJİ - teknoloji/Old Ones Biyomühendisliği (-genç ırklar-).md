@@ -15,12 +15,8 @@ Old Ones teknolojisinin mekanik olmaktan çok biyolojik ve psişik nitelikte old
 
 ## Tarihçe
 
-Kaynakların güvenle andığı iki örnek öne çıkar. Aeldari'nin güçlü psişik yetenekleri, Old Ones'ın Warp'ı bir silah olarak kullanma arayışıyla ilişkilendirilir. Güncel Ork anlatısı ise bugünkü Ork'ları, War in Heaven için savaş türü olarak tasarlanan Krork'un bozulmuş, küçülmüş torunları olarak kabul eder.
+Old Ones, Warhammer 40k evreninde bilinen en eski ve en güçlü ırktı; milyonlarca yıl önce galaksiyi dolaşıp yaşamı eken, Warp'ı şekillendiren ve ırklar yaratan bir tür tanrı-mühendislerdi. Ork'ları, Eldari'yi, Jokaero'yu ve muhtemelen insanlığın ilkel atalarını onlar yarattı ya da yönlendirdi; Necrontyr'ı ise C'tan'la yaptıkları büyük savaşta — War in Heaven — yenmek için silah olarak kullandılar. Savaş sonunda C'tan'lar yenilip parçalandı ama Old Ones da tükendiler; mirasları Webway, Ork ve Eldari genetik yapıları ve galaksideki yaşam dokusudur. Bugün Old Ones'tan geriye ne kaldığı bilinmiyor — belki hiçbiri yok, belki Webway'in derinliklerinde ya da başka boyutta sürüyorlar. İmparatorluk onları neredeyse hiç bilmez; bilgi Eldari'nin mitolojisinde ve Necron kronolojisinde saklıdır.
 
 ## Kanon Notu
 
-Old Ones hakkında doğrudan, ayrıntılı bir tasvir sunan kaynak yayımlanmamıştır. Aeldari ve Krork dışındaki türlerin Old Ones eseri olduğu iddiaları çoğunlukla ima ya da fan yorumudur; Old Ones'ın Slann ile özdeşliği güncel kaynaklarca doğrulanmaz.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Orks — 10th Edition*
-
--# İlişkili kayıtlar: <#1551817636516470845>, <#1551649070286897172>, <#1551810506078290021>, <#1551759766966116383>
+Old Ones hakkında doğrudan, ayrıntılı bir tasvir sunan kaynak yayımlanmamıştır. Aeldari ve Krork dışındaki türlerin Old Ones eseri olduğu iddiaları çoğunlukla ima ya da fan yorumudur; Old Ones'ın Slann ile özdeşliği güncel kaynaklarca d

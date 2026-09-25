@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4c/Inquisitor_Jaq_Draco.
 
 ## Tarihçe
 
-Jaq Draco, 38. Binyıl sonu ile 39. Binyıl başında aktif olan Ordo Malleus'un gizli Inquisitor'üydü; Inquisition'un yüksek rütbeli üyelerini içeren 'Ordo Hydra' adlı yaygın komployu ortaya çıkardığı ve İmparator'un Kadim Düşünce'sine dair son derece hassas bilgilere ulaştığı söylenir. Yüzündeki gizemli Ordo Hydra dövmesiyle bilinen bu figür, 'kendi kurumunun sırrını çözen' efsanevi dedektif olarak Inquisition tarihinin en karanlık dosyasını taşır.
+Jaq Draco, Inquisition'ın en gizli ve en tehlikeli üyesidir; Ordo Malleus'un en deneyimli Inquisitor'u olan ve daemon'ları avlayan en gizli ajan olan Draco, İmparatorluğun en büyük koruyucusu ve en gizli gücüdür — onlar, Inquisition'ın en gizli ve en tehlikeli üyesidir. Jaq Draco'nun en büyük özelliği, onun gizliliğidir — onlar, Inquisition'ın en gizli operasyonlarını yapan en tehlikeli ajandır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Jaq Draco, hem bir Inquisitor hem de bir avcıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Jaq Draco'nun en ünlü özelliği, onun Ordo Malleus'un üyesidir — onlar, daemon'lara karşı savaşan en gizli ordo'nun en deneyimli üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Jaq Draco, Inquisition'ın en gizli ve en tehlikeli üyesidir — onlar, bir avcının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4f/DEReaver.jpg/revision
 
 ## Tarihçe
 
-Reavers, Drukhari'nin jetbike sürücüleridir; Commorragh'ın arenalarındaki ölümcül yarışlarda hayatta kalan bu süvariler, savaş alanında aynı vahşi hızla düşmanı keser. 'Arena'nın en hızlı katilleri' — zıpkın gibi birimler.
+Reaver, Drukhari'nin jetbike sürücüleridir; Webway'in en hızlı ve en acımasız savaşçıları olarak bilinirler ve Commorragh'ın arena yarışlarında ünlenmişlerdir. Reaver'ların yaşam tarzı hızdır — motorlarına, silahlarına ve kendi bedenlerine sürekli modifikasyon yaparlar ve en büyük zevkleri düşmanı yüksek hızda kesmek veya çarpmaktır. Savaşta Reaver'lar düşman saflarını delip geçer, çarpıp kaçar ve geri döner; silahları genelde blaster veya splinter rifle'dır ama asıl silahları motorlarının kendisidir — bir Reaver'ın jetbike'i hem araç hem silahtır. Reaver'lar arena şampiyonlarıdır ve Commorragh'ın en ünlüleridir — bir Reaver'ın ölümü, onun yarış kariyerinin en büyük anıdır ve bu yüzden en tehlikeli manevraları bile gözü kapalı yaparlar.
 
 -# Kaynaklar: *Drukhari Codex*
 -# İlişkili kayıtlar: <#1552848892280836096>

@@ -16,7 +16,7 @@ Chaos'u ilk kez bir din olarak örgütleyen Legion'ın yurdu. Kaynaklar Sicarus'
 
 ## Tarihçe
 
-Scouring'den sonra Word Bearers, Sicarus'u Long War'un ruhani merkezi hâline getirdi. Daemon Primarch Lorgar'ın uzun binyıllar boyunca Sicarus'taki tapınağına kapanarak daemonoloji ve Chaos tanrılarının iradesi üzerine tefekküre daldığı kaydedilir. Legion'ın savaş grupları buradan çıkarak Imperial dünyalara hem kılıç hem de öğreti taşır.
+Sicarus, Chaos'un en korkulan ve en yozlaşmış dünyasıdır; Eye of Terror'da bulunan ve Word Bearers'ın evidir — onlar, Chaos'un en fanatik ve en tehlikeli dünyasıdır. Sicarus'un en büyük özelliği, onun dini önemidir — onlar, Word Bearers'ın evidir ve onların varlığı, Chaos'un dininin merkezidir; bir Sicarus, bir tapınak ve bir mezardır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Sicarus'un en ünlü özelliği, onun Word Bearers'ın evidir — onlar, Lorgar'ın Legion'unun evidir ve onların varlığı, bir Legion'un düşüşünün ve bir dinin doğuşunun kanıtıdır. Sicarus, Chaos'un en fanatik ve en tehlikeli dünyasıdır — onlar, Chaos'un dininin merkezinin somut halidir.
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Dark Apostle — Anthony Reynolds*
 

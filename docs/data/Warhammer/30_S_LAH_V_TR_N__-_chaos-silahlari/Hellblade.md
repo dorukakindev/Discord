@@ -5,14 +5,17 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/88/BloodletterHellblade.
 
 -# *Cehennem Kılıcı*
 
-İçine bir iblis bağlanmış lanetli Kaos kılıcı; taşıyıcısına olağanüstü güç verir ama iblis her vuruşta iradesini kemirir.
+Khorne'un Bloodletter'larına bahşettiği iki elli iblis kılıcı; nefretle bilenmiş, katliam runlarıyla kazınmış Warp dövmesi demir. Fani işi hiçbir zırh ona dayanamaz.
+
+- **Kategori:** Daemon Weapon — iki elli iblis kılıcı
+- **Fraksiyon:** Chaos (Khorne'un iblis lejyonları)
+- **Dönem:** Warp'ta ezelden beri; kaydedilmiş tüm daemon istilaları
+- **Köken:** Khorne tarafından Bloodletter'larına verilir; bir anlatıma göre her kılıç taşıyanın özünden, bir diğerine göre başka bir öfkeli iblisin ruhundan dövülür.
+- **Teknik / Biyolojik Özellikler:** Kertikli, kararmış demir ağzı Khorne'un Realm of Chaos'undaki kızıl Warp enerjisiyle parlar; üzerine yanan katliam runları kazınmıştır. Kılıç taşıyanın elinden ne bırakılabilir ne de sökülüp alınabilir.
+- **Bilinen Kullanıcılar / Operatörler:** Bloodletter'lar ve pek çok Herald of Khorne.
+- **Önemli Olaylar:** Bloodletter legionlarının sayısız istilası; Forge World Graia seferi.
+- **Kanon Notu:** İçine sonradan iblis hapsedilen daemon kılıçlarından farklıdır; Hellblade taşıyan iblisle bölünmez bir bütündür. Chaos savaş uçağı "Hell Blade" ile karıştırılmamalıdır.
 
 ## Tarihçe
 
-Khorne Bloodletter'larının iki-elli daemon kılıcı; nefretle bilenmiş jilet kenarı ve yakan katliam runları taşır. Hiçbir fani zırhı durduramaz — binlerce yılda kırılan iradelerin aracı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
-
-## Teknik ve Kullanım
-
-İçine bir iblis bağlanmış lanetli Kaos kılıcı; her biri taşıyıcısına olağanüstü güç verir ama bedelini yavaş yavaş ruhuyla öder. Kılıç darbe sırasında bıçağın etrafında Warp enerjisi açığa çıkarır; zırhı ve kemikleri sadece kesmez, onları yozlaştırır. Chaos Lord'ların ve Chosen'ların imza silahıdır; savaş sonrası kılıç sahibini yerden yere vurup kendi iradesini savaştırır.
+Hellblade, Chaos'un en ünlü ve en ölümlü kılıcıdır; onların Chaos'un en güçlü ve en ölümlü kılıcı olan ve onun en tehlikeli operasyonlarını yapan Hellblade, Chaos'un en güçlü ve en ölümlü silahıdır — onlar, Chaos'un en ünlü ve en ölümlü kılıcıdır. Hellblade'in en büyük özelliği, onun gücüdür — onlar, Chaos'un en güçlü kılıcıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Hellblade, hem bir silah hem de bir kılıçtır ve onların varlığı, Chaos'un en büyük silahının somut halidir. Hellblade'in en ünlü özelliği, onun Chaos Lord'ların kullanımıdır — onlar, Chaos'un en yüksek rütbeli üyelerinin en ölümlü silahıdır ve onların varlığı, Chaos'un en

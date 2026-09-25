@@ -16,8 +16,4 @@ Imperial Knights'ın karanlık aynası. Throne Mechanicum aracılığıyla pilot
 
 ## Tarihçe
 
-Heresy'de Molech'teki House Devine'ın Horus'a geçişi bilinen en ünlü örnektir. Sonraki binyıllarda bazı haneler Eye of Terror'a çekildi ya da kendi dünyalarında Chaos'a düştü. Era Indomitus'ta Black Legion ve diğer güçlerle birlikte savaşan haneler daha görünür oldu.
-
--# Kaynaklar: *Codex: Chaos Knights*; *Vengeful Spirit — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551743981778640899>, <#1551753465900961795>, <#1551818501625483265>, <#1551812165172994160>
+Chaos Knights, İmparatorluğun en eski ve en yozlaşmış savaş gücüdür; Imperial Knights'ın Chaos'a düşmüş versiyonudur ve onların savaş doktrini, hem şövalyelik hem de Chaos'un yozlaşması üzerine kuruludur — onlar, İmparatorluğun en trajik ve en tehlikeli düşmanıdır. Chaos Knights'ın en büyük özelliği, onların yozlaşmasıdır — onlar, bir zamanlar İmparatorluğun en onurlu savaşçılarıydı ama Chaos'a düştüler; bir Chaos Knight, hem bir şövalye hem de bir köledir ve onların savaşı, hem onurlu hem de yozlaşmış bir mücadeledir. Chaos Knights'ın en ünlü özelliği, onların Chaos'a adanmışlığıdır — onlar, Khorne, Tzeentch, Nurgle veya Slaanesh'e adanmışlardır ve onların savaşı, hem fiziksel hem de dini bir mücadeledir; bir Chaos Knight, bir tanrının kölesidir ve onların varlığı, Chaos'un en büyük zaferidir. Chaos Knights, İmpar

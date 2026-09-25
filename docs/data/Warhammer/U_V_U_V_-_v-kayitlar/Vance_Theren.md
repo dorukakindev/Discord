@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3e/Vance_Theren.png/revi
 
 ## Tarihçe
 
-Vance Theren, İmparatorluğun Jericho Reach'i geri almak için düzenlediği Achilus Seferi'nde görevli bir Lord Commissar'dır. Commissar'ların çoğundan farklı olarak askerlerine karşı alışılmadık derecede merhametlidir; disiplini korku yerine itaat ve inanç üzerine kurar. Bu yumuşak ünü, Tetrarchus'un sert savaş makinesi içinde onu tartışmalı kılsa da, birliklerinin direncini artıran 'insan yaklaşımı'nın işe yaradığını kanıtlamıştır. Saha komutanları arasında 'ordunun vicdanı' olarak bilinir.
+Vance Theren, İmparatorluğun en ünlü ve en katı komutanıdır; 'By the authority I bear in the God-Emperor's Name, you are charged with cowardice in the face of the enemy' diyen ve İmparatorluğun en katı adaletini uygulayan Theren, İmparatorluğun en katı ve en korkulan komutanıdır — onlar, İmparatorluğun en ünlü ve en katı komutanıdır. Vance Theren'in en büyük özelliği, onun katılığıdır — onlar, İmparatorluğun en katı adaletini uygulayan ve korkaklığı affetmeyen en korkulan komutandır ve onların varlığı, İmparatorluğun en büyük disiplininin kanıtıdır; bir Theren, hem bir savaşçı hem de bir yargıçtır ve onların savaşı, hem fiziksel hem de adli bir mücadeledir. Vance Theren'in en ünlü özelliği, onun katılığıdır — onlar, İmparatorluğun en katı adaletinin en korkulan uygulayıcısıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Vance Theren, İmparatorluğun en ünlü ve en katı komutanıdır — onlar, bir adaletin ve İmparatorluğun en büyük disiplininin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057439593664606>

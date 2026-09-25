@@ -16,8 +16,6 @@ Webway'in labirentinde, gerçek uzayın dışında büyüyen Drukhari başkenti.
 
 ## Tarihçe
 
-Kent, Fall'u Webway'in korumasında atlattı. Kaynaklara göre köle olarak dünyaya gelmiş Asdrubael Vect, Kabal adını verdiği örgütlenmeyle eski hanedanları çökertip kendini Supreme Overlord ilan etti. Kentin koruyucu duvarlarının çöküp Warp varlıklarının içeri taştığı felaketler Dysjunction olarak anılır. Arenada ölüp Ynnead tarafından diriltildiği söylenen Yvraine'in dönüşü yeni bir Dysjunction'a yol açtı ve Ynnari hareketi buradan doğdu.
+Commorragh, Drukhari'nin en büyük ve en korkulan şehridir; Webway'in en karanlık köşesinde bulunan ve Drukhari'nin en yozlaşmış ve en tehlikeli evidir — onlar, Aeldari'nin en karanlık ve en tehlikeli evidir. Commorragh'ın en büyük özelliği, onun karanlığıdır — onlar, Webway'in en karanlık köşesinde bulunur ve onların varlığı, Drukhari'nin en yozlaşmış gücünün merkezidir; bir Commorragh, bir şehrin en karanlık halidir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Commorragh'ın en ünlü özelliği, onun kabal'larıdır — onlar, Drukhari'nin suç örgütleridir ve onların varlığı, Drukhari'nin en tehlikeli gücünün kanıtıdır; bir Commorragh kabal'ı, hem bir suç örgütü hem de bir savaş birliğidir. Commorragh, Drukhari'nin en karanlık ve en tehlikeli evidir — onlar, Aeldari'nin en büyük trajedisinin somut halidir.
 
--# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Renegade — Andy Chambers*; *Gathering Storm II: Fracture of Biel-Tan*
-
--# İlişkili kayıtlar: <#1551997841356881980>, <#1551993959876657192>, <#1552483346846715924>, <#1551754688008032321>
+-# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Renegade — Andy Chambers*; *Ga

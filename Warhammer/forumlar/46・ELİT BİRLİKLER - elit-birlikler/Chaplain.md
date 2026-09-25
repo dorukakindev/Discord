@@ -14,6 +14,4 @@ Savaşta Chaplain, 'Crozius Arcanum' kılıcı ve 'Rosarius' kalkanıyla ön saf
 
 ## Tarihçe
 
-Chapter'ın din adamı ve disiplin bekçisi; savaş ayinlerini yöneten, ruhları ayakta tutan siyah zırhlı rahip. İnanç ve öfke dengesinin sahibi.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Chaplain, Space Marine Chapter'ının ruhani lideri ve moral bekçisidir; savaşçıların inancını, disiplinini ve Chapter'a bağlılığını koruyan ve aynı zamanda düşmana ölümü getiren kara zırhlı rahip-savaşçıdır. Chaplain'ler siyah zırh ve skull-mask ile tanınır; ellerinde Crozius Arcanum (kutsal savaş topuzu) ve rosarius (koruyucu alan jeneratörü) taşır. Görevleri sadece ibadet değil — savaş öncesi savaşçılar

@@ -17,5 +17,7 @@ Kovan Zihni, türün her kıvılcımını yüzlerce ışık yılına yayılan te
 
 Kovan Zihni yaklaşırken Warp'a boğucu bir gölge yayar (Shadow in the Warp), iletişimi keser ve psyker'ları susturur; gelişi, soğuk ve aç bir sessizliktir. Onu durdurmak neredeyse imkansızdır, çünkü bir komutan değil, bir doğa gücüdür; bir dünyayı yutar ve sonraki avına geçer. Hive Mind, evrenin insanlığa ya da herhangi bir uygarlığa kayıtsız, sadece açlıkla hareket eden yüzünün somut halidir; benlik, merhamet ya da müzakere tanımayan, tüm biyokütleyi tüketmek için var olan tek bir engin, kişiliksiz iradedir.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
--# Çapraz: Warp'taki Gölge · Genestealer · Sinaps Yaratığı · Tyranid
+
+## Tarihçe
+
+Hive Mind, Tyranid ırkının kolektif bilincidir; galaksinin dışından gelen, trilyonlarca Tyranid organizmasını tek bir iradeye bağlayan saf psişik varlık. Bir Tyranid'in zihni yoktur — sadece Hive Mind'ın emirlerini işleyen bir sinir düğüm

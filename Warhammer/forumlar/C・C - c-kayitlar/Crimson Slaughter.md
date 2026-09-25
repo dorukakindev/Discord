@@ -38,6 +38,10 @@ Tek çare olarak kan kalır. Yeni bir katliam, sesleri bir süreliğine susturur
 
 Lanetin doğası kaynaklarda kesinleştirilmez. Bir yoruma göre Umidia'nın ölülerinin ruhları Warp'ta Chapter'a yapışmış ve onu bırakmamaktadır; bir başka yoruma göre bu sesler, katliamın açtığı yaradan sızan daemon'ların oyunudur; kimi okumalar ise psişik bir çöküşün ya da bastırılmış bir suçluluğun Warp'la birleşerek ete kemiğe bürünmesini önerir. Kanon bu soruyu kasıtlı olarak açık bırakır ve kanal da bunlardan birini hakikat diye sunmaz. Açık olan tek şey, Chapter'ın bu lanetle Chaos'a doğru adım adım sürüklendiğidir.
 
+## Tarihçe
+
+Crimson Slaughter, Chaos'a düşmüş bir Space Marine Chapter'ıdır; eski adıyla Crimson Sabres olan ve Khorne'un etkisiyle delirtilen bu Chapter, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onların savaşı, sadece kan ve ölümdür. Crimson Slaughter'ın düşüşü, onların lanetidir — onlar, Uziel Drear'ın Chaos'a düşmesiyle birlikte delirttiler ve onların savaşı, artık sadece Khorne'a kan sunmaktır; bir Crimson Slaughter savaşçısı, hem bir savaşçı hem de bir d
+
 ## Renegade Yaşam: Kranon ve Kanlı Seferler
 Crimson Slaughter'ın başında kaynaklarda **Kranon the Relentless** adıyla anılan Chapter Master bulunur. O, düşüşün hem yöneticisi hem de sembolüdür: Chapter'ı Imperium'un yargısına teslim etmek yerine yeni bir var oluşa taşıyan, lanetle yaşamanın bir düzenini kuran bir önderdir. Kişiliğine ve geçmişine dair ayrıntılar sınırlıdır; bu yüzden onu tarihsel bir portre gibi değil, Chapter'ın kolektif yazgısının yüzü olarak okumak daha güvenlidir.
 

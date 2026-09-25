@@ -14,8 +14,8 @@ Bütün Navigator Houses'ın üzerinde duran, Terra'da yaşayan ve nadiren gör�
 
 ## Tarihçe
 
-Paternova ya da onun temsilcisi bazı kaynaklarda High Lords of Terra arasında sayılır. Makamın el değiştirmesi Houses arasında entrika, suikast ve evlilik ittifaklarıyla örülü bir güç mücadelesine dönüşür; bu çekişmeler çoğu zaman Terra'nın öteki kurumlarını da içine çeker. Paternova'nın gözlerden uzak yaşaması, çevresinde söylentilerin ve efsanelerin birikmesine yol açar.
+Paternova, İmparatorluğun en gizli ve en önemli figürüdür; onların İmparatorluk'un en gizli ve en önemli figürü olan ve onun en gizli operasyonlarını yöneten Paternova, İmparatorluğun en gizli ve en önemli varlığıdır — onlar, İmparatorluğun en gizli ve en önemli figürüdür. Paternova'nın en büyük özelliği, onun gizliliğidir — onlar, İmparatorluk'un en gizli ve en önemli figürüdür ve onların varlığı, İmparatorluğun en gizli gücün��n kanıtıdır; bir Paternova, hem bir figür hem de bir sırdır ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Paternova'nın en ünlü özelliği, onun Navigator Houses'a bağlıdır — onlar, İmparatorluğun en gizli ve en önemli figürüdür ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Paternova, İmparatorluğun en gizli ve en önemli figürüdür — onlar, bir gizliliğin ve İmparatorluğun en büyük sırrının somut halidir.
 
 -# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Warhammer 40,000 Core Book — 10th Edition*
 
--# İlişkili kayıtlar: <#1551651548713455758>, <#1551809168032268310>, <#1551810643785687071>, <#1551815272074055681>
+-# İlişkili kayıtlar: <#1551651548713455758>, <#1551809168032268310>, <#1551

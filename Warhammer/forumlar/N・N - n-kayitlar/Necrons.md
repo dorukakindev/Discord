@@ -59,6 +59,10 @@ Savaşta Necron'lar sabırlı ve amansızdır. **Gauss** teknolojisi hedefi atom
 
 Warp'la bağlarının kopukluğu, onları psişik saldırılara karşı dirençli kılarken aynı zamanda Aeldari ve Imperium'un Warp'a dayalı teknolojilerine karşı farklı bir savaş yolu sunar.
 
+## Tarihçe
+
+Necrons, WH40K evreninin en eski ve en tehlikeli xeno ırkıdır; altmış milyon yıl önce yıldız tanrılarına (C'tan) hizmet etmek için bedenlerini metal yapıya çeviren ve şimdi uyandıklarında tüm yaşamı yok etmek isteyen mekanik bir ırktır — onlar, İmparatorluğun en eski ve en kaçınılmaz düşmanıdır. Necrons'un en büyük özelliği, onların ölümsüzlüğüdür — onlar, bir Necron öldürülse bile, onun bedeni kendi kendini tamir eder ve geri döner; bir Necron ordusu, sadece yok edilemez, aynı zamanda geri döner v
+
 ## Önemli Figürler
 **Szarekh, the Silent King.** Necrontyr'in son hükümdarı; halkını C'tan'a satan kararın da, C'tan'ı parçalayan ihanetin de sahibidir. Great Sleep'ten önce halkını komuta protokollerinden azat edip sürgüne çekilmiştir. Güncel anlatıda dönüşü, Necron tarihinde bir dönüm noktasıdır.
 

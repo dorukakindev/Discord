@@ -18,6 +18,6 @@ Her Aeldari'nin göğsünde taşıdığı canlı kristal; ölümde ruhu Slaanesh
 
 ## Tarihçe
 
-Soulstone, her craftworld Aeldari'sinin taşıdığı, kendi ruhuyla rezonansa giren kristaldir; taşıyan ölürse ruhu taşın içine geçer ve Slaanesh'in pençesinden kurtulur. Boş taşlar Croneworld'lerde — Fall'un merkezinde — toplanır ve oraya giden her kâşif daemonların arasından taş kurtarır. Aeldari'nin ölümsüzlük planının tek gerçek adımı budur.
+Soulstone (Waystone), Aeldari'nin ruhunu Slaanesh'ten koruyan taştır; her Eldari hayatı boyunca birini taşır ve ölürken ruhu otomatik olarak taşa bağlanır. Taş, Craftworld'e götürülünce ruh Infinity Circuit'e aktarılır ve ölüler orada kolektif bilinç olarak yaşar — yaşayanlara rüya ve sezgi yoluyla rehberlik ederler. Waystone olmadan ölen Eldari ruhu doğrudan Warp'a ve Slaanesh'e düşer; bu yüzden taşın kaybı, çalınması veya kırılması bir Eldari için ölümden beterdir. Taşlar Craftworld'de yetiştirilir ve her biri eşsizdir; bir Eldari'nin taşı, onun kimliği kadar kişiseldir. Wraith yapımları (Wraithguard, Wraithlord, Wraithknight) da spirit stone'lara bağlı ölü ruhların bedenlendirildiği savaş makineleridir — Eldari ölüleri savaşta bile yaşayanlara hizmet eder.
 
 -# Kaynaklar: *Codex: Aeldari*; Warhammer 40,000 — Lexicanum derlemesi

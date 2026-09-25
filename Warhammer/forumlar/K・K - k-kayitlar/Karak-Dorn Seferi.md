@@ -18,6 +18,6 @@ Rogal Dorn'un son kampanyası; Chaos filosuna yapılan intihar saldırısında k
 
 ## Tarihçe
 
-Karak-Dorn, Rogal Dorn'un son savaşıdır: M31 sonrası bir Chaos filosu Cadia yakınlarında görüldüğünde, yaşlanan primarch filoya tek başına boarding attack yaptı. Gemi yok edildi ama Dorn'un cesedi asla bulunamadı — yalnızca kesik eli geri döndü ve bugün Imperial Fists'in en kutsal emaneti olarak saklanır. 'Dorn öldü mü?' sorusu hâlâ açıktır; Chapter onu 'ölü değil, görevde' sayar.
+Karak-Dorn Seferi, İmparatorluğun 41. binyılının son dönemlerinde yürütülen en gizli ve en ölümcül operasyonlarından biriydi. Sefer, İmparatorluk güçlerinin büyük bir Chaos komplosunu bozmak amacıyla Karak-Dorn sistemine gönderilmesiyle başladı ve Imperial Guard ile Space Marine birliklerinin ortak harekâtı şeklinde yürütüldü. Operasyon boyunca İmparatorluk kuvvetleri, Chaos'un sektörü ele geçirmesini engellemek için birçok savaşa girdi ve ağır kayıplar verdi. Seferin sonunda İmparatorluk güçleri komployu durdurmayı başardı; ancak verilen zayiat ve ortaya çıkan Chaos etkisi, bu seferin Imperialis tarihindeki en karanlık sayfalardan biri olmasına neden oldu.
 
 -# Kaynaklar: *Codex: Imperial Fists*; Warhammer 40,000 — Lexicanum derlemesi

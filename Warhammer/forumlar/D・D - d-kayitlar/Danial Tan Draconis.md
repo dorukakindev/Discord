@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/44/House_Draconis.jpg/re
 
 ## Tarihçe
 
-Danial Tan Draconis, hem House Draconis'in mevcut lideri hem de Knight World Adrastapol'un yüksek kralıdır — tüm Majestis Sistemi üzerinde egemenlik taşıyan seçilmiş makam. Zor koşullarda tahta çıktı: babası, önceki yüksek kral, Donatos Savaşı'nda ihanet eden House Chimaeros'un elinden düştü. 'Genç kral' olarak hanesini krizden çıkarıp İkinci Ork Savaşı'nda Killfist'i bizzat öldüren figür — şövalye siyasetinin ve savaşın merkezindeki lider.
+Danial Tan Draconis, İmparatorluğun en ünlü ve en saygın Knight lord'udur; House Draconis'in lideri ve Adrastapol'ün yüksek kralı olan Draconis, İmparatorluğun en büyük Knight hanedanının en saygın lideridir — onlar, İmparatorluğun en ünlü ve en saygın Knight lord'udur. Danial Tan Draconis'in en büyük özelliği, onun liderliğidir — onlar, bir Knight hanedanının ve bir Knight World'ün lideridir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Draconis, hem bir Knight hem de bir kraldır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Danial Tan Draconis'in en ünlü özelliği, onun Adrastapol'un kralıdır — onlar, bir Knight World'ün en yüksek lideridir ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Danial Tan Draconis, İmparatorluğun en ünlü ve en saygın Knight lord'udur — onlar, bir kralın ve İmparatorluğun en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

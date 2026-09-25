@@ -16,8 +16,6 @@ Ork'ları ya da nesneleri bir noktadan ötekine ışınlayan, güvenilirliği Me
 
 ## Tarihçe
 
-War of the Beast anlatısında Beast'in Ork'ları, Imperium'u sarsan gravitasyon silahları ve teleport teknolojisiyle anılır; bu, Ork teknolojisinin yeterince büyük bir Waaagh! altında ne ölçüde yükselebileceğinin en ürkütücü örneklerindendir. Big Mek'lerin bireysel teleport silahları da bu geleneğin küçük ölçekli uzantılarıdır.
+Tellyporta, Ork'ların Warp üzerinden maddeleri taşıyan teleport sistemidir; Mekboy'ların en çılgın ve en tehlikeli icadıdır. Imperial Teleportarium'dan farklı olarak Tellyporta devasa ölçekte çalışır — bir Ork ordusunu, Gargant'ı veya Rok'u tek seferde ışınlayabilir; ama isabet oranı düşüktür ve ışınlanan Ork'ların yarısı havada, yerde veya birbiriyle kaynaşmış olarak çıkabilir. Ork'lar bu sorunu 'yeterince gönder, bazıları tutar' felsefesiyle çözer — bir Tellyporta saldırısı kaotik bir yağmurdur: gökten düşen Deff Dread'ler, kayalara çarpan Boy'lar ve içinden savaş alanına süzülen Gargant'lar. Büyük Mek Boss'lar Tellyporta'yı stratejik silah olarak kullanır — Ghazghkull'un Armageddon'daki saldırılarında Tellyporta ile devasa kuvvetler yörüngeden düşürüldü. Teknoloji WAAAGH! alanına bağlıdır; Ork bilinci ona inandığı sürece fizik boyun eğer.
 
--# Kaynaklar: *Codex: Orks — 10th Edition*; *I Am Slaughter — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551809818250182657>
+-# Kaynaklar: *Codex: Orks — 10th Edition*; *I Am Slaughter

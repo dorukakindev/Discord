@@ -10,6 +10,10 @@ Navigator Houses, Imperium'dan çok daha eskidir. Kökenlerinin Dark Age of Tech
 
 Emperor'un yükselişiyle birlikte Houses, Imperium'a katılmanın karşılığında geniş ayrıcalıklar ve Warp yolculuğu üzerinde fiilî bir tekel elde etti. Kısa ve tehlikeli sıçramalarla sınırlı kalan Navigator yeteneği, Terra'dan yayılan **Astronomican**'ın ışığıyla galaksinin uzak köşelerine ulaşabilen bir güce dönüştü. Great Crusade, bu ittifak olmadan düşünülemezdi.
 
+## Tarihçe
+
+Navis Nobilite, İmparatorluğun Navigator hanedanlarının oluşturduğu soylu kastdır; Warp'ta seyahat edebilen tek insan soyu oldukları için İmparatorluğun en güçlü ve en kapalı kurumlarından biridir — onlar olmadan İmparatorluk felç olur. Navis Nobilite'in kökeni Dark Age of Technology'ye dayanır — Navigator geni laboratuvarda üretildi v
+
 ## Biyoloji: Warp Gözü
 Bir Navigator'ı sıradan insandan ayıran şey alnındaki üçüncü göz, yani **warp eye**'dır. Bu göz maddi dünyayı değil Immaterium'u görür; Navigator onunla Warp'ın akıntılarını okur ve Astronomican'ın ışığını seçer. Göz çoğunlukla bir bant, başlık ya da süslü bir örtüyle kapalı tutulur, çünkü doğrudan bakışının sıradan bir insanı öldürebildiği anlatılır. Pek çok kaynakta Navigator'ların bu bakışı hem kendini koruma aracı hem de korku salan bir ün olarak kullandığı görülür.
 

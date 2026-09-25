@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/83/TalasaSystemEraIndomi
 
 ## Tarihçe
 
-Talasa Secundus, Ultramar Krallığı'nın Talasa Sistemi'ndeki en kalabalık Hive World'ü ve 'Savaş Dünyası'dır — sivillerin silah eğitimi aldığı gezegen. 13. Kara Sefer sırasında Abaddon'un kuvvetleri buraya saldırdı; Era Indomitus'taki Veba Savaşları'nda bu kez Death Guard tarafından kuşatıldı ve Silver Templars ile Novamarines'in ortak harekâtıyla Nurgle'ın elinden kurtarıldı. İki büyük kuşatmayı atlatmış 'dayanıklı' Ultramar dünyası olarak bilinir; kaybı Ultramar'ın doğu kapısını açardı.
+Talasa Secundus, İmparatorluğun en önemli ve en stratejik dünyalarından biridir; Segmentum Ultima'da bulunan ve İmparatorluğun doğu sınırının savunmasında kritik rol oynayan bir dünyadır — onlar, İmparatorluğun doğu sınırının en önemli noktasıdır. Talasa Secundus'un en büyük özelliği, onun stratejik konumudur — onlar, İmparatorluğun doğu sınırında bulunur ve onların varlığı, bir sektörün güvenliğinin merkezidir; bir Talasa Secundus savunması, bir sektörün güvenliğinin temelidir. Talasa Secundus'un en ünlü özelliği, onun tarihi önemidir — onlar, İmparatorluğun en eski ve en sadık dünyalarından biridir ve onların varlığı, İmparatorluğun geleneğinin ve sadakatinin kanıtıdır. Talasa Secundus, İmparatorluğun en önemli ve en stratejik dünyasıdır — onlar, doğu sınırının en önemli noktasının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553059873694941204>

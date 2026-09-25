@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Goreman.jpg/revision/
 
 ## Tarihçe
 
-Luthir Veremonn Goreman, Calixian Büyük Karakolunun Lord Marshal'ıdır — Calixis Sektörü'ndeki tüm Adeptus Arbites güçlerinin komutanı. Scintilla'daki Büyük Karakol Kalesi'nden yöneten bu figür, sektörün İmparatorluk hukukunun en üst yürütücüsü olarak 'kanun'un bedenidir; arbiter ordularının, mahkemelerin ve infazların efendisi.
+Luthir Veremonn Goreman, İmparatorluğun en trajik ve en önemli figürüdür; bir remembrancer olan ve Horus Heresy'nin başlangıcını gören Goreman, İmparatorluğun en trajik ve en önemli tanığıdır — onlar, İmparatorluğun en trajik ve en önemli remembrancer'ıdır. Luthir Veremonn Goreman'ın en büyük özelliği, onun tanıklığıdır — onlar, Horus Heresy'nin başlangıcını gören ve onu kaydeden en trajik remembrancer'dır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Goreman, hem bir sanatçı hem de bir tarihçidir ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Luthir Veremonn Goreman'ın en ünlü özelliği, onun rüyasıdır — onlar, Altın Taht'ın rüyasını gören ve İmparatorluğun geleceğini anlayan en trajik tanıktır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Luthir Veremonn Goreman, İmparatorluğun en trajik ve en önemli figürüdür — onlar, bir tanıklığın ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

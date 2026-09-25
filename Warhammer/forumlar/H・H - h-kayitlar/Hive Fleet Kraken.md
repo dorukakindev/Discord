@@ -18,6 +18,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Kraken_Tyranid_Warrio
 
 ## Tarihçe
 
-Hive Fleet Kraken, Second Tyrannic War'ın baş aktörüdür: Behemoth'un aksine tek darbe yerine yüzlerce küçük kol hâlinde yayılır. Iyanden craftworld'ü neredeyse yok eden oydu; Eldar ancak sürgün Prens Yriel'in son anda filosuyla dönüşüyle kurtuldu. Kraken resmen 'öldürülmedi' — dağıtıldı; kalıntıları bugün bile galaksinin karanlık köşelerinde aktiftir.
+Hive Fleet Kraken, Tyranid'in en büyük ve en korkulan filolarından biridir; İmparatorluğun en zorlu savaşlarından birini — Ichar IV ve Iyanden'in savunması — yaşatan ve neredeyse İmparatorluğu yok eden bir güçtür — onlar, Tyranid'in en büyük ve en tehlikeli filosudur. Kraken'in en büyük özelliği, onların adaptasyonudur — onlar, Imperial taktiklerine karşı bile bağışıklık geliştirir ve onların savaşı, hem biyolojik hem de evrimsel bir mücadeledir; bir Kraken ordusu, bir Imperial savunmasını bile geçebilir ve onların varlığı, bir gezegenin sonunun başlangıcıdır. Kraken'in en ünlü savaşı, Iyanden'in savunmasıdır — onlar, bir Craftworld'ü neredeyse yok ettiler ve onların savaşı, Aeldari'nin en büyük trajedilerinden biridir; bir Kraken saldırısı, bir Craftworld'ün sonunun başlangıcıdır. Hive Fleet Kraken, İmparatorluğun en büyük ve en korkulan Tyranid filosudur — onlar, yaşamın sonunun somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids*; *Iyanden: A Codex Supplement*

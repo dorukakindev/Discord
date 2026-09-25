@@ -14,6 +14,4 @@ Assassinorum'un operasyonları 'Officio' izni gerektirir ve her atama, High Lord
 
 ## Tarihçe
 
-Officio Assassinorum, İmparatorluk'un resmî suikast kurumudur; dört büyük tapınak (Vindicare, Callidus, Eversor, Culexus) farklı öldürme sanatlarında uzmanlaşır. İmparatorluk'un en gizli ve en ölümcül aracı — bir suikastçı, bir ordunun yapamayacağını tek atışta yapar.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Officio Assassinorum, İmparatorluğun resmi suikast kurumudur; dört büyük tapınaktan — Callidus (şekil değiştiren), Culexus (Pariah), Eversor (vahşi savaşçı) ve Vindicare (keskin nişancı) — oluşur ve her biri farklı bir öldürme sanatında uzmanlaşmıştır. Assassin'ler İmparatorluğun en pahalı ve en nadir silahıdır — bir Assassin'in eğitimi yıllar sürer, bedeni tamamen değiştirilir ve tek bir görev için gönderilir; bir Assassin'in maliyeti, bir gezegenin vergisine eşittir ama değeri de öyledir — bir Vindicare, bir Chaos Lord'u kilometrelerce öteden öldürebilir; bir Callidus, bir dü

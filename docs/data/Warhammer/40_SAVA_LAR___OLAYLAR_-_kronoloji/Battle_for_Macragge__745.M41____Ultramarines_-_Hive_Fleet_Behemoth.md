@@ -16,8 +16,4 @@ Imperium'un ilk büyük Hive Fleet istilasına karşı verdiği belirleyici savu
 
 ## Tarihçe
 
-Imperial filo gezegenden uzaklaştırılınca sürüler Macragge'ın kutup kalelerine indi. Kuzeyde Captain Invictus'un 1st Company'si son savaşçısına kadar direndi; güneyde Marneus Calgar, sonraki yayınlara göre Swarmlord'la çarpışıp ağır yaralandı. Kader Circe çevresinde belirlendi: Emperor-class battleship *Dominus Astra*'nın Warp sürücülerini patlatması, hive ship'lerin büyük kısmını yok etti.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: <#1551809334483361823>, <#1551809394226765939>, <#1551809577425575998>, <#1551815033518948404>
+Battle for Macragge, İmparatorluğun en büyük ve en önemli savunmasıdır; Hive Fleet Behemoth'un Macragge'e — Ultramarines'in evine — saldırısı ve Ultramarines'in en büyük direnişinin en büyük anıdır — onlar, İmparatorluğun en büyük savunmasının ve en büyük zaferinin somut halidir. Battle for Macragge'in en büyük özelliği, onun zaferidir — onlar, bir Chapter'ın en büyük savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin kanıtıdır; bir Battle for Macragge, bir gezegenin en büyük direnişinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük gücünün somut halidir. Battle for Macragge'in en ünlü özelliği, onun Ultramarines'in direnişidir — onlar, bir Chapter'ın en büyük savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Battle f

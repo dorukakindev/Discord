@@ -16,8 +16,6 @@ Abaddon the Despoiler'ın Gothic War'dan elinde kalan Blackstone Fortress'lerind
 
 ## Tarihçe
 
-Abaddon, 139.M41'de başlattığı 12th Black Crusade'de, yani Gothic War'da, Gothic Sektörü'ndeki Blackstone Fortress'leri ele geçirip uyandırmanın yolunu buldu ve bazılarıyla Eye of Terror'a çekildi. Yüzyıllar sonra 13th Black Crusade'de bu kalelerden Will of Eternity Cadia'ya düşürüldü; çarpma gezegenin kabuğunu parçaladı, pylon ağını yok etti ve Cadia'yı yaşanamaz bir enkaza çevirdi.
-
--# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Gathering Storm I: Fall of Cadia*
+Will of Eternity, Necron'ların en ünlü ve en korkulan relic'idir; bir Necron Lord'un — Necron'ların en güçlü liderleri — kullandığı ve onun en büyük savaşlarının simgesi olan bir asadır — onlar, Necron'ların en ünlü ve en korkulan hazinesidir. Will of Eternity'nin en büyük özelliği, onun gücüdür — onlar, bir Necron Lord'un en güçlü silahıdır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır; bir Will of Eternity kullanıcısı, hem bir savaşçı hem de bir ölümün somut halidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Will of Eternity'nin en ünlü özelliği, onun Necron Lord'
 
 -# İlişkili kayıtlar: <#1551811621285003315>, <#1551812139935866891>, <#1551814512657698817>, <#1551638958352506881>

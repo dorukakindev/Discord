@@ -15,7 +15,7 @@ Night Lords'un korku ve terör üzerine kurulu savaş anlayışının en ağır 
 
 ## Tarihçe
 
-Heresy boyunca Atramentar, Night Lords'un Dark Angels'la uzun ve kanlı çatışmalarında öne çıktı; *Prince of Crows* Sevatar'ın bu savaşların sonunda Dark Angels'ın eline düşüşünü işler. Legion'un Heresy sonrası dağılmasıyla Atramentar adı warband'lerde yaşamayı sürdürdü. Aaron Dembski-Bowden'ın Soul Hunter üçlemesinde Atramentar, Talos'un warband'inin bağlı olduğu Exalted'in muhafızları olarak görülür; Malek bu savaşçıların önde gelenidir.
+Atramentar, Night Lords Legion'unun en korkunç ve en sadık savaşçılarıydı; Konrad Curze'nin kişisel muhafızı ve Legion'un terör doktrininin en keskin uygulayıcılarıydı — onların görevi sadece öldürmek değil, düşmanı paralize edecek kadar korkutmaktı. Atramentar'lar Terminator zırhı giyer ve lightning claw, chainfist gibi korku silahları taşırdı; onların savaş stili sessiz, sistematik ve tamamen acımasızdı — bir Atramentar manga'sı, düşmanı karanlıkta avlar ve çığlıkları savaşın kendisi kadar önemliydi. Night Lords'un düşüşünden sonra Atramentar'lar dağıldı — bazıları Curze'nin ölümünden sonra kendi warband'lerini kurdu, bazıları sadece kayboldu; ama Atramentar adı, hâlâ terörün ve Night Lords'un en karanlık geleneğinin simgesidir.
 
 ## Kanon Notu
 
@@ -23,4 +23,4 @@ M41 Atramentar'ı ile Heresy dönemi birimi arasındaki süreklilik warband düz
 
 -# Kaynaklar: *Soul Hunter — Aaron Dembski-Bowden*; *Prince of Crows — Aaron Dembski-Bowden*
 
--# İlişkili kayıtlar: <#1551637693933289523>, <#1551650286626672722>, <#1551813077991686208>, <#1551812225570836561>
+-# İlişkili kayıtlar: <#155163769393328

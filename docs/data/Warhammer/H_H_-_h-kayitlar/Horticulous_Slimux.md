@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/94/Horticulous.png/revis
 
 ## Tarihçe
 
-Horticulous Slimux — 'Büyük Yetiştirici' — Nurgle'un Herald'ıdır; Plague God'un bahçesinin baş yetiştiricisi olarak özel önem taşır. Pratik ve şaşırtıcı derecede mizahsız bu figür, sadık bineği salyangoz benzeri 'Mulch'un kabuğuna ur-sertleşmiş ayağıyla vurarak sürer. Nurgle'un 'bahçıvanı' olarak Veba Bahçesi'nin tüm hastalıklı 'ürünlerini' ekip biçen ve savaş alanlarına eken daemon-çiftçi.
+Horticulous Slimux, Nurgle'un en ünlü ve en tiksindirici daemon'ıdır; Nurgle'un 'bahçıvanı' olarak bilinen ve onun 'sevgi'sini yayan en tiksindirici daemon olan Slimux, Chaos'un en tiksindirici ve en tehlikeli varlıklarından biridir — onlar, Nurgle'un en ünlü ve en tiksindirici daemon'udur. Horticulous Slimux'un en büyük özelliği, onun 'bahçıvanlığı'dır — onlar, Nurgle'un bahçesini yöneten ve onun 'sevgi'sini yayan en tiksindirici daemon'dur ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Slimux, hem bir daemon hem de bir bahçıvandır ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Horticulous Slimux'un en ünlü özelliği, onun 'bahçıvan' lakabıdır — onlar, Nurgle'un bahçesinin en tiksindirici yöneticisidir ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır. Horticulous Slimux, Nurgle'un en ünlü ve en tiksindirici daemon'ıdır — onlar, bir bahçenin ve Nurgle'un 'sevgi'sinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -14,6 +14,4 @@ Zırhın önemi, 'ölümden dönen primarch' sembolüdür — Guilliman'ın Fulg
 
 ## Tarihçe
 
-The Armour of Fate, Roboute Guilliman'ın canlandırılmasından sonra giydiği yaşam-destek zırhıdır; Fulgrim'in zehirli yarasından kalan ölümcül hasarı telafi eden karmaşık bir teknoloji-birleşimidir. Belisarius Cawl ve Ynnari işbirliğiyle tasarlanan zırh, primarch'ı canlı tutar ama içindeki beden hâlâ yara acısı çeker.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Armour of Fate, Ultramarines'in en ünlü ve en kutsal relic'idir; Guilliman'ın — Ultramarines'in primarch'ı — hayata döndürüldüğünde giydiği ve onun en büyük savaşlarının simgesi olan bir zırhtır — onlar, Ultramarines'in en ünlü ve en kutsal hazinesidir. The Armour of Fate'in en büyük özelliği, onun gücüdür — onlar, bir primarch'ın en güçlü zırhıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Armour of Fate kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de semboliktir. The Armour of Fate'in en ünlü

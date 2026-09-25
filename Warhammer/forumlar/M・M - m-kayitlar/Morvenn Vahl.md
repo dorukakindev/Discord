@@ -27,7 +27,7 @@ Guilliman'la ilişkisi daha çok kurumsal bir sadakat olarak görünür. Lord Re
 
 ## Tarihçe
 
-Morvenn Vahl, Adepta Sororitas'ın Abbess Sanctorum'u — Sisters of Battle'ın en yüksek rütbesi — ve İmparatorluk'un dini-askeri gücünün başıdır. Exorcist-class Paragon Warsuit'iyle savaşan bu figür, Era Indomitus'ta Guilliman'ın ordularıyla koordineli çalışan Sororita
+Morvenn Vahl, Sisters of Battle'ın en ünlü ve en kutsal Abbess Superior'udur; İmparatorluğun en büyük din ordusunun lideri olan ve Indomitus Crusade'de İmparatorluğun en büyük zaferlerini kazanan Vahl, İmparatorluğun en kutsal ve en güçlü lideridir — onlar, Sisters o
 
 ## Paragon Warsuit ve Silahları
 Vahl'ın savaş alanındaki imgesi, Sisterhood'un nadir ve kutsal sayılan emanetlerinden **Paragon Warsuit** ile ayrılmaz biçimde bağlıdır. Paragon Warsuit'ler, Orders Militant içinde yalnızca kendini kanıtlamış savaşçılara emanet edilen, bir Sister'ı çevik bir zırhlı savaşçıya dönüştüren ağır zırh takımlarıdır. Sororitas geleneği onları birer silah olduğu kadar, taşıyıcısının imanına verilmiş bir onur olarak da görür. Kökenlerinin tam hikâyesi, yani hangi dönemde ve kim tarafından üretildikleri, kaynaklarda açık seçik anlatılmaz; arşiv bu boşluğu doldurmaz.

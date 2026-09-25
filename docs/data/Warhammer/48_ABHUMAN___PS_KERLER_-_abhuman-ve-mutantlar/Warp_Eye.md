@@ -16,8 +16,4 @@ Navigator'ın alnındaki üçüncü göz maddi dünyayı değil Immaterium'u gö
 
 ## Tarihçe
 
-Göz çoğunlukla bir bant, başlık ya da süslü bir örtüyle kapalı tutulur. Imperial anlatıma göre ona doğrudan bakan sıradan bir insan ölebilir; bu ün, Navigator'ların çevresindeki korkuyu besler. Aaron Dembski-Bowden'ın Night Lords üçlemesindeki Octavia, bu gözün bir traitor gemisinde ve Eye of Terror çevresindeki yolculuklarda nasıl kullanıldığını ve sahibini nasıl değiştirdiğini gösteren bilinen örnektir.
-
--# Kaynaklar: *Soul Hunter — Aaron Dembski-Bowden*; *Void Stalker — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551651548713455758>, <#1551652847697797191>, <#1551637693933289523>, <#1551818153271627807>
+Warp Eye, İmparatorluğun en gizli ve en tehlikeli fenomenidir; Warp'ın — Chaos'un evreni — en gizli ve en tehlikeli gözü olan ve onun en gizli operasyonlarını yöneten Warp Eye, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli fenomenidir. Warp Eye'ın en büyük özelliği, onun gizliliğidir — onlar, Warp'ın en gizli ve en tehlikeli gözüdür ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Warp Eye, hem bir fenomen hem de bir tehlikedir ve onların varlığı, Chaos'un en büyük sırrının somut halidir. Warp Eye'ın en ünlü özelliği, onun Eye of Terror'a bağlıdır — onlar, İmparatorluğun en gizli ve en tehlikeli fenomenidir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Warp Eye, İmparatorluğun en gizli ve en tehlikeli fenomenidir — onlar, bir gizliliğin ve Chaos'un en büyük sırrının somut ha

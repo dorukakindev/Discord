@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Red_Templars_Biker.jp
 
 ## Tarihçe
 
-Assault Bike, Space Marine'lerin klasik hızlı-saldırı motosikletidir; ağır bolter veya multi-melta taşıyan bu araç, keşif ve yıldırım saldırılarında kullanılır.
+Assault Bike (Space Marine Bike olarak da bilinir), Legiones Astartes ve Adeptus Astartes tarafından kullanılan bir hafif saldırı aracıdır; onun hızı ve manevra kabiliyetiyle — bir Space Marine'i taşıyabilen ve düşmanı yakın mesafede imha eden bir araçtır — onlar, Space Marine'lerin en hızlı ve en çevik kara aracıdır. Assault Bike'ın en büyük özelliği, onun hızıdır — onlar, bir Land Speeder'dan daha hızlı ve daha çeviktir; bir Assault Bike, bir düşman pozisyonunu saniyeler içinde geçebilir ve onların varlığı, bir Space Marine baskınının merkezidir. Assault Bike'ın en ünlü görevi, Space Marine'lerin çeşitli keşif ve baskın operasyonlarıdır — onlar, düşmanı izlemek ve hızlı baskınlar yapmak için kullanılırlar ve onların varlığı, bir Space Marine'ın en güvenilir aracıdır. Assault Bike, Space Marine'lerin en hızlı ve en çevik kara aracıdır — onlar, hızın ve vahşetin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

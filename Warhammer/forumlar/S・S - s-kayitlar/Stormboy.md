@@ -16,6 +16,6 @@ Rokkit pack taşıyan disiplinli-genç Ork'lar; Orkların ironik 'düzenli birli
 
 ## Tarihçe
 
-Stormboy'lar, sırtlarına bağlanmış rokkit pack'lerle göğe fırlayan genç Ork'lardır; ironik biçimde Orklar arasında 'disiplin meraklıları' sayılırlar çünkü formasyonda uçmayı severler. Savaşta düşman hatlarının üstünden atlarlar; ama rokkit'ler güvenilmezdir ve birçok Stormboy gökyüzünden düşerek şanlı bir düşüş yaşar.
+Stormboy, Ork'ların en ünlü ve en hızlı hava birliğidir; onların Ork'ların en hızlı ve en ölümlü roket birliği olan ve onun en zorlu savaşlarını yapan Stormboy, Ork'ların en hızlı ve en ölümlü varlığıdır — onlar, Ork'ların en ünlü ve en hızlı hava birliğidir. Stormboy'un en büyük özelliği, onun hızıdır — onlar, Ork'ların en hızlı roket birliğidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Stormboy, hem bir savaşçı hem de bir uçandır ve onların savaşı, hem fiziksel hem de hızlı bir mücadeledir. Stormboy'un en ünlü özelliği, onun roket sırtlı olmasıdır — onlar, Ork'ların en hızlı ve en ölümlü hava birliğidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Stormboy, Ork'ların en ünlü ve en hızlı hava birliğidir — onlar, bir hızın ve Ork'ların en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Orks*

@@ -12,6 +12,6 @@ Bir insanın kafatasının bu şekilde kullanılması, İmparatorluk için bir s
 
 ## Tarihçe
 
-Uçan kafatası robotu; kayıt, iletişim, yardım görevlerinde kullanılan küçük dron. İmparatorluk'un en bilinen 'günlük teknoloji' simgesi — ölümle hizmetin birleşimi.
+Servo-skull, bir insan kafatasının anti-grav iticileri, algılayıcılar ve basit cogitator çipleriyle donatılarak uçan otomat haline getirilmiş halidir; Adeptus Mechanicus ve İmparatorluk kurumlarının her yerinde görülür. Kafatası genellikle ölen sadık bir hizmetkârın veya yüksek rütbeli bir Tech-priest'ın kalıntısıdır — ölümden sonra hizmet etmek İmparatorluk'ta bir onurdur ve servo-skull olmak, ölümsüz hizmetin somut halidir. Servo-skull'lar veri toplar, yol gösterir, kutsal mumlar taşır veya silah platformu olarak devriye gezer; Inquisitor'ların yanında uçan servo-skull'lar hedef işaretleme ve kayıt görevi görür. Küçük ama her yerdedirler — İmparatorluk'ta ölüm hizmetin sonu değil, başka bir görevin başlangıcıdır ve servo-skull bunun en somut simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

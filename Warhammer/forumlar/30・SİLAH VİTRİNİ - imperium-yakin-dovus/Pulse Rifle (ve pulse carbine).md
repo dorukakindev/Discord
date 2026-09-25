@@ -16,8 +16,6 @@ Bir indüksiyon alanıyla hızlandırılan ve yolda plazmaya dönüşen parçac�
 
 ## Tarihçe
 
-Fire Warrior'ların temel silahıdır; Fire caste savaşçıları uzak mesafeden disiplinli ve yoğun ateşle savaşmak üzere yetiştirilir. Daha kısa ve hareketli bir biçim olan pulse carbine, özellikle araçlarla birlikte hareket eden birliklerde yaygındır. Pulse pistol ve yakın mesafe için tasarlanmış pulse blaster aynı ailenin üyeleridir.
+Pulse Rifle ve Pulse Carbine, T'au'nun temel piyade silahlarıdır; pulse bazlı enerji mermileri fırlatan ve standart lasgun'dan daha güçlü, daha hassas ve daha ölümcül olan T'au teknolojisinin bel kemiğidir. Pulse Rifle'ın çalışması basit ama etkilidir — pulse mermisi, manyetik olarak hızlandırılır ve hedefe çarptığında hem delici hem de yanıcı etki yapar; bir pulse rifle atışı, bir Space Marine'in zırhını veya bir Imperial Guard'ın bedenini deler ve içindeki enerji, hedefi yakabilir. Pulse Carbine, daha kısa ve daha hızlı varyanttır — yakın dövüşte veya kentsel savaşta kullanılır ve onun atış hızı, pulse rifle'dan daha yüksektir; ve pulse teknolojisi, T'au'nun en güvenilir silah sistemidir. Pulse Rifle, T'au'nun teknolojik üstünlüğünün simgesidir — onların piyade silahı bile, İmparatorluğun ağır silahına denktir.
 
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Fire Warrior — Simon Spurrier*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551813361887617108>
+-# Kay

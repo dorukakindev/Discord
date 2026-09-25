@@ -10,6 +10,6 @@ Pythos'u Kaos için paha biçilmez kılan şey, yüzeyinin altında saklı kadim
 
 ## Tarihçe
 
-Abaddon'un Pandorax'ta daemon ordusu kurma girişimi; Azrael ve Dark Angels'ın karşı hamlesi. Fallen ve daemonların çakıştığı cephe.
+Pandorax Kampanyası, İmparatorluğun Chaos'a karşı kazandığı en kayda değer zaferlerden biridir. Kampanya, Abaddon'un Chaos güçlerinin Pandorax sistemini ele geçirmesinin ardından başlatıldı; buradaki Warp geçidi, Chaos'un Imperialis'e yönelik saldırılarında kritik bir stratejik nokta oluşturuyordu. Dark Angels'ın Chapter Master'ı Azrael, Pandorax'ı geri almak için bir İmparatorluk ordusunun komutasını üstlendi ve sefer boyunca Chaos kuvvetleriyle sert çatışmalar yaşandı. Kampanya, İmparatorluk zaferiyle sonuçlandı ve Azrael'in kariyerindeki en önemli askeri başarılardan biri olarak kayda geçti; Pandorax'ın geri alınması, Abaddon'un bu sektördeki ilerleyişini yavaşlattı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

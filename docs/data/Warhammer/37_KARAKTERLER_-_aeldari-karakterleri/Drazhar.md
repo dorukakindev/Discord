@@ -16,8 +16,6 @@ Incubi'nin en ünlü savaşçısı Drazhar, yüzünü ve geçmişini kimseye gö
 
 ## Tarihçe
 
-Drazhar — 'Kılıçların Efendisi' — Drukhari Incubi tarikatının en büyük Hierarch'ı ve Celladıdır; öldürücülüğün kişileşmesidir. Craftworld Aeldari ve Drukhari arasında onun bir zamanlar düşmüş Phoenix Lord Arhra olduğu sanılır — 'maskeli efsane' olarak Commorragh'ın en korkulan figürlerinden biridir ve Striking Scorpions'ın karanlık aynası.
+Drazhar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur; Striking Scorpions Aspect'inin en gizli ve en ölümcül üyesi olan Drazhar, Aeldari'nin en gizli ve en ölümcül savaşçısıdır — onlar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur. Drazhar'ın en büyük özelliği, onun gizliliğidir — onlar, Striking Scorpions'ın en gizli ve en ölümcül üyesidir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Drazhar, hem bir savaşçı hem de bir suikastçıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Drazhar'ın en ünlü özelliği, onun gizliliğidir — onlar, Aeldari'nin en gizli ve en ölümcül savaşçısıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Drazhar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur — onlar, bir gizliliğin ve Aeldari'nin en gizli gücünün somut halidir.
 
--# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Psychic Awakening: Phoenix Rising*
-
--# İlişkili kayıtlar: <#1551997841356881980>, <#1552483346846715924>, <#1551997822725922938>
+-# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Psychic

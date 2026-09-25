@@ -16,8 +16,6 @@ Varlık nedenini insanlığın düşmanlarıyla yakından hesaplaşmak olarak g�
 
 ## Tarihçe
 
-Astral Claws'ın bir zamanlar kendilerini yok olmaktan kurtarmasıyla doğan kan borcu yüzünden Executioners, Badab War'da secessionist tarafa katıldı. Zamanla bağımsız bir güce dönüştü ve 911.M41'de teslim olmuş bir geminin, *Pyre of Glory*'nin saldırıya uğramasını onur ihlali sayarak Astral Claws'a karşı silah çekti. Salamanders'tan Captain Pellas Mir'san aracılığıyla teslim olan ve Chaplain Thulsa Kane'in önderliğinde Nocturne'e götürülen Chapter, yüz yıllık bir kefaret seferine gönderildi.
-
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Ten: The Badab War – Part Two*
+Executioners, Imperial Fists soyu ve Third Founding'de kurulan acımasız bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinin en acımasız halidir ve onlar, İmparatorluğun en sert ve en infazcı savaşçılarıdır. Executioners'ın en büyük özelliği, onların infazcılığıdır — onlar, düşmanını sadece öldürmez, onları infaz eder; bir Executioner'ın savaşı, bir yargılamadır ve onların kılıcı, İmparatorluğun adaletinin somut halidir. Executioners'ın en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en acımasız taktikleri kullandılar ve onların varlığı, savaşın en kanlı sayfalarını yazdı. Executioners, İmparatorluğun en sert ve en acımasız Chapter'ıdır — onlar, İmparatorluğun cellatlar
 
 -# İlişkili kayıtlar: <#1551811438547312645>, <#1551636479925559479>, huron-blackheart, <#1551637740049670195>

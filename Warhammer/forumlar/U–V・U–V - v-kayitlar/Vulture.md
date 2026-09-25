@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Vulture2.png/revision
 
 ## Tarihçe
 
-Vulture, Navis Imperialis'in Aeronautica Imperialis'ine ait dikey kalkışlı ağır gunship'idir; Astra Militarum kara birliklerine hava desteği sağlar. Elysian Drop Troops gibi hafif hava indirme birlikleri zırhlı destekten yoksun oldukları için ilk saldırılarda tamamen Vulture'ın ateş gücüne bel bağlar; 'uçan topçu bataryası' olarak da bilinir. Geniş silah yelpazesiyle piyade, zırhlı ve tahkimatları aynı anda avlayabilen çok yönlü platformdur.
+Vulture, Imperial Guard ve Astra Militarum tarafından kullanılan bir hava saldırı aracıdır; onun hızı ve silahlandırmasıyla — düşmanı havadan imha eden bir araçtır — onlar, Imperial Guard'ın en hızlı ve en vahşi hava aracıdır. Vulture'ın en büyük özelliği, onun hızıdır — onlar, bir Valkyrie'den daha hızlı ve daha vahşidir; bir Vulture, bir düşman pozisyonunu saniyeler içinde geçebilir ve onların varlığı, bir Imperial Guard baskınının merkezidir. Vulture'ın en ünlü görevi, Imperial Guard'ın çeşitli baskın operasyonlarıdır — onlar, düşmanı havadan imha etmek için kullanılırlar ve onların varlığı, Imperial Guard'ın en vahşi hava aracıdır. Vulture, Imperial Guard'ın en hızlı ve en vahşi hava aracıdır — onlar, hızın ve vahşetin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058753232900217>

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/15/Farseer.jpg/revision/
 
 ## Tarihçe
 
-Farseer, Craftworld Aeldari'nin en güçlü ve en saygın psyker/Seer biçimidir; eskiden Warlock'tu ama Exarch'ların Savaş Yolu'nda kaybolması gibi Seer Yolu'nda sonsuza dek kayboldu. 'Geçmişi ve geleceği okuyan' bu figürler, craftworld'lerin kaderini yönlendiren en üst kehanet otoritesidir — Asuryani liderliğinin görünmeyen tepesi.
+Farseer, Aeldari'nin en önemli ve en bilge lideridir; onların bir craftworld'ün en bilge psyker'ı olan ve onun geleceğini gören Farseer, Aeldari'nin en önemli ve en bilge üyesidir — onlar, Aeldari'nin en önemli ve en bilge lideridir. Farseer'ın en büyük özelliği, onların bilgeliğidir — onlar, bir craftworld'ün en bilge psyker'ıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Farseer, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Farseer'ın en ünlü özelliği, onların kehanetidir — onlar, Aeldari'nin geleceğini gören ve onu yönlendiren en bilge üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Farseer, Aeldari'nin en önemli ve en bilge lideridir — onlar, bir bilgeliğin ve Aeldari'nin en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

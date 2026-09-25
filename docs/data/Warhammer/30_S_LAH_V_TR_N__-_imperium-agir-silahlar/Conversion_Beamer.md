@@ -13,6 +13,6 @@ Mesafeye bağlı olarak gücü artan enerji silahı — 'ne kadar uzak, o kadar 
 
 ## Tarihçe
 
-Karanlık Çağ teknolojisinin ışın topu; hedef ne kadar uzaksa o kadar güçlü vuran ters-ölçekli silah. İmparatorluk'un en nadir korunan silahlarından — teknolojinin kaybolan yönünün kanıtı.
+Conversion Beamer, İmparatorluğun en gizli ve en ölümcül silahıdır; onların İmparatorluk'un en gizli ve en yıkıcı enerji silahı olan ve onun en zorlu savaşlarını yapan Conversion Beamer, İmparatorluğun en gizli ve en ölümcül silahıdır — onlar, İmparatorluğun en gizli ve en ölümcül silahıdır. Conversion Beamer'ın en büyük özelliği, onun enerjisidir — onlar, düşmanı enerjiye dönüştüren en ölümcül silahtır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Conversion Beamer, hem bir silah hem de bir yıkımdır ve onların varlığı, İmparatorluğun en büyük silahının somut halidir. Conversion Beamer'ın en ünlü özelliği, onun Mechanicus üzerindeki kullanımıdır — onlar, Mechanicus'un en gizli ve en ölümcül silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Conversion Beamer, İmparatorluğun en gizli ve en ölümcül silahıdır — onlar, bir enerjinin ve İmparatorluğun en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,4 @@ Kült'ün yapısı katmanlıdır: Magos'lar (vaizler), Primus'lar (savaş liderl
 
 ## Tarihçe
 
-Genestealer kültlerinin dini maskesi; 'dört kollu İmparator'a tapan ve aslında Patriarch'ın çocuklarına hizmet eden kandırmaca. İmparatorluk'un içinde büyüyen sinsi sarmaşık.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Cult of the Four-Armed Emperor, Genestealer Cults'un en sinsi ve en tehlikeli inancıdır; onlar, İmparator'un dört kollu bir tanrı olduğunu savunan ve aslında Tyranid'in gizli ajanları olan bir tarikattır — onlar, İmparatorluğun en sinsi ve en tehlikeli iç düşmanıdır. Cult of the Four-Armed Emperor'ın en büyük özelliği, onun sinsiliğidir — onlar, bir Imperial Cult gibi görünür ama aslında Tyranid'in gizli ajanlarıdır; bir C

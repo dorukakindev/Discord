@@ -12,6 +12,6 @@ Savaşın kökeni, ölümlü ve kısa ömürlü Necrontyr ırkının, neredeyse 
 
 ## Tarihçe
 
-Necronların C'tan ve Aeldari'ye karşı eski savaşı; galaksinin şeklini veren mitik çatışma. Bugünkü huzursuzluğun milyonlarca yıl önceki kökü.
+War in Heaven, evrenin en eski ve en trajik savaşı olarak tarihe geçti. Bu savaş, Necrontyr ırkının C'tan'larla — evrenin en güçlü varlıkları — savaşını içeriyordu; War in Heaven sırasında Necrontyr, C'tan'larla savaştı ve sonunda C'tan'ları yarattı. Savaş, Necrontyr'ın C'tan'ları yaratmasıyla sonuçlandı; ancak bu, Necrontyr'ın kendi sonunu getirdi ve Necron'ların doğuşuna neden oldu. War in Heaven, evrenin en eski ve en trajik savaşı olarak anılır ve Necron'ların doğuşunun en önemli sebebi oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

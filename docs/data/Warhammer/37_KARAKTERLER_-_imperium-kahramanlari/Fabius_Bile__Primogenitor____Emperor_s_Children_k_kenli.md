@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/re
 
 ## Tarihçe
 
-Fabius Bile — 'Klon Lordu', 'Primogenitor', 'Et Yüzen', 'Örümcek' — Chaos Space Marine Apothecary'si ve Chaos Lord'u; aslen Emperor's Children'ın Baş Apothecary'siydi. 'İnsanlığı mükemmelleştirme' takıntısıyla klonlar, mutantlar ve 'Yeni İnsanlar' yaratan bu figür, sayısız Chaos gücünün karanlık tedarikçisidir — 'canavar yaratan doktor' olarak galaksinin en tehlikeli zihinlerinden.
-
--# Kaynaklar: *Fabius Bile: Primogenitor — Josh Reynolds*; *Fabius Bile: Clonelord — Josh Reynolds*; *Codex: Chaos Space Marines*
+Fabius Bile, Chaos'un en ünlü ve en tehlikeli bilim insanıdır; Emperor's Children'dan çıkan ve 'Primogenitor' olarak bilinen Fabius Bile, Chaos'un en büyük genetik mühendisi ve İmparatorluğun en tehlikeli düşmanlarından biridir — onlar, Chaos'un en gizli ve en tehlikeli varlığıdır. Fabius Bile'in en büyük özelliği, onun bilimidir — onlar, genetik mühendisliğin en büyük ustasıdır ve onların yaratıkları — New Men, Enhanced Warriors — İmparatorluğun en tehlikeli düşmanlarıdır; bir Fabius Bile, hem bir bilim insanı hem de bir canavardır ve onların varlığı, Chaos'un en gizli gücünün somut halidir. Fabius Bile'in en ünlü özelliği, onun 'Primogenitor' lakabıdır — onlar, yeni süper askerler yaratan ve Chaos'un en büyük silahlarını üreten bilim
 
 -# İlişkili kayıtlar: <#1551813750305198101>, <#1551812225570836561>, <#1551638958352506881>, <#1551816158951510069>

@@ -16,8 +16,8 @@ Gizlilik, sızma ve yıldırım baskınlarının Legion'ı. Esaretten doğan öz
 
 ## Tarihçe
 
-Istvaan V'teki Drop Site Massacre'da neredeyse yok olan Legion'ı yeniden inşa etmek isteyen Corax, hızlandırılmış yöntemlere başvurdu ve bu girişim korkunç sonuçlar doğurdu. Heresy'den sonra Corax'ın Eye of Terror'a gidip geri dönmediği anlatılır. Chapter, M41'de Kayvaan Shrike gibi komutanların önderliğinde gizli operasyonlarla savaşmaya devam etmektedir.
+Raven Guard (XIX Legion), Corvus Corax'ın oğullarıdır; gizlilik, sabotaj ve gerilla savaşı üzerine uzmanlaşmış ve Horus Heresy'de en ağır kayıpları veren Legion'dur — onların savaşı, gölgelerde ve sessizlikte yapılır. Raven Guard'ın savaş doktrini, Corax'ın isyan geçmişinden doğar — onlar görünmezliği sever, stealth ve sabotajı tercih eder ve onların savaşı, düşmanın en zayıf anında, en beklenmedik yerden gelir; bir Raven Guard, savaşta görünmezdir ve onun varlığı, ancak ölüm anında fark edilir. Raven Guard'ın en büyük trajedisi, Isstvan V'de Legion'unun neredeyse yok edilmesidir — Corax'ın oğulları, ihanetin en ağır bedelini ödedi ve o günden beri Raven Guard, sayısı az ama ruhu büyük bir Chapter olarak kaldı. Raven Guard, İmparatorluğun en sessiz ve en ölümcül savaşçılarıdır — onların savaşı, görünmezlik ve ani ölümdür.
 
 -# Kaynaklar: *Deliverance Lost — Gav Thorpe*; *Codex: Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551637736593821790>, <#1551649028121563137>, <#1551814951365115956>
+-# İlişk

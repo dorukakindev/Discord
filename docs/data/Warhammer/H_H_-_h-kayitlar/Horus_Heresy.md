@@ -84,6 +84,10 @@ Horus'un ölümüyle Traitor kuvvetler dağıldı. Abaddon önderliğindeki Sons
 
 Guilliman'ın kaleme aldığı Codex Astartes, Legion'ları en fazla yaklaşık bin Marine'lik Chapter'lara bölerek bir Primarch'ın bir daha tek başına bu denli güç toplamasını engellemeyi amaçladı. Bazı Primarch'ların, özellikle Rogal Dorn'un, bu bölünmeye başlangıçta direnmesi Imperium'un içinde yeni gerilimler doğurdu. Emperor'ın bir tanrıya dönüşmesi, Imperial Cult'un kurumsallaşmasının önünü açtı.
 
+## Tarihçe
+
+Horus Heresy, İmparatorluk tarihinin en büyük trajedisi ve en önemli olayıdır. Horus, İmparator'un en sadık oğlu olarak biliniyordu; ancak Chaos'un etkisiyle İmparatorluğa ihanet etti ve Heresy'yi başlattı. Heresy sırasında İmparatorluk, kendi içindeki en büy
+
 ## Bilinen Yanılgılar ve SSS
 **Yanılgı:** Horus, Davin'de basit bir büyü ya da aldatmacayla bir gecede kötüye dönüştü.
 **Kanon:** Davin, bir sürecin doruğudur. Word Bearers'ın uzun hazırlığı, Emperor'ın çekilişi, Council of Nikaea ve Horus'un kendi gururu bu dönüşümü mümkün kıldı. Kaynaklar Horus'u bir kukla olarak değil, seçimleri olan bir karakter olarak çizer.

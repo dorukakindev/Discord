@@ -14,6 +14,4 @@ Daemon'ların tehlikesi, 'fiziksel olmayan' doğalarıdır: onlar sadece Warp'ta
 
 ## Tarihçe
 
-Chaos Daemons, Warp'ın tanrısal enerjisinden doğan varlıkların genel sınıfıdır; dört büyük Chaos tanrısının (Khorne, Tzeentch, Nurgle, Slaanesh) hizmetindeki sayısız formu kapsar. Gerçekliğe ancak Warp yarıkları, ritüeller veya daemonik musallatla girebilirler; İmparatorluk'un en amansız ve en kozmik düşmanıdırlar.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Chaos Daemons, WH40K evreninin en korkulan ve en ölümcül varlıklarıdır; Warp'ta yaşayan ve Chaos'un dört büyük tanrısının (Khorne, Tzeentch, Nurgle, Slaanesh) hizmetinde olan doğaüstü varlıklardır — onlar, İmparatorluğun en büyük ve en kaçınılmaz düşmanıdır. Chaos Daemons'un en büyük özelliği, onların doğaüstü gücüdür — onlar, fizik yasalarına uymaz ve onların gücü, bir gezegeni bile

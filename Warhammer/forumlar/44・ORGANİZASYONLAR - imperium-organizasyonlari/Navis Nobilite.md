@@ -12,6 +12,4 @@ Navigator'ları benzersiz kılan, üçüncü gözleriyle Immaterium'un (Warp'ın
 
 ## Tarihçe
 
-Navis Nobilite, Navigator'ların soylu aile-sendikasıdır; Warp yolculuğunu mümkün kılan mutant-aristokrat kasttır. Patriarch'lar ve iç-politik entrikalarıyla ünlüdür; İmparatorluk'ta hiçbir güç onlara dokunamaz çünkü uzay yolculuğu onların genleri olmadan durur.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Navis Nobilite, İmparatorluğun Navigator hanedanlarının oluşturduğu soylu kastdır; Warp'ta seyahat edebilen tek insan soyu oldukları için İmparatorluğun en güçlü ve en kapalı kurumlarından biridir — onlar olmadan İmparatorluk felç olur. Navis Nobilite'in kökeni Dark Age of Technology'ye dayanır — Navigator geni laboratuvarda üretildi ve binlerce yıl boyunca hanedanlar arasında titizlikle korundu; bugün Navis Nobilite, kendi kanunlarına, kendi mahkemelerine ve kendi ordusuna sahip neredeyse bağımsız bir devlettir. Navis Nobilite'in başında Paternova vardır — Navigator hanedanlarının en güçlüsü ve İmparatorluğun en güçlü figürlerinden biri; Paternova'nın emri, bir Navigator hanedanının kaderini belirler ve Paternova'nın ölümü, hanedanlar arasında kanlı bir güç mücadelesine yol açar. Navis Nobilite'in gücü mutlaktır — onlar İmparatorluğun kapısını tutar ve o kapıyı kapatsalar, İmparatorl

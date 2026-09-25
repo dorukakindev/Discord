@@ -15,12 +15,8 @@ Küçük, metal böceklere benzeyen Scarab'lar, sürüler hâlinde hareket eder.
 
 ## Tarihçe
 
-Canoptek Scarab, Necron'un küçük, gümüş, böcek-benzeri robotik yapısıdır — Canoptek makine hizmetkârlarının en çok ve en çeşitli olanı. Organik ve inorganik maddeyi ham enerjiye ayırıp sonra onu yeni biçimlere örerler; sürüler halinde Astartes Dreadnought'ları bile yiyen bu 'metal böcek istilası', Tomb World'lerin en korkulan savunma hattıdır.
+Canoptek Scarab, Necron'ların en küçük ve en sinsi makinesidir; bir Necron hanedanının en küçük savunucusu olan ve onun en sinsi operasyonlarını yapan Canoptek Scarab, Necron'ların en küçük ve en sinsi varlığıdır — onlar, Necron'ların en küçük ve en sinsi makinesidir. Canoptek Scarab'ın en büyük özelliği, onun sinsiliğidir — onlar, bir Necron hanedanının en küçük savunucusudur ve onların varlığı, Necron'ların en sinsi gücünün kanıtıdır; bir Canoptek Scarab, hem bir makine hem de bir keşif aracıdır ve onların varlığı, Necron'ların en büyük tehdidinin somut halidir. Canoptek Scarab'ın en ünlü özelliği, onun küçüklüğüdür — onlar, Necron'ların en küçük ve en sinsi makinesidir ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. Canoptek Scarab, Necron'ların en küçük ve en sinsi makinesidir — onlar, bir keşif aracının ve Necron'ların en sinsi gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Maddeyi söküp ham malzemeye dönüştürebildikleri anlatılır; bu malzeme onarım ya da yeni construct'lar için kullanılır. Canoptek Spyder'lar yeni Scarab'lar üretebilir. Tek başına bir Scarab'ın kendine ait bir amacı yoktur; sürü, verilen görevi yerine getirir.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551649070286897172>
+Maddeyi söküp ham malzemeye dönüştürebildikleri anlatılı

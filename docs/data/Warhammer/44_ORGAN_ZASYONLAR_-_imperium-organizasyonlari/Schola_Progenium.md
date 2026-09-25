@@ -11,6 +11,6 @@ Bu çocuklara verilen eğitim, sevgi ya da şefkat üzerine değil, mutlak disip
 
 ## Tarihçe
 
-İmparatorluk'un yetimhane-okulu; Commissar'lar, Sisters, Inquisitor'lar burada yetişir. Yüksek yetimlerin resmi sistemi — sadakat fabrikası.
+Schola Progenium, İmparatorluğun yetim ve seçkin çocuklarını yetiştiren kurumudur; Imperial Guard subayları, Tempestus Scion'lar, Commissar'lar, Inquisitor adayları ve Sisters of Battle'ın büyük kısmı buradan çıkar. Schola Progenium'a girmek hem onur hem zorunluluktur — çocuklar genelde İmparatorluk için ölen ebeveynlerin yetimleridir ve burada yetiştirilmek, onlara İmparatorluğun en yüksek eğitimini ama aynı zamanda en katı disiplinini verir. Eğitim acımasızdır — fiziksel dayanıklılık, askeri taktik, dinî inanç ve mutlak itaat; Schola Progenium'dan çıkan bir çocuk, artık ailesi olmayan ama İmparatorluğa tamamen bağlı bir bireydir. Schola Progenium'un mezunları İmparatorluğun omurgasıdır — onlar olmadan ordu komuta edilemez, Inquisition işleyemez ve Ecclesiarchy boş kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

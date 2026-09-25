@@ -16,8 +16,4 @@ Demirci ustalığıyla ve sivilleri koruma ülküsüyle anılan Legion. Savaşı
 
 ## Tarihçe
 
-Istvaan V'teki Drop Site Massacre'da ağır kayıplar veren Legion, Primarch'ını da bir süre kaybetti. Vulkan'ın esaret ve sonrasındaki dönüşü, Salamanders'ın Heresy'deki kaderini biçimlendirdi. Heresy'den sonra Vulkan'ın kaybolduğu, bir gün geri döneceğine inanıldığı anlatılır. M41'de Vulkan He'stan, Primarch'ın kayıp emanetlerini arayan Forgefather olarak Chapter'ın simgesidir.
-
--# Kaynaklar: *Vulkan Lives — Nick Kyme*; *Salamander — Nick Kyme*
-
--# İlişkili kayıtlar: <#1551637740049670195>, <#1551650329240674335>, <#1551814951365115956>
+Salamanders (XVIII Legion), İmparatorluğun en insancıl ve en dayanıklı Space Marine Chapter'ıdır; Nocturne'nin volkanik dünyasından gelen savaşçıları, ateş ve demircilikle kutsanmış ve primarch'ları Vulkan'ın öğretisiyle — 'halkı koru, zayıfı savun' — hareket eden, İmparatorluğun en şefkatli savaşçılarıdır. Salamanders'in savaş doktrini, Vulkan'ın demirci ruhundan doğar — onlar ateşi sever, flamer ve meltagun'ları tercih eder ve onların zırhı, diğer Chapter'lardan daha kalın ve daha dayanıklıdır; bir Salamander, sadece savaşçı değil, aynı zamanda zanaatkârdır ve her Salamander, kendi silahını ve zırhını tamir edebilir. Salamanders'in en büyük özelliği, onların insanlıkla bağlantısıdır — onlar sivilleri korur, kendi gezegenlerinde aileleriyle yaşar ve onların savaşı, sadece düşmanı öldürmek değil, İmparatorluğun halkını korumaktır. Salamanders'in en karanlık sırrı, onların da diğer Chapter'lar gibi savaşçı olduğudur — ama onların savaşı, her zaman bir amaç için, bir halk için ve bi

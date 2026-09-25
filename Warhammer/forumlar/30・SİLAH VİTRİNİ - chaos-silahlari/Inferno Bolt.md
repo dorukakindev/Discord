@@ -15,12 +15,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7c/RubricDust.png/revisi
 
 ## Tarihçe
 
-Ahriman'ın Rubric'i Thousand Sons'ın psişik olmayan savaşçılarını zırhlarının içinde toza çevirip ruhlarını zırha bağladıktan sonra, Rubric Marine'ler inferno bolt ateşleyen silahlarla savaşmaya başladı. Thousand Sons'ın Long War boyunca yürüttüğü seferlerde bu mermiler Legion'un simgelerinden biri olmuştur.
+Inferno Bolt, Chaos'un en ünlü ve en yakıcı mermi silahıdır; onların Chaos'un en güçlü ve en ölümlü alev mermisi olan ve onun en tehlikeli operasyonlarını yapan Inferno Bolt, Chaos'un en güçlü ve en ölümlü silahıdır — onlar, Chaos'un en ünlü ve en yakıcı mermi silahıdır. Inferno Bolt'un en büyük özelliği, onun alevidir — onlar, düşmanı yakan alev mermileri atan en ölümlü silahtır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Inferno Bolt, hem bir silah hem de bir mermi taşıyıcısıdır ve onların varlığı, Chaos'un en büyük silahının somut halidir. Inferno Bolt'un en ünlü özelliği, onun Thousand Sons'ın kullanımıdır — onlar, Chaos'un en gizli Legion'unun en ölümlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Inferno Bolt, Chaos'un en ünlü ve en yakıcı mermi silahıdır — onlar, bir alemin ve Chaos'un en büyük silahının somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Mermi bolt ilkesine dayanır; asıl yıkım, ona işlenen Warp enerjisinden gelir. Rubric Marine'lerin yanı sıra Scarab Occult Terminator'ları gibi birlikler de benzer silahlar taşır.
-
--# Kaynaklar: *Codex: Thousand Sons*; *Ahriman: Exile — John French*
-
--# İlişkili kayıtlar: <#1551809231580307517>, <#1551808728062501019>, <#1551647728692633643>, <#1551816657691746335>
+Mermi bolt ilkesine dayanır; asıl yıkım, ona işlenen Warp enerjisinden gelir. Rubric Marine'lerin yanı sıra Scarab Occult Terminator'ları gi

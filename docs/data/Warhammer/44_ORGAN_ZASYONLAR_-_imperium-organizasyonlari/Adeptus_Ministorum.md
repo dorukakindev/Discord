@@ -12,6 +12,4 @@ Kilise, İmparatorluk İnancı'nın (Imperial Creed) bekçisidir; sayısız rahi
 
 ## Tarihçe
 
-Adeptus Ministorum (Ecclesiarchy), İmparatorluk'un resmî din kurumudur; Imperial Cult'u öğretir, vaaz eder ve dayatır. Milyarlarca ruhu İmparator'a imanla yönetir; 'din ve devlet' ayrımı İmparatorluk'ta yoktur — Ministorum hem kilisedir hem siyasi güç.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Adeptus Ministorum (Ecclesiarchy), İmparatorluk'un resmi din kurumudur; İmparator'u tanrı olarak ilan eden, dinî dogmayı yöneten ve trilyonlarca insanın inancını kontrol eden devasa teokratik yapıdır — İmparatorluğun ruhu ve aynı zamanda en büyük baskı aracıdır. Ministorum'un kökeni Büyük Haçlı Seferi'ne dayanır — İmparator başlangıçta din'i yasakladı (Imperial Truth) ama ölümünden sonra Lorgar'ın Lectitio Divinitatus'u yayıldı ve İmparator'u tanrı ilan eden Ecclesiarchy, İmparatorluğun resmi dini oldu. Ministorum'un gücü muazzamdır — kendi ordusu (Adepta Sororitas), kendi mahkemeleri (Cardinal'lar) ve kendi zenginliği vardır; bir Ministorum Cardinal'i, bir gezegenin kaderini tek bir vaazla belirleyebilir. Ministorum aynı zamanda İmparatorluğun en yozlaşmış kurumudur — sapkınlık avı, zorla din değiştirme ve güç mücadeleleri onun içindedir; ama aynı zamanda onsuz İmparato

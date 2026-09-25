@@ -17,6 +17,10 @@ Age of Strife'ın getirdiği Warp fırtınaları ve kaos, Kin'i insanlığın ge
 
 Great Rift sonrası dönemde League'ler çekirdeğin dışına doğru belirgin biçimde genişlemeye başladı. Bu genişleme onları Imperium, Ork'lar, Tyranid'ler ve diğer güçlerle daha sık karşı karşıya getirdi. Imperial dünyalarda Kin'in ortaya çıkışı kimi zaman ticaret, kimi zaman çatışma, kimi zaman da ikisinin birden başlangıcı oldu. Kin'in Imperium'la ilişkisinin nasıl şekilleneceği güncel anlatıda açık bir sorudur.
 
+## Tarihçe
+
+Leagues of Votann, WH40K evreninin en eski ve en gizli insan türevi ırkıdır; Squat'ların devamı olarak bilinen ve Galactic Core'da — yıldızların en yoğun ve en tehlikeli bölgesinde — yaşayan, İmparatorluğun en bağımsız ve en gelişmiş insan türevi gücüdür. Leagues of Votann'ın en büyük özelliği, onların bağımsızlığıdır — onlar, İmparatorluğa bağlı değildir ve kendi teknolojileriyle, kendi ordularıyla ve kendi yasalarıyla yaşarlar; onların toplumu, hem insan hem de makine arasındaki en gelişmiş birleşimdir. Leagues of Votann'ın en ünlü özelliği, onların Ancestor Cores'udur — onlar, atalarının bilgisini ve ruh
+
 ## Yapı ve Toplum
 Kin toplumu, işlevsel sınıflar ve loncalar etrafında örgütlenir:
 - **Kâhl:** Askerî ve siyasi komutanlar. Stratejik kararlarda Votann'ın rehberliğini gözetir.

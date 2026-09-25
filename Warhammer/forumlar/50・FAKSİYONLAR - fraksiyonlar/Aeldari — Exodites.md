@@ -16,8 +16,8 @@ Maiden World'lerde yaşayan, kırsal ve kabile benzeri bir düzen kurmuş Aeldar
 
 ## Tarihçe
 
-Fall'un yıkımından büyük ölçüde uzak kaldılar ve binyıllar boyunca dünyalarını korumaya odaklandılar. Asuryani'yle ilişkileri zaman zaman mesafeli olsa da tehdit anında yardım istedikleri anlatılır. Birçok Exodite dünyası, farkında olmayan insanlarca kolonileştirilmeye çalışılmış ya da xenos istilalarına uğramıştır.
+Exodites, Aeldari ırkının en eski ve en geleneksel kesimidir; Craftworld'lerden kaçan ve Maiden World'lerde — basit ama saf bir yaşam süren — Aeldari'lardır — onlar, Aeldari'nin en doğal ve en geleneksel halidir. Exodites'ın en büyük özelliği, onların basitliğidir — onlar, teknolojiyi reddeder ve doğayla uyum içinde yaşarlar; bir Exodite, hem savaşçı hem de çiftçidir ve onların savaşı, hem geleneksel hem de vahşidir. Exodites'ın en ünlü özelliği, onların dinazor benzeri binekleridir — onlar, devasa sürüngenleri biner ve onların savaşı, bir zamanların Aeldari'sinin savaşıdır; onlar, Slaanesh'in doğumundan önceki Aeldari'nin yaşam tarzını koruyanlardır. Exodites, Aeldari ırkının en geleneksel ve en doğal kesimidir — onlar, Aeldari'nin geçmişinin ve saf halinin koruyucusudur.
 
 -# Kaynaklar: *Codex: Eldar*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551655323658494093>, <#1551997822725922938>, <#1551814105046851615>, <#1551812290439942255>
+-# İ

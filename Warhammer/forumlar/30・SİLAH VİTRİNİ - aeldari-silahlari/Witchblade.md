@@ -16,8 +16,4 @@ Psişik güce duyarlı rünlerle işlenmiş, bir seer'ın zihinsel gücünü dar
 
 ## Tarihçe
 
-Craftworld'lerin Seer Council'lerinde Warlock'lar ve Farseer'lar witchblade taşır; Warlock'lar çoğu kez singing spear ile witchblade arasında seçim yapar. Warlock'lar, Aspect Warrior yolunu yürümüş ve sonra seer yoluna geçmiş savaşçılardır; witchblade bu çift mirası taşır.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Seer — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551818131679215728>, <#1551997822725922938>, <#1552483346846715924>
+Witchblade, Aeldari'nin en ünlü ve en gizli psyker silahıdır; onların Aeldari'nin en gizli ve en ölümlü psişik kılıcı olan ve onun en zorlu savaşlarını yapan Witchblade, Aeldari'nin en gizli ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en gizli psyker silahıdır. Witchblade'in en büyük özelliği, onun psişik gücüdür — onlar, psyker enerjisiyle düşmanı yok eden en ölümlü kılıçtır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Witchblade, hem bir silah hem de bir psişik güçtür ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Witchblade'in en ünlü özelliği, onun Farseer'ların kullanımıdır — onlar, Aeldari'nin en bilge üyelerinin en ölümlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Witchblade, Aeldari'nin en ünlü ve en gizli psyker silahıdır — onlar, bir psişik gücün ve Aeldari'nin en

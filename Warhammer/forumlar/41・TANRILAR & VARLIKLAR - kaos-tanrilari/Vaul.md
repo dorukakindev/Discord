@@ -15,12 +15,10 @@ Vaul, panteonun ustası ve yaralı kahramanıdır. Tanrılar arasındaki kavgaya
 
 ## Tarihçe
 
-Mite göre Isha ile Kurnous'un serbest bırakılması karşılığında Khaine'e belirli bir süre içinde yüz ilahi kılıç dövmeyi vaat etti. Süre dolduğunda doksan dokuz kılıç hazırdı; eksik olanın yerine aralarına sıradan bir ölümlü kılıcı gizledi. Aldatmaca ortaya çıkınca iki tanrı arasında savaş başladı. Vaul en büyük kılıcı **Anaris**'i Eldanesh'e verdi; Eldanesh Khaine'e yenildi, Vaul ise yenilip örsüne zincirlendi.
+Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır; zanaatkârlık ve demirciliğin tanrısı olan ve Aeldari'nin en önemli figürü olan Vaul, Aeldari'nin en önemli ve en kutsal varlığıdır — onlar, Aeldari'nin en ünlü ve en önemli tanrısıdır. Vaul'ın en büyük özelliği, onun zanaatkârlığıdır — onlar, zanaatkârlık ve demirciliğin tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır; bir Vaul takipçisi, hem bir zanaatkâr hem de bir inanan'dır ve onların varlığı, Aeldari'nin en büyük geleneğinin somut halidir. Vaul'ın en ünlü özelliği, onun demircilik tanrısı olmasıdır — onlar, Aeldari'nin en önemli ve en kutsal zanaatkârının tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır — onlar, bir zanaatkârlığın ve Aeldari'nin en büyük geleneğinin somut halidir.
 
 ## Kanon Notu
 
 Genel anlatıya göre Fall'da Slaanesh tarafından yutuldu; akıbeti ayrıntılı anlatılmaz. Mitteki bu savaşın C'tan'a karşı verilen gerçek bir savaşın yankısı olup olmadığı ima edilir ama kesinleştirilmez.
 
--# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Codex: Eldar — 6th Edition*; *Path of the Warrior — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551810744754905123>, <#1551997822725922938>, <#1551649070286897172>, <#1551814105046851615>
+-# Kaynaklar: *Codex: Aeldari — 9t

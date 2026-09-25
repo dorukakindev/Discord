@@ -16,8 +16,6 @@ Savunma ve kuşatma mühendisliğinin Legion'ı; inatçı sadakat ve fedakârlı
 
 ## Tarihçe
 
-Heresy başladığında Terra'daki Dorn, Imperial Palace'ı Horus'un saldırısına hazırladı ve Siege of Terra boyunca savunmanın omurgası oldu. Scouring'in ardından Codex Astartes'in Legion'ları bölme emrine direnmesi Guilliman'la gerilim yarattı; sonunda Second Founding'de Black Templars ve Crimson Fists gibi ardıllar doğdu. War of the Beast'te ağır kayıplara uğrayan Chapter, sonraki çağlarda da Terra'nın muhafızlarından sayılmıştır.
+Imperial Fists (VII Legion), Rogal Dorn'un oğullarıdır; kuşatma savaşı, savunma ve dayanıklılık üzerine uzmanlaşmış ve Horus Heresy'de Terra'nın son savunma hattını oluşturan, İmparatorluğun en disiplinli ve en sadık savaşçılarıdır. Imperial Fists'in savaş doktrini, Dorn'un mühendislik dehasından doğar — onlar kuşatmayı sever, savunmayı kutsar ve onların savaşı, bir kale gibi durmaktır; bir Imperial Fist, savaşta geri çekilmez ve onun varlığı, düşmanın en zorlu engelidir. Imperial Fists'in en büyük zaferi, Terra Kuşatması'dır — onlar, Horus'un en güçlü saldırısını durdurdular ve onların savunması, İmparatorluğun hayatta kalmasını sağladı; ve onların mirası, bugün bile İmparatorluğun en güvenilir savunma gücüdür. Imperial Fists, İmparatorluğun en disiplinli ve en sadık Chapter'ıdır — onlar, kale ve kalkanın somut halidir.
 
--# Kaynaklar: *The Beast Arises: I Am Slaughter — Dan Abnett*; *Codex: Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551636479925559479>, <#1551650286559559741>, <#1551809039342501970>, <#1551809818250182657>
+-# Kaynaklar: *The Beast Arises: I Am Slaugh

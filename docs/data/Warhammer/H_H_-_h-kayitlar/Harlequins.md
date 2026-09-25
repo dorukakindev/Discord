@@ -37,6 +37,10 @@ Harlequin'ler Starweaver ve Voidweaver gibi hafif ve hızlı araçlar ile Skywea
 
 Bir Masque'ın kaç Troupe'tan oluştuğu veya kaç oyuncuyu barındırdığı yayımlanmış kanonda sabit bir sayıyla verilmez.
 
+## Tarihçe
+
+Harlequins, Aeldari ırkının en gizemli ve en tehlikeli kesimidir; Cegorach — Laughing God — 'a adanmış ve hiçbir Craftworld'e bağlı olmayan özgür ruhlu savaşçılardır — onlar, hem savaşçı hem de performans sanatçısıdır ve onların savaşı, hem dans hem de ölümdür. Harlequins'in en büyük özelliği, onların Masque'larıdır — her Harlequin, bir karakter oynar ve onun savaşı, o karakterin rolüdür; bir Shadowseer, hem
+
 ## Kültür ve Savaş Tarzı
 
 Harlequin'ler için savaş, dans ve anlatı birbirinden ayrılmaz. Savaş alanında akrobatik bir koreografiyle hareket eder, düşmanın beklediği yerde değil beklenmedik açılardan belirir, çoğu zaman bir mitin sahnelenişini andıran bir düzende saldırırlar. Bu yüzden onlara karşı savaşan Imperial gözlemciler çatışmayı çoğu zaman bir oyun gibi tarif eder; oysa bu oyunun sonucu ölümcüldür.

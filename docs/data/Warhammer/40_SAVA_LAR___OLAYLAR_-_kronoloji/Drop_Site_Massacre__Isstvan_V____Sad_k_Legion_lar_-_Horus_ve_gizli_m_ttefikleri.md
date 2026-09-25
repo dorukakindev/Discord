@@ -15,12 +15,6 @@ Heresy'nin geri dönüşü olmayan anı: Legion'ların birbirine açıkça kıl�
 
 ## Tarihçe
 
-İlk dalgada Iron Hands, Salamanders ve Raven Guard, Urgall Depression'da tahkim edilmiş Horus mevzilerine indi. İkinci dalgayı oluşturan Night Lords, Iron Warriors, Word Bearers ve Alpha Legion iniş bölgesine vardığında ateşi sadık kuvvetlere çevirdi. Ferrus Manus, Fulgrim'in elinde başı kesilerek can verdi. Corvus Corax Legion'ının kalıntılarıyla kaçmayı başardı; Vulkan'ın akıbeti ise uzun süre bilinmedi.
-
-## Kanon Notu
-
-Vulkan'ın Curze'un eline düştüğü, sonradan *Vulkan Lives* romanında açıklanmıştır. Alpha Legion'ın gerçek niyetleri Heresy serisinde kasıtlı olarak katmanlı bırakılır.
-
--# Kaynaklar: *Fulgrim — Graham McNeill*; *Deliverance Lost — Gav Thorpe*; *Vulkan Lives — Nick Kyme*; *Horus Heresy Book Two: Massacre*
+Drop Site Massacre (Isstvan V), Horus Heresy'nin en acımasız ve en trajik anıdır; Horus'un — ve onun gizli müttefikleri Iron Warriors, Night Lords, Alpha Legion ve Word Bearers'ın — sadık Legion'ları (Iron Hands, Salamanders ve Raven Guard) Isstvan V'de tuzağa düşürdüğü ve onları neredeyse yok ettiği en büyük katliamdır — onlar, Heresy'nin en acımasız anının ve en büyük ihanetinin somut halidir. Drop Site Massacre'ın en büyük özelliği, onun tuzağıdır — onlar, bir savaşın en acımasız tuzağıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Drop Site Massacre, bir gezegenin en acımasız halidir ve onların varlığı, İmparatorluğun en büyük ihanetinin somut halidir. Drop Site Massacre'ın en ünlü özelliği, onun Ferrus Manus'un ölümüdür — onlar, bir primarch'ın en büyük kaybının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin
 
 -# İlişkili kayıtlar: <#1551814951365115956>, <#1551649069817008243>, <#1551650329240674335>, <#1551649028121563137>, <#1551636519796867313>

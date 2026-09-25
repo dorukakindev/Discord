@@ -16,8 +16,8 @@ Galaksinin en tehlikeli Ork warlord'larından birinin yükselişinin başladığ
 
 ## Tarihçe
 
-Ghazghkull, Imperial kuvvetlerle bir çatışmada başından ağır yaralandı; Mad Dok Grotsnik kafatasının bir kısmını metal bir plakayla onardı. Bundan sonra Gork ve Mork'tan geldiğine inandığı vizyonlar görmeye başlayan Ghazghkull kendini tanrıların peygamberi ilan etti ve Urk'un kabilelerini birleştirdi. Bu birlikten doğan Waaagh!, 941.M41'de Armageddon'a yöneldi.
+Urk, İmparatorluğun en önemli ve en tehlikeli dünyalarından biridir; Ghazghkull Mag Uruk Thraka — Ork'ların en büyük Warboss'u — 'nun doğduğu dünyadır — onlar, İmparatorluğun en büyük düşmanının evidir. Urk'un en büyük özelliği, onun Ghazghkull'ın evidir — onlar, Ork'ların en büyük liderinin doğduğu yerdir ve onların varlığı, İmparatorluğun en büyük tehdidinin merkezidir; bir Urk, bir gezegenin en tehlikeli halidir ve onların varlığı, Ork'ların en büyük gücünün kaynağıdır. Urk'un en ünlü özelliği, onun Ghazghkull'ın doğuşudur — onlar, bir Warboss'un doğuşunun merkezidir ve onların varlığı, İmparatorluğun en büyük düşmanının kanıtıdır. Urk, İmparatorluğun en önemli ve en tehlikeli dünyasıdır — onlar, Ork'ların en büyük liderinin evinin somut halidir.
 
 -# Kaynaklar: *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*; *Codex: Orks — 10th Edition*
 
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551643990196232303>, <#1551814495138091013>, <#1551817830096310363>
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551643990196232303>, <#1551814495138091013>

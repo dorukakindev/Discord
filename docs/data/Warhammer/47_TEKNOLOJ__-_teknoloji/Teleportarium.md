@@ -14,6 +14,4 @@ Teleportarium'un tehlikesi, Warp ile olan temasıdır: ışınlanma sırasında 
 
 ## Tarihçe
 
-Uzay gemilerinin ışınlanma güvertesi; ışınlanma teknolojisinin adı. Terminatör'leri sahneye çıkaran cihaz — dakikada değil saniyede savaşa.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Teleportarium, gemilerde ve büyük savaş platformlarında bulunan teleportasyon düzeneğidir; maddeyi Warp üzerinden kısa mesafelerde taşıyarak askerleri doğrudan savaş alanına ışınlayabilir. Sistem son derece tehlikelidir: hedef hesaplamasındaki ufak bir sapma, teleport edilen kişinin kayanın içinde ya da boşlukta belirmesine yol açar; bu yüzden teleport saldırıları çoğunlukla Terminator zırhlı birlikler tarafından gerçekleştirilir çünkü onların z

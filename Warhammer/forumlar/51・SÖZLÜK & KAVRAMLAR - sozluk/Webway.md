@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Warp_Gate.jpg/revision/latest?cb=20151101182120
 
+## Tarihçe
+
+Webway, Old Ones tarafından milyonlarca yıl önce inşa edilmiş boyutlararası tünel ağıdır; Warp'ın içine oyulmuş ama onun kaosundan korunmuş gerçeklik kanallarından oluşur ve galaksinin her noktasını anında birbirine bağlar. Eldari'ler onu şu an kullanan tek büyük güçtür — Webway üzerinden savaş, ticaret ve haberleşme yaparlar ve bu ağ onların İmparatorluk karşısındaki en büyük stratejik avantajıdır. Emperor of Mankind da Webway'e erişmeye çalıştı — Terra'da gizli bir Webway Gate inşa ederek insanlığı Warp'tan bağımsız hale getirmek istedi ama Magnus'un ihaneti bu projeyi çökertti ve insanlık Webway'in anahtarını kaybetti. Ağ yaşlıdır — koridorları yırtılır, demonlar sızar ve bazı bölgeleri tamamen kaybolmuştur; Black Library, Commorragh ve Craftworld'ler hep Webway üzerindedir. Webway'in tamamını bilen yoktur — Eldari bile sadece bildiği koridorları kullanır ve derinliklerindeki karanlık yollar kimsenin haritasında yoktur.
+
 https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Warp_Gate.jpg/revision/latest?cb=20151101182120
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

@@ -31,6 +31,10 @@ Chapter'ın squad geleneği, bu bağımsız savaş biçimini bir arada tutar. Ka
 
 Reef Stars'ın savunması, Iron Snakes için bitmeyen bir görevdir. Drukhari'nin ani baskınları ve xenos tehditleri, Chapter'ı sürekli tetikte tutar. Bu süregelen savaş, Iron Snakes'i gösterişli seferlerin değil, sabırlı ve amansız bir sınır nöbetinin Chapter'ı hâline getirmiştir.
 
+## Tarihçe
+
+Iron Snakes, Ultramarines soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, Ithaka'nın deniz ve ada kültüründen doğar ve onlar, İmparatorluğun en disiplinli ve en deneyimli savaşçılarıdır. Iron Snakes'in en büyük özelliği, onların sualtı ve ada savaşındaki uzmanlığıdır — onlar, denizde, okyanusta ve ada dünyalarında savaşır ve onların savaşı, hem sualtı hem de karada ölümc��ldür; bir Iron Snake, savaşta hem yüzer hem de yürür ve onun adaptasyonu, Chapter'ın en büyük gücüdür. Iron Snakes'in en ünlü savaşı, Sabbat Worlds Crusade'deki görevleridir — onlar, o seferin en zorlu operasyonlarını üstlendiler ve onların disiplini, İmparatorluğun en güvenilir savaş gücünü oluşturdu. Iron Snakes, İmparatorluğun en disiplinli ve en sessiz Chapter'ıdır — onlar savaşır ama konuşmaz, onlar kazanır ama gösteriş yapmaz.
+
 ## Silahlar ve Savaş Tarzı
 Iron Snakes'in savaş tarzı, Ultramarines disiplinini yakın dövüşe ve falanks benzeri düzenlere yatkın bir gelenekle birleştirir. Chapter, geleneksel silahlara özel bir değer verir. Kısa kılıçlar ve savaş mızrakları Iron Snakes'in kimliğine kazınmıştır. Mızrak, Chapter'ın yakın dövüş geleneğinin simgesi hâline gelmiş bir silahtır; yine de kaynaklar onun kullanım ayrıntıları üzerinde fazla durmaz.
 

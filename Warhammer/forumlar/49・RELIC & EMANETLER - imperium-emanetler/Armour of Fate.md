@@ -15,12 +15,10 @@ Guilliman'ın bedenini ayakta tutmak üzere yapılmış zırhtır. Bir savaş z�
 
 ## Tarihçe
 
-M31'de Fulgrim'in zehirli darbesiyle yaralanan Guilliman, on bin yıl Temple of Correction'da stasis içinde kaldı. *Gathering Storm III: Rise of the Primarch*'ta Yvraine ve Ynnari'nin katkısıyla gerçekleşen dirilişte Cawl'ın hazırladığı Armour of Fate içinde uyandı. Kaynaklara göre yaranın etkisi tam geçmemiştir ve zırh, Primarch'ın yaşamını sürdüren sistemleri barındırır; bu yüzden Guilliman için bir zırhtan çok bir bağımlılık hâline gelir.
+Armour of Fate, Ultramarines'in en ünlü ve en kutsal relic'idir; Guilliman'ın — Ultramarines'in primarch'ı — hayata döndürüldüğünde giydiği ve onun en büyük savaşlarının simgesi olan bir zırhtır — onlar, Ultramarines'in en ünlü ve en kutsal hazinesidir. Armour of Fate'in en büyük özelliği, onun gücüdür — onlar, bir primarch'ın en güçlü zırhıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Armour of Fate kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de semboliktir. Armour of Fate'in en ünlü özelliği, onun Guilliman'ın zırhıdır — onlar, bir primarch'ın kendi zırhıdır ve onların varlığı, Ultramarines'in en büyük onurunun kanıtıdır. Armour of Fate, Ultramarines'in en ünlü ve en kutsal relic'idir — onlar, bir primarch'ın gücünün ve Ultramarines'in onurunun somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
 Zırhın bileşenleri ve işleyişi kaynaklarda ayrıntılı açıklanmaz. Guilliman'ın **Hand of Dominion** adlı gauntlet'i de dirilişten sonraki donanımının parçasıdır.
 
--# Kaynaklar: *Gathering Storm III: Rise of the Primarch*; *Dark Imperium — Guy Haley*; *Codex: Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551808704901423186>, <#1551639038291611649>, <#1551814468458258434>, <#1551809867201908737>
+-# Kaynaklar: *Gathering Storm III: Rise of the Primarch*; *Dark Imperium —

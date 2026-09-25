@@ -16,8 +16,6 @@ White Scars'ın aday kaynağı ve kültürel beşiği. Bozkırın hız, özgürl
 
 ## Tarihçe
 
-Jaghatai, bozkır kabileleri arasında büyüyüp boy savaşlarında yükseldi ve Chogoris'in yerleşik iktidarına karşı kabileleri birleştirdi. Emperor'un gelişiyle V Legion'ın başına geçerek Legion'ı Chogoris'in gelenekleriyle yeniden biçimlendirdi. Chogoris'in psişik gelenekleri, Legion'da Stormseer'lerin varlığına zemin hazırlamış ve Jaghatai ile Magnus arasındaki saygının kaynaklarından biri olarak anılmıştır. Heresy sonrasında White Scars, adaylarını hâlâ Chogoris'in bozkır halklarından seçer.
+Chogoris, White Scars'ın Chapter yurdu olan ve İmparatorluğun en özgür ve en vahşi dünyasıdır; onun bozkırları ve özgür kültürüyle — White Scars'ın özgürlük geleneğinin somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Chogoris'in en büyük özelliği, onun özgürlüğüdür — onlar, İmparatorluğun en özgür kültürüne sahiptir ve onların varlığı, White Scars'ın özgürlüğünün ve bağımsızlığının kanıtıdır; bir Chogoris, bir gezegenin en özgür halidir ve onların varlığı, bir Legion'un evinin en özgür parçasıdır. Chogoris'in en ünlü özelliği, onun Jaghatai Khan'ın evidir — onlar, bir primarch'ın evidir ve onların varlığı, bir Legion'un ruhunun ve onurunun kanıtıdır. Chogoris, White Scars'ın evidir ve onların ruhunun merkezidir — onlar, özgürlüğün ve vahşetin somut halidir.
 
--# Kaynaklar: *Scars — Chris Wraight*; *Jaghatai Khan: Warhawk of Chogoris — Chris Wraight*; *Codex: Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551638913683034174>, <#1551815803220004936>, <#1551816657691746335>
+-# Kaynaklar: *Scars — Chris Wraight*; *Jaghatai Khan: Warhawk of Chogoris — Chri

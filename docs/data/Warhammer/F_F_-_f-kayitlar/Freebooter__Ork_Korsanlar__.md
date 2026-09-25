@@ -18,6 +18,6 @@ Klanından ayrılmış ya da sürülmüş Ork'ların paralı-korsan filoları; k
 
 ## Tarihçe
 
-Freebooter'lar, klanını terk etmiş ya da kovulmuş Ork'lardan oluşan korsan filolarıdır; paralı asker olarak herkese çalışırlar. Kaptan kılığına bürünmüş Freebooter Kaptin'ler kendi bayraklarını çeker ve kendi yağma yasalarını yazar. Sadakatleri altın ve gürültüyle ölçülür.
+Freebooter'lar, Ork ırkının en bağımsız ve en korsan kesimidir; klanlara bağlı olmayan ve kendi korsan filolarında yaşayan Ork'lardır — onlar, Ork'ların en özgür ve en tehlikeli halidir. Freebooter'ların en büyük özelliği, onların bağımsızlığıdır — onlar, bir Warboss'a bağlı değildir ve kendi yollarını izlerler; bir Freebooter, hem savaşçı hem de korsandır ve onların savaşı, hem yağma hem de özgürlük içindir. Freebooter'ların en ünlü özelliği, onların korsanlığıdır — onlar, Imperial ticaret filolarını yağmalar ve onların gemileri, İmparatorluğun en tehlikeli korsan gücüdür; bir Freebooter saldırısı, bir Imperial ticaret filosunun sonu demektir. Freebooter'lar, Ork ırkının en bağımsız ve en tehlikeli kesimidir — onlar, Ork'ların en özgür ve en vahşi halidir.
 
 -# Kaynaklar: *Codex: Orks*; *Freebooterz* kaynakları

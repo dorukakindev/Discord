@@ -15,12 +15,8 @@ Wyrdvane Psyker'lar tek tek zayıf, birlikte tehlikeli bir koro oluşturur. Gü�
 
 ## Tarihçe
 
-Guard'ın bu birliği farklı yayın dönemlerinde farklı adlarla anılmıştır: Psyker Battle Squad ve genel olarak sanctioned psyker adları, güncel yayınlarda yerini Wyrdvane Psyker'a bırakmıştır. Birlik, çoğu zaman bir Commissar'ın ya da Primaris Psyker'ın gözetiminde savaşır.
+Wyrdvane Psyker (Sanctioned Psyker), İmparatorluğun en ünlü ve en resmi psyker sınıfıdır; İmparatorluk'un resmi sınıflandırmasına göre psyker olan ve onun en yaygın sınıfı olan Wyrdvane, İmparatorluğun en yaygın ve en resmi varlığıdır — onlar, İmparatorluğun en ünlü ve en resmi psyker sınıfıdır. Wyrdvane'in en büyük özelliği, onların resmiliğidir — onlar, İmparatorluk'un resmi sınıflandırmasına göre psyker'dır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin kanıtıdır; bir Wyrdvane, hem bir psyker hem de bir sınıflandırmadır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin somut halidir. Wyrdvane'in en ünlü özelliği, onların Sanctioned olmasıdır — onlar, İmparatorluğun en resmi ve en yaygın psyker sınıfıdır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin kanıtıdır. Wyrdvane Psyker, İmparatorluğun en ünlü ve en resmi psyker sınıfıdır — onlar, bir sınıflandırmanın ve İmparatorluğun en büyük çeşitliliğinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Psişik gücün paylaşılması, tek bir üyenin Warp tarafından ele geçirilmesi riskini ortadan kaldırmaz; kaynaklar bu birliklerin kayıplarının ağır olduğunu ima eder.
-
--# Kaynaklar: *Codex: Astra Militarum — 10th Edition*
-
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551818131679215728>, <#1551810610264678443>
+Psişik gücün paylaşılması, t

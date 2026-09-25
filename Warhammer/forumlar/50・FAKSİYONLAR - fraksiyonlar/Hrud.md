@@ -12,6 +12,6 @@ Hrud'u gerçekten korkunç ve eşsiz kılan, bedenlerinin etrafında taşıdıkl
 
 ## Tarihçe
 
-Hrud, yaşayan entropi yaratıklarıdır — temas ettikleri şeyi çürüten, zamanı büken ve sadece gölgede var olan xenos ırkı. İmparatorluk onları 'zeitgeist varlıkları' olarak görür; yakınlıkları pas, yaşlanma ve ölüm getirir. İlk Büyük Haçlı Seferi'nde bile ortadan kaldırılamadılar.
+Hrud, WH40K evreninin en gizemli ve en tehlikeli xeno türlerinden biridir; kemirgen benzeri, zaman ve uzay üzerinde etkisi olan ve bir gezegenin çevresini bile yaşlandıran bir türdür — onlar, İmparatorluğun en gizemli ve en ölümcül düşmanlarından biridir. Hrud'un en büyük özelliği, onların zaman etkisidir — onlar, çevrelerindeki zamanı bozar ve her şeyi yaşlandırır; bir Hrud kolonisi, bir gezegenin çevresini bile çürütebilir ve onların varlığı, bir gezegenin sonunun başlangıcıdır. Hrud'un en korkulan yönü, onların entropisidir — onlar, sadece fiziksel olarak değil, zamansal olarak da tehlikelidir; bir Hrud, bir Imperial binasını bile yıllar içinde çürütebilir ve onların savaşı, hem fiziksel hem de zamansal bir mücadeledir. Hrud, İmparatorluğun en gizemli ve en tehlikeli düşmanıdır — onlar, zamanın kendisinin düşmanıdır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar

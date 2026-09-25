@@ -48,6 +48,10 @@ Kyras'ın düşüşü, Blood Ravens'ın hikâyesindeki en ağır kırılmadır. 
 
 Aurelia anlatısı, Blood Ravens'a trajik bir derinlik katar. Chapter artık yalnızca bilgi peşinde değildir; bu arayışın bedelini ödemiş, köklerinin savrulduğunu ve liderlerinin düştüğünü görmüştür. Ancak burada da oyuncu seçimlerine bağlı ayrıntıların kanondaki yeri kesin değildir.
 
+## Tarihçe
+
+Blood Ravens, gene-lineage'i bilinmeyen (muhtemelen Thousand Sons soyu) ve İmparatorluğun en bilgi-odaklı ve en psişik Space Marine Chapter'larından biridir; onların savaş doktrini, bilgi ve psişik gü�� üzerine
+
 ## Dawn of War III ve Sonrası
 2017'de çıkan *Dawn of War III*, Blood Ravens'ı Chapter Master Gabriel Angelos önderliğinde yeniden sahneye taşır. Bu oyunda Chapter, Ork'ların ve Aeldari'nin de peşine düştüğü kadim ve güçlü bir silah uğruna çok taraflı bir çatışmaya girer. Oyun, serinin önceki bölümlerindeki karakterleri ve temaları sürdürürken Blood Ravens'ın hikâyesine yeni bir bölüm ekler; Gabriel'in bu hikâyedeki yazgısı da oyunun anlatısında belirleyici bir yer tutar.
 

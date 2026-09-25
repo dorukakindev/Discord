@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/MalcadorInfernus1.png
 
 ## Tarihçe
 
-Malcador Infernus, Malcador Assault Tank'ın alev-silahı taşıyan nadir varyantıdır; Inferno Gun'ıyla siperleri ve yakın-mesafe düşmanlarını 'arınma ateşi'yle kavurur. Büyük Sefer dönemi tasarımı olarak modern ordularda az görülür ama kuşatma ve şehir temizliğinde hâlâ korkulan bir platformdur. 'Alevli tank' olarak bilinen bu zırhlı, mevcut chapter'ların 'saklı arsenal'inde yer alır.
+Malcador Infernus, Imperial Guard tarafından kullanılan ve Malcador Assault Tank'ın bir varyantı olan bir alev silahı tankıdır; onun Inferno Cannon'u — bir devasa alev topu — ile düşmanı yakarak imha eden bir araçtır — onlar, Imperial Guard'ın en yıkıcı ve en korkulan aracıdır. Malcador Infernus'un en büyük özelliği, onun Inferno Cannon'udur — onun alevi, bir düşman pozisyonunu saniyeler içinde yakar; bir Infernus, bir düşman hattını alevle temizleyebilir ve onların varlığı, bir Imperial Guard saldırısının en yıkıcı silahıdır. Malcador Infernus'un en ünlü görevi, Imperial Guard'ın çeşitli operasyonlarıdır — onlar, düşmanı alevle temizlemek için kullanılırlar ve onların varlığı, Imperial Guard'ın en korkulan silahıdır. Malcador Infernus, Imperial Guard'ın en yıkıcı ve en korkulan aracıdır — onlar, alevin ve yıkımın somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058796916449361>

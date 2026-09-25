@@ -14,16 +14,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/08/Chaos_beasts_break_ma
 
 ## Tarihçe
 
-Heresy'nin ardından Eye of Terror'a kaçan hain forge'larda bu zanaat, sadık Mechanicus'un asla göze alamayacağı bir özgürlükle gelişti. Kırk bininci binyılda Forgefiend, Maulerfiend, Defiler ve Heldrake gibi makineler Heretic Astartes warband'lerinin yanında savaşır.
+Daemon Engine, Warpsmith'lerin veya Dark Mechanicus'un ürettiği, içine gerçek bir demon bağlanmış savaş makineleridir; makine ile demon arasındaki sınır silinir ve ortaya çıkan şey ne tamamen metal ne de tamamen varlıktır. Hellbrute, Defiler, Forgefiend, Maulerfiend, Lord of Skulls — hepsi aynı korkunç sürecin ürünüdür: bir demon Warp'tan çağrılır, fiziksel kabuk (genelde eski bir araç veya zırh iskeleti) içine sürülür ve Runes of Binding ile makineye mühürlenir. Sonuç, acı çeken, öfkeli ve yakıt olarak ruh yiyen bir savaş canavarıdır; Daemon Engine'in gövdesi yaşar, yaraları iyileşir ve düşmana karşı kin besler. Warpsmith'ler için bu bir zanaattır — daemon'un iradesini kırıp makineye esir etmek; ama bağ zayıflarsa demon isyan eder ve kendi sahibini parçalar. Chaos ordularının en korkulan varlıklarındandır çünkü onlar sadece silah değil, Warp'ın kendisinin savaşa giren tezahürüdür.
 
 ## Teknik / Biyolojik Özellikler
-
-Makinenin daemon'la nasıl birleştirildiği yayımlanmış kanonda ayrıntılı bir mekanizmaya bağlanmaz; bağ zayıfladığında daemon'un kurtulma arzusu hep tehlike olarak kalır.
-
-## Kanon Notu
-
-Vashtorr'un doğası ve Dark Mechanicus ile ilişkisi henüz bütünüyle açıklanmış değildir; onu bu zanaatın lideri olarak tanımlamak doğru olmaz. Tekil makineler <#1551629124710170806> kayıtlarındadır.
-
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Mechanicum — Graham McNeill*
 
 -# İlişkili kayıtlar: <#1551650329156788287>, <#1551812225570836561>, <#1551637652569067542>, <#1551809619544899625>

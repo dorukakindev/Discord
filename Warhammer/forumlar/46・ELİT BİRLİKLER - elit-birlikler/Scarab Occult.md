@@ -15,12 +15,8 @@ Scarab Occult, Rubric Marine'lerin Terminator zırhlı seçkinleridir: ruhları 
 
 ## Tarihçe
 
-Heresy dönemi yayınlarında Magnus'un seçkin Terminator kadrosu Sekhmet adıyla anılır; Scarab Occult bu geleneğin mirasçısı olarak sunulur. Ahriman'ın Rubric'i Legion'un büyük bölümünü toz ve zırha çevirirken bu seçkinler de aynı akıbeti paylaştı. Sonraki bin yıllarda Magnus'un ve sorcerer-lord'ların en güvendiği kuvvetler arasında kaldılar.
+Scarab Occult, Thousand Sons Legion'unun rubric-marine'lerinin dışındaki seçkin savaşçılarıdır; tamamen farklı bir kategori — onlar hâlâ bedenli ve zihinli olan, ama Tzeentch'in gücüyle tamamen yozlaşmış ağır piyade birimidir. Scarab Occult'lar Cataphractii Terminator zırhı giyer ve inferno bolter —Warp-ateşli boltgun — taşır; onların atışları sadece mermi değil, küçük büyülerdir ve zırhı eritmekten çok hedefi mutasyona uğratır. Scarab Occult, Ahriman'ın Rubric'i öncesinde ve sonrasında var olan bir birimdir — Rubric, sıradan askerleri toz haline getirdi ama Scarab Occult'lar kendi güçleriyle ayakta kaldı; bu yüzden onlar Thousand Sons'ın az sayıdaki 'canlı' savaşçısıdır. Savaşta Scarab Occult'lar yavaş ama durdurulamazdır — Terminator zırhları ve Tzeentch'in büyüsü onları neredeyse dokunulmaz yapar; bir Scarab Occult manga'sı, düşmanı hem metal hem de büyüyle öğütür.
 
 ## Kanon Notu
 
-Sekhmet ile Scarab Occult arasındaki geçişin ayrıntıları kaynaklarda sınırlıdır. Rubric Marine'lerin zırhında bir bilinç kırıntısının sürüp sürmediği de tartışmalı bırakılır.
-
--# Kaynaklar: *Codex: Thousand Sons*; *Ahriman: Exile — John French*
-
--# İlişkili kayıtlar: <#1551809231580307517>, <#1551808728062501019>, <#1551816657691746335>, <#1551647728692633643>
+Sekhmet ile Scarab Occult arasındaki geçişin ayrıntıları kaynaklarda sı

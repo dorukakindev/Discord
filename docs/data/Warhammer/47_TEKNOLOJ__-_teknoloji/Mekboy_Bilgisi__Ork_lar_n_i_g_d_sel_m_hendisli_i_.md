@@ -16,8 +16,4 @@ Mekboyz makineyi öğrenmeden bilir. Bir hurda yığınından silah, araç ya da
 
 ## Tarihçe
 
-Ork savaş makinelerinin tamamı, Trukk'tan Stompa'ya ve Gargant'a kadar, Mekboyz'un elinden çıkar. Her ürün tekildir; aynı Mek'in yaptığı iki silah bile birbirine benzemeyebilir. Mekboyz'un kendi aralarındaki rekabet ve "daha büyük, daha gürültülü" arzusu, Ork teknolojisinin durmadan değişen, doğaçlama karakterini belirler.
-
--# Kaynaklar: *Codex: Orks — 10th Edition*; *Brutal Kunnin' — Mike Brooks*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817636516470845>, <#1551817830096310363>
+Mekboy'lar, Ork ırkının mühendis-savaşçılarıdır ve bilgileri okuldan değil, Old Ones tarafından genetiklerine yazılmış içgüdüsel bir mühendislik algoritmasından gelir. Bir Mekboy demir yığınından silah, motor, Gargant veya Warp-kapısı üretebilir; üretim süreci plansız, deneyimsiz ve anlaşılamazdır ama sonuç çalışır — çünkü WAAAGH! alanı, Ork inancıyla fizik arasındaki boşluğu doldurur. Mekboy bilgisi Old Ones'ın War in Heaven sırasında Ork'ları silah ırkı olarak tasarlamasının kalıntısıdır; amaç, onların savaşmak için ihtiyaç duydukları araçları kendilerinin üretebilmesiydi. Büyüdükçe Mekboy daha karmaşık şeyler 'hatırlar' — bir Waaagh! doruktayken Mekboy'lar normalde sadece hayal edilebilecek mega-yapılar (Stompa, Gargant, Rok, Space Hul

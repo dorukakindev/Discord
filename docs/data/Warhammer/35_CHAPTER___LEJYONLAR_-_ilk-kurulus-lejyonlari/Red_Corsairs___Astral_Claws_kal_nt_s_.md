@@ -16,8 +16,4 @@ Imperium'dan kopan Space Marine'lerin toplandığı bir mıknatıs hâline gelen
 
 ## Tarihçe
 
-Badab War'da ağır yaralanan Lufgt Huron, bedeni bionik ve karanlık yöntemlerle onarılarak Huron Blackheart adıyla Maelstrom'da yeniden doğdu. Red Corsairs, Imperium'un Maelstrom çevresindeki dünyalarına akınlar düzenleyerek hem ganimet hem de yeni savaşçı topladı. Great Rift çağında Imperium'un dağınıklığı, bu korsan krallığına yeni fırsatlar sunmuştur.
-
--# Kaynaklar: *Imperial Armour Volume Ten: The Badab War — Part Two*; *Codex: Chaos Space Marines*
-
--# İlişkili kayıtlar: <#1551809294750449746>, <#1551811438547312645>, <#1551812225570836561>, <#1551816158951510069>
+Red Corsairs, Astral Claws Chapter'ının Chaos'a düşmüş kalıntısıdır; Badab War'da Huron'un isyanını izleyen ve sonunda tamamen Chaos'a düşen bu Chapter, İmparatorluğun en ünlü ve en tehlikeli renegade warband'idir. Red Corsairs'in kökeni, Huron'un trajedisidir — Astral Claws'un Chapter Master'ı Huron, İmparatorluğun baskısına isyan etti ve sonunda Chaos'a düştü; onun Chapter'ı da onunla birlikte düştü ve Red Corsairs, İmparatorluğun en büyük ihanetinin simgesi oldu. Red Corsairs'in savaş doktrini, Huron'un taktik dehasından doğar — onlar korsanlık, baskın ve gerilla savaşında uzmanlaşmışlardır ve onların filosu, İmparatorluğun en tehlikeli korsan gücüdür; bir Red Corsair saldırı

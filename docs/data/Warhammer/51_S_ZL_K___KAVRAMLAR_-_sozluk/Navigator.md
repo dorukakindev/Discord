@@ -2,7 +2,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Navigator_2.jpg/revis
 
 ## Tarihçe
 
-Navigator (Homo navigo), Navigator Geni'ne sahip İmparatorluk-onaylı özel bir insan mutantıdır; bir yıldız gemisini Warp'ta güvenle yönlendirme yeteneği verir. Alınlarındaki üçüncü 'Warp gözü' Warp'ın akımlarını doğrudan görebilir; bu yetenek onları İmparatorluk'un hayatta kalması ve yıldızlararası iletişim/ticaret için vazgeçilmez kılar. Navis Nobilite'nin güçlü ailelerine mensupturlar.
+Navigator, İmparatorluğun yıldızlararası seyahatinin vazgeçilmez anahtarıdır; alnında Warp'ı görebilen üçüncü bir göz taşıyan ve Astronomicon'un ışığına dayanarak gemiyi Immaterium'da yönlendiren mutasyonlu insanlardır. Navigator'lar Navis Nobilite'nin üyeleridir — soylu, kapalı ve son derece güçlü bir hanedan ağıdır; onların geni Dark Age of Technology'de üretildi ve bugün İmparatorluk'un varoluşu onların omzundadır — Navigator'suz bir gemi Warp'a giremez veya girse de kaybolur. Navigator'ın üçüncü gözü hem lütuf hem lanettir — ona bakan ölümlüler delirir veya ölür; bu yüzden Navigator'lar gözlerini bandajla kapatır ve ancak gerekli olduğunda açar. Navigator olmak, İmparatorluk'taki en yüksek ayrıcalıktır ama aynı zamanda en büyük yük — onlar olmadan İmparatorluk yok olur ama onlar da İmparatorluk içinde asla tam olarak ait olmadıkları bir kasttır.
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7b/The_Great_Unclean_One
 
 ## Tarihçe
 
-Botchulaz, Nurgle'un Great Unclean One'ıdır; Eldar'lar tarafından İmparatorluk Hive World'ü Aerius'taki psişik yapı Kara Piramit içine hapsedildi. Hapishanesinin anahtarı üç parçaya bölünmüş 'Talisman of Lykos' artefaktıydı — parçalardan biri bulunup 'uyuyan canavar' tekrar uyanma tehdidi yarattı. 'Hapsedilmiş veba efendisi' olarak İmparatorluk'un en tehlikeli tutuklularından biridir.
+Botchulaz, Nurgle'un en ünlü ve en tiksindirici Greater Daemon'ıdır; Nurgle'un en büyük vebasını taşıyan ve onun 'sevgi'sini yayan en tiksindirici daemon olan Botchulaz, Chaos'un en tiksindirici ve en tehlikeli varlıklarından biridir — onlar, Nurgle'un en ünlü ve en tiksindirici daemon'udur. Botchulaz'ın en büyük özelliği, onun vebasıdır — onlar, Nurgle'un en büyük vebasını taşıyan en tiksindirici daemon'dur ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Botchulaz, hem bir daemon hem de bir veba taşıyıcısıdır ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Botchulaz'ın en ünlü özelliği, onun 'Bilethrone' lakabıdır — onlar, Nurgle'un en tiksindirici ve en 'sevgi dolu' daemon'ıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır. Botchulaz, Nurgle'un en ünlü ve en tiksindirici Greater Daemon'ıdır — onlar, bir vebanın ve Nurgle'un 'sevgi'sinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

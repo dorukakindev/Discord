@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Servitor.jpg/revision/latest?cb=20090214185113
 
+## Tarihçe
+
+Servitor, insan etiyle makineyi birleştiren bilinçsiz sibernetik işçilerin genel adıdır; İmparatorluk'taki basit ve tehlikeli işlerin büyük bölümünü onlar yapar. Adeptus Mechanicus'un yapay zekâ yasağından doğdular — düşünen makine yasak olduğu için hesaplama ve emir işleme görevlerinin insan beyni dokusuyla yapılması gerekir. Çoğu servitor kadın-erkek fark etmeksizin suçlulardan, borçlulardan veya kültürde yetiştirilmiş klon bedenlerden üretilir; zihinleri silinir, uzuvları aletlerle değiştirilir ve tek bir göreve programlanırlar. Bir servitor ağır yük taşıyabilir, silah platformu olarak kilitlenebilir ya da tapınakta ayin düzeni sürdürebilir; bilinci yoktur ama organik bileşeni olduğu için Chaos yozlaşmasına açıktır. İmparatorluk ekonomisinin görünmez iskeleti servitor'lerdir — trilyonlarca insan yaşamı, onların sessiz emeğiyle döner.
+
 https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Servitor.jpg/revision/latest?cb=20090214185113
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

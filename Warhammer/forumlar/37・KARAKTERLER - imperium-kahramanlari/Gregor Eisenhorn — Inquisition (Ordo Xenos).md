@@ -16,8 +16,6 @@ Inquisition'ın felsefi yelpazesindeki kaymayı kendi hayatında yaşayan bir fi
 
 ## Tarihçe
 
-Gregor Eisenhorn, Ordo Xenos'un Inquisitor'üdür; başta Amalathian Puritan'ı olarak başlayan ideolojisi, kariyeri boyunca Radical Xanthism'e o kadar dramatik değişti ki 'kendi inandığı her şeyi kendisi avlayan' adam oldu. Daemonhost Cherubael'i kullanan, heretic'leri alt eden ve kendi kurumunun da şüphelisi olan bu figür, Inquisition'un 'karanlık tarafı' efsanesinin kahramanıdır.
-
--# Kaynaklar: *Eisenhorn: Xenos — Dan Abnett*; *Eisenhorn: Malleus — Dan Abnett*; *Eisenhorn: Hereticus — Dan Abnett*; *The Magos — Dan Abnett*
+Gregor Eisenhorn, Inquisition'ın en ünlü ve en tartışmalı üyesidir; Ordo Xenos'un en deneyimli Inquisitor'u olan ve İmparatorluğun en gizli savaşlarını yöneten Eisenhorn, İmparatorluğun en büyük koruyucusu ve en büyük ihtilafıdır — onlar, İmparatorluğun en ünlü ve en tartışmalı Inquisitor'udur. Eisenhorn'un en büyük özelliği, onun radikalliğidir — onlar, geleneksel Inquisitor'lardan farklı olarak daemon'ları bile kullanan en tartışmalı üyedir ve onların varlığı, Inquisition'ın en büyük çelişkisinin kanıtıdır; bir Eisenhorn, hem bir koruyucu hem de bir radikaldir ve onların varlığı, İmparatorluğun en gizli gücünün somut halidir. Eisenhorn'un en ünlü özelliği, onun Cherubael'i — bir daemonhost — kullanmasıdır
 
 -# İlişkili kayıtlar: <#1551815304252887041>, <#1551753472070783096>, <#1551654107058540595>, <#1551812325521100811>

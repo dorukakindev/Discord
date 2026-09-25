@@ -16,8 +16,8 @@ Bir Fire caste pilotunun yönettiği, yürüyen bir silah platformuna yakın sü
 
 ## Tarihçe
 
-Kaynaklar Stormsurge'ü, en ağır zırhlı hedeflere ve kalabalık düşman saflarına karşı konuşlandırılan bir ateş platformu olarak sunar. Battlesuit'lerin çevikliğinden çok ateş gücünü öne çıkarır.
+KV128 Stormsurge, T'au Empire tarafından kullanılan en büyük ve en güçlü Battlesuit'dir; onun devasa boyutu ve silahlandırmasıyla — bir düşman Titan'ını bile yok edebilecek bir araçtır — onlar, T'au'nun en güçlü ve en yıkıcı savaş makinesidir. Stormsurge'ın en büyük özelliği, onun boyutudur — onlar, bir Titan'a denk boyutları vardır; bir Stormsurge, bir düşman Titan'ını bile yok edebilir ve onların varlığı, bir T'au ordusunun en güçlü silahıdır. Stormsurge'ın en ünlü görevi, T'au'nun çeşitli savaşlarıdır — onlar, İmparatorluğun en güçlü zırhlısına karşı kullanılırlar ve onların varlığı, T'au'nun en güçlü silahıdır. KV128 Stormsurge, T'au Empire'ın en güçlü ve en yıkıcı savaş makinesidir — onlar, Greater Good'un en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>
+-# İlişkili kayıtlar: <#155180914

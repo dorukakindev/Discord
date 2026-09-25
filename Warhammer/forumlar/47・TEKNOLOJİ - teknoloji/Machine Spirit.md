@@ -16,8 +16,4 @@ Mechanicus inancına göre her makinenin içinde onu hareket ettiren bir ruh var
 
 ## Tarihçe
 
-İnanç Imperium boyunca yayılmış, Astra Militarum tank mürettebatından Space Marine Techmarine'lerine kadar sayısız savaşçının gündelik pratiğine girmiştir. Kaynaklarda Land Raider gibi kadim araçların machine spirit'lerinin inatçı ya da öfkeli olabildiği, bazı büyük savaş makinelerinin ise neredeyse kişilik taşıdığı anlatılır; Titan'ların machine spirit'lerinin princeps'i etkileyebildiği söylenir.
-
--# Kaynaklar: *Codex: Adeptus Mechanicus — 10th Edition*; *Titanicus — Dan Abnett*; *Priests of Mars — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551753449878724689>, <#1551816635839549491>, <#1551809313096474696>, <#1551757340905181286>
+Machine Spirit, Adeptus Mechanicus'un her makinenin içinde yaşadığına inandığı ruhsal öz'dür; basit bir lasgun'dan devasa bir Titan'a kadar her Imperial makinesinin bir ruhu vardır ve bu ruh ancak doğru ritüellerle yatıştırılır veya öfkelendirilir. Kavram hem teknik hem dinîdir: Tech-priest'ler için makine ruhu, cihazın çalışma durumunun metafizik karşılığıdır — iyi bakılan, kutsanmış bir silahın ruhu sadık ve güçlüdür; ihmal edilen makinenin ruhu huzursuzlaşır ve arızalanır. Bazı büyük makinelerde (Titan, Land Raider, gemi cogitator'ları) machine spirit gerçekten yarı-bilinçli bir varlık gibi davranır — Land Raider'lar mürettebat öldüğünde bile savaşmaya devam etmiştir. Mechanicus'un Machine Spirit dog

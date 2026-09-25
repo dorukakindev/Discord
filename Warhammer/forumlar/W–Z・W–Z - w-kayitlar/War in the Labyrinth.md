@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c8/Harlequins_vs_TS.jpg/
 
 ## Tarihçe
 
-War in the Labyrinth, Ynnari ile Ahzek Ahriman'ın Prodigal Sons'u arasında Webway'de geçen savaştır; İmparatorluk dışındaki güçlerin Webway hakimiyeti için dövüştüğü çatışma.
+War in the Labyrinth, İmparatorluğun Webway'de yürüttüğü en gizli ve en kritik savaşlardan biridir. Webway, İmparatorluk'un Warp'e bağımlılığını azaltmak için kullanmaya çalıştığı bir portal ağıydı; ancak bu ağ, Chaos'un saldırısına uğradığında İmparatorluk'un en büyük tehdidi haline geldi. War in the Labyrinth sırasında Custodes ve Sisters of Silence, Webway'in içindeki koridorlarda Chaos güçleriyle savaştılar; bu, İmparatorluk tarihinin en gizli ve en kritik operasyonlarından biriydi. Savaş, İmparatorluk'un Webway'i kapatmak zorunda kalmasıyla sonuçlandı; bu, İmparator'un en büyük planının çöküşü oldu.
 
 -# Kaynaklar: *Fandom wiki*
 

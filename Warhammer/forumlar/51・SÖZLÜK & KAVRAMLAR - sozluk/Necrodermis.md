@@ -9,6 +9,6 @@ Necrodermis, Necron ırkının bedenlerini oluşturan olağanüstü "canlı meta
 
 ## Tarihçe
 
-Necrontyr'ın altmış milyon yıllık 'canlı metal'i; ilk olarak dev sub-light gemileri için dövüldü, sonra C'tan ve Necron bedenlerine döküldü. Kendini onaran, şekil değiştiren biyometal — ölümsüzlüğün atomik mimarisi.
+Necrodermis, Necron'ların bedenlerini oluşturan yaşayan metaldir; C'tan tarafından tasarlanan ve Necrontyr'ın biyolojik bedenini metal varlığa çeviren sürecin — Biotransference — temel maddesidir. Necrodermis hücreleri kendi kendini onarır, şekil değiştirir ve hasar gördüğünde orijinal formuna döner; bir Necron'un kafası koparsa bedeni yeniden birleşir, gövdesi parçalanırsa atomlar yeniden bağlanır. Madde hem zırh hem organizmadır — Necron bedeni ölmez, sadece yavaşlar veya dağılır; tamamen yok etmek için atom seviyesinde parçalamak gerekir. Necrodermis'in en korkunç özelliği adaptasyon: zamanla bir Necron'un bedeni savaş hasarlarını 'öğrenir' ve aynı tür saldırıya karşı direnç geliştirir. İmparatorluk necrodermis'i anlamaz — ne tamamen metal ne de tamamen canlı; C'tan'ın yaratıcı dehasının ve Necron trajedisinin maddesel simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

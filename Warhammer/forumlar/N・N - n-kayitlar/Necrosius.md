@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Necrosius.jpg/revisio
 
 ## Tarihçe
 
-Necrosius — 'Öl��msüz', taraftarlarınca 'Nurgle'un Eli' — İmparatorluk'un kadim düşmanı olan acı ve bükülmüş Chaos Space Marine büyücüsü ve Death Guard Lord'udur. Apostles of Contagion'un efendisi olarak veba, umutsuzluk ve çürümenin Chaos tanrısı Nurgle'a yeminli sadık hizmetkârıdır — 'salgını vaaz eden' figür olarak binlerce yıldır İmparatorluk'u zehirler.
+Necrosius, Death Guard'ın en ünlü ve en tiksindirici sorcerer'ıdır; Nurgle'un 'sevgi'sini yayan ve onun en gizli operasyonlarını yapan en tiksindirici Death Guard sorcerer'ı olan Necrosius, Chaos'un en tiksindirici ve en tehlikeli varlıklarından biridir — onlar, Death Guard'ın en ünlü ve en tiksindirici sorcerer'ıdır. Necrosius'un en büyük özelliği, onun vebasıdır — onlar, Nurgle'un 'sevgi'sini yayan ve onu her yere taşıyan en tiksindirici sorcerer'dır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Necrosius, hem bir savaşçı hem de bir veba taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Necrosius'un en ünlü özelliği, onun Death Guard'ın üyesidir — onlar, bir Legion'un en tiksindirici üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Necrosius, Death Guard'ın en ünlü ve en tiksindirici sorcerer'ıdır — onlar, bir vebanın ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

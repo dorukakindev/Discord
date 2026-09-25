@@ -12,6 +12,6 @@ Korunmasız ya da yozlaşmış psyker'lar, en kolay hedeflerdir; bir psyker, Per
 
 ## Tarihçe
 
-Daemon Possession; bir insan bedeninin daemon tarafından ele geçirilmesi. İmparatorluk'un en korkulan kişisel sonu — benliğin yok olması.
+Ele Geçirilme (Possession), bir demonun fiziksel bedene girmesi ve onu ele geçirmesidir; Chaos'un en korkulan tezahürlerinden biridir ve sonucunda insan bedeni demonun iradesiyle birleşir, mutasyona uğrar ve Warp'ın gücünü taşıyan bir varlığa dönüşür. Possession üç şekilde olur: gönüllü (Word Bearers'ın Gal Vorbak'ı gibi kutsal kabul edenler), gönülsüz (psyker'ların veya zayıf iradelilerin işgali) ve ritüel yoluyla zorla (Warpsmith'lerin Daemon Engine üretimi). İşgal edilen beden değişir — kaslar şişer, kemikler bükülür, gözler yanar ve konuşan ses artık insan sesi değildir; demon bedeni tamamen ele geçirir ama ev sahibinin bilinci bazen içeride hapsolmuş olarak kalır. Possession'ın en korkunç yanı bulaşıcılığıdır — bir Possessed savaşçı, çevresindeki diğerlerini de işgale açık hale getirir; ve bir kez başladığında, tek çözümü exorcism veya imhadır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

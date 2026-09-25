@@ -14,6 +14,4 @@ Imperial Truth (İmparatorluk Gerçeği), İmparator'un kendi yarattığı 'bili
 
 ## Tarihçe
 
-Imperial Truth, Büyük Haçlı Seferi döneminin resmî ideolojisidir; İmparator'un insanlığı akıl, bilim ve laiklikle yönetme vizyonu. Heresy ve Imperial Cult'la çöküp yerini tanrı-kült aldı — İmparator'un hayalinin trajik başarısızlığı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Imperial Truth, İmparatorluğun en eski ve en önemli felsefesidir; İmparator'un insanlığa öğrettiği ve dinin, batıl inancın ve Chaos'un reddini savunan bir felsefedir — onlar, İmparatorluğun en eski ve en önemli öğretisidir. Imperial Truth'un en büyük özelliği, onun reddidir — onlar, dini, batıl inancı ve Chaos'u reddeder ve onların varlığı, İmparatorluğun en eski felsefesinin kanıtıdır; bir Imperial Truth takipçisi, hem bir filozof hem de bir askerdir ve on

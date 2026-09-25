@@ -16,8 +16,4 @@ Hunter Cadre, bir Fire Caste komutanının emrinde toplanan, Fire Warrior takım
 
 ## Tarihçe
 
-Cadre, T'au'nun genişleme seferlerinde temel örgütlenme olarak anılır. Sabırla pusu kuran Kauyon ile hızlı ve belirleyici darbe arayan Mont'ka, bir Hunter Cadre'ın nasıl savaşacağını belirleyen iki yoldur. Kroot ve Vespid gibi yardımcı türlerin birlikleri de Cadre'lara bağlanabilir.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Fire Caste — Peter Fehervari*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551643950014795948>, <#1551814127541026827>
+Hunter Cadre, T'au ordusunun temel taktik birimidir; bir Shas'el veya Shas'o komutasında, Crisis Battlesuit'ler, Fire Warrior'lar, Pathfinder'lar ve destek birimlerinden oluşan koordineli savaş grubudur — T'au'nun 'Mont'ka' (Ölümcül Darbe) doktrininin somut halidir. Hunter Cadre'nin savaş felsefesi koordinasyondur — Pathfinder'lar işaretler, Battlesuit'ler vurur, Fire Warrior'lar tutar ve komutan hepsini tek bir irade gibi yönetir; bir Hunter Cadre, bireysel kahramanlık yerine kolektif ölümcüllüğe inanır. Hunter Cadre'nin gücü esnekliğidir — göreve göre Crisis sayısı artar, Stealth Suit'ler eklenir veya Hammerhead tankları destekler; her Hunter Cadre, görevinin anatomisine göre tas

@@ -15,12 +15,4 @@ Tech-priest'ler için bilgi kutsaldır, her makinenin bir machine spirit'i vard�
 
 ## Tarihçe
 
-Emperor Terra'yı birleştirip Mars'a ulaştığında, Martian rahipliği onu kehanetlerinde beklenen Omnissiah olarak karşıladı. Treaty of Olympus ile Mars, Great Crusade'e sanayi gücünü verdi ve karşılığında özerkliğini korudu. Emperor bu yorumu açıkça reddetmedi.
-
-## Kanon Notu
-
-Emperor'ın Omnissiah olduğu Mars'ın resmî tutumudur, bütün Mechanicus'un değil. "Omnissiah aslında Void Dragon'dır" iddiası eski kaynaklarda ima edilmiş, sonraki yayınlarca açık bırakılmıştır; kanon durumu: doğrulanmamış teori.
-
--# Kaynaklar: *Codex: Adeptus Mechanicus*; *Mechanicum — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551753449878724689>, <#1551816635839549491>, <#1551813713403580438>, <#1551812203584295003>
+Omnissiah (Machine God), Adeptus Mechanicus'un en ünlü ve en kutsal tanrısıdır; makinelerin ve teknolojinin tanrısı olan ve Adeptus Mechanicus'un en kutsal inancı olan Omnissiah, İmparatorluğun en gizli ve en kutsal gücüdür — onlar, Adeptus Mechanicus'un en ünlü ve en kutsal tanrısıdır. Omnissiah'ın en büyük özelliği, onun kutsallığıdır — onlar, makinelerin ve teknolojinin tanrısıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Omnissiah takipçisi, hem bir mühendis hem de bir inanan'dır ve onların varlığı, İmparatorluğun en büyük geleneğinin somut halidir. Omnissiah'ın en ünlü özelliği, onun Makine Tanrısı olmasıdır — onlar, Adeptus Mechanicus'un en kutsal inancıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Omnissiah, Adeptus Mechanicus'un en ünlü ve en kutsal tanrısıdır — onlar, bir inancın ve İm

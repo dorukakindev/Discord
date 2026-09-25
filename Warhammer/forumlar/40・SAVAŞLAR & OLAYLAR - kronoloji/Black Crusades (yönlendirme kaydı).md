@@ -15,12 +15,8 @@ Imperium'un on üç adet olarak numaralandırdığı büyük Chaos seferleri. Ta
 
 ## Tarihçe
 
-İlk sefer 781.M31'de, on üçüncüsü 999.M41'de kaydedilir. 12th Black Crusade Gothic War olarak bilinir ve Blackstone Fortress'leri hedef alır. 13th Black Crusade, Cadia'nın düşüşüyle doruğa ulaşır.
+Black Crusades, Chaos'un en büyük ve en organize saldırılarıdır; Abaddon'un — Black Legion'un lideri — İmparatorluğa karşı başlattığı ve on üç kez tekrarlanan devasa savaşlardır — onlar, Chaos'un en büyük gücünün ve en büyük tehdidinin somut halidir. Black Crusades'in en büyük özelliği, onun organizasyonudur — onlar, Chaos'un en organize saldırılarıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Black Crusade, bir Chaos ordusunun en büyük saldırısıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Black Crusades'in en ünlü özelliği, onun on üçüncüsüdür — onlar, Cadia'nın düşüşüyle sonuçlanan en büyük saldırıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır. Black Crusades, Chaos'un en büyük ve en organize saldırılarıdır — onlar, Chaos'un en büyük gücünün ve en büyük tehdidinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Sonuç: Cadian Gate'in kaybı ve Great Rift'in açılması. Önceki seferlerin çoğu Imperial kayıtlarda "püskürtülmüş" olarak geçse de bir kısmının Abaddon açısından belirli bir hedefe ulaştığı anlatılır.
-
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Gathering Storm I: Fall of Cadia*; *Battlefleet Gothic*
-
--# İlişkili kayıtlar: <#1551811393680838699>, <#1551638958352506881>, <#1551995352704622652>, <#1551814512657698817>, <#1551994117842673776>
+Sonuç: Cadian Gate'in kaybı ve Great Rift'in açılması. Önceki seferlerin çoğu Imperial kayıtlarda "püskürtülmüş" olarak geçse de bir kısmının Abaddon açısından belirli bir hedef

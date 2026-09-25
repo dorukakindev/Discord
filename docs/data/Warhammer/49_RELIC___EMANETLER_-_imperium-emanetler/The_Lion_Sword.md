@@ -12,6 +12,6 @@ Lion El'Jonson, Büyük Haçlı Sefer'in en büyük savaşçı-stratejistlerinde
 
 ## Tarihçe
 
-The Lion Sword (Sword of Secrets), Dark Angels'ın Supreme Grand Master'ı tarafından taşınan antik güç kılıcıdır; Caliban'ın yıkımından önceki lejyon komutanlarından miras kalmıştır. İçindeki gizli mekanizmalar ve kutsal devreler, onu sıradan güç kılıçlarının ötesinde bir relic yapar — Unforgiven'ın avcı-kılıcıdır.
+The Lion Sword, Dark Angels'ın en ünlü ve en kutsal relic'idir; Lion El'Jonson'un — Dark Angels'ın primarch'ı — kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, Dark Angels'ın en ünlü ve en kutsal hazinesidir. The Lion Sword'ın en büyük özelliği, onun gücüdür — onlar, bir primarch'ın en güçlü silahıdır ve onların varlığı, Dark Angels'ın en büyük gücünün kanıtıdır; bir Lion Sword kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de semboliktir. The Lion Sword'ın en ünlü özelliği, onun Lion El'Jonson'a ait olmasıdır — onlar, bir primarch'ın kendi silahıdır ve onların varlığı, Dark Angels'ın en büyük onurunun kanıtıdır. The Lion Sword, Dark Angels'ın en ünlü ve en kutsal relic'idir — onlar, bir primarch'ın gücünün ve Dark Angels'ın onurunun somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -18,6 +18,6 @@ Ork'un hem hekimi hem parçalayıcısı; 'dok' lakabıyla bilinen, kesici implan
 
 ## Tarihçe
 
-Painboy'lar, Ork tıbbının tamamıdır: anestezisiz ameliyat, kafatası değişimi, squig-beyin nakli — her şey 'dok'un elinde. Amaçları şifa değil tamirattır; Ork biyolojisi zaten kendini onardığı için Painboy'un işi çoğu zaman kafaları geri dikmek ya da bir Ork'un içini Cybork parçalarla doldurmaktır. 'Çalışırsa doğru' felsefesi Mek'lerle ortaktır.
+Painboy (Dok), Ork'ların en ünlü ve en gizli doktorudur; onların Ork'ların en gizli ve en tehlikeli 'doktor' birliği olan ve onun en gizli operasyonlarını yapan Painboy, Ork'ların en gizli ve en tehlikeli varlığıdır — onlar, Ork'ların en ünlü ve en gizli doktorudur. Painboy'un en büyük özelliği, onun 'doktorluğu'dur — onlar, Ork'ların en gizli ve en tehlikeli 'doktor' birliğidir ve onların varlığı, Ork'ların en gizli gücünün kanıtıdır; bir Painboy, hem bir 'doktor' hem de bir cerrahdır ve onların varlığı, Ork'ların en büyük sırrının somut halidir. Painboy'un en ünlü özelliği, onun 'Dok' lakabıdır — onlar, Ork'ların en gizli ve en tehlikeli 'doktor'ıdır ve onların varlığı, Ork'ların en büyük sırrının kanıtıdır. Painboy (Dok), Ork'ların en ünlü ve en gizli doktorudur — onlar, bir 'doktorluğun' ve Ork'ların en büyük sırrının somut halidir.
 
 -# Kaynaklar: *Codex: Orks*

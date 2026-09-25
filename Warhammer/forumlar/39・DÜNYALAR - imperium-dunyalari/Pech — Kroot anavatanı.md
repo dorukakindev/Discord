@@ -16,7 +16,7 @@ Yediklerinden genetik özellikler edinebilen yırtıcı bir türün, Kroot'un yu
 
 ## Tarihçe
 
-Kroot'un erken tarihi hakkında kanon ayrıntılı bir kronoloji vermez. Bilinen şey, Pech'in ve Kroot dünyalarının Ork saldırılarıyla ciddi biçimde tehdit edildiği ve T'au Empire'ın bu dönemde Kroot'a yardım ederek türle kalıcı bir ittifak kurduğudur. O günden bu yana Kroot kindred'lerinin büyük kısmı Greater Good'a bağlı savaşırken pek çoğu da Pech'ten uzaklarda, Warsphere'lerle yıldızlar arasında dolaşan paralı askerler olarak hizmet satar.
+Pech, Kroot ırkının en önemli ve en kutsal dünyasıdır; onun ormanları ve doğasıyla — Kroot'un anavatanı ve onların kültürel merkezidir — onlar, Kroot'un en önemli ve en kutsal evidir. Pech'in en büyük özelliği, onun doğasıdır — onlar, Kroot'un anavatanıdır ve onların varlığı, Kroot'un kültürel merkezinin kanıtıdır; bir Pech, bir gezegenin en doğal halidir ve onların varlığı, Kroot'un geleneğinin ve kültürünün kanıtıdır. Pech'in en ünlü özelliği, onun Kroot'un evidir — onlar, Kroot'un anavatanıdır ve onların varlığı, bir türün merkezinin ve onların kültürünün kanıtıdır. Pech, Kroot ırkının en önemli ve en kutsal dünyasıdır — onlar, bir türün merkezinin ve onların kültürünün somut halidir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Codex: Tau — 3rd Edition*
 

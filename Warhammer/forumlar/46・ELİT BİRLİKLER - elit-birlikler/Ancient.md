@@ -14,6 +14,4 @@ Ancient'ın savaş rolü hem pratik hem manevidir: sancağı taşımak, safları
 
 ## Tarihçe
 
-Ancient, Space Marine chapter'ının standart taşıyıcısıdır; Chapter'ın kutsal sancağını omuzlayan onur muhafızı. Sancağın düşmesi lejyon için utanç demektir — Ancient'ler en deneyimli ve en sadık savaşçılardan seçilir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Ancient, Space Marine Chapter'ının standard-bearer'ıdır; company veya chapter'ın kutsal sancağını taşıyan ve onu kendi bedeniyle koruyan savaşçıdır. Sadece en sadık ve en deneyimli Veteran'lar Ancient olabilir — sancak düşerse Chapter'ın onuru düşer, bu yüzden Ancient'in görevi sancağı asla yere düşürmemektir ve bunu yaparke

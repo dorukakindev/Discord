@@ -14,6 +14,4 @@ Abaddon'un 'Blackstone Fortress' düşürmesiyle Cadia fiziksel olarak parçalan
 
 ## Tarihçe
 
-Abaddon'un Cadia'yı Blackstone Fortress'le kırması; 13. Kara Haçlı Seferi'nin sonucu. Büyük Yarık'ın açıldığı an — İmparatorluk'un kalbinin kırılması.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Cadia'nın Düşüşü, Imperialis'in 41. binyılın sonunda yaşadığı en trajik olaylardan biridir. Abaddon, Cadia'yı — Imperialis'in Eye of Terror'u izleyen en önemli kale gezegeni — 13. Kara Seferi'yle hedef aldı. Cadia'nın savunması, Ursarkar Creed komutasındaki Cadian Shock Troopers ve diğer İmparatorluk kuvvetlerinin birleşimiyle yürütüldü; ancak Abaddon'un gücü ve Chaos'un sayısı, gezegenin düşüşünü kaçınılmaz kıldı. Cadia düştüğünde, gezegenin yüzeyi tamamen tahrip oldu ve Eye of Terror'u izleyen pyl'ler yıkıldı; bu, Büyük Yarık'ın açılmasına ve Impe

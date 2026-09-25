@@ -10,7 +10,7 @@
 
 ## Tarihçe
 
-Tane Massata, Ordo Malleus'un bir zamanlar yükselen yıldızı olan İmparatorluk Inquisitor'üdür. Tzeentch'li 'Karanlıkta-Yaşayan' adlı güçlü daemon'u takıntıyla avlaması ve bunun için gizli operasyonlar yürütmesi nedeniyle Ordo'da 'tehlikeli Radikal' olarak damgalandı; son on yılda onun operasyonlarının doğrudan iki büyük çatışmayı tetiklediği belgelenmiştir (Donatos Primus olayı dâhil). Henüz kimse onu resmen kınamamıştır — çünkü takıntısının haklı olabileceğinden korkulmaktadır.
+Tane Massata, Inquisition'ın en gizli ve en önemli üyesidir; Ordo Malleus'un en deneyimli Inquisitor'u olan ve daemon'lara karşı savaşan Massata, İmparatorluğun en gizli ve en önemli varlığıdır — onlar, Inquisition'ın en gizli ve en önemli üyesidir. Tane Massata'nın en büyük özelliği, onun görevidir — onlar, daemon'lara karşı savaşan en önemli Inquisitor'dur ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Massata, hem bir Inquisitor hem de bir avcıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Tane Massata'nın en ünlü özelliği, onun Ordo Malleus'un üyesidir — onlar, daemon'lara karşı savaşan en gizli ordo'nun en önemli üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Tane Massata, Inquisition'ın en gizli ve en önemli üyesidir — onlar, bir avcının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057443133657129>

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d6/CorvusBlackstar03.jpg
 
 ## Tarihçe
 
-Corvus Blackstar, Deathwatch'ın gizli ve ölümcül saldırı gemisidir; hem transport hem ağır silah platformu olarak çalışan bu kara kuğu, kill team'leri doğrudan xenos hedeflerin üzerine indirir. Twin assault cannon ve özel mühimmatla, Deathwatch'ın 'tek vuruşta yok etme' doktrininin kanatlı halidir.
+Corvus Blackstar, Deathwatch tarafından kullanılan en gizli ve en güçlü hava saldırı aracıdır; onun gelişmiş teknolojisi ve silahlandırmasıyla — bir kadro Deathwatch askerini taşıyabilen ve düşmanı havadan imha eden bir araçtır — onlar, Deathwatch'ın en gizli ve en ölümcül hava aracıdır. Corvus Blackstar'ın en büyük özelliği, onun gizliliğidir — onlar, Deathwatch'ın en gizli teknolojisini kullanır ve onların varlığı, bir xeno düşmanının sonunun başlangıcıdır; bir Corvus Blackstar, bir düşman pozisyonunu tek başına yok edebilir ve onların varlığı, Deathwatch'ın en güçlü silahıdır. Corvus Blackstar'ın en ünlü görevi, Deathwatch'ın xeno'ları avlamasıdır — onlar, xeno'ları bulmak ve yok etmek için kullanılırlar ve onların varlığı, Deathwatch'ın en gizli ve en ölümcül silahıdır. Corvus Blackstar, Deathwatch'ın en gizli ve en ölümcül hava aracıdır — onlar, bir xeno avcısının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

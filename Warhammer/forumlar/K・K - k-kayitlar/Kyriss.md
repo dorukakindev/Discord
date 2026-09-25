@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1e/Primarch_Sanguinius_V
 
 ## Tarihçe
 
-Kyriss — 'Sapık Kyriss' — Slaanesh'in Keeper of Secrets'ıdır; Heresy'nin ilk yıllarında aktifti. Rezil Bloodthirster Ka'Bandha'yla birlikte Signus Prime'da Blood Angels'a saldıran iki büyük daemon'dan biriydi; Sanguinius'un elinden başı kesilen figür olarak 'primarch'ın öfkesini gören daemon' olarak ün kazandı — Ka'Bandha'nın 'zevk ortağı' olarak Heresy'nin en karanlık sahnesindeki figür.
+Kyriss, Slaanesh'in en ünlü ve en ayartıcı daemon'ıdır; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en sadık askerlerini ayartan en tehlikeli daemon olan Kyriss, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Slaanesh'in en ünlü ve en ayartıcı daemon'udur. Kyriss'in en büyük özelliği, onun ayartıcılığıdır — onlar, İmparatorluğun en sadık askerlerini ayartan ve onları Chaos'a çeken en tehlikeli daemon'dur ve onların varlığı, Slaanesh'in en büyük gücünün kanıtıdır; bir Kyriss, hem bir daemon hem de bir ayartıcıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Kyriss'in en ünlü özelliği, onun ayartıcılığıdır — onlar, İmparatorluğun en sadık askerlerini ayartan en tehlikeli daemon'dur ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Kyriss, Slaanesh'in en ünlü ve en ayartıcı daemon'ıdır — onlar, bir ayartıcının ve Chaos'un en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

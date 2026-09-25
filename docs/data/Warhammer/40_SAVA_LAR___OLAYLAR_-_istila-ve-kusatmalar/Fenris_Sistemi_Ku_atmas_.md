@@ -14,6 +14,4 @@ Kuşatma, Space Wolves'un neredeyse yok oluş noktasına geldiği savaştır —
 
 ## Tarihçe
 
-Space Wolves'un Fenris'te Chaos ve Inquisition'a karşı direnişi; Magnus'un saldırısından sonra Chapter'ın ayakta kalışı. Kurtların en son kalesi.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Fenris Sistemi Kuşatması, Space Wolves'un ev sistemini hedef alan en büyük Chaos saldırılarından biridir. Magnus the Red ve Thousand Sons, Fenris sistemini — Space Wolves'un evi ve en kutsal toprakları — ele geçirmeye çalıştı. Kuşatma sırasında Thousand Sons, Fenris'in yüzeyinde birçok noktaya saldırdı ve Space Wolves'un birçok üyesini öldürdü; ancak Space Wolves, evlerini savunarak saldırıyı geri püskürttü. Kuşatma, Space Wolves'un Fenris'i Chaos'a karşı savunmaya ne kadar kararlı olduğunu gösterdi; ancak saldırı, Fenris'in gelecekte Chaos tarafından tekrar hedef alınabileceğini de ortaya k

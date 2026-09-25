@@ -16,8 +16,8 @@ Horus Heresy'nin kıvılcımlarından biri sayılan bıçaktır. Warp varlıklar
 
 ## Tarihçe
 
-*Horus Rising*'de Interex ile başlayan temas bir yanlış anlama ve kanlı bir çatışmayla bittiğinde Anathame, Erebus'un eline geçti. *False Gods*'ta Davin'in uydusunda, eski müttefiki Eugan Temba'nın isyanını bastıran Horus bu bıçakla yaralandı. Sıradan tıbbın çaresiz kaldığı Warmaster, Davin'deki Serpent Lodge tapınağına götürüldü ve orada gördüğü vizyonlarla düşüşünün yolu açıldı.
+Anathame, Chaos'un en ünlü ve en trajik relic'idir; Horus'un — İmparator'un en sevgili oğlu — Chaos'a düşmesinin başlangıcı olan ve onun Davin'de yaralanmasına neden olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en trajik silahıdır. Anathame'in en büyük özelliği, onun trajedisidir — onlar, bir primarch'ın düşüşünün başlangıcıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Anathame, bir primarch'ın Chaos'a düşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Anathame'in en ünlü özelliği, onun Horus'un düşüşüdür — onlar, İmparatorluğun en büyük ihanetinin simgesidir ve onların varlığı, Chaos'un en büyük zaferinin kanıtıdır. Anathame, Chaos'un en ünlü ve en trajik relic'idir — onlar, bir primarch'ın düşüşünün ve Chaos'un zaferinin somut halidir.
 
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *False Gods — Graham McNeill*
 
--# İlişkili kayıtlar: <#1551650246508150857>, <#1551814951365115956>, <#1551638953101365340>, <#1551809846066548779>
+-# İlişkili kayıtlar: <#15516502

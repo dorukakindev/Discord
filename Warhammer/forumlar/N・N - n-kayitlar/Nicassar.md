@@ -16,7 +16,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a7/NicassarDhow.jpg/revi
 
 ## Tarihçe
 
-Nicassar'lar, T'au İmparatorluğu'na katılan ilk xeno türlerindendir. Psişik güçleri o kadar belirgindir ki İmparatorluk onları 'psyker-xeno' tehdidi olarak sınıflandırır; bu yüzden T'au onları sahada açıkça kullanamaz ve varlıkları bile kayıtlara seyrek geçer. Filolarda keşif ve ileri karakol rollerinde Dhow gemileriyle görülürler.
+Nicassar, WH40K evreninin en trajik ve en psişik xeno türlerinden biridir; psişik olarak güçlü ve T'au Empire'ın en sadık müttefiklerinden biridir — onlar, Greater Good'un en değerli ve en trajik müttefikleridir. Nicassar'ın en büyük özelliği, onların psişik gücüdür — onlar, güçlü psyker'lardır ve onların gücü, bir T'au filosunun en değerli varlığıdır; bir Nicassar, hem bir savaşçı hem de bir psyker'dır ve onların varlığı, T'au'nun en büyük gücüdür. Nicassar'ın en trajik yönü, onların yok edilişidir — onlar, İmparatorluk tarafından neredeyse yok edildi ve onların kalanları, T'au'nun en sadık müttefikleri oldu; bir Nicassar, hem bir müttefik hem de bir kurbanıdır ve onların varlığı, İmparatorluğun en büyük suçlarından birinin kanıtıdır. Nicassar, T'au Empire'ın en sadık ve en trajik müttefikidir — onlar, Greater Good'un en değerli ve en trajik çocuklarıdır.
 
 ## Kanon Notu
 

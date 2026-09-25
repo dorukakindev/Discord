@@ -12,6 +12,6 @@ Bir kovanın içi, dikey bir kast toplumudur; en yukarıdaki "Spire"larda zengin
 
 ## Tarihçe
 
-Milyarlarca insanın üst üste yaşadığı mega-şehir gezegeni; İmparatorluk'un en yoğun yerleşim biçimi. Necromunda'nın sınıfı — insanlığın en kalabalık hali.
+Hive World, İmparatorluğun en yoğun nüfuslu gezegen tipidir; üzerindeki insan nüfusu milyarlara ulaşır ve yaşam, kilometrelerce yüksekliğindeki devasa şehir kulelerinde — hive'lar — yoğunlaşmıştır. Bir Hive World'de yaşam katmanlıdır — en üstte soylular ve zenginler, en altta işçiler ve yoksullar; alt katmanlarda güneş görülmez, hava zehirlidir ve yaşam beklentisi kısadır. Hive World'ler İmparatorluğun ekonomisinin bel kemiğidir — onlar asker, işçi ve hammadde üretir; ama aynı zamanda isyan, hastalık ve Chaos kültlerinin en verimli topraklarıdır çünkü bir hive'ın derinliklerinde milyonlarca insan, Inquisition'ın gözünden uzakta yaşar. Hive World'de ölüm sıradan, yaşam ise sürprizdir — ama İmparatorluk onlarsız ayakta kalamaz; onlar hem İmparatorluğun gücü hem de en büyük zaafıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

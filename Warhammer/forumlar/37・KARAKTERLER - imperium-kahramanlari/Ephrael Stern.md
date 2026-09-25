@@ -18,6 +18,6 @@ Demonifuge; ölüp dirilen Battle Sister, İmparatorluk'un en esrarengiz 'yaşay
 
 ## Tarihçe
 
-Ephrael Stern, Order of Our Martyred Lady'nin Sisters of Battle üyesiydi; İmparator'a olan sarsılmaz inancından doğan ve sıradan psyker'ları aşan özel psişik yeteneklere önceden yazgılıydı. Uzun tarihi boyunca 'Kutsanmış Kurtarıcı' dahil birçok unvan taşıdı — ölümden dönen ve inancı silah yapan 'yaşayan azize-adayı' olarak İmparatorluk'un en gizemli figürlerinden.
+Ephrael Stern, İmparatorluğun en gizli ve en tartışmalı azizesidir; bir Sisters of Battle üyesi olan ve daemon'ları yenen doğaüstü güçlere sahip olan Ephrael Stern, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tartışmalı azizesidir. Ephrael Stern'in en büyük özelliği, onun gücüdür — onlar, daemon'ları yenen ve ölümden dönen doğaüstü güçlere sahiptir ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Ephrael Stern, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ephrael Stern'in en ünlü özelliği, onun tartışmalılığıdır — onlar, Inquisition tarafından araştırılan ve onların gücünün kaynağı belirsiz olan en gizli varlıktır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Ephrael Stern, İmparatorluğun en gizli ve en tartışmalı azizesidir — onlar, doğaüstü gücün ve İmparatorluğun en büyük sırrının somut halidir.
 
 -# Kaynaklar: *Daemonifuge* çizgi romanı; *Sisters of Battle* kaynakları

@@ -16,8 +16,4 @@ Craftworld hayatının katı düzeninden uzaklaşıp Path of the Outcast'e sapm�
 
 ## Tarihçe
 
-Illic Nightspear, Alaitoc'un efsanevi Ranger'ıdır; binlerce yıldır Outcast Yolu'nda yürüyen bu figür 'Yıldızların Gözcüsü', 'Yol Döşeyici', 'Alaitoc'un Kalkanı' unvanlarını taşır. Webway'i o kadar iyi bilir ki herhangi bir gezegene görünmeden varabilir — 'yürüyen efsane' olarak Ranger kültürünün zirvesi.
-
--# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551810506078290021>, <#1551810727445004339>, <#1551809699312181339>
+Illic Nightspear, Aeldari'nin en gizli ve en ölümcül Ranger'ıdır; Alaitoc craftworld'ünün en ünlü izcisi olan ve 'Walker of the Hidden Path' olarak bilinen Nightspear, Aeldari'nin en gizli savaşçısı ve en ölümlü keskin nişancısıdır — onlar, Aeldari'nin en gizli ve en ölümcül üyesidir. Illic Nightspear'ın en büyük özelliği, onun gizliliğidir — onlar, bir Ranger'ın en büyük ustasıdır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Nightspear, hem bir izci hem de bir keskin nişancıdır ve onların savaşı, hem fiziksel hem de sinsidir. Illic Nightspear'ın en ünlü özelliği, onun Alaitoc'un izcisidir — onlar, Aeldari'nin en gizli craftworld'ünün en ünlü savaşçısıdır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır. Illic Nightspear, Aeldari'nin en gizli ve en ölümcül Ranger'ıdır — onlar, bir izcinin ve Aeldari'nin en

@@ -16,6 +16,6 @@ Centurion, Space Marine'in ağır eksoskeleton savaş zırhıdır: Terminator'da
 
 ## Tarihçe
 
-Centurion, Space Marine'in ağır eksoskeleton savaş zırhıdır: Terminator'dan hantal ama Dreadnought'tan canlı, tam bir yürüyen silah platformu. Devastator varyantı kuşatma ateşi, Assault varyantı ise kırma ve yakın dövüş yapar.
+Centurion Savaş Zırhı, Space Marines'in en ağır ve en güçlü zırh sistemlerinden biridir — bir nevi mini-Titan olarak düşünülebilir. Bu zırh, standart Terminator zırhından daha büyük ve daha güçlüdür; kullanıcısını tamamen çevreleyen ve onu savaş makinesi haline getiren bir yapıya sahiptir. Centurion zırhı, iki farklı modda kullanılabilir: Assault modu yakın dövüş için, Devastator modu ise uzun menzilli ağır silahlar için tasarlanmıştır. Bu zırh, Space Marines'in en tehlikeli düşmanlarına karşı en güçlü savunma ve saldırı aracı olarak kabul edilir.
 
 -# Kaynaklar: *Codex: Space Marines*

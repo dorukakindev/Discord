@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Hyperion (doğum adı Zael Effernetti), Grey Knights'ın güçlü Prognosticar'ıdır — kehanet uzmanı. Aslen Eustis Majoris'in alt-kovanlarından bir çocuk olarak 11-12 yaşlarında Daemon Slyte'ın sürgün edilmesi olayına karıştı; yeteneği fark edilip Grey Knights'a alındı. 'Sokak çocuğundan kehanet efendisine' yükselen bu figür, chapter'ın en güçlü gelecek-gören psyker'ıdır.
+Hyperion, Grey Knights'ın en ünlü ve en güçlü Justicar'ıdır; Chapter'ın en genç ve en güçlü psyker'ı olan ve daemon'ları yenen en cesur savaşçı olan Hyperion, İmparatorluğun en gizli ve en kutsal savaşçısıdır — onlar, Grey Knights'ın en ünlü ve en güçlü üyesidir. Hyperion'un en büyük özelliği, onun psişik gücüdür — onlar, Grey Knights'ın en güçlü psyker'ıdır ve onların varlığı, İmparatorluğun en büyük psişik gücünün kanıtıdır; bir Hyperion, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Hyperion'un en ünlü özelliği, onun Justicar'ıdır — onlar, bir Chapter'ın en cesur ve en güçlü rütbelisidir ve onların varlığı, Grey Knights'ın en büyük gücünün kanıtıdır. Hyperion, Grey Knights'ın en ünlü ve en güçlü Justicar'ıdır — onlar, psişik gücün ve İmparatorluğun en büyük azizinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

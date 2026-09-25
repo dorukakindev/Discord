@@ -15,12 +15,6 @@ Bronz zırhlı, acımasız etkinliğiyle korkulan ve Terra'daki High Lords'un em
 
 ## Tarihçe
 
-Badab War'da High Lords'un talebiyle bütün gücüyle sahaya çıkan Minotaurs, ayrılıkçı Chapter'lara karşı saldırı kuvvetinin başını çekti. Lamenters'a karşı kazandıkları uzun ve kanlı zafer, savaşın en ağır çarpışmalarından biri olarak kaydedildi; bu zafer Minotaurs'a da ciddi kayıplar verdirdi.
+Minotaurs, gene-lineage'i resmi olarak bilinmeyen ve İmparatorluğun en gizli ve en acımasız Space Marine Chapter'larından biridir; onlar, High Lords of Terra'nın doğrudan emriyle çalışan ve genellikle diğer Chapter'ları denetlemek veya bastırmak için gönderilen 'cellat' Chapter'ıdır. Minotaurs'un en büyük özelliği, onların acımasızlığıdır — onlar, sadık Chapter'ları bile sorgular ve gerekirse onlara saldırır; onların görevi, İmparatorluğun otoritesini korumaktır ve bu görevde, hiçbir Space Marine dokunulmaz değildir. Minotaurs'un en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en acımasız taktikleri kullandılar ve onların varlığı, sadık ve hain arasındaki çizgiyi bulanıklaştırdı. Minotaurs, İmparatorluğun en korkulan Chapter'ıdır — onlar, İmparatorluğun kendi oğullarına karşı kullandığı son silahıdır.
 
-## Teknik / Biyolojik Özellikler
-
-Doktrin: şok saldırısı ve kuşatma savaşına dayalı, kayıptan çekinmeyen acımasız bir yaklaşım. Kültür: Astartes kardeşliğinden çok Terra'nın otoritesine bağlılık.
-
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War — Part One*; *Imperial Armour Volume Ten: The Badab War — Part Two*
-
--# İlişkili kayıtlar: <#1551811438547312645>, <#1551808888666587197>, <#1551809168032268310>
+## Tek

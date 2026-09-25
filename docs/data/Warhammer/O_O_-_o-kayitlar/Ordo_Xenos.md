@@ -10,6 +10,10 @@ Ordo'nun temel çelişkisi, düşmanı yenmek için onu tanımak zorunda olması
 
 Bu kanal Ordo'nun kendisine odaklanır; Chamber Militant'ı olan Deathwatch **kayıt**, xenos türlerinin genel tablosu ise **kayıt** kanalında işlenir.
 
+## Tarihçe
+
+Ordo Xenos, Inquisition'ın üç büyük ordusundan biridir ve İmparatorluğun xeno — yabancı, uzaylı — tehditleriyle ilgilenir; onların işi Tyranid, Ork, Aeldari, Necron, T'au ve sayısız diğer ırkın İmparatorluk'a olan tehdidini izlemek, analiz etmek ve yok etmektir. Ordo Xenos Inquisitor'ları, İmparatorluğun en geniş bilgi ağına sahiptir — onların arşivleri, bilinen tüm xeno ırklarının zayıf noktalarını, kültürlerini ve teknolojilerini içerir; bir Ordo
+
 ## Deathwatch ve Tyranid Tehdidi
 Ordo Xenos'un silahlı kuvveti **Deathwatch**'tır. Kendi recruitment dünyası ya da gene-seed hattı olmayan bu yapı, farklı Chapter'lardan Long Vigil adı verilen süreli görevlerle gelen Space Marine'lerden oluşur ve Kill Team'ler hâlinde xenos tehditlerinin kalbine indirilir. Deathwatch'ın kökeni için kaynaklar iki farklı anlatı sunar: War of the Beast sırasında kurulan ilk kill-team'ler ve Orphite IV'teki bir yeminle başlayan kurumsal yapı. Ordo'nun Chamber Militant'ı olarak Deathwatch'la ilişkisi, Inquisitor'ın tehdidi saptaması ve Watch Fortress'ların güç sağlaması üzerine kuruludur.
 

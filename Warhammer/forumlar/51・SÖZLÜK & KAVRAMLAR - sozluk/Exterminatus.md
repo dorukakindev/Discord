@@ -11,6 +11,6 @@ Exterminatus, bir gezegenin kurtarılamayacak kadar yozlaştığına ya da tehli
 
 ## Tarihçe
 
-Exterminatus, İmparatorluk'un en ağır yaptırımıdır — bir dünyayı tamamen yok etme emri. Cyclonic Torpedo, virus bomb veya kital bombardımanla dünyanın tüm yaşamı silinir; sadece Inquisition veya en üst otorite verebilir. 'Bazı dünyalar yaşamaya değmez' ilkesinin somut halidir.
+Exterminatus, bir gezegenin tamamen yok edilmesi emridir; İmparatorluğun en ağır ve en son çare kararıdır ve sadece bir gezegenin kurtarılamayacak kadar yozlaştığı, işgal edildiği veya tehdit haline geldiği durumlarda verilir. Exterminatus'un yöntemleri çeşitlidir — Virus Bomb (atmosferi yakan biyolojik silah), Cyclonic Torpedo (gezegeni ikiye bölen nükleer silah), Two-Stage Torpedo veya sadece uzun süreli bombardıman; sonuç aynıdır: gezegenin yüzeyi sterilize edilir ve yaşam tamamen silinir. Exterminatus emrini sadece Inquisitor'lar, Chapter Master'lar veya en yüksek Imperial komutanları verebilir — ve vermek, bir dünyanın milyarlarca insanını öldürmek demektir; bu yüzden Exterminatus, İmparatorluğun en karanlık aracıdır ve onu kullananlar, ya kahraman ya da canavar olarak hatırlanır. Ünlü Exterminatus'lar arasında Istvaan III, Taris ve sayısız Chaos dünyası vardır; ve her biri, İmparatorluğun kendi insanlarına yaptığı en büyük katliamlardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

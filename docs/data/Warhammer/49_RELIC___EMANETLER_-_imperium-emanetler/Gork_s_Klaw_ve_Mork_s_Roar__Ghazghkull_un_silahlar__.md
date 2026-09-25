@@ -16,8 +16,4 @@ Gork's Klaw, Ghazghkull'un dev pençesi; Mork's Roar ise ateşli silahıdır. Ad
 
 ## Tarihçe
 
-Ghazghkull, Grot sancaktarı Makari'yle birlikte bu silahları taşıyan zırhı içinde savaşır. Warboss'un kendini Gork ve Mork'un peygamberi sayması, silahlarının adını da tanrısal bir iddiaya dönüştürür; Ork'lar için bu adlar Ghazghkull'un seçilmişliğinin nişanıdır.
-
--# Kaynaklar: *Codex: Orks — 9th Edition*; *Codex: Orks — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551814495138091013>, <#1551643990196232303>
+Gork's Klaw ve Mork's Roar, Ork'ların en ünlü ve en vahşi relic çiftidir; Ghazghkull Thraka'nın — Ork'ların en büyük Warboss'u — kullandığı ve onun en büyük savaşlarının simgesi olan iki silahtır — onlar, Ork'ların en ünlü ve en vahşi silahıdır. Gork's Klaw ve Mork's Roar'ın en büyük özelliği, onların vahşetidir — onlar, bir Warboss'un en vahşi silahıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Gork's Klaw ve Mork's Roar kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların savaşı, sadece öldürmek ve fethetmek içindir. Gork's Klaw ve Mork's Roar'ın en ünlü özelliği, onların Ghazghkull'un silahıdır — onlar, Ork'ların en büyük liderinin simgesidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Gork's Klaw ve Mork's Roar, Ork'ların en ünlü ve en vahşi relic çiftidir — onlar, bir Warboss'un vahşetinin ve Ork'la

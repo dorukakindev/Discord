@@ -16,8 +16,4 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/74/YnnariRune.png/revisi
 
 ## Tarihçe
 
-Yvraine ve Visarch, Biel-Tan'a dönüp bu inancı ilan etti; craftworld'ün infinity circuit'inin parçalandığı felaketin ortasında Yncarne ortaya çıktı. Hareket ardından Ynnead'in tam uyanışı için gerekli sayılan Croneswords'ün peşine düştü ve Gathering Storm'da Guilliman'ın diriltilmesine katkıda bulundu.
-
--# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*; *Codex: Aeldari — 10th Edition*
-
--# İlişkili kayıtlar: <#1551809867201908737>, <#1551742665756901377>, <#1551812290439942255>, <#1551813105166712966>, <#1551814468458258434>
+Ynnari inancı, Aeldari ırkının en yeni ve en radikal inanç sistemidir; onların Ynnead'e — Aeldari'nin ölüm tanrısı — olan inançları ve onun Slaanesh'i yeneceğine olan inançlarıdır — onlar, Aeldari'nin en büyük umudu ve en büyük ihtilafıdır. Ynnari inancının en büyük özelliği, onun birleştiriciliğidir — onlar, hem Asuryani hem de Drukhari'yi birleştirir ve onların inancı, Aeldari'nin geleceği içindir; bir Ynnari takipçisi, hem bir savaşçı hem de bir misyonerdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ynnari inancının en ünlü özelliği, onun Ynnead'a olan inancıdır — onlar, ölüm tanrısının doğuşunun Slaanesh'i yeneceğine inanır ve onların varlığı, Aeldari'nin en büyük umudunun kanıtıdır. Ynnari inancı,

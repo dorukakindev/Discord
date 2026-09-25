@@ -15,12 +15,8 @@ Varlığı savunmaya adanmış, halkı çocukluktan itibaren askerlik için yeti
 
 ## Tarihçe
 
-Cadia binyıllar boyunca Abaddon'ın Black Crusade'lerinin hedefi oldu. 13th Black Crusade'de Blackstone Fortress'ler donanma savaşlarında ve Warp'ı dizginleyen pylonların yıkımında kullanıldı. Lord Castellan Ursarkar E. Creed'in inatçı savunmasına karşın Abaddon, hasarlı Blackstone Fortress **Will of Eternity**'yi gezegenin üzerine indirdi; çarpma Cadia'yı parçalayıp yaşanamaz kıldı. Creed tahliyeyi örgütledi; hayatta kalanlar alaylar ve sürgün topluluklar hâlinde dağıldı.
+Cadia, İmparatorluğun en önemli ve en trajik dünyasıdır; onun Cadian Gate'in — Eye of Terror'un tek geçiş noktası — bekçisi olarak hizmet veren ve Abaddon'un on üçüncü Kara Haçlı Seferi'nde yok edilen bir dünyadır — onlar, İmparatorluğun en büyük kaybının ve en büyük trajedisinin merkezidir. Cadia'nın en büyük özelliği, onun stratejik konumudur — onlar, Eye of Terror'un tek geçiş noktasının bekçisidir ve onların varlığı, İmparatorluğun en önemli savunma hattıdır; bir Cadia, bir gezegenin en önemli halidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Cadia'nın en ünlü özelliği, onun yıkılışıdır — onlar, Abaddon'un on üçüncü Kara Haçlı Seferi'nde yok edildiler ve onların varlığı, İmparatorluğun en büyük kaybının ve Büyük Yarık'ın doğuşunun kanıtıdır. Cadia, İmparatorluğun en önemli ve en trajik dünyasıdır — onlar, İmparatorluğun en büyük kaybının ve en büyük trajedisinin somut halidir.
 
 ## Kanon Notu
 
-Cadia bir dünya olarak artık yoktur; Cadian kimliği diaspora hâlinde sürer. Tahliye edilenlerin ya da geride kalanların sayısı için doğrulanmış bir rakam yoktur.
-
--# Kaynaklar: *Warhammer 40,000: Gathering Storm – Fall of Cadia*; *Cadia Stands — Justin D. Hill*; *Creed: Ashes of Cadia — Jude Reid*
-
--# İlişkili kayıtlar: <#1551994117842673776>, <#1551813775848509482>, <#1551811393680838699>, <#1551811621285003315>
+Cadia bir dünya olarak artık yoktur; Cadian kimliği diaspora hâlinde sürer. Tahliye edilenlerin ya da geride k

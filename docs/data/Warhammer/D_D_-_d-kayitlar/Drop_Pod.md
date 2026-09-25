@@ -16,6 +16,6 @@ Drop Pod, Space Marine'lerin gökyüzünden savaşa dalmasının aracıdır: yö
 
 ## Tarihçe
 
-Drop Pod, Space Marine'lerin gökyüzünden savaşa dalmasının aracıdır: yörüngeden düşen, son anda retro-rocket'le yavaşlayan ve zırhlı kabuğunu açıp içindeki birliği saldıran tek kullanımlık kapsül. 'Pod assault' doktrini, İmparatorluk'un en dramatik savaş manevrasıdır.
+Drop Pod, Legiones Astartes ve Adeptus Astartes tarafından kullanılan bir uzay saldırı ve taşıma aracıdır; onun hızı ve delici gücüyle — bir kadro Space Marine'i bir gezegenin yüzeyine bırakabilen bir araçtır — onlar, Space Marine'lerin en ikonik ve en ölümcül saldırı aracıdır. Drop Pod'un en büyük özelliği, onun hızıdır — onlar, bir gezegenin atmosferine girer ve saniyeler içinde iner; bir Drop Pod, bir kadro Space Marine'i bir düşman pozisyonunun ortasına bırakabilir ve onların varlığı, bir Space Marine baskınının en ikonik silahıdır. Drop Pod'un en ünlü görevi, Space Marine'lerin sayısız baskın operasyonudur — onlar, Space Marine'leri bir düşman pozisyonunun ortasına bırakmak için kullanılırlar ve onların varlığı, bir Legion'un en ikonik silahıdır. Drop Pod, Space Marine'lerin en ikonik ve en ölümcül saldırı aracıdır — onlar, bir Space Marine baskınının somut halidir.
 
 -# Kaynaklar: *Codex: Space Marines*

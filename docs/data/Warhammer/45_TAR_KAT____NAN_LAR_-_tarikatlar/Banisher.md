@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Banisher.jpg/revision
 
 ## Tarihçe
 
-Banisher, Adeptus Ministorum'un Calixis'te Ordo Malleus hizmetine kurulmuş Collegia Exterminatus adlı özel dini tarikatının üyesidir. Hem daemonların doğasını anlamak için gerekli yasak bilgiye dalan 'bilgin-rahip' hem de onları ateş ve chainsword'la yok eden savaşçıdır. Calixian Schola Progenium'un en dindar çocukları arasından genç yaşta seçilirler; eğitimleri, karşılaşabilecekleri bilgiler karşısında ruhlarını güçlendirecek kadar inanç kazanmaları için uzun ve zordur — 'kutsanmış infazcı' olarak İmparatorluk'un en tehlikeli dini figürleri arasındadırlar.
+Banisher, İmparatorluğun en gizli ve en ölümcül Inquisitor tarikatıdır; onların görevi, daemon'ları ve Chaos'u yok etmektir ve onlar, İmparatorluğun en gizli ve en ölümcül savaşçılarıdır. Banisher'ın en büyük özelliği, onların gizliliğidir — onlar, İmparatorluğun en gizli tarikatıdır ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Banisher, hem bir savaşçı hem de bir hayalettir ve onların savaşı, hem fiziksel hem de psişiktir. Banisher'ın en ünlü görevi, daemon'ları yok etmektir — onlar, Chaos'un en büyük düşmanıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Banisher, İmparatorluğun en gizli ve en ölümcül Inquisitor tarikatıdır — onlar, gizliliğin ve ölümün birleşimidir.
 
 -# Kaynaklar: *Fandom wiki*

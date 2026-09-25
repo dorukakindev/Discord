@@ -10,6 +10,6 @@ Daemon Dünyası (Daemon World), Warp ile gerçek uzay arasındaki perdenin tama
 
 ## Tarihçe
 
-Chaos'un egemen olduğu gezegen; Warp'ın fiziksel kavramları zorladığı cehennem-dünya. Daemon Primarch'ların ve Lejyonların 'yeni yurdu' — burada insan sadece besin, yalnızca daemon kraliçe ve tanrılar hükmeder.
+Daemon Dünyası (Daemon World), tamamen Chaos'un kontrolüne girmiş gezegendir; Warp'ın fiziksel dünyaya sızmasıyla dönüşmüş ve artık gerçekliğin Immaterium'la iç içe geçtiği, demonların serbestçe dolaştığı ve fizik kurallarının bozulduğu bir cehennemdir. Daemon Dünyası'nda zaman işlemez — bir dakika yüzyıl, bir yüzyıl bir dakika olabilir; gökyüzü kan rengi, toprak etten ve hava çığlık doludur; yaşayan her şey ya mutant, ya demon ya da ikisinin karışımıdır. Daemon Dünyası'nın en ünlüleri Eye of Terror'un içindedir — bazıları eski Imperial dünyalarının düşmüş kalıntıları, bazıları Chaos tanrılarının doğrudan yarattığı oyun alanlarıdır; Medrengard, Plague Planet ve Sortiarius en bilinenleridir. Bir Daemon Dünyası'na giren ölümlü ya delirir ya dönüşür; orada yaşayan varlıklar, artık İmparatorluğun tanıdığı hiçbir kurala uymaz. Daemon Dünyası, Chaos'un nihai hedefidir — bütün gerçekliği bu hale getirmek.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

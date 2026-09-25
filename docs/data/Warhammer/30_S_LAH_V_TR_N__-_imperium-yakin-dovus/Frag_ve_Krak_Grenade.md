@@ -16,8 +16,6 @@ Imperium piyadesinin en yaygın iki el bombasıdır. Frag grenade parça tesirli
 
 ## Tarihçe
 
-Space Marine'lerin standart donanımının parçasıdır; Astra Militarum askerleri de frag grenade'i gündelik teçhizat olarak taşır. Siper temizleme, bina basma ve yakın mesafe araç avcılığında bu iki bombanın birlikte kullanımı Imperium muharebe öğretisinin temel unsurlarından sayılır.
+Frag ve Krak Grenade, İmparatorluğun temel el bombalarıdır; frag grenade piyadeye karşı şarapnel, krak grenade ise zırhlı hedeflere karşı patlayıcı olarak kullanılır ve her ikisi de her Imperial Guard'ın ve Space Marine'in temel cephaneliğidir. Frag Grenade'in içindeki şarapnel, patladığında çevreye dağılır ve piyadeyi parçalar — bir frag grenade, bir siperi temizler veya bir düşman grubunu durdurur; krak grenade ise daha az parça ama daha güçlü patlama yapar ve bir tankın zırhını veya bir binanın duvarını deler. Frag ve Krak'ın üretimi basittir — her Imperial forge world'de üretilir ve bir askerin cebinde taşıdığı en basit ama en hayati cephane; ve onların kombinasyonu, Imperial piyadesinin en temel silahıdır. Frag ve Krak Grenade, İmparatorluğun en küçük ama en evrensel silahıdır — onların patlaması, savaşın en temel sesidir.
 
--# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*
-
--# İlişkili kayıtlar: <#1551808888666587197>, <#1551753458779029565>, <#1551816756417269853>
+-# Kaynaklar: *Codex: Space Marines — 1

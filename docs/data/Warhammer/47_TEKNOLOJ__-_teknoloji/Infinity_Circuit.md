@@ -16,8 +16,4 @@ Craftworld'ün hem sinir sistemi hem de ruhudur. Ölen her Asuryani'nin ruhu bu 
 
 ## Tarihçe
 
-Spiritseer'ler tehlike anında ruhları buradan çağırıp Wraithguard ve Wraithlord gibi bedenlere yerleştirebilir; uzun savaşlarla yaşayanlarını yitiren craftworld'ler bu ölü savaşçılara giderek daha çok dayanmak zorunda kalmıştır. Gathering Storm döneminde Ynnari'nin Biel-Tan'daki girişimi Slaanesh'e bağlı güçlerin saldırısıyla birleşince Biel-Tan'ın infinity circuit'i parçalandı.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Gathering Storm II: Fracture of Biel-Tan*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1552483346846715924>, <#1551742665756901377>, <#1551814468458258434>
+Infinity Circuit, her Craftworld Aeldari'nin kalbinde bulunan devasa ruh arşividir; ölen Eldari'nin spirit stone'undan çekilen ruhlar burada toplanır ve kolektif bir bilinç olarak sonsuza dek yaşar. Circuit, Craftworld'ün hem bilgi bankası hem de rehberi — yaşayan Eldari gerektiğinde Circuit'e danışır ve ölülerin bilgeliği yaşayanlara yol gösterir; bazı durumlarda ölü ruhlar doğrudan Circuit üzerinden yaşayanlara konuşur. Wraith varlıkları da Infinity Circuit'ten beslenir — Wraithguard'ın içindeki ruh, Circuit'e bağlıdır ve craftworld'den uzaklaştıkça gücü azalır. Circuit'in bütünlüğü Craftworld'ün varlığı demektir: yıkılırsa ölüler Slaanesh'e düşer ve kalanlar hem geçmişlerini hem rehberlerini kaybeder. Eldari için Infinity Circuit, ölümsüzlüğün somut halidir — beden ölür ama ruh Circuit'te yaşar ve sonunda Büyük Düşman'a karşı bir gün t

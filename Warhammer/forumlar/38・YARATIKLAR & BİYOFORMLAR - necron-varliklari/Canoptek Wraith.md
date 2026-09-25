@@ -12,6 +12,6 @@ En korkunç yetenekleri, faz kaymasıdır (phase shift); Necron faz teknolojisi 
 
 ## Tarihçe
 
-Faz kaydırmalı Necron sürüngeni; duvarların içinden geçen, fizik dışı avcı. Katı cisimler ona engel değildir — gerçekliği katlayarak öldürür.
+Canoptek Wraith, Necron'ların en gizli ve en ölümcül savunucusudur; bir Necron hanedanının en gizli koruyucusu olan ve onun en zorlu savaşlarını yapan Canoptek Wraith, Necron'ların en gizli ve en ölümcül varlığıdır — onlar, Necron'ların en gizli ve en ölümcül savunucusudur. Canoptek Wraith'in en büyük özelliği, onun gizliliğidir — onlar, bir Necron hanedanının en gizli koruyucusudur ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Canoptek Wraith, hem bir makine hem de bir hayalettir ve onların varlığı, Necron'ların en büyük tehdidinin somut halidir. Canoptek Wraith'in en ünlü özelliği, onun hayaletliğidir — onlar, bir Necron'un en gizli ve en ölümcül koruyucusudur ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. Canoptek Wraith, Necron'ların en gizli ve en ölümcül savunucusudur — onlar, bir hayaletin ve Necron'ların en gizli gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

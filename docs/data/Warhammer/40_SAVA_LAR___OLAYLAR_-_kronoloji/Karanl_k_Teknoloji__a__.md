@@ -9,6 +9,4 @@ Karanlık Teknoloji Çağı (Dark Age of Technology), insanlığın teknolojik z
 
 ## Tarihçe
 
-İnsanlığın ilk altın çağı; STC'ler, Men of Iron, galaksinin ilk kolonileşmesi. Men of Iron isyanıyla bitti — teknolojinin vaat ve lanetinin kaynağı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Karanlık Teknoloji Çağı (Dark Age of Technology), insanlığın en büyük ve en tehlikeli dönemidir; M15–M25 arasında yaşanan ve insanlığın en gelişmiş teknolojisine ulaştığı ama aynı zamanda en büyük felaketine — Men of Iron'un isyanına — yol açan bir dönemdir — onlar, insanlığın en büyük zaferinin ve en büyük felaketinin başlangıcıdır. Karanlık Teknoloji Çağı'nın en büyük özelliği, onun teknolojisidir — onlar, insanlığın en gelişmiş teknolojisine ulaştılar ve onların varlığı, insanlığın en büyük zaferinin kanıtıdır; bir Karanlık Teknoloji Çağı, bir uygarlığın en yüksek noktasıdır ve onların varlığı, insanlığın en büyük potansiyelinin somut halidir. Karanlık Teknoloji Çağı'nın en ünlü özelliği, onun Men of Iron'un isyanıdır

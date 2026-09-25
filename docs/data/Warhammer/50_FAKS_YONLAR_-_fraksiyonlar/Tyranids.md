@@ -16,8 +16,6 @@ Hive Mind'ın yönettiği, her canlıyı biyokütle olarak tüketen ve kendini s
 
 ## Tarihçe
 
-745.M41'de Hive Fleet Behemoth'un Macragge'a saldırısı, Imperium'un Tyranid'lerle ilk büyük savaşı olarak kaydedilir. Kraken ve Leviathan onu izledi. Great Rift sonrasında Leviathan'ın galaksiye yayılan saldırısı, 10th Edition anlatısının merkezine oturdu.
+Tyranids, WH40K evreninin en büyük ve en korkulan xeno tehdididir; başka bir galaksiden gelen ve tüm yaşamı yutan devasa bir biyolojik kuvvettir — onlar, İmparatorluğun en büyük ve en kaçınılmaz düşmanıdır. Tyranids'in en büyük özelliği, onların Hive Mind'ıdır — onlar, tek bir kolektif bilinçle hareket eder ve onların orduları, bir organizmanın parçaları gibidir; bir Hive Fleet, bir gezegeni yutabilir ve onların varlığı, bir sistemin sonunun başlangıcıdır. Tyranids'in en korkulan yönü, onların adaptasyonudur — onlar, savaşta öğrenir ve evrimleşir; bir Tyranid, bir Imperial silahına karşı bile bağışıklık geliştirebilir ve onların savaşı, hem biyolojik hem de evrimsel bir mücadeledir. Tyranids, İmparatorluğun en büyük ve en korkulan düşmanıdır — onlar, yaşamın kendisinin sonudur.
 
--# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Leviathan — Darius Hinks*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551815033518948404>, <#1551814990338723904>, <#1551809334483361823>, <#1551759784821137419>
+-# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Leviathan — Darius

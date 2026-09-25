@@ -16,8 +16,6 @@ Kâhl, Kin'in askerî ve siyasi komutanıdır. Stratejik kararlarda Votann'ın r
 
 ## Tarihçe
 
-Kâhl, Leagues of Votann'ın general subaylarına verilen unvandır; Kin'lerin Oathband'lerini savaşa yöneten bu figürler, 'oy'un (sözleşme) ve kan bağının askeri otoritesidir. Forgewrought silahlar ve bastium zırhla savaşan bu liderler, 'klanın komutanı' olarak Votann ordularının saha yöneticisidir.
+Kâhl, Leagues of Votann'ın en önemli ve en saygın lideridir; onların bir Oathband'in — Leagues'ın askeri birliği — komutanı olan Kâhl, Leagues'ın en cesur ve en kararlı savaşçılarıdır — onlar, Leagues'ın en önemli ve en saygın lideridir. Kâhl'ın en büyük özelliği, onların komutasıdır — onlar, bir Oathband'i yöneten ve Leagues'ın en büyük savaşlarını kazanan komutanlardır ve onların varlığı, Leagues'ın en büyük gücünün kanıtıdır; bir Kâhl komutası, bir Oathband'in en büyük zaferinin en büyük anıdır ve onların varlığı, Leagues'ın en büyük onurunun somut halidir. Kâhl'ın en ünlü özelliği, onların Votann'a olan bağlılığıdır — onlar, atalarının bilgisine saygı gösteren ve onların geleneğini takip eden komutanlardır ve onların varlığı, Leagues'ın en kutsal geleneğinin kanıtıdır. Kâhl, Leagues of Votann'ın en önemli ve en saygın lideridir — onlar, bir Oathband'in gücünün ve Leagues'ın geleneğinin somut halidir.
 
--# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551809846066548779>
+-# Kaynaklar: *Codex: Leagues o

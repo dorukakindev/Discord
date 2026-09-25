@@ -16,8 +16,4 @@ Jokaero, turuncu kürklü, maymunsu görünümlü ve olağanüstü teknolojik be
 
 ## Tarihçe
 
-Jokaero Weaponsmith, orangutan benzeri xenos zanaatkardır — dili ve kültürü olmayan ama teknolojiyi doğal olarak anlayan bu yaratıklar, İmparatorluk'un en iyi silah ustalarıdır. 'Kelimeleri olmayan mucit' olarak efsanevi 'dijital silahlar' ve benzersiz artefaktlar üreten bu varlıklar, Inquisition'un en değerli 'canlı aletlerindendir.
-
--# Kaynaklar: *Codex: Grey Knights*; *Warhammer 40,000: Rogue Trader — Rick Priestley*
-
--# İlişkili kayıtlar: <#1551815304252887041>, <#1551753472070783096>, <#1551809846066548779>
+Jokaero Weaponsmith, İmparatorluğun en gizli ve en şaşırtıcı varlığıdır; bir Jokaero — orangutan benzeri, teknolojiyle doğal olarak oynayan bir xeno türü — olarak Inquisition'a hizmet eden ve onun en gizli silahlarını üreten bir varlıktır — onlar, İmparatorluğun en gizli ve en şaşırtıcı üyesidir. Jokaero'nun en büyük özelliği, onun teknoloji yeteneğidir — onlar, teknolojiyi doğal olarak anlayan ve onu geliştiren bir türdür ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Jokaero Weaponsmith, hem bir xeno hem de bir mühendistir ve onların varlığı, İmparatorluğun en gizli varlığının somut halidir. Jokaero'nun en ünlü özelliği, onun Inquisition'a hizmetidir — onlar, bir xeno olarak İmparatorluğun en gizli organizasyonunda çalışan en şaşırtıcı varlıktır ve onların varlığı, Inquisition'ın en gizli sırrının kanıtıdır. Jokaero Weaponsmith, İmparatorluğun en gizli ve en şaşırtıcı varlığıdır — onlar, bir xeno'nun ve Inquisition'ın en gizli

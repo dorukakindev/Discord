@@ -12,6 +12,6 @@ Vraks, baştan başa devasa bir İmparatorluk cephanelik-deposuna dönüştürü
 
 ## Tarihçe
 
-Vraks Kuşatması (Siege of Vraks), 813-830.M41 arası Kardinal Xaphan'ın isyanı ve Death Korps of Krieg'in on yedi yıl süren kuşatmasıdır; milyonlarca ölüyle İmparatorluk'un en kanlı kuşatmalarından biri. Krieg'in amansız 'ödeşme' doktrininin en bilinen örneği.
+Vraks Kuşatması, Imperialis'in 41. binyılda yaşadığı en trajik ve en pahalı savaşlardan biri olarak anılır. Vraks, Imperialis'in en büyük cephane gezegenlerinden biriydi; buradaki materyal rezervleri, gezegeni Chaos'a düşen bir rasgele ihanetle kaybetmenin kabul edilemez olduğu kadar değerliydi. Gezegenin yöneticisi Xaphan, Chaos'a saptığında Imperialis, gezegeni geri almak için Krieg'in Death Korps'unun da dahil olduğu büyük bir kuşatma ordusunu gönderdi. Kuşatma, yıllarca süren ve milyonlarca askerin ölümüyle sonuçlanan bir siper savaşına dönüştü. Sonunda Chaos kuvvetleri bozguna uğratıldı ama ödenen bedel o kadar yüksekti ki Vraks Kuşatması, İmparatorluğun modern tarihinin en kanlı kuşatmalarından biri olarak hatırlanır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,6 +12,6 @@ Bu kolun üyeleri, düşmanı yenmek için onu tanımak zorundadır; bu yüzden 
 
 ## Tarihçe
 
-Ordo Xenos, Inquisition'un yabancı (xenos) tehditleriyle ilgilenen koludur; uzaylı ırklar, genetik sızıntılar ve xenos kültlerini soruşturur. Deathwatch'ın askeri koluyla çalışırlar — İmparatorluk'un xenos bilgisi ve yabancı taktiklerinin deposu onlardadır.
+Ordo Xenos, Inquisition'ın üç büyük ordusundan biridir ve İmparatorluğun xeno — yabancı, uzaylı — tehditleriyle ilgilenir; onların işi Tyranid, Ork, Aeldari, Necron, T'au ve sayısız diğer ırkın İmparatorluk'a olan tehdidini izlemek, analiz etmek ve yok etmektir. Ordo Xenos Inquisitor'ları, İmparatorluğun en geniş bilgi ağına sahiptir — onların arşivleri, bilinen tüm xeno ırklarının zayıf noktalarını, kültürlerini ve teknolojilerini içerir; bir Ordo Xenos Inquisitor'u, bir Tyranid Hive Fleet'in gelişini tahmin edebilir veya bir Eldari Craftworld'ün zayıf noktasını bulabilir. Ordo Xenos'un en ünlü kurumu Deathwatch'tur — Space Marine'lerin seçkinlerinden oluşan ve xeno avcılığında uzmanlaşmış Chamber Militant; Deathwatch, Ordo Xenos'un elidir ve onların görevi, xeno'yu İmparatorluk'a ulaşmadan yok etmektir. Ordo Xenos'un işi, İmparatorluğun hayatta kalmasının anahtarıdır — xeno tehdidi durmazsa, İmparatorluk yok olur.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fando

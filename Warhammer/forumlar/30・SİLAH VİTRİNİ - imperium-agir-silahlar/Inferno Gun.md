@@ -19,4 +19,8 @@ Flamer silahları basınçlı promethium karışımını ateşleyerek kalın bir
 ## Not
 Siper savaşının simgeleşmiş silahıdır; çukur ve tünel ortamında tercih edilir çünkü alev zırh yerine içindekini yakar.
 
+
+## Tarihçe
+
+Inferno Gun, İmparatorluğun en ünlü ve en yakıcı Titan silahıdır; onların İmparatorluk'un en büyük ve en yakıcı alev silahı olan ve onun en zorlu savaşlarını yapan Inferno Gun, İmparatorluğun en yakıcı ve en büyük silahıdır — onlar, İmparatorluğun en ünlü ve en yakıcı Titan silahıdır. Inferno Gun'ın en büyük özelliği, onun alevidir — onlar, İmparatorluk'un en büyük alev silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Inferno Gun, hem bir silah hem de bir yıkımdır ve onların varlığı, İmparatorluğun en büyük silahının somut halidir. Inferno Gun'ın en ünlü özelliği, onun Warhound Titan üzerindeki kullanımıdır — onlar, İmparatorluğun en ünlü Titan'ının en yakıcı silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Inferno Gun, İmparatorluğun en ünlü ve en yakıcı Titan silahıdır — onlar, bir alevin ve İmparatorluğun en büyük silahının somut halidir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -13,4 +13,4 @@
 
 ## Tarihçe
 
-Horus Heresy serisinin okuma rehberi; 60+ kitaplık saga için önerilen başlangıç. Xenos'tan sonra: Horus Rising ile başla, önemli lejyonların düşüşlerini izle, Siege of Terra ile bitir — kronolojik değil, duygusal sıra.
+Horus Heresy serisinin okuma sırası, İmparatorluğun en büyük ve en karmaşık edebi evrenine girişin anahtarıdır; 54 ana kitap ve onlarca yan hikâye, Horus'un ihanetinden Terra Kuşatması'na kadar olan destansı bir anlatı sunar ve nereden başlanacağı, okuyucunun tercihine bağlıdır. Serinin en popüler giriş noktası, 'Horus Rising' — ilk üç kitabıdır; onlar, Heresy'nin temelini atar ve okuyucuyu primarch'larla, Legion'larla ve ihanetin ilk kıvılcımlarıyla tanıştırır. Serinin okunması, hem kronolojik hem de tematik olabilir — bazı okuyucular, sadece primarch hikâyelerini (Fulgrim, Prospero Burns, Scars vb.) okur; bazıları ise tüm seriyi sırayla takip eder. Horus Heresy serisi, Warhammer 40k'nin en büyük edebi eseridir — onun okunması, İmparatorluğun en büyük trajedisini anlamanın tek yoludur.

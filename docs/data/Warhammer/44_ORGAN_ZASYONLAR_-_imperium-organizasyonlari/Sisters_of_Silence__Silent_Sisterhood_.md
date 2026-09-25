@@ -16,8 +16,4 @@ Güncel yayınlarda Anathema Psykana olarak da anılan, yalnızca pariah kadınl
 
 ## Tarihçe
 
-Great Crusade boyunca Custodes'le birlikte Talons of the Emperor kuvvetini oluşturdular ve Prospero'ya yapılan saldırıda yer aldılar. Heresy döneminin komutanı Jenetia Krole'dur; Amendera Kendel ise Malcador'un Knights-Errant'ı arasına seçildi. Sonraki çağlarda kurum dağıldı; Indomitus Crusade ile birlikte yeniden örgütlenerek Talons of the Emperor'u canlandırdı.
-
--# Kaynaklar: *Codex: Adeptus Custodes — 10th Edition*; *Garro — James Swallow*; *Prospero Burns — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551743688680669286>, <#1551753439581831278>, <#1551818131679215728>, <#1551816677669343263>
+Sisters of Silence (Silent Sisterhood), İmparatorluğun tamamı Pariah kadınlarından oluşan gizli savaş birliğidir; onların varlığı Warp'ı susturur ve psyker'ları felç eder ve bu yüzden İmparatorluğun en korkulan ve en gizli kurumudur. Sisters of Silence, İmparator tarafından bizzat kuruldu — görevleri Black Ships'e eşlik ederek tehlikeli psyker'ları güvenle taşımak ve Warp'ın tehditlerine karşı son savunma hattını oluşturmaktı; onların psişik boşluğu, demonları Immaterium'a geri sürükler ve psyker'ları kör ve sağır bırakır. Horus Heresy'de kritik rol oynadılar — özellikle Prospero'nun yakılması ve Terra Kuşatması'nda Thousand Sons'un büyülerine karşı tek etkili kalkan oldular; onların varlığı, psyker savaşını İmparatorluk lehine çevirdi. Sisters of Sile

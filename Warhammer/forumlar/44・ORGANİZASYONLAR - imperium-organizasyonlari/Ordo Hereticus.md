@@ -12,6 +12,6 @@ Bu kolun varlığı, acı bir dersten doğdu. Apostasy Çağı'nda, çılgın Ec
 
 ## Tarihçe
 
-Ordo Hereticus, Inquisition'un insan-içi tehditleri avlayan koludur; heretikler, mutantlar ve yozlaşmış İmparatorluk kurumlarını soruşturur. 'Witch Hunter'lar olarak da bilinir — psyker kaçakları ve Chaos kültleri onların ana avıdır.
+Ordo Hereticus, Inquisition'ın üç büyük ordusundan biridir ve İmparatorluk içindeki sapkınlıkla — heretikler, mutantlar, cadılar ve Ecclesiarchy içindeki yozlaşma — ilgilenir; onların hedefi İmparatorluğun kendi içindeki düşmandır. Ordo Hereticus Inquisitor'ları, en korkulan ve en acımasız olanlardır — onların işi, bir gezegendeki isyanı bastırmak, bir heretik ağı yok etmek veya bir Space Marine Chapter'ının sadakatini sorgulamaktır; ve Ordo Hereticus'un elinde, Exterminatus bile gündelik bir araçtır. Ordo Hereticus'un en büyük silahı Sisters of Battle'dır — Adepta Sororitas, Ordo Hereticus'un askeri kanadı olarak çalışır ve onların fanatik inancı, Inquisitor'un en güvenilir ordusudur. Ordo Hereticus'un hedefi insanlığın kendisidir — bir Ordo Hereticus Inquisitor'u, bir milyar insanın ölümünü tek bir şüphe için emredebilir; ve bu yüzden onlar, İmparatorluğun en korkulan varlıklarıdır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lex

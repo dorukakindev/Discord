@@ -14,6 +14,4 @@ Gotik Savaş'ın stratejik sonucu büyüktür: Abaddon, iki Blackstone Fortress'
 
 ## Tarihçe
 
-Abaddon'un Gothic Sektör'e 12. Kara Haçlı Seferi; Blackstone Fortress'lerin çalınması. Imperial Navy'nin en büyük deniz savaşı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Gotik Savaş (Gothic War), Abaddon'un 12. Kara Seferi olarak bilinen ve Imperialis'in en büyük deniz savaşlarından biri olarak geçen büyük bir operasyondu. Abaddon, Gothic Sector'ü ele geçirmek amacıyla Blackstone Fortress'leri — Imperialis'in en güçlü ve en gizli silahları — kullandı. Imperialis, Gothic Sector'ü savunmak için Imperial Navy'nin en büyük filosunu ve birçok Space Marine Chapter'ını bir araya getirdi; sefer bo

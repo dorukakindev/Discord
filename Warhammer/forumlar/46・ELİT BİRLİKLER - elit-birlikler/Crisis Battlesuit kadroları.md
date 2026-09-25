@@ -16,8 +16,4 @@ Crisis kadroları, T'au ordusunun hareketli ağır ateş gücünü ve komuta çe
 
 ## Tarihçe
 
-Crisis kadroları Damocles Gulf Crusade'den Great Rift sonrası savaşlara kadar T'au genişlemesinin hemen her cephesinde görüldü. Commander Farsight'ın Enclaves'i battlesuit ağırlıklı ordularıyla tanınır; Farsight'ın çevresindeki seçkin komutanlar Eight olarak anılır. Kauyon ve Mont'ka öğretileri, bu kadroların sabırlı pusu ile ani darbe arasında nasıl kullanıldığını belirler.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Farsight: Crisis of Faith — Phil Kelly*; *Fire Caste — Peter Fehervari*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>, <#1551813361887617108>
+Crisis Battlesuit kadroları, T'au ordusunun bel kemiğidir; XV8 Crisis Battlesuit giyen pilotlardan oluşur ve T'au'nun mobil ateş gücü doktrininin somut halidir — bir Crisis takımı, düşmanın zırhlısını eritir, komuta merkezini yok eder ve hızla geri çekilir. Crisis Battlesuit üç silah hardpoint'i taşır ve pilot, göreve göre plasma rifle, fusion blaster, missile pod, flamer veya shield generator seçer; bu modülerlik, Crisis takımını her duruma uyarlanabilir kılar. Crisis pilotları Fire Caste'nin en deneyimli savaşçılarıdır — bir Crisis takımının komutanı (Shas'ui veya Shas'vre) yüzlerce savaş görmüş ve Earth Caste'nin en iyi eğitimini almıştır. Crisis kadroları T'au'nun en değerli birimidir — bir Crisis takımının kaybı, bir Imperial Guard bölüğünün kay

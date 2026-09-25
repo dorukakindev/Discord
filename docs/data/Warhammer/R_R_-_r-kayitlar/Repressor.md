@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/94/Repressor01.png/revis
 
 ## Tarihçe
 
-Repressor, standart Rhino şasisi temelli İmparatorluk zırhlı personel taşıyıcısıdır. Adeptus Arbites'in isyan-kontrol aracı ve Adepta Sororitas'ın şehir savaşlarında piyade taşıyıcısı olarak kullanılır. Genişletilmiş taşıma bölmesi, yükseltilmiş tavan ve yolcu silah yuvaları içerir; öndeki dozer-bıçağı barikatları ve kalabalıkları yarmak için tasarlanmıştır. Arbites varyantı su topları ve sersemletici gaz bombası fırlatıcılarıyla 'ölümcül olmayan' silahlanma taşır; Sororitas ise 40. Binyıl sonlarından itibaren bunları alev-silah ve zırhlı taşıma için uyarlamıştır.
+Repressor, Adepta Sororitas ve Adeptus Arbites tarafından kullanılan bir zırhlı taşıma aracıdır; onun zırhı ve silahlandırmasıyla — bir kadro Sister veya Arbites'i taşıyabilen ve düşmanı bastıran bir araçtır — onlar, İmparatorluğun en güvenilir ve en dayanıklı taşıma aracıdır. Repressor'ın en büyük özelliği, onun zırhıdır — onlar, bir Rhino'dan daha kalın zırhlıdır ve onların varlığı, bir Imperial operasyonunun en güvenilir taşıma aracıdır; bir Repressor, bir düşman saldırısını durdurabilir ve onların varlığı, bir Imperial hattının en güvenilir noktasıdır. Repressor'ın en ünlü görevi, Sisters of Battle'ın çeşitli operasyonlarıdır — onlar, Sister'ları savaşa taşımak için kullanılırlar ve onların varlığı, İmparatorluğun en güvenilir taşıma aracıdır. Repressor, İmparatorluğun en güvenilir ve en dayanıklı taşıma aracıdır — onlar, bir operasyonun en güvenilir taşıma aracının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058814134194331>

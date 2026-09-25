@@ -14,6 +14,4 @@ Gellar Field'ın tehlikesi, 'titremesi' dir: alan zayıfladığında Warp, içer
 
 ## Tarihçe
 
-Warp seyahatinde gemiyi korumak için üretilen 'gerçeklik balonu'; Geller'ın adını taşıyan eski teknoloji. Bir gemi alansız giderse — içerideki her şey ölür.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Gellar Alanı, Warp'ta seyreden gemiyi çevreleyen ve içinde gerçek uzay fiziğinin geçerli kaldığı koruyucu enerji baloncuğudur. Warp Drive ile birlikte M18 civarında geliştirilen bu düzenek olmadan Warp'a giren gemi, Immaterium'un fizik ötesi kaosuna ve içindeki demonlara doğrudan maruz kalır; sonuç ya mutasyon, ya delilik ya da toplu imhadır. Alan jeneratörü bilinmeyen parçacıklardan oluşan bir kabuk yayar; bu kabuk zayıflarsa gemi gövdesine demonlar sızmaya başlar ve mürettebat arasında kabuslar, halüsinasyonlar ve kanlı cinnet dalgaları görülür.

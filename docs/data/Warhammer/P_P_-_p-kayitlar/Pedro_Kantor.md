@@ -47,7 +47,7 @@ Great Rift çağında Roboute Guilliman'ın dağıttığı Primaris takviyeleri,
 
 ## Tarihçe
 
-Pedro Kantor — 'Lord Helblade' — Crimson Fists'in 29. ve mevcut Chapter Master'ıdır; 900.M41'den beri yaklaşık bir yüzyıldır chapter'ı yönetir ve hizmeti 250 yıl daha geriye gider. İlk ününü chapter'ın neredeyse yok olduğu çatışmalarda kazandı — 'kalan son yumruk' olarak Rynn's World'ün trajedisinden chapter'ı yeniden inşa eden adam.
+Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluğun en cesur ve en kararlı komutanlarından biridir; onların Chapter'ı Ork Waaagh!'ı tarafından neredeyse yok edildikten sonra onu yeniden kuran ve İmparatorluğun en dirençli savaşçılarından biri olan Kantor, İmparatorluğun en büyük direnişinin simgesidir — onlar, Crimson Fists'in en ünlü ve en onurlu lideridir. Pedro Kantor'un en büyük özelliği, onun direnişidir — onlar, Chapter'ının neredeyse yok edilmesinden sonra onu yeniden kurdu ve onların varlığı, İmparatorluğun en büyük
 
 ## Kişilik, İlişkiler ve Relic'ler
 Kaynakların Kantor'da öne çıkardığı nitelik, gösterişten uzak bir kararlılıktır. O, düello meydanında adını duyurmuş bir savaşçı olmaktan çok, en kötü anda soğukkanlılığını korumuş bir komutan olarak anılır. Halkıyla kurduğu yakınlık da bu portrenin parçasıdır: Rynn's World'ün insanları için Kantor, kendilerini kurtarmak uğruna Chapter'ının son kalıntılarını ortaya koyan adamdır ve bu minnet, Chapter ile dünya arasındaki bağı felaketten sonra daha da derinleştirmiştir.

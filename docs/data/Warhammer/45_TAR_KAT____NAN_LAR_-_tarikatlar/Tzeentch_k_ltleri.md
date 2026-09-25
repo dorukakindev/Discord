@@ -15,12 +15,10 @@ Tzeentch kültleri sızmayı, entrikayı ve sabırlı planları sever. Çoğu za
 
 ## Tarihçe
 
-Kaynaklar Tzeentch'e tapınmayı yasak bilgiye, iktidar hırsına ve kayıtdışı psykerliğe açılan kapı olarak anlatır. Bir kültün yıllarca bir gezegenin yönetimine sızıp açık bir isyan yerine yönetimi içeriden ele geçirmesi tipik bir desendir. Heretic Astartes arasında bu inancın en bilinen taşıyıcısı Magnus'un Thousand Sons'ıdır.
+Tzeentch kültleri, Chaos'un en gizli ve en tehlikeli inanç sistemlerinden biridir; onların Tzeentch'e — Chaos'un değişim ve entrika tanrısı — olan inançları ve onların planlarını uygulayan gizli tarikatlardır — onlar, İmparatorluğun en sinsi ve en tehlikeli iç düşmanıdır. Tzeentch kültlerinin en büyük özelliği, onların gizliliğidir — onlar, bir gezegenin nüfusuna karışır ve onların planları, yıllar önce başlar; bir Tzeentch kültisti, hem bir inanan hem de bir casustur ve onların varlığı, İmparatorluğun en sinsi düşmanının kanıtıdır. Tzeentch kültlerinin en ünlü özelliği, onların entrikasıdır — onlar, sadece savaşmak için değil, planlamak için de çalışır ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır. Tzeentch kültleri, İmparatorluğun en sinsi ve en tehlikeli inanç sistemidir — onlar, entrikanın ve gizliliğin birleşimidir.
 
 ## Kanon Notu
 
 Tzeentch'in planlarının birbirini boşa çıkarabilmesi kaynaklarda bilinçli bir çelişki olarak işlenir; kültlerin başarısı çoğu zaman tanrının niyetinin kanıtı sayılmaz.
 
--# Kaynaklar: *Realm of Chaos: The Lost and the Damned*; *A Thousand Sons — Graham McNeill*; *Codex: Thousand Sons*
-
--# İlişkili kayıtlar: <#1551647728692633643>, <#1551809231580307517>, <#1551816657691746335>, <#1551812325521100811>
+-# Kaynaklar: *

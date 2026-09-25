@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/revision/latest?cb=20120915224004
 
+## Tarihçe
+
+World Eaters (XII Legion, eski adıyla War Hounds), Angron'un oğullarıdır; kan, vahşet ve yakın dövüş üzerine kurulu ve Horus Heresy'de Khorne'a düşen ilk Legion'dur — onların savaşı, sadece kan ve öfkedir. World Eaters'ın düşüşü, Angron'un trajedisidir — onların primarch'ı, Butcher's Nails implantlarıyla delirtilmiş bir köleydi ve onun öfkesi, Legion'unu da delirtti; World Eaters, Heresy'nin en vahşi savaşçıları oldular ve onların savaşı, sadece öldürmek ve kan akıtmaktır. World Eaters'ın savaşı, basit ve acımasızdır — onlar savaşta bağırmaz, sadece keser ve biçer; bir World Eater, düşmanını parçalar ve onun amacı, sadece Khorne'a kan ve kafatası sunmaktır. World Eaters, İmparatorluğun en vahşi ve en korkulan düşmanıdır — onlar, Khorne'un en sadık çocuklarıdır.
+
 https://static.wikia.nocookie.net/warhammer40k/images/b/b1/WorldEatersIcon.jpg/revision/latest?cb=20120915224004
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

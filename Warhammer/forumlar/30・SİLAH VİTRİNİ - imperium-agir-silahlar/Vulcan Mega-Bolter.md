@@ -5,14 +5,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ec/Avenger_Mega_Bolter.j
 
 -# *Vulkan Mega-Bolter*
 
-Titan ölçeğinde döner namlulu bolt topu; saniyede yüzlerce dev bolt yağdırarak piyade alaylarını ve hafif araçları bir anda siler. Mega-bolt fırtınası önünde hiçbir hat tutunamaz.
-
-
-## Teknik ve Kullanım
-Bolt silah ailesi .75 kalibre kendi-itmeli mermi kullanır; her mermi kütledelici çekirdek + patlayıcı başlık taşır ve hedefin içinde infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; bir bolt mermisi ortalama bir insanı ortadan ikiye ayırır.
+Titan ölçeğinde çift bağlantılı döner bolt topu; saniyede üç yüz mermi kusar ve Titan mürettebatının 'şeytanın kahkahası' dediği sesi çıkarır. Mega-bolt fırtınası önünde hiçbir hat tutunamaz.
 
 ## Tarihçe
 
-Dev seri-ateş topu; Titan'ların ve süper-ağır araçların taşıdığı çok-namlulu bolter. Ravenwing'in Nephilim Jetfighter'ında Avenger varyantı kullanılır — 'bolter' kavramının sınırı yok.
+Vulcan Mega-Bolter, İmparatorluğun en ünlü ve en ölümcül ağır silahıdır; onların İmparatorluk'un en büyük ve en yıkıcı bolter'ı olan ve onun en zorlu savaşlarını yapan Vulcan Mega-Bolter, İmparatorluğun en ölümcül ve en büyük silahıdır — onlar, İmparatorluğun en ünlü ve en ölümcül ağır silahıdır. Vulcan Mega-Bolter'ın en büyük özelliği, onun gücüdür — onlar, İmparatorluk'un en büyük bolter'ıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Vulcan Mega-Bolter, hem bir silah hem de bir yıkımdır ve onların varlığı, İmparatorluğun en büyük silahının somut halidir. Vulcan Mega-Bolter'ın en ünlü özelliği, onun Titan'lar üzerindeki kullanımıdır — onlar, İmparatorluğun en büyük makinelerinin en ölümcül silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Vulcan Mega-Bolter, İmparatorluğun en ünlü ve en ölümcül ağır silahıdır — onlar, bir gücün ve İmparatorluğun en büyük silahının somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+## Teknik ve Kullanım
+Her mermisi taşta ve çelikte bir metre çapında krater açar; bina ve hafif araç yıkımında idealdir, ama bunker ve ağır zırhı delemez — yine de aralıksız darbe kuvveti bir Land Raider'ı yana savuracak kadar şiddetlidir. Tek kusuru isabetsizliğidir; yüzlerce metrekareyi patlayan ölümle dolduran bir silahın isabete ihtiyacı yoktur. Dire Wolf sınıfı Titan'ların taşıdığı Adrex Defensor pattern'i bilinen bir varyantıdır.
+
+-# Kaynaklar: *Imperial Armour Volume Six — The Siege of Vraks Part Two*; *Savage Scars — Andy Hoare*; *Adeptus Titanicus (kural kitabı)*

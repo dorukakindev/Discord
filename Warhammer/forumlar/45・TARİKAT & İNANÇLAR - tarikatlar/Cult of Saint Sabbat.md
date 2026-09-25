@@ -10,6 +10,6 @@ Cult of Saint Sabbat, İmparatorluk İnancı'nın bölgesel ama son derece güç
 
 ## Tarihçe
 
-Cult of Saint Sabbat, Sabbat Dünyaları'nın en güçlü aziz kültüdür; Saint Sabbat'ın dirilişi ve Crusade zaferleriyle İmparatorluk'un en popüler inançlarından birini oluşturur. Tanith ve çevresindeki dünyaların manevi merkezidir — askerlerin 'Sabbat' adıyla savaşa gittiği kültürel temel.
+Cult of Saint Sabbat, İmparatorluğun en kutsal ve en önemli dini tarikatlarından biridir; onların Saint Sabbat'a — Sabbat Worlds'ün koruyucu azizesi — olan inançları ve onun öğretisini takip eden bir inançtır — onlar, İmparatorluğun en kutsal ve en sadık tarikatıdır. Cult of Saint Sabbat'ın en büyük özelliği, onun sadakatidir — onlar, Saint Sabbat'a tamamen bağlıdır ve onların inancı, hem askeri hem de dini bir seferdir; bir Cult of Saint Sabbat takipçisi, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Cult of Saint Sabbat'ın en ünlü özelliği, onun Sabbat Worlds'ün koruyucusudur — onlar, Sabbat Worlds'ün en sadık koruyucusudur ve onların varlığı, İmparatorluğun en kutsal gücünün kanıtıdır. Cult of Saint Sabbat, İmparatorluğun en kutsal ve en sadık dini tarikatıdır — onlar, sadakatin ve kutsallığın birleşimidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

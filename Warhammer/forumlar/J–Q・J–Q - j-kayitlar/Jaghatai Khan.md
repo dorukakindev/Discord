@@ -13,6 +13,10 @@ Primarch'ların galaksiye dağıtılmasının ardından Jaghatai'nin kapsülü, 
 
 Bu birleşme, Palatine'in imparatorluğunun yıkılmasıyla sonuçlandı. Jaghatai'nin Chogoris'te kurduğu düzen, yerleşik iktidara karşı özgürlüğü, hızı ve bozkırın geniş ufuklarını yücelten bir kültürün doğuşuydu. Primarch'ın Terra'nın hiyerarşik ve bürokratik dünyasına karşı hissettiği yabancılık, sonraki bütün ilişkilerinin arka planında bu köklerden beslenir.
 
+## Tarihçe
+
+Jaghatai Khan, White Scars'ın en ünlü ve en efsanevi primarch'ıdır; Chogoris'in — White Scars'ın ev gezegeni — en hızlı savaşçısı olan ve White Scars'ı kuran Khan, İmparatorluğun en efsanevi ve en cesur primarch'ıdır — onlar, White Scars'ın en ünlü ve en efsanevi primarch'ıdır. Jaghatai Khan'ın en büyük özelliği, onun hızıdır — onlar, İ
+
 ## Great Crusade
 Emperor Chogoris'e ulaştığında Jaghatai, V Legion'ın komutasını devraldı ve Legion'ı Chogoris'in dili, törenleri ve savaş anlayışıyla yeniden biçimlendirdi. Great Crusade boyunca Legion'ını genellikle Imperium'un uzak sınırlarına yönlendirdi; hızlı akınlar ve uzun süreli takip harekâtlarıyla düşman kuvvetlerini dağıtıp yeni sınırlar açtı. Terra'dan ve Imperial yönetim kurumlarından bilinçli olarak uzak durması, onu bir yandan özgür bir komutan yaparken, öte yandan da kardeşleri ve Terra'daki yöneticiler nezdinde niyetleri anlaşılmaz bir figür hâline getirdi.
 

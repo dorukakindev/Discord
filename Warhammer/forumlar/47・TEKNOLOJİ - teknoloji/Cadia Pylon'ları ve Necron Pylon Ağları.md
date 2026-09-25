@@ -16,8 +16,6 @@ Cadia'nın yüzeyinde yükselen kapkara sütunlar Imperial kayıtlarda binyılla
 
 ## Tarihçe
 
-13th Black Crusade'de Abaddon pylon ağını sistemli biçimde hedef aldı. Belisarius Cawl ağı yeniden etkinleştirmeye çalıştı ve bu çabada Trazyn the Infinite ile yollarının kesiştiği anlatılır; etkinleşen pylon'lar Warp'ı bir süreliğine geri itti. Will of Eternity'nin Cadia'ya düşürülmesi ağı yok etti. Pariah Nexus'ta Szarekh'in blackstone pylon ağı ise Warp'ı bastırmaya yönelik çok daha büyük bir projenin parçası olarak Nephilim War'un merkezine oturdu.
-
--# Kaynaklar: *Gathering Storm I: Fall of Cadia*; *Codex: Necrons — 10th Edition*
+Cadia pylonları, Cadia gezegeninin yüzeyine dağılmış devasa siyah taş sütunlardı; Eye of Terror'un hemen yanında duran bu yapılar, Warp'ı geri iten anti-psişik bir alan üreterek Cadia'yı binlerce yıl boyunca Chaos'un en büyük bariyeri yaptı. Pylonlar Necron yapımıdır — War in Heaven döneminden kalma, Webway ve Warp'ı kontrol eden düzeneklerin parçası; Cadia'nın pylonları özellikle Warp rift'i kapatmaya ayarlıydı ve bu yüzden Cadia, Chaos'un materyal dünyaya açılan en dar boğazında duruyordu. Abaddon'un 13. Kara Haçlı Seferi'nde Cadia'nın düşmesiyle pylonlar da yıkıldı — çökmeleriyle Warp sınırı çözüldü ve Great Rift (Cicatrix Maledictum) açıldı; galaksinin ikiye böl
 
 -# İlişkili kayıtlar: <#1551812139935866891>, <#1551818153271627807>, <#1551639038291611649>, <#1551811621285003315>, <#1551811393680838699>

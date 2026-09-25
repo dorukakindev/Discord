@@ -14,7 +14,7 @@ Her Navigator House'unun başında bulunan ve House'un servetini, sözleşmeleri
 
 ## Tarihçe
 
-Novator'lar, House'larının Navigator'larını hangi filoya, hangi Rogue Trader hanedanına ya da hangi kuruma kiralayacağına karar verir ve bu sözleşmelerden doğan nüfuzu yönetir. Paternova makamı çevresindeki rekabette de başlıca oyuncular onlardır.
+Novator, İmparatorluğun en gizli ve en önemli figürüdür; onların İmparatorluk'un en gizli ve en önemli figürü olan ve onun en gizli operasyonlarını yöneten Novator, İmparatorluğun en gizli ve en önemli varlığıdır — onlar, İmparatorluğun en gizli ve en önemli figürüdür. Novator'un en büyük özelliği, onun gizliliğidir — onlar, İmparatorluk'un en gizli ve en önemli figürüdür ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Novator, hem bir figür hem de bir sırdır ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Novator'un en ünlü özelliği, onun Navigator Houses'a bağlıdır — onlar, İmparatorluğun en gizli ve en önemli figürüdür ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Novator, İmparatorluğun en gizli ve en önemli figürüdür — onlar, bir gizliliğin ve İmparatorluğun en büyük sırrının somut halidir.
 
 -# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Warhammer 40,000 Core Book — 10th Edition*
 

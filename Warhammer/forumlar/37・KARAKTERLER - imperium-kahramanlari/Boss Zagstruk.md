@@ -16,7 +16,7 @@ Zagstruk, roket sırt çantalarıyla gökten inen Stormboyz'un en tanınmış ö
 
 ## Tarihçe
 
-Boss Zagstruk, Ork'un ünlü Stormboy lideridir — 'Vulcha Squad' adlı özel birimiyle bilinen bu figür, rokkit pack'li hava saldırılarının ustasıdır. Disiplinli Stormboy'ların (Ork'ta nadir görülen 'düzenli' birlikler) efendisi olarak 'gökyüzünün Ork'u' olarak kayıtlara geçmiştir.
+Boss Zagstruk, Ork'ların en ünlü ve en vahşi Stormboy lideridir; onların en büyük hava saldırı birliğini yöneten ve İmparatorluğun en zorlu savaşlarını yapan Zagstruk, Ork'ların en vahşi ve en tehlikeli savaşçılarından biridir — onlar, Ork'ların en ünlü ve en vahşi Stormboy'udur. Zagstruk'un en büyük özelliği, onun vahşetidir — onlar, bir Stormboy birliğinin en büyük lideridir ve onların varlığı, Ork'ların en vahşi gücünün kanıtıdır; bir Zagstruk, hem bir savaşçı hem de bir liderdir ve onların savaşı, sadece öldürmek ve fethetmek içindir. Zagstruk'un en ünlü özelliği, onun Stormboy'ların lideridir — onlar, Ork'ların en disiplinli — ama yine de vahşi — birliğinin en büyük komutanıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Boss Zagstruk, Ork'ların en ünlü ve en vahşi Stormboy lideridir — onlar, bir hava saldırısının ve Ork'ların en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Orks*
 

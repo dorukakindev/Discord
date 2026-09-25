@@ -10,6 +10,6 @@ Ork Warboss, bir Ork sürüsünün, klanının ya da tam ölçekli bir WAAAGH!'�
 
 ## Tarihçe
 
-Ork toplumunun en tepesi; en büyük ve en sert Ork. WAAAGH!'ları toplar, klanları birleştirir, savaşı yönetir — Ork medeniyetinin tek yönetim biçimi.
+Ork Warboss, Ork'ların en ünlü ve en vahşi lideridir; onların bir Ork kabilesinin en yüksek rütbeli komutanı olan ve onun en vahşi savaşlarını yöneten Ork Warboss, Ork'ların en vahşi ve en güçlü varlığıdır — onlar, Ork'ların en ünlü ve en vahşi lideridir. Ork Warboss'un en büyük özelliği, onun vahşetidir — onlar, bir Ork kabilesinin en yüksek rütbeli komutanıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Ork Warboss komutası, bir Ork kabilesinin en büyük zaferinin en büyük anıdır ve onların varlığı, Ork'ların en büyük gücünün somut halidir. Ork Warboss'un en ünlü özelliği, onun liderliğidir — onlar, Ork'ların en vahşi ve en güçlü lideridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Ork Warboss, Ork'ların en ünlü ve en vahşi lideridir — onlar, bir liderin ve Ork'ların en büyük gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

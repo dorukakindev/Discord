@@ -38,6 +38,10 @@ Blood Angels genel hatlarıyla Codex'e uygun bir yapı izler; buna Sanguinary Gu
 ## Ardıl Chapter'lar
 Blood Angels soyu geniştir. Second Founding'de doğan **Flesh Tearers**, **Angels Encarmine** ve **Angels Sanguine** en bilinenleri arasındadır. Gabriel Seth'in önderliğindeki Flesh Tearers, kusurun en yıkıcı biçimde görüldüğü ve kendi yok oluşunu kabullenmiş bir Chapter olarak anlatılır. **Blood Drinkers**, lanetlenmiş kaderleriyle tanınan **Lamenters** ve Imperium'dan dışlanan **Knights of Blood** da bu soyun farklı yüzlerini temsil eder.
 
+## Tarihçe
+
+Blood Angels (IX Legion), Sanguinius'un oğullarıdır; asalet, sanat ve ölümsüz trajedi üzerine kurulu ve Horus Heresy'de en büyük kaybı yaşayan Legion'dur — onların savaşı, hem güzellik hem de lanettir. Blood Angels'ın en büyük özelliği, onların ikilemidir — onlar, İmparatorluğun en asil savaşçılarıdır ama içlerinde Red
+
 ## Devastation of Baal ve Great Rift
 M41'in sonunda Hive Fleet Leviathan'ın bir kolu Baal'a yöneldi. Cryptus sistemindeki ilk çatışmaların ardından Dante, Blood Angels'ı ve Sanguinius soyundan gelen Chapter'ları ana dünyanın savunması için topladı. Guy Haley'nin *The Devastation of Baal* romanında anlatılan bu kuşatmada Baal'ın ay dünyaları yıkıma uğradı ve savunma Arx Angelicum'un surlarına dek geriledi. Tam da Chapter'ın sonunun geldiği sanıldığında Great Rift'in açılması ve Roboute Guilliman'ın Indomitus Crusade filosunun Primaris takviyeleriyle gelmesi, dengeyi değiştirdi ve Baal kurtarıldı.
 

@@ -16,8 +16,6 @@ Galaksinin kıyılarında paralı askerlik, yağma ve maceracılıkla yaşayan A
 
 ## Tarihçe
 
-Corsair prensliklerinin çoğu, tek bir liderin çevresinde toplanan kısa ömürlü yapılardır. Iyanden'in Prince Yriel'i, sürgün yıllarında bir korsan filosu yönetip Craftworld'ünü kurtarmak için dönmesiyle en ünlü örnektir.
+Anhrathe, Aeldari ırkının korsan ve sürgün kesimidir; Craftworld'lerin disiplininden ve Path sisteminden kaçan ve kendi yollarını izleyen özgür ruhlu Aeldari'lardır — onlar, Aeldari toplumunun en özgür ve en tehlikeli üyeleridir. Anhrathe'nin en büyük özelliği, onların özgürlüğüdür — onlar, Craftworld'lerin kurallarına uymaz ve kendi korsan filolarında yaşarlar; bir Anhrathe, hem savaşçı hem de korsandır ve onların savaşı, hem yağma hem de özgürlük içindir. Anhrathe'nin İmparatorluk'la ilişkisi karmaşıktır — onlar, hem ticaret yapar hem de yağmalar; bazıları İmparatorluk'la anlaşır, bazıları ise onu yağmalar ve onların varlığı, İmparatorluğun en zorlu diplomasisidir. Anhrathe, Aeldari ırkının en özgür ve en tehlikeli kesimidir — onlar, disiplinin ve özgürlüğün arasındaki çizgiyi temsil ederler.
 
--# Kaynaklar: *Imperial Armour Volume Eleven: The Doom of Mymeara*; *Path of the Outcast — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551810727445004339>, <#1551997822725922938>, <#1551812290439942255>, <#1551997841356881980>
+-# Kaynaklar: *Imperi

@@ -16,6 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Blood_Axes_Icon.png/r
 
 ## Tarihçe
 
-Blood Axe'ler Ork standartlarına göre tehlikeli derecede 'akıllı'dır: kamuflaj giyer, pusuya düşer, rütbeleri tanır, hatta emir-komuta zinciri kurarlar. Diğer klanlar onlara güvenmez ama sonuçları inkâr edemez. Ork savaşının en sinsi yüzü onlardır.
+Blood Axes, Ork ırkının en kurnaz ve en 'insancıllaşmış' klanıdır; onlar, Ork'ların çoğunun aksine taktik, planlama ve hatta insanlarla ticaret yapmayı bilen ve İmparatorluğun en zorlu Ork düşmanlarından biridir — onlar, Ork'ların en akıllısıdır. Blood Axes'ın en büyük özelliği, onların kurnazlığıdır — onlar, sadece güçle değil, planla savaşır; bir Blood Axe, düşmanını önce izler, sonra planlar ve en sonunda saldırır ve onların savaşı, hem vahşet hem de stratejidir. Blood Axes'ın en ünlü özelliği, onların insanlarla ilişkisidir — onlar, bazen Imperial komutanlarla ticaret yapar, bazen onlarla anlaşır ve hatta bazen onlar için savaşır; ama sonunda, onlar her zaman Ork'tur ve onların sadakati, sadece kendi çıkarlarıdır. Blood Axes, Ork ırkının en kurnaz ve en tehlikeli klanıdır — onlar, Ork'ların en akıllısı ve en tehlikelisidir.
 
 -# Kaynaklar: *Codex: Orks*

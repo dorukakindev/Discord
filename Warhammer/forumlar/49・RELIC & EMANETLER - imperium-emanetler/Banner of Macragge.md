@@ -12,6 +12,4 @@ Sancağın kutsallığı, bizzat kökeninden gelir; ca. 798.M30'da, Büyük Haç
 
 ## Tarihçe
 
-Banner of Macragge, Ultramarines'in en eski ve en kutsal sancağıdır; Birinci Kuruluş döneminden beri taşınan bu standart, Chapter'ın her büyük zaferinin ve kaybının tanığıdır. Macragge'in savunulduğu her krizde dalgalanır — içindeki kumaş parçaları binlerce yıllık Ultramar tarihini taşır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Banner of Macragge, Ultramarines'in en ünlü ve en kutsal relic'idir; Macragge'in — Ultramarines'in evi — savunmasında kullanılan ve onun en büyük savaşlarının simgesi olan bir bayraktır — onlar, Ultramarines'in en ünlü ve en kutsal hazinesidir. Banner of Macragge'ın en büyük özelliği, onun onurudur — onlar, bir gezegenin savunmasının en büyük simgesidir ve onların varlığı, Ultramarines'in en büyük onurunun kanıtıdır; bir Banner of Macragge taşıyıcısı, hem bir savaşçı hem de bir onurun taşıyıcısıdır ve onların savaşı, hem fiziksel hem de semboliktir. Banner of Macragge'ın en ünlü özelliği, onun Macragge'in savunmasıdır — onlar, bir gezegenin en büyük direnişinin simgesidir ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır. Banner of Macragge, Ultramarines'in en ünlü ve en

@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/13/Ivixia_Dannica_model.
 
 ## Tarihçe
 
-Ivixia Dannica ('Daemon Avcısı'), daemon avcısı Ordo Malleus'un ünlü Inquisitor'üdür; şu anda Inquisitor Covenant'ın ekibinde görev yapıp galaksinin güney hattını Chaos lekesinden temizliyor. Alena-Mora'daki bir Schola Progenium'dan alındı — babası, Inquisitor Grave'a bağlı alayının subayı Imperial Guard Albay Dannica'ydı. Babasının mirasını sürdüren bu kadın, 'öldürücü inancın' genç yüzüdür.
+Ivixia Dannica, Inquisition'ın en ünlü ve en korkulan Daemonhuntress'idir; Ordo Malleus'un en deneyimli üyesi olan ve Inquisitor Covenant'ın warband'inde çalışan Dannica, İmparatorluğun en gizli ve en tehlikeli avcısıdır — onlar, İmparatorluğun en ünlü ve en korkulan Daemonhuntress'idir. Ivixia Dannica'nın en büyük özelliği, onun avcılığıdır — onlar, daemon'ları avlayan en korkulan Daemonhuntress'tir ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Dannica, hem bir avcı hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Ivixia Dannica'nın en ünlü özelliği, onun Covenant'ın warband'indedir — onlar, İmparatorluğun en gizli operasyonlarının üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Ivixia Dannica, Inquisition'ın en ünlü ve en korkulan Daemonhuntress'idir — onlar, bir avcının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

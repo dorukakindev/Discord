@@ -15,6 +15,4 @@ Psychneuein, Catachan ve diğer ölü dünyaların 'psi-avcı' yaratıklarıdır
 
 ## Tarihçe
 
-Psychneuein, Warp'tan beslenen parazitik xenos varlıklarıdır; psyker'lara dadanır ve onların psişik enerjisini emerler. Hive Mind'a benzer biçimde sürü halinde hareket ederler — psyker'ları avlayıp beyinlerini kurutan, zeki ama grotesk yaratıklardır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Psychneuein, Chaos'un en gizli ve en tehlikeli psişik yaratığıdır; Warp'ta yaşayan ve psyker'ları avlayan en gizli varlık olan Psychneuein, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli psişik yaratığıdır. Psychneuein'in en büyük özelliği, onun psişik avcılığıdır — onlar, psyker'ları

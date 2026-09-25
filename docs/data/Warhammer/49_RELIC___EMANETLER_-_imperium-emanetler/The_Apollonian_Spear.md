@@ -12,6 +12,4 @@ Spear'ın tarihi, Terra Kuşatması'na ve İmparator'un yanında savaşan Custod
 
 ## Tarihçe
 
-Fulgrim'in gençlik döneminin efsanevi mızrağı; Emperor's Children'ın mükemmellik hayalinin simgesi. Düşüş öncesi güzelliğin kalıntısı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Apollonian Spear, İmparatorluğun en ünlü ve en kutsal Space Marine relic'idir; Raven Guard'ın Chapter Master'ının kullandığı ve onun en büyük savaşlarının simgesi olan bir mızraktır — onlar, İmparatorluğun en ünlü ve en kutsal relic'idir. The Apollonian Spear'ın en büyük özelliği, onun gücüdür — onlar, bir Space Marine'in en güçlü silahıdır ve onların varlığı, Raven Guard'ın en büyük gücünün kanıtıdır; bir Apollonian Spear kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların sava

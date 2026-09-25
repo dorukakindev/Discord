@@ -12,6 +12,6 @@ Black Ship'ler, "Tithe" (öşür) sisteminin bir parçası olarak çalışır; h
 
 ## Tarihçe
 
-Psyker toplayan gemiler; her dünyadan psişik çocukları Terra'ya taşıyan sessiz filo. İmparatorluk'un en korkulan gemileri — bir ailenin en kötü günü.
+Black Ships, Adeptus Astra Telepathica'nın psyker toplama filosudur; her yıl İmparatorluğun tüm dünyalarını ziyaret eden ve psyker'ları Terra'ya taşıyan devasa ve korkulan gemilerdir. Black Ships'in görevi Imperial Tithe'ın en kutsal parçasıdır — psyker'ları toplar, onları stasis hücrelerinde tutar ve Terra'ya götürür; orada ya Sanctioned Psyker olarak eğitilirler ya da Golden Throne'a feda edilirler. Black Ships'in yolculuğu dehşet vericidir — geminin içinde binlerce psyker vardır ve onların toplu çığlığı, kabusları ve delirme krizleri gemiyi canlı bir cehenneme çevirir; Sisters of Silence bu yüzden Black Ships'te görev yapar — onların psişik boşluğu, toplu deliliği bastırır. Bir dünya Black Ships'i gördüğünde ya şans ya da felaket demektir — psyker'ların alınması, ailelerin parçalanması ve bilinmeyen bir kaderin başlangıcıdır; ama Black Ships olmadan İmparatorluk, psyker tehdidi altında çöker.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

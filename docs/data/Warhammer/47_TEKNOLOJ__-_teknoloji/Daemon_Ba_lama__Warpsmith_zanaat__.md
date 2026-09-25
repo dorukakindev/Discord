@@ -16,8 +16,4 @@ Bir daemon'u silaha, zırha ya da savaş makinesine hapsedip onun gücünü kull
 
 ## Tarihçe
 
-Warpsmith'ler warband'lerinin daemon engine'lerini yaratır, onarır ve dizginler. Bu iş bir mühendislik becerisi olduğu kadar bir irade sınavıdır; bağlanan varlık hiçbir zaman gönüllü değildir. Daemon weapon'lar da aynı ilkenin, bir daemon'un tek bir silaha kapatılmasının ürünüdür.
-
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551650329156788287>, <#1551654107058540595>, <#1551812225570836561>, <#1551809666454134928>
+Daemon bağlama, Warpsmith'lerin ve Dark Mechanicus'un bir demonu fiziksel bir kaba — makineye, silaha veya zırha — mühürleme sanatıdır; Hellbrute, Defiler ve Daemon Engine'lerin üretiminin temelidir. Süreçte demon Warp'tan çağrılır, genelde eski bir araç ya da ölü bir savaşçının bedeni içine sürülür ve Runes of Binding ile oraya zincirlenir; demonun iradesi kırılır ama yok edilmez — bu yüzden her Daemon Engine kendi zindanında çırpınan, öfkeli bir varlıktır. Warpsmith için bu hem teknoloji hem de ritüeldir: makine kısmı mühendislik, demon kısmı pazarlık veya fetih işidir ve yanlış yapılan bağ, Warpsmith'in kendi bedeninin demon tarafından alınmasıyla sonuçlanabilir. Bağlanmış demon silahın gücünü katlar ama dengesizdir — açlık çeker, ruh ister ve bağ zayıflarsa zincirl

@@ -16,8 +16,4 @@ Great Crusade'in öncüsü iken Heresy'nin kalbi olan Legion. Horus'un ölümün
 
 ## Tarihçe
 
-Davin'de yaralanan Horus'un Chaos'a düşmesiyle Legion, Istvaan III'ten Siege of Terra'ya uzanan isyanın merkezinde yer aldı. Horus'un Emperor'un elinde ölmesinin ardından Eye of Terror'a çekilen Sons of Horus, iç savaşlarla parçalandı. Abaddon, Legion'ın kalıntılarını Black Legion adıyla yeniden örgütleyerek Black Crusades'i başlattı; 999.M41'de Cadia'nın düşüşü bu seferlerin en ağır sonucudur.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *The Talon of Horus — Aaron Dembski-Bowden*; *Codex: Chaos Space Marines*
-
--# İlişkili kayıtlar: <#1551809114328399874>, <#1551811342405599345>, <#1551650246508150857>, <#1551638958352506881>
+Black Legion (eski adıyla Luna Wolves ve Sons of Horus), Horus Lupercal'ın Legion'udur ve İmparatorluğun en büyük ihanetinin simgesidir; Horus Heresy'nin başını çeken ve sonunda İmparatorluğu neredeyse yok eden bu Legion, şimdi Abaddon'un komutasında Chaos'un en organize ve en tehlikeli gücüdür. Luna Wolves, Horus'un ilk ve en sadık Legion'uydu — Büyük Haçlı Seferi'nin en parlak savaşçılarıydı ve onların zaferleri, İmparatorluğun en büyük sayfalarını yazdı; ama Horus'un düşüşü, Legion'un da düşüşü oldu ve Sons of Horus, ihanetin merkezi oldu. Black Legion, Abaddon'un mirasıdır — Horus'un ölümünden sonra Abaddon, Legion'u yeniden inşa etti ve onu Chaos'un en disiplinli gücü yaptı; Black Legion, artık Horus'un değil, Abaddon'un ordusud

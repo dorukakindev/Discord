@@ -16,8 +16,4 @@ Space Marine Legion'larının neredeyse yarısını, Imperial Army'nin, Mechanic
 
 ## Tarihçe
 
-Isstvan III'teki ayıklama, Isstvan V'teki Drop Site Massacre, Calth baskını ve Prospero'nun yakılması Legion'ları geri dönüşü olmayan biçimde böldü. Savaş Siege of Terra ile doruğa ulaştı.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *Horus Heresy Book One: Betrayal*
-
--# İlişkili kayıtlar: <#1551814951365115956>, <#1551809039342501970>, <#1551650246508150857>, <#1551818097504157699>
+Horus Heresy, İmparatorluğun en büyük ve en trajik iç savaşıdır; Horus'un — İmparator'un en sevgili oğlu — Chaos'a düşmesi ve İmparatorluğa ihanet etmesiyle başlayan ve sonunda İmparatorluğu neredeyse yok eden bir savaştır — onlar, İmparatorluğun en büyük trajedisinin ve en büyük dersinin somut halidir. Horus Heresy'nin en büyük özelliği, onun ihanetidir — onlar, bir oğlun babasına ihanetinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Horus Heresy, bir imparatorluğun en büyük yarasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Horus Heresy'nin en ünlü özelliği, onun Terra Kuşatması'dır — onlar, Horus'un Terra'ya saldırısının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük sa

@@ -16,8 +16,4 @@ Chosen, bir warband lordunun çevresinde toplanan, çoğu zaman Heresy çağınd
 
 ## Tarihçe
 
-Eye of Terror'daki savaşlar, Legion'ların çözülüşü ve warband'lerin doğuşu, eski Legion hiyerarşisinin yerine güce ve lütfa dayalı yeni bir düzen getirdi. Bu düzende Chosen, lordun en güvendiği ama aynı zamanda ona en yakın rakip adaylarıdır. Black Legion gibi büyük yapılarda Chosen, Abaddon'ın seferlerinin çekirdek saldırı kuvvetleri arasında yer alır.
-
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Black Legion — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551812225570836561>, <#1551811342405599345>, <#1551816158951510069>, <#1551811393680838699>
+Chosen, Chaos Space Marine warband'inin en güçlü ve en yozlaşmış savaşçılarıdır; normal bir Chaos Marine'den daha fazla mutasyon, daha fazla güç ve daha fazla Chaos tanrısının lütfu taşırlar ve warband'in liderliğine en yakın olanlardır. Chosen'lar, Chaos'un gözdesidir — Khorne'un kanlı favorisi, Nurgle'un dayanıklı vebası, Tzeentch'in büyülü manipülatörü veya Slaanesh'in aşırı zevkçi; her biri kendi tanrısının somut halidir. Görevleri warband'in en zorlu operasyonlarıdır — düşman komutanını öldürmek, kale kapısını kırmak veya Chaos ritüelinin merkezini tutmak; Chosen'lar, bir Chaos Lord'un sağ koludur ve onların sadakati, tanrılarının lütfu kadar değişkendir. Chosen olmak, bir Chaos Marine'in en yüksek hedefidir — ama aynı zamanda en büyük risktir, çünkü C

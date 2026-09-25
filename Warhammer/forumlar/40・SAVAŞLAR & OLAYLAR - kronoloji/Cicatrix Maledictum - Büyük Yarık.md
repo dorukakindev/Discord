@@ -5,6 +5,6 @@ Cadian pylonların çöküşü, Warp'ta yüzyıllardır birikmiş enerjiyi bir a
 
 ## Tarihçe
 
-Cadia'nın düşüşüyle açılan dev Warp yarığı; İmparatorluk'u ikiye böldü. Imperium Nihilus karanlıkta kaldı — çağımızın tanımlayıcı felaketi.
+Cicatrix Maledictum (Büyük Yarık), İmparatorluğun en büyük ve en yıkıcı felaketidir; Cadia'nın düşüşüyle açılan ve galaksiyi ikiye bölen devasa bir Warp fırtınasıdır — onlar, İmparatorluğun en büyük felaketinin ve en büyük değişiminin somut halidir. Büyük Yarık'ın en büyük özelliği, onun boyutudur — onlar, galaksiyi ikiye böler ve onların varlığı, İmparatorluğun en büyük felaketinin kanıtıdır; bir Büyük Yarık, bir galaksinin yarısının karanlıkta kalmasıdır ve onların varlığı, İmparatorluğun en büyük yenilgisinin somut halidir. Büyük Yarık'ın en ünlü özelliği, onun sonuçlarıdır — onlar, Imperium Nihilus'u — karanlık yarımı — yarattılar ve onların varlığı, İmparatorluğun en büyük değişiminin kanıtıdır. Büyük Yarık, İmparatorluğun en büyük ve en yıkıcı felaketidir — onlar, İmparatorluğun en büyük yenilgisinin ve en büyük değişiminin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

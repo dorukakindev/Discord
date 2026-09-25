@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/be/Xavier_mendoza.jpg/re
 
 ## Tarihçe
 
-Xavier Mendoza, İmparatorluk tarihinin en rezil Inquisitor'lerinden biri olabilir — fanatik bir adam olarak 'Chaos'u bulduğuna inandığı her yerde ezip geçti ve sonunda Adeptus Astartes içinde var olmayan bir çürümeyi ortadan kaldırmaya çalıştı. Bu hata hayatına mal oldu: 31. Binyıl'ın sonlarında aktif olan bu figür, 'kendi adamını avlayan Inquisitor' olarak Space Marines'le çatışan en kötü örneklerden biridir.
+Xavier Mendoza, Inquisition'ın en gizli ve en tartışmalı üyesidir; İmparatorluğun en ünlü Inquisitor'larından biri olan ve en tartışmalı yöntemleri kullanan Mendoza, İmparatorluğun en gizli ve en tartışmalı varlığıdır — onlar, Inquisition'ın en gizli ve en tartışmalı üyesidir. Xavier Mendoza'nın en büyük özelliği, onun radikalliğidir — onlar, İmparatorluğun en tartışmalı Inquisitor'üdür ve onların varlığı, Inquisition'ın en büyük çelişkisinin kanıtıdır; bir Mendoza, hem bir Inquisitor hem de bir radikaldir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Xavier Mendoza'nın en ünlü özelliği, onun tartışmalılığıdır — onlar, İmparatorluğun en gizli ve en tartışmalı yöntemlerini kullanan en ünlü Inquisitor'dur ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Xavier Mendoza, Inquisition'ın en gizli ve en tartışmalı üyesidir — onlar, bir radikalin ve İmparatorluğun en büyük çelişkisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

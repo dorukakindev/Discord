@@ -10,6 +10,10 @@ Seferin Imperial tarih yazımındaki yeri, kazanılan topraklardan çok onu yön
 
 Bu parlak imgenin öbür yüzü ise karanlıktır. Sefer tek bir iradenin üzerine kurulmuştu; o irade ortadan kalkınca, kazanılan dünyaların Imperium'a ne kadar gevşek bağlandığı açığa çıktı. Macharian Crusade'in tarihi, bu yüzden bir zaferin ve onun kırılganlığının birlikte hikâyesidir.
 
+## Tarihçe
+
+Macharian Crusade, İmparatorluğun en büyük ve en onurlu seferidir; Lord Solar Macharius'un — İmparatorluğun en büyük generali — İmparatorluğun en büyük fetih hareketini başlattığı ve onun ölümüyle sonuçlanan en büyük savaştır — onlar, İmparatorluğun en büyük zaferinin ve en büyük kaybının somut halidir. Macharian Crusade'in e
+
 ## Seferin Seyri ve Durduğu Sınır
 Macharius'un orduları yedi yıl boyunca bilinen galaksinin kıyısına doğru durmaksızın ilerledi. Kaynaklar bu ilerleyişi bir dizi hızlı fetih olarak anlatır: isyankâr dünyaların yeniden boyun eğdirilmesi, Imperium'dan kopmuş insan kolonilerinin geri alınması ve xenos ile Chaos güçlerine karşı verilen savaşlar. Tek tek muharebelerin ayrıntılı dökümü Codex'lerin tarihçe bölümlerinde verilmez; romanlar ise seferin yalnızca belirli dönemeçlerine odaklanır.
 

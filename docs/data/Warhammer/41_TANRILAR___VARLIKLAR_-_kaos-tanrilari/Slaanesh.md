@@ -15,12 +15,10 @@ Dark Prince ve Lord of Excess unvanlarıyla anılan Slaanesh; haz, aşırılık,
 
 ## Tarihçe
 
-Doğuşunun çığlığı Aeldari'nin çekirdek dünyalarını yuttu ve Eye of Terror'ı açtı; aynı felaket, Age of Strife'ın Warp fırtınalarını dindirerek Great Crusade'in önünü açtı. Slaanesh Aeldari panteonunun büyük bölümünü yuttu. Heresy'de Laer'de ele geçirilen daemonik kılıçla başlayan süreç Fulgrim'i ve Emperor's Children'ı ona bağladı.
+Slaanesh, Chaos'un en gizli ve en ayartıcı tanrısıdır; zevk, acı ve aşırılığın tanrısı olan ve onun en gizli operasyonlarını yöneten Slaanesh, Chaos'un en gizli ve en ayartıcı gücüdür — onlar, Chaos'un en gizli ve en ayartıcı tanrısıdır. Slaanesh'in en büyük özelliği, onun ayartıcılığıdır — onlar, zevk ve acının tanrısıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Slaanesh takipçisi, hem bir savaşçı hem de bir aşırılıkçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Slaanesh'in en ünlü özelliği, onun Aeldari'nin yaratmasıdır — onlar, Aeldari'nin aşırılığından doğan ve onları yiyen en korkulan tanrıdır ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Slaanesh, Chaos'un en gizli ve en ayartıcı tanrısıdır — onlar, bir ayartıcının ve Chaos'un en büyük tehdidinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Kutsal sayısı altıdır. Diyarının, tanrının sarayını çevreleyen altı daireden oluştuğu anlatılır. Doğal hasmı Khorne'dur. Cinsiyeti kaynaklarda sabit değildir. Aeldari ruhlarına özel bir iştah duyar.
-
--# Kaynaklar: *Codex: Emperor's Children*; *Fulgrim — Graham McNeill*; *Realm of Chaos: Slaves to Darkness*; *Codex: Chaos Daemons*
+Kutsal sayısı altıdır. Diyarının, t
 
 -# İlişkili kayıtlar: <#1551754688008032321>, <#1551814105046851615>, <#1551813750305198101>, <#1551650243865477191>, <#1551813775848509482>

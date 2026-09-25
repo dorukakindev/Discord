@@ -14,7 +14,7 @@ Isha, ölümlü çocuklarına duyduğu sevgi yüzünden panteonun en trajik fig�
 
 ## Tarihçe
 
-Asuryan'ın buyruğuna rağmen Kurnous'la birlikte Vaul'un taşları aracılığıyla çocuklarıyla gizlice konuştu; bunun cezası olarak Khaine'e teslim edildi ve Vaul'un pazarlığıyla kurtarıldı. Bir craftworld geleneğine göre Fall sırasında Slaanesh'in pençesinden onu Nurgle kurtardı; fakat bu kurtuluş başka bir tutsaklığa dönüştü.
+Isha, Aeldari'nin en ünlü ve en kutsal tanrısıdır; doğurganlık ve yaşamın tanrısı olan ve Aeldari'nin en kutsal figürü olan Isha, Aeldari'nin en kutsal ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en kutsal tanrısıdır. Isha'nın en büyük özelliği, onun kutsallığıdır — onlar, doğurganlık ve yaşamın tanrısıdır ve onların varlığı, Aeldari'nin en büyük kutsallığının kanıtıdır; bir Isha takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Isha'nın en ünlü özelliği, onun Nurgle'un esiri olmasıdır — onlar, Nurgle'un elinde esir olan ve onun 'sevgi'sini taşıyan en trajik tanrıdır ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Isha, Aeldari'nin en ünlü ve en kutsal tanrısıdır — onlar, bir kutsallığın ve Aeldari'nin en büyük trajedisinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -22,8 +22,4 @@ Etki alanı bereket, şifa ve annelik sevgisidir. Nurgle'ın malikânesinde, onu
 
 ## Kanon Notu
 
-Spirit stone'ların kökeni kimi metinde Isha'nın gözyaşlarına, kimi metinde Vaul'un zanaatına bağlanır. Nurgle'daki tutsaklık bir craftworld inancı olarak aktarılır.
-
--# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Codex: Eldar — 6th Edition*; *Codex: Chaos Daemons*
-
--# İlişkili kayıtlar: <#1551810744754905123>, <#1551754683222327439>, <#1551812290439942255>, <#1551655323658494093>
+Spirit s

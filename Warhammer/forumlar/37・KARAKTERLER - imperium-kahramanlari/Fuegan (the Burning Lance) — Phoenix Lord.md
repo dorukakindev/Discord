@@ -16,8 +16,8 @@ Fire Dragons'ın Phoenix Lord'u; yıkımın ve kararlılığın ateşini temsil 
 
 ## Tarihçe
 
-Fuegan — 'Yanan Mızrak' — Craftworld Aeldari Phoenix Lord'dur ve Fire Dragons Aspect Warriors'ının kurucusudur; etrafındaki hava çatırdar, düşmanları dokunuşunda kabarcıklanıp kömürleşir. 'Yok oluşun tüketen ateşi'yle beslenen bu figür, kıyametin kendisini bedenler — Fall'da kaybettiği öğrencilerin yasını hâlâ taşıyan 'yaslı ateş' olarak son günlerde her zamankinden tehlikelidir.
+Fuegan (the Burning Lance), Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur; Fire Dragons Aspect'inin kurucusu olan Fuegan, Aeldari'nin en güçlü savaşçı geleneğinin ve onların en ölümlü ateş gücünün simgesidir — onlar, Aeldari'nin en ünlü ve en ölümcül savaşçısıdır. Fuegan'ın en büyük özelliği, onun gücüdür — onlar, Fire Dragons'ın kurucusu ve en güçlü üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Fuegan, hem bir savaşçı hem de bir efsanedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Fuegan'ın en ünlü özelliği, onun 'Yanan Mızrak' lakabıdır — onlar, ateşin en büyük ustasıdır ve onların varlığı, Aeldari'nin savaş sanatının en yüksek noktasının kanıtıdır. Fuegan, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur — onlar, ateşin gücünün ve Aeldari'nin savaş sanatının somut halidir.
 
 -# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
 
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551810744754905123>, <#1551814105046851615>, <#1551810506078290021>
+-# İlişkili kayıtlar: <#1551

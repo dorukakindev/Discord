@@ -10,6 +10,6 @@ Kriz, 925.M41'de Ryza sistemine bir yıkım seli halinde inen WAAAGH! Grax ile b
 
 ## Tarihçe
 
-Ryza'nın Savunması (Siege of Ryza), İmparatorluk'un Forge World Ryza'yı Ork WAAAGH!'ından koruduğu büyük savaş; 'çelik gezegenin' efsanevi direnişi — Titan ve İmparatorluk fışkının zirvesi.
+Ryza Savunması, Imperialis'in en önemli Forge World'lerinden birini Ork istilasından korumak için yürütülen büyük bir seferdi. Ryza, Imperialis'in en değerli silah ve zırh üretim merkezlerinden biri olduğu için gezegeni korumak Imperialis için hayati öneme sahipti. Savunma, Adeptus Mechanicus'un kendi kuvvetleriyle birlikte Imperial Guard ve Space Marine desteğini bir araya getirdiği büyük bir operasyondu. Uzun ve kanlı savaşların ardından Ryza, Ork saldırısından korunmayı başardı; bu zafer, Adeptus Mechanicus'un ve Imperialis'in en kritik Forge World'lerinden birinin devam eden üretimini sağladı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

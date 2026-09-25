@@ -12,6 +12,4 @@ Warp Drive'ın tehlikesi, Warp'ın kendisidir: girdaplar, daemon'lar ve 'zaman k
 
 ## Tarihçe
 
-Uzay gemilerinin Warp'a girme motoru; İmparatorluk'un ayakta kalmasını sağlayan eski teknoloji. Kırılgan ve tehlikeli — ama biricik.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Warp Drive, insan gemilerinin gerçek uzay ile Immaterium arasında geçiş yapmasını sağlayan ışıktan hızlı sürüş sistemidir; teknolojisi İhtilaf Çağı'nda, yaklaşık M18 civarında geliştirildi. Sistem, gemiyi çevreleyen gerçeklik duvarını yırtarak onu Warp'a sokar; orada fizik kuralları işlemediği için bir Warp yolculuğu, gerçek uzayda yüzyıllar sürecek mesafeleri günler veya haftalar içinde kat ettirebilir. Ancak Warp'ta yön duygusu yoktur; gemiler Navigator'ların Astronomicon'u referans alarak yaptığı hesaplamalarla rota tutar ve Gellar Alanı olmadan Warp'a giren gemi, içindeki herkesle birlikte demonlara yem olur. Warp sürü

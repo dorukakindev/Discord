@@ -16,8 +16,4 @@ Kin nüfusunun klonlama yoluyla yetiştirildiği biyoteknoloji geleneğidir. Bel
 
 ## Tarihçe
 
-Kin'in kısa, iri ve olağanüstü dayanıklı bedeni, binlerce yıllık yalıtımın ve düşmanca çevrenin olduğu kadar bu teknolojinin de ürünüdür. Hearthkyn savaşçıları Hold'ların halkından, cinsiyet ve meslek ayrımı gözetmeden çıkar; resmî tanıtımlarda "klon savaşçılar" olarak anılır.
-
--# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votann — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551813334993739777>
+Kin (Leagues of Votann), insanlığın Dark Age of Technology'den kalma bir kolonist kolonisinin torunlarıdır ve üremelerini klonlama teknolojisine — cloneskein'ler — dayandırmışlardır. Cloneskein, belirli özellikleri önceden programlanmış klon bankalarından üretilen Kin'dir; her cloneskein belirli bir işleve — savaşçı, mühendis, pilot — göre tasarlanır ve doğal Kin doğumlarından farklı genetik hatlara sahiptir. Bu sistem Votann'ların çekirdek dünyalarının sert koşullarında hayatta kalmanın anahtarıydı; nüfus kontrolü ve uzmanlık, klon bankaları üzerinden yönetildi. Ancak cloneskein'ler de tam Kin'dir — aynı ruh, aynı kişilik, aynı haklar; Leagues'da klon-soylu olmak damgalanma değil, normaldir. Votann (Ancestor Core) klon bankalarını ve genetik kayıtları yöneten devasa cognitif çekirdektir; on binlerce yıllık Kin deneyimini saklar ve her clo

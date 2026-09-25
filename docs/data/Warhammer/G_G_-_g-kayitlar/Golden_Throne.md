@@ -19,6 +19,10 @@ Magnus the Red'in yasak büyüyle Palace'ın psişik korumalarını parçalamas�
 
 Siege of Terra sırasında Emperor, Warp'taki savaşını yürütmek ve sonunda Horus'la yüzleşmek için Throne'dan ayrıldığında, yükü **Malcador the Sigillite** devraldı. Siege of Terra serisi, Imperial Regent'in bu yük altında tükenerek öldüğünü anlatır. Vengeful Spirit'teki düellodan ölümcül yaralarla dönen Emperor ise yeniden Throne'a bağlandı. O günden beri kalkmadı.
 
+## Tarihçe
+
+Altın Taht, Terra'nın derinliklerinde, İmparatorluk Sarayı'nın kalbinde duran devasa bir psionik-teknolojik düzenektir; hem İmparator'un yaşayan bedenini ölümün eşiğinde tutan yaşam destek ünitesi hem de Astronomicon'un odak noktasıdır. Kökeni İhtilaf Çağı'na dayanan bu makine, Horus Heresy'nin sonunda Terra Kuşatması'nda ağır yaralanan İmparator'un içine yerleştirilmesiyle bugünkü işlevini kazandı. Taht, İmparator'un zihnini bedenine bağlı tutar; onun psişik iradesi sayesinde Astronomicon yanar ve insan gemile
+
 ## İşleyiş ve Bedel
 Throne'un üç işlevi birbirinden ayrılamaz: Emperor'ın bedenini yaşam ile ölüm arasındaki bir eşikte tutmak, Palace'ın altındaki gediği mühürlemek ve Astronomican'ı besleyen psişik iradeyi sürdürmek. Bu işlevlerin tam olarak nasıl yerine getirildiği kaynaklarda açıklanmaz; makine bir teknoloji eseri olduğu kadar bir psişik düzenektir ve Imperium'un bilgisi onu çözmeye yetmez.
 

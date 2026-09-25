@@ -16,8 +16,4 @@ Fire Caste savaşçısını hareketli bir ağır ateş platformuna dönüştüre
 
 ## Tarihçe
 
-En tanınmış sınıflar arasında çok yönlü **Crisis**, uzun menzilli destek sağlayan **Broadside** ve gizlenme alanlarıyla sızma yapan **Stealth** battlesuit'leri sayılır; Riptide ve Stormsurge gibi daha ağır sınıflar bu mühendisliğin büyüyen ölçeğini gösterir. T'au komutanları çoğunlukla Crisis sınıfı zırhlarla savaşır; Commander Farsight'ın kişisel battlesuit'i bunun en ünlü örneklerindendir.
-
--# Kaynaklar: *Codex: T'au Empire*; *Farsight: Crisis of Faith — Phil Kelly*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>, <#1551813361887617108>
+Battlesuit, T'au savaş doktrininin bel kemiğidir; içine bir pilotun oturduğu, zırh ve silah sistemlerini birleştiren platformlardır ve Crisis, Broadside, Commander, Ghostkeel, Stormsurge gibi varyantları vardır. Crisis Battlesuit en yaygın olanıdır — üç silah hardpoint'i, jetpack ve orta düzey zırh taşır; bir Crisis takımı tek başına bir Imperial tank mangasına bedeldir. Broadside ağır ateş platformu, Ghostkeel gizlilik birimi, Stormsurge ise yürüyen topçu kalesidir; hepsi modular sistemlerle donanır ve pilot tercihine göre silah yükleri değişir. Battlesuit teknolojisi T'au'nun en büyük avantajıdır — bir Space Marine kadar güçlü ama üretimi hızlı, pilot eğitimi kısa ve kayıpları telafisi kolaydır. İmparatorluk'un

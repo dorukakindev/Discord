@@ -16,8 +16,4 @@ Bir Asuryani'nin hayatını, her biri yıllar hatta yüzyıllar süren ardışı
 
 ## Tarihçe
 
-Craftworld'ler Fall'dan kaçarken toplumlarını bu disiplinin üzerine kurdu. Savaşçı, seer, sanatçı ya da zanaatkâr yolları arasında geçiş yapan Asuryani, ölünce ruhunu spirit stone aracılığıyla infinity circuit'e emanet eder. Path'in sıkılığına dayanamayanlar Path of the Outcast'e sapar; Alaitoc'un Ranger'ları bunun en bilinen örneğidir.
-
--# Kaynaklar: *Path of the Seer — Gav Thorpe*; *Path of the Warrior — Gav Thorpe*; *Codex: Aeldari — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551810506078290021>, <#1551814105046851615>, <#1551754688008032321>
+Path (Asuryani yaşam disiplini), Aeldari ırkının en önemli ve en geleneksel yaşam disiplinidir; onların bir yol — bir disiplin, bir yaşam tarzı — seçip onu tamamen öğrenmelerini savunan bir inançtır — onlar, Aeldari'nin en önemli ve en geleneksel geleneğidir. Path'in en büyük özelliği, onun disiplinidir — onlar, bir yol seçer ve onu tamamen öğrenir; bir Asuryani, hem bir savaşçı hem de bir sanatçıdır ve onların yaşamı, bir disiplinin ve bir yolun sürekli arayışıdır. Path'in en ünlü özelliği, onun Aspect Warrior'larıdır — onlar, savaşın bir yolunu seçen ve onu tamamen öğrenen savaşçılardır ve onların varlığı, Aeldari'nin en disiplinli gücünün kanıtıdır. Path, Aeldari ırkının en

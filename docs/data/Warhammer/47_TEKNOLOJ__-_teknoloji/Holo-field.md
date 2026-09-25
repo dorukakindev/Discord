@@ -16,8 +16,8 @@ Bir aracın ya da savaşçının görüntüsünü ışık ve renk parçacıklar�
 
 ## Tarihçe
 
-Asuryani'nin Falcon ve Fire Prism gibi grav-tankları ile Aeldari Titan'ları holo-field'larla anılır. Harlequin'lerin **domino field** adı verilen holo-kıyafetleri ise aynı anlayışı tek bir savaşçıya taşır; taşıyıcının hareketi renk parçacıklarına bölünerek gerçeküstü bir görünüm kazanır.
+Holo-field, Aeldari ve Drukhari'nin kullandığı optik yanılsama sistemidir; taşıyıcısının görüntüsünü çok sayıda sahte silüete bölerek gerçek konumunu gizler. Harlequin'lerin en bilinen savunmasıdır — bir Harlequin dans ederken etrafında onlarca hayalet figür belirir ve düşman hangisine ateş edeceğini bilemez. Teknoloji Craftworld Aeldari'nin Wraithbone teknolojisiyle üretilir ve Drukhari'nin de kullandığı nadir ortak miraslardandır. Holo-field sadece görünmezlik değildir — aktif olarak ışığı büker ve taşıyıcısını hem termal hem görsel spektrumda bulanıklaştırır; bu yüzden Harlequin veya Void Dreamer avcılığı İmparatorluk için neredeyse imkânsızdır. Titan ve Knight seviyesinde de uygulanır — Aeldari Phantom Titan'ları holo-field ile savaşa girer ve İmparatorluk kamera kayıtlarında bile onları takip edemez.
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551812290439942255>, <#1552483150322737262>, <#1551997822725922938>
+-# İlişkili kayıtlar: <#15518122

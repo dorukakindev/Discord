@@ -16,6 +16,5 @@ Tarikatın yapısı, ruhsuzluğun gerektirdiği ağır disipline dayanır; aday 
 - Görev: Black Ships'in koruyucuları, psyker toplama ve imhası
 
 ## Tarihçe
-Great Crusade'in 'sessiz kadınları' olarak bilinirdi; Horus Heresy sonrası dağılmış sayılsa da Indomitus Crusade döneminde yeniden örgütlendi.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Sisters of Silence, İmparatorluğun en ünlü ve en gizli ordusudur; blank'lerden — psişik enerjiyi yok eden mutant'lardan — oluşan ve İmparatorluğun en gizli operasyonlarını yapan en gizli ordu olan Sisters of Silence, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en ünlü ve en gizli ordusudur. Sisters of Silence'ın en büyük özelliği, onların blank'lığıdır — onlar, psişik enerjiyi yok eden mutant'ların ordusudur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Sisters of Silence birliği, hem bir ordu hem de bir gizli güçtür ve onların varlığı, İm

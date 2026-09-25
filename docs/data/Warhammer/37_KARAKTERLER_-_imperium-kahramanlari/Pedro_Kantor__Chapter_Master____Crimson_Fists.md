@@ -15,12 +15,4 @@ Adı, bir Chapter'ın neredeyse yok oluşundan sağ çıkan inatla özdeşleşmi
 
 ## Tarihçe
 
-Pedro Kantor — 'Lord Helblade' — Crimson Fists'in 29. ve mevcut Chapter Master'ıdır; 900.M41'den beri yaklaşık bir yüzyıldır yönetir. Rynn's World'ün Ork istilasında chapter'ının neredeyse yok oluşundan onu kurtarıp yeniden inşa eden figür olarak 'kalan son yumruk' efsanesidir.
-
-## Kanon Notu
-
-Rynn's World savaşının ayrıntıları eski Codex zaman çizelgeleri ile Steve Parker'ın romanında farklı genişlikte işlenir; kayıp oranları için kesin sayı verilmez.
-
--# Kaynaklar: *Rynn's World — Steve Parker*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: <#1551636479925559479>, <#1551650286559559741>, <#1551759766966116383>, <#1551808888666587197>
+Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluğun en cesur ve en kararlı komutanlarından biridir; onların Chapter'ı Ork Waaagh!'ı tarafından neredeyse yok edildikten sonra onu yeniden kuran ve İmparatorluğun en dirençli savaşçılarından biri olan Kantor, İmparatorluğun en büyük direnişinin simgesidir — onlar, Crimson Fists'in en ünlü ve en onurlu lideridir. Pedro Kantor'un en büyük özelliği, onun direnişidir — onlar, Chapter'ının neredeyse yok edilmesinden sonra onu yeniden kurdu ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır; bir Pedro Kantor komutası, bir Chapter'ın yeniden doğuşunun en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Pedro Kantor'un en ünlü görevi, Crimson Fists'in Rynn's World'ündeki savunmasıdır — onlar, Ork'ların en büyük saldırısına direnen ve Chapter'ını kurtaran komutanlardır ve onların varlığı, İmparatorluğun en büyük zaferinin kanıtıdır. Pedro

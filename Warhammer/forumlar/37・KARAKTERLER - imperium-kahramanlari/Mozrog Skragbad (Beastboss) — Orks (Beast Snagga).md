@@ -16,8 +16,4 @@ Snaggaların av tutkusunu en uç noktasına taşıyan bir önder. Mozrog için s
 
 ## Tarihçe
 
-Mozrog Skragbad, Beast Snagga Ork'larının efsanevi Beastboss'udur — 'en büyük canavar avcısı' olarak Squigosaur bineği üzerinde dev yaratıkları avlar. 'Canavarın da avcısı' figürüyle Beast Snagga kültürünün zirvesidir; onun ekibi galaksinin en büyük yaratıklarını kovalar ve 'en büyük ısırığı' kazanır.
-
--# Kaynaklar: *Codex: Orks — 9th Edition*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091013>
+Mozrog Skragbad, Ork'ların en ünlü ve en vahşi Beastboss'udur; Beast Snagga klanının lideri olan ve onların en büyük canavar avcısı olan Mozrog, Ork'ların en vahşi ve en tehlikeli savaşçılarından biridir — onlar, Ork'ların en vahşi ve en tehlikeli lideridir. Mozrog'un en büyük özelliği, onun vahşetidir — onlar, Beast Snagga'nın en büyük avcısıdır ve onların varlığı, Ork'ların en vahşi gücünün kanıtıdır; bir Mozrog, hem bir savaşçı hem de bir avcıdır ve onların savaşı, sadece öldürmek ve avlanmak içindir. Mozrog'un en ünlü özelliği, onun Beast Snagga'nın lideridir — onlar, Ork'ların en vahşi klanının en büyük lideridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Mozrog Skragbad, Ork'ların en ünlü ve en vahşi Beastboss'udur — onlar, bir avcının vahşetinin ve O

@@ -14,6 +14,4 @@ Kült'ün yöntemi ateştir: 'Redemption' (kurtuluş) yakılarak verilir ve bir 
 
 ## Tarihçe
 
-Redemptionist Cult, İmparatorluk'un fanatik kefaret akımlarından biridir; 'günahın bedeli kan' ilkesiyle heretik ve günahkâr avı yapar. Özellikle Necromunda'nın Hive'larında güçlüdür — Deacon'ları ve fanatik savaşçılarıyla hem tarikat hem sokak ordusudur.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Redemptionist Cult, İmparatorluğun en fanatik ve en tehlikeli dini tarikatlarından biridir; onların görevi, günahkarları ve heretikleri 'kurtarmak' — yani onları öldürmek — tir ve onlar, İmparatorluğun en fanatik ve en ölümcül tarikatıdır. Redemptionist Cult'un en büyük özelliği, onların fanatikliğidir — onlar, günahkarları ve heretikleri acımasızca yok eder ve onların savaşı, hem dini hem de katliamdır; bir Redemptionist, hem bir savaşçı hem de bir fanatiktir ve onların savaşı,

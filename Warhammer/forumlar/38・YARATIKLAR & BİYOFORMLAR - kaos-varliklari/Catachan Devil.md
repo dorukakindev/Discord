@@ -16,8 +16,4 @@ Catachan Devil, çok bacaklı, zırhlı gövdesi ve zehirli iğnesiyle Catachan'
 
 ## Tarihçe
 
-Catachan halkı ve dünyanın ormanlarında yetişen Catachan Jungle Fighters alayları, çocukluktan itibaren bu tür yırtıcılarla iç içe büyür. Bu sert eğitim, Catachan askerlerinin Imperium'un ormanlık savaş alanlarındaki ün kazanmış becerisinin temelinde yatar.
-
--# Kaynaklar: *Codex: Astra Militarum*
-
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551815439078658154>, <#1551809846066548779>
+Catachan Devil, Catachan'ın — İmparatorluğun en tehlikeli gezegeni — en ünlü ve en tehlikeli yaratığıdır; Catachan'ın ormanlarında yaşayan ve İmparatorluk Muhafızı'nın en büyük düşmanı olan Catachan Devil, İmparatorluğun en tehlikeli ve en korkulan yaratığıdır — onlar, Catachan'ın en ünlü ve en tehlikeli yaratığıdır. Catachan Devil'in en büyük özelliği, onun tehlikesidir — onlar, Catachan'ın en tehlikeli yaratığıdır ve onların varlığı, Catachan'ın en büyük gücünün kanıtıdır; bir Catachan Devil, hem bir yaratık hem de bir avcıdır ve onların savaşı, sadece avlanmak ve öldürmek içindir. Catachan Devil'in en ünlü özelliği, onun Catachan'da yaşamasıdır — onlar, İmparatorluğun en tehlikeli gezegeninin en tehlikeli yaratığıdır ve onların varlığı, İmparatorluğun en büyük gü

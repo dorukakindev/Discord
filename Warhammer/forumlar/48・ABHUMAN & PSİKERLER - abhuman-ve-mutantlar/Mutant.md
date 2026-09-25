@@ -10,6 +10,6 @@ Mutant, Warhammer 40.000 evreninde abhuman madalyonunun karanlık yüzüdür; ka
 
 ## Tarihçe
 
-İmparatorluk'ta kabul edilmeyen genetik sapmalar; psyker'lık, çok kol, zihinsel değişiklikler. Genel olarak zulmedilir — İmparatorluk'un bastırdığı gerçeklik.
+Mutant, İmparatorluğun en ünlü ve en yaygın mutant sınıfıdır; genetik olarak değişen ve İmparatorluğun en yaygın mutant sınıfı olan Mutant, İmparatorluğun en yaygın ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en yaygın mutant sınıfıdır. Mutant'ın en büyük özelliği, onlar��n yaygınlığıdır — onlar, İmparatorluğun en yaygın mutant sınıfıdır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin kanıtıdır; bir Mutant, hem bir mutant hem de bir vatandaştır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin somut halidir. Mutant'ın en ünlü özelliği, onların çeşitliliğidir — onlar, İmparatorluğun en yaygın ve en çeşitli mutant sınıfıdır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin kanıtıdır. Mutant, İmparatorluğun en ünlü ve en yaygın mutant sınıfıdır — onlar, bir çeşitliliğin ve İmparatorluğun en büyük çeşitliliğinin somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,0

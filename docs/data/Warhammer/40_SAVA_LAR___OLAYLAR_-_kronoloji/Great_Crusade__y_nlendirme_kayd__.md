@@ -16,8 +16,4 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Imperium_Dominatus_An
 
 ## Tarihçe
 
-Primarch'ların birer birer bulunması, Rangdan Xenocides, Ullanor seferi ve Horus'un Warmaster ilanı seferin başlıca dönemeçleridir. Sefer, Horus Heresy'nin patlak vermesiyle iç savaşa dönüşerek sona erdi.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *Horus Heresy Book One: Betrayal*
-
--# İlişkili kayıtlar: <#1551814367203303506>, <#1551813713403580438>, <#1551818097504157699>, <#1551997969417502752>
+Great Crusade, İmparatorluğun en büyük ve en önemli askeri hareketidir; İmparator'un insanlığı birleştirmek ve onu Chaos'tan korumak için başlattığı ve yirmi primarch Legion'unu sahaya sürdüğü devasa bir seferdir — onlar, İmparatorluğun en büyük zaferinin ve en büyük hatasının başlangıcıdır. Great Crusade'in en büyük özelliği, onun boyutudur — onlar, bir galaksiyi fethetmek için yapılan en büyük savaştır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Great Crusade, bir insanlığın birleşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin kanıtıdır. Great Crusade'in en ünlü özelliği, onun sonucudur — onlar, Horus Heresy'yi başlattılar ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Gr

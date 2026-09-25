@@ -30,6 +30,10 @@ Güncel yayınlar kültün iç işleyişini daha da ayrıntılandırmıştır. *
 
 Kültün savaş gücü de çoğu zaman sızdığı toplumun izlerini taşır. Madencilik araçları, sanayi makineleri ve yerel savunma teçhizatı ayaklanmada silaha dönüştürülür. Kültün bir parçası olan Imperial askerler, Brood Brothers olarak Astra Militarum teçhizatını ve eğitimini kültün hizmetine sunabilir. Genetik bozuklukları nedeniyle aşırı güçlü ama çarpık bedenlere sahip Aberrant'lar ise kültün en ağır şok birliklerini oluşturur.
 
+## Tarihçe
+
+Genestealer Cults, Tyranid'in en sinsi ve en tehlikeli silahıdır; bir gezegenin nüfusunu genetik olarak yozlaştıran ve Hive Mind'a hazırlayan gizli tarikatlardır — onların savaşı, görünmezlik ve sabırdır. Genestealer Cults'un en büyük özelliği, onların gizliliğidir — onlar, bir gezegenin nüfusuna karışır, onlar gibi yaşar ve çalışır; ve onların savaşı, bir isyanın en zayıf anında, en beklenmedik yerden gelir — bir Geneste
+
 ## İnanç ve Day of Ascension
 Kültlerin inancı, Tyranid'lerin gelişini bir kurtuluş olarak görmeye dayanır. Kült üyeleri, yıldızlardan inecek "Star Children"ın ya da benzer ilahi figürlerin kendilerini zulümden kurtaracağına, yeni bir düzen kuracağına ve onları yücelteceğine inanır. Bu inanç, çoğu zaman Imperial Creed'in imgeleriyle karışarak ifade edilir. Bazı kültler Patriarch'ı dört kollu bir Emperor olarak tasvir eder; böylece dışarıdan bakan biri için kültün ibadeti, sapkın ama tanıdık bir İmparator tapınması gibi görünebilir.
 

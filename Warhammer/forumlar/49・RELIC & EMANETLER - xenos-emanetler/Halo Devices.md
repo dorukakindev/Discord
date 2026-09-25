@@ -16,6 +16,6 @@ Halo Device'lar, Halo Stars'ta bulunan antik xeno artefaktlarıdır: deriye yak�
 
 ## Tarihçe
 
-Halo Device'lar, Halo Stars'ta bulunan antik xeno artefaktlarıdır: deriye yakın taşındığında yaşlanmayı durdurur, yaraları iyileştirir — ama sahibini yavaşça insan-ötesi bir şeye dönüştürür. İmparatorluk'ta yasaktır ve Rogue Trader pazarlarında en pahalı yasak mal sayılır.
+Halo Devices, İmparatorluğun en gizli ve en tehlikeli xeno artifact'idir; Halo Stars'dan gelen ve onların kullanıcısına ölümsüzlük vaat eden ama sonunda onu bir canavara dönüştüren gizli cihazlardır — onlar, İmparatorluğun en gizli ve en tehlikeli artifact'idir. Halo Devices'ın en büyük özelliği, onların ölümsüzlüğüdür — onlar, bir kullanıcıya ölümsüzlük vaat eder ama sonunda onu bir canavara dönüştürür; bir Halo Devices kullanıcısı, hem bir ölümsüz hem de bir canavardır ve onların varlığı, İmparatorluğun en gizli tehlikesinin kanıtıdır. Halo Devices'ın en ünlü özelliği, onların gizliliğidir — onlar, İmparatorluğun en gizli artifact'idir ve onların varlığı, Inquisition'ın en gizli avının kanıtıdır. Halo Devices, İmparatorluğun en gizli ve en tehlikeli xeno artifact'idir — onlar, ölümsüzlüğün ve canavarlığın birleşimidir.
 
 -# Kaynaklar: *Dark Heresy* kaynakları; Warhammer 40,000 — Fandom derlemesi

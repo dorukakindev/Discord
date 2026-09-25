@@ -15,12 +15,4 @@ Gothic Sektörü'nde bulunan ve Imperium'un uzun süre gerçek gücünü kavraya
 
 ## Tarihçe
 
-Gothic War'da Abaddon bazı Fortress'leri ele geçirdi; bunlardan biri olan Will of Eternity, 999.M41'de Cadia'ya düşürülerek gezegeni ve pylon ağını yok etti. Ayrıntılı anlatı <#1551811621285003315> kanalında, gemi kaydı <#1551629133967269900> altındadır.
-
-## Kanon Notu
-
-Aeldari mitlerinin onları "Talismans of Vaul" diye anması Aeldari'nin kendi anlatısıdır; Old Ones kökeni ima düzeyindedir. Hiçbir köken kesin gerçek gibi sunulmaz.
-
--# Kaynaklar: *Gathering Storm I: Fall of Cadia*; *Warhammer Quest: Blackstone Fortress*
-
--# İlişkili kayıtlar: <#1551811621285003315>, <#1551814512657698817>, <#1551812139935866891>, <#1551818153271627807>
+Blackstone Fortress'ler, Old Ones'ın yaşadığı dönemde — muhtemelen C'tan'la savaşmak için — inşa edilmiş altı devasa uzay istasyonudur; noctilith (kara taş) denen ve Warp enerjisini hem çekebilen hem de itebilen bir maddeden yapılmışlardır. Her kale bir gezegen boyutunda, kendi kendini yöneten ve ölümcül silahlarla donanmış bir yapaylıktır; içindeki koridorlar canlı gibi kayar, odalar değişir ve tuzaklar kurar. Abaddon, Gothic Savaşı'nda iki Blackstone Fortress'i ele geçirip birleştirilmiş Warp-ateşiyle bir yıldızı yok etmişti; İmparatorluk da kalıntılarını silah platformu ve inceleme istasyonu olarak kullanır. Yedinci ve kayıp bir kale 41. binyılda yeniden ortaya çıktı ve Precipice bölgesinde hazine avcıları, kaos çapulcuları ve xeno'lar için efsanevi bir hedef haline geldi. Kalelerin tam potansiyeli bilinmiyor — noctilith yapısı onla

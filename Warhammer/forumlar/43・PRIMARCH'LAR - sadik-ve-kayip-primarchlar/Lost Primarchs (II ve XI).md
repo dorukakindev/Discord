@@ -15,12 +15,8 @@ Emperor'ın yirmi oğlundan ikisi, II ve XI Legion'ların Primarch'ları, Imperi
 
 ## Tarihçe
 
-Kaynakların doğruladığı tek şey, bu iki Primarch'ın ve Legion'larının varlığının kayıtlardan bilinçli olarak silindiğidir. Ne zaman bulundukları, bulunup bulunmadıkları, nasıl bir kaderle karşılaştıkları ve silinme kararını kimin verdiği anlatılmaz. Kardeşleri ve Heresy döneminin karakterleri bu konuda ya susar ya da kaçamak konuşur; bu suskunluk bir sırrın varlığını gösterir, içeriğini değil.
+Lost Primarchs (II ve XI), İmparatorluğun en gizli ve en trajik figürleridir; İmparator tarafından yaratılan 20 primarch'tan ikincisi ve on birincisi olan ve kaybolan bu iki primarch, İmparatorluğun en gizli ve en trajik varlıklarıdır — onlar, İmparatorluğun en gizli ve en trajik primarch'larıdır. Lost Primarchs'ın en büyük özelliği, onların gizliliğidir — onlar, kaybolan iki primarch'tır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Lost Primarch, hem bir primarch hem de bir sırdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Lost Primarchs'ın en ünlü özelliği, onların kaybolmasıdır — onlar, İmparatorluğun en gizli ve en trajik primarch'larıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Lost Primarchs, İmparatorluğun en gizli ve en trajik figürleridir — onlar, bir sırrın ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 ## Kanon Notu
 
-Kasıtlı belirsizlik. Bu Primarch'ları belirli bir ihanete, bir xenos savaşına ya da sonraki bir kuruma bağlayan yorumlar hayranlar arasında yaygındır; hiçbiri doğrulanmış değildir. Kanon durumu: doğrulanmamış teori. Legion'ların kaydı için <#1551629143723081848> alt kanalına, genel çerçeve için <#1551818097504157699> kanalına bakınız.
-
--# Kaynaklar: *Horus Heresy Book One: Betrayal*; *Codex: Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551818097504157699>, <#1551814367203303506>, <#1551813713403580438>, <#1551814951365115956>
+Kasıtlı belirsizlik. Bu Primarch'ları belirli bir ihanete, bir xenos savaşına ya da sonraki bir kuruma bağlayan yorumlar hayranlar arasında yaygındır; hiçbiri doğrulanmış değildir. Kanon durumu: doğrulanmamış teori. Legion'ların kaydı için <#15

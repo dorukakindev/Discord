@@ -16,8 +16,4 @@ Hekaton Land Fortress, adının hakkını veren hareketli bir kale gibi, Kin sav
 
 ## Tarihçe
 
-Votann, galaksinin çekirdeğine yakın kaynak zengini bölgelerden gelip Imperium'a, Ork'lara ve Tyranid'lere karşı çıkarlarını korurken bu tür ağır araçlarla sahaya çıkar. Hekaton'lar, Hearthkyn savaşçılarını ateş altında hedefe ulaştırmakla görevlidir.
-
--# Kaynaklar: *Codex: Leagues of Votann*
-
--# İlişkili kayıtlar: <#1551759789988642876>, **Squats**
+Hekaton Land Fortress, Leagues of Votann tarafından kullanılan en büyük ve en güçlü kara savaş aracıdır; onun devasa boyutu ve silahlandırmasıyla — bir kadro Votann savaşçısını taşıyabilen ve düşmanı yakın mesafede imha eden bir araçtır — onlar, Leagues'ın en güçlü ve en yıkıcı kara aracıdır. Hekaton'un en büyük özelliği, onun boyutudur — onlar, bir Land Raider'dan daha büyük ve daha güçlüdür; bir Hekaton, bir kadro Votann savaşçısını taşıyabilir ve onların varlığı, bir Leagues ordusunun merkezidir. Hekaton'un en ünlü görevi, Leagues of Votann'ın çeşitli savaşlarıdır — onlar, İmparatorluğun en güçlü zırhlısına karşı kullanılırlar ve onların varlığı, Leagues'ın en güçlü silahıdır. Hekaton Land Fortress, Leagues of Votann'ın en güçlü ve en yıkıcı kara aracıdır — onlar, Leagues'ın en güçlü silahının somu

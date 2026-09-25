@@ -15,12 +15,8 @@ Khaine, Aeldari'nin savaşa duyduğu ihtiyacın ve bu ihtiyacın bedelinin tanr�
 
 ## Tarihçe
 
-Mite göre Isha ile Kurnous'a işkence etti, Vaul'la savaştı ve Lileath'ın rüyasındaki kehaneti duyunca Aeldari'yi yok etmeye yöneldi. Fall sırasında Slaanesh'e karşı durdu, yenildi ve sayısız parçaya bölündü; bu parçalar craftworld'lere dağılarak **Avatar of Khaine** hâline geldi.
+Kaela Mensha Khaine, Aeldari'nin en ünlü ve en vahşi tanrısıdır; savaşın tanrısı olan ve Avatar'ları — savaş tanrısının fiziksel hali — yaratan Khaine, Aeldari'nin en vahşi ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en vahşi tanrısıdır. Khaine'in en büyük özelliği, onun vahşetidir — onlar, savaşın tanrısıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Khaine takipçisi, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece öldürmek ve fethetmek içindir. Khaine'in en ünlü özelliği, onun Avatar'ları yaratmasıdır — onlar, Aeldari'nin savaş tanrısının fiziksel halinin yaratıcısıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Kaela Mensha Khaine, Aeldari'nin en ünlü ve en vahşi tanrısıdır — onlar, bir vahşetin ve Aeldari'nin en büyük gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Avatar, her craftworld'ün kalbinde uyuyan demir bir figürdür; savaş zamanı Young King'in kurbanıyla uyanır ve tanrının öfkesini kısa süreliğine cisimleştirir. Avatar'ın silahı, Suin Daellae (Wailing Doom) adıyla bilinir.
-
--# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Path of the Warrior — Gav Thorpe*; *Codex: Eldar — 6th Edition*
-
--# İlişkili kayıtlar: <#1551810744754905123>, <#1551812290439942255>, <#1551997822725922938>, <#1551754688008032321>
+Avatar, her craftworld'ün kalbinde uyuyan demir bir figür

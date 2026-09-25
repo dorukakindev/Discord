@@ -16,8 +16,6 @@ Zodgrod, Ork tarihinin en ünlü Runtherd'lerinden biri olarak anılan, Gretchin
 
 ## Tarihçe
 
-Zodgrod Wortsnagga, Ork tarihinin belki de en büyük Runtherd'ıydı — gretchin ve squig'lerin 'çobanı'. Snakebites klanından Warboss Ugulhard Duffgruntas'ın köktenci Chargerz'ından kovuldu (teknolojiyi aşırı reddeden bu grup için bile fazla 'ileri'ydi) — 'Grot'un efendisi' olarak Ork hiyerarşisinin en dip ama en gerekli figürü.
+Zodgrod Wortsnagga, Ork'ların en ünlü ve en tehlikeli Warboss'larından biridir; onların en büyük Waaagh!'ları yöneten ve İmparatorluğun en zorlu savaşlarını yapan Zodgrod, Ork'ların en büyük gücünün ve en tehlikeli düşmanının simgesidir — onlar, Ork'ların en ünlü ve en tehlikeli lideridir. Zodgrod'un en büyük özelliği, onun gücüdür — onlar, bir Waaagh!'ın en büyük Warboss'udur ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Zodgrod komutası, bir Ork ordusunun en büyük anıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Zodgrod'un en ünlü özelliği, onun Waaagh!'larıdır — onlar, İmparatorluğun en zorlu savaşlarını yapan ve onun en büyük direnişini kıran komutanlardır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Zodgrod Wortsnagga, Ork'ların en ünlü ve en tehlikeli Warboss'larından biridir — onlar, bir Waaagh!'ın gücünün ve Ork'ların en büyük tehdidinin somut halidir.
 
--# Kaynaklar: *Codex: Orks — 9th Edition*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>
+-# Kaynaklar: *Codex: Orks — 9th

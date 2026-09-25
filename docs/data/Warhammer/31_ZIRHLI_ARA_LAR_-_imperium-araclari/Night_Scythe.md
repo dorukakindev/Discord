@@ -16,7 +16,7 @@ Gökten süzülen hilal biçimli bir istila aracıdır. Klasik bir taşıyıcıd
 
 ## Tarihçe
 
-Night Scythe'lar Necron akınlarının öncüsü olarak anlatılır: bir dünyanın savunmasını yoklamak, hedefli baskınlar yapmak ya da büyük bir saldırıdan önce savaşçıları savaş alanının kilit noktalarına yerleştirmek için kullanılır.
+Night Scythe, Necron Dynasty'ler tarafından kullanılan bir hava saldırı ve taşıma aracıdır; onun doğaüstü gücü ve taşıma kapasitesiyle — bir kadro Necron'u taşıyabilen ve düşmanı havadan imha eden bir araçtır — onlar, Necron'ların en güçlü ve en ölümcül hava aracıdır. Night Scythe'ın en büyük özelliği, onun doğaüstü gücüdür — onlar, fizik yasalarına uymaz ve onların gücü, bir Imperial savaş gemisini bile yok edebilir; bir Night Scythe, bir düşman uçağını saniyeler içinde parçalayabilir ve onların varlığı, bir Necron saldırısının en korkulan silahıdır. Night Scythe'ın en ünlü özelliği, onun taşıma kapasitesidir — onlar, bir kadro Necron'u taşıyabilir ve onların varlığı, bir Necron ordusunun en güçlü silahıdır. Night Scythe, Necron Dynasty'lerin en güçlü ve en ölümcül hava aracıdır — onlar, Necron'ların hava gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 

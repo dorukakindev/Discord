@@ -15,12 +15,8 @@ Denizci bir dünyanın geleneklerini Astartes disipliniyle harmanlayan Chapter. 
 
 ## Tarihçe
 
-Chapter'ın başlıca görevi, çevresindeki Reef Stars bölgesini Drukhari akınlarına ve başka tehditlere karşı korumaktır. Kuşaklar boyunca bu sınır bölgesinde verilen savaşlar, Iron Snakes'i küçük birliklerle bağımsız harekât yürütmeye alışkın bir Chapter hâline getirdi. Damocles Squad'ın maceraları, Chapter'ın bu yüzünü ayrıntıyla kayda geçirir.
+Iron Snakes, Ultramarines soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, Ithaka'nın deniz ve ada kültüründen doğar ve onlar, İmparatorluğun en disiplinli ve en deneyimli savaşçılarıdır. Iron Snakes'in en büyük özelliği, onların sualtı ve ada savaşındaki uzmanlığıdır — onlar, denizde, okyanusta ve ada dünyalarında savaşır ve onların savaşı, hem sualtı hem de karada ölümcüldür; bir Iron Snake, savaşta hem yüzer hem de yürür ve onun adaptasyonu, Chapter'ın en büyük gücüdür. Iron Snakes'in en ünlü savaşı, Sabbat Worlds Crusade'deki görevleridir — onlar, o seferin en zorlu operasyonlarını üstlendiler ve onların disiplini, İmparatorluğun en güvenilir savaş gücünü oluşturdu. Iron Snakes, İmparatorluğun en disiplinli ve en sessiz Chapter'ıdır — onlar savaşır ama konuşmaz, onlar kazanır ama gösteriş yapmaz.
 
 ## Teknik / Biyolojik Özellikler
 
-Doktrin: Ultramarines disipliniyle birlikte yakın dövüşe ve falanks benzeri düzenlere yatkınlık; kısa kılıçlar ve fırlatılabilen savaş mızrakları gibi geleneksel silahlar. Kültür: squad'ların ilk komutanlarının adını taşıması ve sadakatle sürdürülen bir birlik geleneği.
-
--# Kaynaklar: *Brothers of the Snake — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551809394226765939>, <#1551808704901423186>, <#1551813105166712966>
+Doktrin: Ultramarines disipl

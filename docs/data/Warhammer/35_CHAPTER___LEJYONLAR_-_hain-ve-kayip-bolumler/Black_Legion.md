@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest?cb=20170813040332
 
+## Tarihçe
+
+Black Legion (eski adıyla Luna Wolves ve Sons of Horus), Horus Lupercal'ın Legion'udur ve İmparatorluğun en büyük ihanetinin simgesidir; Horus Heresy'nin başını çeken ve sonunda İmparatorluğu neredeyse yok eden bu Legion, şimdi Abaddon'un komutasında Chaos'un en organize ve en tehlikeli gücüdür. Luna Wolves, Horus'un ilk ve en sadık Legion'uydu — Büyük Haçlı Seferi'nin en parlak savaşçılarıydı ve onların zaferleri, İmparatorluğun en büyük sayfalarını yazdı; ama Horus'un düşüşü, Legion'un da düşüşü oldu ve Sons of Horus, ihanetin merkezi oldu. Black Legion, Abaddon'un mirasıdır — Horus'un ölümünden sonra Abaddon, Legion'u yeniden inşa etti ve onu Chaos'un en disiplinli gücü yaptı; Black Legion, artık Horus'un değil, Abaddon'un ordusudur ve onların hedefi, İmparatorluğu yok etmektir. Black Legion, İmparatorluğun en büyük düşmanıdır — onların savaşı, hem kişisel hem de evrenseldir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Black Legion — Kara Lejyon (XVI. Lejyon)

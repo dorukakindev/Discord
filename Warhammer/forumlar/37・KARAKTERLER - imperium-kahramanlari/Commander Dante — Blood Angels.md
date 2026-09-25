@@ -16,8 +16,6 @@ Bin yılı aşkın süredir Blood Angels'ı yöneten Chapter Master. Yaşlanmı�
 
 ## Tarihçe
 
-Commander Dante, Blood Angels'ın Chapter Master'ıdır — 'Baş Melek' olarak bilinen bu figür, İmparatorluk'un en yaşlı aktif Space Marine'i (1100+ yıl). Sanguinius'un 'altın maskesi'ni taşıyan bu figür, Blood Angels'ın kaderini yöneten en efsanevi komutandır; 'yaşayan meleğin sonu' olarak Baal'ın savunucusu.
-
--# Kaynaklar: *Dante — Guy Haley*; *The Devastation of Baal — Guy Haley*; *Codex Supplement: Blood Angels — 10th Edition*
+Commander Dante, Blood Angels'ın Chapter Master'ı ve İmparatorluğun en yaşlı ve en saygın Space Marine'idir; bin yıldan fazla savaşan ve Blood Angels'ın en büyük zaferlerini kazanan Dante, İmparatorluğun en efsanevi ve en onurlu komutanlarından biridir — onlar, Blood Angels'ın en ünlü ve en saygın lideridir. Dante'nin en büyük özelliği, onun yaşlılığıdır — onlar, İmparatorluğun en yaşlı Space Marine'idir ve onların varlığı, Blood Angels'ın en büyük gücünün kanıtıdır; bir Dante komutası, bir Chapter'ın en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Dante'nin en ünlü görevi, Baal'ın savunmasıdır — onlar, Hive Fleet Leviathan'a karşı Baal'ı savunan ve Blood Angels'ı kurtaran komutanlard
 
 -# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809334483361823>, <#1551814400938082357>, <#1551815418619101185>

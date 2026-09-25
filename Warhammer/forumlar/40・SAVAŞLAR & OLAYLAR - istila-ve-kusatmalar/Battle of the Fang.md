@@ -12,6 +12,6 @@ Thousand Sons'ın primarch'ı, artık bir Daemon Prince olan Magnus the Red, kar
 
 ## Tarihçe
 
-Space Wolves'un Fenris'te Magnus ve Thousand Sons'a karşı savunması; iki eski düşmanın çağlar ötesi hesaplaşması. Prospero'nun intikamı.
+Battle of the Fang, Space Wolves'un tarihindeki en trajik savaşlardan biridir. The Fang — Space Wolves'un Fenris'teki ana kalesi — Thousand Sons ve Chaos kuvvetlerinin ortak saldırısıyla hedef alındı. Saldırı sırasında Magnus the Red'in güçleri, Fenris'in zırhlı savunmasını aşmaya çalıştı ve Fang'ın içindeki birçok değerli objeyi yok etti. Space Wolves, kalenin büyük bölümünü kaybetti; ancak nihai düşüşünü önlediler ve Thousand Sons'u geri püskürttüler. Savaş, Space Wolves'un hem gururunu hem de evlerinin güvenliğini sarsan bir felaket olarak hatırlanır ve Fenris'in gelecekte Chaos'a karşı savunulması gerektiğinin kanıtıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

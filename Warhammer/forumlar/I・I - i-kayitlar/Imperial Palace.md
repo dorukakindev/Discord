@@ -16,6 +16,6 @@ Imperial Palace, Terra'daki kıta boyutunda kale-şehirdir: İmparator'un saray�
 
 ## Tarihçe
 
-Imperial Palace, Terra'daki kıta boyutunda kale-şehirdir: İmparator'un sarayı, Golden Throne'un merkezi, İmparatorluk'un hem kalbi hem son kalesi. Siege of Terra'nın en kanlı sahneleri burada geçti; bugün milyonlarca insanın ölmeden önce görmek istediği kutsal merkezdir.
+Imperial Palace, İmparatorluğun en kutsal ve en önemli yapısıdır; Terra'da bulunan ve İmparator'un — Golden Throne'da yaşayan — evidir — onlar, İmparatorluğun merkezinin ve İmparator'un gücünün somut halidir. Imperial Palace'ın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un evidir ve onların varlığı, İmparatorluğun en kutsal noktasıdır; bir Imperial Palace, bir imparatorluğun merkezidir ve onların varlığı, İmparator'un gücünün ve onurunun kanıtıdır. Imperial Palace'ın en ünlü özelliği, onun Golden Throne'udur — onlar, İmparator'un yaşadığı ve onun gücünün kaynağıdır; bir Golden Throne, bir imparatorluğun en kutsal ve en gizli merkezidir. Imperial Palace, İmparatorluğun en kutsal ve en önemli yapısıdır — onlar, İmparatorluğun merkezinin ve İmparator'un gücünün somut halidir.
 
 -# Kaynaklar: *The Siege of Terra* serisi; Warhammer 40,000 — Lexicanum derlemesi

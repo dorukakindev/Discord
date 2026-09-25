@@ -16,8 +16,8 @@ Savaşçıların, araçların ve battlesuit'lerin yanında süzülen, ateş dest
 
 ## Tarihçe
 
-Gun drone'lar, shield drone'lar ve marker drone'lar T'au ordularının tanıdık unsurlarıdır. Drone'lar yalnızca savaşta değil, T'au toplumunun pek çok alanında da kullanılır. Imperial gözlemciler için bu, T'au'nun Imperium'dan ne kadar farklı bir yol seçtiğinin en çarpıcı göstergelerinden biridir.
+T'au drone'ları, Greater Good'un otonom savaş ve destek platformlarıdır; yapay zekâ yasağı olmayan T'au, yapay zekâyı günlük hayatın her alanında kullanır ve drone'lar bunun savaş yüzüdür. Standart Gun Drone düşük irtifada süzülür ve pulse carbine taşır; Shield Drone birlikleri korur, Markerlight Drone hedef işaretler, Sniper Drone uzaktan ateş desteği sağlar. Drone'lar T'au'nun en kısa üretim hattıdır — bir fabrika günde yüzlerce üretebilir ve kaybı sorun değildir çünkü içlerinde can yoktur. Ancak Earth caste mühendisleri her geçen yıl daha gelişmiş varyantlar üretir: Heavy Gun Drone, Remora Stealth Drone ve savaş alanı istihbaratı toplayan Recon Drone. İmparatorluk için drone'lar moral bozucudur — öldürürsün, yerine on tane gelir ve hiçbiri korkmaz, tereddüt etmez, geri çekilmez.
 
 -# Kaynaklar: *Codex: T'au Empire*; *Fire Caste — Peter Fehervari*
 
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551757340905181286>
+-# İlişk

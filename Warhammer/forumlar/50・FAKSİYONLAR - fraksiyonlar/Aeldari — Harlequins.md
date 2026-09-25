@@ -16,8 +16,6 @@ Webway'in yollarında gezinen, Aeldari'nin kutsal destanlarını dans ve savaşl
 
 ## Tarihçe
 
-Harlequin'ler Fall'dan bu yana Black Library'yi ve Webway'in sırlarını korudu. Sıradan Aeldari'nin gözünden kaçan tehditlere karşı gölgelerden savaştılar. Great Rift sonrasında Ynnari'nin yükselişiyle birlikte daha görünür hâle geldiler.
+Harlequins (Aeldari'nin en gizemli kesimi), Cegorach — Laughing God — 'a adanmış ve Aeldari'nin en eski ve en gizli savaşçılarıdır; onlar, hem savaşçı hem de performans sanatçısıdır ve onların savaşı, hem dans hem de ölümdür. Harlequins'in en büyük özelliği, onların özgürlüğüdür — onlar, hiçbir Craftworld'e veya hiçbir kurumsal yapıya bağlı değildir; onlar, sadece Cegorach'a ve onun sonsuz oyununa hizmet ederler ve onların savaşı, hem bir performans hem de bir katliamdır. Harlequins'in en ünlü özelliği, onların Masque'larıdır — her Harlequin, bir karakter oynar ve onun savaşı, o karakterin rolüdür; bir Shadowseer, hem büyücü hem de aktördür ve onun savaşı, hem görsel hem de psişik bir şovdur. Harlequins, Aeldari ırkının en gizemli ve en tehlikeli kesimidir — onlar, ölümün ve sanatın birleşimidir.
 
--# Kaynaklar: *Codex: Harlequins*; *Codex: Aeldari — 10th Edition*
-
--# İlişkili kayıtlar: <#1552483150322737262>, <#1551810744754905123>, <#1551993959876657192>, <#1552483346846715924>
+-# Kaynaklar: *Codex: Harlequins*; *C

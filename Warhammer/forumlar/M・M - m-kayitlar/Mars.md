@@ -48,3 +48,7 @@ Mars, Warhammer 40,000'in ilk yıllarından beri Mechanicus'un merkezi olarak an
 **Çapraz:** <#1551753449878724689>, <#1551650329156788287>, <#1551809168032268310>, <#1551812203584295003>, <#1551814951365115956>, <#1551814367203303506>, <#1551753465900961795>
 
 ​
+
+### Arka Plan
+
+Mars, fiili gücün gezegeni; savaş, dürtü, kesim, kas ve 'eylem'. Koç'un geleneksel yöneticisi, Akrep'in ortak yöneticisi; ~687 günlük tur. Ares/Mars miti: öfke ve cesaret ikileği — Grek Ares kaba, Roma Mars'ı devletin koruyucu babasıdır. Haritada Mars burcu 'nasıl istersin', evi 'nerede savaşırsın' sorusunu yanıtlar; retrogradı iki yılda bir — eylemin içe dönüşü.

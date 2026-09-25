@@ -16,8 +16,4 @@ Eski adıyla Imperial Guard. Imperium'un sayısız dünyasından tithe ile topla
 
 ## Tarihçe
 
-Heresy'de Imperial Army'nin bazı birliklerinin ihaneti, kuvvetlerin bölünmesine yol açtı. Sonraki binyıllarda alaylar kendi dünyalarının kültürünü cepheye taşıdı. Cadia'nın 999.M41'de düşüşü ve Great Rift, orduyu Era Indomitus'un iki yakasında dağınık bir savaşa sürükledi.
-
--# Kaynaklar: *Codex: Astra Militarum*; *First and Only — Dan Abnett*; *Cadia Stands — Justin D. Hill*
-
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551816756417269853>, <#1551812353157365862>, <#1551812139935866891>
+Astra Militarum (Imperial Guard), İmparatorluğun en büyük ve en kalabalık askeri gücüdür; milyarlarca askerden oluşan ve İmparatorluğun her köşesinde savaşan insan ordusudur — onlar, İmparatorluğun omurgası ve en büyük fedakarlığıdır. Astra Militarum'un en büyük özelliği, onların sayısıdır — onlar, trilyonlarca askerden oluşur ve onların orduları, bir gezegenin nüfusunu bile aşabilir; bir Astra Militarum alayı, bir Space Marine Chapter'ından daha büyük olabilir ve onların savaşı, hem sayıca hem de fedakarlıkça büyüktür. Astra Militarum'un en ünlü özelliği, onların çeşitliliğidir — onlar, Cadian Shock Troops'tan Death Korps of Krieg'e kadar her türlü askeri birliği içerir; bir Astra Militarum alayı, hem bir düzenli ordu hem de bir fanatik tarikatıdır ve onları

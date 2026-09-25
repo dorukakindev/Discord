@@ -16,7 +16,7 @@ Etin zayıflığından nefret eden ve makineyi kusursuzluğun yolu sayan Legion.
 
 ## Tarihçe
 
-Heresy'nin ilk büyük çarpışmasında, Istvaan V'teki Drop Site Massacre'da Ferrus Manus, Fulgrim'in elinde başı kesilerek öldü ve Legion'ın ön saflarına katılan birlikleri büyük ölçüde yok oldu. Primarch'ın kaybı Legion'ı acı, intikam ve etten duyulan tiksintiyle yeniden biçimlendirdi. Heresy sonrasında Chapter, Medusa'daki klan geleneğini koruyarak savaşmayı sürdürdü; Era Indomitus'ta da cephelerde yer almaktadır.
+Iron Hands (X Legion), Ferrus Manus'un oğullarıdır; makine ve beden arasındaki sınırı silen ve 'et zayıftır' felsefesiyle augmetics'i kutsal kabul eden, İmparatorluğun en mekanik ve en acımasız savaşçılarıdır. Iron Hands'in savaş doktrini, Ferrus Manus'un ölümünden ve Medusa'nın sert koşullarından doğar — onlar duyguyu zayıflık, makineyi ise mükemmellik olarak görür; bir Iron Hand, bedenini isteyerek makineye çevirir ve onların zırhı, diğer Chapter'lardan daha fazla augmetics taşır. Iron Hands'in en büyük trajedisi, Ferrus Manus'un Fulgrim tarafından öldürülmesidir — onların primarch'ı, ihanetin ilk kurbanıydı ve o günden beri Iron Hands, hem öfke hem de makineyle savaşır. Iron Hands, İmparatorluğun en mekanik ve en acımasız Chapter'ıdır — onlar için savaş, hem görev hem de dönüşümdür.
 
 -# Kaynaklar: *Fulgrim — Graham McNeill*; *The Damnation of Pythos — David Annandale*; *Codex: Space Marines — 10th Edition*
 

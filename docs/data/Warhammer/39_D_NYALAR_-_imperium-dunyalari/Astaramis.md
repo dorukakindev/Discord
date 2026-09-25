@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0f/Astramis.png/revision
 
 ## Tarihçe
 
-Astaramis, Ultramar'ın Konor Sistemindeki en kalabalık Hive Dünyasıdır; Plague Wars sırasında Nurgle güçlerinin hedefi oldu ama İmparatorluk tarafından kahramanca geri alındı.
+Astaramis, İmparatorluğun en zengin ve en önemli dünyalarından biridir; parlayan kuleleri ve gelişmiş teknolojisiyle bilinen ve Segmentum Obscurus'ta bulunan bir dünyadır — onlar, İmparatorluğun en parlak ve en zengin dünyalarından biridir. Astaramis'in en büyük özelliği, onun zenginliğidir — onlar, İmparatorluğun en gelişmiş teknolojisine sahiptir ve onların kuleleri, bir gezegenin en parlak simgesidir; bir Astaramis, bir sektörün merkezidir ve onların varlığı, İmparatorluğun zenginliğinin ve teknolojisinin kanıtıdır. Astaramis'in en ünlü özelliği, onun Pariah Nexus'taki rolüdür — onlar, Necron'ların Pariah Nexus'una karşı İmparatorluğun savunmasında kritik rol oynadılar ve onların varlığı, İmparatorluğun en karanlık savaşının merkeziydi. Astaramis, İmparatorluğun en zengin ve en stratejik dünyasıdır — onlar, zenginliğin ve savunmanın somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -15,12 +15,6 @@ Kalın kitin kabuğuyla yürüyen bir kale gibi ilerleyen, sırtında ve gövdes
 
 ## Tarihçe
 
-Tyrannofex, Hive Mind'ın karşılaştığı direnişe göre savaş organizmalarını uyarlamasının bir örneği olarak anlatılır. Zırhlı araçlara ve tahkimatlara dayanan savunmalar karşısında Hive Fleet'ler bu tür ağır organizmaları sahaya sürer.
+Tyrannofex, Tyranid'in en ünlü ve en büyük yaratığıdır; bir Tyranid ordusunun en büyük ve en güçlü yaratığı olan ve onun en büyük savaşlarını yapan Tyrannofex, Tyranid'in en büyük ve en tehlikeli varlığıdır — onlar, Tyranid'in en ünlü ve en büyük yaratığıdır. Tyrannofex'in en büyük özelliği, onun boyutudur — onlar, bir Tyranid ordusunun en büyük ve en güçlü yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Tyrannofex, hem bir yaratık hem de bir yıkımdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Tyrannofex'in en ünlü özelliği, onun devasa boyutudur — onlar, bir Tyranid ordusunun en büyük ve en güçlü yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Tyrannofex, Tyranid'in en ünlü ve en büyük yaratığıdır — onlar, bir devasa yaratığın ve Tyranid'in en büyük tehdidinin somut halidir.
 
-## Teknik / Biyolojik Özellikler
-
-Kalın kitin kabuk ve ağır biyolojik silahlar: rupture cannon, asit püskürten organlar ya da canlı mermi üreten silah sürüleri. Silahları yaratığın bedeninin parçasıdır.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+## Teknik / Biyolo

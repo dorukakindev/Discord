@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c6/Solun_Decius.jpg/revi
 
 ## Tarihçe
 
-Solun Decius, Büyük Sefer ve Heresy başında Death Guard lejyonunun Space Marine'iydi; 7. Büyük Bölük'ün Komuta Timi'nde görev yapan en genç üyeydi. Nathaniel Garro'nun yakın çevresindeki figürlerden biri olarak Eisenstein'ın Uçuşu'nun ve Heresy'nin ilk ihanet günlerinin tanığı ve kurbanlarından biri oldu.
+Solun Decius, Death Guard'ın en trajik ve en önemli üyesidir; eskiden bir Death Guard kaptanı olan ve Chaos'a düşen Decius, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Death Guard'ın en trajik ve en önemli üyesidir. Solun Decius'un en büyük özelliği, onun trajedisidir — onlar, bir Space Marine'in Chaos'a düşüşünün en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Decius, hem bir savaşçı hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Solun Decius'un en ünlü özelliği, onun Death Guard'ın üyesidir — onlar, bir Legion'un en trajik üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Solun Decius, Death Guard'ın en trajik ve en önemli üyesidir — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

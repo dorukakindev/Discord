@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/55/Dagon_Overlord.jpg/re
 
 ## Tarihçe
 
-Dagon Overlord, Hive Fleet Dagon'un standart Hive Tyrant'tan daha güçlü synapse yaratığıdır; Jericho Reach'teki Tyranid saldırılarının komuta düğümü.
+Dagon Overlord, Tyranid'in en ünlü ve en güçlü lideridir; bir Tyranid ordusunun en yüksek rütbeli komutanı olan ve onun en büyük savaşlarını yöneten Dagon Overlord, Tyranid'in en güçlü ve en tehlikeli varlığıdır — onlar, Tyranid'in en ünlü ve en güçlü lideridir. Dagon Overlord'un en büyük özelliği, onun gücüdür — onlar, bir Tyranid ordusunun en yüksek rütbeli komutanıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Dagon Overlord komutası, bir Tyranid ordusunun en büyük zaferinin en büyük anıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Dagon Overlord'un en ünlü özelliği, onun 'Overlord' unvanıdır — onlar, Tyranid'in en güçlü ve en tehlikeli lideridir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Dagon Overlord, Tyranid'in en ünlü ve en güçlü lideridir — onlar, bir gücün ve Tyranid'in en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

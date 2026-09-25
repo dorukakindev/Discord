@@ -16,8 +16,4 @@ Resmî bir ordu sayılmayan, bir vaizin ya da Confessor'ın ateşli sözleriyle 
 
 ## Tarihçe
 
-Vandire döneminde Ecclesiarchy'nin kendi ordusu Frateris Templars, Imperium'un düzenli kuvvetleriyle boy ölçüşecek güce ulaşmıştı. Reign of Blood'dan sonra Templars dağıtıldı ve Decree Passive benzer bir yapının kurulmasını yasakladı. Frateris Militia bu yasağın lafzını esneten bir çözümdür: kalıcı bir ordu değil, ihtiyaç anında toplanan inananlardır.
-
--# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
-
--# İlişkili kayıtlar: <#1551651549804236801>, <#1551810771472883713>, <#1551753444308811807>, <#1551753458779029565>
+Frateris Militia, Ecclesiarchy'nin en büyük ve en fanatik sivil milis gücüdür; onların görevi, İmparator'un kilisesini korumak ve onun düşmanlarını yok etmektir ve onlar, İmparatorluğun en fanatik ve en kalabalık sivil gücüdür. Frateris Militia'nın en büyük özelliği, onların sayısıdır — onlar, milyonlarca sivil inanan'dan oluşur ve onların savaşı, hem fanatiklik hem de sayıca büyüktür; bir Frateris Militia üyesi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Frateris Militia'nın en ünlü özelliği, onların fanatikliğidir — onlar, İmparator'a olan inançlarıyla savaşır ve onların savaşı, hem askeri hem de dini bir seferdir. Frateris Militia, Ecclesiarchy'nin en büyük ve en f

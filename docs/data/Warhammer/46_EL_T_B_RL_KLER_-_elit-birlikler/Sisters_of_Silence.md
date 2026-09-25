@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/8c/SoS_Icon.jpg/revision/latest?cb=20170327223644
 
+## Tarihçe
+
+Sisters of Silence, İmparatorluğun tamamı Pariah (Blank) kadınlarından oluşan gizli savaş birliğidir; varlıkları Warp'ı susturan ve psyker'ları felç eden bu savaşçılar, İmparatorluğun en korkulan ve en gizli kurumudur. Sisters of Silence, İmparator tarafından bizzat kuruldu — görevleri Black Ships'e eşlik ederek tehlikeli psyker'ları güvenle taşımak ve Warp'ın tehditlerine karşı son savunma hattını oluşturmaktı; onların psişik boşluğu, demonları Immaterium'a geri sürükler ve psyker'ları kelimenin tam anlamıyla kör ve sağır bırakır. Horus Heresy'de kritik rol oynadılar — özellikle Prospero'nun yakılması ve Terra Kuşatması'nda Thousand Sons'un büyülerine karşı tek etkili kalkan oldular; onların varlığı, psyker savaşını İmparatorluk lehine çevirdi. Sisters of Silence konuşmaz — sadece işaret dili kullanır ve varlıkları düşmana çığlık attırmaz; çünkü yaklaştıklarında ses bile ölür ve sessizlikleri, en korkulan silahlarıdır.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Sisters of Silence — Sessizlik Kız Kardeşleri, Ruhsuz Avcılar

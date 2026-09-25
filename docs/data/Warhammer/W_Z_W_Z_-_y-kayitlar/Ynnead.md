@@ -21,6 +21,10 @@ Croneswords adı verilen kadim kılıçlar, Ynnari inancında Ynnead'in tam uyan
 
 Cegorach'ın Ynnead karşısındaki tutumu ya da Laughing God'un bu sürece dair bir planı olup olmadığı yayımlanmış kanonda açıklanmamıştır. İki tanrının Slaanesh'e karşı birbirini tamamlayan planları olduğu yönündeki yorumlar fandomda yaygındır. Kanon durumu: doğrulanmamış teori.
 
+## Tarihçe
+
+Ynnead, Aeldari'nin en ünlü ve en umutlu tanrısıdır; ölümün tanrısı olan ve Aeldari'nin ölü ruhlarını toplayan Ynnead, Aeldari'nin en umutlu ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en umutlu tanrısıdır. Ynnead'ın en büyük özelliği, onun umududur — onlar, Aeldari'nin ölü ruhlarını toplayan ve onları Slaanesh'ten koruyan en umutlu tanrıdır ve onların varlığı, Aeldari'nin en büyük umudunun kanıtıdır; bir Ynnead takipçisi, hem bir
+
 ## Bilinen Yanılgılar ve SSS
 
 **Yanılgı:** Ynnead, Fall'da yok olan kadim Aeldari tanrılarından biridir.

@@ -16,7 +16,7 @@ Necron'lara Webway'e zorla girme imkânı veren kapılardır. Aeldari'nin gözü
 
 ## Tarihçe
 
-War in Heaven boyunca Necron'lar ve C'tan, Old Ones'ın sığınağına dönüşen Webway'i parçalamak için bütün güçlerini seferber etti; dolmen gate'ler bu saldırının araçları arasında anılır. Savaşın Webway'e verdiği zararın boyutu ayrıntılı anlatılmaz, ama ağın bazı bölümlerinin bu dönemde hasar gördüğü ya da mühürlendiği ima edilir. Necron'ların dimensional ve zamansal teknolojileri onlara Webway'e alternatif başka ulaşım yolları da sunar.
+Dolmen Gate, Necron'ların Webway'e zorla açtığı kapılardır; Old Ones'ın inşa ettiği Webway'i kıran ve Necron ordularını doğrudan Eldari'nin gizli yollarına sokan devasa teknolojik düzeneklerdir. Sözcük 'dolmen'den gelir — devasa taş kapı anlamında; Necron dolmen'leri fiziksel çerçevelerden oluşur ve Webway'in duvarını bükerek içine geçiş yaratır. Bu teknoloji Necron'ların War in Heaven'daki en büyük silahıydı — Webway'i kendi yollarıyla kırıp Eldari'nin kaçış yollarını kestiler ve savaşı C'tan lehine çevirdiler. Modern Necron'lar da dolmen'leri kullanır ama Webway artık eskir ve kırılgan — dolmen geçişi Webway'e zarar verir ve Eldari, Necron'un Webway'i her kırışında ağın biraz daha çöktüğünü bilir. Dolmen, Necron'un teknolojik üstünlüğünün en keskin kanıtıdır: Old Ones'ın en büyük eserini bile kırabiliyorlar.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 

@@ -12,4 +12,7 @@ Siyah ve beyaz ikiliğiyle, ihaneti, nihilizmi ve "yıkımın yıkımını" simg
 
 ## Dışlanmış Tanrı
 Malal (ya da Malice), İsyan ve İntikam'ın Kaos Tanrısı'dır — diğer dört tanrıya bile düşman olan, yok edilmiş bir beşinci güç. Tohumları çelişki ve kendini yıkımdır: bir Kaos iblisi bir diğerine ihanet ettiğinde, bir fanatik kendi efendisini devirdiğinde Malal güçlenir. Tapınanları "Hiyerarşinin Dışı" olarak bilinir; savaşçıları Sons of Malice adlı Renegade Astartes bölüğüdür ve Blackstone Fortress'un kalbinde yaşadığı söylenir. Lisans sorunları nedeniyle modern yayınlarda adı nadiren geçer — ama "Dışlanmışın Gücü" kavramı 40K'nın en eski katmanlarındandır.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Malal, Chaos'un en gizli ve en tehlikeli tanrısıdır; 'Beşinci Chaos Tanrısı' olarak bilinen ve Chaos'un en gizli gücü olan Malal, Chaos'un en gizli ve en tehlikeli varlığıdır — onlar, Chaos'un en gizli ve en tehlikeli tanrısıdır. Malal'ın en büyük özelliği, onun gizliliğidir — onlar, 'Beşinci Chaos Tanrısı' olarak bilinen ve Chaos'un en gizli gücüdür ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Malal takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, he

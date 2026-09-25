@@ -12,6 +12,6 @@ Exodite'ler bilinçli bir tercih yaptı; ırklarını mahveden ileri teknolojiyi
 
 ## Tarihçe
 
-Exodites, Büyük Düşüş'ten kaçan Aeldari'nin ilkel dünya kolonileridir; craftworld'lerden önceki, tarım-ve-doğa-yaşamına dönmüş Aeldari'ler. Dinosaur-benzeri yaratıklar yetiştirir, kabile kültürü yaşarlar — 'düşmemiş' ama gelişmemiş Aeldari kolu.
+Exodites, Aeldari ırkının en eski ve en geleneksel kesimidir; Craftworld'lerden kaçan ve Maiden World'lerde — basit ama saf bir yaşam süren — Aeldari'lardır — onlar, Aeldari'nin en doğal ve en geleneksel halidir. Exodites'ın en büyük özelliği, onların basitliğidir — onlar, teknolojiyi reddeder ve doğayla uyum içinde yaşarlar; bir Exodite, hem savaşçı hem de çiftçidir ve onların savaşı, hem geleneksel hem de vahşidir. Exodites'ın en ünlü özelliği, onların dinazor benzeri binekleridir — onlar, devasa sürüngenleri biner ve onların savaşı, bir zamanların Aeldari'sinin savaşıdır; onlar, Slaanesh'in doğumundan önceki Aeldari'nin yaşam tarzını koruyanlardır. Exodites, Aeldari ırkının en geleneksel ve en doğal kesimidir — onlar, Aeldari'nin geçmişinin ve saf halinin koruyucusudur.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fando

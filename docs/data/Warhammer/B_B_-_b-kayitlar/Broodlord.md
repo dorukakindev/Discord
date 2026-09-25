@@ -18,6 +18,6 @@ Genestealer kültünün merkez iblisi; istilanın ilk tohumu, dört kollu korkun
 
 ## Tarihçe
 
-Broodlord, bir Genestealer istilasının kalbindeki lider biyoforudur: Patriarch'ın en eski ve en güçlü çocuğu, kültün avcı-komutanı. Karanlıkta yıllarca bekler; isyan günü geldiğinde ön saflara çıkar ve ölümlü komutanların kafasını tek pençeyle alır. Bir Broodlord'un varlığı, bir dünyanın çoktan kaybedildiğinin işaretidir.
+Broodlord, Tyranid'in en gizli ve en sinsi lider yaratığıdır; bir Genestealer Cult'un en yüksek rütbeli komutanı olan ve onun en gizli operasyonlarını yöneten Broodlord, Tyranid'in en gizli ve en sinsi varlığıdır — onlar, Tyranid'in en gizli ve en sinsi lider yaratığıdır. Broodlord'un en büyük özelliği, onun sinsiliğidir — onlar, bir Genestealer Cult'un en yüksek rütbeli komutanıdır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Broodlord, hem bir yaratık hem de bir liderdir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Broodlord'un en ünlü özelliği, onun Genestealer Cult'un lideridir — onlar, bir kültün en gizli ve en sinsi lideridir ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır. Broodlord, Tyranid'in en gizli ve en sinsi lider yaratığıdır — onlar, bir liderin ve Tyranid'in en sinsi gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Genestealer Cults*; *Codex: Tyranids*

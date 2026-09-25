@@ -15,6 +15,6 @@ Apothecary Pindar ve Iron Snakes'ın bağımsız operasyonları; bölüğün 'It
 
 ## Tarihçe
 
-Dan Abnett'in Iron Snakes başlangıcı; Sergeant Priad ve Damocles Mangasının Reef Stars savunması. Chapter içi kültür ve 'Space Marine'in insanlığı' teması.
+Brothers of the Snake, Dan Abnett'in yazdığı ve Iron Snakes Chapter'ının hikâyesini anlatan bir romandır. Bu roman, Iron Snakes Chapter'ının en önemli hikâyesini anlatır; roman, Iron Snakes Chapter'ının en önemli hikâyesidir. Bu roman, Iron Snakes Chapter'ının en önemli hikâyesidir; roman, Iron Snakes Chapter'ının en önemli parçasıdır. Roman, Iron Snakes Chapter'ının en önemli hikâyesi olarak kalır.
 
 -# Kaynaklar: Black Library

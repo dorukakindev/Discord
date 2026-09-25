@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e3/SeverusAgemmanTermina
 
 ## Tarihçe
 
-Severus Agemman, Ultramarines'in elit Veteran 1. Bölüğü'nün mevcut kaptanı ve 'Kalenin Efendisi' ile Ultramar Naibi'dir; Chapter Master başka işle meşgulken Macragge'ı yönetir. 200 yılı aşkın süredir 1. Bölüğü komuta eder — 'yaşayan tecrübe deposu' olarak Ultramar'ın en kıdemli saha komutanıdır.
+Severus Agemman, Ultramarines'in en ünlü ve en onurlu Captain'ıdır; Veteran 1. Bölük'ün kaptanı olan ve Indomitus Pattern Terminator Armour'u taşıyan Agemman, İmparatorluğun en saygın ve en onurlu savaşçısıdır — onlar, Ultramarines'in en ünlü ve en onurlu üyesidir. Severus Agemman'ın en büyük özelliği, onun onurudur — onlar, Ultramarines'in en yüksek rütbeli Veteran kaptanıdır ve onların varlığı, Ultramarines'in en büyük onurunun kanıtıdır; bir Agemman komutası, bir Chapter'ın en onurlu zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Severus Agemman'ın en ünlü özelliği, onun 1. Bölük'ün kaptanıdır — onlar, bir Chapter'ın en yüksek rütbeli Veteran kaptanıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır. Severus Agemman, Ultramarines'in en ünlü ve en onurlu Captain'ıdır — onlar, bir onurun ve Ultramarines'in en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

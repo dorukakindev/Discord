@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/36/Revuel_Arvida.jpg/rev
 
 ## Tarihçe
 
-Revuel Arvida, Thousand Sons'ın 4. Bursu'nun çavuşu ve Corvidae Kültü'nün üyesiydi; Heresy'nin ilk günlerinde hainlere karşı savaşan sadık psyker olarak bilinir. Kaptanı Menes Kalliston'un timiyle Prospero'nun yıkıntılarına giden figürlerden biri olarak 'düşmüş lejyonun sadık kalanı' efsanesinin parçasıdır — sonradan White Scars'la birleşip 'yeni yolu' arayan ilk TS'lilerden.
+Revuel Arvida, Thousand Sons'ın en ünlü ve en trajik sadık üyesidir; Horus Heresy sırasında kendi Legion'unun ihanetini reddeden ve ilk Grey Knight'lardan biri olan Arvida, İmparatorluğun en trajik ve en önemli savaşçısıdır — onlar, Thousand Sons'ın en ünlü ve en trajik üyesidir. Revuel Arvida'nın en büyük özelliği, onun trajedisidir — onlar, bir Legion'un ihanetini reddeden ve ilk Grey Knight'lardan biri olan en trajik savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Arvida, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Revuel Arvida'nın en ünlü özelliği, onun ilk Grey Knight'lardan biri olmasıdır — onlar, bir Chapter'ın doğuşunun en trajik tanığıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Revuel Arvida, Thousand Sons'ın en ünlü ve en trajik sadık üyesidir — onlar, bir trajedinin ve İmparatorluğun en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -11,7 +11,7 @@
 
 ## Tarihçe
 
-Red Widow ('Kızıl Dul'), Imperial Fists'in Iron Warriors'ın Fortress World Malodrax'ına saldırısı sırasında karşılaşılan güçlü bir Chaos daemon'udur. Kaptan Darnath Lysander bin yıllık esaretten kaçıp chapter'ın takviyesiyle dönüp hainlere son vermeye geldiğinde ortaya çıktı; mercan-resif labirentlerinde yaşayan bu varlık 'ağ ören' avcı olarak Lysander'ın en tehlikeli düşmanlarından biriydi.
+Red Widow, Chaos'un en gizli ve en tehlikeli daemon'ıdır; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en gizli sırlarını saklayan Red Widow, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli daemon'udur. Red Widow'un en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli daemon'dur ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Red Widow, hem bir daemon hem de bir sırdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Red Widow'un en ünlü özelliği, onun 'Widow' lakabıdır — onlar, Chaos'un en gizli ve en tehlikeli daemon'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Red Widow, Chaos'un en gizli ve en tehlikeli daemon'ıdır — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

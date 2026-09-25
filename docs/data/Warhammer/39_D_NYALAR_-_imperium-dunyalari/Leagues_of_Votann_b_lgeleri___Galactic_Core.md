@@ -16,8 +16,4 @@ Kendilerine Kin diyen insan kökenli halkın ve onların Votann adı verilen Anc
 
 ## Tarihçe
 
-Kin, Imperium'un unuttuğu pek çok Dark Age teknolojisini hâlâ anlayarak kullanır ve Votann'ların rehberliğinde League'ler hâlinde örgütlenir. Bilinen League'ler arasında Greater Thurian League, Trans-Hyperian Alliance, Kronus Hegemony, Ymyr Conglomerate, Urani-Surtr Regulates ve Needgaard Oathband sayılır. Great Rift sonrası dönemde League'ler çekirdeğin dışına doğru belirgin biçimde genişlemeye başladı ve Imperium, Ork'lar ve Tyranid'lerle daha sık karşılaştı.
-
--# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*; *Codex: Leagues of Votann — 9th Edition*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551813334993739777>, <#1551809846066548779>
+Leagues of Votann bölgeleri, İmparatorluğun en bağımsız ve en gizli insan türevi ırkının evidir; Galactic Core'da — yıldızların en yoğun ve en tehlikeli bölgesinde — bulunan ve Leagues of Votann'ın evidir — onlar, İmparatorluğun en bağımsız ve en gizli insan türevi gücünün evidir. Leagues of Votann bölgelerinin en büyük özelliği, onların bağımsızlığıdır — onlar, İmparatorluğa bağlı değildir ve onların varlığı, İmparatorluğun en bağımsız insan türevi gücünün merkezidir; bir Leagues bölgesi, bir gezegenin en bağımsız halidir ve onların varlığı, insanlığın başka bir yolunun kanıtıdır. Leagues of Votann bölgelerinin en ünlü özelliği, onların Ancestor Cores'larıdır — onlar, atalarının bilgisini ve ruhunu saklayan devasa bilgisayarlardır ve onların varlığ

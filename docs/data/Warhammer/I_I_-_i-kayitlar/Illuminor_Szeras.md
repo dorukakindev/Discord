@@ -12,7 +12,7 @@ Kapsam notu: Biotransference'ın uygarlık düzeyindeki sonuçları <#1551759762
 
 ## Tarihçe
 
-Illuminor Szeras, Necron'un efsanevi Cryptek'idir — biotransference'ın mimarlarından biri olarak ırkını 'makineye çeviren' bilim adamı. Organik bedenleri hâlâ 'geliştirmeye' çalışan bu figür, 'çalışan cerrah' olarak sayısız dünyada deneyler yapar — Necron'un kendi karanlık doktoru.
+Illuminor Szeras, Necron'ların en ünlü ve en tehlikeli Cryptek'idir; Necron'ların en büyük bilim insanı olan ve onların en gizli teknolojisini yaratan Szeras, Necron'ların en tehlikeli ve en gizli varlığıdır — onlar, Necron'ların en ünlü ve en tehlikeli bilim insanıdır. Illuminor Szeras'ın en büyük özelliği, onun bilimidir — onlar, N
 
 ## Biotransference'ın Mimarı
 Necrontyr'in trajedisi, kısa ve acı dolu ömürleriyle başladı; C'tan'ın vaadi bu yarayı kapatmak üzere geldi. Kaynaklar, yıldız-tanrılarının Necrontyr'e sunduğu bilginin tek başına bir dönüşümü mümkün kılmadığını, o bilgiyi gerçek bir sürece çeviren cryptek emeğinin Szeras'ta yoğunlaştığını anlatır. Onun katkısının ne kadarının kendi buluşu, ne kadarının C'tan'dan devşirilmiş bilgi olduğu yayımlanmış kanonda kesin çizgilerle ayrılmaz; arşiv bu yüzden onu biotransference'ın "tek yaratıcısı" olarak değil, sürecin tasarımında ve uygulanmasında kilit rol oynayan cryptek olarak kaydeder.

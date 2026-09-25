@@ -16,8 +16,4 @@ Kusursuz salgını yaratma takıntısıyla anılan bir Great Unclean One. Üzeri
 
 ## Tarihçe
 
-Ku'gath Plaguefather ('Veba Babası'), Nurgle'un en büyük Great Unclean One'larından biridir — 'salgının baba figürü' olarak bilinen bu dev daemon, yeni hastalıkları 'yavruları' gibi besleyen figürdür. Nursery'sinde yeni veba türleri yaratan bu figür, 'hastalığın mucidi' olarak Nurgle'un en verimli hizmetkârıdır.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Plague War — Guy Haley*; *Godblight — Guy Haley*
-
--# İlişkili kayıtlar: <#1551754683222327439>, <#1551654107058540595>, <#1551650329316036699>, <#1551818194841501818>
+Ku'gath Plaguefather, Nurgle'un en ünlü ve en korkulan Greater Daemon'ıdır; Nurgle'un en büyük veba üreticisi olan ve onun en sadık hizmetkârı olan Ku'gath, Chaos'un en tehlikeli ve en tiksindirici varlıklarından biridir — onlar, Nurgle'un en ünlü ve en korkulan daemon'udur. Ku'gath'ın en büyük özelliği, onun vebasıdır — onlar, Nurgle'un en güçlü vebasının yaratıcısıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Ku'gath, hem bir daemon hem de bir veba taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ku'gath'ın en ünlü özelliği, onun 'Plaguefather' lakabıdır — onlar, Nurgle'un en büyük veba üreticisidir ve onların varlığı, Nurgle'un 'sevgi'nin en büyük kanıtıdır. Ku'gath Plaguefather, Nurgle'un en ünlü ve en k

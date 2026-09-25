@@ -9,6 +9,4 @@ Indomitus'un kapsamı devasadır: sayısız dünya kurtarıldı, Primaris rezerv
 
 ## Tarihçe
 
-Guilliman'ın Ynnari yardımıyla dirilmesi ve Terra'ya dönüşü; ardından galaksiyi kurtarmak için başlattığı dev Haçlı Seferi. İmparatorluk'un son büyük toparlanma hamlesi — hâlâ sürüyor.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Indomitus Haçlı Seferi ve Guilliman'ın Dönüşü, İmparatorluğun en yeni ve en umutlu dönemidir; Guilliman'ın — Ultramarines'in primarch'ı — hayata döndürülmesi ve İmparatorluğa Primaris Space Marine'lerini kazandırmasıyla başlayan bir dönemdir — onlar, İmparatorluğun en büyük umudunun ve en büyük değişiminin somut halidir. Indomitus Haçlı Seferi'nin en büyük özelliği, onun umududur — onlar, İmparatorluğun en karanlık saatinde gelen yeni ışıktır ve onların varlığı, İmparatorluğun en büyük umudunun kanıtıdır; bir Indomitus Haçlı Seferi, bir imparatorluğun yenide

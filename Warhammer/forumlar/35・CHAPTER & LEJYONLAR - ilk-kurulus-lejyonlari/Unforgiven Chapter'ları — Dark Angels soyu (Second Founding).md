@@ -16,8 +16,4 @@ Dark Angels ile ardıllarının Fallen sırrını paylaşan ailesine verilen ort
 
 ## Tarihçe
 
-Scouring'den sonra Legion Codex Astartes uyarınca bölündüğünde, Fallen'ın varlığı yalnızca Inner Circle'ların bildiği bir sır olarak ardıllara da aktarıldı. O günden bu yana Unforgiven Chapter'ları zaman zaman ortak amaçla hareket etmiş, yakalanan Fallen'ı Dark Angels'a teslim etmiş ve bunu öteki Imperial kurumlardan gizlemiştir.
-
--# Kaynaklar: *Codex: Dark Angels*; *Angels of Darkness — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551813077991686208>, <#1551809277692215330>, <#1551816136679751721>
+Unforgiven, Dark Angels ve onların Second Founding'de kurulan halef Chapter'larıdır; ortak bir sır ve ortak bir görevle bağlıdırlar — Fallen Angels'ı, yani Chaos'a düşmüş eski Dark Angels kardeşlerini, avlamak ve İmparatorluğun en büyük utancını temizlemek. Unforgiven'ın üyeleri — Dark Angels, Angels of Absolution, Angels of Redemption, Angels of Vengeance ve diğerleri — hepsi aynı gene-seed'i ve aynı sırrı taşır; onların en büyük görevi, Fallen'ları bulmak ve onları Inner Circle'a teslim etmektir ve bu görevde, İmparatorluğun kanunlarından bile önce gelirler. Unforgiven'ın savaş doktrini, Dark Angels'ın geleneğinden doğar — onlar disiplinli, gizli ve acı

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/GW_The_Blue_Scribes.j
 
 ## Tarihçe
 
-Blue Scribes — 'Gök Mavisi Arcanolog'lar', 'Gezgin Büyücü-Kin'ler', 'Tzeentch'in Sorgucuları' — Büyük Değişim'in yarattığı iki Blue Horror: P'tarix ve Xirat'p. Disc of Tzeentch üzerinde gezerek bilinen her büyüyü kaydedip kopyalayan bu ikili, 'gölgeleri takip eden arşivci' olarak tanrının büyü hırsızlarıdır.
+Blue Scribes, Tzeentch'in en ünlü ve en gizli daemon'larıdır; Tzeentch'in en gizli bilgilerini toplayan ve onları saklayan iki daemon olan Blue Scribes, Chaos'un en gizli ve en bilgili varlıklarından biridir — onlar, Tzeentch'in en ünlü ve en gizli daemon'larıdır. Blue Scribes'ın en büyük özelliği, onların bilgisidir — onlar, Tzeentch'in en gizli bilgilerini toplayan ve onları saklayan en bilgili daemon'lardır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Blue Scribes, hem bir daemon hem de bir bilgindir ve onların varlığı, Tzeentch'in en gizli gücünün somut halidir. Blue Scribes'ın en ünlü özelliği, onların ikili olmasıdır — onlar, Tzeentch'in en gizli bilgilerini toplayan iki daemon'dır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır. Blue Scribes, Tzeentch'in en ünlü ve en gizli daemon'larıdır — onlar, bir bilginin ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552878727992578159>

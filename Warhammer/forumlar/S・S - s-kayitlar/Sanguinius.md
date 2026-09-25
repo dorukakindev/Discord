@@ -13,6 +13,10 @@ Primarch'ların Terra'dan savruluşunun ardından Sanguinius'un kapsülü, Baal 
 
 Emperor Baal'a ulaştığında Sanguinius'un babasını tanıyıp ona katıldığı anlatılır. Kabilenin en iyi savaşçıları IX Legion'a katıldı; Baal, o günden sonra Legion'ın kalbi, aday toplama alanı ve manevi yurdu hâline geldi. Primarch'ın Great Crusade yıllarındaki komutanlığı ve kişiliği, Chris Wraight'ın *Sanguinius: The Great Angel* romanıyla derinleştirilmiştir.
 
+## Tarihçe
+
+Sanguinius, Blood Angels'ın en ünlü ve en kutsal primarch'ıdır; Baal'ın — Blood Angels'ın ev gezegeni — en kutsal figürü olan ve Blood Angels'ı kuran Sanguiniu
+
 ## Kanatlar, Kehanet ve Kişilik
 Kanatlar, Sanguinius'u kardeşlerinden ilk bakışta ayıran niteliktir. Bunların Primarch projesinin kasıtlı bir sonucu mu, yoksa Baal'ın radyasyonlu ortamının ya da başka bir etkinin ürünü mü olduğu yayımlanmış kanonda kesin biçimde açıklanmamıştır. Imperium'un sonraki inancı onları ilahi bir işaret sayarken ansiklopedi bu yorumu evren-içi söylem olarak kaydeder.
 

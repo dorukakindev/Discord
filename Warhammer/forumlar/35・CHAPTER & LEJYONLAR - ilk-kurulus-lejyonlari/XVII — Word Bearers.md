@@ -16,8 +16,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/66/WordBearersArmourial.
 
 ## Tarihçe
 
-Emperor'u tanrı olarak yücelten Legion, Monarchia'da Emperor'un Ultramarines önünde Lorgar'ı azarlamasıyla derin bir yara aldı. Kor Phaeron ve Erebus'un yönlendirmesiyle Chaos'a yönelen Lorgar, Horus'un düşüşünde belirleyici rol oynadı. Heresy'de Calth'ta Ultramarines'e ihanet ederek Shadow Crusade ile Ultramar'ı kana buladılar. Heresy'den sonra Legion, Dark Apostle'ların yönettiği dinsel bir ordu olarak uzun savaşı sürdürmektedir.
+Word Bearers (XVII Legion), Lorgar Aurelian'ın oğullarıdır; din, ibadet ve Chaos'a adanmışlık üzerine kurulu ve Horus Heresy'yi başlatan Legion'dur — onların savaşı, hem askeri hem de dini bir seferdir. Word Bearers'ın en büyük özelliği, onların inancıdır — onlar, İmparator'a tapınmaktan Chaos'a tapınmaya geçen ilk Legion'dur ve onların savaşı, hem öldürmek hem de dönüştürmektir; bir Word Bearer, düşmanını öldürmez, onu Chaos'a kazandırır ve onların savaşı, bir misyoner seferidir. Word Bearers'ın en büyük suçu, Heresy'nin mimarı olmalarıdır — Erebus ve Lorgar, Horus'u Chaos'a çevirenlerdir ve onların savaşı, İmparatorluğun en büyük ihanetinin devamıdır; onların hedefi, sadece İmparatorluğu yıkmak değil, onu Chaos'un dinine çevirmektir. Word Bearers, İmparatorluğun en tehlikeli ve en fanatik düşmanıdır — onlar, Chaos'un rahipleri ve savaşçılarıdır.
 
 -# Kaynaklar: *The First Heretic — Aaron Dembski-Bowden*; *Know No Fear — Dan Abnett*; *Dark Apostle — Anthony Reynolds*
 
--# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763>, <#1551809394226765939>
+-# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763

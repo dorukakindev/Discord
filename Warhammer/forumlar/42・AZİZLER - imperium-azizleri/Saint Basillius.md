@@ -12,6 +12,6 @@ Aziz Basillius, İmparatorluk İnancı'nın en karanlık ve en ibret verici fig�
 
 ## Tarihçe
 
-Saint Basillius, 36. Binyıl'da 'Abyssal Crusade' olarak bilinen felaket seferinin arkasındaki figürdür — otuz Chapter'lık Astartes gücünü Eye of Terror'a süren fanatik konsey lideri. Sefer bir felaketle sonuçlandı (çoğu Chapter yok oldu veya Chaos'a döndü) ve Basillius ölümünden sonra bile tartışmalı bir aziz olarak anılır; Abyssal Crusade İmparatorluk'un en pahalı hatalarından biridir.
+Saint Basillius, Sisters of Battle'ın en ünlü ve en kutsal azizidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizi olan Basillius, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizidir. Saint Basillius'un en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizdir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Basillius, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Basillius'un en ünlü özelliği, onun aziz unvanıdır — onlar, İmparatorluğun en kutsal ve en önemli azizidir ve onların varl��ğı, İmparatorluğun dininin en büyük kanıtıdır. Saint Basillius, Sisters of Battle'ın en ünlü ve en kutsal azizidir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

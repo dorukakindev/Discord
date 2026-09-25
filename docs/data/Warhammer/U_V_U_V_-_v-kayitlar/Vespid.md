@@ -8,6 +8,10 @@ Vespid, T'au Empire'a bağlı kanatlı, böceksi bir türdür. Kroot'la birlikte
 
 Kaynaklar Vespid'in anayurdunu sert koşullu bir dünya olarak anlatır; türün kanatları, bedeni ve toplumsal düzeni bu çevrenin ürünü olarak tasvir edilir. Vespid toplumu, kaynaklarda **strain** diye anılan soylara ya da gruplara bölünmüştür. Bu yapının bir böcek kovanına ne ölçüde benzediği, bireylerin ne kadar bağımsız düşünebildiği ya da kolektif bir bilince sahip olup olmadıkları kanonda kesinleştirilmez; Imperial yorumcular bu belirsizliği çoğu zaman kendi önyargılarıyla doldurur.
 
+## Tarihçe
+
+Vespid, WH40K evreninin en tuhaf ve en sadık xeno türlerinden biridir; böcek benzeri, uçan ve T'au Empire'a tamamen bağlı bir türdür — onlar, Greater Good'un en sadık ve en kullanışlı müttefikleridir. Vespid'in en büyük özelliği, onların sadakatidir — onlar, T'au Empire'a tamamen bağlıdır ve onların savaşı, sadece Greater Good içindir; bir Vespid, hem savaşçı hem de müttefiktir ve onların varlığı, T'au'nun en değerli müttefiklerinden biridir. Vespid'in en ünlü özelliği, onların uçuşudur — onlar, hızlı ve çevik uçuculardır ve onların savaşı, hem hava desteği hem de yakın dövüştür; bir Vespid Stingwing, bir T'au birliğinin en değerli hava desteğidir. Vespid, T'au Empire'ın en sadık ve en kullanışlı müttefikidir — onlar, Greater Good'un en sadık çocuklarıdır.
+
 ## T'au Empire'a Katılış
 Vespid'in imparatorluğa katılışı, Water Caste'ın diplomatik girişimleriyle kurulan bir ilişki olarak anlatılır. İki tür arasındaki iletişim güçlüğü bu ilişkinin merkezindedir: T'au'nun sunduğu teknoloji olmadan emir verip almak, anlaşma yapıp bozmak neredeyse imkânsızdır. Bu yüzden katılımın ne ölçüde gönüllü olduğu, Vespid'in Tau'va'yı gerçekten kavrayıp kavramadığı ya da yalnızca kendi toplumsal düzeni içinde yeni bir hiyerarşiyi mi kabul ettiği sorusu açık kalır. T'au anlatısında bu, Greater Good'un kapsayıcılığının kanıtıdır; Imperium'un gözünde ise xenos türlerinin T'au etrafında toplanmasının tedirgin edici bir örneği.
 ---MSG---

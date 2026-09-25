@@ -16,8 +16,6 @@ Phoenix Lord'ların ilki ve Dire Avengers Aspect'inin kurucusu. Asurmen, Fall'u 
 
 ## Tarihçe
 
-Asurmen — doğum adı Iliathin, 'Asuryan'ın Eli' — efsanevi Craftworld Aeldari Phoenix Lord'larının ilki ve en eskisidir; Aspect Warriors'ın kendisi bu kadim Exarch'lardan yaratılmıştır. Dire Avengers'ın kurucusu olarak 'tüm Phoenix'lerin babası' sayılır — Aeldari'nin savaş geleneğinin başlangıcı.
-
--# Kaynaklar: *Asurmen: Hand of Asuryan — Gav Thorpe*; *Codex: Aeldari*
+Asurmen, Aeldari'nin en efsanevi ve en güçlü savaşçısıdır; Phoenix Lord'ların ilki ve Dire Avengers Aspect'inin kurucusu olan Asurmen, Aeldari'nin en büyük savaşçı geleneğinin ve onların en ölümlü gücünün simgesidir — onlar, Aeldari'nin en efsanevi ve en kutsal savaşçısıdır. Asurmen'in en büyük özelliği, onun ölümsüzlüğüdür — onlar, Phoenix Lord olarak ölümsüzdür ve onların varlığı, Aeldari'nin en büyük savaşçı geleneğinin kanıtıdır; bir Asurmen, hem bir savaşçı hem de bir efsanedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Asurmen'in en ünlü özelliği, onun Dire Avengers'ın kurucusudur — onlar, Aeldari'nin en ünlü Aspect'inin yaratıcısıdır ve onların varlığı, Aeldari'nin savaş sanatını
 
 -# İlişkili kayıtlar: <#1551812290439942255>, <#1551814105046851615>, <#1551810744754905123>, <#1551810506078290021>

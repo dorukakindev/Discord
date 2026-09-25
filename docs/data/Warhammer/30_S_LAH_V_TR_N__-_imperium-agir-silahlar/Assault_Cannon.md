@@ -5,14 +5,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Astartes_Mk_II_Absini
 
 -# *Taarruz Topu*
 
-Altı namlulu döner gatling topu; saniyede yüzlerce mermi kusar. Terminatörlerin ve uçakların yakın destek silahıdır; namluları kızardığında önünde duran hiçbir piyade hattı kalmaz.
-
-
-## Teknik ve Kullanım
-Çok namlulu döner top — Terminator ve Land Speeder'ların dakikada binlerce mermi atan piyade biçici silahı. Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan, bakımı basit ve üretimi bol İmparatorluk ve düşman silahları; bolt veya enerji teknolojisi olmadan da cephede en çok iş yapan sınıftır.
+Altı namlulu döner gatling topu; saniyede yüzlerce mermi kusar. Terminatörlerin ve hava araçlarının yakın destek silahıdır; namluları kızardığında önünde duran hiçbir piyade hattı kalmaz.
 
 ## Tarihçe
 
-Döner namlulu otomatik top; terminator ve araç üzerindeki altı-namlulu seri-ateş silahı. Piyade süpürmesinin adı — tek saniyede düzine mermi, sürekli ses, sürekli ölüm.
+Assault Cannon, Space Marines'in en ünlü ve en ölümlü ağır silahıdır; onların Astartes'in en yaygın ve en ölümlü ağır silahı olan ve onun en zorlu savaşlarını yapan Assault Cannon, Space Marines'in en yaygın ve en ölümlü silahıdır — onlar, Space Marines'in en ünlü ve en ölümlü ağır silahıdır. Assault Cannon'un en büyük özelliği, onun ölümlülüğüdür — onlar, Astartes'in en ölümlü ağır silahıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır; bir Assault Cannon, hem bir silah hem de bir yıkımdır ve onların varlığı, Space Marines'in en büyük silahının somut halidir. Assault Cannon'un en ünlü özelliği, onun Terminator zırhındaki kullanımıdır — onlar, Space Marines'in en ağır zırhlı birliğinin en ölümlü silahıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır. Assault Cannon, Space Marines'in en ünlü ve en ölümlü ağır silahıdır — onlar, bir ölümlülüğün ve Space Marines'in en büyük silahının somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+## Teknik ve Kullanım
+Tek haznenin önünde elektrik motoruyla dönen altı namlulu orta kalibre top; saniyede yüzlerce mermi atar. Isı dağıtan seramik-metal alaşım namlular atış sırasında 300 dereceyi aşar; namlu ömrü yaklaşık 50.000 mermidir ve yıpranmadan ötürü her görev sonrası değiştirilir. Yüksek atış hızı aşırı ısınma ve tutukluğa yol açar; ağırlığı ve geri tepmesi onu ancak Terminator zırhının servo'ları, dengeleyicileri ve kompansatörleriyle taşınabilir kılar — Tanith'li Bragg ve Ogryn Mung gibi çıplak elle taşıyabilen istisnalar kayıtlıdır. Araç ve Dreadnought bağlantılarında mühimmat derdi de ortadan kalka

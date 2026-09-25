@@ -16,6 +16,4 @@ Silvana'nın kültü, 'sürekli nöbet' geleneğini temsil eder — Ophelia VII'
 
 ## Tarihçe
 
-Saint Silvana, İmparatorluk'un bilinen azizlerinden biridir; kültü Calixis Sektörü ve çevresinde yaygındır. Kaynaklarda mucizevi yaşamı ve şehitliğiyle anılır — pek çok shrine dünyası ve Sororitas birliği adını ondan alır; kemikleri gömülü olduğu dünyalar hac merkezine dönüşmüştür.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Silvana, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Silvana, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Silvana'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirl

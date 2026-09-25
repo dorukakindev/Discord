@@ -44,6 +44,10 @@ Başarısızlık Sisterhood'da ağır bir yüktür. Kendini günahkâr sayan ya 
 ## Doktrin ve Savaş Tarzı
 Orders Militant'ın savaş tarzı yakın ve orta mesafede yoğun ateş gücüne dayanır: bolter, flamer ve melta bu geleneğin simgesidir. Battle Sister kadroları çekirdeği oluştururken jump pack kuşanan **Seraphim**, ağır silah taşıyan **Retributor**, öncü **Dominion** birlikleri ve seçkin **Celestian**'lar farklı görevleri üstlenir. Organ borularını andıran füze rampalarıyla Exorcist, alev püskürten Immolator, günahkârların içine hapsedildiği Penitent Engine ve Mortifier'lar ile Paragon Warsuit'ler bu orduya kendine özgü bir çehre verir.
 
+## Tarihçe
+
+Adepta Sororitas (Sisters of Battle), İmparatorluğun en fanatik ve en sadık askeri gücüdür; İmparator'a olan inançla savaşan ve Ecclesiarchy'nin askeri kolu olan kadın savaşçılardır — onlar, İmparato
+
 ## Önemli Figürler ve Kilit Olaylar
 **Saint Celestine**, Imperial inancında Living Saint olarak anılan, defalarca ölüp yeniden ortaya çıktığına inanılan bir figürdür. Saint Katherine'in zırhını ve Ardent Blade'i kuşanan Celestine, Geminae Superia adı verilen iki muhafızıyla birlikte Cadia'nın son savunmasında Ursarkar Creed'in yanında savaşmıştır. Onun gerçekten God-Emperor'ın bir tezahürü olup olmadığı, evren içinde de ansiklopedik açıdan da açık bir sorudur; kaynaklar kesin bir hüküm vermez.
 

@@ -15,12 +15,8 @@ Güçlü arka bacaklarıyla sıçrayarak ilerleyen, önkollarındaki orak pençe
 
 ## Tarihçe
 
-Hormagaunt, Hive Fleet'in en tehlikeli Tyranid yaratıklarından biridir — boyutu ya da vahşeti yüzünden değil, kontrolsüz çoğalması yüzünden. Bir gezegene saldırıldığında Mycetic Spore'larla ekilirler; hızla üreyip gezegende katliam sürüsü olarak koşarlar. 'Bitmeyen dalga' olarak piyade savaşının en yorucu düşmanıdır — bir Hormagaunt gördüyseniz binleri geliyordur.
+Hormagaunt, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır; bir Tyranid ordusunun en küçük yakın dövüş birliği olan ve onun en yaygın savaşlarını yapan Hormagaunt, Tyranid'in en küçük ve en yaygın varlığıdır — onlar, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır. Hormagaunt'ın en büyük özelliği, onun yaygınlığıdır — onlar, bir Tyranid ordusunun en küçük ve en yaygın yakın dövüş birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Hormagaunt, hem bir yaratık hem de bir askerdir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Hormagaunt'ın en ünlü özelliği, onun küçüklüğüdür — onlar, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Hormagaunt, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır — onlar, bir askerin ve Tyranid'in en büyük gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Scything talon'lar, sıçramaya uyarlanmış bacaklar, hızlı hareket. Kaynaklar, synapse denetiminden çıkan Hormagaunt'ların avlanma ve beslenme içgüdüsüne döndüğünü anlatır; bu nedenle Hive Mind'ın sürüyü dağılmadan tutmak için synapse organizmalarına ihtiyaç duyduğu vurgulanır.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+Scything talon'lar, sıçramaya uyarla

@@ -28,4 +28,7 @@ Adlarının da gösterdiği gibi, Librarian'lar yalnızca savaşçı değil, ayn
 - Chapter'ın bilgi hazinesi Librarius'u korur ve yönetir
 - Psişik iletişim, kehanet ve savaş büyüsünde uzmanlaşır
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Librarian, Space Marines'in en ünlü ve en güçlü psyker'ıdır; onların Astartes'in en güçlü ve en bilgili psyker'ı olan ve onun en gizli operasyonlarını yöneten Librarian, Space Marines'in en güçlü ve en önemli üyesidir — onlar, Space Marines'in en ünlü ve en güçlü psyker'ıdır. Librarian'ın en büyük özelliği, onların psişik gücüdür — onlar, Astartes'in en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır; bir Librarian, hem bir

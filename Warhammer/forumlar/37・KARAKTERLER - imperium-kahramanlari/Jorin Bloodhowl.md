@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/eb/Wulfen_Sigil.png/revi
 
 ## Tarihçe
 
-Jorin Bloodhowl, Büyük Sefer döneminde Space Wolves'un efsanevi ve kayıp Dekk-Tra (13.) Büyük Bölüğü'nün Jarl'ı (Wolf Lord)uydu. Kadim ve çelişkili kayıtlar, onun bu efsanevi 13. Bölüğün komutanlığını bizzat Primarch Leman Russ'tan aldığını söyler. Bölük daha sonra Warp'a kaybolup Space Wolves'un 'kayıp kardeşler' efsanesinin merkezi oldu; Bloodhowl'un akıbeti bilinmez ama adı Fenris'in kahramanlık destanlarında yaşar.
+Jorin Bloodhowl, Space Wolves'un en efsanevi ve en eski Wolf Lord'udur; VI Legion'ın en büyük savaşçılarından biri olan ve Russ tarafından Bloodhowl Great Company'nin lideri olarak seçilen Jorin, Space Wolves'un en eski ve en efsanevi üyesidir — onlar, Space Wolves'un en eski ve en efsanevi üyesidir. Jorin Bloodhowl'un en büyük özelliği, onun eskiliğidir — onlar, VI Legion'ın en büyük savaşçılarından biridir ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır; bir Jorin, hem bir savaşçı hem de bir efsanedir ve onların savaşı, hem fiziksel hem de mitolojiktir. Jorin Bloodhowl'un en ünlü özelliği, onun Bloodhowl Great Company'nin lideridir — onlar, Russ'ın en sadık ve en eski takipçisidir ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır. Jorin Bloodhowl, Space Wolves'un en efsanevi ve en eski Wolf Lord'udur — onlar, bir efsanenin ve Space Wolves'un en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

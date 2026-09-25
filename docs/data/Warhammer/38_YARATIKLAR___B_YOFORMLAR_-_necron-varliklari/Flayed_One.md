@@ -12,6 +12,6 @@ Lanetin kökeni, bir C'tan'a (muhtemelen Llandu'gor, "the Flayer" denen parçala
 
 ## Tarihçe
 
-Kurtulmuş Necron'ların düşmüş hali; Flayer virüsü onları canlı et yemeğe sürükler. Metal bedenleriyle düşmanın üstüne insan derisi giyerler — en korkulan Necron türüdür.
+Flayed One, Necron'ların en gizli ve en korkulan varlığıdır; Flayer Virus'ü yakalanan ve et yiyen en korkulan Necron olan Flayed One, Necron'ların en gizli ve en korkulan varlığıdır — onlar, Necron'ların en gizli ve en korkulan varlığıdır. Flayed One'ın en büyük özelliği, onun deliliğidir — onlar, Flayer Virus'ü yakalanan ve et yiyen en delirmiş Necron'dur ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Flayed One, hem bir makine hem de bir canavardır ve onların varlığı, Necron'ların en büyük tehdidinin somut halidir. Flayed One'ın en ünlü özelliği, onun et yemesidir — onlar, bir Necron'un delirmiş halidir ve onların varlığı, Necron'ların en büyük trajedisinin kanıtıdır. Flayed One, Necron'ların en gizli ve en korkulan varlığıdır — onlar, bir deliliğin ve Necron'ların en büyük trajedisinin somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warh

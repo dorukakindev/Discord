@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/16/RG_Legion_Icon.jpg/re
 
 ## Tarihçe
 
-Navar Hef, 31. Binyıl başında Raven Guard lejyonunun tanınmış savaşçı ve subayıydı. Deliverance'ta doğup Corax'ın hain kardeşi Horus'la yüzleşmek için Istvaan'a gitmeden önce XIX. Lejyon'un aspirantlarından biri seçilmişti; Drop Site Massacre'ın dehşetli kayıplarından sonra hayatta kalıp lejyonun küllerden yeniden doğuşuna katılan figürlerden biridir.
+Navar Hef, Raven Guard'ın en ünlü ve en cesur subayıdır; 31. Binyıl'ın başında Deliverance'de yetişen ve Raven Guard'ın en deneyimli savaşçısı olan Hef, İmparatorluğun en gizli ve en cesur savaşçısıdır — onlar, Raven Guard'ın en ünlü ve en cesur üyesidir. Navar Hef'in en büyük özelliği, onun cesaretidir — onlar, Raven Guard'ın en deneyimli subayıdır ve onların varlığı, Raven Guard'ın en gizli gücünün kanıtıdır; bir Hef, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Navar Hef'in en ünlü özelliği, onun Deliverance'deki yetişmesidir — onlar, Raven Guard'ın en gizli ve en cesur savaşçısıdır ve onların varlığı, Raven Guard'ın en büyük gücünün kanıtıdır. Navar Hef, Raven Guard'ın en ünlü ve en cesur subayıdır — onlar, bir cesaretin ve Raven Guard'ın en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

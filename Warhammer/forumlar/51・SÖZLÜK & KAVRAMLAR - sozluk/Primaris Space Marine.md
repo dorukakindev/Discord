@@ -10,6 +10,6 @@ Primaris Space Marine (Primaris Space Marine), klasik Space Marine'lerin gelişt
 
 ## Tarihçe
 
-Primaris Space Marine, Belisarius Cawl'ın on bin yılda geliştirdiği gelişmiş Astartes formudur; daha büyük, daha güçlü ve daha dayanıklıdır. Indomitus Haçlı Seferi'nde sahaya çıktılar; bazı Chapter'lar onları ilk Marine'lere üstün sayar, bazıları ise 'küçük primarchs' olarak görüp kuşkuyla yaklaşır.
+Primaris Space Marine, Belisarius Cawl'ın tasarladığı ve Ultima Founding ile İmparatorluğa katılan yeni nesil Space Marine'dir; standart Astartes'ten daha büyük, daha güçlü ve üç ek genetik organı taşıyan gelişmiş bir savaşçıdır. Primaris'in kökeni Büyük Haçlı Seferi'ne dayanır — İmparator, Cawl'a primarch genetik malzemesinden daha iyi bir Space Marine yapmasını emretti ve Cawl, on bin yıl boyunca Mars'ın derinliklerinde bu projeyi gizlice sürdürdü. Primaris'in ek organları: Sinew Coils (kas gücünü artırır), Magnificat (hormon kontrolü) ve Belisarian Furnace (ölümcül yaralarda vücudu hayata döndürür); bunlar onu standart Marine'den daha dayanıklı ve daha ölümcül kılar. Primaris'in gelişi İmparatorluğu kurtardı — Indomitus Crusade'in omurgası onlardı; ama aynı zamanda eski Chapter'lar arasında şüphe ve kıskançlık yarattı çünkü onlar, 'gerçek' Space Marine'in yerine konulan yeni bir model gibi görülüyorlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

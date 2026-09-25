@@ -15,12 +15,10 @@ Klasik fişekli mermi ateşleyen otomatik tüfektir. Lasgun kadar sağlam ve sta
 
 ## Tarihçe
 
-Imperium'un pek çok dünyasında Planetary Defence Force'lar ve yardımcı birlikler lasgun yerine ya da yanında autogun kullanır. Hive dünyalarının alt katmanlarında çete savaşlarının gündelik silahıdır. Genestealer Cults ayaklanmalarında madenci ve işçi kılığındaki Neophyte'ların elinde, Chaos kültlerinde ise yağmalanmış depolardan çıkan silahlar arasında sıkça görülür.
+Autogun, İmparatorluğun en eski ve en basit ateşli silahıdır; katı mermi fırlatan ve lasgun'dan daha eski bir teknoloji olan ama hâlâ yaygın olarak kullanılan, güvenilir ve ucuz bir silahtır. Autogun'un çalışması basittir — barut veya benzeri itici, mermiyi namludan fırlatır ve mermi, kinetik enerjiyle hedefi deler; bir autogun atışı, lasgun'dan daha güçlüdür ama daha yavaştır ve daha fazla bakım gerektirir. Autogun, İmparatorluğun en demokratik silahıdır — herkes üretebilir, herkes tamir edebilir ve herkes kullanabilir; ve onun basitliği, onu İmparatorluğun en uzak köşelerinde bile bulunabilir kılar. Autogun, İmparatorluğun en eski geleneğidir — onun atışı, insanlığın en eski savaş sesidir ve onun varlığı, İmparatorluğun en eski savunmasıdır.
 
 ## Teknik / Biyolojik Özellikler
 
-Mühimmatı fiziksel olarak taşınması gereken fişeklerdir; bu nedenle lojistiği lasgun'a göre zorlu sayılır. Tasarımlar dünyadan dünyaya büyük farklılık gösterir.
-
--# Kaynaklar: *Codex: Genestealer Cults*; *Codex: Chaos Space Marines — 10th Edition*; *Codex: Astra Militarum — 10th Edition*
+Mühimmatı fiziksel olarak taşınması gereken fişeklerdir; bu nedenle lojistiği lasgun'a göre zorlu s
 
 -# İlişkili kayıtlar: <#1551759784821137419>, <#1551812325521100811>, <#1551753458779029565>, <#1551815439078658154>

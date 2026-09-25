@@ -16,4 +16,4 @@ Bir Plaguebearer'ın tehlikesi fiziksel değil biyolojiktir: taşıdığı 'Nurg
 
 ## Tarihçe
 
-Plaguebearer — 'Kurtçuk-Kin', 'Nurgle'un Saymanı' — Lord of Decay'in daemonik lejyonlarının piyade askeridir. Bu iğrenç yaratıklar, Nurgle'ın Çürümesi tarafından öldürülen ölümlülerin lekeli ruhlarından dövülür; her biri vücudundaki ur ve kurtları sayan 'yaşayan sayım' olarak Nurgle'un hastalık muhasebesini tutar. Veba ta
+Plaguebearer, Nurgle'un en ünlü ve en sinsi daemon'ıdır; Nurgle'un 'sevgi'sini yayan ve onun en sinsi operasyonlarını yapan en sinsi daemon olan Plaguebearer, Chaos'un en sinsi ve en tehlikeli varlıklarından biridir — onlar, Nurgle'un en ünlü ve en sinsi daemon'udur. Plaguebearer'ın en büyük özelliği, onun sinsiliğidir —

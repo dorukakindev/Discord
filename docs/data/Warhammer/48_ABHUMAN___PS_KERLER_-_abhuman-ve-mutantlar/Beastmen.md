@@ -10,6 +10,6 @@ Beastmen (Homo sapiens variatus), abhuman soyları içinde en tartışmalı ve e
 
 ## Tarihçe
 
-Beastmen (Homo sapiens variatus), İmparatorluk'un insansı-hayvan abhuman varyantlarından biridir; kıllı, boynuzlu ve vahşi görünümlü bu mutantlar eskiden Imperial Guard'da penitent birlikler olarak savaşırdı. Modern Imperium'da toleransları azaldı — çoğu şimdi marjinalleştirilmiş, korkulan veya yasaklı figürlerdir.
+Beastmen, İmparatorluğun en ünlü ve en eski abhuman ırkıdır; insan-hayvan melezi olan ve İmparatorluğun en eski abhuman ırkı olan Beastmen, İmparatorluğun en eski ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en eski abhuman ırkıdır. Beastmen'in en büyük özelliği, onun eskiliğidir — onlar, İmparatorluğun en eski abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır; bir Beastmen, hem bir abhuman hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Beastmen'in en ünlü özelliği, onun insan-hayvan melezidir — onlar, İmparatorluğun en eski ve en hayvan benzeri abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Beastmen, İmparatorluğun en ünlü ve en eski abhuman ırkıdır — onlar, bir geleneğin ve İmparatorluğun en büyük tarihinin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

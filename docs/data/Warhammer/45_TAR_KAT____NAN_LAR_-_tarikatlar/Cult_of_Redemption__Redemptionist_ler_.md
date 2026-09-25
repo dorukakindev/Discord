@@ -16,8 +16,8 @@ Mutantları, izinsiz psykerleri ve günahkâr saydığı her şeyi ateşle arın
 
 ## Tarihçe
 
-Kült Necromunda'nın kovan katmanlarında ateşli vaizlerin çevresinde büyüdü ve House Cawdor gibi toplulukların inancında derin kök saldı. Underhive'da ara ara Redemptionist "haçlı seferleri" patlak verir; mutant yerleşimleri ve şüpheli çeteler bu seferlerin hedefidir.
+Redemptionist Cult, İmparatorluğun en fanatik ve en tehlikeli dini tarikatlarından biridir; onların görevi, günahkarları ve heretikleri 'kurtarmak' — yani onları öldürmek — tir ve onlar, İmparatorluğun en fanatik ve en ölümcül tarikatıdır. Redemptionist Cult'un en büyük özelliği, onların fanatikliğidir — onlar, günahkarları ve heretikleri acımasızca yok eder ve onların savaşı, hem dini hem de katliamdır; bir Redemptionist, hem bir savaşçı hem de bir fanatiktir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Redemptionist Cult'un en ünlü özelliği, onların 'kurtuluş' anlayışıdır — onlar için kurtuluş, ölümdür ve onların varlığı, İmparatorluğun en karanlık dininin kanıtıdır. Redemptionist Cult, İmparatorluğun en fanatik ve en tehlikeli dini tarikatıdır — onlar, fanatikliğin ve ölümün birleşimidir.
 
 -# Kaynaklar: *Necromunda: Outlanders*
 
--# İlişkili kayıtlar: <#1551651549804236801>, <#1551815439078658154>, <#1551815272074055681>
+-# İlişkili

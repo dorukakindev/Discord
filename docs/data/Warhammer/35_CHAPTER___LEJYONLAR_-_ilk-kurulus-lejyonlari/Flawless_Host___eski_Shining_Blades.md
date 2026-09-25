@@ -16,8 +16,4 @@ Bir zamanlar Shining Blades adını taşıyan sadık bir Chapter'ın gururla ç�
 
 ## Tarihçe
 
-Kaynaklara göre zafer zincirinin beslediği kibir, Shining Blades'i yenilmez olduklarına inandırdı. M34'teki Berillia Massacre'da, ihtişamlarının sorgulandığını düşünüp öfkeye kapılan Chapter karşısına çıkan herkesi katletti. Bu kopuş, Chapter'ın Chaos'a, özellikle kusursuzluk ve aşırılık tanrısı Slaanesh'e teslim oluşunun başlangıcı oldu; Flawless Host adını da bundan sonra aldı. Sonraki yüzyıllarda Imperium'a karşı savaşmayı sürdürdükleri kayda geçer.
-
--# Kaynaklar: *Codex: Chaos Space Marines*
-
--# İlişkili kayıtlar: <#1551812225570836561>, <#1551754688008032321>, <#1551813750305198101>
+Flawless Host, eski adıyla Shining Blades ve Chaos'a düşmüş bir Space Marine Chapter'ıdır; onların savaş doktrini, mükemmellik ve güzellik arayışından doğar ve onlar, Slaanesh'in en zarif ve en tehlikeli köleleridir. Flawless Host'un düşüşü, onların mükemmellik arayışındandır — onlar, İmparatorluğun en iyi savaşçıları olmak istediler ve bu arayış, onları Slaanesh'in tuzağına düşürdü; onların savaşı, artık sadece öldürmek değil, en mükemmel ve en güzel öldürme şeklini bulmaktır. Flawless Host'un savaşı, bir sanat performansıdır — onlar savaşta dans eder, en zarif darbeleri yapar ve düşmanını en estetik şekilde öldürür; bir Flawless Host savaşçısı, hem savaşçı hem de sanatçıdır ve onların savaşı, Slaanesh'in tapınağıdır. Flawless Host, İmparator

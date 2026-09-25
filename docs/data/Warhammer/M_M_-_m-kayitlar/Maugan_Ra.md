@@ -55,7 +55,7 @@ Bu olay, Phoenix Lord'ların Asuryani dünyasındaki rolüne yeni bir boyut da e
 
 ## Tarihçe
 
-Maugan Ra — 'Ruhların Biçici'si' — Craftworld Aeldari'nin Dark Reaper Aspect Warriors'ının kurucusu ve Phoenix Lord'udur. Altansar craftworld'ü Eye of Terror'dan kurtaran figür olarak 'karanlıktan dönen' efsanedir; 'Maugetar' reaper launcher'ıyla ölüm biçen bu Phoenix Lord, 'hasatın efendisi' olarak en korkulanıdır.
+Maugan Ra, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur; Dark Reapers Aspect'inin kurucusu olan ve Aeldari'nin en ölümcül savaşçı geleneğinin lideri olan Ra, Aeldari'nin en ölümcül ve en gizli savaşçısıdır — onlar, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur. Maugan Ra'nın en büyük özelliği, onun ölümlülüğüdür — onlar, Dark Reapers'ın kurucusu ve en ölümcül üyesidir ve onların varlığı, Aelda
 
 ## Dönüşün Gölgesi: Kuşku ve Kabul
 

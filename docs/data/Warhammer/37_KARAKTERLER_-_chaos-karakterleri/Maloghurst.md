@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Maloghurst_With_Posse
 
 ## Tarihçe
 
-Maloghurst 'Bükülmüş', XVI. Lejyon'un Veteran Astartes'iydi ve Warmaster Horus'un silahtarı (equerry)ydı — Luna Wolves'dan Sons of Horus'a geçişte primarch'ın en yakın danışmanlarından. Kurnazlığı ve entrika yeteneğiyle bilinen bu figür, Horus'un 'karanlık aklı' olarak Heresy'nin planlarında sessiz ama merkezi rol oynadı; 'Warmaster'ın gölgesi' olarak lejyonun en tehlikeli beyniydi.
+Maloghurst (the Twisted), Sons of Horus'un en ünlü ve en trajik üyesidir; Horus'un en sadık equerry'i olan ve onun en gizli operasyonlarını yöneten Maloghurst, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Sons of Horus'un en trajik ve en önemli üyesidir. Maloghurst'ın en büyük özelliği, onun trajedisidir — onlar, Horus'un en sadık takipçisinin en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Maloghurst, hem bir savaşçı hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Maloghurst'ın en ünlü özelliği, onun 'the Twisted' lakabıdır — onlar, Horus'un en sadık ve en deforme takipçisidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Maloghurst, Sons of Horus'un en ünlü ve en trajik üyesidir — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

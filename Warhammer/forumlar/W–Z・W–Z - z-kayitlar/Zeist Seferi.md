@@ -16,6 +16,6 @@ Zeist Seferi, Damocles Körfezi Seferi'nin ardından Tau'nun genişlemesine kar�
 
 ## Tarihçe
 
-Zeist Seferi, Damocles Körfezi Seferi'nin ardından Tau'nun genişlemesine karşı yürütülen İmparatorluk karşı saldırısıdır. Ultramarines önderliğindeki güçler birkaç dünyayı geri aldı ve İmparatorluk bunu büyük zafer ilan etti; gerçekte Tau, Hive Fleet Behemoth'un yaklaşması nedeniyle zaten çekiliyordu — iki tarafın da bilmediği ortak düşman sahnenin arkasındaydı.
+Zeist Seferi, İmparatorluğun T'au'ya karşı yürüttüğü en önemli operasyonlardan biridir. Zeist, T'au'nun İmparatorluk'a ait bir gezegeni ele geçirmesiyle başlayan çatışmanın merkeziydi; İmparatorluk, gezegeni geri almak için birçok Imperial Guard birliğini ve Space Marine desteğini gönderdi. Sefer sırasında İmparatorluk kuvvetleri, T'au'nun gelişmiş teknolojisi karşısında zorlandı; ancak sonunda Zeist'i geri almayı başardılar. Zeist Seferi, İmparatorluk'un T'au karşısındaki en kayda değer zaferlerinden biri olarak kayda geçti.
 
 -# Kaynaklar: *Codex: Tau Empire*; *Codex: Space Marines*

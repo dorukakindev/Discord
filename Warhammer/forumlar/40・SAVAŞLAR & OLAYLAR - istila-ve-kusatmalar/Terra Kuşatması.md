@@ -12,4 +12,7 @@ Rogal Dorn'un tasarladığı, milyon kilometrelik İmparatorluk Sarayı surları
 
 ## Son Perde
 Heresy'nin doruğu: hain lejyonlar Terra'ya ulaştığında Dorn'un İmparatorluk Sarayı, galaksi tarihinin en büyük tahkimatına dönüşmüştü. Aylarca süren bombardıman ve kuşatma Eternity Kapısı'nda kırıldı — Sanguinius orada tek başına Ka'Bandha'yı durdurdu. Horus, son kozunu oynadı: Vengeful Spirit'in kalkanlarını indirip İmparator'u gemisine çekti. İmparator, Sanguinius ve Dorn ile çıkarma yaptı; Sanguinius öldü, İmparator Horus'u tamamen yok etti ama ölümcül yaralandı. Golden Throne'a bağlanması, İmparatorluk'un canlı cenaze hâline dönüşmesinin başlangıcıydı.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Terra Kuşatması (Siege of Terra), Horus Heresy'nin son ve en ölümcül savaşı olarak Imperialis tarihinin en büyük trajedisidir. Horus, İmparatorluk'un başkenti Terra'ya saldırdı ve İmparatorluk Sarayı'nı kuşattı; bu, İmparatorluk'un son savunma hattıydı. İmparatorluk kuvvetleri, sarayı savunmak için son güçleriyle savaştılar; savaş sırasında Sanguinius ve birçok kahraman hayatını kaybetti. Sonunda İmparator, Horus'u öldürdü; ancak bu zafer, İmparator'un Altın Taht'a bağlanmasına ve Imperialis'in fiilen lidersiz kalmasına neden oldu. Terra Kuşatması,

@@ -20,7 +20,7 @@ Celestine'in yanında **Geminae Superia** olarak bilinen iki muhafız savaşır.
 
 ## Tarihçe
 
-Saint Celestine, Adepta Sororitas'ın Order of Our Martyred Lady'sinin Yaşayan Azizesidir — inanılmaz psişik güç ve inanca sahip bu varlığın İmparator tarafından defalarca ölümden diriltilip görevlendirildiğine inanılır. Ölümlü olarak savaşta düştüğü sanıldı ama defalarca geri döndü; 'yaşayan mucize' olarak İmparatorluk'un en kutsal savaş figürü, kriz anlarında beliren kurtarıcı meleğidir.
+Saint Celestine, İmparatorluğun en ünlü ve en kutsal azizesidir; Sisters of Battle'ın en büyük şampiyonu olan ve İmparator'un kutsal gücünü taşıyan Celestine, İmparatorluğun en kutsal ve en güçlü varlığıdır — onlar, İmparatorluğun en ünlü ve en kutsal azizesidir. Celestine'in en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un kutsal gücünü taşıyan ve onunla daemon'ları yenen en kutsal azizedir ve onların varlığı, İmparatorluğun en kutsal gücünün kanıtıdır; bir Celestine, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Celestine'in en ünlü özelliği, onun dirilişidir — onlar, ölümden dönen ve İmparator'un kutsal gücüyle yaşayan en kutsal azizedir ve onların varlığı, İmpar
 
 Celestine'in varlığı, Imperium'un askerî psikolojisinde de özel bir işlev görür. Onun göründüğü söylenen cephelerde çözülmek üzere olan birliklerin yeniden toparlandığı, umutsuz savunmaların direnişe dönüştüğü anlatılır. Bu etkinin doğaüstü bir güçten mi, yoksa inancın askerler üzerindeki gücünden mi kaynaklandığı sorusu, Imperium'un içinde sorulmaz; ansiklopedi ise soruyu açık bırakır.
 ---MSG---

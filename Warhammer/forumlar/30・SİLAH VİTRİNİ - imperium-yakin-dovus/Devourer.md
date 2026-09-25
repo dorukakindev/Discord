@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/31/WE_Legion_Terminator.
 
 ## Tarihçe
 
-Termagant'lardan Tyranid Warrior'lara ve Hive Tyrant'lara uzanan pek çok organizma devourer taşıyabilir. Büyük organizmaların taşıdığı brainleech devourer, aynı tasarımın daha ölümcül bir biçimi olarak anlatılır.
+Devourer, Tyranid'lerin en yaygın bio-silahıdır; canlı bir organizma olarak üretilir ve kullanıcısının elinde — genelde bir Tyranid Warrior'ın veya Gaunt'un elinde — yaşayan bir silah olarak işlev görür; Devourer, kendi kendine beslenen, kendi kendine mermi üreten ve kendi kendine ölen bir varlıktır. Devourer'ın çalışması basit ama dehşet vericidir — içindeki böcekler veya asit, hedefe fırlatılır ve çarptığında eti ve zırhı parçalar; bir Devourer atışı, bir Space Marine'in zırhını veya bir Imperial Guard'ın bedenini deler. Devourer'ın en korkulan özelliği, onun canlılığıdır — bir Devourer ölürse, içindeki böcekler hâlâ savaşır veya zehir hâlâ işler; ve bir Tyranid'in Devourer'ı, onun bedeninin bir parçasıdır — silah ve savaşçı, tek bir organizmadır. Devourer, Tyranid'in biyolojik dehasının simgesidir — onların silahları da canlıdır ve onların savaşı, doğanın en vahşi halidir.
 
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+-# Kaynaklar: *Codex: Tyrani

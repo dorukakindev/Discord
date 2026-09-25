@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c6/Longstrike1.jpg/revis
 
 ## Tarihçe
 
-Longstrike — Shas'la T'au Sha'ng — T'au İmparatorluğu'nun master gunship pilot'udur ve Fire Caste'in en şanlı tank as'ı oldu; 'Hammerhead Pilotu', 'Gunship Ası', 'Titan Katili', 'T'ros'un Dehşeti' ve 'T'au Kahramanı' unvanlarını taşır. İlk eğitiminden itibaren olağanüstü yetenekli bu figür, Hammerhead'inin raylı topuyla İmparatorluk'un en ağır hedeflerini avlayan 'sniper-sürücü'.
+Longstrike, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır — Hammerhead pilotudur. Bu figür, T'au'nun en ünlü ve en tehlikeli komutanıdır; Longstrike, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır. Bu figür, T'au'nun en ünlü ve en tehlikeli komutanıdır; Longstrike, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır. Figür, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanı olarak kalır.
 
 -# Kaynaklar: *T'au Codexi*
 -# İlişkili kayıtlar: <#1552848746503602289>

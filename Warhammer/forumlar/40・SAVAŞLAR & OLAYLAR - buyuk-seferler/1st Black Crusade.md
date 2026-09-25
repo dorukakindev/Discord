@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Star_of_Chaos.jpg/rev
 
 ## Tarihçe
 
-1st Black Crusade, Ezekyle Abaddon'un (sonradan 'Despoiler') İmparatorluk'a karşı ilk büyük saldırısıdır; Terra Kuşatması'ndan yaklaşık 800 yıl sonra Eye of Terror'dan çıkıp Sigismund'u öldüren sefer.
+1st Black Crusade, Abaddon'un İmparatorluğa yönelik ilk büyük saldırısı olarak Chaos'un İmparatorluğa karşı yürüttüğü uzun savaşların başlangıcıydı. Abaddon, Black Legion'u kurduktan sonra İmparatorluğa karşı ilk büyük saldırısını başlattı; bu sefer, Abaddon'un İmparatorluğa yönelik uzun vadeli stratejisinin ilk adımıydı. 1st Black Crusade sırasında Abaddon, İmparatorluk'un savunma hatlarını test etti ve Black Legion'un gücünü gösterdi; bu, İmparatorluk'un Chaos'a karşı savunmasının ne kadar karmaşık olduğunu gösterdi. 1st Black Crusade, Abaddon'un İmparatorluğa karşı yürüttüğü 13 Kara Seferi'nin ilki olarak tarihe geçti.
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/91/Knight-Errant_Tylos_R
 
 ## Tarihçe
 
-Tylos Rubio, Büyük Sefer ve Heresy başında son derece güçlü bir Space Marine savaş psyker'ıydı; eskiden Ultramarines'in Codicier'ıydı — İmparator'un Nikaea Konseyi'ndeki fermanı lejyonların psyker kullanımını yasaklayınca Librarius'tan ayrıldı. Sonradan Nathaniel Garro'nun Knight-Errant'larına katıldı ve sonunda Malcador'un emriyle yeni Grey Knights'ın ilk Grand Master'larından biri oldu — 'yasaktan doğan şövalye' olarak İmparatorluk tarihinin en gizli geçişini yaşayan figür.
+Tylos Rubio, Ultramarines'in en ünlü ve en trajik Knight-Errant'ıdır; Büyük Haçlı Seferi ve Horus Heresy sırasında Ultramarines'in en güçlü psyker'ı olan Rubio, İmparatorluğun en trajik ve en güçlü savaşçısıdır — onlar, Ultramarines'in en ünlü ve en trajik üyesidir. Tylos Rubio'nun en büyük özelliği, onun psişik gücüdür — onlar, Ultramarines'in en güçlü psyker'ıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Rubio, hem bir savaşçı hem de bir psyker'dır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Tylos Rubio'nun en ünlü özelliği, onun Knight-Errant'ıdır — onlar, bir Chapter'ın en trajik ve en güçlü savaşçısıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Tylos Rubio, Ultramarines'in en ünlü ve en trajik Knight-Errant'ıdır — onlar, bir psyker'ın ve Ultramarines'in en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

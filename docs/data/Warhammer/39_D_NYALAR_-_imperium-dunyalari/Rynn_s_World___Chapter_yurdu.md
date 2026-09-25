@@ -16,7 +16,7 @@ M41'de Ork Warlord Snagrod'un saldırısıyla neredeyse bütün Chapter'ını yi
 
 ## Tarihçe
 
-Snagrod'un Waaagh!'ı Rynn's World'e indiğinde Arx Tyrannus'taki bir savunma füzesi arızalanıp kale-manastırın üzerine düştü ve Chapter'ın büyük kısmını tek anda yok etti. Chapter Master Pedro Kantor, sağ kalan küçük bir kuvvetle halkın yanında savaşmayı sürdürdü. Ork kuşatması sonunda kırıldı; Crimson Fists ise uzun bir yeniden kuruluş sürecine girdi.
+Rynn's World, Crimson Fists'in Chapter yurdu olan ve İmparatorluğun en trajik ve en onurlu dünyalarından biridir; Ork Waaagh!'ının neredeyse yok ettiği ve Crimson Fists'in küllerinden doğduğu bir dünyadır — onlar, İmparatorluğun en trajik ve en onurlu dünyasıdır. Rynn's World'ün en büyük özelliği, onun trajedisidir — onlar, bir Ork Waaagh!'ının hedefi oldular ve onların kale manastırı neredeyse yok edildi; bir Rynn's World, hem bir gezegen hem de bir mezardır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır. Rynn's World'ün en ünlü özelliği, onun dirilişidir — onlar, Crimson Fists'in küllerinden doğduğu yerdir ve onların varlığı, bir Chapter'ın yeniden doğuşunun kanıtıdır. Rynn's World, İmparatorluğun en trajik ve en onurlu dünyasıdır — onlar, yıkımın ve dirilişin somut halidir.
 
 -# Kaynaklar: *Rynn's World — Steve Parker*; *Codex: Space Marines*
 

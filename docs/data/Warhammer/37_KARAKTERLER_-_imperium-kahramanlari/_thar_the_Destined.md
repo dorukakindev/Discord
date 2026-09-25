@@ -16,8 +16,4 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/UthartheDestinedMini.
 
 ## Tarihçe
 
-Ûthar the Destined — kısaca Ûthar — Greater Thurian League'in en yetenekli ve en saygın kâhl'ıdır; Votann'ın Leagues'ının en başarılı kahramanıdır. 'Blade of the Ancestors'ı taşıyan bu figür, Kin'in 'kaderi çağıran' lideri olarak klanlar arası saygınlık kazanmış figürdür — 'seçilmiş kâhl' olarak Votann'ın yükselen efsanesi.
-
--# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votann — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551813334993739777>, <#1551809846066548779>
+Ûthar the Destined, Leagues of Votann'ın en ünlü ve en efsanevi kahramanıdır; bir Kâhl olarak en büyük zaferleri kazanan ve Leagues'ın en saygın savaşçısı olan Ûthar, Leagues'ın en ünlü ve en onurlu üyesidir — onlar, Leagues'ın en efsanevi ve en saygın kahramanıdır. Ûthar'ın en büyük özelliği, onun kaderidir — onlar, 'Destined' — kaderi belirlenmiş — olarak bilinen ve Leagues'ın en büyük zaferlerini kazanan en şanslı komutandır ve onların varlığı, Leagues'ın en büyük gücünün kanıtıdır; bir Ûthar komutası, bir Oathband'in en büyük zaferinin en büyük anıdır ve onların varlığı, Leagues'ın en büyük onurunun somut halidir. Ûthar'ın en ünlü özelliği, onun Votann'a olan bağlılığıdır — onlar, atalarının bilgisine saygı gösteren ve onların geleneğini takip eden en sadık komutandır ve onların varlığı, Leagues'ın en kutsal geleneğinin kanıtıdır. Ûthar the Destined, Leagues of Votann'ın en ünlü ve en efsanevi k

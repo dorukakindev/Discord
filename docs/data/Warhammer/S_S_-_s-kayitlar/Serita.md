@@ -10,7 +10,7 @@
 
 ## Tarihçe
 
-Serita, Adepta Sororitas'ın Order of Our Martyred Lady'nin canoness'idir; Talledus Savaşı sırasında Kardinal Dünya Benediction'ın savunmasına yardım etti. Sistem Chaos'a aniden düşünce dağılan Astra Militarum kalıntıları Grand Honorificum katedral şehrine çekildi ve orada Serita'nın komutasında birleşti. Warp yolculuğunda Navigation'ların kaybıyla kanlanan İmparatorluk filosuna rağmen Benediction'ı tuttu — 'kızıl dua' savaşı olarak bilinen kuşatmada İmparatorluğun direniş ikonu oldu.
+Serita, Sisters of Battle'ın en ünlü ve en kutsal Canoness'idir; Order of Our Martyred Lady'nin üyesi olan ve Benediction'ın savunmasına yardım eden Serita, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal üyesidir. Serita'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal savaşçıdır ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Serita, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Serita'nın en ünlü görevi, Benediction'ın savunmasıdır — onlar, bir Cardinal World'ü koruyan ve onu kurtaran en kutsal savaşçıdır ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Serita, Sisters of Battle'ın en ünlü ve en kutsal Canoness'idir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057458463711353>

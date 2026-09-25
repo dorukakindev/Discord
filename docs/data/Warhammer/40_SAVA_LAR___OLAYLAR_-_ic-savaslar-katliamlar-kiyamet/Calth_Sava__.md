@@ -12,6 +12,6 @@ Word Bearers (Lorgar'ın lejyonu), İmparator tarafından inançları yüzünden
 
 ## Tarihçe
 
-Word Bearers'ın Ultramarines'a sürpriz saldırısı; Lorgar'ın ihaneti, Calth'ın küle dönüşü. Heresy'nin ilk açık lejyon-lejyon savaşı.
+Calth Savaşı, Horus Heresy'nin en trajik savaşlarından biri olarak tarihe geçti. Bu savaş, Word Bearers'ın Ultramarines'e ihanet etmesiyle başladı; Calth Savaşı sırasında Word Bearers, Ultramarines'in ev gezegeni Calth'a saldırdı ve birçok Ultramarine'in hayatına mal oldu. Savaş, Ultramarines'in savunmasıyla sonuçlandı; ancak Calth'ın yüzeyi ciddi zarar gördü ve Ultramarines'in birçok üyesi hayatını kaybetti. Calth Savaşı, Horus Heresy'nin en trajik ihanetlerinden biri olarak anılır ve Word Bearers'ın Ultramarines'e yönelik ihanetinin en önemli örneği oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,6 +10,6 @@ Terminator, bir Space Marine Chapter'ı içindeki en seçkin ve en korkunç biri
 
 ## Tarihçe
 
-Terminator, Space Marine'lerin en ağır zırh kullanan seçkinleridir; Tactical Dreadnought Armour (Terminator Armour) giyen bu savaşçılar en ölümcül vuruş gücü taşır. Teleport edilebilirler — İmparatorluk'un 'zırhlı ölüm' sınıfı.
+Terminator, Tactical Dreadnought Armour giyen Space Marine Veteran'ıdır; bir Space Marine'in giyebileceği en ağır zırhı taşır ve görevi en zorlu noktalarda en önde savaşmaktır. Terminator'lar teleport saldırılarıyla ünlüdür — Terminator Armour'un içindeki savaşçı doğrudan düşman gemisine veya kale kapısına ışınlanabilir ve o noktada tek başına bir orduya bedeldir. Silahları storm bolter, power fist, assault cannon, thunder hammer ve lightning claw gibi en yıkıcı Imperial silahlarıdır; bir Terminator manga'sı bir Imperial Guard alayını tek başına devirebilir. Terminator Armour sayısı sınırlıdır — her Chapter'ın sadece belirli sayıda zırhı vardır ve bunlar yüzyıllar boyu bakım görür; bu yüzden Terminator olmak sadece rütbe değil, Chapter tarihinin bir parçası olmaktır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

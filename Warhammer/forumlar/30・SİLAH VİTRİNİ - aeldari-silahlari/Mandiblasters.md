@@ -7,7 +7,7 @@ Striking Scorpion aspect kasklarına monteli minyatür lazer silahları; yakın 
 
 ## Tarihçe
 
-Drukhari başının ağız kısmından çıkan pençe/bıçak uzantısı; Incubus zırhının ikinci silahı. Klaive'e ek olarak kullanılan yakın-mesafe sürpriz — dövüş sanatının 'çeneyle de vurabilir' felsefesi.
+Mandiblasters, Drukhari'nin en ünlü ve en gizli silahıdır; onların Drukhari'nin en gizli ve en ölümlü implant silahı olan ve onun en zorlu savaşlarını yapan Mandiblasters, Drukhari'nin en gizli ve en ölümlü silahıdır — onlar, Drukhari'nin en ünlü ve en gizli silahıdır. Mandiblasters'ın en büyük özelliği, onun gizliliğidir — onlar, Drukhari'nin en gizli implant silahıdır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Mandiblasters, hem bir silah hem de bir implanttır ve onların varlığı, Drukhari'nin en büyük silahının somut halidir. Mandiblasters'ın en ünlü özelliği, onun ağız implanti olmasıdır — onlar, Drukhari'nin en gizli ve en ölümlü silahıdır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır. Mandiblasters, Drukhari'nin en ünlü ve en gizli silahıdır — onlar, bir implantın ve Drukhari'nin en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

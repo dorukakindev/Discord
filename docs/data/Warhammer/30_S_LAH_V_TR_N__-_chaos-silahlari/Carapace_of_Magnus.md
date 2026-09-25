@@ -6,6 +6,7 @@
 Kızıl Kral'ın Warp ile kaynaşmış zırhı; plakaları iradeyle akar, gerçeklik yüzeyinde bükülür. Zırhtan çok Tzeentch armağanı.
 
 ## Tarihçe
-Magnus the Red, Tzeentch'in iblis primarch'ı olarak artık yarı maddeden bir varlıktır ve zırhı da onun gibi kurallara uymaz. Prospero'nun eski ustalığıyla başlayan karapaks, lanetten sonra Warp'ın dokusuyla kaynaşmıştır: plakalar sahibinin iradesiyle akar, yaralar kapanır, gerçeklik zırhın yüzeyinde bükülür. Kızıl Kral'a kılıç sallamak, çoğu zaman bir yanılsamayı kesmek demektir. Bu karapaks bir zırh envanteri kaydından çok, Tzeentch'in armağanlarının kataloğudur.
+
+Carapace of Magnus, Thousand Sons'un en ünlü ve en gizli zırhıdır; onların Magnus'un — Thousand Sons'un primarch'ı — en gizli zırhı olan ve onun en tehlikeli operasyonlarını koruyan Carapace of Magnus, Thousand Sons'un en gizli ve en önemli zırhıdır — onlar, Thousand Sons'un en ünlü ve en gizli zırhıdır. Carapace of Magnus'un en büyük özelliği, onun korumasıdır — onlar, Magnus'un en gizli ve en güçlü zırhıdır ve onların varlığı, Thousand Sons'un en büyük gücünün kanıtıdır; bir Carapace of Magnus, hem bir zırh hem de bir emanet'dir ve onların varlığı, Thousand Sons'un en büyük geleneğinin somut halidir. Carapace of Magnus'un en ünlü özelliği, onun Magnus'un zırhıdır — onlar, bir primarch'ın en gizli ve en önemli zırhıdır ve onların varlığı, Thousand Sons'un en büyük geleneğinin kanıtıdır. Carapace of Magnus, Thousand Sons'un en ünlü ve en gizli zırhıdır — onlar, bir emanetin ve Thousand Sons'un en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

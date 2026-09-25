@@ -16,8 +16,4 @@ Badab War'dan Fall of Cadia'ya uzanan yüzyılın olay sırası.
 
 ## Tarihçe
 
-Badab War 901–912.M41 arasında yaşanır. Ghazghkull'un Waaagh!'ı Second War for Armageddon'u 941.M41'de başlatır. Hive Fleet Kraken son on yıllarda geniş bir cephede saldırır; Leviathan 997.M41'de kayda girer ve Third Tyrannic War'u açar. Third War for Armageddon 998.M41'de başlar. 13th Black Crusade 999.M41'de Cadia'nın düşüşüyle sonuçlanır ve Great Rift açılır.
-
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Codex: Armageddon*; *Codex: Tyranids — 10th Edition*; *Gathering Storm I: Fall of Cadia*
-
--# İlişkili kayıtlar: <#1551811438547312645>, <#1551643990196232303>, <#1551809334483361823>, <#1551812139935866891>, <#1551814400938082357>
+Time of Ending, İmparatorluğun en karanlık ve en son dönemidir; M41'in son yüzyılında yaşanan ve İmparatorluğun en büyük felaketlerini — Cadia'nın düşüşünü, Büyük Yarık'ın doğuşunu ve Chaos'un en büyük zaferini — yaşadığı bir dönemdir — onlar, İmparatorluğun en karanlık ve en son döneminin somut halidir. Time of Ending'in en büyük özelliği, onun sonudur — onlar, İmparatorluğun en karanlık anının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük felaketinin kanıtıdır; bir Time of Ending, bir imparatorluğun sonunun en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Time of Ending'in en ünlü özelliği, onun Cadia'nın düşüşüdür — onlar, İmparatorluğun en büyük kaybının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük felaketinin kanıtıdır. Time of Ending, İmparatorluğun en karanlık ve en son dönemidir — onlar, İmparatorluğun en büyük felaketinin ve en büyük trajedisinin somut halidir.

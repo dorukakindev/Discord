@@ -12,6 +12,6 @@ Kurnazlığı tartışmasızdır; silahsızken bile chapter'ın en "kirli" döv�
 
 ## Tarihçe
 
-Lukas the Trickster (Strifeson), Space Wolves'un Astartes'idir — üstlerinin otoritesine de düşmanlara da aynı isteklilikle karşı çıkan gürültülü, canlı bir figür. Chapter'ın diğer savaşçılarının peşinde koştuğu şan ve yükselme onu ilgilendirmez; 'hilebaz kurt' olarak Fenris'in kurnazlık geleneğinin bedenidir. Blood Claw saflarından hiç çıkmayan tek figür olarak 'ebedi gençlik' efsanesidir.
+Lukas the Trickster, Space Wolves'un en ünlü ve en komik üyesidir; 'Russ'ın sarayının soytarısı' olarak bilinen ve gelenekleri sorgulayan en cesur savaşçı olan Lukas, Space Wolves'un en ünlü ve en komik üyesidir — onlar, Space Wolves'un en ünlü ve en komik üyesidir. Lukas'ın en büyük özelliği, onun zekasıdır — onlar, gelenekleri sorgulayan ve onları değiştiren en cesur savaşçıdır ve onların varlığı, Space Wolves'un en büyük cesaretinin kanıtıdır; bir Lukas, hem bir savaşçı hem de bir filozofdur ve onların savaşı, hem fiziksel hem de zihinsel bir mücadeledir. Lukas'ın en ünlü özelliği, onun 'Trickster' lakabıdır — onlar, Space Wolves'un en zeki ve en komik üyesidir ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır. Lukas the Trickster, Space Wolves'un en ünlü ve en komik üyesidir — onlar, bir zekanın ve Space Wolves'un en büyük cesaretinin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

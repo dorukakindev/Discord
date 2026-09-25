@@ -16,8 +16,4 @@ Eye of Terror karşısındaki en önemli Imperial kalenin yıkımı. Dünyanın 
 
 ## Tarihçe
 
-Lord Castellan Ursarkar E. Creed'in yönettiği savunma, Chaos'un ilk dalgasını durdurdu. Abaddon'ın ikinci ve daha büyük saldırısında pylonlar sistemli biçimde yok edildi. Belisarius Cawl ağı yeniden etkinleştirdiğinde Warp'ın akını bir süreliğine geri itildi; bu son safhada Inquisitor Greyfax ve Saint Celestine de Cadia'daydı. Abaddon hasarlı Blackstone Fortress *Will of Eternity*'yi gezegene düşürdü.
-
--# Kaynaklar: *Gathering Storm I: Fall of Cadia*; *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812139935866891>, <#1551811393680838699>, <#1551814468458258434>, <#1551814400938082357>, <#1551639038291611649>
+Fall of Cadia, İmparatorluğun en büyük ve en trajik kaybıdır; Abaddon'un on üçüncü Kara Haçlı Seferi'nde Cadia'nın — Eye of Terror'un tek geçiş noktasının bekçisi — yok edilmesi ve Büyük Yarık'ın doğuşuyla sonuçlanan İmparatorluğun en büyük felaketidir — onlar, İmparatorluğun en büyük kaybının ve en büyük trajedisinin somut halidir. Fall of Cadia'nın en büyük özelliği, onun kaybıdır — onlar, bir gezegenin en büyük kaybının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Fall of Cadia, bir gezegenin en trajik halidir ve onların varlığı, İmparatorluğun en büyük felaketinin somut halidir. Fall of Cadia'nın en ünlü özelliği, onun Büyük Yarık'ın doğuşudur — onlar, İmparatorluğun en büyük felaketinin en b

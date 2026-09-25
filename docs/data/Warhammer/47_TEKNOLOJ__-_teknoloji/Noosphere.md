@@ -15,12 +15,4 @@ Tech-priest'lerin ve Skitarii'nin sözcüklere gerek duymadan bilgi, komut ve al
 
 ## Tarihçe
 
-Tech-priest'ler noosphere üzerinden **Doctrina Imperatives** adı verilen komut ve davranış kalıplarını Skitarii maniple'larına yükleyebilir; böylece bir birliğin saldırganlığı, savunma tutumu ya da nişan önceliği uzaktan, anında değiştirilir. Mechanicus'un savaş anlatılarında noosphere, Skitarii'nin tek bir iradenin uzantısı gibi hareket etmesinin temelidir.
-
-## Önemli Olaylar
-
-Horus Heresy'nin başında Schism of Mars sırasında yayılan scrapcode gibi veri saldırıları, Mechanicus anlatılarında makineler ve augmentasyonlu bedenler arasındaki bağın bir zaafa da dönüşebileceğini gösterir.
-
--# Kaynaklar: *Codex: Adeptus Mechanicus — 10th Edition*; *Mechanicum — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551753449878724689>, <#1551809095655493743>, <#1551816635839549491>
+Noosphere, Adeptus Mechanicus'un Mars ve Forge World'lerdeki bilgi ağıdır; tüm Tech-priest'lerin, makinelerin ve arşivlerin bağlı olduğu kolektif veri katmanıdır. İnternet yerine geçer ama sadece Mechanicus üyeleri erişebilir ve erişim augmetics implantları üzerinden doğrudan beyne bağlanır — bir Tech-priest noosphere'e girdiğinde bilgi onu kelimenin tam anlamıyla 'içer'. Noosphere'de STC parçaları, arşiv kayıtları, üretim tarifleri ve binlerce yıllık araştırma saklıdır; ancak çoğu şifreli, ritüel olarak kilitli veya kayıp bölgelerde. Horus Heresy sırasında Dark Mechanicus noosphere'i ele geçirmeye çalıştı ve içine Chaos virüsleri saldı; o günden beri noosphere hem bilgi kaynağı hem de savunma hattıdır. Yüksek rütbeli Tech-priest'ler noosphere içinde 'yaşar' — bedenleri fiziksel işlerdeyken bilinçleri ağda dolaşır ve bu yüzden onlarla yüz yüze konu

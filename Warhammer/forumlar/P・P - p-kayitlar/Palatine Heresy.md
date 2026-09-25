@@ -16,6 +16,6 @@ Nova Terra Interregnum'un parçası; Palatine kültünün ayrılıkçı hareketi
 
 ## Tarihçe
 
-Palatine Heresy, Nova Terra Interregnum sırasında Segmentum Pacificus'taki Palatine kültünün İmparatorluk'tan ayrılması ve kendi kutsal imparatorluğunu ilan etmesidir; yüzyıllar süren çatışmada Space Marine bölükleri bile karşı saflarda bulundu. İmparatorluk'un 'tek ve bölünmez' iddiasının ilk büyük çatlağıdır.
+Palatine Heresy, İmparatorluk tarihindeki en gizli ve en tehlikeli iç savaşlardan biridir. Bu olay, İmparatorluk'un en gizli ihanetlerinden birini içeriyordu; Palatine Heresy sırasında İmparatorluk, kendi içindeki en tehlikeli düşmanlarla karşılaştı. Olay, İmparatorluk'un en gizli operasyonlarının ve en tehlikeli ihanetlerinin bir araya geldiği bir dönem olarak tarihe geçti; Palatine Heresy, İmparatorluk'un en büyük trajedisinin kendi içindeki ihanetler olduğunu gösterdi. Olay, İmparatorluk tarihinin en karanlık sayfalarından biri olarak gizli tutulmaktadır.
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum derlemesi; Nova Terra Interregnum kayıtları

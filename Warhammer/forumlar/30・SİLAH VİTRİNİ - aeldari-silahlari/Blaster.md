@@ -18,6 +18,6 @@ Blaster, Drukhari raid silahlarının elde taşınan uç örneğidir — Commorr
 
 ## Tarihçe
 
-Reaver ve Imperator Titan'ların taşıdığı dev pnömatik altı-namlulu döner silah; hafif araç ve piyade süpürmesinin titan-boyu hali. 'Blaster' kavramının en büyük ölçekli versiyonu.
+Blaster, Drukhari'nin en ünlü ve en yaygın silahıdır; onların Drukhari'nin en yaygın ve en ölümlü enerji silahı olan ve onun en zorlu savaşlarını yapan Blaster, Drukhari'nin en yaygın ve en ölümlü silahıdır — onlar, Drukhari'nin en ünlü ve en yaygın silahıdır. Blaster'ın en büyük özelliği, onun yaygınlığıdır — onlar, Drukhari'nin en yaygın enerji silahıdır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Blaster, hem bir silah hem de bir destek silahıdır ve onların varlığı, Drukhari'nin en büyük silahının somut halidir. Blaster'ın en ünlü özelliği, onun her yerdedir — onlar, Drukhari'nin en yaygın ve en ölümlü silahıdır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır. Blaster, Drukhari'nin en ünlü ve en yaygın silahıdır — onlar, bir yaygınlığın ve Drukhari'nin en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

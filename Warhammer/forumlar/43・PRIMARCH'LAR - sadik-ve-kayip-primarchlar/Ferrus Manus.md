@@ -12,4 +12,7 @@ Ferrus Manus, volkanik ve acımasız Medusa dünyasına düştü; sert, dayanık
 
 ## Isstvan V ve Ölüm
 Ferrus, Heresy'nin ilk büyük ihanetinin en önde gelen kurbanı oldu: Isstvan V'teki Drop Site Katliamı'nda Fulgrim'in Emperor's Children'ına doğrudan saldırdı. İki kardeşin düellosu efsanevidir; Fulgrim'in elindeki gümüş kılıç — içinde Slaanesh iblisi barındıran Blade of the Laer — darbeyi indirdi ve Ferrus'un başı kesildi. Ölümü, Iron Hands'in "et zayıftır" doktrinini mutlak bir keder ve öfke kültüne çevirdi; lejyon bugün bile Fulgrim'i ve tüm zevk arayışını lanetle anar. Savaş Alanı'nda Iron Hands'in yaşadığı kırılma, onun "en sadık" Primarch olmasını gölgeledi.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Ferrus Manus, Iron Hands'ın en ünlü ve en trajik primarch'ıdır; Medusa'nın — Iron Hands'ın ev gezegeni — en zorlu savaşçısı olan ve Iron Hands'i kuran Manus, İmparatorluğun en trajik ve en ölümcül primarch'ıdır — onlar, Iron Hands'ın en ünlü ve en trajik

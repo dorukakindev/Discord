@@ -15,12 +15,10 @@ Warp'ta iz bırakmadan kaybolmasıyla anılan Chapter. Asıl ünü, Legion of th
 
 ## Tarihçe
 
-Fire Hawks, M41'de bütün filosuyla Piraeus sisteminden Crow's World'e Warp geçişi yapmaya girişti ve hedefine hiç ulaşmadı. Kayıtlarda 963.M41'e tarihlenen bu kayboluşun ardından Chapter, uzun bir bekleyişten sonra resmî olarak Warp'ta kayıp ilan edildi. Akıbetleri bilinmez.
+Fire Hawks, 21st Founding'de kurulan ve sonra kaybolan efsanevi Space Marine Chapter'ıdır; onların kayboluşu, İmparatorluğun en büyük gizemlerinden biridir ve onların hayaletleri, Legion of the Damned'in kökeni olarak görülür. Fire Hawks'un son savaşı, Crow's Nest'teki bir Chaos istilasıydı — Chapter, tamamen yok edildi veya Warp'a sürüklendi; ama o günden beri, İmparatorluğun en zorlu anlarında iskelet görünümlü, alevli savaşçılar ortaya çıkar ve düşmanı yok eder. Fire Hawks'ın mirası, Legion of the Damned'dir — onların hayaletleri, İmparatorluğun en karanlık saatlerinde geri döner ve savaşır; ve onların varlığı, ölümün bile İmparatorluğun hizmetinde olduğunun kanıtıdır. Fire Hawks, İmparatorluğun en trajik ve en gizemli Chapter'ıdır — onlar öldü ama ruhları hâlâ savaşıyor.
 
 ## Kanon Notu
 
 En eski anlatım, hayatta kalanların Legion of the Damned'a dönüştüğünü ileri sürer; sonraki yayınlar bu bağı kesinleştirmez ve başka açıklamaları da aktarır. Kanon durumu: evren içi teori.
 
--# Kaynaklar: *Codex: Legion of the Damned — 6th Edition*
-
--# İlişkili kayıtlar: <#1551642690926420019>, <#1551809666454134928>, <#1551809394226765939>
+-# Kaynaklar: *Codex: Legion of the Damn

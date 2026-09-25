@@ -15,12 +15,10 @@ Dört ayaklı bir yırtıcıyı andıran, kollarının yerinde yaşayan silahlar
 
 ## Tarihçe
 
-Forgefiend'ler Heretic Astartes savaş gruplarının ağır ateş gücü unsuru olarak anılır. Özellikle Iron Warriors ve onların Warpsmith'leri bu makinelerle ilişkilendirilir. Kaynaklar, bu yaratıkların silahlarının Warp'ın enerjisiyle beslendiğini ve makinenin kendi içinden cephane ya da ektoplazma ürettiğini anlatır.
+Forgefiend, Chaos'un en korkulan ve en yıkıcı Daemon Engine'idir; Chaos'un gücüyle canlanan bir makine olan ve düşmanı uzaktan imha eden bir varlıktır — onlar, Chaos'un en güçlü ve en yıkıcı savaş makinesidir. Forgefiend'in en büyük özelliği, onun silahlandırmasıdır — onlar, Ectoplasma Cannon ve Heavy Hadron Collider gibi Chaos'un en güçlü silahlarını kullanır; bir Forgefiend, bir düşman pozisyonunu tek atışla yok edebilir ve onların varlığı, bir Chaos saldırısının en güçlü silahıdır. Forgefiend'in en ünlü özelliği, onun demonik doğasıdır — onlar, hem bir makine hem de bir demon'dur ve onların varlığı, Chaos'un gücünün somut halidir; bir Forgefiend, bir Imperial savunmasını bile yok edebilir. Forgefiend, Chaos'un en güçlü ve en yıkıcı Daemon Engine'idir — onlar, Chaos'un gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
 Gövdeye kaynaşmış hades autocannon'lar ya da ectoplasma cannon'lar. Makinenin kendisi daemonik bir organizma gibi davranır; bakım yerine besleme ve bağlama ritüelleri gerektirir.
 
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812225570836561>, <#1551650329156788287>, <#1552482861872062494>, <#1551809666454134928>
+-# Ka

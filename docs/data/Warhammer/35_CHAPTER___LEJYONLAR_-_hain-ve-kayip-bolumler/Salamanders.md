@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/25/Salamanders_Chapter_Livery.jpg/revision/latest?cb=20161118072946
 
+## Tarihçe
+
+Salamanders (XVIII Legion), İmparatorluğun en insancıl ve en dayanıklı Space Marine Chapter'ıdır; Nocturne'nin volkanik dünyasından gelen savaşçıları, ateş ve demircilikle kutsanmış ve primarch'ları Vulkan'ın öğretisiyle — 'halkı koru, zayıfı savun' — hareket eden, İmparatorluğun en şefkatli savaşçılarıdır. Salamanders'in savaş doktrini, Vulkan'ın demirci ruhundan doğar — onlar ateşi sever, flamer ve meltagun'ları tercih eder ve onların zırhı, diğer Chapter'lardan daha kalın ve daha dayanıklıdır; bir Salamander, sadece savaşçı değil, aynı zamanda zanaatkârdır ve her Salamander, kendi silahını ve zırhını tamir edebilir. Salamanders'in en büyük özelliği, onların insanlıkla bağlantısıdır — onlar sivilleri korur, kendi gezegenlerinde aileleriyle yaşar ve onların savaşı, sadece düşmanı öldürmek değil, İmparatorluğun halkını korumaktır. Salamanders, İmparatorluğun en şefkatli ve en dayanıklı Chapter'ıdır — onlar, ateşin ve şefkatin birleşimidir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Salamanders — Semenderler (XVIII. Lejyon)

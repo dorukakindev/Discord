@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/75/AttackBike01.jpg/revi
 
 ## Tarihçe
 
-Attack Bike, Space Marine'in standart motosikletinin yan-arabalı saldırı varyantıdır; bir sürücü ve bir silahlı yolcu taşır. Heavy bolter veya multi-melta monte edilen bu platform, hızın yanına ciddi ateş gücü ekler — 'tekerlekli pusu' olarak chapter'ların hızlı-müdahale timlerinin vazgeçilmezidir.
+Attack Bike, Legiones Astartes ve Adeptus Astartes tarafından kullanılan bir hafif saldırı aracıdır; onun hızı ve silahlandırmasıyla — bir Space Marine'i taşıyabilen ve düşmanı yakın mesafede imha eden bir araçtır — onlar, Space Marine'lerin en hızlı ve en vahşi kara aracıdır. Attack Bike'ın en büyük özelliği, onun hızıdır — onlar, bir Assault Bike'dan daha hızlı ve daha vahşidir; bir Attack Bike, bir düşman pozisyonunu saniyeler içinde geçebilir ve onların varlığı, bir Space Marine baskınının merkezidir. Attack Bike'ın en ünlü görevi, Space Marine'lerin çeşitli keşif ve baskın operasyonlarıdır — onlar, düşmanı izlemek ve hızlı baskınlar yapmak için kullanılırlar ve onların varlığı, bir Space Marine'ın en güvenilir aracıdır. Attack Bike, Space Marine'lerin en hızlı ve en vahşi kara aracıdır — onlar, hızın ve vahşetin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

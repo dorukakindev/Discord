@@ -16,6 +16,6 @@ Typhon saldırısının gaz borusu; iğneleri ve toksin püskürten vücut devas
 
 ## Tarihçe
 
-Toxicrene, Tyranid'in yaşayan atmosfer silahıdır: devasa bedeni zehirli bulutlar püskürtür ve bir dünyanın havasını tek başına solunmaz hâle getirebilir. Kuşatma dalgalarında önden gönderilir; karşısında duran askerler gaz maskelerinin arkasında bile eriyen etleri hisseder.
+Toxicrene, Tyranid'in en ünlü ve en sinsi destek yaratığıdır; bir Tyranid ordusunun en sinsi destek birliği olan ve onun en sinsi operasyonlarını yapan Toxicrene, Tyranid'in en sinsi ve en önemli varlığıdır — onlar, Tyranid'in en ünlü ve en sinsi destek yaratığıdır. Toxicrene'in en büyük özelliği, onun sinsiliğidir — onlar, bir Tyranid ordusunun en sinsi destek birliğidir ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Toxicrene, hem bir yaratık hem de bir destektir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Toxicrene'in en ünlü özelliği, onun zehir bulutudur — onlar, bir zehir bulutu atan ve Tyranid ordusunu koruyan en sinsi yaratıktır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır. Toxicrene, Tyranid'in en ünlü ve en sinsi destek yaratığıdır — onlar, bir zehirin ve Tyranid'in en sinsi gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids* (8. baskı sonrası)

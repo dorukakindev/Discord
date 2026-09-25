@@ -10,6 +10,6 @@ Ama Sanguinius lejyonuyla kümeye vardığında, gerçeğin çok daha karanlık 
 
 ## Tarihçe
 
-Signus'ta Blood Angels'ın daemon tuzağına düşürülmesi; Sanguinius'un Ka'bandha'yla karşılaşması. Chapter'ın ruhunun kırıldığı yer.
+Signus Kampanyası, Horus Heresy'nin en trajik operasyonlarından biri olarak Blood Angels'ın tarihine kara bir sayfa olarak geçti. Horus, Blood Angels'ı Signus sistemine — Chaos'un güçlü bir varlığı bulunan bir dünya — çekmek için onları bir 'görev' için gönderdi; aslında bu, Sanguinius'u ve Legion'unu tuzağa düşürmek için hazırlanmış bir plandı. Signus'un yüzeyinde Blood Angels, Ka'Bandha ve Kyriss gibi güçlü Greater Daemon'larla karşılaştı; Sanguinius, Ka'Bandha'yla yaptığı düelloda dizinden kırıldı ve Legion'unun bir kısmı Khornate iblislere dönüştü. Kampanya, Blood Angels'ı fiziksel ve ruhsal olarak sarsan bir felaket oldu; ancak Sanguinius'un savaş iradesi ve Legion'un sadakati sayesinde Blood Angels, tuzağın tamamlanmasını engelledi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

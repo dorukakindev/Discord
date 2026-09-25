@@ -15,10 +15,4 @@ Blank ya da pariah, Warp'ta hiçbir varlığı ya da yansıması bulunmayan insa
 
 ## Tarihçe
 
-Imperium, bu insanları Great Crusade'den beri psykerlere ve Warp tehditlerine karşı kullanır. Sisters of Silence tümüyle pariah kadınlardan oluşur; Officio Assassinorum'un Culexus Temple'ı pariah suikastçılar yetiştirir; Inquisitor'lar da maiyetlerinde blank'lere yer verir. Onlara duyulan içgüdüsel tiksinti, pek çok blank'i yalnızlığa iter.
-
-## Kanon Notu
-
-Blank, pariah, untouchable ve null terimleri kaynaklarda kimi zaman eş anlamlı, kimi zaman farklı derecelerin adı olarak kullanılır. Kayıtlar kullanılan kaynağın terminolojisine sadık kalır.
-
--# Kaynaklar: *Master of Mankind — Aaron Dembski-Bowden*; *Codex: Imperial Agents — 10th Edition*; *Codex: Adeptus Custodes — 10th Edition*
+Blank / Pariah, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır; psişik enerjiyi yok eden ve onun en gizli operasyonlarını yapan en gizli mutant olan Blank / Pariah, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır. Blank / Pariah'ın en büyük özelliği, onların blank'lığıdır — onlar, psişik enerjiyi yok eden ve onun en gizli operasyonlarını yapan en gizli mutant'dır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Blank / Pariah, hem bir mutant hem de bir ajandır ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Blank / Pariah'ın en ünlü özelliği, onların blank'lığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli mutant'ıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır.

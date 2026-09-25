@@ -15,12 +15,8 @@ Squig, çoğu zaman bir ağızdan ve dişlerden ibaretmiş gibi görünen, ama s
 
 ## Tarihçe
 
-Squig'ler ('Sqaig'lar), Ork ekosisteminin en çok yönlü yaratıklarıdır — yemek, savaş, evcil hayvan ve hatta saç modeli olarak kullanılan yuvarlak, dişli mantar-canlıları. Ork biyolojisinin 'şekilsiz temeli' olarak her yerde bulunurlar; 'dişi olan top' olarak Ork hayatının en basit ve en tehlikeli birimidirler — bir Squig'in ısırığı zırhı bile deler.
+Squig, Ork'ların en ünlü ve en komik yaratığıdır; Ork'ların en küçük ve en tehlikeli evcil hayvanı olan ve onların en büyük eğlencesi olan Squig, Ork'ların en ünlü ve en komik yaratığıdır — onlar, Ork'ların en ünlü ve en komik yaratığıdır. Squig'in en büyük özelliği, onun tehlikesidir — onlar, Ork'ların en küçük ama en tehlikeli yaratığıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Squig, hem bir yaratık hem de bir silahtır ve onların varlığı, Ork'ların en komik ve en tehlikeli varlığının somut halidir. Squig'in en ünlü özelliği, onun Ork'ların evcil hayvanı olmasıdır — onlar, Ork'ların en sadık ve en tehlikeli evcil hayvanıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Squig, Ork'ların en ünlü ve en komik yaratığıdır — onlar, bir yaratığın ve Ork'ların en büyük gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Son derece değişken biçimler: yiyecek olarak yetiştirilenler, saldırı squig'leri, patlayıcıyla donatılanlar ve iri binek türleri. Ortak nitelikleri büyük bir ağız ve doymak bilmeyen iştahtır.
-
--# Kaynaklar: *Codex: Orks — 10th Edition*; *'Ere We Go*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551809846066548779>
+Son derece değişken biçimler: yiyecek olarak yetiştirilenler, saldırı squ

@@ -15,12 +15,8 @@ T'au teknolojisinin bütün mantığına aykırı duran, kökeni belirsiz bir k�
 
 ## Tarihçe
 
-Farsight, Ork kuvvetlerini birbiri ardına yenip Warboss Grog Ironteef'in peşine düşerken Arthas Moloch'a ulaştı. Orada bir Warp geçidinden taşan daemon'larla karşılaşıldı; seferdeki Ethereal'lerin tümü öldü ve Farsight'ın bu kılıçla daemon'lara karşı savaştığı anlatılır. Ardından imparatorlukla bağını koparıp Farsight Enclaves'i kurdu. *Arks of Omen: Farsight*, Arthas Moloch yakınlarında yeniden Chaos kuvvetleriyle karşılaştığı bir seferi işler.
+Dawn Blade, İmparatorluğun en ünlü ve en kutsal relic'idir; bir Space Marine'in — İmparatorluğun en güçlü savaşçılarından biri — kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, İmparatorluğun en ünlü ve en kutsal hazinesidir. Dawn Blade'in en büyük özelliği, onun gücüdür — onlar, bir Space Marine'in en güçlü kılıcıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Dawn Blade kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de semboliktir. Dawn Blade'in en ünlü özelliği, onun 'Şafak Kılıcı' anlamıdır — onlar, bir savaşçının en ünlü silahıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Dawn Blade, İmparatorluğun en ünlü ve en kutsal relic'idir — onlar, bir savaşçının gücünün ve İmparatorluğun onurunun somut halidir.
 
 ## Kanon Notu
 
-Farsight'ın doğal ömrünü aşmış görünmesinin kılıçla ilişkili olup olmadığı kanonda açıklanmamıştır. Kılıcın daemonik ya da kadim bir xenos eseri olduğuna dair yorumlar **Kanon durumu: doğrulanmamış teori**dir.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Arks of Omen: Farsight*; *Farsight: Crisis of Faith — Phil Kelly*
-
--# İlişkili kayıtlar: <#1551814127541026827>, <#1551809146850910260>, <#1551810874635976776>, <#1551654107058540595>
+Farsight'ın doğal ömrünü aşmış görünmesinin kılıçla ilişkili olup olmadığı kanonda açıklanmamıştır. Kılıcın daemonik ya da kadim bir xenos eseri olduğuna dair yorumlar **Kanon durumu

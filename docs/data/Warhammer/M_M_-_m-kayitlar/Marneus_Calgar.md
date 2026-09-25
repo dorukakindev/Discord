@@ -31,7 +31,7 @@ Bu disiplinin sert bir yüzü de vardır. Graham McNeill'in Uriel Ventris romanl
 
 ## Tarihçe
 
-Marneus Augustus Calgar, Ultramarines'in mevcut Chapter Master'ı, Greater Ultramar'ın Lord Savunucusu ve Ultramar Diyarı'nın başkenti Macragge'ın Lord'udur — galaksinin Doğu Hattı'ndaki en güçlü figür. Chapter'ın en ünlü lideri olarak 'Macragge'ın Efendisi' unvanını taşır; Tyrannic sava
+Marneus Calgar, Ultramarines'in Chapter Master'ı ve İmparatorluğun en ünlü ve en saygın komutanıdır; Lord Macragge olarak bilinen ve Ultramar'ın en büyük savunmalarını yöneten Calgar, İmparatorluğun en efsanevi ve en onurlu lideridir — onlar, Ultramarines'in en ünlü ve en saygın liderid
 
 ## Vigilus ve Abaddon
 Great Rift'in ardından Calgar, Nachmund Gauntlet'in anahtarı sayılan **Vigilus**'a ulaşarak çok cepheli bir savaşın ortasında karma bir Imperial savunmanın komutasını üstlendi. Kült tarafından sızılmış Aquilarian Council'ı dağıtıp yerine askerî komutanlardan oluşan **Vigilus Senate**'i kurması, onun kriz anında kurumları bile feda edebilen pragmatizmini gösterir. Ork'larla Genestealer Cult'ın çatışmasından yararlanan savunma, gezegeni çöküşün eşiğinde ayakta tuttu.

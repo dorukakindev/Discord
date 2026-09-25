@@ -21,6 +21,10 @@ Heresy başladığında White Scars, Chondax sisteminde Ork'lara karşı uzun bi
 
 Ardından gelen yıllarda White Scars, *The Path of Heaven*'da işlendiği üzere Traitor kuvvetleri, özellikle Death Guard'la amansız bir mücadeleye girişti ve sonunda Terra'ya ulaştı. Terra Kuşatması sırasında Legion, Khan'ın komutasında Lion's Gate uzay limanı çevresindeki çetin savaşlarda yer aldı. Kuşatmada ağır kayıplar veren White Scars, sadakatini en ağır bedelle kanıtlayan Legion'lardan biri oldu.
 
+## Tarihçe
+
+White Scars (V Legion), Jaghatai Khan'ın oğullarıdır; hız, özgürlük ve savaşın kutsallığına inanan ve Chogoris'in bozkır kültüründen gelen, İmparatorluğun en hızlı ve en özgür savaşçılarıdır. White Scars'ın savaş doktrini, Khan'ın bozkır felsefesinden doğar — onlar hızı sever, jetbike ve land speeder'ları tercih eder ve onların savaşı, bir baskın ve bir kaçıştır; bir White Scar, savaşta durmaz — akar, döner ve kaybolur. White Scars'ın en büyük özelliği, onlar
+
 ## Scouring ve Khan'ın Kayboluşu
 Scouring sırasında White Scars, kaçan Traitor kuvvetlerini galaksinin dört bir yanında kovaladı. Bu dönemin sonlarında Jaghatai Khan, Drukhari akıncılarını takip ederek Webway'e girdi ve bir daha geri dönmedi. Chapter onu ölü saymaz; Khan'ın Webway'de hâlâ savaştığına ve bir gün geri döneceğine inanır. Bu inanç, yayımlanmış kanonda doğrulanmamış bir Chapter inancıdır.
 

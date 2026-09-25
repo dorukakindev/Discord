@@ -19,5 +19,7 @@ Astropatik iletişim kusursuz değildir; mesajlar genellikle ham veri olarak de�
 
 Astropath, İmparatorluğun hayatta kalmasının ne kadar acımasız bir bedelle geldiğinin somut halidir; iletişim kurabilmek için, insanlar gözlerini ve bazen akıllarını feda eder. Onlar, kör ama her şeyi "gören" haberciler; galaksinin uçsuz bucaksız karanlığında, zihinden zihne fısıldayarak koca bir imparatorluğu bir arada tutan, yorgun ve fedakâr ruhlardır.
 
+## Tarih
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
 -# Çapraz: Soul Binding · Psyker · Adeptus Astra Telepathica · Black Ships

@@ -16,8 +16,4 @@ Graham McNeill'in romanlarında aşağılanmışlıktan beslenen hırsıyla yük
 
 ## Tarihçe
 
-Honsou, Iron Warriors'ın Warsmith'idir — kendi Grand Company'sinin kaptanı; 'yarı-ürey' soyu yüzünden ağır önyargıya rağmen Warsmith makamına ulaştı. Necrodermis'ten canlı metal koluyla ve Daemonculaba projesiyle bilinen bu figür, 'saf-soy elitizmine karşı çıkan' adam olarak IW'un en tehlikeli komutanlarından biridir.
-
--# Kaynaklar: *Storm of Iron — Graham McNeill*; *Dead Sky Black Sun — Graham McNeill*; *The Chapter's Due — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551637652569067542>, <#1551650332029751500>, <#1551809394226765939>, <#1551813775848509482>
+Honsou, Iron Warriors'ın en ünlü ve en acımasız Warsmith'i — kuşatma ustası — dır; İmparatorluğun en büyük kuşatmalarını yöneten ve onun en tehlikeli düşmanlarından biri olan Honsou, Chaos'un en zeki ve en acımasız komutanlarından biridir — onlar, Iron Warriors'ın en ünlü ve en tehlikeli üyesidir. Honsou'nun en büyük özelliği, onun zekasıdır — onlar, kuşatma savaşının en büyük ustasıdır ve onların planları, İmparatorluğun en güçlü kalelerini bile yıkar; bir Honsou, hem bir mühendis hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de stratejiktir. Honsou'nun en ünlü görevi, Ultramar'a saldırması ve Uriel Ventris'le savaşmasıdır — onlar, Ultramarines'in en büyük düşmanlarından biridir ve onların varlığı, İmparatorluğun en büyük tehdidinin kanıtıdır. Honsou, Iron Warriors'ın en ünlü ve en acımasız Warsmith'idir — onlar,

@@ -15,12 +15,10 @@ Her bireyin ve her türün bütünün iyiliği için kendine düşen rolü üstl
 
 ## Tarihçe
 
-Ethereal'lerin rehberliğiyle kurulan kast düzeni Sphere Expansion dalgalarıyla dışa açıldı. Kroot, Vespid ve Gue'vesa denen insan yardımcılar imparatorluğa farklı ölçülerde gönüllülükle katıldı. Farsight'ın Arthas Moloch'tan sonra kopuşu, öğretinin kimin yorumunun esas alınacağı sorusunu T'au'nun kendi içine taşıdı.
+T'au'va (Greater Good), T'au Empire'ın en temel ve en önemli felsefesidir; onların tüm türlerin birlikte yaşamasını ve çalışmasını savunan bir felsefedir — onlar, T'au'nun en temel ve en önemli öğretisidir. T'au'va'nın en büyük özelliği, onun birliğidir — onlar, tüm türlerin birlikte yaşamasını savunur ve onların felsefesi, T'au'nun en büyük gücünün kanıtıdır; bir T'au'va takipçisi, hem bir savaşçı hem de bir filozoftur ve onların savaşı, hem fiziksel hem de ideolojiktir. T'au'va'nın en ünlü özelliği, onun Ethereal Caste'in öğretisidir — onlar, T'au'nun liderlerinin öğretisidir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır. T'au'va, T'au Empire'ın en temel ve en önemli felsefesidir — onlar, birliğin ve iyinin somut halidir.
 
 ## Kanon Notu
 
-Ethereal'lerin etkisinin feromonlara dayandığı iddiası Imperial kaynaklara ait evren içi bir spekülasyondur. Öğretiye direnenlerin yeniden eğitildiği ya da ortadan kaldırıldığı da kaynaklarda anlatılır; ideal ile uygulama ayrı değerlendirilmelidir. Terim "Tau'va" diye de yazılır.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Fire Caste — Peter Fehervari*; *Farsight: Crisis of Faith — Phil Kelly*
+Ethereal'lerin etkisinin feromonlara dayandığı iddiası Imperial kaynaklara ait evren içi bir spekülasyo
 
 -# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>, <#1551643950014795948>

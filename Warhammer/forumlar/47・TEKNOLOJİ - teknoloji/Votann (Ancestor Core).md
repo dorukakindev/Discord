@@ -16,8 +16,6 @@ Kin uygarlığının kalbidir. Kin, Votann'ları atalarının bilgeliğini taş�
 
 ## Tarihçe
 
-Age of Strife'ın Warp fırtınaları Kin'i insanlığın geri kalanından uzun süre ayırdığında, galaktik çekirdekteki topluluklar çökmek yerine Votann'ların sakladığı bilgiyle ayakta kaldı. Kâhl'lar stratejik kararlarda Votann'ın rehberliğini gözetir, Grimnyr'ler ise onlarla bağlantı kuran ancestor-psyker'lar olarak bilinir. Ûthar the Destined'in unvanı, Votann'ların onun için öngördüğü zaferlerle ilişkilendirilir.
-
--# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votann — 10th Edition*
+Votann (Ancestor Core), Leagues of Votann'ın bilgi merkezidir; Kin ırkının tüm genetik kayıtlarını, tarihini, teknik bilgisini ve kolektif belleğini saklayan devasa cognitif çekirdektir. Her League'in kendi Votann'ı vardır ve bunlar hem kütüphane hem danışman hem de kısmen tanrıdır — Kin, Votann'a danışır, ondan cloneskein üretim onayı alır ve onun hesaplamalarına göre yaşar. Votann'lar yapay zekâdır ama Kin onları böyle görmez; onlar 'ata bilgeliğinin somutlaşmış hali'dir ve League'in kutsal merkezi sayılır. Zamanla Votann'lar yavaşlar — on binlerce yıllık veri yükü onları hesaplama ağırlığına boğar ve bazı League'lerin Votann'ları artık günler
 
 -# İlişkili kayıtlar: <#1551759789988642876>, <#1551813334993739777>, <#1551810663859626054>, <#1551757340905181286>

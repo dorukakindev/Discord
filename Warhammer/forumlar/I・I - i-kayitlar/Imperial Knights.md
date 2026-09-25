@@ -17,6 +17,10 @@ Age of Strife ile yıldızlararası bağlar koptuğunda bu dünyalar yalnız kal
 
 Great Crusade sırasında Imperium ve Mechanicum bu dünyaları yeniden buldu. Knight Hanelerinin önemli bir kısmı Mars ile yemin bağıyla bağlanarak Mechanicum'a hizmet etmeye başladı; Mechanicum bunun karşılığında suit'lerin bakımı ve yenilenmesi için gerekli bilgi ve malzemeyi sağladı. Diğer Haneler doğrudan Emperor'a yemin ederek Imperialis çizgisini oluşturdu. Bu iki yönlü sadakat, Knight Hanelerinin sonraki bütün tarihine yön verecekti.
 
+## Tarihçe
+
+Imperial Knights, İmparatorluğun en eski ve en soylu savaş gücüdür; devasa mekanik savaş makinelerini pilotlayan ve Knight World'lerde yaşayan asil ailelerin oluşturduğu bir güçtür — onlar, İmparatorluğun en geleneksel ve en onurlu savaşçılarıdır. Imperial Knights'ın en büyük özelliği, onların şövalyeliğidir — onlar, sadece savaşçı değil, aynı zamanda şövalyedirler; bir Knight pilotu, bir makine değil, bir şövalyedir ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Imperial Knights'ın en ünlü özelliği, onların Throne Mechanicum'udur — onlar, atalarının bilgisini ve ruhunu taşıyan ve Knight'ı pilotlayan pilotun zihnine bağlanan bir sistemdir; bir Throne Mechanicum, hem bir makine hem de bir mirastır ve
+
 ## Kültür, Yapı ve Ritüel
 Bir Knight World'ün toplumu katı bir hiyerarşiye dayanır. Hanenin başında, Questor Imperialis geleneğinde **High Monarch**, Questor Mechanicus geleneğinde ise **Princeps** olarak anılan bir hükümdar bulunur. Onun altında Hanenin Noble'ları, onların altında ise daha küçük **Armiger** suit'lerini kullanan alt soylular ve maiyet (bondsmen) yer alır. Armiger pilotları, kendilerini bir lorda bağlayan sinirsel bir bağla onun iradesine tabi olabilir. Knight'ların bakımını, Mechanicus eğitimi almış **Sacristan** kastı üstlenir.
 

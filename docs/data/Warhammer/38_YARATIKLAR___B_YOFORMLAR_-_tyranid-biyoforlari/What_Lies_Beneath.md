@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c4/What_Lies_Beneath.png
 
 ## Tarihçe
 
-'What Lies Beneath', Hive Fleet Dagon'un olağanüstü büyük Trygon'udur; Castobel'in istilasının erken aşamalarında ilk kez doğrulanmış — toprak altından gelen en korkulan tyranid.
+What Lies Beneath, Tyranid'in en gizli ve en sinsi yaratığıdır; bir gezegenin yeraltında bekleyen ve onun yüzeyini delerek saldıran en sinsi organizma olan What Lies Beneath, Tyranid'in en gizli ve en sinsi varlığıdır — onlar, Tyranid'in en gizli ve en sinsi yaratığıdır. What Lies Beneath'in en büyük özelliği, onun sinsiliğidir — onlar, bir gezegenin yeraltında bekleyen ve onu delen en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir What Lies Beneath, hem bir yaratık hem de bir tünel kazıcısıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. What Lies Beneath'in en ünlü özelliği, onun yeraltında yaşamasıdır — onlar, bir gezegenin altında bekleyen ve onu delen en sinsi yaratıktır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır. What Lies Beneath, Tyranid'in en gizli ve en sinsi yaratığıdır — onlar, bir tünel kazıcısının ve Tyranid'in en sinsi gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

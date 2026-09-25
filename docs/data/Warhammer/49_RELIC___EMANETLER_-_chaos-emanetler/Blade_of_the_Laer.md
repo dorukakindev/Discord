@@ -14,6 +14,4 @@ Blade'in gücü, hem fiziksel hem ruhsaldir: her yarası 'zevk ve acının' kar�
 
 ## Tarihçe
 
-Blade of the Laer, Fulgrim'in Laeran tapınağından aldığı meşhur daemon-kılıçtır; içindeki daemon ruhu, primarch'ın yavaş yavaş yozlaşmasının araçlarından biriydi. Fulgrim onu İmparatorluk Tarikatı'ndaki zafer töreninden sonra kuşandı ve kılıç, onu Slaanesh'in yoluna çeken sinsi bir sırdaş oldu.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Blade of the Laer, Chaos'un en ünlü ve en trajik relic'idir; Fulgrim'in — Emperor's Children'ın primarch'ı — Laer'dan — bir xeno gezegeni — aldığı ve onun Chaos'a düşmesinin başlangıcı olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en trajik silahıdır. Blade of the Laer'ın en büyük özelliği, onun trajedisidir — onlar, bir primarch'ın düşüşünün başlangıcıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Blade of the Laer, bir primarch'ın Chaos'a düşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Blade of the Laer'ın

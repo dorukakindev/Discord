@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9e/AnvillusDreadclaw00.p
 
 ## Tarihçe
 
-Anvillus Pattern Dreadclaw, Heresy döneminde geliştirilen gelişmiş drop-pod kalıbıdır; modern Dreadclaw'un öncüsü olan bu iniş aracı, düşman hatlarını delip içinden birlik indiren 'pençe' olarak bilinir.
+Anvillus Pattern Dreadclaw, Legiones Astartes tarafından kullanılan bir uzay saldırı ve taşıma aracıdır; onun delici gücü ve taşıma kapasitesiyle — bir kadro Space Marine'i taşıyabilen ve bir düşman gemisini delebilecek bir araçtır — onlar, Space Marine'lerin en güçlü ve en yıkıcı uzay taşıma aracıdır. Dreadclaw'ın en büyük özelliği, onun delici gücüdür — onlar, bir düşman gemisinin gövdesini bile delebilir; bir Dreadclaw, bir düşman kalesini tek atışla yok edebilir ve onların varlığı, bir Space Marine uzay saldırısının merkezidir. Dreadclaw'ın en ünlü görevi, Horus Heresy'deki çeşitli uzay savaşlarıdır — onlar, Space Marine Legion'larının en güçlü uzay taşıma aracıydı ve onların varlığı, bir Legion'un en güçlü silahıydı. Anvillus Pattern Dreadclaw, Space Marine'lerin en güçlü ve en yıkıcı uzay taşıma aracıdır — onlar, bir Legion'un uzay gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

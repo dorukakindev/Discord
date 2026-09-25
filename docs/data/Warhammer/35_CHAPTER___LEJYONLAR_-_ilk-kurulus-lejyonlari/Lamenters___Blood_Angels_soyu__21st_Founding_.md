@@ -15,12 +15,8 @@ Talihsizliğin peşini bırakmadığı, yas ve ağıt simgelerini kendi kimliği
 
 ## Tarihçe
 
-Badab War'da Astral Claws'ın safında yer alan Lamenters, bunu isyan değil Astartes'in özerkliğine yönelik bir saldırıya karşı duruş olarak gördüklerini ileri sürdüler. Minotaurs'a karşı verdikleri ağır yenilginin ardından affedilip uzun bir penitent crusade'e mahkûm edildiler. Kefaret yolculukları onları Hive Fleet Kraken'ın önüne çıkardı ve Chapter bu savaşlarda yeniden ağır kayıplar verdi.
+Lamenters, Blood Angels soyu ve 21st Founding'de (Cursed Founding) kurulan talihsiz bir Space Marine Chapter'ıdır; onların gene-seed'i, Black Rage'i kontrol edecek şekilde değiştirilmeye çalışıldı ama sonuç, daha da büyük bir lanet oldu — Lamenters, İmparatorluğun en şanssız ve en trajik Chapter'ıdır. Lamenters'ın en büyük özelliği, onların kötü şansıdır — onların savaşları, hep en zorlu anlarda ve en ağır kayıplarla yaşanır; onların Badab War'daki trajedisi, Chapter'ın neredeyse yok olmasıydı ve onların Tyranid istilasındaki kayıpları, Chapter'ı bir daha toparlanamayacak hale getirdi. Lamenters'ın en büyük trajedisi, onların iyi niyetidir — onlar, İmparatorluğun en sadık ve en fedakar savaşçılarıdır ama onların gene-seed'i, onları lanetler ve onların her zaferi, bir felaketle sonuçlanır. Lamenters, İmparatorluğun en trajik ve en saygın Chapter'ıdır — onlar, lanetli ama sadık olanlardır.
 
-## Teknik / Biyolojik Özellikler
-
-Gene-seed'lerinin uzun süre Red Thirst ve Black Rage'den görece uzak kaldığı, ancak sonraki anlatımlarda kusurun geri döndüğüne dair işaretler bulunduğu belirtilir. Doktrin: şok saldırısı ve yakın hava desteği.
-
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War — Part One*; *Imperial Armour Volume Ten: The Badab War — Part Two*
+## Teknik / Biyolojik
 
 -# İlişkili kayıtlar: <#1551811438547312645>, <#1551811368389181491>, <#1551815033518948404>

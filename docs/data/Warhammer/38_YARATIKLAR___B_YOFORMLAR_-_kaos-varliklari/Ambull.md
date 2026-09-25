@@ -15,12 +15,4 @@ Ambull, kayayı ve toprağı dev pençeleriyle yararak yeraltında ilerleyen, ir
 
 ## Tarihçe
 
-Ambull, böcek benzeri zırhlı kabuğu ve demir-sert pençeleri olan, kabaca insansı dev xenos yaratığıdır; kambur duruşu gerçek boyunu gizler ama tam ayağa kalktığında pençeleri havada dört metreye ulaşır. Yeraltında tünel kazıp yaşayan bu avcı, madencilik kolonilerinin ve kovan şehirlerinin kabusudur — 'yakanın altındaki dev' olarak İmparatorluk dünyalarında korkulan figür.
-
-## Teknik / Biyolojik Özellikler
-
-Kazıya uyarlanmış güçlü pençeler, kalın dış kabuk ve karanlık tünellerde avlanmaya uygun duyular. Zekâsı bir hayvanın ötesine geçmez; tehlikesi saldırganlığından ve yeraltından beklenmedik biçimde belirmesinden gelir.
-
--# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*
-
--# İlişkili kayıtlar: <#1551809846066548779>, <#1551815439078658154>
+Ambull, İmparatorluğun en gizli ve en tehlikeli yaratığıdır; bir gezegenin yeraltında yaşayan ve onun yüzeyini delerek saldıran en tehlikeli yaratık olan Ambull, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli yaratığıdır. Ambull'un en büyük özelliği, onun tehlikesidir — onlar, bir gezegenin yeraltında yaşayan ve onu delerek saldıran en tehlikeli yaratıktır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Ambull, hem bir yaratık hem de bir tünel kazıcısıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Ambull'un en ünlü özelliği, onun yeraltında yaşamasıdır — onlar, bir gezegenin altında bekleyen ve onu delen en tehlikeli yaratıktır ve onların varlığı, İmparatorluğun en sinsi gücünün kanıtıdır. Ambull, İmparatorluğun en gizli ve en tehlikeli yaratığıdır — onlar, bir tünel kaz

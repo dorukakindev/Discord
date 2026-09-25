@@ -16,8 +16,6 @@ Zaman ile maddenin Warp'la karıştığı daemon world'lerde ya da gizli üslerd
 
 ## Tarihçe
 
-Kırk bininci binyılda Dark Mechanicus tek bir merkezî devlet olarak değil, Heretic Astartes warband'lerine, Chaos Knight Houses'a ve hain Titan Legio'larına hizmet eden dağınık bir hell-forge ağı olarak görünür. Iron Warriors'ın Eye of Terror'daki daemon world'ü Medrengard, bu kuşatma ve üretim kültürüyle özdeşleşmiş yerlerin başında anılır.
+Hell-forge, Dark Mechanicus'un Warp'ta çalışan yozlaşmış üretim tesisleridir; burada makine ile demon kaynaşır, Obliterator virüsü işlenir ve Daemon Engine'ler dövülür. Normal bir Forge World'ün Chaos'a düşmüş halidir — makine yaşıyor, üretim bantları etten yapılmış ve Tech-priest'ler artık Warpsmith veya Daemonologist olarak çalışıyor. Hell-forge'lar Chaos warband'lerine, Traitor Legion'lara ve daemon ordularına silah, zırh ve Daemon Engine sağlar; karşılığında ruh, köle veya hammadde alırlar. En ünlü Hell-forge'lar Eye of Terror'daki ve Maelstrom'daki dünyalardır; bazıları eski Imperial forge world'lerin düşmüş kalıntılarıdır. Üretim tamamen Warp mantığıyla işler — bir Hell-forge'dan çıkan silah sadece metal değil, ruh da taşır ve İmparatorluk'ta kullanılan her Chaos silahının arkasında bir Hell-forge vardır.
 
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *Dead Sky, Black Sun — Graham McNeill*
-
--# İlişkili kayıtlar: <#1551650329156788287>, <#1551637652569067542>, <#1551813775848509482>, <#1551650332029751500>
+-# Kaynaklar: *Code

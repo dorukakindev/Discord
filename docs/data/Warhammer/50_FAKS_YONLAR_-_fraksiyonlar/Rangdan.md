@@ -14,7 +14,7 @@ Great Crusade'in en kanlı ve en az açıklanmış savaşları olan Rangdan Xeno
 
 ## Tarihçe
 
-Galaksinin kuzey sınırlarında yürütüldüğü anlatılan bu savaşlarda Dark Angels'ın ağır kayıplar verdiği sık vurgulanır. Savaşların tarihleri ve katılan kuvvetler kesinleştirilmez.
+Rangdan, WH40K evreninin en eski ve en tehlikeli xeno tehditlerinden biridir; Büyük Haçlı Seferi'nde İmparatorluk'la savaşan ve neredeyse insanlığı yok eden bir türdür — onların savaşı, İmparatorluğun en karanlık ve en gizli tarihidir. Rangdan'ın savaşı, İmparatorluğun en zorlu savaşıydı — onlar, teknoloji ve organizasyon açısından İmparatorluk'la eşit seviyedeydi ve onların orduları, İmparatorluğun en iyi Legion'larını bile zorladı; ve onların yenilgisi, İmparatorluğun en büyük askeri başarılarından biridir — ama onların varlığı, İmparatorluk kayıtlarından neredeyse silindi. Rangdan'ın en büyük özelliği, onların belirsizliğidir — onların tam olarak ne oldukları, neye benzedikleri ve ne kadar güçlü oldukları bilinmiyor; ama bilinen tek şey, onların İmparatorluğu neredeyse yok ettiği ve onların yenilgisinin, İmparatorluğun en büyük gizli zaferi olduğudur. Rangdan, İmparatorluğun en eski ve en gizli düşmanıdır — onlar, İmparatorluğun kendi tarihini bile reddettiği kanıttır.
 
 -# Kaynaklar: *Horus Heresy Book One: Betrayal*
 

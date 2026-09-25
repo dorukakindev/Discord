@@ -16,8 +16,8 @@ Hive Fleet Leviathan'ın yolunda tüketilen ve Mechanicus için Third Tyrannic W
 
 ## Tarihçe
 
-997.M41'de galaktik düzlemin altından yükselen Leviathan, birbirinden uzak kollarla Imperial bölgeyi kıskaca aldı. Güney kollarından biri Gryphonne IV'e ulaştı ve Forge World tüketildi. Kaybın ağırlığı yalnızca bir dünyanın yok oluşunda değil, Mechanicus'un bu dünyada biriktirdiği üretim kapasitesinin ve kadim bilginin de onunla birlikte gitmesindeydi.
+Gryphonne IV, Adeptus Mechanicus'un en büyük ve en önemli Forge World'lerinden biridir; onun devasa fabrikaları ve üretim kapasitesiyle — İmparatorluğun en büyük silah üretim merkezlerinden biridir — onlar, İmparatorluğun teknolojik gücünün somut halidir. Gryphonne IV'ün en büyük özelliği, onun üretim kapasitesidir — onlar, İmparatorluğun en büyük silah fabrikalarından birini barındırır ve onların üretimi, İmparatorluğun en büyük gücüdür; bir Gryphonne IV, bir gezegenin tamamen fabrikaya dönüşmesidir. Gryphonne IV'ün en ünlü özelliği, onun Leman Russ üretimidir — onlar, İmparatorluğun en yaygın tankının üretim merkezidir ve onların varlığı, Imperial Guard'ın en büyük gücünün kanıtıdır. Gryphonne IV, İmparatorluğun en büyük ve en önemli Forge World'üdür — onlar, teknolojinin ve üretimin somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids*
 
--# İlişkili kayıtlar: <#1551809334483361823>, <#1551753449878724689>, <#1551815033518948404>, <#1551816635839549491>
+-# İlişkili kayıtlar: <#15518093344833

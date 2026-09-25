@@ -16,8 +16,6 @@ Patriarch, bir Genestealer Cult'ın tepesindeki varlık ve kültün psişik merk
 
 ## Tarihçe
 
-Patriarch, Genestealer kültünün en eski ve en üst hibritidir — gezegene inen ilk safkan Genestealer'ın soyundan gelen ve kültü 'babalık' eden figür. Kültün hem dini hem biyolojik merkezi olarak 'ailenin babası' rolünü oynar; ona bağlı hibrit nesilleriyle Hive Mind'ın gezegendeki canlı tahtıdır.
+Patriarch, Genestealer Cults'un en yüksek ve en kutsal lideridir; onların bir kültün merkezindeki ilk Genestealer olan Patriarch, kültün psişik gücünün kaynağı ve onların en büyük tanrısıdır — onlar, Genestealer Cults'un en yüksek ve en kutsal varlığıdır. Patriarch'ın en büyük özelliği, onun psişik gücüdür — onlar, bir kültün tüm üyelerini psişik olarak kontrol eden ve onların kolektif bilincinin merkezidir ve onların varlığı, kültün en büyük gücünün kanıtıdır; bir Patriarch, hem bir lider hem de bir tanrıdır ve onların varlığı, Tyranid'in en sinsi silahının somut halidir. Patriarch'ın en ünlü özelliği, onun kültün merkezidir — onlar, bir kültün ilk Genestealer'ıdır ve onların varlığı, Tyranid'in en büyük tehdidinin kanıtıdır. Patriarch, Genestealer Cults'un en yüksek ve en kutsal lideridir — onlar, bir kültün psişik merkezinin ve Tyranid'in en sinsi gücünün somut halidir.
 
--# Kaynaklar: *Codex: Genestealer Cults — 10th Edition*; *Day of Ascension — Adrian Tchaikovsky*
-
--# İlişkili kayıtlar: <#1551759784821137419>, <#1551759780211589197>, <#1551814990338723904>
+-

@@ -15,6 +15,6 @@ Commander Dante'nin önderliğinde Baal'ın savunması; 'Great Devourer'ın Baal
 
 ## Tarihçe
 
-Guy Haley'in 999.M41 romanı; Hive Fleet Leviathan'ın Baal'e saldırısı, Blood Angels ve tüm Successor Chapter'ların Dante komutasında ana-yurdu savunması. Tyranid Savaşı'nın en büyük set-piece'i.
+The Devastation of Baal, Guy Haley'nin yazdığı ve Blood Angels'ın Baal'ın Yıkımı'nı anlatan bir romandır. Bu roman, Blood Angels'ın Baal'ın Yıkımı'nı anlatır; roman, Blood Angels'ın en trajik hikâyesidir. Bu roman, Blood Angels'ın en trajik hikâyesidir; roman, Blood Angels'ın en trajik parçasıdır. Roman, Blood Angels'ın en trajik hikâyesi olarak kalır.
 
 -# Kaynaklar: Black Library

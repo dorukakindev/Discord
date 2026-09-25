@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Imperator_Mortis.jpg/revision/latest/scale-to-width-down/642?cb=20210131202318
 
+## Tarihçe
+
+Void Shield, büyük gemi ve Titan'ları koruyan enerji kalkanıdır; üzerine düşen maddeyi veya enerjiyi Warp'a kaydırarak yok eden bir savunma katmanıdır. Katmanlı yapıdadır — bir Titan'ın birden çok katmanı vardır ve her katman belirli hasarı emdikten sonra düşer, jeneratör soğuyup yeniden kalkana kadar savunmasız kalır. Void shield fiziksel darbelere (mermi, füze, lazer) karşı etkilidir ama yakın dövüşe yavaş gelir — Titan'ın gövdesine tırmanan piyade kalkanın altından geçebilir. Imperial Navy gemilerinde standarttır ve bir geminin zırhı kırıldığında ilk savunma hattı void shield'dir. Teknoloji Dark Age of Technology'den kalma, Mechanicus tarafından üretilen ve bakımı törensel hassasiyet isteyen kutsal düzenektir.
+
 https://static.wikia.nocookie.net/warhammer40k/images/5/5b/Imperator_Mortis.jpg/revision/latest?cb=20210131202318
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

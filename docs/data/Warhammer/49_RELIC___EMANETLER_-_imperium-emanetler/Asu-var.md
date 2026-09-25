@@ -14,7 +14,7 @@ Yvraine'in koruyucusu, Sword of Ynnead olarak da anılan Visarch'ın kullandığ
 
 ## Tarihçe
 
-Visarch, Ynnari'nin ortaya çıkışından itibaren Yvraine'in yanında yer aldı. Biel-Tan'daki savaşlardan Gathering Storm'un öteki cephelerine uzanan olaylarda Asu-var'la dövüştüğü anlatılır. Visarch'ın geçmişi ve Yvraine ile ilişkisi Ynnari anlatısında önem taşır.
+Asu-var, Aeldari'nin en ünlü ve en kutsal relic'idir; bir Aeldari Phoenix Lord'un — Aeldari'nin efsanevi savaşçıları — kullandığı ve onun en büyük savaşlarının simgesi olan bir silahtır — onlar, Aeldari'nin en ünlü ve en kutsal hazinesidir. Asu-var'ın en büyük özelliği, onun gücüdür — onlar, bir Phoenix Lord'un en güçlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Asu-var kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Asu-var'ın en ünlü özelliği, onun Phoenix Lord'un silahıdır — onlar, Aeldari'nin en efsanevi savaşçısının simgesidir ve onların varlığı, Aeldari'nin en büyük onurunun kanıtıdır. Asu-var, Aeldari'nin en ünlü ve en kutsal relic'idir — onlar, bir Phoenix Lord'un mirasının ve Aeldari'nin ruhunun somut halidir.
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*
 

@@ -14,7 +14,7 @@ Age of Apostasy'yi sona erdiren Confederation of Light hareketinin önderi ve ar
 
 ## Tarihçe
 
-Vandire'ye karşı vaazları geniş kitleleri harekete geçirdi; kendisini ezmek için gönderilen Frateris Templars filosunun bir Warp fırtınasında yok olması, izleyicilerince ilahî işaret sayıldı. Vandire'nin düşüşünden sonra Ecclesiarch oldu.
+Saint Sebastian Thor, İmparatorluğun en ünlü ve en önemli Ecclesiarch'ıdır; Goge Vandire'in düşüşünden sonra Ecclesiarchy'yi yeniden kuran ve İmparatorluğun en kutsal organizasyonunu yöneten Thor, İmparatorluğun en önemli ve en kutsal figürüdür — onlar, İmparatorluğun en ünlü ve en önemli Ecclesiarch'ıdır. Sebastian Thor'un en büyük özelliği, onun reformudur — onlar, Ecclesiarchy'yi yeniden kuran ve onu reforme eden en önemli figürdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Thor, hem bir rahip hem de bir liderdir ve onların varlığı, İmparatorluğun dininin en büyük geleneğinin somut halidir. Sebastian Thor'un en ünlü özelliği, onun Ecclesiarch'ıdır — onlar, İmparatorluğun en kutsal organizasyonunun en yüksek rütbeli figürüdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır. Saint Sebastian Thor, İmparatorluğun en ünlü ve en önemli Ecclesiarch'ıdır — onlar, bir reformun ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas — 10th Edition*
 

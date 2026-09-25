@@ -12,4 +12,7 @@ Leman Russ, buzul ölüm dünyası Fenris'e düştü ve efsaneye göre bir dişi
 
 ## Heresy ve Kayboluş
 Russ, İmparator'un "infazcısı"ydı: Prospero'da Thousand Sons'ı durdurmak için gönderildi ve Magnus'la teke tek savaşıp lejyonunu neredeyse kırdı — ama Horus'un tuzakları emri yozlaştırmıştı. Heresy'de sadık kaldı, Yarant'ta hainleri vurdu; lejyonu ağır kayıp verdi. Savaştan sonra İmparator Altın Taht'a bağlandığında Russ, gözyaşları içinde Fenris'e döndü — sonra yoldaşlarını toplayıp Eye of Terror'a, "son savaşta" döneceğine dair söz vererek kayboldu. Space Wolves onu hiçbir zaman ölü saymaz; her yıl Great Feast'te dönüşü beklenir.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Leman Russ, Space Wolves'un en ünlü ve en efsanevi primarch'ıdır; Fenris'in — Space Wolves'un ev gezegeni — en büyük savaşçısı olan ve Space Wolves'u kuran Russ, İmparatorluğun en efsanevi ve en vahşi primarch'ıdır — onlar, Space Wolves'un en ünlü ve en efsanevi primarch'ıdır. Leman Russ'un en büyük özelliği, onun vahşetidir — onlar, F

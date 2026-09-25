@@ -17,5 +17,7 @@ Bir cogitator, modern anlamda zarif bir bilgisayar değildir; çoğu büyük, ha
 
 Ama bir cogitator'a kesinlikle izin verilmeyen tek bir şey vardır: gerçek yapay zeka. İmparatorluk, Karanlık Çağ'da "Silica Animus" (düşünen makineler) ile yaşadığı felaketin (insanlığı neredeyse yok eden makine isyanı) dehşetini hiç unutmadı; bu yüzden hiçbir cogitator'ın gerçek bilince ulaşmasına asla izin verilmez, bu en ağır sapkınlıktır (Abominable Intelligence). Cogitator, İmparatorluğun teknolojiyle kurduğu travmatik ilişkinin somut halidir; insanlık, bir zamanlar düşünen makineler yarattı ve neredeyse bunun bedelini ödedi, şimdi ise makinelerine tapınır ama onların asla "uyanmasına" izin vermez. O, korkuyla kısıtlanmış, ilerlemesi yasaklanmış bir teknolojinin simgesidir.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
--# Çapraz: Makine Ruhu · Adeptus Mechanicus · STC · Servitor
+
+## Tarihçe
+
+Cogitator, İmparatorlukta bilgisayar karşılığı kullanılan terimdir; en basit hesaplayıcıdan devasa arşiv ağlarına kadar her türlü veri işleme makine

@@ -10,6 +10,10 @@ Emri verme yetkisi en çok Inquisition'la ilişkilendirilir: Rosette taşıyan b
 
 Exterminatus hafife alınan bir karar olarak sunulmaz. Bir dünyanın yok edilmesi, onun tithe'ını, sanayisini, alaylarını ve stratejik konumunu da sonsuza dek silmek demektir. Bu yüzden karar, Imperium içinde çoğu zaman sert tartışmalara, kurumlar arası gerilimlere ve kimi zaman kararı verenin kendi meslektaşlarınca yargılanmasına yol açar. Sıradan halk ise Exterminatus'un varlığından çoğu zaman habersizdir; kayıtlarda bir dünyanın adı yalnızca sessizce silinir.
 
+## Tarihçe
+
+Exterminatus, bir gezegenin tamamen yok edilmesi emridir; İmparatorluğun en ağır ve en son çare kararıdır ve sadece bir gezegenin kurtarılamayacak kadar yozlaştığı, işgal edildiği veya tehdit haline geldiği durumlarda verilir. Exterminatus'un yöntemleri çeşitlidir — Virus Bomb (atmosferi yakan biyolojik silah), Cyclonic Torpedo (gezegeni ikiye bölen nükleer silah),
+
 ## Yöntemler
 Kaynaklarda Exterminatus'un tek bir tekniği yoktur; hedefe ve eldeki araçlara göre farklı yöntemler anlatılır:
 - **Virus bombing:** En bilinen yöntem, **life-eater** virüsünün yörüngeden salınmasıdır. Virüs organik maddeyi kısa sürede çürütür, açığa çıkan gazlar ateşlenince bütün gezegeni saran bir yangın fırtınası doğar. Gezegenin kendisi ayakta kalır, ama yüzeyinde yaşam kalmaz.

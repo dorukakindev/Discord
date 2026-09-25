@@ -12,6 +12,6 @@ Dolan, isyancı dünya Gathalamor'a giderek onun koşulsuz teslimiyetini talep e
 
 ## Tarihçe
 
-Dolan Chirosius ('Great Confessor'), M36'daki Plague of Unbelief'in ikinci evresinde düşen Confessor'dur; Kardinal Bucharis'in Gathalamor isyanına karşı İmparatorluk'a sadakatle sonuna dek savaştı. İşkenceyle öldürülüp bedeni sergilendi, ama fedakârlığı Bastion of Faith'in kurtuluşuna ilham oldu; sonradan aziz ilan edildi ve adı kefaret mücadelesiyle özdeşleşti.
+Dolan Chirosius, Sisters of Battle'ın en ünlü ve en kutsal figürüdür; İmparatorluğun en kutsal savaşlarını yöneten ve onun en önemli figürü olan Chirosius, İmparatorluğun en kutsal ve en önemli varlığıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal figürüdür. Dolan Chirosius'un en büyük özelliği, onun kutsallığıdır — onlar, İmparatorluğun en kutsal savaşlarını yöneten en önemli figürdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Chirosius, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Dolan Chirosius'un en ünlü özelliği, onun Sisters of Battle'ın üyesidir — onlar, İmparatorluğun en kutsal ordusunun en önemli figürüdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır. Dolan Chirosius, Sisters of Battle'ın en ünlü ve en kutsal figürüdür — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

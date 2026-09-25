@@ -15,12 +15,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c0/Eldar_Warlock.jpg/rev
 
 ## Tarihçe
 
-Great Crusade'de Legion Librarian'ları force weapon taşıdı; Council of Nikaea kararıyla Legion Librarius'ları dağıtıldı; bu yasağın Heresy boyunca nasıl uygulandığı kaynaklara göre değişir. M41'de Librarian'ların, Primaris Psyker'ların ve psyker Inquisitor'ların silahıdır. Grey Knights'ın Nemesis force weapon'ları, bazıları storm bolter ile birleşik olmak üzere, daemon avının simgesidir.
-
-## Teknik / Biyolojik Özellikler
-
-Psyker olmayan birinin elinde sıradan bir silahtır. Psişik güçle yüklendiğinde Warp varlıklarına ve ruhlara zarar verebildiği anlatılır; bu nedenle daemon'lara karşı değerli sayılır.
-
--# Kaynaklar: *Codex: Grey Knights*; *Codex: Space Marines — 10th Edition*; *A Thousand Sons — Graham McNeill*
+Force Weapon, psyker'ların psişik gücünü fiziksel silaha kanalize eden özel silahlardır; bir force sword, force staff veya force axe, psyker'ın iradesini bıçağına veya topuzuna yansıtır ve onun kesimi, hem fiziksel hem de psişik yıkım getirir. Force Weapon'ın çalışması basit ama dehşet vericidir — psyker, gücünü silahına kanalize eder ve o silah, psişik enerjiyi fiziksel kesime çevirir; bir force sword'un kesimi, bir daemon'un bedenini ve ruhunu aynı anda parçalar ve bir force staff'ın darbesi, hem fiziksel hem de psişik şok dalgası yayar. Force Weapon'ların en güçlüleri, Grey Knights'ın Nemesis force weapon'larıdır — onlar, Chapter'ın en saf psişik gücünü taşır ve bir Nemesis force weapon, bir Greater Daemon'u tek hamlede durdurabilir. Force Weapon, İmparatorluğun en nadir ve en kutsal silahıdır — onu taşıyan, h
 
 -# İlişkili kayıtlar: <#1551641477501947995>, <#1551818131679215728>, <#1551815304252887041>, <#1551810610264678443>

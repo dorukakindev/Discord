@@ -14,6 +14,4 @@ Rak'gol'un tehlikesi, 'nedensizliğidir' — fetih, kaynak veya ideoloji değil,
 
 ## Tarihçe
 
-Rak'gol, galaksinin en vahşi xenos avcı ırklarından biridir; çıplak kas, doğal zırh ve cybernetic implant'larla donanmış yamyamlardır. Uzayda bordalama saldırılarıyla ünlüdürler — gemileri kesip içindekileri yiyen, teknolojik olarak ilkel ama savaşta acımasız bir ırk.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Rak'gol, WH40K evreninin en vahşi ve en korkulan xeno türlerinden biridir; devasa böcek benzeri yaratıklardır ve İmparatorluğun en tehlikeli sınır bölgelerinde yaşayan bir türdür — onlar, İmparatorluğun en vahşi ve en ölümcül düşmanlarından biridir. Rak'gol'un en büyük özelliği, onların vahşetidir — onlar, sadece öldürmek için savaşır ve onların savaşı, hem fiziksel hem de zihinsel bir kabusdur; bir Rak'gol, bir Space Marine'i bile kolayca yenebilir ve
