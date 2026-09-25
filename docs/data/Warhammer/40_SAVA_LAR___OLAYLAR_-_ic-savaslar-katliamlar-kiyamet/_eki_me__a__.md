@@ -12,6 +12,6 @@ Bu çağın sonu, İmparator'un Birleşme Savaşları'yla geldi: Unification War
 
 ## Tarihçe
 
-Nova Terra Interregnum döneminin genel adı; İmparatorluk'un bin yıllık bölünmüşlüğü. Palatine Heresy'nin içinde olduğu çağ.
+Çekişme Çağı (Age of Strife / Eski Gece), insanlık tarihinin kıyamet dönemi; M25-M30 arası galaksinin parçalandığı, Warp fırtınalarının yıldızları kestiği ve Terra'nın barbar kabilelerine bölündüğü çağ — İmparatorluğun doğduğu karanlık.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

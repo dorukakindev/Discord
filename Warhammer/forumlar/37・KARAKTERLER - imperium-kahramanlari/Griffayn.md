@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bf/FallenAngelsIcon.png/
 
 ## Tarihçe
 
-Griffayn, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Griffayn ('Mızrak Atımı'), Dark Angels lejyonunun Firewing'inde 'voted-lieutenant' olarak görev yaptı; Büyük Sefer ve Heresy boyunca hızlı-vuruş taktikleriyle bilinen subay.
 
 -# Kaynaklar: *Fandom wiki*

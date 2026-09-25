@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Kar'voth, Khorne'un Bloodthirster'larından biridir; maddi âlemde az kayıtlı ama Immaterium'da bilinen bir katil.
+Kar'voth, Khorne'un Bloodthirster'ı; Kaldor Draigo'yla karşılaşan 'talihsiz' daemon olarak bilinir — 'yanlış adamı bulan' figür.
 
 -# Kaynaklar: *Fandom wiki*
 

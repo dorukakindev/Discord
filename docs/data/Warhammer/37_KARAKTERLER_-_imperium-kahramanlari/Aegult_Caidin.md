@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Aegult Caidin, İmparatorluk kayıtlarında bilinen bir Inquisitor'dür.
+Aegult Caidin, Calixian Conclave'ın Yüksek Konsey'inin başkanı olan Inquisitor Lord'dur; Calixis'teki en güçlü Inquisition otoritesi — 'gölgelerin hakimi' olarak bilinen gizemli figür.
 
 -# Kaynaklar: *Fandom wiki*

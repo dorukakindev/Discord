@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Hyperion, Calixis Sektörü'nde bilinen Inquisitor'dur; psişik yetenekleriyle Daemon avında uzmanlaşmış figür.
+Hyperion (Zael Effernetti), Grey Knights'ın güçlü Prognosticar'ıydı; Eustis Majoris'in 'alt-hive'ından gelen bu figür, chapter'ın en yetenekli kehanetçilerinden — 'çöpten gelen kahin' efsanesi.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/44/House_Draconis.jpg/re
 
 ## Tarihçe
 
-Danial Tan Draconis, Adrastapol'un Knight Dünyası'nın efendisidir; Donatos Savaşı'nda sadık knight'ların lideri.
+Danial Tan Draconis, House Draconis'in lideri ve Knight World Adrastapol'un seçilmiş 'yüksek kralı'; Majestis Sistemi'nin efendisi — İmparatorluk'un şövalye aristokrasisinin zirvesi.
 
 -# Kaynaklar: *Fandom wiki*

@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a1/VincentMorrow.webp/re
 
 ## Tarihçe
 
-Vincent Morrow, İmparatorluk'un bilinen Inquisitor figürlerinden biridir.
+Vincent Morrow, Armageddon Steel Legion'ın eski sergeant-major'ü ve Inquisitor Grendyl'in kıdemli Acolyte'ı; Atoma Prime operasyonunda 'saha disiplini'ni sağlayan figür.
 
 -# Kaynaklar: *Fandom wiki*
 

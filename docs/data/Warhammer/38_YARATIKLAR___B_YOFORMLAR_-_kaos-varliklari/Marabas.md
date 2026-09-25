@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Marabas.jpg/revision/
 
 ## Tarihçe
 
-Marabas, Khorne'un Bloodthirster'larından biridir; maddi âlemdeki kısa ama kanlı tezahürleriyle bilinir.
+Marabas, Tzeentch'in Lord of Change'i olarak Calixis Sektörü'nde aktifti; Angevin Seferi'ni baltalayan entrikalarıyla bilinen 'karanlık komplo' daemonu.
 
 -# Kaynaklar: *Fandom wiki*

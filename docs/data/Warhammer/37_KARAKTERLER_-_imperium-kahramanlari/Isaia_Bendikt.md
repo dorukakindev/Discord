@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Isaia Bendikt, Adepta Sororitas kayıtlarında bilinen bir Savaş Rahibesi figürüdür.
+Isaia Bendikt, Cadia'nın Düşüşü'nü yaşayıp 'Faith's Anchorage Savaşı'nda da yer alan Cadian Shock Troops generali; 'Cadia sonrası' kuşağın önemli komutanı.
 
 -# Kaynaklar: *Fandom wiki*

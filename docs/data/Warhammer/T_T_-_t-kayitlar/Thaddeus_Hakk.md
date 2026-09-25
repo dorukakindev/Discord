@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Thaddeus_Hakk-0.png/r
 
 ## Tarihçe
 
-Thaddeus Hakk, Calixis Sektörü'nde faaliyet gösteren Inquisitor'dür; Dark Heresy kampanya figürlerinden.
+Thaddeus Hakk, Ordo Xenos Inquisitor'ü ve yaklaşık bir yüzyılın deneyimli gazisi; eski Ocularians Radikal tarikatı üyesi — 'öngörüyü reddeden' pragmatik avcı.
 
 -# Kaynaklar: *Fandom wiki*
 

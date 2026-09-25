@@ -10,6 +10,6 @@ Kriz, 925.M41'de Ryza sistemine bir yıkım seli halinde inen WAAAGH! Grax ile b
 
 ## Tarihçe
 
-Leviathan'ın Ryza forge dünyasına saldırısı; Adeptus Mechanicus'un en büyük savunması. Titan'lar ve plazmanın duvarı.
+Ryza'nın Savunması (Siege of Ryza), İmparatorluk'un Forge World Ryza'yı Ork WAAAGH!'ından koruduğu büyük savaş; 'çelik gezegenin' efsanevi direnişi — Titan ve İmparatorluk fışkının zirvesi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fb/Prognosticator_Rennin
 
 ## Tarihçe
 
-Rennin Tri'el, İmparatorluk kayıtlarında adı geçen Inquisitor'dür; kayıtları sınırlıdır.
+Rennin Tri'el, Silver Skulls'un Librarian'ı olarak Deathwatch'a ikinci edilmiştir; Jericho Reach'teki 'uzun gece' görevlerinin psyker-desteği.
 
 -# Kaynaklar: *Fandom wiki*

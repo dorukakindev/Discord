@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/be/Xavier_mendoza.jpg/re
 
 ## Tarihçe
 
-Xavier Mendoza, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Xavier Mendoza, İmparatorluk tarihinin en meşum Inquisitor'lerinden biri sayılır; 'insanlığın en tehlikeli yargıcı' olarak adı geçen figür — metodları tartışmalı efsane.
 
 -# Kaynaklar: *Fandom wiki*
 

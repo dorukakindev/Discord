@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/02/PoulMarlin.png/revisi
 
 ## Tarihçe
 
-Poul Marlin, İmparatorluk kayıtlarında bilinen bir Astra Militarum figürüdür.
+Poul Marlin, 10. Slavok alayının çavuşuydu; buz dünyası Shadrac'taki operasyonda ve sonraki kaçışta yer aldı — 'Slavok'un şanslı çavuşu' olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*
 

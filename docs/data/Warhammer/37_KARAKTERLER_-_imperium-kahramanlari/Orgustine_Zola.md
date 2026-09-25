@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/80/ExplicatorZola.webp/r
 
 ## Tarihçe
 
-Orgustine Zola, Inquisition'ın eski kayıtlarında yer alan bir figürdür; detayları belirsiz ama adı tarihte kalmıştır.
+Orgustine Zola, Ordo Hereticus'un 'explicator'ı ve Grendyl'in ekibinin kıdemli üyesi; Atoma Prime operasyonunun 'sorgu-beşik' figürü — Iven Rannick'in yanındaki isim.
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6d/Nomus_Rhytan.png/revi
 
 ## Tarihçe
 
-Nomus Rhy'tan, Salamanders'ın kıdemli Chaplain'iydi; Vulkan'ın kaybı sırasında chapter'ın manevi sesi olarak görev yaptı.
+Nomus Rhy'tan ('Prometheus'un Anahtarlarının Bekçisi', 'Ateşin Sesi'), Salamanders'ın XVIII Lejyon'unun Lord Chaplain'i; lejyonun 'ritüel ve inanç' figürü olarak Promethean Kült'ünü yönetti.
 
 -# Kaynaklar: *Fandom wiki*

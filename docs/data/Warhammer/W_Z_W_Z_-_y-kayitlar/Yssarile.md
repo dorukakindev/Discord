@@ -11,7 +11,7 @@
 
 ## Tarihçe
 
-Yssarile, Karanlık Prens'in eski Keeper of Secrets'larından biridir; yasaklı kayıtlarda adı geçer.
+Yssarile, Tzeentch'in o kadar güçlü Daemon Prince'iydi ki 'daemon-kral' ilan edildi; sonunda Tzeentch'in gücünü gasp etmeye kalkıp başarısız oldu — 'tanrıyı bile aldatmaya çalışan' efsane.
 
 -# Kaynaklar: *Fandom wiki*
 

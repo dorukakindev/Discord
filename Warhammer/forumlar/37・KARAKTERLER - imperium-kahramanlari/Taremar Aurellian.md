@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Taremar Aurellian, İmparatorluk kayıtlarında bilinen bir Inquisitor'dür.
+Taremar Aurellian ('Altın Taremar'), Grey Knights'ın 3. Kardeşlik Warden'ı ve chapter amiral gemisinin efendisiydi; soylu işleriyle bilinen 'göksel' komutan.
 
 -# Kaynaklar: *Fandom wiki*

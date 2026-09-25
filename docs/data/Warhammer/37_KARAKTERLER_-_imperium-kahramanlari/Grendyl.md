@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/59/GrendylHologram.webp/
 
 ## Tarihçe
 
-Grendyl, İmparatorluk kayıtlarında bilinen bir Inquisitor'dür; kayıtları seyrek ama Inquisition tarihinde yer alır.
+Grendyl, Ordo Hereticus Inquisitor'ü olarak Atoma Prime'daki tüm Acolyte ve Inquisition kuvvetlerinin komutanı; Darktide'ın 'görünmez efendisi' — Moebian krizinin ardındaki figür.
 
 -# Kaynaklar: *Fandom wiki*

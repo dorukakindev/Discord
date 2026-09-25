@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/41/Inquisitor-Ordo_Xenos
 
 ## Tarihçe
 
-Solomon Lok, İmparatorluk kayıtlarında bilinen bir Inquisitor'dür.
+Solomon Lok, Chincare'deki Hrud istilasını yaşamış Ordo Xenos Inquisitor Lord'udur; bir Adeptus Mechanicus araştırma istasyonuyla ani iletişim kesintisini araştırmakla görevlendirildi — 'Hrud'un kör noktası' onun konusudur.
 
 -# Kaynaklar: *Fandom wiki*

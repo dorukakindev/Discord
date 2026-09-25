@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Adrielle_Quist.png/re
 
 ## Tarihçe
 
-Adrielle Quist, Calixis Sektörü'nde faaliyet gösteren bir Inquisitor'dür; Dark Heresy kampanya figürlerinden.
+Adrielle Quist, Ordo Xenos Inquisitor'ü olarak Achilus Seferi'nde görev yapar; Jericho Reach'in 'geri alınması' operasyonunun Inquisition temsilcilerinden.
 
 -# Kaynaklar: *Fandom wiki*
 

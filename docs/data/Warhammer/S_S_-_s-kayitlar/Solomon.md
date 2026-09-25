@@ -11,7 +11,7 @@
 
 ## Tarihçe
 
-Solomon, Calixis Sektörü'nün Markayn Marches alt-sektöründe yer alan yoğun nüfuslu, ağır sanayili bir Hive Dünyasıdır.
+Solomon, İmparatorluk kayıtlarında geçen figürlerden biridir; sınırlı detaylı bu kayıt, arşivde yer alan kalıcı isimlerden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

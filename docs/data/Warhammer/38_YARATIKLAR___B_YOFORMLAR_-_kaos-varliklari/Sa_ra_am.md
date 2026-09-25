@@ -11,6 +11,6 @@
 
 ## Tarihçe
 
-Sa'ra'am, Chaos'a bağlı bir Greater Daemon'dur; İmparatorluk kayıtlarında seyrek geçer ama yasaklı metinlerde adı yer alır.
+Sa'ra'am ('Alttaki Daemon', 'Bıçağın Ucu', 'Savaşın Kahkahası'), Chaos Undivided daemon'u; Forge World Sarum'un çekirdeğine bağlanmış varlık — 'kelimeyi kesen' efsane.
 
 -# Kaynaklar: *Fandom wiki*
