@@ -1,6 +1,6 @@
 -# THE FILM ARCHIVE · Diziler · 4.0–4.5 · Dizin
 # Diziler · 4.0–4.5 — Kayıt Dizini
-35 kayıt — uygunluk sırası:
+37 kayıt — uygunluk sırası:
 
 • **03 Одиссей и Пенелопа - S01E03 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.4/5**
 • **07 Дедал и Икар - S01E07 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.4/5**
@@ -24,10 +24,12 @@
 • **08 Кастор и Полидевк - S01E08 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
 • **09 Собаки Актeона - S01E09 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
 • **Abandoned Engineering (2016–)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
-• **How We Got to Now (2014–)** · IMDb 8.5/10 · nMDB 85.0 · uyg 4.2/5**
+• **Decalogue V (1989)** · IMDb 8.9/10 · LB 4.59/5 · nMDB 90.4 · uyg 4.2/5**
 
+• **How We Got to Now (2014–)** · IMDb 8.5/10 · nMDB 85.0 · uyg 4.2/5**
 • **The Human Animal (1994–)** · IMDb 8.6/10 · nMDB 86.0 · uyg 4.2/5**
 • **The Witch Doctor Will See You Now (2011–2011)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
+• **Twin Peaks: The Return (2017)** · IMDb 8.5/10 · LB 4.61/5 · nMDB 88.6 · uyg 4.2/5**
 • **04 Геракл и золотые яблоки - S01E04 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.1/5**
 • **04 Персей - поиски Медузы - S01E04 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.1/5**
 • **05 Кадм и Европа - S01E05 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.1/5**

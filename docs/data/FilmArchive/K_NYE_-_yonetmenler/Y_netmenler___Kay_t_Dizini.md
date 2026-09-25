@@ -1,6 +1,6 @@
 -# THE FILM ARCHIVE · Yönetmenler · Dizin
 # Yönetmenler — Kayıt Dizini
-255 kayıt — alfabetik:
+282 kayıt — alfabetik:
 
 • **Lauris Abele, Raitis Abele**
 • **Brad Abrahams**
@@ -11,6 +11,7 @@
 • **Jaime de Armiñán**
 • **Karen Arthur**
 • **Anthony Asquith**
+• **Jacques Audiard**
 • **Péter Bacsó**
 • **John Badham**
 • **Roman Balayan**
@@ -19,6 +20,7 @@
 • **Kayıt yönetmeni belirtilmemiş**
 • **Marco Bellocchio**
 • **Ingmar Bergman**
+• **Bernardo Bertolucci**
 • **Brad Besser**
 • **Bahram Beyzai**
 • **Matías Bize**
@@ -26,6 +28,7 @@
 • **Nick Bougas**
 • **Gilles Bourdos**
 • **Matt Brandon**
+• **Robert Bresson**
 • **Alan Bridges**
 • **Jean-Claude Brisseau**
 • **Zbyněk Brynych**
@@ -34,6 +37,7 @@
 • **Luis Buñuel**
 • **Sergio Cabrera**
 • **Claude Chabrol**
+• **Park Chan-wook**
 • **Kimitoshi Chioka**
 • **Christo Christov**
 • **Věra Chytilová**
@@ -43,6 +47,7 @@
 • **Joel Coen**
 • **Luigi Comencini**
 • **Robin Anderson, Bob Connolly**
+• **Francis Ford Coppola**
 • **Alain Corneau**
 • **Jean-Pierre Dardenne / Luc Dardenne**
 • **Jules Dassin**
@@ -53,6 +58,7 @@
 • **Michel Deville**
 • **Mike van Diem**
 • **Xavier Dolan**
+• **Andrew Dominik**
 • **Clive Donner**
 • **Srđan Dragojević**
 • **Carl Theodor Dreyer**
@@ -63,6 +69,7 @@
 • **Leonardo Favio**
 • **Zoltán Fábri**
 • **György Fehér**
+• **Federico Fellini**
 • **Marco Ferreri**
 • **Anne Fontaine**
 • **Bryan Forbes**
@@ -76,12 +83,14 @@
 • **Melody Gilbert**
 • **Peter Glenville**
 • **Jack Gold**
+• **Michel Gondry**
 • **Claude Goretta**
 • **Eduard Grecner**
 • **Guy Green**
 • **John Guillermin**
 • **Lee Hae-jun**
 • **Peter Hall**
+
 • **Jan Halldoff**
 • **Ryusuke Hamaguchi**
 • **Hal Hartley**
@@ -89,13 +98,16 @@
 • **Kazuhiko Hasegawa**
 • **Henry Hathaway**
 • **Sidney Hayers**
+• **Don Hertzfeldt**
 • **Juraj Herz**
-
 • **Werner Herzog**
 • **Arthur Hiller**
 • **Leon Hirszman**
 • **Alfred Hitchcock**
+• **Bong Joon Ho**
+• **Ann Hui**
 • **John Huston**
+• **Shôhei Imamura**
 • **John Irvin**
 • **Mick Jackson**
 • **Miklós Jancsó**
@@ -106,6 +118,7 @@
 • **Radu Jude**
 • **Pavel Juráček**
 • **Karel Kachyňa**
+• **Wong Kar-Wai**
 • **Aki Kaurismäki**
 • **Jerzy Kawalerowicz**
 • **Aleksandr Kaydanovskiy**
@@ -114,9 +127,15 @@
 • **Angela Christlieb, Stephen Kijak**
 • **Harry Killas**
 • **Allan King**
+• **Elem Klimov**
+• **Ján Kadár, Elmar Klos**
 • **Alexander Kluge**
+• **Masaki Kobayashi**
+• **Satoshi Kon**
+• **Stanley Kubrick**
 • **Koreyoshi Kurahara**
 • **Akira Kurosawa**
+• **Claude Lanzmann**
 • **Georges Lautner**
 • **Patrice Leconte**
 • **Robert Lepage**
@@ -126,6 +145,7 @@
 • **Celia Lowenstein**
 • **Sidney Lumet**
 • **Ida Lupino**
+• **David Lynch**
 • **Erik Løchen**
 • **Kurt Maetzig**
 • **Nils Malmros**
@@ -139,7 +159,9 @@
 • **Toshio Matsumoto**
 • **Peter Medak**
 • **Dariush Mehrjui**
+• **Jean-Pierre Melville**
 • **Bennett Miller**
+• **Kenji Mizoguchi**
 • **Craig Monahan**
 • **Mario Monicelli**
 • **João César Monteiro**
@@ -161,6 +183,7 @@
 • **Manoel de Oliveira**
 • **Laurence Olivier**
 • **Ermanno Olmi**
+
 • **Mamoru Oshii**
 • **Masaaki Ōsumi**
 • **Arnaud des Pallières**
@@ -177,10 +200,11 @@
 • **Christian Petzold**
 • **Miguel Picazo**
 • **Lucian Pintilie**
+• **Gillo Pontecorvo**
 • **Emeric Pressburger / Michael Powell**
 • **Michael Powell, Emeric Pressburger**
 • **Cristi Puiu**
-
+• **Bernard Queysanne**
 • **Carol Reed**
 • **David Farrier, Dylan Reeve**
 • **Jean Renoir**
@@ -228,10 +252,12 @@
 • **Eliseo Subiela**
 • **István Szabó**
 • **Alain Tanner**
+• **Andrei Tarkovsky**
 • **Catherine Tatge**
 • **Bertrand Tavernier**
 • **Manouchehr Tayyab**
 • **Shūji Terayama**
+• **Hiroshi Teshigahara**
 • **Clair Titley**
 • **Michael Tolkin**
 • **Andrea Tonacci**
@@ -243,9 +269,11 @@
 • **Lindsey C. Vickers**
 • **Christian Vincent**
 • **Thomas Vinterberg**
+
 • **Luchino Visconti**
 • **František Vláčil**
 • **Dan Walker**
+• **Peter Watkins**
 • **William A. Wellman**
 • **Bernhard Wenger**
 • **Bernhard Wicki**

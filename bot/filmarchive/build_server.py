@@ -568,6 +568,8 @@ def run_posts(main, kesifler, struct):
 
     for slug, films in groups:
         is_band = slug in band_slugs()
+        if is_band and not films:
+            continue
         if is_band:
             films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]), norm(title_of(f))))
         else:
