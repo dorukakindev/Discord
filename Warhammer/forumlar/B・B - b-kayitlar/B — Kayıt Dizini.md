@@ -39,40 +39,48 @@
 - <#1551905354667786290>
 - <#1551812119220064348>
 
-• **Baal**
-• **Badab War**
-• **Baneblade**
-• **Barbarus**
-• **Barghesi**
-• **Battle of Calth**
-• **Battle of Ichar Iv**
-• **Battle of Phall**
-• **Battle of Tallarn**
-• **Battlefleets**
-• **Be Lakor**
-• **Beast Snagga**
-• **Belial**
-• **Belisarius Cawl**
-• **Beta Garmon**
-• **Biel Tan**
-• **Big Mek**
-• **Bio-Titan**
-• **Biotransference**
-• **Bjorn the Fell Handed**
-• **Black Crusades**
-• **Black Dragons**
-• **Black Legion**
-• **Black Rage and Red Thirst**
-• **Black Ships**
-• **Black Templars**
-• **Blackstone Fortresses**
-• **Blank (Pariah)**
-• **Blood Angels**
-• **Blood Axes Klanı**
-• **Blood Ravens**
-• **Bolt Weapons**
-• **Bork an**
-• **Boss Snikrot**
-• **Broodlord**
-• **Brother-Captain Arvann Stern**
-• **Burning of Prospero**
+-# THE IMPERIAL ARCHIVE · B Kayıtları · Kayıt Dizini
+# B Harfi Kayıt Dizini
+
+Bu forumdaki tüm kayıtların alfabetik dizini:
+
+• **Baal**  <#1551811637143674942>
+• **Badab War**  <#1551811438547312645>
+• **Baneblade**  <#1551829655567466587>
+• **Banesword**  <#1552850190610726932>
+• **Banewolf**  <#1552850205697769493>
+• **Barbarus**  <#1551811657087324244>
+• **Barghesi**  <#1552690497401790617>
+• **Battle of Calth**  <#1551811689790312569>
+• **Battle of Ichar Iv**  <#1551811706932559964>
+• **Battle of Phall**  <#1551811736431108157>
+• **Battle of Tallarn**  <#1551811752969371679>
+• **Battlefleets**  <#1551811768865652839>
+• **Be Lakor**  <#1551811803200229397>
+• **Beast Snagga**  <#1551811822489960489>
+• **Belial**  <#1551811836993740811>
+• **Belisarius Cawl**  <#1551811596337291285>
+• **Beta Garmon**  <#1551811854135722044>
+• **Biel Tan**  <#1551811881415745588>
+• **Big Mek**  <#1551905407394512918>
+• **Bio-Titan**  <#1552694227299729418>
+• **Biotransference**  <#1552690593363398788>
+• **Bjorn the Fell Handed**  <#1551811910641520641>
+• **Black Crusades**  <#1551811393680838699>
+• **Black Dragons**  <#1551811941532700703>
+• **Black Legion**  <#1551811342405599345>
+• **Black Rage and Red Thirst**  <#1551811968946540596>
+• **Black Ships**  <#1551812003129991233>
+• **Black Templars**  <#1551811417471197240>
+• **Blackstone Fortresses**  <#1551811621285003315>
+• **Blank (Pariah)**  <#1551829667344814100>
+• **Bleak Brotherhood**  <#1552851391498948610>
+• **Blood Angels**  <#1551811368389181491>
+• **Blood Axes Klanı**  <#1552690559267639377>
+• **Blood Ravens**  <#1551812025959583795>
+• **Bolt Weapons**  <#1551812053193195542>
+• **Bork an**  <#1551812080343187498>
+• **Boss Snikrot**  <#1551812106863771739>
+• **Broodlord**  <#1552690568910471218>
+• **Brother-Captain Arvann Stern**  <#1551905354667786290>
+• **Burning of Prospero**  <#1551812119220064348>

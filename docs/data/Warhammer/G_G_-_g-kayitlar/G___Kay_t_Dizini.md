@@ -28,29 +28,36 @@
 - <#1551814910172987414>
 - <#1551905433503928321>
 
-• **Gabriel Seth**
-• **Galg**
-• **Garden of Nurgle**
-• **Gargant**
-• **Garviel Loken**
-• **Gathering Storm**
-• **Gaunt'un Hayaletleri**
-• **Gene Seed**
-• **Genestealer Cults**
-• **Ghazghkull Thraka**
-• **Ghoul Stars**
-• **Goff Klanı**
-• **Golden Throne**
-• **Gork and Mork**
-• **Gothic War**
-• **Graia**
-• **Great Crusade**
-• **Great Rift**
-• **Gregor Eisenhorn**
-• **Grey Knights**
-• **Grimaldus**
-• **Grotesques**
-• **Grukk Face-rippa**
-• **Gryphonne Iv**
-• **Gsc Cults**
-• **XV95 Ghostkeel Battlesuit**
+-# THE IMPERIAL ARCHIVE · G Kayıtları · Kayıt Dizini
+# G Harfi Kayıt Dizini
+
+Bu forumdaki tüm kayıtların alfabetik dizini:
+
+• **Gabriel Seth**  <#1551814528054992947>
+• **Galg**  <#1552690507359068231>
+• **Garden of Nurgle**  <#1551814556680986695>
+• **Gargant**  <#1552694239375392878>
+• **Garviel Loken**  <#1551814578508144701>
+• **Gathering Storm**  <#1551814468458258434>
+• **Gaunt'un Hayaletleri**  <#1551829566056824894>
+• **Gene Seed**  <#1551814597168861256>
+• **Genestealer Cults**  <#1551814421654016061>
+• **Ghazghkull Thraka**  <#1551814619369046067>
+• **Ghoul Stars**  <#1552695337486000218>
+• **Gladiator**  <#1552850169505255486>
+• **Goff Klanı**  <#1552690549914337454>
+• **Golden Throne**  <#1551814644992188457>
+• **Gork and Mork**  <#1551814495138091013>
+• **Gothic War**  <#1551814512657698817>
+• **Graia**  <#1551814805151686737>
+• **Great Crusade**  <#1551814367203303506>
+• **Great Rift**  <#1551814400938082357>
+• **Gregor Eisenhorn**  <#1551814832179904666>
+• **Grey Knights**  <#1551814444131160127>
+• **Grimaldus**  <#1551814853897748491>
+• **Grotesques**  <#1551905439434936362>
+• **Grukk Face-rippa**  <#1552694229858386061>
+• **Gryphonne Iv**  <#1551814885669740596>
+• **Gsc Cults**  <#1551814910172987414>
+• **Gudrun**  <#1552850125901266954>
+• **XV95 Ghostkeel Battlesuit**  <#1551905433503928321>

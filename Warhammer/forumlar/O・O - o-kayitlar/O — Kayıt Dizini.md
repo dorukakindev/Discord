@@ -21,22 +21,29 @@
 - <#1551817830096310363>
 - <#1551817609224126565>
 
-• **Occlusiad War**
-• **Octarius**
-• **Officio Assassinorum**
-• **Ogryns**
-• **Old One Eye**
-• **Old Ones**
-• **Olympia**
-• **Omnissiah**
-• **Ophelia Vii**
-• **Orders Militant**
-• **Ordo Chronos**
-• **Ordo Hereticus**
-• **Ordo Malleus**
-• **Ordo Xenos**
-• **Orikan**
-• **Ork Biology**
-• **Ork Boyz**
-• **Ork Clans**
-• **Orks**
+-# THE IMPERIAL ARCHIVE · O Kayıtları · Kayıt Dizini
+# O Harfi Kayıt Dizini
+
+Bu forumdaki tüm kayıtların alfabetik dizini:
+
+• **Obelisk**  <#1552851313350414409>
+• **Occlusiad War**  <#1552690645938995230>
+• **Octarius**  <#1551817657777389601>
+• **Officio Assassinorum**  <#1551817813612560476>
+• **Ogryns**  <#1551817851181076481>
+• **Old One Eye**  <#1551817867949903915>
+• **Old Ones**  <#1551817636516470845>
+• **Olympia**  <#1551817886568292464>
+• **Omnissiah**  <#1551817917962780682>
+• **Ophelia Vii**  <#1551817940343590933>
+• **Ophydian Destroyer**  <#1552851319813967902>
+• **Orders Militant**  <#1551817956223094816>
+• **Ordo Chronos**  <#1551905451359080458>
+• **Ordo Hereticus**  <#1551817990507466813>
+• **Ordo Malleus**  <#1551818017120456706>
+• **Ordo Xenos**  <#1551818033947877377>
+• **Orikan**  <#1551818050167382047>
+• **Ork Biology**  <#1551818067707826247>
+• **Ork Boyz**  <#1552694236082741439>
+• **Ork Clans**  <#1551817830096310363>
+• **Orks**  <#1551817609224126565>

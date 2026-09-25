@@ -976,6 +976,46 @@
               "name": "imperium-araclari",
               "posts": [
                 {
+                  "title": "Banewolf",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Banewolf.md"
+                },
+                {
+                  "title": "Devil Dog",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Devil_Dog.md"
+                },
+                {
+                  "title": "Stormhammer",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Stormhammer.md"
+                },
+                {
+                  "title": "Banesword",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Banesword.md"
+                },
+                {
+                  "title": "Hellhammer",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Hellhammer.md"
+                },
+                {
+                  "title": "Wyvern",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Wyvern.md"
+                },
+                {
+                  "title": "Deathstrike Missile Launcher",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Deathstrike_Missile_Launcher.md"
+                },
+                {
+                  "title": "Vendetta",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Vendetta.md"
+                },
+                {
+                  "title": "Gladiator",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Gladiator.md"
+                },
+                {
+                  "title": "Razorback",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Razorback.md"
+                },
+                {
                   "title": "Drop Pod",
                   "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_imperium-araclari/Drop_Pod.md"
                 },
@@ -1239,6 +1279,14 @@
             {
               "name": "necron-araclari",
               "posts": [
+                {
+                  "title": "Catacomb Command Barge",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_necron-araclari/Catacomb_Command_Barge.md"
+                },
+                {
+                  "title": "Obelisk",
+                  "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_necron-araclari/Obelisk.md"
+                },
                 {
                   "title": "Tesseract Vault",
                   "file": "data/Warhammer/31_ZIRHLI_ARA_LAR_-_necron-araclari/Tesseract_Vault.md"
@@ -2230,6 +2278,22 @@
               "name": "hain-ve-kayip-bolumler",
               "posts": [
                 {
+                  "title": "The Scourged",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/The_Scourged.md"
+                },
+                {
+                  "title": "Bleak Brotherhood",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Bleak_Brotherhood.md"
+                },
+                {
+                  "title": "The Cleaved",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/The_Cleaved.md"
+                },
+                {
+                  "title": "Apostles of Contagion",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Apostles_of_Contagion.md"
+                },
+                {
                   "title": "Mentors",
                   "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Mentors.md"
                 },
@@ -2711,6 +2775,10 @@
               "name": "imperium-kahramanlari",
               "posts": [
                 {
+                  "title": "Inquisitor Coteaz",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_imperium-kahramanlari/Inquisitor_Coteaz.md"
+                },
+                {
                   "title": "Ezekiel",
                   "file": "data/Warhammer/37_KARAKTERLER_-_imperium-kahramanlari/Ezekiel.md"
                 },
@@ -3152,6 +3220,14 @@
               "name": "chaos-karakterleri",
               "posts": [
                 {
+                  "title": "Sor Talgron",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_chaos-karakterleri/Sor_Talgron.md"
+                },
+                {
+                  "title": "Doomrider",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_chaos-karakterleri/Doomrider.md"
+                },
+                {
                   "title": "Eidolon",
                   "file": "data/Warhammer/37_KARAKTERLER_-_chaos-karakterleri/Eidolon.md"
                 },
@@ -3212,6 +3288,26 @@
             {
               "name": "aeldari-karakterleri",
               "posts": [
+                {
+                  "title": "Succubus",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_aeldari-karakterleri/Succubus.md"
+                },
+                {
+                  "title": "Archon",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_aeldari-karakterleri/Archon.md"
+                },
+                {
+                  "title": "Solitaire",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_aeldari-karakterleri/Solitaire.md"
+                },
+                {
+                  "title": "Death Jester",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_aeldari-karakterleri/Death_Jester.md"
+                },
+                {
+                  "title": "Shadowseer",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_aeldari-karakterleri/Shadowseer.md"
+                },
                 {
                   "title": "Irillyth",
                   "file": "data/Warhammer/37_KARAKTERLER_-_aeldari-karakterleri/Irillyth.md"
@@ -3282,6 +3378,10 @@
               "name": "necron-karakterleri",
               "posts": [
                 {
+                  "title": "Kutlakh the World Killer",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_necron-karakterleri/Kutlakh_the_World_Killer.md"
+                },
+                {
                   "title": "Nemesor Zahndrekh",
                   "file": "data/Warhammer/37_KARAKTERLER_-_necron-karakterleri/Nemesor_Zahndrekh.md"
                 },
@@ -3322,6 +3422,14 @@
             {
               "name": "xenos-karakterleri",
               "posts": [
+                {
+                  "title": "Longstrike",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_xenos-karakterleri/Longstrike.md"
+                },
+                {
+                  "title": "Commander Brightsword",
+                  "file": "data/Warhammer/37_KARAKTERLER_-_xenos-karakterleri/Commander_Brightsword.md"
+                },
                 {
                   "title": "Grukk Face-rippa",
                   "file": "data/Warhammer/37_KARAKTERLER_-_xenos-karakterleri/Grukk_Face-rippa.md"
@@ -3384,6 +3492,42 @@
             {
               "name": "kaos-varliklari",
               "posts": [
+                {
+                  "title": "Cor'Bax Utterblight",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Cor_Bax_Utterblight.md"
+                },
+                {
+                  "title": "Samus",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Samus.md"
+                },
+                {
+                  "title": "Syll'Esske",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Syll_Esske.md"
+                },
+                {
+                  "title": "Scabeiathrax the Bloated",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Scabeiathrax_the_Bloated.md"
+                },
+                {
+                  "title": "Rotigus Rainmaker",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Rotigus_Rainmaker.md"
+                },
+                {
+                  "title": "An'ggrath the Unbound",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/An_ggrath_the_Unbound.md"
+                },
+                {
+                  "title": "Skulltaker",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Skulltaker.md"
+                },
+                {
+                  "title": "Plague Drones of Nurgle",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Plague_Drones_of_Nurgle.md"
+                },
+                {
+                  "title": "Seekers of Slaanesh",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Seekers_of_Slaanesh.md"
+                },
                 {
                   "title": "Shalaxi Helbane",
                   "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_kaos-varliklari/Shalaxi_Helbane.md"
@@ -3695,6 +3839,14 @@
               "name": "necron-varliklari",
               "posts": [
                 {
+                  "title": "Cryptothrall",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_necron-varliklari/Cryptothrall.md"
+                },
+                {
+                  "title": "Ophydian Destroyer",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_necron-varliklari/Ophydian_Destroyer.md"
+                },
+                {
                   "title": "Lokhust Destroyer",
                   "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_necron-varliklari/Lokhust_Destroyer.md"
                 },
@@ -3727,6 +3879,26 @@
             {
               "name": "diger-xeno-yaratiklar",
               "posts": [
+                {
+                  "title": "Runtherd",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_diger-xeno-yaratiklar/Runtherd.md"
+                },
+                {
+                  "title": "Wurrboy",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_diger-xeno-yaratiklar/Wurrboy.md"
+                },
+                {
+                  "title": "Warbikers",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_diger-xeno-yaratiklar/Warbikers.md"
+                },
+                {
+                  "title": "Lootas",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_diger-xeno-yaratiklar/Lootas.md"
+                },
+                {
+                  "title": "Tankbustas",
+                  "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_diger-xeno-yaratiklar/Tankbustas.md"
+                },
                 {
                   "title": "Gargant",
                   "file": "data/Warhammer/38_YARATIKLAR___B_YOFORMLAR_-_diger-xeno-yaratiklar/Gargant.md"
@@ -3797,6 +3969,22 @@
             {
               "name": "imperium-dunyalari",
               "posts": [
+                {
+                  "title": "Gudrun",
+                  "file": "data/Warhammer/39_D_NYALAR_-_imperium-dunyalari/Gudrun.md"
+                },
+                {
+                  "title": "Kanak",
+                  "file": "data/Warhammer/39_D_NYALAR_-_imperium-dunyalari/Kanak.md"
+                },
+                {
+                  "title": "Kiavahr",
+                  "file": "data/Warhammer/39_D_NYALAR_-_imperium-dunyalari/Kiavahr.md"
+                },
+                {
+                  "title": "Verghast",
+                  "file": "data/Warhammer/39_D_NYALAR_-_imperium-dunyalari/Verghast.md"
+                },
                 {
                   "title": "Imperial Palace",
                   "file": "data/Warhammer/39_D_NYALAR_-_imperium-dunyalari/Imperial_Palace.md"
@@ -4858,6 +5046,14 @@
               "name": "diger-tanri-varliklari",
               "posts": [
                 {
+                  "title": "Llandu'gor the Flayer",
+                  "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_diger-tanri-varliklari/Llandu_gor_the_Flayer.md"
+                },
+                {
+                  "title": "Mephet'ran the Deceiver",
+                  "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_diger-tanri-varliklari/Mephet_ran_the_Deceiver.md"
+                },
+                {
                   "title": "Nyadra'zatha",
                   "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_diger-tanri-varliklari/Nyadra_zatha.md"
                 },
@@ -4907,6 +5103,10 @@
             {
               "name": "imperium-azizleri",
               "posts": [
+                {
+                  "title": "Junith Eruita",
+                  "file": "data/Warhammer/42_AZ_ZLER_-_imperium-azizleri/Junith_Eruita.md"
+                },
                 {
                   "title": "Dolan Chirosius",
                   "file": "data/Warhammer/42_AZ_ZLER_-_imperium-azizleri/Dolan_Chirosius.md"
@@ -5573,6 +5773,62 @@
             {
               "name": "elit-birlikler",
               "posts": [
+                {
+                  "title": "Cronos",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Cronos.md"
+                },
+                {
+                  "title": "Talos",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Talos.md"
+                },
+                {
+                  "title": "Reavers",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Reavers.md"
+                },
+                {
+                  "title": "Wyches",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Wyches.md"
+                },
+                {
+                  "title": "Scourges",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Scourges.md"
+                },
+                {
+                  "title": "Wracks",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Wracks.md"
+                },
+                {
+                  "title": "Crimson Hunters",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Crimson_Hunters.md"
+                },
+                {
+                  "title": "Celestian",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Celestian.md"
+                },
+                {
+                  "title": "Retributor",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Retributor.md"
+                },
+                {
+                  "title": "Serberys Raiders",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Serberys_Raiders.md"
+                },
+                {
+                  "title": "Pteraxii",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Pteraxii.md"
+                },
+                {
+                  "title": "Sicarian İnfiltrator",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Sicarian__nfiltrator.md"
+                },
+                {
+                  "title": "Electro-Priests",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Electro-Priests.md"
+                },
+                {
+                  "title": "Kataphron Battle Servitor",
+                  "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Kataphron_Battle_Servitor.md"
+                },
                 {
                   "title": "Scout Marine (Scout Squad)",
                   "file": "data/Warhammer/46_EL_T_B_RL_KLER_-_elit-birlikler/Scout_Marine__Scout_Squad_.md"
@@ -6861,6 +7117,26 @@
               "name": "r-kayitlar",
               "posts": [
                 {
+                  "title": "Rotigus Rainmaker",
+                  "file": "data/Warhammer/R_R_-_r-kayitlar/Rotigus_Rainmaker.md"
+                },
+                {
+                  "title": "Runtherd",
+                  "file": "data/Warhammer/R_R_-_r-kayitlar/Runtherd.md"
+                },
+                {
+                  "title": "Reavers",
+                  "file": "data/Warhammer/R_R_-_r-kayitlar/Reavers.md"
+                },
+                {
+                  "title": "Razorback",
+                  "file": "data/Warhammer/R_R_-_r-kayitlar/Razorback.md"
+                },
+                {
+                  "title": "Retributor",
+                  "file": "data/Warhammer/R_R_-_r-kayitlar/Retributor.md"
+                },
+                {
                   "title": "Ravener",
                   "file": "data/Warhammer/R_R_-_r-kayitlar/Ravener.md"
                 },
@@ -6954,6 +7230,58 @@
             {
               "name": "s-kayitlar",
               "posts": [
+                {
+                  "title": "Samus",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Samus.md"
+                },
+                {
+                  "title": "Syll'Esske",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Syll_Esske.md"
+                },
+                {
+                  "title": "Scabeiathrax the Bloated",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Scabeiathrax_the_Bloated.md"
+                },
+                {
+                  "title": "Skulltaker",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Skulltaker.md"
+                },
+                {
+                  "title": "Seekers of Slaanesh",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Seekers_of_Slaanesh.md"
+                },
+                {
+                  "title": "Scourges",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Scourges.md"
+                },
+                {
+                  "title": "Succubus",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Succubus.md"
+                },
+                {
+                  "title": "Solitaire",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Solitaire.md"
+                },
+                {
+                  "title": "Shadowseer",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Shadowseer.md"
+                },
+                {
+                  "title": "Stormhammer",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Stormhammer.md"
+                },
+                {
+                  "title": "Serberys Raiders",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Serberys_Raiders.md"
+                },
+                {
+                  "title": "Sicarian İnfiltrator",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Sicarian__nfiltrator.md"
+                },
+                {
+                  "title": "Sor Talgron",
+                  "file": "data/Warhammer/S_S_-_s-kayitlar/Sor_Talgron.md"
+                },
                 {
                   "title": "Scout Marine (Scout Squad)",
                   "file": "data/Warhammer/S_S_-_s-kayitlar/Scout_Marine__Scout_Squad_.md"
@@ -7192,6 +7520,22 @@
             {
               "name": "t-kayitlar",
               "posts": [
+                {
+                  "title": "The Scourged",
+                  "file": "data/Warhammer/T_T_-_t-kayitlar/The_Scourged.md"
+                },
+                {
+                  "title": "The Cleaved",
+                  "file": "data/Warhammer/T_T_-_t-kayitlar/The_Cleaved.md"
+                },
+                {
+                  "title": "Tankbustas",
+                  "file": "data/Warhammer/T_T_-_t-kayitlar/Tankbustas.md"
+                },
+                {
+                  "title": "Talos",
+                  "file": "data/Warhammer/T_T_-_t-kayitlar/Talos.md"
+                },
                 {
                   "title": "The Beheading",
                   "file": "data/Warhammer/T_T_-_t-kayitlar/The_Beheading.md"
@@ -7432,6 +7776,14 @@
               "name": "v-kayitlar",
               "posts": [
                 {
+                  "title": "Vendetta",
+                  "file": "data/Warhammer/U_V_U_V_-_v-kayitlar/Vendetta.md"
+                },
+                {
+                  "title": "Verghast",
+                  "file": "data/Warhammer/U_V_U_V_-_v-kayitlar/Verghast.md"
+                },
+                {
                   "title": "Vanguard Veteran",
                   "file": "data/Warhammer/U_V_U_V_-_v-kayitlar/Vanguard_Veteran.md"
                 },
@@ -7497,6 +7849,26 @@
             {
               "name": "w-kayitlar",
               "posts": [
+                {
+                  "title": "Wurrboy",
+                  "file": "data/Warhammer/W_Z_W_Z_-_w-kayitlar/Wurrboy.md"
+                },
+                {
+                  "title": "Warbikers",
+                  "file": "data/Warhammer/W_Z_W_Z_-_w-kayitlar/Warbikers.md"
+                },
+                {
+                  "title": "Wyches",
+                  "file": "data/Warhammer/W_Z_W_Z_-_w-kayitlar/Wyches.md"
+                },
+                {
+                  "title": "Wracks",
+                  "file": "data/Warhammer/W_Z_W_Z_-_w-kayitlar/Wracks.md"
+                },
+                {
+                  "title": "Wyvern",
+                  "file": "data/Warhammer/W_Z_W_Z_-_w-kayitlar/Wyvern.md"
+                },
                 {
                   "title": "War of the Confessor",
                   "file": "data/Warhammer/W_Z_W_Z_-_w-kayitlar/War_of_the_Confessor.md"
@@ -7630,6 +8002,18 @@
             {
               "name": "a-kayitlar",
               "posts": [
+                {
+                  "title": "Apostles of Contagion",
+                  "file": "data/Warhammer/A_A_-_a-kayitlar/Apostles_of_Contagion.md"
+                },
+                {
+                  "title": "An'ggrath the Unbound",
+                  "file": "data/Warhammer/A_A_-_a-kayitlar/An_ggrath_the_Unbound.md"
+                },
+                {
+                  "title": "Archon",
+                  "file": "data/Warhammer/A_A_-_a-kayitlar/Archon.md"
+                },
                 {
                   "title": "Augmetics (Cyborg değişimleri)",
                   "file": "data/Warhammer/A_A_-_a-kayitlar/Augmetics__Cyborg_de_i_imleri_.md"
@@ -7833,6 +8217,18 @@
               "name": "b-kayitlar",
               "posts": [
                 {
+                  "title": "Bleak Brotherhood",
+                  "file": "data/Warhammer/B_B_-_b-kayitlar/Bleak_Brotherhood.md"
+                },
+                {
+                  "title": "Banewolf",
+                  "file": "data/Warhammer/B_B_-_b-kayitlar/Banewolf.md"
+                },
+                {
+                  "title": "Banesword",
+                  "file": "data/Warhammer/B_B_-_b-kayitlar/Banesword.md"
+                },
+                {
                   "title": "Bio-Titan",
                   "file": "data/Warhammer/B_B_-_b-kayitlar/Bio-Titan.md"
                 },
@@ -7994,6 +8390,34 @@
             {
               "name": "c-kayitlar",
               "posts": [
+                {
+                  "title": "Cor'Bax Utterblight",
+                  "file": "data/Warhammer/C_C_-_c-kayitlar/Cor_Bax_Utterblight.md"
+                },
+                {
+                  "title": "Cryptothrall",
+                  "file": "data/Warhammer/C_C_-_c-kayitlar/Cryptothrall.md"
+                },
+                {
+                  "title": "Catacomb Command Barge",
+                  "file": "data/Warhammer/C_C_-_c-kayitlar/Catacomb_Command_Barge.md"
+                },
+                {
+                  "title": "Cronos",
+                  "file": "data/Warhammer/C_C_-_c-kayitlar/Cronos.md"
+                },
+                {
+                  "title": "Crimson Hunters",
+                  "file": "data/Warhammer/C_C_-_c-kayitlar/Crimson_Hunters.md"
+                },
+                {
+                  "title": "Celestian",
+                  "file": "data/Warhammer/C_C_-_c-kayitlar/Celestian.md"
+                },
+                {
+                  "title": "Commander Brightsword",
+                  "file": "data/Warhammer/C_C_-_c-kayitlar/Commander_Brightsword.md"
+                },
                 {
                   "title": "Centurion Savaş Zırhı",
                   "file": "data/Warhammer/C_C_-_c-kayitlar/Centurion_Sava__Z_rh_.md"
@@ -8189,6 +8613,22 @@
               "name": "d-kayitlar",
               "posts": [
                 {
+                  "title": "Death Jester",
+                  "file": "data/Warhammer/D_D_-_d-kayitlar/Death_Jester.md"
+                },
+                {
+                  "title": "Devil Dog",
+                  "file": "data/Warhammer/D_D_-_d-kayitlar/Devil_Dog.md"
+                },
+                {
+                  "title": "Deathstrike Missile Launcher",
+                  "file": "data/Warhammer/D_D_-_d-kayitlar/Deathstrike_Missile_Launcher.md"
+                },
+                {
+                  "title": "Doomrider",
+                  "file": "data/Warhammer/D_D_-_d-kayitlar/Doomrider.md"
+                },
+                {
                   "title": "Drop Pod",
                   "file": "data/Warhammer/D_D_-_d-kayitlar/Drop_Pod.md"
                 },
@@ -8318,6 +8758,10 @@
             {
               "name": "e-kayitlar",
               "posts": [
+                {
+                  "title": "Electro-Priests",
+                  "file": "data/Warhammer/E_E_-_e-kayitlar/Electro-Priests.md"
+                },
                 {
                   "title": "Eidolon",
                   "file": "data/Warhammer/E_E_-_e-kayitlar/Eidolon.md"
@@ -8511,6 +8955,14 @@
               "name": "g-kayitlar",
               "posts": [
                 {
+                  "title": "Gladiator",
+                  "file": "data/Warhammer/G_G_-_g-kayitlar/Gladiator.md"
+                },
+                {
+                  "title": "Gudrun",
+                  "file": "data/Warhammer/G_G_-_g-kayitlar/Gudrun.md"
+                },
+                {
                   "title": "Ghoul Stars",
                   "file": "data/Warhammer/G_G_-_g-kayitlar/Ghoul_Stars.md"
                 },
@@ -8629,6 +9081,10 @@
               "name": "h-kayitlar",
               "posts": [
                 {
+                  "title": "Hellhammer",
+                  "file": "data/Warhammer/H_H_-_h-kayitlar/Hellhammer.md"
+                },
+                {
                   "title": "Halo Devices",
                   "file": "data/Warhammer/H_H_-_h-kayitlar/Halo_Devices.md"
                 },
@@ -8718,6 +9174,10 @@
             {
               "name": "i-kayitlar",
               "posts": [
+                {
+                  "title": "Inquisitor Coteaz",
+                  "file": "data/Warhammer/I_I_-_i-kayitlar/Inquisitor_Coteaz.md"
+                },
                 {
                   "title": "Imperial Palace",
                   "file": "data/Warhammer/I_I_-_i-kayitlar/Imperial_Palace.md"
@@ -8853,6 +9313,10 @@
               "name": "j-kayitlar",
               "posts": [
                 {
+                  "title": "Junith Eruita",
+                  "file": "data/Warhammer/J_Q_J_Q_-_j-kayitlar/Junith_Eruita.md"
+                },
+                {
                   "title": "J — Kayıt Dizini",
                   "file": "data/Warhammer/J_Q_J_Q_-_j-kayitlar/J___Kay_t_Dizini.md"
                 },
@@ -8895,6 +9359,22 @@
             {
               "name": "k-kayitlar",
               "posts": [
+                {
+                  "title": "Kutlakh the World Killer",
+                  "file": "data/Warhammer/K_K_-_k-kayitlar/Kutlakh_the_World_Killer.md"
+                },
+                {
+                  "title": "Kataphron Battle Servitor",
+                  "file": "data/Warhammer/K_K_-_k-kayitlar/Kataphron_Battle_Servitor.md"
+                },
+                {
+                  "title": "Kanak",
+                  "file": "data/Warhammer/K_K_-_k-kayitlar/Kanak.md"
+                },
+                {
+                  "title": "Kiavahr",
+                  "file": "data/Warhammer/K_K_-_k-kayitlar/Kiavahr.md"
+                },
                 {
                   "title": "Karak-Dorn Seferi",
                   "file": "data/Warhammer/K_K_-_k-kayitlar/Karak-Dorn_Seferi.md"
@@ -8977,6 +9457,18 @@
             {
               "name": "l-kayitlar",
               "posts": [
+                {
+                  "title": "Llandu'gor the Flayer",
+                  "file": "data/Warhammer/L_L_-_l-kayitlar/Llandu_gor_the_Flayer.md"
+                },
+                {
+                  "title": "Lootas",
+                  "file": "data/Warhammer/L_L_-_l-kayitlar/Lootas.md"
+                },
+                {
+                  "title": "Longstrike",
+                  "file": "data/Warhammer/L_L_-_l-kayitlar/Longstrike.md"
+                },
                 {
                   "title": "Lugganath (Craftworld)",
                   "file": "data/Warhammer/L_L_-_l-kayitlar/Lugganath__Craftworld_.md"
@@ -9079,6 +9571,10 @@
             {
               "name": "m-kayitlar",
               "posts": [
+                {
+                  "title": "Mephet'ran the Deceiver",
+                  "file": "data/Warhammer/M_M_-_m-kayitlar/Mephet_ran_the_Deceiver.md"
+                },
                 {
                   "title": "Moirae Schism",
                   "file": "data/Warhammer/M_M_-_m-kayitlar/Moirae_Schism.md"
@@ -9312,6 +9808,14 @@
               "name": "o-kayitlar",
               "posts": [
                 {
+                  "title": "Ophydian Destroyer",
+                  "file": "data/Warhammer/O_O_-_o-kayitlar/Ophydian_Destroyer.md"
+                },
+                {
+                  "title": "Obelisk",
+                  "file": "data/Warhammer/O_O_-_o-kayitlar/Obelisk.md"
+                },
+                {
                   "title": "Ork Boyz",
                   "file": "data/Warhammer/O_O_-_o-kayitlar/Ork_Boyz.md"
                 },
@@ -9401,6 +9905,14 @@
             {
               "name": "p-kayitlar",
               "posts": [
+                {
+                  "title": "Plague Drones of Nurgle",
+                  "file": "data/Warhammer/P_P_-_p-kayitlar/Plague_Drones_of_Nurgle.md"
+                },
+                {
+                  "title": "Pteraxii",
+                  "file": "data/Warhammer/P_P_-_p-kayitlar/Pteraxii.md"
+                },
                 {
                   "title": "Pyrovore",
                   "file": "data/Warhammer/P_P_-_p-kayitlar/Pyrovore.md"

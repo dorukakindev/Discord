@@ -1214,6 +1214,16 @@
       "Fleshborer"
     ],
     "imperium-araclari": [
+      "Banewolf",
+      "Devil Dog",
+      "Stormhammer",
+      "Banesword",
+      "Hellhammer",
+      "Wyvern",
+      "Deathstrike Missile Launcher",
+      "Vendetta",
+      "Gladiator",
+      "Razorback",
       "Drop Pod",
       "KV128 Stormsurge",
       "Rhino",
@@ -1283,6 +1293,8 @@
       "Gorkanaut"
     ],
     "necron-araclari": [
+      "Catacomb Command Barge",
+      "Obelisk",
       "Tesseract Vault",
       "Annihilation Barge",
       "Monolith",
@@ -1536,6 +1548,10 @@
       "Howling Griffons — Ultramarines soyu"
     ],
     "hain-ve-kayip-bolumler": [
+      "The Scourged",
+      "Bleak Brotherhood",
+      "The Cleaved",
+      "Apostles of Contagion",
       "Mentors",
       "Doom Eagles",
       "Exorcists",
@@ -1656,6 +1672,7 @@
       "Royal Volpone Bluebloods"
     ],
     "imperium-kahramanlari": [
+      "Inquisitor Coteaz",
       "Ezekiel",
       "Corbulo",
       "Ephrael Stern",
@@ -1767,6 +1784,8 @@
       "Nazdreg (Warlord) — Orks (Bad Moons)"
     ],
     "chaos-karakterleri": [
+      "Sor Talgron",
+      "Doomrider",
       "Eidolon",
       "Ahriman",
       "Be'lakor",
@@ -1783,6 +1802,11 @@
       "Abaddon the Despoiler"
     ],
     "aeldari-karakterleri": [
+      "Succubus",
+      "Archon",
+      "Solitaire",
+      "Death Jester",
+      "Shadowseer",
       "Irillyth",
       "Arhra",
       "Karandras",
@@ -1801,6 +1825,7 @@
       "Lady Malys"
     ],
     "necron-karakterleri": [
+      "Kutlakh the World Killer",
       "Nemesor Zahndrekh",
       "Anrakyr the Traveller",
       "Orikan the Diviner",
@@ -1812,6 +1837,8 @@
       "The Nightbringer"
     ],
     "xenos-karakterleri": [
+      "Longstrike",
+      "Commander Brightsword",
       "Grukk Face-rippa",
       "Ghazghkull Mag Uruk Thraka",
       "Commander Shadowsun",
@@ -1827,6 +1854,15 @@
       "Mad Dok Grotsnik"
     ],
     "kaos-varliklari": [
+      "Cor'Bax Utterblight",
+      "Samus",
+      "Syll'Esske",
+      "Scabeiathrax the Bloated",
+      "Rotigus Rainmaker",
+      "An'ggrath the Unbound",
+      "Skulltaker",
+      "Plague Drones of Nurgle",
+      "Seekers of Slaanesh",
       "Shalaxi Helbane",
       "N'Kari",
       "Epidemius",
@@ -1906,6 +1942,8 @@
       "Tervigon"
     ],
     "necron-varliklari": [
+      "Cryptothrall",
+      "Ophydian Destroyer",
       "Lokhust Destroyer",
       "Canoptek Spyder",
       "Canoptek Wraith",
@@ -1915,6 +1953,11 @@
       "Canoptek Scarab"
     ],
     "diger-xeno-yaratiklar": [
+      "Runtherd",
+      "Wurrboy",
+      "Warbikers",
+      "Lootas",
+      "Tankbustas",
       "Gargant",
       "Ork Boyz",
       "Stormboy",
@@ -1932,6 +1975,10 @@
       "Ambull"
     ],
     "imperium-dunyalari": [
+      "Gudrun",
+      "Kanak",
+      "Kiavahr",
+      "Verghast",
       "Imperial Palace",
       "Ghoul Stars",
       "Lion's Gate Uzay Limanı",
@@ -2202,6 +2249,8 @@
       "Ynnead"
     ],
     "diger-tanri-varliklari": [
+      "Llandu'gor the Flayer",
+      "Mephet'ran the Deceiver",
       "Nyadra'zatha",
       "Iash'uddra",
       "The Void Dragon",
@@ -2214,6 +2263,7 @@
       "The Hive Mind"
     ],
     "imperium-azizleri": [
+      "Junith Eruita",
       "Dolan Chirosius",
       "Lord Kiodrus",
       "Ollanius Pius",
@@ -2380,6 +2430,20 @@
       "Confederation of Light"
     ],
     "elit-birlikler": [
+      "Cronos",
+      "Talos",
+      "Reavers",
+      "Wyches",
+      "Scourges",
+      "Wracks",
+      "Crimson Hunters",
+      "Celestian",
+      "Retributor",
+      "Serberys Raiders",
+      "Pteraxii",
+      "Sicarian İnfiltrator",
+      "Electro-Priests",
+      "Kataphron Battle Servitor",
       "Scout Marine (Scout Squad)",
       "Vanguard Veteran",
       "Dreadnought",
@@ -2701,6 +2765,11 @@
       "Forum Açıklaması & Kurallar"
     ],
     "r-kayitlar": [
+      "Rotigus Rainmaker",
+      "Runtherd",
+      "Reavers",
+      "Razorback",
+      "Retributor",
       "Ravener",
       "R — Kayıt Dizini",
       "Realm of Chaos",
@@ -2724,6 +2793,19 @@
       "Rangdan Xenocides"
     ],
     "s-kayitlar": [
+      "Samus",
+      "Syll'Esske",
+      "Scabeiathrax the Bloated",
+      "Skulltaker",
+      "Seekers of Slaanesh",
+      "Scourges",
+      "Succubus",
+      "Solitaire",
+      "Shadowseer",
+      "Stormhammer",
+      "Serberys Raiders",
+      "Sicarian İnfiltrator",
+      "Sor Talgron",
       "Scout Marine (Scout Squad)",
       "Scholastica Psykana",
       "Shalaxi Helbane",
@@ -2783,6 +2865,10 @@
       "İkinci Armageddon Savaşı"
     ],
     "t-kayitlar": [
+      "The Scourged",
+      "The Cleaved",
+      "Tankbustas",
+      "Talos",
       "The Beheading",
       "Toxicrene",
       "Thyrrus",
@@ -2843,6 +2929,8 @@
       "Ultramarines"
     ],
     "v-kayitlar": [
+      "Vendetta",
+      "Verghast",
       "Vanguard Veteran",
       "V — Kayıt Dizini",
       "Void Dragon",
@@ -2859,6 +2947,11 @@
       "Vulkan"
     ],
     "w-kayitlar": [
+      "Wurrboy",
+      "Warbikers",
+      "Wyches",
+      "Wracks",
+      "Wyvern",
       "War of the Confessor",
       "Wraithblade",
       "W — Kayıt Dizini",
@@ -2894,6 +2987,9 @@
       "Zahndrekh"
     ],
     "a-kayitlar": [
+      "Apostles of Contagion",
+      "An'ggrath the Unbound",
+      "Archon",
       "Augmetics (Cyborg değişimleri)",
       "Avatar of Khaine",
       "Astral Knights",
@@ -2944,6 +3040,9 @@
       "Azrael"
     ],
     "b-kayitlar": [
+      "Bleak Brotherhood",
+      "Banewolf",
+      "Banesword",
       "Bio-Titan",
       "Biotransference",
       "Broodlord",
@@ -2984,6 +3083,13 @@
       "Boss Snikrot"
     ],
     "c-kayitlar": [
+      "Cor'Bax Utterblight",
+      "Cryptothrall",
+      "Catacomb Command Barge",
+      "Cronos",
+      "Crimson Hunters",
+      "Celestian",
+      "Commander Brightsword",
       "Centurion Savaş Zırhı",
       "Corbulo",
       "Culexus Tapınağı",
@@ -3032,6 +3138,10 @@
       "Cypher"
     ],
     "d-kayitlar": [
+      "Death Jester",
+      "Devil Dog",
+      "Deathstrike Missile Launcher",
+      "Doomrider",
       "Drop Pod",
       "Dominatrix",
       "Doombreed",
@@ -3064,6 +3174,7 @@
       "Krieg Ölüm Kolordusu"
     ],
     "e-kayitlar": [
+      "Electro-Priests",
       "Eidolon",
       "Ezekiel",
       "Ephrael Stern",
@@ -3111,6 +3222,8 @@
       "Fortress Monasteries"
     ],
     "g-kayitlar": [
+      "Gladiator",
+      "Gudrun",
       "Ghoul Stars",
       "Gargant",
       "Grukk Face-rippa",
@@ -3140,6 +3253,7 @@
       "Gaunt'un Hayaletleri"
     ],
     "h-kayitlar": [
+      "Hellhammer",
       "Halo Devices",
       "Hierodule",
       "Hector Rex (Lord Inquisitor)",
@@ -3162,6 +3276,7 @@
       "Huron Blackheart"
     ],
     "i-kayitlar": [
+      "Inquisitor Coteaz",
       "Imperial Palace",
       "Irillyth",
       "Iybraesil (Craftworld)",
@@ -3195,6 +3310,7 @@
       "Iyanden"
     ],
     "j-kayitlar": [
+      "Junith Eruita",
       "J — Kayıt Dizini",
       "Jaghatai Khan",
       "Jain Zar",
@@ -3206,6 +3322,10 @@
       "Quixos"
     ],
     "k-kayitlar": [
+      "Kutlakh the World Killer",
+      "Kataphron Battle Servitor",
+      "Kanak",
+      "Kiavahr",
       "Karak-Dorn Seferi",
       "Khrave",
       "K'nib",
@@ -3226,6 +3346,9 @@
       "Kaptin Badrukk"
     ],
     "l-kayitlar": [
+      "Llandu'gor the Flayer",
+      "Lootas",
+      "Longstrike",
       "Lugganath (Craftworld)",
       "Lion's Gate Uzay Limanı",
       "Lokhust Destroyer",
@@ -3251,6 +3374,7 @@
       "Luna"
     ],
     "m-kayitlar": [
+      "Mephet'ran the Deceiver",
       "Moirae Schism",
       "M'kar",
       "Maleceptor",
@@ -3308,6 +3432,8 @@
       "Novamarines"
     ],
     "o-kayitlar": [
+      "Ophydian Destroyer",
+      "Obelisk",
       "Ork Boyz",
       "Occlusiad War",
       "O — Kayıt Dizini",
@@ -3330,6 +3456,8 @@
       "Ordo Xenos"
     ],
     "p-kayitlar": [
+      "Plague Drones of Nurgle",
+      "Pteraxii",
       "Pyrovore",
       "Pavonis",
       "Palatine Heresy",
