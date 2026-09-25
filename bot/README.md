@@ -37,6 +37,25 @@ python3 lexicanum.py
 DISCORD_TOKEN=... python3 build_index.py   # ~10 dk, data/index.json yazar
 ```
 
+## Üretim hattı betikleri
+
+| Betik | İş |
+|---|---|
+| `build_index.py` | 5 guild'in forumlarını tarar → `data/index.json` (atomik yazma + %50/guild + %90/toplam koruma; hatalı forumlar raporlanır) |
+| `filmarchive/build_server.py` | nMDB veritabanlarından Film Archive guild'ini kurar/günceller. Fazlar: `prep structure guide posts az bands split relabel all`. Flag'ler: `--dry-run`, `--force` |
+| `filmarchive/dump_all.py` · `wh40k/dump_all.py` | Canlı guild → repo markdown dökümü + `docs/` verisi. Flag'ler: `--dry-run`, `--force-sweep` |
+| `lib/dapi.py` | Ortak Discord REST katmanı (retry/429/5xx, DRY_RUN kısa devre). Guild'ler `configure()` veya `*_GUILD_ID` env ile bildirilir |
+| `lib/textnorm.py` · `lib/jsonio.py` | Türkçe arama normalizasyonu · utf-8 okuma + atomik JSON yazma |
+
+Güvenlik: yıkıcı betikler `post_state.json` yedeği (`work/backups/`) + silinmeden önce thread dökümü (`work/trash/`) alır. Bilinmeyen thread içeren forum `--force` olmadan silinmez; `sweep_stale` >%30 oranında durur. Önce `--dry-run` ile plan gör:
+
+```bash
+DRY_RUN=1 python3 filmarchive/build_server.py split
+python3 filmarchive/dump_all.py --dry-run
+```
+
+Geliştirme/test: `cd bot && ruff check . && python -m pytest tests/` — bulgu takibi `BULGULAR.md`.
+
 ## Oracle Cloud Always Free kurulumu (kalıcı, ücretsiz)
 
 1. `cloud.oracle.com` → **Sign Up** (kredi kartı ister, ücret almaz).

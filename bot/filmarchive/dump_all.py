@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Live dump of The Film Archive guild -> repo files.
 
 Writes:
@@ -7,10 +6,20 @@ Writes:
   FilmArchive/server_manifest.json
   docs/data/FilmArchive/<san>/<file>.md  (+ _txt/<cat>/<chan>.md for text channels)
   docs/manifest.json (FilmArchive node), docs/index.json (THE FILM ARCHIVE entries)
+
+Flags: --dry-run (silmeleri sadece raporla), --force-sweep (>%30 stale olsa da sil)
+Env: FILM_GUILD_ID / DISCORD_GUILD_ID, DISCORD_BOT_TOKEN_WH40K veya DISCORD_TOKEN,
+     DISCORD_REPO, DRY_RUN
 """
-import json, os, re, time, sys
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dapi import req, get, guild_channels, channel_messages, forum_threads, GUILD
+import os
+import re
+import sys
+import time
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from lib import dapi  # noqa: E402
+from lib.dapi import channel_messages, forum_threads, get, guild_channels  # noqa: E402
+from lib.jsonio import read_json, write_json_atomic, write_text  # noqa: E402
 
 REPO = os.environ.get("DISCORD_REPO", os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 FILM = os.path.join(REPO, "FilmArchive")
@@ -18,9 +27,15 @@ DOCS = os.path.join(REPO, "docs")
 SERVER_ID = "FilmArchive"
 SERVER_TITLE = "THE FILM ARCHIVE"
 
+dapi.configure(guild=os.environ.get("FILM_GUILD_ID", "1552514539344363610"))
+GUILD = dapi.GUILD
+DRY = '--dry-run' in sys.argv or dapi.DRY_RUN
+FORCE_SWEEP = '--force-sweep' in sys.argv
+dapi.set_dry_run(DRY)
+
 
 def fsafe(name):
-    n = re.sub(r'[\\/:*?"<>|]', '-', name).strip().strip('.')
+    n = re.sub(r'[\\/:*?"<>|]', '-', name).strip().rstrip('.').strip()
     return n or "unnamed"
 
 
@@ -33,9 +48,7 @@ def post_text(msgs):
 
 
 def w(path, text):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(text)
+    write_text(path, text)
 
 
 def main():
@@ -69,14 +82,25 @@ def main():
         written_files.add(os.path.normpath(p))
 
     def sweep_stale(root):
+        stale = []
         for dirpath, _, files in os.walk(root):
             for fn in files:
                 if not fn.endswith(".md"):
                     continue
                 fp = os.path.normpath(os.path.join(dirpath, fn))
                 if fp not in written_files:
-                    os.remove(fp)
-                    print("stale removed:", fp)
+                    stale.append(fp)
+        total = len(written_files) + len(stale)
+        if stale and len(stale) > total * 0.3 and not FORCE_SWEEP:
+            print(f"!! sweep ATLANDI: {len(stale)}/{total} dosya stale "
+                  "(>%30 — olası döküm hatası). Onay için --force-sweep")
+            return
+        for fp in stale:
+            if DRY:
+                print("[dry-run] stale silinecek:", fp)
+            else:
+                os.remove(fp)
+                print("stale removed:", fp)
 
     cat_children = {}
     for f in forums:
@@ -90,7 +114,7 @@ def main():
             titles, posts = [], []
             for t in threads:
                 tid = t["id"]
-                msgs = get(f"/channels/{tid}/messages?limit=100") or []
+                msgs = channel_messages(tid)  # sınırsız — >100 mesajlı kayıtlar kesilmesin
                 msgs.sort(key=lambda m: int(m["id"]))
                 txt = post_text(msgs)
                 if not txt:
@@ -98,7 +122,7 @@ def main():
                 title = t["name"]
                 titles.append(title)
                 fname = fsafe(title) + ".md"
-                fdir = f"{cat} - {f['name']}"
+                fdir = f"{fsafe(cat)} - {fsafe(f['name'])}"
                 p1 = os.path.join(forumlar_root, fdir, fname)
                 w(p1, txt); mark(p1)
                 u = f"data/{SERVER_ID}/" + dsan(fdir) + "/" + dsan(fname)
@@ -117,12 +141,12 @@ def main():
     txt_root = os.path.join(docs_root, "_txt")
     for c in sorted(texts, key=lambda x: (x.get("parent_id") or "", x["position"])):
         cat = catname.get(c.get("parent_id"), "?")
-        msgs = channel_messages(c["id"], limit=500)
+        msgs = channel_messages(c["id"])
         msgs.sort(key=lambda m: int(m["id"]))
         txt = post_text(msgs)
         if not txt:
             continue
-        p3 = os.path.join(mk_root, cat, fsafe(c["name"]) + ".md")
+        p3 = os.path.join(mk_root, fsafe(cat), fsafe(c["name"]) + ".md")
         w(p3, txt); mark(p3)
         u = f"data/{SERVER_ID}/_txt/" + dsan(cat) + "/" + dsan(fsafe(c["name"]) + ".md")
         p4 = os.path.join(txt_root, dsan(cat), dsan(fsafe(c["name"]) + ".md"))
@@ -135,24 +159,24 @@ def main():
     sweep_stale(mk_root)
     sweep_stale(docs_root)
 
-    w(os.path.join(FILM, "server_manifest.json"), json.dumps(manifest, ensure_ascii=False, indent=2))
+    write_json_atomic(os.path.join(FILM, "server_manifest.json"), manifest, indent=2)
 
     # ---------- docs/manifest.json (FilmArchive node) ----------
     dm_path = os.path.join(DOCS, "manifest.json")
-    dm = json.load(open(dm_path, encoding="utf-8"))
+    dm = read_json(dm_path, default={"servers": []})
     node = next((s for s in dm["servers"] if s.get("id") == SERVER_ID), None)
     if not node:
         node = {"id": SERVER_ID, "title": SERVER_TITLE}
         dm["servers"].append(node)
     node["forums"] = docs_forums
     node["texts"] = docs_texts
-    json.dump(dm, open(dm_path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    write_json_atomic(dm_path, dm, indent=2)
 
     # ---------- docs/index.json ----------
     di_path = os.path.join(DOCS, "index.json")
-    di = json.load(open(di_path, encoding="utf-8"))
+    di = read_json(di_path, default=[])
     di = [e for e in di if e.get("s") != SERVER_TITLE] + docs_index_new
-    json.dump(di, open(di_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    write_json_atomic(di_path, di, indent=0)
     print("docs index:", len(docs_index_new), "film entries; total", len(di))
 
 
