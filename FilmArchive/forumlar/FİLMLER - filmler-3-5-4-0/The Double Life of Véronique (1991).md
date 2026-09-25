@@ -24,7 +24,7 @@ Weronika, Polonya'da şarkı söyleyen bir kadındır; kalbi ağrırken sahnede 
 İkizlik bilinç ötesi bir bağdır: birinin ölümü diğerinin hayatını korur. Kieslowski'nin metafizik jesti — dünya çiftlerle doludur ve biz sadece bir yarıyı görürüz.
 
 ## Mekanizma
-Fotografik efektler (cam küre içindeki dünya, ters yans��malar) iki dünyayı biçimlendirir; renk kodlaması Polonya'nın soğukluğu ile Paris'in sıcaklığını ayırır. Ses kasetleri 'içsel ses'in fiziksel kanıtıdır.
+Fotografik efektler (cam küre içindeki dünya, ters yansımalar) iki dünyayı biçimlendirir; renk kodlaması Polonya'nın soğukluğu ile Paris'in sıcaklığını ayırır. Ses kasetleri 'içsel ses'in fiziksel kanıtıdır.
 
 ## Kişisel uygunluk
 Kimlik-ikizlik ve metafizik uyum tam senin profiline uyuyor.
