@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/59/GrendylHologram.webp/
 
 ## Tarihçe
 
-Grendyl, Ordo Hereticus Inquisitor'ü olarak Atoma Prime'daki tüm Acolyte ve Inquisition kuvvetlerinin komutanı; Darktide'ın 'görünmez efendisi' — Moebian krizinin ardındaki figür.
+Grendyl, Ordo Hereticus'un Inquisitor'üdür; Hive World Atoma Prime'daki Nurgle Admonition kültünün istilasını temizlemek için gönderilen tüm Acolyte ve Inquisition güçlerinin komutanıdır. Darktide'ın 'görünmeyen patronu' olarak Rogue Trader firkateyni Mourningstar'dan operasyonu yönetir — kendisi hiç görünmez ama ekibi sahada; 'gölgedeki inanç' figürü.
 
 -# Kaynaklar: *Fandom wiki*

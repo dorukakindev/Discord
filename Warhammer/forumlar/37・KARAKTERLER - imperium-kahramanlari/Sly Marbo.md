@@ -12,6 +12,6 @@ Augmentasyon görmemiş bir insan için benzersiz askeri becerilere sahip olduğ
 
 ## Tarihçe
 
-Catachan'ın efsanevi yalnız savaşçısı; tek kişilik ordu. Verilen görev tek başına yapılacak kadar tehlikeliyse Sly Marbo gönderilir — Catachan onur madalyalarını o kadar çok aldı ki madalya kutusuna sığmıyorlar. Konuşmaz, sadece yapar.
+Sly Marbo ('Sessiz Marbo'), Catachan Jungle Fighters'ın efsanevi tek-asker operatörüdür — 'tek başına bir ordu' olarak bilinen figür. Munitorum düzenlemelerini hiçe sayar, gizli emirlerle çalışır ve sayılamayacak kadar düşmanı tek başına katletti; 'ölüm makinesi' olarak Catachan'ın en tehlikeli ürünü, kaybolup tekrar beliren hayalet-askerdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

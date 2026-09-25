@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/22/Krom_Dragongaze.jpg/r
 
 ## Tarihçe
 
-Krom Dragongaze, Space Wolves'un Büyük Kurt'larından biridir; cesareti ve alaycı mizahıyla bilinen 'Ejderha Bakışı' — Dawn of War II'de de görünür.
+Krom Dragongaze — bazen 'Vahşi Bakış' — Space Wolves'un on iki Wolf Lord'undan biridir; Büyük Bölüğü 'Drakeslayers' (Ejderha Katilleri) olarak bilinir. Rezil derecede şiddetli ve çabuk öfkelenen bu figür, Frost Axe 'Wyrmclaw' ile savaşır; Fenris'in ejderha avcısı efsanelerini yaşayan son temsilcisidir. 'Ejderha öldüren kurt' olarak chapter'ın en agresif liderlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*

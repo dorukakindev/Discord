@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Bheta-Decima (eski adı Emperor's Bounty), Nemesys Sektörü'nde dumanlı bir Ocean World; Era Indomitus'ta Adeptus Mechanicus'un Forge World'e dönüştürme sürecindeki 'fabrika-doğan' gezegen.
+Bheta-Decima (eski adıyla Emperor's Bounty), Nemesys Sektörü'nde dumanla örtülü bir Ocean World'dür; Era Indomitus'ta Adeptus Mechanicus'un Forge World'e dönüştürme sürecindedir. 41. Binyılda yeni kolonize edilmişti — düşük yerçekimi ağır ekipman taşımayı kolaylaştırdığı için Mechanicus tarafından seçilmişti. Felaket, yönetici magi'lerin 'Gallowdark' adlı space hulk'u el koyup teknolojik sırlarını yağmalamak istemesiyle başladı: hulk kontrolsüz şekilde gezegene düştü ve hem dünyayı hem nüfusunu harap etti. Sonrasında dünya çok taraflı bir kaos çatışmasına saplandı.
 
 -# Kaynaklar: *Fandom wiki*

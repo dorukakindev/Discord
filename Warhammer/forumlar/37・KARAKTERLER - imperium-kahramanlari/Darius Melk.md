@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/77/DariusMelk.webp/revis
 
 ## Tarihçe
 
-Sire Darius Melk XIV — 'Quartervest'in Lordu, Endless March'ın Sahibi, Crux Mortem'in Muhafızı — Lord Dolmar Martialis tarafından üç kez cesaretle ödüllendirilen bu züppe, İmparatorluk aristokrasisinin 'şatafatlı' yüzünü temsil eder.
+Sire Darius Melk XIV — 'Quartervest'in Lordu', 'Sonsuz Yürüyüş'ün Sahibi', 'Crux Mortem'in Muhafızı', Lord Dolmar Martial tarafından Üç Kez Cesaret Nişanı'yla ödüllendirilmiş — ahlaksız bir İmparatorluk soylusudur; Inquisitor Grendyl'in Acolyte warband'inde istihbarat analisti ve casusluk efendisi olarak görev yapar. 'Soylu entrikacı' olarak Darktide'ın arka plan beynidir.
 
 -# Kaynaklar: *Fandom wiki*

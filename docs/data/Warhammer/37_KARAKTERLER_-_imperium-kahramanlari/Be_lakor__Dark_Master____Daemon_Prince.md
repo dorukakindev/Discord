@@ -16,7 +16,7 @@ Dark Master adıyla anılan, gölgelerden yapılmış bir ordu yöneten ve dört
 
 ## Tarihçe
 
-Kökeni kasıtlı olarak karanlıkta bırakılan Be'lakor, Great Rift çağında Chaos'un yükselen gücünden yararlanarak kendi seferlerini yürüttü. War Zone Charadon anlatısında Imperial dünyalara yönelik saldırılarıyla öne çıktı. *Arks of Omen: Vashtorr*'da Vashtorr ile Azrael'in çarpışmasına gölge ordusuyla beklenmedik biçimde girerek dengeyi bozdu; bu müdahale, Chaos içindeki rekabetin Vashtorr'un yükselişine ne kadar kapalı olduğunu da gösterdi.
+Be'lakor — 'Karanlık Efendi', 'İlk-Lanetli' — Ruinous Powers'ın birleşik iradesiyle ölümlülükten yükseltilmiş ilk Daemon Prince'tir; Chaos Undivided'ın hizmetkârıdır. 'Blade of Shadows'ı taşıyan bu figür, tanrıların kendi oyunlarının dışında kendi planları olan 'dördüncü güç' gibidir — 'gölgelerin efendisi' olarak Chaos'un en bağımsız varlığı.
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Arks of Omen: Vashtorr*
 

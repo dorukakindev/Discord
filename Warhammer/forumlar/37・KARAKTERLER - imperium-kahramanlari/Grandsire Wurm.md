@@ -14,7 +14,7 @@ Grandsire Wurm, Vigilus'taki Pauper Princes kültünün Patriarch'ıdır. Kuşak
 
 ## Tarihçe
 
-Kaynaklara göre Vigilus'a ulaşan Genestealer'ların hayatta kalan tek üyesi olarak yeraltına yerleşmiş ve enfeksiyonu nüfusa sistemli biçimde yaymıştır. Ork baskısının doğurduğu kargaşayı fırsat bilen kült, savunma noktalarını sabote edip ikmal hatlarını keserek ayaklandı. Imperium'un Callidus Assassin'leri Wurm'u hedef alan bir operasyon düzenlemiş, fakat kaynaklar kültün başında kısa süre sonra yeniden bir Grandsire Wurm'un belirdiğini aktarır.
+Grandsire Wurm ('Büyükbaba Solucan'), Genestealer kültlerinin en eski figürlerinden biridir — 'kültün kadim babası' olarak bilinen bu varlık, bazı hesaplara göre ilk Genestealer kültünün ata-Patriarch'ıdır. 'Kök' olarak bildiği bu figür, kültlerin 'aile ağacı'nın en derin katmanıdır.
 
 -# Kaynaklar: *Vigilus Defiant*; *Vigilus Ablaze*
 

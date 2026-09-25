@@ -16,7 +16,7 @@ Grimnyr'ler, Ancestor-psyker olarak bilinen, Votann ile bağlantı kuran ve psi�
 
 ## Tarihçe
 
-Kaynaklar Grimnyr'leri hem savaş alanında hem de League'lerin karar süreçlerinde Votann'ın yorumlanmasına katkıda bulunan figürler olarak anlatır. Kin'in Warp'taki yansımasının sönük olduğu vurgulansa da Grimnyr'ler, psişik gücün Kin arasında da var olduğunu ve özenle yönetildiğini gösterir.
+Grimnyr ('Yaşayan Atasözü'), Leagues of Votann'ın Kin'leridir — Immaterium'un enerjilerinden sınırlı psişik güç çekebilen psikoaktif cloneskein'le klonlanmış figürler. Ancestral Warding Stave taşıyan bu 'kin-büyücüler', Votann ordularının 'ruh-köprüsü' olarak hem savaşçı hem de kadim bilgeliğin taşıyıcısıdır.
 
 -# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*
 

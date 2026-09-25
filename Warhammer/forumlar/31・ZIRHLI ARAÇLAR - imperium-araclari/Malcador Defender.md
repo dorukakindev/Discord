@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/56/MalcadorDefender2.jpg
 
 ## Tarihçe
 
-Malcador Defender, Malcador Assault Tank'ın savunma-varyantı; beş silah yuvasıyla 'yüzen kale' olarak siper savunması için tasarlanmış eski ama sağlam platform.
+Malcador Defender, Malcador Assault Tank'ın savunma-ağırlıklı varyantıdır; beş silah yuvasıyla donatılmış 'yüzen kale' olarak statik savunmada en etkili Malcador sürümüdür. Kuşatma senaryolarında karşı taarruz için ideal olsa da üretim hattının çoktan kapanmasıyla günümüzde nadirdir; kalan örnekler genelde 'müze tankı' statüsündedir.
 
 -# Kaynaklar: *Fandom wiki*

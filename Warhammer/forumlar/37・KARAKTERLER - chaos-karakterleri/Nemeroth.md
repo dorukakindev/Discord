@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Nemeroth_infobox.jpg/
 
 ## Tarihçe
 
-Nemeroth, 'Chosen of Nemeroth' warband'inin Chaos Lord'u ve güçlü bir sorcerer'dı; Forge World Graia'yı istila eden saldırının beyni — Titus'un 'Space Marine' düşmanı.
+Nemeroth, 'Chosen of Nemeroth' warband'inin Chaos Lord'u ve güçlü bir Chaos Sorcerer'ıydı; 41. Binyılda Forge World Graia'ya yapılan ve İmparatorluk kayıtlarında 'Graia'nın Kurtuluşu' olarak geçen Chaos istilasının beyniydi. Psychic Scourge güç kaynağını kullanarak Chaos Undivided Daemon Prince'e dönüşmenin eşiğindeyken Ultramarines 2. Bölük kaptanı Demetrian Titus tarafından öldürüldü. Space Marine oyununun ana antagonisti olarak bilinen bu figür, Graia'nın cephane ve silah üretim kalbini ele geçirmeye çalışan en tehlikeli hain büyücülerinden biriydi.
 
 -# Kaynaklar: *Fandom wiki*

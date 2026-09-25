@@ -16,7 +16,7 @@ Jokaero, turuncu kürklü, maymunsu görünümlü ve olağanüstü teknolojik be
 
 ## Tarihçe
 
-Imperium'un bazı Inquisitor'ları Jokaero'ları maiyetlerinde silah ustası olarak bulundurur; bu xenos'lar ellerindeki teçhizatı sürekli değiştirip geliştirerek efendilerine öngörülemez avantajlar sağlar. Imperial soyluların taktığı yüzük biçimli digital weapon'ların da Jokaero işi olduğu anlatılır.
+Jokaero Weaponsmith, orangutan benzeri xenos zanaatkardır — dili ve kültürü olmayan ama teknolojiyi doğal olarak anlayan bu yaratıklar, İmparatorluk'un en iyi silah ustalarıdır. 'Kelimeleri olmayan mucit' olarak efsanevi 'dijital silahlar' ve benzersiz artefaktlar üreten bu varlıklar, Inquisition'un en değerli 'canlı aletlerindendir.
 
 -# Kaynaklar: *Codex: Grey Knights*; *Warhammer 40,000: Rogue Trader — Rick Priestley*
 

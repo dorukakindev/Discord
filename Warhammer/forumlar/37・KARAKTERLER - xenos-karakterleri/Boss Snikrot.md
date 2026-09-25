@@ -16,7 +16,7 @@ Snikrot, Armageddon'un balta girmemiş ormanlarında gölge gibi dolaşan Komman
 
 ## Tarihçe
 
-Second War for Armageddon sırasında kabilesinden kopan Snikrot, Kommando'larını orman savaşına uyarlayarak Imperial kuvvetlere karşı uzun soluklu bir yıpratma ve psikolojik savaş yürüttü. Third War for Armageddon'da da etkin olduğu anlatılır; kaynaklara göre efsanesi, Armageddon'un Ork avcısı birliklerinin bile çekindiği bir düzeye ulaşmıştır.
+Boss Snikrot, Ork Kommando'larının en ünlü lideridir — 'gizli Ork' paradoksunu yaşayan figür olarak kamuflaj ve pusuda ustadır. 'Mork'un gölgesi' olarak düşman hatlarının arkasına sızan bu boss, Ork'un 'gürültülü' doğasına aykırı ama ölümcül etkili 'sessiz katil' arketipidir.
 
 -# Kaynaklar: *Codex: Orks*
 

@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/26/DA_Warlord_Corswain.p
 
 ## Tarihçe
 
-Corswain, Dark Angels 9. Düzen'in Paladin-Captain'ı ve Lion El'Jonson'un şampiyonuydü; Thramas Crusade'de Death Guard'a karşı savaştı. 'Paladin' ünvanıyla lejyonun en saf şövalyesi sayılır.
+Corswain, Büyük Sefer ve Heresy sırasında Dark Angels 9. Düzeni'nin Paladin-Captain'ı, lejyon şampiyonu ve Primarch Lion El'Jonson'un kişisel muhafız birliğinin üyesiydi. Legiones Astartes'in eski ünlü savaşçıları arasında adı, Night Lords'un Jago Sevatarion'u, Sons of Horus'un Ezekyle Abaddon'u, Blood Angels'ın Raldoron'u ve Emperor's Children'ın Eidolon'u gibi isimlerle yan yana sayılırdı. Caliban doğumlu ama başlangıçta 'Order'ın' parçası değildi; Lion'un en güvenilir şövalyesi olarak Thramas Crusade'de Death Guard'a karşı savaştı.
 
 -# Kaynaklar: *Fandom wiki*

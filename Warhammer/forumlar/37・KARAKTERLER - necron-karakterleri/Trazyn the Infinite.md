@@ -16,7 +16,7 @@ Trazyn, galaksinin tarihini eser, kalıntı ve canlı "numune" olarak toplayan t
 
 ## Tarihçe
 
-Uyanıştan bu yana Imperium'un ve öteki türlerin dünyalarında belirip kaybolarak değerli bulduğu nesneleri ve kişileri koleksiyonuna katmıştır. Orikan the Diviner ile binyıllara yayılan rekabeti Robert Rath'ın romanının merkezindedir. Kaynaklar, onun Imperial Inquisition ile ve özellikle koleksiyonuna katmak istediği tarihsel emanetler üzerinden çeşitli karşılaşmalarını anlatır.
+Trazyn the Infinite ('Sonsuz'), Necron Nihilakh Hanedanı'nın nemesor'udur ve galaksinin en büyük 'koleksiyoncusu'dur — Solemnace Galerisi'nde tarihin eşyalarını, orduları ve hatta yaşayan figürleri 'sergi' için dondurup saklar. 'Kleptomaniak nemesor' olarak İmparatorluk tarihinin parçalarını çalan ve 'her şeyi isteyen' tuhaf figürdür.
 
 -# Kaynaklar: *The Infinite and the Divine — Robert Rath*; *Codex: Necrons — 10th Edition*
 

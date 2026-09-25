@@ -16,7 +16,7 @@ Dört ayak üzerinde koşan, keskin duyulu ve çevik bu yaratıklar, Kroot kindr
 
 ## Tarihçe
 
-Kroot kindred'leri T'au Empire'a paralı asker ve müttefik olarak hizmet ettikçe Kroot Hound'lar da bu kuvvetlerin parçası olarak görüldü. Kaynaklar onları Krootox ve Knarloc gibi başka evrimsel çıkmazlarla birlikte anar.
+Kroot Hound'lar, T'au İmparatorluğu'yla müttefik Kroot türünün evrimsel çıkmazıdır — dört ayaklı, köpek-benzeri Kroot'lar olarak avı kovalamada ustadır. Büyük köpek boyutunda, omurgaları boyunca duyusal ganglia dizisi taşır; insansı Kroot'lar gibi sinirli yapılıdırlar — 'av paketinin dört ayaklısı' olarak Kroot ordularının izci ve akın birimidir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 

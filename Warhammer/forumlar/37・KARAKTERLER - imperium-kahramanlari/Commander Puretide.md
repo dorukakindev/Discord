@@ -16,7 +16,7 @@ Puretide, Fire Caste'ın savaş felsefesini biçimlendiren efsanevi komutandır.
 
 ## Tarihçe
 
-Kaynaklar Puretide'ı imparatorluğun erken genişleme dönemlerinde öne çıkan ve ardından yetiştirdiği komutanlar aracılığıyla etkisini sürdüren bir usta olarak anlatır. Ölümünden sonra anıları ve taktik bilgisi korunarak Fire Caste'ın eğitiminde kullanılmaya devam etmiştir. En ünlü öğrencisi Farsight'ın kariyeri, Puretide'ın mirasının kuşaklar sonra bile yaşadığını gösterir.
+Commander Puretide, T'au tarihinin en büyük askeri dehasıydı — Fire Caste'in efsanevi generali olarak T'au doktrininin tüm temellerini ('Mont'ka' ve 'Kauyon' stratejileri) öğretti. Öğrencileri Shadowsun ve Farsight onun öğretisini iki farklı yoldan yaşattı — 'ölü ama yaşayan öğretmen' olarak T'au savaş sanatının babasıdır.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Farsight: Crisis of Faith — Phil Kelly*
 

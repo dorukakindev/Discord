@@ -16,7 +16,7 @@ Howling Banshee'lerin Phoenix Lord'u Jain Zar, Aspect Warrior geleneğinin kadim
 
 ## Tarihçe
 
-Fall'ın ardından Asurmen'in yanında savaş yolunu öğrenen Jain Zar, ilk Howling Banshee tapınağını kurdu ve binyıllar boyunca Craftworld'lerin savaşlarında belirip kayboldu. Ynnari'nin doğuşuyla birlikte hareketin en dikkat çekici destekçilerinden biri oldu; Drazhar'ın Saim-Hann baskınında Yvraine'i koruması, onun Ynnari'deki rolünün en bilinen örneğidir.
+Jain Zar — 'Sessizlik Fırtınası' — Craftworld Aeldari'nin Howling Banshees Aspect Warriors'ının Phoenix Lord'u ve kurucusudur; Asurmen'in ilk öğrencisiydi. Blade of Destruction ve Jainas Mor'u taşıyan bu figür, savaş çığlığıyla düşmanı felç eden 'gürültüden doğan sessizlik' paradoksudur — Phoenix Lord'ların en yakın-dövüş ustası.
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Jain Zar: The Storm of Silence — Gav Thorpe*; *Psychic Awakening: Phoenix Rising*
 

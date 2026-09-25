@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Master_of_the_Forge_X
 
 ## Tarihçe
 
-Xerill, Iron Hands'in Master of the Forge'u olarak Deathwatch'a ikinci edilmiş ve Jericho Reach'te 'Dead Cabal' üyesi olarak 'Dark Pattern' fenomenini araştıran Mechanicum-Inquisition köprüsü.
+Xerill, Iron Hands'ın Master of the Forge'u olarak Deathwatch'a verildi ve Jericho Reach'teki 'Karanlık Desen'i araştıran Dead Cabal'ın üyesidir. Chapter'ının 'et zayıflıktır' öğretisinin canlı taşıyıcısı — biyonik güçlendirme ve robotik entegrasyon onun için yaşam biçimidir; 'makinenin içindeki denizci' olarak Cabal'ın teknik aklıdır.
 
 -# Kaynaklar: *Fandom wiki*

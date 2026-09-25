@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f1/Witch_Hunter_Tyrus.pn
 
 ## Tarihçe
 
-Tyrus, İmparatorluk'un eski-okul 'puritan' Inquisitor'larındandır; katıksız ortodoksluk ve acımasız adaletle bilinen figür — Inquisition hikâyelerinin klasik kahramanı.
+Tyrus, Ordo Hereticus'un Witch Hunter Inquisitor'üdür ve Monodominant felsefesinin katı takipçisidir — kanlı tasfiyeleri arkasında binlerce hain ölü bırakan cafcaflı bir adam. Tüm psyker'lara — hatta Inquisition'un 'temizlediği' sanılanlara bile — şüpheyle bakar; inancı her cadıyı, mutantı ve heretiği avlayıp yok etmektir. 'Saf inancın' en aşırı yüzü olarak İmparatorluk'un kendi içindeki paranoyanın simgesidir.
 
 -# Kaynaklar: *Fandom wiki*

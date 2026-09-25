@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Necrosius.jpg/revisio
 
 ## Tarihçe
 
-Necrosius, Death Guard'ın karanlık sorcerer'ı ve Nurgle'ın veba ritüellerinin ustasıdır; 'Eskilerin Efendisi' olarak ölüleri diriltme ve veba salma konusunda galaksinin en korkulan büyücülerinden.
+Necrosius — 'Öl��msüz', taraftarlarınca 'Nurgle'un Eli' — İmparatorluk'un kadim düşmanı olan acı ve bükülmüş Chaos Space Marine büyücüsü ve Death Guard Lord'udur. Apostles of Contagion'un efendisi olarak veba, umutsuzluk ve çürümenin Chaos tanrısı Nurgle'a yeminli sadık hizmetkârıdır — 'salgını vaaz eden' figür olarak binlerce yıldır İmparatorluk'u zehirler.
 
 -# Kaynaklar: *Fandom wiki*

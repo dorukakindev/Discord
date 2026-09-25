@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e8/BlightDrone00.png/rev
 
 ## Tarihçe
 
-Blight Drone ('Bilecyst'), Nurgle'a adanmış daemon-engine; sinek-makine melezli bu uçan varlık, Death Guard ve veba warband'lerinin 'gökyüzü vebası' olarak savaşır.
+Blight Drone ('Bilecyst'), Nurgle'a adanmış bir daemon-engine'dir; sinek-makine melezliği bu uçan varlık, Death Guard ve veba warband'lerinin hava saldırı aracıdır. Paslı kanatlarından veba tohumu saçan bu 'uçan enfeksiyon', düşman hatlarına zehirli iğneler fırlatır ve hem havadan hem karadan saldırabilir. Nurgle'un 'armağan'larının makineye bağlanmış halidir — İmparatorluk kayıtlarında 'görünüşte mekanik ama aslında iblis' olarak tanımlanır.
 
 -# Kaynaklar: *Fandom wiki*

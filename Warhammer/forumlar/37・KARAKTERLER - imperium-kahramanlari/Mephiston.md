@@ -12,6 +12,6 @@ Bir savaşta ölümcül yaralanıp enkaz altında kalan Calistarius, Blood Angel
 
 ## Tarihçe
 
-Blood Angels'ın Chief Librarian'ı ve 'Lord of Death'; Black Rage'e yakalanıp yıkıntı altında yedi gün kalıp sonra çıkınca Blood Angels tarihinin en güçlü psyker'ına dönüştü. İçinde ne taşıdığı belli değil — kendi Chapter'ı bile ondan çekinir.
+Mephiston — asıl adı Calistarius, 'Ölümün Lordu' — Blood Angels'ın Librarius'unun Efendisi ve Baş Kütühanecisidir. Blood Angels ve Sanguinary Brotherhood varisleri arasında Kara Öfke'yi yenip hayatta kalan tek figürdür — Hades Hive'ın enkazı altında lanetli öfkeyi fethedip 'ikinci kez doğan' adam. Psişik gücü chapter'ın en üstüdür; 'laneti evcilleştiren' efsane.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

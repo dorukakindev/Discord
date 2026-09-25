@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-An'kha'arak, Khorne'un Bloodthirster'ı olarak 579.M41'de Toreus'a Chaos istilasını yönetti ve dünyayı 300 yıl boyunca yönetti — 'üç asırlık tiran' olarak bilinen daemon lord.
+An'kha'arak, Khorne'un Bloodthirster'ı — Greater Daemon'ıdır. 579.M41'de İmparatorluk dünyası Toreus'a bir Chaos istilası yönetti ve Warp'ın o bölgedeki hakimiyeti zayıflayıp Empyrean'a geri çekilmeden önce gezegeni 300 Terra yılı boyunca Daemon World olarak fethedip yönetti. 'Geçici kanlı krallık' olarak bilinen bu hükümranlık, daemon'un realspace'te uzun süre kalabildiği nadir kayıtlı olaylardan biridir.
 
 -# Kaynaklar: *Fandom wiki*

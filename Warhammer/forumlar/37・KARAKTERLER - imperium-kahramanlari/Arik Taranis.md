@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Thunder_Warrior_Capta
 
 ## Tarihçe
 
-Arik Taranis (Babu Dhakal), İmparator'un ilk genetik-askerleri Thunder Warriors'ın kumandanıydı; Unifikasyon Savaşları'nın kahramanı ama 'yeni nesil' Astartes'le değiştirilip tasfiye edildi — İmparatorluğun 'unutulmuş ilk oğlu' efsanesi.
+Arik Taranis (Babu Dhakal), İmparator'un insanlığın homeworld'ünü birleştirmek için yarattığı ilk genetik mühendislik askerleri — ilk Thunder Warriors'ın — kaptanıydı. Unifikasyon Savaşları'nda Eski Dünya'nın tekno-barbar savaş lordlarını yenip Eski Gece'nin sona ermesinde kilit rol oynadı. Ancak Birlik sağlandıktan ve Büyük Sefer başlatılmak üzereyken, 'yeni nesil' Space Marines'in gelişiyle bu ilk model askerler tasfiye edildi; Ararat Dağı'ndaki sahte kahramanlık hikâyesiyle örtülen bu katliamdan sağ çıkan nadir figürlerden biri olarak 'İmparatorluğun unutulmuş ilk oğlu' efsanesini taşır.
 
 -# Kaynaklar: *Fandom wiki*

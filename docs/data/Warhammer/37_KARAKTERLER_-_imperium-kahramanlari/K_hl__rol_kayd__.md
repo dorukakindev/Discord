@@ -16,7 +16,7 @@ Kâhl, Kin'in askerî ve siyasi komutanıdır. Stratejik kararlarda Votann'ın r
 
 ## Tarihçe
 
-Kin toplumunun Votann'lar etrafında örgütlenmesi, Kâhl'ı hem bir savaş komutanı hem de bir yönetici hâline getirmiştir. Great Rift sonrası genişleme döneminde Kâhl'lar, Imperium, Ork'lar ve Tyranid'lerle karşılaşmalarda League'lerin yüzü olmuştur. Bir Grudge söz konusu olduğunda Kâhl'ın hesabı değişebilir; kapatılmamış bir hesap, kârsız görünen bir savaşı bile zorunlu kılabilir.
+Kâhl, Leagues of Votann'ın general subaylarına verilen unvandır; Kin'lerin Oathband'lerini savaşa yöneten bu figürler, 'oy'un (sözleşme) ve kan bağının askeri otoritesidir. Forgewrought silahlar ve bastium zırhla savaşan bu liderler, 'klanın komutanı' olarak Votann ordularının saha yöneticisidir.
 
 -# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*
 

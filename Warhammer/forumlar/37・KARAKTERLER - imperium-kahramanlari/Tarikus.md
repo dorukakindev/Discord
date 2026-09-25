@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Doom_Eagles_Assault_M
 
 ## Tarihçe
 
-Tarikus, Doom Eagles'ın kıdemli çavuşuydu; Red Corsairs'in elinde esir düşüp 'Badab'ın işkenceci' korsanlarından kaçmayı başaran nadir savaşçı.
+Tarikus, Doom Eagles chapter'ının Veteran Sergeant'ıydı; medicae firkateyninde yaralarını iyileştirirken Red Corsairs korsan warband'i tarafından esir alındı. Sayısız eziyet ve sınavdan geçtikten sonra sonunda chapter'ıyla yeniden birleşti ve saflarına kabul edildi — 'tutsaktan geri dönen adam' olarak chapter'ın dayanıklılık hikâyelerinden biridir. Thaxted ve Zanasar gibi dünyalarda kanlı çatışmalara katılmış eski bir Veterandır.
 
 -# Kaynaklar: *Fandom wiki*

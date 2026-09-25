@@ -16,4 +16,4 @@ Primaris cerrahisine gönüllü olarak ilk girenlerden biri olan Calgar, 'Rubico
 
 ## Tarihçe
 
-Macragge'ın Chapter Master'ı olarak iki yüzyıldan fazla hükmetti; Tyranid Behemoth'u durduran Macragge Savaşı'nın komutanıydı ve savaşta ağır yaralanıp biyonikle döndü. Vigilus, Thramas ve sayısız cephede liderlik etti; Guilliman'ın dönüşünden sonra onun en güvenilir sahalarından
+Marneus Augustus Calgar, Ultramarines'in mevcut Chapter Master'ı, Greater Ultramar'ın Lord Savunucusu ve Ultramar Diyarı'nın başkenti Macragge'ın Lord'udur — galaksinin Doğu Hattı'ndaki en güçlü figür. Chapter'ın en ünlü lideri olarak 'Macragge'ın Efendisi' unvanını taşır; Tyranni

@@ -14,7 +14,7 @@ Termagant'lar, canlı silah organlarıyla uzaktan ateş eden, sürüler hâlinde
 
 ## Tarihçe
 
-Tyranid istilalarının hemen her kaydında karşılaşılan bu organizmalar, Hive Fleet'in savaş alanını doldurmak için harcadığı biyokütlenin temel birimidir. Tervigon gibi dev organizmaların savaş sırasında yeni Termagant'lar doğurabildiği anlatılır.
+Termagant (Gauntii virago), her Tyranid sürüsünün standart piyade birimidir; dört ayaklı bu küçük xenos savaşçı hız, çeviklik ve hayatta kalma ile tanımlanır. En çok Fleshborer biyomorfunu taşır — 'yutucu' olarak İmparatorluk tahkimatlarının üzerine sürüyle koşan bu figür, sayıyla savaşan canlı selin temel birimidir.
 
 ## Teknik / Biyolojik Özellikler
 

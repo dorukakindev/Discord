@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/63/Black_Staff_of_Ahriman.png/revision/latest/scale-to-width-down/758?cb=20131016082559
 
+## Tarihçe
+
+Ahriman (Ahzek Ahriman), Thousand Sons lejyonunun Daemon Primarch Magnus the Red'den sonraki en güçlü Chaos Sorcerer'ıdır; eski Baş Kütüphaneci ve birinci kaptandı. Lejyonunun 'et değişimi' lanetine çare olarak Rubric of Ahriman'ı yaptı — ama büyü onu kurtarmadı, kardeşlerini yaşayan zırhlı otomat-kül adamlara çevirdi. Bu felaket onu Magnus tarafından sürgün edilmeye mahkûm etti ve o zamandan beri hem lejyonu kurtarmak hem de Tzeentch'in gerçek doğasını anlayıp gücünü ele geçirmek için galaksiyi gezer. 'Sürgün büyücü' olarak 10.000 yıldır hem Chaos'un hem İmparatorluk'un en tehlikeli bilgi avcısıdır.
+
 https://static.wikia.nocookie.net/warhammer40k/images/6/63/Black_Staff_of_Ahriman.png/revision/latest?cb=20131016082559
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

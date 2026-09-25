@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Iron-Father_Autek_Mor
 
 ## Tarihçe
 
-Autek Mor, Iron Hands'ın en acımasız Iron Father'ıdır; Medusa'nın 'Morragul' klanının efendisi olarak düşmanlarına hiçbir merhamet göstermeyen figür.
+Autek Mor — 'Sakatlanmış' ve 'Kanla-Dövülmüş' — Büyük Sefer ve Heresy'de Iron Hands'ın rezil Morragul Klanı'nın hem Iron Lord'u hem Iron Father'ıydı. Korkutucu görünümü ve acı ruhuyla bilinen bu figür, Klan Bölüğü'nü demir yumrukla yönetti. Primarch Ferrus Manus'la ilişkisi karmaşıktı ama chapter'ın 'et ve demir' felsefesinin en katı uygulayıcısı olarak Morragul'un karanlık efendisi oldu.
 
 -# Kaynaklar: *Fandom wiki*

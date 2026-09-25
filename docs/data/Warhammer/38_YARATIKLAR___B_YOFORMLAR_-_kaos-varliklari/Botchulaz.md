@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7b/The_Great_Unclean_One
 
 ## Tarihçe
 
-Botchulaz, Eldar tarafından Aerius hive dünyasındaki 'Kara Piramit' psişik yapısına hapsedilen Great Unclean One'dır; anahtarı olan Talisman of Lykos'un parçası Space Wolves'un Fenris'inde bulundu.
+Botchulaz, Nurgle'un Great Unclean One'ıdır; Eldar'lar tarafından İmparatorluk Hive World'ü Aerius'taki psişik yapı Kara Piramit içine hapsedildi. Hapishanesinin anahtarı üç parçaya bölünmüş 'Talisman of Lykos' artefaktıydı — parçalardan biri bulunup 'uyuyan canavar' tekrar uyanma tehdidi yarattı. 'Hapsedilmiş veba efendisi' olarak İmparatorluk'un en tehlikeli tutuklularından biridir.
 
 -# Kaynaklar: *Fandom wiki*

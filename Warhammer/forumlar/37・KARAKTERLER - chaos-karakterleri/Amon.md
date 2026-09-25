@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/40/Magister_Amon.jpg/rev
 
 ## Tarihçe
 
-Amon, Thousand Sons'ın deneyimli Fellowship kaptanıydı; Magnus'un en güvendiği subaylardan biri olarak Prospero'nun yakılmasında savaştı ve lejyonun Sortiarius'a sürgününe katıldı.
+Amon, Thousand Sons'ın 9. Bursu'nun kaptanıydı — ama daha önemlisi, Büyük Sefer'de Prospero'ya varmadan önce Primarch Magnus the Red'in öğretmeniydi. Corvidae Kültü'nün magister templi'si ve 'Anahtarların Muhafızı' olarak lejyonun en kıdemli figürlerindendi; 'primarch'ın hocası' olarak en karanlık sırlara erişimi vardı ve Prospero'nun düşüşünde merkezi rol oynadı.
 
 -# Kaynaklar: *Fandom wiki*

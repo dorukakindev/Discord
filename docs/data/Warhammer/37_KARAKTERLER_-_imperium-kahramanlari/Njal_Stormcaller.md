@@ -16,6 +16,4 @@ Njal'ın ünü, Fenris Sistemi Kuşatması sırasında Magnus'un oğullarına ka
 
 ## Tarihçe
 
-Space Wolves'un baş Rune Priest'i; Fenris'in göklerini ve ruhlarını çağıran yaşlı kurt. Russ'ın kaderini gördüğü söylenir — Chapter'ın en derin kehanetlerini taşıyandır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Njal Stormcaller — 'Yürüyen Fırtına' — Space Wolves'un en büyük Rune Priest'i (Kütüphaneci)dir; hem Astartes savaşçısı hem de formidabl psişik güç olarak rakipsizdir. Psyber-raven'i Nightwing eşliğinde savaşan bu figür, Fenris'in şamanik geleneğini — 'gökyüzünün sesi'ni — Space Marines'in en güçlü psişik kullanıcıların

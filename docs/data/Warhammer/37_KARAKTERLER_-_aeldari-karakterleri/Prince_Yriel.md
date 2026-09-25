@@ -16,7 +16,7 @@ Iyanden'in sürgün prensi Yriel, parlak bir filo komutanı olarak kazandığı 
 
 ## Tarihçe
 
-Kaynakların anlatımına göre Iyanden filosunun başında bir Chaos filosuna karşı büyük bir zafer kazanan Yriel, bu sırada Craftworld'ü savunmasız bıraktığı için yönetici çevrelerle çatışıp sürgüne gitti ve Eldritch Raiders adlı korsan filosunu kurdu. Hive Fleet Kraken Iyanden'e saldırdığında filosuyla geri dönerek savunmanın kırılma anında belirleyici rol oynadı; bu savaşta Iyanden'in lanetli emaneti Spear of Twilight'ı kuşandı.
+Prince Yriel — House Ulthanash'ın Oğlu, Iyanden'in Yüksek Amiral'i ve Eldritch Raiders'ın efendisi — Iyanden'in parlak ama pervasız Autarch'ıdır. Saf Iyanden soylusu değildir; korsan olarak sürüldü ama Hive Fleet Kraken'ın saldırısında lanetli Spear of Twilight'ı çekip craftworld'ünü kurtardı — 'sürgünden dönen korsan-prens' olarak Iyanden'ın en tartışmalı kahramanı.
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Codex Supplement: Iyanden*
 

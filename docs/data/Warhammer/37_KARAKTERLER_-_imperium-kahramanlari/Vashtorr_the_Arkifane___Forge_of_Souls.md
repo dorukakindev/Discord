@@ -16,7 +16,7 @@ Warp'ta Forge of Souls adlı dökümhaneyi yöneten, daemon silahları ve Daemon
 
 ## Tarihçe
 
-Galaksiye dağılmış "Key" parçalarının peşine düşerek Abaddon'a bir ittifak önerdi; bu arayış *Arks of Omen* anlatısını belirledi. Dark Angels'a yönelik saldırısında Azrael'le çarpıştı, ancak Be'lakor'un müdahalesiyle karşılaştı.
+Vashtorr the Arkifane ('Ruhların Demircisi'), Forge of Souls'ın hükümdarı ve Chaos'un 'makinelerin efendisi'dir; daemonik varlığı silah ve savaş motoruyla kaynaştıran karanlık demirci. Her Daemon Engine'in arkasında onun imzası vardır; Era Indomitus'ta Abaddon'la 'Arks of Omen' projesinde ortaklık kurmuş, kendi kadim planının peşindeki figür.
 
 -# Kaynaklar: *Arks of Omen: Abaddon*; *Arks of Omen: Vashtorr*
 

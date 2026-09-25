@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cf/Sor_Talgron_M31.jpg/r
 
 ## Tarihçe
 
-Sor Talgron, Heresy döneminin ilk Dark Apostle'larından; Lorgar'ın 'sözcü' sınıfının prototipini oluşturan Word Bearer vaiz-komutan. Monarchia'nın yakılmasının intikamını Calth'ta alan, kelimeyle silahın aynı olduğu savaşçı-rahip.
+Sor Talgron — sonradan 'Warmonger' — Word Bearers'ın line savaşçısı olarak başlayıp lejyonun Chaos'a dönüşünün ardından Dark Apostle'ı oldu. XVII. Lejyon'un 'kılıçtan rahibe' dönüşen figürlerinden biri olarak Terra Kuşatması'nda daemonlarla yan yana savaştı — 'ilahinin askerden doğması'nın örneği.
 
 -# Kaynaklar: *Horus Heresy romanları — Know No Fear, Betrayer*

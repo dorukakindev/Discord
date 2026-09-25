@@ -16,7 +16,7 @@ Primaris Space Marine'lerin yaratıcısı ve Era Indomitus'un en etkili, en az g
 
 ## Tarihçe
 
-Guilliman'ın emanet ettiği Great Work'ü binyıllar boyunca gizlice yürüterek Primaris'leri yarattı. Cadia'nın son günlerinde pylon'ları yeniden uyandırmaya çalıştı; gezegen düşünce Greyfax ve Celestine'le birlikte kurtuldu. Guilliman'ın dirilişinde ve Indomitus Crusade'de merkezî rol oynadı.
+Belisarius Cawl, Adeptus Mechanicus'un on bin yaşındaki archmagos dominus'u — Mars rahiplerinin yönetici lordlarından. 13. Kara Sefer ve Terran Seferi'nde merkezi rol oynadı; Ynnari'yle birlikte Guilliman'ı diriltti ve Primaris Space Marines'in yaratıcısıdır — 'iki İmparatorluk'un mimarı' olarak Mechanicum'un en büyük yaşayan zihni.
 
 -# Kaynaklar: *Belisarius Cawl: The Great Work — Guy Haley*; *Gathering Storm I: Fall of Cadia*
 

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/89/XavierCalcazar.jpg/re
 
 ## Tarihçe
 
-Xavier Calcazar, Koronus Expanse'deki tüm Inquisition aktivitelerinin Ordo Xenos Lord'uydu; sektörün 'görünmez efendisi' olarak tüm Inquisitor'leri denetleyen figür.
+Xavier Calcazar, Ordo Xenos'un Inquisitor Lord'uydu; Koronus Expanse'deki tüm Inquisition faaliyetlerini Koronus Conclave başkanı olarak denetledi. Chaos ve xenos çürümesinin Expanse'de kök salmasını engellemek için House von Valancius'un Rogue Trader'ını görevlendiren kişidir — Rogue Trader evreninin 'arka plandaki patron'u olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*

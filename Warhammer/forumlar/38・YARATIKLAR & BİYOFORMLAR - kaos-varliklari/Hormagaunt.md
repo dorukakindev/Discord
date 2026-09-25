@@ -15,7 +15,7 @@ Güçlü arka bacaklarıyla sıçrayarak ilerleyen, önkollarındaki orak pençe
 
 ## Tarihçe
 
-Hormagaunt sürüleri Tyranid istilalarının açılış hamlelerinde, siperleri ve mevzileri boğmak için kullanılır. Imperial askerlerin anlatılarında, ufuktan yaklaşan kitin ve pençe dalgası çoğu zaman bu organizmalardan oluşur.
+Hormagaunt, Hive Fleet'in en tehlikeli Tyranid yaratıklarından biridir — boyutu ya da vahşeti yüzünden değil, kontrolsüz çoğalması yüzünden. Bir gezegene saldırıldığında Mycetic Spore'larla ekilirler; hızla üreyip gezegende katliam sürüsü olarak koşarlar. 'Bitmeyen dalga' olarak piyade savaşının en yorucu düşmanıdır — bir Hormagaunt gördüyseniz binleri geliyordur.
 
 ## Teknik / Biyolojik Özellikler
 

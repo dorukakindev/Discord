@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/88/CarabCullntheRisen02.
 
 ## Tarihçe
 
-Carab Culln, Red Scorpions'un sert ve tavizsiz Chapter Master'ıdır; Badab Savaşı'nda sadık lejyonların komutanı olarak bilinir — İmparatorluk'un en korkulan 'kesin' komutanlarından.
+Carab Culln 'Yükselen', Red Scorpions'ın Relic Leviathan Dreadnought'u ve eski Lord High Commander'ıdır — chapter'ın en saygın figürüyken ölümcül yaralanıp kadim Dreadnought sarkofajına yerleştirildi. Badab Savaşı'nın sadık komutanlarından biri olarak 'yaşayan mezar' içinde bile savaşmaya devam eden figür, chapter'ın 'son söz' anlayışının simgesidir.
 
 -# Kaynaklar: *Fandom wiki*

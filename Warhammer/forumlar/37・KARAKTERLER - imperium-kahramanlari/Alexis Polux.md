@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d5/HH_IF_Cpt_Alexis_Polu
 
 ## Tarihçe
 
-Alexis Polux, Imperial Fists'in kaptanıydı; Isstvan V'te filosunu kaybedip devasa Phalanx'ı güvenli hale getirdi — sonradan bölüğün kaderini omuzlayan adam.
+Alexis Polux, Crimson Fists chapter'ının ilk Chapter Master'ı ve İkinci Founding öncesi Imperial Fists lejyonunun kahramanıydı. Büyük Sefer'de IF'nin 405. Bölüğü'nün kaptanı olarak hem büyüklüğe yükseltilen hem de büyük kederle lanetlenen benzersiz bir savaşçıydı — Phall Savaşı'nda Perturabo'nun Iron Warriors'ı karşısında hayatta kalan ve İkinci Founding'de yeni chapter'ın başına geçen figür. 'Yenilmezliğin mirasını' taşıyan son adam.
 
 -# Kaynaklar: *Fandom wiki*

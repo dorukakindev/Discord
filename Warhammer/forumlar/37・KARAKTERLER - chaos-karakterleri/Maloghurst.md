@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Maloghurst_With_Posse
 
 ## Tarihçe
 
-Maloghurst ('Bükülmüş'), Sons of Horus'un en kıdemli subayı ve Horus'un kişisel karargâhının sağ koluydu; Warmaster'ın emirlerini yayan 'ses'i ve lejyonun en sadık figürüydü — istihbarat ağlarının mimarı.
+Maloghurst 'Bükülmüş', XVI. Lejyon'un Veteran Astartes'iydi ve Warmaster Horus'un silahtarı (equerry)ydı — Luna Wolves'dan Sons of Horus'a geçişte primarch'ın en yakın danışmanlarından. Kurnazlığı ve entrika yeteneğiyle bilinen bu figür, Horus'un 'karanlık aklı' olarak Heresy'nin planlarında sessiz ama merkezi rol oynadı; 'Warmaster'ın gölgesi' olarak lejyonun en tehlikeli beyniydi.
 
 -# Kaynaklar: *Fandom wiki*

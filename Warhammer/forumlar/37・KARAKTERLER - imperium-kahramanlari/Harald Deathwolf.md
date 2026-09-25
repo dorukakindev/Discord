@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/28/Harald_Deathwolf%27s_
 
 ## Tarihçe
 
-Harald Deathwolf, Space Wolves'un Büyük Kurt'larından ve 'Deathwolf' Great Company'nin lideridir; Fenris'in en vahşi avcısı olarak bilinir.
+Harald Deathwolf, Space Wolves'un 'Deathwolves' Büyük Bölüğü'nün mevcut Wolf Lord'udur; dev Thunder Wolf'u Icetooth'un sırtında savaşa girer. Sembol olarak 'Ravening Jaw'ı (Kurtuluş Çenesi) taşır — Fenris mitolojisinde Wolftime'ı, yani her şeyin sonunu simgeler: ölülerin koruyucusu Morkai güneşi yuttuğunda sonsuz gece yıldızları örter. Uzun yıllardır Büyük Bölüğünü yöneten Deathwolf, chapter'ın 'son günlerin avcısı' olarak anılan en sert liderlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*

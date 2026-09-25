@@ -12,6 +12,6 @@ Yapay zihinsel geliştirme (muhtemelen Bone 'ead'lerin yaratımında kullanılan
 
 ## Tarihçe
 
-Ogryn Bone'ead'lerinin en büyüğü ve Catachan'ın maskotu; Colonel Greiss'e kişisel bodyguard'lık yapar. İnanılmaz güçlü ve inanılmaz sadık — 'Nork yapar' lafı Catachan'da bir deyimdir.
+Nork Deddog, kendi yaşamında efsane olan bir Ogryn'dir — Astra Militarum askeri olarak savaş yetenekleri, türdeşleri için 'erken gelişmiş' sayılabilecek zihinsel kıvraklığı kadar şaşırtıcıdır. Alışılmadık zekâsıyla komiserlerin dikkatini çekti ve komuta yakınına yerleştirildi; 'zeki Ogryn' olarak İmparatorluk ordusunun en sevilen figürlerinden biri — birçok üst rütbeli subayın hayatını gövdesiyle kurtaran sadık devdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

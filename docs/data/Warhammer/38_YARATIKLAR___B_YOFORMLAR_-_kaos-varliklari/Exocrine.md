@@ -15,7 +15,7 @@ https://wh40k.lexicanum.com/mediawiki/images/0/00/ExocrineArt.jpg
 
 ## Tarihçe
 
-Exocrine, Hive Mind'ın ağır piyadeye, zırhlı araçlara ve siperlenmiş hedeflere karşı geliştirdiği uzun menzilli ateş organizmalarından biri olarak anlatılır. Tyranid istilalarında düşman savunmasını dağıtıp sürülerin önünü açmakla görevlidir.
+Exocrine, Tyranid'in 'canlı topçu canavarı'dır — Bio-plasmic Cannon adlı organik silahı sırtında taşıyan dev biyoform. Bu devasa yaratık, biyoplazmik patlamalarıyla piyade ve tahkimatı eriten 'yürüyen batarya' olarak Hive Fleet'in uzun menzilli yıkım gücüdür; top mermisi değil canlı patlama atar.
 
 ## Teknik / Biyolojik Özellikler
 

@@ -16,7 +16,7 @@ Nurgle'ın habercisi ve salgının galaksideki en tanınmış yolcusu. Primarch'
 
 ## Tarihçe
 
-Horus Heresy'de Legion filosu Terra'ya ilerlerken Warp'ta durduğunda Typhon'un eylemleri filoyu çaresiz bıraktı; gemileri saran salgın Legion'ı Nurgle'ın kucağına itti. Typhon bu süreçte Destroyer Hive'ı bedeninde taşıyan Typhus'a dönüştü. Mortarion, kendisini bu duruma sürükleyen ihaneti hiçbir zaman unutmamış olarak betimlenir. 40K boyunca Typhus, amiral gemisi *Terminus Est* ile dünyadan dünyaya salgın taşıdı; Great Rift çağındaki Plague Wars'ta da Nurgle'ın saflarında yer aldı.
+Typhus — 'Gezgin', 'Nurgle'un Habercisi'; aslen Barbarus'lu Space Marine Calas Typhon — Death Guard'ın 1. Veba Bölüğü'nün Lord'u ve Destroyer Hive'ın taşıyıcısıdır. Lejyonunu Chaos'a sürükleyen iki figürden biridir (Erebus'la); 'vebanın elçisi' olarak Plague Fleet'iyle galaksiyi enfekte eden en büyük Nurgle figürü.
 
 -# Kaynaklar: *The Buried Dagger — James Swallow*; *Dark Imperium: Plague War — Guy Haley*; *Codex: Death Guard*
 

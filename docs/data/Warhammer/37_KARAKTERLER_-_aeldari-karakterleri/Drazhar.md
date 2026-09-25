@@ -16,7 +16,7 @@ Incubi'nin en ünlü savaşçısı Drazhar, yüzünü ve geçmişini kimseye gö
 
 ## Tarihçe
 
-Anlatılara göre Incubi'nin büyük tapınağına habersizce girip muhafızları yararak ilerlemiş ve tapınağın önderini teke tek dövüşte yenmiştir. Vect onu Yvraine'in peşine düşürdü; Psychic Awakening dönemi anlatısında Saim-Hann'a yapılan bir baskında Yvraine'i ölümün eşiğine getirdiği, ancak Jain Zar'ın araya girmesiyle durdurulduğu aktarılır.
+Drazhar — 'Kılıçların Efendisi' — Drukhari Incubi tarikatının en büyük Hierarch'ı ve Celladıdır; öldürücülüğün kişileşmesidir. Craftworld Aeldari ve Drukhari arasında onun bir zamanlar düşmüş Phoenix Lord Arhra olduğu sanılır — 'maskeli efsane' olarak Commorragh'ın en korkulan figürlerinden biridir ve Striking Scorpions'ın karanlık aynası.
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Psychic Awakening: Phoenix Rising*
 

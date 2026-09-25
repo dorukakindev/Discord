@@ -16,6 +16,6 @@ Kantor'un savaş tarzı 'dirençli kılıç' olarak tanımlanır: savunmadan hü
 
 ## Tarihçe
 
-Crimson Fists'in Chapter Master'ı; Rynn's World'de Chapter'ının yarısını kaybettikten sonra hayatta kalanları tek başına topladı ve Chapter'ı yok olmaktan çıkardı. İmparatorluk'un direnç sembollerinden biri.
+Pedro Kantor — 'Lord Helblade' — Crimson Fists'in 29. ve mevcut Chapter Master'ıdır; 900.M41'den beri yaklaşık bir yüzyıldır chapter'ı yönetir ve hizmeti 250 yıl daha geriye gider. İlk ününü chapter'ın neredeyse yok olduğu çatışmalarda kazandı — 'kalan son yumruk' olarak Rynn's World'ün trajedisinden chapter'ı yeniden inşa eden adam.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

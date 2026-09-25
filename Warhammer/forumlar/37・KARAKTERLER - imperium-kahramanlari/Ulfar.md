@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/02/UlfarSpaceWolf.jpg/re
 
 ## Tarihçe
 
-Ulfar, Space Wolves'un 'Lone Wolf'u ve Fenris yerlisi; Koronus Expanse'da House von Valancius Rogue Trader'ının ekibine katılarak uzaylı ufuklara karşı 'Fenris duvarı' oldu.
+Ulfar, Space Wolves chapter'ının 'Lone Wolf'uydu — sürüsünü kaybeden ve intikam için tek başına yaşayan Fenrisli savaşçı. Kaderin cilvesiyle Koronus Expanse'e sürüklenip House von Valancius'un Rogue Trader ekibine katıldı; insanlık-dışı ufuklarda bile Fenris savaş tarzını korudu. Space Wolves'un 'sürü kaybı' trajedisinin beden bulmuş hali olarak hem vahşi hem de derinden onurlu bir figürdür.
 
 -# Kaynaklar: *Fandom wiki*

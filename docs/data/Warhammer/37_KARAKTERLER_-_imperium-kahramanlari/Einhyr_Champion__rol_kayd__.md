@@ -16,7 +16,7 @@ Einhyr Champion, ağır zırhlı elit muhafızlardan oluşan Einhyr'in önde gel
 
 ## Tarihçe
 
-Einhyr, Kin ordularının seçkin katmanını oluşturur; Einhyr Champion bu katmanın en deneyimli temsilcileri arasından çıkar. Kaynaklar, Einhyr'in savaş alanında Hearthguard gibi ağır zırhlı birlikler hâlinde hareket ettiğini anlatır.
+Einhyr Champion, Leagues of Votann'ın seçkin Kin savaşçısıdır; bir Oathband'de bulunan tüm Einhyr Hearthguard oluşumlarına sık sık komuta eder. Zaten elit olan Einhyr'ların arasından seçilen bu şampiyonlar, 'kin'in en sert koruyucu-savaşçılarıdır — Mass Hammer, Autoch Pattern combi-bolter ve RAM kalkanıyla donanmış 'duvarın kendisi' figürü.
 
 -# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votann — 10th Edition*
 

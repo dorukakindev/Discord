@@ -18,6 +18,6 @@ Nurgle'ın baş sayıcısı; her vebayı, her ölümü, her irini kaydeden veba-
 
 ## Tarihçe
 
-Epidemius, Nurgle'ın en yüksek Tallyman'ıdır: önünde hiçbir ölüm, hiçbir veba, hiçbir ur sayılmadan geçemez. Savaş meydanında bile sedan tahtından defter tutar. Onun geldiği savaşlar asla küçük kalmaz — çünkü sayım büyüdükçe Nurgle'ın gücü de büyür ve bu, daha çok sayım demektir.
+Epidemius — 'Nurgle'un Saymanı' — Plague God'un güçlü Herald'ı ve daemonik lejyonlarının piyade efendilerinin yedisinden biridir. Nurgle'un birçok hastalığının gücünü kataloglama görevi ona düşer; 'salgının muhasebecisi' olarak tahtının üzerinde sayım yapan bu figür, çürümenin istatistiksel efendisidir.
 
 -# Kaynaklar: *Codex: Chaos Daemons*

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/51/Artellus_Numeon_color
 
 ## Tarihçe
 
-Artellus Numeon, Salamanders'ın Pyre Guard komutanıydı; Isstvan V'te Vulkan'ın bedenini taşıyan ve Nocturne'e götüren — 'Vulkan'ın hayatını kurtaran' efsane.
+Artellus Numeon, Terra doğumlu Astartes subayı olarak Salamanders lejyonunun elit 1. Bölüğü 'Firedrakes'in Birinci Kaptanıydı; Büyük Sefer ve Heresy boyunca görev yaptı. Aynı zamanda Primarch Vulkan'ın silahtarı (equerry) ve elit kişisel muhafızı Pyre Guard'ın komutanıydı. Trajik Isstvan V Drop Site Massacre'da Vulkan'ın düşüşünü gördü ve 'ateşten geçen sadık' olarak Heresy'nin en acı figürlerinden biri oldu — primarch'ına olan bağlılığı chapter efsanesinin kalbidir.
 
 -# Kaynaklar: *Fandom wiki*

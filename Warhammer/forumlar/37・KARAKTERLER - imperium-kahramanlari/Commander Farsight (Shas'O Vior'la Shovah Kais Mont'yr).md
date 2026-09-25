@@ -16,7 +16,7 @@ Farsight, Ethereal otoritesini reddedip Damocles Gulf'un ötesinde kendi dünyal
 
 ## Tarihçe
 
-Damocles Gulf Crusade'in ardından Gulf'un ötesine gönderilen seferde Ork'ları birbiri ardına yenerek Arthas Moloch'a ulaştı; orada seferdeki Ethereal'lerin tümü öldü ve Farsight, kökeni bilinmeyen Dawn Blade'le birlikte geri dönmeyi reddederek Enclaves'i kurdu. *Arks of Omen: Farsight*'ta Ork ve Chaos kuvvetlerine karşı ağır kayıplar verdi; bir Weirdboy'un kehanetinde Khorne'a düştüğü görüntüsüyle sarsılmış, Chaos'un çekimine iradesiyle direnmiştir.
+Commander Farsight — Shas'O Vior'la Shovah Kais Mont'yr, kısaca O'Shovah — 'Vior'la'nın Kahramanı', 'Puretide'ın Protejisi', 'Greenskin'lerin Belası'; Farsight Enclaves'in efendisi ve T'au İmparatorluğu'nun en ünlü 'asili'dir. Ethereal'siz özerkliğini ilan eden bu figür, Dawn Blade'iyle 'kendi Greater Good'unun' yolunu yürüyen en tartışmalı T'au komutanıdır.
 
 -# Kaynaklar: *Farsight: Crisis of Faith — Phil Kelly*; *Arks of Omen: Farsight*; *Codex: T'au Empire — 10th Edition*
 

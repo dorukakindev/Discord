@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/08/Mark_of_Tzeentch.jpg/
 
 ## Tarihçe
 
-Sar'tir, Screaming Vortex'in İç Halkası sınırındaki 'Cat's Cradle' bölgesinde bir gezegeni yöneten Lord of Change'dir; Calixis Sektörü kenarında Warp'a gömülü yarı-gerçeklik âleminin efendisidir.
+Sar'tir, Tzeentch'in Lord of Change'idir; Screaming Vortex'in İç Halkası'ndan sızan Warp akıntılarıyla okşanan Cat's Cradle bölgesinin en rezil gezegenlerinden birini yönetir. 'Değişim'in efendisi olarak bu Warp-sularındaki dünyada kendi karanlık krallığını kurmuş Greater Daemon'dur — Vortex'in korkulan güçlerinden.
 
 -# Kaynaklar: *Fandom wiki*

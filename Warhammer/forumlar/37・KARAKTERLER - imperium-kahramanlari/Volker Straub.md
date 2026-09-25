@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/50/Silver_Skulls_Icon.pn
 
 ## Tarihçe
 
-Volker Straub, Silver Skulls'un 'gelecek kahraman' olarak görülen en yetenekli aspirantıydı; Chapter'ın 'kaybedilen deha' efsanesi — erken düşmesiyle chapter mitolojisine gömülen figür.
+Volker Straub, Silver Skulls chapter'ının en yetenekli aspirantıydı; her alanda dâhi sayılıyordu ve chapter'ın gelecekteki kahramanı olması bekleniyordu. Ancak Progenoid Gland implantasyonundan hemen önce Chapter'ın Prognosticatum'u devreye girdi: Straub, 'Resurgent Projesi' adlı cüretkâr bir deneyin parçası seçildi. Vücudu, strike cruiser Dread Argent'in Makine Ruhu'yla bütünleştirildi — insan ve makinenin, Dreadnought'u andıran kusursuz bir kaynaşması. Böylece chapter'ın umudu olan 'Resurgent', yıldırım hızında tepki verebilen ve geminin Makine Ruhu'na aracısız emir iletebilen canlı-bir-sistem oldu. Deneyin uzun vadeli bedeli ve Straub'un sonraki kaderi chapter'ın en gizli kayıtları arasındadır.
 
 -# Kaynaklar: *Fandom wiki*

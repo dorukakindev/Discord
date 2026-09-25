@@ -16,7 +16,7 @@ Vespid, T'au Empire'a bağlı kanatlı, böceksi bir yardımcı türdür. Strain
 
 ## Tarihçe
 
-Kaynaklar Vespid'lerin T'au Empire'a katılımını, Water Caste'ın diplomatik girişimleriyle kurulan bir ilişki olarak aktarır. Imperium'un gözünde bu, xenos türlerinin T'au etrafında toplanmasının tedirgin edici bir örneğidir; T'au anlatısında ise Greater Good'un kapsayıcılığının kanıtıdır.
+Vespid Strain Leader, T'au İmparatorluğu'nun müttefik xenos türü Vespid'lerin — 'Stingwing'lerin — lider figürüdür; 'strain' (suş) komutanı olarak arı-benzeri uçan savaşçıların efendisidir. Neutron Blaster'larıyla donanmış bu birimlerin başı olarak T'au'nun 'uçan müttefik' gücünün kalbidir.
 
 -# Kaynaklar: *Codex: T'au Empire*
 

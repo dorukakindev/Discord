@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Menkhaz the Unmortal ('Hükmetmesi Emredilen'), Khenisi Hanedanı'nın reigning Phaeron'u; kısmen uyanmış dynasty'sinin başında İmparatorluk topraklarına yayılan Necron overlord.
+Menkhaz the Unmortal ('Hükmetmesi Emredilen'), Khenisi Hanedanı'nın Phaeron'uydu ve Necron Overlord olarak Mining World Morsus'ta, Revenant Stars'ta kısmen uyanmış dynasty'sinin başındaydı. Türdeşlerinin çoğu gibi milyonlarca yıllık Büyük Uyku'dan delirerek çıktı — ama başkaları Flayed One'a ya da nihilist Destroyer'a dönüşürken onun deliliği daha ince biçimde kendini gösterdi. Hükmedemeyişi hanedan içi ihaneti tetikledi ve Büyük Yarık'ın açılmasından kısa süre sonra Khenisi Hanedanı'nda iç savaş çıktı; bu çatışma, Mephiston'un — Blood Angels'ın Baş Kütüphanecisi'nin — elindeki son ölümü ve hanedanın tam yıkımıyla sonuçlandı.
 
 -# Kaynaklar: *Fandom wiki*

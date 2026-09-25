@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Frozen_Stars_Solitair
 
 ## Tarihçe
 
-Solitaire ('Yalnız'), Harlequins'in en gizemli ve ölümcül figürüdür; Slaanesh'i oynayabilen tek varlık olarak 'lanetli oyuncu' — performansı seyredeni bile delirten maske.
+Solitaire (Aeldari Lügati'nde 'Arebennian'), Harlequin'lerin en tuhaf ve en tehlikelisidir — 'kıyametin bedenlenmişi'. Sonsuz Dans'ta 'Susayan' (Slaanesh) rolünü oynayan tek figürdür ve bir kez bu yol seçildiğinde kimse onun elini durduramaz. Chaos bile ondan korkar; 'kadere mahkûm dansçı' olarak Harlequin'in en yalnız ve en lanetli figürüdür.
 
 -# Kaynaklar: *Harlequins Codex*

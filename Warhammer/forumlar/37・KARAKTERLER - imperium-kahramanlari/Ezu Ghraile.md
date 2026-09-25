@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/72/Ezu_Ghraile.png/revis
 
 ## Tarihçe
 
-Ezu Ghraile, Ordo Xenos Inquisitor'üdür; Jericho Reach'i tek sebeple ziyaret etti — Tyranid'ler. 'Hive Fleet' uzmanı olarak bilinen fanatik avcı.
+Ezu Ghraile, Ordo Xenos'un Inquisitor'üdür; onu Jericho Reach'e getiren tek şey Tyranid'lerdir. Tyranid'leri İmparatorluk'un bugünkü en büyük tekil tehdidi olarak görür ve fırsat buldukça bunu uzun uzun anlatır. Deathwatch'ın Erioch gözetleme kalesinde konumlanmıştır — amacı bölgedeki Ordo Xenos'un Chamber Militant'ını Tyranid tehdidine karşı daha fazla kaynak ayırmaya ikna etmek olan bu figür, 'tiranların en amansız izcisi' olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*

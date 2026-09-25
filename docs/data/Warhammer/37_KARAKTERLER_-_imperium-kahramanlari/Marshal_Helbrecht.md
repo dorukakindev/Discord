@@ -12,6 +12,6 @@ Helbrecht, İmparator'a olan inancı mutlak ve fanatik bir savaşçıdır; Black
 
 ## Tarihçe
 
-Black Templars'ın High Marshal'ı; Chapter'ın Haçlı yolunun yürüyen sembolü. Ghazghkull'un peşinde Armageddon'dan geçti; kaybetti ama asla durmadı — Black Templars'ın inat ruhunun adıdır.
+Marshal Helbrecht — 'Yüksek Mareşal' — Black Templars'ın mevcut High Marshal'ıdır; İmparatorluk'un en büyük haçlı komutanı olarak yüzlerce yıldır 'sonsuz seferi' yönetir. İmza silahı Sword of the High Marshals'la ve efsanevi 'Dorn'un bıçağı' geleneğiyle chapter'ın en önde gelen savaşçı-ruhani figürüdür; Ghazghkull ve büyük xenos tehditlere karşı seferler yürüten 'yaşayan haçlı' simgesi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

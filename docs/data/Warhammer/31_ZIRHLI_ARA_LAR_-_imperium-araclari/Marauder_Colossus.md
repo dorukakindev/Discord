@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Marauder10.png/revisi
 
 ## Tarihçe
 
-Marauder Colossus, Marauder Bomber'ın ağır-bombardıman varyantı; devasa bombalama kapasitesiyle 'uçan kale' niteliğinde stratejik platform.
+Marauder Colossus, Marauder Bomber'ın ağır-bombardıman varyantıdır; devasa bombalama kapasitesiyle 'uçan kale' niteliğinde stratejik yıkım platformudur. Tek seferde bölgesel bombardıman yapabilen bu araç, İmparatorluk'un 'toprak-şekillendirici' silahları arasında sayılır.
 
 -# Kaynaklar: *Fandom wiki*

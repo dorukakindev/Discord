@@ -15,7 +15,7 @@ Destroyer, bedenini yalnızca öldürmek için yeniden biçimlendirmiş Necron'd
 
 ## Tarihçe
 
-Havada süzülen ağır silahlı **Lokhust** Destroyer'lar, bedenlerini bıçak uzuvlarına dönüştüren **Skorpekh** Destroyer'lar ve yerin altından saldıran **Ophydian** Destroyer'lar farklı Destroyer biçimleri olarak anlatılır. Destroyer Lord'lar bu kültlere önderlik eder.
+Destroyer'lar, Necron'un 'yok edici' savaşçılarıdır — Destroyer Kültü'nün üyeleri olarak organik yaşamı galaksiden tamamen silmeye yeminli figürler. Kendilerini ağır silah platformlarına dönüştürmüş bu varlıklar, 'biyolojik hayata karşı cihat'ın askerleridir; 'yaşamın yeminli düşmanı' olarak Necron'un en nihilist yüzüdür.
 
 ## Kanon Notu
 

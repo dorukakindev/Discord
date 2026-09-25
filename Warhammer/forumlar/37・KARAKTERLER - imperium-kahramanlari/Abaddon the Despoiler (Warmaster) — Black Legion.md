@@ -16,7 +16,7 @@ Horus'un dağılmış Legion'ını Black Legion adıyla yeniden kuran ve on bin 
 
 ## Tarihçe
 
-Horus'un ölümünden sonra Legion'ın kalıntılarını Terra'dan çekti; Eye of Terror'daki Legion Wars ve sürgün döneminin ardından Horus klonunu öldürüp Black Legion'ı kurdu. Cadia'nın düşüşünü getiren 13th Black Crusade'in, ardından Vigilus seferinin başında durdu; *Arks of Omen* anlatısında Vashtorr'la tedirgin bir ittifaka girdi.
+Abaddon the Despoiler, Horus'un ölümü sonrası Black Legion'un Warmaster'ı ve İmparatorluk'un en büyük tehdididir; dört Chaos tanrısının kullarını 'İmparatorluğun yıkımı'nda birleştiren tek lider. Talon of Horus ve Drach'nyen'le 13 Kara Sefer'i yönetip Cadia'yı düşüren ve Büyük Yarık'ı açan figür — 'İmparatorluk'un kıyamet mimarı'.
 
 -# Kaynaklar: *The Talon of Horus — Aaron Dembski-Bowden*; *Gathering Storm I: Fall of Cadia*; *Arks of Omen: Abaddon*
 

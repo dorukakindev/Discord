@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Sororitas_Immolator.p
 
 ## Tarihçe
 
-Immolator, Adepta Sororitas Orders Militant'ın özel alev-tankı; Rhino türevi olarak 'kutsal ateş' taşıyan ve hem taşıma hem yakma görevi gören inançlı platform.
+Immolator, Adepta Sororitas Orders Militant'a özgü bir alev-silahlı tanktır; Rhino türevi olarak hem taşıma hem yakma görevi görür. 'Kutsal Ateş' silahlarıyla donatılan bu platform, Sisters of Battle'ın en ateşli sahnelerinde görülür — inancın 'temizleyici' yönünü temsil eden araç. Piyade taşırken aynı anda bunkerları ve kalabalıkları da alevle kavurabilir; 'dual-purpose' olarak Sororitas'ın en tanınmış araçlarından biridir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,6 +16,4 @@ Savaşta Soul Grinder, korkunç çok yönlülüğüyle tanınır: hem yakın mes
 
 ## Tarihçe
 
-Daemon'ın Chaos metaline bağlanmış hali; eski Daemon'ların beden makineleri. Forge of Souls'ta dövülür — silahları hem beden hem makinedir ve Warp'ta sürekli yeniden doğarlar.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Soul Grinder, Chaos'un devasa Daemon Engine'idir — daemon ile dev savaş makinesinin, karanlık kötülük ve kendi bastırılamaz yıkma arzusuyla beslenen diyabolik kaynaşması. Bazı Greater Daemon'ları bile boyut olarak sollayan bu zırhlı devler neredeyse durdurulamaz; 'metal devcanavar' olarak Forge of Souls'ın en ağır ürünlerinden biridir — pazarlık karşılığı ruhunu satan daemon

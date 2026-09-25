@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a7/Imp_Navy_icon2.jpg/re
 
 ## Tarihçe
 
-Erwin Ramas, Gothic War'da Gothic-class 'Drachenfels' kruvazörünün Flag-Captain'ıydı; Imperial Navy'nin ünlü savaş gemilerinin komutanlarından.
+Erwin Ramas, Gothic War'ın başlarında Imperial Navy'nin Gothic-class kruvazörü 'Drachenfels'in Flag-Captain'ıydı. 41. Binyıl'ın en büyük deniz savaşlarından birinde görev alan bu komutan, Abaddon'un Black Crusade'ine karşı İmparatorluk'un uzay gücünün ilk savunma hattındaki kaptanlardan biriydi. Gothic-class'ın 'patlama-silah' doktriniyle donanmış gemisiyle sektörün kritik çatışmalarında yer aldı.
 
 -# Kaynaklar: *Fandom wiki*

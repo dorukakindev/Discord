@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f5/KunradVoigtvir.jpg/re
 
 ## Tarihçe
 
-Kunrad Voigtvir von Valancius, Koronus Expanse'in en büyük üç Rogue Trader hanedanından birinin 'Fısıltıların Efendisi' (istihbarat şefi) ve hanedanın reddedilmiş varisidir; entrika ve gölge savaşların ustası.
+Kunrad Voigtvir (tam adı Kunrad Voigtvir von Valancius), Koronus Expanse'ın üç büyük hanedanından House von Valancius'un 'Fısıltıların Efendisi'ydi ve Lord Captain Theodora'nın varisi sayılıyordu — ta ki gözden düşene dek. Entrikacı bu figür, 'görünmeyen hanedan varisi' olarak Rogue Trader evreninin politik gölgesindeki tehlikeli oyuncudur.
 
 -# Kaynaklar: *Fandom wiki*

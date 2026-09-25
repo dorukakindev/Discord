@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4c/Inquisitor_Jaq_Draco.
 
 ## Tarihçe
 
-Jaq Draco, Warhammer evreninin ilk önemli romanlarından (Ian Watson'ın Inquisitor serisi) baş kahramanıdır; Squat müttefikleri ve Grimm the Squat'la birlikte Chaos komplolarını çözen figür.
+Jaq Draco, 38. Binyıl sonu ile 39. Binyıl başında aktif olan Ordo Malleus'un gizli Inquisitor'üydü; Inquisition'un yüksek rütbeli üyelerini içeren 'Ordo Hydra' adlı yaygın komployu ortaya çıkardığı ve İmparator'un Kadim Düşünce'sine dair son derece hassas bilgilere ulaştığı söylenir. Yüzündeki gizemli Ordo Hydra dövmesiyle bilinen bu figür, 'kendi kurumunun sırrını çözen' efsanevi dedektif olarak Inquisition tarihinin en karanlık dosyasını taşır.
 
 -# Kaynaklar: *Fandom wiki*

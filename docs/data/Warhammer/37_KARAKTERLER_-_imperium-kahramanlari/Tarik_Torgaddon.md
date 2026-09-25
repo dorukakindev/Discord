@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/97/TarikTorgaddon.jpg/re
 
 ## Tarihçe
 
-Tarik Torgaddon, Luna Wolves'un 2. Bölük kaptanı ve Mournival üyesiydi; Loken'le birlikte Horus'un 'iç çember'indeydi. Isstvan III virüs-bombardımanında sadık kalanları son ana kadar savundu; ölümü 'Mournival'in en soylu kaybı' sayılır.
+Tarik Torgaddon, Luna Wolves (sonradan Sons of Horus) 2. Bölüğü'nün kaptanı ve Horus'un 'Mournival' danışma konseyinin dört üyesinden biriydi. Isstvan III'te çoğunluğu Chaos'a dönmüş olan lejyonuna karşı İmparator'a sadık kalan kahramanlardan biriydi. Sadakati ona eski dostu Horus Aximand'ın kılıcıyla ölüm getirdi — ama hikâyesi burada bitmedi: gen-seed'inden alınan örnekler daemon Tormageddon'a bağlandığında, Torgaddon'un bilinci Immaterium'da kısmen uyandı ve sonradan Garviel Loken'ın kaderinde kritik bir anlık yardım sağladı. 'İhanetin en soylu bedeli' olarak anılır.
 
 -# Kaynaklar: *Fandom wiki*

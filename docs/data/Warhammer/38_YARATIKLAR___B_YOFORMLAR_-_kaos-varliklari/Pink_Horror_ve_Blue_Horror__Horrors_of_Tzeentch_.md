@@ -15,12 +15,10 @@ Pink Horror'lar, uzun kolları ve ağız dolusu kahkahalarıyla dans eder gibi s
 
 ## Tarihçe
 
-Horror'lar, Tzeentch'in daemon ordularının en kalabalık unsuru olarak anlatılır ve Thousand Sons'ın sorcerer'larıyla birlikte savaşan kuvvetlerde de görülür.
+Tzeentch'in Horror'ları, Deği��im'in Lord'unun en bol daemonik kullarıdır. Pink Horror'lar sürekli değişen pembe et yığınları olarak kahkaha atarak savaşır ve büyü fırlatır; bir Pink Horror öldürüldüğünde iki küçük Blue Horror'a bölünür ve onlar da öldüğünde Brimstone Horror'lara dönüşür — 'kesilen parçadan yenisi doğan' canlı paradoks. Tzeentch ordularının piyade çekirdeğini oluşturur ve 'değişim hiç bitmez' ilkesinin canlı kanıtıdırlar.
 
 ## Teknik / Biyolojik Özellikler
 
-Warpflame'i büyü olarak kullanırlar. Blue Horror'lar da yok edildiğinde sonraki yayınlarda Brimstone Horror diye anılan, alevli ve küçük daemon çiftlerine dönüşür. Bu zincirleme dönüşüm, Tzeentch'in sonuçtan çok sürece değer verdiği anlayışının somut bir örneğidir. Tanrının kutsal sayısı dokuzdur.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Realm of Chaos: The Lost and the Damned*; *Codex: Thousand Sons — 10th Edition*
+Warpflame'i büyü olarak kullanırlar. Blue Horror'lar da yok edildiğinde sonraki yayınlarda Brimstone Horror diye anılan, alevli ve küçük daemon çiftlerine dönüşür. Bu zincirleme dönüşüm, Tzeentch'in sonuçtan çok sürece değer verdiği anlayışının somut bir örneğidir. Ta
 
 -# İlişkili kayıtlar: <#1551647728692633643>, <#1551654107058540595>, <#1551809231580307517>, <#1551809666454134928>

@@ -16,7 +16,7 @@ Grotsnik, Ghazghkull Thraka'nın kafatasını metal bir plakayla yeniden kurarak
 
 ## Tarihçe
 
-Urk'ta bir Imperial saldırısında başından ağır yaralanan Ghazghkull'u ameliyat edişi, Warboss'un sonradan Gork ve Mork'tan geldiğine inandığı vizyonların başlangıcı sayılır. Kaynaklara göre Grotsnik'in kendisi de bir Deff Dread'in kafatasını yarmasıyla ölümün eşiğinden dönmüş ve bu olaydan sonra deneyleri iyice tekinsizleşmiştir. O günden beri Ghazghkull'un yanında hem cerrah hem de savaşçı olarak yer alır.
+Mad Dok Grotsnik, Ork'un en rezil Painboy'udur — 'deli doktor' olarak ameliyatlarında hastalarını denek malzemesi olarak kullanan figür. Ghazghkull'un kafasını 'tamir eden' kişi olduğu söylenir; 'bıçağıyla yazan cerrah' olarak Ork tıbbının korkulan ama vazgeçilmez figürüdür.
 
 -# Kaynaklar: *Codex: Orks*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
 

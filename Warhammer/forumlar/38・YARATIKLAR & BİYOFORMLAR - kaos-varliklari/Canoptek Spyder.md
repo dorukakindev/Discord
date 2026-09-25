@@ -15,7 +15,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Canoptekspyder10.jpg/
 
 ## Tarihçe
 
-Necron'ların uyanış çağında Spyder'lar hem mezar dünyalarının yeniden faaliyete geçmesini sağlayan onarım işlerinde hem de savaş alanında, Scarab sürülerini besleyen ve yeniden dolduran destek birimleri olarak görülür.
+Canoptek Spyder, Necron'un devasa robotik yapılarıdır — devasa ağırlıklarını sofistike anti-gravitik motorlarla zahmetsizce taşıyan bakım ve muharebe makineleri. Yuvarlak kapşonlu gövdeleri, gerektiğinde Canoptek Scarab sürülerini üreten iç sistemleri barındırır — 'yaşayan fabrika' olarak Necron savaş alanlarının hem tamircisi hem eşlikçi ordusudur.
 
 ## Teknik / Biyolojik Özellikler
 

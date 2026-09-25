@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a1/VincentMorrow.webp/re
 
 ## Tarihçe
 
-Vincent Morrow, Armageddon Steel Legion'ın eski sergeant-major'ü ve Inquisitor Grendyl'in kıdemli Acolyte'ı; Atoma Prime operasyonunda 'saha disiplini'ni sağlayan figür.
+Vincent Morrow, Armageddon Steel Legion'un eski sergeant major'ı ve Inquisition'un kıdemli Acolyte'ıdır; şu anda Inquisitor Grendyl'in warband'inde yeni alınan Acolyte'lerin baş eğitmeni olarak görev yapıyor. Darktide'ın 'çavuş' figürü olarak saha deneyimini yeni nesil ajanlara aktaran köprü figürdür.
 
 -# Kaynaklar: *Fandom wiki*

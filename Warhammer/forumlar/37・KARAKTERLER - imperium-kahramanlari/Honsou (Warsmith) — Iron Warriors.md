@@ -16,7 +16,7 @@ Graham McNeill'in romanlarında aşağılanmışlıktan beslenen hırsıyla yük
 
 ## Tarihçe
 
-*Storm of Iron*'da Hydra Cordatus citadel'ine yönelik kuşatmada Warsmith'in yüzbaşılarından biri olarak yer aldı; rakipleri Forrix ve Kroeger'le süren çekişmeden sağ çıktı ve sonraki romanlarda Warsmith olarak Medrengard'daki kaleye hükmeden bir komutan hâline geldi. Ultramarines serisinde Medrengard'daki kalesinde Uriel Ventris'le karşılaştı; bu kişisel düşmanlık, sonraki romanlarda Honsou'nun Ultramar'a yönelttiği büyük akına kadar uzandı.
+Honsou, Iron Warriors'ın Warsmith'idir — kendi Grand Company'sinin kaptanı; 'yarı-ürey' soyu yüzünden ağır önyargıya rağmen Warsmith makamına ulaştı. Necrodermis'ten canlı metal koluyla ve Daemonculaba projesiyle bilinen bu figür, 'saf-soy elitizmine karşı çıkan' adam olarak IW'un en tehlikeli komutanlarından biridir.
 
 -# Kaynaklar: *Storm of Iron — Graham McNeill*; *Dead Sky Black Sun — Graham McNeill*; *The Chapter's Due — Graham McNeill*
 

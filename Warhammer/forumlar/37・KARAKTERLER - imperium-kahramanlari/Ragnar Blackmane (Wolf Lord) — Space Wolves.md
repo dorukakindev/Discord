@@ -16,7 +16,7 @@ Gözü kara, atılgan ve Blood Claws'un öfkesini hiç tam olarak bırakmamış 
 
 ## Tarihçe
 
-William King'in romanları gençliğini ve ilk seferlerini anlatır: Fenris'teki kabile hayatı, Blood Claw olarak ilk savaşları ve Thousand Sons'la ilk karşılaşmaları. *Grey Hunter* romanında Spear of Russ'ı kaybeder; bunun kefareti olarak *Wolfblade*'de Terra'daki Wolfblade'e gönderilir. Codex anlatısında ise genç yaşta liderliği üstlenip kendi Great Company'sinin başına geçer. Great Rift çağında Space Wolves'un Chaos'a ve Thousand Sons'a karşı savaşlarında öne çıkan komutanlardandır.
+Ragnar Blackmane — 'Kara Kurt' — Space Wolves'un Primaris subayı ve chapter tarihinin en genç Wolf Lord'udur; Blood Claw'dan hızla yükselen bu figür, Fenris'in yeni kuşağının en ünlü figürüdür. Primaris'e geçip ikinci hayatını yaşayan 'zamanın ötesindeki kurt' olarak bilinir.
 
 -# Kaynaklar: *Space Wolf — William King*; *Grey Hunter — William King*; *Codex: Space Wolves*
 

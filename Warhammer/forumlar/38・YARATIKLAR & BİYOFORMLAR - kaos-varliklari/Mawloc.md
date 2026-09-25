@@ -15,7 +15,7 @@ Toprağın altında yol alan, düşman mevzilerinin hemen altından yüzeye fır
 
 ## Tarihçe
 
-Mawloc'lar, tahkimatlara ve siperlere dayanan savunmalara karşı Hive Mind'ın başvurduğu pusu organizmaları olarak anlatılır. Bir saldırıdan sonra yeniden toprağa gömülüp başka bir noktadan çıkabildikleri için savunucuları sürekli tedirgin bir bekleyişe mahkûm ederler.
+Mawloc, Tyranid sürüsünün öncüsü olarak görev yapan dev, solucan benzeri organizmadır; düşman savunmalarını aşmak için yerin derinliklerinde tünel kazıp düşman hatlarının arkasından çıkar — ikmal hatlarını, komuta noktalarını ve topçu bataryalarını alt üst eder. 'Toprağın altındaki şok' olarak savunmanın kör noktasından gelen yaratık.
 
 ## Teknik / Biyolojik Özellikler
 

@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/70/WE_Venator_1.jpg/revi
 
 ## Tarihçe
 
-Sicaran Venator, Heresy öncesi Sicaran'ın tank-avcı varyantı; neutron laser taşıyan 'zırhlı katil' — modern chapter'larda nadir ama değerli.
+Sicaran Venator, Büyük Sefer'in sonuna doğru Legiones Astartes için özel olarak tasarlanmış tank-avcı varyantıdır. Standart Sicaran şasisinin hız ve koruma özelliklerini korurken 'Neutron Laser Projector' taşıyan bu silah, bilinen her zırhı delebilen parçacık huzmesiyle ünlüdür. Heresy öncesinde lejyonların en değerli avcı platformuydu; 41. Binyılda hâlâ kullanımda olup olmadığı belirsizdir — kalıntıları chapter cephaneliklerinin en kıymetli hazineleri arasındadır.
 
 -# Kaynaklar: *Fandom wiki*

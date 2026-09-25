@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a1/UltramarineBanner.png
 
 ## Tarihçe
 
-Lysimachus Cestus, Imperial Fists'in yüzbaşısıydı; Praxil Sistemi'nde görevliyken Iddinam'ın Emperor's Children'ına karşı direnişin önde gelen ismi — sadakatin bedelini ödeyen komutan.
+Lysimachus Cestus, Büyük Sefer'in sonunda ve Heresy başında Ultramarines'in 7. Bölüğü'nün kaptanı ve filo komutanıydı. Word Bearers'ın devasa savaş gemisi 'Furious Abyss'e karşı yürütülen kahramanca durdurma görevinde merkezi rol oynadı — Calth'a gelen ihanetin habercisi olan bu gemiyi engellemeye çalışan figür olarak 'Ultramar'ın gözcüsü' efsanesinde yerini aldı.
 
 -# Kaynaklar: *Fandom wiki*

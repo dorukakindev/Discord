@@ -16,7 +16,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/06/AOF_WEB_0_copy.jpg/re
 
 ## Tarihçe
 
-Kaynaklara göre Kairos, Well of Eternity'den sağ çıktı ama kanatları körelmiş, bedeni yaşlanmış ve başı ikiye bölünmüş hâlde. Bu dönüşümün ardından Tzeentch'in kâhini oldu. *Gathering Storm III: Rise of the Primarch* anlatısında Roboute Guilliman'ın Terra'ya giden filosu Maelstrom'a sürüklendiğinde Primarch'ın karşısına çıkıp onun fırtınada sonsuza dek dolaşacağını ilan etti. Kehanet tutmadı; Imperial kuvvetler Webway üzerinden kaçarak Luna'ya ulaştı.
+Kairos Fateweaver — 'Tzeentch'in Kahini' — iki başlı bir Lord of Change'dir; Tzeentch'e hizmet eden Lords of Change'in en güçlüsü olarak bilinen tüm gelecekleri görme yeteneğiyle kutsanmıştır. İki başı 'geçmişi bilen' ve 'geleceği bilen' olarak sürekli konuşur — 'yazgının ağzı' olarak Değişim'in en esrarengiz varlığıdır.
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Gathering Storm III: Rise of the Primarch*
 

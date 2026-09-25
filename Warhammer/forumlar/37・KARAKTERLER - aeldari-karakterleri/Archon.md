@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/71/Archon_Vraesque_Malid
 
 ## Tarihçe
 
-Archon, Drukhari kabal'larının efendisidir; Commorragh'ın en güçlü figürlerinden biri olarak intriques ve güçle hükmeden bu hükümdar, 'Karanlık Şehir'in kralı'.
+Archon, bir Drukhari Kabal'ının lideridir — Karanlık Şehir Commorragh'ın standart yağma gücünün merkezi ve ana politik birimi olan bu organizasyonun efendisidir. Kabal'ların Archon'ları Commorragh'ın gerçek lordlarıdır; Karanlık Şehir'i yöneten Drukhari hiyerarşisinin tepesinde otururlar. Asdrubael Vect (Kabal of the Black Heart) bunların en ünlüsüdür — komplo, suikast ve merhametsiz hırsın mutlak hükümdarları.
 
 -# Kaynaklar: *Drukhari Codex*

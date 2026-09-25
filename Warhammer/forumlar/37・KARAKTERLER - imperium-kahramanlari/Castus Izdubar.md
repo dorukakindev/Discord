@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Castus Izdubar, 32. yüzyıl sonu İmparatorluk Inquisition'ının Inquisitor Lord'uydu; Ephisian Conclave'ın Convenor'ı ve Cadian Marches'ın 'Watcher'ı — Cadia savunmasının tarihi denetçisi.
+Castus Izdubar, 32. Binyıl sonu ile 33. Binyıl başında İmparatorluk Inquisition'ının Inquisitor Lord'uydu; Ephisian Conclave'ın Convenor'ı ve 'Cadian Marches'in Gözcüsü' olarak Cadia Sektörü'ndeki Chaos sızıntılarından doğrudan sorumluydu. Aynı zamanda 'Athenaeum of Kalibron'ı koruyan gizli minör ordu Ordo Cyclopes'in üyesiydi — 'bilginin muhafızı' olarak erken Inquisition tarihinin figürlerinden.
 
 -# Kaynaklar: *Fandom wiki*

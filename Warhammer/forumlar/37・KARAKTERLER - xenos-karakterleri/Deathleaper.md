@@ -15,7 +15,7 @@ Deathleaper, avını öldürmekten çok onun zihnini parçalamayı hedefleyen bi
 
 ## Tarihçe
 
-Kaynaklarda en bilinen vaka, Missionary World St Caspalen'de yaşanır: Deathleaper nöbetçileri ve muhafızları tek tek avladıktan sonra on gün boyunca Cardinal Salem'in danışmanlarını onun gözü önünde öldürmüş, Cardinal'i öldürmeden paranoyaya ve deliliğe sürüklemiştir.
+Deathleaper, Hive Mind'ın Leviathan için yarattığı özel Lictor varyantıdır — 'nihai suikastçı'. Tam olarak kimi avladığı belirsizdir — hedefi bilinmeyen bu yaratık, Lictor türünün özel olarak suikast için geliştirilmiş halidir; 'karanlıkta bekleyen el' olarak Hive Fleet'in en kişisel ölüm aracıdır.
 
 ## Kanon Notu
 

@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3c/NekrosorAmmentar1.jpg
 
 ## Tarihçe
 
-Nekrosor Ammentar, Necronların en güçlü Destroyer Lord'larından; birçok Necron tarafından 'Destroyer Curse'ün ilk kurbanı ve kaynağı sayılır — nispeten 'tutarlı' olmasıyla diğer destroyer'lardan ayrılır.
+Nekrosor Ammentar, görece tutarlı ve aşırı güçlü bir Necron Destroyer Lord'dur; birçok Necron tarafından 'Destroyer Laneti'nin ilk kurbanı ve kaynağı sayılır. Bazıları onu tamamen mitolojik — C'tan'ın parçalanmasının suçluluk alegorisi — görse de Ammentar gayet gerçektir ve 'Kızıl Hasat' adını verdiği organik yaşamı galaksiden silme seferinde şaşırtıcı derecede berrak bir zihinle çalışır. Emrindeki 'Lanetli Lejyon' tamamen Destroyer Kültü'ne katılmış Necronlardan oluşur; tüm biyolojik yaşamın kökünü kazımayı hedefleyen en tehlikeli Necron figürlerindendir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,7 +16,7 @@ Phoenix Lord'ların ilki ve Dire Avengers Aspect'inin kurucusu. Asurmen, Fall'u 
 
 ## Tarihçe
 
-Fall'un ardından ilk Aspect Shrine'ı kurdu ve öğrencilerine savaş tanrısı Khaine'in farklı yönlerini öğretti; Jain Zar, Fuegan, Baharroth, Maugan Ra ve Arhra bu ilk öğrenciler arasında anılır. Öğrencileri kendi Aspect'lerinin atası oldu. Binyıllar boyunca Craftworld'lerin savaşlarında belirip kayboldu. Asuryani inancına göre Phoenix Lord'lar Rhana Dandra'da, Aeldari'nin son savaşında, yeniden birlikte savaşacaktır. Gav Thorpe'un romanı onun kökenine ve ilk shrine'ın kuruluşuna odaklanır.
+Asurmen — doğum adı Iliathin, 'Asuryan'ın Eli' — efsanevi Craftworld Aeldari Phoenix Lord'larının ilki ve en eskisidir; Aspect Warriors'ın kendisi bu kadim Exarch'lardan yaratılmıştır. Dire Avengers'ın kurucusu olarak 'tüm Phoenix'lerin babası' sayılır — Aeldari'nin savaş geleneğinin başlangıcı.
 
 -# Kaynaklar: *Asurmen: Hand of Asuryan — Gav Thorpe*; *Codex: Aeldari*
 

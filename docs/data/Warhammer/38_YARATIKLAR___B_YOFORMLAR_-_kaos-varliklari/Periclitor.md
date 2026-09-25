@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/86/Post-Heresy_Daemon_He
 
 ## Tarihçe
 
-Periclitor ('Yemin Bozan'), bir zamanlar Word Bearers'ın Chaos Lord'uydu ve Chaos Undivided'in Daemon Prince'i oldu; 'aşağılanan' ünvanını taşıyan nadir düşüş figürü.
+Periclitor ('Yemin Bozan'), Chaos Undivided'ın Daemon Prince'idir ve eski Word Bearers Chaos Lord'udur. Daemonluğa yükselişi 832.M33'teki Castile V Katliamı'yla başladı; sonraki zaferlerle tanrıların gözüne girdi. 'Kelime' lejyonunun en eski yükselenlerinden biri olarak WB tarihinin 'ilk meyvelerinden' sayılır.
 
 -# Kaynaklar: *Fandom wiki*

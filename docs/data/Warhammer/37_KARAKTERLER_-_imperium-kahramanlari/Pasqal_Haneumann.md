@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8b/PasqalHaneumann.jpg/r
 
 ## Tarihçe
 
-Pasqal Haneumann, Adeptus Mechanicus'un magos explorator'u ve House von Valancius Rogue Trader'ının amiral gemisinin enginseer prime'i; Makine Tanrısı'nın 'yıldız-kaşifi' rahiplerinden.
+Pasqal Haneumann, Adeptus Mechanicus'un magos explorator'ü ve House von Valancius Rogue Trader hanedanının amiral gemisinde 'enginseer prime' olarak görev yapan baş teknoloji rahibidir. Explorator filolarının bir parçası olarak Imperium dışındaki bilinmez yıldız sistemlerinin haritasını çıkarmak ve evrenin sırlarını çözmek için görevlendirilen binlerce savaş gemisi ve Ark Mechanicus'un yöneticileri arasındadır. Kayıp mentörünün izini sürmek için von Valancius'un ekibine katılmıştır; teknik öğretinin 'kaşif' kolunun saygın bir temsilcisidir.
 
 -# Kaynaklar: *Fandom wiki*

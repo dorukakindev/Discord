@@ -14,7 +14,7 @@ Vatoz ya da köpekbalığı gibi yassı gövdeleri, boynuz benzeri çıkıntıla
 
 ## Tarihçe
 
-Tzeentch'in daemon ordularında hızlı saldırı unsuru olarak görülürler. Kaynaklar, tanrının büyücü kullarının ve daemon'larının bindiği Disc of Tzeentch'lerin de bu türle akraba sayılan varlıklar olduğunu anlatır. Kimi anlatımlarda Screamer'lar Tzeentch'in Herald'larının Burning Chariot'larını çeker.
+Screamer ('Tzeentch'in Çığlığı', 'Gökyüzü-Köpekbalığı'), Değişim'in tanrısının daemonik canavarıdır — eski Terra'nın okyanuslarında yaşayan manta ve vatozları andıran uçan yaratık. Nasıl havada kaldığı bilinmez ama gökyüzünde süzülüp avına dalan bu figür, 'yüzen cehennem' olarak Tzeentch'in hava avcısıdır.
 
 ## Teknik / Biyolojik Özellikler
 

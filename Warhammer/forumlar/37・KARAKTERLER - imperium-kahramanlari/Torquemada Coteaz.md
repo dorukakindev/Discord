@@ -12,6 +12,6 @@ Coteaz'ın itibarı, sayısız büyük operasyona dayanır; Lorgamar İsyanları
 
 ## Tarihçe
 
-Ordo Malleus'un en ünlü Inquisitor'larından; daemon avcısı ve eski Inquisitor Covis'in öğrencisi. Daemonhost'larla çalışmasıyla tanınır ama kendini katı bir savaşçı olarak görür — formian-lord'unun gücünü tersine çevirmekle ünlü.
+Torquemada Coteaz, Ordo Malleus'un Puritan Inquisitor Lord'u ve güçlü psyker'dır; onlarca yıllık Chaos karşıtı eylemiyle korkulan Daemonhunter ünü kazandı ve 'Formosa Sektörü'nün Yüksek Koruyucusu' olarak tanınır. Psyber-eagle'ı eşliğinde çalışan bu figür, Inquisition'un en yetkili ve en fanatik daemon avcılarından biridir — 'kutsal paranoya'nın bedeni olarak her şüpheyi soruşturan adam.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

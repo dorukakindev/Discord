@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a0/Excoriators%27_Livery
 
 ## Tarihçe
 
-Zachariah Kersh, Excoriators chapter'ının Chapter Master'ı; eski 'Chapter Scourge'ı ve 5. Bölük corpus-captain'i. Zarit savaşı ve Cerberus savunmasıyla bilinir — 'affetmez' doktrininin kişileşmiş hali.
+Zachariah Kersh, Excoriators chapter'ının mevcut Chapter Master'ıdır; eski 'Chapter Scourge'ı ve 5. Bölük corpus-captain'i olarak bilinirdi. Chapter'ın sert 'affetmez' doktrininin en katı temsilcisi olarak Zarit Savaşı ve Cerberus savunması gibi efsanevi görevlerde yer aldı. Düzeltilemez kusur affını reddeden bu figür, Imperium'un 'intikamcı adalet' anlayışının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

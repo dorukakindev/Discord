@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fb/John_Grammaticus.jpg/
 
 ## Tarihçe
 
-John Grammaticus, İmparator'dan bile yaşlı ölümsüz insandır; esrarengiz 'Cabal' örgütünün insanlığı Chaos'a satma planının ajanıydı — Heresy'nin arka planındaki en karanlık figürlerden.
+John Grammaticus, gizemli xenos organizasyonu 'Cabal'ın insan ajanıydı; onlar tarafından genetik olarak 'Perpetual' — yeniden doğuş yapabilen ve fiilen ölümsüz bir varlık — hâline getirildi. İmparator ve birkaç seçkin figür gibi o da ölmez; Heresy boyunca Cabal'ın 'insanlığı kurtarmak için İmparatorluk'u yıkmak' planında çalışan bu adam, 'tarihin akışını gizlice yönlendiren' karanlık elin parçasıdır.
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/49/EC_Livery.png/revisio
 
 ## Tarihçe
 
-Iddinam, Emperor's Children'ın dikkate değer Lord Commander'ıydı; Büyük Haçlı Seferi'nde Praxil Sistemi'nin compliance'ını yöneten figür.
+Iddinam, Büyük Sefer ve Heresy dönemlerinde Emperor's Children lejyonunun ünlü Lord Commander'larından biriydi. En bilinen eylemi Praxil Sistemi'nin İmparatorluk Uyumu'na getirilmesi göreviydi — bu yeni keşfedilen sistemi Compliance'a getirmekle görevli büyük bir EC gücünün fiili komutanıydı. En iyi çabalarına rağmen sefer iyi başlamadı ve İmparatorluk güçleri arasında onun yönetimini sorgulayanlar çıktı; Praxil, EC'nin 'kusursuzluk' arayışının ilk tökezlemelerinden biri olarak kayıtlara geçti.
 
 -# Kaynaklar: *Fandom wiki*

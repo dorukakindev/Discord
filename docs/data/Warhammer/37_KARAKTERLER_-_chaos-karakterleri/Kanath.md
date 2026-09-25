@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/04/Sons_of_Malice_Livery
 
 ## Tarihçe
 
-Kanath, Sons of Malice Chaos Space Marines'in 'agitor' ünvanlı Chaos Lord'u; warband'in filosunu ve nefret dolu doktrinini yöneten figür.
+Kanath, Sons of Malice Chaos Space Marines'in 'agitor' ünvanlı Chaos Lord'udur; warband'ın filosunu ve 'saf nefret' doktrinini yöneten figür. Malal'ın nadir taraftarlarından biri olarak bilinir — 'hiçliğe yeminin' komutanı.
 
 -# Kaynaklar: *Fandom wiki*

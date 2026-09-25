@@ -12,6 +12,6 @@ Andros Launceddre'in Years of Madness (Çılgınlık Yılları) sırasındaki ö
 
 ## Tarihçe
 
-Adeptus Custodes'in şu anki Captain-General'ı — İmparator'un kişisel muhafızlarının komutanı ve High Lords'un üyesi. Lion's Gate Savaşı'nda Khorne'un daemon ordusunu saray kapılarında durduran oydu; doktrini 'sus, dinle, sonra öldür' olarak özetlenir.
+Trajann Valoris, Adeptus Custodes'in mevcut Chief Custodian'ı ve 17. Captain-General'ıdır — İmparator'un elit muhafızının başı ve belki de İmparatorluk'taki en ölümcül birey. Khorne'un güçlerine karşı İmparatorluk Sarayı'nın İkinci Terra Savaşı'ndaki savunmasında Custodes'i yöneten bu figür, 'on bin yıllık nöbetin' en üst komutanıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

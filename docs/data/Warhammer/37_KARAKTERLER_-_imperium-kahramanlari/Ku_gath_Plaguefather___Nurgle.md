@@ -16,7 +16,7 @@ Kusursuz salgını yaratma takıntısıyla anılan bir Great Unclean One. Üzeri
 
 ## Tarihçe
 
-Codex anlatılarında, aradığı mükemmel hastalığa ulaşmak için dünyaları deneme alanına çeviren bir daemon olarak anılır. Great Rift çağında Mortarion'un Ultramar'a yönelttiği Plague Wars'ta yer aldı; Guy Haley'nin Dark Imperium üçlemesi, Mortarion'la Ku'gath'ın Guilliman'a karşı ölümcül bir salgına başvurduğu doruk noktasını ayrıntılı işler.
+Ku'gath Plaguefather ('Veba Babası'), Nurgle'un en büyük Great Unclean One'larından biridir — 'salgının baba figürü' olarak bilinen bu dev daemon, yeni hastalıkları 'yavruları' gibi besleyen figürdür. Nursery'sinde yeni veba türleri yaratan bu figür, 'hastalığın mucidi' olarak Nurgle'un en verimli hizmetkârıdır.
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Plague War — Guy Haley*; *Godblight — Guy Haley*
 

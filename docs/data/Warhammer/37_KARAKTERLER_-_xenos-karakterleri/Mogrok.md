@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Big_Mek_Mogrok.png/re
 
 ## Tarihçe
 
-Mogrok ('Mangler'), Split-Grin Bad Moons'un efsanevi Big Mek'idir; Goff Warlord Grukk Face-rippa'yı tek dünyayı değil yıldızları fethetmeye ikna eden adam — sonradan Red Waaagh'ın lideri oldu.
+Mogrok 'Ezici', Bad Moons'un Split-Grin kabilesinin kötü şöhretli Big Mek'idir; Goff Warlord'u Grukk Face-rippa'yı tek gezegen fethetmenin ötesine bakmaya ve Kızıl WAAAGH!'ını yıldızlara taşımaya ilk ikna eden kişi oydu. Grukk'un ölümünden sonra WAAAGH!'ın liderliğini devraldı — 'beyinli Ork' olarak teknolojik hırsı savaş hırsıyla birleştiren nadir figür.
 
 -# Kaynaklar: *Fandom wiki*

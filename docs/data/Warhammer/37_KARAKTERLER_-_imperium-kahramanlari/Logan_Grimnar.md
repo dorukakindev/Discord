@@ -16,4 +16,4 @@ Grimnar'ın efsanesi 'Months of Shame'de perçinlendi: Armageddon'un sağ kalanl
 
 ## Tarihçe
 
-Space Wolves'un iki yüzyılı aşkın süredir Great Wolf'u; Fenris'in soğuk savası ve İmparatorluk'un en kendi halinde Lord'u. Administratum'la bile kavga etmekten çekinmez — First War of Armageddon'da sivilleri kurtarmak için Inquisition'a karşı geldi. Bugün hâlâ
+Logan Grimnar, Space Wolves'un 'Büyük Kurdu' — Chapter Master'ıdır ve Era Indomitus'un en büyük Adeptus Astartes liderlerinden biri. Savaşkan ve dikbaşlı bu figür, Fenris'in 'Yaşlı Kurt'u olarak yüzyıllardır chapter'ı yönetir; 'İmparatorluk'un en özgür Astartes

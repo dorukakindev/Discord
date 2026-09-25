@@ -14,6 +14,4 @@ Savaşta Obliterator, 'yürüyen cephanelik' olarak çalışır: lascannon, plas
 
 ## Tarihçe
 
-Chaos Space Marine'in kendi bedeniyle silahını kaynaştırdığı teknoloji-büyü melezi; Obliterator virüsü taşıyan savaşçılar istedikleri silahı bedenlerinde yetiştirir. Ne tam insan ne tam makine — Chaos'un bükülmüş sanatıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Obliterator, eskiden genellikle Techmarine olan Chaos Space Marine'dir — 'technovirus' denen daemonik, Warp-güçlü virüsten etkilenip sadık İmparatorluk hizmetkârından Chaos'un kan-susayan mutant silahına dönüşmüş figür. İnsan, daemon ve makinenin canavar melezi olarak bedeni silah üretir — 'etten top' olarak Chaos'un en korkulan ağır silahlı figürlerinden

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Euphrati_KeelerSiege.
 
 ## Tarihçe
 
-Samus, Dawn of War'da anılan efsanevi daemon figürüdür; 'Samus. That's the only name you'll hear. Samus.' repliğiyle bilinen bu daemon, Blood Ravens'ın Tartarus kâbusunun adı.
+Samus, Chaos Undivided'ın daemon'udur — 'Samus burada' mesajıyla bilinen dehşet verici varlık olarak Horus Heresy'nin en ürkütücü figürlerinden biridir. 63-19 dünyasındaki ilk karşılaşmada bir ölümlüyü sahiplenip İmparatorluk güçlerini delirten bu varlık, Terra Kuşatması sırasında tekrar ortaya çıktı; 'etten giren fısıltı' olarak Enuncia korkusunun ve Warp'ın en kişisel biçimde sızan temsilcisidir.
 
 -# Kaynaklar: *Horus Heresy romanları*

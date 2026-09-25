@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/80/Biel-Tan_vs_Chaos.jpg
 
 ## Tarihçe
 
-Windrider (Jetbike Guardian), Aeldari jetbike'ına binen Guardian keşif-saldırı birimidir; çift shuriken catapult taşıyan bu hızlı süvariler düşmanı kovalayıp kesmekte ustadır. Savaş sonrası hayatta kalanların çoğu Path of the Warrior'a geçip daha uzman bir role girer.
+Windriders, Craftworld Aeldari'nin jetbike süvarileridir — hız ve çevikliğin Aspect'i olarak savaşan bu figürler, düşman kanatlarını dönüp hızlı darbeler indiren 'gökyüzü binicileri'dir. Jetbike'larıyla savaş alanında hayalet hızında hareket eden bu birim, Aeldari'nin 'yakalanamayan saldırı' doktrininin bedenidir.
 
 -# Kaynaklar: *Fandom wiki*

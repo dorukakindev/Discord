@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/84/KyrilSindermanBust.pn
 
 ## Tarihçe
 
-Kyril Sindermann, Büyük Haçlı Seferi'nin en ünlü 'Remembrancer'ıydı; Iteratör olarak savaşları belgeledi ve sonradan Malcador'un Inquisition'ının kurucu üyelerinden oldu — kayıt tutmanın savaş olduğu fikrinin babası.
+Kyril Sindermann, Büyük Sefer'de filizlenen İmparatorluk'un ünlü Iterator'ıydı — söylev ve hitabet ustası olarak galakside geniş ün sahibi. Heresy'nin trajik olaylarının ardından İmparatorluk'un 'hatırlatıcı' figürlerinden biri oldu; 'mantığın sesi' olarak dinin çöküşünden İmparatorluk felsefesinin doğumuna geçişte entelektüel köprü rolü oynadı.
 
 -# Kaynaklar: *Fandom wiki*

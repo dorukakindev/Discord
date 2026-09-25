@@ -16,7 +16,7 @@ Bir avuç büyüklüğündeki bu yeşilimsi, şişkin ve yaramaz yaratıklar, Gr
 
 ## Tarihçe
 
-Nurgle'ın daemon ordularının yanında her yerde görülürler; Death Guard'ın salgın gemilerinde ve istila ettiği dünyalarda koşuşturur, efendilerinin ayak işlerini görür, bazen onların şişkin bedenlerinde dinlenirler. Kaynaklar onları Nurgle'ın çocukça, oyunbaz neşesinin somut ifadesi olarak betimler.
+Nurgling'ler, Nurgle'un minik Lesser Daemon'larıdır — büyük daemonların irin ve çürük etinden doğan 'neşeli veba yavruları'. Sürü halinde savaşırlar ve Plague God'un en bol, en yaramaz hizmetkârlarıdır; 'küçük çürüme' olarak her yerde bulunan bu yaratıklar, Greater Unclean One'ların omuzlarında bile gezer.
 
 -# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Death Guard — 10th Edition*
 

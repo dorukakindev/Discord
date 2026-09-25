@@ -12,6 +12,6 @@ Salamanders'ın primarch'ı Vulkan, gizemli bir biçimde ortadan kaybolmadan ön
 
 ## Tarihçe
 
-Salamanders'ın Forgefather'ı; görevi Chapter'ın dokuz relic'ini (Vulkan'ın dövdüğü eserler) bulmaktır. Yüzyıllardır galakside kayıp artefaktları arar — buldukları Salamanders'ın en kutsal emanetleri olur. Kesmeyen bile tek başına bir ordu sayılır.
+Vulkan He'stan, Salamanders'ın mevcut Forgefather'ıdır — chapter'ın emaneti Spear of Vulkan, Gauntlet of the Forge ve drake-derisi Kesare's Mantle'ı taşır. Chapter'ın umudu ona yaslanmıştır: Vulkan'ın kayıp Artefakt'larını bulma görevini üstlenen bu figür, 'son Forgefather' olarak chapter'ın manevi misyonunu sırtlayan adam.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

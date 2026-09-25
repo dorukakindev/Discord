@@ -16,7 +16,7 @@ Craftworld hayatının katı düzeninden uzaklaşıp Path of the Outcast'e sapm�
 
 ## Tarihçe
 
-Alaitoc'un katılığı pek çok genç Aeldari'yi craftworld'den uzaklaştırmış; bunların bir kısmı, craftworld'e yaklaşan tehditleri uzaktan izleyen Ranger'lar olmuştur. Illic Nightspear bu geleneğin en tanınmış figürüdür: Hidden Path olarak anılan gizli yollarda dolaşıp düşmanın izini sürer ve tehlike anında craftworld'ün savaşlarına katılır.
+Illic Nightspear, Alaitoc'un efsanevi Ranger'ıdır; binlerce yıldır Outcast Yolu'nda yürüyen bu figür 'Yıldızların Gözcüsü', 'Yol Döşeyici', 'Alaitoc'un Kalkanı' unvanlarını taşır. Webway'i o kadar iyi bilir ki herhangi bir gezegene görünmeden varabilir — 'yürüyen efsane' olarak Ranger kültürünün zirvesi.
 
 -# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
 

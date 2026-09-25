@@ -16,7 +16,7 @@ Blood Angels'ın Chief Librarian'ı. Black Rage'e teslim olmak yerine onu yenere
 
 ## Tarihçe
 
-Second War for Armageddon'da Hades Hive'da çöken bir yapının enkazı altında kalan Calistarius, Black Rage'le boğuşup Mephiston adıyla çıktı; o andan sonra kendini eski kimliğinden kopmuş sayar. Chief Librarian olarak Chapter'ın psişik ve ruhsal muhafızlığını üstlendi. Great Rift çağında Rubicon Primaris'ten geçenlerin en tanınmışları arasında yer aldı; bir Chapter'ın en değerli psyker'larından birinin bu riski göze alması, Primaris dönüşümünün ne kadar ciddiye alındığını gösterdi.
+Mephiston — asıl adı Calistarius, 'Ölümün Lordu' — Blood Angels'ın Librarius'unun Efendisi ve Baş Kütüphanecisidir. Kara Öfke'yi yenip hayatta kalan tek Blood Angels figürü olarak Hades Hive'ın enkazında 'ikinci kez doğdu'; chapter'ın psişik tepesidir — 'laneti fetheden' efsane.
 
 -# Kaynaklar: *Mephiston: Blood of Sanguinius — Darius Hinks*; *Codex Supplement: Blood Angels — 10th Edition*
 

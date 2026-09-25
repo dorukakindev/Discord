@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Ka'jagga'nath the Unbound, 'Kan Dalgası'nın Efendisi' olarak bilinen Bloodthirster'dır; Van Horne dünyasının halkına 'Bloodtide' denen öldürücü daemonik enfeksiyonu salmıştır.
+Ka'jagga'nath the Unbound — 'Bloodtide'ın Lordu' — Khorne'un Bloodthirster'ıdır; İmparatorluk dünyası Van Horne'un halkına ölümcül bir daemonik enfeksiyon saldı. Bu güçlü Daemon Lord hakkında bilinen tek şey 'Bloodtide' denen büyük yozlaştırıcı dalgayı çağırabilmesidir — kurbanları kana bulanıp Khorne'a adayan veba benzeri kızıl dalga.
 
 -# Kaynaklar: *Fandom wiki*

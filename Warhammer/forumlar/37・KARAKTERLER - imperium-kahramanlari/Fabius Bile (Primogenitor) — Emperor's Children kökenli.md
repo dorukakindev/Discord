@@ -16,7 +16,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/re
 
 ## Tarihçe
 
-Heresy döneminde Legion'ının bedenlerini "iyileştiren" deneylere öncülük etti. Legion Wars sırasında Emperor's Children Horus'un bedenini ele geçirince Warmaster'ı klonlayarak yeni bir lider yaratma işi ona düştü; bu klon Abaddon tarafından öldürüldü. Sonraki binyıllarda "New Men" adını verdiği yaratıklarını üreterek kendi projesini sürdürdü. Josh Reynolds'ın romanları onun Primogenitor ve Clonelord kimliklerini işler.
+Fabius Bile — 'Klon Lordu', 'Primogenitor', 'Et Yüzen', 'Örümcek' — Chaos Space Marine Apothecary'si ve Chaos Lord'u; aslen Emperor's Children'ın Baş Apothecary'siydi. 'İnsanlığı mükemmelleştirme' takıntısıyla klonlar, mutantlar ve 'Yeni İnsanlar' yaratan bu figür, sayısız Chaos gücünün karanlık tedarikçisidir — 'canavar yaratan doktor' olarak galaksinin en tehlikeli zihinlerinden.
 
 -# Kaynaklar: *Fabius Bile: Primogenitor — Josh Reynolds*; *Fabius Bile: Clonelord — Josh Reynolds*; *Codex: Chaos Space Marines*
 

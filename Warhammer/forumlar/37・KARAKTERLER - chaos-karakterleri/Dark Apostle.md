@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b7/DarkApostle2.jpg/revi
 
 ## Tarihçe
 
-Dark Apostle, Chaos Space Marine ordularının dini lideridir; özellikle Word Bearers lejyonundan doğan bu rütbe, Chaos'a tapınmanın vaizini ve saha komutanını birleştirir. Accursed Crozius taşır, daemon ritüelleri yönetir ve birliklerine Chaos'un kelamını vaaz eder — Chaplain'in karanlık aynasıdır.
+Dark Apostle, Heretic Astartes Chaplain'ı ve Word Bearers'ın fiili liderlerinden biridir — güç ve komutada sadece Primarch Lorgar'ın altındadır. Accursed Crozius'uyla Chaos Undivided'a hizmet eden bu figürler, 'karanlık ilahiyi söyleyen' rahip-savaşçılar olarak lejyonun manevi ve askeri yöneticileridir.
 
 -# Kaynaklar: *Fandom wiki*

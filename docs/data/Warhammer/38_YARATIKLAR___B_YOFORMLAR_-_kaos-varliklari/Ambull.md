@@ -15,7 +15,7 @@ Ambull, kayayı ve toprağı dev pençeleriyle yararak yeraltında ilerleyen, ir
 
 ## Tarihçe
 
-Imperial kolonistlerin ve madencilik topluluklarının en korkulan yerel tehditlerinden biri olarak anılır. Warhammer 40,000'in ilk bestiary'lerinde yer alan bu yaratık, sonraki yıllarda oyun yan ürünlerinde de yeniden karşımıza çıkmıştır.
+Ambull, böcek benzeri zırhlı kabuğu ve demir-sert pençeleri olan, kabaca insansı dev xenos yaratığıdır; kambur duruşu gerçek boyunu gizler ama tam ayağa kalktığında pençeleri havada dört metreye ulaşır. Yeraltında tünel kazıp yaşayan bu avcı, madencilik kolonilerinin ve kovan şehirlerinin kabusudur — 'yakanın altındaki dev' olarak İmparatorluk dünyalarında korkulan figür.
 
 ## Teknik / Biyolojik Özellikler
 

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/08/Mark_of_Tzeentch.jpg/
 
 ## Tarihçe
 
-Ghargatuloth, 'Bin Yüzlü Prens', 'Cehennemlerin Dövücüsü', 'Karanlıkta Fısıldayan' gibi sayısız isimle anılan Tzeentch'in Lord of Change'lerindendir; gerçek gücü bilginin kendisidir — onun adıyla sayısız vahşet işlenmiştir.
+Ghargatuloth, Tzeentch'in Greater Daemon'ıdır; maddi âlemde sayısız isimle bilinir — 'Bin Yüzlü Prens', 'Cehennemlerin Döşeyicisi', 'Karanlıkta Fısıldayan', 'Son Avın Tanrısı', 'Yetmiş Yedinci Maske'. Adına sayısız vahşet işlendi çünkü bu varlık 'saf entrika'nın bedenidir — planın kendisi için plan yapan, İmparatorluk tarihinin en sinsi daemonik komplocusu.
 
 -# Kaynaklar: *Fandom wiki*

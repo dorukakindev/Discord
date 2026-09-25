@@ -19,6 +19,10 @@ Ama Zahndrekh'in trajik ve tuhaf bir sırrı vardır: Büyük Uyku sırasında z
 
 Bu yanılsama, ona Necron'lar arasında benzersiz, neredeyse şövalyece bir tavır kazandırır; tutsaklarına soylu bir onurla davranır. White Scars Av Üstadı Kor'sarro Khan'ı Cano'var'da esir aldığında ona saygıyla davrandı; tuhaf bir ziyafette (yemekler önlerine konup el sürülmeden duran) Khan, bir düzine asil tutsaktan yalnızca biri olduğunu öğrendi. Khan, Eldar Illic Nightspear ile kaçmaya kalktığında Obyron onları yakaladı, ama Zahndrekh cesaretlerinden etkilenip ikisini de serbest bıraktı.
 
+## Tarihçe
+
+Nemesor Zahndrekh, Sautekh Hanedanı'nın efsanevi nemesor'u (general) ve en büyük askeri dehasıdır — trajik biçimde Great Sleep'ten hasarlı çıkmış, kendini hâlâ organik bir Necrontyr asilzadesi sanan
+
 Nemesor Zahndrekh, ölümsüzlüğün bir lanet de olabileceğinin trajikomik ve dokunaklı bir örneğidir; dahi bir komutan, ama gerçeklikten kopmuş, kaybettiği insanlığına hâlâ inatla tutunan bir hayalet. Onun şövalyece "centilmenliği", aslında çürümüş bir zihnin yarattığı bir yanılsamadır; geçmiş bir çağın onurunu, ruhsuz bir metal bedende sürdürmeye çalışan, hem komik hem hüzünlü kadim bir generalin somut halidir.
 
 ## Kayda Geçen İşler

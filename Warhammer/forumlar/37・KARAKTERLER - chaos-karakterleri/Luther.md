@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/af/Luther_Coverart_Lesze
 
 ## Tarihçe
 
-Luther, Lion El'Jonson'un en yakın müttefiki ve Caliban'ın efendisiydi; Heresy sırasında Chaos'a yenik düşüp Caliban'daki Dark Angels'a karşı savaş açtı — gezegenin yıkımı ve The Fallen'in doğmasının sorumlusu, The Rock'ın derinliklerinde hâlâ canlı tutulur.
+Luther — 'Baş-Hain', 'Caliban'ın Efendisi' — eski Dark Angels'ın ikinci en üst rütbeli subayıydı; kibir ve kıskançlıkla Büyük Sefer sırasında Chaos'a düştü ve Fallen'ların — İmparator'a ihanet eden DA'lerin — lideri oldu. Lion El'Jonson'la Caliban'ın yok oluşunda son düellosunu yapan bu figür, chapter'ın 'orijinal günahı' olarak İç Halka'nın en karanlık sırrıdır.
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/GW_The_Blue_Scribes.j
 
 ## Tarihçe
 
-Blue Scribes (P'tarix ve Xirat'p), Tzeentch'in iki ebedi yazıcı-daemon'ıdır; evrenin büyü bilgisini toplamak ve kaydetmek için sürülürler. P'tarix çaldığı büyüleri okur, Xirat'p rastgele karaladığı sayfaları saçar — ikisi birlikte dünyayı bir büyü ansiklopedisi haline getirmekle görevli sonsuz bir görevdedir.
+Blue Scribes — 'Gök Mavisi Arcanolog'lar', 'Gezgin Büyücü-Kin'ler', 'Tzeentch'in Sorgucuları' — Büyük Değişim'in yarattığı iki Blue Horror: P'tarix ve Xirat'p. Disc of Tzeentch üzerinde gezerek bilinen her büyüyü kaydedip kopyalayan bu ikili, 'gölgeleri takip eden arşivci' olarak tanrının büyü hırsızlarıdır.
 
 -# Kaynaklar: *Fandom wiki*

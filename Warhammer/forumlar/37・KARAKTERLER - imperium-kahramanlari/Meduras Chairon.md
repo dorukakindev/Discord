@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Chairon1.jpg/revision
 
 ## Tarihçe
 
-Meduras Chairon, Ultramarines 2. Bölük'ün Primaris savaşçısıydı; Recidious Seferi'nde Teğmen Demetrian Titus'un komutasında görev aldı (Space Marine II).
+Meduras Chairon, Ultramarines 2. Bölüğü'nün Primaris savaşçısıydı; Dördüncü Tyrannic Savaşı'nın Recidious Seferi'nde Teğmen Demetrian Titus komutasında görev aldı. Space Marine II'nin 'güvenilir yoldaş' figürü olarak chapter'ın yeni kuşağının ön saflarında yer aldı.
 
 -# Kaynaklar: *Fandom wiki*

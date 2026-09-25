@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c5/AsterionMoloc3.jpg/re
 
 ## Tarihçe
 
-Asterion Moloc, Minotaurs Chapter'ın gizemli Chapter Master'ı ve High Lords of Terra'nın en sadık icracılarından biridir. Badab Savaşı'nda ayrılıkçı Chapter'ları yok etmekle görevlendirilen güçlerin öncüsüydü; Lamenters ve Executioners'a karşı acımasız kuşatmalar yönetti. Neredeyse hiçbir kayıtta yüzü veya geçmişi yoktur — Terra'nın 'sadık celladı' olarak anılır.
+Asterion Moloc — 'Minotaur'ların Efendisi', 'Daedelos Krata'nın Satrap'ı', 'Öfkenin Getiricisi', 'Pirinç Savaş Lordu', 'Hükmün Mizrağı' — Minotaurs chapter'ının mevcut Chapter Master'ıdır. High Lords of Terra'nın 'kişisel cellat'ı olarak bilinen bu acımasız figür, chapter'ın gizemli ve korkutucu doğasının bedenidir — 'İmparatorluk'un kendi içini de yargılayan' silah.
 
 -# Kaynaklar: *Fandom wiki*

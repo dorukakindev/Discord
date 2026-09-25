@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/15/Farseer.jpg/revision/
 
 ## Tarihçe
 
-Farseer, bir craftworld'ün en güçlü psyker'larıdır; rune'lar aracılığıyla geleceği okuyup halkının yolunu çizerler. Seer Council üyeleri olarak savaşta ordunun ön saflarında büyücü rehberliği yapar, düşman planlarını önceden görüp felaketleri önlerler. Uzun yaşamları boyunca giderek kristalleşen bedenleri, onları craftworld'ün Infinity Circuit'ine yaklaştırır.
+Farseer, Craftworld Aeldari'nin en güçlü ve en saygın psyker/Seer biçimidir; eskiden Warlock'tu ama Exarch'ların Savaş Yolu'nda kaybolması gibi Seer Yolu'nda sonsuza dek kayboldu. 'Geçmişi ve geleceği okuyan' bu figürler, craftworld'lerin kaderini yönlendiren en üst kehanet otoritesidir — Asuryani liderliğinin görünmeyen tepesi.
 
 -# Kaynaklar: *Fandom wiki*

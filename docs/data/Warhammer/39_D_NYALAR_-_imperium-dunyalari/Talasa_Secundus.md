@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/83/TalasaSystemEraIndomi
 
 ## Tarihçe
 
-Talasa Secundus, Ultramar Krallığı'nda Talasa Sistemi'nin en kalabalık Hive World'ü ve 'War World'üdür; Damocles Seferi'nin kritik savunma noktalarından — 'iki kez kuşatılmış' dayanıklı dünya.
+Talasa Secundus, Ultramar Krallığı'nın Talasa Sistemi'ndeki en kalabalık Hive World'ü ve 'Savaş Dünyası'dır — sivillerin silah eğitimi aldığı gezegen. 13. Kara Sefer sırasında Abaddon'un kuvvetleri buraya saldırdı; Era Indomitus'taki Veba Savaşları'nda bu kez Death Guard tarafından kuşatıldı ve Silver Templars ile Novamarines'in ortak harekâtıyla Nurgle'ın elinden kurtarıldı. İki büyük kuşatmayı atlatmış 'dayanıklı' Ultramar dünyası olarak bilinir; kaybı Ultramar'ın doğu kapısını açardı.
 
 -# Kaynaklar: *Fandom wiki*

@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/IvenRennick.webp/revi
 
 ## Tarihçe
 
-Iven Rannick, Ordo Hereticus'un 'interrogator'ü ve Inquisitor Grendyl'in en üst rütbeli Acolyte'ıdır; Grendyl'in warband'inin operasyonel beyni — Atoma Prime krizinin 'ikinci el' figürü.
+Iven Rannick, Ordo Hereticus'un interrogator'ü ve Inquisitor Grendyl'in güvenilir kıdemli Acolyte'ıdır; efendisi yokken Atoma Prime'daki tüm Inquisition operasyonlarının sorumlusudur. Grendyl'in ekibi ve Acolyte warband'inin en üst rütbeli üyesi olarak Darktide'ın 'saha komutanı' figürüdür — yeni gelenlere 'kuralları öğreten' sert yüz.
 
 -# Kaynaklar: *Fandom wiki*

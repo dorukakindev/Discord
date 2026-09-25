@@ -16,7 +16,7 @@ Cılız, körelmiş bir bedenin üzerinde şişkin bir kafatası taşıyan Zoant
 
 ## Tarihçe
 
-Zoanthrope'lar Tyranid istilalarında hem synapse düğümü hem ağır psişik destek olarak anlatılır. Zırhlı araçları ve siperlenmiş hedefleri psişik güç akışlarıyla yok edebilmeleri, onları Imperial savunmalar için tehlikeli kılar. Neurothrope adı verilen akraba organizma, Zoanthrope gruplarının içinde synapse ve psişik odak işlevi görür.
+Zoanthrope (Tyranicus animus-aborrens), Tyranid'in en tuhaf türlerinden biridir — toplanmış Aeldari DNA'sından mühendislenmiş gibi görünen güçlü psyker'lar olarak Hive Mind'ın odaklanmış gücünün yaşayan kanalını oluşturur. 'Yüzen beyin' olarak savaş alanına psişik patlama indiren bu varlık, Tyranid'in 'zihin silahı'dır.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

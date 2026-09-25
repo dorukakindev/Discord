@@ -16,7 +16,7 @@ Patriarch, bir Genestealer Cult'ın tepesindeki varlık ve kültün psişik merk
 
 ## Tarihçe
 
-Bir dünyaya ulaşan Genestealer, ilk kurbanlarını enfekte ederek kültün temelini atar; kuşaklar geçtikçe büyüyen ağın merkezinde Patriarch kalır. Bazı kültler Patriarch'ı dört kollu bir Emperor olarak tasvir eder; böylece kültün ibadeti dışarıdan sapkın ama tanıdık bir İmparator tapınması gibi görünebilir.
+Patriarch, Genestealer kültünün en eski ve en üst hibritidir — gezegene inen ilk safkan Genestealer'ın soyundan gelen ve kültü 'babalık' eden figür. Kültün hem dini hem biyolojik merkezi olarak 'ailenin babası' rolünü oynar; ona bağlı hibrit nesilleriyle Hive Mind'ın gezegendeki canlı tahtıdır.
 
 -# Kaynaklar: *Codex: Genestealer Cults — 10th Edition*; *Day of Ascension — Adrian Tchaikovsky*
 

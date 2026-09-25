@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/05/WS_Warlord_Shiban_Kha
 
 ## Tarihçe
 
-Shiban Khan, Büyük Sefer ve Heresy'de White Scars 'Brotherhood of the Storm'un Chogoris doğumlu khan'ıydı; lejyonun Terra'ya doğru kaçış yolculuğundaki komutanlardan.
+Shiban Khan, Büyük Sefer ve Heresy'de White Scars'ın 'Storm Kardeşliği'nin Chogoris doğumlu khan'ıydı (kaptan). Lejyonun Terra'ya doğru yaptığı efsanevi kaçış yolculuğundaki komutanlardan biri olarak bilinir; White Scars'ın 'gökyüzü sürüşü' doktrininin Heresy'deki uygulayıcılarındandı.
 
 -# Kaynaklar: *Fandom wiki*

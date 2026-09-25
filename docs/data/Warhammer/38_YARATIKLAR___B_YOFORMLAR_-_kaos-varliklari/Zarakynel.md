@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/90/Zarakynel2.jpg/revisi
 
 ## Tarihçe
 
-Zarakynel, Karanlık Prens'in Keeper of Secrets'larından biridir; kayıtlarda seyrek ama Slaanesh'in kadim hizmetkârlarından sayılır.
+Zarakynel — 'Azapların Getiricisi', 'Ruh Yiyen', 'Kutsalsız', 'Umutsuzluğun Meleği' — Slaanesh'in en saygın Keeper of Secrets'ıdır ve Aeldari'nin efsanevi düşmanıdır. Slaanesh'in bütün kutsuz kulları arasında Zarakynel'in adı diğer tüm Keeper'ların üstünde anılır; insan psişesinin en karanlık girintilerinden çağrılıp Slaanesh'in 'kusursuz hazırcısı' olarak daemonluğa layık görüldü. Fall'un doğuşunu hatırlatan bu figür, Aeldari için 'doğdukları günah'ın canlı bedenidir.
 
 -# Kaynaklar: *Fandom wiki*

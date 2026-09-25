@@ -15,7 +15,7 @@ Pullu kızıl derili, sırtı dikenli, kurt ile sürüngen arasında bir biçim 
 
 ## Tarihçe
 
-Khorne'un daemon ordularında öncü avcılar olarak görülürler. Tanrı büyücülüğü korkaklık saydığından Flesh Hound'lar özellikle psyker ve sorcerer avcılığıyla ilişkilendirilir. Adı bilinen üç başlı Karanak, "Hound of Vengeance" unvanıyla Khorne'u öfkelendirenlerin peşine düşen tazı olarak anlatılır.
+Flesh Hound ('Et Tazısı'), Khorne'un daemonik avcı köpeğidir — Blood God'un 'brass collar'larıyla donanmış bu yaratıklar, yakaladığı avın büyü direncini kıran ve kanını emen tasmalarıyla bilinir. Khorne'un 'koşan öfkesi' olarak psyker ve kaçan düşmanları avlayan en korkulan daemonik hayvanlardır.
 
 ## Teknik / Biyolojik Özellikler
 

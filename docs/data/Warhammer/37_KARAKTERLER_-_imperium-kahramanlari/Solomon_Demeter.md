@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/49/EC_Livery.png/revisio
 
 ## Tarihçe
 
-Solomon Demeter, Emperor's Children'ın sadık kalan yüzbaşısıydı; Isstvan III'te Tarvitz'le birlikte sadık unsurları savunan — Fulgrim'in lejyonunun düşüşüne direnen son figürlerden.
+Solomon Demeter, Büyük Sefer ve Heresy'de Emperor's Children'ın 2. Bölük kaptanıydı; lejyonunun yozlaşmasına karşı çıkan ve Isstvan III'te İmparator'a sadık kalan nadir EC figürlerinden biridir. Fulgrim'le son yüzleşmesinde düşüp ölen bu figür, 'kusursuzluğun reddedilen vicdanı' olarak lejyonun trajik kayıtlarındandır.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,7 +16,7 @@ Word Bearers'ın en eski ve en dogmatik figürü. Lorgar'ın inanç arayışın�
 
 ## Tarihçe
 
-Lorgar Legion'ının başına geçince Kor Phaeron da Legion'da yüksek bir konum aldı. Monarchia'nın cezalandırılmasının ardından Erebus'la birlikte Primarch'ı tapınılmayı kabul eden ve karşılığında güç veren tanrılara yönlendirdi. Heresy'de Calth'a yönelik ihanetin komutanıydı; *Know No Fear*'da anlatılan bu baskını Ultramar'ı hedef alan Shadow Crusade izledi. Uzun ömrü boyunca Master of the Faith unvanıyla Legion'ın teolojik otoritesi olarak anılır.
+Kor Phaeron, Word Bearers'ın birinci kaptanı ve Primarch Lorgar'ın manevi danışmanı ve üvey babasıydı — Heresy'nin mimarlarından biri. Colchis'te Lorgar'ı 'İmparator tanrıdır' inancından 'dört tanrı' inancına yönlendiren figür olarak 'chaos'un papazı' olarak Heresy'nin fikir babasıdır — Erebus'la birlikte ilk dönmeyi sağlayan adam.
 
 -# Kaynaklar: *The First Heretic — Aaron Dembski-Bowden*; *Know No Fear — Dan Abnett*
 

@@ -16,7 +16,7 @@ Parasite of Mortrex, kurbanlarının bedenine Ripper parazitleri yerleştirerek 
 
 ## Tarihçe
 
-Ultima Segmentum'daki Fortress World Mortrex, Tyranid istilasına karşı günlerce sağlam bir savunma sürdürmüştür. Parasite'ın saldırısıyla birlikte kurbanlardan doğan Ripper sürüleri savunucuları ve hatta zırhlı araçları boğmuş; dünya kısa süre içinde düşmüş, geride yalnızca tek bir tehlike sinyali kalmıştır.
+Parasite of Mortrex, Mortrex dünyasını istila eden ünlü Tyranid biyoformudur — Ripper varyantının gelişmiş hali olarak bilinen bu yaratık, kurbanına parazitik larva yerleştirip 'içinden doğan' dehşetin simgesi oldu. 'Mortrex'in zehri' olarak Hive Fleet'in en korkutan mutasyonlarından biridir.
 
 -# Kaynaklar: *Codex: Tyranids*
 

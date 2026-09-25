@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/43/LordDiscordantMiniDet
 
 ## Tarihçe
 
-Lord Discordant, daemon-makine binek üzerinde savaşan Chaos komutanıdır; genellikle Heldrake veya başka daemon-makinenin sırtında, Warpsmith kültünün saha lideri olarak hareket eder. Düşman araçlarını 'dinleyip' onların makine-ruhlarını bozan bu savaş lordları, Chaos ordusunun motorize zehiridir.
+Lord Discordant, makineler ve 'Daemon Engine' denen Warp-sahiplenilmiş yapılar üzerinde şeytani, arcane kontrol sağlayan Chaos Space Marine'dir; Helstalker bineğinin üzerinde savaşır. Warpsmith'e benzer ama daha karanlık bir ustalıkla, makineleri 'kıran efendi' olarak Daemon Engine sürülerinin öncüsüdür.
 
 -# Kaynaklar: *Fandom wiki*

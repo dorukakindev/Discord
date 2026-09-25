@@ -12,6 +12,6 @@ Tigurius'un yetenekleri olağanüstüdür; geleceği parçalar halinde görebili
 
 ## Tarihçe
 
-Ultramarines'ın Chief Librarian'ı; İmparatorluk'un en güçlü psyker'larından biri sayılır. Tyranid Hive Mind'a dokunup hayatta kalan nadir insanlardandır — temas onu günlerce komada bıraktı ama Hive Mind'ın zihnini ilk kez bir insan gördü.
+Varro Tigurius, Ultramarines'in Chief Librarian'ıdır — chapter'ın en güçlü psyker'ı. Psyker olarak her zaman savaş kardeşlerinden ayrı durur; bölük kaptanlarına bile bir sır figürüdür — bilgisi görevin ötesine geçer. 'Tyranid'leri ilk hisseden zihin' olarak Hive Fleet'lerin gelişini öngören ve chapter'ın psişik kalbi olan figür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

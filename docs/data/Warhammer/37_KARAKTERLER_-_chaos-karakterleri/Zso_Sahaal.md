@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4e/NL_Assault.jpg/revisi
 
 ## Tarihçe
 
-Zso Sahaal ('Talonmaster'), Night Lords'un Birinci Kaptanı ve 'Corona Nox' artefaktının varisi; Konrad Curze'nin ölümünden sonra lejyonun 'bölünmüş' mirasını taşıyan figür.
+Zso Sahaal ('Pena Ustası'), Horus Heresy sırasında ve sonrasında Night Lords lejyonunun Birinci Kaptanıydı ve 'Corona Nox' artefaktının varisiydi. Primarch Konrad Curze, Tsagualsa'daki suikastından hemen önce onu lejyonun liderliğinin halefi olarak atadı — ancak Sahaal, geleneğin gerektirdiği 'Gece'nin Tacı' artefaktına sahip değildi ve tam yetkiyi alamadı. Bu yüzden artefaktı geri almak ve lejyonunun Chaos'a düşüşünün gerçeğini öğrenmek için on bin yıllık bir sefere çıktı — 'tacsız kral' olarak Night Lords tarihinin en uzun arayışını yaşayan figür.
 
 -# Kaynaklar: *Fandom wiki*

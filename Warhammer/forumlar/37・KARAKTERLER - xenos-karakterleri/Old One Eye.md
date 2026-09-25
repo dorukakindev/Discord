@@ -16,7 +16,7 @@ Old One Eye, Ultramar'ın kayıtlarında yıllarca avlanan dev bir Carnifex'tir.
 
 ## Tarihçe
 
-Parçalanan Behemoth filosunun kalıntıları Ultramar'ın çevresinde uzun süre avlanmayı sürdürdü; Old One Eye efsanesi bu kalıntılara bağlanır. Kaynaklara göre Calth'ta uzun süre hareketsiz kalan organizma yeniden uyanıp kırsal bölgeleri kasıp kavurmuş, Ultramarines tarafından defalarca yere serilmesine rağmen yeniden ortaya çıkmıştır. Hive Mind'ın doğrudan synapse denetimi olmadan hayatta kalması, onu Tyranid organizmaları arasında ayrıksı bir örnek yapar.
+Old One Eye ('Tek Gözlü'), ölümcül yaralardan kendini iyileştirebilen eşsiz bir Tyranid Carnifex'idir; bedeni öldürmesi gereken birçok darbenin izini taşır ve İmparatorluk güçleri arasında onun 'öldürülüp öldürülüp geri döndüğü' söylenir. 'Ölümsüz Carnifex' olarak söylenti efsanesi olan bu figür, Hive Fleet'in 'geri dönen korku'sudur.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 

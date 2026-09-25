@@ -15,7 +15,7 @@ Terminator zırhı içinde, kalkanı ve çekiciyle kuşatma gediklerinin önünd
 
 ## Tarihçe
 
-Lysander, Iron Warriors'ın eline esir düşerek Malodrax dünyasında uzun bir tutsaklık ve işkence dönemi geçirdi. Sonunda kaçmayı başarınca Chapter'ına döndü ve Imperial Fists'i Malodrax'taki Iron Warriors kalesine karşı yöneterek intikamını aldı. Bu deneyim, zaten katı olan karakterini daha da sertleştirdi. Kuşatma savaşındaki ustalığı, Chapter'ın en zorlu gedik açma ve savunma görevlerinde başa geçmesini sağladı.
+Darnath Lysander, Imperial Fists'in 1. Bölüğü'nün birinci kaptanı, Zırhlı Birliğin Denetçisi ve chapter'ın hareketli kale-manastırı Phalanx'ın Watch Commander'ıdır. Malodrax'ta bin yıl esir kalıp işkenceyi yenip dönen figür olarak 'kırılmayan sur' efsanesinin bedenidir — chapter'ın en efsanevi figürlerinden.
 
 ## Kanon Notu
 

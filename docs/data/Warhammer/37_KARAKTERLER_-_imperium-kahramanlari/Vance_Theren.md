@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3e/Vance_Theren.png/revi
 
 ## Tarihçe
 
-Vance Theren, Achilus Seferi'nde görevli 'alışılmadık merhametli' Lord Commissar'dır; askerlerinin hayatını disipline değil itikada dayandıran nadir Inquisition figürü — 'adaleti merhametle dengeleyen' komiser.
+Vance Theren, İmparatorluğun Jericho Reach'i geri almak için düzenlediği Achilus Seferi'nde görevli bir Lord Commissar'dır. Commissar'ların çoğundan farklı olarak askerlerine karşı alışılmadık derecede merhametlidir; disiplini korku yerine itaat ve inanç üzerine kurar. Bu yumuşak ünü, Tetrarchus'un sert savaş makinesi içinde onu tartışmalı kılsa da, birliklerinin direncini artıran 'insan yaklaşımı'nın işe yaradığını kanıtlamıştır. Saha komutanları arasında 'ordunun vicdanı' olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*

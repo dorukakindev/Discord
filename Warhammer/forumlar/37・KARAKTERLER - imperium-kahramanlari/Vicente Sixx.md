@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/80/VincenteArt.jpg/revis
 
 ## Tarihçe
 
-Vicente Sixx, Raven Guard'ın yetenekli Thunderhawk pilotu ve çavuşuydu; Heresy sırasında çeşitli gizli operasyonlarda görev alan figür.
+Vicente Sixx, Drop Site Massacre'ın korkunç kayıplarının ardından XIX. Lejyon Raven Guard'ın kısa ömürlü primus medicae'si ve Baş Apothecary'si oldu. Çoğu standarda göre bir acemiydi — ama Corvus Corax'ın İmparator'dan aldığı teknolojik ve arcane bilgiyle 'Raptor Projesi'ni yürütmesi için yükseltilmesi zorunluluktandı. Bu proje bozulmuş gen-seed'le mutant savaşçılar üretti ve chapter'ın en karanlık sırrı oldu; Sixx'in kısa kariyeri, Raven Guard'ın hayatta kalma çabasının en tartışmalı bölümüdür.
 
 -# Kaynaklar: *Fandom wiki*

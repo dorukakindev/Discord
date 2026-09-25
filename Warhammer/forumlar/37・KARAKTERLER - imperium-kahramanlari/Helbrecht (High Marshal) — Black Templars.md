@@ -16,7 +16,7 @@ Black Templars'ın High Marshal'ı; Emperor'a tapınmayı savaşla bir tutan, d�
 
 ## Tarihçe
 
-Third War for Armageddon'da Chapter'ın büyük bölümünü getirip hem yüzeyde hem yörüngede Ork'lara karşı savaştı; Helsreach'teki Grimaldus direnişi bu savaşın en bilinen bölümüdür. Ghazghkull gezegeni terk edince Yarrick'le birlikte onun peşine düşen Crusade'i başlattı. Great Rift'in açılmasından sonra Roboute Guilliman ile kurulan temas Chapter'ın yeni döneme uyumunu belirledi; kaynaklara göre Helbrecht, Ecclesiarchy dünyalarına yardım için ulaşabildiği her yöne yeni Crusade'ler gönderdi.
+Helbrecht, Black Templars'ın mevcut High Marshal'ıdır (Chapter Master); aynı zamanda Adeptus Astartes'in en büyük deniz komutanıdır. 'Sonsuz haçlının' efendisi olarak Ghazghkull'a ve sayısız düşmana karşı seferler yürüten bu figür, 'uzayın savaşçı-rahibi' olarak chapter'ın en görünür figürüdür.
 
 -# Kaynaklar: *Helsreach — Aaron Dembski-Bowden*; *Codex Supplement: Black Templars*
 

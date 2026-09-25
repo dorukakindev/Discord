@@ -15,7 +15,7 @@ Küçük, metal böceklere benzeyen Scarab'lar, sürüler hâlinde hareket eder.
 
 ## Tarihçe
 
-Necron'ların Great Sleep boyunca Tomb World'lerini ayakta tutan Canoptek düzeninin en kalabalık unsurudur. Uyanış çağında Scarab sürüleri, hem hasar görmüş mezar komplekslerinin onarımında hem de Necron ordularının öncü dalgalarında görülür.
+Canoptek Scarab, Necron'un küçük, gümüş, böcek-benzeri robotik yapısıdır — Canoptek makine hizmetkârlarının en çok ve en çeşitli olanı. Organik ve inorganik maddeyi ham enerjiye ayırıp sonra onu yeni biçimlere örerler; sürüler halinde Astartes Dreadnought'ları bile yiyen bu 'metal böcek istilası', Tomb World'lerin en korkulan savunma hattıdır.
 
 ## Teknik / Biyolojik Özellikler
 
