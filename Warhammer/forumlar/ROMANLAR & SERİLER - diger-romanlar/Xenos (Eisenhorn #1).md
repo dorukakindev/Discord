@@ -13,4 +13,8 @@ Eisenhorn'un Pontius pilotundan Host'a, 'Magus' takibinden Eye of Terror arka pl
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Eisenhorn serisinin 1. kitabı; Inquisitor Gregor Eisenhorn'un Gudrun'daki ilk büyük vakası ve daemonhost'la ilk karşılaşması. 'Heretic'in peşindeki adam' destanının başlangıcı.
+
 -# Kaynaklar: Black Library

@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/df/BlightLauncherBlightl
 
 Death Guard'ın küçük çaplı veba bombası fırlatıcısı; her atış, isabet noktasında patlayıp Nurgle'ın hastalık sporlarını yayan bir küre gönderir.
 
+## Tarihçe
+
+Death Guard Blightlord ve Plague Marine'lerin ağır bomba atarı; Blight Grenade'leriyle daemonik patojenleri saçar. Nurgle'un biyolojik savaşının standart dağıtım aracı — atış değil, salgın.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

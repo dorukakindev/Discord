@@ -10,4 +10,9 @@ Basilisk topçu platformunun efsanevi uzun namlulu obüsü; kilometrelerce öted
 
 ## Teknik ve Kullanım
 Basilisk'in 132mm'lik topu — onlarca kilometre menzilli 'dolaylı ateş' ile İmparatorluk'un topçu gücünün simgesi. Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan, bakımı basit ve üretimi bol İmparatorluk ve düşman silahları; bolt veya enerji teknolojisi olmadan da cephede en çok iş yapan sınıftır.
+
+## Tarihçe
+
+Astra Militarum'un standart sahra topçusu; Basilisk'in kalbi. Uzun menzilli bombardımanın sesi — Guard cephesinin 'yağmur' dediği şey.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

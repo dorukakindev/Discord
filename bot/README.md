@@ -6,7 +6,7 @@ Arşiv sunucularını (Imperial / Trench / Black RPG / Film Archive) tek botla y
 
 | Komut | Kim | İşlev |
 |---|---|---|
-| `/ara <sorgu>` | herkes | 3.957 kayıtta Türkçe-normalize arama, Discord bağlantılı sonuç listesi |
+| `/ara <sorgu>` | herkes | Kayıtlarda Türkçe-normalize + fuzzy arama, Discord bağlantılı sonuç listesi |
 | `/rastgele` | herkes | Rastgele kayıt (içinde bulunulan sunucu öncelikli) |
 | `/istatistik` | herkes | Sunucu başına kayıt sayısı |
 | `/kayit-ekle` | `manage_messages` | Forum seç + modal ile başlık/metin → yeni kayıt postu |
@@ -65,6 +65,18 @@ DISCORD_TOKEN=... python3 build_index.py   # ~10 dk, data/index.json yazar
    ```
 
 Güncelleme: `cd /opt/lexicanum-repo && git pull && cp -r bot/. /opt/lexicanum/ && sudo systemctl restart lexicanum`
+
+## Canlı kurulum (Eylül 2026)
+
+- **VM**: `ubuntu@158.101.217.164` — Oracle Always Free, Amsterdam, Ubuntu 22.04 ARM
+  (VM.Standard.A1.Flex, 2 OCPU / 12 GB). Lexicanum'a ayrılmış makine; quiztavern ile
+  aynı VCN ama bağımsız.
+- **Kurulum**: `/opt/lexicanum` (`lexicanum` sistem kullanıcısı), `.env` (600),
+  `discord.py` sistem genelinde kurulu.
+- **Servis**: `lexicanum.service` (enabled, `Restart=always`) —
+  `journalctl -u lexicanum -f` ile izlenir.
+- **SSH**: Devin tarafında `~/.ssh/lexicanum-oracle` anahtarı `ubuntu`
+  kullanıcısına launch'ta eklendi.
 
 ## Güvenlik
 

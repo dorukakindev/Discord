@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/01/Heavy_Phosphor_Blaste
 
 Mechanicus'un fosfeks silahı; yakıcı fosfor yükü hem hedefi yakar hem de onu parlak bir işaretle damgalar, böylece müttefik atışları daha isabetli olur.
 
+## Tarihçe
+
+Adeptus Mechanicus Kataphron'larının fosfor silahı; hedefe yapışan ve yanan beyaz küreler fırlatır. Yanık öldürmese bile fosforlu parıltı hedefi işaretler — gece savaşındaki 'yanan adam' taktiğinin aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

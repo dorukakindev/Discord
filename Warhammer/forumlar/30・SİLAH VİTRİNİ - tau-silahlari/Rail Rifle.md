@@ -10,4 +10,9 @@ Elektromanyetik raylarla hipersonik hızda sert mermi fırlatan Tau keskin nişa
 
 ## Teknik ve Kullanım
 Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
+
+## Tarihçe
+
+Pathfinder'ların taşınabilir rail silahı; süpersonik mermi fırlatan keskin nişancı anti-zırh tüfeği. İmparatorluk Hellgun'undan çok daha güçlü — Greater Good'un 'sessiz ölüm' silahı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

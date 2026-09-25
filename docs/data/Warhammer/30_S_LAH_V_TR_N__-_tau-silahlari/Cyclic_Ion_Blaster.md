@@ -10,4 +10,9 @@ Crisis Battlesuit'lerin hızlı atışlı iyon silahı; art arda iyon patlamalar
 
 ## Teknik ve Kullanım
 Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
+
+## Tarihçe
+
+XV25 Stealthsuit ve battlesuit'lerin döner-namlulu ion silahı; üç namludan seri atış yapan T'au hafif desteği. Stealth timlerinin 'görünmez dakka' aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

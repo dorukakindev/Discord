@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Teslacarbine10.jpg/re
 
 Yaşayan yeşil yıldırım fırlatan Necron karabinası; ilk hedeften sonra çevredekilere sıçrayarak zincir hasar verir.
 
+## Tarihçe
+
+Necron Tesla silahının piyade karabinası; hedeften hedefe sıçrayan canlı şimşekler saçar. Immortals ve Warriors'ın orta-menzilli tercihi — bir atış bir manga.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

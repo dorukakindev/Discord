@@ -5,6 +5,10 @@
 
 Fire Dragon Exarch'ın gelişmiş füzyon silahı; standart fusion gun'dan daha uzun menzilli, tank eritme gücü daha da yüksek bir eritici. Exarch'ın ustalığı silaha akar.
 
+## Tarihçe
+
+Fire Dragon Exarch'ların melta mızrağı; Aeldari'nin termal ışın teknolojisi. Fusion Gun'un uzun namlulu versiyonu — Craftworld savaşçısının tank avı silahı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

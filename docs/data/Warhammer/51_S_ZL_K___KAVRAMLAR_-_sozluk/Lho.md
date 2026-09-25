@@ -9,6 +9,6 @@ Tütün benzeri yasal keyif maddesi; lho-stick olarak içilir. Astra Militarum s
 
 ## Tarihçe
 
-İmparatorluk'ta yaygın tütün-üçüncü madde; sigara benzeri keyif maddesi. Askerlerin ve sivillerin ortak bağımlılığı — savaşın kısa nefes alanı.
+İmparatorluk'un yaygın sigarası; hafif narkotik bitki özü içeren rulo tüp. Astra Militarum neferinin ve işçinin ortak tesellisi — cephedeki 'beş dakikalık barış'.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

@@ -10,4 +10,9 @@ Broadside Battlesuit'in ana silahı; Hammerhead railgun teknolojisinin taşınab
 
 ## Teknik ve Kullanım
 Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
+
+## Tarihçe
+
+T'au'nun ağır piyade rail silahı; Rail Rifle'ın daha uzun namlulu, daha güçlü abisi. Pathfinder ve cadre'in elit anti-zırhı — 'bir atış, bir delik' doktrininin büyük kardeşi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

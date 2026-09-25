@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/ba/SoulreaperCannonMini.
 
 Chaos Terminator'larının döner namlulu ağır bolt silahı; ele geçirilmiş STC tasarımlarına dayanan, kara lejyonların kurşun fırtınası. Sıradan bir Reaper'dan daha hızlı ve daha aç.
 
+## Tarihçe
+
+Thousand Sons'un Tzeentch-büyülü rotary topu; Assault Cannon benzeri ama mühimmatı büyüyle et ve seramidi eritecek şekilde güçlendirilmiş Inferno silahı. Sihrin makineli tüfek hali.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

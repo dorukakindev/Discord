@@ -10,4 +10,9 @@ Doom Scythe avcı uçağının altındaki ölümcül ışın; uçak alçaktan ge
 
 ## Teknik ve Kullanım
 Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+
+## Tarihçe
+
+Doom Scythe'ın ana silahı; uyarısız çakan viridian ölüm ışını. Motor sesinin içinde kaybolan vuruş — 'Death Ray' adını boşuna taşımaz, gören zaten duyamaz.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

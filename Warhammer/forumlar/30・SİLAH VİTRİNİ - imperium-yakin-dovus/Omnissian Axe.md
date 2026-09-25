@@ -10,4 +10,9 @@ Tech-Priest'lerin hem kutsal alet hem güç silahı olan baltası; Mekanik Tanr�
 
 ## Teknik ve Kullanım
 Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
+
+## Tarihçe
+
+Techmarine'in resmi silahı; Mechanicum ittifakının simgesi olan dev baltalı-boğumlu güç silahı. Hem savaş hem ritüel aracı — Omnissiah'a yeminin ve Chapter-Mars bağının metal halidir.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

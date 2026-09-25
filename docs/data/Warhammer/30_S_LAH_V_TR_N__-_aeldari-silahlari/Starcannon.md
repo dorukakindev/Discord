@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/43/Starcannon.png/revisi
 
 Eldar'ın gelişmiş plazma topu; süper ısıtılmış plazma akışı üretir ve İmparatorluk plazmasının aksine asla aşırı ısınmaz.
 
+## Tarihçe
+
+Aeldari'nin standart plazma silahı; nükleer füzyonla süper-ısıtılmış madde akışı. İmparatorluk plazmasından çok daha güvenli ve hassas — elektromanyetik güdümle yönlendirilen hızlı-ateş ölüm.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

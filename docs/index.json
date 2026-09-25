@@ -24068,14 +24068,122 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-yakin-dovus",
+"t": "Black Sword of Sigismund",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Black_Sword_of_Sigismund.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Teeth of Terra",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Teeth_of_Terra.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Black Blade of Antwyr",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Black_Blade_of_Antwyr.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Emperor's Sword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Emperor_s_Sword.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Nemesis Force Halberd",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Nemesis_Force_Halberd.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Force Staff",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Force_Staff.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Omnissian Axe",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Omnissian_Axe.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Axe Morkai",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Axe_Morkai.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Relic Blade",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Relic_Blade.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
 "t": "Spear of Telesto",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Spear_of_Telesto.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-yakin-dovus",
-"t": "Spear of Russ",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Spear_of_Russ.md"
+"t": "Lightning Claw",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Lightning_Claw.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Guardian Spear",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Guardian_Spear.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Crozius Arcanum",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Crozius_Arcanum.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Castellan Axe",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Castellan_Axe.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Chainfist",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Chainfist.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Eviscerator",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Eviscerator.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Hand of Dominion",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Hand_of_Dominion.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Power Sword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Power_Sword.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Spear of Vulkan",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Spear_of_Vulkan.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-yakin-dovus",
+"t": "Master-Crafted Chainsword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Master-Crafted_Chainsword.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24086,8 +24194,8 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-yakin-dovus",
-"t": "Master-Crafted Chainsword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Master-Crafted_Chainsword.md"
+"t": "Spear of Russ",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Spear_of_Russ.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24110,68 +24218,14 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-yakin-dovus",
-"t": "Spear of Vulkan",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Spear_of_Vulkan.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Power Sword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Power_Sword.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
 "t": "Power Fist",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Power_Fist.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-yakin-dovus",
-"t": "Hand of Dominion",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Hand_of_Dominion.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Eviscerator",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Eviscerator.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
 "t": "Chainsword",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Chainsword.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Chainfist",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Chainfist.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Castellan Axe",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Castellan_Axe.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Crozius Arcanum",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Crozius_Arcanum.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Guardian Spear",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Guardian_Spear.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Lightning Claw",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Lightning_Claw.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24308,48 +24362,6 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-yakin-dovus",
-"t": "Relic Blade",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Relic_Blade.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Axe Morkai",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Axe_Morkai.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Omnissian Axe",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Omnissian_Axe.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Force Staff",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Force_Staff.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Nemesis Force Halberd",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Nemesis_Force_Halberd.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Emperor's Sword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Emperor_s_Sword.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Black Blade of Antwyr",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Black_Blade_of_Antwyr.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
 "t": "Power Maul",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Power_Maul.md"
 },
@@ -24358,18 +24370,6 @@
 "f": "imperium-yakin-dovus",
 "t": "Forum Açıklaması & Kurallar",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Forum_A__klamas____Kurallar.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Teeth of Terra",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Teeth_of_Terra.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-yakin-dovus",
-"t": "Black Sword of Sigismund",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-yakin-dovus/Black_Sword_of_Sigismund.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24386,44 +24386,68 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Storm Bolter",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Storm_Bolter.md"
+"t": "Combi-Melta",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Combi-Melta.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Plasma Incinerator",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Plasma_Incinerator.md"
+"t": "Combi-Bolter",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Combi-Bolter.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Plasma Gun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Plasma_Gun.md"
+"t": "Astartes Bolt Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Astartes_Bolt_Rifle.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Plasma Caliver",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Plasma_Caliver.md"
+"t": "Stalker Bolt Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Stalker_Bolt_Rifle.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Meltagun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Meltagun.md"
+"t": "Hot-Shot Lasgun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Hot-Shot_Lasgun.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Melta Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Melta_Rifle.md"
+"t": "Volkite Caliver",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Volkite_Caliver.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Inferno Pistol",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Inferno_Pistol.md"
+"t": "Condemnor Boltgun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Condemnor_Boltgun.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Blessed Bolter",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Blessed_Bolter.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Grav-Gun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Grav-Gun.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Bolt Pistol",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Bolt_Pistol.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Hellgun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Hellgun.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24434,8 +24458,44 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-hafif-atesli",
-"t": "Hellgun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Hellgun.md"
+"t": "Inferno Pistol",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Inferno_Pistol.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Melta Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Melta_Rifle.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Plasma Caliver",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Plasma_Caliver.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Plasma Incinerator",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Plasma_Incinerator.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Storm Bolter",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Storm_Bolter.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Plasma Gun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Plasma_Gun.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-hafif-atesli",
+"t": "Meltagun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Meltagun.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24448,18 +24508,6 @@
 "f": "imperium-hafif-atesli",
 "t": "Bolter",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Bolter.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Bolt Pistol",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Bolt_Pistol.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Grav-Gun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Grav-Gun.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24505,111 +24553,39 @@
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Blessed Bolter",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Blessed_Bolter.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Condemnor Boltgun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Condemnor_Boltgun.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Volkite Caliver",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Volkite_Caliver.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Hot-Shot Lasgun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Hot-Shot_Lasgun.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Stalker Bolt Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Stalker_Bolt_Rifle.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Astartes Bolt Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Astartes_Bolt_Rifle.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Combi-Bolter",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Combi-Bolter.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-hafif-atesli",
-"t": "Combi-Melta",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-hafif-atesli/Combi-Melta.md"
+"f": "imperium-agir-silahlar",
+"t": "Macro Plasma Incinerator",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Macro_Plasma_Incinerator.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Transuranic Arquebus",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Transuranic_Arquebus.md"
+"t": "Vulcan Mega-Bolter",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Vulcan_Mega-Bolter.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Thermal Spear",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Thermal_Spear.md"
+"t": "Heavy Phosphor Blaster",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Phosphor_Blaster.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Plasma Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Plasma_Cannon.md"
+"t": "Volcano Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Volcano_Cannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Multi-Melta",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Multi-Melta.md"
+"t": "Torsion Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Torsion_Cannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Heavy Stubber",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Stubber.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Assault Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Assault_Cannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Autocannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Autocannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Battle Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Battle_Cannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Conversion Beamer",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Conversion_Beamer.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Demolisher Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Demolisher_Cannon.md"
+"t": "Heavy Flamer",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Flamer.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24620,14 +24596,68 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Heavy Bolter",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Bolter.md"
+"t": "Demolisher Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Demolisher_Cannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Heavy Flamer",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Flamer.md"
+"t": "Conversion Beamer",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Conversion_Beamer.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Autocannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Autocannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Assault Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Assault_Cannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Heavy Stubber",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Stubber.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Multi-Melta",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Multi-Melta.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Plasma Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Plasma_Cannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Thermal Spear",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Thermal_Spear.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Transuranic Arquebus",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Transuranic_Arquebus.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Battle Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Battle_Cannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-agir-silahlar",
+"t": "Heavy Bolter",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Bolter.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24640,24 +24670,6 @@
 "f": "imperium-agir-silahlar",
 "t": "Mortar",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Mortar.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Torsion Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Torsion_Cannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Volcano Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Volcano_Cannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Heavy Phosphor Blaster",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Heavy_Phosphor_Blaster.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24704,20 +24716,8 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-agir-silahlar",
-"t": "Vulcan Mega-Bolter",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Vulcan_Mega-Bolter.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
 "t": "Multi-Laser",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Multi-Laser.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-agir-silahlar",
-"t": "Macro Plasma Incinerator",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-agir-silahlar/Macro_Plasma_Incinerator.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24734,20 +24734,8 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-ozel-techizat",
-"t": "Exitus Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Exitus_Rifle.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-ozel-techizat",
-"t": "Phosphex Bomb",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Phosphex_Bomb.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "imperium-ozel-techizat",
-"t": "Psycannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Psycannon.md"
+"t": "Vortex Grenade",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Vortex_Grenade.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24758,8 +24746,20 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "imperium-ozel-techizat",
-"t": "Vortex Grenade",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Vortex_Grenade.md"
+"t": "Phosphex Bomb",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Phosphex_Bomb.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-ozel-techizat",
+"t": "Exitus Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Exitus_Rifle.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "imperium-ozel-techizat",
+"t": "Psycannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_imperium-ozel-techizat/Psycannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24806,44 +24806,38 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Drach'nyen",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Drach_nyen.md"
+"t": "Carapace of Magnus",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Carapace_of_Magnus.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Balesword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Balesword.md"
+"t": "Daemon Sword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Daemon_Sword.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Blastmaster",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Blastmaster.md"
+"t": "Bolt of Tzeentch",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Bolt_of_Tzeentch.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Plaguesword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Plaguesword.md"
+"t": "Manreaper",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Manreaper.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Hellblade",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Hellblade.md"
+"t": "Talon of Horus",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Talon_of_Horus.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Sonic Blaster",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Sonic_Blaster.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "chaos-silahlari",
-"t": "Blight Launcher",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Blight_Launcher.md"
+"t": "Plague Spewer",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Plague_Spewer.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24854,8 +24848,44 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Plague Spewer",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Plague_Spewer.md"
+"t": "Blight Launcher",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Blight_Launcher.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "chaos-silahlari",
+"t": "Sonic Blaster",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Sonic_Blaster.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "chaos-silahlari",
+"t": "Hellblade",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Hellblade.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "chaos-silahlari",
+"t": "Plaguesword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Plaguesword.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "chaos-silahlari",
+"t": "Blastmaster",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Blastmaster.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "chaos-silahlari",
+"t": "Balesword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Balesword.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "chaos-silahlari",
+"t": "Drach'nyen",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Drach_nyen.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24884,12 +24914,6 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "chaos-silahlari",
-"t": "Talon of Horus",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Talon_of_Horus.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "chaos-silahlari",
 "t": "Warp Flamer",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Warp_Flamer.md"
 },
@@ -24898,12 +24922,6 @@
 "f": "chaos-silahlari",
 "t": "Obliterator Weapons",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Obliterator_Weapons.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "chaos-silahlari",
-"t": "Manreaper",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Manreaper.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24919,24 +24937,6 @@
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "chaos-silahlari",
-"t": "Bolt of Tzeentch",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Bolt_of_Tzeentch.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "chaos-silahlari",
-"t": "Daemon Sword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Daemon_Sword.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "chaos-silahlari",
-"t": "Carapace of Magnus",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_chaos-silahlari/Carapace_of_Magnus.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
 "t": "Bright Lance",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Bright_Lance.md"
@@ -24944,38 +24944,62 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "Dark Lance",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Dark_Lance.md"
+"t": "Haywire Grenade",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Haywire_Grenade.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "Agoniser",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Agoniser.md"
+"t": "Huskblade",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Huskblade.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "D-Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/D-Cannon.md"
+"t": "Shuriken Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Shuriken_Cannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "Prism Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Prism_Cannon.md"
+"t": "Disintegrator Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Disintegrator_Cannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "Scatter Laser",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Scatter_Laser.md"
+"t": "Klaive",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Klaive.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "Wraithcannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Wraithcannon.md"
+"t": "Heat Lance",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Heat_Lance.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Fire Pike",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Fire_Pike.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Mandiblasters",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Mandiblasters.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Blaster",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Blaster.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Starcannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Starcannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -24986,8 +25010,38 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "Starcannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Starcannon.md"
+"t": "Wraithcannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Wraithcannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Scatter Laser",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Scatter_Laser.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Prism Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Prism_Cannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "D-Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/D-Cannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Agoniser",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Agoniser.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "aeldari-silahlari",
+"t": "Dark Lance",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Dark_Lance.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -25022,12 +25076,6 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "aeldari-silahlari",
-"t": "Blaster",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Blaster.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
 "t": "Anaris, the Dawnlight",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Anaris__the_Dawnlight.md"
 },
@@ -25045,51 +25093,39 @@
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Mandiblasters",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Mandiblasters.md"
+"f": "ork-silahlari",
+"t": "Deffgun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Deffgun.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Fire Pike",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Fire_Pike.md"
+"f": "ork-silahlari",
+"t": "Shokk Attack Gun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Shokk_Attack_Gun.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Heat Lance",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Heat_Lance.md"
+"f": "ork-silahlari",
+"t": "Killkannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Killkannon.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Klaive",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Klaive.md"
+"f": "ork-silahlari",
+"t": "Tankhammer",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Tankhammer.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Disintegrator Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Disintegrator_Cannon.md"
+"f": "ork-silahlari",
+"t": "Power Klaw",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Power_Klaw.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Shuriken Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Shuriken_Cannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Huskblade",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Huskblade.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "aeldari-silahlari",
-"t": "Haywire Grenade",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_aeldari-silahlari/Haywire_Grenade.md"
+"f": "ork-silahlari",
+"t": "Snazzgun",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Snazzgun.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -25102,18 +25138,6 @@
 "f": "ork-silahlari",
 "t": "Slugga",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Slugga.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "ork-silahlari",
-"t": "Snazzgun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Snazzgun.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "ork-silahlari",
-"t": "Power Klaw",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Power_Klaw.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -25159,33 +25183,57 @@
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "ork-silahlari",
-"t": "Tankhammer",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Tankhammer.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "ork-silahlari",
-"t": "Killkannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Killkannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "ork-silahlari",
-"t": "Shokk Attack Gun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Shokk_Attack_Gun.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "ork-silahlari",
-"t": "Deffgun",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_ork-silahlari/Deffgun.md"
+"f": "necron-silahlari",
+"t": "Staff of Light",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Staff_of_Light.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "necron-silahlari",
-"t": "Staff of Light",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Staff_of_Light.md"
+"t": "Tesla Carbine",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Tesla_Carbine.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "necron-silahlari",
+"t": "Tachyon Arrow",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Tachyon_Arrow.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "necron-silahlari",
+"t": "Resurrection Orb",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Resurrection_Orb.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "necron-silahlari",
+"t": "Particle Whip",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Particle_Whip.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "necron-silahlari",
+"t": "Hyperphase Sword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Hyperphase_Sword.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "necron-silahlari",
+"t": "Gauss Flayer",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Gauss_Flayer.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "necron-silahlari",
+"t": "Doomsday Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Doomsday_Cannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "necron-silahlari",
+"t": "Death Ray",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Death_Ray.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -25202,54 +25250,6 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "necron-silahlari",
-"t": "Death Ray",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Death_Ray.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
-"t": "Doomsday Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Doomsday_Cannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
-"t": "Gauss Flayer",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Gauss_Flayer.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
-"t": "Hyperphase Sword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Hyperphase_Sword.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
-"t": "Particle Whip",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Particle_Whip.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
-"t": "Resurrection Orb",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Resurrection_Orb.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
-"t": "Tachyon Arrow",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Tachyon_Arrow.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
-"t": "Tesla Carbine",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Tesla_Carbine.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "necron-silahlari",
 "t": "Warscythe",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_necron-silahlari/Warscythe.md"
 },
@@ -25262,32 +25262,26 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "tau-silahlari",
-"t": "Cyclic Ion Blaster",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Cyclic_Ion_Blaster.md"
+"t": "T'au Ion Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/T_au_Ion_Rifle.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "tau-silahlari",
-"t": "Heavy Rail Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Heavy_Rail_Rifle.md"
+"t": "Railgun (Hammerhead)",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Railgun__Hammerhead_.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "tau-silahlari",
-"t": "Pulse Carbine",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Pulse_Carbine.md"
+"t": "Markerlight",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Markerlight.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "tau-silahlari",
-"t": "Pulse Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Pulse_Rifle.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tau-silahlari",
-"t": "Rail Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Rail_Rifle.md"
+"t": "Smart Missile System",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Smart_Missile_System.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -25298,8 +25292,32 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "tau-silahlari",
-"t": "Smart Missile System",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Smart_Missile_System.md"
+"t": "Rail Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Rail_Rifle.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tau-silahlari",
+"t": "Pulse Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Pulse_Rifle.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tau-silahlari",
+"t": "Heavy Rail Rifle",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Heavy_Rail_Rifle.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tau-silahlari",
+"t": "Cyclic Ion Blaster",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Cyclic_Ion_Blaster.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tau-silahlari",
+"t": "Pulse Carbine",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Pulse_Carbine.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -25321,27 +25339,45 @@
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
-"f": "tau-silahlari",
-"t": "Markerlight",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Markerlight.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tau-silahlari",
-"t": "Railgun (Hammerhead)",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/Railgun__Hammerhead_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tau-silahlari",
-"t": "T'au Ion Rifle",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tau-silahlari/T_au_Ion_Rifle.md"
+"f": "tyranid-silahlar",
+"t": "Bonesword",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Bonesword.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "tyranid-silahlar",
-"t": "Bonesword",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Bonesword.md"
+"t": "Barbed Strangler",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Barbed_Strangler.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tyranid-silahlar",
+"t": "Crushing Claws",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Crushing_Claws.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tyranid-silahlar",
+"t": "Deathspitter",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Deathspitter.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tyranid-silahlar",
+"t": "Tyranid Devourer",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Tyranid_Devourer.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tyranid-silahlar",
+"t": "Venom Cannon",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Venom_Cannon.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "tyranid-silahlar",
+"t": "Spore Mine Launcher",
+"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Spore_Mine_Launcher.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -25366,42 +25402,6 @@
 "f": "tyranid-silahlar",
 "t": "Fleshborer",
 "u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Fleshborer.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tyranid-silahlar",
-"t": "Spore Mine Launcher",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Spore_Mine_Launcher.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tyranid-silahlar",
-"t": "Venom Cannon",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Venom_Cannon.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tyranid-silahlar",
-"t": "Tyranid Devourer",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Tyranid_Devourer.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tyranid-silahlar",
-"t": "Deathspitter",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Deathspitter.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tyranid-silahlar",
-"t": "Crushing Claws",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Crushing_Claws.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "tyranid-silahlar",
-"t": "Barbed Strangler",
-"u": "data/Warhammer/30_S_LAH_V_TR_N__-_tyranid-silahlar/Barbed_Strangler.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -33416,6 +33416,30 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "sozluk",
+"t": "WAAAGH! Enerjisi",
+"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/WAAAGH__Enerjisi.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "sozluk",
+"t": "Daemon Dünyası",
+"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Daemon_D_nyas_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "sozluk",
+"t": "Genestealer Kültü",
+"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Genestealer_K_lt_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "sozluk",
+"t": "Necrodermis",
+"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Necrodermis.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "sozluk",
 "t": "C'tan",
 "u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/C_tan.md"
 },
@@ -33454,12 +33478,6 @@
 "f": "sozluk",
 "t": "Gellar Alanı",
 "u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Gellar_Alan_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "sozluk",
-"t": "WAAAGH! Enerjisi",
-"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/WAAAGH__Enerjisi.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -33524,18 +33542,6 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "sozluk",
-"t": "Daemon Dünyası",
-"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Daemon_D_nyas_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "sozluk",
-"t": "Genestealer Kültü",
-"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Genestealer_K_lt_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "sozluk",
 "t": "Conversion Field",
 "u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Conversion_Field.md"
 },
@@ -33568,12 +33574,6 @@
 "f": "sozluk",
 "t": "Hive World",
 "u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Hive_World.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "sozluk",
-"t": "Necrodermis",
-"u": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Necrodermis.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -33842,6 +33842,12 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "s-kayitlar",
+"t": "Swooping Hawks",
+"u": "data/Warhammer/S_S_-_s-kayitlar/Swooping_Hawks.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "s-kayitlar",
 "t": "Scouring",
 "u": "data/Warhammer/S_S_-_s-kayitlar/Scouring.md"
 },
@@ -33988,12 +33994,6 @@
 "f": "s-kayitlar",
 "t": "Siege of Hydra Cordatus",
 "u": "data/Warhammer/S_S_-_s-kayitlar/Siege_of_Hydra_Cordatus.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "s-kayitlar",
-"t": "Swooping Hawks",
-"u": "data/Warhammer/S_S_-_s-kayitlar/Swooping_Hawks.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -36470,6 +36470,12 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "k-kayitlar",
+"t": "Kasrkin",
+"u": "data/Warhammer/K_K_-_k-kayitlar/Kasrkin.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "k-kayitlar",
 "t": "Ka Bandha",
 "u": "data/Warhammer/K_K_-_k-kayitlar/Ka_Bandha.md"
 },
@@ -36508,12 +36514,6 @@
 "f": "k-kayitlar",
 "t": "Kayvaan Shrike",
 "u": "data/Warhammer/K_K_-_k-kayitlar/Kayvaan_Shrike.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "k-kayitlar",
-"t": "Kasrkin",
-"u": "data/Warhammer/K_K_-_k-kayitlar/Kasrkin.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -37274,320 +37274,8 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "horus-heresy-serisi",
-"t": "Okuma Sırası — Nereden Başlanır?",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/Okuma_S_ras____Nereden_Ba_lan_r-.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "54. The Buried Dagger",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/54._The_Buried_Dagger.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "53. Titandeath",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/53._Titandeath.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "52. Heralds of the Siege",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/52._Heralds_of_the_Siege.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "51. Slaves to Darkness",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/51._Slaves_to_Darkness.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "50. Born of Flame",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/50._Born_of_Flame.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "49. Wolfsbane",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/49._Wolfsbane.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "48. The Burden of Loyalty",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/48._The_Burden_of_Loyalty.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "44. The Crimson King",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/44._The_Crimson_King.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "42. Garro",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/42._Garro.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "41. The Master of Mankind",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/41._The_Master_of_Mankind.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "37. The Silent War",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/37._The_Silent_War.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "35. Eye of Terra",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/35._Eye_of_Terra.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "32. Deathfire",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/32._Deathfire.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "25. Mark of Calth",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/25._Mark_of_Calth.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "23. Angel Exterminatus",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/23._Angel_Exterminatus.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "17. The Outcast Dead",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/17._The_Outcast_Dead.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "4. The Flight of the Eisenstein",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/4._The_Flight_of_the_Eisenstein.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "47. Old Earth",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/47._Old_Earth.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "46. Ruinstorm",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/46._Ruinstorm.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "43. Shattered Legions",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/43._Shattered_Legions.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "40. Corax",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/40._Corax.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "39. Praetorian of Dorn",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/39._Praetorian_of_Dorn.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "38. Angels of Caliban",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/38._Angels_of_Caliban.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "36. The Path of Heaven",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/36._The_Path_of_Heaven.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "34. Pharos",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/34._Pharos.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "33. War Without End",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/33._War_Without_End.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "31. Legacies of Betrayal",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/31._Legacies_of_Betrayal.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "30. The Damnation of Pythos",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/30._The_Damnation_of_Pythos.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "29. Vengeful Spirit",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/29._Vengeful_Spirit.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "28. Scars",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/28._Scars.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "27. The Unremembered Empire",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/27._The_Unremembered_Empire.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "26. Vulkan Lives",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/26._Vulkan_Lives.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "24. Betrayer",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/24._Betrayer.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "22. Shadows of Treachery",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/22._Shadows_of_Treachery.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "21. Fear to Tread",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/21._Fear_to_Tread.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "20. The Primarchs",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/20._The_Primarchs.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "19. Know No Fear",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/19._Know_No_Fear.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "18. Deliverance Lost",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/18._Deliverance_Lost.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "16. Age of Darkness",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/16._Age_of_Darkness.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "15. Prospero Burns",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/15._Prospero_Burns.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "14. The First Heretic",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/14._The_First_Heretic.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "13. Nemesis",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/13._Nemesis.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "12. A Thousand Sons",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/12._A_Thousand_Sons.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "11. Fallen Angels",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/11._Fallen_Angels.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "10. Tales of Heresy",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/10._Tales_of_Heresy.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "9. Mechanicum",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/9._Mechanicum.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "8. Battle for the Abyss",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/8._Battle_for_the_Abyss.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "7. Legion",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/7._Legion.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "6. Descent of Angels",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/6._Descent_of_Angels.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "5. Fulgrim",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/5._Fulgrim.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "3. Galaxy in Flames",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/3._Galaxy_in_Flames.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "horus-heresy-serisi",
-"t": "2. False Gods",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/2._False_Gods.md"
+"t": "45. Tallarn",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/45._Tallarn.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -37598,50 +37286,326 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "horus-heresy-serisi",
-"t": "45. Tallarn",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/45._Tallarn.md"
+"t": "2. False Gods",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/2._False_Gods.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "3. Galaxy in Flames",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/3._Galaxy_in_Flames.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "5. Fulgrim",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/5._Fulgrim.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "6. Descent of Angels",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/6._Descent_of_Angels.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "7. Legion",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/7._Legion.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "8. Battle for the Abyss",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/8._Battle_for_the_Abyss.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "9. Mechanicum",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/9._Mechanicum.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "10. Tales of Heresy",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/10._Tales_of_Heresy.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "11. Fallen Angels",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/11._Fallen_Angels.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "12. A Thousand Sons",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/12._A_Thousand_Sons.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "13. Nemesis",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/13._Nemesis.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "14. The First Heretic",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/14._The_First_Heretic.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "15. Prospero Burns",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/15._Prospero_Burns.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "16. Age of Darkness",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/16._Age_of_Darkness.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "18. Deliverance Lost",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/18._Deliverance_Lost.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "19. Know No Fear",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/19._Know_No_Fear.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "20. The Primarchs",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/20._The_Primarchs.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "21. Fear to Tread",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/21._Fear_to_Tread.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "22. Shadows of Treachery",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/22._Shadows_of_Treachery.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "24. Betrayer",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/24._Betrayer.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "26. Vulkan Lives",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/26._Vulkan_Lives.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "27. The Unremembered Empire",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/27._The_Unremembered_Empire.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "28. Scars",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/28._Scars.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "29. Vengeful Spirit",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/29._Vengeful_Spirit.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "30. The Damnation of Pythos",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/30._The_Damnation_of_Pythos.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "31. Legacies of Betrayal",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/31._Legacies_of_Betrayal.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "33. War Without End",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/33._War_Without_End.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "34. Pharos",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/34._Pharos.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "36. The Path of Heaven",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/36._The_Path_of_Heaven.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "38. Angels of Caliban",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/38._Angels_of_Caliban.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "39. Praetorian of Dorn",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/39._Praetorian_of_Dorn.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "40. Corax",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/40._Corax.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "43. Shattered Legions",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/43._Shattered_Legions.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "46. Ruinstorm",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/46._Ruinstorm.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "47. Old Earth",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/47._Old_Earth.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "4. The Flight of the Eisenstein",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/4._The_Flight_of_the_Eisenstein.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "17. The Outcast Dead",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/17._The_Outcast_Dead.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "23. Angel Exterminatus",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/23._Angel_Exterminatus.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "25. Mark of Calth",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/25._Mark_of_Calth.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "32. Deathfire",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/32._Deathfire.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "35. Eye of Terra",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/35._Eye_of_Terra.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "37. The Silent War",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/37._The_Silent_War.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "41. The Master of Mankind",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/41._The_Master_of_Mankind.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "42. Garro",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/42._Garro.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "44. The Crimson King",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/44._The_Crimson_King.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "48. The Burden of Loyalty",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/48._The_Burden_of_Loyalty.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "49. Wolfsbane",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/49._Wolfsbane.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "50. Born of Flame",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/50._Born_of_Flame.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "51. Slaves to Darkness",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/51._Slaves_to_Darkness.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "52. Heralds of the Siege",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/52._Heralds_of_the_Siege.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "53. Titandeath",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/53._Titandeath.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "54. The Buried Dagger",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/54._The_Buried_Dagger.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "horus-heresy-serisi",
+"t": "Okuma Sırası — Nereden Başlanır?",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_horus-heresy-serisi/Okuma_S_ras____Nereden_Ba_lan_r-.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "siege-of-terra",
-"t": "3. The First Wall",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/3._The_First_Wall.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "siege-of-terra",
-"t": "7. Echoes of Eternity",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/7._Echoes_of_Eternity.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "siege-of-terra",
-"t": "5. Mortis",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/5._Mortis.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "siege-of-terra",
-"t": "9. The End and the Death Vol. II+III",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/9._The_End_and_the_Death_Vol._II_III.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "siege-of-terra",
-"t": "8. The End and the Death Vol. I",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/8._The_End_and_the_Death_Vol._I.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "siege-of-terra",
-"t": "6. Warhawk",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/6._Warhawk.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "siege-of-terra",
-"t": "2. The Lost and the Damned",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/2._The_Lost_and_the_Damned.md"
+"t": "4. Saturnine",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/4._Saturnine.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -37652,86 +37616,50 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "siege-of-terra",
-"t": "4. Saturnine",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/4._Saturnine.md"
+"t": "2. The Lost and the Damned",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/2._The_Lost_and_the_Damned.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "siege-of-terra",
+"t": "6. Warhawk",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/6._Warhawk.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "siege-of-terra",
+"t": "8. The End and the Death Vol. I",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/8._The_End_and_the_Death_Vol._I.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "siege-of-terra",
+"t": "9. The End and the Death Vol. II+III",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/9._The_End_and_the_Death_Vol._II_III.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "siege-of-terra",
+"t": "5. Mortis",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/5._Mortis.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "siege-of-terra",
+"t": "7. Echoes of Eternity",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/7._Echoes_of_Eternity.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "siege-of-terra",
+"t": "3. The First Wall",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_siege-of-terra/3._The_First_Wall.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "diger-romanlar",
-"t": "Malleus (Eisenhorn #2)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Malleus__Eisenhorn__2_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "For the Emperor (Ciaphas Cain #1)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/For_the_Emperor__Ciaphas_Cain__1_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "The Emperor's Gift",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/The_Emperor_s_Gift.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "The Devastation of Baal",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/The_Devastation_of_Baal.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Helsreach",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Helsreach.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Brothers of the Snake",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Brothers_of_the_Snake.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Necropolis (Gaunt's Ghosts #3)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Necropolis__Gaunt_s_Ghosts__3_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "First and Only (Gaunt's Ghosts #1)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/First_and_Only__Gaunt_s_Ghosts__1_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Ravenor (Ravenor #1)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Ravenor__Ravenor__1_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Space Wolf (Space Wolf #1)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Space_Wolf__Space_Wolf__1_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Dark Imperium",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Dark_Imperium.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Xenos (Eisenhorn #1)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Xenos__Eisenhorn__1_.md"
-},
-{
-"s": "THE IMPERIAL ARCHIVE",
-"f": "diger-romanlar",
-"t": "Hereticus (Eisenhorn #3)",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Hereticus__Eisenhorn__3_.md"
+"t": "Watchers of the Throne: The Emperor's Legion",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Watchers_of_the_Throne-_The_Emperor_s_Legion.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",
@@ -37742,8 +37670,80 @@
 {
 "s": "THE IMPERIAL ARCHIVE",
 "f": "diger-romanlar",
-"t": "Watchers of the Throne: The Emperor's Legion",
-"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Watchers_of_the_Throne-_The_Emperor_s_Legion.md"
+"t": "Hereticus (Eisenhorn #3)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Hereticus__Eisenhorn__3_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Xenos (Eisenhorn #1)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Xenos__Eisenhorn__1_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Dark Imperium",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Dark_Imperium.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Space Wolf (Space Wolf #1)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Space_Wolf__Space_Wolf__1_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Ravenor (Ravenor #1)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Ravenor__Ravenor__1_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "First and Only (Gaunt's Ghosts #1)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/First_and_Only__Gaunt_s_Ghosts__1_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Necropolis (Gaunt's Ghosts #3)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Necropolis__Gaunt_s_Ghosts__3_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Brothers of the Snake",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Brothers_of_the_Snake.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Helsreach",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Helsreach.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "The Devastation of Baal",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/The_Devastation_of_Baal.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "The Emperor's Gift",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/The_Emperor_s_Gift.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "For the Emperor (Ciaphas Cain #1)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/For_the_Emperor__Ciaphas_Cain__1_.md"
+},
+{
+"s": "THE IMPERIAL ARCHIVE",
+"f": "diger-romanlar",
+"t": "Malleus (Eisenhorn #2)",
+"u": "data/Warhammer/ROMANLAR___SER_LER_-_diger-romanlar/Malleus__Eisenhorn__2_.md"
 },
 {
 "s": "THE IMPERIAL ARCHIVE",

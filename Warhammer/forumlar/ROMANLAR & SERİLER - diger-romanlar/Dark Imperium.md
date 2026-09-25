@@ -13,4 +13,8 @@ Guilliman'ın Imperium'u yeniden yönetmeye çalışması ve Mortarion'la 'Tanr�
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Guy Haley'in Dark Imperium üçlemesinin ilki; Guilliman'ın geri dönüşü, Cicatrix Maledictum'un açılışı ve Imperium Nihilus'un izolasyonu — Indomitus Crusade'in başlangıcı.
+
 -# Kaynaklar: Black Library

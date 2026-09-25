@@ -10,4 +10,9 @@ Güç alanıyla kaplı adamantium bıçaklardan oluşan pençe eldiven; zırhı 
 
 ## Teknik ve Kullanım
 Çift güç kılıcı pençesi — Terminator Assault birimlerinin imzası; tek savrulmada düşmanı parçalara ayırır. Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
+
+## Tarihçe
+
+Önkoldan çıkan üç-dört bıçaklı güç silahı; terminatorların ve assault savaşçılarının en hızlı ölüm aleti. Kesme değil rendeleme — disruption alanıyla kaplı bıçaklar zırhı kağıt gibi yırtar. Lightning Claw taşıyan bir veteran, odağı 'ölümcül hız' olarak tanımlar.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

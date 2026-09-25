@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/97/Wraithcannon4thEditio
 
 Hedefin bulunduğu noktada küçük bir Warp yarığı açan distorsiyon silahı; kurbanı gerçeklikten koparıp Warp'a yutturur.
 
+## Tarihçe
+
+Wraithguard'ın taşınabilir D-Cannon'u; Spirit Stone'dan beslenen ve realspace'te küçük Warp yarığı açan distorsiyon silahı. Zırhı gravitik kuvvetle parçalar ve kalıntıları yutar — hayalet savaşçının hayalet silahı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

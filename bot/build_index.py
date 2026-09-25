@@ -4,6 +4,12 @@ title -> (sunucu, kategori, forum, link) haritası data/index.json'a yazar.
 Kullanım: DISCORD_TOKEN=... python3 build_index.py"""
 import json, os, requests, time
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 TOKEN = os.environ['DISCORD_TOKEN']
 H = {'Authorization': 'Bot ' + TOKEN, 'Content-Type': 'application/json'}
 B = 'https://discord.com/api/v10'
@@ -12,16 +18,19 @@ GUILDS = json.load(open(os.path.join(HERE, 'data', 'guilds.json')))
 
 
 def req(m, u, **kw):
+    last = None
     for _ in range(12):
         try:
             r = requests.request(m, B + u, headers=H, timeout=30, **kw)
-        except Exception:
+        except Exception as e:
+            last = e
             time.sleep(2)
             continue
         if r.status_code == 429:
             time.sleep(r.json().get('retry_after', 1) + .4)
             continue
         return r
+    raise RuntimeError(f'{m} {u} 12 denemede başarısız (son: {last!r})')
 
 
 def scan(gid):
@@ -41,9 +50,9 @@ def scan(gid):
                 break
             ts = r.json().get('threads', [])
             for t in ts:
-                out[t['name']] = {'t': t['name'], 'g': gid,
-                                  'f': f['name'], 'c': cname,
-                                  'l': f'https://discord.com/channels/{gid}/{t["id"]}'}
+                out[t['id']] = {'t': t['name'], 'g': gid,
+                                'f': f['name'], 'c': cname,
+                                'l': f'https://discord.com/channels/{gid}/{t["id"]}'}
             if len(ts) < 100:
                 break
             before = requests.utils.quote(ts[-1]['thread_metadata']['archive_timestamp'], safe='')
@@ -54,9 +63,9 @@ def scan(gid):
         for t in act.json().get('threads', []):
             p = pf.get(t['parent_id'])
             if p and p.get('type') == 15:
-                out[t['name']] = {'t': t['name'], 'g': gid,
-                                  'f': p['name'], 'c': cat.get(p.get('parent_id'), ''),
-                                  'l': f'https://discord.com/channels/{gid}/{t["id"]}'}
+                out[t['id']] = {'t': t['name'], 'g': gid,
+                                'f': p['name'], 'c': cat.get(p.get('parent_id'), ''),
+                                'l': f'https://discord.com/channels/{gid}/{t["id"]}'}
     return out
 
 
@@ -69,8 +78,16 @@ def main():
             idx.append(r)
         print(meta['name'], len(recs), flush=True)
         time.sleep(1)
-    json.dump(idx, open(os.path.join(HERE, 'data', 'index.json'), 'w'),
-              ensure_ascii=False)
+    path = os.path.join(HERE, 'data', 'index.json')
+    if os.path.exists(path):
+        prev = len(json.load(open(path)))
+        if prev and len(idx) < prev * 0.9:
+            raise SystemExit(
+                f'REDDEDILDI: {len(idx)} kayıt, mevcut {prev} kaydın %90 altında — '
+                'indeks korundu (olası tarama hatası)')
+    tmp = path + '.tmp'
+    json.dump(idx, open(tmp, 'w'), ensure_ascii=False)
+    os.replace(tmp, path)
     print('TOTAL', len(idx))
 
 

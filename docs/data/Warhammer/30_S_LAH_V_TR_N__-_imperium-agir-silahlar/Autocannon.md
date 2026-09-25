@@ -10,4 +10,9 @@ Hızlı atışlı ağır top; hafif araçlara, canavarlara ve tahkimatlara uzun 
 
 ## Teknik ve Kullanım
 Yüksek hızlı mermi yağdıran top — hafif zırh ve piyadeye karşı Guard'ın güvenilir orta sınıfı; Predator ve Sentinel'e monte edilir. Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan, bakımı basit ve üretimi bol İmparatorluk ve düşman silahları; bolt veya enerji teknolojisi olmadan da cephede en çok iş yapan sınıftır.
+
+## Tarihçe
+
+Uzun-menzilli otomatik top; Astra Militarum'un standart ağır silahı ve araç topu. Sentetik-istikrarlı hızlı atış — aracı da piyadeyi de çözen, Basilik gibi klasikleşmiş platformun kalbi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

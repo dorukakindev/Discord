@@ -16,4 +16,8 @@ Dark Lance'in taşınabilir, kısa menzilli kardeşi; darklight enerjisini taban
 ## Not
 Blaster, Drukhari raid silahlarının elde taşınan uç örneğidir — Commorragh'ın kabal'ları bu tür hafif, etkili ve zalimane silahları tercih eder.
 
+## Tarihçe
+
+Reaver ve Imperator Titan'ların taşıdığı dev pnömatik altı-namlulu döner silah; hafif araç ve piyade süpürmesinin titan-boyu hali. 'Blaster' kavramının en büyük ölçekli versiyonu.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

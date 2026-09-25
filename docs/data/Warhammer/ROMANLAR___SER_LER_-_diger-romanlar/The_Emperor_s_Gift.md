@@ -13,4 +13,8 @@ Hyperion'un gözünden 1st Armageddon'un perde arkası; Logan Grimnar'ın Inquis
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Aaron Dembski-Bowden'ın Grey Knights romanı; Inquisitorlord'ın 'emri' sonrası Grey Knights'ın Armageddon'daki savaşı. Space Marine'in en kutsal birliğinin iç görünümü.
+
 -# Kaynaklar: Black Library
