@@ -17,6 +17,8 @@ Replay the build script's own generators against the source DBs and compare with
 - Verify thread-name SETS (not just counts) vs `title_of(f)[:95]` + index name — catches wrong/duplicated threads.
 - Index threads must have `flags & 2` (pinned).
 - Posters: check `_poster` hydration from posters.json; valid domains are `media.themoviedb.org` and `a.ltrbxd.com`.
+- **The main DB and the discoveries DB share the same autoincrement `id` space** — a `{id: film}` map built from `main+kesif` collapses overlapping ids onto the wrong film (e.g. main 548 = Stalker vs kesif 548 = The Fifth Seal). Build per-source id maps keyed by forum: band slugs → main ids, `*-kesifleri` slugs → kesif ids.
+- **Incremental imports can leave stale content even when everything else passes**: after an import that adds films of *existing* directors, verify director cards (Kayıt sayısı + bullet list) were regenerated — new-director cards get created but pre-existing cards may not be updated. Also check guide/text channels for duplicated reposts (new message appended, old not deleted).
 
 ## Read-only (salt-okunur) check — easy to get wrong
 - Each channel/category needs `@everyone` (id == guild id) overwrite `deny == "377957124160"`.
@@ -28,6 +30,7 @@ Replay the build script's own generators against the source DBs and compare with
 - Guild widget (`/guilds/<id>/widget.json`) is usually disabled (403) — not a defect.
 
 ## Static viewer (docs/index.html, "Lexicanum Arşivleri")
+- **First verify docs/index.html still exists** (`git ls-files docs/index.html`) — a merged "site regen" commit deleted it while keeping the data files. If absent, restore a copy from a commit that had it (e.g. `git show <commit>:docs/index.html > docs/index.html`) for test-only render checks, then remove it to keep the tree clean.
 - No public Pages URL — serve yourself: `cd docs && python3 -m http.server <port>`.
 - Viewer loads `manifest.json` (servers[].title → switcher; forums[].items[] → `details` "name (count)"; texts[] grouped by `grp`) and `index.json` (search entries {s,f,t,u}, s = display title e.g. 'THE FILM ARCHIVE'). `load(u)` fetches `docs/<u>` md and renders with a small line-mapper: bare image-URL line → `<img>`, `-# `→sub, `#/##/###`→headings, `>`→blockquote, `- `/`* `→li, `**`→bold, `[t](u)`→link.
 - Index threads are the LAST item in each forum's nav list. Chrome find-in-page auto-expands collapsed `<details>` — use Ctrl+F to jump to deep items.
