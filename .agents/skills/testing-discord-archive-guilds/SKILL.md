@@ -41,3 +41,17 @@ Replay the build script's own generators against the source DBs and compare with
 ## Shell pitfalls
 - The Chrome binary is `chrome` (`chrome-linux64/chrome`), not `google-chrome`. `pkill -f "chrome"` matches your own shell command and kills it — use `pkill -9 -x chrome`.
 - Use `pgrep -f "chrome-linux64/chrome"` to inspect real Chrome processes.
+
+## Checked-in index/manifest data can be stale vs live — verify before calling it a bug
+- `bot/data/index.json` may predate thread re-creations: compare `forum_threads()` output by **name set AND id set** separately — high name-hit + some id-misses = stale index (threads re-created), not a dapi bug. `/index-yenile`/`build_index.py` is the refresh path.
+- `docs/index.json` can contain stale `u` paths after content moves (e.g. band re-sort): `os.path.exists('docs/'+x['u'])` per entry — a handful of misses = stale dump, a viewer code bug would break ALL entries.
+- `docs/manifest.json` `texts[]` can point at a `_txt/` dir that was never dumped for that server — compare per-server missing counts; a server with 100% missing vs 0% elsewhere is un-dumped data, not broken paths.
+- `manifest.json` `readme` is a legacy field — current dump_all no longer writes it; a missing README shows the viewer's default view as a rendered 404 page. Cosmetic data issue.
+
+## No-token / DRY_RUN behavior reference
+- `import lexicanum` without `DISCORD_TOKEN` → `KeyError: 'DISCORD_TOKEN'` at module level (line ~29) — expected, not a crash bug. Use `DISCORD_TOKEN=dummy` to import offline (index.json loads, search/suggest/join_body/split_for_modal all callable).
+- `dump_all.py --dry-run` **without** a token → HTTPError 401 on the FIRST `guild_channels()` GET — `DRY_RUN` short-circuits writes only; reads stay live by design. Same for `build_server.py`.
+- `DRY_RUN=1` + `dapi.post('/channels/<bogus>/messages')` → `{'id': 'dry-run'}` + `[dry-run]` log; the same POST without DRY_RUN → `None` (404). This bogus-channel contrast proves the short-circuit without touching a real channel.
+
+## Verifying build_server.sync_msgs on live data (safe, dry-run)
+- Pick a real channel with foreign (non-bot) messages (e.g. a chat channel). `msgs=channel_messages(cid)`; `want=[m['content'] for m in reversed(own)]` → `sync_msgs(cid, want)` should emit **zero** `[dry-run]` lines (idempotent). Then `sync_msgs(cid, [])` → exactly `len(own)` DELETE lines whose targets ⊆ own ids; foreign ids must never appear. Proves "yalnız bot mesajlarına dokunur" without DBs or writes.
