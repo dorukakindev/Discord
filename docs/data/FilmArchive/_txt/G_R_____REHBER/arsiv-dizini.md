@@ -31,3 +31,37 @@ Kayıtlar tür kategorileri altında `sana uygunluk` puan bantlarına ayrılır:
 • `yonetmenler` → 322 kayıt
 
 Hızlı atlama için: `#a-z-indeks` · puan alanlarının anlamı için: `#nasil-okunur`
+
+-# THE FILM ARCHIVE · Arşiv Dizini
+# Arşiv Dizini
+Kayıtlar tür kategorileri altında puan bantlarına ayrılır (bant = `sana uygunluk` veya `kişisel puan/2`, yüksek olan):
+
+**FİLMLER** — 297 kayıt
+• `filmler-4-5-ve-ustu` → 49
+• `filmler-4-0-4-5` → 133
+• `filmler-3-5-4-0` → 91
+• `filmler-3-5-alti` → 24
+**DİZİLER** — 76 kayıt
+• `diziler-4-5-ve-ustu` → 35
+• `diziler-4-0-4-5` → 38
+• `diziler-3-5-4-0` → 3
+• `diziler-3-5-alti` → 0
+**BELGESELLER** — 34 kayıt
+• `belgeseller-4-5-ve-ustu` → 3
+• `belgeseller-4-0-4-5` → 8
+• `belgeseller-3-5-4-0` → 13
+• `belgeseller-3-5-alti` → 10
+**ANİMELER** — 21 kayıt
+• `animeler-4-5-ve-ustu` → 7
+• `animeler-4-0-4-5` → 1
+• `animeler-3-5-4-0` → 12
+• `animeler-3-5-alti` → 1
+
+**KEŞİFLER & ÖNERİLER** — arşive girmemiş 97 aday
+• `protokol-kesifleri` → 55 kayıt (film-protokol süzgeci)
+• `kurator-kesifleri` → 42 kayıt (küratörlü listeler)
+
+**KÜNYE**
+• `yonetmenler` → 322 kayıt
+
+Hızlı atlama için: `#a-z-indeks` · puan alanlarının anlamı için: `#nasil-okunur`

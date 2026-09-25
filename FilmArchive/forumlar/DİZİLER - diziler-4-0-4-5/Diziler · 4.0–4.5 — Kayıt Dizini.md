@@ -24,12 +24,10 @@
 • **08 Кастор и Полидевк - S01E08 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
 • **09 Собаки Актeона - S01E09 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
 • **Abandoned Engineering (2016–)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
-• **Decalogue V (1989)** · IMDb 8.9/10 · LB 4.59/5 · nMDB 90.4 · uyg 4.2/5**
-
 • **How We Got to Now (2014–)** · IMDb 8.5/10 · nMDB 85.0 · uyg 4.2/5**
+
 • **The Human Animal (1994–)** · IMDb 8.6/10 · nMDB 86.0 · uyg 4.2/5**
 • **The Witch Doctor Will See You Now (2011–2011)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
-• **Twin Peaks: The Return (2017)** · IMDb 8.5/10 · LB 4.61/5 · nMDB 88.6 · uyg 4.2/5**
 • **04 Геракл и золотые яблоки - S01E04 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.1/5**
 • **04 Персей - поиски Медузы - S01E04 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.1/5**
 • **05 Кадм и Европа - S01E05 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.1/5**
@@ -39,5 +37,7 @@
 • **09 Аталанта - Девушка дикарка - S01E09 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.0/5**
 • **Balls Deep (2016)** · IMDb 7.7/10 · nMDB 77.0 · uyg 4.0/5**
 • **Baltic Tribes (2018)** · IMDb 7.0/10 · LB 3.38/5 · nMDB 68.8 · uyg 4.0/5**
+• **Decalogue I (1989)** · IMDb 8.9/10 · LB 4.59/5 · nMDB 90.4 · uyg 3.7/5**
+• **Decalogue VI (1989)** · IMDb 8.9/10 · LB 4.59/5 · nMDB 90.4 · uyg 3.6/5**
 • **Dekalog (1989)** · IMDb 8.9/10 · LB 4.59/5 · nMDB 90.4 · uyg 4.0/5**
 • **Insomniac with Dave Attell (2001–2004)** · IMDb 8.2/10 · nMDB 82.0 · uyg 4.0/5**

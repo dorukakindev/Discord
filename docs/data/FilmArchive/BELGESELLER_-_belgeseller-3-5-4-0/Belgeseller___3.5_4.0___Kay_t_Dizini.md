@@ -1,6 +1,6 @@
 -# THE FILM ARCHIVE · Belgeseller · 3.5–4.0 · Dizin
 # Belgeseller · 3.5–4.0 — Kayıt Dizini
-14 kayıt — uygunluk sırası:
+13 kayıt — uygunluk sırası:
 
 • **Fermat's Last Theorem (1996)** · IMDb 7.5/10 · nMDB 75.0 · uyg 3.9/5**
 • **Gates of Heaven (1978)** · IMDb 7.3/10 · LB 3.86/5 · nMDB 75.1 · uyg 3.9/5**
@@ -11,7 +11,6 @@
 • **The Substance Albert Hofmanns LSD (2011)** · IMDb 7.1/10 · LB 3.49/5 · nMDB 70.4 · uyg 3.7/5**
 • **American Movie (1999)** · IMDb 7.8/10 · LB 4.20/5 · nMDB 81.0 · uyg 3.6/5**
 • **Mechanical Marvels: Clockwork Dreams (2013)** · IMDb 7.7/10 · nMDB 77.0 · uyg 3.6/5**
-• **The Act of Killing (2012)** · IMDb 8.2/10 · LB 4.43/5 · nMDB 85.3 · uyg 3.6/5**
 • **The Cruise (1998)** · IMDb 7.5/10 · LB 3.95/5 · nMDB 77.0 · uyg 3.6/5**
 • **A Married Couple (1969)** · IMDb 7.5/10 · LB 3.87/5 · nMDB 76.2 · uyg 3.5/5**
 • **Cannibal Tours (1988)** · IMDb 7.6/10 · LB 3.71/5 · nMDB 75.1 · uyg 3.5/5**
