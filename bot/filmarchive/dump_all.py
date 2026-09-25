@@ -43,6 +43,18 @@ def dsan(name):
     return re.sub(r'[^A-Za-z0-9._\-]', '_', name)
 
 
+def unique_fname(seen, name, uid):
+    # Aynı fsafe slug'a ayrışan isimler üst üste yazmasın — thread/kanal id son eki
+    base = fsafe(name)
+    fname = base + ".md"
+    if fname in seen:
+        fname = f"{base}-{str(uid)[-4:]}.md"
+    if fname in seen:
+        fname = f"{base}-{uid}.md"
+    seen.add(fname)
+    return fname
+
+
 def post_text(msgs):
     return "\n\n".join(m["content"] for m in msgs if m.get("content"))
 
@@ -112,6 +124,7 @@ def main():
         for f in sorted(fs, key=lambda x: x["position"]):
             threads = forum_threads(f["id"])
             titles, posts = [], []
+            seen = set()
             for t in threads:
                 tid = t["id"]
                 msgs = channel_messages(tid)  # sınırsız — >100 mesajlı kayıtlar kesilmesin
@@ -121,7 +134,7 @@ def main():
                     continue
                 title = t["name"]
                 titles.append(title)
-                fname = fsafe(title) + ".md"
+                fname = unique_fname(seen, title, tid)
                 fdir = f"{fsafe(cat)} - {fsafe(f['name'])}"
                 p1 = os.path.join(forumlar_root, fdir, fname)
                 w(p1, txt); mark(p1)
@@ -139,6 +152,7 @@ def main():
     # ---------- metin-kanallari (+ docs _txt) ----------
     mk_root = os.path.join(FILM, "metin-kanallari")
     txt_root = os.path.join(docs_root, "_txt")
+    seen_txt = {}
     for c in sorted(texts, key=lambda x: (x.get("parent_id") or "", x["position"])):
         cat = catname.get(c.get("parent_id"), "?")
         msgs = channel_messages(c["id"])
@@ -146,10 +160,11 @@ def main():
         txt = post_text(msgs)
         if not txt:
             continue
-        p3 = os.path.join(mk_root, fsafe(cat), fsafe(c["name"]) + ".md")
+        fname3 = unique_fname(seen_txt.setdefault(cat, set()), c["name"], c["id"])
+        p3 = os.path.join(mk_root, fsafe(cat), fname3)
         w(p3, txt); mark(p3)
-        u = f"data/{SERVER_ID}/_txt/" + dsan(cat) + "/" + dsan(fsafe(c["name"]) + ".md")
-        p4 = os.path.join(txt_root, dsan(cat), dsan(fsafe(c["name"]) + ".md"))
+        u = f"data/{SERVER_ID}/_txt/" + dsan(cat) + "/" + dsan(fname3)
+        p4 = os.path.join(txt_root, dsan(cat), dsan(fname3))
         w(p4, txt); mark(p4)
         docs_texts.append({"title": c["name"], "file": u, "grp": cat})
         print(f"text {c['name']}: {len(msgs)} msgs")
