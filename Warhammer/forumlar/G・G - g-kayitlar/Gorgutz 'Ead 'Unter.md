@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Dawnofwar.jpeg/revisi
 
 ## Tarihçe
 
-Gorgutz 'Ead 'Unter, Dawn of War serisinin efsanevi Evil Sunz warboss'udur; üç büyük İmparatorluk seferinde (Lorn V, Kronus, Kaurava) savaşan ve 'düşman kafaları koleksiyonuyla' bilinen en ünlü Ork figürü.
+Gorgutz 'Ead 'Unter, Evil Sunz klanının eski warboss'u olan Ork warlord'udur; 41. Binyıl'ın son yüzyılında İmparatorluk'un ve galaksinin diğer büyük zeki türlerinin güçlerine karşı üç büyük sefere karıştı. WAAAGH! Gorgutz sonunda birden fazla klanı birleştirdi — 'kafa avcısı' lakabını kazandığı korkunç taktiksel zekâsıyla Dawn of War serisinin efsanevi antagonisti.
 
 -# Kaynaklar: *Fandom wiki*
 

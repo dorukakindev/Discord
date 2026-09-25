@@ -22,6 +22,10 @@ Imperial kayıtlarda "Ryza pattern" ibaresi, bir silahın ya da parçanın bu fo
 
 Bu ün, Ryza'yı Imperium'un savaş ekonomisinde vazgeçilmez kılar. Space Marine Chapter'ları, Astra Militarum alayları ve Navis Imperialis'in gemileri plazma teknolojisine muhtaçtır; bu teknolojiyi güvenilir biçimde üretebilen dünyaların sayısı ise sınırlıdır. Bir plazma reaktörünün bakımı ya da bir plazma silahının yeniden kutsanması, uzak cephelerde bile Ryza'nın ya da onun eğittiği rahiplerin bilgisini gerektirebilir. Hangi Imperial ekipmanın tam olarak hangi forge'da üretildiği ise kaynaklarda çoğu zaman belirtilmez; Ryza'nın plazmayla özdeşleşmesi, tek tek ürün listelerinden çok bu genel ünün ifadesidir.
 
+## Tarihçe
+
+Ryza — 'Zincirlenmiş Yıldızların Ocağı' — Segmentum Ultima'daki Adeptus Mechanicus Forge World'üdür; Titan lejyonu Legio Crucius ('Warmongers')ın evidir. Heresy'de 'Defence of Ryza' adlı büyük savaş yaşandı; İmparatorluk'un en önemli silah ve tahkimat üreticilerinden biri olarak 'Ultima'nın ocağı' rolünü oynar.
+
 Bu konum, Ryza'ya Mechanicus içinde de ağırlık kazandırır. Bilginin rütbe ve güç anlamına geldiği bir düzende, başkalarının yeniden üretemediği bir sırrı saklamak siyasi bir sermayedir. Ryza'nın bu sermayeyi Mars'la ve öbür forge'larla ilişkilerinde nasıl kullandığı ise yayımlanmış kanonda ayrıntılı biçimde işlenmez.
 ---MSG---
 ## Ork Kuşatmaları

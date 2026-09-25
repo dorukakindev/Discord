@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3c/Ahmontekh.png/revisio
 
 ## Tarihçe
 
-Ahmontekh — 'Kızıl Tırpan', 'Yıldız-Katil', 'Kırık Kral' — Jericho Reach'in eski efendisi Necron Overlord; Su-Bekhar Dynasty'nin 'saklı' hanedan efendisi olarak 60 milyon yıllık uyku sonrası yeniden hükmetmeye başladı.
+Ahmontekh — 'Kızıl Tırpan', 'Yıldız-Katil', 'Sakat Kral' — Necron Suhbekhar Hanedanı'nın bir zamanlar ve gelecekteki phaeron'udur; eski çağlarda Jericho Reach'i kanla sulayan en güçlü savaşçılardan biri sayılırdı ve C'tan'ların yanında dövüştüğü söylenir. Büyük Uyku'dan sonra hasarlı bedeniyle uyandı ve hâlâ Jericho Reach'i araştıran Inquisition'ın 'Karanlık Desen' fenomeninin anahtarı olabileceği düşünülüyor. 'Tahtın çılgın kralı' olarak Necron aristokrasisinin en tehlikeli kalıntılarından.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058719065968721>

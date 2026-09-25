@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Stormhawk008.png/revi
 
 ## Tarihçe
 
-Stormhawk Interceptor, Adeptus Astartes'in hava-üstünlük savaş uçağı; Stormtalon'un 'büyük kardeşi' olarak chapter'ların gökyüzü hakimiyetini sağlayan ağır-avcı platform.
+Stormhawk Interceptor, Adeptus Astartes'in hava-üstünlük avcısı ve gunship'idir; Stormtalon'un daha ağır ve daha güçlü kuzenidir. Hem uzayda hem atmosferde uçabilir, kalın ön zırhı ve ağır silahlarıyla gerçek bir 'köpek dövüşü' savaşçısıdır. Yörüngedeki Astartes savaş gemilerinin mag-cradle'larından inanılmaz hızla iner ve 'Vehemence Taarruz Deseni'yle Infernum Halo işaret fişekleri yayarak gökyüzünün kimin olduğunu gösterir. Işıltılı halosu 'İmparatorun gökyüzü' sinyalidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058757372551271>

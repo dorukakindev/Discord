@@ -20,6 +20,10 @@ Trajann'ın iç dünyası en ayrıntılı biçimde Chris Wraight'ın *Watchers o
 
 *The Regent's Shadow* ise Guilliman'ın Terra'ya dönüşünün yarattığı siyasi depremi merkeze alır. Lord Regent'in reformlarına karşı Terra'nın yerleşik güç odakları arasında yükselen direnç ve entrikalar, Custodes'i kendi tarafsızlığını sorgulamaya zorlar. Trajann burada bir savaşçıdan çok, High Lords konseyindeki yerini ve kurumunun bağımsızlığını korumaya çalışan temkinli bir devlet adamıdır.
 
+## Tarihçe
+
+Trajann Valoris, Adeptus Custodes'in mevcut Chief Custodian'ı ve 17. Captain-General'ıdır — İmparator'un elit muhafızının başı ve belki de İmparatorluk'taki en ölümcül birey. Khorne'un güçlerine karşı İmparatorluk Sarayı'nın İkinci Terra Savaşı'ndaki savunmasında Custodes'i yöneten bu figür, 'on bin yıllık nöbetin' en üst komutanıdır.
+
 Romanların Trajann'ı soğuk bir mutlakiyetçi değildir; kararsızlığını gizleyen, ama kararını verdikten sonra geri adım atmayan bir önderdir. Bu tasvirin codex'lerdeki daha kısa ve kurumsal çerçeveyle aynı derinliğe sahip olmadığını belirtmek gerekir.
 ---MSG---
 ## Roboute Guilliman ile İlişki

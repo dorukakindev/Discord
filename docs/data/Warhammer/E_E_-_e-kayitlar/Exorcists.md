@@ -38,6 +38,10 @@ Bu yaklaşım Inquisition içindeki büyük tartışmayla da örtüşür. Ordo M
 
 **Grey Knights'la karşılaştırma.** Grey Knights da daemon'la savaşmak için yaratılmıştır, ancak onların yolu tam tersidir: psişik saflık, ruhlarının daemon'larca asla ele geçirilemeyeceği varsayımı ve Warp'la her türlü uzlaşmanın reddi. Exorcists ise saflık yerine bağışıklığı, uzak durmak yerine temas etmeyi seçer. İki kurumun bu karşıtlığı, soy bağı söylentilerinden bağımsız olarak, Imperium'un daemon sorununa verdiği iki ayrı cevabı yan yana koyar.
 
+## Tarihçe
+
+Exorcists, 13. Kuruluş — 'Karanlık Kuruluş' (35.-36. Binyıl arası) — sırasında yaratılan son derece sıradışı sadık Space Marine chapter'ıdır; gerçek kökenleri sadece en üst rütbeli figürlerce bilinir. Daemon-sahiplenme 'eğitimi' geçiren tek chapter olarak 'kendi şeytanını taşıyan' figürlerdir.
+
 ## Doktrin: Daemon Avcılığı
 Exorcists'in savaş tarzı, tek bir düşmana göre biçimlenmiştir. Daemon istilaları çoğu zaman bir Warp yarılmasıyla, bir kültün ayiniyle ya da bir dünyanın psişik çöküşüyle başlar; bu yüzden Chapter için zafer yalnızca düşmanı öldürmek değil, onun realspace'le bağını koparmaktır. Exorcists'in daemon'ları tanıma yeteneği burada önem kazanır: ele geçirilmiş bir komutanı, bir kalabalığın içine gizlenmiş bir varlığı ya da henüz tam belirmemiş bir yarılmayı öteki kuvvetlerden önce sezebilirler.
 

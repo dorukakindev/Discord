@@ -40,6 +40,10 @@ Bu iki figür arasında bir ayna ilişkisi de okunabilir. Uriel, Codex Astartes'
 
 Serinin son kitaplarında bu düşmanlık, Honsou'nun Uriel'e ve Ultramarines'e karşı yalnızca savaş alanında değil, çok daha karanlık yollarla da darbe indirmeye çalışmasına kadar uzanır. Romanlarda bu bağlamda anılan kimi ayrıntılar, örneğin Uriel'le bağlantılı olarak yaratılan bir savaşçı figürü, ancak romanların kendisinden okunmalıdır; arşiv bunları burada ayrıntılandırmaz.
 
+## Tarihçe
+
+Honsou, Iron Warriors lejyonunun Warsmith'i (kaptanı) — üstelik 'yarı kan' olarak hor görülen bir figür: gen-seed'inin bir kısmı Iron Warriors'ın en büyük rakibi sadık Imperial Fists'ten, bir kısmı da eski Lodge Master Honourable Soulaka'dan gelir. Bu 'kirli kan' önyargısına rağmen kendi Grand Company'inin başına geçmeyi başardı ve Daemonculaba — yeni Astartes üretmek için kadın bedenlerini kullanan korkunç biyoteknoloji — projesini yürüttü. Perturabo'nun medeniyetini çökertmedeki dehasıyla
+
 ## Ultramar'a Akın
 *The Chapter's Due*, Honsou'nun en büyük seferini anlatır. Warsmith, paralı müttefiklerden ve kendi Iron Warriors'ından oluşan büyük bir orduyla Ultramar'a, yani Ultramarines'in kalbine saldırır. Bu, Iron Warriors'ın kadim uzmanlığıyla uyumlu bir hedeftir: Imperium'un en iyi korunan, en düzenli ve en gururlu bölgelerinden birinin savunma hatlarını kırmak. Ama Honsou için akın bundan fazlasıdır; Uriel'in yurduna, onun Chapter'ının onuruna ve Roboute Guilliman'ın mirasına yöneltilmiş kişisel bir intikamdır.
 

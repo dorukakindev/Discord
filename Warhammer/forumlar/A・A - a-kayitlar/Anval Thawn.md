@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Anval Thawn, Grey Knights'ın en ünlü kahramanlarından biridir; Warp'ta bile ruhu satılmayan, en karanlık tehditlerde hayatta kalan 'saf şövalye' — Imperium'un en aydınlık figürlerinden.
+Anval Thawn, Grey Knights'ın ünlü Justicar'ıdır; birçok dikkat çekici işiyle chapter saflarına girdikten kısa süre sonra bu saygın rütbeye yükseldi — adı chapter'ın en büyük kahramanlarıyla yarışır. Sonunda kutsal olmayan bir dünyada öldürüldü ama 'Perpetual' olarak bilinen ölümsüzlüğü onu geri getirdi — 'defalarca dönen şövalye' olarak Grey Knights'ın en gizemli figürlerinden biri.
 
 -# Kaynaklar: *Fandom wiki*
 

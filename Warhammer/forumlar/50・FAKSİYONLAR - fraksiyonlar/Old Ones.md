@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/29/Slanni_Brave.jpg/revision/latest/scale-to-width-down/462?cb=20160720181609
 
+## Tarihçe
+
+Old Ones ('Kadimler'), soğukkanlı sürüngen benzeri, teknolojik ve psişik olarak son derece gelişmiş kadim türdür; War in Heaven'da Necrontyr'le savaşan ve Aeldari ile diğer genç ırkları yarattığı söylenen figürler. Tür olarak yok oldular ama yarattıkları — ve Chaos'un doğuşuna sebep olan mirasları — galaksinin tarihini şekillendirdi.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Old Ones — Eski Tanrılar (Kadim Progenitörler)

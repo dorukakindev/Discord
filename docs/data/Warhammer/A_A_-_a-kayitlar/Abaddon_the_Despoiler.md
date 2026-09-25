@@ -25,6 +25,10 @@ Dönüşün doruğu, Horus klonuyla yüzleşmedir. Abaddon, Emperor's Children'�
 **Ezekarion**
 Romanlarda Abaddon'ın iç çemberi, farklı Legion'lardan gelen isimlerle kurulur; Khayon, Falkus Kibre ve World Eaters kökenli Lheorvine Ukris bunlar arasındadır.
 
+## Tarihçe
+
+Abaddon the Despoiler ('Yağmalayan'), Horus'un ölümünün ardından Sons of Horus'un — sonra Black Legion'un — Warmaster'ı ve İmparatorluk'un bin yıldır süren en büyük tehdididir. Horus'un genetik mirasını taşıyan k
+
 ## Kişilik, Tanrılar ve Liderlik
 Abaddon'ı öteki Chaos lordlarından ayıran şey, dört tanrıdan birine tamamen adanmayı reddetmesidir. Kaynaklar onu tanrıların lütfunu kabul eden, onların güçlerini kullanan, ama kendini onların kulu saymayan bir figür olarak çizer. Bu tutum kimi anlatıda gurur, kimi anlatıda Horus'un kaderinden çıkarılmış bir ders olarak okunur. Undivided kimliğine rağmen zaman zaman belirli bir tanrının amacına hizmet eden seferler yürütmesi, bu ilişkinin sabit bir ilke değil, sürekli yeniden kurulan bir pazarlık olduğunu gösterir.
 **Liderlik**

@@ -46,6 +46,10 @@ Ne var ki bu dönemin en ağır sınavı dışarıdan değil, içeriden gelir. S
 
 Bu mutasyonlar, Chapter'ın bütün iddiasını tehlikeye atar. Imperium'un gözünde mutasyon, Chaos'un bedendeki izidir; bir Space Marine'in bedeninin değişmesi, ruhunun da değiştiğinin kanıtı sayılır. Soul Drinkers ise bu değişimi bir lanet olarak değil, kendi kontrollerinin dışındaki bir biyolojik süreç olarak görmeye çalışır. Gene-seed'in neden değiştiği dizide kesin bir bilimsel açıklamaya kavuşmaz; kaynaklar bu soruyu açık bırakır.
 
+## Tarihçe
+
+Soul Drinkers, Inquisition tarafından Excommunicate Traitoris ilan edilen Renegade Space Marine chapter'ıydı — aşırı mutasyon ve belirgin Chaos yozlaşması yüzünden; ama kendileri hâlâ İmparator'a sadık kaldıklarını düşünüyorlardı. 'İhanet etmeden dışlanan' chapter olarak WH40K'nin en trajik 'gri alan' figürleridir.
+
 Mutasyonun Chapter'ın geleceğine etkisi de ağırdır. Değişmiş gene-seed yeni savaşçıların yetiştirilmesini zorlaştırır ve Chapter'ın kendini yenileme kapasitesini sorgulanır hâle getirir. Soul Drinkers böylece hem dışarıdan avlanan hem de içeriden yavaşça tükenen bir kardeşliğe dönüşür. *Crimson Tears*, mutasyonun en uç biçimini taşıyan ve Chapter'dan kopan eski kaptanlarından **Tellos**'un izini sürerek, bu dönüşümün bir savaşçıyı nereye götürebileceğini gösterir.
 ---MSG---
 ## Chapter War ve Kardeşlerle Yüzleşme

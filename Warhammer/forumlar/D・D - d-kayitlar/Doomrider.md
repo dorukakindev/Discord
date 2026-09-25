@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/79/Doomrider3.jpg/revisi
 
 ## Tarihçe
 
-Doomrider, Slaanesh'in hız ve ölüm tanrısının yarı-mitolojik Chaos savaşçısı; motosikletinin üzerinde sonsuz hız kovalayan, 'öldürülemez' efsanevi figür. Warp'tan her geri dönüşünde daha çılgın — Slaanesh'in 'aşırılık' ilkesinin tekerlekli hali.
+Doomrider, Slaanesh'in Daemon Prince'idir ve en tuhaf kullarından biri — gerçek kimliği zamana kaybolmuş, sadece bir zamanlar Emperor's Children'ın Space Marine Biker'ı olduğu (ya da başka bir lejyonun Renegade'i) sanılır. Motosikletli 'hız ve zevk' figürü olarak Slaanesh'in 'yol canavarı' — uçan bisikletçi-daemon olarak bilinen tuhaf varlıktır.
 
 -# Kaynaklar: *Chaos Space Marines Codex*
 -# İlişkili kayıtlar: <#1552848749682884638>

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Lord_Inquisitor_Anton
 
 ## Tarihçe
 
-Anton Zerbe, Calixis Sektörü'nün en güçlü Inquisitor'u ve 'Karanlık Ağ' (Dark Heresy'nin kalbindeki casus ağı) kurucusudur — Dark Heresy oyununun simge ismi.
+Anton Zerbe, Ordo Hereticus'un Inquisitor Lord'u ve Calixis Sektörü'ndeki 'Tyrantine Cabal' Inquisitor grubunun görevli lideridir — bu makama bizzat Calixian Conclave'ın başı Lord Inquisitor Aegult Caidin tarafından getirildi. Görevini hafife almaz; 'kabal'ın gizli operasyonlarını demir disiplinle yöneten bu figür, Dark Heresy evreninin en yetkili inquisitorial yüzlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

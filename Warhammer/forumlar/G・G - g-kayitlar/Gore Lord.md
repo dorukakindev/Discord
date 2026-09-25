@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Gore Lord, Khorne'un Bloodthirster'ı olarak Khorne-Slaanesh daemonik ittifakının lideri; 'beklenmedik ittifak'ın komutanı — kan ve zevk arasındaki nadir koalisyonun efendisi.
+Gore Lord, Khorne'un Bloodthirster'ıdır — ama sıradışı bir daemonik ittifak olan 'Brazen Host'un efendisi: esas olarak Khorne ve Slaanesh'e hizmet eden karma bir daemon ordusunu yönetir. İmparatorluk kayıtlarında bu kudretli Bloodthirster hakkında az şey bilinir; binlerle sayılan ordusu, iki rakip tanrının kullarını aynı sancak altında toplayabilen anomali olarak bilinir.
 
 -# Kaynaklar: *Fandom wiki*
 

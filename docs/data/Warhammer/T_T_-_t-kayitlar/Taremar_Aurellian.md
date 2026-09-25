@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Taremar Aurellian ('Altın Taremar'), Grey Knights'ın 3. Kardeşlik Warden'ı ve chapter amiral gemisinin efendisiydi; soylu işleriyle bilinen 'göksel' komutan.
+Taremar Aurellian — soylu işlerinin uzun listesi için 'Altın Taremar' — Grey Knights'ın 3. Kardeşliği'nin kardeş-kaptanı, Warden'ı ve chapter amiral gemisinin efendisiydi; Birinci Armageddon Savaşı'nın kahramanıdır. World Eaters'ın Daemon Primarch'ı Angron'la bizzat yüzleşti ve Kızıl Melek'i 100 Terra yıllığına sürgün etmeyi başardı — ama bu zafer hayatına mal oldu. 'Primarch'ı yenen adam' olarak Grey Knights'ın en büyük şehitlerinden biri.
 
 -# Kaynaklar: *Fandom wiki*
 

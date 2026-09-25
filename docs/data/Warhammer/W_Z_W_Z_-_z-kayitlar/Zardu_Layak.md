@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/12/Crimson_Apostle.jpg/r
 
 ## Tarihçe
 
-Zardu Layak, Word Bearers'ın en gizemli ve güçlü Apostle'ıdır; 'Kara Sözcü' lakabıyla daemon-dilinin ustasıdır — Horus'un Davin'deki Chaos'la ilk gerçek temasını yöneten figür, Ultramar seferinin karanlık mimarlarından.
+Zardu Layak — 'Kızıl Havari', 'Üç Kez Doğan', 'Ruhların Bağlayıcısı', 'Konuşmayanın Sesi' — Word Bearers'ın Dark Apostle'ı ve 'Unspeaking' bölüğünün hırslı komutanıydı. Calth'taki katliamda kilit figürlerden biri olarak bilinen bu adam, 'kelimeyi katliamla yazan' fanatik olarak lejyonun en korkulan din adamı-savaşçılarından biriydi.
 
 -# Kaynaklar: *Fandom wiki*
 

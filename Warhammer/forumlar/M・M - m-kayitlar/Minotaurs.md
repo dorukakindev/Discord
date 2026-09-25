@@ -45,6 +45,10 @@ Savaşın seyri boyunca Minotaurs, secessionist kuvvetlere karşı amansız bir 
 
 Minotaurs'un Badab'daki en ağır ve en uzun mücadelesi **Lamenters**'a karşı verildi. Blood Angels soyundan gelen, zaten talihsizliğiyle bilinen bu Chapter, Minotaurs'un kesintisiz saldırıları altında ağır kayıplar verdi ve sonunda teslim oldu. Kaynaklar bu çatışmayı savaşın en kanlı bölümlerinden biri olarak kaydeder; zafer, Minotaurs'a da ciddi kayıplara mal oldu. Kaynaklar kesin sayı vermediği için burada tahmin yürütülmez; iki Chapter arasındaki ilişkinin savaştan sonra nasıl seyrettiği de ayrıntılı biçimde anlatılmaz.
 
+## Tarihçe
+
+Minotaurs, gerçek kökeni ve genetik soy hattı bilinmeyen sadık Space Marine chapter'ıdır; bugünkü Minotaurs'un geçmiş kayıtlarıyla benzerliği azdır — tarihi bilinçli olarak silinmiş görünür. High Lords'un 'kişisel silahı' olarak bilinen bu chapter, 'gizemli cellat' olarak İmparatorluk'un en korkulan sadık figürlerinden.
+
 ## Kefaret ve Sonrası
 Badab War sona erdiğinde teslim olan Chapter'lar yok edilmedi. Mantis Warriors, Lamenters ve Executioners'a, genellikle yüz yıllık olarak aktarılan **Penitent Crusade**'ler üstlenmeleri şartıyla af gösterildi. Minotaurs'un bu kefaret seferlerinin gözetiminde resmî bir görev üstlenip üstlenmediği ise kaynaklarda açıkça belirtilmez. Okurlar arasında Chapter'ı Terra adına kefaret sürecini izleyen bir bekçi olarak görme eğilimi yaygındır; ancak arşiv bunu kesin bir kurumsal rol olarak sunmaz.
 

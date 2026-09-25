@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial
 
 ## Tarihçe
 
-Etrogar, Iron Warriors'ın Warpsmith'i olarak Talledus Savaşı'nda Dark Apostle'ın emrindeki Iron Warriors birliğini komuta etti — daemon-makine füzyonunun ustalık örneği.
+Etrogar, Iron Warriors'ın Warpsmith'i olarak Talledus Savaşı'nda Dark Apostle'ın komutasındaki Iron Warriors birliğini yönetti; daemon-makine füzyonunun ustası olarak bilinen 'demir büyücü'.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058639726772305>

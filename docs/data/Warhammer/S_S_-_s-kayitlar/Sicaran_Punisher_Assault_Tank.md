@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/df/SicaranPunisher002.pn
 
 ## Tarihçe
 
-Sicaran Punisher, standart Sicaran'ın yakın-destek varyantı; heavy bolter düzeniyle 'mermi sağanağı' üreten piyade-kırıcı platform.
+Sicaran Punisher, Sicaran ana-muharebe tankının piyade-kırıcı taarruz varyantıdır; standart modelin sofistike Herakles Accelerator Autocannon çiftini dev bir 'Punisher Rotary Cannon' ile değiştirir. Cerberus tanklarından miras bu top, yakın mesafede piyade saflarını 'siler' gibi temizler. Büyük Sefer'in son yıllarında ortaya çıkmış olsa da baskı-gücüyle efsanevi bir ün kazanmıştır; günümüzde hayatta kalan örnekleri chapter'ların en saldırgan komutanlarının tercihidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553059847967215627>

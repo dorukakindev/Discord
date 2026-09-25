@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Ultramarines_Livery.jpg/revision/latest?cb=20160501032216
 
+## Tarihçe
+
+Ultramarines, İmparatorluk'un en güçlü ve en onurlu Space Marine chapter'larından biri sayılır; Heresy sonrası İmparatorluk'u neredeyse tek başına ayakta tutan figürlerdi. Disiplinli ve cesur savaşçılar olarak Codex Astartes'in sadık uygulayıcılarıdır — 'mavi dev' olarak İmparatorluk'un 'örnek chapter'ıdır.
+
 https://static.wikia.nocookie.net/warhammer40k/images/2/2d/Ultramarines_Livery.jpg/revision/latest?cb=20160501032216
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

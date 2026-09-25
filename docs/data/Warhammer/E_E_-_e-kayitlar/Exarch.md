@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Asurmen_Art.jpg/revis
 
 ## Tarihçe
 
-Exarch, bir Aspect Warrior tapınağının kalıcı lideridir — Path of the Warrior'a o kadar gömülmüştür ki bir daha çıkamaz; tapınağın shrine'ında kutsal eşya gibi saklanır ve savaş zamanında en güçlü Aspect zırhını giyip birliğine komuta eder. Her Aspect'in kendi Exarch'ı vardır ve Exarch'ların yarı-canlı zırhları önceki taşıyıcıların ruh izlerini taşır.
+Exarch, Path of the Warrior'da kendini kaybedip bir daha ayrılamayan eski Craftworld Aeldari Aspect Warrior'udur; artık Aspect Shrine'ının kalıcı rahibi ve savaş lideridir. Yaşayan savaş zırhı ve shrine'ın ruh taşlarıyla beslenen bu figürler, 'yolda kalan' olarak Aeldari'nin hem en değerli hem en trajik askerleridir — Phoenix Lord'ların da temelidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877536021717073>

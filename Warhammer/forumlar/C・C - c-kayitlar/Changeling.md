@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/96/TheChangeling2.png/re
 
 ## Tarihçe
 
-Changeling, Tzeentch'in en gizemli Herald'ıdır; başkasının yüzünü ve kimliğini çalıp her şekle girebilen — İmparatorluk'ta 'tahmin edilemez' sayılan, sabotaj ve yanılmanın efendisi.
+Changeling — 'Tzeentch'in Hilebazı' — Değişim'in Lord'unun daemonik Herald'ıdır; Tzeentch'in anlaşmazlık ve güvensizlik tohumu ekme sevgisini ve çarpık mizah anlayışını bedenleştirir. Tzeentch ona uzun zaman önce 'doppelganger' yeteneği bahşetti — başka varlıkların biçimini mükemmel taklit ederek sızar ve komploları içeriden çökertir. 'Hiçbir yüzün sahibi' olarak en tehlikeli ajan-daemon'dur.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -24,6 +24,10 @@ Iron Warriors, Isstvan V'te ihanetin ikinci dalgası içinde yer aldı. Heresy b
 
 Siege of Terra'da Perturabo, Imperial Palace'ı savunan Rogal Dorn'un tahkimatlarını düşürme işinin başına getirildi. Kuşatma, iki büyük mühendisin kişisel bir rekabete dönüşen düellosu olarak anlatılır. Siege of Terra romanları, Perturabo'nun kuşatmanın ilerleyen safhasında Horus'a duyduğu hoşnutsuzlukla sahneden çekildiğini aktarır.
 
+## Tarihçe
+
+Iron Warriors, Heresy sırasında Chaos'a dönen dokuz İlk Kuruluş hain lejyonundan biridir; orijinal IV. Lejyon olarak kuşatma kırma ve tahkimat yıkımında uzmanlaşmışlardı. 'Demir içinde demir' olarak Perturabo'nun acımasız mühendis savaşçıları — 'kuşatmanın efendisi' olarak İmparatorluk'un en inatçı düşmanı.
+
 ## Heresy Sonrası: Medrengard ve Warsmith'ler
 Horus'un yenilgisinin ardından Iron Warriors, Eye of Terror'a çekildi. Perturabo, Chaos tanrılarının lütfuyla Daemon Prince'liğe yükseldi ve Legion'un yeni merkezi olan Medrengard adlı daemon dünyasına yerleşti. Kaynaklar, Primarch'ın bu dünyadaki kalesinde uzun süre inzivaya çekildiğini ve Legion'un günlük işlerine nadiren karıştığını anlatır.
 

@@ -38,6 +38,10 @@ Dönüş seferi, Sicarius'un portresine bir kefaret teması ekler. Aynı kaptan,
 
 Bu belirsizlik, karakter için de anlamlıdır. Sicarius'un Damnos'tan sonra değişip değişmediği, kibrinin törpülenip törpülenmediği sorusu kaynaklarda açık bırakılmış gibidir. Kimi anlatımlar onu hâlâ aynı gözü kara kaptan olarak gösterir; kimi anlatımlar ise yenilginin ona bir ağırlık, bir ölçülülük kattığını ima eder. Okuyucunun önünde tek bir cevap yerine, bir komutanın başarısızlıkla nasıl yaşadığına dair açık uçlu bir portre durur.
 
+## Tarihçe
+
+Cato Sicarius, Ultramarines'in eski 2. Bölük kaptanı ve şu anki Victrix Honour Guard komutanıdır; 'Nöbetin Efendisi' (şu an Demetrian Titus'a verilmiş), 'Macragge Şövalye Şampiyonu', 'Talassar Büyük Dükü' ve 'Ultramar Yüksek Süzereni' unvanlarını taşımıştır. Ultramarines'in en büyük kahramanlarından biri ve Marneus Calgar'ın muhtemel halefi sayılır — gururlu, gösterişli ama tartışmasız yetenekli bir savaşçıdır. Warp'ta kaybolduğu uzun süren bir olaydan Primaris olarak döndü ve hayatta kalma öyküsü onu chapter'ın efsaneleri arasına kattı.
+
 ## Calgar'la İlişki ve Chapter İçindeki Konum
 Marneus Calgar'ın Sicarius'a duyduğu güven, kaynaklarda tekrar tekrar vurgulanır. Chapter Master, genç kaptanın cesaretine ve yeteneğine alan tanır; en zor görevleri ona emanet eder ve Damnos'tan sonra da bu güveni geri çekmez. Chapter'ın resmî olarak Sicarius'u yenilgi nedeniyle cezalandırdığına dair bir anlatım yoktur. Calgar'ın tavrı, kendi komuta anlayışının bir yansıması olarak okunabilir: hatayı bir son değil, bir komutanın olgunlaşma sürecinin parçası olarak görmek.
 

@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Balphomael%2C_the_Hor
 
 ## Tarihçe
 
-Brotherhood of the Horned Darkness, Calixis Sektörü kökenli daemonik bir kaos tarikatıdır; daemonlarla sözleşme ve karanlık sakramentler üzerine kuruludur.
+Boynuzlu Karanlık Kardeşliği, tehlikeli ve son derece organize bir malefik Chaos kültüdür; kökeni ve faaliyetleri bazı kaynaklara göre Calixis Sektörü'nün kuruluşuna, hatta öncesine dayanır. Yüzyıllar boyunca defalarca ezilmesine rağmen her seferinde birkaç yıl ya da onyıl sonra yeniden ortaya çıktı. Üyelik, boyut, biçim ve güç değişse de sabit kalan şey Balphomael ('Boynuzlu Karanlık') adlı karanlık varlığa tapınmalarıdır — 'asla tam yok edilemeyen kült' olarak sektörün kalıcı lanetlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -11,7 +11,7 @@
 
 ## Tarihçe
 
-Yssarile, Tzeentch'in o kadar güçlü Daemon Prince'iydi ki 'daemon-kral' ilan edildi; sonunda Tzeentch'in gücünü gasp etmeye kalkıp başarısız oldu — 'tanrıyı bile aldatmaya çalışan' efsane.
+Yssarile, Tzeentch'in o kadar güçlü Daemon Prince'iydi ki 'Daemon-kral' olarak selamlandı; sonunda efendisinin gücünü gasp etmeye çalıştı ama başarısız olup eski efendisinin elinde Gerçek Ölüm'ü tattı. Malus Codicium'a göre Değişim'in teğmeni, savaş lordu ya da prensiydi — 'tanrısına isyan edip silinen' figür olarak Chaos'un kendi iç savaşının örneğidir.
 
 -# Kaynaklar: *Fandom wiki*
 

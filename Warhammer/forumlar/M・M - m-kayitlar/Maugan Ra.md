@@ -53,6 +53,10 @@ Bu hikâyenin ayrıntıları, yani Maugan Ra'nın Eye'a ne zaman ve nasıl girdi
 
 Bu olay, Phoenix Lord'ların Asuryani dünyasındaki rolüne yeni bir boyut da ekler. Maugan Ra burada yalnızca bir savaşçı değil, kayıp bir halkı ölümden, ya da Aeldari'nin ölümden bile beter saydığı bir kaderden, geri çağıran bir figür olarak görünür. Harvester of Souls unvanının bu hikâyede neredeyse ters bir anlama bürünmesi, yani ruhları biçen değil kurtaran bir figüre dönüşmesi, pek çok okuyucunun dikkatini çeker; ancak bu da arşivin yorumudur.
 
+## Tarihçe
+
+Maugan Ra — 'Ruhların Biçici'si' — Craftworld Aeldari'nin Dark Reaper Aspect Warriors'ının kurucusu ve Phoenix Lord'udur. Altansar craftworld'ü Eye of Terror'dan kurtaran figür olarak 'karanlıktan dönen' efsanedir; 'Maugetar' reaper launcher'ıyla ölüm biçen bu Phoenix Lord, 'hasatın efendisi' olarak en korkulanıdır.
+
 ## Dönüşün Gölgesi: Kuşku ve Kabul
 
 Altansar'ın dönüşü, Aeldari dünyasında sevinçten çok tedirginlikle karşılandı. Binyıllarca Eye of Terror'un içinde kalmış bir craftworld'ün, Warp'ın ve Slaanesh'in etkisinden nasıl korunabildiği sorusu kolayca yanıtlanamazdı. Öteki craftworld'lerin bir kısmı Altansar'a derin bir kuşkuyla baktı: dönenler gerçekten eski Altansar'ın halkı mıydı, yoksa Chaos'un Aeldari kılığına soktuğu bir tuzak mı?

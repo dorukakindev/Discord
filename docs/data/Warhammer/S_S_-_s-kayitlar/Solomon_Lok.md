@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/41/Inquisitor-Ordo_Xenos
 
 ## Tarihçe
 
-Solomon Lok, Chincare'deki Hrud istilasını yaşamış Ordo Xenos Inquisitor Lord'udur; bir Adeptus Mechanicus araştırma istasyonuyla ani iletişim kesintisini araştırmakla görevlendirildi — 'Hrud'un kör noktası' onun konusudur.
+Solomon Lok — Chincare'deki Hrud istilası gazisi — Ordo Xenos'un Inquisitor Lord'uydu; Beta Anphelion IV'teki İmparatorluk Adeptus Mechanicus biyolojik araştırma tesisiyle ani iletişim kaybını araştırmakla görevliydi. 850.M41'deki 'Anphelion Projesi' olaylarında öldüğü sanılır — 'kaybolan dedektif' olarak Inquisition'un çözülememiş dosyalarından biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fe/World_Eaters_Icon.png
 
 ## Tarihçe
 
-Kossolax ('Yemin Bozan'), Abaddon'un 13. Kara Seferi'ni destekleyen ünlü Chaos Lord; Khorne'un hizmetindeki warband'ıyla İmparatorluk aleyhine savaştı.
+Kossolax — 'Yemin Bozan', bazen Kosolax yazılır — Abaddon'un 13. Kara Seferi'ni destekleyen kötü şöhretli Chaos Lord'dur. World Eaters'ın dağılmış saflarından toplanmış 'Foresworn' adlı büyük Khornate Berserker warband'ini yönetir; Cadia'nın düşüşüyle sonuçlanan son büyük harekâtta aktif rol oynadı. 'Kanlı yemin'in taşıyıcısı olarak World Eaters'ın modern kaosunun simgelerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058635947577395>

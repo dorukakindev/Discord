@@ -22,6 +22,10 @@ Bu dönemin en belirgin figürü, Legion'ın First Captain'ı ve kuşatma sıras
 
 Siege'in sonunda Horus öldü, ama Dorn'un gözünde bu bir zafer değildi. Emperor'ın Golden Throne'a bağlanması, Sanguinius'un ölümü ve Palace'ın harabeye dönmesi, onu Heresy sonrası yıllarda derin bir yas ve suçluluk duygusuyla baş başa bıraktı.
 
+## Tarihçe
+
+Imperial Fists, İlk Kuruluş chapter'larından biridir ve İmparator'un Birleşme Savaşları sırasında Terra'dan yükselttiği VII. Legiones Astartes'ti; sabit homeworld'ü olmamasıyla diğerlerinden ayrılır — hareketli kale-manastır Phal
+
 ## Scouring, Codex ve Bölünme
 Great Scouring sırasında Imperial Fists, kaçan Traitor Legion'ların peşine düştü. Bu takibin en ağır yarası **Iron Cage** olarak anılan pusudur: Perturabo, Dorn'un kuvvetlerini tahkim edilmiş bir tuzağa çekerek Legion'ı yok oluşun eşiğine getirdi. Kaynaklar, Imperial Fists'in ancak dışarıdan gelen yardımla, Ultramarines'in müdahalesiyle kurtarıldığını anlatır. Dorn başlangıçta Guilliman'ın Codex Astartes'ine, özellikle Legion'ların bölünmesi fikrine sert biçimde karşı çıkmıştı; Iron Cage felaketinden ve Chapter geleneğinin Pain Glove'la ilişkilendirdiği kişisel bir kefaretten sonra Codex'i kabul etti.
 

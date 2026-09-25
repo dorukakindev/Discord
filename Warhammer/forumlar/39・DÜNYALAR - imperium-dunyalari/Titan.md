@@ -22,4 +22,7 @@ Titan'dan, Warp'ın iblislerine ve tanımlanamaz dehşetlere karşı, asla resmi
 
 Titan, insanlığın en karanlık tehdidine (Kaos iblisleri) karşı en gizli ve en saf savunma hattıdır; sıradan insanların ve hatta çoğu Space Marine'in habersiz olduğu bir gizli savaşın merkezi. O, kutsal Sol Sistemi'nin içinde saklı, gümüş zırhlı şampiyonların karanlığa karşı sessizce nöbet tuttuğu, İmparatorluğun en gizemli ve en kritik kalelerinden biridir.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Titan — halk arasında 'tanrı-motor' veya 'tanrı-makinesi' — Titan Legions (Collegiate Titanica) tarafından savaşta kullanılan devasa, mür

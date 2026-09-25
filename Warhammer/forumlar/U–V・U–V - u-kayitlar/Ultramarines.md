@@ -28,6 +28,10 @@ On bin yıl boyunca Ultramarines, Ultramar'ı korurken Imperium'un dört bir yan
 
 Chapter ayrıca Orks, Chaos kuvvetleri ve Aeldari ile sayısız çatışmaya girdi. Uriel Ventris'in 4. Company ile girdiği seferler ve yaşadığı sürgün, Black Library'nin Ultramarines serisinde ayrıntılı biçimde anlatılır.
 
+## Tarihçe
+
+Ultramarines, İmparatorluk'un en güçlü ve en onurlu Space Marine chapter'larından biri sayılır; Heresy sonrası İmparatorluk'u neredeyse tek başına ayakta tutan figürlerdi. Disiplinli ve cesur savaşçılar olarak Codex Astartes'in sadık uygulayıcılarıdır — 'mavi dev' olarak İmparatorluk'un 'örnek chapter'ıdır.
+
 ## Kültür, İnanç ve Doktrin
 Ultramarines, Codex Astartes'i yalnızca bir savaş el kitabı değil, bir düşünce sistemi olarak görür. Chapter'ın öğretisi esnekliği, planlamayı ve her savaş rolünün diğerini tamamlamasını esas alır; bu yüzden Ultramarines'in güçlü yanı tek bir alanda üstün olmaktan çok bütün savaş biçimlerini dengeli yürütebilmektir. Chapter kültürü, Guilliman'ın klasik ve pratik devlet anlayışından beslenir: görev, düzen, kardeşlik ve Ultramar'a hizmet.
 

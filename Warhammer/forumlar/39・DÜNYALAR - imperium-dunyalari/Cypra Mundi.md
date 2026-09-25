@@ -19,3 +19,7 @@ Cypra Mundi, Adeptus Mechanicus'a ait büyük bir Forge World ve aynı zamanda S
 Bir Forge World olarak Cypra Mundi, devasa bir sanayi ve üretim merkezidir; İmparatorluğun savaş makinesini besleyen silah, mühimmat ve gemiler burada üretilir. Ama asıl stratejik önemi, askeri rolünden gelir; Segmentum Obscurus'taki İmparatorluk donanmasının (Navis Imperialis) geleneksel merkezidir. Donanma subayları genellikle Cypra Mundi'nin aristokrasisi arasından seçilir; gezegen, segmentum'un askeri kültürünün ve komuta zincirinin kalbidir.
 
 Cypra Mundi, aynı zamanda Collegium Analytica'nın anavatanıdır; bu kurum, devam eden İmparatorluk askeri gelişmeleri üzerine metinler yayımlar ve donanma stratejistlerini eğitir. Gezegenin savunması, yörüngesindeki altı ila sekiz devasa savunma kalesinden oluşan bir halka ile sağlanır; Göz'ün gölgesindeki bir bastiyon olarak, sürekli bir teyakkuz halindedir.
+
+## Tarihçe
+
+Cypra Mundi, Adeptus Mechanicus'un Forge World'ü ve Segmentum Obscurus'un — Eye of Terror'u da içeren Segmentum Majoris'in — ana İmparatorluk donanma ve askeri üssüdür, yani Segmentum Fortress'i. Administratum'un 'master' rütbeli bir memurunun doğrudan

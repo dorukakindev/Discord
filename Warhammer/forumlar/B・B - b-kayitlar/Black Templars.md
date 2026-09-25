@@ -30,6 +30,10 @@ Bu dağınık ve özerk yapı, Chapter'ın toplam büyüklüğünü belirsizleş
 ## Doktrin ve Savaş Tarzı
 Black Templars yakın dövüşü, hızlı taarruzu ve düşmana doğrudan yürümeyi yüceltir. Land Raider'lar ve Impulsor gibi taşıtlarla hatta ulaşan, Chaplain vaazıyla kızışan dalgalar halinde saldıran Crusader'lar, taktik esneklikten çok amansız bir çarpışma iradesine yaslanır.
 
+## Tarihçe
+
+Black Templars, Imperial Fists'in gen-seed'inden gelen ve primarch'ları Rogal Dorn olan sadık İkinci Kuruluş Space Marine chapter'ıdır; kökenleri Heresy'de Terra'nın savunmasına dayan
+
 ## M41: Armageddon ve Helsreach
 Chapter'ın modern dönemdeki en ünlü seferi, Ghazghkull Thraka'nın başlattığı Third War for Armageddon'dur. High Marshal **Helbrecht**, Chapter'ın büyük bir kısmını Armageddon'a getirerek hem gezegen yüzeyinde hem de yörüngede Ork'lara karşı Imperium'un en inatçı kuvvetleri arasında yer aldı. Bu savaşın en çok bilinen bölümü Helsreach hive kentinin savunmasıdır: Aaron Dembski-Bowden'ın *Helsreach* romanında anlatıldığı üzere Chaplain **Grimaldus**, kentin savunmasına katılan Black Templars'ın başında, kaybedildiği apaçık bir şehirde uzun süre direndi. Grimaldus'un bu savaştan az sayıda kardeşiyle sağ çıkması ve Chapter'ın Helsreach'i onun adıyla anması, Chapter tarihinde yenilginin bile bir onur anlatısına dönüşebildiğini gösterir.
 

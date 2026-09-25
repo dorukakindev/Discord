@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Brightsword.jpg/revis
 
 ## Tarihçe
 
-Brightsword ('Parlak Kılıç'), T'au İmparatorluğu'nun en genç efsanevi komutanlarından biridir; Farsight Enclaves'ın 'yıldız' generali — O'Shovah'ın öğrencisi.
+Commander Brightsword — Shas'o Tash'var Ol'nan B'kak, kısaca O'var — T'au askeri subayı ve Commander Farsight'ın öğrencisiydi; Es'tau karakol dünyasının komutanıydı. 'Brightsword' unvanı sonradan altı T'au savaşçısına daha aktarıldı — Farsight Enclaves'in 'yaşayan komuta geleneği' olarak unvanı devralan her komutan aynı adı taşır; yani Brightsword bir kişi değil, bir miras zinciridir.
 
 -# Kaynaklar: *T'au Codexi*, *Farsight romanları*
 -# İlişkili kayıtlar: <#1552848744033296384>

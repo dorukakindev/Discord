@@ -23,6 +23,10 @@ Codex anlatılarının öne çıkardığı eylemlerden biri Andante IV'tür: Ult
 
 Eldrad'ın uzun ömründe kaç kez bu türden müdahalede bulunduğu, hangilerinin başarılı olduğu kaynaklarda ayrıntılı bir liste olarak verilmez. Ona atfedilen başarıların bir bölümü evren içi anlatılardan, Ulthwé'nin kendi aktarımlarından beslenir; bunları nesnel bir sicil gibi okumamak gerekir.
 
+## Tarihçe
+
+Eldrad Ulthran, Ulthwé craftworld'ünün en güçlü ve en kadim Farseer'ıdır; Fall'dan sonra Aeldari arasında doğmuş en yetenekli psyker sayılır ve inanılmaz öngörüsüyle binlerce Asuryani'nin hayatını kurtardı. 'Geleceği yazan' olarak Phoenix Lord'lar dahil herkesten saygı gören figür — 'Aeldari'nin yaşayan kehaneti'.
+
 ## Ölüm Anlatıları ve Çelişkiler
 
 Eldrad, Warhammer 40,000 yayın tarihinde birden fazla kez "ölmüş" karakterlerden biridir ve bu ölümler birbirini her zaman açıkça iptal etmez.

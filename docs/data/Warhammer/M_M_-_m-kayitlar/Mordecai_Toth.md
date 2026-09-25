@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/76/Toth.jpg/revision/lat
 
 ## Tarihçe
 
-Mordecai Toth, Dawn of War oyununda Gabriel Angelos'la birlikte çalışan İmparatorluk Inquisitor'udur; 'Daemon'ların karşısında İmparatorluk'un insani yüzünü temsil eder.
+Mordecai Toth, Ordo Malleus'un Tartarus'a gönderdiği Inquisitor'dü; Blood Ravens'ı gezegene çarpmak üzere olan Warp fırtınası hakkında uyarmak ve o lanetli dünyada faaliyet gösteren Chaos güçlerini bulup temizlemekle görevliydi. Başta Blood Ravens'ın Force Commander'ı Kaptan Gabriel Angelos'tan şüphelendi — 'doğru ihbar, yanlış şüpheli' olarak Dawn of War evreninin ilk Inquisitor yüzüdür.
 
 -# Kaynaklar: *Fandom wiki*
 

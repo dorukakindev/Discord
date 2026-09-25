@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/06/Vile_Savants.png/revi
 
 ## Tarihçe
 
-Vile Savants, Nurgle'a bağlı devasa vebalı daemon varlığıdır; Vraks'ın biyolojik depolarında ortaya çıkıp kuşatmayı cehenneme çevirdi — 'yaşayan veba' olarak bilinir.
+Vile Savants, doğrudan Nurgle'a hizmet etmiş ölümlülerin hayatını alan hastalıkların daemonik bedenlenişleridir — kurbanların bir zamanlar giydiği çürüyen et kalıntılarına bürünmüş veba avatarlarıdır. Kirle parlayan mühürlü koruyucu kıyafetler giyen figürler olarak görünürler; 'hastalığın kendisi yürür' kavramının canlı halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

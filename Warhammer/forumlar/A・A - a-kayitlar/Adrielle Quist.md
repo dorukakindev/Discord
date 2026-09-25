@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Adrielle_Quist.png/re
 
 ## Tarihçe
 
-Adrielle Quist, Ordo Xenos Inquisitor'ü olarak Achilus Seferi'nde görev yapar; Jericho Reach'in 'geri alınması' operasyonunun Inquisition temsilcilerinden.
+Adrielle Quist, Ordo Xenos'un Inquisitor'ü olarak Jericho Reach'i geri alma seferi Achilus Seferi'nde görev yapıyor. İlk olarak Inquisitor Hezika Carmillus tarafından olağanüstü telepatik yetenekleriyle fark edildi; keskin, araştırmacı zihni onu diğer acolyte'lerden ayırdı ve Interrogator'ken az sayıda kişinin alındığı 'Tower' eğitiminden geçti. Psişik yeteneğiyle 'xenos zihinleri okuyan' kadın olarak seferin istihbarat kalbinde yer alır.
 
 -# Kaynaklar: *Fandom wiki*
 

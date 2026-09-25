@@ -44,6 +44,10 @@ Death Guard'ın inancı, Nurgle'ın döngüsel "yaşam" anlayışına dayanır: 
 ## Savaş Tarzı
 Legion, yıpratma savaşının ustasıdır. Plague Marine'ler yavaş ve kararlı biçimde ilerler, düşman ateşini sindirir ve toksin yüklü bıçaklar, blight grenade'ler ve plague belcher'larla düşmanın dayanma gücünü tüketir. Death Guard kuşatmaya değil, zehirlemeye gider: bir dünyayı önce hastalıkla çökertir, sonra harabesini ele geçirir. Plagueburst Crawler'lar ve Foetid Bloat-drone'lar gibi daemonik makineler bu düzenin mekanik uzantılarıdır.
 
+## Tarihçe
+
+Death Guard, Chaos Space Marines'in Hain Lejyonlarından biridir; Chaos Tanrısı Nurgle'a ibadet edip mutasyonel 'armağanları'yla Plague Marine'ler olmuş figürler — güç zırhları içinde ebe
+
 ## Önemli Figürler
 **Mortarion**, Death Guard'ın Daemon Primarch'ıdır. Dev bir tırpan olan *Silence*'ı taşır ve Nurgle'ın ona sunduğu kanatlı, çürümüş bedene bürünmüştür. Kişiliği bir çelişkiden beslenir: Warp güçlerinden nefret eden biri olarak onlara boyun eğmiştir. Babasına ve özellikle Roboute Guilliman'a karşı duyduğu öfke Great Rift sonrası dönemde yeniden alev almıştır.
 

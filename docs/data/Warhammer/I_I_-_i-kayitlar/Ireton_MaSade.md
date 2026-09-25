@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Equis_Astra_60th_Exp_
 
 ## Tarihçe
 
-Ireton MaSade, İmparatorluk'un yaşlı Lord Commander Militant'ıydı; Vraks Kuşatması'nın ilk yıllarını yöneten ve Death Korps'a komuta eden — 'son büyük kuşatmacı' figürü.
+Ireton MaSade, Büyük Sefer'de Imperial Army'nin lord marshal'ı ve Excertus Imperialis birliklerinin örnek savaşçısıydı. Basit bir asker olarak orduya katılıp hızla yükseldi ve 60. Sefer Filosu'nun Solar Auxilia kohortlarını yönetti — 'sıradan insanın Astartes seviyesine çıkışı' olarak İmparatorluk ordusunun en ünlü figürlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

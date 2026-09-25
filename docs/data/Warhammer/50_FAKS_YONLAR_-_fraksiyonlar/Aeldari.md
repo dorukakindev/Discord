@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429
 
+## Tarihçe
+
+Aeldari (dışarıdan uzun süre Eldar olarak bilinenler), geniş bir imparatorluğu bir zamanlar galaksinin uçtan uca uzanan kadim ve son derece gelişmiş insansı xenos türüdür; zamanında eşi yoktu ama 'Fall' felaketiyle çöktü. Hayatta kalanları Asuryani (craftworld sakinleri), Drukhari, Exodite ve Harlequin olarak bölündü — 'sonbaharın halkı' olarak ölümcül güzellik ve trajedinin bedeni.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Aeldari — Asuryani (Craftworld Eldar)

@@ -31,6 +31,10 @@ Fenris, Imperium'un bir parçası olmakla birlikte, Chapter'ın kendi yurdu üze
 
 Fenris sisteminin öteki dünyaları ve ayları da anlatılarda yer alır, ancak bunların isimleri ve rolleri dönemden döneme değişen, sınırlı ayrıntılarla işlenmiştir.
 
+## Tarihçe
+
+Fenris, Segmentum Obscurus'taki Death World'dür — 'Vlka Fenryka' yani Space Wolves'un homeworld'ü ve asker kaynağı; aynı zamanda Primarch Leman Russ'ın dünyası. Space Wolves'un devasa kale-manastırı The Fang'ın bulunduğu bu gezegen, İmparatorluk'un en zorlu iklimlerinden birine sahiptir — 'kurtların diyarı' olarak chapter'ın efsanevi kimliğinin kökeni.
+
 ## Battle of the Fang
 Prospero'nun yakılışından doğan kin, Fenris'i Thousand Sons'ın başlıca intikam hedefi yaptı. Chris Wraight'ın *Battle of the Fang* romanı, Heresy'den sonraki dönemde Thousand Sons'ın, Chapter'ın büyük kısmının uzakta bulunduğu bir anda Fenris'e ve Fang'e yönelttiği büyük saldırıyı anlatır. Chapter'ın kuvvetlerini yurttan uzaklaştıran bir aldatmaca ve dağın içinde koridor koridor süren umutsuz bir savunma, bu kuşatmanın ana çizgileridir. Anlatı, Fang'in ilk kez kendi kapılarında kuşatıldığı an olarak Chapter belleğinde yer alır; olayın kesin tarihi ise kaynaklarda farklı biçimlerde verilir.
 

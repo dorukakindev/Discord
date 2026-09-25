@@ -33,6 +33,10 @@ Bu noktadan sonra Legion, uğradığı saldırının intikamı ve hayatta kalabi
 ## Göz'ün İçinde
 Heresy sonrası Legion, **Planet of the Sorcerers** olarak bilinen daemon dünyasına yerleşti. Burada yeniden baş gösteren flesh-change, Ahriman'ın öncülüğünde yapılan ve Legion'ın geleceğini kalıcı biçimde değiştiren **Rubric of Ahriman** ritüeline yol açtı (ayrıntılar için <#1551808728062501019>).
 
+## Tarihçe
+
+Thousand Sons, Chaos Space Marines'in Hain Lejyonlarından biridir; bir zamanlar İmparatorluk'un XV. Lejyonu'ydu ama şimdi değişim, entrika ve büyü tanrısı Tzeentch'e yeminlidir. Diğer hainlerden onları ayıran ana özellik: her üyenin psişik güçlü 'büyücü-denizci' olması — 'tozdan doğan lejyon' olarak Prospero'nun küllerinin bedenidir.
+
 ## Yapı ve Organizasyon
 Rubric'in ardından Legion iki ana unsurdan oluşur: ritüelden sağ çıkan ve güçleri daha da artan psyker sorcerer'lar ile ruhları zırhlarına mühürlenmiş, bedenleri toza dönmüş **Rubric Marine**'ler. Rubric Marine'ler bilinçleri bulanık, neredeyse otomata benzeyen savaşçılardır ve Aspiring Sorcerer'ların iradesiyle yönlendirilir. Terminator zırhlı **Scarab Occult** birlikleri de aynı lanetin ağır zırhlı bir biçimidir.
 

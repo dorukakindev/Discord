@@ -10,7 +10,7 @@
 
 ## Tarihçe
 
-Oan Mkoll, Tanith First-and-Only'nin izci çavuşu; Tanith'in yıkım günü orduda yazılan 'Ghosts'un en yetenekli gözlemcisi — 'Ghost' lakabını bizzat şekillendiren figürlerden.
+Oan Mkoll, Tanith First-and-Only'nin (Gaunt's Ghosts) izci çavuşu ve Imperial Guard'ın en yetenekli izcilerinden biridir. Orman dünyası Tanith'in yıkıldığı gün orduya katıldı ve 'Ghosts'un eşsiz izci birliğinin liderliğini üstlendi — hem eğitimlerini yönetir hem de savaşta onlara öncülük eder. Normal insanların yenemeyeceği düşmanları bile alt etmiş olsa da asıl hüneri gizliliktedir: düşman topraklarının derinliklerine fark edilmeden sızabilir ve kendi askerlerini gereken yere görülmeden götürebilir. Tanith'in sürekli değişen ormanlarında büyüyen Mkoll, 'ormanın ruhunu' Ghosts'un savaş doktrini yaptı.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057480672804914>

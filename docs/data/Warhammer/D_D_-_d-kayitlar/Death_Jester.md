@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Death_Jester_updated.
 
 ## Tarihçe
 
-Death Jester, Harlequins'in 'kara palyaço' figürüdür; sahnede ölüm ve kaderi oynayan bu maskeli savaşçı, hem oyuncu hem katildir — 'gülünç ölüm' metaforunun bedeni.
+Death Jester ('margorach' — Aeldari Lügati'nde 'ölüm başı'), Harlequin'lerin ağır silah uzmanı ve cenaze şakacısıdır; Shrieker Cannon ile donanmış bu figür, Masque'un karanlık mizahını savaş alanına taşır. Troupe'a bağlı olmasa da performansın ve ölümün uğursuz birleşimini temsil eder — Harlequin topluluğunun 'kara komedyen'idir.
 
 -# Kaynaklar: *Harlequins Codex*
 -# İlişkili kayıtlar: <#1552848848332787715>

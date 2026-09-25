@@ -61,6 +61,10 @@ Bu süreklilik, Asurmen'in öğretisinin Exarch geleneğiyle nasıl ilişkilendi
 
 **Rhana Dandra.** Asuryani kehanetine göre türün Chaos'a karşı son savaşında dağılmış Phoenix Lord'lar yeniden bir araya gelecek ve Fuegan'ın çağrısıyla son kez birlikte savaşacaktır. Asurmen'in bu son savaştaki rolü, kehanetin kendi dili dışında yayımlanmış kanonda açıklanmaz.
 
+## Tarihçe
+
+Asurmen — doğum adı Iliathin, 'Asuryan'ın Eli' — Craftworld Aeldari'nin ilk ve en eski Phoenix Lord'udur; tüm Aspect Warrior geleneğinin yaratıcısıdır. Aeldari'nin Düşüş'ünden (Slaanesh'in doğuşundan) sağ çıkan Asurmen, halkının hayatta kalmasının tek yolunun öfkeyi disipline etmek
+
 ## Great Rift Sonrası ve Güncel Durum
 
 Great Rift çağında Aeldari dünyası, Yvraine'in ölüm tanrısı **Ynnead** adına başlattığı Ynnari hareketiyle bölündü. Asurmen'in öğrencisi Jain Zar'ın Ynnari'ye katılması, bu tartışmayı Phoenix Lord'ların içine de taşıdı; Asuryani'nin kadim geleneklerinin savunucuları ile Ynnead'in vaadine kulak verenler arasındaki ayrılık, artık Asurya'nın kendi saflarında da görülüyordu.

@@ -10,6 +10,10 @@ Skarbrand'ın hikâyesi, Khorne'un doğasına dair tuhaf bir gerçeği açığa 
 
 Bu kanal Skarbrand'ı bir birey olarak ele alır. Kan Tanrısı'nın doğası <#1551815867845578773>, daemon'ların genel ontolojisi <#1551654107058540595>, Tzeentch'in entrikacı doğası ise <#1551647728692633643> kanalında işlenir.
 
+## Tarihçe
+
+Skarbrand 'Sürgün Edilmiş', Khorne'un en büyük Bloodthirster'larından biriydi — bir zamanlar Blood God'un en sevdiği celladıydı. Ancak Tzeentch'in kışkırtmasıyla efendisine isyan edecek kadar kibirlenen Skarbrand, Khorne'un tahtına saldırmaya kalktı; kılıcı tahtın zırhında küçük bir çentik bile bırakamadı. Khorne onu kanatlarından tutup diyarının en yüksek zirvesinden fırlattı — sekiz gün sekiz gece düştü ve vurduğunda kanatları paramparça, aklı ise sonsuza dek yok oldu. Artık saf öfkenin bedenidir: mantık ve hatıra gitmiş, geriye sadece katliam kalmıştır; 'Bereketin ve Nefretin' çift baltasıyla düştüğü yerden beri savaş meydanlarında dolanır.
+
 ## Yükseliş
 Sürgünden önceki Skarbrand, Codex anlatılarında Bloodthirster'ların önde gelenlerinden biri, Khorne'un ordularının başında sayısız savaşa girmiş ve tanrısının özel lütfuna mazhar olmuş bir komutan olarak anılır. Bu döneme ait ayrıntılı savaşlar ya da adları, yayımlanmış kanonda sınırlı biçimde yer alır; bu arşiv onları doldurmaz. Belirleyici olan, Skarbrand'ın ne kadar yükseğe çıktığıdır, çünkü düşüşünün derinliği bu yükseklikle ölçülür.
 ---MSG---

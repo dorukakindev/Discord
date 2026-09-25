@@ -32,6 +32,10 @@ Adaylar, Imperium'un dört bir yanından psişik yeteneği fark edilen genç erk
 ## Doktrin ve Savaş Tarzı
 Grey Knights nadiren uzun seferlere girer. Prognosticar'ların ve Inquisition'ın uyarılarıyla tehdit belirlendiğinde, teleport ve hızlı gemi saldırılarıyla doğrudan kaynağın üzerine inerler. Aegis zırhları psişik saldırılara karşı koruma sağlar; **Nemesis force weapon**'lar, taşıyanın iradesini kılıca aktararak daemonların Warp'tan ödünç aldıkları bedenleri parçalamak için kullanılır. Storm bolter, psycannon, Terminator zırhı, Nemesis Dreadknight ve Stormraven bu doktrinin araçlarıdır. Grey Knights'a göre bir daemonun gerçek adını bilmek ona karşı kazanılmış bir silahtır; Chapter arşivleri bu yüzden kutsal olduğu kadar tehlikeli sayılır.
 
+## Tarihçe
+
+Grey Knights, Warp'ın tehlikeli daemonik varlıklarıyla ve Chaos tanrılarının yozlaşmış gücünü kullanan tüm ölümlülerle savaşmak için özel görevlendirilmiş gizli ve esrarengiz Space Marine chapter'ıdır; Heresy sırasında İm
+
 ## Kültür, Gizlilik ve Karanlık Bedel
 Grey Knights'ın yaşamı dua, psişik disiplin ve bitmeyen eğitimle örülüdür. Zırhlarına işlenen kutsal metinler, taşıdıkları mühürler ve ezberledikleri ayinler, onların gözünde ruhu Warp'ın fısıltılarına karşı koruyan birer kalkandır.
 

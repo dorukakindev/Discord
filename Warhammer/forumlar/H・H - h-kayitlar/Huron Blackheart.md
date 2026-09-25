@@ -21,6 +21,10 @@ Savaş on yıldan uzun sürdü. Loyalist Chapter'lar secessionist güçleri tek 
 ## Palace of Thorns
 Son perde, Badab'daki tahkimli sarayı **Palace of Thorns**'ta oynandı. Loyalist saldırı sarayın savunmasını parçalarken Huron ölümcül biçimde yaralandı. Buna rağmen bedeni Master of the Forge Armenneus Valthex tarafından kurtarıldı ve sadık Astral Claws savaşçıları kalan kuvvetlerle birlikte, bir zamanlar gözetlemeye yemin ettikleri Maelstrom'a kaçtı.
 
+## Tarihçe
+
+Huron Blackheart (Lufgt Huron), 'Badab'ın Tiranı' ve Red Corsairs'in Chaos Lord'udur — eskiden sadık Astral Claws chapter'ının Chapter Master'ıydı. Badab Savaşı'nı kaybettikten sonra yaralı bedeniyle Maelstrom'a kaçtı ve orada İmparatorluk'un en güçlü korsan donanmasını kurdu; chapter'ının k
+
 ## Blackheart'ın Doğuşu
 Maelstrom'da Huron'un harap bedeni, Chapter'ının hayatta kalan Apothecary'leri ve teknisyenleri tarafından yeniden kuruldu; bedeninin büyük kısmı ağır bionik onarımlarla yenilendi. Pek çok anlatı bu iyileşmenin yalnızca cerrahi değil, Ruinous Powers'la yapılmış bir pazarlığın da ürünü olduğunu aktarır. *Blackheart* lakabı bu yeniden doğuşla birlikte anılır. Astral Claws'ın kalıntıları **Red Corsairs** adıyla yeniden örgütlendi.
 

@@ -21,3 +21,7 @@ Yaklaşık 500 yıl süren bu nükleer iç savaş, Krieg'i radyoaktif, zehirli b
 Krieg halkı, atalarının isyanının utancını ödemek için kendilerini sonsuz bir kefarete adadı; Death Korps of Krieg alayları, kendi ölümlerini bir onur ve arınma görevi olarak görür. Gaz maskeli, yüzü görünmeyen, bireysellikten arınmış bu askerler, en kanlı siper savaşlarına gözlerini kırpmadan, geri çekilmeyi asla düşünmeden dalmasıyla ünlüdür. Vraks Kuşatması gibi cehennemlerde, milyonlarca kayıp pahasına metre metre ilerlediler.
 
 Krieg, fanatik bir kefaret kültürünün ve insan yaşamının değersizleştirilmesinin en uç örneğidir; askerleri ölmek için yaşar ve yaşamak için ölür. Onların gaz maskeli, sessiz ve umutsuz görünüşü, 40K'nın "İmparatorluk için yaşamın hiçbir değeri yoktur, yalnızca görev vardır" felsefesinin en saf, en kasvetli temsilidir; bir gezegenin kendi kendini cezalandırmasının ve bunu nesiller boyu bir erdeme dönüştürmesinin karanlık destanıdır.
+
+## Tarihçe
+
+Krie

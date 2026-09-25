@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Inquisitor_Kryptman.j
 
 ## Tarihçe
 
-Inquisitor Kryptmann, Hive Fleet Behemoth'un Macragge'i istilasından önce tyranid tehdidini ilk fark eden Inquisitor'dür; Tyran ve diğer dünyalardaki yok oluşları araştırıp Imperium'u uyarmıştır. Yaşlanmış ama kurnaz bir Ordo Xenos efsanesi olarak, Hive Fleet Leviathan'ı durdurmak için Ork Octarius İmparatorluğu'na yönlendirme planını tasarladı — iki tehdidin birbirini tüketmesini uman, milyonlarca dünyayı riske atan tartışmalı bir strateji.
+Inquisitor Kryptmann, Ordo Xenos'un efsanevi ve tartışmalı Inquisitor'üdür — Tyranid tehdidini İmparatorluk'un dikkatine ilk getiren ve 'Kryptmann'ın Gambiti' (Genestealer kültünü Ork dünyası Octarius'a yönlendirip iki türü birbirine yedirme) gibi acımasız stratejileriyle bilinen figür. 'Tyranid'in kaşifi' olarak milyonları feda eden 'gerekli adam' figürüdür.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877406694416495>

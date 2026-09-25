@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a2/Arvus2.png/revision/l
 
 ## Tarihçe
 
-Arvus Lighter, İmparatorluk'un her yerde kullanılan küçük yük-mekik'i; personel ve malzeme taşıyan 'uzay kamyonu' — hem Imperial Navy hem sivil filoların bel kemiği.
+Arvus Lighter, İmparatorluk'un en yaygın genel-amaçlı yörünge-yüzey mekiğidir; personel ve malzeme taşımacılığının 'uzay kamyonu'. Hem Imperial Navy hem sivil kurumlarca kullanılan bu basit tasarım, İmparatorluğun lojistik omurgasını oluşturur — 'görünmez ama vazgeçilmez' araç olarak tanınır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058772648460360>

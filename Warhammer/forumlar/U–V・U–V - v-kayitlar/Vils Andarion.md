@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Vils_Andarion.png/rev
 
 ## Tarihçe
 
-Vils Andarion, Ordo Xenos Inquisitor'üdür; Jericho-Maw Warp Gate açıldığından beri Erioch Kalesi'ne çekilen 'ışık figürlerden' — Warp-geçit olgusunun araştırmacısı.
+Vils Andarion, Ordo Xenos'un Inquisitor'üdür; Jericho-Maw Warp Kapısı açıldığından beri Erioch Gözetleme Kalesi'ne çekilen aydınlatıcılardan biridir. Asıl ilgisi kapının kendisidir ama 'Well of Night'ın tehlikeleri onu araştırmalarını Erioch'ta sürdürmeye itmiştir — Warp kapısının sırlarını çözmeye çalışan akademik figür.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -25,6 +25,10 @@ Kaynaklar Mephiston'u kardeşleri arasında bile uzak ve yalnız bir figür olar
 
 Darius Hinks'in *Mephiston* üçlemesi, bu iç dünyayı merkeze alan başlıca Black Library eseridir: Mephiston'un geçmişiyle, kendi zihnindeki karanlıkla ve Sanguinius'un mirasının ne anlama geldiği sorusuyla boğuşmasını işler. Üçlemedeki kişisel ve metafizik ayrıntılar romanın bağlamında okunmalı, Chapter'ın genel kanonuna mekanik biçimde taşınmamalıdır.
 
+## Tarihçe
+
+Mephiston — asıl adı Calistarius, 'Ölümün Lordu' — Blood Angels'ın Librarius'unun Efendisi ve Baş Kütühanecisidir. Blood Angels ve Sanguinary Brotherhood varisleri arasında Kara Öfke'yi yenip hayatta kalan tek figürdür — Hades Hive'ın enkazı altında lanetli öfkeyi fethedip 'ikinci kez doğan' adam. Psişik gücü chapter'ın en üstüdür; 'laneti evcilleştiren' efsane.
+
 ## Baal ve Rubicon Primaris
 Hive Fleet Leviathan'ın Baal'a yöneldiği savaşlarda Mephiston, savunmanın başlıca figürlerinden biriydi: *Shield of Baal* kampanya kitaplarının işlediği Cryptus sistemindeki ilk savunma savaşlarından Baal'ın kendisindeki son savunmaya uzanan süreçte Chapter'ın önde gelen psykeri olarak Dante'nin yanında yer aldı. *The Devastation of Baal*'da Librarius'un psişik gücü, Hive Mind'ın Baal'ı saran ezici Shadow in the Warp'ı karşısında sınandı; Tyranid'lerin psişik baskısı, Chapter'ın psykerleri için en az sürüler kadar yıkıcı bir tehditti.
 

@@ -12,7 +12,7 @@
 
 ## Tarihçe
 
-Ragged Knight, Terra'nın Orta Çağ'larındaki kadim bir vahşetten doğmuş Bloodthirster'dır — İmparatorluk'tan bile yaşlı daemonlardan biri.
+Ragged Knight, Terra'nın Orta Çağ'ında eski bir vahşetten doğan Khorne Bloodthirster'ıdır — İmparatorluk Çağı'nda 'sadece efsane' olarak hatırlanan o dönemde ortaya çıkmıştır. Bin yıllar sonra renegade Thousand Sons büyücüsü Iskandar Khayon tarafından bağlanıp Emperor's Children'a karşı silah olarak kullanıldı — 31. Binyıl'ın Lejyon Savaşları'nda, Sons of Horus'un Black Legion'a dönüştüğü çatışmalarda. 'Orta Çağ'ın canavarının' modern Imperium'da bile silah olarak hizmet etmesi, Chaos'un zamansızlığını gösteren nadir örneklerden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

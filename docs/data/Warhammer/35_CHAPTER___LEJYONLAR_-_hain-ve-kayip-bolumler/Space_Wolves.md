@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Space_Wolves_Livery.jpg/revision/latest?cb=20110305084412
 
+## Tarihçe
+
+Space Wolves — kendi Juvjk lehçelerinde 'Vlka Fenryka', 'Fenris'in Kurtları' — İlk Kuruluş'un 20 chapter'ından biridir; bir zamanlar efsanevi Primarch Leman Russ'ın liderliğindeydi. VI. Lejyon olarak Büyük Sefer'in şafağında İmparator tarafından yükseltilen bu chapter, 'kurtların özgürlüğü' olarak İmparatorluk'un en vahşi sadık figürleridir.
+
 https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Space_Wolves_Livery.jpg/revision/latest?cb=20110305084412
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

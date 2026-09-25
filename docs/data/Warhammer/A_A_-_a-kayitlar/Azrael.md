@@ -26,6 +26,10 @@ Azrael'in kılıcı **Sword of Secrets**'tır. Dark Angels geleneğinde, Caliban
 ## Doktrin ve Komuta
 Azrael'in komutası, Dark Angels'ın genel savaş tarzını yansıtır: Codex çerçevesi içinde kararlı bir disiplin, Deathwing'in ağır zırhlı saldırılarıyla Ravenwing'in hızlı takibinin birleşimi. Belial'ın Deathwing'i ve Sammael'in Ravenwing'i, Supreme Grand Master'ın iki eli gibidir. Ancak bir Fallen'ın izine rastlandığında bu disiplin yerini tek bir hedefe kilitlenmiş bir ısrara bırakabilir; müttefik kuvvetlerin Dark Angels'ı güvenilmez bulmasının başlıca nedeni, Azrael'in bu tür kararları açıklamak zorunda hissetmemesidir.
 
+## Tarihçe
+
+Azrael, 41. Binyıl'da Dark Angels'ın — bazılarına göre tarihinin en büyük — Supreme Grand Master'ıdır. Bu rolde sadece askeri komutan değil, chapter'ın onurunun koruyucusu ve ruhunun kalkanıdır; 'Hakikatin Muhafızı' unvanını taşır. Son dönemde Rubicon Primaris'i geçip acılı Primaris dönüşümünü kabul etti — Firstborn'un son büyük örneğinden Primaris liderliğine geçen chapter'ın yaşayan köprüsü. Fallen'ların sırrını bilen en üst figür olarak İç Halka'nın mutlak otoritesidir.
+
 ## Great Rift ve Primaris
 Great Rift'in açılmasıyla Dark Angels'a katılan Primaris takviyeleri, Azrael'in önüne yeni bir soru koydu: Mars'ta, Chapter'ın ritüellerinden uzakta yetiştirilmiş bu savaşçılar sırra ne ölçüde ortak edilecekti? Kaynaklar bunu Chapter içinde bir güven sorunu olarak işler; yeni kardeşler de eski kardeşler gibi sınanmak ve katman katman içeri alınmak zorundadır.
 

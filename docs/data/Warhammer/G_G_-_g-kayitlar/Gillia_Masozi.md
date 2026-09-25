@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a1/StormRaptorValkyrie.w
 
 ## Tarihçe
 
-Gillia Masozi, Aeronautica Imperialis'in uçuş-teğmen'i; Astra Militarum'a hava desteği sağlayan donanma kanadının kadın pilotlarından — 'gökyüzünün çelik kuşu'.
+Gillia Masozi, Navis Imperialis'in Aeronautica Imperialis kolunun uçuş teğmenidir — İmparatorluk donanmasının hava kolu. Inquisitor Grendyl'in warband'ine görevlendirilip Moebian dünyası Atoma Prime'daki Hive Tertium'un Chaos istilasını temizleme operasyonuna katıldı; Valkyrie gunship'i 'Storm Raptor'un pilotu olarak Darktide'ın hava desteğidir.
 
 -# Kaynaklar: *Fandom wiki*
 

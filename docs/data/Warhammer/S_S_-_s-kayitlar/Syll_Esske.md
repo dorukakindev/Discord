@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/96/Syll%27EsskeMini.jpg/
 
 ## Tarihçe
 
-Syll'Esske, Slaanesh'in 'simyacı' Keeper of Secrets'ıdır; daemon-mortal çiftinin birleşmiş hali olarak Syll (daemon) ve Esske (mortal) tek beden — 'birleşik' Karanlık Prens avatarsı.
+Syll'Esske, Slaanesh'in daemonik Herald'ı Syll Lewdtongue ile Daemon Prince Esske'nin birleşik adıdır — 'öteki-öteki' olarak tanınan bir çift. Herald Syll, 'yok edilmek için ayartılanlara' fazla bağlanmakla Slaanesh'in sarayında dışlanmıştı; Esske ise ölümlü bir düellocuydu. İkisi ölümden birbirini kurtarıp tanrının gözünde eşsiz bir statü kazandı — 'aşk ve kılıç' çifti olarak Slaanesh'in en tuhaf ordusunu yönetirler.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850039137636462>

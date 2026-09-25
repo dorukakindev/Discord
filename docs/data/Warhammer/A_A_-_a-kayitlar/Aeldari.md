@@ -83,6 +83,10 @@ Bu üç toplum arasındaki ilişki düz bir düşmanlık değildir. Asuryani, Dr
 
 **Ynnari.** Great Rift çağının eşiğinde doğan en genç Aeldari hareketidir. Commorragh arenalarında ölüp yeniden doğan eski bir Wych olan Yvraine, kendini ölüler tanrısı Ynnead'in elçisi ilan ederek Asuryani, Drukhari ve Harlequin kökenli takipçileri tek bir davada topladı. Ynnari, Ynnead'i Aeldari'nin tükenmesini beklemeden uyandırmayı amaçlar ve bunun için Fall'da kaybolan **Croneswords**'ü arar. Diğer Aeldari'nin çoğu bu hareketi kuşkuyla, kimisi açık düşmanlıkla karşılar. Ayrıntı <#1551809867201908737> ve <#1551742665756901377> kanallarındadır.
 
+## Tarihçe
+
+Aeldari (dışarıdan uzun süre Eldar olarak bilinenler), geniş bir imparatorluğu bir zamanlar galaksinin uçtan uca uzanan kadim ve son derece gelişmiş insansı xenos türüdür; zamanında eşi yoktu ama 'Fall' felaketiyle çöktü. Hayatta kalanları Asuryani (craftworld sakinleri), Drukhari, Exodite ve Harlequin olarak bölündü — 'sonbaharın
+
 ## Galaksideki Yeri ve Great Rift Sonrası
 
 **Diğer türlerle ilişkiler.** Aeldari, Imperium'u genellikle kısa ömürlü, kaba ve tehlikeli bir genç tür olarak görür; Imperium ise onları güvenilmez, manipülatif xenos olarak kaydeder. Bu karşılıklı küçümsemenin altında daha karmaşık bir ilişki yatar: Asuryani farseer'leri gelecek ipliklerini kendi türlerinin lehine çevirmek için insan dünyalarını feda ettikleri gibi, ortak düşman karşısında Imperial kuvvetlerle yan yana savaştıkları da olur. Chaos'a karşı düşmanlık her Aeldari toplumunun ortak paydasıdır. Necron'ların uyanışı, Yngir'in anısını taşıyan tür için ayrı bir dehşettir. Hive Fleet'ler ise Iyanden'in yaşadığı yıkımla gösterdiği gibi, Aeldari için de varoluşsal bir tehdittir.

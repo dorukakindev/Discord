@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Cpt_Aphael.png/revisi
 
 ## Tarihçe
 
-Donatos Aphael, Blood Angels'ın 2. Savaş Bölüğü 'The Blooded'ın kaptanı ve Chapter'ın Master of the Watch'ıdır; Cryptus seferinde komuta etti.
+Donatos Aphael, Blood Angels'ın 2. Savaş Bölüğü 'The Blooded'ın mevcut kaptanı ve chapter'ın Master of the Watch'ıdır. Cryptus Kampanyası'nda komuta görevi üstlendi ve chapter'ın en kanlı savunmalarından birini yönetti. 'Kanlı' bölüğünün lideri olarak Blood Angels'ın hem savaş dehasını hem de doğuştan gelen kanlı mirasını temsil eden komutan.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057366906245150>

@@ -35,6 +35,10 @@ Vect'in Commorragh'ı yönetme biçimi mutlak bir itaat düzeni değil, dikkatle
 
 **Savaş alanında.** Vect, Dais of Destruction adlı değiştirilmiş bir Ravager üzerinde, Sceptre of the Dark City gibi hükümranlık simgeleriyle tasvir edilir. Kendisi nadiren sahaya iner; indiğinde bu çoğu zaman bir mesaj ya da bir gösteridir.
 
+## Tarihçe
+
+Asdrubael Vect, Kabal of the Black Heart'ın Drukhari archon'ı ve Karanlık Şehir Commorragh'ın mevcut yüce overlord'udur; halkının en entrikacısı sayılır. 'Komplo'nun kendisi olarak binlerce yıl hüküm süren bu figür, komplo ile Commorragh'ın zirvesine çıkan ve onu elinde tutan figürdür — 'karanlığın efendisi' olarak Drukhari siyasetinin mutlak tepesi.
+
 ## Shaa-dom, Dysjunction ve Vect'in "Ölümleri"
 
 Vect'in hükümranlığındaki en çok anılan eylemlerden biri Shaa-dom'un yok edilişidir. El'Uriaq'ın yönettiği bu alt âlem, Commorragh'ın rakip güç merkezlerinden biriydi; Vect'in onu ortadan kaldırışı, Karanlık Şehir'de rakip bir tahtın varlığına tahammül etmeyeceğinin en açık kanıtı olarak hatırlanır. Yıkımın tam biçimine dair ayrıntılar kaynaklarda sınırlıdır.

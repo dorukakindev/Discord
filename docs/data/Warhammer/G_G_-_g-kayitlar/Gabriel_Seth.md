@@ -45,6 +45,10 @@ M41'in son yıllarında Hive Fleet Leviathan'ın kolları Baal'a yöneldiğinde 
 
 Baal'ın aylarının düşüşü ve savunmanın Arx Angelicum'un surlarına çekilmesi, Flesh Tearers için de ağır kayıplar anlamına geldi. Kaynaklar Chapter'ın bu savaşta ne kadar eridiğine dair bir sayı vermez; arşiv de tahmin etmez. Great Rift'in açılması ve Indomitus Crusade kuvvetlerinin gelişiyle Baal kurtulduğunda, Flesh Tearers hâlâ ayaktaydı, ama Chapter'ın geleceği her zamankinden daha belirsizdi.
 
+## Tarihçe
+
+Gabriel Seth — 'Öfkenin Muhafızı' — kötü ünlü Flesh Tearers chapter'ının mevcut Chapter Master'ıdır. Blood Angels'ın İkinci Founding varisi olan bu chapter, genetik 'Kara Öfke' lanetine o kadar yatkın hale geldi ki chapter yok olmanın eşiğindeydi; Seth bu uçurumda chapter'ı yönetiyor. Kendisi de Kara Öfke'ye o kadar yakın ki her savaş son savaşı olabilir — ama Iron Hands'ın Iron Father'ıyla yaptığı kavga gibi olaylarla 'kontrolsüz şiddetin disiplinli taşıyıcısı' olarak İmparatorluk'un en ta
+
 ## Primaris ve Era Indomitus
 Kuşatmanın ardından Roboute Guilliman'ın getirdiği **Primaris Space Marine**'ler, erimiş Chapter'ları yeniden ayağa kaldıracak bir takviye olarak soyun kapısına dayandı. Seth'in bu yeni kuşağa yaklaşımı kuşkuyla başladı. Kaynaklar, Flesh Tearers'ın Primaris'leri ancak onların da Red Thirst'ü ve Black Rage'i taşıdığı anlaşıldığında gerçekten kabullendiğini anlatır. Bu tepkinin arkasındaki mantık, soyun kusuru nasıl bir kimlik işaretine dönüştürdüğünü gösterir: Flaw'dan azade bir savaşçı Seth'in gözünde yabancıdır, onu taşıyan ise acısıyla birlikte bir kardeştir.
 

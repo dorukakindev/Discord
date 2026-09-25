@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Andrastia_4.jpg/revis
 
 ## Tarihçe
 
-Adrastia — Aeldari Autarch Kayleth'in 'İmparatorun Evladı' dediği — Ordo Hereticus Inquisitor'ü ve Dawn of War II'nin ana karakterlerinden; Retribution'ın 'adalet' yüzü.
+Adrastia — Alaitoc'un Autarch Kayleth'i tarafından 'İmparator'un Oğlu' diye anılan — Ordo Hereticus'un Inquisitor'üdür ve Dawn of War II: Retribution'ın ana karakterlerinden biridir. Zeki, gururlu ve idealist bu figür, Aurelia Alt-Sektörü'ndeki olaylarda kilit rol oynadı; 'inançlı dedektif' olarak Retribution'ın hikâye merkezindeki kadın figürdür.
 
 -# Kaynaklar: *Fandom wiki*
 

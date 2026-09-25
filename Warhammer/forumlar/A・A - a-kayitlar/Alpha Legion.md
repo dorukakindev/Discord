@@ -24,6 +24,10 @@ Alpharius ve Omegon, bu önermeyi kabul ederek Horus'un safına geçti. Kaynakla
 
 Bu arka plan, Alpha Legion'un Heresy boyunca izlediği tutarsız görünen yolu açıklar. Legion Isstvan V'te hainlerle birlikte savaştı; *Deliverance Lost*'ta Raven Guard'a ve Corax'ın gene-seed'ine yönelik sızma operasyonları düzenledi; ancak aynı zamanda Horus'un planlarından bağımsız hareket ettiği izlenimini de sürekli yarattı.
 
+## Tarihçe
+
+Alpha Legion, hakkında en az şey bilinen Chaos Space Marine Hain Lejyonu'dur; bir zamanlar İmparator'un Büyük Sefer'ini yürüten XX. Lejyon'du. Casusluk, sızma ve 'görünmez savaş' konusunda uzman bu figürler, 'herkes ve hiç kimse' doktriniyle — herhangi bir üyenin 'Alpharius' olabilmesi — en esrarengiz hainlerdir.
+
 ## Ölüm İddiası: Pluto ve Eskrador
 Alpharius'un akıbeti, kanonun en tartışmalı konularından biridir ve arşiv burada iki ayrı anlatıyı ayırt etmek zorundadır.
 

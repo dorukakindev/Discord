@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Bonesinger_Miniature.
 
 ## Tarihçe
 
-Bonesinger, Path of the Shaper'da yürüyen Aeldari zanaatçısıdır; wraithbone'u şarkıyla şekillendirip craftworld'lerin yapısını, silahlarını ve Wraith-construct'ları inşa eder. Psişik ses manipülasyonuyla kristal materyali büyütür ve kalıplar — Aeldari'nin hem mimarı hem mühendisi hem de yaşayan tarihçisidir.
+Bonesinger, Craftworld Aeldari'nin psişik mühendisi ve zanaatkarıdır — Asuryani'nin tüm silahlarını, araçlarını ve hatta craftworld'lerin kendisini inşa eden ve bakımını yapan figürler. 'Kemik şarkısı' söyleyerek wraithbone'u şekillendiren bu psyker'lar, 'şarkıyla inşa eden' olarak Aeldari teknolojisinin kalbidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877540622729216>

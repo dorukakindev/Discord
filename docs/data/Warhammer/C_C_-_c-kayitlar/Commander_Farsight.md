@@ -19,6 +19,10 @@ Farsight'ın ilk büyük ünü Ork'lara karşı yürütülen savaşlarla geldi. 
 
 Kariyerinin bir başka dönüm noktası Imperium'la karşılaşmadır; bu iki dönemin kronolojik sırası kaynaklarda her zaman net verilmez. M41'in ortalarında Imperium'un T'au'ya yönelttiği **Damocles Gulf Crusade** sırasında Farsight, saldırıyı püskürten komutanlar arasında öne çıktı. Bu savaş T'au'ya insanlığın ölçeğini ve acımasızlığını gösterdi; Farsight'a ise Ethereal'lerin gözünde imparatorluğun en umut vadeden savaş önderlerinden biri olma konumunu kazandırdı. Onu Gulf'un ötesine gönderecek sefer, bu güvenin sonucuydu.
 
+## Tarihçe
+
+Commander Farsight — gerçek adı Shas'O Vior'la Shovah Kais Mont'yr, kısaca O'Shovah — T'au tarihinin en bölücü figürüdür: 'Vior'la Kahramanı', 'Puretide'ın Talebesi', 'Yeşilderlilerin Belası' ve aynı zamanda 'Greater Good'a İhanet Eden Renegade' olarak anılır. Efsanevi Commander Puretide'ın son yaşayan öğrencisi olarak Damocles Körfezi Seferi'nde ve Arkunasha'da İmparatorluk'a karşı efsanevi zaferler kazandı; ancak Ethereal'lerin olmadığı bir seferde yanındaki tüm
+
 ## Arthas Moloch ve Kopuş
 Damocles Gulf Crusade'in ardından Ethereal'ler, Gulf'un ötesindeki dünyaları Ork'lardan temizlemek ve imparatorluğun moralini yükseltmek üzere Farsight'ın komutasında bir sefer düzenledi. Kaynakların bir kısmı bu seferi Second Sphere Expansion dönemine yerleştirir. Farsight Ork kuvvetlerini birbiri ardına yenerek ilerledi ve 4th Edition'dan beri anlatılan köken hikâyesine göre kaçan Ork'ların peşinde **Arthas Moloch** adlı esrarengiz, harabelerle dolu bir dünyaya ulaştı.
 
