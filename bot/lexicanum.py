@@ -1,11 +1,11 @@
 """Lexicanum — arşiv botu.
-Komutlar: /ara /sor /rastgele /istatistik (herkes) · /kayit-ekle /kayit-duzenle /index-yenile (manage_messages)
+Komutlar: /ara /sor /rastgele /gunun-kaydi /istatistik (herkes) · /kayit-ekle /kayit-duzenle /index-yenile /gunun-kaydi-kur /gunun-kaydi-kapat (manage_messages)
 Çalıştırma: DISCORD_TOKEN=... python3 lexicanum.py"""
 import asyncio
 import logging
 import os
 import random
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import discord
 from discord import app_commands
@@ -30,6 +30,8 @@ TOKEN = os.environ['DISCORD_TOKEN']
 
 GUILDS = read_json(os.path.join(DATA, 'guilds.json'), default={})
 LOG_CHANNELS = read_json(os.path.join(DATA, 'log_channels.json'), default={})
+DAILY_CFG = os.path.join(DATA, 'daily.json')
+_TZ_TR = timezone(timedelta(hours=3))  # Türkiye: sabit UTC+3, DST yok
 
 
 def load_index():
@@ -271,6 +273,111 @@ def sor_embed(soru, r, ex):
     e.add_field(name='Kaynak', inline=False,
                 value=f'{src} — {r["f"]} · {r["s"]}')
     return e
+
+
+# Günün kaydı — günlük otomatik gönderi; /gunun-kaydi-kur ile kanal+saat
+
+def daily_pick(gid, day=None):
+    """(gid, gün) çiftine deterministik kayıt — gün boyu herkes aynısını görür."""
+    day = day or datetime.now(_TZ_TR).date().isoformat()
+    pool = [r for r in INDEX if not gid or str(r['g']) == str(gid)] or INDEX
+    if not pool:
+        return None
+    return random.Random(f'{gid}:{day}').choice(pool)
+
+
+def daily_due(cfg, now):
+    """now (TR-aware): bu cfg için saat gelmiş ve bugün henüz gönderilmemiş."""
+    return cfg.get('hour') == now.hour and cfg.get('last') != now.date().isoformat()
+
+
+async def daily_loop():
+    await bot.wait_until_ready()
+    while not bot.is_closed():
+        try:
+            cfgs = read_json(DAILY_CFG, default={})
+            now = datetime.now(_TZ_TR)
+            for cfg in cfgs.values():
+                if not cfg.get('channel') or not daily_due(cfg, now):
+                    continue
+                cfg['last'] = now.date().isoformat()  # hata sonsuz döngü yapmasın
+                r = daily_pick(cfg.get('gid'), now.date().isoformat())
+                ch = bot.get_channel(int(cfg['channel']))
+                if ch is None:
+                    try:
+                        ch = await bot.fetch_channel(int(cfg['channel']))
+                    except (discord.HTTPException, ValueError):
+                        ch = None
+                if ch is None or r is None:
+                    log.warning('gunun-kaydi atlandı: %s', cfg)
+                else:
+                    try:
+                        await ch.send(embed=result_embed(
+                            f'📜 Günün kaydı — {now:%d.%m.%Y}', [r]))
+                    except discord.HTTPException:
+                        log.exception('gunun-kaydi gönderilemedi: %s', cfg)
+            write_json_atomic(DAILY_CFG, cfgs)
+        except Exception:
+            log.exception('daily_loop hatası')
+        await asyncio.sleep(60)
+
+
+async def kanal_ac(inter, cur: str):
+    g = inter.guild
+    if not g:
+        return []
+    try:
+        chans = await g.fetch_channels()
+    except discord.HTTPException:
+        chans = g.channels
+    return [app_commands.Choice(name=c.name, value=str(c.id))
+            for c in chans
+            if isinstance(c, discord.TextChannel)
+            and cur.lower() in c.name.lower()][:25]
+
+
+@tree.command(name='gunun-kaydi', description='Günün arşiv kaydı (gün boyu aynı)')
+async def gunun_kaydi(inter):
+    gid = str(inter.guild_id) if inter.guild_id else None
+    r = daily_pick(gid)
+    if not r:
+        await inter.response.send_message('İndeks boş.', ephemeral=True)
+        return
+    now = datetime.now(_TZ_TR)
+    await inter.response.send_message(
+        embed=result_embed(f'📜 Günün kaydı — {now:%d.%m.%Y}', [r]))
+
+
+@tree.command(name='gunun-kaydi-kur',
+              description='Günlük otomatik kayıt gönderisi kur (yönetici)')
+@app_commands.guild_only()
+@app_commands.describe(kanal='Gönderi kanalı', saat='TSİ saat (0-23, varsayılan 10)')
+@app_commands.autocomplete(kanal=kanal_ac)
+async def gunun_kaydi_kur(inter, kanal: str, saat: app_commands.Range[int, 0, 23] = 10):
+    if not is_admin(inter):
+        await inter.response.send_message('Yetkin yok.', ephemeral=True)
+        return
+    cfgs = read_json(DAILY_CFG, default={})
+    cfgs[str(inter.guild_id)] = {'gid': str(inter.guild_id),
+                                 'channel': kanal, 'hour': int(saat)}
+    write_json_atomic(DAILY_CFG, cfgs)
+    await inter.response.send_message(
+        f'Günün kaydı her gün {int(saat):02d}:00 TSİ → <#{kanal}>', ephemeral=True)
+
+
+@tree.command(name='gunun-kaydi-kapat',
+              description='Günlük otomatik kayıt gönderisini kapat (yönetici)')
+@app_commands.guild_only()
+async def gunun_kaydi_kapat(inter):
+    if not is_admin(inter):
+        await inter.response.send_message('Yetkin yok.', ephemeral=True)
+        return
+    cfgs = read_json(DAILY_CFG, default={})
+    if cfgs.pop(str(inter.guild_id), None):
+        write_json_atomic(DAILY_CFG, cfgs)
+        await inter.response.send_message('Günlük gönderi kapatıldı.', ephemeral=True)
+    else:
+        await inter.response.send_message('Bu sunucuda günlük gönderi yok.', ephemeral=True)
 
 
 def is_admin(inter):
@@ -639,6 +746,7 @@ async def on_ready():
     if not _TREE_SYNCED:
         await tree.sync()
         _TREE_SYNCED = True
+        bot.loop.create_task(daily_loop())
     await bot.change_presence(
         activity=discord.Activity(type=discord.ActivityType.watching,
                                   name='arşivi · /ara'))

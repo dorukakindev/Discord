@@ -9,10 +9,13 @@ Arşiv sunucularını (Imperial / Trench / Black RPG / Film Archive) tek botla y
 | `/ara <sorgu>` | herkes | Kayıtlarda Türkçe-normalize + fuzzy arama, Discord bağlantılı sonuç listesi; 0 sonuçta öneri sunar |
 | `/sor <soru>` | herkes | Soruyu arşiv gövdelerinde arar, en ilgili paragrafı kaynak linkiyle verir (LLM yok). `data/lexicanum.db` varsa FTS5 gövde araması, yoksa thread-fetch yolu |
 | `/rastgele` | herkes | Rastgele kayıt (içinde bulunulan sunucu öncelikli) |
+| `/gunun-kaydi` | herkes | Günün kaydı — tarihe göre deterministik, gün boyu aynı |
 | `/istatistik` | herkes | Sunucu başına kayıt sayısı |
 | `/kayit-ekle` | `manage_messages` | Forum seç + modal ile başlık/metin → yeni kayıt postu |
 | `/kayit-duzenle` | `manage_messages` | Kayıt seç + modal ile metni değiştir |
 | `/index-yenile` | `manage_messages` | Sunucuları yeniden tarayıp `data/index.json`'ı tazeler |
+| `/gunun-kaydi-kur <kanal> [saat]` | `manage_messages` | Günün kaydını her gün belirtilen saatte (TSİ) kanala otomatik gönder; `data/daily.json`'a yazılır |
+| `/gunun-kaydi-kapat` | `manage_messages` | Günlük otomatik gönderiyi kapat |
 
 Ayrıca `data/log_channels.json`'da tanımlı kanallara üye giriş/çıkış logu düşer.
 
