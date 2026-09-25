@@ -1,17 +1,37 @@
-# -*- coding: utf-8 -*-
 """The Film Archive sunucusunu nMDB veritabanlarından kurar.
 
 Kullanım:
     NMDB_MAIN=/path/nmdb_arsiv.db NMDB_DISC=/path/nmdb_arsiv_discoveries.db \
     DISCORD_BOT_TOKEN_WH40K=... python3 build_server.py <faz>
 
-Fazlar: prep | structure | guide | posts | az | all
+Fazlar: prep | structure | guide | posts | az | bands | split | relabel | all
 State/plan dosyaları WORK dir'de tutulur (varsayılan ./work).
-"""
-import json, os, re, sqlite3, sys, time, unicodedata
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dapi import req, get, post, patch, delete, guild_channels, channel_messages, forum_threads, GUILD
+Flag'ler: --dry-run (POST/PATCH/DELETE yalnız loglanır), --force
+          (bilinmeyen thread'li forumları da siler — önce work/trash'e dökülür)
+Env: FILM_GUILD_ID / DISCORD_GUILD_ID, DISCORD_BOT_TOKEN_WH40K veya DISCORD_TOKEN,
+     NMDB_MAIN, NMDB_DISC, WORK, DRY_RUN
+"""
+import os
+import re
+import shutil
+import sqlite3
+import sys
+import time
+import unicodedata
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from lib import dapi  # noqa: E402
+from lib.dapi import (  # noqa: E402
+    channel_messages,
+    delete,
+    forum_threads,
+    get,
+    guild_channels,
+    patch,
+    post,
+)
+from lib.jsonio import read_json, write_json_atomic  # noqa: E402
 
 WORK = os.environ.get("WORK", os.path.join(os.path.dirname(os.path.abspath(__file__)), "work"))
 os.makedirs(WORK, exist_ok=True)
@@ -20,7 +40,18 @@ MAIN_DB = os.environ.get("NMDB_MAIN", "")
 DISC_DB = os.environ.get("NMDB_DISC", "")
 SERVER = "THE FILM ARCHIVE"
 DENY = "377957124160"  # @everyone: send/thread deny -> salt-okunur
+
+PHASE = next((a for a in sys.argv[1:] if not a.startswith('--')), 'all')
+DRY = '--dry-run' in sys.argv or dapi.DRY_RUN
+FORCE = '--force' in sys.argv
+dapi.configure(guild=os.environ.get("FILM_GUILD_ID", "1552514539344363610"),
+               dry_run=DRY)
+GUILD = dapi.GUILD
 EVERYONE = GUILD        # @everyone rol id = guild id
+
+STATE_P = os.path.join(WORK, "post_state.json")
+BACKUP_DIR = os.path.join(WORK, "backups")
+TRASH_DIR = os.path.join(WORK, "trash")
 
 SESSION = __import__("requests").Session()
 
@@ -31,6 +62,80 @@ def norm(s):
 
 def dash(v):
     return v is None or str(v).strip() in ("", "-", "None")
+
+
+def fnum(v, default=0.0):
+    """'4.5', '4.5/5', 4.5 -> float; çözülemeyen/None -> default."""
+    try:
+        return float(str(v).split("/")[0])
+    except (ValueError, TypeError, AttributeError):
+        return default
+
+
+def load_state():
+    return read_json(STATE_P) or {"done": {}, "indexes": {}}
+
+
+def backup_state():
+    """post_state.json'un çalışma başına tek seferlik yedeği (son 20 tutulur)."""
+    if not os.path.exists(STATE_P):
+        return
+    os.makedirs(BACKUP_DIR, exist_ok=True)
+    dst = os.path.join(BACKUP_DIR,
+                       "post_state." + time.strftime("%Y%m%d-%H%M%S") + ".json")
+    shutil.copy2(STATE_P, dst)
+    for old in sorted(os.listdir(BACKUP_DIR))[:-20]:
+        os.remove(os.path.join(BACKUP_DIR, old))
+
+
+def trash_thread(tid):
+    """Silmeden önce thread'in tüm mesajlarını work/trash/<tid>.json'a döker."""
+    try:
+        msgs = channel_messages(tid)
+    except Exception as e:
+        print("trash dump fail:", tid, e)
+        msgs = []
+    os.makedirs(TRASH_DIR, exist_ok=True)
+    write_json_atomic(os.path.join(TRASH_DIR, f"{tid}.json"), msgs)
+
+
+def sync_msgs(cid, want):
+    """Kanal/thread'i hedef mesaj listesine hizalar (idempotent).
+
+    Tam geçmişi okur ve yalnızca botun kendi mesajlarına dokunur —
+    yabancı mesajlar korunur. Sıra: cur[i] <-> want[i]."""
+    bid = dapi.bot_id()
+    cur = [m for m in channel_messages(cid) if m["author"]["id"] == bid]
+    cur.reverse()  # channel_messages yeni->eski döner
+    for i, m in enumerate(cur):
+        if i >= len(want):
+            delete(f"/channels/{cid}/messages/{m['id']}")
+            print("msg deleted (surplus):", cid, i, flush=True)
+            time.sleep(0.3)
+            continue
+        if m["content"] != want[i]:
+            patch(f"/channels/{cid}/messages/{m['id']}",
+                  json={"content": want[i]})
+            print("msg synced:", cid, i, flush=True)
+            time.sleep(0.3)
+    for i in range(len(cur), len(want)):
+        post(f"/channels/{cid}/messages", json={"content": want[i]})
+        print("msg posted (missing):", cid, i, flush=True)
+        time.sleep(0.3)
+
+
+def existing_invite(cid):
+    """Kanalın mevcut limitsiz daveti; yoksa/erişim yoksa None (M11)."""
+    try:
+        invs = get(f"/channels/{cid}/invites")
+    except Exception:
+        return None
+    if not isinstance(invs, list):
+        return None
+    for inv in invs:
+        if isinstance(inv, dict) and inv.get("max_age") == 0 and inv.get("max_uses") == 0:
+            return inv
+    return None
 
 
 # ---------------------------------------------------------------- veri
@@ -78,7 +183,7 @@ def fetch_poster(f):
             r = SESSION.get(f"https://www.themoviedb.org/{k}/{int(tid)}",
                             headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/126",
                                      "Accept-Language": "en-US"}, timeout=20)
-            m = re.search(r'og:image" content="(https://media\.themoviedb\.org/t/p/w500/[^"]+)', r.text)
+            m = re.search(r'og:image" content="(https://media\.themoviedb\.org/t/p/[^"]+)', r.text)
             if r.status_code == 200 and m:
                 return m.group(1)
         except Exception:
@@ -105,28 +210,28 @@ def fetch_poster_lb(f):
 
 def resolve_posters(allfilms):
     cache_p = os.path.join(WORK, "posters.json")
-    cache = json.load(open(cache_p)) if os.path.exists(cache_p) else {}
+    cache = read_json(cache_p, default={})
     n = 0
     for f in allfilms:
         key = str(f["id"]) + "|" + str(f.get("imdb_id") or "")
-        if cache.get(key):
+        if key in cache:  # None bile cache'lenir — afişsiz film yeniden sorgulanmaz
             f["_poster"] = cache[key]
             continue
         f["_poster"] = fetch_poster(f) or fetch_poster_lb(f)
         cache[key] = f["_poster"]
         n += 1
         if n % 25 == 0:
-            json.dump(cache, open(cache_p, "w"))
+            write_json_atomic(cache_p, cache)
             print(f"poster {n}...", flush=True)
         time.sleep(0.25)
-    json.dump(cache, open(cache_p, "w"))
+    write_json_atomic(cache_p, cache)
     ok = sum(1 for f in allfilms if f.get("_poster"))
     print(f"posterlar: {ok}/{len(allfilms)}")
 
 
 def hydrate_posters(allfilms):
     cache_p = os.path.join(WORK, "posters.json")
-    cache = json.load(open(cache_p)) if os.path.exists(cache_p) else {}
+    cache = read_json(cache_p, default={})
     for f in allfilms:
         key = str(f["id"]) + "|" + str(f.get("imdb_id") or "")
         f["_poster"] = cache.get(key)
@@ -199,18 +304,26 @@ def chunks(text, limit=1900):
 
 def line_chunks(text, limit=1950):
     """Satır listesi içeriklerini (dizinler) satır sınırlarından böler;
-    maddelerin ortasına denk gelen kesimler `**` artığı bırakır."""
+    maddelerin ortasına denk gelen kesimler `**` artığı bırakır.
+    Limitten uzun tek satır sert bölünür; boş chunk üretilmez."""
     out, cur = [], ""
     for ln in text.split("\n"):
+        while len(ln) > limit:
+            if cur:
+                out.append(cur)
+                cur = ""
+            out.append(ln[:limit])
+            ln = ln[limit:]
         cand = ln if not cur else cur + "\n" + ln
         if len(cand) > limit:
-            out.append(cur)
+            if cur:
+                out.append(cur)
             cur = ln
         else:
             cur = cand
     if cur:
         out.append(cur)
-    return out
+    return out or ["—"]
 
 
 def film_messages(f, forum_label):
@@ -235,7 +348,8 @@ def film_messages(f, forum_label):
     uyg, gere = f.get("sana_uygunluk"), f.get("uygunluk_gerekcesi")
     if not dash(uyg):
         guv = f.get("uygunluk_guveni")
-        g = f" (güven %{int(float(guv)*100)})" if not dash(guv) else ""
+        gv = fnum(guv, None) if not dash(guv) else None
+        g = f" (güven %{int(gv*100)})" if gv is not None else ""
         line = f"**Sana uygunluk: {uyg}**{g}"
         if not dash(gere):
             line += f" — {gere}"
@@ -255,16 +369,14 @@ def film_messages(f, forum_label):
     foot = f"-# nMDB arşiv kaydı #{f.get('arsiv_no','?')}"
     card.append("\n" + foot)
     body = "\n".join(card)
-    for c in chunks(body, 1950):
-        msgs.append(c)
+    msgs.extend(chunks(body, 1950))
 
     if f.get("_analiz"):
         sections = chunks("-# " + SERVER + " · " + title + " · Derin Analiz\n" + f["_analiz"].strip(), 1900)
         msgs.extend(sections)
     if not dash(f.get("tartismalar_ve_notlar")):
         sec = "### Tartışmalar & Notlar\n" + str(f["tartismalar_ve_notlar"]).strip()
-        for c in chunks("-# " + SERVER + " · " + title + " · Notlar\n" + sec, 1900):
-            msgs.append(c)
+        msgs.extend(chunks("-# " + SERVER + " · " + title + " · Notlar\n" + sec, 1900))
     # Discord mesaj içeriğinin kenar boşluklarını kırpar — üretim de aynısını yapsın
     return [m.strip() for m in msgs]
 
@@ -272,11 +384,11 @@ def film_messages(f, forum_label):
 def index_messages(forum_label, entries, sort_note="alfabetik"):
     """Forum başındaki sabit dizin kaydının mesajları.
 
-    entries elemanları `**` ile kapatılmış gövde metni de içerebilir
-    (örn. `Title** · Film · IMDb 7.5` → `• **Title** · Film · IMDb 7.5`)."""
+    entries tam biçimli satırlardır (bold dahil) — band_entry `**{t}** · sc`,
+    düz başlıklar için `f'**{title}**'` biçiminde verilir."""
     head = "\n".join([f"-# {SERVER} · {forum_label} · Dizin", f"# {forum_label} — Kayıt Dizini",
                        f"{len(entries)} kayıt — {sort_note}:"])
-    body = "\n".join(f"• **{e}**" for e in entries)
+    body = "\n".join(f"• {e}" for e in entries)
     return [head] + line_chunks(body)
 
 
@@ -387,7 +499,7 @@ def build_structure():
             if kind == "forum":
                 entry["tags"] = {t["name"]: t["id"] for t in ch.get("available_tags", [])}
             out["forums" if kind == "forum" else "channels"][name] = entry
-    json.dump(out, open(os.path.join(WORK, "structure.json"), "w"), ensure_ascii=False, indent=1)
+    write_json_atomic(os.path.join(WORK, "structure.json"), out, indent=1)
     return out
 
 
@@ -403,15 +515,7 @@ def forum_label(slug):
 
 def fit_score(f):
     """Bant puanı: sana_uygunluk ile kisisel_puan/2'nin maksimumu."""
-    try:
-        s = float(str(f.get("sana_uygunluk") or "").split("/")[0])
-    except ValueError:
-        s = 0.0
-    try:
-        k = float(str(f.get("kisisel_puan") or "")) / 2.0
-    except ValueError:
-        k = 0.0
-    return max(s, k)
+    return max(fnum(f.get("sana_uygunluk")), fnum(f.get("kisisel_puan")) / 2.0)
 
 
 def band_of(f):
@@ -426,7 +530,7 @@ def band_of(f):
 
 
 def band_entry(f):
-    """Bant dizininde tek satır: başlık + puanlar (forum zaten tek tür)."""
+    """Bant dizininde tek satır: bold başlık + puanlar (forum zaten tek tür)."""
     sc = []
     for label, key, suf in [("IMDb", "imdb_puani", "/10"), ("LB", "lb_puani", "/5"),
                             ("nMDB", "nutpuan", "")]:
@@ -434,7 +538,10 @@ def band_entry(f):
             sc.append(f"{label} {f[key]}{suf}")
     if not dash(f.get("sana_uygunluk")):
         sc.append(f"uyg {f['sana_uygunluk']}")
-    return f"{title_of(f)}** · {' · '.join(sc)}"
+    out = f"**{title_of(f)}**"
+    if sc:
+        out += f" · {' · '.join(sc)}"
+    return out
 
 
 # ---------------------------------------------------------------- rehber
@@ -458,7 +565,6 @@ def counts_of(main, kesifler):
 
 
 def guide_contents(struct, counts):
-    F = struct["forums"]
     kat_lines = []
     for kat in KAT_LABELS:
         k = counts[kat]
@@ -531,8 +637,10 @@ def siblings_text():
         pick = next((c for c in chans if c.get("type") == 0), chans[0] if chans else None)
         if pick:
             try:
-                inv = post(f"/channels/{pick['id']}/invites",
-                           json={"max_age": 0, "max_uses": 0, "unique": True})
+                # M11: her çalıştırmada yeni davet açma — varsa mevcudu kullan
+                inv = existing_invite(pick["id"]) or post(
+                    f"/channels/{pick['id']}/invites",
+                    json={"max_age": 0, "max_uses": 0})
             except Exception as e:
                 print("invite fail", gid, e)
         lines.append(f"• **{label}** — https://discord.gg/{inv['code']}" if inv
@@ -565,11 +673,10 @@ def az_text(main, kesifler):
 # ---------------------------------------------------------------- post
 
 def run_posts(main, kesifler, struct):
-    state_p = os.path.join(WORK, "post_state.json")
-    state = json.load(open(state_p)) if os.path.exists(state_p) else {"done": {}, "indexes": {}}
+    state = load_state()
 
     def save():
-        json.dump(state, open(state_p, "w"), ensure_ascii=False)
+        write_json_atomic(STATE_P, state)
 
     groups = [(s, [f for f in main if forum_slug_of(f) == s]) for s in band_slugs()] + [
         ("protokol-kesifleri", [f for f in kesifler if f.get("uygunluk_kaynagi") == "film-protocol-2026-09-14-v1"]),
@@ -587,7 +694,8 @@ def run_posts(main, kesifler, struct):
         fid = struct["forums"][slug]["id"]
         label = forum_label(slug)
         if slug not in state["indexes"]:
-            entries = [band_entry(f) for f in films] if is_band else [title_of(f) for f in films]
+            entries = ([band_entry(f) for f in films] if is_band
+                       else [f"**{title_of(f)}**" for f in films])
             msgs = index_messages(label, entries,
                                   "uygunluk sırası" if is_band else "alfabetik")
             t = post(f"/channels/{fid}/threads",
@@ -637,7 +745,7 @@ def run_posts(main, kesifler, struct):
         by_dir.setdefault(d, []).append(f)
     names = sorted(by_dir, key=lambda x: norm(x.split()[-1]))
     if slug not in state["indexes"]:
-        msgs = index_messages(label, names)
+        msgs = index_messages(label, [f"**{n}**" for n in names])
         t = post(f"/channels/{fid}/threads",
                  json={"name": f"{label} — Kayıt Dizini", "message": {"content": msgs[0]}})
         tid = t["id"]
@@ -675,21 +783,20 @@ def run_posts(main, kesifler, struct):
 
 
 def run_guide(main, kesifler, struct):
+    """Rehber kanalları — sync_msgs ile idempotent: tekrar koşumda çift yazmaz."""
     for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():  # noqa: E501
         cid = struct["channels"][slug]["id"]
-        post(f"/channels/{cid}/messages", json={"content": text})
+        sync_msgs(cid, [text])
         print("guide:", slug, flush=True)
         time.sleep(0.4)
     cid = struct["channels"]["diger-sunucularimiz"]["id"]
-    post(f"/channels/{cid}/messages", json={"content": siblings_text()})
+    sync_msgs(cid, [siblings_text()])
     print("guide: diger-sunucularimiz", flush=True)
 
 
 def run_az(main, kesifler, struct):
     cid = struct["channels"]["a-z-indeks"]["id"]
-    for m in az_text(main, kesifler):
-        post(f"/channels/{cid}/messages", json={"content": m})
-        time.sleep(0.4)
+    sync_msgs(cid, az_text(main, kesifler))
     print("a-z-indeks ok", flush=True)
 
 
@@ -700,12 +807,16 @@ def run_bands(main, kesifler, struct):
     yeniden üretilir → nutpuan da eklenir), eski forum komple silinir.
     Band dizinleri uygunluk sırasına göre skorlu satırlarla yazılır.
     İdempotent: eski forum yoksa taşıma geçilir.
+    Güvenlik: bilinmeyen thread içeren forum silinmez (--force hariç,
+    o durumda önce work/trash'e dökülür); state yoksa faz atlanır (N1).
     """
-    state_p = os.path.join(WORK, "post_state.json")
-    state = json.load(open(state_p))
+    state = load_state()
+    if not state["done"] and not state["indexes"]:
+        print("post_state yok/boş — bands fazı atlandı (taşıma haritası yok)")
+        return
 
     def save():
-        json.dump(state, open(state_p, "w"), ensure_ascii=False)
+        write_json_atomic(STATE_P, state)
 
     old_slugs = ["filmler", "diziler", "belgeseller", "animeler"]
     old_forums = {c["name"]: c["id"] for c in guild_channels()
@@ -718,6 +829,7 @@ def run_bands(main, kesifler, struct):
         fid = old_forums.get(slug)
         if not fid:
             continue
+        unknown = []
         for t in forum_threads(fid):
             tid = t["id"]
             if tid in old_index_tids:
@@ -726,6 +838,7 @@ def run_bands(main, kesifler, struct):
             f = main_by_id.get(key.split("|")[1]) if key else None
             if f is None:
                 print("!! bilinmeyen thread:", tid, t["name"], flush=True)
+                unknown.append(t)
                 continue
             band = band_of(f)
             label = forum_label(band)
@@ -738,12 +851,19 @@ def run_bands(main, kesifler, struct):
             for extra in msgs[1:]:
                 post(f"/channels/{nt['id']}/messages", json={"content": extra})
                 time.sleep(0.3)
+            trash_thread(tid)
             delete(f"/channels/{tid}")
             del state["done"][key]
             state["done"][f"{band}|{f['id']}|{title_of(f)}"] = nt["id"]
             save()
             print("moved:", t["name"], "->", band, flush=True)
             time.sleep(0.35)
+        if unknown and not FORCE:
+            print(f"!! {slug}: {len(unknown)} bilinmeyen thread var — "
+                  "forum SİLİNMİYOR (--force ile geç)", flush=True)
+            continue
+        for t in unknown:
+            trash_thread(t["id"])
         delete(f"/channels/{fid}")
         state["indexes"].pop(slug, None)
         save()
@@ -775,12 +895,7 @@ def run_bands(main, kesifler, struct):
     # rehber kanallarının metinleri
     for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():
         cid = struct["channels"][slug]["id"]
-        msgs = channel_messages(cid, limit=20)
-        msgs.reverse()
-        if msgs and msgs[0]["content"] != text:
-            patch(f"/channels/{cid}/messages/{msgs[0]['id']}", json={"content": text})
-            print("guide patched:", slug, flush=True)
-            time.sleep(0.3)
+        sync_msgs(cid, [text])
 
 
 def run_split(main, kesifler, struct):
@@ -790,23 +905,29 @@ def run_split(main, kesifler, struct):
     `diziler-4-5-ve-ustu` ... altına yeniden yazılır (thread taşınamaz);
     eski forum + boşalan ANA ARŞİV kategorisi silinir, yeni dizinler yazılır.
     İdempotent: eski forum yoksa geçilir.
+    Güvenlik: bilinmeyen thread içeren forum ve ANA ARŞİV kategorisi silinmez
+    (--force hariç, o durumda önce work/trash'e dökülür); state yoksa atlanır.
     """
-    state_p = os.path.join(WORK, "post_state.json")
-    state = json.load(open(state_p))
+    state = load_state()
+    if not state["done"] and not state["indexes"]:
+        print("post_state yok/boş — split fazı atlandı (taşıma haritası yok)")
+        return
 
     def save():
-        json.dump(state, open(state_p, "w"), ensure_ascii=False)
+        write_json_atomic(STATE_P, state)
 
     old_forums = {c["name"]: c["id"] for c in guild_channels()
                   if c.get("type") == 15 and c["name"] in BANDS}
     by_tid = {tid: key for key, tid in state["done"].items()}
     main_by_id = {str(f["id"]): f for f in main}
     old_index_tids = {state["indexes"].get(s) for s in BANDS}
+    skipped_forum = None
 
     for slug in BANDS:
         fid = old_forums.get(slug)
         if not fid:
             continue
+        unknown = []
         for t in forum_threads(fid):
             tid = t["id"]
             if tid in old_index_tids:
@@ -815,6 +936,7 @@ def run_split(main, kesifler, struct):
             f = main_by_id.get(key.split("|")[1]) if key else None
             if f is None:
                 print("!! bilinmeyen thread:", tid, t["name"], flush=True)
+                unknown.append(t)
                 continue
             nslug = forum_slug_of(f)
             nfid = struct["forums"][nslug]["id"]
@@ -825,22 +947,33 @@ def run_split(main, kesifler, struct):
             for extra in msgs[1:]:
                 post(f"/channels/{nt['id']}/messages", json={"content": extra})
                 time.sleep(0.3)
+            trash_thread(tid)
             delete(f"/channels/{tid}")
             del state["done"][key]
             state["done"][f"{nslug}|{f['id']}|{title_of(f)}"] = nt["id"]
             save()
             print("moved:", t["name"], "->", nslug, flush=True)
             time.sleep(0.35)
+        if unknown and not FORCE:
+            skipped_forum = slug
+            print(f"!! {slug}: {len(unknown)} bilinmeyen thread var — "
+                  "forum SİLİNMİYOR (--force ile geç)", flush=True)
+            continue
+        for t in unknown:
+            trash_thread(t["id"])
         delete(f"/channels/{fid}")
         state["indexes"].pop(slug, None)
         save()
         print("deleted old forum:", slug, flush=True)
 
-    # boşalan eski kategori
+    # boşalan eski kategori — içinde korunan forum kaldıysa silme
     for c in guild_channels():
         if c.get("type") == 4 and c["name"] == "ANA ARŞİV":
-            delete(f"/channels/{c['id']}")
-            print("deleted category: ANA ARŞİV", flush=True)
+            if skipped_forum and not FORCE:
+                print("ANA ARŞİV korunuyor (bilinmeyen thread'li forum kaldı)")
+            else:
+                delete(f"/channels/{c['id']}")
+                print("deleted category: ANA ARŞİV", flush=True)
 
     # yeni forum dizinleri (uygunluk sırası + satır içi puanlar)
     for nslug in band_slugs():
@@ -878,12 +1011,7 @@ def run_split(main, kesifler, struct):
     # rehber kanallarının metinleri
     for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():
         cid = struct["channels"][slug]["id"]
-        msgs = channel_messages(cid, limit=20)
-        msgs.reverse()
-        if msgs and msgs[0]["content"] != text:
-            patch(f"/channels/{cid}/messages/{msgs[0]['id']}", json={"content": text})
-            print("guide patched:", slug, flush=True)
-            time.sleep(0.3)
+        sync_msgs(cid, [text])
 
 
 def run_relabel(main, kesifler, struct):
@@ -891,30 +1019,12 @@ def run_relabel(main, kesifler, struct):
 
     Kart starter'ı (id == thread id), thread içindeki kart devamı,
     bant dizin thread'leri ve rehber metinleri karşılaştırma-PATCH'i.
-    """
-    state_p = os.path.join(WORK, "post_state.json")
-    state = json.load(open(state_p))
+    State yoksa faz atlanır (N1)."""
+    state = load_state()
+    if not state["done"] and not state["indexes"]:
+        print("post_state yok/boş — relabel fazı atlandı")
+        return
     by_id = {str(f["id"]): f for f in main + kesifler}
-
-    def sync_thread(tid, msgs):
-        # channel_messages thread starter'ı da içerir (en eski mesaj) — cur[i] <-> msgs[i]
-        cur = channel_messages(tid, limit=50)
-        cur.reverse()
-        for i, m in enumerate(cur):
-            if i >= len(msgs):
-                delete(f"/channels/{tid}/messages/{m['id']}")
-                print("msg deleted (surplus):", tid, i, flush=True)
-                time.sleep(0.3)
-                continue
-            if m["content"] != msgs[i]:
-                patch(f"/channels/{tid}/messages/{m['id']}",
-                      json={"content": msgs[i]})
-                print("msg relabeled:", tid, i, flush=True)
-                time.sleep(0.3)
-        for i in range(len(cur), len(msgs)):
-            post(f"/channels/{tid}/messages", json={"content": msgs[i]})
-            print("msg posted (missing):", tid, i, flush=True)
-            time.sleep(0.3)
 
     for key, tid in state["done"].items():
         slug = key.split("|")[0]
@@ -923,7 +1033,7 @@ def run_relabel(main, kesifler, struct):
         f = by_id.get(key.split("|")[1])
         if f is None:
             continue
-        sync_thread(tid, film_messages(f, forum_label(slug)))
+        sync_msgs(tid, film_messages(f, forum_label(slug)))
 
     for b in band_slugs():
         tid = state["indexes"].get(b)
@@ -932,22 +1042,17 @@ def run_relabel(main, kesifler, struct):
         films = [f for f in main if forum_slug_of(f) == b]
         films.sort(key=lambda f: (-fit_score(f),
                                   norm(title_of(f))))
-        sync_thread(tid, index_messages(forum_label(b),
+        sync_msgs(tid, index_messages(forum_label(b),
                                       [band_entry(f) for f in films],
                                       "uygunluk sırası"))
 
     for slug, text in guide_contents(struct, counts_of(main, kesifler)).items():
         cid = struct["channels"][slug]["id"]
-        cur = channel_messages(cid, limit=20)
-        cur.reverse()
-        if cur and cur[0]["content"] != text:
-            patch(f"/channels/{cid}/messages/{cur[0]['id']}", json={"content": text})
-            print("guide relabeled:", slug, flush=True)
-            time.sleep(0.3)
+        sync_msgs(cid, [text])
 
 
 def main():
-    phase = sys.argv[1] if len(sys.argv) > 1 else "all"
+    phase = PHASE
     main_db, kesifler = split_dbs()
     if phase in ("prep", "all"):
         resolve_posters(main_db + kesifler)
@@ -959,7 +1064,8 @@ def main():
     if phase in ("structure", "all") or not os.path.exists(struct_p):
         struct = build_structure()
     else:
-        struct = json.load(open(struct_p))
+        struct = read_json(struct_p, default={})
+    backup_state()  # yazan fazlardan önce tek seferlik güvenlik kopyası
     if phase in ("guide", "all"):
         run_guide(main_db, kesifler, struct)
     if phase in ("bands", "all"):

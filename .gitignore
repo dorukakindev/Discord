@@ -1,2 +1,5 @@
 bot/filmarchive/work/
 __pycache__/
+.env
+bot/.env
+bot/tests/_work_test/

@@ -1,0 +1,6 @@
+# Bot scriptleri kendi sys.path bootstrap'ını yapar (flat layout) —
+# import'ların dosya başında olmaması bilinçli.
+# Ağ katmanlarındaki geniş `except Exception` blokları retry/fallback
+# deseni olarak bilinçli (BLE001/S110).
+[lint]
+ignore = ["E402", "E501", "RUF100", "BLE001", "S110"]

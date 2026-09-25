@@ -1,0 +1,24 @@
+name: bot-ci
+
+on:
+  push:
+    paths: ['bot/**']
+  pull_request:
+    paths: ['bot/**']
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install deps
+        run: pip install -r bot/requirements.txt pytest ruff
+      - name: Ruff
+        run: cd bot && ruff check .
+      - name: Compile
+        run: cd bot && python -m compileall -q lexicanum.py build_index.py lib/ filmarchive/ wh40k/ tests/
+      - name: Tests
+        run: cd bot && python -m pytest tests/ -q
