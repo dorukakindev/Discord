@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/05/Wrack.jpg/revision/la
 
 ## Tarihçe
 
-Wracks, Haemonculus'ların elindeki sarsılmış-ameliyatlı köle savaşçılar; usta Coven'in şaheseri hizmet bedenleri. 'Ham madde' olarak gördükleri yaşayan aletler — acıya alışmışlardır.
+Wracks, Drukhari'nin 'beden-oyuncu' acolyte birimleridir; Haemonculus'ların laboratuvar yardımcıları olarak kendi bedenlerini deneyle değiştiren bu figürler, 'işkencenin öğrencisi'dir.
 
 -# Kaynaklar: *Drukhari Codex*

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/29/Crimson_hunters_rune.
 
 ## Tarihçe
 
-Crimson Hunters, Aspect Warrior'ların avcı pilotu kolu; Nightshade Interceptor'larıyla hava üstünlüğü kuran elit savaş pilotu tarikatı. 'Avcının gözü' doktrininin havada gövdesi.
+Crimson Hunters, Space Marines'ın 'kızıl avcı' chapter türevlerinden biridir; hava-savaş veya avcı görevlerinde uzmanlaşmış bu birlikler, 'kızıl hedef' doktriniyle savaşır.
 
 -# Kaynaklar: *Craftworlds Codex*
 -# İlişkili kayıtlar: <#1552848842083536986>

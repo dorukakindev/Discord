@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fc/KiavahrSystem.jpg/rev
 
 ## Tarihçe
 
-Kiavahr, Raven Guard'ın gerçek anayurdu; ağır endüstrili forge-dünya ve Deliverance ayının altındaki gezegen. Chapter'ın savaş endüstrisi burada döner — 'gölge adamlar'ın demir üssü.
+Kiavahr, Raven Guard'ın ana dünyası Deliverance'ın ikiz gezegenidir; Forge Dünya olarak chapter'ın techmarine üssü — 'iki yüzlü' dünya: bir yanda fabrika diğer yanda hapisane.
 
 -# Kaynaklar: *Raven Guard Codexleri*
 -# İlişkili kayıtlar: <#1552848758746906684>

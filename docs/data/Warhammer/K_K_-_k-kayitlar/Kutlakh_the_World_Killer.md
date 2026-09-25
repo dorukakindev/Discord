@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7b/MaySymbol.jpg/revisio
 
 ## Tarihçe
 
-Kutlakh, Maynarkh Hanedanı'nın en korkulan Overlord'u; Orpheus Sector'ü aylar içinde yok eden 'World Killer'. Necron fetih doktrininin en acımasız yüzü — gezegenler onun elinde yalnızca 'sorun çözüldü' demek.
+Kutlakh ('Dünya Katili'), Necron'un ünlü 'Crown of Worlds' generallerinden biridir; Toil'in Felaketi olarak da bilinen bu overlord, Maynarkh hanedanının 'yıkım elçisi'dir.
 
 -# Kaynaklar: *Imperial Armour XII*
 -# İlişkili kayıtlar: <#1552849999359123541>

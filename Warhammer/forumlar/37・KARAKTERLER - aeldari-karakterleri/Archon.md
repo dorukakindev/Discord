@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/71/Archon_Vraesque_Malid
 
 ## Tarihçe
 
-Archon, bir Kabal'in hükümdarı ve Commorragh'ın efendisi; darbe, zehir ve entrika üzerinden yükselen zalim lord. Dark City'de güç = mutlak iktidar — her Archon'un en yakın dostu potansiyel katilidir.
+Archon, Drukhari kabal'larının efendisidir; Commorragh'ın en güçlü figürlerinden biri olarak intriques ve güçle hükmeden bu hükümdar, 'Karanlık Şehir'in kralı'.
 
 -# Kaynaklar: *Drukhari Codex*

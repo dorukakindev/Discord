@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ec/Death_Skull_Icon.png/
 
 ## Tarihçe
 
-Lootas, düşman silahlarını ve teknolojisini toplayıp kendi Deffgun'larına çeviren Ork uzmanları; 'yağma kültürü'nün askerileşmiş hali. 'Düşmanın silahı benim silahım' — Mekboy'ların ham madde ekibi.
+Lootas, Ork'ların 'yağmacı' ağır-silah birimleridir; Deffgun taşıyan bu birimler, yağmaladıkları teknolojiyi kaba ama etkili silahlara çeviren 'çöp-dehası' orklar.
 
 -# Kaynaklar: *Orks Codex*
 -# İlişkili kayıtlar: <#1552848911901663262>

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c2/Obelisk2.jpg/revision
 
 ## Tarihçe
 
-Obelisk, Necron'un monolit benzeri ama daha büyük kale-platform'u; yavaş ama durdurulamaz — üzerindeki Gauss silahlarıyla sahadaki her şeyi atomlaştıran yürüyen anıt.
+Obelisk, Necron'ların uçan 'monolith-bebeği' savunma platformudur; menhirs'larını alçaktan uçurup düşman hatlarına konumlandıran bu araç, Necron'un 'hareketli duvar' stratejisini taşır.
 
 -# Kaynaklar: *Necrons Codex*

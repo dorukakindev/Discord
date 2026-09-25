@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4f/DEReaver.jpg/revision
 
 ## Tarihçe
 
-Reavers, jetbike'lı Drukhari hız-çetesi; kabal baskınlarının öncü süvarisi ve arena ölüm-yarışlarının katılımcıları. Hız = hayatta kalma = prestij.
+Reavers, Drukhari'nin jetbike sürücüleridir; Commorragh'ın arenalarındaki ölümcül yarışlarda hayatta kalan bu süvariler, savaş alanında aynı vahşi hızla düşmanı keser. 'Arena'nın en hızlı katilleri' — zıpkın gibi birimler.
 
 -# Kaynaklar: *Drukhari Codex*

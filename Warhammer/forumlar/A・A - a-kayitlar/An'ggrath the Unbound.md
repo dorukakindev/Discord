@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/da/An%27Ggrath_the_Unbou
 
 ## Tarihçe
 
-An'ggrath, Khorne'un en büyük ve 'bağlanmamış' Bloodthirster'ı; tanrının doğrudan öfkesinin vücut bulmuş hali. Bindirilemez, durdurulamaz — sadece yok eder.
+An'ggrath the Unbound, Khorne'un en güçlü Bloodthirster'larından biri olarak bilinen devasa Greater Daemon'dur; 'Bağlanmamış' lakabı, onu kontrol edebilen hiçbir zincirin olmaması demektir. Skarbrand'la birlikte 'en güçlü Khornate' unvanını paylaşır.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850019244183552>

@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/62/Agor_the_Mad_-_Ork_We
 
 ## Tarihçe
 
-Wurrboy, kolektif Ork psişik alanını WAAAGH! gücüne odaklayan şaman-benzeri figür; 'Yeşil Güç'ün bilinçsiz kanalı. Ork'un 'büyücü' versiyonu — ama sihir yerine inanç saçar.
+Wurrboy, Ork'ların 'Warp-Shaman' benzeri psyker varyantıdır; Waaagh enerjisini Warp'a bağlayıp 'WAAAGH-büyü' yapan nadir ork figürü — 'yeşil büyücü'.
 
 -# Kaynaklar: *Orks Codex*

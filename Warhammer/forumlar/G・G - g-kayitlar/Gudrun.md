@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ac/Carnodon.jpg/revision
 
 ## Tarihçe
 
-Gudrun, Calixis Sector'ün hive dünyası ve Inquisitor Eisenhorn'un operasyon merkezi; Helican Sub-sector'ün aristokrasi ve entrika merkezi. 'Parvenu' kültürünün ve gizli soruşturmaların sahnesi.
+Gudrun, Inquisition'ın bilinen operasyon dünyalarından biridir; Eisenhorn operasyonlarında geçen bu dünya, 'Gudrun'da olup biten' olarak İmparatorluk arşivlerinde yer alır.
 
 -# Kaynaklar: *Eisenhorn: Xenos*
 -# İlişkili kayıtlar: <#1552848764249575544>

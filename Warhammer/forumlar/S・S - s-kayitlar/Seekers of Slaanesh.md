@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f2/SeekersofSlaanesh.png
 
 ## Tarihçe
 
-Seekers, Daemonette'lerin Steed'ler üzerindeki süvari versiyonu; aşırılık ve hızın daemonları. 'En hızlı zevk, en keskin ölüm' — Slaanesh'in kovalayan güzelliği.
+Seekers, Slaanesh'in hızlı daemon süvarileridir; 'Daemonette'ların daha hızlı varyantı olarak zevk-arayan bu birimler, düşmanı 'aşırı-uyarılma'yla felç eder.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850011019153438>

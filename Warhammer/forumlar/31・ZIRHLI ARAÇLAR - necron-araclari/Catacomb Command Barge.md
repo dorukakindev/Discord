@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/68/Catacombcommandbarge1
 
 ## Tarihçe
 
-Catacomb Command Barge, Necron Overlord'un kişisel komuta platformu; yüzen, silahlı, orduyu yönlendiren flagship. Lord'ın 'tahtı' — hem sembol hem silah.
+Catacomb Command Barge, Necron overlord'larının uçan komuta platformudur; Annihilation Barge'ın komuta varyantı olarak savaş alanının üstünde süzülüp orduları yönlendirir — Necron komuta hiyerarşisinin 'uçan tahtı'.
 
 -# Kaynaklar: *Necrons Codex*

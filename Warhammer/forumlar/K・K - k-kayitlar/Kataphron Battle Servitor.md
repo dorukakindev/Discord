@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/90/KataphronBreacher2.jp
 
 ## Tarihçe
 
-Kataphron Breacher ve Destroyer sınıfı Battle Servitor'lar; insan üst gövdesi + tank paleti + ağır silah bileşimi. 'Canlı ölüm makinesi' — Mechanicum'un fikir sahibi olmayan ama yıkıcı savaş robotları.
+Kataphron, Adeptus Mechanicus'un 'ikinci sınıf' savaş servitor'üdür; insan kalıntısından yapılmış bu 'yarı-robot' birimler, ölümcül silahlar taşıyan 'et-makine' hibritler.
 
 -# Kaynaklar: *Adeptus Mechanicus Codex*
 -# İlişkili kayıtlar: <#1552848779613306962>

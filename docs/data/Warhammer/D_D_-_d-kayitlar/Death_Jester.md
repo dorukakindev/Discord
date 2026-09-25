@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Death_Jester_updated.
 
 ## Tarihçe
 
-Death Jester, Harlequin'in Shuriken Cannon taşıyan 'kara şakacı' sınıfı; ölümün komedyasını oynayan, düşmana 'son perde'yi getiren maskeli figür. Cegorach'ın kara mizahının somut hali.
+Death Jester, Harlequins'in 'kara palyaço' figürüdür; sahnede ölüm ve kaderi oynayan bu maskeli savaşçı, hem oyuncu hem katildir — 'gülünç ölüm' metaforunun bedeni.
 
 -# Kaynaklar: *Harlequins Codex*
 -# İlişkili kayıtlar: <#1552848848332787715>

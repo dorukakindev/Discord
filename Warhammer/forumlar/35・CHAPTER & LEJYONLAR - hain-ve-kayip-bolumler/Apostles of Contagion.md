@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/41/Apostles_of_Contagion
 
 ## Tarihçe
 
-Apostles of Contagion, Word Bearers'ın Nurgle'a adanmış savaş-badı; 'çürümenin vaazını' veren veba-rahipleri. Kelime + hastalık = Word Bearers mirasının en tiksindirici kolu.
+Apostles of Contagion, Death Guard'ın 'veba elçileri' warband'idir; Nurgle'ın bulaşıcı inancını galaksiye yaymakla görevli bu hain birlikler, vebaplayıcı 'vaizler' olarak savaşır.
 
 -# Kaynaklar: *Chaos Space Marines Codex*

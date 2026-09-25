@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7f/VendettaGunship.png/r
 
 ## Tarihçe
 
-Vendetta, Valkyrie şasisine üçlü Lascannon takılmış anti-tank gunship'i; havadan inen ölüm — 'düşman tankı varsa Vendetta gönder' doktrini. Drop troop'ların ve Scion'ların hava koruyucusu.
+Vendetta, İmparatorluk'un taarruz-versiyonu Valkyrie'dir; lascannon kulesi taşıyan bu helikopter-sınıfı araç, zırhlı avı ve hava desteğini birleştiren 'avcı' platform.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848806285025383>

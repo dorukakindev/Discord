@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f5/Scabeiathrax_-_The_Bl
 
 ## Tarihçe
 
-Scabeiathrax, Nurgle'un en şişkin ve en zehirli Great Unclean One'ı; Vraks Prime'da etkili olan dev veba-daemon. 'Şişkinlik = güç' doktrininin en büyük örneği.
+Scabeiathrax the Bloated ('Vraks'ın Babası'), Nurgle'un Great Unclean One'larından biridir; Vraks Kuşatması'nda çağrılıp gezegenin son savunmasını kıran devasa vebalı daemon. Bedeninden Nurglings fışkıran bu 'babacık', Vraks'ın çöküşünün son damlasıydı.
 
 -# Kaynaklar: *Imperial Armour — Vraks*
 -# İlişkili kayıtlar: <#1552850025523191838>

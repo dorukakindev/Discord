@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/82/Deceiver.jpg/revision
 
 ## Tarihçe
 
-Mephet'ran, Deceiver; Necrontyr'a Biotransference'i 'hediye' diye sunup onları makineleştiren C'tan. Aldatmanın tanrısı — Necron'un varoluşunun baş mimarı ve sonsuz trajedisinin babası.
+Mephet'ran ('Aldatan'), C'tan'ların en eski ve en güçlü figürlerinden biridir; Necron'ları ilk biyodönüşüme ikna eden 'yalancı tanrı' — parçalanmış halde bile galaksinin en zeki düşmanlarından.
 
 -# Kaynaklar: *Necron Codexleri*
 -# İlişkili kayıtlar: <#1552850002962022400>

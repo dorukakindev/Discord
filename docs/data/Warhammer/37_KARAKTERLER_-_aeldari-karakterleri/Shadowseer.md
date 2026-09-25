@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/90/Harlequin_Shadowseer2
 
 ## Tarihçe
 
-Shadowseer, Harlequin Masque'ının psişik rehberi; Webway'de yol gösteren ve savaşta düşmanı illüzyonlarla kör eden 'sahne yönetmeni'. Cegorach'ın büyü sanatının taşıyıcısı — gösteri ve gerçek savaşın birleşimi.
+Shadowseer, Harlequins'in psişik 'gölge-oyuncu'sudur; hayal ve gerçeği karıştıran illüzyonlarla savaşan bu figür, sahnenin 'büyücü' rolünü oynar — Cegorach'ın sihirbazı.
 
 -# Kaynaklar: *Harlequins Codex*

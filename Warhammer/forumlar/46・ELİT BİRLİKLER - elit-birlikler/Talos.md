@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/16/TalosPainEngine.jpg/r
 
 ## Tarihçe
 
-Talos Pain Engine, Haemonculus'un birleştirilmiş-parçalarla ürettiği canlı-savaş makinesi; bir zamanlar yaşayan bedenlerin işlenmiş hali. Sadece acı çekerken beslenen, acı yaymak için var olan yürüyen işkence aleti.
+Talos, Drukhari'nin 'acı motoru' canlı-makine savaş birimleridir; Haemonculus yapımı bu 'ağrı-toplayıcı' araçlar, kurbanlardan acıyı emen canavar-makine hibritler.
 
 -# Kaynaklar: *Drukhari Codex*

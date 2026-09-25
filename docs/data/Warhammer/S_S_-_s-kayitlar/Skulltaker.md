@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/99/Skulltaker_Updated.pn
 
 ## Tarihçe
 
-U'zuhl Skulltaker, Khorne'un Herald'ı ve efsanevi baş avcısı; 'Kan için! Kafatası için!' savaş çığlığının en saf hali. Her düşmanın kafatasını Skull Throne'a ekler — ölümün koleksiyonu.
+Skulltaker, Khorne'un 'kafa avcısı' Herald'ıdır; U'Zuhl lakabıyla bilinen bu daemon, özel olarak 'adını bilen' düşmanları avlayıp kafataslarını toplar — Khorne'un en ünlü 'kişisel' katili.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850016459161770>

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/96/Syll%27EsskeMini.jpg/
 
 ## Tarihçe
 
-Syll'Esske, daemon prince Syll ve Herald Esske'nin bağlı ikilisi; birlikte savaşan, birlikte düşünen Slaanesh'in 'aşk-ölüm' çifti. İlişki = güç doktrininin tekil örneği.
+Syll'Esske, Slaanesh'in 'simyacı' Keeper of Secrets'ıdır; daemon-mortal çiftinin birleşmiş hali olarak Syll (daemon) ve Esske (mortal) tek beden — 'birleşik' Karanlık Prens avatarsı.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850039137636462>

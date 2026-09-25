@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Kanak_Skull_Taker.jpg
 
 ## Tarihçe
 
-Kanak, ölüm dünyası ve Astra Militarum'un en sert alaylarından Kanak Skull Takers'ın anayurdu; sürüngen-xeno flora faunasıyla dolu vahşi orman gezegeni. 'Savaşmayı öğrenmeden yaşamayı öğrenemezsin' dünyasının adı.
+Kanak, Armageddon Ork Hunters'ın 'Kanak Skull-Takers' alayının adını taşıyan dünyadır; Catachan'ların Ork-avcı kuzeni olarak bilinen bu alaylar, 'kafa avcı' geleneğini sürdürür.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848761439649882>

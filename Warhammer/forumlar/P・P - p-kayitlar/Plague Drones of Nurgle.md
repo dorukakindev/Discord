@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/21/PlagueDroneofNurgle1.
 
 ## Tarihçe
 
-Plague Drones, Nurgle'un uçan veba yayıcıları; dev sinek gövdeli daemonlar. Havada veba yağdıran Plaguebearer'ların kuzeni — 'Hastalık Baba'nın pilotları'.
+Plague Drones, Nurgle'un uçan daemonik birimleridir; Rot Flies'ın üstüne binmiş Plaguebearer'lardan oluşan bu 'sürü', veba taşıyan kılıçları ve kusmuklarıyla hem hava hem kara saldırı yapar. Morbidus X olarak da bilinen sürüleri Mortarion'un Plague Wars'ında kilit rol oynadılar.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850013372293134>

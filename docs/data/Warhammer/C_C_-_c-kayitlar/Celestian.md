@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Imperial_eagle.jpg/re
 
 ## Tarihçe
 
-Celestian'lar, Order'in en savaşmış ve inançlı veteran Sister'ları; Superior'lerin kişisel koruması ve en zor görevleri alan elit mangalar. 'Martyred Lady'nin kılıcı' — deneyimin zirvesi.
+Celestian, Adepta Sororitas'ın 'göksel' elite savaşçılarıdır; Orders Militant'ın en deneyimli rahibeleri olarak 'aziz muadili' sayılan bu birlikler, İmparator'un 'seçilmiş kızları'dır.
 
 -# Kaynaklar: *Adepta Sororitas Codex*
 -# İlişkili kayıtlar: <#1552848797984489623>

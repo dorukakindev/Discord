@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/28/Banesword.png/revisio
 
 ## Tarihçe
 
-Banesword, Shadowsword şasisine Quake Cannon benzeri silah takılmış Titan-avcısı; süper-ağır araçların 'kale düşürücü' versiyonu. Guard'ın god-engine öldürücüsü.
+Banesword, Baneblade'in ağır-kuşatma varyantıdır; standarttan daha ağır zırh taşıyan bu süper-ağır, kuşatma savaşlarında İmparatorluk'un 'taş kırıcısı' olarak bilinir.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848830934945822>

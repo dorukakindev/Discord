@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c0/RetributorsBadge.JPG/
 
 ## Tarihçe
 
-Retributor mangaları, Battle Sister'ların ağır silah taşıyan elit desteği; Multi-Melta ve Heavy Bolter'larla 'divine retribution' (ilahî intikam) getiren birlik. Sororitas'ın 'ateş gücü' bacağı.
+Retributor, Adepta Sororitas'ın ağır-silah uzmanı birimidir; 'cezalandırıcı' anlamına gelen bu elite kadro, meltalar ve heavy bolter'larla İmparator'un 'öfkeli adaleti'ni taşır.
 
 -# Kaynaklar: *Adepta Sororitas Codex*

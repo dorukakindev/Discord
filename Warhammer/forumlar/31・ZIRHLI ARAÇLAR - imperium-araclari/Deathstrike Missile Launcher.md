@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1e/Deathstrike1.png/revi
 
 ## Tarihçe
 
-Deathstrike, tek devasa füze taşıyan Guard füze rampası; kıtalararası çapta delici patlama gücüyle 'nihai cevap' aracı. 'Sadece bir atış' — Guard'ın stratejik yumruğu.
+Deathstrike, İmparatorluk'un tek-atımlık devasa balistik füze taşıyıcısıdır; intercontinental boyutta yıkım gücü taşıyan tek füzesiyle 'dünya düzleme' silahı olarak bilinir — karar verme otoritesi sadece en üst komuta.
 
 -# Kaynaklar: *Astra Militarum Codexleri*

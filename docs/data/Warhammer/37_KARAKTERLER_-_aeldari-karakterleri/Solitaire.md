@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Frozen_Stars_Solitair
 
 ## Tarihçe
 
-Solitaire, Harlequin'in en güçlü ve en lanetli rolü; She Who Thirsts'ü sahnede oynayan tek figür. Ruhu Slaanesh'e vaat edilmiş — Cegorach'ın 'çalma' hilesi dışında kurtuluşu yok. Aeldari'nin en trajik rolü.
+Solitaire ('Yalnız'), Harlequins'in en gizemli ve ölümcül figürüdür; Slaanesh'i oynayabilen tek varlık olarak 'lanetli oyuncu' — performansı seyredeni bile delirten maske.
 
 -# Kaynaklar: *Harlequins Codex*
