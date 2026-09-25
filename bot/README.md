@@ -57,6 +57,13 @@ python3 filmarchive/dump_all.py --dry-run
 
 Geliştirme/test: `cd bot && ruff check . && python -m pytest tests/` — bulgu takibi `BULGULAR.md`.
 
+## Docker (alternatif)
+
+```bash
+cd bot && docker build -t lexicanum .
+docker run -d --name lexicanum --restart unless-stopped --env-file .env lexicanum
+```
+
 ## Oracle Cloud Always Free kurulumu (kalıcı, ücretsiz)
 
 1. `cloud.oracle.com` → **Sign Up** (kredi kartı ister, ücret almaz).
