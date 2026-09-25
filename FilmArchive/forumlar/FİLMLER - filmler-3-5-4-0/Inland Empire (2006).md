@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/s5f0FbVAABEnJYKaApWORTxhiFC.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Inland Empire (2006)
 > **Yönetmen:** David Lynch · **Tür:** Dram, Fantastik, Gizem · **Süre:** 180 dk · **Dil:** İngilizce, Lehçe · **Yıl:** 2006

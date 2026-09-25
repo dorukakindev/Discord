@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # 2001: A Space Odyssey (1968)
 > **Yönetmen:** Stanley Kubrick · **Tür:** Macera, Bilim Kurgu · **Süre:** 149 dk · **Dil:** İngilizce · **Yıl:** 1968

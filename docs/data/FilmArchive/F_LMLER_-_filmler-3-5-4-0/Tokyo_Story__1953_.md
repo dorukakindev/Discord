@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Tokyo Story (1953)
 > **Yönetmen:** Yasujirô Ozu · **Tür:** Dram · **Süre:** 137 dk · **Dil:** Japonca · **Yıl:** 1953

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/x8zenootZTTB1iEdUQA9dnEuLqv.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # A Short Film About Killing (1988)
 > **Yönetmen:** Krzysztof Kieslowski · **Tür:** Suç, Dram · **Süre:** 85 dk · **Dil:** Lehçe · **Yıl:** 1988

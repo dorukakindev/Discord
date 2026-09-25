@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Dancer in the Dark (2000)
 > **Yönetmen:** Lars von Trier · **Tür:** Suç, Dram, Musical · **Süre:** 140 dk · **Dil:** İngilizce · **Yıl:** 2000

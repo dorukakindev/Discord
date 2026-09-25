@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Pulp Fiction (1994)
 > **Yönetmen:** Quentin Tarantino · **Tür:** Suç, Dram · **Süre:** 154 dk · **Dil:** İngilizce · **Yıl:** 1994

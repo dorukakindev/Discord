@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/9iUdC4dftkjYSBUJq5DAxC6WqB9.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # That Obscure Object of Desire (1977)
 > **Yönetmen:** Luis Buñuel · **Tür:** Komedi, Dram, Romantik · **Süre:** 103 dk · **Dil:** İspanyolca, Fransızca · **Yıl:** 1977

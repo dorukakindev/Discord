@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Silence (2016)
 > **Yönetmen:** Martin Scorsese · **Tür:** Dram, Tarih · **Süre:** 161 dk · **Dil:** İngilizce, Japonca, Latince · **Yıl:** 2016

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/kauXmH1RQRNbFBiAKA1EpQZILP3.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # In a Year with 13 Moons (1978)
 > **Yönetmen:** Rainer Werner Fassbinder · **Tür:** Dram · **Süre:** 124 dk · **Dil:** Almanca · **Yıl:** 1978

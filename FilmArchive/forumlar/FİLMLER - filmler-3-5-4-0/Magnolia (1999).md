@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Magnolia (1999)
 > **Yönetmen:** Paul Thomas Anderson · **Tür:** Dram · **Süre:** 189 dk · **Dil:** İngilizce · **Yıl:** 1999

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # mother! (2017)
 > **Yönetmen:** Darren Aronofsky · **Tür:** Dram, Korku, Gizem · **Süre:** 121 dk · **Dil:** Amerikan İngilizcesi · **Yıl:** 2017

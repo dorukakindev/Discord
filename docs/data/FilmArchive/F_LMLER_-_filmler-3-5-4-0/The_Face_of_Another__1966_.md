@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/eUnFdf1Mf1b8AD3ChMPOCUfTBDQ.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Face of Another (1966)
 > **Yönetmen:** Hiroshi Teshigahara · **Tür:** Dram, Bilim Kurgu, Gerilim · **Süre:** 122 dk · **Dil:** Japonca · **Yıl:** 1966

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Shining (1980)
 > **Yönetmen:** Stanley Kubrick · **Tür:** Dram, Korku · **Süre:** 144 dk · **Dil:** İngilizce · **Yıl:** 1980

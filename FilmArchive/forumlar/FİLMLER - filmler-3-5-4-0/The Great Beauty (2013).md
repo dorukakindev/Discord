@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/7suf0vaQfv5E7X1GVh4HJwK90yo.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Great Beauty (2013)
 > **Yönetmen:** Paolo Sorrentino · **Tür:** Dram · **Süre:** 142 dk · **Dil:** İtalyanca · **Yıl:** 2013

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # A Woman Under the Influence (1974)
 > **Yönetmen:** John Cassavetes · **Tür:** Dram, Romantik · **Süre:** 155 dk · **Dil:** İngilizce · **Yıl:** 1974

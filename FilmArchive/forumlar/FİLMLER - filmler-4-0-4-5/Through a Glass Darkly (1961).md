@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg
 -# THE FILM ARCHIVE · Filmler · 4.0–4.5 · Kayıt
 # Through a Glass Darkly (1961)
 > **Yönetmen:** Ingmar Bergman · **Tür:** Dram · **Süre:** 91 dk · **Dil:** İsveççe · **Yıl:** 1961

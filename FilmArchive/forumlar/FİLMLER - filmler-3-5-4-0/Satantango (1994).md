@@ -1,10 +1,17 @@
+https://images.metahub.space/poster/small/tt0111341/img
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Satantango (1994)
 > **Yıl:** 1994
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
+### Puanlar
+IMDb **8.2/10** · Letterboxd **4.36/5** · nMDB **84.6**
+
 ### Katmanlar (0–10)
 Düşünsel **9** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** · Sembolik **9** · Politik **5** · Felsefi **8** · Ezoterik **5** · Fikir-karakter **9**
+
+### Bağlantılar
+[IMDb](https://www.imdb.com/title/tt0111341/) · [Letterboxd](https://boxd.it/1j9M)
 
 -# nMDB arşiv kaydı #622
 

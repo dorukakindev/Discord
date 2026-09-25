@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Salò, or the 120 Days of Sodom (1975)
 > **Yönetmen:** Pier Paolo Pasolini · **Tür:** Dram · **Süre:** 117 dk · **Dil:** Fransızca, Almanca, İtalyanca · **Yıl:** 1975

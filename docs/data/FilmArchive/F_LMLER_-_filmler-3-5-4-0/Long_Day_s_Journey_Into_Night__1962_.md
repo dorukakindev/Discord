@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/b7cu92b2sAJix1WFiLZiHSkZY1r.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Long Day's Journey Into Night (1962)
 > **Yönetmen:** Sidney Lumet · **Tür:** Dram · **Süre:** 170 dk · **Dil:** İngilizce · **Yıl:** 1962

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Father (2020)
 > **Yönetmen:** Florian Zeller · **Tür:** Dram, Gizem · **Süre:** 97 dk · **Dil:** İngilizce · **Yıl:** 2020

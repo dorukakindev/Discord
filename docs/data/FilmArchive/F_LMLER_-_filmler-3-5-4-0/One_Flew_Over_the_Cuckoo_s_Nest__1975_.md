@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # One Flew Over the Cuckoo's Nest (1975)
 > **Yönetmen:** Miloš Forman · **Tür:** Dram · **Süre:** 133 dk · **Dil:** İngilizce · **Yıl:** 1975

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # A Separation (2011)
 > **Yönetmen:** Asghar Farhadi · **Tür:** Dram · **Süre:** 123 dk · **Dil:** Farsça · **Yıl:** 2011

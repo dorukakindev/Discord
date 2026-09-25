@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Sunset Boulevard (1950)
 > **Yönetmen:** Billy Wilder · **Tür:** Dram, Film-Noir · **Süre:** 110 dk · **Dil:** İngilizce · **Yıl:** 1950

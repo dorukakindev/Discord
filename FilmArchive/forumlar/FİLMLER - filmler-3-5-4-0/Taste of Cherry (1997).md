@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Taste of Cherry (1997)
 > **Yönetmen:** Abbas Kiarostami · **Tür:** Dram · **Süre:** 99 dk · **Dil:** Farsça · **Yıl:** 1997

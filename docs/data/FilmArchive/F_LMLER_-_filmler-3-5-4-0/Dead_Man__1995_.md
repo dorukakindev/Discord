@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Dead Man (1995)
 > **Yönetmen:** Jim Jarmusch · **Tür:** Macera, Dram, Western · **Süre:** 122 dk · **Dil:** İngilizce · **Yıl:** 1995

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/xMYP4uaNeyPmX4FQ2xxWk2eIN6K.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Naked (1993)
 > **Yönetmen:** Mike Leigh · **Tür:** Komedi, Dram · **Süre:** 131 dk · **Dil:** İngilizce · **Yıl:** 1993

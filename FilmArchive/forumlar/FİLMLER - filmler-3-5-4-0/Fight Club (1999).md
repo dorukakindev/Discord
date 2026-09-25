@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Fight Club (1999)
 > **Yönetmen:** David Fincher · **Tür:** Suç, Dram, Gerilim · **Süre:** 139 dk · **Dil:** İngilizce · **Yıl:** 1999

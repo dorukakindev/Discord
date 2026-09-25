@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # First Reformed (2017)
 > **Yönetmen:** Paul Schrader · **Tür:** Dram, Gizem, Gerilim · **Süre:** 113 dk · **Dil:** İngilizce · **Yıl:** 2017

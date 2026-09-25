@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Holy Motors (2012)
 > **Yönetmen:** Leos Carax · **Tür:** Dram, Fantastik · **Süre:** 116 dk · **Dil:** Fransızca, İngilizce, Standart Çince · **Yıl:** 2012

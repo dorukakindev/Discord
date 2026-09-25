@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/2KkHAsBVZVoMO1Zauvm5rFSxp09.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Silence (1963)
 > **Yönetmen:** Ingmar Bergman · **Tür:** Dram · **Süre:** 95 dk · **Dil:** İsveççe · **Yıl:** 1963

@@ -1,10 +1,17 @@
+https://images.metahub.space/poster/small/tt6710474/img
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Everything Everywhere All at Once (2022)
 > **Yıl:** 2022
 **Sana uygunluk: 3.7/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve olay örgüsü 8/10.
 
+### Puanlar
+IMDb **7.7/10** · Letterboxd **4.24/5** · nMDB **80.9**
+
 ### Katmanlar (0–10)
 Düşünsel **7** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **8** · Sembolik **8** · Politik **3** · Felsefi **6** · Ezoterik **4** · Fikir-karakter **8**
+
+### Bağlantılar
+[IMDb](https://www.imdb.com/title/tt6710474/) · [Letterboxd](https://boxd.it/jUk4)
 
 -# nMDB arşiv kaydı #639
 

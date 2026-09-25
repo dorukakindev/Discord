@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/fa0RDkAlCec0STeMNAhPaF89q6U.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # There Will Be Blood (2007)
 > **Yönetmen:** Paul Thomas Anderson · **Tür:** Dram · **Süre:** 158 dk · **Dil:** İngilizce · **Yıl:** 2007

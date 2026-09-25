@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg
 -# THE FILM ARCHIVE · Filmler · 4.0–4.5 · Kayıt
 # Solaris (1972)
 > **Yönetmen:** Andrei Tarkovsky · **Tür:** Macera, Dram, Gizem · **Süre:** 167 dk · **Dil:** Rusça · **Yıl:** 1972

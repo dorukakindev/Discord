@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The White Ribbon (2009)
 > **Yönetmen:** Michael Haneke · **Tür:** Dram, Gizem, Gerilim · **Süre:** 144 dk · **Dil:** Almanca · **Yıl:** 2009

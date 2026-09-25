@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/kS7i093sQpkLTawUEdgf4HVOHSc.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Amarcord (1973)
 > **Yönetmen:** Federico Fellini · **Tür:** Komedi, Dram · **Süre:** 123 dk · **Dil:** Grekçe, İtalyanca · **Yıl:** 1973

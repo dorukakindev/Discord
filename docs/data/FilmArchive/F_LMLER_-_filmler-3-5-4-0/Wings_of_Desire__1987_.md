@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Wings of Desire (1987)
 > **Yönetmen:** Wim Wenders · **Tür:** Dram, Fantastik, Romantik · **Süre:** 128 dk · **Dil:** İspanyolca, Fransızca, İngilizce, Almanca, Türkçe, Japonca, İbranice · **Yıl:** 1987

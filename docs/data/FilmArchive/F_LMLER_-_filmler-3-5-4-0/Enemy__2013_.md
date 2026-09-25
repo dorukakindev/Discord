@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Enemy (2013)
 > **Yönetmen:** Denis Villeneuve · **Tür:** Dram, Gizem, Gerilim · **Süre:** 91 dk · **Dil:** İngilizce · **Yıl:** 2013

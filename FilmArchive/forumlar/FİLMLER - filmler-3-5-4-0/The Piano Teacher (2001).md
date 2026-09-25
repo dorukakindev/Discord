@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Piano Teacher (2001)
 > **Yönetmen:** Michael Haneke · **Tür:** Dram, Müzik, Romantik · **Süre:** 131 dk · **Dil:** Fransızca · **Yıl:** 2001

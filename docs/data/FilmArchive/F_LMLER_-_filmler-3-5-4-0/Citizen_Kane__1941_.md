@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Citizen Kane (1941)
 > **Yönetmen:** Orson Welles · **Tür:** Dram, Gizem · **Süre:** 119 dk · **Dil:** İngilizce · **Yıl:** 1941

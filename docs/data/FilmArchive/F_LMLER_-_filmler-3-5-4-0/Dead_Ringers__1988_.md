@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Dead Ringers (1988)
 > **Yönetmen:** David Cronenberg · **Tür:** Dram, Korku, Gerilim · **Süre:** 115 dk · **Dil:** İngilizce · **Yıl:** 1988

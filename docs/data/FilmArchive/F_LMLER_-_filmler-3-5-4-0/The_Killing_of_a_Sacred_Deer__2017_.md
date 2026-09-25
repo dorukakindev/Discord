@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Killing of a Sacred Deer (2017)
 > **Yönetmen:** Yorgos Lanthimos · **Tür:** Dram, Korku, Gizem · **Süre:** 121 dk · **Dil:** İngilizce · **Yıl:** 2017

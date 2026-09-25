@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/gkoZ8fFib24zhB2DKpjQ09SK9FU.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # A Man Escaped (1956)
 > **Yönetmen:** Robert Bresson · **Tür:** Dram, Gerilim, Savaş · **Süre:** 101 dk · **Dil:** Fransızca · **Yıl:** 1956

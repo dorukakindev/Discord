@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/31FGQu3OnwdmS4COquENe0vMZc0.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Being John Malkovich (1999)
 > **Yönetmen:** Spike Jonze · **Tür:** Komedi, Dram, Fantastik · **Süre:** 113 dk · **Dil:** İngilizce · **Yıl:** 1999

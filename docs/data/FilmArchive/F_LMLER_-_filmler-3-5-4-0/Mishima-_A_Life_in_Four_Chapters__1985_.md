@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Mishima: A Life in Four Chapters (1985)
 > **Yönetmen:** Paul Schrader · **Tür:** Biography, Dram · **Süre:** 121 dk · **Dil:** İngilizce, Japonca · **Yıl:** 1985

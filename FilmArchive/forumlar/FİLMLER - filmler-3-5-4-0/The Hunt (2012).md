@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/jkixsXzRh28q3PCqFoWcf7unghT.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Hunt (2012)
 > **Yönetmen:** Thomas Vinterberg · **Tür:** Dram · **Süre:** 116 dk · **Dil:** Danca · **Yıl:** 2012

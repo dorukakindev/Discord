@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Lobster (2015)
 > **Yönetmen:** Yorgos Lanthimos · **Tür:** Dram, Romantik, Bilim Kurgu · **Süre:** 119 dk · **Dil:** İngilizce · **Yıl:** 2015

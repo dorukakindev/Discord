@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # No Country for Old Men (2007)
 > **Yönetmen:** Ethan Coen, Joel Coen · **Tür:** Suç, Dram, Gerilim · **Süre:** 122 dk · **Dil:** İngilizce · **Yıl:** 2007

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/s7kGE1MChkHD5VX8sv7SOGabGMZ.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Wild Pear Tree (2018)
 > **Yönetmen:** Nuri Bilge Ceylan · **Tür:** Dram · **Süre:** 188 dk · **Dil:** Türkçe · **Yıl:** 2018

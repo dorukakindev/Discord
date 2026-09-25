@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Poor Things (2023)
 > **Yönetmen:** Yorgos Lanthimos · **Tür:** Komedi, Dram, Romantik · **Süre:** 141 dk · **Dil:** İngilizce · **Yıl:** 2023

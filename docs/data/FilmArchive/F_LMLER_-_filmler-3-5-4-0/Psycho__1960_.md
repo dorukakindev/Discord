@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Psycho (1960)
 > **Yönetmen:** Alfred Hitchcock · **Tür:** Dram, Korku, Gizem · **Süre:** 109 dk · **Dil:** İngilizce · **Yıl:** 1960

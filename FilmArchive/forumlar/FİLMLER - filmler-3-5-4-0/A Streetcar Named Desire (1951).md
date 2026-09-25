@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # A Streetcar Named Desire (1951)
 > **Yönetmen:** Elia Kazan · **Tür:** Dram · **Süre:** 125 dk · **Dil:** İngilizce · **Yıl:** 1951

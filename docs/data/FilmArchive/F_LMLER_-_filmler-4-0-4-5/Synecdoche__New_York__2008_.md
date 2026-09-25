@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg
 -# THE FILM ARCHIVE · Filmler · 4.0–4.5 · Kayıt
 # Synecdoche, New York (2008)
 > **Yönetmen:** Charlie Kaufman · **Tür:** Dram · **Süre:** 124 dk · **Dil:** İngilizce · **Yıl:** 2008

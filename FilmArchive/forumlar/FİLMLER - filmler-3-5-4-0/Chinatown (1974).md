@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Chinatown (1974)
 > **Yönetmen:** Roman Polanski · **Tür:** Dram, Gizem, Gerilim · **Süre:** 130 dk · **Dil:** İngilizce · **Yıl:** 1974

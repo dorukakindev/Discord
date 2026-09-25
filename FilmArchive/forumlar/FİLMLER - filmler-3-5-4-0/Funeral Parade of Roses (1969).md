@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/7cRQ6rSGajW2soWDr3voEN2rgYO.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Funeral Parade of Roses (1969)
 > **Yönetmen:** Toshio Matsumoto · **Tür:** Dram · **Süre:** 105 dk · **Dil:** Japonca · **Yıl:** 1969

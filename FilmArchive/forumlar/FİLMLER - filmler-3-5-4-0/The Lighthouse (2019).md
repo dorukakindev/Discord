@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Lighthouse (2019)
 > **Yönetmen:** Robert Eggers · **Tür:** Dram, Fantastik, Korku · **Süre:** 109 dk · **Dil:** İngilizce · **Yıl:** 2019

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/oBUsLGZoGuLKMuHj19mjG9iCDoq.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Loveless (2017)
 > **Yönetmen:** Andrey Zvyagintsev · **Tür:** Dram · **Süre:** 122 dk · **Dil:** Rusça · **Yıl:** 2017

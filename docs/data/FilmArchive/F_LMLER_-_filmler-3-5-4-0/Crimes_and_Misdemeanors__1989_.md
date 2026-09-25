@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/6vC6MLYUICH57MmEVi1UaNaj2Qs.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Crimes and Misdemeanors (1989)
 > **Yönetmen:** Woody Allen · **Tür:** Komedi, Dram · **Süre:** 104 dk · **Dil:** İngilizce · **Yıl:** 1989

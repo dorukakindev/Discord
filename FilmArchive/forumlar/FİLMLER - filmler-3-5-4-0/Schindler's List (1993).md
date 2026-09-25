@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Schindler's List (1993)
 > **Yönetmen:** Steven Spielberg · **Tür:** Biography, Dram, Tarih · **Süre:** 195 dk · **Dil:** İngilizce · **Yıl:** 1993

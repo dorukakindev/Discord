@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/cr01316AyxUZyZrdLwzz3AXrgJc.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Passion of Anna (1969)
 > **Yönetmen:** Ingmar Bergman · **Tür:** Dram · **Süre:** 101 dk · **Dil:** İsveççe · **Yıl:** 1969

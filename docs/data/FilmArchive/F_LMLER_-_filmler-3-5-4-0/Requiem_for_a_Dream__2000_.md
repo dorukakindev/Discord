@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Requiem for a Dream (2000)
 > **Yönetmen:** Darren Aronofsky · **Tür:** Dram · **Süre:** 102 dk · **Dil:** İngilizce · **Yıl:** 2000

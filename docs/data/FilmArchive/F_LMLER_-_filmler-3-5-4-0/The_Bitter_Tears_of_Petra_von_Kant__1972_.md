@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/bkxrRfXaoTvZObG1Gd91x2mnmFX.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Bitter Tears of Petra von Kant (1972)
 > **Yönetmen:** Rainer Werner Fassbinder · **Tür:** Dram, Romantik · **Süre:** 124 dk · **Dil:** Almanca · **Yıl:** 1972

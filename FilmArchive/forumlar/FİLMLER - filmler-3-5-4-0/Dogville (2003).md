@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/lraVawavIXh5geMlVjpzCw9TGwR.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Dogville (2003)
 > **Yönetmen:** Lars von Trier · **Tür:** Suç, Dram · **Süre:** 178 dk · **Dil:** İngilizce · **Yıl:** 2003

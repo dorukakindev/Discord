@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/hJOju5XZfmq4Lg5dPa8IPVY3mDt.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # The Ascent (1977)
 > **Yönetmen:** Larisa Shepitko · **Tür:** Dram, Savaş · **Süre:** 109 dk · **Dil:** Almanca, Rusça · **Yıl:** 1977

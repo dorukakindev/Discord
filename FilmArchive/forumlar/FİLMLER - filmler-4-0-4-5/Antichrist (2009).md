@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg
 -# THE FILM ARCHIVE · Filmler · 4.0–4.5 · Kayıt
 # Antichrist (2009)
 > **Yönetmen:** Lars von Trier · **Tür:** Dram, Korku, Gerilim · **Süre:** 104 dk · **Dil:** İngilizce · **Yıl:** 2009

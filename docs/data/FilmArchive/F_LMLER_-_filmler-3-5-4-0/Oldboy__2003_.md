@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Oldboy (2003)
 > **Yönetmen:** Park Chan-wook · **Tür:** Aksiyon, Dram, Gizem · **Süre:** 120 dk · **Dil:** Korece · **Yıl:** 2003

@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/gQRfiyfGvr1az0quaYyMram3Aqt.jpg
 -# THE FILM ARCHIVE · Filmler · 4.0–4.5 · Kayıt
 # Amadeus (1984)
 > **Yönetmen:** Miloš Forman · **Tür:** Biography, Dram, Müzik · **Süre:** 160 dk · **Dil:** İngilizce · **Yıl:** 1984

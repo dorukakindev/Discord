@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Talk to Her (2002)
 > **Yönetmen:** Pedro Almodóvar · **Tür:** Dram, Gizem, Romantik · **Süre:** 112 dk · **Dil:** İspanyolca · **Yıl:** 2002

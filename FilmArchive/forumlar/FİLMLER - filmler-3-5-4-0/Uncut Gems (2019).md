@@ -1,3 +1,4 @@
+https://media.themoviedb.org/t/p/w500/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg
 -# THE FILM ARCHIVE · Filmler · 3.5–4.0 · Kayıt
 # Uncut Gems (2019)
 > **Yönetmen:** Benny Safdie, Josh Safdie · **Tür:** Suç, Dram, Gerilim · **Süre:** 136 dk · **Dil:** İngilizce · **Yıl:** 2019
