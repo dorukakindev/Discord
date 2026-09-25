@@ -21,22 +21,28 @@
 - <#1551815223575322657>
 - <#1551815248548335678>
 
-• **Chaos Havocs**
-• **Gunnery Sergeant 'Demolition' Harker**
-• **Haemonculi**
-• **Halo Devices**
-• **Harlequins**
-• **Hector Rex (Lord Inquisitor)**
-• **Hierodule**
-• **High Lords of Terra**
-• **Hive Fleet Kraken**
-• **Hive Fleets**
-• **Hive Mind**
-• **Honsou**
-• **Horus Heresy**
-• **Horus Lupercal**
-• **House Raven**
-• **House Taranis**
-• **House Terryn**
-• **Howling Griffons**
-• **Huron Blackheart**
+-# THE IMPERIAL ARCHIVE · H Kayıtları · Kayıt Dizini
+# H Harfi Kayıt Dizini
+
+Bu forumdaki tüm kayıtların alfabetik dizini:
+
+• **Chaos Havocs**  <#1551905394807283793>
+• **Gunnery Sergeant 'Demolition' Harker**  <#1551905383386316840>
+• **Haemonculi**  <#1551815081644265473>
+• **Halo Devices**  <#1552695340904226886>
+• **Harlequins**  <#1551815008558514187>
+• **Hector Rex (Lord Inquisitor)**  <#1552690610073510093>
+• **Hellhammer**  <#1552850187779702854>
+• **Hierodule**  <#1552694210849677355>
+• **High Lords of Terra**  <#1551815098081742862>
+• **Hive Fleet Kraken**  <#1552690565748101190>
+• **Hive Fleets**  <#1551815033518948404>
+• **Hive Mind**  <#1551814990338723904>
+• **Honsou**  <#1551815119212650547>
+• **Horus Heresy**  <#1551814951365115956>
+• **Horus Lupercal**  <#1551815056071856191>
+• **House Raven**  <#1551815148606590987>
+• **House Taranis**  <#1551815173562568747>
+• **House Terryn**  <#1551815202532626494>
+• **Howling Griffons**  <#1551815223575322657>
+• **Huron Blackheart**  <#1551815248548335678>
