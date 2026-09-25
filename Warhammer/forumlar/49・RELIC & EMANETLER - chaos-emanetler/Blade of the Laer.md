@@ -14,6 +14,6 @@ Blade'in gücü, hem fiziksel hem ruhsaldir: her yarası 'zevk ve acının' kar�
 
 ## Tarihçe
 
-Laer'ların Chaos'a bağlanmış kılıcı; Fulgrim'i ilk kez Chaos'a çeken artefakt. Işık ve zehir bir arada — düşüşün başlangıcı.
+Blade of the Laer, Fulgrim'in Laeran tapınağından aldığı meşhur daemon-kılıçtır; içindeki daemon ruhu, primarch'ın yavaş yavaş yozlaşmasının araçlarından biriydi. Fulgrim onu İmparatorluk Tarikatı'ndaki zafer töreninden sonra kuşandı ve kılıç, onu Slaanesh'in yoluna çeken sinsi bir sırdaş oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

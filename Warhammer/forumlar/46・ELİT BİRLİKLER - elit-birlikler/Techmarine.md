@@ -10,6 +10,6 @@ Techmarine (Tekno-rahip Savaşçı), bir Space Marine Chapter'ı içinde benzers
 
 ## Tarihçe
 
-Hem Astartes hem Mechanicus eğitimli; Chapter'ın teknoloji bekçisi ve tamircisi. Zırh ve makine arasındaki köprü.
+Techmarine, Space Marine chapter'ının teknisyen-savaşçısıdır; zırh, silah ve makine-ruhların bakımcısı. Mars'ta eğitilmiş bu savaşçılar, chapter'ın 'kutsal tamirci' rolünü üstlenir — savaş alanında onarım ve teknoloji.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

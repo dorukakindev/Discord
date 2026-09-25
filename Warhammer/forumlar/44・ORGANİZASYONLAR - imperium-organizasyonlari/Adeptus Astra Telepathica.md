@@ -12,6 +12,6 @@ Adeptus Astra Telepathica, İmparatorluğun psyker'larla (psişik güce sahip mu
 
 ## Tarihçe
 
-İmparatorluk'un psyker kurumu; Scholastica Psykana ve Astropath'ların evi. Telepati ve ışık hızı iletişimin resmi sağlayıcısı.
+Adeptus Astra Telepathica, İmparatorluk'un psyker yetiştirme ve yönetim kurumudur; Astropath'leri eğitir ve onları İmparatorluk iletişim ağına bağlar. Black Ships ile tüm dünyalardan psyker'ları toplar — İmparatorluk'un telepatik omurgası bu kurumun ellerinde çalışır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

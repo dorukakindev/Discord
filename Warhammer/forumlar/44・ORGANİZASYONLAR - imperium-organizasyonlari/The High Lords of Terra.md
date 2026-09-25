@@ -12,6 +12,6 @@ Teorik olarak, Yüksek Lordlar İmparator'un kutsal iradesini hayata geçiren bi
 
 ## Tarihçe
 
-İmparatorluk'un on iki efendisi; Terra'dan galaksiyi yöneten konsey. İmparator'un sessizliğinde onlar konuşur.
+High Lords of Terra, İmparator'un adına İmparatorluk'u yöneten on iki kişilik konseydir; Adeptus Terra'nın en üst otoritesi olarak Ecclesiarchy, Administratum, Mechanicus, Inquisition ve diğer kurumların başlarından oluşur. Golden Throne'a bağlı İmparator'un 'sesi' olarak milyonlarca dünyanın kaderini belirlerler — İmparatorluk'un gerçek hükümeti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

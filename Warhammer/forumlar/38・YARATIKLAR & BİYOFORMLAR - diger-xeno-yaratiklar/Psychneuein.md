@@ -15,6 +15,6 @@ Psychneuein, Catachan ve diğer ölü dünyaların 'psi-avcı' yaratıklarıdır
 
 ## Tarihçe
 
-Psişik xeno canavarı; hedefin zihnine dokunup ruhunu yer. Warp-benzeri organizma — psyker'ların kabus avcısı.
+Psychneuein, Warp'tan beslenen parazitik xenos varlıklarıdır; psyker'lara dadanır ve onların psişik enerjisini emerler. Hive Mind'a benzer biçimde sürü halinde hareket ederler — psyker'ları avlayıp beyinlerini kurutan, zeki ama grotesk yaratıklardır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

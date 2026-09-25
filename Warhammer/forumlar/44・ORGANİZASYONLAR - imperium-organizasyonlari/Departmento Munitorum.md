@@ -12,6 +12,6 @@ Munitorum'un işleyişi, öşür (Tithe) sistemine dayanır; her İmparatorluk d
 
 ## Tarihçe
 
-Guard'ın lojistik kolu; asker, silah, erzak nakliyatı. Ordunun asıl sahibi — savaşı cephane kazanır.
+Departmento Munitorum, Administratum'un askeri kolu ve Astra Militarum'un lojistik-ikmal organizasyonudur; alayların taşınması, ikmali ve kaydı ondan sorulur. İmparatorluk'un milyarlarca askerinin arkasındaki devasa bürokratik-savaş makinesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

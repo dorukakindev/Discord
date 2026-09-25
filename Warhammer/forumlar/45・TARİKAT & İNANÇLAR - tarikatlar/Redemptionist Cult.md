@@ -14,6 +14,6 @@ Kült'ün yöntemi ateştir: 'Redemption' (kurtuluş) yakılarak verilir ve bir 
 
 ## Tarihçe
 
-Günah çıkarma yoluyla kurtuluş vaat eden aşırı Ministorum kolu; ateşli vaizlerin kültü. Frateris Militia'nın ruhani kaynağı.
+Redemptionist Cult, İmparatorluk'un fanatik kefaret akımlarından biridir; 'günahın bedeli kan' ilkesiyle heretik ve günahkâr avı yapar. Özellikle Necromunda'nın Hive'larında güçlüdür — Deacon'ları ve fanatik savaşçılarıyla hem tarikat hem sokak ordusudur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

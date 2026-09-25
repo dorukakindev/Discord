@@ -14,6 +14,6 @@ Sternguard'ın ünü, 'en güvenilir' kardeşlerin oluşudur: yılların deneyim
 
 ## Tarihçe
 
-Chapter'ın en tecrübeli ateş birliği; bolter'larıyla hat kıran 1st Company gazileri. Uzaktan öldürme sanatının zirvesi.
+Sternguard Veteran, Space Marine'lerin deneyimli elite piyadesidir; uzun menzilli özel mühimmat ve taktik esneklikleriyle chapter'ın 'akıllı top' gücü. First Company'nin öncüleri — her vuruşunda ustalık.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

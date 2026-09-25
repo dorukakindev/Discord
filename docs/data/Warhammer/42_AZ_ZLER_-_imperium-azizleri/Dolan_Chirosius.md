@@ -12,6 +12,6 @@ Dolan, isyancı dünya Gathalamor'a giderek onun koşulsuz teslimiyetini talep e
 
 ## Tarihçe
 
-Necromunda'nın muhalif azizi; zulme karşı pasif direnişin ikonu. Başkasının katlanamadığını katlanan adam.
+Dolan Chirosius ('Great Confessor'), M36'daki Plague of Unbelief'in ikinci evresinde düşen Confessor'dur; Kardinal Bucharis'in Gathalamor isyanına karşı İmparatorluk'a sadakatle sonuna dek savaştı. İşkenceyle öldürülüp bedeni sergilendi, ama fedakârlığı Bastion of Faith'in kurtuluşuna ilham oldu; sonradan aziz ilan edildi ve adı kefaret mücadelesiyle özdeşleşti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

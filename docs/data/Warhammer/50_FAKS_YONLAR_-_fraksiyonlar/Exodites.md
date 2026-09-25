@@ -12,6 +12,6 @@ Exodite'ler bilinçli bir tercih yaptı; ırklarını mahveden ileri teknolojiyi
 
 ## Tarihçe
 
-Dinozor süvarisi Aeldari; eski dünyalarda yaşayan, teknolojiyi redden Eldar'ın kırsal kanadı. Craftworld'lerin 'dağlı' kuzenleri.
+Exodites, Büyük Düşüş'ten kaçan Aeldari'nin ilkel dünya kolonileridir; craftworld'lerden önceki, tarım-ve-doğa-yaşamına dönmüş Aeldari'ler. Dinosaur-benzeri yaratıklar yetiştirir, kabile kültürü yaşarlar — 'düşmemiş' ama gelişmemiş Aeldari kolu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

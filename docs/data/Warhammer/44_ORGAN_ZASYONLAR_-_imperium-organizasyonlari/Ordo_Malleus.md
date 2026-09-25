@@ -16,6 +16,6 @@ Ordo'nun işleri, İmparatorluk'un en karanlık sırlarıdır — daemon istilas
 
 ## Tarihçe
 
-Daemon avcısı Inquisition kolu; Grey Knights'ın patronu. Warp'ın en somut tehdidine karşı İmparatorluk'un en seçkin kolu.
+Ordo Malleus, Inquisition'un daemon'ları avlayan koludur; Warp varlıkları, possession ve daemon-world tehditleriyle uğraşır. Grey Knights'ın askeri desteğiyle çalışırlar ve daemonik faaliyetin her izini takip ederler — İmparatorluk'un Warp'a karşı en ön cephesi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

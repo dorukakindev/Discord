@@ -10,6 +10,6 @@ Beastmen (Homo sapiens variatus), abhuman soyları içinde en tartışmalı ve e
 
 ## Tarihçe
 
-Mutant yarı-insanlar; Imperium'un hem kullandığı hem kınadığı sınıf. Kaçınılmaz ama istenmeyen — evrimin pis yüzü.
+Beastmen (Homo sapiens variatus), İmparatorluk'un insansı-hayvan abhuman varyantlarından biridir; kıllı, boynuzlu ve vahşi görünümlü bu mutantlar eskiden Imperial Guard'da penitent birlikler olarak savaşırdı. Modern Imperium'da toleransları azaldı — çoğu şimdi marjinalleştirilmiş, korkulan veya yasaklı figürlerdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

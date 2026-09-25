@@ -12,6 +12,6 @@ Bu delilik onu o kadar değiştirdi ki, diğer C'tan'lardan ve onların kendi ka
 
 ## Tarihçe
 
-En korkulan C'tan; kendini bile yiyen kendi-parçası. Dış uzayda akılsız ve aç — Necron'ların bile görmezden geldiği.
+The Outsider, C'tan'ın 'sınırdışı' veya 'ayrık' parçasıdır; diğer C'tan'lardan bile izole, en gizemli yıldız tanrısı. Kayıtları çok az — bazı efsaneler onu 'yıldızların dışındaki güç' olarak görür; C'tan mitolojisinin en belirsiz figürü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

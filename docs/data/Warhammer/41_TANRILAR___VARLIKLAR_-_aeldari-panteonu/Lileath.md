@@ -12,6 +12,6 @@ Lileath, kehanetli rüyalarıyla ünlüydü; gördüğü düşler tanrılar aras
 
 ## Tarihçe
 
-Rüya ve kehanet tanrısı; seer'ların patroniçesi. Fall'da Slaanesh'e yutuldu ama rüyaları hâlâ Eldar yollarını aydınlatır.
+Lileath, Aeldari'nin ay ve kehanet tanrıçasıdır; rüya ve önseziyle Asuryani'ye yol gösterir. Farseer'ların ruhani patronu olarak anılır — düşen panteonda hayatta kalan veya ruhu Infinity Circuit'te yaşayan son tanrı figürlerinden biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

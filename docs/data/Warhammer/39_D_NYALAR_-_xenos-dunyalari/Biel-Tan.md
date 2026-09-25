@@ -15,6 +15,4 @@ Biel-Tan'ın ünü, Eldar'ın en parlak savaşçılarını ürettiğinden gelir 
 
 ## Tarihçe
 
-'Kılıçlı Aeldari' craftworld'ü; en askeri, en geleneksel. Aspect'lerin doruğu — düştü ama ruhu savaşta kaldı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Biel-Tan, Asuryani'nin 'Kılıç Rüzgarı' craftworld'üdür; askeri üstünlükle ve Aspect Warrior'larının çokluğuyla ünlüdür. Galaksinin en savaşkan Eldar craftworld'ü — 'yeşil savaş lordları' olarak bilinirler ve düşüşlerini sa

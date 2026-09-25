@@ -12,6 +12,6 @@ Horus Heresy'nin sonunda, İmparator Horus'u yenerken onulmaz biçimde yaraland�
 
 ## Tarihçe
 
-Golden Throne'un Türkçesi; İmparator'un yaşam desteği. İmparatorluk'un kalbi ve mezarı — her gün daha kırılgan.
+Altın Taht (Golden Throne), İmparator'un bedenini canlı tutan yaşam-destek tahtıdır; Terra'nın derinliklerinde, on bin yıldır İmparator'un ölümü ile yaşamı arasında askıda tutar. İmparatorluk'un hem tahtı hem hapishanesi — 'İmparator'un evi'.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

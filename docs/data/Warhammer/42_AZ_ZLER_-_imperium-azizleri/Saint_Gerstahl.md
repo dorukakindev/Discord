@@ -16,6 +16,6 @@ Ama bu kehanet, İmparatorluğun ezeli düşmanının dikkatinden kaçmadı.
 
 ## Tarihçe
 
-Cadian sektörünün azizi; 'unutulmuş' ama korunan bir kale azizi. Yerel koruyucu aziz örneği.
+Saint Gerstahl, İmparatorluk'un kadim azizlerindendir; adı özellikle 'Saint Gerstahl Tank' adlı Space Marine/Guard zırhlısı ve çeşitli shrine dünyalarıyla özdeşleşmiştir. Yaşam kayıtları belirsiz olsa da kültü Segmentum Obscurus'ta yaygındır; onun anısına adanan savaş makineleri ve ayinler hâlâ kullanımdadır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

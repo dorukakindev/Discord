@@ -14,6 +14,6 @@ Assassinorum'un operasyonları 'Officio' izni gerektirir ve her atama, High Lord
 
 ## Tarihçe
 
-İmparatorluk'un suikast kurumu; dört tapınak, dört ölüm yolu. Tek doğru isim, tek doğru infaz.
+Officio Assassinorum, İmparatorluk'un resmî suikast kurumudur; dört büyük tapınak (Vindicare, Callidus, Eversor, Culexus) farklı öldürme sanatlarında uzmanlaşır. İmparatorluk'un en gizli ve en ölümcül aracı — bir suikastçı, bir ordunun yapamayacağını tek atışta yapar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

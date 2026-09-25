@@ -16,6 +16,6 @@ Praxedes'in önemi, Sororitas'ın 'sadece savaşçı' olmadığını göstermesi
 
 ## Tarihçe
 
-Order of the Valorous Heart'ın ikinci azizi; Ophelia II'yi savunmuş. 'Sabrın' ve 'korumanın' azizi.
+Saint Praxedes, Ophelia VII'deki bir orduyu yöneten ve 2. Armageddon Savaşı'na katılan Imperial Saint'tir; Sekhmet ve Helican'ın savunmasında okçu-melek gibi tasvir edilir. Kültü Adepta Sororitas içinde köklüdür; şehit azizlerden biri olarak Order of the Bloody Rose'un ruhani ikonları arasında yer alır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,6 +12,6 @@ Tyranid Warrior'ın en önemli işlevi sinapstır (synapse); Hive Mind'ın engin
 
 ## Tarihçe
 
-Hive Mind'ın askeri sınıfı; synapse düğümü ve ön hat lideri. Gaunt sürülerini yöneten komuta organizması — kesilirse sürü dağılır.
+Tyranid Warrior, tyranid sürüsünün bel kemiği piyade canavarıdır; bioconstruct silahlarla donanmış orta-boy savaşçı form. Hive Mind'ın 'ana asker' — insan boyutundaki ama savaşta ölümcül temel birim.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

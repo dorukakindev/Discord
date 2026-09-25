@@ -10,6 +10,6 @@ Lieutenant (Teğmen), bir Space Marine bölüğünün komuta yapısında, son d�
 
 ## Tarihçe
 
-Chapter'ın alt rütbeli subayı; Company'nin fiilen yürüyen operasyonel kolu. Komutanın sağ kolu — görünmeyen lider.
+Lieutenant, Space Marine bölüğünün ikinci komutanıdır; Captain'ın yardımcısı olarak birliğin yarısını yönetir. Yeni eklenen rütbe — Primaris reorganizasyonunda standartlaşan 'yardımcı komutan' rolü.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

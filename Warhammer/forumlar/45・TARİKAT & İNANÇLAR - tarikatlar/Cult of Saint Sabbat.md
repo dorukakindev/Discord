@@ -10,6 +10,6 @@ Cult of Saint Sabbat, İmparatorluk İnancı'nın bölgesel ama son derece güç
 
 ## Tarihçe
 
-Sabbat'ın adını taşıyan inanç kültü; haçlı seferinin ruhani bayrağı. Askerin arkasından gelen dua.
+Cult of Saint Sabbat, Sabbat Dünyaları'nın en güçlü aziz kültüdür; Saint Sabbat'ın dirilişi ve Crusade zaferleriyle İmparatorluk'un en popüler inançlarından birini oluşturur. Tanith ve çevresindeki dünyaların manevi merkezidir — askerlerin 'Sabbat' adıyla savaşa gittiği kültürel temel.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,6 +12,6 @@ Titanlar, gökdelen boyutunda yürüyen savaş makineleridir; en küçük avcı 
 
 ## Tarihçe
 
-Titan Legion'ların kurumsal çatısı; Collegia Titanica. Dev makinelerin ruhu — Mechanicus'un en görkemli kolu.
+Collegia Titanica (Legio Titanica), Adeptus Mechanicus'un Titan lejyonlarını yöneten askeri teşkilatıdır; tüm sadık Titan lejyonları ona bağlıdır. 'Tanrı-makineleri' sahaya süren bu kurum, İmparatorluk'un en ağır kara gücünün yönetim merkezidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

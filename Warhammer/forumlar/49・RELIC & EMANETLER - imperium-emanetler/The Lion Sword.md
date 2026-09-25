@@ -12,6 +12,6 @@ Lion El'Jonson, Büyük Haçlı Sefer'in en büyük savaşçı-stratejistlerinde
 
 ## Tarihçe
 
-Lion El'Jonson'un kılıcı; Dark Angels'ın en kutsal silahı. Caliban'ın son kesiminden — Chapter'ın kırık zinciri.
+The Lion Sword (Sword of Secrets), Dark Angels'ın Supreme Grand Master'ı tarafından taşınan antik güç kılıcıdır; Caliban'ın yıkımından önceki lejyon komutanlarından miras kalmıştır. İçindeki gizli mekanizmalar ve kutsal devreler, onu sıradan güç kılıçlarının ötesinde bir relic yapar — Unforgiven'ın avcı-kılıcıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,6 +12,6 @@ Tılsımın gücü, taşıyıcısını dönüştürür; kalbinde Khorne'un kanl�
 
 ## Tarihçe
 
-Khorne'un kanlı mührü; Bloodthirster ve öfke ordularının işareti. Savaşın vaazı — öfkenin madalyası.
+The Talisman of Burning Blood, Khorne'un damgasını taşıyan daemonik emanettir; taşıyıcısını durmaksızın kanlı bir savaş coşkusuna iter. Her vuruşunda Blood God'ın onayı hissedilir; Chaos'un savaş-tapınaklarında saklanan, sahibini kendi kan açlığına kurban edebilen çift uçlu bir nimettir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

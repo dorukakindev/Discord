@@ -10,6 +10,6 @@ Company Champion (Bölük Şampiyonu), bir Space Marine bölüğünün en usta y
 
 ## Tarihçe
 
-Her Company'nin en iyi düellocu; Captain'in sağ kolu ve en zor işleri alan savaşçı. Şerefin kılıcı.
+Company Champion, Space Marine chapter'ının en iyi kılıç ustasıdır; Chapter Master'ın kişisel koruması ve şirketin 'onur savaşçısı'. En saf düello yeteneği taşıyan bu savaşçı, komutanının şerefiyle düşmanın en iyisini arar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

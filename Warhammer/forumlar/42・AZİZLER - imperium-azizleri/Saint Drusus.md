@@ -16,6 +16,6 @@ Aziz olarak Drusus, 'kılıçla vaaz eden' figürün en büyük örneğidir — 
 
 ## Tarihçe
 
-Calixis Sektörü'nün fethedilmesinin azizi; askeri lider ve azizin en askeri biçimi. Drusus Shrine World'lerin adı.
+Saint Drusus, Calixis Sektörü'nün fatih-azizidir; Angevin Haçlı Seferi'nde bölgeyi Imperium'a katan orduya komuta ettiği için sektörün koruyucu azizi sayılır. Mucizevi dirilişi ve generalliğiyle Angevin efsanesinin merkezindedir; Calixis'teki pek çok dünya ve katedral onun adını taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

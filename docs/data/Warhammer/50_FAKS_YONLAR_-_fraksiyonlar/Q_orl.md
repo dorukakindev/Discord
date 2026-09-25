@@ -10,6 +10,6 @@ Q'orl toplumunun temelinde kraliçe yatar; her gün binlerce yumurta bırakarak 
 
 ## Tarihçe
 
-Az bilinen xeno uygarlığı; doğal kovan yapısı. Kayıtlarda seyrek ama var — sınırın sessiz sakinleri.
+Q'orl, Pre-İmparatorluk döneminden kalan böcek-sürü xenos ırkıdır; geniş koloni ağlarıyla bilinir. Imperial arşivlerde 'büyük sürü tehdidi' olarak geçerler — insanlıkla ilk temasları düşmanca olmuş, sürü zihniyetiyle hareket ettikleri kaydedilmiştir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

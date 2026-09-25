@@ -12,6 +12,6 @@ Her chapter'ın gen-tohumu, nihai olarak kendi primarch'ından (ve dolayısıyla
 
 ## Tarihçe
 
-Space Marine'in genetik mirası; primarch'tan gelen implant kaynağı. Chapter'ın kanı — hem güç hem lanetin kaynağı.
+Gene-seed, Space Marine yaratımının temelidir — primarch'ın genetik materyalinden üretilen organ implantları ve progenoid bezleri dizisi. Her implant yeni bir organ, güç veya yetenek kazandırır; Chapter'ın genetik mirası ve kimliği bu tohumda saklıdır. Kaybı veya yozlaşması bir Chapter'ın ölümü demektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

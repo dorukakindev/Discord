@@ -14,6 +14,6 @@ Cult'un pratik yüzü, Salamanders'ın insanseverliğini besler: 'alev, dostu ı
 
 ## Tarihçe
 
-Salamanders'ın iç doktrini; ateş, sabır ve fedakârlık öğretisi. Vulkan'ın mirası — Prometheus'un onurunu taşıyan Chapter kültü.
+Promethean Cult, Salamanders'ın ana dünyası Nocturne'ün ateş-yıkım-doğum üçlüsü üzerine kurulu felsefi-dini geleneğidir; ateş, self-sacrifice ve yeniden doğuşun öğretisi. Chapter'ın karakterini şekillendirir — Vulkan'ın mirası bu kültün ahlâkıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

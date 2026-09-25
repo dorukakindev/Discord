@@ -12,6 +12,6 @@ Seferin lideri, on bin yıl sonra dirilen Primarch Roboute Guilliman'dı; Archma
 
 ## Tarihçe
 
-Guilliman'ın başlattığı, hâlâ süren dev sefer; filo filo, sistem sistem İmparatorluk'u yeniden aydınlatma. Modern çağın çerçevesi.
+Indomitus Haçlı Seferi, Guilliman'ın dönüşü ve Great Rift'in açılmasıyla başlatılan devasa Imperial karşı-saldırısıdır; Primaris Space Marines'in ilk büyük konuşlanması. Imperium Nihilus'u kurtarmak ve Imperium Sanctus'u pekiştirmek için yüzlerce dünyanın sefer edildiği modern dönemin temel seferi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

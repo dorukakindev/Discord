@@ -12,6 +12,6 @@ Donanmanın görevleri muazzamdır; gezegenleri yörüngeden bombalar (lance ve 
 
 ## Tarihçe
 
-İmparatorluk'un uzay filosu; gezegenler arası savaşın adı. Milyarlarca denizci — İmparatorluk'un gerçek savunma hattı.
+Imperial Navy (Navis Imperialis), İmparatorluk'un uzay filosudur; dünyalar arası savaşın ve abluka gücünün bel kemiği. Battlefleet'ler halinde organize olur, Imperial Guard alaylarını taşır ve İmparatorluk uzayını Chaos, xenos ve korsanlardan korur — insanlığın zırhlı kanatları.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,6 +16,6 @@ Yarrick'in Steel Legion ve Blood Angels desteğiyle kazandığı zafer, Ghazghku
 
 ## Tarihçe
 
-Ghazghkull'un ilk Armageddon saldırısı; Yarrick'in yükseldiği savaş. Orklarla İmparatorluk'un efsane düşmanlığının başlangıcı.
+İkinci Armageddon Savaşı, 941.M41'de Ghazghkull Thraka'nın Armageddon'a ilk büyük istilasıdır; Commissar Yarrick ve Armageddon Steel Legion'un efsanevi savunmasıyla püskürtüldü. Hive Hades'in savunulmasıyla İmparatorluk kazandı ama Ghazghkull'un 'sonsuz düşman' efsanesi başladı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

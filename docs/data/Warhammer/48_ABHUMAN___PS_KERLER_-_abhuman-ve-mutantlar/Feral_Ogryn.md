@@ -10,6 +10,6 @@ Feral Ogryn, Ogryn soyunun evcilleştirilmemiş, vahşi yüzüdür; İmparatorlu
 
 ## Tarihçe
 
-Vahşi doğada evrilmiş Ogryn varyantı; daha da vahşi, daha da basit ama aynı ölçüde sadık. Uygarlık görmemiş dev.
+Feral Ogryn (Ogryn Charonite), Imperial Guard'ın en vahşi abhuman birlikleridir; neredeyse yontulmamış, sadece savaş için evrilmiş Ogryn'ler. Zırhsız ve acımasız — yakın dövüşte bir erimiş kas duvarı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

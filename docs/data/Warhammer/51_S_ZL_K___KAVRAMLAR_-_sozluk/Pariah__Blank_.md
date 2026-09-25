@@ -12,6 +12,6 @@ Bir Pariah'ın varlığı, çevresindeki psişik gücü emer ve etkisiz kılar; 
 
 ## Tarihçe
 
-Ruhu olmayan insan; Warp'ta iz bırakmayan, psyker'ları rahatsız eden mutant. Culexus'un ham maddesi — 'boşluk' insanı.
+Pariah (Blank / Untouchable), Warp'a hiçbir psişik bağlantısı olmayan insan mutantıdır; varlıkları psyker'ları rahatsız eder, büyüyü engeller ve daemon'lara görünmezlik sağlar. Sisters of Silence ve Culexus Assassin'leri bu 'ruh eksikliği'ni silaha dönüştürür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

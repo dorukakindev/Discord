@@ -12,6 +12,6 @@ Silence'ın kökeni karanlık fısıltılarla örülüdür; bıçağın xenos-le
 
 ## Tarihçe
 
-Fulgrim'in sessiz kılıcı; Silver Song'un kardeşi. Mükemmelliğin öbür yüzü — hiç ses çıkarmadan keser.
+Silence, Culexus Assassin'in efsanevi silahıdır; bir psyker-pariah'ın beyninin içine yerleştirilmiş olan ve ölümcül sessizlik yaratan Warp-kesici silah. 'Silence' adıyla bilinen bu relic, Assassinorum'un en gizemli ve en korkulan efsanesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

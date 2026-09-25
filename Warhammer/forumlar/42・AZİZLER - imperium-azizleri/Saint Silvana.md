@@ -16,6 +16,6 @@ Silvana'nın kültü, 'sürekli nöbet' geleneğini temsil eder — Ophelia VII'
 
 ## Tarihçe
 
-Order of the Ebon Chalice'ın kurucusu; affetmek ve sabrın azizi.
+Saint Silvana, İmparatorluk'un bilinen azizlerinden biridir; kültü Calixis Sektörü ve çevresinde yaygındır. Kaynaklarda mucizevi yaşamı ve şehitliğiyle anılır — pek çok shrine dünyası ve Sororitas birliği adını ondan alır; kemikleri gömülü olduğu dünyalar hac merkezine dönüşmüştür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

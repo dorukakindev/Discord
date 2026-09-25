@@ -14,6 +14,6 @@ Daemon'ların tehlikesi, 'fiziksel olmayan' doğalarıdır: onlar sadece Warp'ta
 
 ## Tarihçe
 
-Warp'tan gelen şeylerin genel sınıfı; Khorne, Nurgle, Tzeentch, Slaanesh ve Undivided güçleri. İmparatorluk'un tek gerçek düşmanı.
+Chaos Daemons, Warp'ın tanrısal enerjisinden doğan varlıkların genel sınıfıdır; dört büyük Chaos tanrısının (Khorne, Tzeentch, Nurgle, Slaanesh) hizmetindeki sayısız formu kapsar. Gerçekliğe ancak Warp yarıkları, ritüeller veya daemonik musallatla girebilirler; İmparatorluk'un en amansız ve en kozmik düşmanıdırlar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

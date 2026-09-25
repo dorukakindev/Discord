@@ -14,6 +14,6 @@ Lejyonun yapısı eşsizdir: dört Kaos tanrısına eşit bağlılık, hain lejy
 
 ## Tarihçe
 
-Abaddon'un lejyonu; eski Sons of Horus, Chaos'un en organize ordusu. On altı lejyondan kalma Kara Lejyon — hedefi Terra.
+The Black Legion, Horus'un eski Sons of Horus lejyonunun Abaddon tarafından yeniden kurulmuş halidir; adı, lejyonun 'keder ve ihanet' boyasıdır. Legion Wars sırasında diğer hain lejyonları ezip Chaos'un en güçlü birleşik gücü haline geldi — Abaddon'un her Kara Haçlı Seferi'nin bel kemiği.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

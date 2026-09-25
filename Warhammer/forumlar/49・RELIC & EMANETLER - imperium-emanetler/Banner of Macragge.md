@@ -12,6 +12,6 @@ Sancağın kutsallığı, bizzat kökeninden gelir; ca. 798.M30'da, Büyük Haç
 
 ## Tarihçe
 
-Ultramarines'ın savaş sancağı; Chapter'ın onur tarihi. Taşıyıcısı yere düşmez — bayrak düştüğünde savaş bitmiştir.
+Banner of Macragge, Ultramarines'in en eski ve en kutsal sancağıdır; Birinci Kuruluş döneminden beri taşınan bu standart, Chapter'ın her büyük zaferinin ve kaybının tanığıdır. Macragge'in savunulduğu her krizde dalgalanır — içindeki kumaş parçaları binlerce yıllık Ultramar tarihini taşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

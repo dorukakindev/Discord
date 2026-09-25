@@ -14,6 +14,6 @@ Arabella'nın önemi, İmparatorluk'un 'bilgi savaşı' yönünü temsil etmesid
 
 ## Tarihçe
 
-Order of the Sacred Rose'un kurucusu; merhamet ve direncin azizi. 'Son şafağın' bekçisi.
+Saint Arabella, Adepta Sororitas'ın 'Liberator' lakaplı azizidir; Order of the Sacred Rose'un kurucularından sayılır. İmparatorluk tarihinde esir düşmüş dünyaların kurtarıcısı olarak anılır; adı, kölelik altındaki İmparatorluk kolonilerinin kurtuluş ayinlerinde okunur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

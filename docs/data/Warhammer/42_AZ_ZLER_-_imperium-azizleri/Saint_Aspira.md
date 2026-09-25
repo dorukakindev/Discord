@@ -12,6 +12,6 @@ Aspira, sapkın (heretic) Denescura'ya karşı yürüdü; emrindeki kuvvet yaln�
 
 ## Tarihçe
 
-Küçük ama tanınmış bir aziz; seyahat edenlerin ve tehlikeli görevlerin koruyucusu.
+Saint Aspira, on sekiz kadife kaftanı ve kan-çiçekleri mucizesiyle bilinen Imperial Saint'tir; 36. Binyıl'da Denkara'daki ayaklanmaları bastıran orduya öncülük etti. Order of the Bloody Rose'un sembol-azizlerindendir; onun anısına giyilen kan-kırmızı kaftanlar günümüz Sororitas geleneğini şekillendirmiştir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,6 @@ Creed'in gücü, İmparatorluk'un sosyal tutkalıdır: pazar günleri, vaazlar, 
 
 ## Tarihçe
 
-Ministorum'un resmi imanı; İmparator'a tanrı olarak tapma. Age of Apostasy sonrası sabitlenen devlet dininin adı.
+Imperial Creed (Imperial Cult), İmparator'u tanrı sayan İmparatorluk resmî inancıdır; Ministorum tarafından yönetilir ve 'Sadakat Ölümü Ödüllendirir' gibi doktrinlerle milyarları bir arada tutar. İmparatorluk'un hem birleştirici hem en karanlık dogmasıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

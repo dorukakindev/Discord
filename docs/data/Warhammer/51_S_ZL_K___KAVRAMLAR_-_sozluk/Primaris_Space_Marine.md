@@ -10,6 +10,6 @@ Primaris Space Marine (Primaris Space Marine), klasik Space Marine'lerin gelişt
 
 ## Tarihçe
 
-Guilliman'ın yeni jenerasyonu; Cawl'un tasarımı, daha büyük, daha güçlü, daha sağlam. Eski Marine'in üst sürümü — 'yeni insan'.
+Primaris Space Marine, Belisarius Cawl'ın on bin yılda geliştirdiği gelişmiş Astartes formudur; daha büyük, daha güçlü ve daha dayanıklıdır. Indomitus Haçlı Seferi'nde sahaya çıktılar; bazı Chapter'lar onları ilk Marine'lere üstün sayar, bazıları ise 'küçük primarchs' olarak görüp kuşkuyla yaklaşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

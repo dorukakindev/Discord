@@ -10,6 +10,6 @@ Mitolojide Kurnous, Aeldari'ye "beden ve arzu" armağanını verendir; Isha'nın
 
 ## Tarihçe
 
-Avcı tanrısı; orman ve avın patronu, Eldanesh'in atası. Fall'da parçalandı; kıymıkları ve izleri hâlâ Exodite dünyalarında.
+Kurnous, Aeldari'nin av ve orman tanrısıdır; Eldar panteonunun avcı figürü olarak Aspect Warrior'ların ve Outcast'lerin ruhani atası sayılır. Slaanesh'le düşen panteonun hayatta kalan az ruhundan biridir; av, doğa ve içgüdünün tanrısı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

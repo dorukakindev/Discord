@@ -10,6 +10,6 @@ Kiodrus, gücünün doruğundayken Sabbat'ın etrafında toplanan çağın en pa
 
 ## Tarihçe
 
-Imperial Guard'ın eski komutanlarından; birkaç kaynakta adı geçen efsanevi subay. Yerel/periodik kahraman.
+Lord Kiodrus, Sabbat Dünyaları'nın efsanevi İmparatorluk komutanıdır; Saint Sabbat'ın yanında savaşan ve Cruachan'ın Fethi'nde ordunun geri kalanına yol açan lider olarak anılır. Sabbat mitolojisinde Saint'in en yakın savaş arkadaşı ve ilk şampiyonudur; adı Sabbat alaylarının savaş naralarında yaşar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
