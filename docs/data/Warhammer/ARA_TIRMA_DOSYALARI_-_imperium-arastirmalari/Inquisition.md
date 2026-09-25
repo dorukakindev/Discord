@@ -101,6 +101,10 @@ Ayrıca sayısız **Ordo Minoris** vardır. Bir Ordo'nun büyüklüğü, belirli
 
 İnzibat hiyerarşisi şöyle görünür:
 
+## Tarihçe
+
+Inquisition, İmparatorluk'un gizli polis ve istihbarat teşkilatıdır; ordo'lara (Malleus, Hereticus, Xenos vb.) ayrılmış inquisitor'lar neredeyse sınırsız yetkiyle Chaos, heresy ve xenos tehditlerini soruşturur. Exterminatus dahil her aracı kullanabilirler ve hiçbir İmparatorluk kurumu onlara hesap sormaz.
+
 - **Acolyte** — İnzibat'a alınan veya zorla dahil edilen adamlar. Uzun vadeli hizmete alınırlar ve organizasyon içinde eğitim alırlar. Tipik olarak en zorlu işleri yaparlar ve herkes tarafından azarlanırlar.
 - **Throne Agent** — Bir İnzibatçı'nın maiyetinin ana üyeleri. Ortalama bir Acolyte'den daha deneyimli ve "güvenilir".
 - **Interrogator** — Stajyer İnzibatçılar. Kendi rozsetlerine ve insanlara emir verme yetkisine sahipler ama henüz bağımsız hareket edemezler.
@@ -212,3 +216,7 @@ Paradoksal bir felsefe — sadece kendilerinin Warp, yabancı ve pis olanı kull
 - *Codex: Deathwatch*
 - *Codex: Adepta Sororitas*
 - *1d6chan* — Wiki kaynak.
+
+## Tarihçe
+
+Inquisition, İmparatorluk'un gizli polis ve istihbarat teşkilatıdır; ordo'lara (Malleus, Hereticus, Xenos vb.) ayrılmış inquisitor'lar neredeyse sınırsız yetkiyle Chaos, heresy ve xenos tehditlerini soruşturur. Exterminatus dahil her aracı kullanabilirler ve hiçbir İmparatorluk kurumu onlara hesap sormaz.

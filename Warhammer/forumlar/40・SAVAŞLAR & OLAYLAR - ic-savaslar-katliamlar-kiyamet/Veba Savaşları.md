@@ -26,6 +26,13 @@ Guilliman, büyük bedeller ödeyerek Ultramar'ı savundu ve Mortarion'un istila
 - Roboute Guilliman
 - Typhus
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Veba Savaşları, Büyük Yarık'ın açılması ve Noctis Aeterna sonrasında Nurgle'ün daemonik ve hain Astartes güçlerinin — Daemon Primarch Mortarion ve Death
 
 https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Guilliman_vs._Mortarion.png/revision/latest?cb=20170912010908
+
+## Tarihçe
+
+Veba Savaşları, Büyük Yarık'ın açılması ve Noctis Aeterna sonrasında Nurgle'ün daemonik ve hain Astartes güçlerinin — Daemon Primarch Mortarion ve Death Guard öncülüğünde — Ultramar Diyarı'nı fethetme girişimiydi. Dirilen Roboute Guilliman'ın Imperium Sanctus'u savunmasıyla Nurgle'ün yayılımı durduruldu ama savaş Ultramar'ın dokusunda kalıcı izler bıraktı.

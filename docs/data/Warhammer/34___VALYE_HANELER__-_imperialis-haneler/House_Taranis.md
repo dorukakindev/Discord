@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revision/latest?cb=20140312041617
 
+## Tarihçe
+
+House Taranis, galaksideki ilk Knight hanesidir ve 'Knight Patriarchleri' ile 'Primus Inter Pares' olarak da bilinir. Age of Technology'de, Knight zırhı teknolojisinin kendisiyle birlikte Mars'ta kuruldu — diğer tüm hanelerden yüzlerce yıl daha eskidir. Questor Mechanicus'a bağlı hane, on bin yıl boyunca Mars'ın Schism'inden Horus Heresy'ye kadar sadakatini hiç bozmadı; bu kesintisiz sadakat, onu Adeptus Mechanicus'un en eski ve en onurlu yaşayan bağı haline getirdi.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Taranis — Taranis Hanedanı
@@ -29,4 +33,8 @@ House Taranis, Imperial Knight geleneğinin kökeninin ve sürekliliğinin somut
 - Horus Heresy'de Mars savunması (Schism of Mars)
 - Adeptus Mechanicus ile en derin bağ
 
+
+## Tarihçe
+
+House Taranis, galaksideki ilk Knight hanesidir ve 'Knight Patriarchleri' ile 'Primus Inter Pares' olarak da bilinir. Age of Technology'de, Knight zırhı teknolojisinin kendisiyle birlikte Mars'ta kuruldu — diğer tüm hanelerden yüzlerce yıl daha eskidir. Questor Mechanicus'a bağlı hane, on bin yıl boyunca Mars'ın Schism'inden Horus Heresy'ye kadar sadakatini hiç bozmadı; bu kesintisiz sadakat, onu Adeptus Mechanicus'un en eski ve en onurlu yaşayan bağı haline getirdi.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

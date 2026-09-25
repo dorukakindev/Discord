@@ -24,8 +24,16 @@ Attilan Vahşi Süvarileri gibi, Ölüm Süvarileri de hızlı saldırı ve keş
 
 ## Muharebeler
 
+## Tarihçe
+
+Death Riders of Kri
+
 - Hızlı saldırı ve keşif harekatları
 - Bozguna uğrayan düşmanın amansız takibi
 - Attila Vahşi Süvarileri'yle benzer süvari rolü
 
+
+## Tarihçe
+
+Death Riders of Krieg, Death Korps of Krieg'in meşhur süvari formasyonudur; Terran atından türetilmiş, son derece uyarlanmış bineklere binen özel birliklerdir. Sıradan Rough Rider birliklerine benzeseler de Krieg'in kemik-sıkıcı atmosferine dayanıklı maskeleri ve mızraklı hücumlarıyla İmparatorluk Muhafızı'nın en tanınmış süvarileridir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

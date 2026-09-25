@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Death_Spectres_Livery.jpg/revision/latest?cb=20150902183958
 
+## Tarihçe
+
+Death Spectres, gizemli 13. 'Karanlık' Kuruluş'ta yaratılmış, Raven Guard halefi nadir Chapter'lardandır — o kuruluştan bilinen iki Chapter'dan biri (diğeri Exorcists). İmparatorluk sınırlarının ötesinde görevli, Raven Guard'ın gen kusurlarını paylaşırlar ve Era Indomitus'ta bile bitmeyen nöbetlerini sürdürürler.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Death Spectres — Ölüm Hayaletleri
@@ -24,4 +28,8 @@ Raven Guard atalarından miras kalan küçük bir mutasyon, Death Spectres'i fiz
 
 Death Spectres, Imperium'un en karanlık ve en uzak sınırında nöbet tutan, gölge ve ölüm temalarıyla yüklü bir chapter'dır; kızıl gözlü, soluk tenli savaşçıları, insanlığın bilinen sınırının ötesindeki dehşetlere karşı sessiz bir set oluşturur. Galaksinin kenarında, kimsenin görmediği savaşları veren bu hayalet-savaşçılar, görevin yalnızlık ve karanlıkta bile sürdürülebileceğinin somut halidir.
 
+
+## Tarihçe
+
+Death Spectres, gizemli 13. 'Karanlık' Kuruluş'ta yaratılmış, Raven Guard halefi nadir Chapter'lardandır — o kuruluştan bilinen iki Chapter'dan biri (diğeri Exorcists). İmparatorluk sınırlarının ötesinde görevli, Raven Guard'ın gen kusurlarını paylaşırlar ve Era Indomitus'ta bile bitmeyen nöbetlerini sürdürürler.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

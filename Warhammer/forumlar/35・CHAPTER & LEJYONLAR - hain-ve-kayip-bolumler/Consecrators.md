@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/2/2f/Consecrator%27s_Chapter_Badge.png/revision/latest?cb=20171216191750
 
+## Tarihçe
+
+Consecrators, Dark Angels soyundan gelen bir Unforgiven Chapter'dır; kuruluşu tamamen örtülüdür — 40. Binyıl'ın üçüncü yüzyılından önce varlığına dair hiçbir kayıt yoktur. Haber vermeden belirir, düşmanı yenip tek söz etmeden kaybolurlar; antik kalıntı zırh ve silah desenleri kullanırlar.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Consecrators — Kutsayanlar
@@ -24,4 +28,8 @@ Diğer Unforgiven chapter'ları gibi, Consecrators da Dark Angels'ın örgütlen
 
 Consecrators, Dark Angels mirasının ve onun kefaret takıntısının kadim, gizemli bir devamının somut halidir; geçmişin silahlarını taşıyan, geçmişin günahlarını avlayan bir kardeşlik. Onlar, I. Lejyon'un tarihini ve utancını çağlar boyunca koruyan, antik relikt zırhlarıyla savaşan ve Düşmüş'ün izini süren gizli bir muhafız; Caliban'ın küllerinde dolaşan, kefaret ve kadim onurla yüklü siyah zırhlı kutsayıcılardır.
 
+
+## Tarihçe
+
+Consecrators, Dark Angels soyundan gelen bir Unforgiven Chapter'dır; kuruluşu tamamen örtülüdür — 40. Binyıl'ın üçüncü yüzyılından önce varlığına dair hiçbir kayıt yoktur. Haber vermeden belirir, düşmanı yenip tek söz etmeden kaybolurlar; antik kalıntı zırh ve silah desenleri kullanırlar.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/84/Fire_Hawks_Livery.jpg/revision/latest?cb=20161118002336
 
+## Tarihçe
+
+Fire Hawks, 36. Binyıl'daki Lanetli 21. Kuruluş'ta yaratıldı; Ultramarines soyundan olduklarını iddia etseler de Adeptus Terra arşivlerindeki gen-tohumu kusurları buna karşı kanıt sunar ve Guilliman'ın oğulları akrabalığı hiç kabul etmemiştir. Tarihlerinin en karanlık noktası, Chapter'ın neredeyse tamamının Warp'ta kaybolmasıdır — sağ kalanlar efsaneye göre sonradan Legion of the Damned'e dönüşmüştür.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Fire Hawks — Ateş Şahinleri
@@ -24,4 +28,8 @@ Bu kaybolma, 40K'nın en kalıcı gizemlerinden birini doğurdu: birçok kişi, 
 
 Fire Hawks, kaybın ve dönüşümün gizemli bir somut halidir; sadık, savaşçı bir chapter'ın bir anda yok olup belki de doğaüstü bir kefaret varlığına evrilişinin hikâyesi. Games Workshop bu bağı ne tam doğrular ne de yalanlar; bu belirsizlik, Fire Hawks'ı gerçeklik ile efsane arasında asılı bırakır. Onlar, kaybolan ama belki hiç ölmeyen, alevden bir mirasın ardında bıraktığı soru işaretidir.
 
+
+## Tarihçe
+
+Fire Hawks, 36. Binyıl'daki Lanetli 21. Kuruluş'ta yaratıldı; Ultramarines soyundan olduklarını iddia etseler de Adeptus Terra arşivlerindeki gen-tohumu kusurları buna karşı kanıt sunar ve Guilliman'ın oğulları akrabalığı hiç kabul etmemiştir. Tarihlerinin en karanlık noktası, Chapter'ın neredeyse tamamının Warp'ta kaybolmasıdır — sağ kalanlar efsaneye göre sonradan Legion of the Damned'e dönüşmüştür.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Plague_Planet.png/revision/latest?cb=20170323140301
 
+## Tarihçe
+
+Plague Planet, daemon primarch Mortarion'ın daemon dünyası ve Death Guard lejyonunun ana üssüdür; Eye of Terror içinde, sürekli hastalığın norm olduğu, zehirli yeşil miasma bulutlarıyla kaplı bir küredir. Heresy çöktüğünde Death Guard düzenli şekilde Eye'a çekildi ve Mortarion burada Nurgle'den nihai ödülünü — daemonluğu — kazandı.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Plague Planet — Veba Gezegeni
@@ -22,4 +26,8 @@ Veba Gezegeni'nin savunması müthiştir; neredeyse her dağ zirvesine savunma l
 
 Veba Gezegeni, bir primarch'ın düşüşünün ve geçmişine duyduğu çarpık özlemin somut halidir; Mortarion, kaybettiği anavatanını bir iblis dünyası olarak yeniden yaratarak, hem geçmişine tutundu hem de onu sonsuza dek lanetledi. Buradan, Cadian Gate üzerinden galaksiye veba akınları başlatılır; o, çürümenin ölümsüzleştiği, bir tanrının bahçesine dönüşmüş bir kâbus dünyasıdır.
 
+
+## Tarihçe
+
+Plague Planet, daemon primarch Mortarion'ın daemon dünyası ve Death Guard lejyonunun ana üssüdür; Eye of Terror içinde, sürekli hastalığın norm olduğu, zehirli yeşil miasma bulutlarıyla kaplı bir küredir. Heresy çöktüğünde Death Guard düzenli şekilde Eye'a çekildi ve Mortarion burada Nurgle'den nihai ödülünü — daemonluğu — kazandı.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

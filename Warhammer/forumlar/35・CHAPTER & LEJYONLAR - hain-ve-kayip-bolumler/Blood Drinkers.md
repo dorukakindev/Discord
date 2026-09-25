@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/4a/BloodDrinkersBadge.jpg/revision/latest?cb=20171212180633
 
+## Tarihçe
+
+Blood Drinkers, Blood Angels'ın Second Founding halefidir; adları, mutasyona uğramış Omophagea organının yarattığı kan susuzluğundan gelir. Uğursuz ada rağmen örnek bir sicile sahip, en onurlu Chapter'lardan sayılırlar ve Crimson Fists ile Howling Griffons gibi saygın Chapter'larla müttefiktirler.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Blood Drinkers — Kan İçenler
@@ -24,4 +28,8 @@ Chapter'ın hayatta kalmasını, "Rite of Holos" (Holos Ayini) denen tartışmal
 
 Blood Drinkers, korkunç bir isim ile soylu bir ruhun bir arada bulunabileceğinin somut halidir; kana susasalar da, bu açlığı onura ve disipline dönüştürmüşlerdir. Mutasyonlarını bir lanet olmaktan çıkarıp bir sınav haline getiren, Sanguinius'un en saygın evlatlarından sayılan bu koyu kırmızı zırhlı savaşçılar, en karanlık dürtünün bile asaletle dizginlenebileceğinin kanıtıdır.
 
+
+## Tarihçe
+
+Blood Drinkers, Blood Angels'ın Second Founding halefidir; adları, mutasyona uğramış Omophagea organının yarattığı kan susuzluğundan gelir. Uğursuz ada rağmen örnek bir sicile sahip, en onurlu Chapter'lardan sayılırlar ve Crimson Fists ile Howling Griffons gibi saygın Chapter'larla müttefiktirler.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

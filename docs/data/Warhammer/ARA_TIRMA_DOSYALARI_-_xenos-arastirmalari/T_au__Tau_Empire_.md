@@ -46,6 +46,10 @@ T'au gemilerinin çevreleyen uzaya daha uzun yolculuklar yapmasını sağlayan y
 
 #### Fourth Sphere (Dördüncü Küre)
 
+## Tarihçe
+
+T'au Empire, İmparatorluk'un Ultima Segmentum'undaki Eastern Fringes yakınında hızla genişleyen çok-türlü xenos yıldız imparatorluğudur. Ethereal kastının yönettiği T'au, 'Greater Good' (Tau'va) felsefesiyle diğer ırkları da saflarına katar; ateş gücü ve battlesuit teknolojisiyle genç ama iddialı bir güçtür.
+
 Dördüncü Küre Genişlemesi, Great Rift'in oluşumundan kısa süre sonra başlatıldı. Yeni anti-matter motorları kullanan filo, kitlesel bir kaza sonucu kayıp olduğu düşünüldü ama gerçekte bir solucan deliği aracılığıyla galaksinin büyük kısmına atıldı. Yok olmasından yıllar sonra, Dördüncü Küre solucan deliği üzerinden T'au Empire ile temas kurabildi ve Beşinci Küre Genişlemesi'ne yol açtı.
 
 #### Fifth Sphere (Beşinci Küre)
@@ -166,3 +170,7 @@ T'au, çeşitli ırkları **Greater Good** felsefesi altında kendi kast sisteml
 - **Great Rift ve T'au etkisi**
 - **Farsight Enclaves**
 - **Orks, Tyranids, Imperial Guard ile çatışmalar**
+
+## Tarihçe
+
+T'au Empire, İmparatorluk'un Ultima Segmentum'undaki Eastern Fringes yakınında hızla genişleyen çok-türlü xenos yıldız imparatorluğudur. Ethereal kastının yönettiği T'au, 'Greater Good' (Tau'va) felsefesiyle diğer ırkları da saflarına katar; ateş gücü ve battlesuit teknolojisiyle genç ama iddialı bir güçtür.

@@ -1544,12 +1544,36 @@
                   "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Xestobiax__-Iron_Vigil-____Sad_k.md"
                 },
                 {
-                  "title": "Legio Tempestus (\"Storm Lords\") — Sadık",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Tempestus__-Storm_Lords-____Sad_k.md"
+                  "title": "Legio Crucius (\"Warmongers\") — Sadık",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Crucius__-Warmongers-____Sad_k.md"
+                },
+                {
+                  "title": "Legio Honorum (\"Death Bolts\") — Sadık",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Honorum__-Death_Bolts-____Sad_k.md"
+                },
+                {
+                  "title": "Legio Praesagius (\"True Messengers\") — Sadık",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Praesagius__-True_Messengers-____Sad_k.md"
+                },
+                {
+                  "title": "Legio Osedax (\"Cockatrices\") — Sadık",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Osedax__-Cockatrices-____Sad_k.md"
+                },
+                {
+                  "title": "Legio Atarus (\"Firebrands\") — Sadık",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Atarus__-Firebrands-____Sad_k.md"
+                },
+                {
+                  "title": "Legio Venator (\"Iron Spiders\") — Sadık",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Venator__-Iron_Spiders-____Sad_k.md"
                 },
                 {
                   "title": "Legio Defensor (\"Nova Guard\") — Sadık",
                   "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Defensor__-Nova_Guard-____Sad_k.md"
+                },
+                {
+                  "title": "Legio Tempestus (\"Storm Lords\") — Sadık",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Tempestus__-Storm_Lords-____Sad_k.md"
                 },
                 {
                   "title": "Legio Metalica (\"Iron Skulls\") — Sadık",
@@ -1560,10 +1584,6 @@
                   "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Solaria__-Imperial_Hunters-____Sad_k.md"
                 },
                 {
-                  "title": "Legio Venator (\"Iron Spiders\") — Sadık",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Venator__-Iron_Spiders-____Sad_k.md"
-                },
-                {
                   "title": "Legio Ignatum (\"Fire Wasps\") — Sadık",
                   "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Ignatum__-Fire_Wasps-____Sad_k.md"
                 },
@@ -1572,28 +1592,8 @@
                   "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Gryphonicus__-War_Griffons-____Sad_k.md"
                 },
                 {
-                  "title": "Legio Atarus (\"Firebrands\") — Sadık",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Atarus__-Firebrands-____Sad_k.md"
-                },
-                {
-                  "title": "Legio Osedax (\"Cockatrices\") — Sadık",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Osedax__-Cockatrices-____Sad_k.md"
-                },
-                {
-                  "title": "Legio Praesagius (\"True Messengers\") — Sadık",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Praesagius__-True_Messengers-____Sad_k.md"
-                },
-                {
                   "title": "Legio Astorum (\"Warp Runners\") — Sadık",
                   "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Astorum__-Warp_Runners-____Sad_k.md"
-                },
-                {
-                  "title": "Legio Honorum (\"Death Bolts\") — Sadık",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Honorum__-Death_Bolts-____Sad_k.md"
-                },
-                {
-                  "title": "Legio Crucius (\"Warmongers\") — Sadık",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_sadik-titan-lejyonlari/Legio_Crucius__-Warmongers-____Sad_k.md"
                 },
                 {
                   "title": "Legio Invicta — Sadık",
@@ -1609,48 +1609,48 @@
               "name": "hain-titan-lejyonlari",
               "posts": [
                 {
-                  "title": "Legio Audax (\"Ember Wolves\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Audax__-Ember_Wolves-____Hain.md"
-                },
-                {
-                  "title": "Legio Fureans (\"Tiger Eyes\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Fureans__-Tiger_Eyes-____Hain.md"
-                },
-                {
-                  "title": "Legio Interfector (\"Murder Lords\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Interfector__-Murder_Lords-____Hain.md"
-                },
-                {
-                  "title": "Legio Tritonis (\"Dark Tide\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Tritonis__-Dark_Tide-____Hain.md"
-                },
-                {
-                  "title": "Legio Mortis (\"Death's Heads\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Mortis__-Death_s_Heads-____Hain.md"
-                },
-                {
-                  "title": "Legio Vulcanum II (\"Lords of Ruin\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Vulcanum_II__-Lords_of_Ruin-____Hain.md"
-                },
-                {
-                  "title": "Legio Vulpa (\"Death Stalkers\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Vulpa__-Death_Stalkers-____Hain.md"
-                },
-                {
-                  "title": "Legio Krytos (\"God Breakers\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Krytos__-God_Breakers-____Hain.md"
-                },
-                {
-                  "title": "Legio Magna (\"Flaming Skulls\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Magna__-Flaming_Skulls-____Hain.md"
+                  "title": "Legio Vulcanum I (\"Dark Fire\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Vulcanum_I__-Dark_Fire-____Hain.md"
                 },
                 {
                   "title": "Legio Suturvora (\"Fire Masters\") — Hain",
                   "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Suturvora__-Fire_Masters-____Hain.md"
                 },
                 {
-                  "title": "Legio Vulcanum I (\"Dark Fire\") — Hain",
-                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Vulcanum_I__-Dark_Fire-____Hain.md"
+                  "title": "Legio Magna (\"Flaming Skulls\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Magna__-Flaming_Skulls-____Hain.md"
+                },
+                {
+                  "title": "Legio Krytos (\"God Breakers\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Krytos__-God_Breakers-____Hain.md"
+                },
+                {
+                  "title": "Legio Vulpa (\"Death Stalkers\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Vulpa__-Death_Stalkers-____Hain.md"
+                },
+                {
+                  "title": "Legio Vulcanum II (\"Lords of Ruin\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Vulcanum_II__-Lords_of_Ruin-____Hain.md"
+                },
+                {
+                  "title": "Legio Mortis (\"Death's Heads\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Mortis__-Death_s_Heads-____Hain.md"
+                },
+                {
+                  "title": "Legio Tritonis (\"Dark Tide\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Tritonis__-Dark_Tide-____Hain.md"
+                },
+                {
+                  "title": "Legio Interfector (\"Murder Lords\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Interfector__-Murder_Lords-____Hain.md"
+                },
+                {
+                  "title": "Legio Fureans (\"Tiger Eyes\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Fureans__-Tiger_Eyes-____Hain.md"
+                },
+                {
+                  "title": "Legio Audax (\"Ember Wolves\") — Hain",
+                  "file": "data/Warhammer/33_TITAN_LEG_ONLARI_-_hain-titan-lejyonlari/Legio_Audax__-Ember_Wolves-____Hain.md"
                 }
               ]
             }
@@ -1662,6 +1662,18 @@
             {
               "name": "imperialis-haneler",
               "posts": [
+                {
+                  "title": "House Coldshroud",
+                  "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Coldshroud.md"
+                },
+                {
+                  "title": "House Raven",
+                  "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Raven.md"
+                },
+                {
+                  "title": "House Taranis",
+                  "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Taranis.md"
+                },
                 {
                   "title": "House Vyronii",
                   "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Vyronii.md"
@@ -1751,16 +1763,8 @@
                   "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Vulker___Questor_Mechanicus.md"
                 },
                 {
-                  "title": "House Taranis",
-                  "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Taranis.md"
-                },
-                {
                   "title": "Freeblades",
                   "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/Freeblades.md"
-                },
-                {
-                  "title": "House Raven",
-                  "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Raven.md"
                 },
                 {
                   "title": "House Devine",
@@ -1769,10 +1773,6 @@
                 {
                   "title": "House Lucaris",
                   "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Lucaris.md"
-                },
-                {
-                  "title": "House Coldshroud",
-                  "file": "data/Warhammer/34___VALYE_HANELER__-_imperialis-haneler/House_Coldshroud.md"
                 },
                 {
                   "title": "House Makabius",
@@ -2294,6 +2294,106 @@
                   "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Apostles_of_Contagion.md"
                 },
                 {
+                  "title": "Sons of Medusa",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Sons_of_Medusa.md"
+                },
+                {
+                  "title": "Relictors",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Relictors.md"
+                },
+                {
+                  "title": "Silver Skulls",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Silver_Skulls.md"
+                },
+                {
+                  "title": "Iron Snakes",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Iron_Snakes.md"
+                },
+                {
+                  "title": "Celestial Lions",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Celestial_Lions.md"
+                },
+                {
+                  "title": "Novamarines",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Novamarines.md"
+                },
+                {
+                  "title": "Angels of Absolution",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_of_Absolution.md"
+                },
+                {
+                  "title": "Disciples of Caliban",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Disciples_of_Caliban.md"
+                },
+                {
+                  "title": "Marines Errant",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Marines_Errant.md"
+                },
+                {
+                  "title": "Death Spectres",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Death_Spectres.md"
+                },
+                {
+                  "title": "Blood Drinkers",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Blood_Drinkers.md"
+                },
+                {
+                  "title": "Angels Vermillion",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_Vermillion.md"
+                },
+                {
+                  "title": "Angels Sanguine",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_Sanguine.md"
+                },
+                {
+                  "title": "Flesh Eaters",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Flesh_Eaters.md"
+                },
+                {
+                  "title": "Black Dragons",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Black_Dragons.md"
+                },
+                {
+                  "title": "Angels of Vengeance",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_of_Vengeance.md"
+                },
+                {
+                  "title": "Consecrators",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Consecrators.md"
+                },
+                {
+                  "title": "Storm Wardens",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Storm_Wardens.md"
+                },
+                {
+                  "title": "Charnel Guard",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Charnel_Guard.md"
+                },
+                {
+                  "title": "Mantis Warriors",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Mantis_Warriors.md"
+                },
+                {
+                  "title": "Executioners",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Executioners.md"
+                },
+                {
+                  "title": "Fire Hawks",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Fire_Hawks.md"
+                },
+                {
+                  "title": "Star Phantoms",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Star_Phantoms.md"
+                },
+                {
+                  "title": "Brazen Claws",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Brazen_Claws.md"
+                },
+                {
+                  "title": "Lamenters",
+                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Lamenters.md"
+                },
+                {
                   "title": "Mentors",
                   "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Mentors.md"
                 },
@@ -2426,10 +2526,6 @@
                   "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Astral_Claws.md"
                 },
                 {
-                  "title": "Lamenters",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Lamenters.md"
-                },
-                {
                   "title": "Aurora Chapter",
                   "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Aurora_Chapter.md"
                 },
@@ -2440,82 +2536,6 @@
                 {
                   "title": "Sons of Guilliman",
                   "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Sons_of_Guilliman.md"
-                },
-                {
-                  "title": "Brazen Claws",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Brazen_Claws.md"
-                },
-                {
-                  "title": "Star Phantoms",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Star_Phantoms.md"
-                },
-                {
-                  "title": "Fire Hawks",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Fire_Hawks.md"
-                },
-                {
-                  "title": "Executioners",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Executioners.md"
-                },
-                {
-                  "title": "Mantis Warriors",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Mantis_Warriors.md"
-                },
-                {
-                  "title": "Charnel Guard",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Charnel_Guard.md"
-                },
-                {
-                  "title": "Storm Wardens",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Storm_Wardens.md"
-                },
-                {
-                  "title": "Consecrators",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Consecrators.md"
-                },
-                {
-                  "title": "Angels of Vengeance",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_of_Vengeance.md"
-                },
-                {
-                  "title": "Black Dragons",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Black_Dragons.md"
-                },
-                {
-                  "title": "Flesh Eaters",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Flesh_Eaters.md"
-                },
-                {
-                  "title": "Angels Sanguine",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_Sanguine.md"
-                },
-                {
-                  "title": "Angels Vermillion",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_Vermillion.md"
-                },
-                {
-                  "title": "Blood Drinkers",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Blood_Drinkers.md"
-                },
-                {
-                  "title": "Death Spectres",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Death_Spectres.md"
-                },
-                {
-                  "title": "Marines Errant",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Marines_Errant.md"
-                },
-                {
-                  "title": "Disciples of Caliban",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Disciples_of_Caliban.md"
-                },
-                {
-                  "title": "Angels of Absolution",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Angels_of_Absolution.md"
-                },
-                {
-                  "title": "Novamarines",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Novamarines.md"
                 },
                 {
                   "title": "Dark Angels",
@@ -2544,26 +2564,6 @@
                 {
                   "title": "Legion of the Damned",
                   "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Legion_of_the_Damned.md"
-                },
-                {
-                  "title": "Celestial Lions",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Celestial_Lions.md"
-                },
-                {
-                  "title": "Iron Snakes",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Iron_Snakes.md"
-                },
-                {
-                  "title": "Silver Skulls",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Silver_Skulls.md"
-                },
-                {
-                  "title": "Relictors",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Relictors.md"
-                },
-                {
-                  "title": "Sons of Medusa",
-                  "file": "data/Warhammer/35_CHAPTER___LEJYONLAR_-_hain-ve-kayip-bolumler/Sons_of_Medusa.md"
                 }
               ]
             }
@@ -2665,6 +2665,10 @@
               "name": "imperial-guard-alaylari-2",
               "posts": [
                 {
+                  "title": "Death Riders of Krieg",
+                  "file": "data/Warhammer/36_ASTRA_MILITARUM_ALAYLARI_-_imperial-guard-alaylari-2/Death_Riders_of_Krieg.md"
+                },
+                {
                   "title": "Attilan Rough Riders",
                   "file": "data/Warhammer/36_ASTRA_MILITARUM_ALAYLARI_-_imperial-guard-alaylari-2/Attilan_Rough_Riders.md"
                 },
@@ -2731,10 +2735,6 @@
                 {
                   "title": "Phantine Air Corps",
                   "file": "data/Warhammer/36_ASTRA_MILITARUM_ALAYLARI_-_imperial-guard-alaylari-2/Phantine_Air_Corps.md"
-                },
-                {
-                  "title": "Death Riders of Krieg",
-                  "file": "data/Warhammer/36_ASTRA_MILITARUM_ALAYLARI_-_imperial-guard-alaylari-2/Death_Riders_of_Krieg.md"
                 },
                 {
                   "title": "Militarum Tempestus Scions",
@@ -4369,6 +4369,18 @@
                   "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Iybraesil__Craftworld_.md"
                 },
                 {
+                  "title": "Plague Planet",
+                  "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Plague_Planet.md"
+                },
+                {
+                  "title": "Sortiarius",
+                  "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Sortiarius.md"
+                },
+                {
+                  "title": "The Webway",
+                  "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/The_Webway.md"
+                },
+                {
                   "title": "Mars",
                   "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Mars.md"
                 },
@@ -4405,10 +4417,6 @@
                   "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Biel-Tan.md"
                 },
                 {
-                  "title": "The Webway",
-                  "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/The_Webway.md"
-                },
-                {
                   "title": "Medrengard",
                   "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Medrengard.md"
                 },
@@ -4429,16 +4437,8 @@
                   "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Vigilus.md"
                 },
                 {
-                  "title": "Sortiarius",
-                  "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Sortiarius.md"
-                },
-                {
                   "title": "The Maelstrom",
                   "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/The_Maelstrom.md"
-                },
-                {
-                  "title": "Plague Planet",
-                  "file": "data/Warhammer/39_D_NYALAR_-_xenos-dunyalari/Plague_Planet.md"
                 }
               ]
             }
@@ -4770,6 +4770,10 @@
                   "file": "data/Warhammer/40_SAVA_LAR___OLAYLAR_-_ic-savaslar-katliamlar-kiyamet/The_Beheading.md"
                 },
                 {
+                  "title": "Büyük Yarık",
+                  "file": "data/Warhammer/40_SAVA_LAR___OLAYLAR_-_ic-savaslar-katliamlar-kiyamet/B_y_k_Yar_k.md"
+                },
+                {
                   "title": "Veba Savaşları",
                   "file": "data/Warhammer/40_SAVA_LAR___OLAYLAR_-_ic-savaslar-katliamlar-kiyamet/Veba_Sava_lar_.md"
                 },
@@ -4824,10 +4828,6 @@
                 {
                   "title": "Isstvan V Drop Site Katliamı",
                   "file": "data/Warhammer/40_SAVA_LAR___OLAYLAR_-_ic-savaslar-katliamlar-kiyamet/Isstvan_V_Drop_Site_Katliam_.md"
-                },
-                {
-                  "title": "Büyük Yarık",
-                  "file": "data/Warhammer/40_SAVA_LAR___OLAYLAR_-_ic-savaslar-katliamlar-kiyamet/B_y_k_Yar_k.md"
                 },
                 {
                   "title": "Macragge Savaşı",
@@ -4903,6 +4903,10 @@
             {
               "name": "kaos-tanrilari",
               "posts": [
+                {
+                  "title": "Khorne",
+                  "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_kaos-tanrilari/Khorne.md"
+                },
                 {
                   "title": "Chaos Undivided",
                   "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_kaos-tanrilari/Chaos_Undivided.md"
@@ -4982,10 +4986,6 @@
                 {
                   "title": "Emperor of Mankind (Imperial Cult perspektifi)",
                   "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_kaos-tanrilari/Emperor_of_Mankind__Imperial_Cult_perspektifi_.md"
-                },
-                {
-                  "title": "Khorne",
-                  "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_kaos-tanrilari/Khorne.md"
                 }
               ]
             },
@@ -4999,6 +4999,10 @@
                 {
                   "title": "Eldanesh",
                   "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_aeldari-panteonu/Eldanesh.md"
+                },
+                {
+                  "title": "Ynnead",
+                  "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_aeldari-panteonu/Ynnead.md"
                 },
                 {
                   "title": "Vaul",
@@ -5035,10 +5039,6 @@
                 {
                   "title": "Kaela Mensha Khaine",
                   "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_aeldari-panteonu/Kaela_Mensha_Khaine.md"
-                },
-                {
-                  "title": "Ynnead",
-                  "file": "data/Warhammer/41_TANRILAR___VARLIKLAR_-_aeldari-panteonu/Ynnead.md"
                 }
               ]
             },
@@ -5214,6 +5214,10 @@
               "name": "sadik-ve-kayip-primarchlar",
               "posts": [
                 {
+                  "title": "Jaghatai Khan",
+                  "file": "data/Warhammer/43_PRIMARCH_LAR_-_sadik-ve-kayip-primarchlar/Jaghatai_Khan.md"
+                },
+                {
                   "title": "Leman Russ",
                   "file": "data/Warhammer/43_PRIMARCH_LAR_-_sadik-ve-kayip-primarchlar/Leman_Russ.md"
                 },
@@ -5322,10 +5326,6 @@
                   "file": "data/Warhammer/43_PRIMARCH_LAR_-_sadik-ve-kayip-primarchlar/Lion_El_Jonson.md"
                 },
                 {
-                  "title": "Jaghatai Khan",
-                  "file": "data/Warhammer/43_PRIMARCH_LAR_-_sadik-ve-kayip-primarchlar/Jaghatai_Khan.md"
-                },
-                {
                   "title": "Roboute Guilliman",
                   "file": "data/Warhammer/43_PRIMARCH_LAR_-_sadik-ve-kayip-primarchlar/Roboute_Guilliman.md"
                 },
@@ -5338,6 +5338,10 @@
             {
               "name": "hain-primarchlar",
               "posts": [
+                {
+                  "title": "Leman Russ",
+                  "file": "data/Warhammer/43_PRIMARCH_LAR_-_hain-primarchlar/Leman_Russ.md"
+                },
                 {
                   "title": "Alpharius Omegon",
                   "file": "data/Warhammer/43_PRIMARCH_LAR_-_hain-primarchlar/Alpharius_Omegon.md"
@@ -5375,10 +5379,6 @@
                   "file": "data/Warhammer/43_PRIMARCH_LAR_-_hain-primarchlar/Primarch_II.md"
                 },
                 {
-                  "title": "Leman Russ",
-                  "file": "data/Warhammer/43_PRIMARCH_LAR_-_hain-primarchlar/Leman_Russ.md"
-                },
-                {
                   "title": "Primarch XI",
                   "file": "data/Warhammer/43_PRIMARCH_LAR_-_hain-primarchlar/Primarch_XI.md"
                 },
@@ -5407,6 +5407,22 @@
                 {
                   "title": "Scholastica Psykana",
                   "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Scholastica_Psykana.md"
+                },
+                {
+                  "title": "Adeptus Custodes",
+                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Adeptus_Custodes.md"
+                },
+                {
+                  "title": "Adeptus Mechanicus",
+                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Adeptus_Mechanicus.md"
+                },
+                {
+                  "title": "The Inquisition",
+                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/The_Inquisition.md"
+                },
+                {
+                  "title": "Astra Militarum",
+                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Astra_Militarum.md"
                 },
                 {
                   "title": "Officio Assassinorum",
@@ -5569,24 +5585,8 @@
                   "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Sisters_of_Silence__Silent_Sisterhood_.md"
                 },
                 {
-                  "title": "Astra Militarum",
-                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Astra_Militarum.md"
-                },
-                {
                   "title": "Adepta Sororitas",
                   "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Adepta_Sororitas.md"
-                },
-                {
-                  "title": "The Inquisition",
-                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/The_Inquisition.md"
-                },
-                {
-                  "title": "Adeptus Mechanicus",
-                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Adeptus_Mechanicus.md"
-                },
-                {
-                  "title": "Adeptus Custodes",
-                  "file": "data/Warhammer/44_ORGAN_ZASYONLAR_-_imperium-organizasyonlari/Adeptus_Custodes.md"
                 },
                 {
                   "title": "Forum Açıklaması & Kurallar",
@@ -6947,6 +6947,10 @@
                   "file": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Vox.md"
                 },
                 {
+                  "title": "Navigator",
+                  "file": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Navigator.md"
+                },
+                {
                   "title": "WAAAGH! Enerjisi",
                   "file": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/WAAAGH__Enerjisi.md"
                 },
@@ -7093,10 +7097,6 @@
                 {
                   "title": "Hive Mind",
                   "file": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Hive_Mind.md"
-                },
-                {
-                  "title": "Navigator",
-                  "file": "data/Warhammer/51_S_ZL_K___KAVRAMLAR_-_sozluk/Navigator.md"
                 },
                 {
                   "title": "Sözlük — Ek (II. Cilt)",
@@ -10364,10 +10364,6 @@
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_imperium-arastirmalari/Adeptus_Arbites.md"
                 },
                 {
-                  "title": "Inquisition",
-                  "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_imperium-arastirmalari/Inquisition.md"
-                },
-                {
                   "title": "Imperial Navy (Navis Imperialis)",
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_imperium-arastirmalari/Imperial_Navy__Navis_Imperialis_.md"
                 },
@@ -10394,6 +10390,10 @@
                 {
                   "title": "Imperium of Man",
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_imperium-arastirmalari/Imperium_of_Man.md"
+                },
+                {
+                  "title": "Inquisition",
+                  "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_imperium-arastirmalari/Inquisition.md"
                 },
                 {
                   "title": "Navigators",
@@ -10548,10 +10548,6 @@
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/Leagues_of_Votann.md"
                 },
                 {
-                  "title": "T'au (Tau Empire)",
-                  "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/T_au__Tau_Empire_.md"
-                },
-                {
                   "title": "Necron",
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/Necron.md"
                 },
@@ -10564,16 +10560,20 @@
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/Ork.md"
                 },
                 {
-                  "title": "Harlequins",
-                  "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/Harlequins.md"
-                },
-                {
                   "title": "Dark Eldar (Drukhari)",
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/Dark_Eldar__Drukhari_.md"
                 },
                 {
                   "title": "Eldar (Aeldari)",
                   "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/Eldar__Aeldari_.md"
+                },
+                {
+                  "title": "Harlequins",
+                  "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/Harlequins.md"
+                },
+                {
+                  "title": "T'au (Tau Empire)",
+                  "file": "data/Warhammer/ARA_TIRMA_DOSYALARI_-_xenos-arastirmalari/T_au__Tau_Empire_.md"
                 }
               ]
             }

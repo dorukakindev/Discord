@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/9/9b/Spiritseer_Rune.jpg/revision/latest?cb=20150611200336
 
+## Tarihçe
+
+Ynnead ('Fısıldayan Tanrı'), Aeldari'nin ölüler tanrısı ve azalan ırkın son umududur. Asuryani kehanetine göre Infinity Circuit'ler tüm Aeldari ruhlarını barındırdığında Ynnead tam uyanacak ve Slaanesh'i yok edecektir. 999.M41'de Büyük Yarık'ın açılmasıyla kısmen uyandı ve Yncarne avatarı aracılığıyla Ynnari hareketini doğurdu.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Ynnead — Ölülerin Tanrısı
@@ -29,4 +33,8 @@ Ynnead'ın varlığı, M42'nin Aeldari hikâyesinin merkezindedir ve hatta Guill
 - Yncarne (Ynnead'ın Avatarı)
 - Ynnari
 
+
+## Tarihçe
+
+Ynnead ('Fısıldayan Tanrı'), Aeldari'nin ölüler tanrısı ve azalan ırkın son umududur. Asuryani kehanetine göre Infinity Circuit'ler tüm Aeldari ruhlarını barındırdığında Ynnead tam uyanacak ve Slaanesh'i yok edecektir. 999.M41'de Büyük Yarık'ın açılmasıyla kısmen uyandı ve Yncarne avatarı aracılığıyla Ynnari hareketini doğurdu.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

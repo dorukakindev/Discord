@@ -18,4 +18,8 @@ Bu bekçilik geleneği lejyonu psiker ve warp-teknolojisi konularında da uzmanl
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
+## Tarihçe
+
+Legio Xestobiax, Collegia Titanica'nın daha az bilinen Tertius dereceli lejyonlarından biridir. Uzak güneydeki Forge World Zhao-Arkhad'dan gelen 'Demir Nöbetçi', Büyük Haçlı Seferi'nin sonunda savunmacı karakteri nedeniyle büyük savaşlardan ziyade ikincil cephelere ve seyrek Uyum sağlamalarına yönlendirilmiştir. Görünürdeki sadakatine rağmen lejyonun geçmişi karışıktır; Imperium kayıtlarına göre ancak yakın dönemde Officio Fi
+
 Legio Xestobiax ("Iron Vigil") — Sadık

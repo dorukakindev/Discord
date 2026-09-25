@@ -55,6 +55,10 @@ Sonunda kitap açıldı. İçindeki sayfalarda Shadowseer'lar, The Fall'ın hika
 
 Her zaman kaderin iplikleri, Eldar'ların **Rhana Dandra** dedikleri son, mitik savaşta Chaos'un zaferine işaret etmiştir. Ancak kristal kitabın sayfalarında Cegorach'ın nihai ve son şakası kayıtlı: Slaanesh'i tüm gücünü Eldar'ı yok etmek için değil, **kurtarmak için** harcamaya kandırmak. Bu imkânsızlığın nasıl gerçekleşeceği belirsiz — son perde bu konuda sinir bozucu biçimde belirsiz. Ancak Harlequin'ler tanrılarının sözlerini salt imanla kabul ederler.
 
+## Tarihçe
+
+Harlequins (Rillietann), hiçbir Aeldari koluna ait olmayan ayrı bir Aeldari alt-grubudur; Black Library'nin bekçileri ve Laughing God Cegorach'ın hizmetkârıdırlar. Sanat ile savaşı ayırmazlar; maskeli troupe'lar halinde galakside dolaşıp Aeldari tarihini danslı ritüellerle yeniden canlandırır ve Chaos'a karşı savaşırlar.
+
 Bu artık muhtemelen Eldar ırkının tek ve nihai umudu — özellikle Eldrad'ın Ynnead'i erken uyandırma girişiminin felaketle sonuçlanmasının ardından. (Eldrad'ın bu başarısızlığı Ynnead'i, tüm Craftworld'lerin Infinity Circuit'lerini ve o zamana kadar yapılan tüm ilerlemeyi öldürdü. Cegorach'ın bunu önceden bildiği ve "Plan B" hazırladığı düşünülüyor.)
 
 ## Masques (Topluluklar)
@@ -113,3 +117,7 @@ Ahriman'ı defalarca reddetmişlerdir (Thousand Sons'un Chaos efendisi).
 - Codex: Aeldari (Games Workshop, 9., 10. baskılar — Harlequin'ler buraya dahil edildi)
 - Black Library novellası *The Masque of Vyle* (Gav Thorpe)
 - Black Library romanları *The Path of the Eldar* (Gav Thorpe), *Rise of the Ynnari* serisi
+
+## Tarihçe
+
+Harlequins (Rillietann), hiçbir Aeldari koluna ait olmayan ayrı bir Aeldari alt-grubudur; Black Library'nin bekçileri ve Laughing God Cegorach'ın hizmetkârıdırlar. Sanat ile savaşı ayırmazlar; maskeli troupe'lar halinde galakside dolaşıp Aeldari tarihini danslı ritüellerle yeniden canlandırır ve Chaos'a karşı savaşırlar.

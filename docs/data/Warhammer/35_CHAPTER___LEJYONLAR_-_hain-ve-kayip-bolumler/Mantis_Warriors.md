@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/06/MW_Shoulder_Pad.jpg/revision/latest?cb=20161118022909
 
+## Tarihçe
+
+Mantis Warriors ('Mantis Legion'), Maelstrom Warp yarığındaki tehditleri izlemek için White Scars'a yardım amacıyla kurulmuş, muhtemelen 34. Binyıl ortası 8. Kuruluş kökenli bir Chapter'dır. Maelstrom Warders ittifakının (Astral Claws, Charnel Guard, Lamenters ile) parçasıydı; Badab Savaşı'nda ayrılıkçı safta sürüklenip ağır bedel ödediler.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Mantis Warriors — Peygamberdevesi Savaşçıları
@@ -24,4 +28,8 @@ Savaş boyunca, sayıca üstün sadık güçlere karşı ustaca gerilla kampanya
 
 Mantis Warriors, sadakatin trajik bir biçimde yanlış yöne kanalize olabileceğinin somut halidir; müttefiklerine olan onurlu bağlılıkları, onları İmparatorluğa karşı savaşa sürükledi. Onlar, körü körüne ihanet eden hainler değil, yanlış bir yemine sadık kalan trajik savaşçılardır; kefaretle arınıp sadakat saflarına dönen, gölgelerden vuran ve onurunu kanla geri kazanan bir kardeşliktir.
 
+
+## Tarihçe
+
+Mantis Warriors ('Mantis Legion'), Maelstrom Warp yarığındaki tehditleri izlemek için White Scars'a yardım amacıyla kurulmuş, muhtemelen 34. Binyıl ortası 8. Kuruluş kökenli bir Chapter'dır. Maelstrom Warders ittifakının (Astral Claws, Charnel Guard, Lamenters ile) parçasıydı; Badab Savaşı'nda ayrılıkçı safta sürüklenip ağır bedel ödediler.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

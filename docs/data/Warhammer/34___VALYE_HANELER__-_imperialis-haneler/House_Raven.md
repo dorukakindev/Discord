@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/d/db/House_Raven_Icon_3.jpg/revision/latest?cb=20140312042049
 
+## Tarihçe
+
+House Raven, emrindeki yüzlerce Imperial Knight ile en büyük Knight hanesidir ve Questor Mechanicus bünyesinde hem Adeptus Mechanicus'a hem Imperium'a hizmet eder. On bini aşkın yıldır Metalica Forge World'üyle müttefiktir; hanenin ana dünyası Kolossi'nin Sacristan'ları olağanüstü eğitimlidir ve bu karşılıklı bağ, iki kurumu neredeyse tek bir savaş mekanizması haline getirmiştir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # House Raven — Raven Hanedanı
@@ -29,4 +33,8 @@ House Raven, Imperial Knight hanelerinin Mechanicus'a bakan yüzünün somut hal
 - İleri ve nadir Knight varyantları
 - Gizli, içe kapalı kültür
 
+
+## Tarihçe
+
+House Raven, emrindeki yüzlerce Imperial Knight ile en büyük Knight hanesidir ve Questor Mechanicus bünyesinde hem Adeptus Mechanicus'a hem Imperium'a hizmet eder. On bini aşkın yıldır Metalica Forge World'üyle müttefiktir; hanenin ana dünyası Kolossi'nin Sacristan'ları olağanüstü eğitimlidir ve bu karşılıklı bağ, iki kurumu neredeyse tek bir savaş mekanizması haline getirmiştir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

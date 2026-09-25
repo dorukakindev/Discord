@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/77/Storm_Wardens_Livery.jpg/revision/latest?cb=20170128020915
 
+## Tarihçe
+
+Storm Wardens, Calixis Sektörü'nün Sacris yasak dünyasına üslenen, kökeni ve kuruluşu bilinmeyen Codex uyumlu bir Chapter'dır. Halo Stars bölgesindeki Warp fırtınalarına odaklanırlar; İmparatorluk sınır dünyalarını xenos, Chaos Renegade ve heretiklerden korurlar.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Storm Wardens — Fırtına Bekçileri
@@ -24,4 +28,8 @@ Storm Wardens, mavi ve açık gri zırhlarıyla, onurlu yakın dövüş ve kıl�
 
 Storm Wardens, kayıp bir kökenin ve sağlam bir onur geleneğinin somut halidir; geçmişleri sisle örtülü olsa da, sadakatleri, cesaretleri ve kılıçlarındaki ustalık tartışmasızdır. Onlar, Sacris'in fırtınalı dünyasından gelen, kim olduklarını tam bilmeseler de ne için savaştıklarını asla unutmayan, mavi-gri zırhlı onurlu bekçilerdir; geçmişin gizemini taşıyan ama bugünün görevine sarsılmaz biçimde bağlı bir kardeşliktir.
 
+
+## Tarihçe
+
+Storm Wardens, Calixis Sektörü'nün Sacris yasak dünyasına üslenen, kökeni ve kuruluşu bilinmeyen Codex uyumlu bir Chapter'dır. Halo Stars bölgesindeki Warp fırtınalarına odaklanırlar; İmparatorluk sınır dünyalarını xenos, Chaos Renegade ve heretiklerden korurlar.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
