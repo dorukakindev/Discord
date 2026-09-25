@@ -1,14 +1,17 @@
 -# THE FILM ARCHIVE · Yönetmenler · Dizin
 # Yönetmenler — Kayıt Dizini
-282 kayıt — alfabetik:
+321 kayıt — alfabetik:
 
 • **Lauris Abele, Raitis Abele**
 • **Brad Abrahams**
+• **Woody Allen**
+• **Pedro Almodóvar**
 • **Robert Altman**
 • **Lindsay Anderson**
 • **Paul Thomas Anderson**
 • **Fernando León de Aranoa**
 • **Jaime de Armiñán**
+• **Darren Aronofsky**
 • **Karen Arthur**
 • **Anthony Asquith**
 • **Jacques Audiard**
@@ -36,6 +39,9 @@
 • **Bilgi bulunamadı**
 • **Luis Buñuel**
 • **Sergio Cabrera**
+• **Leos Carax**
+• **John Cassavetes**
+• **Nuri Bilge Ceylan**
 • **Claude Chabrol**
 • **Park Chan-wook**
 • **Kimitoshi Chioka**
@@ -44,11 +50,14 @@
 • **René Clair**
 • **Shirley Clarke**
 • **Jack Clayton**
+• **Ethan Coen, Joel Coen**
 • **Joel Coen**
 • **Luigi Comencini**
 • **Robin Anderson, Bob Connolly**
 • **Francis Ford Coppola**
 • **Alain Corneau**
+• **David Cronenberg**
+• **Joshua Oppenheimer, Anonymous, Christine Cynn**
 • **Jean-Pierre Dardenne / Luc Dardenne**
 • **Jules Dassin**
 • **Howard Davies**
@@ -63,7 +72,9 @@
 • **Srđan Dragojević**
 • **Carl Theodor Dreyer**
 • **Daryl Duke**
+• **Robert Eggers**
 • **Robert Enders**
+• **Asghar Farhadi**
 • **John Farrow**
 • **Rainer Werner Fassbinder**
 • **Leonardo Favio**
@@ -71,10 +82,13 @@
 • **György Fehér**
 • **Federico Fellini**
 • **Marco Ferreri**
+• **David Fincher**
 • **Anne Fontaine**
 • **Bryan Forbes**
+• **Miloš Forman**
 • **John Frankenheimer**
 • **Sidney J. Furie**
+
 • **Alejandro Galindo**
 • **Vikram Gandhi**
 • **Robert Gardner**
@@ -90,9 +104,9 @@
 • **John Guillermin**
 • **Lee Hae-jun**
 • **Peter Hall**
-
 • **Jan Halldoff**
 • **Ryusuke Hamaguchi**
+• **Michael Haneke**
 • **Hal Hartley**
 • **Wojciech Jerzy Has**
 • **Kazuhiko Hasegawa**
@@ -112,6 +126,7 @@
 • **Mick Jackson**
 • **Miklós Jancsó**
 • **Marcell Jankovics**
+• **Jim Jarmusch**
 • **Vojtech Jasný**
 • **Akio Jissōji**
 • **Spike Jonze**
@@ -119,10 +134,13 @@
 • **Pavel Juráček**
 • **Karel Kachyňa**
 • **Wong Kar-Wai**
+• **Charlie Kaufman**
 • **Aki Kaurismäki**
 • **Jerzy Kawalerowicz**
 • **Aleksandr Kaydanovskiy**
 • **Elia Kazan**
+• **Abbas Kiarostami**
+• **Krzysztof Kieslowski**
 • **Krzysztof Kieślowski**
 • **Angela Christlieb, Stephen Kijak**
 • **Harry Killas**
@@ -135,9 +153,12 @@
 • **Stanley Kubrick**
 • **Koreyoshi Kurahara**
 • **Akira Kurosawa**
+• **Yorgos Lanthimos**
 • **Claude Lanzmann**
 • **Georges Lautner**
 • **Patrice Leconte**
+• **Mike Leigh**
+• **Sergio Leone**
 • **Robert Lepage**
 • **Miguel Littín**
 • **Connie Littlefield**
@@ -160,6 +181,7 @@
 • **Peter Medak**
 • **Dariush Mehrjui**
 • **Jean-Pierre Melville**
+
 • **Bennett Miller**
 • **Kenji Mizoguchi**
 • **Craig Monahan**
@@ -183,14 +205,15 @@
 • **Manoel de Oliveira**
 • **Laurence Olivier**
 • **Ermanno Olmi**
-
 • **Mamoru Oshii**
+• **Yasujirô Ozu**
 • **Masaaki Ōsumi**
 • **Arnaud des Pallières**
 • **Zhuangzhuang Tian, Peicheng Pan**
 • **Gleb Panfilov**
 • **Rithy Panh**
 • **Nikos Papatakis**
+• **Pier Paolo Pasolini**
 • **William Patrick Patterson**
 • **Živojin Pavlović**
 • **György Pálfi**
@@ -200,6 +223,7 @@
 • **Christian Petzold**
 • **Miguel Picazo**
 • **Lucian Pintilie**
+• **Roman Polanski**
 • **Gillo Pontecorvo**
 • **Emeric Pressburger / Michael Powell**
 • **Michael Powell, Emeric Pressburger**
@@ -223,6 +247,7 @@
 • **Ken Russell**
 • **Eldar Ryazanov**
 • **Renny Rye**
+• **Benny Safdie, Josh Safdie**
 • **Ramón Salazar**
 • **Roberto Santos**
 • **Mattia Sarao**
@@ -233,18 +258,24 @@
 • **Jerry Schatzberg**
 • **John Schlesinger**
 • **Evald Schorm**
+• **Paul Schrader**
 • **Ettore Scola**
+• **Martin Scorsese**
 • **Patrick Shen**
+• **Larisa Shepitko**
 • **Simon Singh**
 • **David Sington**
 • **Jerzy Skolimowski**
 • **Chris Smith**
 • **Sarah Kernochan, Howard Smith**
 • **Geoffrey Smith**
+
 • **Mario Soffici**
 • **Aleksandr Sokurov**
 • **Peter Solan**
 • **Carlos Sorin**
+• **Paolo Sorrentino**
+• **Steven Spielberg**
 • **Nic Stacey**
 • **Dan Klores, Fisher Stevens**
 • **Danièle Huillet, Jean-Marie Straub**
@@ -252,6 +283,7 @@
 • **Eliseo Subiela**
 • **István Szabó**
 • **Alain Tanner**
+• **Quentin Tarantino**
 • **Andrei Tarkovsky**
 • **Catherine Tatge**
 • **Bertrand Tavernier**
@@ -263,21 +295,26 @@
 • **Andrea Tonacci**
 • **Giuseppe Tornatore**
 • **Philip Trevelyan**
+• **Lars von Trier**
 • **Justine Triet**
+• **Hideaki Anno, Kazuya Tsurumaki**
 • **Bryan Carberry, Clay Tweel**
 • **Stefan Uher**
 • **Lindsey C. Vickers**
+• **Denis Villeneuve**
 • **Christian Vincent**
 • **Thomas Vinterberg**
-
 • **Luchino Visconti**
 • **František Vláčil**
 • **Dan Walker**
 • **Peter Watkins**
+• **Orson Welles**
 • **William A. Wellman**
+• **Wim Wenders**
 • **Bernhard Wenger**
 • **Bernhard Wicki**
 • **Robert Wiene**
+• **Billy Wilder**
 • **Herbert Wise**
 • **Frederick Wiseman**
 • **Martin Witz**
@@ -285,5 +322,7 @@
 • **Alex Craig ve çeşitli yönetmenler**
 • **Jessica Yu**
 • **Krzysztof Zanussi**
+• **Florian Zeller**
+• **Andrey Zvyagintsev**
 • **Edward Żebrowski**
 • **Andrzej Żuławski**

@@ -1,6 +1,6 @@
 -# THE FILM ARCHIVE · A–Z İndeks
 # A–Z İndeks
-445 kayıt — Arşiv + Keşifler, alfabetik:
+525 kayıt — Arşiv + Keşifler, alfabetik:
 
 ## '
 • **'Non', ou A Vã Glória de Mandar (1990)** · Arşiv
@@ -36,6 +36,9 @@
 • **13 Геракл и гиганты - Последняя битва - S01E13 (1998)** · Arşiv
 • **13 Подвиги Геракла - S01E13 (1998)** · Arşiv
 
+## 2
+• **2001: A Space Odyssey (1968)** · Arşiv
+
 ## 8
 • **8½ (1963)** · Arşiv
 
@@ -47,15 +50,20 @@
 • **A Few Days with Me (1988)** · Arşiv
 • **A History of Art in Three Colours (2012–2012)** · Arşiv
 • **A History of Horror with Mark Gatiss (2010)** · Arşiv
-• **A Kind of Loving (1962)** · Arşiv
 
+• **A Kind of Loving (1962)** · Arşiv
 • **A King and His Movie (1986)** · Arşiv
+• **A Man Escaped (1956)** · Arşiv
 • **A Married Couple (1969)** · Arşiv
 • **A Prophet (2009)** · Arşiv
 • **A Pure Formality (1994)** · Keşif
+• **A Separation (2011)** · Arşiv
+• **A Short Film About Killing (1988)** · Arşiv
 • **A Short Film About Love (1988)** · Keşif
 • **A Sight for Sore Eyes (2003)** · Arşiv
+• **A Streetcar Named Desire (1951)** · Arşiv
 • **A Tale of Winter (1992)** · Keşif
+• **A Woman Under the Influence (1974)** · Arşiv
 • **A Woman's Decision (1975)** · Keşif
 • **Abandoned (2016)** · Arşiv
 • **Abandoned Engineering (2016–)** · Arşiv
@@ -64,17 +72,21 @@
 • **Alias Nick Beal (1949)** · Arşiv
 • **All My Good Countrymen (1969)** · Arşiv
 • **Alpine Fire (1985)** · Arşiv
+• **Amadeus (1984)** · Arşiv
+• **Amarcord (1973)** · Arşiv
 • **Amazon with Bruce Parry (2008)** · Arşiv
 • **American Movie (1999)** · Arşiv
 • **Anatomy of a Fall (2023)** · Keşif
 • **Ancient Egyptian Acoustics and Sound Healing (Bilinmiyor)** · Arşiv
 • **Ancient Skies (2019)** · Arşiv
 • **Andrei Rublev (1966)** · Arşiv
+• **Antichrist (2009)** · Arşiv
 • **Apocalypse Now (1979)** · Arşiv
 • **Aristotle's Lagoon (2010)** · Arşiv
 • **Army of Shadows (1969)** · Arşiv
 • **Art and Craft (2014)** · Arşiv
 • **Art of Scandinavia (2016–2016)** · Arşiv
+• **Au Hasard Balthazar (1966)** · Arşiv
 • **Aunt Tula (1964)** · Arşiv
 • **Autumn Sonata (1978)** · Arşiv
 
@@ -87,7 +99,9 @@
 • **Beauty and the Devil (1950)** · Arşiv
 • **Beaver Trilogy Part Iv (2015)** · Arşiv
 • **Before Tonight Is Over (1966)** · Arşiv
+• **Being John Malkovich (1999)** · Arşiv
 • **Benilde or the Virgin Mother (1975)** · Keşif
+
 • **Black Market with Michael K. Williams (2016–)** · Arşiv
 • **Black Narcissus (1947)** · Keşif
 • **Blood and Guts: A History of Surgery (2008)** · Arşiv
@@ -95,17 +109,19 @@
 • **Brimstone and Treacle (1976)** · Arşiv
 
 ## C
+• **Caché (2005)** · Arşiv
 • **Camouflage (1977)** · Keşif
 • **Cannibal Tours (1988)** · Arşiv
 • **Captain Conan (1996)** · Arşiv
 • **Castaway on the Moon (2009)** · Keşif
 • **Celine (1992)** · Arşiv
 • **Character (1997)** · Keşif
-
 • **Charles Dead or Alive (1969)** · Arşiv
 • **Chemistry: A Volatile History (2010)** · Arşiv
+• **Chinatown (1974)** · Arşiv
 • **Chinese Roulette (1976)** · Keşif
 • **Cinemania (2002)** · Arşiv
+• **Citizen Kane (1941)** · Arşiv
 • **Cold Lazarus - S01E01 - One (1996)** · Arşiv
 • **Cold Lazarus - S01E02 - Two (1996)** · Arşiv
 • **Cold Lazarus - S01E03 - Three (1996)** · Arşiv
@@ -116,28 +132,39 @@
 • **Copenhagen (2002)** · Arşiv
 • **Courage for Every Day (1964)** · Keşif
 • **Crazy Love (2007)** · Arşiv
+• **Crimes and Misdemeanors (1989)** · Arşiv
 
 ## D
+• **Dancer in the Dark (2000)** · Arşiv
 • **Days Are Numbered (1962)** · Arşiv
+• **Dead Man (1995)** · Arşiv
+• **Dead Ringers (1988)** · Arşiv
 • **Dear Yelena Sergeyevna (1988)** · Arşiv
 • **Death Scenes (1989)** · Arşiv
+• **Decalogue I (1989)** · Arşiv
 • **Decalogue V (1989)** · Arşiv
+• **Decalogue VI (1989)** · Arşiv
+• **Dekalog (1989)** · Arşiv
 • **Demons (1971)** · Keşif
 • **Descending the Mountain (2021)** · Arşiv
 • **Despair (1978)** · Arşiv
 • **Diary of a Country Priest (1951)** · Arşiv
+• **Dogville (2003)** · Arşiv
 • **Don't Die Without Telling Me Where You're Going (1995)** · Arşiv
 • **Dossier 51 (1978)** · Arşiv
 • **Dragon's Return (1968)** · Arşiv
 • **Drancy Avenir (1997)** · Arşiv
 • **Drive My Car (2021)** · Keşif
 • **Dry Cleaning (1997)** · Arşiv
+
 • **Dying at Grace (2003)** · Arşiv
 
 ## E
 • **Electra, My Love (1974)** · Arşiv
+• **Enemy (2013)** · Arşiv
 • **Eternal Homecoming (2012)** · Arşiv
 • **Eternal Sunshine of the Spotless Mind (2004)** · Arşiv
+• **Everything Everywhere All at Once (2022)** · Arşiv
 • **Eyes Wide Shut (1999)** · Arşiv
 
 ## É
@@ -149,17 +176,19 @@
 • **Fast, Cheap & Out of Control (1997)** · Arşiv
 • **Faust (1926)** · Keşif
 • **Fermat's Last Theorem (1996)** · Arşiv
+• **Fight Club (1999)** · Arşiv
 • **Finders Keepers (2015)** · Arşiv
 • **First Contact (1982)** · Arşiv
+• **First Reformed (2017)** · Arşiv
 • **Flight from Death: The Quest for Immortality (2003)** · Arşiv
 • **Flights in Dreams and in Reality (1983)** · Arşiv
 • **Footprints on the Moon (1975)** · Keşif
 • **Forest of Bliss (1986)** · Arşiv
 • **Francisca (1981)** · Arşiv
 • **From the Life of the Marionettes (1980)** · Keşif
+• **Funeral Parade of Roses (1969)** · Arşiv
 
 ## G
-
 • **Gates of Heaven (1978)** · Arşiv
 • **Graveyard Kitaro - S01E01 (2008)** · Arşiv
 • **Graveyard Kitaro - S01E02 (2008)** · Arşiv
@@ -182,7 +211,9 @@
 • **Hiroshima Mon Amour (1959)** · Arşiv
 • **History Lessons (1972)** · Arşiv
 • **Hofmann's Potion (2002)** · Arşiv
+• **Holy Motors (2012)** · Arşiv
 • **Horizon: The Secret You (2009)** · Arşiv
+
 • **Hospital of the Transfiguration (1979)** · Arşiv
 • **How We Got to Now (2014–)** · Arşiv
 • **Human Instinct (2002)** · Arşiv
@@ -192,10 +223,12 @@
 • **I Live in Fear (1955)** · Keşif
 • **I'm Going Home (2001)** · Arşiv
 • **Ikiru (1952)** · Arşiv
+• **In a Year with 13 Moons (1978)** · Arşiv
 • **In Celebration (1975)** · Arşiv
 • **In Search of the Trojan War (1985)** · Arşiv
 • **In the Mood for Love (2000)** · Arşiv
 • **In the Realms of the Unreal (2004)** · Arşiv
+• **Inland Empire (2006)** · Arşiv
 • **Insomniac with Dave Attell (2001–2004)** · Arşiv
 • **Interrogation (1982)** · Keşif
 • **It's Such a Beautiful Day (2012)** · Arşiv
@@ -217,7 +250,6 @@
 • **La estrategia del caracol (1993)** · Arşiv
 • **La Promesse (1996)** · Keşif
 • **La Rupture (1970)** · Arşiv
-
 • **Land of Silence and Darkness (1971)** · Arşiv
 • **Last Images of the Shipwreck (1989)** · Arşiv
 • **Laurence Anyways (2012)** · Keşif
@@ -226,11 +258,15 @@
 • **Letters from Marusia (1975)** · Arşiv
 • **Lilith (1964)** · Arşiv
 • **Long Ago Tomorrow (1971)** · Arşiv
+• **Long Day's Journey Into Night (1962)** · Arşiv
 • **Lost Worlds, Vanished Lives (1989)** · Arşiv
 • **Love and Saucers (2017)** · Arşiv
 • **Love on the Ground (1984)** · Arşiv
+• **Loveless (2017)** · Arşiv
 
 ## M
+• **M (1931)** · Arşiv
+• **Magnolia (1999)** · Arşiv
 • **Man Facing Southeast (1986)** · Arşiv
 • **Man of the West (1958)** · Keşif
 • **Manor House (2020)** · Arşiv
@@ -238,27 +274,36 @@
 • **Marnie (1964)** · Keşif
 • **Martha (1974)** · Keşif
 • **Marty (1955)** · Keşif
+
 • **Max and the Junkmen (1971)** · Arşiv
 • **Mechanical Marvels: Clockwork Dreams (2013)** · Arşiv
 • **Memories of Murder (2003)** · Arşiv
+• **Mishima: A Life in Four Chapters (1985)** · Arşiv
 • **Monster (2004)** · Arşiv
 • **Mother Joan of the Angels (1961)** · Keşif
+• **mother! (2017)** · Arşiv
 • **Mournful Unconcern (1987)** · Arşiv
 • **Mulholland Drive (2001)** · Arşiv
 • **My Mother's Smile (2002)** · Arşiv
 • **My Night at Maud's (1969)** · Keşif
 
 ## N
+• **Naked (1993)** · Arşiv
 • **Neon Genesis Evangelion (1995)** · Arşiv
+• **Neon Genesis Evangelion: The End of Evangelion (1997)** · Arşiv
 • **Next of Kin (1989)** · Arşiv
 • **Night and Fog (1956)** · Arşiv
 • **Night and the City (1950)** · Keşif
 • **Night of the Eagle (1962)** · Arşiv
 • **Night Train (1959)** · Keşif
+• **No Country for Old Men (2007)** · Arşiv
 • **Nostalgia (1983)** · Arşiv
 • **Nothing But the Best (1964)** · Arşiv
 
 ## O
+• **Oldboy (2003)** · Arşiv
+• **Once Upon a Time in America (1984)** · Arşiv
+• **One Flew Over the Cuckoo's Nest (1975)** · Arşiv
 • **Order & Disorder (2012)** · Arşiv
 • **Ordet (1955)** · Keşif
 • **Our Mother's House (1967)** · Arşiv
@@ -276,13 +321,16 @@
 • **Persona (1966)** · Arşiv
 • **Peter Ibbetson (1935)** · Arşiv
 • **Phantom Thread (2017)** · Keşif
-
 • **Philosophy: A Guide to Happiness (2000–2000)** · Arşiv
+• **Poor Things (2023)** · Arşiv
 • **Portrait of Jason (1967)** · Arşiv
 • **Precision: The Measure of All Things (2013)** · Arşiv
 • **Primate (1974)** · Arşiv
 • **Professor Hannibal (1956)** · Keşif
 • **Property Is No Longer a Theft (1973)** · Arşiv
+• **Psycho (1960)** · Arşiv
+
+• **Pulp Fiction (1994)** · Arşiv
 • **Puzzle of a Downfall Child (1970)** · Arşiv
 
 ## R
@@ -291,15 +339,19 @@
 • **Rapture (1965)** · Arşiv
 • **Rashomon (1950)** · Arşiv
 • **Recollections of the Yellow House (1989)** · Arşiv
+• **Requiem for a Dream (2000)** · Arşiv
 • **Return of the Prodigal Son (1967)** · Keşif
 • **Rosaura at 10 O'Clock (1958)** · Arşiv
 • **Run, Melos! (1992)** · Arşiv
 
 ## S
 • **S21: The Khmer Rouge Killing Machine (2003)** · Arşiv
+• **Salò, or the 120 Days of Sodom (1975)** · Arşiv
 • **Sansho the Bailiff (1954)** · Arşiv
 • **Sao Bernardo (1972)** · Arşiv
+• **Satantango (1994)** · Arşiv
 • **Scarred Hearts (2016)** · Arşiv
+• **Schindler's List (1993)** · Arşiv
 • **Secret Defense (1998)** · Arşiv
 • **Serial Experiments Lain (1998)** · Arşiv
 • **Serie Noire (1979)** · Arşiv
@@ -309,9 +361,11 @@
 • **Shadow of a Doubt (1943)** · Keşif
 • **Shivers (1981)** · Arşiv
 • **Shoah (1985)** · Arşiv
+• **Silence (2016)** · Arşiv
 • **Silvestre (1981)** · Arşiv
 • **Slap the Monster on Page One (1972)** · Arşiv
 • **Slnko v Sieti (1963)** · Arşiv
+• **Solaris (1972)** · Arşiv
 • **Spiral (1978)** · Keşif
 • **Splendor in the Grass (1961)** · Keşif
 • **Stalker (1979)** · Arşiv
@@ -319,23 +373,31 @@
 • **Stevie (1978)** · Arşiv
 • **Sullivan's Travels (1941)** · Keşif
 • **Sunday's Illness (2018)** · Arşiv
+• **Sunset Boulevard (1950)** · Arşiv
 • **Surviving Desire (1992)** · Arşiv
+• **Synecdoche, New York (2008)** · Arşiv
 
 ## T
+• **Talk to Her (2002)** · Arşiv
 • **Tandem (1987)** · Arşiv
+• **Taste of Cherry (1997)** · Arşiv
 • **Term of Trial (1962)** · Arşiv
 • **That Cold Day in the Park (1969)** · Arşiv
+• **That Obscure Object of Desire (1977)** · Arşiv
+• **The Act of Killing (2012)** · Arşiv
 • **The Ape Woman (1964)** · Arşiv
+
 • **The Appointment (1981)** · Keşif
 • **The Art of Gothic: Britain's Midnight Hour (2014–2014)** · Arşiv
+• **The Ascent (1977)** · Arşiv
 • **The Assassin (1961)** · Arşiv
 • **The Assassination of Jesse James by the Coward Robert Ford (2007)** · Arşiv
-
 • **The Ballad of Narayama (1983)** · Arşiv
 • **The Barrier (1979)** · Arşiv
 • **The Battle of Algiers (1966)** · Arşiv
 • **The Big Country (1958)** · Keşif
 • **The Bigamist (1953)** · Arşiv
+• **The Bitter Tears of Petra von Kant (1972)** · Arşiv
 • **The Blind Man Who Did Not Want to See Titanic (2021)** · Arşiv
 • **The Book of the Dead (2024)** · Arşiv
 • **The Brain with Dr. David Eagleman (2015–)** · Arşiv
@@ -359,17 +421,24 @@
 • **The Dependent (1968)** · Arşiv
 • **The Devil (1972)** · Keşif
 • **The Devil's Trap (1962)** · Keşif
+• **The Devil, Probably (1977)** · Arşiv
+• **The Double Life of Véronique (1991)** · Arşiv
 • **The Ear (1970)** · Keşif
 • **The English Surgeon (2007)** · Arşiv
 • **The Entertainer (1960)** · Arşiv
 • **The Exterminating Angel (1962)** · Arşiv
+• **The Face of Another (1966)** · Arşiv
 • **The Family (1987)** · Arşiv
+• **The Father (2020)** · Arşiv
 • **The Fifth Horseman Is Fear (1965)** · Keşif
 • **The Fifth Seal (1976)** · Keşif
 • **The Final Member (2012)** · Arşiv
 • **The Gang of Four (1989)** · Arşiv
+
 • **The Glass Cell (1978)** · Arşiv
 • **The Golem (1920)** · Arşiv
+• **The Gospel According to St. Matthew (1964)** · Arşiv
+• **The Great Beauty (2013)** · Arşiv
 • **The Great Ecstasy of Woodcarver Steiner (1974)** · Arşiv
 • **The Guest (1963)** · Arşiv
 • **The Hand in the Trap (1961)** · Arşiv
@@ -380,24 +449,27 @@
 • **The Hireling (1973)** · Arşiv
 • **The Homecoming (1973)** · Arşiv
 • **The Horse Thief (1986)** · Arşiv
-
 • **The Hour and Turn of Augusto Matraga (1965)** · Arşiv
 • **The Human Animal (1994–)** · Arşiv
 • **The Human Condition I: No Greater Love (1959)** · Arşiv
 • **The Human Condition II: Road to Eternity (1959)** · Arşiv
 • **The Human Condition III: A Soldier's Prayer (1961)** · Arşiv
 • **The Human Face (2001–)** · Arşiv
+• **The Hunt (2012)** · Arşiv
 • **The Iceman Cometh (1973)** · Keşif
 • **The Illumination (1973)** · Keşif
 • **The Innocent (1976)** · Arşiv
 • **The Interview (1998)** · Keşif
 • **The Invitation (1973)** · Arşiv
 • **The Kerosene Salesman's Wife (1989)** · Arşiv
+• **The Killing of a Sacred Deer (2017)** · Arşiv
 • **The L-Shaped Room (1962)** · Arşiv
 • **The Last Machine (1995)** · Arşiv
 • **The Leather Boys (1964)** · Arşiv
 • **The Legend of the Holy Drinker (1988)** · Keşif
+• **The Lighthouse (2019)** · Arşiv
 • **The Little Theatre of Jean Renoir (1970)** · Arşiv
+• **The Lobster (2015)** · Arşiv
 • **The Lonely Passion of Judith Hearne (1987)** · Arşiv
 • **The Long Goodbye (1973)** · Keşif
 • **The Madman (1970)** · Arşiv
@@ -408,6 +480,7 @@
 • **The Man Who Wasn't There (2001)** · Keşif
 • **The Man Without a Past (2002)** · Keşif
 • **The Mark (1961)** · Arşiv
+
 • **The Meeting Point (1989)** · Arşiv
 • **The Men Who Made Us Spend (2014–2014)** · Arşiv
 • **The Mind Benders (1963)** · Keşif
@@ -423,10 +496,11 @@
 • **The Overnighters (2014)** · Arşiv
 • **The Owl's Legacy (1989–1989)** · Arşiv
 • **The Ox-Bow Incident (1943)** · Keşif
+• **The Passion of Anna (1969)** · Arşiv
 • **The Passion of Joan of Arc (1928)** · Arşiv
 • **The Patriotic Woman (1979)** · Arşiv
 • **The Photograph (1986)** · Arşiv
-
+• **The Piano Teacher (2001)** · Arşiv
 • **The Place Without Limits (1978)** · Keşif
 • **The Possessed (1965)** · Arşiv
 • **The Private Life of a Masterpiece (2001–2011)** · Arşiv
@@ -447,12 +521,15 @@
 • **The Secret Life of Machines (1988–1993)** · Arşiv
 • **The Seventh Juror (1962)** · Arşiv
 • **The Seventh Seal (1957)** · Arşiv
+• **The Shining (1980)** · Arşiv
 • **The Shock of the New (1980–1980)** · Arşiv
 • **The Shooting Party (1985)** · Arşiv
 • **The Shop on Main Street (1965)** · Arşiv
 • **The Shout (1978)** · Keşif
 • **The Signalman (1975)** · Arşiv
+• **The Silence (1963)** · Arşiv
 • **The Stone (1992)** · Arşiv
+
 • **The Stone Tape (1972)** · Arşiv
 • **The Story of Maths (2008)** · Arşiv
 • **The Structure of Crystal (1969)** · Arşiv
@@ -468,19 +545,23 @@
 • **The Very Late Afternoon of a Faun (1983)** · Arşiv
 • **The Virtual Revolution (2010–)** · Arşiv
 • **The Visit (1964)** · Arşiv
+• **The White Ribbon (2009)** · Arşiv
+• **The Wild Pear Tree (2018)** · Arşiv
 • **The Witch Doctor Will See You Now (2011–2011)** · Arşiv
 • **The Witness (1969)** · Keşif
 • **The Wounds (1998)** · Arşiv
+• **There Will Be Blood (2007)** · Arşiv
 • **Thirst for Love (1966)** · Keşif
 • **This Transient Life (1970)** · Keşif
 • **Three Colours: Red (1994)** · Keşif
-
 • **Three Crowns of the Sailor (1983)** · Arşiv
 • **Three Lives and Only One Death (1996)** · Arşiv
 • **Three Stories (1997)** · Arşiv
 • **Throne of Blood (1957)** · Arşiv
+• **Through a Glass Darkly (1961)** · Arşiv
 • **Tickled (2016)** · Arşiv
 • **Time to Die (1966)** · Arşiv
+• **Tokyo Story (1953)** · Arşiv
 • **Transport from Paradise (1962)** · Keşif
 • **Tree of Knowledge (1981)** · Keşif
 • **Twin Peaks: The Return (2017)** · Arşiv
@@ -488,6 +569,7 @@
 ## U
 • **Un borghese piccolo piccolo (1977)** · Arşiv
 • **Una Familia De Tantas (1949)** · Arşiv
+• **Uncut Gems (2019)** · Arşiv
 
 ## V
 • **Vengeance Is Mine (1984)** · Arşiv
@@ -501,8 +583,10 @@
 • **When I Am Dead and White (1967)** · Arşiv
 • **Who's Afraid of Virginia Woolf? (1966)** · Keşif
 • **Whole (2003)** · Arşiv
+
 • **Whose Life is It Anyway (1981)** · Arşiv
 • **Wild Strawberries (1957)** · Arşiv
+• **Wings of Desire (1987)** · Arşiv
 • **Winter Light (1963)** · Keşif
 • **Wise Blood (1979)** · Arşiv
 • **Woman in a Hat (1985)** · Arşiv
