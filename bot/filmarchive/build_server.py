@@ -302,7 +302,7 @@ def kat_items(kat):
     lab = KAT_LABELS[kat]
     if KAT_MODE[kat] == "bands":
         return [("forum", f"{kat}-{b}",
-                 f"{lab} · sana uygunluk {BAND_DESC[b]} — {lab} · {BAND_LABELS[b]}")
+                 f"{lab} · uygunluk veya kişisel puan {BAND_DESC[b]} — {lab} · {BAND_LABELS[b]}")
                 for b in BANDS]
     return [("forum", kat, f"{lab} kayıtları — {lab}")]
 
@@ -401,11 +401,21 @@ def forum_label(slug):
     return f"{fixed[kat]} · {fixed[band]}"
 
 
-def band_of(f):
+def fit_score(f):
+    """Bant puanı: sana_uygunluk ile kisisel_puan/2'nin maksimumu."""
     try:
         s = float(str(f.get("sana_uygunluk") or "").split("/")[0])
     except ValueError:
         s = 0.0
+    try:
+        k = float(str(f.get("kisisel_puan") or "")) / 2.0
+    except ValueError:
+        k = 0.0
+    return max(s, k)
+
+
+def band_of(f):
+    s = fit_score(f)
     if s >= 4.5:
         return "4-5-ve-ustu"
     if s >= 4.0:
@@ -464,7 +474,7 @@ def guide_contents(struct, counts):
             f"-# {SERVER} · Hoşgeldin\n# The Film Archive\n"
             "Kişisel film arşivinin ve protokol süzgeçli keşif listelerinin salt-okunur vitrini.\n\n"
             "## Nasıl kullanılır\n"
-            "• Her kategori bir tür (FİLMLER · DİZİLER · BELGESELLER · ANİMELER), altındaki forumlar ise `sana uygunluk` puan bantlarıdır (4.5+ · 4.0–4.5 · 3.5–4.0 · <3.5); her kayıt kendi odasındadır.\n"
+            "• Her kategori bir tür (FİLMLER · DİZİLER · BELGESELLER · ANİMELER), altındaki forumlar ise puan bantlarıdır (4.5+ · 4.0–4.5 · 3.5–4.0 · <3.5) — bandı `sana uygunluk` veya `kişisel puan` hangisi yüksekse o belirler; her kayıt kendi odasındadır.\n"
             "• Kayıtlar künye kartı + gerektiğinde **Derin Analiz** ve **Tartışmalar & Notlar** devam mesajları hâlinde yazılmıştır; çoğu kayıt afişiyle açılır.\n"
             "• Her forumun başında sabitlenmiş **DİZİN** kaydı vardır; hızlı atlama için `#a-z-indeks` kanalını kullanın.\n"
             "• `/ara` komutuyla Lexicanum tüm arşivde arama yapar.\n\n"
@@ -474,7 +484,7 @@ def guide_contents(struct, counts):
         ),
         "arsiv-dizini": (
             f"-# {SERVER} · Arşiv Dizini\n# Arşiv Dizini\n"
-            "Kayıtlar tür kategorileri altında `sana uygunluk` puan bantlarına ayrılır:\n\n"
+            "Kayıtlar tür kategorileri altında puan bantlarına ayrılır (bant = `sana uygunluk` veya `kişisel puan/2`, yüksek olan):\n\n"
             + "\n".join(kat_lines) + "\n\n"
             f"**KEŞİFLER & ÖNERİLER** — arşive girmemiş {counts['kesif']} aday\n"
             f"• `protokol-kesifleri` → {counts['protokol']} kayıt (film-protokol süzgeci)\n"
@@ -489,7 +499,7 @@ def guide_contents(struct, counts):
             "## Puanlar\n"
             "**IMDb /10** · **Letterboxd /5** · **Metascore /100** · **RT %** · **TMDb /10** · **nMDB /100** · **ICM** liste/fav sayısı.\n\n"
             "## Puan bantları\n"
-            "Her tür kategorisinin forumları `sana uygunluk` skoruna göre ayrılmıştır; `*-4-5-ve-ustu` en güçlü eşleşmeleri, `*-3-5-alti` en zayıfları toplar. Her forumun dizini puanları satır içinde gösterir.\n\n"
+            "Her tür kategorisinin forumları puana göre ayrılmıştır: bant = `sana uygunluk` ile `kişisel puan` (Letterboxd×2)/2'nin maksimumu; `*-4-5-ve-ustu` en güçlü eşleşmeleri, `*-3-5-alti` en zayıfları toplar. Her forumun dizini puanları satır içinde gösterir.\n\n"
             "## Sana uygunluk\n"
             "nMDB'nin kullanıcı-profiline göre hesapladığı 5 üzerinden uyum puanı; parantezdeki güven yüzdesi tahminin sağlamlığıdır.\n\n"
             "## Katmanlar (0–10)\n"
@@ -571,7 +581,7 @@ def run_posts(main, kesifler, struct):
         if is_band and not films:
             continue
         if is_band:
-            films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]), norm(title_of(f))))
+            films.sort(key=lambda f: (-fit_score(f), norm(title_of(f))))
         else:
             films.sort(key=lambda f: norm(title_of(f)))
         fid = struct["forums"][slug]["id"]
@@ -744,7 +754,7 @@ def run_bands(main, kesifler, struct):
         if b in state["indexes"]:
             continue
         films = [f for f in main if band_of(f) == b]
-        films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]),
+        films.sort(key=lambda f: (-fit_score(f),
                                   norm(title_of(f))))
         msgs = index_messages(forum_label(b), [band_entry(f) for f in films],
                               "uygunluk sırası")
@@ -839,7 +849,7 @@ def run_split(main, kesifler, struct):
         films = [f for f in main if forum_slug_of(f) == nslug]
         if not films:
             continue
-        films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]),
+        films.sort(key=lambda f: (-fit_score(f),
                                   norm(title_of(f))))
         msgs = index_messages(forum_label(nslug), [band_entry(f) for f in films],
                               "uygunluk sırası")
@@ -920,7 +930,7 @@ def run_relabel(main, kesifler, struct):
         if not tid:
             continue
         films = [f for f in main if forum_slug_of(f) == b]
-        films.sort(key=lambda f: (-float(str(f.get("sana_uygunluk") or "0").split("/")[0]),
+        films.sort(key=lambda f: (-fit_score(f),
                                   norm(title_of(f))))
         sync_thread(tid, index_messages(forum_label(b),
                                       [band_entry(f) for f in films],

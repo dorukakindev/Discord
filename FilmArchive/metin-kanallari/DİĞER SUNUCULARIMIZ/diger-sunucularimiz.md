@@ -6,3 +6,12 @@ Aynı arşiv ailesindeki salt-okunur sunucular:
 • **The Trench Archive (Trench Crusade)** — https://discord.gg/7ttHwcTYtt
 • **Black RPG Archive** — https://discord.gg/eqW5u39EgP
 • **Codex Mythica (Mitoloji)** — https://discord.gg/YUAHTYg65B
+
+-# THE FILM ARCHIVE · Diğer Sunucularımız
+# Diğer Sunucularımız
+Aynı arşiv ailesindeki salt-okunur sunucular:
+
+• **The Imperial Archive (Warhammer 40.000)** — https://discord.gg/v24dw9RvZE
+• **The Trench Archive (Trench Crusade)** — https://discord.gg/ZqpDEWMrVn
+• **Black RPG Archive** — https://discord.gg/VaYXK9Xgc3
+• **Codex Mythica (Mitoloji)** — https://discord.gg/qJ4dyvReRh
