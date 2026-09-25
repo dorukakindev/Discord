@@ -5,6 +5,10 @@
 
 Incubi'lerin iki elli tören kılıcı; her biri bir tapınakta kutsanır ve dövülür. Incubus, klaive'i hem bir silah hem ölüm tanrısı Khaine'e bir adak olarak taşır.
 
+## Tarihçe
+
+Incubus'un iki-elli dev kılıcı; Drukhari'nin simetrik ölüm aleti. Denklem çok basit: tek hamlede Space Marine'i ikiye böler — Commorragh'ın zırh-delen kılıç sanatı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

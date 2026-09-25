@@ -10,4 +10,9 @@ Titan ölçeğinde döner namlulu bolt topu; saniyede yüzlerce dev bolt yağdı
 
 ## Teknik ve Kullanım
 Bolt silah ailesi .75 kalibre kendi-itmeli mermi kullanır; her mermi kütledelici çekirdek + patlayıcı başlık taşır ve hedefin içinde infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; bir bolt mermisi ortalama bir insanı ortadan ikiye ayırır.
+
+## Tarihçe
+
+Dev seri-ateş topu; Titan'ların ve süper-ağır araçların taşıdığı çok-namlulu bolter. Ravenwing'in Nephilim Jetfighter'ında Avenger varyantı kullanılır — 'bolter' kavramının sınırı yok.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

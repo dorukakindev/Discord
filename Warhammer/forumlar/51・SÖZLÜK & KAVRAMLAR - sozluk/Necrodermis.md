@@ -9,6 +9,6 @@ Necrodermis, Necron ırkının bedenlerini oluşturan olağanüstü "canlı meta
 
 ## Tarihçe
 
-Necron'ların canlı metali; kendini onaran, şekil değiştiren biyometal. Necrontyr'ın bedenlerinden bugün kalan — ölümsüzlüğün maddesi.
+Necrontyr'ın altmış milyon yıllık 'canlı metal'i; ilk olarak dev sub-light gemileri için dövüldü, sonra C'tan ve Necron bedenlerine döküldü. Kendini onaran, şekil değiştiren biyometal — ölümsüzlüğün atomik mimarisi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

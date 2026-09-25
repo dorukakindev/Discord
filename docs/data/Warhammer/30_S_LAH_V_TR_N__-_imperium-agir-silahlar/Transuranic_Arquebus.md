@@ -10,4 +10,9 @@ Skitarii Ranger'ların dev keskin nişancı tüfeği; tek atışlık ağır meta
 
 ## Teknik ve Kullanım
 Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+
+## Tarihçe
+
+Adeptus Mechanicus'un Skitarii Ranger'larının uzun-namlulu radyoaktif tüfeği; tek atışta öldürmese bile çevreyi zehirleyen sinsi silah. 'Ölü yakınlık' doktrininin aracı — atışı yapan da hedefi de radyasyon bulutunda bırakır.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

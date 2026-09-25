@@ -10,4 +10,9 @@ Necron Lychguard'larının faz kayması yapan kılıcı; ağzı boyut frekanslar
 
 ## Teknik ve Kullanım
 Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+
+## Tarihçe
+
+Necron soylularının dimensional kılıcı; bıçağı boyutlar arasında titreşir ve zırhı, eti, organları kolayca ayırır. Overlord, Lord ve Lychguard'ların silahı — güç silahının gelişmiş Necron biçimi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

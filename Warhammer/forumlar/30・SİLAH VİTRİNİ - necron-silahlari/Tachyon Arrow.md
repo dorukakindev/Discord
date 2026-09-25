@@ -10,4 +10,9 @@ Necron soylularının kolundaki tek atışlık silah; ışık hızını aşan bi
 
 ## Teknik ve Kullanım
 Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+
+## Tarihçe
+
+Necron soylularının bileğe monte silahı; bir metal parçasını dağın kalbini delebilen durdurulamaz yıldırıma çevirir. Neredeyse sonsuz menzil — tek atış, tek ölüm.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

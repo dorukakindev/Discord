@@ -13,4 +13,8 @@ Ragnar'ın Fenris'teki klan savaşından Thunderhawk savaşlarına; 'Blackmane' 
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+William King'in Space Wolf başlangıcı; Ragnar'ın Fenris'ten Russ'ın kurtarıcılarına yükselişi — Chapter kültürünün içgörüsü, Thunderwolf'un oğlunun hikâyesi.
+
 -# Kaynaklar: Black Library

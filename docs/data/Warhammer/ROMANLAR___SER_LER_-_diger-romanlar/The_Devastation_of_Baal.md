@@ -13,4 +13,8 @@ Commander Dante'nin önderliğinde Baal'ın savunması; 'Great Devourer'ın Baal
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Guy Haley'in 999.M41 romanı; Hive Fleet Leviathan'ın Baal'e saldırısı, Blood Angels ve tüm Successor Chapter'ların Dante komutasında ana-yurdu savunması. Tyranid Savaşı'nın en büyük set-piece'i.
+
 -# Kaynaklar: Black Library

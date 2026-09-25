@@ -28,4 +28,8 @@ Uzay Denizcilerinin seramit katmanlı, servo motorlu tam vücut zırhı; siyah k
 - **Özel:** Zırh takviyesi: Üstün güç, yaşam destek ve insanüstü koruma sağlar
 - **Kanon Sınıfı:** A — resmî kaynak
 
+## Tarihçe
+
+Space Marine'in adamantium-plasteel plakalı servo-kuvvet zırhı; tam kapalı yaşam desteği, otomatik medicae ve hedef-analiz sistemi taşır. Tek başına üretimi onlarca yıl sürer — giyilmez, Marine'le bütünleşir. Her parçası kutsal, her zırh Chapter'ın tarihinin parçası.
+
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

@@ -13,4 +13,8 @@ Cain'in gravball sahasında tau büyükelçisi kurtarma palavrası ve 'kahraman'
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Ciaphas Cain serisinin ilk romanı; 'Halk Kahramanı' lakaplı commissar'ın Valhallan 597. ile Perlia'daki ilk gerçek tehlikesi ve Jurgen'le tanışması. 'Cesaret görünen korkaklık' destanının başlangıcı.
+
 -# Kaynaklar: Black Library

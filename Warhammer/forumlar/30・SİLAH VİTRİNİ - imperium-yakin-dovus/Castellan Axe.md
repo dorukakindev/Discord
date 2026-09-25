@@ -10,4 +10,9 @@ Custodian Warden'ların dev güç baltası; ağzına entegre bir top taşır ve 
 
 ## Teknik ve Kullanım
 Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.
+
+## Tarihçe
+
+Castellan sınıfı iki-elli büyük güç baltası; Adeptus Custodes ve seçkin savaşçıların ağır yakın dövüş silahı. Kalkan kullanan Sentinel Guard geleneğinin parçası — hem bıçak hem savunma mekanizması olarak çalışan imparatorluk usta-işi.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -9,6 +9,6 @@ Imperium'un halk dili; sayısız yerel lehçenin ortak tabanı.
 
 ## Tarihçe
 
-İmparatorluk'un günlük dili; milyarlarca insanın konuştuğu bozulmuş, pratik dil. High Gothic'in sokak hali — herkesin konuştuğu ama kimsenin yazmadığı dil.
+İmparatorluk'un resmi ortak dili; Karanlık Teknoloji Çağı uygarlığından evrilen, sayısız gezegen şivesine bölünmüş günlük dil. Herkesin konuştuğu ama hiçbir yasanın yazılmadığı dil — İmparatorluk'un gürültüsü.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

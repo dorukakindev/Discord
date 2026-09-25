@@ -13,4 +13,8 @@ Hereticus davasında Eisenhorn'un suçlanması; Pontius Operandi ve Cherubael da
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Eisenhorn serisinin 2. kitabı; Inquisitor'un daemonhost Cherubael'le ilişkisi ve Malleus Veritatis kruvazörünün Cressid'deki sırrı. 'Sorgucunun en tehlikeli müttefiki' teması.
+
 -# Kaynaklar: Black Library

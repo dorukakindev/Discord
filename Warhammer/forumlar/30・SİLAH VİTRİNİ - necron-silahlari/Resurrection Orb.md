@@ -10,4 +10,9 @@ Necron soylularının taşıdığı kutsal küre; çevresindeki düşmüş Necro
 
 ## Teknik ve Kullanım
 Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
+
+## Tarihçe
+
+Necron'un gizemli viridian küresi; çevredeki düşmüş Necronların rejenerasyon devrelerini hızlandırır ve dağılmış parçaları birleştirip ayağa kaldırır. Ordunun 'geri dönüş' makinesi — ölümsüz ırkın ikinci hayatı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

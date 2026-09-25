@@ -5,6 +5,10 @@
 
 Battlewagon'lara monte edilen kısa namlulu Ork topu; düşmanın genel yönüne büyük bir patlayıcı mermi savurur. İsabet ettiğinde alan tertemiz olur.
 
+## Tarihçe
+
+Ork Battlewagon'un ana topu; çeşitli kalibrelerde üretilen kaba ama etkili assault topu. Battlewagon zaten üstüne silah yığılmış hareketli kale — Killkannon'u onun 'ana yumruğu'.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

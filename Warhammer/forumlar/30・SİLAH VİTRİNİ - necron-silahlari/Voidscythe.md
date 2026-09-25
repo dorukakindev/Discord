@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/34/Novokh_Icon.png/revis
 
 Necron Lord'larının iki elli boyut tırpanı; ağzı gerçeklikte bir yarık açar ve dokunduğu her şeyi, en kalın zırhı bile yok sayarak keser. Warscythe'ın daha ağır, daha ölümcül kuzeni.
 
+## Tarihçe
+
+Necron soyulularının tercih ettiği dimensional kılıç; Warscythe'in yerini alabilen yakın dövüş silahı. Voidscythe'in kendisi bile başlı başına bir erdem — taşıyanın statüsünü duyurur.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

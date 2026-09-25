@@ -9,6 +9,6 @@
 
 ## Tarihçe
 
-İmparatorluk'un en ucuz besini; geri dönüştürülmüş ölü bedenlerden yapılan gri protein. Hive dünyalarının gerçeği — 'bugün kim öldü?' sorusunun cevabı.
+Hive dünyalarının geri dönüştürülmüş ölü-insan proteini; Necromunda'da Corpse Guild'in denetlediği sektör. Milyonların gerçek besini — 'sen kimsin?' sorusunun en somatik cevabı.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

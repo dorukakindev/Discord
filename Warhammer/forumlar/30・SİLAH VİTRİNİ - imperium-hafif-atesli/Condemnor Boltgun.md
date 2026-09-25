@@ -10,4 +10,9 @@ Sisters of Battle ve Inquisition'ın cadı avcısı silahı; namlusunun altında
 
 ## Teknik ve Kullanım
 Bolt silah ailesi .75 kalibre kendi-itmeli mermi kullanır; her mermi kütledelici çekirdek + patlayıcı başlık taşır ve hedefin içinde infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; bir bolt mermisi ortalama bir insanı ortadan ikiye ayırır.
+
+## Tarihçe
+
+Psyker avcısı boltgun; psişik mühürlü özel mühimmatıyla Witch Hunter ve Ordo Hereticus'un elindeki nadir silah. Standart bolt'a ek olarak daemon ve psyker'a karşı yüklenmiş kutsal mermi kullanır — cadı avının tanımlanmış aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

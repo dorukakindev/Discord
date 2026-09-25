@@ -11,6 +11,6 @@ Kısa menzilli tarama/algılama cihazı; hareket, enerji imzası ve yaşam sinya
 
 ## Tarihçe
 
-Taranabilir sensör aleti; ısı, hareket, enerji okuyan el cihazı. Guard subaylarının ve teknisyenlerin gözü — 'orada mı?' sorusunun cevabı.
+İmparatorluk'un taşınabilir sensörü; hareket, görünmez gazlar ve elektromanyetik yayılımları okuyan tarama cihazı. Subayın cebindeki 'orada ne var?' cevabı — basit, yaygın, vazgeçilmez.
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

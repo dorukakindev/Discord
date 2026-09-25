@@ -10,6 +10,6 @@ Genestealer Kültü (Genestealer Cult), Tyranid tehdidinin en sinsi ve en aldat�
 
 ## Tarihçe
 
-Genestealer enfeksiyonunun toplumsal yönü; 'Four-Armed Emperor' maskesiyle yayılan gizli yapı. En sinsi istila — ailenin içindeki düşman.
+Genestealer Patriarch'ın toplumsal yuvası; 'Four-Armed Emperor' maskesiyle inananları enfekte eden, Hive World'ün kanalizasyonunda büyüyen gizli kilise. Bağlılık kan bağıdır — aile, din ve istilanın tek vücut hali.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -10,4 +10,9 @@ Markerlight ile işaretlenmiş hedefe kilitlenen Tau füzesi; araçlara ve battl
 
 ## Teknik ve Kullanım
 Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
+
+## Tarihçe
+
+T'au'nun kendinden-güdümlü füzesi; Markerlight hedefi işaretlediğinde devreye giren hassas anti-zırh füzesi. Sky Ray'in ve battlesuit'lerin 'ışıklı ölüm' aracı.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

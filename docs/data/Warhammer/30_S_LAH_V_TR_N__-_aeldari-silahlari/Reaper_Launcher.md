@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Dark_Reaper_Missile_L
 
 Dark Reaper aspect savaşçılarının çok atışlı füze rampası; her füze ayrı hedefe kilitlenebilir. Khaine'in ölüm yüzünü temsil eden Dark Reaper'lar bu silahla uzaktan biçer.
 
+## Tarihçe
+
+Dark Reaper Exarch'ların uzun-menzilli füze silahı; zırh delen füzelerle tek salvoda yangın fırtınası yaratır. Psişik aktivasyonlu wraithbone yapım — 'uzaktan ölüm' sanatının Aeldari ustası.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

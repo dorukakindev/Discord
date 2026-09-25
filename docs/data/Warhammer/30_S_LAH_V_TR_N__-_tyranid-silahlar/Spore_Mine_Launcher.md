@@ -5,6 +5,10 @@
 
 Biovore'un sırtından canlı spor mayınları fırlatan organı; yüzen mayınlar düşmanın üzerine sürüklenip patlayarak bio-asit veya şarapnel saçar. Hive Mind'ın yüzen tuzakları.
 
+## Tarihçe
+
+Biovore'un yaşayan topçusu; içinde beslenen Spore Mine'ları ateşleyen biyolojik mortar. 'Cephanenin kendisi canlı' — Tyranid savaşının en somatik hali.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

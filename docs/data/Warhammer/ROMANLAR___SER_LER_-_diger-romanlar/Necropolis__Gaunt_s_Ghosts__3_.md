@@ -13,4 +13,8 @@ Ghostların kovan şehri savunmasına katılması; Commissar'lık ve 'Welcome to
 
 -# Seri: Diğer Romanlar (Black Library)
 
+## Tarihçe
+
+Gaunt's Ghosts 3; Verghast'ta hive şehirleri arasındaki savaş ve Gaunt'un First-and-Only'si — 'Hive'ın halkı' ile 'kale'nin ordusu karşılaşması.
+
 -# Kaynaklar: Black Library

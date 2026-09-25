@@ -5,6 +5,10 @@
 
 Tankbusta'ların tek kullanımlık dev çekici; ucundaki devasa patlayıcıyı düşman tankına vurup hem kendini hem tankı havaya uçurur. Ork mantığında kusursuz bir plan.
 
+## Tarihçe
+
+Ork'ların tank-dövüş çekici; el bombası çantasıyla sarılmış dev çekiç. 'Tankhammer' adını boşuna taşımaz — yakın dövüşte araç parçaları uçuran, Loota'ların ve Tankbusta'ların bayıldığı kaba ama etkili Ork mühendisliği.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

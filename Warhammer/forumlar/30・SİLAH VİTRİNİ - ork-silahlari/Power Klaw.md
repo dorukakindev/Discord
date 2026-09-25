@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Power_Klaw_1.jpg/revi
 
 Ork Nob ve Warboss'larının dev hidrolik kıskacı; güç alanlı makasları tank zırhını kağıt gibi katlar. İnce iş için değil, kapı koparmak ve Dreadnought ikiye bölmek için yapılmıştır.
 
+## Tarihçe
+
+Ork'ların dev servo-pençesi; dengesiz disruption alanıyla çevrili, İmparatorluk Power Fist'in kaba eşleniği. Kocaman hidrolik makas — hem keser hem parçalar, Ork Nob'larının onur simgesi ve 'choppa' kültürünün en büyüğü.
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım
