@@ -10,6 +10,6 @@ Terminator, bir Space Marine Chapter'ı içindeki en seçkin ve en korkunç biri
 
 ## Tarihçe
 
-En ağır zırhlı Astartes; Tactical Dreadnought Armour içinde yürüyen tank. Terminatör geldiğinde savaşın yönü değişir.
+Terminator, Space Marine'lerin en ağır zırh kullanan seçkinleridir; Tactical Dreadnought Armour (Terminator Armour) giyen bu savaşçılar en ölümcül vuruş gücü taşır. Teleport edilebilirler — İmparatorluk'un 'zırhlı ölüm' sınıfı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

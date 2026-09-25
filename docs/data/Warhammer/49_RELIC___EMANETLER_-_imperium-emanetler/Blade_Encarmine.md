@@ -12,6 +12,6 @@ Sanguinius, Büyük Haçlı Sefer ve Horus Heresy boyunca bu kılıcı kuşandı
 
 ## Tarihçe
 
-Blood Angels'ın eski kılıcı; Chapter'ın uzun tarihinin taşıyıcısı. Kan ve onurun metal hali.
+Blade Encarmine, Blood Angels'ın en kutsal kılıçlarından biridir; Sanguinius'un kendi elleriyle dövdüğü söylenen güç kılıcı. Chapter'ın Sanguinary Guard komutanları tarafından taşınır; kan-kırmızı kabzası ve melek kanatlı kaburgasıyla Hemophilia'nın hem simgesi hem silahıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

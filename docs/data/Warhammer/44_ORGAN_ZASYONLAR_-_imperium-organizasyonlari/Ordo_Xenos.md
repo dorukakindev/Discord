@@ -12,6 +12,6 @@ Bu kolun üyeleri, düşmanı yenmek için onu tanımak zorundadır; bu yüzden 
 
 ## Tarihçe
 
-Xeno tehdidini izleyen Inquisition kolu; yabancı, alien, düşünemez şeylerin avcısı. İmparatorluk'un dış düşman uzmanı.
+Ordo Xenos, Inquisition'un yabancı (xenos) tehditleriyle ilgilenen koludur; uzaylı ırklar, genetik sızıntılar ve xenos kültlerini soruşturur. Deathwatch'ın askeri koluyla çalışırlar — İmparatorluk'un xenos bilgisi ve yabancı taktiklerinin deposu onlardadır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

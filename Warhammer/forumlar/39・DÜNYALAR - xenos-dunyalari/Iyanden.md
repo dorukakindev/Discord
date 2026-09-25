@@ -16,6 +16,6 @@ Iyanden'in kültürü, yas ve hatıra üzerine kuruludur: Craftworld'ün 'Spirit
 
 ## Tarihçe
 
-Kraken'in neredeyse yuttuğu craftworld; hayaletlerin evi. Nüfusun çoğu ölülerden — Infinity Circuit yaşayanlardan kalabalık.
+Iyanden, Aeldari'nin yaşayan ölü-şehir craftworld'üdür; Hive Fleet Kraken'ın istilasıyla nüfusunun yarısı öldü. Ölülerin ruhlarını Wraith ordularına taşıyan 'hayalet şehir' — hayatta kalması için ölülerle savaşmak zorunda kalan craftworld.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom

@@ -12,6 +12,6 @@ Khaine ile birlikte, Düşüş felaketinden sağ çıkan yalnızca iki Aeldari t
 
 ## Tarihçe
 
-Aldanma ve güldürü tanrısı; Laughing God. Harlequin'lerin efendisi ve Slaanesh'ten kaçan tek Aeldari tanrısı — son oyunun yazarı.
+Cegorach ('Laughing God'), Aeldari'nin şaka-tanrısı ve Harlequin'lerin efendisidir; Slaanesh'e düşmeyen tek Aeldari tanrısı olarak hayatta kaldı. Webway'de saklanıp kaos tanrılarıyla zekâ oyunu oynar — Aeldari'nin kaçış, sanat ve muziplik ilkesinin tanrısal hali.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

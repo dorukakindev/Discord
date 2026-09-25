@@ -11,6 +11,6 @@ Kurum büyük ölçüde psyker'lardan oluşur; psişik olmayan üyeleri ise kal�
 
 ## Tarihçe
 
-Astronomican'ı besleyen kurum; İmparator'un ışığını sürdüren psişik çan. Her gün binlerce psyker bu işte yanar.
+Adeptus Astronomica, Terra'daki Astronomican'ı işleten kurumdur; binlerce psyker'ın birleşik ruhuyla İmparator'un yıldız-fenerini besler. Astronomican olmadan Warp'ta güvenli yolculuk imkânsızdır — Astronomica'nın korosu her gün İmparatorluk'un hayatını sürdürür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

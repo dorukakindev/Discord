@@ -12,6 +12,6 @@ Mawloc'un saldırı deseni acımasızdır; ikmal hatlarının, komuta mevkilerin
 
 ## Tarihçe
 
-Yeraltından gelen Tyranid canavarı; kilometrelerce tünel açıp düşmanın altından çıkar. 'Kalp atışı duyamazsınız — zaten gelmiştir.'
+Mawloc, tyranid'lerin devasa yeraltı canavarıdır; toprak altından gelip düşman hatlarını içeriden yıkan dev solucan-form. Ön saflarda siperleri parçalamak için evrilmiş — 'toprağın altındaki korku'.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

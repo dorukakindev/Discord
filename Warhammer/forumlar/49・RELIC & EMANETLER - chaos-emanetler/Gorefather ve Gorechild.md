@@ -12,6 +12,6 @@ Baltaların yapımı bile bir destandır; dönen, parçalayan dişleri, Luther M
 
 ## Tarihçe
 
-Angron'un ikiz zincir baltası; World Eaters'ın en eski silahları. Kesmek için değil parçalamak için — öfkenin metal hali.
+Gorefather ve Gorechild, Angron'un efsanevi ikiz zincir-kılıçlarıdır; World Eaters'ın simgeleşmiş kanlı silahları. Babası onları arena dövüşlerinde kullandı — 'Gorefather' keser, 'Gorechild' parçalar; Angron'un vahşetinin somut simgeleri.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

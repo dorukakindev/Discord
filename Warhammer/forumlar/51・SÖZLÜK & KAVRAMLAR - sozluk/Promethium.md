@@ -12,6 +12,6 @@ Promethium, farklı kalitelerde ve biçimlerde gelir; bazıları araç ve makine
 
 ## Tarihçe
 
-İmparatorluk'un yakıtı; alev silahlarının ve motorların ham maddesi. Savaşın benzinidir — olmadan ordu durur.
+Promethium, İmparatorluk'un yanıcı kimyasal yakıtıdır; flamer'lar, incendiary mühimmat ve industrial araçlarda kullanılır. 'Promethean' dünyalar bu maddeyi üretir — İmparatorluk'un hem yakıtı hem silah deposudur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

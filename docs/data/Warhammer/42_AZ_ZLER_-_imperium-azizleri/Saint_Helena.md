@@ -12,6 +12,6 @@ Order of the Key'de tam otuz yıl hizmet ettikten sonra Canoness mertebesine yü
 
 ## Tarihçe
 
-Order of Our Martyred Lady'nin azize-martırı; Vivian'daki şehitliğiyle efsane. Kadın fedakârlığının kutsal hali.
+Saint Helena ('the Virtuous'), Adepta Sororitas kültünün büyük azizlerindendir; Order of the Fiery Heart (sonradan Order of Our Martyred Lady) kökeniyle bağlantılıdır. Mucizevi yaşamı ve İmparator'a sarsılmaz adanmışlığıyla anılır; kendi adını taşıyan savaş düzeni, sadakat ve sebatın simgesi olarak Sororitas geleneğinde yerini korur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

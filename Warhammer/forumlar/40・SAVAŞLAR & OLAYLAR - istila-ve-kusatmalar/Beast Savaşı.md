@@ -14,6 +14,6 @@ Beast'ı durduran, Imperial Fists'in son temsilcileri ve 'Last Wall' protokolüy
 
 ## Tarihçe
 
-War of the Beast'in diğer adı; dev Ork'un İmparatorluk'u sarsması. Vulkan ve Fists'in müdahalesi — primarch'ların son ortak savaşı.
+Beast Savaşı (War of the Beast), 544-546.M32'de Ork'ların neredeyse Terra'ya ulaştığı devasa istiladır; tek 'Beast' liderliğindeki Waaagh, İmparatorluk'u yok olma noktasına getirdi. İmparatorluk'un İmparatorluk'tan sonraki en büyük krizi — yeni Imperial Creed'in, Ordo Xenos'un ve yeni savunma düzeninin doğumunu tetikledi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

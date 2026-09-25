@@ -12,6 +12,6 @@ Venomthrope'un kamçı-benzeri dokunaçları, sayısız yabancı zehirle damlar;
 
 ## Tarihçe
 
-Zehir saçan Tyranid canlısı; gaz ve spora bulanık hava üreterek hem öldürür hem ileri kolu gizler. Savaş bulutunun kendisidir.
+Venomthrope, tyranid sürüsünün zehir-perde birimidir; bedeninden yayılan zehirli sisle hem dostlarını korur hem düşmanı zayıflatır. Biyolojik bir 'gaz makinesi' — tyranid taktik ağının kimyasal silah koludur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

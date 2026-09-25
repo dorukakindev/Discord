@@ -10,6 +10,6 @@ En ünlü miti, Khaine ile arasındaki anlaşmadır: Vaul, savaş tanrısı Khai
 
 ## Tarihçe
 
-Demirci tanrısı; ruhlaştırılmış metalin ustası, Tears of Isha'nın dövücüsü. Khaine'in kölesi yapıldı — bugün Yme-Loc'un yolu.
+Vaul, Aeldari'nin demirci ve zanaat tanrısıdır; panteonun 'smith' figürü olarak Aspect silahlarının ve craftworld'lerin efsanevi yaratıcısı sayılır. Slaanesh'le düşen tanrılardan — ama adı hâlâ Aeldari zanaatkârlığının kutsal adıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,6 @@ Vespid'in anatomisi, tamamen uçuşa ve hızlı saldırıya evrilmiştir: ince, 
 
 ## Tarihçe
 
-T'au müttefik böcek-adamlar; Crystal helms'leriyle iletişim kuran, hayalet sesli xeno'lar. Havadan gelen sessiz müttefik.
+Vespid ('Stingwings'), T'au İmparatorluğu'nun böceksi müttefik ırkıdır; kanatlı avcılar olarak Greater Good'a hizmet ederler. Kendi zekâları ve doğal silahlarıyla savaşırlar — T'au'nun koalisyon ordusundaki en değerli non-T'au birimlerinden biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,6 +16,6 @@ Aziz olarak Lucius, 'silah taşıyan aziz' kategorisinin en eski örneklerindend
 
 ## Tarihçe
 
-Agathea'nın lokal azizi; kısmi bilinen bir bölgesel inanç figürü. Yerel piety'nin örneği.
+Lucius of Agathea, İmparatorluk'un erken dönem azizlerinden biridir; Agathea dünyasının koruyucusu ve Vaunted Saint kültünün merkezidir. Yaşamı hakkındaki kayıtlar efsaneyle iç içe geçmiştir; adı özellikle piyade alayları ve muhteris kurtarıcı figürleriyle anılır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

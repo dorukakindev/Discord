@@ -12,6 +12,6 @@ Administratum'un ölçeği akıl almazdır ve bu, onun en belirgin (ve en kara m
 
 ## Tarihçe
 
-İmparatorluk'un bürokrasi canavarı; tithe, arşiv, kayıt. Sayılamayan milyarlarca memur — gerçek iktidar burada.
+Adeptus Administratum, İmparatorluk'un devasa bürokratik koludur; milyarlarca memur, katip ve hesapçıyla vergi, kayıt, lojistik ve yönetimi yürütür. Imperial Truth'un çöküşünden sonra bile hayatta kalan en eski kurumdur — İmparatorluk gerçekte bu kağıt imparatorluğunun sırtında döner.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

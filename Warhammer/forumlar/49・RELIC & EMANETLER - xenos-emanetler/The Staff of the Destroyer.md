@@ -12,6 +12,6 @@ Asanın tarihi, Necron'ların kendisi kadar eskidir; ilk olarak Zehet Hanedanı'
 
 ## Tarihçe
 
-Destroyer Lord'ların taşıdığı asa; Necron yıkım gücünün simgesi. 'Silme' felsefesinin aracı.
+The Staff of the Destroyer, C'tan Nightbringer'ın mitlerindeki kadim güç simgesidir; yıldız yiyen tanrının yıkımının parçası olduğu söylenir. Necron ve Eldar mitolojisinde karşılıklı anılır — kayıtları belirsiz olsa da C'tan arkeolojisinin en tehlikeli efsanelerinden biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

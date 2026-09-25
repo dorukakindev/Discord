@@ -10,6 +10,6 @@ Captain (Bölük Komutanı), bir Space Marine Chapter'ının en kıdemli ve en s
 
 ## Tarihçe
 
-Company komutanı; yüz Space Marine'in efendisi ve Chapter'ın saha yöneticisi. Rütbe ile kanıtlanmış cesaret arasındaki ince çizgi.
+Captain, Space Marine bölüğünün komutanıdır; 100 Marine'i yöneten saha komutanı. Taktik karar, moral ve savaş yönetimi ondan sorulur — chapter'ın omurga rütbesi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

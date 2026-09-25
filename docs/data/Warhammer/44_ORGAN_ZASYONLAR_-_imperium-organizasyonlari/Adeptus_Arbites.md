@@ -12,6 +12,6 @@ Arbites, sıradan suçlarla (hırsızlık, cinayet gibi yerel meselelerle) pek i
 
 ## Tarihçe
 
-İmparatorluk'un polis gücü; hukuku uygulayan kara zırhlılar. Yerel kanun değil Lex Imperialis — gezegenlerin son kanunu.
+Adeptus Arbites, İmparatorluk'un yargı-politik gücüdür; Lex Imperialis'i (İmparatorluk Kanunu) uygular. Arbitrator'lar dünyalardaki isyanları bastırır, yozlaşmış valileri alaşağı eder ve İmparatorluk hukukunu zorla dayatır — sokak seviyesinde İmparatorluk otoritesinin en ağır eli.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,6 +16,6 @@ Lucia'nın kültü, 'fiziksel yetersizliğin imanla aşılması' mitinin merkezi
 
 ## Tarihçe
 
-Order of the Valorous Heart'ın kurucusu; kör edildi, koruyucu azize oldu. Gözleri olmayanların ve disiplinlilerin azizi.
+Saint Lucia, Saint Katherine'in silah arkadaşı ve Adepta Sororitas'ın kurucu azizlerinden biridir; Order of the Valorous Heart'ın kurucusu olarak anılır. Katherine'in şehitliği sırasında yanındaydı; gözlerini çıkarmasına rağmen savaşmaya devam ettiği efsanesi Sororitas'ın azim kültünün temelidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

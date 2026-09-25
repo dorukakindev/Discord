@@ -12,6 +12,6 @@ Bir güç eldiveni olarak, Hand of Dominion en ağır zırhı parçalayabilir, b
 
 ## Tarihçe
 
-Sons of Horus'un eski relic'i; Horus'un iktidar sembolü. Warmaster'ın ilk işareti — gücün başlangıcı.
+The Hand of Dominion, Ferrus Manus'un yaşayan gümüş ellerinin hem adı hem mirasıdır; Iron Hands'in kurucu simgesidir. Ferrus'un elleri yaşayan metalin saf haliydi — silah ve aracı aynı anda. Primarch'ın düşüşüyle eller kayboldu ama Chapter'ın 'flesh is weak' doktrini bu emaneti ebedileştirdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

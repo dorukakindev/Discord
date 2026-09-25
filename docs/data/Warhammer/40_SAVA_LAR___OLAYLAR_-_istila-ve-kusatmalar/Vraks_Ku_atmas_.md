@@ -12,6 +12,6 @@ Vraks, baştan başa devasa bir İmparatorluk cephanelik-deposuna dönüştürü
 
 ## Tarihçe
 
-Vraks'ta 12 yıllık Death Korps kuşatması; mühimmat dünyasının kurtarılması ya da yok edilmesi. Siper savaşının en karanlık örneği.
+Vraks Kuşatması (Siege of Vraks), 813-830.M41 arası Kardinal Xaphan'ın isyanı ve Death Korps of Krieg'in on yedi yıl süren kuşatmasıdır; milyonlarca ölüyle İmparatorluk'un en kanlı kuşatmalarından biri. Krieg'in amansız 'ödeşme' doktrininin en bilinen örneği.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

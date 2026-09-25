@@ -10,6 +10,6 @@ Astropath, İmparatorluğun yıldızlar arasında haberleşmesini mümkün kıla
 
 ## Tarihçe
 
-Sanctioned psyker'ın mesajcı sınıfı; Warp'tan mesaj ileten iletişim memuru. Görmesinden önce söyler — ama her mesaj bir risktir.
+Astropath, İmparatorluk'un telepatik haberleşme memurlarıdır; Adeptus Astra Telepathica tarafından Soul Binding ritüeliyle eğitilip İmparator'un 'sesi'ne bağlanırlar. Warp üzerinden mesaj iletirler — İmparatorluk'un galaksi çapında iletişiminin tek yolu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

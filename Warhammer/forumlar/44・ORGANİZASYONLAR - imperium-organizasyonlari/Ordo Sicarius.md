@@ -12,6 +12,6 @@ Officio Assassinorum, Vindicare, Callidus, Eversor ve Culexus gibi tapınakları
 
 ## Tarihçe
 
-Assassinorum'u izleyen Inquisition kolu; suikastçıların bekçisi. Beheading'in ardından kuruldu — katillerin üstündeki kılıç.
+Ordo Sicarius, Inquisition'un Officio Assassinorum'u denetleyen nadir koludur; tapınakların suikastçılarının aşırı güç kullanımını izler ve gerektiğinde kendi icra operasyonlarını yürütür. Inquisition içinde bile az tanınan, en gizli izleme-dengeleme organlarından biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

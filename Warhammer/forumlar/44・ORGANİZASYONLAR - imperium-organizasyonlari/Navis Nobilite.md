@@ -12,6 +12,6 @@ Navigator'ları benzersiz kılan, üçüncü gözleriyle Immaterium'un (Warp'ın
 
 ## Tarihçe
 
-Navigator soyhanedanları; Warp'ta yol gösteren insan-mutant aristokrasi. İmparatorluk'un seyahat omurgası — teknik ama asil.
+Navis Nobilite, Navigator'ların soylu aile-sendikasıdır; Warp yolculuğunu mümkün kılan mutant-aristokrat kasttır. Patriarch'lar ve iç-politik entrikalarıyla ünlüdür; İmparatorluk'ta hiçbir güç onlara dokunamaz çünkü uzay yolculuğu onların genleri olmadan durur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

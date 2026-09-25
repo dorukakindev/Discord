@@ -10,6 +10,6 @@ Ogryn (Homo sapiens gigantus), İmparatorluk'un en tanınan ve en sevilen abhuma
 
 ## Tarihçe
 
-İri ve aptal abhuman dev; sadık, güçlü ve acımasız. Bodyguard ve shock troop olarak kullanılır — İmparatorluk'un sadık devi.
+Ogryn, İmparatorluk'un en yaygın abhuman ırkıdır; devasa, iri yapılı ve basit zekâlı bu mutantlar Astra Militarum'un yakın dövüş kalkanları olarak hizmet eder. Sadık ve sarsılmazdırlar — tek korkuları karanlıktır; Ripper Gun ile donanmış Ogryn birlikleri düşman hatlarını kırar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

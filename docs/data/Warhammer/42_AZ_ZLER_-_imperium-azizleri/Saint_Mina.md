@@ -12,6 +12,6 @@ Dikkat çekici bir tarihsel ayrıntı, Order of the Bloody Rose'un Mina'nın pat
 
 ## Tarihçe
 
-Order of the Bloody Rose'un kurucusu; vahşi fedakârlık ve kan-itaatin azizi.
+Saint Mina, Hydraphur bölgesinin Blood Martyr kültünün azizidir; Order of the Bloody Rose ile özdeşleşmiştir. Yaşarken katledilip şehitliğe yükseldiği söylenir; kanla vaftiz ve şehitlik temalarıyla Sororitas ikonografisinde önemli yer tutar. Damaris'teki kültü, Cardinal Aevalis'in sarayında beslenmiştir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

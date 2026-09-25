@@ -16,7 +16,7 @@ Savaş alanında düşen Necron Warrior'larını toplayan, gövdesindeki düzene
 
 ## Tarihçe
 
-Ghost Ark'lar Necron savaş düzeninin aşınmaya karşı direncini temsil eder.
+Ghost Ark, Necron piyade taşıyıcısı ve tamir platformudur; içindeki canlı-metal ocaklarında düşen Necron savaşçılarını onarıp tekrar savaşa salar. Aynı zamanda taşıdığı birlikleri sahaya indirir — hem nakliye hem yaşam-destek aracıdır.
 
 ## Teknik Özellikler
 - Tip: Necron birim taşıyıcısı / destek aracı — hareketli onarım merkezi

@@ -10,6 +10,6 @@ Plague of Unbelief (İnançsızlık Vebası), M36'da, Apostasy Çağı'nın geni
 
 ## Tarihçe
 
-Apostasy çağında yayınlanan sahte-vaiz vebaları; inancın silahlaştığı dönem. Vandire'in elinde dinin en karanlık hali.
+Plague of Unbelief, 36. Binyıl'da Kardinal Bucharis'in Gathalamor'da başlattığı büyük isyan ve sapkınlık dalgasıdır; milyonlarca dünyayı İmparatorluk'tan koparıp kendi teokratik krallığını kurmaya çalıştı. Confessor Dolan Chirosius'un şehitliği ve son büyük savaşla bastırıldı — İmparatorluk tarihinin en kanlı iç savaşlarından biri.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

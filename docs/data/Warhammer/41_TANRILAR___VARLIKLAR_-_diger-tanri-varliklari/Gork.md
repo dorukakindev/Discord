@@ -12,6 +12,6 @@ Ork teolojisine göre Gork, düşmana doğrudan, yüz yüze ve "dürüstçe" sal
 
 ## Tarihçe
 
-Sertlikle vuran Ork tanrısı; 'açıkta vurur'. Ork'ların en basit ve en yüce ilkesi — güçle çözülen her şey.
+Gork ve Mork, Ork'ların ikiz tanrılarıdır; Ork ırkının kolektif bilinçdışının yansıması olarak 'vahşet' ve 'kurnazlık' ilkesini somutlaştırırlar. Ork'lar onlara tapar ama tapınma biçimleri kavga, Waaagh ve gürültüdür — Ork tanrıları tapınma değil, yaşam tarzıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

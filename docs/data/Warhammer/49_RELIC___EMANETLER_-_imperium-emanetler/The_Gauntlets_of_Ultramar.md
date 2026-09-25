@@ -14,6 +14,6 @@ Gauntlets'in gücü, hem fiziksel hem liderlik sembolüdür — Calgar'ın 'en �
 
 ## Tarihçe
 
-Calgar'ın taşıdığı Ultramarines güç eldivenleri; Bolter'ları içine gömülü dev yumruk. Chapter'ın ikonu.
+The Gauntlets of Ultramar, Roboute Guilliman'ın kendi elleriyle dövdüğü efsanevi güç eldivenleridir; içlerine gömülü bolter'larla hem silah hem yumruk olarak çalışır. Heresy sonrası Chapter'ın ilk Chapter Master'larından beri Ultramar'ın Lord'u taşır; Guilliman'ın dönüşüyle tekrar primarch'ın ellerine geçti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
