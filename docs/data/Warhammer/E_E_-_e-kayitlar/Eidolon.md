@@ -16,6 +16,6 @@ Eidolon, Emperor's Children'ın en ünlü Lord Commander'ıdır — Heresy'de Fu
 
 ## Tarihçe
 
-Eidolon, Emperor's Children'ın en ünlü Lord Commander'ıdır — Heresy'de Fulgrim'in en sadık yardımcısı ve lejyonun düşüşünün öncü mimarlarından. Ölümlerden diriltilir, savaştan savaşa sürüklenir; Fulgrim'in ardından lejyonun paramparça komutasını tek elde toplamaya çalışan en güçlü adaydır.
+Eidolon, Büyük Sefer ve Heresy'de Emperor's Children'ın on bir lord commander'ından biriydi; bir zamanlar 'lejyonun her şeyinin örneği' olarak selamlanan figürdü — ama Fulgrim'in gözünden düşüp başarısızlığa uğrayınca ölümcül biçimde cezalandırıldı ve diriltilen bir 'Noise Marine prototipi' olarak geri döndü. 'İlk çığlık atan' olarak EC'nin ses-silahı geleneğinin başlangıcıdır.
 
 -# Kaynaklar: *Codex: Chaos Space Marines*; *Horus Heresy* kaynakları

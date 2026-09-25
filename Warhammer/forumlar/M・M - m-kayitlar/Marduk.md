@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/09/Dark_creed.jpg/revisi
 
 ## Tarihçe
 
-Marduk, Word Bearers'ın 34. Host'unun Dark Apostle'ı ve Anthony Reynolds'ın Word Bearers roman serisinin baş kahramanıdır; Shadek'la İmparatorluk'a karşı vahşi seferler yürütür — modern Chaos edebiyatının en ikonik Apostle'ı.
+Marduk, Word Bearers lejyonunun daha formidabl Dark Apostle'larından biridir; eski Dark Apostle Jarulek'in ilk acolyte'ı olarak başlayıp sonra kendi 34. Ordusu'nun efendisi oldu. Boros Gate Savaşı'nda White Consuls'un kaskını tutan görüntüsüyle bilinen bu figür, 'koleksiyoncu-papaz' olarak Word Bearers'ın iç rekabetinde yükselen yeni nesil fanatiktir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/36/Revuel_Arvida.jpg/rev
 
 ## Tarihçe
 
-Revuel Arvida, Thousand Sons'ın Prospero'dan kaçan sadık sorcerer'ıydı; White Scars'a sığınıp Heresy'de Jaghatai Khan'ın müttefiki oldu — iki lejyon arasındaki köprü figürü.
+Revuel Arvida, Thousand Sons'ın 4. Bursu'nun çavuşu ve Corvidae Kültü'nün üyesiydi; Heresy'nin ilk günlerinde hainlere karşı savaşan sadık psyker olarak bilinir. Kaptanı Menes Kalliston'un timiyle Prospero'nun yıkıntılarına giden figürlerden biri olarak 'düşmüş lejyonun sadık kalanı' efsanesinin parçasıdır — sonradan White Scars'la birleşip 'yeni yolu' arayan ilk TS'lilerden.
 
 -# Kaynaklar: *Fandom wiki*
 

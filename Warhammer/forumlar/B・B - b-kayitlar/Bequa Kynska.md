@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/72/MarkofSlaaneshVariant
 
 ## Tarihçe
 
-Bequa Kynska, Emperor's Children'ın Remembrancer'ıydı; Laer tapınağındaki ses-deneyimiyle yozlaşıp ilk 'Noise Marine' ses silahını tasarladı — 'Kakophoni'nin anası'.
+Bequa Kynska, Büyük Sefer'in son yıllarında Terra'nın en büyük besteci ve müzisyeniydi; Fulgrim'in kişisel talebiyle Emperor's Children'ın 28. Sefer Filosu'na Remembrancer olarak katıldı. Laeran'da duyduğu kaotik 'seslerin' etkisiyle yozlaştı ve Slaanesh'i ilk selamlayan insanlardan biri oldu — 'uyumsuzluğun konçertosu' olarak EC'nin düşüşünde sembolik figürdür.
 
 -# Kaynaklar: *Fandom wiki*
 

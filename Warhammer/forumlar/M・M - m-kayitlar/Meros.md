@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Meros-0.jpg/revision/
 
 ## Tarihçe
 
-Meros, Sanguinius'un kişisel muhafızıydı; Signus Prime'da Kyriss'le mücadele sırasında daemonik possession'a uğrayıp hayatını feda etti — Blood Angels'ın 'Kızıl Susuzluk' ile ilk yüzleşmesinin bedeli.
+Meros, Büyük Sefer ve Heresy'de Blood Angels lejyonunun 9. Bölüğü'nün Apothecary Minorius'uydu (genç medicae); Kaptan Furio'nun emrinde görev yaptı. Başlangıçta düz bir line-Astartes'ti ama sonradan 'Kızıl Melek' (Ka'Bandha) tarafından sahiplenildi — 'içinden yenen iyileştirici' olarak Signus trajedisinin en acı figürlerinden biri oldu.
 
 -# Kaynaklar: *Fandom wiki*
 

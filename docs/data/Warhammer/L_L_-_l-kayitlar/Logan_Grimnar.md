@@ -30,6 +30,10 @@ Bu karşı koyuş, Space Wolves ile Inquisition arasında yüzyıllara yayılan 
 
 Bu husumetin gölgesi sonraki yüzyıllarda da sürdü. Inquisitor'larla Space Wolves komutanları arasındaki gerginlik, Chapter'ın bağımsızlığına dair tartışmaların ve Fenris'e yöneltilen şüphenin sürekli kaynaklarından biri olarak anlatılır.
 
+## Tarihçe
+
+Logan Grimnar, Space Wolves'un 'Büyük Kurdu' — Chapter Master'ıdır ve Era Indomitus'un en büyük Adeptus Astartes liderlerinden biri. Savaşkan ve dikbaşlı bu figür, Fenris'in 'Yaşlı Kurt'u olarak yüzyıllardır chapter'ı yönetir; 'İmparatorluk'un en özgür Astartes'i' olarak Space Wolves'un bağımsız ruhunun bedenidir.
+
 ## Fenris'in Savunması: Wulfen ve Magnus
 M41'in son yıllarında Grimnar, Chapter'ı iki büyük krizden geçirdi. *War Zone Fenris: Curse of the Wulfen* anlatısında, Russ'ın döneminde Eye of Terror'da kaybolan 13th Great Company ile özdeşleştirilen Wulfen'ler Warp'tan esrarengiz biçimde yeniden ortaya çıktı. Bu dönüş, Space Wolves'un kendi gene-seed mirasıyla yüzleşmesi anlamına geliyordu; Wulfen'e yabancı gözlerin, özellikle Inquisition ve Dark Angels'ın nasıl baktığı da Chapter'ın dış ilişkilerini yeniden gerdi.
 

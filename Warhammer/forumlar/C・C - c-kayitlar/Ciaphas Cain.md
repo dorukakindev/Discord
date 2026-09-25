@@ -13,6 +13,10 @@ Bu çerçeve, iki katlı bir güvenilmezlik üretir. Bir yanda Cain kendi cesare
 
 Ansiklopedik açıdan bu, Cain hakkındaki her iddianın bir bakış açısına bağlı olduğu anlamına gelir: "Cain bir korkaktır" da "Cain Imperium'un en büyük kahramanlarından biridir" de evren içi anlatımdır, nesnel hüküm değildir.
 
+## Tarihçe
+
+Ciaphas Cain, Officio Prefectus'un komiseri ve Astra Militarum hizmetindeki 'İmparatorluk Kahramanı'dır — resmi propaganda onu İmparatorluğun en büyük kahramanlarından biri ilan etse de Cai
+
 ## Kariyer ve Seferler
 Cain, Schola Progenium'da yetişip Commissar olarak göreve başlar. Anılarında ilk görev yeri olarak Valhallan bir topçu alayını anar; cephe hattından uzak olacağını umduğu bu atamalar, onun beklentisinin aksine sürekli tehlikenin ortasında son bulur. Kariyerinin büyük kısmını geçirdiği birlik, iki zayıflamış Valhallan alayının birleştirilmesiyle kurulan **Valhallan 597th**'tir. Birleşmenin yarattığı iç gerilim, Cain'in bu alaydaki ilk sınavlarından biridir. Alayın komutanı **Colonel Regina Kasteen** ve yardımcısı **Major Ruput Broklaw**, Cain'in en yakın çevresini oluşturur; Cain'in onlarla ilişkisi, bir Commissar'ın alay subaylarıyla kurabileceği güvenin nadir bir örneğidir.
 

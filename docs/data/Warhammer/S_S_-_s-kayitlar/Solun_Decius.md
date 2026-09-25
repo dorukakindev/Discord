@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c6/Solun_Decius.jpg/revi
 
 ## Tarihçe
 
-Solun Decius, Eisenstein'da görevli Death Guard çavuşuydu; Isstvan III virüsünün kurbanı olup Nurgle'ın ellerinde daemonik varlığa dönüştü — lejyonun düşüşünün kişisel trajedilerinden biri.
+Solun Decius, Büyük Sefer ve Heresy başında Death Guard lejyonunun Space Marine'iydi; 7. Büyük Bölük'ün Komuta Timi'nde görev yapan en genç üyeydi. Nathaniel Garro'nun yakın çevresindeki figürlerden biri olarak Eisenstein'ın Uçuşu'nun ve Heresy'nin ilk ihanet günlerinin tanığı ve kurbanlarından biri oldu.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/a3/IF_Shoulder_Pad_2.jpg/revision/latest?cb=20181125055310
 
+## Tarihçe
+
+Imperial Fists, İlk Kuruluş chapter'larından biridir ve İmparator'un Birleşme Savaşları sırasında Terra'dan yükselttiği VII. Legiones Astartes'ti; sabit homeworld'ü olmamasıyla diğerlerinden ayrılır — hareketli kale-manastır Phalanx'te yaşarlar. 'Sur efendisi' olarak kuşatma savunmasının efsanevi ustasıdır.
+
 https://static.wikia.nocookie.net/warhammer40k/images/a/a3/IF_Shoulder_Pad_2.jpg/revision/latest?cb=20181125055310
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

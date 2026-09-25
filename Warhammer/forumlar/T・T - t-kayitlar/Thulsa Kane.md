@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/84/Executioners_Chapter_
 
 ## Tarihçe
 
-Thulsa Kane ('Eski Gece'), Executioners chapter'ının mevcut high chaplain'i ve reclusiarch'ı; Badab Savaşı'nın utancını taşıyan 'kan-ritüel' rahibi olarak chapter'ın fanatik ruhunu ayakta tutar.
+Thulsa Kane, Executioners chapter'ının yüksek rahibi (High Chaplain), 'High Mortiurge'ü ve 'Ölülerin Sözcüsü'dür. Tek gözlü, korku verici görünümüyle chapter'ın en fanatik figürüdür; Badab Savaşı'ndaki ağır kayıplardan sonra Executioners'ın 'kan-borcu' doktrinini bizzat yaşatan isimdir. Savaş alanında hem din adamı hem de en acımasız cellat rolünü üstlenir; Red Tithe'ın borcunu ödemeyi reddeden düşmanlara karşı chapter'ın intikam mekanizmasının ta kendisidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553059911246553159>

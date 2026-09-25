@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/74/YnnariRune.png/revision/latest?cb=20230501133930
 
+## Tarihçe
+
+Ynnari — 'Yeniden Doğanlar' — Aeldari türünün tüm büyük kollarından (Asuryani, Corsair, Exodite, Drukhari, Harlequin) üye çeken bir akrabalık/dini tarikattır; ölüm tanrısı Ynnead'in dirilişini hızlandırmayı ve Slaanesh'i yok etmeyi amaçlar. 'Son kart' olarak türlerinin birleşik umudu olan bu grup, 'ölümün doğurduğu yeniden doğuş' projesidir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Ynnari — Yeniden Doğanlar (Ynnead'in Çocukları)

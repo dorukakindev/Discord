@@ -16,6 +16,6 @@ Ezekiel, Dark Angels'ın Chief Librarian'ıdır — Chapter'ın en gizli arşivl
 
 ## Tarihçe
 
-Ezekiel, Dark Angels'ın Chief Librarian'ıdır — Chapter'ın en gizli arşivlerinin ve bilgelerinin efendisi. Inner Circle'ın üyesi olarak Fallen mevzusunun bütün derinliğini bilir; psişik gücü kadar sır yükü de ağırdır. Kayıtlarda 'tarihin muhafızı' olarak anılır.
+Ezekiel, Dark Angels'ın Librarian'larının Grand Master'ıdır; Supreme Grand Master ve Master of Sanctity'le birlikte chapter'ın en önemli üç figüründen biridir. İç Halka'nın kıdemli üyesi olarak Fallen'ların sırrını bilen bu figür, 'zihinlerin efendisi' olarak chapter'ın psişik ve sorgulama gücünün başıdır.
 
 -# Kaynaklar: *Codex: Dark Angels*

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/90/Harlequin_Shadowseer2
 
 ## Tarihçe
 
-Shadowseer, Harlequins'in psişik 'gölge-oyuncu'sudur; hayal ve gerçeği karıştıran illüzyonlarla savaşan bu figür, sahnenin 'büyücü' rolünü oynar — Cegorach'ın sihirbazı.
+Shadowseer (Aeldari Lügati'nde 'esdainn'), Harlequin'lerin güçlü psyker'ıdır; yetenekleri hem Harlequin performansı/Masque sırasında hem savaş alanında kafa karışıklığı ve korku yaymaya odaklanır. Harlequin'lerin manevi rehberi olarak esrarengiz figürlerdir — bir Troupe'a bağlı olmasalar da Cegorach'ın iradesinin kanalı olarak 'gölgelerin kahini' rolü oynarlar.
 
 -# Kaynaklar: *Harlequins Codex*
 -# İlişkili kayıtlar: <#1552848844663038134>

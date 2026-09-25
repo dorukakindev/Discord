@@ -18,6 +18,6 @@ Angevin Haçlı Seferi'nin efsane Inquisitor'u; Calixis Sektörü'nü kuran, iki
 
 ## Tarihçe
 
-Hector Rex, Angevin Haçlı Seferi'nin merkez figürüdür: Calixis Sektörü'nü Slaugth ve Saynay gibi xeno'ların elinden alan kampanya onun emrindeydi. İki Daemon Prince'i teke tek yendi — İmparatorluk kayıtlarında bunu başaran tek Inquisitor'dur. Calixis'in kurucu azizi sayılır; soyu hâlâ sektörde etkilidir.
+Hector Rex, Ordo Malleus'un Inquisitor Lord'u ve İmparatorluk'un gerçek kahramanlarından biridir; hayatını Chaos kullarının her biçimiyle savaşmaya adadı ama özellikle 'büyük yaratık'lara — Greater Daemon'lara — karşı özel nefret besler. 'Daemon katili' olarak kariyeri boyunca sayısız Greater Daemon'u sürgün etmiş, efsanevi savaşçı-Inquisitor figürüdür.
 
 -# Kaynaklar: *Dark Heresy* kaynakları; Warhammer 40,000 — Lexicanum derlemesi

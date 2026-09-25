@@ -47,6 +47,10 @@ MacNiven'in romanlarında Chapter'ın öteki yüzleri de görünür olur. Bunlar
 
 Chapter'ın Codex Astartes'e ne ölçüde uyduğu, company düzeni, filo yapısı ve komuta zinciri de açık değildir. Filo tabanlı bir yaşamın örgütlenmeyi Codex'in önerdiği yurt merkezli modelden farklı biçimde şekillendirdiği düşünülebilir; ama bu bir çıkarımdır, kaynakta doğrulanmış bir yapı değildir. Carcharodons'un iç düzeni, onu bilinçli olarak gizleyen kaynakların sessizliği içinde boş kalmayı sürdürür.
 
+## Tarihçe
+
+Carcharodons (High Gothic'te Carcharodons Astra, Low Gothic'te 'Space Sharks'), bilinmeyen Kuruluş'tan sadık Space Marine chapter'ıdır; ya çok eski (İkinci Kuruluş kadar) ya da nispeten yeni olduğu iddia edilir. 'Uzay köpekbalıkları' olarak galaksinin en karanlık ve en vahşi sadık figürlerinden biri — Void'lerden gelen sessiz yırtıcılar.
+
 ## Bilinen Savaşlar
 Carcharodons'un en ayrıntılı işlenmiş savaşı **Badab War**'dur. Maelstrom kıyısındaki bu iç savaşta Chapter, loyalist tarafta beklenmedik bir biçimde ortaya çıktı ve özellikle **Mantis Warriors**'a karşı yürütülen harekâtta belirleyici oldu. Kaynaklara göre Carcharodons, Mantis Warriors'ın dayanağı olan **Endymion Cluster**'da acımasız bir sefer yürüterek bu Chapter'ı teslim olmaya zorladı. Onları Badab'a neyin getirdiği, kimin çağrısına yanıt verdikleri ve savaşın ardından nereye çekildikleri, Chapter'ın bütün tarihinde olduğu gibi yarı karanlıkta kalır.
 

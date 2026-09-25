@@ -25,6 +25,10 @@ Soruşturma ilerledikçe Eisenhorn'un kendisi şüphe altına girer. Kendi Ordo'
 
 Bu üçleme, Inquisition'ın ne kadar kolay kendi yemini ile kendi yöntemleri arasında sıkışabileceğini gösteren temel metin olarak okunur.
 
+## Tarihçe
+
+Gregor Eisenhorn, Ordo Xenos'un ünlü Inquisitor'üdür; kariyerine Amalathian tarikatının katı Puritan'ı olarak başladı ama yaşadığı olaylar onu adım adım Radical Xanthism felsefesine kaydırdı — öyle ki Inquisition onu iki kez resmen 'hai
+
 ## Puritan'dan Radical'e: Felsefi Yolculuk
 Inquisition içinde **Puritan** kanat, düşmanın araçlarını kullanmayı ruhu tehlikeye atmak olarak görür; **Radical** kanat ise yasak bilgiyi, xenos teknolojisini ya da Warp'ın güçlerini Imperium'un iyiliği için kullanmayı meşru sayar. Eisenhorn'un hikâyesi bu ikisi arasındaki çizginin bir ilkeyle değil, birbirini izleyen zorunluluklarla aşındığını gösterir. Hiçbir aşamada kendini sapkın saymaz; her adımı, bir önceki adımın doğurduğu tehlikeye karşı zorunlu bir yanıt olarak görür.
 

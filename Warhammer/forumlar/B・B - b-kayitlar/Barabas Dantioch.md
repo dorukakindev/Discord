@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/75/Barabas_Dantioch_Rene
 
 ## Tarihçe
 
-Barabas Dantioch, Iron Warriors'ın sadık kalmayı seçen Warsmith'iydi; Olympia'ya karşı Schadenhold'u savundu ve kuşatmayı aşıp İmparatorluk'a sadakatle savaştı — 'ihanet etmemiş IW' efsanesi.
+Barabas Dantioch, Büyük Sefer ve Heresy başında Iron Warriors'ın formidabl Warsmith'iydi; primarch Perturabo'nun gözünden düşünce çorak Lesser Damantyne dünyasına garnizon görevine sürüldü. İhanetten sonra sadık kalan nadir IW figürlerinden biri olarak Pharos artefaktını kurtarma görevinde merkezi rol oynadı — 'sürgünden doğan kahraman' olarak Heresy'nin iyi adamlarından.
 
 -# Kaynaklar: *Fandom wiki*
 

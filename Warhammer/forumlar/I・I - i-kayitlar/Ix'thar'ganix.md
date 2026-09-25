@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/70/Changer_of_Ways_Summo
 
 ## Tarihçe
 
-Ix'thar'ganix ('Kaderlerin Katili'), Tzeentch'in Lord of Change'i; Omegath'a daemon lejyonuyla saldıran 'kader bozucu' — Fate'in kendisini kesen figür.
+Ix'thar'ganix ('Kader Katili'), Tzeentch'in Lord of Change'i — Greater Daemon'ıdır. Devasa kanatlı ve çok kollu bedeniyle Kehanet'in efendisi olarak bilinen bu varlık, 'geleceği katleden' planların aracısıdır; Tzeentch'in en karmaşık entrikalarında merkezi rol oynayan büyük daemonlardan biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

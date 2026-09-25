@@ -18,7 +18,7 @@ Striking Scorpion Aspect'inin kurucusu, düşmüş Phoenix Lord; Kâbustan kaç�
 
 ## Tarihçe
 
-Arhra, Striking Scorpion Aspect'inin ilk Phoenix Lord'uydu ve karanlığa düştü — kayıtlar 'Khaine'in öfkesi onu tüketti' der. Düşmüş bir Phoenix Lord olarak Drukhari'ye geçtiği ve Incubi tarikatının kurucusu olduğu rivayet edilir. Eldarlar onu hain olarak lanetler ama zırhının hâlâ dolaştığına inanan vardır.
+Arhra — 'Akreplerin Babası', sonradan 'Düşmüş Anka' — Craftworld Aeldari'nin Striking Scorpions Aspect'inin asıl Phoenix Lord'uydu; Asuryani'ye tamamen kaybolmuş tek Phoenix Lord'dur. Öğretisi yozlaşıp Drukhari'nin Incubi tarikatının temeli olduğu söylenir — 'karanlık şehre kaçan usta' olarak Aeldari'nin en utançlı sırrı ve Karandras'ın karanlık öncüsüdür.
 
 ## Kanon Notu
 

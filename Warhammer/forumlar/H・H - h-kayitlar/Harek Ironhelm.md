@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Great_Wolf_Harek_Iron
 
 ## Tarihçe
 
-Harek Ironhelm, Space Wolves'un erken dönem Büyük Kurt'udur; 32. binyılda Magnus the Red'in Fenris'e ilk büyük istilasını püskürten efsanevi lider.
+Harek Ironhelm, Space Wolves'un tarihî Great Wolf'larından (Chapter Master) biridir; chapter'ın Fenris'teki efsanevi liderleri arasında anılır. 'Demir Miğfer' lakabını taşıyan bu figür, Space Wolves'un sert ve bağımsız doktrininin eski koruyucularından biri olarak kayıtlara geçmiştir.
 
 -# Kaynaklar: *Fandom wiki*
 

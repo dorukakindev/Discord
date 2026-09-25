@@ -12,7 +12,7 @@
 
 ## Tarihçe
 
-Menagerie, Calixis Sektörü'nde gezgin karnaval/sirk maskesi altında faaliyet gösteren Tzeentch kültüdür; izleyicilerini Warp gücüne maruz bırakıp toplu delilik ve mutasyon salgınları yaratır.
+Menagerie, Calixis Sektörü'nde Tzeentch'e bağlı bir Chaos kültüdür; kendini gezici karnaval veya kitle eğlencesi olarak sunar, sonra izleyicisini Warp'ın gücüne maruz bırakarak kitlesel delilik ve mutasyon salgınları açar. Sektörde Ordo Malleus'un karşılaştığı tehditler arasında en tehlikeli ve tuhaf olanlardan biri — 'eğlencenin içindeki cehennem' olarak Değişim'in sinsi yüzüdür.
 
 -# Kaynaklar: *Fandom wiki*
 

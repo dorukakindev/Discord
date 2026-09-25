@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Balaq_Uthizaar.jpg/re
 
 ## Tarihçe
 
-Baleq Uthizzar, Thousand Sons'ın Fellowship kaptanıydı; Prospero'nun yakılmasında savaşıp hayatta kaldı — Magnus'un yanında Sortiarius'a sürülen sadık sorcerer.
+Baleq Uthizzar, Büyük Sefer ve Heresy başlangıcında Thousand Sons'ın 5. Bursu'nun kaptanı ve Athanaean Kültü'nün Magister Templi'siydi — telepati disiplininin efendisi. Rütbesini Kaptan Apophis'in ölümüyle aldı; Prospero'nun düşüşünde Magnus'un iç çemberinin üyesi olarak lejyonun son anlarını yaşayan figürlerdendir.
 
 -# Kaynaklar: *Fandom wiki*
 

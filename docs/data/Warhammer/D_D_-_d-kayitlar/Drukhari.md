@@ -41,6 +41,10 @@ Commorragh'ın siyasi hayatı üç büyük güç odağı etrafında döner. **Ka
 
 Bu üçlünün çevresinde başka topluluklar da yaşar: Arhra'nın mirasını taşıyan ve paralı muhafız olarak hizmet veren Incubi; Aelindrach adı verilen gölge âleminden gelen Mandrake'ler; kanat nakli için servet ödeyen Scourge'lar; alt katmanların çetelerinden çıkan Hellion ve Reaver'lar. Şehrin üstünde, Ilmaea adı verilen ve çalınmış ölü güneşler olarak tarif edilen ışık kaynakları asılıdır. High Commorragh'ın kuleleri ile Low Commorragh'ın kalabalık varoşları arasındaki uçurum, bu toplumun hiyerarşisini fiziksel olarak da gözler önüne serer.
 
+## Tarihçe
+
+Drukhari ('Karanlık Olanlar', dışarıdan Dark Eldar), yozlaşmış ve terk edilmiş Aeldari akrabalığıdır — Asuryani'nin sadist, kötü niyetli karşıtı. Commorragh'ın 'karanlık şehir'sinde yaşayan bu figürler, acı ve zulümle beslenerek ruh
+
 ## Kültür ve Savaş Tarzı
 
 Drukhari kültürü paranoya, estetik ve tüketim üzerine kuruludur. İhanet olağandır, ittifak geçicidir, sadakat ancak korkuyla ya da çıkarla sürer. Buna rağmen Commorragh bir kaos değildir; herkesin herkesi gözlediği, Vect'in merkezde her ipi tuttuğu acımasız bir denge vardır. Sanat da bu dengenin bir parçasıdır: işkence, arena ve beden değişimi bir tür estetik yarış olarak yaşanır.

@@ -19,3 +19,7 @@ Hydraphur, galaksinin Terra'nın batısında kalan devasa bölgesi olan Segmentu
 Hydraphur'un asıl önemi İmparatorluk Donanması'ndadır; gezegeni saran devasa yapay halkalar ve yörünge tersaneleri, Pacificus filosunun ana üssünü oluşturur. Yörüngesinde dev savaş istasyonu "Star Fort Ascendant" asılı durur. Buradan bölgenin dört bir yanına savaş gemileri, takviyeler ve emirler gönderilir; Hydraphur düşerse, koca bir segmentumun savunması felç olur.
 
 Gezegenin siyasi yapısı karmaşık ve gergindir; gökyüzünde ve yörüngede İmparatorluk Donanması hüküm sürerken, yüzeyde Ecclesiarchy (Kilise), Adeptus Mechanicus ile huzursuz bir ortaklık içinde yönetir. Bu güçlerin kesişiminde "Lords of Hydraphur" (Hydraphur Lordları) denen bir yönetici sınıf, sürekli bir entrika ve nüfuz mücadelesi içinde dünyayı idare eder; Adeptus Arbites'in adaleti bu karmaşık ağı bir arada tutmaya çalışır.
+
+## Tarihçe
+
+Hydraphur, Segmentum Pacificus'taki İmparatorluk Forge World'üdür; Navis Imperialis'in ana battlefleet karargâhı ve segmentum'un Segmentum Fortress'inin bulunduğu yerdir. İmparatorluk Donanması'nın ana asker kaynağı olarak birçok soylu denizci ailesi buradan çıkar — 'Pas

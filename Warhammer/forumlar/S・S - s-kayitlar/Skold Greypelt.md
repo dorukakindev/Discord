@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Lost_Company.jpg/revi
 
 ## Tarihçe
 
-Skold Greypelt, Space Wolves Astartes'i olarak chapter'ın Shadrac buz dünyasındaki operasyonunda ve sonraki kaçışta görev aldı; Fenrisli 'kurt ruhu'nun örneği.
+Skold Greypelt, Space Wolves Astartes'idir; chapter'ın buz dünyası Shadrac'taki umutsuz Tyranid savunmasında görev aldı. Dünya kaybedildiği belli olunca Greypelt ve sürüsü geri çekilmedi; bir Iron Priest ve Thunderhawk'la geride kalıp işgalcilere mümkün olan en ağır bedeli ödettiler. Bu 'son-durak' operasyonunda 10. Slavok alayının kırk civarında kurtulan askerini bulup Çavuş Poul Marlin'le beklenmedik bir dostluk kurdu — Fenrisli'nin 'sürü ruhu'nu gezegenin ölümünde bile yaşatmasıyla bilinir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057415040081943>

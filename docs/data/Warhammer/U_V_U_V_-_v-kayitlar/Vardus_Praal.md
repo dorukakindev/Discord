@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/01/MarkofSlaaneshBig.png
 
 ## Tarihçe
 
-Vardus Praal, Büyük Sefer döneminde Istvaan III'ün İmparatorluk valisiydi; Slaanesh'in ayartısına düşerek gezegeni Heresy'nin ilk fedaisine çevirdi — 'ihanetin ilk tohumu' figürü.
+Vardus Praal, Büyük Sefer döneminde Istvaan III'ün gezegen valisiydi ve İmparatorluk asilzadesi bir barondu. Yönetimi altındaki dünyanın nüfusu yavaş yavaş Slaanesh'in zevk kültlerine kapıldı; Praal da bu ayartmaya teslim oldu. Horus Heresy'nin açılış harekâtında, hain primarchların virüs bombardımanından önce gezegendeki isyanı tetikleyen asıl figürdü — İmparatorluk'un ilk büyük 'içeriden çürüme' örneği. Praal'ın düşüşü, iktidarın zevklerinin nasıl Chaos'un kapısı olduğunun en klasik dersidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058655266414663>

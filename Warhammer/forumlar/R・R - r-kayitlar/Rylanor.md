@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Ancient_Rylanor_-_Ist
 
 ## Tarihçe
 
-Rylanor ('Saygın'), Emperor's Children'ın yaşlı Venerable Ancient'iydi; Isstvan III'te sadık kalıp lejyon kardeşlerine karşı sonuna kadar savaşan figür — Fulgrim'e meydan okuyan son sadık III. Lejyoncu.
+Rylanor — 'Kadim', 'Boyun Eğmeyen' — Büyük Sefer'de Emperor's Children'ın Venerable Dreadnought'u ve kahramanıydı; III. Lejyon'un 'Törenlerin Kadimi' olarak görev yaptı. Ölümcül yaralanıp Contemptor Dreadnought'a yerleştirilen bu figür, Isstvan III Vahşeti'nde hainleşen kardeşlerine karşı son direnişte düştü — 'lejyonun son sadık kadimi' olarak unutulmaz.
 
 -# Kaynaklar: *Fandom wiki*
 

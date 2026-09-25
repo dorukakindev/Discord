@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6d/Nomus_Rhytan.png/revi
 
 ## Tarihçe
 
-Nomus Rhy'tan ('Prometheus'un Anahtarlarının Bekçisi', 'Ateşin Sesi'), Salamanders'ın XVIII Lejyon'unun Lord Chaplain'i; lejyonun 'ritüel ve inanç' figürü olarak Promethean Kült'ünü yönetti.
+Nomus Rhy'tan — 'Prometheus'un Anahtarlarının Muhafızı', 'Ateşin Sesi' — XVIII. Lejyon'un Lord Chaplain'ı olarak Büyük Sefer ve Heresy boyunca Salamanders'ın önemli figürüydü. Nocturne'lu figür, chapter'ın manevi omurgası ve Vulkan'ın 'insanlık' öğretisinin bekçisiydi — 'ateşin rahibi' olarak lejyonun insancıl yüzünün sesiydi.
 
 -# Kaynaklar: *Fandom wiki*
 

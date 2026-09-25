@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Cassian.jpg/revision/
 
 ## Tarihçe
 
-Cassian Vaughn ('Dracos'), Salamanders'ın kadim efsanesi — 'Knight of Ashes' olarak bilinen gizemli savaşçı; Vulkan'ın diriliş sürecinde kilit figür.
+Cassian Vaughn — 'Cassian Dracos', 'Düşen Efendi', 'İki Kez Ölen', 'Kutsal Alevin Avatarı' — XVIII. Lejyon'un ilk Lord Commander'ıydı, Vulkan'ın bulunmasından önce lejyonu yöneten figür. Efsanevi biçimde hayatta kalıp eşsiz 'Iron Dragon' Venerable Dreadnought sarkofajına yerleştirilen ilk kişi oldu — bu Dreadnought gövdesi Salamanders'ın en kutsal emaneti olarak chapter tarihinde merkezi yer tutar.
 
 -# Kaynaklar: *Fandom wiki*
 

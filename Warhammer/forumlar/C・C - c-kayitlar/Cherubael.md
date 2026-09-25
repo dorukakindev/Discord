@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Cherubael.jpg/revisio
 
 ## Tarihçe
 
-Cherubael ('Bael'in Kerub'), inanılmaz güçteki bir daemonhost'tur; önce heretik Inquisitor Quixos'un, sonra onu yenen Gregor Eisenhorn'un hizmetine girmiştir — Eisenhorn serisinin en ikonik figürlerinden biridir.
+Cherubael ('Bael'in Kerub'u'), muazzam güçteki bir daemonhost'tur; eskiden Gregor Eisenhorn'un alt ettiği Renegade Inquisitor Quixos'un hizmetindeydi. Eisenhorn başta ondan nefret etse de zamanla 'düşmanın silahını çevirme' ihtiyacı duydu ve Cherubael'i zincirleyip kullandı — 'mühürlü şeytan' olarak Inquisition'un en tehlikeli müttefik-varlığı.
 
 -# Kaynaklar: *Fandom wiki*
 

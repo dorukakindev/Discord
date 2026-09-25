@@ -23,6 +23,10 @@ Bu görünmelerin ortak noktası, Cypher'ın her seferinde Dark Angels'tan bir a
 
 Cypher'ın ne istediği sorusu ise asırlar boyunca aynı yanıtsızlıkla kalmıştır. Eski anlatılar onun amacını tahmin etmeye çalışsa da hiçbir kaynak bu amacı Cypher'ın kendi ağzından ve güvenilir biçimde açıklamaz.
 
+## Tarihçe
+
+Cypher, Dark Angels'ın 'Düşmüş Melekler'inin en gizemli üyesidir — Heresy'de Caliban'da kalan ve Chaos'a döndüğü sanılan sadık-chapter isyancılarından biri. Her hareketi gizemle örtülü bu varlığın amaçları ve yöntemleri tamamen bilinmez; 'Cypher' adı bile bir şeyi gizliyor gibi
+
 ## Guilliman'ın Dirilişi
 Gathering Storm anlatısında Cypher, uzun süre sonra ilk kez Imperium'un en büyük olaylarının içinde belirir. *Gathering Storm II: Fracture of Biel-Tan*'da Yvraine önderliğindeki Ynnari'nin Macragge'a uzanan yolculuğunda onların yanında yer alan Cypher, Roboute Guilliman'ın uyanışına giden olaylara tanıklık eden ve katkıda bulunan figürler arasındadır. Bir Fallen'ın, Imperium'un dirilen Primarch'ının yanında görünmesi, Imperial bakış açısı için neredeyse düşünülemez bir durumdu; Cypher'ın bu yolculuğa neden katıldığı ise kaynaklarda belirsiz bırakılır.
 

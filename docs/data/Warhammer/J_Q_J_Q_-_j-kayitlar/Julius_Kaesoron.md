@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/04/Julius_Kaesoron.jpg/r
 
 ## Tarihçe
 
-Julius Kaesoron, Emperor's Children'ın 'Kusursuzluk' takıntılı kaptanıydı; Laer tapınağındaki deneyimle tamamen yozlaşıp sonunda Slaanesh'in Daemon Prince'ine yükseldi.
+Julius Kaesoron, Büyük Sefer ve Heresy'de Emperor's Children'ın Birinci Kaptanıydı; Isstvan III Vahşeti ve Drop Site Massacre dahil Heresy'nin en rezil seferlerinde yer aldı. Laeran'daki yozlaşmadan geçen ilk figürlerden biri olarak EC'nin Slaanesh'e kayışının öncülerindendir — Fulgrim'in en yakın savaşçısı olarak chapter'ın 'hazıra düşkün efendi' arketipinin ilk örneğiydi.
 
 -# Kaynaklar: *Fandom wiki*
 

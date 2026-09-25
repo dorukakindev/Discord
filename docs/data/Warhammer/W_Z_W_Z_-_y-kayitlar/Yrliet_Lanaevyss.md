@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/YrieletLanaevyss.jpg/
 
 ## Tarihçe
 
-Yrliet Lanaevyss, Craftworld Crudarach'ın Asuryani Ranger'ı olarak 'Path of the Outcast' üzerinde Koronus Expanse'da yürüdü; kendi sebepleriyle House von Valancius'un ekibine katılan Aeldari.
+Yrliet Lanaevyss, Craftworld Crudarach'lı bir Asuryani Ranger'dır; 'Path of the Outcast' üzerinde yürüyerek Koronus Expanse'e geldi. Kendi halkının kurallarına boyun eğmeyen bu iz sürücü, beklenmedik bir ittifak kurdu: House von Valancius'un Rogue Trader'ının ekibine katıldı. Asuryani geleneğinin dışında yaşasa da hâlâ hem halkına hem kendi yoluna sadık bir savaşçıdır. İnsan-yabancı işbirliğinin nadir örneklerinden biri olarak 'tehlikeli ama değerli' kabul edilir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058699160064201>

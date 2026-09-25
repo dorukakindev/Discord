@@ -18,6 +18,6 @@ Blood Angels'ın en yaşlı Sanguinary Priest'ı; Red Thirst lanetine karşı en
 
 ## Tarihçe
 
-Corbulo, Blood Angels'ın baş Sanguinary Priest'ıdır — lejyonun hem din adamı hem genetik doktoru. Yüzlerce yıldır Red Thirst ve Black Rage'e çare arar; laboratuvarında sayısız kardeş tedavi gördü ya da kayboldu. Baal'ın her savunmasında ön saftaydı; lejyonun geleceğini bir test tüpü içinde taşıyan adam odur.
+Corbulo, Blood Angels'ın Sanguinary High Priest'idir — chapter'ın Sanguinary Priest'lerinin (Apothecary) lideri, emaneti Heaven's Teeth chainsword'ün sahibi ve 'Kızıl Kâse'nin taşıyıcısıdır. Chapter'ın 'kanının muhafızı' olarak Sanguinius'un genetik mirasını ve Kara Öfke'yi denetleyen figür — 'kutsal kanın papazı'.
 
 -# Kaynaklar: *Codex: Blood Angels*

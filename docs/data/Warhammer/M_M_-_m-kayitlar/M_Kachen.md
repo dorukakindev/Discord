@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bc/M%27kachan.jpg/revisi
 
 ## Tarihçe
 
-M'Kachen, kaderi Grey Knight Brother-Captain Arvann Stern'le iç içe geçmiş Lord of Change'dir; 855.M41'de Antraxes'teki Red Talon kültü ayaklanmasının arkasındaki beyindir.
+M'Kachen, Tzeentch'in Lord of Change'i — Greater Daemon'udur; kaderi Grey Knight Kardeş-Kaptan Arvann Stern'inkiyle iç içe geçmiştir. 855.M41'de Antraxes'te daemonik efendisinin emriyle Red Talon Kültü ortaya çıktığında karşı saldırıyı Stern yönetti — ikilinin 'kehanetle bağlı' düşmanlığı Değişim'in karmaşık oyunlarının klasik örneğidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9d/Aetanos%27rau%27keres
 
 ## Tarihçe
 
-Aetaos'rau'keres ('Ruhların Katili'), Tzeentch'in Lord of Change'i; 'Efendilerin Efendisi', 'Gerçekliğin Bozanı' gibi birçok sahte adla bilinen bu daemon, galaksideki en eski ve en korkulan Tzeentch varlıklarından.
+Aetaos'rau'keres ('Ruhların Katili'), Tzeentch'in Lord of Change'idir — Greater Daemon. Galakside sayısız başka isim ve sahtelikle bilinir: 'Orduların Lordu', 'Dünyaların Bükücüsü', 'Tüm Renklerin ve Hiçbirinin Gölgesi', 'Külsüz Kanat', 'Perdelerin Yırtıcısı', 'Tzeentch'in Deli Satrap'ı. Gerçek kökeni bilinmez — 'bin yüzün efendisi' olarak Değişim'in en eski ve en tehlikeli varlıklarından biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

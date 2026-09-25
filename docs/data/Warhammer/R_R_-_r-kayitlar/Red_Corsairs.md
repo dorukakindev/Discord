@@ -43,6 +43,10 @@ Red Corsairs tek bir tanrıya adanmış bir kuvvet değildir. Saflarında Khorne
 
 Bu çok seslilik Red Corsairs'in dış görünüşüne de yansır. Imperial gözlemciler için onlar Chaos'un bir kolu, Heretic Astartes'in bir parçasıdır; Red Corsairs'in birçok üyesi içinse Chaos yalnızca bir araç ya da katlanılan bir komşudur. Bu ayrım Imperium'un yargısını değiştirmez, ama korsan krallığının iç siyasetini anlamak için belirleyicidir: tanrılara adanmış warband'ler kimi zaman Huron'un otoritesine rakip bir sadakat merkezi hâline gelir.
 
+## Tarihçe
+
+Red Corsairs, Ultima Segmentum'daki Maelstrom Warp rift'i — 'Maelstrom Zone' — yakınındaki İmparatorluk sevkiyatı ve dünyalarını tehdit eden, ölümlüler ve diğer Hain Denizcilerden oluşan dev korsan filosuna komuta eden Renegade Chapter'dır. Lufgt Huron'un liderliğindeki bu grup, 'Badab'ın artıkları' olarak İmparatorluk'un en büyük deniz korsan tehdididir.
+
 **Vraks ve bir tarih gerilimi.** Forge World'ün *Siege of Vraks* anlatısı, Apostate Cardinal Xaphan'a destek veren Chaos kuvvetleri arasında Red Corsairs'e bağlı akıncı gruplarını, bunların bir kısmını da Khorne'a adanmış olarak anar. Ne var ki Vraks kuşatması 813–830.M41'e, Badab War ise 901–912.M41'e yerleştirilir; yani Red Corsairs'in adıyla Vraks'ta görünmesi, Badab'dan doğmuş bir topluluk için kronolojik bir gerilim yaratır. Kaynaklar bu tutarsızlığı açıkça uzlaştırmaz. Okuyucu, Vraks'taki Red Corsairs anılışını tarihsel bir sabit değil, farklı dönemlerde yazılmış iki anlatının kesişme noktası olarak okumalıdır.
 ---MSG---
 ## Büyük Akınlar ve Kilit Olaylar

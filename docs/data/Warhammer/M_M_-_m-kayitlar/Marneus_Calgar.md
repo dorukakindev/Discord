@@ -29,6 +29,10 @@ Bu disiplinin sert bir yüzü de vardır. Graham McNeill'in Uriel Ventris romanl
 ## Primarch'ın Dönüşü
 999.M41 civarında Roboute Guilliman'ın Macragge'da uyanması, Calgar için hem bir kurtuluş hem de bir rol değişimiydi. Hayatı boyunca vekâleten yönettiği krallığın gerçek efendisi geri dönmüş, üstelik uğruna yaşadığı Codex'in yazarı onu yeni çağa göre yeniden biçimlendirmeye girişmişti. Guy Haley'nin *Dark Imperium* romanı, Primarch ile Chapter Master arasındaki bu ilişkiyi karşılıklı saygı ve Calgar'ın içsel sarsıntısı üzerinden işler. Guilliman Indomitus Crusade'e çıkınca Ultramar'ın savunması yeniden büyük ölçüde Calgar'a kaldı; Mortarion'un **Plague Wars** istilası başladığında ilk yükü de o ve Ultramar'ın kendi kuvvetleri göğüsledi.
 
+## Tarihçe
+
+Marneus Augustus Calgar, Ultramarines'in mevcut Chapter Master'ı, Greater Ultramar'ın Lord Savunucusu ve Ultramar Diyarı'nın başkenti Macragge'ın Lord'udur — galaksinin Doğu Hattı'ndaki en güçlü figür. Chapter'ın en ünlü lideri olarak 'Macragge'ın Efendisi' unvanını taşır; Tyrannic sava
+
 ## Vigilus ve Abaddon
 Great Rift'in ardından Calgar, Nachmund Gauntlet'in anahtarı sayılan **Vigilus**'a ulaşarak çok cepheli bir savaşın ortasında karma bir Imperial savunmanın komutasını üstlendi. Kült tarafından sızılmış Aquilarian Council'ı dağıtıp yerine askerî komutanlardan oluşan **Vigilus Senate**'i kurması, onun kriz anında kurumları bile feda edebilen pragmatizmini gösterir. Ork'larla Genestealer Cult'ın çatışmasından yararlanan savunma, gezegeni çöküşün eşiğinde ayakta tuttu.
 

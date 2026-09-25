@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Bloodline.jpg/revisio
 
 ## Tarihçe
 
-Rafen, Blood Angels'ın en ünlü çavuşudur; James Swallow'ın Blood Angels roman serisinin kahramanı olarak Fabius Bile'ın genetik komplosunu çözen ve Black Rage'e meydan okuyan savaşçı.
+Rafen, Blood Angels'ın çavuşu olarak hem Blood Angels İç Savaşı'nda hem de kötü Chaos Lord Fabius Bile'ın komplolarını bozmada merkezi rol oynadı. Baş Kütüphaneci Mephiston'la birlikte, Blood Angels'ın uzun tarihinde Kara Öfke'yi deneyimleyip ondan geri dönen çok az kişiden biridir — 'laneti yenen kardeş' olarak chapter'ın direniş efsanesinin kahramanıdır.
 
 -# Kaynaklar: *Fandom wiki*
 

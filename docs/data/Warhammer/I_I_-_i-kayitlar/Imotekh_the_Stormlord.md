@@ -17,6 +17,10 @@ Taraflardan biri, rakiplerine karşı bir silah olarak kullanmak üzere Nemesor 
 
 Tahtı güvenceye aldıktan sonra Imotekh'in önünde parçalanmış bir hanedan vardı. Sautekh'e ait Tomb World'lerin bir kısmı hâlâ uykudaydı, bir kısmı kendi başına buyruk soyluların eline geçmiş, bir kısmı genç ırkların istilasına uğramıştı. Imotekh sonraki yüzyıllarda bu dünyaları tek tek uyandırdı, zorla, tehditle ve gerektiğinde diplomasiyle yeniden Mandragora'ya bağladı. Kaynaklar bu süreci, uyanış çağında bir Necron hanedanının yeniden inşasının en başarılı örneği olarak sunar; kesin tarihleri ve kaç dünyanın bu hâkimiyete girdiği ise yayımlanmış kanonda verilmez.
 
+## Tarihçe
+
+Imotekh the Stormlord ('Fırtına Lordu'), Sautekh Hanedanı'nın phaeron'udur — Necron'un en güçlü ve en yayılmacı hanedanının hükümdarı. Mandragora'nın efendisi olarak Necron uygarlığının yeniden genişlemesini yöneten bu figür, 'uyuyan imparatorluğun generali' olarak galaksinin en tehlikeli askeri zihinlerinden biridir.
+
 ## Fetih, Saray ve Savaş Tarzı
 Sautekh'in yeniden birleşmesi Imotekh için bir son değil, başlangıçtı. Onun gözünde galaksi, Necron'lara ait olup geçici olarak genç ırklara kalmış bir mülktür; Imperial dünyalar bu yüzden fethedilecek yabancı topraklar değil, geri alınacak eski sınır bölgeleridir. Sautekh'in Imperium'la çatışmaları bu dönemde hızla büyüdü ve dynasty, Imperial kayıtlarda en sık karşılaşılan Necron hanedanı hâline geldi.
 

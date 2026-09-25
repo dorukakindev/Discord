@@ -45,6 +45,10 @@ Horus Heresy anlatılarında Inwit'in doğrudan bir rolü yoktur. Kaynaklarda k�
 
 Bu sessizlik kendi başına anlamlıdır. Corax'ın Deliverance'la, Vulkan'ın Nocturne'le, Russ'ın Fenris'le bağı kendi Legion'larının kimliğini biçimlendirirken Dorn'un Legion'ı Terra'yı yurt edindi ve Heresy'den sonra da hiçbir gezegene geri dönmedi. Kaynaklar bu tercihin nedenini tek bir cümleyle açıklamaz; ancak Dorn'un Terra'yı savunmayı kişisel bir borç gibi taşıdığı, Imperial Fists'in de bu borcu gezegen yerine görevle özdeşleşen bir kimlikle sürdürdüğü açıktır.
 
+## Tarihçe
+
+Inwit, Segmentum Tempestus'taki Inwit Kümesi'nin başkent Ice World'üdür; Navis Imperialis'in sektör filosu üssü ve yerel Astra Militarum alaylarının toplanma alanıdır. En çok Rogal Dorn'un — Imperial Fists'in primarch'ının — homeworld'ü olarak bilinir; 'buzun kralı' olarak Dorn'un soğuk dehasının kaynağıdır.
+
 ## Sons of Dorn ve Güncel Durum
 Codex Astartes'in ardından VII Legion Imperial Fists, Crimson Fists ve Sigismund önderliğindeki Black Templars gibi Chapter'lara bölündü. Bu soyun hiçbir büyük kolu Inwit'i yurt edinmedi: Imperial Fists merkezini Phalanx'ta tuttu ve adaylarını geçtiği bölgelerdeki farklı dünyalardan topladı; Black Templars sonsuz seferin filolarında yaşadı; Crimson Fists ise Rynn's World'e yerleşti. Imperial Fists'in yurdu sorulduğunda kaynaklar Inwit'i değil, Phalanx'ı ya da Terra'yla süren bağı öne çıkarır; Inwit ise soyun kökeni olarak geride kalmıştır.
 

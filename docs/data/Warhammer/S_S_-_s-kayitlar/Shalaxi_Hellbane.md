@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/02/ShalaxiHellbane.jpg/r
 
 ## Tarihçe
 
-Shalaxi Hellbane ('Avın Hükümdarı'), tercih ettiği av diğer Kara Tanrıların en büyük şampiyonları — özellikle Bloodthirster'lar — olan eşsiz Keeper of Secrets'dır; Bloodthirster'lar arasında bile korkulan bir avcıdır.
+Shalaxi Hellbane ('Avın Hükümdarı'), Slaanesh'in Keeper of Secrets'ıdır — ama sıradışı bir avcı: tercih ettiği av diğer Dark Gods'ın en büyük şampiyonları, özellikle Khorne'un Bloodthirster'larıdır. 'Daemon avlayan daemon' olarak Değişim'in Büyük Oyun'unda Slaanesh'in en keskin silahıdır — Chaos'un kendi içindeki 'yırtıcı-zincir' figürü.
 
 -# Kaynaklar: *Fandom wiki*
 

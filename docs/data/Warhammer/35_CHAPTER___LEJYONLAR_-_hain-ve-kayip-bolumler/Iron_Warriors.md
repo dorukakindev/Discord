@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852
 
+## Tarihçe
+
+Iron Warriors, Heresy sırasında Chaos'a dönen dokuz İlk Kuruluş hain lejyonundan biridir; orijinal IV. Lejyon olarak kuşatma kırma ve tahkimat yıkımında uzmanlaşmışlardı. 'Demir içinde demir' olarak Perturabo'nun acımasız mühendis savaşçıları — 'kuşatmanın efendisi' olarak İmparatorluk'un en inatçı düşmanı.
+
 https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

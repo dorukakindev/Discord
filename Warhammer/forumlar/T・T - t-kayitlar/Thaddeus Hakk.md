@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Thaddeus_Hakk-0.png/r
 
 ## Tarihçe
 
-Thaddeus Hakk, Ordo Xenos Inquisitor'ü ve yaklaşık bir yüzyılın deneyimli gazisi; eski Ocularians Radikal tarikatı üyesi — 'öngörüyü reddeden' pragmatik avcı.
+Thaddeus Hakk, Ordo Xenos'un Inquisitor'üdür; İmparatorluk'a yaklaşık bir yüzyıllık hizmetin gazisi ve eski Radical Ocularian tarikatı üyesidir. İlk kariyeri meslektaşlarına neredeyse bilinmez — Calixis Sektörü'ne zaten Inquisitorial Rosette sahibi olarak geldi. Şu anda Achilus Seferi'nde görev yapıyor; 'geçmişi karanlık araştırmacı' olarak Jericho'nun gizli dosyalarının ortasındadır.
 
 -# Kaynaklar: *Fandom wiki*
 

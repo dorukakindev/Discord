@@ -29,6 +29,10 @@ Scythes of the Emperor'ın kaderini belirleyen felaket, M41'in son yıllarında,
 
 Sotha'nın savunması bir yıkımla sonuçlandı. Tyranid dalgaları dünyayı adım adım tüketti; Chapter, savaşçılarının, gemilerinin ve kaynaklarının çok büyük bölümünü bu savunmada yitirdi. Yurt dünyasının çoraklaşması Chapter için stratejik bir kayıptan ibaret değildi; kimliği ve geleceği de neredeyse tümden yok oluyordu. Bir Chapter, bir gezegenle birlikte can çekişiyordu.
 
+## Tarihçe
+
+Scythes of the Emperor, Ultramarines'ın 3. Kuruluş sadık halef chapter'ıdır; Ultramar'ın dokuz 'Shield Chapter'ından biri olarak onuncu Ultramarines'e Realm of Ultramar'ın savunma ve genişlemesinde yardım eder. Tyranid istilasında neredeyse yok edilen bu chapter, 'küllerden doğan' olarak bilinir.
+
 Sotha'nın altındaki Pharos'un bu felakette bir payı olup olmadığını kaynaklar temkinle tartışır. Bazı anlatılar, aygıtın bir zamanlar yaydığı ya da yeniden uyanan işaretinin Tyranid'lerin dikkatini bu kıyıya çekmiş olabileceğini ima eder. Bu, kanıtlanmış bir nedensellik değil, anlatının bilinçle açık bıraktığı bir olasılıktır; Tyranid göçünün tek nedeni gibi okunmamalıdır.
 ---MSG---
 ## Giant's Coffin: Son Direniş

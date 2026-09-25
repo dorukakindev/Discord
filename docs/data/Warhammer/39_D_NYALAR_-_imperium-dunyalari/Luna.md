@@ -22,4 +22,7 @@ Günümüzde Luna, bir kovan dünyası ve Sol Sistemi'nin önemli bir tersane, �
 
 Luna, İmparatorluğun en eski köklerinden birini ve Space Marine yaratımının gizli tarihinin bir parçasını temsil eder; insanlığın yıldızlara açılışının ilk adımı ve Terra'nın sadık nöbetçisidir. Selenar gen-cadılarının kalıntıları ve bilgisi, hâlâ Mechanicus ve İmparatorluk için gizemli bir miras olarak kalır.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Luna, Terra'nın uydusunun geleneksel adıdır — İmparatorluk tarafından hem Death World hem Civilised World olarak sınıflandırılır; ayın regolitinin altında kovan şehirlerinde yaşayan milyarlarca insana ev sahipliği yapar. 969.M2'de insanlar ilk kez buraya indi — insanlığ

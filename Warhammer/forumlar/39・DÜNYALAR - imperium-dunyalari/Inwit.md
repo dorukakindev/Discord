@@ -19,3 +19,7 @@ Inwit, Imperial Fists lejyonunun ilk anavatanı ve primarch'ları Rogal Dorn'un 
 Gezegenin karanlık yüzünü yarık-labirentleri, donmuş sıradağlar ve buz-kum düzlükleri kaplar; yaşam, bu dondurucu cehennemde ancak "buz-kovanları" (ice-hives) içinde, sıkı sıkıya örgütlenmiş kabileler halinde tutunabilir. Bu acımasız ortam, halkı son derece sert, disiplinli ve dayanıklı yapar; zorluğa karşı sebat, Inwit kültürünün özüdür.
 
 Bebek primarch Rogal Dorn, bu buz kabilelerinden birinin (Dorn kabilesinin) arasında büyüdü; kabile reisini bir tür büyükbaba olarak gördü ve ergenliğini bu sert toplulukta geçirdi. İmparatorluk'tan önce bile, Dorn bu kabileleri birleştirip yönetmeye başlamıştı. Imperial Fists lejyonu, ilk savaşçılarının ve gemilerinin çoğunu Inwit'in buz kabilelerinden devşirdi; Archamus, Alexis Polux ve Fafnir Rann gibi ünlü isimler buradan çıktı.
+
+## Tarihçe
+
+Inwit, Segmentum Tempestus'taki Inwit Kümesi'nin başkent Ice World'üdür; Navis Imperialis'in sektör filosu üssü ve yerel Astra Militarum alaylarının toplanma alanıdır. En çok Rogal Dorn'un — Imperial Fists'in primarch'ının — homeworld'ü olarak bilinir; 'buzun kralı' olara

@@ -21,6 +21,10 @@ Kaynaklar, Bile'ın Eye of Terror içinde bir Aeldari Crone World'ünü üs edin
 
 Bile'ın hizmeti bedelsiz değildir. Warband'lere savaşçılarının bedenlerini güçlendirme, yaralarını onarma ya da gene-seed'lerini yenileme karşılığında denek, malzeme ve kaynak ister. Bu ilişkiler sık sık ihanetle sona erer; Bile'ın müşterileri çoğu zaman onun kendileri üzerinde de deney yaptığını geç fark eder. Onun güçlendirdiği Heretic Astartes savaşçıları, çoğu zaman canavarlaşma pahasına kazanılmış güçleriyle anılır.
 
+## Tarihçe
+
+Fabius Bile — 'Klon Lordu', 'Primogenitor', 'İnsan Soyucu', 'Örümcek' — eski Emperor's Children Baş Apothecary'si ve Chaos'un en tehlikeli 'bilim adamı'dır. Klonlama ve genetik mühendisliği bilgisini kullanarak kendi kontrolünde süper-insanlar yaratmaya çalışır; nihai hedefi İmparator'un primarch yaratmadaki başarısını yakalamak ve geçmektir. Primogenitor tapınağında kendi klonlarını üretip beden değiştirerek fiilen ölümsüzleşmiştir; 'yeni insan ırkı' projesi için hem İmparatorluk'
+
 ## New Men, Klonlar ve Primarch Kanı
 Bile'ın gurur duyduğu yaratılar **New Men**'dir: güç, hız ve zekâ bakımından sıradan insanın çok ötesine geçirilmiş, ancak kaynakların anlatımına göre insanlığın en kötü eğilimlerini de büyütülmüş biçimde taşıyan varlıklar. Bile onları insan türünün geleceği sayar; Imperium'un gözünde ise dünyaları içeriden kemiren bir musibettir.
 

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452
 
+## Tarihçe
+
+Iron Hands, sadık Space Marine chapter'ıdır ve İlk Kuruluş lejyonlarından biridir; şehit primarch Ferrus Manus'un gen-seed'inden yaratıldılar. Heresy sonrası diğer Legiones Astartes gibi bölünmüş bu chapter, 'et zayıflıktır' felsefesiyle Medusa'nın sert dünyasının ürünüdür — 'demirin içindeki adam' arketipi.
+
 https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

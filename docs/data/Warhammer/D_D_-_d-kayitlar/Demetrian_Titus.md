@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Warhammer_40%2C000-_5
 
 ## Tarihçe
 
-Demetrian Titus, Ultramarines'ın kahraman yüzbaşısıdır; Graia'nın Ork istilası ve Chaos tehdidini tek başına durduran efsane — yüz yıl sonra Primaris olarak geri döndü (Space Marine / Space Marine II'nin kahramanı).
+Demetrian Titus — 'Ultramar'ın Muhafızı' — Ultramarines 2. Bölüğü'nün eski Firstborn kaptanı ve komutanı, sonradan Primaris Marine teğmeni olarak yaklaşık 300 yıl İmparatorluk için savaştı. Graia'nın Kurtuluşu'nda Nemeroth'u alt eden figür olarak ün kazandı; sonra Daemonhost şüphesiyle Inquisition'a düştü ve yüzyıl süren sürgünün ardından Primaris olarak döndü — 'iki çağı yaşayan kaptan' olarak Space Marine serisinin kahramanı.
 
 -# Kaynaklar: *Fandom wiki*
 

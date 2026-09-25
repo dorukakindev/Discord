@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/96/AethonShaanMini.jpg/r
 
 ## Tarihçe
 
-Aethon Shaan, Raven Guard'ın mevcut Chapter Master'ı ('Master of Shadows')'dır; Shadow Captain'lıktan yükseldi ve chapter'ı Era Indomitus'ta yönetiyor.
+Aethon Shaan, Raven Guard chapter'ının mevcut 'Master of Shadows' (Chapter Master)ıdır; bu göreve yükselmeden önce 1. ve 4. Bölüklerin Shadow Captain'i olarak görev yaptı. Yüzlerce yıllık kariyerinde 10., 8., 4. ve 1. Bölüklerde sırasıyla hizmet verdi. 854.999.M41'de Bloodborn'un Ultramar İstilası'nda eski Master of Shadows'ın onu ve diğer güçleri görevlendirmesiyle kanıtlanmış bir komutan; 'Claws of Severax' ve 'Blackwing Mantle' Jump Pack'i taşıyan bu figür, chapter'ın gölge-savaş doktrininin yaşayan temsilcisidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057381288640530>

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/36/Ulkair2.jpg/revision/
 
 ## Tarihçe
 
-Ulkair, 40. binyılda Aurelia'yı saran Warp fırtınasıyla beliren son derece güçlü Great Unclean One'dır; Blood Ravens'ın Bibliothecary'si Azariah Kyras tarafından gezegenin derinliklerine hapsedildi — Dawn of War II'nin büyük düşmanı.
+Ulkair, inanılmaz güçlü bir Great Unclean One'dur — Nurgle'un Greater Daemon'ı. 40. Binyılda Warp fırtınası Aurelia'yı yuttuğunda o Hive World'de bedenlendi; yenilip gezegenin derinliklerine hapsedildi. Beş yüzyıl sonra Azariah Kyras'ı — Blood Ravens'ın efendisini — yozlaştırarak Dawn of War II'nin arka plandaki ana kötüsü oldu — 'uyuyan veba efendisi' olarak Aurelia'nın laneti.
 
 -# Kaynaklar: *Fandom wiki*
 

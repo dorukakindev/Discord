@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Rotigus.png/revision/
 
 ## Tarihçe
 
-Rotigus Rainmaker, Nurgle'un Great Unclean One'larından biridir; 'Yağmur Yapıcı' lakabını kendi varlığından fışkıran sürekli veba yağmurundan alır. Plague Wars sırasında Ultraşar dünyalarını çürüten bu daemon, 'yaşayan felaket' sayılır.
+Rotigus Rainmaker ('Yağmur Getiren'), Nurgle'un Great Unclean One'larından biridir; başlı başına bir 'kasırgasalı veba' olarak bilinen dev daemon. Varlığıyla etrafındaki gerçeklik çürür — çürümenin yağmuru onunla yağar; Talledus Savaşı'nda İmparatorluk savunmasına karşı konuşlanan bu figür, 'salgın doğa olayı' olarak Nurgle'un en yıkıcı hizmetkârlarındandır.
 
 -# Kaynaklar: *Chaos Daemons Codex*
 -# İlişkili kayıtlar: <#1552850021550923798>

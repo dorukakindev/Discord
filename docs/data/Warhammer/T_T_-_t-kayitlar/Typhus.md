@@ -21,6 +21,10 @@ Romanın karşıt kutbu Battle-Captain Nathaniel Garro'dur. Barbarus doğumlu Ty
 ## Isstvan III ve Terminus Est
 Horus'un ihaneti Isstvan III'te açığa çıktığında Death Guard, Legion'un içindeki sadıklık şüphesi taşıyan unsurların tasfiyesine katıldı. Garro'nun *Eisenstein* fırkateyniyle Terra'ya kaçıp Emperor'u uyarması, Typhon'un ve onu destekleyenlerin önleyemediği bir tanıklık olarak Heresy'nin ilk kırılmalarından biri oldu.
 
+## Tarihçe
+
+Typhus — 'Gezgin', 'Nurgle'un Habercisi', asıl adıyla Barbaruslu Calas Typhon — Death Guard lejyonunun 1. Veba Bölüğü'nün Lord'u ve 'Destroyer Hive' doğaüstü vebasının taşıyıcısıdır. Lejyonun eski birinci kaptanı olarak Nurgle'un Şampiyonu ve büyücüsüdür; efsanevi Veba Filoları'ndan birini yöneten en korkulan Chaos Lord'udur. İnsanlığa
+
 Typhon'un komutasında, adı sonraki on bin yıl boyunca onunla birlikte anılacak dev grand cruiser *Terminus Est* bulunuyordu. Mortarion'un Heresy dönemi sancak gemisi Endurance'tı; *Terminus Est* ise Primarch'ın değil, First Captain'ın gemisiydi ve Legion'un Terra yolundaki kaderinde belirleyici bir rol oynayacaktı. Death Guard, Isstvan V'teki Drop Site Massacre'da da hainlerin saflarında yer aldı.
 ---MSG---
 ## Warp'taki Felaket ve Destroyer Plague

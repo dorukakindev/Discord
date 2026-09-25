@@ -16,6 +16,6 @@ Irillyth, Shadow Spectres Aspect'inin Phoenix Lord'udur ve binlerce yıl tek kay
 
 ## Tarihçe
 
-Irillyth, Shadow Spectres Aspect'inin Phoenix Lord'udur ve binlerce yıl tek kayıp Phoenix Lord olarak kaldı — diğerlerinin aksine zırhı bulunamamış, ruhu Infinity Circuit'e dönememişti. M41'de Mymeara'da külleri keşfedildi; bulunuşu hem craftworld'ü kurtardı hem Aspect'i tamamladı.
+Irillyth — 'Alacakaranlığın Gölgesi' — Asuryani'nin uzun süredir yok olmuş Shadow Spectres Aspect Warriors'ının Phoenix Lord'udur. Bin yıllarca kayıp olan bu Aspect'in tapınakları terk edilmişti ama Irillyth geri döndü — 'Spear of Starlight' ile 'geri gelen hayalet' olarak Phoenix Lord'ların en nadir figürüdür.
 
 -# Kaynaklar: *Codex: Aeldari*; *Mymeara* kaynakları

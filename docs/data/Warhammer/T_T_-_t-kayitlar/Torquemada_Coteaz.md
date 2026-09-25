@@ -31,6 +31,10 @@ Coteaz'ın en çok anılan silahı bir kılıç ya da çekiç değil, bilgidir. 
 
 Bu ağın bir sonucu, Coteaz'ın düşmanlarını çoğu zaman onlar harekete geçmeden önce karşılamasıdır. Codex anlatıları onun pusu kuranların pususuna düşmediğini, tam tersine düşmanın tuzağını beklediği yerde kendi tuzağını hazırladığını vurgular. Oyunun farklı edition'larında bu özellik kurallarla da temsil edilmiştir; ama lore açısından anlamı şudur: Coteaz için savaş, silahlar ateşlenmeden çok önce, bir bilginin doğru kişiye ulaştığı anda kazanılır ya da kaybedilir.
 
+## Tarihçe
+
+Torquemada Coteaz, Ordo Malleus'un Puritan Inquisitor Lord'u ve güçlü psyker'dır; onlarca yıllık Chaos karşıtı eylemiyle korkulan Daemonhunter ünü kazandı ve 'Formosa Sektörü'nün Yüksek Koruyucusu' olarak tanınır. Psyber-eagle'ı eşliğinde çalışan bu figür, Inquisition'un en yetkili ve en fanatik daemon avcılarından biridir — 'kutsal paranoya'nın bedeni olarak her şüpheyi soruşturan adam.
+
 Ağın kendisi de Coteaz'ın dünya görüşünün bir yansımasıdır. Kimseye güvenmeyen bir adam, herkesin ne yaptığını bilmek zorundadır. Ağ onu hem güçlü hem de tehlikeli kılar: böyle bir ağı yönetebilen biri, Inquisition'ın kendi içinde de korkulan bir figür hâline gelir. Ağın ölçeği, üyelerinin sayısı ya da örgütlenme biçimi yayımlanmış kaynaklarda sayısal bir ayrıntıyla verilmez; arşiv burada bir rakam üretmez.
 ---MSG---
 ## Glovodan Eagle ve Silahlar

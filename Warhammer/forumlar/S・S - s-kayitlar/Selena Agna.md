@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/88/Canoness_Selena_Agna.
 
 ## Tarihçe
 
-Selena Agna, Order of the Sacred Rose'un canoness'idir; Kaurava Sistemi'ni xenos ve heretic istilasından bizzat yönettiği temizlik harekâtıyla arındırdı — 'kanonize edilmesi beklenen' komutan.
+Selena Agna, Order of the Sacred Rose'un canoness'i olarak Kaurava Sistemi'nin xenos ve heretic istilasından temizlenmesini bizzat yönetti. Üç sistemin ayıklanmasıyla bilinen bu figür, 'canonize edilmesi kesin' sayılan yaşayan aziz adaylarından biri olarak İmparatorluk arşivinde yer alır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057464616747029>

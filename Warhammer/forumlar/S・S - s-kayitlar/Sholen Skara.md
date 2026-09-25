@@ -10,7 +10,7 @@
 
 ## Tarihçe
 
-Sholen Skara, Nadzybar ve Urlock Gaur'un altında görev yapan ölümcül 'magister'dı; Chaos'un ölümlü kuvvetlerinin en tehlikeli sub-komutanlarından biri olarak Sabbat seferinde kan döktü.
+Sholen Skara, Sabbat Dünyaları Seferi'nde hem Nadzybar hem Urlock Gaur'un altında görev yapan kötü şöhretli 'magister' (yani alt-komutan) idi. 'Kith' adlı soykırımcı Khorne kültünün lideriydi ve sefer boyunca sayısız vahşet işledi. 768.M41'de okyanus dünyası Sapiencia'da İmperium'a canlı yakalanıp Inquisition'a teslim edildi — ama sonra kaçmayı başardı; 778.M41 civarında Valens 160'ta Iron Snakes chapter'ının düzenlediği operasyonla öldürüldü. Kaçışı İmparatorluk'un en utanç verici güvenlik ihlallerinden biri sayılır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058623234641935>

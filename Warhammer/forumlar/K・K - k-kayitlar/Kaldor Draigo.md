@@ -29,6 +29,10 @@ Nitekim Mortarion, Great Rift çağında Plague Wars'la birlikte Ultramar'a sald
 
 Hiçbir durumda bu cümle bir güç sıralaması olarak okunmamalıdır. Mortarion'un bir Grey Knight tarafından "yenildiği" sonucu kaynaklardan çıkarılamaz.
 
+## Tarihçe
+
+Kaldor Draigo, Grey Knights chapter'ının mevcut Supreme Grand Master'ıdır ve Imperium'un en güçlü daemon avcısıdır. En az bir yüzyıldır Chaos'un Warp'taki diyarında mahsur kaldı — ama ölmek yerine orada yürüyor, Daemon Primarch'larla bile dövüşüyor (Mortarion'un kalbine kazıdığı söylenir). Sadece özellikle tehlikeli daemonik istilalarda realspace'e dönebilip kardeşleriyle savaşır ve sonra tekrar diyara çekilir. Titansword'ü ve kırıl
+
 ## Topluluk Tartışması ve Yayın Bağlamı
 2011 codex'i, Grey Knights'ı olağanüstü yetkinlikte gösteren başka sahneler ve Adepta Sororitas'a dair tartışmalı bir bölüm nedeniyle yayımlandığı dönemde topluluk içinde yoğun eleştiri aldı. Draigo bu eleştirilerin simge figürü oldu: kusursuz ve yenilmez bir kahraman imgesinin, Warhammer 40,000'in bedel ve trajedi odaklı tonuna aykırı düştüğü savunuldu. Bu tartışma evren içi bir olgu değil, gerçek dünya yayın tarihinin bir parçasıdır; ama Draigo'nun sonraki yayınlarda nasıl çerçevelendiğini anlamak için önemlidir.
 

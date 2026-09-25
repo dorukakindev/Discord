@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Horosa_Barnabas.png/r
 
 ## Tarihçe
 
-Horosa Barnabas, Jericho Reach'te dört yüzyıl boyunca 'hiç iyi yansımayan' ün kazanmış Ordo Xenos Inquisitor'üdür; 'şanssız ama kalıcı' figür olarak sektörün efsanesi.
+Horosa Barnabas, Jericho Reach'te faaliyet gösteren Ordo Xenos Inquisitor'üydü; dört yüzyıla dayanan istismar hikâyeleri vardı — ama hiçbiri onun lehine değildi. Andronicus dünyasında Aeldari'yle savaşta öldü; eylemleri bilinmeyen bir xenos etkisinin altında olduğu şüphesini doğurdu — 'şüpheli kahraman' olarak Dead Cabal'ın karanlık dosyalarından biri.
 
 -# Kaynaklar: *Fandom wiki*
 

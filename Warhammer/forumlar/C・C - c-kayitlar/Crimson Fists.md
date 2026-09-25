@@ -45,6 +45,10 @@ Başkentteki savunma, Astartes ile sıradan insanların arasındaki mesafenin na
 
 Kuşatma, dışarıdan gelen Imperial takviyelerle kırıldı; hangi kuvvetlerin hangi sırayla ulaştığı ve kayıpların ölçüsü kaynaktan kaynağa farklı genişlikte anlatılır; kesin bir sayı verilmez. Snagrod ise yenildiği hâlde öldürülemedi, Rynn's World'den kaçarak kurtuldu. Crimson Fists için bu, kapanmamış bir hesap oldu. Chapter'ın Ork'lara duyduğu derin ve kalıcı kin, o günden sonra yalnızca bir savaş refleksi değil, ortak yasın bir parçası olarak yaşadı.
 
+## Tarihçe
+
+Crimson Fists, Imperial Fists'in sadık İkinci Kuruluş halef chapter'ıdır; yakın zamana kadar yok oluşun eşiğindeydi — kale-manastırı yıkıldı ve sayıları Ork WAAAGH! Snagrod'un Loki Sektörü'ne inmesiyle neredeyse yok edildi. Pedro Kantor'un liderliğinde küllerinden doğan 'son yumruk' olarak bilinir.
+
 ## Yeniden Kuruluş ve Sons of Dorn
 Kuşatmanın ardından Crimson Fists'i bekleyen iş, savaşın kendisinden daha uzun ve daha sessizdi. Bir Space Marine'in yetişmesi yıllar alır; bir Chapter'ı yeniden kurmak için yalnızca aday bulmak yetmez, onları eğitecek veteranlar, gene-seed'i yerleştirecek Apothecary'ler, zırhları ayakta tutacak Techmarine'ler ve yeni kuşağa neyin korunmaya değer olduğunu öğretecek bir bellek gerekir. Arx Tyrannus'la birlikte bu zincirin halkalarından pek çoğu kopmuştu. Kaynakların çizdiği tabloda Crimson Fists, uzun süre Imperium'un büyük seferlerinde eskisi gibi yer alamayacak kadar küçük kaldı; varlığını sürdürmek başlı başına bir görev hâline geldi.
 

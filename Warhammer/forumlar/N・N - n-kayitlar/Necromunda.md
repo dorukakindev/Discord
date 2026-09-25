@@ -18,6 +18,10 @@ Helmawr'un iradesi, Hive City ve Underhive'da **Palanite Enforcers** aracılığ
 
 Bu düzenin gücü, zalimliğinden çok işlevselliğinden gelir. Necromunda'da kimse eşit değildir; ama tithe ödendiği, fabrikalar döndüğü ve isyan belirli bir sınırı aşmadığı sürece Imperium, hive'ın iç karanlığıyla pek ilgilenmez.
 
+## Tarihçe
+
+Necromunda, Segmentum Solar'daki en rezil Hive World'lerden biridir — devasa kovan şehirlerinde yaşayan milyarlarca insanın, zehirli atıklarla kaplı gezegenin yüzeyindeki 'sefaletin zirvesi'dir. Eviç Eşkıya çeteleri, eski teknoloji avcıları ve 'underhive' kanunsuzluğuyla bilinen bu dünya, İmparatorluk'un en karanlık sanayi örneğidir; 'insanlığın en yığılmış hali' olarak oyun ve romanlarda simge yerdir.
+
 ## Clan House'lar
 Hive City'nin gücü, her biri kendi sanayi dalını ve bölgesini denetleyen altı büyük **Clan House** arasında bölünmüştür:
 - **House Goliath**: Kaba kuvveti yüceltir; savaşçılarının önemli kısmı yapay olarak büyütülmüş, iri ve kısa ömürlü bedenlere sahiptir. Ağır sanayi ve dökümhaneler onların alanıdır.

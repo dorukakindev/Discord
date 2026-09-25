@@ -63,6 +63,10 @@ Bu soruya verilen yanıtlar birkaç kola ayrılır. Birincisi, Drazhar'ın Arhra
 
 **Kanon durumu: doğrulanmamış teori.** Drazhar ile Arhra arasındaki bağlantı, yayımlanmış kanonda ima ve söylenti düzeyinde kalır. Önceki ciltlerdeki bütün maddeler de bu çizgiyi korur; arşiv, bu belirsizliği bir karakter özelliği olarak görür ve kapatmaya çalışmaz.
 
+## Tarihçe
+
+Drazhar — 'Kılıçların Efendisi' — Drukhari Incubi tarikatının en büyük Hierarch'ı ve Celladıdır; öldürücülüğün kişileşmesidir. Craftworld Aeldari ve Drukhari arasında onun bir zamanlar düşmüş Phoenix Lord Arhra olduğu sanılır — 'maskeli efsane' olarak Commorragh'ın en korkulan figürlerinden biridir ve Striking Scorpions'ın karanlık aynası.
+
 ## Great Rift Sonrası: Ynnari Avı ve Jain Zar
 
 Great Rift'in açılmasıyla Aeldari dünyası da bölündü. Yvraine'in ölüm tanrısı Ynnead adına topladığı Ynnari, craftworld'lerden, Commorragh'tan ve Harlequin maskelerinden taraftar kazanırken Vect bu hareketi kendi hükümranlığına yönelmiş bir tehdit olarak gördü. Önceki ciltlerin aktardığı gibi Drazhar, Yvraine'i hedef alan suikast ve av girişimleriyle ilişkilendirilir.

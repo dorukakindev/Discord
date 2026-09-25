@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d9/Adrian_smith_soul_dri
 
 ## Tarihçe
 
-Sarpedon, Soul Drinkers Chapter'ın son Chapter Master'ıdır — güçlü bir psyker ve 'Hell' yeteneğiyle düşman zihnine korku salan bir savaşçı. Chapter'ının gen-tohumundaki mutasyonun kökenini araştırırken Chapter'ın kurucusu sanılan 'İmparator'un' aslında Greater Daemon Abraxes olduğunu keşfetti; Imperium'u terk edip ne İmparatorluğa ne Chaos'a ait bağımsız bir Chapter kurdu ve sonsuz savaşında yok oldu.
+Sarpedon, Soul Drinkers'ın Librarian'ı ve son Chapter Master'ıydı; chapter'ının Chaos tarafından farkında olmadan yozlaştırılması sonucu İmparatorluk'tan sürülen Renegade'lerin lideriydi. 'Kirlenmiş ama hain olmayan' figür olarak 'sadakat ve yozlaşma' arasındaki ince çizginin simgesidir — chapter'ın trajik sonunun yüzü.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877415028629504>

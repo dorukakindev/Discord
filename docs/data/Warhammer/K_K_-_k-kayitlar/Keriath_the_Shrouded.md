@@ -12,7 +12,7 @@
 
 ## Tarihçe
 
-Keriath the Shrouded, Totem IV'e saldıran Lord of Change'dir; çatışmada Exorcists'in Chapter Master'ı Enoch Trismegistus'u ele geçirdi — Exorcists'in 'daemonla sınanmış' geleneğinin kökeni.
+Keriath the Shrouded, Tzeentch'in Lord of Change'iydi; bin yıllar önce İmparatorluk dünyası Totem IV'e daemonik saldırı yönetti. Yardım çağrısına gelen Exorcists chapter'ıyla savaşta onların Chapter Master'ı Enoch Trismegistus'u sahiplendi — 'kendi efendisini yiyen savaş' olarak Exorcists'in karanlık tarihinin kritik olayı.
 
 -# Kaynaklar: *Fandom wiki*
 

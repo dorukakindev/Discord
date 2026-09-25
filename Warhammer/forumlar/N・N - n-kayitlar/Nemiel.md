@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Nemiel.jpg/revision/l
 
 ## Tarihçe
 
-Nemiel, Caliban'ın 'Order'ı'ndan gelip Dark Angels'da Chaplain olan şövalyeydi; Zaramund Olayı'nda psyker'ların yasaklanmasını savunan 'doğru' tarafı temsil etti. Luther'le çatışması ve Ahriman'a karşı duruşuyla bilinir — Heresy'de şüpheyle sadakat arasında kalan trajik figür.
+Nemiel, Caliban'ın 'The Order' şövalye tarikatından gelen ve Büyük Sefer'de Dark Angels lejyonunda Chaplain rütbesine yükselen figürdür. Gençliğinden beri kuzeni Zahariel El'Zurias'la süregelen bir rekabet içindeydi; Sarosh Seferi'ndeki olaylar iki yolun keskin biçimde ayrılmasına yol açtı. 008.M31'de kendi primarch'ı Lion El'Jonson tarafından öldürüldü — Nikaea Fermanı'nın lejyonda psyker kullanımını yasakladığını ısrarla savunması, Lion'un Heresy'in uç koşullarındaki pragmatik tutumuyla çatıştı. 'İnanç için primarch'ın kılıcından ölen' figür olarak I. Lejyon'un trajik kayıtlarından biridir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057355288281202>

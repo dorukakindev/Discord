@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Succubi.jpg/revision/
 
 ## Tarihçe
 
-Succubus, Drukhari Wych Kültlerinin kadın lideridir; Commorragh'ın arena kraliçeleri olarak güzellik ve vahşeti birleştiren bu figürler, kabal'larının en 'ölümcül dansçısı'dır.
+Succubi ('Archite'ler de denir), Drukhari Wych Cult'larının yönetici seçkinleridir — Commorragh'ın arena-kültlerinin hanımefendileri. Olağanüstü güzel ama zarif-ölümcül zarafete sahip bu dişiler savaşın öfkesine doğar ve öldürücü Wych'lerinin ortasında ilerler; en iyi arena dövüşçülerini kendi rakiplerine seçen bu figürler, 'acının sanatkarı' olarak Karanlık Şehir'in gladyatör kraliçeleridir.
 
 -# Kaynaklar: *Drukhari Codex*
 -# İlişkili kayıtlar: <#1552848871649058867>

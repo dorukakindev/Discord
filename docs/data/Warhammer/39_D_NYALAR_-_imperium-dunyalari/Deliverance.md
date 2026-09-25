@@ -19,3 +19,7 @@ Deliverance, Raven Guard chapter'ının ve primarch'ları Corvus Corax'ın anava
 Bu durum, primarch Corax'ın gelişiyle kökten değişti. Köleler arasında büyüyen Corax (yerel lehçede "Kurtarıcı" anlamına gelir), ezilen işçileri birleştirdi ve aşağıdaki dünyayı yöneten Tech-Guild'lere karşı bir devrim başlattı. Gizlilik, baskın ve gerilla taktikleriyle yürüttüğü bu ayaklanma, sonunda köleleri özgürleştirdi; ayın adı, Corax'ın bu kurtuluşunun anısına "Deliverance" (Kurtuluş) olarak değiştirildi.
 
 Bu özgürleştirme savaşının ruhu, Raven Guard'ın kimliğine işledi; chapter, gizlilik, hız, baskın ve gerilla harbinde uzmanlaştı; açık çatışma yerine gölgelerden vurmayı, düşmanı görmeden yok etmeyi tercih eden bir savaş geleneği benimsedi. Corax'ın kurtarıcı ruhu, lejyonu zalimlere karşı ezilenlerin yanında savaşan bir güce çevirdi.
+
+## Tarihçe
+
+Deliverance — eski adıyla Lycaeus — Hive World Kiavahr'ın yörüngesinde dönen aydır; Büyük Sefer'de İmparator'un oğlu Primarch Corvus Corax'ı bulduğu yer olarak tarihe geçti. Segmentum

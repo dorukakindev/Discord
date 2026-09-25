@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/EC_Post-Heresy_Livery
 
 ## Tarihçe
 
-Marius Vairosean, Emperor's Children'ın mükemmellik takıntılı kaptanıydı; kendini yeniden doğurup ilk 'Noise Marine' oldu — ses silahının doğuşunun simgesi.
+Marius Vairosean, Büyük Sefer ve Heresy'nin sonunda Emperor's Children'ın üçüncü kaptanıydı; Isstvan III Vahşeti ve Isstvan V Drop Site Massacre dahil Heresy'nin en rezil seferlerinde yer aldı. Kendi 'kusursuzluk' arayışı onu ve adamlarını Chaos'un yozlaşmasına sürükledi — 'Noise Marine'lerin ilk örneklerinden biri olarak EC'nin düşüşünün bedenlenmiş hikâyesidir.
 
 -# Kaynaklar: *Fandom wiki*
 

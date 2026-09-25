@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1e/Primarch_Sanguinius_V
 
 ## Tarihçe
 
-Kyriss the Perverse, Horus Heresy'de Signus Prime'ı yöneten Keeper of Secrets'dır; Sanguinius'u baştan çıkarmaya çalıştı ama melek tarafından öldürüldü — Blood Angels'ın 'Kızıl Susuzluk' trajedisinin başrollerinden.
+Kyriss — 'Sapık Kyriss' — Slaanesh'in Keeper of Secrets'ıdır; Heresy'nin ilk yıllarında aktifti. Rezil Bloodthirster Ka'Bandha'yla birlikte Signus Prime'da Blood Angels'a saldıran iki büyük daemon'dan biriydi; Sanguinius'un elinden başı kesilen figür olarak 'primarch'ın öfkesini gören daemon' olarak ün kazandı — Ka'Bandha'nın 'zevk ortağı' olarak Heresy'nin en karanlık sahnesindeki figür.
 
 -# Kaynaklar: *Fandom wiki*
 

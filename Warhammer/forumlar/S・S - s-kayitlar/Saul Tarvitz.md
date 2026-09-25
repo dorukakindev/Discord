@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Saul_Tarvitz_Honour_o
 
 ## Tarihçe
 
-Saul Tarvitz, Emperor's Children'ın sadık yüzbaşısıydı; Isstvan III katliamını fark edip yoldaşlarını uyaran ve Life Eater bombardımanından önce sadık unsurları koruyan adam — 'son dürüst III. Lejyoncu' olarak efsaneleşti.
+Saul Tarvitz — İmparatorluk tarihinde 'Lejyonunun Onuru' — Emperor's Children'ın line subayı ve 10. Bölük kaptanıydı; III. Lejyon'un orta rütbeye razı olan nadir subayıydı. Isstvan III Vahşeti'nde ihaneti sezip sağ kalanları uyarmak için kendini feda eden bu figür, 'kusursuzluğun unuttuğu onur' olarak Heresy'nin en saygın şehitlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

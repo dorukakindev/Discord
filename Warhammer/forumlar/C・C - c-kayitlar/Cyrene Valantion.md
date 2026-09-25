@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f6/Wordbearers_l.jpg/rev
 
 ## Tarihçe
 
-Cyrene Valantion, Living Saint olgusunu araştıran Inquisitor'dür; Sabbat Savaşları sırasında azizleri ve mucizeleri inceleyen figür.
+Cyrene Valantion — 'Kutsanmış Leydi' — Büyük Sefer ve Heresy'nin son yıllarında Word Bearers komutanlarının, bizzat Lorgar Aurelian'ın da aralarında olduğu, Confessor'ıydı. Hitabet gücü o kadar büyüktü ki transhuman Legionerlerin bile duygularını harekete geçirip onlara kişisel sapkınlıklarını itiraf ettirir, en karanlık sırlarını açtırırdı. Monarchia'nın düşüşünden sonra lejyonun Chaos'a dönüşünde önemli rol oynayan bu figür, 'itirafın gücünü' silaha çeviren kadın olarak Heresy'in manevi tarihinin kilit kişilerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

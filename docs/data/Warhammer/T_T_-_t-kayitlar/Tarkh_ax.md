@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/82/Mark_of_Tzeentch.jpeg
 
 ## Tarihçe
 
-Tarkh'ax, Tzeentch'in Lord of Change'i; İmparatorluk-T'au çatışmasını 'sahnelediği' bilinen değişim daemonu — 'kukla ustası' olarak iki imparatorluğu birbirine düşüren figür.
+Tarkh'ax, Tzeentch'in Lord of Change'idir; Aeldari'nin 'Songweave'i tarafından 10.000 yıldan fazla hapsedildiği Dolumar IV dünyasında İmparatorluk ile T'au arasında bir çatışma üretti — gezegenin İmparatorluk valisini yozlaştırarak iki gücü birbirine kırdırdı. 'Hapisten plan yapan' daemon olarak Değişim'in uzun vadeli entrikasının klasik örneğidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Vorth Mordrak, daemonik silahları ve yasak bilgiyi düşmana karşı kullanma doktriniyle bilinen Radikal Inquisitor'dur; İmparatorluk içinde tartışmalı ama etkili bir figür.
+Vorth Mordrak, Grey Knights'ın Grand Master'ıdır; Red Corsairs'in Mortain Kalesi Dünyası'na saldırısından sağ çıkan tek kişidir. O günden beri o dünyada ölen düşmüş yoldaşlarının hayalet apparisyonları tarafından korunur — 'ölülerin koruduğu adam' olarak chapter'ın en mistik figürüdür. Nihayetinde onları huzura kavuşturmaya kararlı bu Grand Master, intikam ve yasın bedenidir.
 
 -# Kaynaklar: *Fandom wiki*
 

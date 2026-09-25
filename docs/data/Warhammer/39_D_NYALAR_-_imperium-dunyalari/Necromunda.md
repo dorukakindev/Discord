@@ -22,4 +22,7 @@ Underhive, çeteler (House gangs), klanlar, mutantlar, suçlular ve canavarlar a
 
 Necromunda, İmparatorluk toplumunun en kasvetli yönlerini (devasa nüfus, ezici eşitsizlik, sanayi köleliği, hukuksuzluk) bir araya getiren bir mikrokozmostur; trilyonların yaşadığı sayısız kovan dünyasının tipik bir örneği. O, İmparatorluğun parlak kahramanlık öykülerinin altında yatan acı gerçeği gösterir: insanlığın büyük çoğunluğu, dev makinenin dişlileri arasında, yoksulluk ve şiddet içinde, isimsizce yaşar ve ölür.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Necromunda, Segmentum Solar'daki en rezil Hive World'lerden biridir —

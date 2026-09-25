@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/71/MasterofPossession.jp
 
 ## Tarihçe
 
-Master of Possession, Chaos'un daemon-musallat ritüellerinin uzmanı bir sorcerer'dır; Possessed ve Greater Possessed yaratmak, daemonları zırhlara hapsetmek ve Warp varlıklarını sahada yönlendirmekle görevlidir. Hem büyücü hem ritüelist — Chaos ordusunun 'daemon mühendisi'dir.
+Master of Possession, Heretic Astartes Chaos Sorcerer'ıdır; yaşayan bedenlere Warp daemonlarını hapsetme yasak sanatında uzmanlaşmış ve genellikle Daemonkin warband'lerinin lideridir. Aynı tekniklerle daemonları savaş motorlarına bağlayıp Daemon Engine'ler yaratan bu figürler, 'beden-hapishanesinin mimarı' olarak Chaos'un en tehlikeli büyücülerindendir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552878671629389938>

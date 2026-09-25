@@ -22,4 +22,7 @@ Baal'ın en büyük sınavı, 41. milenyumun sonunda geldi: Hive Fleet Leviathan
 
 Baal, Blood Angels'ın hem fiziksel hem ruhsal kimliğini şekillendirir; ölüm dünyasının acımasızlığı, chapter'ın taşıdığı lanetlerin (Kan Susuzluğu, Kara Öfke) kasvetli arka planını oluşturur. O, en güzel ve en soylu chapter'ın, en çorak ve en ölümcül bir dünyadan doğmasının paradoksunu temsil eder; ölümün kucağında doğan bir asalet.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+
+## Tarihçe
+
+Baal, Baal Sistemi'ndeki Blood Angels'ın nominal homeworld'üdür; kendisi kuru, tozlu bir Desert World'dür — mutantlar ve vahşi hayvanlar dışında pek yerleşik değildir. İki uydusu Baal Prime ve Baal Secundus önemli insan yerleşimle

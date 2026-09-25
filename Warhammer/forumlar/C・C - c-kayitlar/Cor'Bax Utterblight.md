@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/57/HHL_Amon_Tauromachian
 
 ## Tarihçe
 
-Cor'Bax Utterblight, Nurgle'un 'Tam Belaya' lakaplı Great Unclean One'ıdır; Daemon's Legio'nun veba generallerinden sayılan bu daemon, Vraks'ın düşüşünde Scabeiathrax'la birlikte görev yaptı.
+Cor'Bax Utterblight, Nurgle'un Daemon Prince'idir — 'çürümenin bedenlenmiş efendisi' olarak Plague God'un yükseltilmiş kullarından biridir. Devasa, zehirli ve iğrenç bedeniyle İmparatorluk kayıtlarına 'yaşayan veba' olarak geçmiş bu figür, Nurgle'un armağanlarının nihai biçimini temsil eder.
 
 -# Kaynaklar: *Chaos Daemon ek kayıtları*
 -# İlişkili kayıtlar: <#1552850047539093554>

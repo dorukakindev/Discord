@@ -45,6 +45,10 @@ Ragnar'ın Great Company'si onun karakterini yansıtır. Kaynaklar onu hızlı, 
 
 Ragnar'ın simgesi **Frostfang** adlı frost blade'dir. Kaynaklarda Fenris'in soğuğunu ve bir kurdun dişini çağrıştıran bu silah, onun imgesinin ayrılmaz bir parçasıdır. Tabletop görsellerinde uzun, dağınık siyah saçlarıyla, çoğu zaman başı açık savaşan bir komutan olarak betimlenmesi de onu Chapter'ın en tanınan yüzlerinden biri hâline getirmiştir; "Blackmane", yani kara yele adı da genellikle bu imgeyle ilişkilendirilir.
 
+## Tarihçe
+
+Ragnar Blackmane — bazen 'Kara Kurt' — Space Wolves'un yükselmiş Primaris subayı ve Leman Russ'ın oğulları tarihinde bir Büyük Bölüğü yöneten en genç Wolf Lord'dur. Blood Claw'dan hızla yükselerek 'en genç efsane' statüsüne ulaştı; Bloodied Fang'ı ve keskin zekâsıyla bilinen bu figür, Fenris'in yeni kuşağının yüzüdür — 'yaşayan destan' olarak chapter'ın en ünlü aktif kahramanı.
+
 ## İlişkiler ve Chapter İçindeki Yer
 Ragnar'ın en önemli ilişkisi Great Wolf **Logan Grimnar** ile olan bağıdır. Grimnar yüzyıllardır Chapter'ı yöneten, sabırlı ve kurnaz bir önderdir; Ragnar ise onun sabrını sınayan ama Chapter'ın geleceğini temsil eden genç bir Wolf Lord'dur. Önceki arşiv kayıtlarıyla uyumlu olarak, ikisinin ilişkisi bir çatışmadan çok, yaşlı bir kral ile atılgan bir varis adayı arasındaki ilişkiyi andırır.
 
