@@ -30,6 +30,10 @@ Kobayashi'nin Junpei Gomikawa'nın altı ciltlik romanından uyarladığı üçl
 
 İnsan kalmak, sisteme muhalefetin ta kendisidir — Kobayashi'nin tezi: Kaji kötü değil iyi olduğu için cezalandırılır; emperyalist Japonya'da merhamet suçtur. Üçlemenin ilk perdesi iradenin sınırını gösterir: iyi niyetli birey, aygıt tarafından ezilir.
 
+## Karşılama ve miras
+
+Kobayashi'nin üçlemesinin (9 saat 39 dk toplam) ilk bölümü — 'No Greater Love'. 1943-45 Mancurya çalışma kampında geçer; Japon ordusunun savaş suçlarına açık bakış, dönemin Japonya'sında tartışma yarattı. Tatsuya Nakadai'nin Kaji'si 'insan kalabilen' tek figür; Setsuko Hara'nın Michiko'su ile sahneleri Japon sinemasının en zarif aşk anlarından.
+
 ## Mekanizma ve biçem
 
 Geniş ekran (Grandscope) siyah-beyaz — madenin çamuru ve kafesleri 'toplama kampı' estetiğini Japon sinemasına taşır; Nakadai'nin uzun, kırılgan bedeni insan ile sistem arasındaki fiziksel kontrasttır. Toru Takemitsu'nun disonanslı skoru (henüz kariyer başında) rahatsızlığı ritmikleştirir.

@@ -30,6 +30,10 @@ Kaji, Mancukuo cephesinde eğitim kampında: Obara ve veteran sisteminin astsuba
 
 Ordu, insanı araça indirger — ikinci perdenin tezi: militarizm hem düşmanı hem kendi neferini kullanılabilir kılar; Kaji'nin insan kalma çabası 'savaş suçu' değil, varoluşsal görevdir.
 
+## Karşılama ve miras
+
+Üçlemenin ikinci bölümü 'Road to Eternity' — Kaji cepheye sürülür; ordu içi işkence ve itaat mekanizması. Kobayashi kendi savaş deneyimini (Okinawa yakınlarında esir alınmıştı) senaryoya işledi; 'emir veren değil itaat eden sistem' analizi Tokyo Trial tartışmalarına koşut gider.
+
 ## Mekanizma ve biçem
 
 Savaş sahneleri destan değil katliam olarak kadrajlanır — geniş açı + uzun bekleme + ani şiddet. Takemitsu'nun skoru daha da sert; kamikaze beklentisinin absürtlüğü ses tasarımında yankılanır.

@@ -30,6 +30,10 @@ Kaji, Sovyet güçlerine esir düşer; Mancukuo çayırlarında kar altında yü
 
 Esaret, insanın son çizgisidir — final perdenin tezi: Sovyet kampı da Japon ordusu da aynı mantığı paylaşır; Kaji'nin dualığı (insan kalmak) ancak bedenin tükenişiyle son bulur — dualar kimseye ulaşmaz ama yine de edilir.
 
+## Karşılama ve miras
+
+Final 'A Soldier's Prayer' — Kaji Sovyet esir kampında; 'insan kalmak' ile 'hayatta kalmak' son sınava girer. Üçleme 1961'de Kinema Junpo'da yılın en iyi Japon filmi seçildi; Jacques Rivette ve Fransız Yeni Dalga eleştirmenleri Kobayashi'yi 'Japonya'nın vicdanı' ilan etti. Criterion Collection 2009'da restore etti.
+
 ## Mekanizma ve biçem
 
 Kar ve çamur artık destan değil sürgün görüntüsüdür; Nakadai'nin yüzü üç film boyunca insanın coğrafyasını kaydetmiştir — finaldeki yüz, tüm yolculuğun haritasıdır. Takemitsu'nun skoru marş yerine ağıta döner.
