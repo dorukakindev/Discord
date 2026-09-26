@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Sidney_Lumet_1970.jpg/330px-Sidney_Lumet_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Yönetmenler · Kayıt
 # Sidney Lumet
 > **Kayıt sayısı:** 4

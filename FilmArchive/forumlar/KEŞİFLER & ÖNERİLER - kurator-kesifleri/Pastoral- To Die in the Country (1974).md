@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Turkish_invasion_of_Cyprus._jpg.png/330px-Turkish_invasion_of_Cyprus._jpg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Küratör Keşifleri · Kayıt
 # Pastoral: To Die in the Country (1974)
 > **Yönetmen:** Shūji Terayama · **Yıl:** 1974

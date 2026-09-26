@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yorgos_Lanthimos_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg/330px-Yorgos_Lanthimos_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Yönetmenler · Kayıt
 # Yorgos Lanthimos
 > **Kayıt sayısı:** 3

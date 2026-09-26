@@ -1,6 +1,6 @@
 -# THE FILM ARCHIVE · Filmler · 4.0–4.5 · Dizin
 # Filmler · 4.0–4.5 — Kayıt Dizini
-133 kayıt — uygunluk sırası:
+135 kayıt — uygunluk sırası:
 
 • **Lilith (1964)** · IMDb 6.8/10 · LB 3.45/5 · nMDB 68.5 · uyg 4.4/5**
 • **Man Facing Southeast (1986)** · IMDb 7.6/10 · LB 3.84/5 · nMDB 76.4 · uyg 4.4/5**
@@ -33,6 +33,7 @@
 • **The Gang of Four (1989)** · IMDb 6.8/10 · LB 3.97/5 · nMDB 73.7 · uyg 4.1/5**
 • **The Innocent (1976)** · IMDb 7.4/10 · LB 3.81/5 · nMDB 75.1 · uyg 4.1/5**
 • **The Possessed (1965)** · IMDb 7.0/10 · LB 3.59/5 · nMDB 70.9 · uyg 4.1/5**
+• **Three Colours: Blue (1993)** · IMDb 7.8/10 · LB 4.13/5 · nMDB 80.3 · uyg 4.1/5**
 • **Time to Die (1966)** · IMDb 7.4/10 · LB 3.84/5 · nMDB 75.4 · uyg 4.1/5**
 • **Un borghese piccolo piccolo (1977)** · IMDb 7.8/10 · LB 4.04/5 · nMDB 79.4 · uyg 4.1/5**
 • **2001: A Space Odyssey (1968)** · IMDb 8.3/10 · LB 4.23/5 · nMDB 83.8 · uyg 3.6/5**
@@ -47,8 +48,8 @@
 • **Amarcord (1973)** · IMDb 7.8/10 · LB 4.09/5 · nMDB 79.9 · uyg 3.5/5**
 • **Antichrist (2009)** · IMDb 6.5/10 · LB 3.36/5 · nMDB 66.1 · uyg 4.0/5**
 • **Au Hasard Balthazar (1966)** · IMDb 7.7/10 · LB 4.06/5 · nMDB 79.1 · uyg 3.5/5**
-• **Ballad of Tara (1979)** · IMDb 7.4/10 · LB 3.87/5 · nMDB 75.7 · uyg 4.0/5**
 
+• **Ballad of Tara (1979)** · IMDb 7.4/10 · LB 3.87/5 · nMDB 75.7 · uyg 4.0/5**
 • **Being John Malkovich (1999)** · IMDb 7.7/10 · LB 4.07/5 · nMDB 79.2 · uyg 3.9/5**
 • **Breaking the Code (1996)** · IMDb 7.1/10 · nMDB 71.0 · uyg 4.0/5**
 • **Caché (2005)** · IMDb 7.3/10 · LB 4.05/5 · nMDB 77.0 · uyg 3.6/5**
@@ -71,9 +72,9 @@
 • **Hospital of the Transfiguration (1979)** · IMDb 7.3/10 · LB 3.64/5 · nMDB 72.9 · uyg 4.0/5**
 • **In a Year with 13 Moons (1978)** · IMDb 7.3/10 · LB 4.00/5 · nMDB 76.5 · uyg 3.5/5**
 • **Inland Empire (2006)** · IMDb 6.8/10 · LB 3.90/5 · nMDB 73.0 · uyg 3.6/5**
+
 • **Long Day's Journey Into Night (1962)** · IMDb 7.5/10 · LB 3.81/5 · nMDB 75.6 · uyg 3.9/5**
 • **Loveless (2017)** · IMDb 7.6/10 · LB 3.93/5 · nMDB 77.3 · uyg 3.5/5**
-
 • **M (1931)** · IMDb 8.3/10 · LB 4.29/5 · nMDB 84.4 · uyg 3.9/5**
 • **Magnolia (1999)** · IMDb 8.0/10 · LB 4.23/5 · nMDB 82.3 · uyg 3.6/5**
 • **Manor House (2020)** · IMDb 6.5/10 · LB 3.61/5 · nMDB 68.6 · uyg 4.0/5**
@@ -95,9 +96,9 @@
 • **Requiem for a Dream (2000)** · IMDb 8.3/10 · LB 4.11/5 · nMDB 82.6 · uyg 3.6/5**
 • **Salò, or the 120 Days of Sodom (1975)** · IMDb 5.8/10 · LB 3.03/5 · nMDB 59.3 · uyg 3.5/5**
 • **Satantango (1994)** · IMDb 8.2/10 · LB 4.36/5 · nMDB 84.6 · uyg 3.8/5**
+
 • **Schindler's List (1993)** · IMDb 9.0/10 · LB 4.55/5 · nMDB 90.5 · uyg 3.6/5**
 • **Serie Noire (1979)** · IMDb 7.3/10 · LB 3.80/5 · nMDB 74.5 · uyg 4.0/5**
-
 • **Shivers (1981)** · IMDb 6.9/10 · LB 3.55/5 · nMDB 70.0 · uyg 4.0/5**
 • **Silence (2016)** · IMDb 7.2/10 · LB 4.02/5 · nMDB 76.2 · uyg 3.6/5**
 • **Sunset Boulevard (1950)** · IMDb 8.4/10 · LB 4.44/5 · nMDB 86.4 · uyg 3.6/5**
@@ -119,9 +120,10 @@
 • **The Killing of a Sacred Deer (2017)** · IMDb 7.0/10 · LB 3.70/5 · nMDB 72.0 · uyg 3.9/5**
 • **The Lighthouse (2019)** · IMDb 7.4/10 · LB 4.00/5 · nMDB 77.0 · uyg 3.5/5**
 • **The Lobster (2015)** · IMDb 7.1/10 · LB 3.73/5 · nMDB 72.8 · uyg 3.8/5**
-• **The Mark (1961)** · IMDb 7.2/10 · LB 3.43/5 · nMDB 70.3 · uyg 4.0/5**
-• **The Meeting Point (1989)** · IMDb 8.2/10 · LB 3.89/5 · nMDB 79.9 · uyg 4.0/5**
 
+• **The Mark (1961)** · IMDb 7.2/10 · LB 3.43/5 · nMDB 70.3 · uyg 4.0/5**
+• **The Master (2012)** · IMDb 7.1/10 · LB 3.97/5 · nMDB 75.2 · uyg 4.0/5**
+• **The Meeting Point (1989)** · IMDb 8.2/10 · LB 3.89/5 · nMDB 79.9 · uyg 4.0/5**
 • **The Most Wonderful Evening of My Life (1972)** · IMDb 7.1/10 · LB 3.54/5 · nMDB 70.9 · uyg 4.0/5**
 • **The Naked Civil Servant (1975)** · IMDb 7.8/10 · LB 3.85/5 · nMDB 77.5 · uyg 4.0/5**
 • **The Oak (1992)** · IMDb 7.8/10 · LB 3.92/5 · nMDB 78.2 · uyg 4.0/5**
