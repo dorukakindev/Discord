@@ -102,6 +102,20 @@ Güncelleme: `cd /opt/lexicanum-repo && git pull && cp -r bot/. /opt/lexicanum/ 
 cd /opt/lexicanum && sudo -u lexicanum env DISCORD_REPO=/opt/lexicanum-repo python3 build_fts.py
 ```
 
+## Gece tazeleme (timer)
+
+`lexicanum-refresh.timer` her gün ~04:30 TSİ'de `lexicanum-refresh.sh`'ı koşar:
+`/opt/lexicanum-repo`'yu main'e çeker, Discord'dan `data/index.json`'ı tazeler,
+repo dökümlerinden `lexicanum.db`'yi yeniden üretir, botu restart eder.
+Kod deploy'u yapmaz (elle: yukarıdaki Güncelleme satırı).
+
+```bash
+sudo cp /opt/lexicanum/systemd/lexicanum-refresh.{service,timer} /etc/systemd/system/
+sudo systemctl daemon-reload && sudo systemctl enable --now lexicanum-refresh.timer
+systemctl list-timers lexicanum-refresh.timer   # sonraki koşuyu gör
+sudo systemctl start lexicanum-refresh.service  # elle test
+```
+
 ## Canlı kurulum (Eylül 2026)
 
 - **VM**: `ubuntu@158.101.217.164` — Oracle Always Free, Amsterdam, Ubuntu 22.04 ARM

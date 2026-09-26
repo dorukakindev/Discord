@@ -1,0 +1,9 @@
+[Unit]
+Description=Lexicanum gece tazeleme (index + FTS rebuild + restart)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/opt/lexicanum/systemd/lexicanum-refresh.sh
+EnvironmentFile=-/opt/lexicanum/.env
