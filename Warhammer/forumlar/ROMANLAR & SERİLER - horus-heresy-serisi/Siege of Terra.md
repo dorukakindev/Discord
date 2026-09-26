@@ -14,4 +14,6 @@ Ana seriyi *The Buried Dagger*'dan devralan sekiz ciltlik son seri: Warmaster'ı
 
 ## Tarihçe
 
-Siege of Terra, İmparatorluğun en büyük ve en son savunmasıdır; Horus'un Terra'ya saldırısı ve İmparator'un kendi oğluyla son savaşıyla sonuçlanan ve İmparatorluğun en büyük savaşının sonudur — onlar, İmparatorluğun en büyük savunmasının ve en büyük fedakarlığının somut halidir. Siege of Terra'nın en büyük özelliği, onun sonudur — onlar, Horus Heresy'nin sonudur ve onların varlığı, İmparatorluğun en büyük savaşının sonunun kanıtıdır; bir Siege of Terra, bir imparatorluğun son savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin ve en büyük kaybının somut halidir. Siege of Terra'nın en ünlü özelliği, onun İmparator'un son savaşıdır — onlar, İmparator'un kendi oğluyla son savaşının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Siege of Terra, İmparatorluğun en büyük ve en son sav
+Heresy anlatısının düğümü: Dorn'un yıllardır hazırladığı Saray savunması, hainlerin Güneş Sistemi'ni kat kat kırması, Eternity Kapısı'ndaki son safhalar ve İmparator'un Altın Taht'a gömülüşü — on bin yıllık savaşın sıfır noktası. Seri 2019'da başladı ve *The End and the Death: Volume III* (Ocak 2024) ile kapandı.
+
+-# Kaynaklar: Black Library; Warhammer 40k Lexicanum

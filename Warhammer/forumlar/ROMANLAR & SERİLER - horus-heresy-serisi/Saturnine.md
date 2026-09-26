@@ -14,7 +14,6 @@ Lion's Gate uzay limanını düşüren hainler Saray'ı iki koldan sıkıştır�
 
 ## Tarihçe
 
-Saturnine, Horus Heresy serisinin dördüncü kitabıdır — Terra Kuşatması'nın en kritik anlarını anlatan romandır. Kitap, Saturnine surlarının savunmasını ve İmparatorluk'un en umutsuz anlarını anlatır; okuyucular, İmparatorluk tarihinin en kritik anlarını görür. Saturnine, Horus Heresy serisinin en önemli ve en kritik kitaplarından biridir; bu roman, İmparatorluk tarihinin en önemli olaylarının anlatıldığı eserdir.
-
+Serinin orta noktası (2020, ~500 sayfa); Abnett'in çok katmanlı savaş anlatısı. 'Saturnine gambit' kuşatmanın en ünlü askeri aldatmacasıdır — sadıkların kazandığı tek büyük muharebe, yine de savaşı bitiremez.
 
 -# Kaynaklar: Black Library; Warhammer 40k Lexicanum

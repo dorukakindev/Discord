@@ -14,7 +14,6 @@ Dış saray harabe hâlindedir; sadıklar son hat olan Delphic Battlement'a çek
 
 ## Tarihçe
 
-Echoes of Eternity, Horus Heresy serisinin yedinci kitabıdır — Terra Kuşatması'nın en kritik anlarını anlatan romandır. Kitap, İmparatorluk Sarayı'nın son savunmasını ve İmparatorluk'un en umutsuz anlarını anlatır; okuyucular, İmparatorluk tarihinin en kritik anlarını görür. Echoes of Eternity, Horus Heresy serisinin en önemli ve en kritik kitaplarından biridir; bu roman, İmparatorluk tarihinin en önemli olaylarının anlatıldığı eserdir.
-
+Yedinci cilt (Eylül 2022); Sanguinius'un seri boyunca örülen yazgısının doruğu. Kapı düşüşünün hemen ardından hikâye *The End and the Death*'e devreder — melek, tahtın önünde son adımı beklemektedir.
 
 -# Kaynaklar: Black Library; Warhammer 40k Lexicanum

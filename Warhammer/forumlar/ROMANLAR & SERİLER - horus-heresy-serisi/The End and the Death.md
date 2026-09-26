@@ -14,7 +14,6 @@ Horus, gemisinin kalkanlarını indirip İmparator'u kendine davet eder: son kar
 
 ## Tarihçe
 
-The End and the Death, Siege of Terra serisinin final kitabıdır — Horus Heresy'nin sonunu anlatan romandır. Kitap, İmparator ile Horus arasındaki son savaşı ve İmparator'un Altın Taht'a bağlanmasını anlatır; okuyucular, İmparatorluk tarihinin en kritik olayını görür. The End and the Death, Horus Heresy serisinin en önemli ve en kritik kitabıdır; bu roman, İmparatorluk tarihinin en önemli olaylarının anlatıldığı eserdir.
-
+Serinin 8. ve son romanı, üç cilt hâlinde (Ocak 2023 – Ocak 2024): 60'ı aşkın kitaplık Horus Heresy anlatısını kapatarak İmparator'un tahta çivilenişini ve 'çürüyen İmparatorluk' çağının açılışını anlatır.
 
 -# Kaynaklar: Black Library; Warhammer 40k Lexicanum

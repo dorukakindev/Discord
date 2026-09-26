@@ -16,9 +16,7 @@ Kadim Triarch'ın — Necrontyr soyluluğunun yönetim konseyinin — mevki simg
 
 ## Tarihçe
 
-Rod of Covenant bir silahtan önce bir fermanın elle tutulur hâlidir: Triarch'ın otoritesinin simgesi. Onu taşıyan, Triarch'ın elini taşır; bu yüzden en cesur Nemesor bile Praetorian'ların buyruğuna açıkça karşı çıkmaz. Geç M41'de kendilerini yeni dönmüş Sessiz Kral Szarekh'e adamış bu muhafızlar, meydanın üzerinde asılı durup doğru ânı — ve uzun zaman önce etkileriyle damgalanmış, "şerefli düşman" saydıkları ırkları — gözler; sonra asalarının yıldız ateşiyl
-
-e ordu kalbine inerler.
+Rod of Covenant bir silahtan önce bir fermanın elle tutulur hâlidir: Triarch'ın otoritesinin simgesi. Onu taşıyan, Triarch'ın elini taşır; bu yüzden en cesur Nemesor bile Praetorian'ların buyruğuna açıkça karşı çıkmaz. Geç M41'de kendilerini yeni dönmüş Sessiz Kral Szarekh'e adamış bu muhafızlar, meydanın üzerinde asılı durup doğru ânı — ve uzun zaman önce etkileriyle damgalanmış, "şerefli düşman" saydıkları ırkları — gözler; sonra asalarının yıldız ateşiyle ordu kalbine inerler.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom ("Rod of Covenant", "Triarch Praetorian"); Lexicanum — "Triarch Praetorian"; *Codex: Necrons — 5th Edition*
 
