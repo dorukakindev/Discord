@@ -16,3 +16,7 @@
 - saet-islam-angels
 - je-metatron
 - jewish-encyclopedia-angelology
+
+### Arka Plan
+
+Kayıt-hesap — 'kayıt' 'melek' 'tanık' 'hesap' 'figürü'; 'kayıt = tanık' figürü.

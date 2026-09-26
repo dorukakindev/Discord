@@ -7,3 +7,7 @@ Hakikat kıvılcımı ilke, strateji ve karar otoritesiyle birleşir.
 ### Cards
 - ace-of-swords
 - king-of-swords
+
+### Arka Plan
+
+Kılıçların Ası + Kılıçların Kralı — 'netlik + otorite' ikilisi: as'ın 'taçlı kılıç' ve kralın 'keskin hüküm' — 'gerçeği söyle' en güçlü 'adalet' kombinasyonu; 'kılıç = söz' figürü.

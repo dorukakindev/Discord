@@ -27,3 +27,7 @@ Zabaniyah, Kur'an 96:18'de cehennem bekçileri diliyle, 74:30-31 ve 66:6 gibi pa
 - Quran.com 66:6
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Paris%2C_BnF%2C_Suppl%C3%A9ment_Turc_190_fol._61r_Muhammad_visits_Hell.jpg/960px-Paris%2C_BnF%2C_Suppl%C3%A9ment_Turc_190_fol._61r_Muhammad_visits_Hell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Zebani — 'cehennem' 'melek' 'acı' 'figürü'; 'zebani = cehennem' figürü.

@@ -3,3 +3,7 @@
 > **Tetikleyici:** topSuitCount >= 2 · **Soru:** Tekrarlanan suitin alanını açıkça adlandır ve diğer kartların bu alanı nasıl desteklediğini ya da zorladığını yaz.
 
 Aynı suit tekrarlandığında okumanın baskın kanalı belirginleşir: Asalar eylem, Kupalar duygu, Kılıçlar zihin, Tılsımlar madde.
+
+### Arka Plan
+
+Suit tekrarı — 'seri' yankısı: 'aynı suit' 'yankı' olarak 'odak'; 'tekrar = alan' figürü.

@@ -4,3 +4,7 @@
 
 ### Not
 Mezar ve tapınak sunu formüllerinde çok sık görünür.
+
+### Arka Plan
+
+Hotep — 'huzur' figürü: 'hotep' (R4 'htp') 'huzur' 'sunu' 'anlamı'; 'hotep = sunu' figürü.

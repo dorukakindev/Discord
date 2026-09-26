@@ -8,3 +8,7 @@ Akdeniz/İslam dünyası oyun kartı arka planını sınırlı biçimde anlatmak
 -# Kaynaklar: https://www.wopc.co.uk/egypt/mamluk-playing-cards
 
 ![gorsel](https://www.wopc.co.uk/images/countries/egypt/mamluk-600.jpg)
+
+### Arka Plan
+
+Mamluk kart — 'akrabalık' figürü: 'World of Playing Cards' 'Mamluk' 'kartları'; 'Mamluk = akraba' figürü.

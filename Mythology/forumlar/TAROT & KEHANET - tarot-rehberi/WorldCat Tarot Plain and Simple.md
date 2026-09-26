@@ -6,3 +6,7 @@
 Mikro-derslerde hafıza kancası, anahtar cümle ve pratik yorum basamağı için kullan.
 
 -# Kaynaklar: https://search.worldcat.org/th/title/416336996
+
+### Arka Plan
+
+Plain and Simple — 'basit' figürü: 'tarot' 'basit' 'rehberi'; 'plain = kolay' figürü.

@@ -5,3 +5,7 @@
 ### Kaynak No
 - Global Egyptian Museum cartouche
 - Penn cartouche name
+
+### Arka Plan
+
+Sa-Ra — 'oğul' figürü: 'sꜣ-Rꜥ' 'Ra'nın' 'oğlu' 'figürü'; 'sa-Ra = oğul' figürü.

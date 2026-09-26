@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/1P-LSD.svg/960px-1P-LSD
 LSD nin yapısal türevi olan araştırma kimyasalı; etkisi neredeyse ayırt edilemeyecek kadar LSD ye benzer.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/1P-LSD.svg/960px-1P-LSD.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+1P-LSD — 1-propionil-lizerjik asit dietilamid: LSD'nin propionil ester 'araştırma kimyasalı' (research chemical); vücutta LSD'ye dönüşür ('prodrug') — etki süresi ve karakter LSD'ye neredeyse özdeş (~8-10 saat). 2015 sonrası 'yasal gri bölge' maddesi olarak Avrupa'da satıldı; 'AL-LAD', '1cP-LSD' ailesinin üyesi.

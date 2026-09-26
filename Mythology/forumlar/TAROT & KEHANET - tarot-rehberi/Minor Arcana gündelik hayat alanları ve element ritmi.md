@@ -9,3 +9,7 @@ Minor Arcana dört suit üzerinden beden, duygu, zihin, eylem, para, ilişki ve 
 - wikipedia-minor
 - learntarot-cards
 - labyrinthos-meanings
+
+### Arka Plan
+
+Gündelik hayat — 'element' ritmi: 'asa = iş', 'kupa = duygu', 'kılıç = zihin', 'tılsım = somut'; 'alan = element' doktrini.

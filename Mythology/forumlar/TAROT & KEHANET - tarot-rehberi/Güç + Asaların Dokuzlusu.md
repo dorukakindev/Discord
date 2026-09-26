@@ -7,3 +7,7 @@ Zorlanmış ama yılmamış enerji şefkatli disiplinle korunur.
 ### Cards
 - strength
 - nine-of-wands
+
+### Arka Plan
+
+Güç + Asaların Dokuzlusu — 'dayanıklılık + son savunma' ikilisi: dokuz asanın 'son direnç' figürüyle Güç'ün 'nazik kuvvet' — 'son enerjini nazikçe harca' mesajı; 'yorgun ama dimdik' figürü.

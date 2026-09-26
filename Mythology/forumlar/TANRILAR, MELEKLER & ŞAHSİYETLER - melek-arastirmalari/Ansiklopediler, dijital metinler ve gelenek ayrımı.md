@@ -9,3 +9,7 @@ Britannica, Jewish Encyclopedia, Encyclopaedia Iranica, Stanford Encyclopedia ve
 - jewish-encyclopedia-angelology
 - iranica-amesha-spenta
 - stanford-pseudo-dionysius
+
+### Arka Plan
+
+Kaynak ayrımı — 'ansiklopedi' 'dijital' 'gelenek' üç katman: 'Britannica' 'İranica' 'Jewish Encyclopedia' 'akademik' 'gelenek' 'ayrımı'; 'kaynak = güven' figürü.

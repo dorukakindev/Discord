@@ -6,3 +6,7 @@
 Meleklerin görünür suretleri ile maddi beden varsayımı arasındaki ayrımı kurmak için kullanıldı.
 
 -# Kaynaklar: https://www.newadvent.org/summa/1051.htm
+
+### Arka Plan
+
+Aquinas Q51 — 'beden' figürü: 'Aquinas' 'Q51' 'melek' 'beden' 'ilişki'; 'Q51 = beden' figürü.

@@ -8,3 +8,7 @@
 - quran-96-18
 - quran-74-30-31
 - britannica-angel-demon-world-religions
+
+### Arka Plan
+
+Hell-matrix — 'matris' figürü: 'hell' 'wardens' 'cehennem' 'bekçi' 'matrisi'; 'matrix = sistem' figürü.

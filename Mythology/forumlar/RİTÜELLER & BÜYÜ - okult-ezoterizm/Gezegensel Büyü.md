@@ -10,3 +10,7 @@ Gezegensel büyü, Mars, Venüs, Jüpiter gibi gezegen ilke ve saatlerine göre 
 - Talisman
 - Astroloji
 - Correspondence
+
+### Arka Plan
+
+Gezegensel büyü — 'yedi klasik gezegen'in saat-gün-tılsım eşleşmesi: her gezegenin 'günü' ve 'saati' hesabı; 'doğru zaman = doğru güç' doktrini. 'Kronometrik büyü' olarak 'takvim + melek' sentezi.

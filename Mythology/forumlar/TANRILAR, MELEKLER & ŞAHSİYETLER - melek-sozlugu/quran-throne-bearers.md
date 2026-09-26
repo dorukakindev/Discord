@@ -8,3 +8,7 @@ Kur'an 40:7 ve 69:17: Arşı taşıyanlar
 - quran-40-7
 - quran-69-17
 -# Çapraz: Hamalat al-Arsh · Arş · Kıyamet · Tesbih
+
+### Arka Plan
+
+Kur'an-taht — 'taşıyan' figürü: 'Kur'an' 'taht' 'taşıyan' 'melekleri'; 'taht = ağır' figürü.

@@ -18,3 +18,7 @@ Bu varlık, undead kategorisinin ayrı filtrelenebilmesi için ansiklopediye ekl
 - Şekil bozma
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/8/85/G%C3%BBlyabani.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Gulyabani (ghoul + bayan 'alıkoyan' olarak Türk halk anlatısına girer), Arap-Türk mezarlık-canavarı: ceset yiyen, yolcu kandıran çirkin dev-kadın; çoğu anlatıda kaftanlı, sarıklı, uzun saçlı. Orta Asya-Anadolu kesişiminde 'kaybolmuş yolcu' anlatısının figürü. Türk çocuk korkusunun 'uyarı sistemi' — gece dışarıda kalma uyarısı olarak pedagogik işlev görür.

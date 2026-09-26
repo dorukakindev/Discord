@@ -6,3 +6,7 @@
 78 günlük plan, günlük çalışma ve öğrenme drillleri için pedagojik omurga.
 
 -# Kaynaklar: https://search.worldcat.org/es/title/big-book-of-tarot-how-to-interpret-the-cards-and-work-with-tarot-spreads-for-personal-growth/oclc/1051669237
+
+### Arka Plan
+
+Big Book — 'büyük' figürü: 'tarot' 'büyük' 'rehberi'; 'big = kapsamlı' figürü.

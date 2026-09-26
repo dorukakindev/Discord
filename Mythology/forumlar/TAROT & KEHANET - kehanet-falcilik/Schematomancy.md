@@ -11,3 +11,7 @@ Uygulamada yüz hatları, göz yapısı, burun şekli, çene hatları, saç doku
 - Fiziksel gözlem
 - Fizyognomi bilgisi
 - Sembol sistemleri
+
+### Arka Plan
+
+Schematomancy — 'şekil okuması': cisimlerin, bulutların veya tesadüfi biçimlerin 'benzettikleri' ile kehanet (nephomancy ile akraba). 'İlahi rastlantı' ilkesiyle 'düzensiz şekillerden düzen çıkarma' — 'şekil = mesaj' kategorisinde sınırlı ama eski pratik.

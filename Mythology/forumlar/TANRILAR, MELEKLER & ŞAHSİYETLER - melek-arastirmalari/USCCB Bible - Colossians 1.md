@@ -10,3 +10,7 @@ Thrones, dominions, principalities ve powers adlarının Yeni Ahit kozmik güç 
 ![gorsel](https://bible.usccb.org/sites/default/files/usccb_logo_text.png)
 
 ![gorsel](https://bible.usccb.org/themes/custom/usccb_readings/images/share.jpg)
+
+### Arka Plan
+
+Colossians — 'taht' figürü: 'Colossians' '1' 'taht' 'hükümranlık' 'ayeti'; 'Colossians = taht' figürü.

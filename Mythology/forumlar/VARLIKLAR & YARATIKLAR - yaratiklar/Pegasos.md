@@ -20,3 +20,7 @@ Pegasos, Perseus'un Medusa'yı öldürdüğü anda kesilen boyundan fışkırara
 -# Çapraz: Medusa · Bellerophon · Zeus · Poseidon · Khimaira
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/3/35/Bellerophon_und_Pegasus_Relief_MK1888.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Pegasos, Medusa'nın kesilmesiyle boynundan doğan kanatlı at: Poseidon'un at-çocuğu; Bellerophontes onu Athena'nın altın gemiyle eğitir ve Chimaira'yı gökten vurur. Sonradan Zeus'un yıldırım-taşıyıcısı ve Hippocrene pınarının ayağıyla vurduğu ilham-kaynağı — 'şairin atı'. Güç-özgürlük-ilham üçlemesi; modern Yunan havayollarından Boeing logolarına taşınan figür.

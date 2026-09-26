@@ -8,3 +8,7 @@ Sunu alıcısı olarak kişinin ritüel varlığını ifade eder; n kꜣ n kalı
 ### Kaynak No
 - UCL Denderah translation
 - TLA lemma lists
+
+### Arka Plan
+
+Ka — 'yaşam' figürü: 'ka' 'yaşamsal' 'öz' 'ruh' 'figürü'; 'ka = yaşam' figürü.

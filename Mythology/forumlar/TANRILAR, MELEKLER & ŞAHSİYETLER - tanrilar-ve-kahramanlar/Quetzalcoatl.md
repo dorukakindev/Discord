@@ -24,3 +24,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Quetzalc%C3%B3atl_como_
 - İnsanlığın yaratılışı anlatıları
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg/960px-Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Quetzalcoatl — 'tüylü yılan': Toltek-Aztek 'rüzgar-bilgelik' tanrısı; 'Tula'nın kayıp kralı' ve 'geri dönecek' miti; 'rüzgar = nefes' figürü. 'Kuş-yılan' birleşimi — 'gök ve yeryüzü' köprüsü.

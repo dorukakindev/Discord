@@ -7,3 +7,7 @@ Sezgi çok güçlüdür ama henüz sis içindedir; bilgi rüya, beden ve sessizl
 ### Cards
 - high-priestess
 - moon
+
+### Arka Plan
+
+Başrahibe + Ay — 'gizli bilgi + yanılsama' ikilisi: iki 'ay' figürünün çift katmanı — 'sisin arkasındaki gerçek' ve 'sezginin dili'; 'bilinmeyeni onurlandır ama sisi dağıt' önermesi.

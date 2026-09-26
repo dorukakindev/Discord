@@ -4,3 +4,7 @@
 
 ### Not
 g değerini verir; kap ve sunu kaplarıyla görsel akrabalığı vardır.
+
+### Arka Plan
+
+Kavanoz altlığı — 'içki' figürü: 'altlık' (W10 'hnw') ve 'içki' determinatifi; 'kavanoz = içecek' olarak 'kap' sınıfı.

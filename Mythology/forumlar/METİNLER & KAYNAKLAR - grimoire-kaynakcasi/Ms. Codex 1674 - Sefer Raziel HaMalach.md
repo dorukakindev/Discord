@@ -6,3 +6,7 @@
 - Raziel/angelology hattı
 - İlahi adlar ve invokasyonlar
 - Çok dilli aktarım
+
+### Arka Plan
+
+UPenn Ms. Codex 1674 — 'Raziel meleğinin kitabı': 'Sefer Raziel HaMalach' — 'sır meleği'nin Adem'e verdiği İbrani melek-kabala metni; melek hiyerarşisi, 'Semifor' (şem-ha-meforash = telaffuz edilemez isim) ve 'yaratım meleği' öğretisi. 'Gizli bilgelik' olarak 'yaratıcı kitap' sınıfı.

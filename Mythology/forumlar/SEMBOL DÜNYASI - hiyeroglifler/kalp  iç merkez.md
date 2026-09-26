@@ -8,3 +8,7 @@ Kalp hem bedensel organ hem düşünce/ahlaki merkez olarak çalışır; Book of
 ### Kaynak No
 - Book of the Dead context
 - TLA lemma lists
+
+### Arka Plan
+
+Kalp — 'ib' figürü: 'kalp' 'ib' 'iç' 'merkez' 'figürü'; 'kalp = merkez' figürü.

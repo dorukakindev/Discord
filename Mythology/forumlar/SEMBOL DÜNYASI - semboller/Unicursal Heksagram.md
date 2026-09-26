@@ -14,3 +14,7 @@ Unicursal heksagram iki ucgenin ust uste binmesiyle olusan klasik heksagramdan f
 -# Çapraz: Hexagram · Pentagram · Thelema
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Solid_unicursal_hexagram.svg/960px-Solid_unicursal_hexagram.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Unicursal hexagram — 'kesintisiz altı köşeli yıldız': iki üçgen yerine tek çizgiyle çizilen hexagram; Thelema'nın 'makro-mikro kozmos' sembolü. 'Unicursal' = 'tek geçişli' — Euler yolculuğu gibi başlangıca dönen yol; 'gök-yerin tek düğümü'. Kabala'nın 'tekliği' okumasıyla Crowley'nin sembolü.

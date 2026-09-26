@@ -10,3 +10,7 @@ Tarih anlatırken "tarot önce oyun ve koz sistemidir" cümlesini kurmak için k
 ### Kaynak No
 - britannica-tarot
 - yale-team-tarocchi
+
+### Arka Plan
+
+Trionfi — 'zafer' kartları: 'tarot' kelimesinin kökeni; 'trump' kartlarının İtalyan adı; 'trionfo = üstünlük' figürü.

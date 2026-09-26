@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde talisimatik kategorisinin ayrı filtrelene
 - Koruma
 - Bereket
 - Şifa
+
+### Arka Plan
+
+Tılsımlar — 'eşyalı-ama-yazılı' koruma: amulet'ten farklı olarak 'pasif taşınan' değil, 'aktif sözleşmeli' objeler; metin, mühür veya figürle 'görev' yüklenir. 'Tılsım = sözleşme' olarak koruyucu-büyü objesi; 'tılsım bozulursa güç kaçar' inancı. Hekate'nin 'anahtar'ı veya 'Salomon'un yüzüğü' sınıfı.

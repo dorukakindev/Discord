@@ -13,3 +13,7 @@ Malik ve cehennem bekçileri profili, doğrudan Kur'an/tefsir katmanına bağlan
 - quran-74-30-31
 - saet-islam-angels
 -# Çapraz: Malik · Zabaniyah · Cehennem bekçileri · Ahiret
+
+### Arka Plan
+
+Hell-wardens — 'bekçi' figürü: 'hell' 'wardens' 'Malik' 'cehennem' 'bekçi' 'zinciri'; 'wardens = bekçi' figürü.

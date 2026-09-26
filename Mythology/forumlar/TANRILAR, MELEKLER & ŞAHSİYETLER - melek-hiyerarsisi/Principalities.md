@@ -8,3 +8,7 @@
 - Kapı
 - Prenslik
 -# Çapraz: Anael · Haniel
+
+### Arka Plan
+
+Başkanlıklar — 'başkan' 'melek' 'ulus' 'figürü'; 'principality = ulus' figürü.

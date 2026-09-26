@@ -5,3 +5,7 @@
 ### Kaynak No
 - britannica-tarot
 - britishmuseum-tarot-term
+
+### Arka Plan
+
+Tarot-oracle — 'deste' figürü: 'tarot' '78' 'oracle' 'serbest' 'sistem'; 'oracle = serbest' figürü.

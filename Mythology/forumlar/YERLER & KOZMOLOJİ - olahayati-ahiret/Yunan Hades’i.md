@@ -29,3 +29,7 @@ Bu ölüm sonrası kaydı, limbo filtresinin gerçek örneklerle çalışması i
 
 ### Hiyerarşi
 - **Hades** — Summary: Yunan olum diyarinin ana govdesi.; Children: Asphodel Cayirlari — Siradan golge ruhlarin bulundugu alan. · Elysion — Erdemli ve kahraman ruhlarin odul alani. · Tartaros — Agir suclularin ve titanlarin ceza katmani.
+
+### Arka Plan
+
+Hades'in karanlık krallığı: beş nehir (Styx, Acheron, Cocytus, Lethe, Pyriphlegethon), Kerberos bekçi, Charon obolos alır. 'Görünmez' (A-ides) — adı söylenmez diyar; ölülerin 'solgun benzerlik'lerinin (eidōla) bulunduğu sessiz katman.

@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL system
 - Unicode Chapter 11
+
+### Arka Plan
+
+Fonogram — 'ses taşıyan resim': tek (uniliteral), iki (biliteral), üç (triliteral) sessiz gösterebilir; 'sesli harfler yazılmaz' kuralıyla 'iskelet yazısı' sistemi.

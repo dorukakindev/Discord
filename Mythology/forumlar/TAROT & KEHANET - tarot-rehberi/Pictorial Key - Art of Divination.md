@@ -6,3 +6,7 @@
 Yayılım yorumunda yöntem seçimini sade tutmak, kartları soru ve işlem sırasına bağlamak ve gereksiz ritüel karmaşasını azaltmak için kullanılır.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/pkt0306.htm
+
+### Arka Plan
+
+Art of Divination — 'sanat' figürü: 'Pictorial Key' 'kehanet' 'sanatı'; 'art = pratik' figürü.

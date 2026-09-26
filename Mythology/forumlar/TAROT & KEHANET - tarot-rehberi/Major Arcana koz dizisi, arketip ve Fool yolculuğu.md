@@ -9,3 +9,7 @@ Major Arcana tarihsel olarak koz kartlarıdır; modern yorumda ise bireysel dön
 - wikipedia-major
 - labyrinthos-meanings
 - worldcat-pollack-78
+
+### Arka Plan
+
+Major-Fool — 'yolculuk' figürü: 'Fool's Journey' '22' 'arketip' 'dizisi'; 'yolculuk = ruh' figürü.

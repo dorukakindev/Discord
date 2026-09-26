@@ -6,3 +6,7 @@
 Gabriel'in Yahudi apokaliptik ve rabbanî bağlamdaki açıklayıcı/kuvvetli haberci profilini tamamlamak için kullanıldı.
 
 -# Kaynaklar: https://www.jewishencyclopedia.com/articles/6455-gabriel
+
+### Arka Plan
+
+Jewish Gabriel — 'güç' figürü: 'Jewish' 'Gabriel' 'makalesi'; 'Gabriel = güç' figürü.

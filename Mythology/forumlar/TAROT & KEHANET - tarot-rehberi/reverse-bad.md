@@ -11,3 +11,7 @@ Ters kart enerji yönü, blokaj, içe dönüş, gecikme veya aşırılık olarak
 - labyrinthos-meanings
 - biddy-reversals
 - itf-code-ethics
+
+### Arka Plan
+
+Ters-kötü — 'yön' figürü: 'ters' 'kötü' 'değil' 'uyarısı'; 'ters = yön' pratiği.

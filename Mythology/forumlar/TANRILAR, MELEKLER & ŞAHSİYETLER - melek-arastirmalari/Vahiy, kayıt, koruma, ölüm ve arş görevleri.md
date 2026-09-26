@@ -9,3 +9,7 @@
 - quran-82-10-12
 - quran-40-7
 - quran-32-11
+
+### Arka Plan
+
+Beş görev — 'vahiy' 'kayıt' 'koruma' 'ölüm' 'arş' 'beş' 'görev' 'sınıfı'; 'görev = rol' figürü.

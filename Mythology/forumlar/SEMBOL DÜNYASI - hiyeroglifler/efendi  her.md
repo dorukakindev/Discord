@@ -4,3 +4,7 @@
 
 ### Not
 Unvanlarda, sahiplik ifadelerinde ve kraliyet sıfatlarında üretken bir işarettir.
+
+### Arka Plan
+
+Her — 'efendi' figürü: 'her' (D2 'hr') 'yüz' 'figürü' 'efendi' 'sahip' 'anlamı'; 'her = yüz' figürü.

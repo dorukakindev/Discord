@@ -10,3 +10,7 @@ Hermetik gelenekte melekler çoğunlukla gezegen, sefirah, yön, element ve ilah
 - Enochian Angels
 - Watchers
 - Sephirotic Archangels
+
+### Arka Plan
+
+Hermetik-Angeloloji — 'okült' 'melek' 'sistem' 'figürü'; 'hermetik = gizli' figürü.

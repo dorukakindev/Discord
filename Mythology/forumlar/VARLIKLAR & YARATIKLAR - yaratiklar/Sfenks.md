@@ -22,3 +22,7 @@ Mısır Sfenksi koruyucudur: dev Giza Sfenksi MÖ 2500'e tarihlenir, Kral Khafre
 -# Çapraz: Khafre · Oidipus · Thebai · Typhon · Ekhidna
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/c/c5/Egypt.Giza.Sphinx.01.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Sfenks, Mısır-Grek hattında iki farklı figür: Mısır'da aslan bedeniyle kraliyet-gücünün uykulu koruyucusu (Gize'deki Büyük Sfenks — Horus'un 'ufuktaki' sureti); Yunan'da kadın-başlı aslan-kanatlı 'bilmece soran' — Tebai'de 'sabah dört, öğlen iki, akşam üç ayaklı' bilmecesi; Oidipus çözünce kendini uçuruma atar. Doğu'da koruyucu, Batı'da kendi kendini yok eden soru figürü.

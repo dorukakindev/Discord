@@ -4,3 +4,7 @@
 
 ### Ayrıntı
 Mısır çevresindeki erken Semitik yazı deneyleri hiyerogliflerden esinlenen alfabe tartışmasına bağlanır.
+
+### Arka Plan
+
+Wadi el-Hol — 'alfabe' figürü: 'Wadi el-Hol' 'erken' 'alfabe' 'tartışması'; 'Wadi = erken' figürü.

@@ -6,3 +6,7 @@
 RWS, Marseille ve Thoth arasındaki görsel/okült farkı göster.
 
 -# Kaynaklar: https://hermetic.com/hermeneuticon/thoth-tarot
+
+### Arka Plan
+
+Thoth Tarot — 'deste' figürü: 'Hermetic Library' 'Thoth' 'destesi'; 'Thoth = okült' figürü.

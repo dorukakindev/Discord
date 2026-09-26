@@ -6,3 +6,7 @@
 - itf-code-ethics
 - tabi-aims-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Hukuk sınırı — 'sınır' figürü: 'hukuk' 'tavsiye' 'sınır' 'uyarısı'; 'hukuk = risk' pratiği.

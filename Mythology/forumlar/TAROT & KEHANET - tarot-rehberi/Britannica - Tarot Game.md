@@ -6,3 +6,7 @@
 Tarotun yalnızca fal değil, Avrupa oyun tarihi içinde de yaşayan bir yapı olduğunu anlatmak için kullanılır.
 
 -# Kaynaklar: https://www.britannica.com/topic/tarot-game
+
+### Arka Plan
+
+Tarot Game — 'oyun' figürü: 'tarot'un 'oyun' kökeni; 'game = başlangıç' pratiği.

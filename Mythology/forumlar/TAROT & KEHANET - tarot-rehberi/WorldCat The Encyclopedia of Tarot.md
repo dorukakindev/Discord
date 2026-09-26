@@ -6,3 +6,7 @@
 Kart profillerinde deste tarihi, görsel varyant ve kaynak bibliyografyası için ileri okuma katmanı.
 
 -# Kaynaklar: https://search.worldcat.org/title/The-encyclopedia-of-tarot/oclc/4037234
+
+### Arka Plan
+
+Encyclopedia of Tarot — 'ansiklopedi' figürü: 'tarot' 'ansiklopedi' 'referansı'; 'encyclopedia = toplu' figürü.

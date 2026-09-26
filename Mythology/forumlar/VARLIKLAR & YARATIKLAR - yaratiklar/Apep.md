@@ -18,3 +18,7 @@ Bu varlık, ejderha kategorisinin ayrı filtrelenebilmesi için ansiklopediye ek
 - Karanlık saldırı
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Apep_%28Deity%29.svg/960px-Apep_%28Deity%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Apep (Apofis), Mısır'ın kaos-yılanı: her gece güneş barkını yutmaya çalışan dev su yılanı, Ra'nın ebedi rakibi. Set bile ona karşı savaşır (barkın önünde kırmızı bıçak). 'Apep'in kitabı' günlük ayinde isminin yazılıp yakılmasıyla koruyucu büyü üretir. Kaosun 'kişi' haline geldiği en eski figürlerden — düzen ancak sürekli savaşla korunur doktrini.

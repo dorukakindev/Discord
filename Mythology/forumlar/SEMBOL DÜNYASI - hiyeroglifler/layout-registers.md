@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL temple reading
 - UCL art and script orientation
+
+### Arka Plan
+
+Layout-registers — 'düzen' figürü: 'layout' 'registers' 'düzen' 'kayıt' 'figürü'; 'layout = düzen' figürü.

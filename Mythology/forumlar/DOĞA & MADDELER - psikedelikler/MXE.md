@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Methoxetamine2DCSD.svg/
 Ketaminin daha uzun etkili araştırma kimyasalı akrabası; benzer bedenden kopuş ve derinlik hissi verir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Methoxetamine2DCSD.svg/960px-Methoxetamine2DCSD.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+MXE (Metoksetamin) — ketamin'in 'metoksi-etil' türevi: 'dissosiyatif' sınıfın 'araştırma' üyesi; 'uzun' ve 'derin' k-hole profili; 'm-ket' ismiyle.

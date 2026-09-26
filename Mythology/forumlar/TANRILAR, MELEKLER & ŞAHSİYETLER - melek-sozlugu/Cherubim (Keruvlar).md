@@ -11,3 +11,7 @@ Tanrı'nın tahtını ve kutsal mekânları koruyan, bilgelik dolu melek düzeni
 Cherubim, Hristiyan dokuz koroda birinci hiyerarşinin ikinci düzenidir. Tevrat'ta cennet bahçesinin kapısını ve Ahit Sandığı'nın üstünü koruyan kanatlı varlıklar olarak görünürler. Hezekiel vizyonunda dört yüzlü (insan, aslan, öküz, kartal), çok kanatlı kozmik varlıklardır. Derin bilgelik ve ilahi bilgiyle ilişkilendirilirler. Popüler sanattaki tombul bebek melek imgesiyle (putto) sıkça karıştırılırlar ama aslında görkemli ve heybetli koruyuculardır.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tetramorph_meteora.jpg/960px-Tetramorph_meteora.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Keruv — 'bilgi' meleği: 'tekerlek' ve 'göz' figürüyle 'her şeyi gören'; 'Ezekiel'in 'dört yüzlü' figürü (insan-aslan-öküz-kartal). 'Bebek değil' — 'dev' figürü.

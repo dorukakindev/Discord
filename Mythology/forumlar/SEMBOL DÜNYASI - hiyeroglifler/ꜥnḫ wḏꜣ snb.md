@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL Denderah translation
 - British Museum highlights
+
+### Arka Plan
+
+Ankh-udja-seneb — 'yaşam' figürü: 'ꜥnḫ wḏꜣ snb' 'yaşam' 'sağlık' 'formülü'; 'ankh = yaşam' figürü.

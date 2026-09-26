@@ -36,3 +36,7 @@ Frigg kaderiseverdir ve Baldur'un ölümünü önceden bilmesine rağmen önleye
 - Ökseotunun Laneti
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/2/2f/Frigg_by_Doepler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Frigg — Odin'in karısı ve 'bilge anne': 'bilen ama söylemeyen' figür; 'evin ve evliliğin' koruyucusu, 'dokuma' ve 'gökyüzü' bağlantısı (Fensalir 'sis salonu'). 'Baldur'un ölümü' mitinde 'yemin toplayan' olarak trajedi figürü.

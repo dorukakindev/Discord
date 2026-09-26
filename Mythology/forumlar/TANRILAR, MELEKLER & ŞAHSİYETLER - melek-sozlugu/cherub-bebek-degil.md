@@ -6,3 +6,7 @@ Cherubim, resimlerdeki tombul bebek meleklerdir.
 
 ### Düzeltme
 Yanlış. Cherubim kutsal sınır, taht ve koruyucu varlıklarla ilişkilidir; bebek putto imgesi Rönesans sanat tarihinin ayrı bir görsel geleneğidir.
+
+### Arka Plan
+
+Cherub-bebek — 'bebek' figürü: 'cherub' 'bebek' 'değil' 'dev' 'uyarısı'; 'bebek = yanlış' figürü.

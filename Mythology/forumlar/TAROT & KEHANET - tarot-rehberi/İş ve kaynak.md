@@ -9,3 +9,7 @@
 - business
 - project
 - abundance
+
+### Arka Plan
+
+İş-kaynak — 'tılsım' ve 'asa' figürü: 'kaynak' ve 'üretim' ikilisi; 'iş = değer' pratiği.

@@ -15,3 +15,7 @@
 - Baldur
 - Loki (sürgüne kadar)
 -# Çapraz: Yggdrasil · Valhalla · Bifrost · Ragnarök · Odin · Einherjar
+
+### Arka Plan
+
+Æsir tanrılarının gökteki müstahkem diyarı: Odin'in tahtı Hlidskjalf, Valhalla (Einherjar'ın savaş salonu), Bifrost gökkuşağı köprüsüyle Midgard'a bağlanır. Yggdrasil'in dalları üstünde asılı; çevresi devlerle çevrili. Ragnarök'te yıkılır ama bir kısmı 'Gimlé'de' yeniden doğar. 'Tanrıların kalesi' olarak idil değil, sürekli savunma hattıdır — duvarını bir dev 'yalancı sözleşme'yle inşa eder.

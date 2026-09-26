@@ -6,3 +6,7 @@
 Sandalphon'un dua taşıyıcısı ve taç örme motifiyle bağlantısını açıklamak için kullanıldı.
 
 -# Kaynaklar: https://www.jewishencyclopedia.com/articles/13180-sandalphon
+
+### Arka Plan
+
+Jewish Sandalphon — 'ikiz' figürü: 'Jewish' 'Sandalphon' 'ikiz' 'makalesi'; 'Sandalphon = ikiz' figürü.

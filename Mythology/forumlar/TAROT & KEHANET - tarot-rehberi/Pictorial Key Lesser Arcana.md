@@ -6,3 +6,7 @@
 Minor kartların RWS anlam çekirdeğini destekle.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/pkt0302.htm
+
+### Arka Plan
+
+Lesser Arcana — 'Minor' figürü: 'Pictorial Key' 'Minor' 'anlam' 'bölümü'; 'Lesser = küçük' figürü.

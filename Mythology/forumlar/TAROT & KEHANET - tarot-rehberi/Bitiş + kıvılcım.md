@@ -6,3 +6,7 @@ Bir döngü kapanmadan yeni iradenin tam doğamayacağını, bırakıştan sonra
 ### Cards
 - Death
 - Ace of Wands
+
+### Arka Plan
+
+Bitiş-kıvılcım — 'On' ve 'As' figürü: 'son' ve 'başlangıç' ikilisi; 'bitiş = geçiş' pratiği.

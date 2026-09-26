@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde alkimik kategorisinin ayrı filtrelenebilm
 - Magnum Opus
 - Diyagram
 - Sembol meditasyonu
+
+### Arka Plan
+
+Transmutasyon — 'temel metalden altına': simyanın amacı; 'kurşundan altına' maddi süreç ve 'ruhtan ışığa' içsel süreç çift okuması. 'Solve et coagula' (çöz ve birleştir) işlemi — elementlerin döngüsel dönüşümü; 'taş' (philosopher's stone) aracı. Simya-metaphorsis'in 'saflaştırma' kalıbı.

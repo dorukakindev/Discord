@@ -14,3 +14,7 @@
 ### Kaynak No
 - itf-code-ethics
 - learntarot-course
+
+### Arka Plan
+
+Evet-hayır bağımlılığı — 'bağımlılık' figürü: 'evet-hayır' 'soru' 'bağımlılık' 'riski'; 'bağımlılık = zarar' pratiği.

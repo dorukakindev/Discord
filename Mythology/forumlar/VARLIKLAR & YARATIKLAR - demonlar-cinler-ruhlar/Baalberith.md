@@ -10,3 +10,7 @@ Baalberith, antik Berith kultlerinden tureyen ve demonoloji metinlerinde seytani
 - Antlasma
 - Ihanet
 - Yemin
+
+### Arka Plan
+
+Baalberith ('ahit efendisi'), Sichem'in Baal'ının adı; Berith olarak Ars Goetia'da 28. düke: zırhlı kırmızı asker, kızıl atlı, taçlı. Geçmiş-şimdi-gelecek söyler; metal simya ve 'asıl soyluluk' verir. Berith'e yalan söylemek yasak — 'sözü kesin' demon figürü. Sichem ahitinin tanrısından demon-liste üyesine düşüş.

@@ -33,3 +33,7 @@ Umay, ata ruhlarının ve yeni doğanların koruyucusudur. Özellikle çocuklar�
 - Şaman Ritüellerinde Görünme
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Orkhon.svg/960px-Orkhon.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Umay — Türk 'kadın-doğurganlık' tanrıçası: 'göklerin kadın efendisi', 'kayın ağacı' ve 'gümüş orman' figürü; 'çocukların koruyucusu' ve 'göçebe kadınlık' arketipi. 'Göğün kadını' olarak 'ülgen'in eşi/kızı figürü.

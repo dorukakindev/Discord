@@ -14,3 +14,7 @@
 - british-library-harley-5596
 - sacred-key-solomon
 - sacred-lesser-key
+
+### Arka Plan
+
+Solomonik büyü geleneğinin katmanları: Testament of Solomon (1-3. yy. — 'Süleyman'ın demonları nasıl bağladığı') → Hygromanteia (Bizans 'yaşayan kitap') → Clavicula Salomonis (Latin 'anahtar') → Lemegeton (İngiliz 'küçük anahtar') → The Magus ve modern derlemeler. 'Süleyman = büyü markası' olarak 'kral-bilge' figürünün 'yasa-tılsım' evrimi.

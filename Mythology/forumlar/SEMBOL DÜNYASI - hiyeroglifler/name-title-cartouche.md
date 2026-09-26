@@ -6,3 +6,7 @@
 - British Museum cartouches
 - Global Egyptian Museum cartouche
 - Penn Lintel E1823
+
+### Arka Plan
+
+Name-title — 'ad' figürü: 'name' 'title' 'cartouche' 'ad' 'unvan' 'figürü'; 'name = ad' figürü.

@@ -10,3 +10,7 @@ Abramelin sistemi, uzun hazırlık dönemi, ahlaki disiplin ve ardından yüksek
 - Kutsal Koruyucu Melek
 - Uzun Operasyon
 - Grimoire
+
+### Arka Plan
+
+Abramelin'in 'Kutsal Büyüsü' — 'koruyucu meleği tanıma' süreci: 6-18 ay inziva, 'Abramelin kareleri' (sator-rotas tipi kelime-kareler) ve 'gündelik dua' ile 'melek görüşmesi'. 'Süreç = hazırlık' doktrini; Crowley'nin 'güneş karesi' uyarlamasıyla modern 'teknik'.

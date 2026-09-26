@@ -6,3 +6,7 @@
 Michael, Gabriel ve diğer göksel güçlerin Doğu Hristiyan litürjik anılışını temsil etmek için kullanıldı.
 
 -# Kaynaklar: https://www.goarch.org/chapel/saints?contentid=273
+
+### Arka Plan
+
+Synaxis — 'ortak' figürü: 'Greek' 'Orthodox' 'Synaxis' 'başmelek' 'ortak' 'töreni'; 'synaxis = ortak' figürü.

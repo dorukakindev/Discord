@@ -14,3 +14,7 @@ Bu varlık, dev kategorisinin ayrı filtrelenebilmesi için ansiklopediye eklene
 - Dev beden
 - Eski çağ kudreti
 - Meleksi soy anlatısı
+
+### Arka Plan
+
+Nephilim, Eski Ahit'in muammalı figürleri: 'Tanrı oğullarının insan kızlarıyla birleşmesinden doğan devler/güçlüler' (Yaratılış 6:4). 'Dev' (gibborim) mi 'düşmüşler' (niphal - düşmek) mi tartışması eski. İkinci Tapınak edebiyatında (1 Enoch) gözcü meleklerin çocukları olarak günahın yayılmasına bağlanır. Tufan öncesi 'melez dev' kalıbı; İncil'deki ilk melez figürü.

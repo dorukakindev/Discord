@@ -14,3 +14,7 @@ Düşünce, ayrım, çatışma ve karar netliğini taşır; gölge tarafta keski
 - labyrinthos-meanings
 - learntarot-cards
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Hava-kılıç — 'zihin' figürü: 'kılıç' ve 'netlik' figürü; 'hava = düşünce' pratiği.

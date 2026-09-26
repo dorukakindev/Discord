@@ -16,3 +16,7 @@ Mısır yazısının kökleri geç dördüncü binyıla gider. Anıtsal hiyerogl
 - Unicode Extended-A
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%28Agen%29_Portrait_de_Joseph_Juste_Scaliger_-_Mus%C3%A9e_du_Louvre.jpg/960px-%28Agen%29_Portrait_de_Joseph_Juste_Scaliger_-_Mus%C3%A9e_du_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Naqada-Roma — 'kronoloji' figürü: 'Naqada' (MÖ ~4000) 'Roma' (MS ~400) 'Mısır' 'tarihi'; 'kronoloji = süre' figürü.

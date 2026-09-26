@@ -14,3 +14,7 @@ Mandragoras, Orta Cag ve erken modern donemde buyu bitkileri etrafinda olusan fo
 - Gece Rituelleri
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mandragoras_454_Dodoens_1583.png/960px-Mandragoras_454_Dodoens_1583.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Mandragoras (mandrağora), antik ve ortaçağ büyü-otoritelerinin 'insan bedeni kökü': çığlık atarak çekildiğinde duyanı öldürdüğüne inanılır — ip köpeğe bağlanıp onun çekmesi sağlanır. Afrodizyak, bereket ve 'adam otu' (adam's apple). Shakespeare'in 'mandrağora ağlaması' deyişiyle popülerleşti; yaşayan-kök figürü olarak halüsinogenle değil simgeselle çalışır.

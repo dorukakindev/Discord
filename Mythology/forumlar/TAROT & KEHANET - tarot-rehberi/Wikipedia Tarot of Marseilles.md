@@ -8,3 +8,7 @@ Marseille dosyasında yardımcı çerçeve olarak kullan.
 -# Kaynaklar: https://en.wikipedia.org/wiki/Tarot_of_Marseilles
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tarockspiel_1751_MHQ.jpg/960px-Tarockspiel_1751_MHQ.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+
+### Arka Plan
+
+Marseille — 'sayı' figürü: 'Fransız' 'standart' 'destesi'; 'Marseille = sayı' figürü.

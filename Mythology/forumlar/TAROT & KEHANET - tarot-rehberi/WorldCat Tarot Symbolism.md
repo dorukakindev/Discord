@@ -6,3 +6,7 @@
 Sembol aileleri ve ikonografi katmanı için bibliyografya.
 
 -# Kaynaklar: https://search.worldcat.org/nl/title/tarot-symbolism/oclc/14931590
+
+### Arka Plan
+
+Tarot Symbolism — 'sembol' figürü: 'tarot' 'sembol' 'anlamları'; 'symbolism = dil' figürü.

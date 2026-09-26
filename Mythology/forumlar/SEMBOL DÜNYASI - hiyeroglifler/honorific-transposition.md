@@ -5,3 +5,7 @@
 ### Kaynak No
 - Global Egyptian Museum cartouche
 - Penn Lintel E1823
+
+### Arka Plan
+
+Honorific — 'saygı' figürü: 'honorific' 'transposition' 'yer' 'değiştirme' 'kuralı'; 'honorific = saygı' figürü.

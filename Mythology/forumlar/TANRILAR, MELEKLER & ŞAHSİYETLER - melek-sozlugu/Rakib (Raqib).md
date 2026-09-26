@@ -7,3 +7,7 @@
 
 ### Kayıt
 Rakib, Kur'an'da insanın yanında bulunup söylediği her sözü gözetleyen ve anında kaydeden melek niteliğini ifade eder; çoğu zaman 'Atid' ile birlikte anılır. Kelime 'gözetleyici / nöbet tutan' anlamına gelir. Genellikle amel yazan Kiramen Katibin meleklerinin işlevsel bir görünümü olarak yorumlanır. İnsanın hiçbir söz ve eyleminin kayıtsız kalmadığı, sürekli ilahi gözetim altında olduğu fikrini vurgular; sorumluluk bilincini pekiştirir.
+
+### Arka Plan
+
+Rakib — 'yakın' 'izleyen': 'kaydetme' 'meleği' 'figürü'; 'yakın' 'gözetim' figürü.

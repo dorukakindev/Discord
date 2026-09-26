@@ -20,3 +20,7 @@ Medusa, başlangıçta ölümlü ve güzel bir kadındı; Poseidon'un Atena'nın
 -# Çapraz: Perseus · Atena · Poseidon · Pegasos · Stheno · Euryale
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Gorgona_pushkin.jpg/960px-Gorgona_pushkin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Medusa, üç Gorgon'dan tek ölümlü olan: Poseidon'un Athena tapınağında zorladığı genç kadın, ceza olarak yılan-saçlı, bakışı taş yapan surete çevrilir. Perseus aynalı kalkan ve Hermes'in kılıcıyla keser; boynundan Pegasus ve Chrysaor doğar. Athena kalkanın ortasına başını koyar — 'aegis'. Freud'dan feminist okumalara 'bakışın gücü/cezası' figürü.

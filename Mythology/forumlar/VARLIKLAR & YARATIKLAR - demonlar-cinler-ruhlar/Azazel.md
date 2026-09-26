@@ -19,3 +19,7 @@ Henok Kitabı'na göre Azazel, 200 düşmüş melekten birinin lideridir. İnsan
 - Gizli bilgileri aktarma
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Detail_of_East_Window%2C_Lincoln_Cathedral_%2814224253959%29.jpg/960px-Detail_of_East_Window%2C_Lincoln_Cathedral_%2814224253959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Azazel, İbrani 'çöl keçisi' ritüelinin figürü: Yom Kippur'da iki keçiden biri — 'Azazel için' — günahları yüklenip çöle salınır (Levililer 16). 1 Enoch'ta 'düşen gözcü' meleği: insanlığa silah, kozmetik ve büyü öğretir; ölüme mahkûm olarak çöle zincirlenir. İki gelenek birleştiğinde 'günah taşıyıcısı' = 'bilgi veren düşmüş melek' figürü.

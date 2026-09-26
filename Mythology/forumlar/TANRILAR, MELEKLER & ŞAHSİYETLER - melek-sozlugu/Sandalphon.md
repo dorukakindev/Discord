@@ -11,3 +11,7 @@ https://static.wikia.nocookie.net/mythology/images/0/0d/Sandalphon_by_Florence_F
 Sandalphon, Yahudi mistik geleneğinde insanların dualarını toplayıp çelenkler örerek Tanrı'ya ulaştırdığına inanılan melektir. Talmud'da boyu cennetten yere uzanan dev bir varlık olarak tasvir edilir. Kabala'da yaşam ağacının en alt sefirası Malkuth ile ilişkilendirilir ve göksel kâtip Metatron'un kardeşi sayılır. Bazı geleneklerde, ölmeden göğe alınıp meleğe dönüştürülen peygamber İlyas (Eliyahu) ile özdeşleştirilir; müzik ve göksel terennümle de bağlantılıdır.
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/0/0d/Sandalphon_by_Florence_Freeman.jpg/revision/latest/scale-to-width-down/600?cb=20250601191505)
+
+### Arka Plan
+
+Sandalphon — 'ikiz' melek: 'Metatron'un 'ikizi' 'figürü'; 'insan' 'dönüşmüş' 'melek' figürü.

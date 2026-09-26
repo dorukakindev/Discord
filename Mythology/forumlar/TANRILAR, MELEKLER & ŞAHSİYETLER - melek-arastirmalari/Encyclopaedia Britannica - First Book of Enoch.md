@@ -6,3 +6,7 @@
 1 Enoch'un Watchers anlatısındaki tarihsel konumunu ve kanon dışı/çeşitli geleneklerdeki statüsünü çerçevelemek için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/topic/First-Book-of-Enoch
+
+### Arka Plan
+
+Britannica Enoch — 'Henoch' figürü: 'Britannica' 'Henoch' 'ilk' 'kitap' 'makalesi'; 'Enoch = gözcü' figürü.

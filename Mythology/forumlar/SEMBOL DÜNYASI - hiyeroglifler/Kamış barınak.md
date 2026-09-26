@@ -4,3 +4,7 @@
 
 ### Not
 Basit h değeridir; ḥ, ḫ ve ẖ işaretleriyle karıştırılmamalıdır.
+
+### Arka Plan
+
+Kamış barınak — 'kulübe' figürü: 'barınak' (O4 'h') ve 'ev' determinatifi; 'ev = sığınak' olarak 'yer' sınıfı.

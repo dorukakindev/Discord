@@ -7,3 +7,7 @@ British Museum, Floransa minchiate oyunu için sarı ipek üzerine basılı 97 t
 ### Kaynak No
 - britishmuseum-minchiate-silk
 - wopc-minchiate-etruria
+
+### Arka Plan
+
+Minchiate — '97 kart' figürü: 'Floransa' 'geniş' destesi; 'minchiate = fazla' figürü.

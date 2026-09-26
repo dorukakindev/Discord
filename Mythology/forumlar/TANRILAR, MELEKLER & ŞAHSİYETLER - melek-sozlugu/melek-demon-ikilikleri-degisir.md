@@ -6,3 +6,7 @@ Melek/demon karşıtlığı bütün kültürlerde aynı çalışır.
 
 ### Düzeltme
 Yanlış. Zerdüşt daeva kavramı, İslami cin kategorisi ve Hristiyan düşmüş melek fikri farklı kozmolojilere aittir.
+
+### Arka Plan
+
+Melek-demon — 'ikilik' figürü: 'melek' 'demon' 'ikilik' 'değişim' 'figürü'; 'ikilik = değişken' figürü.

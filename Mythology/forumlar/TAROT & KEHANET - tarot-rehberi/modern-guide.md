@@ -9,3 +9,7 @@ Kart anlamı, ters kart dili, günlük çalışma ve kullanıcı dostu anlatım 
 - learntarot-course
 - labyrinthos-meanings
 - biddy-reversals
+
+### Arka Plan
+
+Modern rehber — 'çağdaş' okuma: 'Biddy', 'Labyrinthos' ve '78 Degrees' figürü; 'modern = psikoloji' katmanı.

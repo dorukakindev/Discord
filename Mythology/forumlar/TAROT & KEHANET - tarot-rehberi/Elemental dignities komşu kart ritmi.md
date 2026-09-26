@@ -9,3 +9,7 @@ Komşu kartlarda element uyumu, yayılımın hızını ve gerilim tipini açıkl
 - labyrinthos-meanings
 - learntarot-cards
 - worldcat-tarot-deciphered
+
+### Arka Plan
+
+Komşu kart ritmi — 'yan yana' etki: kartın 'element' komşusuyla 'güçlendirme' veya 'zayıflatma'; 'arkadaş-düşman' figürü.

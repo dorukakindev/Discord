@@ -11,3 +11,7 @@ Resimli Minor Arcana fikrinin RWSden önce de tarihsel örnekleri olduğunu gös
 - pinacoteca-sola-busca
 - britishmuseum-sola-busca
 - wikipedia-sola-busca
+
+### Arka Plan
+
+Sola Busca — 'İtalyan' deste: 'sahneli Minor' öncülü; 'RWS'nin ilhamı' olarak 'ilk resimli' deste.

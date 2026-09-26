@@ -6,3 +6,7 @@
 Eski popüler tarih/yorum dilini kaynak güven süzgecinden geçirmek için.
 
 -# Kaynaklar: https://search.worldcat.org/title/25847482
+
+### Arka Plan
+
+Origin-Meaning-Uses — 'kaynak' figürü: 'köken' 'anlam' 'kullanım' 'üçlemesi'; 'origin = köken' figürü.

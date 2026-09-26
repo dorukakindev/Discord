@@ -14,3 +14,7 @@ Duygu, sezgi, akış ve bağ kurma kapasitesini taşır; ters konumda taşma, ku
 - labyrinthos-meanings
 - learntarot-cards
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Su-kupa — 'duygu' figürü: 'kupa' ve 'akış' figürü; 'su = duygu' pratiği.

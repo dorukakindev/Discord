@@ -11,3 +11,7 @@ Panelin varsayılan kart anlamı ve görsel okuma dili RWS odaklıdır.
 - whitney-rws-catalog
 - tarot-heritage-rws
 - vam-article
+
+### Arka Plan
+
+RWS — 'Rider-Waite-Smith': 'sahne' ve 'psikoloji' geleneği; 'Pamela Colman Smith'in 'Minor sahne' devrimi.

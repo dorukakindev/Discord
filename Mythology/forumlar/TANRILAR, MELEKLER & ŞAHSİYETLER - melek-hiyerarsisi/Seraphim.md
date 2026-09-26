@@ -12,3 +12,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bas_Relief%2C_Jerusalem
 -# Çapraz: Jehoel · Kemuel · Seraphiel
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bas_Relief%2C_Jerusalem_YMCA_%285503056704%29.jpg/960px-Bas_Relief%2C_Jerusalem_YMCA_%285503056704%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Serafim — 'yakan' 'melek' 'altı' 'kanat' 'figürü'; 'serafim = ateş' figürü.

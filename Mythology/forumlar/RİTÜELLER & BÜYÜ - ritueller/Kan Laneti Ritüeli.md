@@ -16,3 +16,7 @@ Bu kayıt, panelde zaten bulunan lanet filtresinin boş kalmaması için eklenmi
 - Kan yemini
 - Lanet sözü
 - Mühürleme
+
+### Arka Plan
+
+Kanlaneti (blood-curse) — 'kanla yapılan lanet': kan bağı veya kan dökümüyle pekiştirilen, 'yedi kuşak' veya 'soy tükenene dek' süren aile-lanetleri; 'kanın konuşması' kalıbı. 'Kan intikamı' (blood feud) geleneğiyle bağlantılı — Arnavut gjakmarrja, İzlandalı 'ættarspá'. Lanetin 'kanı' olarak taşınan vefa — 'suçu kanla ödeme' doktrini.

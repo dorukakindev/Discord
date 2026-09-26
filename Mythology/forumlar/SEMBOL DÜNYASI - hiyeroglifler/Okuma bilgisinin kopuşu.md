@@ -5,3 +5,7 @@
 ### Kaynak No
 - British Museum Rosetta
 - Unicode Chapter 11
+
+### Arka Plan
+
+Bilgi kopuşu — 'unutma' figürü: 'son' 'okuyan' 'kaybolması' 'süreci'; 'kopuş = kayıp' figürü.

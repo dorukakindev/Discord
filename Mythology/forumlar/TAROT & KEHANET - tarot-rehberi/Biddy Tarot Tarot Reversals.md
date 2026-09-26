@@ -6,3 +6,7 @@
 Ters kartları felaketçi olmayan dille yorumla.
 
 -# Kaynaklar: https://biddytarot.com/tarot-reversals/
+
+### Arka Plan
+
+Biddy Tarot Ters — 'ters' rehber: 'yön' ve 'gölge' figürü; 'ters = yön' pratiği.

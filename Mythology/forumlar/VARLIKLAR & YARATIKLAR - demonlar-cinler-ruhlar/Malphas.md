@@ -21,3 +21,7 @@ Malphas karga biçiminde tezahür eder. Güçlü kaleler inşa eder, taşımacı
 - Düşman planlarını ifşa etme
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/17/Malthas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Malphas, Ars Goetia'nın 39. başkanı: karga sesli karga, sonra insan. Kuleler ve kaleler inşa eder, düşmanların yapılarını yıkar; iyi familiarlar verir ama 'kurduğun kule'yi de yıkabilecek sadakatsizlik gösterir. 40 lejyon. 'İnşa-eden-ama-ihanet-eden' mimar demonu.

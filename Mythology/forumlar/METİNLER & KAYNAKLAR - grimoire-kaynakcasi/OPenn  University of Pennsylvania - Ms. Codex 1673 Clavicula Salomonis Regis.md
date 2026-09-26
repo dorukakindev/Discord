@@ -9,3 +9,7 @@ Key of Solomon kartını soyut 'klasik grimoire' olmaktan çıkarıp somut el ya
 
 -# Kaynaklar: https://www.openn.library.upenn.edu/Data/0002/html/mscodex1673.html
 -# Çapraz: key-of-solomon
+
+### Arka Plan
+
+UPenn OPenn'de Ms. Codex 1673 — 'Kral Süleyman'ın anahtarı' Latince nüsha; 'Regis' unvanlı versiyon. 'Süleyman'ın hükümdarlığı' üzerine 'doğru okuma' katmanı.

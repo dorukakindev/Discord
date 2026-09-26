@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL determinatives
 - UAX #57 current
+
+### Arka Plan
+
+Plant-tree — 'ağaç' figürü: 'plant' 'tree' 'ağaç' 'figürü'; 'tree = ağaç' figürü.

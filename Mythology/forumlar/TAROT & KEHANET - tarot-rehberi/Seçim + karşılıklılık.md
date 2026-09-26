@@ -6,3 +6,7 @@
 ### Cards
 - The Lovers
 - Two of Cups
+
+### Arka Plan
+
+Seçim-karşılıklılık — 'Aşıklar' ve 'Kupa İkilisi' figürü: 'seçim' ve 'uyum' ikilisi; 'seçim = karşılıklı' pratiği.

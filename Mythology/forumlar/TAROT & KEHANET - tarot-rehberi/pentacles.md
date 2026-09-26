@@ -28,3 +28,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pentacle_%28fixed_width
 - learntarot-cards
 - labyrinthos-meanings
 - worldcat-holistic-tarot
+
+### Arka Plan
+
+Tılsım serisi — toprak: 'madde' ve 'somut' figürü; 'para' ve 'güven' kartları.

@@ -9,3 +9,7 @@ Tarot sayfasının güvenilir olması için müze/ansiklopedi kaynakları tarihs
 - met-article
 - sacred-texts-pkt-intro
 - worldcat-wicked-pack
+
+### Arka Plan
+
+Kaynak etiği — 'raf' figürü: 'tarih' 'okült' 'modern' 'ayrı' 'raflar'; 'raf = ayrım' pratiği.

@@ -12,3 +12,7 @@ Okumadan önce soru tek cümleye indirilir: konu, zaman ufku ve kullanıcının 
 - tabi-aims-ethics
 - itf-code-ethics
 - tarot-com-spreads
+
+### Arka Plan
+
+Soru sözleşmesi — 'daraltma' figürü: 'soru' 'alan' 'daraltma' 'ilkesi'; 'daralt = odak' pratiği.

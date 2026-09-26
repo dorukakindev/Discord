@@ -16,3 +16,7 @@ Dominions, Virtues, Powers ve Principalities Hristiyan dokuz koro modelinde kozm
 - aquinas-angelic-orders
 - ccel-celestial-hierarchy-ch9
 - esoteric-archives-agrippa-book3
+
+### Arka Plan
+
+Kozmik-yönetim — 'düzen' 'melek' 'yönetim' 'aktarım' 'figürü'; 'kozmik = düzen' figürü.

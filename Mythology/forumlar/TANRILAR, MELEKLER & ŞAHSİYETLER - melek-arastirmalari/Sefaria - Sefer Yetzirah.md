@@ -8,3 +8,7 @@ Harf, yaratılış ve kozmik düzen düşüncesinin Kabala angelolojisine nasıl
 -# Kaynaklar: https://www.sefaria.org/Sefer_Yetzirah?lang=en
 
 ![gorsel](https://www.sefaria.org/api/img-gen/Sefer_Yetzirah?lang=en&platform=facebook&ven=&vhe=)
+
+### Arka Plan
+
+Sefaria Yetzirah — 'oluşum' figürü: 'Sefaria' 'Yetzirah' 'oluşum' 'metni'; 'Yetzirah = oluşum' figürü.

@@ -7,3 +7,7 @@ Değer seçimi ilişki karşılıklılığıyla buluşur; kalp ve etik aynı mas
 ### Cards
 - lovers
 - two-of-cups
+
+### Arka Plan
+
+Aşıklar + Kupaların İkilisi — 'seçim + karşılıklılık' ikilisi: iki kupanın 'değişim' jestiyle 'karşılıklı seçim' mesajı; 'evet' kartı olarak en güçlü 'aşk' kombinasyonu — 'seçilen ve seçen' birleşimi.

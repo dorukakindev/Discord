@@ -6,3 +6,7 @@
 Tarihsel çerçevede kartların önce oyun ve koz sistemi olduğunu, kehanet katmanının daha sonra güçlendiğini belirtmek için kullanılır.
 
 -# Kaynaklar: https://www.britannica.com/topic/tarot
+
+### Arka Plan
+
+Britannica — 'ansiklopedi' figürü: 'tarot' 'oyun' ve 'kehanet' ayrımı; 'referans' katmanı.

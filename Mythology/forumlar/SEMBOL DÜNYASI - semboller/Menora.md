@@ -10,3 +10,7 @@ Menora Ibrani Kutsal Metinlerinde Tapinakta kullanilan yedi kollu kandil olarak 
 - Yahudi kimlik sembolizmi
 - Tarihsel arma kullanimi
 -# Çapraz: Davut Yildizi · Hanukkiya · Tapinak gelenegi
+
+### Arka Plan
+
+Menora (מנורה) — 'yedi kollu şamdan': Tapınak'ın altın şamdanı; yedi kol 'yaratılışın yedi günü', orta 'şamash' hizmetkâr kolu. Exile'dan Knesset'e — İsrail'in resmi sembolü; 'ışık = Tora' metaforu. Hanukkiyah (dokuz kol) ayrı — menora yedi kolludur; 'kandilli bilgi' sembolü.

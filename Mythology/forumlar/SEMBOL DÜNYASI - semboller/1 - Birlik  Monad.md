@@ -26,3 +26,7 @@ Bir, sayı sembolizminin en yalın ama en yoğun işaretidir: başlangıç, merk
 - merkez
 
 -# Kaynaklar: https://www.britannica.com/topic/number-symbolism
+
+### Arka Plan
+
+Monad ('birlik'), Pythagorasçılık ve neoplatonizmin 'kaynak-bir' figürü: her şeyin çıktığı, çoğalttığı ve geri döndüğü saf birlik; nokta ve daire simgesi. 'Hen' (Plotinos) olarak her şeyin ötesi ama her şeyin babası — 'bir olan çok' paradoksu. Sayı değil prensip: 1'in çizimi dikey çizgi — başlangıç ve eksen.

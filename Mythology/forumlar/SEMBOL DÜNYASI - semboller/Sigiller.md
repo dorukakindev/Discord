@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde talisimatik kategorisinin ayrı filtrelene
 - Niyet çalışması
 - Evokasyon
 - Koruma
+
+### Arka Plan
+
+Sigiller — 'imza-büyü': geometrik desenle 'adılanı' tutan sembol; Ars Goetia'da her ruhun kişisel sigili var. 'Sigil = adres' — zihin-imlemi olarak kullanılır; modern 'chaos magic' Austin Osman Spare'nin 'istenen sözcükten harf soyma' yöntemiyle yeniden doğdu. 'Soyut dilekçe' — bilinçli amaçla çizilen sihir.

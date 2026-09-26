@@ -19,3 +19,7 @@
 - Demeter
 - Dionysos
 -# Çapraz: Zeus · On İki Olimpos Tanrısı · Titanlar Savaşı · Ambrosia
+
+### Arka Plan
+
+Yunan tanrılarının evi: 2917m'lik Mytikas zirvesi — 'bulutların üstünde' taht; Zeus'un 'geniş gökten' bakışı. On iki Olymposlu'nun sarayı, Ganimed'in kupacılığı; 'Homerik saray' miti ile gerçek dağın sentezi — tırmanış rotasında mitolojinin fiziksel adresi.

@@ -14,3 +14,7 @@ RWS okumasında kartın küçük ayrıntıları yorumun parçasıdır: figür ne
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/1f/Arthur_Waite_Author.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 
 ![gorsel](https://tarot-heritage.com/wp-content/uploads/2011/07/hist42.jpg?w=108)
+
+### Arka Plan
+
+RWS-2 — 'sahne' figürü: 'Rider-Waite-Smith' 'üçlü' 'destesi'; 'RWS = sistem' figürü.

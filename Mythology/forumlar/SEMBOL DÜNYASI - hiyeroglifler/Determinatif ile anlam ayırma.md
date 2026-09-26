@@ -12,3 +12,7 @@
 - UCL determinatives
 - TLA lemma lists
 - Classifier study
+
+### Arka Plan
+
+Determinatif — 'sessiz sınıf': kelime sonunda 'okunmayan' işaret (adam, kadın, tanrı, su); 'determinatif = sözlük sınıfı' olarak 'anlam anahtarı'.

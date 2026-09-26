@@ -3,3 +3,7 @@
 > **Tür:** academy-project · **Odak:** Edfu tapınağı yazıtlarının çevirisi, notlandırması, dijital veri setleri ve Ptolemaik filoloji önemi
 
 -# Kaynaklar: https://adw-goe.de/en/research/completed-research-projects/academies-programme/the-inscriptions-of-the-ptolemaic-temple-of-edfu/
+
+### Arka Plan
+
+Göttingen Edfu — 'Ptolemaic' figürü: 'Göttingen' 'Edfu' 'Ptolemaic' 'yazıtları'; 'Edfu = geç' figürü.

@@ -13,3 +13,7 @@ Bu ölüm sonrası kaydı, yeniden-dogus filtresinin gerçek örneklerle çalı�
 ### Realms
 - Dünyevi yaşamlar
 - Ara durumlar
+
+### Arka Plan
+
+Yeniden doğuş döngüsü (samsara): ruh-bedenin ölümle bitmeyen yeniden doğuşu — karma birikimine göre insan, hayvan, ruh veya tanrı olarak dönüş. Hinduizm-Budizm-Jainizm-Sikhizm'de temel; 'kurtuluş' (moksha/nirvana) döngüden çıkmaktır. 'Ölüm kapısı değil koridor' — döngü düzeninde 'ölüm' bir geçiş adımı.

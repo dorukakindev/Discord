@@ -24,3 +24,7 @@ Simurg (Sîmurgh), Pers ve Türk mitolojisinin en yüce kuşudur; Alborz Dağı'
 -# Çapraz: Zal · Rüstem · Anka Kuşu · Fenghuang · Garuda
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Senmurv.svg/960px-Senmurv.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Simurg (Sīmurğ), İran mitolojisinin 'otuz kuş'un ötesindeki bilge varlığı: Zal'ı beyaz doğan çocuğu olarak büyüten dağ-anası; Şahname'de Rustem'in mentoru. 'Simurgh' metinlerde hem büyük hem mecazi — Attar'ın 'Kuşların Konferansı'nda si murgh = 'otuz kuş' (arayan kuşların kendisi) mistik çözümü. Fars edebiyatının en yoğun sembolü; Mısır phoenix'inden bağımsız İran yolu.

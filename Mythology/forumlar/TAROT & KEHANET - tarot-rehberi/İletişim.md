@@ -5,3 +5,7 @@ https://upload.wikimedia.org/wikipedia/commons/9/99/Stephen_Avenue_3.jpg?utm_sou
 > **Odak:** söz, suskunluk, mesaj, anlaşma ve yanlış okuma · **Öğüt Ekseni:** söylenmeyen ihtiyacı adlandır
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/9/99/Stephen_Avenue_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+İletişim okuması — 'kılıç' figürü: 'söz' ve 'netlik' figürü; 'iletişim = açıklık' pratiği.

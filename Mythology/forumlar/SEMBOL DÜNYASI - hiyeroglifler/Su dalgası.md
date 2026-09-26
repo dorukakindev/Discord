@@ -4,3 +4,7 @@
 
 ### Not
 n sesi verir; dalga biçimi nedeniyle görsel olarak kolay seçilir.
+
+### Arka Plan
+
+Su dalgası — 'su' figürü: 'dalgalar' (N35 'mw') ve 'su' determinatifi; 'dalga = akış' olarak 'su' sınıfı.

@@ -9,3 +9,7 @@ Zerdüşt kategorileri Avrupa angelolojisinin yerel kopyası değildir; Ahura Ma
 - iranica-fravashi
 - iranica-sraosha
 - avesta-yasna
+
+### Arka Plan
+
+İranî üçlü — 'Amesha Spenta' (yedi nitelik), 'Yazata' (tapınılan varlıklar) ve 'Fravashi' (ruh koruyucuları): Zerdüştlük'ün 'aracı varlık' üç katmanı; 'melek' değil 'nitelik' figürü.

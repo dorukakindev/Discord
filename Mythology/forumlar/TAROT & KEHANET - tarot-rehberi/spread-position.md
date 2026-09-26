@@ -10,3 +10,7 @@ Kart yorumunu önce pozisyona bağla, sonra kartın kendi sembolünü ekle.
 ### Kaynak No
 - sacred-texts-pkt-celtic
 - learntarot-course
+
+### Arka Plan
+
+Yayılım pozisyonu — 'kartın yeri': 'geçmiş-bugün-gelecek' veya 'soru-engel-sonuç' figürü; 'pozisyon = anlam' doktrini.

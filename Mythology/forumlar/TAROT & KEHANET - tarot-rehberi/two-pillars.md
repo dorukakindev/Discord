@@ -5,3 +5,7 @@
 Kutuplar, eşik bekçiliği, görünen ve saklı bilgi arasındaki kapıdır; okuma acele cevap değil derin dinleme ister.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+İki sütun — Başrahibe'nin Boaz-Jachin ikilisi: 'karanlık-ışık', 'pasif-aktif' ve 'gizli-açık' eşiği; 'Süleyman Tapınağı'nın giriş sütunları olarak 'ikilik kapısı'.

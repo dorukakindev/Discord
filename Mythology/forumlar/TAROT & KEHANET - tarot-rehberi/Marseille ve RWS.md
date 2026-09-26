@@ -5,3 +5,7 @@
 ### Kaynak No
 - ipcs-marseille-type1
 - whitney-rws-catalog
+
+### Arka Plan
+
+Marseille-RWS — 'fark' figürü: 'sayı' vs 'sahne' ikilisi; 'fark = dil' figürü.

@@ -9,3 +9,7 @@ Döngü, iniş-çıkış, kader ritmi ve kontrol edilemeyen zamanlamadır; insan
 -# Kaynaklar: https://www.britannica.com/topic/tarot
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg/960px-Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Çark — Kader Çarkı'nın merkezi: 'rota fortunae' ve üç figür (yükselen-düşen-sabit); 'dönen kader' olarak 'değişimin kendisi'.

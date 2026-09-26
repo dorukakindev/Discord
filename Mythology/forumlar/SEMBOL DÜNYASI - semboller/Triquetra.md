@@ -15,3 +15,7 @@ Triquetra, Kelt sanatında ve İrlanda el yazmalarında yaygın bir motiftir. Ke
 -# Çapraz: Triskelion · Üçlü Tanrıça · Teslis
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Coa_Illustration_Cross_Triquetra.svg/960px-Coa_Illustration_Cross_Triquetra.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Triquetra — 'üç köşeli sürekli düğüm': üç yaprak, tek çizgi — 'baba-oğul-ruh' veya 'yaşam-ölüm-yeniden doğuş'; 'triquetra' = 'üç köşeli'. Kelt ve erken Hristiyan İskandinav ortak mirası; 'sonsuz üçlü birlik' — 'Book of Kells'te süslemeden anahtar sembole yükseldi. 'Kesintisiz üçlü' olarak 'sürekli koruma' figürü.

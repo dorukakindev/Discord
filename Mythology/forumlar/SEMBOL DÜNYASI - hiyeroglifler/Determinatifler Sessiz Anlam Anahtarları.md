@@ -11,3 +11,7 @@ Determinatif, çoğu zaman okunmayan fakat kelimenin hangi anlam ailesine ait ol
 ### Kaynak No
 - UCL determinatives
 - UCL Anubis örneği
+
+### Arka Plan
+
+Determinatifler — 'sessiz sınıf': 'adam' (A1), 'kadın' (B1), 'tanrı' (C7), 'su' (N35) gibi kelime sonu işaretleri; 'okunmayan ama anlamı veren' katman — 'sözlüksüz okuma' mümkün kılan sistem.

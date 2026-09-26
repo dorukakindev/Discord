@@ -14,3 +14,7 @@ Raphael, Tobit anlatısı ve bazı ezoterik şifa eşleştirmeleri melekleri yal
 - usccb-tobit-12
 - je-raphael
 - catholic-encyclopedia-angels
+
+### Arka Plan
+
+Şifa-çözme — 'şifa' 'melek' 'onarım' 'bağ' 'çözme' 'figürü'; 'şifa = onarım' figürü.

@@ -7,3 +7,7 @@ Aşırı yük güvenlik kaygısıyla bırakılmaz; kişi hem yorulur hem tutunur
 ### Cards
 - ten-of-wands
 - four-of-pentacles
+
+### Arka Plan
+
+Asa On + Tılsım Dört — 'yük + tutunma' ikilisi: 'ağır yük' ve 'sıkı tutma' figürü; 'yük = sorumluluk' önermesi.

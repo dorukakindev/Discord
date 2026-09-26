@@ -8,3 +8,7 @@ Etteilla hattı tarotun 18. yüzyılda oyun masasından profesyonel kehanet prat
 - vam-article
 - wikipedia-etteilla
 - worldcat-wicked-pack
+
+### Arka Plan
+
+Etteilla profesyonel — 'dönüşüm' figürü: 'oyun'dan 'kehanet'e 'profesyonel' geçiş; 'Etteilla = dönüşüm' figürü.

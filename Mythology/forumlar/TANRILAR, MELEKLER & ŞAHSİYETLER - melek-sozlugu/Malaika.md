@@ -9,3 +9,7 @@
 - quran-2-97
 - saet-islam-angels
 -# Çapraz: Jibril · Mikail · Kiraman Katibin · Hafaza
+
+### Arka Plan
+
+Malaika — 'melek' kökü: Arapça 'ملائكة' 'melek' 'kelimesi'; 'malak' (mektuplaşan) 'kökü' figürü.

@@ -7,3 +7,7 @@ Karar kilidi, bakış açısı değişimi istemektedir; acele hamle yerine bilin
 ### Cards
 - hanged-man
 - two-of-swords
+
+### Arka Plan
+
+Asılan Adam + Kılıçların İkilisi — 'durma + çekişme' ikilisi: iki kılıçlı kör figürün 'dengeli kararsızlığı' ile asılı adamın 'tersten bakışı' birleşince 'acele etme, iki yönü de tut' mesajı; 'ikilemi çözmek için bakış açısını değiştir' önermesi.

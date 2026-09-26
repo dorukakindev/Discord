@@ -16,3 +16,7 @@ Hydra, Yunan mitolojisinin en inatçı canavarıdır: **kesilen her başın yeri
 ### Öne Çıkanlar
 - Lerna Hidrası (Yunan)
 -# Çapraz: Herakles · İolaos · Ekhidna · Typhon
+
+### Arka Plan
+
+Lerna Hidrası, Typhon-Echidna'nın çocuğu; Lerna bataklığında dokuz başlı (bir versiyonda yüz) su yılanı. Herakles'in ikinci görevi: kesilen her başın yerine iki çıkar — 'direniş kendi kendini besler' paradoksu. Iolaos'un meşaleyle kafaları dağlaması ölümlü-ölümsüz baş ayrımını bozar; ölümsüz baş kayaya gömülür. 'Sorun çözüldükçe çoğalan' mitin sistematik adı.

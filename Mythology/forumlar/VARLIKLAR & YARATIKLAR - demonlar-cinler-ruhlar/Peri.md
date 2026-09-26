@@ -31,3 +31,7 @@ Türk mitolojisinde de önemli bir yere sahip olan Periler, güzel, uçan kadın
 - Orta Asya
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/An_angel%2C_flying%2C_with_cup_and_wine_flask_%28FGA_F1937.7%29.jpg/960px-An_angel%2C_flying%2C_with_cup_and_wine_flask_%28FGA_F1937.7%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Peri, İran mitolojisinin kanatlı peri figürü: Cennetten kovulmuş ama cehennemle de savaşan ara-varlıklar; 'düşmüş ama masum' kategorisi. Şahname'de ve Aşk-ı Memnu masallarında güzel, nazik, merhametli ruhlar olarak belirir. Div'lerin (dev-figürleri) tersi — İran melek-estetiği; 'düşmüş ama masum' arketipi.

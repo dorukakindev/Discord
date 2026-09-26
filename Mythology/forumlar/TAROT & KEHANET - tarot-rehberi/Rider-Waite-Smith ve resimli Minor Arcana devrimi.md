@@ -9,3 +9,7 @@ RWS destesinin kalıcı etkisi yalnız Waitein okült metninden değil, Pamela C
 - vam-article
 - sacred-texts-pkt-index
 - wikipedia-smith
+
+### Arka Plan
+
+RWS devrim — 'sahne' figürü: 'resimli Minor' 'devrim' 'RWS'nin 'yeniliği'; 'devrim = sahne' figürü.

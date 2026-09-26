@@ -6,3 +6,7 @@
 Uriel'in ışık, açıklama ve apokrif geleneklerdeki yerini göstermek için kullanıldı.
 
 -# Kaynaklar: https://www.jewishencyclopedia.com/articles/14606-uriel
+
+### Arka Plan
+
+Jewish Uriel — 'ışık' figürü: 'Jewish' 'Uriel' 'ışık' 'makalesi'; 'Uriel = ışık' figürü.

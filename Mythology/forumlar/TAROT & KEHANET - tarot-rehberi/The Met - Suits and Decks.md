@@ -6,3 +6,7 @@
 78 kartlı tarot standardını tek doğal form gibi sunmamak ve kart ailesinin tarihsel çeşitliliğini göstermek için kullanılır.
 
 -# Kaynaklar: https://www.metmuseum.org/perspectives/suits-and-decks
+
+### Arka Plan
+
+Met suits — 'suit' figürü: 'Met' 'suit' 'deste' 'sergisi'; 'suit = seri' figürü.

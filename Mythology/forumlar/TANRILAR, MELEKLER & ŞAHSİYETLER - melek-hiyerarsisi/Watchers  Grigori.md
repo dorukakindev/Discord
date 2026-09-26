@@ -8,3 +8,7 @@
 - Yasak bilgi
 - Düşüş
 -# Çapraz: Azazel · Shemihazah · Raphael
+
+### Arka Plan
+
+Watchers — 'gözcü' 'melek' 'düşüş' 'figürü'; 'watcher = gözcü' figürü.

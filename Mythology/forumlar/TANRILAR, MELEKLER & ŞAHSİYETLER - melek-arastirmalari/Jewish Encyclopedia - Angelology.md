@@ -6,3 +6,7 @@
 Yahudi angelolojisinin dönemsel gelişimini, onlu melek listelerini, Metatron-Sandalphon ve Merkabah çevresini ayırmak için kullanıldı.
 
 -# Kaynaklar: https://www.jewishencyclopedia.com/articles/1521-angelology
+
+### Arka Plan
+
+Jewish Angelology — 'melek' figürü: 'Jewish' 'melek' 'bilim' 'makalesi'; 'angelology = bilim' figürü.

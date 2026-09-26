@@ -10,3 +10,7 @@ Khaibit, Ka ve Ba ile birlikte ruhsal bütünlüğün gölge yönünü temsil ed
 - Ba
 - Gölge
 - Mısır Ezoterizmi
+
+### Arka Plan
+
+Khaibit — 'gölge' (Mısır khaibit): 'beş parçalı insan' kavramında 'gölge' = 'koruyucu' ve 'taşıyıcı' — mumya gölgesi 'hayat'ın parçası; 'karanlık benlik' olarak 'gölgenin de adı var' doktrini.

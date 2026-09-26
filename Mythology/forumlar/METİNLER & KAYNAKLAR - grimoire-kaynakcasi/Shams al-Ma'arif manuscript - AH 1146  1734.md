@@ -6,3 +6,7 @@
 - Tarihli nüsha
 - Chester Beatty ve Khalili benzerleriyle karşılaştırma notu
 - İslamî tılsım/vefk geleneği
+
+### Arka Plan
+
+Shams al-Ma'arif ('İrfan Güneşi') — 13. yy. Ahmed al-Buni'nin Arapça büyü ansiklopedisi: 'hurûf' (harf-büyü), 'vefk' (sihirli kareler), melek isimleri ve 'esmaü'l-hüsna' 99 isimle tılsım. AH 1146/1734 tarihli nüsha — 'İslamî büyünün en etkili el kitabı' olarak Arap dünyasında 'yasaklı-ama-okunan' statü.

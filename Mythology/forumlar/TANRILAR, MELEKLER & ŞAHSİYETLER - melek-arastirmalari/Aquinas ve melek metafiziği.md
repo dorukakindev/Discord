@@ -8,3 +8,7 @@ Skolastik teoloji melekleri bilgi, bedenle ilişki, irade, hiyerarşi ve koruyuc
 - aquinas-angelic-orders
 - aquinas-angel-knowledge
 - aquinas-guardian-angels
+
+### Arka Plan
+
+Aquinas — 'melek' 'metafizik' figürü: 'Summa' 'melek' 'bilgi' 'beden' 'hiyerarşi' 'soruları'; 'Aquinas = sistem' figürü.

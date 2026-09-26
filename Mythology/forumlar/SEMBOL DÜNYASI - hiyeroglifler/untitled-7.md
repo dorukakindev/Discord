@@ -4,3 +4,7 @@
 
 ### Kaynak No
 - UCL system1
+
+### Arka Plan
+
+Fonetik tamamlayıcı — 'ses yankısı': çok sessizli işaretten sonra gelen tek sessiz, 'okunuşu tekrarlar'; 'tamamlayıcı = yönlendirme' olarak 'aynı ses iki kez' ilkesi.

@@ -8,3 +8,7 @@
 - quran-35-1
 - iranica-fravashi
 - esoteric-archives-key-solomon
+
+### Arka Plan
+
+Liturgy-art — 'sanat' figürü: 'liturgy' 'art' 'melek' 'sanat' 'matrisi'; 'art = sanat' figürü.

@@ -6,3 +6,7 @@
 Etteilla/cartomancy hattını tarotun oyun tarihinden ve RWS sembolizminden ayrı somut bir nesne örneğiyle açıkla.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/object/P_1982-U-4572-1-79
+
+### Arka Plan
+
+Grand Etteilla — 'Etteilla' figürü: 'Fransız' cartomancy; 'Etteilla = ilk' figürü.

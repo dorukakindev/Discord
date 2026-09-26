@@ -4,3 +4,7 @@
 
 ### Ayrıntı
 Hiyeroglif, demotik ve Yunanca üçlü yazımı çözülmenin ana karşılaştırma malzemesi olur.
+
+### Arka Plan
+
+Rosetta kararname — 'kararname' figürü: 'Rosetta' 'üç' 'dil' 'kararnamesi'; 'kararname = çokdilli' figürü.

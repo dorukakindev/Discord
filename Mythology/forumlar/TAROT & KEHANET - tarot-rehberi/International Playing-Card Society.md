@@ -6,3 +6,7 @@
 Marseille geleneğini RWSden ayırmak, koz sırası ve pip/court yapısını nesnel biçimde anlatmak için kullanılır.
 
 -# Kaynaklar: https://i-p-c-s.org/pattern/PS001.pdf
+
+### Arka Plan
+
+IPCS — 'oyun' figürü: 'kart' 'tarih' araştırması; 'IPCS = bilim' figürü.

@@ -9,3 +9,7 @@ Britannica, Fool kartının modern jokerin kökeni olmadığını açıkça ayı
 
 ### Kaynak No
 - britannica-tarot
+
+### Arka Plan
+
+Fool ve joker ilişkisi — 'doğrudan köken' değil 'paralel evrim': 'il matto' (deli) tarot destesinde 'oyun dışı' kart iken, joker 19. yy. Euchre oyununun 'best bower'ı olarak doğdu; ikisi 'sıfır' ve 'joker' kategorisiyle kesişir ama biri diğerinin atası değil. 'Yanlış köken' uyarısı.

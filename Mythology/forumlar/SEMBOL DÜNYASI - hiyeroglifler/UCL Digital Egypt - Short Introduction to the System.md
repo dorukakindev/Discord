@@ -3,3 +3,7 @@
 > **Tür:** university · **Odak:** Anubis örneği, fonetik tamamlayıcı ve blok estetiği
 
 -# Kaynaklar: https://www.ucl.ac.uk/museums-static/digitalegypt/writing/system1.html
+
+### Arka Plan
+
+UCL Intro — 'giriş' figürü: 'UCL' 'sistem' 'kısa' 'giriş'; 'intro = kısa' figürü.

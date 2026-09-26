@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tokyo_Sky_Tree_2012.JPG
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tokyo_Sky_Tree_2012.JPG/960px-Tokyo_Sky_Tree_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Kule (The Tower) — XVI numaralı kart: yıldırımla vurulan taç ve düşen figürler; 'ani çöküş', 'ego yıkımı' ve 'gerekli kırılma'; 'la maison dieu' (Tanrı evi) Marseille adıyla 'Babil Kulesi' figürü. 'Yıkım = arınma' paradoksu.

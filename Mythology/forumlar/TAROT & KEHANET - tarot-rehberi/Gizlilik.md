@@ -5,3 +5,7 @@
 ### Kaynak No
 - tabi-aims-ethics
 - itf-code-ethics
+
+### Arka Plan
+
+Gizlilik — 'sır' figürü: 'okuma' 'gizli' 'kalması' 'ilkesi'; 'gizlilik = sır' pratiği.

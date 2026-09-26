@@ -12,3 +12,7 @@ Harut ve Marut anlatısı Angeloloji sayfasında bulunmalı, ama büyü öğreti
 - britannica-harut-marut
 - saet-islam-angels
 -# Çapraz: Harut · Marut · Babil · Sihir · Sınama
+
+### Arka Plan
+
+Harut-boundary — 'sınır' figürü: 'Harut' 'Marut' 'sınır' 'zinciri'; 'Harut = sihir' figürü.

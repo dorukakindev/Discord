@@ -7,3 +7,7 @@
 - sacred-texts-pkt-major
 - worldcat-pollack-78
 - worldcat-greer-self
+
+### Arka Plan
+
+Güç (Strength) — VIII numaralı kart (Marseille'de XI): aslanı yumuşakça kapatan kadın figürü ve baş üstünde sonsuzluk; 'iç güç', 'nazik kuvvet' ve 'kontrolsüz değil kanallı' kuvvet; 'leo' atamasıyla 'aslan = tutku' dengesi.

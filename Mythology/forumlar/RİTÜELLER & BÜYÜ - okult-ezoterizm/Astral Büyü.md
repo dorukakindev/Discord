@@ -10,3 +10,7 @@ Astral büyü, astral beden kavramı ve katmanlı bilinçler teorisine dayanır.
 - Beden-dışı deneyim
 - Görselleme
 - İç yolculuk
+
+### Arka Plan
+
+Astral büyü — 'astral düzlem' kavramı (maddi dünyadan 'ince' katman): rüya, trans veya 'projeksiyon'la etki; 'astral beden' (subtle body) doktriniyle 'zihin-ruh' ayrımı. 'Büyü = niyetin taşınması' olarak 'mekânsız' kategori.

@@ -6,3 +6,7 @@
 Enochian çağrıların modern okült ve tarihsel bağlamda nasıl anlaşıldığını kısa ansiklopedik katmanla desteklemek için kullanıldı.
 
 -# Kaynaklar: https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/enochian-calls
+
+### Arka Plan
+
+Enochian Calls — 'çağrı' figürü: 'Encyclopedia' 'Enochian' 'çağrı' 'makalesi'; 'calls = çağrı' figürü.

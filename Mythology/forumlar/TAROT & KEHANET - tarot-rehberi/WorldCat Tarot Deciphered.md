@@ -6,3 +6,7 @@
 Sembol gözlemi, sahne okuma ve ezoterik fazlalığı kaynak sınırıyla ayırma için ileri kaynak.
 
 -# Kaynaklar: https://search.worldcat.org/title/1156385544
+
+### Arka Plan
+
+Tarot Deciphered — 'çözüm' figürü: 'tarot' 'şifre' 'çözümü'; 'deciphered = açık' figürü.

@@ -6,3 +6,7 @@
 Tarotun önce trick-taking oyun ve lüks kart nesnesi olduğunu, modern fal/okült katmanın geç oluştuğunu göstermek için kullan.
 
 -# Kaynaklar: https://www.metmuseum.org/exhibitions/listings/2016/world-in-play/exhibition-galleries
+
+### Arka Plan
+
+Met Visconti — 'saray' figürü: 'Met' 'Visconti-Sforza' 'sergisi'; 'Visconti = köken' figürü.

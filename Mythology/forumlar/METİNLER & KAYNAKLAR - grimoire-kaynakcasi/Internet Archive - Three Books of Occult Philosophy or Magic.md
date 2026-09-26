@@ -11,3 +11,7 @@ Agrippa'nın Rönesans kozmoloji/korrespondans sisteminin modern okur dolaşım�
 -# Çapraz: three-books-of-occult-philosophy · the-magus
 
 ![gorsel](https://archive.org/services/img/cu31924028928236/full/pct:300/0/default.jpg)
+
+### Arka Plan
+
+Agrippa'nın De occulta philosophia libri tres'i (1531-33) — Rönesans hermetizminin 'ansiklopedisi': doğal-tinsel-gök büyü üç katmanı, sayı-musıka-melek-tanrı adları. Trithemius'un öğrencisi olarak 'insanın kozmosu' tezi; 1651 İngilizce çevirisiyle 'occult' teriminin standart kaynağı.

@@ -12,3 +12,7 @@ Bu ölüm sonrası kaydı, limbo filtresinin gerçek örneklerle çalışması i
 
 ### Realms
 - Sınır alan
+
+### Arka Plan
+
+Vaftizsiz ölen bebeklerin 'limbus infantium' kavramı: resmi dogma olmayan 'doğal mutluluk' diyarı — ebedi ceza değil ama tam görüşsüz; modern teolojide 'Tanrı'nın merhameti' yorumuyla yumuşatıldı. 'Vaftiz bebekleri' sorunu — 2007'de Vatikan komisyonu limbo'yu 'muhtemel olmayan' diye nitelendirdi.

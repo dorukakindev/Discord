@@ -16,3 +16,7 @@ Context for Norse cult, ritual, and mythic function.
 - Davidson Gods and Myths of Northern Europe
 
 -# Kaynaklar: https://archive.org/search?query=title%3A%28Gods%20and%20Myths%20of%20Northern%20Europe%29%20Davidson
+
+### Arka Plan
+
+H.R. Ellis Davidson'ın 'Kuzey Avrupa Tanrıları ve Mitleri' (1964) — İskandinav mitolojisinin 'standart giriş'i; Odin'in 'savaş-şaman' figürü, Thor'un 'insan koruyucusu'. 'Hıristiyan öncesi' okuma klasiği.

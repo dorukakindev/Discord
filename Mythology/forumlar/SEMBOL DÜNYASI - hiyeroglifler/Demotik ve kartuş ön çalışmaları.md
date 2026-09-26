@@ -5,3 +5,7 @@
 ### Kaynak No
 - British Museum Rosetta
 - British Museum Eureka
+
+### Arka Plan
+
+Demotik-kartuş — 'Ptolemaios' ve 'Kleopatra' adlarının Demotik'te okunması; 'kartuş' çerçevesiyle 'kral adı'nın 'tanınması' yoluyla Champollion'un 'anahtar' çalışması.

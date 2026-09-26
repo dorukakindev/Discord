@@ -8,3 +8,7 @@ Tapınak ve kutsal yapı adlarında sık görülür; O grubu yapı işaretleriyl
 ### Kaynak No
 - TLA lemma lists
 - UCL determinatives
+
+### Arka Plan
+
+Enclosure — 'kurum' figürü: 'enclosure' 'tapınak' 'kurum' 'çevre' 'figürü'; 'enclosure = çevre' figürü.

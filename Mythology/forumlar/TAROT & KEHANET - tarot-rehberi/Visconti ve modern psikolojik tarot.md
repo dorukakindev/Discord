@@ -6,3 +6,7 @@
 - yale-team-tarocchi
 - morgan-collection
 - labyrinthos-meanings
+
+### Arka Plan
+
+Visconti-modern — 'köken' figürü: 'Visconti' 'modern' 'psikolojik' 'tarot' 'kökeni'; 'köken = tarih' figürü.

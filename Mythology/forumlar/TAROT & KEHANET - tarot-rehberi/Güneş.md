@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/960px-The_Sun_in_white_light.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Güneş (The Sun) — XIX numaralı kart: güneş altında çıplak çocuk ve beyaz at, arka planda ayçiçeği duvarı; 'başarı', 'açıklık' ve 'masumiyet'; 'en net kart' olarak 'görünür gerçek'. Marseille'de 'le soleil' — 'çocuk' figürü 'yeni benlik'.

@@ -9,3 +9,7 @@ Daniel 9: Gabriel'in açıklayıcı haberci rolü
 - je-gabriel
 - quran-2-97
 -# Çapraz: Gabriel · Vahiy · Açıklama · Rüya
+
+### Arka Plan
+
+Daniel-Gabriel — 'yorum' figürü: 'Daniel' 'Gabriel' 'yorum' 'zinciri'; 'yorum = açıklama' figürü.

@@ -5,3 +5,7 @@
 Waite ve Pamela Colman Smith geleneğinde kart görselleri yalnızca isim değil sahne, jest, yön, sayı ve küçük semboller üzerinden okunur.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
+
+### Arka Plan
+
+RWS sembolizm — 'sahne' figürü: 'Smith'in 'sanat' 'sembol' 'dili'; 'RWS = sembol' figürü.

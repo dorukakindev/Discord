@@ -20,3 +20,7 @@ Beelzebub, İncil'de İblislerin başı olarak Lucifer'den hemen sonra gelen iki
 - Adamları zincire vurma
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/b/bf/Beelzebub.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Beelzebub (Baal-zevuv, 'sineklerin efendisi'), Ekron'un tanrısı; İsrail polemiğinde 'sinek tanrısı' alayı. Yeni Ahit'te 'demonların prensi' — İsa'nın gücü ona bağlanınca 'ev bölünürse yıkılır' yanıtı gelir. Demonolojide Cehennem'in 'baş veziri' veya üçlü-kötü'nün bir üyesi (Lucifer-Beelzebub-Astaroth). Sinek-çağrıcı olarak da veba-cinleriyle ilişkilendirilir.

@@ -4,3 +4,7 @@
 
 ### Not
 Book of the Dead örneklerinde metin ve vinyetlerle birlikte görünür.
+
+### Arka Plan
+
+Kursif hiyeroglif — 'el yazısı' hiyeroglif: anıtsal çizimin 'hızlı' versiyonu; 'Book of the Dead' papirüslerinde 'vinyetli' akışkan çizim. 'Taş yazısının elle yazılması' kalıbı.

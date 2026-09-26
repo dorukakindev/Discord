@@ -28,3 +28,7 @@ Uriel kanonik statüsü değişken olan ama apokrif ve ezoterik geleneklerde gü
 - Jewish Encyclopedia: Angelology
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Uriel-_St_John%E2%80%99s_Church%2C_Warminster.jpg/960px-St._Uriel-_St_John%E2%80%99s_Church%2C_Warminster.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Uriel — 'ışık' 'melek' 'ateş' 'figürü'; 'Uriel = ışık' figürü.

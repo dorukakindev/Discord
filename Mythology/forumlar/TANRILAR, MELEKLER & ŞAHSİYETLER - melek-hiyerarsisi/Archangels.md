@@ -8,3 +8,7 @@
 - Mühür
 - Vahiy
 -# Çapraz: Michael · Gabriel · Raphael · Uriel · Jibril · Mikail
+
+### Arka Plan
+
+Başmelekler — 'üst' 'koro' 'büyük' 'görev' 'figürü'; 'başmelek = üst' figürü.

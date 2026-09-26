@@ -16,3 +16,7 @@
 ### Kaynak No
 - UCL language development
 - UCL hieratic
+
+### Arka Plan
+
+Late Egyptian — 'geç' figürü: 'Late' 'Egyptian' 'geç' 'Mısır' 'dili'; 'late = geç' figürü.

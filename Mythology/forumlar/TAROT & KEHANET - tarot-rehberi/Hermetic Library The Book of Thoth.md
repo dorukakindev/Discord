@@ -6,3 +6,7 @@
 RWS dışı okült ekol karşılaştırmasında Thoth çizgisini belirt.
 
 -# Kaynaklar: https://hermetic.com/crowley/book-of-thoth/index
+
+### Arka Plan
+
+Book of Thoth — 'metin' figürü: 'Hermetic Library' 'Thoth' 'metni'; 'Thoth = yoğun' figürü.

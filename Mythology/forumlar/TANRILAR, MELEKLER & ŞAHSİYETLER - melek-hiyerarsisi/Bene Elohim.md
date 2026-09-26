@@ -8,3 +8,7 @@
 - Mahkeme
 - Antik unvan
 -# Çapraz: Hofniel · Uriel
+
+### Arka Plan
+
+Bene Elohim — 'oğul' figürü: 'Bene' 'Elohim' 'Tanrı' 'oğul' 'figürü'; 'Bene = oğul' figürü.

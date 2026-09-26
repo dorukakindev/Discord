@@ -6,3 +6,7 @@
 Seraphim'in İbranice köken, ateşli varlık ve taht çevresi bağlamını Yahudi taraftan tamamlamak için kullanıldı.
 
 -# Kaynaklar: https://www.jewishencyclopedia.com/articles/13418-seraphim
+
+### Arka Plan
+
+Jewish Seraphim — 'yakan' figürü: 'Jewish' 'Serafim' 'yakan' 'makalesi'; 'Serafim = ateş' figürü.

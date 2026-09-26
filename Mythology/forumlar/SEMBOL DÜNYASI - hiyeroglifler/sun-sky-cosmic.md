@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL ideograms
 - PharaLex sign functions
+
+### Arka Plan
+
+Sun-sky — 'güneş' figürü: 'sun' 'sky' 'cosmic' 'güneş' 'gök' 'figürü'; 'sun = gök' figürü.

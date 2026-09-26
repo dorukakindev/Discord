@@ -3,3 +3,7 @@
 > **Tür:** database · **Odak:** Hiyeroglif/hiyeratik ve demotik lemma listeleri, sözcük türleri ve token sayıları
 
 -# Kaynaklar: https://tla.digital/info/lemma-lists?lang=en
+
+### Arka Plan
+
+TLA lemma — 'liste' figürü: 'TLA' 'lemma' 'listeleri'; 'lemma = kelime' figürü.

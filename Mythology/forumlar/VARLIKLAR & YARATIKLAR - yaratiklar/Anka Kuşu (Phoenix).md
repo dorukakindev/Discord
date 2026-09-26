@@ -27,3 +27,7 @@ Anka (Phoenix), Mısır'da *Bennu* adıyla bilinir; güneş tanrısı Ra'nın ku
 -# Çapraz: Ra · Bennu · Simurg · Fenghuang
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/960px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Anka/Simurg-Phoenix hattı Feniks mitinden İran Simurg'una uzanır. Herodot'un anlatısı: 500 yılda bir Mısır'a gelen, babasının bedenini mür ile sararak Heliopolis'e taşıyan kuş. Erken Hristiyanlık diriliş sembolü olarak aldı; Zerdüşt Simurg'u ise 'bilgi ağacı'ndaki bilge kuş — Rustem'in öğretmeni Zal'ı büyüten figür. Küllerinden doğuş, alevle arınma ve zamanın döngüselliği arketipi.

@@ -18,3 +18,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/14/Basilisk_aldrovandi.jpg?utm_
 -# Çapraz: Yılan · Horoz · Medusa
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/14/Basilisk_aldrovandi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Basilisk ('küçük kral'), horoz yumurtasından yılan/kurbağa tarafından kuluçkaya yatırılır ve yılanla horozun birleşimi olarak tasvir edilir; bakışı öldürür, kokusu zehirler. Çaresi: ayna (kendi bakışı) veya gelincik — karşıt zehir. Plinius'tan Orta Çağ bestiarilerine geçti; kobraların avlanışıyla esin kaynağı sayılır. Krallık tacı taşıyan 'küçük ölüm' figürü.

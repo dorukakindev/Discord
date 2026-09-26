@@ -6,3 +6,7 @@
 Günlük, kişisel entegrasyon ve Major Arcana gelişim haritası için bibliyografya.
 
 -# Kaynaklar: https://search.worldcat.org/title/Tarot-for-your-self-%3A-a-workbook-for-personal-transformation/oclc/11235635
+
+### Arka Plan
+
+Tarot for Self — 'kişisel' figürü: 'Greer'in 'kendin' 'tarot' 'rehberi'; 'self = kişisel' figürü.

@@ -8,3 +8,7 @@ prt-ḫrw ve mꜣꜥ-ḫrw kalıplarında ritüel sözün etkisini taşır.
 ### Kaynak No
 - UCL Denderah translation
 - TLA lemma lists
+
+### Arka Plan
+
+Ses-söz — 'voice' figürü: 'ses' 'söz' 'voice' 'figürü'; 'ses = söz' figürü.

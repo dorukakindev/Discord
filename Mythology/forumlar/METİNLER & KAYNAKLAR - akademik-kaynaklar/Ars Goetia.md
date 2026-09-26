@@ -10,3 +10,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Goetia_seal_of_solomon.
 - Goetia
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Goetia_seal_of_solomon.svg/960px-Goetia_seal_of_solomon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ars Goetia — Lemegeton'un ilk kitabı: '72 ruh' kataloğu (Bael'den Andromalius'a); her ruhun rütbesi, lejyonu, sigili ve işlevi. 'Süleyman'ın şeytan kayıtları' olarak demonolojinin 'standart adres defteri'.

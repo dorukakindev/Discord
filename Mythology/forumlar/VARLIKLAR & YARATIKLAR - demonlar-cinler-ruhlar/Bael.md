@@ -19,3 +19,7 @@ Bael, Cehennem'in ilk Kralı'dır ve 66 lejyon kumanda eder. Üç başlı; kedi,
 - Kayıp nesneleri bulma
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/4/44/Bael.jpg/revision/latest?cb=20200904081746)
+
+### Arka Plan
+
+Bael (Baël), Ars Goetia'nın 1. kralı: üç başlı (kedi, insan, kurbağa) veya hepsi birleşik; 66 lejyon komutanı. Görünmezlik bilgisi verir; konuşması kısık ama güçlü. 'Baal'ın demonolojik formu — tanrıdan şeytana dönüşümün tipik örneği. 'İlk çağrılan' olarak listede en önceki — gücü ve riski denk.

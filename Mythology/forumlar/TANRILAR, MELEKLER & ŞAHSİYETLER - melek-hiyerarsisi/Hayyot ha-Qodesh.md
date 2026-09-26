@@ -12,3 +12,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ezekiel-Vision-Merkaba.
 -# Çapraz: Metatron · Raziel · Galiẓur
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ezekiel-Vision-Merkaba.jpg/960px-Ezekiel-Vision-Merkaba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Hayyot — 'kutsal' 'hayvan' 'taht' 'taşıyıcı' 'figürü'; 'hayyot = hayvan' figürü.

@@ -9,3 +9,7 @@ Thoth Tarot RWSden farklı olarak Thelema, Hermetik Kabala, astroloji, mitoloji 
 - hermetic-thoth-atu
 - hermetic-thoth-overview
 - wikipedia-thoth
+
+### Arka Plan
+
+Thoth Crowley-Harris — 'okült' figürü: 'Crowley' 'Harris' 'sanat' 'sistemi'; 'Thoth = yoğun' figürü.

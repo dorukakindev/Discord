@@ -14,3 +14,7 @@ Hristiyan angelolojisinde melek düzenlerini litürjik ve hiyerarşik olarak sı
 -# Çapraz: Seraphim · Cherubim · Thrones · Dominions
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Evensong_in_York_Minster.jpg/960px-Evensong_in_York_Minster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Koro — 'dokuz' 'sınıf' 'melek' 'hiyerarşisi'; 'Pseudo-Dionysios'un 'üçlü' 'düzen' figürü.

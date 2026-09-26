@@ -11,3 +11,7 @@ Mısır anıtlarında yazı ve görüntü çoğu zaman aynı kompozisyonun iki d
 ### Kaynak No
 - UCL art and script
 - Met koleksiyon
+
+### Arka Plan
+
+Sanat-yazı — 'ortak' figürü: 'sanat' 'yazı' 'ortak' 'yüzey' 'ayrılmazlığı'; 'ortak = birlik' figürü.

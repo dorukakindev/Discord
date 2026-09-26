@@ -8,3 +8,7 @@ Doğruluk, düzen ve ilahi/kraliyet meşruiyeti alanını bağlar.
 ### Kaynak No
 - TLA lemma lists
 - British Museum highlights
+
+### Arka Plan
+
+Maat — 'düzen' figürü: 'maat' 'doğruluk' 'kozmik' 'düzen' 'figürü'; 'maat = düzen' figürü.

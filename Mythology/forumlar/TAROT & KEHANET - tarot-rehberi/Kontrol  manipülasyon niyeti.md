@@ -14,3 +14,7 @@
 - tabi-aims-ethics
 - tarosophy-code
 - itf-code-ethics
+
+### Arka Plan
+
+Kontrol niyeti — 'Şeytan' figürü: 'manipülasyon' ve 'bağlanma' figürü; 'kontrol = zincir' pratiği.

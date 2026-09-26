@@ -6,3 +6,7 @@
 - whitney-rws-catalog
 - pinacoteca-sola-busca
 - britishmuseum-sola-busca
+
+### Arka Plan
+
+RWS-Sola Busca — 'ilham' figürü: 'sahneli Minor' öncülü; 'Sola Busca = RWS'nin atası' figürü.

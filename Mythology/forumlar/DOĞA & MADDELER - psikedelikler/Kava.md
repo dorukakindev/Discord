@@ -11,3 +11,7 @@ Pasifik adalarının kavalakton içeren kök içeceği. Bilinci bulandırmadan d
 Fiji, Vanuatu, Tonga ve Samoa da kava töreni toplumsal ve dinsel hayatın merkezidir; tanrılara sunulan, şefler arasında barışı mühürleyen ve ata ruhlarıyla konuşma kapısı açan kutsal içkidir. Tanca ve yakona adlarıyla mitolojiye gömülüdür.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Starr_070515-7054_Piper_methysticum.jpg/960px-Starr_070515-7054_Piper_methysticum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Kava (Piper methysticum) — 'kava kava': Pasifik'in 'kavraton' içeren 'sosyal' bitkisi; 'GABA' etkisiyle 'alkolsüz' rahatlama; 'tonga' törenleriyle 'kültürel' sınıf.

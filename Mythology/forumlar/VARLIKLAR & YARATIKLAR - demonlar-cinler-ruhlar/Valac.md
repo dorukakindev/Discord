@@ -14,3 +14,7 @@ Valac, cogu tasvirde ejderha benzeri yaratik uzerinde gorunen kucuk bir figurdur
 - Yeralti
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Volac.png/960px-Volac.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Valac (Volac), Ars Goetia'nın 62. başkanı: kanatlı çocuk-figürü, ejderha binici. Gizli hazine ve 'yılanların nerede olduğu' bilgisini verir; 'sevimli çocuk yüzlü demon' kontrastıyla listedeki en anlaşılmazlardan. 30 lejyon. 'Masum surette hazine-keşfi' figürü.

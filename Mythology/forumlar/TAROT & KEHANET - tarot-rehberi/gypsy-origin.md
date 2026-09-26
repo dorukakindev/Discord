@@ -11,3 +11,7 @@ Tarotun belgelenebilir erken hattı İtalyan saray ve oyun kültürüdür; gezgi
 - britannica-tarot
 - yale-team-tarocchi
 - itf-code-ethics
+
+### Arka Plan
+
+Çingene kökeni — 'efsane' olarak '19. yy' romantizmi; 'gerçek' olarak 'İtalyan saray' figürü.

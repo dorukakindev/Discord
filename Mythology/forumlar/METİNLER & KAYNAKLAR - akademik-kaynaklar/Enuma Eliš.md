@@ -5,3 +5,7 @@
 ### Diğer Adlar
 - Enuma Elish
 - Babil Yaratılış Destanı
+
+### Arka Plan
+
+Enuma Elish — 'yukarıda söylendiğinde' (ilk iki kelime): Babil'in yaratılış destanı; Apsu-Tiamat'ın kesimi, Marduk'un 50 isimle kral oluşu. 'Yeni yıl' (Akitu) töreninde okunur — 'krallık miti'.

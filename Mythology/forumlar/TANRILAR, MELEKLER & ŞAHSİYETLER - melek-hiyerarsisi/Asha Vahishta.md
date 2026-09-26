@@ -21,3 +21,7 @@ Asha Vahishta, evrenin doğru düzeni ve hakikati temsil eden Amesha Spenta'dır
 
 ### Source refs
 - Britannica: Amesha Spenta
+
+### Arka Plan
+
+Asha Vahishta — 'doğruluk' figürü: 'Asha' 'doğruluk' 'Vahishta' 'en iyi' 'figürü'; 'Asha = doğruluk' figürü.

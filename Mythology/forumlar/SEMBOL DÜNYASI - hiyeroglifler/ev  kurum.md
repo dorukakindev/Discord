@@ -4,3 +4,7 @@
 
 ### Not
 Fiziksel evden tapınak, saray ve kurum adlarına kadar genişleyen bir işarettir.
+
+### Arka Plan
+
+Ev-kurum — 'kurum' figürü: 'ev' 'kurum' 'yer' 'figürü'; 'ev = yer' figürü.

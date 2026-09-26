@@ -6,3 +6,7 @@
 Kartları müze nesnesi, basılı eser ve divination equipment olarak takip et.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/term/x9500
+
+### Arka Plan
+
+Tarot term — 'terim' figürü: 'tarot' 'kelime' kökeni; 'term = tanım' pratiği.

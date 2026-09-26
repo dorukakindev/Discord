@@ -9,3 +9,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Ur
 -# Çapraz: Neolitik Devrim · Tarımın Kökeni · Stonehenge (karşılaştırmalı) · Urfa Adamı
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/960px-G%C3%B6bekli_Tepe%2C_Urfa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Şanlıurfa'nın tepesinde MÖ ~9500'de — tarımdan önce — dikilen T-biçimli taş sütunlar: dünyanın bilinen en eski tapınak kompleksi; henüz köy yokken toplanma ritüeli vardı. Vahşi hayvan kabartmaları (yılan, tilki, turna) ve maksimum 5.5m sütunlar. 'Önce tapınak, sonra şehir' paradigmasını tersine çeviren arkeolojik dönüm noktası.

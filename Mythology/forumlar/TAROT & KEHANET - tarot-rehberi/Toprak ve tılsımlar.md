@@ -14,3 +14,7 @@ Kaynak, beden, iş, emek, para ve kalıcılığı gösterir; ters konumda kıtl�
 - labyrinthos-meanings
 - learntarot-cards
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Toprak-tılsım — 'madde' figürü: 'tılsım' ve 'güven' figürü; 'toprak = somut' pratiği.

@@ -18,3 +18,7 @@ Bu varlık, sekil-degistiren kategorisinin ayrı filtrelenebilmesi için ansiklo
 - Deniz bağı
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/e/e1/Faroese_stamp_585_the_seal_woman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Selkie, İskoçya-Orkney fok-insanı: denizde fok, karada deri çıkarınca insan. Erkek selkie 'denizden koca' olarak gelir; kadın selkie'nin kürkü saklanırsa 'karısı' kalır — kürkü bulunca denize döner. 'Kürkün saklanması' miti evlilik-özgürlük paradoksunun klasik hali; hüzünlü-denetimsiz deniz sevgisi figürü.

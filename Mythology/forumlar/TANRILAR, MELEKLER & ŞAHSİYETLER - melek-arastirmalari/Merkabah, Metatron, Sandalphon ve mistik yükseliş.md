@@ -8,3 +8,7 @@ Throne-mysticism çevresinde göksel saraylar, taht yakınlığı, Metatron ve S
 - jewish-encyclopedia-angelology
 - je-metatron
 - je-sandalphon
+
+### Arka Plan
+
+Merkabah-yükseliş — 'mistik' figürü: 'Merkabah' 'Metatron' 'Sandalphon' 'yükseliş' 'zinciri'; 'yükseliş = merdiven' figürü.

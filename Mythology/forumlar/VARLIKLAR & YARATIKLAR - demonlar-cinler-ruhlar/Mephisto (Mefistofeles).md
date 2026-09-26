@@ -15,3 +15,7 @@ Mefistofeles, ilk olarak 16. yüzyıl Faust efsanelerinde ortaya çıkar. Goethe
 - Ruh karşılığı güç ve bilgi
 - Her formu alabilme
 - Zaman manipülasyonu
+
+### Arka Plan
+
+Mefistofeles, Faust efsanesinin demon-pazarlıkçısı: 'soğuk mizah' ve entelektüel kurnazlık — 'her şeyi inkâr eden ruh' (der Geist der stets verneint). Goethe'nin Faust'unda çağdaş bilgi-arzunun demon-avukatı; kanlı sözleşme, pelerin, zeki-maskara figürü. Alman rönesans büyü-hikâyesinden evrensel 'pazarlık' figürüne evrilen edebi-şeytan.

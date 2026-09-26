@@ -14,3 +14,7 @@ Saray, hiyerarşi, sorumluluk ve meşruiyet temasını taşır; court kartlarda 
 - met-article
 - yale-visconti
 - sacred-texts-pkt-major
+
+### Arka Plan
+
+Taç-taht — 'otorite' figürü: 'kral' ve 'taht' figürü; 'taç = sorumluluk' pratiği.

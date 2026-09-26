@@ -7,3 +7,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Anansi-34.png/960px-Ana
 Akan ve Karayip geleneklerinde örümcek-tanrı; bilgelik, hile ve hikaye anlatıcılığının patronu.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Anansi-34.png/960px-Anansi-34.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Anansi — Batı Afrika (Ashanti) örümcek hilebazı ve 'hikâye kralı': 'tüm hikâyelerin sahibi' olmak için Okyanus Krallığı'ndan 'altın tas'ı alır; 'Örümcek Adam' olarak Karayipler'de köle-hafızasının 'kültürel kaçış' figürü. 'Zeka = güç' kalıbı — 'zayıfın silahı'.

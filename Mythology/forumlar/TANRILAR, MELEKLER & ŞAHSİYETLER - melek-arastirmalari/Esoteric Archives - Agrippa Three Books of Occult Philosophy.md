@@ -6,3 +6,7 @@
 Rönesans okültizminde melek adlarının gezegenler, sayılar ve kozmik karşılıklıklarla nasıl tablolaştırıldığını göstermek için kullanıldı.
 
 -# Kaynaklar: https://www.esotericarchives.com/agrippa/
+
+### Arka Plan
+
+Agrippa — 'okült' figürü: 'Agrippa' 'üç' 'kitap' 'okült' 'felsefe'; 'Agrippa = sistem' figürü.

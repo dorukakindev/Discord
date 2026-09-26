@@ -6,3 +6,7 @@
 - hermetic-book-thoth
 - hermetic-thoth-overview
 - tarot-heritage-rws
+
+### Arka Plan
+
+Thoth-RWS — 'fark' figürü: 'Thoth' 'RWS' 'okült' 'sahne' 'ikilisi'; 'fark = dil' figürü.

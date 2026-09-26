@@ -12,3 +12,7 @@ Bu ölüm sonrası kaydı, araf filtresinin gerçek örneklerle çalışması i�
 
 ### Realms
 - Arınma alanı
+
+### Arka Plan
+
+Katolik ara-diyar: cehennemle cennet arası 'arıtılma' mekânı — ölümlü-günahsız ruhların 'temizlenme süresi'; Dante'nin Purgatorio'sunda dağ katmanları (seven kat — yedi ölümcül günah). 'Ceza değil tedavi' — iyileşme süresi olarak okunur.

@@ -10,3 +10,7 @@ LBRP, ritüel çalışma öncesi alanı arındırmak, zihni merkezlemek ve sembo
 - Banishing
 - Pentagram
 - Ritüel hazırlık
+
+### Arka Plan
+
+LBRP — 'küçük arıtma': 'Qabalistic Cross' + dört yönde pentagram çizimi + melek çağrısı; Golden Dawn'ın 'başlangıç dersi' — 'temiz alan' olarak günlük 'büyü hijyeni'.

@@ -6,3 +6,7 @@
 - Liber Piccatriciae başlığı
 - Magic ve astrology subject kayıtları
 - Dijital public-domain görüntüler
+
+### Arka Plan
+
+UPenn Ms. Codex 1678 — 'Picatrix' Latince nüsha: 'Ghāyat al-Ḥakīm' (Hedef-i Hakîm) Arapça-büyü metninin Latince 'Picatrix' çevirisi; gezegen-tılsım reçeteleri ve 'nüfuz isimleri'. 'Arap büyüsünün Avrupa tercümesi' — 'Picatrix' adı muhtemelen 'Hippocrates' veya 'Picatrix'ın yazarı'na atfen bozulmuş isim.

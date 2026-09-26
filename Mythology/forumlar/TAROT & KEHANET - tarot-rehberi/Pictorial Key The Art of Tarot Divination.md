@@ -6,3 +6,7 @@
 Yayılım metodolojisinde klasik prosedür katmanı olarak kullan.
 
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/pkt0306.htm
+
+### Arka Plan
+
+Art of Tarot — 'sanat' figürü: 'Pictorial Key' 'tarot' 'kehanet' 'sanatı'; 'art = pratik' figürü.

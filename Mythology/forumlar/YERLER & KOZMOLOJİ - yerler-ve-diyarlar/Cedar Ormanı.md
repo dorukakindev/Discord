@@ -9,3 +9,7 @@ Bu mekan kaydı, kutsal coğrafyanın kutsal-orman başlığı altında daha oku
 
 ### Diğer Adlar
 - Sedir Ormanı
+
+### Arka Plan
+
+Lübnan dağlarının kutsal sedirleri — Gılgamış destanında tanrıların koruduğu, Humbaba'nın beklediği orman. 'Tanrıların ormanı' cümlesiyle geçer; Gılgamış ve Enkidu'nun kesimi hem kahramanlık hem 'doğa koruma alanının ihlali' olarak okunur. Lübnan bayrağının sediri — yaşayan mit.

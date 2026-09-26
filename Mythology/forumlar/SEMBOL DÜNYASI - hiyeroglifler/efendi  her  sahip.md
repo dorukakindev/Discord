@@ -8,3 +8,7 @@ Kral ve tanrı epitetlerinde, sahiplik ifadelerinde ve 'her' anlamında görün�
 ### Kaynak No
 - TLA lemma lists
 - RAFFMA values
+
+### Arka Plan
+
+Her sahip — 'efendi' figürü: 'her' 'sahip' 'efendi' 'anlamı'; 'her = sahip' figürü.

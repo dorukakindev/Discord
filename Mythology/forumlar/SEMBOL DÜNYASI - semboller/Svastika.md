@@ -14,3 +14,7 @@ Svastika binlerce yildir Hinduizm, Budizm, Jainizm ve farkli Avrasya kulturlerin
 -# Çapraz: Gunes carki · Dharmacakra · Nazi sembolizmi baglami
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Four-swastika_collage_%28transparent%29.png/960px-Four-swastika_collage_%28transparent%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Svastika (卐) — 'iyilik işareti': Sanskrit 'su' (iyi) + 'asti' (olmak); dört kol güneş-dönüşü (sağa = gündoğusu, sola = gece). Hindu-Jain-Budist şans-ritüeli; 20. yüzyılda Nazi'lerin saat-yönü ters çevirmesiyle batıda 'kara miras' — 'bin yıllık kutsalın 25 yıllık gaspı'. 'Yön bilincinin simgesi' — aynı işaret, ters tarih.

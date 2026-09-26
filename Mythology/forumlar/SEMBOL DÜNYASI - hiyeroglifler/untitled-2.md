@@ -4,3 +4,7 @@
 
 ### Kaynak No
 - TLA text corpus
+
+### Arka Plan
+
+Metin-taşıyıcı katmanı — 'nesne = metin' ilkesi: aynı metin stel, papirüs, ostrakon veya duvarda farklı 'belge' sayılır; 'kopya ≠ orijinal' olarak TLA katalog mantığı — metin kimliği taşıyıcısıyla birlikte tanımlanır.

@@ -8,3 +8,7 @@ Tarot de Marseille geleneğinde pip kartlar RWS gibi ayrıntılı sahneler sunma
 - ipcs-marseille-type1
 - wikipedia-marseille
 - tarot-heritage-turning-points
+
+### Arka Plan
+
+Marseille — 'sayı' figürü: 'sahne' değil 'sayı' geleneği; 'Marseille = sayı' figürü.

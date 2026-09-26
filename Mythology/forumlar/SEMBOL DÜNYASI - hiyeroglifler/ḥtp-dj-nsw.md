@@ -6,3 +6,7 @@
 - UCL Denderah translation
 - Garstang htp-di-nsw
 - Thot htp-di-nsw
+
+### Arka Plan
+
+Htp-dj-nsw — 'sunu' figürü: 'htp-dj-nsw' 'sunu' 'formülü'; 'htp = sunu' figürü.

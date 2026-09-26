@@ -9,3 +9,7 @@ Bu mekan kaydı, kutsal coğrafyanın kutsal-nehir başlığı altında daha oku
 
 ### Diğer Adlar
 - Ürdün Nehri
+
+### Arka Plan
+
+İsrail'i vaftiz eden nehir: İsa'nın Yahya tarafından suya batırıldığı yer, Elişa'nın Naaman'ı cüzzamdan iyileştirdiği su, İsrailoğullarının 'hurma bahçesine' kuru yürüdüğü sınır. 'Ürdün' üç dinin de vaftiz-geçiş metaforu — suyun 'öteki tarafı' vaad edilmiş toprak.

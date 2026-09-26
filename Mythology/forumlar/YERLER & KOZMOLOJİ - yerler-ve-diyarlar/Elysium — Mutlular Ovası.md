@@ -15,3 +15,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/1d/Goethe_Elysium_crop.jpg?utm_
 -# Çapraz: Hades · Tartaros · Asphodel Çayırları · Rhadamanthos · Minos
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/1d/Goethe_Elysium_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Yunan 'mutlu öteki dünya': Hesiodos'ta 'kahramanlar için' Okeanos'un kıyısında 'hiç kar, hiç fırtına' diyarı; Rhadamanthys ve Cronos'un yönetimi. Erken kavram 'tanrısal seçilmişler' içindir; sonra Eleusis inisiyeleri ve 'iyi ölenler' için genişler. 'Hades'in beyaz bölgesi' — ölümden sonraki ödül modeli.

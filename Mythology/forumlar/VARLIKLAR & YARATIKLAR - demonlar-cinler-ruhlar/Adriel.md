@@ -4,3 +4,7 @@
 *One of the demonic rulers of the lunar mansions in Enochian demonology, with dominion over Alchil ("Crown of Scorpio").*
 
 According to Enochian and Jewish lore, Adriel ("Flock of God") is one of the Angels of Death, along with Azrael ("help of God"), Bebriel, and Hemeh. He is also one of the twenty-eight demonic rulers of the lunar mansions; he has dominion over Alchil ("Crown of Scorpio"). In the Enochian tradition, Adriel is a demon of the mansions of the moon. Adriel is also said to assist sailors and strengthen buildings (see ENOCHIAN RULERS OF THE LUNAR MANSIONS).
+
+### Arka Plan
+
+Adriel, bazı melek-demon listelerinde 'ölüm meleği' sınıfına yazılan figür — 'sürünün meleği' anlamı taşır. Ezechiel için 'gel'in meleği olarak anılır; murmur-meleklerinin (ölümün koridorundaki fısıltı) bekçisi sayılır. Ars Goetia dışı, 19. yüzyıl melek-hiyerarşi derlemelerinin parçası.

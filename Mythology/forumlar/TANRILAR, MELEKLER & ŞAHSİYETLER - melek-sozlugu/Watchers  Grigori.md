@@ -8,3 +8,7 @@
 - sacred-texts-book-of-enoch
 - britannica-book-of-enoch
 -# Çapraz: 1 Enoch · Azazel · Shemihazah · Düşüş
+
+### Arka Plan
+
+Watchers — 'Gözcüler': 'Henoch'un 'gözetleyen' 'melekleri'; 'düşüş' 'figürü'.

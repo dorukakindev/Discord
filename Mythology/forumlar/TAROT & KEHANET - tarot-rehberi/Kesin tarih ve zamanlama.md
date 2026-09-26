@@ -15,3 +15,7 @@
 - learntarot-course
 - tarot-com-spreads
 - labyrinthos-spreads
+
+### Arka Plan
+
+Kesin tarih — 'uyarı' figürü: 'kesin' 'tarih' 'verme' 'uyarısı'; 'kesin = risk' pratiği.

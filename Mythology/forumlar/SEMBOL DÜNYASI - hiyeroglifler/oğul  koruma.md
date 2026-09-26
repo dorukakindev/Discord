@@ -8,3 +8,7 @@ sꜣ-Rꜥ unvanında Ra'nın oğlu anlamını kurar; başka bağlamlarda koruma 
 ### Kaynak No
 - TLA lemma lists
 - Global Egyptian Museum cartouche
+
+### Arka Plan
+
+Oğul-koruma — 'sa' figürü: 'oğul' 'sa' 'koruma' 'figürü'; 'oğul = koruma' figürü.

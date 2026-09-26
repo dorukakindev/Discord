@@ -9,3 +9,7 @@ Bir yayılımda Minor kart yoğunluğu varsa büyük kader dili yerine gündelik
 - sacred-texts-pkt-lesser
 - learntarot-cards
 - labyrinthos-meanings
+
+### Arka Plan
+
+Dört suit — 'dört alan': asa 'iş/irade', kupa 'duygu/ilişki', kılıç 'zihin/gerçek', tılsım 'madde/somut'; 'element = bölge' doktrini.

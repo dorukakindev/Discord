@@ -3,3 +3,7 @@
 > **Tetikleyici:** minorCount > majorCount · **Soru:** Soyut kader dili yerine uygulanabilir adım, davranış ve küçük düzeltmeler öner.
 
 Minor kart çoğunluğu konunun pratik karar, alışkanlık ve günlük davranışlarla çözüleceğini gösterir.
+
+### Arka Plan
+
+Minor yoğunluğu — 'gündelik' kartların 'sıklığı': 'Minor > Major' figürü; 'küçük = sık' doktrini.

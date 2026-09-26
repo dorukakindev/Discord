@@ -17,3 +17,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ammit.svg/960px-Ammit.s
 -# Çapraz: Osiris · Anubis · Maat · Duat
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ammit.svg/960px-Ammit.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Ammit ('yutan'), Mısır ölü-yargısında kalbi Maat tüyünden ağır çıkanların başına gelen 'yok edici'dir: timsah başı, aslan ön gövdesi, su aygırı arka — üç yırtıcının birleşimi. Duat salonunda Osiris mahkemesinin yanında oturur; kalbi yutulan ruh 'ikinci ölüm'e gider, tümüyle silinir. Korku-figürü değil, evrensel adaletin mekanik parçası olarak okunur — 'günahsızlık ödülü değil, denge gereği'.

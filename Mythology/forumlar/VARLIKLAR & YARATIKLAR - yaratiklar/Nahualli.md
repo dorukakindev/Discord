@@ -18,3 +18,7 @@ Bu varlık, sekil-degistiren kategorisinin ayrı filtrelenebilmesi için ansiklo
 - Gece büyüsü
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Codex_Borgia_page_22.jpg/960px-Codex_Borgia_page_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Nahualli (nagual), Mezoamerikanın 'alter-ego' hayvan/ruh figürü: kişinin doğuştan bir hayvanla bağı; şaman (nahualli) insandan jaguar, puma veya kuş suretine geçebilir. Aztek rahip-büyücülerinin 'iki ruh' doktrini; insanın gölge-benliği. Kolonyal dönemde 'kötü büyücü' diye damgalandı ama aile 'koruyucu hayvan' halk anlayışı sürdü. Castaneda'nın Don Juan'ıyla popülerleşti.

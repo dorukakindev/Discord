@@ -6,3 +6,7 @@
 Pamela Colman Smith öncesi resimli pip kart geleneğini ayır.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/object/P_1845-0825-485
+
+### Arka Plan
+
+Sola Busca — 'İtalyan' figürü: 'sahneli Minor' öncülü; 'Sola Busca = RWS atası' figürü.

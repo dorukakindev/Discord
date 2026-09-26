@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL determinatives
 - British Museum Eureka
+
+### Arka Plan
+
+Determinatif — 'sessiz sınıf': kelime sonundaki okunmayan işaret 'anlam ailesini' verir; 'okunmayan = sözlük sınıfı' olarak 'kategori anahtarı'.

@@ -8,3 +8,7 @@
 ### Kaynak No
 - Garstang htp-di-nsw
 - TLA lemma lists
+
+### Arka Plan
+
+Hotep — 'huzur' figürü: 'hotep' 'sunu' 'huzur' 'figürü'; 'hotep = huzur' figürü.

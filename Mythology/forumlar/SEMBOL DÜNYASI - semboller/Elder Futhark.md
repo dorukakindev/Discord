@@ -15,3 +15,7 @@ Bu sembol kaydı, semboller panelinde runik kategorisinin ayrı filtrelenebilmes
 - Tılsım
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/2/29/Elder_futhark_inscriptions.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Elder Futhark — en eski Germen rün alfabesi (MS ~150-800): 24 harf; F-U-Þ-A-R-K açılışı. Üç 'aettir' (sekizlik gruplar) — Freyr, Hagal, Tyr aileleri. 'Yazı-büyü' olarak her harfin ses-anlam-sihir üçlüsü: Fehu 'mal', Uruz 'auroch', Thurisaz 'dev'. Odin'in 'rünleri öğrenmesi' miti Yggdrasil'de asılılığıyla bağlanır.

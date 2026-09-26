@@ -20,3 +20,7 @@
 - Amaterasu ile çatışma
 - Yamata no Orochi savaşı
 - Kusanagi kılıcını bulması
+
+### Arka Plan
+
+Susanoo — 'fırtına' tanrısı: Izanagi'nin 'yıkanmasıyla' doğan üçüncü çocuk (Amaterasu-Tsukuyomi-Susanoo); 'Amano-Iwato' (mağara) mitinginde Amaterasu'yu kışkırtması ve 'Yamata-no-Orochi'yi (sekiz başlı yılan) kesmesi. 'Kaos = değişim' figürü.

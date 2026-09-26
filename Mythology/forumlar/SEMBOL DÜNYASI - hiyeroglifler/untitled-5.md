@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL ideograms
 - Unicode Chapter 11
+
+### Arka Plan
+
+Logogram/ideogram — 'resim = sözcük': 'ev' resmi hem 'pr' sözcüğü hem 'pr' sesi olarak çalışır; 'resim değil, kelime' olarak 'ikonik yazı' katmanı. Bağlam + tamamlayıcı = doğru okuma.

@@ -3,3 +3,7 @@
 > **Tür:** academic · **Odak:** Geç dönem tapınak metinleri, kriptografi, ornamental yazı, grammaire du temple ve yorum yöntemleri
 
 -# Kaynaklar: https://academic.oup.com/edited-volume/34502/chapter/292772411
+
+### Arka Plan
+
+Oxford Ptolemaic — 'tapınak' figürü: 'Oxford' 'Ptolemaic' 'Roma' 'tapınak' 'metinleri'; 'Ptolemaic = geç' figürü.

@@ -10,3 +10,7 @@ Khanda, merkezde cift agizli kilic, cevresinde cakra ve iki yanda kirpan kilicla
 - Topluluk armalari
 - Dini kimlik temsili
 -# Çapraz: Ik Onkar · Cakra · Kirpan
+
+### Arka Plan
+
+Khanda (☬) — Sikh simgesi: ortada çift kenarlı kılıç (khanda), etrafında chakkar dairesi ve iki kirpan (savaş kılıcı) — 'tek Tanrı + adalet + ruhsal güç'. 'Kılıç-çember' sentezi: çember 'sonsuz birlik', kılıç 'hakikat için direnme'. Nishan Sahib bayrağında; 'ek onkar' (bir Tanrı) yazısıyla çift sembol.

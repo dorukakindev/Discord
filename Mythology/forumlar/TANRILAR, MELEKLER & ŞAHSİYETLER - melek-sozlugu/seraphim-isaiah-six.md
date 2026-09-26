@@ -9,3 +9,7 @@
 - je-seraphim
 - ccel-celestial-hierarchy-ch7
 -# Çapraz: Seraphim · Trisagion · Ateş · Arınma
+
+### Arka Plan
+
+Serafim-altı — 'altı' figürü: 'İşaya' 'altı' 'kanat' 'serafim' 'vizyonu'; 'altı = kanat' figürü.

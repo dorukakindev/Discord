@@ -9,3 +9,7 @@
 - health_rhythm
 - grief
 - decision
+
+### Arka Plan
+
+Öğrenme-ruh — 'eğitim' figürü: 'ruh' 'öğrenme' 'büyüme' 'figürü'; 'öğrenme = yol' figürü.

@@ -12,3 +12,7 @@
 - Unicode UAX #57 Latest - Unikemet
 - Unicode UCD Unikemet
 - JSesh
+
+### Arka Plan
+
+UnicodeMdC — 'kontrol' figürü: 'Unicode' 'MdC' 'aktarım' 'kontrolü'; 'kontrol = doğrulama' figürü.

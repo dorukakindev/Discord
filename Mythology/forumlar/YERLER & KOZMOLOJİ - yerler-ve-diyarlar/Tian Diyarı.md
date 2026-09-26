@@ -10,3 +10,7 @@ Bu mekan kaydı, kutsal coğrafyanın gokyuzu-diyar başlığı altında daha ok
 ### Diğer Adlar
 - Tian
 - Gök Krallığı
+
+### Arka Plan
+
+Çin 'gök' katmanı: Tian (天) — 'gök' ve 'ilahi yasa' aynı kelime; Yuhuang Dadi (Yeşim İmparatoru) sarayı ve 'gök bürokrasisi'. 'Tianming' — gök-irade = meşruiyet — siyasi teolojinin çekirdeği. Laozi'de 'doğal düzen' olarak kişisizleşir; 'Cennet değil, düzen' diyarı.

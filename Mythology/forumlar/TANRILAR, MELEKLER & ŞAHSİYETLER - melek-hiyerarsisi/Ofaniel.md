@@ -22,3 +22,7 @@ Ofaniel, Ophanim düzeninin kişileşmiş baş figürü olarak mistik listelerde
 
 ### Source refs
 - Jewish Encyclopedia: Angelology
+
+### Arka Plan
+
+Ofaniel — 'tekerlek' 'melek' 'göz' 'figürü'; 'Ofaniel = tekerlek' figürü.

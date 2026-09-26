@@ -7,3 +7,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Enkidu%2C_Gilgamesh%27s
 Gılgamış'ın yabani-yoldaşı; tanrılar tarafından çamurdan biçimlendirilen kahraman.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Enkidu%2C_Gilgamesh%27s_friend._From_Ur%2C_Iraq%2C_2027-1763_BCE._Iraq_Museum.jpg/960px-Enkidu%2C_Gilgamesh%27s_friend._From_Ur%2C_Iraq%2C_2027-1763_BCE._Iraq_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Enkidu — Gılgamış'ın 'vahşi ikizi': 'çamurdan yapılan' doğa-insanı, Şamhat'ın 'uygarlaştırması' ve 'ekmek-şarap' insanı; 'dostluk' olarak Gılgamış'ın 'diğer yarısı'. 'Vahşinin bedeli' — 'uygarlık = kayıp' kalıbı.

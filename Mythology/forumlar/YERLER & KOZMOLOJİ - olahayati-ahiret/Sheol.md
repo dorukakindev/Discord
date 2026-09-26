@@ -13,3 +13,7 @@ Eyüp, Mezmurlar ve Vaiz gibi kitaplarda Sheol tasvirlerine sıkça rastlanır. 
 - Tüm ölüler
 - Erdemli ve günahkâr ayrımı gözetilmeksizin tüm insanlar
 -# Çapraz: Gehinnom · Tanrı · İbrahim · Eyüp · Mezmurlar · Hades
+
+### Arka Plan
+
+İbrani öteki dünyası: 'derinlik/çukur' — iyi-kötü herkesin gittiği gri, sessiz diyar; 'toza dönme' (Eyüp 30:23). Erken kavramda yargı yok — sadece 'bitiş'; sonradan Gehinnom (gehenna) ile ceza-cehennem ayrıştı. 'Hades'in İbrani karşılığı' — sönük ama gerçek.

@@ -8,3 +8,7 @@
 - Yargı
 - Ateşli tekerlek
 -# Çapraz: Orifiel · Zaphkiel
+
+### Arka Plan
+
+Tahtlar — 'taht' 'melek' 'adalet' 'figürü'; 'throne = taht' figürü.

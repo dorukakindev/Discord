@@ -18,3 +18,7 @@ Bu varlık, abyssal kategorisinin ayrı filtrelenebilmesi için ansiklopediye ek
 - Kıyamet motifi
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Destruction_of_Leviathan.png/960px-Destruction_of_Leviathan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Leviathan, İbrani deniz devi: İşaya 27'de 'düz yılan' ve 'kıvrılmış ejderha' olarak ilan edilir; Eyüp 41'de detaylı tasvir (zırhlı sırt, ateşli nefes). Yahudi ağız geleneğinde Behemoth'la 'toprak-deniz' çiftini oluşturur; son günlerde ikisi de kesilip ziyafet olur. 'Kaosu bastıran güç' figürü olarak politik teolojiye de girdi (Hobbes'un Leviathan'ı).

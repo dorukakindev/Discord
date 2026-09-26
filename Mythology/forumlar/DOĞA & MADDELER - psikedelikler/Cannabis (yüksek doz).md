@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Cannabis_sativa_Koehler
 Düşük dozda hafif bir keyif verici olsa da, yüksek dozda zaman bükülmesi ve hafif görsel-düşünsel değişimle psikedelik sınıra yaklaşır. Tam klasik psikedelik değildir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Cannabis_sativa_Koehler_drawing.jpg/960px-Cannabis_sativa_Koehler_drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Cannabis (yüksek doz) — 'kenevir' psikedelik sınıfında değil ama 'yüksek doz' edibles veya dab'da 'psikoaktif' etkisi: 'paranoya', 'zaman bükülmesi' ve 'deliryant benzeri' halüsinasyonlar; 'visceral' etki profiliyle 'yüksek doz = farklı madde' mantığı.

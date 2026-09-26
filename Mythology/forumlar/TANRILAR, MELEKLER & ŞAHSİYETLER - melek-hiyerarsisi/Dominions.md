@@ -8,3 +8,7 @@
 - Düzen
 - Yönetim
 -# Çapraz: Zadkiel · Hashmal
+
+### Arka Plan
+
+Hükümranlıklar — 'yönetim' 'melek' 'emir' 'figürü'; 'dominion = yönetim' figürü.

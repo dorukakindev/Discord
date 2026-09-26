@@ -6,3 +6,7 @@
 Kabir sorgusu meleklerinin ahiret melekiyatı içindeki ayrı işlev ailesini göstermek için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/topic/Munkar-and-Nakir
+
+### Arka Plan
+
+Britannica Munkar — 'kabir' figürü: 'Britannica' 'Münker' 'Nekir' 'kabir' 'melekleri'; 'Münker = sorgu' figürü.

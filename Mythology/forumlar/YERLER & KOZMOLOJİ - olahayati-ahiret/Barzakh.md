@@ -12,3 +12,7 @@ Bu ölüm sonrası kaydı, araf filtresinin gerçek örneklerle çalışması i�
 
 ### Realms
 - Berzah alemi
+
+### Arka Plan
+
+Berzah — İslam'da ölümle kıyamet arası 'ara zaman': kabirde Münker-Nekir'in iki soru meleğiyle sorgulama; inançlı için kabir 'bahçe', inançsız için 'çukur'. 'Araf'ın aktif versiyonu — hesap başlamadan önceki özel bekleyiş; 'kabir azabı' ve 'kabir nimeti' ikilisi.

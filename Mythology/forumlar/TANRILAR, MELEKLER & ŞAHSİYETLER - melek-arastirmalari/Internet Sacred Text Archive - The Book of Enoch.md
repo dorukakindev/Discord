@@ -6,3 +6,7 @@
 Watchers/Grigori, düşüş, yasak bilgi ve Azazel-Shemihazah anlatılarını ana akım hiyerarşilerden ayrı işaretlemek için kullanıldı.
 
 -# Kaynaklar: https://sacred-texts.com/bib/boe/index.htm
+
+### Arka Plan
+
+Sacred Enoch — 'metin' figürü: 'Sacred' 'Enoch' 'kitap' 'metni'; 'Enoch = gözcü' figürü.

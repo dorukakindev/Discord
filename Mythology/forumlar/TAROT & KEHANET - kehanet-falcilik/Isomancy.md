@@ -9,3 +9,7 @@ Isomancy, isimler, kelime ya da harflerin belirli bir düzen içinde dizilmesi v
 - İsimler
 - Harfler
 - Kelime düzenleme
+
+### Arka Plan
+
+Isomancy — 'eşitlik/falcılık': İngiliz 'isomancy' (izomansi) soyut biçimler veya 'düz cisimlerle' kehanet terimi olarak geçen nadir isim; 'çubukların, çakılların veya nesnelerin dengesi' ile 'evet-hayır' cevabı alma geleneği. 'Biçim-okuma' kategorisinin sınırlı üyesi — 'eşitlik arayan' kehanet.

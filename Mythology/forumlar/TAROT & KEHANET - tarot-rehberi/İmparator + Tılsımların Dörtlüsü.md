@@ -7,3 +7,7 @@ Yapı kurma ihtiyacı güvenlik kaygısıyla sertleşebilir; düzen ile kontrol 
 ### Cards
 - emperor
 - four-of-pentacles
+
+### Arka Plan
+
+İmparator + Tılsımların Dörtlüsü — 'otorite + tutunma' ikilisi: dört tılsımın 'sıkı tutma' figürüyle İmparator'un 'düzen' — 'kontrolü koru ama bırakmayı öğren' mesajı; 'güç = esneklik' önermesi.

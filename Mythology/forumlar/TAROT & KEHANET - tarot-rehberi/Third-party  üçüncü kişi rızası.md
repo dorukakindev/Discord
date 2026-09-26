@@ -5,3 +5,7 @@
 ### Kaynak No
 - tabi-aims-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Üçüncü kişi — 'rıza' figürü: 'üçüncü' 'kişi' 'rıza' 'ilkesi'; 'rıza = izin' pratiği.

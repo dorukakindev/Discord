@@ -25,3 +25,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bangalore_Shiva.jpg/960
 - Parvati ve Nandi ile anlatılar
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bangalore_Shiva.jpg/960px-Bangalore_Shiva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Shiva — 'yıkıcı-koruyucu': 'Nataraja' (dans eden — 'Tandava' dansı evrenin döngüsünü sürer), 'Nilakantha' (zehri yutan mavi boğaz), 'Ardhanarishvara' (yarı-kadın yarı-erkek figürü); 'Ganges'in saçından süzülmesi' miti. 'Dönüşüm' figürü — 'yok eden = yeniden yaratan'.

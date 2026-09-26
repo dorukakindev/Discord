@@ -9,3 +9,7 @@ Sınırsız potansiyelin bilinçli irade veya sevgiyle yönlendirilmesini simgel
 -# Kaynaklar: https://sacred-texts.com/tarot/pkt/index.htm
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/SierpinskiTriangle.svg/960px-SierpinskiTriangle.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Sonsuzluk (lemniscate) — Büyücü ve Güç kartlarındaki yatay sekiz: 'sürekli döngü', 'sonsuz irade' ve 'kendi kendini besleyen' güç; '8 = sınırsız' sembolü.

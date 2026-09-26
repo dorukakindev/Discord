@@ -25,3 +25,7 @@ Bu ölüm sonrası kaydı, underworld filtresinin gerçek örneklerle çalışma
 - kur-yeralti
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dumuzi_aux_enfers.jpg/960px-Dumuzi_aux_enfers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Sümer öteki dünyası 'Kur' — 'dağ' veya 'altında olan yer': Ereshkigal'in diyarı, tozla beslenen ölüler; Irkalla'nın Sümer karşılığı. 'Dağın altı' olarak yeraltı dünyası — 'karanlık odada kalmak' metaforu.

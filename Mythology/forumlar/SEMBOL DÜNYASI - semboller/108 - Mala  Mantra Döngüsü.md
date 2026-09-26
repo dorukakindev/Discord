@@ -31,3 +31,7 @@
 - Hinduizm
 
 -# Kaynaklar: https://www.britannica.com/topic/Hinduism · https://www.britannica.com/topic/Buddhism
+
+### Arka Plan
+
+108 — Hint mala (tespih) boncuk sayısı: 9 gezegen × 12 burç, 27 nakshatra × 4 pada veya 108 Upanişad sayımı; 'tam döngü'nün sayısı. Japonya'da Joya-no-Kane'de 108 çan vuruşu — 108 'bonnō' (kirletici arzu). 'Tamamlanma matematiği' olarak bütün Hindu-Budist ritüellerinin tekrar ünitesi.

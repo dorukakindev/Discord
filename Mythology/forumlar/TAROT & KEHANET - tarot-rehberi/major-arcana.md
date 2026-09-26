@@ -14,3 +14,7 @@ Yayılımda Major yoğunluğu varsa kişisel olayın altında daha büyük tema 
 - wikipedia-major
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/3/3e/Rider-Waite_Major_Arcana_full.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Major Arcana — 22 kos (trump): 'büyük sır' olarak 'ruh'un yolculuğu; 'Fool's Journey' anlatı omurgası.

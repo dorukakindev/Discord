@@ -14,3 +14,7 @@ Kişi veya topluluğa eşlik eden koruyucu melek fikridir; Hristiyan kaynaklarda
 -# Çapraz: Guardian angels · Hafaza · Mu'aqqibat · Fravashi
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernhard_Plockhorst_-_Schutzengel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Koruyucu melek — 'kişisel' figür: 'herkesin' 'kendi' 'meleği' doktrini; 'Matta 18:10' 'küçük' 'melek' figürü.

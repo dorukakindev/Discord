@@ -6,3 +6,7 @@
 - İki kitaplı yapı
 - 43 pen-and-ink pentacle
 - Rainsford ve Northumberland provenansı
+
+### Arka Plan
+
+UPenn Ms. Codex 1673 — 'Kral Süleyman'ın anahtarı' Latince nüsha: 'Clavicula Salomonis Regis' başlıklı 16. yy. metni; 'yeraltı krallığı'nın 'doğru okuma' versiyonu — 'Regis' unvanıyla 'kral' katmanı.

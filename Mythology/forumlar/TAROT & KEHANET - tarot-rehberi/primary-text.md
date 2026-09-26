@@ -8,3 +8,7 @@ Waite, Crowley ve klasik okült sistemlerin kendi sembol dilini anlamak için ku
 ### Kaynak No
 - sacred-texts-pkt-index
 - worldcat-thoth-book
+
+### Arka Plan
+
+Birincil metin — 'kaynak' okuma: 'Pictorial Key' ve 'Book of Thoth' figürü; 'birincil = yetki' katmanı.

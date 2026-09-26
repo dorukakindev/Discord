@@ -3,3 +3,7 @@
 > **Tür:** academic · **Odak:** Determinatifleri semantik classifier olarak inceleyen güncel çalışma
 
 -# Kaynaklar: https://journals.sagepub.com/doi/full/10.1177/25138502241226983
+
+### Arka Plan
+
+Semantic Classifiers — 'sınıf' figürü: 'Sage' 'semantik' 'sınıflandırıcı' 'makalesi'; 'classifier = sınıf' figürü.

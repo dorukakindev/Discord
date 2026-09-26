@@ -6,3 +6,7 @@ Korku ve sınırlayıcı düşünceden çıkışın dürüst konuşma, sınır v
 ### Cards
 - Eight of Swords
 - Queen of Swords
+
+### Arka Plan
+
+Zihinsel sıkışma — 'kılıç sekiz' figürü: 'sıkışma' ve 'netlik' ikilisi; 'sıkışma = seçim' pratiği.

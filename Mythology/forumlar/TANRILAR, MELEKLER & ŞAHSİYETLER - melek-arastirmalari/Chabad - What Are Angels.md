@@ -6,3 +6,7 @@
 Meleklerin Yahudi düşüncesinde görev, mesaj ve tekil amaç varlıkları olarak anlaşılmasını açıklamak için kullanıldı.
 
 -# Kaynaklar: https://www.chabad.org/library/article_cdo/aid/692875/jewish/What-Are-Angels.htm
+
+### Arka Plan
+
+Chabad — 'Yahudi' figürü: 'Chabad' 'melek' 'açıklaması'; 'Chabad = Yahudi' figürü.

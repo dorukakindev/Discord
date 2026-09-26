@@ -27,3 +27,7 @@ Mithra, İranî gelenekte sözleşme, yemin, tanıklık ve adaletle bağlantıl�
 - Encyclopaedia Iranica: Mithra
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/1/18/Taq-e_Bostan_-_High-relief_of_Ardeshir_II_investiture.jpg/revision/latest/scale-to-width-down/900?cb=20260721190605)
+
+### Arka Plan
+
+Mithra — 'sözleşme' 'melek' 'İran' 'figürü'; 'Mithra = sözleşme' figürü.

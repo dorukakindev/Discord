@@ -14,3 +14,7 @@ Somut davranış, kaynak yönetimi ve günlük kararları Minor kartlardan çık
 - sacred-texts-pkt-lesser
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Swords14.jpg/960px-Swords14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Minor Arcana — 56 kart: dört suit (asa-kupa-kılıç-tılsım) gündelik hayatın 'element' figürleri; 'ayrıntı' katmanı.

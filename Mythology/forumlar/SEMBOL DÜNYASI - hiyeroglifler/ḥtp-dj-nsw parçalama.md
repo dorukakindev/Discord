@@ -12,3 +12,7 @@
 ### Kaynak No
 - UCL Denderah translation
 - Garstang htp-di-nsw
+
+### Arka Plan
+
+Htp-dj-nsw — 'sunu' figürü: 'htp-dj-nsw' 'parçalama' 'formül' 'çözümü'; 'htp = sunu' figürü.

@@ -6,3 +6,7 @@
 Hayatta kalan erken maddi kanıt ve varyant kart yapısı için kullan.
 
 -# Kaynaklar: https://beinecke.library.yale.edu/collections/highlights/visconti-tarot
+
+### Arka Plan
+
+Yale Visconti — 'saray' figürü: 'Yale' 'Beinecke' 'Visconti' 'destesi'; 'Yale = köken' figürü.

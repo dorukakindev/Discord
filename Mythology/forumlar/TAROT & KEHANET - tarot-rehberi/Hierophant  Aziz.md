@@ -7,3 +7,7 @@
 - sacred-texts-pkt-major
 - worldcat-pollack-78
 - worldcat-greer-self
+
+### Arka Plan
+
+Aziz (Hierophant) — 'V' numaralı kart: 'papa' figürü ve 'anahtar' sembolü; 'gelenek' ve 'öğreti' figürü; 'Aziz = gelenek' pratiği.

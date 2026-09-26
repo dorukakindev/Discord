@@ -8,3 +8,7 @@ Hadis-i Cibril bağlamında Jibril'in öğretici ve sınayıcı ziyaret motifiyl
 -# Kaynaklar: https://sunnah.com/bukhari:50
 
 ![gorsel](https://sunnah.com/images/hadith_icon2_huge.png)
+
+### Arka Plan
+
+Bukhari 50 — 'hadis' figürü: 'Bukhari' '50' 'melek' 'hadisi'; 'Bukhari = hadis' figürü.

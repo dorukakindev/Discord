@@ -9,3 +9,7 @@ Pictorial Key RWS için vazgeçilmez bir birincil metindir; ancak Waitein dili t
 - sacred-texts-pkt-intro
 - sacred-texts-pkt-major
 - sacred-texts-pkt-lesser
+
+### Arka Plan
+
+Waite taraflı — 'birincil' figürü: 'Waite'in 'okült' 'taraf' 'birincil' 'kaynak'; 'taraflı = sınır' figürü.

@@ -6,3 +6,7 @@
 Sağlık/hukuk gibi profesyonel alanlarda yönlendirme, üçüncü kişi sorularını yeniden çerçeveleme ve saygılı okuma dili için kullanılır.
 
 -# Kaynaklar: https://tabi.org.uk/about-us/aims-and-ethics/
+
+### Arka Plan
+
+TABI Ethics — 'kod' figürü: 'TABI' 'amaç' 'etik' 'kuralları'; 'TABI = standart' figürü.

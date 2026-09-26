@@ -17,3 +17,7 @@
 - itf-code-ethics
 - tabi-aims-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Hukuki kesinlik — 'sınır' figürü: 'dava' 'kesinlik' 'uyarısı'; 'hukuki = risk' pratiği.

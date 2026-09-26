@@ -4,3 +4,7 @@
 
 ### Not
 Tanrı adları, tapınak yazıtları ve kutsal alan bağlamları için anahtar işarettir.
+
+### Arka Plan
+
+Netjer-2 — 'tanrı' figürü: 'tanrı' 'ilahi' 'figürü'; 'tanrı = ilahi' figürü.

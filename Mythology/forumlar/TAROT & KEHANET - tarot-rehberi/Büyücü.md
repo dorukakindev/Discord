@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Johann_Heinrich_F%C3%BC
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Johann_Heinrich_F%C3%BCssli_006.jpg/960px-Johann_Heinrich_F%C3%BCssli_006.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Büyücü (The Magician) — I numaralı kart: masada dört araç (asa, kupa, kılıç, tılsım) ve sonsuzluk sembolüyle duran figür; 'yukarı nasılsa aşağı öyle' jesti ve 'irade' kanalizasyonu. Marseille'de 'le bateleur' (hilebaz/oyuncu) — 'gösteri = beceri' figürü; 'Hermes' ve 'Mercury' ataması.

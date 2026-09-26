@@ -8,3 +8,7 @@ Malakh kelimesinin haberci anlamını, erken metinlerdeki işlevsel melek anlay�
 -# Kaynaklar: https://www.myjewishlearning.com/article/angels/
 
 ![gorsel](https://www.myjewishlearning.com/wp-content/uploads/2006/10/angels.jpg)
+
+### Arka Plan
+
+My Jewish — 'inanç' figürü: 'My Jewish' 'Yahudi' 'melek' 'inanç' 'makalesi'; 'inanç = Yahudi' figürü.

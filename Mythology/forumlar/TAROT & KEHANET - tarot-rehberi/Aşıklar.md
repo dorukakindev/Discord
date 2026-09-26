@@ -7,3 +7,7 @@
 - sacred-texts-pkt-major
 - worldcat-pollack-78
 - worldcat-greer-self
+
+### Arka Plan
+
+Aşıklar (The Lovers) — VI numaralı kart: Adem-Havva figürü (melek Rafael üstte), 'birleşme' ve 'seçim' ikilisi; 'harmonia' kartı olarak 'değerler uyuşması'. Marseille'de 'l'amoureux' — genç iki kadın arasında seçim yapar, 'ikilem' boyutu; 'seçim = kimlik' önermesi.

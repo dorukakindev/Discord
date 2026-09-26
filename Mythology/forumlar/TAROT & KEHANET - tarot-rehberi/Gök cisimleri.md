@@ -14,3 +14,7 @@ Bilinç, bilinçdışı, umut, zaman ve kozmik ritim katmanını açar; Major ka
 - vam-article
 - sacred-texts-pkt-index
 - labyrinthos-meanings
+
+### Arka Plan
+
+Gök cisimleri — 'güneş', 'ay', 'yıldız' figürü: 'ışık' ve 'yön' figürü; 'gök = rehber' pratiği.

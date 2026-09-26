@@ -11,3 +11,7 @@ PGM için müze nesnesi bilgisini daha okunabilir tarihsel bağlama bağlamak i�
 -# Çapraz: greek-magical-papyri
 
 ![gorsel](https://www.worldhistory.org/img/c/p/2400x1254/21548.jpg)
+
+### Arka Plan
+
+Yunan-Roma 'büyü pratiği' katmanı: 'defixiones' (lanet tabletleri — kurşun levhalara yazılı lanet), 'amuletler' (taşlar, yazı), 'ephesia grammata' (Efes kelimeleri — güç sözleri), PGM (Greek Magical Papyri — 'papirüs-büyü metinleri'). 'Gündelik büyü' olarak 'tapınaktan sokağa' kategori.

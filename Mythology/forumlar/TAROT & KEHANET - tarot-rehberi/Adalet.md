@@ -11,3 +11,7 @@ https://upload.wikimedia.org/wikipedia/commons/4/48/Iustitia_van_Heemskerck.png?
 - worldcat-greer-self
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/4/48/Iustitia_van_Heemskerck.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Adalet (Justice) — RWS XI numaralı kart: iki sütun arasında tahtta oturan, sağ elinde kılıç (kesinlik) ve sol elinde terazi (denge) taşıyan figür; arka planda mor perde. 'Karma' kartı olarak sonuç-sorumluluk ekseni; 'terazi = Mısır Maat' mirası. Marseille'de VIII, Waite'te XI (astrolojik Terazi atamasıyla yer değişti).

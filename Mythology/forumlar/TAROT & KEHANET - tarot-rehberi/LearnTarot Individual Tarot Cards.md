@@ -6,3 +6,7 @@
 Kullanıcı dostu anlam ve eğitim dili için kullan.
 
 -# Kaynaklar: https://www.learntarot.com/cards.htm
+
+### Arka Plan
+
+LearnTarot kart — 'tekil' figürü: 'kart' 'anlam' rehberi; 'tekil = ayrıntı' figürü.

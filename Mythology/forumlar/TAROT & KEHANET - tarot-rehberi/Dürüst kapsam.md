@@ -5,3 +5,7 @@
 ### Kaynak No
 - itf-code-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Dürüst kapsam — 'sınır' figürü: 'bilgi' 'sınır' 'dürüstlük' 'ilkesi'; 'kapsam = sınır' pratiği.

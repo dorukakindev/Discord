@@ -7,3 +7,7 @@ Yalnız iç arayış sinir sistemi dinlenmesiyle birleşir; cevap sessizlikte to
 ### Cards
 - hermit
 - four-of-swords
+
+### Arka Plan
+
+Ermiş + Kılıçların Dörtlüsü — 'inziva + dinlenme' ikilisi: dört kılıcın 'suspended' dinlenmesiyle Ermiş'in 'fener' figürü — 'dur, dinlen, sonra bak' mesajı; 'aktif dinlenme' önermesi.

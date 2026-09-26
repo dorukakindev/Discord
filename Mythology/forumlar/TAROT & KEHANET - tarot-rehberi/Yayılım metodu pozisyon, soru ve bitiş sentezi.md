@@ -9,3 +9,7 @@ Yayılımda kart anlamı tek başına çalışmaz; pozisyon görevi, soru tipi, 
 - sacred-texts-pkt-celtic
 - learntarot-course
 - tarot-com-spreads
+
+### Arka Plan
+
+Yayılım sentezi — 'yer' 'soru' 'sonuç' üçlüsü: 'metot' 'sentez' figürü; 'yayılım = yapı' pratiği.

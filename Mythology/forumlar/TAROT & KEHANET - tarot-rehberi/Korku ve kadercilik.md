@@ -15,3 +15,7 @@
 - itf-code-ethics
 - biddy-reversals
 - labyrinthos-meanings
+
+### Arka Plan
+
+Korku-kadercilik — 'Ay' ve 'Kule' figürü: 'korku' ve 'yıkım' ikilisi; 'korku = sis' pratiği.

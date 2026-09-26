@@ -9,3 +9,7 @@ Heptameron'un yalnızca matbu Agrippa ekleriyle değil, 18. yüzyıl İngiliz el
 
 -# Kaynaklar: https://openn.library.upenn.edu/Data/0002/html/mscodex226.html
 -# Çapraz: heptameron
+
+### Arka Plan
+
+UPenn OPenn'de Ms. Codex 226 — 'Heptameron' Pietro d'Abano'ya atfedilen 'yedi gün kitabı'; 'haftanın meleği' sistemi ve 'hava-melek' ritüelleri. 'Günlük melek takvimi' olarak pratik melek-büyüsü metni.

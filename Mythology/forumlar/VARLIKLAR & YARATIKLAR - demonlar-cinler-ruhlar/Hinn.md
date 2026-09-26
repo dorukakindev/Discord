@@ -19,3 +19,7 @@ Hinn cinlerin hiyerarşisinde en alt sırada yer alır. Özellikle köpek ve ben
 
 ### Bölgeler
 - Arap Yarımadası
+
+### Arka Plan
+
+Hinn (hinn/binn), İslam cin-hiyerarşisinde insan-cin arası katman: hadis geleneğinde insanlardan önce yaratılmış, insana en yakın cinler. Kimi kaynaklarda 'insan görünümünde' yaşayan ve neredeyse insan olan ara sınıf. Marid-İfrit-Cin-Şeytan gruplamasının kenar figürü; 'komşu cin' olarak evlerde yaşadığına inanılır.

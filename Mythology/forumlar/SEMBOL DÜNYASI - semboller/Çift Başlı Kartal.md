@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde milli kategorisinin ayrı filtrelenebilmes
 - Arma
 - İmparatorluk simgesi
 - Koruyucu motif
+
+### Arka Plan
+
+Çift başlı kartal — 'iki yöne bakan güç': Hitit (Yazılıkaya) → Bizans (Palaiologos) → Osmanlı (Selçuklu) → Rus Çarlığı → modern çok-uluslu devletler; 'doğu-batı' veya 'gök-yer' simgesi. 'Üç kıtada aynı taç' olarak imparatorluk meşruiyetinin ortak dili; 'çift baş = çift vizyon' paradoksu.

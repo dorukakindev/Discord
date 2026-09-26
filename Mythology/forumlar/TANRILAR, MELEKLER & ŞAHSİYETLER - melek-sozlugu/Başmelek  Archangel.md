@@ -14,3 +14,7 @@ Yüksek görevli veya isimli büyük melek figürlerini belirtmek için kullanı
 -# Çapraz: Michael · Gabriel · Raphael · Uriel · Israfil
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/GuidoReni_MichaelDefeatsSatan.jpg/960px-GuidoReni_MichaelDefeatsSatan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Başmelek — 'archangel': 'baş' + 'melek' olarak 'dokuz koro'nun 'sekizinci' katmanı; 'Michael' figürüyle 'savaş' meleği.

@@ -7,3 +7,7 @@
 ### Cards
 - queen-of-cups
 - king-of-cups
+
+### Arka Plan
+
+Kupaların Kraliçesi + Kupaların Kralı — 'duygu çifti': kraliçenin 'içsel' ve kralın 'dışsal' duygusal liderliği — 'duygusal olgunluk' en güçlü 'denge' kombinasyonu; 'his + yönetim' figürü.

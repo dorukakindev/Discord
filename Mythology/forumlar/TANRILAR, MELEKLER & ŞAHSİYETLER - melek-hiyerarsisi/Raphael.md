@@ -27,3 +27,7 @@ Raphael adı 'Tanrı şifa verir' anlamıyla okunur. Tobit anlatısında Tobias'
 - Catholic Encyclopedia: Angels
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/960px-Raffaello_Sanzio.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Rafael — 'şifa' 'melek' 'yolculuk' 'rehber' 'figürü'; 'Rafael = şifa' figürü.

@@ -7,3 +7,7 @@
 ### Cards
 - temperance
 - two-of-cups
+
+### Arka Plan
+
+Denge + Kupaların İkilisi — 'ılımlılık + karşılıklılık' ikilisi: 'akışkan' denge ve 'değişim' jestiyle 'ilişkide tempo' mesajı; 'acele etme, karıştır' önermesi — 'sıvı denge' figürü.

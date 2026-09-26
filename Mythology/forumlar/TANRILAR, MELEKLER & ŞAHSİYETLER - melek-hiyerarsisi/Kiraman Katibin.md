@@ -8,3 +8,7 @@
 - Sağ-sol
 - Tanıklık
 -# Çapraz: Raqib · Atid
+
+### Arka Plan
+
+Kiraman — 'yazan' 'melek' 'sağ-sol' 'figürü'; 'kiraman = yazan' figürü.

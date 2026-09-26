@@ -6,3 +6,7 @@
 
 ### Düzeltme
 Yanlış. İslami melekiyat daha çok vahiy, kayıt, koruma, ölüm ve ahiret gibi işlevsel görevlerle anlaşılır.
+
+### Arka Plan
+
+İslam-koro — 'dokuz' figürü: 'İslam'da' 'dokuz' 'koro' 'yok' 'uyarısı'; 'koro = farklı' figürü.

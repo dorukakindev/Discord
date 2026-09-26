@@ -7,3 +7,7 @@ Gelenek, öğretmen ve zanaat ortak alanda birleşir; öğrenme yalnız teorik d
 ### Cards
 - hierophant
 - three-of-pentacles
+
+### Arka Plan
+
+Aziz + Tılsımların Üçlüsü — 'öğreti + ustalık' ikilisi: Aziz'in 'gelenek' ve üç tılsımın 'iş birliği' birleşince 'doğru yöntemle öğrenme' mesajı; 'usta-çırak' ilişkisi ve 'gelenek içinde yenilik' dengesi.

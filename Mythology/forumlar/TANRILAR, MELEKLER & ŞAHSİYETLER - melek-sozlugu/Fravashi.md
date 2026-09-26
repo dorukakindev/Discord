@@ -8,3 +8,7 @@ Kişi, topluluk ve doğru düzenle ilişkili koruyucu/ön-varlık fikridir; ata 
 - iranica-fravashi
 - avesta-fravardin-yasht
 -# Çapraz: Fravashi · Farvardin Yasht · Koruma · Atalar
+
+### Arka Plan
+
+Fravaşi — Zerdüştlük'ün 'ruh' figürü: 'yaratılış öncesi' 'seçim' yapan 'kadın' figürü; 'kuş' sembolüyle 'koruyucu ruh' figürü.

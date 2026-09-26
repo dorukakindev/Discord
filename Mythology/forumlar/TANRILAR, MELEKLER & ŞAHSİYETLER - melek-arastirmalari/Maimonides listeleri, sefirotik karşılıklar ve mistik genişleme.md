@@ -8,3 +8,7 @@ Maimonides melek rütbelerini felsefi kozmoloji içinde sıralarken Kabala ve He
 - sefaria-mishneh-torah-yesodei
 - sefaria-sefer-yetzirah
 - chabad-what-are-angels
+
+### Arka Plan
+
+Maimonides — 'on' figürü: 'Maimonides' 'on' 'seviye' 'sefirot' 'karşılık' 'genişleme'; 'on = seviye' figürü.

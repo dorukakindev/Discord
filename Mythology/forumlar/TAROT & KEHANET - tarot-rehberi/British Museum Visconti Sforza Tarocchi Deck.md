@@ -6,3 +6,7 @@
 Erken tarot kanıtını somut müze nesnesi, eksik kart/restorasyon ve modern kompozisyon etkisiyle bağla.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/object/P_1976-0131-25-1-78
+
+### Arka Plan
+
+Visconti-Sforza — 'saray' figürü: '15. yy' 'İtalyan' destesi; 'Visconti = köken' figürü.

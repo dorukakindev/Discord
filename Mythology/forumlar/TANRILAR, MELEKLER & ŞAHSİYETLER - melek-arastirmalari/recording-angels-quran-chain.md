@@ -12,3 +12,7 @@ Kayıt melekleri yalnızca genel gelenek notu değil; Kur'an'da sağ-sol kayıt 
 - quran-82-10-12
 - saet-islam-angels
 -# Çapraz: Kiraman Katibin · Raqib · Atid · Kozmik kayıt
+
+### Arka Plan
+
+Recording-chain — 'yazan' figürü: 'recording' 'angels' 'Kur'an' 'yazan' 'zinciri'; 'recording = yazan' figürü.

@@ -9,3 +9,7 @@ https://upload.wikimedia.org/wikipedia/commons/e/e7/Nubnefer.png?utm_source=en.w
 - Global Egyptian Museum cartouche
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/e/e7/Nubnefer.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Nsw-bity — 'kral' figürü: 'nsw-bity' 'sazlık' 'arı' 'kral' 'unvanı'; 'nsw-bity = kral' figürü.

@@ -12,3 +12,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tetramorph_meteora.jpg/
 -# Çapraz: Cherubiel · Gabriel · Keruv
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tetramorph_meteora.jpg/960px-Tetramorph_meteora.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Keruvlar — 'bilgi' 'melek' 'dört' 'yüz' 'figürü'; 'keruv = bilgi' figürü.

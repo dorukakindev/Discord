@@ -15,3 +15,7 @@
 ### Kaynak No
 - itf-code-ethics
 - tabi-aims-ethics
+
+### Arka Plan
+
+Teşhis beklentisi — 'sınır' figürü: 'sağlık' 'teşhis' 'beklenti' 'uyarısı'; 'teşhis = risk' pratiği.

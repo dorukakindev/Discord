@@ -11,3 +11,7 @@ Mojo genellikle taşınabilir bir nesne olarak tasarlanır ve sahibine doğaüst
 - Kişisel güç
 - Koruma
 - Şans
+
+### Arka Plan
+
+Mojo (mojo bag), Afro-Amerikan Hudu geleneğinin 'kişisel çantası': kırmızı flannel kesede bitki kökü (John the Conqueror), kemik, yazı, tırnak gibi kişisel öğeler taşınan, 'el ya da dua' ile 'beslenen' sihirli nesne. Kongo nkisi geleneğiyle bağlanır; 'mojo working' deyimiyle popülerleşti. Kişisel büyü çantası — 'taşınan dua' kalıbı.

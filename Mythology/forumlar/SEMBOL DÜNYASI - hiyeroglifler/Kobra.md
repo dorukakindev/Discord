@@ -4,3 +4,7 @@
 
 ### Not
 ḏ değeri verir; İngilizce j/dj benzeri anlatılır.
+
+### Arka Plan
+
+Kobra — 'uraeus' figürü: 'kraliyet' 'koruma' 'figürü' (alında ateş püsküren yılan); 'Wadjet' olarak 'aşa��ı Mısır' 'koruması'.

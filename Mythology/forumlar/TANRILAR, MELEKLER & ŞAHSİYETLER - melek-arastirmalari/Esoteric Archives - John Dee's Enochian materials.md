@@ -6,3 +6,7 @@
 John Dee ve Edward Kelley çevresindeki Enochian meleksel sistemin tarihsel dosyasını kaynaklandırmak için kullanıldı.
 
 -# Kaynaklar: https://www.esotericarchives.com/dee/
+
+### Arka Plan
+
+Dee Enochian — 'malzeme' figürü: 'Dee' 'Enochian' 'melek' 'malzemeleri'; 'Dee = dil' figürü.

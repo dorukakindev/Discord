@@ -17,3 +17,7 @@
 ### Kaynak No
 - itf-code-ethics
 - tarosophy-code
+
+### Arka Plan
+
+Finans okuması — 'tılsım' figürü: 'yatırım' ve 'güven' figürü; 'finans = değer' pratiği.

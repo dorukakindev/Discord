@@ -11,3 +11,7 @@ Lenormand 36 kartlık ayrı bir fortune-telling/cardomancy pack geleneğidir; ta
 - britishmuseum-lenormand-36
 - horniman-lenormand
 - britannica-tarot
+
+### Arka Plan
+
+Lenormand-tarot karışımı — 'yanlış birleştirme' uyarısı: '36 ≠ 78' olarak 'ayrı ekol' figürü.

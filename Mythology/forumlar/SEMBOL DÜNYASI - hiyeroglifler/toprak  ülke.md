@@ -8,3 +8,7 @@
 ### Kaynak No
 - TLA lemma lists
 - UCL determinatives
+
+### Arka Plan
+
+Toprak — 'ta' figürü: 'toprak' 'ta' 'ülke' 'figürü'; 'toprak = ülke' figürü.

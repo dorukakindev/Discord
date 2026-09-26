@@ -11,3 +11,7 @@ Thesaurus Linguae Aegyptiae, hiyeroglif, hiyeratik ve demotik kayıtlardan lemma
 ### Kaynak No
 - TLA
 - SAW/BBAW project
+
+### Arka Plan
+
+TLA omurga — 'omurga' figürü: 'TLA' 'metin' 'sözlük' 'omurgası'; 'omurga = ana' figürü.

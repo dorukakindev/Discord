@@ -20,3 +20,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/68-belial-sigilo-ars-go
 - Rütbeler ve unvanlar verme
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/68-belial-sigilo-ars-goetia.svg/960px-68-belial-sigilo-ars-goetia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Belial (Beliar), İbrani 'değersizlik/yalan' soyut kavramından kişileşen demon: Kumran metinlerinde 'karanlığın meleği', İncil'de 'ben Belial'la ne ilgisi' dizesi. Ars Goetia'da 68. kral: iki güzel melek, güzel sesli, rütbe ve 'senatörlerin iltiması' verir; 'denklik' talep eder (kurban). 'En değersiz' unvanıyla demon-ısmarlama figürü.

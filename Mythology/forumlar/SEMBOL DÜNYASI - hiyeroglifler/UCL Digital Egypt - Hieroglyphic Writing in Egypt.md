@@ -3,3 +3,7 @@
 > **Tür:** university · **Odak:** Yazının başlangıcı ve ilkeler
 
 -# Kaynaklar: https://www.ucl.ac.uk/museums-static/digitalegypt/writing/hieroglyphic.html
+
+### Arka Plan
+
+UCL Writing — 'yazı' figürü: 'UCL' 'hiyeroglif' 'yazı' 'rehberi'; 'writing = sistem' figürü.

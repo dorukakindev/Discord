@@ -19,3 +19,7 @@ Andromalius, elinde büyük bir yılan tutarak insana benzer biçimde tezahür e
 - Kötüleri ifşa etmek
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/72_Goeta_sigils.png/960px-72_Goeta_sigils.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Andromalius, Ars Goetia'nın 72. ve son ruhu: insanlık şeklinde, elinde yılan tutan adam olarak görünür. Hırsızları ve hırsızlık edilen eşyayı açığa çıkarır; saklı hazineyi, sahteciliği ve hainleri gösterir. 'Sonuncu düke' olarak anılır — Goetia listesinin kapanışı; 'hırsızların da çalındığı' son melek figürü.

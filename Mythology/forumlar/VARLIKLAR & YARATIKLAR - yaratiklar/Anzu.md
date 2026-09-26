@@ -18,3 +18,7 @@ Anzu, Sümer mitolojisinde Imdugud olarak adlandırılan devasa kuş canavarın�
 - Anzu (Sümer)
 - Kader Tabletleri Hırsızlığı
 -# Çapraz: Ninurta · Enlil · Enki · Imdugud
+
+### Arka Plan
+
+Anzu/Zu, Mezopotamya'nın dev kartal-aslan kuşu: Enlil'in Tabletleri'nı (kader tabletleri) çalarak gök-yönetimini devralmaya çalışır; Ninurta onu oklar ve 'sudan çekilmiş güç'le durdurur. Etana destanında yılanla yemin bozduğu için kartalı kuyuya düşürür. 'En güçlü figürün iktidarı kötüye kullanması' kalıbı; tabletlerin çalınması evrensel 'düzen gaspı' mitinin erken versiyonu.

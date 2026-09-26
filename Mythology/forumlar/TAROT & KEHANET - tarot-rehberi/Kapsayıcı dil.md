@@ -5,3 +5,7 @@
 ### Kaynak No
 - itf-code-ethics
 - tabi-aims-ethics
+
+### Arka Plan
+
+Kapsayıcı dil — 'dil' figürü: 'kapsayıcı' 'dil' 'saygı' 'ilkesi'; 'dil = saygı' pratiği.

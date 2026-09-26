@@ -9,3 +9,7 @@ Bu mekan kaydı, kutsal coğrafyanın kutsal-nehir başlığı altında daha oku
 
 ### Diğer Adlar
 - Ganj Nehri
+
+### Arka Plan
+
+Ganga — 'tanrıça-nehir': Shiva'nın saçından süzülüp yeryüzüne inen Bhagiratha'nın duasıyla gelen su; her damlası Ganga'dır. Varanasi'de ölmek en büyük arzu — nehir kenarı kremasyon, küller Ganga'ya atılır. Kumbh Mela her 12 yılda dünyanın en büyük hacı; Ganga'ya dokunan günah arıtıcı su sayılır. 'Anne' unvanıyla çağrılır.

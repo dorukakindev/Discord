@@ -6,3 +6,7 @@
 - britannica-tarot
 - met-article
 - sacred-texts-pkt-intro
+
+### Arka Plan
+
+Kaynak sınırı-2 — 'sınır' figürü: 'kaynak' 'sınır' 'belirtme' 'ilkesi'; 'sınır = açık' pratiği.

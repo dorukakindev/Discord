@@ -12,3 +12,7 @@ https://static.wikia.nocookie.net/mythology/images/5/59/Kanishka_I_with_Miiro.jp
 -# Çapraz: Mithra · Sraosha · Anahita · Tishtrya
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/5/59/Kanishka_I_with_Miiro.jpg/revision/latest/scale-to-width-down/900?cb=20250816162212)
+
+### Arka Plan
+
+Yazata — 'tapınılan' 'varlık' 'İran' 'figürü'; 'yazata = tapınılan' figürü.

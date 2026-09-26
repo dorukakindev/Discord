@@ -10,3 +10,7 @@
 ### Kaynak No
 - UCL determinatives
 - TLA lemma lists
+
+### Arka Plan
+
+Papyrus-abstract — 'papirüs' figürü: 'papyrus' 'abstract' 'yazı' 'soyut' 'figürü'; 'papyrus = yazı' figürü.

@@ -6,3 +6,7 @@
 Mikail'in İslami gelenekteki isimli melek konumunu Michael profilinden ayırarak desteklemek için kullanıldı.
 
 -# Kaynaklar: https://www.britannica.com/topic/Mikal
+
+### Arka Plan
+
+Britannica Mikal — 'rızık' figürü: 'Britannica' 'Mikail' 'rızık' 'meleği'; 'Mikail = rızık' figürü.

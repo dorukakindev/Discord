@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/MDMA_molecule_from_xtal
 Klasik anlamda psikedelik değil, entaktojen/empatojen sınıfının başı. Görüden çok duygusal yakınlık ve şefkat hali üretir; travma terapisinde araştırılır.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/MDMA_molecule_from_xtal_ball.png/960px-MDMA_molecule_from_xtal_ball.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+MDMA — 'E' (ecstasy): 'empatik' sınıfın referans maddesi — 'serotonin taşması' ile 'açık kalp' etkisi; '3,4-metilendioksimetamfetamin'; 'terapi' (PTSD) ve 'rave' kültürü ikilisi.

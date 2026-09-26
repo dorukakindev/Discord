@@ -9,3 +9,7 @@ Modern tarot pratiğinde ters kartlar tek başına kötü haber değildir; enerj
 - biddy-reversals
 - tarot-com-cards
 - learntarot-cards
+
+### Arka Plan
+
+Ters kart — 'yön vektörü': 'felaket' değil 'farklı yön' figürü; 'ters = gölge' doktrini.

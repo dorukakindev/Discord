@@ -15,3 +15,7 @@ Mısır sayı sistemi onluk ama pozisyonel olmayan toplamsal bir sistemdir. İş
 - Unicode Chapter 11
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/NumberSetinR2.svg/960px-NumberSetinR2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Sayılar — 'matematik' figürü: 'bir', 'on', 'yüz', 'bin' 'sayı' 'sistemi'; 'sayı = ölçü' figürü.

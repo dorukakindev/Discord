@@ -15,3 +15,7 @@ Guardian angels, Hafaza/Mu'aqqibat, Fravashi ve bazı Yahudi koruyucu figürler 
 - newadvent-guardian-angels
 - quran-13-11
 - iranica-fravashi
+
+### Arka Plan
+
+Koruma-eşlik — 'koruma' 'melek' 'gözetim' 'eşlik' 'figürü'; 'koruma = gözetim' figürü.

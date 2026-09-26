@@ -13,3 +13,7 @@ Tobit 12: Raphael, şifa ve yedi melek dili
 -# Çapraz: Raphael · Tobit · Şifa · Asmodeus
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/e/e4/Saint_Raphael_the_Archangel.jpg/revision/latest/scale-to-width-down/608?cb=20250518003114)
+
+### Arka Plan
+
+Tobit-Rafael — 'yolculuk' figürü: 'Tobit' 'Rafael' 'yolculuk' 'rehberi'; 'yolculuk = şifa' figürü.

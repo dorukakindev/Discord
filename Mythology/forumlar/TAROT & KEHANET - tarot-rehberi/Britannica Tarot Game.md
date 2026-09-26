@@ -6,3 +6,7 @@
 Tarotun sadece fal değil oyun tarihi olduğunu vurgula.
 
 -# Kaynaklar: https://www.britannica.com/topic/tarot-game
+
+### Arka Plan
+
+Tarot Game — 'oyun' figürü: 'tarot'un 'oyun' kökeni; 'game = köken' pratiği.

@@ -14,3 +14,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_
 -# Çapraz: Kral Arthur · Excalibur · Morgana · Merlin · Tir na nÓg
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/960px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Kelt 'elma adası' (Afallach) olarak Glastonbury Tor'la özdeşleşen efsanevi diyar: Arthur'un ölümcül Excalibur yarasından sonra götürüldüğü, Morgan le Fay'ın kraliçeliğindeki öteki-dünya. Geoffrey of Monmouth'tan beri 'bir gün geri dönecek kral' mitinin adresi. Elma-adanın bereket-şifa-olmayan-ölüm katmanları Kelt Öteki-Dünya'sının en parlak taşıyıcısı.

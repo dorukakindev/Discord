@@ -8,3 +8,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Justicia_pectoralis_by_
 Amazon enfiye harmanlarına (yopo/epena) katılan kokulu bitki. Tek başına hafif etkilidir; asıl rolü diğer bitkilerin etkisini ve kokusunu düzenlemektir.
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Justicia_pectoralis_by_Scott_Zona_-_001.jpg/960px-Justicia_pectoralis_by_Scott_Zona_-_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Justicia pectoralis — 'tilo' bitkisi: Güney Amerika'nın 'hafif' psikoaktif bitkisi; 'betaine' içerik ve 'rahatlatıcı' etki; 'shamanik' kullanımda 'sakinleştirici' sınıf.

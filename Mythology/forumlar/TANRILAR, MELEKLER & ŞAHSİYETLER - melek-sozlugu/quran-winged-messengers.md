@@ -8,3 +8,7 @@ Kur'an 35:1: Kanatlı elçiler ve yaratılış kudreti
 - quran-35-1
 - britannica-angel-demon-types
 -# Çapraz: Malaika · Kanat · Elçi · Yaratılış
+
+### Arka Plan
+
+Kur'an-kanatlı — 'kanat' figürü: 'Kur'an' 'kanatlı' 'haberci' 'melekleri'; 'kanat = hız' figürü.

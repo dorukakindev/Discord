@@ -19,3 +19,7 @@ Moloch adı, Levililer ve Krallar gibi İbrahimi metinlerde yasaklanmış kurban
 - Korku ve yozlaşmış adanmışlık teması
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Foster_Bible_Pictures_0074-1_Offering_to_Molech.jpg/960px-Foster_Bible_Pictures_0074-1_Offering_to_Molech.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Moloch (Molek), Amonitlerin/ya da Kanaan kültürünün 'kral' figürü: Topheth'te çocuk yakma kültü (Levililer 18:21 yasağı, krallık dönemi tartışması). Milton'da 'savaşçı demon' — Parlamento'da kör güçle öneri yapan ses. Modern kullanımda 'insanlığa bedel ödeyen sistem' metaforu (Ginsberg'in 'Moloch'u); 'ateşe kurban' figürü.

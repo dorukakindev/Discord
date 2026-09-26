@@ -6,3 +6,7 @@
 Erken kartların görsel-sosyal bağlamını ve aristokrat oyun geleneğini açıklamak için kullanılır.
 
 -# Kaynaklar: https://www.metmuseum.org/perspectives/tarot-2
+
+### Arka Plan
+
+The Met — 'müze' figürü: 'Metropolitan' 'tarot' 'koleksiyonu'; 'Met = müze' figürü.

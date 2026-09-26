@@ -7,3 +7,7 @@ Kişisel döngü tamamlanırken miras, kurum, aile veya kalıcı yapı teması g
 ### Cards
 - world
 - ten-of-pentacles
+
+### Arka Plan
+
+Dünya + Tılsımların Onlusu — 'tamamlanma + kalıcı miras' ikilisi: on tılsımın 'aile-madde zenginliği' ile Dünya'nın 'döngü kapanışı' — 'nesilden nesile' en güçlü 'bolluk' kombinasyonu; 'işin sonu, meyvesi kalır' mesajı.

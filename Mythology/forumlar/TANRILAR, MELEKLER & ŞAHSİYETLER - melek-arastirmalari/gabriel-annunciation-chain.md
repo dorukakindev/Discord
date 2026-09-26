@@ -13,3 +13,7 @@ Gabriel yalnızca Daniel'deki açıklayıcı melek değil; Luke 1'de doğum müj
 - je-gabriel
 - quran-2-97
 -# Çapraz: Gabriel · Jibril · Müjde · Vahiy
+
+### Arka Plan
+
+Gabriel-chain — 'müjde' figürü: 'Gabriel' 'annunciation' 'müjde' 'zinciri'; 'annunciation = müjde' figürü.

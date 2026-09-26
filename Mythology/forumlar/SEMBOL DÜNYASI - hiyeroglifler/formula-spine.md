@@ -6,3 +6,7 @@
 - UCL Denderah translation
 - Garstang htp-di-nsw
 - Global Egyptian Museum htp
+
+### Arka Plan
+
+Formula-spine — 'omurga' figürü: 'formül' 'omurga' 'metin' 'yapısı'; 'spine = yapı' figürü.

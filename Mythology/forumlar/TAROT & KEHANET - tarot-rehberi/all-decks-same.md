@@ -13,3 +13,7 @@ RWS, Marseille, Thoth, Sola Busca ve Visconti farklı görsel, tarihsel ve okül
 - pinacoteca-sola-busca
 - vam-article
 - met-suits-decks
+
+### Arka Plan
+
+Deste-ekol çeşitliliği — Marseille (sayı-ikonografi), RWS (sahne-psikoloji), Thoth (okült-astroloji) üç büyük hat; 'hepsi aynı' yanılgısı — her deste 'okuma dili' getirir.

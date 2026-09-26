@@ -6,3 +6,7 @@
 Erken lüks deste ve aristokrat oyun kanıtı olarak kullan.
 
 -# Kaynaklar: https://www.themorgan.org/collection/tarot-cards
+
+### Arka Plan
+
+Visconti-Sforza kart — 'saray' figürü: '15. yy' 'İtalyan' kartları; 'Visconti = köken' figürü.

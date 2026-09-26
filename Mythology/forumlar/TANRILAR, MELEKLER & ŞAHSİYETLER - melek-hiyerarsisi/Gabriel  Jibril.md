@@ -28,3 +28,7 @@ Gabriel, Daniel ve Luka anlatılarında açıklayıcı ve müjdeci; İslam'da Ji
 - Catholic Encyclopedia: Angels
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Leonardo_da_Vinci_Annunciazione_%28dettaglio%29.jpg/960px-Leonardo_da_Vinci_Annunciazione_%28dettaglio%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Gabriel-Jibril — 'vahiy' 'melek' 'güç' 'figürü'; 'Gabriel = güç' figürü.

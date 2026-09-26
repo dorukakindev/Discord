@@ -11,3 +11,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.
 - worldcat-greer-self
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/960px-The_Sun_in_white_light.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Yıldız (The Star) — XVII numaralı kart: su döken çıplak kadın ve yedi küçük + bir büyük yıldız; 'umut', 'şifa' ve 'güven'; 'Kule'den sonra 'sükunet' kartı. 'Sulama' figürü — 'dünyayı besleme' eylemi.

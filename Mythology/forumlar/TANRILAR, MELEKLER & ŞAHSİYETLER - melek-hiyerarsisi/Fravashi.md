@@ -8,3 +8,7 @@
 - Kanatlı disk
 - Ön-varlık
 -# Çapraz: Faravahar · Atalar
+
+### Arka Plan
+
+Fravashi — 'ruh' 'koruyucu' 'kadın' 'figürü'; 'Fravashi = ruh' figürü.

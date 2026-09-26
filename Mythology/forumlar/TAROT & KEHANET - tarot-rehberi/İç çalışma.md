@@ -9,3 +9,7 @@
 - boundaries
 - mental_clarity
 - intuition
+
+### Arka Plan
+
+İç çalışma — 'iç' figürü: 'iç' 'çalışma' 'kendin' 'pratiği'; 'iç = derin' figürü.

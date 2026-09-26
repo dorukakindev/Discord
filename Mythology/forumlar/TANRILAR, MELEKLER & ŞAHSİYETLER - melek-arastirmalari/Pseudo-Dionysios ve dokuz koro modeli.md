@@ -8,3 +8,7 @@ Celestial Hierarchy, melekleri üç hiyerarşi ve dokuz koro halinde düzenleyer
 - pseudo-dionysius-celestial-hierarchy
 - ccel-celestial-hierarchy-ch7
 - stanford-pseudo-dionysius
+
+### Arka Plan
+
+Pseudo-Dionysios — 'dokuz' figürü: 'Pseudo-Dionysios' 'dokuz' 'koro' 'modeli'; 'dokuz = sistem' figürü.

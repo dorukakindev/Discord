@@ -31,3 +31,7 @@ Batı kültüründe "Binbir Gece Masalları" aracılığıyla tanınan, Alaaddin
 - Akdeniz
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Arabian_Nights_-_Letchford_-_37.jpg/960px-Arabian_Nights_-_Letchford_-_37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Marid, İslam cin sınıflamasının en güçlü katmanı: deniz cinleri, süleymanî emirle hapsedilebilen dev varlıklar. 'Açık kap' (üç dilek) masallarının 'lamba cini' atası — Alaaddin'in lambasındaki cin genellikle Marid sınıfına yazılır. Gururlu, emre zor boyun eğen, ama sadık kalan; denizin 'büyük cin' kategorisi.

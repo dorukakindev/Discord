@@ -9,3 +9,7 @@
 - iranica-mithra
 - iranica-rasn
 - iranica-daena
+
+### Arka Plan
+
+Record-matrix — 'kayıt' figürü: 'record' 'witness' 'melek' 'kayıt' 'matrisi'; 'record = kayıt' figürü.

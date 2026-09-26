@@ -15,3 +15,7 @@ Broad Indo-European comparative survey; useful for typological framing.
 - Puhvel Comparative Mythology
 
 -# Kaynaklar: https://archive.org/search?query=title%3A%28Comparative%20Mythology%29%20Puhvel
+
+### Arka Plan
+
+Karşılaştırmalı mitoloji — 'aynı hikâye' arayışı: Max Müller'in 'dil hastalığı' teorisi (mit = bozulmuş kelime), Dumézil'in üç işlevi, Eliade'nin 'kutsal model'. 'Mit = kalıp' olarak 'evrensel yapı' arayışı.

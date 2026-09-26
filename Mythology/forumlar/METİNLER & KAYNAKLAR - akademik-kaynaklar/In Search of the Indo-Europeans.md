@@ -16,3 +16,7 @@ Useful for linking linguistic reconstruction with archaeological caution.
 - IE Origins Mallory
 
 -# Kaynaklar: https://archive.org/search?query=title%3A%28In%20Search%20of%20the%20Indo-Europeans%29%20Mallory
+
+### Arka Plan
+
+Mallory'nin 'Hint-Avrupalıların Peşinde' (1989) — 'dil-arkeoloji' sentezi: 'evrensel dil' ailesi kuramı, 'kurgan' hipotezi. 'Dil = göç' haritasının tartışmalı klasiği.

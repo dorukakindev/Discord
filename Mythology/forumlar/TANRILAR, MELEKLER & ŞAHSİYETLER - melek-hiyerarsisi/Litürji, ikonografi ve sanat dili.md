@@ -14,3 +14,7 @@ Melekler yalnızca metinlerde değil, bayramlar, dualar, ikonlar, resimler ve po
 - my-jewish-learning-cherubim
 - goarch-archangels
 - orthodoxwiki-holy-angels
+
+### Arka Plan
+
+Litürji-sanat — 'sanat' 'melek' 'ikonografi' 'dil' 'figürü'; 'litürji = tören' figürü.

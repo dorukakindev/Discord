@@ -10,3 +10,7 @@ Asklepios Asasi, Yunan sifa tanrisi Asklepios ile iliskili tek yilana sarili asa
 - Tip tarihi calismalari
 - Egitim materyalleri
 -# Çapraz: Caduceus · Asklepios · Hippokrates gelenegi
+
+### Arka Plan
+
+Asklepios'un asası — 'sağlığın tek yılanı': Asklepios'un (tıp tanrısı) ahşap bastonuna sarılı yılan; 'tek yılan = tıbbi otorite' kalıbı (Caduceus'un 'iki yılan = ticaret' ile karıştırılması yaygın hata). Yılan deri değiştirmesi 'iyileşme'yle eşleşti; 'stethoskop kabulü' olarak WHO ve tıp kurumlarının simgesi.

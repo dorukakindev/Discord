@@ -22,3 +22,7 @@ Avestan ve Iran geleneklerinde asha-druj, ates, kozmik ikilik ve eskatoloji katm
 - **Susa** — Enlem: 32.19; Boylam: 48.25
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/3/3c/Ancient_Persian_costumes.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Zerdüşt (Zoroastrian) kozmolojisi tarihin en eski düalist sistemidir: Ahura Mazda'nın iyi düşüncesiyle Angra Mainyu'nun (Ahriman) yıkım arzusu arasındaki savaş; sonunda iyi kazanır (Frashokereti). Amesha Spenta'lar (Kutsal Ölümsüzler) — Asha (gerçek), Vohu Manah (iyi düşünce) vb. — ilahi niteliklerin kişileşmesi. Ateş tapınaklarında (atash) ruh-arınması; Sraosha, Mithra, Anahita Yazata'ları. Ölü 'dağ kulesi'nde (dakhma) göğe emanet edilir.

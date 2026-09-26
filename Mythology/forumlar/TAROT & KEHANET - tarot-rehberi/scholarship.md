@@ -9,3 +9,7 @@
 - worldcat-pollack-78
 - worldcat-greer-21ways
 - worldcat-holistic-tarot
+
+### Arka Plan
+
+Akademik kaynak — 'eleştirel' okuma: 'tarih' ve 'okült' ayrımı; 'kaynak = güven' figürü.

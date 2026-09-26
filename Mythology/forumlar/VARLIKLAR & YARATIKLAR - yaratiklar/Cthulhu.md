@@ -18,3 +18,7 @@ Bu varlık, abyssal kategorisinin ayrı filtrelenebilmesi için ansiklopediye ek
 - Derin uyku
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cthulhu3.jpg/960px-Cthulhu3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Cthulhu, H.P. Lovecraft'ın kurgu-kozmosunun merkez figürü: Pasifik'te batan R'lyeh'de uyuyan dev sekiz bacaklı, yarı-kötürüm tanrı; 'yıldızlar doğru olduğunda' uyanacak. Deli Arap'ın Necronomicon'u ve 'öldürmeyen ölüm' dizesiyle gizem kültü haline gelir — sinema, rol yapma ve 'kozmik korku' edebiyatının modern miti. Gerçek mitolojiden ayrılmalı: onun gücü 'insan önemsizliği' hissidir.

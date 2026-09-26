@@ -24,3 +24,7 @@
 - learntarot-cards
 - labyrinthos-meanings
 - worldcat-holistic-tarot
+
+### Arka Plan
+
+Kılıç serisi — hava: 'zihin' ve 'gerçek' figürü; 'kriz' ve 'netlik' kartları.

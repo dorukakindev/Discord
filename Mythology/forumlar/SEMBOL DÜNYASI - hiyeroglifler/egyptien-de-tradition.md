@@ -16,3 +16,7 @@
 - UCL temple reading
 - UCL Egyptian scripts
 - UCL language development
+
+### Arka Plan
+
+Égyptien de tradition — 'klasik' figürü: 'Fransız' 'klasik' 'Mısır' 'dili'; 'tradition = klasik' figürü.

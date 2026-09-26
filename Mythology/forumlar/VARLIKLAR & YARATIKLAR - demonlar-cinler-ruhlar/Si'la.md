@@ -22,3 +22,7 @@ Bazı geleneklere göre bir Si'la'nın gerçek formunu ortaya çıkarmak için �
 
 ### Bölgeler
 - Arap Yarımadası
+
+### Arka Plan
+
+Si'la, İslam cinlerinin dişi-kandırıcı katmanı: güzel kadın suretiyle yolcu kandıran, evlenen veya çocuk kaçıran cin; çöllerde 'yol gösteren' kılığıyla kalbi zaafa sürükler. Ağız geleneğinde 'yarı-cin gelin' figürü — masalsı ama tehlikeli eşleşme. Cin sınıflamasında 'kadın cini' olarak erkek çocuk çalmasıyla tanınır.

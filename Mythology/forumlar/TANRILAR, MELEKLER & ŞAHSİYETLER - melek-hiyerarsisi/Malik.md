@@ -27,3 +27,7 @@ Malik, İslami ahiret tasavvurunda cehennem bekçisi olarak öne çıkan melek f
 - Quran.com 74:30-31
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Maalik_opens_the_gates_of_hell.jpg/960px-Maalik_opens_the_gates_of_hell.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Malik — 'cehennem' 'bekçi' 'efendi' 'figürü'; 'Malik = bekçi' figürü.

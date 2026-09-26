@@ -11,3 +11,7 @@ Bu sembol kaydı, semboller panelinde astrolojik kategorisinin ayrı filtreleneb
 - Harita çizimi
 - Tılsım
 - Alkimik eşleştirme
+
+### Arka Plan
+
+Klasik gezegen simgeleri — 'simya-astroloji alfabesi': ☉ Güneş (nokta+daire — benlik), ☽ Ay (hilal — ruh), ☿ Merkür (caduceus kafası — zihin), ♀ Venüs (ayna — değer), ♂ Mars (kalkan+mızrak — güç), ♃ Jüpiter (4'lü eğri — inanç), ♄ Satürn (orağı — sınır). Modern ★x Uranüs-Neptün-Plüton; 'göksel stenografi' — her simge element+tanrı+metal üçlüsü.

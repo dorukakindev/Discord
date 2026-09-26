@@ -13,3 +13,7 @@ Sraosha, Mithra, Rashnu ve Daena; melek eşdeğeri değil, ölüm sonrası yarg�
 - iranica-rasn
 - iranica-daena
 -# Çapraz: Sraosha · Mithra · Rashnu · Daena · Cinvat köprüsü
+
+### Arka Plan
+
+Iranian-triad — 'üçlü' figürü: 'Iranian' 'judgment' 'triad' 'yargı' 'üçlü' 'zinciri'; 'triad = üçlü' figürü.

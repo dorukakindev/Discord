@@ -10,3 +10,7 @@ Kur'an 43:77, 66:6 ve 74:30-31: Malik ve cehennem bekçileri
 - quran-74-30-31
 - saet-islam-angels
 -# Çapraz: Malik · Zabaniyah · Cehennem bekçileri · On dokuz
+
+### Arka Plan
+
+Kur'an-cehennem — 'bekçi' figürü: 'Kur'an' 'cehennem' 'bekçi' 'melekleri'; 'bekçi = Malik' figürü.

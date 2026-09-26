@@ -7,3 +7,7 @@ Sevgi, huzur ve uzlaşmayla ilişkilendirilen, kayıpları bulmaya yardım eden 
 
 ### Kayıt
 Chamuel, adı 'Tanrı'yı arayan' anlamına gelen, sevgi, şefkat ve huzurla ilişkilendirilen melektir. Geleneksel olarak kayıpları (insan, ilişki ya da nesne) bulmaya, kırgınlıkları onarmaya ve içsel barışa kavuşmaya yardım ettiğine inanılır. Bazı listelerde Getsemani bahçesinde duada bunalan İsa'yı teselli eden melekle özdeşleştirilir. Hristiyan halk dindarlığında ve ezoterik gelenekte uzlaşmanın, hoşgörünün ve koşulsuz sevginin sembolü olarak anılır.
+
+### Arka Plan
+
+Chamuel — 'Tanrı'yı arayan': 'aşk' ve 'ilişki' meleği; 'huzur' figürüyle 'kaybı bulma' meleği.

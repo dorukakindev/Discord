@@ -6,3 +6,7 @@ Bütün dinlerde tek bir evrensel melek hiyerarşisi vardır.
 
 ### Düzeltme
 Yanlış. Yahudi, Hristiyan, İslami, Zerdüşt ve Hermetik sistemler ortak adlar kullansa bile aynı sınıflama mantığıyla çalışmaz.
+
+### Arka Plan
+
+Tek-hiyerarşi — 'tek' figürü: 'tek' 'hiyerarşi' 'yok' 'uyarısı'; 'hiyerarşi = çok' figürü.

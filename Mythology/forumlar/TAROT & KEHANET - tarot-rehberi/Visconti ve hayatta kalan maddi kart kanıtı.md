@@ -9,3 +9,7 @@ Visconti ve Visconti-Sforza desteleri tarotun erken evresini soyut iddialardan �
 - yale-visconti
 - met-article
 - tarot-heritage-italian
+
+### Arka Plan
+
+Visconti kanıt — 'kanıt' figürü: 'Visconti' 'hayatta kalan' 'maddi' 'kanıtı'; 'kanıt = köken' figürü.

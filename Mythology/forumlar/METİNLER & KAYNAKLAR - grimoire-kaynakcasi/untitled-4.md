@@ -8,3 +8,7 @@ Ritüel detayları tarihsel/kültürel bağlamda özetlenir; panel uygulama tali
 - **Düşük bağlam riski** — Entries: book-of-ceremonial-magic · the-magus · dogme-et-rituel
 - **Yanlış dönemlendirme riski** — Entries: galdrakver-lbs-143 · book-of-shadows
 - **Operasyonel ayrıntı riski** — Entries: lesser-key-of-solomon · book-of-oberon · munich-manual-of-demonic-magic · grimorium-verum · grand-grimoire
+
+### Arka Plan
+
+Grimoire okuma stratejisi — 'katalog-tür' ayrımı: 'demon-katalog' (Goetia), 'tılsım-kitap' (Key of Solomon), 'süreç-metin' (Abramelin), 'halk-defteri' (Galdrabók) — 'hangi tür' sorusu 'hangi pratiğe' sorusunu yanıtlar. 'Katalog = adres' olarak 'nasıl kullanılır' katmanı.

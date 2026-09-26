@@ -27,3 +27,7 @@ Sandalphon, duaları yukarı taşıyan ve Tanrı için taç dokuyan yüksek fig�
 - Jewish Encyclopedia: Angelology
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/0/0d/Sandalphon_by_Florence_Freeman.jpg/revision/latest/scale-to-width-down/600?cb=20250601191505)
+
+### Arka Plan
+
+Sandalphon — 'ikiz' 'melek' 'insan' 'dönüşmüş' 'figürü'; 'Sandalphon = ikiz' figürü.

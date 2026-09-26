@@ -8,3 +8,7 @@
 - quran-2-102
 - britannica-angel-demon-world-religions
 - esoteric-archives-enochian-invocations
+
+### Arka Plan
+
+Apocalyptic-war — 'savaş' figürü: 'apocalyptic' 'war' 'melek' 'savaş' 'matrisi'; 'war = savaş' figürü.

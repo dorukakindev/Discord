@@ -19,3 +19,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Istanbul%2C_Topkap%C4%B
 - İnsanların kalbine fısıldama
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Istanbul%2C_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi%2C_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg/960px-Istanbul%2C_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi%2C_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+İblis (Şeytan), İslam'da Adem'e secde etmeyi redden cin: 'Ben ondan hayırlıyım' kibriyle kovulur; 'Ash-Shaytan' lakabı alır. Kur'an'da cinlerin en gururlusu, Allah'tan 'insanları saptırma izni' alan figür. İnsan düşmanı ama kadiri-mutlak değil — 'vesves' mekanizmasıyla çalışır; 'iç ses' olarak kalbe yaklaşır. Sufi okumada 'kibir dersi'nin arketipi.

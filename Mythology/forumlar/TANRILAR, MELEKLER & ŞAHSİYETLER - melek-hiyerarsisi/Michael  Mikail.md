@@ -29,3 +29,7 @@ Michael, üç büyük İbrahimî gelenekte en güçlü ortak başmelek figürler
 - Britannica: Jibril
 
 ![gorsel](https://static.wikia.nocookie.net/mythology/images/d/df/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-06-24_175558516.png/revision/latest/scale-to-width-down/673?cb=20240624105620)
+
+### Arka Plan
+
+Michael — 'savaş' 'melek' 'kötü' 'düşman' 'figürü'; 'Michael = savaş' figürü.

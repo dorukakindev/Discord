@@ -15,3 +15,7 @@ Hamsa, Sami kültürlerinde beden ve ruh sağlığını koruyan, kötü gözü d
 -# Çapraz: Nazar Boncuğu · Evil Eye · Çocuk Koruma Büyüleri
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/960px-WPVA-khamsa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Hamsa ('beş') / El-Fatima'nın eli — 'kötü göz eli': avuç içi ortasında göz taşıyan açık el; İslam'da Fatıma'nın sabrı, Yahudi geleneğinde Miriam'ın eli, Berberi'de 'beş koruyucu'. 'Nazar'la ��ift katmanlı — bakışı durduran el; 'beş parmak = beş sütun' metaforu. Kuzey Afrika'dan Orta Doğu'ya 'evin avuç içi' olarak asılır.

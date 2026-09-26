@@ -8,3 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/b/be/Sceletium_tortuosum_01102003
 Psikedelikten çok ruh hali düzenleyici, hafif sarhoşluk veren bir bitki. Geleneksel olarak çiğnenir veya tütsülenir.
 
 ![gorsel](https://upload.wikimedia.org/wikipedia/commons/b/be/Sceletium_tortuosum_01102003_Afrique_du_sud_2.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
+
+### Arka Plan
+
+Kanna (Sceletium tortuosum) — Güney Afrika'nın 'kanna' bitkisi: mesembrin alkaloidleriyle 'serotonerjik' etki; 'anti-anksiyete' ve 'empati' özellikleriyle 'sahte' sınıf; 'kougoed' (çiğnenebilir) geleneksel form.

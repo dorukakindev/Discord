@@ -6,3 +6,7 @@
 Marseille bilgisini nesne kaydına bağla; kutu/kart karışıklığı gibi katalog uyarılarını kaynak güven katmanında göster.
 
 -# Kaynaklar: https://www.britishmuseum.org/collection/object/P_1904-0511-47-1-78
+
+### Arka Plan
+
+Nicolas Conver — 'Marseille' figürü: 'standart' 'Fransız' baskısı; 'Conver = standart' figürü.

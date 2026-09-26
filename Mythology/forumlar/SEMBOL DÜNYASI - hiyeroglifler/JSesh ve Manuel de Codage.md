@@ -11,3 +11,7 @@
 - Manuel de Codage
 - JSesh
 - Unicode Chapter 11
+
+### Arka Plan
+
+JSesh-MdC — 'kodlama' figürü: 'Manuel de Codage' 'dizgi' 'sistemi'; 'JSesh = uygulama' figürü.

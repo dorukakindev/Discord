@@ -14,3 +14,7 @@ Kabir azabı ve kabir nimeti kavramları da berzah dönemine aittir: iyi ruhlar 
 - Hesabı belirsiz ruhlar
 - Kıyamet bekleyenler
 -# Çapraz: Jannah · Cehennem · Allah · Kıyamet · Sırat Köprüsü · Melek · İblis
+
+### Arka Plan
+
+Araf — 'yükseklikler/surlar': Cennet ve Cehennem arasındaki eşik; İslam'da 'kararsızların bekleme yeri' olarak okunur. Kur'an 7:46-48'de Araf halkının 'iki tarafa da bakıp tanıması' tasviri. 'Hesap verilmemiş ara durum' — ne mükâfat ne ceza; 'eşikte bekleyiş'.

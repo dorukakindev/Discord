@@ -10,3 +10,7 @@
 ### Kaynak No
 - UAX #57 current
 - Classifier study
+
+### Arka Plan
+
+Tool-craft — 'araç' figürü: 'tool' 'craft' 'araç' 'zanaat' 'figürü'; 'tool = araç' figürü.

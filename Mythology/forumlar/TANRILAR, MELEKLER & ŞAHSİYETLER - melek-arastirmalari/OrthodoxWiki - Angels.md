@@ -6,3 +6,7 @@
 Doğu Hristiyan ikonografi, litürji ve melek bayramları bağlamını Batı skolastik şemasıyla yan yana koymak için kullanıldı.
 
 -# Kaynaklar: https://orthodoxwiki.org/Angels
+
+### Arka Plan
+
+OrthodoxWiki — 'Ortodoks' figürü: 'OrthodoxWiki' 'melek' 'makalesi'; 'Orthodox = doktrin' figürü.

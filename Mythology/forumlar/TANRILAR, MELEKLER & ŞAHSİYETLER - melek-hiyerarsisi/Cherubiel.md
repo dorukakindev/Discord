@@ -22,3 +22,7 @@ Cherubiel, Hekhalot ve Kabala etkili melek listelerinde Cherubim sınıfıyla ba
 
 ### Source refs
 - Jewish Encyclopedia: Angelology
+
+### Arka Plan
+
+Cherubiel — 'keruv' figürü: 'Cherubiel' 'keruv' 'figürü'; 'Cherubiel = keruv' figürü.

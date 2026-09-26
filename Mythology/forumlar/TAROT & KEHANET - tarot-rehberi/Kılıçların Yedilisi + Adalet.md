@@ -7,3 +7,7 @@ Gizli strateji etik hesapla yüzleşir; akıllı planın adil olup olmadığı s
 ### Cards
 - seven-of-swords
 - justice
+
+### Arka Plan
+
+Kılıçların Yedilisi + Adalet — 'hile + denge' ikilisi: yedi kılıcın 'kaçak' figürüyle Adalet'in 'terazi' — 'hile ortaya çıkar' veya 'hile gerekebilir' ikili okuma; 'strateji mi aldatma mı' sorusu.

@@ -12,3 +12,7 @@ Su dalgası işaretiyle ilişkili alanlarda kullanılır; fonetik n ile karışa
 - TLA lemma lists
 
 ![gorsel](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Water_droplet_blue_bg05.jpg/960px-Water_droplet_blue_bg05.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+
+### Arka Plan
+
+Su — 'mw' figürü: 'su' 'mw' 'dalga' 'figürü'; 'su = dalga' figürü.

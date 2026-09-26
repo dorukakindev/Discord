@@ -8,3 +8,7 @@
 - Sınır
 - Nöbet
 -# Çapraz: Camael · Michael
+
+### Arka Plan
+
+Güçler — 'güç' 'melek' 'savaş' 'figürü'; 'power = güç' figürü.

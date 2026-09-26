@@ -8,3 +8,7 @@ Ev işareti logogram ve fonogram olarak çok üretkendir; pr-ꜥꜣ firavun etim
 ### Kaynak No
 - UCL ideograms
 - TLA lemma lists
+
+### Arka Plan
+
+Ev-dışarı — 'çıkma' figürü: 'ev' 'dışarı' 'çıkma' 'figürü'; 'dışarı = çık' figürü.

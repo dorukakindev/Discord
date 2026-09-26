@@ -12,3 +12,7 @@
 - learntarot-course
 - labyrinthos-meanings
 - sacred-texts-pkt-index
+
+### Arka Plan
+
+RWS okuma — 'görsel' 'başlangıç' figürü: 'sahne' 'anlam' olarak 'ilk bakış' pratiği.

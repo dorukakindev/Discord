@@ -8,3 +8,7 @@ Sola Busca ile RWS arasındaki resimli Minor Arcana ve tarihsel öncelik farkın
 -# Kaynaklar: https://pinacotecabrera.org/en/news/mostra/il-segreto-dei-segreti-i-tarocchi-sola-busca/
 
 ![gorsel](https://pinacotecabrera.org/wp-content/uploads/2024/11/10-XX-Nenbroto.jpg)
+
+### Arka Plan
+
+Brera Sola Busca — 'İtalyan' figürü: 'Pinacoteca' 'Sola Busca' koleksiyonu; 'Brera = köken' figürü.

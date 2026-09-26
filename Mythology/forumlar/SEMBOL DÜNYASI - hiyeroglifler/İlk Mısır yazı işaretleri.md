@@ -4,3 +4,7 @@
 
 ### Ayrıntı
 Mal idaresi, bölgesel güç ve erken kraliyet kimliğiyle ilişkili işaretler görünür hale gelir.
+
+### Arka Plan
+
+İlk işaretler — 'başlangıç' figürü: 'ilk' 'Mısır' 'yazı' 'işaretleri'; 'ilk = başlangıç' figürü.

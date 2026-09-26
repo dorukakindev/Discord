@@ -5,3 +5,7 @@
 ### Kaynak No
 - UCL Denderah translation
 - Offering formula overview
+
+### Arka Plan
+
+T-henket — 'ekmek' figürü: 't ḥnqt kꜣw ꜣpdw' 'ekmek' 'bira' 'sığır' 'kuş' 'figürü'; 't-henket = sunu' figürü.
