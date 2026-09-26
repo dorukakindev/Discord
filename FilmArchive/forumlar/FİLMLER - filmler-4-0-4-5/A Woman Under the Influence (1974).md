@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **9** · Diyalog **8** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · A Woman Under the Influence (1974) · Derin Analiz
 # Ayrıntılı konu
-Mabel, işçi sınıfı evinde üç çocuğuyla yaşayan bir kadındır; davranışları giderek 'normal' dışına çıkar — misafirlere dokunur, sokakta dans eder, kocasının iş arkadaşlarına garip yemekler sunar. Kocası Nick onu akıl hastanesine gönderir; altı ay sonra döndüğünde aile aynı kalıpları kurar ve Mabel'in 'iyileşmesi' herkesin ona verdiği rol kadarını gösterir.
+Mabel Longhetti (Gena Rowlands), işçi sınıfı anne; kocası Nick (Peter Falk) inşaat işçisidir. Mabel 'farklı'dır — sesleri, hareketleri, çocukların doğum gününde 'garip' davranışlarıyla çevreyi rahatsız eder; Nick onu 'hasta' olarak görür ve hastaneye gönderir. Altı ay sonra döner ama 'iyileşmemiştir' — eve dönüş partisi de bir felakettir. Film 'delilik' ve 'normallik' arasındaki çizgiyi siler.
 
 # Tez
-Kadının deliliği mi, yoksa çevresinin ona giydirdiği ceket mi sorusudur: Mabel'in hareketleri toplumun gördüğü şeyi işaret eder, ama toplumun bakışı onu hasta olarak üretir. Cassavetes'in cevabı çift yönlüdür — ikisi de doğru, ikisi de yetmez.
+Delilik, toplumun 'uygunluk' talebidir — Cassavetes'in tezi: Mabel 'hasta' değil 'farklı'dır ama aile ve toplum 'düzen' ister; Nick'in sevgisi 'baskı'ya dönüşür çünkü 'normal' olmak onun işidir. Mabel'in 'kırılması' onun 'kurtuluşu' da olabilir — ama bedeli 'ev' değil 'hücre'dir.
 
 ## Mekanizma
-Gena Rowlands'ın bedeni kamera önünde sürekli 'aşar': jest çoktur, kontrol yoktur, doğaçlama gerçeklikle kurgu arasında titrer. 'Hasta' etiketi ailenin iletişim dilini tek tekre düşürür.
+Doğaçlama gibi görünen performanslar — Cassavetes'in 'gerçek zamanlı' çekimi — izleyiciyi 'misafir' yapar; evin dar odaları ve merdivenler kapanmayı görselleştirir. Doğum günü partisi sahnesi — çocuklar, pasta, Mabel'in 'gösterisi' — rahatsız edicidir çünkü 'eğlence' zorlanır. Nick'in suskunluğu ve patlamaları 'sevgi-şiddet' ikilisini verir.
 
 ## Kişisel uygunluk
-Psikolojik yoğunluk ve normalliğin sorgulaması tam profiline uygun.
+Aile baskısı ve 'delilik' etiketi profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · A Woman Under the Influence (1974) · Notlar
 ### Tartışmalar & Notlar

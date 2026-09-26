@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/cl0HEZT8UfzLqaMrYTvGNHOfPYj.jpg
 > **Yönetmen:** Ingmar Bergman · **Tür:** Dram, Gerilim · **Süre:** 84 dk · **Dil:** İsveççe · **Yıl:** 1966
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 10/10 ve sembolik katman 9/10.
 
-Alma adında genç bir hemşire, her bakımdan sağlıklı görünen ama konuşmayan bir aktris olan Elisabeth Vogler'ın sorumluluğunu üstlenir. Birlikte vakit geçirirken Alma, Elisabeth'le sürekli konuşur ve hiçbir yanıt alamaz.
+Konuşmayı bırakan ünlü aktris Elisabet Vogler ile hemşiresi Alma, ıssız bir adada birlikte kalır; Alma'nın yakınlık arayışı ve Elisabet'in sessizliği iki kadının kimliğini birbirine karıştırır.
 
 ### Puanlar
 IMDb **8.0/10** · Letterboxd **4.37/5** · nMDB **83.7**

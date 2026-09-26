@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/bEX0pQzpmsBM6pRo3meindwNTzE.jpg
 > **Yönetmen:** Bernard Queysanne · **Tür:** Dram · **Süre:** 77 dk · **Dil:** Fransızca · **Yıl:** 1974
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Genç bir öğrenci, yaşamı minimum düzeyde sürdürmek için gerekenden daha fazla dünyayla etkileşime girmemeye karar verir. Giderek otomat benzeri davranışlarına, etrafındaki dünyaya dair tuhaf bir içgörü netliği eşlik ediyor.
+Georges Perec'in metninden uyarlanan film, Paris'te 'hiçbir şey hissetmeyen' genç bir öğrencinin günlerini anlatır; şehir, nesneler ve rutin arasında kendi varoluşunun boşluğuna sürüklenir.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.20/5** · nMDB **81.5**

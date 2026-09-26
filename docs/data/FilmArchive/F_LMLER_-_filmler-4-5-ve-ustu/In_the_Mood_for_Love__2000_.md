@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg
 > **Yönetmen:** Wong Kar-Wai · **Tür:** Dram, Romantik · **Süre:** 99 dk · **Dil:** Kantonca · **Yıl:** 2000
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve psikolojik mekanizma 9/10.
 
-İki komşu, eşlerinin evlilik dışı faaliyetlerinden şüphelendikten sonra güçlü bir bağ kurar. Ancak benzer yanlışlara düşmemek için bağlarını platonik tutmayı kabul ederler.
+1962 Hong Kong'unda Chow ve Su, aynı apartmanda kiracıdır; eşlerinin birbirlerini aldattığını keşfettiklerinde kendi 'yakınlıklarını' kurarlar ama 'onlar gibi olmama' sözüyle aşklarını bastırırlar.
 
 ### Puanlar
 IMDb **8.0/10** · Letterboxd **4.37/5** · nMDB **83.7**
@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **9** · Diyalog **6** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · In the Mood for Love (2000) · Derin Analiz
 # Ayrıntılı konu
-
-In the Mood for Love (2000), Wong Kar-Wai'nin 1962 Hong Kong'unda iki komşunun eşlerinin birbirleriyle ilişkisi olduğunu keşfetmesini anlattığı filmidir. Chow Mo-wan ve Su Li-zhen, komşudur; eşleri birbirleriyle ilişkidedir. İkisi 'sadece arkadaş' olur ama 'sadece' kelimesi giderek anlamını yitirir. Su Li-zhen'in 'qipao'ları, Chow'un sigaraları, noodle lokantası ve 'zaman'ın yavaşlığı anlatının dokusunu oluşturur; 'aşk' konuşulmaz ama her detayda hisseder. Finalde Chow, Angkor Wat'ta bir deliğe sırrını söyler ve örter — 'sır', 'aşk'ın tek varoluş biçimidir.
+1962 Hong Kong — Chow Mo-wan ve Su Li-zhen aynı apartmana kiracı taşınır; eşleri sürekli 'iş'tedir. İkisi eşlerinin birbirlerini aldattığını keşfeder ve kendi 'yakınlıklarını' kurgularlar — birlikte eşlerinin nasıl 'başladığını' canlandırırlar. Ama kendi aşkları 'olmaması gereken'dir: 'Biz onlar gibi olmayacağız.' Chow Angkor Wat'a gider ve sırrını bir deliğe fısıldar — çimenle kapatır.
 
 # Tez
+Aşk, fırsatın yokluğunda tanımlanır — Wong Kar-wai'nin tezi: aşklarının 'olmaması' onu 'saf' kılar; tutku eylemsizlikte saklanır çünkü eylem, diğerleri gibi olmayı gerektirir. Sır, kapatıldığı yerde yaşar — sinema 'söylenemeyen'i korur.
 
-In the Mood for Love (2000), 'aşk'ın konuşulamayan, sadece 'paylaşılan' bir şey olduğunu ve zamanın duyguyu nasıl şekillendirdiğini sorgulayan; 'sır' kavramının aşkın tek varoluş biçimi olduğunu gösteren bir kısıtlı-arzu meditasyonudur.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru 'yakınlaşma-uzaklaşma' dansıdır: Chow ve Su, 'sadece arkadaş' olurlar ama 'sadece' kelimesi giderek anlamını yitirir. Wong, 'qipao'ları ve sigaraları 'duygu'nun fiziksel tezahürü olarak kullanır; 'zaman'ın yavaşlığı, aşkın 'büyümesi' için gereken alanı yaratır. Chow'un Angkor Wat'taki sırrı, 'aşk'ın 'söylenemeyen' doğasıdır — deliğe söylenip örtülen, varoluşun gizli katmanıdır.
+## Mekanizma
+Christopher Doyle'un kamerası — aynalar, perdeler, çerçeveler — karakterleri 'ayrık' çeker: onlar hep 'aralıkta' görünür, asla birlikte tam kadrajda değil. Cheongsam elbiseleri Su Li-zhen'in 'tekrarlanan güzelliğini' verir — her elbise bir 'gün'dür, zaman ölçülür. Finaldeki Angkor Wat sekansı diyalogsuzdur — sır fiziksel olarak 'gömülür'; doğa onu emer.
 
 ## Kişisel uygunluk
-
-Psikolojik mekanizma (arzu-kısıtlama) ve sembolik katman (qipao, sigara, Angkor Wat) tam puan; Chow ve Su arketipik değil psikolojiktir. Diyaloglar 'konuşulamayan'ın dilsel haritasıdır.
+Yasak aşk ve estetik mesafe profiline çok güçlü uyuyor — sinemanın en güzel 'olmamış' aşkı.
 
 -# THE FILM ARCHIVE · In the Mood for Love (2000) · Notlar
 ### Tartışmalar & Notlar

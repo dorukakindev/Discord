@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg
 > **Yönetmen:** Pedro Almodóvar · **Tür:** Dram, Gizem, Romantik · **Süre:** 112 dk · **Dil:** İspanyolca · **Yıl:** 2002
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Bakıcı Benigno yıllardır komadaki bale öğrencisi Alicia'ya 'konuşur'; gazeteci Marco da komadaki boğa güreşçisi Lydia'nın başındadır. İki adamın aşkı hastane odasında kesişir — birinin sevgisi diğerininkinden hem daha saf hem daha karanlıktır.
+Benigno komadaki dansçı Alicia'yı 'konuşarak' sever, Marco matador Lydia'yı 'izleyerek'; iki tek yönlü aşk, Almodóvar'ın 'iletişim cevap beklemeden konuşmaktır' tezini kurar.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **3.86/5** · nMDB **78.1**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Talk to Her (2002) · Derin Analiz
 # Ayrıntılı konu
-Benigno, komadaki Alicia'yı yıllardır 'konuşarak' bakar; Marco ise boğa güreşçisi Lydia'nın komada olduğunu öğrenir ve Benigno'ya 'konuşma' konusunda öğüt verir. İki adamın sevgisi farklıdır: Benigno'un sevgisi takıntılı ve sonunda suçludur; Marco'nun sevgisi daha 'sağlıklı' ama daha az safdır. Alicia uyandığında Benigno hapishanededir ve onu göremez.
+Almodóvar'ın 'komada' filmi: Benigno, Alicia'yı (bale öğrencisi) 'bakıcı' olarak 'sever' — 'konuşur', 'dokunur', 'hayal' eder; Marco, Lydia'yı (matador) 'sever' — 'aktif' hayatı 'izler'. İki 'aşk' 'komada'dır — 'iletişim' 'tek yönlü'dür ama 'gerçek'tir. Alicia 'uyanır' — 'mucize' mi 'şans' mı? — ve Benigno 'yok' olur; Marco 'ağlar' — 'aşk' 'kayıp'la 'tanınır'.
 
 # Tez
-Aşkın dozu, bedenin tepkisiyle ölçülmez — Benigno'un sevgisi etik değildir ama Alicia'yı hayata döndüren tek şey odur. Almodóvar'ın paradoksu: tecavüzcü'nün sevgisi gerçek midir?
+Aşk, 'cevap' 'beklemeden' 'konuşmaktır' — Almodóvar'ın tezi: 'komada' 'iletişim' 'tek taraflı' görünür ama 'derin'dir; Benigno'nun 'aşkı' 'hastalıklı' değil 'saf'tır — 'vermek' 'almak'tan 'önce' gelir. 'Uyanma' 'ödül' değil 'rastlantı'dır.
 
 ## Mekanizma
-İki çiftin paralel hikâyesi erkeklerin kadınları 'dinleme' biçimlerini karşılaştırır; 'The Shrinking Lover' sessiz filmi Benigno'un iç dünyasının alegorisidir.
+'Pina Bausch' dansı — 'Café Müller' — 'uyuyan' kadınlar ve 'duvar'lar — 'aşk'ın 'hareketsiz' halidir; 'mini' film — 'The Shrinking Lover' — 'küçülme' 'büyüme'nin 'tersi'dir. 'Renk' — kırmızı, mavi, yeşil — 'duygu'nun 'dilidir'.
 
 ## Kişisel uygunluk
-Arzu-etik paradoksu ve Almodóvar'ın duygusal derinliği profiline güçlü uyuyor.
+Aşk, 'bekleyiş' ve 'iletişim' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Talk to Her (2002) · Notlar
 ### Tartışmalar & Notlar

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/jkixsXzRh28q3PCqFoWcf7unghT.jpg
 > **Yönetmen:** Thomas Vinterberg · **Tür:** Dram · **Süre:** 116 dk · **Dil:** Danca · **Yıl:** 2012
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-A teacher lives a lonely life, all the while struggling over his son’s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.
+Anaokulu öğretmeni Lucas, küçük bir kızın hayali suçlamasıyla kasabada 'pedofil' damgası yer; masumiyeti kanıtlanamaz çünkü şüphe inanca dönüşür ve 'av' bir yıl sonra bile bitmez.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.29/5** · nMDB **84.4**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · The Hunt (2012) · Derin Analiz
 # Ayrıntılı konu
-Lucas, Danimarka'nın küçük kasabasında öğretmen yardımcısıdır; küçük bir kızın masum sözü yanlış anlaşılır ve toplum onu çocuk istismarcısı olarak damgalar. Kasaba bir avcı sürüsüne döner — arkadaşları onu döver, köpeği öldürülür ve kilisede bile yalnız kalır. Yıl sonra 'affedilir' gibi görünür ama film son sahnede bir av tüfeği sesiyle kapanır — kasabanın güveni asla tamir olmaz.
+Lucas, anaokulu öğretmeni; küçük bir kızın 'hayali' suçlamasıyla 'pedofil' olarak damgalanır. Kasaba 'kapanır' — arkadaşlar, aile, kilise; Lucas 'temiz' çıkar ama 'damga' silinmez. Bir yıl sonra 'barış' sağlanır gibi görünür ama 'av' devam eder — 'birisi' hâlâ 'nişan' alır. Vinterberg'in 'sosyal' gerilimi: 'masumiyet' 'şüphe'yle 'yok edilir'.
 
 # Tez
-Kalabalık, şüpheyi kanıt olarak görür: masumiyetin kanıtı asla yeterli değildir çünkü 'neden' sorusu 'nasıl' sorusunu yutar. Vinterberg'in acımasızlığı — toplumun korkusu bireyin hayatını yok eder.
+Topluluk, 'birey'i 'kurban' eder — Vinterberg'in tezi: 'suçlama' 'gerçek'ten önce gelir; Lucas'ın 'masumiyeti' 'kanıtlanamaz' çünkü 'şüphe' 'inanç'a dönüşür. 'Av' — 'erkek' ile 'doğa' arasındaki 'ritüel' — 'insan'ın 'av' olduğu 'tersine' çevrilir.
 
 ## Mekanizma
-Doğa ışığı ile kapalı mekânların karşıtlığı kasabanın 'temizliği' ile içindeki karanlığı gösterir; Lucas'ın gözleri masumiyetini taşır ama kimse bakmaz.
+'Kasaba' — dar sokaklar, 'komşu' evler — 'kapanma'yı verir; 'kilise' sahnesi — Lucas'ın 'bakışı' — 'suçluluk' ile 'masumiyet'in 'karşılaşması'dır. 'Noel' ve 'av' ritüelleri — 'gelenek' 'vahşeti' 'örtbas' eder; finaldeki 'tüfek' sesi — 'hâlâ' 'tehlike'dir.
 
 ## Kişisel uygunluk
-Toplumsal adalet ve masumiyet profiline çok güçlü uyuyor.
+Toplumsal linç ve 'masumiyet' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Hunt (2012) · Notlar
 ### Tartışmalar & Notlar

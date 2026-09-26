@@ -19,20 +19,16 @@ Düşünsel **9** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Mulholland Drive (2001) · Derin Analiz
 # Ayrıntılı konu
-
-Mulholland Drive (2001), David Lynch'in Hollywood'un rüya ve gerçeklik arasındaki sınırını sorguladığı filmidir. Betty Elms, aktris olmak için Los Angeles'a gelir; bir araba kazası geçiren 'Rita' ile tanışır. Rita, kimliğini kaybetmiştir; Betty, onun kimliğini bulmaya çalışır. İki kadın birbirine yakınlaşır; ama film ortasında gerçeklik kırılır — Betty 'Diane Selwyn' olur, Rita 'Camilla Rhodes' olur. Diane'in Hollywood'daki başarısızlığı, Camilla'ya olan aşkı ve kıskançlığı, filmin 'rüya' bölümünün kaynağıdır. Finalde Diane, Silencio kulübünde gerçekliğiyle yüzleşir; 'her şey kayıt'tır.
+Betty Elms, Hollywood'a oyuncu olmaya gelir; evinde hafızasını kaybetmiş gizemli 'Rita'yı bulur — gerçek adı bilinmez, 'Rita' tabeladan alınmıştır. İkisi birlikte Rita'nın geçmişini araştırır ve Diane Selwyn adlı kadının evine giderler: orada ölü bir kadın yatakta yatmaktadır. Film iki saatinde birden 'reset'ler — Betty ve Rita yok olur; Diane Selwyn (Naomi Watts'ın ikinci karakteri) gerçek hayatta görünür: başarısız, kıskanç, Rita'nın (Camilla) onu terk ettiği için kiralık katil tutmuş bir kadın. 'Silencio' kulübü — 'band çalıyor ama müzisyen yok' — gerçeğin simülasyon olduğunu söyler. Son sahne: Diane tabancayı kendine çevirir.
 
 # Tez
+Hollywood rüyası, başarısızlığın telafisi olarak üretilir — Betty'nin ilk yarısı Diane'in hayalidir: 'mükemmel ben' Betty, 'sevgili' Rita'yı korur; Lynch'in iddiası: arzu kaybı inkâr edemez, onu yeniden yazar. İkinci yarı, rüyanın bedelini öder — Diane'in gerçek hayatı, Betty'nin hayalinin 'geri ödemesidir'.
 
-Mulholland Drive (2001), Hollywood'un rüya fabrikasının bireysel arzuyu nasıl parçaladığını sorgulayan; kimliğin, başarısızlığın ve aşkın birbirine karıştığı bir Los Angeles kâbusudur.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Betty/Diane dönüşümüdür: filmin ilk yarısı 'rüya' (Betty'nin ideal Hollywood'u), ikinci yarısı 'gerçek' (Diane'in başarısızlığı). Lynch, 'mavi kutu' ve 'Silencio' anahtarlarıyla rüya-gerçek sınırını işaretler; Rita/Camilla, Diane'in arzusunun ve suçluluğunun somutlaşmış halidir. 'Kovboy' ve 'karanlık adam' figürleri, Hollywood'un görünmez güçleridir.
+## Mekanizma
+Silencio sekansı — 'no hay banda' (grup yok) — filmin anahtarıdır: izlediğimiz şey kayıttır, 'canlı' yoktur; Rebekah Del Rio'nun 'Llorando' performansı 'gerçek' duygunun tek kaydıdır. Mavi kutu açıldığında rüya çöker — nesne gerçeği 'kapatır'. Naomi Watts'ın iki performansı — saf Betty ve çürümüş Diane — aynı yüzün iki versiyonudur.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (rüya-gerçek, kimlik) ve psikolojik mekanizma (arzu, suçluluk, ikame) tam puan; fikir-karakter bütünleşmesi kusursuz. Sembolik katman (mavi kutu, Silencio, kovboy) yoğun ve açık.
+Rüya mantığı ve Hollywood karanlığı profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Mulholland Drive (2001) · Notlar
 ### Tartışmalar & Notlar

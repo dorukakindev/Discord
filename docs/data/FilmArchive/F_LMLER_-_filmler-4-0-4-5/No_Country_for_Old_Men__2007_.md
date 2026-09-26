@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **6** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · No Country for Old Men (2007) · Derin Analiz
 # Ayrıntılı konu
-Llewelyn Moss, Texas çölünde bir uyuşturucu hesaplaşmasının kalıntılarından iki milyon dolarlık çanta alır; onun peşine Anton Chigurh düşer — kaderin kendisine benzeyen, yazı-tura atan, 'öldürmemin nedeni sen değilsin' diyen bir varlık. Şerif Ed Tom Bell kovalar ama hep geç kalır. Moss'un 'kahraman' ölümü ekran dışında gerçekleşir; Chigurh sonunda araba kazası geçirip yürüyerek uzaklaşır — yakalanamaz çünkü 'kural'dır, insan değil. Film Bell'in iki rüyasının anlatımıyla kapanır: babası ve 'ateş taşıma'.
+Llewelyn Moss, çölde 'kasa' bulur — uyuşturucu parası; Anton Chigurh, 'kader' gibi onu takip eder. Şerif Bell, 'yeni' şiddeti 'eski' ahlakla 'açıklamaya' çalışır ama 'anlayamaz' — Chigurh 'şeytan' değil 'doğa'dır: 'Coin toss' kararı. Moss ölür, karısı Carla Jean de Chigurh'ün 'kuralları'na uymaz ve ölür. Bell emekli olur ve 'rüyasını' anlatır — 'geçmişin' 'daha iyi' olduğunu sanar ama aslında 'aynı'dır.
 
 # Tez
-Kötülük sistematiktir çünkü kuralsızdır sanılır ama aslında en kuralcı olandır — Chigurh'un ahlakı 'seçim' değil 'prensip'tir. Coen'lerin nihilizmi: 'iyi' emekli olmak zorundadır çünkü dünya ona göre tasarlanmamıştır; Bell'in rüyası geçmişin kaybıdır.
+Şiddet, 'nesil'dir — Coen'lerin tezi: Chigurh 'kötü' değil 'kaçınılmaz'dır; Bell'in 'yorgunluğu' 'zamanın' geçişidir. 'No country' — 'bu ülke' — 'eski' değerlerin 'yaşanamaz' hâlidir; rüya 'geçmişe' özlem değil 'ölüme' hazırlıktır.
 
 ## Mekanizma
-Diyalogdan çok ses tasarımı taşır gerilimi — çakıl sesi, kapı menteşesi, Chigurh'un ayağının yumuşak basışı. Çölün açıklığı kapanmadır; Bell'in anlatısı filmin 'ahlaki geri sayımı' olarak fonksiyon görür ama hiçbir sonuca ulaşamaz — film de ulaşmayı reddeder.
+Diyalogsuz sekanslar — 'av' sahneleri — 'saf' gerilimdir; Chigurh'ün 'hava tabancası' 'sesli' ölümün 'sessiz' halidir. Para çantası 'MacGuffin' değil 'kader'dir — herkes onu 'arar' ama kimse 'tutmaz'. Bell'in 'rüya' monologu — 'babam meşale taşıyordu' — 'geçmiş' ile 'gelecek'in 'aynı' olduğunu söyler.
 
 ## Kişisel uygunluk
-Kader, şiddet ve ahlaki gerileme teması profiline çok güçlü uyuyor.
+Şiddet, kader ve 'eski' ahlak profiline çok güçlü uyuyor — Coen'lerin en 'karanlık' filmi.
 
 -# THE FILM ARCHIVE · No Country for Old Men (2007) · Notlar
 ### Tartışmalar & Notlar

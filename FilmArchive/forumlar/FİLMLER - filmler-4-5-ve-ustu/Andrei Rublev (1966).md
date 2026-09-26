@@ -19,20 +19,16 @@ Düşünsel **9** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Andrei Rublev (1966) · Derin Analiz
 # Ayrıntılı konu
-
-Andrei Rublev (1966), Andrei Tarkovsky'nin Ortaçağ Rus ikon ressamının yaşamını anlattığı destansı meditasyondur. Rublev, üç yol arkadaşıyla birlikte Rus topraklarında gezer; savaş, çapulcular, işkence ve inanç krizi onun sanatını sorgular. 'Sessizlik' bölümü, Rublev'in işkenceye tanık olup susmasıyla açılır — sanat, vahşet karşısında suskun mudur? 'Çan' bölümü, Rublev'in son eseri üzerine kurulur — çan, onun 'inanç'ını geri getiren bir mucizedir. Tarkovsky, Rublev'in sanatını 'ikon' olarak değil 'soru' olarak sunar; sanatçının görevi, cevap vermek değil soru sormaktır.
+15. yüzyıl Rusya'sında ikon ressamı Andrei Rublev'in hayatı — film onun eserlerinden çok 'gördükleri'ni anlatır. Bölüm bölüm ilerler: karnaval, pagan festivali, Tatar katliamı (The Raid), Borisk'in çan dökümü. Rublev, zulüm ve güzellik karşısında suskunlaşır — 'resim yapamıyorum çünkü insanlığı göremiyorum.' Son bölümde genç dökümcü Boriska, babasız kalarak devasa çanı tamamlar; Rublev'in suskunluğu kırılır ve son ikonunu boyar — film siyah-beyazdan renkli ikonların 'yaşayan' görüntülerine geçer.
 
 # Tez
+Sanat, tarihin şiddetinin cevabıdır — Tarkovsky'nin tezi: Rublev'in işi 'güzel resim' değil, 'insanlığa inanmak'tır; çan bölümü inancın somutlaşmasıdır: çocuk, bilmediği şeyi 'umarsızca' yapar ve sanat ancak böyle doğar. Sessizlik, dilin tükendiği yerde tek dürüst yanıttır.
 
-Andrei Rublev (1966), sanatın 'vahşet karşısında susma' hakkının olup olmadığını ve inancın sanatı nasıl dönüştürdüğünü sorgulayan; bir sanatçının 'sessizlik' ile 'kurtuluş' arasındaki yolculuğunu anlatan bir teolojik-sanat denemesidir.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Rublev'in 'sessizlik' ile 'konuşma' arasındaki çatışmasıdır: işkenceye tanık olup susmak, sanatın görevi midir? Tarkovsky, Rublev'in 'görme' eylemini 'sanat' olarak konumlandırır — o, resim yapmak yerine 'izlemek' için vardır. 'Çan' bölümü, sanatın 'mucize' olarak işlevini gösterir; çan, Rublev'in 'inanç'ının fiziksel tezahürüdür.
+## Mekanizma
+Raid bölümü — Rus köyünün Tatarlar tarafından yakılışı — sinema tarihinin en yıkıcı şiddet kayıtlarından biridir; şiddet estetize değil 'belgesel' çekilir. Renkli final: ikonlar yakın planda görülür — boyanın 'et' olduğu anlaşılır; siyah-beyaz tarih renkli imgeye dönüşür. Boriska bölümü filmi 'yeniden doğmuş' kılar: Rublev'in işi çocuğun gözlerinde tamamlanır.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (sanat-vahşet, inanç-sessizlik) ve sembolik katman (ikon, çan, at) tam puan; Rublev arketipik ama psikolojik olarak derindir. Ezoterik yüksek (Ortaçağ simgeselliği).
+Sanat, inanç ve tarihsel şiddet profiline çok güçlü uyuyor — sinema tarihinin en derin filmlerinden.
 
 -# THE FILM ARCHIVE · Andrei Rublev (1966) · Notlar
 ### Tartışmalar & Notlar

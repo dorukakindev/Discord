@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg
 > **Yönetmen:** Charlie Kaufman · **Tür:** Dram · **Süre:** 124 dk · **Dil:** İngilizce · **Yıl:** 2008
 **Sana uygunluk: 4.4/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve psikolojik mekanizma 9/10.
 
-Bir tiyatro yönetmeni, yeni oyununun bir parçası olarak bir depoda New York'un gerçek boyutlu bir kopyasını yaratmaya çalışırken işiyle ve hayatındaki kadınlarla mücadele ediyor.
+Tiyatro yönetmeni Caden Cotard, MacArthur bursuyla devasa bir depoda New York'un gerçek boyutlu kopyasını kurar; kendi hayatını oynayan aktörlerle birlikte oyun gerçekliği yutar ve ölüme bir prova olur.
 
 ### Puanlar
 IMDb **7.5/10** · Letterboxd **4.15/5** · nMDB **79.0**
@@ -19,16 +19,16 @@ Düşünsel **9** · Psikolojik **9** · Diyalog **8** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Synecdoche, New York (2008) · Derin Analiz
 # Ayrıntılı konu
-Caden Cotard, Schenectady'de küçük bir tiyatro yöneticisidir; bedeni onu terk etmeye başlar, karısı Adele kızını alıp Berlin'e gider ve Cotard, aldığı 'cömert' bursla devasa bir depoda şehrin kendisinin devasa kopyasını kurmaya başlar: oyuncular oyuncuları oynar, setler içinde setler, senaristler hayatı yazar ve yönetmen kendi ölümünü prova eder. Yıllar depo içinde akar; gerçeklik ile temsil birbirinin içine geçer, karakterler birbirlerinin rollerini üstlenir ve Cotard kendi hayatını yönetirken hayat onu yönetir.
+Caden Cotard, tiyatro yönetmeni; karısı Adele onu terk eder, MacArthur bursu kazanır ve New York'un devasa bir deposunda 'hayatının oyunu'nu kurar — gerçek boyutlu bir şehir kopyası, içinde kendini oynayan aktörler. Yıllar geçer: Caden'in oyundaki 'Caden'i (Sammy) onun yerine yaşar; sahte eş, sahte kız, sahte ölümler... Oyun gerçekliği yutar — izleyici neyin 'oyun' neyin 'hayat' olduğunu kaybeder. Sonunda Caden depodaki 'kendi' rolünü oynar ve ölürken 'hiçbiri sen değilsin' cümlesini duyar.
 
 # Tez
-Benliği anlamaya çalışan zihin, dünyayı ancak onu taklit ederek kavrayabilir — fakat taklit, taklit edileni yutar. Kaufman'ın en karanlık önermesi: Kimse hayatının kahramanı değildir; herkes, başkasının anlattığı hikâyede figürandır ve depo asla bitmez çünkü modelin içine modeli koyan zihin sonsuz regres üretir.
+Hayat, kendi canlandıramadığımız roldür — Kaufman'ın tezi: Caden her şeyi 'kontrol etmek' ister ve sonunda kendisi de 'oyuncu' olur; ölümle yüzleşmenin tek yolu onu 'oynamak'tır ama oynamak, yaşamanın yerini tutmaz. Depodaki New York, hayatın 'sonsuz prova'sıdır — ilk gösterim hiç yapılmaz.
 
 ## Mekanizma
-Tiyatronun meta-yapısı bir ontoloji deneyidir: temsil katmanı her eklendiğinde 'dışarıdaki' benlik bir kat daha soğur. Caden'ın bedeni çürürken eseri büyür — sanatın ölümsüzlük vaadi, yaşayan bedenin reddi olarak işler. Kendini oynamak üzere tutulan her oyuncu, benliğin aynalar arası dağılmasıdır.
+Zaman çözülür — mevsimler dakikalar içinde geçer, yaşlanma 'anlık'tır; Caden'in bedeni hastalanır ama film onun bedenini değil 'sahnesini' gösterir. Deponun içindeki 'sokak' çekimleri — gerçek New York'un kopyası içindeki kopya — simülasyonun sonsuz aynasıdır. Yanan ev sahnesi (Adele'in 'hayaleti' içinde) rüyanın gerçeklikle çakıştığı andır.
 
 ## Kişisel uygunluk
-Felsefi yoğunluk ve benlik-bütünleşmesi maksimum; film izleyiciden metafizik sabır ister ve bunu karşılar.
+Yaratıcı kriz ve ölüm kaygısı profiline çok güçlü uyuyor — sinemanın en iddialı 'ben' filmi.
 
 -# THE FILM ARCHIVE · Synecdoche, New York (2008) · Notlar
 ### Tartışmalar & Notlar

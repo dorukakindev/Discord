@@ -19,20 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · The Handmaiden (2016) · Derin Analiz
 # Ayrıntılı konu
-
-The Handmaiden (2016), Park Chan-wook'un Sarah Waters'ın 'Fingersmith'ini 1930'lar Kore'sine uyarladığı filmidir. Sook-hee, bir dolandırıcının planıyla zengin Hideko'nun hizmetçisi olarak eve girer; amaç Hideko'yu tımarhaneye kapatıp mirasını almaktır. Üç bölümlü anlatı, her bölümde gerçeği yeniden yazar: Sook-hee'nin bakışı, Hideko'nun bakışı, sonra Fujiwara'nın bakışı. Hideko'nun 'okuma odası'ndaki işi — erkekler için pornografik metinler seslendirmek — onun özgürlüğünün hem zinciri hem anahtarıdır. Sook-hee ve Hideko'nun aşkı, planı bozar; Fujiwara ve amca Kouzuki'nin dünyası çöker. Finalde iki kadın, birbirlerinin 'okuyucusu' olarak kalır.
+Park Chan-wook'un Sarah Waters uyarlaması: 1930'lar Kore'sinde, Japon işgali altında dolandırıcı Fujiwara, zengin varis Hideko'yu kandırmak için hizmetçi Sook-hee'yi köşke yerleştirir. Amaç: Hideko'yu 'akıl hastanesine' kapatıp servetine el koymak. Ama Sook-hee ve Hideko arasında aşk başlar — ve plan ikisini birlikte Fujiwara'ya çevirir. Film üç bölümdür: Sook-hee'nin bakışı, Hideko'nun bakışı ve 'gerçek' — her bölüm önceki 'yalanı' çözer. Finalde ikili kaçar ve Fujiwara'nın ölümünü izlerler.
 
 # Tez
+Aşk, kurulan tuzağın kendisini deler — hikâye kimin kime yalan söylediği üzerine değil, iki kadının erkek düzenini 'program' olarak kullanarak özgürleşmesi üzerine; Park'ın tezi: arzu, kandırılamayan tek gerçektir.
 
-The Handmaiden (2016), bakışın gücünü ve 'okuma'nın özgürleştirici ve zincirleyici ikili doğasını sorgulayan; üç bakışla gerçeği yeniden yazan bir arzu-iktidar mekanizmasıdır.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru üç bakışın çelişkisidir: her bölüm, önceki bölümün 'gerçeğini' çürütür. Park, 'okuma odası'nı film boyunca gizemli tutar; Hideko'nun seslendirdiği metinler, onun özgürlüğünün sınırıdır — ama aynı zamanda Sook-hee'ye 'açılma' aracıdır. İki kadının aşkı, Fujiwara'nın 'sahiplenme' planını bozar; 'bakış' eylemi, sahiplenmekten tanımaya dönüşür.
+## Mekanizma
+Üç bölümlü yapı, izleyiciyi sürekli 'yanlış anlamaya' iter — ilk bölümde Sook-hee kurban görünür, ikinci bölümde Hideko'nun 'innocence'ının rol olduğu anlaşılır; her bölüm öncekinin boşluklarını doldurur. Kitap okuma sahneleri — Hideko'nun 'edebiyat' eğitiminin gerçek amacı — pornografik ve entelektüel bir tuzaktır; film cinselliği hem araç hem özgürlük olarak kullanır.
 
 ## Kişisel uygunluk
-
-Nedensellik ve fikir-karakter bütünleşmesi tam puan; üç bölümün mekaniği kusursuz. Psikolojik mekanizma (arzu, sahiplenme, aşk) güçlü; sembolik katman (okuma odası, ahtapot, kitap) yoğun.
+Manipülasyon, kadın ajanlığı ve Kore tarihi profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Handmaiden (2016) · Notlar
 ### Tartışmalar & Notlar

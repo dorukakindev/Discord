@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · There Will Be Blood (2007) · Derin Analiz
 # Ayrıntılı konu
-Daniel Plainview, petrol aramak için Kaliforniya çöllerine gider; oğlu H.W.'yi yanına alır, küçük kasabanın topraklarını kiliseden Eli Sunday'ın ruhuna karşılık alır. Petrol kuyusu zenginlik getirir ama Eli'nin Eli'liği, Daniel'in kibirini besler — ikisi birbirinin aynasıdır: biri Tanrı'nın, diğeri işin adamı. Son sahnede Daniel kilisede vaftiz olur ama ruhunu Eli'ye kaptırır; bodrumda onu bowling lobutuyla öldürür.
+Daniel Plainview, petrol kuyusu işçisinden baron olur — 'ailemi kuracağım' der ama tek ilişkisi petrollemedir. Eli Sunday (Paul Dano) onun 'halkla ilişkiler' yüzüdür: Eli'nin kilisesi Daniel'a para karşılığı vaaz verir; Daniel'ın kuyusu patlar, oğlu H.W. sağır olur. Daniel ve Eli arasındaki düşmanlık 'inanç vs para' değil, 'ikisi de sahtekârlık'ın kavgasıdır. Final: Daniel, Eli'yi bowling salonunda öldürür — 'I'm finished!' — kazanmıştır ama her şeyi kaybetmiştir.
 
 # Tez
-Kapitalizmin ve dinin ikiz ruhu: ikisi de vaat eder, ikisi de talan eder. Daniel'in petrolü çıkarmasıyla Eli'nin 'ruhun' satması aynı işlemdir; petrol kuyusu kan pompalar ama kimseye yeterince verilmez.
+Kapitalizm, ailenin yerine konan dindir — Anderson'ın tezi: Daniel'ın 'evlat edinme'si (H.W.) sadece işlevselliktir; petrol kan gibidir — akar, kirletir, aç bırakır. 'Milkshake' sahnesi — 'ben senin milkshake'ini içerim' — kapitalist açgözlülüğün metaforik patlamasıdır.
 
 ## Mekanizma
-H.W.'nin sağırlaşması Daniel'in iletişimden kaçmasının somut bedeni olur; 'rakip olarak' kurulan her ilişki metaforik olarak oğlu/babası şeklinde işler. Yağmur gibi petrol fışkırması doğanın iktidarsızlığına işarettir.
+Jonny Greenwood'un müziği — disonans, yaylı kapanmalar — filmin 'içsel çığlığı'dır; 20 dakikalık diyalogsuz açılış (petrol çıkarma) insanı 'iş' olarak sunar. Eli'nin kilisesi ile Daniel'ın kuyusu aynı görsel dilde çekilir — ikisi de 'ikna' mekânıdır; vaaz sahnesindeki 'ışık oyunu' şeytan çıkarmanın tiyatrosudur.
 
 ## Kişisel uygunluk
-Psikolojik-tematik derinlik maksimum; egonun yıkım profili sende çok güçlü izdüşümü var.
+Kapitalizm, güç ve ahlaki çürüme profiline çok güçlü uyuyor — Daniel Day-Lewis'in en büyük rolü.
 
 -# THE FILM ARCHIVE · There Will Be Blood (2007) · Notlar
 ### Tartışmalar & Notlar

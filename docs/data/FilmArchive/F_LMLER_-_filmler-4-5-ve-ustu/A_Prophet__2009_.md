@@ -19,20 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · A Prophet (2009) · Derin Analiz
 # Ayrıntılı konu
-
-A Prophet (2009), Jacques Audiard'ın bir Arap gencinin Fransız hapishanesinde 'peygamber' olmasını anlattığı filmidir. Malik El Djebena, 19 yaşında, okuma-yazma bilmeyen bir yetim; altı yıl hapse girer. Korsika çetesinin lideri César Luciani onu 'korur' ama aynı zamanda kullanır; Malik, çetenin 'görünmez' işlerini yapar. Zamanla Malik, hapishane içinde kendi ağını kurar — Araplar, Korsikalılar, diğer mahkûmlar arasında. 'Peygamber' lakabı, onun 'görü' yeteneğinden gelir — ama 'görü', hayatta kalmanın fiziksel aracıdır. Finalde Malik, hapishaneden çıkar ve 'kendi kaderinin' efendisi olur — ama bu 'özgürlük', hapishanenin 'okulu'nun ürünüdür.
+Malik El Djebena, 19 yaşında, okuma yazması olmayan Arap genci; altı yıl hapse girer. Cesar Luciani'nin (Korsikalı mafya) himayesine girer — önce 'hizmetçi' olur, sonra ilk cinayeti işler: Reyeb'in boğazını jiletle keser (sahnede ağızda tutulan bıçak, fiziksel olarak mide bulandırıcıdır). Zamanla Malik eğitilir — okuma öğrenir, dil öğrenir, 'oyunu' öğrenir — ve Cesar'ı iktidardan düşürerek kendi 'imparatorluğunu' kurar. Film, 'kurban'dan 'efendi'ye geçişin ahlaki maliyetini verir.
 
 # Tez
+Hayatta kalma, iktidarın dilini öğrenmektir — Audiard'ın tezi: hapishane bir üniversitedir; Malik'in yükselişi 'iyi' ya da 'kötü' değildir — sistemin içinde 'öğrenci' olmaktır. Sonunda Malik 'özgür' değildir, yeni bir zindan kurmuştur: kendisini.
 
-A Prophet (2009), 'peygamber' kavramının 'görü' ile 'hayatta kalma' arasındaki gerilimini sorgulayan; hapishanenin bir 'okul' olarak bireyi nasıl dönüştürdüğünü gösteren bir kozmik suç dramasıdır.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Malik'in 'yükselişi'dir: okuma-yazma bilmeyen yetimden 'peygamber'e. Audiard, Malik'in 'görü' yeteneğini 'hayatta kalma' aracı olarak konumlandırır — o, 'öngörür' çünkü 'dinler'. César'ın 'koruması' ile 'kullanması' arasındaki çizgi silinir; Malik'in 'özgürlüğü', hapishanenin 'öğrettiği' şeylerin ürünüdür. 'Peygamber' lakabı, onun 'insan' değil 'aracı' olduğunun simgesidir.
+## Mekanizma
+Malik'in okuma öğrenmesi — kelime kelime, harf harf — filmin 'bilinçlenme' eksenidir; hayal ile gerçek (Reyeb'in hayaleti) karışır — Malik'in içsel dünyası 'suçluluk'la konuşur. 'Gözetleme' sahneleri — Malik'in pencerelerden, kameralardan izlenmesi — izleyiciyi de 'gözlemci' yapar. Son sahne: Malik'in arabası ve korumaları — 'kurtuluş' kendi zırhıdır.
 
 ## Kişisel uygunluk
-
-Psikolojik mekanizma (yükseliş-öğrenme) ve nedensellik tam puan; Malik arketipik ama psikolojik olarak derindir. Sembolik katman (görü, kitap, hapishane) yoğun.
+Hapishane eğitimi ve iktidar yükselişi profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · A Prophet (2009) · Notlar
 ### Tartışmalar & Notlar

@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Decalogue I (1989) · Derin Analiz
 # Ayrıntılı konu
-Krzysztof, genç oğlu Pawel'i bilgisayarla yetiştiren bir mühendistir; Pawel'in sorduğu 'Ölüm nedir?' sorusuna 'kalp durur' cevabını verir. Pawel'in buz pateni hesabı bilgisayarla doğrulanır ama buz kırılır ve Pawel ölür. Krzysztof'ın son hamlesi kilisedeki bilgisayarı yıkmaktır — ama buzun altındaki bilgisayar ekranı hâlâ çalışmaktadır.
+Dekalog'un ilk bölümü: Krzysztof, profesör ve oğlu Pawel — bilgisayarla 'buzun kalınlığı' hesaplarlar, 'gölde kayabilir miyiz?' diye sorarlar. Bilgisayar 'evet' der ama buz kırılır ve Pawel boğulur. Krzysztof'un 'rasyonel' dünyası çöker — bilgisayar, 'hesaplanamayan'ı hesaplayamaz. Ayin sırasında ikonun gözünden 'yağmur' damlar — insanlık 'ağlar' ama makine 'açıklayamaz.'
 
 # Tez
-İlk emir 'Ben senin Tanrın olacağım' değildir — teknik bilgi, ilahi gerçeklik yerine konulamaz. Kieslowski'nin trajedisi: babanın rasyonelliği, oğlunun metafizik sorusunun cevabını veremez.
+Akıl, hayatın sınırlarını bilmez — Kieslowski'nin tezi: bilim 'öngörü'dür ama 'kader' değil; Pawel'in ölümü 'hesaplanabilir' değildir çünkü doğa 'rastgele'dir. İlk emir ('Başka tanrın olmayacak') burada 'bilim'in putlaştırılması olarak okunur.
 
 ## Mekanizma
-Yeşil-yeşil renk paleti soğukluğu biçimlendirir; bilgisayar ekranı karakterlerin yerine geçen 'kukla' olarak çalışır. İzleyen figür (Artur Barciś) bu kez göl kenarındaki balıkçıdır.
+Kış ve su — buz, göl, pencere — filmin 'soğuk' estetiği; bilgisayar ekranının yeşil ışığı 'umut' ile 'boşluk' arasında gider. Sessiz genç (tanık) sahilde oturur — ateşin yanında; 'insan' ısınır, 'doğa' yanar. Krzysztof'un ikonu tutuşu — bilgisayara bakarken — 'bilgi' ile 'inanç'ın çatışmasıdır.
 
 ## Kişisel uygunluk
-Teknoloji-inanç çatışması senin profiline ideal.
+Bilim-inanç çatışması ve kayıp profiline çok güçlü uyuyor — Dekalog'un en yıkıcı bölümü.
 
 -# THE FILM ARCHIVE · Decalogue I (1989) · Notlar
 ### Tartışmalar & Notlar

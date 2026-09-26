@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Dancer in the Dark (2000) · Derin Analiz
 # Ayrıntılı konu
-Selma, Çek göçmeni olarak Amerika'da fabrika işçisidir; oğlunun körlüğünü önlemek için biriktirdiği para komşusu Bill tarafından çalınır. Selma Bill'i öldürür, parasını geri alır ve yargılanır — masumiyetini savunamaz çünkü oğlunun ameliyatına yemin etmiştir. Müzikal sahneler hayal dünyasını gösterir: gerçekliğin sertliği, şarkılara kaçışın bedenidir. İdam edilirken oğlunun ameliyatı başarılıdır.
+Selma, Çek göçmeni; ABD'de fabrikada çalışır ve oğlu Gene'in kalıtsal körlüğü için para biriktirir. Kendisi de körlüyordur — gizlice film müzikallerini 'hayal' eder; komşusu Bill'in (polis) parasını çaldığını görür ama Bill onu 'ifşa' eder ve Selma onu öldürür. Mahkemede 'suçlu' bulunur, idam edilir — son sözü 'bu şarkıyı bitiremedim.' Björk'ün performansı — müzikale kaçan işçinin 'geri çekilmesi' — filmin duygusal merkezidir.
 
 # Tez
-Fedakârlık, cezanın üzerine kurulduğunda ahlaksal olarak kusursuzdur ama insanlık dışıdır: Selma'nın masumiyeti onu öldürür ama oğlunu kurtarır. von Trier'in savı — iyilik, kendini yok edince değerli olur mu?
+Fedakârlık, sistemin ezdiği tek 'saf' eylemdir — von Trier'in tezi: Selma'nın 'fedakârlığı' hukukun 'adaleti'nden üstündür ama sistem onu 'siler'; müzikal numaraları 'kaçış' değil 'dayanma' mekanizmasıdır — hayat dayanılmaz olduğunda şarkı başlar.
 
 ## Mekanizma
-Müzikal numaralar Selma'nın iç dünyasıdır; renkli hayaller siyah gerçekliğe karşıdur. 'Son şarkı' asla bitmez — idam sahnesi sessizliğiyle ünlüdür.
+El kamerası ve sabit renkler — 'belgesel' estetiği — Selma'nın hayalindeki müzikallerle (renkli, koreografili) çelişir; 'renkli dünya' gerçekliğin içinde 'çıkıntı' yapar. İdam sahnesi — 'son şarkı' — izleyiciyi 'ortak' yapar: Selma'nın 'görmeyen' bakışı bize bakar.
 
 ## Kişisel uygunluk
-Fedakârlık ve hayal-gerçek paradoksu profiline güçlü uyuyor.
+Fedakârlık, adaletsizlik ve müzikal profiline çok güçlü uyuyor — Dogme 95'in en acılı filmi.
 
 -# THE FILM ARCHIVE · Dancer in the Dark (2000) · Notlar
 ### Tartışmalar & Notlar

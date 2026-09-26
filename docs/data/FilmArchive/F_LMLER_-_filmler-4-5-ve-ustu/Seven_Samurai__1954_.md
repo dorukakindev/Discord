@@ -19,20 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · Seven Samurai (1954) · Derin Analiz
 # Ayrıntılı konu
-
-Seven Samurai (1954), Akira Kurosawa'nın bir köyün samuray kiralamasını ve savunmasını anlattığı destansı dramadır. Bir köy, her yıl hasat zamanında haydutlar tarafından yağmalanır; köylüler yedi samuray kiralar. Kambei, deneyimli bir lider; ekibi toplar, köyü savunma planı yapar. Haydutlar üç kez saldırır; köylüler 'köylü' kalır, samuraylar 'samuray' kalır. Finalde dört samuray ölür, köylüler hasat kutlar; hayatta kalanlar 'kaybedenler' olarak kalır — köylülerin kazandığı, samurayların kaybettiği açıktır. Kurosawa, sınıf farkını ve 'onur' kavramını sorgular.
+16. yüzyıl Japonya — haydutlar bir köyü yağmalamaya gelir; köylüler savunma için samuray tutarlar ama ödeme sadece pirinçtir. Kambei (Takashi Shimura) liderliğinde yedi samuray: Katsushiro (genç), Gorobei, Shichiroji, Heihachi, Kyuzo (usta kılıçlı) ve Kikuchiyo (köylü doğumlu 'sahte' samuray — Mifune). Köyü savunma planına göre organize ederler; son savaş yağmur ve çamurda yapılır — haydutlar ölür ama dört samuray da. Kambei'nin son sözü: 'Kazanan biz değiliz, köylüler.'
 
 # Tez
+Kahramanlık, sistemle değil toplumla ölçülür — Kurosawa'nın tezi: samuraylar köylüleri 'kurtardı' ama kendileri kaybetti; savaş sonrası samuray 'fazla'dır çünkü barış onlara yer açmaz. Kikuchiyo'nun köylü-çıkışı filmin ahlakıdır: sınıf, soy değil davranışla belirlenir.
 
-Seven Samurai (1954), 'samuray' ve 'köylü' arasındaki sınıf sınırını ve 'onur' kavramının ekonomik bedelini sorgulayan; bir savunmanın 'kazanan' ile 'kaybeden'ini ayıran bir epik dramadır.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru köyün 'savunma' planıdır: yedi samurayın ölümü, köylülerin 'özgürlüğü'nün bedelidir. Kurosawa, samurayların 'onur' kodunu köylülerin 'pragmatizm'iyle çelişir — samuraylar ölür, köylüler ya��ar. 'Kazanan' ile 'kaybeden' ayrımı, sınıf farkının fiziksel tezahürüdür; samurayların 'onuru', köylülerin 'hasadı' karşısında boştur.
+## Mekanizma
+Son savaş — yağmur, çamur, at — sinema tarihinin en kinetik savaşıdır; montaj uzunluk ve ritmiyle bedeni yorar. Her samurayın karakter kartı nettir: Kambei'nin taktiksel zekası, Kyuzo'nun mükemmelliği, Kikuchiyo'nun enerjisi — topluluk 'tek kişi' değil sentezdir. Köylüler önce 'aptal' görünür ama Kikuchiyo'nun onlara bakışı (kılıç kuşaklarındaki eski paslar) köylüleri de samuraylar gibi 'şiddetle beslenen' sınıf yapar.
 
 ## Kişisel uygunluk
-
-Nedensellik ve fikir-karakter bütünleşmesi tam puan; savunma mekaniği kusursuz. Psikolojik mekanizma (sınıf-onur) güçlü; diyaloglar sınıf farkını dile getirir.
+Kolektif kahramanlık ve sınıf eleştirisi profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Seven Samurai (1954) · Notlar
 ### Tartışmalar & Notlar

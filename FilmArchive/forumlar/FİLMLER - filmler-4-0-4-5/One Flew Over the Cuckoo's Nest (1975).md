@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg
 > **Yönetmen:** Miloš Forman · **Tür:** Dram · **Süre:** 133 dk · **Dil:** İngilizce · **Yıl:** 1975
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.
+Cezaevi yerine akıl hastanesini seçen McMurphy, Hemşire Ratched'in sessiz terörüne karşı hastaları 'insan' yapar; basketbol, balık avı ve partiyle direnir ama sistemin 'iyileştirme' gücü onu lobotomiye sürükler.
 
 ### Puanlar
 IMDb **8.6/10** · Letterboxd **4.37/5** · nMDB **86.7**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · One Flew Over the Cuckoo's Nest (1975) · Derin Analiz
 # Ayrıntılı konu
-Randle McMurphy, hapishane işinden kaçmak için kendini deli olarak yatırtır; akıl hastanesinde hemşire Ratched'in elektroşok ve grup terapi ile yönettiği düzeni keşfeder. McMurphy hastaları oyun, basketbol ve parti ile canlandırır; ama Ratched'in gücü kontroldür — McMurphy'nin çaresizliğini gördüğünde onu lobotomiye gönderir. Chief Bromden onu öldürür ve çubuğu kırarak kaçar.
+Randle McMurphy, cezaevi yerine akıl hastanesine 'kolay' yolculuk yapan adam; orada Hemşire Ratched'in sessiz terörüyle karşılaşır. McMurphy hastaları 'insan' yapar — basketbol, balık avı, parti — ama Ratched 'düzen'i korur; McMurphy'nin kaçış planı, Billy Bibbit'in intiharıyla sonuçlanır çünkü Ratched onu 'sorumlulukla' kırar. McMurphy Ratched'i boğar, lobotomi edilir ve 'Kızılderili' Chief Bromden onu öldürerek 'özgürleştirir' — Chief pencereden kaçar.
 
 # Tez
-Özgürlük kuruma değil, ruhadır: Ratched'in disiplini 'tedavi' değil kısıtlama olarak çalışır. Chief'in son sahnesi — ağır banyo mobilyasını pencereden atması — McMurphy'nin ruhunun devamıdır; beden ölür ama isyan kalıcıdır.
+Özgürlük, sistemin 'iyiliği'nde boğulur — Forman'ın tezi: Ratched kötü değil 'görevli'dir — 'iyileştirme' adı altında insanı 'paspas' yapar; McMurphy'nin 'deli' olmadığı ortaya çıkar ama hastane onu 'yener' çünkü bireysel isyan sistematik olarak 'kırılır.'
 
 ## Mekanizma
-Grup terapi sahneleri sosyal dinamikleri gösterir: herkesin 'hasta' olduğu ama herkesin normalden daha insani olduğu bir dünya. Balık avı gezisi ve parti sahneleri kurumun dışını içeriye taşır.
+Hemşire Ratched'in 'sessizliği' — hiç bağırmaz, sadece 'sorular' sorar — gücün 'yumuşak' yüzüdür; grup terapisi sahneleri mikro-mücadelelerle doludur. Chief'in 'sağır-dilsiz' numarası filmin 'bakış' noktasıdır — onun içsel sesi 'özgürlük' hayalidir. McMurphy'nin lobotomi sonrası 'boş' yüzü, isyanın bedelidir.
 
 ## Kişisel uygunluk
-Anti-otorite ve ruhsal özgürlük teması profiline çok güçlü uyuyor.
+Sistem karşıtlığı ve bireysel ruh profiline çok güçlü uyuyor — 'iyi' savaşın kaybedilişi.
 
 -# THE FILM ARCHIVE · One Flew Over the Cuckoo's Nest (1975) · Notlar
 ### Tartışmalar & Notlar

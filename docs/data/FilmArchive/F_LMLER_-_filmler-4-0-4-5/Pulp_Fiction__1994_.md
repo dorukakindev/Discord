@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
 > **Yönetmen:** Quentin Tarantino · **Tür:** Suç, Dram · **Süre:** 154 dk · **Dil:** İngilizce · **Yıl:** 1994
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve diyalog 9/10.
 
-A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+Vincent ve Jules'ün 'iş' konuşmaları, Butch'un saati ve Mia'nın overdozu döngüsel anlatıda kesişir; Jules 'mucize'yi görüp emekli olur — suç dünyasında kefaret bir seçimdir.
 
 ### Puanlar
 IMDb **8.8/10** · Letterboxd **4.23/5** · nMDB **86.3**
@@ -19,16 +19,16 @@ Düşünsel **6** · Psikolojik **6** · Diyalog **9** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · Pulp Fiction (1994) · Derin Analiz
 # Ayrıntılı konu
-Vincent Vega ve Jules Winnfield, Marsellus Wallace'ın çantası için çalışır; çanta kutsal bir eşyadır (içindekiler görülmez). Jules 'Ezekiel 25:17' okuyarak suçluları affederken Vincent öldürülür; Butch'un boks maçı, Zed'in işkencesi ve Mia'nın eroin krizi paralel hikâyeler olarak birleşir. Jules sonunda 'çoban' rolünü seçer ve suçu bırakır.
+Tarantino'nun 'döngüsel' 'suç' filmi: Vincent ve Jules — 'hitmen' — 'iş'leri 'yapar' ama 'konuşurlar' — 'hamburger', 'foot massage', 'Tanrı'. Butch, boksör — 'para' 'kazanır' ama 'kaçar'; 'saat' — 'babasının' 'savaş' 'hatırası' — 'gövde'de 'taşınır'. Mia 'overdose' olur — 'adrenalin' 'iğne'si; 'restoran' 'soygunu' — 'başlangıç' 'son'la 'birleşir'. Jules 'kurtulur' — 'Tanrı' 'mucizesi' — ve 'emekli' olur.
 
 # Tez
-Şiddetin içindeki kutsallık — Jules'in vaazı sadece provokasyon değil, hayatının sorusudur. Tarantino'nun yeniden anlatısı: aynı olaylar farklı karakterlerin gözünden tekrar eder, her zaman daha iyi değil ama daha tamamlanmış.
+Suç, 'ritüel' ile 'sürer' — Tarantino'nun tezi: 'kötü'ler 'iyi' 'insan'lar 'gibi' 'konuşur'; 'şiddet' 'anlık'tır ama 'sonuç' 'kalıcı'dır. 'Kefaret' 'seçim'dir — Jules 'değişir' ama Vincent 'değişmez' ve 'ölür'.
 
 ## Mekanizma
-Non-lineer yapı ölüm ve yeniden doğuşun döngüsünü gösterir; 'çanta' hiç açıklanmaz çünkü içindekiler herkesin kendi arzusudur. Diyaloglar günlük görünür ama her biri felsefedir.
+'Doğrusal' 'olmama' — 'başlangıç' 'ortada' 'biter' — 'kader' 'görünür' kılar; 'diyalog' — 'anlamsız' ama 'derin' — 'insan'ı 'tanımlar'. 'Mia'nın 'burun' 'kanaması' — 'çizgi' 'roman' 'gibi' — 'tarz' 'içerik'tir; 'Marcellus' — 'duvar' 'konuşması' — 'güç' 'görünmez'dir.
 
 ## Kişisel uygunluk
-Postmodern anlatı ve şiddet-diyalog dengesi profiline güçlü uyuyor.
+Suç, 'diyalog' ve 'kader' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Pulp Fiction (1994) · Notlar
 ### Tartışmalar & Notlar

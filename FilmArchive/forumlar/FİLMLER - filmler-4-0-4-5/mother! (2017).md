@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg
 > **Yönetmen:** Darren Aronofsky · **Tür:** Dram, Korku, Gizem · **Süre:** 121 dk · **Dil:** Amerikan İngilizcesi · **Yıl:** 2017
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Şair kocasıyla ıssız bir evde yaşayan genç kadının sükûneti, durmadan gelen davetsiz misafirlerle bozulur. Ev yavaş yavaş bir kaosa sürüklenir; kadının bedeni ve evi, yaratıcıya tapınan insanlığın sömürdüğü doğanın alegorisine dönüşür.
+Şair 'O' ve 'Anne'nin kristal evi, gelen misafirlerle cennetten cehenneme döner; düğün, isyan ve yeniden doğuş döngüsüyle Aronofsky'nin yaratıcı-yıkıcı Tanrı alegorisi kurulur.
 
 ### Puanlar
 IMDb **6.6/10** · Letterboxd **3.49/5** · nMDB **67.9**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · mother! (2017) · Derin Analiz
 # Ayrıntılı konu
-İsimsiz bir kadın (Anne) ve şair kocası (O), yakılmış bir evi restore edip yaşar; bir gece bir 'doktor' (Adam) gelir, sonra karısı (Eve), sonra iki oğul — kavga sonucu ölürler, ardından yüzlerce hayran O'nun şiirine tapınmak için eve gelir. Anne'nin bebeği kalabalık tarafından parçalanır ve yenir — Komünyon'un grotesk biçimi. Anne evi yakar; O onun kalbindeki kristali alır ve yeni bir 'Anne' ve yeni bir ev başlar — döngüsel yaratım.
+Aronofsky'nin 'allegorik' kâbusu: 'Anne' (Jennifer Lawrence) ve 'O' (Javier Bardem) — şair — 'kristal' evinde 'huzur' ararlar ama 'misafirler' gelir — Adam ve Eve, oğulları, 'sürü'ler. Ev 'cennet' olmaktan çıkar: 'düğün', 'isyan', 'savaş', 'yeniden doğuş'. Anne 'yanar' ve 'yeni' bir 'kristal' bulunur — 'döngü' 'tekrarlanır'. 'Tanrı' 'yaratıcı'dır ama 'yıkıcı'dır — 'aşk' 'tüketim'dir.
 
 # Tez
-Yaratıcılık, yaratılanı sömürür — O (Tanrı/Yazar) sevgisini 'insanlığa' dağıttıkça Anne (Doğa/Toprak Ana) tüketilir; Aronofsky'nin alegorisi aynı anda İncil, çevre ve sanatın kendi açgözlülüğüdür. 'Anne'nin bakış açısından çekilen film, tapınmanın fiziksel maliyetini gösterir.
+Yaratıcılık, 'kutsal' ile 'vahşi'nin 'aynı' 'zaman'dır — Aronofsky'nin tezi: 'Tanrı' 'aşk'ı 'yaratır' ama 'insan' 'yok' eder; 'ev' 'dünya'dır — 'kaynak' 'sınırlı'dır. 'Anne' 'toprak'tır — 'verir' ama 'alınır'.
 
 ## Mekanizma
-Kamera neredeyse hiç Anne'in yüzünden ayrılmaz — sırt kamerası ve yakın çekim; ev 'canlı' bir organdır (dokunulduğunda kanar). İnsanların eve girmesi istilanın koreografisidir: ilk başta kibar, sonra yıkıcı — toplumun tüketim ritüeli.
+'Dar' kamera — 'yüz' ve 'arkadan' — 'kapanma'yı 'fiziksel' kılar; 'ses' — 'düşen' damla, 'kırılan' cam — 'gerilim'in 'işareti'dir. 'Kristal' — 'kalp' — 'kırılgandır'; 'kan' 'akışı' — 'yaratma' ile 'yıkma' 'aynı' 'eylem'dir.
 
 ## Kişisel uygunluk
-Teolojik alegori, çevre ve yaratım maliyeti profiline güçlü uyuyor.
+Alegori ve 'yaratıcı' 'güç' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · mother! (2017) · Notlar
 ### Tartışmalar & Notlar

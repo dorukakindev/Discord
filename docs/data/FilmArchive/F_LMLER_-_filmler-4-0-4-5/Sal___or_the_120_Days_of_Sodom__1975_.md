@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg
 > **Yönetmen:** Pier Paolo Pasolini · **Tür:** Dram · **Süre:** 117 dk · **Dil:** Fransızca, Almanca, İtalyanca · **Yıl:** 1975
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.
+1944 Salò'sunda dört faşist, kaçırılan 16 gence 'hikâye anlatıcıları'nın ritüelleriyle işkence eder; Pasolini'nin soğuk kamerası iktidarın bedeni nasıl nesneleştirdiğini gösterir.
 
 ### Puanlar
 IMDb **5.8/10** · Letterboxd **3.03/5** · nMDB **59.3**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Salò, or the 120 Days of Sodom (1975) · Derin Analiz
 # Ayrıntılı konu
-İtalya'nın Salo Cumhuriyeti'nde (1944) dört faşist (Dük, Piskopos, Magistrate, President) genç erkek ve kadını kaçırır ve 'Sade' usulü işkence eder — dört daire (Anti-cehennem, Çılgınlık, Kan, Ölüm) her biri bir günahı törenle işler. Değersizleşme sistematiktir: hikâye anlatıcıları, kostümler, yemekler her şey kurbanların ruhunu yok etmek içindir. Son sahnede kurbanlar çatıda asılır ve iki gardiyan vals yapar.
+Pasolini'nin 'son' filmi: 1944, Salò Cumhuriyeti — 'faşist' 'kalıntı' — '16' 'genç' 'kaçırılır' ve '4' 'yaşlı' 'hikâye' 'anlatıcısı' 'tarafından' 'yönetilir'. 'Kurallar' — 'düğün', 'öğün', 'yemek' — 'aşağılama' 'ritüel'dir; 'odalar' 'her' 'gün' 'daha' 'kötü' 'olur'. 'İktidar' 'beden'i 'kullanır' — 'dışkı', 'işkence', 'ölüm' — 'sadizm' 'sistem'dir.
 
 # Tez
-İktidarın son biçimi, insanı nesneye çevirmektir — Pasolini'nin savı: tüketim toplumu faşizmin devamıdır çünkü beden meta haline gelir. Filmin rahatsızlığı gözün kaçamamasıdır — biz de izleyiciyiz.
+Güç, 'insan'ı 'nesne' 'yapar' — Pasolini'nin tezi: 'faşizm' 'sadece' 'tarihsel' değil 'antropolojik'tir — 'insan' 'insan'ı 'yer'; 'sanat' — 'hikâye', 'müzik' — 'vahşeti' 'estetize' 'eder' ama 'kurtarmaz'. 'Son' 'an' — 'dans' — 'ölüm' 'eğlence'dir.
 
 ## Mekanizma
-Kamera mesafeli ve soğuktur — vahşet estetize edilir çünkü estetik de faşizmin aracıdır. Dört dairenin ritüeli kilise törenlerini taklit eder — din ve iktidar aynı töreni kullanır.
+'Ritüel' — 'odalar' 'değişir' — 'düzen' 'korku' 'yaratır'; 'Pasolini' 'kamera'sı — 'soğuk', 'uzak' — 'izleyici' 'suç' 'ortağı'dır. 'Şiddet' — 'açık' ama 'gösterişsiz' — 'yok' 'etme' 'süreci'dir; 'final' — 'iki' 'asker' 'dans' 'eder' — 'gençlik' 'korunamaz'.
 
 ## Kişisel uygunluk
-Güç ve değersizleşme profiline çok güçlü uyuyor.
+Güç, 'sadizm' ve 'insan' 'kırılganlığı' profiline çok güçlü uyuyor — sinema'nın 'en' 'ağır' 'yasak'ı.
 
 -# THE FILM ARCHIVE · Salò, or the 120 Days of Sodom (1975) · Notlar
 ### Tartışmalar & Notlar

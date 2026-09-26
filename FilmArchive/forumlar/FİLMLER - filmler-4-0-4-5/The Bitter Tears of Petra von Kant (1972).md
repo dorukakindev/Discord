@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Bitter Tears of Petra von Kant (1972) · Derin Analiz
 # Ayrıntılı konu
-Petra von Kant, başarılı moda tasarımcısıdır; genç Karin'e âşık olur ama ilişki güç savaşına döner — Karin'in bağımsızlığı Petra'nın sahiplenmesine karşı çıkar. Petra'nın odasındaki devasa tablo (Yunan mitolojisi) arzunun dramını izler; Petra'nın annesi ve asistanı onu aşağılar ama Petra da Karin'i aynı şekilde aşağılar. Sonunda Karin gider ve Petra yalnız kalır — ama yalnızlık onun seçimidir.
+Fassbinder'in 'kapan' filmi: Petra von Kant, moda tasarımcısı — 'güç'lü ama 'yalnız'; Karin'e 'aşık' olur — 'model' — ama 'sömürür'. 'Oda' — 'yatak', 'mannequin'ler, 'ayna'lar — 'dünya' 'küçülür'; Petra 'kontrol' eder ama 'kaybeder' — Karin 'kocası'na 'döner'. 'Şarap', 'gözyaşı', 'telefon' — 'aşk' 'içki' ile 'öldürülür'.
 
 # Tez
-Aşk, gücün maskesi olabilir — Petra'nın sevgisi sahiplenmektir çünkü o başka hiçbir şey bilmez. Fassbinder'in sorusu: zayıfın güçlüye dönüştüğünde zulmetme hakkı var mıdır?
+Aşk, 'güç' 'oyunu'dur — Fassbinder'ın tezi: Petra 'sever' ama 'sahip' 'olur'; 'özgürlük' 'başkası'nı 'köle' 'yapmak'tır. 'Sınıf' — 'tasarımcı' ile 'model' — 'aşk'ı 'iş' 'haline' 'getirir'.
 
 ## Mekanizma
-Tek oda, tek sahne: filmin tüm gücü diyalog ve jestlerde. Petra'nın saçı ve kostümleri karakterlerin rollerini biçimlendirir — moda burada iktidarın dilidir.
+'Tek' 'mekân' — 'oda' — 'kapanma' 'mutlak'tır; 'yatak' 'sahne' — 'doğum' ile 'ölüm' 'aynı' 'yer'dedir. 'Mannequin'ler — 'kadın' 'beden'i 'nesne'dir; 'Petra'nın 'yüzü' — 'makyaj' 'ağlar' — 'maske' 'düşer'.
 
 ## Kişisel uygunluk
-Aşk-güç ilişkisi ve psikolojik yoğunluk profiline güçlü uyuyor.
+Aşk, 'güç' ve 'kapanma' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Bitter Tears of Petra von Kant (1972) · Notlar
 ### Tartışmalar & Notlar

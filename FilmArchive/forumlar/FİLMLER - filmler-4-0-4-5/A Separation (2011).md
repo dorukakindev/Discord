@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg
 > **Yönetmen:** Asghar Farhadi · **Tür:** Dram · **Süre:** 123 dk · **Dil:** Farsça · **Yıl:** 2011
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve diyalog 9/10.
 
-Evli bir çift zor bir kararla karşı karşıyadır: başka bir ülkeye taşınarak çocuklarının hayatını iyileştirmek ya da İran'da kalıp Alzheimer hastalığı olan, durumu kötüleşen bir ebeveyne bakmak.
+Nader ve Simin'in boşanma kararı, Alzheimer'lı baba ve hizmetçi Razieh'in düşüğüyle bir hukuk krizine döner; herkes 'kendi doğrusunu' savunur ama ahlaki gerçek parçalanır.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.40/5** · nMDB **85.5**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **9** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · A Separation (2011) · Derin Analiz
 # Ayrıntılı konu
-Nader ve Simin boşanma aşamasındadır: Nader Alzheimer'lı babasına bakmak için kalır, Simin vize için ülkeyi terk etmek ister. Nader'in tuttuğu hizmetçi Razieh işitme engelli, hamile ve dindar bir kadındır; bir kaza sonrası düşük yapar ve Nader'in itmesiyle mi düştüğü mahkemeye gider. Razieh'in kocası Hodjat da işsiz ve borçludur — iki aile İslam hukuku ve orta sınıf ahlakı arasında ezilir. Kimse yalan söylemez ama kimse tam gerçeği de bilmez.
+Nader ve Simin çifti ayrılma kararındadır — Simin ülkeyi terk etmek ister, Nader Alzheimer'lı babası için kalır. Razieh (hizmetçi) ve kocası Hodjat araya girer: Razieh'in düşük yapması ve Nader'ın 'suçlu' olup olmadığı sorunu. Gerçek herkesin 'doğrusu' kadar karmaşıktır — kimse yalan söylemiyor ama herkes 'kendi gerçeğini' savunuyor. Mahkeme sadece 'teknik' karar verir; ahlaki cevap izleyiciye kalır.
 
 # Tez
-Doğrunun parçalı doğası: herkesin haklı olduğu ama herkesin kaybettiği tek davranış. Farhadi'nin sorusu — ahlaki seçim, inanç mı, sınıf mı, hukuk mu tarafından şekillenir?
+Ahlak, niyetle değil sonuçla yargılanır — Farhadi'nin tezi: hiçbir karakter 'kötü' değil ama hepsi 'suç ortağı'dır; dini, sınıf ve hukuki çizgiler aynı odada buluşur. Gerçek 'tek' değildir — herkesin 'ayrı bir gerçeği' vardır.
 
 ## Mekanizma
-Sınıf farkı tek olayın iki versiyonunu üretir: Razieh'in güveni din temellidir, Simin'in güveni modern orta sınıf mantığına. Hakim figürü izleyicinin kendisidir — biz de karar veremeyiz.
+El kamerası — belgesel estetiği — sahneleri 'doğal' kılar; izleyici 'tanık' olur ama karar veremez. Simin'in çıkışı ve Razieh'in girişi filmin iki 'kaynağı'dır; her karakter kendi içinde 'haklı'dır. Finalde çift kızlarının kararını bekler — 'ayrılık' artık çocuğun seçimidir.
 
 ## Kişisel uygunluk
-Etik labirent ve psikolojik ince iş; senin sosyal-felsefi uyum profiline ideal.
+Ahlaki muğlaklık ve sınıf çatışması profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · A Separation (2011) · Notlar
 ### Tartışmalar & Notlar

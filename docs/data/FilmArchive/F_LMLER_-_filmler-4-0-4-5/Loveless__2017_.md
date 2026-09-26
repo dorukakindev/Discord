@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Loveless (2017) · Derin Analiz
 # Ayrıntılı konu
-Zhenya ve Boris boşanırken yeni sevgilileri vardır ve 12 yaşındaki Alyosha'ya 'yük' gibi davranırlar; bir gün Alyosha ortadan kaybolur. Arama kurtarma ekipleri sistematik olarak ormanı tarar, Alyosha'nın geçtiği yol boyunca kırık oyuncaklar ve boş evler bulunur; annesinin yeni evinde, babasının yeni işinde 'yeni Alyosha'lar vardır — çocuk gerçekten hiç var olmamış gibidir. Film bir soruşturmadan çok bir atmosfer: Moskova kışı, Gri Savaş propagandası televizyonlarda akar.
+Zvyagintsev'in 'modern' Rusya'sı: Boris ve Zhenya — 'ayrılan' 'çift' — 'nefret'le 'boşanır'; oğulları Alyosha 'kaybolur' — 'arama' 'başlar' ama 'soğuk' 'yüz'ler 'gösterir'. 'Sokak'lar, 'orman', 'terk' 'edilmiş' 'bina'lar — 'çocuk' 'yok'tur çünkü 'anne-baba' 'kendileri' 'kaybetmiş'tir. 'Gönüllü' 'ekip' 'bulur' — 'vücut' 'soğuk'tur — 'hayat' 'devam' 'eder'.
 
 # Tez
-Sevgisizlik kuşaktan kuşağa geçen bir iklimdir — Alyosha'nın kaybolması fiziksel değil, ebeveynlerin onu hiç 'görmemesi' üzerine kuruludur; Zvyagintsev'in Rusya'sında kişisel duygusuzluk ulusal malaşla aynıdır. Çiftin son sahnesindeki koşu bandı metaforu: aynı yerde koşmak.
+Sevgisizlik, 'kayıp'ın 'kaynağı'dır — Zvyagintsev'in tezi: 'aile' 'yıkılır' çünkü 'eş'ler 'kendilerini' 'sevmez'; 'çocuk' 'görünmez' 'kurban'dır — 'arama' 'sadece' 'ceset' 'bulur'. 'Toplum' 'duyarsız'dır — 'savaş' 'arka plan'dır 'ama' 'yakın'dır.
 
 ## Mekanizma
-Uzun sabit çekimler ve cam duvarlar karakterleri 'akvaryum' içinde gösterir; arama ekiplerinin neon yelekleri ormanda tek renktir — medeniyetin tek parlaması devletten değil, gönüllülerden gelir. Alyosha'nın yüzü fotoğraftan ibaret kalır: anne ve baba çocuğu hatırlamaz.
+'Soğuk' 'mavi-gri' — 'Rus' 'kış'ı — 'duygu' 'dondurulur'; 'boş' 'bina' — 'yıkıntı' — 'geçmiş' 've' 'gelecek' 'aynı'dır. 'Arama' 'sahneleri' — 'düz', 'yöntemli' — 'insan' 'hayatı' 'prosedür'dür; 'anne'nin 'ağlaması' — 'son' 'an' — 'tepkisizlik' 'kırılır'.
 
 ## Kişisel uygunluk
-Aile çözülmesi ve toplumsal kayıtsızlık profiline çok güçlü uyuyor.
+Aile çöküşü ve 'toplum' 'duyarsızlığı' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Loveless (2017) · Notlar
 ### Tartışmalar & Notlar

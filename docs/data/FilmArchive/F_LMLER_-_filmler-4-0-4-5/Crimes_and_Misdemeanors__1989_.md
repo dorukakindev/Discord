@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Crimes and Misdemeanors (1989) · Derin Analiz
 # Ayrıntılı konu
-Judah Rosenthal, sevgilisi Dolores'in ilişkiyi açığa çıkarma tehdidi üzerine onu öldürtmeye karar verir; cinayet işlenir ve Judah başta vicdan azabı çeker ama sonunda normalleşir. Paralel olarak belgeselci Cliff, mutsuz evliliğinde ve Woody Allen'ın karakterine âşık olan Halley ile arkadaş olur — onun hayatı Judah'ınkinden daha masum ama daha talihsizdir. Sonda Judah partide Cliff'e 'işte benim suçum' diye gerçeği anlatır ve 'suçların işlenmediği bir dünya'ya işaret eder.
+Judah Rosenthal, ünlü göz doktoru; metresi Dolores (Anjelica Huston) ilişkiyi ifşa etmekle tehdit eder — Judah'ın 'temiz' hayatı kırılır. Kardeşi Jack (mafya) 'çözüm' önerir: Dolores öldürülür. Judah suçlulukla boğuşur ama 'suçluluk' filmin sorusunu değiştirir — Rabbi Ben (kör olmakta) ve felsefeci Levy'nin intiharı üzerine: evren ahlaksız mı? Judah sonunda 'iyi yaşar' — cinayet işlenmiş, vicdan 'sessizleşmiş'tir. Paralel hikâyede Cliff (Woody Allen) belgesel yapar ve sevdiği kadını (Mia Farrow) kaybeder.
 
 # Tez
-Evren, suçluyu cezalandırmaz — Judah mutlu yaşamaya devam eder ve kendi vicdanı da susar. Allen'ın karanlık sonuç: ahlakın göksel bir cezası yoktur, sadece insanın içindeki ses vardır ve o da bastırılabilir.
+Evren, ahlaksızlığı cezasız bırakır — Allen'ın tezi: Tanrı'nın gözü (filmin metaforu) kördür; Judah cinayeti affeder çünkü 'iyi yaşamak' suçu affettirir. 'Kara mizah' değil 'kara teoloji': ahlak sadece izleyicide vardır, karakterlerde değil.
 
 ## Mekanizma
-Göz motifleri (professor Levy'nin kör oluşu, cinayetin gözle görülememesi) adaletin 'görünmezliğini' işler. Judah'ın flashback'leri babasının dininin reddini gösterir — Tanrı'sız dünyada ahlak sadece alışkanlıktır.
+Din ve şiddetin kesişimi: Judah'ın babası 'Tanrı her şeyi görür' der ama Judah 'görmezse?' diye sorar — baba 'o zaman onu görmeyi seçerim' der. Bu 'seçim' filmin anahtarıdır: ahlak 'inanç' değil 'tercih'tir. Levy'nin intiharı — 'hayatın anlamsızlığı üzerine' konuşan adamın kendi çöküşü — felsefenin 'yaşanabilir' olmadığını gösterir.
 
 ## Kişisel uygunluk
-Etik-felsefi derinlik ve karanlık mizah tam profiline uygun.
+Ahlak, din ve suç profiline çok güçlü uyuyor — Allen'ın en karanlık filmi.
 
 -# THE FILM ARCHIVE · Crimes and Misdemeanors (1989) · Notlar
 ### Tartışmalar & Notlar

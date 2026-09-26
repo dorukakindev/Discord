@@ -19,16 +19,16 @@ Düşünsel **9** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Solaris (1972) · Derin Analiz
 # Ayrıntılı konu
-Psikolog Kris Kelvin, okyanus gezegeni Solaris'in yörüngesindeki istasyona gönderilir: mürettebat aklını kaybetmekte, herkes kendi bilinçaltından çıkma 'konuklarla' yaşamaktadır. Kelvin'in yıllar önce intihar etmiş karısı Hari, gezegenin okyanusu tarafından nötrinodan yeniden üretilmiş olarak odasında belirir. Kelvin onu önce rokete atar; o geri döner ve her dönüşünde biraz daha insanlaşır. Kelvin nihayet yüzeydeki ada'da babasıyla karşılaşır — ya da belki de artık kendisi de bir konuktur.
+Kris Kelvin, Solaris gezegeninin yörüngesindeki istasyonu araştırmaya gönderilir — orada 'okyanus' zihinlerin içinden 'konuklar' üretir. Kelvin'in karısı Hari (yıllar önce intihar etmiş) fiziksel olarak belirir — 'hatıra'dan yapılmış, ama bilinçli bir varlık. İstasyonun bilim adamları 'okyanusu' araştırmak ister ama okyanus onları 'incelemektedir'. Hari kendini yok etmeye çalışır, geri döner; Kelvin ona aşık olur. Finalde Kelvin Dünya'ya döner mi? Görüntü evinin 'yeniden üretilmiş' halini gösterir — belki okyanusun içinde.
 
 # Tez
-Bilinç, kendi arzusunun aynasına bakar ve onu Tanrı sanır. Solaris'in okyanusu, insana evrenin cevabını değil, evrenin insana sorduğu soruyu gösterir: Senin gerçek dediğin şey, sevginin eti midir, yoksa utancının maddeselleşmesi mi?
+Bellek, sevginin en tehlikeli ürünüdür — Tarkovsky'nin tezi: Hari 'gerçek' değildir ama Kelvin'in vicdanı onu 'kişi' yapar; bilim insanlığı 'ölçemez' çünkü insan, kendi içindeki 'diğer'le karşılaşır. Uzay filmi değil, vicdan filmi: kâşifler 'dışarıyı' ararken içlerini bulurlar.
 
 ## Mekanizma
-Hari'nin her ölümü ve dönüşü, insanlığın tanımını sınırlar: Bellek taklidi mi insanı yapar, yoksa ölmeyi seçebilme yetisi mi? Okyanus bilim değil teolojidir; Kelvin bilimle gönderilir, dua ile döner.
+Uzay istasyonu Tarkovsky tarzında 'kirli' ve 'ev gibi' çekilir — teknoloji değil insanlık öndedir; Dünya'daki uzun araba sahnesi (Japonya otoyolu) 'evden ayrılışın' fiziksel süresidir. Hari'nin ölüm-dönüşü 'yapaylığı' görselleştirir — uyurken bile 'yok' olamaz. Finaldeki 'ev' karesinin içinde 'suyun' sesi — izleyiciye 'hâlâ orada mı?' sorusu kalır.
 
 ## Kişisel uygunluk
-Felsefi/psikolojik çekirdek çok güçlü; Tarkovsky'nin soruları doğrudan senin profiline işliyor: bilinç, bellek, beden.
+Bellek, kayıp ve bilim-vicdan çatışması profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Solaris (1972) · Notlar
 ### Tartışmalar & Notlar

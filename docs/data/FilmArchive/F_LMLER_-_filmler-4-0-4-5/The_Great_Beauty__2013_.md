@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · The Great Beauty (2013) · Derin Analiz
 # Ayrıntılı konu
-Jep Gambardella, Roma'nın sosyalitesidir; gençliğinde yazdığı tek roman onu ünlü yapmış ama hayatı partiler, kadınlar ve estetik kayıtsızlıkla doludur. 65. doğum gününde ölümünü düşünmeye başlar: gizli bahçeleri, sanatçıları, keşişleri ziyaret eder; bir çocuğun tablosu 'güzellik' sorularıyla yüzleştirir. Eski aşkının ölümü ona hayatının boşluğunu gösterir — ama o boşluk da güzelliğin kendisidir.
+Jep Gambardella, 65 yaşında, tek kitabıyla ünlenmiş yazar; Roma'nın sosyalitesinde 'partiler, dedikodu, sanat' hayatını yaşar ama 'boşluk' onu sarar. Bir kızıllık — gençliğindeki aşkı Elisa'nın ölümü — onu 'son bir şans'a iter: güzelliği aramak. Kardinaller, rahibeler, sokak sanatçıları, ağlayan kızlar — Roma'nın 'güzelliği' her yerdedir ama 'görülmez'. Jep sonunda 'ikinci kitabını' yazmaya başlar — 'hayat' onu beklemiştir.
 
 # Tez
-Güzellik, boşluğun örtüsüdür ama boşluk da güzelliğin derinliğidir: Jep'in Roma'sı yüzeysel görünür ama Sorrentino her yüzeyin altındaki acıyı gösterir. Estetiğin amacı gizlemek değil, açığa çıkarmaktır.
+Güzellik, ölümün yanında durur — Sorrentino'nun tezi: Roma'nın 'büyük güzelliği' geçmişin 'enkazıdır'; Jep'in 'aranışı' anlamı değil 'an'ı bulur — bir kuş sürüsü, bir kadının yüzü, bir bahçe. Hayat 'büyük' değil, 'anlık'tır.
 
 ## Mekanizma
-Partilerin saçmalığı ve sessiz sokakların şiirselliği aynı kamerayla çekilir; Jep'in izleyiciliği filmin perspektifidir. 'Güzellik' asla tanımlanamaz ama sürekli gösterilir.
+Sorrentino'nun kamerası sürekli hareket eder — partiler, dans, yürüyüş — 'enerji' ile 'boşluk' arasında; müzik (Baaba Maal, Zbigniew Preisner) 'kutsal' ile 'pop'u karıştırır. 'Performans' sahneleri — striptiz, opera, çocuk resmi — 'sanat'ın 'şov' olduğunu söyler; Jep'in 'sessiz' anları (teras, deniz, sabah) gerçek 'güzellik'tir.
 
 ## Kişisel uygunluk
-Varoluşsal boşluk ve estetik sorunsalı senin profiline güçlü uyuyor.
+Yaşlanma, estetik ve anlam arayışı profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Great Beauty (2013) · Notlar
 ### Tartışmalar & Notlar

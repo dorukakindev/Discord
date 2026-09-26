@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/xMYP4uaNeyPmX4FQ2xxWk2eIN6K.jpg
 > **Yönetmen:** Mike Leigh · **Tür:** Komedi, Dram · **Süre:** 131 dk · **Dil:** İngilizce · **Yıl:** 1993
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: diyalog 9/10 ve psikolojik mekanizma 8/10.
 
-Johnny, Manchester'dan Londra'ya kaçar ve birkaç gecede eski sevgilisinin ev arkadaşları, sokak serserileri ve bir gece bekçisiyle karşılaşır. Keskin zekâsı ve acımasız ağzıyla modern hayatın kofluğunu teşhir eder ama kendi çukurundan çıkamaz.
+Manchester'dan Londra'ya kaçan zeki ama acımasız Johnny, eski sevgilisinin evine sığınır ve günlerce felsefe, seks ve şiddet dolu monologlarla etrafındaki herkesi sözel olarak bıçaklar.
 
 ### Puanlar
 IMDb **7.7/10** · Letterboxd **3.97/5** · nMDB **78.2**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **9** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Naked (1993) · Derin Analiz
 # Ayrıntılı konu
-Johnny, Manchester'dan Londra'ya kaçan, zihinsel olarak parlak ama sosyal olarak yıkılmış bir adamdır; eski kız arkadaşının evine sığınır, bir grup insanla karşılaşır (Sandra, Sophie, Brian) ve hepsine nihilistik tiradlar atar. Johnny'nin zekası çevresini parçalar: Sophie'ye âşık olur ama onu da yaralar; Brian'ın şiddetini izler ve kendi şiddetini de gösterir. Son sahnede Johnny sakatlanmış hâlde yürüyüp gider — kimsenin hayatını değiştirmeden.
+Johnny (David Thewlis), Manchester'dan Londra'ya kaçar — zekâlı, acımasız, nihilist bir serseri; eski kız arkadaşı Louise'in evine girer ve onun 'hayatına' sızar. Günlerce konuşur — felsefe, seks, şiddet, eskatoloji — ve etrafındaki herkesi 'teorileriyle' bıçaklar. Sophie (Louise'in ev arkadaşı) ona âşık olur ama Johnny onu da 'parçalar.' Sonunda Louise onu atar; Johnny sokakta yürür — bir bacağı aksayarak — ve 'gelecek' belirsizdir.
 
 # Tez
-Zeka, duygunun yerini alınca insanı hayvanın yanına iter: Johnny'nin sözlü keskinliği, şiddetinin örtüsüdür. Leigh'in sorusu — aydınlık zihin karanlık ruhu aydınlatabilir mi?
+Zekâ, acıyı şiddete çevirir — Mike Leigh'in tezi: Johnny'nin 'konuşması' onun silahıdır; kelimeyle 'kazanır' ama kimse ona 'dayanamaz.' Film kıyamet sonrası bir Londra değil, 'ruhsal kıyamet'in şehridir — herkes konuşur ama kimse duymaz.
 
 ## Mekanizma
-Johnny'nin monologları hem komik hem ürkütücüdür; 'geleceği bilen' sözleri onu kahin-adi yapar. Şehir gece vardiyası gibi çekilir — ışık yok, insanlar hayalet gibi gezer.
+Thewlis'in performansı — hızlı, sinirli, zekice — filmin motoru; diyaloglar doğaçlama hissi verir ama senaryo titizdir. Gece sahneleri ve pub konuşmaları 'dibe doğru' ilerler; Johnny'nin 'kehanetleri' (2000'lerin sonu yaklaşırken) filmin 'apokaliptik' havasıdır. Sophie'nin 'sadakati' filmin tek 'saf' duygusudur — ama o da 'zarar görür.'
 
 ## Kişisel uygunluk
-Nihilist-felsefi diyalog ve karanlık psikoloji senin profiline tam uyuyor.
+Nihilizm, sözel şiddet ve kentsel yalnızlık profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Naked (1993) · Notlar
 ### Tartışmalar & Notlar

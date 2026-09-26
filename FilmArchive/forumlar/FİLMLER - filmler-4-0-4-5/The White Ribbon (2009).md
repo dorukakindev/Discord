@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg
 > **Yönetmen:** Michael Haneke · **Tür:** Dram, Gizem, Gerilim · **Süre:** 144 dk · **Dil:** Almanca · **Yıl:** 2009
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve felsefi yapı 8/10.
 
-Yaşlı bir terzi, Birinci Dünya Savaşı'na giden yıl içinde bir dizi tuhaf olayın yaşandığı Kuzey Almanya'daki küçük bir köyde öğretmen olarak geçirdiği hayatı anımsıyor.
+1913 Almanya'sında küçük bir köyde açıklanamayan 'kazalar' başlar; papazın 'beyaz şerit' cezalarıyla disiplin edilen çocuklar, geleceğin otoriter kuşağının tohumlarını taşır.
 
 ### Puanlar
 IMDb **7.8/10** · Letterboxd **4.21/5** · nMDB **81.1**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · The White Ribbon (2009) · Derin Analiz
 # Ayrıntılı konu
-1913-14 Almanya'sında küçük bir köyde 'kazalar' başlar: doktorun atı, baronun ekinleri, çocukların kırbaçlanması. Köyün çocukları 'siyah şerit'le işaretlenir — günahkar oldukları için. Öğretmenin günlüğü olayları anlatır ama suçlular asla bulunamaz; Birinci Dünya Savaşı başlar ve köyün 'saf' geçmişi toplumun şiddetinin tohumunu taşır.
+Haneke'nin Almanya'sı, 1913-1914: küçük bir köyde 'kazalar' başlar — doktorun atı, bir çocuğun dövülmesi, bir ağılın yakılması; suçlu 'bulunamaz'. Köyün 'otoriteleri' — papaz, doktor, baron — çocuklar üzerinde disiplin kurar; anlatıcı (öğretmen) 'beyaz şerit' hikâyesini anlatır: çocuklara 'saflık' işareti olarak takılır ama asıl 'ceza' öncesi utançtır. Savaş yaklaşır ve köy 'sessiz' kalır — çocuklar 'geleceğin' suçlularıdır.
 
 # Tez
-Kötülük köklü değil, eğitimle üretilir: çocukların cezaları, disiplini ve 'saflık' eğitimi asıl şiddetin altyapısıdır. Haneke'nin tezi — Nazizm'in tohumları bu köyde çoktan ekilmiştir.
+Şiddet, eğitimle öğrenilir — Haneke'nin tezi: köyün 'masum' görünümü altında 'otorite' ve 'bastırma' vardır; çocukların 'suçları' yetişkinlerin 'düzeni'nin ürünüdür. 'Beyaz şerit' saflık değil 'damga'dır — çocuğu 'suçlu' olarak işaretler.
 
 ## Mekanizma
-Siyah-beyaz çekim tarihsel mesafe yaratır; 'kazalar'ın nedeni asla gösterilmez çünkü cevap sistemde değil, sistemin kendisindedir. Çocukların yüzü suçsuzdur ama ruhu eğitilmiştir.
+Siyah-beyaz ve durağan — fotoğraf gibi — çekilir; anlatıcı 'geriye bakar' ama 'açıklamaz' — film 'soru' bırakır. Çocukların 'gözleri' — masum ama 'soğuk' — izleyiciyi rahatsız eder; 'ceza' sahneleri (kemer, odaya kapatma) 'günlük' şiddettir — korku 'normal'dir.
 
 ## Kişisel uygunluk
-Tarihsel-sosyolojik derinlik ve şiddetin kaynağı teması profiline tam uyuyor.
+Otorite, çocukluk ve kolektif suç profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The White Ribbon (2009) · Notlar
 ### Tartışmalar & Notlar

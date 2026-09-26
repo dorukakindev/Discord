@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · Wings of Desire (1987) · Derin Analiz
 # Ayrıntılı konu
-Damiel ve Cassiel, duvarlı Berlin'de insanların iç seslerini dinleyen meleklerdir — kütüphanede kitap okuyanlardan metroda ağlayanlara kadar herkesin düşüncesi onlara açıktır. Damiel, sirk akrobatı Marion'a âşık olur ve insan olmaya karar verir: zırhını çıkarır, renk görmeye, soğuğu hissetmeye, kahve içmeye başlar. Cassiel ise 'devam eden' olarak kalır — film onun bakışıyla sürer. Berlin'in savaş yaraları, duvar ve şehrin belleği meleklerin gözlemci olduğu katmanlı bir arka planı oluşturur.
+Wim Wenders'ın Berlin'i: Damiel ve Cassiel — melekler — insanları 'izler' ama 'dokunamaz'; Damiel 'insan' olmak ister çünkü 'sevmek' ister — trapez sanatçısı Marion'a. Peter Falk — 'düşmüş' melek — ona 'nasıl' olduğunu söyler: 'Sıcaklık, renk, tat.' Damiel 'düşer' ve Marion'la 'buluşur' — 'aşk' 'gerçek'tir çünkü 'ölümlü'dür. Film 'siyah-beyaz' (melek) ile 'renkli' (insan) arasında geçiş yapar.
 
 # Tez
-İnsanlık, ölümlülüğün renkliliğidir — sonsuzluk gri ve soğuktur, yaşamın küçük şeyleri (kanın sıcaklığı, bir ismin telaffuzu) meleği düşürür. Wenders'in tezi: ölümsüz bakış ayrıcalığıdır ama ayrıcalık duygusuzluktur; 'şimdi burada' olmak ancak sınırlı olduğunda anlam kazanır.
+Ölümlülük, 'sınırsızlık'tan üstündür — Wenders'ın tezi: Damiel 'mükemmel' meleği 'bırakır' çünkü 'kusur' — ağrı, soğuk, ölüm — 'hayatı' 'değerli' kılar; 'aşk' 'sonsuzluk'ta 'yaşanamaz' çünkü 'zaman' 'sınırlı'dır. 'Melek' 'izler' ama 'insan' 'hisseder'.
 
 ## Mekanizma
-Henri Alekan'ın siyah-beyaz fotoğrafçılığı melek perspektifini (Sepiatone) insan perspektifinden ayırır; Marion'ın sirk trapezi ve Nick Cave'in konser sahneleri dünyevi haz olarak çekilir. İç monologlar korosal bir 'şehir sesi' yaratır.
+Siyah-beyaz 'melek' görüntüsü — 'saf' ama 'soğuk' — 'renk'li 'insan' dünyasıyla 'çelişir'; Berlin'in 'duvar'lı hâli — 'bölünmüş' şehir — 'ayrılık'ın 'metaforu'dur. 'İçsel sesler' — insanların 'düşünceleri' — 'melek'lerin 'işi'dir; 'Nick Cave' konseri — 'müzik' 'insan'ın 'dili'dir.
 
 ## Kişisel uygunluk
-Varoluşsal romantizm, kentsel bellek ve 'gözlemcinin düşüşü' teması senin profiline çok güçlü uyuyor.
+Aşk, ölümlülük ve 'insan' olma profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Wings of Desire (1987) · Notlar
 ### Tartışmalar & Notlar

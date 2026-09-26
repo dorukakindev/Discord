@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg
 > **Yönetmen:** Yorgos Lanthimos · **Tür:** Dram, Romantik, Bilim Kurgu · **Süre:** 119 dk · **Dil:** İngilizce · **Yıl:** 2015
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.
+Bekarların 45 gün içinde eş bulamadığı takdirde hayvana dönüştürüldüğü bir distopyada David, 'otel'de eşleşme oyununa girer; ormandaki bekarlar topluluğunda ise 'aşk' yasaklanmıştır.
 
 ### Puanlar
 IMDb **7.1/10** · Letterboxd **3.73/5** · nMDB **72.8**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · The Lobster (2015) · Derin Analiz
 # Ayrıntılı konu
-David, karısı terk ettikten sonra bekarlar oteline götürülür; 45 gün içinde sevgili bulamazsa bir hayvana dönüştürülecek ve ormana salınacaktır. Otelin kuralları aşktan daha katıdır: ortak özellik zorunludur (kanama burunlu, merhametsiz). David kaçar, ormandaki asiler arasında kör kadınla tanışır ve aşkı öğrenir — ama aşkın bedeli de onun 'uyum' şartıdır: kendi gözünü çıkarması gerekir.
+Yorgos Lanthimos'un distopyası: bekarlar 45 gün içinde 'eş' bulamazsa hayvana dönüştürülür. David (Colin Farrell) karısı onu terk edince 'otel'e girer; orada 'eşleşme' kuralları vardır — ortak bir özellik bulmalısın (kanama, korkaklık). David 'kalpsiz' numarası yapar ve 'kalpsiz' kadınla eşleşir ama o kadın onun köpeğini (dönüştürülmüş erkek kardeşi) öldürür — David ağlayamaz ve suçlanır. Ormana kaçar, 'bekarlar' topluluğuna katılır — ama orada da 'aşk' yasaktır. Kör bir kadınla aşık olur ve sonunda 'aynı' olmak için gözlerini oyma kararı verir.
 
 # Tez
-Aşkın da aynı zorlayıcı sistemi vardır: 'uyum' arayışı farklılığın ölümüdür. Lanthimos'un savı — ilişki kültürü insanın en insani özelliğini (seçme yeteneği) devre dışı bırakır.
+Aşk, sosyal bir zorunluluktur — Lanthimos'un tezi: 'uygunluk' kavramı aşkın kendisini öldürür; David'in 'kör olma' kararı, aşkın 'fedakârlık' değil 'ortak özellik' arayışının absürd sonucudur. İster otelde ister ormanda, düzen hep 'kural'dır.
 
 ## Mekanizma
-Otel müzikleri ve form doldurma ritüelleri aşkı bürokratize eder; hayvanlar dönüşen insanların sessiz tanıklığıdır. Kör kadınla David arasındaki 'uyum' tamamen mekanik bir eşleşmedir — gerçek aşk olabilir mi?
+Deadpan oyunculuk — herkes robotik konuşur — filmin 'distopya' havasını verir; 'otel' kuralları (mastürbasyon yasak, dans mecburi) absürd ama 'mantıklı'dır — kurallar sadece uygulanır. Orman sahneleri 'özgürlük' değil başka bir baskıdır; finalde David'in bıçakla kendini kör edeceği sahne — izleyici 'görebilir mi?' sorusuyla kalır.
 
 ## Kişisel uygunluk
-Distopik alegori ve kara mizah tam profiline uyuyor; sembolik yapı güçlü.
+Distopya ve aşkın sosyal inşası profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Lobster (2015) · Notlar
 ### Tartışmalar & Notlar

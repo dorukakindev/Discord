@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Fight Club (1999) · Derin Analiz
 # Ayrıntılı konu
-Uykusuz bir beyaz yakalı (isim yok), destek gruplarına giderken rahatlar; orada Marla Singer'la karşılaşır ve Tyler Durden'la tanışır — sabun satan, dövüş kulübü kuran ve 'öfke makinesi'ni ateşleyen karizmatik adam. İlk kural: kulüpten bahsetmek yok. İkinci kural da aynıdır. İkisi arasındaki kavga giderek devasa örgütlenmeye döner ve 'öteki'nin kim olduğu filmin en büyük sorusu olur.
+Anlatıcı (Edward Norton), uykusuzluk çeken bir beyaz yakalı; destek gruplarına gider, Tyler Durden'la (Brad Pitt) tanışır. Fight Club doğar — 'ilk kural: Fight Club hakkında konuşma.' Club, tüketim toplumuna karşı erkek dayanışması ve şiddetin 'arınma' olduğunu söyler; Project Mayhem'e dönüşür — sabotaj, kaos, binanın yıkılması planı. Anlatıcı sonunda Tyler'ın 'alter ego'su olduğunu keşfeder ve onu 'öldürür' — ama kendi kafasına sıkarak.
 
 # Tez
-Tüketim toplumunun erkeği kendini ancak şiddette bulabilir; ama şiddet de başka bir tüketimdir. Filmin çekirdek paradoksu — özgürlük için yıkılan sistem, yıkıcının kendisine de döner.
+Modern erkeklik, tüketimin ürettiği krizdir — Fincher'ın tezi: IKEA katalogu ile 'kendini tanımlayan' adam, Fight Club'da 'canlı' hisseder ama bu canlılık 'kontrolden çıkar'; Tyler, çözüm değil hastalığın 'agresif' halidir. 'Kendini yok etmek' ancak 'kendini bulmak'la olur.
 
 ## Mekanizma
-Tyler'ın varlığı anlatıcının bilinç kırılmasıdır; 'ben' kelimesinin içindeki 'başka' filmin mekaniğini kurar. IKEA dairelerinden binaların çöküşüne — her yıkım bir özgürleşmedir.
+Anlatıcının 'ben' sesi filmin 'güvenilmezliğini' verir — izleyici Tyler'ı 'gerçek' sanır çünkü biz de anlatıcının gözünden bakarız; 'splice' sahnesi (Tyler'ın sinema filmine 'pislik' eklemesi) filmi meta-sinema yapar. Sabun, yağ ve insan bedeni — Fight Club'un 'maddiliği' — tüketim toplumunun 'anti-madde' ironisidir: bedenle var olur, yıkımla son bulur.
 
 ## Kişisel uygunluk
-Kimlik-parçalanma ve tüketim eleştirisi profiline çok güçlü uyuyor.
+Kimlik çözülmesi ve anti-tüketim profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Fight Club (1999) · Notlar
 ### Tartışmalar & Notlar

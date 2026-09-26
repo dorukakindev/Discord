@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · The Wild Pear Tree (2018) · Derin Analiz
 # Ayrıntılı konu
-Sinan, üniversite mezunu olarak Çanakkale köyüne döner; kitabını yayımlatamaz, öğretmenlik sınavını bekler ve babasının borçlarıyla uğraşır. Babası emekli öğretmen ve kumarbazdır — Sinan'ın 'başarısızlığı' aslında babasının hayalidir. Köyde eski sevgilisiyle karşılaşır, yazarlarla konuşur ve kitabının hiç okunmadığını fark eder. Sonunda Sinan kitabını kendisi basar ve babasının eline verir.
+Nuri Bilge Ceylan'ın 'taşra' filmi: Sinan, üniversite mezunu genç yazar; köyüne döner ve 'kitabını' bastırmak için para arar. Babası İdris — eski öğretmen, şimdi kumar borçlu — ile ilişkisi 'küçümseme' ile 'sevgi' arasındadır; köyün 'bilgi' adamları (imam, yazar) ona 'nasihat' verir ama Sinan 'dinlemez'. Askerlik, borç, aşk — her yol 'çıkmaz'dır; sonunda babası 'kendi' yolunu seçer ve Sinan 'anlar'.
 
 # Tez
-Yazmak, kendini açıklama çabasıdır ama kimse okumaz — Sinan'ın yalnızlığı entelektüelin trajedisidir: sözünü söyler ama dünya dinlemez. Ceylan'ın babası-oğlu çelişkisi: ikisi de yazardır, ikisi de başarısızdır.
+Baba-oğul, 'aynı ağacın' meyveleridir — Ceylan'ın tezi: Sinan 'farklı' olmak ister ama 'aynı' kökten gelir; 'yaban armutu' — köyün 'vahsî' ağacı — Sinan'ın 'kökleri'dir. Kitap 'başarısızlık'tır ama 'bağ' kurulur: babanın 'hatırası' oğlun 'yazısı'nda yaşar.
 
 ## Mekanizma
-Uzun diyaloglar ve doğa manzaraları Sinan'ın iç sesini dışa vurur; kitabın fiziksel varlığı filmin son sahnesidir — 'başarısızlık' kabul edilince özgürlük başlar.
+Uzun diyaloglar ve 'yürüyüş' sahneleri — köyün 'yolları' ve 'tarlaları' — 'sohbet' ile 'yolculuk' birleşir; Ceylan'ın 'tablo' estetiği — geniş planlar, doğal ışık — 'yer' ile 'insan'ı eşitler. 'Rüya' sahneleri (Sinan'ın kitabının 'imkânsız' baskısı) 'gerçek'le 'hayal'i karıştırır; son konuşma — babayla oğul 'aynı' ağaca bakar — filmin 'kapanış'ıdır.
 
 ## Kişisel uygunluk
-Kırsal entelektüel ve yazma tutkusu senin profiline çok güçlü uyuyor.
+Baba-oğul ve taşra hayatı profiline çok güçlü uyuyor — Ceylan'ın en 'konuşkan' filmi.
 
 -# THE FILM ARCHIVE · The Wild Pear Tree (2018) · Notlar
 ### Tartışmalar & Notlar

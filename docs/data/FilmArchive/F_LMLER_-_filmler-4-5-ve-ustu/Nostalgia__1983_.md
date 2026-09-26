@@ -19,20 +19,16 @@ Düşünsel **9** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Nostalgia (1983) · Derin Analiz
 # Ayrıntılı konu
-
-Nostalgia (1983), Andrei Tarkovsky'nin bir Rus şairinin İtalya'daki yolculuğunu ve 'yurt' kavramını sorguladığı filmidir. Andrei, 18. yüzyıl bir Rus müzisyeninin araştırması için İtalya'ya gider; orada 'Domenico' adlı bir adamla tanışır — Domenico, dünyayı kurtarmak için mumla Bagnoregio havuzunu geçmeye çalışan bir 'deli'dir. Andrei'nin 'nostalji'si — Rusya'ya, karısına, evine — giderek fiziksel bir hastalığa dönüşür; İtalya'nın güzelliği onu iyileştirmez, daha da derin bir 'yokluk' hissi verir. Finalde Andrei, Domenico'nun mum görevini üstlenir; 'yurt', bir mekân değil bir 'durum'dur.
+Andrei Gorchakov, Rus yazar; İtalya'da 18. yüzyıl müzisyeni Sosnovsky'nin izini sürer — Sosnovsky Rusya'ya döndüğünde kendini asmıştır. Gorchakov'un yanında tercüman Eugenia vardır; ülkeye dönmeye karar veremediği için yarım yaşar. Domenico adında deli bir adam — 'dünyayı kurtarmak için' 7 yıl ailesini kilitlemiş — ona 'mumla havuzu geç' görevi verir. Film, Gorchakov'un Domenico'nun yerine mumu taşımasıyla kapanır — mum yanar, adam çöker; ailesi onunla değildir.
 
 # Tez
+Yurt hasreti, bedenin hafızasıdır — Tarkovsky'nin tezi: sürgün 'mekân' değil 'varoluş' sorunudur; Gorchakov Rusya'ya dönemez çünkü dönüş, geçmişi 'bugüne' taşımaz. Domenico'nun çılgınlığı — mumu havuzdan geçirmek — 'aptalca inanç' olarak sunulur ama film sonunda onun 'tek gerçek eylem' olduğunu söyler.
 
-Nostalgia (1983), 'yurt' kavramını fiziksel bir mekândan ontolojik bir 'durum'a çeviren; Andrei'nin 'nostalji'sini varoluşsal bir hastalık olarak konumlandıran bir meditasyondur.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Andrei'nin 'nostalji'sidir: Rusya'ya olan özlemi, onun İtalya'daki 'varoluşunu' çürütür. Domenico, 'deli' görünen ama 'görevli' bir figürdür — mum görevi, 'dünyayı kurtarma' arzusunun fiziksel tezahürüdür. Andrei'nin mumu taşıması, Domenico'nun 'deliliği' ile Andrei'nin 'nostalji'sinin birleşimidir; 'yurt', mumla geçilen sudur.
+## Mekanizma
+Su — yağmur, havuz, sisle kaplı kalıntılar — filmi ıslatır; Tarkovsky'nin uzun planları (ünlü mum yürüyüşü 9 dakikadır) zamanı 'deneyim' kılar. Gorchakov'un Eugenia'ya açıklayamadığı yalnızlık — 'dil' köprü değil duvardır. Finaldeki iki ülke görüntüsü: İtalyan kalıntıları içinde Rus evi — 'nostalji' mekânın üst üste binmesidir.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (nostalji-yurt, delilik-görev) ve sembolik katman (mum, su, İtalya-Rusya) tam puan; Andrei arketipik ama psikolojik olarak derindir. Ezoterik yüksek.
+Sürgün ve ruhani yalnızlık profiline çok güçlü uyuyor — Tarkovsky'nin en kişisel filmi.
 
 -# THE FILM ARCHIVE · Nostalgia (1983) · Notlar
 ### Tartışmalar & Notlar

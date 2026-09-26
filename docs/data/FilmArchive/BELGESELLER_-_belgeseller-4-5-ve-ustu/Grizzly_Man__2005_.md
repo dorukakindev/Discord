@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg
 > **Yönetmen:** Werner Herzog · **Tür:** Belgesel, Biography · **Süre:** 103 dk · **Dil:** İngilizce · **Yıl:** 2005
 **Sana uygunluk: 4.1/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-"Boz Adam" Timothy Treadwell'in öyküsünü ve onun boz ayıları koruma çabasıyla Alaska'daki bir Milli Park'ta geçirdiği on üç yazın nasıl geçtiğini anlatıyor. Film eşsiz görüntülerle dolu ve kendini doğa için feda eden bir adamın ruhuna bir bakış.
+Werner Herzog, 13 yaz boyunca Alaska'da ayılarla yaşayan ve sonunda onlardan birine yem olan Timothy Treadwell'in video kayıtlarını düzenleyerek doğa ile insan arasındaki sınırı sorgular.
 
 ### Puanlar
 IMDb **7.8/10** · Letterboxd **4.14/5** · nMDB **80.4**
