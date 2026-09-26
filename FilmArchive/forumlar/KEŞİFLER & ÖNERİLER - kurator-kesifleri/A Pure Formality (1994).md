@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/0094_Sports_-_1994_World_Cup_01_%286956398635%29.jpg/330px-0094_Sports_-_1994_World_Cup_01_%286956398635%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Küratör Keşifleri · Kayıt
 # A Pure Formality (1994)
 > **Yönetmen:** Giuseppe Tornatore · **Yıl:** 1994

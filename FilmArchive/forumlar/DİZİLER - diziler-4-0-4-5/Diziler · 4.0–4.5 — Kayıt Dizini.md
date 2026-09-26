@@ -1,6 +1,6 @@
 -# THE FILM ARCHIVE · Diziler · 4.0–4.5 · Dizin
 # Diziler · 4.0–4.5 — Kayıt Dizini
-38 kayıt — uygunluk sırası:
+39 kayıt — uygunluk sırası:
 
 • **03 Одиссей и Пенелопа - S01E03 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.4/5**
 • **07 Дедал и Икар - S01E07 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.4/5**
@@ -26,6 +26,7 @@
 • **Abandoned Engineering (2016–)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
 • **How We Got to Now (2014–)** · IMDb 8.5/10 · nMDB 85.0 · uyg 4.2/5**
 
+• **Midnight Mass (2021)** · IMDb 7.7/10 · LB 4.07/5 · nMDB 79.2 · uyg 4.2/5**
 • **The Human Animal (1994–)** · IMDb 8.6/10 · nMDB 86.0 · uyg 4.2/5**
 • **The Witch Doctor Will See You Now (2011–2011)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.2/5**
 • **04 Геракл и золотые яблоки - S01E04 (1998)** · IMDb 7.5/10 · nMDB 75.0 · uyg 4.1/5**

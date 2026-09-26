@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Codex_Gigas_fol_290r_Devil.jpg/330px-Codex_Gigas_fol_290r_Devil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Küratör Keşifleri · Kayıt
 # The Devil (1972)
 > **Yönetmen:** Andrzej Żuławski · **Yıl:** 1972

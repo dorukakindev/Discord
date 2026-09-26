@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/en/b/b0/Preston_Sturges.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
 -# THE FILM ARCHIVE · Yönetmenler · Kayıt
 # Preston Sturges
 > **Kayıt sayısı:** 1

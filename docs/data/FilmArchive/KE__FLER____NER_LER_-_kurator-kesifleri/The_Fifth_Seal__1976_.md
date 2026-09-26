@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Jorge_Rafael_Videla_Oath.PNG/330px-Jorge_Rafael_Videla_Oath.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Küratör Keşifleri · Kayıt
 # The Fifth Seal (1976)
 > **Yönetmen:** Zoltán Fábri · **Yıl:** 1976
