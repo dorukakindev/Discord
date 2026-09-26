@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg
 > **Yönetmen:** Andrei Tarkovsky · **Tür:** Macera, Dram, Gizem · **Süre:** 167 dk · **Dil:** Rusça · **Yıl:** 1972
 **Sana uygunluk: 4.1/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve psikolojik mekanizma 9/10.
 
-Bir doktorun ölümünü ve istasyondaki kozmonotların zihinsel sorunlarını araştırmak için Solaris adlı bir gezegenin yörüngesindeki uzay istasyonuna bir psikolog gönderilir. Çok geçmeden gezegendeki suyun, bastırılmış anıları ve takıntıları ortaya çıkaran bir tür beyin olduğunu keşfeder.
+Tarkovsky'nin bilinç filmi: Kris Kelvin Solaris istasyonuna gider — Hari (ölü karısı) maddileşir; okyanus düşünceyi beden yapar.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.22/5** · nMDB **81.7**
@@ -19,16 +19,28 @@ Düşünsel **9** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Solaris (1972) · Derin Analiz
 # Ayrıntılı konu
-Kris Kelvin, Solaris gezegeninin yörüngesindeki istasyonu araştırmaya gönderilir — orada 'okyanus' zihinlerin içinden 'konuklar' üretir. Kelvin'in karısı Hari (yıllar önce intihar etmiş) fiziksel olarak belirir — 'hatıra'dan yapılmış, ama bilinçli bir varlık. İstasyonun bilim adamları 'okyanusu' araştırmak ister ama okyanus onları 'incelemektedir'. Hari kendini yok etmeye çalışır, geri döner; Kelvin ona aşık olur. Finalde Kelvin Dünya'ya döner mi? Görüntü evinin 'yeniden üretilmiş' halini gösterir — belki okyanusun içinde.
+
+Psikolog Kris Kelvin (Donatas Banionis) Solaris gezegenindeki uzay istasyonuna gelir: üç bilim insanı deli davranır — misafirler vardır. Kris'in ölen karısı Hari (Natalya Bondarchuk) belirir — okyanus anlaşılmaz misafir üretir: insanın suçluluk hafızasından beden yapar. Hari insan olmaya çalışır; intihar eder ama geri gelir. Kris seçim yapar: dünyaya dönmek mi okyanusla kalmak mı? Finalde adada ev görünür — nostalji kozmiktir.
+
+# Üretim ve arka plan
+
+Tarkovsky'nin Stanisław Lem romanını (1961) uyarlaması — Lem ruh değil fenomenoloji istedi, Tarkovsky aşk ve vicdan ekledi (Lem memnun değildi). 1972 Cannes Büyük Jüri Ödülü. Hari sorun değil sorudur: insan nedir? Tarkovsky kozmik uzayı iç dünyaya çevirir — yıldızlar içe bakar.
 
 # Tez
-Bellek, sevginin en tehlikeli ürünüdür — Tarkovsky'nin tezi: Hari 'gerçek' değildir ama Kelvin'in vicdanı onu 'kişi' yapar; bilim insanlığı 'ölçemez' çünkü insan, kendi içindeki 'diğer'le karşılaşır. Uzay filmi değil, vicdan filmi: kâşifler 'dışarıyı' ararken içlerini bulurlar.
 
-## Mekanizma
-Uzay istasyonu Tarkovsky tarzında 'kirli' ve 'ev gibi' çekilir — teknoloji değil insanlık öndedir; Dünya'daki uzun araba sahnesi (Japonya otoyolu) 'evden ayrılışın' fiziksel süresidir. Hari'nin ölüm-dönüşü 'yapaylığı' görselleştirir — uyurken bile 'yok' olamaz. Finaldeki 'ev' karesinin içinde 'suyun' sesi — izleyiciye 'hâlâ orada mı?' sorusu kalır.
+Bilinç, suçlulukla beslenir — Tarkovsky'nin tezi: Hari yaratık değil yansımadır; okyanus insanı kendi vicdanıyla 'yüzleştirir. Ev kozmik hatıradır.
+
+## Karşılama ve miras
+
+Tarkovsky'nin Lem uyarlaması — Lem 'fenomenoloji değil aşk' diye eleştirdi ama film kendi başına kült. 1972 Cannes Büyük Jüri Ödülü + FIPRESCI. Natalya Bondarchuk'un Hari'si 'suçlulukla maddileşen bellek'; Bach'ın Ich ruf zu dir koralı 'dünya özlemi'yle kozmik boşluk arasında köprü. Soderbergh 2002'de Clooney'le yeniden çekti.
+
+## Mekanizma ve biçem
+
+Su ve ağırlıksızlık — ruh sıvı gibidir; Bach koralı (Hari'nin uyanışı) kutsal insanı bağlar. Renk — mavi istasyon vs yeşil bahçe — dünya içseldir.
 
 ## Kişisel uygunluk
-Bellek, kayıp ve bilim-vicdan çatışması profiline çok güçlü uyuyor.
+
+Bilinç ve kayıp — felsefi+ezoterik profil için tam uyum.
 
 -# THE FILM ARCHIVE · Solaris (1972) · Notlar
 ### Tartışmalar & Notlar

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/pOjsOzPzYrCFsMsatKxAwYzIeCg.jpg
 > **Yönetmen:** Ján Kadár, Elmar Klos · **Tür:** Dram, Savaş · **Süre:** 128 dk · **Dil:** Yidiş, Slovakça · **Yıl:** 1965
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve psikolojik mekanizma 8/10.
 
-İkinci Dünya Savaşı sırasında Nazi işgali altındaki Slovakya'nın küçük bir kasabasında, terbiyeli ama çekingen marangoz Tono, eski bir Yahudi dul Rozalie'ye ait bir düğme mağazasının "Aryan denetçisi" olarak adlandırılır. Görev, maaş ve kasabanın yozlaşmış hiyerarşisindeki konumuyla birlikte geldiğinden, Tono açgözlülük ve suçluluk duygularıyla boğuşurken, Rozalie ile yavaş yavaş birbirleriyle arkadaş olmaya başlar. Yetkililer kasabadaki tüm Yahudilerin toplanması emrini verdiğinde Tono, daha önce hiç karşılaşmadığı bir ahlaki ikilemle karşı karşıya kalır.
+Kadár ve Klos'un Oscar ödüllü Çekoslovak filmi: Tono, uygun bir Yahudi dükkanının Aryan sahibi olur; yaşlı Rosalie'nin gerçek durumunu anlaması hırs ile insanlık arasında gezdirilir.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.22/5** · nMDB **83.2**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · The Shop on Main Street (1965) · Derin Analiz
 # Ayrıntılı konu
-Tono Brtko, Slovak kasabasında marangozdur — faşist rejim ona 'Aryanlaştırma' görevi verir: Yahudi dul Rozalia Lautmann'ın düğme dükkanını devralmak. Tono hayır diyemez, ama içine girince yaşlı kadının 'durumu fark etmediğini' görür — dükkan zarar etmektedir, Rozalia ona iş verir, para cemaatten gelir. İki yabancı arasında sessiz bir dostluk kurulur; sınırda deportasyon başlayınca Tono Rozalia'yı saklamak ister ama korku onu 'ihanete' iter — kadın onun dolaba itmesiyle ölür. Final: Tono kendini asar; onları 'birlikte dans ederken' hayal eder.
+
+Slovakya, 1942: marangoz Tono (Józef Kroner) eniştesinin zorlamasıyla Aryanizasyon programıyla yaşlı Yahudi Rosalie'nin (Ida Kamińska) düğme dükkanını devralır. Rosalie bunu anlamaz — 'yeni yardımcı' sanar. Tono'nun vicdanı gelişir; Rosalie'nin Dodel olarak koruması onun gizli yardımcısıdır. Deportasyon günü gelir: Tono Rosalie'yi kurtarmak için çekmecesine koyar — yardım ölümle biter. Kurtuluş sahnesi rüyaya dönüşür: beyaz elbiseli Rosalie'yi hayal eder ama gerçekte sokakta utanç içinde kalır.
+
+# Üretim ve arka plan
+
+Ján Kadár ve Elmar Klos'un Ladislav Grosman'ın kısa öyküsünden uyarlaması; 1966 En İyi Yabancı Film Oscarı (Çekoslovakya'nın ilk). Kamińska — Polonya'nın ünlü Yahudi tiyatro oyuncusu — bu filmle Oscar adayı oldu (sonradan ABD'de yaşadı). Kroner'in kambur beden dili 'küçük adam'ın 'suç ortaklığı'nı fiziksel gösterir. 'Slovak Devleti'nin 'Katolik faşizmi' — 'nüfus transferi'ni gündelik yaşamın düzenine sokması — filmin en rahatsız edici yanlarından.
 
 # Tez
-Suçluluk, iyi niyetin çöküşüdür — Tono zalim değildir, sadece korkaktır; Kadar-Klos'un tezi: Holokost'un asıl taşıyıcısı 'sıradan korkaklık'tır — 'ben istemedim' demek, suçun kendisidir. Rozalia'nın saflığı değil, Tono'nun pasifliği öldürür.
 
-## Mekanizma
-Film iki tonda gider: komik başlangıç (kasabanın küçük iktidarları, saçma 'Aryanlık' belgeleri) ve trajik son — ton değişimi izleyiciyi 'güldürerek' hazırlar. Son sahnede Tono'nun hayali — Rozalia ile barış içinde — gerçeğin telafisidir; sinema burada 'olması gerekeni' gösterir çünkü olmuş olan dayanılmazdır.
+Normal hayat, suçun örtüsüdür — Kadár/Klos'un tezi: Tono kötü değil fırsatçıdır; Aryanizasyon hırsızlık değil hukuktur. Rosalie'nin korunması direniş değil çaresizlik — iyilik suçla aynı beden'de yaşar.
+
+## Karşılama ve miras
+
+Kadár-Klos ortaklığının Oscar kazananı — Çekoslovakya'nın ilk En İyi Yabancı Film Oscarı (1966). Ida Kamińska'nın Rosalie'si — yaşlılık ve yanılsama — Oscar adaylığı. Jozef Kroner'in 'kambur küçük adam' fizikselliği 'suç ortaklığının anatomisi'. Slovak Devleti'nin 'Katolik faşizmi' içinde 'Aryanizasyon'u gündelik hayata yerleştiren ilk film.
+
+## Mekanizma ve biçem
+
+Dükkân = dünyanın minyatürü; Rosalie'nin düğmeleri ayrıntı olarak insanın değersizliğini gösterir. Hayal sahnesi — beyaz elbise — vicdanın sanrısıdır: kurtarıcı olmak fantezidir.
 
 ## Kişisel uygunluk
-Sıradan suç ortaklığı ve Holokost profiline çok güçlü uyuyor.
+
+Holokost'un gündelik hali — ahlaki+politik profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Shop on Main Street (1965) · Notlar
 ### Tartışmalar & Notlar

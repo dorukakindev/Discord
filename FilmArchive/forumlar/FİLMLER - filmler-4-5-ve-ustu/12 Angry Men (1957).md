@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg
 > **Yönetmen:** Sidney Lumet · **Tür:** Suç, Dram · **Süre:** 97 dk · **Dil:** İngilizce · **Yıl:** 1957
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Savunma ve iddia makamı dinlendi ve jüri, genç bir İspanyol-Amerikalının babasını öldürmekten suçlu mu yoksa masum mu olduğuna karar vermek için jüri odasına girdi. Açık ve kapalı bir dava olarak başlayan dava, kısa sürede jüri üyelerinin her birinin davaya, sanıklara ve birbirlerine ilişkin önyargılarını ve ön yargılarını anlatan mini bir dram haline gelir.
+Bir cinayet davasında 12 jüri üyesi çekişir: 11'i suçlu der, 8 numaralı jüri üyesi (Henry Fonda) 'emin değilim' der ve kanıt tek tek sorgulanır.
 
 ### Puanlar
 IMDb **9.0/10** · Letterboxd **4.63/5** · nMDB **91.3**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **9** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · 12 Angry Men (1957) · Derin Analiz
 # Ayrıntılı konu
-Bir cinayet davasının jürisi: 12 erkek, tek oda, bir oğlanın ölüm cezası. Başlangıçta 11 'suçlu' oyu, bir tek 8 numaralı juror (Henry Fonda) 'emin değilim' der. Film, kanıtların tek tek çözülüşünü izler — bıçağın tıpatıp aynısı bulunur, tanığın yürüyüşü mümkün değildir, görgü tanığı kadının gözlüğü 'unutulmuş' detaydır — ve her yeni kuşku bir oylamayı tersine çevirir. 3 numaralı jurorun (Lee J. Cobb) son direnişi, kendi oğluyla kavga etmesiyle kişiselleşir; sonunda 'suçsuz' çıkar ama 'masum' demez — 'makul şüphe' kazanır.
+
+New York'un sıcak bir yaz gününde genç bir sanığın babasını bıçakladığı dava kapanır; 12 erkek jüri odasına girer. İlk oylama 11-1 suçlu — tek karşıt oy 8 numara (Henry Fonda) 'hayatı bu kadar kolay vermeyelim' der. Saatlerce süren tartışmada her kanıt yeniden sorgulanır: bıçağın benzersizliği, yaşlı tanığın yürüme hızı, pencereden gördüğünü iddia eden kadının gözlük izleri. Kişisel yaralar açılır — bir jüri üyesi kendi oğlunu, diğeri yabancı düşmanlığını taşır. Sonunda 'makul şüphe' galip gelir; suçlu değil 'emin olamayız' sonucu çıkar.
+
+# Üretim ve arka plan
+
+Sidney Lumet'in ilk uzun filmi; Reginald Rose'un televizyon oyunu (1954) uyarlaması. Tek mekân (jüri odası) + 12 oyuncu = tiyatronun sinemaya en saf taşınması. Başta ticari başarısız ama hukuk eğitiminde ders gibi okutuldu; AFI'ın 'en iyi mahkeme filmi' listelerinde baş sıralarda. Lumet'in 'tek mekân' tekniği (Network, Dog Day Afternoon'a giden kariyer) burada kuruldu: kamera yavaş yavaş alçalır, oda daralır, gökyüzü kapanır.
 
 # Tez
-Adalet, hızın ve çoğunluğun karşıtıdır — 'emin değilim' demek sistemin tek freni; Lumet'in tezi: demokrasi ancak tek kişinin dayanmasıyla işler çünkü geri kalanlar kanıtı değil öfkelerini, önyargılarını, hava sıcaklığını oylarlar.
 
-## Mekanizma
-Film tek mekândadır ve kamera yüksekten alçak açılara iner — tavan giderek 'çöker'; Sidney Lumet'in daralan çerçevesi fiziksel kapanmayı görselleştirir. Diyalog ritüelistik hızlanır; ırkçı jurorun (10 numara) uzun monoloğu sırasında diğerleri sırtını döner — 'suskunluk' filmin en güçlü görsel eylemidir.
+Adalet, bireysel cesaretle başlar — Lumet'in tezi: 'makul şüphe' tekniği değil vicdan eylemidir; 8 numaranın 'emin değilim'i, çoğunluğun 'hızlı karar'ı karşısında demokratik sabır dersidir. Irk, sınıf, baba sorunu — hepsi kanıt maskesinde ortaya çıkar.
+
+## Karşılama ve miras
+
+Sidney Lumet'in ilk uzun metrajı; tek oda dramı türünün kültü. Reginald Rose'un televizyon oyunu (1954) sinemaya taşındı — 96 dakikada 12 karakterin sınıf, önyargı ve vicdan haritası. Henry Fonda yapımcı olarak da; 8 numaralı jüri üyesi rolü 'demokratik ikna'nın sinema ikonu oldu. Berlin 1957 Altın Ayı. Mahkeme odası tiyatro okullarının standart metni.
+
+## Mekanizma ve biçem
+
+Tek odada 12 beden — Lumet'in 'daralan kadraj'ı ve artan ısı (terli yüzler) fiziksel olarak sıkışmayı hissettirir. Diyalog kesme ritmiyle çalışır; sessizlik de bir replik'dir.
 
 ## Kişisel uygunluk
-Hukuk, çoğunluk psikolojisi ve tek-oda dramı profiline çok güçlü uyuyor.
+
+Adalet ve grup psikolojisi — diyalog ağırlıklı politik dram profiline güçlü uyum.
 
 -# THE FILM ARCHIVE · 12 Angry Men (1957) · Notlar
 ### Tartışmalar & Notlar

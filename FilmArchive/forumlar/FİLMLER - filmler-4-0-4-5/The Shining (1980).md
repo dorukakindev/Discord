@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg
 > **Yönetmen:** Stanley Kubrick · **Tür:** Dram, Korku · **Süre:** 144 dk · **Dil:** İngilizce · **Yıl:** 1980
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Yazar Jack Torrance, kış bakıcısı olarak Overlook Oteli'ne ailesiyle gider; otelin hayaletleri Danny'nin 'ışıldamasıyla' görünür olur ve Jack'in deliliği labirentte baltayla doruğa çıkar.
+Kubrick'in otel 'kabusu: Jack Torrance, Overlook Otelinde kış bakıcısı — yazar tıkanıklığı delilik ve şiddete dönüşür; Redrum ve labyrinth sonsuzdur.
 
 ### Puanlar
 IMDb **8.4/10** · Letterboxd **4.21/5** · nMDB **84.1**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · The Shining (1980) · Derin Analiz
 # Ayrıntılı konu
-Kubrick'in 'otel' 'kâbusu': Jack Torrance, 'yazar' — 'kış' 'bakıcısı' olarak Overlook Oteli'ne 'gider'; karısı Wendy ve oğlu Danny 'birlikte' 'gider'. 'Otel' 'konuşur' — 'hayalet'ler, 'kan' 'asansörü', 'kız' 'ikizler' — Danny'nin 'ışıldama'sı 'görür'. Jack 'delirir' — 'yazı' 'All work and no play' — ve 'balta' ile 'aile'sini 'avlar'; Danny 'labirent'te 'kaybolur' ama 'kurtulur'.
+
+Colorado'da Overlook Oteli — kar ile kapanan dağ oteli — Jack Torrance (Jack Nicholson) yazar ve bakıcı olarak gelir. Eş Wendy (Shelley Duvall) ve oğul Danny (Danny Lloyd) — parlak güç sahibi — geçmiş görür. Oda 237 — banyo ve kadın — hayal mi gerçek mi? Jack yazamaz — All work and no play — delilik ve şiddet patlar. Labirent — bahçe — çocuk kaçar, baba düşer.
+
+# Üretim ve arka plan
+
+Stanley Kubrick'in Stephen King'in romanını (1977) uyarlaması — King memnun değildi ama film klasik oldu. Overlook — Timberline Lodge dışarısı ama iç set — sonsuza kadar koridor. Steadicam — yeni teknoloji — Dannynin bisiklet sürüşü düz ve ürkütücü. Kırmızı — halı ve kan — tehlike rengidir.
 
 # Tez
-Delilik, 'geçmiş'in 'tekrarı'dır — Kubrick'in tezi: Overlook 'kötü' değil 'eski'dir — '1921' 'balo' 'fotoğraf'ı 'Jack'in 'orada' 'olduğunu' 'söyler'; 'şiddet' 'döngüsel'dir — 'kurban' 'kurban'ı 'yaratır'. 'Yazı' 'delilik'tir — 'yazar' 'yazamayınca' 'öldürür'.
 
-## Mekanizma
-'Steadicam' — 'uzun', 'düz' 'koridor'lar — 'labirent' 'içsel'dir; 'Room 237' — 'kadın' 'hayaleti' — 'arzu' ile 'korku' 'birleşir'. 'Kar' — 'dış' 'dünya' 'kapalı'dır; 'final' — 'fotoğraf' — 'zaman' 'döngüsel'dir 'ama' 'net' 'değildir'.
+Geçmiş, şimdiyi tekrarlar — Kubrick'in tezi: otel hayalet değil hafızadır; Jack deli değil seçilmiştir. Danny görür — parlak — gelecek ve geçmiş.
+
+## Karşılama ve miras
+
+Kubrick'in King uyarlaması — 'King memnun değildi' ama film klasik oldu. 'Overlook' — 'Timberline Lodge dışarısı ama iç set' — 'sonsuz koridor'. 'Steadicam' — 'Danny'nin bisikleti' — 'düz ve ürkütücü'. 'Redrum' ve 'Oda 237' — 'korku ikonları'. 'Jack Nicholson'ın gülümsemesi' — 'delilik maskesi'. 'All work and no play' — 'yazar tıkanıklığı'.
+
+## Mekanizma ve biçem
+
+Simitrik koridor — tek nokta perspektif — kaybolma hissi; dans müziği — 1920ler partisi — zaman karışır. Yüz — Nicholsonın gülümsemesi — delilik maskesi.
 
 ## Kişisel uygunluk
-Delilik ve 'mekân' 'kâbusu' profiline çok güçlü uyuyor — 'en' 'etkili' 'korku' 'filmi'.
+
+Otel ve delilik — korku+psikolojik profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Shining (1980) · Notlar
 ### Tartışmalar & Notlar

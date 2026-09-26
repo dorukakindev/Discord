@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/qqZXHvBFxUpo8Pfbyvgh4SYMiWm.jpg
 > **Yönetmen:** Luis Buñuel · **Tür:** Dram, Fantastik · **Süre:** 93 dk · **Dil:** İspanyolca · **Yıl:** 1962
 **Sana uygunluk: 4.1/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Opera sonrası bir kokteyl partisinde zengin konuklar yemek salonuna girer ve açık kapılara rağmen bir türlü çıkamaz; günler geçtikçe medeniyet maskesi düşer ve içeride kalanlar hayvani hayata döner.
+Buñuel'in sosyal deneyi: burjuva misafirler yemek sonrası salondan çıkamazlar — fiziksel engel yok ama 'görünmez duvar' vardır; günler geçer, kurtarıcılar kurtarıcı olamaz.
 
 ### Puanlar
 IMDb **8.0/10** · Letterboxd **4.14/5** · nMDB **81.4**
@@ -19,16 +19,28 @@ Düşünsel **9** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · The Exterminating Angel (1962) · Derin Analiz
 # Ayrıntılı konu
-Bir kokteyl partisi: opera sonrası zenginler yemek salonuna girer ve bir türlü çıkamaz — kapılar açık, hiçbir bariyer yok ama kimse eşiği geçemez. Günler geçer: su biter, tuvalet çöker, insanlar hastalanır, ölürler; biri intihar eder, biri kalpten gider. Misafirler hayvanları katledip yer, birbirlerini suçlarlar. Sonunda bir misafir 'aynı pozisyonu' tekrar edince grup çıkabilir — ama dışarıdaki dünya da aynı 'kapanma'ya mahkûmdur.
+
+Meksiko'da bir burjuva daveti: operadan sonra zenginler salonda toplanır ama hiçbiri odadan çıkamaz — kapı açıktır ama içsel bir bariyer vardır. Günlerce susuzluk, açlık, intihar ve arkadaşlıkın çözülüşü. Dışarıdaki hizmetçi Leticia (Silvia Pinal) ve Valkiria takma adlı Leonora'nın önerisiyle — 'ilk baştaki pozisyonlara dönmek' — çıkış bulunur; ama kilisedeki ayin sahnesinde yeni bir kapanma başlar: koyunlar içeri girer, sürü özgürlüğü tekrar eder.
+
+# Üretim ve arka plan
+
+Buñuel'in Meksika dönemi; José Bergamín'in oyunundan serbest uyarlama. 1962 Cannes'da FIPRESCI. 'Burjuva tuzak' teması Buñuel'in önceki işlerinin (Viridiana'nın yemek sahnesi) devamı — Franco İspanya'sından sürgün edilmiş yönetmenin sınıf eleştirisi. Mantık açıklanmaz: 'why can't they leave?' sorusunun cevabı 'neden çıksınlar?'dır — bu, Buñuel'in sürrealist mantığıdır.
 
 # Tez
-Uygarlık bir eşiktir — Buñuel'in tezi: burjuvazi kendini kurtaramaz çünkü kurtuluş bireysel değil kolektif karar ister ve birey 'önce ben' der. Kapanma fiziksel değil psikolojiktir — eşik sadece 'görünür'dür ama içseldir; insan kendi kapanışını korur çünkü terk etmek, düzenin çöktüğünü kabul etmektir.
 
-## Mekanizma
-Mekân tek salondur — Buñuel zaman geçişini 'aynı kare'yle verir: değişen sadece insanların çöküşüdür. Koyunların girişi ve ayı görünümü absürd sürrealizmdir ama 'gerçek' yanılsama çözülür. Dini ve siyasi göndermeler (koro çocukların şarkısı, kilise) filmi alegoriye çevirir ama açıklamaz — Buñuel asla neden vermez.
+Sınıf, görünmez bir duvardır — Buñuel'in tezi: uygarlıkın kuralları (oturma düzeni, el sıkma) krizde çözülür; kurtuluş (aynı pozisyona dönmek) tarihin tekerrürüne göndermedir — sürü koyun = halkın kör inancı.
+
+## Karşılama ve miras
+
+Buñuel'in Meksika dönemi manifestosu; 1962 Cannes FIPRESCI. 'Misafirler çıkamaz' kavramı fiziksel engel olmadan sosyal kaygıyı soyutlar — 'sınıf = görünmez duvar'. Sürrealizmin en doğal hali; 'neden çıkamıyorlar' sorusunu Buñuel 'çünkü o grubun içindeyiz' diye açıkladı. 2006'da Thomas Adès operası yapıldı.
+
+## Mekanizma ve biçem
+
+Gabriel Figueroa'nın karanlık aydınlatması — salon mağaraya döner; nesneler (kristal, eldiven, tüy) sınıf simgeleridir. Montaj zamanı bulanıklaştırır — 'kaç gün?' belirsizdir.
 
 ## Kişisel uygunluk
-Burjuva eleştirisi ve sürreal alegori profiline çok güçlü uyuyor.
+
+Sürrealist sınıf eleştirisi ve kapalı mekân — politik+ezoterik profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Exterminating Angel (1962) · Notlar
 ### Tartışmalar & Notlar

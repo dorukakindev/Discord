@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
 > **Yönetmen:** Orson Welles · **Tür:** Dram, Gizem · **Süre:** 119 dk · **Dil:** İngilizce · **Yıl:** 1941
 **Sana uygunluk: 3.9/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve sembolik katman 8/10.
 
-Gazete patronu Charles Foster Kane, çocukken annesinden alınır ve zengin bir sanayicinin vesayeti altına girer. Sonuç olarak, hayatının geri kalanında yaptığı her iyi niyetli, zorba veya kendine zarar verici hareket, bir şekilde bu derinden yaralayıcı olaya bir tepki olarak görünmektedir.
+Welles'in ilk filmi: Charles Foster Kane'in ölümüyle başlar — Rosebud sorusu; haber çağı, Xanadu şatosu ve kaybedilen çocukluk üzerine tarih yazısı.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.19/5** · nMDB **82.9**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Citizen Kane (1941) · Derin Analiz
 # Ayrıntılı konu
-Charles Foster Kane ölürken 'Rosebud' der — haberci Thompson bu kelimenin anlamını araştırır ve Kane'in hayatını geriye sarıcı görüşmelerle kurar. Kane: sirkten milyoner, yayıncı, siyasetçi, koleksiyoner; herkes onu farklı 'açıdan' anlatır — annesi, bankacı Thatcher, arkadaşı Leland, karısı Susan, uşağı Raymond. Susan'ın operası (zorla), Xanadu'nun çılgınlığı, evliliklerin çöküşü — Kane her şeyi 'satın alır' ama hiçbir şeyi tutamaz. Rosebud, çocukluğundaki kızağıdır — 'kaybettiği tek şey.'
+
+Charles Foster Kane (Orson Welles) Xanadu'da ölürken Rosebud der. Gazeteci Thompson, Kane'in hayatını bulur: küçük çocukluktan servete, 'New York Inquirer' gazetesine, Susan Alexander'la (Dorothy Comingore) evlilike, valilik kaybına. Her tanık — Bernstein, Leland, Susan — farklı Kane anlatır: kapitalist, sevgilim, monstrum. Rosebud kızaktır — kaybolan masumiyet. Anılar sahne gibidir: 'deep focus' geçmiş ile şimdiyi aynı karede gösterir.
+
+# Üretim ve arka plan
+
+Welles'in 25 yaşında ilk filmi; RKO'nun tam kontrolü — yönetmen kurgu ve cast seçimi. William Randolph Hearst'a (Citizen Kane'in modeli) hayatı üzerinden sansür baskısı — şöhret engellenir. Gregg Toland'ın 'deep focus' tekniği — arka plan ön planla net — tarih görsel derinliktir. 1941'de 9 Oscar adayı ama müzikal 'The Power and the Glory'ye kaybetti; sonradan 'tüm zamanların en iyi filmi' sayıldı.
 
 # Tez
-İktidar, sevginin yerine konan nesnedir — Welles'in tezi: Kane'in 'koleksiyonculuğu' (sanat, insan, eşya) sevgi boşluğunu dolduramaz; 'Rosebud' filmin cevabı değil sorunun adıdır — bir insanın hayatı bir kelimeye sığmaz.
 
-## Mekanizma
-Derin odak, tavansız kareler ve alçak açılar — Welles'in 'tiyatro' kamerası mekânı 'sahne' yapar; haber filmi stili açılış (News on the March) 'gerçeği' arşiv görüntüsü gibi sunar. Susan'ın opera sahnesi — sahne ışığı ve amfiteatrın boşluğu — Kane'in 'kontrolünün' çöküşüdür. Finalde kızak yanar — Rosebud'u kimse görmez, sadece izleyici bilir.
+Kimlik, bakışların toplamıdır — Welles'in tezi: Kane gizem değil gösteridir; Rosebud çözüm değil kayıptır. Haber gerçeki üretir.
+
+## Karşılama ve miras
+
+Welles'in 25 yaşındaki ilk filmi; RKO'nun tam kreatif kontrolü efsane oldu. William Randolph Hearst basını boykot etti — film 'öldü' ama 1941'de 9 Oscar adaylığı (sadece senaryo kazandı). 1950'lerden sonra Sight & Sound'un 5 kez üst üste 'en iyi film'i; Toland'ın deep-focus'u 'tarihsel derinlik' kodu olarak hâlâ kullanılır. 'Rosebud' — kızak — basit ama etkili.
+
+## Mekanizma ve biçem
+
+Flashbackler — anı sahnedir; Xanadu gotik mezar gibi görünür. Kahvaltı masası — yıllar geçer — evlilik sessiz ölür.
 
 ## Kişisel uygunluk
-İktidar, medya ve kayıp çocukluk profiline çok güçlü uyuyor — 'en iyi film' statüsünün ötesinde bir meditasyon.
+
+Güç ve gizem — sinema tarihi profiline tam uyum.
 
 -# THE FILM ARCHIVE · Citizen Kane (1941) · Notlar
 ### Tartışmalar & Notlar

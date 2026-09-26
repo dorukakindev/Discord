@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg
 > **Yönetmen:** Yasujirô Ozu · **Tür:** Dram · **Süre:** 137 dk · **Dil:** Japonca · **Yıl:** 1953
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve psikolojik mekanizma 8/10.
 
-The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.
+Ozu'nun ev filmi: yaşlı çift Tokyo'ya çocuklarını görmeye gider; işleri onları kaydırır — ölüm haberle gelir, sevgi geç kalır.
 
 ### Puanlar
 IMDb **8.1/10** · Letterboxd **4.43/5** · nMDB **84.8**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Tokyo Story (1953) · Derin Analiz
 # Ayrıntılı konu
-Yaşlı çift Shukishi ve Tomi Hirayama, Tokyo'ya çocuklarını ziyarete gider — oğulları (doktor, kuaför), kızları (işkadını) ve gelinleri Noriko (kayınvalidesi ölmüş). Çocuklar 'meşgul'dür; Noriko onlara gerçek ilgi gösterir. Tomi ölür ve çocuklar cenazeye gelir ama 'işe' dönerler; Noriko bir süre daha kalır. Shukishi'nin arkadaşı Onoda'ya dediği gibi: 'Çocuklar sizin için değil, kendi hayatları için yaşar.' Film, 'aile' kavramının sessiz çöküşüdür.
+
+Shūkichi (Chishū Ryū) ve Tomi Hirayama (Chieko Higashiyama), Onomichi'den Tokyo'ya kız ve oğulu görmeye gelir. Çocuklar — doktor Shige ve kuaför Koichi — işleri vardır; büyük şehir onları sıkar. Sadece gelin Noriko (Setsuko Hara) — dul — zaman ayırr. Tomi ağır hastalanır ve ölür. Cenaze sonrası çocuklar hemen döner; Shūkichi yalnız kalır. Tren geçer — hayat devam eder.
+
+# Üretim ve arka plan
+
+Yasujirō Ozu'nun en tanınmış filmi; Tokyo ailesi modernleşme'yle dağılır. Pillow shot — boş oda veya sokak — geçiş sessizliğidir. Tatami göz hizası — izleyici oturur — günlük hayat yukarı bakmaz. 'Setsuko Hara'nın gülüşü — üzüntü içinde gizlidir.
 
 # Tez
-Büyüme, aile bağlarının çözülmesidir — Ozu'nun tezi: 'iyi' çocuklar bile ebeveynlerine 'zaman' ayıramaz çünkü hayat 'başka yere' gider; Noriko'nun şefkati (ölen kocasının ailesine) gerçek aile bağının 'seçilmiş' olduğunu gösterir — kan değil, ilgi.
 
-## Mekanizma
-Ozu'nun alçak kamerası — tatami seviyesi — izleyiciyi 'yerde oturan' yapar; sabit kareler ve 'pillow shots' (geçiş görüntüleri: tren, çamaşır, tabela) mekânın 'nefesini' verir. Diyaloglar düz ama altında okyanus vardır; 'güzel hava' sohbetleri acının altını çizer — kimse ağlamaz, sadece 'teşekkür ederiz.'
+Aile, dağılmanın kabulüdür — Ozu'nun tezi: çocuklar büyür ve gider; sevgi zamanı durduramaz. Noriko iyi insandır — kan bağı aşar.
+
+## Karşılama ve miras
+
+Ozu'nun en tanınmış filmi; 'en iyi film' anketlerinin değişmez üyesi (2022 Sight & Sound 4.). Setsuko Hara'nın Noriko'su 'iyi insan' arketipi; 'tatami göz hizası' ve 'pillow shot' teknikleri sinema diline girdi. 'Aile dağılması' teması Ozu'nun 'Monogatari' serisinin zirvesi; Japon 'gündelik hayat estetiği'nin küresel dönüm noktası.
+
+## Mekanizma ve biçem
+
+Odak değişmez — tavana bakmaz; yemek sahneleri ritüeldir. Tren sesi — uzaklık sestir — ayrılık duyulur.
 
 ## Kişisel uygunluk
-Aile, yaşlanma ve sessiz acı profiline çok güçlü uyuyor — sinemanın en 'nazik' trajedisi.
+
+Aile ve zaman — sakin+derin profil için tam uyum.
 
 -# THE FILM ARCHIVE · Tokyo Story (1953) · Notlar
 ### Tartışmalar & Notlar

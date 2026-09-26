@@ -4,7 +4,7 @@ https://a.ltrbxd.com/resized/sm/upload/mb/3e/pr/ra/the-decalogue-1200-1200-675-6
 > **Tür:** Dram · **Süre:** 572 dk · **Dil:** Lehçe · **Yıl:** 1989
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-The Ten Commandments, exact and uncompromising, literally cast in stone, continues to provide a source of moral conflict in contemporary society. In the ten part epic masterpiece, The Decalogue, Krzysztof Kieslowski examines the dilemma of fundamental sin in the lives of ordinary Warsaw citizens.
+Kieslowski'nin Aşk hikâyesi: Tomek, posta müdürü, teleskopla komşu Magdayı izler — aşk görme ile başlar ama dokunma gerekir.
 
 ### Puanlar
 IMDb **8.9/10** · Letterboxd **4.59/5** · nMDB **90.4**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Decalogue VI (1989) · Derin Analiz
 # Ayrıntılı konu
-Dekalog'un altıncı bölümü: Tomek, 19 yaşında posta memuru; komşu apartmandaki Magda'yı teleskopla gözetler — her akşam 'randevularını' izler ve kendi 'saf aşkını' besler. Magda'nın hayatı 'karmaşık'tır — erkekler, telefonlar, yalnızlık; Tomek'in gözetlemesi 'bozulmamış' tek duygudur. Sonunda tanışırlar — Magda onu 'kullanır' ama Tomek ona 'aşık' olur; kendi kendine zarar verir ve hastaneye düşer. Magda, onun 'odasını' görmeye gider — teleskopun 'tersinden' bakar: 'masumiyet' karşılıklıdır.
+
+Varşova'da genç Tomek (Olaf Lubaszenko), posta memuru, apartman karşısındaki kadın Magda'yı (Grazyna Szapolowska) teleskopla gözetler. Görme aşka dönüşür: sahte telefon aramaları, post kutusu 'izleme. Magda yalnız görünür ama erkeklerle birliktedir. Tomek yüzleşir — gözetleme itirafı — Magda şaşırır ama ilgi duyar. Gözetleme ters döner — Magda Tomeki izler. Finalde Magda Tomekin penceresine bakışı — aşk karşılıklı görmedir.
+
+# Üretim ve arka plan
+
+Kieslowski'nin Dekalog VI; 'A Short Film About Love' olarak uzun versiyonu 'da 'vardır. Teleskop — sinema metaforudur: izlemek ve görmek arasındaki fark. Magda sanatçıdır — marionette oyunu yapar — görme ve oynamak birleşir. Buz — pencere camı — ayrılık ve şeffaflıktır.
 
 # Tez
-Aşk, gözetleme ile kutsanır — Kieslowski'nin tezi: Tomek'in 'voyeurism'i sapıklık değil 'ibadet'tir; Magda'nın 'deneyimi' onu 'kırar' çünkü 'masumiyet' karşılıklı olamaz. 'Aşk' burada tek yönlüdür — Tomek Magda'yı sever ama Magda 'Tomek'i' değil, 'onun bakışını' sever.
 
-## Mekanizma
-Teleskop ve pencere — 'göz' ile 'ruh' arasındaki mesafe; Tomek'in 'karanlık odası' ve Magda'nın 'aydınlık' penceresi karşıttır. Zbigniew Preisner'in müziği 'sızıntı' gibi akar — izleyici 'gözlemci' olur. Finaldeki 'tersine bakış' — Magda'nın Tomek'in odasına bakması — 'gözetleyen' ile 'gözetlenen'in yer değiştirmesidir.
+Aşk, görmenin karşılıklı halidir — Kieslowski'nin tezi: gözetleme tek yönlüdür; bakış karşılık bulursa aşk doğar. Tomek izler ama sonunda izlenir.
+
+## Karşılama ve miras
+
+Kieslowski'nin 'Aşk' bölümü — 'A Short Film About Love' sinema versiyonu 1988'de San Sebastián'da gösterildi. Grazyna Szapolowska'nın Magda'sı — 'sanatçı = gözlemci' — ve 'teleskop = sinema' metaforu. 'Gözetleme = aşk başlangıcı' kavramı; 'Finalde Magda'nın Tomek'i izlemesi' — bakışın karşılıklılığı — Polonya sinemasının en zarif sonu.
+
+## Mekanizma ve biçem
+
+Teleskop dairesi — çerçeve içinde çerçeve; ışık — odada tek mum — Mahler ışığıdır. Yüz — Magdanın gözyaşları' — yalnızlık görünürdür.
 
 ## Kişisel uygunluk
-Gözetleme, masumiyet ve karşılıksız aşk profiline çok güçlü uyuyor.
+
+Gözlem ve aşk — romantik+felsefi profil için tam uyum.
 
 -# THE FILM ARCHIVE · Decalogue VI (1989) · Notlar
 ### Tartışmalar & Notlar

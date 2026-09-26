@@ -8,7 +8,7 @@ Oyuncular profesyonel olmayan, gerçek yazilimcilar ve satranç programcilarinda
 
 Film 2013'te Sundance ve Berlin'de prömiyer yapmistir. Yaklasik 92 dakika sürer. Eureka! sirketi filmi "Masters of Cinema" serisinde Blu-ray ve DVD olarak yayimlamis; yorumlari arasinda bir "stoner" (esrarkeş) yorumcusunun seslendirdigi yorum da bulunmaktadir. Eger Amerikan bagimsiz deneysel sinema, 1980'ler bilgisayar kültürü, analog estetik, mumblecore sinema akimi, yapay zekâ ve sinema iliskisi ilgini çekiyorsa denenmeye deger bir film.
 
-Page ailesi Sussex ormanında elektriksiz veya akan su olmadan yaşar. Sürekli büyüyen modernite ve sanayileşmenin ortasında, aile işleri yürütür, sülünleri avlar, buhar motorları yapar ve insanın aya yolculuğuna postülat yapar. İnce yanal düşünceyi gösterirler ve özel teslimatları sayesinde kirlilik, yoğun çiftçilik, mekanizasyon ve kendini gerçekleştirme ile ilgili korku ve endişelerini teknolojik ilerleme zamanında sergilerlerlerler.
+Sussex'teki Swanbrook ormanında gaz, elektrik ve su olmadan yaşayan Page ailesinin portresi: yaşlı Bay Page ve yetişkin çocukları Jim, Pete, Nancy, Kath — buharlı motorları tamir eden, orman hayatı süren bir aile, doğal ışıkta 16mm renkli çekim.
 
 ### Puanlar
 IMDb **6.9/10** · Letterboxd **3.59/5** · nMDB **70.4**
@@ -22,10 +22,26 @@ Düşünsel **7** · Psikolojik **6** · Diyalog **6** · Olay örgüsü **3** �
 -# nMDB arşiv kaydı #122
 
 -# THE FILM ARCHIVE · The Moon and the Sledgehammer (1971) · Derin Analiz
-# Kısa konu
+# Ayrıntılı konu
 
-Sussex ormanlarında modern şebekeden kopuk yaşayan Page ailesi; baba ve yetişkin çocukları üzerinden uygarlık dışı bir varoluş sürdürür. Kardeşler eski buhar makinelerini tamir ederek geçinirken, uzay yarışı ve teknolojik ilerlemeyi reddedip demir ve ateşle örülü döngüsel bir zanaat ritmini seçer. Dışarıdan gelen müdahale olmaksızın kaydedilen gündelik rutinler ve aile içi gerilimler, modernleşmenin getirdiği yabancılaşmaya karşı anakronik ve kendi içine kapalı bir dünya kurarak sarsıcı bir inziva tablosuyla noktalanır.
+Page ailesi Sussex'in Chiddingly yakınlarındaki Swanbrook ormanında, şehir gazı, elektrik ve musluk suyu olmadan yaşar. Yaşlı Bay Page ve yetişkin çocukları Jim, Pete, Nancy ve Kath röportajlar verir; oğullar mekanik tamir işleri yapar ve iki buharlı çekme motoruna bakarlar. Film aile fertlerinin konuşmalarını günlük yaşam görüntüleriyle iç içe geçirir — bahçecilik, yemek, motor tamiri, "İngiltere mahvoldu, hükümet insanları bozdu" diyen Peter'ın dünya görüşü.
 
-## Kanıt sınırları
+# Üretim ve arka plan
 
-Başlık ve yapım yılıyla doğrulanan web kaynağı ve arşiv metadatası kullanıldı.
+Philip Trevelyan'ın tek uzun filmi; Vaughan Films yapımı, Richard Stanley görüntüde, doğal ışıkla 16mm renkli, mono ses, anlatıcı yok. Rank Organisation için 35mm'ye büyütülüp sinemada gösterildi; Channel 4'da yayınlandı. Kült belgesel statüsüne ulaştı — 50 yılı aşkın süredir izleyici buluyor; aileyle yeniden buluşan "Behind the Moon and the Sledgehammer" (2007) adlı bir devam belgesi de var. Trevelyan tarihçi G.M. Trevelyan'ın soyundan gelir; aile portresi onun tek sinema işi olmasına rağmen İngiliz belgesel kanonunda benzersiz yer tutar.
+
+# Tez
+
+Özgürlük, sanayi sonrası yaşamın dışında mümkündür — Trevelyan'ın tezi: Page'ler 'geri kalmış' değil, seçilmiş bir hayatın ustalarıdır; buhar motorları ve el emeği, fabrika üretiminin karşısına bağımsızlık olarak çıkar.
+
+## Karşılama ve miras
+
+Philip Trevelyan'ın tek uzun belgeseli; Sussex'te kendi kendine yeten Page ailesi — buhar makineleri, müzik, bahçe — üzerine. 1971'de BBC'de yayınlandıktan sonra kayıp sayıldı; 2009'da BFI tarafından restore edilip DVD çıktı. 'İngiliz taşrasının kayıp dünyası' olarak yeniden keşfedildi; hippiler değil, kendi kendine yeten bir işçi ailesi portresi.
+
+## Mekanizma ve biçem
+
+Anlatıcısız, doğal ışıklı gözlem; röportajların dürüstlüğü aileyi egzotik değil özerk kılar. Buharlı motorların kükreyişi ve orman sessizliği iki temporaliteyi — makine çağı ve doğa zamanı — aynı karede tutar.
+
+## Kişisel uygunluk
+
+Alternatif yaşam portresi ve gözlemci belgesel — egzantrik ama saygılı insan hikâyesi profiline güçlü uyum.

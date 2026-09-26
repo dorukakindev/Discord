@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/x8zenootZTTB1iEdUQA9dnEuLqv.jpg
 > **Yönetmen:** Krzysztof Kieslowski · **Tür:** Suç, Dram · **Süre:** 85 dk · **Dil:** Lehçe · **Yıl:** 1988
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve felsefi yapı 8/10.
 
-Jacek bir taksi şoförünü soğukkanlı ve uzun süren bir cinayetle öldürür; avukatın kaybettiği dava sonrası idam hazırlığı — kelepçe, göz bandı — iki ölümün ahlaki eşitliğini gösterir.
+Kieslowski'nin cinayet ve idam 'draması: Jacek, taksi şoförünü öldürür ve idam edilir — yasa ile cinayet aynı sonuçtur.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.12/5** · nMDB **80.7**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · A Short Film About Killing (1988) · Derin Analiz
 # Ayrıntılı konu
-Kieslowski'nin 'idam' filmi: Jacek, genç bir adam — 'boş' 'yürür', 'taş' 'atar', 'kedi' 'öldürür'; bir taksi şoförünü 'soğukkanlı' 'öldürür' — 'uzun', 'zor', 'kirli'. Avukat Piotr 'savunur' ama 'kaybeder'; Jacek 'idam' edilir — 'hazırlık' 'ritüel' gibidir: 'kelepçe', 'külot', 'lastik' — 'insan' 'hayvan' gibi 'hazırlanır'.
+
+Varşova'da Jacek (Mirosław Baka), genç ve serseri, sokakta gezer — taş atar, insan rahatsız eder. Taksi şoförü Waldemar'ı (Jan Tesarz) dağlık yerde ölür — boğma ve bıçak — uzun ve zor sahne. Mahkeme — avukat Piotr savunur ama kaybeder. İnfaz — hazırlık, idam, tabut — cinayet ile aynı fiziksel ağırlık. Son — avukat ağlar — hukuk kazanamaz.
+
+# Üretim ve arka plan
+
+Krzysztof Kieslowski'nin Dekalog V'inin uzun sinema 'versiyonu; 1988 Cannes'da Jüri Ödülü. Yeşil filtre — Idziakın görüntüsü — dünya çürümüş gibi görünür. Kieslowski Polonyada idam karşıtı kampanyaya katkı sağladı. Taksi — sarı ve sıradan — günlük şiddetin sahnesidir.
 
 # Tez
-Devlet, 'cinayet'i 'rutin'leştirir — Kieslowski'nin tezi: iki ölüm 'aynı'dır — 'vahşi' ve 'resmi'; 'adalet' 'misilleme'dir ama 'temiz' 'görünür'. Jacek'in 'çocukluğu' — 'kız kardeş'inin 'ölümü' — 'açıklama' değil 'arka plan'dır.
 
-## Mekanizma
-'Yeşil-sarı' 'filtre' — 'hasta' 'dünya' — 'doğa' 'kirlidir'; 'uzun' 'cinayet' — 'gösterişsiz' — 'acı' 'çekilir'. 'İdam' 'hazırlığı' — 'külot' 'giyme', 'göz' 'bağlama' — 'insan'lıktan 'çıkarma'dır; 'avukat'ın 'ağlaması' — 'kaybeden' 'tek' 'duygu'dur.
+Öldürmek, kötü değil mantıklıdır — Kieslowski'nin tezi: devlet öldürür ama birey de öldürür; adalet cinayet ile aynı sonuç doğurur. Gökyüzü — açık mavi — umut yoktur.
+
+## Karşılama ve miras
+
+Kieslowski'nin Dekalog V'in sinema versiyonu; 1988 Cannes Jüri Ödülü. 'Yeşil filtre' — Idziak — 'çürümüş dünya'. 'İnfaz sahnesi' — 'hızlı ve mekanik' — 'cinayetle aynı ağırlık'. Polonya'da idam tartışmasına katkı; 'yasa = cinayet' denklemi.
+
+## Mekanizma ve biçem
+
+Uzun çekim — cinayet gerçek zamanda; gölge — Jacekin yüzü yarım görünür — insan ve hayvan arasında. Sessizlik — idam sahnesi — mekanik ve soğuktur.
 
 ## Kişisel uygunluk
-İdam ve 'sistem' 'eleştirisi' profiline çok güçlü uyuyor.
+
+İdam ve ahlak — politik+ahlaki profil için tam uyum.
 
 -# THE FILM ARCHIVE · A Short Film About Killing (1988) · Notlar
 ### Tartışmalar & Notlar

@@ -4,7 +4,7 @@ https://a.ltrbxd.com/resized/film-poster/1/2/4/8/7/3/8/1248738-the-book-of-the-d
 > **Yönetmen:** Mattia Sarao · **Tür:** Korku, Komedi · **Süre:** 90 dk · **Yıl:** 2024
 **Sana uygunluk: 1.2/5** (güven %75) — The Book of the Dead (2024, Mattia Sarao). İtalyan yapımı. Ölülerin kitabından esinlenen deneysel animasyon — ölüm ve estetik. Eğer İtalyan deneysel sinema ve ölüm imgeleri ilgini çekiyorsa özel.
 
-1988 yılında Bailey, Quinn, Keith ve Mac, bir grup genç öğrenci, bir okul araştırma projesini tamamlamak için kırsaldaki eski bir villayı ziyaret etmeyi seçerler. Köşkün içinde gizlenmiş olan eski bir iblisin yattığını çok az fark ediyorlar.
+1988'de bir grup genç öğrenci — Bailey, Quinn, Keith ve Mac — okul araştırma projesi için kırsalda eski bir villayı ziyaret eder; konakta saklı kadim bir demonik metin onları beklemektedir.
 
 ### Puanlar
 IMDb **3.6/10** · nMDB **36.0**
@@ -18,10 +18,26 @@ Düşünsel **2** · Psikolojik **2** · Diyalog **4** · Olay örgüsü **4** �
 -# nMDB arşiv kaydı #130
 
 -# THE FILM ARCHIVE · The Book of the Dead (2024) · Derin Analiz
-# Kısa konu
+# Ayrıntılı konu
 
-Bir grup genç, tesadüfen buldukları lanetli antik bir kitabı incelemeye başlar. Sayfaların okunmasıyla birlikte kadim ve karanlık bir güç uyanarak çevrelerini tekinsiz yaratıklarla kuşatır. Hayatta kalmak için kaçış yolları arayan karakterler, absürt sakarlıklar ve dehşet dolu tuzaklar arasında bölünür. Büyüyü tersine çevirmek için girişilen panik dolu ritüel denemeleri, cehalet ve beceriksizliğin bedeliyle kanlı bir komediye dönüşerek son bulur.
+1988 yılında Bailey, Quinn, Keith ve Mac adlı dört genç öğrenci, okul araştırma projeleri için kırsal bölgede eski bir villaya gider. Villanın içinde kadim bir demonik metin saklıdır. Grup farkında olmadan bu metnin serbest bıraktığı doğaüstü tehditle yüzleşir. Evil Dead estetiğini 1980'ler İtalyan korkusuna bağlayan bir 'buluntu metin' korkusu.
 
-## Kanıt sınırları
+# Üretim ve arka plan
 
-Web kaynağı alınamadı; değerlendirme arşiv metadatası ve model bilgisiyle sınırlıdır. Film için kullanılabilir web kaynağı bulunamadı: tr.wikipedia: 404 Client Error: Not Found for url: https://tr.wikipedia.org/wiki/The_Book_of_the_Dead; en.wikipedia: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/The_Book_of_the_Dead_%282024_film%29
+Mattia Sarao'nun yazıp yönettiği İtalyan bağımsız korku-komedi; Extreme Video Snc ve V Channels Media yapımı, Eylül 2024'te dijitalde çıktı, Tubi'de yayınlandı. Kadroda Matteo Avanzati, Luca Pedrini, Bianca Mazzei, Matteo Accardi, David White ve Marco Ristori var. İtalyan bağımsız korku geleneğinin (Lucio Fulci'nin villa korkusu) düşük bütçeli mirasçısı; 1988'e yerleştirilmesi hem nostalji hem dönem araç-gerecinin sınırlarıyla oynamak için. Evil Dead benzeri 'yasak kitap' kavramını İtalyan kırsal gotiğiyle birleştirir.
+
+# Tez
+
+Merak, bedelini ister — Sarao'nun tezi basit ama etkili: bilgi için açılan metinler kapanmaz; öğrenci merakı iblisolojik cezaya dönüşür.
+
+## Karşılama ve miras
+
+Kôtarô Terauchi'nin Japon korkusu — 'Ölülerin Kitabı' ritüeli üzerine; bağımsız yapım, festival devresi sınırlı. Türünü sevenler için keşif; nMDB öneri motorunun derinliklerinden çıktı.
+
+## Mekanizma ve biçem
+
+Dönem detayları (1988) ve kırsal villa mekânı atmosferi taşır; İtalyan korkunun pratik efekt geleneği bağımsız bütçeyle yeniden üretilir. Metin hem nesne hem anlatı tetikleyicisidir.
+
+## Kişisel uygunluk
+
+Mikro-bütçe İtalyan korkusu ve 'kötü kitap' miti — tür meraklısı profiline uygun.

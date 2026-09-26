@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg
 > **Yönetmen:** Akira Kurosawa · **Tür:** Aksiyon, Dram · **Süre:** 207 dk · **Dil:** Japonca · **Yıl:** 1954
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Bir samuray, zor günler geçirdikten sonra bir köyün koruma talebine yanıt verir. Kasabanın haydutlardan korunmaya ihtiyacı var, bu yüzden samuray, halka kendilerini nasıl savunacaklarını öğretmesine yardım etmek için altı kişiyi daha toplar ve köylüler askerlere yiyecek sağlar.
+Kurosawa'nın üç saatlik destanı: çiftçiler haydutlardan koruması için samuray tutar; Kambei'nin liderliğinde yedi samuray ve bir sahte (Kikuchiyo) arasında sınıf ve şeref savaşı.
 
 ### Puanlar
 IMDb **8.6/10** · Letterboxd **4.60/5** · nMDB **89.0**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · Seven Samurai (1954) · Derin Analiz
 # Ayrıntılı konu
-16. yüzyıl Japonya — haydutlar bir köyü yağmalamaya gelir; köylüler savunma için samuray tutarlar ama ödeme sadece pirinçtir. Kambei (Takashi Shimura) liderliğinde yedi samuray: Katsushiro (genç), Gorobei, Shichiroji, Heihachi, Kyuzo (usta kılıçlı) ve Kikuchiyo (köylü doğumlu 'sahte' samuray — Mifune). Köyü savunma planına göre organize ederler; son savaş yağmur ve çamurda yapılır — haydutlar ölür ama dört samuray da. Kambei'nin son sözü: 'Kazanan biz değiliz, köylüler.'
+
+Sengoku dönemi: bir köy haydutların hasat baskınından bıkar; köylüler samuray tutmaya karar verir — pirinç karşılığında. Kambei (Takashi Shimura) kambur, yaşlı ama dürüst bir lideri toplar: genç Katsushiro, cesur Kyuzo, şakacı Gorobei, iyimser Shichiroji, Heihachi ve Kikuchiyo (Toshiro Mifune) — köylü çocuğu olarak samuray oynayan. Köyü kaleye çevirirler: köylüler asker olur, haydutlar taktikle ölür. Sonunda dört samuray ölür — kazananlar köylülerdir; kaybedenler savaşın boşluğudur. Savaş bittiğinde köylüler pirinç şarkısı söyler — samuraylar 'kendi yoluna' gider.
+
+# Üretim ve arka plan
+
+Kurosawa'nın 'en pahalı' Japon filmi (o dönem); Shinobu Hashimoto ve Hideo Oguni senaryo. 1954 Venedik'te Gümüş Aslan; 1960'ta 'The Magnificent Seven' (John Sturges) western uyarlaması yapıldı. Shimura ve Mifune'nin ikili performansı — ustalık ile vahşilik karşıtlığı — Kurosawa'nın baba-oğul dinamiğinin zirvesi. Pirinç ekonomisi: samuraylar onur değil pirinç için çalışır — sınıfı yemekle ölçer.
 
 # Tez
-Kahramanlık, sistemle değil toplumla ölçülür — Kurosawa'nın tezi: samuraylar köylüleri 'kurtardı' ama kendileri kaybetti; savaş sonrası samuray 'fazla'dır çünkü barış onlara yer açmaz. Kikuchiyo'nun köylü-çıkışı filmin ahlakıdır: sınıf, soy değil davranışla belirlenir.
 
-## Mekanizma
-Son savaş — yağmur, çamur, at — sinema tarihinin en kinetik savaşıdır; montaj uzunluk ve ritmiyle bedeni yorar. Her samurayın karakter kartı nettir: Kambei'nin taktiksel zekası, Kyuzo'nun mükemmelliği, Kikuchiyo'nun enerjisi — topluluk 'tek kişi' değil sentezdir. Köylüler önce 'aptal' görünür ama Kikuchiyo'nun onlara bakışı (kılıç kuşaklarındaki eski paslar) köylüleri de samuraylar gibi 'şiddetle beslenen' sınıf yapar.
+Şeref, hizmettedir — Kurosawa'nın tezi: samuray savaşçı değil hizmetkârdır; köylüler zayıf değil 'hayatta kalan'dır. Kikuchiyo'nun ikili kimliği sınıfın görünmez sınırını gösterir.
+
+## Karşılama ve miras
+
+Kurosawa'nın dönemin en pahalı Japon filmi (Toho); 1954 Venedik Gümüş Aslan. John Sturges'in 'The Magnificent Seven'ı (1960) doğrudan uyarladı — 'koruyucu ekip' formülü sayısız filmde. Shimura-Mifune karşıtlığı; Kikuchiyo'nun 'köylü-samuray arası' kimliği sınıf eleştirisinin motoru. 'Yağmurlu son savaş' sinema tarihinin en fiziksel koreografisi.
+
+## Mekanizma ve biçem
+
+Üç saatlik yapı: toplama (birinci saat), hazırlık (ikinci), savaş (üçüncü) — ritim fiziksel olarak hissedilir. Yağmurlı final — toprak ile kan karışır — epik günlük haline döner.
 
 ## Kişisel uygunluk
-Kolektif kahramanlık ve sınıf eleştirisi profiline çok güçlü uyuyor.
+
+Savaş ve sınıf — insan hikâyesi profiline tam uyum.
 
 -# THE FILM ARCHIVE · Seven Samurai (1954) · Notlar
 ### Tartışmalar & Notlar

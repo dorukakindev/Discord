@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg
 > **Yönetmen:** Joshua Oppenheimer, Anonymous, Christine Cynn · **Tür:** Belgesel, Biography, Suç · **Süre:** 117 dk · **Dil:** Endonezce · **Yıl:** 2012
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Bu tüyler ürpertici ve çığır açıcı belgeselde, eski Endonezyalı ölüm mangası liderleri, gerçek hayattaki toplu katliamları çeşitli film türlerinin tarzında yeniden canlandırıyor. Geçmişteki zulümlerini yeniden yarattıkça, gerçeklik ile performans arasındaki çizgi bulanıklaşıyor ve Endonezya'nın 1965-66'daki anti-komünist tasfiyesinin kalıcı etkisini ve bunu gerçekleştirenlerin rahatsız edici psikolojisini açığa çıkarıyor.
+Oppenheimer'in Endonezya katliam 'belgeseli: Anwar Congo ve arkadaşları, 1965 korku yılında komünist öldüren paramiliterler, kendi filmlerini çeker — gerçek oyunculukla yüzleşir.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.43/5** · nMDB **85.3**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Act of Killing (2012) · Derin Analiz
 # Ayrıntılı konu
-Joshua Oppenheimer'ın Endonezya belgesi: 1965-66'da 'komünist' katliamı yapan 'gangster'ler — Anwar Congo ve Herman Koto — 'suçlarını' 'yeniden canlandırırlar'. 'Gangster filmi', 'western', 'müzikal' — 'Hollywood' 'tarzında' 'cinayet'lerini 'oynarlar'. Anwar 'kabusa' girer — 'kendi' 'victory' 'bölgesi'nde 'kurban' olur — ve 'kurtuluş' 'bulamaz'. Film 'kötü'leri 'aktör' yapar ve 'gerçek' 'korku'yu 'gösterir'.
+
+Endonezya, Kuzey Sumatra: Anwar Congo ve arkadaşları, 1965-66 Suharto rejimi sırasında Pemuda Pancasila paramiliter grubunda binlerce insanı öldürdü. Joshua Oppenheimer onlara film çekmelerini teklif eder — western, gangster, müzikal türlerinde kendi suçlarını oynarlar. Sahne gerçekliği — kostüm ve makyaj — kabus gibi görünür. Boğaz kesme sahnesi — gerçek anı — sanat ve tarih birleşir.
+
+# Üretim ve arka plan
+
+Joshua Oppenheimer'ın yıllar süren araştırması; Werner Herzog ve Errol Morris yapımcı. Sukarno sonrası Endonezya tarihi — komünist avı ve Suharto diktatörlüğü. Medan sokakları — şimdi ve geçmiş birleşir. Anwar gerçek suçlu — pişmanlık mı piyasa mı belirsizdir.
 
 # Tez
-Şiddet, 'performans'la 'meşrulaştırılır' — Oppenheimer'ın tezi: 'katiller' 'film' 'yıldızı' gibi 'davranır' çünkü 'kültür' 'şiddet'i 'över'; 'canlandırma' 'pişmanlık' değil 'deneme'dir — 'kendi' 'korkularıyla' 'yüzleşmek' 'iyileşme' değil 'kabus'tur.
 
-## Mekanizma
-'Canlandırma' sahneleri — 'kostüm', 'makyaj', 'set' — 'gerçek' ile 'oyun' 'birleşir'; 'Anwar'ın 'yüzü' — 'korku' ile 'keyif' arasında — 'suçluluk'un 'fizyolojisi'dir. 'Herman'ın 'kadın' kıyafeti — 'tiyatro' 'cinsiyet'i 'değiştirir' — 'güç' 'görüntü'dür.
+Suç, sanat içinde tekrar yaşanır — Oppenheimer'ın tezi: oynamak unutmak değil hatırlamaktır; film suç sahnesi olarak bellek yaratır. Kostüm maske değil yüzdür.
+
+## Karşılama ve miras
+
+Oppenheimer'ın 8 yıllık Endonezya araştırması; Herzog ve Morris yapımcı. 'Suçlular kendi filmlerini çeker' — 'western', 'gangster', 'müzikal' türlerinde — 'sanat = bellek' tezi. 'Boğaz kesme sahnesi' — gerçek anı — 'tarihsel şiddetin estetikleştirilmesi' tartışması. 2013 Oscar adaylığı; 'en önemli belgesel' seçildi.
+
+## Mekanizma ve biçem
+
+Renkli sahneler — müzikal ve korku — fantezi içinde gerçek; doğal ışık — ev ve sokak — sıradan kötülük.
 
 ## Kişisel uygunluk
-Kolektif şiddet ve 'yüzleşme' profiline çok güçlü uyuyor — belgeselin 'en rahatsız' hâli.
+
+Katliam ve bellek — politik+belgesel profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Act of Killing (2012) · Notlar
 ### Tartışmalar & Notlar

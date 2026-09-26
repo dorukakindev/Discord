@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg
 > **Yönetmen:** Elia Kazan · **Tür:** Dram · **Süre:** 125 dk · **Dil:** İngilizce · **Yıl:** 1951
 **Sana uygunluk: 3.7/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve diyalog 9/10.
 
-Güneyli 'zarif' Blanche DuBois, kız kardeşi Stella'nın kaba kocası Stanley'nin New Orleans'taki evine gelir; geçmişin hayalleri ile Stanley'in fiziksel gerçekliği çatışır ve Blanche 'yabancıların nezaketine' sığınarak delirir.
+Kazan'ın Tennessee Williams uyarlaması: Blanche DuBois, kaybetmiş güneyli kadın, kız kardeşi Stella'nın kaba kocası Stanley Kowalski'nin evine sığınır — illüzyon gerçeke karşı.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.01/5** · nMDB **79.6**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **9** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · A Streetcar Named Desire (1951) · Derin Analiz
 # Ayrıntılı konu
-Blanche DuBois, Güneyli 'zarif' kadın; New Orleans'ta kız kardeşi Stella'nın kaba kocası Stanley Kowalski'nin (Marlon Brando) evine gelir. Blanche 'geçmişin' kadınıdır — kocası ölmüş, ailesi gitmiş, 'Belle Reve' kaybolmuş; gerçekte 'kirli' bir hayatı vardır ama 'nazik' maskesi takar. Stanley onu 'açığa çıkarır' — tecavüz eder ve Blanche delirir. Son sahne: 'her zaman yabancıların nezaketine güveniyorum' ve Blanche götürülür.
+
+New Orleans'ta Blanche DuBois (Vivien Leigh), 'Belle Reve' kaybıyla çöküşte, kız kardeşi Stella'nın (Kim Hunter) evine gelir. Stanley Kowalski (Marlon Brando) — Polonyalı işçi — şüphe uyandırır: Blanche ne saklıyor? Delilik ve yalan ortaya çıkar — kocası intihar etmiş, otellerde kalmış. 'Doğum günü' sahnesi — mum ve küfür — kırılgan güzellik şiddetle karşılaşır. Akşam sonunda Blanche doktorla gider — umut yoktur.
+
+# Üretim ve arka plan
+
+Elia Kazan'ın Tennessee Williams'ın Pulitzer ödüllü oyununu (1947) uyarlaması; Brando'nun ikinci filmi — Stanley rolüyle ikon olur. Vivien Leigh Oscar aldı (Scarlett'tan sonra ikinci kez bipolar karakter). Sınır değişimi — kutu ev — claustrophobia yaratır. Alex North'un jazz 'skoru — duygusal yoğunluk.
 
 # Tez
-Naziklik, acımasızlığın karşısında çöker — Kazan'ın tezi: Blanche'in 'hayal dünyası' Stanley'in 'gerçek' dünyasına yenilir çünkü toplum 'nazikliği' 'zayıflık' olarak görür; Blanche'in 'deliliği' onun 'kaçış'ıdır — gerçekliğe dayanamama.
 
-## Mekanizma
-Brando'nun 'Stella!' çığlığı — fiziksel arzunun sesi — sinema tarihinin ikonik anı; sıcak, terli New Orleans havası 'tenselliği' verir. Vivien Leigh'in Blanche'i — kağıt elbiseler, küpeler, 'ışık' — 'kırılgan' görünür ama 'savaşçı'dır; son sahnede 'temiz' elbisesiyle 'karanlığa' götürülür.
+Güzellik, gerçek altında ezilir — Kazan/Williams'ın tezi: Blanche illüzyon içinde yaşar ama dünya gerçektir; naziklik şiddeti durduramaz. Streetcar — arzu götürür ama nerede durur bilinmez.
+
+## Karşılama ve miras
+
+Kazan'ın Tennessee Williams'ın Pulitzer oyununu sinemaya taşıması; Brando'nun ikinci filmi — Stanley Kowalski ikonu. Vivien Leigh'in ikinci Oscar'ı (Scarlett'tan sonra bipolar karakter); 'Stella!' haykırışı Amerikan pop kültürüne girdi. 'Kutu ev' klaustrofobisi ve Alex North'un caz skoru — 'güney gotiği'nin sinemadaki tanımı.
+
+## Mekanizma ve biçem
+
+Floresan ışık — güney sıcaklığı; gölge — Blancheın karanlık yüzü. Yakın çekim — yüz çatlakları görünür.
 
 ## Kişisel uygunluk
-Arzu, sınıf ve 'nazik' çöküş profiline çok güçlü uyuyor.
+
+Güneyli gothic ve psikoloji — dramatik profil için tam uyum.
 
 -# THE FILM ARCHIVE · A Streetcar Named Desire (1951) · Notlar
 ### Tartışmalar & Notlar

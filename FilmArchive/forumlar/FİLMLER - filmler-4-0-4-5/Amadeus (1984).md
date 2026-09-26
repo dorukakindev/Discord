@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/gQRfiyfGvr1az0quaYyMram3Aqt.jpg
 > **Yönetmen:** Miloš Forman · **Tür:** Biography, Dram, Müzik · **Süre:** 160 dk · **Dil:** İngilizce · **Yıl:** 1984
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve psikolojik mekanizma 8/10.
 
-Saray bestecisi Salieri, Mozart'ın müziğinde Tanrı'nın sesini duyar ama Tanrı'nın onu değil 'kaba çocuk'u seçtiğini görünce kıskançlıkla onu ölüme sürükler ve Requiem'i dikte ettirir.
+Forman'ın Mozart biyografisi: Salieri'nin kıskançlık hikâyesi — dahiye Tanrının sesini duymak ve insanı küçük hissetmek; Requiem ölümle yazılır.
 
 ### Puanlar
 IMDb **8.4/10** · Letterboxd **4.37/5** · nMDB **85.7**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Amadeus (1984) · Derin Analiz
 # Ayrıntılı konu
-Antonio Salieri, Viyana'da saray bestecisidir — Tanrı'ya adanmış, 'sıradan' ama başarılı. Mozart gelir: kaba, çocuksu, dâhi. Salieri onun müziğinde Tanrı'nın sesini duyar ama Tanrı'nın 'neden ona vermediğini' sorar; hikâye onun bakışından anlatılır — yaşlı Salieri, akıl hastanesinde 'günahını' itiraf eder: Mozart'ı öldürdüğünü söyler. Requiem sahnesi — Salieri, ölüm döşeğindeki Mozart'a 'dictado' alır — müzik yazımının 'bedensel' kaydıdır; Mozart'ın cesedi toplu mezara atılırken 'pop müziği' bile çalmaz.
+
+1823, Viyana: yaşlı Antonio Salieri (F. Murray Abraham) Mozartı öldürdüm' diyerek itirafta bulunur ve anlatıcı olur. 1780'ler: Salieri, saray bestecisi, dahi Wolfgang Amadeus Mozart'la (Tom Hulce) tanışır — çocuk gibi gürültülü, kaba ama müziği ilahîdir. Salieri kıskançlıkla Tanrıya kızar — 'neden bana vermedin?' — ve sabotaj eder: Figaronun 'başarısını 'engeller, Requiem için ölümü 'kullanır. Finalde maskeli emir — anonim sipariş — Mozart'ın sonudur; Requiem yazılamaz kalır. Mediokre Salieri dünyaya affeder ama kendi cehennemindedir.
+
+# Üretim ve arka plan
+
+Miloš Forman'ın Peter Shaffer'ın oyunundan (1979) uyarlaması; 1985'te 8 Oscar (En İyi Film, Yönetmen, Erkek Oyuncu Abraham). Mozart'ın gerçek hayatından serbest — Salieri'nin zehirleme iddiası söylentiye dayanır (Puşkin'in 'Mozart and Salieri' oyunu). Zaide ve 'Koyun Koyuna' gibi gerçek eserler kullanılır; Requiem sahnesi yazma sürecinin fiziksel hikâyesidir. Prag'da çekildi — Viyana sokakları dönem ruhu verir.
 
 # Tez
-Deha, adil değildir — Forman'ın tezi: Salieri'nin trajedisi kötü olmak değil, 'niteliksiz' olmaktır; Tanrı'nın seçimi 'keyfi'dir ve bu keyfilik onu iman krizine sokar. Mozart'ın gerçek 'suçu' yetenek değil, 'kolaylık'tır — Salieri'nin çalışması hiçbir zaman onunki gibi 'doğal' olamaz.
 
-## Mekanizma
-Müzik filmin 'dili'dir — operalar sahne sahne 'yaşanır'; Requiem'de Salieri'nin elleriyle Mozart'ın sesi birleşir — işbirliği ve cinayet aynı karede. Tom Hulce'un kahkahası filmi 'modernleştirir' — dâhi 'çocuk'tur; F. Murray Abraham'ın Salieri'si ise 'izleyici' pozisyonundadır: bizim yerimizde durur, kıskançlıkla bakar.
+Deha, insanın acısıdır — Forman'ın tezi: Salieri dahiyi tanır ama kendisi yeteneksizdir; kıskançlık Tanrıya yönelir — adalet yoktur, ses seçilmişe gelir. Requiem Ölümün müziğidir.
+
+## Karşılama ve miras
+
+Forman'ın Shaffer oyunu; 1985'te 8 Oscar (Film, Yönetmen, Abraham, Senaryo, Kostüm, Sanat Yönetimi, Ses, Makyaj). Prag'da çekildi — Viyana'nın 'dönem ruhu'. Tom Hulce'un 'gülüşü + beste ciddiyeti' ikilisi Mozart mitini popülerleştirdi; 'Requiem dikte' sahnesi 'sanat üretim süreci' olarak ders kitabı. Salieri'nin kıskançlığı Puşkin'in 'Mozart and Saleri'sinden miras.
+
+## Mekanizma ve biçem
+
+Salieri'nin yaşlı sesi genç sahneleri anlatır — hafıza yanıltıcıdır; müzik oyunculukla birleşir (Hulce'nin gülüşü vs beste ciddiyeti). Maskeli figür öç meleğidir.
 
 ## Kişisel uygunluk
-Deha-kıskançlık ve Tanrı sorgusu profiline çok güçlü uyuyor.
+
+Deha ve kıskançlık — sanat tarihi profiline güçlü uyum.
 
 -# THE FILM ARCHIVE · Amadeus (1984) · Notlar
 ### Tartışmalar & Notlar

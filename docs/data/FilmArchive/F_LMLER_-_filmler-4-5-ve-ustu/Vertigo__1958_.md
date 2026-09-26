@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg
 > **Yönetmen:** Alfred Hitchcock · **Tür:** Gizem, Romantik, Gerilim · **Süre:** 128 dk · **Dil:** İngilizce · **Yıl:** 1958
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve olay örgüsü 9/10.
 
-Yükseklik korkusu olan eski dedektif Scottie, eski arkadaşının karısı Madeleine'i izlemeye başlar; kadının 'ölüme' olan takıntısı ve sonunda ortaya çıkan 'ikinci kimlik' onu obsesif bir yeniden yaratma oyununa iter.
+Yükseklik korkusu yüzünden polisliği bırakan Scottie Ferguson, arkadaşının karısı Madeleine'i izlemeye başlar; kadın ölünce ona tıpatıp benzeyen Judy'yi 'yeniden Madeleine yapmak' için saplantıya kapılır.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.21/5** · nMDB **83.1**
@@ -20,19 +20,27 @@ Düşünsel **8** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **9** �
 -# THE FILM ARCHIVE · Vertigo (1958) · Derin Analiz
 # Ayrıntılı konu
 
-Vertigo (1958), Alfred Hitchcock'un polis dedektifi Scottie Ferguson'ın bir kadını takip ederken ona âşık olmasını ve sonra 'kayıp' kadını ikame etmeye çalışmasını anlattığı filmidir. Scottie, yükseklik korkusu yüzünden partnerinin ölümüne tanık olur; emekli olur ve eski arkadaşının karısı Madeleine'i takip etmeye başlar. Madeleine'in 'ruhunun' geçmiş bir kadına ait olduğu söylenir; Scottie, onu izlerken kendi geçmişiyle yüzleşir. Madeleine'in ölümünden sonra Scottie, Judy adlı bir kadını ona benzetmeye çalışır — Judy, Madeleine'in gerçek kimliğini taşır. Finalde çan kulesinde, Scottie'nin obsesyonu ile Judy'nin gerçeği çarpışır; ikisi de düşer.
+Scottie (James Stewart) çatı kovalamacasında bir polisin düşüşüne tanık olur ve akrofobi geliştirir. Eski arkadaşı Elster, karısı Madeleine'in (Kim Novak) 'ölü atası Carlotta'nın ruhuyla ele geçirildiğini' iddia eder; Scottie izler, aşık olur. Madeleine kilise kulesinden düşer. Yaslı Scottie sonradan Judy'yle tanışır — aynı yüz, farklı kadın. Onu giydirir, saçını boyatır, Madeleine'e dönüştürür; sonunda Judy'nin aslında Madeleine'yi oynayan kadın olduğu ortaya çıkar — Elster'in cinayet planının parçasıydı. Kulenin tepesinde Judy'nin düşüşü Scottie'yi tekrar vertigoya gömer.
+
+# Üretim ve arka plan
+
+Hitchcock'un Boileau-Narcejac romanı Dentre les morts' uyarlaması; Paramount yapımı. İlk gösterimde ticari başarısız — zamanla Sight & Sound anketlerinde 2012'de 'gelmiş geçmiş en iyi film' seçilip Citizen Kane'i tahttan indirdi. Bernard Herrmann'ın 'Tristan und Isolde' yankılı skoru sinema tarihinin en ünlülerinden. Kim Novak ikinci seçimdi (Vera Miles hamilelik nedeniyle çekilememişti); James Stewart bu filmden sonra Hitchcock'la bir daha çalışmadı. Dolly-zoom (vertigo etkisi) ilk kez burada kullanıldı.
 
 # Tez
 
-Vertigo (1958), erkek bakışının kadını nasıl 'ideal' bir ölüme dönüştürdüğünü, obsesyonun aşktan nasıl ayrıldığını ve kimliğin başkasının projeksiyonuyla nasıl çürüdüğünü sorgulayan bir psikolojik yapıt; sinema-tarihin en soğuk aşk hikâyesidir.
+Aşk, ölü bir imgenin yaşayan kadına giydirilmesidir — Hitchcock'un tezi: Scottie Madeleinee değil, kendi fantezisine aşıktır; erkek bakışı kadını yaratır ve bu yaratım ölümcüldür. Carlotta'nın 'ele geçirmesi' aslında erkek arzusunun kendi kendini ele geçirmesidir.
 
-## Hikâye motoru ve psikoloji
+## Karşılama ve miras
 
-Anlatının motoru Scottie'nin 'benzerlik' arayışıdır: Judy'yi Madeleine'e benzetmeye çalışırken, aslında Madeleine'i yeniden yaratmaya çalışır. Hitchcock, kostüm, saç rengi ve ışıkla ikame mekanizmasını görselleştirir; Scottie'nin vertigo'su, yükseklikten çok 'benzerlik'ten korkusudur. Judy'nin son bakışı — kabul edilmiş gibi görünen — aslında kendi ölümüne işaret eder; çan kulesi, film boyunca Scottie'nin 'düşüşünü' simgelemiştir.
+1958'de iki Oscar adaylığı (sanat yönetimi, ses) aldı ama gişe hayal kırıklığıydı; 1980'lerden sonra yeniden değerlendirilip 2012 Sight & Sound anketinde 'tüm zamanların en iyi filmi' seçildi (Kane'i devirerek). Hitchcock'un 'vertigo' efekti — dolly zoom — sinema diline girdi. Bernard Herrmann'ın skoru Wagner'in Tristan'ına göndermeler taşır; San Fransisco'daki lokasyonlar (Mission San Juan Bautista, Fort Point) hâlâ hac yeridir.
+
+## Mekanizma ve biçem
+
+Dolly-zoom + spiral saç modu + yeşil ışık (Madeleine'in rengi) — biçim doğrudan obsesyonun görsel dilidir. San Francisco'yu sisli hayal sahnesine çeviren Novak'ın boş güzelliği; kule sahnelerindeki geriye montaj, izleyiciyi Scottie'nin çözülüşüne ortak eder. Film whodunit değil 'neden tekrar?' sorusudur.
 
 ## Kişisel uygunluk
 
-Psikolojik mekanizma (obsesyon, ikame, projeksiyon) ve fikir-karakter bütünleşmesi tam puana yakın; Scottie ve Judy arketipik değil patolojiktir. Nedensellik kusursuz (obsesyon→ikame→çöküş); sembolik katman (spiral, çan kulesi, yeşil) yoğun.
+Obsesyon, kimlik ve görsel biçem — psikolojik mekanizma + sembolik katman profiline tam uyum.
 
 -# THE FILM ARCHIVE · Vertigo (1958) · Notlar
 ### Tartışmalar & Notlar

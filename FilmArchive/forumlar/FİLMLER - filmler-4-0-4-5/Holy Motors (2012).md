@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg
 > **Yönetmen:** Leos Carax · **Tür:** Dram, Fantastik · **Süre:** 116 dk · **Dil:** Fransızca, İngilizce, Standart Çince · **Yıl:** 2012
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Soğuk ve yalnız bir suikastçı gibi hayattan hayata geçen bir varlığın, vuruştan vuruşa geçen yaşamının 24 saatini takip ediyoruz. Bu iç içe geçmiş yaşamların her birinde, varlık tamamen farklı bir kimliğe sahiptir: Bazen bir erkek, bazen bir kadın, bazen genç, bazen yaşlı. Sırayla katil, dilenci, şirket başkanı, canavarca yaratık, işçi, aile babası.
+Carax'ın aktris 'rüyası: Monsieur Oscar, limuzin ile rol üstlenir — kukla, manken, suikastçı, peri — sinema kendini oynar.
 
 ### Puanlar
 IMDb **7.0/10** · Letterboxd **3.88/5** · nMDB **73.8**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · Holy Motors (2012) · Derin Analiz
 # Ayrıntılı konu
-Leos Carax'ın 'oyuncu' filmi: Monsieur Oscar, 'görevli' — limuzinle Paris'te 'randevulara' gider; her randevuda 'başka' biri olur — 'dilenci', 'katil', 'baba', 'ölen'. 'Ajan'lar 'izler' — 'hayat' 'film'dir ama 'kim' 'oyuncu'? 'Kermit' 'şarkısı', 'motorlu' 'deniz' 'motosikleti', 'merdiven' 'operası' — 'rüya' 'mantığı' 'hükmeder'. Sonunda Oscar 'eve' döner — 'limuzin' 'konuşur' — 'gelecek' 'bilinmez'dir.
+
+Monsieur Oscar (Denis Lavant), limuzin sahibi şoför ile seyahat eder — randevu yerlerine gider. Her durak bir rol: kukla oyuncusu, güzel kadın, suikastçı, şarkıcı, ölen adam. Yeşil kontakt lens — göz değişimi — kimlik oyunudur. Tokyo sokakları — Kylie Minogue ile aşk — geçmiş ve şimdi birleşir. Limuzin — mekân ve oyuncu kulisidir.
+
+# Üretim ve arka plan
+
+Leos Carax'ın dokuz yıl sonra dönüşü; mülteci hayatı ve maddi zorluk sonrası. Digital sinema — doğal ışık yok — yapay ve düş gibi. Aktör — Oscar rol oynar — sinema sanatının kendini sorgulamasıdır. Mercedes limuzin — Fransız sanayi — eski şan ve yeni dünya.
 
 # Tez
-Kimlik, 'rol'ün 'toplamı'dır — Carax'ın tezi: 'oyunculuk' 'insan'ın 'doğası'dır — 'hepimiz' 'başkasıyız'; 'teknoloji' 'kamera' 'küçülür' ama 'göz' 'büyür'. 'Güzellik' 'anlık'tır — 'sahne' 'kapandıktan' 'sonra' 'yok'tur.
 
-## Mekanizma
-'Limuzin' — 'ara' 'mekân' — 'dönüşüm' 'odası'dır; 'makyaj' 'sahnesi' — 'yüz' 'yazılır' — 'benlik' 'dışsal'dır. 'Entr'acte' — 'müzik' 'arası' — 'film' 'durur' ama 'devam' 'eder'; 'Edith Scob' — 'Eyes Without a Face' 'referansı' — 'sinema' 'tarihi' 'içinde' 'yaşar'.
+Sinema, hayatın ardındaki oyundur — Carax'ın tezi: gerçek rol yoktur — her şey sahnedir; oyuncu kaybolur ama karakter kalır. Limuzin — yolculuk — zaman ve mekân birleşir.
+
+## Karşılama ve miras
+
+Carax'ın 9 yıl sonra dönüşü; 2012 Cannes yarışması. Denis Lavant'ın 'Oscar' — 'limuzin = kulis' — '10 farklı rol'. 'Kylie Minogue' cameo ve 'Tokyo sokakları' — 'mülteci hayatı'. 'Dijital kamera' — 'doğal ışık yok' — 'rüya ve gerçeklik'. 'Sinema = hayatın ardındaki oyun' — Carax'ın manifestosu.
+
+## Mekanizma ve biçem
+
+Değişim — makyaj ve kostüm — kimlik maskesi; gece — neon ışık — şehir rüya gibidir. Kapılar — giriş ve çıkış — sahne arkasıdır.
 
 ## Kişisel uygunluk
-Kimlik oyunu ve 'sinema' 'metafiziği' profiline çok güçlü uyuyor.
+
+Sinema ve kimlik — sürrealist+estetik profil için tam uyum.
 
 -# THE FILM ARCHIVE · Holy Motors (2012) · Notlar
 ### Tartışmalar & Notlar

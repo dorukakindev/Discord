@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg
 > **Yönetmen:** Martin Scorsese · **Tür:** Dram, Tarih · **Süre:** 161 dk · **Dil:** İngilizce, Japonca, Latince · **Yıl:** 2016
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve felsefi yapı 8/10.
 
-İki Portekizli rahip, 17. yüzyıl Japonya'sında kayıp hocalarını arar; Hristiyanlık yasağı ve 'fumie' testi karşısında Tanrı'nın sessizliği, inkârın bile merhamet olabileceğini gösterir.
+Scorsese'nin Endo uyarlaması: Portekizli cizvit Ferreira ve Rodrigues 17. yüzyıl Japonya'sında 'Kakure Kirishitan'ları arar — sessizlik Tanrının sesi midir?
 
 ### Puanlar
 IMDb **7.2/10** · Letterboxd **4.02/5** · nMDB **76.2**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Silence (2016) · Derin Analiz
 # Ayrıntılı konu
-Scorsese'nin 'Shusaku Endo' uyarlaması: 17. yüzyıl Japonya'sında iki Portekizli rahip — Rodrigues ve Garupe — kayıp hoca Ferreira'yı arar. Hristiyanlık yasaktır; 'fumie' (İsa resmine basma) testi yapılır. Rodrigues'in 'Tanrı'sı sessizdir — işkence, ölüm, deniz altında boğulma — hiçbir cevap gelmez. Sonunda Rodrigues 'fumie'ye basar — Ferreira da öyle yapmıştır — ve 'hayatta kalır' ama 'ruhunu' kaybeder. Yıllar sonra gizli Hristiyan olarak yaşar; ölürken elindeki küçük haçla gömülür.
+
+1639, Japonya: Peder Rodrigues (Andrew Garfield) ve Garupe (Adam Driver), kayıp ustaları Ferreira'yı (Liam Neeson) aramaya gider — apostasi iddiası vardır. 'Kakure Kirishitan' — gizli Hristiyanlar — kömür madeninde ayin yapar. Fumi-e — İsa resmine basma — testidir: basmak apostasi, basmamak ölüm. Rodrigues tutuklanır, iğne işkencesi — kafes altında 'baş aşağı' — ses duyar mı? Tanrı sessizdir; Rodrigues fumi-eye basar — İsanın yüzü ayırdı.
+
+# Üretim ve arka plan
+
+Martin Scorsese'nin Shūsaku Endō'nun 1966 romanını 28 yıllık tutku projesi; 'The Last Temptation of Christ' sonrası en kişisel din 'filmi. Japonca çekim — Taiwanda — İslam ülkesinde Hristiyan hikâyesi garip bir yankı 'bulur. Rodrigo Prieto'nun pus ve su 'ışığı — Japonya kutsal ama acımasızdır. Ferreiranın Japonca öğrenmesi — kültür değişimi — inanç yerel mi evrensel mi sorusudur.
 
 # Tez
-Tanrı'nın sessizliği, inancın en zorlu testidir — Scorsese'nin tezi: 'apostasie' (inkâr) aslında 'imansızlık' değil 'merhamet'tir; Rodrigues'in 'ihaneti' başkalarının hayatını kurtarır — 'doğru' eylem 'doğru' görünmeyebilir. Sessizlik, cevapsızlık değil 'başka bir cevap'tır.
 
-## Mekanizma
-Doğa — sis, deniz, orman — 'Tanrı'nın sesi' olarak çekilir ama 'cevap' vermez; Rodrigues'in 'görüntüleri' (İsa'yı görme anları) 'hayal' ile 'vaha' arasındadır. Japonca ve İngilizce karışımı — 'çeviri' sorunu — iletişimin 'kırılganlığını' verir. Finaldeki haç — 'gizli' inanç — 'sessizliğin' içindeki 'ses'tir.
+Sessizlik, Tanrının sesidir — Scorsese'nin tezi: işkence karşısında sessizlik kabul değil varoluştur; fumi-eye basmak zafer değil insanlıktır. Rodrigues Japonyada kalır — gizli Hristiyan olarak yaşar.
+
+## Karşılama ve miras
+
+Scorsese'nin 28 yıllık tutku projesi; Endō'nun 1966 romanını 1990'da okuduktan sonra. Andrew Garfield ve Adam Driver 'Jesuit' dönüşümü — Tayvan'da çekim, masumlar üzerinde katolik töreni. 'Fumi-e' sahnesi — İsa'nın yüzüne basma — 'apostasi vs merhamet' tartışması yarattı; teologlar 'Tanrı'nın sessizliği' metaforunu ayırdı. James Martin SJ'nin 'dinî film' değerlendirmesi.
+
+## Mekanizma ve biçem
+
+Doğa — dalga ve buhar — insan sözüne karşı koyar; haç taşıma — ağır yolculuk — inanç fizikseldir. Ses — çekirge ve rüzgâr — Tanrının cevapı mıdır?
 
 ## Kişisel uygunluk
-İnanç, işkence ve sessizlik profiline çok güçlü uyuyor.
+
+İnanç ve işkence — dini+tarihsel profil için tam uyum.
 
 -# THE FILM ARCHIVE · Silence (2016) · Notlar
 ### Tartışmalar & Notlar

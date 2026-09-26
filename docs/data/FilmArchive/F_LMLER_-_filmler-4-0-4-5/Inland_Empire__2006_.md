@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/s5f0FbVAABEnJYKaApWORTxhiFC.jpg
 > **Yönetmen:** David Lynch · **Tür:** Dram, Fantastik, Gizem · **Süre:** 180 dk · **Dil:** İngilizce, Lehçe · **Yıl:** 2006
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve psikolojik mekanizma 9/10.
 
-Aktris Nikki Grace, 'lanetli' bir filmde rol alınca karakteriyle kendi arasındaki sınırı kaybeder; tavşan sitcom'ları, Polonya'da sıkışan 'Lost Girl' ve kayan zamanla Lynch'in en derin rüya labirenti kurulur.
+Lynch'in son uzun filmi: Nikki Grace (Laura Dern), film setinde rol alır — rol hayatla karışır, gerçeklik katmanları çöker; polonya ve Hollywood arasında kaybolur.
 
 ### Puanlar
 IMDb **6.8/10** · Letterboxd **3.90/5** · nMDB **73.0**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **9** · Diyalog **5** · Olay örgüsü **3** �
 
 -# THE FILM ARCHIVE · Inland Empire (2006) · Derin Analiz
 # Ayrıntılı konu
-David Lynch'in 'dijital' kâbusu: Nikki Grace (Laura Dern), aktris; 'On High in Blue Tomorrows' adlı filmde rol alır — film 'lanetlidir' çünkü ilk versiyonu hiç bitmemiş. Nikki 'karakter'ine (Sue) dönüşür — zaman bükülür, mekânlar kayar, tavşanlar konuşur. 'Lost Girl' alt hikâyesi: Polonya'da bir kadın 'kısır döngü'de sıkışır; 'dünyanın en tehlikeli şeyi' bir 'el feneri'dir. Film 'mantık' değil 'duygu' ile ilerler — rüya, kâbus, uyanış.
+
+Nikki Grace, eski star, yeni film alır — 'On High in Blue Tomorrows' — re-make 'dır, önceki çekim yarım 'kalmıştır. Polonya bağlantısı — kabus ve kırmızı ışık — 'Lost Girl' 'hikâyesi içerir. Nikki rolün içine girer — ev değişir, kocası çift kişilik taşır, Hollywood sokakları labirent olur. Rabbit aile — antropomorfik tavşanlar — sitcom izler ama korku yaratır. 'Axxon N.' — uzun yol — çıkış yoktur.
+
+# Üretim ve arka plan
+
+David Lynch'in üç saat süren deneysel filmi; dv kamerası — dijital piksel — bulanık ve karanlık görüntü. Laura Dern en zoru oynar — üç farklı kadın belirir. Polonya — Lódz çekimleri — karanlık geçmiş ve göçmen hikâyesi. 'Inland Empire' — 'San Bernardino' bölgesi — Kaliforniyanın boş arazisidir.
 
 # Tez
-Gerçeklik, sinemanın 'karanlık' kopyasıdır — Lynch'in tezi: film 'yapmak' hayatı 'yutar'; Nikki 'rol' ile 'ben' arasında kaybolur çünkü 'hikâye' kendi kendini yazar. 'Blue Tomorrows' — 'yarın' — asla gelmez; her 'şimdi' başka bir 'şimdi'ye dönüşür.
 
-## Mekanizma
-Dijital video — düşük çözünürlük, 'kirli' görüntü — 'rüya' kalitesi verir; 'Rabbits' sitcom'u — tavşan kostümlü aile, canned laughter — 'normal' hayatın 'paranoyak' halidir. 'Sinner' sahnesi — sokak dansı — 'özgürlük' anıdır ama 'geçici'dir. 'AXXON N.' — 'komşu' — filmin 'anahtarı' olarak sunulur ama 'cevap' vermez.
+Gerçeklik, film içinde eriyen bir rüyadır — Lynch'in tezi: oyuncu rolü oynar ama rol oyuncuyu oynar; kabus sahne arkasında gizlidir. Tavşanlar — insan değil hayvan — izleyici kendini kaybeder.
+
+## Karşılama ve miras
+
+Lynch'in üç saatlik deneysel epiki — DV kamerası, bulanık görüntü, 'Polonya' bağlantısı. Laura Dern'in üç ayrı kadın performansı; 'Rabbit Family' sitcom-horroru ve 'Axxon N.' koridoru. 'Lost Girl' hikâyesi ve 'Hollywood = kabus' teması; Lynch'in 'en biçimsel olarak radikal' uzun metrajı — 'film setinin içinde film'.
+
+## Mekanizma ve biçem
+
+Pixellated görüntü — düşük çözünürlük — gerçeklik bozulur; kırmızı ışık — tehlike ve başka boyut. Ses — bas ve kaynak belirsiz — korku işitilir.
 
 ## Kişisel uygunluk
-Rüya mantığı ve kimlik çözülmesi profiline çok güçlü uyuyor — Lynch'in en 'zor' filmi.
+
+Lynch ve rüya — ezoterik+psikolojik profil için tam uyum.
 
 -# THE FILM ARCHIVE · Inland Empire (2006) · Notlar
 ### Tartışmalar & Notlar

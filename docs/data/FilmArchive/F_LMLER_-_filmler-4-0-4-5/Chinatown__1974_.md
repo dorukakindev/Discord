@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg
 > **Yönetmen:** Roman Polanski · **Tür:** Dram, Gizem, Gerilim · **Süre:** 130 dk · **Dil:** İngilizce · **Yıl:** 1974
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.
+Polanski'nin neo-noir 'başyapıtı: Jake Gittes, su skandalını çözer — 'Los Angeles' tarihi yolsuzluk üzerine kurulur; kız ve baba gizemi trajediye döner.
 
 ### Puanlar
 IMDb **8.1/10** · Letterboxd **4.30/5** · nMDB **83.5**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **6** · Diyalog **8** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · Chinatown (1974) · Derin Analiz
 # Ayrıntılı konu
-Polanski'nin 'noir'ı: Jake Gittes, özel dedektif; 'Evelyn Mulwray'yi izler ama 'gerçek' Evelyn (Faye Dunaway) 'başka'dır — kocası 'su' mühendisidir, 'gizli' bir 'su' skandalı vardır. Jake 'izleri' takip eder — 'sulama', 'yaşlı bakım', 'sahte' emlak — ve 'Noah Cross'u (John Huston) bulur: 'kötü'nün 'baba'sıdır. Final — 'Chinatown' — 'karanlık' 'adalet' sağlanamaz: 'Forget it, Jake. It's Chinatown.'
+
+1930'lar Los Angeles: özel dedektif J.J. Jake Gittes (Jack Nicholson), zina işi alır ama 'Hollis Mulwray' — su idaresi 'müdürü — ölür. Mulwray yanıp kalmış arazi satın almış — baraj için değil spekülasyon için. Evelyn Mulwray (Faye Dunaway) — güzel ve karanlık — baba Noah Cross (John Huston) şeytan gibidir. Forget it, Jake, its' Chinatown — anlamak 'imkânsızdır.
+
+# Üretim ve arka plan
+
+Roman Polanski'nin Robert Towne'un senaryosunu (Oscar) yönettiği film; 'Los Angeles' su tarihi — William Mulholland ve Owens Valley — yolsuzluk üzerine 'kurulur. Baba ve kız — Cross ailesi — Oedipus kabusudur. Gözlük — iki cam — görme ve korumadır. Bahar temizliği — gölet dibi — ceset ve sırlar.
 
 # Tez
-Kötü, 'kazanan'dır — Polanski'nin tezi: Noah Cross 'kazanır' çünkü 'güç' 'adalet'i 'satın alır'; Jake'in 'doğruluğu' 'suçu' 'açıklar' ama 'cezası' 'kurban'a düşer. 'Chinatown' — 'yabancı' ve 'karanlık' — 'adalet'in 'işlemediği' yerdir.
 
-## Mekanizma
-Jake'in 'bakışı' — 'kamera' onun 'gözü'dür — 'sınırlı' bilgi verir; 'su' — 'okyanus', 'göl', 'kuraklık' — 'yaşam' ile 'ölüm' arasındaki 'savaş'tır. 'Burn' sahnesi — Jake'in 'burnu' kesilir — 'beden'in 'kırılganlığı'nı verir; 'final' — 'ışık' ile 'karanlık' — 'güneş' 'kötü'yü 'aydınlatır' ama 'kaybeden' 'gölge'dir.
+Kötü, sistem içinde kazanır — Polanski'nin tezi: adalet zenginlik için çalışır; Jake bilir ama durduramaz. Chinatown — anlaşılmaz yer — her yerdir.
+
+## Karşılama ve miras
+
+Polanski'nin Towne senaryosu; 1974'te En İyi Senaryo Oscarı (tek ödül). 'Forget it, Jake, it's Chinatown' — 'anlaşılmaz yer' — Los Angeles su tarihi (Mulholland, Owens Valley) yolsuzluk üzerine. 'Kız ve baba' — Oedipus kabusu — 'gözlük' (iki cam) metaforu. 'Nihilist noir' — kötü kazanır — '70'ler paranoyasının şablonu.
+
+## Mekanizma ve biçem
+
+Altın ışık — 1930lar nostaljisi ama karanlık altdır; burun kesiği — fiziksel kırılma. Araba takibi — sokak labirenti.
 
 ## Kişisel uygunluk
-Kötücül güç ve 'kaybedilen' adalet profiline çok güçlü uyuyor — noir'ın 'en karanlık' hâli.
+
+Noir ve yolsuzluk — politik+psikolojik profil için tam uyum.
 
 -# THE FILM ARCHIVE · Chinatown (1974) · Notlar
 ### Tartışmalar & Notlar

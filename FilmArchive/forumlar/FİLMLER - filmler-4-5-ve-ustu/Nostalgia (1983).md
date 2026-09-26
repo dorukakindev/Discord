@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg
 > **Yönetmen:** Andrei Tarkovsky · **Tür:** Dram · **Süre:** 124 dk · **Dil:** İtalyanca, Rusça · **Yıl:** 1983
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Rus şair Andrei Gorchakov, tercümanı Eugenia ile birlikte bir zamanlar yurtdışında yaşayan 18. yüzyıl Rus bestecisinin hayatını araştırmak için İtalya'ya gidiyor. Anavatanına karşı amansız bir özlemle yalnızlaşan ve tüketilen Andrei, ruhsal kurtuluşa takıntılı radikal bir mistik olan Domenico'ya kapılır. Tarkovsky sade imgeler ve geniş zamansal ritimler aracılığıyla sürgünü, hafızayı ve ne yere ne de dile tam olarak ait olamamanın derin melankolisini inceliyor.
+Tarkovsky'nin İtalya'da çektiği sürgün filmi: Andrei Gorchakov, Domenico'nun apokalips arayışıyla tanışır — nostalji vatan değil ruhun hastalığıdır.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.26/5** · nMDB **82.1**
@@ -19,16 +19,28 @@ Düşünsel **9** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Nostalgia (1983) · Derin Analiz
 # Ayrıntılı konu
-Andrei Gorchakov, Rus yazar; İtalya'da 18. yüzyıl müzisyeni Sosnovsky'nin izini sürer — Sosnovsky Rusya'ya döndüğünde kendini asmıştır. Gorchakov'un yanında tercüman Eugenia vardır; ülkeye dönmeye karar veremediği için yarım yaşar. Domenico adında deli bir adam — 'dünyayı kurtarmak için' 7 yıl ailesini kilitlemiş — ona 'mumla havuzu geç' görevi verir. Film, Gorchakov'un Domenico'nun yerine mumu taşımasıyla kapanır — mum yanar, adam çöker; ailesi onunla değildir.
+
+Rus yazar Andrei Gorchakov (Oleg Yankovsky), İtalya'da 18. yüzyıl Rus köle-müzisyen Sosnovsky'nin izini sürer — Sosnovsky vatanı özlemiş ve intihar etmiştir. Andrei evsiz kalır; otelde Eugenia (Domiziana Giordano) ile iletişimsiz ilişki — o aşk ister, Andrei geçmiş ister. Domenico (Erland Josephson), deli matematikçi, kıyamet hazırlığı yapar — mumu Bagno Vignoni'nin suyu üzerinden taşımayı. Andrei onun görevini devralır: kuru havuzun dibinde yürür, kalbi durur. Son kare — Andrei'nin eve dönüşü, İtalyan kırsalında Rus evi hayali — nostaljinin yeri iç dünyadır.
+
+# Üretim ve arka plan
+
+Tarkovsky'nin Sovyet dışında çektiği ilk film; İtalyan ortak yapımı (Rai). 1983 Cannes'da En İyi Yönetmen (Bresson'ın LArgentıyla paylaştı) ve FIPRESCI. Nostalghia — Tarkovsky'nin Rus kimliğinin sürgün halidir; kendi 'geri dönememe' endişesini taşır. Giuseppe Lanci'nin puslu ışığı — su ve sis Tarkovsky'nin imge dilidir. Domenico figürü akıl ile delilik arasındaki sınırda — kıyamet delilik değil inançtır.
 
 # Tez
-Yurt hasreti, bedenin hafızasıdır — Tarkovsky'nin tezi: sürgün 'mekân' değil 'varoluş' sorunudur; Gorchakov Rusya'ya dönemez çünkü dönüş, geçmişi 'bugüne' taşımaz. Domenico'nun çılgınlığı — mumu havuzdan geçirmek — 'aptalca inanç' olarak sunulur ama film sonunda onun 'tek gerçek eylem' olduğunu söyler.
 
-## Mekanizma
-Su — yağmur, havuz, sisle kaplı kalıntılar — filmi ıslatır; Tarkovsky'nin uzun planları (ünlü mum yürüyüşü 9 dakikadır) zamanı 'deneyim' kılar. Gorchakov'un Eugenia'ya açıklayamadığı yalnızlık — 'dil' köprü değil duvardır. Finaldeki iki ülke görüntüsü: İtalyan kalıntıları içinde Rus evi — 'nostalji' mekânın üst üste binmesidir.
+Nostalji, ruhun yabancılaşmasıdır — Tarkovsky'nin tezi: vatan coğrafya değil hafızadır; Andrei'nin 'geri dönememesi' kaybetme değil anlayıştır. Mum sahnesi görevin sembolik yerine getirilişidir — inanmak yapmaktır.
+
+## Karşılama ve miras
+
+Tarkovsky'nin Sovyet dışı ilk filmi (Rai ortak yapımı); 1983 Cannes En İyi Yönetmen (Bresson'un L'Argent'ıyla paylaştı) + FIPRESCI. Tarkovsky'nin kendi sürgün duygusu — Sovyet'e dönmeyecekti — Gorchakov'da kişiselleşir. Giuseppe Lanci'nin puslu Toskana ışığı; Domenico'nun havuz başındaki 'mum geçişi' Tarkovsky'nin en meşhur tek plan sekanslarından.
+
+## Mekanizma ve biçem
+
+'Kuru havuz' — boş vaat; mumun yolculuğu seyirciyi fiziksel olarak yorar (10 dakikalık plan). Rus evi — İtalyan kırsalında hayal — nostaljinin mekânsızlığıdır.
 
 ## Kişisel uygunluk
-Sürgün ve ruhani yalnızlık profiline çok güçlü uyuyor — Tarkovsky'nin en kişisel filmi.
+
+Sürgün ve ruh arayışı — Tarkovsky profiline tam uyum.
 
 -# THE FILM ARCHIVE · Nostalgia (1983) · Notlar
 ### Tartışmalar & Notlar

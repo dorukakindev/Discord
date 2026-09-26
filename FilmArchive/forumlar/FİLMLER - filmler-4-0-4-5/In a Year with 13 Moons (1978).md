@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/kauXmH1RQRNbFBiAKA1EpQZILP3.jpg
 > **Yönetmen:** Rainer Werner Fassbinder · **Tür:** Dram · **Süre:** 124 dk · **Dil:** Almanca · **Yıl:** 1978
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Bir zamanlar işçi sınıfının iri yapılı bir kasabı olan Elvira Weishaupt, aşkı için muazzam bir fedakarlık yaptı. Kendisini terk eden romantik bir ilgi uğruna cinsiyet değişikliğine uğramıştır ve şimdi geçmiş yaşamıyla şimdiki kimliğini uzlaştırmak için mücadele etmek zorundadır.
+Fassbinder'in transeksüel 'tragedyası: Elvira, ölen sevgilisinin arayışında Frankfurt sokaklarında gezer — aşk ve kimlik kaybolur.
 
 ### Puanlar
 IMDb **7.3/10** · Letterboxd **4.00/5** · nMDB **76.5**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · In a Year with 13 Moons (1978) · Derin Analiz
 # Ayrıntılı konu
-Fassbinder'ın 'travma' filmi: Elvira/ Erwin — 'trans' 'kadın' — 'aşk' için 'ameliyat' olur ama 'reddedilir'; 'geçmiş' 'hayalet'ler 'peşini' 'bırakmaz' — 'anne', 'sevgili', 'suç'. 'Frankfurt' 'gece' — 'neon', 'sokak', 'yalnızlık' — 'hayat' 'karanlık'tır; 'aşk' 'kaybedilir' çünkü 'kim' 'olduğunu' 'kimse' 'bilmez'.
+
+Elvira Weishaupt (Volker Spengler), önceden Erwin, sevgilisi Anton Seysın ölümünden sonra aşk arar. Kasap dükkanında çalışır — et ve beden metaforudur. Fahişe Red — geçmiş bağlantı — aşk ve hayatta kalma. Çocuk yuvası — kötü bakım — acı ve şiddet. Son — Antonun evi — aşk imkânsızdır; yalnızlık son çaredir.
+
+# Üretim ve arka plan
+
+Rainer Werner Fassbinder'in en kişisel filmi — sevgilisi Armin Meierin intiharı sonrası 'yazıldı. Volker Spengler — kadın rolü ama erkek oyuncu — kimlik oyunudur. Frankfurt — soğuk şehir — yalnızlık ve kalp kırıklığı. 13 Ay — takvim fazla ayı — zaman ve döngü anlayışıdır.
 
 # Tez
-Kimlik, 'beden' ile 'ruh'un 'savaşı'dır — Fassbinder'ın tezi: Elvira 'kendini' 'bular' ama 'başkası' 'için' 'yapar'; 'aşk' 'bedeli' 'yok' 'etmek'tir. '13' 'ay' — 'eksik' 'yıl' — 'tamamlanmamış' 'hayat'tır.
 
-## Mekanizma
-'Loş' 'ışık' — 'karanlık' 'oda'lar, 'sokak' 'lambaları' — 'iç' 'boşluk' 'görünür'dür; 'süper-16' 'kamera' — 'kaba' 'yüzey' — 'hissiz' 'dünya'yı 'verir'. 'Konuşma' — 'uzun' 'diyalog'lar — 'yalnızlık' 'dil' 'le' 'paylaşılır' ama 'dinlenmez'.
+Aşk, beden ve ruh arasında kaybolur — Fassbinder'in tezi: Elvira kabul edilmez — kimlik sosyal değil kişiseldir. Ölüm — aşk için son çaredir.
+
+## Karşılama ve miras
+
+Fassbinder'in en kişisel filmi — sevgilisi Armin Meier'in intiharı sonrası yazıldı. 'Volker Spengler' — 'erkek oynayan kadın' — 'kimlik oyunu'. '13 Ay' — 'fazla ay' — 'zaman ve döngü'. 'Frankfurt' — 'soğuk şehir' — 'yalnızlık'. 'Kasap dükkanı' — 'et ve beden' — 'aşk ve sömürü'.
+
+## Mekanizma ve biçem
+
+Uzun plan — sokak ve oda — yalnızlık büyür; ışık — sarı ve soluk — umut azdır. Yüz — Spenglerin yüzü — kadın ve erkek arasıdır.
 
 ## Kişisel uygunluk
-Trans kimlik ve 'yalnızlık' profiline çok güçlü uyuyor — Fassbinder'ın 'en' 'karanlık' 'yüzü'.
+
+Kimlik ve aşk — queer+trajik profil için tam uyum.
 
 -# THE FILM ARCHIVE · In a Year with 13 Moons (1978) · Notlar
 ### Tartışmalar & Notlar
