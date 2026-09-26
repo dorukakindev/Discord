@@ -744,6 +744,10 @@ _TREE_SYNCED = False
 async def on_ready():
     global _TREE_SYNCED
     if not _TREE_SYNCED:
+        for guild in bot.guilds:
+            tree.copy_global_to(guild=guild)
+            await tree.sync(guild=guild)
+        tree.clear_commands(guild=None)
         await tree.sync()
         _TREE_SYNCED = True
         bot.loop.create_task(daily_loop())
