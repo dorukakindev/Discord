@@ -16,7 +16,7 @@ Kendi iradesi olmayan, Warp akıntılarıyla realspace'e düşüp yeniden kaybol
 
 ## Tarihçe
 
-Space Hulk'ların bir sistemde belirmesi, Imperium için hem tehlike hem fırsattır. İçlerinde Genestealer istilası bulunma ihtimali yüksek olduğundan Space Marine'ler, özellikle Terminator zırhlı takımlar, bu yapılara çıkarma yaparak onları temizlemeye çalışır; Blood Angels'ın bu tür harekâtları en bilinen anlatılar arasındadır. Ork'lar ise bazı Space Hulk'ları istila filosu gibi kullanır.
+Space Hulk, İmparatorluk'un en tehlikeli ve en gizli yapılarından biridir — Warp'te kaybolmuş ve birleşmiş gemi kalıntılarıdır. Space Hulk'lar, İmparatorluk'un en tehlikeli ve en gizli yapılarıdır; bu yapılar, genestealer'lar ve diğer tehlikeli varlıklarla doludur. Space Hulk, İmparatorluk'un en tehlikeli ve en gizli yapılarından biridir; bu yapılar, İmparatorluk'un en tehlikeli ve en gizli tehlikelerinden biridir.
 
 -# Kaynaklar: *Space Hulk* (Games Workshop, 1989); *Codex: Genestealer Cults*
 

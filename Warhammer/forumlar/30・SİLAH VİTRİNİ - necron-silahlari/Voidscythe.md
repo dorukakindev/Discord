@@ -9,7 +9,7 @@ Necron Lord'larının iki elli boyut tırpanı; ağzı gerçeklikte bir yarık a
 
 ## Tarihçe
 
-Necron soyulularının tercih ettiği dimensional kılıç; Warscythe'in yerini alabilen yakın dövüş silahı. Voidscythe'in kendisi bile başlı başına bir erdem — taşıyanın statüsünü duyurur.
+Voidscythe, Necron'ların en ölümcül ve en değerli yakın dövüş silahıdır — boşluk tırpanıdır. Bu silah, hedefi atomik seviyede parçalar ve onu tamamen yok eder; tek vuruşta bir tankın zırhını bile kesebilecek kadar güçlüdür. Voidscythe, Necron'ların en ölümcül ve en değerli yakın dövüş silahıdır; bu silah, Necron'ların en önemli ve en değerli yakın dövüş silahıdır. Silah, Necron'ların en ölümcül ve en değerli yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

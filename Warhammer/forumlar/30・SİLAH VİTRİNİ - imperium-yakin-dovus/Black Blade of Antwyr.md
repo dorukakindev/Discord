@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/77/Castellan_Garran_Crow
 İçinde Antwyr iblisi hapsolan, yok edilemeyen kara kılıç; Castellan Crowe onu kullanmadan taşır, lanet böylece aç kalır.
 
 ## Tarihçe
-Black Blade of Antwyr, yok edilemediği için taşınan bir silahtır. İçine hapsolmuş iblis Antwyr, kesintisiz biçimde fısıldar: güç vaat eder, isyan eder, taşıyanın zihnini kemirir. Grey Knights bu lanetle tek bir çözüm bulmuştur: en saf iradeli şampiyonları, Purifier tarikatının Castellan'ı Garran Crowe kılıcı taşır ama asla onunla savaşmaz; kılıcın gücünü kullanmayı reddederek iblisi aç bırakır. Kılıç onun elinde bir silah değil, yürüyen bir hapishanedir.
+
+Black Blade of Antwyr, İmparatorluk'un en gizli ve en tehlikeli kılıcıdır — Chaos'un etkisinde olan bir kılıçtır. Bu kılıç, Antwyr adlı bir Chaos varlığı tarafından ele geçirilmiş bir silahtır; kılıcın kendisi, Chaos'un etkisini taşır ve kullanıcısını yavaş yavaş Chaos'a çeker. Black Blade of Antwyr, İmparatorluk'un en tehlikeli ve en gizli emanetlerinden biridir; bu kılıç, kullanıcısını Chaos'a sürükleyen bir lanet olarak kabul edilir. Kılıç, İmparatorluk'un en tehlikeli ve en gizli silahlarından biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,7 +16,7 @@ Ork toplumunun en altında ezilen Grot'lar için bir Killa Kan, ilk kez güç ve
 
 ## Tarihçe
 
-Killa Kan'lar, Mek'lerin Grot'ları makineye bağlayarak çattığı ucuz fakat tehlikeli savaş araçları olarak anlatılır. İçindeki Gretchin'in elde ettiği güç, onu çoğu zaman gerçek bir Ork gibi davranmaya iter; kaynaklar bu küçük pilotların yeni güçleriyle sarhoş olduklarını vurgular.
+Killa Kan, Ork'ların en tehlikeli ve en ölümcül savaş makinelerinden biridir — küçük ama ölümcül bir yürüyen savaş makinesidir. Killa Kan, Ork'ların en tehlikeli ve en ölümcül savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en ölümcül savaş güçlerinden biridir. Killa Kan, Ork'ların en tehlikeli ve en ölümcül savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en ölümcül savaş güçlerinden biridir.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

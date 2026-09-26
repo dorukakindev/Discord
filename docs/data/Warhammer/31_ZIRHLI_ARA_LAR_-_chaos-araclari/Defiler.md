@@ -15,7 +15,7 @@ Yengeci andıran bacakları, pençeleri ve sırtındaki topuyla savaş alanında
 
 ## Tarihçe
 
-Defiler'lar uzun zamandır Chaos Space Marine savaş gruplarının en tanınmış daemon engine'leri arasında yer alır. Black Crusade'lerden Great Rift sonrası akınlara kadar Heretic Astartes'in ağır destek unsuru olarak anılır; Iron Warriors gibi makineye yakın Legion'larda daha da yaygındır.
+Defiler, Chaos'un en tehlikeli ve en ölümcül savaş makinelerinden biridir — daemon ile birleştirilmiş bir savaş makinesidir. Defiler, Chaos'un en tehlikeli ve en ölümcül savaş makinelerinden biridir; bu makine, Chaos'un en önemli ve en ölümcül savaş güçlerinden biridir. Defiler, Chaos'un en tehlikeli ve en ölümcül savaş makinelerinden biridir; bu makine, Chaos'un en önemli ve en ölümcül savaş güçlerinden biridir.
 
 ## Teknik / Biyolojik Özellikler
 

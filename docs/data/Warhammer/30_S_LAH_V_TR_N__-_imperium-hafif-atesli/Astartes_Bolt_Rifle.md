@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8f/AutoBolter.jpg/revisi
 Primaris Intercessor'ların standart tüfeği; klasik bolterin uzun namlulu, daha delici modern revizyonu. Belisarius Cawl'un Primaris projesinin ürünüdür.
 
 ## Tarihçe
-Bolt Rifle, on bin yıllık bolter tasarımının ilk gerçek revizyonudur. Archmagos Dominus Belisarius Cawl, Primaris projesiyle birlikte silahı da yeniden ele aldı: daha uzun namlu, daha yüksek namlu çıkış hızı ve gelişmiş zırh delici bolt mühimmatı. Sonuç, klasik boltere göre daha uzun menzilli ve daha delici bir tüfektir. Intercessor mangalarının elinde, Indomitus Haçlı Seferi'nden bu yana İmparatorluğun yeni standart savaş silahı olmuştur.
+
+Astartes Bolt Rifle, Primaris Space Marines'in standart silahı olarak tasarlanan modern bir bolt silahıdır. Standart boltgun'dan daha uzun menzile ve daha yüksek mermi hızına sahip olan bu silah, Primaris Marines'in daha gelişmiş zırh ve fiziksel yetenekleriyle uyumlu olarak tasarlandı. Astartes Bolt Rifle, Intercessor birliklerinin standart donanımıdır ve İmparatorluk'un en yaygın kullanılan bolt silahlarından biri haline geldi. Silah, Primaris Marines'in sahaya çıkmasıyla birlikte Space Marines'in standart silah envanterinin en önemli parçası haline geldi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

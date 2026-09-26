@@ -18,4 +18,5 @@ Drukhari'nin melta gücüyle yüksek verimli las teknolojisini tek silahta birle
 
 Heat Lance, Aeldari'nin en ünlü ve en ölümlü melta silahıdır; onların Aeldari'nin en güçlü ve en ölümlü ısı silahı olan ve onun en zorlu savaşlarını yapan Heat Lance, Aeldari'nin en güçlü ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en ölümlü melta silahıdır. Heat Lance'in en büyük özelliği, onun ısısıdır — onlar, düşmanı eriten ısı ışını atan en ölümlü silahtır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Heat Lance, hem bir silah hem de bir tank-savardır ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Heat Lance'in en ünlü özelliği, onun Wraithlord'ların kullanımıdır — onlar, Aeldari'nin en büyük birliğinin en ölümlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Heat Lance, Aeldari'nin en ünlü ve en ölümlü melta silahıdır — onlar, bir ısının ve Aeldari'nin en büyük silahının somut halidir.
 
--# Kaynaklar: *Co
+
+-# Kaynaklar: *C

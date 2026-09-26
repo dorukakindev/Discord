@@ -16,7 +16,7 @@ Questor Mechanicus Hanelerinin en köklülerinden biri olarak sunulan, on bin y�
 
 ## Tarihçe
 
-Hanenin Metalica'ya bağlılığı Great Crusade'de verilen yeminle başladı; o günden bu yana Sacristan'ları Metalica'da yetişir ve Knight'ları Legio Metalica'nın Titan'larıyla birlikte sefere çıkar. M41 boyunca Ork'lara karşı verilen savaşlar Hanenin kayıtlarında geniş yer tutar. Era Indomitus'ta War Zone Charadon anlatısında Kolossi'nin Be'lakor'un eline düşmesiyle Hane yurdunu yitirmiş, sefer Hanesi olarak savaşmayı sürdürmüştür.
+House Raven — Questor Mechanicus, İmparatorluk'un en büyük ve en güçlü Knight hane'lerinden birinin Mechanicus'a bağlı versiyonudur. Raven'in Knight'ları, İmparatorluk'un en tehlikeli düşmanlarına karşı en ölümcül savaşları yürütür ve hane, İmparatorluk'un en büyük askeri varlıklarından biridir; hane, İmparatorluk'un en önemli ve en güçlü Knight hane'lerinden biridir. House Raven — Questor Mechanicus, İmparatorluk'un en güçlü ve en büyük Knight hane'lerinden biri olarak kalır.
 
 -# Kaynaklar: *Codex: Imperial Knights*; *War Zone Charadon – Act 2: The Book of Fire*
 

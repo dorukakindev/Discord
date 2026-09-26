@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a3/Guilliman_Post-Heresy
 Guilliman'ın entegre bolterli dev güç yumruğu; tank kulesi koparacak güçte. Kılıçla birlikte Naib'in savaş takımı.
 
 ## Tarihçe
-Hand of Dominion, Ultramar'ın efendisine layık bir silahtır: Guilliman'ın zırhına entegre edilmiş, bileğinde bolter taşıyan devasa bir güç yumruğu. Archmagos Cawl'un elden geçirdiği eldiven, bir tankın kulesini koparabilecek kadar güç üretir. Guilliman bir elinde babasının alevli kılıcını, diğerinde bu yumruğu taşır; ikili, Naib'in savaş felsefesinin özetidir — bir el düzeni kurar, diğeri düzeni bozanı ezer.
+
+Hand of Dominion, İmparatorluk'un en güçlü ve en değerli yumruklarından biridir — bir power fist'in gelişmiş versiyonudur. Bu silah, standart power fist'ten daha güçlüdür ve daha fazla enerji içerir; tek vuruşta bir tankın zırhını bile ezebilecek kadar güçlüdür. Hand of Dominion, özellikle İmparatorluk'un en yüksek rütbeli figürlerinin ve en büyük kahramanlarının kullandığı bir silahtır; bu yumruk, İmparatorluk'un en güçlü ve en ölümcül silahlarından biri olarak kabul edilir. Silah, İmparatorluk'un en güçlü power fist'lerinden biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

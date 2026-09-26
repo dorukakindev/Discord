@@ -16,7 +16,7 @@ Fire Warrior takımlarını cepheye taşıyan, drone'larla desteklenen bir antig
 
 ## Tarihçe
 
-Devilfish, T'au kuvvetlerinin standart taşıyıcısı olarak Fire caste harekâtlarının ayrılmaz parçasıdır. Aynı gövdenin farklı rollere uyarlanması, Earth caste'in pratik ve modüler tasarım anlayışını yansıtır.
+Devilfish, T'au'nun en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir — T'au birliklerini taşıyan ve koruyan bir araçtır. Devilfish, T'au'nun en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, T'au'nun en önemli ve en ölümcül lojistik güçlerinden biridir. Devilfish, T'au'nun en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, T'au'nun en önemli ve en ölümcül lojistik güçlerinden biridir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 

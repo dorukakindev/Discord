@@ -15,7 +15,7 @@ Sadık Chapter'lar için bir Dreadnought'a gömülmek onurdur; Chaos saflarında
 
 ## Tarihçe
 
-Heretic Astartes savaş grupları bu makineleri çoğu zaman zincire vurarak savaşa taşır ve ancak düşmana saldırtmak üzere salıverir. Bazı Helbrute'ların bedeninin Warp'ın etkisiyle metalle kaynaştığı, hatta daemonik bir varlıkla iç içe geçtiği anlatılır.
+Helbrute, Chaos'un en tehlikeli ve en ölümcül savaş makinelerinden biridir — Chaos Dreadnought'udur. Helbrute, Chaos'un en tehlikeli ve en ölümcül savaş makinelerinden biridir; bu makine, Chaos'un en önemli ve en ölümcül savaş güçlerinden biridir. Helbrute, Chaos'un en tehlikeli ve en ölümcül savaş makinelerinden biridir; bu makine, Chaos'un en önemli ve en ölümcül savaş güçlerinden biridir.
 
 ## Kanon Notu
 

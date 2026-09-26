@@ -18,6 +18,4 @@ Ağır Tyranid biyoformlarının uzun menzilli silahı; elektrostatik yük ile m
 
 ## Tarihçe
 
-Çarpma gücüyle öldüremediği hedefi, dağılan kristalin saçtığı jilet keskinliğindeki zehirli şarapnelle yırtar. Tank bölmelerinin içinde parçalanan mermiler mürettebatı safra banyosuna çevirir; araç zırhına karşı Sürü'nün güvendiği birkaç canlı silahtan biridir. Heavy Venom Cannon süpersonik hızda daha büyük kristal yükleri atar ve çarpışta elektrostatik yükünü öldürücü bir elektrik patlaması olarak salar — Hive Tyrant'ları, Carnifex'ler ve Harpy'lerde gözlemlenmiştir.
-
--# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi
+Venom Cannon ve Heavy Venom Cannon, Tyranid'lerin ağır bio-silahlarıdır; zehirli kristalleri veya asit topaklarını hedefe fırlatan ve hem organik hem de zırhlı hedefleri eriten, Tyranid biyolojisinin en yıkıcı ürünleridir. Venom Cannon'un atışı, hedefe çarptığında zehirli kristaller patlar ve eti, zırhı ve metalı aynı anda eritir; bir venom cannon atışı, bir Space Marine'in zırhını veya bir Imperial tankını deler ve içindeki zeit, hedefi içeriden zehirler. Heavy Venom Cannon, daha büyük varyanttır — bir Carnifex veya bir Hive Tyrant'ın sırtında taşınır ve onun atışı, bir bina büyüklüğündeki hedefi eritir; ve venom cannon'ın zehiri, Necron metalini bile eritebilen nadir bir maddedir. Venom Cannon, Tyranid'in biyolojik dehasının en yıkıcı halidir — onların silahları da zehir

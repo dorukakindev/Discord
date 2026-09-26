@@ -13,6 +13,6 @@ Vindicare tapınağının kutsal tüfeği — turbo-penetrator ve hellfire mermi
 
 ## Tarihçe
 
-Vindicare Suikastçısı'nın kişiye-özel keskin nişancı tüfeği; sıcaklık, nem, yerçekimi ve basınç okuyan mikro-sensörlerle donatılmış. Her Vindicare için tek üretim, tabancasıyla birlikte — 'milyonlarca ölüm arasından tek isim' silahı.
+Exitus Rifle, Officio Assassinorum'un Vindicare Temple'ına ait en ölümcül keskin nişancı silahıdır. Bu silah, standart keskin nişancı silahlarından çok daha güçlüdür ve özel 'Exitus' mermileri kullanır; bu mermiler, zırhı delebilen ve hedefi parçalayan bir yapıya sahiptir. Exitus Rifle, Vindicare Assassin'lerinin standart silahıdır ve İmparatorluk'un en ölümcül keskin nişancı silahı olarak kabul edilir; bu silah, tek atışta bir hedefi etkisiz hale getirebilecek kadar güçlüdür. Silah, Officio Assassinorum'un en ölümcül ve en gizli silahlarından biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

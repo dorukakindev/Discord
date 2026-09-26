@@ -16,7 +16,7 @@ Bir Chapter'ın en değerli ve en ağır gemisidir. Hat savaşından çok gezege
 
 ## Tarihçe
 
-Legion'lar Great Crusade boyunca bu tür gemilerle seferler yürüttü. Heresy'den sonra Legion'ların Chapter'lara bölünmesiyle ağır gemiler de dağıtıldı; bir Chapter'ın sahip olduğu Battle Barge'lar, onun gücünün ve geçmişinin göstergesi hâline geldi. Pek çok Chapter için bu gemiler aynı zamanda seyyar bir manastır işlevi görür.
+Battle Barge, Space Marines'in en büyük ve en güçlü savaş gemisidir — Chapter'ın ana gemisi ve en önemli savaş platformudur. Battle Barge, Space Marines'in en büyük ve en güçlü savaş gemisidir; bu gemi, Chapter'ın en önemli ve en güçlü deniz güçlerinden biridir. Battle Barge, Space Marines'in en büyük ve en güçlü savaş gemisidir; bu gemi, Chapter'ın en önemli ve en güçlü deniz güçlerinden biridir.
 
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Codex: Space Marines — 10th Edition*
 

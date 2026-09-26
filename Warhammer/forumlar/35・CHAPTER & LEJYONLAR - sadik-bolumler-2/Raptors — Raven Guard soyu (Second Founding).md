@@ -15,7 +15,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Raptors_Icon.jpg/revi
 
 ## Tarihçe
 
-Badab War'da Chapter Master Lias Issodon komutasında sadık saflara büyük kuvvet ayıran Raptors, bu savaşta ağır kayıplar vererek önemli zaferler kazandı. M41'in sonunda Taros'ta T'au'ya karşı yürütülen harekâtta Imperial Guard kuvvetlerini destekleyerek hızlı sızma ve geri çekilme taktiklerini sergiledi. Geleneksel Chapter'lar onların yöntemlerini zaman zaman korkaklık diye eleştirse de sadakatleri sorgulanmaz.
+Raptors, Raven Guard'ın soyundan gelen bir Space Marine Chapter'ıdır — Second Founding döneminde kurulmuş bir Chapter'dır. Raptors, gizli operasyonlar ve keskin nişancı taktikleriyle bilinir; Chapter, İmparatorluk'un en gizli ve en tehlikeli operasyonlarının en önemli aracıdır. Raptors, Raven Guard'ın en sadık ve en güvenilir varislerinden biri olarak kalır; Chapter, İmparatorluk'un en önemli askeri varlıklarından biridir.
 
 ## Teknik / Biyolojik Özellikler
 

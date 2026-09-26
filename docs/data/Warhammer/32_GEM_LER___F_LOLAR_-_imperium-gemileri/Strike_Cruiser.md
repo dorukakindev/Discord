@@ -16,7 +16,7 @@ Chapter filolarının en sık görülen gemisidir. Tek bir bölüğü ya da daha
 
 ## Tarihçe
 
-Strike Cruiser'lar Chapter'ların uzun seferlerinde ve bağımsız bölük harekâtlarında temel araç olarak anlatılır. Bir Chapter'ın büyük kısmı farklı cephelere dağıldığında, her bölük çoğu zaman kendi Strike Cruiser'ıyla hareket eder.
+Strike Cruiser, Space Marines'in en önemli ve en çok yönlü savaş gemisidir — Chapter'ın ana savaş gemilerinden biridir. Strike Cruiser, Space Marines'in en önemli ve en çok yönlü savaş gemisidir; bu gemi, Chapter'ın en önemli ve en çok yönlü deniz güçlerinden biridir. Strike Cruiser, Space Marines'in en önemli ve en çok yönlü savaş gemisidir; bu gemi, Chapter'ın en önemli ve en çok yönlü deniz güçlerinden biridir.
 
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Codex: Space Marines — 10th Edition*
 

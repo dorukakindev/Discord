@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/PlasmaCaliver.jpg/rev
 Skitarii'lerin hızlı atışlı plazma silahı; menzili kısadır ama kısa sürede plazma yağmuru yağdırır. Taşıyıcısını da yıpratan radikal Mars tasarımı.
 
 ## Tarihçe
-Plasma Caliver, Mars'ın savaş doktrininin ürünüdür: standart plazma tüfeğinin menzilini feda ederek karşılığında öldürücü bir atış temposu sunar. Skitarii Ranger ve Vanguard birlikleri bu silahla kısa sürede bir noktaya plazma yağmuru yağdırabilir. Et ve metalden bedenleriyle Skitarii'ler, silahın radyasyonuna ve ısısına sıradan insanlardan daha dayanıklıdır; Omnissiah'ın hizmetinde erimek, onlar için şehitliktir.
+
+Plasma Caliver, Adeptus Mechanicus'un en ölümcül plazma silahlarından biridir. Bu silah, standart plazma silahından daha güçlüdür ve daha uzun menzile sahiptir; ayrıca Mechanicus'un gelişmiş plazma teknolojisi sayesinde daha güvenlidir. Plasma Caliver, özellikle Skitarii ve Mechanicus'un elit birliklerinin tercihidir; çünkü bu birlikler, düşmanın en tehlikeli hedeflerini etkisiz hale getirmek için daha güçlü plazma silahlarına ihtiyaç duyar. Silah, Adeptus Mechanicus'un en ölümcül plazma silahlarından biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

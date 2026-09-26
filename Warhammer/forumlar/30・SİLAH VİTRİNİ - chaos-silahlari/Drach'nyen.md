@@ -25,6 +25,4 @@ Abaddon'ın daemon kılıcıdır. İçindeki varlık, kaynakların ortak anlatı
 
 ## Tarihçe
 
-Abaddon, Drach'nyen'i Talon of Horus ile birlikte taşıyarak Black Crusade'lerine önderlik etti. *The Master of Mankind*'da aynı varlık Heresy döneminde Terra'nın altındaki Webway savaşında da belirir. Kılıç, 13th Black Crusade ve Fall of Cadia dahil Abaddon'ın büyük seferlerinin simgelerindendir.
-
--# Kaynaklar: *The Talon of Horus — Aaron Dembski-Bowden*; *Black Legion — Aaron Dembski-Bowden*; *Codex: Chaos Space Marines — 10th Edition*
+Drach'nyen, Chaos'un en ünlü ve en korkulan daemon silahıdır; Abaddon'un — Black Legion'un lideri — kullandığı ve onun en büyük savaşlarının simgesi olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en korkulan silahıdır. Drach'nyen'in en büyük özelliği, onun gücüdür — onlar, bir daemon'un bedeninde yaşayan bir kılıçtır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Drach'nyen, hem bir silah hem de bir varlıktır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Drach'nyen'in en ünlü özelliği, onun Abaddon'un silahıdır — onlar, Black Legion'un

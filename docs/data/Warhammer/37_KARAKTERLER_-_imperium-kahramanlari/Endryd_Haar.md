@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/18/Endryd_Haar.jpg/revis
 
 ## Tarihçe
 
-Endryd Haar, İmparatorluğun en gizli ve en trajik savaşçısıdır; Malcador the Sigilite tarafından yaratılan ve Horus Heresy'de en gizli operasyonları yapan Haar, İmparatorluğun en gizli ve en trajik varlığıdır — onlar, İmparatorluğun en gizli ve en trajik savaşçısıdır. Endryd Haar'ın en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarını yapan en trajik savaşçıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Haar, hem bir savaşçı hem de bir araçtır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Endryd Haar'ın en ünlü özelliği, onun Malcador tarafından yaratılmasıdır — onlar, İmparatorluğun en gizli gücünün en trajik yaratığıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Endryd Haar, İmparatorluğun en gizli ve en trajik savaşçısıdır — onlar, bir aracın ve İmparatorluğun en büyük sırrının somut halidir.
+Endryd Haar, World Eaters'ın en trajik ve en önemli figürlerinden biridir — 'Riven Hound' olarak bilinen ve Heresy'nin en trajik figürlerinden biridir. Haar, World Eaters'ın en trajik ve en önemli figürüdür; onun hikâyesi, Heresy'nin en trajik ve en önemli anlarının simgesidir. Endryd Haar, World Eaters'ın en trajik ve en önemli figürü olarak kalır — onun hikâyesi, Heresy'nin en trajik ve en önemli anlarının simgesidir.
+
 
 -# Kaynaklar: *Fandom wiki*

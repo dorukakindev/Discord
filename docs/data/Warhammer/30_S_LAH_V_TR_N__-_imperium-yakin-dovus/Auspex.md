@@ -16,7 +16,7 @@ Yaşam belirtilerini, hareketi, enerji kaynaklarını ve çevredeki diğer izler
 
 ## Tarihçe
 
-Space Marine sergeant'ları ve Scout'ları, Inquisition ajanları ve Adeptus Mechanicus rahipleri tarafından kullanılır. Gemilerde ve araçlarda aynı ad daha büyük tarama sistemleri için de geçer.
+Auspex, İmparatorluk'un en yaygın kullanılan cihazlarından biridir — çevresel tarama ve tehdit tespiti yapan bir cihazdır. Bu cihaz, çevredeki düşmanları, tuzakları ve diğer tehditleri tespit eder; İmparatorluk'un askeri operasyonlarının en önemli aracı olarak kabul edilir. Auspex, İmparatorluk Muhafızı'nın ve Space Marines'in hemen her birliğinin standart donanımıdır; bu cihaz, İmparatorluk'un en yaygın ve en güvenilir cihazı olarak kalır.
 
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 

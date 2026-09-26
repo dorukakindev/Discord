@@ -18,7 +18,7 @@ Necron'un Tesla silah ailesinin tüfek boyundaki en küçük biçimi; hedefine �
 
 ## Tarihçe
 
-Immortal'ın gauss blaster'ı zırh delmekte üstündür; tesla karabinası ise sayı üstünlüğünü cezalandırır. Sıkı saflar hâlinde çarpışan bir manga için tek deşarj, askerden askere hoplayan bir yıkım zinciri demektir — tesla deşarjı öldürdükçe güçlenir. Tesla bobinleri enerjiyi canlı bir yaylım hâlinde depolar ve bırakır; hedefin yanındaki herkes aynı şoku paylaşır. Necron'un teknik üstünlük iddiasının en görünür kanıtlarından biri, onu karşılayan ordunun içinde art arda çakan bu yeşil şimşek dizisidir.
+Tesla Carbine, Necron'ların en yaygın ve en ölümcül silahıdır — elektrik enerjisi kullanan bir karabina'dır. Bu silah, hedefe elektrik arkı gönderir; bu ark, zırhlı hedeflere karşı özellikle etkilidir ve elektronik sistemleri de etkisiz hale getirir. Tesla Carbine, Necron'ların en yaygın ve en ölümcül silahıdır; bu silah, Necron'ların en önemli ve en yaygın silahıdır. Silah, Necron'ların en yaygın ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Necrons — 5t
 

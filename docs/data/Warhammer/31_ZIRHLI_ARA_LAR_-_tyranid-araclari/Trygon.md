@@ -16,7 +16,7 @@ Kayayı ve toprağı pençeleriyle yararak savunma hatlarının altından geçen
 
 ## Tarihçe
 
-Trygon'lar, statik savunmalara dayanan orduların en büyük korkularından biri olarak anlatılır: surlar, siperler ve mayın tarlaları, yerin altından gelen bir saldırı karşısında anlamsızlaşır.
+Trygon, Tyranid'lerin en tehlikeli ve en ölümcül bioform'larından biridir — yeraltında tünel kazarak düşman hatlarının arkasına çıkan dev bir bioformdur. Trygon, Tyranid'lerin en tehlikeli ve en ölümcül bioform'larından biridir; bu bioform, Tyranid'lerin en önemli ve en ölümcül saldırı güçlerinden biridir. Trygon, Tyranid'lerin en tehlikeli ve en ölümcül bioform'larından biridir; bu bioform, Tyranid'lerin en önemli ve en ölümcül saldırı güçlerinden biridir.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

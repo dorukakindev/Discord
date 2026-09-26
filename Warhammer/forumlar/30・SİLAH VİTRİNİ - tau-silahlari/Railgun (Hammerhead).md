@@ -13,6 +13,6 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-Hammerhead grav-tankının ana topu; solid-shot railgun — tek atışta en ağır zırhı delen T'au anti-tank silahı. 'Eternal Enemy'inin tanklarına karşı Greater Good'un en güvenilir cevabı.
+Railgun (Hammerhead), T'au İmparatorluğu'nun en ölümcül ve en büyük silahıdır — Hammerhead tankına monte edilmiş bir railgun'dur. Bu silah, hedefe yoğun bir elektromanyetik enerji gönderir; tek atışta bir Titan'ın zırhını bile delebilecek kadar güçlüdür. Railgun, T'au'nun en ölümcül ve en büyük silahıdır; bu silah, T'au'nun en önemli ve en büyük silahıdır. Silah, T'au İmparatorluğu'nun en ölümcül ve en büyük silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

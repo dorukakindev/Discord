@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Ceres-Pattern_Bolt_Pi
 Bolterin tabanca formu; taarruz birliklerinin ve subayların yan silahı. Tek elle kullanılır, yakın mesafede bolt mühimmatının tüm yıkıcılığını korur.
 
 ## Tarihçe
-Bolt Pistol, bolt teknolojisinin en kompakt halidir: kütle-reaktif, kendinden itişli patlayıcı mermileri tek elle ateşler. Horus Heresy çağından beri zincir kılıçla birlikte taşınan klasik ikiliyi oluşturur; bir elde chainsword, diğerinde bolt pistol, Astartes taarruz doktrininin simgesidir. Astra Militarum subayları için ise hem silah hem rütbe işaretidir; infaz ve disiplin aracı olarak da ün salmıştır.
+
+Bolt Pistol, Space Marines'in en yaygın yan silahıdır — kompakt ama ölümcül bir bolt silahıdır. Bu silah, standart boltgun'dan daha küçük ve daha hafif olsa da aynı patlayıcı mermi teknolojisini kullanır; yakın mesafe çatışmalarda son derece etkilidir. Bolt Pistol, Space Marines'in hemen her birliğinin standart yan silahıdır; ayrıca İmparatorluk'un diğer kurumlarında da — Inquisition, Sisters of Battle ve bazı Imperial Guard subayları — kullanılır. Silah, İmparatorluk'un en yaygın ve en güvenilir yan silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

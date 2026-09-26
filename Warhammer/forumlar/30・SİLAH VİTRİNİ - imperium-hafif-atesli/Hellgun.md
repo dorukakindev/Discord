@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/73/Imperial_Stormtrooper
 Hot-shot teknolojisinin ağır şasili öncülü; fırtına birliklerinin zırh delen lazeri. Yoğun salvosu siperleri cehenneme çevirir.
 
 ## Tarihçe
-Hellgun, yüksek şarjlı lazer silahlarının ilk kuşağıdır; sonraki Hot-Shot modellerinin doğrudan atasıdır. Güçlendirilmiş namlu bobinleri ve harici güç bağlantısıyla standart lasgunun çok üzerinde delme gücü sağlar. Kasrkin ve fırtına birliklerinin alameti olan bu silah, adını ateş hattının karşısındakilerin yaşadığı deneyimden alır: yoğun hellgun salvosu altındaki bir siper, kelimenin tam anlamıyla cehenneme döner.
+
+Hellgun, İmparatorluk Muhafızı'nın en güçlü lazer silahıdır — standart lasgun'dan daha yüksek enerji çıkışına sahip bir tüfektir. Bu silah, zırhlı hedeflere karşı standart lasgun'dan çok daha etkilidir; tek atışta bir Space Marine'in zırhını bile delebilecek kadar güçlüdür. Hellgun, özellikle Storm Troopers ve elit Imperial Guard birliklerinin standart silahıdır; çünkü bu birlikler, düşmanın en tehlikeli hedeflerini etkisiz hale getirmek için daha güçlü silahlara ihtiyaç duyar. Silah, İmparatorluk Muhafızı'nın en güçlü lazer silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

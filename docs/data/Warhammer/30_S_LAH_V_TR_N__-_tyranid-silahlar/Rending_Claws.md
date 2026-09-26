@@ -7,6 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f3/Ashen_Claws_Icon.jpg/
 
 Genestealer ve avcı biyoformların kıvrık pençeleri; zırhın en zayıf noktasını bulup eklem aralarından içeri girer. En kalın zırh bile bu pençelerin önünde güvende değildir.
 
+
+## Tarihçe
+
+Rending Claws, Tyranid'lerin en ölümcül ve en yaygın yakın dövüş silahıdır — yırtıcı pençelerdir. Bu silahlar, hedefi parçalar ve onu tamamen yok eder; tek vuruşta bir Space Marine'in zırhını bile kesebilecek kadar güçlüdür. Rending Claws, Tyranid'lerin en ölümcül ve en yaygın yakın dövüş silahıdır; bu silahlar, Tyranid'lerin en önemli ve en yaygın yakın dövüş silahıdır. Silahlar, Tyranid'lerin en ölümcül ve en yaygın yakın dövüş silahı olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 
 ## Teknik ve Kullanım

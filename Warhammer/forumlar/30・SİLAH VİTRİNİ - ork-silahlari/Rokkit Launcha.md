@@ -16,7 +16,7 @@ Omuzdan ateşlenen ya da araca monte edilen kaba bir roket atardır. Roketler ç
 
 ## Tarihçe
 
-Ork Boyz birliklerinin ağır silahlarından biridir ve araçlara karşı kullanılır. En çok, araç avlamaya takıntılı Tankbusta'larla özdeşleşmiştir; bu Orklar düşman tanklarını yok etmeyi bir tutku hâline getirir. Deffkopta gibi Ork araçları da rokkit taşır.
+Rokkit Launcha, Ork'ların en ölümcül ve en büyük silahıdır — roket atar. Bu silah, Ork'ların en büyük araçlarına monte edilir ve düşmanın en büyük hedeflerini etkisiz hale getirir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Rokkit Launcha, Ork'ların en ölümcül ve en büyük silahıdır; bu silah, Ork'ların en büyük araçlarının en kritik aracıdır. Silah, Ork'ların en ölümcül ve en büyük silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

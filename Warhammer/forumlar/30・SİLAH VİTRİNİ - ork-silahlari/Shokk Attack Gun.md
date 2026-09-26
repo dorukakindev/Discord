@@ -13,7 +13,7 @@ Big Mek'lerin en çılgın ve en korkulan icadıdır: canlı mühimmatı — ço
 
 ## Tarihçe
 
-Silah, namlusundan hedefe Warp'tan geçen dar bir tünel açar; iki uçta dönen küçük kara delikler belirir. Orklar ateşlenmeyi reddeder, Gretchin'ler kaçınacak kadar akıllıdır; mühimmat ancak akılsız Snotling olabilir. Tüneli dehşet içinde geçen yaratık çıkışta delice parçalar — çoğu kez hedefin üstünde, bir tankın ya da bir bedenin içinden dışarı.
+Shokk Attack Gun, Ork'ların en gizli ve en tehlikeli silahıdır — Warp'te seyahat eden bir silahtır. Bu silah, hedefi Warp'e sürükler ve onu başka bir yerde yeniden oluşturur; bu, Ork'ların en gizli ve en tehlikeli silahıdır. Shokk Attack Gun, Ork'ların en gizli ve en tehlikeli silahıdır; bu silah, Ork'ların en büyük ve en tehlikeli araçlarının en kritik aracıdır. Silah, Ork'ların en gizli ve en tehlikeli silahı olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

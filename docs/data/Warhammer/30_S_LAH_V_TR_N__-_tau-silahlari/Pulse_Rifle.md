@@ -13,6 +13,6 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-T'au Fire Warrior'ın standart pulse tüfeği; parçacık hızlandırıcı teknolojiyle plazma-mermi fırlatan İmparatorluk bolter'ının eşiti. Third Sphere Expansion döneminin ikonik piyade silahı — Greater Good'un 'standart ölüm'ü.
+Pulse Rifle, T'au İmparatorluğu'nun en yaygın ve en ölümcül silahıdır — plazma enerjisi kullanan bir tüfektir. Bu silah, T'au'nun Fire Warrior birliklerinin standart silahıdır ve düşmanın en tehlikeli hedeflerini etkisiz hale getirir; plazma enerjisi, zırhlı hedeflere karşı özellikle etkilidir. Pulse Rifle, T'au'nun en yaygın ve en ölümcül silahıdır; bu silah, T'au'nun en önemli ve en yaygın silahıdır. Silah, T'au İmparatorluğu'nun en yaygın ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

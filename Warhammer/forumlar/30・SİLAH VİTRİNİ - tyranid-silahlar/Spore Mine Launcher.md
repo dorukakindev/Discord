@@ -7,7 +7,7 @@ Biovore'un sırtından canlı spor mayınları fırlatan organı; yüzen mayınl
 
 ## Tarihçe
 
-Biovore'un yaşayan topçusu; içinde beslenen Spore Mine'ları ateşleyen biyolojik mortar. 'Cephanenin kendisi canlı' — Tyranid savaşının en somatik hali.
+Spore Mine Launcher, Tyranid'lerin en ölümcül ve en gizli silahıdır — spor mayını atar. Bu silah, hedefe spor mayınları gönderir ve onları patlatarak etkisiz hale getirir; tek atışta birkaç düşmanı etkisiz hale getirebilecek kadar güçlüdür. Spore Mine Launcher, Tyranid'lerin en ölümcül ve en gizli silahıdır; bu silah, Tyranid'lerin en önemli ve en gizli silahıdır. Silah, Tyranid'lerin en ölümcül ve en gizli silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

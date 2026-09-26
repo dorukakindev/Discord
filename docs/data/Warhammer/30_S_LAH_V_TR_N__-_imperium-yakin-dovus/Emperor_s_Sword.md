@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d8/EmperorSword.jpg/revi
 İmparator'un alevli kılıcı; Horus düellosunun silahı. Bugün dirilen Guilliman'ın elinde yeniden alev alıyor.
 
 ## Tarihçe
-İmparator'un Kılıcı, insanlık tarihinin en yüklü silahlarından biridir. Alevle yanan ağzı, sahibinin psişik kudretinin kanalıydı; Terra Kuşatması'nın son perdesinde, Vengeful Spirit'in güvertesinde Horus'a karşı taşındı. İmparator Altın Taht'a çekildikten sonra kılıç bin yıllar boyunca emanette kaldı. Roboute Guilliman dirilip İmparatorluk Naibi olduğunda, babasının kılıcı — Emperor's Sword — onun eline verildi; bugün Indomitus seferlerinde alevi yeniden görülmektedir.
+
+Emperor's Sword, İmparatorluk'un en kutsal ve en değerli kılıcıdır — İmparator'un kendi kılıcı olarak bilinir. Bu kılıç, İmparator'un Büyük Haçlı Seferi sırasında kullandığı ve İmparatorluk'un en kutsal emanetlerinden biri olarak kabul edilen bir silahtır. Emperor's Sword, İmparatorluk'un en yüksek rütbeli figürlerinin — özellikle Chapter Master'ların ve İmparatorluk'un en büyük kahramanlarının — kullandığı bir silahtır; bu kılıç, İmparator'un iradesini yerine getirmesinin en önemli aracı olarak kabul edilir. Kılıç, İmparatorluk'un en kutsal ve en değerli emaneti olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

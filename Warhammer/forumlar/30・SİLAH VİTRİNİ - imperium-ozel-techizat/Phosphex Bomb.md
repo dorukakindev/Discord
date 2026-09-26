@@ -13,6 +13,6 @@ Heresy çağından kalma yasak kimyasal silah; canlı gibi yayılan, suda bile s
 
 ## Tarihçe
 
-Büyük Haçlı Seferi döneminin yasaklı yangın bombası; havayla temas edince genişleyen, metali bile eriten korozif toksin. Medusa Shell'in topçu versiyonu — İmparatorluk'un kendi yasakladığı silah, bugün kullanımı neredeyse yok.
+Phosphex Bomb, İmparatorluk'un en tehlikeli ve en korkulan silahlarından biridir — phosphex adı verilen bir madde içeren el bombasıdır. Phosphex, suyla temas ettiğinde bile yanmaya devam eden ve hemen hemen hiçbir şey tarafından söndürülemeyen bir maddeydi; bu bomba, patladığında phosphex'i yayarak çevresindeki her şeyi yakar ve yok eder. Phosphex Bomb, İmparatorluk'un en korkulan silahlarından biridir; çünkü bu madde, neredeyse hiçbir şey tarafından durdurulamaz ve kullanıcıyı da tehdit edebilir. Bomba, İmparatorluk'un en gizli ve en ölümcül silahlarından biri olarak kalır; günümüzde phosphex üretimi neredeyse unutulmuştur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

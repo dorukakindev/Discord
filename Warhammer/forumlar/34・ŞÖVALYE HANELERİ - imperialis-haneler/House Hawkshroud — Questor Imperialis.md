@@ -16,7 +16,7 @@ Yeminlerine bağlılığı Hane kimliğinin temeli sayan Imperialis Hanesidir. H
 
 ## Tarihçe
 
-Hawkshroud çocukları, ailelerinin kuşaklar boyu biriktirdiği yemin borçlarıyla doğar; bu borçların kaydını bir yemin konseyi tutar. Yeminini çiğneyenler unvanlarından edilip Freeblade olarak sürülür. Bu gelenek Hane'yi galaksinin birçok köşesine dağıtmış, Hawkshroud Knight'larını çok farklı müttefiklerin yanında savaşır hâle getirmiştir.
+House Hawkshroud, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biridir — Questor Imperialis hanesi olarak İmparatorluk'a doğrudan bağlıdır. Hawkshroud'un Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Hawkshroud — Questor Imperialis, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

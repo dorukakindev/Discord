@@ -6,6 +6,7 @@
 İlk İmparator Şampiyonu'nun iki elli kara kılıcı; Black Templars şampiyonlarının taşıdığı yeminin atasıdır.
 
 ## Tarihçe
-Sigismund, Imperial Fists'in Birinci Kaptanı ve tarihteki ilk İmparator Şampiyonu'ydu; Terra Kuşatması'nda gemi gemi, düello düello Kaos'un en iyilerini biçti. İki elli kara kılıcı, onun yemininin fiziksel haliydi. Black Templars chapter'ı kurulduğunda kılıç, şampiyonluk geleneğinin merkezine oturdu: bugün her Emperor's Champion, Sigismund'un kılıcının suretini taşır ve aynı yemini eder — şampiyonları ara, teke tek dövüş, asla diz çökme.
+
+Black Sword of Sigismund, Black Templars'ın en efsanevi ve en kutsal kılıcıdır — Sigismund'un kendi kılıcı olarak bilinir. Sigismund, Horus Heresy sırasında İmparatorluk'un en büyük kahramanlarından biriydi ve Black Templars'ın ilk High Marshal'ıydı; onun kılıcı, Black Templars'ın en kutsal emaneti olarak kabul edilir. Black Sword, Black Templars'ın en yüksek rütbeli figürlerinin kullandığı bir silahtır; bu kılıç, Sigismund'un efsanevi statüsünün ve Black Templars'ın İmparator'a olan sadakatinin en önemli sembolüdür. Kılıç, İmparatorluk'un en kutsal ve en değerli emanetlerinden biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

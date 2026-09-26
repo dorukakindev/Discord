@@ -16,7 +16,7 @@ Avcılığı soyluluğun sınavı sayan, koyu yeşil renkleri orman örtüsünde
 
 ## Tarihçe
 
-Hane binyıllar boyunca Forge World Gryphonne IV'e bağlı bir Questor Mechanicus Hanesi olarak hizmet etti; Horus Heresy'de Beta-Garmon'da savaştığı, Great Scouring sırasında hain Knight'ların peşine düştüğü aktarılır. 997.M41'de Hive Fleet Leviathan'ın Gryphonne IV'ü yok etmesiyle Hane ağır kayıplar verdi ve bağlılığını Imperium'a yönelterek Questor Imperialis çizgisine geçti. Bu değişimle birlikte Mechanicus dişlisini bırakıp kadim hanedan armasına döndüğü anlatılır.
+House Cadmus, İmparatorluk'un en eski ve en prestijli Knight hane'lerinden biridir — Questor Imperialis hanesi olarak İmparatorluk'a doğrudan bağlıdır. Cadmus'un Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Cadmus — Questor Imperialis, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

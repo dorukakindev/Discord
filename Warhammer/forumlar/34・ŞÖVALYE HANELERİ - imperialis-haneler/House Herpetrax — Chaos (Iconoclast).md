@@ -15,7 +15,7 @@ Knight Haneleri arasında alışılmadık biçimde Imperium'a hiçbir zaman yemi
 
 ## Tarihçe
 
-Imperial elçileri M36'da Jedathra'ya ulaştığında Herpetrax soyluları onları öldürdü ve reddini aşağılayıcı bir mesajla geri gönderdi. Ardından gelen Imperial kuşatma, saldıran kuvvetler arasında yayılan esrarengiz mutasyonlar ve Warp bozulmaları yüzünden başarısız oldu. Hane sonraki dönemde komşu dünyalara yönelik acımasız fetih seferleriyle anıldı.
+House Herpetrax, Chaos'a düşen ve İmparatorluk'un en tehlikeli düşmanlarından biri haline gelen bir Knight hanesidir. Herpetrax, Iconoclast hane'si olarak bilinir ve Chaos'un İmparatorluk'a karşı yürüttüğü saldırıların en önemli gücüdür; hanenin Knight'ları, Chaos'un en tehlikeli ve en ölümcül silahlarıdır. House Herpetrax, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarından biri olarak kalır; hanenin Knight'ları, Chaos'un İmparatorluk'a karşı en büyük tehdididir.
 
 ## Kanon Notu
 

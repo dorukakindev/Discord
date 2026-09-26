@@ -16,8 +16,8 @@ Soğuk iklim savaşında ve yıpratma savaşında ustalaşmış, zorluk karşıs
 
 ## Tarihçe
 
-Felaketin ardından Valhalla'ya bir Ork filosu saldırdı; halk yeraltı şehirlerinde direnerek istilacıları sonunda yendi ve bu zafer, Ork'lara karşı derin bir düşmanlıkla birlikte Valhallan alaylarının geleneğini doğurdu. Sandy Mitchell'in Ciaphas Cain romanlarında Cain'in hizmet ettiği Valhallan 597th, geleneğin Black Library'deki en tanınmış örneğidir.
+Valhallan Ice Warriors, İmparatorluk Muhafızı'nın en ünlü ve en sert alaylarından biridir — Valhalla gezegeninin buzlu çorak topraklarından gelen askerlerdir. Valhallanlar, İmparatorluk'un en zorlu iklim koşullarında savaşmaya alışmış birliklerdir; özellikle Ork'lara karşı savaşta efsanevi bir üne sahiptirler. Valhalla'nın Ork istilası sırasında gezegeni geri alan Valhallanlar, İmparatorluk'un en sert ve en dirençli alaylarını oluşturur; bu alaylar, siper savaşı ve kuşatma savaşlarında eşsizdir. Valhallan Ice Warriors, İmparatorluk Muhafızı'nın en sert ve en efsanevi alaylarından biri olarak kalır.
 
 -# Kaynaklar: *For the Emperor — Sandy Mitchell*; *Ice Guard — Steve Lyons*; *Codex: Imperial Guard*
 
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551759766966116383>, <#1551812353157365862>
+-# İlişkili kayıtlar: <#15517534

@@ -15,7 +15,7 @@ Tyranid'lerin elinde neredeyse tükenen ve yeniden doğuşu Era Indomitus'a kala
 
 ## Tarihçe
 
-Damocles Gulf Crusade'de T'au'ya karşı savaşan Scythes, M41'in son yıllarında Hive Fleet Kraken'in Sotha'ya inmesiyle yurtlarını ve gücünün büyük bölümünü yitirdi. Hayatta kalanlar Miral Prime'a çekildi; orada Giant's Coffin'de Chapter Master Thorcyra'nın hayatta kalanları tahliye ettirirken 1st Company ile verdiği son direniş, Chapter'ın efsanesine işlendi. Tükenmenin eşiğindeki Chapter, Great Rift sonrası Primaris takviyesiyle ayağa kaldırıldı.
+Scythes of the Emperor, Ultramarines'in soyundan gelen bir Space Marine Chapter'ıdır — Third Founding döneminde kurulmuş bir Chapter'dır. Scythes of the Emperor, İmparatorluk'un en sadık ve en güvenilir Chapter'larından biridir; Chapter, İmparatorluk'un en önemli operasyonlarında görev alır. Scythes of the Emperor, Ultramarines'in en sadık ve en güvenilir varislerinden biri olarak kalır; Chapter, İmparatorluk'un en önemli askeri varlıklarından biridir.
 
 ## Teknik / Biyolojik Özellikler
 

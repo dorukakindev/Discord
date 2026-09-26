@@ -18,7 +18,7 @@ Necron soylularının bileğine monte edilmiş incelikli yöneltilmiş-enerji si
 
 ## Tarihçe
 
-Soylunun bileğindeki bu küçük mekanizma, Necron'un "fiziğe emretme" teknolojisinin en saf örneklerinden biridir: kapalı ve pasifken sade bir bileklik, açıkken bir dağın kalbini delecek mermiyi kucaklayan bir kundaktır. Tek atış, tek ölüm — kullanan soylu o tek atışı ziyan etmemek için fırsatını bekler; çünkü ikinci atış ancak cephaneliğin mezar dünyasında yeni
+Tachyon Arrow, Necron'ların en ölümcül ve en gelişmiş silahıdır — tachyon enerjisi kullanan bir silahtır. Bu silah, hedefe yoğun bir tachyon enerjisi gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Tachyon Arrow, Necron'ların en ölümcül ve en gelişmiş silahıdır; bu silah, Necron'ların en önemli ve en gelişmiş silahıdır. Silah, Necron'ların
 
 den yüklenebildiği yerde gelir.
 

@@ -16,7 +16,7 @@ Imperium'a sıkı sıkıya bağlı, yakın dövüşe büyük değer veren ve koy
 
 ## Tarihçe
 
-Hanenin ataları Kimdaria'nın karanlık ve düşmanca topraklarında yırtıcı canavarlara karşı yerleşimlerini savunarak ayakta kaldı. Binyıllarca süren yalnızlığın ardından gezegen M35'in sonlarında Imperium tarafından yeniden bulundu ve Hane bağlılığını Golden Throne'a yöneltti. Karanlıkta canavarlara karşı sürdürülen devriyeler, Hanenin savaş anlayışını yakın mesafede ve acımasız çarpışmaya yöneltti.
+House Mortan, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biridir — Questor Imperialis hanesi olarak İmparatorluk'a doğrudan bağlıdır. Mortan'ın Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Mortan — Questor Imperialis, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

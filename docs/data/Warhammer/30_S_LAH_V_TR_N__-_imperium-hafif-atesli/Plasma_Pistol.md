@@ -19,4 +19,8 @@ Plasma silahları hidrojen yakıtını yıldız sıcaklığına ısıtıp manyet
 ## Not
 Küçük ama ölümcül — komutan ve veterenların 'ciddi iş' silahıdır. Overheat riski kullanıcı cesaretiyle dengelenir.
 
+
+## Tarihçe
+
+Plasma Pistol, İmparatorluk'un en ölümcül yan silahlarından biridir — plazma teknolojisi kullanan bir tabancadır. Bu silah, hedefe yoğun bir plazma enerjisi gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Plasma Pistol, özellikle Space Marines'in subaylarının ve İmparatorluk'un en elit birliklerinin tercihidir; çünkü bu silah, yakın mesafe çatışmalarda son derece etkilidir. Silah, İmparatorluk'un en ölümcül yan silahlarından biri olarak kalır; ancak aşırı ısınma riski nedeniyle dikkatli kullanılması gerekir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

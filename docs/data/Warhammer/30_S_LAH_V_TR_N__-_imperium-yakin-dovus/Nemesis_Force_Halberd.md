@@ -13,6 +13,6 @@ Grey Knights'ın iki elle kullanılan nemesis silahı — hem mızrak hem force-
 
 ## Tarihçe
 
-Nemesis Force Weapon'ın mızrak versiyonu; Grey Knights'ın en güçlü kişisel silahı. Üretimi son derece zor ve pahalı — gücü kullanan psyker'ın yeteneğiyle doğru orantılıdır. Psişik ve Warp-zehirli düşmanlara karşı 41. Binyıl'ın en ölümcül yakın dövüş silahı.
+Nemesis Force Halberd, Grey Knights'ın en ölümcül ve en kutsal silahıdır — güçlü bir force halberd'dir. Bu silah, psyker gücüyle çalışır ve Chaos varlıklarına karşı özellikle etkilidir; tek vuruşta bir Greater Daemon'u bile etkisiz hale getirebilecek kadar güçlüdür. Nemesis Force Halberd, Grey Knights'ın en deneyimli üyelerinin kullandığı bir silahtır; bu silah, İmparatorluk'un en ölümcül ve en kutsal silahlarından biri olarak kabul edilir. Silah, Grey Knights'ın İmparator'un iradesini yerine getirmesinin en önemli aracı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

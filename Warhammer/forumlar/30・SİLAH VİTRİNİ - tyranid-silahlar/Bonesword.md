@@ -14,7 +14,7 @@ Kemikten oluşmuş, kılıç biçimli bir symbiote organizmadır. Sıradan bir k
 
 ## Tarihçe
 
-Tyranid Warrior'ları ve Hive Tyrant'lar bonesword taşır; bonesword çoğu kez lash whip ile birlikte kullanılır. Bu organizmaların Hive Mind'ın sinaptik ağındaki önemli yeri, silahın psişik niteliğiyle birlikte değerlendirilir.
+Bonesword, Tyranid'lerin en ölümcül ve en yaygın yakın dövüş silahıdır — kemikten yapılmış bir kılıçtır. Bu silah, hedefi parçalar ve onu tamamen yok eder; tek vuruşta bir Space Marine'in zırhını bile kesebilecek kadar güçlüdür. Bonesword, Tyranid'lerin en ölümcül ve en yaygın yakın dövüş silahıdır; bu silah, Tyranid'lerin en önemli ve en yaygın yakın dövüş silahıdır. Silah, Tyranid'lerin en ölümcül ve en yaygın yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

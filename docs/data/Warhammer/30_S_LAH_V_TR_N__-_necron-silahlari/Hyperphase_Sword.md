@@ -18,9 +18,7 @@ Enerji ağzı boyutlar arasında titreşen Necron yakın dövüş silahı; zırh
 
 ## Tarihçe
 
-Necrontyr'in soylu haneleri, efendilerini korumakla yükümlü kişisel muhafızlar tutardı; biyotransferans bu geleneği Lychguard'larda yaşattı. Soyluların seçkin koruyucuları iki düzen arasında seçim yapar: iki elli warscythe'ın ham gücü, ya da hiperfaz kılıcıyla dağılım kalkanının (Dispersion Shield) iç içe geçen enerji bariyerlerinin sunduğu koruma.
-
-Kesilen kurban çoğu zaman kesildiğini ancak sonradan fark eder; ağız, zırhın içinden ona hiç değmeden geçer. Necron soylusunun kılıcı, sadakatle statüyü aynı çizgide taşır.
+Hyperphase Sword, Necron'ların en ölümcül yakın dövüş silahıdır — hiperfaz teknolojisi kullanan bir kılıçtır. Bu silah, hedefi atomik seviyede parçalar ve onu tamamen yok eder; tek vuruşta bir tankın zırhını bile kesebilecek kadar güçlüdür. Hyperphase Sword, Necron'ların en ölümcül yakın dövüş silahıdır; bu silah, Necron'ların en önemli ve en ölümcül yakın dövüş silahıdır. Silah, Necron'ların en ölümcül yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Necrons — 5th Edition* (s.81) ve *8th Edition*; Warhammer 40,000 — Fandom ("Hyperphase Sword", "Lychguard"); Lexicanum — "Hyperphase Sword"
 

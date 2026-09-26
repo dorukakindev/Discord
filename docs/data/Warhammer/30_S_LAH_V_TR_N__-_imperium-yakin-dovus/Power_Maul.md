@@ -8,8 +8,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f8/HorusHeresyMeridiaPat
 Enerji yüklü topuz; kesmez, ezer. Arbites yargıçlarının yasası ve haçlı şövalyelerinin kafir kıran silahıdır.
 
 ## Tarihçe
-Power Maul, güç alanını kaba kuvvetle birleştirir: her darbe, şok dalgasıyla birlikte iner ve zırhın altındaki bedeni parçalar. Adeptus Arbites için bu silah hem cop hem idam aracıdır; hive şehirlerinin isyanlarında yargıç topuzunun çatırtısı, İmparatorluk yasasının sesi sayılır. Black Templars gibi haçlı chapterlarda ise topuz, kafirin kibrini kırmanın simgesidir.
 
+Power Maul, İmparatorluk'un en ölümcül yakın dövüş silahlarından biridir — enerji alanıyla çevrili bir gürzdür. Bu silah, enerji alanı sayesinde zırhı ezebilir ve tek vuruşta bir Space Marine'in zırhını bile delebilecek kadar güçlüdür; yakın mesafe çatışmalarda son derece etkilidir. Power Maul, özellikle İmparatorluk'un polis güçlerinin ve Adeptus Arbites'in tercihidir; bu silah, İmparatorluk'un en yaygın ve en ölümcül güçlü silahlarından biri olarak kalır.
 
 ## Teknik ve Kullanım
 Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı maddeyi hücresel düzeyde 'dağıttığı' için zırh ve eti aynı kolaylıkla keser. Power fist ve thunder hammer gibi ağır tipler tank zırhını bile parçalar.

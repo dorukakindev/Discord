@@ -15,7 +15,7 @@ Kızıl ceketleri, apoletleri ve kolonyal miğferleriyle tanınan, disiplinli ya
 
 ## Tarihçe
 
-Praetorian alaylarının en bilinen hikâyesi, bir Praetorian alayının yetersiz istihbaratla gönderildiği bir cephede devasa bir Ork WAAAGH!'ına karşı neredeyse yok olana dek savaşmasıdır.
+Praetorian Guard, İmparatorluk Muhafızı'nın en prestijli ve en ünlü alaylarından biridir — Praetoria gezegeninin elit birlikleridir. Praetorianlar, İmparatorluk'un en zengin ve en gelişmiş gezegenlerinden birinden gelir; birlikleri, pahalı ekipman ve kapsamlı eğitimle bilinir. Praetorian Guard, İmparatorluk'un en prestijli alaylarından birini oluşturur; birlikler, şehir savaşı ve garnizon görevlerinde efsanevidir. Alaylar, İmparatorluk Muhafızı'nın en prestijli ve en iyi donanımlı alaylarından biri olarak kalır.
 
 ## Kanon Notu
 

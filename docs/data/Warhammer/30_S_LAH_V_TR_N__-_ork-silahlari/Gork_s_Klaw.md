@@ -9,7 +9,7 @@ Ork peygamberi Ghazghkull Thraka'nın dev güç kıskacı; entegre topuyla birli
 
 ## Tarihçe
 
-Ork'ların dev hidrolik kıskacı; Power Fist'in kaba Ork karşılığı, kıvılcım saçan kesici-bıçaklı pençe. Daha ilkel ama aynı ölçüde ölümcül — Ork mühendisliğinin 'çalışıyorsa iyidir' kanıtı.
+Gork's Klaw, Ork'ların en efsanevi ve en ölümcül silahıdır — Gork adına yapılmış bir power claw'dır. Bu silah, Ork'ların en büyük ve en güçlü üyelerinin kullandığı bir silahtır; tek vuruşta bir Space Marine'in zırhını bile kesebilecek kadar güçlüdür. Gork's Klaw, Ork'ların en efsanevi ve en ölümcül silahıdır; bu silah, Ork'ların en büyük ve en güçlü üyelerinin en kritik aracıdır. Silah, Ork'ların en efsanevi ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

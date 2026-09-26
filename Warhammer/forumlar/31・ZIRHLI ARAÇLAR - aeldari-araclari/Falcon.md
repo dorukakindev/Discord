@@ -15,7 +15,7 @@ Hem ağır silah taşıyan hem de küçük bir savaşçı grubunu barındırabil
 
 ## Tarihçe
 
-Falcon gövdesi, Fire Prism ve Night Spinner gibi başka Aeldari araçlarının da temelini oluşturur. Craftworld ev sahiplerinde hem tank hem taşıyıcı olarak görev yapar.
+Falcon, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir — grav-tank sınıfının en ünlü örneğidir. Falcon, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Falcon, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir.
 
 ## Teknik / Biyolojik Özellikler
 

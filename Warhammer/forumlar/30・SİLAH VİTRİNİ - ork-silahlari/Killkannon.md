@@ -13,7 +13,7 @@ Battlewagon ve Big Trakk gibi ağır Ork araçlarının tepesine monte edilen de
 
 ## Tarihçe
 
-Ork ordularının mobil ağır ateş desteğinin temelidir; yürüyen kale Battlewagon'un ana yumruğudur. Ork topları için basitlik kusur değil erdemdir: doldur, kabaca doğrult, ateşle — gerisi ses ve kraterdir.
+Killkannon, Ork'ların en ölümcül ve en büyük silahıdır — devasa bir topdur. Bu silah, Ork'ların en büyük araçlarına monte edilir ve düşmanın en büyük hedeflerini etkisiz hale getirir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Killkannon, Ork'ların en ölümcül ve en büyük silahıdır; bu silah, Ork'ların en büyük araçlarının en kritik aracıdır. Silah, Ork'ların en ölümcül ve en büyük silahı olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

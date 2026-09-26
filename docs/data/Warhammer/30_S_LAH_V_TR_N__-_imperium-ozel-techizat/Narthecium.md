@@ -19,4 +19,8 @@ Space Marine Apothecary'lerinin kol aleti; yaralı kardeşi tedavi eder ve ölen
 ## Not
 Narthecium, Apothecary'nin 'can kurtarma + gene-seed'i kurtarma' ikileminin simgesidir — bazen kurtarma mümkün değilse progenoid çekimi tek öncelik olur.
 
+
+## Tarihçe
+
+Narthecium, Space Marines'in Apothecary'lerinin kullandığı en önemli cihazdır — tıbbi müdahale ve gene-seed çıkarma cihazıdır. Bu cihaz, yaralı Space Marine'leri tedavi etmek ve ölen Space Marine'lerin gene-seed'ini çıkarmak için kullanılır; gene-seed, Chapter'ın geleceğini garanti altına alan en değerli kaynaktır. Narthecium, Apothecary'lerin standart donanımıdır ve Space Marines'in en önemli cihazlarından biri olarak kabul edilir; bu cihaz, Chapter'ın hayatta kalmasını sağlayan en kritik araçtır. Cihaz, Space Marines'in en değerli ve en önemli cihazı olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

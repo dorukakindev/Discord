@@ -13,6 +13,6 @@ Zincir silahları monomoleküler dişlere sahip motorlu kılıç ve baltalardır
 
 ## Tarihçe
 
-Logan Grimnar'ın taşıdığı efsanevi Space Wolves baltası; Daemon Primarch Magnus'la dövüşürken kullanıldığı söylenen antik Frost Weapon. Chapter'ın kutsal emanetlerinden — kurt ve büyücü arasındaki kadim savaşın simgesi.
+Axe Morkai, Space Wolves'un en efsanevi silahlarından biridir — Morkai adlı efsanevi kurt adına yapılmış bir power axe'dir. Bu silah, Space Wolves'un en eski ve en değerli emanetlerinden biridir; Axe Morkai, Space Wolves'un en yüksek rütbeli figürlerinin kullandığı bir silahtır. Bu balta, Space Wolves'un en efsanevi silahlarından biri olarak kabul edilir ve Morkai'nin efsanevi statüsünün en önemli sembolüdür; Axe Morkai, İmparatorluk'un en değerli emanetlerinden biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

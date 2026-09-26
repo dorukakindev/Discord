@@ -16,7 +16,7 @@ Hareketli baskınlar, hızlı manevralar ve çölde hayatta kalma ustalığıyla
 
 ## Tarihçe
 
-Heresy sırasında Iron Warriors Tallarn'ı virüs silahlarıyla bombaladı; hayatta kalanlar sığınaklara çekilerek zehirli yüzeyde tarihin en büyük zırhlı çarpışmalarından biri olarak anlatılan Battle of Tallarn'ı sürdürdü. Bu savaşın ardından dünyanın yüzü çöle döndü. Sonraki binyıllarda Tallarn alayları çöl savaşının ve uzun menzilli baskınların ustaları olarak galaksiye dağıldı.
+Tallarn Desert Raiders, İmparatorluk Muhafızı'nın en ünlü çöl savaş birlikleridir — Tallarn gezegeninin çorak çöllerinden gelen askerlerdir. Tallarnlar, çöl savaşı ve mekanize piyade taktiklerinde efsanevidir; İmparatorluk'un en büyük tank savaşlarından biri olan Tallarn Savaşı, bu gezegende yaşandı. Tallarn Desert Raiders, hafif zırhlı ve hızlı birlikler olarak bilinir; çöl koşullarında İmparatorluk'un en etkili alaylarından biridir. Alaylar, İmparatorluk Muhafızı'nın en ünlü ve en etkili çöl savaş birlikleri olarak kalır.
 
 -# Kaynaklar: *Tallarn — John French*; *Codex: Astra Militarum*
 

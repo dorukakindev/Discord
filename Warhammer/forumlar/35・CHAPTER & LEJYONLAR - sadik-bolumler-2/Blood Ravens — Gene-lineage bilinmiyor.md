@@ -14,7 +14,7 @@ Kayıp bilgiye, kadim kalıntılara ve kendi unutulmuş geçmişine saplantıyla
 
 ## Tarihçe
 
-Gabriel Angelos komutasındaki 3rd Company'nin Tartarus'ta Orks, Chaos ve Aeldari kuvvetleri arasında sıkışan savaşı, Chapter'ın en bilinen seferlerinden biridir. Sonraki anlatılar Blood Ravens'i Aurelia çevresinde Tyranid'lere ve Chaos'a karşı savaşırken, Chapter içindeki bir yozlaşmayı da açığa çıkarırken gösterir. Great Rift sonrası durumları ayrıntılı işlenmemiştir.
+Blood Ravens, Space Marines'in en gizli ve en tartışmalı Chapter'larından biridir — gene-lineage'i bilinmeyen bir Chapter'dır. Blood Ravens, bilgi arayışı ve Librarian'ların yoğunluğuyla bilinir; Chapter'ın üyeleri, İmparatorluk'un en gizli bilgilerini arar ve korur. Blood Ravens, İmparatorluk'un en gizli ve en tartışmalı Chapter'larından biri olarak kalır; Chapter, İmparatorluk'un en önemli operasyonlarında görev alır.
 
 ## Teknik / Biyolojik Özellikler
 

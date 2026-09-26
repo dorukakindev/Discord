@@ -16,7 +16,7 @@ Işığı kristal bir odaktan geçirip yoğunlaştıran prism cannon ile tanına
 
 ## Tarihçe
 
-Craftworld ev sahiplerinin zırh avcısı ve ağır ateş desteği olarak kullanılır. Birden fazla Fire Prism'in ışınlarını birbirine aktararak tek bir yıkıcı atışta birleştirebildiği anlatılır; bu, Aeldari savaş sanatının kolektif inceliğini yansıtır.
+Fire Prism, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir — Prism Cannon ile donatılmış bir savaş platformudur. Fire Prism, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Fire Prism, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir.
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 

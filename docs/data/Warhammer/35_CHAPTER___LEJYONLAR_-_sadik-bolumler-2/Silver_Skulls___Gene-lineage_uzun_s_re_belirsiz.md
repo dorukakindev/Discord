@@ -14,7 +14,7 @@ Hiçbir büyük savaşa kehanet danışılmadan girmeyen, batıl inançlarıyla 
 
 ## Tarihçe
 
-Silver Skulls, M41 boyunca pek çok cephede savaştı ve Third War for Armageddon'a yedi company gönderdi. Gildar Rift'te Red Corsairs'in saldırısını karşılayan Chapter, Gildar Secundus'u savunan Captain Daerys Arrun'u sonunda Huron Blackheart'ın elinde yitirdi. 13th Black Crusade döneminde Guilliman soyundan oldukları doğrulanmış olarak anılır.
+Silver Skulls, Space Marines'in en gizli ve en tartışmalı Chapter'larından biridir — gene-lineage'i uzun süre belirsiz kalmış bir Chapter'dır. Silver Skulls, kehanet ve kehanet okuma geleneğiyle bilinir; Chapter'ın üyeleri, savaş öncesi kehanetleri okur ve bu kehanetlere göre hareket eder. Silver Skulls, İmparatorluk'un en gizli ve en tartışmalı Chapter'larından biri olarak kalır; Chapter, İmparatorluk'un en önemli operasyonlarında görev alır.
 
 ## Teknik / Biyolojik Özellikler
 

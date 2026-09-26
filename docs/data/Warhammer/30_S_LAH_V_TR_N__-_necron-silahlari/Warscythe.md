@@ -16,7 +16,7 @@ Uzun bir sapın ucuna yerleştirilmiş geniş bir bıçaktan oluşan, Necron ari
 
 ## Tarihçe
 
-Necron Lord'ları ve Overlord'ları warscythe'ı hem silah hem rütbe simgesi olarak taşır. Soyluların korumaları olan Lychguard'lar da warscythe ile savaşır; bu seçkinler efendilerine olan sadakatlerini biyotransferansın ardından bile korumuştur.
+Warscythe, Necron'ların en ölümcül ve en yaygın yakın dövüş silahıdır — savaş tırpanıdır. Bu silah, hedefi atomik seviyede parçalar ve onu tamamen yok eder; tek vuruşta bir Space Marine'in zırhını bile kesebilecek kadar güçlüdür. Warscythe, Necron'ların en ölümcül ve en yaygın yakın dövüş silahıdır; bu silah, Necron'ların en önemli ve en yaygın yakın dövüş silahıdır. Silah, Necron'ların en ölümcül ve en yaygın yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
 
