@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/52/RapierGrav.jpg/revision/latest?cb=20131006160713
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Grav-Cannon
 

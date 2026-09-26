@@ -1,33 +1,42 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900
 
-## Tarihçe
+-# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
+# Night Lords
 
-Night Lords (VIII Legion), Konrad Curze'un oğullarıdır; terör, korku ve adaletsiz bir adalet anlayışıyla savaşan ve Horus Heresy'de Chaos'a düşen ilk Legion'lardan biridir — onların savaşı, karanlıkta, sessizlikte ve dehşetle yapılır. Night Lords'un savaş doktrini, Curze'un vizyonundan doğar — onlar terörü silah olarak kullanır; bir Night Lord, düşmanını öldürmeden önce onu paralize edecek kadar korkutur ve onların savaşı, fiziksel olduğu kadar psikolojiktir. Night Lords'un en korkulan özelliği, onların sessizliğidir — onlar savaşta bağırmaz, konuşmaz, sadece avlanır ve öldürür; ve onların kurbanları, son nefeslerinde bile Night Lord'un yüzünü görmez. Night Lords'un düşüşü, Heresy'nin en karanlık hikâyesidir — Curze'un deliliği, Legion'un yozlaşması ve sonunda Curze'un kendi oğulları tarafından öldürülmesi; Night Lords, İmparatorluğun en karanlık efsanesidir ve onların adı, hâlâ terörün simgesidir.
+*Nostramo'nun Oğulları · VIII Legion · Korkunun Ustaları*
 
-https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900
+Terör ve psikolojik savaşı doktrin hâline getiren Legion. Güneşsiz Nostramo'nun suçla dolu kovan-şehirlerinden gelen savaşçılarıyla Night Lords, bir dünyayı savaşmadan teslim almak için önce onu bir kâbusa çevirirdi. Primarch'ları Konrad Curze'ün ölümünden sonra korsan savaş gruplarına dağıldılar; hiçbir Chaos tanrısına bağlanmadan korku, yağma ve intikam için savaşırlar.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+- **Kategori:** First Founding Legion (hain)
+- **Fraksiyon:** Chaos — Heretic Astartes (tanrısız / bağımsız)
+- **Primarch:** Konrad Curze, "Night Haunter" (ölü)
+- **Anavatan:** Nostramo (Curze tarafından yok edildi); sonra Tsagualsa
+- **Renkler:** Gece mavisi zırh, şimşek motifleri, kanatlı kafatası sembolü
+- **Önemli Olaylar:** Nostramo'nun yıkımı; Isstvan V; Thramas seferi; Tsagualsa; Curze'ün suikasti; Uzun Savaş korsanlığı
 
-# Night Lords — Gece Lordları (VIII. Lejyon)
+## Kuruluş ve Nostramo
+VIII Legion Terra'da kuruldu. Konrad Curze'ün Nostramo'da bulunmasından sonra Legion, Nostramo'nun karanlık ve suç dolu halkından alınan savaşçılarla yeniden biçimlendi. Bu savaşçıların çoğu, Nostramo'nun kovan-şehirlerinde çetelerde ve suç örgütlerinde büyümüş insanlardı. Night Lords'un gen-tohumu savaşçılarına solgun ten ve karanlıkta keskin görme yeteneği kazandırdı.
 
-Terör ve korkuyu silah olarak kullanan, psikolojik savaşın ustası lejyon.
+## Great Crusade: Terör Doktrini
+Night Lords, Crusade'in en vahşi ve en korkulan Legion'ıydı. Legion'ın savaş doktrini basitti: bir dünyayı teslim almak için önce korkunç bir örnek vermek. Şehirleri katletmek, liderleri parçalamak, çığlıkları vox kanallarından yayınlamak ve cesetleri sergilemek standart araçlardı. Bu yöntem, pek çok dünyanın savaşmadan teslim olmasını sağladı; ama diğer Legion'lar ve Imperium'un yöneticileri tarafından tiksintiyle karşılandı.
 
-- **Kuruluş:** Lejyon (1. Kuruluş)
-- **Bağlılık:** Hain
-- **Primarch:** Konrad Curze
-- **Ana Dünya:** (yok edilen Nostramo)
-- **Color:** Koyu mavi-siyah, yıldırım
-- **Tactics:** Terör taktikleri, gece baskınları, korku yayma ve moral kırma.
-- **Kanon Sınıfı:** A — resmî kaynak
+Curze'ün yokluğunda Nostramo yeniden suça gömüldü. Primarch bunu öğrendiğinde Legion'ının gemileriyle kendi anavatanını yok etti. Bu olay, Night Lords'u köklerinden koparan bir dönüm noktası oldu. Crusade'in son yıllarında Emperor, Legion'ın yöntemlerini soruşturmaya başlamıştı.
 
-## Kayıt
+## Horus Heresy
+Night Lords, Isstvan V'teki Drop Site Massacre'da ihaneti gerçekleştiren ikinci dalgadaydı. Heresy boyunca Legion, özellikle **Thramas**'ta Dark Angels'a karşı uzun bir sefer yürüttü. Night Lords'un Heresy'deki savaşı disiplinli bir strateji değil, korku ve yağma üzerine kurulu bir yıkımdı. Terra Kuşatması'na katılsalar da Legion, zaten birliğini büyük ölçüde yitirmişti.
 
-Night Lords, primarch'ları Konrad Curze'ün (Night Haunter) terörle adalet felsefesini bir savaş doktrinine çevirdi; amaçları öldürmekten çok dehşet salmaktır. Karanlık ve suçla boğulmuş kovan dünyası Nostramo'nun atmosferini taşırlar: korku, en güçlü silahtır.
+## Tsagualsa ve Primarch'ın Ölümü
+Heresy'nin ardından Night Lords, Eastern Fringe'deki **Tsagualsa**'ya çekildi. Curze, Emperor'un kendisine bir suikastçı göndereceğini biliyordu ve kaçmadı. Callidus suikastçısı **M'Shen** Primarch'ı öldürdü; Legion liderliksiz kaldı. Primarch'ın ölümünden sonra Tsagualsa, Imperium'un saldırısıyla yıkıldı.
 
-Curze, Nostramo'da suçu yalnızca akıl almaz bir terörle dizginleyebileceğine inanmıştı; suçluları parçalar, cesetlerini ibret için sergilerdi. Bu doktrin lejyona da işledi: Night Lords bir gezegeni teslim almak için önce bir şehri kâbusa çevirir (rastgele dehşet, parçalanmış cesetler, çığlıklar), geri kalanını korkudan teslim olmaya zorlar.
+## Uzun Savaş
+Primarch'ın ölümüyle Night Lords, bağımsız savaş gruplarına ve korsan filolarına bölündü. Hiçbir Chaos tanrısına açıkça bağlanmadılar; Chaos'u bir araç olarak kullandılar ama ona tapmadılar. Night Lords savaş grupları, Imperium'un sınır dünyalarına baskınlar yapar, köle ve kaynak toplar, terör yayar.
 
-Diğer hain lejyonlardan farklı olarak, Night Lords'un çoğu Kaos Tanrıları'na bile tapmaz; onlar için ne ideoloji ne de din önemlidir. Korkuyu yaymayı, kurbanlarının çığlıklarını ve kâbus gibi itibarlarını yeterli bulurlar; kendilerini kahraman ya da kurtarıcı değil, sadece korkunun ustaları olarak görürler.
+Aaron Dembski-Bowden'ın *Night Lords* üçlemesi, **Talos Valcoran** adlı kehanet yeteneğine sahip bir Night Lord ve onun **First Claw** adlı birliğinin hikâyesini anlatır. Talos, Primarch'ının vizyon yeteneğini miras almış nadir savaşçılardandır. Üçleme, Night Lords'un Uzun Savaş'taki psikolojisini ve Legion'ın çöküşünü derinlemesine işler.
 
-Night Lords, Heresy'de Horus'un safındaydı ama aslında hiçbir tarafa tam ait değildi; anarşik, dağınık ve nihilist bir güçtür. Anavatanları Nostramo'yu kendi primarch'ları yörüngeden yok etti, bu yüzden hiçbir yere bağlı değiller. Onlar, psikolojik savaşın ve saf terörün somut halidir; bir Night Lords saldırısının asıl silahı, dökülen kandan çok, geride bıraktıkları kâbus gibi anılardır.
+## Günümüz
+Era Indomitus'ta Night Lords, Great Rift'in açılmasıyla oluşan kaostan yararlanarak Imperium'un kopuk dünyalarına yönelik baskınlarını yoğunlaştırdı. Legion'ın savaşçıları, **Raptor**'lar ve **Warp Talon**'lar gibi uçan saldırı birlikleriyle bilinir. Night Lords, Chaos Space Marines içinde bağımsız ve tanrısız bir kimliği korur.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Savaş Tarzı
+Night Lords, gece baskınları, psikolojik savaş ve terör taktikleri üzerine kurulu bir savaş tarzına sahiptir. Düşmanın liderlerini ortadan kaldırmak, iletişimi kesmek, korku yayan sesleri ve görüntüleri kullanmak Legion'ın standart araçlarıdır. Zırhlarını kafatasları, deri parçaları ve kurbanlarının kalıntılarıyla süslerler.
+
+-# Kaynaklar: *Night Lords* üçlemesi (*Soul Hunter*, *Blood Reaver*, *Void Stalker*) — Aaron Dembski-Bowden; *Prince of Crows* — Aaron Dembski-Bowden; *The Dark King* — Graham McNeill; *Konrad Curze: The Night Haunter* — Guy Haley; *Codex: Chaos Space Marines*; *Index Astartes: Night Lords*; Lexicanum

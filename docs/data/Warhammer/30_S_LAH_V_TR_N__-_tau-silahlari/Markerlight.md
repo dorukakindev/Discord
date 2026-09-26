@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/45/Marker_Drone.jpg/revision/latest?cb=20130306064619
+
 -# THE IMPERIAL ARCHIVE · Tau Silahlari · Kayıt
 # Markerlight
 

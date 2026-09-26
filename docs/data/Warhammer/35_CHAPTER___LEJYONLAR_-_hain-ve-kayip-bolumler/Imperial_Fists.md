@@ -1,33 +1,42 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/a3/IF_Shoulder_Pad_2.jpg/revision/latest?cb=20181125055310
 
-## Tarihçe
+-# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
+# Imperial Fists
 
-Imperial Fists, İlk Kuruluş chapter'larından biridir ve İmparator'un Birleşme Savaşları sırasında Terra'dan yükselttiği VII. Legiones Astartes'ti; sabit homeworld'ü olmamasıyla diğerlerinden ayrılır — hareketli kale-manastır Phalanx'te yaşarlar. 'Sur efendisi' olarak kuşatma savunmasının efsanevi ustasıdır.
+*The VII Legion · Emperor's Praetorians · Terra'nın Kalkanı*
 
-https://static.wikia.nocookie.net/warhammer40k/images/a/a3/IF_Shoulder_Pad_2.jpg/revision/latest?cb=20181125055310
+Savunma, tahkimat ve sarsılmaz sadakatin Legion'ı. Heresy'de Imperial Palace'ı tahkim eden ve Terra Kuşatması'nda savunmanın belkemiği olan Imperial Fists, Iron Warriors'la on bin yıllık bir kan davası sürdürür. Bugün mobil kale-manastır Phalanx'tan savaşan bir Chapter'dır; Black Templars ve Crimson Fists gibi ünlü Successor'ların atasıdır.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+- **Kategori:** First Founding Legion (sadık) → First Founding Chapter
+- **Fraksiyon:** Imperium — Adeptus Astartes
+- **Primarch:** Rogal Dorn (ölü kabul edilir)
+- **Anavatan:** Inwit (köken); Terra; bugün mobil kale-manastır **Phalanx**
+- **Renkler:** Sarı zırh, siyah ve kırmızı detaylar
+- **Önemli Olaylar:** Imperial Palace'ın tahkimatı; Phall; Terra Kuşatması; Iron Cage; Dorn'un kayboluşu; Rynn's World (Crimson Fists)
 
-# Imperial Fists — İmparatorluk Yumrukları (VII. Lejyon)
+## Kuruluş ve Great Crusade
+VII Legion, Terra'da kurulan ilk Legion'lardan biriydi. Rogal Dorn'un Inwit'te bulunmasından sonra Legion onun disiplinine ve mühendislik anlayışına göre biçimlendi. Imperial Fists hem hücumda hem savunmada ustaydı; asıl ünleri tahkimat inşası ve kuşatma savunmasıydı. Legion'ın donanması güçlüydü ve Phalanx, Legion'ın amiral kalesi oldu.
 
-Terra savunmasının mimarı; kuşatma, tahkimat ve sarsılmaz iradenin lejyonu.
+**Sigismund**, Legion'ın Birinci Kaptanı ve Emperor's Champion olarak Crusade'in en ünlü kılıç ustalarından biriydi. Onun dinsel coşkusu ve Emperor'a bağlılığı, sonradan Black Templars geleneğinin kökenini oluşturdu.
 
-- **Kuruluş:** Lejyon (1. Kuruluş)
-- **Bağlılık:** Sadık
-- **Primarch:** Rogal Dorn
-- **Ana Dünya:** Phalanx (yıldız kalesi)
-- **Color:** Sarı, siyah yumruk
-- **Tactics:** Kuşatma savaşı, savunma, acıya direnç (Pain Glove geleneği).
-- **Kanon Sınıfı:** A — resmî kaynak
+## Horus Heresy
+Heresy başladığında Imperial Fists'in büyük kısmı Terra'daydı; Emperor, Crusade'in sonlarında Dorn'u Imperial Palace'ı tahkim etmekle görevlendirmişti. Legion Isstvan V'e gönderilen ilk dalgaya katılmadı ve bu yüzden Drop Site Massacre'dan kurtuldu. Ancak Legion'ın bir filosu **Phall**'da Iron Warriors'la korkunç bir donanma çatışmasına girdi ve ağır kayıplar verdi.
 
-## Kayıt
+Imperial Fists, Imperial Palace'ı Horus'un saldırısına karşı yıllarca tahkim etti. Terra Kuşatması'nda Legion, savunmanın merkezindeydi: Dorn'un komutasında Imperial Fists, Iron Warriors'ın kuşatma makinelerine ve hain Legion'ların saldırılarına karşı surları korudu. Sigismund ise kuşatmanın en ünlü düellolarında yer aldı; Khârn gibi hain şampiyonlarla karşılaştı (*Siege of Terra*).
 
-Imperial Fists, primarch'ları Rogal Dorn'un sarsılmaz iradesini, dürüstlüğünü ve savunma dehasını miras almıştır; kuşatma savaşı ve tahkimatta galaksinin en iyileridir. Dev yıldız kalesi Phalanx (Heresy çağından kalma muazzam bir savaş istasyonu) onların gezici evi ve kalesidir.
+## Iron Cage ve Codex
+Heresy'nin ardından Dorn, Codex Astartes'e ve Legion'ın Chapter'lara bölünmesine karşı çıktı. **Iron Cage**'de Iron Warriors, Imperial Fists'i Schadenhold'daki kale ağında yıpratıcı bir kuşatmaya hapsetti; Legion ancak Guilliman'ın müdahalesiyle kurtarılabildi. Bu yenilgi Dorn'u Codex'i kabul etmeye yöneltti. Legion, **Second Founding** ile Imperial Fists, **Black Templars** ve **Crimson Fists** gibi Chapter'lara bölündü. Black Templars, Codex'e tam olarak uymayan ve sürekli bir haçlı seferi yürüten bir Chapter olarak Sigismund'un mirasını taşır.
 
-En büyük onurları, Horus Heresy'nin doruğunda Terra Kuşatması'nda İmparator'un kalkanı olmalarıdır; Dorn'un tasarladığı milyon kilometrelik İmparatorluk Sarayı surlarını savundular ve insanlığın hayatta kalmasını sağladılar. O günden beri kendilerini en zor, en umutsuz savunma ve kuşatma görevlerine adarlar.
+## Kefaret Gelenekleri
+Imperial Fists, Dorn'un Heresy sonrası kendini cezalandırma geleneğini sürdürür. **Pain Glove**, savaşçıların sinir uçlarını uyararak acıya dayanıklılık kazandıran bir ritüel eldivendir. Chapter'ın **Chapel of Pain** adlı mekânları, kefaret ritüellerinin yapıldığı yerlerdir. Bu gelenekler, Chapter'ın acıya dayanıklılığı ve kendini sınama kültürünün bir parçasıdır.
 
-Dorn'dan miras kalan en sıra dışı gelenekleri, acıya verdikleri değerdir; "Pain Glove" denen bir cihazla acıyı bir disiplin ve arınma aracı olarak deneyimlerler. Bu sertlik ve kendini cezalandırma kültürü, onları olağanüstü dayanıklı ve inatçı yapar; asla geri çekilmez, asla pes etmezler.
+## Dorn'un Kayboluşu ve Kan Davası
+Rivayete göre Dorn, Eye of Terror'un kenarlarında Black Templars'la birlikte savaşırken kayboldu; yalnızca iskelet eli bulundu ve bugün Phalanx'ta saklanır. Iron Warriors'la kan davası on bin yıl sürdü: **Hydra Cordatus** ve diğer kuşatmalarda iki Legion'ın mirasçıları defalarca karşı karşıya geldi.
 
-Imperial Fists, İmparatorluğun "duvarı"dır; saldırı ihtişamından çok savunma azmiyle, parlak zaferlerden çok sarsılmaz dayanıklılıkla tanımlanırlar. Halefleri arasında fanatik Black Templars ve azimli Crimson Fists vardır. Onlar, en güçlü kuşatma karşısında bile kırılmayan iradeyi, görevin acıdan üstün olduğu inancını temsil eder.
+## Era Indomitus
+Imperial Fists, Era Indomitus'ta Terra'nın ve Imperium Sanctus'un savunmasında yeniden merkezi bir rol oynar; Great Rift'in açılmasıyla birlikte Indomitus Crusade'e ve Terra'yı çevreleyen savaşlara katıldı. 2026'da başlayan "Reign of Iron" anlatısı, Iron Warriors'la kan davasının yeniden alevlenebileceğine işaret eder.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Savaş Tarzı
+Imperial Fists, savunma savaşlarında ve kuşatma savunmasında dünyanın en iyilerindendir. Ağır silahlar, tahkimat inşası ve sabırlı, metodik savaş tarzı Chapter'ın karakteristiğidir. Aynı zamanda kuşatma saldırılarında da ustadırlar; Iron Warriors'ın kalelerini düşürme konusunda uzmanlaşmışlardır.
+
+-# Kaynaklar: *The First Wall* — Gav Thorpe; *Siege of Terra* serisi; *The Solar War* — John French; *Rogal Dorn: The Emperor's Crusader* — Guy Haley; *Codex: Space Marines*; *Index Astartes: Imperial Fists*; Lexicanum

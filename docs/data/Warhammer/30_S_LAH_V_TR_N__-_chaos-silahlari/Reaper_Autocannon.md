@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3e/Reaper_Autocannon_colour.jpg/revision/latest?cb=20120928040845
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Reaper Autocannon
 

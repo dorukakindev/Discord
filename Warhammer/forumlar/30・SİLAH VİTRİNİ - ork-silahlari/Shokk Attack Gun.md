@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/ee/BigMek.jpg/revision/latest?cb=20121129161126
-
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Shokk Attack Gun
 

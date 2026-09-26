@@ -3,17 +3,40 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/64/EmperorsChildrenArmou
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # III — Emperor's Children
 
-Mükemmelliği kutsal bir yükümlülük sayan Legion; Emperor'un adını taşıma ayrıcalığının verdiği gurur, zamanla sınır tanımayan bir aşırılık arayışına ve Slaanesh'e teslimiyete dönüştü.
+*Kusursuzluğun Oğulları · III Legion · Slaanesh'in Hizmetkârları*
 
-- **Kategori:** First Founding Legion (Traitor) — <#1551629143723081848>
-- **Fraksiyon:** Heretic Astartes / Slaanesh
-- **Dönem:** Great Crusade'den Era Indomitus'a
-- **Köken:** Primarch'ı Chemos'ta yetişen Fulgrim'dir. Legion, erken dönemde yaşadığı ağır bir gene-seed felaketiyle neredeyse tükenmişken Fulgrim'in bulunmasıyla Chemos'tan gelen savaşçılarla yeniden kurulmuştur.
-- **Teknik / Biyolojik Özellikler:** Aşırı duyusal uyarım arayışı; sonic silahları kullanan Noise Marine'ler Legion'ın bozulmuş estetiğinin simgesidir.
-- **Bilinen Kullanıcılar / Operatörler:** Emperor's Children savaş grupları; Lucius the Eternal.
-- **Önemli Olaylar:** Laer; Istvaan V; Skalathrax; Fulgrim'in dönüşü.
-- **Kanon Notu:** Fulgrim'in dönüşünün ayrıntıları güncel yayınlarla gelişmektedir; eski kaynaklar Legion'ı yalnızca dağınık bir kalıntı olarak anlatır.
+Mükemmeliyeti kutsal bir ideal olarak benimseyen, Emperor'un aquila'sını göğsünde taşıma ayrıcalığına sahip Legion. Primarch'ları Fulgrim'le birlikte Slaanesh'e düştü; kusursuzluk arayışını aşırılık, haz ve duyusal deneyim takıntısına çevirdi. Bugün Emperor's Children, birbirinden bağımsız yüzlerce savaş grubu hâlinde galaksiye dağılmıştır; 2025'te yayımlanan Codex ile yeniden sahnededir.
 
-## Tarihçe
+- **Kategori:** First Founding Legion (hain)
+- **Fraksiyon:** Chaos — Heretic Astartes / Slaanesh
+- **Primarch:** Fulgrim (Daemon Primarch)
+- **Anavatan:** Chemos (Heresy sonrasında terk edildi)
+- **Renkler:** Heresy öncesi mor zırh ve altın süsler; Chaos döneminde pembe, mor ve siyah
+- **Önemli Olaylar:** Laer; Isstvan III ve V; Terra Kuşatması; Skalathrax; Codex: Emperor's Children (2025)
 
-Emperor's Children (III Legion), Fulgrim'in oğullarıdır; mükemmellik, sanat ve aşırılık üzerine kurulu ve Horus Heresy'de Slaanesh'e düşen ilk Legion'dur — onların savaşı, hem estetik hem de aşırı bir zevk arayışıdır. Emperor's Children'ın düşüşü, Fulgrim'in trajedisidir — onların primarch'ı, mükemmellik arayışında Slaanesh'in tuzağına düştü ve Legion'u, aşırılık ve zevkin kölesi oldu; ve onların savaşı, artık sadece öldürmek değil, en güzel ve en aşırı deneyimi yaşamaktır. Emperor's Children'ın savaşı, bir performanstır — onlar savaşta dans eder, müzik yapar ve düşmanını en sanatsal şekilde öldürür; bir Noise Marine'in sonic saldırısı, hem silah hem de senfonidir ve onların savaşı, Slaanesh'in tapınağıdır. Emperor's Children,
+## Kuruluş ve Neredeyse Yok Oluş
+III Legion, Terra'da yaratılan ilk Legion'lar arasındaydı. Great Crusade'in erken döneminde bir gen-tohumu kazası Legion'ı neredeyse yok etti; yalnızca iki yüz kadar savaşçı hayatta kaldı. Fulgrim'in bulunmasından sonra Legion, Primarch'ın gen-tohumuyla yavaş yavaş yeniden büyüdü. Bir süre Horus'un Luna Wolves'u ile birlikte savaşan Legion, Emperor tarafından **Emperor's Children** adıyla onurlandırıldı ve göğüslerinde aquila'yı taşıma ayrıcalığını kazandı.
+
+## Great Crusade: Mükemmeliyet Kültü
+Emperor's Children, Crusade'in en disiplinli ve en özenli Legion'larından biriydi. Legion'ın savaş doktrini, her görevi kusursuz bir biçimde tamamlamayı hedefliyordu. Kılıç ustalığı, düello geleneği ve sanatla iç içe geçen savaşçı kültürü Legion'ın simgesiydi. **Lucius**, **Eidolon**, **Saul Tarvitz** ve **Fabius** gibi figürler bu dönemde öne çıktı.
+
+## Laer ve Düşüş
+Laer adlı xenos türüne karşı yürütülen seferde Legion, Slaanesh'e bağlı bir daemon kılıcıyla temas kurdu. Kılıcı alan Fulgrim'in zihni yavaş yavaş bozuldu; Laer tapınaklarında bulunan aşırılık kültü Legion'a yayıldı. Fabius'un Apothecarion'ı, Legion'ın savaşçılarının duyularını kimyasal ve cerrahi yöntemlerle geliştirmeye başladı. Legion'da uyuşturucu kullanımı, aşırı estetik ve haz arayışı hızla yayıldı.
+
+## Horus Heresy
+Emperor's Children, Horus'un ihaneti başladığında onun yanında yer aldı. **Isstvan III**'te Legion'ın sadık savaşçıları, Saul Tarvitz önderliğinde virüs bombardımanından kurtularak direnişe geçti ve hainlerin planını geciktirdi. **Isstvan V**'teki Drop Site Massacre'da Emperor's Children ihanet dalgasının içindeydi; Fulgrim, Ferrus Manus'un başını kesti.
+
+Heresy boyunca Legion, Slaanesh'e giderek daha fazla bağlandı. Terra Kuşatması'nda Emperor's Children, Imperial Palace'a haz ve dehşet getirdi; savaşçılarının bir kısmı sonik silahlar ve duyusal saldırı taktikleriyle savaştı. Legion'ın **Noise Marine**'leri bu dönemin mirasıdır.
+
+## Uzun Savaş
+Heresy'nin ardından Emperor's Children, Eye of Terror'a çekildi. **Skalathrax**'ta World Eaters'la yaşanan savaş, Legion'ın ağır kayıplar vermesine yol açtı; Abaddon'un Black Legion'ı kurması sırasında Emperor's Children'ın savaşçıları kaçırılıp Fabius Bile'nin deneylerine malzeme yapıldı. Legion, birleşik bir güç olarak sona erdi ve bağımsız savaş gruplarına dağıldı.
+
+## Günümüz: Codex: Emperor's Children
+2025'te yayımlanan Codex'e göre Emperor's Children bugün yüzlerce bağımsız savaş grubu hâlinde faaliyet gösterir. Bu grupların liderleri kendilerine gösterişli unvanlar verir ve birbirleriyle sık sık çatışır. Fulgrim uzun süreler boyunca Legion'ından uzak kalsa da savaş gruplarının çoğu hâlâ ona tapar.
+
+Emperor's Children'ın savaş anlayışı, her dünyaya özgü, özenle tasarlanmış vahşetlerle doludur: bir gezegene saldırmadan önce zehirli gösteriler, sarhoş edici kokular ve sonik silahlarla bir duyusal bombardıman yapılır. **Lucius the Eternal**, bu dönemin en ünlü şampiyonudur: onu öldüren kişinin bedeninden yeniden doğma laneti, onu ölümsüz kılar.
+
+## Savaş Tarzı
+Emperor's Children, kılıç ustalığına, sonik silahlara ve duyusal saldırılara dayanır. Savaşçıları, uyuşturucular ve cerrahi değişikliklerle duyularını aşırı düzeyde geliştirmiştir. Legion için savaş, bir deneyim ve sanat biçimidir; her savaş, yeni bir duyum arayışıdır.
+
+-# Kaynaklar: *Fulgrim* — Graham McNeill; *Galaxy in Flames* — Ben Counter; *Angel Exterminatus* — Graham McNeill; *Codex: Emperor's Children* (2025); *Lucius: The Faultless Blade* — Ian St. Martin; Lexicanum; Tabletop Battles, "The Lore of Codex: Emperor's Children"

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9e/The_Despoiler_Gothic_War.jpg/revision/latest?cb=20120907172527
-
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Sayısız Savaş Çağı
 

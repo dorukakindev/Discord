@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/db/TalledusWarMap.jpg/revision/latest?cb=20191204233724
+
 -# THE IMPERIAL ARCHIVE · KAYIT · Kayıt
 # Serita
 *Benediction savunucusu canoness*

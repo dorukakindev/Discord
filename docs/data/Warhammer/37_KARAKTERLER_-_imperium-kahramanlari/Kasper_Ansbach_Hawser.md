@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/ad/BA_war_Chapter_Master_Raldoron.png/revision/latest?cb=20250530221822
+
 -# THE IMPERIAL ARCHIVE · KAYIT · Kayıt
 
 # Kasper Ansbach Hawser
