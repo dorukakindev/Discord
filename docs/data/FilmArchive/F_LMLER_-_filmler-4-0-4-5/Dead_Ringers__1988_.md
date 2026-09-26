@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg
 > **Yönetmen:** David Cronenberg · **Tür:** Dram, Korku, Gerilim · **Süre:** 115 dk · **Dil:** İngilizce · **Yıl:** 1988
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve psikolojik mekanizma 8/10.
 
-Elliot, a successful gynecologist, works at the same practice as his identical twin, Beverly. Elliot is attracted to many of his patients and has affairs with them. When he inevitably loses interest, he will give the woman over to Beverly, the meeker of the two, without the woman knowing the difference. Beverly falls hard for one of the patients, Claire, but when she inadvertently deceives him, he slips into a state of madness.
+Cronenberg'in ikiz 'kabusu: Beverly ve Elliot Mantle (Jeremy Irons), jinekolog ikizler, bir kadını paylaşır — kod ve kimlik çözülür.
 
 ### Puanlar
 IMDb **7.2/10** · Letterboxd **3.85/5** · nMDB **74.5**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Dead Ringers (1988) · Derin Analiz
 # Ayrıntılı konu
-Cronenberg'in 'ikiz' filmi: Beverly ve Elliot Mantle (ikisi de Jeremy Irons) — jinekolog, 'kadınları' 'paylaşırlar'; Beverly 'duygusal', Elliot 'soğuk'tur. Claire Niveau — 'kısır' aktris — Beverly'yi 'kırar': 'Bir kadınla yatıyorum ama erkek değilim.' Beverly 'delirir' — uyuşturucu, 'garip' aletler, 'kadın' bedeni 'korku'ya dönüşür. Sonunda ikizler 'ayrılamaz' — 'Beverly' 'Elliot'u 'öldürür' ama 'kendini' de 'öldürür'.
+
+Toronto: Beverly ve Elliot Mantle, başarılı jinekolog ikizler, klinik ve özel hayatı paylaşır. Claire Niveau (Geneviève Bujold) — ünlü aktris, üç rahim anomalisi — her ikizle ilişki kurar ama farkı bilmez. Beverly paranoya ve uyuşturucu bağımlısı olur; Elliot kontrolü kaybeder. Alet — jinekoloji aletleri — kadın vücudu için tasarlanmış ama canavar gibi görünür. Bir olmak — senkronize — son çaredir.
+
+# Üretim ve arka plan
+
+David Cronenberg'in biyografik film — gerçek ikiz doktor hikâyesinden esinlenme; Jeremy Irons'un ikili 'rolü — mükemmel senkronizasyon ve fark. Body horror — kadın anatomisi — Cronenbergin imza teması. Jinekoloji — iç organ ve çatlak — ikiz ilişkisinin metaforudur.
 
 # Tez
-İkizlik, 'bölünme' değil 'birlik' ister — Cronenberg'in tezi: Beverly ve Elliot 'tek' ruhtur; 'ayrılık' onları 'öldürür'. 'Kadın bedeni' — 'doktor' ile 'hasta' arasındaki 'sınır' — 'kontrol' ile 'teslim' arasındaki 'savaş' alanıdır.
 
-## Mekanizma
-Jeremy Irons'ın 'çift' performansı — 'aynı' ama 'farklı' — 'ikizlik'i 'beden'de verir; 'cerrahi aletler' — 'Mantle Retractor' — 'insan'ın 'mekanik' halidir. 'Gösterişli' setler — 'twin' odalar, 'ayna' görüntüleri — 'benlik'in 'bölünmesi'ni görselleştirir. 'Claire' karakteri — 'dışarıdan' — 'ikizlerin' 'iç' dünyasını 'açar'.
+Benlik, çift halinde bölünür — Cronenberg'in tezi: ikizler bir kişi değil ama iki kişi de 'değildir; aşk ve bilim sınırları bulanıklaştırır. Ölüm — birlikte — tek çözümdür.
+
+## Karşılama ve miras
+
+Cronenberg'in 'ikiz' filmi; gerçek Stewart ve Cyril Marcus hikâyesinden (1975'te New York'ta birlikte ölen ikiz jinekologlar). Jeremy Irons'un ikili rolü — senkronizasyon ve fark — 'performans sihirbazlığı'. 'Gynecological instruments for mutant women' — 'kadın bedeni için tasarlanmış canavar aletler' — Cronenberg'in 'body horror' zirvesi.
+
+## Mekanizma ve biçem
+
+Klinik ışık — beyaz ve soğuk; ayna — yansıma ve kopya — ikizlik görseldir. Alet — metal ve cam — insan değil makine gibidir.
 
 ## Kişisel uygunluk
-Kimlik, ikizlik ve 'beden' korkusu profiline çok güçlü uyuyor.
+
+İkizlik ve beden — psikolojik+body-horror profil için tam uyum.
 
 -# THE FILM ARCHIVE · Dead Ringers (1988) · Notlar
 ### Tartışmalar & Notlar

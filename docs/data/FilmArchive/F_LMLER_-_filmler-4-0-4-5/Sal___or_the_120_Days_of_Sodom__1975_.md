@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg
 > **Yönetmen:** Pier Paolo Pasolini · **Tür:** Dram · **Süre:** 117 dk · **Dil:** Fransızca, Almanca, İtalyanca · **Yıl:** 1975
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-1944 Salò'sunda dört faşist, kaçırılan 16 gence 'hikâye anlatıcıları'nın ritüelleriyle işkence eder; Pasolini'nin soğuk kamerası iktidarın bedeni nasıl nesneleştirdiğini gösterir.
+Pasolini'nin son 'filmi: Salo Cumhuriyetinde dört seigneur — Genç kız ve erkekler tutsak edilir — faşizm ve tüketim eleştirisidir.
 
 ### Puanlar
 IMDb **5.8/10** · Letterboxd **3.03/5** · nMDB **59.3**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Salò, or the 120 Days of Sodom (1975) · Derin Analiz
 # Ayrıntılı konu
-Pasolini'nin 'son' filmi: 1944, Salò Cumhuriyeti — 'faşist' 'kalıntı' — '16' 'genç' 'kaçırılır' ve '4' 'yaşlı' 'hikâye' 'anlatıcısı' 'tarafından' 'yönetilir'. 'Kurallar' — 'düğün', 'öğün', 'yemek' — 'aşağılama' 'ritüel'dir; 'odalar' 'her' 'gün' 'daha' 'kötü' 'olur'. 'İktidar' 'beden'i 'kullanır' — 'dışkı', 'işkence', 'ölüm' — 'sadizm' 'sistem'dir.
+
+1944, İtalya'nın Salo Cumhuriyetinde Dük, Piskopos, Sefarad ve Başkan — 18 genç kız ve erkek — kırsal villaya kaçırılır. Kütüphane — hikâye okuma — zihin yıkımıdır. Yemek — dışkı ve kan — beden aşağılanır. Sahne — gösteri ve kostüm — güç oyunudur. Son — bahçe ve kan — zevk ve ölüm birleşir.
+
+# Üretim ve arka plan
+
+Pier Paolo Pasolini'nin Marquis de Sadeın 120 Days of Sodom romanını faşizm ile 'birleştirmesi; film çekim sonrası Pasolini cinayet için öldürüldü (1975). Salò — İtalyan Sosyal Cumhuriyeti — Mussolininin son kalesi. Tüketim — modern kapitalizm ile faşizm — beden metadır.
 
 # Tez
-Güç, 'insan'ı 'nesne' 'yapar' — Pasolini'nin tezi: 'faşizm' 'sadece' 'tarihsel' değil 'antropolojik'tir — 'insan' 'insan'ı 'yer'; 'sanat' — 'hikâye', 'müzik' — 'vahşeti' 'estetize' 'eder' ama 'kurtarmaz'. 'Son' 'an' — 'dans' — 'ölüm' 'eğlence'dir.
 
-## Mekanizma
-'Ritüel' — 'odalar' 'değişir' — 'düzen' 'korku' 'yaratır'; 'Pasolini' 'kamera'sı — 'soğuk', 'uzak' — 'izleyici' 'suç' 'ortağı'dır. 'Şiddet' — 'açık' ama 'gösterişsiz' — 'yok' 'etme' 'süreci'dir; 'final' — 'iki' 'asker' 'dans' 'eder' — 'gençlik' 'korunamaz'.
+Güç, bedeni meta yapar — Pasolini'nin tezi: faşizm ve tüketim aynı mantıktadır; zevk yok eder. Sahne — açık hava — gösteri ve ölüm.
+
+## Karşılama ve miras
+
+Pasolini'nin son filmi; 'de Sade'ın '120 Gün'ünü 'Salò Cumhuriyeti'ne taşıma — 'faşizm + tüketim'. 'Pasolini cinayeti' — film çekim sonrası öldürüldü — 'tehlikeli metin'. 'Kütüphane' — 'hikâye okuma' — 'zihin yıkımı'. 'Yemek = dışkı ve kan' — 'beden aşağılama' — 'güç = meta'. 'En tartışmalı film' — 'kült ama izlenmesi zor'.
+
+## Mekanizma ve biçem
+
+Simetrik kompozisyon — düzen ve düzensizlik; renk — pastel ama kirli — güzellik içinde korku. Yüzler — genç ve yaşlı — masumiyet ve kötülük.
 
 ## Kişisel uygunluk
-Güç, 'sadizm' ve 'insan' 'kırılganlığı' profiline çok güçlü uyuyor — sinema'nın 'en' 'ağır' 'yasak'ı.
+
+Faşizm ve tüketim — politik+şiddet profiline güçlü uyum.
 
 -# THE FILM ARCHIVE · Salò, or the 120 Days of Sodom (1975) · Notlar
 ### Tartışmalar & Notlar

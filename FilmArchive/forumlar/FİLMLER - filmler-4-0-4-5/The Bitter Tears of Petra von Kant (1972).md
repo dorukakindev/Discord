@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/bkxrRfXaoTvZObG1Gd91x2mnmFX.jpg
 > **Yönetmen:** Rainer Werner Fassbinder · **Tür:** Dram, Romantik · **Süre:** 124 dk · **Dil:** Almanca · **Yıl:** 1972
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Petra von Kant is a successful fashion designer -- arrogant, caustic, and self-satisfied. She mistreats Marlene (her secretary, maid, and co-designer). Enter Karin, a 23-year-old beauty who wants to be a model. Petra falls in love with Karin and invites her to move in.
+Fassbinder'in kadın 'draması: Petra, moda tasarımcısı, Marleneye aşık olur — odasında hayat ve ölüm oynar; yatak sahne ve kostüm değişimidir.
 
 ### Puanlar
 IMDb **7.5/10** · Letterboxd **4.11/5** · nMDB **78.6**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Bitter Tears of Petra von Kant (1972) · Derin Analiz
 # Ayrıntılı konu
-Fassbinder'in 'kapan' filmi: Petra von Kant, moda tasarımcısı — 'güç'lü ama 'yalnız'; Karin'e 'aşık' olur — 'model' — ama 'sömürür'. 'Oda' — 'yatak', 'mannequin'ler, 'ayna'lar — 'dünya' 'küçülür'; Petra 'kontrol' eder ama 'kaybeder' — Karin 'kocası'na 'döner'. 'Şarap', 'gözyaşı', 'telefon' — 'aşk' 'içki' ile 'öldürülür'.
+
+Bremen'de Petra von Kant (Margit Carstensen), başarılı moda tasarımcısı, genç Marleneyi (Irm Hermann) evine alır — aşk ve sömürü birleşir. Kostüm — saç ve makyaj — kadınlık oyunudur. Oda — tek mekân — sahne gibi kullanılır; zaman geçer — Petra beyaz ve solgun — öfke ve yalnızlık artar. Kadınlar — Sidonie, Gabriele — eski aşklar ve kıskançlık. Final — Marlene gider — Petra yalnız kalır.
+
+# Üretim ve arka plan
+
+Rainer Werner Fassbinder'in kendi oyunundan uyarlaması; sade dekor — yatak odası sadece — tiyatro gibi çekilir. Kostüm — sarı saç ve beyaz ten — görsel şiddettir. Kadın — sadece kadın oyuncular — güç ve arzu dinamiğidir. Göz — Marlenenin boş bakışı — kullanım ve kullanılmadır.
 
 # Tez
-Aşk, 'güç' 'oyunu'dur — Fassbinder'ın tezi: Petra 'sever' ama 'sahip' 'olur'; 'özgürlük' 'başkası'nı 'köle' 'yapmak'tır. 'Sınıf' — 'tasarımcı' ile 'model' — 'aşk'ı 'iş' 'haline' 'getirir'.
 
-## Mekanizma
-'Tek' 'mekân' — 'oda' — 'kapanma' 'mutlak'tır; 'yatak' 'sahne' — 'doğum' ile 'ölüm' 'aynı' 'yer'dedir. 'Mannequin'ler — 'kadın' 'beden'i 'nesne'dir; 'Petra'nın 'yüzü' — 'makyaj' 'ağlar' — 'maske' 'düşer'.
+Aşk, sömürü ile beslenir — Fassbinder'in tezi: Petra güç sahibi ama kurbandır; arzu kontrol ister ama kaybeder. Yatak — sahne — rol oynanır.
+
+## Karşılama ve miras
+
+Fassbinder'in kendi oyunundan; 'tek mekân' — yatak odası — 'tiyatro gibi'. 'Sarı saç ve beyaz ten' — 'kostüm = güç' — 'kadınlık oyunu'. 'Marlene'nin bakışı' — 'boş ama hesaplı' — 'kullanım ve kullanılma'. 'Kadınlar odası' — 'erkek yok' — 'güç dinamiği'.
+
+## Mekanizma ve biçem
+
+Tiyatro — sahne ışığı ve dekor; yüz — yakın çekim — gözyaşı' ve makyaj. Renk — sarı ve beyaz — solma ve temizlik.
 
 ## Kişisel uygunluk
-Aşk, 'güç' ve 'kapanma' profiline çok güçlü uyuyor.
+
+Kadın ve güç — psikolojik+queer profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Bitter Tears of Petra von Kant (1972) · Notlar
 ### Tartışmalar & Notlar

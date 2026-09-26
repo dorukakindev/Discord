@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg
 > **Yönetmen:** Miloš Forman · **Tür:** Dram · **Süre:** 133 dk · **Dil:** İngilizce · **Yıl:** 1975
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Cezaevi yerine akıl hastanesini seçen McMurphy, Hemşire Ratched'in sessiz terörüne karşı hastaları 'insan' yapar; basketbol, balık avı ve partiyle direnir ama sistemin 'iyileştirme' gücü onu lobotomiye sürükler.
+Forman'ın anti-otorite klasiği: Randle McMurphy (Jack Nicholson) deli numarasıyla hastaneye girer; Hemşire Ratched'ın kontrolü sistem eleştirisidir.
 
 ### Puanlar
 IMDb **8.6/10** · Letterboxd **4.37/5** · nMDB **86.7**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · One Flew Over the Cuckoo's Nest (1975) · Derin Analiz
 # Ayrıntılı konu
-Randle McMurphy, cezaevi yerine akıl hastanesine 'kolay' yolculuk yapan adam; orada Hemşire Ratched'in sessiz terörüyle karşılaşır. McMurphy hastaları 'insan' yapar — basketbol, balık avı, parti — ama Ratched 'düzen'i korur; McMurphy'nin kaçış planı, Billy Bibbit'in intiharıyla sonuçlanır çünkü Ratched onu 'sorumlulukla' kırar. McMurphy Ratched'i boğar, lobotomi edilir ve 'Kızılderili' Chief Bromden onu öldürerek 'özgürleştirir' — Chief pencereden kaçar.
+
+Randle McMurphy, hapis cezasından kaçmak için deli oynar ve psikiyatri kliniğine gönderilir. Hemşire Mildred Ratched (Louise Fletcher) düzen korumacısıdır — ilaç ve elektroşok ile hastaları susturur. McMurphy hastaları örgütler: basketbol maçı, balık avı kaçamağı, kumar — özgürlük kısa sürer. Chief Bromden (Will Sampson) — sağır dilsiz numarası — son kurtuluşu sağlar: yastık ile McMurphyyi öldürür ve pencereden kaçar.
+
+# Üretim ve arka plan
+
+Miloš Forman'ın Ken Kesey'in romanını (1962) uyarlaması; 1975'te beş büyük Oscar (Film, Yönetmen, Senaryo, Nicholson, Fletcher) — sadece üç film bunu başardı. Gerçek hastane çekimi — Oregon State Hospital — gerçek hastalar oynar. Hemşire Ratched faşizm metaforudur — sessiz kontrol şiddetten güçlüdür.
 
 # Tez
-Özgürlük, sistemin 'iyiliği'nde boğulur — Forman'ın tezi: Ratched kötü değil 'görevli'dir — 'iyileştirme' adı altında insanı 'paspas' yapar; McMurphy'nin 'deli' olmadığı ortaya çıkar ama hastane onu 'yener' çünkü bireysel isyan sistematik olarak 'kırılır.'
 
-## Mekanizma
-Hemşire Ratched'in 'sessizliği' — hiç bağırmaz, sadece 'sorular' sorar — gücün 'yumuşak' yüzüdür; grup terapisi sahneleri mikro-mücadelelerle doludur. Chief'in 'sağır-dilsiz' numarası filmin 'bakış' noktasıdır — onun içsel sesi 'özgürlük' hayalidir. McMurphy'nin lobotomi sonrası 'boş' yüzü, isyanın bedelidir.
+Sistem, bireyi ezerek işler — Forman'ın tezi: delilik sistem tarafından tanımlanır; özgürlük beden değil ruh meselesidir. Chiefin kaçışı umuttur ama kaybeden McMurphydir.
+
+## Karşılama ve miras
+
+Forman'ın Kesey uyarlaması; 1975'te beş büyük Oscar (Film, Yönetmen, Senaryo, Nicholson, Fletcher) — sadece üç film bunu başardı (Diğerleri: It Happened One Night, The Silence of the Lambs). Oregon State Hospital'de gerçek hastalarla çekildi; Ratched = 'sessiz kontrol' arketipi. Milos Forman'ın Çek toplumundaki 'kolektif karşıtı' deneyiminin Amerika yansıması.
+
+## Mekanizma ve biçem
+
+Fisheye lens — koridor eğrilir — hapishane gibi görünür; yüz çekimleri — Nicholsonın gözleri — delilik mi özgürlük mi belirsizdir.
 
 ## Kişisel uygunluk
-Sistem karşıtlığı ve bireysel ruh profiline çok güçlü uyuyor — 'iyi' savaşın kaybedilişi.
+
+Anti-otorite ve özgürlük — politik+psikolojik profil için tam uyum.
 
 -# THE FILM ARCHIVE · One Flew Over the Cuckoo's Nest (1975) · Notlar
 ### Tartışmalar & Notlar

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/fa0RDkAlCec0STeMNAhPaF89q6U.jpg
 > **Yönetmen:** Paul Thomas Anderson · **Tür:** Dram · **Süre:** 158 dk · **Dil:** İngilizce · **Yıl:** 2007
 **Sana uygunluk: 3.9/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve psikolojik mekanizma 8/10.
 
-Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.
+PTA'nın petrol destanı: Daniel Plainview (Daniel Day-Lewis) 1898'de süt kasesinden servet çıkarır; din ile kapitalizm rekabet eder — 'I drink your milkshake' sonu.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.46/5** · nMDB **85.6**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · There Will Be Blood (2007) · Derin Analiz
 # Ayrıntılı konu
-Daniel Plainview, petrol kuyusu işçisinden baron olur — 'ailemi kuracağım' der ama tek ilişkisi petrollemedir. Eli Sunday (Paul Dano) onun 'halkla ilişkiler' yüzüdür: Eli'nin kilisesi Daniel'a para karşılığı vaaz verir; Daniel'ın kuyusu patlar, oğlu H.W. sağır olur. Daniel ve Eli arasındaki düşmanlık 'inanç vs para' değil, 'ikisi de sahtekârlık'ın kavgasıdır. Final: Daniel, Eli'yi bowling salonunda öldürür — 'I'm finished!' — kazanmıştır ama her şeyi kaybetmiştir.
+
+1898-1927, Kaliforniya: Daniel Plainview, gümüş madencisinden petrol baronuna yükselir; oğlu H.W.'yi evlat edinir (iş için). Little Boston'da Bandy arazisini alır ama papaz Eli Sunday (Paul Dano) kilise parası ister. Petrol fışkırır — kan gibi — ve günah bedeli ödenir. Plainview kazanır ama yalnız kalır; bowling sahnesinde Eli'yi öldürür — milkshake bitmiştir. Bitmiştir — Im finished' — son sözdür.
+
+# Üretim ve arka plan
+
+Paul Thomas Anderson'ın Upton Sinclair'in Oil! romanından (1927) serbest uyarlama — sosyalist metin kapitalist destana dönüşür. Daniel Day-Lewis'in Oscarlı performansı — ses ve beden tarih yaratır. Jonny Greenwood'un disosiyatif skoru — strings petrol kuyusu gibi çığlık atar. İsa figürü — vaftiz petrolle kirlenir.
 
 # Tez
-Kapitalizm, ailenin yerine konan dindir — Anderson'ın tezi: Daniel'ın 'evlat edinme'si (H.W.) sadece işlevselliktir; petrol kan gibidir — akar, kirletir, aç bırakır. 'Milkshake' sahnesi — 'ben senin milkshake'ini içerim' — kapitalist açgözlülüğün metaforik patlamasıdır.
 
-## Mekanizma
-Jonny Greenwood'un müziği — disonans, yaylı kapanmalar — filmin 'içsel çığlığı'dır; 20 dakikalık diyalogsuz açılış (petrol çıkarma) insanı 'iş' olarak sunar. Eli'nin kilisesi ile Daniel'ın kuyusu aynı görsel dilde çekilir — ikisi de 'ikna' mekânıdır; vaaz sahnesindeki 'ışık oyunu' şeytan çıkarmanın tiyatrosudur.
+Kapitalizm, dinin yerini alır — PTA'nın tezi: Plainview baba değil makinedir; sevgi hesap değildir ama hesap sevgiyi yer. Milkshake — kaynak sömürüsü — metafordur.
+
+## Karşılama ve miras
+
+PTA'nın Upton Sinclair'in 'Oil!'ını serbest uyarlaması; 2008'de 8 Oscar adaylığı, Day-Lewis ikinci Oscar'ı. 'I drink your milkshake' repliği pop kültüre girdi; Jonny Greenwood'un disosiyatif yaylıları 'petrol kuyusu çığlığı'. 'İlk sahne diyalogsuz' — Daniel'ın gümüş madeninde kırılan bacağı — 'sessiz başlangıç' teknik okumalarda incelenir.
+
+## Mekanizma ve biçem
+
+Robert Elswit'in güneşli çöl ışığı — altın kirlenir; kuyu ağız gibi açılır. Sessiz açılış — doğa kendiliğinden konuşur.
 
 ## Kişisel uygunluk
-Kapitalizm, güç ve ahlaki çürüme profiline çok güçlü uyuyor — Daniel Day-Lewis'in en büyük rolü.
+
+Kapitalizm ve güç — politik+psikolojik profil için tam uyum.
 
 -# THE FILM ARCHIVE · There Will Be Blood (2007) · Notlar
 ### Tartışmalar & Notlar

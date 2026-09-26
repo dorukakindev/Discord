@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/h3iNimtw6HsFTtAvEDF3XYZ4Y5T.jpg
 > **Yönetmen:** Shôhei Imamura · **Tür:** Dram, Aile, Gizem · **Süre:** 130 dk · **Dil:** Japonca · **Yıl:** 1983
 **Sana uygunluk: 4.1/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve sembolik katman 8/10.
 
-Vadideki küçük bir köyde 70 yaşına gelen herkes köyü terk edip belli bir dağın tepesine ölmek zorundadır. Eğer biri reddederse ailesini utandırmış olur. Yaşlı Orin 69 yaşında. Bu kış dağa çıkma sırası onda. Ama önce en büyük oğlu Tatsuhei'nin bir eş bulmasını sağlamalıdır.
+İmamura'nın Cannes Altın Palmiye kazananı: 19. yüzyıl dağ köyünde yaşlıların 'Narayama Dağı'na taşınma geleneği — Orin, 69 yaşında, gitmeye hazır olmayı kabul eder ama oğlu Tatsuhei göndermek istemez.
 
 ### Puanlar
 IMDb **7.8/10** · Letterboxd **3.96/5** · nMDB **78.6**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · The Ballad of Narayama (1983) · Derin Analiz
 # Ayrıntılı konu
-19. yüzyıl Japon köyünde 'Narayama' geleneği: 70 yaşına gelen herkes dağa götürülüp ölüme terk edilir. Orin (Kinuyo Tanaka) 69 yaşındadır, sağlıklıdır ve gitmek istemez ama gelenek kesindir — kendi kendine dişlerini kırarak 'yaşlılığını' kanıtlar. Oğlu Tatsuhei isteksizce annesini sırtında dağa taşır; yolda 'Ama yalnız gitmek zorundayım' der. Final: Narayama'da kar üstünde oturan Orin ve geri dönen oğul — dağ 'kabul' eder.
+
+1860'lar Japonya'sında bir dağ köyü: 70 yaşına gelen herkes Narayama Dağı'na taşınır ve orada kadere bırakılır. Orin (Sumiko Sakamoto) 69 yaşında ama 'dişleri sağlam' — bu utanç kaynağıdır; kendini hazırlar: gelinler öğretir, oğul Tatsuhei'ye (Ken Ogata) evlenme ayarlar. Kış gelir, Tatsuhei onu sırtında taşır — sessiz yolculuk dağa çıkar. Orin kar altında oturur, Tatsuhei döner. Köyün doğal döngüsü — seks, doğum, ölüm — narayama geleneğinin parçasıdır.
+
+# Üretim ve arka plan
+
+İmamura'nın Shichirō Fukazawa'nın romanını (1956) ikinci kez uyarlaması — Keisuke Kinoshita'nın 1958 versiyonu kabuki tarzıydı, İmamura doğalcı ve cinsel okur. 1983 Cannes Altın Palmiye; Sakamoto anne rolünde efsane performans (dişlerini kendisi çektirdi söylentisi). Dağ, kar, doğa — İmamura'nın alt Japonya'sı (şehirli modernizmin dışı) en şiddetli biçimde.
 
 # Tez
-Gelenek, ölümü rutinleştirir — Imamura'nın tezi: köyün ahlakı 'doğal düzen'dir ama doğa katıdır; Orin'in haysiyeti 'itaat'te değil 'kabul'de durur. Film, ötenazinin 'toplumsal' formunu gösterir — tek tek ölüm değil, 'düzen'in parçası olarak ölüm.
 
-## Mekanizma
-Doğa çekimleri — hayvanlar, mevsimler, seks ve ölüm — insan hayatını 'tür' olarak verir; köyün şarkıları ve ritüelleri ölümü 'bayram'laştırır. Imamura'nın kamerası serttir: vahşet ve şefkat aynı karede. Kar yağışı finalde 'ölümün temizliği'dir — ama temizlik, insanın 'fazlalık' olarak görülmesiyle kazanılır.
+Ölüm, toplumun tarifidir — İmamura'nın tezi: narayama geleneği kötü değil ekonomiktir; köyün doğallığı (hayvanlarla cinsel yan yana) kültürün değil 'hayatta kalma'nın dilidir. Orin'in kabulü fedakârlık değil görevdir.
+
+## Karşılama ve miras
+
+İmamura'nın Kinoshita'nın 1958 kabuki-stil uyarlamasına 'doğal' karşılığı — Fukazawa'nın köy efsanesi. 1983 Cannes Altın Palmiye. Sumiko Sakamoto gerçekten dişlerini çektirdi rol için; 'ubasute' geleneği İmamura'nın 'alt-Japonya' (şehirli modernizmin dışı) odaklanmasının zirvesi. Yaşlı terk etme ritüeli üzerine antropolojik bir belge olarak da okunur.
+
+## Mekanizma ve biçem
+
+Doğa karakterdir: yılanlar, kuşlar, kar — insan habitat içinde türdür. Ubasute (yaşlıyı terk) geleneğinin sessiz çekimi; kar örtü ve mezardır.
 
 ## Kişisel uygunluk
-Gelenek ve ölüm ritüeli profiline çok güçlü uyuyor — insanın doğayla eşitlenmesi.
+
+Antropolojik trajedi ve yaşam döngüsü — doğal+politik profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Ballad of Narayama (1983) · Notlar
 ### Tartışmalar & Notlar

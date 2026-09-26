@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/zU1FLiGJw3m3iFrakwA0SzFvIPV.jpg
 > **Yönetmen:** Werner Herzog · **Tür:** Aksiyon, Macera, Biography · **Süre:** 95 dk · **Dil:** Almanca · **Yıl:** 1972
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve psikolojik mekanizma 8/10.
 
-İnka İmparatorluğu'nun yıkılmasından birkaç on yıl sonra, kötü şöhretli Aguirre liderliğindeki bir İspanyol keşif gezisi, Peru dağlarını terk eder ve kayıp şehir El Dorado'yu aramak için Amazon Nehri'ne iner. Büyük zorluklar ortaya çıktığında, Aguirre'nin adamları arayışlarının onları refaha mı yoksa kesin ölüme mi götüreceğini merak etmeye başlar.
+Herzog'un Peru ormanı: Lope de Aguirre, El Dorado'yu arayan Pizarro seferinde deliliğe kayar; tarih delilikle yazılır.
 
 ### Puanlar
 IMDb **7.8/10** · Letterboxd **4.10/5** · nMDB **80.0**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Aguirre, the Wrath of God (1972) · Derin Analiz
 # Ayrıntılı konu
-1560 — Peru'da bir İspanyol seferi El Dorado'yu arar; Aguirre, asi bir subay, isyan edip 'yeni imparatorluğunu' kurar. Amazon nehrinde fil. ilerler: sal, atlar, kızılderili rehberler, hastalık, açlık. Aguirre herkesi birbiri ardına kaybeder; sonunda salda tek başına kalır — etrafında maymunlar — ve 'Ben Tanrı'nın gazabıyım' der. Klaus Kinski'nin gözleri delirticidir; Herzog 'saf manyak'ı tarihi çılgınlığa çevirir.
+
+1560, And Dağları: Gonzalo Pizarro'nun El Dorado seferi bataklıkta sıkışır. Don Lope de Aguirre (Klaus Kinski) komutayı ele geçirir; imparator ilan edilen Guzmán'ı öldürür ve kendi ordusunu kurar. Maymunların saltanatı — kralın tahtı boş kalır. Nehir üzerindeki sal, doğanın sessiz tehdidi; kuş sesleri saldırı habercisidir. Finalde Aguirre yalnız kalır — tanrı olmak isteyen adam hiçlikte kalır.
+
+# Üretim ve arka plan
+
+Herzog'un üçüncü filmi; Kinski'yle ilk işbirliği (sonradan Nosferatu, Woyzeck, Fitzcarraldo, Cobra Verde). Çekim gerçek koşullarda — Peru ormanı, salda çekim; Kinski'nin tutuklu performansı (delilik = yavaş ve kontrollü). Thomas Mauch'ın sisli ışığı. 'Fritz Lang'ın anlatı mantığını doğaya taşır. Popol Vuh'un korosu — dini söylem ile delilik karışır.
 
 # Tez
-İktidar hırsı, kendi sonunu üretir — Aguirre'nin 'yeni dünyası' sadece onun ölümüdür; Herzog'un tezi: 'medeniyet' vahşi doğada çöker çünkü düzenin hammaddesi insan zihniyetidir — doğa onu 'sapırılmış' kılar. Aguirre, fatih değil 'virüs'tür: girdiği her gruba delilik bulaştırır.
 
-## Mekanizma
-Herzog'un kamerası doğal ışıkla ve gerçek tehlikelerde çekilir — sallar gerçekten devrilir, atlar gerçekten dalar; filmin 'belgesel' enerjisi senaryonun ötesine geçer. Aguirre'nin son sahnede maymunlarla 'konuşması' — 'Ben, Tanrı'nın gazabı, kendi kızımla evleneceğim' — deliliğin 'hükümranlık ilanı'dır. Popol Vuh'un müziği nefes gibidir — tarihi hâlâ sürmektedir.
+Delilik, tarihin mantığıdır — Herzog'un tezi: Aguirre hasta değil konsepttir — fetih insanı doğaya kurban eder. 'El Dorado' altın değil hiçliktir.
+
+## Karşılama ve miras
+
+Herzog'un Kinski'yle beş filmlik ortaklığının ilki; Peru ormanında gerçek koşullarda (sal üstünde, tayfun sonrası selde) çekildi. Klaus Kinski 'kontrollü delilik' performansını verdi — Herzog'un anısına göre silah tehdidiyle sette tutuldu. Popol Vuh'un Moog-koro müziği. 'El Dorado = delilik' denklemi Coppola'nın Kurtz'ünü öncüler.
+
+## Mekanizma ve biçem
+
+Belgesel estetiği: gerçek çamur, gerçek yorgunluk; kamera gözlemcidir. Kinskinin yüzü — donuk ama hâkim — delilik içseldir.
 
 ## Kişisel uygunluk
-İktidar deliliği ve doğa kaosu profiline çok güçlü uyuyor.
+
+Doğa-insan çatışması ve delilik — Herzog profiline tam uyum.
 
 -# THE FILM ARCHIVE · Aguirre, the Wrath of God (1972) · Notlar
 ### Tartışmalar & Notlar

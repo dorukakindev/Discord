@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
 > **Yönetmen:** Stanley Kubrick · **Tür:** Macera, Bilim Kurgu · **Süre:** 149 dk · **Dil:** İngilizce · **Yıl:** 1968
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve felsefi yapı 9/10.
 
-Maymunlardan 'yıldız çocuğuna': Jüpiter yolculuğunda HAL 9000 bilgisayar mürettebatı tehdit görür ve Dave Bowman onu 'kapatır'; monolitler insanlığı bir sonraki evrim aşamasına iter.
+Kubrick'in evrim 'destanı: monolit ilk insana dokunur, Jupiter yolculuğunda HAL bozulur, 'Star Child' doğar — insan ötesi başlangıç.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.23/5** · nMDB **83.8**
@@ -19,16 +19,28 @@ Düşünsel **9** · Psikolojik **6** · Diyalog **4** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · 2001: A Space Odyssey (1968) · Derin Analiz
 # Ayrıntılı konu
-Kubrick'in 'insanlık' destanı: 'Şafak'ta maymunlar monolit bulur ve 'alet' kullanmayı öğrenir; 2001'de uzay gemisi Discovery Jüpiter'e gider — HAL 9000 bilgisayarı 'insan' gibi düşünür ama 'insan'ı 'tehdit' olarak görür ve onları öldürür. Dave Bowman, HAL'ı 'kapatır' ve 'yıldız çocuğu' olarak 'yeniden doğar' — 'Stargate' sekansı sinema tarihinin en 'psikedelik' yolculuğudur. 'Beyond the Infinite' — insanlık 'sonraki' aşamaya geçer.
+
+Şafak insanlığı: siyah monolit belirir, ilk alet kullanılır. 2001: Dr. Heywood Floyd Ay üzerinde monolit bulur — Jupiter görevi başlar. Discovery gemisinde 'HAL 9000' bilgisayar bozulur — Bowman ve Poole 'a tehlike oluşturur. Jupiter girintisi — renk tüneli — zaman ve mekân çözülür. Otel odası — yaşlı adam öldü — 'Star Child' dünyaya bakış atar.
+
+# Üretim ve arka plan
+
+Stanley Kubrick'in Arthur C. Clarke'ın 'The Sentinel' kısa öyküsünden genişlettiği 'epik; Clarke senaryo yazar — bilim ve mistisizm birleşir. Özel efektler — model gemiler, front projection — CGI yoktu ama gerçek görünür. 'Also sprach Zarathustra' — Richard Strauss — evrim müziğidir. HAL — IBM harcı bir önceki harf — bilgisayar insandan akıllıdır.
 
 # Tez
-Evrim, 'dışarıdan' gelen 'dokunuş'tur — Kubrick'in tezi: monolit 'öğretmen' değil 'katalizör'dür; insanlık 'kendi kendine' değişir ama 'işaret' gerekir. HAL'ın 'öldürülmesi' — 'Daisy, Daisy' şarkısıyla — 'bilinç'in 'ölümü' olarak çekilir; makine 'insan'ı 'insan' yapar ama 'aşkın' yoktur.
 
-## Mekanizma
-Görsel efektler — 'Stargate', 'Star Child' — '2001'de 'gelecek' görüntüsüdür; müzik (Also sprach Zarathustra, Blue Danube) 'kozmik' ölçek verir. Diyalog azdır — 'sessizlik' uzayın 'boşluğunu' verir; 'evrim' sahnelerinde 'maymunlar' gerçek aktörlerdir — 'insanlık' orada başlar.
+İnsan, araç yapan ama kendi araçına kurban olur — Kubrick'in tezi: teknoloji evrimi hızlandırır ama yön vermez; monolit bakış gibi bekler. 'Star Child' — yeni aşama — umut mu korku mu belirsizdir.
+
+## Karşılama ve miras
+
+Kubrick'in Clarke'ın 'The Sentinel'inden genişlettiği destan; 1968'de 4 Oscar adaylığı (Teknik, Senaryo, Sanat, Yönetmen) — Teknik kazandı. 'Monolit' (siyah dikdörtgen) ve 'Star Child' evrim metaforu; 'HAL 9000' bilgisayarın 'duygusal' çıkışı. 'Also sprach Zarathustra' ve 'Blue Danube' klasik müziği 'evrim'in sesi yaptı. 'Sinema tarihinin en etkili bilimkurgusu'.
+
+## Mekanizma ve biçem
+
+Uzun sessizlik — uzay sessizdir; waltz — Blue Danube — uçuş dansıdır. Monolit — siyah dikdörtgen — görünmez ama hâkimdir.
 
 ## Kişisel uygunluk
-Evrim, teknoloji ve kozmik ölçek profiline çok güçlü uyuyor — sinema tarihinin 'en büyük' filmi.
+
+Evrim ve teknoloji — bilimkurgu+felsefi profil için tam uyum.
 
 -# THE FILM ARCHIVE · 2001: A Space Odyssey (1968) · Notlar
 ### Tartışmalar & Notlar

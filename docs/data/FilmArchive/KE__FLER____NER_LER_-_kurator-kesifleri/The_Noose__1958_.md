@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/NasserQuwatliUAR.jpg/330px-NasserQuwatliUAR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Küratör Keşifleri · Kayıt
 # The Noose (1958)
 > **Yönetmen:** Wojciech Jerzy Has · **Yıl:** 1958

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg
 > **Yönetmen:** Alfred Hitchcock · **Tür:** Dram, Korku, Gizem · **Süre:** 109 dk · **Dil:** İngilizce · **Yıl:** 1960
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Para kaçıran Marion Crane Bates Motel'de duşta bıçaklanır; 'anne'nin cinayeti Norman Bates'in içinde yaşattığı bölünmüş kimliğin çığlığıdır — Herrmann'ın kemanları bıçağın sesidir.
+Hitchcock'un motel 'kabusu: Marion Crane para çalar ve Bates Motele sığınır — duş sahnesi ve Normanın annesi sinema tarihini değiştirir.
 
 ### Puanlar
 IMDb **8.5/10** · Letterboxd **4.31/5** · nMDB **85.6**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · Psycho (1960) · Derin Analiz
 # Ayrıntılı konu
-Hitchcock'un 'anahtar' filmi: Marion Crane, 'para' 'kaçırır' ve Bates Motel'de 'durur'; duşta 'bıçaklanır' — 'anne' 'görünür' ama 'Norman' 'vardır'. 'Özel' 'dedektif' Arbogast 'düşer' — 'merdiven' — ve 'kız kardeş' Lila 'bulur': Norman 'anne'sini 'diriltir' — 'iç'inde 'yaşatır'. 'Küvet' 'temizlenir' — 'su' 'akmaz' ama 'akmıştır'.
+
+Phoenix'te Marion Crane (Janet Leigh), emlak ofisinden 40,000 dolar çalar ve kaçar. Bates Motel — ıssız yol üstü — Norman Bates (Anthony Perkins) kibar ama gariptir: annesi pencerede izler. Duş — 78 kesme ve 45 saniye — cinayet gösterilir ama gösterilmez. Detektif Arbogast ve kız kardeş Lila — soruşturma devam eder. Son — mahkeme ve anne — kimlik değişimi tamamlanır.
+
+# Üretim ve arka plan
+
+Alfred Hitchcock'ın Robert Bloch'un romanını (1959) uyarlaması — gerçek Ed Gein hikâyesi. Paramount şüpheciydi — düşük bütçe ve siyah-beyaz. Bernard Herrmann'ın yaylı 'skoru — çığlık sesi gibi keskin. Duş sahnesi — 78 parça ve 45 saniye — montaj ustalığıdır. Kahvaltı odası — kuş kolleksiyonu — ölüm ve korumadır.
 
 # Tez
-Kimlik, 'bölünme'dir — Hitchcock'un tezi: Norman 'anne'si 'içinde' 'yaşar'; 'canavar' 'dışarıdan' değil 'içeriden' gelir. 'Duş' 'güvenli' yerdir — 'kırılır' — 'herkes' 'kırılgandır'.
 
-## Mekanizma
-'Siyah-beyaz' — 'karanlık' 'ruh' — 'kan' 'görünmez' ama 'hissedilir'; Bernard Herrmann'ın 'keman'ları — 'çığlık' — 'bıçak'ın 'sesi'dir. 'Kuş'lar — 'doldurulmuş' — 'ölü' ama 'izler'; 'anne'nin 'sesi' — 'radyo' 'konuşması' — 'var' ama 'yok'tur.
+Korku, beklenmedik yerdedir — Hitchcock'un tezi: izleyici güvenlik hisseder ama sıradan yer tehlikedir. Anne — gölge ve ses — kontrol ve deliliktir.
+
+## Karşılama ve miras
+
+Hitchcock'un Bloch uyarlaması; Ed Gein hikâyesinden serbest. 'Duş sahnesi' — 78 kesme, 45 saniye — 'montajın gücü'; Bernard Herrmann'ın yaylı çığlığı. 'Anne = gölge' — 'görünmez katil' — 'psikolojik korku'nun tanımı. 'Bates Motel' — 'karanlık ev' — 'Amerikan kabusu'nun simgesi.
+
+## Mekanizma ve biçem
+
+Duş — kamera bakışı — kurban ile katil aynı konumdadır; gölge — anne figürü — görünmez ama hâkimdir. Merdiven — düşme ve yükselme — kader simgesidir.
 
 ## Kişisel uygunluk
-Kimlik çözülmesi ve 'saf' 'gerilim' profiline çok güçlü uyuyor.
+
+Korku ve psikoloji — gerilim profili için tam uyum.
 
 -# THE FILM ARCHIVE · Psycho (1960) · Notlar
 ### Tartışmalar & Notlar

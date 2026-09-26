@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg
 > **Yönetmen:** Sergio Leone · **Tür:** Suç, Dram · **Süre:** 229 dk · **Dil:** İngilizce · **Yıl:** 1984
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: olay örgüsü 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Noodles ve Max, New York Yahudi mahallesinde büyüyüp içki yasağında zenginleşir; 35 yıl sonra Noodles'ın dönüşü arkadaşlık, ihanet ve 'hiç olmamış' bir geçmişin ağırlığını getirir.
+Leone'nin son filmi: Noodles (Robert De Niro) ve Max (James Woods) — Yahudi getto çocukları — gangster olur ve yıllar sonra hesap verir — nostalji ile ihanet birleşir.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.22/5** · nMDB **83.7**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Once Upon a Time in America (1984) · Derin Analiz
 # Ayrıntılı konu
-Sergio Leone'nin 'gangster' destanı: Noodles (Robert De Niro) ve Max (James Woods) — New York'un Yahudi mahallesinde büyürler, 'Bugsy'nin çetesine katılırlar, 'Prohibition' zenginliğiyle 'parlayıp' sonra 'düşerler'. Noodles 35 yıl sonra döner — 'geçmiş' ile 'yüzleşir': Max'in 'sahte' ölümü, Deborah'nın 'seçimi', 'arkadaşlık' ve 'ihanet'. Film 'nostalji' değil 'pişmanlık'tır — 'geçmiş' 'kaybedilen' değil 'hiç olmamış'tır.
+
+1920'ler New York: Noodles Aaronson ve Max Bercovicz, sokak çetesi üyesi olarak yükselir; yasak dönem — alkol kaçakçılığı — zenginlik ve güç 'getirir. Deborah (Elizabeth McGovern) — dans özlemi — aşk ama sınıf farkı. Maxın planı — federal rezerv soygunu — tuzağa dönüşür; Noodles 35 yıl sonra döner — yaşlı ve beyaz saçlı. Güleryüz sahnesi — ilk bakış — zaman değişir ama hatıra kalır.
+
+# Üretim ve arka plan
+
+Sergio Leone'nin en uzun ve son filmi; Harry Grey'in 'The Hoods' romanını uyarlar — gangster mitolojisi. 'Ennio Morricone'nin son büyük skorlarından — Deborahs Theme' — melankoli ve nostalji. Flashback 'yapısı — şimdi ve geçmiş aynı karede 'buluşur. Amerika sürümü kısaltılmıştır — Leonenin 4 saatlik versiyonu restore 'edildi.
 
 # Tez
-Arkadaşlık, 'en büyük' ihanetin 'zeminidir' — Leone'nin tezi: Noodles ve Max 'birbirlerini' 'yaratır' ve 'yok eder'; 'Max'ın ölümü' 'Noodles'ın 'hayatı'dır. Zaman 'döngüsel'dir — başlangıç ve son 'aynı' yerdedir.
 
-## Mekanizma
-Ennio Morricone'nin müziği — 'Deborah's Theme' — 'geçmiş'in 'sesidir'; 'nostaljik' ışık — altın, toz, sis — 'hatıra'nın 'renk'i'dir. 'Süre' — 4 saat — 'hayat'ın 'ölçüsü'dür; 'final' — Noodles'ın 'gülümsemesi' — 'affetme' mi 'unutma' mıdır?
+Başarı, kayıp üzerine kurulur — Leone'nin tezi: gangster rüyası ' Amerika' rüyasıdır ama kan ve yalan 'içerir. Noodles döner — geçmiş hesap ister.
+
+## Karşılama ve miras
+
+Leone'nin son filmi; Harry Grey'in 'The Hoods' romanından — 'gangster mitolojisi'. 229 dakikalık versiyon Cannes'da; ABD sürümü kısaltıldı (139 dk) ve başarısız oldu — restore edildi. Morricone'un 'Deborah's Theme'i 'en güzel melodi' anketlerinde; 'Güleryüz' sahnesi (ilk bakış) ve '35 yıl sonra dönüş' — 'nostalji = kayıp'.
+
+## Mekanizma ve biçem
+
+Uzun zaman atlamaları — yaşlılık makyajı gerçekçidir; yağmur ve ışık — 'New York' sokakları parlak ama kirli. Kapı — bakış ve geçiş — sınır metaforudur.
 
 ## Kişisel uygunluk
-Arkadaşlık, zaman ve 'Amerikan rüyası' profiline çok güçlü uyuyor — gangster filminin 'şiirsel' hâli.
+
+Gangster ve zaman — epik+nostaljik profil için tam uyum.
 
 -# THE FILM ARCHIVE · Once Upon a Time in America (1984) · Notlar
 ### Tartışmalar & Notlar

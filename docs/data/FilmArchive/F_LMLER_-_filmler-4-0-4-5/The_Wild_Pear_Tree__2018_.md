@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/s7kGE1MChkHD5VX8sv7SOGabGMZ.jpg
 > **Yönetmen:** Nuri Bilge Ceylan · **Tür:** Dram · **Süre:** 188 dk · **Dil:** Türkçe · **Yıl:** 2018
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve felsefi yapı 8/10.
 
-Fresh out of university, a Turkish young man with literary aspirations returns to his home village and starts scraping together money to publish his book. While trying to reconnect with his old friends and environment; his uncertainty, existential struggle and his father’s gambling addiction bring him grave difficulties.
+Ceylan'ın Anadolu gurbetçi 'hikâyesi: Sinan, yazar adayı, baba evine döner ama yayın parası bulamaz — aile ve köy boğar.
 
 ### Puanlar
 IMDb **8.0/10** · Letterboxd **4.04/5** · nMDB **80.4**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · The Wild Pear Tree (2018) · Derin Analiz
 # Ayrıntılı konu
-Nuri Bilge Ceylan'ın 'taşra' filmi: Sinan, üniversite mezunu genç yazar; köyüne döner ve 'kitabını' bastırmak için para arar. Babası İdris — eski öğretmen, şimdi kumar borçlu — ile ilişkisi 'küçümseme' ile 'sevgi' arasındadır; köyün 'bilgi' adamları (imam, yazar) ona 'nasihat' verir ama Sinan 'dinlemez'. Askerlik, borç, aşk — her yol 'çıkmaz'dır; sonunda babası 'kendi' yolunu seçer ve Sinan 'anlar'.
+
+Sinan Karasu (Aydın Doğu Demirkol), üniversite mezunu, Çanakkaleye babası İdris'in (Murat Cemcir) yanına döner. Kitap yazmıştır — 'Ahlat Ağacı' — ama yayıncı ilgi göstermez. İdris kumar bağımlısı öğretmen — köy onu bilir. Sinan anne ve kız kardeşiyle yaşar — kırgın ve eleştireldir. Köy — ağaçlar, kuşlar, yayla — güzel ama boğucudur. İmam ve yazar tartışması — din ve sanat — Türkiyenin gerilimidir.
+
+# Üretim ve arka plan
+
+Nuri Bilge Ceylan'ın 'Ahlat Ağacı' (2018 Cannes yarışması); kardeş Ebru ile ortak senaryo. Anadolu 'görüntüsü — kış ağaçları, sis — melankoli manzarasıdır. Uzun diyalog — imam ziyareti — felsefi tartışmadır. Baba — kumar ve öğretmenlik — başarısız ama insandır.
 
 # Tez
-Baba-oğul, 'aynı ağacın' meyveleridir — Ceylan'ın tezi: Sinan 'farklı' olmak ister ama 'aynı' kökten gelir; 'yaban armutu' — köyün 'vahsî' ağacı — Sinan'ın 'kökleri'dir. Kitap 'başarısızlık'tır ama 'bağ' kurulur: babanın 'hatırası' oğlun 'yazısı'nda yaşar.
 
-## Mekanizma
-Uzun diyaloglar ve 'yürüyüş' sahneleri — köyün 'yolları' ve 'tarlaları' — 'sohbet' ile 'yolculuk' birleşir; Ceylan'ın 'tablo' estetiği — geniş planlar, doğal ışık — 'yer' ile 'insan'ı eşitler. 'Rüya' sahneleri (Sinan'ın kitabının 'imkânsız' baskısı) 'gerçek'le 'hayal'i karıştırır; son konuşma — babayla oğul 'aynı' ağaca bakar — filmin 'kapanış'ıdır.
+Köy, yazarı kaybeder — Ceylan'ın tezi: kültür şehirde kalır, köy kökleşir ama boğar. Sinan gider ama babası kalır — kaçış ve kabul arasındadır.
+
+## Karşılama ve miras
+
+Ceylan'ın Cannes yarışması filmi; 'Ahlat Ağacı' — Anadolu'nun kurak ağacı — 'köklerine bağlı ama yaban'. Sinan'ın 'yazar krizi' Türkiye'nin entelektüel kırsalı üzerine; 'imam diyaloğu' din-sanat gerilimini tartışır. 'Baba = kumar bağımlısı öğretmen' — başarısız ama insanca. Nuri Bilge Ceylan'ın 'en kişisel' filmi sayılır.
+
+## Mekanizma ve biçem
+
+Manzara — ağaç ve tepe — sessiz kayıp; konuşma — ev ve imam odası — söz güçtür. Göz — Sinanın yorgun bakışı — umutsuzluktur.
 
 ## Kişisel uygunluk
-Baba-oğul ve taşra hayatı profiline çok güçlü uyuyor — Ceylan'ın en 'konuşkan' filmi.
+
+Anadolu ve yazar krizi — Ceylan profiline tam uyum.
 
 -# THE FILM ARCHIVE · The Wild Pear Tree (2018) · Notlar
 ### Tartışmalar & Notlar

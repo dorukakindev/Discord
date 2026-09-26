@@ -1,7 +1,8 @@
 -# THE FILM ARCHIVE · Animeler · 3.5–4.0 · Dizin
 # Animeler · 3.5–4.0 — Kayıt Dizini
-12 kayıt — uygunluk sırası:
+13 kayıt — uygunluk sırası:
 
+• **Ghost in the Shell (1995)** · IMDb 7.9/10 · LB 4.09/5 · nMDB 80.4 · uyg 3.6/5**
 • **Graveyard Kitaro - S01E01 (2008)** · IMDb 7.0/10 · nMDB 70.0 · uyg 3.6/5**
 • **Graveyard Kitaro - S01E02 (2008)** · IMDb 7.0/10 · nMDB 70.0 · uyg 3.6/5**
 • **Graveyard Kitaro - S01E03 (2008)** · IMDb 7.0/10 · nMDB 70.0 · uyg 3.6/5**

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg
 > **Yönetmen:** Denis Villeneuve · **Tür:** Dram, Gizem, Gerilim · **Süre:** 91 dk · **Dil:** İngilizce · **Yıl:** 2013
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve psikolojik mekanizma 8/10.
 
-Tarih profesörü Adam Bell, bir filmde kendini görür — aktör Anthony Claire; aynı yüzün iki hayatı takasla kesişir ve dev örümcek imgesi kadın bilinçaltının korkusunu simgeler.
+Villeneuve'in ikiz 'kabusu: Adam Bell, tarih öğretmeni, filmde kendi kopyasını bulur — öteki ben arayışı kabusa dönüşür.
 
 ### Puanlar
 IMDb **6.9/10** · Letterboxd **3.54/5** · nMDB **69.9**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Enemy (2013) · Derin Analiz
 # Ayrıntılı konu
-Denis Villeneuve'ün 'ikiz' filmi: Adam Bell, 'tarih' 'profesörü' — 'tekdüze' 'hayat'; 'film'de 'kendini' 'görür' — Anthony Claire, 'aktör' — 'aynı' 'yüz' 'başka' 'hayat'. 'Takas' 'başlar' — 'kadın', 'arzu', 'kontrol' — ama 'fark' 'bulunamaz'; 'örümcek' — 'dev' 'görüntü' — 'kadın' 'bilinçaltı'nın 'korku'su 'simge'sidir.
+
+Toronto'da Adam Bell (Jake Gyllenhaal), sıkıcı tarih öğretmeni, film izler ve kendi kopyasını görür — Anthony Claire, aktör, aynı yüz ve ses. Takip — kimlik arayışı — ikiz mi hayal mi? Karısı Helen — hamile — gerçeklik ve korku arasında. Anahtar — gizli kulüp — ardı ardına gelen kabuslar. Örümcek — dev ve tehdit — fetih ve kontrol simgesidir.
+
+# Üretim ve arka plan
+
+Denis Villeneuve'ün Prisoners sonrası 'film; José Saramagonun O Homem Duplicado romanından. Toronto — sarı ve puslu — sıkıcı ama kabus şehri. Jake Gyllenhaal — ikili rol — aynı yüz farklı kişilik. Örümcek — açıklık ve final — bilinmez korkudur.
 
 # Tez
-Benlik, 'kopya' 'ile' 'kırılır' — Villeneuve'ün tezi: 'ikiz' 'varlık' 'kimliği' 'tehdit' 'eder' — 'sen' 'sen' 'değilsin'; 'kadın' 'figürü' — 'anne' ile 'sevgili' — 'aynı' 'kaynak'tan 'beslenir'. 'Örümcek' 'özgürlük' 'değil' 'bağlanma'dır.
 
-## Mekanizma
-'Sarımsı' 'ışık' — 'hastalıklı' 'dünya' — 'belirsizlik' 'hissi'dir; 'Jake Gyllenhaal' — 'iki' 'rol' — 'aynı' ama 'farklı' 'enerji'yle 'oynar'. 'Son' — 'örümcek' 'odada' — 'açıklama' 'yok'tur — 'korku' 'sadece' 'hissedilir'.
+Benlik, kopya değil bölünmedir — Villeneuve'ün tezi: öteki ben aşk ve nefret birleştirir; yüz aynı ama ruh farklıdır. Örümcek — kadın mı erkek mi — kontrol ve esaret.
+
+## Karşılama ve miras
+
+Villeneuve'ün 'Prisoners' sonrası; Saramago'nun 'O Homem Duplicado'sundan. 'Toronto sarısı' — 'puslu ve sıcak' — 'hastalık gibi'. 'Örümcek' — 'dev ve tehdit' — 'fetih ve kontrol'. 'Jake Gyllenhaal' — 'ikili rol' — 'aynı yüz farklı ruh'. 'Anahtar' — 'gizli kulüp' — 'ardı ardına gelen kabuslar'.
+
+## Mekanizma ve biçem
+
+Sarı ton — puslu ve sıcak — hastalık gibi; ayna — yansıma ve kopya. Binalar — yüksek ve soğuk — insan küçüktür.
 
 ## Kişisel uygunluk
-Kimlik bölünmesi ve 'bilinçaltı' 'korku' profiline çok güçlü uyuyor.
+
+Kimlik ve kabus — psikolojik+sürrealist profil için tam uyum.
 
 -# THE FILM ARCHIVE · Enemy (2013) · Notlar
 ### Tartışmalar & Notlar

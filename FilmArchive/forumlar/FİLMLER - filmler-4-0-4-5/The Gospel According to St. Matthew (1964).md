@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/oifi2CQkKbb6Y2x6J5K6CjaKab9.jpg
 > **Yönetmen:** Pier Paolo Pasolini · **Tür:** Biography, Dram, Tarih · **Süre:** 137 dk · **Dil:** İtalyanca · **Yıl:** 1964
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Along a rocky, barren coastline, Jesus begins teaching, primarily using parables. He attracts disciples; he's stern, brusque, and demanding. His parables often take on the powers that be, so he and his teachings come to the attention of the Pharisees, the chief priests, and elders. They conspire to have him arrested, beaten, tried, and crucified, just as he prophesied to his followers.
+Pasolini'nin İsa 'filmi: ateist yönetmen Hristiyan hikâyesini en dürüst şekilde çeker — dağ vaazı, şifa ve çarmıh gerçek tarih gibi görünür.
 
 ### Puanlar
 IMDb **7.6/10** · Letterboxd **4.09/5** · nMDB **78.9**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **6** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · The Gospel According to St. Matthew (1964) · Derin Analiz
 # Ayrıntılı konu
-Pasolini'nin 'İsa' filmi: 'gerçek' 'belgesel' gibi çekilir — 'halk' 'oynar', 'yer' 'gerçek'tir (Güney İtalya). İsa 'yürür', 'konuşur', 'şifa' 'verir' — 'mucize' 'görsel' 'efekt'siz'dir; 'dövülür', 'çarmıha' 'gerilir' — 'şiddet' 'gösterilmez' ama 'hissedilir'. 'Müzik' — Bach, Mozart, blues — 'zaman'ı 'aşar'; İsa 'sosyalist' 'konuşur' — 'yoksul' 'kurtuluş' 'ister'.
+
+Matta'ya göre: İsa (Enrique Irazoqui), yoksul köylerde dolaşır — balık çıkarımı, hasta iyileştirme, dağ vaazı. Roma askerleri ve hahamlar — otorite ile çatışma. Son akşam yemeği, Getsemani bahçesi, içinde ölüm — tarih belgesel gibi çekilir. Matera sokakları — gerçek mağara evler — 2000 yıl önce gibi görünür. Diriliş — son kare — güneş ve boş mezar.
+
+# Üretim ve arka plan
+
+Pier Paolo Pasolini'nin Katolik kilisesi tarafından kabul edilen film — ateist komünist yönetmen en dürüst İsa filmini yapar. Amateur oyuncular — İsa kötü oynar — gerçek yüzler kullanılır. Matera — Güney İtalya — zaman dışı yer. Siyah-beyaz — haber reel gibi — tarih değil şimdidir.
 
 # Tez
-İsa, 'radikal' 'devrimci'dir — Pasolini'nin tezi: 'mucize' 'doğaüstü' değil 'politik'tir; 'ekmek' 'bölüşülür', 'hasta' 'iyileşir' — 'komünizm' 'İsa'nın 'öğretisi'dir. 'Çarmıh' 'devlet' 'suçu'dur — 'masum' 'öldürülür'.
 
-## Mekanizma
-'Amatör' 'oyuncu'lar — 'köylü' 'yüz'leri — 'gerçek'lik 'verir'; 'el' 'kamerası' — 'titreyen', 'yakın' — 'an' 'yakalanır'. 'Diyalog' — 'Kutsal' 'Kitap' 'metni' — 'değiştirilmez'; 'siyah-beyaz' — 'belge' 'estetiği' — 'tarih' 'şimdi'dir.
+İsa, politik devrimcidir — Pasolini'nin tezi: yoksul halk ile iktidar karşıtlığı; mucize mümkün ama adalet gereklidir. Matera — taş şehir — geçmiş ve şimdi birleşir.
+
+## Karşılama ve miras
+
+Pasolini'nin 'ateist' yönetmen olarak 'en dürüst İsa filmi' iddiası; 1964 Venedik'te gösterildi, 1965'te Oscar adaylığı (Yabancı Film). 'Matera' — 'mağara evler' — '2000 yıl önce gibi'. 'Amatör oyuncular' — 'İsa'ı kötü oynayan' — 'gerçek yüzler'. 'Dağ vaazı' — 'politik devrimci' — Pasolini'nin 'Marksist İsa' okuması.
+
+## Mekanizma ve biçem
+
+El kamerası — belgesel yaklaşım; yüzler — gerçek köylü — zaman değişmez. Dağ — tepe — vaaz mekânıdır.
 
 ## Kişisel uygunluk
-İsa'nın 'politik' 'okuması' profiline çok güçlü uyuyor — 'Marksist' 'Hıristiyanlık'ın 'en iyi' 'örneği'.
+
+İsa ve sosyal adalet — tarihsel+politik profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Gospel According to St. Matthew (1964) · Notlar
 ### Tartışmalar & Notlar

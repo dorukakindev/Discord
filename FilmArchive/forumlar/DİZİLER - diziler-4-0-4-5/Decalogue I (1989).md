@@ -4,7 +4,7 @@ https://a.ltrbxd.com/resized/sm/upload/mb/3e/pr/ra/the-decalogue-1200-1200-675-6
 > **Tür:** Dram · **Süre:** 572 dk · **Dil:** Lehçe · **Yıl:** 1989
 **Sana uygunluk: 3.7/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-The Ten Commandments, exact and uncompromising, literally cast in stone, continues to provide a source of moral conflict in contemporary society. In the ten part epic masterpiece, The Decalogue, Krzysztof Kieslowski examines the dilemma of fundamental sin in the lives of ordinary Warsaw citizens.
+Kieslowski'nin 'Başka tanrın olmasın' hikâyesi: Krzysztof, bilgisayar bağımlısı baba, buz üzerinde paten yapan oğlu kaybeder — hesap yanılır.
 
 ### Puanlar
 IMDb **8.9/10** · Letterboxd **4.59/5** · nMDB **90.4**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Decalogue I (1989) · Derin Analiz
 # Ayrıntılı konu
-Dekalog'un ilk bölümü: Krzysztof, profesör ve oğlu Pawel — bilgisayarla 'buzun kalınlığı' hesaplarlar, 'gölde kayabilir miyiz?' diye sorarlar. Bilgisayar 'evet' der ama buz kırılır ve Pawel boğulur. Krzysztof'un 'rasyonel' dünyası çöker — bilgisayar, 'hesaplanamayan'ı hesaplayamaz. Ayin sırasında ikonun gözünden 'yağmur' damlar — insanlık 'ağlar' ama makine 'açıklayamaz.'
+
+Varşova: Krzysztof (Henryk Baranowski), üniversite profesörü, akıllı ev kurar — bilgisayar süt ısıtır, ışık yakar. Oğlu Paweł (Wojciech Klata) buz üzerinde paten yapmak ister — bilgisayar hesaplar: güvenli. Buz kırılır — Paweł boğulur. Kilise yangını — mumlar erir — Tanrı bakmaz. Krzysztof fotoğraf makinesiyle boş yüz çeker — hesap yanılgısı insan bedeninde kalır.
+
+# Üretim ve arka plan
+
+Kieslowski'nin Dekalog serisinin ilk bölümü — 'Başka tanrın olmasın' emri bilgisayar çağında tekrar yazılır. Akıllı ev — 1989 için ileri teknoloji — kontrol fantezisidir. Buz — doğa — hesap dışıdır; bilgisayar ısı ölçer ama insan görür. Mavi ışık — televizyon ekranı — modern gözdür.
 
 # Tez
-Akıl, hayatın sınırlarını bilmez — Kieslowski'nin tezi: bilim 'öngörü'dür ama 'kader' değil; Pawel'in ölümü 'hesaplanabilir' değildir çünkü doğa 'rastgele'dir. İlk emir ('Başka tanrın olmayacak') burada 'bilim'in putlaştırılması olarak okunur.
 
-## Mekanizma
-Kış ve su — buz, göl, pencere — filmin 'soğuk' estetiği; bilgisayar ekranının yeşil ışığı 'umut' ile 'boşluk' arasında gider. Sessiz genç (tanık) sahilde oturur — ateşin yanında; 'insan' ısınır, 'doğa' yanar. Krzysztof'un ikonu tutuşu — bilgisayara bakarken — 'bilgi' ile 'inanç'ın çatışmasıdır.
+İnsan, kontrol fantezisinde yalnızdır — Kieslowski'nin tezi: bilgisayar Tanrı değildir; veri şansı yoktur. Anne döner — aile bölünür — teknoloji boşluk dolduramaz.
+
+## Karşılama ve miras
+
+Kieslowski'nin ilk bölümü — 'Başka tanrın olmasın' bilgisayar çağında; Paweł'in buz altında boğulması Polonya televizyonunun en sarsıcı anı. 'Akıllı ev' 1989 için ileri teknoloji; 'hesap = kontrol fantezisi' olarak AI tartışmasını önceler. Dekalog'un en çok izlenen bölümü; 'buz = doğa = hesap dışı' metaforu.
+
+## Mekanizma ve biçem
+
+Ev — cam ve elektronik — sıcak değil soğuktur; buz sahnesi — sessiz ve uzak — ölüm görünmezdir. Yüz yoktur — göz ekrandadır.
 
 ## Kişisel uygunluk
-Bilim-inanç çatışması ve kayıp profiline çok güçlü uyuyor — Dekalog'un en yıkıcı bölümü.
+
+Teknoloji ve kayıp — felsefi+trajik profil için tam uyum.
 
 -# THE FILM ARCHIVE · Decalogue I (1989) · Notlar
 ### Tartışmalar & Notlar

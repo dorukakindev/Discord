@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/7cRQ6rSGajW2soWDr3voEN2rgYO.jpg
 > **Yönetmen:** Toshio Matsumoto · **Tür:** Dram · **Süre:** 105 dk · **Dil:** Japonca · **Yıl:** 1969
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-In 1960s Tokyo, Gonda owns a bar in which the gay, cross-dresser, and trans scenes meet. Gonda is in a relationship with the madam of the bar, Leda. As the younger Eddie starts a passionate affair with Gonda, she ignites the jealousy of Leda, unaware of another kind of history between them.
+Matsumoto'nun queer 'film: Eddie, trans kadın, Tokyo gece hayatında aşk ve intikam arar — güzellik ve kader karışır.
 
 ### Puanlar
 IMDb **7.7/10** · Letterboxd **4.32/5** · nMDB **81.7**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Funeral Parade of Roses (1969) · Derin Analiz
 # Ayrıntılı konu
-Toshio Matsumoto'nun 'Tokyo' 'yeraltı' filmi: Eddie, 'gay' 'bar' 'hostes'i — 'gece' 'hayatı', 'uyuşturucu', 'seks' — 'annesi' 'arayışı'nda 'kaybolur'. 'Oedipus' 'teması' — 'baba' 'ölümü', 'anne' 'aşkı' — 'modern' 'Japonya'da 'yaşanır'; 'deneysel' 'sahne'ler — 'belgesel', 'şiir', 'karışık' 'medya' — 'gerçek' 'bulunamaz'.
+
+Tokyo, 1969: Eddie (Peter), gay bar Gencives hostesi, gece hayatında yükselir — aşk ve kıskançlık. Leda — bar sahibi — Eddieyi seçer. Baba hatırası — çocukluk travması — aşk ve nefret 'kaynaktadır. Gerçek ve maske — yüz boyama — kadın olmak performanstır. Son — göz ve bıçak — intikam ve kader.
+
+# Üretim ve arka plan
+
+Toshio Matsumoto'nun underground 'filmi; Tokyo gece hayatı — gerçek bar ve insanlar kullanılır. Peter — gerçek drag queen — oyuncu değil ikondur. Deneysel montaj — hız ve yineleme — dönem ruhu. Queer sinema — başlangıç noktası — Japon yeraltı kültürü.
 
 # Tez
-Kimlik, 'sürü' 'içinde' 'gizlenir' — Matsumoto'nun tezi: 'gece' 'dünyası' 'aile'nin 'yerini' 'alır'; 'beden' 'kostüm'dür — 'cinsiyet' 'oyun'dur. 'Arama' 'son' 'bulur' ama 'cevap' 'vermez'.
 
-## Mekanizma
-'Deneysel' 'montaj' — 'hızlı' 'kesme', 'metin', 'ses' — 'bilinç' 'akışı'dır; 'siyah-beyaz' — 'kontrast' — 'gündüz' 'ile' 'gece' 'aynı'dır. 'Tokyo' — 'sokak'lar, 'bar'lar — 'yeni' 'dünya' 'eski' 'gelenek'le 'çatışır'; 'final' — 'yüz' — 'kendi' 'içinde' 'kaybolur'.
+Kimlik, maske ve yaradır — Matsumoto'nun tezi: kadın olmak seçim ama yara derindir; aşk ve intikam aynı kaynaktan gelir.
+
+## Karşılama ve miras
+
+Matsumoto'nun 'Tokyo yeraltı' filmi; 'Gencives' barı gerçek — 'Peter' (drag queen) ilk büyük rol. 'Deneysel montaj' — 'hız ve yineleme' — '1960'lar enerjisi'. 'Eddie' — 'trans kadın' — 'Japon queer sinemasının başlangıcı'. 'Leda'nın seçimi' — 'bar sahibi' — 'aşk ve rekabet'. 'Ozu'nun 'Tokyo'sunun karanlık yüzü'.
+
+## Mekanizma ve biçem
+
+El kamerası — gece ve neon; makyaj — yüz değişimi — sanat ve hayat. Göz — bıçak ile yakın — görme ve körlük.
 
 ## Kişisel uygunluk
-Queer kimlik ve 'yeraltı' 'kültürü' profiline çok güçlü uyuyor.
+
+Queer ve yeraltı — sürrealist+psikolojik profil için tam uyum.
 
 -# THE FILM ARCHIVE · Funeral Parade of Roses (1969) · Notlar
 ### Tartışmalar & Notlar

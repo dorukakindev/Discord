@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg
 > **Yönetmen:** Asghar Farhadi · **Tür:** Dram · **Süre:** 123 dk · **Dil:** Farsça · **Yıl:** 2011
 **Sana uygunluk: 3.8/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve diyalog 9/10.
 
-Nader ve Simin'in boşanma kararı, Alzheimer'lı baba ve hizmetçi Razieh'in düşüğüyle bir hukuk krizine döner; herkes 'kendi doğrusunu' savunur ama ahlaki gerçek parçalanır.
+Farhadi'nin İran dramı: Nader ve Simin ayrılık kararı verir; bakıcı Razieh'in düşmesiyle hukuk sınıf ve din karşılaşır — gerçek belirsizdir.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.40/5** · nMDB **85.5**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **9** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · A Separation (2011) · Derin Analiz
 # Ayrıntılı konu
-Nader ve Simin çifti ayrılma kararındadır — Simin ülkeyi terk etmek ister, Nader Alzheimer'lı babası için kalır. Razieh (hizmetçi) ve kocası Hodjat araya girer: Razieh'in düşük yapması ve Nader'ın 'suçlu' olup olmadığı sorunu. Gerçek herkesin 'doğrusu' kadar karmaşıktır — kimse yalan söylemiyor ama herkes 'kendi gerçeğini' savunuyor. Mahkeme sadece 'teknik' karar verir; ahlaki cevap izleyiciye kalır.
+
+Tahran: Nader (Peyman Moaadi) ve Simin (Leila Hatami) boşanma mahkemesinde — yurtdışı çıkışı istiyor ama babası Alzheimerlıdır. Razieh (Sareh Bayat), hamile bakıcı, işe gelir ama şeri kaygıları vardır. Banyo kazası sonrası bebek düşer; itme mi düşme mi? Kürtaj korkusu ve din arasında yalan başlar. Mahkeme odaları — hakim masa — adalet sınıf 'farkıyla işler. Termeh (Sarina Farhadi) kız arada kalır — oy veremez.
+
+# Üretim ve arka plan
+
+Asghar Farhadi'nin beşinci filmi; 2011 Berlin Altın Ayı ve 2012 Oscar (En İyi Yabancı Film — İran'ın ilk). Gerçek belirsizlik — kim itse — iki tarafın da haklı nedeni vardır. Din ve hukuk modern İranın gerilimidir. Çocuk Termeh — seyircinin konumudur — seçim yapamaz.
 
 # Tez
-Ahlak, niyetle değil sonuçla yargılanır — Farhadi'nin tezi: hiçbir karakter 'kötü' değil ama hepsi 'suç ortağı'dır; dini, sınıf ve hukuki çizgiler aynı odada buluşur. Gerçek 'tek' değildir — herkesin 'ayrı bir gerçeği' vardır.
 
-## Mekanizma
-El kamerası — belgesel estetiği — sahneleri 'doğal' kılar; izleyici 'tanık' olur ama karar veremez. Simin'in çıkışı ve Razieh'in girişi filmin iki 'kaynağı'dır; her karakter kendi içinde 'haklı'dır. Finalde çift kızlarının kararını bekler — 'ayrılık' artık çocuğun seçimidir.
+Ayrılık, sistem içinde insandır — Farhadi'nin tezi: hukuk gerçeği bulamaz çünkü sınıf gözü kapatır. İnanç koruma değil kısıtlamadır.
+
+## Karşılama ve miras
+
+Farhadi'nin beşinci filmi; 2011 Berlin Altın Ayı + 2012 Oscar (İran'ın ilk En İyi Yabancı Film Oscarı). 'Kim itti?' belirsizliği — iki tarafın da haklı nedeni — hukuk-sınıf-din denkleminin en doğru sinema haritası. 'El kamerası' mahkeme sahneleri 'gerçeklik televizyonu' gibi; Termeh'in 'seçemez' bakışı seyircinin konumu.
+
+## Mekanizma ve biçem
+
+'El kamerası' — mahkeme salonu sıkışıktır; cam paneller — ayrı ama bağlı dünyalar. Çocuk gözü — seyirci gibi görür ama anlayamaz.
 
 ## Kişisel uygunluk
-Ahlaki muğlaklık ve sınıf çatışması profiline çok güçlü uyuyor.
+
+Hukuk ve sınıf — toplumsal+ahlaki profil için tam uyum.
 
 -# THE FILM ARCHIVE · A Separation (2011) · Notlar
 ### Tartışmalar & Notlar

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg
 > **Yönetmen:** Gillo Pontecorvo · **Tür:** Dram, Savaş · **Süre:** 122 dk · **Dil:** Arapça, Fransızca, İngilizce · **Yıl:** 1966
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve olay örgüsü 8/10.
 
-İkinci Dünya Savaşı sırasında eski bir Fransız Direniş savaşçısı olan paraşütçü komutanı Albay Mathieu, Cezayir Savaşı'ndaki ayaklanmaları bastırma çabalarını desteklemek üzere Cezayir'e gönderilir. Orada, Cezayir Ulusal Kurtuluş Cephesi'nin lideri olarak sömürgeci Fransız hükümetinin işgaline karşı terör stratejileri yönlendiren eski bir adi suçlu olan Ali la Pointe ile karşı karşıya gelir. Her iki taraf da giderek artan vahşete başvururken, hiçbir şiddet eylemi düşünülemez bile değil.
+Pontecorvo'nun Cezayir Savaşı belgesel-dramı: Ali La Pointe'in hareketten kurtuluşa yükselişi ve Fransız paraşütçülerin kazığı — gerilla ile işkencenin simetrik karşıtlığı.
 
 ### Puanlar
 IMDb **8.1/10** · Letterboxd **4.48/5** · nMDB **85.3**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · The Battle of Algiers (1966) · Derin Analiz
 # Ayrıntılı konu
-Cezayir'in bağımsızlık savaşı (1954-1962): FLN'in Kasbah'daki hücreleri ve Fransız paraşütçü Albay Mathieu'nun karşı-savaşı. Film üç bombalama sahnesiyle ilerler — kadınlar 'Fransız' kıyafetiyle kafelere bomba koyar; Fransızlar eziyet ve işkenceyle hücreyi çözer. Ali la Pointe, çocukluktan gerillaya dönüşür; sonunda yakalanır ve 'Cezayir halkı özgürdür' bildirgesi okunur. Tarihsel figürler gerçek adlarıyla oynar — Pontecorvo 'belgesel' gibi çeker ama hiç belge kullanmaz.
+
+1954-57, Cezayir'in başkenti: Ali La Pointe (Brahim Haggiag), sokak çocuğu, FLN'ye (Ulusal Kurtuluş Cephesi) katılır — hücre yapısı kurulur: bir el bombası bir hayat. Fransa'nın cevabı parşömen ve işkencedir; 'saatli bomba' ve sünger (renchét) operasyonları. Kadınların Avrupa kılığında bomba taşıması — kuaför sahnesi — ve polis 'kontrol noktası'ndaki güvensizlik iki tarafın da masum öldürdüğünü gösterir. 1962'de Cezayir bağımsız olur — film tarih değil mekanizmadır.
+
+# Üretim ve arka plan
+
+Gillo Pontecorvo'nun yeni-gerçekçi belgesel-dramı; FLN'nin 'kendi hikâyesini' anlatması için Cezayir hükümetinin desteğiyle çekildi (ama 'iki taraf'ı da insan gösterir). Ennio Morricone ve Pontecorvo'nun ortak skoru — Alinin Teması' ağıt ile marş arasında. İlk terör filmlerinden: Fransız ordusunda taktik dersi olarak, FLN tarafından 'el kitabı' olarak kullanıldığı söylenir. 1966 Venedik Altın Aslan; 2004'te Pentagon'da 'Irak işgali' öncesinde gösterildi.
 
 # Tez
-Şiddetin mantığı, karşı-şiddetin meşrulaştırıcısıdır — Pontecorvo'nun çift taraflılığı: Fransızların işkencesi de, FLN'in bombası da 'vatanseverlik' adına yapılır; filmin gücü 'taraf tutmaması' değil, iki tarafın da 'kendi içinden' haklı çıkmasıdır. Sömürgecilik, direnişi 'terör' olarak yaratır — sonra onu yok etmek için kendi şiddetini üretir.
 
-## Mekanizma
-Ennio Morricone'nin müziği ve haber-stili kameralar — el kamerası, uzun objektif — olayı 'şimdi' gibi verir; ama Pontecorvo hiçbir gerçek belge görüntüsü kullanmaz çünkü 'belge' anlatıyı 'tarihe' kapatır. Kadınların kılık değiştirmesi sahnesi — Fransız kıyafeti = ölüm maskesi — sömürge estetiğinin ikiyüzlülüğünü gösterir.
+Kurtuluş, kirlilik üzerinedir — Pontecorvo'nun tezi: 'iki taraf'ın da masumu yoktur; FLNnin hücre mantığı ile Fransız askeri mantığı aynı dildir. Kazanmak temiz değildir.
+
+## Karşılama ve miras
+
+Pontecorvo'nun FLN destekli belgesel-dramı; 1966 Venedik Altın Aslan. Hem gerilla el kitabı hem anti-terör dersi olarak kullanıldı — Pentagon 2003'te Irak işgali öncesi gösterdi; Fransız ordusu işkence sahnelerini 'doktrin analizi' yaptı. Ennio Morricone-Pontecorvo ortak skoru ('Ali'nin Teması'). 'Kentsel gerilla savaşının sinemadaki ilk doğru haritası.'
+
+## Mekanizma ve biçem
+
+Marcello Gatti'nin belgesel ışığı — 'haber fotoğrafı' estetiği; 'geri dönüş' ve şehir kadrajları Cezayir'i labirent yapar. Bomba montajları — planlama ile patlama — siyasi zamanı kişisel zamana bağlar.
 
 ## Kişisel uygunluk
-Sömürge karşıtlığı ve gerilla savaşı profiline çok güçlü uyuyor.
+
+Anti-kolonyal mücadele ve kirli tarih — politik ağırlık profiline tam uyum.
 
 -# THE FILM ARCHIVE · The Battle of Algiers (1966) · Notlar
 ### Tartışmalar & Notlar

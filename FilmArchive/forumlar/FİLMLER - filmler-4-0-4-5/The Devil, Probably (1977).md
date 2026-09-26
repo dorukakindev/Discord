@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/8y00J2rVtxHntKMukkkzsYKQORe.jpg
 > **Yönetmen:** Robert Bresson · **Tür:** Dram · **Süre:** 97 dk · **Dil:** Fransızca · **Yıl:** 1977
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Parisli genç Charles, çevre kirliliği, din ve siyaset arasında 'dünyanın çürüklüğünü' görür; hiçbir çözümü 'denemeyerek' intiharı tek 'doğru cevap' olarak seçer ve birini kendini öldürmeye ikna eder.
+Bresson'un nişast 'film: Charles, Parisli öğrenci, ölümü seçer — arkadaşları neden sorar ama o mantıklı cevap verir: hiçbir şey için yaşamak istemiyorum.
 
 ### Puanlar
 IMDb **7.0/10** · Letterboxd **3.85/5** · nMDB **73.5**
@@ -19,16 +19,28 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Devil, Probably (1977) · Derin Analiz
 # Ayrıntılı konu
-Bresson'un 'modern hayat' filmi: Charles, genç bir Parisli — entelektüel, hassas, 'dünya'ya uymaz. Çevresindeki herkes 'çözüm' arar: çevrecilik, din, siyaset, psikanaliz; Charles hepsini 'denemez' — sadece 'görür'. Arkadaşlarıyla 'apokaliptik' tartışmalar yapar, sevgilisini kaybeder, sonunda 'intihar' için bir 'plan' yapar — birini 'kendisini öldürmeye' ikna eder çünkü 'kendini öldüremez'. Son sahne: 'Doğru' cevabın olmadığı bir dünyada 'ölüm' tek 'doğru' cevaptır.
+
+Paris'te Charles (Antoine Monnier) — yakışıklı, zeki, nihilist — din, siyaset, aşk için çözüm aramaz. Grup toplantıları — Maoist, ekolojist — heyecan 'yaratmaz. Arkadaşları — Michel, Valentin, Edwige — yaşamak ister ama Charles ölmek ister. Otobüs yolculuğu — Trafik şarkısı — son sorular: neden ölmek istemiyorsun? Çünkü yaşamak istemiyorum. Ölüm — intihar — planlıdır.
+
+# Üretim ve arka plan
+
+Robert Bresson'un son dönem 'filmi; 'Le diable probablement' — Dostoyevskinin Karamazov kardeşlerinden Alyoshanın kötü kardeşi İvanın modern halidir. Sokak röportajları — gerçek Parisli gençler — 1970ler Mayıs sonrası boşluku yansıtır. Yüzme havuzu — kutsal su — temizlik ve ölüm birleşir.
 
 # Tez
-Umutsuzluk, dünyanın 'aşırı' bilinçlenmesidir — Bresson'ın tezi: Charles 'deli' değil 'fazla açık'tır; çevre kirliliği, savaş, tüketim — hepsi 'gerçek'tir ve Charles bunları 'görür'. 'Normal' insanlar 'görmez' — Charles'ın 'hastalığı' farkındalıktır.
 
-## Mekanizma
-Bresson'un 'model' oyunculuğu — mimik, 'performans' yok — Charles'ı 'seyirci' yapar; Paris'in 'günlük' sahneleri (metro, park, kafe) 'apokaliptik' söylemle çelişir. 'Bilim' sahneleri — laboratuvar, ders — 'bilgi'nin 'boşluğu'nu gösterir; son sahnede 'el sıkışma' — ölüm 'sözleşme' gibidir.
+Akıl, yaşamak için yeterli sebep bulamaz — Bresson'un tezi: Charles deli değil mantıklıdır; dünya kötü ama ilginç 'değildir. Otobüs — son yolculuk — kader gibi sürer.
+
+## Karşılama ve miras
+
+Bresson'un 'en nihilist' filmi; 1977'de Cannes'da 'En İyi Yönetmen'le birlikte tartışma. Charles'ın 'hiçbir şey için yaşamak istemiyorum' repliği ve otobüs yolculuğu — 'Trafik' şarkısı — 'pasif intihar' analizi. '1970'ler post-Mayıs boşluğu' — gençlik ideolojisinin çöküşü. Bresson'un 'son büyük filmi' ve 'en soğuk' çalışması.
+
+## Mekanizma ve biçem
+
+Doğal ses — şehir gürültüsü — müzik yoktur; yüzler donuk — duygu içseldir. Otobüs penceresi — dışarı bakış — son görüş.
 
 ## Kişisel uygunluk
-Umutsuzluk ve modern hayat eleştirisi profiline çok güçlü uyuyor — Bresson'ın en 'genç' filmi.
+
+Nihilizm ve intihar — varoluşsal+felsefi profil için tam uyum.
 
 -# THE FILM ARCHIVE · The Devil, Probably (1977) · Notlar
 ### Tartışmalar & Notlar

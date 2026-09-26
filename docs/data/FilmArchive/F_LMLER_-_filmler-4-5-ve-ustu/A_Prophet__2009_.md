@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg
 > **Yönetmen:** Jacques Audiard · **Tür:** Suç, Dram · **Süre:** 155 dk · **Dil:** Arapça, Fransızca, Korsikaca · **Yıl:** 2009
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Altı yıl hapis cezasına çarptırılan Malik El Djebena dünyada yalnızdır ve okuma yazma bilmemektedir. Hapishaneye vardığında orada tutuklu olan diğerlerine göre daha genç ve daha kırılgan görünüyor. Bir anda hapishanede kendi kurallarını uygulayan bir grup Korsikalı'nın etkisi altına girer. 'Görevler' ilerledikçe kendini güçlendiriyor ve Korsikalı grubun güvenini kazanıyor.
+Audiard'ın hapishane filmi: Malik, Arap mahkûm, koruma için suikast yapar ve piyadeye yükselir; iyi ile kötü hapishanede survival olarak okunur.
 
 ### Puanlar
 IMDb **7.8/10** · Letterboxd **4.18/5** · nMDB **80.8**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · A Prophet (2009) · Derin Analiz
 # Ayrıntılı konu
-Malik El Djebena, 19 yaşında, okuma yazması olmayan Arap genci; altı yıl hapse girer. Cesar Luciani'nin (Korsikalı mafya) himayesine girer — önce 'hizmetçi' olur, sonra ilk cinayeti işler: Reyeb'in boğazını jiletle keser (sahnede ağızda tutulan bıçak, fiziksel olarak mide bulandırıcıdır). Zamanla Malik eğitilir — okuma öğrenir, dil öğrenir, 'oyunu' öğrenir — ve Cesar'ı iktidardan düşürerek kendi 'imparatorluğunu' kurar. Film, 'kurban'dan 'efendi'ye geçişin ahlaki maliyetini verir.
+
+19 yaşındaki Malik El Djebena (Tahar Rahim) altı yıl hapse girer — okuma yazma bilmez, kimliksiz. Korsikalı baba Cesar Luciani (Niels Arestrup) onu korur ama öldürme görevi verir: Reyeb'in boğazını kesmesi gerekir. Malik başarır ama hayaletle yaşar. Hapishanede eğitim — okuma, ticaret, bilgi — onu tarafsız yapar; çıkınca Luciani'nin işlerini yürütür ama kendi ağını kurar. Reyebin hayaleti' yoldaş olur — vicdan görünür kalır.
+
+# Üretim ve arka plan
+
+Jacques Audiard'ın 'Abdel Raouf Dafri ve Nicolas Peufaillit senaryosu; 2009 Cannes Büyük Jüri Ödülü, 2010 Oscar adaylığı. Rahim'in yükseliş performansı — çocuk ile canavar arasındaki ince değişim. Hapishane gerçeklikle çekildi — dekor değil sistem. 'A Prophet' — gelecek değil sezgi anlamında: Malik öngörür ama kader değil hesap yapar.
 
 # Tez
-Hayatta kalma, iktidarın dilini öğrenmektir — Audiard'ın tezi: hapishane bir üniversitedir; Malik'in yükselişi 'iyi' ya da 'kötü' değildir — sistemin içinde 'öğrenci' olmaktır. Sonunda Malik 'özgür' değildir, yeni bir zindan kurmuştur: kendisini.
 
-## Mekanizma
-Malik'in okuma öğrenmesi — kelime kelime, harf harf — filmin 'bilinçlenme' eksenidir; hayal ile gerçek (Reyeb'in hayaleti) karışır — Malik'in içsel dünyası 'suçluluk'la konuşur. 'Gözetleme' sahneleri — Malik'in pencerelerden, kameralardan izlenmesi — izleyiciyi de 'gözlemci' yapar. Son sahne: Malik'in arabası ve korumaları — 'kurtuluş' kendi zırhıdır.
+Güç, okuma ile yazmadır — Audiard'ın tezi: hapishane üniversitedir; Malik suçu öğrenir ama sınıfı anlar. Kefaret yoktur, iş vardır.
+
+## Karşılama ve miras
+
+Audiard'ın hapishane-üniversitesi filmi; 2009 Cannes Büyük Jüri Ödülü, 2010 Oscar adaylığı. Tahar Rahim'in Malik'i 'çocuktan patrona' dönüşümün ders kitabı; Niels Arestrup'un Luciani'si 'baba = sistem' figürü. 'Hapishane okulu' kavramı Fransız sosyolojisinde gerçek tartışma yarattı; film hapishane reformunda gösterildi.
+
+## Mekanizma ve biçem
+
+Hayalet Reyeb — vicdanın görsel halidir; Malik'in rüyaları gerçekle kaynaşır. Cam ve beton — şeffaf ama sert dünya.
 
 ## Kişisel uygunluk
-Hapishane eğitimi ve iktidar yükselişi profiline çok güçlü uyuyor.
+
+Hapishane ve yükseliş — toplumsal+psikolojik profil için güçlü uyum.
 
 -# THE FILM ARCHIVE · A Prophet (2009) · Notlar
 ### Tartışmalar & Notlar

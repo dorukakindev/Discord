@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg
 > **Yönetmen:** Andrew Dominik · **Tür:** Biography, Suç, Dram · **Süre:** 160 dk · **Dil:** İngilizce · **Yıl:** 2007
 **Sana uygunluk: 4.1/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Kanun kaçağı Jesse James'in "Batı'nın en hızlı silahı" olduğu söyleniyor. James'in kötü şöhretli çetesine hevesli bir üye olan Robert Ford, sonunda ünlü kanun kaçağını kıskanmaya başlar ve Robert ile kardeşi, James'i öldürme fırsatını hissettiklerinde, onların kanlı eylemi, hedeflerini neredeyse efsanevi bir statüye yükseltir.
+Andrew Dominik'in western'i: Jesse James'in (Brad Pitt) son günleri ve Robert Ford'un (Casey Affleck) kahraman ile hayran arasındaki çizgiyi aşan ölümcül hayranlığı.
 
 ### Puanlar
 IMDb **7.5/10** · Letterboxd **4.03/5** · nMDB **77.8**
@@ -19,16 +19,28 @@ Düşünsel **7** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · The Assassination of Jesse James by the Coward Robert Ford (2007) · Derin Analiz
 # Ayrıntılı konu
-Bob Ford, Jesse James'e hayran bir genç — hayranlık gittikçe kıskançlığa, kıskançlık da ölüm arzusuna dönüşür. James'i evinde, tablosunu düzeltirken sırtından vurur; 'kahraman' ölür ve Ford ünlenir ama kaderi 'korkak' olarak damgalanmaktır. Film ikinci yarısında Ford'un şöhretinin çöküşünü izler — 'Jesse James'i öldürdüm' şarkısıyla gezinen Ford, sonunda birinin onu aynı şekilde öldürmesini bekler.
+
+1881, Missouri: Jesse James çetesi dağılırken, genç hayran Robert Ford çeteye katılmak ister. James efsane ama paranoyaktır — herkesten şüphelenir, gömüldüğü duygusal uyuşukluktan çıkamaz. Ford kahramanı öldürmeye karar verir — şeref değil şan için. Suikast sahnesi: Jesse'nin 'To be or not to be' tabelası, 'silahını bırakma' hareketi ve Ford'un arkadan vuruşu. Ford kahraman olur ama korkak damgasıyla yaşar — 'Bir Korkak' sözü hem Ford'a hem sisteme yöneliktir.
+
+# Üretim ve arka plan
+
+Ron Hansen romanını (1983) uyarlayan Dominik'in ikinci filmi; Warner Bros.'un sanat filmi olarak büyük bütçeyle desteklemesi — westernın anti-western haline getirilmesi. Roger Deakins'in 'sığ alan derinliği' ve filtreli ışığı (hand-blurred edges) — anı fotoğrafı gibi — 2007'de Oscar adaylığı. Pitt'in tehlikeli sakinliği ile Affleck'in 'gözle görülür' kıskançlığı arasındaki dengesizlik. Nick Cave ve Warren Ellis'in hüzünlü skoru.
 
 # Tez
-Şöhret, öldürdüğün şeyin gölgesidir — Dominik'in tezi: Ford James'i öldürerek 'James' olmak istedi ama sadece 'katil' oldu; efsane cinayeti affetmez çünkü kahramanı öldüren, halkın hayalini de öldürür. Film western değil, bir 'ikon suikasti'nin trajedisidir.
 
-## Mekanizma
-Roger Deakins'in fotoğrafı — bulanık kenarlı lenslerle — belleğin 'eski fotoğrafı'nı verir; buğday tarlaları ve kar 'sonsuz' görünür ama içlerinde insan küçülür. Anlatıcı sesi romanın dilini korur — film 'okunan' bir metindir; durgun sahneler 'ülkenin içindeki yalnızlığı' verir. Ford'un son sahnesi — barda şarkı söyleyen adam — kahramanlığın 'tiyatrosu'dur.
+Şan, 'yok etme' arzusudur — Dominik'in tezi: Ford Jamese değil efsanesine âşıktır; kahramanlık mitinin sonu cinayettir. Korkaklık sıfatı, sistemin kendi suçunu dışlamasıdır.
+
+## Karşılama ve miras
+
+Andrew Dominik'in Ron Hansen romanını 15 yılda gerçekleştirdiği projesi; Warner Bros. 160 dakikalık versiyonu finanse etti (büyük stüdyonun 'sanat westerni' kumarı). Roger Deakins'in tilt-shift ve ampul-ışığı lensleri — 'anı fotoğrafı' estetiği — Oscar adaylığı. Brad Pitt'in Jesse'si 'efsane = paranoya' formülünü kişileştirir; Casey Affleck'in 'korkak' Ford'u kariyer rolü.
+
+## Mekanizma ve biçem
+
+Deakins'in dışarıdan bulanık kadrajları — hafıza gibi görünen şimdi; kar ve tren sahneleri zamanı yavaşlatır. Suikast sahnesindeki sessizlik — silah sesi sonradan gelir — anın ölümsüzleşmesi.
 
 ## Kişisel uygunluk
-Şöhret, ihanet ve efsane eleştirisi profiline çok güçlü uyuyor.
+
+Western mitolojisi ve kahraman eleştirisi — estetik profil için güçlü uyum.
 
 -# THE FILM ARCHIVE · The Assassination of Jesse James by the Coward Robert Ford (2007) · Notlar
 ### Tartışmalar & Notlar
