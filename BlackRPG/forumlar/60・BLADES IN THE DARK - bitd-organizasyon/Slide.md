@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/b/b7/BelnimbrasStreet.JPG/revision/latest?cb=20220703195857
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Slide — Manipülatör / Casus

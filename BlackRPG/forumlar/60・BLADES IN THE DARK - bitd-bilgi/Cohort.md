@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/85/Thaumaturgist.jpg/revision/latest?cb=20070928070657
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Cohort — Ayaktakımı, Ekibe Bağlı Çete ya da Uzman

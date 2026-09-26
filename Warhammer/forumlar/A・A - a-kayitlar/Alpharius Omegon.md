@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Alpharius_Pythian_Scales.jpg/revision/latest?cb=20140410023824
+
 -# THE IMPERIAL ARCHIVE
 # Alpharius Omegon
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/fb/Stronghold_%28Liam%27s_Hold%29.png/revision/latest?cb=20211006231252
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Stronghold — Stronghold, Maceraperestlerin Kurup Geliştirdiği Kale

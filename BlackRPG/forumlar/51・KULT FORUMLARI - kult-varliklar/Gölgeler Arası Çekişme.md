@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/d/d8/Khayal_-_Lucio_Parrillo.jpg/revision/latest?cb=20091214132117
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Gölgeler Arası Çekişme — Ölüm Melekleri'nin İç Savaşı, İhanetin Kalesi

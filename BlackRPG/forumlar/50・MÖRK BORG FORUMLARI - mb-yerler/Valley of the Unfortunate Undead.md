@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/f0/Silverwisp_Swamp.png/revision/latest?cb=20220515122253
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Valley of the Unfortunate Undead — Şanssız Ölümsüzler Vadisi, Yürüyen Ölülerin Lanetli Çukuru

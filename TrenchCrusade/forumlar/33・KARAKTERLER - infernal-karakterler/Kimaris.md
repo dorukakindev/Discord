@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/b/b0/Constantinople_map.png/revision/latest?cb=20250513121915
+
 -# THE TRENCH ARCHIVE · 33・KARAKTERLER · Kayıt
 
 # Kimaris — Kimaris — Cehennem'in Marquis'i

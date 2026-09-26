@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Prognosticator_Rennin_Tri%27el.jpg/revision/latest?cb=20130105101901
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Silver Skulls
 

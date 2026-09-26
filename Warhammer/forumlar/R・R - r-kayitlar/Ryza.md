@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Ryza.jpg/revision/latest?cb=20200801195133
+
 -# THE IMPERIAL ARCHIVE · R Kayıtları
 # Ryza
 

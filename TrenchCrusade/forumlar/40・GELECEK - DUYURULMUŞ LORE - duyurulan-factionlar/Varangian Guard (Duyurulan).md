@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/b/bf/Varangian_sergeant.png/revision/latest?cb=20250326142420
+
 -# THE TRENCH ARCHIVE · 40・GELECEK / DUYURULMUŞ LORE · Kayıt
 
 # Varangian Guard (Duyurulan) — Vareg Muhafızları — Kuzey'in Beklenen Gücü

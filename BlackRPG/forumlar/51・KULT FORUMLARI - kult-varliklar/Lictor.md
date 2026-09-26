@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/37.03a_roman_lictor.png/330px-37.03a_roman_lictor.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Lictor — Lictor, Archon'lara Hizmet Eden Aracı

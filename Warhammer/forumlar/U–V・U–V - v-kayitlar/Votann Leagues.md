@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/76/EinhyrHearthguardExoArmourMini.jpg/revision/latest?cb=20230224193633
+
 -# THE IMPERIAL ARCHIVE · V Kayıtları
 # Votann Leagues
 

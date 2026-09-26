@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_SPQR_banner.svg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Imperium — İmparatorluk, Doskvol'ün Bağlı Olduğu Devlet

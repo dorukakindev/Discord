@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/47/Cutter_3_cover_A.jpg/revision/latest?cb=20150831033045
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Cutter — Kabadayı / Savaşçı

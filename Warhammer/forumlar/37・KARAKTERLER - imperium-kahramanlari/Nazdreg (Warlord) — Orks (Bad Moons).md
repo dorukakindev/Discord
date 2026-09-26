@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/eb/BM_Banner.jpg/revision/latest?cb=20130507183958
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Nazdreg (Warlord) — Orks (Bad Moons)
 

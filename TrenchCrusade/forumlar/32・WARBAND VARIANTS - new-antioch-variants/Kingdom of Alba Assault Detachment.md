@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/a/a8/Alba_map.png/revision/latest?cb=20250402154718
+
 -# THE TRENCH ARCHIVE · 32・WARBAND VARIANTS · Kayıt
 
 # Kingdom of Alba Assault Detachment — Alba Krallığı Taarruz Müfrezesi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e5/17b._Aurelian.jpg/revision/latest?cb=20120405043136
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Aurelian (Novella)
 

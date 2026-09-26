@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a7/Otiluke%27s_Telekinetic_Sphere.png/revision/latest?cb=20201126164843
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Powder of Ibn-Ghazi (Ayin) — Ibn-Ghazi Tozunu Hazırlama

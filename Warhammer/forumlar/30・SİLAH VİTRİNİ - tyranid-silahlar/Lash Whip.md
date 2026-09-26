@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7d/RaptureLashMini.jpg/revision/latest?cb=20250528175616
+
 -# THE IMPERIAL ARCHIVE · Tyranid Silahlar · Kayıt
 # Lash Whip
 

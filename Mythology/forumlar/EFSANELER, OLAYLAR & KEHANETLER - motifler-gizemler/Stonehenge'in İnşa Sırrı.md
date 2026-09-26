@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/330px-Stonehenge2007_07_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Motifler & Gizemler · Kayıt
 # Stonehenge'in İnşa Sırrı
 > **Tarih:** M.Ö. 3000 – M.Ö. 1500 (çok aşamalı) · **Konum:** Salisbury Ovası, Wiltshire, İngiltere · **Kategori:** tarihsel · **Gelenek:** Druidizm / Neolitik Britanya · **Durum:** kısmen-çözülmüş

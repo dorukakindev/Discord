@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/87/Astral_construct.jpg/revision/latest?cb=20190727084345
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Electroplasm — Elektroplazma, Ruh Enerjisi Yakıtı ve Spark-craft

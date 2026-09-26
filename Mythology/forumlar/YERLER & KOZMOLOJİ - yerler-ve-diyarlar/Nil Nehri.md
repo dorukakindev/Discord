@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Beautiful_nature_along_Nile_River_01.jpg/330px-Beautiful_nature_along_Nile_River_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Yerler & Diyarlar · Kayıt
 # Nil Nehri
 > **Konum:** Mısır · **Mitoloji:** Mısır · **Tür:** kutsal-nehir

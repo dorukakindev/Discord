@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e3/Throne_Archon_3e.jpg/revision/latest?cb=20180109181013
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Boyun Eğme'nin Archon'u — İtaatin ve Teslimiyetin Meleği

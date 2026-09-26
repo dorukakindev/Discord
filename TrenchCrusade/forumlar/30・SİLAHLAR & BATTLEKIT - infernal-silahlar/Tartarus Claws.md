@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/7/76/Death_commando.jpg/revision/latest?cb=20250409131226
+
 -# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Tartarus Claws — Tartaros Pençeleri

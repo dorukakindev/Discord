@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/63/Bakka_Sub-Sector_Map.jpg/revision/latest?cb=20130410210319
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Büyük Haçlı Sefer
 

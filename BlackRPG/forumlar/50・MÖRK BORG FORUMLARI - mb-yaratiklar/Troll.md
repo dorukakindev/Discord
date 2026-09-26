@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/87/Troll_5point5e.jpg/revision/latest?cb=20250319234338
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Troll — Troll, Açlıkla Çıldıran Dev

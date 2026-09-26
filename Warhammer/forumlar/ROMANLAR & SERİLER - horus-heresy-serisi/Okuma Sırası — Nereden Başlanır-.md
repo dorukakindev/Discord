@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Imperial_Hawks_SP.jpg/revision/latest?cb=20150829174116
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi
 # Okuma Sırası
 

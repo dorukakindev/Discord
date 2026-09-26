@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e3/FCII-Dis-Warren_Mahy-p42.jpg/revision/latest?cb=20190808143509
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Heat & Wanted — Sıcaklık ve Aranma, Ekibin Yasayla Olan Derdi

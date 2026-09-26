@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Star_of_Chaos.jpg/revision/latest?cb=20110716020415
+
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 # Rangdan
 

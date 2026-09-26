@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Lucius_Pattern_Inferno_Cannon.jpg/revision/latest?cb=20111018184807
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Inferno Cannon
 

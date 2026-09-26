@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Carracci-Purgatory.jpg/330px-Carracci-Purgatory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Ölüm Ötesi & Ahiret · Kayıt
 # Purgatory
 > **Mitoloji:** Hristiyan · **Tür:** araf

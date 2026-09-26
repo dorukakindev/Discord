@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Litoria_phyllochroa.JPG/330px-Litoria_phyllochroa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Amphibian / Amfibi Yaratık — Bataklığın Sürüngenimsi Avcısı, Sular Altındaki Pusu

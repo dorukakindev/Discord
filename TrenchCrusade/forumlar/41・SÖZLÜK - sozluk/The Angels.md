@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/2/24/Anointed.png/revision/latest?cb=20250714032621
+
 -# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # The Angels — Melekler, Orduları Silen Korkunç İlahi Müdahale

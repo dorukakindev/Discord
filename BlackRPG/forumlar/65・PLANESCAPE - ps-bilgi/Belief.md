@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/c/c8/Joseph_Smith_first_vision_stained_glass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Belief — İnanç, Gerçekliği Şekillendiren Güç

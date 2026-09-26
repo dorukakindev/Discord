@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/41/2070_catachan.imperial_guard.jpg/revision/latest/scale-to-width-down/1000?cb=20130213065232
+
 -# THE IMPERIAL ARCHIVE
 # Astra Militarum
 

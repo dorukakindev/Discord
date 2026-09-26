@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/7d/Assassin_5point5e.jpg/revision/latest?cb=20250220011427
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Assassins — Suikastçılar, Karanlığın Sözleşmeli Bıçakları

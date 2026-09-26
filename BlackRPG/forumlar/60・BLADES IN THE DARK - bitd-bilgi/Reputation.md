@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/6/69/TradersBay.JPG/revision/latest?cb=20221207215506
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Reputation — İtibar, Ekibin Sokaktaki Şöhreti ve Namı

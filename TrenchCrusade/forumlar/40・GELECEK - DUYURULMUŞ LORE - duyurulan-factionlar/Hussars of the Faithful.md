@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/1/1f/Polish_lithuanian_map.png/revision/latest?cb=20250402213847
+
 -# THE TRENCH ARCHIVE · 40・GELECEK / DUYURULMUŞ LORE · Kayıt
 
 # Hussars of the Faithful — Faithful Hücum Süvarileri — Duyurulan

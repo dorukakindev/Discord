@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/97/Tier_Breche.png/revision/latest?cb=20231106150515
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Tier — Kademe, Bir Fraksiyonun Güç ve Kaynak Seviyesi

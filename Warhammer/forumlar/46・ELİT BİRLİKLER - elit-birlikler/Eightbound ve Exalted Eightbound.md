@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/35/Eightscarred_Bloodletter.png/revision/latest?cb=20160916060624
+
 -# THE IMPERIAL ARCHIVE · Elit Birlikler · Kayıt
 # Eightbound ve Exalted Eightbound
 

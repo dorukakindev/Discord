@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d0/Swarmlord.png/revision/latest?cb=20160103170035
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # The Hive Mind — Büyük Yutucu (Great Devourer)

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/c9/Crow%27s_Foot-map.png/revision/latest?cb=20241108182721
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Crow's Foot — Karga Ayağı, Çete Savaşlarının Kavşağı

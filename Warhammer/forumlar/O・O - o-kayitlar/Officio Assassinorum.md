@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/09/Assassin_Callidus.jpg/revision/latest?cb=20130307171607
+
 -# THE IMPERIAL ARCHIVE
 # Officio Assassinorum
 

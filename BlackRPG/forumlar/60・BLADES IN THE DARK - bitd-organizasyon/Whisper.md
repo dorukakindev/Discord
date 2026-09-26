@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/2b/Whisper.jpg/revision/latest?cb=20240630225010
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Whisper — Okültist / Medyum

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Leman_Russ.jpg/revision/latest?cb=20160525204059
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Mjalnar, Frostblade
 

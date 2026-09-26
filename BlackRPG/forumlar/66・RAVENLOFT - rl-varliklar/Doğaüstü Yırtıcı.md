@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/49/Steel_predator-5e.png/revision/latest?cb=20180610201053
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Doğaüstü Yırtıcı — Gece Avcısı, Karanlığın Adsız Dehşeti

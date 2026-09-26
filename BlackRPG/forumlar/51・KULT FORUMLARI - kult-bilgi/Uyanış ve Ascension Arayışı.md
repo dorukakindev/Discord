@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/4b/Grand_Master_of_Flowers_AFR.jpg/revision/latest?cb=20210817092705
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Uyanış ve Ascension Arayışı

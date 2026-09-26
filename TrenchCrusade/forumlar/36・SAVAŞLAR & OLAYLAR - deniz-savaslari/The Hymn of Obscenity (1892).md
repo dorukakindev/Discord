@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/f/ff/Athens_map.png/revision/latest?cb=20250615022703
+
 -# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # The Hymn of Obscenity (1892) — Hymn of Obscenity'nin Batışı

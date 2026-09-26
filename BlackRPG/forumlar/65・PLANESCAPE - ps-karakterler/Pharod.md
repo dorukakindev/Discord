@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/06/Planescape-torment-box.jpg/revision/latest?cb=20121016191312
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Pharod — Paçavralar Kralı, Hive'ın Toplayıcı Lordu

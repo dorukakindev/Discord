@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/09/Carthrose-map1.png/revision/latest?cb=20260426164558
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Essential Saltes — Esas Tuzlar, Külden Diriliş

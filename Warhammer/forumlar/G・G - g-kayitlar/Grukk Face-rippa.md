@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Imperial_eagle.jpg/revision/latest?cb=20161027043027
+
 -# THE IMPERIAL ARCHIVE · G Kayıtları · Kayıt
 
 # Grukk Face-rippa

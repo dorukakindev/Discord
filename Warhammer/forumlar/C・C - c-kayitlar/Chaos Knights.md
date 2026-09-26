@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b5/AbhorrentChaosKnights.jpg/revision/latest/scale-to-width-down/1000?cb=20190723223438
+
 -# THE IMPERIAL ARCHIVE
 # Chaos Knights
 

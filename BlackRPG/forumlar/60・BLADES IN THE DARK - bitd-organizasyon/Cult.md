@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/c2/Cult_of_the_Howling_Hatred_Symbol.png/revision/latest?cb=20190720143926
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Cult — Tarikat, Karanlık Bir Gücün Tapıcıları

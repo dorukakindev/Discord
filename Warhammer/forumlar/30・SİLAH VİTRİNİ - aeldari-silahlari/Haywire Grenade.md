@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/43/Drukhari_Ranged_Weapons.jpg/revision/latest?cb=20200915163949
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Haywire Grenade
 

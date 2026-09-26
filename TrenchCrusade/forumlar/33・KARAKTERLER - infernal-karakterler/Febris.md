@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/7/7f/Yersinia_rex.jpg/revision/latest?cb=20250408191932
+
 -# THE TRENCH ARCHIVE · 33・KARAKTERLER · Kayıt
 
 # Febris — Febris — Beelzebub'un Çürüyen Gelini

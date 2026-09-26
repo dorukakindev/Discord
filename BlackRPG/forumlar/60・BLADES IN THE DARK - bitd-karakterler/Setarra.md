@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Epoca_literar%C4%83_1896-06-10%2C_nr._9.pdf/page1-1280px-Epoca_literar%C4%83_1896-06-10%2C_nr._9.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Setarra — Setarra, Deniz İblislerini Arayan İblis

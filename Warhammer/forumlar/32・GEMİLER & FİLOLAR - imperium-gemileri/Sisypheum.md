@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/af/Chapter_Master_Lucius.jpg/revision/latest?cb=20111006073102
+
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 
 # Sisypheum

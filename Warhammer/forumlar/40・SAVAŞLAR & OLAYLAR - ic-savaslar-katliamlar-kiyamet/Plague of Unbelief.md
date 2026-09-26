@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/64/Plague_Zombies.jpg/revision/latest?cb=20161208005630
+
 -# THE IMPERIAL ARCHIVE · Ic Savaslar Katliamlar Kiyamet · Kayıt
 # Plague of Unbelief
 *İnançsızlık Vebası*

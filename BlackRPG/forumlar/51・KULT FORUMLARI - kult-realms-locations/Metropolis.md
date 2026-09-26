@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/8c/Silverymoon.JPG/revision/latest?cb=20070620103905
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Metropolis — Kadim Şehir, Parçalanmış Tanrısallığın Yurdu

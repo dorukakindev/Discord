@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/21/Book_bg3.png/revision/latest?cb=20210717021405
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Tov's Open Hand of Disaster — Tov'un Felaket Saçan Açık Eli, Yakan Lanet

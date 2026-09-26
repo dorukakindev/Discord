@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/3/3d/Xanathar_LoW.jpg/revision/latest?cb=20220415102830
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
 
 # Kara Lens ve Ölümsüz Dönüşüm

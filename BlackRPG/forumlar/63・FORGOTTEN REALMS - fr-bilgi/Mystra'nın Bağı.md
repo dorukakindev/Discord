@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/04/BGII_cover.jpg/revision/latest?cb=20220922124441
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Mystra'nın Bağı — Mystra's Weave

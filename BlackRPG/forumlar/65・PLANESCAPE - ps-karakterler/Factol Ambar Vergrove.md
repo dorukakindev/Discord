@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/84/The-Factols-Manifesto-cover.jpg/revision/latest?cb=20190711235727
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Factol Ambar Vergrove — Kaynak İnananları'nın Ozanı, Tanrılığa Tırmanışın Müjdecisi

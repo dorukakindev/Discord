@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/f/f8/Giresun_harita.svg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Pırıltı — Twinkle

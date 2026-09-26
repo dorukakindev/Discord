@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/01/Dungeon_magazine_22.png/revision/latest?cb=20240408164442
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Lucy-Fires Levitation — Lucy-Ateşlerinin Havalanışı

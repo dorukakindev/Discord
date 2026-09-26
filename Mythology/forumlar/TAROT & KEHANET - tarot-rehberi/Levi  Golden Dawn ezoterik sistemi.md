@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Levi_%28Francisco_de_Zurbar%C3%A1n%29.jpg/330px-Levi_%28Francisco_de_Zurbar%C3%A1n%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Tarot Rehberi & Kaynakça · Kayıt
 # Levi / Golden Dawn ezoterik sistemi
 > **Dönem:** 1860-1900

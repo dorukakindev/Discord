@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/98/Ilmater.jpg/revision/latest?cb=20210429131935
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Psalms of Misery — Sefalet İlahileri, Kıyameti Müjdeleyen Kara Ayetler

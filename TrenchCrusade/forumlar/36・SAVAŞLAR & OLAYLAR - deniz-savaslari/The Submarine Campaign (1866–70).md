@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/2/21/Heretic_naval_raider.png/revision/latest?cb=20250327143640
+
 -# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # The Submarine Campaign (1866–70) — Denizaltı Seferi — 1866–1870

@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Baphomet_by_%C3%89liphas_L%C3%A9vi.jpg/330px-Baphomet_by_%C3%89liphas_L%C3%A9vi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Okült & Ezoterizm · Kayıt
 # Baphomet
 > **Gelenek:** Tapınakçı yargılamaları → okült ikonografi · **İkonik Tasvir:** Eliphas Lévi (1856) · **Tür:** ezoterik simge / tartışmalı "put"

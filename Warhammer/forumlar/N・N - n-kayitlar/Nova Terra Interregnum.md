@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c9/NovaTerrumInterregnum.jpg/revision/latest?cb=20180121043809
+
 -# THE IMPERIAL ARCHIVE
 # Nova Terra Interregnum
 

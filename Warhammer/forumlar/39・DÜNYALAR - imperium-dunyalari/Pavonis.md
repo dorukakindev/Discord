@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c5/Kronus.jpg/revision/latest?cb=20100621022450
+
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 
 # Pavonis

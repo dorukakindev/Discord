@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Index_of_every_story_published_in_British_comic_2000AD.pdf/page1-960px-Index_of_every_story_published_in_British_comic_2000AD.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Foul Psychopomp — Pis Ruh Yolcusu

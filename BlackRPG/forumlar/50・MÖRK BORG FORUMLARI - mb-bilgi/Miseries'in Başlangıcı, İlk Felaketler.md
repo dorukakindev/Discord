@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/74/Sharn_4e.jpg/revision/latest?cb=20200416093128
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Miseries'in Başlangıcı, İlk Felaketler

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/f6/Harkon5e.png/revision/latest?cb=20220803214143
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Kartakass — Şarkıcılar ve Kurtadamlar Diyarı, Harkon Lukas'ın Sahnesi

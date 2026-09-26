@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/6/6f/SunderingEraHeroes.jpg/revision/latest?cb=20200831233221
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # The Final Misery — Son Sefalet, Her Şeyin Bittiği Mısra

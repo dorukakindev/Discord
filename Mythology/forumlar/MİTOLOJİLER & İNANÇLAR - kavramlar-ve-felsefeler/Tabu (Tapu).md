@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Roast_Pig_1.JPG/330px-Roast_Pig_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Kavramlar & Felsefeler · Kayıt
 # Tabu (Tapu)
 > **Köken:** Polinezya — Tonga · **Gelenek:** Polinezya / Evrensel · **Mitoloji:** Polinezya · **Dönem:** Antik — modern

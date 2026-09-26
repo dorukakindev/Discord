@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/95/KaldorDraigo1.png/revision/latest?cb=20170813205141
+
 -# THE IMPERIAL ARCHIVE
 # Kaldor Draigo
 

@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Grimoire Kaynakçası · Kayıt
 # British Museum - EA10070 London-Leiden demotic magical papyrus
 > **Tür:** Müze nesne kaydı · **Gelenek:** PDM/PGM · **Tarih:** MS 2. yüzyıl sonu - 3. yüzyıl ortası

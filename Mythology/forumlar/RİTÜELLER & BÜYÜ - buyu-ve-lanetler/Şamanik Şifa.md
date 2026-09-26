@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/SB_-_Altay_shaman_with_drum.jpg/330px-SB_-_Altay_shaman_with_drum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Büyü & Lanetler · Kayıt
 # Şamanik Şifa
 > **Gelenek:** Şamanizm · **Köken:** Şamanizm · **Magictype:** Şamanizm

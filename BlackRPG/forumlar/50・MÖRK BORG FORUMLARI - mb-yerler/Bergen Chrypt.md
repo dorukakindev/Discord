@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/0d/Jarlaxle-5e.png/revision/latest?cb=20190301151254
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Bergen Chrypt — Buzlu Manastır Dağı, Kuzeyin Donmuş Mezarı

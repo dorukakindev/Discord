@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/59/Alternative_Special_Weapons.jpg/revision/latest?cb=20120626222205
+
 -# THE IMPERIAL ARCHIVE · D Kayıtları · Kayıt
 # Krieg Ölüm Kolordusu
 

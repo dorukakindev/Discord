@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Huron_Blackheart_Revealed_-_Warhammer_40%2C000/revision/latest?cb=20251229163241
+
 -# THE IMPERIAL ARCHIVE
 # Huron Blackheart
 

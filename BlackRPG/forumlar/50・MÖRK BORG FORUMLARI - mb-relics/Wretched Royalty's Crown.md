@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/22/Wyvern_crown_-_Valerie_Valusek.png/revision/latest?cb=20260722080000
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Wretched Royalty's Crown — Sefil Hükümdarın Tacı, Ölü Kralların Lanetli Süsü

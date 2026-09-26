@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/3/35/KrakenSocietySymbol.jpg/revision/latest?cb=20140606013152
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Tvedra's Twin Rings — Tvedra'nın İkiz Yüzükleri, Yara Paylaşan Çift

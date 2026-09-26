@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/William_Ludwell_Sheppard_%26_William_James_Linton_-_CROATOAN%2C_The_Lost_Colony_%28John_White%29.jpg/330px-William_Ludwell_Sheppard_%26_William_James_Linton_-_CROATOAN%2C_The_Lost_Colony_%28John_White%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Motifler & Gizemler · Kayıt
 # Roanoke'un Kayıp Kolonisi
 > **Tarih:** 1587 – 1590 · **Konum:** Roanoke Adası, Kuzey Carolina, ABD · **Kategori:** tarihsel · **Gelenek:** Kızılderili Halk Geleneği / Britanya Koloni Tarihi · **Durum:** çözülmemiş

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/92/Ork_Warbike_1.png/revision/latest?cb=20081128190652
+
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Deffgun
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/ca/Bitten_Road.png/revision/latest?cb=20230302142937
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Fanged Deserter — Dişli Asker Kaçağı

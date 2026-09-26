@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c8/The_Dreadwing.png/revision/latest?cb=20220817215029
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Cthonia's Reckoning
 

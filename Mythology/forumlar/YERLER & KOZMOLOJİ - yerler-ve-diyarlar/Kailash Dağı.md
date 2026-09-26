@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kailash_north.JPG/330px-Kailash_north.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Yerler & Diyarlar · Kayıt
 # Kailash Dağı
 > **Konum:** Hindu · **Mitoloji:** Hindu · **Tür:** kutsal-dag

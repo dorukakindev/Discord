@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Hope_Diamond.jpg/330px-Hope_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Büyü & Lanetler · Kayıt
 # Hope Elması'nın Laneti
 > **Köken:** Hindistan (Golconda madenleri) · **Target:** Elması sahiplenenler · **Mitoloji:** Hindu / Fransız Saray Geleneği · **Dönem:** 17. yüzyıl – günümüz · **Cursetype:** nesne · **Lifting:** Smithsonian'a bağışlanmasıyla lanetten "kurtulduğu" düşünülmektedir; ancak taş bugün de sergilenmekte olup yeni bir sahip yoktur.

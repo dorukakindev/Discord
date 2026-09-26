@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/29/Night_Haunter_8th_Ed.jpg/revision/latest?cb=20170814071135
+
 -# THE IMPERIAL ARCHIVE
 # Konrad Curze
 

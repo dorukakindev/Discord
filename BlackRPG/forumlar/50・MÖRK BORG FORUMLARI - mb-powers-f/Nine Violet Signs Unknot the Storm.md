@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/3/38/Astelekeene.jpeg/revision/latest?cb=20191026075600
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Nine Violet Signs Unknot the Storm — Dokuz Mor İşaret Fırtınayı Çözer

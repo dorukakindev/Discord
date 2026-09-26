@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b1/DarkTalon2Korvax.jpg/revision/latest/scale-to-width-down/1000?cb=20220930183619
+
 -# THE IMPERIAL ARCHIVE · W Kayıtları
 # War Zone Charadon
 

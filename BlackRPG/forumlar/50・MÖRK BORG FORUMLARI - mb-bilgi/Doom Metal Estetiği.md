@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/2d/Doom_IWD2.png/revision/latest?cb=20220608040623
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Doom Metal Estetiği — Kara Metal Görselliği, Sayfalardan Yükselen Karanlık

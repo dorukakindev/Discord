@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/6/6f/GreatRift-1373DR.png/revision/latest?cb=20170805025313
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Felaket Öncesi Uygarlık

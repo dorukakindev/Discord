@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/85/All_Shadows_Fled.jpg/revision/latest?cb=20110322200320
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Author — Yazar, Kelimelerin İşçisi

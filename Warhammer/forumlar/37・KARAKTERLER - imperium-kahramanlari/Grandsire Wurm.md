@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/13/PauperPrincesUnits.JPG/revision/latest?cb=20190213204415
+
 -# THE IMPERIAL ARCHIVE · Imperium Kahramanlari · Kayıt
 # Grandsire Wurm
 

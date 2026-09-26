@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/c7/Nwn2boxart.jpg/revision/latest?cb=20070119002717
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Alder Wars — Kızılağaç Savaşları, Lanetin Doğduğu Çatışma

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/92/Ring_of_telekinesis_5e.png/revision/latest?cb=20171010201547
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Tongue of Eris (Te-le-kin-esis) — Eris'in Dili (Te-le-kin-esis)

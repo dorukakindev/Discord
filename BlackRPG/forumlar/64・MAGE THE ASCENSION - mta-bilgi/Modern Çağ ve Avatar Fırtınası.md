@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/c9/Avatar_of_freedom_-_MATIAS_TAPIA.png/revision/latest?cb=20260519201345
+
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
 # Modern Çağ ve Avatar Fırtınası

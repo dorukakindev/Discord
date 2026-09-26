@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/8/8f/Eire_map.png/revision/latest?cb=20250511133453
+
 -# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Meta-Christ Clone Entities — Meta-Christ Klon Varlıklar

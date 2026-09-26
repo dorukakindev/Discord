@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/9f/Failed_Shadow_Gate.jpg/revision/latest?cb=20160101101653
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Create Gate — Geçit Yaratma Büyüsü

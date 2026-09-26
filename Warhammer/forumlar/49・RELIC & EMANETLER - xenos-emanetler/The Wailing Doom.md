@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Tartarus.jpg/revision/latest?cb=20100618052914
+
 -# THE IMPERIAL ARCHIVE · Xenos Emanetler · Kayıt
 # The Wailing Doom
 *Çığlık Atan Kıyamet (Suin Daellae)*

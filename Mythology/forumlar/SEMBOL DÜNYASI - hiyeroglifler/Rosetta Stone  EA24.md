@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/330px-Rosetta_Stone.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Hiyeroglif Rehberi · Kayıt
 # Rosetta Stone / EA24
 > **Arşiv/Kütüphane:** British Museum · **Tarih:** MÖ 196 civarı; Ptolemy V rahip kararnamesi · **Taşıyıcı:** Granodiyorit stel parçası · **Readingfocus:** Aynı karar metninin üç yazı/dil katmanıyla aktarılması; çözülme tarihinde karşılaştırmalı okuma kanıtı. · **Safeuse:** Çözülme tarihi, çok yazılı metin karşılaştırması ve hiyeroglif-demotik-Yunanca ayrımı için yüksek değerli kanıt fişi. · **Uyarı:** Rosetta Stone'u bütün hiyeroglif sisteminin tek anahtarı veya her işaretin doğrudan alfabe karşılığı gibi sunma.

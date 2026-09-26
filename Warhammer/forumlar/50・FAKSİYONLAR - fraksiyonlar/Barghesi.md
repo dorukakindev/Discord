@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a0/IL_1st_Co.jpg/revision/latest?cb=20130911234540
+
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 
 # Barghesi

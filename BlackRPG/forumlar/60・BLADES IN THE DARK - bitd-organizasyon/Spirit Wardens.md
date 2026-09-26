@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/20/Warden_-_William_O%27Connor.png/revision/latest?cb=20260118042527
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Spirit Wardens — Ruh Bekçileri, Kırmızı Maskeli Ölü Yakıcılar

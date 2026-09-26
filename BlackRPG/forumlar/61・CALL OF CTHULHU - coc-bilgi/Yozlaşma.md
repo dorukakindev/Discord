@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/c/c4/Yola_Mamani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Yozlaşma — Degeneration, Soyun ve Bedenin Çöküşü

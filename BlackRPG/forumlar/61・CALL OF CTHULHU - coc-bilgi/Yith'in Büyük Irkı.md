@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/8c/Gith-5e.png/revision/latest?cb=20180816011608
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Yith'in Büyük Irkı — the Great Race of Yith, Zaman Yolcusu Zihinler

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/af/Father_Lymic.jpg/revision/latest?cb=20241121120422
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Çürüyen Dünya, Geri Sayan Karanlık

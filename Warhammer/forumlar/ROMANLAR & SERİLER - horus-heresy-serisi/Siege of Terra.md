@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/db/Siege_Imperial_Palace.jpg/revision/latest?cb=20110306024936
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Siege of Terra
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1e/RavenlordCover.jpg/revision/latest?cb=20140709072908
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Ravenlord
 

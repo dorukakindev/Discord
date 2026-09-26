@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/6/66/Purple_worm_and_Cloudskate_in_Skysea.png/revision/latest?cb=20210815183139
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Felaket ve Güneşin Sönmesi

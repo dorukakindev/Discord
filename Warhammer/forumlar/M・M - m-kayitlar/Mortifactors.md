@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/ff/Captain_Artemis_Mortificators.jpg/revision/latest?cb=20130509211135
+
 -# THE IMPERIAL ARCHIVE
 # Mortifactors
 

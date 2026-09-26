@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/HermesTrismegistusCaucHighRes.jpg/330px-HermesTrismegistusCaucHighRes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Melek Hiyerarşisi · Kayıt
 # Hermetik ve Okült Angeloloji
 > **Gelenek:** Hermetik / Okült · **Dönem:** Rönesans majisi, grimoire gelenekleri, Enochian ve modern ezoterizm · **Yapı:** Kabala, astroloji, grimoire ve Enochian sistemleri melek adlarını ritüel haritalara bağlar. Bu katman tarihsel dinî angelolojiden beslenir ama onunla birebir aynı değildir. · **Source note:** Bu sayfa okült katmanı uygulama reçetesi olarak değil, tarihsel-sembolik sınıflandırma olarak tutar; gelenekler arası eşitlemeler özellikle uyarı kartlarında sınırlandırılır.

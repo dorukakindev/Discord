@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e7/Crenshinibon_5e.png/revision/latest?cb=20240602044354
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Kapı Bekçisi'nin Kristali — Gatekeeper's Crystal

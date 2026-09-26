@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/19/Blood_on_the_mountain_ragnar_by_nachomolina.jpg/revision/latest?cb=20170131032247
+
 -# THE IMPERIAL ARCHIVE
 # Ragnar Blackmane
 

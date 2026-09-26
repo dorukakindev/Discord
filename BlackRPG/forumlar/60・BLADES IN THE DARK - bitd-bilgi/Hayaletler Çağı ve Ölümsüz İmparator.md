@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Celestial_Emperor%27s_avatar.jpg/revision/latest?cb=20241213190645
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Hayaletler Çağı ve Ölümsüz İmparator

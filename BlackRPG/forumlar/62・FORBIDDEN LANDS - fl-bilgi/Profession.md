@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/7c/Tannery.png/revision/latest?cb=20240814025017
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Profession — Profession, Karakterin Seçtiği Meslek ya da Sınıf

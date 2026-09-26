@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/52/SonicDreadnought00.jpg/revision/latest?cb=20130407023619
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Vibro Cannon
 

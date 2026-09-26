@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/ae/Medusa_4e.jpg/revision/latest?cb=20200310185333
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Powder of Ibn-Ghazi — Ibn-Ghazi Tozu, Görünmezi Açığa Çıkaran Toz

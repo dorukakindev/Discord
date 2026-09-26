@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/d/d7/Spellhold.png/revision/latest?cb=20180913234036
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Stress & Trauma — Stres ve Travma, Riski Emen Kaynak ve Kalıcı Yara

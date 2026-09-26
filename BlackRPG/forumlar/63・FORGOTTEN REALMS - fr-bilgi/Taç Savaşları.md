@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/5/5b/Chestpiece_of_Nature%27s_Wrath.png/revision/latest?cb=20251217143141
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Taç Savaşları — Crown Wars

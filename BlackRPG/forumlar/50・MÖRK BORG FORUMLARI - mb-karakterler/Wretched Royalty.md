@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e5/TSR9361.jpg/revision/latest?cb=20180219204621
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Wretched Royalty — Sefil Soylu

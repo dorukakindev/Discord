@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Space_Marine_Librarian_Cherub.jpg/revision/latest?cb=20150729193746
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Cherub
 *Cherubim — Servo-Cherub*

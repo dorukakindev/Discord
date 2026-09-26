@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/9/90/GertVerhulst_Pappielooptochnietzosnel_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Verhu — Sözleri Yazan, Sefaletin Habercisi

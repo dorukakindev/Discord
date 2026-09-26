@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/7f/Tarmalune_envisions_map.png/revision/latest?cb=20220812200543
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Bravos — Kabadayılar, Sokağın Silahlı Çetesi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/76/Crypt_Ward.png/revision/latest?cb=20250806025005
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Kırsal Kilise ve Mezarlık — Rural Church and Churchyard

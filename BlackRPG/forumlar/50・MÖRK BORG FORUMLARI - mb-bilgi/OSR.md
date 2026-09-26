@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/fd/Dungeonscape_cover.jpg/revision/latest?cb=20240211094218
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # OSR — Eski-Okul Canlanması, Sade ve Ölümcül Oyun Felsefesi

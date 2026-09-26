@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c6/Phaestos_Pattern_Flamer_WB.jpg/revision/latest?cb=20140106230520
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Hand Flamer
 

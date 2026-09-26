@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/13/Vostroyan_soldier.jpg/revision/latest?cb=20120710053054
+
 -# THE IMPERIAL ARCHIVE · V Kayıtları
 # Vostroyan Firstborn
 

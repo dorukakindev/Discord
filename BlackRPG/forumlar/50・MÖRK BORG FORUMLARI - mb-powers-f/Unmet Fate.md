@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a6/Kraanfhaor%27s_Door.jpg/revision/latest?cb=20181002184056
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Unmet Fate — Gerçekleşmemiş Kader

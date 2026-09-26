@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/1/15/Charterhall_airfield_-_geograph.org.uk_-_355018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Charterhall — Berat Salonu, Doskvol'ün İdari Yüreği

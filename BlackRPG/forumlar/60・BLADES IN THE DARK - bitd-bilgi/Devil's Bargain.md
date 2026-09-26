@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e9/Devils.png/revision/latest?cb=20200514070954
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Devil's Bargain — Şeytanın Pazarlığı, Ekstra Zar Karşılığı Kabul Edilen Bedel

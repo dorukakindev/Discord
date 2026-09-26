@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/9b/Gondegal-Ravenloft-3e.png/revision/latest?cb=20230728163555
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Falkovnia — Savaş Diyarı, Vlad Drakov'un Demir Zulmü

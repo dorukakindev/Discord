@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/9d/DMG5e_-_Elysium_-_Olly_lawson_-_p60.jpg/revision/latest?cb=20150507092611
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Elysium — Yanılsama, İnsanlığın Görünmez Hapishanesi

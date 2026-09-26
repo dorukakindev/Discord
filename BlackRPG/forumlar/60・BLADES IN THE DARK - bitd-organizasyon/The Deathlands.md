@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a2/Greypeak_Mountains.png/revision/latest?cb=20220705022439
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # The Deathlands — Ölüm Toprakları

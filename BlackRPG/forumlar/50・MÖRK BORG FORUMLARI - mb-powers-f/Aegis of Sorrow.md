@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/fd/Zeus-3e.jpg/revision/latest?cb=20210605213818
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Aegis of Sorrow — Keder Kalkanı, Çürümeden Örülen Zırh

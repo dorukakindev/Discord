@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/1/10/Zweihaender_im_historischen_Museum_Basel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Zweihänder — İki Elli Kılıç, Çürüyen Dünyanın Pala-Devi

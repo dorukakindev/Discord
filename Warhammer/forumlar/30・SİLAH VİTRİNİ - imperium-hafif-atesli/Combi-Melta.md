@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/Death_Guard_Lord.png/revision/latest?cb=20170917233448
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Combi-Melta
 

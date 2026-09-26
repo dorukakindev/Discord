@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Woodstock_redmond_stage.JPG/330px-Woodstock_redmond_stage.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Küratör Keşifleri · Kayıt
 # The Witness (1969)
 > **Yönetmen:** Péter Bacsó · **Yıl:** 1969

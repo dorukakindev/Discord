@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Isoniazid_Electron_Map.tiff/lossless-page1-500px-Isoniazid_Electron_Map.tiff.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Razide — Yanılsama'nın Saldırgan Savaşçı-Demonları

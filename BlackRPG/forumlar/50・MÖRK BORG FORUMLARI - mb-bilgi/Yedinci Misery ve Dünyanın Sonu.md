@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/95/Moon1-new.png/revision/latest?cb=20190216013944
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Yedinci Misery ve Dünyanın Sonu

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/7/78/Stosstruppen.png/revision/latest?cb=20250327123519
+
 -# THE TRENCH ARCHIVE · 31・ZIRH & SAVAŞ MAKİNELERİ · Kayıt
 
 # Orichalcum Infantry Armour — Orikalkum Piyade Zırhı

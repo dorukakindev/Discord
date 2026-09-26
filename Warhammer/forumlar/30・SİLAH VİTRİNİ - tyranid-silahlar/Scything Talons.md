@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e8/Tyranid_Weapons.gif/revision/latest?cb=20111115151652
+
 -# THE IMPERIAL ARCHIVE · Tyranid Silahlar · Kayıt
 # Scything Talons
 

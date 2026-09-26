@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/f/fc/Finlandia_map.png/revision/latest?cb=20250728123159
+
 -# THE TRENCH ARCHIVE · 38・TEKNOLOJİ, SİMYA & METAFİZİK · Kayıt
 
 # Orichalcum Steel — Orikalkum Çeliği — İlahi Metal

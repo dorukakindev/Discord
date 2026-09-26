@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/NEPHARITE_JADE_WINE_BOWL_MUGHAL_-LATE_17TH_CENTURY_-PRIVATE_MUGHAL_COLLECTION_-_RISSALA_140.jpg/1280px-NEPHARITE_JADE_WINE_BOWL_MUGHAL_-LATE_17TH_CENTURY_-PRIVATE_MUGHAL_COLLECTION_-_RISSALA_140.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Nepharite — İşkenceyle Doğan Acı Demonları

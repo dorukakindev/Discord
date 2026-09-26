@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Bister_Ave_Maria.jpg/1280px-Bister_Ave_Maria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # The Lampblacks — Lamba Karaları, İsli Sokakların Çetesi

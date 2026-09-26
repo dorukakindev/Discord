@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/17th_century_Picatrix_title_Istanbul%2C_Hagia_Sophia_2443_crop.png/330px-17th_century_Picatrix_title_Istanbul%2C_Hagia_Sophia_2443_crop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Grimoire Kaynakçası · Kayıt
 # Picatrix (Ghāyat al-Ḥakīm)
 > **Desc:** 11. yüzyıl Arapça astral büyü derlemesi; gezegen ruhları, ay konakları ve tılsım yapımını sistemleştiren Hermetik ana kaynak.

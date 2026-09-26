@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/48/Natrisse.jpg/revision/latest?cb=20140714164719
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Gaia — Yeryüzü Ruhu, Yanılsama'nın Altındaki Kadim Doğa

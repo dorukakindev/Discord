@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/3/36/Sword-Coast-Map_HighRes-Compressed.jpg/revision/latest?cb=20160307175412
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Sönmüş Güneşin Dünyası

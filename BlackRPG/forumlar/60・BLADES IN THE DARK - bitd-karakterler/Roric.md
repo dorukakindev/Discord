@@ -1,3 +1,5 @@
+https://commons.wikimedia.org/wiki/Special:FilePath/2013-05-03_Fotoflug_Leer_Papenburg_DSCF7115.jpg?width=1000
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Roric — Roric, Crow's Foot'un Ölü Reisi

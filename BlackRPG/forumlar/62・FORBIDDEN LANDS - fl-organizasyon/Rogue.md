@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/9b/Rogue_PHB5e2024.png/revision/latest?cb=20240904061438
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Rogue — Çapulcu

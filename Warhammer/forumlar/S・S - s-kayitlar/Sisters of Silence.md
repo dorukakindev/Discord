@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8f/Amendera.jpg/revision/latest?cb=20111126001522
+
 -# THE IMPERIAL ARCHIVE
 # Sisters of Silence
 

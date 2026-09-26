@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/ab/WesternHeartlands5e.jpg/revision/latest?cb=20180730023733
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Wästland — Çorak Diyar, Külün ve Açlığın Toprakları

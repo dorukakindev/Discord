@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_tombale_de_Claude_Sautet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
 -# THE FILM ARCHIVE · Yönetmenler · Kayıt
 # Claude Sautet
 > **Kayıt sayısı:** 2
