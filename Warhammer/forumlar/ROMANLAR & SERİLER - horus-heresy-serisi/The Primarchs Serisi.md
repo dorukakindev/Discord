@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b6/PrimarchsSeriesUnofficial.png/revision/latest?cb=20161019134444
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # The Primarchs Serisi
 

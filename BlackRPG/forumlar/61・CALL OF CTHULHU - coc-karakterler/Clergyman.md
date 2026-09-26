@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Catholic_clergy_during_the_ceremony_of_the_consecration_of_the_Sarajevo_cathedral.png/330px-Catholic_clergy_during_the_ceremony_of_the_consecration_of_the_Sarajevo_cathedral.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Clergyman — Din Adamı, İnancın Bekçisi

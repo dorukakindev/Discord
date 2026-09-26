@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/7f/Blood_in_Baldur%27s_Gate.png/revision/latest?cb=20230620050736
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # The Detective — Dedektif, Gerçeği Araştıran Farkında

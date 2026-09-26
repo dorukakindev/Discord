@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cornelis_Cornelisz._van_Haarlem_-_The_Fall_of_the_Titans_-_Google_Art_Project.jpg/330px-Cornelis_Cornelisz._van_Haarlem_-_The_Fall_of_the_Titans_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Savaşlar, Olaylar & Felaketler · Kayıt
 # Titanomachi Kozmik Savaşı
 > **Mitoloji:** Yunan · **Dönem:** Mitik çağ · **Tür:** kozmic-savas · **Sonuç:** Titanlar yenilir ve Olimpos çağı başlar.

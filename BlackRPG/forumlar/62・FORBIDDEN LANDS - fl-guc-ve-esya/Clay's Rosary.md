@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/A_rosary_%28IA_cu31924013469543%29.pdf/page1-500px-A_rosary_%28IA_cu31924013469543%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Clay's Rosary — Clay'in Tespihi, Hava Durumunu Yöneten Tılsım

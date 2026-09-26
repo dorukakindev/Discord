@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_Kaaba_during_Hajj.jpg/330px-The_Kaaba_during_Hajj.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Melek Sözlüğü · Kayıt
 # islam-dokuz-koro-degil
 > **Neden Önemli:** Jibril, Mikail, Israfil ve Malak al-Mawt profilleri ayrı İslami çerçevede verilir.

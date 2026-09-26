@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/15/Saim-HainnD-scythe.jpg/revision/latest?cb=20210422204448
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # D-Scythe
 

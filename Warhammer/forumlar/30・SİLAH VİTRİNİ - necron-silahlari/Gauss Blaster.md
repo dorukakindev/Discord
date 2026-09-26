@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Gaussblaster10.jpg/revision/latest?cb=20150316111542
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Gauss Blaster
 

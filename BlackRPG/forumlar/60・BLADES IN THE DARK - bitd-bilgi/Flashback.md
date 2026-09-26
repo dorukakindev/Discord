@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e6/Bodak-5e.jpg/revision/latest?cb=20171010165426
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Flashback — Geri Dönüş, Planı Sahnede Açıklama Mekaniği

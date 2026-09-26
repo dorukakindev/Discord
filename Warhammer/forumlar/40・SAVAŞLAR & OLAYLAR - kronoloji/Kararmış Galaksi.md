@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8f/Ravenor_3.jpg/revision/latest?cb=20110829175645
+
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Kararmış Galaksi
 

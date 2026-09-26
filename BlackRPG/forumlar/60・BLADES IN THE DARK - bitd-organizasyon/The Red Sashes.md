@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/20/Red_Sash.jpg/revision/latest?cb=20070924113723
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # The Red Sashes — Kırmızı Kuşaklar, Kılıç Ustası Çete

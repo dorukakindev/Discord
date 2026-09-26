@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/5/57/Corpse_market_-_DAVE_ALLSOP.jpg/revision/latest?cb=20240424050414
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Nightmarket — Gece Pazarı, Karanlığın Ticaret Meydanı

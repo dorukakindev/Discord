@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/95/Jokaero_Weaponsmith.jpg/revision/latest?cb=20111024035420
+
 -# THE IMPERIAL ARCHIVE
 # Jokaero
 

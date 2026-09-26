@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b8/840914-sister_of_battle_color_large.jpg/revision/latest?cb=20110404052917
+
 -# THE IMPERIAL ARCHIVE
 # Adepta Sororitas
 

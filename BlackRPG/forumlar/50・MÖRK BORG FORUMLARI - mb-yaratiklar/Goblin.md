@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/74/Dungeon_Masters_guide_5e_-_Goblin_-_p107.jpg/revision/latest?cb=20150503203525
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Goblin — Goblin, Çürüyen Dünyanın Sinsi Sürüsü

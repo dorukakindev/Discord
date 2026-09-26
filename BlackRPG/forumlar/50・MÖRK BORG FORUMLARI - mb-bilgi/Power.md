@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/b/b9/Ao_and_Tablets_of_Fate.jpg/revision/latest?cb=20180419075810
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Power — Güç, Büyücülerin Tükettiği Esrarengiz Kıvılcım

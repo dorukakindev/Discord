@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b8/KillboxCover.jpg/revision/latest?cb=20171226203301
+
 -# THE IMPERIAL ARCHIVE · O KAYITLARI · Kayıt
 # Oan Mkoll
 *Gaunt'ın Hayaletlerinin izci çavuşu*

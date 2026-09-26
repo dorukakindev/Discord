@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/5/51/Inferno%28spell%29.jpg/revision/latest?cb=20090130122508
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Inferno — Cehennem, Acının Sonsuz Diyarı

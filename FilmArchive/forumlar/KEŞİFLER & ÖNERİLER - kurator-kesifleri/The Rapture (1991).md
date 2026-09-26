@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Flickr_-_Government_Press_Office_%28GPO%29_-_IDF_OFFICER_HELPING_ETHIOPIAN_IMMIGRANTS.jpg/330px-Flickr_-_Government_Press_Office_%28GPO%29_-_IDF_OFFICER_HELPING_ETHIOPIAN_IMMIGRANTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE FILM ARCHIVE · Küratör Keşifleri · Kayıt
 # The Rapture (1991)
 > **Yönetmen:** Michael Tolkin · **Yıl:** 1991

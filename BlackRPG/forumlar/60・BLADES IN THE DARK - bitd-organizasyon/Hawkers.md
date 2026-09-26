@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a0/Jonah.png/revision/latest?cb=20240527053441
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Hawkers — Satıcılar, Yasak Malların Tüccarları

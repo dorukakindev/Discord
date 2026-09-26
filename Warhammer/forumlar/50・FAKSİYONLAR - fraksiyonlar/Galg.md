@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/73/Galgs.jpg/revision/latest?cb=20210415101643
+
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 
 # Galg

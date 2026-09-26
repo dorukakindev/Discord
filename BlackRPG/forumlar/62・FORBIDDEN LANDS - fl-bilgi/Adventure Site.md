@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/45/Stormwrack.jpg/revision/latest?cb=20180715142609
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Adventure Site — Adventure Site, Keşfedilen Köy, Kale ya da Zindan

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/EC_Palatine_Blades_Mk_IV.jpg/revision/latest?cb=20121223205510
+
 -# THE IMPERIAL ARCHIVE · P Kayıtları · Kayıt
 
 # Palatine Heresy

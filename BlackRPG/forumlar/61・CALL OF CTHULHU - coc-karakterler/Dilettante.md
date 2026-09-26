@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/d/da/Eldoth_-_Baldur%27s_Gate.png/revision/latest?cb=20180730105947
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Dilettante — Hovarda Zengin, Aylak Maceraperest

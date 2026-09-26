@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/41/Dominatrix_conversion.jpg/revision/latest?cb=20110719003849
+
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Norn Queen
 *Norn Kraliçesi*

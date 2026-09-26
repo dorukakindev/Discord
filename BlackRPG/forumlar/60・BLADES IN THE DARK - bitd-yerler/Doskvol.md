@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/b/b6/Russian-list-of-unfriendly-countries.svg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Doskvol — Sönmüş Güneşin Sanayi Şehri

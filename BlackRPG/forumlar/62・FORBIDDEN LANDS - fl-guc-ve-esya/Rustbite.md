@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/1/15/Bethlehem_Steel_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Rustbite — Rustbite, Kral Algarod'un Lanetli Kılıcı

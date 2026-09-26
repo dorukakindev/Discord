@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/05/ArmigerWarglaive.png/revision/latest?cb=20180414044551
+
 -# THE IMPERIAL ARCHIVE
 # House Raven
 

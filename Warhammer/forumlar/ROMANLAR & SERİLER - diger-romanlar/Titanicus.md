@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/06/TitanicusCover.jpg/revision/latest?cb=20171228143846
+
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Titanicus
 

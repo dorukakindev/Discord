@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/20/Twisted_Akinakes.png/revision/latest?cb=20260614092428
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Twisted Ent / Çarpık Ent — Kötücül Ağaç-Varlık, Yozlaşmış Ormanın Öfkesi

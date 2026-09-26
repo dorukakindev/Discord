@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Tyurki.jpg/330px-Tyurki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Savaşlar, Olaylar & Felaketler · Kayıt
 # Göktürk Kuruluş Fetihleri
 > **Mitoloji:** Türk · **Dönem:** Mitik çağ · **Tür:** conquest · **Sonuç:** Kağanlık düzeni ve kutsal egemenlik fikri pekişir.

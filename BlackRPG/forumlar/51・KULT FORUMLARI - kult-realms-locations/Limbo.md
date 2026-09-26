@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/ea/DMG5e_-_Limbo_-_Aleksi_briclot_-_p61.jpg/revision/latest?cb=20150507093709
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Limbo — Ara Diyar, Rüya ile Gerçeğin Buluştuğu Yer

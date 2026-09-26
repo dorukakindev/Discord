@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Gibraltar_1704.jpg/330px-Gibraltar_1704.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # Capture of Gibraltar (1666) — Cebelitarık'ın Düşüşü — 'Altı Keder Yılı'

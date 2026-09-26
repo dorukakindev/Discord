@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Space_Wolves_Livery.jpg/revision/latest?cb=20110305084412
+
 -# THE IMPERIAL ARCHIVE
 # Space Wolves
 

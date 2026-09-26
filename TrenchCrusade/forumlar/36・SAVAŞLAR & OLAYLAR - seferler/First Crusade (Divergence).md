@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Divergence_%28captions%29.svg/330px-Divergence_%28captions%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # First Crusade (Divergence) — Birinci Haçlı Seferi — Sapma Noktası

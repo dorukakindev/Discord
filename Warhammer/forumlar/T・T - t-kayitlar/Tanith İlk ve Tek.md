@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/62/TheGunsofTanithCover.jpg/revision/latest?cb=20171226193621
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 # Tanith İlk ve Tek
 

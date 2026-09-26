@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/7a/Temple_of_Mystra.jpg/revision/latest?cb=20160327065343
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Shadowgate Pass — Gölgekapı Geçidi, Batıya Açılan Eşik

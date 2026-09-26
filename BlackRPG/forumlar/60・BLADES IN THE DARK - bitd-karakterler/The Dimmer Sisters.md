@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sisters_%28IA_sistersk00norr%29.pdf/page1-500px-Sisters_%28IA_sistersk00norr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # The Dimmer Sisters — Dimmer Kardeşler, Ruh Tüccarı Münzeviler

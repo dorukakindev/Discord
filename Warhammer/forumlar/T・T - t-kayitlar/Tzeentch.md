@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8b/TzeentchMark.png/revision/latest?cb=20170908232309
+
 -# THE IMPERIAL ARCHIVE
 # Tzeentch
 

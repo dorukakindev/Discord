@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/4b/Belviewmongrel.jpg/revision/latest?cb=20210506064445
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # İnsanlığı Cahil Tutmak — Uyanışı Engelleyen Karanlık, Hapishanenin Bekçisi

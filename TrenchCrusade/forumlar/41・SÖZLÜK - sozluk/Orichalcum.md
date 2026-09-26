@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Oricalco.jpg/330px-Oricalco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE TRENCH ARCHIVE · 41・SÖZLÜK · Kayıt
 
 # Orichalcum — Orikalkum — İlahi Metal

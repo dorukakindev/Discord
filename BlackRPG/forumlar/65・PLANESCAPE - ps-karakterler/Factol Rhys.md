@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e3/Blood_Wars_CCG.jpg/revision/latest?cb=20200110013824
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Factol Rhys — Aşkın Düzen'in Hanımı, Kadans'ın Ustası

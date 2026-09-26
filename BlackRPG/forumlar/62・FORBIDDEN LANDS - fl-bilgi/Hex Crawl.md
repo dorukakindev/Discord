@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e6/Dragonfire-cover.jpg/revision/latest?cb=20200512194439
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Hex Crawl — Hex Crawl, Altıgen Haritada Keşif Tarzı

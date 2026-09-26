@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fe/DoomSiren2.jpg/revision/latest?cb=20250304161647
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Doom Siren
 

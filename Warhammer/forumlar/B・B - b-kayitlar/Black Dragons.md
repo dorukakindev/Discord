@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6f/BD_Flamer.jpg/revision/latest?cb=20120128053828
+
 -# THE IMPERIAL ARCHIVE
 # Black Dragons
 

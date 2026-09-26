@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/2/21/Heretic_naval_raider.png/revision/latest?cb=20250327143640
+
 -# THE TRENCH ARCHIVE · 33・KARAKTERLER · Kayıt
 
 # Heretic Admiral Amminadab — Amiral Amminadab — Highlands'in Yağmacısı

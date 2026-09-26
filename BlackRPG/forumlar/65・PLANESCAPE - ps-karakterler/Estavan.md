@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/cb/Doors-to-the-Unknown-cover.jpg/revision/latest?cb=20190711010339
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Estavan — Tüccar Lordu, Planar Ticaret Konsorsiyumu'nun Devi

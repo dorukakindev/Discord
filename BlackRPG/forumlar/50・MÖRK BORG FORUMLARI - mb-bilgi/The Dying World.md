@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/46/Realms-of-the-dead.jpg/revision/latest?cb=20100620234436
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # The Dying World — Ölmekte Olan Dünya, Sonun Eşiğindeki Diyar

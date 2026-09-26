@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/27/Larloch_-_Carl_Critchlow.jpg/revision/latest?cb=20160515032905
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # The Shadow King's Lullaby — Gölge Kralın Ninnisi, Uyutan Kutsal Söz

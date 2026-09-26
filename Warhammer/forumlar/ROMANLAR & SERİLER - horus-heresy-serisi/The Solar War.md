@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a2/SolSystemSegmentumSolar.png/revision/latest?cb=20180128203034
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # The Solar War
 

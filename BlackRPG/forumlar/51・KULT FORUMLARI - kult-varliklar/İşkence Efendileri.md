@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%C3%87ocuk_Ha%C3%A7l%C4%B1_Seferi.pdf/page1-960px-%C3%87ocuk_Ha%C3%A7l%C4%B1_Seferi.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # İşkence Efendileri — Inferno'nun Cellatları, Cezanın Mimarları

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/ca/Theherald.jpg/revision/latest?cb=20160323135013
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Mother Narya — Mother Narya, Ağlayan Hanım'ın Hayır Evi

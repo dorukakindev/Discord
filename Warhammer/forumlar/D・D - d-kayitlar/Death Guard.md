@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Ancient_Lhorgath.jpg/revision/latest/scale-to-width-down/1000?cb=20131112200624
+
 -# THE IMPERIAL ARCHIVE
 # Death Guard
 

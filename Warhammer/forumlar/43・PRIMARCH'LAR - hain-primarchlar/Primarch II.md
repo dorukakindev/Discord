@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/20/20._The_Primarchs.jpg/revision/latest?cb=20120405041752
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Primarch II — Adı Silinmiş

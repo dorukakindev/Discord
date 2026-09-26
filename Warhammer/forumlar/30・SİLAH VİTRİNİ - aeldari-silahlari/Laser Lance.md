@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Shining_Spear_Aspect_Warriors.jpg/revision/latest?cb=20110823002132
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Laser Lance
 

@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Piri_Reis_Haritas%C4%B1_%C4%B0zahat.pdf/page1-1280px-Piri_Reis_Haritas%C4%B1_%C4%B0zahat.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Düş Diyarları — the Dreamlands, Uykunun Öte Âlemi

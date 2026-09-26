@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Sanguinius_Sketch_HH8.png/revision/latest?cb=20190228081314
+
 -# THE IMPERIAL ARCHIVE
 # Sanguinius
 

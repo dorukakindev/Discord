@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/05/Nass_Lantomir%2C_Professor_Skant%2C_and_weasel.png/revision/latest?cb=20250525125755
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Fields of Expertise — Uzmanlık Alanları

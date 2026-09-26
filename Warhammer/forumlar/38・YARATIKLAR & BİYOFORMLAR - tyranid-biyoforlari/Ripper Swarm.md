@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/84/Malanthrope3.jpg/revision/latest?cb=20120529204954
+
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 # Ripper Swarm
 *Parçalayıcı Sürü*

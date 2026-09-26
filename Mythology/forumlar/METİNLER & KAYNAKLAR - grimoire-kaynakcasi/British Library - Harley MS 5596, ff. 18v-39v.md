@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/British_library_%282825447785%29.jpg/330px-British_library_%282825447785%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Grimoire Kaynakçası · Kayıt
 # British Library - Harley MS 5596, ff. 18v-39v
 > **Tür:** El yazması katalog kaydı · **Gelenek:** Bizans / Solomonik · **Tarih:** 15. yüzyıl

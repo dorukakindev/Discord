@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/5/58/Sorcerer_PHB5e2024.png/revision/latest?cb=20240904062105
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Sorcerer Ranks — Büyücü Rütbeleri

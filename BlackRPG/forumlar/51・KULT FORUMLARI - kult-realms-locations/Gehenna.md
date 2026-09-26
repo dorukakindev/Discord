@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/c/ca/Gehenna-3e.png/revision/latest?cb=20180720043012
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Gehenna — Kadim Boşluk, Yanılsama'nın Ötesindeki Karanlık

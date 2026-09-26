@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/4b/Oghma_symbol.jpg/revision/latest?cb=20111009190645
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Heretical Priest — Sapkın Rahip

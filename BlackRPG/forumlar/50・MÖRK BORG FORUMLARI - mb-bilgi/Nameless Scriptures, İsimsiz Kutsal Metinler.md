@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/77/Testament_of_jade.png/revision/latest?cb=20201117145548
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Nameless Scriptures, İsimsiz Kutsal Metinler

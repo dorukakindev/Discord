@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/4f/Realmspace-2e.jpg/revision/latest?cb=20180118013150
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Realmspace — Realmspace

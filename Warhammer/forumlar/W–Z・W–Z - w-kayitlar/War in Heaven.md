@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/69/Emerald_advance_by_majesticchicken.jpg/revision/latest?cb=20160720181831
+
 -# THE IMPERIAL ARCHIVE
 # War in Heaven
 

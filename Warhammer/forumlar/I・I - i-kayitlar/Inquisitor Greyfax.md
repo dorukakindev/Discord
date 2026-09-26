@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Greyfax.jpg/revision/latest?cb=20170501070314
+
 -# THE IMPERIAL ARCHIVE
 # Inquisitor Greyfax
 

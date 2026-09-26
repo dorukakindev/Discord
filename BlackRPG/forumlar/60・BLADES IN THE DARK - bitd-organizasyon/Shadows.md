@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/5/54/Shadow5e.jpg/revision/latest?cb=20171010235743
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Shadows — Gölgeler / Hırsızlar, Sızmanın ve Casusluğun Ustaları

@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Varanasiganga.jpg/330px-Varanasiganga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Yerler & Diyarlar · Kayıt
 # Ganges Nehri
 > **Konum:** Hindu · **Mitoloji:** Hindu · **Tür:** kutsal-nehir

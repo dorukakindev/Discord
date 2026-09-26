@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/02/Bonesaw.png/revision/latest?cb=20240228004700
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Bone Saw — Kemik Testere, Hekim Bozuntusunun Bıçağı

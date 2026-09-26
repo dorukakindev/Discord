@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/eb/Hopeless_Map.png/revision/latest?cb=20210622012821
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Plague-Mort — Plague-Mort, Uçuruma Kayan Kasaba

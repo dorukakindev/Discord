@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/ce/IF_Veteran_Beast_Arises.jpg/revision/latest?cb=20160919011906
+
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Beast Savaşı
 *The War of the Beast*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/f/fc/Finlandia_map.png/revision/latest?cb=20250728123159
+
 -# THE TRENCH ARCHIVE · 34・ÜNİTLER & VARLIKLAR · Kayıt
 
 # Ziminiar — Kuzeyin İblisi, Düşen Meleklerin Hükümdarlarından Biri

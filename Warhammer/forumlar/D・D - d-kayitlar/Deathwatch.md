@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/f8/%27Ultra%27_Pattern_Sniper_Rifle_IX.jpg/revision/latest/scale-to-width-down/1000?cb=20120704042747
+
 -# THE IMPERIAL ARCHIVE
 # Deathwatch
 

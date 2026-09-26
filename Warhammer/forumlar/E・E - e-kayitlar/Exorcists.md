@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c5/40kSM_ChapterTacsImage4jfas.jpg/revision/latest?cb=20170719174211
+
 -# THE IMPERIAL ARCHIVE
 # Exorcists
 

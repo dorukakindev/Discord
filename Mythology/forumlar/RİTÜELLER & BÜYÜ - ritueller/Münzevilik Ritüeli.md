@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/St.-Jerome-In-His-Study.jpg/330px-St.-Jerome-In-His-Study.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Ritüeller · Kayıt
 # Münzevilik Ritüeli
 > **Gelenek:** Evrensel · **Tehlike:** dusuk · **Tür:** feragat

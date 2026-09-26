@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_%282019%29.jpg/330px-Pomegranate_Juice_%282019%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Tarot Rehberi & Kaynakça · Kayıt
 # pomegranate-veil
 > **Motif:** Nar perdesi · **Appears:** The High Priestess, The Empress · **Reversal hint:** Sır saklama gereği ile saklanma alışkanlığı karışabilir.

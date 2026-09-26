@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/b/be/Vaasa_-_1480_DR_-_Mike_Schley.jpg/revision/latest?cb=20210523182845
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Cemiyet: Gizli Bir Miras ve Upsala Kalesi

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/0a/AdeptusArbitesArbitrator.jpg/revision/latest?cb=20111205044949
+
 -# THE IMPERIAL ARCHIVE
 # Imperial Agents
 

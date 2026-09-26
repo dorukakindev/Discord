@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/43/LemanRussPunisher.jpg/revision/latest?cb=20120324081753
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Punisher Gatling Cannon
 

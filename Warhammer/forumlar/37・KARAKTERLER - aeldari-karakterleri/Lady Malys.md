@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b6/Kabal_of_poisoned_tongue_by_steel_serpent-d3ad7fi.png/revision/latest?cb=20180818225000
+
 -# THE IMPERIAL ARCHIVE · Aeldari Karakterleri · Kayıt
 # Lady Malys
 

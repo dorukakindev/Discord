@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/ad/LEGACY-OF-VENOM-AG05.jpg/revision/latest?cb=20251020175806
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Richemulot — Veba ve Sıçanlar Diyarı, Boş Şehirlerin Ülkesi

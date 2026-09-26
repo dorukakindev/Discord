@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/0/07/The_Feywild_Job.jpg/revision/latest?cb=20260107170605
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Grift — Kıyı Diyarı, Tuzlu Çürümenin Toprakları

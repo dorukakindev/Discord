@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/8beat_example_01.jpg/330px-8beat_example_01.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Tarot Rehberi & Kaynakça · Kayıt
 # Beden / ritim
 > **Soru:** Beden/ritim yorumunda tıbbi iddia kurma; dinlenme, sınır, tempo, rutin ve kaynak yönetimi gibi genel öz bakım dili kullan.

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/d/de/Map06-Fishmongers-Smokehouse.png/revision/latest?cb=20211028174441
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Palms Open the Southern Gate — Avuçlar Güney Kapısını Açar, Görünmez Yumruk

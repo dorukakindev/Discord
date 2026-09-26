@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e7/Beherit_Skull.jpg/revision/latest?cb=20231216173107
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Shemeshka the Marauder — Yağmacı, Çapraz-Ticaretin Kralı, Sigil'in Tilki Yüzlü Entrikacısı

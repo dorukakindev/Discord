@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/d/d8/Court_of_Seven_Headed_Serpent_emblem.png/revision/latest?cb=20260526015638
+
 -# THE TRENCH ARCHIVE · 36・SAVAŞLAR & OLAYLAR · Kayıt
 
 # The Year of the Broken Trinity (1894) — Kırık Üçleme Yılı — 1894

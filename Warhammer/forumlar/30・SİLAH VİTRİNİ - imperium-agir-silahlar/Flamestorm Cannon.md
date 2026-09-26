@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/75/LandRaiderRedeemer03.png/revision/latest?cb=20120603053927
+
 -# THE IMPERIAL ARCHIVE · Imperium Agir Silahlar · Kayıt
 # Flamestorm Cannon
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Constantin_Valdor.jpg/revision/latest?cb=20170315125020
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Apollonian Spear
 *Apollon Mızrağı*

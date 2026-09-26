@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/29/SEZhentilKeep1.jpg/revision/latest?cb=20220612172042
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Vice — Kötü Alışkanlık, Stres Atmak İçin Başvurulan Zaaf

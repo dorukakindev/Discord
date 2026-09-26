@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%28Barcelona%29_The_Golden_Bough_-_Joseph_Mallord_William_Turner_-_Tate_Britain.jpg/1280px-%28Barcelona%29_The_Golden_Bough_-_Joseph_Mallord_William_Turner_-_Tate_Britain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# CODEX MYTHICA · Akademik Kaynaklar & Alıntılar · Kayıt
 # The Golden Bough
 > **Yazar:** James George Frazer · **Year:** 1890 / 1915 · **Tür:** comparative-method

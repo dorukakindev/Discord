@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/15/GK_Shoulder_Pauldron.jpg/revision/latest?cb=20161118015332
+
 -# THE IMPERIAL ARCHIVE
 # Grey Knights
 

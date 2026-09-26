@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/81/Lower_Pact_Brands_of_the_Inferno.png/revision/latest?cb=20260205144113
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Inferno Katmanları — Cehennemin Çürümüş Şehri, Metropolis'in Karanlık Yansıması

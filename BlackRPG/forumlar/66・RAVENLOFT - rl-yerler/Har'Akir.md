@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/d/df/Desert_troll.png/revision/latest?cb=20231120170510
+
 -# THE BLACK RPG ARCHIVE · RAVENLOFT · Kayıt
 
 # Har'Akir — Çöl ve Mumya Diyarı, Ankhtepot'un Lanetli Krallığı

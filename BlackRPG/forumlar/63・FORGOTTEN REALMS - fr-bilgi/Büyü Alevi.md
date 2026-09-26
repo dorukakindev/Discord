@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/d/d5/Ismail_declares_himself_shah_by_entering_Tabriz%2C_Chingiz_Mehbaliyev.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Büyü Alevi — Spellfire

@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Baskets_four_styles.jpg/330px-Baskets_four_styles.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Hiyeroglif Rehberi · Kayıt
 # nb / sepet
 > **Gardiner:** V30 · **Transkripsiyon:** nb · **Tür:** biliteral

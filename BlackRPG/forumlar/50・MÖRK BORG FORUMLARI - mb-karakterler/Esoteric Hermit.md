@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/3/31/Illithid_slayer-3e.jpg/revision/latest?cb=20200228194320
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Esoteric Hermit — Ezoterik Münzevi

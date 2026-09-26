@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a4/Vampiric_mist-5e.png/revision/latest?cb=20180628183052
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Blood Mist Yırtıcıları — Kan Sisinin Avcıları, Üç Yüzyıllık Gece Katilleri

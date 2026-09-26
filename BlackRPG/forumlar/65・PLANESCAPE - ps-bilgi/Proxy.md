@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/CPT-Proxy-ar.svg/1280px-CPT-Proxy-ar.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · PLANESCAPE · Kayıt
 
 # Proxy — Vekil, Tanrının Seçilmiş Elçisi

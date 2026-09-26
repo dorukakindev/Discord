@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Timur_reconstruction03.jpg/330px-Timur_reconstruction03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Büyü & Lanetler · Kayıt
 # Timur'un Mezar Laneti
 > **Köken:** Orta Asya / Timurlu Geleneği · **Target:** Mezarı açanlar ve mezarı açan devlet · **Mitoloji:** İslam / Orta Asya Türk Geleneği · **Dönem:** 1405 – 1941 · **Cursetype:** mezar · **Lifting:** Kasım 1942'de Timur'un kemiklerinin İslami törenlerle yeniden defnedilmesiyle lanentin kalktığı ve Sovyetlerin Stalingrad zaferini kazandığı söylenir.

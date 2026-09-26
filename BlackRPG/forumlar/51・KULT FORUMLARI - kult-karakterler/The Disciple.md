@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a2/Divine_Disciple2.jpg/revision/latest?cb=20140518134521
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # The Disciple — Mürit, Bir Efendinin Yolundaki Aydınlanmış

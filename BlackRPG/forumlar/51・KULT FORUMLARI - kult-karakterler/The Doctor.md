@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/Versions_of_the_Doctor.jpg/330px-Versions_of_the_Doctor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # The Doctor — Doktor, Beden ile Ruhun Sınırındaki Farkında

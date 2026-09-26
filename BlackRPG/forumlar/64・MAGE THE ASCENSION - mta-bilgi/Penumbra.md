@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/ec/Illithid_Empire.png/revision/latest?cb=20231004130143
+
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
 # Penumbra — Penumbra, Yakın Ruh Katmanı

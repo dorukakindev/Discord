@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/1/10/Graven_Chandler.jpg/revision/latest?cb=20241108100824
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Graven-Tosk — Ölüler Diyarı, Mezarların ve Yürüyen Cesetlerin Toprağı

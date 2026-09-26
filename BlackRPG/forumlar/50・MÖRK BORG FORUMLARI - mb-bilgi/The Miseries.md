@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/83/Meazel-5e.png/revision/latest?cb=20180526174534
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # The Miseries — Sefaletler, Dünyanın Sonunu Sayan Felaketler

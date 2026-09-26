@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/70/Segojan_Earthcaller_1e.png/revision/latest?cb=20210321051728
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Görü: Lanetli Armağan ve Onu Taşıyanlar

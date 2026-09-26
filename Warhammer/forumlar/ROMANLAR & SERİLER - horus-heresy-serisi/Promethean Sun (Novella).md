@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/20/16a._Promethean-Sun.jpg/revision/latest?cb=20120405042844
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Promethean Sun (Novella)
 

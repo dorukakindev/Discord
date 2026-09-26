@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Anubis_standing.svg/330px-Anubis_standing.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Hiyeroglif Rehberi · Kayıt
 # Anubis / çakal
 > **Transkripsiyon:** jnpw · **Theme:** Cenaze, koruma, geçiş · **Gardiner:** E15-E17

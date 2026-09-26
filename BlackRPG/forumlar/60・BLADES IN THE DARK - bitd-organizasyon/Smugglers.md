@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/1/11/Smuggler-2e.png/revision/latest?cb=20230602000748
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Smugglers — Kaçakçılar, Gizli Yolların Taşıyıcıları

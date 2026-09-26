@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%C6%8Fb%C9%99di_s%C3%BCkut_d%C3%BCnyas%C4%B1_yeralt%C4%B1_muzeyind%C9%99_yerl%C9%99%C5%9F%C9%99n_arxeoloji_tap%C4%B1nt%C4%B1lar_2024_%2824%29.jpg/1280px-%C6%8Fb%C9%99di_s%C3%BCkut_d%C3%BCnyas%C4%B1_yeralt%C4%B1_muzeyind%C9%99_yerl%C9%99%C5%9F%C9%99n_arxeoloji_tap%C4%B1nt%C4%B1lar_2024_%2824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Yeraltı Dünyası — Underworld, Ölülerin ve Unutulmuşların Diyarı

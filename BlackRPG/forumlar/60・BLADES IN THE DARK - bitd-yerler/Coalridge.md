@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/f/f6/Coolidge-Coolidge_High_School-1939-1.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Coalridge — Kömür Sırtı, Sanayinin Kara Kalbi

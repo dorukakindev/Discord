@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/99/SkillsPowers.jpg/revision/latest?cb=20200630202119
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Score — İş, Ekibin Yürüttüğü Soygun ya da Operasyon

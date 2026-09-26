@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mask_used_by_%27Eskimo%27_shaman_in_causation_of_illness._Wellcome_M0012691.jpg/330px-Mask_used_by_%27Eskimo%27_shaman_in_causation_of_illness._Wellcome_M0012691.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Mitolojiler · Kayıt
 # İnuit & Kuzey Amerika Mitolojisi
 > **Bölge:** Kuzey Amerika · **Dönem:** Sözlü gelenek - Günümüz · **Cosmology:** Hayvan ruhları, kutsal yönler, ata varlıklar ve tabiatla karşılıklı sorumluluk temel unsurlardır. · **Afterlife:** Ruhların hayvanlar, atalar ve tabiat güçleriyle ilişkisi birçok gelenekte sürer.

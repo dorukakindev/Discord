@@ -1,3 +1,5 @@
+https://commons.wikimedia.org/wiki/Special:FilePath/Byzantine_Constantinople-en.png?width=1000
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Kergüs — Kuzey Bozkırı, Buz Cadılarının Diyarı

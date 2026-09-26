@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/8f/Realmspace-2e-crop.jpg/revision/latest?cb=20180121180351
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Abeir — Abeir

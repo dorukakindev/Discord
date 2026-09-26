@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/26/Pit_Fiend_5eR.png/revision/latest?cb=20260621062419
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Summon from the Pit — Zindandan Çağırma

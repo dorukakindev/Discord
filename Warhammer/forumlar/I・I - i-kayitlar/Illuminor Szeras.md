@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/3f/Examining_the_subject.jpg/revision/latest?cb=20160914103512
+
 -# THE IMPERIAL ARCHIVE
 # Illuminor Szeras
 

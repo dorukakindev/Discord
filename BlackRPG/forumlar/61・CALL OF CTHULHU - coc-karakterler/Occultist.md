@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/9/93/Tranquil_Bolt.png/revision/latest?cb=20231124080442
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Occultist — Okültist, Gizli Bilgilerin Yorumcusu

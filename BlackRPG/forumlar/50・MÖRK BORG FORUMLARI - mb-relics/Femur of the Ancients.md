@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/6/6e/St._Markovia%27s_Thighbone.jpg/revision/latest?cb=20210330170848
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Femur of the Ancients — Kadimlerin Uyluk Kemiği, Ölü Kahramanın Sopası

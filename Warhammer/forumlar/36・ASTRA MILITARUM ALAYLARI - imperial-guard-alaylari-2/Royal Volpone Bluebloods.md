@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/BluebloodCover.jpg/revision/latest?cb=20180319201332
+
 -# THE IMPERIAL ARCHIVE · Imperial Guard Alaylari 2 · Kayıt
 # Royal Volpone Bluebloods
 

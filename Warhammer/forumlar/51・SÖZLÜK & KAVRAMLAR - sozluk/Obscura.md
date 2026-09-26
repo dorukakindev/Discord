@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9e/Fleet_Firing.jpg/revision/latest?cb=20130413200212
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Obscura
 *Obscura (Yasak Narkotik)*

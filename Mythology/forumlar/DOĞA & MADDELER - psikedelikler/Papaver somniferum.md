@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Papaver_somniferum_flowers.jpg/330px-Papaver_somniferum_flowers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Psikedelikler & Enteojenler · Kayıt
 # Papaver somniferum
 ### Afyon Haşhaşı

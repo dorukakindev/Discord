@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/fa/Malar_p44.jpg/revision/latest?cb=20200726230834
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Bestial Speech — Hayvanların Dili

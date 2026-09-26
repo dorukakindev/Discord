@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/2/25/Gzemnid.png/revision/latest?cb=20230711180751
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Görünmeyenin Alemi: Mitik Kuzey

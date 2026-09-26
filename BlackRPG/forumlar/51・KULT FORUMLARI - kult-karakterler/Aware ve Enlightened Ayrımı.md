@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/6/69/Lump_p10.png/revision/latest?cb=20230514103615
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Aware ve Enlightened Ayrımı — Farkında ile Aydınlanmış Arasındaki Eşik

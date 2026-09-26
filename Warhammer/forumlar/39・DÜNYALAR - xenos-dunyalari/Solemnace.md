@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/07/Trazyn.jpg/revision/latest?cb=20151005061231
+
 -# THE IMPERIAL ARCHIVE · Xenos Dunyalari · Kayıt
 # Solemnace
 

@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Shah_Namah%2C_the_Persian_Epic_of_the_Kings_Wellcome_L0035191.jpg/330px-Shah_Namah%2C_the_Persian_Epic_of_the_Kings_Wellcome_L0035191.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Demonlar, Cinler & Ruhlar · Kayıt
 # Cin
 > **Subtype:** cin · **Nature:** nötr · **Element:** hava · **Köken:** İslam

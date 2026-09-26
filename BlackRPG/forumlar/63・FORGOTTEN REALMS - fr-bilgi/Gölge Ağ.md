@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/e/e4/Shadow-cursed_Lands_concept.png/revision/latest?cb=20230928144700
+
 -# THE BLACK RPG ARCHIVE · FORGOTTEN REALMS · Kayıt
 
 # Gölge Ağ — Shadow Weave

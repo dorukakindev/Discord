@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/b/ba/Dragon_magazine_256.jpg/revision/latest?cb=20171207215245
+
 -# THE BLACK RPG ARCHIVE · Editoryal
 # Taslak Gönderi Şablonu
 

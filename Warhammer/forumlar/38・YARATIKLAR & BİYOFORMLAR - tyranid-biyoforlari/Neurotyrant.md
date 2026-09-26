@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d5/Doom_of_Malan%27tai_-_Zoanthrope.jpg/revision/latest?cb=20150404223836
+
 -# THE IMPERIAL ARCHIVE · Tyranid Biyoforlari · Kayıt
 
 # Neurotyrant

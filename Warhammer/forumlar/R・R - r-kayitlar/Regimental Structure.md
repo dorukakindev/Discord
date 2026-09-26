@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/66/4708_cadian.imperial_guard.imperium.jpg/revision/latest/scale-to-width-down/1000?cb=20130215050948
+
 -# THE IMPERIAL ARCHIVE · R Kayıtları
 # Regimental Structure
 

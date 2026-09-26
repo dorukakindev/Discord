@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/f/fc/HLTarchons.jpg/revision/latest?cb=20210216132111
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Archon — Archon, Demiurge'ün Melekleri

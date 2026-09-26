@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/04/Sons_of_Malice_Livery.jpg/revision/latest?cb=20200114191258
+
 -# THE IMPERIAL ARCHIVE · M KAYITLARI · Kayıt
 
 # Maximus Octavian Grüber III

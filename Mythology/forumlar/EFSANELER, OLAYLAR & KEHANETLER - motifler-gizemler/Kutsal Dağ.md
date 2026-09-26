@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kailash_north.JPG/330px-Kailash_north.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Motifler & Gizemler · Kayıt
 # Kutsal Dağ
 > **Firstattestation:** Motif çok eski yüksek yer kültleriyle bağlantılıdır; klasik örnekleri Yunan Olympos'u, Hint Meru/Kailash kozmolojisi ve Sinai vahiy anlatılarıdır. · **Motif Türü:** kozmoloji

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/18/Adeptus_Arbites_Shotgun.png/revision/latest?cb=20110803020116
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Shotgun
 

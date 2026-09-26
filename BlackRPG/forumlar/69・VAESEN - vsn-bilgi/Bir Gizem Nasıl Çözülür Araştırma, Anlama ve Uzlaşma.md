@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/7/7a/Temple_of_Mystra.jpg/revision/latest?cb=20160327065343
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Bir Gizem Nasıl Çözülür: Araştırma, Anlama ve Uzlaşma

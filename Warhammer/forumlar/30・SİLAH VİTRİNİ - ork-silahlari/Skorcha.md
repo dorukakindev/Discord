@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/OrkSkorcha2.jpg/revision/latest?cb=20250616190333
+
 -# THE IMPERIAL ARCHIVE · Ork Silahlari · Kayıt
 # Skorcha
 

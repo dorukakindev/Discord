@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Custodian_Prospero.png/revision/latest?cb=20170316212726
+
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Fire Pike
 

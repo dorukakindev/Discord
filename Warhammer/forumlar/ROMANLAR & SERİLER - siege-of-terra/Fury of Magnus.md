@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/FuryOfMagnus.jpg/revision/latest?cb=20260223093806
+
 -# THE IMPERIAL ARCHIVE · Siege of Terra · Kayıt
 # Fury of Magnus
 

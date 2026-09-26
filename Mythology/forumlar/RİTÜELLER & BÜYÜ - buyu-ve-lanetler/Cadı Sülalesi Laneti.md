@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/John_William_Waterhouse_-_Magic_Circle.JPG/330px-John_William_Waterhouse_-_Magic_Circle.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Büyü & Lanetler · Kayıt
 # Cadı Sülalesi Laneti
 > **Tür:** lanet · **Köken:** Avrupa · **Cursetype:** kan · **Mitoloji:** Avrupa

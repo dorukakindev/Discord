@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/4/45/Green_Hag-5e.png/revision/latest?cb=20171011031715
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # The First Misery — İlk Sefalet, Susayanların Vebası

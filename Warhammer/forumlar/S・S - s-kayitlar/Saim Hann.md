@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/3/34/Alaitoc_Guardian2.jpg/revision/latest?cb=20150316214010
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Saim Hann
 

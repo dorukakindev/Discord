@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/64/Synapticdisintegrator10.jpg/revision/latest?cb=20150316112112
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Synaptic Disintegrator
 

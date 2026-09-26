@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/trench-crusade/images/3/38/England_map.png/revision/latest?cb=20250512221500
+
 -# THE TRENCH ARCHIVE · 33・KARAKTERLER · Kayıt
 
 # High Captain Ranga — Yüzbaşı Ranga — Kanlı Kayalıklar'ın Fatihi

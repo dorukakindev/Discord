@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c7/Rod_of_Covenant_colour.jpg/revision/latest?cb=20130413190206
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Rod of Covenant
 

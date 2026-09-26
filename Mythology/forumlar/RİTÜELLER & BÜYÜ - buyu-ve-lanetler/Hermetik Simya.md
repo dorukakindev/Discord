@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/E-codices_zbz-Ms-Rh-0172_044_max_copy.jpg/330px-E-codices_zbz-Ms-Rh-0172_044_max_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
 -# CODEX MYTHICA · Büyü & Lanetler · Kayıt
 # Hermetik Simya
 > **Gelenek:** Alkimizim · **Köken:** Alkimizim · **Magictype:** Alkimizim

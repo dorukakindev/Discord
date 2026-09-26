@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/a/a2/EnvironsofTilverton.jpg/revision/latest?cb=20210210003412
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Kilitli Kapıları Açmak: Cemiyet'in Mirası ve Geleceği

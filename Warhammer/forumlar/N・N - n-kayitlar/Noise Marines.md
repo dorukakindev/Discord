@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9e/EmperorsChildrenNoiseMarine.webp/revision/latest/scale-to-width-down/1000?cb=20250318130327
+
 -# THE IMPERIAL ARCHIVE
 # Noise Marines
 

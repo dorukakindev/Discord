@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/forgottenrealms/images/8/85/Azaltin.JPG/revision/latest?cb=20241213225309
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
 
 # Temizlik Savaşları ve Kızıl Güneş
