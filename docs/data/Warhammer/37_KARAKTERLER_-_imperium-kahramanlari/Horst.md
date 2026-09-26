@@ -4,11 +4,12 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Horst.jpg/revision/la
 
 # Horst
 
-*İmparatorluk'un eski Inquisitor'u*
+*Eisenhorn'un eski Inquisitor müttefiki*
 
 - **Kategori:** Karakter
 - **Fraksiyon:** İmparatorluk — Inquisition
 - **Dönem:** M41
+- **Önemli Olaylar:** Eisenhorn operasyonları
 
 ## Tarihçe
 

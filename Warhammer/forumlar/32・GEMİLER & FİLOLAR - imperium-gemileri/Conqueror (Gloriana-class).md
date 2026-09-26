@@ -16,7 +16,7 @@ Angron'un öfkesini yıldızlar arasında taşıyan bir savaş gemisidir. Legion
 
 ## Tarihçe
 
-Aaron Dembski-Bowden'ın *Betrayer* romanı, Conqueror'ı ve onun kaptanı Lotara Sarrin'i merkeze alır. Roman, Horus Heresy'nin Shadow Crusade döneminde World Eaters ile Word Bearers'ın Ultramar'a yönelik saldırısını ve bu harekâtın Armatura'daki doruk noktasını işler; Angron'un Daemon Prince'e dönüşümü bu anlatının sonunda gerçekleşir.
+Conqueror, World Eaters lejyonunun primarch'ı Angron'un amiral gemisi olan bir Gloriana-class Battleship'ti; Büyük Haç ve Horus Heresy boyunca XII. Lejyon'un 203. Sefer Filosu'nun başında durdu. Primarch XII. Lejyon'un efendisi olarak görevi devralmadan önce gemi farklı bir ad taşıyordu — o daha masum günlerde Adamant Resolve olarak yelken açıyordu. Angron geldikten sonra gemi onun öfkesinin uzantısına dönüştü; Isstvan III bombardımanı, Isstvan V'teki katliam ve sonunda Terra Kuşatması'nda Khorne'a adanmış bir savaş tapınağı gibi kullanıldı. Gloriana sınıfının diğerleri gibi tek başına bir filo değerindeydi.
 
 -# Kaynaklar: *Betrayer — Aaron Dembski-Bowden*
 

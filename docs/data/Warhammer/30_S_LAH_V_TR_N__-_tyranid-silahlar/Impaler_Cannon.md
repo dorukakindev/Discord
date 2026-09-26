@@ -16,6 +16,7 @@ Hive Guard'ların taşıdığı symbiote toptur; bir adam boyundaki kemikten okl
 
 ## Tarihçe
 
-Impaler Cannon'un oku siperlerin ve duvarların üzerinden kavis çizerek avını bulur; saklanmanın işe yaramadığı nadir Tyranid mühimmatlarındandır. Mühimmatın kendi canlı kılavuzu taşıması — kılavuzun atış anında ölmesi pahasına — Hive Mind'ın savaş ekonomisinin en katı örneklerindendir.
+Impaler Cannon, Tyranid bio-silahıdır; yaklaşık bir metre uzunluğunda, içi boş kemik çivilerini devasa bir ivmeyle fırlatır. Çivinin içi büyüyen bir arter gibi kasılır ve hedefe temas anında içindeki zararlı organizmalar — genellikle ölümcül asit ya da parazitik larvalar — mermiden fışkırır. Tyranid Warrior'lar ve Hive Guard gibi orta bioformlar tarafından taşınır; pençe büyüklüğündeki mermiler hem zırhı deler hem içerideki canlı yükü salar.
+
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

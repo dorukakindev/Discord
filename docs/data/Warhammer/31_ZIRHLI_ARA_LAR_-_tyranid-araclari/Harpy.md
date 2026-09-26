@@ -16,7 +16,7 @@ Geniş zarlı kanatlarıyla savaş alanının üzerinde süzülen ve düşman ha
 
 ## Tarihçe
 
-Harpy'ler Tyranid istilalarında hava akınlarının parçası olarak anlatılır; savunma hatlarını yıpratmak, piyadeyi sersemletmek ve ağır organizmaların ilerleyişi için yolu açmak görevini üstlenir.
+Harpy, Tyranid Skyswarm'ının uçan bioform'udur; yakın akrabası Gargoyle'dan daha büyük ve güçlüdür, kabaca havadan bir Trygon'a denktir. Kıvrımlı, yılanvari bir gövdesi, organik zırhla kaplı geniş başı vardır; çok büyük, deri kanatları sayesinde pek çok uçağı geride bırakacak manevra yapar. Adeptus Mechanicus'un Magi Biologis'i Harpy ve Trygon'un yakın bioform mu yoksa ayrı cins mi olduğunu tartışır, ancak karşılaştırmalı çalışma azdır ve filogenetik kataloglama hâlâ eksiktir. Saldırılarında Stranglethorn Cannon veya Heavy Venom Cannon taşır; piyadeye karşı da Spore Mine Cysts bırakır.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

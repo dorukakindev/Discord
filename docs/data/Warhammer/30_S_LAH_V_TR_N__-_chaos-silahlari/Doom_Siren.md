@@ -16,6 +16,7 @@ Noise Marine'in kendi çığlığını yıkıcı bir sonik saldırıya çeviren 
 
 ## Tarihçe
 
-Doom Siren, Slaanesh'in "sınır tanımayan his" öğretisinin en kişisel silahıdır: cephane taşıyıcının kendi sesidir. Zamanla cihaz zırhın ve etin içine işler; taşıyıcının her soluğu, her kalp atışı yükseltilmiş bir kakofoniye katılır. Şarj eden bir Noise Marine'in önünde açılan ses duvarı en iri düşmanı bile devirir; siren'ın sahibine çektirdiği azap ise çoğu için sadece başka bir hazdır.
+Doom Siren, Slaanesh'in hizmetindeki Heretic Astartes Noise Marine'lerinin, araçların ve Daemon Engine'lerin kullandığı yakın dövüş sonic silahıdır; gürültü ve zevk tanrısına adanmıştır. Chaos Space Marine'in güç zırhına, miğferin çevresine karmaşık boru ve tüp düzeniyle monte edilir ve yakın dövüşte düşman üzerine kısa menzilli sonic saldırılar fırlatır — genellikle rakibi öldürecek ya da en azından geçici olarak sağır ve sersem bırakacak güçtedir. Noise Marine'in zaten korkutucu olan görünümüne biyomekanik bir boğaz eklemiş olur.
+
 
 -# Kaynaklar: *Codex: Chaos Space Marines*; *Codex: Emperor's Children — 10th Edition*; Lexicanum — "Doom Siren" ve "Noise Marine"; Warhammer 40,000 — Fandom

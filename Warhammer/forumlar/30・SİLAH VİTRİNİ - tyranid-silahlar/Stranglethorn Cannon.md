@@ -16,6 +16,7 @@ Barbed Strangler'ın ağırlaştırılmış hali; daha büyük, daha güçlü ve
 
 ## Tarihçe
 
-Stranglethorn Cannon, dikenli boğucu organını büyük biyoformların taşıyabileceği kalibrede büyütür. Patlayan kapsül geniş bir alana çelik sertliğinde dikenler saçar; piyadeyi bağlayıp boğarken zırhlı hedefleri de parçalar. Sürü'nün biyo-topçusu olarak hem alan hakimiyeti hem zırh delme işlevi görür.
+Stranglethorn Cannon, Tyranid biyo-silahıdır; etli, çengel dikenli bir 'tohum' mermisi fırlatır — isabet ettiğinde mermi patlayarak içindeki kıvranan, bıçaklı asma benzeri organizmayı her yöne saçar. Çıkan stranglethorn asması ete dolanır, keser ve boğar; patlamadan kurtulanlar bile sarmaşığın içinde boğulur. Genellikle Harpy ve Trygon gibi büyük bioformlar taşır; piyade hatlarına karşı en yıkıcı Tyranid silahlarından biridir çünkü hasar tek bir isabetle bitmez — asma yaşamaya devam eder.
+
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

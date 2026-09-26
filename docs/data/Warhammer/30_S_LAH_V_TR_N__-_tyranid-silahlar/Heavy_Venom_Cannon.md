@@ -16,6 +16,7 @@ Venom Cannon'ın büyütülmüş ve daha öldürücü varyantı; süpersonik hı
 
 ## Tarihçe
 
-Sürü'nün canlı tank-topu olarak işlev görür: zehirli kristal mızrağı hem deler hem parçalanarak bölmeleri safra ile doldurur. Büyük biyoformların uzun menzilli zırh avcısı rolünü üstlenir; tek atışı bir tankı durdurabilecek yük taşır.
+Heavy Venom Cannon, Tyranid'lerin en büyük bio-silahlarından biridir; ileri seviye biyoelektrik reaksiyonla yüksek basınçlı, kristalize zehir mermilerini uçurur. Normal Venom Cannon'ın ağır ağabeyidir — daha uzun menzil, daha büyük patlama ve bir tankın zırhını eritecek kadar asit taşır. Carnifex, Tyrannofex ve diğer büyük bioformlar tarafından taşınır; Imperium'un zırhlı hatlarına karşı Hive Mind'ın standart cevabıdır.
+
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

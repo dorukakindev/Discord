@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/27/BloodSlaughterer00.pn
 
 ## Tarihçe
 
-Blood Slaughterer, Khorne'a adanmış devasa bir daemon-engine'dir; pirinç ve kara demirden yapılmış bu 'kan kesicisi', Vraks Kuşatması'nda İmparatorluk hatlarını yıkan canavar.
+Blood Slaughterer of Khorne, Khorne'a adanmış, pirinç ve siyah demirden yapılmış, kana bulanmış büyük bir Daemon Engine'dir; tek amacı doğaüstü Warp direnci ve gücüyle düşmanda katliam yaratmak olan bir ele geçirilmiş savaş makinesidir. Kadim Slaughterer Daemon Engine soyunun İmparatorluk'un Horus Heresy'den beri karşılaştığı en yeni enkarnasyonudur. Vahşi, pençeli bir yaratık gibi hareket eder; zincir testeresi kollarıyla piyade hatlarını doğrar. World Eaters warband'lerinde ve Khorne'a adanmış Daemonkin güçlerinde sık görülür.
 
 -# Kaynaklar: *Fandom wiki*

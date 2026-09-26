@@ -16,7 +16,8 @@ Swooping Hawks tapınağının ritüel silahı olan hızlı ateşli Aeldari laze
 
 ## Tarihçe
 
-Kanatlı Aspect Warrior'ların silahı: Hawk sürüleri gökyüzünden dalarken lasblaster yağmuruyla yolu açar. Corsair filolarında aynı tüfek, Craftworld disiplininden kopmuş savaşçıların bile Aeldari zanaatından vazgeçmediğini gösterir. Baharroth'un Fury of the Tempest'i, tapınağın silahının Phoenix Lord ölçeğindeki biçimidir.
+Lasblaster, yalnızca Swooping Hawks Aspect Warrior'ları tarafından kullanılan bir Aeldari lazer silahıdır. Aeldari lazerleri, psişik olarak yetiştirilmiş kristallerle yoğun atışları en uygun güce rafine eder; pek çok Aeldari lazer silahlarını tümünün en zarifi sayar çünkü teknolojik ustalıkları ışığın kendisine bile uzanır. Swooping Hawks, nokta-atış lazer ateşini bir sanata dönüştürmüştür; Exarch'ları bu ölümcül teknikte onlara öncülük eder ve sürekli ışık salvosuyla süzülerek inerler.
+
 
 -# Kaynaklar: *Codex: Eldar — 3rd Edition*; *Codex: Eldar — 4th Edition*; *Codex: Aeldari — 10th Edition*; Warhammer 40,000 — Lexicanum
 

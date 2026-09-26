@@ -16,8 +16,9 @@ Sonic teknolojiye dayanan Aeldari ağır silahıdır; v-cannon ya da tremor cann
 
 ## Tarihçe
 
-Craftworld'lerin az konuşulan ama hep var olan ağır silahıdır. Işık ya da mermi görünmez — hedef kendini 'sarsılarak dağılmış' bulur; askerler devrilir, tanklar sarsıntıyla parçalanır ve top ile hedef arasında toprak oyulmuş bir hat açılır. Aynı noktaya kilitlenen iki batarya, Aeldari topçu sanatının en ölümcül kesişimidir.
+Vibro Cannon, Craftworld Aeldari'nin ağır destek silahlarından biridir; hedefin maddesini — ister canlı, ister bina, ister araç — yoğunlaşmış ses dalgalarıyla titreştirerek yapısal olarak kırar. Silahın rezonans frekansı hedefin kristal ya da metal yapısıyla örtüştüğünde tankları bile parçalara ayıracak kadar güçlüdür. Genellikle silah platformlarına ya da destek bataryalarına monte edilir; Aeldari'nin lazer ve shuriken dışındaki az bilinen ama etkili silahlarından biridir.
+
 
 -# Kaynaklar: *Codex: Eldar — 2nd Edition*; *Codex: Eldar — 3rd Edition*; *Codex Titanicus — 1st Edition*; Warhammer 40,000 — Lexicanum
 
--# İlişkili kayıtlar: <#1551629214837510205>, <#1551631439982895125>, <#1551812290439942255>, <#1551655280826130493>
+-# İlişkili kayıtlar: <#155162921483751020

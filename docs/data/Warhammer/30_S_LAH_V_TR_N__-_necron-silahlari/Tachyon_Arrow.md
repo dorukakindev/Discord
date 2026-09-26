@@ -18,7 +18,7 @@ Necron soylularının bileğine monte edilmiş incelikli yöneltilmiş-enerji si
 
 ## Tarihçe
 
-Tachyon Arrow, Necron'ların en ölümcül ve en gelişmiş silahıdır — tachyon enerjisi kullanan bir silahtır. Bu silah, hedefe yoğun bir tachyon enerjisi gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Tachyon Arrow, Necron'ların en ölümcül ve en gelişmiş silahıdır; bu silah, Necron'ların en önemli ve en gelişmiş silahıdır. Silah, Necron'ların
+Tachyon Arrow, Necron aristokrasisinin — Overlord ve Cryptek'lerin — kullandığı tek atımlık ama yıkıcı kişisel silahtır; sopa ya da künye biçiminde taşınır ve etkinleştirildiğinde bir takyon ışını salar. Takyon parçacıkları ışıktan hızlı hareket ettiği için hedef tepki gösteremeden isabet gerçekleşir; tek atış bir Land Raider'ı delebilir veya bir Carnifex'i düşüreb
 
 den yüklenebildiği yerde gelir.
 

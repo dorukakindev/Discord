@@ -16,8 +16,6 @@ Dünyadan dünyaya dolaşarak yerel yöneticilerin teslim ettiği ya da yakalana
 
 ## Tarihçe
 
-Toplanan psykerler Terra'da sınanır; bir bölümü eğitilip astropath, primaris psyker ya da başka görevlere alınırken pek çoğu Golden Throne'a ve Astronomican'a adanır. Great Rift sonrası psyker doğumlarındaki artış, bu gemilerin yükünü daha da ağırlaştırmıştır.
+Black Ship'ler, Imperium'un Adeptus Astra Telepathica'sının askere alma bölümü olan League of Blackships filosunu oluşturan korkulan Imperial yıldız gemileridir. Büyük filo Astra Telepathica'ya aittir ama çoğu zaman Inquisition personeli ve Sisters of Silence tarafından yönetilir; Navis Imperialis'ten bağımsızdır ve galaksideki ikinci büyük insan filosunu oluşturur. Binlerce Black Ship vardır ama sadece en yüksek rütbeli adept'ler kaçının olduğunu bilir. Görevleri, dünya dünya dolaşıp psişik nüfusu toplamaktır — binlerce psyker'ı Golden Throne'un korosuna ya da Sanctioned Psyker programlarına taşıyan gemi, bindiği dünyanın kolektif kâbusudur.
 
--# Kaynaklar: *Codex: Imperial Agents*; *Warhammer 40,000 Core Book — 10th Edition*
-
--# İlişkili kayıtlar: <#1551810610264678443>, <#1551818131679215728>, <#1551743688680669286>, <#1551652847697797191>
+-# Kaynaklar: *Codex: Imper

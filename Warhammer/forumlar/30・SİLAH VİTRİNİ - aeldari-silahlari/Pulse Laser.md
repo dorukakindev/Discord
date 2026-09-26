@@ -16,7 +16,8 @@ Falcon grav-tankının taretinde bulunan ve ard arda güçlü lazer mermileri sa
 
 ## Tarihçe
 
-Falcon'ın ana silahı olarak Craftworld'lerin piyade nakliye-hücum araçlarına orta menzilde yoğun ateş sağlar. Aynı familyada scatter laser'in saçılan atışı ile bright lance'in tek delici darbesi arasında durur: ne en ağır zırh avcısı ne de piyade süpürücüsü — ikisinin arasında dengeli bir araç topudur.
+Pulse Laser, Bright Lance'in akrabası olan gelişmiş bir Aeldari lazer silahıdır; ard arda güçlü lazer huzmeleri saçar. Bright Lance'den daha uzun menzile ve daha yüksek atış hızına sahiptir, ancak tek atışta daha az güçlüdür ve ağır zırhı aynı verimde delemez. Grav-tanklara, War Walker'lara ve diğer Aeldari platformlarına monte edilir; esneklik istenen görevlerde Bright Lance'in yerini alır. Aeldari'nin psikokristal teknolojisiyle rafine edilen lazer ailesinin en yaygın ağır üyesidir.
+
 
 -# Kaynaklar: *Codex: Eldar — 3rd Edition*; *Codex: Eldar — 4th Edition*; Warhammer 40,000 — Lexicanum
 

@@ -16,7 +16,7 @@ Piranha, bir pilot ve bir nişancının kullandığı küçük, hızlı bir anti
 
 ## Tarihçe
 
-T'au'nun hareketli, koordineli savaş anlayışı içinde Piranha'lar, Pathfinder'larla birlikte düşmanı gözetleyen ve hedef belirleyen öncü kuvvetlerle birlikte çalışır. Kaynaklar onları, ağır birlikler gelmeden önce düşmanın dengesini bozan hızlı unsurlar olarak anlatır.
+TX-4 Piranha, Tau Fire Caste'in kullandığı hafif zırhlı savaş-keşif skimmer'ıdır; jet iticileri ve anti-yerçekim motoru sayesinde büyük hız ve manevra kabiliyetine sahip mobil bir silah platformudur. İki kişilik mürettebatı araziyi sarıp siperden en iyi şekilde yararlanabilir ve düşmanın vurması son derece zordur. Silah yükü kendi ağırlık sınıfının çok üstüne çıkar — Burst Cannon ile piyade katleder ya da Fusion Blaster ile tank avlar. Tau'nun 'sürekli hareket' savaş doktrininin mükemmel örneğidir; Damocles Körfezi seferleri sırasında Imperium keşif birliklerine karşı sürekli üstünlük sağladı.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 

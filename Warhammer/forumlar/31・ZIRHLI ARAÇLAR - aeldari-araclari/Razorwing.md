@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/35/RazorwingJetfighterin
 
 ## Tarihçe
 
-Razorwing, Drukhari'nin hafif, süpersonik jet avcısıdır; dark lance'ler ve disintegrator cannon'larla donanmış, Commorragh kabal'lerinin hava gücü bel kemiğidir. Gerçek uzaydan çok yakın kara desteğinde kullanılır — hızıyla düşman tanklarını kesip piyadeyi baskın hızıyla destekler.
+Razorwing Jetfighter, Drukhari'nin yıldırım hızındaki kara taarruz uçağıdır; kara desteği için özel tasarlanmış, tuhaf çeşitlilikte Razorwing Füzeleri saçarak yaygın katliam ve karmaşa yaratır. Kabal archon'ları düşmanın organize direnişini kırmak için Razorwing dalışları ister; hıza âşık pilotları ayrıca ağır düşman tanklarını ve uzaylı canavarları avlamaktan zevk alır. Drukhari'nin realspace akınlarında gökyüzünü önce virid yeşili bir ışık doldurur, arkasından Razorwing'ler iner. Hem Webway baskınlarında hem kalıcı çatışmalarda standart hava gücüdür.
 
 -# Kaynaklar: *Fandom wiki*

@@ -11,10 +11,9 @@ Galaksinin en savaş görmüş dünyası — üç büyük savaşa sahne olan kov
 - **Köken:** Armageddon Sistemi
 
 ## Tarihçe
-İmparatorluk'un en büyük sanayi-kovan dünyalarından; 444.M41'de Angron'un saldırısı (Birinci Savaş), 941.M41'de Ghazghkull'un ilk waaagh'ı (İkinci Savaş) ve 998.M41'deki Üçüncü Savaş ile tarihe geçti. Yarrick, Dante ve Grimnar efsaneleri burada doğdu.
 
-## Özellikler
-Hive Hades gibi devasa kovan şehirleri, Steel Legion orduları, küllerle kaplı çöller; adı İmparatorluk'un direncinin simgesi.
+Armageddon, İmparatorluğun en büyük ve en önemli dünyalarından biridir; onun hive city'leri ve sanayi kapasitesiyle — İmparatorluğun en büyük üretim merkezlerinden biridir — ve onun Ork'larla olan savaşlarıyla — İmparatorluğun en büyük savaşlarının merkezidir — onlar, İmparatorluğun en büyük ve en önemli dünyasıdır. Armageddon'un en büyük özelliği, onun savaşlarıdır — onlar, Ghazghkull Thraka'nın üç kez saldırdığı ve İmparatorluğun en büyük savaşlarının merkezidir; bir Armageddon, bir gezegenin en savaş halidir ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır. Armageddon'un en ünlü özelliği, onun hive city'leridir — onlar, İmparatorluğun en büyük şehirleridir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Armageddon, İmparatorluğun en büyük ve en önemli dünyasıdır — onlar, İmparatorluğun en büyük savaşının ve en büyük gücünün somut halidir.
+
 
 -# Kaynaklar: Armageddon kampanya kitapları
 

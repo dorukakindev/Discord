@@ -13,7 +13,6 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-Seeker Missile, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş füzesidir — hedefi izleyen bir füzedir. Bu füze, hedefi izler ve ona vurur; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Seeker Missile, T'au'nun en ölümcül ve en gelişmiş füzesidir; bu füze, T'au'nun en önemli ve en gelişmiş füzesidir. Füze, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş füzesi olarak kalır.
-
+Seeker Missile, Marker Light ile işaretlenmiş hedefe vuran tek güçlü füzeden oluşan bir Tau silah sistemidir; Tau savaş doktrini tüm kuvvetlerin sürekli hareketli kalmasını şart koştuğundan topçu yerine kullanılır — Fire Caste genellikle zaruret dışında statik savunma pozisyonlarına bel bağlamaz. Yakın zamandaki Tau ateş-kontrol gelişmeleri platformların Marker Light olmadan da Seeker fırlatmasına izin verdi, ancak bu 'kör atış' füzeleri hedef kilidi tutturamadığı için isabet oranı düşer. Sky Ray ve Hammerhead gibi platformlarda monteli olur.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

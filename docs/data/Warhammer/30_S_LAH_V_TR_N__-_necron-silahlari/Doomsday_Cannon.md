@@ -18,7 +18,7 @@ Doomsday Ark'ın tek ve devasa silahı; Necron arsenalinin en güçlü silahlar�
 
 ## Tarihçe
 
-Doomsday Cannon, Necron'ların en ölümcül ve en büyük silahıdır — kıyamet topu'dur. Bu silah, hedefe yoğun bir enerji gönderir; tek atışta bir Titan'ın zırhını bile delebilecek kadar güçlüdür. Doomsday Cannon, Necron'ların en ölümcül ve en büyük silahıdır; bu silah, Necron'ların en önemli ve en büyük silahıdır. Silah, Necron'ların en ölümcül ve en büyük silahı olarak kalır.
+Doomsday Cannon, İmparatorluk'un ilkel yönlendirilmiş enerji silahlarını kolayca gölgede bırakan, o ölümsüz ırkın ileri teknolojisinin harikası olan yıkıcı bir Necron silahıdır; yalnızca Doomsday Ark'a monte edilir — ki bu araç kendisi devasa, kendinden tahrikli bir Doomsday Cannon'dan başka bir şey değildir. Tek atışla savaş kazandırabilecek bir silahtır: düşük güçte bile korkutucudur, tam güçte kavurucu enerji huzmesi gelenekse
 
 edilmezse, tek salvosu bir orduyu harabeye çevirebilir.
 

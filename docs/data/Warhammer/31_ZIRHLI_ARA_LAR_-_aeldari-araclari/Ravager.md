@@ -16,7 +16,7 @@ Drukhari akınlarının zırh avcısıdır. Raider'ın açık güverteli hızın
 
 ## Tarihçe
 
-Kabal'ların akın filolarında Raider'ların yanında uçar. Drukhari'nin savaşa yaklaşımında amaç çoğu zaman araziyi tutmak değil, esir almaktır; Ravager bu amaca ulaşmanın önündeki ağır engelleri kaldırır.
+Ravager, Drukhari Raider şasisinin ağır destek varyantıdır; normalde kabal savaşçılarına ayrılan bölme iki ek sponsonla doldurulur ve üç yıkıcı ağır silah taşır — tipik olarak Dark Lance'ler. Savaş alanında zırhlı ateş desteği rolü üstlenir; en ağır düşman hedeflerine kilitlenir, ama Imperium tanklarıyla kıyaslandığında yorgun bir yük hayvanı karşısında hızlı bir yırtıcı gibidir. O kadar çeviktir ki bir düşman tankına pusu kurup tek geçişte imha edebilir. Commorragh kabal'larının standart ağır aracıdır ve gerçek uzay seferlerinde düzenli olarak görülür.
 
 -# Kaynaklar: *Codex: Drukhari*
 

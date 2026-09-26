@@ -16,7 +16,7 @@ Ağır silahlarla dolu, pruvası çoğu zaman bir koçbaşıyla donatılmış, d
 
 ## Tarihçe
 
-Kill Kroozer'lar Ork filolarının belkemiği olarak anlatılır. Ork'ların uzay savaşına yaklaşımı da kara savaşından farklı değildir: menzilden çok yakınlık, taktikten çok çarpışma ve rampa savaşı.
+Kill Kroozer, Ork'ların 'standart' kruvazörüne en yakın tasarımdır; genellikle yok edilmiş Imperial ve Chaos kruvazörlerinin enkaz gövdeleri üzerine kurulur. Ağır pruva zırhıyla korunur ve çok sayıda Gunz ile Heavy Gunz taşır; bazılarına Torpedo Launchas da eklenir. Gothic Sektörü'nde barış zamanında bile nakliyeye ciddi tehdit oluşturuyordu ve Gothic War sırasında — Imperium ile Chaos arasındaki savaşlardan arta kalan gemi enkazlarının bolluğuyla — sayıları arttı. Ork filolarının bel kemiği olarak Abaddon'un kara seferlerinde ve büyük WAAAGH!'larda sürekli görülür.
 
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Codex: Orks — 10th Edition*
 

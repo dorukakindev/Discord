@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/68/Necron_Tomb_Blades.pn
 
 ## Tarihçe
 
-Tomb Blade, Necron hizmetkarlarının antik, tekerlekli motosiklet-benzeri avcı araçlarıdır; organik uçuş yasalarını ihlal eden hareketlerle düşmanı sarar. Çoğunlukla İmparatorluk kolonilerinin sınırlarında belirir — sessiz, ölümlü öncüler olarak hedefleri işaretler ve ağır Necron piyadesi gelmeden önce avu keserler.
+Tomb Blade, hem boşlukta hem atmosferde çalışabilen boyutsal itici birimler kullanan anti-yerçekimli bir Necron jetbike/void-fighter melezidir; düşman gemilerine, araçlarına ve kara kuvvetlerine delice kıvrılıp dönerken güçlü ateş saçar. Genellikle öncü kuvvet olarak konuşlandırılır; ölümcül hızı ve öngörülemez yapısı onu tehlikeli bir düşman yapar. Orijinal olarak War in Heaven'ın son günlerinde Necron'lar tarafından void fighter olarak tasarlandı — milyonlarca yıl sonra bile hâlâ görevde. Hive Fleet Leviathan'a karşı kullanılan saldırı filolarında kayıtlıdır.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877469659570186>
