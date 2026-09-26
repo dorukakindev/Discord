@@ -15,12 +15,8 @@ Bir Fire caste savaşçısının giydiği değil, içine yerleştiği dev bir ba
 
 ## Tarihçe
 
-Riptide, T'au'nun battlesuit teknolojisinde ağır sınıfa geçişin simgesi olarak anlatılır ve deneyimli Fire caste pilotlarına emanet edilir. Nova reactor'ün aşırı yüklenmesinin zırh ve pilot için risk taşıdığı anlatılır.
+XV104 Riptide, T'au Empire tarafından kullanılan en güçlü ve en çok yönlü Battlesuit'dir; onun çok yönlü silahlandırması ve dayanıklılığıyla — bir kadro askeri koruyabilen ve düşmanı yakın mesafede imha eden bir araçtır — onlar, T'au'nun en güçlü ve en güvenilir Battlesuit'idir. Riptide'ın en büyük özelliği, onun çok yönlülüğüdür — onlar, hem bir tank hem de bir piyade destek aracıdır; bir Riptide, bir kadro Fire Warrior'ı koruyabilir ve onların varlığı, bir T'au ordusunun merkezidir. Riptide'ın en ünlü görevi, T'au'nun çeşitli savaşlarıdır — onlar, İmparatorluğun en güçlü zırhlısına karşı kullanılırlar ve onların varlığı, T'au'nun en güçlü silahıdır. XV104 Riptide, T'au Empire'ın en güçlü ve en güvenilir Battlesuit'idir — onlar, Greater Good'un en güçlü silahının somut halidir.
 
 ## Kanon Notu
 
-Battlesuit'ler bu forum düzeninde araçlarla birlikte kaydedilir; evren içinde bunlar tank değil, pilotlu zırh sistemleridir. Riptide ilk kez 2013'teki 6th Edition *Codex: Tau Empire* ile tanıtılmıştır.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>
+Battlesuit'ler bu forum düzeninde araçlarla birlikte kaydedilir; evren içinde bunlar tank değil, pilotlu zırh sistemleridir. Riptide ilk kez 2013'teki

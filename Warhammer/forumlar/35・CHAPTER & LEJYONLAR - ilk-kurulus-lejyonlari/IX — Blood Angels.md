@@ -16,8 +16,8 @@ Asalet, sanat ve kusursuz görünüşün ardında korkunç bir kalıtım taşıy
 
 ## Tarihçe
 
-Heresy'de Signus kümesine yönlendirilen Legion, orada daemon'ların saldırısıyla ağır bir sınavdan geçti ve Terra'ya ancak geç ulaşabildi. Siege of Terra'nın son saatlerinde Sanguinius, Vengeful Spirit'te Horus'un elinde öldü; Primarch'ın ölümü Legion'ın gene-seed'ine silinmez bir yara bıraktı. Second Founding'de Flesh Tearers gibi ardıllar doğdu. M41'in sonunda Baal'i Hive Fleet Leviathan'a karşı savunan Chapter, Great Rift çağında Primaris takviyesiyle yeniden ayağa kalktı.
+Blood Angels (IX Legion), Sanguinius'un oğullarıdır; asalet, sanat ve ölümsüz trajedi üzerine kurulu ve Horus Heresy'de en büyük kaybı yaşayan Legion'dur — onların savaşı, hem güzellik hem de lanettir. Blood Angels'ın en büyük özelliği, onların ikilemidir — onlar, İmparatorluğun en asil savaşçılarıdır ama içlerinde Red Thirst ve Black Rage taşırlar; bir Blood Angel, hem en zarif hem de en vahşi savaşçıdır ve onların savaşı, hem bir dans hem de bir katliamdır. Blood Angels'ın en büyük trajedisi, Sanguinius'un ölümüdür — onların primarch'ı, Horus'u durdurmak için kendini feda etti ve onun ölümü, Chapter'ı sonsuza dek yaraladı; ve o günden beri, her Blood Angel, Sanguinius'un ölümünün psişik mirasını taşır. Blood Angels, İmparatorluğun en asil ve en trajik Chapter'ıdır — onlar, güzelliğin ve acının birleşimidir.
 
 -# Kaynaklar: *Fear to Tread — James Swallow*; *The Devastation of Baal — Guy Haley*; *Codex: Blood Angels*
 
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809039342501970>, <#1551809334483361823>
+-# İl

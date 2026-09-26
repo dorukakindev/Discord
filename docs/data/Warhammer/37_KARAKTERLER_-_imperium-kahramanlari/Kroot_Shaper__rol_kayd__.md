@@ -16,8 +16,4 @@ Shaper, bir Kroot kindred'inin genetik yolculuğunu yöneten önderdir. Hangi t�
 
 ## Tarihçe
 
-Kroot Shaper, Kroot Kindred'inin lideridir — T'au İmparatorluğu'nun doğrudan askeri gücü ya da en yüksek teklifi verene hizmet satan paralı grup olarak görev yapar. Kadim bilgelik ve şamanik yetenekle tanınan bu figürler, Kroot'un 'et yeme' evrimini yönlendiren 'yol gösterici' olarak türünün manevi ve genetik bekçisidir.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Codex: Tau*
-
--# İlişkili kayıtlar: <#1551643950014795948>, <#1551809146850910260>, <#1551809846066548779>
+Kroot Shaper, Kroot'ların — T'au'nun en sadık müttefiki — en önemli ve en gizli lideridir; onların Kroot toplumunun en bilge ve en güçlü üyesi olan Shaper, Kroot'ların evrimini yöneten ve onların geleceğini belirleyen bir varlıktır — onlar, Kroot'ların en önemli ve en gizli gücüdür. Kroot Shaper'ın en büyük özelliği, onun evrimi yönetmesidir — onlar, Kroot'ların hangi yiyecekleri yiyeceğini ve hangi genetik özellikleri kazanacağını belirler ve onların varlığı, Kroot'ların en büyük gücünün kanıtıdır; bir Kroot Shaper, hem bir lider hem de bir genetik mühendisidir ve onların varlığı, Kroot'ların en gizli gücünün somut halidir. Kroot Shaper'ın en ünlü özelliği, onun Kroot'ların geleceğidir — onlar, bir ırkın evriminin en büyük mimarıdır ve onların varlığı, Kroot'ların en büyük umudunun kanıtıdır. Kroot Shaper, Kroot'l

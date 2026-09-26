@@ -15,12 +15,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ea/DaemonWeapon.png/revi
 
 ## Tarihçe
 
-Heresy'nin ardından Eye of Terror'a çekilen Legion'lar arasında daemon bağlama sanatı yaygınlaştı. Warpsmith'ler ve sorcerer'lar bu silahları ritüellerle döver; Chaos Lord'ları onları güç ve tanrısal lütfun işareti olarak taşır. En ünlü örneklerden biri, Abaddon'un sahip olduğu Drach'nyen'dir.
+Daemon Weapon, içine gerçek bir demon bağlanmış Chaos silahıdır; Warpsmith'in zanaatının ürünü olan bu silah, hem bir alet hem de canlı bir varlıktır — içindeki demon, silahın gücünü artırır ama aynı zamanda onu kullananı da yozlaştırır. Daemon Weapon'ın üretimi, Chaos'un en karanlık ritüelidir — bir demon Warp'tan çağrılır, bir silaha mühürlenir ve Runes of Binding ile oraya zincirlenir; sonuç, yaşayan ve aç olan bir silahtır — bir daemon weapon, kullanıcısının iradesini test eder ve zayıf olanı ele geçirir. Daemon Weapon'ın gücü, içindeki demon'un gücüne bağlıdır — bir daemon sword, bir Greater Daemon'un gücünü taşıyabilir ve onun kesimi, hem fiziksel hem ruhsal yıkım getirir; ama daemon weapon'ın bedeli, kullanıcısının ruhudur. Daemon Weapon, Chaos'un en korkulan silahıdır — onu taşıyan, hem düşmanı hem de kendini yok edebilir.
 
-## Teknik / Biyolojik Özellikler
-
-Silah maddi bir nesne olsa da etkisi Warp'tandır; içindeki daemon düşmanın ruhunu yiyebilir ya da kullanıcısına kendi arzularını dayatabilir. Bağ zayıflarsa daemon'ın sahibini ele geçirmesi ya da ona zarar vermesi mümkündür.
-
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*; *The Talon of Horus — Aaron Dembski-Bowden*
+## Teknik / B
 
 -# İlişkili kayıtlar: <#1551812225570836561>, <#1551654107058540595>, <#1551638958352506881>, <#1551809666454134928>

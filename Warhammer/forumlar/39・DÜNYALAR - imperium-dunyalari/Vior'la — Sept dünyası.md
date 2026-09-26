@@ -16,8 +16,8 @@ Ateşli mizaçlı savaşçılarıyla tanınan büyük askerî merkez. Fire Caste
 
 ## Tarihçe
 
-Vior'la adı, T'au isimlendirme geleneğinde Sept kimliğinin nasıl taşındığını da gösterir: Farsight'ın tam adı olan Shas'O Vior'la Shovah Kais Mont'yr, rütbesi ve kişisel adının yanında doğduğu Sept'i de bildirir. Farsight'ın Damocles Gulf'un ötesinde kurduğu ayrılıkçı Farsight Enclaves ile Vior'la kökenli Shadowsun arasındaki karşıtlık, aynı Sept'in iki farklı Tau'va yorumunu temsil etmesi bakımından kaynaklarda sık sık öne çıkar.
+Vior'la, T'au Empire'ın en önemli ve en savaşçı Sept dünyasıdır; onun savaş geleneği ve disiplinli yapısıyla — T'au'nun en organize ve en savaşçı evidir — onlar, T'au'nun en disiplinli ve en ölümcül evidir. Vior'la'nın en büyük özelliği, onun savaş geleneğidir — onlar, T'au'nun en savaşçı Sept'idir ve onların savaşçıları, T'au'nun en disiplinli ve en ölümcül savaşçılarıdır; bir Vior'la savaşçısı, hem bir savaşçı hem de bir filozoftur ve onların savaşı, hem fiziksel hem de ideolojiktir. Vior'la'nın en ünlü özelliği, onun eğitim merkezidir — onlar, T'au'nun en iyi savaşçılarını yetiştirir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır. Vior'la, T'au Empire'ın en savaşçı ve en disiplinli Sept dünyasıdır — onlar, savaşın ve disiplinin somut halidir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Farsight: Crisis of Faith — Phil Kelly*; *Shadowsun: The Last of Kiru's Line — Justin D. Hill*
 
--# İlişkili kayıtlar: <#1551809256649527381>, <#1551814127541026827>, <#1551809146850910260>
+-# İlişkili kayıtlar: <#1551809256649527

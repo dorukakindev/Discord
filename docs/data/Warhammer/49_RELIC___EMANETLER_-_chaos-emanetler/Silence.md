@@ -12,6 +12,6 @@ Silence'ın kökeni karanlık fısıltılarla örülüdür; bıçağın xenos-le
 
 ## Tarihçe
 
-Silence, Culexus Assassin'in efsanevi silahıdır; bir psyker-pariah'ın beyninin içine yerleştirilmiş olan ve ölümcül sessizlik yaratan Warp-kesici silah. 'Silence' adıyla bilinen bu relic, Assassinorum'un en gizemli ve en korkulan efsanesidir.
+Silence, Chaos'un en ünlü ve en korkulan relic'idir; Mortarion'un — Death Guard'ın primarch'ı — kullandığı ve onun en büyük savaşlarının simgesi olan bir tıpandır — onlar, Chaos'un en ünlü ve en korkulan silahıdır. Silence'ın en büyük özelliği, onun gücüdür — onlar, bir primarch'ın en güçlü silahıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Silence kullanıcısı, hem bir savaşçı hem de bir hastalık taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Silence'ın en ünlü özelliği, onun Mortarion'un silahıdır — onlar, bir primarch'ın en ünlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Silence, Chaos'un en ünlü ve en korkulan relic'idir — onlar, bir primarch'ın gücünün ve Nurgle'un 'sevgi'nin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

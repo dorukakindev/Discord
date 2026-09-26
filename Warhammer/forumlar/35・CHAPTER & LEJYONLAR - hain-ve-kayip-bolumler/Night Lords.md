@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900
 
+## Tarihçe
+
+Night Lords (VIII Legion), Konrad Curze'un oğullarıdır; terör, korku ve adaletsiz bir adalet anlayışıyla savaşan ve Horus Heresy'de Chaos'a düşen ilk Legion'lardan biridir — onların savaşı, karanlıkta, sessizlikte ve dehşetle yapılır. Night Lords'un savaş doktrini, Curze'un vizyonundan doğar — onlar terörü silah olarak kullanır; bir Night Lord, düşmanını öldürmeden önce onu paralize edecek kadar korkutur ve onların savaşı, fiziksel olduğu kadar psikolojiktir. Night Lords'un en korkulan özelliği, onların sessizliğidir — onlar savaşta bağırmaz, konuşmaz, sadece avlanır ve öldürür; ve onların kurbanları, son nefeslerinde bile Night Lord'un yüzünü görmez. Night Lords'un düşüşü, Heresy'nin en karanlık hikâyesidir — Curze'un deliliği, Legion'un yozlaşması ve sonunda Curze'un kendi oğulları tarafından öldürülmesi; Night Lords, İmparatorluğun en karanlık efsanesidir ve onların adı, hâlâ terörün simgesidir.
+
 https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.png/revision/latest?cb=20170814015900
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

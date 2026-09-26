@@ -16,8 +16,4 @@ Goliath Truck, madencileri ve yükü taşıyan sağlam bir kamyondur; kült elin
 
 ## Tarihçe
 
-Genestealer Cult'lar nesiller boyunca bir dünyanın işçi sınıfının içinde gizlenir. Day of Ascension adı verilen ayaklanma anı geldiğinde, kült üyelerinin çalıştığı madenlerdeki ve fabrikalardaki araçlar bir anda silaha dönüşür. Goliath'lar bu gizli hazırlığın en görünür simgelerinden biridir.
-
--# Kaynaklar: *Codex: Genestealer Cults*
-
--# İlişkili kayıtlar: <#1551759784821137419>, <#1551815439078658154>, <#1551759780211589197>
+Goliath, Genestealer Cults tarafından kullanılan bir zırhlı taşıma ve saldırı aracıdır; onun çok yönlü kullanımıyla — bir kadro askeri taşıyabilen veya bir düşman pozisyonunu yıkabilen bir araçtır — onlar, Genestealer Cults'un en güvenilir ve en çok yönlü aracıdır. Goliath'ın en büyük özelliği, onun çok yönlülüğüdür — onlar, hem bir kamyon (Truck) hem de bir saldırı aracı (Rockgrinder) olarak kullanılabilir; bir Goliath, bir kadro askeri taşıyabilir veya bir düşman pozisyonunu parçalayabilir ve onların varlığı, bir Genestealer Cult isyanının merkezidir. Goliath'ın en ünlü görevi, Genestealer Cults'un çeşitli isyanlarıdır — onlar, askerleri taşımak ve düşmanı yok etmek için kullanılırlar ve onların varlığı, bir isyanın en güvenilir aracıdır. Goliath, Genestealer Cults'un en güvenili

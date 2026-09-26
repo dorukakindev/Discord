@@ -16,8 +16,4 @@ Cadia'nın son Lord Castellan'ı; alışılmadık, cüretkâr planlarıyla tanı
 
 ## Tarihçe
 
-Ursarkar E. Creed, 50 yaşındaki Astra Militarum lord generali, Cadia'nın Lord Castellan'ı ve Cadia'ya tahsis edilen tüm İmparatorluk askeri güçlerinin yüce komutanıydı — aynı zamanda Cadia Sistemi'nin İmparatorluk Komutanı. 13. Kara Sefer'de Cadia'nın son savunmasını yöneten bu figür, 'dünyanın son generali' olarak gezegenin düşüşünde kayboldu — ölü mü yaşıyor mu bilinmez.
-
--# Kaynaklar: *Gathering Storm I: Fall of Cadia*; *Creed: Ashes of Cadia — Jude Reid*; *Codex: Astra Militarum*
-
--# İlişkili kayıtlar: <#1551812139935866891>, <#1551753458779029565>, <#1551811393680838699>, <#1551638958352506881>, <#1551814468458258434>
+Ursarkar E. Creed, İmparatorluğun en ünlü ve en saygın generalidir; Cadian Shock Troops'un Lord Castellan'ı olan ve Cadia'nın savunmasının en büyük komutanı olan Creed, İmparatorluğun en büyük direnişinin ve en büyük kaybının simgesidir — onlar, İmparatorluğun en ünlü ve en onurlu generalidir. Creed'in en büyük özelliği, onun komutasıdır — onlar, Cadia'nın son savunmasının en büyük komutanıdır ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır; bir Creed komutası, bir gezegenin son savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Creed'in en ünlü görevi, Cadia'nın 13. Kara Haçlı Seferi'ndeki savunmasıdır — onlar, Abaddon'un en büyük saldırısına direnen ve Cadia'yı sonuna kadar savunan komutanlardır ve onların varlığı, İmparatorluğun en büyü

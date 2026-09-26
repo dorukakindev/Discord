@@ -16,8 +16,4 @@ Black Rage'e kapılan, benliği silinip Sanguinius'un son saatlerinin görüntü
 
 ## Tarihçe
 
-Death Company bir seçkinlik değil, bir sondur: kardeşler Chaplain'ların gözetiminde en umutsuz saldırılara sürülür ve geri dönüşleri nadirdir. Chapter bu ölümü şerefli bir son olarak kutsar. Death Company'nin Chaplain'ı olarak bilinen Lemartes, kendisi de öfkeye düşmüş ama bir biçimde onu dizginleyebilen bir figür olarak anlatılır. Güncel kaynaklar Primaris kardeşlerin de kusurdan etkilendiğini belirtir.
-
--# Kaynaklar: *Codex Supplement: Blood Angels — 10th Edition*; *The Devastation of Baal — Guy Haley*; *Mephiston: Blood of Sanguinius — Darius Hinks*
-
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551808888666587197>, <#1551815033518948404>
+Death Company, Blood Angels ve onların halef Chapter'larına özgü acı bir birimdir; Black Rage — Sanguinius'un ölüm anındaki psikolojik mirası — tarafından ele geçirilen ve artık sadece ölüm ve savaş gören savaşçılardan oluşur. Black Rage'e düşen bir Blood Angel, artık kendisi değildir — gözünde Horus'un güvertesi, Sanguinius'un ölümü ve son savaşın hayaleti vardır; o artık geçmişte yaşayan bir hayalettir ve tek kurtuluşu savaşta ölmektir. Death Company'ye Chaplain'lar eşlik eder — onları savaşa yönetir, öfkelerini doğru hedefe kanalize eder ve savaş sonunda ölenleri kaydeder; Death Company'nin görevi, Chapter'ın en zorlu noktalarında ölümcül dalgayı oluşturmaktır. Death Company'nin varlığı, Blood Angels'ın en büyük trajedisidir — onlar hem en sadık kardeşler hem de en kayıp ruhlardır; ve her Blood Angel bilir ki bir gün o da D

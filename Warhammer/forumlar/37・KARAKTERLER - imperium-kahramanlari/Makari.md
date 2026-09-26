@@ -15,12 +15,8 @@ Makari, Ghazghkull Thraka'nın kişisel sancağını taşıyan küçük ve kurna
 
 ## Tarihçe
 
-Makari, Ghazghkull Thraka'nın en küçük ama en sadık grot'udur — 'şanslı Gretchin' olarak Warlord'unun yanında duran figür. Ork büyüklük hiyerarşisinin en dibinde ama 'şansın kendisi' olarak Ghazghkull'un maskotu sayılır; 'büyük planın küçük gözcüsü' olarak WAAAGH!'ın sembolik figürlerinden biridir.
+Makari, Ork'ların en ünlü ve en komik varlıklarından biridir; Ghazghkull Thraka'nın — Ork'ların en büyük Warboss'u — en sadık Gretchin'i olan ve onun yanında savaşan Makari, Ork'ların en ünlü ve en şanslı varlığıdır — onlar, Ork'ların en ünlü ve en komik üyesidir. Makari'nin en büyük özelliği, onun şansıdır — onlar, bir Gretchin olarak Warboss'un yanında savaşan ve hayatta kalan en şanslı varlıktır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Makari, hem bir Gretchin hem de bir efsanedir ve onların varlığı, Ork'ların en komik ve en şanslı varlığının somut halidir. Makari'nin en ünlü özelliği, onun Ghazghkull'un yanında olmasıdır — onlar, Ork'ların en büyük liderinin en sadık takipçisidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Makari, Ork'ların en ünlü ve en komik varlığıdır — onlar, bir Gretchin'in şansının ve Ork'ların en büyük gücünün somut halidir.
 
 ## Kanon Notu
 
-Makari'nin şansının gerçek bir ilahi kayırma mı yoksa Ork inancının ürünü mü olduğu, Ork anlatılarının genel belirsizliği içinde açık bırakılır. Romandaki anlatıcılığı güvenilmez anlatıcı olarak okunmalıdır.
-
--# Kaynaklar: *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*; *Codex: Orks*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551643990196232303>, <#1551814495138091013>
+Makari'nin şansının gerçek bir ilahi kayırma mı yoksa Ork inancının ürünü mü olduğu, Ork anlatılarının genel be

@@ -9,6 +9,4 @@ Age of Endless War'un tanımı, İmparatorluk'un 'kaybedilmeyen ama kazanılmaya
 
 ## Tarihçe
 
-M35–M40 arası kargaşa dönemi: High Lords'un bölünmüş iktidarı, Nova Terra Interregnum, sayısız yerel savaş. İmparatorluk'un 'geç kırılma' çağı — her şeyin tutunamadığı yüzyıllar.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Sayısız Savaş Çağı (Age of Countless Wars), İmparatorluğun en uzun ve en yorucu dönemidir; M32–M41 arasında yaşanan ve İmparatorluğun sürekli savaş halinde olduğu bir dönemdir — onlar, İmparatorluğun en uzun ve en yorucu savaşının somut halidir. Sayısız Savaş Çağı'nın en büyük özelliği, onun süresidir — onlar, on bin yıllık sürekli savaştır ve onların varlığı, İmparatorluğun en uzun savaşının kanıtıdır; bir Sayısız Savaş Çağı, bir imparatorluğun en uzun direnişidir ve onların varlığı, İmparatorluğun en büyük dayanıklılığının somut halidir. Sayısız Savaş Çağı'nın en ünlü özelliği, onun savaşlarıdır — onlar, War of the Beast'ten Badab War'a kadar her şeyi içerir ve onların varlığı, İmparatorluğun en büyük savaşlarının kanıtıdır. Sayısız Savaş Çağı, İmparatorluğun en uzun ve en yorucu dönemidir — onlar, İmparatorluğun en uz

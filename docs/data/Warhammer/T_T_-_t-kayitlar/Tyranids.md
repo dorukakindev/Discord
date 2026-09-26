@@ -70,6 +70,10 @@ Imperium cephesinde **Ichar IV**, Kraken'in durdurulduğu başlıca savaş alanl
 
 Kraken'in bıraktığı yıkım, bazı Chapter'ların varlığını sarstı. Scythes of the Emperor, homeworld'ü Sotha'yı bu filoya kaptırarak neredeyse ortadan kalkma noktasına geldi. Kraken'in parçalanan kolları ve splinter fleet'leri sonraki yıllarda da galaksinin farklı bölgelerinde beliren bir tehdit olarak kaldı. Deathwatch'ın Ordo Xenos'la birlikte yürüttüğü av operasyonlarının önemli bir kısmı, bu dağılmış Tyranid kalıntılarıyla ilgilidir.
 
+## Tarihçe
+
+Tyranids, WH40K evreninin en büyük ve en korkulan xeno tehdididir; başka bir galaksiden gelen ve tüm yaşamı yutan devasa bir biyolojik kuvvettir — onlar, İmparatorluğun en büyük ve en kaçınılmaz düşmanıdır. Tyranids'in en büyük özelliği, onların Hive Mind'ıdır — onlar, tek bir kolektif bilinçle hareket eder ve onların orduları, bir organizmanın parçaları gibidir; bir Hive Fleet, bir gezegeni yutabil
+
 ## Third Tyrannic War: Leviathan
 M41'in son yıllarında Hive Fleet **Leviathan**, önceki filolar gibi Eastern Fringe'den değil, galaktik düzlemin altından yükseldi. Bu beklenmedik yön, Imperium'un bütün savunma hesaplarını geçersiz kıldı ve Leviathan'ı bilinen en büyük Hive Fleet olarak kayıtlara geçirdi.
 

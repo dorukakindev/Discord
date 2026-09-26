@@ -15,6 +15,6 @@ Hereticus davasında Eisenhorn'un suçlanması; Pontius Operandi ve Cherubael da
 
 ## Tarihçe
 
-Eisenhorn serisinin 2. kitabı; Inquisitor'un daemonhost Cherubael'le ilişkisi ve Malleus Veritatis kruvazörünün Cressid'deki sırrı. 'Sorgucunun en tehlikeli müttefiki' teması.
+Malleus, Dan Abnett'in Eisenhorn üçlemesinin ikinci romanıdır — Inquisitor Eisenhorn'un hikâyesinin devamıdır. Bu roman, Eisenhorn'un İmparatorluk'un en gizli düşmanlarıyla mücadelesini anlatır; roman, Eisenhorn'un hikâyesinin devamıdır. Bu roman, Eisenhorn'un hikâyesinin devamıdır; roman, Eisenhorn'un en gizli ve en tehlikeli operasyonlarının devamıdır. Roman, Eisenhorn'un hikâyesinin devamı olarak kalır.
 
 -# Kaynaklar: Black Library

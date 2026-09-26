@@ -10,7 +10,7 @@
 
 ## Tarihçe
 
-Isaia Bendikt, Astra Militarum'un Cadian general'iydi; Cadian Shock Troops alaylarını komuta etti, Cadia'nın Düşüşü'nden sağ çıktı, 'Faith's Anchorage Savaşı'na katıldı ve Agripinaa Sistemi'nin yedinci dünyasında 'New Cadia' adını verdiği bir Cadian kurtulanlar kolonisi ve sığınağı kurdu. 13. Kara Sefer öncesi binbaşı olarak başlayan kariyeri, İmparatorluk'un 'kaybedilen dünyayı sürgünde yaşatma' destanının simgesidir.
+Isaia Bendikt, İmparatorluk Muhafızı'nın en ünlü ve en trajik generalidir; Cadian Shock Troops'un komutanı olan ve Cadia'nın düşüşünden sonra hayatta kalan Bendikt, İmparatorluğun en trajik ve en onurlu generalidir — onlar, İmparatorluk Muhafızı'nın en ünlü ve en trajik generalidir. Isaia Bendikt'in en büyük özelliği, onun trajedisidir — onlar, Cadia'nın düşüşünden sonra hayatta kalan ve onun en büyük savaşlarını yöneten en trajik generaldir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Bendikt komutası, bir gezegenin son savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Isaia Bendikt'in en ünlü görevi, Cadia'nın düşüşüdür — onlar, Cadia'nın düşüşünden sonra hayatta kalan ve onun en büyük savaşlarını yöneten en trajik generaldir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Isaia Bendikt, İmparatorluk Muhafızı'nın en ünlü ve en trajik generalidir — onlar, bir trajedinin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

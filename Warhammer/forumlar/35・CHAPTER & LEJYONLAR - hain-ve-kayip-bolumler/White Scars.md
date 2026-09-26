@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/e/e2/WS_Shoulder_Plate.png/revision/latest?cb=20160306102920
 
+## Tarihçe
+
+White Scars (V Legion), Jaghatai Khan'ın oğullarıdır; hız, özgürlük ve savaşın kutsallığına inanan ve Chogoris'in bozkır kültüründen gelen, İmparatorluğun en hızlı ve en özgür savaşçılarıdır. White Scars'ın savaş doktrini, Khan'ın bozkır felsefesinden doğar — onlar hızı sever, jetbike ve land speeder'ları tercih eder ve onların savaşı, bir baskın ve bir kaçıştır; bir White Scar, savaşta durmaz — akar, döner ve kaybolur. White Scars'ın en büyük özelliği, onların özgürlük anlayışıdır — onlar İmparatorluğun bürokrasisini küçümser, kendi yollarını izler ve onların sadakati, İmparator'a değil, özgürlüğe ve savaşın kendisinedir; ama bu özgürlük, onları İmparatorluğun en güvenilir savaşçıları yapar çünkü onlar, sadece inandıkları için savaşır. White Scars, İmparatorluğun ruhunun en özgür halidir — onların savaşı, hem kasırga hem de şiir gibidir.
+
 https://static.wikia.nocookie.net/warhammer40k/images/e/e2/WS_Shoulder_Plate.png/revision/latest?cb=20160306102920
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

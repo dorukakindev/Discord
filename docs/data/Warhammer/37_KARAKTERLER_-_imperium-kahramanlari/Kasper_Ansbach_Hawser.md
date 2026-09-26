@@ -12,6 +12,6 @@
 
 ## Tarihçe
 
-Kasper Ansbach Hawser — İmparatorluk kayıtlarında 'Ahmad Ibn Rustah' takma adıyla da bilinir — Büyük Sefer döneminin İmparatorluk konservatörü (tarihçisi)ydi; Chaos güçlerinin Space Wolves ile Thousand Sons'ı birbirine yok etmeye yönelik komplosuna bulaştı. Space Wolves'un skjald'ı (saga-anlatıcısı) yapılarak Fenris'in destanlarını yazan adam oldu — 'İmparatorluk'un gizli tarihini kaydeden' figür.
+Kasper Ansbach Hawser, Space Wolves'un en ünlü ve en trajik remembrancer'ıdır; Horus Heresy sırasında Space Wolves'un yanında bulunan ve onların savaşlarını kaydeden Hawser, İmparatorluğun en önemli ve en trajik tanığıdır — onlar, İmparatorluğun en ünlü ve en trajik remembrancer'ıdır. Kasper Hawser'ın en büyük özelliği, onun tanıklığıdır — onlar, Space Wolves'un en büyük savaşlarını gören ve onları kaydeden en önemli remembrancer'dır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Hawser, hem bir sanatçı hem de bir tarihçidir ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Kasper Hawser'ın en ünlü özelliği, onun Space Wolves'un yanında olmasıdır — onlar, bir Chapter'ın en büyük savaşlarını gören ve onları kaydeden en trajik tanıktır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Kasper Ansbach Hawser, Space Wolves'un en ünlü ve en trajik remembrancer'ıdır — onlar, bir tanıklığın ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

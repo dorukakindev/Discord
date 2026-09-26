@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/33/Stormeagle01.jpg/revi
 
 ## Tarihçe
 
-Storm Eagle, Büyük Haçlı Seferi döneminden kalma ağır Astartes taarruz gunship'idir; Thunderhawk'ın küçük kuzeni olarak troop + zırh taşıyan çok yönlü hava platformu.
+Storm Eagle, Legiones Astartes tarafından kullanılan en yaygın ve en güvenilir hava saldırı aracıdır; onun çok yönlü silahlandırması ve zırhıyla — bir kadro Space Marine'i taşıyabilen ve düşmanı havadan imha eden bir araçtır — onlar, Space Marine'lerin omurgasıdır. Storm Eagle'ın en büyük özelliği, onun çok yönlülüğüdür — onlar, hem havadan hem de karadan saldırabilir ve onların silahları, hem bombalar hem de füzelerdir; bir Storm Eagle, bir düşman pozisyonunu tek başına yok edebilir ve onların varlığı, bir Space Marine saldırısının omurgasıdır. Storm Eagle'ın en ünlü görevi, Space Marine'lerin sayısız operasyonudur — onlar, Büyük Haçlı Seferi'nden bugüne kadar İmparatorluğun en güvenilir hava aracıydı ve onların varlığı, bir Legion'un en güçlü silahıdır. Storm Eagle, Space Marine'lerin en yaygın ve en güvenilir hava aracıdır — onlar, bir Legion'un hava gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -15,6 +15,6 @@ Guilliman'ın Imperium'u yeniden yönetmeye çalışması ve Mortarion'la 'Tanr�
 
 ## Tarihçe
 
-Guy Haley'in Dark Imperium üçlemesinin ilki; Guilliman'ın geri dönüşü, Cicatrix Maledictum'un açılışı ve Imperium Nihilus'un izolasyonu — Indomitus Crusade'in başlangıcı.
+Dark Imperium, Guy Haley'nin yazdığı ve İmparatorluk'un Büyük Yarık'tan sonraki durumunu anlatan bir romandır. Bu roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunu anlatır; roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli hikâyesidir. Bu roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli hikâyesidir; roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli parçasıdır. Roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli hikâyesi olarak kalır.
 
 -# Kaynaklar: Black Library

@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/df/SicaranPunisher002.pn
 
 ## Tarihçe
 
-Sicaran Punisher, Sicaran ana-muharebe tankının piyade-kırıcı taarruz varyantıdır; standart modelin sofistike Herakles Accelerator Autocannon çiftini dev bir 'Punisher Rotary Cannon' ile değiştirir. Cerberus tanklarından miras bu top, yakın mesafede piyade saflarını 'siler' gibi temizler. Büyük Sefer'in son yıllarında ortaya çıkmış olsa da baskı-gücüyle efsanevi bir ün kazanmıştır; günümüzde hayatta kalan örnekleri chapter'ların en saldırgan komutanlarının tercihidir.
+Sicaran Punisher Assault Tank, Legiones Astartes tarafından kullanılan ve Sicaran Battle Tank'ın bir varyantı olan bir savaş aracıdır; onun Punisher Rotary Cannon'u — bir döner topla — düşmanı yakın mesafede imha eden bir araçtır — onlar, Space Marine'lerin en güçlü ve en vahşi zırhlılarından biridir. Sicaran Punisher'ın en büyük özelliği, onun Punisher Rotary Cannon'udur — onun mermileri, düşmanın zırhlısını ve piyadesini aynı anda imha edebilir; bir Punisher, bir düşman pozisyonunu saniyeler içinde yok edebilir ve onların varlığı, bir Space Marine saldırısının merkezidir. Sicaran Punisher'ın en ünlü savaşı, Horus Heresy'deki çeşitli savaşlarıdır — onlar, Space Marine Legion'larının en güçlü zırhlılarından biriydi ve onların varlığı, bir Legion'un en güçlü silahıydı. Sicaran Punisher Assault Tank, Space Marine'lerin en güçlü ve en vahşi zırhlısıdır — onlar, bir Legion'un en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553059847967215627>

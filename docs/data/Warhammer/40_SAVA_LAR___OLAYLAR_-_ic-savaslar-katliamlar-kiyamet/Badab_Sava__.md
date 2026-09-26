@@ -12,6 +12,6 @@ Savaş, Astral Claws chapter'ının Chapter Master'ı Lufgt Huron'un İmparatorl
 
 ## Tarihçe
 
-Lufgt Huron'un Badab'ı isyan ettirmesi; Astral Claws'un haine dönüşü. İmparatorluk'un en ağır iç-Astartes savaşı — Huron'dan Huron Blackheart doğdu.
+Badab Savaşı, İmparatorluk'un en trajik iç savaşlarından biri olarak tarihe geçti. Bu savaş, Lufgt Huron'un — Astral Claws'ın Chapter Master'ı — İmparatorluğa ihanet etmesiyle başladı; Badab Savaşı sırasında Huron, İmparatorluk'a karşı savaştı ve birçok Space Marine'in hayatına mal oldu. Savaş, Huron'un yenilgisiyle sonuçlandı; ancak Huron, Chaos'a sığındı ve Huron Blackheart olarak geri döndü. Badab Savaşı, İmparatorluk'un en büyük trajedisinin kendi içindeki ihanetler olduğunu gösteren en çarpıcı örnektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

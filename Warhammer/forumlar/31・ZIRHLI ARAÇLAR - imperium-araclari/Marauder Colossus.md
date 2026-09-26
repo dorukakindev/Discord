@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Marauder10.png/revisi
 
 ## Tarihçe
 
-Marauder Colossus, Marauder Bomber'ın ağır-bombardıman varyantıdır; devasa bombalama kapasitesiyle 'uçan kale' niteliğinde stratejik yıkım platformudur. Tek seferde bölgesel bombardıman yapabilen bu araç, İmparatorluk'un 'toprak-şekillendirici' silahları arasında sayılır.
+Marauder Colossus, Imperial Navy tarafından kullanılan ve Marauder Bomber'ın bir varyantı olan bir ağır bombardıman uçağıdır; onun Colossus Bomb'u — bir devasa yıkım bombası — ile düşmanın en güçlü savunmasını yıkan bir araçtır — onlar, Imperial Navy'nin en güçlü ve en yıkıcı bombardıman uçağıdır. Marauder Colossus'un en büyük özelliği, onun Colossus Bomb'udur — onun bombası, bir düşman kale duvarını bile yıkabilir; bir Colossus, bir düşman pozisyonunu tek atışla yok edebilir ve onların varlığı, bir Imperial saldırısının en güçlü silahıdır. Marauder Colossus'un en ünlü görevi, Imperial Navy'nin çeşitli kuşatmalarıdır — onlar, düşmanın en güçlü savunmasını yıkmak için kullanılırlar ve onların varlığı, Imperial Navy'nin en güçlü silahıdır. Marauder Colossus, Imperial Navy'nin en güçlü ve en yıkıcı bombardıman uçağıdır — onlar, bir kuşatmanın en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

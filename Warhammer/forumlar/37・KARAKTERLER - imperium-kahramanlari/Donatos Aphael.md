@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cc/Cpt_Aphael.png/revisi
 
 ## Tarihçe
 
-Donatos Aphael, Blood Angels'ın 2. Savaş Bölüğü 'The Blooded'ın mevcut kaptanı ve chapter'ın Master of the Watch'ıdır. Cryptus Kampanyası'nda komuta görevi üstlendi ve chapter'ın en kanlı savunmalarından birini yönetti. 'Kanlı' bölüğünün lideri olarak Blood Angels'ın hem savaş dehasını hem de doğuştan gelen kanlı mirasını temsil eden komutan.
+Donatos Aphael, Black Templars'ın en ünlü ve en saygın Chapter Master'ıdır; 'We bear a terrible burden, for we are the Sons of Sanguinius' diyen ve Chapter'ının en büyük sırrını saklayan Aphael, İmparatorluğun en saygın ve en onurlu komutanıdır — onlar, Black Templars'ın en ünlü ve en saygın lideridir. Donatos Aphael'in en büyük özelliği, onun onurudur — onlar, Chapter'ının en yüksek rütbeli üyesidir ve onların varlığı, Black Templars'ın en büyük onurunun kanıtıdır; bir Aphael komutası, bir Chapter'ın en onurlu zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Donatos Aphael'in en ünlü özelliği, onun Black Templars'ın lideridir — onlar, bir Chapter'ın en yüksek rütbeli üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Donatos Aphael, Black Templars'ın en ünlü ve en saygın Chapter Master'ıdır — onlar, bir liderin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

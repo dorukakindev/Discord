@@ -18,6 +18,6 @@ Yaşayan psişik top; Zealot-throne taşıyan, Shadow in the Warp'ı doğrudan s
 
 ## Tarihçe
 
-Maleceptor, Hive Mind'ın iradesini saf psişik güç hâlinde taşıyan canlı bir odadır. Gezegenleri Shadow in the Warp'ın donmuş sessizliğine gömmede kullanılır — astropatların kafası patlar, Navigator'lar kör olur, sıradan insanlar delirir. Fiziksel olarak da tehlikelidir: üç dev gözüyle psişik şimşek çakar.
+Maleceptor, Tyranid'in en gizli ve en güçlü psişik yaratığıdır; bir Tyranid ordusunun en güçlü psişik varlığı olan ve onun en gizli operasyonlarını yöneten Maleceptor, Tyranid'in en gizli ve en güçlü varlığıdır — onlar, Tyranid'in en gizli ve en güçlü psişik yaratığıdır. Maleceptor'un en büyük özelliği, onun psişik gücüdür — onlar, bir Tyranid ordusunun en g��çlü psişik varlığıdır ve onların varlığı, Tyranid'in en gizli gücünün kanıtıdır; bir Maleceptor, hem bir yaratık hem de bir psişik güçtür ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Maleceptor'un en ünlü özelliği, onun psişik gücüdür — onlar, Tyranid'in en gizli ve en güçlü psişik yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Maleceptor, Tyranid'in en gizli ve en güçlü psişik yaratığıdır — onlar, bir psişik gücün ve Tyranid'in en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Tyranids* (8. baskı sonrası)

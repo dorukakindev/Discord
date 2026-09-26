@@ -18,7 +18,7 @@ Striking Scorpion Aspect'inin kurucusu, düşmüş Phoenix Lord; Kâbustan kaç�
 
 ## Tarihçe
 
-Arhra — 'Akreplerin Babası', sonradan 'Düşmüş Anka' — Craftworld Aeldari'nin Striking Scorpions Aspect'inin asıl Phoenix Lord'uydu; Asuryani'ye tamamen kaybolmuş tek Phoenix Lord'dur. Öğretisi yozlaşıp Drukhari'nin Incubi tarikatının temeli olduğu söylenir — 'karanlık şehre kaçan usta' olarak Aeldari'nin en utançlı sırrı ve Karandras'ın karanlık öncüsüdür.
+Arhra, Aeldari'nin en ünlü ve en trajik Phoenix Lord'udur; Striking Scorpions'ın ilk kurucusu olan ve Karandras'a ihanet eden Arhra, Aeldari'nin en trajik ve en gizli savaşçısıdır — onlar, Aeldari'nin en ünlü ve en trajik Phoenix Lord'udur. Arhra'nın en büyük özelliği, onun ihanetidir — onlar, Striking Scorpions'ın ilk kurucusu olarak Karandras'a ihanet eden en trajik savaşçıdır ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır; bir Arhra, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Arhra'nın en ünlü özelliği, onun Striking Scorpions'ın ilk kurucusudur — onlar, bir Aspect'in en trajik kurucusudur ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Arhra, Aeldari'nin en ünlü ve en trajik Phoenix Lord'udur — onlar, bir ihanetin ve Aeldari'nin en büyük trajedisinin somut halidir.
 
 ## Kanon Notu
 

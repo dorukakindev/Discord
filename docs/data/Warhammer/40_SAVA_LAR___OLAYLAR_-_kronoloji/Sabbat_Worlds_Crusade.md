@@ -16,8 +16,4 @@ Warmaster Slaydo'nun başlattığı, çok cepheli ve on yıllarca süren bir Imp
 
 ## Tarihçe
 
-Slaydo, Balhaut'taki kesin zaferin ardından öldü ve komutayı Warmaster Macaroth devraldı. Tanith dünyası, Tanith First and Only alayının kurulduğu gece düştü; alay, Ibram Gaunt komutasında seferin pek çok cephesinde savaştı. Chaos tarafında Archon Urlock Gaur'un ordusu, özellikle Blood Pact, seferin başlıca düşmanıdır. Menazoid Epsilon, Verghast, Hagia, Phantine, Aexe Cardinal, Herodor, Gereon ve Urdesh, seferin romanlarda işlenen cephelerindendir.
-
--# Kaynaklar: *First and Only — Dan Abnett*; *Honour Guard — Dan Abnett*; *The Sabbat Worlds Crusade — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551997696456532101>, <#1551651549804236801>, <#1551812165172994160>, <#1552481908988969001>
+Sabbat Worlds Crusade, İmparatorluğun en büyük ve en onurlu seferidir; Saint Sabbat'ın — Sabbat Worlds'ün koruyucu azizesi — şerefine başlatılan ve İmparatorluğun en büyük fetih hareketini oluşturan en büyük savaştır — onlar, İmparatorluğun en büyük zaferinin ve en büyük onurunun somut halidir. Sabbat Worlds Crusade'in en büyük özelliği, onun boyutudur — onlar, İmparatorluğun en büyük fetih hareketidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Sabbat Worlds Crusade, bir imparatorluğun en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Sabbat Worlds Crusade'in en ünlü özelliği, onun Gaunt's Ghosts'udur — onlar, Sabbat Worlds'ün en ünlü alayıdır ve onların var

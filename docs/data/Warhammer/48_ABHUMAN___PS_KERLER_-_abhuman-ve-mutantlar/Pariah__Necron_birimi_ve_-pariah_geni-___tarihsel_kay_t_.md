@@ -15,12 +15,8 @@ Ruhsuz insanların necrodermis'le birleştirilmesiyle yaratılan, çevresindeki 
 
 ## Tarihçe
 
-2011'de Necron'ların bir uygarlık olarak yeniden çerçevelenmesinin ardından Pariah birimleri güncel Codex'lerde yer almadı ve pariah geniyle Necron'lar arasında kurulan bağ sonraki yayınlarda tekrarlanmadı.
+Pariah, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır; 'pariah geni' taşıyan ve psişik enerjiyi yok eden en gizli mutant olan Pariah, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır. Pariah'ın en büyük özelliği, onun pariah genidir — onlar, 'pariah geni' taşıyan ve psişik enerjiyi yok eden en gizli mutant'dır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Pariah, hem bir mutant hem de bir ajandır ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Pariah'ın en ünlü özelliği, onun Necron birimi olmasıdır — onlar, Necron'ların en gizli ve en tehlikeli biriminin adıdır ve onların varlığı, Necron'ların en büyük sırrının kanıtıdır. Pariah, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır — onlar, bir genin ve İmparatorluğun en büyük sırrının somut halidir.
 
 ## Kanon Notu
 
-Pariah Nexus adı bu eski birimlere ya da blank'lere doğrudan bağlanmaz; arşiv bu bağı kanon saymaz. Eski Pariah lore'u güncel kanon gibi sunulmamalıdır; sonraki yayınlar Necron'ları farklı bir çerçevede işler.
-
--# Kaynaklar: *Codex: Necrons — 3rd Edition*; *Codex: Necrons — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551818153271627807>, <#1551587905703649300>
+Pariah Nexus adı bu eski birimlere ya da b

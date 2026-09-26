@@ -16,8 +16,4 @@ Power armour'ın ötesinde, bir savaşçıyı yürüyen bir kaleye çeviren iri 
 
 ## Tarihçe
 
-Horus Heresy yıllarında Cataphractii ve Tartaros kalıpları kullanıldı; sonraki binyılların standardı Indomitus kalıbı oldu. Codex düzenindeki Chapter'larda Terminator zırhı genellikle 1. Company veteran'larına verilir ve onu giyme hakkı büyük onur sayılır. Sol omuza takılan Crux Terminatus'un, Emperor'ın Horus'la düellosunda giydiği zırhtan bir parça taşıdığına inanılır.
-
--# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Horus Heresy Book One: Betrayal*
-
--# İlişkili kayıtlar: <#1551753431230971988>, <#1551808888666587197>, <#1551809133156634696>, <#1551813077991686208>
+Terminator Armour, resmi adıyla Tactical Dreadnought Armour, Space Marine'lerin giydiği en ağır kişisel zırhtır; bir Dreadnought'un zırhını insan bedenine uyarlanmış halidir ve giyeni neredeyse yürüyen bir tanka çevirir. Kökeni Horus Heresy öncesine dayanır — Dreadnought zırhını minyatürleştirme çalışmaları, Legion içindeki en seçkin savaşçılar için tek parça zırh üretti; sonuç Tactical Dreadnought Armour oldu. Terminator zırhı storm bolter, power fist, thunder hammer ve assault cannon taşıyabilir; içindeki savaşçıya teleport saldırıları, uzay boşluğu ve plazma patlamaları dahil her ortamda hayatta kalma imkânı verir. On bin yıl sonra hâlâ her Chapter'ın en değerli emaneti olarak saklanır — zırh parçası parçası bakım g

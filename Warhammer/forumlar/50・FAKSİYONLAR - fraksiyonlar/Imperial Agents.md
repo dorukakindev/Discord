@@ -16,8 +16,4 @@ Imperium'un görünmeyen elleri. Bir Inquisitor'un küçük retinue'sundan bir A
 
 ## Tarihçe
 
-Officio Assassinorum'un kökleri Great Crusade dönemine uzanır, Adeptus Arbites'ın kuruluşu ise kaynaklarda kesin bir tarihe bağlanmaz; Inquisition'ın doğuşu ise çoğu anlatımda Heresy dönemi ve Malcador'un devşirdiği ajanlarla ilişkilendirilir. Era Indomitus'ta Great Rift'in yarattığı kaos, bu kurumların önemini artırdı.
-
--# Kaynaklar: *Codex: Imperial Agents*; *Eisenhorn: Xenos — Dan Abnett*
-
--# İlişkili kayıtlar: <#1551753472070783096>, <#1551815304252887041>, <#1551651588542828546>, <#1551650243483926584>, <#1551640173442502677>
+Imperial Agents, İmparatorluğun en gizli ve en çeşitli savaş gücüdür; Inquisition, Officio Assassinorum, Rogue Trader'lar ve diğer bağımsız operatörlerin oluşturduğu bir güçtür — onlar, İmparatorluğun en gizli ve en ölümcül savaşçılarıdır. Imperial Agents'ın en büyük özelliği, onların çeşitliliğidir — onlar, bir Inquisitor'dan bir Assassin'e kadar her şeyi içerir; bir Imperial Agent, hem bir savaşçı hem de bir casustur ve onların savaşı, hem fiziksel hem de bilgi savaşıdır. Imperial Agents'ın en ünlü özelliği, onların bağımsızlığıdır — onlar, İmparatorluğun normal askeri yapısının dışında çalışır ve onların görevleri, İmparatorluğun en gizli ve en tehlikeli operasyonlarıdır;

@@ -12,6 +12,4 @@ Bu hiziplerin pratik sonucu devasadır: bir Inquisitor'un 'doğru' gördüğü, 
 
 ## Tarihçe
 
-Inquisition'ın iç fraksiyonları; Puritan-Radikal ekseninin alt bölümleri. Monodominant, Xanthite, Istvaanian, Recongregator ve daha fazlası — İmparatorluk'un iç savaşı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Engizisyon Hizipleri (Inquisition Factions), Inquisition içindeki ideolojik bölünmelerdir; tek bir Inquisition yoktur — onun yerine birbirleriyle çatışan, gizli savaşan ve bazen birbirlerini avlayan fikir grupları vardır. Ana hizipler: Puritan'lar (katı inanç, Chaos'u tamamen reddeden, geleneğe bağlı), Radical'lar (gerektiğinde Chaos'un silahını kullanan, sonuç için her şeyi yapanlar), Thorian'lar (İmparator'un tekrar doğacağına inanan), X

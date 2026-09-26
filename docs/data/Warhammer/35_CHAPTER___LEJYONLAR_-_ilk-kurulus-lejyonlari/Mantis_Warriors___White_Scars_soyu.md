@@ -15,12 +15,10 @@ White Scars soyunun en tanınmış ardılı; kendine özgü savaş ritüelleriyl
 
 ## Tarihçe
 
-Badab War'da Lufgt Huron'un Astral Claws'ı ile birlikte ayrılıkçıların safında savaşan Mantis Warriors, loyalist gemilere saldırılar düzenleyerek birçok cephede çarpıştı. İsyanın bastırılmasından sonra Emperor'un affına mazhar oldular; ancak uzun bir penitent crusade'e mahkûm edildiler, yurt dünyaları Ootheca ellerinden alındı ve savaş dönemindeki Chapter Master'ları Khoisan Neotera onurundan yoksun bırakılarak hapsedildi.
+Mantis Warriors, White Scars soyu ve İmparatorluğun en disiplinli ve en hızlı Space Marine Chapter'larından biridir; onların savaş doktrini, White Scars'ın hız geleneğinden ve kendi böcek-kültüründen doğar ve onlar, İmparatorluğun en sabırlı ve en ölümcül avcılarıdır. Mantis Warriors'ın en büyük özelliği, onların sabrıdır — onlar, düşmanını bekler, izler ve en zayıf anında saldırır; bir Mantis Warrior, savaşta hem hızlı hem de hesaplıdır ve onun saldırısı, bir mantis'in avına benzer — sessiz, ani ve ölümcül. Mantis Warriors'ın en ünlü savaşı, çeşitli Imperial operasyonlarıdır — onlar, keşif ve sabotajda uzmanlaşmışlardır ve onların varlığı, düşmanın en zayıf anında ortaya çıkar. Mantis Warriors, İmparatorluğun en sabırlı ve en ölümcül Chapter'ıdır — onlar, bekleyen ve aniden vuran savaşçılardır.
 
 ## Teknik / Biyolojik Özellikler
 
 Gene-seed'lerinde, savaşçıya olağanüstü odak kazandıran ama algıyı daraltan bir öfke hâline yol açan kusurdan söz edilir. Doktrin: White Scars mirasını yansıtan hareketli savaş.
 
--# Kaynaklar: *Imperial Armour Volume Nine: The Badab War — Part One*; *Imperial Armour Volume Ten: The Badab War — Part Two*
-
--# İlişkili kayıtlar: <#1551811438547312645>, <#1551638913683034174>, <#1551815803220004936>
+-# Kaynakl

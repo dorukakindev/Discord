@@ -16,8 +16,4 @@ Collegia, bütün Legio'ları kendi çatısı altında toplayan, Mechanicus içi
 
 ## Tarihçe
 
-Horus Heresy, Collegia Titanica'yı kendi içinden parçaladı: Mars'ın bölünmesiyle birlikte Legio'lar sadık ve hain saflara ayrıldı ve Titan'lar birbirine karşı yürüdü. Hain Legio'lar Dark Mechanicum'un safında kalırken sadık Collegia yeniden örgütlendi. Dan Abnett'in *Titanicus* romanı, M41'de bir Legio'nun Imperial otoritelerle ilişkisini ve Collegia'nın iç siyasetini yakından işler.
-
--# Kaynaklar: *Titanicus — Dan Abnett*; *Mechanicum — Graham McNeill*; *Titandeath — Guy Haley*
-
--# İlişkili kayıtlar: <#1551809313096474696>, <#1551753449878724689>, <#1551816635839549491>, <#1551650329156788287>
+Collegia Titanica, Adeptus Mechanicus'un Titan Legions'ını yöneten ve İmparatorluğun en büyük savaş makinelerini — Titan'ları — komuta eden kurumdur; onların elinde, İmparatorluğun en yıkıcı silahları vardır ve bir Titan Legion'unu sahaya sürmek, bir savaşın kaderini belirlemek demektir. Collegia Titanica'nın üyeleri Princeps'lerdir — bir Titan'ı zihinleriyle kontrol eden seçkin pilotlar; bir Princeps, Titan'ın makine ruhuyla birleşir ve onun gövdesini kendi bedeni gibi kullanır; bu bağlantı hem güç hem de çılgınlık demektir çünkü bir Princeps, Titan'ın gücüne kapılır ve bazen makineyle birleşir. Collegia Titanica'nın Titan'ları sınıflandırılır — Scout Titan'lar (Warhound), Battle Titan'lar (Reaver, Warlord) ve devasa Imperator Titan'lar; her biri, İmparatorluğun en pahalı ve en güçlü silahıdır. Collegia Titanica, İmparatorluğun en eski ve en saygın kurumlarından biridir — onların tarihi, M

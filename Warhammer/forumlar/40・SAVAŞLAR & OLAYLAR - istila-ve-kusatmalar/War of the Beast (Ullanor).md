@@ -16,6 +16,4 @@ Ullanor'un fethi, Beast'in güç merkezini kırdı ama savaşın asıl mirası b
 
 ## Tarihçe
 
-32. binyılda dev Ork Warlord'u 'The Beast'in İmparatorluk'u neredeyse devirdiği savaş; Ullanor'un ikinci tarihi. İmparatorluk'un ilk ciddi varoluş krizi — Heresy'den sonraki en büyük test.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+War of the Beast, Imperialis'in Ullanor'da yaşadığı en tehlikeli Ork saldırısıydı — bu, Ullanor'un Imperialis'in en büyük zaferinin yaşandığı yer olmasıyla daha da trajik hale geliyordu. 'The Beast' adlı Ork Warboss, Imperialis'in daha önce gördüğü en güçlü Ork lideriydi ve ordusu, Imperialis'in birçok gezegenini ele geçirdi. War of the Beast sırasında Or

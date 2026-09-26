@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Andrastia_4.jpg/revis
 
 ## Tarihçe
 
-Adrastia — Alaitoc'un Autarch Kayleth'i tarafından 'İmparator'un Oğlu' diye anılan — Ordo Hereticus'un Inquisitor'üdür ve Dawn of War II: Retribution'ın ana karakterlerinden biridir. Zeki, gururlu ve idealist bu figür, Aurelia Alt-Sektörü'ndeki olaylarda kilit rol oynadı; 'inançlı dedektif' olarak Retribution'ın hikâye merkezindeki kadın figürdür.
+Adrastia, Inquisition'ın en gizli ve en tehlikeli üyesidir; Ordo Hereticus'un en deneyimli Inquisitor'u olan ve 'Scion of the Emperor' olarak bilinen Adrastia, İmparatorluğun en gizli ve en tehlikeli koruyucusudur — onlar, İmparatorluğun en gizli ve en tehlikeli Inquisitor'udur. Adrastia'nın en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarını yapan en tehlikeli Inquisitor'dur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Adrastia, hem bir Inquisitor hem de bir avcıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Adrastia'nın en ünlü özelliği, onun 'Scion of the Emperor' lakabıdır — onlar, İmparator'un en gizli ve en tehlikeli ajanıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Adrastia, Inquisition'ın en gizli ve en tehlikeli üyesidir — onlar, bir avcının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

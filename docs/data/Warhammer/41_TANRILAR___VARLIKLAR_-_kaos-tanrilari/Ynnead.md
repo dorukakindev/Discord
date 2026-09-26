@@ -15,12 +15,8 @@ Ynnead'in hikâyesi geçmişte değil, gelecekte yazılacaktır. Kehanete göre 
 
 ## Tarihçe
 
-Uzun süre bir teselli ya da acı bir kaderciliğin ifadesi olarak yaşayan bu inancı Ynnari hareketi tersine çevirdi. Yvraine'in savunduğu Seventh Path'e göre Ynnead, türün yok oluşu beklenmeden kısmen uyandırılabilir. Yvraine'in dirilişi ve Yncarne adlı avatarın belirişi, hareketin gözünde bu kısmi uyanışın kanıtlarıdır.
+Ynnead, Aeldari'nin en ünlü ve en umutlu tanrısıdır; ölümün tanrısı olan ve Aeldari'nin ölü ruhlarını toplayan Ynnead, Aeldari'nin en umutlu ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en umutlu tanrısıdır. Ynnead'ın en büyük özelliği, onun umududur — onlar, Aeldari'nin ölü ruhlarını toplayan ve onları Slaanesh'ten koruyan en umutlu tanrıdır ve onların varlığı, Aeldari'nin en büyük umudunun kanıtıdır; bir Ynnead takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ynnead'ın en ünlü özelliği, onun 'ölüm tanrısı' olmasıdır — onlar, Aeldari'nin ölü ruhlarının koruyucusudur ve onların varlığı, Aeldari'nin en büyük umudunun kanıtıdır. Ynnead, Aeldari'nin en ünlü ve en umutlu tanrısıdır — onlar, bir umudun ve Aeldari'nin en büyük gücünün somut halidir.
 
 ## Kanon Notu
 
-Ynnead'in bir tanrı mı, ruhların kolektif bir yankısı mı olduğu ve Slaanesh'i yenip yenemeyeceği kasıtlı olarak açık bırakılmıştır; uyanış Ynnari'ye göre bile kısmidir.
-
--# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Psychic Awakening: Phoenix Rising*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551742665756901377>, <#1552483346846715924>, <#1551810744754905123>, <#1551754688008032321>
+Ynnead'in bir tanrı mı, ruhların kolektif bir yankısı mı olduğu ve Slaanesh'i yenip yenemeyeceği kasıtlı olarak açık bırakılmıştır; uyanış Ynnari'ye göre bile kısmidir

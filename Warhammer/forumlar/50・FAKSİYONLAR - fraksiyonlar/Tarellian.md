@@ -18,6 +18,6 @@ Tyranid istilalarıyla yok edilmiş bir uygarlığın son kalıntıları; paral�
 
 ## Tarihçe
 
-Tarellian'lar, Tyranid'lerin silip süpürdüğü bir uygarlığın arta kalanlarıdır. Savaşçıları paralı asker olarak İmparatorluk dünyalarında bile görülür; zehirli kan ve kemikleri sayesinde ölümcül yakın dövüşçülerdir. Türlerinin trajedisi onları hem tehlikeli hem sürgün yapar.
+Tarellian, WH40K evreninin en trajik ve en sadık xeno türlerinden biridir; köpek benzeri, sadık ve İmparatorluk tarafından neredeyse yok edilmiş bir türdür — onlar, İmparatorluğun en büyük suçlarından birinin kurbanıdır. Tarellian'ın en büyük özelliği, onların sadakatidir — onlar, bir zamanlar İmparatorluğa sadık müttefiklerdi ama İmparatorluk onları ihanet etti ve onları neredeyse yok etti; bir Tarellian, hem bir savaşçı hem de bir kurbanıdır ve onların varlığı, İmparatorluğun en büyük utancıdır. Tarellian'ın en ünlü anı, İmparatorluğun onları yok etmesidir — onların yok edilmesi, İmparatorluğun en büyük suçlarından biridir; ve onların varlığı, İmparatorluğun kendi barbarlığının kanıtıdır. Tarellian, İmparatorluğun en trajik ve en sadık xeno türüdür — onlar, İmparatorluğun en büyük suçunun kurbanıdır.
 
 -# Kaynaklar: *Codex: Tyranids*; Warhammer 40,000 — Fandom / Lexicanum derlemesi

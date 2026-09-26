@@ -3,3 +3,4 @@ __pycache__/
 .env
 bot/.env
 bot/tests/_work_test/
+bot/data/lexicanum.db

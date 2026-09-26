@@ -16,8 +16,4 @@ Greater Good bir tanrıya değil, bir öğretiye yönelmiş inançtır. T'au onu
 
 ## Tarihçe
 
-Ethereal'lerin ortaya çıkışıyla T'au'nun iç savaş çağı sona erdi ve Tau'va imparatorluğun omurgası oldu. Sphere Expansion'lar boyunca yeni türler bu öğretiye katıldı; direnenler ise yeniden eğitime, sürgüne ya da yok edilmeye maruz kalabildi.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Psychic Awakening: The Greater Good*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551814127541026827>
+Greater Good (Tau'va), T'au Empire'ın en ünlü ve en önemli ideolojisidir; 'kolektif fayda' ilkesine dayanan ve T'au'nun en kutsal inancı olan Greater Good, T'au'nun en önemli ve en gizli gücüdür — onlar, T'au'nun en ünlü ve en önemli ideolojisidir. Greater Good'un en büyük özelliği, onun kolektifliğidir — onlar, bireysel çıkarların üzerinde kolektif faydayı savunan en önemli ideolojidir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır; bir Greater Good takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ideolojik bir mücadeledir. Greater Good'un en ünlü özelliği, onun T'au'nun temel inancı olmasıdır — onlar, T'au'nun en kutsal ve en önemli ideolojisidir ve onların varlığı, T'au'nun

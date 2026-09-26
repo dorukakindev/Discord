@@ -18,6 +18,6 @@ Blood Angels'ın en yaşlı Sanguinary Priest'ı; Red Thirst lanetine karşı en
 
 ## Tarihçe
 
-Corbulo, Blood Angels'ın Sanguinary High Priest'idir — chapter'ın Sanguinary Priest'lerinin (Apothecary) lideri, emaneti Heaven's Teeth chainsword'ün sahibi ve 'Kızıl Kâse'nin taşıyıcısıdır. Chapter'ın 'kanının muhafızı' olarak Sanguinius'un genetik mirasını ve Kara Öfke'yi denetleyen figür — 'kutsal kanın papazı'.
+Corbulo, Blood Angels'ın en ünlü ve en saygın Sanguinary Priest'idir; Blood Angels'ın genetik kusurunu — Black Rage ve Red Thirst — araştıran ve onların en büyük sırrını saklayan Corbulo, Blood Angels'ın en gizli ve en önemli üyesidir — onlar, Blood Angels'ın en ünlü ve en saygın priestidir. Corbulo'nun en büyük özelliği, onun bilgisidir — onlar, Blood Angels'ın genetik kusurunu en iyi bilen ve onun çaresini arayan en önemli priesttir ve onların varlığı, Blood Angels'ın en büyük umudunun kanıtıdır; bir Corbulo, hem bir hekim hem de bir sır taşıyıcısıdır ve onların varlığı, Blood Angels'ın en gizli gücünün somut halidir. Corbulo'nun en ünlü özelliği, onun Sanguinius'un kanını araştırmasıdır — onlar, bir primarch'ın genetik mirasının en büyük bilginidir ve onların varlığı, Blood Angels'ın en büyük sırrının kanıtıdır. Corbulo, Blood Angels'ın en ünlü ve en saygın Sanguinary Priest'idir — onlar, bir Chapter'ın sırrının ve Blood Angels'ın en büyük umudunun somut halidir.
 
 -# Kaynaklar: *Codex: Blood Angels*

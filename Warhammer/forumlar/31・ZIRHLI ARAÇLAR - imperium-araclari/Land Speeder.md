@@ -13,6 +13,6 @@ Land Speeder'ın gücü, hızında ve hareketliliğindedir; anti-grav motorları
 
 ## Tarihçe
 
-Astartes'in hızlı keşif ve vur-kaç aracı; anti-grav, çok yönlü, kolay ölümlü. Raven ve Storm varyantlarıyla Chapter'ların gözü-kulağıdır — hafif görünür ama jetbike'in torunu olarak savaş geleneği taşır.
+Land Speeder, Legiones Astartes ve Adeptus Astartes tarafından kullanılan en hızlı ve en çok yönlü hava aracıdır; onun antigravite teknolojisiyle — bir Space Marine'i taşıyabilen ve düşmanı yakın mesafede imha eden bir araçtır — onlar, Space Marine'lerin en hızlı ve en çevik aracıdır. Land Speeder'ın en büyük özelliği, onun çok yönlülüğüdür — onlar, hem bir keşif aracı hem de bir saldırı aracıdır; bir Land Speeder, bir düşman pozisyonunu saniyeler içinde geçebilir ve onların varlığı, bir Space Marine baskınının merkezidir. Land Speeder'ın en ünlü görevi, Space Marine'lerin çeşitli keşif ve baskın operasyonlarıdır — onlar, düşmanı izlemek ve hızlı baskınlar yapmak için kullanılırlar ve onların varlığı, bir Legion'un en güvenilir aracıdır. Land Speeder, Space Marine'lerin en hızlı ve en çok yönlü hava aracıdır — onlar, hızın ve çok yönlülüğün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

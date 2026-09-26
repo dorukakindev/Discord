@@ -16,8 +16,4 @@ Taşıyıcısının etini, zırhını ve silahlarını tek bir kütlede kaynaşt
 
 ## Tarihçe
 
-Virüsün ürünleri **Obliterator**'lar olarak bilinir ve Heretic Astartes arasında ayrı bir kült gibi yaşadıkları anlatılır. Aynı bozulmanın yakın dövüşe yönelmiş biçimi Mutilator'larla ilişkilendirilir. Obliterator'lar farklı warband'lere paralı müttefik gibi katılabilir.
-
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812225570836561>, <#1551650329156788287>, <#1551816158951510069>
+Obliterator Virüsü, Chaos Space Marine'lerde görülen dehşet verici bir techno-warp enfeksiyonudur; enfekte olan savaşçının bedeni ile silahları arasındaki sınır silinir ve artık silahlar bedeninden büyür, cephane etten üretilir. Virüsün kökeni bilinmiyor — Warp demonlarının bir eseri mi, yoksa eski bir biyolojik silah mı olduğu tartışmalıdır; ama bilinen şu ki bulaşma yakın temasla veya Warp maruziyetiyle gerçekleşiyor. Enfekte bir Chaos Marine önce silahlarını kaybeder (onlar bedenine gömülür), sonra bedeninin her yerinden namlular fışkırır ve sonunda hareket edemeyecek kadar ağırlaşmış bir canavar haline gelir — bu son aşamadaki varlık Obliterator'dur. Obliterator'lar silahlarını diledikleri anda bedenlerinden doğurabilirler: bir dakika plasma cannon, bir dakika lascannon; cephane bedenlerinden damıtılır. İmparatorluk için Obliterator'lar, Chaos'un teknolo

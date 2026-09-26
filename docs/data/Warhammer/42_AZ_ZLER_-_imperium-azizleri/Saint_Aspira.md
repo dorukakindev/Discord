@@ -12,6 +12,6 @@ Aspira, sapkın (heretic) Denescura'ya karşı yürüdü; emrindeki kuvvet yaln�
 
 ## Tarihçe
 
-Saint Aspira, on sekiz kadife kaftanı ve kan-çiçekleri mucizesiyle bilinen Imperial Saint'tir; 36. Binyıl'da Denkara'daki ayaklanmaları bastıran orduya öncülük etti. Order of the Bloody Rose'un sembol-azizlerindendir; onun anısına giyilen kan-kırmızı kaftanlar günümüz Sororitas geleneğini şekillendirmiştir.
+Saint Aspira, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Aspira, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Aspira'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Aspira, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Aspira'nın en ünlü özelliği, onun azize unvanıdır — onlar, İmparatorluğun en kutsal ve en önemli azizesidir ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Saint Aspira, Sisters of Battle'ın en ünlü ve en kutsal azizesidir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

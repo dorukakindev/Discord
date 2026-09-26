@@ -12,6 +12,6 @@ Sanguinius, Büyük Haçlı Sefer ve Horus Heresy boyunca bu kılıcı kuşandı
 
 ## Tarihçe
 
-Blade Encarmine, Blood Angels'ın en kutsal kılıçlarından biridir; Sanguinius'un kendi elleriyle dövdüğü söylenen güç kılıcı. Chapter'ın Sanguinary Guard komutanları tarafından taşınır; kan-kırmızı kabzası ve melek kanatlı kaburgasıyla Hemophilia'nın hem simgesi hem silahıdır.
+Blade Encarmine, Blood Angels'ın en ünlü ve en kutsal relic'idir; Sanguinius'un — Blood Angels'ın primarch'ı — kendi kanından yapılan ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, Blood Angels'ın en ünlü ve en kutsal hazinesidir. Blade Encarmine'ın en büyük özelliği, onun kutsallığıdır — onlar, bir primarch'ın kendi kanından yapılan bir kılıçtır ve onların varlığı, Blood Angels'ın en kutsal hazinesinin kanıtıdır; bir Blade Encarmine kullanıcısı, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Blade Encarmine'ın en ünlü özelliği, onun Sanguinius'un kanıdır — onlar, bir primarch'ın kendi kanının simgesidir ve onların varlığı, Blood Angels'ın en büyük onurunun kanıtıdır. Blade Encarmine, Blood Angels'ın en ünlü ve en kutsal relic'idir — onlar, bir primarch'ın kanının ve Blood Angels'ın ruhunun somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kayna

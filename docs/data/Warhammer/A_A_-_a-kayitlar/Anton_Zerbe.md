@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/45/Lord_Inquisitor_Anton
 
 ## Tarihçe
 
-Anton Zerbe, Ordo Hereticus'un Inquisitor Lord'u ve Calixis Sektörü'ndeki 'Tyrantine Cabal' Inquisitor grubunun görevli lideridir — bu makama bizzat Calixian Conclave'ın başı Lord Inquisitor Aegult Caidin tarafından getirildi. Görevini hafife almaz; 'kabal'ın gizli operasyonlarını demir disiplinle yöneten bu figür, Dark Heresy evreninin en yetkili inquisitorial yüzlerinden biridir.
+Anton Zerbe, Inquisition'ın en gizli ve en güçlü Lord Inquisitor'udur; Tyrantine Cabal'ın — Calixis Sector'ün en gizli Inquisition grubu — lideri olan Zerbe, İmparatorluğun en gizli ve en güçlü koruyucusudur — onlar, Inquisition'ın en gizli ve en güçlü üyesidir. Anton Zerbe'nin en büyük özelliği, onun liderliğidir — onlar, bir sektörün en gizli Inquisition grubunun lideridir ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Zerbe, hem bir Inquisitor hem de bir liderdir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Anton Zerbe'nin en ünlü özelliği, onun Tyrantine Cabal'ın lideridir — onlar, Calixis Sector'ün en gizli Inquisition grubunun lideridir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Anton Zerbe, Inquisition'ın en gizli ve en güçlü Lord Inquisitor'udur — onlar, bir liderin ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

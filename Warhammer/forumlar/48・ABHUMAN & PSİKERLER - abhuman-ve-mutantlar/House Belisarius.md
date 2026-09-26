@@ -16,8 +16,8 @@ Terra'daki en tanınmış Navigator Houses'tan biridir. Özellikle Space Wolves 
 
 ## Tarihçe
 
-William King'in *Wolfblade* romanı, Space Wolves'un Terra'daki bu muhafız birliğini, Wolfblade'i ve House Belisarius'un Terra siyasetindeki yerini işler; genç Ragnar Blackmane'in Chapter'ından uzaklaştırılıp bu birliğe gönderilmesi romanın çıkış noktasıdır. Anlatı, Houses arasındaki entrikaların Terra'nın saray dünyasında ne kadar ölümcül olabildiğini gösterir.
+House Belisarius, İmparatorluğun en ünlü ve en eski Knight hanesidir; onların İmparatorluk'un en eski ve en saygın Knight hanesi olan ve onun en zorlu savaşlarını yapan House Belisarius, İmparatorluğun en eski ve en saygın varlığıdır — onlar, İmparatorluğun en ünlü ve en eski Knight hanesidir. House Belisarius'un en büyük özelliği, onların eskiliğidir — onlar, İmparatorluk'un en eski Knight hanesidir ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır; bir House Belisarius üyesi, hem bir şövalye hem de bir soyludur ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. House Belisarius'un en ünlü özelliği, onların Knight hanesidir — onlar, İmparatorluk'un en eski ve en saygın Knight hanesidir ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. House Belisarius, İmparatorluğun en ünlü ve en eski Knight hanesidir — onlar, bir geleneğin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Wolfblade — William King*
 
--# İlişkili kayıtlar: <#1551651548713455758>, <#1551638910344630307>, <#1551809168032268310>
+-

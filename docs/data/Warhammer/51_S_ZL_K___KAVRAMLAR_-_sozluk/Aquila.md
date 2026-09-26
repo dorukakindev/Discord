@@ -12,6 +12,6 @@ Aquila'nın iki başının anlamı üzerine çeşitli yorumlar vardır; en yayg�
 
 ## Tarihçe
 
-Aquila, İmparatorluk'un çift başlı kartal simgesidir; İmparator'un iki yüzü (gözü ve kanadı) temsil eder. Her Imperial yapının, zırhın ve belgenin üzerinde — İmparatorluk'un en evrensel işareti.
+Aquila, İmparatorluğun resmi sembolüdür; iki başlı kartal figürüdür ve bir başı İmparatorluğun şu anını, diğeri geleceğini temsil eder — ya da bazı yorumlara göre bir başı Terra'yı, diğeri Mars'ı (Mechanicus'u) simgeler. Aquila, İmparatorluğun her yerindedir — bayraklarda, zırhlarda, binalarda ve para biriminde; bir Aquila görmek, İmparatorluğun varlığını ve otoritesini görmek demektir. Aquila'nın kökeni Büyük Haçlı Seferi'ne dayanır — İmparator'un birleşik insanlık vizyonunun simgesiydi ve Heresy'den sonra bile sadık kalanların işaretidir; Chaos'lu düşmanlar Aquila'yı aşağılar veya parçalar ama sadık olanlar onu kutsal sayar. Aquila sadece sembol değil, İmparatorluğun kendisidir — onu taşıyan, onu temsil eder ve ona ihanet eden, İmparatorluğa ihanet eder.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

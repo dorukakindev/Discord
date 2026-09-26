@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/49/EC_Livery.png/revisio
 
 ## Tarihçe
 
-Iddinam, Büyük Sefer ve Heresy dönemlerinde Emperor's Children lejyonunun ünlü Lord Commander'larından biriydi. En bilinen eylemi Praxil Sistemi'nin İmparatorluk Uyumu'na getirilmesi göreviydi — bu yeni keşfedilen sistemi Compliance'a getirmekle görevli büyük bir EC gücünün fiili komutanıydı. En iyi çabalarına rağmen sefer iyi başlamadı ve İmparatorluk güçleri arasında onun yönetimini sorgulayanlar çıktı; Praxil, EC'nin 'kusursuzluk' arayışının ilk tökezlemelerinden biri olarak kayıtlara geçti.
+Iddinam, Chaos'un en gizli ve en tehlikeli üyesidir; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en gizli sırlarını saklayan Iddinam, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir. Iddinam'ın en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli üyesidir ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Iddinam, hem bir savaşçı hem de bir sırdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Iddinam'ın en ünlü özelliği, onun gizliliğidir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Iddinam, Chaos'un en gizli ve en tehlikeli üyesidir — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

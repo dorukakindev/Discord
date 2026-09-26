@@ -16,6 +16,4 @@ Aziz olarak Drusus, 'kılıçla vaaz eden' figürün en büyük örneğidir — 
 
 ## Tarihçe
 
-Saint Drusus, Calixis Sektörü'nün fatih-azizidir; Angevin Haçlı Seferi'nde bölgeyi Imperium'a katan orduya komuta ettiği için sektörün koruyucu azizi sayılır. Mucizevi dirilişi ve generalliğiyle Angevin efsanesinin merkezindedir; Calixis'teki pek çok dünya ve katedral onun adını taşır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Drusus, Sisters of Battle'ın en ünlü ve en kutsal azizidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizi olan Drusus, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizidir. Saint Drusus'un en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizdir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Drusus, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledi

@@ -44,6 +44,10 @@ Undivided tutum, Black Legion'ın hem gücü hem de kırılganlığıdır. Tek b
 **Savaş tarzı**
 Black Legion'ın gücü, tek başına bir birlik tipinde değil, geniş kuvvetleri koordine edebilmesindedir. Chosen ve Terminator veteranları, Possessed savaşçılar, Daemon Engine'ler, kültist orduları ve müttefik warband'ler tek bir planın parçası olarak kullanılır. Eski Justaerin geleneğinin mirasçısı sayılan Terminator birlikleri Abaddon'ın çevresindeki çekirdek gücü oluşturur. Stratejik düzeyde ise Black Legion baskın, sabotaj ve büyük seferleri birleştiren, yüzyıllara yayılan hedefler peşindedir.
 
+## Tarihçe
+
+Black Legion (eski adıyla Luna Wolves ve Sons of Horus), Horus Lupercal'ın Legion'udur ve İmparatorluğun en büyük ihanetinin simgesidir; Horus Heresy'nin başını çeken ve sonunda İmparatorluğu neredeyse yok eden bu Legion, şimdi Abaddon'un komutasında Chaos'un en organize ve en tehlikeli gücüdür. Luna Wolves, Horus'un ilk ve en sadık Legion'uydu — Büyük Haçl
+
 ## Abaddon the Despoiler
 Abaddon, Black Legion'ın hem kurucusu hem de varlık nedenidir. Horus'un gördüğü hataları tekrarlamamaya yeminli bir lider olarak betimlenir; tanrılara tamamen boyun eğmemesi, bazı anlatılarda gurur, bazılarında ise stratejik bir tercih olarak yorumlanır.
 

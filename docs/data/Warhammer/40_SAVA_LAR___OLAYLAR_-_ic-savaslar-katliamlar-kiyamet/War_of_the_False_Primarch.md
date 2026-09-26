@@ -10,6 +10,6 @@ War of the False Primarch (Sahte Primarch Savaşı), İmparatorluk tarihinin en 
 
 ## Tarihçe
 
-War of the False Primarch, M33 döneminde bir 'sahte primarch' ortaya çıkıp beş sektörü İmparatorluk'tan koparmaya çalıştığı büyük isyandır; İmparatorluk'un on iki yıl süren savaşı sonucu bastırıldı. Kayıtları büyük ölçüde silinmiş gizli bir kriz — Segmentum Pacificus'un kayıp tarihi.
+War of the False Primarch, İmparatorluk'un en trajik iç savaşlarından biri olarak tarihe geçti. Bu savaş, birinin sahte primarch olduğunu iddia etmesiyle başladı; War of the False Primarch sırasında İmparatorluk, kendi içindeki en tehlikeli sahtekârlıklarla karşılaştı. Savaş, sahte primarch'ın yenilgisiyle sonuçlandı; ancak verilen zayiat ve yaşanan çatışma, bu olayın İmparatorluk tarihindeki en trajik sayfalardan biri olmasına neden oldu. War of the False Primarch, İmparatorluk'un en büyük trajedisinin kendi içindeki sahtekârlıklar olduğunu gösteren en çarpıcı örnektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

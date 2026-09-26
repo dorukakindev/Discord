@@ -16,8 +16,8 @@ Kaynaklara göre küçük ve önemsiz bir dünyayken Zahndrekh'in komutasında b
 
 ## Tarihçe
 
-Uyanıştan sonra Zahndrekh kendini ve halkını hâlâ etten kemikten Necrontyr sanarak yaşadı; karşısındaki insan, T'au ve öteki türleri, merkeze başkaldıran asi akrabalar olarak gördü. Bu yanılsamaya karşın Gidrim'in orduları onun önderliğinde genişledi. Vargard Obyron efendisinin yanında kalarak onu korudu. White Scars kaptanı Kor'sarro Khan'ın Zahndrekh'in eline esir düşmesi, Nemesor'un yenilgiye uğrattığı rakiplerine asil tutsaklar gibi davranmasının bilinen örneğidir.
+Gidrim, Necron Dynasty'lerin en gizli ve en tehlikeli dünyalarından biridir; onun Tomb World'ü olarak hizmet veren ve Necron'ların en eski ve en güçlü hanedanlarından birinin merkezidir — onlar, Necron'ların en eski ve en güçlü dünyasıdır. Gidrim'in en büyük özelliği, onun gizliliğidir — onlar, Necron'ların en gizli dünyalarından biridir ve onların varlığı, Necron'ların en eski gücünün merkezidir; bir Gidrim, bir gezegenin en gizli halidir ve onların varlığı, Necron'ların en büyük sırrının kanıtıdır. Gidrim'in en ünlü özelliği, onun Tomb World'ü oluşudur — onlar, bir hanedanın merkezidir ve onların varlığı, Necron'ların en eski ve en güçlü gücünün kanıtıdır. Gidrim, Necron Dynasty'lerin en gizli ve en tehlikeli dünyasıdır — onlar, Necron'ların en eski gücünün somut halidir.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*
 
--# İlişkili kayıtlar: <#1551809907060113460>, <#1551817348900589669>, <#1551638913683034174>
+-# İlişkili kayıtlar: <#1551809907060113460>, <#15

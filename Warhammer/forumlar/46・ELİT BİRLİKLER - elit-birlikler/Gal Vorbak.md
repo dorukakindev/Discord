@@ -15,12 +15,8 @@ Colchis dilinde "kutsanmış oğullar" anlamına geldiği aktarılan Gal Vorbak,
 
 ## Tarihçe
 
-*The First Heretic*, Argel Tal ve kardeşlerinin bu dönüşümünü, Lorgar'ı gözetlemekle görevli Custodes'in eşlik ettiği seferin gölgesinde anlatır. Gal Vorbak Heresy'nin ilk yıllarında Legion'un saldırılarında öne çıktı; *Betrayer*, Argel Tal'ın Angron ve World Eaters'la birlikte yürütülen Shadow Crusade'deki yerini işler.
+Gal Vorbak, Word Bearers Legion'unun en fanatik ve en yozlaşmış savaşçılarıdır; 'Bearing the Word' anlamına gelir ve daemon possession'ın ilk ve en kutsal örneğini temsil ederler — bedenlerine bilinçli olarak daemon almış ve onu kutsal emanet olarak taşıyan ilk Legion savaşçılarıdır. Gal Vorbak'lar sıradan Possessed değildir — onlar daemon ile ev sahibi arasındaki birliği kutsal kabul eder ve daemonları tanrılarının tezahürü olarak görürler; bu yüzden Gal Vorbak'lar hem savaşçı hem rahiptir. İlk Gal Vorbak'lar Horus Heresy öncesinde, Word Bearers'ın İmparator'a olan hayranlığı kırıldığında ortaya çıktı — Monarchia'nın yıkılmasından sonra Lorgar'ın izlediği yeni yolun ilk adımıydı. Savaşta Gal Vorbak'lar hem fiziksel hem psişik güç kullanır — daemonları onlara insanüstü güç ve Warp dokunuşu verir; ama bedeli, insanlıklarının yavaş yavaş kaybolmasıdır.
 
 ## Kanon Notu
 
-Gal Vorbak'ın Heresy sonrası akıbeti tek bir birim olarak net izlenmez; M41 Word Bearers'ındaki Possessed geleneğinin bu mirasla ilişkisi genel hatlarıyla anlatılır.
-
--# Kaynaklar: *The First Heretic — Aaron Dembski-Bowden*; *Betrayer — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551638953101365340>, <#1551816346268999763>, <#1551654107058540595>, <#1551814951365115956>
+Gal Vorbak'ın Heresy sonrası akıbe

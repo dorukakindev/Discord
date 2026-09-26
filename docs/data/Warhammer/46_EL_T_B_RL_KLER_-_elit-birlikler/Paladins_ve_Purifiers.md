@@ -16,8 +16,4 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Imperial_eagle.jpg/re
 
 ## Tarihçe
 
-İki topluluk da Chapter'ın daemonlara karşı yürüttüğü gizli savaşın en ağır cephelerinde görülür. Purifiers'ın başı Castellan Garran Crowe, daemonic kılıç Black Blade of Antwyr'i taşır; onu kendi iradesiyle zaptetmesi ruhsal saflığının kanıtı sayılır. Paladin'ler ise zorlu sınavlardan geçerek bu kimliği kazanan, Chapter'ın savaş geleneğinin yaşayan örnekleri olarak anlatılır.
-
--# Kaynaklar: *Codex: Grey Knights*; *The Emperor's Gift — Aaron Dembski-Bowden*; *Grey Knights — Ben Counter*
-
--# İlişkili kayıtlar: <#1551641477501947995>, <#1551815304252887041>, <#1551654107058540595>, <#1551753431230971988>
+Paladin, Grey Knights Chapter'ının en seçkin savaşçılarıdır; Daemonhunters'ın en güçlü, en saf ve en deneyimli şövalyelerinden oluşur ve görevleri hem en büyük demonları avlamak hem de Chapter'ın manevi liderliğini sağlamaktır. Paladin olmak için bir Grey Knight'ın hem savaşta hem ruhsal saflıkta üstün olması gerekir — Paladin'ler, Chaos'un en güçlü tezahürlerine bile direnebilen nadir ruhlardır; bir Paladin'in kılıcı, tek başına bir Greater Daemon'u durdurabilir. Purifier'lar, Paladin'lerin daha da seçkin alt grubudur — onlar sadece savaşçı değil, aynı zamanda Chaos'un varlığını yok eden kutsal ateşin taşıyıcısıdır; Purifier'ların varlığı, Warp'ın yozlaşmasını geri iter ve onların savaş alanında durması bile demo

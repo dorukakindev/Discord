@@ -12,4 +12,7 @@ Ama bu yedi lejyonun gizli bir kusuru vardı: yalnızca üçü (Iron Hands, Sala
 
 ## Katliam
 Dört sadık lejyon (Iron Hands, Salamanders, Raven Guard ve yedekteki ikinci dalga) Isstvan V'e indiğinde durum zaten umutsuzdu: ilk dalga üç lejyon (Iron Warriors, Night Lords, Word Bearers, Alpha Legion) sadık sanılıyordu — hepsi haindi. İkinci dalga "destek" olarak inip ilk dalganın hayatta kalanlarını arkadan biçti. Ferrus Manus Fulgrim'in elinde öldü; Vulkan kayboldu; Corax kaçtı. Üç sadık lejyon fiilen yok edildi; Astartes tarihinin en kanlı tek günü buydu. Katliam, sadık güçlerin moralini kırdı ve Terra'ya giden yolu açtı.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Isstvan V Drop Site Katliamı, Horus Heresy'nin en trajik olaylarından biridir. Bu olay, sadık Legion'ların hain Legion'lar tarafından Isstvan V'de katledilmesini içeriyordu; katliam sırasında Ferrus Manus ve birçok Space Marine hayatını kaybetti. Olay, İmparatorluk'un en büyük ihanetlerinden biri olarak tarihe geçti ve Horus Heresy'nin en trajik anlarından biri oldu. Isstvan V Drop Site Katliamı, İmparatorluk'un en büyük traje

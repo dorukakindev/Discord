@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/dc/Adeptus_Astartes_Icon
 
 ## Tarihçe
 
-Decimus Androdinus Felix ('Vespator'un Lordu ve Doğu Marches'ın Hakimi'), ilk Primaris Space Marines kuşağındandır; Unnumbered Sons'ta teğmen olarak başladı, sonra Primarch Guilliman'ın silahtarı (equerry) oldu. Indomitus Seferi'nin birinci safhasının sonunda Guilliman onu Ultramar'ın genişletilmiş sınırlarının bir parçası olarak Vespator ve Doğu Marches'ın yöneticisi yaptı — Primaris'in 'yeni soylusu' olarak Imperium Secondus'un mimarlarından biri.
+Decimus Androdinus Felix, Ultramarines'in en ünlü ve en onurlu Primaris Lieutenant'ıdır; Vespator ve Eastern Marches'ın Lord'u olan ve ilk Primaris Space Marine'lerden biri olan Felix, İmparatorluğun en saygın ve en onurlu savaşçısıdır — onlar, Ultramarines'in en ünlü ve en onurlu üyesidir. Decimus Androdinus Felix'in en büyük özelliği, onun onurudur — onlar, Ultramarines'in en saygın Primaris subayıdır ve onların varlığı, Ultramarines'in en büyük onurunun kanıtıdır; bir Felix, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Decimus Androdinus Felix'in en ünlü özelliği, onun ilk Primaris Marine'lerden biri olmasıdır — onlar, İmparatorluğun en yeni ve en güçlü savaşçılarının en önde gelen üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Decimus Androdinus Felix, Ultramarines'in en ünlü ve en onurlu Primaris Lieutenant'ıdır — onlar, bir onurun ve Ultramarines'in en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057372065505301>

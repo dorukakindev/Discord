@@ -15,12 +15,10 @@ T'au Empire'ın siyasi, ruhani ve idari merkezi; Ethereal High Council'in yeri. 
 
 ## Tarihçe
 
-Bölgeyi saran Warp fırtınaları Damocles Gulf'u uzun süre geçilmez kıldı; fırtınalar dindiğinde Imperium'un taş devri düzeyinde bıraktığı tür, uzaya açılmış bir uygarlığa dönüşmüştü. Erken tarih, ovaların göçebe savaşçılarıyla dağların kale kuran halkları arasındaki ve Mont'au, yani "Dehşet" diye anılan savaşlarla doluydu. Ova halkları Fio'taun kalesini teslim almak üzereyken Ethereal'ler ortaya çıkıp iki tarafı barışa ikna etti; kast düzeni ve Tau'va bu barıştan doğdu.
+T'au, T'au Empire'ın en önemli ve en kutsal dünyasıdır; onun anavatanı ve Sept dünyası olarak hizmet veren ve T'au'nun kültürel ve siyasi merkezidir — onlar, T'au'nun en önemli ve en kutsal evidir. T'au'nun en büyük özelliği, onun merkezidir — onlar, T'au'nun anavatanıdır ve onların varlığı, T'au'nun kültürel ve siyasi merkezinin kanıtıdır; bir T'au, bir gezegenin en merkezi halidir ve onların varlığı, bir imparatorluğun merkezinin kanıtıdır. T'au'nun en ünlü özelliği, onun Ethereal Caste'in evidir — onlar, T'au'nun liderlerinin evidir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır. T'au, T'au Empire'ın en önemli ve en kutsal dünyasıdır — onlar, bir imparatorluğun merkezinin somut halidir.
 
 ## Kanon Notu
 
 T'au'nun hızlı teknolojik yükselişinin ve Ethereal'lerin kökeninin nedeni kanonda kasıtlı olarak açıklanmamıştır; Imperial kaynakların feromon iddiası doğrulanmış bir mekanizma değildir.
 
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*; *Psychic Awakening: The Greater Good*
-
--# İlişkili kayıtlar: <#1551809146850910260>, <#1551809256649527381>, <#1551813361887617108>
+-# Kaynaklar: *Codex: T'au Empire — 10th Ed

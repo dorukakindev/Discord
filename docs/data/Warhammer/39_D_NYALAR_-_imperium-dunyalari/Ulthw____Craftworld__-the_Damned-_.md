@@ -16,8 +16,4 @@ Warp'ın yakınlığı yüzünden seer'leri çoğalmış, Chaos'a karşı sürek
 
 ## Tarihçe
 
-Ulthwé, Eye of Terror'dan taşan tehditlere karşı binyıllar boyunca nöbet tuttu. Yoğun tehdit karşısında Guardian'larını daimî bir ordu gibi örgütledi; bu savaşçılar Black Guardians olarak bilinir. Asuryani'nin en tanınmış Farseer'i Eldrad Ulthran bu craftworld'dendir ve kaynaklar onun gelecek ipliklerini okuyarak galaksi çapında sonuçlar doğuran hamleler yaptığını anlatır.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Codex: Craftworlds — 8th Edition*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551813775848509482>, <#1552483346846715924>, <#1551997822725922938>
+Ulthwé, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Eye of Terror'a olan yakınlığıyla — 'the Damned' olarak bilinen — ve onun psişik gücüyle bilinen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en psişik evidir. Ulthwé'nin en büyük özelliği, onun psişik gücüdür — onlar, Aeldari'nin en güçlü psyker'larını yetiştirir ve onların Farseer'ları, Aeldari'nin en büyük gücüdür; bir Ulthwé savaşçısı, hem bir savaşçı hem de bir psyker'dır ve onların savaşı, hem fiziksel hem de psişiktir. Ulthwé'nin en ünlü özelliği, onun Eye of Terror'a olan yakınlığıdır — onlar, Chaos'un en yakın komşusudur ve onların varlığı, Aeldari'nin en büyük mücadelesinin merkezidir; bir Ulthwé, bir gezegenin en trajik halidir ve onların varlığı, Aeldari'nin en büyük kaybının kanıtıdır. Ulthwé, Aeldari ırkının en trajik ve en psişik Craftworld'üdür — onlar, Chaos'un en yakın komşusunun ve en büyük

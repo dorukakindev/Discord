@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Ancient_Rylanor_-_Ist
 
 ## Tarihçe
 
-Rylanor — 'Kadim', 'Boyun Eğmeyen' — Büyük Sefer'de Emperor's Children'ın Venerable Dreadnought'u ve kahramanıydı; III. Lejyon'un 'Törenlerin Kadimi' olarak görev yaptı. Ölümcül yaralanıp Contemptor Dreadnought'a yerleştirilen bu figür, Isstvan III Vahşeti'nde hainleşen kardeşlerine karşı son direnişte düştü — 'lejyonun son sadık kadimi' olarak unutulmaz.
+Rylanor, Emperor's Children'ın en ünlü ve en trajik sadık üyesidir; 'Ancient of Rites' olarak bilinen ve Horus Heresy'de kendi Legion'unun ihanetini reddeden Rylanor, İmparatorluğun en onurlu ve en trajik kahramanlarından biridir — onlar, Emperor's Children'ın en onurlu ve en trajik üyesidir. Rylanor'un en büyük özelliği, onun sadakatidir — onlar, Fulgrim'e — kendi primarch'ına — karşı çıkan ve İmparator'a sadık kalan en onurlu savaşçıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır; bir Rylanor, hem bir savaşçı hem de bir kahramandır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Rylanor'un en ünlü özelliği, onun Fulgrim'e karşı çıkmasıdır — onlar, bir primarch'ın ihanetini reddeden ve onu lanetleyen en trajik savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Rylanor, Emperor's Children'ın en ünlü ve en trajik sadık üyesidir — onlar, bir sadakatin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

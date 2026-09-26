@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Gr
 
 ## Tarihçe
 
-Yvraine'in yeniden doğuşu Commorragh'ta başladı ve Biel-Tan'ın parçalanmasıyla hareket genişledi. Eldrad Ulthran'ın katılımıyla Ynnari, Croneswords'ü arayıp Imperium'un bazı güçleriyle geçici çıkar birliklerine girdi. Guilliman'ın dirilişinde de rol oynadıkları anlatılır.
+Ynnari, Aeldari ırkının en yeni ve en radikal kesimidir; Ynnead — Aeldari'nin ölüm tanrısı — 'a adanmış ve hem Asuryani hem de Drukhari'yi birleştirmeye çalışan bir harekettir — onlar, Aeldari'nin en büyük umudu ve en büyük ihtilafıdır. Ynnari'nin en büyük özelliği, onların birleştiriciliğidir — onlar, hem Craftworld'lerden hem de Commorragh'dan gelen Aeldari'ları birleştirir; bir Ynnari, hem bir savaşçı hem de bir misyonerdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ynnari'nin en ünlü özelliği, onların Ynnead'a olan inancıdır — onlar, ölüm tanrısının doğuşunun Slaanesh'i yeneceğine inanır ve onların savaşı, hem Slaanesh'e karşı hem de Aeldari'nin geleceği içindir; bir Ynnari, hem bir savaşçı hem de bir peygamberdir. Ynnari, Aeldari ırkının en yeni ve en radikal kesimidir — onlar, Aeldari'nin en büyük umudu ve en büyük ihtilafıdır.
 
--# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Rise of the Ynnari: Ghost Warrior — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1552483346846715924>, <#1551742665756901377>, <#1551814468458258434>, <#1551997822725922938>
+-# Kaynakla

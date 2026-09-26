@@ -8,6 +8,10 @@ Kategori: Imperial Kurum / Eğitim · Fraksiyon: Imperium of Man, Adeptus Minist
 
 Kurum Adeptus Ministorum'la, yani Ecclesiarchy'yle yakından bağlıdır ve eğitimin omurgası Imperial Creed'dir. Öğrenciler küçük yaşlardan itibaren dua, ilmihal, beden eğitimi, silah talimi ve mutlak itaat içinde büyür. Eğitmenler arasında kaynaklarda en sık anılanlar **Drill Abbot** ve **Drill Abbess**'lerdir: disiplini ve imanı aynı sertlikle öğreten, öğrencilerini sürekli eleyen hocalar.
 
+## Tarihçe
+
+Schola Progenium, İmparatorluğun yetim ve seçkin çocuklarını yetiştiren kurumudur; Imperial Guard subayları, Tempestus Scion'lar, Commissar'lar, Inquisitor adayları ve Sisters of Battle'ın büyük kısmı buradan çıkar. Schola Progenium'a girmek hem onur hem zorunluluktur — çocuklar genelde İmparatorluk için ölen ebeveynlerin yetimleridir ve burada yetiştirilmek, onlara İmparatorluğun en yüksek eğitimini ama aynı zamanda en katı disiplinini verir. Eğitim acımasızdır — fiziksel dayanıklılık, askeri taktik, dinî inanç ve mutlak itaat; Schola Progenium'dan çıkan bir çocuk, artık ailesi olmayan ama İmparatorluğa tamamen bağlı bir bireydir. Schola Progenium'un mezunları İmparatorluğun omurgasıdır — onlar olmadan ordu komuta edilemez, Inquisition işleyemez ve Ecclesiarchy boş kalır.
+
 Kurumun kuruluş tarihi ve yönetim şeması yayımlanmış kaynaklarda kesinleştirilmez. Hangi kurumlara ne ölçüde bağlı olduğu da yayından yayına farklı ayrıntıyla verilir. Değişmeyen çekirdek şudur: Schola, Imperium'un ölen hizmetkârlarının çocuklarını, babalarının ve annelerinin bıraktığı boşluğu dolduracak en güvenilir kadrolara dönüştüren bir makinedir. Bu kanal, kurumun kendisini ve mezunlarının Imperium'daki yerini ele alır; mezunların gittiği kurumların ayrıntısı kendi kanallarındadır.
 ---MSG---
 ## Mezunlar ve Kurumsal Ağ

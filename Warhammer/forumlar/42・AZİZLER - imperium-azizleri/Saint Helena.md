@@ -12,6 +12,6 @@ Order of the Key'de tam otuz yıl hizmet ettikten sonra Canoness mertebesine yü
 
 ## Tarihçe
 
-Saint Helena ('the Virtuous'), Adepta Sororitas kültünün büyük azizlerindendir; Order of the Fiery Heart (sonradan Order of Our Martyred Lady) kökeniyle bağlantılıdır. Mucizevi yaşamı ve İmparator'a sarsılmaz adanmışlığıyla anılır; kendi adını taşıyan savaş düzeni, sadakat ve sebatın simgesi olarak Sororitas geleneğinde yerini korur.
+Saint Helena, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Helena, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Helena'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Helena, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Helena'nın en ünlü özelliği, onun azize unvanıdır — onlar, İmparatorluğun en kutsal ve en önemli azizesidir ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Saint Helena, Sisters of Battle'ın en ünlü ve en kutsal azizesidir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

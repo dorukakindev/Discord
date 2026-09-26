@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e4/Dave_gallagher_crimso
 
 ## Tarihçe
 
-Zeist Campaign, T'au'nun Üçüncü Küre Genişlemesi sırasında İmparatorluk'un karşı-hücum seferidir; Space Marines ve Imperial Guard'ın ortak operasyonuyla T'au'nun Zeist sektöründeki ilerleyişi durduruldu. Kampanya, Imperium'un T'au'ya karşı kazandığı nadir stratejik zaferlerden biri sayılır.
+İmparatorluk'un T'au'ya karşı yürüttüğü en ünlü seferlerden biri olan Zeist Campaign, Imperialis'in Fifth Sphere Expansion sırasında T'au'nun ele geçirdiği dünyaları geri almak amacıyla başlatıldı. Sefer, birçok Imperial Guard alayının ve birçok Astartes Chapter'ının — aralarında Ultramarines, Dark Angels ve Black Templars'ın da bulunduğu — birlikte hareket ettiği nadir operasyonlardan biriydi. Zeist seferi T'au'nun seferden önce fethettiği sistemlerin büyük kısmını geri almayı başardı ve T'au'nun Imperialis'e karşı giriştiği en büyük genişlemeyi durdurdu. Bu sefer İmparatorluk tarihinde T'au'ya karşı kazanılmış en kayda değer zaferlerden biri olarak anılır ve Imperialis'in xeno'lar karşısında askeri üstünlüğünü koruyabildiğinin kanıtıdır.
 
 -# Kaynaklar: *Fandom wiki*

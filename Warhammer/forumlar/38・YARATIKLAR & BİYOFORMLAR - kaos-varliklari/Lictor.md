@@ -15,12 +15,8 @@ Rengini ve dokusunu çevresine uyduran pullarıyla neredeyse görünmez hâle ge
 
 ## Tarihçe
 
-Lictor (Tyranicus chameleo), Tyranid'in özel evrimleşmiş izci-suikastçı biyoformudur; görünmezlik kamuflajıyla sızar ve 'Feeder Tendrils' ile kurbanının beyin ve omurilik sıvısını çıkarıp anılarını Hive Mind için analiz eder — 'canlı istihbarat toplayıcı' olarak istilanın öncü gözü ve bıçağıdır.
+Lictor, Tyranid'in en gizli ve en sinsi avcısıdır; bir gezegenin savunmasını araştıran ve Tyranid ordusunun gelişini hazırlayan en sinsi organizma olan Lictor, Tyranid'in en gizli ve en sinsi silahıdır — onlar, Tyranid'in en gizli ve en sinsi avcısıdır. Lictor'un en büyük özelliği, onun sinsiliğidir — onlar, bir gezegenin savunmasını araştıran ve Tyranid ordusunun gelişini hazırlayan en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Lictor, hem bir organizma hem de bir keşif aracıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Lictor'un en ünlü özelliği, onun gizliliğidir — onlar, bir gezegenin savunmasını görünmez olarak araştıran en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır. Lictor, Tyranid'in en gizli ve en sinsi avcısıdır — onlar, bir keşif aracının ve Tyranid'in en sinsi gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Bukalemunu andıran pullar; dev pençeler ve kurbanı yakalayan kancalar; kurbanın beyin dokusunu tüketip anılarından bilgi edinmesini sağladığı anlatılan beslenme uzantıları. Salgıladığı feromon izleri Tyranid sürülerini avlanma bölgesine çeker.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551759784821137419>
+Bukalemunu andıran pullar; dev pençeler ve kurbanı yakalayan kancalar; kurbanın beyin dokusunu tüketip anılarından bilgi edi

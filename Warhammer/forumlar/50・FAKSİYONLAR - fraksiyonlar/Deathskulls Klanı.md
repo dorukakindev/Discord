@@ -16,6 +16,6 @@ Hırsız ve hurdacı Ork klanı; yağmalanmış teknolojiyi 'şanslı' sayan, a�
 
 ## Tarihçe
 
-Deathskull'lar Orkların hurdacıları ve hırsızlarıdır: savaş alanını silip süpürür, kendi ölülerinin bile dişlerini söker, buldukları her işe yarar parçayı tekrar kullanırlar. 'Looted' araçlarıyla ünlüdürler — İmparatorluk tanklarının Ork'a çevrilmiş hâlleri genelde Deathskull işidir.
+Deathskulls, Ork ırkının en kurnaz ve en yağmacı klanıdır; hırsızlık, yağma ve 'borrowed' teknolojiyle bilinen ve İmparatorluğun en sinsi ve en tehlikeli Ork düşmanlarından biridir — onlar, Ork'ların en kurnazıdır. Deathskulls'un en büyük özelliği, onların hırsızlığıdır — onlar, sadece savaşmak için değil, çalmak için de savaşır; bir Deathskull, hem savaşçı hem de hırsızdır ve onların savaşı, hem yağma hem de stratejidir. Deathskulls'un en ünlü özelliği, onların 'borrowed' teknolojisidir — onlar, çaldıkları teknolojiyi kullanır ve onların silahları, hem Ork hem de Imperial teknolojisinin karışımıdır; bir Deathskull, bir Imperial tankını bile çalabilir. Deathskulls, Ork ırkının en kurnaz ve en tehlikeli klanıdır — onlar, Ork'ların en sinsisi ve en yağmacısıdır.
 
 -# Kaynaklar: *Codex: Orks*

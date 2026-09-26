@@ -16,8 +16,6 @@ Aspect Warrior geleneğini merkeze alan ve Aeldari'nin kayıp dünyalarını ger
 
 ## Tarihçe
 
-Biel-Tan, Exodite dünyalarının ve maiden world'lerin savunmasına düzenli kuvvet göndermesi ve bu dünyalara yerleşen insan kolonilerine karşı yürüttüğü seferlerle tanınır. Leviathan'ın bir koluna karşı Valedor'da Iyanden'le birlikte savaştı. Gathering Storm döneminde Ynnari'nin Ynnead'i uyandırma girişimi, Slaanesh'e bağlı güçlerin saldırısıyla birleşince craftworld'ün infinity circuit'i parçalandı; Biel-Tan ayakta kaldı, ama ağır yara aldı ve halkının bir bölümü Ynnari'ye katıldı.
+Biel-Tan, Aeldari ırkının en büyük ve en askeri Craftworld'lerinden biridir; onun savaş geleneği ve militarist yapısıyla — Aeldari'nin en organize ve en savaşçı evidir — onlar, Aeldari'nin en disiplinli ve en ölümcül evidir. Biel-Tan'ın en büyük özelliği, onun savaş geleneğidir — onlar, Aeldari'nin en askeri Craftworld'üdür ve onların savaşçıları, Aeldari'nin en disiplinli ve en ölümcül savaşçılarıdır; bir Biel-Tan savaşçısı, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Biel-Tan'ın en ünlü özelliği, onun Aspect Warrior'larıdır — onlar, Aeldari'nin en iyi savaşçılarını yetiştirir ve onların varlığı, Aeldari'nin en ölümcül gücünün kanıtıdır. Biel-Tan, Aeldari ırkının en askeri ve en ölümcül Craftworld'üdür — onlar, savaşın ve disiplinin somut halidir.
 
--# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Valedor — Guy Haley*; *Codex: Aeldari — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1552483346846715924>, <#1551655323658494093>, <#1551742665756901377>
+-# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Valedor — Guy Haley*; *Codex: Aeldari —

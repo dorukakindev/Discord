@@ -16,8 +16,6 @@ Mournival, Horus'un kendi subaylarıyla kurduğu yakınlığın simgesiydi. Resm
 
 ## Tarihçe
 
-*Horus Rising*'de çember Ezekyle Abaddon, Horus Aximand, Tarik Torgaddon ve Hastur Sejanus'tan oluşur; Sejanus'un ölümünün ardından boşalan yeri Garviel Loken doldurur. Heresy'nin başında çember kan içinde ikiye bölündü: *Galaxy in Flames*'e göre Isstvan III'te Torgaddon, eski dostu Aximand'ın elinde öldü, Loken'in kaderi ise uzun süre belirsiz kaldı. Abaddon'ın sonraki yıllarda kurduğu Ezekarion, farklı bir yapı olsa da bu geleneğin gölgesini taşır.
+Mournival, Sons of Horus Legion'unun (sonra Black Legion) en üst savaş konseyidir; Horus'un kişisel danışma kurulu ve Legion'un en güçlü dört savaşçısından oluşan bu grup, Heresy'nin merkezindeki en etkili askeri yapıydı. Mournival'in üyeleri — Ezekyle Abaddon, Tarik Torgaddon, Horus Aximand (Little Horus) ve Garviel Loken — Horus'un en yakın danışmanları ve en güvenilir savaşçılarıydı; onların kararı, Legion'un stratejisini belirlerdi ve onların varlığı, Horus'un iradesinin somut haliydi. Mournival'in düşüşü, Heresy'nin en trajik hikâyelerinden biridir — Loken ve Torgaddon sadık kaldı ve öldü, Abaddon ve Aximand ihaneti seçti; Mournival'in bölünmesi, Legion'un bölünmesinin simgesiydi. Mournival'in adı, hâlâ Black Legion'un en karanlık tarihini temsil eder — onlar, Horus'un en sadık oğullarıydı ve onların ihaneti, İmparatorluğun en büyük yarasıdır.
 
--# Kaynaklar: *Horus Rising — Dan Abnett*; *Galaxy in Flames — Ben Counter*
-
--# İlişkili kayıtlar: <#1551809114328399874>, <#1551650246508150857>, <#1551638958352506881>, <#1551814951365115956>
+-# K

@@ -23,6 +23,10 @@ Rogue Trader'ların xenos'la kurduğu temas, özellikle Inquisition'ın dikkatin
 
 Rogue Trader'ların keşfettiği ve Imperium'a kazandırdığı dünyalar, sonradan Imperial yönetime devredilebilir; bazı hanedanlar ise keşfettikleri bölgeler üzerinde uzun süre neredeyse bağımsız bir hüküm sürdürür. Bu yapının ayrıntıları hanedandan hanedana değişir ve kaynaklarda tek bir kural olarak tanımlanmaz.
 
+## Tarihçe
+
+Rogue Trader'lar, İmparatorluğun en özgür ve en tehlikeli görevini taşıyanlardır; onlara verilen Warrant of Trade — İmparator veya High Lords of Terra tarafından imzalanmış antik bir belge — onlara İmparatorluk sınırlarının dışında ticaret, keşif ve savaş hakkı verir ve onları İmparatorluk kanunlarının çoğundan muaf tutar. Rogue Trader'ın görevi, bilinmeyen uzayı keşfetmek, yeni dünyalar bulmak,
+
 ## Önemli Figürler
 - **Lucian Gerrit**: Andy Hoare'ın *Rogue Star* ve *Star of Damocles* romanlarının merkezindeki Rogue Trader. Anlatılar, Damocles Gulf çevresinde T'au ile erken temasları ve bu temasların Imperium için doğurduğu gerilimleri işler.
 - **Janus Draik**: *Warhammer Quest: Blackstone Fortress* ile tanıtılan, kadim Blackstone Fortress'lerden birinin sırlarını araştıran Rogue Trader.

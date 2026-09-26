@@ -15,4 +15,4 @@ Screamer'lar, Tzeentch'in manta benzeri uçan iblisleridir — Warp'ın akıntı
 
 ## Tarihçe
 
-Screamer of Tzeentch ('Değişimin Avcısı'), Tzeentch'in uçan daemonik yaratığıdır — büyük bir manta biçiminde gökyüzünde süzülür ve avının üstüne şimşek çakarak çarpar. Warp'ta doğan bu yaratıklar 'gökyüzünün iblis köpekbalıkları' gibi sürüler hâlinde dolaşır; renkleri sür
+Screamer of Tzeentch, Tzeentch'in en ünlü ve en tehlikeli daemon'ıdır; Tzeentch'in Warp'taki en hızlı ve en ölümlü yaratıklarından biri olan Screamer, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Tzeentch'in en ünlü ve en tehlikeli daemon'udur. Scream

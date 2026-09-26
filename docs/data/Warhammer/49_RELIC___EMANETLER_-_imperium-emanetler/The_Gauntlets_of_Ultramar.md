@@ -14,6 +14,4 @@ Gauntlets'in gücü, hem fiziksel hem liderlik sembolüdür — Calgar'ın 'en �
 
 ## Tarihçe
 
-The Gauntlets of Ultramar, Roboute Guilliman'ın kendi elleriyle dövdüğü efsanevi güç eldivenleridir; içlerine gömülü bolter'larla hem silah hem yumruk olarak çalışır. Heresy sonrası Chapter'ın ilk Chapter Master'larından beri Ultramar'ın Lord'u taşır; Guilliman'ın dönüşüyle tekrar primarch'ın ellerine geçti.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Gauntlets of Ultramar, Ultramarines'in en ünlü ve en kutsal relic'idir; Guilliman'ın — Ultramarines'in primarch'ı — kullandığı ve onun en büyük savaşlarının simgesi olan bir çift eldivendir — onlar, Ultramarines'in en ünlü ve en kutsal hazinesidir. The Gauntlets of Ultramar'ın en büyük özelliği, onların gücüdür — onlar, bir primarch'ın en güçlü eldivenleridir ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Gauntlets of Ultramar kullanıcısı, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de semboliktir. The Gaunt

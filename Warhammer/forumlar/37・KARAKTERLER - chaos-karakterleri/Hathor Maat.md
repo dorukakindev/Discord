@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c0/Hathor_Maat_full.jpg/
 
 ## Tarihçe
 
-Hathor Maat, Thousand Sons'ın 3. Bursu'nun kaptanı ve Pavoni Kültü'nün Magister Templi'siydi — beden manipülasyonu ve biyokinesis disiplininin efendisi. Prospero'nun Düşüşü sırasında lejyonunun saflarındaydı; 'beden bükücü' kültünün başı olarak güzellik ve mükemmellik obsesyonunun — daha sonra Slaanesh'i besleyecek eğilimin — erken taşıyıcısıydı.
+Hathor Maat, Thousand Sons'ın en ünlü ve en tehlikeli sorcerer'ıdır; Thousand Sons'ın en gizli operasyonlarını yapan ve onun en tehlikeli psişik güçlerini kullanan Maat, İmparatorluğun en tehlikeli ve en gizli düşmanlarından biridir — onlar, Thousand Sons'ın en ünlü ve en tehlikeli sorcerer'ıdır. Hathor Maat'ın en büyük özelliği, onun psişik gücüdür — onlar, Thousand Sons'ın en tehlikeli sorcerer'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Maat, hem bir savaşçı hem de bir sorcerer'dır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Hathor Maat'ın en ünlü özelli��i, onun Thousand Sons'ın üyesidir — onlar, bir Legion'un en tehlikeli üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Hathor Maat, Thousand Sons'ın en ünlü ve en tehlikeli sorcerer'ıdır — onlar, bir psişik gücün ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

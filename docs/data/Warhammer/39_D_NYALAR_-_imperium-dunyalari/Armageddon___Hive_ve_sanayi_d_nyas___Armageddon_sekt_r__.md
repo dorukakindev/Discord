@@ -16,6 +16,4 @@ Fabrika dumanıyla kararmış gökyüzü, kül çölleri ve dev hive kentleriyle
 
 ## Tarihçe
 
-444.M41'deki First War for Armageddon, Angron ve Chaos kuvvetlerine karşı verildi. 941.M41'de Ghazghkull Thraka'nın Waaagh!'ı dünyayı vurdu ve Commissar Yarrick'in Hades Hive direnişiyle durduruldu. 998.M41'de Ghazghkull çok daha büyük bir Waaagh!'la döndü ve savaş hive'lar ile kül çöllerinde uzun bir yıpratmaya dönüştü. Great Rift'in açılışı yaralı dünyaya yeni tehditler getirdi; 11th Edition anlatısı, Ghazghkull'un dönüşüyle yeniden Armageddon'a odaklanır.
-
--# Kaynaklar: *Helsreach — Aaron Dembski-Bowden*; *Yarrick: Imperial Creed — David Annandale*; *Codex: Orks*
+Armageddon, İmparatorluğun en büyük ve en önemli dünyalarından biridir; onun hive city'leri ve sanayi kapasitesiyle — İmparatorluğun en büyük üretim merkezlerinden biridir — ve onun Ork'larla olan savaşlarıyla — İmparatorluğun en büyük savaşlarının merkezidir — onlar, İmparatorluğun en büyük ve en önemli dünyasıdır. Armageddon'un en büyük özelliği, onun savaşlarıdır — onlar, Ghazghkull Thraka'nın üç kez saldırdığı ve İmparatorluğun en büyük savaşlarının merkezidir; bir Armageddon, bir gezegenin en savaş halidir ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır. Armageddon'un en ünlü özelliği, onun hive city'leridir — onlar, İmparatorluğun en büyük şehirleridir ve onların varlığı, İmparatorluğun en büyük gücünün ka

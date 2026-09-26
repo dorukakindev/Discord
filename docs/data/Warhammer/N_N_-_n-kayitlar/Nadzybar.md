@@ -10,7 +10,7 @@
 
 ## Tarihçe
 
-Nadzybar, 634-765.M41 arası Sabbat Dünyaları Sektörü'ndeki Chaos kuvvetlerinin 'archon'uydu — yani overlord'u. Slaydo'nun elinden gelen ölümü Sabbat Seferi'nin ilk büyük İmparatorluk zaferi oldu; ancak boşluğu daha tehlikeli Urlock Gaur doldurdu. 'Seferin ilk kırbacı' olarak Chaos'un organizasyonlu başlangıcını temsil eder.
+Nadzybar, Word Bearers'ın en ünlü ve en korkulan Daemon Prince'idir; eskiden bir Word Bearers kaptanı olan ve Chaos'a yükselen Nadzybar, İmparatorluğun en korkulan ve en tehlikeli düşmanlarından biridir — onlar, Word Bearers'ın en ünlü ve en korkulan daemon'udur. Nadzybar'ın en büyük özelliği, onun gücüdür — onlar, bir Daemon Prince olarak İmparatorluğun en korkulan düşmanlarından biridir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Nadzybar, hem bir daemon hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Nadzybar'ın en ünlü özelliği, onun Word Bearers'ın üyesidir — onlar, bir Legion'un en korkulan üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Nadzybar, Word Bearers'ın en ünlü ve en korkulan Daemon Prince'idir — onlar, bir ihanetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058618205540432>

@@ -16,4 +16,4 @@ Primaris cerrahisine gönüllü olarak ilk girenlerden biri olan Calgar, 'Rubico
 
 ## Tarihçe
 
-Marneus Augustus Calgar, Ultramarines'in mevcut Chapter Master'ı, Greater Ultramar'ın Lord Savunucusu ve Ultramar Diyarı'nın başkenti Macragge'ın Lord'udur — galaksinin Doğu Hattı'ndaki en güçlü figür. Chapter'ın en ünlü lideri olarak 'Macragge'ın Efendisi' unvanını taşır; Tyranni
+Marneus Calgar, Ultramarines'in Chapter Master'ı ve İmparatorluğun en ünlü ve en saygın komutanıdır; Lord Macragge olarak bilinen ve Ultramar'ın en büyük savunmalarını yöneten Calgar, İmparatorluğun en efsanevi ve en onurlu lideridir — onlar, Ultramarines'in en ünlü ve en saygın l

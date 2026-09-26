@@ -12,6 +12,6 @@ Her chapter'ın gen-tohumu, nihai olarak kendi primarch'ından (ve dolayısıyla
 
 ## Tarihçe
 
-Gene-seed, Space Marine yaratımının temelidir — primarch'ın genetik materyalinden üretilen organ implantları ve progenoid bezleri dizisi. Her implant yeni bir organ, güç veya yetenek kazandırır; Chapter'ın genetik mirası ve kimliği bu tohumda saklıdır. Kaybı veya yozlaşması bir Chapter'ın ölümü demektir.
+Gene-seed, bir Space Marine'in genetik malzemesidir; Chapter'ın geleceğini taşıyan ve yeni Space Marine'lerin üretimini sağlayan kutsal biyolojik emanettir — olmadan bir Chapter, sadece bir nesil yaşar. Gene-seed, primarch'ın genetik kodundan türetilmiştir ve her Space Marine'in bedeninde iki progenoid gland olarak bulunur — biri göğüste, diğeri boyunda; bu organlar, Space Marine'in genetik mirasını taşır ve öldüğünde Apothecary tarafından çıkarılır. Gene-seed'in saflığı Chapter'ın kimliğidir — Blood Angels'ın gene-seed'i Red Thirst taşır, Space Wolves'un ki Canis Helix; ve gene-seed'deki mutasyon veya bozulma, Chapter'ın sonu demektir. İmparatorluk için gene-seed, en değerli kaynaktır — onu korumak için Space Marine'ler ölür, onu çalmak için Chaos warband'leri savaşır; ve bir Chapter'ın gene-seed'i kaybolursa, o Chapter'ın adı tarihten silinir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom

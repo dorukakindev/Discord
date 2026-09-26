@@ -15,12 +15,8 @@ Haruspex, savaş alanında öldürmekle yetinmeyip biyokütleyi o anda yutan bir
 
 ## Tarihçe
 
-Haruspex, Hive Mind'ın gezegensel istilanın son safhalarında biomas'ı mide bulandırıcı hızla tüketmesi için yarattığı vahşi Tyranid canavarıdır; sonsuz açlığı gidermek için güdülenen bu varlık, 'yutan canavar' olarak cephe hattının ötesinde savaş alanını 'yiyen' figürdür. Çok az düşman ona yaklaşmaya cesaret eder.
+Haruspex, Tyranid'in en büyük ve en tiksindirici yaratığıdır; bir Tyranid ordusunun en büyük yiyicisi olan ve onun en büyük savaşlarını yapan Haruspex, Tyranid'in en büyük ve en tehlikeli varlığıdır — onlar, Tyranid'in en büyük ve en tiksindirici yaratığıdır. Haruspex'in en büyük özelliği, onun açlığıdır — onlar, bir Tyranid ordusunun en büyük yiyicisidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Haruspex, hem bir yaratık hem de bir yiyicidir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Haruspex'in en ünlü özelliği, onun devasa boyutudur — onlar, bir Tyranid ordusunun en büyük ve en tiksindirici yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Haruspex, Tyranid'in en büyük ve en tiksindirici yaratığıdır — onlar, bir açlığın ve Tyranid'in en büyük tehdidinin somut halidir.
 
 ## Kanon Notu
 
-Haruspex'in savaş sırasında yuttuğu biyokütlenin Hive Fleet'e nasıl aktarıldığı kaynaklarda ayrıntılandırılmaz; genel tüketim döngüsü <#1551759780211589197> kanalında işlenir.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+Haruspex'in savaş sırasında yuttuğu biyokütlenin Hive Fleet'e nasıl aktarıldığı kaynaklarda ayrıntılandırılmaz; genel tüketim döng

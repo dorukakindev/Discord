@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fc/KiavahrSystem.jpg/rev
 
 ## Tarihçe
 
-Kiavahr, Raven Guard'ın ana dünyası Deliverance'ın ikiz gezegenidir; Forge Dünya olarak chapter'ın techmarine üssü — 'iki yüzlü' dünya: bir yanda fabrika diğer yanda hapisane.
+Kiavahr, Raven Guard'ın Chapter yurdu olan ve İmparatorluğun en dağlık ve en gizli dünyalarından biridir; onun dağları ve vadileri, Raven Guard'ın gizlilik geleneğinin somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Kiavahr'ın en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en dağlık ve en gizli dünyalarından biridir ve onların varlığı, Raven Guard'ın gizlilik geleneğinin temelidir; bir Kiavahr, bir Legion'un evinin ve onların savaşının merkezidir. Kiavahr'ın en ünlü özelliği, onun isyan tarihidir — onlar, Corax'ın doğumundan önce bir isyan gezegeniydi ve onların tarihi, Raven Guard'ın gerilla savaşı geleneğinin kaynağıdır; bir Kiavahr, bir isyanın ve bir kurtuluşun merkezidir. Kiavahr, Raven Guard'ın evinin ve onların ruhunun merkezidir — onlar, gizliliğin ve isyanın somut halidir.
 
 -# Kaynaklar: *Raven Guard Codexleri*
 -# İlişkili kayıtlar: <#1552848758746906684>

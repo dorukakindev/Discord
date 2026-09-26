@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/af/Luther_Coverart_Lesze
 
 ## Tarihçe
 
-Luther — 'Baş-Hain', 'Caliban'ın Efendisi' — eski Dark Angels'ın ikinci en üst rütbeli subayıydı; kibir ve kıskançlıkla Büyük Sefer sırasında Chaos'a düştü ve Fallen'ların — İmparator'a ihanet eden DA'lerin — lideri oldu. Lion El'Jonson'la Caliban'ın yok oluşunda son düellosunu yapan bu figür, chapter'ın 'orijinal günahı' olarak İç Halka'nın en karanlık sırrıdır.
+Luther, Dark Angels'ın en ünlü ve en trajik ihanetcisidir; eskiden Lion El'Jonson'ın en sadık takipçisi olan ve Dark Angels'ı ihanet eden Luther, İmparatorluğun en trajik ve en önemli figürüdür — onlar, Dark Angels'ın en trajik ve en önemli üyesidir. Luther'in en büyük özelliği, onun ihanetidir — onlar, bir primarch'ın en sadık takipçisinin ihanetidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Luther, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Luther'in en ünlü özelliği, onun Caliban'daki ihanetidir — onlar, Dark Angels'ın ev gezegenini yok eden ve Chapter'ı ikiye bölen en trajik ihanettir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Luther, Dark Angels'ın en ünlü ve en trajik ihanetcisidir — onlar, bir ihanetin ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

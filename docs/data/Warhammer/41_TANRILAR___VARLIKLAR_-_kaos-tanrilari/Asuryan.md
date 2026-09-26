@@ -15,12 +15,8 @@ Phoenix King olarak anılan Asuryan, uzak, nadiren eyleme geçen, yasa koyucu bi
 
 ## Tarihçe
 
-Mite göre Khaine'in Aeldari arasında yol açtığı kıyımdan sonra Asuryan, hiçbir tanrının ölümlülere artık doğrudan müdahale etmemesini buyurdu. Isha ve Kurnous bu yasayı çiğneyip çocuklarıyla gizlice konuştuğunda, kendi koyduğu yasaya bağlı kalarak onları isteksizce Khaine'e teslim etti. Bu karar, tanrılarla ölümlüler arasındaki ayrılığın mitolojik karşılığı olarak okunur.
+Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır; Aeldari panteon'unun en yüksek tanrısı olan ve onların en kutsal figürü olan Asuryan, Aeldari'nin en kutsal ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en kutsal tanrısıdır. Asuryan'ın en büyük özelliği, onun kutsallığıdır — onlar, Aeldari panteon'unun en yüksek tanrısıdır ve onların varlığı, Aeldari'nin en büyük kutsallığının kanıtıdır; bir Asuryan takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Asuryan'ın en ünlü özelliği, onun Phoenix King olmasıdır — onlar, Aeldari'nin en yüksek ve en kutsal tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır — onlar, bir kutsallığın ve Aeldari'nin en büyük geleneğinin somut halidir.
 
 ## Kanon Notu
 
-Genel anlatıya göre Fall sırasında Slaanesh tarafından yutuldu ya da yok edildi; akıbeti kaynaklarda ayrıntılı ve tek bir kesinlikle anlatılmaz. Mitler kutsal hikâyedir, tarihsel tutanak değildir.
-
--# Kaynaklar: *Codex: Aeldari — 9th Edition*; *Asurmen: Hand of Asuryan — Gav Thorpe*; *Codex: Eldar — 6th Edition*
-
--# İlişkili kayıtlar: <#1551810744754905123>, <#1551997822725922938>, <#1551812290439942255>, <#1551814105046851615>
+Genel anlatıya göre Fall sırasında Slaanesh tarafından yutuldu ya da yok edildi; akıbeti kaynaklarda ayrıntılı ve tek bir kesinlikle anlatılmaz. Mitler kut

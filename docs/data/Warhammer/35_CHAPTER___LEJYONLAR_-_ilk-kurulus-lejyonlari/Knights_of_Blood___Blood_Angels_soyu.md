@@ -16,8 +16,8 @@ Sanguinius soyunun kusurunu en karanlık biçimde taşıyan ve bu yüzden Imperi
 
 ## Tarihçe
 
-Uzun bir sefer boyunca işledikleri aşırılıklar nedeniyle High Lords tarafından renegade ilan edilen Knights of Blood, Imperium'un dışında kaldılar. M41'in sonunda Baal'in Tyranid'lere ve daemon'lara karşı savunmasında yeniden ortaya çıktılar. Baal Primus'ta savunma çökerken öteki Chapter'ların geri çekilebilmesi için Black Rage'in pençesinde düşmanın üzerine atıldılar ve bu saldırıda büyük ölçüde yok oldular.
+Knights of Blood, Blood Angels soyu ve onların en vahşi ve en korkulan halef Chapter'ıdır; onların savaş doktrini, Blood Angels'ın Red Thirst'ünün en kontrolsüz halidir ve onlar, İmparatorluğun en acımasız ve en kana susamış savaşçılarıdır. Knights of Blood'un en büyük özelliği, onların vahşetidir — onların savaşı, sadece öldürmek değil, tamamen yok etmektir; bir Knight of Blood, düşmanını parçalar ve onların savaş alanı, bir mezbahadan farksızdır. Knights of Blood'un en büyük trajedisi, onların Red Thirst'ünün en ağır halini taşımasıdır — onların savaşçıları, Black Rage'e diğer Chapter'lardan daha sık düşer ve onların sayısı, sürekli azalır; ama onların savaşı, İmparatorluğun en acımasız savunmasıdır. Knights of Blood, İmparatorluğun en vahşi ve en korkulan Chapter'ıdır — onlar, Sanguinius'un mirasının en karanlık halidir.
 
 -# Kaynaklar: *The Devastation of Baal — Guy Haley*; *Codex: Blood Angels*
 
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809334483361823>
+-# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809

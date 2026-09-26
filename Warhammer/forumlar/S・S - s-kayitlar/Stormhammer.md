@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Stormhammer2.jpg/revi
 
 ## Tarihçe
 
-Stormhammer, İmparatorluk'un eski 'süper-ağır' Baneblade varyantıdır; standart Baneblade'den daha ağır zırh ve ek silah sistemleri taşıyan nadir bir savaş platformu. Modern ordularda neredeyse hiç görülmez — 'efsanevi süper-ağır' statüsünde.
+Stormhammer, Imperial Guard tarafından kullanılan en büyük ve en güçlü ağır savaş tankıdır; onun devasa boyutu ve silahlandırmasıyla — bir düşman zırhlısını veya kale duvarını yıkabilen bir araçtır — onlar, Imperial Guard'ın en güçlü ve en yıkıcı tankıdır. Stormhammer'ın en büyük özelliği, onun Stormhammer Cannon'udur — onun topu, bir düşman Titan'ını bile yok edebilir; bir Stormhammer, bir düşman pozisyonunu tek atışla yok edebilir ve onların varlığı, bir Imperial Guard saldırısının en güçlü silahıdır. Stormhammer'ın en ünlü görevi, Imperial Guard'ın en zorlu savaşlarıdır — onlar, düşmanın en güçlü zırhlısını yok etmek için kullanılırlar ve onların varlığı, Imperial Guard'ın en güçlü silahıdır. Stormhammer, Imperial Guard'ın en güçlü ve en yıkıcı tankıdır — onlar, bir saldırının en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848833946583121>

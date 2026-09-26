@@ -15,12 +15,8 @@ Savaşta yıkılan Necron'ların yeniden ayağa kalkmasını sağlayan sistemler
 
 ## Tarihçe
 
-Onarılamayacak ölçüde hasar gören bedenler sahadan kaybolur; kaynaklar bunu, Necron'un tomb world'e geri çağrılması olarak anlatır. Bu yüzden Necron'larla savaşmış Imperial güçler çoğu zaman ardında hiçbir ceset bırakmayan bir düşmanla karşılaştıklarını bildirir.
+Reanimation Protokolleri, Necron'ların yaşayan metal bedenlerindeki kendi kendini onarma sistemlerinin genel adıdır; düşen bir Necron savaşçısı sahada parçalansa bile canoptek scarab'lar ve gömülü nano-düzenekler onu yeniden birleştirir. Sistem, Necron bedeninin her parçasında çalışır: necrodermis (yaşayan metal) hücreleri kendi kendini tamir eder ve bir Necron'u tamamen yok etmek için onu atom seviyesinde parçalamak gerekir — sıradan bolter atışları yeterli değildir. Hasar ağır olduğunda savaşçı 'düşer' ama bedeni yerde onarılır ya da mezar dünyasına teleportla çekilir; orada daha büyük onarım görür ve tekrar savaşa sürülür. Bu yüzden Necron orduları ölümsüz görünür — kayıpları asla kalıcı değildir ve savaşın bitiminde sayıları değişmemiş olabilir. Protokoller sadece bedenleri onarır; nefretere (beyin yok edilirse) veya flayer virüsü tarafından bozulan zihinleri kurtaramaz.
 
 ## Teknik / Biyolojik Özellikler
 
-Protokoller hem bedenin kendini onarmasını hem de geri çağırmayı kapsar; Canoptek construct'lar bakım ve onarımda rol oynar. Protokolün zamanla zihni aşındırıp aşındırmadığı gibi sorular kaynaklarda açık bırakılır.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
+Protokoller hem bedenin kendini onarmasını hem de geri çağırmayı kapsar; Canoptek construct'lar bakım ve onarımda rol oynar. Protokolün zamanla zihni aşındırıp

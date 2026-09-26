@@ -12,6 +12,4 @@ Horus'un ölümünden sonra pençe kayboldu, ama yüzyıllar sonra Abaddon, Horu
 
 ## Tarihçe
 
-The Talon of Horus, Abaddon'un sağ elindeki devasa kombinasyon silahıdır — babasının meşhur pençeli eldiveninin üzerine monte edilmiş storm bolter'la birleşik bir relic. Horus'un orijinal Lightning Claw'undan dövülmüştür; hem Black Legion'un iktidar simgesi hem İmparatorluk'un en nefret edilen silahıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Talon of Horus, Chaos'un en ünlü ve en korkulan relic'idir; Horus'un — İmparator'un en sevgili oğlu ve en büyük haini — kullandığı ve onun en büyük savaşlarının simgesi olan bir eldiven/pençe kombinasyonudur — onlar, Chaos'un en ünlü ve en korkulan silahıdır. The Talon of Horus'un en büyük özelliği, onun gücüdür — onlar, bir primarch'ın en güçlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Talon of Horus kullanıcısı, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. The Talon of Horus'un en ünlü özelliği, onun Horus'a ait olmasıdır — onlar, İmparatorluğun en büyük haininin simgesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. The Talon of Horus, Chaos'un en ünlü ve en korkulan relic'idir — onla

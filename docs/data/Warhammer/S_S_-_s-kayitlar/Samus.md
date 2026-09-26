@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Euphrati_KeelerSiege.
 
 ## Tarihçe
 
-Samus, Chaos Undivided'ın daemon'udur — 'Samus burada' mesajıyla bilinen dehşet verici varlık olarak Horus Heresy'nin en ürkütücü figürlerinden biridir. 63-19 dünyasındaki ilk karşılaşmada bir ölümlüyü sahiplenip İmparatorluk güçlerini delirten bu varlık, Terra Kuşatması sırasında tekrar ortaya çıktı; 'etten giren fısıltı' olarak Enuncia korkusunun ve Warp'ın en kişisel biçimde sızan temsilcisidir.
+Samus, Chaos'un en gizli ve en tehlikeli daemon'ıdır; 'I am Samus, the Man of the Jackal' diyen ve İmparatorluğun en gizli operasyonlarında ortaya çıkan Samus, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli daemon'udur. Samus'un en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli daemon'dur ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Samus, hem bir daemon hem de bir sırdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Samus'un en ünlü özelliği, onun 'Man of the Jackal' lakabıdır — onlar, Chaos'un en gizli ve en tehlikeli daemon'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Samus, Chaos'un en gizli ve en tehlikeli daemon'ıdır — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Horus Heresy romanları*
 -# İlişkili kayıtlar: <#1552850041440444418>

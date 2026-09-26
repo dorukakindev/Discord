@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/de/Nykona_Sharrowkyn.jpg
 
 ## Tarihçe
 
-Nykona Sharrowkyn, 31. Binyıl başında Raven Guard'ın en ölümcül üyelerinden biriydi; rezil Isstvan V Drop Site Massacre'da ilk saldırı dalgasıyla konuşlandırılıp o karanlık günlerdeki umutsuz savaşlardan sağ çıktı — ama lejyonundan ayrı düştü. 'Kayıp avcı' olarak Lucius the Eternal'la olan efsanevi düellosu ve hayalet gibi hayatta kalmasıyla chapter'ın en gizemli figürlerinden biridir.
+Nykona Sharrowkyn, Raven Guard'ın en gizli ve en ölümcül keskin nişancısıdır; Horus Heresy sırasında kendi Legion'unun ihanetini reddeden ve İmparator'a sadık kalan en gizli savaşçı olan Sharrowkyn, İmparatorluğun en gizli ve en onurlu üyesidir — onlar, Raven Guard'ın en gizli ve en onurlu üyesidir. Nykona Sharrowkyn'in en büyük özelliği, onun gizliliğidir — onlar, bir keskin nişancının en büyük ustasıdır ve onların varlığı, Raven Guard'ın en gizli gücünün kanıtıdır; bir Sharrowkyn, hem bir savaşçı hem de bir hayalettir ve onların savaşı, hem fiziksel hem de sinsidir. Nykona Sharrowkyn'in en ünlü özelliği, onun Horus Heresy'deki sadakatidir — onlar, kendi Legion'unun düşüşünü gören ve İmparator'a sadık kalan en trajik savaşçıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Nykona Sharrowkyn, Raven Guard'ın en gizli ve en ölümcül keskin nişancısıdır — onlar, bir hayaletin ve Raven Guard'ın en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

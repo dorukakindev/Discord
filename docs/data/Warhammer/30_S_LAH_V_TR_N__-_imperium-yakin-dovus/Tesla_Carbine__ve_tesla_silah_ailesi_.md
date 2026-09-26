@@ -16,8 +16,6 @@ Hedefe canlı bir şimşek gibi saldıran, isabet ettiği yerden çevresindeki d
 
 ## Tarihçe
 
-Immortal'ların gauss blaster'a alternatif olarak taşıdığı silahtır. Aynı teknolojinin daha büyük biçimleri tesla cannon ve tesla destructor gibi silahlar olarak Necron araçlarında ve ağır platformlarında kullanılır.
+Tesla Carbine ve tesla silah ailesi, Necron'ların elektrik bazlı silahlarıdır; hedefe elektrik arkı fırlatan ve hem organik hem de mekanik hedefleri etkileyen, Necron'un yaşayan metal teknolojisinin parçası olan gelişmiş enerji silahlarıdır. Tesla Carbine'in atışı, hedefe çarptığında elektrik zinciri oluşturur — bir atış, birden fazla hedefi etkiler ve Necron'un tesla silahları, bir Imperial Guard mangasını tek salvoda devirir; ve tesla enerjisi, hem canlı dokuyu hem de makineyi yakabilir. Tesla silah ailesi, tesla carbine'den tesla destructor'a kadar çeşitlidir — bir tesla destructor, bir Imperial tankını veya bir Knight'ı tek atışta devirebilir; ve tesla teknolojisi, Necron'un en çok yönlü silah sistemidir. Tesla Carbine, Necron'un teknolojik üstünlüğünün simgesidir — onların silahları, İmparatorluğunkinden daha temiz, daha güçlü ve daha ölümcüldür.
 
--# Kaynaklar: *Codex: Necrons — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
+-# Kaynaklar: *Codex: N

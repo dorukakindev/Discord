@@ -15,12 +15,8 @@ Adepta Sororitas'ın silahlı kollarıdır: Emperor'a imanı savaş disiplini ve
 
 ## Tarihçe
 
-Alicia Dominica ile yol arkadaşları, sonradan Orders Militant Majoris olarak bilinecek ilk tarikatların kurucusu sayılır; Ebon Chalice, Our Martyred Lady, Valorous Heart, Sacred Rose, Bloody Rose ve Argent Shroud bunlardır. Our Martyred Lady'nin önceki adı Order of the Fiery Heart'tır; ad, Saint Katherine'in şehadetinden sonra değişti. Orders Militant aynı zamanda Ordo Hereticus'un Chamber Militant'ı olarak görev yapar.
+Orders Militant, Adepta Sororitas'ın en önemli ve en ölümcül askeri koludur; onların görevi, İmparator'un düşmanlarını yok etmek ve onun kilisesini korumaktır ve onlar, İmparatorluğun en fanatik ve en ölümcül askeri gücüdür. Orders Militant'ın en büyük özelliği, onların fanatikliğidir — onlar, İmparator'a olan inançlarıyla savaşır ve onların savaşı, hem askeri hem de dini bir seferdir; bir Order Militant üyesi, hem bir savaşçı hem de bir rahibedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Orders Militant'ın en ünlü özelliği, onların Sisters of Battle'ıdır — onlar, İmparatorluğun en fanatik ve en ölümcül kadın savaşçılarıdır ve onların varlığı, İmparatorluğun en kutsal gücünün kanıtıdır. Orders Militant, Adepta Sororitas'ın en önemli ve en ölümcül askeri koludur — onlar, inancın ve çeliğin birleşimidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Power armour ve bolter, flamer, melta geleneği; Rosarius; savaş ilahileri; Celestian, Seraphim, Retributor ve Dominion kadroları; her Order'ın başında bir Canoness.
-
--# Kaynaklar: *Codex: Adepta Sororitas*; *Faith and Fire — James Swallow*; *Hammer and Anvil — James Swallow*
-
--# İlişkili kayıtlar: <#1551753444308811807>, <#1551808932744269985>, <#1551651549804236801>, <#1551815304252887041>, <#1551810771472883713>
+Power armour ve bolter, flamer, melta geleneği; Rosarius; savaş ilahileri; Celestian, Seraph

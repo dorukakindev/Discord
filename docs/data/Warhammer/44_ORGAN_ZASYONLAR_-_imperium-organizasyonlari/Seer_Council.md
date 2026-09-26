@@ -16,8 +16,4 @@ Craftworld'lerin yönetimi genellikle Farseer'lerden oluşan Seer Council'in eli
 
 ## Tarihçe
 
-Asuryani toplumunda bir birey hayatı boyunca farklı Path'ler izler; psişik yeteneğini geliştirenler Warlock, sonunda Farseer olur. Seer Council, bu yolun en ileri noktasındaki bilicilerin ortak aklıdır ve Craftworld'lerin binlerce yıllık hayatta kalma stratejisinin merkezinde durur. Ulthwé'nin Farseer'i Eldrad Ulthran, konseylerin en tanınmış siması olarak Imperium'la dolaylı ya da doğrudan temaslarda sık sık öne çıkar.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Seer — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551810506078290021>, <#1551818131679215728>
+Seer Council, bir Craftworld Aeldari'nin en yüksek ruhani ve stratejik konseyidir; Farseer'lerden — Eldari'nin en güçlü psyker'ları — oluşur ve Craftworld'ün geleceğini, savaş stratejisini ve ruhsal sağlığını yönetir. Seer Council'in üyeleri, Eldari'nin en yaşlı ve en bilge varlıklarıdır — onların psişik gücü, geleceği görmelerini ve Warp'ın akıntılarını okumalarını sağlar; bir Seer Council'in kararı, Craftworld'ün kaderini belirler ve onların rehberliği olmadan Eldari, Slaanesh'in ve diğer tehditlerin karşısında kaybolur. Seer Council'in en büyük görevi, Craftworld'ü korumaktır — onlar Infinity Circuit'i yönetir, spirit stone'ları denetler ve Eldari ruhunun Slaanesh'e düşmemesi için çalışır; ve onların savaş gücü, Craftworld'ün son sa

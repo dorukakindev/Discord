@@ -9,7 +9,7 @@ Noise Marine'lerin ağır sonik silahı; tek yoğun bas darbesiyle beden parçal
 
 ## Tarihçe
 
-Slaanesh Noise Marine'lerinin ağır sonik silahı; bas notasını patlayıcı ses-kresendo'suna dönüştürüp göz kürelerini ve iç organları patlatır. Frekans değiştirilerek etki ayarlanır — savaşın en 'estetik' versiyonu.
+Blastmaster, Emperor's Children'ın en ünlü ve en ölümlü silahıdır; onların Emperor's Children'ın en güçlü ve en ölümlü ses silahı olan ve onun en tehlikeli operasyonlarını yapan Blastmaster, Emperor's Children'ın en güçlü ve en ölümlü silahıdır — onlar, Emperor's Children'ın en ünlü ve en ölümlü silahıdır. Blastmaster'ın en büyük özelliği, onun sesidir — onlar, Emperor's Children'ın en güçlü ses silahıdır ve onların varlığı, Emperor's Children'ın en büyük gücünün kanıtıdır; bir Blastmaster, hem bir silah hem de bir ses aracıdır ve onların varlığı, Emperor's Children'ın en büyük silahının somut halidir. Blastmaster'ın en ünlü özelliği, onun Noise Marine'lerin kullanımıdır — onlar, Emperor's Children'ın en ölümlü birliğinin en ölümlü silahıdır ve onların varlığı, Emperor's Children'ın en büyük gücünün kanıtıdır. Blastmaster, Emperor's Children'ın en ünlü ve en ölümlü silahıdır — onlar, bir sesin ve Emperor's Children'ın en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

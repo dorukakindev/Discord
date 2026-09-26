@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Stormhawk008.png/revi
 
 ## Tarihçe
 
-Stormhawk Interceptor, Adeptus Astartes'in hava-üstünlük avcısı ve gunship'idir; Stormtalon'un daha ağır ve daha güçlü kuzenidir. Hem uzayda hem atmosferde uçabilir, kalın ön zırhı ve ağır silahlarıyla gerçek bir 'köpek dövüşü' savaşçısıdır. Yörüngedeki Astartes savaş gemilerinin mag-cradle'larından inanılmaz hızla iner ve 'Vehemence Taarruz Deseni'yle Infernum Halo işaret fişekleri yayarak gökyüzünün kimin olduğunu gösterir. Işıltılı halosu 'İmparatorun gökyüzü' sinyalidir.
+Stormhawk Interceptor, Legiones Astartes tarafından kullanılan ve Stormhawk Assault Gunship'in bir varyantı olan bir hava savaş uçağıdır; onun hızı ve manevra kabiliyetiyle — düşman uçaklarını havadan imha eden bir araçtır — onlar, Space Marine'lerin en hızlı ve en ölümcül hava savaş uçağıdır. Stormhawk Interceptor'ın en büyük özelliği, onun hızıdır — onlar, bir düşman uçağını bile geçebilir; bir Stormhawk Interceptor, bir düşman uçağını saniyeler içinde parçalayabilir ve onların varlığı, bir Space Marine hava üstünlüğünün merkezidir. Stormhawk Interceptor'ın en ünlü görevi, Horus Heresy'deki çeşitli hava savaşlarıdır — onlar, Space Marine Legion'larının en hızlı hava savaş uçağıydı ve onların varlığı, bir Legion'un hava üstünlüğünün somut halidir. Stormhawk Interceptor, Space Marine'lerin en hızlı ve en ölümcül hava savaş uçağıdır — onlar, bir Legion'un hava üstünlüğünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058757372551271>

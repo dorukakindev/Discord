@@ -14,16 +14,6 @@ Boynuzlu başı, dört kolu ve çoğu zaman kıskaç biçimli pençeleriyle bir 
 
 ## Tarihçe
 
-Keeper of Secrets — 'Ayartıcının Getiricisi', 'Acının Şöleniyicisi', 'Slaanesh'in Katili', 'Etin Yağmalayıcı' — Slaanesh'in hermafrodit Greater Daemon'ıdır; iğrenç ama büyüleyici bu varlık, Dark Prince'in karanlık arzularının en mükemmel bedenidir. Çok kollu ve zarif-ölümcül bu figür, 'zevkin kendisinin efendisi' olarak Slaanesh'in en büyük hizmetkârlarından biridir.
-
-## Teknik / Biyolojik Özellikler
-
-Hızlı ve zarif bir savaş tarzı, zihin bulandıran büyüler, ölümlüleri büyüleyen bir varlık. Kaynaklar, bedeninin ve kokusunun bile duyuları esir aldığını anlatır.
-
-## Önemli Olaylar
-
-Emperor's Children'ın Fulgrim ile yeniden sahneye çıktığı dönemde Slaanesh kuvvetlerinin genişleyen etkinliği genel bağlamdır; tek bir Keeper of Secrets'a bağlanan kesin bir olay burada kayda geçirilmemiştir.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Emperor's Children*
+Keeper of Secrets, Slaanesh'in en ünlü ve en korkulan Greater Daemon'ıdır; Slaanesh'in en büyük ve en gizli sırlarını saklayan en tehlikeli daemon olan Keeper of Secrets, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Slaanesh'in en ünlü ve en korkulan daemon'udur. Keeper of Secrets'ın en büyük özelliği, onun gizliliğidir — onlar, Slaanesh'in en gizli sırlarını saklayan en tehlikeli daemon'dur ve onların varlığı, Slaanesh'in en büyük gücünün kanıtıdır; bir Keeper of Secrets, hem bir daemon hem de bir sır taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Keeper of Secrets'ın en ünlü özelliği, onun dört kolu olmasıdır — onlar, Slaanesh'in en güçlü ve en korkulan daemon'ıdır ve onların varlığı, Slaanesh'in en büyük gücünün kanıtıdır. Keeper of Secrets, Slaanesh'in en ünlü ve en korkulan Greater Daemon'ıdır — onlar, bir sırrın ve Chaos'un en
 
 -# İlişkili kayıtlar: <#1551588050960781432>, <#1551714793138954350>, <#1551587957440249937>, <#1551587961009741945>

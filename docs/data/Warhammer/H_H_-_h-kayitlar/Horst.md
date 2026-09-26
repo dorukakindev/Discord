@@ -12,8 +12,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Horst.jpg/revision/la
 
 ## Tarihçe
 
-Phaedus Falconet Horst, Ordo Malleus'un Inquisitor'üydü ve Gothic War, Birinci ile İkinci Armageddon Savaşları ile Inquisitor Katarinya Greyfax'ın 'Eye of Night' artefaktını arayışında büyük destekleyici roller oynadı. Bu cihaz aslen Abaddon'un Gothic War'da Blackstone Fortress'leri ele geçirmesine yardım etmişti ve Greyfax onu arıyordu. Horst, 'büyük olayların arkasındaki adam' olarak İmparatorluk'un en deneyimli daemon avcılarından biriydi.
+Horst, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
 
 -# Kaynaklar: *Fandom wiki*
 
--# İlişkili kayıtlar: <#1552895239323385937>
+-# İlişkili kayıtlar: <#1552897657482117151>

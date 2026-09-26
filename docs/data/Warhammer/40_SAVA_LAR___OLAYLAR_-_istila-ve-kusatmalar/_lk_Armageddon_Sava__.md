@@ -12,4 +12,7 @@ Khorne'a adanmış Daemon Primarch Angron, dört World Eaters bölüğü ve deva
 
 ## Khorne'un Yolculuğu
 444.M41'de Armageddon'a ilk büyük saldırı Ork'tan değil, Kaos'tan geldi: İblis Primarch Angron ve World Eaters'ı, Khorne'un sekiz haftalık bir geçit açmasıyla gezegene indi. Milyonlarca kültist ve Chaos Space Marine hive şehirlerini kuşattı. Space Wolves (Logan Grimnar komutasında) ilk savunmayı kurdu; son umut ise İmparatorluk'un en gizli silahıydı — bir şirket dolusu Grey Knight Terminator. Angron'u ancak yüz Gri Şövalye durdurabildi; çoğu öldü ama İblis Primarch Warp'a geri sürüldü. Savaş, gizli tutulan Chaos gerçeğinin İmparatorluk kamuoyuna sızdığı ilk büyük kırılmaydı.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+İlk Armageddon Savaşı, Imperialis'in Angron ve World Eaters'ın saldırısı karşısında kazandığı en trajik zaferlerden biridir. Angron, Armageddon'u — Imperialis'in en önemli Hive World'lerinden biri — ele geçirmeye çalıştı ve World Eaters'ın tam gücüyle saldırdı. İmparatorluk kuvvetleri, Armageddon'u savunmak

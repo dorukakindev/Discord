@@ -16,8 +16,4 @@ Balta biçimli bir gövdeye oturtulmuş, dişli zinciri yüksek hızla dönen a�
 
 ## Tarihçe
 
-World Eaters, Angron'un komutası altında ve Butcher's Nails'in körüklediği öfkeyle chainaxe'ı neredeyse Legion kimliğinin parçası hâline getirdi. Angron'un kendisi de adlandırılmış zincirli baltalar taşımıştır. Heresy'den sonra Khorne Berzerker'ları bu geleneği Long War boyunca sürdürdü; pek çok Khorne kültü de chainaxe ile anılır.
-
--# Kaynaklar: *Codex: World Eaters*; *Betrayer — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551809718085746759>, <#1551815867845578773>, <#1551649073432494263>, <#1551812225570836561>
+Chainaxe, World Eaters'ın en ünlü ve en vahşi yakın dövüş silahıdır; onların World Eaters'ın en güçlü ve en ölümlü zincir baltası olan ve onun en vahşi savaşlarını yapan Chainaxe, World Eaters'ın en güçlü ve en ölümlü silahıdır — onlar, World Eaters'ın en ünlü ve en vahşi yakın dövüş silahıdır. Chainaxe'ın en büyük özelliği, onun vahşetidir — onlar, World Eaters'ın en güçlü zincir baltasıdır ve onların varlığı, World Eaters'ın en büyük gücünün kanıtıdır; bir Chainaxe, hem bir silah hem de bir vahşettir ve onların varlığı, World Eaters'ın en büyük silahının somut halidir. Chainaxe'ın en ünlü özelliği, onun Khorne Berzerkers'ın kullanımıdır — onlar, World Eaters'ın en vahşi birliğinin en ölümlü silahıdır ve onların varlığı, World Eaters'ın en büyük gücünün kanıtıdır. Cha

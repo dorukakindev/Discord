@@ -38,6 +38,10 @@ Daemon Prince, lesser daemon'lar gibi tanrısının özünden koparılmış bir 
 **Be'lakor**
 Be'lakor, kaynaklarda ilk Daemon Prince olarak sunulan ve Dark Master adıyla anılan figürdür. Tanrılardan biriyle değil, Chaos'un bütünüyle ilişkilendirilir; kendi başına hükmetme arzusu yüzünden tanrılar tarafından lanetlendiği anlatılır. Be'lakor'un kökeni Warhammer Fantasy geleneğinden gelir ve Warhammer 40,000'deki rolü sonraki yayınlarda genişletilmiştir. Kökeninin ayrıntıları kaynaklara göre farklılık gösterir.
 
+## Tarihçe
+
+Chaos Daemons, WH40K evreninin en korkulan ve en ölümcül varlıklarıdır; Warp'ta yaşayan ve Chaos'un dört büyük tanrısının (Khorne, Tzeentch, Nurgle, Slaanesh) hizmetinde olan doğaüstü varlıklardır — onlar, İmparatorluğun en büyük ve en kaçınılmaz düşmanıdır. Chaos Daemons'un en büyük özelliği, onların doğaüstü gücüdür — onlar, fizik yasalarına uymaz ve onların gücü, bir gezegeni bile yok edebilir; bir Greater Daemon, bir Imperial ordusunu bile yenebilir ve onların varlığı, bir gezegenin sonunun başlangıcıdır. Chaos Daemons'un en korkulan yönü, onların çeşitliliğidir — onlar, Kh
+
 ## Tezahür, Banishment ve Gerçek İsimler
 Daemon'lar Warp'ın varlıklarıdır ve maddi evrende uzun süre var olmaları kolay değildir. Tezahür için genellikle Warp ile realspace arasındaki sınırın incelmesi gerekir: Warp fırtınaları, kanlı ritüeller, psyker'ların kontrolsüz güçleri, kült ayinleri ya da Eye of Terror gibi yarıkların yakınlığı. Bu koşullar ortadan kalktığında daemon'un maddi bedeni çözülmeye başlar.
 

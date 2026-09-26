@@ -13,6 +13,6 @@ Pontius'un iblis-anlaşmasının ortaya çıkışı ve Eisenhorn'un eski öğren
 
 ## Tarihçe
 
-Eisenhorn serisinin 3. kitabı; Tyrant Star Komus'un kehaneti ve Eisenhorn'un en büyük dönüşü — 'Hereticus Tenebrae' kehanetinin gerçekleşmesi.
+Hereticus, Dan Abnett'in Eisenhorn üçlemesinin üçüncü ve son romanıdır — Inquisitor Eisenhorn'un hikâyesinin sonudur. Bu roman, Eisenhorn'un İmparatorluk'un en gizli düşmanlarıyla mücadelesini anlatır; roman, Eisenhorn'un hikâyesinin sonudur. Bu roman, Eisenhorn'un hikâyesinin sonudur; roman, Eisenhorn'un en gizli ve en tehlikeli operasyonlarının sonudur. Roman, Eisenhorn'un hikâyesinin sonu olarak kalır.
 
 -# Kaynaklar: Black Library

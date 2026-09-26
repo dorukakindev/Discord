@@ -10,6 +10,6 @@ Kiodrus, gücünün doruğundayken Sabbat'ın etrafında toplanan çağın en pa
 
 ## Tarihçe
 
-Lord Kiodrus, Sabbat Dünyaları'nın efsanevi İmparatorluk komutanıdır; Saint Sabbat'ın yanında savaşan ve Cruachan'ın Fethi'nde ordunun geri kalanına yol açan lider olarak anılır. Sabbat mitolojisinde Saint'in en yakın savaş arkadaşı ve ilk şampiyonudur; adı Sabbat alaylarının savaş naralarında yaşar.
+Lord Kiodrus, Sisters of Battle'ın en ünlü ve en kutsal figürüdür; İmparatorluğun en kutsal savaşlarını yöneten ve onun en önemli figürü olan Kiodrus, İmparatorluğun en kutsal ve en önemli varlığıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal figürüdür. Lord Kiodrus'un en büyük özelliği, onun kutsallığıdır — onlar, İmparatorluğun en kutsal savaşlarını yöneten en önemli figürdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Kiodrus, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Lord Kiodrus'un en ünlü özelliği, onun Sisters of Battle'ın üyesidir — onlar, İmparatorluğun en kutsal ordusunun en önemli figürüdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır. Lord Kiodrus, Sisters of Battle'ın en ünlü ve en kutsal figürüdür — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

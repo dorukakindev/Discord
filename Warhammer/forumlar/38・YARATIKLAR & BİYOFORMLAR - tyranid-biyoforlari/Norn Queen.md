@@ -10,6 +10,6 @@ Norn Queen'in en korkunç yeteneği, uyarlanabilirliğidir; bir gezegenin direni
 
 ## Tarihçe
 
-Hive Fleet'in üreme kalbi; Tervigon'un analizi olan biyolojik fabrika. Yeni biyoforları doğuran kovan kraliçesi — bulunduğu gemi filonun annesidir.
+Norn Queen, Tyranid'in en ünlü ve en gizli lideridir; bir Tyranid hivemind'ının en yüksek rütbeli komutanı olan ve onun en gizli operasyonlarını yöneten Norn Queen, Tyranid'in en gizli ve en güçlü varlığıdır — onlar, Tyranid'in en ünlü ve en gizli lideridir. Norn Queen'in en büyük özelliği, onun gücüdür — onlar, bir Tyranid hivemind'ının en yüksek rütbeli komutanıdır ve onların varlığı, Tyranid'in en gizli gücünün kanıtıdır; bir Norn Queen komutası, bir Tyranid ordusunun en gizli ve en güçlü anıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Norn Queen'in en ünlü özelliği, onun hivemind'ın lideridir — onlar, bir Tyranid hivemind'ının en gizli ve en güçlü lideridir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Norn Queen, Tyranid'in en ünlü ve en gizli lideridir — onlar, bir gücün ve Tyranid'in en gizli gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

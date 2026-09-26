@@ -12,6 +12,6 @@ Salamanders'ın primarch'ı Vulkan, gizemli bir biçimde ortadan kaybolmadan ön
 
 ## Tarihçe
 
-Vulkan He'stan, Salamanders'ın mevcut Forgefather'ıdır — chapter'ın emaneti Spear of Vulkan, Gauntlet of the Forge ve drake-derisi Kesare's Mantle'ı taşır. Chapter'ın umudu ona yaslanmıştır: Vulkan'ın kayıp Artefakt'larını bulma görevini üstlenen bu figür, 'son Forgefather' olarak chapter'ın manevi misyonunu sırtlayan adam.
+Vulkan He'stan, Salamanders'in en ünlü ve en saygın Forgefather'ıdır; Chapter'ın en büyük demircisi ve onun en kutsal emanetlerini koruyan He'stan, Salamanders'in en gizli ve en önemli üyesidir — onlar, Salamanders'in en ünlü ve en saygın üyesidir. Vulkan He'stan'ın en büyük özelliği, onun demirciliğidir — onlar, Salamanders'in en büyük demircisidir ve onların varlığı, Chapter'ın en kutsal geleneğinin kanıtıdır; bir He'stan, hem bir savaşçı hem de bir zanaatkârdır ve onların varlığı, Salamanders'in en büyük geleneğinin somut halidir. He'stan'ın en ünlü özelliği, onun Forgefather'ıdır — onlar, Chapter'ın en kutsal emanetlerinin koruyucusudur ve onların varlığı, Salamanders'in en büyük sırrının kanıtıdır. Vulkan He'stan, Salamanders'in en ünlü ve en saygın Forgefather'ıdır — onlar, bir demircinin ve Salamanders'in en büyük geleneğinin somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar:

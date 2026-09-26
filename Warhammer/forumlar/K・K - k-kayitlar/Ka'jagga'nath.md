@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Ka'jagga'nath the Unbound — 'Bloodtide'ın Lordu' — Khorne'un Bloodthirster'ıdır; İmparatorluk dünyası Van Horne'un halkına ölümcül bir daemonik enfeksiyon saldı. Bu güçlü Daemon Lord hakkında bilinen tek şey 'Bloodtide' denen büyük yozlaştırıcı dalgayı çağırabilmesidir — kurbanları kana bulanıp Khorne'a adayan veba benzeri kızıl dalga.
+Ka'jagga'nath, Khorne'un en ünlü ve en vahşi daemon'ıdır; Khorne'un en sadık savaşçısı olan ve onun en vahşi savaşlarını yapan Ka'jagga'nath, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en vahşi daemon'udur. Ka'jagga'nath'ın en büyük özelliği, onun vahşetidir — onlar, Khorne'un en vahşi savaşçısıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Ka'jagga'nath, hem bir daemon hem de bir katildir ve onların savaşı, sadece kan ve kafatası içindir. Ka'jagga'nath'ın en ünlü özelliği, onun vahşetidir — onlar, Khorne'un en vahşi ve en tehlikeli daemon'ıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır. Ka'jagga'nath, Khorne'un en ünlü ve en vahşi daemon'ıdır — onlar, bir vahşetin ve Chaos'un en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

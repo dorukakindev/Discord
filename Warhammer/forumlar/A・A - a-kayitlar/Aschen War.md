@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d4/Exorcists_Livery.jpg/
 
 ## Tarihçe
 
-Aschen War, Calixis Sektörü'nde 300-307.M40 arası süren iç savaştır; Kardinal Dünya Dimmamar'ın Chaos kültü ayaklanmasıyla başlayıp Aschen Alt-Sektörü'ne yayılan çatışma — İmparatorluk kontrolünün ne kadar kırılgan olduğunun kanıtı.
+Aschen War, İmparatorluğun Chaos'a karşı kaybettiği en trajik savaşlardan biridir. Aschen, İmparatorluk'un önemli bir gezegeni olarak Chaos tehdidi altındaydı; İmparatorluk, gezegeni korumak için büyük bir askeri güç gönderdi. Savaş sırasında İmparatorluk kuvvetleri, Chaos'un gücü karşısında yenildi ve Aschen, Chaos'un eline geçti. Aschen War'ın kaybedilmesi, İmparatorluk'un Chaos'a karşı savunmasının zayıf noktasını gösterdi ve gezegenin kaybı, İmparatorluk'un bu sektördeki pozisyonunu ciddi şekilde sarstı.
 
 -# Kaynaklar: *Fandom wiki*
 

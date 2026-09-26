@@ -16,6 +16,4 @@ Evisser'in en büyük savaşı, 'Balhaut' operasyonu ve Chaos Warmaster'ların y
 
 ## Tarihçe
 
-Sabbat Worlds'te Chaos'a düşen sahte aziz; Gaunt'ın avladığı 'Sahte Aziz'. İnanç taklidi yapan heresiarch — Sabbat haçlılarının en tehlikeli düşmanı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Kelkannis Evisser, İmparatorluğun en gizli ve en önemli figürüdür; onların İmparatorluğun en gizli operasyonlarını yapan ve onun en gizli sırlarını saklayan Evisser, İmparatorluğun en gizli ve en önemli varlığıdır — onlar, İmparatorluğun en gizli ve en önemli figürüdür. Kelkannis Evisser'in en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarını yapan en önemli figürdür ve onların varlığı, İmparatorluğun en gizli

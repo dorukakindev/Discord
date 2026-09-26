@@ -16,6 +16,4 @@ Anais'in kültü, Adepta Sororitas'ın 'hospitalier' ve 'dialogus' dallarının 
 
 ## Tarihçe
 
-Saint Anais (Saint Anaïs), Adepta Sororitas kültünde savaş ve şehitlik azizlerinden biridir; Order of the Sacred Rose'un kurucu-ruhani figürlerinden sayılır. İkonografide İmparator'a adanmış savaş azizi olarak tasvir edilir; birçok katedral dünyasında ona adanmış chapel'ler vardır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Anais, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Anais, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Anais'in en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Anais, hem bir savaşçı hem de bir azizdir ve

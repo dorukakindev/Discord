@@ -25,7 +25,7 @@ Eldrad'ın uzun ömründe kaç kez bu türden müdahalede bulunduğu, hangilerin
 
 ## Tarihçe
 
-Eldrad Ulthran, Ulthwé craftworld'ünün en güçlü ve en kadim Farseer'ıdır; Fall'dan sonra Aeldari arasında doğmuş en yetenekli psyker sayılır ve inanılmaz öngörüsüyle binlerce Asuryani'nin hayatını kurtardı. 'Geleceği yazan' olarak Phoenix Lord'lar dahil herkesten saygı gören figür — 'Aeldari'nin yaşayan kehaneti'.
+Eldrad Ulthran, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır; Ulthwé craftworld'ünün en bilge ve en güçlü psyker'ı olan ve Aeldari'nin geleceğini gören Eldrad, Aeldari'nin en bilge ve en güçlü lideridir — onlar, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır. Eldrad Ulthran'ın en büyük özelliği, onun bilgeliğidir — onlar, Aeldari'nin en bilge psyker'ıdır ve onların varlığı, Aeldari'nin en
 
 ## Ölüm Anlatıları ve Çelişkiler
 

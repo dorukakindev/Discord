@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6a/KharybdisAssaultClaw0
 
 ## Tarihçe
 
-Kharybdis Assault Claw, Büyük Haçlı Seferi ve Heresy döneminde kullanılan devasa drop-pod benzeri iniş aracıdır; 20 Marine taşıyan bu 'pençe', düşman hatlarına doğrudan iniş için tasarlanmıştı.
+Kharybdis Assault Claw, Legiones Astartes tarafından kullanılan bir uzay saldırı aracıdır; onun devasa boyutu ve delici gücüyle — bir düşman gemisini veya bir düşman kalesini delebilecek bir araçtır — onlar, Space Marine'lerin en güçlü ve en yıkıcı uzay aracıdır. Kharybdis'in en büyük özelliği, onun delici gücüdür — onlar, bir düşman gemisinin gövdesini bile delebilir; bir Kharybdis, bir düşman kalesini tek atışla yok edebilir ve onların varlığı, bir Space Marine uzay saldırısının merkezidir. Kharybdis'in en ünlü görevi, Horus Heresy'deki çeşitli uzay savaşlarıdır — onlar, Space Marine Legion'larının en güçlü uzay aracıydı ve onların varlığı, bir Legion'un en güçlü silahıydı. Kharybdis Assault Claw, Space Marine'lerin en güçlü ve en yıkıcı uzay aracıdır — onlar, bir Legion'un uzay gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

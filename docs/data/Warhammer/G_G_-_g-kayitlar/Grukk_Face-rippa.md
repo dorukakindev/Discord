@@ -14,6 +14,6 @@ Grukk Face-rippa, 'yüz koparan' lakabıyla bilinen Ork Warboss'udur — kaba ku
 
 ## Tarihçe
 
-Grukk Face-rippa, Goff klanının Ork Warlord'uydu ve Kızıl WAAAGH!'ın ilk lideri; Big Mek Mogrok'un ikna ettiği 'tek gezegenin ötesine' bakabilen figürdü. Sanctus Reach'e yaptığı istila ve Big Mek'in onu aşması hikâyesi, Ork'ların 'beyinli kas' dengesinin klasik örneğidir — 'yıldızları düşünen ilk Ork' olarak bilinir.
+Grukk Face-rippa, Ork'ların en vahşi ve en tehlikeli figürüdür — 'Face-rippa' olarak bilinen bir Warboss'tur. Bu figür, Ork'ların en vahşi ve en tehlikeli figürüdür; Grukk Face-rippa, Ork'ların en vahşi ve en tehlikeli figürüdür. Bu figür, Ork'ların en vahşi ve en tehlikeli figürüdür; Grukk Face-rippa, Ork'ların en vahşi ve en tehlikeli figürüdür. Figür, Ork'ların en vahşi ve en tehlikeli figürü olarak kalır.
 
 -# Kaynaklar: *Codex: Orks*

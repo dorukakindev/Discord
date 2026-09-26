@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Triumvirate.png/revis
 
 ## Tarihçe
 
-Triumvirate of the Primarch, Terran Crusade sırasında Primarch Guilliman, Grey Knight Grand Master Voldus ve Fallen Angel Cypher'ın oluşturduğu tuhaf üçlü ittifaktır — bir sadık primarch, bir Grey Knight ve bir 'ihanet' figürünün aynı safta durması.
+Triumvirate of the Primarch, Roboute Guilliman'ın Indomitus Crusade döneminde kurduğu üçlü yönetim yapısıdır; Guilliman'ın kendisi (askeri komuta), Belisarius Cawl (teknoloji ve Primaris üretimi) ve bir Aziz/Astropath temsilcisi (ruhani ve iletişim) — İmparatorluğun yeni yönetim modelidir. Triumvirate'in kurulması, İmparatorluğun binlerce yıllık yönetim krizine bir çözümdü — High Lords of Terra'nın bürokrasisi çökmüştü ve Guilliman, savaşın aciliyetine uygun hızlı karar alabilecek bir yapı kurdu; Triumvirate, İmparatorluğun ilk kez bir primarch'ın doğrudan yönetimine dönüşüdür. Triumvirate'in işlevi hem askeri hem siyasidir — Guilliman savaşır, Cawl üretir ve üçüncü üye ruhu besler; üçü birlikte İmparatorluğun hayatta kalma stratejisini yönetir. Triumvirate, İmparatorluğun en büyük değişimidir — on bin yıl sonra ilk kez, bir primarch geri döndü ve yönetti.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -15,12 +15,8 @@ Adepta Sororitas yalnızca savaşçılardan ibaret değildir. Hospitaller, Dialo
 
 ## Tarihçe
 
-Bu tarikatlar Sisterhood'un kuruluşundan beri Orders Militant'ın yanında yer alır. Hospitaller'lar cephe hastanelerinde ve Astra Militarum'un yanında yaralılara bakar; Dialogus kardeşleri diller, yazıtlar ve tercümeyle uğraşır; Famulous tarikatı soylu hanelerde düzen, soy kaydı ve evlilik danışmanlığı üstlenir; Pronatus ise kayıp kutsal emanetleri arayıp korur.
+Orders Non-Militant, Adepta Sororitas'ın en önemli ve en kutsal sivil koludur; onların görevi, İmparator'un kilisesini desteklemek ve onun inananlarını korumaktır ve onlar, İmparatorluğun en kutsal ve en sadık sivil gücüdür. Orders Non-Militant'ın en büyük özelliği, onların sadakatidir — onlar, İmparator'a olan inançlarıyla çalışır ve onların görevi, hem dini hem de sivil bir hizmettir; bir Orders Non-Militant üyesi, hem bir hizmetkâr hem de bir inanan'dır ve onların varlığı, İmparatorluğun dininin somut halidir. Orders Non-Militant'ın en ünlü özelliği, onların hospitalier ve dialogus'larıdır — onlar, hasta bakıcıları ve tercümanlarıdır ve onların varlığı, İmparatorluğun en kutsal hizmetinin kanıtıdır. Orders Non-Militant, Adepta Sororitas'ın en kutsal ve en sadık sivil koludur — onlar, hizmetin ve sadakatinin birleşimidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Tıbbi bilgi ve medicae uygulamaları; dilbilim ve kayıt tutma; soy kütükleri; emanet bilimi. Sororitas yeminleri ve Convent disiplini bütün kollar için ortaktır.
-
--# Kaynaklar: *Codex: Adepta Sororitas*; *Codex: Witch Hunters*
-
--# İlişkili kayıtlar: <#1551753444308811807>, <#1551808932744269985>, <#1551651549804236801>, <#1551815272074055681>
+Tıbbi bilgi ve med

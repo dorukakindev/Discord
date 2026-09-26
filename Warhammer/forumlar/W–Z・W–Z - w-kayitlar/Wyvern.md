@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ec/WyvernFiring000.png/r
 
 ## Tarihçe
 
-Wyvern, İmparatorluk'un çift-top Hydra varyantıdır; dört hava-savunma topçusuyla hem uçak hem piyade avlayan bu araç, Armageddon'un gökyüzü savunmasında ünlendi — 'dron' katili.
+Wyvern, Imperial Guard tarafından kullanılan bir hafif topçu aracıdır; onun Hydra şasisi üzerine kurulu çoklu füze sistemleriyle — düşmanı uzaktan imha eden bir araçtır — onlar, Imperial Guard'ın en hızlı ve en çok yönlü topçu aracıdır. Wyvern'in en büyük özelliği, onun çoklu füze sistemleridir — onlar, bir düşman pozisyonunu saniyeler içinde imha edebilir; bir Wyvern, bir düşman hattını füzelerle temizleyebilir ve onların varlığı, bir Imperial Guard savunmasının merkezidir. Wyvern'in en ünlü görevi, Imperial Guard'ın çeşitli operasyonlarıdır — onlar, düşmanı uzaktan imha etmek için kullanılırlar ve onların varlığı, Imperial Guard'ın en güvenilir topçu aracıdır. Wyvern, Imperial Guard'ın en hızlı ve en çok yönlü topçu aracıdır — onlar, bir savunmanın en güvenilir topçu aracının somut halidir.
 
 -# Kaynaklar: *Astra Militarum Codexleri*
 -# İlişkili kayıtlar: <#1552848825784475742>

@@ -15,12 +15,8 @@ Legion'un en ağır darbesini indiren, siyah zırhlarıyla Sons of Horus'un deni
 
 ## Tarihçe
 
-Great Crusade boyunca Legion'un en zorlu çarpışmalarında görüldüler; Heresy'de Horus'un saflarında Terra'ya kadar savaştılar. Horus'un ölümünden sonra Legion çözülürken Abaddon ve eski Justaerin'ler, Black Legion'ın ilk çekirdeğini oluşturan savaşçılar arasında yer aldı. Romanlar Falkus Kibre'yi Abaddon'ın iç çemberinde, Black Legion'ın erken döneminde de anar.
+Justaerin, Sons of Horus (Black Legion) Legion'unun seçkin Terminator birimiydi; Horus'un kişisel muhafızı ve Legion'un en güçlü savaşçılarından oluşurdu ve siyah Cataphractii zırhlarıyla tanınırlardı. Justaerin'ler sadece savaşçı değil, Horus'un iradesinin somut haliydi — onların varlığı Warmaster'ın gözlerinin orada olduğunu gösterirdi ve Justaerin'lerin katıldığı savaş, artık Horus'un kişisel savaşıydı. Horus Heresy'de en karanlık görevleri üstlendiler — Isstvan III'ün bombardımanı, Terra Kuşatması'nın en ön hattı ve loyalist kardeşlerinin katliamı; Justaerin'ler, ihanetin en keskin kılıcıydı. Horus düştükten sonra Justaerin'ler dağıldı — bazıları Black Legion'da kaldı ve Abaddon'un yanında savaşmaya devam etti, bazıları kendi warband'lerini kurdu; ama Justaerin adı, hâlâ Chaos'un en korkulan elit biriminin adıdır.
 
 ## Kanon Notu
 
-Black Legion'daki Terminator birliklerinin Justaerin geleneğinin doğrudan devamı olup olmadığı kaynaklarda aynı açıklıkla verilmez; bağ çoğunlukla miras olarak anlatılır.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *The Talon of Horus — Aaron Dembski-Bowden*; *Black Legion — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551809114328399874>, <#1551638958352506881>, <#1551811342405599345>, <#1551814951365115956>
+Black Legion'daki Terminator birliklerinin Justaerin geleneğinin doğrudan devamı olup olmadığı kaynakla

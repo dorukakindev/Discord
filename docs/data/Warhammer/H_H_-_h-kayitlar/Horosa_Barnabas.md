@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Horosa_Barnabas.png/r
 
 ## Tarihçe
 
-Horosa Barnabas, Jericho Reach'te faaliyet gösteren Ordo Xenos Inquisitor'üydü; dört yüzyıla dayanan istismar hikâyeleri vardı — ama hiçbiri onun lehine değildi. Andronicus dünyasında Aeldari'yle savaşta öldü; eylemleri bilinmeyen bir xenos etkisinin altında olduğu şüphesini doğurdu — 'şüpheli kahraman' olarak Dead Cabal'ın karanlık dosyalarından biri.
+Horosa Barnabas, Inquisition'ın en gizli ve en deneyimli üyesidir; Ordo Xenos'un en deneyimli Inquisitor'u olan ve Jericho Reach'de dört yüzyıl boyunca çalışan Barnabas, İmparatorluğun en gizli ve en deneyimli varlığıdır — onlar, Inquisition'ın en gizli ve en deneyimli üyesidir. Horosa Barnabas'ın en büyük özelliği, onun deneyimidir — onlar, dört yüzyıl boyunca Jericho Reach'de çalışan en deneyimli Inquisitor'dur ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Barnabas, hem bir Inquisitor hem de bir efsanedir ve onların varlığı, İmparatorluğun en gizli varlığının somut halidir. Horosa Barnabas'ın en ünlü özelliği, onun Jericho Reach'deki görevidir — onlar, bir sektörün en gizli savaşlarını yöneten en deneyimli Inquisitor'dur ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Horosa Barnabas, Inquisition'ın en gizli ve en deneyimli üyesidir — onlar, bir deneyimin ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

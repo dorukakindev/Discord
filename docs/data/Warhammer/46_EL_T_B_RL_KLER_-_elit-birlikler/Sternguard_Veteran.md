@@ -14,6 +14,4 @@ Sternguard'ın ünü, 'en güvenilir' kardeşlerin oluşudur: yılların deneyim
 
 ## Tarihçe
 
-Sternguard Veteran, Space Marine'lerin deneyimli elite piyadesidir; uzun menzilli özel mühimmat ve taktik esneklikleriyle chapter'ın 'akıllı top' gücü. First Company'nin öncüleri — her vuruşunda ustalık.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Sternguard Veteran, Space Marine Chapter'ının en deneyimli ağır ateş birimidir; yüzlerce savaş görmüş Veteran'larından oluşur ve özel bolter mühimmatı — hellfire, vengeance, kraken, dragonfire round'ları — kullanarak her türlü düşman zırhını ve bioformunu delebilirler. Sternguard'ın işareti sağ omuzları

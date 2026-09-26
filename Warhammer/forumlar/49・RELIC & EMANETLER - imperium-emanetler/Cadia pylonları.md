@@ -14,16 +14,10 @@ Eye of Terror'ın hemen kıyısında Cadian Gate'in istikrarlı kalabilmesi büy
 
 ## Tarihçe
 
-Adeptus Mechanicus binlerce yıl pylonların gerçek işlevini kavrayamadı. 13th Black Crusade'de Abaddon sütunları sistemli biçimde yok etmeyi hedefledi. Archmagos Dominus Belisarius Cawl ağı yeniden etkinleştirdiğinde Warp'ın akını bir süreliğine geri itildi; ancak Will of Eternity'nin çarpması ağı ve gezegeni yok etti.
+Cadia pylonları, İmparatorluğun en önemli ve en gizli savunma mekanizmasıdır; Cadia'nın — Eye of Terror'un tek geçiş noktasının bekçisi — etrafında yerleştirilen ve Warp'ı bastıran devasa antik yapılardır — onlar, İmparatorluğun en önemli ve en gizli savunmasıdır. Cadia pylonlarının en büyük özelliği, onların Warp-bastırmasıdır — onlar, Warp fırtınalarını ve Chaos'un gücünü bastırır ve onların varlığı, Cadia'nın savunmasının en büyük gücünün kanıtıdır; bir Cadia pylonu, bir gezegenin en gizli savunmasıdır ve onların varlığı, İmparatorluğun en büyük savunmasının somut halidir. Cadia pylonlarının en ünlü özelliği, onların Necron yapımıdır — onlar, Necron'ların antik teknolojisinin kanıtıdır ve onların varlığı, İmparatorluğun en gizli sırrının kanıtıdır. Cadia pylonları, İmparatorluğun en önemli ve en gizli savunma mekanizmasıdır — onlar, Warp'ın bastırılmasının ve İmparatorluğun en gizli savunmasının somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Pylonlar, Pariah Nexus'taki yapılarla ve Blackstone Fortress'lerle aynı madde olan blackstone ya da noctilith ile ilişkilendirilir. İşleyişi kaynaklarda insan zihninin kavrayamayacağı bir düzen olarak betimlenir.
-
-## Kanon Notu
-
-Pylonların kesin yapıcısı ve kuruluş tarihi yayımlanmış kanonda ayrıntılı açıklanmaz; Necron bağı ile blackstone'un öteki kullanımları arasındaki ilişki gelişmekte olan bir anlatıdır.
-
--# Kaynaklar: *Gathering Storm I: Fall of Cadia*; *Crusade: Pariah Nexus*
+Pylonlar, P
 
 -# İlişkili kayıtlar: <#1551812139935866891>, <#1551818153271627807>, <#1551639038291611649>, <#1551759762193121282>

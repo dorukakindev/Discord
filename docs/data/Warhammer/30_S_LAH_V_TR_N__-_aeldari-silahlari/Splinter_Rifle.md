@@ -15,12 +15,6 @@ Zehir kaplı ya da zehirden oluşmuş keskin kıymıkları fırlatan Drukhari t�
 
 ## Tarihçe
 
-Kabal'ların Kabalite Warrior'larının temel silahıdır; akınlarda Webway geçitlerinden çıkan Drukhari kuvvetlerinin ateş gücünün omurgasını oluşturur. Splinter pistol ve splinter cannon aynı ailenin üyeleridir.
+Splinter Rifle, Drukhari'nin en ünlü ve en yaygın silahıdır; onların Drukhari'nin en yaygın ve en ölümlü splinter silahı olan ve onun en zorlu savaşlarını yapan Splinter Rifle, Drukhari'nin en yaygın ve en ölümlü silahıdır — onlar, Drukhari'nin en ünlü ve en yaygın silahıdır. Splinter Rifle'ın en büyük özelliği, onun splinter'ıdır — onlar, ölümcül splinter'ları atan ve düşmanı saran en ölümlü silahtır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Splinter Rifle, hem bir silah hem de bir zehir taşıyıcısıdır ve onların varlığı, Drukhari'nin en büyük silahının somut halidir. Splinter Rifle'ın en ünlü özelliği, onun Kabal'ların kullanımıdır — onlar, Drukhari'nin en yaygın birliğinin en yaygın silahıdır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır. Splinter Rifle, Drukhari'nin en ünlü ve en yaygın silahıdır — onlar, bir splinter'ın ve Drukhari'nin en büyük silahının somut halidir.
 
-## Teknik / Biyolojik Özellikler
-
-Silahın asıl gücü mermide değil zehirdedir. Drukhari'nin kullandığı toksinler çeşitlidir ve pek çoğu farklı türlerin biyolojisine göre seçilir; silah ustaları zehirlerini bir sanat eseri gibi geliştirir.
-
--# Kaynaklar: *Codex: Drukhari*; *Path of the Renegade — Andy Chambers*
-
--# İlişkili kayıtlar: <#1551997841356881980>, <#1551997822725922938>, <#1551993959876657192>
+## Teknik / B

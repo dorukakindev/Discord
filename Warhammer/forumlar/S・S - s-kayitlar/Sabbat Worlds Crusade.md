@@ -16,6 +16,10 @@ Seferi başlatan ve ilk yıllarını yöneten **Warmaster Slaydo**'dur. Imperial
 
 Balhaut, dizinin kahramanı **Ibram Gaunt** için de dönüm noktasıdır. O sırada bir Commissar olan Gaunt'un, Slaydo'nun güvenini kazanarak yeni kurulacak Tanith alayının komutasına getirildiği anlatılır. Orman dünyası **Tanith**, alayın kurulduğu gece Chaos saldırısıyla yok edildi; yalnızca gemilere binmiş olanlar kurtulabildi. Tanith First and Only adı ve "Ghosts" lakabı bu yurtsuzluktan doğar.
 
+## Tarihçe
+
+Sabbat Worlds Crusade, İmparatorluğun en büyük ve en onurlu seferidir; Saint Sabbat'ın — Sabbat Worlds'ün koruyucu azizesi — şerefine başlatılan ve İmparatorluğun en büyük fetih hareketini oluşturan en büyük savaştır — onlar, İmparatorluğun en büyük zaferinin ve en büyük onurunun somut halidir. Sabbat Worlds Crusade'in en büyük özelliği, onun boyutudur — onlar, İmparatorluğun en büyük fetih hareketidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Sabbat Worlds Crusade, bir imparatorluğun en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Sabbat Worlds Crusade'in en ünlü özelliği, onu
+
 Slaydo'nun yerine **Warmaster Macaroth** geçti. Macaroth'un atanması üst komutada kıskançlıklara ve rekabetlere yol açtı; romanlar bu gerginliği seferin arka planında sık sık hissettirir. Macaroth'un stratejisi, Archenemy'nin kümenin derinlerindeki kalelerine doğru ısrarlı ve hızlı bir ana hamleye dayanıyordu. Bu yaklaşım büyük kazanımlar getirdi, ancak ana hamlenin arkasında ve yanlarında kalan dünyaları Archenemy'nin karşı saldırılarına açık bıraktı. Seferin romanlarda işlenen pek çok cephesi, tam da bu açık kanatlarda geçer.
 ---MSG---
 ## Archenemy: Gaur, Blood Pact ve Sek

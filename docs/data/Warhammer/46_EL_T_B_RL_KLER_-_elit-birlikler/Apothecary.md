@@ -14,6 +14,4 @@ Apothecary'nin savaş rolü kritiktir: Narthecium eldivenleri ve 'Reductor' alet
 
 ## Tarihçe
 
-Chapter'ın hekimi ve gene-seed koleksiyoncusu; düşenlerin genetik mirasını kurtaran beyaz-zırhlı doktor. Chapter'ın geleceğini elinde taşır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Apothecary, bir Space Marine Chapter'ının tıbbi uzmanı ve aynı zamanda en kutsal görevi taşıyanıdır; görevi hem yaralı savaşçıları iyileştirmek hem de ölenlerden gene-seed — Chapter'ın geleceğini taşıyan genetik malzeme — toplamaktır. Sahada Apothecary'ler beyaz zırhlarıyla tanınır; narthecium adı verilen el aletiyle yarayı diker, zehri temizler ve gerektiğinde ölümcül yaralı savaşçının göğsünden progenoid gland'ları çıkarır — b

@@ -16,8 +16,6 @@ Tutuklama olarak başlayıp cezalandırmaya dönüşen, Thousand Sons'ın yurdun
 
 ## Tarihçe
 
-Horus'un araya girmesiyle görev sertleşti. Space Wolves'un Custodes ve Silent Sisterhood'la birlikte yürüttüğü saldırıda başkent Tizca yakıldı. Magnus başlangıçta direnmekten kaçındı, ardından Russ'la düelloya girdi ve yenildi; kaynaklar Russ'ın ona ağır bir darbe indirdiğini anlatır. Son anda Magnus ve hayatta kalan oğulları Warp'a çekilerek Eye of Terror'daki bir dünyaya ulaştı.
-
--# Kaynaklar: *A Thousand Sons — Graham McNeill*; *Prospero Burns — Dan Abnett*
+Burning of Prospero, Horus Heresy'nin en trajik ve en karmaşık savaşıdır; Space Wolves, Custodes ve Sisters of Silence'ın Prospero'ya — Thousand Sons'un evine — saldırısı ve Magnus'un en büyük hatasının sonucu olan en büyük yıkımdır — onlar, Heresy'nin en trajik ve en karmaşık savaşının somut halidir. Burning of Prospero'nun en büyük özelliği, onun trajedisidir — onlar, bir primarch'ın hatasının bir Legion'un ve bir gezegenin yok olmasına yol açtığı en büyük trajedidir; bir Burning of Prospero, bir gezegenin en trajik halidir ve onların varlığı, İmparatorluğun en büyük kaybının somut halidir. Burning of Prospero'nun en ünlü özelliği, onu
 
 -# İlişkili kayıtlar: <#1551809231580307517>, <#1551816657691746335>, <#1551649072912269433>, <#1551638910344630307>, <#1551743688680669286>

@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/76/HellblasterSquad.jpg/
 Redemptor Dreadnought'un dev plazma topu; tek salvoyla manga eritir. Aşırı şarjı, Dreadnought'un içindeki kahramanı da tehlikeye atar.
 
 ## Tarihçe
-Macro Plasma Incinerator, taşınabilir plazma silahlarının en büyüğüdür ve yalnızca Redemptor Dreadnought şasisi onun güç ve soğutma ihtiyacını karşılayabilir. Tek bir boşaltımı, siper hattını güneş sıcaklığında bir cehenneme çevirir. Redemptor'un içindeki düşmüş kahraman, silahın reaktör yükünü kendi yaşam destek sistemleriyle paylaşır; aşırı şarj her seferinde lahdin içindekini de tehlikeye atar.
+
+Macro Plasma Incinerator, İmparatorluğun en gizli ve en ölümcül silahıdır; onların İmparatorluk'un en gizli ve en yıkıcı plazma silahı olan ve onun en zorlu savaşlarını yapan Macro Plasma Incinerator, İmparatorluğun en gizli ve en ölümcül silahıdır — onlar, İmparatorluğun en gizli ve en ölümcül silahıdır. Macro Plasma Incinerator'ın en büyük özelliği, onun plazmasıdır — onlar, düşmanı yakan plazmayı atan en ölümcül silahtır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Macro Plasma Incinerator, hem bir silah hem de bir yıkımdır ve onların varlığı, İmparatorluğun en büyük silahının somut halidir. Macro Plasma Incinerator'ın en ünlü özelliği, onun Mechanicus üzerindeki kullanımıdır — onlar, Mechanicus'un en gizli ve en ölümcül silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Macro Plasma Incinerator, İmparatorluğun en gizli ve en ölümcül silahıdır — onlar, bir plazmanın ve İmparatorluğun en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

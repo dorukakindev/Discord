@@ -17,5 +17,7 @@ Warp, canlıların duygularının bir yansımasıdır; öfke, korku, umut, arzu.
 
 Warp'ın en korkunç gerçeği, onun aynı zamanda Kaos Tanrıları'nın ve sayısız iblisin evi olmasıdır; canlıların birikmiş duyguları, zamanla bu karanlık tanrıları ve onların hizmetkârlarını besler ve şekillendirir. Warp ile gerçeklik arasındaki perde inceldiğinde (büyük savaşlar, psişik patlamalar ya da Halkaların Gözü gibi yarıklar), dehşet gerçekliğe taşar. Warp, hem insanlığın en büyük aracı (iletişim, seyahat, psişik güç) hem de en büyük tehdidi (Kaos); tüm güç ve tüm dehşet, bu sınırsız madde-ötesi denizden doğar.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
--# Çapraz: Gellar Alanı · Kaos Tanrıları · Psyker · Halkaların Gözü
+
+## Tarihçe
+
+Warp (Immaterium), gerçek uzayın altında yatan psişik boyutlar arası ortamdır; zamanın, mekânın ve fizik yasalarının işlemediği, düşünce ve duygunun maddeleştiği kaos okyanusudur. Orada yaşayan varlıklar — demonlar, Chaos tanrıları, ruh parçaları — maddeyle değil, inanç ve duyguyla beslenir; bir ırkın kolektif korku

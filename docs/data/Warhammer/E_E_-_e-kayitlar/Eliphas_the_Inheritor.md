@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/64/Chaos_Lord_Eliaphas_t
 
 ## Tarihçe
 
-Eliphas the Inheritor (Torquill Eliphas), Word Bearers'ın Dark Apostle'ı olarak Kronus'taki Dark Crusade'i yöneten Chaos figürüdür. Davalık ve dönüşleriyle efsaneleşen bu adam, İmparatorluk'un 'asla tam öldürülemeyen' düşmanlarından biri sayılır. Dawn of War serisinde Chaos'un önde gelen antagonisti olarak tanındı; Lorgar'ın 'sözünü' Dark Crusade sahnesine taşıyan vaiz-savaşçı. Ölümden dönüp dönüp yeniden ortaya çıkması 'Inheritor' (Varis) lakabını kazandırdı — Word Bearers'ın kalıcı laneti.
+Eliphas the Inheritor, Word Bearers'ın en ünlü ve en tehlikeli Dark Apostle'ıdır; 'the Inheritor' olarak bilinen ve Word Bearers'ın en gizli operasyonlarını yöneten Eliphas, İmparatorluğun en tehlikeli ve en gizli düşmanlarından biridir — onlar, Word Bearers'ın en ünlü ve en tehlikeli Dark Apostle'ıdır. Eliphas'ın en büyük özelliği, onun fanatikliğidir — onlar, 'the Inheritor' olarak bilinen ve Word Bearers'ın en gizli operasyonlarını yöneten en tehlikeli rahiptir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Eliphas, hem bir rahip hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Eliphas'ın en ünlü özelliği, onun 'the Inheritor' lakabıdır — onlar, Word Bearers'ın en tehlikeli ve en fanatik rahibidir ve onların varlığı, İmparatorluğun en büyük tehdidinin kanıtıdır. Eliphas the Inheritor, Word Bearers'ın en ünlü ve en tehlikeli Dark Apostle'ıdır — onlar, bir öğretinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058675944329221>

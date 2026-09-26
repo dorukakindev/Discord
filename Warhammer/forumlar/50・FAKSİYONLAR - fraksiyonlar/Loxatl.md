@@ -14,6 +14,4 @@ Loxatl'ların silahları, 'web' ve 'dart' temelli ölümcül araçlardır — Gu
 
 ## Tarihçe
 
-Loxatl, galaksinin ölümcül sürüngen-avcı ırklarından biridir; mercenary olarak bilinirler ve kendi doğal zırhlarıyla donanmış hızlı, ölümcül saldırganlardır. İmparatorluk veya Chaos saflarında paralı asker olarak görülürler — vahşetleriyle korkulan xenos savaşçılarıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Loxatl, WH40K evreninin en gizli ve en tehlikeli xeno türlerinden biridir; sürüngen benzeri, parazitik ve bir gezegenin nüfusunu zihin kontrolüyle ele geçiren bir türdür — onlar, İmparatorluğun en gizli ve en tehlikeli iç düşmanlarından biridir. Loxatl'ın en büyük özelliği, onların parazitikliğidir — onlar, bir host'un vücuduna girer ve onu kontrol eder; bir Loxatl, bir insanın bedenin

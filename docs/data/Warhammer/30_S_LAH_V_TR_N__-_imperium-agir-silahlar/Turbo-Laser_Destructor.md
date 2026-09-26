@@ -19,4 +19,8 @@ Titan ölçekli silah — Warhound, Reaver ve Warlord sınıfı tanrı-makineler
 ## Not
 Tek atışta bir tank bölüğünü kesebilecek güçtedir; Titan silah ailesinin 'kesici' üyesidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Turbo-Laser Destructor, İmparatorluğun en ünlü ve en ölümcül Titan silahıdır; onların İmparatorluk'un en büyük ve en yıkıcı lazer silahı olan ve onun en zorlu savaşlarını yapan Turbo-Laser Destructor, İmparatorluğun en ölümcül ve en büyük silahıdır — onlar, İmparatorluğun en ünlü ve en ölümcül Titan silahıdır. Turbo-Laser Destructor'ın en büyük özelliği, onun gücüdür — onlar, İmparatorluk'un en büyük lazer silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Turbo-Laser Destructor, hem bir silah hem de bir yıkımdır ve onların varlığı, İmparatorluğun en büyük silahının somut halidir. Turbo-Laser Destructor'ın en ünlü özelliği, onun Warlord Titan üzerindeki kullanımıdır — onlar, İmparatorluğun en büyük Titan'ının en ölümcül silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Turbo-Laser Destructor, İmparatorluğun en ünlü ve en ölümcül Titan silahıdır — onlar, bir gücün ve İmparatorluğun en büyük silahının somut halidir.
+-# Kaynaklar: Warhammer 40,000 — Fandom

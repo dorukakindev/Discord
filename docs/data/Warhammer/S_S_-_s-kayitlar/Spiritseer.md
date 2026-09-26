@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/IyannaArienal.jpg/rev
 
 ## Tarihçe
 
-Spiritseer, Seer Yolu'nu öyle yürüyen Eldar psyker'dır ki craftworld'ün Infinity Circuit'inde saklı ölü Eldar'ların ruhlarıyla iletişim kurabilir. Barışta yaşayanlarla ölüler arasında köprü olan bu figürler, savaşta Wraithguard ve Wraithlord'ları yönlendiren 'ölülerin sesi' olarak bilinir — 'hayalet ordusunun komutanı'.
+Spiritseer, Aeldari'nin en gizli ve en önemli ruh yolcusuıdır; onların bir craftworld'ün ölülerinin ruhlarıyla iletişim kuran ve onları wraithbone'a bağlayan en gizli üyesi olan Spiritseer, Aeldari'nin en gizli ve en önemli üyesidir — onlar, Aeldari'nin en gizli ve en önemli ruh yolcusuıdır. Spiritseer'ın en büyük özelliği, onların ruh iletişimidir — onlar, ölülerin ruhlarıyla iletişim kuran ve onları wraithbone'a bağlayan en gizli üyedir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Spiritseer, hem bir savaşçı hem de bir şamandır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Spiritseer'ın en ünlü özelliği, onların ruh iletişimidir — onlar, Aeldari'nin ölülerinin ruhlarını koruyan en gizli üyedir ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Spiritseer, Aeldari'nin en gizli ve en önemli ruh yolcusuıdır — onlar, bir şamanın ve Aeldari'nin en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877508989288488>

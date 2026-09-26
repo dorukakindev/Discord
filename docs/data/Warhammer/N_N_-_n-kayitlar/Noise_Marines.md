@@ -30,6 +30,10 @@ Isstvan III ve Isstvan V, Emperor's Children'ın ihanetinin sahneleridir; Legion
 
 Heresy'nin sonunda Emperor's Children diğer hainlerle birlikte Eye of Terror'a çekildi. Kakophoni'nin başlattığı gelenek, Legion'ın dağılmasından sonra da yaşamayı sürdürdü.
 
+## Tarihçe
+
+Noise Marines, Emperor's Children Legion'unun Slaanesh'e adanmış savaşçılarıdır; ses, müzik ve aşırı duyusal uyaranı silah olarak kullanan ve bu yüzden hem savaşçı hem de sanatçı olan yozlaşmış birimlerdir. Noise Marine'in silahı sonic weapon'dur — sonic blaster, blastmaster veya doom siren; bu silahlar ultra-yüksek frekanslı ses dalgaları üretir ve hedefin beynini, iç organlarını veya zırhını titreşimle parçalar. Noise Marines için savaş bir performanstır — onların amacı sadece öldürmek değil, en güzel sesi, en mükemmel çığlığı ve en aşırı duyguyu üretmekti
+
 ## Beden, Algı ve Silah
 Noise Marine'in dünyası, körelmiş bir algının dünyasıdır. Kaynaklar onların işitme duyusunun bozulduğunu, sıradan seslerin artık bir anlam taşımadığını anlatır. Savaşçı, bir şey duyabilmek için sesi sürekli yükseltmek, keskinleştirmek ve daha uyumsuz hâle getirmek zorundadır. Bu yüzden onun için gürültü bir ihtiyaç, hatta bir bağımlılıktır. Her savaş bir önceki savaştan daha yüksek sesli olmak zorundadır.
 

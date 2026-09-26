@@ -13,6 +13,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/82/Mark_of_Tzeentch.jpeg
 
 ## Tarihçe
 
-Tarkh'ax, Tzeentch'in Lord of Change'idir; Aeldari'nin 'Songweave'i tarafından 10.000 yıldan fazla hapsedildiği Dolumar IV dünyasında İmparatorluk ile T'au arasında bir çatışma üretti — gezegenin İmparatorluk valisini yozlaştırarak iki gücü birbirine kırdırdı. 'Hapisten plan yapan' daemon olarak Değişim'in uzun vadeli entrikasının klasik örneğidir.
+Tarkh'ax, Khorne'un en ünlü ve en vahşi daemon'ıdır; Khorne'un en sadık savaşçısı olan ve onun en vahşi savaşlarını yapan Tarkh'ax, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en vahşi daemon'udur. Tarkh'ax'ın en büyük özelliği, onun vahşetidir — onlar, Khorne'un en vahşi savaşçısıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Tarkh'ax, hem bir daemon hem de bir katildir ve onların savaşı, sadece kan ve kafatası içindir. Tarkh'ax'ın en ünlü özelliği, onun vahşetidir — onlar, Khorne'un en vahşi ve en tehlikeli daemon'ıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır. Tarkh'ax, Khorne'un en ünlü ve en vahşi daemon'ıdır — onlar, bir vahşetin ve Chaos'un en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

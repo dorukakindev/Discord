@@ -16,8 +16,8 @@ Ticarete ve dış dünyaya açık, kozmopolit Sept. Dal'yth, Imperium'un T'au Em
 
 ## Tarihçe
 
-M41'de T'au'nun genişlemesi Imperium sınırına dayanınca Damocles Gulf Crusade başladı. Yaygın tarihlemeyle 742–745.M41 arasında süren seferde Dal'yth'e yönelen Imperial filo yörüngedeki mücadeleyi ağır gemi kayıpları pahasına kazandı ve Dal'yth Prime'da bir liman ile bazı yerleşimleri ele geçirdi; ancak gezegen düşmedi. Hive Fleet Behemoth'un Ultramar'a yaklaşması crusade kuvvetlerinin cephede tutulamayacağı anlamına gelince Water Caste elçileri barış önerdi ve savaş bir ateşkesle sona erdi.
+Dal'yth, T'au Empire'ın en önemli ve en stratejik Sept dünyasıdır; onun konumu ve kaynaklarıyla — T'au'nun en değerli kolonilerinden biridir — ve onun Damocles Gulf Crusade'deki rolüyle — İmparatorluğun T'au'ya karşı en büyük savaşının merkezidir — onlar, T'au'nun en önemli ve en stratejik evidir. Dal'yth'in en büyük özelliği, onun stratejik konumudur — onlar, T'au'nun en önemli Sept'idir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır; bir Dal'yth, bir gezegenin en stratejik halidir ve onların varlığı, T'au'nun en önemli kolonisinin kanıtıdır. Dal'yth'in en ünlü özelliği, onun Damocles Gulf Crusade'idir — onlar, İmparatorluğun T'au'ya karşı en büyük savaşının merkezidir ve onların varlığı, İmparatorluğun en büyük yenilgisinin kanıtıdır. Dal'yth, T'au Empire'ın en önemli ve en stratejik Sept dünyasıdır — onlar, T'au'nun en büyük gücünün ve en büyük zaferinin somut halidir.
 
 -# Kaynaklar: *Codex: Tau*; *Codex: T'au Empire — 10th Edition*; *Star of Damocles — Andy Hoare*
 
--# İlişkili kayıtlar: <#1551813361887617108>, <#1551809256649527381>, <#1551809334483361823>
+-# İlişkili kayıtlar: <#15518133618876

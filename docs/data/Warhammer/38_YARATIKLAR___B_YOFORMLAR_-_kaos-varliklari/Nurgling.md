@@ -16,8 +16,4 @@ Bir avuç büyüklüğündeki bu yeşilimsi, şişkin ve yaramaz yaratıklar, Gr
 
 ## Tarihçe
 
-Nurgling'ler, Nurgle'un minik Lesser Daemon'larıdır — büyük daemonların irin ve çürük etinden doğan 'neşeli veba yavruları'. Sürü halinde savaşırlar ve Plague God'un en bol, en yaramaz hizmetkârlarıdır; 'küçük çürüme' olarak her yerde bulunan bu yaratıklar, Greater Unclean One'ların omuzlarında bile gezer.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Death Guard — 10th Edition*
-
--# İlişkili kayıtlar: <#1551754683222327439>, <#1551654107058540595>, <#1551995328863932499>
+Nurgling, Nurgle'un en küçük ve en sinsi daemon'ıdır; Nurgle'un en küçük ve en tiksindirici varlığı olan ve onun 'sevgi'sini yayan en sinsi organizma olan Nurgling, Chaos'un en küçük ve en sinsi varlığıdır — onlar, Nurgle'un en ünlü ve en sinsi daemon'udur. Nurgling'in en büyük özelliği, onun sinsiliğidir — onlar, Nurgle'un 'sevgi'sini yayan ve onu her yere taşıyan en sinsi daemon'dur ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Nurgling, hem bir daemon hem de bir veba taşıyıcısıdır ve onların varlığı, Nurgle'un 'sevgi'sinin somut halidir. Nurgling'in en ünlü özelliği, onun küçüklüğüdür — onlar, Nurgle'un en küçük ve en sinsi daemon'ıdır ve onların varlığı, Nurgle'un en büyük gücünün kan

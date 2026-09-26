@@ -12,4 +12,7 @@ Bu yol pratik bir avantaj sunar: tek bir tanrının kaprisine ve mutasyonlarına
 
 ## Bölünmemiş Kaos
 Chaos Undivided, dört Büyük Tanrı'ya (Khorne, Tzeentch, Nurgle, Slaanesh) aynı anda tapınan, tek bir güce bağlanmayı reddeden ibadet ve birlik biçimidir. Word Bearers'ın doktrini budur: Kaos tek ve bölünmez bir güç olarak görülür, tanrılar onun yüzleridir. Undivided'a yemin edenler hiçbir tanrının özel lütfunu alamaz ama hiçbirinin öfkesini de üstlerine çekmezler; Black Legion büyük ölçüde bu yolu izler. Bir Undivided iblis tanrısı oluşabilir mi? Soru açık — Bel'akor gibi varlıklar bu alanın sınırında durur.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Chaos Undivided, Chaos'un en ünlü ve en gizli inanç sistemidir; dört Chaos tanrısına — Khorne, Tzeentch, Nurgle ve Slaanesh — eşit olarak tapılan ve onların birliğini savunan en gizli inanç olan Chaos Undivided, Chaos'un en gizli ve en tehlikeli gücüdür — onlar, Chaos'un en ünlü ve en gizli inanç sistemidir. Chaos Undivided'ın en büyük özelliği, onun birliğidir — onlar, dört Chaos tanrısına eşit olarak tapılan ve onların birliğini sav

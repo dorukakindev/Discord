@@ -45,6 +45,10 @@ Bunların yanında Captain-General'ın bizzat seçtiği **Hetaeron Guard**, yani
 ## Savaş Tarzı ve Teçhizat
 Custodes küçük sayıda ama her biri tek başına bir kadro kadar etkili sayılan savaşçılarla hareket eder. Temel silahları **guardian spear**'dır; bunu castellan axe ve sentinel blade gibi silahlar tamamlar. Custodian Guard çekirdeği oluştururken Allarus Terminator'lar, Dawneagle jetbike'larıyla Vertus Praetor'lar ve Blade Champion gibi roller farklı görevleri üstlenir. Custodes doktrini, düşmanın komuta yapısını ve en tehlikeli unsurlarını cerrahi bir kesinlikle yok etmeye dayanır.
 
+## Tarihçe
+
+Adeptus Custodes, İmparatorluğun en eski ve en kutsal savaş gücüdür; İmparator'un kişisel koruması olan ve her biri bir Space Marine'den daha güçlü olan altın zırhlı savaşçılardır — onlar, İmparatorluğun en kutsal ve en ölümcül savaşçılarıdır. Adeptus Custodes'un en
+
 ## Great Rift Sonrası: Kapıların Açılması
 Great Rift'in açılmasıyla Chaos kuvvetleri Terra'nın eşiğine kadar ulaştı. Roboute Guilliman'ın Terra'ya varışı sırasında yaşanan **Battle of Lion's Gate**, Custodes, Sisters of Silence ve Ultramarines'in Palace'ın kapısında birlikte savaştığı bir çatışmaydı. Kaynaklara göre bu savaştan sonra Custodes'in önderleri, Terra'nın savunmasının artık yalnızca Palace'ın duvarları arkasında beklenerek güvence altına alınamayacağını resmen kabul etti.
 

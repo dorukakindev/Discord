@@ -12,6 +12,6 @@ Old Night sırasında Terra, sayısız küçük techno-barbar savaş baronluğun
 
 ## Tarihçe
 
-İmparator'un Terra'yı birleştiren son savaşları; Thunder Warriors'ın sonu, Astartes'in doğuşu. İmparatorluk'un sıfır noktası.
+Birleşme Savaşları (Unification Wars), İmparator'un Terra'yı birleştirerek İmparatorluğu kurduğu en eski ve en önemli savaşlardır. İmparator, Terra'nın çeşitli kabile ve devletlerini birleştirmek için uzun yıllar süren savaşlar yürüttü; bu savaşlar sırasında Thunder Warriors'ı ve ilk Space Marine'leri kullandı. Birleşme Savaşları, İmparator'un Terra'nın tamamını kontrol altına almasıyla sonuçlandı ve İmparatorluğun temellerini attı. Bu savaşlar, İmparatorluk'un kuruluşunun en önemli aşaması olarak tarihe geçti ve İmparator'un Terra'yı birleştirme iradesinin kanıtı oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,8 +16,8 @@ Imperial yerleşiminin, altındaki kadim mezar kompleksinin uyanışıyla yok ol
 
 ## Tarihçe
 
-Necron'ların uyanmasıyla koloni kısa sürede çöktü. Ultramarines, Captain Cato Sicarius'un 2nd Company'si başta olmak üzere savunmaya katıldı; ancak dünya kurtarılamadı ve Imperium Damnos'u yitirdi. Bu kayıp Sicarius'un kariyerinde derin bir iz bıraktı. Kaynaklar Ultramarines'in daha sonra Damnos'u geri almak için yeniden sefer düzenlediğini de anlatır.
+Damnos, İmparatorluğun en gizli ve en tehlikeli dünyalarından biridir; hem bir Imperial koloni hem de bir Necron Tomb World'dür — onlar, İmparatorluğun en gizli ve en tehlikeli dünyasıdır. Damnos'un en büyük özelliği, onun ikiliğidir — onlar, hem bir Imperial koloni hem de bir Necron mezarıdır; bir Damnos, hem bir yaşam alanı hem de bir ölüm tuzağıdır ve onların varlığı, İmparatorluğun en gizli tehlikesinin kanıtıdır. Damnos'un en ünlü özelliği, onun Necron uyanışıdır — onlar, bir Necron Tomb World'üdür ve onların varlığı, İmparatorluğun en eski düşmanının evidir; bir Damnos, bir gezegenin en gizli tehlikesinin somut halidir. Damnos, İmparatorluğun en gizli ve en tehlikeli dünyasıdır — onlar, yaşamın ve ölümün arasındaki çizginin somut halidir.
 
 -# Kaynaklar: *Fall of Damnos — Nick Kyme*; *Spear of Macragge — Nick Kyme*; *Codex: Necrons*
 
--# İlişkili kayıtlar: <#1551759762193121282>, <#1552482553003376650>, <#1551817348900589669>
+-# İlişkili kayıtla

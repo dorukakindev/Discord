@@ -16,8 +16,4 @@ Nurgle'ın hastalıklarını taşıyan, çürümüş ve paslı görünümlü sil
 
 ## Tarihçe
 
-Heresy sırasında Death Guard'ın Warp'ta Destroyer Plague'e yakalanıp Nurgle'a bağlanmasının ardından Legion'un silahları da hastalığın aracına dönüştü. Plague Wars gibi Era Indomitus çatışmalarında blight grenade'ler, plague spewer'lar ve plague belt'ler Death Guard'ın savaş biçiminin merkezinde yer almıştır.
-
--# Kaynaklar: *Codex: Death Guard*; *The Lords of Silence — Chris Wraight*
-
--# İlişkili kayıtlar: <#1551813274327060552>, <#1551754683222327439>, <#1551650329316036699>, <#1551818194841501818>
+Plague Weapons, Nurgle'a adanmış silahlardır; içinde Nurgle'un hastalıklarını, zehrini ve çürümesini taşıyan ve onların dokunuşuyla düşmanı içeriden çürüten, Death Guard ve diğer Nurgle warband'lerinin en korkulan silahlarıdır. Plague Weapon'ın çalışması basit ama dehşet vericidir — bir plague knife kesimi, Nurgle'un en ölümcül hastalığını taşır; bir plague sword darbesi, düşmanı içeriden çürütür; ve bir blight launcher atışı, zehiri havaya yayar ve bir alanı yaşanmaz hale getirir. Plague Weapon'ların en korkulan özelliği, onların bulaşıcılığıdır — bir plague weapon'ın yarası, sıradan bir yara değil, Nurgle'un kendi hastalığıdır ve onunla enfekte olan, yavaşça çürür ve ölür. Plague Weapons, Nurgle'un sevgisinin somut halidir — onların dokunuşu, hem ölüm hem de Nurg

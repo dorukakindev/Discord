@@ -12,6 +12,6 @@ Lord Solar Macharius, olağanüstü karizması ve askeri dehasıyla devasa Astra
 
 ## Tarihçe
 
-Lord Solar Macharius'un tarihinin en büyük fetihleri; sınırın ötesine ilk büyük dalga. Kendi ordusu durana kadar ilerledi — sınırsız ihtirasın destanı.
+Macharius Haçlı Seferi, Lord Solar Macharius'un İmparatorluk'un sınırlarını en uzağa taşıyan en efsanevi operasyonudur. Macharius, İmparatorluk'un en büyük generali olarak bilinir ve seferi sırasında binlerce dünyayı İmparatorluk'a kattı. Macharius Haçlı Seferi, İmparatorluk'un en genişleyişli dönemi olarak tarihe geçti; ancak Macharius'un ölümüyle sefer sona erdi ve İmparatorluk, bu genişlemeyi tamamen sürdüremedi. Macharius Haçlı Seferi, İmparatorluk'un en büyük askeri başarılarından biri olarak anılır ve Macharius'un efsanevi statüsünü pekiştirir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

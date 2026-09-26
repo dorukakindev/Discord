@@ -16,7 +16,7 @@ Bir hedefi işaretleyerek onu ordunun geri kalanının ateşine açan işaretlem
 
 ## Tarihçe
 
-Markerlight en çok hedef işaretleme ve keşif görevleriyle bilinen **Pathfinder** kadrolarıyla ilişkilendirilir; marker drone'lar ve bazı battlesuit sistemleri de aynı işlevi taşır. Bu sistem, T'au'nun farklı birimlerini tek bir ateş ağı gibi çalıştırma anlayışının somut bir örneğidir.
+Markerlight, T'au'nun hedef işaretleme sistemidir; bir ışık huzmesi hedefe tutulur ve arkasındaki savaş ağına hedefin koordinatlarını, hareketini ve zırh bilgisini gönderir — işaretlenen hedef, T'au ateş hattının ortak görüşüne girer. Pathfinder'lar ve Forward Observer'lar tarafından taşınır; tek başına öldürücü değildir ama işaretlenmiş hedefe indirilen seeker missile salvosu veya railgun atışı kesin sonuç verir. Markerlight, T'au savaş doktrininin simgesidir: bireysel kahramanlık yerine koordineli, ağ-destekli ateş gücü — bir Pathfinder'ın işaretlediği Titan, dakikalar içinde tüm battelsuit hattının ortak hedefi olur. İmparatorluk karşı istihbaratı markerlight'ı 'kızıl ışık ölümü' olarak tanımlar — görürsen, artık çok geçtir.
 
 -# Kaynaklar: *Codex: T'au Empire*
 

@@ -16,8 +16,4 @@ Dark Mechanicus olarak da anılır. Bilgiyi kutsal yasaklarla sınırlamayı red
 
 ## Tarihçe
 
-Heresy'de Mars ikiye bölündü; hain kesim, Horus'un savaş makinesine Titan'lar, silahlar ve daemon engine'ler sağladı. Scouring'in ardından Eye of Terror'daki Forge World'lere ve Chaos'un diğer bölgelerine çekildiler. Warsmith'lerle ve özellikle Iron Warriors'la iş birliği yaptıkları anlatılır.
-
--# Kaynaklar: *Mechanicum — Graham McNeill*; *Codex: Chaos Space Marines*
-
--# İlişkili kayıtlar: <#1551650329156788287>, <#1551753449878724689>, <#1551816635839549491>, <#1551637652569067542>, <#1551809313096474696>
+Dark Mechanicum, Adeptus Mechanicus'un Chaos'a düşmüş versiyonudur; Kelbor-Hal'ın liderliğinde Mars'ın yarısını Chaos'a sürükleyen ve İmparatorluğun en tehlikeli teknolojik düşmanı olan bir organizasyondur — onlar, İmparatorluğun en karanlık ve en tehlikeli düşmanıdır. Dark Mechanicum'un en büyük özelliği, onların Chaos teknolojisidir — onlar, Chaos'un gücüyle teknolojiyi birleştirir ve onların makineleri, hem mekanik hem de demonik bir güçtür; bir Dark Mechanicum engine, hem bir makine hem de bir demon'dur ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Dark Mechanicum'un en ünlü özelliği, onların Hell Forge'larıdır — onlar, Chaos'un gücüyle çalışan devasa fabrikalardır ve onların üretimi, Chaos'un en büyük gücüdür; bir Hell Forge, bir gezegenin tamamen bir Chaos fabrikasına dönüşmesidir. Dark Mechanicum, İmparatorluğun en karanlık ve en tehlikeli düşmanıdır — onlar, teknolojinin

@@ -12,6 +12,6 @@ Horus Heresy'nin sonunda, İmparator Horus'u yenerken onulmaz biçimde yaraland�
 
 ## Tarihçe
 
-Altın Taht (Golden Throne), İmparator'un bedenini canlı tutan yaşam-destek tahtıdır; Terra'nın derinliklerinde, on bin yıldır İmparator'un ölümü ile yaşamı arasında askıda tutar. İmparatorluk'un hem tahtı hem hapishanesi — 'İmparator'un evi'.
+Altın Taht, Terra'daki İmparatorluk Sarayı'nın kalbinde duran devasa psionik makinedir; İmparator'un parçalanmış bedenini yaşamın eşiğinde tutan yaşam destek ünitesi ve Astronomicon'un odak noktasıdır. Horus Heresy'nin sonunda, Terra Kuşatması'nda Horus'la yaptığı düellodan ağır yaralı çıkan İmparator bu tahta yerleştirildi ve o günden beri bilinci oradan İmparatorluğu yönlendirir. Taht'ın çalışması için her gün yaklaşık bin psyker feda edilir; onların ruhları, İmparator'un iradesiyle birleşerek galaksideki bütün insan gemilerine yol gösteren psişik feneri yakar. Mekanizm on bin yıldır yavaşça arızalanmaktadır ve onu tamir edebilecek bilgi artık kimsede yoktur. Taht durursa Astronomicon söner, Warp seyahati imkânsızlaşır ve İmparatorluk günler içinde çöker.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

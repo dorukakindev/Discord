@@ -12,7 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/54/Inquisitor40.jpg/revi
 
 ## Tarihçe
 
-Velayne Ramaeus, Ordo Xenos'un Inquisitor'ü ve Jericho Reach'teki Deathwatch grubu 'Dead Cabal'ın lideridir. Doğası gereği ince, anlaşılmaz ve esrarengiz olan Inquisitor'ler arasında bile Ramaeus'un gizemi ayrıdır — kurnazlığını neredeyse gösterişli biçimde taşır. 'Karanlık Desen'i araştıran bu grubun başı olarak Jericho'nun en gizemli dosyalarının sahibidir.
+Velayne Ramaeus, Inquisition'ın en gizli ve en önemli üyesidir; Ordo Xenos'un en deneyimli Inquisitor'u olan ve Dead Cabal'ın — Deathwatch'ın en gizli grubu — lideri olan Ramaeus, İmparatorluğun en gizli ve en önemli varlığıdır — onlar, Inquisition'ın en gizli ve en önemli üyesidir. Velayne Ramaeus'un en büyük özelliği, onun liderliğidir — onlar, Dead Cabal'ın lideridir ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Ramaeus, hem bir Inquisitor hem de bir liderdir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Velayne Ramaeus'un en ünlü özelliği, onun Dead Cabal'ın lideridir — onlar, Deathwatch'ın en gizli grubunun lideridir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Velayne Ramaeus, Inquisition'ın en gizli ve en önemli üyesidir — onlar, bir liderin ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

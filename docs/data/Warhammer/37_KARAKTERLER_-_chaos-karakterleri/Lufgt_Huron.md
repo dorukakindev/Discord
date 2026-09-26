@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Huron_Blackheart_Reve
 
 ## Tarihçe
 
-Lufgt Huron — 'Huron Blackheart', 'Badab'ın Tiranı' — bir zamanlar Astral Claws'ın Chapter Master'ı ve Badab Primaris'in kendi-ilan-etmiş İmparatorluk valisiydi. Badab Savaşı'nda yenilip ağır yaralandı — bedeni ancak kapsamlı biyonik augmentasyonla onarıldı — sonra Maelstrom'a kaçıp Red Corsairs'in Chaos Lord'u oldu. İmparatorluk'un en büyük korsan donanmasını kuran bu figür, 'sadık chapter'ın efendisinden Chaos'un ikinci büyük lorduna' düşüşün simgesidir.
+Lufgt Huron (Huron Blackheart), Red Corsairs'ın en ünlü ve en tehlikeli lideridir; eskiden Astral Claws'ın Chapter Master'ı olan ve Badab War'da İmparatorluğa ihanet eden Huron, İmparatorluğun en tehlikeli ve en gizli düşmanlarından biridir — onlar, Red Corsairs'ın en ünlü ve en tehlikeli lideridir. Lufgt Huron'un en büyük özelliği, onun ihanetidir — onlar, bir Chapter Master'ın İmparatorluğa ihanetinin en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Huron, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Lufgt Huron'un en ünlü özelliği, onun Badab War'ıdır — onlar, İmparatorluğun en büyük iç savaşını başlatan ve onu kaybeden en trajik liderdir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Lufgt Huron, Red Corsairs'ın en ünlü ve en tehlikeli lideridir — onlar, bir ihanetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

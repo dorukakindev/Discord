@@ -15,4 +15,4 @@ Fiend'ler, Slaanesh'in yarattığı en garip avcılardır: at bedeni, akrep kuyr
 
 ## Tarihçe
 
-Fiend of Slaanesh, Slaanesh'in Daemon Beast'lerinden biridir — aşırı hız ve zevk-obsesyonunun vahşi bedenlenişi. Çok bacaklı, kırbaç kuyruklu ve sarhoş edici bir musk kokusu yayan bu yaratıklar, düşmanın savunma hattını tuzla buz eden 'zehirli arzu'nun simgesidir; onların varlığı yakınındaki savaşçıların irades
+Fiend of Slaanesh, Slaanesh'in en ünlü ve en tehlikeli daemon yaratığıdır; Slaanesh'in en hızlı ve en ölümlü avcısı olan ve onun en gizli operasyonlarını yapan Fiend, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Slaanesh'in en ünlü ve en tehlikeli daemon yaratığıdır. Fiend'ın en büyük özell

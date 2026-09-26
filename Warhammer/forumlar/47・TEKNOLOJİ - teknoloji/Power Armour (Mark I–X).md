@@ -16,8 +16,6 @@ Space Marine'in simgesi olan, kendi güç kaynağı, yaşam desteği ve kapalı 
 
 ## Tarihçe
 
-Kabul görmüş sıralama şöyledir: Mk I Thunder, Mk II Crusade, Mk III Iron, Mk IV Maximus, Mk V Heresy, Mk VI Corvus, Mk VII Aquila, Mk VIII Errant. Mk II–VI büyük ölçüde Great Crusade ve Horus Heresy yıllarına aittir; Mk VII, Heresy'nin son safhasında ortaya çıkıp sonraki binyılların standart zırhı oldu. Era Indomitus'ta Primaris'ler için Mark X ailesi (Tacticus, Gravis, Phobos) üretildi.
-
--# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Horus Heresy Book One: Betrayal*; *Dark Imperium — Guy Haley*
+Power Armour, Space Marine'lerin giydiği temel savaş zırhıdır; elektro-kas lifleri, zırh plakaları ve yaşam destek sistemlerini birleştiren ve giyeni süper-insan gücünün ötesine taşıyan tamamlayıcı bir ekosistemdir. Mark I (Thunder Armour) Thunder Warriors'ın ilk zırhıydı; Mark II (Crusade Armour) Büyük Haçlı Seferi'nin standartı oldu; Mark III (Iron Armour) kuşatma savaşı için ağırlaştı; Mark IV (Maximus) en gelişmiş Heresy öncesi modeldi. Mark V (Heresy Armour) kaynak kıtlığında karma parçalarla üretildi; Mark VI (Corvus) beaked helm ile tanınır; Mark VII (Aquila) günümüz standardı; Mark VIII (Errant) göğüs koruması ekledi; Mark IX ve X (Primaris dönemi) Cawl'ın ta
 
 -# İlişkili kayıtlar: <#1551753431230971988>, <#1551808888666587197>, <#1551818213782716427>, <#1551809555841818669>

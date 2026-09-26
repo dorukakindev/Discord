@@ -15,12 +15,8 @@ Dökülüp dövülmek yerine büyütülen, yaşayan bir malzemedir. Bir craftwor
 
 ## Tarihçe
 
-Wraithbone'u şekillendiren ve onaran uzmanlar **Bonesinger**'lardır; adlarını, maddeyi psişik şarkılarla biçimlendirmelerinden alırlar. Fall of the Aeldari'den sağ kurtulan craftworld'ler, bu zanaat sayesinde yıldızlar arasında yüzen dünyalar olarak binyıllardır ayakta kalır. Wraithbone'un içinden geçen psişik ağ ise craftworld'ün infinity circuit'ini taşır.
+Wraithbone, Aeldari'nin inşaat ve silah üretiminde kullandığı temel maddedir; katı Warp enerjisinin fiziksel forma çekilmiş halidir — ne tamamen madde ne de tamamen ruh. Bonesinger'lar (Aeldari zanaatkarları) wraithbone'u şarkı ve iradeyle şekillendirir; bir Bonesinger, saf wraithbone'dan silah, zırh, araç veya bina büyütebilir ve bu yapılar organik dayanıklılıkla inorganik sağlamlığı birleştirir. Wraithbone yapılar 'yaşar' — kendi kendini onarır, düşünceye tepki verir ve Aeldari'nin psişik imzasını taşır; bu yüzden Eldari silahları sadece alet değil, taşıyıcısının ruhunun uzantısıdır. Craftworld'lerin gövdeleri, Titan'ları ve silahları hep wraithbone'dandır; Chaos'un çürüttüğü wraithbone ise Spiritseer'lar tarafından arındırılır ya da imha edilir. Wraithbone üretimi Eldari'nin en gizli sanatıdır ve Drukhari bile onu taklit edemez — Commorragh'da wraithbone çalışmaz çünkü Webway'in karanlık tarafında Warp maddeleşemez.
 
 ## Teknik / Biyolojik Özellikler
 
-Psişik enerjiyi taşıyabilir ve iletebilir; bu nedenle ruhların bedenlendirilmesinde ve psişik ağların kurulmasında kullanılır. Kesin üretim yöntemi yayımlanmış kanonda açıklanmamıştır.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Valedor — Guy Haley*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551814105046851615>
+Psişik enerjiyi taşıyabilir ve ile

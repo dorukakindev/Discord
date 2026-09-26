@@ -52,6 +52,10 @@ Davin'den dönen Horus iyileşmişti, ama Mournival için bir şey kalıcı olar
 
 Bu dönemin en çarpıcı yanı, çemberin resmî olarak dağılmamasıdır. Mournival hâlâ vardı; ama bir danışma meclisi olmaktan çıkmış, bir sadakat sınavına dönüşmüştü. Kaybedeni baştan belli olan bir sınav.
 
+## Tarihçe
+
+Mournival, Sons of Horus Legion'unun (sonra Black Legion) en üst savaş konseyidir; Horus'un kişisel danışma kurulu ve Legion'un en güçlü dört savaşçısından oluşan bu grup, Heresy'nin merkezindeki en etkili askeri yapıydı. Mournival'in üyeleri — Ezekyle Abaddon, Tarik Torgaddon, Horus Aximand (Little Horus) ve Garviel Loken — Horus'un en yakın danışmanları ve en güvenilir savaşçılarıydı; onların kararı, Legion'un stratejisini belirlerdi ve o
+
 ## Isstvan III: Kanla Çözülüş
 *Galaxy in Flames*'te Horus, ihanetini kendi Legion'larının içini temizleyerek başlattı. Sadakatinden kuşku duyulan savaşçılar Isstvan III'e indirildi ve virüs bombalarının altında bırakıldı. Loken bilerek bu listeye konmuştu. Torgaddon da onunla birlikteydi; neşeli kaptan, kararını kardeşlerinin çoğunluğundan yana değil, Loken'in yanında vermişti.
 

@@ -10,13 +10,8 @@ Yarık'ın açılmasıyla Astronomican'ın ışığı 'Nihilus' tarafında titre
 
 ## Tarihçe
 
-Büyük Yarık (High Gothic: Cicatrix Maledictum), 999.M41'de 13. Kara Haçlı Seferi ve Cadia'nın düşüşüyle açılan, galaksiyi ikiye bölen devasa Warp fırtınası zinciridir. Açıldığında Astronomican'ın ışığını karartan empyrik enerji tsunamisi (Noctis Aeterna) saldı; İmparatorluk'u Imperium Sanctus ve karanlık Imperium Nihilus olarak ikiye ayırdı.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Büyük Yarık (Great Rift), Cadia'nın düşüşünden sonra açılan ve İmparatorluğu ikiye bölen en trajik Warp fenomenidir. Büyük Yarık, Cadia'nın düşmesiyle birlikte açıldı ve İmparatorluğu ikiye böldü; bu, İmparatorluk tarihinin en büyük trajedilerinden biri oldu. Büyük Yarık'ın açılması, İmparatorluk'un birçok bölgesini Chaos'a karşı savunmasız bıraktı ve Imperialis'in ikiye bölünmesine neden oldu. Büyük Yarık, İmparatorluk'un en büyük trajedisinin kendi dağılması olduğunu gösteren en çarpıcı örnektir.
 
 https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest?cb=20170903200334
 
 https://static.wikia.nocookie.net/warhammer40k/images/f/fa/SpaceMarineChapterHomeworldsGreatRift.png/revision/latest?cb=20170903200334
-
-## Tarihçe
-
-Büyük Yarık (High Gothic: Cicatrix Maledictum), 999.M41'de 13. Kara Haçlı Seferi ve Cadia'nın düşüşüyle açılan, galaksiyi ikiye bölen devasa Warp fırtınası zinciridir. Açıldığında Astronomican'ın ışığını karartan empyrik enerji tsunamisi (Noctis Aeterna) saldı; İmparatorluk'u Imperium Sanctus ve karanlık Imperium Nihilus olarak ikiye ayırdı.

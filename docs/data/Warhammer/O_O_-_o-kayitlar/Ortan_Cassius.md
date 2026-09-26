@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e4/Chaplain_Cassius_Mode
 
 ## Tarihçe
 
-Ortan Cassius — 'Gerçek İnanan' — Ultramarines'in kıdemli Chaplain'i ve 'Kutsallığın Efendisi'dir; Dreadnought zırhına gömülmemiş en yaşlı aktif Ultramarines üyesidir. Görünen az derisi arasında sayısız yara ve vida yerleşimi olan bu figür, yüzyıllardır chapter'ın manevi omurgasıdır; Styxia Prime'da Tyranid'lere karşı Ultramarines'i savaşa dizmesiyle bilinir. 'Chapter'ın yaşayan vicdanı' olarak Macragge'ın en saygın seslerinden biridir.
+Ortan Cassius, Ultramarines'in en ünlü ve en saygın Master of Sanctity'sidir; Chapter'ın en yüksek rahip rütbelisi olan ve Tyranid'lere karşı en katı tutumu savunan Cassius, İmparatorluğun en saygın ve en katı rahibidir — onlar, Ultramarines'in en ünlü ve en saygın üyesidir. Ortan Cassius'un en büyük özelliği, onun katılığıdır — onlar, Tyranid'lere karşı en katı tutumu savunan ve onları yok etmeyi tek çözüm olarak gören en katı rahiptir ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Cassius, hem bir rahip hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ortan Cassius'un en ünlü özelliği, onun Master of Sanctity unvanıdır — onlar, bir Chapter'ın en yüksek rahip rütbelisidir ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır. Ortan Cassius, Ultramarines'in en ünlü ve en saygın Master of Sanctity'sidir — onlar, bir rahibin ve Ultramarines'in en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -51,4 +51,8 @@ Perturabo, *Realm of Chaos* dönemi Chaos kaynaklarında şekillendi; Index Asta
 **Kaynaklar:** *Perturabo: The Hammer of Olympia — Guy Haley*; *Angel Exterminatus — Graham McNeill*; *The Crimson Fist — John French*; *Storm of Iron — Graham McNeill*; *Dead Sky Black Sun — Graham McNeill*; *Codex: Chaos Space Marines — 10th Edition*
 **Çapraz:** **kayıt**, rogal-dorn, **kayıt**, **kayıt**, siege-of-terra, **kayıt**, **kayıt**, **kayıt**
 
+## Tarihçe
+
+Perturabo, Iron Warriors'un en ünlü ve en trajik primarch'ıdır; Olympia'nın — Iron Warriors'un ev gezegeni — en zorlu savaşçısı olan ve Iron Warriors'u kuran Perturabo, İmparatorluğun en trajik ve en tehlikeli primarch'ıdır — onlar, Iron Warriors'un en ünlü ve
+
 ​

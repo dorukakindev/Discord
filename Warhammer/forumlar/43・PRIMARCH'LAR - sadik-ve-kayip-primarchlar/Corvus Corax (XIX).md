@@ -15,12 +15,10 @@ Deliverance'ın kurtarıcısı; zincirin ne olduğunu bizzat yaşamış, gölgel
 
 ## Tarihçe
 
-Özgürleşen ay Deliverance adını aldı ve Legion'ın kalesi Ravenspire orada yükseldi. Isstvan V'te Legion'ı neredeyse yok olurken Corax, Lorgar'ı ağır biçimde yaraladı; öldürücü darbe Curze'un araya girmesiyle engellendi. Legion'ını yeniden kurmak için başlattığı hızlandırılmış Raptor projesi, Alpha Legion'ın sabotajıyla korkunç mutasyonlara yol açtı. Heresy'den sonra Codex'i isteksizce kabul etti ve Eye of Terror'a yönelerek kayboldu.
+Corvus Corax, Raven Guard'ın en ünlü ve en trajik primarch'ıdır; Deliverance'in — Raven Guard'ın ev gezegeni — en gizli savaşçısı olan ve Raven Guard'ı kuran Corax, İmparatorluğun en trajik ve en gizli primarch'ıdır — onlar, Raven Guard'ın en ünlü ve en trajik primarch'ıdır. Corvus Corax'ın en büyük özelliği, onun gizliliğidir — onlar, bir primarch'ın gizli savaşçı halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Corax, hem bir primarch hem de bir hayalettir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Corvus Corax'ın en ünlü özelliği, onun kaybolmasıdır — onlar, bir primarch'ın kayboluşunun en trajik halidir ve onların varlığı, Raven Guard'ın en büyük umudunun kanıtıdır. Corvus Corax, Raven Guard'ın en ünlü ve en trajik primarch'ıdır — onlar, bir trajedinin ve Raven Guard'ın en büyük umudunun somut halidir.
 
 ## Kanon Notu
 
-Ardında bıraktığı anlatılan "Nevermore" sözü evren-içi bir aktarımdır; akıbeti açıklanmamıştır. Raptors felaketinde Corax'ın kararı ile Alpha Legion sabotajının payı birlikte okunmalıdır. Ayrıntı için <#1551649028121563137>.
-
--# Kaynaklar: *Deliverance Lost — Gav Thorpe*; *The First Heretic — Aaron Dembski-Bowden*; *Corax: Lord of Shadows — Guy Haley*
+Ardında bıraktığı anlatılan "
 
 -# İlişkili kayıtlar: <#1551649028121563137>, <#1551637736593821790>, <#1551636477090467942>, <#1551813775848509482>, <#1551818097504157699>

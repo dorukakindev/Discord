@@ -11,6 +11,4 @@ Codex Astartes'in yazılması da aynı dönemin parçasıdır: Guilliman'ın ese
 
 ## Tarihçe
 
-Heresy sonrası düzen: Guilliman'ın Codex'i lejyonları Chapter'lara böldü; İmparator Golden Throne'a bağlandı. Modern İmparatorluk'un kuruluş anı — parçalanma ama sağlamlaşma.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Altın Taht ve Codex Astartes, İmparatorluğun en önemli ve en trajik iki varlığıdır; Altın Taht — İmparator'un yaşadığı ve onun gücünün kaynağı olan yer — ve Codex Astartes — Guilliman'ın yazdığı ve Space Marine'lerin reorganizasyonunu düzenleyen metin — birlikte İmparatorluğun en büyük değişiminin ve en büyük trajedisinin merkezidir. Altın Taht'ın en büyük özelliği, onun İmparator'un evidir — onlar, İmparator'un yaşadığı ve onun gücünün kaynağıdır; bir

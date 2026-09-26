@@ -13,6 +13,6 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 
 ## Tarihçe
 
-Adeptus Custodes'un ikonik kombine silahı; güç mızrağının ucuna gömülü bolter. Hem fırlatılabilen hem yakın dövüşte kullanılan İmparator'un Muhafızlarının standart silahı — 10.000 yıllık muhafız geleneğinin simgesi.
+Guardian Spear, Adeptus Custodes'in simgeleşmiş silahıdır; hem güçlendirilmiş mızrak hem de entegre bolter içeren çift işlevli bir silahtır ve bir Custodian'ın elinde, hem yakın dövüş hem de uzak mesafe için ölümcül bir araçtır. Guardian Spear'ın bıçağı, auramite alaşımı ve disruption field ile dövülmüştür — bir Custodian'ın spear darbesi, bir Greater Daemon'un zırhını veya bir Chaos Lord'un bedenini deler; ve içindeki bolter, Custodian'a yakın dövüş öncesi ateş gücü verir. Guardian Spear'ın üretimi, Custodes'in en gizli ritüelidir — her spear, tek tek dövülür ve içine Custodian'ın kendi psişik imzası mühürlenir; bir Guardian Spear, sadece bir silah değil, Custodian'ın ruhunun parçasıdır. Guardian Spear, İmparatorluğun en kutsal silahıdır — onu taşıyan, İmparator'un seçilmişidir ve onun kesimi, İmparator'un iradesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

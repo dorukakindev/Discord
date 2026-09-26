@@ -16,8 +16,4 @@ Sanguinius'un soyunun tarihindeki en büyük toplanmalardan birine sahne olan sa
 
 ## Tarihçe
 
-Önce Cryptus'ta Blood Angels, Necron Overlord Anrakyr the Traveller'la geçici bir çıkar birliğine girdi ve Baal'a zaman kazandırdı. Ardından Dante'nin çağrısıyla successor Chapter'lar Baal'a akın etti; sürüler aylara, sonra anayurda yüklendi ve savunma hat hat çözüldü. En umutsuz anda Great Rift açıldı; kısa süre sonra Guilliman'ın Indomitus filoları gelerek Tyranid kolunu yok etti.
-
--# Kaynaklar: *Devastation of Baal — Guy Haley*; *Shield of Baal: Leviathan*; *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551809334483361823>, <#1551811368389181491>, <#1551650289579335757>, <#1551815418619101185>
+Siege of Baal (Devastation of Baal), İmparatorluğun en büyük ve en trajik savunmasıdır; Hive Fleet Leviathan'ın Baal'a — Blood Angels'ın evine — saldırısı ve Blood Angels'ın en büyük direnişinin en büyük anıdır — onlar, İmparatorluğun en büyük savunmasının ve en büyük fedakarlığının somut halidir. Siege of Baal'ın en büyük özelliği, onun trajedisidir — onlar, bir Chapter'ın en büyük kaybının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Siege of Baal, bir gezegenin en trajik halidir ve onların varlığı, İmparatorluğun en büyük direnişinin somut halidir. Siege of Baal'ın en ünlü özelliği, onun Blood Angels'ın direnişidir — onlar, bir Chapter'ın en büyük d

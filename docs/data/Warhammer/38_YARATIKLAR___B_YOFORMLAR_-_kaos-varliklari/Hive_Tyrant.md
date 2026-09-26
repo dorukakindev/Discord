@@ -16,8 +16,4 @@ Hive Tyrant, Tyranid sürülerinin savaş alanındaki komutanıdır: iri, zeki, 
 
 ## Tarihçe
 
-Hive Tyrant (Tyranicus praefactor), Tyranid sürüsünün ana saha komutanı olan devasa biyoformdur — sıradan Tyranid'lerin üstünde duran bir 'synapse yaratığı'. Güçlü psişik güçlere sahiptir ama Warp daemonlarından etkilenmez — 'etten zihin' olarak Hive Mind'ın iradesini savaş alanına taşıyan canlı komuta kulesidir.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551809334483361823>
+Hive Tyrant, Tyranid'in en büyük ve en güçlü lideridir; bir Tyranid ordusunun en yüksek rütbeli komutanı olan ve onun en büyük savaşlarını yöneten Hive Tyrant, Tyranid'in en büyük ve en tehlikeli varlığıdır — onlar, Tyranid'in en büyük ve en güçlü lideridir. Hive Tyrant'ın en büyük özelliği, onun gücüdür — onlar, bir Tyranid ordusunun en yüksek rütbeli komutanıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Hive Tyrant komutası, bir Tyranid ordusunun en büyük anıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Hive Tyrant'ın en ünlü özelliği, onun devasa boyutudur — onlar, bir Tyranid ordusunun en büyük ve en güçlü lideridir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Hive Tyrant, Tyranid'in en büyük ve en güçlü lideridir — onl

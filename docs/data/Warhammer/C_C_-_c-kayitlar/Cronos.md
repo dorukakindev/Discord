@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8c/Cronos_Parasite_Engin
 
 ## Tarihçe
 
-Cronos, Drukhari'nin 'zaman-yutan' Haemonculus figürüdür; ruh-yeme uzmanı olan bu Talos muadili, acıyı gıda yapıp yaşam-enerjisini emen 'parazit' — Covens'in en soğuk varlığı.
+Cronos Parasite Engine, Haemonculus kovunlarının ürettiği bir diğer korku makinesidir; Talos'un aksine Cronos avcıdır — düşmanın ruhunu ve yaşam enerjisini emerek kendini besleyen bir parazit-makinedir. Görünüşü devasa bir böceği andırır — çok-bacaklı, hızlı ve her bir dokunaçlı uzvuyla canlı dokuyu çekip içine alır. Cronos'un işlevi Haemonculus'un laboratuvarına 'hammadde' toplamaktır; canlı esirleri emdiği yaşam gücüyle parçalanır ve bu enerji kovun tarafından yeniden bedenlendirme veya işkence sanatında kullanılır. Savaşta Cronos düşman saflarına salınır ve kaçanları avlar — yakaladığı kurbanın ruhu yavaşça emilirken bedeni hâlâ çırpınır ve bu görüntü Drukhari'nin en çok zevk aldığı şeydir. Cronos ve Talos genellikle birlikte çalışır — Talos toplar, Cronos işler; ikisi bir arada bir Haemonculus'un hareketli atölyesini oluşturur.
 
 -# Kaynaklar: *Drukhari Codex*
 -# İlişkili kayıtlar: <#1552848897540624565>

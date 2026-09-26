@@ -15,12 +15,10 @@ Emperor'un ilk Legion'ı; ketum, katmanlı ve sır tutmaya dayalı bir savaş ka
 
 ## Tarihçe
 
-Great Crusade'in en eski seferlerine katılan Legion, Heresy boyunca Lion'un belirsizliğini koruyan manevralarıyla uzun süre Terra'dan uzak kaldı. Luther önderliğinde Caliban'da ayaklananlarla Lion'un dönüşü arasındaki çatışma Caliban'ın parçalanmasıyla son buldu; dağılan Fallen, o günden beri Chapter'ın gizli avıdır. Second Founding'de doğan ardıllar Unforgiven ailesini oluşturdu. Great Rift çağında Lion'un dönüşü Chapter'ı yeniden sarsmıştır.
+Dark Angels (I Legion), Lion El'Jonson'un oğullarıdır; ilk kurulan Legion'dur ve İmparatorluğun en gizli ve en disiplinli savaşçılarıdır — onların savaşı, hem düşmana hem de kendi geçmişlerine karşıdır. Dark Angels'ın en büyük sırrı, Fallen Angels'dır — Heresy'de Legion'un yarısı Chaos'a düştü ve o günden beri Dark Angels, Fallen'ları avlamak için her şeyi yapar; onların savaşı, sadece İmparatorluk için değil, kendi utançlarını temizlemek içindir. Dark Angels'ın savaş doktrini, Lion'un şövalye geleneğinden doğar — onlar disiplinli, gizli ve acımasızdır; onların Inner Circle'ı, Chapter'ın en gizli kararlarını alır ve onların Ravenwing ve Deathwing'i, İmparatorluğun en tehlikeli avcılarıdır. Dark Angels, İmparatorluğun en eski ve en gizli Chapter'ıdır — onlar, İmparatorluğun ilk oğulları ve en büyük sırrını taşıyanlardır.
 
 ## Teknik / Biyolojik Özellikler
 
-Chapter, Deathwing ve Ravenwing adlı özel kanatlarıyla Codex yapısından ayrılır; Inner Circle, Fallen sırrını alt rütbelerden saklar. Fortress-monastery'leri Caliban'ın kalıntısı olan The Rock'tır.
-
--# Kaynaklar: *Descent of Angels — Mitchel Scanlon*; *Angels of Darkness — Gav Thorpe*; *Codex: Dark Angels*
+Chapter, Deathwing ve Ravenwing adlı özel k
 
 -# İlişkili kayıtlar: <#1551813077991686208>, <#1551816136679751721>, <#1551809277692215330>, <#1551814951365115956>

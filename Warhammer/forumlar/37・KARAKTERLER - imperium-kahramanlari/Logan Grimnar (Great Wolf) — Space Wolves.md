@@ -16,8 +16,4 @@ Space Wolves'un uzun ömürlü Chapter Master'ı. Fenris geleneğinin, Russ'a ba
 
 ## Tarihçe
 
-Logan Grimnar, Space Wolves'un 'Büyük Kurdu' — Chapter Master'ıdır ve Era Indomitus'un en büyük Astartes liderlerinden biri. Fenris'in 'Yaşlı Kurt'u olarak yüzyıllardır chapter'ı yöneten bu figür, İmparatorluk'un en savaşkan ve dikbaşlı komutanı olarak bilinir — 'bağımsız kurt' olarak Space Wolves'un özgür ruhunun bedenidir.
-
--# Kaynaklar: *Codex Supplement: Space Wolves*; *War Zone Fenris: Wrath of Magnus*
-
--# İlişkili kayıtlar: <#1551638910344630307>, <#1551649072912269433>, <#1551643990196232303>, <#1551815304252887041>, <#1551809231580307517>
+Logan Grimnar, Space Wolves'un Great Wolf'u — Chapter'ın en yüksek lideri — ve İmparatorluğun en efsanevi ve en saygın komutanlarından biridir; onların Fenris'in en yaşlı ve en bilge savaşçısı olan Grimnar, İmparatorluğun en büyük savaşlarının ve en büyük onurunun simgesidir — onlar, Space Wolves'un en ünlü ve en saygın lideridir. Logan Grimnar'ın en büyük özelliği, onun bilgeliğidir — onlar, yüzyıllarca savaşan ve Space Wolves'u en büyük zaferlere taşıyan en yaşlı Chapter Master'dır ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır; bir Logan Grimnar komutası, bir Chapter'ın en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Logan Grimnar'ın en ünlü görevi, Armageddon Savaşı'nda Angron'a karşı savaşmasıdır — onlar, bir Daemon Primarch'ı

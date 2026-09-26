@@ -106,4 +106,8 @@ Necron'ların sahneye çıkışıyla birlikte 3rd Edition dönemindeki Codex, Wa
 **Kaynaklar:** *Codex: Necrons — 10th Edition*; *Codex: Necrons — 9th Edition*; *Codex: Necrons — 5th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*; *The Infinite and the Divine — Robert Rath*; *Warhammer 40,000 Core Book — 10th Edition*
 **Çapraz:** <#1551817636516470845>, <#1551812203584295003>, <#1551759762193121282>, <#1551810506078290021>, <#1551809699312181339>, <#1551759766966116383>, <#1551809666454134928>, <#1551587903191388183>
 
+## Tarihçe
+
+War in Heaven, evrenin en eski ve en trajik savaşı olarak tarihe geçti. Bu savaş, Necrontyr ırkının C'tan'larla — evrenin en güçlü varlıkları — savaşını içeriyordu; War in Heaven sırasında Necrontyr, C'tan'larla savaştı ve sonunda C'tan'ları yarattı. Savaş, Necrontyr'ın C'tan'ları yaratmasıyla sonuçlandı; ancak
+
 ​

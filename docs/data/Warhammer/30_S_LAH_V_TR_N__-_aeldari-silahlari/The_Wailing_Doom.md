@@ -20,4 +20,8 @@ Khaine'in Avatarı'nın taşıdığı kadim mızrak; biçim değiştiren bu sila
 ## Not
 Wailing Doom'un kesin tarihi kaynaklarda belirsizdir; Eldanesh–Khaine düellosu sonrası güncel Aeldari Avatar'ları ile ilişkisi efsane düzeyinde kalır.
 
+
+## Tarihçe
+
+The Wailing Doom, Aeldari'nin en ünlü ve en korkulan relic'idir; Eldanesh'in — Aeldari'nin efsanevi kahramanı — kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, Aeldari'nin en ünlü ve en korkulan hazinesidir. The Wailing Doom'un en büyük özelliği, onun gücüdür — onlar, bir efsanevi kahramanın en güçlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Wailing Doom kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. The Wailing Doom'un en ünlü özelliği, onun Eldanesh'in silahıdır — onlar, Aeldari'nin en ünlü kahramanının simgesidir ve onların varlığı, Aeldari'nin en büyük onurunun kanıtıdır. The Wailing Doom, Aeldari'nin en ünlü ve en korkulan relic'idir — onlar, bir efsanevi kahramanın mirasının ve Aeldari'nin ruhunun somut halidir.
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

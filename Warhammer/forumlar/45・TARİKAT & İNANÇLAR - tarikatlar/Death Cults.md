@@ -14,6 +14,4 @@ Death Cults'un ritüelleri, İmparatorluk'un en vahşi ibadetleridir: 'Blood Sac
 
 ## Tarihçe
 
-Death Cults, İmparatorluk'un resmî hoşgörüyle izlediği ölümcül tarikatlardır; 'kutsal katil' üyeleri İmparator'a adak olarak heretikleri öldürür. Vahşi ama 'faydalı' görüldükleri için müsamaha edilirler — bazı Death Cult savaşçıları sonradan Assassinorum veya Ecclesiarchy saflarına geçer.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Death Cults, İmparatorluğun en karanlık ve en tehlikeli dini tarikatlarından biridir; onların ölüm ve kan üzerine kurulu inançları ve onların savaşı, sadece öldürmek ve kan akıtmaktır — onlar, İmparatorluğun en karanlık ve en ölümcül tarikatıdır. Death Cults'un en büyük özelliği, onların ölüm kültürüdür — onlar için savaş, ölümün kutsal törenidir ve onların savaşı, hem dini hem de katliamdır; bir Death Cult üyesi, hem bir savaşçı hem de bir fanatiktir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir.

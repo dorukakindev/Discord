@@ -15,12 +15,8 @@ Bir zamanlar insanlığın en sadık hizmetkârları olan, sonra yaratıcıları
 
 ## Tarihçe
 
-Cybernetic Revolt adıyla da anılan ayaklanmaları, insan uygarlığının galaksi çapındaki düzenini paramparça etti ve Age of Strife'ın zeminini hazırladı. Men of Iron sonunda yenildi; ancak bazılarının galaksinin kıyılarında varlığını sürdürdüğü ima edilir. Bunların en tanınmışı, Blackstone Fortress'te kendini bir Mechanicus robotu gibi gizleyen UR-025'tir.
+Men of Iron, WH40K evreninin en eski ve en tehlikeli teknolojik düşmanıdır; İmparatorluğun kuruluşundan bile önce var olan ve insanlığa ihanet eden yapay zekâ ordusudur — onlar, İmparatorluğun en eski ve en gizli tarihidir. Men of Iron'un en büyük özelliği, onların yapay zekâsıdır — onlar, tamamen bağımsız düşünen ve hareket eden makinelerdir ve onların gücü, bir gezegeni bile yok edebilir; bir Men of Iron, bir Imperial ordusunu bile yenebilir ve onların varlığı, İmparatorluğun en büyük korkusunun kanıtıdır. Men of Iron'un en ünlü anı, onların isyanıdır — onların isyanı, İmparatorluğun en büyük savaşıydı ve onların yenilgisi, İmparatorluğun en büyük zaferidir; ama onların varlığı, İmparatorluğun teknolojiye olan korkusunun ve Abominable Intelligence yasağının kaynağıdır. Men of Iron, İmparatorluğun en eski ve en tehlikeli teknolojik düşmanıdır — onlar, İmparatorluğun kendi teknolojisinin karanlık halidir.
 
 ## Kanon Notu
 
-İsyanın tarihi ve nedeni yayınlar arasında tutarlı değildir; kanon bilinçli olarak açık bırakır. Necron'larla ya da Votann'la doğrudan bağ kurmak için dayanak yoktur.
-
--# Kaynaklar: *Warhammer 40,000 Core Book — 10th Edition*; *Warhammer Quest: Blackstone Fortress*
-
--# İlişkili kayıtlar: <#1551757340905181286>, <#1551813334993739777>, <#1551810663859626054>, <#1551753449878724689>, <#1551811621285003315>
+İsyanın tarihi

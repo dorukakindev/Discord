@@ -12,6 +12,4 @@ Asanın tarihi, Necron'ların kendisi kadar eskidir; ilk olarak Zehet Hanedanı'
 
 ## Tarihçe
 
-The Staff of the Destroyer, C'tan Nightbringer'ın mitlerindeki kadim güç simgesidir; yıldız yiyen tanrının yıkımının parçası olduğu söylenir. Necron ve Eldar mitolojisinde karşılıklı anılır — kayıtları belirsiz olsa da C'tan arkeolojisinin en tehlikeli efsanelerinden biridir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Staff of the Destroyer, Necron'ların en ünlü ve en korkulan relic'idir; bir Necron Lord'un — Necron'ların en güçlü liderleri — kullandığı ve onun en büyük savaşlarının simgesi olan bir asadır — onlar, Necron'ların en ünlü ve en korkulan hazinesidir. The Staff of the Destroyer'ın en büyük özelliği, onun gücüdür — onlar, bir Necron Lord'un en güçlü silahıdır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır; bir Staff of the Destroyer kullanıcısı, hem bir savaşçı hem de bir ölümün somut halidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. The Staff of the Destroyer'ın en ünlü özelliği, onun Necron Lord'un silahıdır — onlar, bir Necron'un en ünlü silahıdır ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. The Staff of the Destroyer, Necron'ların en ünlü ve en korkulan relic'idir — onlar, bir Necron'un gücünün ve Necron'ların en

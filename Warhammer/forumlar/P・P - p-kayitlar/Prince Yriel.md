@@ -15,7 +15,7 @@ Yriel'in hikâyesinin bir bedeli vardır: Iyanden'i kurtarmak için kuşandığ�
 
 ## Tarihçe
 
-Prince Yriel — House Ulthanash'ın Oğlu, Iyanden'in Yüksek Amiral'i ve Eldritch Raiders'ın efendisi — Iyanden'in parlak ama pervasız Autarch'ıdır. Saf Iyanden soylusu değildir; korsan olarak sürüldü ama Hive Fleet Kraken'ın saldırısında lanetli Spear of Twilight'ı çekip craftworld'ünü kurtardı — 'sürgünden dönen korsan-prens' olarak Iyanden'ın en tartışmalı kahramanı.
+Prince Yriel, Aeldari'nin en ünlü ve en trajik Corsair'ıdır; eskiden Iyanden'in — Aeldari craftworld'ü — amirali olan ve korsanlığa dönen Yriel, Aeldari'nin en trajik ve en cesur savaşçısıdır — onlar, Aeldari'nin en ünlü ve en trajik Corsair'ıdır. Prince Yriel'in en büyük özelliği, onun trajedisidir — onlar, bir amiralin korsanlığa dönüşünün en trajik halidir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır; bir Yriel, hem bir savaşçı hem de bir korsandır ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Prince Yriel'in en ünlü özelliği, onun Iyanden'in eski amiralı olmasıdır — onlar, bir craftworld'ün en yüksek rütbeli üyesinin
 
 ## Zafer, Sürgün ve Eldritch Raiders
 

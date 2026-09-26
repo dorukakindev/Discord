@@ -11,7 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/52/SisterArgenta.jpg/rev
 
 ## Tarihçe
 
-Argenta, Adepta Sororitas'ın Orders Pronatus üyesi ve eski Order of Our Martyred Lady kızkardeşidir; House von Valancius Rogue Trader'ının ekibinde görev yapar. Astra Militarum subaylarının yetim kızı olarak Schola Progenium'da sert eğitim aldı; Sisters of Battle'ın 'inançlı savaş makinesi' doktrinini en katıksız haliyle temsil eder. Koronus Expanse'ın en tehlikeli bölgelerinde bile 'kutsal ateş' ve bolter'la İmparator'un yolunu koruyan, 'kızıl dua'lı figür.
+Argenta, Sisters of Battle'ın en ünlü ve en kutsal üyesidir; 'The Sisters of Battle are a fire lit by the God-Emperor' diyen ve İmparator'un gazabını heretik ve mutantlara taşıyan en kutsal savaşçı olan Argenta, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal üyesidir. Argenta'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal savaşçıdır ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Argenta, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Argenta'nın en ünlü özelliği, onun Sisters of Battle'ın üyesidir — onlar, İmparatorluğun en kutsal ordusunun en ölümcül üyesidir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır. Argenta, Sisters of Battle'ın en ünlü ve en kutsal üyesidir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057461361971241>

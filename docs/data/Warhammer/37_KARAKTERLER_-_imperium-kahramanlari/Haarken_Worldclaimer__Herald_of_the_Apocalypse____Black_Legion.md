@@ -16,8 +16,8 @@ Warmaster'ın saldırıya geçeceği dünyaların düşüşünü önceden ilan e
 
 ## Tarihçe
 
-Haarken Worldclaimer, Black Legion'un Chaos Lord'u ve Heretic Astartes Raptor'udur; 'Kıyametin Habercisi' ve Abaddon'un 'Proclamator'ı olarak bilinir — düşecek dünyalara düşüşü ilan eden ağzıdır. Vigilus'ta savunmacılara gezegenin akıbetini söyleyen bu figür, Despoiler'ın psikolojik savaş silahıdır — 'ölümün ilan edildiği' daemonik prelüd.
+Haarken Worldclaimer, Black Legion'un en ünlü ve en korkulan habercisidir; 'Herald of the Apocalypse' olarak bilinen ve Abaddon'un en sadık elçisi olan Haarken, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Black Legion'un en ünlü ve en korkulan üyesidir. Haarken'in en büyük özelliği, onun haberciliğidir — onlar, Abaddon'un en sadık elçisidir ve onların varlığı, Black Legion'un en büyük gücünün kanıtıdır; bir Haarken, hem bir savaşçı hem de bir habercidir ve onların varlığı, Chaos'un en gizli gücünün somut halidir. Haarken'in en ünlü özelliği, onun 'Worldclaimer' lakabıdır — onlar, bir gezegenin düşüşünün en büyük habercisidir ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Haarken Worldclaimer, Black Legion'un en ünlü ve en korkulan habercisidir — onlar, bir habercinin ve Chaos'un en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Vigilus Ablaze*; *Codex: Chaos Space Marines*
 
--# İlişkili kayıtlar: <#1551811342405599345>, <#1551638958352506881>, <#1551809601207533690>
+-# İlişkili ka

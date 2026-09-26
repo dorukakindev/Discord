@@ -16,6 +16,4 @@ Ordo'nun işleri, İmparatorluk'un en karanlık sırlarıdır — daemon istilas
 
 ## Tarihçe
 
-Ordo Malleus, Inquisition'un daemon'ları avlayan koludur; Warp varlıkları, possession ve daemon-world tehditleriyle uğraşır. Grey Knights'ın askeri desteğiyle çalışırlar ve daemonik faaliyetin her izini takip ederler — İmparatorluk'un Warp'a karşı en ön cephesi.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Ordo Malleus, Inquisition'ın üç büyük ordusundan biridir ve en gizli olanıdır; onların işi Chaos'un doğrudan tehdidiyle — demonlar, Chaos tanrıları, Daemon Prince'ler ve Warp'ın materyal dünyaya sızmasıyla — ilgilenmektir ve onların varlığı bile İmparatorluğun en iyi saklanan sırrıdır. Ordo Malleus Inquisitor'ları, İmparatorluğun

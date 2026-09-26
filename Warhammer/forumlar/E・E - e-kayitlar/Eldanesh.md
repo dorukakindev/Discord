@@ -18,6 +18,6 @@ Efsanevi mortal Eldar kahramanı; Khaine'le savaşıp kaybeden, Aeldari mitoloji
 
 ## Tarihçe
 
-Eldanesh, Aeldari mitolojisinin en büyük ölümlü kahramanıdır: tanrı Khaine'le savaşıp kaybeden tek varlık. Destanlarda onun yenilgisi, Aeldari'nin tanrılara meydan okuyabildiği son çağın bitişidir. Bugünkü halkın kaybettiği kahramanlık çağının simgesi olarak anılır.
+Eldanesh, Aeldari mitolojisinin en efsanevi ve en önemli figürüdür — Aeldari'nin ilk büyük kahramanıdır. Bu figür, Aeldari'nin en eski ve en efsanevi kahramanı olarak kabul edilir; Eldanesh, Aeldari'nin en büyük ve en efsanevi figürüdür. Bu figür, Aeldari mitolojisinin en önemli ve en efsanevi figürüdür; Eldanesh, Aeldari'nin en büyük ve en efsanevi figürüdür. Figür, Aeldari mitolojisinin en önemli ve en efsanevi figürü olarak kalır.
 
 -# Kaynaklar: *Codex: Aeldari*; Warhammer 40,000 — Lexicanum derlemesi

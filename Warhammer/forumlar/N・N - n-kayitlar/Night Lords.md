@@ -24,6 +24,10 @@ Legion'un yöntemleri diğer Primarch'ların tepkisini çektikçe Curze'un konum
 
 Heresy boyunca Legion, Thramas Crusade adıyla bilinen uzun seferde Dark Angels ile çatıştı; Curze ile Lion El'Jonson bu savaşta yüz yüze geldi ve iki tarafın da kesin bir zafer kazanamadığı yıpratıcı bir mücadele yaşandı. Night Lords, Siege of Terra'ya da katıldı. Ancak Legion'un dağılma süreci Heresy'nin sonundan önce başlamıştı: Curze'un kaderci bunalımı derinleştikçe komuta zinciri çözüldü ve Legion giderek bağımsız hareket eden kuvvetlere bölündü.
 
+## Tarihçe
+
+Night Lords (VIII Legion), Konrad Curze'un oğullarıdır; terör, korku ve adaletsiz bir adalet anlayışıyla savaşan ve Horus Heresy'de Chaos'a düşen ilk Legion'lardan biridir — onların savaşı, karanlıkta, sessizlikte ve dehşetle yapılır. Night Lords'un savaş doktrini, Curze'un vizyonundan doğar — onlar terörü silah olarak kullanır; bir Night Lord, düşmanını öldürmeden önce onu paralize edecek kadar korkutur ve onların savaşı, fiziksel olduğu kadar psikolojiktir. Night Lords'un en korkulan özelliği, onların sessizliğidir — onlar savaşta bağırmaz, konuşmaz, sadece avlanır ve öldürür; ve onların kurbanları, son nefeslerinde bile Night Lord'un yüzünü görmez. Night Lords'un düşüşü, Heresy'nin en karanlık hikâyesidir — Curze'un deliliği, Legion'un yozlaşması ve sonunda Curze'un kendi oğulları tarafından öldürülme
+
 ## Curze'un Ölümü ve Dağılma
 Heresy'den sonra Curze, Tsagualsa dünyasına çekildi. Imperium, Officio Assassinorum'dan Callidus Temple'ın suikastçısı M'Shen'i onu öldürmeye gönderdi. Kaynaklar Curze'un bu suikastı önceden gördüğünü ve kaçmak yerine onu beklediğini, ölümünü de Imperium'un ikiyüzlülüğünü kanıtlayan bir son olarak kabul ettiğini anlatır. Primarch, kendi kurallarıyla öldürüldüğünü düşündüğü bir düzenin eliyle can verdi.
 

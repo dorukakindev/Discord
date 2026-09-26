@@ -10,6 +10,6 @@ Kriz, İmparator'un Nikaea Konseyi'nde psişik güçleri kısıtlamasıyla başl
 
 ## Tarihçe
 
-Space Wolves'un Prospero'yu yakması; Magnus'un evinin yok edilişi, Nikaea kararının infazı. İki lejyonun kan davasının başlangıcı.
+Prospero'nun Yakılışı, Horus Heresy'nin en trajik ve en geri dönüşümsüz olaylarından biri olarak tarihe geçti. Magnus the Red, İmparator'un Nikea Konseyi'ndeki büyü yasağını ihlal ettiğinde İmparator, Space Wolves'u Thousand Sons'u durdurması için gönderdi. Ancak Leman Russ ve Legion'u, 'durdurmak' yerine 'yok etmeyi' seçtiler; Prospero'yu yakıp Thousand Sons'un neredeyse tamamını katlettiler. Magnus, gezegenini kurtarmak için Chaos'a sığındı ve sonunda Tzeentch'in hizmetine girdi. Bu olay, Thousand Sons'u İmparatorluk düşmanı yaptı ve onları Heresy sırasında Chaos'un tarafına itti; Prospero'nun yanık enkazı, İmparatorluk ile sorcery arasındaki çatışmanın en sembolik anıtı olarak kaldı.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

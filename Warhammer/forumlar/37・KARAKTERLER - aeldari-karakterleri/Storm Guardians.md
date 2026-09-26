@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/63/Biel-Tan_Guardians_1.
 
 ## Tarihçe
 
-Storm Guardians, Craftworld Aeldari'nin sivil-asker (militia) birimidir — normalde Guardian Defender olan Asuryani vatandaşlarının yakın-dövüş varyantı. Fusion Gun ve güç kılıçlarıyla donanmış bu figürler, 'halkının son savunması' olarak craftworld ordularının gönüllü elitidir.
+Storm Guardians, Aeldari'nin en cesur ve en ölümcül piyade birliğidir; onların bir craftworld'ün en cesur savaşçıları olan ve onun en zorlu savaşlarını yapan Storm Guardians, Aeldari'nin en cesur ve en ölümcül birliğidir — onlar, Aeldari'nin en cesur ve en ölümcül piyade birliğidir. Storm Guardians'ın en büyük özelliği, onların cesaretidir — onlar, bir craftworld'ün en cesur savaşçılarıdır ve onların varlığı, Aeldari'nin en büyük cesaretinin kanıtıdır; bir Storm Guardians birliği, hem bir savaşçı topluluğu hem de bir cesaret gücüdür ve onların savaşı, hem fiziksel hem de cesur bir mücadeledir. Storm Guardians'ın en ünlü özelliği, onların piyade birliğidir — onlar, bir craftworld'ün en cesur ve en ölümcül piyade birliğidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Storm Guardians, Aeldari'nin en cesur ve en ölümcül piyade birliğidir — onlar, bir cesaretin ve Aeldari'nin en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

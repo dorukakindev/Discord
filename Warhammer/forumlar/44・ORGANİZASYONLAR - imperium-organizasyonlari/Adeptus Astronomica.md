@@ -11,6 +11,4 @@ Kurum büyük ölçüde psyker'lardan oluşur; psişik olmayan üyeleri ise kal�
 
 ## Tarihçe
 
-Adeptus Astronomica, Terra'daki Astronomican'ı işleten kurumdur; binlerce psyker'ın birleşik ruhuyla İmparator'un yıldız-fenerini besler. Astronomican olmadan Warp'ta güvenli yolculuk imkânsızdır — Astronomica'nın korosu her gün İmparatorluk'un hayatını sürdürür.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Adeptus Astronomica, İmparatorluğun Astronomicon'u — Terra'dan yayılan psişik feneri — işleten kurumudur; onların görevi, İmparator'un Altın Taht'ı üzerinden yayılan psişik sinyali güçlendirmek ve tüm galaksideki Navigator'ların yol bulmasını sağlamaktır. Astronomicon'un işleyişi basit ama hayatidir — binlerce psyker, Terra'daki devasa bir koro içinde İmparator'un iradesini yansıtır ve bu sinyal, Warp'ta yanan bir deniz feneri gibi tüm galakside görülür; Astronomicon sönerse, Warp seyahati imkânsızlaşır ve İmparatorluk birkaç gün içinde dağılır. Adeptus Astronomica'nın üyeleri, en fedakar ve en kısa ömürlü Imperial hizmetkârlarıdır — Astronomicon'un korosunda şarkı söylemek, psyker'ın ruhunu yavaşça yakar ve çoğu birkaç yıl içinde ölür; ama onların fedakarlığı, İmparatorluğun varoluşunun temelidir. Adeptus Astronomica, İmparatorluğun en kutsal kurumudur — onlar savaşmaz, üretmez, yönetmez; onlar sadece yanar ve

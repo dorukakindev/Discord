@@ -10,6 +10,6 @@ Pariah Nexus, Ultima Segmentum'daki Nephilim Sektörü'nde, devasa bir Necron py
 
 ## Tarihçe
 
-Necron'ların Pariah Nexus'ta 'sessizlik' projesi; İmparatorluk ve Sisters of Silence'ın müdahalesi. Warp'a karşı en sistematik Necron hamlesi.
+Pariah Nexus Savaşı, Imperialis'in en gizli ve en az bilinen operasyonlarından biridir. Pariah Nexus, galaksideki Warp anormalliklerinin en tehlikelilerinden biri olarak bilinen bir bölgedir; burada Warp ile Materyal Dünya arasındaki engeller neredeyse yok olur. İmparatorluk, bu bölgedeki tehlikeyi kontrol altına almak ve Chaos'un Pariah Nexus'u kullanmasını engellemek için gizli operasyonlar yürüttü. Savaş, İmparatorluğun çoğu kurumu tarafından bilinmeyen ve kamuya açıklanmayan operasyonlarla yürütüldü; Imperialis'in Pariah Nexus'u tamamen kontrol altına alıp alamadığı hâlâ bilinmeyen bir sır olarak kalmıştır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,8 +16,8 @@ Deathshroud, Mortarion'un yanından ayrılmayan, tırpan biçimli silahlarıyla 
 
 ## Tarihçe
 
-Great Crusade ve Heresy boyunca Primarch'ın çevresinde savaştılar. Legion'un Terra yolunda Warp'ta sıkışıp Nurgle'a teslim olmasıyla onlar da çürümenin armağanlarını taşıyan varlıklara dönüştü. Era Indomitus'ta Mortarion'un Ultramar'a yönelttiği Plague Wars seferinde Deathshroud yine Daemon Primarch'ın yanındaydı.
+Deathshroud, Death Guard Legion'unun en korkulan elit birimidir; Mortarion'un kişisel muhafızı olarak başladı ve hâlâ Death Guard'ın en sadık, en yozlaşmış savaşçılarından oluşur. Deathshroud'lar Cataphractii Terminator zırhı giyer ve ellerinde plague scythe — Nurgle'un hastalıklarını taşıyan devasa tırpan — taşır; onların dokunuşu ölümdür ve zırhlarından sızan zeitler bile düşmanı eritir. Deathshroud'un görevi sadece savaş değil — Mortarion'un iradesini taşırlar ve onların varlığı, Daemon Primarch'ın gözlerinin orada olduğunu gösterir. Deathshroud'lar sessizdir — konuşmazlar, bağırmazlar, sadece ilerler ve biçerler; Nurgle'un kutsal sessizliğinin somut halidirler ve onların sessizliği, düşmanın çığlıklarından daha korkunçtur.
 
 -# Kaynaklar: *Codex: Death Guard*; *The Buried Dagger — James Swallow*; *Plague War — Guy Haley*
 
--# İlişkili kayıtlar: <#1551813274327060552>, <#1551650329316036699>, <#1551754683222327439>, <#1551818194841501818>
+-# İlişkili kayıtlar: <#

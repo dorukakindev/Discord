@@ -14,6 +14,4 @@ Cult'un ritüelleri katıdır: 'Rite of Activation', 'Litany of the Machine' ve 
 
 ## Tarihçe
 
-Cult Mechanicus (Adeptus Mechanicus'un dini yönü), Mars merkezli makine kültüdür; Omnissiah'yı — Machine God'ı — ve İmparator'u onun avatarı olarak tanır. Tech-priest'ler bilgiyi kutsal, makineleri yaşayan ruhlar sayar; İmparatorluk'un teknolojisi bu kültün liturjisiyle çalışır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum der
+Cult Mechanicus, Adeptus Mechanicus'un en önemli ve en kutsal inanç sistemidir; onların Machine God'a olan inançları ve teknolojinin kutsallığını savunan bir inançtır — onlar, İmparatorluğun en gizli ve en tehlikeli dinidir. Cult Mechanicus'un en büyük özelliği, onun teknolojisidir — onlar, teknolojiyi kutsal kabul eder ve onların ina

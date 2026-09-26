@@ -15,12 +15,6 @@ Rogue Trader'lar, bir Warrant sahibinin çevresinde kurulan hanedanlardır: filo
 
 ## Tarihçe
 
-Kaynaklar en eski Warrant'ların Great Crusade dönemine uzandığını, bazılarının Emperor'ın kendisi tarafından verildiğinin iddia edildiğini anlatır. Sonraki dönemlerde Warrant'ları farklı yüksek Imperial otoriteler verdi. Bir hanedanın başarısı büyük ölçüde gemilerini Warp'ta yönlendiren Navigator'lara ve onların House'larıyla kurulan ilişkiye bağlıdır.
-
-## Kanon Notu
-
-Emperor'ın verdiği iddia edilen Warrant'lar çoğu durumda kanıtlanamaz ve hanedan söylencesi olarak okunmalıdır. İki Warrant'ın aynı yetkiyi tanıdığını varsaymak doğru değildir. Ayrıntı için <#1551652850319368254>.
-
--# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Warhammer Quest: Blackstone Fortress*; *Codex: Imperial Agents — 10th Edition*
+Rogue Trader hanedanları, İmparatorluğun en eski ve en güçlü aileleridir; onların Warrant of Trade — İmparator'un veya High Lords'un imzaladığı antik belge — binlerce yıl boyunca ailelerine İmparatorluk sınırlarının dışında neredeyse sınırsız özgürlük verir. Her hanedanın kendi tarihi, kendi filosu ve kendi serveti vardır — bazıları Büyük Haçlı Seferi'ne dayanır ve onların Warrant'ı, İmparator'un kendi mührünü taşır; bir hanedanın düşüşü, bir bölgenin ekonomik çöküşü demektir ve bir hanedanın yükselişi, İmparatorluğun sınırlarının genişlemesi demektir. Rogue Trader hanedanları arasındaki rekabet acımasızdır — ticaret yolları, keşif hakları ve kaynak bölgeleri için savaşır ve bazen birbirlerini yok ederler; ama onların varlığı, İmparatorluğun bilinmeyen uzaya açılan tek kapısıdır. Rogue Trader hanedanı olmak, İmparatorluk'taki en büyük ayrıcalık ve en büyük risktir — sınırların ötesinde her şey yasaldır ama
 
 -# İlişkili kayıtlar: <#1551652850319368254>, <#1551651548713455758>, <#1551811621285003315>, <#1551753472070783096>

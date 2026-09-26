@@ -10,6 +10,10 @@ Sadık Mechanicus için makine, Machine God'ın kutsal bedenidir; Dark Mechanicu
 
 Bu madde hain kolun kökenini ve 40K'daki varlığını ele alır. Mars'taki iç savaşın cephe anlatısı <#1551816635839549491>, sadık kurumun yapısı ise <#1551753449878724689> kanalındadır.
 
+## Tarihçe
+
+Dark Mechanicum, Adeptus Mechanicus'un Chaos'a düşmüş versiyonudur; Kelbor-Hal'ın liderliğinde Mars'ın yarısını Chaos'a sürükleyen ve İmparatorluğun en tehlikeli teknolojik düşmanı olan bir organizasyondur — onlar, İmparatorluğun en karanlık ve en tehlikeli düşmanıdır. Dark Mechanicum'un en büyük özelliği, onların Chaos teknolojisidir — onlar, Chaos'un gücüyle teknolojiyi birleştirir ve onların makineleri, hem mekanik hem de demonik bir güçtür; bir Dark Mechanicum engine, hem bir makine hem de bir demon'dur ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Dark Mechanicum'un en ünlü özelliği, onların Hell Forge'larıdır — onlar, Chaos'un gücüyle çalışan devasa fabrikalardır ve onların
+
 ## Kökenler ve Horus Heresy
 Dark Mechanicum'un doğuşu, Fabricator General Kelbor-Hal'in Horus'un safına geçmesiyle başlayan Schism of Mars'a dayanır. Kaynaklar bu ihanetin arkasında tek bir neden göstermez: Emperor'ın araştırmalara koyduğu yasaklara duyulan kırgınlık, Great Crusade'in Mars'a yüklediği ağır yük, Horus'un sınırsız bilgi vaadi ve bazı magos'ların zaten Warp'ın fısıltılarına kapılmış olması birlikte anılır.
 

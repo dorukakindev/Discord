@@ -12,6 +12,4 @@ Gelenek, Imperial Fists'in First Captain'ı ve Black Templars'ın kurucusu olan 
 
 ## Tarihçe
 
-The Black Sword, Sigismund'un ve ondan sonra her Emperor's Champion'ın taşıdığı kutsal Black Templars relic kılıcıdır. İmparator'a adanmış bu güç kılıcı, Chapter'ın haçlı seferi geleneğinin simgesidir; onu taşıyan, İmparator'un iradesinin vücut bulmuş halidir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Black Sword, İmparatorluğun en ünlü ve en kutsal relic'idir; Black Templars'ın Emperor's Champion'unun kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, İmparatorluğun en ünlü ve en kutsal silahıdır. The Black Sword'ın en büyük özelliği, onun kutsallığıdır — onlar, bir Emperor's Champion'un — İmparator'un seçilmiş şampiyonu — silahıdır ve onların varlığı, İmparatorluğun en kutsal gücünün kanıtıdır; bir Black Sword kullanıcısı, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. The Black Sword'ın en ünlü özelliği, onun Emperor's Champion'un silahıdır — onlar, İmparator'un en kutsal şampiyonunun simgesidir ve onların varlığı, İmparatorluğun dininin somut halidir. The Black Sword, İmparatorluğun en ünlü ve en kutsal relic'idir — onlar, İmparator'un şampiyonunun ve İmparatorluğun dininin somut halidir.

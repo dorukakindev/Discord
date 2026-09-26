@@ -10,6 +10,6 @@ Standard Template Construct (STC, Standart Şablon Yapı), insanlığın Karanl�
 
 ## Tarihçe
 
-Karanlık Teknoloji Çağı'nın tasarım veritabanları; İmparatorluk'un teknolojik mirası. Bugün bulunan her STC, Mechanicum'un kutsal hazinesidir — kayıp bilginin kutsal kitabı.
+Standard Template Construct (STC), Dark Age of Technology'de insanlığın kolonileşme döneminden kalma standart üretim şablonlarıdır; her biri bir makinenin, silahın veya yapının tam üretim planını içerir. STC'ler Age of Strife'da kayboldu ve modern İmparatorlukta tam bir STC bulmak, neredeyse dinî bir olay sayılır — birkaç satır eksik şablon bile Mechanicus için kutsal emanettir ve bulucusuna gezegenler devredilebilir. Rhino, Predator, Baneblade gibi sayısız Imperial araç ve lasgun'dan Titan'a kadar her şeyin kökeni STC şablonlarıdır; ancak on bin yıl içinde şablonlar bozuldu, karıştı veya kayboldu ve Mechanicus'un elinde kalanlar artık üretimden çok tapınak nesnesi olarak saklanır. STC avcılığı, Adeptus Mechanicus'un en kutsal görevidir — Explorator filoları sırf tek bir tam STC için galaksiyi tarar.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

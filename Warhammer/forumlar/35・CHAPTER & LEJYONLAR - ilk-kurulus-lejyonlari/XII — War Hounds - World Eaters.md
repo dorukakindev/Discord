@@ -16,8 +16,8 @@ Disiplini öfkeye, taktiği katliama feda eden Legion. Angron'un kafatasına ça
 
 ## Tarihçe
 
-Great Crusade'de şok birlikleri olarak kullanılan Legion, Heresy'de Istvaan III'te sadık kardeşlerini temizlemeye katıldı ve Siege of Terra'da ön saflardaydı. Heresy'den sonra Angron Khorne'un Daemon Prince'ine dönüştü. Skalathrax'ta Emperor's Children'la yaşanan boğazlaşma Legion'ı çok sayıda savaş grubuna dağıttı. Güncel anlatıda Angron'un Arks of Omen sırasında maddi evrene dönüşü, World Eaters'ı yeniden bir kan seferinde toplamaktadır.
+World Eaters (XII Legion, eski adıyla War Hounds), Angron'un oğullarıdır; kan, vahşet ve yakın dövüş üzerine kurulu ve Horus Heresy'de Khorne'a düşen ilk Legion'dur — onların savaşı, sadece kan ve öfkedir. World Eaters'ın düşüşü, Angron'un trajedisidir — onların primarch'ı, Butcher's Nails implantlarıyla delirtilmiş bir köleydi ve onun öfkesi, Legion'unu da delirtti; World Eaters, Heresy'nin en vahşi savaşçıları oldular ve onların savaşı, sadece öldürmek ve kan akıtmaktır. World Eaters'ın savaşı, basit ve acımasızdır — onlar savaşta bağırmaz, sadece keser ve biçer; bir World Eater, düşmanını parçalar ve onun amacı, sadece Khorne'a kan ve kafatası sunmaktır. World Eaters, İmparatorluğun en vahşi ve en korkulan düşmanıdır — onlar, Khorne'un en sadık çocuklarıdır.
 
 -# Kaynaklar: *Betrayer — Aaron Dembski-Bowden*; *Codex: World Eaters — 10th Edition*
 
--# İlişkili kayıtlar: <#1551809718085746759>, <#1551649073432494263>, <#1551815867845578773>, <#1551810874635976776>
+-# İlişkili kayıtlar: <#1551809718085746759>, <#1551649073432494263

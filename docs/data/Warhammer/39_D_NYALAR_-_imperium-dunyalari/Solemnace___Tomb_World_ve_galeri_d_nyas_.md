@@ -16,8 +16,6 @@ Galaksinin tarihini eser, kalıntı ve canlı "numune" olarak toplayan Trazyn'in
 
 ## Tarihçe
 
-Uyanışın ardından Trazyn, galaksi boyunca ilgisini çeken olayları, eserleri ve bireyleri toplayarak Solemnace'e taşıdı. Kaynaklarda Trazyn'in sergilerini tamamlamak için savaş alanlarına sessizce girip çıktığı ve bu yüzden çeşitli güçlerle karşı karşıya geldiği anlatılır. Orikan the Diviner'la binyıllara yayılan rekabeti Robert Rath'ın *The Infinite and the Divine*'ında merkezî yer tutar; roman Solemnace'in galerilerini de bu rekabetin sahnelerinden biri olarak gösterir.
+Solemnace, Necron Dynasty'lerin en gizli ve en trajik dünyalarından biridir; onun Tomb World'ü ve galeri dünyası olarak hizmet veren ve Necron'ların en eski ve en gizli dünyalarından biridir — onlar, Necron'ların en eski ve en gizli dünyasıdır. Solemnace'ın en büyük özelliği, onun ikiliğidir — onlar, hem bir Tomb World hem de bir galeri dünyasıdır; bir Solemnace, hem bir mezar hem de bir müzedir ve onların varlığı, Necron'ların en eski tarihinin kanıtıdır. Solemnace'ın en ünlü özelliği, onun Trazyn the Infinite'in evidir — onlar, Necron'ların en büyük koleksiyoncusunun evidir ve onların varlığı, Necron'ların en gizli ve en tehlikeli gücünün kanıtıdır. Solemnace, Necron Dynasty'lerin en gizli ve en trajik dünyasıdır — onlar, tarihin ve koleksiyonun somut halidir.
 
--# Kaynaklar: *The Infinite and the Divine — Robert Rath*; *Codex: Necrons — 10th Edition*
-
--# İlişkili kayıtlar: <#1551817348900589669>, <#1551759762193121282>
+-# Kaynaklar: *The Infinite and the Divine — Robert Rath*; *Codex: Necrons — 10th Edit

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Graven_Star_Icon.jpg/
 
 ## Tarihçe
 
-Hol Beloth, Büyük Sefer ve Heresy'de Word Bearers lejyonunun önde gelen ve çok hırslı kaptanlarından biriydi; 'Graven Star' Bölüğünün efendisiydi. Lejyon içinde yetenekli bir savaş taktisyeni ve karizmatik bir savaş lideri olarak bilinirdi; doğrudan çatışmayı tercih eden bu figür, Word Bearers'ın 'kelimeyi kılıçla taşıyan' komutanlarından biri olarak parladı.
+Hol Beloth, Chaos'un en gizli ve en tehlikeli üyesidir; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en gizli sırlarını saklayan Beloth, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir. Hol Beloth'un en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli üyesidir ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Beloth, hem bir savaşçı hem de bir sırdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Hol Beloth'un en ünlü özelliği, onun gizliliğidir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Hol Beloth, Chaos'un en gizli ve en tehlikeli üyesidir — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

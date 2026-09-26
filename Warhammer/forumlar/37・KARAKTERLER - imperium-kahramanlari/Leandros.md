@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/01/LeandrosHeadShot.webp
 
 ## Tarihçe
 
-Leandros, Graia'nın Kurtuluşu'nda Kaptan Demetrian Titus'un Ultramarines 2. Bölük Komuta Timi'nde görev yapan genç bir savaş kardeşiydi — Space Marine oyununda Titus'un şüpheci takım arkadaşı olarak bilinir. Yüzyıldan fazla sonra Titus Primaris olarak döndüğünde karşılaştıkları andaki hesaplaşma, 'dogmatik genç ile sorgulanan kaptan'ın' efsanevi hikâyesidir.
+Leandros, Ultramarines'in en ünlü ve en cesur genç savaşçısıdır; 2. Bölük'ün Command Squad'ına yeni katılan ve Graia'nın Kurtuluşu'nda savaşan Leandros, İmparatorluğun en genç ve en cesur Space Marine'idir — onlar, Ultramarines'in en ünlü ve en cesur genç üyesidir. Leandros'un en büyük özelliği, onun cesaretidir — onlar, Ultramarines'in en genç savaşçısıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Leandros, hem bir savaşçı hem de bir kahramandır ve onların savaşı, hem fiziksel hem de cesur bir mücadeledir. Leandros'un en ünlü görevi, Graia'nın Kurtuluşu'dur — onlar, bir Forge World'ü daemon'lardan kurtaran en cesur savaşçıdır ve onların varlığı, Ultramarines'in en büyük zaferinin kanıtıdır. Leandros, Ultramarines'in en ünlü ve en cesur genç savaşçısıdır — onlar, bir cesaretin ve Ultramarines'in en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Doom_Eagles_Assault_M
 
 ## Tarihçe
 
-Tarikus, Doom Eagles chapter'ının Veteran Sergeant'ıydı; medicae firkateyninde yaralarını iyileştirirken Red Corsairs korsan warband'i tarafından esir alındı. Sayısız eziyet ve sınavdan geçtikten sonra sonunda chapter'ıyla yeniden birleşti ve saflarına kabul edildi — 'tutsaktan geri dönen adam' olarak chapter'ın dayanıklılık hikâyelerinden biridir. Thaxted ve Zanasar gibi dünyalarda kanlı çatışmalara katılmış eski bir Veterandır.
+Tarikus, Doom Eagles'ın en ünlü ve en trajik Veteran Sergeant'ıdır; Horus Heresy sırasında Doom Eagles'ın en deneyimli savaşçısı olan ve kendi Legion'unun düşüşünü gören Tarikus, İmparatorluğun en trajik ve en önemli savaşçısıdır — onlar, Doom Eagles'ın en ünlü ve en trajik üyesidir. Tarikus'un en büyük özelliği, onun trajedisidir — onlar, bir Chapter'ın düşüşünün en trajik tanığıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Tarikus, hem bir savaşçı hem de bir tanıktır ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Tarikus'un en ünlü özelliği, onun Doom Eagles'ın üyesidir — onlar, bir Chapter'ın en trajik savaşçısıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Tarikus, Doom Eagles'ın en ünlü ve en trajik Veteran Sergeant'ıdır — onlar, bir trajedinin ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

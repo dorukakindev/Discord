@@ -10,6 +10,6 @@ Q'orl toplumunun temelinde kraliçe yatar; her gün binlerce yumurta bırakarak 
 
 ## Tarihçe
 
-Q'orl, Pre-İmparatorluk döneminden kalan böcek-sürü xenos ırkıdır; geniş koloni ağlarıyla bilinir. Imperial arşivlerde 'büyük sürü tehdidi' olarak geçerler — insanlıkla ilk temasları düşmanca olmuş, sürü zihniyetiyle hareket ettikleri kaydedilmiştir.
+Q'orl, WH40K evreninin en sinsi ve en tehlikeli xeno türlerinden biridir; böcek benzeri, psişik olarak güçlü ve bir gezegenin nüfusunu zihin kontrolüyle ele geçiren bir türdür — onlar, İmparatorluğun en gizli ve en tehlikeli iç düşmanlarından biridir. Q'orl'un en büyük özelliği, onların zihin kontrolüdür — onlar, bir gezegenin nüfusunu psişik olarak ele geçirir ve onları kendi köleleri yapar; bir Q'orl Swarm Queen, bir gezegenin ruhunu bile ele geçirebilir ve onların varlığı, bir gezegenin sonunun başlangıcıdır. Q'orl'un en korkulan yönü, onların sinsiliğidir — onlar, bir gezegenin nüfusuna karışır, onlar gibi yaşar ve çalışır; ve onların savaşı, bir isyanın en zayıf anında, en beklenmedik yerden gelir. Q'orl, İmparatorluğun en sinsi ve en tehlikeli düşmanıdır — onlar, İmparatorluğun kendi bedeninin içinde büyüyen kanserdir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum d

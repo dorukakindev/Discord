@@ -16,8 +16,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Plague_Planet.png/rev
 
 ## Tarihçe
 
-Mortarion, Legion'uyla birlikte Göz'e çekildikten sonra bu dünyaya yerleşti. On bin yıl boyunca Death Guard'ın Plague Company'leri ve warband'leri buradan galaksiye yayıldı. Great Rift sonrasında Mortarion'un Ultramar'a yönelttiği Plague Wars, bu yurdun gölgesinden çıkan en büyük sefer olarak anılır.
+Plague Planet, Chaos'un en korkulan ve en tiksindirici dünyasıdır; Eye of Terror'da bulunan ve Nurgle'a adanmış bir daemon dünyasıdır — onlar, Chaos'un en korkulan ve en yozlaşmış dünyasıdır. Plague Planet'in en büyük özelliği, onun hastalığıdır — onlar, Nurgle'un en kutsal dünyasıdır ve onların toprağı, hastalık ve çürüme ile doludur; bir Plague Planet, bir gezegenin en korkulan halidir ve onların varlığı, Nurgle'un gücünün somut halidir. Plague Planet'in en ünlü özelliği, onun Mortarion'un evidir — onlar, Death Guard'ın primarch'ının evidir ve onların varlığı, bir primarch'ın düşüşünün ve bir Legion'un yozlaşmasının kanıtıdır. Plague Planet, Chaos'un en korkulan ve en tiksindirici dünyasıdır — onlar, hastalığın ve çürümenin somut halidir.
 
--# Kaynaklar: *Codex: Death Guard — 10th Edition*; *Dark Imperium: Plague War — Guy Haley*
-
--# İlişkili kayıtlar: <#1551995328863932499>, <#1551650329316036699>, <#1551754683222327439>, <#1551818194841501818>
+-# Kaynaklar: *Codex: Death Guard — 10th Edition*; *Dark Imperium: Plagu

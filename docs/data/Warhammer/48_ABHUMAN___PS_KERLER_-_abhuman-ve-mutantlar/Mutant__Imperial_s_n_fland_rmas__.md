@@ -16,8 +16,4 @@ Imperial öğretide insan biçiminden sapan beden, çoğu zaman ruhun da bozuldu
 
 ## Tarihçe
 
-Imperium mutasyona karşı tutarlı değildir. Ogryn ve Ratling gibi soylar "abhuman" olarak kabul edilir; Navigator'lar ise ayrıcalıklı bir mutant aristokrasisi olarak yaşar. Buna karşılık hive kentlerin alt katlarında sıkışan mutant toplulukları dışlanır ve Chaos kültlerinin kolay av sahası hâline gelir. Chaos'un açık lütfu sayılan mutasyonlar ise Imperium'un gözünde en ağır suçtur.
-
--# Kaynaklar: *Warhammer 40,000 Core Book — 10th Edition*; *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812325521100811>, <#1552481908988969001>, <#1551651548713455758>, <#1552483319097069629>
+Mutant (Imperial sınıflandırması), İmparatorluğun en ünlü ve en resmi mutant sınıfıdır; İmparatorluk'un resmi sınıflandırmasına göre mutant olan ve onun en yaygın sınıfı olan Mutant, İmparatorluğun en yaygın ve en resmi varlığıdır — onlar, İmparatorluğun en ünlü ve en resmi mutant sınıfıdır. Mutant'ın en büyük özelliği, onların resmiliğidir — onlar, İmparatorluk'un resmi sınıflandırmasına göre mutant'dır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin kanıtıdır; bir Mutant, hem bir mutant hem de bir sınıflandırmadır ve onların varlığı, İmparatorluğun en büyük çeşitliliğinin somut halidir. Mutant'ın en ünlü özelliği, onların Imperial sınıflandırmasıdır — onlar, İmparatorluğun en resmi ve en yaygın mutant sınıfıdır ve on

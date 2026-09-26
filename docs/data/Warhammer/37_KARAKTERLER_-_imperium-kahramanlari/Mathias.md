@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8f/Watch-Captain_Mathias
 
 ## Tarihçe
 
-Mathias, Sons of Medusa chapter'ından Deathwatch'a verilmiş Space Marine'dir ve Jericho Reach'te 'Karanlık Desen' fenomenini araştıran Inquisition'un 'Dead Cabal'ının üyesidir; Deathwatch'ta Watch Captain rütbesi taşır. İki yüzyıldır Deathwatch'ta hizmet veriyor — Achilus Seferi'nin Orpheus Salient'inin savaş alanlarından uzun-kayıp dünyaların tozlu salonlarına kadar geniş deneyime sahip bu figür, Dead Cabal'ın en kıdemli saha uzmanlarından biri.
+Mathias, Deathwatch'ın en ünlü ve en saygın Watch Captain'ıdır; 'Only those who have peered into the darkness can be fully be prepared for the horrors that await us' diyen ve İmparatorluğun en gizli savaşlarını yöneten Mathias, İmparatorluğun en gizli ve en bilgili komutanıdır — onlar, Deathwatch'ın en ünlü ve en saygın üyesidir. Mathias'ın en büyük özelliği, onun bilgisidir — onlar, İmparatorluğun en gizli savaşlarını yöneten ve onları koruyan en bilgili komutandır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Mathias, hem bir savaşçı hem de bir koruyucudur ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Mathias'ın en ünlü özelliği, onun Watch Captain'ıdır — onlar, Deathwatch'ın en yüksek rütbeli komutanıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Mathias, Deathwatch'ın en ünlü ve en saygın Watch Captain'ıdır — onlar, bir koruyucunun ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

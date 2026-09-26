@@ -16,8 +16,4 @@ Emperor'un muhafızlarının komutanı ve High Lords of Terra arasında yer alan
 
 ## Tarihçe
 
-Trajann Valoris, Adeptus Custodes'in mevcut Chief Custodian'ı ve 17. Captain-General'ıdır — İmparator'un elit muhafızının başı. İkinci Terra Savaşı'nda Khorne'un güçlerine karşı İmparatorluk Sarayı'nı savunan bu figür, Guilliman'ın dönüşü sonrası Custodes'in sahaya çıkışını yöneten 'nöbetin efendisi'dir.
-
--# Kaynaklar: *Watchers of the Throne: The Emperor's Legion — Chris Wraight*; *Watchers of the Throne: The Regent's Shadow — Chris Wraight*; *Codex: Adeptus Custodes*
-
--# İlişkili kayıtlar: <#1551753439581831278>, <#1551809168032268310>, <#1551808704901423186>, <#1551743688680669286>
+Trajann Valoris, Adeptus Custodes'in Captain-General'i ve İmparatorluğun en güçlü ve en gizli savaşçısıdır; İmparator'un en sadık ve en ölümlü koruyucularının lideri olan Valoris, İmparatorluğun en büyük gücü ve en gizli varlığıdır — onlar, Adeptus Custodes'in en ünlü ve en güçlü lideridir. Trajann Valoris'in en büyük özelliği, onun gücüdür — onlar, İmparator'un en sadık koruyucularının lideridir ve onların varlığı, Custodes'in en büyük gücünün kanıtıdır; bir Valoris komutası, İmparator'un en gizli operasyonlarının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük gücünün somut halidir. Trajann Valoris'in en ünlü özelliği, onun İmparator'un en yakınıdır — onlar, Altın Taht'ın en sadık koruyucusudur ve onların varlığı, İmparato

@@ -16,8 +16,4 @@ Imperial Truth'un tanrıları reddettiği bir çağda Emperor'a iman etmeye baş
 
 ## Tarihçe
 
-*Horus Rising*'de Warp kaynaklı bir dehşetle karşılaşması, onun inanca yönelişinin başlangıcı olarak anlatılır. Kült çevrelerinde giderek bir önder gibi görülen Keeler, Horus'un ihanetinin ardından Nathaniel Garro'nun *Eisenstein*'ıyla Terra'ya ulaştı. Heresy serisi onun çevresindeki inanç hareketinin Imperial Cult'a giden yolunu izler.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *Galaxy in Flames — Ben Counter*; *The Flight of the Eisenstein — James Swallow*
-
--# İlişkili kayıtlar: <#1551813713403580438>, <#1551651549804236801>, <#1551814951365115956>, <#1551814367203303506>
+Euphrati Keeler, İmparatorluğun en ünlü ve en trajik remembrancer'ıdır; Horus Heresy sırasında İmparatorluğun en büyük savaşlarını gören ve onu kaydeden Keeler, İmparatorluğun en önemli ve en trajik tanığıdır — onlar, İmparatorluğun en ünlü ve en trajik remembrancer'ıdır. Euphrati Keeler'ın en büyük özelliği, onun tanıklığıdır — onlar, Horus Heresy'nin başlangıcını gören ve onu kaydeden en önemli remembrancer'dır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Keeler, hem bir sanatçı hem de bir tarihçidir ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Euphrati Keeler'ın en ünlü özelliği, onun fotoğraflarıdır — onlar, İmparatorluğun en büyük savaşlarını kaydeden ve onları gösteren en trajik tanıktır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Euphr

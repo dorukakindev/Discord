@@ -38,6 +38,10 @@ Bu ihlal, kan borcunun bağladığı ipi kopardı. Executioners, o güne dek yan
 
 Saldırıyı tam olarak kimin emrettiği ve çarpışmanın ayrıntıları kaynaklarda kısa tutulur. Belirgin olan sonuçtur: Badab'ın son safhasında Executioners artık secessionist blokun bir parçası değil, kendi onurunun peşinden giden yalnız bir güçtü ve bu tavır, savaş sonrası kaderini de belirledi.
 
+## Tarihçe
+
+Executioners, Imperial Fists soyu ve Third Founding'de kurulan acımasız bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinin en acımasız halidir ve onlar, İmparatorluğun en sert ve en infazcı savaşçılarıdır. Executioners'ın en büyük özelliği, onların infazcılığıdır — onlar, düşmanını sadece öldürmez, onları infaz eder; bir Executioner'ın savaşı, bir yargılamadır ve onların kılıcı, İmparatorluğun adaletinin somut halidir. Executioners'ın en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en acımasız taktikleri kullandılar ve onların varlığı, savaşın en kanlı sayfalarını yazdı. Executioners, İmparatorluğun en sert ve en acımasız Chapter'ıdır — onlar, İmparatorluğun cellatlarıdır ve onların adı, infazın simgesidir.
+
 ## Teslim, Thulsa Kane ve Kefaret Seferi
 Savaşın sonunda Executioners, kendini Imperium'un adaletine teslim etti. Kaynaklara göre Chapter'ı savaştan çıkaran, Chaplain **Thulsa Kane** oldu. Onur ve ölüm kültürünün Chapter içindeki ağırlığı düşünülürse, bu işi bir Chaplain'in yürütmesi rastlantı sayılmaz. Pyre of Glory yüzünden Executioners'a şükran borçlu olduğunu hisseden Salamanders Captain'ı **Pellas Mir'san**, Chapter'ın çatışmadan güvenle ayrılmasını sağladı.
 

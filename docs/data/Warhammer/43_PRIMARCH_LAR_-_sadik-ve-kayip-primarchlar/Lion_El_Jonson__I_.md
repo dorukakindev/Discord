@@ -15,12 +15,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/73/LionElJonsonWolfBlade
 
 ## Tarihçe
 
-Caliban'ın tarikatlarını birleştirerek Great Beasts'e karşı bir yok etme seferi yürüttü, ardından I Legion'ın başına geçti. Heresy'de Thramas'ta Night Lords'la yıllara yayılan bir savaş sürdürdü ve Imperium Secundus'ta Lord Protector oldu. Horus'un ölümünden sonra döndüğü Caliban, Luther'le yüzleşmesi sırasında parçalandı. On bin yıl sonra uyanarak Imperium Nihilus'ta dolaştı ve Arks of Omen'in doruğunda oğullarıyla yeniden buluştu.
-
-## Kanon Notu
-
-Watchers in the Dark'ın doğası ve Lion'un uykusunun mekanizması açıklanmamıştır. Guilliman'la güncel ilişkisi ve Imperium yönetimindeki yeri sınırlı işlenmiştir. Ayrıntı için <#1551816136679751721>.
-
--# Kaynaklar: *The Lion: Son of the Forest — Mike Brooks*; *The Unremembered Empire — Dan Abnett*; *Arks of Omen: The Lion*; *Codex Supplement: Dark Angels — 10th Edition*
+Lion El'Jonson, Dark Angels'ın en ünlü ve en gizli primarch'ıdır; Caliban'ın — Dark Angels'ın ev gezegeni — en gizli savaşçısı olan ve Dark Angels'ı kuran Jonson, İmparatorluğun en gizli ve en ölümcül primarch'ıdır — onlar, Dark Angels'ın en ünlü ve en gizli primarch'ıdır. Lion El'Jonson'un en büyük özelliği, onun gizliliğidir — onlar, Dark Angels'ın en gizli sırlarını saklayan en ölümcül primarch'dır ve onların varlığı, Dark Angels'ın en gizli gücünün kanıtıdır; bir Jonson, hem bir primarch hem de bir sır taşıyıcısıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Lion El'Jonson'un en ünlü özelliği, onun Luther'a karşı savaşmasıdır — onlar, bir primarch'ın en sadık takipçisinin ihanetiyle karşılaşmasının en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Lion El'Jonson, Dark Angels'ın en ünlü ve en gizli primarch'ıdır — onlar, bir gizliliğin ve Dark Angels'ın en büyük sırrının s
 
 -# İlişkili kayıtlar: <#1551816136679751721>, <#1551813077991686208>, <#1551809277692215330>, <#1551810874635976776>, <#1551818097504157699>

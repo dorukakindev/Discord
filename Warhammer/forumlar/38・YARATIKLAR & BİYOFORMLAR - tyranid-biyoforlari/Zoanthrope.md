@@ -15,6 +15,4 @@ Bir Zoanthrope'un görülmesi, Hive Mind'ın 'yerel psikolojik üstünlüğü' k
 
 ## Tarihçe
 
-Tyranid psişik biriminin adı; dev beyin taşıyan, Shadow in the Warp'ı doğrudan saçan psişik omurga. Bir Zoanthrope'un bakışı bile astropatları öldürür — saf Hive Mind iradesidir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Zoanthrope, Tyranid'in en gizli ve en güçlü psişik varlığıdır; bir Tyranid ordusunun psişik gücünü toplayan ve onu düşmana yönlendiren en tehlikeli organizma olan Zoanthrope, Tyranid'in en gizli ve en güçlü silahıdır — onlar, Tyranid'in en gizli ve en güçlü psişik varlığıdır. Zoanthrope'un en büyük özelliği, onun psişik gücüdür — onlar, bir Tyranid ordusunun psişik enerjisini topl

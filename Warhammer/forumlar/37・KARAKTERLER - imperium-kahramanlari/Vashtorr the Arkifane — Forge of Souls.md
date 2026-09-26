@@ -16,8 +16,4 @@ Warp'ta Forge of Souls adlı dökümhaneyi yöneten, daemon silahları ve Daemon
 
 ## Tarihçe
 
-Vashtorr the Arkifane ('Ruhların Demircisi'), Forge of Souls'ın hükümdarı ve Chaos'un 'makinelerin efendisi'dir; daemonik varlığı silah ve savaş motoruyla kaynaştıran karanlık demirci. Her Daemon Engine'in arkasında onun imzası vardır; Era Indomitus'ta Abaddon'la 'Arks of Omen' projesinde ortaklık kurmuş, kendi kadim planının peşindeki figür.
-
--# Kaynaklar: *Arks of Omen: Abaddon*; *Arks of Omen: Vashtorr*
-
--# İlişkili kayıtlar: <#1551809619544899625>, <#1551810874635976776>, <#1551638958352506881>, <#1551650329156788287>
+Vashtorr the Arkifane, Chaos'un en gizli ve en tehlikeli varlığıdır; Forge of Souls'un — Chaos'un silah fabrikası — lideri olan ve daemon makinelerini yaratan Vashtorr, Chaos'un en büyük silah üreticisi ve İmparatorluğun en gizli düşmanıdır — onlar, Chaos'un en gizli ve en tehlikeli varlığıdır. Vashtorr'un en büyük özelliği, onun yaratıcılığıdır — onlar, daemon makineleri — Soul Grinders, Venomcrawlers — yaratan ve Chaos'un en tehlikeli silahlarını üreten en büyük mühendisdir ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Vashtorr, hem bir yaratıcı hem de bir canavardır ve onların varlığı, Chaos'un en büyük tehdidinin somut halidir. Vashtorr'un en ünlü özelliği, onun Forge of Souls'un lideridir — onlar, Chaos'un silah fabrikasının en büyük ustasıdır ve onların varlığı, Chaos'un en büyük gücün

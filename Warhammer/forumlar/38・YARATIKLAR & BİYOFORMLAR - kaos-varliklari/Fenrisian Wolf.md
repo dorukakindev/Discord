@@ -16,8 +16,4 @@ Fenris kurtları, gezegenin acımasız kışlarında avlanan ve Fenris'in savaş
 
 ## Tarihçe
 
-Fenrisian Wolf (Lupus fenrisii), Space Wolves'un donmuş homeworld Fenris'inin devasa, yarı-zeki avcısı ve kalıcı simgesidir; Space Wolves Astartes'leri, primarch'ları Leman Russ'ın kadim geleneğiyle bu kurtları 'savaş kardeşi' olarak yetiştirir. 'Köpekle savaşan bölük' olarak chapter'ın kimliğinin canlı parçasıdır.
-
--# Kaynaklar: *Codex: Space Wolves*; *Prospero Burns — Dan Abnett*; *Wolfsbane — Guy Haley*
-
--# İlişkili kayıtlar: <#1551638910344630307>, <#1551649072912269433>, <#1551815439078658154>
+Fenrisian Wolf, Fenris'in — Space Wolves'un ev gezegeni — en ünlü ve en vahşi yaratığıdır; Fenris'in buzlu ovalarında yaşayan ve Space Wolves'un en sadık yoldaşı olan Fenrisian Wolf, İmparatorluğun en ünlü ve en vahşi yaratığıdır — onlar, Fenris'in en ünlü ve en vahşi yaratığıdır. Fenrisian Wolf'un en büyük özelliği, onun vahşetidir — onlar, Fenris'in en tehlikeli avcısıdır ve onların varlığı, Fenris'in en büyük gücünün kanıtıdır; bir Fenrisian Wolf, hem bir avcı hem de bir yoldaştır ve onların savaşı, sadece avlanmak ve korumak içindir. Fenrisian Wolf'un en ünlü özelliği, onun Space Wolves'un yoldaşıdır — onlar, bir Chapter'ın en sadık ve en vahşi yoldaşıdır ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır. Fenrisian Wolf, Fenris'in en ünlü ve en vahşi yaratığıdır — onlar, bir avcının

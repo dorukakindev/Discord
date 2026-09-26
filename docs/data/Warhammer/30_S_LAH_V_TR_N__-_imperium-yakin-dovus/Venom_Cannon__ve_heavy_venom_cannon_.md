@@ -16,8 +16,8 @@ Kristalleşmiş, aşındırıcı ve zehirli parçacık kümelerini yüksek hızl
 
 ## Tarihçe
 
-Tyranid Warrior'ları venom cannon taşıyabilir; daha büyük biçimi heavy venom cannon, Carnifex gibi dev organizmalarla anılır. Imperium kuvvetleri için bu silahlar, Tyranid sürüsünün zırhlı araçlara karşı bir yanıt geliştirdiğinin açık bir göstergesidir.
+Venom Cannon ve Heavy Venom Cannon, Tyranid'lerin ağır bio-silahlarıdır; zehirli kristalleri veya asit topaklarını hedefe fırlatan ve hem organik hem de zırhlı hedefleri eriten, Tyranid biyolojisinin en yıkıcı ürünleridir. Venom Cannon'un atışı, hedefe çarptığında zehirli kristaller patlar ve eti, zırhı ve metalı aynı anda eritir; bir venom cannon atışı, bir Space Marine'in zırhını veya bir Imperial tankını deler ve içindeki zeit, hedefi içeriden zehirler. Heavy Venom Cannon, daha büyük varyanttır — bir Carnifex veya bir Hive Tyrant'ın sırtında taşınır ve onun atışı, bir bina büyüklüğündeki hedefi eritir; ve venom cannon'ın zehiri, Necron metalini bile eritebilen nadir bir maddedir. Venom Cannon, Tyranid'in biyolojik dehasının en yıkıcı halidir — onların silahları da zehirdir ve onların savaşı, doğanın en acımasız halidir.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+-# İlişkili kayıtlar: <#1551759780211589197>, <#15

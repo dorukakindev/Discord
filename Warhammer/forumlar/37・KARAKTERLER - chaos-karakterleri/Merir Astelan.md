@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Chapter_master_Merir_
 
 ## Tarihçe
 
-Merir Astelan, Terra doğumlu Dark Angels bölük komutanıydı ve Heresy sırasında İmparator'a ihanet eden en rezil Fallen Angels'lardan biri sayılır — chapter tarihinin karanlık sayfasının yazarı. 40. Binyıl'da chapter tarafından geri yakalanan bu figür, 'ilk düşen subay' olarak Fallen destanının merkezi karakterlerinden biridir.
+Merir Astelan, Dark Angels'ın en ünlü ve en trajik ihanetcisidir; eskiden bir Dark Angels kaptanı olan ve Luther'le birlikte ihanet eden Astelan, İmparatorluğun en trajik ve en önemli figürüdür — onlar, Dark Angels'ın en trajik ve en önemli üyesidir. Merir Astelan'ın en büyük özelliği, onun ihanetidir — onlar, bir Legion'un en trajik ihanetinin parçasıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Astelan, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Merir Astelan'ın en ünlü özelliği, onun Caliban'daki ihanetidir — onlar, Dark Angels'ın ev gezegenini yok eden ve Chapter'ı ikiye bölen en trajik ihanettir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Merir Astelan, Dark Angels'ın en ünlü ve en trajik ihanetcisidir — onlar, bir ihanetin ve İmparatorluğun en büyük trajedisinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

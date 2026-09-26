@@ -16,7 +16,7 @@ Guilliman'ın krallığının bahçesi sayılan, bugün çıplak bir kaya olan d
 
 ## Tarihçe
 
-745.M41'de Hive Fleet Behemoth, Tyran'dan Macragge'a uzanan yolunda Ultramar'a girdi. Filonun yolundaki Prandium tüketildi ve geriye yalnızca canlı maddesinden sıyrılmış bir kaya kaldı. Ardından filo Macragge'a yöneldi; kutup kalelerindeki savunma ve Circe yakınlarındaki uzay savaşıyla Behemoth durduruldu. Prandium ise kurtarılamadı ve krallığın haritasında bir yara olarak kaldı.
+Prandium, Ultramar'ın en önemli ve en verimli tarım dünyasıdır; onun verimli toprakları ve tarım kapasitesiyle — Ultramar'ın en büyük gıda üretim merkezidir — onlar, Ultramar'ın en önemli tarım dünyasıdır. Prandium'un en büyük özelliği, onun verimliliğidir — onlar, Ultramar'ın en verimli topraklarına sahiptir ve onların üretimi, Ultramar'ın en büyük gıda kaynağıdır; bir Prandium, bir gezegenin tamamen tarıma dönüşmesidir. Prandium'un en ünlü özelliği, onun tarihi önemidir — onlar, Ultramar'ın en eski ve en sadık dünyalarından biridir ve onların varlığı, Ultramar'ın geleneğinin ve sadakatinin kanıtıdır. Prandium, Ultramar'ın en önemli ve en verimli tarım dünyasıdır — onlar, tarımın ve verimliliğin somut halidir.
 
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Codex: Tyranids — 10th Edition*
 

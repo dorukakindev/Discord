@@ -11,6 +11,10 @@ Laer hakkında bilinenler büyük ölçüde Graham McNeill'in *Fulgrim* romanın
 ## İnanç ve Tapınak
 Laer'in tapınaklarındaki sanat ve ritüellerin Slaanesh'le ilişkisi kaynaklarda açıkça vurgulanır. Ne var ki Laer'in bu gücü adıyla bilip bilinçli olarak mı tapındığı, yoksa kusursuzluk ve duyusal yoğunluk arayışının onları farkında olmadan bu gücün etkisine mi açtığı kesin olarak açıklanmaz. Kılıçta yuvalanan varlığın kökeni ve Laer'le ilişkisi de belirsiz kalır. Arşiv bu konuda kanonun çizdiği sınırın ötesine geçmez: Laer tapınağı Slaanesh'in izlerini taşır, fakat Laer'in tam inancı bilinmez.
 
+## Tarihçe
+
+Laer, WH40K evreninin en trajik ve en önemli xeno türlerinden biridir; Fulgrim'in düşüşünün sebebi olan ve Slaanesh'in tapınağı olan bir türdür — onların yok edilmesi, Horus Heresy'nin en önemli anlarından biridir. Laer'in en büyük özelliği, onların mükemmellik arayışıdır — onlar, Slaanesh'in en sadık ve en yozlaşmış tapınakçılarıydı; ve onların dünyası, Laeran, mükem
+
 ## Laer Seferi
 Emperor's Children, Laeran'a karşı ağır bir harekât yürüttü ve Laer'i yok etti. Sefer, Legion'ın kusursuzluk idealini savaş alanında sınadığı, kayıpların ve direnişin bu gururlu Legion için beklenmedik ölçüde ağır olduğu bir çatışma olarak anlatılır. Romanda Saul Tarvitz ve Solomon Demeter gibi Legion subaylarının gözünden izlenen bu dönemde, Laer'in ardından Legion saflarında yavaş ama belirgin bir değişim başlar.
 

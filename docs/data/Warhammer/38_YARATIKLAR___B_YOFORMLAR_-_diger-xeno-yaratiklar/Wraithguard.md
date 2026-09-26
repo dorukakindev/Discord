@@ -10,6 +10,6 @@ Wraithguard, Aeldari'ye özgü psişik-plastik bir madde olan wraithbone'dan in�
 
 ## Tarihçe
 
-Wraithbone bedenlere konmuş ölü Aeldari ruhları; Infinity Circuit'ın askerleri. Wraithcannon'larıyla savaşırlar — yaşayan ama ölü, koruyucu ama yaslı.
+Wraithguard, Aeldari'nin en ünlü ve en trajik savaş birliğidir; onların ölü Aeldari'lerin ruhlarıyla dolu olan ve onların en zorlu savaşlarını yapan Wraithguard, Aeldari'nin en trajik ve en ölümlü varlığıdır — onlar, Aeldari'nin en ünlü ve en trajik savaş birliğidir. Wraithguard'ın en büyük özelliği, onların trajedisidir — onlar, ölü Aeldari'lerin ruhlarıyla dolu olan ve onların savaşlarını sürdüren en trajik birliktir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır; bir Wraithguard birliği, hem bir savaşçı topluluğu hem de bir ölü birliğidir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Wraithguard'ın en ünlü özelliği, onların ölü ruhları taşımasıdır — onlar, bir Aeldari'nin ölü ruhunu taşıyan en trajik birliktir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Wraithguard, Aeldari'nin en ünlü ve en trajik savaş birliğidir — onlar, bir trajedinin ve Aeldari'nin en büyük gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

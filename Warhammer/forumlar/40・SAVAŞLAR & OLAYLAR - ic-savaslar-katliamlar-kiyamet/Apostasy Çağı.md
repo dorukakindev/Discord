@@ -12,6 +12,6 @@ Krizin merkezinde, çılgın ve fanatik Ecclesiarch (Kilise lideri) Goge Vandire
 
 ## Tarihçe
 
-Goge Vandire'in Reign of Blood'ı; Sebastian Thor'un isyanı ve reformu. İmparatorluk Kilisesi'nin en karanlık ve en kutsal dönemi.
+Apostasy Çağı (Age of Apostasy), İmparatorluk'un en trajik dönemlerinden biri olarak tarihe geçti. Bu dönem, Goge Vandire'in — İmparatorluk'un en korkulan figürü — yönetimi altında geçti; Apostasy Çağı sırasında Vandire, İmparatorluk'un birçok kurumunu kontrol etti ve birçok insanın hayatına mal oldu. Dönem, Vandire'in düşüşüyle sonuçlandı; ancak verilen zayiat ve yaşanan çatışma, bu dönemin İmparatorluk tarihindeki en trajik sayfalardan biri olmasına neden oldu. Apostasy Çağı, İmparatorluk'un en büyük trajedisinin kendi içindeki yönetim krizi olduğunu gösteren en çarpıcı örnektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

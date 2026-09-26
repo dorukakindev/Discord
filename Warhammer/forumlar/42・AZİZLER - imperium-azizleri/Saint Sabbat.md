@@ -14,6 +14,4 @@ Sabbat'ın haçlı seferi tam 105 Terran yılı sürdü; bu süre boyunca yüzle
 
 ## Tarihçe
 
-Sabbat Sektörü'nün kurucusu azize; haçlıya adını veren, reenkarnasyon efsanesiyle dönen. Ebonheart'ta 'reenkarne' oldu — inancın yaşayan kanıtı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Sabbat, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; Sabbat Worlds'un — İmparatorluğun en büyük seferinin adı — azizesi olan ve onun en kutsal savaşlarını yapan Sabbat, İmparatorluğun en kutsal ve en önemli figürüdür — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Sabbat'ın en büyük özelliği, onun kutsallığıdır — onlar, Sabbat Worlds'un azizesi olarak İmparatorluğun en büyük seferinin koruyucusudur ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Sabbat, hem bir aziz hem de bir koruyucudur ve onların varlığı, İmparatorluğun dininin en büyük geleneğinin somut halidir. Saint Sabbat'ın en ünlü özelliği, onun Sabbat Worlds'un azizesidir — onlar, İmparatorluğun en büyük seferinin en kutsal koruyucusudur ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Saint Sabbat, Sisters of

@@ -12,6 +12,6 @@ Fenris'in sert buzul dünyasından gelen Ragnar, daha genç bir savaşçıyken b
 
 ## Tarihçe
 
-Ragnar Blackmane — bazen 'Kara Kurt' — Space Wolves'un yükselmiş Primaris subayı ve Leman Russ'ın oğulları tarihinde bir Büyük Bölüğü yöneten en genç Wolf Lord'dur. Blood Claw'dan hızla yükselerek 'en genç efsane' statüsüne ulaştı; Bloodied Fang'ı ve keskin zekâsıyla bilinen bu figür, Fenris'in yeni kuşağının yüzüdür — 'yaşayan destan' olarak chapter'ın en ünlü aktif kahramanı.
+Ragnar Blackmane, Space Wolves'un en ünlü ve en cesur Wolf Lord'udur; onların Fenris'in en vahşi savaşçısı ve Space Wolves'un en büyük kahramanı olan Ragnar, İmparatorluğun en korkulan ve en saygın savaşçılarından biridir — onlar, Space Wolves'un en ünlü ve en vahşi savaşçısıdır. Ragnar'ın en büyük özelliği, onun cesaretidir — onlar, Space Wolves'un en genç Wolf Lord'udur ve onların savaşı, hem vahşet hem de onur üzerine kuruludur; bir Ragnar, hem bir savaşçı hem de bir liderdir ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır. Ragnar'ın en ünlü görevi, Armageddon Savaşı'nda Chaos'a karşı savaşmasıdır — onlar, Angron'un daemon ordusuna karşı savaşan ve onu geri püskürten savaşçılardır ve onların varlığı, Space Wolves'un en büyük zaferinin kanıtıdır. Ragnar Blackmane, Space Wolves'un en ünlü ve en cesur Wolf Lord'udur — onlar, Fenris'in vahşetinin ve Space Wolves'un onurunun somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Wa

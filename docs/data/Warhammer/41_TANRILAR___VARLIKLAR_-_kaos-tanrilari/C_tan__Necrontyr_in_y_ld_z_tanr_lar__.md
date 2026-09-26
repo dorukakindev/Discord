@@ -14,14 +14,8 @@ Necrontyr onlara necrodermis'ten bedenler dökerek biçim ve bilinç verdi; C'ta
 
 ## Tarihçe
 
-C'tan, Necrontyr'e ölümsüzlük vaat edip biotransference sırasında ruhlarını yuttu ve War in Heaven'da Old Ones'a karşı savaştı. Silent King Szarekh sonunda onlara ihanet etti ve Necron'lar C'tan'ı parçalayarak Shard'lara böldü.
+C'tan, Necrontyr'in — Necron'ların eski ırkı — yıldız tanrılarıdır; yıldızları yiyen ve Necrontyr'ı Necron'a dönüştüren en eski ve en güçlü varlıklar olan C'tan, evrenin en eski ve en tehlikeli gücüdür — onlar, Necrontyr'in en ünlü ve en tehlikeli yıldız tanrılarıdır. C'tan'ların en büyük özelliği, onların gücüdür — onlar, yıldızları yiyen ve bir ırkı yok eden en güçlü varlıklardır ve onların varlığı, evrenin en eski gücünün kanıtıdır; bir C'tan, hem bir tanrı hem de bir yiyicidir ve onların varlığı, evrenin en büyük trajedisinin somut halidir. C'tan'ların en ünlü özelliği, onların Necron'lar tarafından parçalanmasıdır — onlar, bir tanrının parçalanmış halidir ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. C'tan, Necrontyr'in en ünlü ve en tehlikeli yıldız tanrılarıdır — onlar, bir tanrının ve evrenin en büyük trajedisinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Güncel kaynaklarda anılan C'tan arasında Nightbringer (Aza'gorod), Deceiver (Mephet'ran), Void Dragon (Mag'ladroth), Outsider, Burning One (Nyadra'zatha) ve Endless Swarm (Iash'uddra) bulunur; Llandu'gor ise Flayer lanetiyle ilişkilendirilir.
-
-## Kanon Notu
-
-3rd Edition dönemi C'tan'ı bütün hâlinde var olan tanrılar olarak anlatıyordu; parçalanma çerçevesi 5th Edition'la kuruldu. Savaş aracı olarak Shard kaydı için bkz. <#1551629170151260261>.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*; *The Infinite and the Divine — Robert Rath*
+Güncel kaynaklarda anılan C'tan arasında N

@@ -16,6 +16,4 @@ Savaşın kahramanlığı efsanedir: 1. Şirket'in Polar Kalesi savunmasında ne
 
 ## Tarihçe
 
-Behemoth'un Ultramarines'in anavatanına saldırısı; I. Company'nin yok oluşu, Calgar'ın ağır yaralanması. Tyranid tehdidinin ilk tanımlandığı savaş.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Macragge Savaşı, Ultramarines'in Hive Fleet Behemoth'a karşı ev gezegenlerini savunduğu ilk büyük Tyranid saldırısıydı. Hive Fleet Behemoth, İmparatorluk'un karşılaştığı ilk büyük Tyranid ordusuydu ve Macragge — Ultramar'ın başkenti ve Ultramarines'in en kutsal dünyası — doğrudan hedef alındı. Marneus Calgar komutasındaki Ultramarines, Behemoth

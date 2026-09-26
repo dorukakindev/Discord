@@ -15,12 +15,6 @@ Aspect Warrior'lar, Path of the Warrior'a giren Asuryani'nin katıldığı uzman
 
 ## Tarihçe
 
-Asurmen'in öğrencileri Jain Zar, Fuegan, Baharroth ve Maugan Ra gibi figürler kendi Aspect'lerinin atası oldu. Striking Scorpions'ın kurucusu Arhra'nın düşüşü geleneğin karanlık istisnasıdır; Aspect'in Phoenix Lord'u olarak onun yerini Karandras aldı.
-
-## Kanon Notu
-
-Phoenix Lord'ların Rhana Dandra'da yeniden birlikte savaşacağı Asuryani inancıdır. Aspect'lerin tam sayısı ve bazı Phoenix Lord'ların akıbeti kaynaklarda açık bırakılır.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Warrior — Gav Thorpe*; *Asurmen: Hand of Asuryan — Gav Thorpe*
+Aspect Warrior'lar, Aeldari'nin askeri kastıdır; her shrine kendi dövüş stilini, silahını ve felsefesini temsil eder ve bir Eldari bir Aspect Shrine'a girdiğinde o yolun savaşçısı olur — Striking Scorpions, Howling Banshees, Dire Avengers, Fire Dragons, Dark Reapers, Swooping Hawks, Warp Spiders, Shining Spears ve Crimson Hunters ana Aspect'lerdir. Aspect Warrior olmak, bir Eldari'nin savaş kişiliğini tamamen üstlenmesi demektir — maskesini taktığında o artık o Aspect'in kendisidir ve savaş bitene kadar kişiliği geri gelmez. Phoenix Lord'lar, her Aspect'in efsanevi kurucusudur — Asurmen, Jain Zar, Karandras, Baharroth, Maugan Ra, Fuegan ve diğerleri; onlar ölümsüzdür çünkü zırhları içindeki ruh, bir sonrak
 
 -# İlişkili kayıtlar: <#1551812290439942255>, <#1551810506078290021>, <#1551810744754905123>, <#1551655326716133498>

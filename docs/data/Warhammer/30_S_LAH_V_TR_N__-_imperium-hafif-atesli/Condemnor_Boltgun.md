@@ -5,14 +5,12 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Greyfax.jpg/revision/
 
 -# *İdam Bolteri*
 
-Sisters of Battle ve Inquisition'ın cadı avcısı silahı; namlusunun altında kutsanmış bir kazık fırlatıcı taşır. Bolt sıradan düşmanı, kazık ise psyker ve iblisi mıhlar.
+Sisters of Battle ve Inquisition'ın cadı avcısı silahı; gövdesine kenetli kutsanmış bir kazık-arbaleti taşır. Bolt sıradan düşmanı, kazık ise psyker ve iblisi mıhlar.
 
 
 ## Teknik ve Kullanım
-Bolt silah ailesi .75 kalibre kendi-itmeli mermi kullanır; her mermi kütledelici çekirdek + patlayıcı başlık taşır ve hedefin içinde infilak eder. Adeptus Astartes'in imza silahı olan bolt ailesi, İmparatorluk'un en saygın kişisel silah teknolojisidir; bir bolt mermisi ortalama bir insanı ortadan ikiye ayırır.
+Bolt silah ailesi .75 kalibre kendinden itişli mermi kullanır; her mermi kütle-reaktif çekirdek ve patlayıcı başlık taşır, hedefin içinde infilak eder. Condemnor bunun üstüne bir 'combi-stake crossbow' ekler: silaha kenetli arbalet, 'Purgatus' denen kutsanmış kazık-boltlar fırlatır.
 
-## Tarihçe
+Bu kazıklar warp-gücü kullananlara karşı ölümcüldür; cadılar da iblisler de onlarla mıhlanır. Bolt bedeni parçalarken kutsanmış kazık, hedefin warp'la bağını keser ve doğaüstü dayanıklılığı sıradan çeliğin önüne serer. Galaksideki psyker'ların yüreğine korku salan işte bu ikili düzendir. Bu kutsal silahlardan çok az sayıda bulunur ve neredeyse yalnızca Ordo Hereticus inquisitor'ları ile Sisters of Battle tarafından taşınır; Inquisitor Greyfax'in elindeki condemnor, İmparatorluk'un cadı-avının simgesi haline gelmiştir. Cadı avcısı için tek atışta iki hüküm verir: biri bedene, biri ruha.
 
-Psyker avcısı boltgun; psişik mühürlü özel mühimmatıyla Witch Hunter ve Ordo Hereticus'un elindeki nadir silah. Standart bolt'a ek olarak daemon ve psyker'a karşı yüklenmiş kutsal mermi kullanır — cadı avının tanımlanmış aracı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Lexicanum (Combi-Weapon — Condemnor Boltgun) / Fandom

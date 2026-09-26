@@ -15,12 +15,10 @@ Nocturne'ün demirci-kralı ve Emperor'ın oğulları arasında sıradan insanla
 
 ## Tarihçe
 
-Isstvan V'teki katliamdan sağ çıktı, ama Konrad Curze'un tutsağı oldu ve defalarca öldürülüp dirildi. Macragge'a düşen bedeni zihnen parçalanmış hâlde döndü; Deathfire'da dirilişinin ardından Webway üzerinden Terra'ya ulaştı. Kuşatma boyunca Throne'un yanında gizli muhafız olarak kaldı ve Magnus'la karşılaştı. Heresy'den sonra Tome of Fire'ı bırakıp kayboldu; *The Beast Arises* serisinde War of the Beast sırasında yeniden görünüp Gorkogrod'da kayboldu.
+Vulkan, Salamanders'ın en ünlü ve en trajik primarch'ıdır; Nocturne'nin — Salamanders'ın ev gezegeni — en büyük demircisi olan ve Salamanders'ı kuran Vulkan, İmparatorluğun en trajik ve en onurlu primarch'ıdır — onlar, Salamanders'ın en ünlü ve en trajik primarch'ıdır. Vulkan'ın en büyük özelliği, onun demirciliğidir — onlar, bir primarch'ın en büyük demircisi halidir ve onların varlığı, Salamanders'ın en büyük geleneğinin kanıtıdır; bir Vulkan, hem bir primarch hem de bir zanaatkârdır ve onların savaşı, hem fiziksel hem de teknik bir mücadeledir. Vulkan'ın en ünlü özelliği, onun ölümsüzlüğüdür — onlar, bir primarch'ın ölümsüz halidir ve onların varlığı, Salamanders'ın en büyük umudunun kanıtıdır. Vulkan, Salamanders'ın en ünlü ve en trajik primarch'ıdır — onlar, bir demircinin ve Salamanders'ın en büyük umudunun somut halidir.
 
 ## Kanon Notu
 
-Perpetual'lığı onu ölümsüz kılmaz; dönüşün koşulsuz olduğu söylenmez. M41 ve Era Indomitus'ta döndüğüne dair doğrulanmış kayıt yoktur. Ayrıntı için <#1551650329240674335>.
-
--# Kaynaklar: *Vulkan Lives — Nick Kyme*; *Deathfire — Nick Kyme*; *Old Earth — Nick Kyme*; *The Hunt for Vulkan — David Annandale*
+Perpetual'lığı onu ölümsüz kılmaz; dönüşün koş
 
 -# İlişkili kayıtlar: <#1551650329240674335>, <#1551637740049670195>, <#1551650286626672722>, <#1551809818250182657>, <#1551818097504157699>

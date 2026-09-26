@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Balaq_Uthizaar.jpg/re
 
 ## Tarihçe
 
-Baleq Uthizzar, Büyük Sefer ve Heresy başlangıcında Thousand Sons'ın 5. Bursu'nun kaptanı ve Athanaean Kültü'nün Magister Templi'siydi — telepati disiplininin efendisi. Rütbesini Kaptan Apophis'in ölümüyle aldı; Prospero'nun düşüşünde Magnus'un iç çemberinin üyesi olarak lejyonun son anlarını yaşayan figürlerdendir.
+Baleq Uthizzar, Thousand Sons'ın en ünlü ve en trajik üyesidir; Thousand Sons'ın en gizli operasyonlarını yapan ve onun en tehlikeli psişik güçlerini kullanan Uthizzar, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Thousand Sons'ın en ünlü ve en trajik üyesidir. Baleq Uthizzar'ın en büyük özelliği, onun trajedisidir — onlar, bir Legion'un düşüşünün en trajik tanığıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Uthizzar, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Baleq Uthizzar'ın en ünlü özelliği, onun Thousand Sons'ın üyesidir — onlar, bir Legion'un en tehlikeli üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Baleq Uthizzar, Thousand Sons'ın en ünlü ve en trajik üyesidir — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

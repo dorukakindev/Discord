@@ -12,4 +12,7 @@ Barbarus'un sıradan insanlarını bu cadı-lordlardan kurtarmaya adadı kendini
 
 ## Düşüş ve Veba
 Mortarion, içindeki büyü ve psişik güçten nefret eden bir primarch idi — Barbarus'un cadı-lordları onda bu tiksintiyi doğurmuştu. Ama Davin'de ve Terra yolunda Destroyer Hive veba filosu onu paramparça etti: vebadan kaçamayan Death Guard, Nurgle'ın vaatleriyle çürümeyi kabul etti. Mortarion direndi ama sonunda oğullarını kurtarmak için teslim oldu; İblis Primarch olarak yükseldi. Bugün Plague Planet'te hüküm sürer — Barbarus'un çürümüş bir yansıması. Plague Wars'ta Ultramar'ı istila etti ve Guilliman'la karşılaştı; kuzeni Ix'a çekildi ama ölümlü düşmanının geri dönüşü, on bin yıllık nefretini yeniden alevlendirdi.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Mortarion, Death Guard'ın en ünlü ve en trajik primarch'ıdır; Barbarus'un — Death Guard'ın ev gezegeni — en zorlu savaşçısı olan ve Death Guard'ı kuran M

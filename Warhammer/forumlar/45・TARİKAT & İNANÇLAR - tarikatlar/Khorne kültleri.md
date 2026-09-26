@@ -15,12 +15,8 @@ Khorne'a tapınak ya da ayin değil kan ve kafatası sunulur; savaşın kendisi 
 
 ## Tarihçe
 
-Kaynaklar Khornate kültleri kovan çetelerinden gladyatör arenalarına, isyan eden alaylardan World Eaters warband'lerinin peşine takılan kalabalıklara kadar geniş bir yelpazede anlatır. Khorne'un lütfuna erenlere mutasyonlar, daemonic silahlar ve kimi zaman Daemon Prince'liğe uzanan bir yol vaat edilir; çoğu ise bu yolda yalnızca bir kafatası olarak kalır.
+Khorne kültleri, Chaos'un en vahşi ve en ölümcül inanç sistemlerinden biridir; onların Khorne'a — Chaos'un kan ve vahşet tanrısı — olan inançları ve onların kan ve kafatası arayışını uygulayan gizli tarikatlardır — onlar, İmparatorluğun en vahşi ve en ölümcül iç düşmanıdır. Khorne kültlerinin en büyük özelliği, onların vahşetidir — onlar, sadece öldürmek için değil, kan ve kafatası için de savaşır; bir Khorne kültisti, hem bir inanan hem de bir katildir ve onların varlığı, İmparatorluğun en vahşi düşmanının kanıtıdır. Khorne kültlerinin en ünlü özelliği, onların 'kan ve kafatası' anlayışıdır — onlar için savaş, sadece Khorne'a kan ve kafatası sunmaktır ve onların varlığı, Chaos'un en vahşi gücünün kanıtıdır. Khorne kültleri, İmparatorluğun en vahşi ve en ölümcül inanç sistemidir — onlar, kanın ve vahşetin birleşimidir.
 
 ## Kanon Notu
 
-Khorne'un sorcery'yi hor görmesi takipçilerinin psykerlerle ilişkisini belirler; ancak Khornate kültlerin iç düzeni tek bir modelle anlatılmaz ve kaynaklara göre değişir.
-
--# Kaynaklar: *Realm of Chaos: Slaves to Darkness*; *Codex: World Eaters — 10th Edition*; *Codex: Chaos Daemons*
-
--# İlişkili kayıtlar: <#1551815867845578773>, <#1551809718085746759>, <#1551812325521100811>, <#1551649073432494263>
+Khorne'un sorcery'yi hor görmesi takipçilerinin psykerlerle ilişkisini belirler; ancak Khornate kültlerin iç düzeni tek bir modelle an

@@ -14,8 +14,4 @@ Klanının karakterini yansıtan, en iyi silahları ve en gösterişli teçhizat
 
 ## Tarihçe
 
-Nazdreg, Bad Moons klanının ünlü Ork Warlord'udur — 'zenginlikle savaşan' figür olarak taktiksel zekâsı ve 'pahalı' donanımıyla bilinir (Bad Moons'da diş = para). Ghazghkull'la ittifakları olan bu figür, 'kurnaz korsan-Warlord' olarak Ork siyasetinin bağımsız oyuncusudur.
-
--# Kaynaklar: *Arks of Omen: Farsight*; *Codex: Orks*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814127541026827>, <#1551810874635976776>
+Nazdreg, Ork'ların en ünlü ve en tehlikeli Warlord'larından biridir; Bad Moons klanının lideri olan ve Ghazghkull'ın en yakın müttefiki olan Nazdreg, Ork'ların en büyük savaşçılarından ve en tehlikeli düşmanlarından biridir — onlar, Ork'ların en ünlü ve en tehlikeli lideridir. Nazdreg'in en büyük özelliği, onun gücüdür — onlar, Bad Moons'un en büyük Warlord'udur ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Nazdreg komutası, bir Waaagh!'ın en büyük anıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Nazdreg'in en ünlü görevi, Armageddon Savaşı'dır — onlar, Ghazghkull'ın en büyük savaşında onun yanında savaşan ve İmparatorluğun en büyük direnişini kıran komutanlardır ve onların varlığı, Ork'ların en büyük zaferinin kanıtıdır. Nazdreg, Ork'ların en ünlü ve en tehlikeli Warlord'larından biridir — onlar, bir Waaagh!'ın gücünün ve Ork'ların en büyük tehdidinin s

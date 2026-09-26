@@ -12,6 +12,6 @@ Arbites, sıradan suçlarla (hırsızlık, cinayet gibi yerel meselelerle) pek i
 
 ## Tarihçe
 
-Adeptus Arbites, İmparatorluk'un yargı-politik gücüdür; Lex Imperialis'i (İmparatorluk Kanunu) uygular. Arbitrator'lar dünyalardaki isyanları bastırır, yozlaşmış valileri alaşağı eder ve İmparatorluk hukukunu zorla dayatır — sokak seviyesinde İmparatorluk otoritesinin en ağır eli.
+Adeptus Arbites, İmparatorluğun hukuk ve düzen kurumudur; Imperial Law'ı (Lex Imperialis) uygulayan, gezegenler arası polis gücüdür ve görevleri İmparatorluğun kanunlarını her yerde — hive'lardan savaş alanlarına kadar — zorla uygulamaktır. Arbites'ler sıradan polis değildir — onlar yarı-askeri bir güçtür; power maul, suppression shield ve shotgun ile donanmışlar ve görevleri isyan bastırmak, kanunsuzları avlamak ve İmparatorluğun otoritesini korumaktır. Arbites'in gücü yerel yönetimlerin üstündedir — bir Arbites Judge, bir gezegenin yöneticisini tutuklayabilir veya bir isyanı tek başına bastırabilir; ve Arbites'in varlığı, İmparatorluğun en büyük caydırıcı gücüdür. Adeptus Arbites, İmparatorluğun adaletinin somut halidir — ama onların adaleti, merhamet değil, itaat demektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

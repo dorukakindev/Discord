@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d7/MariusAmalrich.png/re
 
 ## Tarihçe
 
-Marius Amalrich, Black Templars'ın Marshal'ıydı ve 13. Kara Sefer'in son günlerinde önemli rol oynadı — Cadia'nın düşüşünden sağ çıkıp Eldar Ynnari'nin kurtarmasıyla buz ayı Klaisus'a ulaşan Celestinian Seferi'nin üyelerinden biriydi. 'Klaisus'tan çıkan Templar' olarak Guilliman'ın dirilişine tanıklık eden ve Terra Seferi'ne katılan nadir figürlerden; Black Templars'ın sonsuz haçlı ruhunun son temsilcilerinden.
+Marius Amalrich, Black Templars'ın en ünlü ve en trajik Marshal'ıdır; Cadia'nın düşüşünden sonra Celestinian Crusade'i hayatta kalan son üyesi olarak yöneten Amalrich, İmparatorluğun en trajik ve en cesur savaşçısıdır — onlar, Black Templars'ın en ünlü ve en trajik üyesidir. Marius Amalrich'in en büyük özelliği, onun trajedisidir — onlar, Cadia'nın düşüşünden sonra hayatta kalan son üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Amalrich, hem bir savaşçı hem de bir kahramandır ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Marius Amalrich'in en ünlü görevi, Klaisus'taki direnişidir — onlar, Cadia'nın düşüşünden sonra hayatta kalan ve Celestinian Crusade'i yöneten en trajik savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Marius Amalrich, Black Templars'ın en ünlü ve en trajik Marshal'ıdır — onlar, bir trajedinin ve Black Templars'ın en büyük cesaretinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

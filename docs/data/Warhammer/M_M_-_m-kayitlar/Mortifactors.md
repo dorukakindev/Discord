@@ -38,6 +38,10 @@ Bu tören havası ölümü küçümsemek anlamına gelmez. Tam tersine, Mortifac
 
 Chapter'ın Imperium içindeki konumu da bu kültür yüzünden hep biraz gergin kalır. Mortifactors açıkça sapkın sayılmaz; sadakatleri de savaş sicilleri de tartışılmaz. Yine de ritüelleri, birçok Imperial gözlemcinin ve kimi zaman Inquisition'ın tedirgin bir dikkatle izlediği bir sınırda durur. Hoşgörüyle çekince arasındaki bu ince denge, Chapter'ın öteki kuvvetlerle kurduğu her ittifaka gölge düşürür.
 
+## Tarihçe
+
+Mortifactors, Ultramarines soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, ölüm ve ölümsüzlük üzerine kuruludur ve onlar, İmparatorluğun en kasvetli ve en disiplinli savaşçılarıdır. Mortifactors'un en büyük özelliği, onların ölüm kültürüdür — onlar için savaş, ölümün kutsal törenidir ve onların zırhı, kemik ve mezar sembolleriyle süslüdür; bir Mortifactor, savaşta ölümü kabul eder ve onun varlığı, düşmana ölümün kaçınılmazlığını hatırlatır. Mortifactors'un en ünlü savaşı, Tyranid istilalarına karşı verdikleri savunmadır — onların ölüm kültürü, Tyranid'in yaşam emmesine karşı en güçlü direniştir; ve onların savaşı, ölümün kendisiyle savaşmaktır. Mortifactors, İmparatorluğun en kasvetli ve en sadık Chapter'ıdır — onlar için savaş, ölümün kendisidir ve onlar, onu kabul edenlerdir.
+
 ## Tarsis Ultra ve Tyranid'lere Karşı Savaş
 Mortifactors'ın kayıtlara geçmiş en bilinen seferlerinden biri, M41'in son yıllarında **Tarsis Ultra** dünyasının bir Tyranid istilasına karşı savunulmasıdır. Graham McNeill'in *Warriors of Ultramar* romanı bu savunmada Mortifactors'ı Ultramarines'in yanında dövüşürken gösterir. Chapter'ın hem yiğitliği hem de ürkütücü gelenekleri, müttefiklerinin gözünden aktarılır.
 

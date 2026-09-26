@@ -60,6 +60,10 @@ Khorne'a adanmış mortal kültler, Khorne Berzerker'ları ve kendini savaşa ad
 ## Great Rift Sonrası / Güncel Durum
 Great Rift'in açılmasıyla Warp ile maddi evren arasındaki sınır inceldi ve Khorne'un daemon'ları galaksinin pek çok cephesinde daha kolay tezahür etmeye başladı. 10th Edition dönemi anlatısında, *Arks of Omen* kampanyası Angron'un yeniden galaksiye dönüşünü işler. Bu dönüşün uzun vadeli sonuçları yeni anlatı içinde gelişmeye devam etmektedir.
 
+## Tarihçe
+
+Khorne, Chaos'un en ünlü ve en vahşi tanrısıdır; kan ve savaşın tanrısı olan ve onun en vahşi savaşlarını yöneten Khorne, Chaos'un en vahşi ve en tehlikeli gücüdür — onlar, Chaos'un en ünlü ve en vahşi tanrısıdır. Khorne'un en büyük özelliği, onun vahşetidir — onlar, kan ve savaşın tanrısıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Khorn
+
 ## Bilinen Yanılgılar ve SSS
 **Yanılgı:** Khorne yalnızca "herkesi öldürmek" isteyen akılsız bir tanrıdır.
 **Kanon:** Kaynaklar Khorne'u hem ayrımsız katliamla hem de dövüş onuruyla ilişkilendirir; takipçilerin yorumları farklıdır.

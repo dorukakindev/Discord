@@ -31,6 +31,10 @@ Savaşın en ağır anlarından biri, Chapter için Khymara'da yaşandı. Burada
 
 Khymara'daki kayıplar, Howling Griffons'ın Badab'daki rolünü gösterişli bir zaferden çok, ağır bir bedelle ödenmiş bir sadakat sınavı hâline getirdi. Chapter iç savaştan çıktığında hem yaralarını sarmak zorundaydı hem de sadakatini korumuş olmanın ağır onurunu taşıyordu.
 
+## Tarihçe
+
+Howling Griffons, Ultramarines soyu ve İmparatorluğun en asil ve en disiplinli Space Marine Chapter'larından biridir; onların savaş doktrini, Ultramar'ın geleneğinden ve kendi şövalye kültüründen doğar ve onlar, İmparatorluğun en onurlu ve en disiplinli savaşçılarıdır. Howling Griffons'un en büyük özelliği, onların şövalyeliğidir — onlar, sadece savaşçı değil, aynı zamanda şövalyedirler; bir Howling Griffon, savaşta hem cesur hem de onurludur ve onların savaşı, bir şövalyenin dövüşüdür. Howling Griffons'un en ünlü savaşı, çeşitli Imperial operasyonlarıdır — onlar, İmparatorluğun en onurlu ve en disiplinli savaşçılarıdır ve onların varlığı, Ultramar'ın geleneğinin somut halidir. Howling Griffons, İmparatorluğun en asil ve en disiplinli Chapter'ıdır — onlar, şövalyeliğin ve savaşın birleşimidir.
+
 ## Mercaeno ve Soul Drinkers
 Howling Griffons'ı Black Library anlatısında görünür kılan seferlerden biri, Chief Librarian Mercaeno'nun hain ilan edilmiş Soul Drinkers'a karşı yürüttüğü mücadeledir. Ben Counter'ın *Chapter War* romanında Mercaeno ve Chapter'ı, Emperor'a ihanetle suçlanan Soul Drinkers'ı ortadan kaldırmayı kendine görev edinir. İki taraf da aynı Emperor adına savaştığına inanır; çatışmanın trajik derinliği de buradan gelir.
 

@@ -12,4 +12,7 @@ Hırs ve umuttan beslenir, çünkü her ikisi de bir şeyleri değiştirme arzus
 
 ## Alanı ve Gücü
 Tzeentch'in gücü hırs, bilgi ve değişim arzusundan doğar; büyü onun dilidir. En güçlü iblisleri Lord of Change'lerdir — devasa kuş-benzeri kahinler; Pink ve Blue Horror'lar, Screamer'lar ve Disc'ler ordusunu oluşturur. Rakip tanrılar arasında en karmaşık ve en uzağı gören odur; Nurgle'ın umutsuzluğuna tam zıt olarak umuttan beslenir. Amacı asla kesin zafer değildir — zafer değişimi bitirir; bu yüzden Tzeentch sonsuza dek yeni planlar kurar, kendi hizmetkârlarını bile tuzağa düşürür. Simsiyah değil, beyaz ve çok renkli bir varlık olarak betimlenir; maddi dünyada doğrudan belirmesi bile gerçekliği büker.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Tzeentch, Chaos'un en gizli ve en tehlikeli tanrısıdır; değişim, entrika ve büyünün tanrısı olan ve onun en gizli planlarını yöneten Tzeentch, Chaos'un en gizli ve en tehlikeli gücüdür — onlar, Chaos'un en gizli ve en tehlikeli tanrısıdır. Tzeentch'in en büyük özelliği, onun entrikasıdır — onlar, değişim ve entrikanın tanrı

@@ -14,4 +14,4 @@ Savaşta Obliterator, 'yürüyen cephanelik' olarak çalışır: lascannon, plas
 
 ## Tarihçe
 
-Obliterator, eskiden genellikle Techmarine olan Chaos Space Marine'dir — 'technovirus' denen daemonik, Warp-güçlü virüsten etkilenip sadık İmparatorluk hizmetkârından Chaos'un kan-susayan mutant silahına dönüşmüş figür. İnsan, daemon ve makinenin canavar melezi olarak bedeni silah üretir — 'etten top' olarak Chaos'un en korkulan ağır silahlı figürlerinden
+Obliterator, Chaos'un en ünlü ve en tehlikeli savaş makinesidir; kendi bedeniyle silahları birleştiren ve her türlü silahı üreten en tehlikeli Chaos savaşçısı olan Obliterator, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en ünlü ve en tehlikeli savaş makinesidir. Obliterator'ün en büyük özelliği, onun yaratıcılığıdır — onlar

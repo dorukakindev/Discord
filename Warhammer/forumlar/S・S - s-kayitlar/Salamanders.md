@@ -31,6 +31,10 @@ Salamanders'ın inanç dünyasının merkezinde **Promethean Cult** vardır. Bu 
 
 En belirgin kültürel özellik ise sivil halka karşı tutumlarıdır. Salamanders, savaşçıları Nocturne halkının yanında yaşayıp onlarla bağ kurmaya teşvik eder; birçoğu kendi kan ailesiyle ilişkisini sürdürür. Bu gelenek, onları sıradan insanlara karşı kayıtsız kalan pek çok Chapter'dan ayırır ve savaş alanında sivilleri korumak için ağır bedeller ödemeyi göze almalarına yol açar.
 
+## Tarihçe
+
+Salamanders (XVIII Legion), İmparatorluğun en insancıl ve en dayanıklı Space Marine Chapter'ıdır; Nocturne'nin volkanik dünyasından gelen savaşçıları, ateş ve demircilikle kutsanmış ve primarch'ları Vulkan'ın öğretisiyle — 'halkı koru, zayıfı savun' — hareket eden, İmparatorluğun en şefkatli savaşçılarıdır. Salamanders'in
+
 ## Doktrin ve Savaş Tarzı
 Salamanders, flamer, melta ve thunder hammer gibi yakın mesafede yıkıcı silahları, ağır zırhı ve sağlam savunma hatlarını tercih eder. Hız ya da gizlilik yerine kararlı, metodik bir ilerleyişle savaşırlar; düşmanı kendi seçtikleri alanda karşılamak ve sivil kayıpları en aza indirecek biçimde hareket etmek, taktik kararlarını sıkça belirler. Kendi dövdükleri usta işi silahlar, Chapter'ın teknik gücünün somut görünüşüdür.
 

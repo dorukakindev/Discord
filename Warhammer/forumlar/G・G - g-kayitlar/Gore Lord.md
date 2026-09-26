@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/fa/KhorneMark.jpg/revisi
 
 ## Tarihçe
 
-Gore Lord, Khorne'un Bloodthirster'ıdır — ama sıradışı bir daemonik ittifak olan 'Brazen Host'un efendisi: esas olarak Khorne ve Slaanesh'e hizmet eden karma bir daemon ordusunu yönetir. İmparatorluk kayıtlarında bu kudretli Bloodthirster hakkında az şey bilinir; binlerle sayılan ordusu, iki rakip tanrının kullarını aynı sancak altında toplayabilen anomali olarak bilinir.
+Gore Lord, Khorne'un en ünlü ve en vahşi daemon'ıdır; Khorne'un en sadık kafatası toplayıcısı olan ve onun en vahşi savaşlarını yapan Gore Lord, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en vahşi daemon'udur. Gore Lord'ın en büyük özelliği, onun vahşetidir — onlar, Khorne'un en sadık kafatası toplayıcısıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Gore Lord, hem bir daemon hem de bir kafatası toplayıcısıdır ve onların savaşı, sadece kan ve kafatası içindir. Gore Lord'ın en ünlü özelliği, onun 'Gore Lord' lakabıdır — onlar, Khorne'un en vahşi ve en kafatası toplayıcı daemon'ıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır. Gore Lord, Khorne'un en ünlü ve en vahşi daemon'ıdır — onlar, bir vahşetin ve Chaos'un en büyük gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

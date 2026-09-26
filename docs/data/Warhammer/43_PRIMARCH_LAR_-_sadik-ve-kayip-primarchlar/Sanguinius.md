@@ -12,4 +12,7 @@ Sanguinius, radyasyonla kavrulmuş ölüm dünyası Baal'ın mutant kabileleri a
 
 ## Sapkınlık ve Ölüm
 Horus Heresy sırasında Sanguinius, Signus Prime'da Kaos'un tuzağına düştü: iblis Ka'Bandha ve Bloodthirster ordusu onu ölümle yüzleştirdi; melek direndi ve lejyonunu kurtardı. Terra Kuşatması'nda Eternity Kapısı'nı tek başına savundu ve sonunda Vengeful Spirit'e çıkarak Horus'un karşısına dikildi. Öleceğini bile bile savaştı; Horus onu parçaladı. Ölüm çığlığı tüm Blood Angels gen-hattına kazındı: Kara Öfke (Black Rage) ve Kan Susuzluğu (Red Thirst) lanetleri onun mirasıdır. Bugün İmparatorluk'un en sevilen azizidir; Sanguinala yortusu ona adanmıştır.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Sanguinius, Blood Angels'ın en ünlü ve en kutsal primarch'ıdır; Baal'ın — Blood Angels'ın ev gezegeni — en kutsal figürü olan ve Blood Angels'ı kuran Sanguinius, İmparatorluğun en kutsal ve en trajik primarch'ıdır — onlar, Blood Angels'ın en ünlü ve en kutsal primarch'ıdır. Sanguinius'un en büyük özelliği, onun kutsallığıdır — onlar, İmparatorluğun en kutsal primarch'ıdır ve onların v

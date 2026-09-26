@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/22/Krom_Dragongaze.jpg/r
 
 ## Tarihçe
 
-Krom Dragongaze — bazen 'Vahşi Bakış' — Space Wolves'un on iki Wolf Lord'undan biridir; Büyük Bölüğü 'Drakeslayers' (Ejderha Katilleri) olarak bilinir. Rezil derecede şiddetli ve çabuk öfkelenen bu figür, Frost Axe 'Wyrmclaw' ile savaşır; Fenris'in ejderha avcısı efsanelerini yaşayan son temsilcisidir. 'Ejderha öldüren kurt' olarak chapter'ın en agresif liderlerinden biridir.
+Krom Dragongaze, Space Wolves'un en ünlü ve en cesur Wolf Lord'udur; 'Fierce-eye' olarak bilinen ve Frost Axe 'Wyrmclaw'ı taşıyan Krom, Space Wolves'un en saygın ve en ölümcül savaşçısıdır — onlar, Space Wolves'un en ünlü ve en cesur üyesidir. Krom Dragongaze'in en büyük özelliği, onun cesaretidir — onlar, Space Wolves'un en cesur Wolf Lord'udur ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır; bir Krom, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Krom Dragongaze'in en ünlü özelliği, onun 'Wyrmclaw' baltasıdır — onlar, Space Wolves'un en ölümcül silahını taşıyan en cesur savaşçıdır ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır. Krom Dragongaze, Space Wolves'un en ünlü ve en cesur Wolf Lord'udur — onlar, bir cesaretin ve Space Wolves'un en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

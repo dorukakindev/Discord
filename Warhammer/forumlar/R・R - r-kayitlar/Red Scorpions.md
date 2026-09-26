@@ -60,6 +60,10 @@ Bu bağlam, Chapter'ın birkaç on yıl sonra Badab'da takınacağı tavrı anla
 ## Badab War
 901.M41'de Astral Claws Chapter Master'ı Lufgt Huron'un gene-seed tithe'ını reddedip Badab bölgesini Imperium'dan koparmasıyla başlayan Badab War, Red Scorpions'ın tarihindeki en belirleyici savaştır. Chapter, Huron'a ve yanındaki Mantis Warriors, Lamenters ve Executioners'a karşı kurulan loyalist koalisyonun baştan itibaren yer alan Chapter'larından biri olarak anılır.
 
+## Tarihçe
+
+Red Scorpions, gene-lineage'i bilinmeyen ve İmparatorluğun en fanatik saflık taraftarlarından olan bir Space Marine Chapter'ıdır; onların savaş doktrini, saflık ve mutasyon karşıtlığı üzerine kuruludur ve onlar, kendi gene-seed'lerinin saflığını diğer Chapter'larınkinden daha katı korurlar. Red Scorp
+
 Red Scorpions açısından savaşın anlamı, siyasi olduğu kadar öğretiseldi. Huron'un başkaldırısının kıvılcımı bir tithe meselesiydi ve bu tithe tam da gene-seed'in kendisiyle ilgiliydi: Astral Claws, Adeptus Mechanicus'a teslim etmesi gereken progenoid'leri kendine saklıyordu. Gene-seed'i kutsal bir emanet sayan Red Scorpions için bu, bir yönetim anlaşmazlığı değil, emanetin gasp edilmesiydi. Huron'un sonradan Chaos'a yönelmesi de Chapter'ın bu savaşa baştan beri yüklediği anlamı geriye dönük olarak doğrulamış oldu.
 
 Savaş Red Scorpions'a ağır bir bedel ödetti. Komutanın bu yıllarda el değiştirdiğine dair anlatımlar da Chapter'ın bu çatışmadan eski hâliyle çıkmadığını düşündürür; kardeş Chapter'ların birbirine en ağır darbeleri indirdiği bu yıllarda Red Scorpions da uzun ve yıpratıcı bir sefer yürüttü.

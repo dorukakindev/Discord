@@ -15,12 +15,8 @@ Pullu kızıl derili, sırtı dikenli, kurt ile sürüngen arasında bir biçim 
 
 ## Tarihçe
 
-Flesh Hound ('Et Tazısı'), Khorne'un daemonik avcı köpeğidir — Blood God'un 'brass collar'larıyla donanmış bu yaratıklar, yakaladığı avın büyü direncini kıran ve kanını emen tasmalarıyla bilinir. Khorne'un 'koşan öfkesi' olarak psyker ve kaçan düşmanları avlayan en korkulan daemonik hayvanlardır.
+Flesh Hound, Khorne'un en ünlü ve en vahşi daemon köpeğidir; Khorne'un en sadık avcısı olan ve onun en vahşi savaşlarını yapan Flesh Hound, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Khorne'un en ünlü ve en vahşi daemon köpeğidir. Flesh Hound'un en büyük özelliği, onun vahşetidir — onlar, Khorne'un en vahşi avcısıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Flesh Hound, hem bir daemon hem de bir avcıdır ve onların savaşı, sadece kan ve kafatası içindir. Flesh Hound'un en ünlü özelliği, onun Brass Collar'ıdır — onlar, psişik güçleri yok eden en tehlikeli daemon köpeğidir ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır. Flesh Hound, Khorne'un en ünlü ve en vahşi daemon köpeğidir — onlar, bir vahşetin ve Chaos'un en büyük gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Boyunlarındaki Collar of Khorne, büyüye karşı koruma sağlayan bir tılsım olarak anlatılır. Hız, amansız koku alma ve Warp'ın izini sürebilme onların asıl özelliğidir.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Codex: World Eaters — 10th Edition*
-
--# İlişkili kayıtlar: <#1551995201386578031>, <#1551654107058540595>, <#1551995320303489068>, <#1551818131679215728>
+Boyunlarındaki Collar of Khorne, büyüye karşı koruma sağlayan bir tılsım olarak anlatılır. Hız, amansız koku al

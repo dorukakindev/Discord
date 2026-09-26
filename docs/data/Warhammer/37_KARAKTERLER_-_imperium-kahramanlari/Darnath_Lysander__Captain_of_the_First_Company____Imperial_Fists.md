@@ -15,12 +15,4 @@ Terminator zırhı içinde, kalkanı ve çekiciyle kuşatma gediklerinin önünd
 
 ## Tarihçe
 
-Darnath Lysander, Imperial Fists'in 1. Bölüğü'nün birinci kaptanı, Zırhlı Birliğin Denetçisi ve chapter'ın hareketli kale-manastırı Phalanx'ın Watch Commander'ıdır. Malodrax'ta bin yıl esir kalıp işkenceyi yenip dönen figür olarak 'kırılmayan sur' efsanesinin bedenidir — chapter'ın en efsanevi figürlerinden.
-
-## Kanon Notu
-
-Tutsaklığın süresi ve öncesindeki kayboluşuyla ilgili ayrıntılar farklı edition'larda farklı genişlikte anlatılır; bu kayıt yalnızca sabit kalan çekirdeği aktarır.
-
--# Kaynaklar: *Codex: Space Marines*; *Codex Supplement: Imperial Fists*
-
--# İlişkili kayıtlar: <#1551636479925559479>, <#1551637652569067542>, <#1551650286559559741>, <#1551808888666587197>
+Darnath Lysander, Imperial Fists'in en ünlü ve en onurlu kaptanıdır; Birinci Bölük'ün kaptanı olan ve İmparatorluğun en zorlu savunmalarını yöneten Lysander, İmparatorluğun en saygın ve en ölümcül Space Marine'lerinden biridir — onlar, Imperial Fists'in en ünlü ve en onurlu üyesidir. Darnath Lysander'ın en büyük özelliği, onun dayanıklılığıdır — onlar, İmparatorluğun en zorlu kuşatmalarını atlatan ve onun en büyük zaferlerini kazanan komutandır ve onların varlığı, Imperial Fists'in en büyük gücünün kanıtıdır; bir Lysander komutası, bir kalenin en zorlu savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük direnişinin somut halidir. Lysander'ın en ünlü görevi, Iron Warriors'a karşı savaşmasıdır — onlar, Perturabo'nun en acımasız taktiklerine direnen ve onu yenen komutanlardır ve onların varlığı, Imperial Fists'in en büyük zaferinin kanıtıdır. Darnath Lysander, Imperial Fists'in en ünlü ve en onurlu kapta

@@ -12,6 +12,6 @@
 
 ## Tarihçe
 
-Meron, Imperial Navy'nin Gothic War dönemindeki subaylarından biridir; sektörün en kanlı deniz savaşlarında görev yapmış bir komutan olarak kayıtlara geçmiştir. Gothic-class kruvazörlerin ve Battlefleet Gothic'in zorlu komuta zincirinde yer almış figürlerden biridir.
+Meron, İmparatorluğun en gizli ve en önemli figürüdür; onların İmparatorluğun en gizli operasyonlarını yapan ve onun en gizli sırlarını saklayan Meron, İmparatorluğun en gizli ve en önemli varlığıdır — onlar, İmparatorluğun en gizli ve en önemli figürüdür. Meron'un en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarını yapan en önemli figürdür ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Meron, hem bir ajan hem de bir sır taşıyıcısıdır ve onların varlığı, İmparatorluğun en gizli varlığının somut halidir. Meron'un en ünlü özelliği, onun İmparatorluğun hizmetindedir — onlar, İmparatorluğun en gizli operasyonlarının en önemli üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Meron, İmparatorluğun en gizli ve en önemli figürüdür — onlar, bir gizliliğin ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

@@ -16,8 +16,8 @@ Path'e en katı biçimde bağlı craftworld. Bu katılık, pek çok genç Aeldar
 
 ## Tarihçe
 
-Alaitoc'un katı düzeni ile ona sığamayanların yolu, Gav Thorpe'un Path üçlemesinde üç ayrı yaşam üzerinden işlenir: bir Aspect Warrior'un, bir seer'in ve craftworld'ü terk eden bir Outcast'in hikâyesi aynı craftworld'ün farklı yüzlerini gösterir. Kaynaklarda Alaitoc'un Ranger'ları, uzak dünyalarda gözcülük yapıp craftworld'e bilgi taşıyan bir ağ olarak anlatılır; Illic Nightspear bu geleneğin en tanınmış figürüdür.
+Alaitoc, Aeldari ırkının en büyük ve en askeri Craftworld'lerinden biridir; onun savaş geleneği ve disiplinli yapısıyla — Aeldari'nin en organize ve en savaşçı evidir — onlar, Aeldari'nin en disiplinli ve en ölümcül evidir. Alaitoc'un en büyük özelliği, onun disiplinidir — onlar, Path sistemini en katı şekilde uygular ve onların savaşçıları, Aeldari'nin en disiplinli ve en ölümcül savaşçılarıdır; bir Alaitoc savaşçısı, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Alaitoc'un en ünlü özelliği, onun Ranger'larıdır — onlar, Aeldari'nin en iyi keskin nişancılarını yetiştirir ve onların varlığı, Aeldari'nin en ölümcül gücünün kanıtıdır. Alaitoc, Aeldari ırkının en disiplinli ve en ölümcül Craftworld'üdür — onlar, disiplinin ve savaşın somut halidir.
 
 -# Kaynaklar: *Path of the Warrior — Gav Thorpe*; *Path of the Seer — Gav Thorpe*; *Path of the Outcast — Gav Thorpe*; *Codex: Aeldari — 10th Edition*
 
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551810727445004339>
+-# İlişkili kayıtlar: <#1551812290439942255>, <#1

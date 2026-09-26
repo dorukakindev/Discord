@@ -16,8 +16,4 @@ Dört ayak üzerinde koşan, keskin duyulu ve çevik bu yaratıklar, Kroot kindr
 
 ## Tarihçe
 
-Kroot Hound'lar, T'au İmparatorluğu'yla müttefik Kroot türünün evrimsel çıkmazıdır — dört ayaklı, köpek-benzeri Kroot'lar olarak avı kovalamada ustadır. Büyük köpek boyutunda, omurgaları boyunca duyusal ganglia dizisi taşır; insansı Kroot'lar gibi sinirli yapılıdırlar — 'av paketinin dört ayaklısı' olarak Kroot ordularının izci ve akın birimidir.
-
--# Kaynaklar: *Codex: T'au Empire — 10th Edition*
-
--# İlişkili kayıtlar: <#1551643950014795948>, <#1551809146850910260>, <#1551809846066548779>
+Kroot Hound, Kroot'ların en ünlü ve en vahşi avcısıdır; Kroot'ların en sadık ve en vahşi avcı köpeği olan ve onların en zorlu savaşlarını yapan Kroot Hound, Kroot'ların en ünlü ve en vahşi yaratığıdır — onlar, Kroot'ların en ünlü ve en vahşi avcısıdır. Kroot Hound'un en büyük özelliği, onun vahşetidir — onlar, Kroot'ların en vahşi avcısıdır ve onların varlığı, Kroot'ların en büyük gücünün kanıtıdır; bir Kroot Hound, hem bir avcı hem de bir yoldaştır ve onların savaşı, sadece avlanmak ve korumak içindir. Kroot Hound'un en ünlü özelliği, onun Kroot'ların yoldaşıdır — onlar, Kroot'ların en sadık ve en vahşi avcı köpeğidir ve onların varlığı, Kroot'ların en büyük geleneğinin kanıtıdır. Kroot

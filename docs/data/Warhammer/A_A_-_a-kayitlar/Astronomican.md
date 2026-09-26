@@ -14,7 +14,7 @@ Astronomican'ın varlığı, Emperor'ın Golden Throne'da tutulmasının temel n
 
 ## Tarihçe
 
-Astronomican, Terra'da bulunan psişik bir seyir feneridir — İmparator'un Altın Taht'ın içinden, Hollow Mountain'ın üzerindeki devasa kubbe düzeneğiyle
+Astronomican, İmparatorluk'un en önemli ve en kutsal teknolojisidir — Warp'te seyahat eden gemilere yön gösteren psyker işaretidir. Bu işaret, İmparato
 
 ## Tarihçe: Great Crusade'den Horus Heresy'ye
 Astronomican, Great Crusade'in başlangıcında, Emperor'ın Unification Wars sonrasında insanlığı galaksiye yeniden yaymak için kurduğu altyapının bir parçasıydı. İşaret, Crusade filolarının Warp'ta daha uzun ve daha güvenli sıçramalar yapmasını sağlayarak Emperor'ın fetihlerini hızlandırdı. Bu dönemde Emperor'ın doğrudan katılımıyla çalışan sistem, Golden Throne'a bağlanmasından önce de insanlık için yaşamsal bir bağ işlevi görüyordu.

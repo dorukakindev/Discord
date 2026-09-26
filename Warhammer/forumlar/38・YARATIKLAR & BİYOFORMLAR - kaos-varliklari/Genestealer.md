@@ -16,8 +16,4 @@ Dört kollu, pençeleri ceramite'ı yarabilen, olağanüstü hızlı ve sinsi bi
 
 ## Tarihçe
 
-Genestealer (Corporaptor hominis), Hive Mind tarafından başka zeki türlerin yerleşik dünyalarına sızma için genetik olarak tasarlanmış Tyranid biyoformudur — safkan bir Genestealer tek başına Space Marine'i bile öldürebilir. Kurbanlarını implant edip 'Genestealer kültlerini' başlatan bu figürler, istilanın 'içeriden gelen' ilk ajanıdır — Hive Fleet'in en sinsi silahı.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Genestealer Cults*; *Space Hulk*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551759784821137419>, <#1551809133156634696>, <#1551811368389181491>, <#1551814990338723904>
+Genestealer, Tyranid'in en gizli ve en sinsi yaratığıdır; bir gezegenin nüfusunu ele geçiren ve onları Genestealer Cults'a dönüştüren en sinsi organizma olan Genestealer, Tyranid'in en gizli ve en sinsi silahıdır — onlar, Tyranid'in en gizli ve en sinsi yaratığıdır. Genestealer'ın en büyük özelliği, onun sinsiliğidir — onlar, bir gezegenin nüfusunu ele geçiren ve onları kült'e dönüştüren en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Genestealer, hem bir organizma hem de bir istilacıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Genestealer'ın en ünlü özelliği, onun kült yaratmasıdır — onlar, bir gezegenin nüfus

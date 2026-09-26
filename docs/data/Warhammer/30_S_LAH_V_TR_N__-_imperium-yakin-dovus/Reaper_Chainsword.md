@@ -19,4 +19,8 @@ Zincir silahları monomoleküler dişlere sahip motorlu kılıç ve baltalardır
 ## Not
 Orak biçimli chainsword, tek vuruşta birden fazla düşmanı kesmek için tasarlanmıştır — kalabalık muharebe ortamında etkilidir.
 
+
+## Tarihçe
+
+Reaper Chainsword, Imperial Knight'ların ve bazı büyük Titan'ların kullandığı devasa zincir kılıçtır; adını 'biçici' anlamından alır ve tek savuruşta bir tankı ikiye bölebilen, bina büyüklüğünde bir savaş silahıdır. Reaper Chainsword'un dişleri, adamantium ve diamond-hard alaşımdan yapılmıştır ve dönen zincir, her saniyede yüzlerce kesim yapar; bir Knight'ın Reaper Chainsword ile yaptığı saldırı, bir piyade birimini tamamen silip süpürür. Reaper Chainsword'un en ünlü kullanımı, Knight'ların düşman zırhlılarına yakın dövüşle girdiği savaşlardır — bir Knight, Reaper Chainsword'unu bir Chaos Titan'ın bacağına saplayabilir ve tek hamlede onu devirebilir; ve bir Knight ordusu, Reaper Chainsword'larla bir şehri taş taş üstünde bırakmaz hale getirir. Reaper Chainsword, Imperial Knight'ın simgesidir — onun sesi, düşmanın duyduğu son sestir.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

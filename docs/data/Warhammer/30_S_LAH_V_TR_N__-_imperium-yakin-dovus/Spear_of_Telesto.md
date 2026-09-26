@@ -8,6 +8,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/55/Sanguinius_Spear_of_T
 ## Not
 Mızrak, kana dönmeyecek kadar eski bir üretimdir ve Blood Angels tarihindeki en kutsal kalıntılardan biridir. Arkio'nun düşüşü sırasında hem simge hem silah olarak kullanıldı.
 
+## Tarihçe
+
+Spear of Telesto, İmparatorluğun en ünlü ve en kutsal relic'idir; Celestine'in — İmparatorluğun en ünlü azizesi — kullandığı ve onun en büyük savaşlarının simgesi olan bir mızraktır — onlar, İmparatorluğun en ünlü ve en kutsal hazinesidir. Spear of Telesto'nun en büyük özelliği, onun gücüdür — onlar, bir azizenin en güçlü silahıdır ve onların varlığı, İmparatorluğun en kutsal gücünün kanıtıdır; bir Spear of Telesto kullanıcısı, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Spear of Telesto'nun en ünlü özelliği, onun Celestine'in silahıdır — onlar, İmparatorluğun en ünlü azizesinin simgesidir ve onların varlığı, İmparatorluğun dininin somut halidir. Spear of Telesto, İmparatorluğun en ünlü ve en kutsal relic'idir — onlar, bir azizenin gücünün ve İmparatorluğun dininin somut halidir.
+
 https://static.wikia.nocookie.net/warhammer40k/images/5/55/Sanguinius_Spear_of_Telesto.png/revision/latest?cb=20201020071059
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

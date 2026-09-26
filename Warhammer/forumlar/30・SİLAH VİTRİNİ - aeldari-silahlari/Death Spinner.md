@@ -17,6 +17,7 @@ Warp Spider'ların mono-filament tel bulutu — hedefi saç inceliğinde keskin 
 - Taşıyıcı: Striking Scorpions Aspect Warriors
 
 ## Tarihçe
-Aspect Warrior silahları içinde Death Spinner en 'Aeldari' olanıdır — hem dövüş sanatı hem silah. Net kabuğu, avcının bir vuruşta kontrol etme felsefesinin uzantısıdır.
+
+Death Spinner, Aeldari'nin en gizli ve en ölümlü silahıdır; onların Aeldari'nin en gizli ve en ölümlü iplik silahı olan ve onun en zorlu savaşlarını yapan Death Spinner, Aeldari'nin en gizli ve en ölümlü silahıdır — onlar, Aeldari'nin en gizli ve en ölümlü silahıdır. Death Spinner'ın en büyük özelliği, onun iplikleridir — onlar, ölümcül iplikleri atan ve düşmanı saran en ölümlü silahtır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Death Spinner, hem bir silah hem de bir tuzaktır ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Death Spinner'ın en ünlü özelliği, onun Warp Spiders'ın kullanımıdır — onlar, Aeldari'nin en gizli ve en ölümlü birliğinin en ölümlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Death Spinner, Aeldari'nin en gizli ve en ölümlü silahıdır — onlar, bir ipliğin ve Aeldari'nin en büyük silahının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

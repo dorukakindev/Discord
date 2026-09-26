@@ -16,8 +16,4 @@ Altın zırhları, kanatlı sıçrama paketleri ve ölüm maskeleriyle Sanguiniu
 
 ## Tarihçe
 
-Legion çağında Primarch'ın yanında savaşan Sanguinary Guard, Siege of Terra'da da Sanguinius'un çevresinde anılır. Modern Blood Angels'ta birim, bin yılı aşkın süredir Chapter'ı yöneten Commander Dante'nin muhafızıdır. Baal'ın Leviathan'a karşı savunmasında ve Great Rift sonrası Imperium Nihilus'un karanlığında Dante'nin yanında savaştı.
-
--# Kaynaklar: *Codex Supplement: Blood Angels — 10th Edition*; *Fear to Tread — James Swallow*; *Echoes of Eternity — Aaron Dembski-Bowden*; *Dante — Guy Haley*
-
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809039342501970>, <#1551808888666587197>
+Sanguinary Guard, Blood Angels Chapter'ının kişisel muhafızı ve en kutsal birimidir; altın zırhlı, jump pack'li ve wrist-mounted weapon'lar taşıyan savaşçılardır ve görevleri hem Chapter Master'ı korumak hem de Blood Angels'ın en karanlık sırrını — Black Rage'i — kontrol altında tutmaktır. Sanguinary Guard'lar Sanguinius'un anısına adanmıştır — onların altın zırhı ve kanatları, ölü primarch'ın sembolüdür; bir Sanguinary Guard, savaşta Sanguinius'un hayaleti gibi görünür. En ünlü görevleri Death Company'yi denetlemektir — Black Rage'e düşen kardeşleri savaşa götürür, onları yönetir ve gerektiğinde onları durdurur; bu görev, Blood Angels'ın en acı ve en kutsal sorumluluğudur. Sanguinary Guard olmak, Blood Angels'ın en yüksek onurudur — ama aynı zamanda en bü

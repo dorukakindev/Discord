@@ -55,4 +55,8 @@ Magnus, *Realm of Chaos* kitaplarıyla (1988–1990) Thousand Sons'ın Primarch'
 **Kaynaklar:** *Codex: Thousand Sons — 10th Edition*; *A Thousand Sons — Graham McNeill*; *Prospero Burns — Dan Abnett*; *Magnus the Red: Master of Prospero — Graham McNeill*; *The Crimson King — Graham McNeill*; *Master of Mankind — Aaron Dembski-Bowden*; *War Zone Fenris: Wrath of Magnus*
 **Çapraz:** <#1551809231580307517>, <#1551808728062501019>, <#1551818097504157699>, <#1551638910344630307>, <#1551813713403580438>, <#1551809666454134928>, <#1551809699312181339>, <#1551814951365115956>
 
+## Tarihçe
+
+Magnus the Red, Thousand Sons'un en ünlü ve en trajik primarch'ıdır; Prospero'nun — Thousand Sons'un ev gezegeni — en güçlü psyker'ı olan ve Thousand Sons'u kuran Magnus, İmparatorluğun en trajik ve en tehlikeli primarch'ıdır — onlar, Thousand Sons'un en ünlü ve en trajik primarch'ıdır. Magnus'un en büyük özelliği, onun psişik gü
+
 ​

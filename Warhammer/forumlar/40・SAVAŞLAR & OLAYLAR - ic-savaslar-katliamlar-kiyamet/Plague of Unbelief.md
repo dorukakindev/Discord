@@ -10,6 +10,6 @@ Plague of Unbelief (İnançsızlık Vebası), M36'da, Apostasy Çağı'nın geni
 
 ## Tarihçe
 
-Plague of Unbelief, 36. Binyıl'da Kardinal Bucharis'in Gathalamor'da başlattığı büyük isyan ve sapkınlık dalgasıdır; milyonlarca dünyayı İmparatorluk'tan koparıp kendi teokratik krallığını kurmaya çalıştı. Confessor Dolan Chirosius'un şehitliği ve son büyük savaşla bastırıldı — İmparatorluk tarihinin en kanlı iç savaşlarından biri.
+Plague of Unbelief, İmparatorluk'un dinine karşı yapılan en büyük saldırı olarak tarihe geçti. Bu olay, Kardinal Bucharis'in İmparatorluk'a ihanet etmesiyle başladı; Plague of Unbelief sırasında Bucharis, İmparatorluk'un dinini yıkmaya çalıştı ve birçok insanın hayatına mal oldu. Olay, İmparatorluk'un dinini yıkmaya çalışanların yenilgisiyle sonuçlandı; ancak verilen zayiat ve yaşanan çatışma, bu olayın İmparatorluk tarihindeki en trajik sayfalardan biri olmasına neden oldu. Plague of Unbelief, İmparatorluk'un dininin ne kadar önemli olduğunu ve ona karşı yapılan saldırıların ne kadar tehlikeli olduğunu gösterdi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

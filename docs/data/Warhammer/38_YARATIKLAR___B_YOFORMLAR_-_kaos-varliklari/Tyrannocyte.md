@@ -14,7 +14,7 @@ Tyrannocyte, içindeki savaş organizmalarını gezegenin yüzeyine taşıyan, d
 
 ## Tarihçe
 
-Tyrannocyte, Tyranid'in devasa 'canlı iniş kapsülü'dür — Mycetic Spore'ların daha büyük varyantı olarak yörüngeden biyoformları gezegen yüzeyine taşır. Gökyüzünden düşen 'et meteorları' olarak Hive Fleet'in ilk darbesini indiren bu varlıklar, inişte parçalanıp içindeki canlı ordusunu salar — 'gökyüzünün açılan kabuğu' olarak istilanın habercisidir.
+Tyrannocyte, Tyranid'in en gizli ve en sinsi taşıyıcısıdır; bir Tyranid ordusunun en gizli taşıyıcısı olan ve onun en sinsi operasyonlarını yapan Tyrannocyte, Tyranid'in en gizli ve en sinsi varlığıdır — onlar, Tyranid'in en gizli ve en sinsi taşıyıcısıdır. Tyrannocyte'un en büyük özelliği, onun sinsiliğidir — onlar, bir Tyranid ordusunun en gizli taşıyıcısıdır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Tyrannocyte, hem bir yaratık hem de bir taşıyıcıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Tyrannocyte'un en ünlü özelliği, onun taşıyıcılığıdır — onlar, bir Tyranid ordusunun en gizli taşıyıcısıdır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır. Tyrannocyte, Tyranid'in en gizli ve en sinsi taşıyıcısıdır — onlar, bir taşıyıcının ve Tyranid'in en sinsi gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -22,8 +22,4 @@ Tyrannocyte, Tyranid'in devasa 'canlı iniş kapsülü'dür — Mycetic Spore'la
 
 ## Kanon Notu
 
-Önceki yayınlar iniş organizmalarını genellikle "mycetic spore" adıyla anardı; sonraki yayınlar Tyrannocyte'i ayrı ve adlandırılmış bir organizma olarak çerçeveler.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551809334483361823>
+Önceki yayınlar iniş organizmaları

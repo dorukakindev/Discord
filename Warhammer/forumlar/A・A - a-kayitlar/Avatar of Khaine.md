@@ -16,6 +16,6 @@ Avatar of Khaine, Aeldari savaş tanrısı Khaine'in parçalanmış ruhunun bir 
 
 ## Tarihçe
 
-Avatar of Khaine, Aeldari savaş tanrısı Khaine'in parçalanmış ruhunun bir kısmını taşıyan dev Wraithbone figürüdür. Craftworld'ün merkezindeki kafeste uykuda durur; Bloody-Handed ritüeliyle uyanır ve savaşa yürür — elinde Wailing Doom, her adımında kan izi bırakan yaşayan efsanedir.
+Avatar of Khaine, Aeldari'nin en güçlü ve en korkulan varlığıdır — Kaela Mensha Khaine'in avatarıdır. Bu varlık, Aeldari'nin savaş tanrısının fiziksel bir tezahürüdür; tek vuruşta bir Greater Daemon'u bile etkisiz hale getirebilecek kadar güçlüdür. Avatar of Khaine, Aeldari'nin en güçlü ve en korkulan varlığıdır; bu varlık, Aeldari'nin en önemli ve en korkulan varlığıdır. Varlık, Aeldari'nin en güçlü ve en korkulan varlığı olarak kalır.
 
 -# Kaynaklar: *Codex: Aeldari*

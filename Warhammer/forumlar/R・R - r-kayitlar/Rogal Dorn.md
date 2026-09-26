@@ -13,6 +13,10 @@ Dorn'un kapsülü, soluk bir güneşin çevresinde dönen buzul dünya **Inwit**
 
 Emperor'ın filosu Inwit kümesine ulaştığında Dorn beklemedi: devasa gemisi **Phalanx**'ın başında Emperor'ı karşılamaya çıktı ve biat etti. Phalanx, o günden sonra Legion'ın seyyar kalesi oldu ve on bin yıl boyunca Imperial Fists'in karargâhı olarak kalacaktı. Inwit'in katı disiplini, hayatta kalmayı kolektif bir yükümlülük sayan ahlakı ve duygusal ölçülülüğü, Dorn'un VII Legion'a aşıladığı karakterin çekirdeğini oluşturdu. Guy Haley'nin *Rogal Dorn: The Emperor's Crusader* romanı, Primarch'ın Great Crusade yıllarındaki bu yüzünü işler.
 
+## Tarihçe
+
+Rogal Dorn, Imperial Fists'in en ünlü ve en saygın primarch'ıdır; Inwit'in — Imperial Fists'in ev gezegeni — en saygın savaşçısı olan ve Imperial Fists'i kuran Dorn, İmparato
+
 ## Kişilik ve İlişkiler
 Dorn'un en belirgin niteliği sözünün ve eyleminin arasına hiçbir boşluk koymamasıdır. Diplomasiden, ima ve dolambaçtan hoşlanmaz; bir kaleyi tutabileceğini söylediğinde bunu bir övünme değil, mühendislik hesabı olarak söyler. Bu dürüstlük kardeşleri arasında hem güven hem de derin kırgınlıklar doğurdu.
 

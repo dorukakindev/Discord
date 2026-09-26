@@ -5,14 +5,17 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Agoniser7thEdition.jp
 
 -# *Izdırap Kamçısı*
 
-Drukhari'nin sinir sistemine doğrudan saldıran kamçı-silahı; zırhı delmeye gerek duymaz, dokunduğu yerden kurbanın acı reseptörlerini ateşler. Wych arenalarının gözde gösterisi, akınların gözde işkencesidir.
+Kamçı, topuz ya da eldiven gibi pek çok biçimde dövülen Drukhari yakın dövüş silahıdır. Kurbanın sinir sistemine tutunarak onu ele geçirir ve acı reseptörlerini aşırı yükler; zırhı delmesine gerek kalmadan felç eder ya da öldürür. Yaratık ne kadar büyükse yaşayabileceği acı da o kadar büyüktür — ve Commorragh için acı bir hasattır.
 
-
-## Teknik ve Kullanım
-Eldar (Aeldari/Drukhari) silahları Zarif Kaynakçılar Çağı'nın zirvesidir: shuriken silahları erimiş yıldız kristali diskleri yağdırır, lance ve prism teknolojisi saf enerjiyi odaklar, darklight ve monofilament ise 'zerafetle vahşetin' birleşimidir. Eldar silahı güzeldir çünkü ölüm onlar için sanattır.
+- **Kategori:** Yakın dövüş silahı / işkence silahı — <#1551628959588810813>
+- **Fraksiyon:** Aeldari (Drukhari)
+- **Dönem:** M41 ve Era Indomitus
+- **Köken:** Commorragh'ın işkence-silah zanaatinin ürünüdür; ilk tasarımı kanonda açıklanmamıştır.
+- **Teknik / Biyolojik Özellikler:** Dokunduğu bedenin sinir sistemine bağlanıp kontrolü ele geçirir ve yoğun acı iletir. Araçlara karşı da işler: mürettebatı felç eder ya da araç sistemlerini bozabilir.
+- **Bilinen Kullanıcılar / Operatörler:** Archon'lar, Succubi ve hekatrix'ler, Haemonculi, Kabalite sybarite'ları, Reaver arena şampiyonları, Scourge solarite'ları, Beastmaster'lar.
+- **Önemli Olaylar:** Tek bir olayla özdeşleşmez; Kabal akınlarının ve arena dövüşlerinin standart işkence silahıdır.
+- **Kanon Notu:** Biçimi sabit değildir — kamçı, eldiven ve benzeri varyantlar aynı ailenin parçası olarak anılır.
 
 ## Tarihçe
 
-Drukhari'nin acı-maksimizasyon silahı; kurbanın sinir sistemini bioelektrik aşırı yüklemeyle yakıp kavuran kırbaç ya da topuz. 'Öldürmek' değil, 'hissettirmek' — yaratık ne kadar büyükse acı o kadar büyür.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Agoniser, Drukhari'nin en ünlü ve en ölümlü yakın dövüş silahıdır; onların Drukhari'nin en güçlü ve en ölümlü acı silahı olan ve onun en zorlu savaşlarını yapan Agoniser, Drukhari'nin en güçlü ve en ölümlü silahıdır — onlar, Drukhari'nin en ünlü ve en ölümlü yakın dövüş silahıdır. Agoniser'ın en büyük özelliği, onun acısıdır — onlar, düşmana acı veren ve onu yok eden en ölümlü silahtır ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Agoniser, hem bir silah hem de bir acı aracıdır ve onların varlığı, Drukhari'nin en büyük silahının somut halidir. Agoniser'

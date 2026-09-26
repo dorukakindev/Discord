@@ -16,8 +16,4 @@ Berzerker'lar, Nails'in yalnızca şiddet anında dindirdiği acıyla yaşayan, 
 
 ## Tarihçe
 
-Legion Apothecary'leri implantı çoğaltarak Astartes'e yerleştirince disiplinli War Hounds, öfkeyi kucaklayan World Eaters'a dönüştü. Heresy'de Isstvan'dan Shadow Crusade'e kadar saldırının ön safındaydılar. Skalathrax'ta Khârn'ın kendi kardeşlerine saldırmasından sonra Legion warband'lere bölündü; Berzerker'lar ise bu dağınık yapının kanlı çekirdeği olarak kaldı.
-
--# Kaynaklar: *Codex: World Eaters — 10th Edition*; *Betrayer — Aaron Dembski-Bowden*; *Khârn: Eater of Worlds — Anthony Reynolds*
-
--# İlişkili kayıtlar: <#1551809718085746759>, <#1551649073432494263>, <#1551815867845578773>, <#1551812225570836561>
+Khorne Berzerker'ları, World Eaters Legion'unun ve diğer Khorne'a adanmış warband'lerin çılgın yakın dövüş savaşçılarıdır; beyinlerine yerleştirilen Butcher's Nails (Kasap Çivileri) implantları onları sürekli öfke ve kan arzusuyla dolu kılar ve savaşta sadece kesmek, parçalamak ve kafatası toplamak için var olurlar. Berzerker'ın silahı chainaxe veya chainsword'dür — amaç temiz öldürmek değil, mümkün olduğunca çok kan akıtmaktır; Khorne için kan ve kafatası, zaferden daha önemlidir ve Berzerker'lar bu yüzden savaşı uzatmak için bile düşmanı yavaş yavaş parçalarlar. Khorne Berzerker'ları kontrol edilemez — onları durdurmak neredeyse imkânsızdır ve bir Berzerker manga'sı serbest bırakıldığında, sadece düşmanı değil, bazen kendi yandaşlarını da biçerler. Onlar için tek gerçek savaş meydanıdır — Khorne'un tahtına gid

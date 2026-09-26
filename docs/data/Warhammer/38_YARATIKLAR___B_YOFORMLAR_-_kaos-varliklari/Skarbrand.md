@@ -15,4 +15,4 @@ Skarbrand, Khorne'un en büyük Bloodthirster'larından biriydi — ama Tzeentch
 
 ## Tarihçe
 
-Skarbrand 'Sürgün Edilmiş', Khorne'un en büyük Bloodthirster'larından biriydi — bir zamanlar Blood God'un en sevdiği celladıydı. Ancak Tzeentch'in kışkırtmasıyla efendisine isyan edecek kadar kibirlenen Skarbrand, Khorne'un tahtına sald
+Skarbrand (the Exiled One), Khorne'un en ünlü ve en vahşi Greater Daemon'ıdır; Khorne'a ihanet ettiği için sürgün edilen ve onun en acımasız savaşçısı olan Skarbrand, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Kho

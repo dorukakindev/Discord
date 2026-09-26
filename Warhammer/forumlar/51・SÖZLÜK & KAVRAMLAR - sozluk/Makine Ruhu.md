@@ -12,6 +12,6 @@ Bu inanca göre, bir makine doğru çalışsın diye, makine ruhunun yatıştır
 
 ## Tarihçe
 
-Makine Ruhu (Machine Spirit), Cult Mechanicus'un inandığı animist varlık; her makinede yaşadığına inanılan 'tekno-ruh' doktrini — Adeptus Mechanicus'un temel dini nosyonu.
+Machine Spirit, Adeptus Mechanicus'un her makinenin içinde yaşadığına inandığı ruhsal öz'dür; basit bir lasgun'dan devasa bir Titan'a kadar her Imperial makinesinin bir ruhu vardır ve bu ruh ancak doğru ritüellerle yatıştırılır veya öfkelendirilir. Kavram hem teknik hem dinîdir: Tech-priest'ler için makine ruhu, cihazın çalışma durumunun metafizik karşılığıdır — iyi bakılan, kutsanmış bir silahın ruhu sadık ve güçlüdür; ihmal edilen makinenin ruhu huzursuzlaşır ve arızalanır. Bazı büyük makinelerde (Titan, Land Raider, gemi cogitator'ları) machine spirit gerçekten yarı-bilinçli bir varlık gibi davranır — Land Raider'lar mürettebat öldüğünde bile savaşmaya devam etmiştir. Mechanicus'un Machine Spirit dogması, yapay zekâ yasağının doğal sonucudur — düşünen makine yerine, ruhu olan makine.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

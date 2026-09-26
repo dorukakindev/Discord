@@ -15,12 +15,4 @@ Her League, bir ya da birkaç Votann'ın çevresinde kurulan bir birliktir; siya
 
 ## Tarihçe
 
-Kin, uzun süre galaksinin çekirdeğine yakın, radyasyonun yoğun olduğu bölgelerde yaşadı. Great Rift sonrası dönemde League'ler çekirdeğin dışına doğru belirgin biçimde genişlemeye başladı ve Imperium, Ork'lar ve Tyranid'lerle daha sık karşılaştı. League'ler arasında da rekabet ve anlaşmazlık eksik değildir.
-
-## Bilinen Kullanıcılar / Operatörler
-
-Greater Thurian League, Trans-Hyperian Alliance, Kronus Hegemony, Ymyr Conglomerate, Urani-Surtr Regulates, Needgaard Oathband; Greater Thurian League'in Kâhl'ı Ûthar the Destined.
-
--# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*; *Codex: Leagues of Votann — 9th Edition*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551809846066548779>, <#1551814400938082357>
+Leagues of Votann'ın yapısı, 'League' adı verilen özerk klan-konfederasyonları üzerine kuruludur; her League, bir veya daha fazla Kindred'den (aile birliği) oluşur ve her League'in kendi Votann'ı (Ancestor Core), kendi ordusu ve kendi yasaları vardır. League'ler arası ilişki karmaşıktır — bazıları müttefik, bazıları rakip ve bazıları düşmandır; ama hepsi Kin ırkının ortak mirasını ve Votann'ların rehberliğini paylaşır. League'in yönetimi Oathband (yemin birliği) sistemi üzerinedir — Kin'in sözü kutsaldır ve bir Oath, bir League'in en güçlü bağlayıcısıdır; Oathband'ler, League'in askeri, ticari ve sosyal yapısını düzenler. League yapısı, Kin ırkının hem gücü hem de zaafıdır — otonomi onları esnek kılar ama aynı zamanda birleşik bir cephe oluşturmayı zorlaştırır; ve bir League'in düşüşü, diğerlerinin de risk a

@@ -14,8 +14,4 @@ Haemonculi eti yeniden biçimlendirir, bedenleri dönüştürür ve en önemlisi
 
 ## Tarihçe
 
-Asdrubael Vect'in rakiplerince defalarca öldürüldüğüne inanılıp her seferinde geri döndüğü anlatılır; bu dönüşlerin bir kısmı Haemonculus sanatına bağlanır. Prophets of Flesh'in Urien Rakarth'ı defalarca yeniden bedenlenmiş kadim bir Haemonculus olarak bilinir.
-
--# Kaynaklar: *Codex: Drukhari*; *Path of the Renegade — Andy Chambers*
-
--# İlişkili kayıtlar: <#1551997841356881980>, <#1551997822725922938>, <#1551754688008032321>
+Haemonculus'lar, Drukhari toplumunun dehşet verici cerrah-tiranlarıdır; Commorragh'ın derinliklerinde yaşarlar ve işkenceyi, beden dönüşümünü ve ölümden dirilişi bir sanat ve ticaret dalına çevirmişlerdir. Binlerce yıl yaşayan bu varlıklar kendi bedenlerini o kadar çok değiştirir ki orijinal formları tanınmaz hale gelir; bazıları sıvı kütlesi, bazıları böcek-benzeri kabuklar içinde yaşar. En korkulan yetenekleri diriliştir: bir Drukhari ölürse, onun parmağından veya kan damlasından yeniden beden büyütebilirler — ölü ruh Webway üzerinden geri çağrılır ve yeni ete bağlanır; bu hizmet Commorragh ekonomisinin bel kemiğidir. Ancak dirilişin bedeli büyüktür: her dirilen Drukhari, ruhunun biraz daha fazlasını kaybeder ve zamanla içi boş bir kabuk kalır. Haemonculus kovunları (Wracks, Grotesques, Talos) onların eseridir — canlı dokuyu sanat malzemesi olarak kullanan bu cerrahlar, insanlığın onları ilk kez gördüğünde 'et bükü

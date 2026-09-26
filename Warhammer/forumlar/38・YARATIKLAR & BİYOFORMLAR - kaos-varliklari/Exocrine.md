@@ -15,12 +15,8 @@ https://wh40k.lexicanum.com/mediawiki/images/0/00/ExocrineArt.jpg
 
 ## Tarihçe
 
-Exocrine, Tyranid'in 'canlı topçu canavarı'dır — Bio-plasmic Cannon adlı organik silahı sırtında taşıyan dev biyoform. Bu devasa yaratık, biyoplazmik patlamalarıyla piyade ve tahkimatı eriten 'yürüyen batarya' olarak Hive Fleet'in uzun menzilli yıkım gücüdür; top mermisi değil canlı patlama atar.
+Exocrine, Tyranid'in en büyük ve en ölümcül topçu yaratığıdır; bir Tyranid ordusunun en büyük topçu birliği olan ve onun en büyük savaşlarını yapan Exocrine, Tyranid'in en büyük ve en ölümcül varlığıdır — onlar, Tyranid'in en büyük ve en ölümcül topçu yaratığıdır. Exocrine'ın en büyük özelliği, onun topçuluğudur — onlar, bir Tyranid ordusunun en büyük topçu birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Exocrine, hem bir yaratık hem de bir topçu birliğidir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Exocrine'ın en ünlü özelliği, onun devasa boyutudur — onlar, bir Tyranid ordusunun en büyük ve en ölümcül topçu yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Exocrine, Tyranid'in en büyük ve en ölümcül topçu yaratığıdır — onlar, bir topçunun ve Tyranid'in en büyük tehdidinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Taşıyıcı canlı ile silah-canlı arasında sinirsel bir bağ bulunduğu ve ikisinin tek bir yaratık gibi hareket ettiği anlatılır. Kalın kitin kabuk ve biyolojik plazma üretimi bu organizmanın temel özellikleridir.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>
+Taşıyıcı canlı ile

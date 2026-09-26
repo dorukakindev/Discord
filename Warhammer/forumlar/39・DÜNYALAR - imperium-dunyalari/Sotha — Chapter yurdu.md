@@ -16,8 +16,8 @@ https://wh40k.lexicanum.com/mediawiki/images/6/6b/Galaxy-Rift-Ultima.jpg
 
 ## Tarihçe
 
-Horus Heresy'de Roboute Guilliman, Terra'nın düşmüş olabileceği kaygısıyla Imperium Secundus'u kurduğunda Sotha'daki Pharos'u Astronomican'ın yokluğunda geçici bir işaret feneri olarak kullandı. M41'de Second Tyrannic War sırasında Hive Fleet Kraken Sotha'ya çöktü; Scythes of the Emperor yurdunu kaybederek savaşçılarının ve varlık temelinin büyük kısmını yitirdi. Great Rift sonrasında Belisarius Cawl, *The Great Work* anlatısında bu ölü dünyaya Pharos'un peşinde geri döner.
+Sotha, Scythes of the Emperor'ın Chapter yurdu olan ve İmparatorluğun en stratejik ve en önemli dünyalarından biridir; onun Pharos cihazıyla — bir Necron cihazı olarak bilinen ve İmparatorluğa yeni bir yol gösteren — bilinen bir dünyadır — onlar, İmparatorluğun en gizli ve en önemli dünyasıdır. Sotha'nın en büyük özelliği, onun Pharos cihazıdır — onlar, bir Necron cihazıdır ve onların varlığı, İmparatorluğun en gizli teknolojisinin merkezidir; bir Sotha, bir gezegenin en gizli halidir ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Sotha'nın en ünlü özelliği, onun Pharos'un evidir — onlar, İmparatorluğun en gizli teknolojisinin evidir ve onların varlığı, İmparatorluğun en büyük sırrının ve en büyük umudunun kanıtıdır. Sotha, İmparatorluğun en gizli ve en önemli dünyasıdır — onlar, İmparatorluğun en büyük sırrının somut halidir.
 
 -# Kaynaklar: *Pharos — Guy Haley*; *The Great Work — Guy Haley*; *Codex: Tyranids*
 
--# İlişkili kayıtlar: <#1551809334483361823>, <#1551639038291611649>, <#1551808704901423186>, <#1551815033518948404>
+-# İlişkili kay

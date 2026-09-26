@@ -16,8 +16,6 @@ Necron'ların bedenlerini, silahlarını, araçlarını ve yapılarını oluştu
 
 ## Tarihçe
 
-Necrontyr, yıldız enerjisiyle beslenen C'tan'a necrodermis'ten bedenler dökerek onlara maddi dünyada varlık kazandırdı. Karşılığında vaat edilen kurtuluş, biotransference ile Necrontyr bilinçlerinin necrodermis bedenlere aktarılmasıydı; bu dönüşüm ruhlarının büyük kısmının C'tan'a yem olması pahasına gerçekleşti. Nephrekh dynasty'sinin altın rengi necrodermis'i ve bedeni ışığa dönüştürebilmesi, maddenin farklı biçimlerinden biri olarak anlatılır.
+Necrodermis, Necron'ların bedenlerini oluşturan yaşayan metaldir; C'tan tarafından tasarlanan ve Necrontyr'ın biyolojik bedenini metal varlığa çeviren sürecin — Biotransference — temel maddesidir. Necrodermis hücreleri kendi kendini onarır, şekil değiştirir ve hasar gördüğünde orijinal formuna döner; bir Necron'un kafası koparsa bedeni yeniden birleşir, gövdesi parçalanırsa atomlar yeniden bağlanır. Madde hem zırh hem organizmadır — Necron bedeni ölmez, sadece yavaşlar veya dağılır; tamamen yok etmek için atom seviyesinde parçalamak gerekir. Necrodermis'in en korkunç özelliği adaptasyon: zamanla bir Necron'un bedeni savaş hasarlarını 'öğrenir' ve aynı tür saldırıya karşı direnç geliştirir. İmparatorluk necrodermis'i anlamaz — ne tamamen metal ne de tamamen canlı; C'tan'ın yaratıcı dehasının ve Necron trajedisinin maddesel simgesidir.
 
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Infinite and the Divine — Robert Rath*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551812203584295003>, <#1551649070286897172>, <#1551817348900589669>
+-# Kaynaklar: *Codex: Necrons

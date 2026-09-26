@@ -16,8 +16,4 @@ Bir C'tan Shard'ı, yıldız yiyen bir varlığın parçalanmış ve bağlanmı�
 
 ## Tarihçe
 
-C'tan Shard'lar, kadim Yıldız Tanrıları'nın (C'tan'ın) parçalara bölünmüş güç kalıntılarıdır — Necron'ların eski efendilerini isyanla parçalayıp her bir parçayı yaşayan silah olarak zincirledikleri varlıklar. Bir Shard bile gezegeni yok edebilecek güçtedir; 'tanrının kölesi' olarak Necron ordularının en dehşetli silahıdır — ama parçanın özgür kalması her şeyin sonu olur.
-
--# Kaynaklar: *Codex: Necrons — 10th Edition*; *Codex: Necrons — 5th Edition*
-
--# İlişkili kayıtlar: <#1551812203584295003>, <#1551759762193121282>, <#1551649070286897172>
+C'tan Shard, Necron'ların eski tanrılarının — C'tan'ların — parçalanmış kalıntılarıdır; milyonlarca yıl önce Necron'lar tarafından parçalanan ve şimdi Necron'ların silahları olarak kullanılan bu parçalar, evrenin en eski ve en tehlikeli enerjisinin somut halidir — onlar, bir tanrının parçalanmış kalıntısıdır. C'tan Shard'ların en büyük özelliği, onların gücüdür — onlar, bir tanrının parçasıdır ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir C'tan Shard, hem bir enerji hem de bir silahtır ve onların varlığı, evrenin en eski gücünün somut halidir. C'tan Shard'ların en ünlü özelliği, onların Necron'ların silahı olmasıdır — onlar, bir tanrının parçası ola

@@ -16,7 +16,7 @@ Yüksek enerjili parçacık akımı ateşleyen T'au silah ailesidir. Kaynaklarda
 
 ## Tarihçe
 
-Ion rifle, Pathfinder timlerinde özel silah olarak kullanılır. Daha büyük biçimleri Hammerhead'e monte edilebilen ion cannon ve Riptide battlesuit'lerinin ion accelerator'ıdır.
+Ion Rifle ve ion silah ailesi, T'au'nun en gelişmiş enerji silahlarıdır; iyonize parçacıkları hedefe fırlatan ve zırhı moleküler seviyede bozan, Imperial plazma silahlarına denk ama daha stabil olan T'au teknolojisinin ürünüdür. Ion Rifle'ın çalışması basit ama etkilidir — iyonize gaz, manyetik alanla hızlandırılır ve hedefe çarptığında moleküler bağları bozar; bir ion rifle atışı, bir Space Marine'in zırhını veya bir tankın plakasını deler. Ion silah ailesi, ion rifle'dan ion cannon'a kadar çeşitlidir — Crisis Battlesuit'lerin ion cannon'u, bir Imperial tankını tek atışta durdurabilir; ve ion teknolojisi, T'au'nun en güvenilir silah sistemidir. Ion Rifle, T'au'nun teknolojik üstünlüğünün simgesidir — onların silahları, İmparatorluğunkinden daha temiz, daha stabil ve daha ölümcüldür.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 

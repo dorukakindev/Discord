@@ -16,8 +16,4 @@ Eski adıyla Craftworld Eldar. Slaanesh'in ruhlarını yutmasından korkarak kat
 
 ## Tarihçe
 
-Fall'dan sonra Craftworld'ler galaksinin boşluklarında dağınık biçimde yol almaya başladı. Farseer'ların öngörüleri, küçük kayıplarla büyük felaketleri önleme adına diğer türleri, özellikle insanlığı, feda etmekten çekinmeyen bir strateji doğurdu. Iyanden'in Hive Fleet Kraken karşısında uğradığı yıkım ve Biel-Tan'ın parçalanması, M41 sonu ile Era Indomitus'un kilit kırılmalarıdır.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Path of the Warrior — Gav Thorpe*
-
--# İlişkili kayıtlar: <#1551812290439942255>, <#1551997822725922938>, <#1551814105046851615>, <#1551810744754905123>
+Asuryani, Aeldari ırkının en büyük ve en geleneksel kesimidir; Craftworld'lerde yaşayan ve Path sistemiyle — bir yol, bir disiplin — yaşayan Aeldari'lardır — onlar, Aeldari'nin en organize ve en geleneksel halidir. Asuryani'nin en büyük özelliği, onların Path sistemidir — onlar, bir yol seçer ve onu tamamen öğrenir; bir Asuryani, hem bir savaşçı hem de bir sanatçıdır ve onların yaşamı, bir disiplinin ve bir yolun sürekli arayışıdır. Asuryani'nin en ünlü özelliği, onların Aspect Warrior'larıdır — onlar, savaşın bir yolunu seçen ve onu tamamen öğrenen savaşçılardır; bir Aspect Warrior, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Asuryani, Aeldari ırkının en organize ve en geleneksel kesimidir — on

@@ -16,8 +16,6 @@ Iron-master, Brôkhyr loncalarının en usta temsilcisidir. Kin'in teknolojik mi
 
 ## Tarihçe
 
-Brôkhyr Iron-master, Leagues of Votann'ın Kin'lerinin demir-efendisi ve teknoloji ustasıdır — 'kin'in demirci-mühendis kastının başı. Oathband'in silah ve zırhını döven bu figürler, Kadim STC bilgisini yaşatan 'demir rahibi' olarak Votann ordularının teknik kalbidir; hem zanaatkar hem savaşçı.
+Brôkhyr Iron-master, Leagues of Votann'ın en önemli ve en yetenekli zanaatkârıdır; onların bir Kin — Leagues üyesi — olarak en büyük mühendis ve silah ustası olan Iron-master, Leagues'ın en değerli ve en saygın üyesidir — onlar, Leagues'ın en önemli ve en yetenekli üyesidir. Iron-master'ın en büyük özelliği, onların zanaatkârlığıdır — onlar, Leagues'ın en iyi silahlarını ve zırhlarını üreten en yetenekli mühendistir ve onların varlığı, Leagues'ın en büyük gücünün kanıtıdır; bir Iron-master, hem bir mühendis hem de bir savaşçıdır ve onların varlığı, Leagues'ın en büyük geleneğinin somut halidir. Iron-master'ın en ünlü özelliği, onların Leagues'ın silah üretimidir — onlar, Leagues'ın en gelişmiş teknolojisinin yaratıcısıdır ve onların varlığı, Leagues'ın en büyük gücünün kanıtıdır. Brôkhyr Iron-master, Leagues of Votann'ın en önemli ve en yetenekli zanaatkârıdır — onlar, bir zanaatkârın ve Leagues'ın en büyük geleneğinin somut halidir.
 
--# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votann — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759789988642876>, <#1551753449878724689>, <#1551813334993739777>
+-# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*; *Codex: Leagues of Votan

@@ -15,7 +15,7 @@ Forgefiend uzaktan öldürürken Maulerfiend av peşinde koşar. Düşman zırh�
 
 ## Tarihçe
 
-Maulerfiend'ler Heretic Astartes'in, özellikle Iron Warriors'ın kuşatma harekâtlarıyla ilişkilendirilir. Tank avcısı ve sur yıkıcısı olarak savaş gruplarının önünde koşarlar; kontrol altında tutulmaları ise Warpsmith'lerin bağlama ritüellerine bağlıdır.
+Maulerfiend, Chaos'un en korkulan ve en vahşi Daemon Engine'idir; Chaos'un gücüyle canlanan bir makine olan ve düşmanı yakın mesafede parçalayan bir varlıktır — onlar, Chaos'un en vahşi ve en ölümcül savaş makinesidir. Maulerfiend'in en büyük özelliği, onun vahşetidir — onlar, sadece öldürmek değil, parçalamaktır; bir Maulerfiend, bir düşman tankını bile parçalayabilir ve onların varlığı, bir Chaos saldırısının en korkulan silahıdır. Maulerfiend'in en ünlü özelliği, onun demonik doğasıdır — onlar, hem bir makine hem de bir demon'dur ve onların varlığı, Chaos'un gücünün somut halidir; bir Maulerfiend, bir Imperial savunmasını bile parçalayabilir. Maulerfiend, Chaos'un en vahşi ve en ölümcül Daemon Engine'idir — onlar, Chaos'un vahşetinin somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -23,4 +23,4 @@ Metali eritip kesen magma cutter'lar, avını yakalayan kırbaç dokunaçlar ve 
 
 -# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
 
--# İlişkili kayıtlar: <#1551812225570836561>, <#1551650329156788287>, <#1552482861872062494>
+-# İliş

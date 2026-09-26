@@ -16,8 +16,6 @@ Mork, ikiz tanrıların kurnazlığı temsil eden yüzü olarak anılır; yaygı
 
 ## Tarihçe
 
-Morkanaut gibi savaş makinelerinin adı, Ork'ların Mork'a duyduğu saygının maddi izidir. *Gorkamorka* anlatısında Angelis dünyasında inşa edilen dev idol-makinenin Gork'u mu Mork'u mu temsil ettiği tartışması Ork'ları Gorker'lar ve Morker'lar olarak ikiye bölmüştür; bu kavga, iki tanrı arasındaki ayrımın Ork'lar için ne denli canlı olduğunu gösterir.
+Mork, Ork'ların en ünlü ve en gizli tanrısıdır; Ork'ların iki tanrısından biri olan ve 'zeki' Ork'ların tanrısı olan Mork, Ork'ların en gizli ve en önemli gücüdür — onlar, Ork'ların en ünlü ve en gizli tanrısıdır. Mork'un en büyük özelliği, onun zekasıdır — onlar, 'zeki' Ork'ların tanrısıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Mork takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, sadece öldürmek ve fethetmek içindir. Mork'un en ünlü özelliği, onun Gork'la birlikte olmasıdır — onlar, Ork'ların iki tanrısından biridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Mork, Ork'ların en ünlü ve en gizli tanrısıdır — onlar, bir zekanın ve Ork'ların en büyük gücünün somut halidir.
 
--# Kaynaklar: *Codex: Orks — 10th Edition*; *Gorkamorka*; *'Ere We Go*
-
--# İlişkili kayıtlar: <#1551814495138091013>, <#1551759766966116383>, <#1551817830096310363>
+-# Kaynaklar: *Co

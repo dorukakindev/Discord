@@ -10,6 +10,6 @@ Genestealer Kültü (Genestealer Cult), Tyranid tehdidinin en sinsi ve en aldat�
 
 ## Tarihçe
 
-Genestealer Patriarch'ın toplumsal yuvası; 'Four-Armed Emperor' maskesiyle inananları enfekte eden, Hive World'ün kanalizasyonunda büyüyen gizli kilise. Bağlılık kan bağıdır — aile, din ve istilanın tek vücut hali.
+Genestealer Kültü, bir gezegene sızan Tyranid bioformunun — genestealer'ın — yerel nüfusu enfekte ederek kurduğu gizli topluluktur; kültün amacı gezegeni içeriden yozlaştırmak, yönetimi ele geçirmek ve sonunda Hive Fleet'in gelişi için hazır hale getirmektir. Bir genestealer ilk olarak yerel bir yaratığa bulaşır — onu döller ve döllenen varlık, kendi türünün genetik malzemesini taşıyan ama genestealer'ın iradesine bağlı bir hibrit doğurur; dört nesil sonra ilk saf genestealer doğar ve kült tam güce ulaşır. Kültün lideri Patriarch'tır — ilk enfekte varlık; altında Magus (psişik lider), Primus (askeri komutan) ve binlerce hibrit ve sadık köle bulunur; kült gizli çalışır — üyeleri normal hayat yaşar ama emir geldiğinde isyan eder. Genestealer Kültü, Tyranid'in en sinsi silahıdır — bir gezegen düşmeden önce çoktan fethedilmiştir; ve kültün işareti, Patriarch'ın dörde bölünmüş ruhu sembolüdür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

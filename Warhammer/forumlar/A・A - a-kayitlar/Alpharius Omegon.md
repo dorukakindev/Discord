@@ -64,4 +64,8 @@ Alpha Legion, *Realm of Chaos* dönemindeki Chaos kaynaklarında yer aldı; Eskr
 **Kaynaklar:** *Legion — Dan Abnett*; *The Serpent Beneath — Rob Sanders*; *Deliverance Lost — Gav Thorpe*; *Scars — Chris Wraight*; *Praetorian of Dorn — John French*; *Alpharius: Head of the Hydra — Mike Brooks*; *Codex: Chaos Space Marines*
 **Çapraz:** <#1551636477090467942>, <#1551814951365115956>, rogal-dorn, <#1551808704901423186>, <#1551637736593821790>, <#1551638913683034174>, <#1551818097504157699>, siege-of-terra
 
+## Tarihçe
+
+Alpharius Omegon, Alpha Legion'un en gizli ve en tehlikeli primarch'ıdır; 'Ben Alpharius'um' diyen ve herkesin Alpharius olabileceğini savunan en gizli primarch olan Omegon, İmparatorluğun en gizli ve en teh
+
 ​

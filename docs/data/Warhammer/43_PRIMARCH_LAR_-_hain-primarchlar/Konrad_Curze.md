@@ -12,4 +12,7 @@ Nostramo'nun suç dünyasını yalnızca akıl almaz bir terörle dizginleyebile
 
 ## Heresy ve Ölüm
 Heresy'de Night Lords resmen hain saflarındaydı, ama Curze'un sadakati hiçbir zaman ideolojik olmadı: o, terörü kendi doğası olduğu için kullandı. Thramas Haçlı Seferi'nde Dark Angels onu köşeye sıkıştırdı; Lion'la düello etti, hayatta kaldı, kaçtı ve Macragge'e sızıp Roboute Guilliman'ı terörize etti. Savaş sonrası bile düşmanlığı sürdürdü; Tsagualsa'daki karargâhında yalnız başına çürüdü, kehanetleri giderek karanlıklaştı. Sonunda Callidus suikastçısı M'Shen geldiğinde direnmedi — ölümünün bir tür kanıt olduğunu söyledi: "Ölümünüz benim haklılığımdır." Son sözleri: görüntüsü kaydedilmiş bir gülümseme.
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Konrad Curze, Night Lords'un en ünlü ve en trajik primarch'ıdır; Nostramo'nun — Night Lords'un ev gezegeni — en korkulan savaşçısı olan ve Night Lords'u kuran Curze, İmparatorluğun en trajik ve en korkulan primarch'ıdır — onlar, Night Lords'un en ünlü ve en trajik primarch'ıdır. Konrad Curze'nin en

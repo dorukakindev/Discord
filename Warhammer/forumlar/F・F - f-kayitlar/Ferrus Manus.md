@@ -11,6 +11,10 @@ Ferrus'un kapsülü, fırtınaların, volkanik çalkantıların ve yırtıcı ca
 
 Adının kaynağı olan efsane, **Asirnoth** adı verilen gümüş bir wyrm'le ilgilidir. Rivayete göre hiçbir silahın öldüremediği bu yaratığı Ferrus, erimiş kayanın içine sürükleyerek yok etti; canavarın sıvı gümüşü andıran derisi ise Primarch'ın ellerini ve önkollarını kalıcı olarak kapladı. Bu canlı metal eller, Ferrus'a çekiç ya da ateş olmadan metale biçim verebilme yeteneği kazandırdı. Asirnoth'un gerçekte ne olduğu tartışmalıdır: bazı anlatımlarda evren-içi alimlerin onu kadim bir xenos yapısıyla ilişkilendirdiği görülür, ancak yaratığın ve metalin kökeni yayımlanmış kanonda kesin biçimde açıklanmaz.
 
+## Tarihçe
+
+Ferrus Manus, Iron Hands'ın en ünlü ve en trajik primarch'ıdır; Medusa'nın — Iron Hands'ın ev gezegeni — en zorlu savaşçısı olan ve Iron Hands'i kuran Manus, İmparatorluğun en trajik ve en
+
 ## Emperor, Legion ve Kişilik
 Emperor Medusa'ya ulaştığında Ferrus çoktan yerleşik bir savaş beyiydi. Karşılaşmanın ayrıntıları kaynaklarda efsane düzeyinde ve farklı biçimlerde aktarılır; ortak nokta, Ferrus'un biat ederek X Legion'ın başına geçmesi ve Legion'ın onun gümüş ellerinden aldığı adla **Iron Hands** olarak anılmaya başlamasıdır. Medusa Legion'ın merkezi oldu. Terra'da yetişmiş eski savaşçılarla Medusalı yeni kuşak arasındaki kaynaşma sancılıydı; Ferrus Medusa'nın sert kültürünü ve klan düzenini Legion'a acımasız bir kararlılıkla dayattı.
 

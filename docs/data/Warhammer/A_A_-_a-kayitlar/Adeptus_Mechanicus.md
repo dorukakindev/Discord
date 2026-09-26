@@ -24,6 +24,10 @@ Kurumun en yüce görevi **Quest for Knowledge**'dır: kaybolan bilgiyi, özelli
 
 Emperor'ın Omnissiah olduğu, Mars'ın resmî tutumudur; ancak kaynaklar Mechanicus içinde farklı görüşlerin, Omnissiah ile Machine God'ın ilişkisine dair gizli tartışmaların ve Terra'nın Imperial Cult'una mesafeli duran akımların varlığını ima eder. Tech-Priest'ler bedenlerini organik zayıflık gördükleri için mekanik parçalarla değiştirir; binharic cant adı verilen makine dilinde konuşur ve saf aklı ete tercih eder. "Et zayıftır" düşüncesi, bu dünya görüşünün özüdür.
 
+## Tarihçe
+
+Adeptus Mechanicus, İmparatorluğun en eski ve en gizli kurumudur; teknolojiyi kutsal kabul eden ve Machine God'a tapınan bir dini-teknolojik organizasyondur — onlar, İmparatorluğun en güçlü ve en gizli gücüdür. Adeptus Mechanicus'un en büyük özelliği, onların teknolojik tekeli vardır — onlar, İmparatorluğun tüm teknolojisini kontrol eder ve onların bilgisi, İmparatorluğun en değerli ve en gizli sırrıdır; bir Tech-Priest, hem bir rahip hem de bir mühendistir ve onl
+
 ## Yapı ve Organizasyon
 Mechanicus'un tepesinde Mars'ın hükümdarı **Fabricator General** bulunur. Altında her forge world'ün kendi Fabricator'ı ya da hükümdar Magos'u, onların altında ise uzmanlığa göre bölünmüş sayısız rahip yer alır: savaş işlerini yöneten Magos Dominus'lar, biyoloji ve gen bilimiyle ilgilenen Genetor'lar, veri ve kayıtları yöneten Lexmechanic ve Logis'ler, bilinmeyeni arayan Explorator'lar. Enginseer'ler Astra Militarum alaylarına, Techmarine'ler ise Mars'ta eğitilerek kendi Chapter'larına bağlanır.
 

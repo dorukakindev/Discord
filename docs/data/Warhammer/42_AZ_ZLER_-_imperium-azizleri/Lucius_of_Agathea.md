@@ -16,6 +16,4 @@ Aziz olarak Lucius, 'silah taşıyan aziz' kategorisinin en eski örneklerindend
 
 ## Tarihçe
 
-Lucius of Agathea, İmparatorluk'un erken dönem azizlerinden biridir; Agathea dünyasının koruyucusu ve Vaunted Saint kültünün merkezidir. Yaşamı hakkındaki kayıtlar efsaneyle iç içe geçmiştir; adı özellikle piyade alayları ve muhteris kurtarıcı figürleriyle anılır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Lucius of Agathea, Sisters of Battle'ın en ünlü ve en kutsal azizidir; Agathea'nın koruyucusu olarak bilinen ve İmparatorluğun en kutsal savaşlarını yapan Lucius, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizidir. Lucius of Agathea'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal savaşçıdır ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Lucius, hem

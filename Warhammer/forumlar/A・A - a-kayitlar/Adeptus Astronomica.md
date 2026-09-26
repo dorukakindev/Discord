@@ -10,6 +10,10 @@ Kurumun başında **Master of the Astronomican** bulunur ve bu makam geleneksel 
 
 Adeptus Astronomica, Terra'daki Imperial Palace'ın içinde, manastır düzenini andıran katı bir yapı olarak betimlenir. Kurumun merkezinde, işaretin odaklandığı ve psykerlerin toplandığı büyük bir oda bulunur; bunun çevresinde eğitmenler, rahip benzeri görevliler ve psyker olmayan hizmetkârlardan oluşan geniş bir kadro çalışır. Kaynaklar bu yapının ayrıntılarını sınırlı ölçüde verir ve iç hiyerarşisini tek bir şemaya bağlamaz. Kurumun kökleri Great Crusade dönemine, Emperor'ın insanlığı yıldızlara yeniden yaymak için kurduğu altyapıya uzanır.
 
+## Tarihçe
+
+Adeptus Astronomica, İmparatorluğun Astronomicon'u — Terra'dan yayılan psişik feneri — işleten kurumudur; onların görevi, İmparator'un Altın Taht'ı üzerinden yayılan psişik sinyali güçlendirmek ve tüm galaksideki Navigator'ların yol bulmasını sağlamaktır. Astronomicon'un işleyişi basit ama hayatidir — binlerce psyker,
+
 ## Koro ve Bedeli
 Astronomican'ın kaynağı Emperor'ın iradesidir; Adeptus Astronomica'nın işi bu iradeyi odaklamak ve yükseltmektir. Bu iş bir psyker korosu tarafından yürütülür. Koroya katılacak psykerlerin büyük kısmı Black Ships'in topladığı ve Adeptus Astra Telepathica'nın sınavından geçen insanlardır. Seçilenler kısa bir hazırlık döneminden sonra soul-binding ile Emperor'a bağlanır ve işaretin odasına alınır.
 

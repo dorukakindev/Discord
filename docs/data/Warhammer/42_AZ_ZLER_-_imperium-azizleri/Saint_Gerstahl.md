@@ -16,6 +16,4 @@ Ama bu kehanet, İmparatorluğun ezeli düşmanının dikkatinden kaçmadı.
 
 ## Tarihçe
 
-Saint Gerstahl, İmparatorluk'un kadim azizlerindendir; adı özellikle 'Saint Gerstahl Tank' adlı Space Marine/Guard zırhlısı ve çeşitli shrine dünyalarıyla özdeşleşmiştir. Yaşam kayıtları belirsiz olsa da kültü Segmentum Obscurus'ta yaygındır; onun anısına adanan savaş makineleri ve ayinler hâlâ kullanımdadır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Gerstahl, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Gerstahl, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Gerstahl'ın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Gerstahl, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Gerstahl'ın en ünlü özelliği, onun azize unvanıdır — onlar, İmparatorluğun en kutsal ve en önemli azizesidir ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Saint Gerstahl, Sisters

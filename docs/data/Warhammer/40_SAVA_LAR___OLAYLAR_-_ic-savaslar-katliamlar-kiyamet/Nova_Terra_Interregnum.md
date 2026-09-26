@@ -12,6 +12,6 @@ Kriz, 104.M35'te Nova Terra'nın yönetici organı olan Ur-Konsey'in, Terra'nın
 
 ## Tarihçe
 
-M35'te İmparatorluk'un ikiye bölünmesi; Nova Terra'nın kendi İmparatorluğunu ilan etmesi. Palatine Heresy ile iç içe — 'bölünmez' iddiasının çatlağı.
+Nova Terra Interregnum, İmparatorluk'un en büyük yönetim krizi olarak tarihe geçti. Bu dönem, İmparatorluk'un iki rakip yönetim arasında bölünmesini içeriyordu; Nova Terra Interregnum sırasında İmparatorluk, kendi içindeki en büyük bölünmeyi yaşadı. Dönem, İmparatorluk'un iki yönetiminin birleşmesiyle sonuçlandı; ancak verilen zayiat ve yaşanan çatışma, bu dönemin İmparatorluk tarihindeki en trajik sayfalardan biri olmasına neden oldu. Nova Terra Interregnum, İmparatorluk'un en büyük trajedisinin kendi içindeki bölünmeler olduğunu gösteren en çarpıcı örnektir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

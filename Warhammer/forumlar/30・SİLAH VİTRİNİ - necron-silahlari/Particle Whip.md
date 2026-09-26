@@ -5,14 +5,23 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/14/Monolith1.jpg/revisio
 
 -# *Parçacık Kamçısı*
 
-Monolith'in ana silahı; yoğunlaştırılmış parçacık enerjisini tek devasa patlamada boşaltır. İsabet noktasında ağır piyade ve araçlar aynı anda buharlaşır.
+Monolith'in güç matriks kristalinden boşalan devasa silah; minicik karşı-madde parçacıklarının akışını hedefe gönderir ve maddeyle temas eder etmez infilak ettirir. Tek kulak tırmalayan deşarjı, tankları közlenmiş enkaza, piyadeyi moleküler buhara çevirir.
 
-
-## Teknik ve Kullanım
-Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ışını hedefi katman katman 'buharlaştırır', staff of light ve tachyon arrow gibi aletlerse Necron'un 'fiziği emreden' kadim teknolojisinin örnekleridir. Necron silahları için zırh, kalkan ve beden aynı şeydir — hepsi atomlara döner.
+- **Kategori:** Ağır parçacık silahı / karşı-madde yayıcı — <#1551629117542113372>
+- **Fraksiyon:** Necrons
+- **Dönem:** Kadim dönemden Era Indomitus'a
+- **Köken:** Necron parçacık silah ailesinin en büyük kara biçimi; ilk yapımı kanonda açıklanmamıştır.
+- **Teknik / Biyolojik Özellikler:** Karşı-maddeyi silahın içinde patlamaktan alıkoyan çevreleme alanı için sabit enerji yeterlidir; bu yüzden son derece güvenilirdir. Deşarj isabet yarıçapındaki her şeye ağır hasar verir — fakat patlamaya yakalanan Necron birlikleri bu enerjilere tümüyle bağışıktır.
+- **Bilinen Kullanıcılar / Operatörler:** Karada yalnızca Monolith taşır — kamçının muazzam enerji ihtiyacı aracın tüm güç matriksini gerektirir. Uzayda ise Necron savaş gemilerinin yaygın silahıdır; devasa gemi-boyu varyantları boşluk muharebelerinde düşman gemilerine karşı kullanılır.
+- **Önemli Olaylar:** Kaynaklarda tek bir olayla özdeşleşmez.
+- **Kanon Notu:** Diğer parçacık silahları namlu yapılarıyla tanınırken Particle Whip yalnızca Monolith'in tepesindeki kocaman, parlayan güç matriksi kristali biçiminde gelir — çok daha durağan bir tasarım.
 
 ## Tarihçe
 
-Monolith'in güç matriksinden beslenen anti-madde ışını; temas eden her şeyle infilak eden minicik parçacık akışı. Basit güvenlikle çalışan mutlak ölüm — Necron'un 'güvenilir dehşet' ilkesi.
+Ateşlenmek üzereyken Monolith, yabancı enerjilerini kristale kanalize eder ve karşı-madde yıldırımlarının harap edici yaylarını salar. Basit bir gereklilikle çalışan mutlak ölümdür bu: alan yeter ki beslensin, gerisi fiziğin kendisine bırakılır. Necron'un "güvenilir dehşet" ilkesinin en açık örneği — ve yaşayan madde ile canlı metal arasındaki uçurumun kanıtıdır: aynı patlama düşmanı buharlaştırırken Ne
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+cron piyadesine hiç dokunmaz.
+
+-# Kaynaklar: *Codex: Necrons — 3rd Edition*; Warhammer 40,000 — Fandom ("Particle Whip", "Monolith"); Lexicanum — "Particle Whip", "Monolith"
+
+-# İlişkili kayıtlar: <#1551633875858624733>, <#1551633916090257482>, <#1551817244844232727>

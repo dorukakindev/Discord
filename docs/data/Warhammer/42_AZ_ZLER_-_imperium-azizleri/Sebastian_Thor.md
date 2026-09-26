@@ -13,6 +13,4 @@ Thor'un mirası devasadır: Ecclesiarchy'nin reformu, Adepta Sororitas'ın kurul
 
 ## Tarihçe
 
-Age of Apostasy'yi bitiren reformcu Ecclesiarch; Vandire'i devirdi, Decree Passive ile Sisters'ı doğurdu. İmparatorluk Kilisesi'nin kurtarıcısı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Sebastian Thor, İmparatorluğun en ünlü ve en önemli Ecclesiarch'ıdır; Goge Vandire'in düşüşünden sonra Ecclesiarchy'yi yeniden kuran ve İmparatorluğun en kutsal organizasyonunu yöneten Thor, İmparatorluğun en önemli ve en kutsal figürüdür — onlar, İmparatorluğun en ünlü ve en önemli Ecclesiarch'ıdır. Sebastian Thor'un en büyük özelliği, onun reformudur — onlar, Ecclesiarchy'yi yeniden kuran ve onu reforme eden en önemli figür

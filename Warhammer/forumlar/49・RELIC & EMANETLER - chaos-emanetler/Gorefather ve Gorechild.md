@@ -12,6 +12,6 @@ Baltaların yapımı bile bir destandır; dönen, parçalayan dişleri, Luther M
 
 ## Tarihçe
 
-Gorefather ve Gorechild, Angron'un efsanevi ikiz zincir-kılıçlarıdır; World Eaters'ın simgeleşmiş kanlı silahları. Babası onları arena dövüşlerinde kullandı — 'Gorefather' keser, 'Gorechild' parçalar; Angron'un vahşetinin somut simgeleri.
+Gorefather ve Gorechild, Chaos'un en ünlü ve en vahşi relic çiftidir; Angron'un — World Eaters'ın primarch'ı — kullandığı ve onun en büyük katliamlarının simgesi olan iki baltadır — onlar, Chaos'un en ünlü ve en vahşi silahıdır. Gorefather ve Gorechild'ın en büyük özelliği, onların vahşetidir — onlar, bir primarch'ın en vahşi silahıdır ve onların varlığı, Khorne'un en büyük gücünün kanıtıdır; bir Gorefather ve Gorechild kullanıcısı, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece kan ve kafatası içindir. Gorefather ve Gorechild'ın en ünlü özelliği, onların Angron'un silahıdır — onlar, bir primarch'ın en vahşi savaşlarının simgesidir ve onların varlığı, Chaos'un en vahşi gücünün kanıtıdır. Gorefather ve Gorechild, Chaos'un en ünlü ve en vahşi relic çiftidir — onlar, bir primarch'ın vahşetinin ve Khorne'un gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

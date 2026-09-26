@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7b/MaySymbol.jpg/revisio
 
 ## Tarihçe
 
-Kutlakh 'Dünya Katili', Necron Maynarkh Hanedanı'nın efsanevi nemesor'udur — 'uyuyan ırkın' en kanlı generali olarak bilinir. Uykudan hasarlı çıkmış olmasına rağmen savaş yeteneği kusursuzdur; Ork imparatorluklarına ve İmparatorluk kolonilerine karşı sayısız yıkım seferi yürütmüştür. 'Canlı dünyaları katleden' figür olarak Necron'un en korkulan komutanlarından biridir.
+Kutlakh the World Killer, Necron'ların en ünlü ve en vahşi lideridir; 'World Killer' olarak bilinen ve Necron'ların en vahşi savaşlarını yöneten Kutlakh, Necron'ların en vahşi ve en tehlikeli varlığıdır — onlar, Necron'ların en ünlü ve en vahşi lideridir. Kutlakh'ın en büyük özelliği, onun vahşetidir — onlar, 'World Killer' olarak bilinen ve Necron'ların en vahşi savaşlarını yöneten en tehlikeli liderdir ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır; bir Kutlakh, hem bir makine hem de bir katildir ve onların savaşı, sadece öldürmek ve yok etmek içindir. Kutlakh'ın en ünlü özelliği, onun 'World Killer' lakabıdır — onlar, Necron'ların en vahşi ve en ölümlü lideridir ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. Kutlakh the World Killer, Necron'ların en ünlü ve en vahşi lideridir — onlar, bir vahşetin ve Necron'ların en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Imperial Armour XII*
 -# İlişkili kayıtlar: <#1552849999359123541>

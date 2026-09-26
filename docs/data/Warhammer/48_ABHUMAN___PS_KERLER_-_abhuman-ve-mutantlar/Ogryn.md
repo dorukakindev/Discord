@@ -10,6 +10,6 @@ Ogryn (Homo sapiens gigantus), İmparatorluk'un en tanınan ve en sevilen abhuma
 
 ## Tarihçe
 
-Ogryn, İmparatorluk'un en yaygın abhuman ırkıdır; devasa, iri yapılı ve basit zekâlı bu mutantlar Astra Militarum'un yakın dövüş kalkanları olarak hizmet eder. Sadık ve sarsılmazdırlar — tek korkuları karanlıktır; Ripper Gun ile donanmış Ogryn birlikleri düşman hatlarını kırar.
+Ogryn, İmparatorluğun en ünlü ve en güçlü abhuman ırkıdır; devasa ve güçlü olan ve İmparatorluğun en güçlü abhuman ırkı olan Ogryn, İmparatorluğun en güçlü ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en güçlü abhuman ırkıdır. Ogryn'in en büyük özelliği, onun gücüdür — onlar, İmparatorluğun en güçlü abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Ogryn, hem bir abhuman hem de bir savaşçıdır ve onların savaşı, sadece güç ve vahşet içindir. Ogryn'in en ünlü özelliği, onun devasa boyutudur — onlar, İmparatorluğun en büyük ve en güçlü abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Ogryn, İmparatorluğun en ünlü ve en güçlü abhuman ırkıdır — onlar, bir gücün ve İmparatorluğun en büyük gücünün somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

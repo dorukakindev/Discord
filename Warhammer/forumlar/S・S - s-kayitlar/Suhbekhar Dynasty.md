@@ -12,7 +12,7 @@
 
 ## Tarihçe
 
-Suhbekhar Dynasty, Jericho Reach bölgesindeki dünyaları yöneten güçlü bir Necron hanedanıdır; gizemli 'Dark Pattern' fenomeniyle bağlantılı olduğu düşünülür.
+Suhbekhar Dynasty, Necron ırkının en gizemli ve en eski hanedanlarından biridir; Ghoul Stars bölgesindeki mezar dünyalarından uyanmış ve İmparatorluğun en az bilinen Necron tehditlerinden birini oluşturmaktadır — onların sessiz uyanışı, İmparatorluğun en gizli dehşetidir. Suhbekhar'ın en büyük özelliği, onların gizliliğidir — onlar, diğer hanedanların aksine sessiz ve sabırlıdır; onların orduları, bir gezegenin yüzeyinde görünmez ve onların saldırısı, ancak tamamlanınca fark edilir. Suhbekhar Dynasty'nin en ünlü eylemi, Ghoul Stars'taki yavaş ve sessiz genişlemesidir — onlar, İmparatorluğun radarında bile görünmeden büyür ve onların gücü, bilinmeyen tehdidin en büyük örneğidir. Suhbekhar, İmparatorluğun en gizemli ve en tehlikeli Necron hanedanıdır — onlar, sessizlikte yükselen ve fark edilmeden yok eden güçtür.
 
 -# Kaynaklar: *Fandom wiki*
 

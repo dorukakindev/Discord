@@ -15,12 +15,8 @@ Houses, Warp'ta gemi yönlendirebilen mutant soylardır ve Navis Nobilite çatı
 
 ## Tarihçe
 
-Emperor'ın yükselişiyle Houses, Imperium'a katılmanın karşılığında geniş ayrıcalıklar ve Warp yolculuğu üzerinde fiilî bir tekel elde etti. Navigator geni saf tutulmak zorunda olduğundan Houses evliliklerini sıkı biçimde denetler. Paternova'nın seçimi ve Houses arasındaki güç dengesi entrika, suikast ve evlilik ittifaklarıyla örülüdür; bu çekişmeler çoğu zaman Terra'nın öteki kurumlarını da içine çeker.
+Navigator Houses, Navis Nobilite'in yapı taşlarıdır; her biri kendi Navigator kan hattını, servetini ve siyasi gücünü taşıyan soylu ailelerdir ve İmparatorluğun Warp seyahatinin tekelini ellerinde tutarlar. Her Navigator House, kendi hanedan yapısına sahiptir — başında bir Novator (hanedan lideri), altında kıdemli Navigator'lar ve en altta genç ve deneyimsiz olanlar; hanedanlar arasında evlilik, ittifak ve savaş vardır çünkü Navigator geni, hanedanın en değerli hazinesidir. Paternova, Navis Nobilite'in başıdır — tüm hanedanların en güçlüsü ve İmparatorluğun en etkili figürlerinden biri; Paternova'nın emri, bir hanedanın yükselişini veya düşüşünü belirler ve onun ölümü, hanedanlar arasında kanlı bir güç mücadelesi başlatır. Navigator Houses, İmparatorluğun en kapalı ve en güçlü topluluğudur — onlar olmadan İmparatorluk felç olur ama onlar da İmparatorluk içinde kendi kurallarına göre yaşar.
 
 ## Kanon Notu
 
-Paternova'nın ya da temsilcisinin High Lords arasında yer alıp almadığı kaynaklarda aynı biçimde verilmez. Navigator soylarının biyolojisi için `48・ABHUMAN & PSİKERLER` forumuna, kurum için <#1551651548713455758> kanalına bakınız.
-
--# Kaynaklar: *Warhammer 40,000 Core Book — 10th Edition*; *Codex: Imperial Agents — 10th Edition*
-
--# İlişkili kayıtlar: <#1551651548713455758>, <#1551817319288676373>, <#1551652850319368254>, <#1551809168032268310>
+Paternova'nın ya da temsilcisinin High Lord

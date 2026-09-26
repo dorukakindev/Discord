@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Astartes_Sniper_Rifle
 
 ## Tarihçe
 
-Sniper Rifle, İmparatorluk ve diğer fraksiyonlarda kullanılan uzun menzilli keskin nişancı silahıdır; 'tek atış, tek öldürme' ilkesiyle savaş alanının en sabırlı katili.
+Sniper Rifle (keskin nişancı tüfeği), uzun menzilli hassas atış silahıdır; Space Marine scout'larından Astra Militarum nişancılarına kadar her kademede kullanılır. Imperial modeli genellikle Long-Las veya needle sniper varyantlarıdır: Long-Las, las-teknolojisini uzun menzile optimize eder ve gürültüsüz, görünmez bir ışın atar; needle sniper ise zehirli veya patlayıcı iğneler fırlatan egzotik bir silahtır. Scout Marine'ler Astartes hedefi öldürebilecek kadar güçlü tüfekler taşır ve baş düşman komutanlarını avlamada uzmanlaşmışlardır. Ratling nişancıları (abhuman keskin nişancılar) da sniper rifle'ı mutfak sanatları kadar iyi kullanırlar. Silahın en ünlü kullanıcıları Vindicare Assassin'lerdir — Exitus Rifle'ları ile kilometrelerce öteden kalkan-jeneratör düğmesine kadar nokta atışı yapabilirler.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -12,7 +12,7 @@
 
 ## Tarihçe
 
-Menagerie, Calixis Sektörü'nde Tzeentch'e bağlı bir Chaos kültüdür; kendini gezici karnaval veya kitle eğlencesi olarak sunar, sonra izleyicisini Warp'ın gücüne maruz bırakarak kitlesel delilik ve mutasyon salgınları açar. Sektörde Ordo Malleus'un karşılaştığı tehditler arasında en tehlikeli ve tuhaf olanlardan biri — 'eğlencenin içindeki cehennem' olarak Değişim'in sinsi yüzüdür.
+Menagerie, Chaos'un en gizli ve en tehlikeli yaratık koleksiyonudur; Vashtorr the Arkifane'ın — Forge of Souls'un lideri — en gizli yaratıklarının topluluğu olan Menagerie, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli yaratık koleksiyonudur. Menagerie'nin en büyük özelliği, onların çeşitliliğidir — onlar, Forge of Souls'un en gizli yaratıklarının topluluğudur ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Menagerie, hem bir yaratık topluluğu hem de bir sırdır ve onların varlığı, Chaos'un en büyük tehdidinin somut halidir. Menagerie'nin en ünlü özelliği, onların Vashtorr'un yaratıklarıdır — onlar, Forge of Souls'un en gizli ve en tehlikeli yaratıklarıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Menagerie, Chaos'un en gizli ve en tehlikeli yaratık koleksiyonudur — onlar, bir sırrın ve Chaos'un en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

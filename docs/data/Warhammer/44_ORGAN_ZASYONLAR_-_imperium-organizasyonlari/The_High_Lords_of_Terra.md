@@ -12,6 +12,4 @@ Teorik olarak, Yüksek Lordlar İmparator'un kutsal iradesini hayata geçiren bi
 
 ## Tarihçe
 
-High Lords of Terra, İmparator'un adına İmparatorluk'u yöneten on iki kişilik konseydir; Adeptus Terra'nın en üst otoritesi olarak Ecclesiarchy, Administratum, Mechanicus, Inquisition ve diğer kurumların başlarından oluşur. Golden Throne'a bağlı İmparator'un 'sesi' olarak milyonlarca dünyanın kaderini belirlerler — İmparatorluk'un gerçek hükümeti.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+High Lords of Terra (Senatorum Imperialis), İmparatorluğun en yüksek yönetim organıdır; İmparator'un yerine İmparatorluğu yöneten dokuz kişilik konseydir ve onların kararı, trilyonlarca insanın kaderini belirler. High Lords'un üyeleri, İmparatorluğun en güçlü kurumlarının başlarıdır — Adeptus Terra'nın başı, Ecclesiarchy'nin başı, Adeptus Mechanicus'un başı, Imperial Navy'nin başı, Inquisition'ın temsilcisi ve diğerleri; onların toplantıları, İmparatorluğun en gizli ve en önemli siyasi olayıdır. High Lords'un gücü mutlaktır — onlar bir gezegeni yok edebilir, bir savaşı başlatabilir veya bir Chapter'ı kapatırlar; ama aynı zamanda onların gücü, İmparatorluğun en büyük zaafıdır çünkü High Lords arasındaki güç mücadelesi, İmparatorluğun birleşik hareket etmesini engeller. High Lords of Terra, İmparatorluğun en büyük çelişkisidir — onlar hem İmparatorluğun kurtarıcısı hem de en bü

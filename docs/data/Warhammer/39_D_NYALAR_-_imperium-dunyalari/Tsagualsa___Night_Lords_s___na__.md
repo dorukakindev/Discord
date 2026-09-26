@@ -16,7 +16,7 @@ Konrad Curze'un öldüğü dünya. Night Lords için Tsagualsa, Primarch'ların�
 
 ## Tarihçe
 
-Imperium, Officio Assassinorum'un Callidus Temple'ından suikastçı M'Shen'i Curze'u öldürmeye gönderdi. Kaynakların ortak anlatısına göre Curze bu ziyareti önceden görmüş, kaçmak yerine suikastçıyı bekleyerek ölümünü kabullenmiştir. Primarch'ın ölümünden sonra Legion tek bir otoriteye bir daha boyun eğmedi ve warband'lere dağıldı. Binyıllar sonra Aaron Dembski-Bowden'ın *Void Stalker*'ı Talos'un hikâyesini yeniden Tsagualsa'da, bir Callidus suikastçısının gölgesinde kapatır.
+Tsagualsa, Night Lords'un en gizli ve en tehlikeli sığınağıdır; onun karanlık ve gizli yapısıyla — Night Lords'un en gizli ve en tehlikeli evidir — onlar, İmparatorluğun en karanlık ve en tehlikeli dünyasıdır. Tsagualsa'nın en büyük özelliği, onun gizliliğidir — onlar, Night Lords'un en gizli sığınağıdır ve onların varlığı, Night Lords'un en gizli gücünün merkezidir; bir Tsagualsa, bir gezegenin en gizli halidir ve onların varlığı, bir Legion'un en karanlık gücünün kanıtıdır. Tsagualsa'nın en ünlü özelliği, onun Curze'un evidir — onlar, Night Lords'un primarch'ının evidir ve onların varlığı, bir primarch'ın düşüşünün ve bir Legion'un yozlaşmasının kanıtıdır. Tsagualsa, Night Lords'un en gizli ve en tehlikeli sığınağıdır — onlar, karanlığın ve terörün somut halidir.
 
 -# Kaynaklar: *Void Stalker — Aaron Dembski-Bowden*; *Konrad Curze: The Night Haunter — Guy Haley*; *Codex: Chaos Space Marines — 10th Edition*
 

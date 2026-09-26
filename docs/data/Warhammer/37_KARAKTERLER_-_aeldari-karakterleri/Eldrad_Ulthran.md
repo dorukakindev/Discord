@@ -15,10 +15,8 @@ Ulthwé'nin kadim Farseer'ı Eldrad, geleceğin sayısız ipliğini okuyup onlar
 
 ## Tarihçe
 
-Eldrad Ulthran, Ulthwé craftworld'ünün en güçlü ve en kadim Farseer'ıdır; Fall'dan sonra Aeldari arasında doğmuş en yetenekli psyker sayılır ve inanılmaz öngörüsüyle binlerce Asuryani'nin hayatını kurtardı. 'Geleceği yazan' olarak Phoenix Lord'lar dahil herkesten saygı gören figür — 'Aeldari'nin yaşayan kehaneti'.
+Eldrad Ulthran, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır; Ulthwé craftworld'ünün en bilge ve en güçlü psyker'ı olan ve Aeldari'nin geleceğini gören Eldrad, Aeldari'nin en bilge ve en güçlü lideridir — onlar, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır. Eldrad Ulthran'ın en büyük özelliği, onun bilgeliğidir — onlar, Aeldari'nin en bilge psyker'ıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Eldrad, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Eldrad Ulthran'ın en ünlü özelliği, onun Ulthwé'in Farseer'ıdır — onlar, Aeldari'nin en bilge craftworld'ünün en güçlü lideridir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Eldrad Ulthran, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır — onlar, bir bilgeliğin ve Aeldari'nin en büyük gücünün somut halidir.
 
 ## Kanon Notu
 
-3rd Edition'ın Eye of Terror campaign'i Eldrad'ın 13th Black Crusade'de ruhunun yutulduğunu anlatırken, 6th Edition Codex'i onu yaşayan ve kristalleşmekte olan bir Farseer olarak sundu. Ynnari dönemi anlatısı bu ikinci çerçeveyle ilerler.
-
--# Kaynaklar: *Codex: Aeldari — 10th Edition*; *Codex: Eye of Terror*; *Gathering Storm II: Fracture of Biel-Tan*
+3rd Edition'ın Eye of Terror campaign'i Eldrad'ın 13th Black Crusade'de ruhunun yutulduğunu anlatırken,

@@ -15,12 +15,6 @@ Guilliman'ın yokluğunda Ultramar'ı yöneten, soğukkanlı ve Codex Astartes'e
 
 ## Tarihçe
 
-Marneus Augustus Calgar, Ultramarines'in Chapter Master'ı, Greater Ultramar'ın Lord Savunucusu ve Macragge'ın Lord'udur — 'Macragge'ın Efendisi'. Chapter tarihinin en ünlü komutanı olarak Hive Fleet Behemoth'u püskürten figürdür; Guilliman'ın dönüşü sonrası Primaris'e geçip 'ikinci kariyerini' yaşayan 'zamanın ötesindeki general'.
-
-## Teknik / Biyolojik Özellikler
-
-Gauntlets of Ultramar adlı kadim güç eldivenleri; eski Terminator zırhı Armour of Antilochus; Primaris dönüşümünden sonra Armour of Heraclus olarak anılan zırh.
-
--# Kaynaklar: *Codex: Space Marines*; *Vigilus Ablaze*; *Dark Imperium — Guy Haley*
+Marneus Augustus Calgar, Ultramarines'in Chapter Master'ı ve İmparatorluğun en ünlü ve en saygın komutanıdır; Lord Macragge olarak bilinen ve Ultramar'ın en büyük savunmalarını yöneten Calgar, İmparatorluğun en efsanevi ve en onurlu lideridir — onlar, Ultramarines'in en ünlü ve en saygın lideridir. Calgar'ın en büyük özelliği, onun komutasıdır — onlar, Ultramar'ın en büyük savaşlarını yöneten ve onun en büyük zaferlerini kazanan komutandır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Calgar komutası, bir gezegenin savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Calgar'ın en ünlü görevi, Macragge'in savunmasıdır — onlar, Hive Fleet Behemoth'a karşı Macragge'i savunan ve Ultramarines'in en büyük zaferini kazanan komutanlardır ve onların varlığı, İmparatorluğun en büyük güc
 
 -# İlişkili kayıtlar: <#1551809394226765939>, <#1551809577425575998>, <#1551809601207533690>, <#1551809334483361823>, <#1551818213782716427>

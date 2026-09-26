@@ -16,8 +16,4 @@ Armageddon'daki savaşları bir arada sıralayan çatı kaydı. Dünya ve savaş
 
 ## Tarihçe
 
-First War (444.M41): Angron'un istilası; Space Wolves ve Grey Knights'ın müdahalesi, ardından Inquisition'ın örtbas politikası. Second War (941.M41): Ghazghkull'un Waaagh!'ı, Yarrick'in Hades Hive savunması ve Dante'nin karşı taarruzu. Third War (998.M41): Ghazghkull'un dönüşü, Helsreach ve kül çöllerinde yıpratma savaşı. Great Rift sonrası üç yönlü çatışma ve 11th Edition'daki Operation Imperator.
-
--# Kaynaklar: *Codex: Armageddon*; *Helsreach — Aaron Dembski-Bowden*; *Operation Imperator*
-
--# İlişkili kayıtlar: <#1551643990196232303>, <#1551759766966116383>, <#1551649073432494263>, <#1551637696466788466>, <#1551811368389181491>
+Armageddon Savaşları, İmparatorluğun en büyük ve en uzun savaşlarıdır; Ghazghkull Thraka'nın — Ork'ların en büyük Warboss'u — Armageddon'a üç kez saldırması ve İmparatorluğun en büyük direnişinin en büyük anıdır — onlar, İmparatorluğun en büyük savaşının ve en büyük direnişinin somut halidir. Armageddon Savaşları'nın en büyük özelliği, onun süresidir — onlar, üç kez tekrarlanan ve onlarca yıl süren en büyük savaşlardır ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır; bir Armageddon Savaşı, bir gezegenin en savaş halidir ve onların varlığı, İmparatorluğun en büyük direnişinin somut halidir. Armageddon Savaşları'nın en ünlü özelliği, onun Ghazghkull'ın saldırılarıdır — onlar, bir Warboss'un en büyük saldırılarının en büyük anıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Armageddon Savaşları, İmparatorluğun en büyük ve en uzun savaşlarıdır — onlar, İmparatorluğun en büyük savaşının

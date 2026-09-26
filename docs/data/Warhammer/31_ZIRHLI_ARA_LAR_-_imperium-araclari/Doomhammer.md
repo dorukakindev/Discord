@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Doomhammer000.png/rev
 
 ## Tarihçe
 
-Doomhammer, Baneblade ailesinin magma-topu varyantıdır; kısa menzilli ama yıkıcı magma bombardıman topuyla düşman tanklarını ve büyük yapıları eritir. Super-heavy sınıfının yakın-menzilli 'eritici' koludur — siper savaşında değil, açık tank muharebesinde parlar.
+Doomhammer, Imperial Guard tarafından kullanılan en büyük ve en güçlü ağır savaş tankıdır; onun devasa boyutu ve silahlandırmasıyla — bir düşman zırhlısını veya kale duvarını yıkabilen bir araçtır — onlar, Imperial Guard'ın en güçlü ve en yıkıcı tankıdır. Doomhammer'ın en büyük özelliği, onun Doomhammer Cannon'udur — onun topu, bir düşman Titan'ını bile yok edebilir; bir Doomhammer, bir düşman pozisyonunu tek atışla yok edebilir ve onların varlığı, bir Imperial Guard saldırısının en güçlü silahıdır. Doomhammer'ın en ünlü görevi, Imperial Guard'ın en zorlu savaşlarıdır — onlar, düşmanın en güçlü zırhlısını yok etmek için kullanılırlar ve onların varlığı, Imperial Guard'ın en güçlü silahıdır. Doomhammer, Imperial Guard'ın en güçlü ve en yıkıcı tankıdır — onlar, bir saldırının en güçlü silahının somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

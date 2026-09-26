@@ -14,8 +14,8 @@ Goge Vandire'nin kiliseyi ve Administratum'u tek elde topladığı Reign of Bloo
 
 ## Tarihçe
 
-Thor'un vaazları zulüm altındaki dünyalarda hızla karşılık buldu. Hareketi ezmek için gönderilen Frateris Templars filosunun bir Warp fırtınasında yok olduğu anlatılır; müritler bunu ilahî bir işaret saydı. Confederation dünyadan dünyaya yayılıp Terra'ya yöneldi; Adeptus Mechanicus, Custodes ve bazı Space Marine Chapter'larının Vandire'ye karşı harekete geçmesiyle kriz sona erdi ve Thor Ecclesiarch oldu.
+Confederation of Light, Aeldari ırkının en büyük ve en birleşik inanç sistemidir; onların Aeldari'nin birliğini ve onların geleceğini savunan bir inançtır — onlar, Aeldari'nin en büyük ve en birleşik gücüdür. Confederation of Light'ın en büyük özelliği, onun birliğidir — onlar, Aeldari'nin birliğini savunur ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Confederation of Light takipçisi, hem bir savaşçı hem de bir misyonerdir ve onların savaşı, hem fiziksel hem de ideolojiktir. Confederation of Light'ın en ünlü özelliği, onun Aeldari'nin geleceğidir — onlar, Aeldari'nin birliğinin ve geleceğinin kanıtıdır ve onların varlığı, Aeldari'nin en büyük umudunun somut halidir. Confederation of Light, Aeldari ırkının en büyük ve en birleşik inanç sistemidir — onlar, birliğin ve umudun somut halidir.
 
 -# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
 
--# İlişkili kayıtlar: <#1551810771472883713>, <#1551651549804236801>, <#1551753444308811807>, <#1551808932744269985>
+-# İlişkili kayıtlar: <#1551810771472883713>, <#1

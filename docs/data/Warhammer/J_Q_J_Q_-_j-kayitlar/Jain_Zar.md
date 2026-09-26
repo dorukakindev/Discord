@@ -55,7 +55,7 @@ Bu gelişlerin belirli savaşlara nasıl dağıldığı, yani Jain Zar'ın hangi
 
 ## Tarihçe
 
-Jain Zar — 'Sessizlik Fırtınası' — Craftworld Aeldari'nin Howling Banshees Aspect Warriors'ının Phoenix Lord'u ve kurucusudur; Asurmen'in ilk öğrencisiydi. Blade of Destruction ve Jainas Mor'u taşıyan bu figür, savaş çığlığıyla düşmanı felç eden 'gürültüden doğan sessizlik' paradoksudur — Phoenix Lord'ların en yakın-dövüş ustası.
+Jain Zar, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur; Howling Banshees Aspect'inin kurucusu olan ve Aeldari'nin en ölümcül savaşçı geleneğinin lideri olan Zar, Aeldari'nin en ölümcül ve en gizli savaşçısıdır — onlar, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur. Jain Zar'ın en büyük özelliği, onun ölümlülüğüdür — onlar, Howling Banshees'ın kurucusu ve en ölümcül üyesidir ve onların v
 
 ## Ynnari'ye Katılış
 

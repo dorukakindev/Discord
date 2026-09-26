@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/83/Commander_Ignatius_Gr
 
 ## Tarihçe
 
-Ignatius Grulgor, Büyük Sefer'in sonunda ve Heresy'nin ilk savaşında Death Guard lejyonunun 2. Büyük Bölüğü'nün komutanıydı; hain primarch Mortarion ve İlk Kaptan Typhon'u takip ederek Horus'a katılan figürlerden biriydi. Eisenstein'ın Uçuşu'nda Garro'nun kaçışını engellemeye çalışan düşmanlardan biri olarak 'ihanetin ilk askerlerinden' olarak bilinir.
+Ignatius Grulgor, Chaos'un en ünlü ve en tiksindirici Chaos Lord'udur; eskiden Death Guard'ın kaptanı olan ve Chaos'a yükselen Grulgor, İmparatorluğun en tiksindirici ve en tehlikeli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en tiksindirici Chaos Lord'udur. Ignatius Grulgor'un en büyük özelliği, onun tiksindiriciliğidir — onlar, bir Space Marine'in Chaos'a düşüşünün en tiksindirici halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Grulgor, hem bir savaşçı hem de bir canavardır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ignatius Grulgor'un en ünlü özelliği, onun Death Guard'ın kaptanı olmasıdır — onlar, bir Legion'un en trajik üyesidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Ignatius Grulgor, Chaos'un en ünlü ve en tiksindirici Chaos Lord'udur — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

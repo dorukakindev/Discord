@@ -10,6 +10,6 @@
 
 ## Tarihçe
 
-Bheta-Decima (eski adıyla Emperor's Bounty), Nemesys Sektörü'nde dumanla örtülü bir Ocean World'dür; Era Indomitus'ta Adeptus Mechanicus'un Forge World'e dönüştürme sürecindedir. 41. Binyılda yeni kolonize edilmişti — düşük yerçekimi ağır ekipman taşımayı kolaylaştırdığı için Mechanicus tarafından seçilmişti. Felaket, yönetici magi'lerin 'Gallowdark' adlı space hulk'u el koyup teknolojik sırlarını yağmalamak istemesiyle başladı: hulk kontrolsüz şekilde gezegene düştü ve hem dünyayı hem nüfusunu harap etti. Sonrasında dünya çok taraflı bir kaos çatışmasına saplandı.
+Bheta-Decima, İmparatorluğun en uzak ve en gizli dünyalarından biridir; Fringe'de bulunan ve İmparatorluğun en az bilinen dünyalarından biridir — onlar, İmparatorluğun en gizli ve en uzak dünyasıdır. Bheta-Decima'nın en büyük özelliği, onun uzaklığıdır — onlar, İmparatorluğun en uzak noktasında bulunur ve onların varlığı, İmparatorluğun sınırlarının merkezidir; bir Bheta-Decima, bir sınır dünyasıdır ve onların varlığı, İmparatorluğun en uzak noktasının kanıtıdır. Bheta-Decima'nın en ünlü özelliği, onun gizliliğidir — onlar, İmparatorluğun en az bilinen dünyalarından biridir ve onların varlığı, İmparatorluğun gizli tarihinin bir parçasıdır. Bheta-Decima, İmparatorluğun en uzak ve en gizli dünyasıdır — onlar, sınırın ve gizliliğin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

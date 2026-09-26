@@ -15,12 +15,8 @@ Kanatlı, yılana benzer bir metal gövdeyle göğü yırtan bir daemon engine'd
 
 ## Tarihçe
 
-Heldrake'ler Chaos Space Marine savaş gruplarının hava tehdidi olarak anılır. Kontrol edilmesi güç yaratıklardır; savaş grupları onları yönlendirmekten çok salıverir.
+Heldrake, Chaos'un en korkulan ve en ölümcül hava aracıdır; bir Daemon Engine — Chaos'un gücüyle canlanan bir makine — olan ve düşmanı havadan imha eden bir varlıktır — onlar, Chaos'un hava gücünün somut halidir. Heldrake'in en büyük özelliği, onun doğaüstü gücüdür — onlar, fizik yasalarına uymaz ve onların gücü, bir Imperial savaş gemisini bile yok edebilir; bir Heldrake, bir düşman uçağını saniyeler içinde parçalayabilir ve onların varlığı, bir Chaos saldırısının en korkulan silahıdır. Heldrake'in en ünlü özelliği, onun demonik doğasıdır — onlar, hem bir makine hem de bir demon'dur ve onların varlığı, Chaos'un gücünün somut halidir; bir Heldrake, bir gezegenin gökyüzünü bile karartabilir. Heldrake, Chaos'un en korkulan ve en ölümcül hava aracıdır — onlar, Chaos'un hava gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
-Ağzından ya da gövdesinden baleflamer veya hades autocannon ile ateş eden, pençeli ve kanatlı bir gövde. Makine ile daemon'un iç içe geçtiği diğer daemon engine'lerle aynı çift doğayı taşır.
-
--# Kaynaklar: *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551812225570836561>, <#1551654107058540595>, <#1551809666454134928>
+Ağzından ya da gövdesinden baleflamer veya hades autocannon ile ateş eden, pençeli ve kanatlı bir gövde. Makine ile daemon'un iç içe geçtiği diğer

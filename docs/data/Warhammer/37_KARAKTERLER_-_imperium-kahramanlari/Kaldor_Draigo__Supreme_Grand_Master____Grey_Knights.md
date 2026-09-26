@@ -15,12 +15,4 @@ Grey Knights'ın Supreme Grand Master'ı. Anlatıya göre bir daemonla yüzleşm
 
 ## Tarihçe
 
-Kaldor Draigo, Grey Knights'ın mevcut Supreme Grand Master'ıdır; en azından son standart yüzyıldır Warp'ın Realm of Chaos'unda kayıptır — ama orada bile savaşıyor: Titan Sword'üyle daemonları kesip 'Cehennem'de hayatta kalan adam. 'Kayıp ama ölümsüz efendi' olarak chapter'ın en efsanevi figürü ve 'gerçekliğe geri dönmeyi reddeden kahraman'.
-
-## Kanon Notu
-
-5th Edition anlatısındaki başarılar toplulukta çok eleştirildi; sonraki yayınlar bunları açıkça geçersiz kılmasa da vurgulamaz. Mortarion iddiası güç ölçüsü olarak okunmamalıdır.
-
--# Kaynaklar: *Codex: Grey Knights*
-
--# İlişkili kayıtlar: <#1551641477501947995>, <#1551809666454134928>, <#1551654107058540595>, <#1551650329316036699>
+Kaldor Draigo, Grey Knights'ın Supreme Grand Master'ı ve İmparatorluğun en güçlü ve en kutsal savaşçısıdır; daemon'ları yok etmek için yaratılan en gizli Chapter'ın lideri olan Draigo, İmparatorluğun en büyük psişik gücü ve en büyük azizidir — onlar, Grey Knights'ın en ünlü ve en kutsal lideridir. Kaldor Draigo'nun en büyük özelliği, onun gücüdür — onlar, Warp'ta tek başına daemon ordularını yenen ve onun en büyük zaferlerini kazanan en güçlü Grey Knight'tır ve onların varlığı, İmparatorluğun en büyük psişik gücünün kanıtıdır; bir Draigo, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Kaldor Draigo'nun en ünlü özelliği, onun Warp'ta mahsur kalmasıdır — onlar, Warp'ta yüzyıllarca tek başına savaşan ve hayatta kalan efsanedir ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Kaldor Draigo, Grey Knights'ın en güçlü ve en kutsal Supreme Grand Master'ıdır — onlar, psişik gücün v

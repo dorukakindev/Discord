@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Inquisitor_Covenant_C
 
 ## Tarihçe
 
-Covenant, daemon avcısı Ordo Malleus'un Inquisitor'üdür; Inquisition'un içindeki 'yozlaşmayı temizlemeye' adanmış yeni nesil ateşli figürlerden biridir. Ordo Malleus üyesi olarak Psycannon gibi özel daemon-avcısı ekipmanlara erişimi vardır ve daha az puritan olan meslektaşlarının yarattığı Daemonhost'ları özellikle yok etmeyi görev edinir. Şu anda Imperium'un güney bölgelerini tarayıp kendi kurumunun karanlığını avlıyor — 'avcının avcısı' olarak tartışmalı bir figür.
+Covenant, Inquisition'ın en ünlü ve en korkulan üyesidir; Ordo Malleus'un en deneyimli Inquisitor'u olan ve daemon'ları avlayan en korkulan Inquisitor olan Covenant, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, Inquisition'ın en ünlü ve en korkulan üyesidir. Covenant'ın en büyük özelliği, onun avcılığıdır — onlar, daemon'ları avlayan en korkulan Inquisitor'dur ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Covenant, hem bir Inquisitor hem de bir avcıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Covenant'ın en ünlü özelliği, onun Ordo Malleus'un üyesidir — onlar, daemon'lara karşı savaşan en gizli ordo'nun en deneyimli üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Covenant, Inquisition'ın en ünlü ve en korkulan üyesidir — onlar, bir avcının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

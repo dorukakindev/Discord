@@ -10,6 +10,6 @@ Howling Banshee'ler, kendilerini Banshee Tapınağı'na adamış, savaş tanrıs
 
 ## Tarihçe
 
-Aeldari'nin kadın Aspect savaşçısı; maskesi çığlık olarak silah kullanan yakın dövüş ustası. Jain Zar'ın kurduğu Aspect — çığlığı ölümün habercisidir.
+Howling Banshee, Aeldari'nin en ünlü ve en ölümlü Aspect savaşçısıdır; onların Aeldari'nin en ölümlü ve en çığlıklı Aspect birliği olan ve onun en zorlu savaşlarını yapan Howling Banshee, Aeldari'nin en ölümlü ve en tehlikeli varlığıdır — onlar, Aeldari'nin en ünlü ve en ölümlü Aspect savaşçısıdır. Howling Banshee'nin en büyük özelliği, onun çığlığıdır — onlar, Aeldari'nin en ölümlü ve en çığlıklı Aspect birliğidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Howling Banshee, hem bir savaşçı hem de bir katildir ve onların savaşı, hem fiziksel hem de ölümlü bir mücadeledir. Howling Banshee'nin en ünlü özelliği, onun Jain Zar'ın yaratmasıdır — onlar, bir Phoenix Lord'un kurduğu en ölümlü Aspect'dir ve onların varlığı, Aeldari'nin savaş sanatının en yüksek noktasının kanıtıdır. Howling Banshee, Aeldari'nin en ünlü ve en ölümlü Aspect savaşçısıdır — onlar, bir çığlığın ve Aeldari'nin savaş sanatının somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

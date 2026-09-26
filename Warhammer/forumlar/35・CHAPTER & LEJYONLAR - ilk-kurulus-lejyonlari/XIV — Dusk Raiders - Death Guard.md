@@ -16,8 +16,6 @@ Dayanıklılığı ve yılmaz ilerleyişi kimlik edinen Legion; Warp'ta yaşadı
 
 ## Tarihçe
 
-Heresy'de Istvaan III'te sadık unsurlarını temizleyen Legion, Terra'ya giderken Warp'ta mahsur kaldı; Typhus'un hazırladığı bu felakette Destroyer salgını filoyu kasıp kavurdu ve Mortarion Nurgle'a teslim oldu. Siege of Terra'dan sonra Eye of Terror'daki Plague Planet'e çekildiler. Great Rift çağında Mortarion'un Ultramar'a yönelttiği Plague Wars, Legion'ı Guilliman'ın karşısına çıkardı.
+Death Guard (XIV Legion, eski adıyla Dusk Raiders), Mortarion'un oğullarıdır; Horus Heresy'de Nurgle'a düşen ilk Legion'dur ve onların savaş doktrini, dayanıklılık, zehir ve mutlak acımasızlık üzerine kuruludur — onlar, İmparatorluğun en dayanıklı ve en korkulan düşmanıdır. Death Guard'ın düşüşü, Heresy'nin en trajik hikâyelerinden biridir — Mortarion'un Nurgle'la yaptığı anlaşma, Legion'unu kurtarmak içindi ama sonucunda onlar, Nurgle'un hastalıklı köleleri oldular; ve onların bedenleri, artık yaşayan bir çürümedir. Death Guard'ın savaşı, yavaş ama durdurulamazdır — onların zırhı paslı, bedenleri şişmiş ve silahları zehirlidir; bir Death Guard, düşmanını öldürmez, onu çürütür ve onların varlığı, Nurgle'un sevgisinin somut halidir. Death Guard, İmparatorluğun en korkulan ve en tiksindirici düşmanıdır — onların savaşı, hem ölüm hem de hastalıktır.
 
--# Kaynaklar: *The Flight of the Eisenstein — James Swallow*; *Dark Imperium: Plague War — Guy Haley*; *Codex: Death Guard — 10th Edition*
-
--# İlişkili kayıtlar: <#1551813274327060552>, <#1551650329316036699>, <#1551754683222327439>, <#1551818194841501818>
+-# Kaynaklar: *The Flight of the Eisenstein — James Swallow*; *Dark Imperium: Plague War —

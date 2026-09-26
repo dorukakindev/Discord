@@ -14,6 +14,4 @@ Arabella'nın önemi, İmparatorluk'un 'bilgi savaşı' yönünü temsil etmesid
 
 ## Tarihçe
 
-Saint Arabella, Adepta Sororitas'ın 'Liberator' lakaplı azizidir; Order of the Sacred Rose'un kurucularından sayılır. İmparatorluk tarihinde esir düşmüş dünyaların kurtarıcısı olarak anılır; adı, kölelik altındaki İmparatorluk kolonilerinin kurtuluş ayinlerinde okunur.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Saint Arabella, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Arabella, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Arabella'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Arabella, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Arabella'nın en ünlü özelliği, onun azize unvanı

@@ -16,6 +16,4 @@ Squiggoth'un Ork kültüründeki yeri ataviktir — 'en büyük ve en sert hayva
 
 ## Tarihçe
 
-Ork evcilleştirilmiş dev squig canavarı; Elephant-Squiggoth varyantıyla savaş makinesine dönüşür. Orkların hem evcil hayvanı hem tankı — hantal ama yıkıcı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Squiggoth, Ork'ların en ünlü ve en büyük binek yaratığıdır; onların Ork'ların en büyük ve en vahşi binek yaratığı olan ve onun en zorlu savaşlarını yapan Squiggoth, Ork'ların en büyük ve en vahşi varlığıdır — onlar, Ork'ların en ünlü ve en büyük binek yaratığıdır. Squiggoth'un en büyük özelliği, onun boyutudur — onlar, Ork

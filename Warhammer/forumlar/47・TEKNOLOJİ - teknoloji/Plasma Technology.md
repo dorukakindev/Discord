@@ -10,6 +10,6 @@ Plasma Technology (Plazma teknolojisi), İmparatorluğun en güçlü ama en tehl
 
 ## Tarihçe
 
-İmparatorluk'un en güçlü silah sınıfı; aşırı ısıtılmış plazma fırlatan ama kullanıcıyı da tehlikeye atan antik teknoloji. 'Get Hot' kuralının sahibi — güçlü ama ölümcül.
+Plazma silahları, güneş-benzeri plazma küreleri fırlatan ağır enerji silahlarıdır; tek atışla Terminator zırhını eritebilen ama aşırı ısınma riski taşıyan iki ucu keskin teknolojidir. Plazma reaktörü güneşin çekirdek sıcaklığına yakın gaz üretir ve manyetik şişirme ile hedefe yollar; bu süreç dengesizleşirse silah kullanıcısının elinde patlar. Imperial plazma teknolojisi Dark Age of Technology'den kalmadır ve STC şablonu kaybolduğu için yeni üretim giderek kıtlaşmaktadır — mevcut plazma silahları yüzyıllar önce dövülmüş emanettir. Buna rağmen Space Marine'ler ve Astra Militarum plazmayı güçlü zırhlı hedeflere karşı başlıca çözüm olarak kullanır; aşırı şarj modu daha yıkıcı ama kullanıcı için ölümcül bir kumardır. T'au ve Aeldari'nin plazma silahları daha stabil ama İmparatorluğunkilerden daha hafiftir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

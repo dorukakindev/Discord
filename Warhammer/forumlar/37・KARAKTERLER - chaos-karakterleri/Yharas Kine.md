@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/54/NightLordsArmourial.p
 
 ## Tarihçe
 
-Yharas Kine, Night Lords'un Chaos Lord'u olarak 'Nightmare of Celyx' savaş gemisini komuta eder. VIII. Lejyon'un 'korku ekonomisi' — düşmana zarar vermeden önce korku salma — doktrininin modern uygulayıcılarından biri olarak uzay savaşlarında bilinir.
+Yharas Kine, Chaos'un en gizli ve en tehlikeli üyesidir; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en gizli sırlarını saklayan Kine, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir. Yharas Kine'in en büyük özelliği, onun gizliliğidir — onlar, İmparatorluğun en gizli operasyonlarında ortaya çıkan en tehlikeli üyesidir ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Kine, hem bir savaşçı hem de bir sırdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Yharas Kine'in en ünlü özelliği, onun gizliliğidir — onlar, Chaos'un en gizli ve en tehlikeli üyesidir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Yharas Kine, Chaos'un en gizli ve en tehlikeli üyesidir — onlar, bir sırrın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

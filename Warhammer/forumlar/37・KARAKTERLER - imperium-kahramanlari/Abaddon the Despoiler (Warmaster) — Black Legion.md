@@ -16,8 +16,4 @@ Horus'un dağılmış Legion'ını Black Legion adıyla yeniden kuran ve on bin 
 
 ## Tarihçe
 
-Abaddon the Despoiler, Horus'un ölümü sonrası Black Legion'un Warmaster'ı ve İmparatorluk'un en büyük tehdididir; dört Chaos tanrısının kullarını 'İmparatorluğun yıkımı'nda birleştiren tek lider. Talon of Horus ve Drach'nyen'le 13 Kara Sefer'i yönetip Cadia'yı düşüren ve Büyük Yarık'ı açan figür — 'İmparatorluk'un kıyamet mimarı'.
-
--# Kaynaklar: *The Talon of Horus — Aaron Dembski-Bowden*; *Gathering Storm I: Fall of Cadia*; *Arks of Omen: Abaddon*
-
--# İlişkili kayıtlar: <#1551638958352506881>, <#1551811342405599345>, <#1551811393680838699>, <#1551809114328399874>
+Abaddon the Despoiler, Chaos'un en büyük ve en tehlikeli lideridir; Horus'un yerine geçen ve Black Legion'ı yöneten Abaddon, İmparatorluğun en büyük düşmanı ve Chaos'un en güçlü komutanıdır — onlar, Chaos'un en büyük ve en tehlikeli lideridir. Abaddon'un en büyük özelliği, onun gücüdür — onlar, Black Legion'un Warmaster'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Abaddon komutası, bir Black Crusade'in en büyük anıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Abaddon'un en ünlü görevi, on üçüncü Kara Haçlı Seferi'dir — onlar, Cadia'yı yok eden ve Büyük Yarık'ı açan en büyük saldırının lideridir ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır. Abaddon the Despoiler, Chaos'un en büyük ve en tehlikeli lideridir — onlar, Black Legion'un gücünün ve İmpara

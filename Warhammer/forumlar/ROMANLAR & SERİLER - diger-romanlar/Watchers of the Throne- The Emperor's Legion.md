@@ -13,6 +13,6 @@ Tieron chancellor'un ve Custodes Shield-Captain Valerian'ın gözünden İmparat
 
 ## Tarihçe
 
-Custodes'un iç romanı; Hetaeron Guard'ın İmparator'un en yakınındaki rolü ve Guilliman dönüşü sonrası Terra'daki siyasi gerilim. 'Üç Yüz'ün günlüğü.
+Watchers of the Throne: The Emperor's Legion, Chris Wraight'ın yazdığı ve İmparatorluk'un en gizli kurumlarını anlatan bir romandır. Bu roman, İmparatorluk'un en gizli kurumlarının — Custodes, Sisters of Silence ve diğerlerinin — iç işleyişini gösterir; roman, İmparatorluk'un en gizli sırlarının bir parçasıdır. Bu roman, İmparatorluk'un en gizli kurumlarının en önemli hikâyesidir; roman, İmparatorluk'un en gizli sırlarının en önemli parçasıdır. Roman, İmparatorluk'un en gizli kurumlarının en önemli hikâyesi olarak kalır.
 
 -# Kaynaklar: Black Library

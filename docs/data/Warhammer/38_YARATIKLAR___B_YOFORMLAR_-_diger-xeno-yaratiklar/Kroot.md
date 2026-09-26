@@ -16,4 +16,7 @@ Kroot'un en bilinen figürleri, Tau saflarındaki 'Carnivore' birlikleri ve 'Sha
 
 Kroot'un tehlikeli yanı, 'Kindred' klan sisteminin acımasız evrimidir: yanlış et yenirse tür çürür; Shaper'lar bu yüzden katı 'etiket' kuralları uygular (örneğin Chaos ve Tyranid eti yasaktır, çünkü bu etler türü bozar). Kroot'un İmparatorluk kayıtlarındaki görüntüsü 'vahşi paralı' olarak yazsa da, Pech'in kökleri — gezegenin efsanevi 'tree-city' si — gizli ve derin bir medeniyetin kalıntısıdır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Kroot, T'au Empire'ın en ünlü ve en vahşi müttefik ırkıdır; T'au'nun en vahşi ve en sadık müttefiki olan ve onların en zorlu savaşlarını yapan Kroot, T'au'nun en vahşi ve en önemli varlığıdır — onlar, T'au'nun en ünlü ve en vahşi müttefik ırkıdır. Kroot'un en büyük özelliği, onların vahşetid

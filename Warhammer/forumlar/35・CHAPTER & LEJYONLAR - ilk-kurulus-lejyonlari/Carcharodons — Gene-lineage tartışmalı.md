@@ -16,8 +16,4 @@ Sessiz, ürkütücü ve Imperium'un olağan kurumlarıyla neredeyse hiç temas k
 
 ## Tarihçe
 
-Carcharodons, uzun süreler boyunca Outer Dark'ta savaşıp yalnızca belirli anlarda Imperium'un sınırlarına dönerler. Bu dönüşlerde uyguladıkları Red Tithe, dünyaların halkından serf ve aday toplayarak Chapter'ın ihtiyaçlarını karşılamasıdır; bu uygulama onları hem korkulan hem de kuşkuyla izlenen bir kuvvet yapar. Chapter Master Tyberos, "Red Wake" lakabıyla Chapter'ın acımasız yüzünü temsil eder.
-
--# Kaynaklar: *Carcharodons: Red Tithe — Robbie MacNiven*; *Carcharodons: Outer Dark — Robbie MacNiven*
-
--# İlişkili kayıtlar: <#1551637736593821790>, <#1551808888666587197>, <#1551815272074055681>
+Carcharodons, gene-lineage'i tartışmalı (muhtemelen Raven Guard soyu) ve İmparatorluğun en vahşi ve en gizemli Space Marine Chapter'larından biridir; onların savaş doktrini, okyanus ve köpekbalığı kültüründen doğar ve onlar, İmparatorluğun en acımasız ve en sessiz avcılarıdır. Carcharodons'un en büyük özelliği, onların vahşetidir — onların savaşı, sadece öldürmek değil, tamamen yok etmektir; bir Carcharodon, düşmanını parçalar ve onların savaş alanı, bir kan denizinden farksızdır. Carcharodons'un en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en vahşi taktikleri kullandılar ve onların varlığı, savaşın en kanlı sayfalarını yazdı. Carcharodons, İmparatorluğun en vahşi ve en gizemli Chapter'ıdır — onlar, okyanusun en derin avcılarıd

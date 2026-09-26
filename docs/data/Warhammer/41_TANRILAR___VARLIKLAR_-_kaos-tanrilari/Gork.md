@@ -15,12 +15,8 @@ Ork anlatılarında Gork, Warp'ın derinliklerinde kavga eden ikiz tanrılardan 
 
 ## Tarihçe
 
-Gork'a tapınmanın kilisesi ya da yazılı öğretisi yoktur; bir Ork savaştığında, zafer kazandığında ya da bir Waaagh!'a katıldığında en doğal ibadetini yapmış olur. Gorkanaut gibi savaş makinelerinin adı ve Gargant'ların tanrıların onuruna inşa edilmesi, Ork inancının maddi izleridir.
+Gork, Ork'ların en ünlü ve en vahşi tanrısıdır; Ork'ların iki tanrısından biri olan ve 'vahşi' Ork'ların tanrısı olan Gork, Ork'ların en vahşi ve en önemli gücüdür — onlar, Ork'ların en ünlü ve en vahşi tanrısıdır. Gork'un en büyük özelliği, onun vahşetidir — onlar, 'vahşi' Ork'ların tanrısıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Gork takipçisi, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece öldürmek ve fethetmek içindir. Gork'un en ünlü özelliği, onun Mork'la birlikte olmasıdır — onlar, Ork'ların iki tanrısından biridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Gork, Ork'ların en ünlü ve en vahşi tanrısıdır — onlar, bir vahşetin ve Ork'ların en büyük gücünün somut halidir.
 
 ## Kanon Notu
 
-Hangi nitelemenin hangi tanrıya ait olduğu Ork'lar arasında bile kesin değildir ve bu belirsizlik bilinçli olarak korunur. Gork, Chaos panteonunun parçası değildir.
-
--# Kaynaklar: *Codex: Orks — 10th Edition*; *'Ere We Go*; *Gorkamorka*
-
--# İlişkili kayıtlar: <#1551814495138091013>, <#1551759766966116383>, <#1551817830096310363>, <#1551809666454134928>
+Hangi nitelemenin hangi tanrıya ait olduğu Ork'lar arasın

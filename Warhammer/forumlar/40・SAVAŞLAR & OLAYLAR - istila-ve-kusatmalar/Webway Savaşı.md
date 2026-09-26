@@ -12,6 +12,6 @@ Webway Savaşı, Horus Heresy'nin en az bilinen ama belki de en yıkıcı sonuç
 
 ## Tarihçe
 
-İmparator'un Magnus'un kırdığı Webway'i kurtarma savaşı; Custodes'un insanlığın kurtuluş projesi için son çabası. Başarısız oldu — hayalin sonu.
+Webway Savaşı, Horus Heresy sırasında Terra'nın derinliklerinde yürütülen en gizli ve en kritik operasyondu. İmparator, Webway'i — Aeldari'nin yarattığı ve Warp'e alternatif güvenli bir yolculuk yolu sunan portal ağı — kullanarak Imperialis'in Warp bağımlılığından kurtulmasını planlıyordu. Ancak Webway, Thousand Sons'un Magnus'u tarafından bilerek ya da bilmeyerek açıldı ve içine binlerce iblis ve Chaos varlığı sızdı. Custodes ve Sisters of Silence, Webway'in içindeki Koridorlarda savaşarak iblisleri geri püskürtmeye çalıştılar; ancak Webway'in boyutu ve Chaos'un gücü, bu operasyonun tamamen başarısız olmasına neden oldu. Savaş, İmparator'un en büyük planının çöküşüyle sonuçlandı ve İmparatorluğu Warp bağımlılığına mahkûm etti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/8/85/AdeptusAstraTelepathica1.png/revision/latest?cb=20170621041106
 
+## Tarihçe
+
+Adeptus Astra Telepathica, İmparatorluğun psişik iletişim ve eğitim kurumudur; Astropath'ları eğitir, Soul Binding ritüelini yönetir ve Black Ships filosunu işletir — İmparatorluğun psişik altyapısının tamamı onların elindedir. Astra Telepathica'nın iki ana işlevi vardır — iletişim (Astropath'lar aracılığıyla yıldızlararası mesajlaşma) ve toplama (Black Ships ile psyker'ları Terra'ya getirme); bu iki işlev, İmparatorluğun varoluşunun temelidir çünkü iletişim olmadan İmparatorluk dağılır ve psyker'lar olmadan Astronomicon söner. Astra Telepathica'nın eğitimi acımasızdır — bir psyker, ya Sanctioned Psyker olarak eğitilir ya da Golden Throne'a feda edilir; ortası yoktur ve Astra Telepathica, bu seçimi İmparatorluğun hayatta kalması için yapar. Astra Telepathica, İmparatorluğun en gerekli ve en acımasız kurumudur — onların işi, insanlığın en tehlikeli kaynağını yönetmektir.
+
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Adeptus Astra Telepathica — Adeptus Astra Telepathica, Psyker'ları Toplayan ve Yöneten Kurum

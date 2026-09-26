@@ -16,8 +16,4 @@ Gözü kara, atılgan ve Blood Claws'un öfkesini hiç tam olarak bırakmamış 
 
 ## Tarihçe
 
-Ragnar Blackmane — 'Kara Kurt' — Space Wolves'un Primaris subayı ve chapter tarihinin en genç Wolf Lord'udur; Blood Claw'dan hızla yükselen bu figür, Fenris'in yeni kuşağının en ünlü figürüdür. Primaris'e geçip ikinci hayatını yaşayan 'zamanın ötesindeki kurt' olarak bilinir.
-
--# Kaynaklar: *Space Wolf — William King*; *Grey Hunter — William King*; *Codex: Space Wolves*
-
--# İlişkili kayıtlar: <#1551638910344630307>, logan-grimnar, <#1551809231580307517>, fenris
+Ragnar Blackmane, Space Wolves'un en ünlü ve en cesur Wolf Lord'udur; onların Fenris'in en vahşi savaşçısı ve Space Wolves'un en büyük kahramanı olan Ragnar, İmparatorluğun en korkulan ve en saygın savaşçılarından biridir — onlar, Space Wolves'un en ünlü ve en vahşi savaşçısıdır. Ragnar'ın en büyük özelliği, onun cesaretidir — onlar, Space Wolves'un en genç Wolf Lord'udur ve onların savaşı, hem vahşet hem de onur üzerine kuruludur; bir Ragnar, hem bir savaşçı hem de bir liderdir ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır. Ragnar'ın en ünlü görevi, Armageddon Savaşı'nda Chaos'a karşı savaşmasıdır — onlar, Angron'un daemon ordusuna karşı savaşan ve onu geri püskürten savaşçılardır ve onların varlığı, Space Wolves'un en büyük zaferinin kanıtıdır. Ragnar Blac

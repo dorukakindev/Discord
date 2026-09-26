@@ -11,7 +11,7 @@
 
 ## Tarihçe
 
-Sa'ra'am — 'Alttaki Daemon', 'Bıçağın Kenarı', 'Savaşın Kahkahası' — Chaos Undivided'ın daemon'udur; Büyük Sefer ve Heresy'de World Eaters'a savaş donanımı sağlayan Forge World Sarum'un çekirdeğine bağlanmıştı. Perturabo ve Iron Warriors'la karşılaştığında, daemon makineye bağlanma gücünü gösterdi — 'silahların içindeki şeytan' olarak karanlık forge tarihinin figürüdür.
+Sa'ra'am, Slaanesh'in en ünlü ve en ayartıcı daemon'ıdır; İmparatorluğun en gizli operasyonlarında ortaya çıkan ve onun en sadık askerlerini ayartan en tehlikeli daemon olan Sa'ra'am, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Slaanesh'in en ünlü ve en ayartıcı daemon'udur. Sa'ra'am'ın en büyük özelliği, onun ayartıcılığıdır — onlar, İmparatorluğun en sadık askerlerini ayartan ve onları Chaos'a çeken en tehlikeli daemon'dur ve onların varlığı, Slaanesh'in en büyük gücünün kanıtıdır; bir Sa'ra'am, hem bir daemon hem de bir ayartıcıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Sa'ra'am'ın en ünlü özelliği, onun ayartıcılığıdır — onlar, İmparatorluğun en sadık askerlerini ayartan en tehlikeli daemon'dur ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Sa'ra'am, Slaanesh'in en ünlü ve en ayartıcı daemon'ıdır — onlar, bir ayartıcının ve Chaos'un en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

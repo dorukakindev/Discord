@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ee/Lord_of_Change_bust.j
 
 ## Tarihçe
 
-Skra'kalichaust the Schemer ('Düzenbaz'), Tzeentch'in şeytani Lord of Change'idir — Screaming Vortex'teki warband'lerin şan için birbirleriyle süregelen mücadelelerinden keyif alan bir Greater Daemon. Tzeentch'e hizmet eden esrarengiz Lord'lar arasında eşsiz bir büyücüdür; Vortex'in warband'lerini kendi gizli amaçları için kullanıyor gibi görünür — 'entrika içinde entrika'nın efendisi.
+Skra'kalichaust, Tzeentch'in en gizli ve en tehlikeli daemon'ıdır; Tzeentch'in en gizli planlarını yöneten ve onun en gizli operasyonlarını yapan Skra'kalichaust, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Tzeentch'in en gizli ve en tehlikeli daemon'udur. Skra'kalichaust'un en büyük özelliği, onun gizliliğidir — onlar, Tzeentch'in en gizli planlarını yöneten en tehlikeli daemon'dur ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Skra'kalichaust, hem bir daemon hem de bir entrikacıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Skra'kalichaust'un en ünlü özelliği, onun gizliliğidir — onlar, Tzeentch'in en gizli ve en tehlikeli daemon'ıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır. Skra'kalichaust, Tzeentch'in en gizli ve en tehlikeli daemon'ıdır — onlar, bir entrikanın ve Chaos'un en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

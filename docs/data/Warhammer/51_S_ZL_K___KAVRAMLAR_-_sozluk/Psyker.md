@@ -1,5 +1,9 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429
 
+## Tarihçe
+
+Psyker, Warp'tan güç çekebilen ve onu gerçek dünyada maddeye, ateşe veya düşünceye çeviren psişik yetenekli varlıktır; İmparatorluk'ta hem vazgeçilmez hem de ölümcül tehlikedir çünkü aynı yetenek onları demon işgaline açık kapı yapar. İmparatorluk, psyker'ları Grade sistemine göre sınıflandırır — Delta ve Gamma seviyesi günlük hayatta fark edilmez, Beta ve Alpha ise tek başına gezegenleri yakabilir; Alpha+ seviye psyker'lar neredeyse tanrısal güçtedir ama aynı zamanda en büyük demonik kapıdır. Her Imperial dünyası psyker'larını teslim etmek zorundadır — Black Ships onları toplar ve Terra'ya götürür; orada ya Sanctioned Psyker olarak eğitilir (Astropath, Primaris Psyker, Inquisitor) ya da Golden Throne'a kurban edilir. Psyker olmak İmparatorluk'ta hem lanet hem kaderdir — onlar olmadan Warp seyahati, iletişim ve Astronomicon çalışmaz; ama her psyker, içinde taşıdığı potansiyel felaketle yaşar.
+
 https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Grim_Dark_Lore_Part_2_-_The_Golden_Age/revision/latest?cb=20200424042429
 
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt

@@ -16,8 +16,4 @@ Great Crusade'in karşılaştığı en büyük Ork gücünün önderi. Onun impa
 
 ## Tarihçe
 
-Urlakk Urg, Ullanor'un Overlord'uydu — Büyük Sefer'in sonunda Ork'ların en büyük imparatorluğunun hükümdarı; Horus'un bizzat yüzleştiği en büyük yeşil tehditti. Ullanor Seferi'nde İmparatorluk güçlerini yenen bu figür, 'İmparatorluk öncesi son büyük Ork' olarak tarihteki yerini aldı — düşüşü Ullanor'un (sonradan Armageddon'un) İmparatorluk'a geçişini sağladı.
-
--# Kaynaklar: *Horus Rising — Dan Abnett*; *Shadow of Ullanor — Rob Sanders*
-
--# İlişkili kayıtlar: <#1551814367203303506>, <#1551650246508150857>, <#1551759766966116383>, <#1551809818250182657>
+Urlakk Urg, Ork'ların en büyük ve en tehlikeli Warboss'larından biridir; Ullanor'un — Ork'ların en büyük imparatorluğunun — Overlord'u olan ve İmparatorluğun en büyük savaşlarından birini başlatan Urlakk Urg, Ork'ların en büyük gücünün ve en büyük tehdidinin simgesidir — onlar, Ork'ların en büyük ve en tehlikeli lideridir. Urlakk Urg'un en büyük özelliği, onun gücüdür — onlar, bir gezegen ölçeğinde bir Ork imparatorluğunun lideridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Urlakk Urg komutası, bir Waaagh!'ın en büyük anıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Urlakk Urg'un en ünlü görevi, Ullanor Crusade'idir — onlar, İmparatorluğun en büyük Ork savaşını başlatan ve İmparator'un kendisinin müdahale ettiği en büyük savaşın nedenidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Urlakk Urg, Ork'ların en büyük ve en tehlikeli Warb

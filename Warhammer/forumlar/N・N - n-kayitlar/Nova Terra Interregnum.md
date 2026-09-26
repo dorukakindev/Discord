@@ -10,6 +10,10 @@ Bölünmenin süresi kaynaklarda dokuz yüzyılı aşkın bir dönem olarak veri
 
 Dönemin Imperium'un geri kalanı için ne anlama geldiği de ancak dolaylı olarak izlenebilir. Bazı kaynaklar, genel kargaşa sürerken Ultramar gibi kendi kendine yeten bölgelerin görece korunaklı kaldığını ima eder; ancak bu tür değerlendirmeler dönemin bütününe dair kapsamlı bir tablo sunmaz.
 
+## Tarihçe
+
+Nova Terra Interregnum, İmparatorluk'un en büyük yönetim krizi olarak tarihe geçti. Bu dönem, İmparatorluk'un iki rakip yönetim arasında bölünmesini içeriyordu; Nova Terra Interregnum sırasında İmparatorluk, kendi içindeki en büyük bölünmeyi yaşadı. Dönem, İmparatorluk'un iki yönetiminin birleşmesiyle sonuçlandı; ancak verilen zayiat ve yaşanan çatışma, bu dönemin İmparatorluk t
+
 ## Bilinen Olaylar
 Interregnum'un kargaşası yalnızca sivil yönetimle sınırlı kalmadı. Adeptus Mechanicus içinde **Moirae Schism** olarak anılan doktrinel bölünme aynı döneme düşer ve bazı kaynaklar iki krizi birbiriyle ilişkilendirir; Mars'ın iç tartışmalarının ayrıntısı ise ayrı bir konudur.
 

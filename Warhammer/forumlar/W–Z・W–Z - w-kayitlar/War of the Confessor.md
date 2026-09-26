@@ -18,6 +18,6 @@ Age of Apostasy'de Bucharis'in ayaklanması ve Ministorum'un güç zirvesi; Goge
 
 ## Tarihçe
 
-War of the Confessor, İmparatorluk'un 'iman savaşları' çağının doruğuydu: Vandire'in hem Ecclesiarchy hem Administratum'u tek elde topladığı dönemde itirafçı-vaizler kendi ordu-kültlerini kurdu. Şiddetli iç savaş Reign of Blood'a zemin hazırladı; Sebastian Thor'un isyanıyla son buldu ve Sisters of Battle'ın doğuşuna giden yol buradan açıldı.
+War of the Confessor, İmparatorluk'un dinini kontrol etmeye çalışan en trajik iç savaşlardan biridir. Bu savaş, İmparatorluk'un dinine ve Ecclesiarchy'ye karşı yapılan bir operasyon olarak başladı; War of the Confessor sırasında İmparatorluk, kendi içindeki en tehlikeli dini çatışmaları yaşadı. Savaş, İmparatorluk'un dinini kontrol etmeye çalışanların yenilgisiyle sonuçlandı; ancak verilen zayiat ve yaşanan çatışma, bu olayın İmparatorluk tarihindeki en trajik sayfalardan biri olmasına neden oldu. War of the Confessor, İmparatorluk'un dininin ne kadar önemli olduğunu ve ona karşı yapılan saldırıların ne kadar tehlikeli olduğunu gösterdi.
 
 -# Kaynaklar: *Codex: Sisters of Battle / Adepta Sororitas*; Warhammer 40,000 — Lexicanum derlemesi

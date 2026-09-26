@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/72/Ezu_Ghraile.png/revis
 
 ## Tarihçe
 
-Ezu Ghraile, Ordo Xenos'un Inquisitor'üdür; onu Jericho Reach'e getiren tek şey Tyranid'lerdir. Tyranid'leri İmparatorluk'un bugünkü en büyük tekil tehdidi olarak görür ve fırsat buldukça bunu uzun uzun anlatır. Deathwatch'ın Erioch gözetleme kalesinde konumlanmıştır — amacı bölgedeki Ordo Xenos'un Chamber Militant'ını Tyranid tehdidine karşı daha fazla kaynak ayırmaya ikna etmek olan bu figür, 'tiranların en amansız izcisi' olarak bilinir.
+Ezu Ghraile, Inquisition'ın en gizli ve en odaklanmış üyesidir; Ordo Xenos'un en deneyimli Inquisitor'u olan ve Jericho Reach'deki Tyranid'lere odaklanan Ghraile, İmparatorluğun en gizli ve en odaklanmış varlığıdır — onlar, Inquisition'ın en gizli ve en odaklanmış üyesidir. Ezu Ghraile'ın en büyük özelliği, onun odaklanmasıdır — onlar, Tyranid'leri İmparatorluğun en büyük biyolojik tehdidi olarak gören ve onlara karşı savaşan en odaklanmış Inquisitor'dur ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Ghraile, hem bir Inquisitor hem de bir avcıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Ezu Ghraile'ın en ünlü özelliği, onun Tyranid'lere odaklanmasıdır — onlar, bir xeno türünü İmparatorluğun en büyük tehdidi olarak gören en odaklanmış Inquisitor'dur ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Ezu Ghraile, Inquisition'ın en gizli ve en odaklanmış üyesidir — onlar, bir avcının ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

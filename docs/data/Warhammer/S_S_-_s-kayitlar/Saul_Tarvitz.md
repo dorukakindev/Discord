@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Saul_Tarvitz_Honour_o
 
 ## Tarihçe
 
-Saul Tarvitz — İmparatorluk tarihinde 'Lejyonunun Onuru' — Emperor's Children'ın line subayı ve 10. Bölük kaptanıydı; III. Lejyon'un orta rütbeye razı olan nadir subayıydı. Isstvan III Vahşeti'nde ihaneti sezip sağ kalanları uyarmak için kendini feda eden bu figür, 'kusursuzluğun unuttuğu onur' olarak Heresy'nin en saygın şehitlerinden biridir.
+Saul Tarvitz, Emperor's Children'ın en ünlü ve en trajik sadık üyesidir; bir Captain olan ve Horus Heresy'de kendi Legion'unun ihanetini reddeden Tarvitz, İmparatorluğun en onurlu ve en trajik kahramanlarından biridir — onlar, Emperor's Children'ın en onurlu ve en trajik üyesidir. Saul Tarvitz'in en büyük özelliği, onun sadakatidir — onlar, kendi Legion'unun ihanetini reddeden ve İmparator'a sadık kalan en onurlu savaşçıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır; bir Tarvitz, hem bir savaşçı hem de bir kahramandır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Saul Tarvitz'in en ünlü görevi, Isstvan III'teki direnişidir — onlar, kendi Legion'unun sadık unsurlarını yok etmeye çalışan Horus'a karşı savaşan ve onu durduran savaşçılardır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Saul Tarvitz, Emperor's Children'ın en ünlü ve en trajik sadık üyesidir — onlar, bir sadakatin ve İmparatorluğun en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -16,8 +16,6 @@ Nobz, Warboss'un altında yer alan iri ve deneyimli Ork'lardır; mob'lara önder
 
 ## Tarihçe
 
-Ork toplumunda en iri olan yönetir, çünkü en iri olan zaten en çok kazanmış olandır; Nobz bu fiziksel ve toplumsal yükselişin görünür katmanıdır. Goff kabileleri olağandışı sayıda Nobz barındırmasıyla bilinir. Ghazghkull Thraka'nın kendisi de mega armour kuşanmış bir Warboss olarak betimlenir ve Meganobz onun seferlerinde çekirdek rol oynar.
+Nobz, Ork toplumunun büyük ve güçlü savaşçılarıdır — bir Boy'dan daha büyük, daha güçlü ve daha kabadayı; bir Nobz'un görevi, küçük Boy'ları döverek disiplini sağlamak ve savaşta en önde durmaktır. Nobz'lar Ork hiyerarşisinin ortasıdır — Warboss'un altındaki komutanlardır ve kendi küçük ordularını (mob) yönetirler; bir Nobz'un gücü, onun boyutuna ve dişlerine bağlıdır — Ork'ta boy ve diş, rütbe demektir. Meganobz, Nobz'un zırhlı varyantıdır — mega armour (devasa Ork power armour'u) giyer ve kustom shoota veya power klaw taşır; bir Meganobz, Space Marine Terminator'ıyla dövüşebilecek tek Ork birimidir. Nobz ve Meganobz'lar Ork toplumunun hem gücü hem de sorunudur — onlar düzeni sağlar ama aynı zamanda Warboss'un tahtını tehdit eder; bir Ork ordusunun içindeki en büyük iç güç mücadelesi hep Nobz'lar arasındadır.
 
--# Kaynaklar: *Codex: Orks — 10th Edition*; *Brutal Kunnin' — Mike Brooks*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
-
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551643990196232303>, <#1551814495138091013>
+-# Kaynaklar: *Codex: Orks — 10th Edition*; *Brutal Kunnin' — Mike Brooks*; *Ghazghkull Thraka:

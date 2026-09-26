@@ -10,6 +10,6 @@ Gland Warrior, bir abhuman soyundan çok, İmparatorluk askeri biyo-mühendisli�
 
 ## Tarihçe
 
-Genetik olarak modifiye edilmiş asker; 'erkek asker' kavramının ileri hali. Chemos veya implantlarla doğmuş savaşçı — Guard'ın süper-askeri.
+Gland Warrior, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır; genetik olarak değiştirilen ve onun en gizli operasyonlarını yapan en gizli mutant olan Gland Warrior, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır. Gland Warrior'ın en büyük özelliği, onun genetikliğidir — onlar, genetik olarak değiştirilen ve onun en gizli operasyonlarını yapan en gizli mutant'dır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Gland Warrior, hem bir mutant hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Gland Warrior'ın en ünlü özelliği, onun genetik değişimidir — onlar, İmparatorluğun en gizli ve en tehlikeli mutant'ıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Gland Warrior, İmparatorluğun en gizli ve en tehlikeli mutant sınıfıdır — onlar, bir sırrın ve İmparatorluğun en büyük sırrının somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+-# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derleme

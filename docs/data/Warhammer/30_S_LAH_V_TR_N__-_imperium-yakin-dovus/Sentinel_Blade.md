@@ -19,4 +19,8 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 ## Not
 Custodes cephaneliğinin çok amaçlı üyesidir — muhafaza görevinde hem savunma hem hızlı saldırı işlevi görür.
 
+
+## Tarihçe
+
+Sentinel Blade, Adeptus Custodes'in özel güç silahıdır; Guardian Spear'ın kılıç varyantı olarak kullanılır ve bir Custodian'ın elinde, sıradan bir power sword'dan daha ölümcül ve daha zarif bir silahtır. Sentinel Blade'in bıçağı, auramite alaşımı ve disruption field ile dövülmüştür — bir Custodian'ın Sentinel Blade darbesi, bir Greater Daemon'un zırhını bile keser; ve Custodian'ın elinde, bu kılıç sadece bir silah değil, İmparator'un iradesinin uzantısıdır. Sentinel Blade'in en ünlü kullanımı, Custodian'ların yakın dövüşteki efsanevi performansıdır — bir Custodian, Sentinel Blade'i ile bir demon prince'le dövüşebilir ve kazanabilir; ve Sentinel Blade'in her darbesi, İmparatorluğun en saf savaş sanatıdır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

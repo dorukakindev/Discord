@@ -12,6 +12,6 @@ Tau, insanlık standartlarına göre genç bir ırktır, ama teknolojik ilerleme
 
 ## Tarihçe
 
-Damocles Körfezi'nde Tau'ya karşı İmparatorluk'un ilk büyük hamlesi; iki imparatorluğun ilk gerçek çarpışması. Sonuçsuz bitti — iki taraf da daha büyük düşmanlarla uğraşıyordu.
+Damocles Haçlı Seferi, İmparatorluğun T'au'ya karşı yürüttüğü en uzun ve en karmaşık seferlerden biridir. Damocles Gulf, T'au ve İmparatorluk arasındaki sınır bölgesiydi ve İmparatorluk, bu bölgeyi korumak için büyük bir askeri güç gönderdi. Sefer sırasında İmparatorluk kuvvetleri, T'au'nun gelişmiş teknolojisi ve savunma stratejisi karşısında zorlandı; birçok savaş, İmparatorluk'un kayıplarıyla sonuçlandı. Damocles Haçlı Seferi, İmparatorluk'un T'au karşısındaki en uzun süren çatışmalarından biri olarak devam etmektedir ve İmparatorluk'un xeno ırklarına karşı savunmasının ne kadar karmaşık olduğunu göstermektedir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

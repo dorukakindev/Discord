@@ -16,8 +16,4 @@ Trazyn, galaksinin tarihini eser, kalıntı ve canlı "numune" olarak toplayan t
 
 ## Tarihçe
 
-Trazyn the Infinite ('Sonsuz'), Necron Nihilakh Hanedanı'nın nemesor'udur ve galaksinin en büyük 'koleksiyoncusu'dur — Solemnace Galerisi'nde tarihin eşyalarını, orduları ve hatta yaşayan figürleri 'sergi' için dondurup saklar. 'Kleptomaniak nemesor' olarak İmparatorluk tarihinin parçalarını çalan ve 'her şeyi isteyen' tuhaf figürdür.
-
--# Kaynaklar: *The Infinite and the Divine — Robert Rath*; *Codex: Necrons — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>, <#1551815304252887041>
+Trazyn the Infinite, Necron'ların en ünlü ve en gizli koleksiyoncusudur; 'the Infinite' olarak bilinen ve Necron'ların en gizli koleksiyonunu yöneten Trazyn, Necron'ların en gizli ve en önemli varlığıdır — onlar, Necron'ların en ünlü ve en gizli koleksiyoncusudur. Trazyn'in en büyük özelliği, onun koleksiyonudur — onlar, 'the Infinite' olarak bilinen ve Necron'ların en gizli koleksiyonunu yöneten en önemli varlıktır ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Trazyn, hem bir makine hem de bir koleksiyoncudur ve onların varlığı, Necron'ların en büyük sırrının somut halidir. Trazyn'in en ünlü özelliği, onun 'the Infinite' lakabıdır — onlar, Necron'ların en gizli ve en sonsuz koleksiyoncusudur ve onların varlığı, Necron'ların en büyük sırrının kanıtıdır. Trazyn the Infinite, Necron'ların en ünlü ve en gizl

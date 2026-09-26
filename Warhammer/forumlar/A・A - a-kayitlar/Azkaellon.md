@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/95/Azkaellon.png/revisio
 
 ## Tarihçe
 
-Azkaellon, Blood Angels lejyonunun Sanguinary Guard'ının kurucusu ve lideriydi — melek primarch Sanguinius'un kişisel praetorian'ları olan elit Veteran savaşçılarının komutanıydı. Büyük Sefer'de Blood Angels ve Luna Wolves gibi diğer lejyonlarla ortak operasyonlarda kendini gösterdi. Sanguinius'un Horus'la son karşılaşmasında kendini feda ederek primarch'ına zaman kazandıran Azkaellon, 'Sanguinary Guard'ın ilk şehidi' olarak chapter'ın en kutsal figürlerinden biri oldu.
+Azkaellon, Blood Angels'ın en ünlü ve en efsanevi Sanguinary Guard'ıdır; Horus Heresy sırasında Sanguinary Guard'ın kurucusu ve lideri olan Azkaellon, İmparatorluğun en efsanevi ve en kutsal savaşçısıdır — onlar, Blood Angels'ın en ünlü ve en efsanevi üyesidir. Azkaellon'un en büyük özelliği, onun efsanesidir — onlar, Sanguinary Guard'ın kurucusu ve en ünlü üyesidir ve onların varlığı, Blood Angels'ın en büyük geleneğinin kanıtıdır; bir Azkaellon, hem bir savaşçı hem de bir efsanedir ve onların savaşı, hem fiziksel hem de mitolojiktir. Azkaellon'un en ünlü özelliği, onun Sanguinary Guard'ın kurucusudur — onlar, Blood Angels'ın en kutsal birliğinin yaratıcısıdır ve onların varlığı, Blood Angels'ın en büyük geleneğinin kanıtıdır. Azkaellon, Blood Angels'ın en ünlü ve en efsanevi Sanguinary Guard'ıdır — onlar, bir efsanenin ve Blood Angels'ın en büyük geleneğinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

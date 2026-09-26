@@ -16,8 +16,4 @@ Primaris Space Marine'lerin yaratıcısı ve Era Indomitus'un en etkili, en az g
 
 ## Tarihçe
 
-Belisarius Cawl, Adeptus Mechanicus'un on bin yaşındaki archmagos dominus'u — Mars rahiplerinin yönetici lordlarından. 13. Kara Sefer ve Terran Seferi'nde merkezi rol oynadı; Ynnari'yle birlikte Guilliman'ı diriltti ve Primaris Space Marines'in yaratıcısıdır — 'iki İmparatorluk'un mimarı' olarak Mechanicum'un en büyük yaşayan zihni.
-
--# Kaynaklar: *Belisarius Cawl: The Great Work — Guy Haley*; *Gathering Storm I: Fall of Cadia*
-
--# İlişkili kayıtlar: <#1551639038291611649>, <#1551818213782716427>, <#1551753449878724689>, <#1551812139935866891>
+Belisarius Cawl, Adeptus Mechanicus'un en büyük ve en gizli bilim insanıdır; on bin yıldır yaşayan ve İmparatorluğun en büyük teknolojik sırlarını saklayan Cawl, İmparatorluğun en önemli ve en tartışmalı varlığıdır — onlar, Adeptus Mechanicus'un en büyük ve en gizli bilim insanıdır. Cawl'ın en büyük özelliği, onun bilgisidir — onlar, İmparatorluğun en büyük teknolojik sırlarını saklayan ve Primaris Space Marine'lerini yaratan en önemli bilim insanıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Cawl, hem bir bilim insanı hem de bir efsanedir ve onların varlığı, İmparatorluğun en gizli gücünün somut halidir. Cawl'ın en ünlü özelliği, onun Primaris Space Marine'lerini yaratmasıdır — onlar, İmparatorluğun en yeni ve en güçlü savaşçılarını yaratan bilim insanıdır ve onların varlığı, İmparatorluğun en büyük umudunun kanıtıdır. Belisarius Cawl, A

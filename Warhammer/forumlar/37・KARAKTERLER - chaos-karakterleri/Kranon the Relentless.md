@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/94/Kranon_the_Relentless
 
 ## Tarihçe
 
-Kranon the Relentless, Crimson Slaughter warband'inin mevcut lideri Chaos Lord'dur; eskiden sadık Sevastus Kranon olarak bilinen bu figür, 'amansız' lakabını warband'inin neredeyse hiç durmayan saldırılarından alır. 'Bir zamanlar sadık' trajedisinin son hali olarak Dark Angels'la kişisel hesabı olan figürlerden.
+Kranon the Relentless, Crimson Slaughter'ın en ünlü ve en vahşi lideridir; 'the Relentless' olarak bilinen ve Crimson Slaughter'ın en gizli operasyonlarını yöneten Kranon, İmparatorluğun en vahşi ve en tehlikeli düşmanlarından biridir — onlar, Crimson Slaughter'ın en ünlü ve en vahşi lideridir. Kranon'un en büyük özelliği, onun vahşetidir — onlar, 'the Relentless' olarak bilinen ve Crimson Slaughter'ın en gizli operasyonlarını yöneten en vahşi liderdir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Kranon, hem bir savaşçı hem de bir katildir ve onların savaşı, hem fiziksel hem de vahşi bir mücadeledir. Kranon'un en ünlü özelliği, onun Crimson Slaughter'ın lideridir — onlar, İmparatorluğun en vahşi ve en tehlikeli warband'inin lideridir ve onların varlığı, İmparatorluğun en büyük tehdidinin kanıtıdır. Kranon the Relentless, Crimson Slaughter'ın en ünlü ve en vahşi lideridir — onlar, bir vahşetin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

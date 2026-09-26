@@ -12,6 +12,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0c/Master_of_the_Forge_X
 
 ## Tarihçe
 
-Xerill, Iron Hands'ın Master of the Forge'u olarak Deathwatch'a verildi ve Jericho Reach'teki 'Karanlık Desen'i araştıran Dead Cabal'ın üyesidir. Chapter'ının 'et zayıflıktır' öğretisinin canlı taşıyıcısı — biyonik güçlendirme ve robotik entegrasyon onun için yaşam biçimidir; 'makinenin içindeki denizci' olarak Cabal'ın teknik aklıdır.
+Xerill, Iron Hands'ın en ünlü ve en gizli Master of the Forge'udur; Deathwatch'a katılan ve Jericho Reach'deki Dark Pattern'i araştıran Xerill, İmparatorluğun en gizli ve en bilgili savaşçısıdır — onlar, Iron Hands'ın en gizli ve en bilgili üyesidir. Xerill'in en büyük özelliği, onun bilgisidir — onlar, bir Master of the Forge olarak teknolojinin en büyük ustasıdır ve onların varlığı, Iron Hands'ın en gizli gücünün kanıtıdır; bir Xerill, hem bir mühendis hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de teknik bir mücadeledir. Xerill'in en ünlü özelliği, onun Dead Cabal'in üyesidir — onlar, Jericho Reach'deki en gizli Inquisition operasyonunun üyesidir ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır. Xerill, Iron Hands'ın en ünlü ve en gizli Master of the Forge'udur — onlar, bir mühendisin ve İmparatorluğun en gizli gücünün somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

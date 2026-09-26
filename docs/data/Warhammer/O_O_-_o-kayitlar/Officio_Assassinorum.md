@@ -13,6 +13,10 @@ Officio'nun kesin kuruluş tarihi kaynaklarda net değildir. Horus Heresy anlat�
 
 Bu erken dönemden itibaren Officio'nun yapısı, birbirinden bağımsız Temple'ların bir çatı altında toplanması şeklinde sürer. Her Temple kendi yöntemlerini, geleneklerini ve sırlarını korur; ortak operasyonlar ise istisnai durumlar için saklıdır.
 
+## Tarihçe
+
+Officio Assassinorum, İmparatorluğun resmi suikast kurumudur; dört büyük tapınaktan — Callidus (şekil değiştiren), Culexus (Pariah), Eversor (vahşi savaşçı) ve Vindicare (keskin nişancı) — oluşur ve her biri farkl
+
 ## Temple'lar
 Officio'nun her Temple'ı belirli bir suikast felsefesine ve yöntemine adanmıştır. En tanınmış dört Temple şunlardır:
 

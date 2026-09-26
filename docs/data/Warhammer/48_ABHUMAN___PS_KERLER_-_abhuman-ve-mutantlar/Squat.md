@@ -10,6 +10,6 @@ Squat, modern lore'da Leagues of Votann (Votann Birlikleri) olarak yeniden tanı
 
 ## Tarihçe
 
-Squat (Homo sapiens rotundus), İmparatorluk'un kaybolmuş abhuman ırkıdır; kısa, sağlam yapılı madenci-insanlar olarak bilinirdi. Tyranid'ler tarafından 'yutuldukları' söylenir — modern galakside neredeyse yoktur; Leagues of Votann (Kin) onların torunları sayılır.
+Squat, İmparatorluğun en ünlü ve en eski abhuman ırkıdır; kısa boylu ve güçlü olan ve İmparatorluğun en eski abhuman ırkı olan Squat, İmparatorluğun en eski ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en eski abhuman ırkıdır. Squat'ın en büyük özelliği, onun eskiliğidir — onlar, İmparatorluğun en eski abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır; bir Squat, hem bir abhuman hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Squat'ın en ünlü özelliği, onun kısa boyudur — onlar, İmparatorluğun en kısa ve en güçlü abhuman ırkıdır ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Squat, İmparatorluğun en ünlü ve en eski abhuman ırkıdır — onlar, bir geleneğin ve İmparatorluğun en büyük tarihinin somut halidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

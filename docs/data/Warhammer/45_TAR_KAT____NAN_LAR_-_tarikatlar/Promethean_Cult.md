@@ -14,6 +14,4 @@ Cult'un pratik yüzü, Salamanders'ın insanseverliğini besler: 'alev, dostu ı
 
 ## Tarihçe
 
-Promethean Cult, Salamanders'ın ana dünyası Nocturne'ün ateş-yıkım-doğum üçlüsü üzerine kurulu felsefi-dini geleneğidir; ateş, self-sacrifice ve yeniden doğuşun öğretisi. Chapter'ın karakterini şekillendirir — Vulkan'ın mirası bu kültün ahlâkıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Promethean Cult, Salamanders'in en önemli ve en kutsal inanç sistemidir; onların Vulkan'a olan bağlılıklarını ve ateş ile demirciliğin kutsallığını savunan bir inançtır — onlar, Salamanders'in ruhunun ve onların geleneğinin merkezidir. Promethean Cult'un en büyük özelliği, onun ateşidir — onlar, ateşi kutsal kabul eder ve onların inancı, ateş ve demircilik üzerine kuruludur; bir Promethean Cult takipçisi, hem bir savaşçı hem de bir zanaatkârdır ve onl

@@ -15,10 +15,6 @@ Pink Horror'lar, uzun kolları ve ağız dolusu kahkahalarıyla dans eder gibi s
 
 ## Tarihçe
 
-Tzeentch'in Horror'ları, Deği��im'in Lord'unun en bol daemonik kullarıdır. Pink Horror'lar sürekli değişen pembe et yığınları olarak kahkaha atarak savaşır ve büyü fırlatır; bir Pink Horror öldürüldüğünde iki küçük Blue Horror'a bölünür ve onlar da öldüğünde Brimstone Horror'lara dönüşür — 'kesilen parçadan yenisi doğan' canlı paradoks. Tzeentch ordularının piyade çekirdeğini oluşturur ve 'değişim hiç bitmez' ilkesinin canlı kanıtıdırlar.
-
-## Teknik / Biyolojik Özellikler
-
-Warpflame'i büyü olarak kullanırlar. Blue Horror'lar da yok edildiğinde sonraki yayınlarda Brimstone Horror diye anılan, alevli ve küçük daemon çiftlerine dönüşür. Bu zincirleme dönüşüm, Tzeentch'in sonuçtan çok sürece değer verdiği anlayışının somut bir örneğidir. Ta
+Pink Horror ve Blue Horror, Tzeentch'in en ünlü ve en sinsi daemon'larıdır; Tzeentch'in en küçük ve en sinsi varlıkları olan ve onun en gizli operasyonlarını yapan en sinsi daemon'lar olan Horrors, Chaos'un en küçük ve en sinsi varlıklarıdır — onlar, Tzeentch'in en ünlü ve en sinsi daemon'larıdır. Horrors'ın en büyük özelliği, onların sinsiliğidir — onlar, Tzeentch'in en küçük ve en sinsi daemon'larıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Horror sürüsü, hem bir daemon topluluğu hem de bir sinsi güçtür ve onların varlığı, Tzeentch'in en gizli gücünün somut halidir. Horrors'ın en ünlü özelliği, onların değişimidir — onlar, bir Pink Horror öldüğünde iki Blue Horror'a dönüşen en sinsi daemon'lardır ve onların var
 
 -# İlişkili kayıtlar: <#1551647728692633643>, <#1551654107058540595>, <#1551809231580307517>, <#1551809666454134928>

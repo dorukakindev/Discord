@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/05/WS_Warlord_Shiban_Kha
 
 ## Tarihçe
 
-Shiban Khan, Büyük Sefer ve Heresy'de White Scars'ın 'Storm Kardeşliği'nin Chogoris doğumlu khan'ıydı (kaptan). Lejyonun Terra'ya doğru yaptığı efsanevi kaçış yolculuğundaki komutanlardan biri olarak bilinir; White Scars'ın 'gökyüzü sürüşü' doktrininin Heresy'deki uygulayıcılarındandı.
+Shiban Khan, White Scars'ın en ünlü ve en cesur Khan'ıdır; onların en hızlı ve en ölümcül savaşçısı olan ve White Scars'ın en büyük zaferlerini kazanan Shiban, İmparatorluğun en cesur ve en ölümcül savaşçısıdır — onlar, White Scars'ın en ünlü ve en cesur üyesidir. Shiban Khan'ın en büyük özelliği, onun hızıdır — onlar, White Scars'ın en hızlı savaşçısıdır ve onların varlığı, White Scars'ın en büyük gücünün kanıtıdır; bir Shiban komutası, bir savaşın en kritik anının en büyük avantajıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Shiban Khan'ın en ünlü özelliği, onun Khan unvanıdır — onlar, White Scars'ın en yüksek rütbeli savaşçısıdır ve onların varlığı, White Scars'ın en büyük gücünün kanıtıdır. Shiban Khan, White Scars'ın en ünlü ve en cesur Khan'ıdır — onlar, bir hızın ve White Scars'ın en büyük onurunun somut halidir.
 
 -# Kaynaklar: *Fandom wiki*

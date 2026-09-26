@@ -15,12 +15,4 @@ Sesi silaha dönüştüren, uyumsuz ve yıkıcı ses dalgalarıyla zırhı çatl
 
 ## Tarihçe
 
-Heresy döneminde Emperor's Children içinde sonik silahlar taşıyan birlikler ortaya çıktı. Long War boyunca Noise Marine'ler, duyuları bozulmuş ve yalnızca en uç seslerle uyarılabilen savaşçılar olarak bu silahlarla özdeşleşti. Fulgrim'in dönüşüyle birlikte Emperor's Children yeniden ön plana çıkmıştır.
-
-## Teknik / Biyolojik Özellikler
-
-Hafif sonic blaster'dan ağır blastmaster'a ve doom siren gibi çığlık silahlarına uzanan bir ailedir. Sesin fiziksel etkisi kadar Slaanesh'in lütfuyla ilişkilendirilen Warp etkisi de anlatılır.
-
--# Kaynaklar: *Codex: Emperor's Children*; *Codex: Chaos Space Marines — 10th Edition*
-
--# İlişkili kayıtlar: <#1551813750305198101>, <#1551754688008032321>, <#1551650243865477191>, <#1551812225570836561>
+Sonic Weapons, Emperor's Children ve Slaanesh'e adanmış warband'lerin kullandığı ses bazlı silahlardır; ultra-yüksek frekanslı ses dalgaları üreten ve hedefin beynini, iç organlarını veya zırhını titreşimle parçalayan, Slaanesh'in aşırılığının somut halidir. Sonic Weapon'ın çalışması basit ama dehşet vericidir — sonic blaster, kısa mesafede ölümcül ses patlaması yapar; blastmaster, uzun mesafede yıkıcı ses dalgası fırlatır; ve doom siren, Noise Marine'in kendi sesini silaha çevirir — bir scream, düşmanın kulaklarını ve beynini parçalar. Sonic Weapon'ların en korkulan özelliği, onların sanatıdır — Noise Marine için savaş bir performanstır ve sonic weapon, onun enstrümanıdır; bir Noise Marine'in sonic saldırısı, hem ölümcül hem de estetiktir. Sonic Weapons, Slaanesh'in aşırılığının somut halidir — onların sesi, hem silah

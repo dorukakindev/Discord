@@ -12,6 +12,6 @@ Sefer, Warmaster Slaydo (ve sonra Macaroth) önderliğinde, kutsal sayılan Sabb
 
 ## Tarihçe
 
-Sabbat Sektörü'nü Chaos'tan geri alma Haçlı Seferi; Macharius'un komutası, Gaunt's Ghosts'un sahnesi. İmparatorluk'un en uzun ve edebi seferidir.
+Sabbat Dünyaları Haçlı Seferi, İmparatorluğun Chaos'a karşı kazandığı en büyük zaferlerden biri olarak bilinir. Sabbat Dünyaları, Chaos'un uzun süredir kontrolünde olan bir bölgeydi; İmparatorluk, bu bölgeyi geri almak için büyük bir haçlı seferi başlattı. Sefer sırasında İmparatorluk kuvvetleri, Chaos'un savunma hatlarını aşarak birçok dünyayı geri aldı; bu, İmparatorluk'un Chaos'a karşı kazandığı en kayda değer zaferlerden biri oldu. Sabbat Dünyaları Haçlı Seferi, Gaunt's Ghosts gibi İmparatorluk'un en ünlü birliklerinin de dahil olduğu büyük bir operasyon olarak tarihe geçti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

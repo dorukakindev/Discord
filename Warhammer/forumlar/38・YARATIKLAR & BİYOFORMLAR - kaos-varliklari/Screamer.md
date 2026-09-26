@@ -14,7 +14,7 @@ Vatoz ya da köpekbalığı gibi yassı gövdeleri, boynuz benzeri çıkıntıla
 
 ## Tarihçe
 
-Screamer ('Tzeentch'in Çığlığı', 'Gökyüzü-Köpekbalığı'), Değişim'in tanrısının daemonik canavarıdır — eski Terra'nın okyanuslarında yaşayan manta ve vatozları andıran uçan yaratık. Nasıl havada kaldığı bilinmez ama gökyüzünde süzülüp avına dalan bu figür, 'yüzen cehennem' olarak Tzeentch'in hava avcısıdır.
+Screamer, Tzeentch'in en ünlü ve en tehlikeli daemon'ıdır; Tzeentch'in Warp'taki en hızlı ve en ölümcül yaratıklarından biri olan Screamer, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Tzeentch'in en ünlü ve en tehlikeli daemon'udur. Screamer'ın en büyük özelliği, onun hızıdır — onlar, Tzeentch'in en hızlı daemon'ıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır; bir Screamer, hem bir daemon hem de bir avcıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Screamer'ın en ünlü özelliği, onun uçmasıdır — onlar, Tzeentch'in en hızlı ve en uçan daemon'ıdır ve onların varlığı, Tzeentch'in en büyük gücünün kanıtıdır. Screamer, Tzeentch'in en ünlü ve en tehlikeli daemon'ıdır — onlar, bir hızın ve Chaos'un en büyük gücünün somut halidir.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -22,8 +22,4 @@ Hızlı uçuş, keskin dişlerle yarıp geçme, Warp akıntılarına duyarlılı
 
 ## Kanon Notu
 
-Screamer ile Disc of Tzeentch arasındaki akrabalık kaynaklarda genel çizgilerle anlatılır; ikisinin tam olarak aynı tür olup olmadığı kesin bir sınıflandırmaya bağlanmaz.
-
--# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Thousand Sons*
-
--# İlişkili kayıtlar: <#1551647728692633643>, <#1551654107058540595>, <#1551809666454134928>, <#1551809231580307517>
+Screamer ile Disc of Tzeentch arasındaki akrabalık k

@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/36/Ulkair2.jpg/revision/
 
 ## Tarihçe
 
-Ulkair, inanılmaz güçlü bir Great Unclean One'dur — Nurgle'un Greater Daemon'ı. 40. Binyılda Warp fırtınası Aurelia'yı yuttuğunda o Hive World'de bedenlendi; yenilip gezegenin derinliklerine hapsedildi. Beş yüzyıl sonra Azariah Kyras'ı — Blood Ravens'ın efendisini — yozlaştırarak Dawn of War II'nin arka plandaki ana kötüsü oldu — 'uyuyan veba efendisi' olarak Aurelia'nın laneti.
+Ulkair, Chaos'un en ünlü ve en trajik Great Unclean One'ıdır; eskiden Aurelia'yı ele geçiren ve Blood Ravens'a karşı savaşan Ulkair, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en trajik daemon'udur. Ulkair'in en büyük özelliği, onun trajedisidir — onlar, bir gezegeni ele geçiren ve onu kaybeden en trajik daemon'dur ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Ulkair, hem bir daemon hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ulkair'in en ünlü özelliği, onun Aurelia'yı ele geçirmesidir — onlar, bir gezegeni ele geçiren ve onu kaybeden en trajik daemon'dur ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Ulkair, Chaos'un en ünlü ve en trajik Great Unclean One'ıdır — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -55,4 +55,8 @@ Night Haunter ve Nostramo, *Realm of Chaos* döneminin Chaos kaynaklarında şek
 **Kaynaklar:** *Konrad Curze: The Night Haunter — Guy Haley*; *The Dark King — Graham McNeill*; *Savage Weapons — Aaron Dembski-Bowden*; *Lord of the Night — Simon Spurrier*; *Void Stalker — Aaron Dembski-Bowden*; *Codex: Chaos Space Marines — 10th Edition*
 **Çapraz:** <#1551637693933289523>, <#1551651588542828546>, <#1551816136679751721>, rogal-dorn, <#1551650243865477191>, <#1551814951365115956>, <#1551818097504157699>, <#1551816158951510069>
 
+## Tarihçe
+
+Konrad Curze, Night Lords'un en ünlü ve en trajik primarch'ıdır; Nostramo'nun — Night Lords'un ev gezegeni — en korkulan savaşçısı olan ve Night Lords'u kuran Curze, İmparatorluğun en trajik ve en korkul
+
 ​
