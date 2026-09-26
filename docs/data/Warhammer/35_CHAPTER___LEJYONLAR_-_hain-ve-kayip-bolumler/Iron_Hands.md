@@ -1,33 +1,40 @@
 https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452
 
-## Tarihçe
+-# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
+# Iron Hands
 
-Iron Hands, sadık Space Marine chapter'ıdır ve İlk Kuruluş lejyonlarından biridir; şehit primarch Ferrus Manus'un gen-seed'inden yaratıldılar. Heresy sonrası diğer Legiones Astartes gibi bölünmüş bu chapter, 'et zayıflıktır' felsefesiyle Medusa'nın sert dünyasının ürünüdür — 'demirin içindeki adam' arketipi.
+*The X Legion · Medusa'nın Oğulları · "The Flesh Is Weak"*
 
-https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Iron_Hands_Livery.jpg/revision/latest?cb=20150901172452
+Makinenin kusursuzluğuna ve etin zayıflığına inanan Legion. Mechanicum'la en sıkı bağları olan Iron Hands, Primarch'ları Ferrus Manus'un Isstvan V'te öldürülmesinden sonra bedenlerini giderek daha fazla bionikle değiştiren, duyguları zayıflık sayan soğuk bir savaş kültürüne dönüştü. Bugün Medusa'dan savaşan bir Chapter'dır; klanlar ve Iron Council tarafından yönetilir.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+- **Kategori:** First Founding Legion (sadık) → First Founding Chapter
+- **Fraksiyon:** Imperium — Adeptus Astartes
+- **Primarch:** Ferrus Manus (ölü)
+- **Anavatan:** Medusa; mobil kale-şehirler ve filolar
+- **Renkler:** Siyah zırh, gümüş/metal detaylar
+- **Motto:** "The flesh is weak" (Et zayıftır)
+- **Önemli Olaylar:** Isstvan V; Shattered Legions; Heresy sonrası yeniden yapılanma; Primaris entegrasyonu
 
-# Iron Hands — Demir Eller (X. Lejyon)
+## Kuruluş ve Medusan Dönüşüm
+X Legion, Terra'da kuruldu. Ferrus Manus'un Medusa'da bulunmasından sonra Legion, Medusa'nın sert koşullarında yetişen klan savaşçılarıyla yeniden biçimlendi. Ferrus'un Mechanicum'la kurduğu yakın ittifak, Legion'ı Crusade'in en teknoloji odaklı Legion'larından biri yaptı. Iron Hands savaşçılarının bir kısmı zaten Crusade döneminde bionik yükseltmeler kullanıyordu.
 
-"Et zayıftır" inancıyla bedenlerini biyonik parçalarla değiştiren, duygusuz ve acımasız lejyon.
+## Great Crusade
+Iron Hands, ağır zırhlı araçlar, dreadnought'lar ve sert, metodik savaş tarzıyla tanınıyordu. Legion, düşmana karşı merhametsiz, ama aynı zamanda zayıflığa ve duygusal tereddüte karşı sabırsızdı. Ferrus'un zayıflığa karşı nefreti, Legion'ın kültürüne de yansıdı.
 
-- **Kuruluş:** Lejyon (1. Kuruluş)
-- **Bağlılık:** Sadık
-- **Primarch:** Ferrus Manus
-- **Ana Dünya:** Medusa
-- **Color:** Siyah, beyaz demir el
-- **Tactics:** Bionik takviye, ağır ateş gücü, makineye duyulan saygı.
-- **Kanon Sınıfı:** A — resmî kaynak
+## Isstvan V ve Shattered Legions
+Iron Hands, Isstvan V'e gönderilen ilk dalgadaydı. Ferrus Manus, Fulgrim'e duyduğu öfkeyle plana aykırı biçimde saldırdı; ihanet eden ikinci dalga Iron Hands'i kuşattı. Primarch, Fulgrim'in elinde öldü ve Legion'ın büyük kısmı yok edildi.
 
-## Kayıt
+Hayatta kalan Iron Hands savaşçıları, Salamanders ve Raven Guard'ın kalıntılarıyla birlikte **Shattered Legions** adlı düzensiz bir kuvvet oluşturdu. Bu kuvvet Heresy boyunca gerilla savaşı yürüterek hainlere karşı intikam aradı (*The Unremembered Empire*, *The Shattered Legions* antolojisi). Medusa'da kalan Iron Hands ise Legion'ın yeniden yapılanmasını yönetti.
 
-Iron Hands, primarch'ları Ferrus Manus'un (gümüş, yaşayan metal elleriyle ünlü) sert, uzlaşmaz felsefesini en mutlak biçimde taşır: "Et zayıftır, makine güçlüdür." Volkanik anavatanları Medusa'nın acımasız kültürü, bu inancı pekiştirir.
+## Heresy Sonrası: Etin Reddi
+Primarch'ın ölümü Iron Hands'i derinden sarstı. Legion, Ferrus'un ölümünü "etin zayıflığı"nın bir sonucu olarak yorumladı ve bionik yükseltmeyi kutsayan bir kültüre yöneldi. Iron Hands savaşçıları, zamanla bedenlerinin daha büyük kısmını mekanik parçalarla değiştirir; en kıdemli savaşçılar neredeyse tamamen makineye dönüşür.
 
-Bu felsefenin kökeni bir travmadır: Isstvan V Drop Site katliamında, Ferrus Manus en güvendiği kardeşi Fulgrim tarafından başı kesilerek öldürüldü; primarch'larının bu ihanetle düşüşü, lejyonu sonsuz bir öfke ve et-nefretine kilitledi. Ferrus'un güveni (etin zayıflığı) onu öldürmüştü; bu yüzden Iron Hands, güveni ve duyguyu birer zaaf sayar.
+Codex Astartes'le birlikte Legion Chapter'lara bölündü; **Red Talons** ve **Brazen Claws** gibi Successor'lar kuruldu. Iron Hands, bir Chapter Master yerine **Iron Council** tarafından yönetilir; Chapter, Medusa'nın **klan** yapısına dayanan bölüklerle örgütlenir. Her klan, bir **Iron Father**'ın ruhani ve askeri önderliğindedir.
 
-Üyeleri yaşlandıkça ve savaştıkça, bedenlerini giderek daha fazla biyonik parçayla değiştirir; et ne kadar az kalırsa, o kadar güçlü ve "saf" sayılırlar. Duyguyu bastırır, soğuk mantığı yüceltir ve Adeptus Mechanicus ile diğer chapter'lardan çok daha derin bağlar kurarlar; "Demir Konsey" tarafından yönetilirler.
+## Era Indomitus
+Era Indomitus'ta Iron Hands, Primaris savaşçılarının Chapter'a katılmasıyla önemli bir iç tartışma yaşadı: Primaris'in teknolojik üstünlüğü Chapter'ın "etin zayıflığı" felsefesiyle uyumlu görülürken, Cawl'un gen-tohumu çalışmaları bazı Iron Fathers tarafından şüpheyle karşılandı. **Kardan Stronos** gibi figürler, Chapter'ın katı felsefesini daha dengeli bir anlayışla uyumlu hâle getirmeye çalışan liderler olarak öne çıkar.
 
-Iron Hands, gücün ve dayanıklılığın peşinde insanlığını yavaşça terk eden bir chapter'dır; acımasız, duygusuz ve son derece etkili. Onlar, kaybın ve ihanetin bir ruhu nasıl katılaştırabileceğinin örneğidir; zayıflığı affetmezler, çünkü zayıflığın bedelini primarch'larının kesik başıyla ödediler. Mantık ve metal, onların hem kalkanı hem de hapishanesidir.
+## Savaş Tarzı
+Iron Hands, ağır zırhlı araçlar, dreadnought'lar ve hesaplanmış, soğuk bir savaş tarzıyla tanınır. **Techmarine**'ler ve **Iron Father**'lar, Chapter'ın savaşlarında merkezi bir rol oynar. Chapter'ın savaş anlayışı, verimlilik, dayanıklılık ve duyguların bastırılması üzerine kuruludur.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+-# Kaynaklar: *The Unremembered Empire* — Dan Abnett; *The Shattered Legions* antolojisi; *Ferrus Manus: Gorgon of Medusa* — David Guymer; *Codex Supplement: Iron Hands*; Lexicanum

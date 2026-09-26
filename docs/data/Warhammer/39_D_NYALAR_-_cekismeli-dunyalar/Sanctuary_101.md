@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b2/Adepta_Sororitas_by_MajesticChicken.jpg/revision/latest?cb=20120409021130
+
 -# THE IMPERIAL ARCHIVE · Cekismeli Dunyalar · Kayıt
 # Sanctuary 101
 *Sanctuary 101 (Vidar Sektörü)*

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fd/Archeotech_Laspistol.jpg/revision/latest?cb=20130309021339
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Laspistol
 

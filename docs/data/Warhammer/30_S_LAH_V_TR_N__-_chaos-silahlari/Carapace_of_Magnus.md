@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/5b/55th_Kappic_Eagles.jpg/revision/latest/scale-to-width-down/1000?cb=20160828062925
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Carapace of Magnus
 

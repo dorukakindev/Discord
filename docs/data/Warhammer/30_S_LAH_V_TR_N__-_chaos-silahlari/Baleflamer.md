@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/46/Baleflamer00.png/revision/latest?cb=20130322015859
+
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Baleflamer
 

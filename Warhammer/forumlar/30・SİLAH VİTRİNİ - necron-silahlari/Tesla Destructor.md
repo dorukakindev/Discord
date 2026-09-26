@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/26/M2390165a_99120110023_Doomscythe07_873x627.jpg/revision/latest?cb=20130402102657
-
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Tesla Destructor
 

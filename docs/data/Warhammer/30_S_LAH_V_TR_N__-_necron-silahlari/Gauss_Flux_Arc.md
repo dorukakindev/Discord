@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/f/fa/Monolith.jpg/revision/latest?cb=20130331072732
+
 -# THE IMPERIAL ARCHIVE · Necron Silahlari · Kayıt
 # Gauss Flux Arc
 

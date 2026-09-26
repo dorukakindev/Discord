@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/60/The_eye_of_Terror_2.jpg/revision/latest?cb=20120917215958
-
 -# THE IMPERIAL ARCHIVE · Kronoloji · Kayıt
 # Cadia'nın Düşüşü ve 13. Kara Haçlı Sefer
 

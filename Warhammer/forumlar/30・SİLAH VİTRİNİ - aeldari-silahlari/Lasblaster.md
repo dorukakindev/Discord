@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d6/Lasblaster2.jpg/revision/latest?cb=20150315223042
-
 -# THE IMPERIAL ARCHIVE · Aeldari Silahlari · Kayıt
 # Lasblaster
 

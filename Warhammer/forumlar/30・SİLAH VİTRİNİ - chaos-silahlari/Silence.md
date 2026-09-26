@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/0b/Mortarion-WD-Sep.jpg/revision/latest?cb=20170912173015
-
 -# THE IMPERIAL ARCHIVE · Chaos Silahlari · Kayıt
 # Silence
 
@@ -18,6 +16,4 @@ Primarch Mortarion'un kişisel silahı olan dev iki elli savaş tırpanı; bir P
 
 ## Tarihçe
 
-Silence, Barbarus'un zehirli zirvelerinden Terra'nın kuşatmasına, oradan Plague Planet'in tahtına dek Mortarion'la birlikte yürüdü. On üçüncü Kara Haçlı Seferi sırasında Ultramar'ı istila eden Ölüm Lordu'nun elinde hâlâ aynı tırpan vardı; Nurgle'un pisliğinin ortasında bile ağzı hep olduğu gibi lekesiz ve keskindir.
-
--# Kaynaklar: *Codex: Death Guard*; Horus Heresy — Legiones Astartes profilleri; Lexicanum — "Silence (Death Guard)"
+Silence (Mortarion'un tırpanı), Chaos'un en ünlü ve en korkulan relic'idir; Mortarion'un — Death Guard'ın primarch'ı — kullandığı ve onun en büyük savaşlarının simgesi olan bir tıpandır — onlar, Chaos'un en ünlü ve en korkulan silahıdır. Silence'ın en büyük özelliği, onun gücüdür — onlar, bir primarch'ın en güçlü silahıdır ve onların varlığı, Nurgle'un en büyük gücünün kanıtıdır; bir Silence kullanıcısı, hem bir savaşçı hem de bir hastalık taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Silence'ın en ünlü özelliği, onun Mortarion'un silahıdır — onlar, bir primarch'ın en ünlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Silence, Chaos'un en ünlü ve en korkulan relic'idir — onlar, bir primarch'ın gücünün ve Nurg

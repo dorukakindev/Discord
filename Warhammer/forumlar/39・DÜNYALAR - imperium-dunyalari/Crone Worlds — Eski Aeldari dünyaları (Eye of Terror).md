@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e9/Eye_of_Terror.jpg/revision/latest?cb=20100611064025
-
 -# THE IMPERIAL ARCHIVE · Imperium Dunyalari · Kayıt
 # Crone Worlds — Eski Aeldari dünyaları (Eye of Terror)
 

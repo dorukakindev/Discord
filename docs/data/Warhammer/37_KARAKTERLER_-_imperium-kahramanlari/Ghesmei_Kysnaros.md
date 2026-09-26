@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Inquisiton.png/revision/latest/scale-to-width-down/1000?cb=20120903081128
+
 -# THE IMPERIAL ARCHIVE · KAYIT · Kayıt
 
 # Ghesmei Kysnaros

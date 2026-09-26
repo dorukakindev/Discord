@@ -3,21 +3,43 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Blood_Angels_Livery.j
 -# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # IX — Blood Angels
 
-Asalet, sanat ve kusursuz görünüşün ardında korkunç bir kalıtım taşıyan Legion. Gene-seed'lerindeki Flaw, Chapter'ın bütün tarihini bir yüce ülkü ile bir lanet arasına gerer.
+*The IX Legion · The Angels · Sanguinius'un Oğulları*
 
-- **Kategori:** First Founding Legion / Chapter — <#1551629143723081848>
-- **Fraksiyon:** Adeptus Astartes (sadık)
-- **Dönem:** Great Crusade'den Era Indomitus'a
-- **Köken:** Primarch'ı radyasyonla kavrulmuş Baal'de yetişen Sanguinius'tur.
-- **Teknik / Biyolojik Özellikler:** Red Thirst ve Black Rage; Sanguinary Priest'lerin koruduğu gene-seed; Sanguinary Guard.
-- **Bilinen Kullanıcılar / Operatörler:** Blood Angels ve ardılları (ör. Flesh Tearers, Lamenters).
-- **Önemli Olaylar:** Signus; Siege of Terra; Devastation of Baal.
-- **Kanon Notu:** Black Rage'in nedeni evren içinde Sanguinius'un son anlarının anısına bağlanır; mekanizması tek bir açıklamaya indirgenmez.
+Güzellikleri, soyluluğu ve sanatlarıyla tanınan; ama gen-tohumlarında kana susamışlık ve Primarch'larının ölümünün anısını taşıyan Legion. Great Crusade'de "melekler" olarak anılan Blood Angels, Heresy'de Terra'yı savunurken Primarch'larını kaybetti. Bugün Baal'dan savaşan bir Chapter'dır; Red Thirst ve Black Rage lanetleriyle mücadele ederken Imperium'un en önemli savunucularından biri olmaya devam eder.
 
-## Tarihçe
+- **Kategori:** First Founding Legion (sadık) → First Founding Chapter
+- **Fraksiyon:** Imperium — Adeptus Astartes
+- **Primarch:** Sanguinius (ölü)
+- **Anavatan:** Baal (kale-manastır Arx Angelicum); savaşçılar Baal Primus ve Baal Secundus'tan
+- **Renkler:** Kan kırmızısı zırh, siyah ve altın detaylar; Death Company siyah zırh
+- **Chapter Master:** Commander **Dante** (Regent of Imperium Nihilus)
+- **Önemli Olaylar:** Signus; Terra Kuşatması; Sanguinius'un ölümü; Devastation of Baal; Operation Imperator (11. edisyon)
 
-Blood Angels (IX Legion), Sanguinius'un oğullarıdır; asalet, sanat ve ölümsüz trajedi üzerine kurulu ve Horus Heresy'de en büyük kaybı yaşayan Legion'dur — onların savaşı, hem güzellik hem de lanettir. Blood Angels'ın en büyük özelliği, onların ikilemidir — onlar, İmparatorluğun en asil savaşçılarıdır ama içlerinde Red Thirst ve Black Rage taşırlar; bir Blood Angel, hem en zarif hem de en vahşi savaşçıdır ve onların savaşı, hem bir dans hem de bir katliamdır. Blood Angels'ın en büyük trajedisi, Sanguinius'un ölümüdür — onların primarch'ı, Horus'u durdurmak için kendini feda etti ve onun ölümü, Chapter'ı sonsuza dek yaraladı; ve o günden beri, her Blood Angel, Sanguinius'un ölümünün psişik mirasını taşır. Blood Angels, İmparatorluğun en asil ve en trajik Chapter'ıdır — onlar, güzelliğin ve acının birleşimidir.
+## Kuruluş ve Legion'ın Sırrı
+IX Legion, Terra'da kuruldu. Terra döneminde Legion'ın savaşçıları arasında kana karşı açlık ve kontrolsüz öfke gibi karanlık eğilimler görülüyordu. Sanguinius'un Baal Secundus'ta bulunmasından sonra Legion, Primarch'ın gen-tohumuyla yeniden biçimlendi ve Baal'ın kabilelerinden savaşçı alarak büyüdü. Sanguinius, Legion'ın bu karanlık kusurunu biliyordu ve onu disiplinle bastırdı; Legion bu sırrı Crusade boyunca sakladı.
 
--# Kaynaklar: *Fear to Tread — James Swallow*; *The Devastation of Baal — Guy Haley*; *Codex: Blood Angels*
+## Great Crusade
+Blood Angels, Crusade'in en soylu ve en parlak Legion'larından biriydi. Savaşçıları güzellikleri, sanatları ve zanaatları ile tanınıyordu; Legion'ın zırhları ve silahları sanat eserleri gibi süslüydü. Blood Angels, hızlı saldırı, zıplama paketleri ve yakın dövüşte ustaydı.
 
--# İl
+## Signus ve Heresy
+Horus, Sanguinius'u ve Legion'ını **Signus Kümesi**'ne gönderdi; orada Word Bearers'ın hazırladığı daemonik bir tuzakla karşılaştılar. Bu savaşta Legion'ın gizli kusuru Warp'ın etkisiyle patlak verdi ve Blood Angels'ın bir kısmı kana susamış bir öfkeye kapıldı (*Fear to Tread*). Legion, sonrasında Imperium Secundus döneminde Ultramar'da bulundu.
+
+Terra Kuşatması'nda Blood Angels, Imperial Palace'ın savunmasında kritik bir rol oynadı. **Eternity Wall Spaceport**'un savunması ve Sanguinius'un Ka'Bandha'yı yenmesi, Legion'ın en büyük zaferlerindendi. Ancak Sanguinius, Vengeful Spirit'te Horus tarafından öldürüldü.
+
+## Red Thirst ve Black Rage
+Sanguinius'un ölümü, Legion'ın gen-tohumunda kalıcı bir iz bıraktı. **Red Thirst**, kana karşı duyulan ve savaş sırasında kontrolden çıkabilen bir açlıktır. **Black Rage** ise savaşçıların Sanguinius'un son anlarının anısına kapılması ve kendilerini Primarch'ları sanarak kontrolsüz bir öfkeyle savaşmasıdır. Black Rage'e kapılan savaşçılar **Death Company**'ye katılır ve ölümüne savaşa gönderilir. Bu lanetler, Blood Angels'ın ve tüm Successor'larının on bin yıllık tarihinin merkezindedir.
+
+## Successor'lar
+Legion, **Second Founding**'le Blood Angels, **Flesh Tearers**, **Angels Encarmine**, **Angels Sanguine** ve **Angels Vermillion** gibi Chapter'lara bölündü. Sonraki kuruluşlarla **Blood Drinkers**, **Lamenters**, **Knights of Blood** ve daha birçok Chapter kuruldu. Bu Chapter'ların hepsi Red Thirst ve Black Rage'i farklı düzeylerde taşır.
+
+## Devastation of Baal ve Era Indomitus
+M41'in sonlarında Tyranid **Hive Fleet Leviathan**, Baal'a saldırdı. Blood Angels ve Successor'ları Baal'ı savunmak için bir araya geldi; savunma umutsuz görünürken Great Rift'in açılması ve Guilliman'ın gönderdiği takviyeler Baal'ı kurtardı. Bu savaşta birçok Successor Chapter yok oldu.
+
+**Commander Dante**, Guilliman tarafından **Regent of Imperium Nihilus** olarak atandı ve Great Rift'in karanlık tarafında Imperium'un savunmasını yönetir. Primaris savaşçıları Chapter'a katıldı; Guilliman'ın getirdiği yeni gen-tohumu teknolojisinin Red Thirst ve Black Rage'i azaltıp azaltmadığı tartışmalıdır.
+
+11. edisyonun Armageddon anlatısında Blood Angels, Ork Warboss **Wazdakka Gutsmek**'in istilasına uğrayan Armageddon'u kurtarmak için birçok Chapter'dan oluşan **Operation Imperator** adlı haçlı seferine öncülük eder.
+
+## Savaş Tarzı
+Blood Angels, zıplama paketli saldırılar, yakın dövüş ve hızlı saldırılar üzerine kurulu bir savaş tarzına sahiptir. **Sanguinary Guard**, Chapter'ın en seçkin savaşçılarıdır; **Sanguinary Priest**'ler, Red Thirst'e karşı savaşçıları destekler.
+
+-# Kaynaklar: *Fear to Tread* — James Swallow; *The Devastation of Baal* — Guy Haley; *Dante* — Guy Haley; *Codex Supplement: Blood Angels*; Warhammer 40,000 11. edisyon Armageddon anlatısı; Wargamer, "Warhammer 40k 11th edition"; Lexicanum

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d8/Grimnar_war.png/revision/latest/scale-to-width-down/1000?cb=20140817222728
+
 -# THE IMPERIAL ARCHIVE · Imperium Yakin Dovus · Kayıt
 # Wolf Claws of Logan Grimnar
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/96/Vraks_System.jpg/revision/latest?cb=20150324095302
+
 -# THE IMPERIAL ARCHIVE · KAYIT · Kayıt
 
 # Sa'ra'am

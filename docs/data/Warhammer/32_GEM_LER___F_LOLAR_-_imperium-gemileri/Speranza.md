@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/41/OmnissiahsVictory.jpg/revision/latest?cb=20130409051244
+
 -# THE IMPERIAL ARCHIVE · Gemiler & Filolar · Kayıt
 
 # Speranza

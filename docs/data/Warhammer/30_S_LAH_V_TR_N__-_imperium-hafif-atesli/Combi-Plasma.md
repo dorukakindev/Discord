@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b1/YmyrConglomerateKahl.jpg/revision/latest?cb=20230421135145
+
 -# THE IMPERIAL ARCHIVE · Imperium Hafif Atesli · Kayıt
 # Combi-Plasma
 

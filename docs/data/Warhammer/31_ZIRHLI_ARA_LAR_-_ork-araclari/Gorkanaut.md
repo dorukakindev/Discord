@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/9/9e/Nekkruncha.jpg/revision/latest?cb=20170502135707
+
 -# THE IMPERIAL ARCHIVE · Zırhlı Araçlar · Kayıt
 
 # Gorkanaut

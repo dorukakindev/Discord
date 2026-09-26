@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/6/65/Simeon_Solomon%2C_King_Solomon%2C_1872_or_1874%2C_NGA_76152_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE IMPERIAL ARCHIVE · KAYIT · Kayıt
 
 # Solomon
