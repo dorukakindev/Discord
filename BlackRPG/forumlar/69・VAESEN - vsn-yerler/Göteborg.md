@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/9/97/G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Göteborg — Gothenburg (Göteborg)

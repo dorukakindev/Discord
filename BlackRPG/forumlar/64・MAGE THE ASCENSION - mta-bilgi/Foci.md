@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/0/09/Henri_Focillon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
 # Foci — Foci, Büyüyü Odaklamak İçin Kullanılan Araçlar

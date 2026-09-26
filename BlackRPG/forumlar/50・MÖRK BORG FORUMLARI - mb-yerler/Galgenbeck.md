@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/a/a5/Go-galgenberg-b6-2001-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Galgenbeck — Darağacı Şehri, Çürüyen Dünyanın Kalbi

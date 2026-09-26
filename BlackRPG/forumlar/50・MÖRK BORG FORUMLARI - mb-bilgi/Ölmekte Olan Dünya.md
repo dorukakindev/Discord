@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Milliyet_1930_mayis_25.pdf/page1-1280px-Milliyet_1930_mayis_25.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Ölmekte Olan Dünya

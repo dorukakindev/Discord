@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/b/bb/Mind_upload4.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · CALL OF CTHULHU · Kayıt
 
 # Mind Transfer — Zihin Aktarımı (Yith'in Yöntemi)

@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Godey%27s_Lady%27s_Book_Vol._XVI.pdf/page1-500px-Godey%27s_Lady%27s_Book_Vol._XVI.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE TRENCH ARCHIVE · 40・GELECEK / DUYURULMUŞ LORE · Kayıt
 
 # Empty Book Numbers — Boş Kitap Numaraları — Rezerve Bölümler

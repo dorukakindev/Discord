@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/4/46/Vulgar_bush_brown_%28Bicyclus_vulgaris%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · MAGE: THE ASCENSION · Kayıt
 
 # Vulgar Büyü — Aleni Büyü, Gerçekliğe Meydan Okuyan Sihir

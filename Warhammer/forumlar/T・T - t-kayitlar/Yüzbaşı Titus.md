@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ulus_1935_subat_11.pdf/page1-1280px-Ulus_1935_subat_11.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 # Yüzbaşı Titus
 
