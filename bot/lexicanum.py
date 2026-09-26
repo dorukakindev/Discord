@@ -158,7 +158,8 @@ async def istatistik(inter):
     for gid, m in GUILDS.items():
         n = sum(1 for r in INDEX if str(r['g']) == gid)
         e.add_field(name=m['name'], value=f'{n} kayıt', inline=True)
-    e.set_footer(text=f'Toplam {len(INDEX)} kayıt')
+    fts = ' · gövde araması açık' if os.path.exists(_FTS_DB) else ''
+    e.set_footer(text=f'Toplam {len(INDEX)} kayıt{fts}')
     await inter.response.send_message(embed=e)
 
 
