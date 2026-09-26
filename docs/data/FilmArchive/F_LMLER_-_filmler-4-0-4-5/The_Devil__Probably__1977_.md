@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/8y00J2rVtxHntKMukkkzsYKQORe.jpg
 > **Yönetmen:** Robert Bresson · **Tür:** Dram · **Süre:** 97 dk · **Dil:** Fransızca · **Yıl:** 1977
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Charles drifts through politics, religion and psychoanalysis, rejecting them all. Once he realises the depth of his disgust with the moral and physical decline of the society he lives in, he decides that suicide is the only option...
+Parisli genç Charles, çevre kirliliği, din ve siyaset arasında 'dünyanın çürüklüğünü' görür; hiçbir çözümü 'denemeyerek' intiharı tek 'doğru cevap' olarak seçer ve birini kendini öldürmeye ikna eder.
 
 ### Puanlar
 IMDb **7.0/10** · Letterboxd **3.85/5** · nMDB **73.5**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Devil, Probably (1977) · Derin Analiz
 # Ayrıntılı konu
-Charles, Paris'te yaşayan zeki ama amaçsız bir gençtir; arkadaşlarıyla ideoloji tartışır, kiliseye girer, kadınlarla yatar ve sonunda bir arkadaşına 'beni öldür' der. Arkadaşı onu intihar gibi gösterilen bir cinayetle vurur. Charles'ın hayatı nihilizmin günlüğüdür: hiçbir şeye inanmaz ama hiçbir şeyi de reddetmez — sadece varolmaktadır.
+Bresson'un 'modern hayat' filmi: Charles, genç bir Parisli — entelektüel, hassas, 'dünya'ya uymaz. Çevresindeki herkes 'çözüm' arar: çevrecilik, din, siyaset, psikanaliz; Charles hepsini 'denemez' — sadece 'görür'. Arkadaşlarıyla 'apokaliptik' tartışmalar yapar, sevgilisini kaybeder, sonunda 'intihar' için bir 'plan' yapar — birini 'kendisini öldürmeye' ikna eder çünkü 'kendini öldüremez'. Son sahne: 'Doğru' cevabın olmadığı bir dünyada 'ölüm' tek 'doğru' cevaptır.
 
 # Tez
-Varoluşsal boşluk, ölümü değil yaşamayı zorlaştırır — Charles'ın intiharı 'neden' değil, 'neden olmasın' sorusunun cevabıdır. Bresson'un karanlık jesti: özgürlük ölümdür ama ölüm de özgürlüğün kanıtıdır.
+Umutsuzluk, dünyanın 'aşırı' bilinçlenmesidir — Bresson'ın tezi: Charles 'deli' değil 'fazla açık'tır; çevre kirliliği, savaş, tüketim — hepsi 'gerçek'tir ve Charles bunları 'görür'. 'Normal' insanlar 'görmez' — Charles'ın 'hastalığı' farkındalıktır.
 
 ## Mekanizma
-Doğaçlama diyaloglar ve şehir manzaraları Charles'ın kopukluğunu biçimlendirir; filmin finalindeki güneş ışığı 'devam' hissi verir ama Charles artık yoktur.
+Bresson'un 'model' oyunculuğu — mimik, 'performans' yok — Charles'ı 'seyirci' yapar; Paris'in 'günlük' sahneleri (metro, park, kafe) 'apokaliptik' söylemle çelişir. 'Bilim' sahneleri — laboratuvar, ders — 'bilgi'nin 'boşluğu'nu gösterir; son sahnede 'el sıkışma' — ölüm 'sözleşme' gibidir.
 
 ## Kişisel uygunluk
-Nihilizm ve varoluşsal kriz senin profiline doğrudan hitap.
+Umutsuzluk ve modern hayat eleştirisi profiline çok güçlü uyuyor — Bresson'ın en 'genç' filmi.
 
 -# THE FILM ARCHIVE · The Devil, Probably (1977) · Notlar
 ### Tartışmalar & Notlar

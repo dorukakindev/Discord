@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/v7nEBG4ulpGol1QKC5EHnLomFa.jpg
 > **Yönetmen:** Andrei Tarkovsky · **Tür:** Dram · **Süre:** 149 dk · **Dil:** Fransızca, İngilizce, İsveççe · **Yıl:** 1986
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: felsefi yapı 10/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Gazeteci, filozof ve emekli aktör olan Alexander, nükleer savaşın başladığı duyurulduğunda arkadaşları ve ailesiyle birlikte doğum gününü kutluyor.
+Tarih profesörü Alexander, doğum gününde nükleer savaşın başladığını öğrenir; dünyayı kurtarmak için Tanrı'ya 'her şeyi' — evi, aileyi, hatta oğlunu — adar ve adasını ateşe verir.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.28/5** · nMDB **82.3**

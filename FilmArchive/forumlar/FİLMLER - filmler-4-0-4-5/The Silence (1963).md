@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **5** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Silence (1963) · Derin Analiz
 # Ayrıntılı konu
-Ester, Anna ve Johan (Anna'nın oğlu) bir tren yolculuğunda yabancı bir ülkede durur; Ester hastadır ve yalnızdır, Anna ise duygusal olarak uzaktır. Johan koridorda kaybolur ve 'Juda' kelimesini görür — filmin başlığı buradan gelir. İki kadın iletişim kuramaz: Ester içine kapanır, Anna dışa vurur ama ikisi de birbirine ulaşamaz.
+Bergman'ın 'Tanrı'nın sessizliği' üçlemesinin sonu: Ester ve Anna — iki kız kardeş — ve Anna'nın oğlu Johan, 'yabancı' bir ülkede tren yolculuğu yaparlar; 'hastalık' ve 'yabancılık' arasında 'sıkışırlar'. Ester 'hasta'dır — 'odada' kalır; Anna 'dışarı' çıkar ve 'buluşur'; Johan 'izler' — 'dil' 'bilinmez'dir. 'Tank' 'geçer' — 'savaş' 'yakın'dır ama 'görünmez'dir.
 
 # Tez
-İletişim yokluğu, Tanrı'nın yokluğunun insan formudur — Ester ve Anna'nın sessizliği, İsa'nın 'neden beni terk ettin' sorusunun cevabıdır. Bergman'ın üçlemesinin en karanlığı: dil, bağın değil bariyerin aracıdır.
+İletişim, 'dil'in 'yokluğunda' 'denenir' — Bergman'ın tezi: 'kardeşlik' 'sevgi' değil 'rekabet'tir; 'yabancı' ülke 'içsel' 'yabancılaşma'nın 'ayna'sıdır. 'Tanrı' 'sessiz'dir çünkü 'insan' 'konuşamaz'.
 
 ## Mekanizma
-Tren yolculuğu ve yabancı şehir metaforu iletişimsizliği fizikselleştirir; Ester'ın ölümü sessizliğin sona ermesi değil, onunla yüzleşmedir. Johan'ın kayboluşu çocukluğun masumiyetini kaybıdır.
+'Tren' — 'hareket' ile 'durgunluk' — 'geçiş' 'an'ıdır; 'otel' 'odaları' — 'karanlık' ve 'bunaltıcı' — 'içsel' 'hücre'dir. 'Johan'ın 'gözü' — 'çocuk' — 'masum' ama 'kayıp'tır; 'cüce' 'troupe' — 'absürd' — 'dünya'nın 'saçmalığı'dır.
 
 ## Kişisel uygunluk
-İletişimsizlik ve Tanrı'nın sessizliği profiline tam uyuyor.
+Yabancılaşma ve 'sessiz' 'Tanrı' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Silence (1963) · Notlar
 ### Tartışmalar & Notlar

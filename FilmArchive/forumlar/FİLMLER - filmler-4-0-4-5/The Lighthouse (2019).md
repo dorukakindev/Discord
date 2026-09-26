@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg
 > **Yönetmen:** Robert Eggers · **Tür:** Dram, Fantastik, Korku · **Süre:** 109 dk · **Dil:** İngilizce · **Yıl:** 2019
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve psikolojik mekanizma 8/10.
 
-1890'larda iki deniz feneri bekçisi, fırtınalı bir adada dört haftalık vardiyaya kapanır. Tuz, fırtına, martılar ve 'ışığın' sırrı iki adamı paranoya, hakimiyet savaşı ve mitolojik bir deliliğe sürükler.
+İki fenercinin ıssız adada kapanışı: sis, viski, martı laneti ve 'yasak ışık'; Eggers'ın siyah-beyaz karesinde izolasyon iç karanlığı açığa çıkarır ve deniz tanrısı cezalandırır.
 
 ### Puanlar
 IMDb **7.4/10** · Letterboxd **4.00/5** · nMDB **77.0**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · The Lighthouse (2019) · Derin Analiz
 # Ayrıntılı konu
-İki deniz feneri bekçisi (Thomas Wake ve Ephraim Winslow) ıssız bir adada görev yapar; giderek birbirlerine ve kendilerine yabancılaşırlar. Deniz, çıplaklık, martılar ve 'ışık' onları tüketir — Ephraim'in son sahnede ışığı görmesi hem özgürlük hem deliliktir. Film iki adamın adaçayı içtikçe delirmesinin alegorisidir.
+Robert Eggers'in 'deniz' 'deliliği': Ephraim ve Thomas — 'fener' 'tutucu'ları — 'ıssız' 'ada'da 'kapanır'. 'Sis', 'fırtına', 'martı' — 'dünya' 'düşman'dır; 'viski' 'tüketimi' ve 'karanlık' 'sırlar' 'gerilim'i 'artırır'. Ephraim 'martı' 'öldürür' — 'lanet' 'başlar'; 'fener'in 'ışığı' — 'yasak' — 'görülür' ve 'delilik' 'tamamlanır'.
 
 # Tez
-Yalnızlık, insanı mitolojiye geri döndürür — deniz kızları, dev kraken, 'ışık' hepsi Prometheus'un ateşinin tekrarıdır. Eggers'in sorusu: erkeklik, doğaya karşı savaşta mı yoksa doğayla birleşmede mi bulunur?
+İzolasyon, 'iç' 'karanlığı' 'açığa' 'çıkarır' — Eggers'ın tezi: 'fener' 'güç' 'sembolü'dür — 'yukarı' 'çıkmak' 'delirmek'tir; 'deniz' 'tanrı'dır ama 'cezalandırıcı'dır. 'Erkek' 'gururu' — 'iş' ile 'kontrol' — 'kendi' 'sonunu' 'yazar'.
 
 ## Mekanizma
-Siyah-beyaz 1.19:1 çerçeve (tüp gibi) klaustrofobiyi biçimlendirir; deniz sesi ve rüzgâr diyalogdan daha çok konuşur. İki aktörün fiziksel çöküşü (Yoojung Lee'nin makyajı) gerçeklik sınırını yıkar.
+'Siyah-beyaz' ve 'dar' 'kadraj' — 'kapanma' 'görsel'dir; 'ses' — 'sis' 'düdüğü', 'rüzgar', 'çığlık' — 'dünya' 'konuşur' ama 'anlaşılmaz'. 'Tentakül' 'hayali' — 'deniz' 'canavarı' — 'psikolojik' 'korku'dur; 'Prometheus' 'referansı' — 'ateş' 'çalmak' 'yasak'tır.
 
 ## Kişisel uygunluk
-Mitoloji ve izolasyon profiline çok güçlü uyuyor.
+İzolasyon ve 'deniz' 'kâbusu' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Lighthouse (2019) · Notlar
 ### Tartışmalar & Notlar

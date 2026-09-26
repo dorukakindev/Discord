@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 > **Yönetmen:** Yorgos Lanthimos · **Tür:** Komedi, Dram, Romantik · **Süre:** 141 dk · **Dil:** İngilizce · **Yıl:** 2023
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve psikolojik mekanizma 7/10.
 
-Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.
+Bilim adamı Godwin Baxter tarafından 'yeniden doğmuş' Bella Baxter, avukat Duncan'la kaçıp Avrupa'yı gezer; seks, felsefe ve işçi sınıfıyla 'öğrenir' ve sonunda kendi kimliğini kendi yazar.
 
 ### Puanlar
 IMDb **7.7/10** · Letterboxd **3.91/5** · nMDB **77.6**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Poor Things (2023) · Derin Analiz
 # Ayrıntılı konu
-Bella Baxter, Dr. Godwin Baxter tarafından 'yeniden yaratılır' — ölü bir kadın ve bebek beyninin karışımıdır. Onu kaçıran avukat Duncan Wedderburn ile dünyayı gezer, cinsel ve entelektüel özgürlüğü keşfeder ve sonunda eski kocasını (Alfie) öldürüp Baxter'ın yerine geçer. Bella'nın 'öğrenmesi' toplumun kurallarını değil, kendi bedenini tanımasını içerir.
+Lanthimos'un 'Frankenstein'ı: Bella Baxter, 'yeniden doğmuş' kadın — bilim adamı Godwin Baxter onu 'kurtarır' ama 'çocuk' beyinli başlar. Bella 'kaçar' — avukat Duncan Wedderburn ile 'Avrupa' turu — ve 'özgürleşir': seks, kitap, felsefe, 'işçi' sınıfı. 'Baxter'ın 'yeni' deneyi ve 'kocası' Alfie'nin 'dönüşü' onu 'geri çağırır' ama Bella 'kendi' 'kimliğini' 'kurar' — 'özgür' kadın olur.
 
 # Tez
-Kadınlık, erkeklerin tanımladığı değil kendinin tanımladığı şeydir — Bella'nın bedeni onun hakikatıdır ama zihni de aynı derecede serbesttir. Lanthimos'un sorusu: özgürlük, ahlakın icadı mıdır?
+Kadın, 'erkek'in 'yaratımı' değil 'kendi'nin 'yaratıcısı'dır — Lanthimos'un tezi: Bella'nın 'büyümesi' 'erkekler'in 'dünyası'na 'karşı'dır; 'özgürlük' 'öğrenilmez' 'yaşanır'. 'Güzellik' ve 'çirkinlik' 'aynı' bedende 'birleşir' — Bella 'kendi' 'kurallarını' 'yazar'.
 
 ## Mekanizma
-Steampunk estetik ve grotesk mizah toplumun 'normalliğini' karikatürize eder; Bella'nın kelime dağarcığının büyümesi filmin zamanlamasıdır.
+Balık gözü lensler ve 'grotesk' renkler — 'yaratık' 'dünyası' — 'fantastik' ile 'gerçek' arasındadır; Emma Stone'un 'fiziksel' performansı — 'yürüyüş', 'yemek', 'dans' — 'çocuk' ile 'kadın'ı 'birleştirir'. 'Seks' sahneleri 'politik'tir — 'zevk' 'özgürlük'tür.
 
 ## Kişisel uygunluk
-Feminist-felsefi derinlik ve gotik mizah profiline güçlü uyuyor.
+Feminist bilimkurgu ve 'yaratım' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Poor Things (2023) · Notlar
 ### Tartışmalar & Notlar

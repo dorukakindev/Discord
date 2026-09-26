@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Aguirre, the Wrath of God (1972) · Derin Analiz
 # Ayrıntılı konu
-
-Aguirre, the Wrath of God (1972), Werner Herzog'un bir İspanyol keşif ekibinin Amazon'da 'El Dorado'yu aramasını ve Lope de Aguirre'nin delirerek 'Wrath of God' ilan etmesini anlattığı filmidir. 1560'ta bir İspanyol keşif ekibi, Amazon nehri boyunca ilerler; Aguirre, lideri devirerek kendi 'hükümdarlığını' ilan eder. Ekibin çürümesi — sıtma, oklar, açlık — Aguirre'nin deliliğiyle paraleldir; 'El Dorado', fiziksel bir şehir değil, deliliğin varış noktasıdır. Aguirre'nin 'ben Wrath of God'ım' iddiası, insanın 'tanrı' olma arzusunun son noktasıdır; finalde, ölü bir maymunun bakışıyla son bulur.
+1560 — Peru'da bir İspanyol seferi El Dorado'yu arar; Aguirre, asi bir subay, isyan edip 'yeni imparatorluğunu' kurar. Amazon nehrinde fil. ilerler: sal, atlar, kızılderili rehberler, hastalık, açlık. Aguirre herkesi birbiri ardına kaybeder; sonunda salda tek başına kalır — etrafında maymunlar — ve 'Ben Tanrı'nın gazabıyım' der. Klaus Kinski'nin gözleri delirticidir; Herzog 'saf manyak'ı tarihi çılgınlığa çevirir.
 
 # Tez
+İktidar hırsı, kendi sonunu üretir — Aguirre'nin 'yeni dünyası' sadece onun ölümüdür; Herzog'un tezi: 'medeniyet' vahşi doğada çöker çünkü düzenin hammaddesi insan zihniyetidir — doğa onu 'sapırılmış' kılar. Aguirre, fatih değil 'virüs'tür: girdiği her gruba delilik bulaştırır.
 
-Aguirre, the Wrath of God (1972), insanın 'tanrı' olma arzusunun deliliğe nasıl dönüştüğünü ve 'keşif' kavramının aslında 'yok oluş' olduğunu sorgulayan bir koloniyal trajedi denemesidir.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Aguirre'nin 'delilik'idir: 'El Dorado'yu arama arzusu, onu 'tanrı' yapar. Herzog, Amazon'un 'doğal' vahşetiyle ekibin 'medeni' çürümesini paraleller — Aguirre'nin 'hükümdarlığı', doğanın insanı nasıl ezdiğinin kanıtıdır. 'Wrath of God', Aguirre'nin 'güç' arzusunun teolojik ifadesidir; ama 'tanrı' olmak, 'insan' olmamaktır.
+## Mekanizma
+Herzog'un kamerası doğal ışıkla ve gerçek tehlikelerde çekilir — sallar gerçekten devrilir, atlar gerçekten dalar; filmin 'belgesel' enerjisi senaryonun ötesine geçer. Aguirre'nin son sahnede maymunlarla 'konuşması' — 'Ben, Tanrı'nın gazabı, kendi kızımla evleneceğim' — deliliğin 'hükümranlık ilanı'dır. Popol Vuh'un müziği nefes gibidir — tarihi hâlâ sürmektedir.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (tanrı-arzu, koloniyalizm-delilik) ve sembolik katman (nehir, El Dorado, maymun) tam puan; Aguirre arketipik ama psikolojik olarak derindir.
+İktidar deliliği ve doğa kaosu profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Aguirre, the Wrath of God (1972) · Notlar
 ### Tartışmalar & Notlar

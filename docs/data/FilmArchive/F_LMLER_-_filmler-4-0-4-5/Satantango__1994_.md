@@ -19,16 +19,16 @@ Düşünsel **9** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Satantango (1994) · Derin Analiz
 # Ayrıntılı konu
-Komünün parası kaybolur; köylüler sürpriz bir hareketle 'geri döndü' denen Irimiás'ı bekler. Irimiás onlara bir tarım projesi vaadiyle parayı toplar, köyü dağıtır ve herkesi bir şehre götürür. Bölümler dairesel ilerler: aynı olaylar farklı açılardan, geriye dönerek anlatılır; kedi Estike'nin zehirlenmesiyle başlayan anlatı, köyün yozlaşmasının tüm zehirini dolaşır. Son sahnede Irimiás, köylüleri tek tek kumarhaneye götürürken herkesin birbirine yalan söylediği ortaya çıkar.
+Béla Tarr'ın yedi saatlik destanı: çökmüş bir kolektif çiftlikte haydutlar, içki ve 'miras' (Irimias'ın dönüşü) etrafında dönen taşra hayatı. On iki bölüm (tango adımları gibi ileri-geri): yağmur, çamur, domuzlar, bir çocuğun ölümü (Estike), doktorun günlüğü, Irimias'ın 'mesih'vari dönüşü ve köylülerin toplu göçü. Zaman bükülür — aynı olay farklı açılardan tekrarlanır; 'plan' asla tamamlanmaz çünkü hayat 'ilerlemez', sadece döner.
 
 # Tez
-Çöküş sadece ekonomik değil, epistemolojik: kimsenin gerçeği bütün değil, herkesin yalanı kısmidir. Tarr'ın tango'su ileri-geri adımın dansıdır — herkes birbirini dolandırır ama hepsi aynı yere gider: yokluk.
+Zaman, ilerleme değil çürümedir — Tarr'ın tezi: sosyalizm sonrası köy 'hiçbir yere' gitmez; Irimias'ın 'kurtuluş' vaadi sadece yeni bir kapanmadır. Tango adımları — ileri ve geri — filmin yapısıdır: her 'ileri' adım bir 'geri'ye gömülür.
 
 ## Mekanizma
-Yedi saatlik süre, zamanı köylünün yaşadığı gibi ağırlaştırır; uzun planlar izleyiciyi beklemeye iter çünkü umut ancak uzun bakışta görünür. 'Şeytan' figürü sadece Irimiás değil, beklentinin kendisidir.
+Uzun planlar (ortalama 10 dakika), siyah-beyaz ve yağmur — Tarr'ın 'zaman-baskısı' izleyiciyi 'beklemeye' zorlar; Estike'nin kedisini öldürmesi ve intiharı filmin en karanlık bölümüdür — çocukluğun 'acımasızlığı' doğanın parçasıdır. Irimias'ın yürüyüşü — rüzgârda saçlarla — 'mesih' değil 'ruh'dur.
 
 ## Kişisel uygunluk
-Varoluşsal-epistemolojik yoğunluk profilinin zirvesi; yedi saat sabır ama karşılığı eşsiz.
+Zaman, çürüme ve kolektif yanılsama profiline çok güçlü uyuyor — izlenmesi bir deneyimdir.
 
 -# THE FILM ARCHIVE · Satantango (1994) · Notlar
 ### Tartışmalar & Notlar

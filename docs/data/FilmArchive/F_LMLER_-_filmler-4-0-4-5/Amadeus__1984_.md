@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/gQRfiyfGvr1az0quaYyMram3Aqt.jpg
 > **Yönetmen:** Miloš Forman · **Tür:** Biography, Dram, Müzik · **Süre:** 160 dk · **Dil:** İngilizce · **Yıl:** 1984
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve psikolojik mekanizma 8/10.
 
-Disiplinli İtalyan besteci Antonio Salieri, hazcı ve son derece yetenekli genç Salzburglu besteci Wolfgang Amadeus Mozart'a karşı kıskançlık ve kızgınlığa kapılır.
+Saray bestecisi Salieri, Mozart'ın müziğinde Tanrı'nın sesini duyar ama Tanrı'nın onu değil 'kaba çocuk'u seçtiğini görünce kıskançlıkla onu ölüme sürükler ve Requiem'i dikte ettirir.
 
 ### Puanlar
 IMDb **8.4/10** · Letterboxd **4.37/5** · nMDB **85.7**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Amadeus (1984) · Derin Analiz
 # Ayrıntılı konu
-Yaşlı Antonio Salieri, bir rahibe Viyana'daki genç günlerini anlatır: Mozart'ın Tanrı tarafından sevilmeyen 'kabalık' adam olduğunu, ama notalarının gökten yazıldığını görür; yeteneği kıskanır, onu yok etmeye çalışır, onu yorarak ölümüne yol açar ve Requiem'i kendi eliyle yazdırır. Yıllar sonra akıl hastanesinde intihar etmiş hâlde bulunan Salieri, rahibe itirafını tamamlar: 'Tanrım beni sana, onu da kendine kul etti.'
+Antonio Salieri, Viyana'da saray bestecisidir — Tanrı'ya adanmış, 'sıradan' ama başarılı. Mozart gelir: kaba, çocuksu, dâhi. Salieri onun müziğinde Tanrı'nın sesini duyar ama Tanrı'nın 'neden ona vermediğini' sorar; hikâye onun bakışından anlatılır — yaşlı Salieri, akıl hastanesinde 'günahını' itiraf eder: Mozart'ı öldürdüğünü söyler. Requiem sahnesi — Salieri, ölüm döşeğindeki Mozart'a 'dictado' alır — müzik yazımının 'bedensel' kaydıdır; Mozart'ın cesedi toplu mezara atılırken 'pop müziği' bile çalmaz.
 
 # Tez
-Deha ile ortalamalık arasındaki mesafe, vicdanın çökebileceği tek çatlak. Salieri'nin gerçek günahı Mozart'ı öldürmesi değil — Tanrı'nın seçimini adaletsiz bulması ve ona karşı yemin etmesi.
+Deha, adil değildir — Forman'ın tezi: Salieri'nin trajedisi kötü olmak değil, 'niteliksiz' olmaktır; Tanrı'nın seçimi 'keyfi'dir ve bu keyfilik onu iman krizine sokar. Mozart'ın gerçek 'suçu' yetenek değil, 'kolaylık'tır — Salieri'nin çalışması hiçbir zaman onunki gibi 'doğal' olamaz.
 
 ## Mekanizma
-Hikâye itiraf yapısındadır: Salieri'nin sesi hem anlatıcı hem şüphelidir. Mozart'ın notaları 'Tanrı'nın yazısı' olarak duyulur — yeteneğin metafizik kanıtı olarak müzik kullanılır.
+Müzik filmin 'dili'dir — operalar sahne sahne 'yaşanır'; Requiem'de Salieri'nin elleriyle Mozart'ın sesi birleşir — işbirliği ve cinayet aynı karede. Tom Hulce'un kahkahası filmi 'modernleştirir' — dâhi 'çocuk'tur; F. Murray Abraham'ın Salieri'si ise 'izleyici' pozisyonundadır: bizim yerimizde durur, kıskançlıkla bakar.
 
 ## Kişisel uygunluk
-Kıskançlık psikolojisi ve etik/felsefi çerçeve derin; senin için güçlü eşleşme.
+Deha-kıskançlık ve Tanrı sorgusu profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Amadeus (1984) · Notlar
 ### Tartışmalar & Notlar

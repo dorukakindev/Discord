@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg
 > **Yönetmen:** Jim Jarmusch · **Tür:** Macera, Dram, Western · **Süre:** 122 dk · **Dil:** İngilizce · **Yıl:** 1995
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 8/10 ve psikolojik mekanizma 7/10.
 
-Cinayet işledikten sonra kaçan bir muhasebeci, kendisini ruhani dünyaya yapacağı yolculuğa hazırlayan tuhaf bir Kızılderili adamla karşılaşır.
+Muhasebeci William Blake işini kaybedip bir kadının ölümüyle kaçağa dönüşür; Kızılderili 'Nobody' ona vahşi Batı'da rehberlik eder ve ölüm şiirsel bir özgürleşme yolculuğuna döner.
 
 ### Puanlar
 IMDb **7.5/10** · Letterboxd **3.91/5** · nMDB **76.6**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Dead Man (1995) · Derin Analiz
 # Ayrıntılı konu
-William Blake — muhasebeci, şair değil — batıya Machine kasabasına gider; fabrikatör Dickinson'dan iş alamaz, bir kadınla yatar ve oğlu tarafından öldürülürken kadını kaybeder. Kızılderili 'Nobody' onu kurtarır çünkü onun adı ünlü şairin adıdır; Nobody, Blake'in 'ölü bir adam' olarak ruhunu öbür dünyaya taşıma görevini üstlenir. Blake'in yolculuğu ölümdür ama bedeni daha da çürürken 'ruh'u öğrenir — ölüm, onun ilk gerçek hayatıdır.
+Jim Jarmusch'un 'psychedelic' 'western'i: William Blake, 'muhasebeci' — 'iş' 'kaybeder', 'kadın' 'öldürülür', 'kaçar'; 'Kızılderili' 'Hiç Kimse' (Nobody) ona 'rehberlik' 'eder' — 'ölü' 'adam' 'doğa'ya 'döner'. 'Amerika' 'vahşi'dir — 'kanun' 'yok', 'insan' 'hayvan'dır; 'şiir' — 'William Blake' 'referansı' — 'ruh' 'yolculuğu'dur.
 
 # Tez
-Amerika'nın kuruluş miti bir ölüm yürüyüşüdür — Jarmusch'un 'western'i cinayetler, beyaz adamın vahşeti ve sömürgeleştirmenin boşluğu üzerine kuruludur; Blake'in şair adı rastlantı değil, kadim ruhun yeni bedenidir.
+Ölüm, 'özgürleşme'dir — Jarmusch'un tezi: 'Batı' 'medeniyet' değil 'barbarlık'tır; 'yerli' 'halk' 'yok' 'edilir' — 'kültür' 'kaybedilir'. 'Yolculuk' 'içsel'dir — 'dış' 'dünya' 'sadece' 'yansıma'dır.
 
 ## Mekanizma
-Siyah-beyaz fotoğraf, uzun sessizlikler ve Neil Young'ın tek ezgili gitarı 'önceden bilinen' bir vahşi batı yaratır — izlerken hatırlamış gibi hissederiz; Nobody'nin İngilizcesi 'kırık' değil, başka bir bilgelik düzenidir. Blake'in gözlüğü film boyunca yavaş yavaş çatlar ve sonunda kaybolur — ölümle görme değişir.
+'Siyah-beyaz' — 'geçmiş' 'hayal' 'gibi'dir; 'Neil Young' 'müziği' — 'gitar' 'vızıltısı' — 'ruh' 'durumu'dur. 'Orman' 'yürüyüşü' — 'doğa' 'ile' 'birlik' — 'insan' 'küçülür'; 'final' — 'deniz' — 'öteki' 'dünya' 'açılır'.
 
 ## Kişisel uygunluk
-Varoluşsal western ve ölüm-ritüeli profiline güçlü uyuyor.
+Ölüm ve 'manevi' 'yolculuk' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Dead Man (1995) · Notlar
 ### Tartışmalar & Notlar

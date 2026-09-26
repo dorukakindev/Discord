@@ -4,7 +4,7 @@ https://a.ltrbxd.com/resized/sm/upload/bq/a1/wk/0p/monster-1200-1200-675-675-cro
 > **Tür:** Animasyon, Suç, Dram · **Süre:** 1 dk · **Dil:** Japonca · **Yıl:** 2004
 **Sana uygunluk: 4.2/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Almanya'da yaşayan Japon beyin cerrahı Kenzou Tenma, bir zamanlar eski hastası olan bir psikopatla ilişkiye girdikten sonra hayatı büyük bir kargaşa içinde bulur.
+Beyin cerrahı Kenzo Tenma, hayatını kurtardığı çocuk Johan Liebert'in yıllar sonra seri katile dönüştüğünü öğrenir; onu durdurmak için Avrupa'yı dolaşırken 'her canın eşit değeri' ilkesiyle yüzleşir.
 
 ### Puanlar
 IMDb **8.7/10** · Letterboxd **4.68/5** · nMDB **90.3**
@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Monster (2004) · Derin Analiz
 # Ayrıntılı konu
-
-Monster (2004), Naoki Urasawa'nın mangasından uyarlanan, bir beyin cerrahının hayatını kurtardığı çocuğun seri katil olduğunu öğrenmesini anlatan animedir. Dr. Kenzo Tenma, Johan Liebert adlı çocuğu kurtarır; yıllar sonra Johan'ın bir canavar olduğu ortaya çıkar. Tenma, Johan'ı durdurmaya çalışırken onun geçmişini — 511 Kinderheim'daki deneyleri, 'monster' programını, ikiz kız kardeşi Anna'yı — araştırır. Film, 'kötülük'ün doğuştan mı yoksa yapıldığından mı geldiğini sorgular; Johan, 'insanlık' kavramının sınırını test eden bir varlıktır.
+Dr. Kenzo Tenma, Almanya'da çalışan Japon beyin cerrahıdır; 1986'da bir çocuk vakasını (Johan Liebert) seçer ve onun yerine belediye başkanını reddederek 'doğru' olanı yapar — bu tercih kariyerini mahveder ama Johan'ın hayatını kurtarır. Yıllar sonra Johan yetişkin bir seri katile dönüşmüştür — Tenma, onu kurtardığı için sorumlu hisseder ve onu takip etmeye başlar. Johan insanları 'isimsiz canavar' hâline getiren bir manipülasyon ustasıdır; hedefi basit değildir — 'mükemmel intihar' için çevresindeki herkesi kendi iç karanlığına çeker. Naoki Urasawa'nın mangasının uyarlaması, 74 bölüm boyunca Avrupa'yı gezer ve nihai soruyu sorar: bir insan 'canavar' doğabilir mi, yoksa yetiştirilir mi?
 
 # Tez
+Canavarlık, anne karnından değil küçük ihmaller zincirinden doğar — Johan'ın kötülüğü bir 'araştırma deneyi'nin (511 Kinderheim) ürünüdür ama Urasawa bunu mazeret saymaz: her karakter seçimini kendi yapar. Tenma'nın 'değer eşitliği' (her can aynıdır) fikri, canavarın yaratıcısı olduğunu öğrenince sarsılır — kurtarmak da sorumluluktur.
 
-Monster (2004), 'kötülük'ün kökenini ve insanlığın sınırlarını sorgulayan; bir doktorun vicdanı ile bir canavarın varoluşu arasındaki çatışmayı konu alan bir epistemolojik gerilimdir.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Tenma'nın 'Johan'ı durdurma' görevidir: bu görev, onu geçmişin labirentine sokar. Johan, 'insanlık' kavramının zıttıdır — ama onun 'monster'lığı, 511 Kinderheim'ın deneylerinin ürünüdür. Tenma'nın 'kurtarma' arzusu ile Johan'ın 'yok etme' arzusu çatışır; ikisi de 'insanlık' kavramının sınırlarını test eder.
+## Mekanizma
+Johan neredeyse hiç 'görünmez' — film onu silüet, arkadan ya da diğer karakterlerin tepkileriyle verir; bu yokluk onu 'fikir' yapar. Uzun süreç (74 bölüm) her yan karaktere insanlık kazandırır — Eva, Nina, Grimmer… — böylece 'kötülüğün bedeli' kolektif olur. Monster'ın temel gerilimi: izleyici, Tenma'nın yerinde olsaydı aynı seçimi yapar mıydı?
 
 ## Kişisel uygunluk
-
-Psikolojik mekanizma (kötülük kökeni, ikiz, deney) ve fikir-karakter bütünleşmesi tam puan; Johan arketipik ama psikolojik olarak derindir. Nedensellik katı; sembolik katman (ikiz, kitap, 511) yoğun.
+Ahlaki sorumluluk ve kötülüğün kökeni profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Monster (2004) · Notlar
 ### Tartışmalar & Notlar

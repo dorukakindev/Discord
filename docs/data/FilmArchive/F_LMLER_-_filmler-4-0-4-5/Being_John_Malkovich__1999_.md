@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/31FGQu3OnwdmS4COquENe0vMZc0.jpg
 > **Yönetmen:** Spike Jonze · **Tür:** Komedi, Dram, Fantastik · **Süre:** 113 dk · **Dil:** İngilizce · **Yıl:** 1999
 **Sana uygunluk: 3.9/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Başarısız kuklacı Craig, bir gün iş yerinde, aktör John Malkovich'in kafasına giden bir portal bulur. Portal, başka bir insan vücudunu ele geçirmeye dayalı çılgın ve kontrolcü dünyasına giren herkes için çok geçmeden bir tutku haline gelir.
+Kuklacı Craig, ofisinde John Malkovich'in beynine açılan bir kapı bulur; 15 dakikalık 'başkası olma' deneyimi bir işe dönüşür ve kimlik, arzu ve beden sahipliği birbirine karışır.
 
 ### Puanlar
 IMDb **7.7/10** · Letterboxd **4.07/5** · nMDB **79.2**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Being John Malkovich (1999) · Derin Analiz
 # Ayrıntılı konu
-Kukla sanatçısı Craig, yeni işindeki dosya dolabının arkasında 'John Malkovich'in zihnine 15 dakika girilen' bir portal keşfeder; karısı Lotte ve iş arkadaşı Maxine ile bu bedensel deneyimi paraya çevirirler. Lotte Malkovich'in içinde kalmak istemez, Craig kuklacı olarak zihne tam giriş tekniğini çözer ve Malkovich'in bedenini yıllarca kullanır — Malkovich'in bilinci ise artık 'gemici' olarak asıl yaşamına döner.
+Craig Schwartz, kukla ustası; bir ofiste (7.5. kat, eğilerek çalışılır) John Malkovich'e açılan bir 'kapı' bulur — 15 dakika onun beyninde olursun. Craig ve mesai arkadaşı Maxine bu kapıyı 'iş' yaparlar: insanlar Malkovich olur. Ama kapı 'girerken' çıkar — Craig Malkovich'i 'yutar', onun bedenini ele geçirir ve kuklacı olarak ünlenir. Lotte (karısı) ve Maxine arasındaki aşk da bu 'kimlik' karmaşasında büyür.
 
 # Tez
-Özne ile beden arasındaki uyuşmazlık: kimse kendi zihninin sakini değildir, sadece kiracısıdır. Kaufman'ın ironisi — içeriden bakmak özgürlük değil, daha acı verici bir sürgündür; çünkü gördüğün hayat artık senin değildir.
+Benlik, kiralık bir odadır — Kaufman'ın tezi: başka birinin içinde 'olmak' özgürlük değil, yeni bir hapishanedir; Malkovich'in 'oyuncu' olması filmin meta-esprisidir: 'başkasını oynamak' onun işi zaten. Aşk ve arzu bile kimliğin kiralanmasıyla yaşanır.
 
 ## Mekanizma
-15 dakikalık sınır hem oyun hem sınırdır: öznenin bedensizliğinin süreklilik sorununu gösterir. Malkovich'in kendi portala girdiğinde gördüğü sahne (herkes onun başı, herkes 'Malkovich' der) benliğin boşluğunun en komik ve en ürkütücü ifadesidir.
+7.5 kat — 'yarım kat' — filmin 'ara dünya' estetiği: eğik tavan, dar koridorlar; kukla sahneleri (Craig'in performansları) 'dışavurum' olarak kullanılır — Craig'in asıl yeteneği 'başkasında' yaşamaktır. Malkovich'in kendi kendine 'Malkovich Malkovich' demesi — tek replik — kimliğin boşluğudur.
 
 ## Kişisel uygunluk
-Metafizik komedi-psikoloji kesişimi; senin benlik-kimlik profiline birebir.
+Kimlik, arzu ve absürd komedi profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Being John Malkovich (1999) · Notlar
 ### Tartışmalar & Notlar

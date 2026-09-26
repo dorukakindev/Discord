@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg
 > **Yönetmen:** Sergio Leone · **Tür:** Suç, Dram · **Süre:** 229 dk · **Dil:** İngilizce · **Yıl:** 1984
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: olay örgüsü 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.
+Noodles ve Max, New York Yahudi mahallesinde büyüyüp içki yasağında zenginleşir; 35 yıl sonra Noodles'ın dönüşü arkadaşlık, ihanet ve 'hiç olmamış' bir geçmişin ağırlığını getirir.
 
 ### Puanlar
 IMDb **8.3/10** · Letterboxd **4.22/5** · nMDB **83.7**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Once Upon a Time in America (1984) · Derin Analiz
 # Ayrıntılı konu
-Noodles, 1920'lerin Lower East Side'ında Max, Cockeye ve Patsy ile büyür; Yahudi çetesi içki kaçakçılığıyla zenginleşir. 1933'te Max'in ölümüyle suçlulukla kaçar; 1968'de döner ve Max'in aslında yaşadığını — hükümet zirvesindeki 'Bailey' olarak — öğrenir. Max'in ona verdiği 'hayat' kredisi ihanettir ama asıl ihanet zamandır. Deborah, Hollywood'da olmuştur; Max'in oğlu David, Noodles'ın gençliğinin fotoğrafıdır. Son sahnede Noodles gülümser — afyon içmiş midir, yoksa affetmiş midir?
+Sergio Leone'nin 'gangster' destanı: Noodles (Robert De Niro) ve Max (James Woods) — New York'un Yahudi mahallesinde büyürler, 'Bugsy'nin çetesine katılırlar, 'Prohibition' zenginliğiyle 'parlayıp' sonra 'düşerler'. Noodles 35 yıl sonra döner — 'geçmiş' ile 'yüzleşir': Max'in 'sahte' ölümü, Deborah'nın 'seçimi', 'arkadaşlık' ve 'ihanet'. Film 'nostalji' değil 'pişmanlık'tır — 'geçmiş' 'kaybedilen' değil 'hiç olmamış'tır.
 
 # Tez
-Zaman hatırayı düzeltmez — Noodles'ın 'ihaneti' aslında dostluğun son jestiydi ama suçluluk onu bırakmaz çünkü gerçek aşk kendini affettiremez. Leone'nin destanı: Amerika'nın yükselişi bireyin kıyamı üzerine kuruludur; anı, tek sahiplenebilir topraktır.
+Arkadaşlık, 'en büyük' ihanetin 'zeminidir' — Leone'nin tezi: Noodles ve Max 'birbirlerini' 'yaratır' ve 'yok eder'; 'Max'ın ölümü' 'Noodles'ın 'hayatı'dır. Zaman 'döngüsel'dir — başlangıç ve son 'aynı' yerdedir.
 
 ## Mekanizma
-Morricone'nin 'Deborah's Theme' müziği geçmişi duygusallaştırır; telefon zili sesi 30 yıl boyunca aynı anda çalar — zamanın akordeonlaşmasıdır. Dumanlı ışık ve soyulmuş odaklar (Delli Colli) hatıranın optiğini yapar; 'güzel geçmiş' asla net gösterilmez.
+Ennio Morricone'nin müziği — 'Deborah's Theme' — 'geçmiş'in 'sesidir'; 'nostaljik' ışık — altın, toz, sis — 'hatıra'nın 'renk'i'dir. 'Süre' — 4 saat — 'hayat'ın 'ölçüsü'dür; 'final' — Noodles'ın 'gülümsemesi' — 'affetme' mi 'unutma' mıdır?
 
 ## Kişisel uygunluk
-Bellek, suçluluk ve epik zaman profiline çok güçlü uyuyor.
+Arkadaşlık, zaman ve 'Amerikan rüyası' profiline çok güçlü uyuyor — gangster filminin 'şiirsel' hâli.
 
 -# THE FILM ARCHIVE · Once Upon a Time in America (1984) · Notlar
 ### Tartışmalar & Notlar

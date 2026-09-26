@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg
 > **Yönetmen:** Florian Zeller · **Tür:** Dram, Gizem · **Süre:** 97 dk · **Dil:** İngilizce · **Yıl:** 2020
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Bir adam yaşlandıkça kızının her türlü yardımını reddeder ve değişen koşullarını anlamlandırmaya çalışırken sevdiklerinden, kendi zihninden ve hatta gerçekliğinin dokusundan şüphe etmeye başlar.
+Bunama başlangıcındaki Anthony, kızı Anne'nin bakımındayken dairesi, insanlar ve zaman değişmeye başlar; izleyici onun zihninden izler — 'annemi istiyorum' ağlayışı kimliğin çözülüşüdür.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.30/5** · nMDB **84.0**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · The Father (2020) · Derin Analiz
 # Ayrıntılı konu
-Anthony, kızı Anne'in yardımcı bulmasını reddeden, gururlu ve alaycı bir yaşlı adamdır; onun bakış açısından anlatılan filmde mobilyalar yer değiştirir, insanların yüzleri (Paul/Laura oynayan farklı aktörler) karışır, aynı kapı başka yere açılır. 'Anne' bazen iki kişi, 'kızı Lucy' bazen var bazen yoktur. Anthony'nin hafızasındaki çöküş bizim navigasyon kaybımızdır — izleyici onun beyninde hapsolur. Son sahnede Anthony bir bakım evinde ağlar: 'Ben küçük bir çocuk gibiyim, annem beni almaya gelecek' — demansın doruğu çocukluğa dönüştür.
+Anthony Hopkins — 'Anthony' — bunama başlangıcında; kızı Anne (Olivia Colman) ona bakar ama 'odası' 'değişir', 'insanlar' 'değişir', 'zaman' 'kayar'. Film 'onun' 'zihninden' anlatılır — 'daire' aynı ama 'farklı'dır; 'hasta bakıcı' 'kızı' gibi 'görünür', 'kızı' 'yabancı' olur. 'Saat' — 'kayıp' — 'zaman'ın 'kontrolü'dür; Anthony 'anne' ister — 'çocuk' gibi 'ağlar'.
 
 # Tez
-Demans hikâyenin değil anlatının kaybıdır — Zeller'in harikası, hastalığı 'anlatmak' yerine izleyiciye yaşatmasıdır: biz de 'bu aynı oda mı?' diye sorarız. Kimlik, hatıraların iskeleti çökünce geriye kalan şeydir ve o da acır.
+Bunama, 'benlik'in 'çözülmesi'dir — Zeller'in tezi: 'hafıza' 'kimlik'tir; Anthony 'kaybolur' çünkü 'hatıra' 'siler'. 'Ev' — 'güvenli' yer — 'labirent'e dönüşür; 'aşk' 'bakım'da 'yaşanır' ama 'kaybeden' 'ikisi'dir.
 
 ## Mekanizma
-Aynı diyalogların farklı aktörlerle tekrarı, saatin yeri değişimi, 'Anne'in iki kadın tarafından oynanması' — tüm bunlar demansı bir form olarak üretir. Filmin tek mekânı sürekli kendini değiştirir; bu 'güvenilmez' set tasarımıdır.
+'Mekân' — 'daire' — 'aynı' ama 'farklı' detaylarla 'değişir' (mobilya, kapı rengi); 'oyuncu' değişimi — 'Anne' bazen 'başka' kadındır — 'kafa karışıklığı'nı 'görsel'leştirir. Anthony'in 'yüzü' — Hopkins' 'kırılgan' 'yaşlılığı' — 'güç' ile 'çaresizlik' arasındadır; 'son' sahne — 'pencere' ve 'ağaç' — 'dünya' 'basitleşir'.
 
 ## Kişisel uygunluk
-Kimlik kaybı ve empati mekanizması profiline çok güçlü uyuyor.
+Yaşlanma, bunama ve 'aile' 'fedakârlığı' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Father (2020) · Notlar
 ### Tartışmalar & Notlar

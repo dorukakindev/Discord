@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg
 > **Yönetmen:** Bong Joon Ho · **Tür:** Dram, Gerilim · **Süre:** 133 dk · **Dil:** Korece · **Yıl:** 2019
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: olay örgüsü 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Tamamı işsiz olan Ki-taek'in ailesi, geçimlerini sağlamak için zengin ve gösterişli Parklara özel bir ilgi duyar, ta ki beklenmedik bir olayla karşı karşıya kalana kadar.
+Kim ailesi, zengin Park ailesinin evine sırayla sızar — oğul öğretmen, kız terapist, baba şoför, anne hizmetçi olur; bodrumdaki gizli sırrın ortaya çıkması iki sınıfın çatışmasını kanlı bir zirveye taşır.
 
 ### Puanlar
 IMDb **8.5/10** · Letterboxd **4.52/5** · nMDB **87.7**

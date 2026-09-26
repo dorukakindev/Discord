@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Tokyo Story (1953) · Derin Analiz
 # Ayrıntılı konu
-Yaşlı bir çift (Shukichi ve Tomi) küçük kasabadan Tokyo'ya, çocuklarını ziyarete gider: doktor Koichi, kuaför Shige ve savaş dulşı Noriko. Çocuklar meşguldür, yaşlıları bir kaplıca oteline gönderirler; orada da gençlerin gürültüsü uykusuz bırakır. Dönüşte Tomi hastalanır ve ölür; aile cenazeye gelir ama herkes hızla günlük hayatına döner. Sadece Noriko — akraba bile olmayan — yaşlı kadına gerçek sevgiyi göstermiştir.
+Yaşlı çift Shukishi ve Tomi Hirayama, Tokyo'ya çocuklarını ziyarete gider — oğulları (doktor, kuaför), kızları (işkadını) ve gelinleri Noriko (kayınvalidesi ölmüş). Çocuklar 'meşgul'dür; Noriko onlara gerçek ilgi gösterir. Tomi ölür ve çocuklar cenazeye gelir ama 'işe' dönerler; Noriko bir süre daha kalır. Shukishi'nin arkadaşı Onoda'ya dediği gibi: 'Çocuklar sizin için değil, kendi hayatları için yaşar.' Film, 'aile' kavramının sessiz çöküşüdür.
 
 # Tez
-Zamanın akışı aile bağlarını çözer: çocuklar kötü değil, sadece başka hayatlar yaşamaktadır. Ozu'nun sessiz savı — yaşlılık, öteki olarak görülmeye başlamanın ilk adımıdır.
+Büyüme, aile bağlarının çözülmesidir — Ozu'nun tezi: 'iyi' çocuklar bile ebeveynlerine 'zaman' ayıramaz çünkü hayat 'başka yere' gider; Noriko'nun şefkati (ölen kocasının ailesine) gerçek aile bağının 'seçilmiş' olduğunu gösterir — kan değil, ilgi.
 
 ## Mekanizma
-Tatami çekim açısı (alçak kamera) izleyiciyi Japon evinin içine koyar; diyalog yoktur ama sessizlik boşluk olarak kullanılır. 'Gelgit' gibi akış — hiçbir drama patlaması, sadece zamanın aşındırması.
+Ozu'nun alçak kamerası — tatami seviyesi — izleyiciyi 'yerde oturan' yapar; sabit kareler ve 'pillow shots' (geçiş görüntüleri: tren, çamaşır, tabela) mekânın 'nefesini' verir. Diyaloglar düz ama altında okyanus vardır; 'güzel hava' sohbetleri acının altını çizer — kimse ağlamaz, sadece 'teşekkür ederiz.'
 
 ## Kişisel uygunluk
-Sessiz trajedi ve aile-zaman teması profiline çok güçlü uyuyor.
+Aile, yaşlanma ve sessiz acı profiline çok güçlü uyuyor — sinemanın en 'nazik' trajedisi.
 
 -# THE FILM ARCHIVE · Tokyo Story (1953) · Notlar
 ### Tartışmalar & Notlar

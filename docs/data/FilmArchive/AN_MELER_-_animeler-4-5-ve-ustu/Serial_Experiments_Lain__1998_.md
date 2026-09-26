@@ -4,7 +4,7 @@ https://a.ltrbxd.com/resized/sm/upload/dv/lp/mx/xt/serial%20experiments-1200-120
 > **Tür:** Animasyon, Dram, Korku · **Süre:** 316 dk · **Dil:** Japonca · **Yıl:** 1998
 **Sana uygunluk: 4.2/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve felsefi yapı 9/10.
 
-Bir sınıf arkadaşının ani intiharının etkisiyle Lain, Wired'a giriş yapar ve bir anda kendini çarpık halüsinasyonlar, anılar ve birbirine bağlı ruh halleri yığınının içinde kaybeder.
+Sıradan liseli Lain Iwakura, ölen bir sınıf arkadaşından gelen e-postayla 'Wired' adlı ağa çekilir; gerçeklik ile sanal dünya arasındaki sınır çözülürken 'ben' kimliğini sorgular.
 
 ### Puanlar
 IMDb **8.0/10** · Letterboxd **4.42/5** · nMDB **84.2**

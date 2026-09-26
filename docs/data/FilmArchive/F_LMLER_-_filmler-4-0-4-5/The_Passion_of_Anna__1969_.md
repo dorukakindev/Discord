@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/cr01316AyxUZyZrdLwzz3AXrgJc.jpg
 > **Yönetmen:** Ingmar Bergman · **Tür:** Dram · **Süre:** 101 dk · **Dil:** İsveççe · **Yıl:** 1969
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 8/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Sürgün gibi yaşayan Andreas, küçük bir adada Anna'nın kayıp kocasının ardından yalanlarına ve adadaki gizemli hayvan ölümlerine karışır. Dört yalnız insanın duygusal kopukluğu sessiz bir şiddetle iç içe geçer.
+Yalnız Andreas Winkelman, karısı ve çocuğunu kaybetmiş Anna ile bir adada yakınlaşır; köydeki hayvan ölümleri ve 'itiraf'lar aşkın üzerindeki suçluluk duvarını yükseltir.
 
 ### Puanlar
 IMDb **7.6/10** · Letterboxd **3.93/5** · nMDB **77.3**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Passion of Anna (1969) · Derin Analiz
 # Ayrıntılı konu
-Andreas, küçük bir İskandinav adasında yalnız yaşar; komşularının hayatına karışır — Anna'nın (ölen kocasının) yalanlarını, Eva'nın yalnızlığını ve kasabanın gizli şiddetini keşfeder. Köpek ölümleri seri hâlde devam eder ve adada bir 'vahşet' ruhu vardır ama kimse sorumlu değildir. Andreas'ın geçmişi de karanlıktır — ahlaki kaçışı onu adaya getirmiştir.
+Bergman'ın 'ada' filmi: Andreas Winkelman (Max von Sydow), yalnız bir adam — karısı ve çocuğu ölmüş; Anna (Liv Ullmann) 'komşu' olur — o da 'kayıp'tır: kocası ve oğlu 'kazada' ölmüştür ama 'gerçek' farklıdır. Andreas ve Anna 'birbirlerini' 'iyileştirmeye' çalışırlar ama 'suçluluk' 'aşkı' 'yutar'. Köyde 'hayvan' ölümleri başlar — 'katil' aranır; Andreas 'sorgulanır' ve 'doğruluğu' 'yıpranır'. Final: Andreas yolda yürür — 'ağlayan' adam — 'gelecek' belirsizdir.
 
 # Tez
-Sessizlik, şiddetin koruyucusudur: ada sakinleri birbirlerini görmezden gelir ama köpekler öldürülür. Bergman'ın sorusu — duygusal kopukluk, fiziksel vahşetin nedenidir.
+Aşk, 'kayıp'ların 'tazminatı' değildir — Bergman'ın tezi: Andreas ve Anna 'birbirlerini' 'kullanır' — 'yalnızlık' 'aşk'ı 'bastırır'; 'suçluluk' 'yalan'la 'örtülür' ama 'hayvan' ölümleri 'gerçek' şiddeti 'gösterir'. 'Tutku' burada 'yıkım'dır.
 
 ## Mekanizma
-Renkli çekim (ilk Bergman renklisi) ada doğasının acımasızlığını gösterir; 'rüya' sahneleri karakterlerin bilinçaltını açar. Anna'nın monologları gerçeği ve yalanı aynı sesle söyler.
+Sven Nykvist'in 'doğal' ışığı — kış, gri, 'donuk' — 'içsel' havanın 'dışsal' halidir; 'hayvan' ölümleri — 'koyun', 'köpek' — 'insan' şiddetinin 'yansıması'dır. 'Sorgu' sahnesi — Andreas'ın 'itirafı' — 'adalet' ile 'suçluluk' arasındaki 'ince' çizgiyi verir. 'Günlük' yaşam — yemek, yürüyüş, konuşma — 'büyük' soruların 'küçük' zeminidir.
 
 ## Kişisel uygunluk
-İzolasyon ve toplumsal şiddet teması profiline güçlü uyuyor.
+Yalnızlık, suçluluk ve 'aşk'ın 'sınırı' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Passion of Anna (1969) · Notlar
 ### Tartışmalar & Notlar

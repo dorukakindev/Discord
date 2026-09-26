@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg
 > **Yönetmen:** Akira Kurosawa · **Tür:** Suç, Dram, Gizem · **Süre:** 88 dk · **Dil:** Japonca · **Yıl:** 1950
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve felsefi yapı 9/10.
 
-Bir samurayın ölümü ve karısının saldırıya uğraması ormanda dört kişi tarafından dört farklı biçimde anlatılır — haydut, kadın, ölen adam ve oduncu. Kapıcıyla birlikte dinleyen izleyici, hakikatin kişisel çıkarla nasıl büküldüğünü görür.
+Bir samurayın öldürülüp karısının saldırıya uğradığı ormanda dört tanık — haydut, kadın, samurayın ruhu ve oduncu — olayı kendi onurlarını koruyacak şekilde çelişkili anlatır.
 
 ### Puanlar
 IMDb **8.1/10** · Letterboxd **4.19/5** · nMDB **82.4**
@@ -19,20 +19,16 @@ Düşünsel **9** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Rashomon (1950) · Derin Analiz
 # Ayrıntılı konu
-
-Rashomon (1950), Akira Kurosawa'nın bir cinayetin dört farklı anlatısını konu alan filmidir. Bir samuray öldürülmüş, karısı tecavüze uğramıştır; haydut, karı, ölü samuray (ruh aracılığıyla) ve bir oduncu, olayı farklı şekillerde anlatır. Her anlatı, anlatıcının kendi imajını kurtarır: haydut kendini kahraman, karı kendini masum, samuray kendini mağdur gösterir. Oduncu'nun 'dürüst' anlatımı bile şüphelidir. Rashomon kapısında bir dilenci, 'insanlar yalan söyler çünkü gerçek katlanılmazdır' der; filmin sorusu, 'doğru'nun var olup olmadığıdır.
+Bir ormanda samuray Takehiro öldürülmüş, karısı Masago saldırıya uğramıştır; olay, Rashomon kapısında yağmurdan kaçan bir oduncu ve bir rahibin ağzından anlatılır. Mahkemede dört tanık vardır: haydut Tajomaru (öldürdüğünü övünerek anlatır), Masago (kocasını kendinin öldürdüğünü söyler), Takehiro'nun ruhu (medium aracılığıyla — intihar ettiğini iddia eder) ve olayı ağaçların ardından izleyen oduncu. Her anlatı anlatıcının onurunu koruyacak şekilde bükülür; gerçek asla sabitlenmez. Film, oduncunun terk edilmiş bir bebeği evlat edinmesiyle kapanır — insana dair tek umut kırıntısı.
 
 # Tez
+Hakikat, anlatıcının ihtiyacıyla şekillenir — herkes yalan söylemiyor, sadece 'kendini yaşanabilir kılan' versiyonu söylüyor; Kurosawa'nın sorusu: insan hakikati taşıyamayacak kadar kırılgan mı — ve birinin hikâyesini dinlemek ona inanmayı gerektirir mi? Cevap: dinlemek, yalanın bile bir ürüne dönüştüğü yerdir.
 
-Rashomon (1950), 'gerçek' kavramının öznel anlatımlarla nasıl parçalandığını sorgulayan; her tanıklığın bir kendini kurtarma eylemi olduğunu gösteren epistemolojik bir yapıttır.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru dört anlatının çelişkisidir: aynı olay, dört farklı gerçeklik. Kurosawa, her anlatının görsel stilini değiştirir — haydutun anlatımı dramatik, karının anlatımı duygusal, samurayın anlatımı hayaletli. Oduncu'nun 'dürüst' anlatımı bile, kendi çıkarını (kayıp hançer) gizler. Film, 'doğru'yu değil, 'doğruyu söyleme arzusu'nu sorgular.
+## Mekanizma
+Güneşin yapraklar arasından çekilmesi, yağmurun fiziksel ağırlığı ve ormanda kameranın sürekli hareketi belirsizliği fizikselleştirir; mahkeme sahneleri kamera açısı bakımından tanıksız çekilir — izleyici hakimdir ama 'görünmez' mahkeme hiç verdirilemez. Oduncu'nun son anlatısı bile kuşkuludur — pahalı hançeri çaldığı ortaya çıkar, yani 'tanık' bile katıldığı hikâyeyi bükermiş.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (epistemoloji, öznelik) tam puan; dört anlatının çatışması anlatının tek gerçek konusu. Psikolojik mekanizma (kendini kurtarma) güçlü; diyaloglar çelişkili anlatımların dilsel haritasıdır.
+Göreceli hakikat ve anlatı güvenilmezliği profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Rashomon (1950) · Notlar
 ### Tartışmalar & Notlar

@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · The Ballad of Narayama (1983) · Derin Analiz
 # Ayrıntılı konu
-
-The Ballad of Narayama (1983), Shôhei Imamura'nın Shichirô Fukazawa'nın romanından uyarladığı, Japonya'nın dağ köyünde 'oba-sute' (yaşlıları dağa bırakma) geleneğini anlattığı filmidir. Orin, 69 yaşındadır; köy geleneğine göre 70 yaşında Narayama dağına bırakılacaktır. Oğlu Tatsuhei onu dağa taşımak istemez ama Orin gitmeye hazırdır — ailesini 'gereksiz' bulmadan ölmenin onuru budur. Imamura, 1958 Kinoshita versiyonunun teatral estetiğini reddeder; çıplak, doğal, hayvansı bir dünya sunar. Orin'in son yılı, doğanın döngüselliğiyle paraleldir; ölüm, yaşamın bir parçasıdır.
+19. yüzyıl Japon köyünde 'Narayama' geleneği: 70 yaşına gelen herkes dağa götürülüp ölüme terk edilir. Orin (Kinuyo Tanaka) 69 yaşındadır, sağlıklıdır ve gitmek istemez ama gelenek kesindir — kendi kendine dişlerini kırarak 'yaşlılığını' kanıtlar. Oğlu Tatsuhei isteksizce annesini sırtında dağa taşır; yolda 'Ama yalnız gitmek zorundayım' der. Final: Narayama'da kar üstünde oturan Orin ve geri dönen oğul — dağ 'kabul' eder.
 
 # Tez
+Gelenek, ölümü rutinleştirir — Imamura'nın tezi: köyün ahlakı 'doğal düzen'dir ama doğa katıdır; Orin'in haysiyeti 'itaat'te değil 'kabul'de durur. Film, ötenazinin 'toplumsal' formunu gösterir — tek tek ölüm değil, 'düzen'in parçası olarak ölüm.
 
-The Ballad of Narayama (1983), 'oba-sute' geleneğini insanın doğaya ait olduğunun kabulü olarak sahneleyen; yaşam-ölüm döngüsünü çıplak, hayvansı bir doğallıkla sunan bir varoluşçu meditasyondur.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Orin'in 'gitme' hazırlığıdır: dişlerini kırar (genç görünmemek için), ailesini düzenler, dağa çıkar. Imamura, Orin'in 'kabul'ünü doğanın çıplaklığıyla paraleller — hayvanlar çiftleşir, doğar, ölür; insanlar da aynı döngünün parçasıdır. Tatsuhei'nin direnişi, 'insanlık'ın doğaya karşı son çaresizliğidir; ama Orin'in kararı, 'gereksizlik' kavramının aşılmasıdır.
+## Mekanizma
+Doğa çekimleri — hayvanlar, mevsimler, seks ve ölüm — insan hayatını 'tür' olarak verir; köyün şarkıları ve ritüelleri ölümü 'bayram'laştırır. Imamura'nın kamerası serttir: vahşet ve şefkat aynı karede. Kar yağışı finalde 'ölümün temizliği'dir — ama temizlik, insanın 'fazlalık' olarak görülmesiyle kazanılır.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (yaşam-ölüm döngüsü, kabul) ve fikir-karakter bütünleşmesi tam puan; Orin arketipik ama psikolojik olarak derindir. Sembolik katman (dağ, kar, kuşlar) yoğun.
+Gelenek ve ölüm ritüeli profiline çok güçlü uyuyor — insanın doğayla eşitlenmesi.
 
 -# THE FILM ARCHIVE · The Ballad of Narayama (1983) · Notlar
 ### Tartışmalar & Notlar

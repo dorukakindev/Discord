@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · The Act of Killing (2012) · Derin Analiz
 # Ayrıntılı konu
-Anwar Congo ve arkadaşları, 1965 Endonezya katliamını yeniden canlandırır — gangsterler, müzikal, western olarak. Anwar başta 'mutlu' anlatır ama tekrar ettikçe yüzü değişir: hayal gücü, vicdanın kapısını açar. Oppenheimer kamerası öldürmenin estetiğini çeker — 'ben Hollywood'dan etkilendim' der Anwar ve gangster filmleriyle işlediği cinayetlerin aynı renkte olduğunu görür.
+Joshua Oppenheimer'ın Endonezya belgesi: 1965-66'da 'komünist' katliamı yapan 'gangster'ler — Anwar Congo ve Herman Koto — 'suçlarını' 'yeniden canlandırırlar'. 'Gangster filmi', 'western', 'müzikal' — 'Hollywood' 'tarzında' 'cinayet'lerini 'oynarlar'. Anwar 'kabusa' girer — 'kendi' 'victory' 'bölgesi'nde 'kurban' olur — ve 'kurtuluş' 'bulamaz'. Film 'kötü'leri 'aktör' yapar ve 'gerçek' 'korku'yu 'gösterir'.
 
 # Tez
-Temsil, gerçeğin aynasıdır ama ayna bazen gerçeği gösterir: Anwar'ın 'oynaması' onu katlettiği hayata geri döndürür. Filmin gücü — sanatın değil, vicdanın zaferidir.
+Şiddet, 'performans'la 'meşrulaştırılır' — Oppenheimer'ın tezi: 'katiller' 'film' 'yıldızı' gibi 'davranır' çünkü 'kültür' 'şiddet'i 'över'; 'canlandırma' 'pişmanlık' değil 'deneme'dir — 'kendi' 'korkularıyla' 'yüzleşmek' 'iyileşme' değil 'kabus'tur.
 
 ## Mekanizma
-Renkli kostümler ve grotesk setler tarihi canavarlaştırır; Anwar'ın 'korku' gözleri filmin tek gerçek unsurudur. Tarih, kazananların tarafından yazılır ama filmin sonunda ses kırılır.
+'Canlandırma' sahneleri — 'kostüm', 'makyaj', 'set' — 'gerçek' ile 'oyun' 'birleşir'; 'Anwar'ın 'yüzü' — 'korku' ile 'keyif' arasında — 'suçluluk'un 'fizyolojisi'dir. 'Herman'ın 'kadın' kıyafeti — 'tiyatro' 'cinsiyet'i 'değiştirir' — 'güç' 'görüntü'dür.
 
 ## Kişisel uygunluk
-Tarihsel vahşet ve temsil etiği senin profiline çok güçlü uyuyor.
+Kolektif şiddet ve 'yüzleşme' profiline çok güçlü uyuyor — belgeselin 'en rahatsız' hâli.
 
 -# THE FILM ARCHIVE · The Act of Killing (2012) · Notlar
 ### Tartışmalar & Notlar

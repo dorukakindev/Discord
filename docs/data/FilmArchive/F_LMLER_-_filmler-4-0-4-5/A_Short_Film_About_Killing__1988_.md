@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/x8zenootZTTB1iEdUQA9dnEuLqv.jpg
 > **Yönetmen:** Krzysztof Kieslowski · **Tür:** Suç, Dram · **Süre:** 85 dk · **Dil:** Lehçe · **Yıl:** 1988
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve felsefi yapı 8/10.
 
-Jacek climbs into the taxi driven by Waldemar, tells him to drive to a remote location, then brutally strangles him, seemingly without motive.
+Jacek bir taksi şoförünü soğukkanlı ve uzun süren bir cinayetle öldürür; avukatın kaybettiği dava sonrası idam hazırlığı — kelepçe, göz bandı — iki ölümün ahlaki eşitliğini gösterir.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.12/5** · nMDB **80.7**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · A Short Film About Killing (1988) · Derin Analiz
 # Ayrıntılı konu
-Jacek, Varşova'da bir taksi şoförünü sebepsiz yere öldürür; cinayet ayrıntılı ve çıplaktır — ipleme, taşlama, cesedin bagaja konması. Sonra Jacek'in idamı gelir — devletin yasal cinayeti de aynı soğuklukta çekilir. İki ölüm arasındaki fark sadece prosedürdür: biri kanunsuz, biri kanunludur.
+Kieslowski'nin 'idam' filmi: Jacek, genç bir adam — 'boş' 'yürür', 'taş' 'atar', 'kedi' 'öldürür'; bir taksi şoförünü 'soğukkanlı' 'öldürür' — 'uzun', 'zor', 'kirli'. Avukat Piotr 'savunur' ama 'kaybeder'; Jacek 'idam' edilir — 'hazırlık' 'ritüel' gibidir: 'kelepçe', 'külot', 'lastik' — 'insan' 'hayvan' gibi 'hazırlanır'.
 
 # Tez
-Devletin ölümü, bireyin ölümünden daha meşru değildir — Kieslowski'nin önermesi: cinayet aynıdır, sadece bağlamı değişir. İdam sahnesi cinayet sahnesinden daha uzundur çünkü devletin vahşeti daha planlıdır.
+Devlet, 'cinayet'i 'rutin'leştirir — Kieslowski'nin tezi: iki ölüm 'aynı'dır — 'vahşi' ve 'resmi'; 'adalet' 'misilleme'dir ama 'temiz' 'görünür'. Jacek'in 'çocukluğu' — 'kız kardeş'inin 'ölümü' — 'açıklama' değil 'arka plan'dır.
 
 ## Mekanizma
-Yeşil-kahverengi renk paleti ve karanlık ışıklar Varşova'yı cehennem gibi gösterir; Jacek'in yüzü suçsuzdur ama eylemi vahşidir — 'kötü' kategorisi sorgulanır. İdamın ritüeli (papaz, doktor, cellat) modern toplumun barbarlığını simgeler.
+'Yeşil-sarı' 'filtre' — 'hasta' 'dünya' — 'doğa' 'kirlidir'; 'uzun' 'cinayet' — 'gösterişsiz' — 'acı' 'çekilir'. 'İdam' 'hazırlığı' — 'külot' 'giyme', 'göz' 'bağlama' — 'insan'lıktan 'çıkarma'dır; 'avukat'ın 'ağlaması' — 'kaybeden' 'tek' 'duygu'dur.
 
 ## Kişisel uygunluk
-Etik ve devlet şiddeti profiline çok güçlü uyuyor.
+İdam ve 'sistem' 'eleştirisi' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · A Short Film About Killing (1988) · Notlar
 ### Tartışmalar & Notlar

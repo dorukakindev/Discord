@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **5** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Dead Ringers (1988) · Derin Analiz
 # Ayrıntılı konu
-Elliot ve Beverly Mantle, ikiz jinekologlardır; bir kadın (Claire) ikisiyle de ilişki yaşar ve Beverly'nin bağımlılığı kontrolsüzleşir. İkizlerin bedenleri ve zihinleri birleşir — Beverly'nin cerrahi araçları 'mutant' kadın organları için tasarlanmış gibi görünür. Son sahnede ikizler birbirlerini keser ve 'seni bir parça olarak hatırlayacağım' sözüyle biter.
+Cronenberg'in 'ikiz' filmi: Beverly ve Elliot Mantle (ikisi de Jeremy Irons) — jinekolog, 'kadınları' 'paylaşırlar'; Beverly 'duygusal', Elliot 'soğuk'tur. Claire Niveau — 'kısır' aktris — Beverly'yi 'kırar': 'Bir kadınla yatıyorum ama erkek değilim.' Beverly 'delirir' — uyuşturucu, 'garip' aletler, 'kadın' bedeni 'korku'ya dönüşür. Sonunda ikizler 'ayrılamaz' — 'Beverly' 'Elliot'u 'öldürür' ama 'kendini' de 'öldürür'.
 
 # Tez
-İkizlik, bedenin ve ruhun aynı madde olduğu korkusudur — Beverly'nin çöküşü Elliot'un da çöküşüdür çünkü ikisi tek 'ben'dir. Cronenberg'in sorusu: aşk, ikizliği bozabilir mi?
+İkizlik, 'bölünme' değil 'birlik' ister — Cronenberg'in tezi: Beverly ve Elliot 'tek' ruhtur; 'ayrılık' onları 'öldürür'. 'Kadın bedeni' — 'doktor' ile 'hasta' arasındaki 'sınır' — 'kontrol' ile 'teslim' arasındaki 'savaş' alanıdır.
 
 ## Mekanizma
-Tıbbi aletlerin metalik soğukluğu bedenin kutsallığını yok eder; kırmızı ameliyat önlükleri kan ve hayatı birleştirir. İkizlerin yüzleri aynıdır ama sesleri farklıdır — beden parçalanması benliğin parçalanmasıdır.
+Jeremy Irons'ın 'çift' performansı — 'aynı' ama 'farklı' — 'ikizlik'i 'beden'de verir; 'cerrahi aletler' — 'Mantle Retractor' — 'insan'ın 'mekanik' halidir. 'Gösterişli' setler — 'twin' odalar, 'ayna' görüntüleri — 'benlik'in 'bölünmesi'ni görselleştirir. 'Claire' karakteri — 'dışarıdan' — 'ikizlerin' 'iç' dünyasını 'açar'.
 
 ## Kişisel uygunluk
-İkizlik ve beden-bilinci teması profiline çok güçlü uyuyor.
+Kimlik, ikizlik ve 'beden' korkusu profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Dead Ringers (1988) · Notlar
 ### Tartışmalar & Notlar

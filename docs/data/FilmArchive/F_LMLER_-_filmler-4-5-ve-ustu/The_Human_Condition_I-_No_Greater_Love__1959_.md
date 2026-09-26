@@ -19,20 +19,16 @@ Düşünsel **9** · Psikolojik **9** · Diyalog **8** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · The Human Condition I: No Greater Love (1959) · Derin Analiz
 # Ayrıntılı konu
-
-The Human Condition I: No Greater Love (1959), Masaki Kobayashi'nin üçlemenin ilk bölümüdür. Kaji, İkinci Dünya Savaşı'nda bir Japon maden kampında Çinli esirlere insanca davranmaya çalışan bir yöneticidir. Kamp koşulları kötüleşir, Çinli esirler isyan eder, Kaji'nin insani girişimleri başarısız olur. Kaji, Çinli esirlerin lideriyle bir dostluk kurar ama bu dostluk, Japon askeri sisteminin baskısı altında ezilir. Kaji'nin 'insanlık' anlayışı, sistemin acımasızlığıyla çarpışır; ilk bölüm, onun vicdanının maliyetini gösterir.
+Kaji, idealist bir yönetici olarak Mançurya'daki bir madenin 'Çinli esir işçi' kampına atanır; amacı insanlığı korumaktır ama kurum onu ya acımasız olmaya ya da görevi bırakmaya iter. Çinli işçilerin 'istekli çalışma' vaadi, Kempeitai'nin işkencesi ve bir halka idam — Kaji her seferinde daha fazla uzlaşır ama sonunda vicdanı kazanır ve askere alınır. Karısı Michiko'nun gelişi ona tek ahlaki sığınaktır.
 
 # Tez
+İyi niyet sistem içinde çürür — Kaji'nin her 'orta yol'u onu biraz daha ortak yapar; Kobayashi'nin ilk bölümü ahlaklı yöneticinin imkânsızlığını gösterir: emirleri kırmadan merhamet edemezsin, merhamet edersen sistemin dışına düşersin.
 
-The Human Condition I (1959), 'insanlık' kavramının sistem içindeki imkânsızlığını sorgulayan; Kaji'nin vicdanını bir direniş biçimi olarak sunan, üçlemenin temelidir.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Kaji'nin 'insanlık' girişimleri ile sistemin tepkisi arasındaki çatışmadır. Kobayashi, Kaji'nin her 'insanileştirme' hamlesinin sistem tarafından cezalandırıldığını gösterir; Çinli esirlerin isyanı, Kaji'nin yetersizliğini değil sistemin başarısızlığını kanıtlar. Kaji'nin vicdanı, onu hem Japon hem Çinli tarafta 'hain' yapar.
+## Mekanizma
+Kampın 'medeni' konuşmaları ile arkada süregiden işkence aynı kadrajlarda birleşir — Kaji'nin penceresi her zaman arka planda suç barındırır. İdam sahnesi filmin kırılma noktasıdır: Kaji izlemek zorunda kalır, izleyici de.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk ve psikolojik mekanizma zirvede; vicdan-sistem çatışması anlatının tek gerçek konusu. Nedensellik katı; diyaloglar ahlaki ikilemleri dile getirir.
+Ahlaki uzlaşma ve kurumsal şiddet profiline çok güçlü uyuyor — 'iyi insanın işkencesi' teması.
 
 -# THE FILM ARCHIVE · The Human Condition I: No Greater Love (1959) · Notlar
 ### Tartışmalar & Notlar

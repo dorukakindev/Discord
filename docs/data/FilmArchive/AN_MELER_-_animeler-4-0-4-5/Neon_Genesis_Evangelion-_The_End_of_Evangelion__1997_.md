@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/3Vb9FFTNr5en0Szl9YgRWlUPGtk.jpg
 > **Yönetmen:** Hideaki Anno, Kazuya Tsurumaki · **Tür:** Animasyon, Aksiyon, Dram · **Süre:** 87 dk · **Dil:** Japonca · **Yıl:** 1997
 **Sana uygunluk: 4.0/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve psikolojik mekanizma 9/10.
 
-SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.
+NERV kuşatması altında Shinji, insanlığın tek bilinçte eritileceği Enstrümantalite'ye karşı 'ayrı kalmayı' seçer; kumsalda Asuka ile buluşması benlik acısının kabullenildiği andır.
 
 ### Puanlar
 IMDb **8.1/10** · Letterboxd **4.48/5** · nMDB **85.3**
@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **9** · Diyalog **6** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Neon Genesis Evangelion: The End of Evangelion (1997) · Derin Analiz
 # Ayrıntılı konu
-NERV'in üçüncü etki başlar: SEELE'nin sahneleri ve Gendo'nun kendi planı çatışırken Shinji, Asuka ve Rei'nin bireysel karmaşası insanlık tamamlama planının motoru olur. İnsanlık tek turuncu okyanusa çözülürken Shinji, acı çekmeye devam eden ayrı bir benlik mi olmak ister, yoksa her şeyle birleşmeyi mi kabul eder? Filmin sonunda Shinji Asuka'yı boğarken donar; dünya kırmızı deniz kalır ve 'kimochi warui' sözcüğü finali kapatır.
+Dizinin alternatif finali: NERV karargahı Seele tarafından kuşatılır, personel katledilir; Shinji, Asuka ve Rei'nin 'Enstrümantalite' — tüm insanlığın tek bilinçte eritilmesi — sürecinde kendi benliklerini koruyup korumayacakları seçimiyle yüzleşir. Shinji reddeder: 'acı çekmek bile olsa ben olmak istiyorum'; İnsanlık tek denize döner, sonra seçim bireylere bırakılır. Son sahne — Shinji ve Asuka kumsalda, Rei'nin hayaleti suda — 'Kim bir arada yaşamak ister? Ben' ile 'Bir kız daha görmek istiyorum' cümlelerinin çakıştığı yerdedir.
 
 # Tez
-Birey olmak acıdır çünkü sınır vardır; birlik olmak rahatlıktır çünkü sınır yoktur. Anno'nun cevabı: acıya rağmen sınır — kalp atışının bedeli budur.
+Kabul, benliğin kaybı değil acının onayıdır — Anno'nun tezi: Enstrümantalite 'cennet'tir çünkü reddetme 'öteki'yi yok eder; Shinji'nin 'hayır'ı acının 'evet'idir — ayrı kalmayı seçmek, sevmenin ilk koşuludur. Ölüm değil 'diğeri' vardır.
 
 ## Mekanizma
-AT Field, psikolojik sınırların fiziksel metaforudur: her ruh kendi atmosferini taşır ve tamamlanma bu duvarların çözülmesidir. Robot savaşları psikanaliz sahnesi haline gelir; en iyi mecha animesi aslında Jung-doki psikodrama.
+Animasyon ile canlı aksiyon karışır — Anno'nun 'kendini izleyen' sahnesi (boş sinema, 'Pachinko' makinesi) otaku kültürünü aynaladır; 'Congratulazioni' sahnesi (komedi kısım) finalin 'alternatif'idir — Shinji'nin 'normal' hayatı. Mecha sahneleri iç savaşın dışavurumudur — Eva'lar insan bedenini 'arındırır' ama acıyı yok edemez.
 
 ## Kişisel uygunluk
-Ezoterik/sembolik yoğunluk maksimum; psikolojik yapısı profile birebir uyuyor.
+Benlik, depresyon ve toplumsal kabul profiline çok güçlü uyuyor — anime tarihinin en cesur finali.
 
 -# THE FILM ARCHIVE · Neon Genesis Evangelion: The End of Evangelion (1997) · Notlar
 ### Tartışmalar & Notlar

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg
 > **Yönetmen:** Billy Wilder · **Tür:** Dram, Film-Noir · **Süre:** 110 dk · **Dil:** İngilizce · **Yıl:** 1950
 **Sana uygunluk: 3.6/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 8/10 ve diyalog 8/10.
 
-Parasız senarist Joe Gillis, sessiz sinema döneminin unutulmuş yıldızı Norma Desmond'un malikânesine sığınır ve onun 'dönüş filmi' hayalinin yazarı olur. Norma'nın sahiplenmesi saplantıya, Joe'nun kaçış çabası trajediye dönüşür.
+Borçlu senarist Joe Gillis, sessiz film yıldızı Norma Desmond'un malikânesine sığınır; 'geçmişte yaşayan' Norma'nın sevgisi Joe'yu havuzda ölüme götürür ve anlatıcı ölüden konuşur.
 
 ### Puanlar
 IMDb **8.4/10** · Letterboxd **4.44/5** · nMDB **86.4**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · Sunset Boulevard (1950) · Derin Analiz
 # Ayrıntılı konu
-Senarist Joe Gillis, borçlulardan kaçarken Sunset Bulvarı'ndaki bir malikâneye sığınır — orası sessiz sinemanın unutulmuş yıldızı Norma Desmond'un evidir. Norma onu 'geri dönüş' senaryosunun yazarı yapar, gençliğini ve gücünü satın alır; Joe'nun senarist Betty'ye âşık olması dengeleri bozar. Sonunda Norma Joe'yu havuz başında vurur — ve film ölü adamın ağzından, suyun altından anlatılır. 'I am ready for my close-up' cümlesiyle Norma kameralara yürür: delilik ve tören aynıdır.
+Billy Wilder'ın 'Hollywood' 'karanlığı': Joe Gillis, senarist — 'borç'lu, 'kaçak'; Norma Desmond, 'sessiz' 'film' 'yıldızı' — 'büyük' 'malikâne'de 'hayal'le 'yaşar'. Joe 'canlı' 'yemek' olur — 'yazı' için 'aşk' 'satın alır'; Norma 'genç' 'sevgili'yi 'oynar' ama 'yaş' 'gerçeği' 'kırar'. Joe 'öldürülür' — 'havuz'da 'yüzer' — ve 'anlatıcı' 'ölü'dür: 'yukarıdan' 'bakarız'.
 
 # Tez
-Şöhret ölür ama sahnesi asla kapanmaz — Norma'nın malikânesi Hollywood'un mumyalanmış geçmişidir ve Wilder'in ironisi Joe'nun sesidir: ölü bir anlatıcı, hikâyesini bile elinde tutamaz. Sistem sizi öldürür, sonra da sizi kendi ölümünüzü anlatmaya zorlar.
+Şöhret, 'zaman'ın 'tutsaklığı'dır — Wilder'ın tezi: Norma 'geçmişte' 'yaşar' çünkü 'gelecek' 'yok'tur; 'büyüklük' 'imkânsız'dır — 'küçük' 'büyüklük' 'delilik'tir. 'Havuz' 'son'dur — 'lüks' 'ölüm'le 'aynı' 'yer'dir.
 
 ## Mekanizma
-Franz Waxman'ın müziği ve noir fotoğrafçılığı (John Seitz) malikâneyi mezar gibi çeker; sessiz film yıldızları (Keaton, Swanson'ın gerçek filmleri) araya girer. Joe'nun anlatısı Hollywood'un kendi hakkındaki en keskin metinidir — mezarın içinden film yapmak.
+'Ölü' 'anlatıcı' — 'flashback' — 'geçmiş' 'şimdi'den 'ağır'dır; Norma'nın 'salonu' — 'fotoğraf'lar, 'projektör' — 'mezar' 'gibidir. 'New Year's Eve' — 'sadece' 'iki' 'kişi' — 'yalnızlık' 'ihtişam'dadır; 'Close-up' — 'son' 'bakış' — 'kamera' 'ruh'u 'yutar'.
 
 ## Kişisel uygunluk
-Sistem eleştirisi ve ölüm-anlatısı profiline güçlü uyuyor.
+Şöhret, yaşlanma ve 'hayal' 'çöküşü' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Sunset Boulevard (1950) · Notlar
 ### Tartışmalar & Notlar

@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg
 > **Yönetmen:** Bernardo Bertolucci · **Tür:** Dram · **Süre:** 108 dk · **Dil:** İtalyanca · **Yıl:** 1970
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve fikir-karakter bütünleşmesi 9/10.
 
-Marcello Clerici, faşist İtalya'da 'normallik' arayışıyla gizli polise katılır ve balayı gezisini eski hocası Profesör Quadri'ye suikast göreviyle birleştirir. Uzlaşma arzusu onu önce dalkavuk, sonra suç ortağı, en sonunda da hiçliğe götürür.
+1930'lar İtalya'sında Marcello Clerici, 'normal' bir hayat için faşist güvenlik servisine girer ve eski profesörü Quadri'yi öldürme görevini kabul eder; uyum arzusu onu suç ortağı yapar.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.19/5** · nMDB **81.4**
@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **9** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · The Conformist (1970) · Derin Analiz
 # Ayrıntılı konu
-
-The Conformist (1970), Bernardo Bertolucci'nin Alberto Moravia'nın romanından uyarladığı, faşist İtalya'da bir adamın 'normal' olma arzusunu anlattığı filmidir. Marcello Clerici, geçmişteki bir eşcinsel deneyimini unutmak için faşist rejime bağlanır; evlenir, parti üyesi olur, siyasi görevler üstlenir. Balayında Paris'te eski profesörü Quadri'yi bulur ve onun öldürülmesine ortam hazırlar — Quadri'nin karısı Anna, Marcello'nun geçmişteki 'günahının' bilgisini taşır. Marcello'nun 'uyum' arayışı, onu cinayete, sonra kendi kimliğinin çöküşüne götürür; Vittorio Storaro'nun geometrik kadrajları, faşist estetiğin ruhsal haritasıdır.
+Marcello Clerici, 1930'lar İtalya'sında faşist güvenlik servisinin ajanıdır; görevi eski profesörü Quadri'yi (anti-faşist, Paris'te) öldürmektir. Marcello 'normal' olmak ister — ailesi, sevgilisi Giulia ile 'sıradan' hayat — ama içinde bir 'farklılık' (çocuklukta bir şoförü öldürmesi) onu itiraf ettirir. Quadri'yi arabayla ormana götürür ve ölüm emrini verir; karısı Giulia da ölür çünkü arabada bulunur. Final: Marcello, 1943'te Mussolini düşünce 'ait olduğu' yerden atılır — bir eşcinsel denizciyle konuşurken Quadri'nin anısı onu sarar.
 
 # Tez
+Uyum, suçun en sinsi formudur — Bertolucci'nin tezi: Marcello 'faşist' değil, 'uygun'dur; katılım ideolojiden değil 'ait olma' arzusundan doğar. Suikast onun 'normal' hayatının bedeli değil, 'normal' olma arzusunun ürünüdür — düzen, kurbanlarını 'vatandaş' yapar.
 
-The Conformist (1970), faşizmin psikolojik temelini — 'normal' olma arzusunun bireyi nasıl cinayete ve kendi yok oluşuna götürdüğünü — sorgulayan; estetik ve siyasetin aynı yüzeyde buluştuğu bir karakter çalışmasıdır.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Marcello'nun 'normalleşme' arzusudur: her adımı geçmişini bastırma çabasıdır. Bertolucci, faşizmi dışsal bir sistem değil, Marcello'nun içsel ihtiyacı olarak gösterir — rejim, onun 'normallik' arayışının araçsal karşılığıdır. Anna'nın öldürülmesi, Marcello'nun geçmişini fiziksel olarak silme girişimidir; ama cinayet, onu 'normal'leştirmez, sadece daha derin bir suça batırır.
+## Mekanizma
+Vittorio Storaro'nun fotoğrafı — gölgeler, Art Deco mekânlar, dans sahneleri — estetik olarak faşizmi 'güzel' kılar ama ahlaki çürümeyi aynı güzellikle verir; tren sekansı (karanlık, pencereler, Quadri'nin telefonu) gerilimin merkezidir. Rousseau'nun 'Eylül' şarkısı Paris sahnelerini 'rüya' yapar — cinayet burada 'gerçek' değil 'karar'dır.
 
 ## Kişisel uygunluk
-
-Psikolojik mekanizma (bastırma, uyum arzusu, projeksiyon) ve fikir-karakter bütünleşmesi tam puan: Marcello arketipik değil patolojiktir. Sembolik katman (ışık, gölge, geometri) faşist estetiğin ruhsal haritasıdır.
+Faşizm psikolojisi ve uyum eleştirisi profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Conformist (1970) · Notlar
 ### Tartışmalar & Notlar

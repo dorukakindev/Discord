@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · The Battle of Algiers (1966) · Derin Analiz
 # Ayrıntılı konu
-
-The Battle of Algiers (1966), Gillo Pontecorvo'nun Cezayir bağımsızlık savaşının 1957'deki kasaba çatışmasını anlattığı filmidir. Ali La Pointe, bir sokak çocuğu; FLN'ye katılır ve Cezayir'in kasabasında gerilla eylemleri düzenler. Fransız paraşütçüler 'taktik' sorgulama yöntemleri kullanır — işkence, keyfi tutuklama, sivil katliam. Pontecorvo, 'belgesel estetiği' kullanarak gerçek olaylara yaklaşır; her iki tarafın da 'mantık'ını gösterir. Ali'nin 'başarısızlığı' — FLN'nin kasaba savaşını kaybetmesi — tarihsel olarak 'başlangıç'tır; bağımsızlık 1962'de gelir ama film, 'savaşın' bedelini sorgular.
+Cezayir'in bağımsızlık savaşı (1954-1962): FLN'in Kasbah'daki hücreleri ve Fransız paraşütçü Albay Mathieu'nun karşı-savaşı. Film üç bombalama sahnesiyle ilerler — kadınlar 'Fransız' kıyafetiyle kafelere bomba koyar; Fransızlar eziyet ve işkenceyle hücreyi çözer. Ali la Pointe, çocukluktan gerillaya dönüşür; sonunda yakalanır ve 'Cezayir halkı özgürdür' bildirgesi okunur. Tarihsel figürler gerçek adlarıyla oynar — Pontecorvo 'belgesel' gibi çeker ama hiç belge kullanmaz.
 
 # Tez
+Şiddetin mantığı, karşı-şiddetin meşrulaştırıcısıdır — Pontecorvo'nun çift taraflılığı: Fransızların işkencesi de, FLN'in bombası da 'vatanseverlik' adına yapılır; filmin gücü 'taraf tutmaması' değil, iki tarafın da 'kendi içinden' haklı çıkmasıdır. Sömürgecilik, direnişi 'terör' olarak yaratır — sonra onu yok etmek için kendi şiddetini üretir.
 
-The Battle of Algiers (1966), şehir gerillasının ve karşı-gerilla stratejisinin mantığını 'belgesel tarafsızlığıyla' sorgulayan; şiddetin hem 'araç' hem 'sonuç' olduğunu gösteren bir tarihsel analizdir.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Ali'nin 'gerilla' dönüşümüdür: sokak çocuğundan liderliğe. Pontecorvo, FLN ve Fransız paraşütçülerin 'mantıklarını' paralel gösterir — ikisi de 'strateji' olarak şiddet kullanır. İşkence sahneleri, 'sorgulama' tekniklerinin fiziksel bedelini gösterir; 'mantık' ile 'insanlık' arasındaki çizgi, savaşın ortasında kaybolur.
+## Mekanizma
+Ennio Morricone'nin müziği ve haber-stili kameralar — el kamerası, uzun objektif — olayı 'şimdi' gibi verir; ama Pontecorvo hiçbir gerçek belge görüntüsü kullanmaz çünkü 'belge' anlatıyı 'tarihe' kapatır. Kadınların kılık değiştirmesi sahnesi — Fransız kıyafeti = ölüm maskesi — sömürge estetiğinin ikiyüzlülüğünü gösterir.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (şiddet-strateji, sömürgecilik) ve nedensellik tam puan; Ali ve Mathieu arketipik ama psikolojik olarak derindir. Politik ağırlık tam ama taşıyıcısı güçlü.
+Sömürge karşıtlığı ve gerilla savaşı profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Battle of Algiers (1966) · Notlar
 ### Tartışmalar & Notlar

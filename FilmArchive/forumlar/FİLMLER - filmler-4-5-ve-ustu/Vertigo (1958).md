@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg
 > **Yönetmen:** Alfred Hitchcock · **Tür:** Gizem, Romantik, Gerilim · **Süre:** 128 dk · **Dil:** İngilizce · **Yıl:** 1958
 **Sana uygunluk: 4.3/5** (güven %95) — En güçlü uyum: psikolojik mekanizma 9/10 ve olay örgüsü 9/10.
 
-Akrofobiden muzdarip emekli bir San Francisco dedektifi, eski bir arkadaşının karısının tuhaf faaliyetlerini araştırırken, bu arada ona karşı tehlikeli bir takıntıya sahip oluyor.
+Yükseklik korkusu olan eski dedektif Scottie, eski arkadaşının karısı Madeleine'i izlemeye başlar; kadının 'ölüme' olan takıntısı ve sonunda ortaya çıkan 'ikinci kimlik' onu obsesif bir yeniden yaratma oyununa iter.
 
 ### Puanlar
 IMDb **8.2/10** · Letterboxd **4.21/5** · nMDB **83.1**

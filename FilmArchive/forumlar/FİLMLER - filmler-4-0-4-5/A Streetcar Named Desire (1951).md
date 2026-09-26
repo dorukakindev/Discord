@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg
 > **Yönetmen:** Elia Kazan · **Tür:** Dram · **Süre:** 125 dk · **Dil:** İngilizce · **Yıl:** 1951
 **Sana uygunluk: 3.7/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve diyalog 9/10.
 
-Rahatsız olmuş, yaşlanan Güneyli güzel, teselli bulmak için kız kardeşinin yanına taşınır; ancak zalim kayınbiraderiyle yüz yüze gelmek onun düşüşünü hızlandırır.
+Güneyli 'zarif' Blanche DuBois, kız kardeşi Stella'nın kaba kocası Stanley'nin New Orleans'taki evine gelir; geçmişin hayalleri ile Stanley'in fiziksel gerçekliği çatışır ve Blanche 'yabancıların nezaketine' sığınarak delirir.
 
 ### Puanlar
 IMDb **7.9/10** · Letterboxd **4.01/5** · nMDB **79.6**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **9** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · A Streetcar Named Desire (1951) · Derin Analiz
 # Ayrıntılı konu
-Blanche DuBois, kız kardeşi Stella'nın New Orleans'taki evine gelir; kaba koca Stanley Kowalski onun 'zarif' geçmişini araştırır ve Blanche'ın ruhsal çöküşü başlar. Stanley'in şiddeti ve Blanche'ın hayalleri çatışır; sonunda Blanche'ın hafızası onu ele verir ve tecavüz sonrası akıl hastanesine götürülür. Stella bebeğini alıp gider ama geri döner — aynı döngü devam eder.
+Blanche DuBois, Güneyli 'zarif' kadın; New Orleans'ta kız kardeşi Stella'nın kaba kocası Stanley Kowalski'nin (Marlon Brando) evine gelir. Blanche 'geçmişin' kadınıdır — kocası ölmüş, ailesi gitmiş, 'Belle Reve' kaybolmuş; gerçekte 'kirli' bir hayatı vardır ama 'nazik' maskesi takar. Stanley onu 'açığa çıkarır' — tecavüz eder ve Blanche delirir. Son sahne: 'her zaman yabancıların nezaketine güveniyorum' ve Blanche götürülür.
 
 # Tez
-Gerçeklik ile fantezi savaşında kimse kazanamaz — Blanche'ın yalanları onu korur ama sonunda yutar; Stanley'in gerçekçiliği onu galip kılar ama vicdanını yok eder. Williams'ın sorusu: naziklik, vahşi dünyada hayatta kalabilir mi?
+Naziklik, acımasızlığın karşısında çöker — Kazan'ın tezi: Blanche'in 'hayal dünyası' Stanley'in 'gerçek' dünyasına yenilir çünkü toplum 'nazikliği' 'zayıflık' olarak görür; Blanche'in 'deliliği' onun 'kaçış'ıdır — gerçekliğe dayanamama.
 
 ## Mekanizma
-Küçük dairedeki sıkışma karakterlerin çatışmasını fizikselleştirir; kağıt fenerin altındaki ışık Blanche'ın görünümünü simgeler. Yaşlanma, güzellik ve arzu temaları sürekli birbirine girer.
+Brando'nun 'Stella!' çığlığı — fiziksel arzunun sesi — sinema tarihinin ikonik anı; sıcak, terli New Orleans havası 'tenselliği' verir. Vivien Leigh'in Blanche'i — kağıt elbiseler, küpeler, 'ışık' — 'kırılgan' görünür ama 'savaşçı'dır; son sahnede 'temiz' elbisesiyle 'karanlığa' götürülür.
 
 ## Kişisel uygunluk
-Psikolojik derinlik ve trajedi profiline çok güçlü uyuyor.
+Arzu, sınıf ve 'nazik' çöküş profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · A Streetcar Named Desire (1951) · Notlar
 ### Tartışmalar & Notlar

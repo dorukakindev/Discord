@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · Funeral Parade of Roses (1969) · Derin Analiz
 # Ayrıntılı konu
-Eddie, Tokyo'nun gece kulüplerinde drag queen olarak çalışır; geçmişi flashbacklerle açılır — annesinin onu terk etmesi, erkeklerle ilişkileri ve kimlik arayışı. 'Gay' dünyasının iç çekişmeleri (Leda'nın kıskançlığı, Tony'nin ölümü) Oedipus mitinin gölgesinde işler. Son sahnede Eddie babasının fotoğrafını keser ve gözlerini oyar — 'ben' artık kimdir?
+Toshio Matsumoto'nun 'Tokyo' 'yeraltı' filmi: Eddie, 'gay' 'bar' 'hostes'i — 'gece' 'hayatı', 'uyuşturucu', 'seks' — 'annesi' 'arayışı'nda 'kaybolur'. 'Oedipus' 'teması' — 'baba' 'ölümü', 'anne' 'aşkı' — 'modern' 'Japonya'da 'yaşanır'; 'deneysel' 'sahne'ler — 'belgesel', 'şiir', 'karışık' 'medya' — 'gerçek' 'bulunamaz'.
 
 # Tez
-Kimlik, aile trajedisinin yeniden yazımıdır — Eddie'nin 'anne' rolü onu çocukluğun cezasından kurtarmaz. Matsumoto'nun deneysel yapısı: belgesel ve kurmaca iç içe geçer, trans yaşamın gerçekliği stilize edilir.
+Kimlik, 'sürü' 'içinde' 'gizlenir' — Matsumoto'nun tezi: 'gece' 'dünyası' 'aile'nin 'yerini' 'alır'; 'beden' 'kostüm'dür — 'cinsiyet' 'oyun'dur. 'Arama' 'son' 'bulur' ama 'cevap' 'vermez'.
 
 ## Mekanizma
-Yeni dalga estetiği (jump cuts, gerçekliğin kırılması) toplumsal normları sorgular; 'Oedipus' göndermesi kimliğin kader olduğunu imler ama Eddie kendi mitini yazar.
+'Deneysel' 'montaj' — 'hızlı' 'kesme', 'metin', 'ses' — 'bilinç' 'akışı'dır; 'siyah-beyaz' — 'kontrast' — 'gündüz' 'ile' 'gece' 'aynı'dır. 'Tokyo' — 'sokak'lar, 'bar'lar — 'yeni' 'dünya' 'eski' 'gelenek'le 'çatışır'; 'final' — 'yüz' — 'kendi' 'içinde' 'kaybolur'.
 
 ## Kişisel uygunluk
-Kimlik ve queer sinema profiline çok güçlü uyuyor.
+Queer kimlik ve 'yeraltı' 'kültürü' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Funeral Parade of Roses (1969) · Notlar
 ### Tartışmalar & Notlar

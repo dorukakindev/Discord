@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **7** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · That Obscure Object of Desire (1977) · Derin Analiz
 # Ayrıntılı konu
-Mathieu, Fransa'da zengin bir adamdır; Conchita adlı genç kadına âşık olur ama o onu sürekli reddeder — 'aşk' der ama teslim olmaz. Conchita iki farklı aktris tarafından oynanır (Carole Bouquet ve Ángela Molina) — Mathieu'un arzusunun çift doğasıdır. Son sahnede bombalı saldırı olur ve film karanlıkta biter — arzunun da şiddetin de sonu gelmez.
+Buñuel'in son filmi: Mathieu, zengin yaşlı adam; Conchita — 'güzel' ama 'erotik' 'reddeden' kadın — onu 'aşk' ile 'işkence' eder. İki aktris — Carole Bouquet ve Angela Molina — 'aynı' karakteri 'oynar' — 'arzu'nun 'iki yüzü'dür. Mathieu 'tren'de 'hikâyeyi' 'anlatır' — 'mağdur' 'görünür' ama 'fail'dir; 'terör' 'bombası' 'arka planda' 'patlar' — 'dünya' 'kaos'tur.
 
 # Tez
-Arzu, nesnesini hiç yakalayamaz çünkü nesne her zaman kaçar — Buñuel'in oyunu: Conchita'nın iki yüzü Mathieu'un hayalindeki çoklu kadını gösterir. 'Belirsiz nesne' sadece kadın değil, arzunun kendisidir.
+Arzu, 'sahte' 'söz'lerle 'beslenir' — Buñuel'in tezi: Mathieu 'kurban' 'değil' 'takipçi'dir; Conchita 'nesne' değil 'ajandır' — 'vermek' ile 'vermemek' 'aynı' 'güç'tür. 'Bekaret' 'pazarlık' 'malzemesi'dir.
 
 ## Mekanizma
-Aynı karakterin iki aktris tarafından oynanması anlatıyı kırar ama arzunun sürekliliğini gösterir; İspanya/Fransa geçişleri toplumsal çalkantıyı yansıtır (terör saldırıları arka plandadır).
+'İki' aktris — 'aynı' 'sahne' 'farklı' 'yüz' — 'arzu'nun 'süreksizliği'dir; 'tren' 'anlatısı' — 'geçmiş' 'şimdi'ye 'döner'. 'Terör' 'olayları' — 'patlama', 'ateş' — 'sosyal' 'kaos'u 'arka plan'a 'koyar' ama 'siler'.
 
 ## Kişisel uygunluk
-Arzu ve gerçeklik çarpıtması profiline güçlü uyuyor.
+Arzu, 'oyun' ve 'sınıf' 'eleştirisi' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · That Obscure Object of Desire (1977) · Notlar
 ### Tartışmalar & Notlar

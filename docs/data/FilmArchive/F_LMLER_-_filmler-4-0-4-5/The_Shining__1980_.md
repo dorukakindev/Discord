@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg
 > **Yönetmen:** Stanley Kubrick · **Tür:** Dram, Korku · **Süre:** 144 dk · **Dil:** İngilizce · **Yıl:** 1980
 **Sana uygunluk: 3.5/5** (güven %95) — En güçlü uyum: sembolik katman 9/10 ve fikir-karakter bütünleşmesi 8/10.
 
-Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.
+Yazar Jack Torrance, kış bakıcısı olarak Overlook Oteli'ne ailesiyle gider; otelin hayaletleri Danny'nin 'ışıldamasıyla' görünür olur ve Jack'in deliliği labirentte baltayla doruğa çıkar.
 
 ### Puanlar
 IMDb **8.4/10** · Letterboxd **4.21/5** · nMDB **84.1**
@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **5** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · The Shining (1980) · Derin Analiz
 # Ayrıntılı konu
-Jack Torrance, Overlook Oteli'nde kış bakıcısıdır; karısı Wendy ve oğlu Danny ile gelir. Otel 'parlar' — hayaletler, kanlı asansör ve 'Grady'nin kızları' Jack'i delirtir. Danny'nin 'parlaması' otelin geçmişini görür; Wendy Jack'in yazdığı 'All work and no play makes Jack a dull boy' sayfaları keşfeder. Jack, Danny'i labirentte kovalar ama donarak ölür.
+Kubrick'in 'otel' 'kâbusu': Jack Torrance, 'yazar' — 'kış' 'bakıcısı' olarak Overlook Oteli'ne 'gider'; karısı Wendy ve oğlu Danny 'birlikte' 'gider'. 'Otel' 'konuşur' — 'hayalet'ler, 'kan' 'asansörü', 'kız' 'ikizler' — Danny'nin 'ışıldama'sı 'görür'. Jack 'delirir' — 'yazı' 'All work and no play' — ve 'balta' ile 'aile'sini 'avlar'; Danny 'labirent'te 'kaybolur' ama 'kurtulur'.
 
 # Tez
-İzolasyon, deliliğin toprağıdır — otel Jack'in içindeki şiddeti besler çünkü dışarıda başka hiçbir şey yoktur. Kubrick'in sorusu: hayal gücü, kendi hapishanesi midir?
+Delilik, 'geçmiş'in 'tekrarı'dır — Kubrick'in tezi: Overlook 'kötü' değil 'eski'dir — '1921' 'balo' 'fotoğraf'ı 'Jack'in 'orada' 'olduğunu' 'söyler'; 'şiddet' 'döngüsel'dir — 'kurban' 'kurban'ı 'yaratır'. 'Yazı' 'delilik'tir — 'yazar' 'yazamayınca' 'öldürür'.
 
 ## Mekanizma
-Steadicam çekimleri labirentin sonsuzluğunu gösterir; 'Room 237' ve ikiz kızlar geçmişin hayaletleridir ama aynı zamanda Jack'in benliğinin aynasıdır. Renk kodlaması (kırmızı, beyaz, turuncu) psikolojik katmanları biçimlendirir.
+'Steadicam' — 'uzun', 'düz' 'koridor'lar — 'labirent' 'içsel'dir; 'Room 237' — 'kadın' 'hayaleti' — 'arzu' ile 'korku' 'birleşir'. 'Kar' — 'dış' 'dünya' 'kapalı'dır; 'final' — 'fotoğraf' — 'zaman' 'döngüsel'dir 'ama' 'net' 'değildir'.
 
 ## Kişisel uygunluk
-İzolasyon ve delilik profiline çok güçlü uyuyor.
+Delilik ve 'mekân' 'kâbusu' profiline çok güçlü uyuyor — 'en' 'etkili' 'korku' 'filmi'.
 
 -# THE FILM ARCHIVE · The Shining (1980) · Notlar
 ### Tartışmalar & Notlar

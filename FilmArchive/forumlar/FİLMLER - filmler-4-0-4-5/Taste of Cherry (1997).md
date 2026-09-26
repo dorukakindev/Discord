@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **3** �
 
 -# THE FILM ARCHIVE · Taste of Cherry (1997) · Derin Analiz
 # Ayrıntılı konu
-Bay Badii, Range Rover'ıyla Tahran çevresinde gezerek onu gömecek birini arar — o mezarın yanına uzanıp intihar etmek istemektedir. Türk asker, Afghani öğrenci, yaşlı taksi şoförüyle konuşur: herkes farklı bir bakış açısı sunar ama hiçbiri Badii'nin nedenini soramaz — o sadece 'elbette acı' der. Sonunda Taxidermist Selman'ın kabulüyle gece çukura girer; film burada kırılır: kamera kaydı gösterilir, oyuncuların ve ekibin sette güldüğü anlar eklenir.
+Bay Badii, Tahran'da arabayla dolaşır ve birini 'kendini gömmesine' yardım etmeye ikna etmeye çalışır — neden öleceğini söylemez. Üç adamla konuşur: genç bir asker (reddeder), bir din öğrencisi (tartışır ama reddeder), ve Bagheri — yaşlı bir taksidermist — onun hikâyesini dinler. Bagheri'nin cevabı: 'Kirazın tadını unutma.' Film sonunda Badii'nin çukura girip girmediğini göstermez — sadece 'son'u gösterir ve sonra 'kamera arkası' görüntüler.
 
 # Tez
-İntiharı değil, intiharın anlamını sorgulamak: Badii'nin nedeni bilinçli olarak verilmez — 'tadı' kirazın varlığıdır, mevsimlerin, insanın. Kiarostami'nin en radikal jesti: filmin kendisi de intiharı dışarıda bırakır, hayatı onaylayarak.
+Hayat, küçük tatlarla ertelenir — Kiarostami'nin tezi: Badii'nin intiharı 'çözüm' değil 'soru'dur; Bagheri'nin kirazı, hayatın 'tamamlanmış' olmadığını söyler. Film, ölümü 'estetize' değil 'sorgular' — seyirci Badii'nin yerinde olup olmayacağını düşünür.
 
 ## Mekanizma
-Yüzlerin yakın çekimi ve diyalogsuz sürüş sahneleri yalnızlığı fizikselleştirir; Badii'nin karanlık suratı 'öteki'nin sessizliğidir. Son sahne meta-yorumdur — filmin gerçekliği kırılır ve izleyici yalnız bırakılır.
+Araba içi çekimler — sürüş camından, tozlu yollar — 'yolculuk' metaforudur: Badii'nin 'son yolculuğu' sıradan bir sürüş gibi başlar; uzun diyaloglar ve sessizlikler 'yaşamın ritmi'ni verir. Finaldeki video görüntüsü — Kiarostami ve ekibi çekimde — 'filmin kendisi' filmin 'cevabı'dır: hayat devam eder.
 
 ## Kişisel uygunluk
-Varoluşsal minimalizm ve intihar teması profiline doğrudan hitap ediyor.
+İntihar, anlam arayışı ve İran sineması profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Taste of Cherry (1997) · Notlar
 ### Tartışmalar & Notlar

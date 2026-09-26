@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **7** · Diyalog **8** · Olay örgüsü **6** �
 
 -# THE FILM ARCHIVE · Amarcord (1973) · Derin Analiz
 # Ayrıntılı konu
-Fellini'nin çocukluk kasabası Rimini'de bir yıl: Titta'nın ergen arzuları, Gradisca'nın evlenme arzusu, çılgın amca'nın ağaçtaki günü, faşist geçit töreni, denizdeki Rex gemisinin geçişi, büyükannesinin ölümü, kar fırtınası. 'Ben hatırlıyorum' (Amarcord = 'a m'arcord') anlamına gelir ama burada hatıra zaten hayaldir — her karakter bir kartpostal, her olay bir efsanedir. Tarih faşizmin geçişiyle hatıranın içine sızar ama masalsı kalır.
+Fellini'nin 'Rimini' 'nostalji'si: 'ben' — Titta — 'çocukluk' 'hatıraları' — 'okul', 'aile', 'cinsellik', 'faşizm'. 'Kasaba' 'karakter'dir — 'çılgın' 'amca', 'romantik' 'teyze', 'motorlu' 'adam'; 'mevsim'ler 'döner' — 'kar', 'yağmur', 'güneş' — 'zaman' 'dairesel'dir. 'Mussolini' 'geçer' — 'tarih' 'arka plan'dır ama 'belirleyici'dir.
 
 # Tez
-Bellek gerçeği değil, gerçeğin ihtiyaç duyduğu efsaneyi üretir — Fellini'nin Rimini'si asla var olmadı ama hepimizin çocukluğudur. Film, 'öznel gerçek'in 'tarihsel gerçek'ten daha doğru olduğunu savunur: hatıralar güzeldir çünkü gerektiği gibi çarpıtılmıştır.
+Hatıra, 'yalan'ın 'en' 'güzel' 'hâli'dir — Fellini'nin tezi: 'geçmiş' 'geri' 'dönmez' ama 'yeniden' 'yazılır'; 'nostalji' 'acı' değil 'şiir'dir. 'Kasaba' 'insan' 'ruhunun' 'sahnesi'dir — 'herkes' 'oyuncu'dur.
 
 ## Mekanizma
-Set açıkça yapaydır (deniz bir branda, kar pamuk) — sahtelik amaçlanır çünkü hatıra da sahtedir; her sahne bir 'sketch' gibi kapanır, anlatı değil atmosfer toplar. Rex'in geçişi filmin merkezi görsel mitidir — modernitenin çocukluğa baskını.
+'Fantezi' — 'düş' 'ile' 'gerçek' 'karışır' — 'hatıra' 'düzeltir'; 'müzik' — Nino Rota — 'duygu'nun 'melodisi'dir. 'Gradisca' — 'güzel' 'kadın' — 'arzu'nun 'nesnesi' değil 'simge'sidir; 'final' — 'düğün' — 'devam' 'eder' ama 'değişmez'.
 
 ## Kişisel uygunluk
-Bellek, efsane ve otobiyografik büyü teması profiline güçlü uyuyor.
+Nostalji ve 'topluluk' 'portresi' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Amarcord (1973) · Notlar
 ### Tartışmalar & Notlar

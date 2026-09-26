@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **7** �
 
 -# THE FILM ARCHIVE · The Killing of a Sacred Deer (2017) · Derin Analiz
 # Ayrıntılı konu
-Kalp cerrahı Steven, ölen hastasının oğlu Martin'i yıllardır gizlice görür ve ailesine davet eder. Martin'in açıkladığı 'kural' acımasızdır: aile üyelerinden biri felç olacak, açlık çekecek, gözleri kanayacak ve ölecek — Steven birini seçerek öldürmediği sürece. Çocuklar tek tek aynı semptomları gösterir; bilimin tüm sözlüğü karşılıksız kalır ve Steven kör bir turnayla 'adil' seçim yapar.
+Steven Murphy, kalp cerrahı; eski hastası Martin (Barry Keoghan) hayatına girer — babasının ölümünden Steven'ı sorumlu tutar. Martin'in laneti: Steven'ın ailesinden birinin 'spontan' felç olup öleceği, tek çözüm Steven'ın 'birini' öldürmesidir. Bob (oğul) felç olur, Kim (kız) 'gönüllü' olur, Anna (eş) sorgular. Steven sonunda birini seçer — körü körüne döner, silahı ateşler ve Bob ölür. Aile devam eder — ama 'eksik' hâlde.
 
 # Tez
-Ahlakın denklemi kurulduğunda hiçbir bilim kurtaramaz — Steven'in egosu ölçümle, formülle, teşhisle kuşatılmıştır ama ahlaki fiil (kurban seçimi) onu ilkel çağa geri döndürür. Hesaplanamaz olanın hesaplanabilir olanı yuttuğu tragedya.
+Tıp, Tanrı'nın yerine geçemez — Lanthimos'un tezi: Steven'ın 'cerrahi kesinliği' ahlaki soruda çaresizdir; Martin'in 'gücü' bilim dışıdır ama filmin sorusu o değil — 'aile içinde kim değerlidir?' Martin'in laneti aslında Steven'ın seçimini 'itiraf' ettirir: kızını mı oğlunu mu?
 
 ## Mekanizma
-Martin mekanik bir suçlu değil, 'denge' fikrinin somutlaşmış biçimidir; hastalık bilimin alanının dışında olduğu için aile metafizik bir mahkemeye dönüşür. Yorgos'un soğuk kamera hareketleri karakterlerin duygusuzluğunu biçimlendirir.
+Diyaloglar monoton, robotik — karakterler 'duygu'yu göstermezler, izleyiciyi rahatsız eden bu 'düz' tondur; çekimler geniş koridorlar ve açılarla 'hastane estetiği' verir. Martin'in spagetti sahnesi (kendi kanını içmesi) filmin 'doğaüstü'nü normalleştirir; kör seçim sahnesi — dönen sandalye — aile içi 'adalet'in rasgeleliğidir.
 
 ## Kişisel uygunluk
-Felsefi katman (kurban mekanizması, rastlantı-etik) ve psikolojik soğukluk çok güçlü; profilin tam merkezi.
+Ahlaki ikilem ve klinik korku profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · The Killing of a Sacred Deer (2017) · Notlar
 ### Tartışmalar & Notlar

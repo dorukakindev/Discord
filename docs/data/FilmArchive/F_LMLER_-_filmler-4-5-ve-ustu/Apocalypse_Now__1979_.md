@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **8** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Apocalypse Now (1979) · Derin Analiz
 # Ayrıntılı konu
-
-Apocalypse Now (1979), Francis Ford Coppola'nın Joseph Conrad'ın 'Heart of Darkness'ını Vietnam Savaşı'na uyarladığı destansı trajedidir. Willard, ordu komutanı tarafından Kurtz'u 'sonlandırmak' için görevlendirilir; Kurtz, Kamboçya'da kendi krallığını kurmuş bir albaydır. Willard'ın tekne yolculuğu, onu Vietnam'ın kalbine götürür — Playboy tavşanları, sörf, 'Ride of the Valkyries' eşliğinde helikopter saldırısı. Kurtz'un kampına vardığında Willard, onun 'insanlığın sınırı' olduğunu anlar; Kurtz, 'korku'yu bir din haline getirmiştir. Willard onu öldürür ama 'kurtuluş' yoktur — sadece 'the horror, the horror'.
+Yüzbaşı Willard, Vietnam'da bir nehir boyunca yukarı giderek delirmiş Albay Kurtz'ü öldürme görevindedir; yolculuk 'kalbe' iner — her durak daha absürd ve şiddetlidir: Kilgore'un süvari saldırısı ('Napalm'ın kokusunu severim'), Playboy gösterisi, Do Lung köprüsü, Fransız plantasyonu. Kurtz'ün kampında insanoğlu tanrıya dönüşmüştür — Willard onu bulur, öldürür ve 'karanlık'la yüzleşir. Heart of Darkness'ın savaş uyarlaması: medeniyet nehre doğru değil, nehir medeniyete doğru akar.
 
 # Tez
+Savaş, uygarlığın içindeki vahşeti serbest bırakır — Coppola'nın tezi: 'zafer' yoktur çünkü savaş ahlaki zemini çözer; Kurtz delirmemiştir, savaşın 'saf' mantığını sonuna götürmüştür. Nehir yukarı çıktıkça zaman geriye akar — modern savaştan ilkel ritüele geçiş.
 
-Apocalypse Now (1979), savaşın 'medeniyet' maskesini nasıl yırttığını ve insanın 'vahşiliğe' dönüşünü sorgulayan; Conrad'ın karanlık kalbini Vietnam'ın ormanına taşıyan bir kozmik korku denemesidir.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Willard'ın yolculuğudur: her durak, medeniyetin bir katmanının daha soyulmasıdır. Kurtz, 'medeniyetin' son noktasıdır — onun 'krallığı', insanlığın sınırının ötesinde bir deneydir. Coppola, savaşın 'görselleştirilmesini' (Valkyries, sörf, Playboy) onun 'gerçekliğiyle' çelişir; Willard'ın içsel monoloğu, onun Kurtz'a dönüşmesinin kaydıdır.
+## Mekanizma
+Ride of the Valkyries'li helikopter saldırısı — müzik savaşı 'opera' yapar; Kilgore'un sörf tahtası isteği şiddetin absürdlüğünü normalleştirir. Kurtz'ün kampı gölge ve mumla çekilir — Marlon Brando'nun yüzü neredeyse hiç aydınlanmaz; sözleri karanlıkta 'süzülür'. The Doors'un 'The End'i başta ve sonda — başlangıç ile çöküş aynı şarkıdır.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (medeniyet-vahşilik, insanlık sınırı) ve sembolik katman (nehir, orman, Kurtz'un krallığı) tam puan; psikolojik mekanizma (Willard'ın dönüşümü) güçlü.
+Savaş çılgınlığı ve ahlaki karanlık profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Apocalypse Now (1979) · Notlar
 ### Tartışmalar & Notlar

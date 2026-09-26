@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **6** · Diyalog **8** · Olay örgüsü **9** �
 
 -# THE FILM ARCHIVE · Chinatown (1974) · Derin Analiz
 # Ayrıntılı konu
-J.J. Gittes, 1930'lar Los Angeles'ında özel dedektiftir; su işi mühendisi Hollis Mulwray'in cinayetini araştırır ve Noah Cross'un ince işlediği su/siyasi komployu keşfeder. Evelyn Mulwray'in 'kız kardeşim ve kızım' itirafı gerçeği açıklar — Cross hem babası hem kızının babasıdır. Chinatown'da son sahne: Evelyn öldürülür ve Cross kızı alıp gider; Gittes 'forget it Jake, it's Chinatown' ile bitirir.
+Polanski'nin 'noir'ı: Jake Gittes, özel dedektif; 'Evelyn Mulwray'yi izler ama 'gerçek' Evelyn (Faye Dunaway) 'başka'dır — kocası 'su' mühendisidir, 'gizli' bir 'su' skandalı vardır. Jake 'izleri' takip eder — 'sulama', 'yaşlı bakım', 'sahte' emlak — ve 'Noah Cross'u (John Huston) bulur: 'kötü'nün 'baba'sıdır. Final — 'Chinatown' — 'karanlık' 'adalet' sağlanamaz: 'Forget it, Jake. It's Chinatown.'
 
 # Tez
-Bilgi, gücün karşısında silahsız kalır — Gittes doğruyu bilir ama Chinatown'da adalet yoktur çünkü burada her şey Cross'un malıdır. Polanski'nin karanlığı: iyinin bilgisi onu kurtaramaz.
+Kötü, 'kazanan'dır — Polanski'nin tezi: Noah Cross 'kazanır' çünkü 'güç' 'adalet'i 'satın alır'; Jake'in 'doğruluğu' 'suçu' 'açıklar' ama 'cezası' 'kurban'a düşer. 'Chinatown' — 'yabancı' ve 'karanlık' — 'adalet'in 'işlemediği' yerdir.
 
 ## Mekanizma
-Gittes'in 'burnu' filmin metaforudur: koklayan ama yutamayan burun. Suya yapılan vurgular (kuru arazi, vanish) kaynakların politik olduğunu gösterir.
+Jake'in 'bakışı' — 'kamera' onun 'gözü'dür — 'sınırlı' bilgi verir; 'su' — 'okyanus', 'göl', 'kuraklık' — 'yaşam' ile 'ölüm' arasındaki 'savaş'tır. 'Burn' sahnesi — Jake'in 'burnu' kesilir — 'beden'in 'kırılganlığı'nı verir; 'final' — 'ışık' ile 'karanlık' — 'güneş' 'kötü'yü 'aydınlatır' ama 'kaybeden' 'gölge'dir.
 
 ## Kişisel uygunluk
-Noir ve güç araştırması profiline güçlü uyuyor.
+Kötücül güç ve 'kaybedilen' adalet profiline çok güçlü uyuyor — noir'ın 'en karanlık' hâli.
 
 -# THE FILM ARCHIVE · Chinatown (1974) · Notlar
 ### Tartışmalar & Notlar

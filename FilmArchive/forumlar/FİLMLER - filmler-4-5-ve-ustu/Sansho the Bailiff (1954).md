@@ -4,7 +4,7 @@ https://media.themoviedb.org/t/p/w500/cOBsWxFtEoqXIPx4JZP5E7g1WEo.jpg
 > **Yönetmen:** Kenji Mizoguchi · **Tür:** Dram · **Süre:** 124 dk · **Dil:** Japonca · **Yıl:** 1954
 **Sana uygunluk: 4.1/5** (güven %95) — En güçlü uyum: fikir-karakter bütünleşmesi 9/10 ve psikolojik mekanizma 8/10.
 
-11. yüzyıl feodal Japonya'sında idealist bir valinin sürgün edilmesinin ardından karısı ve çocukları köle tüccarları tarafından ayrılır; Çocuklar Zushio ve Anju, zalim mübaşir Sansho'nun emrinde acımasız bir köle olarak satılır.
+Sürgün edilen bir valinin karısı ve iki çocuğu kaçırılıp köleleştirilir; yıllar sonra oğul Zushio kurtulur ve Sansho'nun zalim kampını yıkarken kız kardeşinin fedakârlığını ve annesinin kaybını taşır.
 
 ### Puanlar
 IMDb **8.4/10** · Letterboxd **4.40/5** · nMDB **86.0**
@@ -19,20 +19,16 @@ Düşünsel **8** · Psikolojik **8** · Diyalog **7** · Olay örgüsü **8** �
 
 -# THE FILM ARCHIVE · Sansho the Bailiff (1954) · Derin Analiz
 # Ayrıntılı konu
-
-Sansho the Bailiff (1954), Kenji Mizoguchi'nin bir ailenin köle olarak satılmasını ve annesini aramasını anlattığı filmidir. Zushio ve Anju, babaları sürgün edilince anneleriyle birlikte kaçar; yolda köle tüccarları tarafından yakalanır ve ayrı ayrı satılırlar. Anju, kendini feda ederek Zushio'nun kaçmasını sağlar; Zushio, yıllar sonra vali olur ve annesini arar. Anju'nun ölümü — denize girerek — 'merhamet' kavramının bedelidir; Zushio'nun annesini buluşu, 'güç'ün 'kayıp'la nasıl telafi edildiğinin hikâyesidir. Mizoguchi'nin uzun çekimleri, acının süresini hissettirir.
+11. yüzyıl Japonya'sında bir ailenin dağılması: vali Masauji sürülür, karısı Tamaki ve çocukları Zushio ve Anju yolda kaçırılır. Tamaki köleleştirilir, çocuklar Sansho'nun (kıyı reisi) köle kampına satılır. Anju sonunda göle girerek ölür; Zushio büyüyünce efendinin güvenini kazanır, kaçar, vali olur — ve Sansho'nun düzenini yıkar. Final: Zushio yaşlı, kör Tamaki'yi bulur — 'yok artık köle' — ve ağlama sahnesi sinema tarihinin en yıkıcı kapanışlarındandır.
 
 # Tez
+Adalet, şefkatle başlar ve köleliği bitirir — Mizoguchi'nin tezi: 'insan merhametli olmalı, acımasız değil' — Masauji'nin öğretisi onun oğlunun hayatını belirler. Anju'nun ölümü pasif direniş değil, fedakârlığın en saf hâlidir: kendini veren, özgürlüğü başkasına devreder.
 
-Sansho the Bailiff (1954), 'merhamet'in bedelini ve 'insanlık'ın kölelik altında nasıl hayatta kaldığını sorgulayan; bir ailenin parçalanmasının tarihsel adaletsizliğini konu alan bir trajedidir.
-
-## Hikâye motoru ve psikoloji
-
-Anlatının motoru Zushio'nun 'arama' eylemidir: annesini bulmak, ailenin parçalanmışlığını telafi etmektir. Anju'nun fedakârlığı — kendini denize atması — 'merhamet'in en yüksek biçimidir; Zushio'nun güçlenmesi, onun 'arama' görevinin araçsal karşılığıdır. Mizoguchi, köleliğin fiziksel koşullarını çıplak gösterir; 'insanlık' bu koşullarda 'yaşamak' değil 'hatırlamak'tır.
+## Mekanizma
+Uzun planlar ve kamera hareketleri — Mizoguchi'nin 'nazo no kamera'sı — karakterin alanını 'bir tür' kılar; kaçış sahnesi Anju'nun göle girişiyle su üstünde çekilir — su hem ölüm hem arınmadır. Final sahnesi tek devamlı planda: Tamaki oğlunun yüzünü elleriyle 'görür' — körlük, filmin merkezindeki 'görme'nin ironik telafisidir.
 
 ## Kişisel uygunluk
-
-Felsefi yoğunluk (merhamet-fedakârlık) ve fikir-karakter bütünleşmesi tam puan; Zushio ve Anju arketipik ama psikolojik olarak derindir. Sembolik katman (deniz, ateş, şarkı) yoğun.
+Kölelik, şefkat ve aile kaybı profiline çok güçlü uyuyor — sinemanın en ahlaki filmlerinden.
 
 -# THE FILM ARCHIVE · Sansho the Bailiff (1954) · Notlar
 ### Tartışmalar & Notlar

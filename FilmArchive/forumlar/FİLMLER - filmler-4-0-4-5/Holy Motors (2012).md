@@ -19,16 +19,16 @@ Düşünsel **8** · Psikolojik **7** · Diyalog **6** · Olay örgüsü **4** �
 
 -# THE FILM ARCHIVE · Holy Motors (2012) · Derin Analiz
 # Ayrıntılı konu
-Monsieur Oscar, sabah lüks bir limuzinle evden çıkar ve Paris'te bir dizi 'randevuya' gider — her randevu başka bir varoluştur: dilenci kadın, motion-capture dansçısı, kırmızı canavar Merde, akordeoncu, hatta 'kendi kızıyla' konuşan bir baba. Limuzin onun hareketli soyunma odasıdır; her randevu başka bir sinema türüdür. Film boyunca 'gerçek' Oscar'ı asla görürüz mü belli değildir — en sonunda limuzinlerin de konuştuğu bir dünyada eve döner.
+Leos Carax'ın 'oyuncu' filmi: Monsieur Oscar, 'görevli' — limuzinle Paris'te 'randevulara' gider; her randevuda 'başka' biri olur — 'dilenci', 'katil', 'baba', 'ölen'. 'Ajan'lar 'izler' — 'hayat' 'film'dir ama 'kim' 'oyuncu'? 'Kermit' 'şarkısı', 'motorlu' 'deniz' 'motosikleti', 'merdiven' 'operası' — 'rüya' 'mantığı' 'hükmeder'. Sonunda Oscar 'eve' döner — 'limuzin' 'konuşur' — 'gelecek' 'bilinmez'dir.
 
 # Tez
-Kimlik performansın sürekliliğindedir — 'gerçek benlik' var mı sorusu anlamsızdır çünkü her maske gerçektir; tek sabit 'motor'un (temaşa) kendisidir. Carax'ın elegisi: kameralar kaybolduğunda bile oyunculuk sürer; hayat bir limuzin yolculuğudur.
+Kimlik, 'rol'ün 'toplamı'dır — Carax'ın tezi: 'oyunculuk' 'insan'ın 'doğası'dır — 'hepimiz' 'başkasıyız'; 'teknoloji' 'kamera' 'küçülür' ama 'göz' 'büyür'. 'Güzellik' 'anlık'tır — 'sahne' 'kapandıktan' 'sonra' 'yok'tur.
 
 ## Mekanizma
-Her segment farklı sinema tarihini referanslar (Melies'den Cronenberg'e); 'Miles' adlı kukla-lezbiyen Oscar'ın aynasıdır. Dijital/analog geçişi filmin kendi maddeselliğini sorgular — 'görünmez kameralar' çağında oynamak ölüme benzer ama ölümsüzlüktür de.
+'Limuzin' — 'ara' 'mekân' — 'dönüşüm' 'odası'dır; 'makyaj' 'sahnesi' — 'yüz' 'yazılır' — 'benlik' 'dışsal'dır. 'Entr'acte' — 'müzik' 'arası' — 'film' 'durur' ama 'devam' 'eder'; 'Edith Scob' — 'Eyes Without a Face' 'referansı' — 'sinema' 'tarihi' 'içinde' 'yaşar'.
 
 ## Kişisel uygunluk
-Kimlik ve performans paradoksu, film tarihi iç içeliği profiline çok güçlü uyuyor.
+Kimlik oyunu ve 'sinema' 'metafiziği' profiline çok güçlü uyuyor.
 
 -# THE FILM ARCHIVE · Holy Motors (2012) · Notlar
 ### Tartışmalar & Notlar

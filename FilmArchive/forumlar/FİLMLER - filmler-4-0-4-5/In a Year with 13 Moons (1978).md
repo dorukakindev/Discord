@@ -19,16 +19,16 @@ Düşünsel **7** · Psikolojik **8** · Diyalog **6** · Olay örgüsü **5** �
 
 -# THE FILM ARCHIVE · In a Year with 13 Moons (1978) · Derin Analiz
 # Ayrıntılı konu
-Elvira (doğum adı Erwin), sevgilisi Anton Saitz için Fas'ta cinsiyet değiştirmiştir; döndüğünde Anton onu reddeder ve Elvira Frankfurt'un marjlarında yalnız kalır. Film birkaç günlük 'vurgu' anlarıyla ilerler: Elvira'nın mezbaha işi, rahibe Suor Teresina'ya sığınması, şair Zora'yla ilişkisi, ve en sonda Anton'un ofisine yaptığı 'hesaplaşma' ziyareti. Elvira'nın cesedi dairesinde bulunur — intihar değil, aşkın tüketmesi.
+Fassbinder'ın 'travma' filmi: Elvira/ Erwin — 'trans' 'kadın' — 'aşk' için 'ameliyat' olur ama 'reddedilir'; 'geçmiş' 'hayalet'ler 'peşini' 'bırakmaz' — 'anne', 'sevgili', 'suç'. 'Frankfurt' 'gece' — 'neon', 'sokak', 'yalnızlık' — 'hayat' 'karanlık'tır; 'aşk' 'kaybedilir' çünkü 'kim' 'olduğunu' 'kimse' 'bilmez'.
 
 # Tez
-Beden değiştirmek dünyayı değiştirmez — Elvira'nın trajedisi aşka 'doğru' beden sunamamak değil, aşkın kendisinin bedene değil güce bağlı olmasıdır. Fassbinder'ın en merhametli ve en acımasız filmi: Elvira'yı aşağılayan herkes onu hak edilmiş görüp izleyiciyi suç ortağı yapar.
+Kimlik, 'beden' ile 'ruh'un 'savaşı'dır — Fassbinder'ın tezi: Elvira 'kendini' 'bular' ama 'başkası' 'için' 'yapar'; 'aşk' 'bedeli' 'yok' 'etmek'tir. '13' 'ay' — 'eksik' 'yıl' — 'tamamlanmamış' 'hayat'tır.
 
 ## Mekanizma
-Elvira'nın yüzü (Volker Spengler) sürekli yakın çekimdedir — acının topografyası; mezbaha sahnesi kamerayı çevirmeyi reddeder çünkü izleyicinin kaçışı filmin ahlaki testidir. Mezar ziyareti sahnesindeki uzun sessizlik karakterlerin 'hayata dönüş'ünü bile boğar.
+'Loş' 'ışık' — 'karanlık' 'oda'lar, 'sokak' 'lambaları' — 'iç' 'boşluk' 'görünür'dür; 'süper-16' 'kamera' — 'kaba' 'yüzey' — 'hissiz' 'dünya'yı 'verir'. 'Konuşma' — 'uzun' 'diyalog'lar — 'yalnızlık' 'dil' 'le' 'paylaşılır' ama 'dinlenmez'.
 
 ## Kişisel uygunluk
-Kimlik, aşk ve toplumsal dışlanma teması profiline çok güçlü uyuyor.
+Trans kimlik ve 'yalnızlık' profiline çok güçlü uyuyor — Fassbinder'ın 'en' 'karanlık' 'yüzü'.
 
 -# THE FILM ARCHIVE · In a Year with 13 Moons (1978) · Notlar
 ### Tartışmalar & Notlar
