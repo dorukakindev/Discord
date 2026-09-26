@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Myth_Hunters_M%C3%96RK_BORG_1.jpg/1280px-Myth_Hunters_M%C3%96RK_BORG_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Mörk Borg — Karanlık Kale, Ölmekte Olan Dünyanın Oyunu

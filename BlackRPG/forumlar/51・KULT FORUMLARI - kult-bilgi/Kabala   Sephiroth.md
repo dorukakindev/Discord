@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/2/21/Portae_Lucis_1516.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Kabala / Sephiroth — the Kabbalah, Kült Kozmolojisinin İskeleti

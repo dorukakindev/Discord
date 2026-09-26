@@ -1,5 +1,7 @@
 https://upload.wikimedia.org/wikipedia/commons/3/3d/Ivermectin_skeletal.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Ivermectin_skeletal.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · FORBIDDEN LANDS · Kayıt
 
 # Ivelde — Ivelde, Çılgınlık Saçan Mızrak

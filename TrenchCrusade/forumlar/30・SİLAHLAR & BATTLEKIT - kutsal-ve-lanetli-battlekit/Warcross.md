@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/b/b2/Krigskorset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE TRENCH ARCHIVE · 30・SİLAHLAR & BATTLEKIT · Kayıt
 
 # Warcross — Savaş Haçı (Fırlatma Silahı)

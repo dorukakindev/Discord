@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/3/39/Emblem_of_the_Collective_Security_Treaty_Organization.svg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · DARK SUN · Kayıt
 
 # Kölelik — Slavery, Athas Toplumunun Temeli

@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/1/19/Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 # Astartes Sadik Arastirma — Kayıt Dizini
 
 • **[Black Templars](https://discord.com/channels/1551561397031407626/1552482675187650611)**

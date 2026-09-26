@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/7/77/2009-0726-CA-Bakersfield-FoxTheater_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · BLADES IN THE DARK · Kayıt
 
 # Bakoros — Bakoros, İsimsiz Ruh Bekçisi

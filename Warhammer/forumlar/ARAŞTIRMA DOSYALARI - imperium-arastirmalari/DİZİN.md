@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/3/35/Dizin_Hotel_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 # Imperium Arastirmalari — Kayıt Dizini
 
 • **[Adeptus Arbites](https://discord.com/channels/1551561397031407626/1552482478386708572)**

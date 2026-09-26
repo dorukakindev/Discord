@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/f/f7/Rashidun_Caliph_Ali_ibn_Abi_Talib_-_%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%B7%D8%A7%D9%84%D8%A8.svg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Nechrubel — Sefalet İlahilerini Okuyan, Sonu Getiren

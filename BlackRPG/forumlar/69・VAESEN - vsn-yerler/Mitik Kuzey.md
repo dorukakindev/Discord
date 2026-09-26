@@ -1,3 +1,5 @@
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Yamyaml%C4%B1%C4%9F%C4%B1n_Tarihi_Ve_Van%E2%80%99da_%C4%B0nsan_Yiyen_Bir_Topluluk_Mirovharlar.pdf/page1-500px-Yamyaml%C4%B1%C4%9F%C4%B1n_Tarihi_Ve_Van%E2%80%99da_%C4%B0nsan_Yiyen_Bir_Topluluk_Mirovharlar.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
 -# THE BLACK RPG ARCHIVE · VAESEN · Kayıt
 
 # Mitik Kuzey — The Mythic North

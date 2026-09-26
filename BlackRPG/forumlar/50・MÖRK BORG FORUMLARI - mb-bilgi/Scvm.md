@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/a/ac/Sobrato_Pavilion_at_the_Valley_Medical_Center_1643_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · MÖRK BORG · Kayıt
 
 # Scvm — Paçavralar, Ölmekte Olan Dünyanın Kaybedenleri

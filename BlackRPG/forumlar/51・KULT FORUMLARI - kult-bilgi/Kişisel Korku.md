@@ -1,3 +1,5 @@
+https://upload.wikimedia.org/wikipedia/commons/6/65/Safety_instructions_at_a_construction_site_in_China.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=original
+
 -# THE BLACK RPG ARCHIVE · KULT · Kayıt
 
 # Kişisel Korku — Personal Horror, Gerçeği Öğrenmenin Bedeli
