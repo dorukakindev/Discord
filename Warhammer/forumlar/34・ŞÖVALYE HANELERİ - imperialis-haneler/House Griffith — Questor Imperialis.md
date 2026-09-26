@@ -14,9 +14,11 @@ Yakın dövüşteki ustalığı ve saldırgan taarruzlarıyla tanınan Imperiali
 - **Önemli Olaylar:** Dragon's End'deki canavar savaşları; Imperium'a yemin; Hive Fleet Kraken'e karşı seferler.
 - **Kanon Notu:** Hanenin Imperium'a katılış tarihi ve tekil seferleri Codex edition'ları arasında farklı ayrıntı düzeyinde verilir.
 
-## Tarihçe
+## Üç Başlı
+House Griffith — 'Trinity' olarak bilinen üç yıldızlı hane; en 'ritüelci' Knight hanesi sayılır ve Şövalyelerinin 'namı' dövüşünden önce anılır. Griffith'te Knight olmak 'vahiy' gibidir — pilot, makinenin ruhuyla 'konuşur'. 'Cerastus' sınıfında ustalaşmışlardır.
 
-House Griffith, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biridir — Questor Imperialis hanesi olarak İmparatorluk'a doğrudan bağlıdır. Griffith'in Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Griffith — Questor Imperialis, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; Lexicanum
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

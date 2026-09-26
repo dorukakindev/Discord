@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Bonesinger_Miniature.
 - **Köken:** Craftworld'ler
 - **Önemli Olaylar:** Craftworld inşası ve onarımı
 
-## Tarihçe
+## Şarkıcı
+Bonesinger — Eldar'ın 'wraithbone' (ruh-kemiği) ustasıdır; craftworld'ün yapısını ve onarımını şarkıyla yapar — Bonesinger'ın sesi wraithbone'u 'büyütür'. Silahlar, zırhlar ve hatta craftworld'ün iskeleti onların eseridir. 'Singer' figürü canon'da Eldar'ın 'yaratıcı' yüzünün kanıtıdır — sadece savaşçı değil, zanaatkâr da.
 
-Bonesinger, Aeldari'nin en gizli ve en önemli figürlerinden biridir — wraithbone'u şekillendiren ve Aeldari yapılarını inşa eden figürlerdir. Bonesinger'lar, Aeldari'nin en gizli ve en önemli figürleridir; onların wraithbone'u şekillendirme yeteneği, Aeldari'nin en önemli ve en gizli teknolojisinin kaynağıdır. Bonesinger, Aeldari'nin en gizli ve en önemli figürlerinden biridir; bu figürler, Aeldari'nin en önemli ve en gizli teknolojisinin kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Path of the Eldar*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

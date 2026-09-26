@@ -7,13 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/47/Roberto_Cirillo%27s_X
 
 Tau İmparatorluğu'nun en yüksek rütbeli askeri lideri; gizlilik ve hareketlilik ustası.
 
-## Tarihçe
-Commander Shadowsun (Tau adıyla O'Shaserra), Tau Ateş Kastı'nın (Fire Caste) en yüksek rütbeli komutanı ve "Daha Yüce İyi"ye mutlak bağlılığın somut halidir; asi Farsight'ın sadık antitezi olarak görülür. İkisi de Tau'nun en büyük savaş kahramanlarıdır, ama biri hiyerarşiye isyan etmiş, diğeri ona tam bağlı kalmıştır.
+## Tau'nun Yüzü
+Shas'la T'au Shaserra — Commander Shadowsun — Aun'va'nın öğrencisi ve T'au Empire'ın en bilinen komutanı; Mont'ka (öldürücü darbe) doktrininin canlı örneği. Dawn of War kadrosunda tanındı, 8. edisyonda Imperium'a karşı Tau'nun resmi 'savaş kahramanı' oldu. Stealth Battlesuit ve iki komuta dronu ile savaşır; sahnede kalmaz, zaferi verir.
 
-Shadowsun, Tau'nun üçüncü büyük genişleme seferine (Third Sphere Expansion) önderlik etti; bu sefer, Tau İmparatorluğu'nun sınırlarını insanlık ve diğer ırklar pahasına genişletti. Stratejik dehası ve disiplini, onu Tau toplumunda neredeyse efsanevi bir konuma taşıdı.
+## Kuşatma Savaşları
+Shadowsun'un kariyeri Tau'nun üçüncü genişleme savaşlarıyla yazıldı: Agrellan (Prefectia), Mu'gulath Bay ve son olarak Vigilus'taki büyük kampanya. Shadowsun, Vigilus'ta Imperium'un en iyi generallerini geriletirken aynı anda Tau'nun iç politik dengesinde Ethereal'ların 'kukla' mı 'bağımsız' mı olduğu sorusunun ortasında durur — Farsight'ın karşıtı olarak Tau'va'nın sadık yüzüdür.
 
-Commander Shadowsun (O'Shaserra), Tau İmparatorluğu'nun en yüksek rütbeli askeri lideri ve 'öğrenci-komutan' geleneğinin en parlak ürünüdür — Ethereal Aun'Va'nın seçtiği bu kadın komutan, Kauyon (avcı) ve Mont'ka (ölüm darbesi) doktrinlerinin sentezini temsil eder. Shadowsun'un savaş tarzı, 'ghost' olarak bilinen gizli operasyon taktikleriyle ünlüdür.
-
-Shadowsun'un ünü, Damocles Crusade ve Prefectia savaşlarında pekişti: İmparatorluk'un en iyi generallerini alt eden 'mükemmel hastalık' stratejisiyle tanınır. Farsight'ın 'asileri'ne karşı İmparatorluk'un 'resmî' yüzü olan Shadowsun, Tau'nun 'Greater Good' idealinin en sadık ve en yetenekli askeri beyni olarak kabul edilir — hem politik hem askeri gücü tek bedende toplayan ender figürlerdendir.
+## Kaynaklar
+-# Kaynaklar: *Shadowsun: The Last of Kiru's Line* — Braden Campbell; *Codex: T'au Empire*; Vigilus kampanya kitapları; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -13,12 +13,14 @@ Dark Prince ve Lord of Excess unvanlarıyla anılan Slaanesh; haz, aşırılık,
 - **Önemli Olaylar:** Fall of the Aeldari; Laer ve Fulgrim'in düşüşü; Era Indomitus'ta Fulgrim'in Emperor's Children'la dönüşü.
 - **Kanon Notu:** "Slaanesh kayboldu" iddiası büyük ölçüde Age of Sigmar kaynaklı bir fandom söylemidir; Warhammer 40,000 kanonunda doğrulanmamıştır.
 
-## Tarihçe
+## Kusursuz Aşırılık
+Slaanesh, dört Chaos tanrısının en genci: aşırılığın, hazzın, kusursuzluk takıntısının ve aşırı duygunun tanrısı. Doğuşu Aeldari'nin düşüşüdür — antik Eldar uygarlığının yozlaşması Warp'te birikti ve M29-M30 arasında Slaanesh'in doğuşu patlamasıyla hem Eldar imparatorluğunu yuttu hem de Eye of Terror'u açtı. 'Dark Prince' ve 'She Who Thirsts' diye anılır; Aeldari ona 'She Who Thirsts' der çünkü her Eldar ruhu ölümde ona gider (soulstone olmadan).
 
-Slaanesh, 'Dark Prince' — haz, aşırı, mükemmeliyet ve acının Chaos tanrısıdır; Eldar düşüşünün doğrudan ürünüdür. Aeldari'nin dekadanlığının biriktiği psychic enerji Slaanesh'i doğurdu; doğumu tüm Eldar ırkının ruhlarını yuttu ve Eye of Terror'u açtı. Emperor's Children ve Fulgrim'in hamisidir; Lucius the Eternal, Doomrider ve Keepers of Secrets onun hizmetindedir. Slaanesh, Khorne'un 'saf şiddet' zıddı olarak 'saf his' arar — ses, renk, acı ve haz arasında sınır tanımaz. Ynnead'in doğuşu onun Eldar üzerindeki hakkını kıran tek tehdittir; '6' sayısıyla bağlıdır.
+## Aşırılık Her Şeydir
+Slaanesh'in domaini hazdan ibaret değildir: mükemmellik arayışı, obsesyon, acıdan haz, sanatta aşırılık, sesi silaha çeviren Noise Marine'ler — hepsi ona aittir. Emperor's Children (Fulgrim'le birlikte) onun başlıca lejyonudur; Lucius'un laneti de Slaanesh'in eseridir. Daemonları arasında Keeper of Secrets, Daemonette'ler ve Fiend'ler sayılır; Shalaxi Helbane en ünlü örneğidir.
 
-## Teknik / Biyolojik Özellikler
+## Ynnead ve Rakipleri
+Slaanesh'in karşısındaki tek gerçek tehdit Ynnead'dir — Aeldari'nin 'ölüm tanrısı' projesi, Eldar ruhlarını Slaanesh'ten geri almayı amaçlar. Gathered Storm'da Yncarne'nin doğuşu Slaanesh'in hâkimiyetine ilk gerçek meydan okumadır.
 
-Kutsal sayısı altıdır. Diyarının, t
-
--# İlişkili kayıtlar: <#1551754688008032321>, <#1551814105046851615>, <#1551813750305198101>, <#1551650243865477191>, <#1551813775848509482>
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *Fulgrim* (HH); *Fracture of Biel-Tan* (Gathering Storm); *Path of the Dark Eldar*; Lexicanum

@@ -14,8 +14,11 @@ Maelstrom'un kıyısında Imperium'un bekçiliğini yapan, parlak bir savaş sic
 - **Önemli Olaylar:** Tithe reddi; Badab War; Palace of Thorns'un düşüşü.
 - **Kanon Notu:** Huron'un sonradan Chaos'a yönelişinin savaştan önce başlayıp başlamadığı kaynaklarda farklı değerlendirilir.
 
-## Tarihçe
+## Düşmüş Efendiler
+Astral Claws, Badab War'ın merkezidir — Lufgt Huron'un komutasıyla Imperium'a isyan eden ve sonunda Chaos'a düşen Chapter. Başlangıçta 'otonomi' savaşıydı: Badab Sektörü'nün vergileri ve Maelstrom'un savunması üzerine; ama Huron'un hırsı onu 'Tyrant of Badab' yaptı ve Chapter'ı Red Corsairs'e dönüştürdü.
 
-Astral Claws, gene-lineage'i bilinmeyen ve Badab War'da İmparatorluğa ihanet eden ünlü Space Marine Chapter'ıdır; onların Chapter Master'ı Lufgt Huron, İmparatorluğun baskısına isyan etti ve sonunda Chaos'a düştü — Astral Claws, İmparatorluğun en büyük ihanetinin simgesidir. Astral Claws'un en büyük özelliği, onların taktik dehasıdır — Huron'un liderliğinde, onlar İmparatorluğun en güçlü bölgesel gücü oldular ve onların Badab'daki hakimiyeti, İmparatorluğun otoritesine en büyük meydan okumaydı; ama onların ihaneti, sonlarını getirdi. Astral Claws'un düşüşü, İmparatorluğun en büyük dersidir — onların isyanı, İmparatorluğun kendi içi
+## Huron Blackheart
+Huron'un düşüşü canon'un en iyi 'kademeli ihanet' hikâyesidir — başta haklıydı (Imperium kaynak vermiyordu), sonra kibirli, sonra Chaos'a açık. Astral Claws'ın sonu Chapter'ın Maelstrom'da korsan ordusuna dönüşmesi oldu; Huron hâlâ yaşıyor ve Red Corsairs'ın lideri olarak Imperium'un en tehlikeli 'iç' düşmanıdır.
 
--# İlişkili kayıtlar: <#1551811438547312645>, <#1551809294750449746>, <#1551812225570836561>
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Badab War* kitapları; *Codex: Chaos Space Marines*; Lexicanum

@@ -14,9 +14,11 @@ Karnındaki keselerde gelişen Termagant'ları savaş sırasında dünyaya getir
 - **Önemli Olaylar:** Kaynaklarda tek bir Tervigon'a bağlanmış öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Doğurgan
+Tervigon — Tyranid'in 'anne' bioformudur; sahada sürekli Termagant doğurur ve onları 'canlı' muhafaza eder. 'Spawn of Tervigon' doktriniyle bilinir — bir Tervigon öldürülürse doğurduğu Termagant'lar da 'boğulur' (Hive Mind bağlantısı kesilir). Hive'in 'üretim hattı'nın saha versiyonudur.
 
-Tervigon, Tyranid'in en ünlü ve en büyük yaratığıdır; bir Tyranid ordusunun en büyük 'anne' yaratığı olan ve onun yavrularını doğuran Tervigon, Tyranid'in en büyük ve en önemli varlığıdır — onlar, Tyranid'in en ünlü ve en büyük yaratığıdır. Tervigon'un en büyük özelliği, onun doğurganlığıdır — onlar, bir Tyranid ordusunun en büyük 'anne' yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Tervigon, hem bir yaratık hem de bir üreticidir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Tervigon'un en ünlü özelliği, onun yavrularıdır — onlar, bir Tyranid ordusunun yavrularını doğuran en büyük yaratıktır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Tervigon, Tyranid'in en ünlü ve en büyük yaratığıdır — onlar, bir üreticinin ve Tyranid'in en büyük tehdidinin somut halidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; Lexicanum
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

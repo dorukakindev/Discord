@@ -12,9 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/93/443px-Lelith.png/revi
 - **Köken:** Commorragh arenaları
 - **Önemli Olaylar:** Arena savaşı + baskın birliği
 
-## Tarihçe
+## Gladyatör
+Wyches — 'Wych Cults'ın üyeleri — Commorragh'ın arena savaşçılarıdır; 'Bloodbrides' elitleridir. Savaş onlar için gösteri: uyuşturucu, hız ve estetik ölüm. Hydra gauntlet'leri ve 'drug-fueled' performanslarıyla tanınırlar — bir Wych'in savaşı seyirci içindir ama savaşın kendisi gerçektir.
 
-Wych, Drukhari'nin Commorragh'ındaki 'arena savaşçısı' kültü — zevk ve acının iç içe geçtiği gladyatöryel kültürün en keskin ifadesi. Cult of Strife ve Cult of the Red Grief gibi 'Wyches Cults' Commorragh'ın sokak gücünü elinde tutar; Lelith Hesperax bu kültün efsanevi figürüdür. Wyches'in 'combat-drugs' ve 'webway-speed' kullanımı onları Aeldari'nin en hızlı yakın-dövüş birimi yapar; Commorragh'ın 'gerçek güç' dengesinde Archon'lardan bile daha az öngörülemez varlıklardır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; Lexicanum
 
 -# Kaynaklar: *Drukhari Codex*
 -# İlişkili kayıtlar: <#1552848889214664804>

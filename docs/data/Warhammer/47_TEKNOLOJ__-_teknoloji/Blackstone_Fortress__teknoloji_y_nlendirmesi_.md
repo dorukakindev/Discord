@@ -13,6 +13,11 @@ Gothic Sektörü'nde bulunan ve Imperium'un uzun süre gerçek gücünü kavraya
 - **Bilinen Kullanıcılar / Operatörler:** Abaddon the Despoiler; bir dönem Imperial Navy.
 - **Önemli Olaylar:** Gothic War; Cadia'nın düşüşü.
 
-## Tarihçe
+## Kadim Silah
+Blackstone Fortress — 'Talisman of Vaul' — Old Ones'ın (veya Eldar'ın) yapımı devasa uzay istasyonudur; Warp enerjisini fiziksel güce çevirir ve bir gezegeni tek darbeyle kırabilir. Gothic War'da Abaddon'un hedefi buydu — altısından ikisini kaçırdı, biri Cadia'ya çarptı ve gezegeni kırdı. Blackstone Fortress canon'da 'filo değil felaket' sınıfındadır.
 
-Blackstone Fortress'ler, Old Ones'ın yaşadığı dönemde — muhtemelen C'tan'la savaşmak için — inşa edilmiş altı devasa uzay istasyonudur; noctilith (kara taş) denen ve Warp enerjisini hem çekebilen hem de itebilen bir maddeden yapılmışlardır. Her kale bir gezegen boyutunda, kendi kendini yöneten ve ölümcül silahlarla donanmış bir yapaylıktır; içindeki koridorlar canlı gibi kayar, odalar değişir ve tuzaklar kurar. Abaddon, Gothic Savaşı'nda iki Blackstone Fortress'i ele geçirip birleştirilmiş Warp-ateşiyle bir yıldızı yok etmişti; İmparatorluk da kalıntılarını silah platformu ve inceleme istasyonu olarak kullanır. Yedinci ve kayıp bir kale 41. binyılda yeniden ortaya çıktı ve Precipice bölgesinde hazine avcıları, kaos çapulcuları ve xeno'lar için efsanevi bir hedef haline geldi. Kalelerin tam potansiyeli bilinmiyor — noctilith yapısı onla
+## Mekanik
+Fortress'ler Warp'i 'toplayıp' yansıtır — birinin içindeki 'noctilith' (kara taş) çekirdeği Warp'i maddeleştirir. Birini yok etmek neredeyse imkânsızdır çünkü kendi kendini yeniler. Imperium'un en korkulan 'kayıp silah' kavramıdır — birinin Abaddon'un elinde olması onun en büyük avantajıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Battlefleet Gothic*; *Gathering Storm: Fall of Cadia*; *Blackstone Fortress* (oyun); Lexicanum

@@ -14,6 +14,11 @@ Logan Grimnar, Space Wolves'un Great Wolf'u — 'Chapter Master'ı — ve İmpar
 
 Grimnar'ın efsanesi 'Months of Shame'de perçinlendi: Armageddon'un sağ kalanlarının İmparatorluk tarafından 'decontamination' kampına alınmasına karşı tek başına durdu ve Inquisition'la neredeyse savaş noktasına geldi. Space Wolves'un 'görevli değil onurlu' kimliğinin somut hâli olan Grimnar, bugün İmparatorluk'un 'yaşayan efsanesi' olarak sayılır — Russ'un dönüşünü beklerken Fenris'i koruyan yaşlı ama yenilmez kurt.
 
-## Tarihçe
+## Great Wolf
+Logan Grimnar, Space Wolves'un Great Wolf'u (Chapter Master'ı) ve Fenris'in en saygın savaş lideri; 800+ yıldır Chapter'ını yönetir, Imperium'un en sert ama en onurlu komutanlarından biri olarak tanınır. 'Months of Shame' olayında Inquisition'a karşı durdu — Armageddon'un kurtulan sivilleri Daemon gördü diye yok edilmeye kalkıldığında Grimnar bunu reddetti ve Armageddon'un çelik çekirdeğini korudu; bu yüzden Space Wolves ile Inquisition arasında hâlâ güven sorunu vardır.
 
-Logan Grimnar, Space Wolves'un Great Wolf'u — Chapter'ın en yüksek lideri — ve İmparatorluğun en efsanevi ve en saygın komutanlarından biridir; onların Fenris'in en yaşlı ve en bilge savaşçısı olan Grimnar, İmparatorluğun en büyük savaşlarının ve en büyük onuru
+## Fenris Kültü
+Grimnar Thunderwolf'u Stormbringer'la savaşır; asası ve ulu zırhı Chapter'ın simgesidir. Space Wolves'un Russ geleneğini — onur, savaş kardeşliği, alaycı kaba özgürlük — yaşayan kanıtıdır; 13th Company'nin geri dönmesi ve Primaris'in kabulü onun dengeli liderliğiyle oldu.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Wolves*; *The Emperor's Gift* — Aaron Dembski-Bowden; *Stormcaller* — Chris Wraight; Lexicanum

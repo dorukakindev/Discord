@@ -4,31 +4,42 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revi
 
 # Corvus Corax — Kuzgun Lordu
 
-Gölge, gizlilik ve özgürlük savaşının ustası; bir köle isyanından doğan kurtarıcı. Isstvan katliamı sonrası lejyonunu hatalı klonlamayla yeniden kurmaya çalıştı, ardından kendini sürgüne gönderdi.
+*The Raven Lord · Deliverer · Kiavahr'ın Kurtarıcısı*
 
-- **Numara:** XIX
-- **Lejyon:** XIX · Raven Guard
-- **Sadakat:** Kayıp
-- **Ana Dünya:** Deliverance (Kiavahr)
-- **Akıbet:** "Nevermore" diyerek Göz'e doğru kayboldu
-- **Karakter:** Gizlilik, gerilla savaşı ve özgürlük; kurtarıcı ama yalnız.
-- **Kanon Sınıfı:** A — resmî kaynak
+XIX Legion'ın, Raven Guard'ın Primarch'ı. Gölgelerde görünmez olabilen, gizlilik ve gerilla savaşının ustası; Lycaeus'un maden kolonisinde köle işçiler arasında büyüdü ve onları özgürlüğe taşıdı. Isstvan V'ten Legion'ının küçük bir kalıntısıyla kaçtı; Legion'ını yeniden kurma çabası Heresy'nin en karanlık deneylerinden birine dönüştü. Heresy'nin ardından Warp'a gitti ve bir daha dönmedi.
 
-## Kayıt
+- **Kategori:** Primarch (sadık)
+- **Fraksiyon:** Imperium — XIX Legion, Raven Guard; Raptors, Black Guard ve diğer Successor'lar
+- **Dönem:** Great Crusade → M31 (kayıp)
+- **Köken:** Kiavahr'ın ayı Lycaeus; maden-hapishane kolonisi
+- **Silahlar:** Raven's Talons lightning claw'ları, flight pack; gölgelerde görünmez olma yeteneği
+- **Durum:** Kayıp — Eye of Terror'a girdi; son sözlerinden alıntıyla "Nevermore" diyerek gitti
 
-Corvus Corax, Kiavahr forge dünyasının hapishane ayı Lycaeus'a düştü ve köleler arasında, baskı altında büyüdü; bu yüzden onun bütün varlığı özgürlük, gizlilik ve zalimlere karşı isyan üzerine kuruldu. Köle ayını bir isyana önderlik ederek özgürleştirdi ve oraya "Deliverance" (Kurtuluş) adını verdi.
+## Kökenler: Lycaeus
+Corvus'un kapsülü, sanayi dünyası **Kiavahr**'ın ayı **Lycaeus**'a düştü. Lycaeus, Kiavahr'ın tekno-lonca yöneticilerinin mahkûmları ve siyasi muhalifleri maden işçisi olarak çalıştırdığı bir hapishane-madendi. Bebek Corvus'u mahkûmlar buldu ve onu büyüttü. Genç Corvus, hapishanenin koridorlarında gizlenmeyi, gözlemlemeyi ve düşmanı bölerek yenmeyi öğrendi.
 
-İmparator onu XIX. Lejyon Raven Guard'ın başına geçirdi; lejyon, primarch'ının gölge ve gizlilik ustalığını yansıtıyordu: pusu, jump pack baskınları, gizli sızma ve vurkaç gerilla savaşı. Corax, kurtarıcı ruhunu hiç kaybetmedi, ama doğası gereği yalnız ve içe dönüktü.
+Corvus, mahkûmlar arasında gizli bir direniş örgütledi. Yıllar süren hazırlığın ardından Lycaeus'ta büyük bir isyan başlattı ve ayı ele geçirdi; ardından Kiavahr'ın tekno-loncalarına karşı savaşa girdi. Lycaeus'taki kütle-sürücüleri (mass driver) kullanarak Kiavahr'ı bombaladı ve tekno-loncaları devirdi. Emperor bu sırada Kiavahr'a ulaştı; Corvus ona biat etti.
 
-Isstvan V Drop Site katliamında Raven Guard neredeyse tümüyle yok edildi; ilk dalga olan sadık lejyonlar arkadan vuruldu ve Corax bir avuç hayatta kalanla zar zor kaçtı. Lejyonunu yeniden kurmak için, İmparator'dan aldığı bir bilgiyle hızlandırılmış gen-tohum klonlaması denedi; ama bir sabotaj sonucu sonuç canavarlaşmış, biçimsiz mutantlar oldu. Corax, bu acı dolu yaratıkları savaşta merhametle "kullanmak" zorunda kaldı.
+## Great Crusade
+XIX Legion, Corvus'un gen-tohumuyla yeniden şekillendi ve adını **Raven Guard** olarak aldı. Legion, Corvus'un gizlilik ve gerilla taktiklerine göre biçimlendi: düşmanın zayıf noktalarına ani saldırılar, keşif ve suikast. Corvus'un gen-tohumu, savaşçılarına kısmen gölgelerde gizlenebilme yeteneği kazandırdı; ancak Raven Guard'ın gen-tohumu, derilerinin ve saçlarının solgunlaşmasına ve gözlerinin kararmasına yol açar.
 
-Bu suçluluk ve yas onu içten içe tüketti; sonunda "Nevermore" (Bir Daha Asla) diyerek lejyonunu bırakıp Halkaların Gözü'ne doğru tek başına, kendini sürgüne gönderdi. Kaybolması, dönüşünü bekleyen bir başka kayıp Primarch efsanesidir; Raven Guard hâlâ gölgelerden vuran ölümcül bir güç olarak, kurtarıcı-lordlarının özgürlük ruhunu yaşatır.
+Corvus, Legion'ın savaşçılarını Lycaeus'un eski mahkûmları arasından seçti. Kardeşleri arasında Vulkan ve Ferrus Manus'la iyi ilişkileri vardı; Alpharius'un Alpha Legion'ı ise onun en büyük düşmanlarından biri olacaktı.
 
-## Muharebeler
+## Isstvan V ve Kaçış
+Raven Guard, Isstvan V'teki Drop Site Massacre'da ilk dalgaya katıldı. Legion neredeyse tamamen yok oldu. Corvus, Isstvan'da Lorgar'la dövüştü ve onu neredeyse öldürdü; ancak Night Haunter'ın müdahalesiyle kardeşini öldüremedi. Sonunda Corvus, yalnızca birkaç bin savaşçıyla gezegenden kaçmayı başardı (*Deliverance Lost*).
 
-- Lycaeus (Deliverance) köle isyanı
-- Isstvan V Drop Site katliamından kaçış
-- Kusurlu hızlandırılmış gen-tohum deneyleri
-- Göz'e doğru kendini sürgün edişi
+## Legion'ın Yeniden Kurulması
+Kiavahr'a dönen Corvus, Legion'ını yeniden kurmak için Emperor'un izniyle Primarch projesine dair gizli bilgileri kullanmaya başladı. Ancak bu bilgi, Alpha Legion'ın ajanları tarafından manipüle edildi; ayrıca bir Chaos etkisi, gen-tohumu süreçlerini bozdu. Sonuçta ortaya çıkan **Raptors**, yani mutasyona uğramış yeni savaşçılar, Legion'ın yeniden inşasını lanetli bir mirasa dönüştürdü. Bu savaşçıların bir kısmı daha sonra Chaos'a düştü.
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+Heresy'nin geri kalanında Corvus, Alpha Legion'ı ve diğer hain güçleri hedef alan gerilla operasyonları yürüttü. Kiavahr ve Lycaeus'u korumaya çalıştı; Legion'ının kayıplarını gizli operasyonlarla telafi etmeye çalıştı.
+
+## Kayboluş
+Heresy'nin ardından Corvus, Raven Guard'ın yeniden yapılanmasını denetledi; Codex Astartes'e uyum sağladı. Ancak kişisel olarak Legion'ının başına gelenlerden ve kendi kararlarından derin bir suçluluk duydu. Bir gün Primarch, Deliverance'daki odasına kapandı; çıktığında Eye of Terror'a gideceğini söyledi. Söylediği son söz olarak "Nevermore" ifadesi kaydedilmiştir. Corvus Warp'a gitti ve bir daha dönmedi. Raven Guard, Primarch'ın Warp'ta hainleri avlamaya devam ettiğine inanır.
+
+## Güncel Durum
+Corvus Corax yayımlanmış kanonda hâlâ kayıptır. Era Indomitus'ta Raven Guard, Chapter Master Corvin Severax ve Kayvaan Shrike gibi komutanların önderliğinde savaşmaya devam eder.
+
+## Kişilik
+Corvus, özgürlüğün bedelini bilen bir kurtarıcıdır. Gizlilik ve gerilla savaşında usta, ama kararlarının sonuçlarından derinden etkilenen bir Primarch'tır. Legion'ını yeniden kurma arzusu, onu kendi ilkelerini çiğneyen bir deneye itti; bu suçluluk onu sonunda galaksiyi terk etmeye götürdü.
+
+-# Kaynaklar: *Deliverance Lost* — Gav Thorpe; *Corax: Soulforge* — Gav Thorpe; *Corax: Lord of Shadows* — Gav Thorpe; *Raven's Flight* — Gav Thorpe; *Codex: Space Marines*; Lexicanum

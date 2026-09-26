@@ -13,13 +13,11 @@ Deathleaper, avını öldürmekten çok onun zihnini parçalamayı hedefleyen bi
 - **Bilinen Kullanıcılar / Operatörler:** Hive Mind'ın istila öncüsü olarak tek başına hareket eder.
 - **Önemli Olaylar:** St Caspalen ve Cardinal Salem vakası.
 
-## Tarihçe
+## Gölge Suikastçısı
+Deathleaper, Hive Fleet Leviathan'ın 'suikast bioform'udur; Lictor'un evrimleşmiş versiyonu — korku salan, Warp gölgesinde görünmez, hedefi 'şaşırtan' yaratık. Saint's Rest'te Imperium'un Cardinal'ını öldürmesiyle tanındı: tek bir suikast sonucu dünya Chaos isyanına ve Tyranid kolay zaferine sürüklendi. Hive Mind'ın 'hedefe-yönelik' evrimleştiği en net kanıttır.
 
-Deathleaper, Tyranid'in 'suikastçı' bio-formu — 'Lictor' sınıfının en evrimleşmiş hali ve 'kendi başına bir istila' olarak çalışan varlık. 'The Shadow that Kills' olarak bilinen Deathleaper, hedefini 'takip eder, kokusunu alır ve sonunda yutar'; Imperium'un 'psyker-avar' birimlerinin en korkulan avcısıdır. 'Deathleaper' unvanı — 'ölümden sıçrayan' — onun hareket tarzını tanımlar; 'şimdi gördün, şimdi yoksun' doktrini.
-
-## Kanon Notu
-
-4th Edition dönemi anlatımı Deathleaper'ı tekil bir organizma değil, gelişkin Lictor'lardan oluşan bir tür/soy olarak sunuyordu; sonraki yayınlar onu Hive Fleet Leviathan'ın yarattığı tekil bir Lictor olarak çerçeveler.
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; *Leviathan* kampanya materyalleri; Lexicanum
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 

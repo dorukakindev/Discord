@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cf/Agripinna_System_Map.jpg/revision/latest?cb=20130411080529
-
 -# THE IMPERIAL ARCHIVE · I KAYITLARI · Kayıt
 
 # Isaia Bendikt

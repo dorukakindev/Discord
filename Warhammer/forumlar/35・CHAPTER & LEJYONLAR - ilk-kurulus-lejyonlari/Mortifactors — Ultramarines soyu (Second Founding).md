@@ -13,10 +13,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg
 - **Önemli Olaylar:** Tarsis Ultra savunması.
 - **Kanon Notu:** Posul'un güncel durumu ve Chapter'ın Great Rift sonrası konumu kaynaklarda sınırlı ve belirsiz biçimde işlenir.
 
-## Tarihçe
+## Ölüm Tarikatı
+Mortifactors, Ultramarines'in successor'ı ama en 'karanlık' koludur; ölüm kültü ve kafatası ritüelleriyle tanınır — Imperium'un en 'goth' Space Marine'leri. Posul'ın ölüm dünyasında yaşarlar; 'cult of the dead' geleneğiyle savaşırlar ve düşmanlarının kemiklerini toplarlar.
 
-Mortifactors, Ultramarines soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, ölüm ve ölümsüzlük üzerine kuruludur ve onlar, İmparatorluğun en kasvetli ve en disiplinli savaşçılarıdır. Mortifactors'un en büyük özelliği, onların ölüm kültürüdür — onlar için savaş, ölümün kutsal törenidir ve onların zırhı, kemik ve mezar sembolleriyle süslüdür; bir Mortifactor, savaşta ölümü kabul eder ve onun varlığı, düşmana ölümün kaçınılmazlığını hatırlatır. Mortifactors'un en ünlü savaşı, Tyranid istilalarına karşı verdikleri savunmadır — onların ölüm kültürü, Tyranid'in yaşam emmesine karşı en güçlü direniştir; ve onların savaşı, ölümün kendisiyle savaşmaktır. Mortifactors, İmparatorluğun en kasvetli ve en sadık Chapter'ıdır — onlar için savaş, ölümün kendisidir ve onlar, onu kabul edenlerdir.
+## Tarz
+Mortifactors'un 'marble-white' zırhı ve 'death mask' gelenekleri onları diğer Ultramarines soyundan ayırır — Chapter'ın Chaplain'leri (Death Priests) neredeyse kült lideridir. Ama sadakatleri tartışılmaz — Ultramarines'in en güvenilir kolu sayılırlar.
 
-## Teknik / Biyolojik Özellikler
-
-Kültür: savaş öncesi ataları ve Primarch'la bağ
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Codex: Ultramarines*; Lexicanum

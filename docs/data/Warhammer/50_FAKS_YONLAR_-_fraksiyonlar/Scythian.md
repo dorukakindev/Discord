@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/dd/RS_Master_Apothecary_Kregor_Thann.jpg/revision/latest?cb=20120411225248
+
 -# THE IMPERIAL ARCHIVE · Fraksiyonlar · Kayıt
 
 # Scythian

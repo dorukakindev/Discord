@@ -14,10 +14,14 @@ Adını geri dönüşü olmayan bir eşikten alan bu süreç, bir Firstborn'un b
 - **Önemli Olaylar:** Marneus Calgar'ın ve Mephiston'un geçişi.
 - **Kanon Notu:** Primaris kuşağının kökeni ve Cawl'ın yöntemleri hakkında evren-içi kuşkular sürer; bu kuşkular kanon gerçeği gibi sunulmamalıdır.
 
-## Tarihçe
+## Eşik
+Rubicon Primaris — 'Primaris Rubicon' — Belisarius Cawl'ın geliştirdiği ve 'eski' Space Marine'i 'Primaris Space Marine'ine çeviren cerrahi prosedürdür; Chapter'ların geleceği ona bağlıdır. Risklidir — birçok aday geçişte ölür — ama geçenler daha güçlü, daha uzun, daha dayanıklı olur. 'Crossing the Rubicon' deyimi Chapter'ların en büyük karar anıdır.
 
-Rubicon Primaris, Space Marines'in en önemli ve en tehlikeli prosedürüdür — standart Space Marine'i Primaris Space Marine'e dönüştüren prosedürdür. Bu prosedür, standart Space Marine'in genetik yapısını değiştirir ve onu Primaris'e dönüştürür; ancak bu prosedür, yüksek ölüm oranıyla bilinir ve birçok Space Marine bu prosedürde hayatını kaybeder. Rubicon Primaris, Space Marines'in en önemli ve en tehlikeli prosedürüdür; bu prosedür, Space Marines'in geleceğini garanti altına alan en kritik araçtır. Prosedür, Space Marines'in en önemli ve en tehlikeli prosedürü olarak kalır.
+## Tarih
+Guilliman'ın dönüşüyle zorunlu hâle geldi: Primaris chapter'ları (yeni 999'un) eski savaşçıları dönüştürmek ya da yeni nesil yetiştirmek zorunda kaldı. Dante, Calgar, Azrael gibi Chapter Master'ların çoğu Rubicon'u geçti — onların 'iyileşmesi' Imperium'un 'yenilenme' sembolüdür. Rubicon'un 'yarattığı çatlak' (eski neslin yavaş yavaş ortadan kalkması) canon'da 'eski dünyanın sonu' olarak okunur.
 
+## Kaynaklar
+-# Kaynaklar: *Dark Imperium*; *Codex: Space Marines* (9. ed.); *The Great Work*; Lexicanum
 
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Dark Imperium — Guy Haley*
 

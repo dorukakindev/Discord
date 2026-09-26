@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f7/NeutronBlaster.jpg/revision/latest?cb=20121003014336
-
 -# THE IMPERIAL ARCHIVE · V Kayıtları
 # Vespid
 

@@ -12,14 +12,11 @@ Kovan dünyası Kiavahr'ın yörüngesindeki çorak, havasız ay; Corax'ın köl
 - **System:** Segmentum Tempestus - Kiavahr'ın uydusu
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## Kayıp Dünya
+Deliverance (eski adı Lycaeus), Raven Guard'ın ana dünyası ve Corax'ın mitosunun merkezidir; Kiavahr'ın uydusu olarak başladı, mahkûm dünyasından özgürleşen gezegenin adı 'kurtuluş' demektir. Ravenspire kale-manzarası Chapter'ın evidir — halk Raven Guard'a aday sağlar.
 
-Deliverance, Raven Guard chapter'ının ve primarch'ları Corvus Corax'ın anavatanıdır; Forge/kovan dünyası Kiavahr'ın yörüngesinde dönen, çorak, havasız bir aydır. Bir zamanlar "Lycaeus" adını taşıyan bu mineral açısından zengin uydu, Kiavahr'ın aşağı dünyasından sürülen kölelerin, suçluların ve sürgünlerin hapishanesiydi; boşluğa karşı koruyan kaba güç-kubbelerinin altında, Tech-Guild'lerin (teknoloji loncalarının) acımasız gözetiminde maden ocaklarında çalışmaya zorlanırlardı.
+## Kültür
+Deliverance'ın tarihi esaretten özgürlüğe geçiştir — bu Raven Guard'ın 'görünmezlik ve sabotaj' doktrininin kaynağıdır. Corax'ın kendi halkını kölelikten kurtarması Chapter'ın özgürlük mitosudur; 'hiçbir zincir kabul edilmez' ilkesi. Deliverance'ın en büyük sembolü Raven's Gate — Corax'ın son uçuş yaptığı yerdir.
 
-Bu durum, primarch Corax'ın gelişiyle kökten değişti. Köleler arasında büyüyen Corax (yerel lehçede "Kurtarıcı" anlamına gelir), ezilen işçileri birleştirdi ve aşağıdaki dünyayı yöneten Tech-Guild'lere karşı bir devrim başlattı. Gizlilik, baskın ve gerilla taktikleriyle yürüttüğü bu ayaklanma, sonunda köleleri özgürleştirdi; ayın adı, Corax'ın bu kurtuluşunun anısına "Deliverance" (Kurtuluş) olarak değiştirildi.
-
-Bu özgürleştirme savaşının ruhu, Raven Guard'ın kimliğine işledi; chapter, gizlilik, hız, baskın ve gerilla harbinde uzmanlaştı; açık çatışma yerine gölgelerden vurmayı, düşmanı görmeden yok etmeyi tercih eden bir savaş geleneği benimsedi. Corax'ın kurtarıcı ruhu, lejyonu zalimlere karşı ezilenlerin yanında savaşan bir güce çevirdi.
-
-## Tarihçe
-
-Deliverance — eski adıyla Lycaeus — Hive World Kiavahr'ın yörüngesinde dönen aydır; Büyük Sefer'de İmparator'un oğlu Primarch Corvus Corax'ı bulduğu yer olarak tarihe geçti. Segmentum
+## Kaynaklar
+-# Kaynaklar: *Codex: Raven Guard*; *Deliverance Lost* (HH); *Corax: Lord of Shadows*; Lexicanum

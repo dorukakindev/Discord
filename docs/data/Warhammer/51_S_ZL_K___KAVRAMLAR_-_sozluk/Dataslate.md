@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/bb/DataSlate-Churgeon.jpg/revision/latest?cb=20150601171604
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Dataslate
 *Data-slate*

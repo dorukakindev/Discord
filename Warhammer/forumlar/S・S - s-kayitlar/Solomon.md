@@ -1,5 +1,3 @@
-https://commons.wikimedia.org/wiki/Special:FilePath/Solomon_Islands_-_Location_Map_%282012%29_-_SLB_-_UNOCHA.svg?width=1000
-
 -# THE IMPERIAL ARCHIVE · S KAYITLARI · Kayıt
 
 # Solomon

@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/65/Fuegan2_7th_Ed.png/re
 
 Fire Dragons mezhebinin Phoenix Lord'u; Rhana Dandra'da en son ölecek olan, ateş silahı Searsong'u taşıyan kadim savaşçı-ruh.
 
-## Tarihçe
-Fuegan, "Yanan Mızrak" (the Burning Lance) olarak anılan, Fire Dragons (Ateş Ejderleri) Aspect mezhebinin Phoenix Lord'udur; Düşüş'ten beri ardı ardına gelen Fire Dragon Exarch'larının bedenlerinde yaşamış ölümsüz bir savaşçı-ruhtur. Tek bir craftworld'e bağlı değildir; Webway'de dolaşır ve yalnızca dava değer ya da ihtiyaç yeterince büyük olduğunda belirir.
+## Yanan
+Fuegan — 'Burning Lance' — Fire Dragon Aspect'inin Phoenix Lord'u ve Eldar'ın 'intikam tanrısı'nın en acımasız yüzüdür; Arhra'nın düşüşünden sonra 'hain öğrenci' damgasını taşıyan ama kendi yolunda ilerleyen figür. 'Firepike' ve 'melta bomb'larıyla savaşır; düşmanının kalbine giden en kısa yol onun yoludur.
 
-Fuegan, ilk ve kurucu mezhep olan Asur Tapınağı'nda, Phoenix Lord geleneğinin atası Asurmen'in altında eğitim gördü; en eski Phoenix Lord kuşağındandır. Khaine'in yıkıcı ateş yönünü, körü körüne bir yok ediş değil, odaklanmış ve seçici bir imha disiplinine dönüştürdü; ona göre yerinde kullanılan yıkım, uyum getirebilirdi. Fire Dragons mezhebini bu felsefeyle kurdu.
+## Anlam
+Fuegan canon'da 'Path of the Warrior'nın en sert yüzüdür — Asurmen'in ilk öğrencilerinden, ama her zaman 'en kolay' yolu değil 'en doğru' yolu seçti. Fire Dragon'un 'yak ve yık' doktrini onun eseridir; Slaanesh'e karşı en açık düşmanlığı gösteren Phoenix Lord olarak bilinir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Asurmen* (yan); Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

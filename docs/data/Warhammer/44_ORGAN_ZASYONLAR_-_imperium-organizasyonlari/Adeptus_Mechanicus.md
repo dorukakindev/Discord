@@ -1,33 +1,13 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/07/Adeptus_mecanics.jpg/revision/latest?cb=20090912170723
 
-## Tarihçe
+## Makine Tarikatı
+Adeptus Mechanicus — Mars'ta doğan, teknolojiyi kutsal sayan ve İmparatorluk'un tüm sanayi/teknoloji üssünü tekeline alan tarikat-devlettir; Imperium'un ikinci sütunudur (birincisi Ecclesiarchy). Cult Mechanicus doktrinine göre makinenin ruhu vardır (Machine Spirit), Omnissiah İmparator'un avatarı sayılır ve bilgi birikimi ibadettir — ama 'bilgi' icat değil, antik STC şablonlarını bulmaktır. Yenilik Mechanicus için neredeyse heretik'tir; Belisarius Cawl'ın Primaris projesi bile tartışmalıdır.
 
-Adeptus Mechanicus, Mars'taki Cult Mechanicus'un Adeptus Terra içindeki resmî adıdır; İmparatorluk'a bilim insanı, mühendis ve teknisyen sağlar. Tech-priest'ler, gelişmiş teknolojiyi korumak ve inşa etmek için gereken kutsal bilgiyi kıskançlıkla saklayan ayrıcalıklı bir kasttır; Omnissiah'ya tapar ve insanlığın kayıp bilgisini aramayı kutsal görev sayarlar.
+## Mars ve Forge World'ler
+Mars Mechanicus'un merkezi, Forge World'ler onun gezegen fabrikalarıdır — Lucius, Ryza, Agripinaa en büyükleri. Tech-Priest'ler organik uzuvlarını mekanikle değiştirir; Magos'lar binlerce yıl yaşayabilir. Skitarii (askeri kol), Titan Legions (Collegia Titanica) ve Knight haneleri Mechanicus'a bağlıdır. Binharic Cant dili makinedir — çoğu Tech-Priest konuşmaz, veri yayınlar.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+## İç Politika
+Mechanicus ile Terra arasındaki ilişki Treaty of Olympus Mons'a dayanır: Mars egemen kalır, Imperium'a silah verir. Cawl'ın Primaris Marine'leri ve 'yeni' teknolojisi Mars içinde bölünmeye yol açtı; bazı Magos onu sahte sanıyor. Dark Mechanicum — Heresy'de Mars'ın yarısının Horus'a geçmesi — hâlâ var; Chaos'a bağlı Tekno-heretikler Warp dağılmış makineler üretir.
 
-# Adeptus Mechanicus — Mars Mekanikus'u
-
-Teknoloji-rahiplerinin kapalı tarikatı; İmparatorluğun tüm savaş makinelerini ve sanayisini elinde tutar.
-
-- **Kategori:** Mekanik
-- **Bağlılık:** Imperium
-- **Purpose:** Teknolojiyi korumak, üretmek ve Makine Tanrısı'na tapmak
-- **Seat:** Mars
-- **Kanon Sınıfı:** A — resmî kaynak
-
-## Kayıt
-
-Adeptus Mechanicus, Makine Tanrısı Omnissiah'a tapan teknoloji-rahiplerinin (Tech-Priest) yarı-bağımsız bir uygarlığıdır; İmparatorluğun neredeyse tüm sanayisini, silahlarını, gemilerini ve savaş makinelerini elinde tutar. Anavatanları Kızıl Gezegen Mars'tır ve galaksideki tüm Forge World'lerin (sanayi-tapınak gezegenlerinin) efendileridir.
-
-Mechanicus için teknoloji bir araç değil, kutsal bir gizemdir; her makinenin bir "makine ruhu" olduğuna inanır, bir silahı ateşlemeden önce dualar okur ve kutsal yağlar sürerler. Üyeleri, "etin zayıflığını" reddedip bedenlerini giderek mekanik uzantılarla değiştirir; en yüksek rütbeli Magos'larda insandan geriye neredeyse hiçbir şey kalmaz. Yeni teknoloji icat etmek bir küfürdür; bunun yerine, kayıp altın çağdan kalma STC şablonlarını arar ve kopyalarlar.
-
-Mechanicus, İmparator ile yapılan "Kızıl Gezegen Anlaşması" ile İmparatorluğa bağlandı, ama kendi tanrısı (Omnissiah), kendi yasaları, kendi inancı ve kendi devasa orduları (Skitarii askerleri, Cybernetica robotları, Legio Titanica'nın dev Titanları) olan, fiilen ayrı bir devlettir. İmparatorluk onlara teknoloji için muhtaçtır; bu, Mechanicus'a muazzam bir bağımsızlık ve güç verir.
-
-Adeptus Mechanicus, durağanlığın, batıl inancın ve kayıp bilginin somut halidir; insanlık bir zamanlar yıldızları fethedecek teknolojiye sahipti, ama şimdi o teknolojinin nasıl çalıştığını bile çoğu zaman anlamadan, sadece taklit ederek kullanır. Mars'ın derinliklerinde uyuyan Void Dragon gibi karanlık sırlarla, onlar hem insanlığın teknolojik gücünün kaynağı hem de en gizemli, en yabancılaşmış ve potansiyel olarak en tehlikeli kurumlarından biridir.
-
-
-## Tarihçe
-
-Adeptus Mechanicus, Mars'taki Cult Mechanicus'un Adeptus Terra içindeki resmî adıdır; İmparatorluk'a bilim insanı, mühendis ve teknisyen sağlar. Tech-priest'ler, gelişmiş teknolojiyi korumak ve inşa etmek için gereken kutsal bilgiyi kıskançlıkla saklayan ayrıcalıklı bir kasttır; Omnissiah'ya tapar ve insanlığın kayıp bilgisini aramayı kutsal görev sayarlar.
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kaynaklar
+-# Kaynaklar: *Belisarius Cawl: The Great Work* — Guy Haley; *Mechanicum*, *The Lost Legion* (HH); *Codex: Adeptus Mechanicus*; *Skitarii* supplement; Lexicanum

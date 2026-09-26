@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/f/f7/Eldar.png/revision/latest?cb=20100601083426
-
 -# THE IMPERIAL ARCHIVE · Aeldari Panteonu · Kayıt
 # Vaul
 *Demirci Tanrı*
@@ -10,9 +8,10 @@ Vaul, Aeldari panteonunun demirci tanrısıdır; zanaatın, yapma eyleminin ve y
 
 En ünlü miti, Khaine ile arasındaki anlaşmadır: Vaul, savaş tanrısı Khaine'e olan bir borcu ödemek için yüz adet kusursuz, büyülü kılıç dövmeye söz verdi. Bu kılıçların en ünlüsü Anaris'tir. Hikâye, savaş (Khaine) ile yaratım (Vaul) arasındaki ebedi gerilimi temsil eder; demirci tanrı, savaşçı tanrının silahlarını yapmak zorunda kalır ama bu onun özgür ruhuna ters düşer.
 
-## Tarihçe
+## Demirci
+Vaul — 'Smith God' — Eldar'ın teknoloji ve zanaat tanrısıdır; antik Eldar silahlarının (örn. Sword of Vaul, Talismans of Vaul = Blackstone Fortress'ler) efsanevi yapımcısıdır. Khaine'ye zincirlenmiş halde gösterilir — mitolojide 'boyun eğen ama direnen' figür. Eldar'ın 'yapımcı ruhu'nun kaynağıdır.
 
-Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır; zanaatkârlık ve demirciliğin tanrısı olan ve Aeldari'nin en önemli figürü olan Vaul, Aeldari'nin en önemli ve en kutsal varlığıdır — onlar, Aeldari'nin en ünlü ve en önemli tanrısıdır. Vaul'ın en büyük özelliği, onun zanaatkârlığıdır — onlar, zanaatkârlık ve demirciliğin tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır; bir Vaul takipçisi, hem bir zanaatkâr hem de bir inanan'dır ve onların varlığı, Aeldari'nin en büyük geleneğinin somut halidir. Vaul'ın en ünlü özelliği, onun demircilik tanrısı olmasıdır — onlar, Aeldari'nin en önemli ve en kutsal zanaatkârının tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır — onlar, bir zanaatkârlığın ve Aeldari'nin en büyük geleneğinin somut halidir.
-
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Eldar mitolojisi*; *Battlefleet Gothic* (Blackstone bağlamı); Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,11 @@ Iyanden'in sürgün prensi Yriel, parlak bir filo komutanı olarak kazandığı 
 - **Önemli Olaylar:** Sürgün; Eldritch Raiders'ın kuruluşu; Iyanden'in Kraken'e karşı savunması.
 - **Kanon Notu:** Yriel'in Iyanden'le güncel ilişkisinin ayrıntıları arşivin doğruladığı kaynaklarda net değildir.
 
-## Tarihçe
+## Iyanden'in Hain-Kahramanı
+Prince Yriel, Craftworld Iyanden'in eski High Admiral'i ve tarihinin en tartışmalı figürü; Farseer'ların uyarısına rağmen Chaos raider'larına baskın yaptı ve sürgün edildi. Sürgünde korsan filosu kurdu ('Eldritch Raiders'), Iyanden Tyranid Hive Fleet Kraken tarafından kuşatılınca geri döndü ve Spear of Twilight ile craftworld'ü kurtardı — ama silah onu yavaş yavaş tüketiyor.
 
-Prince Yriel, Aeldari'nin en ünlü ve en tehlikeli figürlerinden biridir — Iyanden'in eski Corsair Prince'i ve Aeldari'nin en önemli figürlerinden biridir. Yriel, Aeldari'nin en ünlü ve en tehlikeli figürlerinden biridir; onun liderliği ve savaş yetenekleri, Aeldari'nin en önemli ve en tehlikeli güçlerinden biridir. Prince Yriel, Aeldari'nin en ünlü ve en tehlikeli figürü olarak kalır — onun hikâyesi, Aeldari'nin en önemli ve en tehlikeli figürlerinin simgesidir.
+## Çelişki
+Yriel'in trajedisi: sürgün edilmesi haklıydı, dönüşü kahramancaydı ve her iki gerçek aynı anda doğru. Iyanden ona ihtiyaç duyduğu için onu affetti ama tam olarak geri almadı; kendi evinde yabancı. 'Hem kahraman hem hain' olmanın, Aeldari'nin düşmüş uygarlığıyla mükemmel örtüşen metaforudur.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Battle for Iyanden* kampanya materyali; *Path of the Outcast* (yan); Lexicanum

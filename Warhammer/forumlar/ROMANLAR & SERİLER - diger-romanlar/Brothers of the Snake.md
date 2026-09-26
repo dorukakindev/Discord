@@ -8,14 +8,10 @@ Iron Snakes Space Marine bölüğünün bağımsız hikâye koleksiyonu — tek 
 - **Yazar:** Dan Abnett
 - **Konum/Dönem:** —
 
-## İçerik
-Apothecary Pindar ve Iron Snakes'ın bağımsız operasyonları; bölüğün 'Ithakan' kökleri ve deniz savaşı gelenekleri.
+## Yılan Kardeşler
+Brothers of the Snake — Dan Abnett'in romanı; Iron Snakes Chapter'ının Iyax sektöründeki savaşları. 'Chapter'ın gözünden' yazılan ilk romanlardan — Space Marine'lerin 'rutin' işini gösterir: küçük kurtarmalar, küçük kayıplar, sonsuz savaş. 'Damocles' filosu ve Damocles'ın 'cezası' hikâyesiyle tanınır.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-Brothers of the Snake, Dan Abnett'in yazdığı ve Iron Snakes Chapter'ının hikâyesini anlatan bir romandır. Bu roman, Iron Snakes Chapter'ının en önemli hikâyesini anlatır; roman, Iron Snakes Chapter'ının en önemli hikâyesidir. Bu roman, Iron Snakes Chapter'ının en önemli hikâyesidir; roman, Iron Snakes Chapter'ının en önemli parçasıdır. Roman, Iron Snakes Chapter'ının en önemli hikâyesi olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *Brothers of the Snake* — Dan Abnett; Lexicanum
 
 -# Kaynaklar: Black Library

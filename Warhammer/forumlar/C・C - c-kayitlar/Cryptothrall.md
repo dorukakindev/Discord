@@ -1,5 +1,3 @@
-https://upload.wikimedia.org/wikipedia/commons/8/83/Aneura_mirabilis_%28Norway%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
-
 -# THE IMPERIAL ARCHIVE · C Kayıtları · Kayıt
 # Cryptothrall
 *Cryptek'in sadık küçük hizmetkârı*
@@ -12,10 +10,11 @@ https://upload.wikimedia.org/wikipedia/commons/8/83/Aneura_mirabilis_%28Norway%2
 - **Köken:** Cryptek courtları
 - **Önemli Olaylar:** Teknik destek; silah-aracı
 
-## Tarihçe
+## Köle
+Cryptothrall — Necron'un 'Cryptek'in kölesi'dir; daha basit 'biotransference' ürünü, 'ağır işçi' veya 'koruma' birimi olarak kullanılır. 'Cryptek'in eli' olarak bilinir — onun iradesiyle hareket eder. Necron'un 'hiyerarşi'nin en altındaki figürdür.
 
-Cryptothrall, Cryptek'lerin 'koruyucu-köle' birimleri — parçalanmış Necron bedenlerinden yapılmış ve 'görev-bilinçli' küçük canoptek yaratıklar. Cryptek'in 'lab'ını korur ve savaşta 'canlı kalkan' olarak kullanılır; 'Reanimation' olmadan da savaşabilen tek Necron birimidir. 'Soulless servant'ın mekanik versiyonu — Cryptek'in eli ve gözü.
-
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; Lexicanum
 
 -# Kaynaklar: *Necrons Codex*
 -# İlişkili kayıtlar: <#1552849996225847337>

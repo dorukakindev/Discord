@@ -7,13 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/59/Exorcists_Icon.jpg/re
 
 Her üyesi bir inisiyasyon sırasında bilerek iblis ele geçirmesine maruz bırakılıp ondan sağ çıkan, Kaos'a dirençli gizemli chapter.
 
-## Tarihçe
-Exorcists, benzersiz ve korkunç bir inisiyasyon ritüeliyle tanımlanan gizemli bir chapter'dır; adlarını (Şeytan Kovucular) bu ritüelden alırlar. Kökenleri ve gen-tohum kaynakları gizlidir, ama amaçları Kaos'a ve iblislere karşı savaşmaktır.
+## Arındırılmış
+Exorcists, Grey Knights'a benzer gizli bir Chapter'dır; daemon-possession deneyimine dayalı eğitimleriyle bilinir — her aday kısa süre daemon'a sahip olur, sonra onu kovar. Bu 'arındırma' geleneği onları Warp tehdidine karşı en dirençli Space Marine'lerden yapar; Ordo Malleus'la yakın çalışırlar.
 
-İnisiyasyonları, hiçbir başka chapter'ın cüret edemeyeceği kadar tehlikelidir: her aday, bilerek ve kontrollü koşullarda bir iblise ele geçirilir (possession). Ardından, deneyimli chaplain'ler ve psyker'lar tarafından iblis adayın bedeninden sökülüp atılır (exorcism). Bu, çoğu adayın hayatta kalamadığı ölümcül bir sınavdır.
+## Bedel
+Exorcists'ın yöntemi canon'da tartışmalıdır — 'daemon'a sahip olmak' her savaşçının ruhunda iz bırakır. Başarıları gerçektir (daemon temizliğinde en etkili chapter'lardan) ama bedeli kendi içlerinde taşırlar; 'purified' Space Marine kavramının en ağır versiyonudur.
 
-Exorcists, İmparatorluk'un en karanlık sadık bölümlerinden biridir — Chapter, bilinçli olarak kardeşlerini iblislerle 'haşır neşir' eder: her aday, kısa süreli bir daemon possession yaşar ve iblisi bedeninden kovmayı öğrenir. Bu 'posession testi' sağ kalana, Warp etkisine karşı neredeyse bağışıklık kazandırır.
-
-Chapter'ın ana dünyası Banish'tir ve İnquisitorlarla olağandışı yakın çalışırlar — Exorcists, Grey Knights'ın bilgi kasası gibidir ve daemon-savar operasyonlarda ilk çağrılan bölümdür. Savaş tarzları sessiz ve kliniktir; Chapter, 'bir psikopatın savaş alanındaki hâli' olarak tanımlanır — çünkü kardeşlerin çoğu, possession deneyiminden sonra duygusal olarak düzleşmiştir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Exorcists* lore parçaları; *Imperial Armour*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

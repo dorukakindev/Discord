@@ -10,11 +10,11 @@ Ork 'mühendisi' — Mork'un deliliğine tapınan mekanik dahi. Big Mek'ler Kust
 - **Dönem:** —
 - **Köken:** Ork toplumu
 
-## Tarihçe
-Big Mek, ork toplumunda 'en çok izyasyon' yapan bireydir — Waaagh! enerjisini 'teknik ilham' olarak çevirir. Shokk Attack Gun gibi icatları fizik yasasını bükerek çalışır (snotling'i Warp'ten geçirip düşmanın içine ışınlar); hiçbir Big Mek kendi icadının tam olarak nasıl çalıştığını bilmez, ama çalışır.
+## Usta Mek
+Big Mek — Ork'un 'mühendis' ustasıdır; 'Kustom Force Field', 'Mega Armour' ve 'Shokk Attack Gun' gibi 'korkunç' icatların sahibi. 'Mekboy' den daha büyük, 'Warboss' kadar saygı görür — çünkü Big Mek 'mek'i bilir. 'Dakka' ve 'Kustom' her şey onun eseridir.
 
-## Özellikler
-Kustom Mega-blasta, Shokk Attack Gun, Kustom Force Field, Mega Armour (Eavy), Mek's Work Shop ekibi; ork 'Mork ilhamı' doktrini.
+## Kaynaklar
+-# Kaynaklar: *Codex: Orks*; Lexicanum
 
 -# Kaynaklar: Codex: Orks
 

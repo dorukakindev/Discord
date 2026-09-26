@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/29/Aquila.jpg/revision/latest/scale-to-width-down/1000?cb=20120329090509
-
 -# THE IMPERIAL ARCHIVE · S KAYITLARI · Kayıt
 
 # Skylance Gunship

@@ -1,29 +1,10 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/19/Flesh_Tearers_Livery2.jpg/revision/latest?cb=20180515162944
 
-https://static.wikia.nocookie.net/warhammer40k/images/1/19/Flesh_Tearers_Livery2.jpg/revision/latest?cb=20180515162944
+## Kanlı Dişler
+Flesh Tearers, Blood Angels'ın successor'ı ve en 'Black Rage'e yaklaşmış' Chapter'dır; Gabriel Seth liderliğinde, lejyonun lanetini neredeyse açıkça yaşayan figür. Cretacia'nın ölüm dünyasında yaşarlar — Chapter'ın savaş kültürü 'kabullenilmiş vahşet'tir: Black Rage'i bastırmazlar, onu yönetirler.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+## Başarı ve Bedel
+Flesh Tearers'ın savaş sicili Imperium'un en kanlısıdır — ve bu yüzden şüphelidirler. Sisters of Battle'la 'Kullington' olayında (Flesh Tearers'ın kendi müttefiklerini öldürmesi) canon'un en tartışmalı anıdır. Devastation of Baal'da Dante'ye katıldılar — Seth'in 'Flesh Tearers sonuna kadar savaşır' sözü Chapter'ın onurudur.
 
-# Flesh Tearers — Et Parçalayanlar
-
-Kan lanetlerine en yakın, en vahşi Blood Angels halefi; yok oluşun eşiğinde savaşan trajik chapter.
-
-- **Kuruluş:** Sonraki Kuruluş
-- **Bağlılık:** Sadık
-- **Primarch:** Sanguinius (Blood Angels)
-- **Ana Dünya:** Cretacia
-- **Color:** Kırmızı-siyah, kanlı pençe
-- **Tactics:** Aşırı vahşi yakın dövüş; Kara Öfke ve Kan Susuzluğu'na karşı sürekli mücadele.
-- **Kanon Sınıfı:** A — resmî kaynak
-
-## Kayıt
-
-Flesh Tearers, Blood Angels'ın bir halefidir ve primarch Sanguinius'un mirasını taşır; ama onları Blood Angels'tan ayıran şey, kan lanetlerinin (Kan Susuzluğu ve Kara Öfke) en ağır pençesinde olmalarıdır. Gen-tohumlarındaki bu kusur, onlarda diğer tüm haleflerden daha şiddetlidir.
-
-Vahşi ölüm dünyası Cretacia'dan gelen Flesh Tearers, üyeleri o kadar Kara Öfke ve Kan Susuzluğu'na yatkındır ki chapter sürekli kendi yok oluşunun eşiğinde durur. Her savaş, daha fazla savaşçıyı çılgınlığa kaptırır; sayıları sürekli kritik düzeyde kalır ve bir gün lanetin onları tümüyle yutması kaçınılmaz görünür.
-
-En trajik yanları, vahşetlerinin farkında olmaları ve bunu bir utanç olarak taşımalarıdır; canavarlaştıklarını bilirler ama lanetlerine karşı koyamazlar. Chapter Master Gabriel Seth, bu çöküşü geciktirmeye çalışan, kendisi de aşırı vahşi ama onurunu korumaya çalışan bir liderdir.
-
-Flesh Tearers, kahramanlık ile çılgınlık arasındaki ince çizgide yaşar; İmparatorluk için en umutsuz, en kanlı savaşlara seve seve atılırlar, çünkü kaybedecek fazla şeyleri yoktur ve belki de bu savaşlarda onurlu bir son ararlar. Onlar, bir lanetin bir chapter'ı nasıl yavaşça tükettiğinin trajik örneğidir; vahşi, fedakar ve kaçınılmaz bir sona doğru ilerleyen bir kardeşliktir.
-
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kaynaklar
+-# Kaynaklar: *Codex: Blood Angels*; *Flesh Tearers* serisi — Andy Smillie; *The Devastation of Baal*; Lexicanum

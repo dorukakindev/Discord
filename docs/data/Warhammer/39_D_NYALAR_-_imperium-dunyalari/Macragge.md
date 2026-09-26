@@ -12,17 +12,11 @@ Roboute Guilliman'ın krallığı Ultramar'ın başkent dünyası ve Ultramarine
 - **System:** Ultramar - Macragge Sistemi
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## Beş Yüz'ün Kalbi
+Macragge, Ultramarines'ın ana dünyası ve Ultramar'ın (Realm of Ultramar) başkentidir; Imperium'un 'model' dünyası olarak tanınır — disiplinli, verimli, İmparator'un 'uygarlık' idealine en yakın gezegen. Fortress of Hera (Chapter'ın merkezi) burada; Calgar'ın yönetimi ve Guilliman'ın eski sarayı burada kalır.
 
-Macragge, Ultramarines'in anavatanı ve Primarch Roboute Guilliman'ın örnek krallığı Ultramar'ın başkentidir; düzen, refah ve iyi yönetimin İmparatorluk çapındaki en parlak vitrinidir. Sert, dağlık bir kuzey iklimi ve sivil bir yönetim geleneğiyle, hem savaşçı hem uygar bir kültür barındırır.
+## Ultramar
+Ultramar beş yüz dünyadan oluşan Imperium'un içindeki en istikrarlı bölgedir; Macragge onun merkezidir. 1st Tyrannic War'daki Macragge Savaşı Chapter'ın en derin yarasıdır — ama aynı zamanda 'Ultramar düşmez' mitolojisinin kaynağıdır. Başka bir dünya Macragge'nin disiplinini tutturmaz.
 
-Ultramar, İmparatorluğun geri kalanından farklıdır; tek bir gezegen değil, Guilliman'ın Heresy sonrası kurduğu, yüzlerce dünyadan oluşan iyi yönetilen, müreffeh bir krallıktır. Macragge bunun kalbidir; burada Codex Astartes yazıldı ve Ultramarines geleneği şekillendi. Halkı, diğer İmparatorluk dünyalarının çoğundan çok daha iyi yaşar.
-
-Macragge'in en önemli askeri anı, ilk büyük Tyranid istilasıdır; Hive Fleet Behemoth Ultramar'a saldırdığında, gezegenin yörüngesinde ve yüzeyinde verilen savaş (Battle for Macragge), insanlığın bu yeni dehşetle ilk büyük yüzleşmesi oldu. Ultramarines, gezegeni savunmak için efsanevi 1. Bölük'ünü feda etti. Heresy sırasında da, İmparator'a ulaşılamayan dönemde, Macragge yedek bir İmparatorluk olan Imperium Secundus'un başkenti oldu.
-
-Macragge, İmparatorluğun "olması gerektiği gibi" olabileceğinin kanıtıdır; karanlık, çürüme ve umutsuzlukla dolu bir galakside, düzenin, sorumluluğun ve iyi yönetimin bir adası. Guilliman'ın dirilişiyle birlikte, Macragge ve Ultramar, İmparatorluğun yeniden inşasının merkezi ve insanlığın hâlâ daha iyi bir geleceğe sahip olabileceğinin sembolü oldu.
-
-
-## Tarihçe
-
-Macragge, Ultima Segmentum'un güney ucundaki İmparatorluk Ci
+## Kaynaklar
+-# Kaynaklar: *Codex: Ultramarines*; *Battle of Macragge*; *Dark Imperium*; Lexicanum

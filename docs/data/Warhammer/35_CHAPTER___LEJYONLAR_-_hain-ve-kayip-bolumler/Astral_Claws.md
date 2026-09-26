@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/27/Astral_Claws_SP.jpg/r
 
 Bir zamanlar onurlu bir chapter iken Chapter Master'ının kibri yüzünden Badab Savaşı'nı başlatan ve Red Corsairs'e dönüşen lejyon.
 
-## Tarihçe
-Astral Claws (Yıldız Pençeleri), bir zamanlar İmparatorluğun güçlü ve onurlu chapter'larından biriydi; 10. Kuruluş'ta yaratılmışlardı ve kökenleri (primarch'ları) gizli kalsa da, gen-tohum istikrarları nedeniyle Ultramarines ya da Dark Angels soyundan geldikleri sanılır. Anavatanları Badab Primaris'ten, koca bir sektörü (Badab Sektörü) yetenek ve titizlikle yönettiler.
+## Düşmüş Efendiler
+Astral Claws, Badab War'ın merkezidir — Lufgt Huron'un komutasıyla Imperium'a isyan eden ve sonunda Chaos'a düşen Chapter. Başlangıçta 'otonomi' savaşıydı: Badab Sektörü'nün vergileri ve Maelstrom'un savunması üzerine; ama Huron'un hırsı onu 'Tyrant of Badab' yaptı ve Chapter'ı Red Corsairs'e dönüştürdü.
 
-Ama chapter'ın gücü ve özerkliği, Chapter Master'ları Lufgt Huron'un kibrini besledi. Huron, kontrolü altındaki dünyaların vergilerini Administratum'a göndermeyi reddetmeye başladı; ayrıca chapter'ın gen-tohumunun bir kısmını saflık denetimi için Terra'ya yollamayı da reddetti. Bu itaatsizlik, kanlı bir iç savaşa, Badab Savaşı'na (901-912.M41) yol açtı.
+## Huron Blackheart
+Huron'un düşüşü canon'un en iyi 'kademeli ihanet' hikâyesidir — başta haklıydı (Imperium kaynak vermiyordu), sonra kibirli, sonra Chaos'a açık. Astral Claws'ın sonu Chapter'ın Maelstrom'da korsan ordusuna dönüşmesi oldu; Huron hâlâ yaşıyor ve Red Corsairs'ın lideri olarak Imperium'un en tehlikeli 'iç' düşmanıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Badab War* kitapları; *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

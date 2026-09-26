@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/3/30/Master_Haemonculus_Urien_Rakarth.png/revision/latest?cb=20141031073706
-
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Haemonculus Et Sanatı ve Yeniden Bedenlendirme
 

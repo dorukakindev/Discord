@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/23/Kill_Team-_Termination.png/revision/latest?cb=20241021224314
-
 -# THE IMPERIAL ARCHIVE · B KAYITLARI · Kayıt
 # Bheta-Decima
 *Nemesys'in Forge-World-adayı okyanus dünyası*

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/61/Ahhotekh.png/revision/latest?cb=20200224160738
-
 -# THE IMPERIAL ARCHIVE · S KAYITLARI · Kayıt
 
 # Suhbekhar Dynasty

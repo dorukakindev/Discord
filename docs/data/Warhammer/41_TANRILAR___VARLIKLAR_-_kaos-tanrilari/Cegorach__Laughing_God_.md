@@ -13,10 +13,8 @@ Laughing God, Aeldari tanrıları arasında özgün biçimini koruyarak Fall'dan
 - **Bilinen Kullanıcılar / Operatörler:** Harlequin Masque'ları; Great Harlequin'ler; Solitaire'ler.
 - **Önemli Olaylar:** Fall'dan kaçışı; Harlequin'lerin Webway'deki koruyuculuğu.
 
-## Tarihçe
+## Gülen Tanrı
+Cegorach — 'Laughing God' — Eldar panteonunda Slaanesh'in doğuşundan tek sağ çıkan tanrıdır; Harlequin'lerin koruyucusu ve 'gizli komiklik'in tanrısı. Webway'de saklanır ve kendi 'şaka' planlarıyla Chaos'u alt eder — 'büyük aldatma' onun sanatıdır. Harlequin kültürü onun ibadetidir: performans, dans ve ölüm bir arada.
 
-Cegorach (Laughing God), Aeldari'nin en ünlü ve en gizli tanrısıdır; Harlequin'lerin koruyucusu olan ve Slaanesh'ten kaçan tek Aeldari tanrısı olan Cegorach, Aeldari'nin en gizli ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en gizli tanrısıdır. Cegorach'ın en büyük özelliği, onun gizliliğidir — onlar, Slaanesh'ten kaçan ve Webway'de yaşayan tek Aeldari tanrısıdır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Cegorach takipçisi — bir Harlequin — hem bir savaşçı hem de bir aktördür ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Cegorach'ın en ünlü özelliği, onun 'Laughing God' lakabıdır — onlar, Aeldari'nin en gizli ve en 'gülen' tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Cegorach, Aeldari'nin en ünlü ve en gizli tanrısıdır — onlar, bir gizliliğin ve Aeldari'nin en büyük geleneğinin somut halidir.
-
-## Kanon Notu
-
-Cegorach'ın bugünkü planları, Ynnead karşısındaki tutumu ve Black Library ile ilişkisinin tam mahiyeti k
+## Kaynaklar
+-# Kaynaklar: *Codex: Harlequins*; *Codex: Craftworlds*; *Path of the Eldar*; Lexicanum

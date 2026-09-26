@@ -13,14 +13,13 @@ Gene-seed'indeki mutasyon nedeniyle kafasında ve kollarında kemikten bıçakla
 - **Önemli Olaylar:** Cursed Founding; Third War for Armageddon.
 - **Kanon Notu:** Salamanders soyu kesinleşmiş değildir; Chapter'ın mutasyonu teşvik edip etmediği konusundaki iddialar evren içi suçlama düzeyindedir.
 
-## Tarihçe
+## Kemik Adamlar
+Black Dragons, Salamanders'ın successor'ı ve 'mutasyon' Chapter'ıdır; gen-seed kusurları bazı savaşçılarda 'ossmodula' aşırı çalıştırır — kemiklerinden çıkan 'ejderha pençeleri' gelişir. Diğer chapter'lar onlara şüpheyle bakar ama onlar bu 'laneti' silaha çevirir — kemik bıçakları en tehlikeli silahlarıdır.
 
-Black Dragons, Salamanders'ın soyundan geldiği düşünülen bir Space Marine Chapter'ıdır — 21st Founding döneminde kurulmuş bir Chapter'dır. Black Dragons, gene-seed'lerindeki mutasyon nedeniyle kemik çıkıntıları geliştirir; bu mutasyon, Chapter'ın en ayırt edici özelliğidir. Black Dragons, İmparatorluk'un en tartışmalı ve en gizli Chapter'larından biridir; Chapter, İmparatorluk'un en önemli operasyonlarında görev alır. Black Dragons, İmparatorluk'un en tartışmalı ve en gizli Chapter'larından biri olarak kalır.
+## Kabul
+Black Dragons'un durumu canon'da 'kabul edilmiş kusur'un örneğidir — Imperium onları 'yararlı mutant' sayar; Chapter kendi içinde 'Dragon Claws' (kemik çıkıntılı savaşçılar) kültürüne sahiptir. Salamanders'ın 'insanlık' geleneğinin en uç versiyonudur: beden farklı olabilir, sadakat aynıdır.
 
-## Teknik / Biyolojik Özellikler
-
-Kemik büyümesini etkileyen mutasyon; en ağır mutasyonlu savaşçılar yakın dövüş birliklerinde toplanır. Doktrin: yakın dövüş ağırlıklı şok saldırısı. Kültür: laneti bir lütuf gibi karşılayan inanç.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Black Dragons* lore parçaları; Lexicanum
 
 -# Kaynaklar: *Nocturne — Nick Kyme*; *Codex: Armageddon*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: `salamanders`, `vulkan`, `gene-seed`, `armageddon`

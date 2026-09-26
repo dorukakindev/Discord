@@ -1,29 +1,10 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg/revision/latest?cb=20190901001441
 
-https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg/revision/latest?cb=20190901001441
+## Ölüm Tarikatı
+Mortifactors, Ultramarines'in successor'ı ama en 'karanlık' koludur; ölüm kültü ve kafatası ritüelleriyle tanınır — Imperium'un en 'goth' Space Marine'leri. Posul'ın ölüm dünyasında yaşarlar; 'cult of the dead' geleneğiyle savaşırlar ve düşmanlarının kemiklerini toplarlar.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+## Tarz
+Mortifactors'un 'marble-white' zırhı ve 'death mask' gelenekleri onları diğer Ultramarines soyundan ayırır — Chapter'ın Chaplain'leri (Death Priests) neredeyse kült lideridir. Ama sadakatleri tartışılmaz — Ultramarines'in en güvenilir kolu sayılırlar.
 
-# Mortifactors — Mortifactor'lar
-
-Ölüm kültü ve kafatası avcılığı geleneğiyle Ultramarines'ten kökten sapmış, kasvetli bir halef chapter.
-
-- **Kuruluş:** Sonraki Kuruluş
-- **Bağlılık:** Sadık
-- **Primarch:** Roboute Guilliman
-- **Ana Dünya:** Posul
-- **Color:** Siyah, kafatası ve kemik
-- **Tactics:** Terör, kafatası toplama, ata ruhlarına danışma ayinleri.
-- **Kanon Sınıfı:** A — resmî kaynak
-
-## Kayıt
-
-Mortifactors, teknik olarak Ultramarines'in (Guilliman) bir halefidir; ama anavatanları Posul'un kasvetli kültürünü benimseyerek, primarch'larının düzenli, dengeli Codex geleneğinden kökten sapmışlardır. Onlar, ölümün kutsandığı karanlık bir mistisizm içinde yaşarlar.
-
-Posul'un yerel ölüm kültü gelenekleri chapter'ı şekillendirdi; zırhları kafatasları ve kemiklerle süslüdür, ayinleri ölümü ve ataları yüceltir. Düşmanlarının kafataslarını toplar (bir tür trofesi ve ruhsal güç kaynağı olarak) ve önemli kararlar almadan önce ata ruhlarına danıştıklarına inanırlar. Bu, onları Codex'in rasyonel, düzenli savaşçılarından çok, kabilesel bir ölüm tarikatına benzetir.
-
-Terör ve psikolojik savaş, savaş tarzlarının bir parçasıdır; kafatası-süslü, ölüm-temalı görünüşleri düşmanda dehşet yaratır. Death Cult Chaplain'leri (ölüm kültü papazları), chapter'ın ruhani liderleridir ve bu kasvetli geleneğin koruyucularıdır.
-
-Mortifactors, bir chapter'ın anavatan kültürünün primarch geleneğini nasıl gölgede bırakabileceğinin örneğidir; Ultramarines kökenlerinden o kadar uzaklaşmışlardır ki, neredeyse tanınmaz hale gelmişlerdir. Sadık kalsalar da, ölümle olan bu yakın, mistik ilişkileri onları İmparatorluk içinde kasvetli, ürkütücü ve biraz şüpheli bir figür yapar; ölümün hem silah hem de tapınma nesnesi olduğu, gri ve kemik renkli bir kardeşliktir.
-
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Codex: Ultramarines*; Lexicanum

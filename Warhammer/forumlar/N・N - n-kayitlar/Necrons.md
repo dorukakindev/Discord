@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/65/Agdagath_Glyph.jpg/revision/latest?cb=20160811011546
-
 -# THE IMPERIAL ARCHIVE
 # Necrons
 

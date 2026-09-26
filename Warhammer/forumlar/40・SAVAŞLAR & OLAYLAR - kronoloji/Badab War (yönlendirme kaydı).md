@@ -14,8 +14,13 @@ Birden fazla Chapter'ın Imperium'a karşı silaha sarıldığı iç savaş. Tam
 - **Önemli Olaylar:** Grief'teki görüşme; Palace of Thorns.
 - **Kanon Notu:** Ayrıntılı anlatım Forge World'ün iki cildine dayanır.
 
-## Tarihçe
+## Kardeş Savaşı
+Badab Savaşı (901-913.M41), Imperium'un kendi Space Marine chapter'ları arasındaki en büyük iç çatışmasıdır; Lufgt Huron (Astral Claws'ın 'Tyrant of Badab')'un Astral Claws'ı Imperium'a karşı ayaklandı ve 4 chapter'ı da yanına çekti. Lamenters, Mantis Warriors, Executioners, Astral Claws 'separatist' tarafta; Minotaurs, Red Scorpions, Salamanders loyalist taraftaydı.
 
-Badab War, İmparatorluğun en büyük ve en trajik iç savaşıdır; Huron'un — Astral Claws'un Chapter Master'ı — İmparatorluğa isyan etmesi ve sonunda Chaos'a düşmesiyle sonuçlanan İmparatorluğun en büyük iç savaşıdır — onlar, İmparatorluğun en büyük ihanetinin ve en büyük dersinin somut halidir. Badab War'un en büyük özelliği, onun ihanetidir — onlar, bir Chapter'ın İmparatorluğa isyan ettiği en büyük savaştır ve onların varlığı, İmparatorluğun kendi içindeki en büyük tehdidin kanıtıdır; bir Badab War, bir Chapter'ın düşüşünün en büyük anıdır ve onların varlığı, İmparatorluğun en büyük dersinin somut halidir. Badab War'un en ünlü özelliği, onun Huron'un düşüşüdür — onlar, bir Chapter Master'ın Chaos'a düşüşünün en büyük anıdır ve onların varlığı, İmparatorluğun en büyük ihanetinin kanıtıdır. Badab War, İmparatorluğun en büyük ve en trajik iç savaşıdır — onlar, İmparatorluğun en büyük ihanetinin ve en büyük dersinin somut halidir.
+## Bedel
+Huron'un isyanı 'vergi ve otonomi' tartışmasıyla başladı ama Chaos'a dönüştü — Huron Blackheart olarak geri döndü (Red Corsairs). Lamenters ve Mantis Warriors sürgün edildi; Executioners 'penitent crusade'le bağışlandı. Badab, Imperium'un 'kendi Space Marine'lerine bile güvenemez' gerçeğinin kanıtıdır — Chapter'ların otonomluğu ile otorite arasındaki ince çizginin kırıldığı savaştır.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10 (Forge World); *Badab War* kampanya kitapları; Lexicanum
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *I

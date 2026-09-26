@@ -10,9 +10,10 @@ Sammael, Dark Angels chapter'ının Ravenwing'inin (hızlı, atlı saldırı kan
 
 Dark Angels'ın karanlık sırrı, kuruluşlarına dayanır; chapter'ın ataları olan I. Lejyon'un bir kısmı Heresy sırasında ihanet etti (the Fallen) ve dağıldı. Dark Angels, bu utancı gizli tutar ve hayatta kalan Fallen'ları teker teker bulup tövbeye (ya da ölüme) zorlamayı en kutsal, en gizli görevleri sayar. Ravenwing, bu avın hızlı ucu, gökyüzünden inen avcı kanadıdır.
 
-## Tarihçe
+## Kuzgun'un Efendisi
+Sammael — Ravenwing'in (Dark Angels 2nd Company) 'Master of the Ravenwing'ıdır; 'Corvex' jetbike'ıyla savaşır ve Fallen avının 'hızlı' yüzüdür. 'Raven Sword' ve 'Master-crafted' silahlarıyla bilinir; Dark Angels'ın 'iz sürücü' geleneğinin en üst figürüdür.
 
-Sammael, Dark Angels'ın en önemli ve en efsanevi figürlerinden biridir — Ravenwing'in lideri ve Chapter'ın en önemli figürlerinden biridir. Sammael, Dark Angels'ın en önemli ve en efsanevi figürlerinden biridir; onun liderliği, Dark Angels'ın en önemli operasyonlarının ve en büyük zaferlerinin simgesidir. Sammael, Dark Angels'ın en önemli ve en efsanevi figürü olarak kalır — onun liderliği, Dark Angels'ın en önemli operasyonlarının ve en büyük zaferlerinin simgesidir.
-
+## Kaynaklar
+-# Kaynaklar: *Codex: Dark Angels*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

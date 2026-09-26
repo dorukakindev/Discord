@@ -14,8 +14,14 @@ Bin yılı aşkın süredir Blood Angels'ı yöneten Chapter Master. Yaşlanmı�
 - **Önemli Olaylar:** Devastation of Baal; Lord Regent of Imperium Nihilus atanması.
 - **Kanon Notu:** "Hayattaki en yaşlı Space Marine" nitelemesi evren içidir. Dante'nin Sanguinius'a atfedilen kehanetteki savaşçı olup olmadığı kasıtlı olarak belirsizdir.
 
-## Tarihçe
+## Efsanevi
+Luis — doğum adı — ya da bilinen adıyla Commander Dante, Blood Angels'ın bin yılı aşkın süredir Chapter Master'ı ve İmparatorluk'un en yaşlı muharip komutanıdır; M41'in sonlarında 1.100+ yaşında. Sanguinius'un ölümünden beri Blood Angels'ın en uzun süre direnen Lord Commander'ı — Baal'ın kumlarında yetişmiş, lejyonunun Black Rage'ini (Kara Öfke — Sanguinius'un ölüm anının genetik travması) kişisel olarak taşıyan ama ona teslim olmayan adam.
 
-Commander Dante, Blood Angels'ın Chapter Master'ı ve İmparatorluk'un en yaşlı ve en efsanevi liderlerinden biridir — 1500 yılı aşkın süredir Chapter'ı yöneten figürdür. Dante, Blood Angels'ın en uzun süre hizmet eden Chapter Master'ıdır; onun liderliği, Chapter'ın en önemli savaşlarının ve en büyük zaferlerinin simgesidir. Dante, Baal'ın savunmasında Tyranid'lerle savaştı ve İmparatorluk'un en büyük direnişini yönetti; onun liderliği, Blood Angels'ın en önemli ve en efsanevi döneminin simgesidir. Commander Dante, Blood Angels'ın en efsanevi ve en uzun süre hizmet eden lideri olarak kalır — onun hikâyesi, İmparatorluk'un en büyük liderlik hikâyelerinden biridir.
+## Devastation of Baal
+Dante'nin en büyük sınavı Tyranid Leviathan'ın Baal'a saldırısıydı (999.M41): Hive Mind'ın Blood Angels'ın baba gezegenini yutmaya geldiği an. Dante tüm successor chapter'ları topladı ve Baal'ı neredeyse son askerine kadar savundu — Guilliman'ın Indomitus Crusade'i son anda yetişti. Dante'nin o anki 'ihtiyar komutan' figürü (*The Devastation of Baal* romanında işlenir) canon'da Space Marine liderliğinin en derin portresidir: yorgun ama kırılmaz.
 
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809334483361823>, <#1551814400938082357>, <#1551815418619101185>
+## Sembol
+Dante'nin altın maskesi Sanguinius'un yüzüdür; 'Chapter'ın babası' değil 'son savaşçısı' gibi davranır. Her Primaris geldiğinde Dante onları ilk başta reddetti ama sonra Blood Angels'ın kurtuluşu olarak kabul etti — yaşamın lejyondan büyük olduğunu bilen adam.
+
+## Kaynaklar
+-# Kaynaklar: *The Devastation of Baal* — Guy Haley; *Dante* — Guy Haley; *Codex: Blood Angels*; *Fear to Tread* (HH, Sanguinius bağlamı); Lexicanum

@@ -10,11 +10,14 @@ Warp'te gemi görebilen mutant soylu hanedan — Navis Nobilite. Üçüncü göz
 - **Dönem:** Great Crusade öncesi
 - **Köken:** Terra / Navigator Haneleri
 
-## Tarihçe
-Navigator geni Karanlık Teknoloji Çağı'nda genetik mühendisliğiyle yaratıldı; hanedanlar Terra'da kendi kanunlarına yakın statüde yaşar. Her Imperial warp yolculuğu bir Navigator gerektirir — onlar olmadan gemiler yalnızca kör sıçramalar yapar.
+## Görücüler
+Navis Nobilite — 'Navigator'lar — Imperium'un Warp'te yol gösteren mutasyonlu insan ırkıdır; 'Navigator gene' taşıyanlar üçüncü gözle Warp'i 'görür' ve gemileri yönlendirir. Navigators olmadan uzun mesafe Warp yolculuğu imkânsızdır — onlar Imperium'un 'açık deniz kaptanı'dır.
 
-## Özellikler
-Alınlarındaki üçüncü göz Warp'a bakar; Astronomican'ın ışığını izleyerek rotayı hesaplar. Mutasyonları ve iç evlilikleri soylu sapkınlıklarıyla ünlüdür.
+## Hanedanlar
+Navigator hanedanları Imperium'un en eski ve en zengin aileleridir — 'Paternova' (en eski Navigator) hepsinin atasdır. Navigator'lar Imperium'un 'vazgeçilmez mutant' paradoksudur: mutantlıkları olmadan Imperium çalışmaz, ama mutant oldukları için de dışlanırlar. Her hanedanın kendi mitolojisi ve politik çekişmesi vardır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperium*; *Rogue Trader* (Navigator mekaniği); *Wolf Time* vb.; Lexicanum
 
 -# Kaynaklar: Codex: Imperialis, Navigator romanları
 

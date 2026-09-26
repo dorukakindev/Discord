@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/df/Duriel_Valedor_System_Eldar_Map.jpg/revision/latest/scale-to-width-down/1000?cb=20140512184613
-
 -# THE IMPERIAL ARCHIVE
 # Iyanden
 

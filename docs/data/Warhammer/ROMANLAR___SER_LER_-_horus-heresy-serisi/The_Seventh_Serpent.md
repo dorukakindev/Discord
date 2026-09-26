@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d2/TheSeventhSerpent.jpg/revision/latest?cb=20150205085257
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # The Seventh Serpent
 

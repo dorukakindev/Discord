@@ -14,9 +14,11 @@ Pençeler, testereler ve silahlarla dolu kollarıyla düşmanın ortasına dalan
 - **Önemli Olaylar:** Kaynaklarda tek bir Deff Dread'e bağlanmış öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Ölüm Makinesi
+Deff Dread — Ork'un 'yarı-makine yarı-Ork' savaş robotudur; ciddi yaralanan bir Ork'un 'metal beden' olarak geri dönüşüdür. 'Big shoota', 'klaw' ve 'rokkits' ile donanır — içindeki Ork 'yaşayan ölü' olarak savaşır. Ork'un 'hiçbir şeyi boşa harcamama' kültürünün kanıtıdır — ölen Ork bile savaşa döner.
 
-Deff Dread, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir — Ork Dreadnought'udur. Deff Dread, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Deff Dread, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Orks*; Lexicanum
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

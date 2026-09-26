@@ -12,19 +12,13 @@ Büyük Haçlı Seferi'nin doruk zaferi; bu zaferden sonra İmparator, Horus'u i
 - **Sonuç:** Büyük Ork zaferi, Horus'un yüceltilmesi
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## İmparatorluk'un İkinci Ölümü
+War of the Beast (544-546.M32), Heresy'den sadece 1.500 yıl sonra Imperium'un neredeyse tekrar çöktüğü Ork istilasıdır; 'The Beast' denen Ork warlord, galaksinin en büyük WAAAGH!'ını topladı. Ork'ların attack moon'ları (gezegen boyutunda saldırı platformları) Terra'nın üzerine çıktı; High Lords of Terra panikledi ve Imperium'un en iyi komutanları birer birer düştü.
 
-Ullanor Zaferi (Ullanor Seferi), Büyük Haçlı Sefer'in en görkemli ve en sembolik anıdır; insanlık gücünün zirvesi ve ironik biçimde, en büyük ihanetin kapısını aralayan olaydır. M31'in başlarında, devasa bir Ork imparatorluğuna karşı kazanıldı.
+## Ullanor ve Son
+Beast'in merkezi Ullanor'du — İmparator'un eski zafer dünyası. Maximus Thane (Imperial Fists) son direnişi örgütledi; 'Last Wall' protokolü son Imperial Fists soyunu topladı. Beast üç kez öldürülmeye çalışıldı, iki kez başarısız olundu; sonunda Drakan Vangorich'in Grand Master'ı ve Vulkan'ın geri dönüşüyle kırıldı. Savaş sonunda Imperium'un Ork tehdidini 'bir daha asla hafife almama' doktrini doğdu.
 
-Ullanor, galaksinin gördüğü en büyük Ork imparatorluklarından biriydi; onu ezmek, İmparator'un ordularının gücünü ve birliğini kanıtlayan büyük bir başarı oldu. Horus, bu seferde olağanüstü bir liderlik sergiledi ve zaferin baş mimarı oldu. Zaferin ardından düzenlenen büyük tören (Triumph of Ullanor), insanlığın altın çağının doruğunu simgeledi.
-
-Ama bu zafer, bir dönüm noktasıydı. İmparator, Ullanor töreninde önemli bir karar açıkladı: Büyük Haçlı Sefer'in komutasını bırakıp gizli, daha büyük bir işe (insanlık için bir Webway kapısı açma projesine) odaklanmak için Terra'ya dönecekti. Orduların komutasını en sevdiği oğlu Horus'a devretti ve onu ilk "Warmaster" ilan etti.
-
-Bu, görkemli bir onurdu; ama aynı zamanda zehirli bir tohumdu. Horus, babasının onu ve kardeşlerini "terk edip" gittiğini hissetti; bu terk edilmişlik duygusu, gururu ve İmparator'un gerçek niyetlerine dair şüpheleri, yıllar içinde Kaos'un sömüreceği zaaflara dönüştü. Ullanor, insanlığın ulaşabileceği en yüksek noktaydı; ama tam o zirvede, düşüşün ilk adımı atıldı. En büyük zafer, en büyük ihanetin başlangıcı oldu.
-
-## Figürler
-
-- İmparator
-- Horus Lupercal
+## Kaynaklar
+-# Kaynaklar: *The Beast Arises* serisi (12 roman — Abnett, Wraight, French, Annandale); Lexicanum
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

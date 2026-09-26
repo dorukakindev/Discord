@@ -14,9 +14,11 @@ Klanlar hâlinde örgütlenen, jetbike'lı Wild Rider'larıyla tanınan ve diğe
 - **Önemli Olaylar:** Exodite dünyalarının savunması; Vigilus'taki müdahale.
 - **Kanon Notu:** Vigilus uzlaşmasının ayrıntıları Imperial kayıtlarda sınırlıdır ve iki tarafın çıkarları açısından farklı okunabilir.
 
-## Tarihçe
+## Rüzgarlılar
+Saim-Hann — 'Wild Host' — Eldar'ın en 'özgür' craftworld'üdür; Jetbike kültürü ve Wild Riders (klan savaşçıları) ile tanınır. Path sistemini diğerlerinden daha gevşek yorumlar — 'Wild Host' yolunda olanlar ailenin savaşçı geleneğini sürdürür; klan rengiyle (kırmızı-siyah) tanınırlar. Kaba, gürültülü, 'Eldar'ın en az nazik' halkı olarak bilinirler.
 
-Saim-Hann, Aeldari ırkının en büyük ve en geleneksel Craftworld'lerinden biridir; onun sürat ve savaş geleneğiyle — hızlı savaşçıları ve jetbike'larıyla bilinen bir Craftworld'dür — onlar, Aeldari'nin en hızlı ve en geleneksel evidir. Saim-Hann'ın en büyük özelliği, onun süratidir — onlar, Aeldari'nin en hızlı savaşçılarını yetiştirir ve onların jetbike'ları, bir savaşın en hızlı gücüdür; bir Saim-Hann savaşçısı, hem bir savaşçı hem de bir sürücüdür ve onların savaşı, hem hız hem de gelenektir. Saim-Hann'ın en ünlü özelliği, onun vahşi geleneğidir — onlar, diğer Craftworld'lerden daha az disiplinli ama daha vahşi savaşçılardır ve onların varlığı, Aeldari'nin en eski geleneğinin kanıtıdır. Saim-Hann, Aeldari ırkının en hızlı ve en geleneksel Craftworld'üdür — onlar, hızın ve geleneğin somut halidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Path of the Eldar*; Lexicanum
 
 -# Kaynaklar: *Codex: Craftworlds — 8th Edition*; *Vigilus Ablaze*; *Rise of the Ynnari: Wild Rider — Gav Thorpe*
 

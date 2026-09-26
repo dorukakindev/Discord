@@ -1,90 +1,42 @@
--# THE IMPERIAL ARCHIVE
+https://static.wikia.nocookie.net/warhammer40k/images/e/e5/Space_Wolves_Livery.jpg/revision/latest?cb=20110305084412
+
+-# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Space Wolves
 
--# Kategori: Space Marine Chapter / First Founding Legion · Fraksiyon: Imperium, Adeptus Astartes · Dönem: M30 – Era Indomitus · Bağlılık: Imperium
+*Vlka Fenryka · Fenris'in Kurtları · Emperor's Executioners*
 
-## Tanım ve Genel Çerçeve
-Space Wolves, VI Legion'ın mirasçısıdır; Horus Heresy dönemini işleyen eserlerde Legion kendini Fenris dilinde **Vlka Fenryka** olarak adlandırır. Primarch'ları Leman Russ'ın buz ve fırtına dünyası Fenris'ten devraldıkları vahşi ruhu taşıyan bu Chapter, Imperium'un en köklü ve en kendine özgü savaşçı topluluklarından biridir. Codex Astartes'i büyük ölçüde reddetmiş, kendi saga geleneklerine, kurtlarla kurdukları bağa ve Primarch'larının bir gün geri döneceği inancına sıkıca bağlı kalmıştır.
+VI Legion; Fenris'in buzlu dünyasından gelen, kurt sürüleri gibi örgütlenen, Codex Astartes'e uymayı reddeden vahşi ve gururlu savaşçılar. Great Crusade'de Emperor'un "cellatları" olarak kardeş Legion'lara karşı bile görev aldılar; Prospero'yu yaktılar. Bugün Space Wolves bir Chapter olarak Fenris'ten savaşır; Primarch'ları Leman Russ'ın "Wolftime"da döneceğine inanırlar.
 
-Leman Russ'ın ayrı bir kanalı bulunmadığından, Primarch'ın yaşamı ve kayboluşu da bu maddede özetlenir. Legion'ın Heresy'deki savaşlarının ayrıntıları için <#1551814951365115956> kanalına bakınız.
+- **Kategori:** First Founding Legion (sadık) → First Founding Chapter
+- **Fraksiyon:** Imperium — Adeptus Astartes
+- **Primarch:** Leman Russ (kayıp)
+- **Anavatan:** Fenris; kale-manastır **the Fang** (Asaheim)
+- **Renkler:** Gri-mavi zırh, sarı ve kırmızı detaylar; kurt postları ve tılsımlar
+- **Chapter Master:** Great Wolf **Logan Grimnar**
+- **Önemli Olaylar:** Prospero; Alaxxes ve Signus; Trisolian; Thirteenth Company'nin kayboluşu; Wrath of Magnus; Wulfen'in dönüşü
 
-## Kökenler: Fenris ve Leman Russ
-Primarch'ların dağıtılmasının ardından Russ'ın kapsülü, dondurucu kışları, sürekli yer değiştiren kıtaları ve acımasız canavarlarıyla bilinen ölüm dünyası Fenris'e düştü. Fenris sagalarına göre çocuğu dev bir dişi kurt büyüttü; sonradan kral Thengir'in adamlarınca yakalanan Russ, kralın yanında yetişip onun halefi oldu. Freki ve Geri adlı kurtların Primarch'a eşlik ettiği anlatılır.
+## Kuruluş ve Fenrisian Dönüşüm
+VI Legion, Terra'da kurulduğunda sıradan bir Legion'dı. Leman Russ'ın Fenris'te bulunmasından sonra Legion, Fenris'in kabilelerinden seçilen savaşçılarla yeniden biçimlendi. Fenris'in acımasız koşulları, Legion'a sert, bağımsız ve fiziksel olarak son derece güçlü savaşçılar kazandırdı. Legion'ın kendi dilindeki adı **Vlka Fenryka**, "Fenris'in Kurtları"dır; "Space Wolves" adı Imperium'un kullandığı isimdir.
 
-Emperor'un Fenris'e gelişi de bir saga olarak aktarılır: yiyme ve içme yarışmalarında kendisini geride bırakan Russ'ı sonunda dövüşte yenen Emperor, bu yenilgiyi kahkahayla karşılayan Russ'ın sadakatini kazanmıştır. Bu anlatı, Chapter'ın kendi sözlü geleneğine ait bir destan olarak okunmalıdır; ayrıntıları kaynaktan kaynağa değişir.
+Legion'ın gen-tohumunda bulunan **Canis Helix**, savaşçılarına keskin kurt duyuları, uzun köpek dişleri ve sarı gözler kazandırır. Ancak aynı gen-tohumu, bazı savaşçıların kontrolsüz bir kurt benzeri dönüşüme uğradığı **Wulfen** lanetini de taşır.
 
-## Great Crusade
-Russ, VI Legion'ın başına geçtikten sonra Legion'ı Fenris'in savaşçı kültürüyle yeniden biçimlendirdi. Crusade boyunca Space Wolves, diğer Legion'ların kaçındığı ağır görevleri üstlenen bir güç olarak ün kazandı: isyankâr dünyaların cezalandırılması ve gerektiğinde bir Legion'ın hizaya getirilmesi. Horus Heresy dönemini işleyen eserler, Russ'ı ve Legion'ını Emperor'un "cellâdı" rolüne yerleştirir; bu rol Legion'a kardeşleri arasında korku, güvensizlik ve kin kazandırmıştır.
+## Great Crusade: Emperor'un Celladı
+Space Wolves, Emperor'un en tehlikeli görevler için kullandığı sert güçtü. Kardeş Legion'lardan biri Emperor'un iradesine karşı çıktığında ya da bir dünyanın bütünüyle yok edilmesi gerektiğinde çağrılan Legion buydu. Kaynaklar, Space Wolves'un kayıtlardan silinmiş Legion'lardan en az birinin yok edilmesine katılmış olabileceğini ima eder.
 
-Crusade döneminde Russ ile Lion El'Jonson arasında yaşanan düello anlatıları, Dark Angels ile Space Wolves arasındaki kadim rekabetin kaynağı olarak anılır; olayın gerekçesi ve sonucu farklı anlatılarda farklı aktarılır.
+## Prospero ve Heresy
+Space Wolves, Heresy'nin başlarında Emperor'un emriyle Magnus'u Terra'ya getirmek için Prospero'ya gönderildi. Horus'un emri çarpıtmasıyla bu görev bir cezalandırma seferine dönüştü; Space Wolves ve Sisters of Silence, Thousand Sons'ın başkenti Tizca'yı yıktı (*Prospero Burns*). Sonrasında Legion, Horus'un ihanetinin gerçek boyutunu öğrendi.
 
-## Horus Heresy
-Nikaea Konseyi'nin ardından Magnus the Red'in yasağı çiğnemesi üzerine Russ, Magnus'u Terra'ya getirmekle görevlendirildi. Horus'un müdahalesiyle bu görev bir cezalandırma seferine dönüştü; *Prospero Burns* ve *A Thousand Sons* romanlarında iki farklı bakış açısından işlenen Prospero'nun Yakılışı, Space Wolves ile Thousand Sons arasında on bin yıl sürecek bir düşmanlığın başlangıcı oldu.
+Heresy boyunca Space Wolves, Alpha Legion'ın kurduğu tuzaklarla uzun süre meşgul edildi. **Alaxxes Nebulası**'nda White Scars'la gergin bir karşılaşma yaşandı. **Trisolian**'da Russ, Horus'un amiral gemisi Vengeful Spirit'e çıkarak onunla dövüştü ve ağır yenildi (*Wolfsbane*).
 
-Ardından gelen yıllarda Space Wolves, Alpha Legion'la ve Horus'a sadık kuvvetlerle yıpratıcı savaşlara girdi. *Wolfsbane* ve *Leman Russ: The Great Wolf* gibi eserler, Russ'ın bu dönemdeki kararlarını ve Legion'ın ödediği bedeli işler. Terra Kuşatması'nın son aşamasında Russ'ın kuvvetleri, Terra'ya yaklaşan yardım filoları arasındaydı.
+## Heresy Sonrası ve Codex'in Reddi
+Heresy'nin ardından Space Wolves, Codex Astartes'e uymayı büyük ölçüde reddetti. Chapter, **Great Company**'ler etrafında örgütlenir: her biri bir **Wolf Lord** tarafından yönetilen on iki Great Company. Chapter'ın on üçüncü Great Company'si — **Thirteenth Company** — Heresy'de Eye of Terror'a girerek kaybolmuştu; M41'in sonlarında Great Rift'in açılmasına yakın dönemde geri döndüğü anlatılır.
 
-## Scouring ve Russ'ın Kayboluşu
-Scouring sırasında Space Wolves, Traitor Legion'ları ve Thousand Sons'ı kovaladı. Russ bu dönemin sonunda Fenris'ten ayrılarak bilinmeyen bir sefere çıktı ve bir daha geri dönmedi. Chapter'ın inancına göre Russ, **Wolftime** adı verilen son savaş zamanında geri dönecektir. Russ'ın nereye gittiği ve akıbeti yayımlanmış kanonda açıklanmamıştır; farklı anlatılar Eye of Terror ya da Warp gibi olasılıkları ima eder.
+Space Wolves, Inquisition'la da sürekli bir gerilim içindedir. Özellikle **First War for Armageddon**'dan sonra Inquisition'ın savaşın tanıklarını yok etme kararına karşı çıkmaları, Space Wolves ile Inquisition arasındaki düşmanlığın başlangıcıdır.
 
-## Yapı ve Organizasyon
-Space Wolves, Codex Astartes'in Company yapısını benimsemez. Chapter, her biri bir **Wolf Lord**'un komutasındaki **Great Company**'lere bölünür; Chapter'ın başında ise **Great Wolf** bulunur. Great Company'ler arasında rekabet ve bağımsızlık belirgin biçimde korunur.
+## Era Indomitus
+Era Indomitus'ta Space Wolves, **Logan Grimnar**'ın önderliğinde Imperium'un en önemli savunucularından biri olmaya devam eder. **Wrath of Magnus** döneminde Thousand Sons'ın Fenris'e saldırısı, Chapter'a ağır kayıplar verdirdi. **Wulfen**'in yeniden ortaya çıkışı ve Thirteenth Company'nin dönüşü, Space Wolves tarafından Wolftime'ın işaretleri olarak yorumlanır. Primaris savaşçılarının Chapter'a katılımı ise Space Wolves'un gelenekçi yapısında tartışmalara yol açtı.
 
-- **Blood Claws**: Chapter'a yeni katılmış, öfkesini henüz dizginleyememiş genç savaşçılar.
-- **Grey Hunters**: İlk savaşlarından sağ çıkıp sabrı öğrenmiş, Chapter'ın omurgasını oluşturan savaşçılar.
-- **Long Fangs**: Yaşlanıp ağır silahların ustası hâline gelmiş kıdemli savaşçılar.
-- **Wolf Guard**: Wolf Lord'ların seçkin muhafızları.
-- **Wolf Scouts**: Keşif ve sızma görevleri üstlenen savaşçılar.
+## Savaş Tarzı ve Kültür
+Space Wolves, yakın dövüşe, hızlı saldırılara ve kurt sürüsü taktiklerine dayanır. Genç savaşçılar **Blood Claws**, deneyimliler **Grey Hunters**, en yaşlılar **Long Fangs** olarak savaşır. Chapter'ın ruhani liderleri **Rune Priest**'lerdir; kapelanlar yerine **Wolf Priest**'ler görev yapar. Chapter'ın kültürü, Fenris'in destan anlatımı, şölenleri ve onur geleneğiyle doludur.
 
-Chapter'ın ruhani ve teknik düzeni de kendine özgüdür: **Wolf Priest**'ler gene-seed'in ve ritüellerin koruyucusu, **Rune Priest**'ler Chapter'ın psişik gücünü taşıyan savaşçılar, **Iron Priest**'ler ise Chapter'ın zanaatkârlarıdır.
-
-**Canis Helix** adı verilen Fenris kökenli gene-seed bileşeni, Chapter'ın ardıl Chapter oluşturmasını zorlaştıran bir istikrarsızlığa sahiptir. Kaynaklar, ardıl olarak kurulan Wolf Brothers'ın bu istikrarsızlık nedeniyle çöktüğünü anlatır.
-
-## Tarihçe
-
-Space Wolves, Space Marines'in en vahşi ve en efsanevi Legion'larından biridir — Leman Russ'ın Legion'udur ve İmparatorluk'un en savaşçı Legion'udur. Space Wolves, İmparatorluk'un en vahşi ve en savaşçı Legion'udur; onların savaş yetenekleri ve vahşiliği, İmparatorluk'un en önemli ve en güçlü güçlerinin simgesidir. Space Wolves, Heresy sırasında İmparator'a s
-
-## Kültür, İnanç ve Dünya Görüşü
-Space Wolves'ın kültürü, Fenris'in savaşçı ahlakı, sözlü saga geleneği ve kurtla kurulan ruhani bağ üzerine kuruludur. Chapter'ın savaşçıları kahramanlık, kardeşlik ve onura değer verir; Imperium'un bürokratik yapısına ve dogmatik kurumlarına mesafelidir. Sıradan insanlara karşı koruyucu bir tutum sergilemeleri, özellikle Inquisition'la sık sık çatışmalarına yol açar.
-
-Canis Helix'in karanlık yüzü, **Wulfen** laneti olarak bilinir: bazı savaşçılar yarı kurt yaratıklara dönüşebilir. Kayıp **13th Great Company**, Russ'ın döneminde Eye of Terror'da ortadan kaybolmuş ve Wulfen'le özdeşleşmiş bir birlik olarak anılır.
-
-## Doktrin ve Savaş Tarzı
-Space Wolves, cesur ve saldırgan bir savaş tarzıyla tanınır. Chapter, yakın muharebeye ve bireysel kahramanlığa büyük değer verir; ancak bu saldırganlık, Long Fangs'in ağır ateş gücü ve Wolf Scouts'un keşif görevleriyle dengelenir. Fenris kurtları ve Thunderwolf binicileri de Chapter'ın savaş düzeninin karakteristik unsurlarıdır.
-
-## Önemli Figürler
-- **Logan Grimnar**: Yüzyıllardır Great Wolf unvanını taşıyan Chapter Master.
-- **Bjorn the Fell-Handed**: Russ'ın döneminden kalan ve Dreadnought zırhında hâlâ savaşan en yaşlı savaşçı.
-- **Ragnar Blackmane**: Genç yaşta Wolf Lord olan ve Chapter'ın dinamik ruhunu temsil eden komutan.
-- **Njal Stormcaller**: Chapter'ın en güçlü Rune Priest'lerinden biri.
-- **Ulrik the Slayer**: Wolf High Priest; gene-seed ve gelenek koruyucusu.
-
-## Büyük Savaşlar ve Kilit Olaylar
-**Birinci Armageddon Savaşı**: M41'de Angron'un Armageddon'a saldırısı Grey Knights tarafından püskürtüldükten sonra Inquisition, Chaos'a tanık olan halkı susturmak için ağır tedbirlere başvurdu. Savaşta yer alan Space Wolves bu kararlara karşı çıktı; kriz, Chapter ile Inquisition arasında açık çatışmanın eşiğine gelinen bir hesaplaşmaya dönüştü. Olayın ne ölçüde silahlı çatışmaya varıldığı konusunda anlatımlar aynı ayrıntıyı vermez; ancak Space Wolves ile Inquisition arasındaki kalıcı güvensizliğin simgesi olarak anılır.
-
-**Battle of the Fang**: Thousand Sons'ın Fenris'e ve Chapter'ın dağ kalesi Fang'e yönelik büyük saldırısı. Chris Wraight'ın *Battle of the Fang* romanında işlenen kuşatma, Prospero'dan beri süren kinin Fenris'in kalbine taşındığı andır.
-
-**Wrath of Magnus ve Curse of the Wulfen**: 7th Edition döneminin kampanya kitapları, Wulfen'lerin Warp'tan esrarengiz biçimde ortaya çıkışını ve ardından Magnus the Red'in Fenris'e yönelttiği saldırıyı işler. Bu olaylar, 13th Great Company'nin mirasını ve Space Wolves ile Thousand Sons arasındaki düşmanlığı Great Rift'in eşiğindeki galaksiye yeniden taşımıştır.
-
-## Great Rift Sonrası / Güncel Durum
-Great Rift sonrasında Space Wolves, Roboute Guilliman'ın dağıttığı Primaris takviyelerini kendi geleneklerine uyarlayarak saflarına kattı. Chapter'ın güncel anlatısı, Logan Grimnar'ın uzun liderliği ve Wolftime beklentisi etrafında gelişmeye devam eder; Chapter'a özgü ayrıntılı gelişmeler yayımlanmış kaynaklarda sınırlıdır.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Space Wolves ile Dark Angels birbirine düşmandır.
-**Kanon:** İki Chapter arasındaki ilişki, Russ ile Lion'un düellosundan doğan bir rekabet ve karşılıklı gururdur; ikisi de Imperium'a sadık Chapter'lardır ve birlikte savaşmaları mümkündür.
-
-**Yanılgı:** Wulfen ayrı bir türdür.
-**Kanon:** Wulfen, Canis Helix'in etkisiyle dönüşen Space Wolves savaşçılarıdır; ayrı bir tür değil, Chapter'ın gene-seed mirasının karanlık bir yüzüdür.
-
-**Yanılgı:** Space Wolves Codex Astartes'i tamamen yok sayar.
-**Kanon:** Chapter, Codex'in örgütlenme modelini benimsemez; ancak Imperium'un genel askerî düzeni içinde, Adeptus Astartes'in bir parçası olarak hareket eder.
-
-**Yanılgı:** Russ'ın geri döndüğü resmî olarak açıklandı.
-**Kanon:** Böyle bir yayın yoktur; dönüş Chapter inancı düzeyindedir.
-
-## Yayın ve Retcon Notu
-Space Wolves, Rogue Trader döneminden beri oyunun en köklü Chapter'larından biridir ve 2nd Edition'da ayrı bir Codex'e kavuşmuştur. William King'in *Space Wolf* romanları Chapter'ın 40K kimliğini şekillendirirken, Horus Heresy romanları, özellikle *Prospero Burns*, Legion'ın kimliğini ve Russ'ın rolünü yeniden çerçeveledi. Eski yayınlardaki tek boyutlu barbar imajı, sonraki eserlerde daha katmanlı bir savaşçı kültürüne dönüşmüştür.
-
-**Kaynaklar:** *Codex Supplement: Space Wolves — 10th Edition*; *Prospero Burns — Dan Abnett*; *A Thousand Sons — Graham McNeill*; *Wolfsbane — Guy Haley*; *Leman Russ: The Great Wolf — Chris Wraight*; *Battle of the Fang — Chris Wraight*; *Space Wolf — William King*
-**Çapraz:** <#1551753431230971988>, <#1551809231580307517>, <#1551813077991686208>, <#1551814951365115956>, <#1551816657691746335>, <#1551815304252887041>, <#1551808888666587197>
-
-​
+-# Kaynaklar: *Prospero Burns* — Dan Abnett; *Wolfsbane* — Guy Haley; *Leman Russ: The Great Wolf* — Chris Wraight; *Space Wolf* serisi — William King; *Codex Supplement: Space Wolves*; *Wrath of Magnus*; Lexicanum

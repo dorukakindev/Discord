@@ -7,13 +7,16 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg
 
 Gizlilik, pusu ve hızlı baskının ustası; Isstvan katliamından ağır yaralı çıkan lejyon.
 
-## Tarihçe
-Raven Guard, primarch'ları Corvus Corax'ın gölge, gizlilik ve özgürlük ruhunu taşır; bir köle isyanından doğan kurtarıcının mirasçılarıdır. Savaş tarzları gizlilik, pusu, jump pack baskınları ve gerilla taktikleridir; açık çatışmadan kaçınır, düşmanı gölgelerden vurup kaybolurlar.
+## Köken: Deliverance'ın Gölgeleri
+XIX Lejyon'un primarch'ı Corvus Corax, Lycaeus'un (sonradan Deliverance) maden hapishane ayında köle isyanı lideri olarak büyüdü. Lejyonun doktrini onun geçmişinden gelir: gizlilik, sabotaj, ani kurtarma — güçsüzü güçlüye karşı. Raven Guard 'gölge savaşının' ustasıdır; diğer lejyonların görkemli hücumları yerine sessiz infiltrasyon, suikast, nokta darbesi kullanır.
 
-Corax, forge dünyası Kiavahr'ın hapishane ayı Lycaeus'ta köleleri özgürleştirdi ve oraya "Deliverance" (Kurtuluş) adını verdi; bu özgürlük ve baskıya isyan ruhu, lejyonun çekirdeğindedir. Sıradan insanlara karşı şefkatlidirler, ama doğaları gereği yalnız ve içe dönüktürler.
+## İsyan ve Isstvan
+Great Crusade'de Raven Guard, çoğu zaman karanlıkta kalan en etkili lejyondu. Isstvan V'te Corax'ın lejyonu paramparça edildi — hayatta kalan birkaç bin nefer Deliverance'a kaçtı. Corax, lejyonu yeniden kurmak için yasak bir gen-projeye girişti ('Raptors' programı); sonuç grotesk mutantlar oldu ve Corax onları kendi elleriyle 'merhametle' öldürdü — bu suç onu sonsuza dek yaraladı.
 
-Raven Guard'ın savaş sanatı, Deliverance'ın tozlu madenlerinden ve Corvus Corax'ın 'görünmeden vur' öğretisinden gelir: lejyon, İmparatorluk'un keşif, sabotaj ve suikast kolu olarak şekillendi. Deliverance'lı isyancı kölelerin torunları olan kardeşler, gölgeyle hareket eder ve asla doğrudan kuşatmaya girmez.
+## Corax'ın Kaybı
+Heresy sonrası Corax, lejyonu yeniden kuramadığı suçlulukla Eye of Terror'a, Lorgar'ın peşine gitti ve orada bir daha görülmedi — ya da 'görülmedi' deniyordu; *Shadows of the Past*'te Warp'ın içinde 'gölgeye dönüşmüş' bir Corax'ın Lorgar'ı yenip sürgün ettiği anlatılır. Bugün Raven Guard Chapter'ı Shrike ve daha sonra Kayvaan Shrike doktriniyle hâlâ 'gölge savaşı' yapar; Kayvaan'ın Raven Guard'ı en az konuşan, en çok dinleyen bölümdür.
 
-Isstvan V'te lejyon neredeyse yok oldu; Corax, sağ kalanları kurtarmak için yasaklı genetik hızlandırma tekniklerine başvurdu ve ortaya çıkan bozulmuş 'Raptors' deneyleri, lejyonun vicdan yarası olarak kaldı. Savaştan sonra Corax uzaklara göçtü — 'Nevermore' sözüyle gölgelerin içinde kaybolduğu söylenir; bugün Raven Guard'ın oğulları onun muhtemel dönüşünü beklemeden, sessiz ve ölümcül görevlerini sürdürür.
+## Kaynaklar
+-# Kaynaklar: *Corax*, *Deliverance Lost*, *Shadows of the Past* (HH); *Raven Guard* kaynak kitapları; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

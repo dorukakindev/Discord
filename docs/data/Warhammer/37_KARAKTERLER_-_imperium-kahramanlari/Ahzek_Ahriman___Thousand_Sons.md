@@ -14,8 +14,16 @@ Tzeentch'in dünyasında yaşayıp onun oyununu bozmaya çalışan bilge ve kibi
 - **Önemli Olaylar:** Rubric of Ahriman; sürgün; Black Library arayışı.
 - **Kanon Notu:** Tzeentch'in Ahriman'ı neden sakladığı, tanrının doğası gereği yayımlanmış kanonda açıklanmamıştır.
 
-## Tarihçe
+## Prospero'nun Bilgesi
+Ahzek Ahriman, Thousand Sons'ın baş kütüphanecisi ve Magnus'tan sonra lejyonun en güçlü psyker'ıdır. Prospero'nun yakılışından önce lejyonun iyimser bilgi-idealinin temsilcisiydi: Warp'ı 'kullanılabilir araç' olarak gören, Nikaea'yı içten reddeden ama itaat eden figür. İkizi Omem Zakarah'ın flesh-change'e kurban gitmesi onu kırıp geçirdi — o günden sonra kardeşlerini kurtarmak tek amacı oldu.
 
-Heresy'den sonra Planet of the Sorcerers'ta yeniden baş gösteren flesh-change'e kalıcı bir çözüm bulmak için Ahriman ve cabal'ı, Magnus'un onayını almadan büyük bir ritüel hazırladı. Rubric of Ahriman, Legion'ın büyük kısmını toza çevirerek zırhlarına hapsetti. Klasik anlatıma göre Magnus'un öfkesini durdurup Ahriman'ın öldürülmek yerine sürgüne gönderilmesini sağlayan Tzeentch'in iradesiydi. Sürgünde Ahriman, Webway'de saklı Black Library başta olmak üzere yasak bilginin peşine düştü; John French'in romanları bu arayışı ayrıntılandırır.
+## Rubric
+Ahriman'ın başyapıtı ve felaketi **Rubric of Ahriman**'dır: flesh-change'i durdurmak için yazdığı devasa büyü, psyker olmayan tüm kardeşlerini toz hâline getirip ruhlarını zırha hapsetti. Amacı kurtuluştu; sonuç lejyonun kalanını 'toz denizci' Rubricae'lere dönüştürmek oldu. Magnus onu sürgün etti. Ahriman bin yıldır lejyonu eski hâline getirecek yolu arıyor — bu arayış onun trajedisi ve Imperium'un kâbusudur.
+
+## Black Library ve Ötesi
+Ahriman'ın uzun vadeli hedefi Black Library'ye girmek — Harlequin'lerin koruduğu, Chaos'un tüm bilgisini barındıran Webway kütüphanesi. *Ahriman* serisi (John French) onu neredeyse 'Insanî' bir figür olarak resmeder: Imperium'un en azılı büyücüsü aslında kardeşlerini kurtarmaya çalışan bir insandır. Her başarısızlığı onu daha güçlü ama daha yalnız kılar.
+
+## Kaynaklar
+-# Kaynaklar: *A Thousand Sons*, *The Crimson King* (HH); *Ahriman: Exile*, *Ahriman: Sorcerer*, *Ahriman: Unchanged* — John French; *Codex: Thousand Sons*; Lexicanum
 
 -# Kaynaklar: *A Thousand Sons — Graham McNeill*; *Ahriman: Exile — John French*; *Codex: Thousand Sons*

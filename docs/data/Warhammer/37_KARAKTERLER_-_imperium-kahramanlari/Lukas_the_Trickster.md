@@ -10,9 +10,13 @@ Lukas the Trickster (Strifeson, Gülen Kurt ve Jackalwolf olarak da anılır), S
 
 Kurnazlığı tartışmasızdır; silahsızken bile chapter'ın en "kirli" dövüşçüsüdür. Jackal Wolf, her zaman kardeşlerinden ayrı durmuş, kızgın Wolf Lord'lar tarafından bölükten bölüğe savrulmuş, hem ün salmış hem de aynı ölçüde nefret edilmiş bir figürdür. Onun şakaları ve hileleri çoğu zaman ölümcüldür.
 
-## Tarihçe
+## Şakacı
+Lukas the Trickster — 'Lukas' — Space Wolves'un en aykırık figürüdür; Chapter'ın 'teknik olarak disiplinsiz ama sonuç getiren' üyesi. Açık sözlü, otoriteye meydan okuyan ama her zaman kazanan Blood Claw — 'Bloodclaw Pack'in lideri olarak kalır ama asla yükselmez çünkü Lukas 'emir almaz'. Fenris mitolojisinin 'tilki ruhu'dur.
 
-Lukas the Trickster, Space Wolves'un en ünlü ve en komik figürlerinden biridir — 'Trickster' olarak bilinen ve Space Wolves'un en ünlü şakacısıdır. Lukas, Space Wolves'un en ünlü ve en komik figürüdür; onun şakaları ve savaş yetenekleri, Space Wolves'un en ünlü ve en komik figürlerinin simgesidir. Lukas the Trickster, Space Wolves'un en ünlü ve en komik figürü olarak kalır — onun hikâyesi, Space Wolves'un en ünlü ve en komik figürlerinden biridir.
+## Miras
+Lukas canon'da Space Wolves'un 'özgür ruh' iddiasının en uç örneğidir: emirleri dinlemez ama Imperium'a sonuna kadar sadıktır — sadece kendi yoluyla. 'Jester' lakabı onun ciddiyetsiz görünüşünü saklar; aldatma ve kurnazlık onun silahıdır.
 
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Wolves*; *Lukas the Trickster* — Steve Lyons; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

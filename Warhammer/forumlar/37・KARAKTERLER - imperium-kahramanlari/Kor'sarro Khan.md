@@ -12,6 +12,11 @@ Kor'sarro Khan, White Scars'ın önde gelen komutanı ve Chapter'ın 'Stormseer'
 
 Khan'ın 'Moondrakkan' adlı kişisel bisikleti ve kılıç 'Moonfang', Chapter'ın en bilinen emanetlerindendir; komutası altındaki White Scars, hem pusu hem de açık savaşta rakipsizdir. Kor'sarro, Codex'in 'şeref' yönünü barbar dünyanın öfkesiyle birleştiren nadir komutanlardandır — White Scars'ın 'medeni barbar' idealinin yaşayan kanıtıdır.
 
-## Tarihçe
+## Avcı
+Kor'sarro Khan — 'Master of the Hunt' — White Scars 3rd Brotherhood'ın komutanı ve Chapter'ın en ünlü saha lideri; 'Khan' unvanını taşır, Moonglade jetbike'ıyla savaşır. White Scars'ın 'hız ve iz' doktrininin canlı örneği: düşmanı bulur, onu yakalar, geri dönmez. Fede Tümörü'nün (Chaos Warlord) peşinde 9 yıl geçirdiği efsanesi canon'da meşhurdur.
 
-Kor'sarro Khan, White Scars'ın en ünlü ve en tehlikeli figürlerinden biridir — Third Company'nin kaptanı ve 'Moondrakkan' olarak bilinen figürdür. Kor'sarro Khan, White Scars'ın en ünlü ve en tehlikeli figürüdür; onun savaş yetenekleri ve liderliği, White Scars'ın en önemli ve en tehlikeli güçlerinden biridir. Kor'sarro Khan, White Scars'ın en ünlü ve en tehlikeli figürü olarak kalır — onun yetenekleri, White Scars'ın en önemli ve en tehlikeli güçlerinin simgesidir.
+## Sembol
+Kor'sarro White Scars'ın 'Chogoris kültürü'nü — at, rüzgâr, iz sürme — uzay çağına taşıyan figürdür; Chapter'ın 'saygın ama uzak' imajını sahada kişileştirir. 'Hunt' protokolü onunla ilişkilidir: bir hedef işaretlenir, Kor'sarro onu getirir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: White Scars*; *Kor'sarro Khan* lore parçaları; *Hunt for the Fallen*; Lexicanum

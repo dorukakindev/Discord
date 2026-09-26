@@ -12,9 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/84/KyrilSindermanBust.pn
 - **Köken:** Terra
 - **Önemli Olaylar:** Remembrancer düzeni; Inquisition'ın kuruluşu
 
-## Tarihçe
+## Sözcü
+Kyril Sindermann — 'Interator' — Heresy'nin sivil figürüdür; Remembrancer olarak başladı, sonra Imperium'un ilk 'tarikat-polisi' (sonradan Inquisition'un temeli) kuran figürlerden biridir. Sindermann, İmparator'un 'oğulları ihanet etti' gerçeğini kanıtlayan adam olarak bilinir — Warmaster'ın ihanetinin kanıtını topladı.
 
-Kyril Sindermann, İmparatorluk'un en önemli ve en bilgili figürlerinden biridir — Iterators'ın lideri ve İmparatorluk'un ilk resmi tarihçisidir. Sindermann, İmparatorluk'un en önemli ve en bilgili figürlerinden biridir; onun çalışmaları, İmparatorluk tarihinin en önemli kayıtlarının kaynağıdır. Sindermann, Horus Heresy sırasında Chaos'un varlığını ilk fark eden figürlerden biriydi; onun uyarısı, İmparatorluk'un en önemli ve en kritik bilgilerinden biriydi. Kyril Sindermann, İmparatorluk'un en önemli ve en bilgili figürü olarak kalır — onun çalışmaları, İmparatorluk tarihinin en önemli kayıtlarının kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Horus Rising* (HH); *The Last Council*; *The End and the Death*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 

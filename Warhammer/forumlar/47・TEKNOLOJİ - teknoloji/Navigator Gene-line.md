@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/87/HouseOrsellioHeraldry.jpg/revision/latest/scale-to-width-down/1000?cb=20240227211032
-
 -# THE IMPERIAL ARCHIVE · Teknoloji · Kayıt
 # Navigator Gene-line
 *Navigator Gen-soyu, Warp'ta Gören Üçüncü Göz*

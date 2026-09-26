@@ -14,9 +14,11 @@ Avcılığı soyluluğun sınavı sayan, koyu yeşil renkleri orman örtüsünde
 - **Önemli Olaylar:** Beta-Garmon; Great Scouring; Gryphonne IV'ün düşüşü (997.M41).
 - **Kanon Notu:** Hanenin Mechanicus'tan Imperialis çizgisine geçişi sonraki yayınlarda anlatılır; eski kaynaklar Hane'yi Questor Mechanicus olarak gösterir.
 
-## Tarihçe
+## Kurt Hanesi
+House Cadmus — 'Black Gate'inden tanınan Knight hanesi; Agrathaa gezegeninde otururlar ve 'Vandoth'ın Kanı' gibi eski kan davası kültürüyle bilinirler. Cadmus, Knight'ların 'soy ve onur' dünyasının simgesidir — her şövalye bir 'soy' taşır ve her dövüş bir 'hesap'tır.
 
-House Cadmus, İmparatorluk'un en eski ve en prestijli Knight hane'lerinden biridir — Questor Imperialis hanesi olarak İmparatorluk'a doğrudan bağlıdır. Cadmus'un Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Cadmus — Questor Imperialis, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; Lexicanum
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

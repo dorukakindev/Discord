@@ -10,8 +10,13 @@ Prospero, Heresy çağında Magnus the Red ve Thousand Sons lejyonunun anavatan�
 
 Prospero, İmparatorluğun çoğu dünyasının aksine, psyker'lara değer veren ve onları yetiştiren bir yerdi; Magnus burada hem bedence hem psişik güççe akıl almaz biçimde gelişmişti. Ama bu bilgi açlığı, gezegenin sonunu getirdi. Magnus'un Horus'un ihanetini İmparator'a yasak psişik güçle haber vermeye çalışması, Terra'nın savunmalarını delince mahkum oldu.
 
-## Tarihçe
+## Kütüphane
+Prospero, Thousand Sons'ın ana dünyasıydı — Magnus'un 'ışık şehri' Tizca'sıyla bilinen, bilginin ve psişik öğretimin merkezi. Great Crusade'de lejyonun 'bilgi biriktirme' misyonu burada somutlaştı: Tizca'nın kütüphaneleri galaksinin en büyük psişik arşiviydi.
 
-Prospero, Thousand Sons Legion'unun ev gezegeni ve Magnus the Red'in ana dünyasıydı — bilgi ve sorcery'nin merkezi olarak bilinen bir dünyaydı. Prospero, Aeldari'lerin terk ettiği bir dünyada kurulmuştu ve Magnus, burada Thousand Sons'u bilgi arayışına adadı; gezegen, İmparatorluk'un en büyük kütüphanelerine ve sorcery araştırmalarına ev sahipliği yapıyordu. Space Wolves'un 'Yakılışı' sırasında Prospero tamamen yok edildi; Leman Russ'un güçleri gezegeni yakıp kül etti ve Thousand Sons'un neredeyse tamamını katletti. Prospero'nun yıkımı, Magnus'un Tzeentch'e sığınmasına ve Thousand Sons'un Chaos'a düşmesine neden olan en trajik olaydır.
+## Yanış
+Burning of Prospero (HH) burada geçti — Space Wolves'un saldırısı şehri yaktı, Magnus'un oğullarını Sortiarius'a (Daemon World) sürgün etti. Prospero'nun külleri canon'da 'yok edilmiş mükemmellik' simgesidir; Rubric sonrası toz bedenli Thousand Sons için Prospero kaybedilmiş cennettir.
+
+## Kaynaklar
+-# Kaynaklar: *A Thousand Sons*, *Prospero Burns* (HH); *Codex: Thousand Sons*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

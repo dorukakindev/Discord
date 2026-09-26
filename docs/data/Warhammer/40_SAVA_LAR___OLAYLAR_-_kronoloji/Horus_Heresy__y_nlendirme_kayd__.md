@@ -14,6 +14,14 @@ Space Marine Legion'larının neredeyse yarısını, Imperial Army'nin, Mechanic
 - **Önemli Olaylar:** Aşağıdaki kayıtlar: Isstvan III, Drop Site Massacre, Burning of Prospero, Calth.
 - **Kanon Notu:** Olayların sırası için <#1551629179794227301> altındaki Horus Heresy kaydına bakılabilir.
 
-## Tarihçe
+## Galaksinin İç Savaşı
+Horus Heresy (M31 başı — yaklaşık 7 yıl), Warmaster Horus'un Chaos'un dört tanrısının ortak kışkırtmasıyla İmparator'a isyan ettiği iç savaştır; İmparatorluk tarihinin dönüm noktası. Dokuz lejyon (World Eaters, Emperor's Children, Death Guard, Thousand Sons, Sons of Horus, Word Bearers, Night Lords, Iron Warriors, Alpha Legion) Horus'a katıldı; dokuzu sadık kaldı.
 
-Horus Heresy, İmparatorluğun en büyük ve en trajik iç savaşıdır; Horus'un — İmparator'un en sevgili oğlu — Chaos'a düşmesi ve İmparatorluğa ihanet etmesiyle başlayan ve sonunda İmparatorluğu neredeyse yok eden bir savaştır — onlar, İmparatorluğun en büyük trajedisinin ve en büyük dersinin somut halidir. Horus Heresy'nin en büyük özelliği, onun ihanetidir — onlar, bir oğlun babasına ihanetinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Horus Heresy, bir imparatorluğun en büyük yarasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Horus Heresy'nin en ünlü özelliği, onun Terra Kuşatması'dır — onlar, Horus'un Terra'ya saldırısının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük sa
+## Ana Aşamalar
+Isstvan III katliamı (virüs bombasıyla sadık unsurların temizlenmesi), Isstvan V Dropsite Massacre (sadık 3 lejyonun tuzağa düşürülmesi — Iron Hands, Salamanders, Raven Guard'ın kırılması, Ferrus Manus'un ölümü), Prospero'nun yakılması, Calth'ta Word Bearers'ın ihaneti, Signus Prime'da Blood Angels'ın yarası, sonra yıllar süren kaotik kampanya ve nihayet Terra Kuşatması.
+
+## Sonuç
+İmparator kazandı ama bedel her şeydi: Horus öldü, İmparator Golden Throne'a hapsedildi, Primarch'lar yarı yarıya kayboldu ya da kaçtı. Imperium'un askeri gücü yarıya indi; Imperial Truth öldü, yerine İmparator kültü doğdu. Her şeyden önce Heresy, İmparatorluk'un 'bir daha asla' dediği ama yarası hiç kapanmayan olaydır.
+
+## Kaynaklar
+-# Kaynaklar: Horus Heresy serisi (54+ roman — Horus Rising'den The End and the Death'e); *Visions of Heresy*; Lexicanum

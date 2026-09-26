@@ -7,11 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Legio_Gryphonicus_Leg
 
 Imparatorluga sadakatiyle anilan, Collegia Titanica'nin en saygin Titan lejyonlarindan biri sayilan Sadik lejyon.
 
-## Tarihçe
-Legio Gryphonicus, Imparatorluk dilinde "War Griffons" (Savas Grifonlari) olarak bilinen ve Collegia Titanica'nin en seckin Titan lejyonlarindan biri kabul edilen Sadik bir tanri-makine lejyonudur. Koken Forge World'u, Segmentum Tempestus'ta yer alan ve sonradan yok edilen Gryphonne IV gezegenidir.
+## Savaş Griffonları
+Legio Gryphonicus — 'War Griffons' — Adeptus Titanicus'un en eski ve en sadık lejyonlarındandır; Heresy'de sadık kaldı ve Terra surlarında savaştı. 'Gryphon' sembolüyle tanınır — Warlord ve Reaver titanlarının en efsanevi komutanları buradan çıkar. Canon'da 'klasik' Titan lejyonudur — diğerlerinin standardı onlara bakar.
 
-Bu donanim dunyasi yalnizca devasa tanri-makineleriyle degil, Adeptus Mechanicus genelinde gipta edilen, disiplin ve isabetleriyle un salmis Skitarii lejyonlariyla da aniliyordu.
-
-Horus Sapkinligi boyunca lejyon, yeminlerine sadik kalarak Hain lejyonlara karsi sarsilmaz bir kararlilikla savasti. War Griffons, dunya-kiran ates gucuyle korku saliyor; Imparatorluk saflarinda bir ideal ve mukemmel bir Titan lejyonu ornegi olarak gosteriliyordu.
+## Kaynaklar
+-# Kaynaklar: *Adeptus Titanicus*; *Titanicus* — Dan Abnett; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

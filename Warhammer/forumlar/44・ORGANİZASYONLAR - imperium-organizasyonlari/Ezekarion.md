@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Iskandar_Khayon.jpg/revision/latest?cb=20160829205424
-
 -# THE IMPERIAL ARCHIVE · Imperium Organizasyonlari · Kayıt
 # Ezekarion
 
@@ -13,10 +11,8 @@ Ezekarion, Abaddon'ın savaş meclisi ve en güvendiği adamların halkasıdır.
 - **Bilinen Kullanıcılar / Operatörler:** Iskandar Khayon (Thousand Sons kökenli); World Eaters kökenli Lheorvine Ukris; Emperor's Children kökenli Telemachon; eski Justaerin Falkus Kibre.
 - **Önemli Olaylar:** Black Legion'ın kuruluşu; Abaddon'ın yükselişi.
 
-## Tarihçe
+## İkinci Kuruluş
+Ezekarion — Black Legion'un kurucu konseyidir; Abaddon'un tahtının arkasındaki figürler: Khayon, Falkus Kibre, Telemachon Lyras, Amura, Vortigern ve diğerleri. 'Ezekarion'un yemini' Black Legion'un kuruluş mitidir — 'Horus'un hayalini değil, bizim savaşımızı' ilkesiyle kuruldu. Canon'da 'kaos lejyonunun organize oluşu'nun kanıtıdır.
 
-Ezekarion, Black Legion'un en üst konseyidir; Abaddon the Despoiler'in doğrudan komuta ettiği ve Legion'un en güçlü lordlarından oluşan savaş konseyidir — Chaos'un en organize ve en tehlikeli askeri yapısıdır. Ezekarion'un üyeleri, Black Legion'un en deneyimli lordlarıdır — her biri kendi warband'inin lideri ve Abaddon'un stratejik danışmanıdır; konsey, Black Crusade'lerin planlandığı ve Legion'un geleceğinin belirlendiği yerdir. Ezekarion'un varlığı, Black Legion'u diğer Chaos warband'lerinden ayırır — Chaos genelde dağınık ve iç savaşlıdır ama Ezekarion, Abaddon'un otoritesini zorlar ve Legion'u tek bir irade altında tutar; bu yüzden Black Legion, Chaos'un en disiplinli gücüdür. Ezekarion'un kararları, galaksinin kaderini belirler — 13. Kara Haçlı Seferi, Cadia'nın düşüşü ve Great Rift'in açılması hep Ezekarion'un planıydı.
-
-## Kanon Notu
-
-Anlatının
+## Kaynaklar
+-# Kaynaklar: *The Talon of Horus*, *Black Legion* — Aaron Dembski-Bowden; Lexicanum

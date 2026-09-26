@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/1e/TheLastChurchCover.jpg/revision/latest?cb=20171215153301
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # The Last Church (Kısa Öykü)
 

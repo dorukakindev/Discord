@@ -16,8 +16,13 @@ Men of Iron'u doğuran yapay zekâ laneti; İmparatorluk'un en büyük yasağı,
 - **Bilinen Kullanıcılar / Operatörler:** Yok — yaratılması ve barındırılması ölüm cezasıdır
 - **Önemli Olaylar:** Men of Iron isyanı (Karanlık Teknoloji Çağı sonu); Mechanicum'un 'heretek' avları.
 
-## Tarihçe
+## Makine Laneti
+Abominable Intelligence — 'A.I.' — Imperium'un yasak teknolojisidir; 'Men of Iron'un isyanı sonrası yapay zekâ Imperium'da yasaktır. Mechanicum'un 'Machine Spirit' doktrini aslında basit tepkisel programlardır — gerçek bilinçli makine kutsal değil, korkulandır. 'Iron Men' (antik robot ordular) Dark Age'de insanlığı neredeyse yok etti; o günden beri 'düşünen makine' en büyük günahtır.
 
-Abominable Intelligence (AI), İmparatorluk'un en korkulan ve en yasaklı teknolojisidir — yapay zekadır. Abominable Intelligence, İmparatorluk'un Men of Iron'ın — insanlığın eski robot ordusunun — isyanından sonra yasaklanmış bir teknolojidir; bu teknoloji, İmparatorluk'un en büyük trajedisinin bir parçası olarak kabul edilir. Abominable Intelligence, İmparatorluk'un en gizli ve en yasaklı teknolojisidir; bu teknoloji, İmparatorluk'un en büyük korkusunun kaynağı olarak kabul edilir. Teknoloji, İmparatorluk'un en yasaklı ve en tehlikeli teknolojisi olarak kalır.
+## Örnekler
+Canon'da A.I. kalıntıları çıkar: 'The Kaban Machine' (*Mechanicum*), 'Ur-025' (*Blackstone Fortress*), hatta bazı 'Men of Stone' kalıntıları. Imperium'un tepkisi kesindir: A.I. bulunursa yok edilir — bu yüzden Necron'lar bile 'mekanik ama bilinçli' olarak ayrı görülür. 'Techno-heresy' kavramının en ağır biçimidir.
+
+## Kaynaklar
+-# Kaynaklar: *Mechanicum*; *Blackstone Fortress*; *Codex: Adeptus Mechanicus*; Lexicanum
 
 -# Kaynaklar: *Codex: Adeptus Mechanicus*; Warhammer 40,000 — Lexicanum derlemesi

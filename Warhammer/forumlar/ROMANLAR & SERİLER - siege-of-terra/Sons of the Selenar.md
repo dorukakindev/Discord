@@ -14,6 +14,7 @@ Isstvan'dan kaçan Shattered Legions tayfası — Iron Hands, Salamanders ve Rav
 
 ## Tarihçe
 
-Graham McNeill'in Nisan 2020'de çıkan kısa romanı, seride The First Wall ile Saturnine arasına yerleşir; ana kuşatmadan bağımsız ama Astartes'in kökenine inen tek Siege of Terra novellasıdır.
+Sons of the Selenar, Horus Heresy serisinin üçüncü kitabıdır — Luna'nın savunmasını anlatan romandır. Kitap, Luna'nın savunmasını ve Selenar tarikatının rolünü anlatır; okuyucular, İmparatorluk'un en gizli tarihlerinden birini öğrenir. Sons of the Selenar, Horus Heresy serisinin en önemli ve en gizli kitaplarından biridir; bu roman, İmparatorluk tarihinin en gizli olaylarının anlatıldığı eserdir.
+
 
 -# Kaynaklar: Black Library, Warhammer 40k — Lexicanum

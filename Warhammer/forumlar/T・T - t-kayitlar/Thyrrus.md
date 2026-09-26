@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/06/Various_Xenos.jpg/revision/latest?cb=20120901182819
-
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 
 # Thyrrus

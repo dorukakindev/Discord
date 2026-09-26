@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852
+
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Storm of Iron
 
@@ -6,14 +8,10 @@ Iron Warriors'ın Hydra Cordatus'u kuşatması — 'kuşatma savaşı' türünü
 - **Yazar:** Graham McNeill
 - **Konum/Dönem:** Hydra Cordatus
 
-## İçerik
-Perturabo'nun Warsmith'lerinin lojistik-dehşet dengesi; genetik materyal çalmak için yapılan acımasız kuşatma.
+## Demir Fırtına
+Storm of Iron — Graham McNeill'in romanı; Iron Warriors'ın Hydra Cordatus kuşatması. Honsou'nun 'ilk' büyük operasyonu — 'demir çember' taktiğinin romanı. Warsmith'in 'eski lejyon' mantığının en net anlatısıdır — 'siege' kavramının edebi bedeni.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-Storm of Iron, Graham McNeill'in yazdığı ve İmparatorluk'un en büyük savaşlarından birini anlatan bir romandır. Bu roman, İmparatorluk'un en büyük savaşlarından birini anlatır; roman, İmparatorluk'un en büyük savaşlarının en önemli hikâyesidir. Bu roman, İmparatorluk'un en büyük savaşlarının en önemli hikâyesidir; roman, İmparatorluk'un en büyük savaşlarının en önemli parçasıdır. Roman, İmparatorluk'un en büyük savaşlarının en önemli hikâyesi olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *Storm of Iron* — Graham McNeill; Lexicanum
 
 -# Kaynaklar: Black Library

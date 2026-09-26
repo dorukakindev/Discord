@@ -10,11 +10,11 @@ Sisters of Silence (Sessizlik Rahibeleri, resmi adıyla Anathema Psykana), İmpa
 
 Tarikatın yapısı, ruhsuzluğun gerektirdiği ağır disipline dayanır; aday "Novice-Sister"lar, "Sessizlik Yemini"ni (Vow of Tranquility) ettikten sonra "Null Maiden" rütbesine yükselir. Çoğu sessizdir ya da işaret diliyle konuşur; etleşmiş ruhsuzlukları, onları sıradan insanlardan keskin biçimde ayırır ve yalnız bir varoluşa mahkum eder.
 
-## Arka Plan
-- Tip: Blank/Pariah kadın savaşçı örgütü — psi-boşluk taşıyan anti-psyker güç
-- Özellik: doğal olarak Warp'e bağlantısı olmayan bireyler; psi yeteneklerini iptal eder
-- Görev: Black Ships'in koruyucuları, psyker toplama ve imhası
+## Boşluk
+Sisters of Silence — 'Silent Sisterhood' — Imperium'un 'blank' (psişik-boş) kadın savaşçı örgütüdür; üyeleri Pariah genini taşır — Warp'e 'yokluk' olarak görünürler, psyker ve daemon'a karşı doğal antitezdirler. Null-rod ve Executioner Greatblade ile savaşırlar; daemon'a yaklaştıklarında Warp alanı 'çöker'.
 
-## Tarihçe
+## Tarih
+Sisters of Silence'ın kökeni İmparator'a kadar gider — Golden Throne'un korunması ve Black Ships'e eşlik etmeleri görevidir. Heresy'de Terra surlarında savaştılar; sonradan unutuldular ama Guilliman'ın dönüşüyle tekrar aktif oldular — Indomitus Crusade'de Custodes'le birlikte çalışırlar. 'Oblivion Knight' unvanları vardır.
 
-Sisters of Silence, İmparatorluk'un en gizli ve en ölümcül kadın savaşçı organizasyonudur — 'blank' olarak bilinen ve psyker güçlerini etkisiz hale getiren savaşçılardır. Sisters of Silence, psyker ve daemon'lara karşı savaşta uzmanlaşmış bir organizasyondur; organizasyonun üyeleri, psyker güçlerini tamamen etkisiz hale getirebilen nadir 'blank' geni taşırlar. Sisters of Silence, İmparatorluk'un en gizli ve en ölümcül kadın savaşçı organizasyonudur; organizasyon, İmparatorluk'un en önemli ve en gizli kurumlarından biridir.
+## Kaynaklar
+-# Kaynaklar: *The Master of Mankind*; *Watchers of the Throne* — Chris Wraight; *Codex: Adeptus Custodes*; Lexicanum

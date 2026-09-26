@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/00/HorusHeresyLegionesAstartesIsstvanCampaignLegionsCover.jpg/revision/latest?cb=20170206033741
+
 -# THE IMPERIAL ARCHIVE
 # Isstvan Campaign
 

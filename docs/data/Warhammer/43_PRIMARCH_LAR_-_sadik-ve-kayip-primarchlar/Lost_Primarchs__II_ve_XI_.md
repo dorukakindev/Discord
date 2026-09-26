@@ -3,20 +3,47 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Investiary_Imperial_P
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Lost Primarchs (II ve XI)
 
-Emperor'ın yirmi oğlundan ikisi, II ve XI Legion'ların Primarch'ları, Imperial belleğinde yalnızca birer eksiklik olarak yaşar. Kayıtlarda ne adları ne suretleri ne de bir mezarları vardır; arşiv onları ancak yokluklarının izinden tanır.
+*Kayıp Primarch'lar · Silinmiş İki Kardeş*
 
-- **Kategori:** Primarch — belirsizlik kaydı
-- **Fraksiyon:** Kaynaklarda açıklanmamıştır
-- **Dönem:** Great Crusade (silinme tarihi açıklanmamıştır)
-- **Köken:** Yayımlanmış kanonda açıklanmamıştır.
-- **Teknik / Biyolojik Özellikler:** Kaynaklarda açıklanmamıştır.
-- **Bilinen Kullanıcılar / Operatörler:** —
-- **Önemli Olaylar:** Kaynaklarda açıklanmamıştır.
+Emperor'un yirmi Primarch'ından ikisi, II ve XI numaralı Primarch'lar, bütün Imperium kayıtlarından silinmiştir. Adları, yüzleri, Legion'ları ve kaderleri bilinmez. Haklarında bilinen neredeyse tek kesin şey, ikisinin de Horus Heresy'den önce ortadan kaldırıldığı ve bu olayların o kadar karanlık olduğu ki, kardeşlerinin bile onları anmaktan kaçındığıdır. Games Workshop bu gizemi bilinçli olarak açık bırakır.
 
-## Tarihçe
+- **Kategori:** Primarch (kayıp / silinmiş)
+- **Fraksiyon:** Bilinmiyor — II ve XI Legion'ları
+- **Dönem:** Great Crusade (M30) — Heresy öncesinde kayboldu
+- **Köken:** Bilinmiyor
+- **Durum:** Bilinmiyor; kayıtlardan kasıtlı olarak silindi
 
-Lost Primarchs (II ve XI), İmparatorluk'un en gizli ve en kayıp primarch'larıdır — İmparator'un ikinci ve on birinci oğulları olarak bilinir ama kayıtları tamamen silinmiştir. Lost Primarchs'ın kimliği ve kaderi, İmparatorluk'un en gizli sırlarından biridir; bu primarch'lar, İmparatorluk tarihinin en büyük gizemlerinden biridir. Lost Primarchs, İmparatorluk'un en gizli ve en kayıp primarch'ları olarak kalır; onların hikâyesi, İmparatorluk'un en gizli ve en ölümcül sırlarından biridir.
+## Bilinen Gerçekler
+Yayımlanmış kanonda iki kayıp Primarch hakkında kesin olarak bilinenler çok sınırlıdır:
+- Her ikisi de yirmi Primarch'tan biri olarak Emperor tarafından yaratılmıştır.
+- İkisi de Heresy'den önce, Great Crusade döneminde, bilinmeyen sebeplerle ortadan kalkmıştır.
+- Adları, Legion'larının adları ve bütün eylemleri Imperium'un kayıtlarından silinmiştir.
+- Legion'larının savaşçılarının ya yok edildiği ya da başka Legion'lara dağıtıldığı kabul edilir.
+- Kardeşleri, bu olaylar hakkında konuşmamak için bir tür yemin ya da anlaşma yapmış gibidir.
 
-## Kanon Notu
+## Heresy Romanlarındaki İpuçları
+Horus Heresy romanları, iki kayıp Primarch hakkında dolaylı ama önemli ipuçları sunar:
+- Birçok Heresy romanında Primarch'lar ve kıdemli Space Marine'ler, kayıp kardeşlerden söz etmekten açıkça kaçınır; konu açıldığında sohbet kesilir. Bu sessizlik, olayın kardeşler arasında ortak bir sır olarak paylaşıldığını düşündürür.
+- **Dark Angels**'ın ve **Space Wolves**'un, silinmiş Legion'lardan birinin ya da ikisinin yok edilmesinde rol oynamış olabileceği ima edilir; Space Wolves'un "Emperor's Executioners" olarak anılması, bu ihtimali güçlendirir.
+- *Praetorian of Dorn*, silinmiş Legion'ların kayıtlarındaki boşluğun Alpha Legion tarafından bir kılık ve sızma aracı olarak kullanıldığını ima eder. Bazı hayran teorileri XI Legion'ın kalıntılarının başka Legion'lara dağıtıldığını ya da Alpha Legion'ın bu kimliği kılık olarak kullandığını öne sürer; bu yayımlanmış kanonda doğrulanmamıştır.
+- *The Master of Mankind* ve *Horus Heresy* kaynak kitapları, kayıp Primarch'ların varlığını ve Emperor'un "başarısızlık"larını dolaylı olarak anar.
 
-Kasıtlı belirsizlik. Bu Primarch'ları belirli bir ihanete, bir xenos savaşına ya da sonraki bir kuruma bağlayan yorumlar hayranlar arasında yaygındır; hiçbiri doğrulanmış değildir. Kanon durumu: doğrulanmamış teori. Legion'ların kaydı için <#15
+## Hayran Teorileri
+Kayıp Primarch'lar hakkında hayran topluluğunda birçok teori dolaşır:
+- **Chaos'a düşüş:** Primarch'ların Heresy'den çok önce Chaos'a düştüğü ve Emperor tarafından yok edildiği.
+- **Başarısız proje:** Primarch'ların genetik bir kusur ya da deformasyon nedeniyle Emperor tarafından reddedildiği.
+- **Xenos bağlantısı:** Primarch'ların bir xenos tehdidiyle — örneğin Necron'lar ya da Hrud gibi türlerle — ilişkilendirildiği.
+- **Bilinçli gizem:** Games Workshop'un bu boşluğu kasıtlı olarak doldurmamaya karar vermesi.
+
+Bu teorilerin hiçbiri resmî kanonda desteklenmemiştir.
+
+## Games Workshop'un Tutumu
+Games Workshop tasarımcıları yıllar içinde, Primarch II ve XI'in kimliklerinin açıklanmasının planlanmadığını dile getirmiştir. Bu yaklaşıma göre bu boşluklar, Warhammer 40,000 evreninin gizemini ve Imperium'un kendi tarihini bile karanlık bırakan doğasını yansıtan bilinçli bir tasarım tercihidir.
+
+## II ve XI Arasındaki Fark
+Kaynaklar iki kayıp Primarch'ı çoğu zaman birlikte anar, ama ikisinin aynı nedenle ya da aynı dönemde kaybolduğuna dair bir kanıt yoktur. Bazı hayran yorumları XI'in kaybolmasını daha geç bir tarihe, Great Crusade'in ortalarına yerleştirir; bazılarıysa XI Legion'ın bir Chaos felaketiyle, bazılarıysa bir iç isyanla ilişkili olduğunu düşünür. Bunların hiçbiri yayımlanmış kanonda doğrulanmamıştır.
+
+## Neden Önemli?
+İki Primarch'ın silinmesi, Imperium'un ne kadar büyük sırları saklayabildiğinin ve Emperor'un yarattıklarını ne ölçüde kontrol edebildiğinin bir göstergesidir. Aynı zamanda Heresy'de hain olan Primarch'ların nedenlerini tartışırken önemli bir bağlam oluşturur: Emperor'un oğullarından ikisi, Horus'un ihanetinden çok önce "başarısız" sayılarak ortadan kaldırılmıştı.
+
+-# Kaynaklar: *Horus Heresy Book 1: Betrayal*; *Praetorian of Dorn* — John French; *The Master of Mankind* — Aaron Dembski-Bowden; *Index Astartes*; Games Workshop tasarım ekibi açıklamaları; Lexicanum

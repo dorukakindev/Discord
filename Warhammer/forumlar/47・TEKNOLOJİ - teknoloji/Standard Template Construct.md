@@ -8,8 +8,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4e/Warhammer_40%2C000_Gr
 
 Standard Template Construct (STC, Standart Şablon Yapı), insanlığın Karanlık Teknoloji Çağı'ndan (Dark Age of Technology, M21-M23) kalma, kadim ve paha biçilmez bir bilgi sistemidir. Bir STC, bir kolonicinin ya da yeni bir uygarlığın ihtiyaç duyabileceği neredeyse her şeyin (bir lasgun'dan bir tarım aletine, bir barınaktan bir savaş aracına) eksiksiz üretim tarifini içeren analitik bir veri tabanıydı; tek başına yerel malzemelerden istenen her şeyi tasarlayıp imal edebilirdi. İnsanlığın yıldızlara yayılmasını mümkün kılan, devrim niteliğindeki bu teknoloji, o çağda her dünyaya götürülen bir tür taşınabilir uygarlık tohumuydu.
 
-## Tarihçe
+## Kutsal Şablon
+STC — 'Standard Template Construct' — Dark Age of Technology'den kalan, her şeyi üretebilen antik teknoloji şablonudur; Mechanicum'un 'kutsal kase'sidir. Tam bir STC bulunması Imperium için teknolojik devrim demektir — ama neredeyse yoktur. Çoğu 'kısmi STC' (bir parça, bir veri kırıntısı) bile Forge World'ün servetini değiştirir.
 
-Standard Template Construct (STC), Dark Age of Technology'de insanlığın kolonileşme döneminden kalma standart üretim şablonlarıdır; her biri bir makinenin, silahın veya yapının tam üretim planını içerir. STC'ler Age of Strife'da kayboldu ve modern İmparatorlukta tam bir STC bulmak, neredeyse dinî bir olay sayılır — birkaç satır eksik şablon bile Mechanicus için kutsal emanettir ve bulucusuna gezegenler devredilebilir. Rhino, Predator, Baneblade gibi sayısız Imperial araç ve lasgun'dan Titan'a kadar her şeyin kökeni STC şablonlarıdır; ancak on bin yıl içinde şablonlar bozuldu, karıştı veya kayboldu ve Mechanicus'un elinde kalanlar artık üretimden çok tapınak nesnesi olarak saklanır. STC avcılığı, Adeptus Mechanicus'un en kutsal görevidir — Explorator filoları sırf tek bir tam STC için galaksiyi tarar.
+## Neden Önemli
+STC arayışı Mechanicum'un temel motivasyonudur — yenilik 'yasak' olduğu için antik bilgiyi bulmak tek ilerleme yoludur. Canon'da STC'ler (örn. 'STC fragment for a new combat drug' veya 'a tractor') nadir bulunur ve her biri savaşa sebep olur. 'Men of Iron' dönemi sonrası teknoloji kaybının merkez sembolüdür.
+
+## Kaynaklar
+-# Kaynaklar: *Mechanicum* (HH); *Codex: Adeptus Mechanicus*; *Dark Heresy*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

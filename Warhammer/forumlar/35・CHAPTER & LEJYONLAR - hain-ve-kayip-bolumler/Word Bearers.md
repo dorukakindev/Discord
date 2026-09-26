@@ -1,31 +1,16 @@
 https://static.wikia.nocookie.net/warhammer40k/images/6/66/WordBearersArmourial.png/revision/latest?cb=20170813043044
 
-## Tarihçe
+## Köken: Colchis ve İbadet
+XVII Lejyon'un primarch'ı Lorgar Aurelian, Colchis'te Covenant rahipleri tarafından büyütüldü ve İmparator'a tapınmayı lejyona resmî inanç hâline getirdi. Great Crusade'in en yavaş ama en kapsamlı fatihleriydi: aldıkları her dünyayı sadece boyun eğdirmekle kalmaz, İmparator kültüne döndürür, devasa katedraller inşa ederlerdi. 'İmparator tanrıdır' inancı lejyonun öz kimliğiydi.
 
-Word Bearers, Horus Heresy sırasında İmparator'a ihanet eden dokuz İlk Kuruluş Space Marine lejyonundan biridir; Chaos Space Marine oldular ve bağlılıkları Daemon Primarch Lorgar'a ve Chaos Undivided'a yöneldi. Chaos'a dönen İLK lejyon olarak 'ilk hain' unvanını taşırlar — 'kelimenin yıkıcısı' olarak Heresy'nin fikir babaları.
+## Monarchia'nın Külleri
+İmparator bu inancı reddetti: din, onun laik 'Imperial Truth' projesinin tam zıttıydı. Monarchia şehrini — Lorgar'ın ona adadığı mükemmel şehri — Ultramarines'e yerle bir ettirdi ve Word Bearers'ın tüm lejyonunu diz çöktürdü. Bu alenî aşağılanma lejyonda iki şey doğurdu: İmparator'a duyulan öfke ve 'O bizi tanrı olarak istemiyorsa, bizi isteyen başka tanrılar vardır' sorusu. Kor Phaeron ve First Chaplain Erebus, Lorgar'ı Warp'ın gerçek tanrılarına yönlendirdi.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+## İlk İhanet
+Word Bearers, Heresy'nin mimarıdır — Horus'u çeviren de onlardı (Davin'in şifacıları, Lorgar'ın kehanetleri). Calth'ta Ultramarines'e sürpriz saldırı düzenleyip 'Shadow Crusade'i başlattılar; amaçları sadece yıkmak değil, Ruinstorm'u doğurup Warp'ı realspace'e açmaktı. Lorgar'ın ritüelleri galaksiyi ikiye bölen warp fırtınasını yarattı.
 
-# Word Bearers — Söz Taşıyanlar (XVII. Lejyon)
+## Bugün
+Heresy sonrası lejyon Sicarus'a (Sortiarius değil — Word Bearers'ın dünyası Sicarus/ daemon primarch'ın meditasyon yuvası) çekildi. Modern Word Bearers hâlâ teolojik olarak organize tek ihanet lejyonudur: Dark Apostle'lar vaaz verir, savaşçılar 'kelime' ile daemon bağlar. İmparator'a tapanlar artık İmparator'un en büyük düşmanını kutsar — lejyonun ironisi budur.
 
-Kaos dininin fanatik vaizleri; Heresy'nin asıl mimarı ve iblis çağırma ustaları.
-
-- **Kuruluş:** Lejyon (1. Kuruluş)
-- **Bağlılık:** Hain
-- **Primarch:** Lorgar
-- **Ana Dünya:** Sicarus
-- **Color:** Koyu kırmızı, kitap ve yıldız
-- **Tactics:** İblis çağırma, dini fanatizm, ritüel savaş; Dark Apostle önderliği.
-- **Kanon Sınıfı:** A — resmî kaynak
-
-## Kayıt
-
-Word Bearers, primarch'ları Lorgar'ın inanca ve tapınmaya duyduğu derin ihtiyacı taşır; doğaları gereği fanatik birer din adamıydılar. Lorgar, İmparator'u bir tanrı ilan eden ilk ve en hararetli Primarch'tı; lejyonu, fethedilen her dünyada İmparator'a devasa tapınaklar diken bir misyoner ordusuydu.
-
-Kırılma noktası, İmparator'un Lorgar'ın aşırı dindarlığından rahatsız olup kutsal şehri Monarchia'yı yerle bir ettirmesi ve onu tüm lejyonunun önünde diz çöktürüp aşağılamasıydı. İnanca muhtaç olan Lorgar, inancını yönlendirebileceği yeni tanrılar aramaya başladı ve onları Warp'ta buldu: Kaos Tanrıları.
-
-Word Bearers, Heresy'nin asıl mimarıdır; ihanet aslında Horus'la değil, Lorgar'ın ve baş havarisi Erebus'un yıllar önce gizlice ektiği tohumlarla başladı. Horus'u Davin'de Kaos'a yönlendiren entrikayı onlar kurdu. Savaş alanına dua, kanlı ritüeller ve çağırdıkları iblis sürüleriyle gelirler; her çatışmayı kara tanrılarına sunulan bir ayin olarak görürler.
-
-Word Bearers, en güçlü iblis çağırma ustalarıdır; Dark Apostle (Karanlık Havari) denen kara rahipler tarafından yönetilirler. Onlar, reddedilen bir inancın nasıl bir fanatizme ve ihanete dönüşebileceğinin örneğidir; tapınma ihtiyaçları o kadar derindi ki, bir tanrıyı (İmparator) kaybedince galaksiyi dört tanrı (Kaos) uğruna ateşe verdiler. Fanatizmin, dini fanatizmin ve "amacın her aracı kutsadığı" inancın en saf, en karanlık halidirler.
-
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kaynaklar
+-# Kaynaklar: *The First Heretic*, *Betrayer*, *Know No Fear* (HH); *Word Bearers* üçlemesi — Anthony Reynolds; *Dark Apostle* serisi; Lexicanum

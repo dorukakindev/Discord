@@ -8,14 +8,10 @@ Gaunt'un Hayaletleri serisinin ilk kitabı — Tanith'in düşüşü ve Gaunt'un
 - **Yazar:** Dan Abnett
 - **Konum/Dönem:** Fortis Binary / Menazoid Epsilon
 
-## İçerik
-Gaunt'un 'The Sabbat' seçilmesi, Vermilion Conspiracy ve Dercius'un ihaneti; Ghostların ilk büyük savaşı.
+## İlk ve Tek
+First and Only — Dan Abnett'in 'Gaunt's Ghosts' serisinin ilk romanı; Tanith First and Only'nin (Gaunt'ın Ghosts'ları) kuruluşu ve Fortis Binary savaşı. 'Ghost' lakabının kaynağı — Tanith'in 'yok edilmiş' dünyasının 'kalan' askerleri. Seri 15+ roman sürdü — Imperium'un 'asker hikâyesi'nin en uzunu.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-First and Only, Dan Abnett'in Gaunt's Ghosts serisinin ilk romanıdır — Gaunt'un Ghosts'unun hikâyesinin başlangıcıdır. Bu roman, Gaunt'un Ghosts'unun Sabbat Dünyaları Haçlı Seferi'ndeki hikâyesini anlatır; roman, Gaunt'un Ghosts'unun hikâyesinin başlangıcıdır. Bu roman, Gaunt'un Ghosts'unun hikâyesinin başlangıcıdır; roman, Gaunt'un Ghosts'unun en önemli hikâyesinin başlangıcıdır. Roman, Gaunt'un Ghosts'unun hikâyesinin başlangıcı olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *First and Only* — Dan Abnett; *Gaunt's Ghosts* serisi; Lexicanum
 
 -# Kaynaklar: Black Library

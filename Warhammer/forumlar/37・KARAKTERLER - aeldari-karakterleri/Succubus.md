@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9c/Succubi.jpg/revision/
 - **Köken:** Commorragh arena kültleri
 - **Önemli Olaylar:** Arena savaşları; kabal iktidar mücadelesi
 
-## Tarihçe
+## Arena Efendisi
+Succubus — Drukhari'nin 'Wych Cult' lideridir; arena'nın en üst gladyatörü. Lelith Hesperax en ünlüsüdür — bir Succubus sadece kendi bedeniyle yükselir, başka yol yoktur. Commorragh'ın 'hız ve kan' kültürünün canlı sembolüdür; Wyches'lerin efendisidir.
 
-Succubus, Drukhari'nin en tehlikeli ve en ölümcül figürlerinden biridir — Wych Cult'ların lideridir. Succubus'lar, Drukhari'nin en tehlikeli ve en ölümcül figürleridir; onların savaş yetenekleri ve liderliği, Drukhari'nin en önemli ve en ölümcül güçlerinin kaynağıdır. Succubus, Drukhari'nin en tehlikeli ve en ölümcül figürlerinden biridir; bu figürler, Drukhari'nin en önemli ve en ölümcül güçlerinin kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; *Path of the Dark Eldar*; Lexicanum
 
 -# Kaynaklar: *Drukhari Codex*

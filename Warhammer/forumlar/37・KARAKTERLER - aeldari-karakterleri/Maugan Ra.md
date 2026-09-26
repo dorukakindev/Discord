@@ -14,8 +14,13 @@ Dark Reaper'ların Phoenix Lord'u Maugan Ra, Khaine'in yok edici yönünü temsi
 - **Önemli Olaylar:** Dark Reaper Aspect'inin kuruluşu; Altansar'ın Eye of Terror'dan dönüşü.
 - **Kanon Notu:** Altansar'ın dönüşünün ayrıntıları ve Maugan Ra'nın bu süreçteki tam rolü kaynaklarda sınırlı biçimde işlenir.
 
-## Tarihçe
+## Hasatçı
+Maugan Ra — 'Harvester of Souls' — Dark Reaper Aspect'inin Phoenix Lord'u; uzun menzilli ölümün en eski ustası. 'Maugetar' silahı (shuriken-pulse hibrit) ile bilinir; ölümü 'toplanan ürün' olarak görür. Eldar'ın en karanlık Phoenix Lord'udur — kendi mitolojisinde bile 'ölümün tarlasını biçen' figür.
 
-Maugan Ra, Aeldari'nin en gizli ve en ölümcül Phoenix Lord'larından biridir — Dark Reapers Aspect Shrine'ın kurucusudur. Maugan Ra, Aeldari'nin en gizli ve en ölümcül figürlerinden biridir; onun keskin nişancılığı ve savaş yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Maugan Ra, Aeldari'nin en gizli ve en ölümcül Phoenix Lord'u olarak kalır — onun yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş geleneğinin simgesidir.
+## Tarz
+Maugan Ra canon'da 'uzaktan bitir' doktrininin Phoenix Lord'dur — Dark Reaper'ların 'her atış bir ölüm' ilkesi onun eseridir. Siyah zırh ve 'kafa toplama' sembolüyle Eldar'ın en kasvetli figürlerindendir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Asurmen* (yan); Lexicanum
 
 -# Kaynaklar: *Co

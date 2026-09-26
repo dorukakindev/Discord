@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Snikrot.jpg/revision/latest?cb=20110728055754
-
 -# THE IMPERIAL ARCHIVE
 # Boss Snikrot
 

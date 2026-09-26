@@ -7,13 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/48/Carcharodons_Livery.j
 
 Galaksinin kenarından gelip kaybolan, izole, acımasız ve gizemli savaşçı chapter.
 
-## Tarihçe
-Carcharodons (Carcharodon Astra, "Uzay Köpekbalıkları"), 40K'nın en izole ve en gizemli chapter'larından biridir; galaksinin ışıksız, haritalanmamış kenarında, sabit bir anavatan olmadan filolarda yaşarlar. Kökenlerinin Raven Guard (Corax) gen-tohumuna dayandığı sanılır ama bu kesin değildir.
+## Köpekbalıkları
+Carcharodons Astra — 'Space Sharks' — Imperium'un en karanlık Chapter'larından biridir; kökeni bilinmez (muhtemelen Raven Guard veya World Eaters soyundan), 'Silent Chapter' denir. Sessiz savaşır, kan banyosuyla öldürür ve kayıpları yoktur — 'Red Tithe' denen sistemle dünyalardan esir toplayıp onları Chapter'a köle yapar.
 
-Adları ve görünüşleri köpekbalığını andırır: gri-soluk tenli, soğuk gözlü ve acımasız avcılardır. Galaksinin uç bölgelerinde, derin uzayın karanlığında dolaşır; nadiren ortaya çıkar, bir tehdidi sessizce ve vahşice yok eder, sonra yine karanlığa geri kaybolurlar. Çoğu İmparatorluk vatandaşı onların varlığından bile habersizdir.
+## Tyberos
+Tyberos the Red Wake — Chapter Master'ı — canon'da en çok merak edilen figürlerden: iki devasa 'hunger' ve 'slake' silahıyla savaşır, zırhı Terminator'dir. Badab War'da Mantis Warriors'ı neredeyse yok ettiler; ama Carcharodons Imperium'a bağlılığıyla bilinir — sadece kendi yöntemleriyle. 'Bilinmeyen' Chapter mitolojisinin en güçlü örneğidir.
 
-Carcharodons — 'Köpekbalığı Astartes'leri' — uzayın en korkulan sadık bölümlerinden biridir: beyaz-gri derili, siyah gözlü, neredeyse sessiz savaşçılar. Chapter'ın kökeni bilinmez; kendilerini 'Uzak Yıldızların Evlatları' olarak anarlar ve kayıtlara göre belki de kayıp II. veya XI. lejyonların, hatta Eksik Primarchlar'ın çağrılmış soyu olabilirler.
-
-Badab Savaşı'nda ilk kez büyük ölçekte göründüler: Huron'un isyanını bastırmak için çağrıldıklarında, Red Corsairs ve Astral Claws'a karşı işledikleri savaş vahşetinin derecesi sadık safları bile ürküttü. Tyberos 'The Red Wake' komutasında, Carcharodons düşmana merhamet göstermez — Chapter'ın sessiz sürüleri savaş bölgesine indiğinde, geride sadece sessizlik kalır.
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 10; *Red Tithe* — Robbie MacNiven; *Outer Dark*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

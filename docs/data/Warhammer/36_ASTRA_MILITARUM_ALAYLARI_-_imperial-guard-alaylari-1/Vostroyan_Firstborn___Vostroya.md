@@ -14,9 +14,11 @@ Her ailenin ilk doğan çocuğunu Imperium'un ordularına veren, bu kadim kefare
 - **Önemli Olaylar:** Heresy'deki ret ve Firstborn kefareti; M41'deki seferler.
 - **Kanon Notu:** Kefareti kimin koyduğu kaynaklarda farklı vurgularla anlatılır; bu kayıtta yalnızca yükümlülüğün kendisi aktarılmıştır.
 
-## Tarihçe
+## İlk Doğanlar
+Vostroyan Firstborn — 'Firstborn' — Vostroya'nın 'en eski borç' alayıdır; her aile ilk oğlunu Imperium'a borç olarak verir ve bu borç 10.000 yıldır ödenir. 'Kalash' denen kaplama zırhları ve 'püsküllü' üniformalarıyla bilinirler — Vostroyan'ın kendisi 'onur ve borç' kültürüne sahip bir dünyadır.
 
-Vostroyan Firstborn, İmparatorluk Muhafızı'nın en eski ve en prestijli alaylarından biridir — Vostroya gezegeninin ilk doğan oğullarından oluşan birliklerdir. Vostroya, İmparatorluk'a olan borcunu ödemek için her aileden ilk doğan erkeği askere gönderir; bu gelenek, Horus Heresy sırasında Vostroya'nın İmparator'a olan sadakatsizliğinin kefaretidir. Vostroyan Firstborn, ağır piyade ve şehir savaşında efsanevidir; alaylar, İmparatorluk'un en disiplinli ve en bağlı birliklerinden biridir. Alaylar, İmparatorluk Muhafızı'nın en prestijli ve en sadık alaylarından biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Vostroyan* lore; Lexicanum
 
 -# Kaynaklar: *Rebel Winter — Steve Parker*; *Codex: Astra Militarum*
 

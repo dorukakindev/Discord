@@ -14,9 +14,14 @@ Imperium'dan kopmuş Space Marine'lerin toplandığı korsan krallığının hü
 - **Önemli Olaylar:** Badab War; Palace of Thorns; Red Corsairs'in kuruluşu.
 - **Kanon Notu:** Huron'un Chaos'a yönelişinin savaştan önce başlayıp başlamadığı kaynaklarda farklı değerlendirilir.
 
-## Tarihçe
+## Red Corsairs'ın Korsan Kralı
+Lufgt Huron — 'Huron Blackheart' — Badab War'ın 'Tyrant'ı ve Red Corsairs'ın lideridir; Astral Claws'un eski Chapter Master'ı. Imperium'un 'en tehlikeli iç düşmanı' olarak bilinir çünkü o hâlâ 'Space Marine' mantığıyla çalışır — kaynaklar, tedarik hatları, siyasi baskı. Chaos'a bağlıdır ama Chaos ona araçtır.
 
-Maelstrom'a karşı önerdiği büyük crusade'in Terra'da reddedilmesinden sonra Imperium'un bölgeyi yüzüstü bıraktığını ileri sürdü; kendini Tyrant of Badab ilan edip gene-seed tithe'ını reddetti ve Badab War'u başlattı. Loyalist Chapter'ların uzun seferi Palace of Thorns'un düşüşüyle sonuçlandı; ağır yaralanan Huron'u sadık savaşçıları kurtarıp Maelstrom'a kaçırdı. Bedeni bionik ve karanlık yöntemlerle onarılan Huron, Blackheart adıyla Red Corsairs'in başına geçti; Great Rift çağında Imperium'un dağınıklığı ona yeni fırsatlar sundu.
+## Yükseliş ve Düşüş
+Huron'un hikâyesi Badab'dır: Imperium'un Maelstrom'u savunma görevini üstlendi ama kaynak vermedi, Huron kendi yolunu açtı ve 'Tyrant' oldu. Ağır yaralandı (vücudunun yarısı sibernetik) ama hayatta kaldı ve Maelstrom'da korsan imparatorluğu kurdu. Canon'da 'Imperium'un yarattığı düşman'ın en net örneğidir.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Codex: Chaos Space Marines*; *Badab War*; Lexicanum
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War — Part One*; *Imperial Armour Volume Ten: The Badab War — Part Two*; *Codex: Chaos Space Marines*
 

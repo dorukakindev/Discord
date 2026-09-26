@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cb/Asurmen_Art.jpg/revis
 - **Köken:** Craftworld'ler
 - **Önemli Olaylar:** Tüm Asuryani seferleri
 
-## Tarihçe
+## Tapınak Ustası
+Exarch — Eldar'ın Aspect Shrine'ının 'sağ kolu'dur; bir Aspect'te 'kalmış' Warrior — 'Exarch' olan Eldar artık başka Path'e dönemez çünkü Shrine'a 'bağlanmıştır'. Phoenix Lord'un sağ kolu ve Shrine'ın öğretmenidir; Exarch zırhı 'giyilen ruh' olarak sayılır — içinde geçmiş Exarch'ların anıları yaşar.
 
-Exarch, Aeldari'nin en önemli ve en ölümcül figürlerinden biridir — Aspect Shrine'ların liderleridir. Exarch'lar, Aeldari'nin en önemli ve en ölümcül figürleridir; onların savaş yetenekleri ve liderliği, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır. Exarch, Aeldari'nin en önemli ve en ölümcül figürlerinden biridir; bu figürler, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Path of the Warrior*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

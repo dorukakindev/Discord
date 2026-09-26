@@ -10,8 +10,10 @@ Gene-seed (Gen-tohumu), sıradan bir insan adayını bir Space Marine'e (Adeptus
 
 Her chapter'ın gen-tohumu, nihai olarak kendi primarch'ından (ve dolayısıyla İmparator'dan) gelir; bu, chapter'ı primarch'ına bağlayan biyolojik bir soy bağıdır. Bir aday Space Marine'e dönüştürülürken, bu organlar (örneğin ikinci bir kalp, gelişmiş kaslar, zehir filtreleri ve daha onlarcası) ona implante edilir. Ölen bir Marine'in gen-tohumu (Progenoid bezleri) hasat edilir ve yeni Marine'ler yetiştirmek için kullanılır; bu yüzden bir savaşçının ölümü bile, chapter'ın geleceği için bir kaynaktır.
 
-## Tarihçe
+## Tohum
+Gene-seed — Space Marine'in 'genetik mirası'dır; Primarch'ın DNA'sından türetilen 'organ' setidir — onu taşıyan marine 'soy' taşır. 'Progenoid' bezlerinde yaşar ve Apothecary tarafından toplanır — bir Chapter'ın 'kanı' buradadır. 'Gene-seed' çürümesi Chapter'ın 'yok oluş'u demektir — Imperium'un en değerli maddesi budur.
 
-Gene-seed, bir Space Marine'in genetik malzemesidir; Chapter'ın geleceğini taşıyan ve yeni Space Marine'lerin üretimini sağlayan kutsal biyolojik emanettir — olmadan bir Chapter, sadece bir nesil yaşar. Gene-seed, primarch'ın genetik kodundan türetilmiştir ve her Space Marine'in bedeninde iki progenoid gland olarak bulunur — biri göğüste, diğeri boyunda; bu organlar, Space Marine'in genetik mirasını taşır ve öldüğünde Apothecary tarafından çıkarılır. Gene-seed'in saflığı Chapter'ın kimliğidir — Blood Angels'ın gene-seed'i Red Thirst taşır, Space Wolves'un ki Canis Helix; ve gene-seed'deki mutasyon veya bozulma, Chapter'ın sonu demektir. İmparatorluk için gene-seed, en değerli kaynaktır — onu korumak için Space Marine'ler ölür, onu çalmak için Chaos warband'leri savaşır; ve bir Chapter'ın gene-seed'i kaybolursa, o Chapter'ın adı tarihten silinir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Genefather*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom

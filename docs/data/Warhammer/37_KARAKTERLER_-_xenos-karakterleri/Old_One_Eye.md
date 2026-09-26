@@ -14,9 +14,14 @@ Old One Eye, Ultramar'ın kayıtlarında yıllarca avlanan dev bir Carnifex'tir.
 - **Önemli Olaylar:** Calth'taki saldırılar; Ultramarines'in tekrarlanan avları.
 - **Kanon Notu:** "Öldürülüp geri dönmesinin" her seferinde aynı organizma mı yoksa benzer bir yeniden üretim mi olduğu kaynaklarda kesinleştirilmez.
 
-## Tarihçe
+## İlk Yara
+Old One Eye — 'Eski Tek Göz' — Tyranid canon'unun ilk 'efsanevi organizmasıdır'; Hive Fleet Behemoth'un Battle of Macragge'de kalan bir Carnifex hücresi, tek gözü Imperium'un plasma silahıyla patlatılmış ama ölmemiş. Yüzyıllardır Calth'ın buzullarında yaşar, her uyanışında yeni bir katliam yapar; Imperium'un 'Tyranid canavar efsanesi'nin başlangıcıdır.
 
-Old One Eye, Hive Fleet Behemoth'un en efsanevi ve en ölümcül Carnifex'idir — tek gözlü devasa bir Tyranid biyomorfudur. Bu varlık, Macragge Savaşı sırasında Ultramarines'e karşı savaştı ve birçok Space Marine'in hayatına mal oldu; Old One Eye, Tyranid'lerin en efsanevi ve en ölümcül varlığıdır. Bu varlık, Hive Fleet Behemoth'un en ölümcül ve en efsanevi varlığıdır; Old One Eye, Tyranid'lerin en büyük ve en efsanevi varlığıdır. Varlık, Hive Fleet Behemoth'un en ölümcül ve en efsanevi varlığı olarak kalır.
+## Sembol
+Old One Eye canon'da Tyranid'in 'yenilmezlik' kavramının simgesidir — öldüremediğin şey geri gelir. Leviathan'ın gelişiyle onun da Leviathan'ın parçası olduğu ima edilir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; *Battle of Macragge* materyalleri; Lexicanum
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 

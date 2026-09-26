@@ -14,6 +14,11 @@ Marneus Calgar, Ultramarines'in Chapter Master'ı ve Macragge'ın Lord'udur — 
 
 Primaris cerrahisine gönüllü olarak ilk girenlerden biri olan Calgar, 'Rubicon' testini geçen ilk kıdemli Astartes'tir — bu, onun sadece savaşçı değil aynı zamanda değişimi kabul eden vizyoner olduğunu gösterir. Guilliman'ın dönüşüyle 'Lord Regent' rolüne geçen Calgar, İmparatorluk'un 'en güvenilir ikinci adamı' olarak sayılır: Codex'in yazarı olan babasının yanında, Ultramar'ın hem geçmişi hem geleceğidir.
 
-## Tarihçe
+## Ultramar'ın Efendisi
+Marneus Augustus Calgar, Ultramarines'ın Chapter Master'ı ve Macragge'nin Lordu; 2. Company'den yükselmiş, genç yaşta Tyros Kuşatması'nda gösterdiği komuta dehasıyla Chapter Master oldu. İmparatorluk'un en ünlü saha komutanı ve Guilliman'ın sadık oğlu; Ultramar'ın beş yüz dünyasını fiilen yöneten figür.
 
-Marneus Calgar, Ultramarines'in Chapter Master'ı ve İmparatorluğun en ünlü ve en saygın komutanıdır; Lord Macragge olarak bilinen ve Ultramar'ın en büyük savunmalarını yöneten Calgar, İmparatorluğun en efsanevi ve en onurlu lideridir — onlar, Ultramarines'in en ünlü ve en saygın l
+## Sicil
+Calgar'ın savaş sicili uzundur: Zalathras'ta Ork istilasını durdurması, Charadon'da purging, 2nd Tyrannic War ve 'Vigilus Defiant' kampanyaları. Primaris'e kendisi de dönüştü (ilk Chapter Master'lardan); bu adım Ultramar'ın yenilendiğinin simgesidir. 'Purity Seal'leri ve Victorix maskesiyle tanınır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Ultramarines*; *Marneus Calgar* — Kieron Gillen (Marvel çizgi serisi); *Vigilus* kampanya kitapları; Lexicanum

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b8/Imperium_Structure_%26_Organisation.png/revision/latest/scale-to-width-down/1000?cb=20160828083000
-
 -# THE IMPERIAL ARCHIVE
 # Adeptus Terra
 

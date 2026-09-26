@@ -13,10 +13,8 @@ Phoenix King olarak anılan Asuryan, uzak, nadiren eyleme geçen, yasa koyucu bi
 - **Bilinen Kullanıcılar / Operatörler:** Fall'dan önce Aeldari'nin bütün kolları; bugün Asuryani'nin anısında ve adında yaşar.
 - **Önemli Olaylar:** Ayrılık buyruğu; Isha ile Kurnous'un Khaine'e teslimi; Fall.
 
-## Tarihçe
+## Kral
+Asuryan — 'Phoenix King' — Eldar panteonunun baş tanrısıdır; Khaine'nin bile üstünde duran 'taht' figürü. Slaanesh'in doğuşunda ilk yutulan tanrılardandır — ama 'Asurmen' (onun el'inin adını taşıyan) Phoenix Lord'ların kurucusu olarak onun mirasını taşır. Eldar'ın 'kaybolmuş düzen'inin simgesidir.
 
-Asuryan, 'Phoenix King' — Aeldari panteonunun en yüce tanrısı ve tüm tanrıların babasıdır; Eldar mitolojisinde sembolü anka kuşu ve sonsuz ateşten alevdir. Cegorach'ın kahkasıyla bile ürkütmediği tek varlık olarak geçer; Isha'nın eşi ve tanrıların başıdır. Eldar Savaşın Efsanesi'nde (War in Heaven sonrası mit) Asuryan, Khaine ile Eldanesh'in ölümü arasındaki bedeli Kaela Mensha Khaine'e ödetir; sonrasında Asuryan tanrıları ile fanileri arasında 'perde'yi çeker. Fall of the Eldar sırasında Slaanesh'e karşı koyamaz — onun ölümü Eldar'ın modern kaderini mühürledi. Avatar of Khaine'ler Asuryan'ın oğullarının son emanetidir.
-
-## Kanon Notu
-
-Genel anlatıya göre Fall sırasında Slaanesh tarafından yutuldu ya da yok edildi; akıbeti kaynaklarda ayrıntılı ve tek bir kesinlikle anlatılmaz. Mitler kut
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Asurmen: Hand of Asuryan*; Lexicanum

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/8/81/Il%27Porrui_%28Emissary%29-class_Cruiser.png/revision/latest?cb=20200703211310
+
 -# THE IMPERIAL ARCHIVE · S Kayıtları
 # Sa Cea
 

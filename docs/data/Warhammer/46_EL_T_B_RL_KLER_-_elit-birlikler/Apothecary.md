@@ -12,6 +12,8 @@ Apothecary, Space Marine Chapter'ının 'cerrah ve genetik bekçisi'dir — sava
 
 Apothecary'nin savaş rolü kritiktir: Narthecium eldivenleri ve 'Reductor' aletiyle hem cerrah hem 'son dokunuş' verir — kurtarılamayan kardeşlere 'İmparator'un Huzuru'nu (ölümü) vermek de onun görevidir. Chapter kayıtlarında Apothecary, 'hem en şefkatli hem en gerekli' figürdür — bir Chapter'ın savaş gücünün ötesinde, onun 'var olabilme' güvencesidir.
 
-## Tarihçe
+## Şifacı
+Apothecary — Space Marine'ın 'cerrah'ıdır; Narthecium ile yaralıyı tedavi eder ama daha önemlisi 'gene-seed'i (ölenin tohumunu) toplar. 'Chapter'ın geleceği onun elindedir — bir Apothecary düşmanı öldürmez, kendi ölenini 'toparlar'. Bu onları 'en kutsal' sınıf yapar.
 
-Apothecary, Space Marine chapter'larının sağlık subayı ve 'genetik tohum koruyucusu' — düşen kardeşlerin Progenoid Glands'ını çıkaran ve chapter'ın genetik devamlılığını sağlayan figür. Narthecium el aletiyle hem cerrah hem de 'ölüm rahibi'dir; chapter'ın geleceği onun torbasındadır. Blood Angels'ın 'Sanguinary Priest'leri ve Iron Hands'in 'Iron Father'ları Apothecary'nin chapter-spesifik evrimidir; Red Thirst'ün kontrolü onları
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; Lexicanum

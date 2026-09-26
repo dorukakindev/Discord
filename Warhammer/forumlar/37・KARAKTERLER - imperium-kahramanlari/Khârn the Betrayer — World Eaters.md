@@ -14,8 +14,16 @@ Khorne'a adanmış, dost ve düşman ayırt etmeden kan döken bir savaşçı. H
 - **Önemli Olaylar:** Horus Heresy; Skalathrax.
 - **Kanon Notu:** Skalathrax, Angron'un değil Legion'ın ve Khârn'ın tarihidir; Primarch'ın olayı yönlendirdiğine dair yerleşik bir anlatım yoktur.
 
-## Tarihçe
+## 'İyi Adam' Khârn
+Khârn, World Eaters'ın eski Eighth Assault Company kaptanı; lejyonun en tutarlı, en 'insanî' figürüydü — Angron'a yakın olmayı başarabilen tek kişi, Butcher's Nails'i ilk gönüllü takan kaptan, savaş öncesi subaylarına ahlak dersi veren adam. 'İyi Khârn' lakabı ironiktir: Imperium'un en çok öldüren bireylerinden biridir.
 
-Great Crusade ve Heresy boyunca Angron'un yanında savaştı; Primarch'ının öfkesini anlamaya çalışması Aaron Dembski-Bowden'ın *Betrayer*'ında işlenir. Heresy sonrası Skalathrax'ta World Eaters ile Emperor's Children arasındaki çatışmada, soğuk yüzünden barınaklara çekilen kardeşlerini savaştan kaçmakla suçlayarak barınakları ateşe verdi ve iki tarafa da saldırdı. Bu olay World Eaters'ın düzenli bir Legion olarak dağılmasının simgesi ve Betrayer lakabının kaynağı oldu. O günden beri farklı warband'lerin saflarında görülür.
+## Skalathrax
+Heresy sonrası World Eaters Eye of Terror'da Emperor's Children'la Skalathrax'ta karşılaştı. Gece donunda lejyon sığınaklara çekildiğinde Khârn flamer'la 'etrafı ısıttı' — kendi kardeşlerini de yaktı. Bu tek gece World Eaters'ı birleşik lejyon olarak bitirdi ve Khârn 'the Betrayer' unvanını aldı — ihaneti düşmana değil, kendi lejyonunaydı.
+
+## Sayı
+Khârn'ın kişisel kill-count'u Imperium kayıtlarında bir milyonu geçer; tek tek sayar, çünkü Khorne'un şerefine. Modern canon'da Chaos'un en tehlikeli 'tek adam' savaş güçlerinden biridir; gorechild zincir baltası ve Plazma Tabancası taşır. 'Khârn is a pretty swell guy' — Imperium'daki kara mizah onunla ilgilidir: iyi huylu ama herkesi öldüren.
+
+## Kaynaklar
+-# Kaynaklar: *Betrayer* — Aaron Dembski-Bowden (Khârn'ın 'insanî' versiyonu); *Khârn: Eater of Worlds* — Anthony Reynolds; *Codex: World Eaters*; Lexicanum
 
 -# Kaynaklar: *Betrayer — Aaron Dembski-Bowden*; *Khârn: Eater of Worlds — Anthony Reynolds*; *Codex: World Eaters*

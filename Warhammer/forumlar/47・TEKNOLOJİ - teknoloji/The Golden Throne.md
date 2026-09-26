@@ -12,6 +12,11 @@ Altın Taht, İmparator'un yarı-ölü bedenini yaşatan ve Astronomican'ı besl
 
 Altın Taht'un sırrı, 'çalışma şeklinin' bilinmemesidir: Mechanicum onu tamir edemez, sadece 'ibadetle' besler ve 'binlerce psikerin günlük tüketimi' (soul sacrifice) Taht'ın çalışmasını sağlar. İmparatorluk'un en kutsal ve en korkulan nesnesi olan Taht, 'insanlığın tanrısının makinesi'dir — onun 'tamir edilemez' olduğu bilgisi, İmparatorluk'un en derin korkusudur: bir gün duracağı ve kimsenin onu yeniden başlatamayacağı gerçeği.
 
-## Tarihçe
+## Yaşam Makinesi
+Golden Throne, İmparator'un bedenini tutan devasa psişik-mekanik düzenektir; Terra'nın merkezindeki sarayın kalbidir. Her gün binlerce psyker Throne'a 'beslenir' — ruhları İmparator'un bedenini bir an daha canlı tutar. Throne'un kendisi antik teknoloji ve Chaos'un yok edemediği tek 'insan-makine' melezidir; arızalanırsa İmparator ölür ve Imperium'un Warp seyahati (Astronomicon) durur.
 
-Altın Taht, Terra'nın derinliklerinde, İmparatorluk Sarayı'nın kalbinde duran devasa bir psionik-teknolojik düzenektir; hem İmparator'un yaşayan bedenini ölümün eşiğinde tutan yaşam destek ünitesi hem de Astronomicon'un odak noktasıdır. Kökeni İhtilaf Çağı'na dayanan bu makine, Horus Heresy'nin sonunda Terra Kuşatması'nda ağır yaralanan İmparator'un Sanguinius ve Rogal Dorn tarafından içine yerleştirilmesiyle
+## Çürüme
+Canon'da Throne'un 'kırıldığı' bilinir — Mechanicum'un çabaları onu tamir etmekten çok 'çürümeyi yavaşlatmaya' çalışır. *Vaults of Terra* ve *The Carrion Throne* Throne'un içinde neler olduğunu ima eder: İmparator'un bilinci bölünmüş, Warp'te parçalanmış bir varlık. Throne hem İmparator'un sandığı hem mezarıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Vaults of Terra* serisi — Chris Wraight; *The Carrion Throne*; *The Master of Mankind*; Lexicanum

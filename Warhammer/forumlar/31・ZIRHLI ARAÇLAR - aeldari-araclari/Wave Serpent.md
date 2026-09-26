@@ -13,13 +13,11 @@ Aspect Warrior'ları ve Guardian takımlarını savaşın kalbine hızla taşıy
 - **Önemli Olaylar:** Kaynaklarda tek bir Wave Serpent'e bağlanmış öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Yılan Nakliyesi
+Wave Serpent — Eldar'ın ana personel taşıyıcısıdır; grav-teknolojisiyle uçar ve 'energy field' ile korunur (düşman atışlarını saptırır). Aspect Warrior'ları savaşa taşır ve kendi silahlarıyla destekler — Eldar'ın 'hız' doktrininin bedenidir. Falcon'a benzer ama daha defansif odaklıdır.
 
-Wave Serpent, Aeldari'nin en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir — Aeldari birliklerini taşıyan ve koruyan bir araçtır. Wave Serpent, Aeldari'nin en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül lojistik güçlerinden biridir. Wave Serpent, Aeldari'nin en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül lojistik güçlerinden biridir.
-
-## Teknik / Biyolojik Özellikler
-
-Wraithbone iskelet, antigrav tahrik, taret silahı ve serpent shield. Kalkan savunmanın yanında, enerjisi boşaltılarak kısa süreli bir silah olarak da kullanılabilir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; Lexicanum
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 

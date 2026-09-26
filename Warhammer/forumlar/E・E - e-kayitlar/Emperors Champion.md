@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e0/15._Emperor%27s_Champion_1.jpg/revision/latest?cb=20110921044414
-
 -# THE IMPERIAL ARCHIVE
 # Emperors Champion
 

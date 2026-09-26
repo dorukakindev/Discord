@@ -7,9 +7,16 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/re
 
 Yasak genetik deneylerin ustası; insan ve Astartes geni üzerinde tanrıcılık oynayan çılgın bilim insanı.
 
-## Tarihçe
-Fabius Bile, Heresy çağından kalma, et ve genetik üzerinde tanrıcılık oynayan dahi ve sapkın bir cerrahtır; bir zamanlar Emperor's Children lejyonunun Chief Apothecary'siydi. Belki de galaksinin en yetenekli ve en tehlikeli biyo-bilimcisidir.
+## Apothecary'nin Kefiresi
+Fabius — 'Bile' lakabı kendisi tarafından benimsenmiştir — Emperor's Children'ın baş Apothecary'si; III. Lejyon'un 'kusursuzluk' takıntısını genetik mühendisliğe çeviren adam. Heresy sırasında Fulgrim'e bağlı lejyonun gen-dokusunu bozmakla uğraştı: ilk Noise Marine'leri yaratan da odur. İhanetten sonra bağımsız oldu — hiçbir Chaos tanrısına tapmaz, sadece bilim'e tapar.
 
-Fabius'un takıntısı, "kusursuz yeni insanı" (Homo Novus, New Men) yaratmaktır; ona göre hem insanlık hem Astartes kusurludur ve o, eti ve geni yeniden tasarlayarak üstün bir tür yaratabilir. Bu uğurda sayısız korkunç deney yaptı: canavarlaşmış mahluklar, geliştirilmiş savaşçılar, genetik kimeralar. Kendi ölümünü, bedenini sürekli klonlayıp bilincini yenisine aktararak (ya da öyle göründüğü için) defalarca aldattı.
+## Primogenitor
+Bile'ın uzun vadeli projesi 'New Men' — Space Marine'leri aşacak yeni bir insan türü; onun gözünde Astartes bile ara ürün, onun hedefi İmparator'un Primarch çalışmasını aşmak. Klonlar, hibritler, 'Gland Hounds' denen genetik avcılar yaratır. İmparator'un Horus'unu klonlama girişimleri (*Horus' bedenini çalıp klonladığı* için Ezekarion'un düşmanıdır) ve Blackstone Fortress'leri kullanması onu Chaos'un içinde bile izole eder.
+
+## Spider ve Gla'gor
+Bile'ın 'Spider' adlı zırhlı kişisel aracı ve Arachnoid denen mutant savaşçıları, onun bağımsız 'Bile warband'inin çekirdeğidir. *Fabius Bile* serisi onu trajik figür olarak resmeder: ölen bedenleri klonlarına aktaran, kendi ölümsüzlüğünü klon zincirinde yaşayan, giderek kendi yaratımlarının hedefi hâline gelen bir adam.
+
+## Kaynaklar
+-# Kaynaklar: *Fulgrim*, *Angel Exterminatus* (HH); *Fabius Bile* serisi — Josh Reynolds (*Primogenitor*, *Clonelord*, *Manflayer*); *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,17 +12,11 @@ Blood Angels ve halef chapter'larının anavatanı; radyasyonla kavrulmuş, iki 
 - **System:** Baal Sistemi (iki ay: Prime ve Secundus)
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## Kanın Dünyası
+Baal — ve uyduları Baal Primus ile Baal Secundus — Blood Angels'ın ana sistemidir; radyasyonlu çöl dünyaları, burada yaşayan kabileler (Blood) Chapter'a aday sağlar. Baal'ın kızıl kumları ve Sanguinius'un mitolojisi Chapter'ın kimliğini oluşturur — 'muhteşem melek' ile 'hastalıklı kan' ikilisi buradan gelir.
 
-Baal, Blood Angels ve onların halef chapter'larının anavatanıdır; çok eski bir nükleer felaketle radyasyona boğulmuş, kavrulmuş bir ölüm dünyasıdır. Asıl gezegen Baal ve iki ayı (Baal Prime ve Baal Secundus), hepsi yaşam için ölümcül, çorak ve zehirli ortamlardır.
+## Devastation
+999.M41'de Leviathan'ın gelmesi Baal'ı neredeyse bitirdi — *The Devastation of Baal* romanı bu savaşın destanıdır: Dante'nin tüm successor chapter'ları toplaması, son siperler, Guilliman'ın son dakika kurtarması. Baal'ın yıkımının eşiğinde olması Chapter'ın 'ölümle savaşan' ruhunu perçinledi.
 
-Bu acımasız dünyada, radyasyona dirençli sert mutant kabileler hayatta kalır; Blood Angels, en güçlü ve en dayanıklı adaylarını bu kabileler arasından devşirir. Ölüm dünyasının zorlukları, chapter'a gelecek savaşçıların daha test edilmeden önce çelikleşmesini sağlar.
-
-Baal'ın en büyük sınavı, 41. milenyumun sonunda geldi: Hive Fleet Leviathan (devasa bir Tyranid sürüsü), doğrudan Blood Angels'ın anavatanına saldırdı. "Devastation of Baal" (Baal'ın Yıkımı) denen bu kuşatma, Blood Angels'ı ve toplanan tüm halef chapter'ları neredeyse tümüyle yok etmenin eşiğine getirdi; chapter, Commander Dante önderliğinde umutsuzca savundu ve ancak son anda gelen yardımla kurtuldu.
-
-Baal, Blood Angels'ın hem fiziksel hem ruhsal kimliğini şekillendirir; ölüm dünyasının acımasızlığı, chapter'ın taşıdığı lanetlerin (Kan Susuzluğu, Kara Öfke) kasvetli arka planını oluşturur. O, en güzel ve en soylu chapter'ın, en çorak ve en ölümcül bir dünyadan doğmasının paradoksunu temsil eder; ölümün kucağında doğan bir asalet.
-
-
-## Tarihçe
-
-Baal, Baal Sistemi'ndeki Blood Angels'ın nominal homeworld'üdür; kendisi kuru, tozlu bir Desert World'dür — mutantlar ve vahşi hayvanlar dışında pek yerleşik değildir. İki uydusu Baal Prime ve Baal Secundus önemli insan yerleşimle
+## Kaynaklar
+-# Kaynaklar: *The Devastation of Baal* — Guy Haley; *Codex: Blood Angels*; *Dante*; Lexicanum

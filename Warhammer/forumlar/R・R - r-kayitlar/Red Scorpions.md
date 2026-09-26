@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a4/Anstrom_Incident_Camouflage_Variant.jpg/revision/latest?cb=20210929184853
-
 -# THE IMPERIAL ARCHIVE · R Kayıtları
 # Red Scorpions
 

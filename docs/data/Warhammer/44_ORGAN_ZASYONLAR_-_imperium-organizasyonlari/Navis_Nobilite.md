@@ -10,6 +10,11 @@ Navis Nobilite (Navigator Hanedanları), İmparatorluğun en ayrıcalıklı ama 
 
 Navigator'ları benzersiz kılan, üçüncü gözleriyle Immaterium'un (Warp'ın) kaosunu güvenle "görebilmeleridir"; sıradan bir insan Warp'a baktığında delirir ya da ölür, ama bir Navigator orada bir yol, bir akıntı, bir geçit görebilir. Onlar olmadan hiçbir İmparatorluk gemisi tehlikeli Warp'ta güvenle yol alamaz; bir Navigator, gemiyi İmparator'un psişik feneri Astronomican'ın ışığını bir deniz feneri gibi takip ederek yıldızdan yıldıza taşır.
 
-## Tarihçe
+## Görücüler
+Navis Nobilite — 'Navigator'lar — Imperium'un Warp'te yol gösteren mutasyonlu insan ırkıdır; 'Navigator gene' taşıyanlar üçüncü gözle Warp'i 'görür' ve gemileri yönlendirir. Navigators olmadan uzun mesafe Warp yolculuğu imkânsızdır — onlar Imperium'un 'açık deniz kaptanı'dır.
 
-Navis Nobilite, İmparatorluğun Navigator hanedanlarının oluşturduğu soylu kastdır; Warp'ta seyahat edebilen tek insan soyu oldukları için İmparatorluğun en güçlü ve en kapalı kurumlarından biridir — onlar olmadan İmparatorluk felç olur. Navis Nobilite'in kökeni Dark Age of Technology'ye dayanır — Navigator geni laboratuvarda üretildi ve binlerce yıl boyunca hanedanlar arasında titizlikle korundu; bugün Navis Nobilite, kendi kanunlarına, kendi mahkemelerine ve kendi ordusuna sahip neredeyse bağımsız bir devlettir. Navis Nobilite'in başında Paternova vardır — Navigator hanedanlarının en güçlüsü ve İmparatorluğun en güçlü figürlerinden biri; Paternova'nın emri, bir Navigator hanedanının kaderini belirler ve Paternova'nın ölümü, hanedanlar arasında kanlı bir güç mücadelesine yol açar. Navis Nobilite'in gücü mutlaktır — onlar İmparatorluğun kapısını tutar ve o kapıyı kapatsalar, İmparatorl
+## Hanedanlar
+Navigator hanedanları Imperium'un en eski ve en zengin aileleridir — 'Paternova' (en eski Navigator) hepsinin atasdır. Navigator'lar Imperium'un 'vazgeçilmez mutant' paradoksudur: mutantlıkları olmadan Imperium çalışmaz, ama mutant oldukları için de dışlanırlar. Her hanedanın kendi mitolojisi ve politik çekişmesi vardır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperium*; *Rogue Trader* (Navigator mekaniği); *Wolf Time* vb.; Lexicanum

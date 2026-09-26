@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/13/Wolf_King_coverart.jpeg/revision/latest?cb=20160910173719
+
 -# THE IMPERIAL ARCHIVE · T Kayıtları
 # Trisolian
 

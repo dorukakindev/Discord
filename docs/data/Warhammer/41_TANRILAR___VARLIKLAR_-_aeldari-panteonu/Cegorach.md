@@ -10,8 +10,10 @@ Cegorach, Aeldari panteonunun soytarı-tanrısıdır; "Gülen Tanrı" ya da "Bü
 
 Khaine ile birlikte, Düşüş felaketinden sağ çıkan yalnızca iki Aeldari tanrısından biridir. Cegorach bunu kaba güçle değil, kurnazlığıyla başardı: Slaanesh'i kahkaha, hile ve sonsuz bir kovalamacayla atlattı ve ondan kaçtı. O günden beri Karanlık Prens ile aralarında ölümcül, asla bitmeyen bir oyun (bir kovalamaca) sürer; bu, Aeldari'nin hayatta kalma umudunun mitsel simgesidir.
 
-## Tarihçe
+## Gülen Tanrı
+Cegorach — 'Laughing God' — Eldar panteonunda Slaanesh'in doğuşundan tek sağ çıkan tanrıdır; Harlequin'lerin koruyucusu ve 'gizli komiklik'in tanrısı. Webway'de saklanır ve kendi 'şaka' planlarıyla Chaos'u alt eder — 'büyük aldatma' onun sanatıdır. Harlequin kültürü onun ibadetidir: performans, dans ve ölüm bir arada.
 
-Cegorach, 'Laughing God' — Aeldari panteonunun tek 'tamamen hayatta kalan' tanrısı; Slaanesh'in doğumunda diğer tüm tanrılar yutulurken Cegorach kahkası ve kurnazlığıyla kaçtı. Webway'in gizli köşelerinde yaşar; Harlequins onun seçilmiş halkıdır ve 'Black Library' Cegorach'ın evi sayılır. Slaanesh'in ruh hırsızlığına karşı Eldar'ın tek güvencesi Cegorach'ın oyunudur — Harlequin maske-dansı, kozmik bir tiyatro ve direniş biçimidir. 'Son perde'de bile Slaanesh'i kandırma planı olduğu söylenir; Eldar mitolojisinin en gizemli ve en 'gerçek' varlığıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Harlequins*; *Codex: Craftworlds*; *Path of the Eldar*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

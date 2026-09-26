@@ -14,6 +14,11 @@ Warmaster Slaydo'nun başlattığı, çok cepheli ve on yıllarca süren bir Imp
 - **Önemli Olaylar:** Balhaut; Tanith'in düşüşü; Verghast; Hagia'daki kutsal emanetlerin tahliyesi.
 - **Kanon Notu:** Tarih ve cephe sıralaması büyük ölçüde roman serisinden gelir; Codex'lerde sefer yalnızca kısa değinilerle yer alır.
 
-## Tarihçe
+## Azize Uğruna
+Sabbat Worlds Crusade (755-791.M41), Imperium'un en büyük planlı galaktik geri alma operasyonlarından biridir; Warmaster Slaydo, sonra Macaroth komutasında Sabbat Worlds bölgesini Chaos'tan kurtarmak için yaklaşık 40 yıl sürdü. Saint Sabbat'ın düşen dünyalarını geri almak için milyonlarca asker, yüzlerce chapter ve Titan legionu katıldı.
 
-Sabbat Worlds Crusade, İmparatorluğun en büyük ve en onurlu seferidir; Saint Sabbat'ın — Sabbat Worlds'ün koruyucu azizesi — şerefine başlatılan ve İmparatorluğun en büyük fetih hareketini oluşturan en büyük savaştır — onlar, İmparatorluğun en büyük zaferinin ve en büyük onurunun somut halidir. Sabbat Worlds Crusade'in en büyük özelliği, onun boyutudur — onlar, İmparatorluğun en büyük fetih hareketidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Sabbat Worlds Crusade, bir imparatorluğun en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Sabbat Worlds Crusade'in en ünlü özelliği, onun Gaunt's Ghosts'udur — onlar, Sabbat Worlds'ün en ünlü alayıdır ve onların var
+## Ghosts'un Savaşı
+Gaunt's Ghosts serisi bu savaşın sahadaki anlatımıdır — Verghast, Menazoid Epsilon, Herodor, Khan III. Sabbat Worlds Imperium'un 'klasik savaş' kavramının son büyük örneğidir: Chaos'a karşı açık cephe hattı, klasik ordu, 'temiz' zafer şansı. Macaroth'un başarısı Imperium'a 'organize sefer kazanabilir' inancını geri verdi.
+
+## Kaynaklar
+-# Kaynaklar: *Gaunt's Ghosts* serisi — Dan Abnett; *Sabbat Worlds* antolojisi; Lexicanum

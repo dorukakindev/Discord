@@ -14,6 +14,11 @@ War of the Beast'ın Ullanor ayağı, İmparatorluk tarihinin en büyük 'ganime
 
 Ullanor'un fethi, Beast'in güç merkezini kırdı ama savaşın asıl mirası başka: İmparatorluk, Ork'un 'yok edilemez' olduğunu ve her Ullanor'un ardından yeni Beast'lerin doğacağını öğrendi. Ullanor'un adı, daha sonra Abaddon'un 'Kara Haçlı Seferleri'nin de üs olarak kullandığı bilinir — İmparatorluk'un kazandığı en büyük zaferlerin bile geçici olduğunun kanıtıdır.
 
-## Tarihçe
+## İmparatorluk'un İkinci Ölümü
+War of the Beast (544-546.M32), Heresy'den sadece 1.500 yıl sonra Imperium'un neredeyse tekrar çöktüğü Ork istilasıdır; 'The Beast' denen Ork warlord, galaksinin en büyük WAAAGH!'ını topladı. Ork'ların attack moon'ları (gezegen boyutunda saldırı platformları) Terra'nın üzerine çıktı; High Lords of Terra panikledi ve Imperium'un en iyi komutanları birer birer düştü.
 
-War of the Beast, Imperialis'in Ullanor'da yaşadığı en tehlikeli Ork saldırısıydı — bu, Ullanor'un Imperialis'in en büyük zaferinin yaşandığı yer olmasıyla daha da trajik hale geliyordu. 'The Beast' adlı Ork Warboss, Imperialis'in daha önce gördüğü en güçlü Ork lideriydi ve ordusu, Imperialis'in birçok gezegenini ele geçirdi. War of the Beast sırasında Or
+## Ullanor ve Son
+Beast'in merkezi Ullanor'du — İmparator'un eski zafer dünyası. Maximus Thane (Imperial Fists) son direnişi örgütledi; 'Last Wall' protokolü son Imperial Fists soyunu topladı. Beast üç kez öldürülmeye çalışıldı, iki kez başarısız olundu; sonunda Drakan Vangorich'in Grand Master'ı ve Vulkan'ın geri dönüşüyle kırıldı. Savaş sonunda Imperium'un Ork tehdidini 'bir daha asla hafife almama' doktrini doğdu.
+
+## Kaynaklar
+-# Kaynaklar: *The Beast Arises* serisi (12 roman — Abnett, Wraight, French, Annandale); Lexicanum

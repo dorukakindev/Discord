@@ -8,14 +8,10 @@ Word Bearers 34. Bölük komutanı Sor Talgron'un şüpheyle çürüyen sadakati
 - **Yazar:** Anthony Reynolds
 - **Konum/Dönem:** Percepton Primus, Shadow Crusade dönemi
 
-## İçerik
-İmparatorluk Sarayı'nda primarch'larla aynı salonlarda durmuş yaşlı bir Word Bearer'ın, Guilliman'ın taşradaki dünyalarını cezalandırma emrine duyduğu soğuma; Talgron görevini yerine getirirken 'inancın bedeli'ni sorgular. Numaralı antolojilere girmeyen bağımsız novella — lejyonun savaşı 'şan' değil 'inanç' olarak gören yüzünün en keskin portresi.
+## Virüs Ordusu
+The Purge — 'Purge' — Chaos'un 'Nurgle'a bağlı' bağımsız warband'ıdır; 'temizleme' (purge) doktriniyle tanınır — kendi korkunç yöntemleriyle 'Evreni temizleme' peşindedir. Kuraltank'ları ve veba bombaları kullanır; kendi üyelerini bile 'temizlemek' ister — 'her şey çürümeli' mantığıyla çalışır. Genestealer kültlerine bile bulaşan 'evrensel temizlik' vizyonudur.
 
--# Seri: Horus Heresy (Black Library, 2013)
--# İlişkili: `word-bearers`, `sor-talgron`, `shadow-crusade`, `ultramar`, `novella`
-
-## Tarihçe
-
-2013'te sınırlı-baskı novella olarak çıktı; Black Library'nin Heresy 'premium novella' hattının Word Bearers halkası. Talgron figürü, lejyonun eski-kuşak karakter tiplemesinin örneği sayılır; sonradan ses ve derleme baskılarıyla dolaşımda kaldı.
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: Black Library; wh40k.lexicanum.com

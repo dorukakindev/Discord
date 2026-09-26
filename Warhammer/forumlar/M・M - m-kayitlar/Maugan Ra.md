@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/7e/Maugan_Ra.jpg/revision/latest?cb=20110822184605
-
 -# THE IMPERIAL ARCHIVE
 # Maugan Ra
 

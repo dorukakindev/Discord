@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d1/Blood_Angels_Livery.jpg/revision/latest?cb=20220207032425
-
 -# THE IMPERIAL ARCHIVE
 # Blood Angels
 

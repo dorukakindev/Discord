@@ -14,6 +14,8 @@ Power armour'ın ötesinde, bir savaşçıyı yürüyen bir kaleye çeviren iri 
 - **Önemli Olaylar:** Space hulk çıkarmaları; Horus Heresy'nin gemi çatışmaları.
 - **Kanon Notu:** Crux Terminatus'taki parçanın gerçekliği evren-içi bir inanç olarak aktarılır.
 
-## Tarihçe
+## Çelik Deri
+Terminator Armour — 'Tactical Dreadnought Armour' — Space Marine'in en ağır kişisel zırhıdır; Heresy döneminden kalan antik teknoloji, neredeyse bir Dreadnought kadar korumalıdır. 'Terminator' unvanını taşıyan Veteran'lar ancak bu zırhı giyer — Chapter'ın 'değerli' savaşçısıdır. Teleport Homer'la ışınlanma yeteneği onun stratejik avantajıdır.
 
-Terminator Armour, resmi adıyla Tactical Dreadnought Armour, Space Marine'lerin giydiği en ağır kişisel zırhtır; bir Dreadnought'un zırhını insan bedenine uyarlanmış halidir ve giyeni neredeyse yürüyen bir tanka çevirir. Kökeni Horus Heresy öncesine dayanır — Dreadnought zırhını minyatürleştirme çalışmaları, Legion içindeki en seçkin savaşçılar için tek parça zırh üretti; sonuç Tactical Dreadnought Armour oldu. Terminator zırhı storm bolter, power fist, thunder hammer ve assault cannon taşıyabilir; içindeki savaşçıya teleport saldırıları, uzay boşluğu ve plazma patlamaları dahil her ortamda hayatta kalma imkânı verir. On bin yıl sonra hâlâ her Chapter'ın en değerli emaneti olarak saklanır — zırh parçası parçası bakım g
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Imperial Armour*; Lexicanum

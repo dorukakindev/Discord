@@ -1,73 +1,42 @@
 https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Alpharius_Pythian_Scales.jpg/revision/latest?cb=20140410023824
 
--# THE IMPERIAL ARCHIVE
+-# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Alpharius Omegon
 
--# Kategori: Primarch · Fraksiyon: Chaos (Traitor Legion) · Dönem: Great Crusade – Horus Heresy (40K'daki akıbet belirsiz) · Bağlılık: Belirsiz
+*Alpharius · Omegon · Hydra'nın İki Başı*
 
-## Tanım ve Genel Çerçeve
-Alpharius ve Omegon, XX Legion'ın, yani Alpha Legion'ın Primarch'larıdır. Kayıtlar onları uzun süre tek bir Primarch, Alpharius olarak tanıdı; Horus Heresy yayınları ise Legion'un başında birbirinin aynısı iki ikiz kardeşin bulunduğunu ortaya koydu. Dışarıya karşı tek bir kişi gibi davranan, birbirinin yerine geçebilen ve bu ikiliği Legion'un bütün kültürüne işleyen bu figürler, Primarch'lar arasında hakkında en az kesin bilgi bulunanlardır.
+XX Legion'ın, Alpha Legion'ın Primarch'ı — ya da Primarch'ları. İkiz olarak doğan ve kendilerini tek bir kimlik olarak sunan Alpharius ve Omegon, galaksinin en karmaşık entrikalarının ustalarıdır. Heresy'de Horus'un saflarına katıldılar ama gerçek amaçları hâlâ tartışmalıdır: Cabal adlı xenos örgütünün kehanetine göre, insanlığın geleceğini kurtarmak için ihanet etmeyi seçtiler. Birinin öldüğü, diğerinin hayatta kalıp kalmadığınınsa bilinmediği anlatılır.
 
-Bu kanal okunurken özel bir ihtiyat gerekir. Alpharius Omegon'a dair kayıtların önemli bir bölümü Legion'un kendi yaydığı yanıltmalar, çelişkili tanıklıklar ya da bilerek ortada bırakılmış izlerdir. Yayınlar da bu belirsizliği bilinçli olarak korur. Legion'un kurumsal tarihi ve 40K'daki örgütlenmesi <#1551636477090467942> kanalında işlenir.
+- **Kategori:** Primarch (hain)
+- **Fraksiyon:** Chaos (resmî olarak) — XX Legion, Alpha Legion; hiçbir Chaos tanrısına açıkça bağlanmadılar
+- **Dönem:** Great Crusade → M31 / belirsiz
+- **Köken:** Bilinmiyor — kökenleri kasıtlı olarak gizlenmiştir
+- **Silahlar:** Pale Spear (Alpharius'a atfedilen, kökeni gizemli mızrak); Legion'ın standart teçhizatı ve kimlik gizleme araçları
+- **Durum:** *Praetorian of Dorn*'a göre Alpharius Terra'da Rogal Dorn'un eliyle öldü; eski kaynaklar Eskrador'da Guilliman'ın elinde öldüğünü anlatır. Omegon'un akıbeti belirsiz
 
 ## Kökenler
-Alpharius, kaynakların genel anlatımında Emperor'un bulduğu son Primarch'tır. Nerede büyüdüğü, hangi dünyada bulunduğu ve Legion'una nasıl kavuştuğu konusunda yayımlanmış kanon çok az ve kimi zaman birbiriyle uyuşmayan ayrıntı sunar; arşiv bu boşluğu doldurmaz. Legion'un sayısal olarak en genç Legion oluşu, Alpharius'un kendini ve Legion'unu kardeşlerine kanıtlama arzusuyla ilişkilendirilen bir motif olarak eserlerde sıkça belirir.
+Alpharius ve Omegon'un kökenleri kaynaklarda kasıtlı olarak belirsiz bırakılmıştır. En çok tekrarlanan anlatıya göre, Emperor'un bulduğu son Primarch'tı ve onu Great Crusade sırasında bizzat Horus buldu; Alpharius, Horus'a hayranlık duyarak onun gözetiminde eğitildi. Legion'ın kendi mitolojisi ve bazı Heresy romanları ise ikizlerin Emperor'un laboratuvarından ayrılmadan önce bile birbirinden ayrı iki varlık olduğunu ve kendilerini tek bir figür olarak gösterdiğini ima eder (*Legion*, *The Serpent Beneath*).
 
-Omegon'un varlığı ise uzun süre Imperium'un geri kalanından saklandı. İkizlerin nasıl bir arada bulunduğu ve Emperor'un bundan ne ölçüde haberdar olduğu, kaynakların kasıtlı olarak bulanık bıraktığı sorular arasındadır.
+## Great Crusade
+XX Legion, Emperor'un en son Legion'ıydı ve en küçüklerden biriydi. Alpharius, Legion'ın adını **Alpha Legion** olarak koydu ve onu gizlilik, casusluk, dezenformasyon ve bağımsız hücreler üzerine kurdu. Alpha Legion savaşçıları, dışarıdan birbirinin aynısı gibi görünür; hepsinin kendini "Alpharius" diye tanıtması Legion'ın kimlik gizleme doktrininin bir parçasıdır.
 
-## İkizlik: Hydra'nın İki Başı
-Dan Abnett'in *Legion* romanı, ikiz Primarch gerçeğini ilk kez açığa çıkaran eserdir. İkizler dışarıya karşı tek bir "Alpharius" olarak görünür; biri komuta ederken diğeri başka bir cephede, başka bir kimlikle, çoğu zaman sıradan bir Legionnaire kılığında hareket edebilir. Kardeş Primarch'lar ve Imperial yetkililer, karşılarındakinin hangisi olduğunu bilmeden onlarla konuşmuştur.
+Alpharius ve Omegon, Legion'ı "Hydra" imgesiyle özdeşleştirdi: bir başı kesildiğinde başka başlar büyüten, merkezi olmayan bir organizma. Legion'ın kendi değerleri, Imperium'un zaferinden çok insanlığın hayatta kalmasına odaklıydı.
 
-Bu ikilik, Legion'un en alt kademesine kadar yayılan bir felsefeye dönüştü. Alpha Legion savaşçıları kimliklerini bilinçli olarak gizler, rütbe ve isimlerini sık sık değiştirir; "Ben Alpharius'um" cevabı, hem sorgulanan bireyin kimliğini hem de Legion'un gerçek komuta yapısını örten bir doktrinin ifadesidir. Legion'un simgesi olan çok başlı Hydra da bu düşünceyi anlatır: bir baş kesildiğinde örgüt ölmez.
+## Cabal ve İhanet Kararı
+Heresy'nin öncesinde Alpha Legion, **Cabal** adlı gizemli bir xenos örgütüyle temas kurdu (*Legion*, Dan Abnett). Cabal, ikizlere iki gelecek gösterdi: Emperor'un kazanacağı bir gelecekte insanlık uzun vadede Chaos'a yenilecek ve galaksiyi yok edecekti; Horus'un kazanacağı bir gelecekte ise insanlık yok olacak, ama galaksi kurtulacaktı. İkizler bu kehanete dayanarak Horus'u desteklemeye karar verdi. Ancak Legion'ın eylemleri boyunca gerçek niyetlerinin ne olduğu sorusu, Heresy'nin en büyük gizemlerinden biri olarak kaldı.
 
-Mike Brooks'un *Alpharius: Head of the Hydra* romanı, Great Crusade dönemindeki yöntemlerini işler: düşmanı açık savaştan önce içeriden çözmek, uzun süre istihbarat toplayıp ardından tek ve kesin bir darbe indirmek. Primarch'ın kardeş Legion'ları bir rakip olarak değil, incelenecek güçlü ve zayıf yanlar olarak görmesi, sonraki ihanetin zeminini hazırlayan bir bakış olarak okunabilir. Kaynaklar ikizlerin kişiliklerini bile birbirinden kesin çizgilerle ayırmaz; bu belirsizlik, karakterlerin kendisinin bir parçasıdır.
+## Horus Heresy
+Alpha Legion, Isstvan V'te ikinci dalgada ihanet eden Legion'lardan biriydi. Heresy boyunca Alpha Legion, sadık Legion'ları sabote etti, iletişim hatlarını kesti ve Imperium'un içinde kaos yarattı. Space Wolves'u Alaxxes'te ve Signus'ta meşgul etmesi, Raven Guard'ın yeniden yapılanmasını baltalaması ve Ultramar'daki Shadow Crusade'e katkısı bunlardan yalnızca bazılarıdır.
 
-## Cabal ve Kehanet
-Alpha Legion'un Heresy'deki tercihi, diğer Traitor Legion'ların hiçbirine benzemeyen bir gerekçeye dayandırılır. *Legion*'da Aeldari'nin öncülük ettiği ama birçok türden üyeyi barındıran Cabal adlı gizli topluluk, binlerce yıldır yaşayan Perpetual John Grammaticus aracılığıyla ikizlere ulaştı ve onlara iki gelecek sundu. Emperor Heresy'yi kazanırsa insanlık binlerce yıllık bir çürüyüşün ardından Chaos'a yem olacak ve Chaos galaksiye hâkim olacaktı. Horus kazanırsa insanlık yok olacak, fakat Chaos da beslendiği kaynaktan yoksun kalacaktı.
+Heresy'nin ortalarında ikizlerin yolları ayrılmaya başladı. Alpharius, Alpha Legion'ın Terra'ya yönelik gizli saldırısını bizzat yönetti; *Praetorian of Dorn*, bu sızma girişimini ve Imperial Fists'le yaşanan gölge savaşını işler. Romanın doruk noktasında Alpharius, Rogal Dorn'un eliyle öldürülür.
 
-Alpharius ve Omegon, bu önermeyi kabul ederek Horus'un safına geçti. Kaynakların vurguladığı nokta, bu kararın bir Chaos bağlılığı değil, galaksinin geleceğine dair soğuk bir hesap olarak sunulmasıdır. Ne var ki ikizlerin Cabal'e ne ölçüde inandığı, onu ne kadar kendi amaçları için kullandığı ve Legion'un sıradan savaşçılarına gerekçenin nasıl anlatıldığı açık değildir. Bazı anlatılar Legion'un Emperor'un gizli iradesine hizmet ettiğine inandığını ima eder; Rob Sanders'ın *The Serpent Beneath* novellası ise ikizlerin kendi planlarının Cabal'in hesabından da bağımsızlaşmaya başladığı izlenimini güçlendirir.
+## Ölüm ve Sonrası
+Guilliman'ın Heresy sonrası Eskrador'da Alpharius'u öldürdüğü de anlatılır (eski kaynaklar); bu çelişki, Alpha Legion'ın kimlik gizleme doktrininin bir parçası olarak yorumlanır. Resmî kanonda en az bir ikizin öldüğü kabul edilir; diğerinin akıbeti bilinmez. Alpha Legion bugün Chaos'un bir parçası olarak görünür, ama gerçek niyetleri hâlâ tartışmalıdır. Legion, hiçbir Chaos tanrısına açıkça bağlanmamıştır ve bazen Imperium'un düşmanlarına karşı gizli operasyonlar yürüttüğü ima edilir.
 
-Kanon durumu: Alpha Legion'un nihai amacı kasıtlı olarak açık bırakılmıştır. Bu noktada arşivin söyleyebileceği tek şey, Legion'un Heresy'de hainlerin safında savaştığı ve gerekçelerinin katmanlı biçimde anlatıldığıdır.
+## Güncel Durum
+Alpha Legion bugün galaksinin dört bir yanında gizli hücreler aracılığıyla faaliyet gösterir. Legion'ın Primarch'larının akıbeti bilinmez; bazı kaynaklar hâlâ hayatta olan bir ikizin Legion'ı gizlice yönettiğini ima eder.
 
-## Horus Heresy: Çelişkili Hamleler
-Alpha Legion, Isstvan V'teki Drop Site Massacre'da ihanetin ikinci dalgasında yer aldı. Gav Thorpe'un *Deliverance Lost*'u, Legion'un Raven Guard'a ve Corax'ın gene-seed'ine yönelik sızma operasyonlarını işler; Legion burada sadık Legion'ların en içine kadar uzanabilen bir tehdit olarak görünür.
+## Kişilik
+Alpharius ve Omegon, Primarch'lar arasında en gizemli olanlardır. Onların gerçek amaçları, kişilikleri ve hatta sayıları bile kasıtlı olarak belirsiz bırakılmıştır. Onlar için sonuç her şeydir; yöntemler ve sadakat ikincildir.
 
-Ancak aynı dönemin başka hamleleri daha tuhaftır. Chris Wraight'ın *Scars* romanında, Chondax cephesinde White Scars'ın Terra'dan gelen haberleri almasını engelleyen bir tesis Alpha Legion eliyle yok edilir; bu, dolaylı olarak Jaghatai Khan'ın Rogal Dorn'un uyarısını almasına ve sonunda Emperor'un safında kalmasına yol açar. Bu olayı Legion'un içinde gizli sadık unsurların varlığına ya da daha büyük bir hesaba bağlayan yorumlar vardır; kaynak kesin bir yanıt vermez.
-
-## Pluto: Praetorian of Dorn
-Heresy'nin son evresinde Alpha Legion, Horus'un Sol Sistemi'ne yönelik baskısının parçası olarak Pluto'ya saldırdı. John French'in *Praetorian of Dorn* romanı, Alpharius'un burada Rogal Dorn'la yüz yüze geldiğini ve Dorn tarafından öldürüldüğünü anlatır. Aynı esere göre Omegon, kardeşinin ölümünün ardından Alpharius adını kalıcı olarak üstlenerek Legion'un tek Primarch'ı rolünü sürdürdü. Bu anlatı, Legion'un ikiz yapısının bir Primarch'ın ölümünü bile gizleyebileceğini gösteren en çarpıcı örnektir.
-
-## Ölüm Anlatılarının Çelişkisi
-Alpharius Omegon'un akıbeti, kanonun en tartışmalı konularından biridir ve arşiv burada anlatıları birbirinden ayırmak zorundadır.
-
-**Eskrador anlatısı:** Daha eski yayınlar, Heresy'den sonra Roboute Guilliman'ın Eskrador'da Alpha Legion'un karargâhına saldırdığını ve Alpharius'u öldürdüğünü anlatır. Bu anlatımda bile ölüm şüpheyle çevrilidir: Ultramarines'in kendisi dahi karşılarındakinin gerçekten Primarch olup olmadığından emin olamaz.
-
-**Pluto anlatısı:** *Praetorian of Dorn* ile eklenen anlatıya göre Alpharius Siege of Terra öncesinde Pluto'da öldü. İki anlatı birlikte okunduğunda Eskrador'da Guilliman'ın karşısındaki figürün Omegon, bir dublör ya da Primarch'ın zırhını taşıyan başka biri olabileceği sorusu doğar. Yayınlar bu soruyu yanıtlamaz.
-
-**Legion'un iddiası:** Alpha Legion, Primarch'ının ölmediğini ileri sürer. Bu evren içi bir iddiadır ve Legion'un sistematik yanıltma geleneği düşünüldüğünde hiçbir tarafın ifadesi kesin kabul edilemez.
-
-Kanon durumu: kasıtlı belirsizlik. Hangi ikizin nerede öldüğü ya da birinin hâlâ yaşayıp yaşamadığı yayımlanmış kanonda kesin olarak yanıtlanmamıştır. Fandomda başka yer adlarıyla dolaşan karşılaşma iddiaları da bulunur; arşiv bunları doğrulanmış kabul etmez.
-
-## 40K'daki İzler
-Heresy'den sonra Alpha Legion, diğer Traitor Legion'lar gibi Eye of Terror'a toplu hâlde çekilmek yerine Imperium'un içine ve kenarlarına dağıldı. Imperial kayıtlar Legion'un birden çok kez yok edildiğini ilan etmiş, Legion her seferinde yeniden ortaya çıkmıştır. Hücreleri ve kültleri, Primarch'larının öğretisinin hâlâ yaşadığını gösterir.
-
-M41 ve Great Rift sonrası kaynaklarda Alpharius ya da Omegon'un doğrudan sahneye çıktığı, doğrulanmış bir olay bulunmaz. Güncel anlatı, Legion'un ve Primarch'larının nihai hedefini açıklamamıştır.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Alpharius ve Omegon aslında gizli sadık Primarch'lardır.
-**Kanon:** Heresy'de hainlerin safında savaştılar; gerekçelerinin Chaos bağlılığı olarak sunulmaması onları sadık yapmaz. Gizli sadakat iddiası doğrulanmamış teoridir.
-
-**Yanılgı:** Omegon, Alpharius'un ölümünden sonra ortaya çıkan bir taklitçidir.
-**Kanon:** *Legion*'a göre ikizler Great Crusade döneminden beri birlikteydi; Omegon'un adı sonradan değil, baştan beri gizlenmişti.
-
-## Yayın ve Retcon Notu
-Alpha Legion, *Realm of Chaos* dönemindeki Chaos kaynaklarında yer aldı; Eskrador anlatısı 3rd Edition dönemi kaynaklarında öne çıktı. *Legion* (2008) ikiz Primarch ve Cabal unsurlarını ekleyerek figürü kökten yeniden çerçeveledi; *Praetorian of Dorn* ise Pluto anlatısını getirdi.
-
-**Kaynaklar:** *Legion — Dan Abnett*; *The Serpent Beneath — Rob Sanders*; *Deliverance Lost — Gav Thorpe*; *Scars — Chris Wraight*; *Praetorian of Dorn — John French*; *Alpharius: Head of the Hydra — Mike Brooks*; *Codex: Chaos Space Marines*
-**Çapraz:** <#1551636477090467942>, <#1551814951365115956>, rogal-dorn, <#1551808704901423186>, <#1551637736593821790>, <#1551638913683034174>, <#1551818097504157699>, siege-of-terra
-
-## Tarihçe
-
-Alpharius Omegon, Alpha Legion'un en gizli ve en tehlikeli primarch'ıdır; 'Ben Alpharius'um' diyen ve herkesin Alpharius olabileceğini savunan en gizli primarch olan Omegon, İmparatorluğun en gizli ve en teh
-
-​
+-# Kaynaklar: *Legion* — Dan Abnett; *The Serpent Beneath* — Rob Sanders; *The Beast Arises*; *Praetorian of Dorn* — John French; *Alpharius: Head of the Hydra* — Mike Brooks; *Codex: Chaos Space Marines*; Lexicanum

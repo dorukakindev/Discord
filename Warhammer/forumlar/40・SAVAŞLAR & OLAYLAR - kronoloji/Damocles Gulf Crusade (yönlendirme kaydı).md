@@ -14,8 +14,13 @@ Imperium'un T'au Empire'la ilk büyük askerî çatışması. Tam madde <#155181
 - **Önemli Olaylar:** Dal'yth Prime; ateşkes.
 - **Kanon Notu:** Bu sefer, M41'in sonlarındaki Third Sphere Expansion çatışmalarıyla karıştırılmamalıdır.
 
-## Tarihçe
+## Tau'ya Karşı İlk
+Damocles Crusade (742-745.M41), Imperium'un T'au Empire'a karşı ilk büyük seferi; Tau'nun Agrellan'da Imperium sınırına girmesi üzerine başladı. White Scars ve Raven Guard başı çekti; Tau'nun Battlesuit teknolojisi ilk kez Imperium'a 'bu ırk farklı' dedirtti. Savaş Ethereal Aun'Va'nın şahsileştirilmesiyle doruğa ulaştı.
 
-Damocles Gulf Crusade, İmparatorluğun en büyük ve en önemli T'au savaşıdır; İmparatorluğun T'au Empire'a karşı başlattığı ve Dal'yth'in savunmasıyla sonuçlanan en büyük savaştır — onlar, İmparatorluğun en büyük xeno savaşının ve en büyük yenilgisinin somut halidir. Damocles Gulf Crusade'in en büyük özelliği, onun yenilgisidir — onlar, İmparatorluğun T'au'ya karşı en büyük yenilgisidir ve onların varlığı, İmparatorluğun en büyük dersinin kanıtıdır; bir Damocles Gulf Crusade, bir imparatorluğun en büyük yenilgisinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük tehdidinin somut halidir. Damocles Gulf Crusade'in en ünlü özelliği, onun Dal'yth'in savunmasıdır — onlar, T'au'nun en büyük zaferidir ve onların varlığı, T'au'nun en büyük gücünün kanıtıdır. Damocles Gulf Crusade, İmparatorluğun en büyük ve en önemli T'au savaşıdır — onlar, İmparatorluğun en büyük yenilgisinin ve en büyük dersinin somut halidir.
+## Sonuç
+Crusade Damocles Körfezi'ni 'güvenli' kıldı ama Tau'yu yok edemedi — Imperium o kadar meşguldu ki geri çekildi. Sonradan bölge tekrar Tau'nun oldu; 3rd ve 4th Sphere genişlemeleri bunun üzerine kuruldu. Damocles, 'Imperium'un yenemeyeceği kadar güçlü ama yok edemeyeceği kadar uzak' xeno gerçeğinin ilk kanıtıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Damocles* kampanya kitapları; *Farsight* serisi; *Codex: T'au Empire*; Lexicanum
 
 -# Kaynaklar: *

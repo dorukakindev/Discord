@@ -14,10 +14,14 @@ Fire Dragons'ın Phoenix Lord'u; yıkımın ve kararlılığın ateşini temsil 
 - **Önemli Olaylar:** Fire Dragons Aspect'inin kuruluşu; Rhana Dandra kehanetindeki rolü.
 - **Kanon Notu:** Rhana Dandra'daki rolü bir kehanettir; gerçekleşip gerçekleşmeyeceği kanonda açıktır. Firepike'ı ayrı bir relic kaydı konusudur.
 
-## Tarihçe
+## Yanan
+Fuegan — 'Burning Lance' — Fire Dragon Aspect'inin Phoenix Lord'u ve Eldar'ın 'intikam tanrısı'nın en acımasız yüzüdür; Arhra'nın düşüşünden sonra 'hain öğrenci' damgasını taşıyan ama kendi yolunda ilerleyen figür. 'Firepike' ve 'melta bomb'larıyla savaşır; düşmanının kalbine giden en kısa yol onun yoludur.
 
-Fuegan (the Burning Lance), Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'larından biridir — Fire Dragons Aspect Shrine'ın kurucusudur. Fuegan, Aeldari'nin en tehlikeli ve en ölümcül savaşçısıdır; onun fusion silahları ve savaş yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Fuegan, Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'u olarak kalır — onun varlığı, Aeldari'nin en önemli ve en ölümcül savaş geleneğinin simgesidir.
+## Anlam
+Fuegan canon'da 'Path of the Warrior'nın en sert yüzüdür — Asurmen'in ilk öğrencilerinden, ama her zaman 'en kolay' yolu değil 'en doğru' yolu seçti. Fire Dragon'un 'yak ve yık' doktrini onun eseridir; Slaanesh'e karşı en açık düşmanlığı gösteren Phoenix Lord olarak bilinir.
 
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Asurmen* (yan); Lexicanum
 
 -# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
 

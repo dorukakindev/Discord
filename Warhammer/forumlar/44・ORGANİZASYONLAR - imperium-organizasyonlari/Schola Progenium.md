@@ -9,8 +9,13 @@ Schola Progenium, İmparatorluk hizmetinde ölen subay, komutan ve görevlilerin
 
 Bu çocuklara verilen eğitim, sevgi ya da şefkat üzerine değil, mutlak disiplin, katı inanç ve İmparator'a sorgusuz hizmet üzerine kuruludur. Çocukluk, sürekli bir test, ceza ve indoktrinasyon süreci olarak geçer; bireysellik silinir, yerine İmparatorluğa ve İmparator'a mutlak bir adanmışlık konur. Sonuç, korkudan arınmış, fanatik biçimde sadık ve son derece yetenekli bireylerdir.
 
-## Tarihçe
+## Vatanın Çocukları
+Schola Progenium — 'Progena' — Imperium'un yetim çocuklarını eğittiği okul sistemidir; askeri yetimhane-manzara karma kurum, Komutan'ları ve Commissar'ları yetiştirir. Tempestus Scions, Commissar'lar, Naval officer'lar ve Sisters of Battle'ın bir kısmı buradan çıkar. Disiplin, inanç ve sadakat'in en katı eğitimi verilir — 'çocuk Imperium'undur'.
 
-Schola Progenium, İmparatorluğun yetim ve seçkin çocuklarını yetiştiren kurumudur; Imperial Guard subayları, Tempestus Scion'lar, Commissar'lar, Inquisitor adayları ve Sisters of Battle'ın büyük kısmı buradan çıkar. Schola Progenium'a girmek hem onur hem zorunluluktur — çocuklar genelde İmparatorluk için ölen ebeveynlerin yetimleridir ve burada yetiştirilmek, onlara İmparatorluğun en yüksek eğitimini ama aynı zamanda en katı disiplinini verir. Eğitim acımasızdır — fiziksel dayanıklılık, askeri taktik, dinî inanç ve mutlak itaat; Schola Progenium'dan çıkan bir çocuk, artık ailesi olmayan ama İmparatorluğa tamamen bağlı bir bireydir. Schola Progenium'un mezunları İmparatorluğun omurgasıdır — onlar olmadan ordu komuta edilemez, Inquisition işleyemez ve Ecclesiarchy boş kalır.
+## Ürün
+Progena mezunları Imperium'un orta sınıf yönetici tabakasını oluşturur — bir Commissar'ın 'disiplin otoritesi' burada kazanılır. Schola'nın 'aile yok, sadece Imperium' felsefesi canon'da Imperium'un 'insan üretim hattı'nın simgesidir; soylular ve sıradanlar aynı disipline girer.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperium*; *Cain* serisi (Jurgen ve Cain'in geçmişi); *Schola Progenium* lore; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

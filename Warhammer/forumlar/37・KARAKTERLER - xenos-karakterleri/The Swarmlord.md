@@ -14,9 +14,14 @@ Swarmlord, Hive Mind'ın stratejik zekâsının en yoğun hâliyle beliren bir H
 - **Önemli Olaylar:** Macragge savaşı ve Calgar'la karşılaşma.
 - **Kanon Notu:** Swarmlord'un Macragge'da Calgar'ı yaralaması 5th Edition dönemi (2010) Codex'iyle eklenmiş bir ayrıntıdır; ilk Behemoth anlatılarında yer almaz.
 
-## Tarihçe
+## Hive Mind'ın Kılıcı
+Swarmlord, Tyranid Hive Mind'ın en yüksek saha organizması; tekil Hive Tyrant'ların bile üzerinde duran, galaktik 'komuta bioform'u. Diğer Tyranid liderlerinden farkı: geçmiş Hive Fleet'lerin toplu tecrübesini taşır ve önceki Swarmlord'ların hatıralarını devralır — öldürülen her Swarmlord'un deneyimi bir sonrakine aktarılır, yani galaktik tarihin en eski sürekli-savaşan komutanıdır.
 
-The Swarmlord, Hive Mind'ın 'yüce avcı' bio-formu — her Tyranid sürüsünün arkasındaki 'general' ve tek başına bir chapter'ı yenebilecek güçteki varlık. 'Lord of the Swarm' unvanıyla bilinen bu figür, Tyranid'in 'tek' komuta figürüdür — ama 'Hive Mind'ın bir uzantısından ibarettir; öldürülse bile 'yeni' bir Swarmlord yaratılır. 'The Swarm adapts' — Swarmlord'un her yenilgisi Hive Mind'ın 'öğrenme' mekanizmasıdır.
+## Yeteneği
+Swarmlord dört Bonesword taşır ve Warp gölgesini kişisel bariyer gibi kullanır; Hive Mind onun içinden doğrudan konuşur. Battle of Macragge'de Imperium'a karşı kullanıldı; Ultramarines 1st Company'nin yok oluşu onun eseridir. Tyranid'in 'zekâ' iddiasının bedenlenmiş hâlidir — strateji, adaptasyon ve acımasız verimlilik.
+
+## Kaynaklar
+-# Kaynaklar: *Battle of Macragge* (5. edisyon kutu seti); *Codex: Tyranids*; *Shield of Baal*; Lexicanum
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 

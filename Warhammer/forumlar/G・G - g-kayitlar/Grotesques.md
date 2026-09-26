@@ -10,11 +10,11 @@ Haemonculi'nin 'sanat eserleri' — vücutları yeniden biçimlendirilmiş, acı
 - **Dönem:** —
 - **Köken:** Commorragh Haemonculus kuleleri
 
-## Tarihçe
-Haemonculi'nin flesh-crafting'inin zirvesi: kurbanların bedenleri büyütülür, kaslar katlanır, sinirler acı-zevke bağlanır ve zihin 'uysal vahşilik' seviyesine indirilir. Grotesque'ler Haemonculus'un kişisel ordusudur; Urien Rakarth gibi üstatlar onları 'başyapıt' olarak görür. Acıları onları güçlendirir.
+## Deforme
+Grotesques — Drukhari'nin 'Haemonculus' eseri yaratıklarıdır; 'işkenceyle değiştirilmiş' savaşçılar. 'Liquifier Gun' ve 'flesh-crafted' bedenlerle savaşırlar — Drukhari'nin 'etik yoksunluğu'nun canlı kanıtıdır. 'Grotesque' olmak 'artık insan değil' demektir — sadece 'eşya'.
 
-## Özellikler
-Liquifier gun ve flesh gauntlet, muazzam kas ve iyileşme, acıya bağımlılık; Haemonculi'nin 'etin heykeli' felsefesi.
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; Lexicanum
 
 -# Kaynaklar: Codex: Drukhari
 

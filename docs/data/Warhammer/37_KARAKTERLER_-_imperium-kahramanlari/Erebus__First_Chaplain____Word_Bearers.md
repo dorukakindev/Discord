@@ -14,6 +14,11 @@ Horus Heresy'nin görünmez mimarlarından biri. Kaba kuvvetten çok yalan, sab�
 - **Önemli Olaylar:** Interex'le temasın çöküşü; Davin; Heresy'nin hazırlanışı.
 - **Kanon Notu:** Erebus'un tanrıların iradesine dair söyledikleri evren içi iddiadır. Heresy sonrasındaki akıbeti yayımlanmış kanonda kesin biçimde yerleşmiş değildir.
 
-## Tarihçe
+## İlk Kelime
+Erebus, Word Bearers'ın ilk Chaplain'i ve Horus Heresy'nin asıl kışkırtıcısıdır; Lorgar'ı Chaos'a çeviren adam. Karanlık Apostol, Davin'de Horus'u seromonyaya sokan ve Warp'in ilk 'gerçek' sözünü ona ulaştıran figür — Heresy onun planıydı. 'Child of the Serpent' olarak bilinir; sonsuz planlar kuran, her ihanetin arkasında olan adam.
 
-Erebus, Word Bearers'ın First Chaplain'i ve İmparatorluk'un en tehlikeli ve en korkulan figürlerinden biridir — Horus Heresy'nin başlamasının en önemli figürüdür. Erebus, Lorgar'ı Chaos'a yönlendiren ve Horus Heresy'nin başlamasının en önemli sebebidir; onun etkisi, İmparatorluk tarihinin en büyük trajedisinin kaynağıdır. Erebus, Word Bearers'ın en tehlikeli ve en korkulan figürü olarak kalır — onun etkisi, İmparatorluk'un en büyük trajedilerinin kaynağıdır.
+## İhanet Zinciri
+Erebus'un suç listesi: Lorgar'ı Monarchia'daki aşağılanmadan Chaos'a döndürmek, Anathame'yi kullanmak için Davin komplosunu kurmak, Horus'u zehirlemek, Argel Tal'ı (Word Bearers'ın en trajik figürü) arkadan bıçaklamak — Sevatar bile ondan nefret eder. Heresy sonrası Word Bearers'ın en politik figürü olarak kaldı.
+
+## Kaynaklar
+-# Kaynaklar: *Horus Rising*, *False Gods*, *The First Heretic* (HH); *Slaves to Darkness*; *Betrayer*; Lexicanum

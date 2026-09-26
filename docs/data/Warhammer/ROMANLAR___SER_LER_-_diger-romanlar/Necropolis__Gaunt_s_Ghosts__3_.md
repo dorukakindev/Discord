@@ -8,14 +8,10 @@ Serinin en ünlü kitabı: Vervunhive kovan şehrinin Chaos ordusuna karşı sav
 - **Yazar:** Dan Abnett
 - **Konum/Dönem:** Vervunhive, Verghast
 
-## İçerik
-Ghostların kovan şehri savunmasına katılması; Commissar'lık ve 'Welcome to the Necropolis' dehşeti.
+## Ölü Şehir
+Necropolis — Dan Abnett'in 'Gaunt's Ghosts' serisinin üçüncü romanı; Verghast dünyasının Vervunhive'inin savunması. 'Hive warfare'ın en ünlü romanı — bir şehrin 'yaşayan' olduğu ve her sokağın bir savaş olduğu yer. 'Necropolis' adı 'ölü şehir' demektir — kuşatmanın sonunda şehir ölümden döner.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-Necropolis, Dan Abnett'in Gaunt's Ghosts serisinin üçüncü romanıdır — Gaunt'un Ghosts'unun hikâyesinin devamıdır. Bu roman, Gaunt'un Ghosts'unun Sabbat Dünyaları Haçlı Seferi'ndeki hikâyesini anlatır; roman, Gaunt'un Ghosts'unun hikâyesinin devamıdır. Bu roman, Gaunt'un Ghosts'unun hikâyesinin devamıdır; roman, Gaunt'un Ghosts'unun en önemli hikâyesinin devamıdır. Roman, Gaunt'un Ghosts'unun hikâyesinin devamı olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *Necropolis* — Dan Abnett; *Gaunt's Ghosts*; Lexicanum
 
 -# Kaynaklar: Black Library

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Bloodline.jpg/revision/latest?cb=20130613195934
-
 -# THE IMPERIAL ARCHIVE · M KAYITLARI · Kayıt
 
 # Meron

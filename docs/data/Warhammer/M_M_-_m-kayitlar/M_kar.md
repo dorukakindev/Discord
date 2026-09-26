@@ -16,8 +16,10 @@ Ultramarines'ın ezeli düşmanı; Maledictum'un içindeki daemon, tekrar tekrar
 - **Bilinen Kullanıcılar / Operatörler:** Word Bearers kültleri; daemon koalisyonları
 - **Önemli Olaylar:** Talassar, Calth ve Macragge saldırıları; Marneus Calgar ile düellosu.
 
-## Tarihçe
+## Yenilmez
+M'kar the Reborn — eski Word Bearers'ın daemon prince'i — Ultramarines'in ezeli düşmanıdır; Ventris'le birden fazla karşılaştı ve her seferinde 'öldürüldü' ama tekrar doğdu. Daemon'un en sinir bozucu özelliği: ölümsüz değil, 'yakalanamaz' — her ölümde Warp'e döner ve geri gelir. Grey Knights'ın Kaldor Draigo'su onu sonunda 'gerçekten' durdurdu — bu da Draigo'nun Warp'te hapsolmasının sebebidir.
 
-M'kar, Chaos'un en ünlü ve en trajik Daemon Prince'idir; eskiden bir Word Bearer olan ve Chaos'a yükselen M'kar, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Chaos'un en ünlü ve en trajik daemon'udur. M'kar'ın en büyük özelliği, onun trajedisidir — onlar, bir Space Marine'in Chaos'a düşüşünün en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir M'kar, hem bir daemon hem de bir trajedidir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. M'kar'ın en ünlü özelliği, onun Ultramar'a olan düşmanlığıdır — onlar, Ultramarines'in en büyük düşmanlarından biridir ve onların varlığı, İmparatorluğun en büyük tehdidinin kanıtıdır. M'kar, Chaos'un en ünlü ve en trajik Daemon Prince'idir — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
+## Kaynaklar
+-# Kaynaklar: *Ultramarines* serisi — Graham McNeill; *The Emperor's Gift*; *Codex: Chaos Daemons*; Lexicanum
 
 -# Kaynaklar: *Ultramarines* romanı serisi; Warhammer 40,000 — Lexicanum derlemesi

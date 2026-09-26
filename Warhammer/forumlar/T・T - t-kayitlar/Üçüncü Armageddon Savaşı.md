@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/16/Ork_Waaagh%21_Armageddon.png/revision/latest?cb=20140723171409
-
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 # Üçüncü Armageddon Savaşı
 

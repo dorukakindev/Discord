@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/df/SonsoftheEmperorNonFinal.png/revision/latest?cb=20180203142412
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Sons of the Emperor
 

@@ -13,13 +13,11 @@ Kusursuz disiplini, sarsılmaz itaati ve tören kıyafetini andıran parlak üni
 - **Önemli Olaylar:** Mordian'ın Chaos istilasına karşı savunulması.
 - **Kanon Notu:** Mordian savunmasının tarihi ve kapsamı kaynaklarda farklı ayrıntı düzeyinde verilir; bu kayıtta kesin tarih verilmemiştir.
 
-## Tarihçe
+## Demir Düzen
+Mordian Iron Guard — 'Iron Guard' — Imperium'un en disiplinli alayıdır; Mordian'ın 'gece dünyası'nda yetişen askerler tören üniformasıyla savaşa girer ve 'sıfır gerileme' ile savaşır. 'Mordian' lakabı 'emir-komuta'nın bedenidir — onlar için düzen her şeydir. 'Line formation' ile savaşan son alaydır.
 
-Mordian Iron Guard, İmparatorluk Muhafızı'nın en disiplinli ve en ünlü alaylarından biridir — Mordian gezegeninin sert disipliniyle eğitilmiş askerlerdir. Mordianlar, İmparatorluk'un en disiplinli ve en organize alaylarını oluşturur; birlikleri, savaş meydanında kusursuz düzen ve disiplinle bilinir. Mordian Iron Guard, İmparatorluk'un en kritik savunma operasyonlarında görev alır; alaylar, hiçbir koşulda geri çekilmeyen ve disiplinlerini hiç kaybetmeyen birlikler olarak ünlüdür. Alaylar, İmparatorluk Muhafızı'nın en disiplinli ve en prestijli alaylarından biri olarak kalır.
-
-## Teknik / Biyolojik Özellikler
-
-Standart Imperial teçhizat; mavi tören üniformaları; açık gökyüzü altında savaşmanın, karanlık bir dünyada yetişen askerler için ayrı bir zorluk olduğu anlatılır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; Lexicanum
 
 -# Kaynaklar: *Codex: Imperial Guard*; *Codex: Astra Militarum*
 

@@ -1,5 +1,3 @@
-https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1900_ba%C5%9Flar%C4%B1ndan_g%C3%BCn%C3%BCm%C3%BCze_de%C4%9Fi%C5%9Fen_m%C3%BCzik_ve_bu_m%C3%BCzi%C4%9Fin_halk_gruplar%C4%B1_giyimine_etkisi.pdf/page1-960px-1900_ba%C5%9Flar%C4%B1ndan_g%C3%BCn%C3%BCm%C3%BCze_de%C4%9Fi%C5%9Fen_m%C3%BCzik_ve_bu_m%C3%BCzi%C4%9Fin_halk_gruplar%C4%B1_giyimine_etkisi.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Gotik Savaş
 *The Gothic War*

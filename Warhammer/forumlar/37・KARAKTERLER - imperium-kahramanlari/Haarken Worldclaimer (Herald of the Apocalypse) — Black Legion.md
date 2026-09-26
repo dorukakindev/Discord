@@ -14,9 +14,11 @@ Warmaster'ın saldırıya geçeceği dünyaların düşüşünü önceden ilan e
 - **Önemli Olaylar:** Vigilus seferi.
 - **Kanon Notu:** Haarken yeni bir figürdür ve anlatıdaki rolü görece dardır; ayrıntılar sonraki yayınlarda gelişebilir.
 
-## Tarihçe
+## Haberci
+Haarken Worldclaimer — 'Haarken' — Black Legion'un en ünlü Chaos Lord'larından ve Abaddon'un sağ kolu figürlerinden biridir; 'Worldclaimer' lakabı onun görevini anlatır — dünyaları Abaddon'a 'teslim eden' adam. Nachmund Rift War'da Word Bearers ordusunu yönetti ve 'Herald of the Apocalypse' olarak bilinir; her düşen dünya onun vaazıyla duyurulur.
 
-Haarken Worldclaimer (Herald of the Apocalypse), Black Legion'ın en tehlikeli ve en korkulan figürlerinden biridir — Abaddon'un en önemli habercisi ve savaş lordudur. Haarken, Black Legion'ın en tehlikeli ve en korkulan figürlerinden biridir; onun savaş yetenekleri ve liderliği, Black Legion'ın en önemli ve en tehlikeli güçlerinden biridir. Haarken Worldclaimer, Black Legion'ın en tehlikeli ve en korkulan figürü olarak kalır — onun varlığı, Black Legion'ın en önemli ve en tehlikeli güçlerinin simgesidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Space Marines*; *Nachmund* kampanya; Lexicanum
 
 -# Kaynaklar: *Vigilus Ablaze*; *Codex: Chaos Space Marines*
 

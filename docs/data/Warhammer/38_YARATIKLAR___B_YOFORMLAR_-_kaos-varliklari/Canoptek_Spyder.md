@@ -13,10 +13,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Canoptekspyder10.jpg/
 - **Önemli Olaylar:** Tek bir Spyder'a bağlanan öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Örümcek
+Canoptek Spyder — Necron'un 'yardımcı' construct'ıdır; tomb world'ün bakımını ve savaşta yaralı Necron'ları tamir eden çok ayaklı makine. 'Canoptek' serisi Canoptek Wraith, Scarab ve Reanimator'ı da içerir — Necron'un 'otomatik' ordusudur. Spyder'ın önemi: Necron'ların 'tamir ve dönüş' mekanizmasıdır.
 
-Canoptek Spyder, Necron'ların en tehlikeli ve en ölümcül otomatik araçlarından biridir — Canoptek kontrol mekanizmasıyla yönetilen bir araçtır. Canoptek Spyder, Necron'ların en tehlikeli ve en ölümcül otomatik araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül otomatik güçlerinden biridir. Canoptek Spyder, Necron'ların en tehlikeli ve en ölümcül otomatik araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül otomatik güçlerinden biridir.
-
-## Teknik / Biyolojik Özellikler
-
-Gövdesinde yeni Scarab'lar üretebilen bir yapı taşıdığı anlatılır; onarım amaçlı fabricator düzenekleri ve bazı biçimlerinde savunma amaçlı gloom prism gibi araçlar taşı
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; Lexicanum

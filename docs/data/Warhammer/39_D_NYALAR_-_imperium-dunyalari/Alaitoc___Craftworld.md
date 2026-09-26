@@ -14,9 +14,14 @@ Path'e en katı biçimde bağlı craftworld. Bu katılık, pek çok genç Aeldar
 - **Önemli Olaylar:** Path üçlemesinde işlenen yaşamlar; Ranger ağının faaliyetleri.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Yalnızlığın Evi
+Alaitoc — 'yalnızların craftworld'ü' — Eldar'ın en disiplinli ve en 'katı' craftworld'üdür; Path sistemine en sert bağlı olan yer. Illic Nightspear'ın evidir; Ranger'ları ve 'Path of the Outcast'e çıkanlar çoktur — ama Alaitoc onları 'aykırık' değil 'özel' sayar. 'Starstrider' ve 'Doomtreader' gibi kültleriyle tanınır.
 
-Alaitoc, Aeldari ırkının en büyük ve en askeri Craftworld'lerinden biridir; onun savaş geleneği ve disiplinli yapısıyla — Aeldari'nin en organize ve en savaşçı evidir — onlar, Aeldari'nin en disiplinli ve en ölümcül evidir. Alaitoc'un en büyük özelliği, onun disiplinidir — onlar, Path sistemini en katı şekilde uygular ve onların savaşçıları, Aeldari'nin en disiplinli ve en ölümcül savaşçılarıdır; bir Alaitoc savaşçısı, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Alaitoc'un en ünlü özelliği, onun Ranger'larıdır — onlar, Aeldari'nin en iyi keskin nişancılarını yetiştirir ve onların varlığı, Aeldari'nin en ölümcül gücünün kanıtıdır. Alaitoc, Aeldari ırkının en disiplinli ve en ölümcül Craftworld'üdür — onlar, disiplinin ve savaşın somut halidir.
+## Tarz
+Alaitoc'un yaklaşımı 'önce gör, sonra vur' — izcilik, sabır, mükemmellik. Diğer craftworld'lere göre daha az ama daha seçkin savaşçı çıkarır; her Alaitoc Eldar'ı 'son Eldar'ın kılıcı' gibidir. Canon'da 'düşen disiplin'in evidir — Path sistemi burada en katı halinde yaşanır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Path of the Outcast*; Lexicanum
 
 -# Kaynaklar: *Path of the Warrior — Gav Thorpe*; *Path of the Seer — Gav Thorpe*; *Path of the Outcast — Gav Thorpe*; *Codex: Aeldari — 10th Edition*
 

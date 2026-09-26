@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5c/Ciaphas_Cain.jpg/revi
 
 Aslında tehlikeden kaçmak isterken talihin sürekli kahramanlığa ittiği, ünü ile gerçeği taban tabana zıt efsanevi Komiser.
 
-## Tarihçe
-Ciaphas Cain, 41. milenyumun son yüzyılında görev yapan bir İmparatorluk Komiseri'dir; akranları tarafından saygı duyulan ve askerlerine ilham veren bir kahraman olarak bilinir, ya da en azından propaganda öyle söyler. Gerçek ise çok farklıdır; çünkü Cain aslında yalnızca rahat bir yaşam ve tehlikeden uzak durmanın bir yolunu arayan biridir.
+## 'Kahraman'ı
+Commissar Ciaphas Cain — 'Heralds of the Imperium'un en tanınmış figürü — Imperium'un en büyük muharip kahramanlarından biri olarak kayda geçti; gerçekte o, dehasını sahadan kaçmakta kullanan ama kaçmaya çalıştıkça kahramanlığa itilen, ferro-grotesk bir anti-kahraman. Amberley Vail'in (Inquisitor) kişisel arşivinden derlenen romanlar onu büyük korkaklığın içindeki büyük cesaretin paradoksu olarak resmeder.
 
-Ne var ki kader, onu sürekli en ölümcül durumların ortasına atma alışkanlığındadır; ve şans (kendini koruma içgüdüsüyle harmanlanmış olarak), onu her seferinde belanın içinden çekip çıkarır ve en yüksek kahramanlık kürsülerinin üzerine taşır. Kendince en güvenli yolu seçtiğini sanırken, o seçim çoğu zaman onu efsanevi bir zaferin tam ortasına sürükler; gerçek korkaklığı, dışarıdan kusursuz bir cesaret gibi görünür.
+## Sicil
+Cain'in kaydı Valhalla 597.'de başlar: Ork, Tyranid, Genestealer, Chaos, hatta Necron'a karşı ünlü operasyonlar. Jurgen — onun 'sade' ama ölümcül sadık yardımcısı, blanks (psişik-boş) yeteneğiyle Warp saldırılarını bozar — Cain'in başarısının sessiz ortağıdır. Cain'in şanssızlığı şan yaratır: ne zaman kaçmaya çalışsa tarihi bir zafer kazanır.
+
+## Kaynaklar
+-# Kaynaklar: *Ciaphas Cain* serisi — Sandy Mitchell (Defender of the Imperium vb.); *The Emperor's Finest*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

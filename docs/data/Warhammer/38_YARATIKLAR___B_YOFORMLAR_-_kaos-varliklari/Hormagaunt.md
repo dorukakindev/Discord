@@ -13,10 +13,8 @@ Güçlü arka bacaklarıyla sıçrayarak ilerleyen, önkollarındaki orak pençe
 - **Önemli Olaylar:** Tek bir Hormagaunt sürüsüne bağlanan öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok. Organizmaya bireysel kişilik atfetmek kanonla uyumlu değildir.
 
-## Tarihçe
+## Böcek
+Hormagaunt — Tyranid'in 'taze' birimidir; 'Scything Talons' ile 'yakın dövüş' uzmanıdır ve 'sürü' halinde hareket eder. 'Horma' adı 'saldırı' demektir — onlar için mesafe 'yemek zamanı' demektir. Hive Fleet'in 'ilk' gelenleridir — 'pencerelerden' düşerler.
 
-Hormagaunt, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır; bir Tyranid ordusunun en küçük yakın dövüş birliği olan ve onun en yaygın savaşlarını yapan Hormagaunt, Tyranid'in en küçük ve en yaygın varlığıdır — onlar, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır. Hormagaunt'ın en büyük özelliği, onun yaygınlığıdır — onlar, bir Tyranid ordusunun en küçük ve en yaygın yakın dövüş birliğidir ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Hormagaunt, hem bir yaratık hem de bir askerdir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Hormagaunt'ın en ünlü özelliği, onun küçüklüğüdür — onlar, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Hormagaunt, Tyranid'in en küçük ve en yaygın yakın dövüş yaratığıdır — onlar, bir askerin ve Tyranid'in en büyük gücünün somut halidir.
-
-## Teknik / Biyolojik Özellikler
-
-Scything talon'lar, sıçramaya uyarla
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; Lexicanum

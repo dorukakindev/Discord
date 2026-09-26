@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a6/IronWarriorsHonsou.jpg/revision/latest?cb=20110915043500
-
 -# THE IMPERIAL ARCHIVE
 # Honsou
 

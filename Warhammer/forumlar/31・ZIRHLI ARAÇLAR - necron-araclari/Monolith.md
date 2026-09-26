@@ -13,13 +13,11 @@ Kara, piramidal ve sessiz bir kütle olarak savaş alanına süzülen Monolith, 
 - **Önemli Olaylar:** Necron uyanışı sonrası çatışmalar; tek bir Monolith'e bağlanmış öne çıkan olay kaynaklarda yoktur.
 - **Kanon Notu:** Eternity gate'in bağlandığı noktalar ve teknik işleyişi yayımlanmış kanonda ayrıntılandırılmamıştır.
 
-## Tarihçe
+## Yaşayan Kale
+Monolith — Necron'un en ikonik savaş makinesidir; devasa 'piramit' şeklinde yüzen kale, hem zırhlı taşıyıcı hem de 'gauss flux arc' silahıdır. 'Eternity Gate' (içindeki teleport ağı) sayesinde Necron piyadesi doğrudan sahadan belirebilir. Bir Monolith'in inişi savaşın 'dönüş' anıdır — Imperium'un kayıtlarında 'yüzen ölüm' olarak geçer.
 
-Monolith, Necron'ların en büyük ve en tehlikeli savaş makineleridir — dev bir yüzen kale ve teleportasyon platformudur. Monolith, Necron'ların en büyük ve en tehlikeli savaş makineleridir; bu makine, Necron'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Monolith, Necron'ların en büyük ve en tehlikeli savaş makineleridir; bu makine, Necron'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
-
-## Teknik / Biyolojik Özellikler
-
-Kendini onaran living metal gövde, gauss silahları, ağır bir parçacık silahı ve eternity gate. Necron teknolojisi insan kavrayışının ötesinde anlatılır; işleyişi ayrıntılı biçimde açıklanmaz.
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; Lexicanum
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 

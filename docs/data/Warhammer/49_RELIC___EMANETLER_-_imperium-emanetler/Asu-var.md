@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c8/Harlequins_vs_TS.jpg/revision/latest?cb=20170405030256
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # Asu-var
 

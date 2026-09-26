@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/28/Aoife_Armengarde.jpg/revision/latest?cb=20130314020943
-
 -# THE IMPERIAL ARCHIVE
 # Rogue Traders
 

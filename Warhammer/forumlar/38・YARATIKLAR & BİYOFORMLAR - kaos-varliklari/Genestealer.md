@@ -14,6 +14,8 @@ Dört kollu, pençeleri ceramite'ı yarabilen, olağanüstü hızlı ve sinsi bi
 - **Önemli Olaylar:** Space Hulk savaşları, özellikle Blood Angels'ın Sin of Damnation'daki çarpışmaları.
 - **Kanon Notu:** Erken yayınlarda Genestealer'lar Tyranid'lerden ayrı bir tehdit olarak sunulmuştu; sonraki yayınlar onları Hive Fleet'lerin öncüsü olarak çerçeveledi.
 
-## Tarihçe
+## İlk Tohum
+Genestealer — Tyranid'in en sinsi ve en tehlikeli bioformudur; sızma ve bulaşma uzmanı. Dört kollu, hızlı ve ölümcüldür — tek başına bir Terminator'u bile yırtabilir. Asıl gücü 'Genestealer Cult'ların tohumu olmasıdır: bir öpücükle kurbanı 'infected' yapar ve torunları Patriarch'ın ordusunu oluşturur.
 
-Genestealer, Tyranid'in en gizli ve en sinsi yaratığıdır; bir gezegenin nüfusunu ele geçiren ve onları Genestealer Cults'a dönüştüren en sinsi organizma olan Genestealer, Tyranid'in en gizli ve en sinsi silahıdır — onlar, Tyranid'in en gizli ve en sinsi yaratığıdır. Genestealer'ın en büyük özelliği, onun sinsiliğidir — onlar, bir gezegenin nüfusunu ele geçiren ve onları kült'e dönüştüren en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Genestealer, hem bir organizma hem de bir istilacıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Genestealer'ın en ünlü özelliği, onun kült yaratmasıdır — onlar, bir gezegenin nüfus
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; *Codex: Genestealer Cults*; *Space Hulk*; Lexicanum

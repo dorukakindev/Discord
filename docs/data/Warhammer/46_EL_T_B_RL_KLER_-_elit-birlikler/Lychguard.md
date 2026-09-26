@@ -14,9 +14,11 @@ Lychguard, Phaeron'ların, Overlord'ların ve Lord'ların yakın korumalarıdır
 - **Önemli Olaylar:** Biotransference; Great Sleep'ten uyanış.
 - **Kanon Notu:** Lychguard'ın koruduğu kişilik ve bilinç düzeyi kaynaklarda bireyden bireye değişebilir; kesin bir ölçü verilmez.
 
-## Tarihçe
+## Kalkan
+Lychguard — Necron Overlord'unun 'kişisel muhafız'ıdır; elit savaşçı, Hyperphase Sword ve Dispersion Shield taşır. 'Beyaz' zırhlarıyla tanınırlar — Dynasty'nin en sadık birimidir. Bir Lychguard için 'koruma' her şeydir — efendisini kendi bedeniyle savunur.
 
-Lychguard, Necron lordlarının kişisel muhafızlarıdır; sıradan Necron savaşçılardan daha güçlü, daha zeki ve daha dayanıklı bedenlerde yaşayan ve Triarch Praetorian'ların altındaki en yüksek savaş rütbesini taşıyan elit birimdir. Lychguard'lar dispersion shield ve warscythe taşır — shield'ları energy reflector özelliğine sahiptir ve düşmanın ateşini geri yansıtır; warscythe ise hem yakın dövüş silahı hem de statü sembolüdür. Görevleri basit ve mutlaktır: Necron lordunu korumak; bir Lychguard manga'sı, lordunun etrafında duvar gibi durur ve düşmanın en güçlü saldırısını bile durdurur. Lychguard'lar, Biotransference'de daha iyi bedenler aldıkları için hâlâ kişilik ve sadakat duygusu taşırlar — onların sadakati mekanik değil, gönüllüdür ve bu yüzden Necron'un en güvenilir savaşçılarıdırlar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; Lexicanum
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*; *The Twice-Dead King: Ruin — Nate Crowley*
 

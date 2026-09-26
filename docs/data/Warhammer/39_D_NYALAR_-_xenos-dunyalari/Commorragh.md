@@ -10,8 +10,13 @@ Commorragh, "Karanlık Şehir" (the Dark City), Drukhari'nin (Dark Eldar) başke
 
 Commorragh'ın varlık nedeni, hayatta kalmaktır. Aeldari'nin Düşüşü'nden sonra, Slaanesh tüm Aeldari ruhlarını yutmaya açtır; ama bu gizli şehirde, Slaanesh'in pençeleri Drukhari'ye ulaşamaz. Bunun karşılığında Drukhari, ruhlarının yavaşça sönmesini engellemek için başka varlıkların acısını ve korkusunu emmek zorundadır; bu yüzden galaksiye sürekli akınlar düzenleyip esir, kurban ve acı getirirler.
 
-## Tarihçe
+## Karanlık Şehir
+Commorragh — 'Dark City' — Webway'in içindeki devasa Drukhari metropolisidir; tek bir gezegen değil, birbirine bağlı limanlar, arena bölgeleri ve kale labirentlerinden oluşan boyutlar arası şehir. Slaanesh'in doğuşundan kaçan antik Eldar'ın karanlık kolu burada yaşar; güneşsiz, ruh-çürüten bir 'sonsuz gece' şehridir.
 
-Commorragh, Drukhari'nin (Dark Eldar'ın) ana dünyası ve Webway'deki en büyük şehridir — karanlık ve acımasız bir metropoldür. Commorragh, Webway'in içinde bulunan devasa bir şehir-devletidir; burada Drukhari, esirleri ve köleleriyle birlikte yaşar ve diğer dünyalara baskınlar düzenler. Şehir, sürekli iktidar mücadeleleri ve kabal'lar arası savaşlarla bilinir; Commorragh'ta hayatta kalmak, sürekli şiddet ve entrika gerektirir. Şehir, Drukhari'nin acımasızlığının ve Webway'in karanlık tarafının simgesi olarak kalır — Commorragh, galaksinin en tehlikeli yerlerinden biridir.
+## Yapı
+Commorragh Kabals, Wych Cults ve Haemonculus Covens'ın üçlü dengesiyle işler; Vect'in Kabal of the Black Heart en üsttedir. Şehrin en derin katmanlarında 'maiden worlds'e açılan portallar ve 'null' bölgeler bulunur. Canon'da Commorragh 'başka hiçbir yerde var olamayan' toplumdur — suç, sanat ve siyaset aynı şeydir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; *Path of the Dark Eldar* serisi; *The Dark City*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

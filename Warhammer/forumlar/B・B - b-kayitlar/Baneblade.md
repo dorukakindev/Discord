@@ -10,12 +10,14 @@ Astra Militarum'un en büyük üretim süper-ağır tankı. On bir silah yuvası
 - **Dönem:** M30'lardan beri hizmette
 - **Köken:** İmparatorluk Dökümhaneleri
 
-## Tarihçe
+## Zırhlı Tanrı
+Baneblade — 'Astra Militarum'un en büyük tankı — Imperium'un en ikonik süper ağır zırhlısıdır; ~11 metre uzunluğunda, üç taret ve dokuz silah sistemiyle 'tek tank ordu' olarak bilinir. Shadowsword, Stormsword, Banesword varyantlarıyla meşhurdur; her birinin kendi rolü vardır (Shadowsword Titan avcısı).
 
-Baneblade, İmparatorluk'un en büyük ve en güçlü savaş tankıdır — süper-ağır tank sınıfının en ünlü örneğidir. Baneblade, İmparatorluk'un en büyük ve en güçlü savaş makinelerinden biridir; bu tank, İmparatorluk'un en önemli ve en güçlü savaş makineleridir. Baneblade, İmparatorluk'un en büyük ve en güçlü savaş tankıdır; bu tank, İmparatorluk'un en önemli ve en güçlü savaş makinelerinden biridir.
+## Kültür
+Baneblade'in önemi Imperium'un 'ağır zırh' doktrininin simgesidir — Macharius'un süvari tanklarıyla aynı gelenekten gelir. 'Stormhammer' ve 'Hellhammer' varyantları da vardır; her biri kendi savaş alanını tanımlar.
 
-## Özellikler
-Ana Baneblade topu, koaksiyel otomatik top, iki yan sponson grubu (lascannon + ağır bolter) ve Demolisher topu taşıyabilir. 10 kişilik mürettebat, ~300 ton ağırlık.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Imperial Armour*; *Baneblade* — Guy Haley; Lexicanum
 
 -# Kaynaklar: Codex: Astra Militarum
 

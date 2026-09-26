@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/2/27/Butchers-Nails.jpg/revision/latest?cb=20120405045726
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Butcher's Nails (Audio Drama)
 

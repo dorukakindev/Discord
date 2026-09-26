@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/9b/XV104_Riptide_Battles
 
 Tau'nun ağır savaş zırhı; Crisis battlesuit'in çok daha büyük, nova-reaktörlü hali.
 
-## Tarihçe
-Riptide, Tau İmparatorluğu'nun ağır battlesuit'idir (savaş zırhı); Tau'nun standart Crisis battlesuit'inin çok daha büyük, daha güçlü ve teknolojik olarak daha gelişmiş halidir. Tau mühendislik gururunun ve teknolojik üstünlüğünün somut bir simgesidir.
+## Tsunami
+Riptide — T'au'nun 'XV104 Riptide Battlesuit'idir; en büyük battlesuit'lerden biri ve 'Ion Accelerator' ile 'süper ağır' sınıfındadır. 'Nova Reactor' teknolojisiyle taşır — T'au'nun 'teknoloji üstünlüğü'nün gövdesidir. Bir Riptide 'tek başına bir ordu' gibi davranır — hareketli, hızlı ve her yönden ateş.
 
-Riptide, ağır ateş gücü ile hareketliliği dengeli biçimde birleştirir; Ion Accelerator (yüksek enerjili iyon topu) ya da Heavy Burst Cannon (gatling) ile uzaktan ağır darbeler indirir, twin smart missile ya da fusion blaster ile destek alır. Bir battlesuit olarak, bir tanktan daha çevik ama bir tank kadar güçlüdür.
+## Kaynaklar
+-# Kaynaklar: *Codex: T'au Empire*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

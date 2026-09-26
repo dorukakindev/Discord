@@ -13,10 +13,14 @@ Ulthwé'nin kadim Farseer'ı Eldrad, geleceğin sayısız ipliğini okuyup onlar
 - **Bilinen Kullanıcılar / Operatörler:** Ulthwé Seer Council'ı ve ordusu; sonradan Ynnari.
 - **Önemli Olaylar:** Andante IV; Ynnead'i uyandırma girişimleri; Ynnari'nin kuruluşu.
 
-## Tarihçe
+## Ulthwé'nin Seer'i
+Eldrad Ulthran, Craftworld Ulthwé'nin en büyük Farseer'i ve tüm Aeldari ırkının en güçlü yaşayan kahinidir. On bin yılı aşkın yaşamında ırkının kaderini tek başına şekillendirmeye çalışan figür — 'Farseer'ların atası' sayılır. Eldrad'ın kehanetleri hem doğrudur hem korkutucudur: geleceği görmek onu sertleştirmiştir.
 
-Eldrad Ulthran, Aeldari'nin en güçlü ve en efsanevi figürlerinden biridir — Ulthwe'nin en güçlü Farseer'ı ve Aeldari'nin en önemli figürüdür. Eldrad, Aeldari'nin en güçlü ve en efsanevi figürüdür; onun psyker güçleri ve kehanetleri, Aeldari'nin en önemli ve en güçlü güçlerinden biridir. Eldrad, İmparatorluk'un en önemli olaylarını öngördü ve Aeldari'nin hayatta kalmasının en kritik figürü oldu; onun rehberliği, Aeldari'nin en önemli ve en gizli kararlarının kaynağıdır. Eldrad Ulthran, Aeldari'nin en güçlü ve en efsanevi figürü olarak kalır — onun kehanetleri, Aeldari'nin en önemli ve en gizli kararlarının kaynağıdır.
+## İnsanlıkla İlişkisi
+Aeldari'nin insanlık karşısındaki en karmaşık figürüdür. Büyük Haç sırasında Emperor'la görüşmeye çalıştı (iki medeniyetin uzlaşması için); Horus Heresy'yi öngörüp Fulgrim'i uyardı ama konuşma ihanet suçlamasıyla kesildi. Sonrasında Imperium'a hem düşman hem dolaylı müttefik oldu: Ghazghkull'un Armageddon'a inişini öngördü ve insanlığı uyardı (uyarı değerlendirilmedi); 13. Kara Sefer'de Ynnari'nin doğumunu destekledi.
 
-## Kanon Notu
+## Crystal Seer ve Rhana Dandra
+Eldrad'ın bedeni artık kısmen kristalleşmiştir — Farseer'ların yaşlılıkta geçirdiği doğal süreç. Ynnead'ın uyandırılması ritüelinde rol oynadı; Büyük Yarık sonrası Rhana Dandra (son savaş) kehanetinin peşinde koşar. Warhammer mitolojisinde 'kaderi gören ama değiştiremeyen' trajik figürünün en güçlü örneğidir.
 
-3rd Edition'ın Eye of Terror campaign'i Eldrad'ın 13th Black Crusade'de ruhunun yutulduğunu anlatırken,
+## Kaynaklar
+-# Kaynaklar: *Eldrad Ulthran* (The Path of the Seer serisi) — Gav Thorpe; *The Fall of Cadia*; *Codex: Craftworlds*; *Death Masque*; Lexicanum

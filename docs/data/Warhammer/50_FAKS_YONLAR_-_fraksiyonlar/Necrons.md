@@ -14,6 +14,14 @@ Galaksinin insanlıktan milyonlarca yıl önceki efendileri. Etten metale geçi�
 - **Önemli Olaylar:** War in Heaven; biotransference; Great Sleep; Silent King'in dönüşü; Pariah Nexus.
 - **Kanon Notu:** 5th Edition Codex'iyle (2011) Necron'ların kişilikleri ve kökenleri büyük ölçüde yeniden çerçevelendi; eski "ruhsuz ölüm makinesi" anlatısı güncel değildir.
 
-## Tarihçe
+## Ölümsüz Tahtlar
+Necron'lar — eski adıyla Necrontyr — altmış milyon yıl önce galaksiyi yöneten ilk büyük uygarlıktır; C'tan tarafından verilen 'biotransference'la metal bedenlere aktarılmış, yaşamını bedenden kurtarmış ama ruhunu kaybetmiş bir ırk. Silent King Szarekh'in önderliğinde Old Ones'ı devirdiler, sonra da C'tan'ları parçalayıp esir ettiler; Büyük Uyku'ya (Great Sleep) girip dinazorların gelişini beklediler.
 
-Necrons, WH40K evreninin en eski ve en tehlikeli xeno ırkıdır; altmış milyon yıl önce yıldız tanrılarına (C'tan) hizmet etmek için bedenlerini metal yapıya çeviren ve şimdi uyandıklarında tüm yaşamı yok etmek isteyen mekanik bir ırktır — onlar, İmparatorluğun en eski ve en kaçınılmaz düşmanıdır. Necrons'un en büyük özelliği, onların ölümsüzlüğüdür — onlar, bir Necron öldürülse bile, onun bedeni kendi kendini tamir eder ve geri döner; bir Necron ordusu, sadece yok edilemez, aynı zamanda geri döner ve onların savaşı, hem fiziksel hem de zamansal bir mücadeledir. Necrons'un en korkulan yönü, onların C'tan'larıdır — onlar, yıldız tanrılarıdır ve onların gücü
+## Dynasty'ler
+Her Necron tomb world'ü bir dynasty'ye bağlıdır: Sautekh (Imotekh'in, en güçlüsü), Mephrit, Nihilakh, Novokh, Szarekhan. Teknolojileri Imperium'un çok üstündedir — Gauss silahları maddeyi katman katman soyar, Monolith'ler teleport eder, Cryptek'ler zaman/uzay manipülasyonu yapar. Ama her Necron'un bedeni metal, zihni eski; çoğu asker programlanmış, üst kademeler (Overlord, Phaeron) kendi kişiliğini korur — ve Zahndrekh gibi çılgınlaşanlar da vardır.
+
+## Dönüş
+Necron'ların uyanışı 8. edisyon sonrası canon'un merkezi: Silent King geri döndü, Pariah Nexus ile Imperium'un Warp erişimini kesmeye çalışıyor ve asıl amacı Biotransference'ı geri almak — tekrar et bedene dönmek. Necron'ları 'iyiye' veya 'kötüye' ayırmak yanlıştır: insanlık onlara yemdir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; *The Infinite and the Divine* — Robert Rath; *The Twice-Dead King* serisi — Nate Crowley; *Pariah Nexus*; Lexicanum

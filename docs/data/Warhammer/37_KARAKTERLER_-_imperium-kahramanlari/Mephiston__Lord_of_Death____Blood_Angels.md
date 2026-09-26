@@ -14,6 +14,11 @@ Blood Angels'ın Chief Librarian'ı. Black Rage'e teslim olmak yerine onu yenere
 - **Önemli Olaylar:** Hades Hive'daki yeniden doğuş; Devastation of Baal; Rubicon Primaris.
 - **Kanon Notu:** Mephiston'un Black Rage'i gerçekten "yendiği" mi yoksa bastırdığı mı, kaynaklarda kasıtlı olarak açık bırakılır.
 
-## Tarihçe
+## Ölüm'ün Oğlu
+Mephiston — doğum adı Calistarius — Blood Angels'ın Chief Librarian'ı ve Black Rage'i kişisel olarak yenmiş tek Space Marine'dir; 'Lord of Death' unvanını taşır. Konce Mayor'un bağırsaklarında gömülüyken Black Rage'e kapıldı, yedi gün sonra ondan kurtulan ilk Blood Angel olarak çıktı — bu onu hem lejyona dair en büyük umut hem de en derin korku yaptı: eğer Mephiston kurtulabiliyorsa, neden başkaları değil?
 
-Mephiston, Blood Angels'ın Chief Librarian'ı ve İmparatorluk'un en güçlü psyker'larından biridir — Lord of Death olarak bilinen ve Kara Öfke'yi yenmiş tek kişidir. Mephiston, Kara Öfke'nin lanetine kapılan ilk ve tek Blood Angel'dır; bu lanet, Sanguinius'un ölümünün yarattığı genetik travmadır ve Mephiston, bu laneti yenerek İmparatorluk'un en güçlü psyker'ı haline geldi. Mephiston, Blood Angels'ın en güçlü ve en tehlikeli figürüdür; onun psyker gücü, İmparatorluk'un en önemli silahlarından biridir. Mephiston, Blood Angels'ın en güçlü ve en efsanevi figürü olarak kalır — onun hikâyesi, İmparatorluk'un en büyük psyker hikâyelerinden biridir.
+## Psişik Derinlik
+Mephiston'un gücü Warp'ten beslenir ama onun özel yeteneği ölümü ve Black Rage'i manipüle etmesidir — diğer Librarian'ların aksine o 'ölümün içinden' konuşur. *Mephiston* romanları onu Blood Angels'ın en karanlık kahramanı yapar: kurtuluşu mümkün kılan ama insanlıktan çıkartan adam.
+
+## Kaynaklar
+-# Kaynaklar: *Mephiston: Blood of Sanguinius* serisi — Darius Hinks; *Codex: Blood Angels*; *The Devastation of Baal*; Lexicanum

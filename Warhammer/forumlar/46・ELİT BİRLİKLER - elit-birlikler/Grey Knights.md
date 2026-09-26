@@ -1,31 +1,10 @@
 https://static.wikia.nocookie.net/warhammer40k/images/1/15/GK_Shoulder_Pauldron.jpg/revision/latest?cb=20161118015332
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+## 666. Chapter
+Grey Knights, İmparatorluk'un en gizli Space Marine chapter'ıdır — Titan ayında hapsedilmiş, tüm üyeleri psyker, tek görevi daemon tehdidi olan seçkin güç. Ordo Malleus'un askeri kolu olarak çalışır; varlıkları bile çoğu Imperium kaydında 'konuşulmaz' olarak geçer — bilenlerin çoğu da ya Inquisitor ya da ölümcül bir savaşın tanığıdır.
 
-# Grey Knights — Gri Şövalyeler, İblis Avcısı Kardeşlik
+## Aegis Zırhı ve Nemesis Silahları
+Grey Knight'ın Aegis zırhı Warp saldırılarına karşı korur; Nemesis Force Weapons (force halberd, sword) saf safir kristal çekirdekli anti-daemon silahlarıdır. Brotherhood sistemiyle örgütlenirler; Grand Master'lar (örn. Kaldor Draigo — Warp'te sıkışıp kalmış, daemonların kâbusu haline gelmiş efsane) en bilinen figürlerdir. Ghargatuloth'u süren üç Grand Master Grey Knight'ın en büyük fedakarlığıydı.
 
-Chaos iblislerine karşı savaşmak için kurulmuş, gizli ve lekesiz Space Marine Chapter'ı; her savaşçısı güçlü bir psyker olan, varlığı bile sır olarak saklanan kutsal kardeşlik.
-
-- **Bağlılık:** Ordo Malleus
-- **Rol:** İblis Avcısı
-- **Kanon Sınıfı:** A — resmî kaynak
-
-## Kayıt
-
-Grey Knights (Gri Şövalyeler), Warhammer 40.000 evreninin en gizli, en saf ve en korkunç Space Marine Chapter'ıdır; tek bir amaç için var edilmişlerdir: Chaos'un iblislerine karşı savaşmak. İmparatorluk'un sayısız tehdidi vardır, ama bunların en korkuncu, Warp'tan sızan ve insan ruhunu hedef alan iblislerdir. İşte Grey Knights, bu kâbusa karşı insanlığın en keskin kalkanı ve en parlak kılıcıdır. Onlar, Daemonhunters, yani İblis Avcıları olarak bilinir.
-
-Onları diğer tüm Space Marine'lerden ayıran en önemli özellik, her bir şövalyenin doğuştan güçlü bir psyker olmasıdır. Sıradan bir Chapter'da psyker'lar nadirdir; ama Grey Knights'ın her üyesi, iradesini bir silaha çevirebilen, Warp'ın gücünü iblislere karşı kullanabilen güçlü bir zihindir. Kutsal Nemesis Force Weapon'larıyla (iblisleri yok edebilen ruhsal silahlar) donanmış, gümüş zırhlı bu şövalyeler, iblislerin en büyük korkusudur; çünkü onlar, iblisleri yalnızca öldürmekle kalmaz, onların özünü Warp'a geri sürebilir.
-
-Grey Knights'ı eşsiz kılan bir başka şey, lekesizlikleridir. On bin yıllık tarihleri boyunca, tek bir Grey Knight bile Chaos'a boyun eğmemiştir; onların ruhu o kadar saf, iradeleri o kadar çeliktir ki, en baştan çıkarıcı iblis bile onları yozlaştıramamıştır. Bu saflık, gizli ve acımasız ayinlerle korunur. Onlar Titan adlı kutsal aylarında, galaksinin gözünden uzakta eğitilir; yeni şövalyeler, en güçlü ve en saf adaylardan, çoğu zaman korkunç bir bedel karşılığında seçilir.
-
-Varlıkları, İmparatorluk'un büyük çoğunluğundan bir sır olarak gizlenir. Sıradan bir vatandaş, hatta çoğu asker, Grey Knights'ın var olduğunu bile bilmez; çünkü iblislerin gerçekliği o kadar tehlikeli bir bilgidir ki, onunla savaşanların varlığı da gizli kalmalıdır. Grey Knights, gizli ve dehşet verici Engizisyon kolu Ordo Malleus'a hizmet eder; bir savaştan sonra, çoğu zaman tanıkları bile susturulur. Grey Knights, insanlığın en karanlık savaşını veren sessiz kahramanlardır; gümüş zırhları içinde, iblislere karşı sonsuz ve gizli bir nöbet tutan, lekesiz ve yenilmez kutsal şövalyelerdir.
-
-## Ayırt Edici Özellikler
-
-- Yalnızca Chaos iblisleriyle savaşmak için kurulmuş Space Marine Chapter'ı
-- Her bir şövalye doğuştan güçlü bir psyker'dır
-- Lekesiz ve saf kalmış; Chaos'a hiç boyun eğmemiştir
-- Ordo Malleus'a (iblis avcısı Engizisyon kolu) hizmet eder
-- Varlıkları İmparatorluk'un büyük çoğunluğundan gizli tutulur
-
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kaynaklar
+-# Kaynaklar: *Codex: Grey Knights*; *The Emperor's Gift* — Aaron Dembski-Bowden; *Grey Knights* serisi — Ben Counter; Lexicanum

@@ -10,11 +10,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/50/EmperorsWisdom.jpg/re
 - **Dönem:** İnsanlık kadar eski
 - **Köken:** Dünya (Terra)
 
-## Tarihçe
-Perpetual'lar ya doğaüstü yolla ya da doğuştan ortaya çıkar; ölümleri geçicidir, bedenleri yeniden oluşur. İmparator'un Terra'yı fethetmesinden önce de var olmuşlardır; Ollanius Piers sonunda Horus'a karşı durup gerçek ölümünü yaşadı.
+## Ölümsüz
+Perpetual — 'Undying' — Imperium'un 'ölümsüz insan' figürüdür; İmparator, Malcador ve Vulkan bilinen örneklerdir. Perpetual'lar 'her yaradan iyileşir' — ama bu hediye değil lanettir çünkü her şeyi 'izlerler'. Canon'da Perpetual'lar 'insanlığın gizli tarihi'nin figürleridir — Heresy'nin 'arka planı'da onların savaşıydı.
 
-## Özellikler
-Yeniden doğuş, çağlar boyu bilgi birikimi; tek kalıcı ölüm yolu Fulgurite/Anathame gibi özel artefaktlardır.
+## Kaynaklar
+-# Kaynaklar: *The Cabal* lore; *Saturnine*; *The End and the Death*; Lexicanum
 
 -# Kaynaklar: Horus Heresy: Saturnine, War of the Webway
 

@@ -14,6 +14,14 @@ Eski adıyla Imperial Guard. Imperium'un sayısız dünyasından tithe ile topla
 - **Önemli Olaylar:** Heresy sonrası yeniden yapılanma; Armageddon savaşları; Fall of Cadia.
 - **Kanon Notu:** Alay ve asker sayıları kaynaklarda kesin verilmez.
 
-## Tarihçe
+## İmparator'un Hamlesi
+Astra Militarum — eski adı Imperial Guard — Imperium'un insan ordusunun toplu adıdır; Space Marine'lerin kılıcıysa bu da çekicidir: milyonlarca asker, tank bölükleri ve topçu ile dünyaları alan ana kuvvet. Tek başına Guardsman kırılgan ama Imperium'un savaşlarını asıl Astra Militarum kazanır; Space Marine her savaşa yetişemez.
 
-Astra Militarum (Imperial Guard), İmparatorluğun en büyük ve en kalabalık askeri gücüdür; milyarlarca askerden oluşan ve İmparatorluğun her köşesinde savaşan insan ordusudur — onlar, İmparatorluğun omurgası ve en büyük fedakarlığıdır. Astra Militarum'un en büyük özelliği, onların sayısıdır — onlar, trilyonlarca askerden oluşur ve onların orduları, bir gezegenin nüfusunu bile aşabilir; bir Astra Militarum alayı, bir Space Marine Chapter'ından daha büyük olabilir ve onların savaşı, hem sayıca hem de fedakarlıkça büyüktür. Astra Militarum'un en ünlü özelliği, onların çeşitliliğidir — onlar, Cadian Shock Troops'tan Death Korps of Krieg'e kadar her türlü askeri birliği içerir; bir Astra Militarum alayı, hem bir düzenli ordu hem de bir fanatik tarikatıdır ve onları
+## Alaylar
+Kale dünyalarından çıkan alaylar kendi kültürünü taşır: Cadian Shock Troops (disiplinli, 'Cadia stands'), Catachan Jungle Fighters (vahşi), Death Korps of Krieg (ölüm kültü, kuşatma uzmanı), Mordian Iron Guard (parlak disiplin), Valhallan Ice Warriors, Vostroyan Firstborn. Her alay kendi komutanını, üniformasını ve doktrinini getirir; Imperium'un en çeşitli ordusudur.
+
+## Savaş Doktrini
+Astra Militarum'un stratejisi insan dalgası değil, zırh ve ateş gücüdür: Leman Russ tankları, Basilisk/Eartshaker topçusu, Chimera nakliyesi, Baneblade süper ağırları. Komutan yapısı Lord Commander'lar ve Colonel'lara dayanır; Ursakar Creed (Cadia) ve Sebastian Yarrick (Armageddon) en ünlü komutanlarıdır. Astra Militarum'un hikâyesi Imperium'un bedelidir — kahramanlık değil, sayıyla yazılan tarih.
+
+## Kaynaklar
+-# Kaynaklar: *Gaunt's Ghosts* serisi — Dan Abnett; *Cadia Stands* — Justin Hill; *Codex: Astra Militarum*; *Imperial Armour* (Forge World); Lexicanum

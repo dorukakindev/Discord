@@ -14,6 +14,11 @@ Imperial tarihinde Great Crusade'den sonraki en büyük fetih seferlerinden biri
 - **Önemli Olaylar:** Seferin durduğu sınır; Macharius'un ölümü; Macharian Heresy.
 - **Kanon Notu:** Fethedilen dünya sayısı evren içi Imperial kayıtlara dayanır. Macharian Heresy'nin süresi ve seyri kaynaklarda ayrıntılı verilmez.
 
-## Tarihçe
+## Lord Solar'ın Yolu
+Macharian Crusade (392-399.M41), Lord Commander Solar Macharius'un Imperium'un batı ucundaki binlerce dünyayı yeniden fethettiği sefer; İmparatorluk tarihinin en 'klasik' kahramanlık destanıdır. Macharius Imperium'un yaşayan en büyük komutanı olarak görülür — Astronomican ışığının sınırına ulaşana kadar ilerledi, sonra durdu çünkü ordusu 'daha ileri' diyemedi.
 
-Macharian Crusade, İmparatorluğun en büyük ve en onurlu seferidir; Lord Solar Macharius'un — İmparatorluğun en büyük generali — İmparatorluğun en büyük fetih hareketini başlattığı ve onun ölümüyle sonuçlanan en büyük savaştır — onlar, İmparatorluğun en büyük zaferinin ve en büyük kaybının somut halidir. Macharian Crusade'in en büyük özelliği, onun boyutudur — onlar, İmparatorluğun en büyük fetih hareketidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Macharian Crusade, bir generalin en büyük zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Macharian Crusade'in en ünlü özelliği, onun Macharius'un ölümüdür — onlar, bir generalin en büyük zaferinin ve en büyük kaybının anıdır ve onlar
+## Bedel
+Macharius'un zaferleri gerçekti ama sonu trajiktir: ordusu sınırda isyan etti, geri dönüş yolunda orduları birbirine kırdı, Macharius öldü veya kayboldu (kaynaklar farklıdır). Lord Solar unvanı sonradan gerçekten hiçbir komutana verilmedi — Macharius 'son' oldu. Crusade'in açtığı dünyalar çoğunda kısa sürede karıştı; 'Macharian Heresy' olarak bilinir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Macharius* kısa hikâyeleri; *Imperial Armour*; Lexicanum

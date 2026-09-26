@@ -10,11 +10,11 @@ Et maskeli Necron'lar — derilerini insanlardan kesip üstlerine giyen, yaşaya
 - **Dönem:** Biyoyakıt korkusu
 - **Köken:** Necron mezar dünyaları
 
-## Tarihçe
-Flayed Ones, Necron uyanışının 'yan etkisi' gibi görülür: kendilerini hâlâ canlı sanan, etin özlemini çeken delirmiş necrontyr kalıntıları. Kurbanlarının derisini yüzer ve üstlerine giyerler; et onların 'ben hâlâ yaşıyorum' yanılgısıdır. Cryptek'ler bile onları 'temiz' göremez — ruhsal hastalık mekaniktir.
+## Derili
+Flayed Ones — Necron'un en korkunç varyantıdır; 'Flayer Virus' denen yazılım bozukluğu onlara 'et giyme' dürtüsü verir — düşmanlarının derisini yüzler ve kendi metal bedenlerine giyerler. 'Derili Necron' canon'un en ürkütücü figürlerindendir — onlar için yaşam 'ısırılacak şey'dir.
 
-## Özellikler
-Keskin flensing claws (el-deri yüzme), teleport yoluyla sürü olarak gelme, çıldırmış mekanik psikoloji; Necron'un 'kaybedilmiş ruh' trajedisi.
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; Lexicanum
 
 -# Kaynaklar: Codex: Necrons
 

@@ -1,58 +1,43 @@
--# THE IMPERIAL ARCHIVE
+https://static.wikia.nocookie.net/warhammer40k/images/a/ab/Primarchs_Perturabo_coverart.png/revision/latest?cb=20161119114321
+
+-# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Perturabo
 
--# Kategori: Primarch / Daemon Primarch · Fraksiyon: Iron Warriors · Dönem: Great Crusade – Era Indomitus · Bağlılık: Chaos (pragmatik)
+*Lord of Iron · The Breaker · Iron Warriors'ın Daemon Primarch'ı*
 
-## Tanım ve Genel Çerçeve
-Perturabo, IV. Legion Iron Warriors'ın Primarch'ı, "Lord of Iron" unvanıyla anılan kuşatma ustası ve bugün Eye of Terror'daki Medrengard'da hüküm süren bir Daemon Prince'tir. Mühendislikte, matematikte, mimaride ve savaş sanatında kardeşlerinin çoğunu geride bırakan bu deha, ömrü boyunca yeteneğinin hak ettiği değeri görmediğine inandı. Heresy anlatıları onu bir canavardan çok, kendi kinini besleye besleye ruhunu kemiren trajik bir figür olarak çizer. Bu kanal Primarch'ı merkeze alır; Legion'ın kurumsal tarihi ve Warsmith'ler **kayıt** kanalındadır.
+IV Legion'ın, Iron Warriors'ın Primarch'ı. Kuşatma savaşının, tahkimatın ve mühendisliğin dehası; Great Crusade'de en nankör görevlere mahkûm edildiğine inandığı için kardeşlerine ve babasına kin besledi. Heresy'de Horus'un saflarına katıldı, Terra Kuşatması'nda Imperial Palace'ın surlarını yıkmaya çalıştı. 2026'da yayımlanan *Eye of Terror* kampanyası onu Daemon Primarch olarak yeniden sahneye çıkardı.
 
-## Kökenler: Olympia ve Lochos
-Perturabo'nun büyüdüğü **Olympia**, dağlarla bölünmüş, birbirine düşman şehir devletlerinin bitmeyen savaşlarıyla yorulmuş bir dünyaydı. Genç Primarch, **Lochos** şehrinin tiranı **Dammekos**'un himayesine girdi ve onun sarayında büyüdü. Guy Haley'nin *Perturabo: The Hammer of Olympia* romanı, bu yılları ayrıntılı biçimde işler: yıldızları, geometriyi ve sanatı tutkuyla inceleyen, fakat çevresindekilerce yalnızca bir silah olarak görülen bir çocuk.
+- **Kategori:** Primarch (hain) — Daemon Primarch
+- **Fraksiyon:** Chaos — IV Legion, Iron Warriors; Chaos Undivided
+- **Dönem:** Great Crusade → Era Indomitus
+- **Köken:** Olympia; Lochos tiranı Dammekos tarafından evlat edinildi
+- **Silahlar:** Forgebreaker çekici (Ferrus Manus'un Fulgrim'e verdiği ve Fulgrim'in Perturabo'ya hediye ettiği silah), Logos Array zırhı
+- **Durum:** Daemon Primarch; Medrengard'dan ve Eye of Terror'dan hareketle "Infinite Citadel" planını yürütür
 
-Perturabo'nun tasarladığı savaş makineleri ve tahkimatlarla Lochos, Olympia'nın rakip şehirlerini birer birer boyunduruğa aldı. Ne var ki bu fetihler ona huzur getirmedi. Haley'nin anlatısında, üvey ailesi içinde yalnızca kız kardeşi **Calliphone**'un ona gerçek bir yakınlık gösterdiği, Perturabo'nun ise insan ilişkilerinde hep yabancı ve tedirgin kaldığı vurgulanır. Olympia'yı birleştiren el, Olympia'yı sevmeyi hiçbir zaman tam olarak öğrenemedi.
+## Kökenler: Olympia
+Perturabo'nun kapsülü, dağlık ve bölük pörçük şehir-devletlerinden oluşan Olympia'ya düştü. Onu, Lochos şehrinin tiranı Dammekos buldu ve evlat edindi. Perturabo çocuk yaşta matematik, mimari, astronomi, müzik ve mühendislikte olağanüstü bir dehaya ulaştı; Lochos'un ordularını kuşatma makineleriyle donattı ve Olympia'nın şehir-devletlerini birer birer Lochos'a bağladı. Onun gözünde bu fetih bir sanat eseri değil, çözülmesi gereken bir problemdi. Olympia'daki kız kardeşi **Calliphone**, Perturabo'nun gerçek bir yakınlık kurduğu nadir insanlardandı.
 
-## Great Crusade: Takdir Görmeyen Deha
-Emperor Olympia'ya ulaştığında Perturabo, dünyasının yönetimini bırakıp IV. Legion'ın başına geçti. Legion, Primarch'ının yeteneklerine uygun biçimde kuşatma, tahkimat ve yıpratma savaşında uzmanlaştı; fakat bu uzmanlık bir laneti de beraberinde getirdi. Iron Warriors, başka Legion'ların kaçındığı kanlı kuşatmalara gönderildi, fethedilen dünyalara garnizon olarak dağıtıldı ve zaferlerinin şanı çoğu zaman başkalarına kaldı. Perturabo'nun gözünde bu, Legion'ını parça parça tüketen sistemli bir aşağılanmaydı.
+Olympia'da geçen yıllar, Perturabo'nun hayal kırıklığının da başlangıcıdır: yıldızları gözlemleyip evrenin yapısını anlamaya çalışırken hayatının savaş, siyaset ve sonsuz kuşatmalarla tükendiğini hissetti.
 
-Primarch'ın kendi oğullarına karşı sertliği de kaynaklarda açıkça yer alır. Başarısız saydığı birliklere onda bir infaz, yani decimation cezası uyguladığı anlatılır. Soğuk ve hesapçı yüzünün ardında ise şiire, felsefeye ve mimariye düşkün, Emperor'un takdirini bekleyip her fırsatta ondan mahrum kaldığına inanan bir ruh vardı.
+## Great Crusade
+Emperor Olympia'ya ulaştığında Perturabo, sonunda anlaşılacağını umarak IV Legion'ın komutasını devraldı. Oysa Legion'a verilen görevler sonsuz garnizon işleri, kuşatmalar ve dünyaları küçük parçalar hâlinde işgal etmekti. Iron Warriors birlikleri Imperium'un dört bir yanına küçük garnizonlar olarak dağıtıldı; Perturabo bunu kendi Legion'ının kasten zayıflatılması olarak gördü. Legion içindeki disiplin korkunçtu: başarısızlık ya da geri çekilme, Perturabo'nun emriyle birliklerin **decimation** (onda bir infaz) yöntemiyle cezalandırılmasına yol açabiliyordu.
 
-## Rogal Dorn ile Rekabet
-Perturabo'nun en derin kini, Imperial Fists'in Primarch'ı **Rogal Dorn**'a yönelikti. Biri surlar kuran, öteki surlar yıkan iki mühendisin rekabeti, zamanla kişisel bir düşmanlığa dönüştü. Dorn'un Imperial Fists'in her kaleyi savunabileceğine dair özgüveni ile Iron Warriors'ın her kaleyi düşürebileceği iddiası, Heresy anlatılarında sık sık karşı karşıya getirilen bir motiftir. Emperor'un Dorn'a Imperial Palace'ı tahkim etme görevini vermesi, Perturabo'nun gözünde bu rekabetin haksız biçimde sonuçlandırılmasıydı.
+Kardeşleriyle ilişkisi de gergindi. **Rogal Dorn**'la rekabeti Iron Warriors ile Imperial Fists arasındaki kan davasının temelidir; Dorn'un Imperial Fists'in hiçbir kuşatmaya düşmeyecek surlar inşa edebileceğini söylemesi, Perturabo'yu derinden yaraladı. Hydra Cordatus gibi yerlerde yıllar sonra bu rekabetin izleri görülür. **Horus**'un sıcak ilgisi ise Perturabo'nun, değer gördüğüne inandığı nadir anlardan biriydi.
 
-## Olympia İsyanı ve İhanet
-Heresy'nin arifesinde Olympia, Primarch'ın yokluğundan yararlanarak Imperium'a ve Perturabo'ya karşı ayaklandı. Lord of Iron, Legion'ıyla anavatanına dönüp isyanı acımasızca bastırdı; kaynaklar, bastırmanın bir cezalandırmadan öte, halkın büyük bölümünü yok eden ve sağ kalanları köleleştiren bir kıyıma dönüştüğünü aktarır. Imperium'un bu katliamı affetmeyeceğini düşünen Perturabo için Horus'un teklifi, zaten gerilmiş bir ipi koparan son darbe oldu. Heresy yayınlarında Horus'un ona ittifakın simgesi olarak Ferrus Manus'un eski çekici **Forgebreaker**'ı armağan ettiği anlatılır.
+## Olympia İsyanı ve Heresy
+Heresy'nin arifesinde Olympia, Iron Warriors'ın yokluğunda isyan etti. Perturabo dönüp dünyasını bütünüyle yakıp yıktı; milyonlarca insan öldürüldü ve ölenlerin kemikleri kuşatma işçiliğiyle yükseltilmiş yığınlara dönüştü. Bu katliam Perturabo'yu geri dönüşsüz biçimde Horus'un kucağına itti; Emperor'un onu affetmeyeceğini biliyordu.
 
-Iron Warriors, Isstvan V'teki Dropsite Massacre'da ihanetin ikinci dalgası içinde yer aldı ve sadık Legion'ları kapana kıstıran güçlerden biri oldu.
+Isstvan V'teki Drop Site Massacre'da Iron Warriors ihanet dalgasının ikinci dalgasında yer aldı. Sonraki yıllarda Perturabo, Fulgrim'le birlikte Iydris seferine (*Angel Exterminatus*) katıldı; Fulgrim onu Eldar teknolojisine dair vaatlerle kandırdı ve Primarch'ı kendi yükselişine araç yaptı. Phall'da Imperial Fists'le yaşanan büyük donanma çatışması iki Legion arasındaki kin davasını pekiştirdi.
 
-## Phall
-Perturabo'nun Imperial Fists'e karşı savaşının ilk büyük sahnesi **Phall** sistemidir. John French'in *The Crimson Fist*'inde anlatıldığı üzere, Horus'un isyanına karşı gönderilen bir Imperial Fists filosu Phall'da Warp'tan aynı anda çıkan Iron Warriors gemilerinin baskınına uğradı. Perturabo'nun amiral gemisi *Iron Blood*'dan yönettiği saldırı, Imperial Fists filosuna ağır kayıplar verdirdi. Kaptan **Alexis Polux**'ün önderliğindeki sağ kalanlar, Dorn'un Terra'ya dönüş emri üzerine çekilmeye çalışırken acımasızca takip edildi; filonun bir kısmı ele geçirilen bir Iron Warriors gemisiyle Warp'a kaçmayı başardı. Phall, iki Legion arasındaki kan davasının Heresy boyunca nasıl bir yıpratma savaşına dönüşeceğini ilan eden bir çatışmadır.
+Terra Kuşatması'nda Horus, Perturabo'yu Imperial Palace'ın tahkimatlarını yıkmakla görevlendirdi. Perturabo, Dorn'un inşa ettiği surları sistemli biçimde parçaladı; *Siege of Terra* serisi bu mimari düellonun iki Primarch'ı nasıl tükettiğini işler. Kuşatmanın ilerleyen aşamasında Perturabo, Horus'un Warp'a olan bağımlılığından ve kuşatmanın bir mühendislik değil, daemonik bir boğuşma hâline gelmesinden tiksinerek savaştan elini çekti.
 
-## Iydris, Terra ve Iron Cage
-Graham McNeill'in *Angel Exterminatus* romanında Fulgrim, Perturabo'yu Aeldari'nin kadim bir silahını bulma vaadiyle Crone World **Iydris**'e sürükler. Gerçek amacın Fulgrim'in kendi yükselişi olduğu ortaya çıktığında Perturabo, hayat gücünü emen bir tuzağın içinde bulur kendini; roman, Lord of Iron'ın bu ihanetten yaralı ama hayatta çıktığını anlatır. Bu deneyim, onun kardeşlerine duyduğu güvensizliği kalıcı bir nefrete dönüştürdü.
+## Medrengard ve Daemon Prince
+Heresy'nin ardından Iron Warriors, Eye of Terror içindeki Medrengard'a çekildi. Perturabo burada sonradan Daemon Prince'e yükseldi ve Medrengard'ın kara taşlarından yükselttiği dev kalesine kapandı; yükselişinin ayrıntıları kaynaklarda net değildir. Uzun Savaş boyunca Iron Warriors, Warsmith'lerin komutasında bağımsız savaş grupları hâlinde Imperium'un kalelerini hedef aldı; Hydra Cordatus kuşatması (*Storm of Iron*) ve Honsou'nun maceraları en bilinen örneklerdir.
 
-Siege of Terra'da Perturabo, Dorn'un tahkimatlarını düşürmekle görevlendirildi ve iki mühendisin rekabeti sonunda gerçek bir kuşatmada karşı karşıya geldi. Siege of Terra romanlarına göre kuşatmanın ilerleyen safhasında Horus'un yönetiminden ve Chaos'un çarpıklığından bıkan Perturabo, Iron Warriors'ı Terra'dan çekip *Iron Blood*'a döndü. Scouring döneminde ise Iron Warriors'ın kurduğu ve **Iron Cage** adıyla anılan tuzak, Dorn'u ve Imperial Fists'i kuşatılmış bir kalede kıstırdı; sadık kuvvetlerin yardıma yetişmesiyle çember ancak ağır bedellerle kırıldı. Kaynakların bir kısmı, Perturabo'nun Daemon Prince'liğe resmen yükselişini bu çatışmanın ardından anlatır; yükselişin kesin anı ve biçimi yayınlarda aynı netlikle verilmez.
+## Güncel Durum: Reign of Iron
+2026'da yayımlanan *Eye of Terror* kampanya kitabı, Perturabo'nun binlerce yıldır hazırladığı büyük planın ilk adımını anlatır: Cadia'nın düşüşünden sonra hâlâ direnen Cadian Gate kalelerini ve forge world'lerini ele geçirmek. Iron Warriors'ın hedefleri arasında forge world Agripinaa öne çıkar; Warsmith Kravek Morne bu saldırıda ölümlü ve daemonik kuvvetlere komuta eder. Planın uzun vadeli amacı, galaksiyi boydan boya aşarak Terra'ya doğru ilerleyecek bir "Infinite Citadel"dir. Kampanya artwork'ü Perturabo'yu dev bir mekanik zırh içinde, gerçek dönüşümünü örten şövalye benzeri bir miğferle gösterir. Primarch henüz Eye of Terror'dan bizzat çıkmamıştır.
 
-## Medrengard
-Eye of Terror'a çekilen Iron Warriors'ın yeni merkezi **Medrengard** adlı daemon dünyası oldu. McNeill'in *Dead Sky Black Sun*'ında bu dünya, birbirine düşman Warsmith'lerin kaleleriyle kaplı, güneşi ölü bir cehennem olarak betimlenir; Perturabo ise kalesinde inzivaya çekilmiş, Legion'ının günlük işlerine nadiren karışan uzak bir hükümdar olarak arka planda durur.
+## Kişilik
+Perturabo, takdir edilmemiş bir dehadır. Kendine ve Legion'ına karşı acımasız, kardeşlerinin başarılarını kıskanan, her ilişkiyi bir hesap problemi gibi gören biridir. Onun ihaneti, Chaos tanrılarına duyulan inançtan çok, Emperor'a ve kardeşlerine karşı biriken kırgınlığın sonucudur; bu yüzden Chaos Undivided'a en yakın duran Primarch'lardan biri olarak kalmıştır.
 
-## Hydra Cordatus ve Long War
-Legion'ın M41'deki en ünlü seferlerinden biri, McNeill'in *Storm of Iron*'unda anlatılan **Hydra Cordatus** kuşatmasıdır: bir Warsmith önderliğindeki Iron Warriors, Imperial gene-seed depolarını barındıran citadel'i düşürmek için dünyaya çöker. Roman, Perturabo'dan çok Legion'ın onun öğrettiği kuşatma sanatını nasıl sürdürdüğünü gösterir; Primarch'ın bu sefere doğrudan katılımı anlatılmaz. Great Rift sonrası dönemde de Perturabo'nun bizzat bir sefere liderlik ettiği belirgin bir resmî anlatı bulunmaz; Lorgar gibi o da güncel anlatıda aleminde kalan Primarch'lar arasında sayılır.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Perturabo tanrılara tapmayan, Chaos'tan bağımsız bir Primarch'tır.
-**Kanon:** Pragmatik tutumu belirgindir, ama Chaos'un lütfuyla Daemon Prince'liğe yükselmiş ve bir daemon dünyasında hüküm süren bir varlıktır.
-
-**Yanılgı:** Perturabo yalnızca duygusuz bir makine gibidir.
-**Kanon:** Heresy yayınları onu sanata ve bilime tutkun, takdir açlığı ve kinle kemirilmiş karmaşık bir figür olarak çizer.
-
-## Yayın ve Retcon Notu
-Perturabo, *Realm of Chaos* dönemi Chaos kaynaklarında şekillendi; Index Astartes makaleleri Olympia ve decimation anlatısını belirginleştirdi. *Storm of Iron* (2002) Legion'ın 40K kimliğini, *Angel Exterminatus* ile Haley'nin Primarchs romanı Primarch'ın trajik portresini kurdu.
-
-**Kaynaklar:** *Perturabo: The Hammer of Olympia — Guy Haley*; *Angel Exterminatus — Graham McNeill*; *The Crimson Fist — John French*; *Storm of Iron — Graham McNeill*; *Dead Sky Black Sun — Graham McNeill*; *Codex: Chaos Space Marines — 10th Edition*
-**Çapraz:** **kayıt**, rogal-dorn, **kayıt**, **kayıt**, siege-of-terra, **kayıt**, **kayıt**, **kayıt**
-
-## Tarihçe
-
-Perturabo, Iron Warriors'un en ünlü ve en trajik primarch'ıdır; Olympia'nın — Iron Warriors'un ev gezegeni — en zorlu savaşçısı olan ve Iron Warriors'u kuran Perturabo, İmparatorluğun en trajik ve en tehlikeli primarch'ıdır — onlar, Iron Warriors'un en ünlü ve
-
-​
+-# Kaynaklar: *Perturabo: The Hammer of Olympia* — Guy Haley; *Angel Exterminatus* — Graham McNeill; *Storm of Iron* — Graham McNeill; *The Iron Without* — John French; *Siege of Terra* serisi; *Eye of Terror* kampanya kitabı (2026); Warhammer Community, "Eye of Terror – The Reign of Iron Begins" (Mart 2026); Lexicanum

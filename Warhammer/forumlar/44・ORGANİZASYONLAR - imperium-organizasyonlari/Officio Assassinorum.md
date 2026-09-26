@@ -12,6 +12,11 @@ Officio Assassinorum, İmparatorluk'un 'tek mermi' cevabıdır — bir hedefin o
 
 Assassinorum'un operasyonları 'Officio' izni gerektirir ve her atama, High Lords'un onayıyla gelir — bir suikastçı, İmparatorluk'un 'son çare' silahıdır. Vindicare'in tek atışı, Callidus'un 'polimorfin' dönüşümü ve Culexus'un psi-yok ediciliği, İmparatorluk'un 'görünmez el'inin yüzleridir; bir Assassin'in gönderilmesi, İmparatorluk'un 'tüm diğer seçeneklerin tükendiğinin' işaretidir.
 
-## Tarihçe
+## İmparator'un Sessizliği
+Officio Assassinorum, Imperium'un resmi suikastçi örgütüdür ve Malcador the Sigillite tarafından kuruldu; altı tapınağı (Callidus, Culexus, Eversor, Vindicare, Venenum, Vanus) her biri farklı bir öldürme sanatında uzmanlaşır. Bir Assassin'in sahaya gönderilmesi için High Lord onayı gerekir — bu yüzden her operasyon Imperium'un 'en ağır' kararlarından biridir.
 
-Officio Assassinorum, İmparatorluğun resmi suikast kurumudur; dört büyük tapınaktan — Callidus (şekil değiştiren), Culexus (Pariah), Eversor (vahşi savaşçı) ve Vindicare (keskin nişancı) — oluşur ve her biri farklı bir öldürme sanatında uzmanlaşmıştır. Assassin'ler İmparatorluğun en pahalı ve en nadir silahıdır — bir Assassin'in eğitimi yıllar sürer, bedeni tamamen değiştirilir ve tek bir görev için gönderilir; bir Assassin'in maliyeti, bir gezegenin vergisine eşittir ama değeri de öyledir — bir Vindicare, bir Chaos Lord'u kilometrelerce öteden öldürebilir; bir Callidus, bir dü
+## Tapınaklar
+Callidus (polimorf suikast — kadın şekil-değiştiriciler, C'tan phase sword ve neural shredder kullanır), Culexus (blank/anti-psyker — 'Pariah' suikastçılar, psişik saldırıya karşı görünmez), Eversor (saf vahşet — adrenaline-pumped killing machine), Vindicare (keskin nişancı — Exitus rifle), Venenum (zehir ustası), Vanus (bilgi manipülatörü — 'gerçeklik kırma'). Aun'Va'nın öldürülmesi Culexus'un işiydi; her Assassin'in geri dönüşü belirsizdir — tek kullanımlık silah gibidirler.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Officio Assassinorum*; *Assassinorum* serisi; *The King in Yellow* (Eisenhorn, Vanus bağlamı); Lexicanum

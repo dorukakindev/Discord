@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Imperial_Palace_Terra2.jpg/revision/latest?cb=20130227172909
-
 -# THE IMPERIAL ARCHIVE · L Kayıtları · Kayıt
 
 # Lion's Gate Uzay Limanı

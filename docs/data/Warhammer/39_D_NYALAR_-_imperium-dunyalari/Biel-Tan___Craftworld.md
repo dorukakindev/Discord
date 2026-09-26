@@ -14,8 +14,10 @@ Aspect Warrior geleneğini merkeze alan ve Aeldari'nin kayıp dünyalarını ger
 - **Önemli Olaylar:** Valedor; Fracture of Biel-Tan.
 - **Kanon Notu:** Fracture'ın craftworld üzerindeki uzun vadeli etkileri güncel anlatıda gelişmektedir.
 
-## Tarihçe
+## Kırılan Kılıç
+Biel-Tan — 'Kılıç Rüzgarı' — Eldar'ın en militarist craftworld'üydü; 'Eldar'ın yeniden doğuşu' doktriniyle savaşçı kültürü en yüksek olan yerdi. Fracture of Biel-Tan'da Slaanesh'in saldırısı ve Ynnead'in doğuşu craftworld'ü fiziksel olarak kırdı — yarısı Ynnari'ye katıldı, yarısı 'eski yolu' savundu. Biel-Tan artık 'iki yarı' olarak var; canon'da 'Eldar'ın bölünmesi'nin simgesidir.
 
-Biel-Tan, Aeldari ırkının en büyük ve en askeri Craftworld'lerinden biridir; onun savaş geleneği ve militarist yapısıyla — Aeldari'nin en organize ve en savaşçı evidir — onlar, Aeldari'nin en disiplinli ve en ölümcül evidir. Biel-Tan'ın en büyük özelliği, onun savaş geleneğidir — onlar, Aeldari'nin en askeri Craftworld'üdür ve onların savaşçıları, Aeldari'nin en disiplinli ve en ölümcül savaşçılarıdır; bir Biel-Tan savaşçısı, hem bir savaşçı hem de bir rahiptir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Biel-Tan'ın en ünlü özelliği, onun Aspect Warrior'larıdır — onlar, Aeldari'nin en iyi savaşçılarını yetiştirir ve onların varlığı, Aeldari'nin en ölümcül gücünün kanıtıdır. Biel-Tan, Aeldari ırkının en askeri ve en ölümcül Craftworld'üdür — onlar, savaşın ve disiplinin somut halidir.
+## Kaynaklar
+-# Kaynaklar: *Fracture of Biel-Tan*; *Codex: Craftworlds*; *Phoenix Rising* (Psychic Awakening); Lexicanum
 
 -# Kaynaklar: *Gathering Storm II: Fracture of Biel-Tan*; *Valedor — Guy Haley*; *Codex: Aeldari —

@@ -13,13 +13,11 @@ Hava indirme harekâtlarında uzmanlaşmış, düşman hatlarının gerisine Val
 - **Önemli Olaylar:** Taros Campaign.
 - **Kanon Notu:** Elysian'ların ayrıntılı savaş kayıtları büyük ölçüde Forge World yayınlarında yer alır.
 
-## Tarihçe
+## Düşüş
+Elysian Drop Troops — 'Elysian' — Imperium'un 'hava indirme' elit alayıdır; grav-chute ile yörüngeden inen ve 'Vulture'larla desteklenen birim. 'D-99' operasyonu ve 'Elysian'ın kendi gezegen istilası' canon'da bilinen görevleridir. 'Havada ölenler' lakabıyla bilinirler — yüksek kayıp, yüksek cesaret.
 
-Elysian Drop Troops, İmparatorluk Muhafızı'nın en ünlü hava indirme birlikleridir — Elysia gezegeninden gelen elit paraşüt birlikleridir. Elysianlar, grav-chute'larla gökyüzünden inerek düşman hatlarının arkasına sızar; bu birlikler, İmparatorluk'un en hızlı ve en cesur alaylarından biridir. Elysian Drop Troops, Taros Campaign gibi İmparatorluk'un en zorlu operasyonlarında görev aldı; ancak hava indirme taktikleri, yüksek kayıp oranlarıyla da bilinir. Alaylar, İmparatorluk Muhafızı'nın en cesur ve en elit hava indirme birlikleri olarak kalır.
-
-## Teknik / Biyolojik Özellikler
-
-Valkyrie saldırı taşıyıcıları; grav-chute'lar; ana muharebe tankı ve zırhlı personel taşıyıcı kullanamamaları nedeniyle uzun süreli çatışmalarda sınırlı dayanıklılık.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Imperial Armour*; Lexicanum
 
 -# Kaynaklar: *Imperial Armour Volume Three – The Taros Campaign*; *Codex: Imperial Guard*
 

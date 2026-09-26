@@ -13,13 +13,14 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1d/Raptors_Icon.jpg/revi
 - **Önemli Olaylar:** Badab War; Taros Campaign.
 - **Kanon Notu:** Great Rift sonrası durumları kaynaklarda ayrıntılı işlenmemiştir.
 
-## Tarihçe
+## Kurnaz Avcılar
+Raptors, Raven Guard'ın successor'ı ve Imperium'un en 'profesyonel' chapter'larından biridir; 'sneaky' diye bilinirler — kamuflaj, sabotaj, iz sürme. Badab War'da sadık tarafta savaştılar ama diğer chapter'ların 'dramatik' tutumlarına mesafelidirler; onlar için savaş görevdir, sahne değil.
 
-Raptors, Raven Guard'ın soyundan gelen bir Space Marine Chapter'ıdır — Second Founding döneminde kurulmuş bir Chapter'dır. Raptors, gizli operasyonlar ve keskin nişancı taktikleriyle bilinir; Chapter, İmparatorluk'un en gizli ve en tehlikeli operasyonlarının en önemli aracıdır. Raptors, Raven Guard'ın en sadık ve en güvenilir varislerinden biri olarak kalır; Chapter, İmparatorluk'un en önemli askeri varlıklarından biridir.
+## Tarz
+Raptors'un kamuflaj zırhı (yeşil-kahve) ve 'sessiz yaklaşım'ı Imperium'un en verimli chapter'larından biri yapar; 'Chapter Master Lias Issodon' figürü canon'da bilinir. Onların doktrini 'görünmeden vur' — Raven Guard'ın geleneğinin modern versiyonudur.
 
-## Teknik / Biyolojik Özellikler
-
-Doktrin: vur-kaç, pusu, Scout ağırlıklı keşif, kamuflaja uygun zırh renkleri. Kültür: soğukkanlı pragmatizm; bağımsız taktik düşüncenin teşviki. Raven Guard gene-seed'inin tipik fiziksel izlerini taşırlar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Raptors* lore parçaları; *Imperial Armour*; Lexicanum
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Three: The Taros Campaign*; *Codex: Space Marines*
 

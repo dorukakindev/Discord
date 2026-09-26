@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ee/House_Griffith_Icon2.
 
 Hız ve manevra kabiliyetiyle ünlü İmparatorluk şövalye hanedanı; daha hafif, çevik şövalyelerle düşmanın kanatlarını ve zayıf noktalarını vuran usta avcılar.
 
-## Tarihçe
-House Griffith (Griffith Hanedanı), İmparatorluk'a bağlı bir Imperial Knight hanedanıdır; diğer hanelerin kaba kuvvetine ve doğrudan hücumlarına karşılık, Griffith hız, çeviklik ve taktiksel kurnazlıkla tanınır. Onlar, şövalye hanelerinin avcı-süvarileridir.
+## Üç Başlı
+House Griffith — 'Trinity' olarak bilinen üç yıldızlı hane; en 'ritüelci' Knight hanesi sayılır ve Şövalyelerinin 'namı' dövüşünden önce anılır. Griffith'te Knight olmak 'vahiy' gibidir — pilot, makinenin ruhuyla 'konuşur'. 'Cerastus' sınıfında ustalaşmışlardır.
 
-Griffith şövalyeleri, daha hafif ve daha hızlı Knight sınıflarını (özellikle çevik Armiger ve hafif Knight'ları) tercih eder; ağır bir süvari hücumu yerine, hız ve manevrayla savaşırlar. Düşman hatlarının etrafında dolanır, kanatları vurur, zayıf noktaları bulur ve en savunmasız hedefleri (komuta birimlerini, ağır araçların arkasını) ani saldırılarla avlarlar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

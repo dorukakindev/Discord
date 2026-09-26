@@ -12,6 +12,8 @@ Servitor, İmparatorluk'un 'beyinsiz işçi' sınıfıdır — suçluların, vah
 
 Servitor'ların üretimi, Mechanicum'un 'insan kaynağı' doktrininin en karanlık yüzüdür: 'günahkârın bedeni, makinenin işine yarar' felsefesiyle, İmparatorluk'un suçluları 'faydalı hâle' getirilir. Servitor'un sessiz hizmeti, İmparatorluk'un 'insanı makineye dönüştürme' kültürünün günlük kanıtıdır — bir Servitor'un yanından geçen vatandaş, hem İmparatorluk'un gücünü hem de bireyin yok sayılmasını görür; 'verimlilik' adına yazılmış en soğuk cümledir.
 
-## Tarihçe
+## İrade Yokluğu
+Servitor — 'Servitor' — Adeptus Mechanicus'un 'biyolojik makine'sidir; insan bedeninin bilinci kaldırılır ve makineye 'hizmet eden' doku kalır. Cezalılar, 'boş' bedenler veya 'faydalı' esirler Servitor olur — Mechanicus için bu 'üretim' demektir. 'Servitor' olmak 'son ceza'dır — ölmekten beter.
 
-Servitor, İmparatorluk'un en yaygın ve en trajik teknolojisidir — insan-makine melezidir. Servitor'lar, İmparatorluk'un çeşitli görevlerini yerine getirmek için insan bedenlerine makine parçaları eklenmiş varlıklardır; bu varlıklar, İmparatorluk'un en basit ve en tehlikeli görevlerini yerine getirir. Servitor'lar, İmparatorluk'un en yaygın ve en trajik teknolojisidir; bu varlıklar, İmparatorluk'un en basit görevlerini yerine getiren en yaygın araçlardır. Teknoloji, İmparatorluk'un en yaygın ve en trajik t
+## Kaynaklar
+-# Kaynaklar: *Codex: Adeptus Mechanicus*; *Mechanicum*; Lexicanum

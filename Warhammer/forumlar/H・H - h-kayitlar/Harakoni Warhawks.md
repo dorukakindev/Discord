@@ -12,10 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Harakoni_Warhawk_Drop
 - **Köken:** Harakon
 - **Önemli Olaylar:** Çeşitli hava-indirme operasyonları
 
-## Tarihçe
+## Şahin
+Harakoni Warhawks — 'Warhawks' — Imperium'un elit hava indirme alayıdır; Valkyrie'lerden sıçrayan 'taarruz birliği'dir. Harakon'un 'fırtına gezegeni'nden gelirler ve 'yüksek rakım' savaşında uzmandırlar. 'Aeronautica' ile en sıkı çalışan piyade alayı sayılırlar.
 
-Harakoni Warhawks, İmparatorluk Muhafızı'nın en ünlü hava indirme birliklerinden biridir — Harakon gezegeninin elit paraşüt birlikleridir. Warhawks, grav-chute'larla gökyüzünden inerek düşman hatlarının arkasına sızar; bu birlikler, İmparatorluk'un en hızlı ve en cesur alaylarından biridir. Harakoni Warhawks, İmparatorluk'un en zorlu operasyonlarında görev alır; alaylar, İmparatorluk Muhafızı'nın en cesur ve en elit hava indirme birlikleri olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Imperial Armour*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552879925567033374>

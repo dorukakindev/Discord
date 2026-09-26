@@ -10,12 +10,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Or
 - **Dönem:** Cadia'nın kuruluşundan itibaren
 - **Köken:** Cadia (yok edildi)
 
-## Tarihçe
+## Cadia'nın Askeri
+Cadian Shock Troops — Astra Militarum'un en ünlü alay yapısıdır; Cadia'nın 'herkes asker' kültüründen çıkan, disiplin ve 'kasr' savunma taktikleriyle bilinen alaylar. 'Whiteshield' gençleri, Kasrkin (elit) ve standard piyade'nin merkezidir. Cadia düşse bile 'Cadian' savaşır — diaspora alayları hâlâ Imperium'un bel kemiğidir.
 
-Cadian Shock Troops, İmparatorluk Muhafızı'nın en ünlü ve en prestijli alaylarından biridir — Cadia gezegeninin elit birlikleridir. Cadia, Eye of Terror'un girişini kapatan kale gezegeniydi ve Cadianlar, İmparatorluk'un en iyi eğitilmiş ve en disiplinli askerleriydi; Cadia'nın düşüşünden sonra bile alaylar, İmparatorluk'un en prestijli birlikleri olarak kaldı. Cadian Shock Troops, İmparatorluk'un en kritik savunma operasyonlarında görev alır; alaylar, İmparatorluk Muhafızı'nın en ünlü ve en prestijli alayları olarak kalır.
-
-## Özellikler
-Standart Cadian camo, Kasrkin seçkinleri, Kale Dünya doktrini: disiplin ve sağlam mevzi savunması.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Cadia Stands*; *Cadian Honour*; Lexicanum
 
 -# Kaynaklar: Codex: Astra Militarum, Fall of Cadia
 

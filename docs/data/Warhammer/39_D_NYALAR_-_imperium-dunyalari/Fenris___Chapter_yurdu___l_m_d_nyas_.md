@@ -14,8 +14,11 @@ Space Wolves'un yurdu ve aday kaynağı. Kaynaklar Fenris'i, yaşamın kendisini
 - **Önemli Olaylar:** Russ'ın bulunuşu; Battle of the Fang; Wrath of Magnus.
 - **Kanon Notu:** Fenris'in yörüngesi ve mevsimleri üzerine anlatımlar edition'lar arasında farklı ayrıntılar taşır; bu kayıtta genel çerçeve verilmiştir.
 
-## Tarihçe
+## Kurtların Dünyası
+Fenris, Space Wolves'un ana dünyası ve Imperium'un en ölümcül 'ölüm dünyalarından' biri; buzul okyanusları, kurt sürüleri ve sürekli depremlerle tanınır. Yüzeyindeki tek kalıcı kara Asaheim'dir — Space Wolves'un kale-manzarası The Aett burada. Fenris'in halkı (Fenrisianlar) Space Wolves'a savaşçı sağlar; 'wolf totem' kültürü Chapter'ın kimliğidir.
 
-Fenris, Space Wolves'un Chapter yurdu olan ve İmparatorluğun en sert ve en ölümcül dünyasıdır; onun buzulları ve vahşi doğasıyla — bir ölüm dünyası olarak bilinen ve Space Wolves'un en sert savaşçılarını yetiştiren bir dünyadır — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Fenris'in en büyük özelliği, onun sertliğidir — onlar, İmparatorluğun en sert doğasına sahiptir ve onların varlığı, Space Wolves'un sertliğinin ve vahşetinin kanıtıdır; bir Fenris, bir gezegenin en ölümcül halidir ve onların varlığı, bir Legion'un evinin en sert parçasıdır. Fenris'in en ünlü özelliği, onun Space Wolves'un evidir — onlar, bir Legion'un evidir ve onların varlığı, bir Legion'un ruhunun ve onurunun kanıtıdır. Fenris, Space Wolves'un evidir ve onların ruhunun merkezidi
+## Mitoloji
+Fenris'in kendi mitolojisi Russ'ın geliş efsanesiyle iç içedir — 'Fenrisian wolves' denen dev yaratıklar, Sky Warriors kültü, 12 büyük kabile. Imperium'un resmi haritalarında 'ölüm dünyası' olarak geçer ama Fenris'liler için burası cennettir: 'zorluğu kendini seven' insanların dünyası. Chapter'ın İmparator kültüne mesafesi de Fenris kültüründen gelir — onlar İmparator'a 'tanrı' değil 'baba' derler.
 
--# İlişkili kayıtlar: <#1551638910344630307>, <#1551649072912269433>, <#1551809231580307517>, <#1551816657691746335>
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Wolves*; *Space Wolf* serisi — William King; *The Emperor's Gift*; Lexicanum

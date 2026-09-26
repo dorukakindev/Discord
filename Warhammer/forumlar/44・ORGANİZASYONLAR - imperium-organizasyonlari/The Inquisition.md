@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/12/Inquisitorial_Rosette.png/revision/latest?cb=20131227015732
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # The Inquisition — Engizisyon

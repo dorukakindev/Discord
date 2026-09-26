@@ -7,9 +7,16 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/70/Return_to_Armageddon-
 
 Orklar'a karşı Armageddon savunmasının yaşayan simgesi olan efsanevi Komiser.
 
-## Tarihçe
-Commissar Sebastian Yarrick, sıradan bir insan olmasına rağmen galaksinin en efsanevi savaş kahramanlarından biridir; Space Marine ya da psyker değil, yalnızca olağanüstü iradeye ve kararlılığa sahip bir Astra Militarum Komiseri'dir. Onun hikâyesi, sıradan insanlığın bile en büyük dehşetlere karşı direnebileceğinin kanıtıdır.
+## Armageddon'un Çeliği
+Sebastian Yarrick — 'Commissar Yarrick', 'Old Bale Eye' — Astra Militarum'un en efsanevi Commissar'ı ve Ghazghkull Mag Uruk Thraka'nın karşıt-kahramanıdır; Armageddon'un adıyla özdeşleşen figür. Hades Hive'ın 2nd War savunmasında kendi kolunu kaybettiği ama dik durduğu an Imperium'un ikonik görüntüsüdür: kolunu kaybeden Commissar savaşmayı reddetmedi, Ork'ların efsanevi saygısını kazandı ('Yarrick' Ork dilinde 'yakalanamaz düşman' demektir — onu bizzat Ghazghkull ölümsüzleştirdi).
 
-Yarrick, Ork peygamberi Ghazghkull Thraka'nın Armageddon'a yönelttiği devasa istilalarda (İkinci ve Üçüncü Armageddon Savaşları) verdiği amansız direnişle ün kazandı; kovan şehirleri cehenneme dönerken onun varlığı insanlığın moralini ayakta tuttu. Bir Ork'un güç kıskacını koparıp kendi koluna taktı ve bionik bir göz edindi; bu görünüş onu daha da efsaneleştirdi.
+## 3rd War
+Yarrick'in asıl destanı 3rd Armageddon War'dur: Ghazghkull geri döndüğünde yaşlı Commissar cepheye çağrıldı ve insan direnişinin ruhani lideri oldu. Ghazghkull'u kişisel düelloyla değil, yıllar süren mücadeleyle durdurması — 'bale eye' (bionik göz) ile onu her rüyasında görmesi — ikisinin ilişkisini canon'un en karmaşık düşmanlığı yaptı: Ghazghkull onu 'haklı düşman' olarak sayar, Yarrick onu 'soyulacak son Ork' olarak.
+
+## Son
+Yarrick'in ölümü (*Armageddon* novellasında) Ghazghkull tarafından kişisel olarak gerçekleştirildi — ama Imperium için o ölmedi, efsaneleşti. 'Yarrick lives' sloganı Astra Militarum'un inanç sembolüdür.
+
+## Kaynaklar
+-# Kaynaklar: *Armageddon* serisi; *Yarrick* serisi — David Annandale; *Codex: Astra Militarum*; *Ghazghkull* kampanya materyali; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

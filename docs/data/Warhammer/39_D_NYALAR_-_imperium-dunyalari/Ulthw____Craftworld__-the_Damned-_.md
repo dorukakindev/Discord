@@ -14,6 +14,11 @@ Warp'ın yakınlığı yüzünden seer'leri çoğalmış, Chaos'a karşı sürek
 - **Önemli Olaylar:** Eye of Terror'a karşı süregiden nöbet; Eldrad'ın kehanet hamleleri.
 - **Kanon Notu:** Eldrad'ın Ynnari'yle ilişkisi ve güncel konumu kaynaklarda ayrıca işlenir; bu kayıt ayrıntıya girmez.
 
-## Tarihçe
+## Kaderin Craftworld'ü
+Ulthwé — 'Ulthanash shelwé' — Eldar'ın en bilinen craftworld'üdür ve Eldrad Ulthran'ın evidir; Eye of Terror'a en yakın büyük Eldar yerleşimi olarak sürekli Chaos tehdidi altında yaşar. 'Black Guardians' denen askeri sistemiyle bilinir — diğer craftworld'lerde Warrior Aspect'a geçen Eldar burada Guardian olarak kalır çünkü savaş zorunludur.
 
-Ulthwé, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Eye of Terror'a olan yakınlığıyla — 'the Damned' olarak bilinen — ve onun psişik gücüyle bilinen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en psişik evidir. Ulthwé'nin en büyük özelliği, onun psişik gücüdür — onlar, Aeldari'nin en güçlü psyker'larını yetiştirir ve onların Farseer'ları, Aeldari'nin en büyük gücüdür; bir Ulthwé savaşçısı, hem bir savaşçı hem de bir psyker'dır ve onların savaşı, hem fiziksel hem de psişiktir. Ulthwé'nin en ünlü özelliği, onun Eye of Terror'a olan yakınlığıdır — onlar, Chaos'un en yakın komşusudur ve onların varlığı, Aeldari'nin en büyük mücadelesinin merkezidir; bir Ulthwé, bir gezegenin en trajik halidir ve onların varlığı, Aeldari'nin en büyük kaybının kanıtıdır. Ulthwé, Aeldari ırkının en trajik ve en psişik Craftworld'üdür — onlar, Chaos'un en yakın komşusunun ve en büyük
+## Eldrad'ın Evi
+Ulthwé'nin kaderi Eldrad'la iç içedir — Farseer'ların en güçlüsü burada yaşadı; craftworld'ün dış politikası onun kehanetlerini takip eder. Cadia'nın düşüşünde Eldrad'ın 'reality-kırma' ritüeli burada başlatıldı — Ynnead'in doğuşu Ulthwé'nin değişimini tetikledi. 'Kader ülkesi' olarak tanınır — her karar runik kehanetle alınır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Fracture of Biel-Tan*; *Eldrad* lore parçaları; Lexicanum

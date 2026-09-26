@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/d/dc/SilverSkullsBadge2.jp
 
 Her savaşı kehanetle planlayan, batıl inançlı bir chapter; Prognosticar'ları (kâhin-psyker) savaşın gidişatını belirler.
 
-## Tarihçe
-Silver Skulls (Gümüş Kafatasları), İmparatorluğun en batıl inançlı ve kehanet-odaklı chapter'larından biridir; hiçbir önemli kararı, hiçbir saldırıyı, kâhinlerine danışmadan almazlar. Onlar için zamanlama her şeydir ve doğru zamanı yalnızca kehanet belirleyebilir.
+## Kaderin Askerleri
+Silver Skulls, Ultramarines'in successor'ı ve 'kaderci' Chapter'dır; her savaştan önce runik kehanet okurlar ve sonuca göre hareket ederler — 'kader yazıldı' doktrini. Gildar sektöründe faaliyet gösterirler; Argentius'un komutasında Silver Skulls Imperium'un en disiplinli ve en az konuşan chapter'larındandır.
 
-Diğer chapter'lar psyker'larını ihtiyatla kullanırken, Silver Skulls onları merkeze koyar; "Prognosticar" denen kâhin-psyker konseyleri, her seferden önce alâmetleri okur, gelecekten işaretler arar ve savaşın ne zaman, nerede ve nasıl verileceğine karar verir. Bir Silver Skull komutanı, kehanet uygun zamanı işaret etmeden saldırmaz; ama o an geldiğinde, tüm güçleriyle ve mutlak bir özgüvenle hücum ederler.
+## Sembol
+Silver Skulls'un gümüş zırhı ve kafatası amblemi onları tanınır kılar; 'fate' kültürü onları diğer chapter'lardan ayırır çünkü onlar kendi ölümlerini bile 'kader' olarak kabul ederler — bu onları hem cesur hem acımasız yapar.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Silver Skulls* lore parçaları; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

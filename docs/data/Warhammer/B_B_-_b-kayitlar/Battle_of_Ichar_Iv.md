@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Kraken_Tyranid_Warrior.jpg/revision/latest?cb=20200708133604
+
 -# THE IMPERIAL ARCHIVE
 # Battle of Ichar Iv
 

@@ -10,8 +10,13 @@ Signus Prime, Horus Heresy'nin en sinsi tuzaklarından birinin merkezidir; Warma
 
 Heresy'nin başında Horus, kendisine kazanamayacağı lejyonları uzak köşelere, tuzaklara gönderdi. Kara rahip Erebus'un tavsiyesiyle, Blood Angels'ın gizli gen-tohum laneti olan "Kan Susuzluğu"ndan (Red Thirst) yararlanmaya karar verdi; Sanguinius'u Kan Tanrısı Khorne'un kollarına itmek için Signus Kümesi'ni iblislerle doldurdu. Blood Angels, kümeyi "temizlemek" için geldiğinde, bir daemon istilasının tam ortasına yürüdüler.
 
-## Tarihçe
+## Kan Meleği
+Signus Prime (008.M31), Blood Angels'ın daemon tuzağına düştüğü ve lejyon olarak neredeyse kırıldığı savaştır; Horus IX. Lejyonu yok etmek için Ka'Bandha ve Kyriss'i gönderdi. Sanguinius daemonlarla bizzat dövüştü — bacağı kırıldı ama oğullarını kurtardı. Blood Angels'ın ilk toplu Black Rage yaşadığı yer burasıdır.
 
-Signus Prime, Horus Heresy sırasında Blood Angels'ın tuzağa düşürüldüğü Chaos dünyasıdır — İmparatorluk tarihinin en karanlık yerlerinden biridir. Horus, Blood Angels'ı Signus sistemine bir 'görev' bahanesiyle gönderdi; aslında amaç, Sanguinius'u Chaos'a düşürmek veya yok etmekti. Signus'un yüzeyinde Blood Angels, Ka'Bandha ve Kyriss gibi Greater Daemon'larla karşılaştı ve Legion'un bir kısmı Khornate iblislere dönüştü. Sanguinius, Ka'Bandha'yla yaptığı düelloda ağır yaralandı ama Legion'unun sadakatini korudu; Signus, Blood Angels tarihinin en karanlık ve en trajik olaylarının yaşandığı yerdir.
+## Red Thirst'in Doğuşu
+Signus Prime, Blood Angels'ın 'Red Thirst' (kan susuzluğu) lanetinin açığa çıktığı andır — Sanguinius'un daemonlarla teması oğullarında genetik arıza uyandırdı. Chapter'ın iki büyük laneti (Black Rage ve Red Thirst) bu savaşta ilk kez açıkça görüldü.
+
+## Kaynaklar
+-# Kaynaklar: *Fear to Tread* — James Swallow (HH); *Codex: Blood Angels*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

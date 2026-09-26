@@ -12,9 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Jenetia_Krole.jpg/rev
 - **Köken:** Terra
 - **Önemli Olaylar:** Heresy sırasında 'Sessizlik' birliği
 
-## Tarihçe
+## Sessiz
+Jenetia Krole — Sisters of Silence'ın Heresy dönemi komutanı ve Imperium'un 'boşluk' gücünün simgesidir; 'Commander Krole' olarak bilinir. Terra surlarında daemonlara karşı en etkili silahtı — yaklaştığı her psişik varlık 'çöker'. Custodes'le omuz omuza savaştı ve Webway savaşında İmparator'un yanındaydı.
 
-Jenetia Krole, Sisters of Silence'ın en önemli ve en efsanevi figürlerinden biridir — 'Blank' olarak bilinen ve psyker güçlerini etkisiz hale getiren savaşçıdır. Krole, Sisters of Silence'ın en önemli ve en efsanevi figürüdür; onun 'blank' gücü, İmparatorluk'un en önemli ve en ölümcül güçlerinden biridir. Jenetia Krole, Sisters of Silence'ın en önemli ve en efsanevi figürü olarak kalır — onun gücü, İmparatorluk'un en önemli ve en ölümcül güçlerinin simgesidir.
+## Kaynaklar
+-# Kaynaklar: *The Master of Mankind*; *The End and the Death*; *Codex: Sisters of Silence* (Compendium); Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 

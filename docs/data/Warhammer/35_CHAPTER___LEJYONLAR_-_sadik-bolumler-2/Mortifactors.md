@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ab/MortifactorsBadge.jpg
 
 Ölüm kültü ve kafatası avcılığı geleneğiyle Ultramarines'ten kökten sapmış, kasvetli bir halef chapter.
 
-## Tarihçe
-Mortifactors, teknik olarak Ultramarines'in (Guilliman) bir halefidir; ama anavatanları Posul'un kasvetli kültürünü benimseyerek, primarch'larının düzenli, dengeli Codex geleneğinden kökten sapmışlardır. Onlar, ölümün kutsandığı karanlık bir mistisizm içinde yaşarlar.
+## Ölüm Tarikatı
+Mortifactors, Ultramarines'in successor'ı ama en 'karanlık' koludur; ölüm kültü ve kafatası ritüelleriyle tanınır — Imperium'un en 'goth' Space Marine'leri. Posul'ın ölüm dünyasında yaşarlar; 'cult of the dead' geleneğiyle savaşırlar ve düşmanlarının kemiklerini toplarlar.
 
-Posul'un yerel ölüm kültü gelenekleri chapter'ı şekillendirdi; zırhları kafatasları ve kemiklerle süslüdür, ayinleri ölümü ve ataları yüceltir. Düşmanlarının kafataslarını toplar (bir tür trofesi ve ruhsal güç kaynağı olarak) ve önemli kararlar almadan önce ata ruhlarına danıştıklarına inanırlar. Bu, onları Codex'in rasyonel, düzenli savaşçılarından çok, kabilesel bir ölüm tarikatına benzetir.
+## Tarz
+Mortifactors'un 'marble-white' zırhı ve 'death mask' gelenekleri onları diğer Ultramarines soyundan ayırır — Chapter'ın Chaplain'leri (Death Priests) neredeyse kült lideridir. Ama sadakatleri tartışılmaz — Ultramarines'in en güvenilir kolu sayılırlar.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Codex: Ultramarines*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

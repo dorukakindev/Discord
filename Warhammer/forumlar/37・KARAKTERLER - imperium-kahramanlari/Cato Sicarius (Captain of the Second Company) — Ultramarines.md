@@ -14,10 +14,13 @@ Parlak zaferleri kadar kibriyle de anılan, gözü kara ve hırslı bir kaptan. 
 - **Önemli Olaylar:** Fall of Damnos ve Damnos'a dönüş; Talassar'ın suzerainliği.
 - **Kanon Notu:** Onu Chapter'ın geleceğin Chapter Master'ı sayan sözler evren içi beklentidir; güncel rolü yeni edition anlatısıyla gelişmektedir.
 
-## Tarihçe
+## Şanlı Kaptan
+Cato Sicarius — 'Knight of Macragge' — Ultramarines 2nd Company'nin kaptanı ve Chapter'ın en ünlü yüzlerinden; 'Sicarius' soyadı onun mirası. Talassar'da daemonworld'e yapılan sefer ve Medusa V'deki komutasıyla bilinir. Ultramarines'in 'kusursuz kaptan' idealinin canlı örneğidir — ama Calgar'ın ardında duran, kendi yüzü olan figür.
 
-2nd Company'yi yıllarca Ultramarines'in en saldırgan birliklerinden biri olarak yönetti. Damnos'ta Necron'ların uyanışı karşısında savunmaya katıldı; dünya kurtarılamadı ve Imperium Damnos'u yitirdi. Bu yenilgi Sicarius'un kariyerinde derin bir iz bıraktı; Nick Kyme'ın romanları hem düşüşü hem de Ultramarines'in Damnos'a dönüşünü onun ve askerlerinin gözünden işler. Talassar'ın lordu olarak taşıdığı sivil unvan, Ultramarines Captain'larının Ultramar dünyalarıyla kurduğu bağın bilinen bir örneğidir.
+## Rol
+Sicarius canon'da 'genç nesil' Ultramarines'in sembolüdür: Primaris geçişini yaşadı, Guilliman'ın dönüşünü gördü ve 'Chapter'ın geleceği' olarak pazarlanır. *Dark Imperium* romanlarında Guilliman'ın sahaya taşıdığı komutanlardan biridir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Ultramarines*; *Dark Imperium*; *Sicarius* lore parçaları; Lexicanum
 
 -# Kaynaklar: *The Fall of Damnos — Nick Kyme*; *Spear of Macragge — Nick Kyme*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: <#1551809394226765939>, <#1551809577425575998>, <#1551759762193121282>, marneus-calgar

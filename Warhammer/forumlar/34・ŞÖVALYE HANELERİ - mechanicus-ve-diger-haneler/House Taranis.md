@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1f/Taranis_Icon.jpg/revi
 
 Var olan en eski Imperial Knight hanedanı; doğrudan Mars'ta yerleşik, Horus Heresy'de Kızıl Gezegen'i hain Mechanicum'a karşı savunan efsanevi sadıklar.
 
-## Tarihçe
-House Taranis (Taranis Hanedanı), var olan en eski ve belki de en saygın Imperial Knight hanedanıdır; kökenleri insanlığın altın çağına, Karanlık Teknoloji Çağı'na kadar uzanır. Diğer haneler uzak feodal dünyalarda yaşarken, Taranis doğrudan Mars'ta, Adeptus Mechanicus'un kalbinde yerleşiktir; bu, onlara eşsiz bir konum ve onur kazandırır.
+## Yıldırım Hanesi
+House Taranis — Mars'ın 'asli' Knight hanesi ve Mechanicus'a doğrudan bağlı ilk hane; 'Knight of Mars' olarak anılırlar. Taranis'in pilotları Mechanicus tarikatına üyedir — Knight'ı 'ritüel' ile sürerler. 'War Griffons' ve 'Taranis'in Kalkanı' unvanlarıyla bilinen en eski Mechanicus hanesidir.
 
-Taranis'in en büyük efsanesi, Horus Heresy sırasında yaşandı; ihanet Mars'a da ulaştığında (the Schism of Mars), gezegenin Mechanicum'unun büyük bölümü Kaos'a ve hain Dark Mechanicum'a döndü. Bu kıyamet gibi iç savaşta, House Taranis sadık kaldı ve Kızıl Gezegen'i, kendi dünyalarını, ihanete karşı kahramanca savundu. Neredeyse yok olma noktasına geldiler, ama sadakatlerinden asla dönmediler; bu direniş, onların onurunu sonsuza dek perçinledi.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; *Adeptus Titanicus* lore; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

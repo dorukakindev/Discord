@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/aa/Mordian_Ironguards_by
 
 Sonsuz Gece Dünyası Mordian'ın kusursuz disiplinli askerleri; yoğun yaylım ateşiyle düşmanı biçen alaylar.
 
-## Tarihçe
-Mordian Iron Guard (Demir Muhafızları), gelgit kilitli bir kovan dünyası olan ve 'Sonsuz Gece Dünyası' olarak da anılan Mordian'dan gelir. Gezegenin yarısı sürekli karanlıkta, diğer yarısı ise kavurucu güneşin altındadır; tüm yaşam, dev piramidal kovan kulelerinin yükseldiği karanlık tarafta toplanmıştır.
+## Demir Düzen
+Mordian Iron Guard — 'Iron Guard' — Imperium'un en disiplinli alayıdır; Mordian'ın 'gece dünyası'nda yetişen askerler tören üniformasıyla savaşa girer ve 'sıfır gerileme' ile savaşır. 'Mordian' lakabı 'emir-komuta'nın bedenidir — onlar için düzen her şeydir. 'Line formation' ile savaşan son alaydır.
 
-Demir Muhafızlar'a katılmak için olağanüstü bir disiplin sergilemek gerekir. Eğitim mümkün olan en sıkı biçimdedir: üniformaların ütülenmesinden geçit törenlerine, süngü talimine ve gerçek mermili tatbikatlara kadar bitmek bilmeyen tekrarlardan oluşur. Bu süreç her askere şiddetli bir sadakat ve kararlılık aşılar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

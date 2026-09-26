@@ -14,9 +14,11 @@ Mars'a sonsuz sadakat yemini etmiş, kimliğini Chaos'a karşı içilen bir inti
 - **Önemli Olaylar:** Heresy'de Chrysis'e yapılan saldırı; 13th Black Crusade.
 - **Kanon Notu:** Saldırıya katılan hain kuvvetlerin bileşimi kaynaklarda ayrıntılı biçimde verilmez.
 
-## Tarihçe
+## Adacık
+House Krast — 'Citrine Vale'nin hanesi ve 'Castellan' sınıfıyla bilinen büyük savunma hanesi; 'Vexator' gibi ünlü Knight'ları vardır. Krast'ın özelliği 'dayanıklılık'tır — düşmanı 'yormak' onların taktiği, kendi zırhları 'kale' gibidir. Metalica'ya bağlı hanelerden biridir.
 
-House Krast, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir — Questor Mechanicus hanesi olarak Mechanicus'a bağlıdır. Krast'ın Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Krast — Questor Mechanicus, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; Lexicanum
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

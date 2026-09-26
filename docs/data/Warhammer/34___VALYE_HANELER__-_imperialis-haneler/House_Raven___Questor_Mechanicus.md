@@ -14,9 +14,11 @@ Questor Mechanicus Hanelerinin en köklülerinden biri olarak sunulan, on bin y�
 - **Önemli Olaylar:** Metalica'ya yemin (Great Crusade); M41 Ork savaşları; Kolossi'nin kaybı (Era Indomitus).
 - **Kanon Notu:** Kolossi'nin düşüşü ve düşen Knight'ların akıbeti yalnızca Charadon kampanya materyallerinde işlenir; ayrıntılar sınırlıdır.
 
-## Tarihçe
+## Kara Kuzgun
+House Raven — Moustaphelios'un hanesi ve 'Loyal' Knight'ların en eski evlerinden; 'Lady Jotunheim' gibi eski savaşçılarıyla bilinir. Raven'ın özelliği 'sessiz ölüm'dür — diğer hanelerin gösterişine karşılık onlar 'bitirici' çalışır. 'Kara Kuzu'ğ lakaplı eski hane reisi canon'da bilinen figürdür.
 
-House Raven — Questor Mechanicus, İmparatorluk'un en büyük ve en güçlü Knight hane'lerinden birinin Mechanicus'a bağlı versiyonudur. Raven'in Knight'ları, İmparatorluk'un en tehlikeli düşmanlarına karşı en ölümcül savaşları yürütür ve hane, İmparatorluk'un en büyük askeri varlıklarından biridir; hane, İmparatorluk'un en önemli ve en güçlü Knight hane'lerinden biridir. House Raven — Questor Mechanicus, İmparatorluk'un en güçlü ve en büyük Knight hane'lerinden biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; Lexicanum
 
 -# Kaynaklar: *Codex: Imperial Knights*; *War Zone Charadon – Act 2: The Book of Fire*
 

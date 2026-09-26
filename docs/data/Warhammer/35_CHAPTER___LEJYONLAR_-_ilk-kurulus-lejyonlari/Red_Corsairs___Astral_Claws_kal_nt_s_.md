@@ -14,6 +14,11 @@ Imperium'dan kopan Space Marine'lerin toplandığı bir mıknatıs hâline gelen
 - **Önemli Olaylar:** Maelstrom'a kaçış; korsan krallığının kuruluşu; Maelstrom akınları.
 - **Kanon Notu:** Red Corsairs'in güç ve büyüklüğü kaynaklarda sayıyla verilmez; Imperial değerlendirmeler bu konuda çelişir.
 
-## Tarihçe
+## Korsan Lejyonu
+Red Corsairs, Huron Blackheart'ın (eski Lufgt Huron) lideri olduğu Chaos warband'ıdır — eski Astral Claws'ın devamı; Maelstrom'da (Warp fırtınası bölgesi) yaşar ve Imperium'un ticaret yollarına korsanlık yapar. 'Renegade' Space Marine'lerin en büyük toplanma yeridir — Badab sonrası kaçanlar, düşmüş chapter'lar burada toplanır. 'Blackheart'ın ordusu diye bilinir.
 
-Red Corsairs, Astral Claws Chapter'ının Chaos'a düşmüş kalıntısıdır; Badab War'da Huron'un isyanını izleyen ve sonunda tamamen Chaos'a düşen bu Chapter, İmparatorluğun en ünlü ve en tehlikeli renegade warband'idir. Red Corsairs'in kökeni, Huron'un trajedisidir — Astral Claws'un Chapter Master'ı Huron, İmparatorluğun baskısına isyan etti ve sonunda Chaos'a düştü; onun Chapter'ı da onunla birlikte düştü ve Red Corsairs, İmparatorluğun en büyük ihanetinin simgesi oldu. Red Corsairs'in savaş doktrini, Huron'un taktik dehasından doğar — onlar korsanlık, baskın ve gerilla savaşında uzmanlaşmışlardır ve onların filosu, İmparatorluğun en tehlikeli korsan gücüdür; bir Red Corsair saldırı
+## Güç
+Red Corsairs canon'da 'en organize Chaos warband'ı olarak bilinir — Abaddon'un Black Legion'undan sonra ikinci. Huron'un stratejisi Imperium'u 'parazit gibi' sömürür: baskın, kaç, tekrarla. 'Grexus Primus' ve 'Huron's Razor' operasyonlarıyla bilinir; Badab ruhu hâlâ onlarda yaşar.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Codex: Chaos Space Marines*; Lexicanum

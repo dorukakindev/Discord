@@ -13,13 +13,11 @@ Uzun ve iskeletimsi gövdesinin omurgası boyunca uzanan doomsday cannon'u taş�
 - **Önemli Olaylar:** Kaynaklarda tek bir Doomsday Ark'a bağlanmış öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Kıyamet Taşıyıcısı
+Doomsday Ark — Necron'un 'uzun menzilli kıyamet' makinesidir; 'Doomsday Cannon'ı tek atışta tankları ve hatta küçük Titan'ları yok eder. Gauss teknolojisinin en saf hâli — maddeyi katman katman atomik olarak 'soyar'. Necron'un 'öldür ve git' doktrininin en ölümcül örneğidir.
 
-Doomsday Ark, Necron'ların en tehlikeli ve en ölümcül savaş araçlarından biridir — Doomsday Cannon ile donatılmış bir savaş platformudur. Doomsday Ark, Necron'ların en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül savaş güçlerinden biridir. Doomsday Ark, Necron'ların en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül savaş güçlerinden biridir.
-
-## Teknik / Biyolojik Özellikler
-
-Antigrav tahrik, açık iskeletimsi yapı, doomsday cannon ve yan gauss silahları. Silahın muazzam bir enerji topladığı anlatılır; bu enerjinin kaynağı ayrıntılandırılmaz.
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; Lexicanum
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 

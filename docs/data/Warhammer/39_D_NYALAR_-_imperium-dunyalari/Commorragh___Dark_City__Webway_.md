@@ -14,8 +14,13 @@ Webway'in labirentinde, gerçek uzayın dışında büyüyen Drukhari başkenti.
 - **Önemli Olaylar:** Vect'in yükselişi; Dysjunction'lar; Yvraine'in dirilişi.
 - **Kanon Notu:** Kentin iç coğrafyası kaynaklarda kısmen işlenir.
 
-## Tarihçe
+## Karanlık Şehir
+Commorragh — 'Dark City' — Webway'in içindeki devasa Drukhari metropolisidir; tek bir gezegen değil, birbirine bağlı limanlar, arena bölgeleri ve kale labirentlerinden oluşan boyutlar arası şehir. Slaanesh'in doğuşundan kaçan antik Eldar'ın karanlık kolu burada yaşar; güneşsiz, ruh-çürüten bir 'sonsuz gece' şehridir.
 
-Commorragh, Drukhari'nin en büyük ve en korkulan şehridir; Webway'in en karanlık köşesinde bulunan ve Drukhari'nin en yozlaşmış ve en tehlikeli evidir — onlar, Aeldari'nin en karanlık ve en tehlikeli evidir. Commorragh'ın en büyük özelliği, onun karanlığıdır — onlar, Webway'in en karanlık köşesinde bulunur ve onların varlığı, Drukhari'nin en yozlaşmış gücünün merkezidir; bir Commorragh, bir şehrin en karanlık halidir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Commorragh'ın en ünlü özelliği, onun kabal'larıdır — onlar, Drukhari'nin suç örgütleridir ve onların varlığı, Drukhari'nin en tehlikeli gücünün kanıtıdır; bir Commorragh kabal'ı, hem bir suç örgütü hem de bir savaş birliğidir. Commorragh, Drukhari'nin en karanlık ve en tehlikeli evidir — onlar, Aeldari'nin en büyük trajedisinin somut halidir.
+## Yapı
+Commorragh Kabals, Wych Cults ve Haemonculus Covens'ın üçlü dengesiyle işler; Vect'in Kabal of the Black Heart en üsttedir. Şehrin en derin katmanlarında 'maiden worlds'e açılan portallar ve 'null' bölgeler bulunur. Canon'da Commorragh 'başka hiçbir yerde var olamayan' toplumdur — suç, sanat ve siyaset aynı şeydir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; *Path of the Dark Eldar* serisi; *The Dark City*; Lexicanum
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Path of the Renegade — Andy Chambers*; *Ga

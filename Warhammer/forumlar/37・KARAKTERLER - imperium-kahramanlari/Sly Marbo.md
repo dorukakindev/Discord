@@ -10,8 +10,10 @@ Sly Marbo, kimi zaman "Tek Kişilik Ordu" (One Man Army) diye anılan, Catachan 
 
 Augmentasyon görmemiş bir insan için benzersiz askeri becerilere sahip olduğu bilinir; bir Sniper Rifle'ı bir Vindicare Assassin gibi kullanabilir, hayatta kalma ve pusu yetenekleri ise herhangi bir Adeptus Astartes üyesininkilere rakip olabilir. "Tek kişilik ordu" olarak Marbo çoğu zaman yalnız hareket eder; alayının mangalarına uzaktan keskin nişancı desteği sunar.
 
-## Tarihçe
+## Doğal Felaket
+Sly Marbo — 'One-Man Army' — Catachan Jungle Fighters'ın en efsanevi figürüdür; 'one man vs everything' olarak bilinir. Tek başına Ork WAAAGH!'larına karşı direndiği, karanlık ordulara tek başına sızdığı söylenir — Imperium'un 'Rambo' figürüdür. Ripper pistol ve 'etçil bıçak'larıyla bilinir.
 
-Sly Marbo, İmparatorluk Muhafızı'nın en ünlü ve en efsanevi figürlerinden biridir — tek kişilik ordu olarak bilinen ve İmparatorluk'un en ölümcül askeridir. Marbo, İmparatorluk Muhafızı'nın en ünlü ve en efsanevi figürüdür; onun tek kişilik operasyonları, İmparatorluk'un en önemli ve en efsanevi askeri hikâyelerinin simgesidir. Sly Marbo, İmparatorluk Muhafızı'nın en ünlü ve en efsanevi figürü olarak kalır — onun hikâyesi, İmparatorluk'un en önemli ve en efsanevi askeri hikâyelerinin simgesidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Sly Marbo* lore; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom

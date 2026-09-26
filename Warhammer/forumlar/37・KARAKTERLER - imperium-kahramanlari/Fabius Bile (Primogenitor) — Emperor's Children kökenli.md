@@ -14,8 +14,14 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c1/Cloak_of_Skins.png/re
 - **Önemli Olaylar:** Horus klonu; New Men projesi.
 - **Kanon Notu:** Bile'ın nihai amacının insanlığı kurtarmak mı yoksa kendi kibrini tatmin etmek mi olduğu kaynaklarda bilinçli olarak tartışmalı bırakılır.
 
-## Tarihçe
+## Apothecary'nin Kefiresi
+Fabius — 'Bile' lakabı kendisi tarafından benimsenmiştir — Emperor's Children'ın baş Apothecary'si; III. Lejyon'un 'kusursuzluk' takıntısını genetik mühendisliğe çeviren adam. Heresy sırasında Fulgrim'e bağlı lejyonun gen-dokusunu bozmakla uğraştı: ilk Noise Marine'leri yaratan da odur. İhanetten sonra bağımsız oldu — hiçbir Chaos tanrısına tapmaz, sadece bilim'e tapar.
 
-Fabius Bile (Primogenitor), Emperor's Children'dan gelen ve Chaos'un en tehlikeli ve en gizli figürlerinden biridir — genetik deneylerin ve klonlamanın ustasıdır. Fabius Bile, İmparatorluk'un en tehlikeli ve en gizli figürlerinden biridir; onun genetik deneyleri, Chaos'un en tehlikeli ve en gizli güçlerinin kaynağıdır. Fabius Bile, Emperor's Children'dan gelen ve Chaos'un en tehlikeli ve en gizli figürlerinden biri olarak kalır — onun deneyleri, İmparatorluk'un en tehlikeli ve en gizli düşmanlarının kaynağıdır.
+## Primogenitor
+Bile'ın uzun vadeli projesi 'New Men' — Space Marine'leri aşacak yeni bir insan türü; onun gözünde Astartes bile ara ürün, onun hedefi İmparator'un Primarch çalışmasını aşmak. Klonlar, hibritler, 'Gland Hounds' denen genetik avcılar yaratır. İmparator'un Horus'unu klonlama girişimleri (*Horus' bedenini çalıp klonladığı* için Ezekarion'un düşmanıdır) ve Blackstone Fortress'leri kullanması onu Chaos'un içinde bile izole eder.
 
--# İlişkili kayıtlar: <#1551813750305198101>, <#1551812225570836561>, <#1551638958352506881>, <#1551816158951510069>
+## Spider ve Gla'gor
+Bile'ın 'Spider' adlı zırhlı kişisel aracı ve Arachnoid denen mutant savaşçıları, onun bağımsız 'Bile warband'inin çekirdeğidir. *Fabius Bile* serisi onu trajik figür olarak resmeder: ölen bedenleri klonlarına aktaran, kendi ölümsüzlüğünü klon zincirinde yaşayan, giderek kendi yaratımlarının hedefi hâline gelen bir adam.
+
+## Kaynaklar
+-# Kaynaklar: *Fulgrim*, *Angel Exterminatus* (HH); *Fabius Bile* serisi — Josh Reynolds (*Primogenitor*, *Clonelord*, *Manflayer*); *Codex: Chaos Space Marines*; Lexicanum

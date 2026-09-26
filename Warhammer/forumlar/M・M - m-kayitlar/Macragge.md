@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e3/Macragge2.png/revision/latest?cb=20170802085537
-
 -# THE IMPERIAL ARCHIVE
 # Macragge
 

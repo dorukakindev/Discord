@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/10/Cato_3.png/revision/l
 
 Ultramarines'in yetenekli ama kibirli kaptanı; cesareti kadar kendini beğenmişliğiyle de ün salmış savaşçı.
 
-## Tarihçe
-Cato Sicarius, Ultramarines'in 2. Bölük (Second Company) kaptanı ve chapter'ın en yetenekli, en ihtiraslı savaşçılarından biridir; ama aynı zamanda kibri ve kendini beğenmişliğiyle de ün salmıştır. O, parlak yetenek ile büyük ego'nun aynı kişide birleştiği ilginç bir figürdür.
+## Şanlı Kaptan
+Cato Sicarius — 'Knight of Macragge' — Ultramarines 2nd Company'nin kaptanı ve Chapter'ın en ünlü yüzlerinden; 'Sicarius' soyadı onun mirası. Talassar'da daemonworld'e yapılan sefer ve Medusa V'deki komutasıyla bilinir. Ultramarines'in 'kusursuz kaptan' idealinin canlı örneğidir — ama Calgar'ın ardında duran, kendi yüzü olan figür.
 
-Sicarius, savaş alanında gerçekten olağanüstüdür; stratejik dehası, cesareti ve liderliği sayısız zafer kazandırmıştır. Anavatanı Talassar'ı bir Necron istilasına karşı savundu ve "Master of the Watch" gibi prestijli unvanlar topladı. Birçok kişi onu, bir gün Ultramarines'in Chapter Master'ı (belki Marneus Calgar'ın halefi) olmaya en yakın aday olarak görür.
+## Rol
+Sicarius canon'da 'genç nesil' Ultramarines'in sembolüdür: Primaris geçişini yaşadı, Guilliman'ın dönüşünü gördü ve 'Chapter'ın geleceği' olarak pazarlanır. *Dark Imperium* romanlarında Guilliman'ın sahaya taşıdığı komutanlardan biridir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Ultramarines*; *Dark Imperium*; *Sicarius* lore parçaları; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,14 @@ Guilliman'ın başlattığı, Great Crusade'den bu yana Imperium'un en geniş as
 - **Önemli Olaylar:** Ultima Founding; Baal'ın kurtarılması; Raukos; Plague Wars'a geçiş.
 - **Kanon Notu:** Filoların toplam sayısı ve seferin süresi kaynaklarda farklı çerçevelenir; Rift sonrası zaman bozulmaları kronolojiyi belirsizleştirir.
 
-## Tarihçe
+## Geri Dönüş
+Indomitus Crusade (999.M41 — devam), Roboute Guilliman'ın dirilişinin ardından başlattığı galaktik geri alma seferidir; Büyük Yarık'ın böldüğü Imperium Sanctus'u yeniden birleştirmek, Imperium Nihilus'a ışık taşımak ve Primaris Space Marine'leri sahaya sürmek için kurgulandı. Guilliman 'Lord Commander of the Imperium' olarak döndü — unvan Heresy'den beri boştu.
 
-Indomitus Crusade, İmparatorluğun en yeni ve en umutlu askeri hareketidir; Guilliman'ın — Ultramarines'in primarch'ı — hayata döndürülmesi ve İmparatorluğa Primaris Space Marine'lerini kazandırmasıyla başlayan en büyük seferdir — onlar, İmparatorluğun en büyük umudunun ve en büyük değişiminin somut halidir. Indomitus Crusade'in en büyük özelliği, onun umududur — onlar, İmparatorluğun en karanlık saatinde gelen yeni ışıktır ve onların varlığı, İmparatorluğun en büyük umudunun kanıtıdır; bir Indomitus Crusade, bir imparatorluğun yeniden doğuşunun en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin somut halidir. Indomitus Crusade'in en ünlü özelliği, onun Guilliman'ın dönüşüdür — onlar, bir primarch'ın hayata döndürülmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük umudunun kanıtıdır. Indomitus Crusade, İmparatorluğun en yeni
+## Kampanya
+Crusade birleşik kuvvetlerle çalışır: Primaris chapter'ları (yeni oluşanlar), mevcut chapter'lar, Astra Militarum, Sisters of Battle, Custodes. Fleet-based savaşlarla dünya dünya ilerler; her başarı 'Galaxy still stands' mesajıdır. 4. Tyrannic War ve Necron Pariah Nexus'a karşı da sahada çalışır.
+
+## Sembol
+Indomitus, Imperium'un 'iyi haber' anıdır — Büyük Yarık'tan sonraki ilk büyük umut; ama canon'da bile 'yeterli değil' duygusu vardır çünkü Yarık hiç kapanmadı.
+
+## Kaynaklar
+-# Kaynaklar: *Dark Imperium* serisi — Guy Haley; *Indomitus* kampanya kitabı; *Dawn of Fire* serisi; Lexicanum

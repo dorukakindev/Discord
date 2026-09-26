@@ -14,6 +14,11 @@ Tanrısının gözünden düşmüş, sürgün edilmiş bir Bloodthirster. Artık
 - **Önemli Olaylar:** Tzeentch'in entrikası; Khorne'a saldırı; Brass Citadel'den sürgün.
 - **Kanon Notu:** Onu "Khorne'un en büyük generali" sayan anlatım yanlıştır; tanrısına saldırdığı için sürgün edilmiş, gözden düşmüş bir figürdür.
 
-## Tarihçe
+## Sürgün Edilmiş
+Skarbrand — 'Exiled One' — Khorne'un en güçlü Bloodthirster'ıydı, ta ki Tzeentch'in hilesiyle efendisine saldırana kadar; Khorne onu sürgün etti, ama öfkesi sönmedi — sürgün kızgınlığı onu daha da vahşi yaptı. Şimdi hiçbir ordunun parçası değil, saf yıkımın bedenidir: zincirlerinden kurtulan, 'bileti olmayan' savaşçı.
 
-Skarbrand (the Exiled One), Khorne'un en tehlikeli ve en korkulan daemon'larından biridir — Exiled One olarak bilinen ve Khorne'un en sadık hizmetkârıdır. Skarbrand, Khorne'un en tehlikeli ve en korkulan daemon'larından biridir; onun savaş yetenekleri ve öfkesi, Khorne'un en önemli ve en korkulan güçlerinin kaynağıdır. Skarbrand, Khorne'un en tehlikeli ve en korkulan daemon'u olarak kalır — onun güçleri, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarının kaynağıdır.
+## Anlam
+Skarbrand canon'da Khorne'un kendi mantığının ürünüdür — en sadık savaşçısını bile öfkeyle cezalandıran tanrının trajedisi. Varlığı 'Chaos'un düzeni bile kaos'tur' ilkesinin kanıtıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *Skarbrand* lore parçaları; Lexicanum

@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Valhallans.jpg/revisi
 
 Donmuş buzul dünyası Valhalla'nın inatçı askerleri; geri çekilmeyi reddeden, dayanıklılıkları efsanevi alaylar.
 
-## Tarihçe
-Valhalla Buz Savaşçıları, Segmentum Ultima'da yer alan donmuş ve ıssız buzul dünyası Valhalla'dan gelen ünlü alaylardır. Valhalla bir zamanlar yemyeşil bir cennetti; ancak bir kuyruklu yıldız çarpması gezegeni yörüngesinden kopararak iklimini kökten değiştirdi ve onu, yüzeyinde neredeyse hiçbir canlının korumasız yaşayamadığı bir buz topuna dönüştürdü.
+## Buz Savaşçıları
+Valhallan Ice Warriors — Valhalla'nın 'buz alayıdır; -60 derece ortamlarda savaşan ve 'yeni keşfedilmemiş' direncin simgesidir. Colonel Chenkov ve 'Iron Fist' taktikleriyle bilinirler — kayıp sayısı onlar için 'maliyet' değil 'plan'dır. Eisenhorn'un dünyasından gelen bu alay Imperium'un 'soğuk' tarafıdır.
 
-Bu acımasız soğukta yetişen Valhallalılar, Imparatorluğun konuşlandırdığı en sert birliklerden biridir; asla geri çekilmez, teslim olmayı reddederler. En umutsuz koşullarda bile mevzilerini tutmaktaki inatları ve korkunç kayıpları bozguna uğramadan göğüsleyebilme yetenekleriyle ünlüdürler.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Ice Warriors*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

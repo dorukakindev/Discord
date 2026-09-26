@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/95/Terra_And_Luna.jpg/revision/latest?cb=20130409090405
-
 -# THE IMPERIAL ARCHIVE
 # Terra — Holy Terra
 

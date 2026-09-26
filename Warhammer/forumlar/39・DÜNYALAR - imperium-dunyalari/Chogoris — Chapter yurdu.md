@@ -14,8 +14,13 @@ White Scars'ın aday kaynağı ve kültürel beşiği. Bozkırın hız, özgürl
 - **Önemli Olaylar:** Jaghatai'nin bulunuşu ve Chogoris'in birleşmesi; Emperor'un gelişi.
 - **Kanon Notu:** Jaghatai'nin Chogoris'teki yükselişinin ayrıntıları Horus Heresy serisinde derinleştirilmiştir; eski kaynaklar daha kısa bir anlatı verir.
 
-## Tarihçe
+## Bozkırın Ruhu
+Chogoris, White Scars'ın ana dünyasıdır; geniş bozkırları ve atlı kabileleriyle Jaghatai Khan'ın mitolojisi burada doğdu. Chapter'ın 'hız, av ve rüzgâr' doktrini Chogoris'in kültüründen gelir — Space Marine'ler savaşta bile 'düzlüğü' ararlar. Quan Zhou kale-manzarası Chapter'ın merkezidir.
 
-Chogoris, White Scars'ın Chapter yurdu olan ve İmparatorluğun en özgür ve en vahşi dünyasıdır; onun bozkırları ve özgür kültürüyle — White Scars'ın özgürlük geleneğinin somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Chogoris'in en büyük özelliği, onun özgürlüğüdür — onlar, İmparatorluğun en özgür kültürüne sahiptir ve onların varlığı, White Scars'ın özgürlüğünün ve bağımsızlığının kanıtıdır; bir Chogoris, bir gezegenin en özgür halidir ve onların varlığı, bir Legion'un evinin en özgür parçasıdır. Chogoris'in en ünlü özelliği, onun Jaghatai Khan'ın evidir — onlar, bir primarch'ın evidir ve onların varlığı, bir Legion'un ruhunun ve onurunun kanıtıdır. Chogoris, White Scars'ın evidir ve onların ruhunun merkezidir — onlar, özgürlüğün ve vahşetin somut halidir.
+## Sembol
+Chogoris canon'da 'özgür Space Marine' kavramının evidir — White Scars diğer chapter'ların aksine savaşı 'sadakat' değil 'çağrı' olarak görür. Khan'ın kayboluşu (M31'den beri 'Webway'de kayıp') Chapter'a 'bekleyen' kimliğini verdi.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: White Scars*; *Scars* (HH); *Jaghatai Khan: Warhawk of Chogoris* — Chris Wraight; Lexicanum
 
 -# Kaynaklar: *Scars — Chris Wraight*; *Jaghatai Khan: Warhawk of Chogoris — Chri

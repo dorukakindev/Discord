@@ -12,16 +12,11 @@ Dev kovan şehirleri ve zehirli çölleriyle ünlü endüstri dünyası; Ork war
 - **System:** Armageddon Sistemi
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## Çelik Cehennem
+Armageddon, Imperium'un en ünlü Hive World'üdür ve adı üç büyük savaşla özdeşleşmiştir; 'Ork'ların ve Imperium'un karşılaşma noktası'. Hive cities (Hades, Helsreach, Acheron, Infernus...) her biri kendi kalesidir; gezegenin kül kumulları ve çelik çölleri onu 'savaş için doğmuş' dünya yapar.
 
-Armageddon, dev kovan şehirleri ve zehirli kül çölleriyle dolu kritik bir sanayi dünyasıdır; milyarlarca insanın yaşadığı, devasa fabrikaların galaksinin savaş makinesini beslediği önemli bir Forge benzeri kovan dünyasıdır. Gezegenin atmosferi ve çölleri zehirlidir, bu yüzden hayat kovan-şehirlerin içinde yoğunlaşmıştır.
+## Üç Savaş
+İlk savaş Angron'un Chaos istilasıydı (Grey Knights gizli kahramanlığı). İkinci ve üçüncü Ghazghkull'un WAAAGH!'larıydı — Yarrick ve Dante'nin direnişleri. Bugün Armageddon hâlâ kısmen Ork kontrolündedir; 'Armageddon is burning' Imperium'un hiç bitmeyen savaşının simgesidir.
 
-Armageddon'ı efsaneleştiren şey, üç büyük savaşa sahne olmasıdır. İlk Armageddon Savaşı bir Kaos istilasıydı; ama gezegeni asıl üne kavuşturan, Ork peygamberi Ghazghkull Thraka'nın yönelttiği İkinci ve Üçüncü Armageddon Savaşları oldu. Bu devasa WAAAGH! savaşları, kovan şehirlerini cehenneme çevirdi ve 40K tarihinin en kanlı, en geniş ölçekli kara çatışmaları arasına girdi.
-
-Bu savaşların kalbinde, Commissar Sebastian Yarrick vardı; sıradan bir insan olmasına rağmen amansız direnişi insanlığın moralini ayakta tuttu ve Orklar bile ondan "ölümsüz" bir kâbus olarak korktu. Ghazghkull ile Yarrick arasında, çağlar süren kişisel bir rekabet doğdu; ikisi de defalarca yüzleşti.
-
-Armageddon, İmparatorluğun sanayi gücünün ve sıradan insanlığın direnişinin sembolüdür; ama aynı zamanda Ork tehdidinin asla gerçekten yok edilemeyeceğinin, yalnızca geciktirilebileceğinin de kanıtıdır. Gezegen, kovan dünyası hayatının (üst katmanların gücü, alt katmanların yoksulluğu) ve sonu gelmez savaşın zengin bir örneğidir; insanlığın çekiciyle (Astra Militarum) en büyük zaferlerini ve en kanlı kayıplarını yaşadığı bir cephedir.
-
-## Tarihçe
-
-Armageddon, Segmentum Solar'da, Te
+## Kaynaklar
+-# Kaynaklar: *Armageddon* kampanya kitapları; *Helsreach*; *Codex: Orks*; Lexicanum

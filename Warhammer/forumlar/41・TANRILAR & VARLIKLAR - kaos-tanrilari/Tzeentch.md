@@ -10,9 +10,14 @@ Tzeentch, değişimin, dönüşümün, büyünün ve entrikanın Kaos Tanrısı'
 
 Hırs ve umuttan beslenir, çünkü her ikisi de bir şeyleri değiştirme arzusudur; bir büyücünün güç açlığı, bir devrimcinin umudu, bir entrikacının hesapları... hepsi Tzeentch'in ekmeğidir. Büyü ve psişik güç onun alanıdır; en güçlü büyücüler (İblis Primarch Magnus the Red ve sürgün edilmiş Ahriman gibi) ona çekilir.
 
-## Alanı ve Gücü
-Tzeentch'in gücü hırs, bilgi ve değişim arzusundan doğar; büyü onun dilidir. En güçlü iblisleri Lord of Change'lerdir — devasa kuş-benzeri kahinler; Pink ve Blue Horror'lar, Screamer'lar ve Disc'ler ordusunu oluşturur. Rakip tanrılar arasında en karmaşık ve en uzağı gören odur; Nurgle'ın umutsuzluğuna tam zıt olarak umuttan beslenir. Amacı asla kesin zafer değildir — zafer değişimi bitirir; bu yüzden Tzeentch sonsuza dek yeni planlar kurar, kendi hizmetkârlarını bile tuzağa düşürür. Simsiyah değil, beyaz ve çok renkli bir varlık olarak betimlenir; maddi dünyada doğrudan belirmesi bile gerçekliği büker.
+## Değişimin Mimarı
+Tzeentch, dört Chaos tanrısı arasında değişimin, entrikanın, sihrin ve umudun (evet, umudun — çünkü her umut bir değişim arzusudur) tanrısıdır. 'Changer of Ways' ve 'Great Conspirator' olarak geçer; dokuz rakamıyla ve sürekli dönüşen labirentiyle sembolleşir. Warp'te en eski tanrı olmadığı söylenir ama en karmaşık planları onundur — planlarının çoğu birbirini çürütmek için bile kurulmuştur, çünkü Tzeentch için amaç değil süreç kutsaldır.
 
-## Tarihçe
+## Sihir ve Manipülasyon
+Tzeentch psyker'ların, büyücülerin ve komplocuların tanrısıdır: hediyeleri mutasyon, kehanet ve psişik güçtür. Thousand Sons lejyonu onun başlıca Astartes ordusudur; Magnus'un düşüşü (Prospero'nun yakılması, Rubric of Ahriman, toz bedenler) tamamen Tzeentch'in uzun oyununun ürünüdür. Daemonları arasında Kairos Fateweaver, Lord of Change'ler ve Pink Horror'lar öne çıkar.
 
-Tzeentch, Chaos'un en gizli ve en tehlikeli tanrısıdır; değişim, entrika ve büyünün tanrısı olan ve onun en gizli planlarını yöneten Tzeentch, Chaos'un en gizli ve en tehlikeli gücüdür — onlar, Chaos'un en gizli ve en tehlikeli tanrısıdır. Tzeentch'in en büyük özelliği, onun entrikasıdır — onlar, değişim ve entrikanın tanrı
+## Sonsuz Oyun
+Tzeentch'in en tanımlayıcı özelliği kendi planlarını bile bozmasıdır: gerçek 'zafer' istese dururdu, ama değişim durduğunda Tzeentch yok olur. Bu yüzden her entrika bir sonrakini besler; Imperium'un en sinsi düşmanıdır çünkü Imperium'un kendi içindeki umutları bile onu besler.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *A Thousand Sons*, *The Crimson King* (HH) — Graham McNeill; *Codex: Thousand Sons*; Lexicanum

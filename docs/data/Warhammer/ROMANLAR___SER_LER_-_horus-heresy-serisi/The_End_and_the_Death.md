@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/71/EndAndDeathVol1.jpg/revision/latest?cb=20260225090236
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # The End and the Death
 

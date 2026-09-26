@@ -14,8 +14,11 @@ Aaron Dembski-Bowden'ın Black Legion romanlarının birinci ağızdan anlatıc�
 - **Önemli Olaylar:** Legion Wars; Black Legion'ın kuruluşu; Ezekarion'un oluşumu.
 - **Kanon Notu:** Anlatı, güvenilirliği tartışmalı bir anlatıcının kaydıdır; çerçeve anlatının sonucu yayımlanmış romanlarda çözülmemiştir.
 
-## Tarihçe
+## Kara Şövalye
+Iskandar Khayon — 'Khayon the Black' — Black Legion'un başı ve Abaddon'un en yakın danışmanıdır; *Black Legion* romanlarının anlatıcısı. Eski Thousand Sons'lu sorcerer; Rubric'ten kaçan ve sonunda Abaddon'a katılan figür. Khayon'un sesi canon'da 'Black Legion'un iç yüzü'nü anlatır — 'Long War'un nasıl başladığını, Vigus ve Falkus'un düşüşünü, Abaddon'un nasıl 'tek' olduğunu.
 
-Iskandar Khayon, Black Legion'ın en gizli ve en tehlikeli figürlerinden biridir — Thousand Sons kökenli bir sorcerer'dır. Khayon, Black Legion'ın en gizli ve en tehlikeli figürlerinden biridir; onun sorcery güçleri, Black Legion'ın en önemli ve en tehlikeli güçlerinin kaynağıdır. Iskandar Khayon, Black Legion'ın en gizli ve en tehlikeli figürü olarak kalır — onun güçleri, Black Legion'ın en önemli ve en tehlikeli güçlerinin simgesidir.
+## Rol
+Khayon, Black Legion'un 'insanî' yüzüdür: Abaddon'un karizması altında kaybolmayan, kendi aklı olan figür. Ezekarion (Black Legion'un kurucu konseyi) üyesi olarak lejyonun 'kuruluş' mitinin merkezindedir — 'Ezekarion' yeminleri onun kaleminden çıkar.
 
--# İlişkili kayıtlar: <#1551811342405599345>, <#1551638958352506881>, <#1551809231580307517>, <#1551813775848509482>
+## Kaynaklar
+-# Kaynaklar: *Black Legion*, *The Talon of Horus* — Aaron Dembski-Bowden; Lexicanum

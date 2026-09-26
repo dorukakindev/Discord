@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Sisters_of_Silence_art.jpg/revision/latest?cb=20120405005050
-
 -# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
 # Pariah Nexus Savaşı — The Pariah Nexus War

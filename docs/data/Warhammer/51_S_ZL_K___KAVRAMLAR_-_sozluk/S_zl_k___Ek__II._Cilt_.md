@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/44/Redemptionist.jpg/revision/latest?cb=20120716195747
+
 ## 51・SÖZLÜK EK — sozluk-ek
 Bu kanal, <#1551629213079961761> kanalındaki temel terimleri tamamlayan ikinci bir alfabetik listedir. Burada kurumların rütbe ve unvanları, faction'lara özgü kavramlar, dünya türleri ve arşivde sık geçen teknik adlar yer alır. Ana sözlükte bulunan terimler burada tekrarlanmaz. Özel adlar arşiv politikası gereği İngilizce bırakılmıştır; evren-içi inanç ya da propaganda içeren tanımlar, terimi kullanan tarafın bakışını belirtir.
 

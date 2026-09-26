@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bd/Legio_Fureans_Warhoun
 
 Titan sınıflarının en küçüğü ve en hızlısı; çift başına avlanır, düşman hattının kanatlarını ve zayıf noktalarını vurur.
 
-## Tarihçe
-Warhound Titan (Scout sınıfı), Adeptus Titanicus'un en küçük ve en hızlı Titan sınıfıdır; bir gökdelen boyutunda olmasına rağmen, daha büyük kardeşlerine kıyasla çevik ve atik bir avcıdır. Titan Lejyonları'nın "tazısı" olarak görülür.
+## Avcı
+Warhound Titan — en küçük ve en hızlı Titan sınıfıdır; ~17 metre, 'scout' rolünde çalışır ama gücü hafife alınamaz. Pack-hunting doktriniyle savaşır — birkaç Warhound birlikte çalışır ve büyük düşmanları 'köpek gibi' parçalar. 'Vulcan Mega Bolter' ve 'Inferno Gun' gibi silahları taşır.
 
-Warhound'lar genellikle çiftler halinde avlanır; daha büyük, daha ağır Titanlar (Reaver, Warlord) yavaşça ilerlerken, Warhound'lar önden koşar, düşman hattının kanatlarına ve zayıf noktalarına saldırır, avı sindirir ve ana güce yol açar. Turbo-laser, mega-bolter ve plazma silahlarıyla hızlı, vurucu darbeler indirir.
+## Kaynaklar
+-# Kaynaklar: *Adeptus Titanicus*; *Titanicus*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

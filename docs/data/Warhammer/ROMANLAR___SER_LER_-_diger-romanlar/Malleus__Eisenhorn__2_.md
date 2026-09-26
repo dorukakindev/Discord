@@ -8,14 +8,10 @@ Eisenhorn'un 'heretic' ilan edilişi — Inquisition içi entrika ve Eisenhorn'u
 - **Yazar:** Dan Abnett
 - **Konum/Dönem:** Cadia çevresi
 
-## İçerik
-Hereticus davasında Eisenhorn'un suçlanması; Pontius Operandi ve Cherubael daemonhost'unun sıkıntılı 'yardımı'.
+## Çekiç
+Malleus — Dan Abnett'in 'Eisenhorn' serisinin ikinci romanı; Eisenhorn'un 'Malleus' operasyonu ve 'Pontius Glaw'ın planı. 'Quixos' ile ilk karşılaşma ve Eisenhorn'un 'yavaş yavaş Chaos'a yaklaşması'nın hikâyesi. 'Malleus' adı 'çekiç' demektir — Ordo Malleus'un ve Eisenhorn'un kendi 'düşen' yolunun simgesi.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-Malleus, Dan Abnett'in Eisenhorn üçlemesinin ikinci romanıdır — Inquisitor Eisenhorn'un hikâyesinin devamıdır. Bu roman, Eisenhorn'un İmparatorluk'un en gizli düşmanlarıyla mücadelesini anlatır; roman, Eisenhorn'un hikâyesinin devamıdır. Bu roman, Eisenhorn'un hikâyesinin devamıdır; roman, Eisenhorn'un en gizli ve en tehlikeli operasyonlarının devamıdır. Roman, Eisenhorn'un hikâyesinin devamı olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *Malleus* — Dan Abnett; *Eisenhorn* serisi; Lexicanum
 
 -# Kaynaklar: Black Library

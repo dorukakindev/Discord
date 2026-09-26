@@ -14,6 +14,11 @@ Njal Stormcaller, Space Wolves'un en güçlü Rune Priest'i ve Fenris'in fırtı
 
 Njal'ın ünü, Fenris Sistemi Kuşatması sırasında Magnus'un oğullarına karşı tek başına tuttuğu savunmayla perçinlendi; Chapter'ın 'akıl hocası' ve 'kâhini' olarak, Grimnar'ın kararlarının arka planındaki en derin ses odur. Space Wolves'un 'medeni barbar' kimliğinde Njal, barbar tarafının manevi çapasıdır — Fenris'in mitolojisi, geleceği ve geçmişi onun rüyalarında yaşar.
 
-## Tarihçe
+## Fırtına Babası
+Njal Stormcaller, Space Wolves'un baş Rune Priest'idir — Chapter'ın 'psyker' geleneğinin en yüksek figürü. Fenris'in ruh-buhranına karşı savaşır; runik büyüleri ve fırtına çağırma gücüyle Space Wolves'un 'anti-sihir ama spiritüel' kimliğini dengeleyen figürdür.
 
-Njal Stormcaller, Space Wolves'un en güçlü ve en efsanevi High Rune Priest'idir; 'The Tempest that Walks' olarak bilinen ve Space Wolves'un en güçlü psyker'ı olan Njal, İmparatorluğun en gizli ve en kutsal savaşçısıdır — onlar, Space Wolves'un en güçlü ve en efsanevi üyesidir. Njal Stormcaller'ın en büyük özelliği, onu
+## Sembol
+Njal'in 'Stormcaller' unvanı Fenris'in havasını bükme yeteneğinden gelir — savaş alanında fırtına çağırır ve düşmanı savurur. Canon'da 'Chaos'un psişik gücüne karşı Chapter'ın kendi yolu'nun kanıtıdır — Rune Priest'ler 'inanç' ile çalışır, 'Warp büyüsü' değil diyerek lejyonun kendi geleneğini korur.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Wolves*; *Njal Stormcaller* lore parçaları; Lexicanum

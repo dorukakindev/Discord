@@ -13,6 +13,8 @@ Zoanthrope, Tyranid'in psi-topçusudur — bedeni sadece dev bir beyin ve warp-�
 
 Bir Zoanthrope'un görülmesi, Hive Mind'ın 'yerel psikolojik üstünlüğü' kurmaya başladığının işaretidir — bu yaratıklar, hem fiziksel tahribat hem de 'Shadow in the Warp'ın psi-baskısını taşır. İmparatorluk için Zoanthrope, Tyranid'in 'sadece fiziksel değil ruhsal' da yiyen yüzüdür — bir Zoanthrope'un hedefi olan psiker, hem bedenen hem zihnen yakılır.
 
-## Tarihçe
+## Psişik Canavar
+Zoanthrope — Tyranid'in 'psişik' bioformudur; Hive Mind'ın savaş alanında Warp gücünü kullanan odak noktası. Warp Blast ve Warp Lance güçleriyle savaşır; 'Doom of Malan'tai' en ünlü örneğidir (Spirit Stone'u yutmuş Zoanthrope). Tyranid'lerin 'teknik olarak psyker' olmasının bedenidir.
 
-Zoanthrope, Tyranid'in en gizli ve en güçlü psişik varlığıdır; bir Tyranid ordusunun psişik gücünü toplayan ve onu düşmana yönlendiren en tehlikeli organizma olan Zoanthrope, Tyranid'in en gizli ve en güçlü silahıdır — onlar, Tyranid'in en gizli ve en güçlü psişik varlığıdır. Zoanthrope'un en büyük özelliği, onun psişik gücüdür — onlar, bir Tyranid ordusunun psişik enerjisini topl
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; Lexicanum

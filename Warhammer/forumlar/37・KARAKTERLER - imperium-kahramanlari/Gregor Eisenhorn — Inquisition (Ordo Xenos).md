@@ -14,8 +14,11 @@ Inquisition'ın felsefi yelpazesindeki kaymayı kendi hayatında yaşayan bir fi
 - **Önemli Olaylar:** Necroteuch soruşturması; Cherubael'le bağ; Inquisition'la kopuş.
 - **Kanon Notu:** Romanlar birinci tekil şahıs anlatısıyla yazıldığından Eisenhorn'un kendi yorumları nesnel hüküm sayılmamalıdır. Akıbeti diziler sürdükçe gelişmektedir.
 
-## Tarihçe
+## Amalathian
+Gregor Eisenhorn, Ordo Xenos'un en ünlü Inquisitor'u ve Amalathian fraksiyonunun ilkeleriyle doğmuş adam — Imperium'un 'systemi içinde çalış' taraftarı. Gudrun'daki Pontius Glaw vakasıyla başlayan kariyeri onu Chaos'un kalbine sürükledi; Cherubael adlı daemon-host'u 'kontrollü' kullanan nadir Inquisitor'lardandır. Gideon Ravenor'un eski efendisi.
 
-Gregor Eisenhorn, Inquisition'ın en ünlü ve en deneyimli Inquisitor'lerinden biridir — Ordo Xenos'un en önemli figürüdür. Eisenhorn, Dan Abnett'in romanlarının kahramanıdır ve İmparatorluk'un en ünlü Inquisitor hikâyelerinin kahramanıdır; onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir. Eisenhorn, Inquisition'ın en ünlü ve en deneyimli Inquisitor'ü olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir.
+## Miras
+Eisenhorn'un hikâyesi Inquisition'un en derin ahlaki sınavıdır: bir Puritan nasıl Radical'in araçlarını kullanır hâle gelir? Pontius Glaw, Necroteuch ve saraband meselesi onu ideolojinin sınırına çeker. Romanlar Imperium'un karanlık iç işleyişinin en iyi edebi tasviridir — Eisenhorn Imperium'un vicdanıdır, kirli ama dürüst.
 
--# İlişkili kayıtlar: <#1551815304252887041>, <#1551753472070783096>, <#1551654107058540595>, <#1551812325521100811>
+## Kaynaklar
+-# Kaynaklar: *Eisenhorn* üçlemesi — Dan Abnett (Xenos, Malleus, Hereticus); *The Magos*; *Eisenhorn vs Ravenor*; Lexicanum

@@ -14,6 +14,11 @@ Yalnızca pariah kadınlardan oluşan, ömür boyu sessizlik yemini eden ve Thou
 - **Önemli Olaylar:** Burning of Prospero; Webway savaşı; Battle of Lion's Gate.
 - **Kanon Notu:** Adepta Sororitas'ın bir Order'ı değildir. Ayrıntılı tarihçe için ana kanala bakınız.
 
-## Tarihçe
+## Boşluk
+Sisters of Silence — 'Silent Sisterhood' — Imperium'un 'blank' (psişik-boş) kadın savaşçı örgütüdür; üyeleri Pariah genini taşır — Warp'e 'yokluk' olarak görünürler, psyker ve daemon'a karşı doğal antitezdirler. Null-rod ve Executioner Greatblade ile savaşırlar; daemon'a yaklaştıklarında Warp alanı 'çöker'.
 
-Sisters of Silence, İmparatorluğun en gizemli ve en korkulan kurumlarından biridir; tamamı Pariah (Blank) geni taşıyan kadınlardan oluşan ve Warp'ı kelimenin tam anlamıyla 'susturan' bir savaş birliğidir. Bir Sister of Silence'ın varlığı, çevresindeki her psyker ve demon için fiziksel acı demektir — onların psişik boşluğu (psychic blank) Warp bağlantısını keser ve demonları Immaterium'a geri sürükler. Kurum, İmparator tarafından bizzat kuruldu; görevleri Black Ships'e eşlik ederek psyker'ları güvenle taşımak ve Warp'ın tehditlerine karşı İmparatorluğun son savunma hattını oluşturmaktı. Horus Heresy'de kritik rol oynadılar — özellikle Prospero'nun yakılması ve Terra Kuşatması'nda Thousand Sons'un büyülerine karşı tek etkili kalkan oldular. M42'de neredeyse unutulmuş bir kurumdular ama Guilliman'ın dönüşüyle yeniden aktifleştiler; şim
+## Tarih
+Sisters of Silence'ın kökeni İmparator'a kadar gider — Golden Throne'un korunması ve Black Ships'e eşlik etmeleri görevidir. Heresy'de Terra surlarında savaştılar; sonradan unutuldular ama Guilliman'ın dönüşüyle tekrar aktif oldular — Indomitus Crusade'de Custodes'le birlikte çalışırlar. 'Oblivion Knight' unvanları vardır.
+
+## Kaynaklar
+-# Kaynaklar: *The Master of Mankind*; *Watchers of the Throne* — Chris Wraight; *Codex: Adeptus Custodes*; Lexicanum

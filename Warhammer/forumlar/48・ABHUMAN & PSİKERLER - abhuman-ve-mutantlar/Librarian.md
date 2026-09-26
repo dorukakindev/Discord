@@ -14,8 +14,8 @@ Hem Space Marine hem psyker olan savaşçılardır. Chapter'ın psişik kalkanı
 - **Önemli Olaylar:** Council of Nikaea (*A Thousand Sons*).
 - **Kanon Notu:** Heresy sırasında Nikaea kararının ne ölçüde uygulandığı Legion'dan Legion'a farklı anlatılır.
 
-## Tarihçe
+## Gözlerin Efendisi
+Librarian — Space Marine'ın 'psyker' sınıfıdır; Chapter'ın 'Warp okuru' ve savaş büyücüsü. 'Librarius' örgütünün üyesidir — kayıt, kehanet ve 'İmparator'un ışığı' rolünü taşır. Null-Maidens'ın (Sisters of Silence) karşıtıdır — bir Librarian'ın varlığı 'insanlığın riskini' simgeler.
 
-Librarian, Space Marines'in en ünlü ve en güçlü psyker'ıdır; onların Astartes'in en güçlü ve en bilgili psyker'ı olan ve onun en gizli operasyonlarını yöneten Librarian, Space Marines'in en güçlü ve en önemli üyesidir — onlar, Space Marines'in en ünlü ve en güçlü psyker'ıdır. Librarian'ın en büyük özelliği, onların psişik gücüdür — onlar, Astartes'in en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır; bir Librarian, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Librarian'ın en ünlü özelliği, onların bilgisiçidir — onlar, Space Marines'in en bilgili ve en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücü
-
--# İlişkili kayıtlar: <#1551753431230971988>, <#1551818131679215728>, <#1551809231580307517>, <#1551641477501947995>, <#1551811368389181491>
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Librarian* lore; Lexicanum

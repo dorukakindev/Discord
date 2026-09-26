@@ -9,9 +9,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7d/Arjac_Rockfist_Anvil_
 - **Köken:** Fenris
 - **Önemli Olaylar:** Chapter şampiyonluğu
 
-## Tarihçe
+## Anvil
+Arjac Rockfist — 'Anvil of Fenris' — Space Wolves'un Wolf Guard'ının en güçlü savaşçısı ve Logan Grimnar'ın sağ koludur; Foehammer'ıyla tanınır. 'Rockfist' lakabı bir Dreadnought'ı bile yerinden eden gücünden gelir. Chapter'ın 'fiziksel ideal'inin canlı örneğidir — savaşta basit ve yıkıcı.
 
-Arjac Rockfist — 'Dağ-Adam', 'Grimnar'ın Şampiyonu', 'Fenris'in Örüsü' — Space Wolves'un Great Wolf'u Logan Grimnar'ın kişisel şampiyonudur ve bu görevi bazı insanların yaşam süresinden uzun süredir sürdürür. Wulfen'in Kadehi'nden içmeden önce bile dev bir adamdı; Canis Helix bedenine yerleşince gerçek bir dev oldu. Aslen Fenris'in Bear Claw kabilesinden bir demirciydi — ama asıl hüneri dövmede değil savaş potasındaydı. İnanılmaz gücü ve dayanıklılığı Great Wolf'u o kadar etkiledi ki Astartes'e bile dönüştürülmeden önce onu kişisel şampiyonu yaptı — 'en saf Fenrisli' olarak anılır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Wolves*; *Arjac Rockfist* lore parçaları; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553057418852958359>

@@ -13,8 +13,8 @@ Kalın kitin kabuğuyla yürüyen bir kale gibi ilerleyen, sırtında ve gövdes
 - **Önemli Olaylar:** Kaynaklarda tek bir Tyrannofex'e bağlanmış öne çıkan olay yoktur.
 - **Kanon Notu:** Tyranid organizmalarının biyolojik işleyişi kaynaklarda genel çizgilerle anlatılır; mekanik bir kökene ya da üretim hattına bağlanmaz.
 
-## Tarihçe
+## Yaşayan Kale
+Tyrannofex — Tyranid'in en 'ağır zırhlı' bioformudur; devasa topu (Rupture Cannon veya Acid Spray) ve neredeyse delinemez kabuğuyla bilinir. 'Sırtında silah taşıyan' büyük canavar — bir Tyrannofex bir tank bölüğünü durdurabilir. Hive'in 'süper ağır' cevabıdır.
 
-Tyrannofex, Tyranid'in en ünlü ve en büyük yaratığıdır; bir Tyranid ordusunun en büyük ve en güçlü yaratığı olan ve onun en büyük savaşlarını yapan Tyrannofex, Tyranid'in en büyük ve en tehlikeli varlığıdır — onlar, Tyranid'in en ünlü ve en büyük yaratığıdır. Tyrannofex'in en büyük özelliği, onun boyutudur — onlar, bir Tyranid ordusunun en büyük ve en güçlü yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır; bir Tyrannofex, hem bir yaratık hem de bir yıkımdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Tyrannofex'in en ünlü özelliği, onun devasa boyutudur — onlar, bir Tyranid ordusunun en büyük ve en güçlü yaratığıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Tyrannofex, Tyranid'in en ünlü ve en büyük yaratığıdır — onlar, bir devasa yaratığın ve Tyranid'in en büyük tehdidinin somut halidir.
-
-## Teknik / Biyolo
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; Lexicanum

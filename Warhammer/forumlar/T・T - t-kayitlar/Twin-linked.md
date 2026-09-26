@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/41/Shoota.png/revision/latest?cb=20100505100553
-
 -# THE IMPERIAL ARCHIVE · T KAYITLARI · Kayıt
 
 # Twin-linked

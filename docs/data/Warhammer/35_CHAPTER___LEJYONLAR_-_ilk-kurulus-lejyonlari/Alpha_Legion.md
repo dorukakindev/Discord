@@ -7,13 +7,16 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f4/Alpha_Legion_Heretic_
 
 Sızma, casusluk ve aldatmanın ustası; sadakati hâlâ tartışmalı en gizemli lejyon.
 
-## Tarihçe
-Alpha Legion, tüm lejyonların en gizemlisidir; primarch'ları aslında gizli ikizler olan Alpharius ve Omegon'dur. Kimliklerini sürekli gizleyerek, birbirinin yerine geçerek ve sıradan lejyonerleri bile "Alpharius" kılığına sokarak galaksinin en aldatıcı savaş ağını işletirler; her üye "I am Alpharius" diyebilir.
+## Köken: Son Bulunan Primarch
+XX Lejyon'un primarch'ı Alpharius — ve ikizi Omegon — son bulunan primarch'tı; bulunuşu bile bir sırdı. Lejyonun kimliği bilinmezlik üzerine kuruludur: her ajan 'ben Alpharius'um' der, her operasyon katmanlıdır, sadakatin kime olduğu belirsizdir. 'Hydra dominatus' — kesilen başın yerine ikisi çıkar.
 
-Açık savaştan çok ağ kurmayı, sızmayı, sabotajı ve düşmanı kendi içinden çökertmeyi tercih ederler; her lejyoner bir ajan, her plan bir aldatmaca içinde aldatmacadır. Sembolleri hidradır ve sözleri her şeyi özetler: "Biz Hidra'yız; bir başımızı keserseniz iki tane daha çıkar."
+## Heresy: Hangi Taraf?
+Alpha Legion'un ihaneti tartışmalıdır. Kanonik anlatıda lejyon Cabal'ın kehanetine göre hareket etti: Horus'un kazanması Chaos'un kendi kendini yok etmesi demekti, bu yüzden lejyon bilerek kaybeden tarafa oynadı — yani 'ihanet' bile planın parçasıydı. Gerçek niyet ne olursa olsun, Pluto'daki savaşta Alpharius Rogal Dorn tarafından öldürüldü (ya da öldürüldüğü iddia edilen bir ajan); Omegon'un akıbeti belirsizdir.
 
-Alpha Legion'un doktrini, Alpharius ve gizli ikiz kardeşi Omegon'un 'çok-yüzlü savaş' felsefesine dayanır: cephede değil, bilgiyle kazanılan savaş. Lejyonun operasyonları casusluk ağları, 'Hydra' kod adlı hücreler ve düşmanın içine yerleştirilmiş ajanlar üzerinden yürür — bir Alpha Legion saldırısı çoğu zaman patlak vermeden yıllar önce başlamıştır.
+## Bugün
+Alpha Legion, ihanet lejyonlarının en kırılgan ve en tehlikelisidir: homurdanmış bir lejyon değil, galaksiye dağılmış bir hücre ağı. Her Chaos istilasında, her Imperium darbesinde parmakları vardır; Imperium'un içindeki ajan ağları binlerce yıldır aktiftir. 'Ben Alpharius'um' sözü, lejyonun kimliğinin silahlaştırılmasıdır.
 
-Sapkınlık'taki rolü bile muğlaktır: kayıtlar Warmaster'ın yanında göründüklerini söyler ama Alpharius'un gerçek niyeti — İmparatorluk'u kurtarmak için ihanet maskesi takmak mı, gerçekten dönmek mi — bilinmezliğini korur. 'I am Alpharius' sözü lejyonun kimlik bulamacını özetler; bugün her Chapter'ın arşivinde, Alpha Legion'un hâlâ aktif olduğuna dair kanıt dosyaları vardır.
+## Kaynaklar
+-# Kaynaklar: *Legion*, *Praetorian of Dorn*, *Alpharius: Head of the Hydra* (HH); *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

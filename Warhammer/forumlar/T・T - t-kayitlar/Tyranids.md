@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e1/Assualt.png/revision/latest?cb=20151230134436
-
 -# THE IMPERIAL ARCHIVE
 # Tyranids
 

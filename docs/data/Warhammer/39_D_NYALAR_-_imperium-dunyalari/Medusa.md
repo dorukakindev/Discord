@@ -12,14 +12,11 @@ Sürekli alacakaranlık içinde, volkanlar ve buzul sıradağlarla kaplı, jeolo
 - **System:** Segmentum Obscurus - Halkaların Gözü'ne yakın
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## Demir Dünya
+Medusa, Iron Hands'in ana dünyasıdır; gri çöl ve makine-şehirleriyle tanınır — Ferrus Manus'un 'gözlerin ve ellerin' diyarı. Chapter'ın 'bedenin zayıflığı' felsefesi Medusa'nın sert ikliminden beslenir: Imperium'un en 'insanlıktan çıkmış' chapter'ı burada yaşar, bionik uzuvlar ve soğuk mantık onların kimliğidir.
 
-Medusa (resmî adıyla Medusa IV), Iron Hands chapter'ının ve kayıp primarch'ları Ferrus Manus'un anavatanıdır; sürekli bir alacakaranlığın hüküm sürdüğü, sert ve acımasız bir ölüm dünyasıdır. Halkaların Gözü'ne tehlikeli derecede yakın bir konumda, Segmentum Obscurus'ta yer alır; güneşi, kirli ve karanlık göğü neredeyse hiç delemez.
+## The Great Devourer
+Medusa'nın mitolojisi Ferrus Manus'un efsanesiyle iç içedir — 'gümüş erimiş el' figürü Chapter'ın en büyük anısıdır. Isstvan V'de Ferrus'un ölümü Medusa'da 'yas' kültürü oluşturdu; Iron Hands için savaş artık 'öfke' değil 'görev'dir — duygusuzluğa kaçan bir meditasyon.
 
-Gezegenin en belirgin özelliği, jeolojik kararsızlığıdır; buzul sıradağları, volkanlar ve kaynayan gayzerler iç içe geçer ve manzara sürekli bir değişim halindedir. Tektonik plakaların hareketi durmadan yeni dağlar ve denizler oluşturur, yarattığı hızla da yok eder. Böyle bir dünyada kalıcı hiçbir şey inşa edilemez; istikrar bir lüks, değişim ise tek sabittir.
-
-Medusa halkı, sürekli birbiriyle rekabet eden klanlar halinde örgütlenmiştir; kıt kaynaklar ve güvenli zemin için amansızca mücadele ederler, çünkü gezegenin öngörülemez doğası yüzünden hiçbir yerde uzun süre tutunamazlar. Bu acımasız hayatta kalma savaşı, halkı son derece sert, dayanıklı ve pragmatik yapar; zayıflık burada ölüm demektir. Iron Hands, en güçlü adaylarını bu klanlar arasından devşirir. Ferrus Manus'un düştüğü büyük buz zirvesi Karaashi, bugün hâlâ gezegende durur.
-
-## Tarihçe
-
-Medusa (resmen Medusa IV), Iron Hands'ın chapter homeworld'ü ve kayıp primarch'ları Ferrus Manus'un dünyasıdır; Eye of Terror'a tehlikeli yakın, sürekli karanlık ve kirli gökyüzlü sert bir Feral World. Güneşin neredeyse hiç görünmediği bu dü
+## Kaynaklar
+-# Kaynaklar: *Codex: Iron Hands*; *Fulgrim* (HH); *Wrath of Iron* — Chris Wraight; Lexicanum

@@ -12,6 +12,8 @@ Mitolojide o kadar yüce ve uzak kabul edilirdi ki ona doğrudan tapınılmaz, y
 
 Ama Düşüş geldiğinde, Slaanesh'in doğuşunun yarattığı psişik fırtına panteonun neredeyse tamamını yuttu; Asuryan bile bu felaketten kurtulamadı ve yok oldu (ya da en azından artık aktif değildir). Tanrıların kralının bile düşmesi, Aeldari uygarlığının çöküşünün ne kadar mutlak olduğunu gösterir.
 
-## Tarihçe
+## Kral
+Asuryan — 'Phoenix King' — Eldar panteonunun baş tanrısıdır; Khaine'nin bile üstünde duran 'taht' figürü. Slaanesh'in doğuşunda ilk yutulan tanrılardandır — ama 'Asurmen' (onun el'inin adını taşıyan) Phoenix Lord'ların kurucusu olarak onun mirasını taşır. Eldar'ın 'kaybolmuş düzen'inin simgesidir.
 
-Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır; Aeldari panteon'unun en yüksek tanrısı olan ve onların en kutsal figürü olan Asuryan, Aeldari'nin en kutsal ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en kutsal tanrısıdır. Asuryan'ın en büyük özelliği, onun kutsallığıdır — onlar, Aeldari panteon'unun en yüksek tanrısıdır ve onların varlığı, Aeldari'nin en büyük kutsallığının kanıtıdır; bir Asuryan takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Asuryan'ın en ünlü özelliği, onun Phoenix King olmasıdır — onlar, Aeldari'nin en yüksek ve en kutsal tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır — onlar, bir kutsallığın ve Aeldari'nin en büyük geleneğ
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Asurmen: Hand of Asuryan*; Lexicanum

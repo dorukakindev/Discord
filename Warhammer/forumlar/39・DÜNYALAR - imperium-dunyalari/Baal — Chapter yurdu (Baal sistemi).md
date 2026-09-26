@@ -14,10 +14,13 @@ Blood Angels'ın kale-manastırı Arx Angelicum'un yükseldiği, Sanguinius'un s
 - **Önemli Olaylar:** Sanguinius'un bulunuşu; Devastation of Baal; Dante'nin Lord Regent of Imperium Nihilus olarak atanması.
 - **Kanon Notu:** Ayların savaş sonrası durumu kaynaklarda ayrıntılı işlenmez; bu kayıt kesin bir hüküm vermez.
 
-## Tarihçe
+## Kanın Dünyası
+Baal — ve uyduları Baal Primus ile Baal Secundus — Blood Angels'ın ana sistemidir; radyasyonlu çöl dünyaları, burada yaşayan kabileler (Blood) Chapter'a aday sağlar. Baal'ın kızıl kumları ve Sanguinius'un mitolojisi Chapter'ın kimliğini oluşturur — 'muhteşem melek' ile 'hastalıklı kan' ikilisi buradan gelir.
 
-Baal, Blood Angels'ın Chapter yurdu olan ve İmparatorluğun en trajik ve en asil dünyasıdır; onun çöl ve kaya yapısıyla — Blood Angels'ın sert ve asil yapısının somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Baal'ın en büyük özelliği, onun trajedisidir — onlar, Hive Fleet Leviathan'ın saldırısına uğradılar ve neredeyse yok edildiler; bir Baal, hem bir gezegen hem de bir mezardır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır. Baal'ın en ünlü özelliği, onun Blood Angels'ın evidir — onlar, bir Legion'un evidir ve onların varlığı, bir Legion'un ruhunun ve onurunun kanıtıdır. Baal, Blood Angels'ın evidir ve onların ruhunun merkezidir — onlar, trajedinin ve asaletin somut halidir.
+## Devastation
+999.M41'de Leviathan'ın gelmesi Baal'ı neredeyse bitirdi — *The Devastation of Baal* romanı bu savaşın destanıdır: Dante'nin tüm successor chapter'ları toplaması, son siperler, Guilliman'ın son dakika kurtarması. Baal'ın yıkımının eşiğinde olması Chapter'ın 'ölümle savaşan' ruhunu perçinledi.
+
+## Kaynaklar
+-# Kaynaklar: *The Devastation of Baal* — Guy Haley; *Codex: Blood Angels*; *Dante*; Lexicanum
 
 -# Kaynaklar: *The Devastation of Baal — Guy Haley*; *Codex Supplement: Blood Angels — 10th Editi
-
--# İlişkili kayıtlar: <#1551811368389181491>, <#1551650289579335757>, <#1551809334483361823>, <#1551815418619101185>

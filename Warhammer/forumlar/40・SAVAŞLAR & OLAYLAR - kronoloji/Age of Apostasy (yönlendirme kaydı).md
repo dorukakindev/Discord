@@ -14,6 +14,11 @@ Reign of Blood olarak anılan zulüm döneminin Imperium'u iç savaşa sürükle
 - **Önemli Olaylar:** Ecclesiarchal Palace kuşatması; Vandire'nin ölümü.
 - **Kanon Notu:** Katılan Chapter'lar kaynaklarda aynı listeyle verilmez.
 
-## Tarihçe
+## İç Çürümenin Çağı
+Age of Apostasy (yaklaşık M36 başı — ortası), İmparatorluk'un kendi kilisesi ve idaresinin içeriden çürüdüğü dönemdir; Heresy'den sonra Imperium'un en ağır krizidir. High Lord Goge Vandire — Administratum ve Ecclesiarchy'nin ikisini birden ele geçiren diktatör — 'Reign of Blood'ı başlattı: Sisters of Battle'ı kişisel ordusu yaptı, muhalifleri sistematik temizledi, Terra'yı terörle yönetti.
 
-Age of Apostasy, İmparatorluğun en karanlık ve en yozlaşmış dönemidir; Goge Vandire'in — Ecclesiarchy'nin en yozlaşmış lideri — İmparatorluğun en büyük dini savaşını başlattığı ve İmparatorluğu neredeyse yok eden bir dönemdir — onlar, İmparatorluğun en karanlık ve en yozlaşmış döneminin somut halidir. Age of Apostasy'nin en büyük özelliği, onun yozlaşmasıdır — onlar, İmparatorluğun en yozlaşmış liderinin en büyük savaşıdır ve onların varlığı, İmparatorluğun en büyük iç tehdidinin kanıtıdır; bir Age of Apostasy, bir imparatorluğun en karanlık anının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük yozlaşmasının somut halidir. Age of Apostasy'nin en ünlü özelliği, onun Vandire'in düşüşüdür — onlar, bir liderin en büyük yozlaşmasının ve en büyük yenilgisinin anıdır ve onların varlığı, İmparatorluğun en büyük dersinin kanıtıdır. Age of Apostasy, İmparatorluğun en karanlık ve en yozlaşmış dönemidir — onlar, İmparatorluğun en büyük yozlaşmasının ve en büyük dersin
+## Thor ve Kefaret
+Sebastian Thor — Ecclesiarchy içinde reformcu bir rahip — Vandire'a karşı direniş başlattı ve Confederation of Light hareketini kurdu. Vandire sonunda kendi Sisters of Battle'ı (o zamanki adıyla Brides of the Emperor) tarafından infaz edildi — Alicia Dominica'nın İmparator'un ışığında gerçeği görmesi canon'un en meşhur dönüm noktalarındandır. Sonuç: Ecclesiarchy'nin ordu kurması yasaklandı ('no men under arms' — boşluk Sisters of Battle'ın var olmasını mümkün kıldı), Thor reformları Ecclesiarchy'yi yeniden kurdu.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Adepta Sororitas*; *Codex: Sisters of Battle*; *Reign of Blood* materyalleri; Lexicanum

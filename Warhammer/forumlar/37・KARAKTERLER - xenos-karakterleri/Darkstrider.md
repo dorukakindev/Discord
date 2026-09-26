@@ -14,10 +14,14 @@ Darkstrider, düşman hatlarının derinliklerine sızan Pathfinder birliklerini
 - **Önemli Olaylar:** Damocles Gulf Crusade; Dal'yth savaşı.
 - **Kanon Notu:** Darkstrider'ın bireyselliğinin T'au toplumunda ne ölçüde tolere edildiği kaynaklarda farklı vurgularla anlatılır.
 
-## Tarihçe
+## Gölgeli İzci
+El'Myamoto — 'Darkstrider' — T'au'nun en ünlü Pathfinder komutanı ve saha subayı; Farsight Enclaves'le ilişkisi tartışmalı olan bağımsız figür. Meridyen Sektörü'ndeki operasyonlarıyla bilinir: stealth suit'lerle Imperium'un arkasına sızar, hedefi işaretler, Battlesuit'lerin vuracağı noktayı gösterir. Tau'nun 'görünmez savaşçı' doktrininin canlı kanıtıdır.
 
-Darkstrider, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır — T'au'nun en ünlü askeri figürüdür. Bu figür, T'au'nun en ünlü ve en tehlikeli komutanıdır; Darkstrider, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır. Bu figür, T'au'nun en ünlü ve en tehlikeli komutanıdır; Darkstrider, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır. Figür, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanı olarak kalır.
+## Sembol
+Darkstrider canon'da Tau'nun 'kuralcı' imajına karşı 'bağımsız düşünen asker' figürüdür — Shadowsun'un itaatkâr örneğinin zıttı. Ethereal'ların ona tam güvenmediği ima edilir; o da onlara tam itaat etmez.
 
+## Kaynaklar
+-# Kaynaklar: *Codex: T'au Empire*; *Farsight* serisi (yan); *Darkstrider* lore parçaları; Lexicanum
 
 -# Kaynaklar: *Codex: T'au Empire*
 
