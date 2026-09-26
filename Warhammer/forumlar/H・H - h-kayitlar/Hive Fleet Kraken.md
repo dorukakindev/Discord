@@ -16,8 +16,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6c/Kraken_Tyranid_Warrio
 - **Bilinen Kullanıcılar / Operatörler:** Kraken kol filolari; Genestealer kültleri
 - **Önemli Olaylar:** Second Tyrannic War; Iyanden'in neredeyse yutulması; Prens Yriel'in dönüşü.
 
-## Tarihçe
+## Gizli Dalga
+Hive Fleet Kraken, Tyranid'in ikinci büyük dalgasıdır; Behemoth'un kayıp parçalarından ve yeni kaynaklardan oluştu — Iyanden'i neredeyse yok etti. Kraken'in taktiği farklıydı: 'ana kütleden' ayrılan küçük filolar halinde yayıldı, bu yüzden Imperium onu 'tek dalga' olarak görmedi. Kraken'in kalıntıları hâlâ galakside 'ufak' Hive Fleet'ler olarak görülür.
 
-Hive Fleet Kraken, Tyranid'in en büyük ve en korkulan filolarından biridir; İmparatorluğun en zorlu savaşlarından birini — Ichar IV ve Iyanden'in savunması — yaşatan ve neredeyse İmparatorluğu yok eden bir güçtür — onlar, Tyranid'in en büyük ve en tehlikeli filosudur. Kraken'in en büyük özelliği, onların adaptasyonudur — onlar, Imperial taktiklerine karşı bile bağışıklık geliştirir ve onların savaşı, hem biyolojik hem de evrimsel bir mücadeledir; bir Kraken ordusu, bir Imperial savunmasını bile geçebilir ve onların varlığı, bir gezegenin sonunun başlangıcıdır. Kraken'in en ünlü savaşı, Iyanden'in savunmasıdır — onlar, bir Craftworld'ü neredeyse yok ettiler ve onların savaşı, Aeldari'nin en büyük trajedilerinden biridir; bir Kraken saldırısı, bir Craftworld'ün sonunun başlangıcıdır. Hive Fleet Kraken, İmparatorluğun en büyük ve en korkulan Tyranid filosudur — onlar, yaşamın sonunun somut halidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; *Battle for Iyanden*; Lexicanum
 
 -# Kaynaklar: *Codex: Tyranids*; *Iyanden: A Codex Supplement*

@@ -14,9 +14,11 @@ Soğuk iklim savaşında ve yıpratma savaşında ustalaşmış, zorluk karşıs
 - **Önemli Olaylar:** Valhalla'nın Ork istilasına karşı savunulması; Ciaphas Cain romanlarının seferleri.
 - **Kanon Notu:** Ciaphas Cain romanları evren içinde Cain'in güvenilmez ve alaycı anılarından derlenmiş biçimde sunulur; ayrıntılar bu çerçevede okunmalıdır.
 
-## Tarihçe
+## Buz Savaşçıları
+Valhallan Ice Warriors — Valhalla'nın 'buz alayıdır; -60 derece ortamlarda savaşan ve 'yeni keşfedilmemiş' direncin simgesidir. Colonel Chenkov ve 'Iron Fist' taktikleriyle bilinirler — kayıp sayısı onlar için 'maliyet' değil 'plan'dır. Eisenhorn'un dünyasından gelen bu alay Imperium'un 'soğuk' tarafıdır.
 
-Valhallan Ice Warriors, İmparatorluk Muhafızı'nın en ünlü ve en sert alaylarından biridir — Valhalla gezegeninin buzlu çorak topraklarından gelen askerlerdir. Valhallanlar, İmparatorluk'un en zorlu iklim koşullarında savaşmaya alışmış birliklerdir; özellikle Ork'lara karşı savaşta efsanevi bir üne sahiptirler. Valhalla'nın Ork istilası sırasında gezegeni geri alan Valhallanlar, İmparatorluk'un en sert ve en dirençli alaylarını oluşturur; bu alaylar, siper savaşı ve kuşatma savaşlarında eşsizdir. Valhallan Ice Warriors, İmparatorluk Muhafızı'nın en sert ve en efsanevi alaylarından biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Ice Warriors*; Lexicanum
 
 -# Kaynaklar: *For the Emperor — Sandy Mitchell*; *Ice Guard — Steve Lyons*; *Codex: Imperial Guard*
 

@@ -13,10 +13,14 @@ Varlığı savunmaya adanmış, halkı çocukluktan itibaren askerlik için yeti
 - **Bilinen Kullanıcılar / Operatörler:** Cadian Shock Troops ve Kasrkin; Creed.
 - **Önemli Olaylar:** Black Crusade'ler; 999.M41'deki Fall of Cadia.
 
-## Tarihçe
+## Kapının Kilidi
+Cadia — 'Fortress World' — Imperium'un en ünlü askeri gezegeniydi; Eye of Terror'un tek sabit çıkışı olan Cadian Gate'in yanında durduğu için on bin yıl boyunca 'herkes askerdir' prensibiyle yaşadı. Nüfusunun tamamı orduya kayıtlıydı — 'Cadian Shock Troops' Imperium'un en disiplinli alaylarıydı. Kasr Kaleleri (Kasr) hem şehir hem kaledir.
 
-Cadia, İmparatorluğun en önemli ve en trajik dünyasıdır; onun Cadian Gate'in — Eye of Terror'un tek geçiş noktası — bekçisi olarak hizmet veren ve Abaddon'un on üçüncü Kara Haçlı Seferi'nde yok edilen bir dünyadır — onlar, İmparatorluğun en büyük kaybının ve en büyük trajedisinin merkezidir. Cadia'nın en büyük özelliği, onun stratejik konumudur — onlar, Eye of Terror'un tek geçiş noktasının bekçisidir ve onların varlığı, İmparatorluğun en önemli savunma hattıdır; bir Cadia, bir gezegenin en önemli halidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Cadia'nın en ünlü özelliği, onun yıkılışıdır — onlar, Abaddon'un on üçüncü Kara Haçlı Seferi'nde yok edildiler ve onların varlığı, İmparatorluğun en büyük kaybının ve Büyük Yarık'ın doğuşunun kanıtıdır. Cadia, İmparatorluğun en önemli ve en trajik dünyasıdır — onlar, İmparatorluğun en büyük kaybının ve en büyük trajedisinin somut halidir.
+## Düşüşü
+999.M41'de Abaddon'un 13. Kara Haçlı Seferi Cadia'yı parçaladı — gezegen fiziksel olarak yok oldu. Ama 'Cadia stands' sloganı Imperium'un inanç sembolü oldu: Cadian alayları hâlâ savaşır, kasr kültürü diasporada sürer. Creed'in kayboluşu ve Trazyn'in 'koruduğu' Creed figürü canon'da Cadia'nın 'tamamen bitmediği' umududur.
 
-## Kanon Notu
+## Sembol
+Cadia'nın düşüşü Büyük Yarık'ın açılmasına yol açtı — gezegenin yok oluşu sadece bir kayıp değil, galaksiyi ikiye bölen olaydır. Canon'da 'Cadia ölü ama Cadia ayakta' paradoksu Imperium'un ruhani direncinin merkezidir.
 
-Cadia bir dünya olarak artık yoktur; Cadian kimliği diaspora hâlinde sürer. Tahliye edilenlerin ya da geride k
+## Kaynaklar
+-# Kaynaklar: *Gathering Storm: Fall of Cadia*; *Cadia Stands* — Justin Hill; *Cadian Honour* — Justin Hill; Lexicanum

@@ -7,13 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c9/Red_Corsairs_SP.png/r
 
 Huron Blackheart'ın Badab Savaşı sonrası kurduğu, Maelstrom'dan akın düzenleyen Kaos korsan imparatorluğu.
 
-## Tarihçe
-Red Corsairs, geleneksel bir chapter değil, bir Kaos korsan imparatorluğudur; kökeni, sadık Astral Claws chapter'ının ihanetine dayanır. Astral Claws Chapter Master'ı Lufgt Huron, Badab Savaşı'nda İmparatorluk denetimine başkaldırdı ve yıllar süren bir iç savaşa yol açtı.
+## Korsan Lejyonu
+Red Corsairs, Huron Blackheart'ın (eski Lufgt Huron) lideri olduğu Chaos warband'ıdır — eski Astral Claws'ın devamı; Maelstrom'da (Warp fırtınası bölgesi) yaşar ve Imperium'un ticaret yollarına korsanlık yapar. 'Renegade' Space Marine'lerin en büyük toplanma yeridir — Badab sonrası kaçanlar, düşmüş chapter'lar burada toplanır. 'Blackheart'ın ordusu diye bilinir.
 
-Huron yenildiğinde ölümcül yaralandı ama ölmedi; Mechanicus tarafından kurtarıldı, Kaos'a tam olarak döndü ve "Huron Blackheart" oldu (vücudunun yarısı artık biyoniktir, omzunda Hamadrya adlı canlı bir iblis-yaratık taşır). Kaçan savaşçılarıyla birlikte, Warp anormalliği Maelstrom'a sığındı ve Red Corsairs'i kurdu.
+## Güç
+Red Corsairs canon'da 'en organize Chaos warband'ı olarak bilinir — Abaddon'un Black Legion'undan sonra ikinci. Huron'un stratejisi Imperium'u 'parazit gibi' sömürür: baskın, kaç, tekrarla. 'Grexus Primus' ve 'Huron's Razor' operasyonlarıyla bilinir; Badab ruhu hâlâ onlarda yaşar.
 
-Red Corsairs'in kökeni, Badab Savaşı'nın küllerindedir: Astral Claws Chapter'ın Başkomutanı Huron Blackheart — 'Tyrant of Badab' — sektörünün korunması adına vergi ve otonomiyi genişletti, sonra doğrudan isyan etti. Badab'ın düşüşüyle Huron ve sağ kalan lejyonu Maelstrom'a kaçtı ve orada Corsair filosunu kurdu.
-
-Red Corsairs, 'hain lejyon' değil 'korsan devleti'dir: Huron'un flotillası İmparatorluk konvoylarını yağmalar, firari kardeşleri saflarına katar ve Warp fırtınalarının koruduğu anakarasından seferler düzenler. Blackheart'ın hırsı açıktır — 'yeni Kara Haçlı Seferi' olarak görülen yapılanması, Abaddon'a bile rakip bir kaos gücü merkezi hâline gelmiştir.
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

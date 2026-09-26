@@ -12,17 +12,11 @@ Space Wolves'un buzul ölüm dünyası; dev krakenler, fırtınalar ve acıması
 - **System:** Fenris Sistemi
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## Kurtların Dünyası
+Fenris, Space Wolves'un ana dünyası ve Imperium'un en ölümcül 'ölüm dünyalarından' biri; buzul okyanusları, kurt sürüleri ve sürekli depremlerle tanınır. Yüzeyindeki tek kalıcı kara Asaheim'dir — Space Wolves'un kale-manzarası The Aett burada. Fenris'in halkı (Fenrisianlar) Space Wolves'a savaşçı sağlar; 'wolf totem' kültürü Chapter'ın kimliğidir.
 
-Fenris, Space Wolves'un anavatanı, acımasız bir buzul ölüm dünyasıdır; dev deniz krakenleri, sonu gelmez fırtınalar ve dondurucu kışlarla dolu bir cehennem. Gezegenin sıra dışı yörüngesi yüzünden iklimi vahşice değişir; kıtaları periyodik olarak okyanusa batar ve yeniden yükselir, bu yüzden kalıcı uygarlık neredeyse imkânsızdır.
+## Mitoloji
+Fenris'in kendi mitolojisi Russ'ın geliş efsanesiyle iç içedir — 'Fenrisian wolves' denen dev yaratıklar, Sky Warriors kültü, 12 büyük kabile. Imperium'un resmi haritalarında 'ölüm dünyası' olarak geçer ama Fenris'liler için burası cennettir: 'zorluğu kendini seven' insanların dünyası. Chapter'ın İmparator kültüne mesafesi de Fenris kültüründen gelir — onlar İmparator'a 'tanrı' değil 'baba' derler.
 
-Bu zorlu dünyada yalnızca en sert, Viking benzeri savaşçı kabileler hayatta kalır; sürekli birbirleriyle ve doğanın dehşetiyle savaşırlar. Space Wolves'un Kurt Rahipleri (Wolf Priests), bu kabileler arasından ölmek üzere olan en güçlü kahramanları seçer ve onları chapter'a alır; Fenris'in vahşeti, savaşçıları daha gelmeden test eder ve çelikleştirir.
-
-Fenris kültürü (saga, onur, kabilesel sadakat, içki ve kavga), Space Wolves'un kimliğine işlemiştir; chapter, anavatanının vahşi ruhunu taşır. Magnus the Red, Prospero'nun yakılışının intikamını almak için bir keresinde doğrudan Fenris'i kuşattı ("Wolftime"), gezegeni ve chapter'ı büyük tehlikeye attı; bu olay, Fenris efsanelerine kazındı.
-
-Fenris, bir dünyanın bir chapter'ı nasıl şekillendirebileceğinin en saf örneğidir; Space Wolves'un vahşeti, onuru ve dayanıklılığı doğrudan bu acımasız buzul cehenneminden gelir. O, yalnızca en güçlülerin hayatta kaldığı, zayıflığın ölüm anlamına geldiği ve her günün bir saga olduğu, efsanevi bir ölüm dünyasıdır.
-
-
-## Tarihçe
-
-Fenris, Segmentum Obscurus'taki Death World'dür — 'Vlka Fenryka' yani Space Wolves'un homeworld'ü ve asker kaynağı; aynı zamanda Primarch Leman Russ'ın dünyası. Space Wolves'un devasa kale-manastırı The
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Wolves*; *Space Wolf* serisi — William King; *The Emperor's Gift*; Lexicanum

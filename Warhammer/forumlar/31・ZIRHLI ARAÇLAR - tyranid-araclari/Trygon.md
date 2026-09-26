@@ -14,9 +14,11 @@ Kayayı ve toprağı pençeleriyle yararak savunma hatlarının altından geçen
 - **Önemli Olaylar:** Kaynaklarda tek bir Trygon'a bağlanmış öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Yeraltı Canavarı
+Trygon — Tyranid'in 'yeraltı' savaş bioformudur; toprakta tünel açar ve arkasından bioformlar gelir. 'Trygon Prime' varyantı psişik iletken olarak çalışır — Hive Mind'ın 'yeraltı ağı'nın başıdır. Sürpriz saldırının bedenidir: düşmanın savunma hattının *altından* gelir.
 
-Trygon, Tyranid'lerin en tehlikeli ve en ölümcül bioform'larından biridir — yeraltında tünel kazarak düşman hatlarının arkasına çıkan dev bir bioformdur. Trygon, Tyranid'lerin en tehlikeli ve en ölümcül bioform'larından biridir; bu bioform, Tyranid'lerin en önemli ve en ölümcül saldırı güçlerinden biridir. Trygon, Tyranid'lerin en tehlikeli ve en ölümcül bioform'larından biridir; bu bioform, Tyranid'lerin en önemli ve en ölümcül saldırı güçlerinden biridir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; Lexicanum
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

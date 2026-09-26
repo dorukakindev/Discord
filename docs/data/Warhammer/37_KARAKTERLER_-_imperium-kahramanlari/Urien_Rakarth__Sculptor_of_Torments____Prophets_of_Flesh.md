@@ -14,6 +14,11 @@ Etin ve acının sanatında ustalaşmış bir Master Haemonculus. Kaynaklar onu 
 - **Önemli Olaylar:** Kaynaklar onu tek bir olaydan çok, Commorragh'ın uzun iç tarihiyle ilişkilendirir.
 - **Kanon Notu:** Yaşının kesin ölçüsü kaynaklarda verilmez; "en yaşlı" nitelemesi evren içi bir ün ifadesidir.
 
-## Tarihçe
+## Eti Şekillendiren
+Urien Rakarth — 'Flesh Sculptor' — Haemonculus Covens'ın en yaşlı ve en yozlaşmış figürü; Prophets of Flesh'in efendisi. Binlerce yıldır et ve ruh üzerinde çalışır: Grotesque'leri ve Wracks'leri tasarlayan, 'acıyı sanata çeviren' adam. Commorragh'daki laboratuvarı 'çürümüş cennet' olarak geçer — içindeki her şey bir zamanlar canlıydı.
 
-Urien Rakarth (Sculptor of Torments), Drukhari'nin en tehlikeli ve en korkulan Haemonculus'udur — Prophets of Flesh'in lideridir. Rakarth, Drukhari'nin en tehlikeli ve en korkulan Haemonculus'udur; onun deneyleri ve işkence sanatı, Drukhari'nin en korkulan ve en tehlikeli güçlerinin kaynağıdır. Rakarth, Drukhari'nin en tehlikeli ve en korkulan figürü olarak kalır — onun deneyleri, İmparatorluk'un en korkulan ve en tehlikeli düşmanlarının kaynağıdır.
+## Onun İçin Ölüm
+Rakarth'ın ilginç özelliği ölümü bile 'deney' olarak görmesidir — öldürüldüğünde kendini yeniden üretir (Haemonculus rejenerasyonu), beden değiştirir ve döner. Onun için yaşam sadece 'yeni malzeme' bulmaktır; Canon'da Imperium'un bile korktuğu figürlerden biridir çünkü Rakarth'ın esiri olmak ölümden beterdir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; *Path of the Dark Eldar*; *Urien Rakarth* lore parçaları; Lexicanum

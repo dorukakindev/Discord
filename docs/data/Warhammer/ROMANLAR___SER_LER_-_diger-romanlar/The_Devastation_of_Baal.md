@@ -8,14 +8,10 @@ Blood Angels'ın ev dünyasına Tyranid Hive Fleet Leviathan saldırısı — Da
 - **Yazar:** Guy Haley
 - **Konum/Dönem:** Baal, ~999.M41
 
-## İçerik
-Commander Dante'nin önderliğinde Baal'ın savunması; 'Great Devourer'ın Baal'i yutmaya gelişi ve son anda kurtuluş.
+## Yıkım
+The Devastation of Baal — Guy Haley'in romanı; Leviathan Hive Fleet'in Baal'a saldırısı ve Dante'nin son savunması. Blood Angels'ın 'kaybedilmiş' savaşı — ve sonra Guilliman'ın 'gelen ışığı'. 'Devastation' kelimesi burada 'yıkım' değil 'yeniden doğuş'un öncesidir — Sanguinius'un ölümünün 'ikinci' bedeli.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-The Devastation of Baal, Guy Haley'nin yazdığı ve Blood Angels'ın Baal'ın Yıkımı'nı anlatan bir romandır. Bu roman, Blood Angels'ın Baal'ın Yıkımı'nı anlatır; roman, Blood Angels'ın en trajik hikâyesidir. Bu roman, Blood Angels'ın en trajik hikâyesidir; roman, Blood Angels'ın en trajik parçasıdır. Roman, Blood Angels'ın en trajik hikâyesi olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *The Devastation of Baal* — Guy Haley; Lexicanum
 
 -# Kaynaklar: Black Library

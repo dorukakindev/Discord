@@ -14,6 +14,11 @@ Fabrika dumanıyla kararmış gökyüzü, kül çölleri ve dev hive kentleriyle
 - **Önemli Olaylar:** Üç Armageddon savaşı; Ghazghkull'un dönüşü.
 - **Kanon Notu:** 11th Edition anlatısı gelişmektedir; yeni savaşın sonucu bu kayıtta öngörülmemiştir.
 
-## Tarihçe
+## Çelik Cehennem
+Armageddon, Imperium'un en ünlü Hive World'üdür ve adı üç büyük savaşla özdeşleşmiştir; 'Ork'ların ve Imperium'un karşılaşma noktası'. Hive cities (Hades, Helsreach, Acheron, Infernus...) her biri kendi kalesidir; gezegenin kül kumulları ve çelik çölleri onu 'savaş için doğmuş' dünya yapar.
 
-Armageddon, İmparatorluğun en büyük ve en önemli dünyalarından biridir; onun hive city'leri ve sanayi kapasitesiyle — İmparatorluğun en büyük üretim merkezlerinden biridir — ve onun Ork'larla olan savaşlarıyla — İmparatorluğun en büyük savaşlarının merkezidir — onlar, İmparatorluğun en büyük ve en önemli dünyasıdır. Armageddon'un en büyük özelliği, onun savaşlarıdır — onlar, Ghazghkull Thraka'nın üç kez saldırdığı ve İmparatorluğun en büyük savaşlarının merkezidir; bir Armageddon, bir gezegenin en savaş halidir ve onların varlığı, İmparatorluğun en büyük direnişinin kanıtıdır. Armageddon'un en ünlü özelliği, onun hive city'leridir — onlar, İmparatorluğun en büyük şehirleridir ve onların varlığı, İmparatorluğun en büyük gücünün ka
+## Üç Savaş
+İlk savaş Angron'un Chaos istilasıydı (Grey Knights gizli kahramanlığı). İkinci ve üçüncü Ghazghkull'un WAAAGH!'larıydı — Yarrick ve Dante'nin direnişleri. Bugün Armageddon hâlâ kısmen Ork kontrolündedir; 'Armageddon is burning' Imperium'un hiç bitmeyen savaşının simgesidir.
+
+## Kaynaklar
+-# Kaynaklar: *Armageddon* kampanya kitapları; *Helsreach*; *Codex: Orks*; Lexicanum

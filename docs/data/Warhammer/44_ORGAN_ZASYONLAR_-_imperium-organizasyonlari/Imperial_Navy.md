@@ -10,8 +10,13 @@ Imperial Navy, İmparatorluğun uzay savaş gücüdür; kilometrelerce uzunlukta
 
 Donanmanın görevleri muazzamdır; gezegenleri yörüngeden bombalar (lance ve macro-cannon ateşiyle), Astra Militarum ordularını yıldızlar arası taşır, İmparatorluk ticaretini korur ve Warp'taki düşman filolarıyla (Kaos, Ork, Aeldari korsanları) çarpışır. Bu gemiler, gizemli Navigator'lar tarafından tehlikeli Warp'ta yönlendirilir; onlar olmadan hiçbir gemi yıldızlar arası yol alamaz.
 
-## Tarihçe
+## Gökyüzünün Kalkanları
+Imperial Navy — 'Navy' — Imperium'un uzay filosudur; Battlefleet'leri (Solar, Gothic, Armageddon, Cadia...) milyarlarca personeliyle Imperium'un ilk savunma hattıdır. Battleship'ler, cruiser'lar ve destroyer'lar 10 kilometreye ulaşan devasa gemilerdir — 'bir Navy gemisi bir şehirdir' denir. Cadian Gate'in deniz savunması, Armageddon'un kuşatmaları ve Gothic War onların destanıdır.
 
-Imperial Navy, İmparatorluk'un en büyük ve en önemli askeri gücüdür — İmparatorluk'un uzay filosudur. Imperial Navy, İmparatorluk'un en büyük gemilerini ve en güçlü filosunu oluşturur; organizasyon, İmparatorluk'un uzay egemenliğinin ve gücünün simgesidir. Imperial Navy, İmparatorluk'un en büyük ve en önemli askeri gücüdür; organizasyon, İmparatorluk'un en önemli ve en güçlü kurumlarından biridir.
+## Kültür
+Navy'nin hiyerarşisi katıdır: Lord Admiral'ler (Ravensburg gibi) sektör komutanıdır; bir gemi kaybı 'binlerce ruh'un ölümüdür. Navy'nin can kaybı her savaşta milyonları bulur — Imperium'un 'büyük fedakarlık' kavramının en görünür yeridir. 'Void war' doktriniyle tanınır: bordere çatışma, torpido salvoları, ramming.
+
+## Kaynaklar
+-# Kaynaklar: *Battlefleet Gothic* (masa oyunu ve romanlar — Execution Hour, Shadow Point); *Codex: Imperium*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

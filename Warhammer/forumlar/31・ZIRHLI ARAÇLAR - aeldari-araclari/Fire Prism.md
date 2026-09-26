@@ -14,9 +14,11 @@ Işığı kristal bir odaktan geçirip yoğunlaştıran prism cannon ile tanına
 - **Önemli Olaylar:** Kaynaklarda tek bir Fire Prism'e bağlanmış öne çıkan olay yoktur.
 - **Kanon Notu:** Kaynaklar arasında belirgin çelişki yok.
 
-## Tarihçe
+## Işık Tankı
+Fire Prism — Eldar'ın 'ağır' grav tankıdır; 'Prism Cannon'ı tek atışta süper ağır düşmanları bile eritir — 'çok odaklı lazer' teknolojisinin zirvesi. Falcon'a benzer görünür ama amacı tamamen farklıdır: mesafe, hassasiyet ve tek vuruşla yıkım. 'Linked fire' yeteneğiyle birden fazla Prism birleşik atış yapabilir.
 
-Fire Prism, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir — Prism Cannon ile donatılmış bir savaş platformudur. Fire Prism, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Fire Prism, Aeldari'nin en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; Lexicanum
 
 -# Kaynaklar: *Codex: Aeldari — 10th Edition*
 

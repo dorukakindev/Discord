@@ -14,6 +14,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/06/AOF_WEB_0_copy.jpg/re
 - **Önemli Olaylar:** Well of Eternity; Gathering Storm III'te Guilliman'la karşılaşma.
 - **Kanon Notu:** Kehanetlerinin doğruluğu kasıtlı olarak belirsizdir; Kairos'un sözleri nesnel bilgi değil, güvenilmez bir kaynağın beyanıdır.
 
-## Tarihçe
+## İki Başlı Kahin
+Kairos Fateweaver — 'Kader Dokumacısı' — Tzeentch'in en yüksek Lord of Change'i; iki başlı daemon'un biri geçmişi, diğeri geleceği görür ama ikisi de gerçeği söyleyemez — çünkü Tzeentch onu Well of Eternity'ye attığında bilinmezliğin içinden çıkan Kairos artık sadece 'olasılıkları' okur. En tehlikeli kehanet aracıdır: sorana doğruyu da yalanı da aynı sesle söyler.
 
-Kairos Fateweaver, Tzeentch'in en güçlü ve en tehlikeli daemon'larından biridir — Oracle of Tzeentch olarak bilinen ve geleceği ve geçmişi görebilen bir Lord of Change'dir. Kairos, iki kafalı bir Lord of Change'dir; bir kafa geleceği, diğeri geçmişi görür — ancak ikisi de gerçekliği göremez. Kairos, Tzeentch'in en önemli temsilcilerinden biridir; onun kehanetleri, Tzeentch'in en önemli planlarının ve İmparatorluk'un en tehlikeli düşmanlarının kaynağıdır. Kairos Fateweaver, Tzeentch'in en güçlü ve en tehlikeli daemon'larından biri olarak kalır — onun kehanetleri, İmparatorluk'un en tehlikeli ve en gizli düşmanlarının kaynağıdır.
+## Rol
+Kairos, Tzeentch'in 'güvenilir elçisi' olarak çalışır ama kendi gündemi vardır; Thousand Sons ve Magnus'la ilişkisi uzun ve karmaşıktır. Imperium'un kayıtlarında 'bilinemez' olarak geçer — ona güvenen herkesin sonunda entrikanın parçası olduğu söylenir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *A Thousand Sons* (HH, Tzeentch bağlamı); Lexicanum

@@ -8,15 +8,8 @@ Tau'ya hizmet eden kuş benzeri paralı avcı xeno ırkı; yediklerinin DNA'sın
 
 Kroot (Kroot Carnivore), Tau İmparatorluğu'nun saflarında savaşan, kuş benzeri, uzun boylu ve yırtıcı bir xeno ırkıdır; Tau'nun "Greater Good" (Yüce Amaç) felsefesine hizmet eden paralı avcı yardımcılarıdır. Ama uygar görünümlerinin altında, son derece ürkütücü ve eşsiz bir biyoloji yatar.
 
+## Avcı Irkı
+Kroot — Pech'li vahşi ırk ve T'au Empire'ın en bilinen 'müttefik' türüdür; et yiyerek genetik olarak evrilirler (avını yiyen Kroot onun özelliklerini alır). 'Kroot Carnivore' birimleri ve 'Krootox' (büyük Kroot yaratıkları) bilinir; Shaper'lar onların liderleridir. Tau'va'da 'saf' değillerdir — kendi yolları vardır ve bazıları 'daha vahşi' gider.
 
-## Teknik ve Kullanım
-Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretilir: pulse silahları plazma benzeri yüksek-hızlı kütleler fırlatır, rail silahları hipersonik katı çekirdekler kullanır ve ion teknolojisi neredeyse sonsuz menzil hassasiyeti verir. Tau için silah, 'en uzaktan, en az kayıpla' öldürme aracıdır.
-
-Kroot'un en bilinen figürleri, Tau saflarındaki 'Carnivore' birlikleri ve 'Shaper' liderleridir: Shaper'lar, hangi düşmanın yenileceğini seçerek türün evrim yönünü bilinçli olarak yöneten rehberlerdir — bir Kroot'un yediği et, sonraki neslin biyolojik yazgısını belirler. Tau'nun 'Greater Good' ittifakı içinde Kroot, orman ve arazi savaşının vazgeçilmez uzmanıdır.
-
-Kroot'un tehlikeli yanı, 'Kindred' klan sisteminin acımasız evrimidir: yanlış et yenirse tür çürür; Shaper'lar bu yüzden katı 'etiket' kuralları uygular (örneğin Chaos ve Tyranid eti yasaktır, çünkü bu etler türü bozar). Kroot'un İmparatorluk kayıtlarındaki görüntüsü 'vahşi paralı' olarak yazsa da, Pech'in kökleri — gezegenin efsanevi 'tree-city' si — gizli ve derin bir medeniyetin kalıntısıdır.
-
-
-## Tarihçe
-
-Kroot, T'au Empire'ın en ünlü ve en vahşi müttefik ırkıdır; T'au'nun en vahşi ve en sadık müttefiki olan ve onların en zorlu savaşlarını yapan Kroot, T'au'nun en vahşi ve en önemli varlığıdır — onlar, T'au'nun en ünlü ve en vahşi müttefik ırkıdır. Kroot'un en büyük özelliği, onların vahşetid
+## Kaynaklar
+-# Kaynaklar: *Codex: T'au Empire*; *Kroot* lore; *Kill Team* (Kroot expansion); Lexicanum

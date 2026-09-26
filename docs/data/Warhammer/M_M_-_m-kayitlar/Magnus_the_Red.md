@@ -1,62 +1,43 @@
--# THE IMPERIAL ARCHIVE
-# Magnus the Red
+https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Magnus-1.jpg/revision/latest/scale-to-width-down/653?cb=20161205070527
 
--# Kategori: Primarch / Daemon Primarch · Fraksiyon: Thousand Sons · Dönem: Great Crusade – Era Indomitus · Bağlılık: Tzeentch
+-# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
-## Tanım ve Genel Çerçeve
-**Magnus the Red**, XV. Legion Thousand Sons'ın Primarch'ı, bugün ise Tzeentch'e bağlı Daemon Primarch ve Planet of the Sorcerers'ın hükümdarıdır. "Crimson King" ve "Red Cyclops" gibi unvanlarla anılır. Kızıl tenli, tek gözlü dev bedeni ve psişik yetenekleriyle Primarch'lar arasında bile istisnai bir figür olarak betimlenir. Hikâyesi bilgiye duyulan sınırsız güvenin, gururun ve iyi niyetle atılmış adımların nasıl bir yıkıma dönüşebileceğinin hikâyesidir. Pek çok Traitor Primarch'ın aksine Magnus, ihanete başkaldırarak değil, babasını kurtarmaya çalışırken yaptığı bir hatayla sürüklenmiştir; en azından kendi anlatısı budur.
+# Magnus the Red — Kızıl Kral
 
-## Köken
-Primarch'lar Terra'dan dağıtıldıktan sonra Magnus, psykerlerin zulümden kaçarak kurduğu bilgin kolonisi **Prospero**'ya düştü. Bu dünyanın bilginleri arasında büyüyen Magnus, psişik güçlerini bir disiplin ve bilim gibi ele alan bir kültürün içinde yetişti. Kaynaklar onun Prospero'da yalnızca bir yönetici değil, bilginin koruyucusu ve öğretmeni olarak görüldüğünü anlatır.
+*The Crimson King · Magnus the Red · Tzeentch'in Daemon Primarch'ı*
 
-Emperor'la buluşmasının ardından XV. Legion'ın komutasını üstlenen Magnus, Legion'ı yok olmanın eşiğine getiren flesh-change'i durdurdu. *A Thousand Sons* romanı, bu kurtuluşun Warp'taki bir güçle, yani sonradan Tzeentch olduğu anlaşılan bir varlıkla yapılmış bir pazarlığa dayandığını ima eder. Magnus'un kaderini belirleyen ilk adım, belki de bu pazarlıktı.
+XV Legion'ın, Thousand Sons'ın Primarch'ı. Tek gözlü, kızıl tenli dev; Primarch'lar arasında en güçlü psyker ve en büyük bilgin. Bilgiye duyduğu açlık ve Emperor'a olan sevgisi, onu Webway projesini yıkan felaket bir uyarıya ve Prospero'nun yıkımına sürükledi. Leman Russ'ın saldırısıyla dünyası yanınca Tzeentch'in kucağına düştü; bugün Planet of the Sorcerers'ın efendisi ve Tzeentch'in Daemon Primarch'ıdır.
 
-## Great Crusade ve Nikaea
-Great Crusade boyunca Magnus, Warp'ın insanlık için tehlikeden çok bir fırsat olduğuna inandı. Legion'ını psişik disiplinlere göre Cult'lara ayırarak araştırmalarını derinleştirdi ve bu çalışmalarını, sonraki çağlarda **Book of Magnus** adıyla anılan büyü külliyatında topladı. Onun gözünde bilgi, doğru ellerde kullanıldığında kontrol edilebilir bir araçtı.
+- **Kategori:** Primarch (hain) — Daemon Primarch
+- **Fraksiyon:** Chaos — XV Legion, Thousand Sons; Tzeentch
+- **Dönem:** Great Crusade → Era Indomitus
+- **Köken:** Prospero; psyker'lardan oluşan bir bilginler topluluğu tarafından bulundu
+- **Silahlar:** Blade of Ahn-nunurta; güçlü psişik yetenekler ve kadim bilgiler
+- **Durum:** Daemon Primarch; Planet of the Sorcerers'tan Thousand Sons'ı yönetir, Era Indomitus'ta Prospero'yu yeniden ele geçirmeye çalıştı
 
-Kardeşleri arasında bu görüşü paylaşan pek kimse yoktu. Leman Russ, Magnus'u açıkça bir sorcerer olarak görüyordu; Mortarion psişik güçlerden nefret ediyordu. **Council of Nikaea**'da Magnus psişik bilimin savunusunu üstlendi, ancak Emperor Legion'larda psişik güç kullanımını yasakladı. Magnus bu karara görünürde boyun eğdi; fakat araştırmalarından vazgeçmedi.
+## Kökenler: Prospero
+Magnus'un kapsülü, psişik güçleri nedeniyle Imperium öncesi dönemde dışlanmış insanların kurduğu dünyaya, Prospero'ya düştü. Gezegenin psyker bilginleri, çocuğu kendi yetenekleriyle koruyup eğitti. Magnus, Prospero'nun kütüphanelerinde bilgiyle beslendi ve psişik güçleri olağanüstü bir düzeye ulaştı. Onun tek gözü ve kızıl teni, Warp ile ilişkisinin fiziksel bir işareti olarak yorumlanır.
 
-## Terra'ya Uyarı
-Magnus, Horus'un ihanetini önceden gördüğünde Emperor'u uyarmak için sorcery kullanarak Terra'nın psişik korumalarını delip geçti. Bu eylem, Emperor'un İmparatorluk Sarayı'nın altında yürüttüğü gizli Webway projesine büyük bir yıkım getirdi; Aaron Dembski-Bowden'ın *Master of Mankind* romanı bu yıkımın Terra'daki sonuçlarını işler. Emperor'un öfkesi, Magnus'un tutuklanarak Terra'ya getirilmesi kararıyla sonuçlandı.
+Magnus, Emperor'un gelişinden önce bile ona psişik olarak ulaşabilmişti. Emperor Prospero'ya geldiğinde Magnus ona büyük bir sevgiyle biat etti. Kardeşleri arasında Emperor'la psişik düzeyde gerçek bir bağ kurabilen tek Primarch olduğu söylenir.
 
-Magnus'un eylemindeki gerçek niyet, sadakati mi yoksa gururu mu yansıtıyordu? Kaynaklar bu soruya tek bir cevap vermez; Magnus'un kendi bakışında amacı babasını kurtarmaktı, Imperial bakışta ise Nikaea'nın hükmünü çiğneyen bir itaatsizlikti.
+## Great Crusade ve Legion'ın Laneti
+XV Legion, "flesh-change" adı verilen bir mutasyon laneti yüzünden neredeyse yok olmak üzereydi: Legion'ın psyker savaşçıları kontrolsüz bedensel dönüşümlere uğruyordu. Magnus, Legion'ı kurtarmak için Tzeentch'le bilinçsizce bir anlaşma yaptı; flesh-change durdu. Thousand Sons, Legion'ın psişik bilgisini **Cult**'lar (Pyrae, Pavoni, Athanaean, Corvidae, Raptora) etrafında örgütledi.
 
-## Prospero'nun Yanışı ve Düşüş
-Emperor, Magnus'u tutuklama görevini Leman Russ'a verdi; ancak Horus'un etkisiyle görev cezalandırmaya dönüştü. Space Wolves, Adeptus Custodes ve Sisters of Silence Prospero'ya saldırdığında Magnus, uğradığı ihanetin ve kendi hatasının ağırlığı altında başlangıçta direnmekten kaçındı. Tizca yanarken Russ ile karşılaştı ve bu düelloda yenildi; kaynaklar Russ'ın Magnus'un bedenine ağır bir darbe indirdiğini anlatır.
+Nikaea Konseyi'nde Emperor, psişik güçlerin kullanımını kısıtlayan kararı aldı; Magnus kararı kabul ettiğini söyledi ama Legion'ın araştırmalarını gizlice sürdürdü. Kardeşleri arasında Mortarion ve Leman Russ'la ilişkileri gergindi; Russ ile Magnus arasındaki gerilim, felaketin habercisiydi.
 
-Tam o anda Tzeentch'in müdahalesiyle Magnus ve hayatta kalan oğulları Warp'a çekilerek Eye of Terror içindeki bir dünyaya ulaştı. Heresy dönemi romanları, Magnus'un ruhunun bu yıkım sırasında parçalara ayrıldığını ve bu parçaların sonradan bir araya getirilmeye çalışıldığını anlatır; bu konu özellikle Graham McNeill'in *The Crimson King* romanında işlenir.
+## Uyarı ve Felaket
+Magnus, Horus'un ihanetini Warp'ta gördü. Emperor'u uyarmak için Nikaea kararını ihlal ederek psişik bir mesajı doğrudan Terra'daki Imperial Palace'a gönderdi. Bu mesaj, Emperor'un Palace'ın altında inşa ettiği **Webway** projesinin psişik koruma kalkanlarını yıktı; daemonlar Webway'e doldu ve proje çöktü. Emperor Webway'i korumak için Golden Throne'a bağlanmak zorunda kaldı. Magnus'un bu uyarısı, iyi niyetle yapılmış en büyük felaketlerden biri olarak Heresy tarihine geçti (*A Thousand Sons*, *The Master of Mankind*).
 
-Prospero'dan sonra Magnus, intikam ve hayatta kalma arzusuyla Horus'un safına katıldı; Daemon Prince'e dönüşerek Tzeentch'e bağlılığını kabul etti ve Heresy'nin son evresinde Traitor kuvvetlerle birlikte Terra'ya yürüdü.
+## Prospero'nun Yıkımı
+Emperor, Leman Russ'ı Magnus'u Terra'ya getirmek için gönderdi; ancak Horus emri çarpıttı ve Russ'ı bir cezalandırma seferine yönlendirdi. Space Wolves ve Sisters of Silence, Prospero'ya saldırdı; Tizca yıkıldı. Magnus, Russ'la dövüştü; Russ, Magnus'un sırtını kırdı. Son anda Tzeentch, Magnus'u ve Legion'ın hayatta kalan savaşçılarını Warp'a çekti. Magnus parçalanmış ruhuyla **Planet of the Sorcerers**'a ulaştı ve Tzeentch'in hizmetkârı oldu.
 
-## Planet of the Sorcerers
-Heresy sonrası Magnus, Planet of the Sorcerers'ta kulesine çekilerek kendi çalışmalarına gömüldü. Legion'ı yeniden saran flesh-change'e karşı Ahriman'ın gerçekleştirdiği **Rubric of Ahriman** onun onayı olmadan yapıldı. Magnus, olanları öğrendiğinde Ahriman'ı cezalandırmak istedi; klasik anlatıma göre Tzeentch'in müdahalesiyle onu öldürmek yerine sürgüne gönderdi.
+## Heresy ve Rubric
+Heresy'de Magnus, Terra Kuşatması'na daemonik bir güç olarak katıldı ve Palace'ın psişik savunmalarına saldırdı; Siege of Terra romanları, Magnus'un ruhunun parçalarından birinin kuşatmada Imperium'un yanında belirdiğini de anlatır. Heresy'nin ardından Thousand Sons'ın içindeki mutasyon laneti geri döndü. **Ahriman**, Legion'ı kurtarmak için **Rubric of Ahriman** adı verilen büyük bir psişik ritüel gerçekleştirdi: ritüel mutasyonu durdurdu ama Legion'ın psyker olmayan savaşçılarını ruhları zırhlarına bağlı toz yığınlarına, yani **Rubric Marines**'e dönüştürdü. Magnus Ahriman'ı sürgün etti.
 
-## M41 ve Great Rift Sonrası
-M41'in sonlarında Magnus, Space Wolves'un yurdu Fenris'e büyük bir saldırı başlattı. *War Zone Fenris: Wrath of Magnus* kampanyasında anlatılan bu savaşta amacı, Fenris'i Warp'a çekecek bir ritüel yürüterek hem intikam almak hem de Tzeentch adına büyük bir kazanç sağlamaktı. Space Wolves ve Grey Knights'ın direnişiyle ritüel başarısız oldu ve Magnus geri püskürtüldü.
+## Era Indomitus
+M41'in son yıllarında Magnus, Planet of the Sorcerers'ı Warp'tan realspace'e taşıyarak Fenris'e saldırdı (*Wrath of Magnus*); Space Wolves ve Grey Knights'la yaşanan savaşta Fenris ağır hasar gördü. Great Rift'in açılmasıyla Magnus ve Thousand Sons, Imperium'un parçalanmış bölgelerinde yeniden etkinlik kazandı. Magnus'un ruhu, Prospero'nun yıkımında parçalara ayrılmıştı; parçalarının bazıları Primarch'tan bağımsız hareket etmiştir.
 
-Great Rift'in açılması, Warp'ın maddi evrene sızmasıyla Magnus'a ve Tzeentch'e bağlı güçlere yeni fırsatlar sundu. 10th Edition dönemi *Codex: Thousand Sons*, Magnus'u Legion'ının başında bilgi ve güç peşinde koşan bir figür olarak konumlandırır. Onun uzun vadeli hedefleri ise Tzeentch'in doğasına uygun biçimde çoğu zaman gizli kalır.
+## Kişilik
+Magnus, bilgiye ve Emperor'a sevgiyle bağlı bir bilgindi. Kibri, iyi niyetle yaptığı hataların sonucunu öngörememesi ve Tzeentch'le yaptığı anlaşmanın bedelini göz ardı etmesi, onu en büyük trajedilerden birine sürükledi. Kardeşleri arasında belki en çok hata yapan, ama ihaneti en az planlanmış olanıdır.
 
-## Kişilik ve İlişkiler
-Magnus'un kişiliği merak, gurur ve derin bir yalnızlıkla şekillenmiştir. Emperor'a duyduğu sevgi ile onun tarafından reddedilmişlik duygusu arasında sıkışmış, kendi bilgisine duyduğu güveni hiçbir zaman terk edememiştir. Leman Russ ile arasındaki düşmanlık, Space Wolves ile Thousand Sons arasındaki on bin yıllık kin hâline gelmiştir. Ahriman ile ilişkisi ise hem baba-oğul bağını hem de derin bir güvensizliği içerir.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Magnus, Horus'un ihanetine baştan beri ortaktı.
-**Kanon:** Magnus Horus'un ihanetini Emperor'a haber vermeye çalıştı; Horus'un safına ancak Prospero'nun yakılmasından sonra geçti.
-
-**Yanılgı:** Magnus, Tzeentch'in iradesiz bir kuklasıdır.
-**Kanon:** Kaynaklar Magnus'u tanrısına bağlı ama kendi hedeflerini ve gururunu koruyan bir figür olarak betimler. Tzeentch ile ilişkisinin ne kadarının kendi seçimi, ne kadarının çoktan kurulmuş bir planın parçası olduğu kasıtlı olarak belirsiz bırakılmıştır.
-
-**Yanılgı:** Prospero'da Thousand Sons'a saldırılmasının tek nedeni Magnus'un sorcery kullanmasıydı.
-**Kanon:** Nikaea'nın çiğnenmesi Emperor'un tutuklama kararının gerekçesiydi; tutuklamanın bir yok etme harekâtına dönüşmesinde ise Horus'un Leman Russ üzerindeki etkisi belirleyici oldu.
-
-## Yayın Notu
-Magnus, *Realm of Chaos* kitaplarıyla (1988–1990) Thousand Sons'ın Primarch'ı olarak tanıtıldı. Heresy dönemi kişiliği ve Prospero trajedisi, Black Library'nin Horus Heresy serisinde derinleşti. 2016'daki *Wrath of Magnus* kampanyası ve plastik modeli ise onu 40K anlatısında etkin bir figür hâline getirdi.
-
-**Kaynaklar:** *Codex: Thousand Sons — 10th Edition*; *A Thousand Sons — Graham McNeill*; *Prospero Burns — Dan Abnett*; *Magnus the Red: Master of Prospero — Graham McNeill*; *The Crimson King — Graham McNeill*; *Master of Mankind — Aaron Dembski-Bowden*; *War Zone Fenris: Wrath of Magnus*
-**Çapraz:** <#1551809231580307517>, <#1551808728062501019>, <#1551818097504157699>, <#1551638910344630307>, <#1551813713403580438>, <#1551809666454134928>, <#1551809699312181339>, <#1551814951365115956>
-
-## Tarihçe
-
-Magnus the Red, Thousand Sons'un en ünlü ve en trajik primarch'ıdır; Prospero'nun — Thousand Sons'un ev gezegeni — en güçlü psyker'ı olan ve Thousand Sons'u kuran Magnus, İmparatorluğun en trajik ve en tehlikeli primarch'ıdır — onlar, Thousand Sons'un en ünlü ve en trajik primarch'ıdır. Magnus'un en büyük özelliği, onun psişik gü
-
-​
+-# Kaynaklar: *A Thousand Sons* — Graham McNeill; *Prospero Burns* — Dan Abnett; *The Master of Mankind* — Aaron Dembski-Bowden; *Magnus the Red: Master of Prospero* — Graham McNeill; *Wrath of Magnus* (Warzone Fenris); *Codex: Thousand Sons*; Lexicanum

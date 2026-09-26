@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/d1/1st-gen.jpg/revision/latest?cb=20160523003800
-
 -# THE IMPERIAL ARCHIVE
 # Genestealer Cults
 

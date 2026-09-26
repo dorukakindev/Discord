@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a2/CatachanMXIV.PNG/revi
 
 Galaksinin en ölümcül ölüm dünyası Catachan'da hayatta kalmayı öğrenen, orman savaşının eşsiz ustaları.
 
-## Tarihçe
-Catachan Orman Savaşçıları, adını galaksinin en ölümcül ölüm dünyalarından biri olan Catachan'dan alan alaylardır. Bu gezegende doğal seçilim öyle acımasızdır ki yalnızca en öldürücü bitki ve hayvanlar hayatta kalır; bir Catachanlının yetişkinliğe ulaşması bile başlı başına bir başarıdır.
+## Ormanın Adamları
+Catachan Jungle Fighters — Astra Militarum'un 'ölüm dünyası' alayıdır; Catachan'ın zehirli ormanlarında yetişen askerler her şeyle savaşmayı bilir. 'Devil's Dance' (canavar-hortum) ve sürüngen avcılığı onların normal yaşamıdır — Imperium'un en 'vahşi ama sadık' birimleri. Sly Marbo ve Straken onların ürünüdür.
 
-Bu cehennem gibi ortamda büyüyen Catachanlılar fiziksel ve zihinsel olarak son derece dayanıklı, kurnaz ve uzlaşmaz savaşçılar haline gelir. Orman ve tehlikeli arazi savaşında, gerilla ve asimetrik harekatlarda Imparatorluğun en iyileridir; usta izciler ve sızma uzmanlarıdır, düşmanlarını hain tuzaklara çekmekte ustadırlar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Catachan* lore; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

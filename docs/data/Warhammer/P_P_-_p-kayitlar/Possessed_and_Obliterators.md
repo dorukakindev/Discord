@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Daemonkin_Possessed.png/revision/latest?cb=20150906161214
+
 -# THE IMPERIAL ARCHIVE
 # Possessed and Obliterators
 

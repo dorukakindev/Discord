@@ -2,17 +2,43 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/29/Night_Haunter_8th_Ed.
 
 -# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Konrad Curze
-*Gece Avcısı (Night Haunter)*
 
-Geleceği gören kehanetlerle lanetli, terör yoluyla adalet uygulayan kâbus gibi bir Primarch. Öleceğini önceden bildi ve haklı olduğunu kanıtlamak için suikastçıya direnmedi; korku, onun tek doktriniydi.
+*Night Haunter · Nostramo'nun Karanlık Adaleti*
 
-Konrad Curze, güneşsiz, karanlık ve suçla boğulmuş kovan dünyası Nostramo'ya düştü; hiçbir rehber olmadan, açlık ve şiddet içinde tek başına büyüdü. Geleceği ve şiddet dolu vizyonları gören bir lanetle (kehanet) doğmuştu ve bu kâbuslar onu hayatı boyunca yıprattı.
+VIII Legion'ın, Night Lords'un Primarch'ı. Güneşsiz Nostramo'nun suç dolu kovan-şehirlerinde terörle "adalet" dağıtan bir kâbus figürü olarak büyüdü; Emperor'un Legion'ına katıldıktan sonra korkuyu doktrin hâline getirdi. Kehanet vizyonlarıyla lanetlenmiş, kendi sonunu bilerek yaşamış ve Heresy'de Horus'a katılmıştır. Tsagualsa'da, gelmesini beklediği bir Callidus suikastçısının elinde öldü.
 
-Nostramo'nun suç dünyasını yalnızca akıl almaz bir terörle dizginleyebileceğine inandı: suçluları avlayıp parçaladı, cesetlerini ibret olsun diye sergiledi ve kısa sürede gezegen, korkudan suçun durduğu bir yere döndü. Onun tek adalet anlayışı buydu: korku. İmparator onu VIII. Lejyon Night Lords'ın başına geçirdiğinde, bu terör doktrini bir savaş tarzına dönüştü.
+- **Kategori:** Primarch (hain)
+- **Fraksiyon:** Chaos — VIII Legion, Night Lords (kendisi hiçbir tanrıya bağlanmadı)
+- **Dönem:** Great Crusade → M31 (ölü)
+- **Köken:** Nostramo; güneş ışığı ulaşmayan suç dünyası
+- **Silahlar:** Mercy ve Forgiveness adlı lightning claw'lar; Heresy döneminde farklı kaynaklarda başka pençeler
+- **Durum:** Ölü — Callidus suikastçısı M'Shen tarafından Tsagualsa'da öldürüldü
 
-## Heresy ve Ölüm
-Heresy'de Night Lords resmen hain saflarındaydı, ama Curze'un sadakati hiçbir zaman ideolojik olmadı: o, terörü kendi doğası olduğu için kullandı. Thramas Haçlı Seferi'nde Dark Angels onu köşeye sıkıştırdı; Lion'la düello etti, hayatta kaldı, kaçtı ve Macragge'e sızıp Roboute Guilliman'ı terörize etti. Savaş sonrası bile düşmanlığı sürdürdü; Tsagualsa'daki karargâhında yalnız başına çürüdü, kehanetleri giderek karanlıklaştı. Sonunda Callidus suikastçısı M'Shen geldiğinde direnmedi — ölümünün bir tür kanıt olduğunu söyledi: "Ölümünüz benim haklılığımdır." Son sözleri: görüntüsü kaydedilmiş bir gülümseme.
+## Kökenler: Nostramo
+Konrad'ın kapsülü, yörüngesi onu sürekli karanlıkta tutan kovan dünyası Nostramo'ya düştü. Gezegen, adamantium madenleri etrafında büyümüş, çetelerin, yolsuz yöneticilerin ve suçun yönettiği bir yerdi. Çocuk hiçbir insanın elinde büyümedi; kovan-şehir **Nostramo Quintus**'un karanlık sokaklarında tek başına hayatta kaldı. Büyüdükçe suçlulara karşı bir tür vahşi adalet uygulamaya başladı: katilleri, hırsızları ve yozlaşmış yöneticileri avlayıp parçaladı, cesetlerini ibret olsun diye sergiledi.
 
-## Tarihçe
+Zamanla Nostramo'nun halkı ondan korkmaya başladı ve suç oranı dramatik biçimde düştü. Konrad, korkunun düzeni koruyabildiğini öğrendi; ancak aynı zamanda korku ortadan kalktığında düzenin de çöktüğünü görecekti. Onun kişisel "adalet" anlayışı, Night Lords'un savaş doktrininin temeli oldu.
 
-Konrad Curze, Night Lords'un en ünlü ve en trajik primarch'ıdır; Nostramo'nun — Night Lords'un ev gezegeni — en korkulan savaşçısı olan ve Night Lords'u kuran Curze, İmparatorluğun en trajik ve en korkulan primarch'ıdır — onlar, Night Lords'un en ünlü ve en trajik primarch'ıdır. Konrad Curze'nin en
+## Kehanet Laneti
+Konrad, geleceğe dair vizyonlar gören bir Primarch'tı. Bu vizyonlar ona sürekli ölüm, ihanet ve kendi sonunu gösteriyordu; çoğu zaman bayılarak ve sarsıntılar geçirerek bu görüntüleri yaşadı. Kendi yazgısından kaçamayacağına dair inancı, kararlarını ve kişiliğini derinden etkiledi. Emperor'la ilk karşılaşmasında bile babasının onu sonunda öldüreceğini gördüğünü söylediği anlatılır.
+
+## Great Crusade
+Emperor Nostramo'ya geldiğinde Konrad, VIII Legion'ın komutasını aldı. Legion Nostramo'nun suçlu ve karanlık halkından yeniden oluşturuldu; Terra kökenli ilk savaşçılar zamanla azınlıkta kaldı. Night Lords'un savaş tarzı basitti: bir dünyayı savaşmadan teslim almak için önce korkunç bir örnek vermek. Bütün bir şehri katletmek, liderleri parçalamak, çığlıkları vox kanallarından yayınlamak ve cesetleri sergilemek, Legion'ın standart araçlarıydı.
+
+Konrad'ın yokluğunda Nostramo yeniden suça gömüldü. Bunu öğrendiğinde öfkeyle dünyasına döndü ve kendi anavatanını Legion'ının gemilerinin topları ile yok etti: "suçun kaynağını" yok ettiğini düşündü. Bu olay Night Lords'u köklerinden kopardı.
+
+Kardeşleriyle ilişkisi korkunçtu. **Rogal Dorn** onun yöntemlerini açıkça kınadı; Dorn'un sert suçlamaları sonrasında Konrad Dorn'a saldırdı ve onu ağır yaraladı. Bu olayın ardından Konrad kaçtı ve Legion'ıyla birlikte Horus'un saflarına geçti. Legion zaten Crusade'in son yıllarında Emperor'un gözünde sorgulanıyordu.
+
+## Horus Heresy
+Night Lords, Isstvan V'teki Drop Site Massacre'da ihanet dalgasının ikinci kolunda yer aldı. Heresy boyunca Konrad, Thramas'ta Lion El'Jonson'a karşı uzun bir sefer yürüttü; iki Primarch'ın birden fazla karşılaşmasında her ikisi de birbirini ağır biçimde yaraladı. Night Lords Terra Kuşatması'nda yer aldı, ancak Legion zaten disiplinini ve birliğini büyük ölçüde yitirmişti.
+
+## Tsagualsa ve Ölüm
+Heresy'nin ardından Konrad ve Legion'ı, Eastern Fringe'deki Tsagualsa'ya çekildi. Konrad, Emperor'un kendisine bir suikastçı göndereceğini biliyordu. Callidus suikastçısı **M'Shen** geldiğinde Konrad kaçmadı; ölümünün, Emperor'un da kendisi gibi bir terörle hükmettiğini kanıtlayacağını söyledi. Suikastçı onu öldürdü ve Night Lords liderliksiz kaldı. Konrad'ın son sözleri ve ölüm sahnesi, sonraki Night Lords kültürünün mitolojisinin merkezindedir.
+
+## Miras
+Konrad'ın ölümünden sonra Night Lords savaş gruplarına ayrıldı; hiçbir Chaos tanrısına bağlanmadılar ve korsanlık ile terörle yaşamaya devam ettiler. *Night Lords* üçlemesindeki Talos Valcoran ve First Claw'ın hikâyesi, Primarch'ın kehanet yeteneğinin bazı Night Lords'da yaşadığını gösterir. Konrad, Night Lords'un gözünde hem bir peygamber hem de kaderine teslim olmuş bir babadır.
+
+## Kişilik
+Konrad trajik ve kendini yok eden bir karakterdir. Adalete inanır, ama adaleti yalnızca korkuyla uygulanabilir sanar. Vizyonları onu sürekli bir kıyamet beklentisi içinde tutar; bu yüzden ihaneti bile bir kaçış değil, kaçınılmaz bir yazgı olarak görür.
+
+-# Kaynaklar: *Konrad Curze: The Night Haunter* — Guy Haley; *Prince of Crows* — Aaron Dembski-Bowden; *The Dark King* — Graham McNeill; *Night Lords* üçlemesi — Aaron Dembski-Bowden; *Index Astartes: Night Lords*; Lexicanum

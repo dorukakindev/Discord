@@ -14,6 +14,11 @@ Pedro Kantor, Crimson Fists'in Chapter Master'ı ve Rynn's World'ün kurtuluş d
 
 Kantor'un savaş tarzı 'dirençli kılıç' olarak tanımlanır: savunmadan hücuma geçişte uzman, özellikle kuşatma ve 'kale düşürme' operasyonlarında ustadır. Crimson Fists'in 'bir avuç ama kırılmaz' ününün mimarı olan Kantor, İmparatorluk'un en fedakâr komutanları arasında sayılır — Chapter'ın 'asla teslim olmayan' kimliği, onun Rynn's World'de yazdığı gerçektir.
 
-## Tarihçe
+## Yumruk
+Pedro Kantor — 'Chapter Master Pedro Kantor' — Crimson Fists'ın Chapter Master'ı ve Chapter'ın yok olmanın eşiğinden döndüğü savaşın kahramanıdır; Rynn's World'de Ork istilası Crimson Fists'i neredeyse sildi, Kantor son 100 Space Marine ile direndi ve Chapter'ı kurtardı. 'Kanto'nun yumruğu' Imperium'un 'yıkılmayan Space Marine' efsanesidir.
 
-Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluk'un en trajik liderlerinden biridir — Rynn's World'ün savunmasının kahramanıdır. Kantor, Rynn's World'ün Ork istilası sırasında Chapter'ının büyük kısmını kaybetti; ancak hayatta kalanlarla birlikte Crimson Fists'i yeniden kurdu ve Chapter'ı İmparatorluk'un en önemli güçlerinden biri haline getirdi. Kantor, Crimson Fists'in en efsanevi ve en trajik lideridir
+## Sembol
+Kantor'un önemi Crimson Fists'in 'kırılgan ama kırılmayan' sembolü olmasıdır — Chapter kaybettiği 900 savaşçıyı bir yüzyılda yerine koyamadı ama Kantor'un liderliği Chapter'ı canlı tuttu. Snagrod'la (Ork warlord) savaşı onun kişisel destanıdır; yumruklarıyla bizzat daemon'ları ve Warboss'ları yendiği kayıtlıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Rynn's World* — Steve Parker; *Codex: Crimson Fists*; *Pedro Kantor* lore parçaları; Lexicanum

@@ -14,10 +14,14 @@ Snikrot, Armageddon'un balta girmemiş ormanlarında gölge gibi dolaşan Komman
 - **Önemli Olaylar:** Second ve Third War for Armageddon'daki orman savaşları.
 - **Kanon Notu:** Snikrot'un Imperial askerler arasındaki efsanesi, kısmen evren içi korku anlatılarına dayanır; bu anlatıların abartı payı taşıdığı açıktır.
 
-## Tarihçe
+## Kommando Efsanesi
+Boss Snikrot — 'Nazgob' da denir — Blood Axes klanından en ünlü Ork Kommando'su; Armageddon'un 2. ve 3. savaşlarında ormanlarda gerilla yürütmüş, Imperium'a 'görünmez Ork' efsanesini veren figür. Ork'ların 'korkusuz ama aptal' imajını kıran tek büyük örnektir: gizli sızma, pusuda bekletme, hedefli kesme — Snikrot'un taktiği Imperium'un kendi doktrininden daha Ork'tur.
 
-Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür — 'Blood Axes' lideridir. Bu figür, Ork'ların en gizli ve en tehlikeli figürüdür; Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür. Bu figür, Ork'ların en gizli ve en tehlikeli figürüdür; Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür. Figür, Ork'ların en gizli ve en tehlikeli figürü olarak kalır.
+## Efsane
+Armageddon'un Infernus Havzası'nda 'Red Skulls' komandoları onun önderliğinde savaştı; Imperium askerleri arasında 'Snikrot' adı korku efsanesi oldu — gece yarısı kaybolan devriyeler, kesiklerle bırakılan cesetler. Canon'da Ork'un 'aptal' olmadığının canlı kanıtıdır.
 
+## Kaynaklar
+-# Kaynaklar: *Codex: Orks*; *Armageddon* kampanya materyalleri; Lexicanum
 
 -# Kaynaklar: *Codex: Orks*
 

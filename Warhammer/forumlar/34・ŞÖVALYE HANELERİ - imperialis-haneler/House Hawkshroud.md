@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6c/House_Hawkshroud_Icon
 
 Sadakati ve güvenilirliğiyle ün salmış İmparatorluk şövalye hanedanı; bir kez söz verdiğinde, ne kadar umutsuz olursa olsun bir müttefiki asla terk etmez.
 
-## Tarihçe
-House Hawkshroud (Hawkshroud Hanedanı), İmparatorluk'a bağlı bir Imperial Knight hanedanıdır; anavatanları Krastellan'dan gelirler ve diğer hanelerden onları ayıran en büyük özellikleri, sarsılmaz sadakatleri ve güvenilirlikleridir. Onlar, sözünü tutan hanedir.
+## Şahin
+House Hawkshroud — 'Yellow clad' Knight hanesi; Krieg'teki görevleri ve 'honour above all' koduyla bilinir. Indomitus Crusade'de aktif rol aldılar ve 'Şahin'in kanatları' olarak anılırlar. Onların kurallarında Knight'ın savaşırken bile 'soylu' kalması şarttır — düşmana bile merhamet kavramı vardır.
 
-Hawkshroud'un en kutsal ilkesi basittir ama mutlaktır; bir kez bir ittifaka ya da bir göreve söz verdiklerinde, o sözü ne pahasına olursa olsun yerine getirirler. Bir müttefik yardım çağırdığında, durum ne kadar umutsuz, savaş ne kadar kayıp görünürse görünsün, Hawkshroud şövalyeleri gelir. Bu güvenilirlik, onları İmparatorluk güçleri arasında en çok aranan ve en çok saygı duyulan müttefiklerden biri yapar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

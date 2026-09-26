@@ -14,6 +14,11 @@ Imperium'u reddedip Chaos'u da reddeden, Emperor'un ideallerini kendi yorumuyla 
 - **Önemli Olaylar:** Soulspear olayı; Chapter War; Phalanx'taki yargılanma.
 - **Kanon Notu:** Sarpedon ve son Soul Drinkers'ın akıbeti bilinmiyor; gene-seed değişimine dair açıklamalar evren içi spekülasyondur.
 
-## Tarihçe
+## Lanetli
+Soul Drinkers, Imperium'un en trajik Chapter'ıdır; 'Soul Spear' silahlarına taparlar ve Dorn'un soyundan geldiklerini iddia ederler — ama gerçekte gen-seed'leri bilinmez. Heresy'ye benzer bir 'sorgulama' Chapter'ı: Sarpedon (sonradan Chapter Master) Imperium'un onlara yalan söylediğini keşfeder ve Chapter Chaos'a doğru sürüklenir.
 
-Soul Drinkers, Imperial Fists soyu ve Second Founding'de kurulan trajik bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinden doğar ama onların kaderi, İmparatorluğun en büyük ihanet ve kurtuluş hikâyelerinden biridir. Soul Drinkers'ın en büyük trajedisi, onların yanlış anlaşılmasıdır — onlar, İmparatorluk tarafından heretik ilan edildiler ve sürgün edildiler; ama onlar, hâlâ İmparator'a sadık kaldılar ve onların savaşı, artık İmparatorluk için değil, İmparator içindir. Soul Drinkers'ın en ünlü hikâyesi, onların Daemon Engine'i yok etmek için yaptıkları savaştır — onlar, İmparatorluğun onları avlamasına rağmen, İmparatorluğun en büyük tehdidini durdurdular
+## Trajedi
+Soul Drinkers'ın hikâyesi (*Soul Drinkers* serisi — Ben Counter) canon'un en edebi Chapter'ıdır: Imperium'un kendi çocuğunun 'hain' ilan edilişini anlatır. Sarpedon'un 'eight limbs' mutasyonu ve Chapter'ın yavaş Chaos'a kayışı — ama hep 'biz Imperium'uz' inancıyla — canon'un en acıklı yarı-hikâyesidir. Chapter sonradan 'yeniden kuruldu' ama eski Soul Drinkers'ın anısı 'yanlış mahkûm edilen' Space Marine efsanesidir.
+
+## Kaynaklar
+-# Kaynaklar: *Soul Drinkers* serisi — Ben Counter (Soul Drinker, Bleeding Chalice vb.); Lexicanum

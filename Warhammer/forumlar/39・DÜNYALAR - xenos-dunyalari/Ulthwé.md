@@ -14,6 +14,11 @@ Ulthwé, 'Fate's Watchmen' (Kaderin Bekçileri) olarak bilinen ve Eye of Terror'
 
 Ulthwé'nin ünü, Eldrad Ulthran gibi efsanevi farseer'lerden ve Craftworld'ün 'Black Guardian' militiasından gelir — yeterli Aspect Warrior'ı olmadığı için tüm nüfusun savaşa katıldığı, 'herkes asker' doktrini. Ulthwé, diğer Craftworld'lerden daha fazla bedel öder ama bilgi ağı da en geniş olanıdır — Cadia'nın düşüşünü önceden görenler, Ulthwé'nin farseer'leriydi; Craftworld'ün kaderi, İmparatorluk'un kaderiyle neredeyse bağlıdır.
 
-## Tarihçe
+## Kaderin Craftworld'ü
+Ulthwé — 'Ulthanash shelwé' — Eldar'ın en bilinen craftworld'üdür ve Eldrad Ulthran'ın evidir; Eye of Terror'a en yakın büyük Eldar yerleşimi olarak sürekli Chaos tehdidi altında yaşar. 'Black Guardians' denen askeri sistemiyle bilinir — diğer craftworld'lerde Warrior Aspect'a geçen Eldar burada Guardian olarak kalır çünkü savaş zorunludur.
 
-Ulthwé, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Eye of Terror'a olan yakınlığıyla — 'the Damned' olarak bilinen — ve onun psişik gücüyle bilinen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en psişik evidir. Ulthwé'nin en büyük özelliği, onun psişik gücüdür — onlar, Aeldari'nin en güçlü psyker'larını yetiştirir ve
+## Eldrad'ın Evi
+Ulthwé'nin kaderi Eldrad'la iç içedir — Farseer'ların en güçlüsü burada yaşadı; craftworld'ün dış politikası onun kehanetlerini takip eder. Cadia'nın düşüşünde Eldrad'ın 'reality-kırma' ritüeli burada başlatıldı — Ynnead'in doğuşu Ulthwé'nin değişimini tetikledi. 'Kader ülkesi' olarak tanınır — her karar runik kehanetle alınır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Fracture of Biel-Tan*; *Eldrad* lore parçaları; Lexicanum

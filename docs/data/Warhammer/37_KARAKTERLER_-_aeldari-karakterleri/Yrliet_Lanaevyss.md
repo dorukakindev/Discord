@@ -9,8 +9,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/YrieletLanaevyss.jpg/
 - **Köken:** Crudarach
 - **Önemli Olaylar:** von Valancius ekibi
 
-## Tarihçe
+## Sürgün
+Yrliet Lanaevyss — 'Yrliet' — *Rogue Trader* (Owlcat oyunu)'nun Eldar companion'ı ve Path of the Outcast'in modern örneğidir; Aeldari'nin 'kendi ırkına yabancılaşmış' figürü olarak bilinir. Exodite kökenli ama craftworld'e dönmüş, sonra tekrar Outcast olmuş — 'iki dünya arasında' yaşayan Eldar'ın simgesidir.
 
-Yrliet Lanaevyss, Aeldari'nin en ünlü ve en önemli figürlerinden biridir — Rogue Trader oyununun figürlerinden biridir. Lanaevyss, Aeldari'nin en ünlü ve en önemli figürlerinden biridir; onun hikâyesi, İmparatorluk'un en ünlü video oyunu hikâyelerinden biridir. Yrliet Lanaevyss, Aeldari'nin en ünlü ve en önemli figürü olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü video oyunu hikâyelerinden biridir.
+## Kaynaklar
+-# Kaynaklar: *Rogue Trader* (Owlcat Games); *Path of the Outcast*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

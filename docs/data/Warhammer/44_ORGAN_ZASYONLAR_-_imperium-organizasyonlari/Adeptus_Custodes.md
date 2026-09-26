@@ -1,33 +1,13 @@
 https://static.wikia.nocookie.net/warhammer40k/images/0/09/Adeptus_Custodes_Icon2.jpg/revision/latest?cb=20140614015312
 
-## Tarihçe
+## On Bin'in Muhafızları
+Adeptus Custodes — 'Ten Thousand' — İmparator'un kişisel muhafızları ve genetik şaheseridir; Space Marine'lerden bile üstün, her biri tek tek tasarlanmış, İmparator'un elinden çıkan ilk ve son özel savaşçılar. Golden Throne'un önünde dururlar, Terra'dan neredeyse hiç ayrılmazlardı — Guilliman'ın dönüşüne kadar. Bir Custodes, bir Space Marine'e karşı her alanda üstündür; onları 'küçük Astartes' olarak görmek Imperium'un en ölümcül yanılgısıdır.
 
-Adeptus Custodes — Büyük Haçlı Seferi dönemindeki adıyla Legio Custodes, 'On Bin' — İmparatorluk Sarayı'nı ve İmparator'un bedenini korumakla görevli elit transhuman savaşçı örgütüdür; Astartes'den bile güçlüdürler ve İmparator'un en önemli elçileri ile sırdaşlarıdırlar. Great Rift sonrası artık saray duvarları dışında da aktif görev alırlar.
+## Tarihleri
+Great Crusade ve Heresy sırasında Custodes, İmparator'un yanında savaştı — Terra surlarında, Webway savaşında (The Master of Mankind'da anlatılır), son anlarda İmparator'un yanında. Sonrasında on bin yıl hiç Terra'yı terk etmediler; Imperium onlara 'sadakat duvarı' der. Sisters of Silence (psişik-boş kadın savaşçılar) onların geleneksel yoldaşıydı.
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+## Era Indomitus
+Guilliman'ın dönüşüyle Custodes yeniden sahaya çıktı: Golden Throne'dan ayrılıp Indomitus Crusade'e katıldılar. 'On Bin' bugün hem İmparator'un son sadık kalanı hem de Imperium'un en kesin cevabıdır — onlar göründüğünde savaşın anlamı değişir. Shield-Captain'ler, Allarus terminator zırhı ve Dawneagle jetbike'ları canon imzalarıdır.
 
-# Adeptus Custodes — İmparator'un Muhafızları
-
-İmparator'un kişisel altın muhafızları; her biri bir Space Marine'den üstün, tek tek yaratılan altın savaşçılar.
-
-- **Kategori:** Askeri
-- **Bağlılık:** Imperium
-- **Purpose:** İmparator'u ve Altın Taht'ı korumak
-- **Seat:** Terra (İmparatorluk Sarayı)
-- **Kanon Sınıfı:** A — resmî kaynak
-
-## Kayıt
-
-Adeptus Custodes, İmparator'un kişisel muhafızları ve galaksinin en seçkin savaşçılarıdır; "İmparator'un Yabancıları" (Emperor's Talons) olarak da anılırlar. Space Marine'lerden farklı olarak, bir gen-tohum kalıbından seri üretilmezler; her biri, doğrudan İmparator'un kendi eliyle, bireysel olarak, uzun ve titiz bir süreçle yaratılmıştır.
-
-Bu bireysel yaratım, onları benzersiz kılar; her Custodian, en güçlü Space Marine'i bile fiziksel, zihinsel ve psişik olarak gölgede bırakır. Altın zırhları, üstün teçhizatları ve mükemmel eğitimleriyle, tek bir Custodian bir savaş gücüne bedeldir. Aynı zamanda Space Marine'lerin aksine yozlaşmaya (Kaos'a) karşı çok daha dirençlidirler ve İmparator'a olan sadakatleri mutlaktır.
-
-On bin yıl boyunca, Custodes neredeyse hiç Terra'dan ayrılmadı; tek görevleri, Altın Taht'taki İmparator'u ve İmparatorluk Sarayı'nı korumaktı. Bu uzun "altın kafes" dönemi, onları efsanevi ama uzak bir güç yaptı; çoğu insan onların varlığından bile habersizdi. Sıklıkla, psişik gücü emen ruhsuz kadın savaşçılar Sisters of Silence ile birlikte çalışırlar.
-
-Guilliman'ın dönüşü ve İmparatorluğun çöküşün eşiğine gelmesiyle, Custodes tarihi bir karar aldı: artık galaksiye açılıp savaşa katılmaya başladılar. Bu, durumun ne kadar umutsuz olduğunun bir işaretiydi; İmparator'un en değerli muhafızları bile artık tahtın başında bekleyemezdi. Adeptus Custodes, insanlığın ulaşabileceği savaşçı mükemmelliğinin zirvesidir; İmparator'un en saf, en sadık ve en ölümcül yaratımları, altın zırhlı yarı-tanrılardır.
-
-
-## Tarihçe
-
-Adeptus Custodes — Büyük Haçlı Seferi dönemindeki adıyla Legio Custodes, 'On Bin' — İmparatorluk Sarayı'nı ve İmparator'un bedenini korumakla görevli elit transhuman savaşçı örgütüdür; Astartes'den bile güçlüdürler ve İmparator'un en önemli elçileri ile sırdaşlarıdırlar. Great Rift sonrası artık saray duvarları dışında da aktif görev alırlar.
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kaynaklar
+-# Kaynaklar: *The Master of Mankind* — Aaron Dembski-Bowden; *Watchers of the Throne* serisi — Chris Wraight; *Codex: Adeptus Custodes*; *The Regent's Shadow*; Lexicanum

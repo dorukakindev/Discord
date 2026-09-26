@@ -8,14 +8,10 @@ Black Templar haçlı grubunun Helsreach'i savunması — Grimaldus'un 'I have d
 - **Yazar:** Aaron Dembski-Bowden
 - **Konum/Dönem:** Helsreach Hive, Armageddon
 
-## İçerik
-Grimaldus'un Armageddon'un en büyük kovan şehrini orklara karşı son adam kalana dek savunması; İkinci Savaş'ın en sevilen hikâyesi.
+## Kale
+Helsreach — Aaron Dembski-Bowden'in romanı; Armageddon'un üçüncü savaşında Black Templars'ın Hive Helsreach'i savunması. Chaplain Grimaldus'un 'kale' olarak tuttuğu şehir, Imperium'un 'son direniş' kültürünün romanıdır. 'Helsreach' artık 'son an'a kadar savaş demektir — 'we are the wall' felsefesi.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-Helsreach, Aaron Dembski-Bowden'in yazdığı ve Black Templars'ın hikâyesini anlatan bir romandır. Bu roman, Black Templars'ın en önemli hikâyesini anlatır; roman, Black Templars'ın en önemli hikâyesidir. Bu roman, Black Templars'ın en önemli hikâyesidir; roman, Black Templars'ın en önemli parçasıdır. Roman, Black Templars'ın en önemli hikâyesi olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *Helsreach* — Aaron Dembski-Bowden; Lexicanum
 
 -# Kaynaklar: Black Library

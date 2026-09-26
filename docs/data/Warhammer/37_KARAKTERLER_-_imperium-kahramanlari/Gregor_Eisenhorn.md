@@ -7,13 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Gregor_Eisenhorn.jpg/
 
 Puritan başlayıp tehlikeli araçlara yönelen, radikalliğin sınırında gezen efsanevi Inquisitor.
 
-## Tarihçe
-Gregor Eisenhorn, Ordo Xenos'a bağlı bir Inquisitor'dır ve 40K'nın en derin ahlaki sorularından birini canlı kılan, edebiyatın en ünlü İmparatorluk karakterlerinden biridir. Hikâyesi, "iyiyi korumak için ne kadar kötülük yapılabilir?" sorusu etrafında döner.
+## Amalathian
+Gregor Eisenhorn, Ordo Xenos'un en ünlü Inquisitor'u ve Amalathian fraksiyonunun ilkeleriyle doğmuş adam — Imperium'un 'systemi içinde çalış' taraftarı. Gudrun'daki Pontius Glaw vakasıyla başlayan kariyeri onu Chaos'un kalbine sürükledi; Cherubael adlı daemon-host'u 'kontrollü' kullanan nadir Inquisitor'lardandır. Gideon Ravenor'un eski efendisi.
 
-Eisenhorn kariyerine katı bir Puritan olarak başladı; yani İmparatorluk'un kurallarına ve saflığına sıkı sıkıya bağlı, yasak araçlara asla başvurmayan bir soruşturmacı. Sayısız Kaos komplosunu, xeno tehdidini ve sapkın ayaklanmayı çözdü; zekâsı, kararlılığı ve sezgisi onu efsaneleştirdi.
+## Miras
+Eisenhorn'un hikâyesi Inquisition'un en derin ahlaki sınavıdır: bir Puritan nasıl Radical'in araçlarını kullanır hâle gelir? Pontius Glaw, Necroteuch ve saraband meselesi onu ideolojinin sınırına çeker. Romanlar Imperium'un karanlık iç işleyişinin en iyi edebi tasviridir — Eisenhorn Imperium'un vicdanıdır, kirli ama dürüst.
 
-Gregor Eisenhorn, İmparatorluk tarihinin en efsanevi Inquisitor'üdür — Ordo Xenos'un 'sorgulama' idealinin somut hâli: bir amthorne sopası, ikinci bir zihin ve 'radikal' damgasını sorgulayan sonuçlar. Eisenhorn'un kariyeri, 'Pontius Glaw' operasyonundan başlayarak 'The Magos' ve 'Hereticus' davalarında efsaneleşti; Daemonhost Cherubael'in yaratılması, onun 'saf' inquisitor kimliğinin çöküş noktası oldu.
-
-Eisenhorn'un trajedisi, yöntemlerinin kendisini yavaş yavaş 'radikalleştirmesi'ydi — kaosu kullanarak kaosu avladı ve İmparatorluk'un ona verdiği damga, 'heretic' şüphesiyle 'gerekli kötülük' arasında gidip geldi. Bequin, Ravenor ve sayısız öğrenci yetiştirdi; bugün 'Eisenhorn' adı, Inquisition'ın en bilinen ve en tartışmalı mirasıdır — İmparatorluk'un karanlık gerçeklerini görüp hâlâ 'doğru olanı' seçmeye çalışan adamın hikâyesi.
+## Kaynaklar
+-# Kaynaklar: *Eisenhorn* üçlemesi — Dan Abnett (Xenos, Malleus, Hereticus); *The Magos*; *Eisenhorn vs Ravenor*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

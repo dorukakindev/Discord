@@ -14,9 +14,11 @@ Hareketli baskınlar, hızlı manevralar ve çölde hayatta kalma ustalığıyla
 - **Önemli Olaylar:** Battle of Tallarn (Horus Heresy); M41 baskın harekâtları.
 - **Kanon Notu:** Battle of Tallarn'daki zırhlı kuvvet ve kayıp rakamları bu kayda alınmamıştır.
 
-## Tarihçe
+## Çölün Çocukları
+Tallarn Desert Raiders — Tallarn'ın virüs-bombardımanı sonrası 'çöl alayı'dır; infiltration, sabotaj ve 'görünmezlik' savaşının ustalarıdır. 'Raider' unvanı onların yöntemini anlatır — asla doğrudan savaşmazlar, bekler ve vurur. Tallarn'ın kendisi 'savaşın nasıl bitti' sorusunun cevabıdır — virüsle.
 
-Tallarn Desert Raiders, İmparatorluk Muhafızı'nın en ünlü çöl savaş birlikleridir — Tallarn gezegeninin çorak çöllerinden gelen askerlerdir. Tallarnlar, çöl savaşı ve mekanize piyade taktiklerinde efsanevidir; İmparatorluk'un en büyük tank savaşlarından biri olan Tallarn Savaşı, bu gezegende yaşandı. Tallarn Desert Raiders, hafif zırhlı ve hızlı birlikler olarak bilinir; çöl koşullarında İmparatorluk'un en etkili alaylarından biridir. Alaylar, İmparatorluk Muhafızı'nın en ünlü ve en etkili çöl savaş birlikleri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Tallarn* serisi — John French; Lexicanum
 
 -# Kaynaklar: *Tallarn — John French*; *Codex: Astra Militarum*
 

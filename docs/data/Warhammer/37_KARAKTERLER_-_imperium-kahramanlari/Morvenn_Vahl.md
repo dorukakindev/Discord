@@ -8,9 +8,13 @@ Morvenn Vahl, Adepta Sororitas'ın Abbess Sanctorum'u (yüce komutanı) ve tüm 
 
 Ecclesiarchy yeni bir Abbess Sanctorum seçmek istediğinde, genç bir Celestian Superior olan Vahl'ı seçti; siyasi arenada kolayca yönlendirilebileceğini sandılar. Ama bunun yerine, Kutsal Synod toplantılarına tam savaş zırhıyla katılan, kendisini etkilemeye çalışanları sindiren dosdoğru ve demir iradeli bir savaşçı buldular.
 
-## Tarihçe
+## Abbess
+Morvenn Vahl — 'Abbess of the Adepta Sororitas' — Sisters of Battle'ın en yüksek komutanı ve Ecclesiarchy'nin askeri yüzüdür; Parlour of Thorns'daki merkezden tüm Order'ları yönetir. 'Purgator's Mace' taşır — kendi eliyle bir Word Bearers Sorcerer'ı öldüren figür. Indomitus Crusade'e katıldı; Sisters'ın 'sahada da var' olduğunun kanıtıdır.
 
-Morvenn Vahl, Sisters of Battle'ın en önemli ve en güçlü figürlerinden biridir — Chapter'ın en önemli figürlerinden biridir. Vahl, Sisters of Battle'ın en önemli ve en güçlü figürlerinden biridir; onun liderliği, Sisters of Battle'ın en önemli savaşlarının ve en büyük zaferlerinin simgesidir. Morvenn Vahl, Sisters of Battle'ın en önemli ve en güçlü figürü olarak kalır — onun liderliği, Sisters of Battle'ın en önemli savaşlarının ve en büyük zaferlerinin simgesidir.
+## Rol
+Vahl canon'da Sisters of Battle'ın 'modern' yüzüdür — inanç + strateji + saha gücü. 'Paragon Warsuit' ve 'Celestian' korumasıyla savaşır; Sisters için o 'en yüksek otorite' ama aynı zamanda 'ilk safta duran' figürdür.
 
+## Kaynaklar
+-# Kaynaklar: *Codex: Adepta Sororitas* (9. ed.); *Morvenn Vahl* lore; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

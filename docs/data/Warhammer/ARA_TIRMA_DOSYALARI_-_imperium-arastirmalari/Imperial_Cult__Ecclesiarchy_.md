@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/b/b5/Adepta_Sororitas_Anna_Steinbauer.jpg/revision/latest?cb=20140526234323
+
 -# THE IMPERIAL ARCHIVE · Araştırma Dosyası · Imperial Cult
 https://static.wikia.nocookie.net/warhammer40k/images/3/31/Adeptus_Ministorum_Icon.jpg/revision/latest?cb=20140526091152
 

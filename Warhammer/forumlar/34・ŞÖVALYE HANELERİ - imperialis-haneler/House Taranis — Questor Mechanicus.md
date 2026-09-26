@@ -14,9 +14,11 @@ Bağlılığını tek bir forge world'e değil, doğrudan Adeptus Mechanicus'a v
 - **Önemli Olaylar:** Schism of Mars; Hanenin Heresy sonrası yeniden kuruluşu.
 - **Kanon Notu:** Schism'den sağ çıkan iki Knight'ın sonraki akıbeti açıklanmamıştır; Hanenin Heresy sonrası tarihi yayınlar arasında aynı yoğunlukta verilmez.
 
-## Tarihçe
+## Yıldırım Hanesi
+House Taranis — Mars'ın 'asli' Knight hanesi ve Mechanicus'a doğrudan bağlı ilk hane; 'Knight of Mars' olarak anılırlar. Taranis'in pilotları Mechanicus tarikatına üyedir — Knight'ı 'ritüel' ile sürerler. 'War Griffons' ve 'Taranis'in Kalkanı' unvanlarıyla bilinen en eski Mechanicus hanesidir.
 
-House Taranis — Questor Mechanicus, İmparatorluk'un en eski ve en prestijli Knight hane'lerinden birinin Mechanicus'a bağlı versiyonudur. Taranis, Mars'ın yakınında bulunan ve Mechanicus'la doğrudan bağlı bir hane'dir; hanenin Knight'ları, Mechanicus'un operasyonlarında görev alır ve Forge World'lerin savunmasında kritik rol oynar. House Taranis — Questor Mechanicus, İmparatorluk'un en güvenilir ve en eski Knight hane'lerinden biri olarak kalır; hane, İmparatorluk'un en önemli askeri varlıklarından biridir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; *Adeptus Titanicus* lore; Lexicanum
 
 -# Kaynaklar: *Mechanicum — Graham McNeill*; *Codex: Imperial Knights*
 

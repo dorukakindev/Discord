@@ -12,8 +12,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Warhammer_40%2C000-_5
 - **Köken:** Ultramar
 - **Önemli Olaylar:** Graia'nın savunması; 10.000 yıl sonra dönüş
 
-## Tarihçe
+## Ultramar'ın Savaşçısı
+Demetrian Titus, Ultramarines'ın eski 2nd Company kaptanı ve Warhammer 40,000: Space Marine oyunlarının merkez karakteridir; Graia'da Ork istilasını ve Nemeroth'un yükselişini durduran figür. 'Kahraman ama kuşkulu' — Warp'e dokunmuş ama sadık kalmış — Space Marine'lerin en bilinen video-oyun yüzüdür.
 
-Demetrian Titus, Ultramarines'in en ünlü ve en efsanevi kaptanlarından biridir — Space Marine video oyununun kahramanıdır. Titus, Ultramarines'in en ünlü ve en deneyimli kaptanlarından biridir; onun hikâyesi, İmparatorluk'un en ünlü Space Marine hikâyelerinden biridir. Titus, Graia'nın savunmasında Ork ve Chaos güçlerine karşı savaştı; onun hikâyesi, İmparatorluk'un en ünlü video oyunu hikâyelerinden biridir. Demetrian Titus, Ultramarines'in en ünlü ve en efsanevi kaptanı olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü Space Marine hikâyelerinden biridir.
+## Space Marine 2
+10. edisyonun ana figürü: Rubicon Primaris geçişiyle yükseldi, Deathwatch'ta hizmet ettikten sonra Ultramarines'e döndü ve 4. Tyrannic War'da Recidious sisteminde savaştı. Titus canon'da 'zarar görmüş ama sadık' Space Marine'in prototipidir — Chapter ona kuşkuyla bakar ama ona ihtiyaç duyar.
+
+## Kaynaklar
+-# Kaynaklar: *Space Marine* ve *Space Marine 2* (Relic/Saber oyunları); *Titus* short stories; *Codex: Ultramarines*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

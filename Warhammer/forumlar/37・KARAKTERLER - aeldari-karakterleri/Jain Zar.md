@@ -14,6 +14,11 @@ Howling Banshee'lerin Phoenix Lord'u Jain Zar, Aspect Warrior geleneğinin kadim
 - **Önemli Olaylar:** Howling Banshee Aspect'inin kuruluşu; Ynnari'ye katılım; Drazhar'la karşılaşma.
 - **Kanon Notu:** Phoenix Lord'ların sürekliliği (aynı kimliğin zırh aracılığıyla yeniden doğması) kaynaklarda mistik ve kısmen belirsiz bir süreç olarak anlatılır.
 
-## Tarihçe
+## İlk Exarch
+Jain Zar — 'Sessizliğin Fırtınası' — Howling Banshee Aspect'inin kurucusu ve ilk Phoenix Lord'dur; Asurmen'in öğrencisi, Eldar savaş geleneğinin en eski canlı figürlerinden. Milyonlarca yıl değil ama on binlerce yıl yaşamıştır — Slaanesh'in doğuşundan önce doğdu, Aeldari'nin 'biz kimdik' sorusunun cevabıdır. Silent Death silahı ve Jainas Mor maskesiyle savaşır; sesi ölüm getirir.
 
-Jain Zar, Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'larından biridir — Howling Banshees Aspect Shrine'ın kurucusudur. Jain Zar, Aeldari'nin en tehlikeli ve en ölümcül figürlerinden biridir; onun savaş yetenekleri ve yakın dövüş ustalığı, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Jain Zar, Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'u olarak kalır — onun yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş geleneğinin simgesidir.
+## Path of the Phoenix
+Phoenix Lord'lar ölümsüz değildir — her ölümde ruhları Exarch zırhına geçer ve başka bir Eldar'la birleşir; Jain Zar'ın 'kişiliği' binlerce bedende yaşamıştır. Biel-Tan'ın kırılması ve Ynnead'in doğuşu onu iki sadakat arasında bıraktı — Asuryan'ın eski yolu mu, yoksa ölümün yeni tanrısı mı?
+
+## Kaynaklar
+-# Kaynaklar: *Jain Zar: The Storm of Silence* — Gav Thorpe; *Codex: Craftworlds*; *Asurmen: Hand of Asuryan*; Lexicanum

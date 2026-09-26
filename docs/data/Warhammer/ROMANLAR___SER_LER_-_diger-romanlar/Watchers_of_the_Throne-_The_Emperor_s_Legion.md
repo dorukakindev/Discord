@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/5/50/Adeptus_Custodes_Companion.png/revision/latest?cb=20180129235730
+
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Watchers of the Throne: The Emperor's Legion
 

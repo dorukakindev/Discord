@@ -14,6 +14,14 @@ Emperor'ın kişisel koruyucuları ve Imperial Palace'ın bekçileri. Her biri �
 - **Önemli Olaylar:** Unification Wars; Thunder Warriors'ın sonu; Siege of Terra; Era Indomitus'taki seferler.
 - **Kanon Notu:** Custodes'in sayısı kaynaklarda çoğu zaman bilinçli olarak bulanık bırakılır. Space Marine'lerin "gelişmiş sürümü" değil, ayrı bir projedir.
 
-## Tarihçe
+## On Bin'in Muhafızları
+Adeptus Custodes — 'Ten Thousand' — İmparator'un kişisel muhafızları ve genetik şaheseridir; Space Marine'lerden bile üstün, her biri tek tek tasarlanmış, İmparator'un elinden çıkan ilk ve son özel savaşçılar. Golden Throne'un önünde dururlar, Terra'dan neredeyse hiç ayrılmazlardı — Guilliman'ın dönüşüne kadar. Bir Custodes, bir Space Marine'e karşı her alanda üstündür; onları 'küçük Astartes' olarak görmek Imperium'un en ölümcül yanılgısıdır.
 
-Adeptus Custodes, İmparatorluğun en eski ve en kutsal savaş gücüdür; İmparator'un kişisel koruması olan ve her biri bir Space Marine'den daha güçlü olan altın zırhlı savaşçılardır — onlar, İmparatorluğun en kutsal ve en ölümcül savaşçılarıdır. Adeptus Custodes'un en büyük özelliği, onların bireysel gücüdür — bir Custodian, bir Space Marine'den daha güçlü ve daha deneyimlidir; onların eğitimi, bir ömür sürer ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Adeptus Custodes'un en ünlü özelliği, onların altın zırhıdır — onlar, Auramite'ten yapılmış zırh giyer ve onların varlığı, İmparator'un gücünün somut halidir; bir Custodian, hem bir savaşçı hem de bir simgedir. Adeptus Custodes, İmparatorluğun en kutsal ve en ölümcül savaş gücüdür — onlar, İm
+## Tarihleri
+Great Crusade ve Heresy sırasında Custodes, İmparator'un yanında savaştı — Terra surlarında, Webway savaşında (The Master of Mankind'da anlatılır), son anlarda İmparator'un yanında. Sonrasında on bin yıl hiç Terra'yı terk etmediler; Imperium onlara 'sadakat duvarı' der. Sisters of Silence (psişik-boş kadın savaşçılar) onların geleneksel yoldaşıydı.
+
+## Era Indomitus
+Guilliman'ın dönüşüyle Custodes yeniden sahaya çıktı: Golden Throne'dan ayrılıp Indomitus Crusade'e katıldılar. 'On Bin' bugün hem İmparator'un son sadık kalanı hem de Imperium'un en kesin cevabıdır — onlar göründüğünde savaşın anlamı değişir. Shield-Captain'ler, Allarus terminator zırhı ve Dawneagle jetbike'ları canon imzalarıdır.
+
+## Kaynaklar
+-# Kaynaklar: *The Master of Mankind* — Aaron Dembski-Bowden; *Watchers of the Throne* serisi — Chris Wraight; *Codex: Adeptus Custodes*; *The Regent's Shadow*; Lexicanum

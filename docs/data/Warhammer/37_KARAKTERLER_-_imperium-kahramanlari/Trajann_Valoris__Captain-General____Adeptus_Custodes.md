@@ -14,6 +14,11 @@ Emperor'un muhafızlarının komutanı ve High Lords of Terra arasında yer alan
 - **Önemli Olaylar:** Custodes'in Indomitus döneminde Terra dışına açılması; High Lords konseyindeki rolü.
 - **Kanon Notu:** Trajann'ın iç dünyası büyük ölçüde romanlar üzerinden işlenir; codex anlatıları daha kısa ve kurumsal bir çerçeve sunar.
 
-## Tarihçe
+## Muhafızın Başı
+Trajann Valoris — Adeptus Custodes'in mevcut Captain-General'i ve İmparator'un 'on bin'in lideri; Constantin Valdor'un ardılı. 'Captain-General' unvanı onu Imperium'un en yüksek askeri figürü yapar — teknik olarak High Lords'a bile hesap vermez çünkü tek efendisi İmparator'dur. Heresy'den sonra Custodes'in 'sahaya çıkmama' politikasını Guilliman'ın dönüşüyle ilk kıran figürdür.
 
-Trajann Valoris, Adeptus Custodes'in Captain-General'ı ve İmparatorluk'un en güçlü figürlerinden biridir — İmparator'un en yakın muhafızının lideridir. Valoris, Adeptus Custodes'in en güçlü ve en deneyimli figürüdür; onun liderliği, İmparatorluk'un en önemli ve en güçlü güçlerinden biridir. Valoris, İmparatorluk'un en güçlü ve en efsanevi figürü olarak kalır — onun varlığı, İmparatorluk'un en önemli ve en güçlü güçlerinin simgesidir.
+## Rol
+Valoris'in yönetimi Custodes'in 'durağan' rolünü değiştirdi — Indomitus Crusade'e katıldılar, Guilliman'ın yanında savaştılar ve 'Artarion's Spear' unvanıyla tanınır. Canon'da 'İmparator'un son sadık' figürüdür — onun için görev sadece Terra değil, İmparator'un yaratmaya çalıştığı Imperium'dur.
+
+## Kaynaklar
+-# Kaynaklar: *Watchers of the Throne* serisi — Chris Wraight; *Codex: Adeptus Custodes*; *The Regent's Shadow*; Lexicanum

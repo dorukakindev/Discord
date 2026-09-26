@@ -12,14 +12,14 @@ Bir Genestealer'ın enfeksiyonuyla başlayan, nesiller boyu büyüyen ve bir dü
 - **Seat:** Yeraltı kült yuvaları
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## İçeriden Büyüyen Hastalık
+Genestealer Cults, Tyranid'in en sinsi silahıdır: bir Genestealer dünyaya sızar, öpen insanları 'infected' yapar, torunları giderek saf Genestealer'e yaklaşan melezler doğar ve bir 'cult' oluşur. Cult'un Patriarch'ı toplumun en altından başlayarak madenlerde, fabrikalarda, gezegen yönetimine kadar sızar; Day of Ascension'da (Tyranid filosu geldiğinde) tüm dünya aynı anda isyan eder.
 
-Genestealer Cults, Tyranid tehdidinin en sinsi ve en uzun vadeli yüzüdür; bir gezegene sızan tek bir Genestealer'ın insanları enfekte etmesiyle başlayan, nesiller boyunca gizlice büyüyen ve bir dünyayı içeriden çökerten gizli bir kült-örgütüdür. Bir istila değil, bir enfeksiyon ve içten çürütmedir.
+## Katmanlar
+Cult yapısı dört kuşaklıdır: ilk kuşak melez (insan görünümlü), ikinci-üçüncü kuşak giderek Genestealer'e benzer, dördüncü kuşak 'Purestrain' — saf Genestealer. Magus (psişik lider) ve Primus (askeri komutan) Patriarch'ın yanındadır; gizli kiliseler, maden kurtarma ekipleri, 'kurtuluş vaadi' propagandasıyla Imperium'un en derin sızma tehdididir.
 
-Kült, bir "Patriarch" (ilk Genestealer, kült atası) etrafında bir aile olarak büyür; enfekte olan insanlar ve onların giderek daha Tyranid-benzeri çocukları (melez kuşaklar), gizemli bir "Kurtarıcı"ya tapan, birbirine kan bağıyla bağlı bir gizli topluma dönüşür. "Magus" (psişik lider) ve "Primus" (askeri lider) gibi figürler kültü yönetir.
+## Kanon Önemi
+Genestealer Cults, Imperium'un 'içeriden' yok edilebileceğinin kanıtıdır: bir dünya kendi Guard'ı, kendi valisi ile düşer. Vigilus'taki, Baal'daki ve sayısız maden dünyasındaki ayaklanmalar onların eseridir. En büyük ironi: Cult'lar gerçekten de 'kurtuluş' arayan ezilmiş işçilerden doğar — Tyranid'in en etkili propagandası Imperium'un kendi baskısıdır.
 
-Kült, sabırla ve sinsice toplumun her katmanına sızar; işçilere, askerlere, polise, hatta yöneticilere. Onlarca yıl, hatta yüzyıllar boyunca gizli kalır, gücünü ve sayısını artırır. Üyeleri, baskıcı İmparatorluk düzenine karşı bir umut, bir kurtuluş vaadiyle hareket eder; çoğu, gerçek amaçlarının ne olduğunu bilmez bile. Doğru an geldiğinde, kült bir isyan başlatır ve gezegeni içeriden felç eder.
-
-Genestealer Cults'un asıl korkunç gerçeği, bu kurtuluş umudunun bir yalan olmasıdır; ayaklanmaları ve gezegeni kaosa sürüklemeleri, aslında farkında olmadan gökten gelecek Tyranid hive fleet'i için bir dünyayı "olgunlaştırmak", direnişini kırmak ve onu bir ziyafete hazırlamaktır. Sevdikleri "Kurtarıcı", aslında onları yutacak olan Great Devourer'dır. Genestealer Cults, Tyranid tehdidinin yalnızca kaba bir istila değil, aynı zamanda umudu, aileyi ve inancı bir silaha çeviren, trajik ve sinsi bir içten çökertme operasyonu olduğunun somut halidir.
-
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kaynaklar
+-# Kaynaklar: *Codex: Genestealer Cults*; *Vigilus* kampanya kitapları; *Day of Ascension* — Adrian Tchaikovsky; Lexicanum

@@ -13,10 +13,8 @@ Galaktik uygarlığın kurtarılamayacak kadar çürümüş olduğuna, tek arın
 - **Önemli Olaylar:** Siege of Vraks; Medusa baskını.
 - **Kanon Notu:** Özgün Chapter kimliği ve soyu yayımlanmamıştır; bir Chapter'ın düşüşü mü yoksa sonradan bir araya gelmiş bir grup mu olduğu açık değildir.
 
-## Tarihçe
+## Virüs Ordusu
+The Purge — 'Purge' — Chaos'un 'Nurgle'a bağlı' bağımsız warband'ıdır; 'temizleme' (purge) doktriniyle tanınır — kendi korkunç yöntemleriyle 'Evreni temizleme' peşindedir. Kuraltank'ları ve veba bombaları kullanır; kendi üyelerini bile 'temizlemek' ister — 'her şey çürümeli' mantığıyla çalışır. Genestealer kültlerine bile bulaşan 'evrensel temizlik' vizyonudur.
 
-The Purge, Nurgle'a adanmış en korkulan renegade warband'lerinden biridir; onların savaş doktrini, Nurgle'un 'temizleme' anlayışından doğar — onlar için yaşam, hastalıktır ve onların görevi, tüm yaşamı Nurgle'un kutsal çürümesiyle 'temizlemek'tir. The Purge'un en büyük özelliği, onların zehridir — onların silahları, hastalıkları ve varlıkları, sadece öldürmez, aynı zamanda çürütür; bir Purge savaşçısı, düşmanını zehirler ve onu yavaşça eritir ve onların savaşı, hem fiziksel hem de biyolojik bir kirliliktir. The Purge'un en ünlü savaşı, İmparatorluğun çeşitli dünyalarına yaptıkları biyolojik saldırılardır — onların zehiri, bir gezegenin ekosistemini bozar ve onun halkını, Nurgle'un en korkunç hastalıklarına maruz bırakır. The Purge, Chaos'un en korkulan ve en tiksindirici warband'idir — onların savaşı, hem ölüm hem de çürümedir.
-
-## Teknik / Biyolojik Özellikler
-
-Sivil ve askerî hedef ayırmadan kullanılan kimyasal silahlar
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Space Marines*; Lexicanum

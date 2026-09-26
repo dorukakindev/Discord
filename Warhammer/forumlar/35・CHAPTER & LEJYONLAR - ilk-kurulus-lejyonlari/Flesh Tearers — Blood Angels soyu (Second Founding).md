@@ -14,6 +14,11 @@ Sanguinius'un kalıtımındaki Flaw'un en yıkıcı biçimde görüldüğü Chap
 - **Önemli Olaylar:** Cryptus savunması; Devastation of Baal; Primaris'in kabulü.
 - **Kanon Notu:** Chapter'ın gerçek mevcudu ve Flaw'un derecesi kaynaklarda kesin verilmez; müttefiklerin yargıları evren içi bakıştır.
 
-## Tarihçe
+## Kanlı Dişler
+Flesh Tearers, Blood Angels'ın successor'ı ve en 'Black Rage'e yaklaşmış' Chapter'dır; Gabriel Seth liderliğinde, lejyonun lanetini neredeyse açıkça yaşayan figür. Cretacia'nın ölüm dünyasında yaşarlar — Chapter'ın savaş kültürü 'kabullenilmiş vahşet'tir: Black Rage'i bastırmazlar, onu yönetirler.
 
-Flesh Tearers, Blood Angels soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, Blood Angels'ın Red Thirst'ünün en vahşi ve en kontrolsüz halidir — onlar, İmparatorluğun en korkulan ve en kanlı savaşçılarıdır. Flesh Tearers'ın en büyük özelliği, onların vahşetidir — onların savaşı, sadece öldürmek değil, parçalamaktır; bir Flesh Tearer, düşmanını yer, içer ve parçalar ve onların savaş alanı, bir mezbahadan farksızdır. Flesh Tearers'ın en büyük trajedisi, onların Red Thirst'ünün en ağır halini taşımasıdır — onların savaşçıları, Black Rage'e diğer Chapter'lardan daha sık düşer ve onların sayısı, sürekli azalır; ama onların savaşı, İmparatorluğun en acımasız
+## Başarı ve Bedel
+Flesh Tearers'ın savaş sicili Imperium'un en kanlısıdır — ve bu yüzden şüphelidirler. Sisters of Battle'la 'Kullington' olayında (Flesh Tearers'ın kendi müttefiklerini öldürmesi) canon'un en tartışmalı anıdır. Devastation of Baal'da Dante'ye katıldılar — Seth'in 'Flesh Tearers sonuna kadar savaşır' sözü Chapter'ın onurudur.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Blood Angels*; *Flesh Tearers* serisi — Andy Smillie; *The Devastation of Baal*; Lexicanum

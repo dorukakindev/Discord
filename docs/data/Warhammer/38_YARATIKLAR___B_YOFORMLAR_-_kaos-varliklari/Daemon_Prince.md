@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a6/Daemon_prince_by_corb
 
 Bir Kaos Tanrısı tarafından ölümsüz bir iblise yükseltilmiş ölümlü şampiyon; gücün nihai ödülü ve laneti.
 
-## Tarihçe
-Daemon Prince (İblis Prensi), Kaos yolunun nihai hedefi ve nihai bedelidir; bir Kaos Tanrısı'na uzun yıllar, hatta yüzyıllar boyunca sadakatle hizmet eden bir ölümlü şampiyonun (genellikle bir Chaos Space Marine ya da güçlü bir büyücü), ödül olarak ölümsüz bir iblise yükseltilmesidir.
+## Yükselen
+Daemon Prince — Chaos'un en yüksek 'ödülüdür'; bir mortal şampiyon Chaos tanrıları tarafından daemon'a yükseltilir — artık ölümsüz, Warp'te yaşayan ama gerçek uzaya da sızabilen varlık. 'Ascension' denen bu süreç mortal bedenin terk edilmesidir — Primarch'ların çoğu (Angron, Fulgrim, Mortarion, Magnus, Lorgar, Perturabo) Daemon Prince oldu.
 
-Bu yükseliş, şampiyonu devasa, kanatlı, doğaüstü güçlere sahip bir yarı-tanrıya dönüştürür; artık ölümlü değildir, gerçek uzayda öldürülse bile (tıpkı diğer iblisler gibi) Warp'a sürülür ve zamanla yeniden biçimlenir. Hizmet ettiği tanrıya göre özel armağanlar taşır: Khorne'un bir prensi kaba güç ve baltalarla, Tzeentch'in bir prensi büyüyle, Nurgle'ınki çürümeyle, Slaanesh'inki hızla donanır.
+## Fiyat
+Daemon Prince olmak özgürlük değil yeni esarettir — artık tanrına borçlusun ve bir daha asla 'insan' değilsin. Canon'da 'en yüksek lanet'in örneğidir: sonsuz güç ama sonsuz hizmet. M'kar, Doombreed, An'ggrath (Bloodthirster'dan farklı, 'yükselen' olarak da bilinirler) bilinen örneklerdir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *Codex: Chaos Space Marines*; *Slaves to Darkness*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

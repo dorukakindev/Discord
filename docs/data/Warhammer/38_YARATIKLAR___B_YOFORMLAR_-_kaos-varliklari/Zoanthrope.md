@@ -14,6 +14,8 @@ Cılız, körelmiş bir bedenin üzerinde şişkin bir kafatası taşıyan Zoant
 - **Önemli Olaylar:** Tek bir Zoanthrope'a bağlanan öne çıkan olay yoktur.
 - **Kanon Notu:** Tyranid psişik gücünün Warp'la ilişkisi ve Shadow in the Warp ile bağı kaynaklarda kesin bir mekanizmaya indirgenmez; bkz. <#1551814990338723904>.
 
-## Tarihçe
+## Psişik Canavar
+Zoanthrope — Tyranid'in 'psişik' bioformudur; Hive Mind'ın savaş alanında Warp gücünü kullanan odak noktası. Warp Blast ve Warp Lance güçleriyle savaşır; 'Doom of Malan'tai' en ünlü örneğidir (Spirit Stone'u yutmuş Zoanthrope). Tyranid'lerin 'teknik olarak psyker' olmasının bedenidir.
 
-Zoanthrope, Tyranid'in en gizli ve en güçlü psişik varlığıdır; bir Tyranid ordusunun psişik gücünü toplayan ve onu düşmana yönlendiren en tehlikeli organizma olan Zoanthrope, Tyranid'in en gizli ve en güçlü silahıdır — onlar, Tyranid'in en gizli ve en güçlü psişik varlığıdır. Zoanthrope'un en büyük özelliği, onun psişik gücüdür — onlar, bir Tyranid ordusunun psişik enerjisini toplayan ve onu düşmana yönlendiren en güçlü organizmadır ve onların varlığı, Tyranid'in en gizli gücünün kanıtıdır; bir Zoanthrope, hem bir organizma hem de bir psişik güçtür ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Zoanthrope'un en ünlü özelliği, onun psişik saldırısıdır — onlar, bir Tyranid ordusunun psişik gücünü bir ışına dönüştüren en tehlikeli organizmadır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Z
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; Lexicanum

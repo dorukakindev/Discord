@@ -10,11 +10,11 @@ Deathwatch'in efsanevi kaptanı — 'Kill Team Artemis' lideri. xenos'ların iç
 - **Dönem:** M41–M42
 - **Köken:** Deathwatch (eski Mortifactors)
 
-## Tarihçe
-Mortifactors kökenli Artemis, Deathwatch'in uzun-ölçekli tek-kapı operasyonlarının simgesidir: tek bir Kill Team'le bir Hive dünyasının Tyranid istilasını geri püskürtmek veya bir genestealer kültünü kökünden sökmek gibi. M41'deki sayısız 'kaydedilmiş imkânsız' başarısıyla Deathwatch'in 'sessiz kılıcı' olarak tanınır.
+## Ölüm Bekçisi
+Artemis — 'Watch Captain Artemis' — Deathwatch'un en bilinen figürüdür; *Kill Team* oyununun yüzü. Space Wolves'tan gelen ama Deathwatch'ta 'chapter'sız' kalan komutan — Long Watch'un 'son savaşçı' idealinin simgesidir. 'Hellblaster' ve xeno-avcılığındaki siciliyle Imperium'un 'görünmeyen savaşçı'sıdır.
 
-## Özellikler
-Stalker-pattern boltgun, deathwatch power sword, kapsamlı xenos bilgisi; 'küçük timle büyük etki' doktrini.
+## Kaynaklar
+-# Kaynaklar: *Codex: Deathwatch*; *Kill Team* oyun lore'u; Lexicanum
 
 -# Kaynaklar: Codex: Deathwatch, Deathwatch RPG
 

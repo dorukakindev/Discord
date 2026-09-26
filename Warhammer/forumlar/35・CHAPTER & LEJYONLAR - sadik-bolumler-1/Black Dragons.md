@@ -7,11 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bb/BlackDragonsBadge.jpg
 
 21. "Lanetli" Kuruluş'un mutant chapter'ı; gen-tohum kusuru yüzünden kemikten bıçaklar süren, Engizisyon gözetimindeki tartışmalı kardeşlik.
 
-## Tarihçe
-Black Dragons (Kara Ejderler), Imperium'un en uğursuz sayılan kuruluşlarından biri olan 21. "Lanetli" Kuruluş'tan (Cursed 21st Founding, M36) çıkan bir Sadık Space Marine chapter'ıdır; gizli laboratuvar dünyası Incunabla'da yaratılmışlardır. Kökenlerine dair en yaygın söylenti, gen-tohumlarının Salamanders (Vulkan) soyundan türetildiğidir, ama bu hiçbir zaman kesinleşmemiştir; geçmişleri, lanetleri kadar belirsizdir.
+## Kemik Adamlar
+Black Dragons, Salamanders'ın successor'ı ve 'mutasyon' Chapter'ıdır; gen-seed kusurları bazı savaşçılarda 'ossmodula' aşırı çalıştırır — kemiklerinden çıkan 'ejderha pençeleri' gelişir. Diğer chapter'lar onlara şüpheyle bakar ama onlar bu 'laneti' silaha çevirir — kemik bıçakları en tehlikeli silahlarıdır.
 
-Black Dragons'ın genetik mirası bir lanet taşır: chapter'ın gene-seed mutasyonu, kardeşlerin önkol ve dirsek kemiklerinden ejderha pençeleri gibi kemikli çıkıntılar büyütmesine yol açar — bazı kardeşlerde kafa derisinden bile boynuzlar çıkar. İmparatorluk için bu 'saflaşmışlık' sorunudur ve İnquisitor'ların bakışları sürekli üzerlerindedir.
+## Kabul
+Black Dragons'un durumu canon'da 'kabul edilmiş kusur'un örneğidir — Imperium onları 'yararlı mutant' sayar; Chapter kendi içinde 'Dragon Claws' (kemik çıkıntılı savaşçılar) kültürüne sahiptir. Salamanders'ın 'insanlık' geleneğinin en uç versiyonudur: beden farklı olabilir, sadakat aynıdır.
 
-Chapter bu damgayı reddeder: kemik çıkıntılarını silah olarak kullanan 'Dragon Claw' birlikleri kurmuştur ve savaşta ürkütücü etkilidirler. Gôr'un kanadı altında savaşmış olmaları ve mutantlığa tahammül göstermeleri, Black Dragons'ı 'arındırılmamış ama asla ihanet etmemiş' bir bölüm yapar — İmparatorluk onlara güvenmez ama onlar İmparatorluk için savaşmayı asla bırakmaz.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Black Dragons* lore parçaları; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

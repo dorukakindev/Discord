@@ -14,6 +14,14 @@ Horus Heresy'nin doruk noktası olan kuşatma. 1. cilt forum açıklamasında ö
 - **Önemli Olaylar:** Solar War; Lion's Gate Spaceport; Palace surları; Vengeful Spirit.
 - **Kanon Notu:** *Siege of Terra* serisi kuşatmanın süresini Warp etkisi nedeniyle kasıtlı olarak bulanık bırakır; eski anlatılarla arasındaki farklar ana kanalda ele alınır.
 
-## Tarihçe
+## Son Savaş
+Terra Kuşatması (014.M31), Horus Heresy'nin doruğu ve İmparatorluk tarihinin en büyük tek savaşıdır; Horus'un birleşik hain lejyonları Sol sistemine girdi, aylarca Terra'nın katmanlı savunmasını kırdı ve Imperial Palace surlarına ulaştı. Sadık lejyonlar (Imperial Fists, Blood Angels, White Scars, Custodes, Sisters of Silence, milyonlarca insan askeri) Dorn'un kuşatma planıyla direndi.
 
-Siege of Terra, İmparatorluğun en büyük ve en son savunmasıdır; Horus'un Terra'ya saldırısı ve İmparator'un kendi oğluyla son savaşıyla sonuçlanan ve İmparatorluğun en büyük savaşının sonudur — onlar, İmparatorluğun en büyük savunmasının ve en büyük fedakarlığının somut halidir. Siege of Terra'nın en büyük özelliği, onun sonudur — onlar, Horus Heresy'nin sonudur ve onların varlığı, İmparatorluğun en büyük savaşının sonunun kanıtıdır; bir Siege of Terra, bir imparatorluğun son savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük zaferinin ve en büyük kaybının somut halidir. Siege of Terra'nın en ünlü özelliği, onun İmparator'un son savaşıdır — onlar, İmparator'un kendi oğluyla son savaşının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajed
+## Ana Anlar
+Lion's Gate spaceport'un düşmesi, Saturn kapısının savunması, Eternity Wall surlarında Sigismund'un düello zinciri, Sanguinius'un kapıdaki son direnişi, Vulkan ve Magnus'un Warp'te dövüşü, İmparator'un Vengeful Spirit'e ışınlanması — hepsi canon'un en belirleyici sahneleridir. *The End and the Death* serisi son günlerin dakika dakika anlatımıdır.
+
+## Sonuç
+İmparator Horus'u yendi ama bedeni yıkıldı; Golden Throne'a bağlandı. Dorn ve surviving loyalists 'the Scouring' (temizlik seferi) başlattı — hain lejyonlar Eye of Terror'a kaçtı. Terra Kuşatması Imperium'un 'kurtuldu ama değişti' anıdır: seküler İmparator öldü, tanrı-İmparator doğdu.
+
+## Kaynaklar
+-# Kaynaklar: *Siege of Terra* serisi (8 roman — The Solar War'dan The End and the Death'e); *Saturnine*, *Mortis*; Lexicanum

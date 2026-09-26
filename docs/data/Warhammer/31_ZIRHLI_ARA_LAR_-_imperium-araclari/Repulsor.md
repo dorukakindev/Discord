@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Repulsor006.png/revis
 
 Primaris Space Marine'lerin anti-grav ağır savaş tankı; muazzam silah donanımıyla hem bir kale hem bir taşıyıcı olan yüzen kale.
 
-## Tarihçe
-Repulsor, Primaris Space Marine'lerin (Guilliman'ın Indomitus Sefer'iyle gelen yeni nesil Astartes'in) ana ağır savaş tankıdır; anti-grav teknolojisiyle yerden yükselen, silahlarla tepeden tırnağa donatılmış devasa bir yüzen kaledir. Yeni çağın İmparatorluk teknolojisinin gücünü simgeler.
+## Yeni Haçlı
+Repulsor — Cawl'ın tasarladığı Primaris-era ağır taşıyıcıdır; Land Raider'in modern karşılığı, grav-teknolojisiyle yürür (palet değil). Onslaught Gatling ve Ironhail silahlarıyla donanmıştır; Primaris chapter'larının 'yeni nesil' zırhlısıdır. 'Executioner' ve 'Impulsor' varyantları da vardır.
 
-Repulsor'ın en çarpıcı yanı, taşıdığı muazzam silah sayısıdır; neredeyse her yüzeyi bir silahla kaplıdır. Ağır lazer yıkıcılardan, gatling top'lara, çoklu bolter'lardan füze sistemlerine kadar, tek başına bir piyade bölüğünün ateş gücüne denk silah taşır. Hem düşman zırhını delebilir, hem piyade dalgalarını biçebilir, hem de havadan gelen tehditlere karşılık verebilir; gerçek bir çok amaçlı yıkım platformudur.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines* (9. ed.); Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,11 @@ Kusursuz salgını yaratma takıntısıyla anılan bir Great Unclean One. Üzeri
 - **Önemli Olaylar:** Kusursuz salgın arayışı; Plague Wars; Iax'ın kuşatması.
 - **Kanon Notu:** Savaş alanındaki kariyeri farklı kaynaklarda farklı ağırlıkla anlatılır; bu kayıt yalnızca sabit kalan kişilik ve rolü aktarır.
 
-## Tarihçe
+## Vebanın Bahçıvanı
+Ku'gath — 'Plaguefather' — Nurgle'un en üst düzey Great Unclean One'larından biridir; 'burgeoning' (tomurcuklanan) olarak bilinir çünkü bedeninde her yeni hastalık filizlenir. Vebanın babası gibi davranır: her yeni salgını 'çocuğu' sayar, düşmanı 'hastalığa kavuşturmak' onun için şefkat jestidir. Mortarion'un en sadık daemon müttefiklerindendir.
 
-Ku'gath Plaguefather, Nurgle'un en tehlikeli ve en korkulan daemon'larından biridir — Plaguefather olarak bilinen ve Nurgle'un en önemli temsilcilerinden biridir. Ku'gath, Nurgle'un en tehlikeli ve en korkulan daemon'larından biridir; onun hastalık ve çürüme güçleri, Nurgle'un en önemli ve en korkulan güçlerinin kaynağıdır. Ku'gath Plaguefather, Nurgle'un en tehlikeli ve en korkulan daemon'u olarak kalır — onun güçleri, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarının kaynağıdır.
+## Plan
+Ku'gath'ın hedefi 'mükemmel hastalık' — Imperium'u tek salgında çökertecek formül; Ultramar'daki Plague Wars'da önemli rol oynadı. Nurgle'un 'eğlenceli' yüzünün en bozuk halidir: çocuklarıyla (Nurglings) oynar, şarkılar söyler — ama her şarkı dünyaları çürütür.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *Dark Imperium*; *The Lords of Silence*; Lexicanum

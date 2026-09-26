@@ -14,6 +14,11 @@ Collegia, bütün Legio'ları kendi çatısı altında toplayan, Mechanicus içi
 - **Önemli Olaylar:** Mars'ın bölünmesi ve Heresy'deki Legio savaşları.
 - **Kanon Notu:** Titan sınıfı ile Titan Legio'su ayrı kavramlardır. Ayrıntı için <#1551809313096474696>.
 
-## Tarihçe
+## Tanrı Makineleri
+Collegia Titanica — 'Titan Legions' — Adeptus Mechanicus'un devasa savaş makinelerinin örgütüdür; Warhound, Reaver ve Warlord titanları 10-40 metrelik yürüyen katedral-makinelerdir. Her Titan Legio (Legio Gryphonicus 'War Griffons', Legio Mortis 'Death's Heads', Legio Ignatum vb.) kendi kültürünü taşır; Princeps'ler Titan'a sinirsel bağlanır — 'engine' ile pilot tek varlık olur.
 
-Collegia Titanica, Adeptus Mechanicus'un Titan Legions'ını yöneten ve İmparatorluğun en büyük savaş makinelerini — Titan'ları — komuta eden kurumdur; onların elinde, İmparatorluğun en yıkıcı silahları vardır ve bir Titan Legion'unu sahaya sürmek, bir savaşın kaderini belirlemek demektir. Collegia Titanica'nın üyeleri Princeps'lerdir — bir Titan'ı zihinleriyle kontrol eden seçkin pilotlar; bir Princeps, Titan'ın makine ruhuyla birleşir ve onun gövdesini kendi bedeni gibi kullanır; bu bağlantı hem güç hem de çılgınlık demektir çünkü bir Princeps, Titan'ın gücüne kapılır ve bazen makineyle birleşir. Collegia Titanica'nın Titan'ları sınıflandırılır — Scout Titan'lar (Warhound), Battle Titan'lar (Reaver, Warlord) ve devasa Imperator Titan'lar; her biri, İmparatorluğun en pahalı ve en güçlü silahıdır. Collegia Titanica, İmparatorluğun en eski ve en saygın kurumlarından biridir — onların tarihi, M
+## Savaş
+Titan savaşı Imperium'un en ağır çatışmasıdır: bir Warlord tek başına bir şehri yok edebilir. 'Princeps' unvanı Imperium'un en yüksek askeri onurudur; Titan'ın 'manifold' bağlantısı pilotun zihnini makineyle birleştirir — Princeps için makine 'yüz' ve 'beden' olur. Heresy'de Legio Mortis gibi hain Titan legionları da vardır — Traitor Titan Legions.
+
+## Kaynaklar
+-# Kaynaklar: *Adeptus Titanicus* (oyun + lore); *Titanicus* — Dan Abnett; *Mechanicum* (HH); Lexicanum

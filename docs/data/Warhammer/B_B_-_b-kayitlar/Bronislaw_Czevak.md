@@ -11,9 +11,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Inquisiotr_Bronislaw_
 - **Dönem:** M41
 - **Önemli Olaylar:** Black Library'ye giriş; sayısız xeno/chaos operasyonu
 
-## Tarihçe
+## Kaçak Bilgin
+Bronislaw Czevak — 'Czevak' — Imperium'un en meşhur 'korsan Inquisitor'üdür; Eisenhorn'un rakibi ve 'renegade' Inquisitor olarak bilinir. 'Atlas Infernal' olayında kendi Warp-rehberini (daemonhost kütüphane) yarattı ve Imperium'dan kaçtı — ne sadık ne hain, sadece 'kendi yolunda' bir bilgi avcısı. Canon'da Inquisition'un 'gölgeli yüzü'dür.
 
-Bronislaw Czevak, Inquisition'ın en ünlü ve en tartışmalı figürlerinden biridir — Ordo Xenos'un en ünlü Inquisitor'ü ve Black Library romanlarının kahramanıdır. Czevak, Inquisition'ın en ünlü ve en tartışmalı figürlerinden biridir; onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir. Czevak, Inquisition'ın en ünlü ve en tartışmalı figürü olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir.
+## Kaynaklar
+-# Kaynaklar: *Atlas Infernal* — Rob Sanders; *Eisenhorn* serisi (yan); Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/79/OrikantheDiviner.jpg/revision/latest?cb=20230929173137
-
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # The Infinite and the Divine
 
@@ -8,14 +6,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/79/OrikantheDiviner.jpg/
 - **Yazar:** Robert Rath
 - **Konum/Dönem:** Serenade ve ötesi; çağlar boyu, 41. binyıla dek
 
-## İçerik
-Solemnace'in 'Koleksiyoncusu' Overlord Trazyn the Infinite ile kriptek-kâhin Orikan the Diviner, mezar-dünya Serenade'de bulunan bir artefaktı ele geçirme yarışında kesişir. Biri galaksinin büyük müzesinin sahibi, öteki geleceği okuyan matematikçi — ikisi de ölmeyi reddeden kibirli zihinler olarak birbirlerini katleder, dirilir, tuzak kurar ve çağlar boyu süren bir satranç partisinin içinde İnsan İmparatorluğu'nun yükselişini kenardan izler. Necron edebiyatında 'insanileşmiş makine hükümdarı' paradoksu en keskin halini burada bulur: ölümsüzlük kültürü çürütmüş, ikisinin kan davası Imperium'un tarihinden uzun sürmüştür.
+## Sonsuzlar
+The Infinite and the Divine — Robert Rath'ın romanı; Trazyn ile Orikan'ın 10.000 yıllık 'rekabet ve dostluk' hikâyesi. 'En çok okunan' WH40K romanlarından biri — Necron'un 'mizah ve trajedi' dengesini kuran eser. 'Infinite' adı onların 'sonsuz yaşam'ı ve 'boşluğu'nun ironisidir.
 
--# Seri: Diğer Romanlar (Black Library)
--# İlişkili: `necrons`, `trazyn`, `orikan`, `solemnace`, `serenade`, `necrontyr`
-
-## Tarihçe
-
-Robert Rath'ın 2020 tarihli romanı, Necronları antagonist değil karakter olarak yazan ilk büyük anlatı olmakla Black Library'nin modern klasikleri arasında sayılır. Trazyn ve Orikan ikilisi kanonun ve fandomun en sevilen Necron figürleri oldu; kitabın başarısı, The Twice-Dead King gibi sonraki 'Necron bakış açısı' romanlarının yolunu açtı.
+## Kaynaklar
+-# Kaynaklar: *The Infinite and the Divine* — Robert Rath; Lexicanum
 
 -# Kaynaklar: Black Library; wh40k.lexicanum.com; warhammer40k.fandom.com

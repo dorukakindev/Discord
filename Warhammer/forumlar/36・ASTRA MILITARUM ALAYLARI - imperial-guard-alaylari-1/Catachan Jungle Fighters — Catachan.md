@@ -14,9 +14,11 @@ Pusu, sızma ve hayatta kalma savaşının ustaları olarak tanınan alay gelene
 - **Önemli Olaylar:** Death world ve orman cephelerindeki sayısız harekât.
 - **Kanon Notu:** Catachan'ın ölümcül ekosistemine dair popüler abartılar, özellikle kesin yaşam süresi iddiaları, bu kayda alınmamıştır.
 
-## Tarihçe
+## Ormanın Adamları
+Catachan Jungle Fighters — Astra Militarum'un 'ölüm dünyası' alayıdır; Catachan'ın zehirli ormanlarında yetişen askerler her şeyle savaşmayı bilir. 'Devil's Dance' (canavar-hortum) ve sürüngen avcılığı onların normal yaşamıdır — Imperium'un en 'vahşi ama sadık' birimleri. Sly Marbo ve Straken onların ürünüdür.
 
-Catachan Jungle Fighters, İmparatorluk Muhafızı'nın en vahşi ve en ünlü alaylarından biridir — Catachan gezegeninin ölümcül ormanlarından gelen askerlerdir. Catachan, galaksinin en tehlikeli gezegenlerinden biridir; gezegenin florası ve faunası, insanları öldürmek için evrimleşmiştir ve Catachan'lılar, bu ortamda hayatta kalan en sert askerlerdir. Catachan Jungle Fighters, yakın dövüş ve orman savaşında efsanevidir; alaylar, İmparatorluk'un en vahşi ve en ölümcül birliklerinden biridir. Alaylar, İmparatorluk Muhafızı'nın en vahşi ve en ünlü alaylarından biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Catachan* lore; Lexicanum
 
 -# Kaynaklar: *Codex: Astra Militarum*; *Codex: Imperial Guard*
 

@@ -13,12 +13,14 @@ Plague God, Lord of Decay ve müritlerinin ağzında Grandfather Nurgle; çürü
 - **Önemli Olaylar:** Death Guard'ın düşüşü; Typhus'un Herald'lığa yükselişi; Plague Wars.
 - **Kanon Notu:** Mortarion'un teslimiyeti kaynaklarda coşkulu bir iman değil, çaresiz bir pazarlık olarak çerçevelenir.
 
-## Tarihçe
+## Veba Baba
+Nurgle, dört Chaos tanrısı arasında çürümenin, hastalığın, umarsızlığın — ve tuhaf biçimde şefkatin — tanrısıdır. 'Grandfather Nurgle' ve 'Lord of Decay' olarak anılır çünkü takipçilerine gerçek bir baba şefkatiyle yaklaştığı söylenir: acı çekenlerin teslimiyeti onu besler. Garden of Nurgle'daki zehirli cenneti, Isha'nın hapsedildiği yer olarak da geçer — Aeldari tanrıçasını 'misafir' olarak tuttuğu söylenir.
 
-Nurgle, 'Plague God' — hastalık, çürüme, umutsuzluk ve kaderin kaçınılmaz döngüsünün Chaos tanrısıdır; 'Grandfather Nurgle' ya da 'Papa Nurgle' diye anılır ve takipçilerine sevgi dolu bir kabulleniş sunar. Death Guard ve Mortarion'un efendisidir; Ku'gath Plaguefather, Epidemius ve Rotigus onun büyük daemonlarıdır. Nurgle'ın bahçesinde her çürüme yeni bir yaşamdır — zehirli ama paradoksal biçimde 'şefkatli' bir tanrı; Isha'yı esir alması ve onun ağlayışlarını 'ilaç' olarak dinlemesi onun en karanlık yönüdür. Plague Wars ve Scourge Stars'ın efendisi; '7' sayısıyla bağlıdır.
+## Hediyesi: Çürüme
+Nurgle'un hediyesi çürümenin kendisidir: takipçileri hastalıklarla dolup taşar ama acı hissetmez; irinli bedenler, kutsanmış yara ve ebedi 'kabul' verir. Bu yüzden Nurgle kültleri en dirençli, en mutlu Chaos takipçileridir — acı onlar için sevgidir. Death Guard lejyonu (Mortarion ve Typhus) onun başlıca ordusudur; Great Unclean One'lar, Plaguebearer'lar ve Nurglings en bilinen daemonlarıdır.
 
-## Teknik / Biyolojik Özellikler
+## Era Indomitus'ta Rolü
+Büyük Yarık'tan sonra Nurgle, Chaos'un sahada en aktif gücü oldu: Scourge Stars'ın kuruluşu, Ultramar'a yapılan Plague Wars ve Mortarion'un şahsi seferleri onun planıdır. Nurgle'un amacı galaksiyi 'yaşayan çürüme' durumuna çekmek — ölüm değil, sonsuz bozunum.
 
-Diyarı Garden of Nurgle'dır; tanrının o
-
--# İlişkili kayıtlar: <#1551754683222327439>, <#1551813274327060552>, <#1551650329316036699>, <#1551818194841501818>, <#1551654107058540595>
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *The Buried Dagger* (HH); *Lords of Silence* — Chris Wraight; *Dark Imperium* üçlemesi — Guy Haley; Lexicanum

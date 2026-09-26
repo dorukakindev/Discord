@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/d/d4/Neophyte_Implants.jpg/revision/latest?cb=20120707032740
+
 -# THE IMPERIAL ARCHIVE
 # Gene Seed
 

@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6c/HaarkenWorldclaimer.j
 
 Abaddon'ın savaşı ilan eden sözcüsü; bir Raptor sürüsüne önderlik eden, korku yayan eski Night Lord.
 
-## Tarihçe
-Haarken Worldclaimer, "Kıyametin Habercisi" (Herald of the Apocalypse) ve "Abaddon'ın Saltanatının Müjdecisi" (Proclamator of Abaddon's Reign) olarak bilinen, sinsi bir Black Legion Kaos Lordu ve Raptor lideridir. Görevi, Warmaster Abaddon'un yıkım iradesini, savaştan önce düşman dünyalarına ilan etmektir; o, Abaddon'un sesidir.
+## Haberci
+Haarken Worldclaimer — 'Haarken' — Black Legion'un en ünlü Chaos Lord'larından ve Abaddon'un sağ kolu figürlerinden biridir; 'Worldclaimer' lakabı onun görevini anlatır — dünyaları Abaddon'a 'teslim eden' adam. Nachmund Rift War'da Word Bearers ordusunu yönetti ve 'Herald of the Apocalypse' olarak bilinir; her düşen dünya onun vaazıyla duyurulur.
 
-Kariyerine, artık parçalanmış olan Night Lords lejyonunun bir üyesi olarak başladı; Konrad Curze'nin korku ve dehşet üzerine kurulu savaş geleneğini miras aldı. Abaddon, onun operasyon yöntemlerinden öyle etkilendi ki, Beşinci Kara Haçlı Seferi'nden kısa süre önce, Haarken ve onun Gloomtalons (Kasvet Pençeleri) birliğine Black Legion'la yan yana savaşma onurunu sundu.
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Space Marines*; *Nachmund* kampanya; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

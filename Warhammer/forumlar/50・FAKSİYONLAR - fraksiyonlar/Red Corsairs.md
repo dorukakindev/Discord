@@ -14,9 +14,14 @@ Huron Blackheart önderliğinde Maelstrom'dan Imperium'a saldıran korsan bir g�
 - **Önemli Olaylar:** Badab War; Maelstrom baskınları.
 - **Kanon Notu:** Huron'un Chaos'a bağlılığının derecesi kaynaklarda farklı vurgulanır; bazı anlatımlar onu daha çok hırslı bir tiran olarak sunar.
 
-## Tarihçe
+## Korsan Lejyonu
+Red Corsairs, Huron Blackheart'ın (eski Lufgt Huron) lideri olduğu Chaos warband'ıdır — eski Astral Claws'ın devamı; Maelstrom'da (Warp fırtınası bölgesi) yaşar ve Imperium'un ticaret yollarına korsanlık yapar. 'Renegade' Space Marine'lerin en büyük toplanma yeridir — Badab sonrası kaçanlar, düşmüş chapter'lar burada toplanır. 'Blackheart'ın ordusu diye bilinir.
 
-Red Corsairs, Huron Blackheart'ın Maelstrom'da kurduğu Chaos Space Marine gücü — eski Astral Claws'un kalıntılarından doğan ve 'Korsan Lordu' unvanıyla segmentum'un en büyük kaos tehdidi hâline gelen warband. Tyrant of Badab'ın düşüşü sonrası kaçan Huron, Maelstrom'un fırtınasında yeniden doğdu; Red Corsairs bugün 'en organize Chaos pirat gücü'dür — düzenli baskınlar, kendi forge'ları ve Imperium'dan kaçanların sığınağı. Blackheart'ın 'Tyrant' olarak ikinci gelişi, Age of Apostasy'den bile daha tehlikeli bir bölgesel güç oluşturdu.
+## Güç
+Red Corsairs canon'da 'en organize Chaos warband'ı olarak bilinir — Abaddon'un Black Legion'undan sonra ikinci. Huron'un stratejisi Imperium'u 'parazit gibi' sömürür: baskın, kaç, tekrarla. 'Grexus Primus' ve 'Huron's Razor' operasyonlarıyla bilinir; Badab ruhu hâlâ onlarda yaşar.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Ten: The Badab War – Part Two*; *Codex: Chaos Space Marines*
 

@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/cf/Corpse_Grinder_Mutant.jpg/revision/latest?cb=20200929123341
+
 -# THE IMPERIAL ARCHIVE · Sözlük · Kavram
 # Corpse Starch
 

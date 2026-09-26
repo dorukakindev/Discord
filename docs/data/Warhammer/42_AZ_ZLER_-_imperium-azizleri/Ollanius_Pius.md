@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/c/c6/Various_Imperial_Awards.png/revision/latest?cb=20160223053612
+
 -# THE IMPERIAL ARCHIVE · Imperium Azizleri · Kayıt
 # Ollanius Pius
 

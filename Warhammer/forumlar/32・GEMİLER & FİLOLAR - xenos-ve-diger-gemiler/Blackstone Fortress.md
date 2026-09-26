@@ -13,12 +13,13 @@ Karanlık, taş görünümlü, devasa ve anlaşılması güç yapılardır. Impe
 - **Bilinen Kullanıcılar / Operatörler:** Imperial Navy (Gothic War öncesi); Abaddon the Despoiler ve Black Legion.
 - **Önemli Olaylar:** Gothic War; Cadia'nın düşüşü.
 
-## Tarihçe
+## Kadim Silah
+Blackstone Fortress — 'Talisman of Vaul' — Old Ones'ın (veya Eldar'ın) yapımı devasa uzay istasyonudur; Warp enerjisini fiziksel güce çevirir ve bir gezegeni tek darbeyle kırabilir. Gothic War'da Abaddon'un hedefi buydu — altısından ikisini kaçırdı, biri Cadia'ya çarptı ve gezegeni kırdı. Blackstone Fortress canon'da 'filo değil felaket' sınıfındadır.
 
-Blackstone Fortress, İmparatorluk'un en gizli ve en tehlikeli eserlerinden biridir — eski ve güçlü bir savaş istasyonudur. Blackstone Fortress'ler, İmparatorluk'un en gizli ve en tehlikeli eserleridir; bu istasyonlar, İmparatorluk'un en önemli ve en tehlikeli silahlarıdır. Blackstone Fortress, İmparatorluk'un en gizli ve en tehlikeli eserlerinden biridir; bu istasyonlar, İmparatorluk'un en önemli ve en tehlikeli silahlarıdır.
+## Mekanik
+Fortress'ler Warp'i 'toplayıp' yansıtır — birinin içindeki 'noctilith' (kara taş) çekirdeği Warp'i maddeleştirir. Birini yok etmek neredeyse imkânsızdır çünkü kendi kendini yeniler. Imperium'un en korkulan 'kayıp silah' kavramıdır — birinin Abaddon'un elinde olması onun en büyük avantajıdır.
 
-## Kanon Notu
-
-Chaos'a ait bir gemi sınıfı değil, ele geçirilmiş xenos yapılarıdır. *Warhammer Quest: Blackstone Fortress* (2018) başka bir Fortress'i ayrı bir anlatıda işler; ele geçirilen Fortress sayısı kaynaklarda farklı verilir.
+## Kaynaklar
+-# Kaynaklar: *Battlefleet Gothic*; *Gathering Storm: Fall of Cadia*; *Blackstone Fortress* (oyun); Lexicanum
 
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Gathering Storm I: Fall of Cadia*

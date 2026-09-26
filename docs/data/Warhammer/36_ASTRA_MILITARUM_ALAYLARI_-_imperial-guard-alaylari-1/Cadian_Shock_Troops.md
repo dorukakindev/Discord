@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Or
 
 Göz Terror'un eşiğindeki kale dünyası Cadia'nın disiplinli piyadeleri; Astra Militarum'un örnek alayı.
 
-## Tarihçe
-Cadia Şok Birlikleri, Imparatorluğun Göz Terror'a açılan kapısında, kale dünyası Cadia üzerinde yetişen alaylardı. Gezegen, Kaos'un Materyum'a sızdığı muazzam yarığın hemen yanında konumlandığı için Cadialılar nesiller boyunca yalnızca asker olmak üzere doğdu; çocukluktan itibaren lasgun sökmeyi öğrendiler ve savaş bölgelerine giderken eğitildiler.
+## Cadia'nın Askeri
+Cadian Shock Troops — Astra Militarum'un en ünlü alay yapısıdır; Cadia'nın 'herkes asker' kültüründen çıkan, disiplin ve 'kasr' savunma taktikleriyle bilinen alaylar. 'Whiteshield' gençleri, Kasrkin (elit) ve standard piyade'nin merkezidir. Cadia düşse bile 'Cadian' savaşır — diaspora alayları hâlâ Imperium'un bel kemiğidir.
 
-Disiplinleri, sebatları ve tahkim edilmiş mevzileri tutma yetenekleriyle ün saldılar. Kara Haçlı Seferleri boyunca Cadia, Imparatorluğun ilk savunma hattı olarak durdu; Cadialı bir askerin teslim olmaktansa mevziisinde ölmesi beklenirdi. Bu yüzden bütün Astra Militarum, Cadia'nın talim el kitaplarına ve örgütlenme modeline göre biçimlendirildi.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Cadia Stands*; *Cadian Honour*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

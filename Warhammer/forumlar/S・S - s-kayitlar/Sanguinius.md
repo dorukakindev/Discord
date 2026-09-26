@@ -1,74 +1,47 @@
 https://static.wikia.nocookie.net/warhammer40k/images/7/7c/Sanguinius_Sketch_HH8.png/revision/latest?cb=20190228081314
 
--# THE IMPERIAL ARCHIVE
+-# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Sanguinius
 
--# Kategori: Primarch · Fraksiyon: Imperium / IX Legion (Blood Angels) · Dönem: M30–M31 · Bağlılık: Loyalist
+*The Great Angel · Baal'ın Efendisi · Blood Angels'ın Primarch'ı*
 
-## Tanım ve Genel Çerçeve
-Sanguinius, IX Legion'ın Primarch'ı, Baal'ın Büyük Meleği ve Emperor'ın oğulları arasında en çok sevilen, en çok yas tutulanıdır. Kanatları, kehanet gücü ve kardeşlerinin çoğunda bulunmayan bir yumuşaklıkla anılan bu Primarch, Imperium'un belleğinde fedakârlığın ta kendisine dönüşmüştür. Ne var ki onun hikâyesi yalnızca bir aziz efsanesi değildir: Sanguinius, kendi içindeki karanlığı bilen, oğullarının taşıdığı kusuru saklamak zorunda kalan ve öleceği yeri önceden gördüğü hâlde oraya yürüyen bir varlıktır.
+IX Legion'ın, Blood Angels'ın Primarch'ı. Sırtındaki beyaz kanatları, ışıltılı güzelliği ve karizmasıyla Primarch'lar arasında en çok sevilenlerden biri. Horus'un en yakın dostlarındandı; Heresy'de Terra'yı savunurken Vengeful Spirit'te Horus'la dövüştü ve öldürüldü. Ölümü, gen-tohumunda iz bırakan Red Thirst ve Black Rage lanetlerinin kaynağı olarak kabul edilir.
 
-Bu kanal Primarch'ın kişiliğini ve kaderini merkeze alır. Legion'ın ve sonraki Chapter'ın kurumsal tarihi, Death Company ve Era Indomitus'taki Baal savaşları için <#1551811368389181491> kanalına bakınız.
+- **Kategori:** Primarch (sadık)
+- **Fraksiyon:** Imperium — IX Legion, Blood Angels; Flesh Tearers, Angels Encarmine, Lamenters ve diğer Successor'lar
+- **Dönem:** Great Crusade → M31 (ölü)
+- **Köken:** Baal Secundus; radyasyonla harap olmuş çöl ayı, "Blood" kabilesinin halkı tarafından bulundu
+- **Silahlar:** Blade Encarmine (kılıç), Spear of Telesto (mızrak)
+- **Durum:** Ölü — Horus tarafından Vengeful Spirit'te öldürüldü
 
-## Baal Secundus ve Bulunuş
-Primarch'ların Terra'dan savruluşunun ardından Sanguinius'un kapsülü, Baal sisteminin radyasyonla kavrulmuş ayı Baal Secundus'a düştü. Kadim bir felaketin zehrini hâlâ taşıyan bu çölde mutant yağmacılar kol geziyor, insan kabileleri ise ancak birbirine tutunarak ayakta kalabiliyordu. Kanatlı bebeği bulan ve kaynaklarda **the Blood** adıyla anılan kabile, onu kendi aralarında büyüttü. Sanguinius, olağanüstü bir hızla büyüyerek yetiştiricilerini kısa sürede geride bıraktı ve kabileleri mutant tehdidine karşı birleştiren bir önder oldu.
+## Kökenler: Baal Secundus
+Sanguinius'un kapsülü, Baal sisteminin ayı Baal Secundus'a düştü. Ay, eski nükleer savaşların bıraktığı radyasyonla harap olmuş bir çöldü. Hayatta kalan insanlar, mutantların tehdidi altında küçük kabileler hâlinde yaşıyordu. Çocuğu bu kabilelerden biri, "Blood" kabilesi buldu. Kanatlarıyla doğan bebeği bir mutant sanıp öldürmek yerine onu büyüttüler.
 
-Emperor Baal'a ulaştığında Sanguinius'un babasını tanıyıp ona katıldığı anlatılır. Kabilenin en iyi savaşçıları IX Legion'a katıldı; Baal, o günden sonra Legion'ın kalbi, aday toplama alanı ve manevi yurdu hâline geldi. Primarch'ın Great Crusade yıllarındaki komutanlığı ve kişiliği, Chris Wraight'ın *Sanguinius: The Great Angel* romanıyla derinleştirilmiştir.
+Sanguinius hızla büyüdü; mutantlara karşı kabilelerin savaşlarına öncülük etti ve Baal Secundus'un insanlarını birleştirdi. Onun güzelliği, kanatları ve olağanüstü karizması, halkı tarafından bir melek olarak görülmesine yol açtı. Emperor Baal'a geldiğinde Sanguinius ona hemen biat etti.
 
-## Tarihçe
+## Great Crusade
+IX Legion, Sanguinius'un gen-tohumuyla yeniden şekillendi ve Baal'ın kabilelerinden savaşçı aldı. Sanguinius, Legion'ın içindeki karanlık bir kusuru, yani kana ve öfkeye dair bastırılmış bir açlığı bildiği anlatılır: Legion'ın Terra döneminde savaşçıları arasında görülen şiddet eğilimi, Sanguinius'un gözetiminde gizli tutuldu ve disiplinle bastırıldı. Legion bu sırrı Crusade boyunca sakladı.
 
-Sanguinius, Blood Angels'ın en ünlü ve en kutsal primarch'ıdır; Baal'ın — Blood Angels'ın ev gezegeni — en kutsal figürü olan ve Blood Angels'ı kuran Sanguiniu
+Sanguinius, Horus'un en yakın dostu ve Crusade'in en parlak komutanlarından biriydi. Horus Warmaster seçildiğinde, bazı kaynaklar Sanguinius'un bu makam için gerçek alternatif olduğunu ima eder. Signus Kümesi'ne gönderilmesi ise Horus'un kardeşini ihanetten uzak tutmak ve Legion'ını yok etmek için kurduğu bir tuzaktı.
 
-## Kanatlar, Kehanet ve Kişilik
-Kanatlar, Sanguinius'u kardeşlerinden ilk bakışta ayıran niteliktir. Bunların Primarch projesinin kasıtlı bir sonucu mu, yoksa Baal'ın radyasyonlu ortamının ya da başka bir etkinin ürünü mü olduğu yayımlanmış kanonda kesin biçimde açıklanmamıştır. Imperium'un sonraki inancı onları ilahi bir işaret sayarken ansiklopedi bu yorumu evren-içi söylem olarak kaydeder.
+## Signus ve Horus Heresy
+Horus, Sanguinius'u Signus Kümesi'ne gönderdi; orada Blood Angels, Word Bearers'ın hazırladığı daemonik bir tuzakla karşılaştı. Bu savaşta Legion'ın gizli kusuru, Warp'ın etkisiyle patlak verdi; Blood Angels'ın bir kısmı kana susamış bir öfkeye kapıldı. Sanguinius, Khorne'un Bloodthirster'ı **Ka'Bandha** ile savaştı ve onu yendi; ancak bu savaş, Legion'ın ruhuna derin bir yara açtı (*Fear to Tread*).
 
-Kehanet yeteneği ise daha ağır bir mirastır. Sanguinius, Heresy yıllarında kendi ölümünü, Horus'un elinde can verdiğini gösteren görüntüler gördü. Anlatılar onun bu geleceği değiştirmeye çalışmaktansa ona hazırlandığını, görümün anlamını çözmeye uğraşırken bile görevinden sapmadığını vurgular. Kehanetin bu denli belirleyici oluşu, Primarch'ın özgür iradesi ile kader arasındaki gerilimi Blood Angels mitolojisinin merkezine yerleştirir.
+Sonrasında Sanguinius, Guilliman ve Lion'la birlikte Ultramar'da kurulan Imperium Secundus'ta, Emperor'un öldüğü söylentileri üzerine geçici olarak "imparator" unvanını taşımaya ikna edildi; ama Terra'nın hâlâ ayakta olduğu anlaşıldığında bu rolden vazgeçti.
 
-Kişiliği, dış görünüşünün ihtişamıyla keskin bir karşıtlık içindedir. Sanguinius alçakgönüllülüğü, dinleme yeteneği ve kardeşleri arasında arabuluculuk etmesiyle bilinir. Ancak kaynaklar onun içinde de bir öfke ve açlık bulunduğunu, bunu bilinçli bir iradeyle dizginlediğini ima eder; Legion'ın ileride Red Thirst adını alacak kusuru, Primarch'ın kendi doğasının bir yansıması olarak da okunabilir.
+Terra Kuşatması'nda Sanguinius, Imperial Palace'ın savunmasında kritik bir rol üstlendi. **Eternity Wall Spaceport**'un savunmasında, daemon hâline gelmiş Ka'Bandha ile ikinci kez karşılaştı ve onu bir kez daha yendi. Kuşatmanın son aşamasında Delphic Battlement'ta savaştı.
 
-**Horus ile bağ.** Sanguinius'un en yakın kardeşi Horus'tu; Heresy anlatıları iki Primarch'ın Great Crusade boyunca birbirine duyduğu derin güveni sıkça vurgular. Bu yakınlık, Heresy'nin en acı trajedisini hazırladı: Horus, Blood Angels'ın kusurunu bir ortak sefer sırasında öğrenmiş, fakat Emperor'dan saklamıştı. Sonradan bu sırrı, en sevdiği kardeşine karşı bir silaha çevirecekti.
+## Ölüm
+Horus, Vengeful Spirit'in kalkanlarını indirdiğinde, Emperor, Sanguinius ve bir grup seçkin savaşçı gemiye ışınlandı. Işınlanma sırasında gruplar dağıldı ve Sanguinius Horus'la tek başına karşılaştı. İki eski dost arasındaki dövüşte Horus, Sanguinius'u öldürdü. Rivayete göre Sanguinius, ölümünden önce Horus'un zırhında küçük bir çatlak açtı; Emperor bu çatlaktan yararlanarak Horus'u yendi.
 
-## Signus: Kusurun Açığa Çıkışı
-Horus isyanını ilan etmeden önce Sanguinius'u Legion'ıyla birlikte, sahte bir gerekçeyle Signus kümesine gönderdi. James Swallow'un *Fear to Tread* romanında anlatıldığı üzere burası, Word Bearers'ın hazırlığıyla daemonik güçlere açılmış bir tuzaktı. Warp'ın kuşattığı sistemde yalnız kalan Blood Angels, kan kokusuyla beslenen bir çıldırmanın pençesine düştü; Legion'ın o güne dek gizli tuttuğu kusur, savaş alanında herkesin gözü önünde patladı.
+Sanguinius'un ölümü, Blood Angels'ın gen-tohumunda iz bıraktı. **Black Rage**, Blood Angels ve Successor'ların savaşçılarının Primarch'ın son anlarının anısına kapılmasıdır; bu durumdaki Space Marine'ler **Death Company** olarak savaşır. **Red Thirst** ise kana karşı duyulan açlıktır. Blood Angels'ın bu lanetlerle mücadelesi, on bin yıllık tarihlerinin merkezidir.
 
-Signus Prime'da Sanguinius, Khorne'un Bloodthirster'ı **Ka'Bandha** ile karşılaştı. İlk karşılaşma Primarch için ağır bir yenilgiydi: kaynaklara göre daemon onu sakatlayıp bilinçsiz bıraktı. Toparlanan Sanguinius ise ikinci karşılaşmada Ka'Bandha'yı alt etti. Kampanyanın son evresinde kendini feda etmeye hazır olan Primarch'ın yerine, Legion'ın Apothecary'lerinden **Meros**'un araya girip Red Angel olarak anılan varlığa dönüştüğü anlatılır. Bu figürün doğası ve sonrası kaynaklarda bilinçli bir kapalılıkla işlenir.
+## Miras
+Sanguinius'un ölümünden sonra Blood Angels, Codex Astartes'e göre bölündü; Flesh Tearers, Angels Encarmine, Angels Sanguine, Blood Drinkers ve daha birçok Chapter onun gen-tohumunu taşır. **Sanguinor** adlı altın zırhlı bir varlığın, kritik anlarda Blood Angels'a yardım ettiğine inanılır; bazıları onu Sanguinius'un ruhunun bir parçası olarak görür.
 
-Signus, Horus'un ihanetini ve Legion'ın Chaos karşısındaki en derin yarasını aynı anda gözler önüne serdi.
+Era Indomitus'ta Blood Angels'ın Chapter Master'ı **Commander Dante**, Tyranid Hive Fleet Leviathan'a karşı Baal'ı savunmuş ve Guilliman'ın Regent of Imperium Nihilus'u olarak atanmıştır. 11. edisyonun Armageddon anlatısında Blood Angels, Operation Imperator adlı çok Chapter'lı haçlı seferine öncülük eder.
 
-## Imperium Secundus
-Erebus'un yol açtığı **Ruinstorm** Terra yolunu kapatınca Blood Angels, Pharos ışığını izleyerek Ultramar'a vardı. Terra'nın düştüğünden korkan Guilliman, Sanguinius'u gönülsüzce **Imperium Secundus**'un Emperor'ı ilan etti; *The Unremembered Empire* bu gergin dönemi işler. Terra'nın ayakta olduğu anlaşılınca yedek imparatorluk dağıldı ve kardeşler, *Ruinstorm* romanında anlatılan yolculukla Terra'ya yöneldi.
+## Kişilik
+Sanguinius, Primarch'lar arasında en cömert ve en şefkatli olanlardan biridir. Kendi karanlık yanını bilir ama onu disiplinle ve kardeşlerine duyduğu sevgiyle bastırır. Kehanet vizyonları, Horus'un elinde öleceğini ona göstermişti; buna rağmen kaçmadı ve görevini yerine getirdi.
 
-## Siege of Terra
-Terra'ya ulaşan Sanguinius, Imperial Palace savunmasının en görünür yüzlerinden biri oldu. Siege of Terra serisi onu, Praetorian Rogal Dorn'un genel komutası altında cepheden cepheye koşan, düşmüş hatlarda karşı taarruzlar yöneten ve savunucuların gözünde ümidin simgesine dönüşen bir komutan olarak betimler. Bu imge Primarch için bir yük de oluşturuyordu: Sanguinius, savunucuların moralinin kendi görünürlüğüne bağlandığını bilerek yorgunluğunu ve kuşkularını gizlemek zorunda kaldı.
-
-Kuşatmanın son evresinde Sanguinius, Sanctum Imperialis'e açılan **Eternity Gate**'in savunmasını üstlendi. Aaron Dembski-Bowden'ın *Echoes of Eternity* romanında art arda gelen iki büyük düello işlenir: önce yeniden karşısına çıkan Ka'Bandha, ardından Daemon Prince'e dönüşmüş kardeşi **Angron**. Kaynaklar Ka'Bandha'nın omurgasının kırılarak alt edildiğini ve Angron'un maddi âlemden sürüldüğünü anlatır; ancak Primarch bu çarpışmalardan ağır yaralarla çıktı. Roman, bu düelloları bir güç gösterisinden çok iki Legion'ın ortak lanetinin, içteki vahşete teslim olmak ile ona direnmek arasındaki farkın sahnesi olarak kurgular.
-
-Bu karşılaşmalar mutlak bir güç ölçüsü değildir; yorgunluk, yaralar ve Emperor'ın Sanctum'daki etkisi gibi koşullar anlatılarda belirleyicidir.
-
-## Vengeful Spirit ve Ölüm
-Horus kalkanlarını indirdiğinde Emperor; Dorn, Sanguinius ve seçkin Custodes ile Terminator'larla birlikte *Vengeful Spirit*'e ışınlandı ve Warp'la dolmuş gemi onları birbirinden ayırdı. Klasik anlatıya göre Horus'a ilk ulaşan Sanguinius oldu: Warmaster ona son bir kez safına geçmesini teklif etti, Sanguinius reddetti ve kardeşinin elinde can verdi. Bazı anlatılar Primarch'ın Horus'un zırhında açtığı küçük bir gediğin, Emperor'ın sonraki ölümcül darbesine yol açmış olabileceğini ima eder; bu ayrıntı her kaynakta yer almaz. *The End and the Death* bu son saatleri kendi çerçevesiyle yeniden işler.
-
-Kaynaklara göre Sanguinius'un naaşı Baal'a götürülerek **Golden Sarcophagus** içinde, görkemli bir mezarda defnedildi. **Sanguinala** gibi bayramlar, Primarch'ın anısını Imperial Cult'un takvimine yerleştirdi.
-
-## Miras: Red Thirst, Black Rage ve Kehanetler
-Sanguinius'un ölümü, oğullarının kanında sürüp giden bir yaradır. **Red Thirst**, Signus'ta yüzeye çıkan kan açlığının kalıcı biçimidir; **Black Rage** ise Primarch'ın son saatlerini, Vengeful Spirit'teki çarpışmayı ve ölüm anını savaşçının zihnine dolduran bir deliliktir. Bu mirasın nasıl aktarıldığı yayımlanmış kanonda kesin biçimde açıklanmamıştır; gene-seed ile Primarch'ın ölüm anındaki psişik izi arasındaki bağ ima edilir ama tek bir mekanizmaya indirgenmez.
-
-Soyun savaşlarında zaman zaman beliren altın zırhlı, kanatlı **Sanguinor**, Chapter'ın gözünde Primarch'ın habercisidir; kimliği kaynaklarda bilinçli olarak açıklanmamıştır. Sanguinius'un görümlerinden birinin Emperor'ın son saatinde yanında duracak bir savaşçıdan söz ettiği anlatısı da Chapter içinde yaşar; Commander Dante'nin bu figürle ilişkilendirilip ilişkilendirilemeyeceği evren-içi bir soru olarak açık bırakılmıştır.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Sanguinius Horus'la yaptığı düelloda "kendini bilerek öldürttü".
-**Kanon:** Anlatılar onun ölümünü önceden gördüğünü ve yine de Horus'la yüzleştiğini söyler; ancak düelloyu kasıtlı bir teslimiyet olarak sunan tek ve kesin bir kanon anlatımı yoktur. Kaynaklar sahneyi farklı ayrıntılarla işler.
-
-**Yanılgı:** Kusur Signus'ta doğmuştur.
-**Kanon:** Kusur Legion'da Signus'tan önce de vardı ve gizleniyordu; Signus onun en açık biçimde patladığı yerdir.
-
-**Yanılgı:** Sanguinor, dirilmiş Sanguinius'tur.
-**Kanon:** Böyle bir kimlik doğrulanmamıştır; Sanguinor'un doğası kasıtlı olarak belirsiz bırakılmıştır.
-
-## Yayın ve Retcon Notu
-Sanguinius, 1980'lerin sonunda Rogue Trader ve Realm of Chaos döneminde Heresy'nin çekirdek anlatısıyla birlikte ortaya çıktı; Horus'un elinde ölümü o ilk metinlerden beri anlatının sabit bir noktasıdır. Black Library'nin Horus Heresy serisi Signus'u, Imperium Secundus'u ve Ruinstorm yolculuğunu ekledi; Siege of Terra serisi ile *The End and the Death* son günlerini ve ölümünü yeniden çerçeveledi. Kusurun kökenine ve Horus'un sırrı ne zaman öğrendiğine dair ayrıntılar, eski ve yeni yayınlarda farklı vurgularla aktarılır.
-
-**Kaynaklar:** *Sanguinius: The Great Angel — Chris Wraight*; *Fear to Tread — James Swallow*; *The Unremembered Empire — Dan Abnett*; *Ruinstorm — David Annandale*; *Echoes of Eternity — Aaron Dembski-Bowden*; *The End and the Death — Dan Abnett*; *Codex Supplement: Blood Angels — 10th Edition*
-**Çapraz:** <#1551811368389181491>, <#1551650246508150857>, siege-of-terra, <#1551649073432494263>, <#1551808704901423186>, <#1551818097504157699>, <#1551815867845578773>, <#1551814951365115956>
-
-​
+-# Kaynaklar: *Fear to Tread* — James Swallow; *The Unremembered Empire* — Dan Abnett; *The Buried Dagger*, *Siege of Terra* serisi; *The Lost and the Damned*; *The End and the Death* — Dan Abnett; *Codex Supplement: Blood Angels*; Warhammer 40,000 11. edisyon Armageddon anlatısı; Lexicanum

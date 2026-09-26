@@ -13,8 +13,11 @@ Bronz zırhlı, acımasız etkinliğiyle korkulan ve Terra'daki High Lords'un em
 - **Önemli Olaylar:** Badab War; Lamenters'a karşı savaş.
 - **Kanon Notu:** Gene-lineage'a dair tahminler (ör. kuşatma ustalıklarından yola çıkan yorumlar) evren içi spekülasyondur; resmî soy açıklanmamıştır.
 
-## Tarihçe
+## Sessiz Ordu
+Minotaurs, Imperium'un en esrarengiz Chapter'larından biridir; High Lords of Terra'ya doğrudan bağlı oldukları ve 'Space Marine'lerin Space Marine avcıları' olarak görev yaptıkları söylenir. Moloc'un (Asterion Moloc) komutasında, Badab War'da separatist chapter'lara karşı kullanıldılar — Lamenters'ı neredeyse yok ettiler.
 
-Minotaurs, gene-lineage'i resmi olarak bilinmeyen ve İmparatorluğun en gizli ve en acımasız Space Marine Chapter'larından biridir; onlar, High Lords of Terra'nın doğrudan emriyle çalışan ve genellikle diğer Chapter'ları denetlemek veya bastırmak için gönderilen 'cellat' Chapter'ıdır. Minotaurs'un en büyük özelliği, onların acımasızlığıdır — onlar, sadık Chapter'ları bile sorgular ve gerekirse onlara saldırır; onların görevi, İmparatorluğun otoritesini korumaktır ve bu görevde, hiçbir Space Marine dokunulmaz değildir. Minotaurs'un en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en acımasız taktikleri kullandılar ve onların varlığı, sadık ve hain arasındaki çizgiyi bulanıklaştırdı. Minotaurs, İmparatorluğun en korkulan Chapter'ıdır — onlar, İmparatorluğun kendi oğullarına karşı kullandığı son silahıdır.
+## Sır
+Minotaurs'un gerçek kökeni bilinmez; teoriler arasında World Eaters soyu, hatta 'Custodes-benzeri' özel üretim var. 'Chapter 8' ve 'bronz zırh'larıyla tanınırlar; Imperium'da 'kimse Minotaurs'tan bahsetmez' çünkü onların görevi diğer Space Marine'leri durdurmaktır.
 
-## Tek
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10 (Badab War); *Codex: Space Marines*; Lexicanum

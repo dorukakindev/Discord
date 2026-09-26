@@ -12,14 +12,13 @@ Perturabo'nun Iron Warriors lejyonunun Göz içindeki demir ve zincir dünyası;
 - **System:** Halkaların Gözü içinde (Daemon Dünyası)
 - **Kanon Sınıfı:** A — resmî kaynak
 
-## Kayıt
+## Demir Kale
+Medrengard, Iron Warriors'ın Eye of Terror içindeki Daemon World'ü ve 'Iron Fortress'ıdır; Perturabo'nun kişisel kalesi (Citadel of Iron) burada — lejyonun 'mühendislik-ve-düşmanlık' kültürünün merkezidir. Gezegenin kendisi bir makine: sürekli savaş, kaynak kavgası ve 'Iron Circle'ın iç çekişmesi.
 
-Medrengard, Halkaların Gözü'nün içinde yer alan bir iblis-dünyasıdır (daemon world); Heresy sonrası, hain Iron Warriors lejyonu ve primarch'ları Perturabo buraya yerleşti ve gezegeni kendi karanlık karakterlerine göre şekillendirdi. Bir iblis-dünyası olarak, fiziği ve gerçekliği sahibinin iradesine göre büküler.
+## Daemonculaba
+Medrengard canon'da en karanlık yerlerden biridir — Honsou'nun Daemonculaba'sı (kadın bedenlerinden yeni Chaos Space Marine üreten sistem) burada işliyordu; Ventris'in görevi de buraya girmekti. Iron Warriors için Medrengard 'ev' değil 'savaş fabrikasıdır' — başka lejyonların 'kale' kavramından farklı olarak burada her şey kuşatma silahıdır.
 
-Medrengard, baştan başa Iron Warriors'un ruhunu yansıtır: demir surlar, dikenli teller, zincirler, devasa hapishaneler, işkence makineleri ve sonu gelmez savunma tahkimatlarıyla kaplı, gri ve kasvetli bir cehennem. Gökyüzü demir grisi, toprak kül rengidir; hiçbir güzellik, hiçbir umut yoktur, yalnızca acımasız mühendislik ve kin vardır.
-
-Kuşatma ustası bir lejyonun dünyası olarak, Medrengard sonsuz bir savunma labirentidir; sanki tüm gezegen, alınması imkânsız bir kale olarak tasarlanmıştır. Perturabo'nun kini, takdir görmeme acısı ve mühendislik dehası, bu dünyanın her taşına, her surun her tuğlasına işlenmiştir. Esir alınan kurbanlar, sonsuz işkence ve kölelik içinde tutulur.
-
-Medrengard, bir iblis-dünyasının nasıl sahibinin ruhunun bir uzantısı olabileceğinin örneğidir; Perturabo'nun içsel cehennemi, fiziksel bir gerçekliğe dönüşmüştür. O, Iron Warriors'un kasvetli, acımasız ve umutsuz doğasının somut halidir; güzellik ve sevginin olmadığı, yalnızca demir, zincir, kin ve sonsuz savunmanın hâkim olduğu, Halkaların Gözü'ndeki gri bir kâbus dünyasıdır.
+## Kaynaklar
+-# Kaynaklar: *Iron Warriors* serisi — Graham McNeill; *Dead Sky Black Sun*; *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat

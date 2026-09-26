@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/79/Ankh_Triarch_.jpeg/revision/latest?cb=20180928093232
-
 -# THE IMPERIAL ARCHIVE · M KAYITLARI · Kayıt
 # Menkhaz the Unmortal
 *Khenisi Hanedanı'nın 'Ölümsüz' Phaeron'u*

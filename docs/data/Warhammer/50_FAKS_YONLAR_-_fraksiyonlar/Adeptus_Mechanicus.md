@@ -14,6 +14,14 @@ Machine God'a tapan, teknolojiyi anlamaktan çok koruyup kopyalayan tech-priest'
 - **Önemli Olaylar:** Treaty of Olympus; Schism of Mars; Primaris projesinin açığa çıkışı.
 - **Kanon Notu:** Cult Mechanicus'un Emperor'ı Omnissiah saydığı inanç Imperial Cult'la tam örtüşmez; bu gerilim kaynaklarda bilinçli olarak korunur.
 
-## Tarihçe
+## Makine Tarikatı
+Adeptus Mechanicus — Mars'ta doğan, teknolojiyi kutsal sayan ve İmparatorluk'un tüm sanayi/teknoloji üssünü tekeline alan tarikat-devlettir; Imperium'un ikinci sütunudur (birincisi Ecclesiarchy). Cult Mechanicus doktrinine göre makinenin ruhu vardır (Machine Spirit), Omnissiah İmparator'un avatarı sayılır ve bilgi birikimi ibadettir — ama 'bilgi' icat değil, antik STC şablonlarını bulmaktır. Yenilik Mechanicus için neredeyse heretik'tir; Belisarius Cawl'ın Primaris projesi bile tartışmalıdır.
 
-Adeptus Mechanicus, İmparatorluğun en eski ve en gizli kurumudur; teknolojiyi kutsal kabul eden ve Machine God'a tapınan bir dini-teknolojik organizasyondur — onlar, İmparatorluğun en güçlü ve en gizli gücüdür. Adeptus Mechanicus'un en büyük özelliği, onların teknolojik tekeli vardır — onlar, İmparatorluğun tüm teknolojisini kontrol eder ve onların bilgisi, İmparatorluğun en değerli ve en gizli sırrıdır; bir Tech-Priest, hem bir rahip hem de bir mühendistir ve onların savaşı, hem fiziksel hem de teknolojik bir mücadeledir. Adeptus Mechanicus'un en ünlü özelliği, onların Forge World'leridir — onlar, devasa fabrika gezegenleridir ve onların üretim
+## Mars ve Forge World'ler
+Mars Mechanicus'un merkezi, Forge World'ler onun gezegen fabrikalarıdır — Lucius, Ryza, Agripinaa en büyükleri. Tech-Priest'ler organik uzuvlarını mekanikle değiştirir; Magos'lar binlerce yıl yaşayabilir. Skitarii (askeri kol), Titan Legions (Collegia Titanica) ve Knight haneleri Mechanicus'a bağlıdır. Binharic Cant dili makinedir — çoğu Tech-Priest konuşmaz, veri yayınlar.
+
+## İç Politika
+Mechanicus ile Terra arasındaki ilişki Treaty of Olympus Mons'a dayanır: Mars egemen kalır, Imperium'a silah verir. Cawl'ın Primaris Marine'leri ve 'yeni' teknolojisi Mars içinde bölünmeye yol açtı; bazı Magos onu sahte sanıyor. Dark Mechanicum — Heresy'de Mars'ın yarısının Horus'a geçmesi — hâlâ var; Chaos'a bağlı Tekno-heretikler Warp dağılmış makineler üretir.
+
+## Kaynaklar
+-# Kaynaklar: *Belisarius Cawl: The Great Work* — Guy Haley; *Mechanicum*, *The Lost Legion* (HH); *Codex: Adeptus Mechanicus*; *Skitarii* supplement; Lexicanum

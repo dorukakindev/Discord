@@ -14,9 +14,11 @@ Dark Master adıyla anılan, gölgelerden yapılmış bir ordu yöneten ve dört
 - **Önemli Olaylar:** War Zone Charadon; Arks of Omen'deki müdahale.
 - **Kanon Notu:** Be'lakor Warhammer Fantasy geleneğinden gelir; 40K'daki rolü sonraki yayınlarda genişletilmiştir. İki evren arasındaki bağ kaynaklarda açıkça tanımlanmaz.
 
-## Tarihçe
+## İlk Kara
+Be'lakor — 'Dark Master' — ilk Daemon Prince'dir ve Chaos Undivided'in en eski hizmetkârıdır; dört tanrının ortak gücünü taşıyan tek daemon varlığı olarak bilinir. Tarih onu 'ilk yükselen' olarak gösterir — Be'lakor, Chaos'un insanlığa verdiği ilk 'karanlık lütuf'tur. Kendini dört tanrının da üstünde görür ve onlardan 'hizmet' değil 'araç' olarak yararlanır — bu yüzden tanrılar ondan nefret eder ama gücünü geri alamazlar.
 
-Be'lakor, Chaos'un en eski ve en tehlikeli Daemon Prince'idir — Dark Master olarak bilinen ve ilk Daemon Prince'dir. Be'lakor, Chaos'un en eski ve en tehlikeli Daemon Prince'idir; onun gücü ve entrikaları, Chaos'un en önemli ve en tehlikeli güçlerinin kaynağıdır. Be'lakor, Chaos'un en eski ve en tehlikeli Daemon Prince'i olarak kalır — onun gücü, İmparatorluk'un en tehlikeli ve en eski düşmanlarının kaynağıdır.
+## Anlam
+Be'lakor'un rolü canon'da 'Chaos'un ilk oğlu'dur — hiçbir tek tanrı onun efendisi değil, o 'dördünün kesişimi'dir. Abaddon'la karmaşık ilişkisi bilinir: Be'lakor onun 'danışmanı' gibi davranır ama kendi planı her zaman önceliklidir. *Arks of Omen*'te Vashtorr'la çatışması bilinir — ikisi de Chaos'un 'kolektif' gücünün farklı vizyonlarıdır.
 
-
--# Ka
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *Arks of Omen* kampanya kitapları; *Be'lakor* lore parçaları; Lexicanum

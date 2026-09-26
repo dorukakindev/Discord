@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a0/Tyranid_Carnifex1.jpg
 
 Hive Mind'ın yaşayan tankı; kalın kitinli zırhı ve devasa pençeleriyle bir koçbaşı gibi düşman hattına dalar.
 
-## Tarihçe
-Carnifex, Tyranid Hive Mind'ının "yaşayan tankıdır"; tamamen biyolojik, devasa, kalın kitinli zırhla kaplı bir savaş canavarıdır. İmparatorluk tanklarının metal ve makine gücünün yerine, Tyranidler canlı et, kitin ve biyolojik silahlar koyar; Carnifex bunun en saf örneklerinden biridir.
+## Yıkım Canavarı
+Carnifex — Tyranid'in en ünlü 'ağır' bioformudur; ~5 metre boyunda, dört kolu ve devasa kütlesiyle tank yiyen canavar. 'Screamer-Killer' varyantı (bio-plasma) ve 'Thornback' varyantı bilinir; 'Old One Eye' bir Carnifex'in efsaneleşmiş halidir. Hive Mind'ın 'kaba kuvvet' cevabıdır — kaçamaz, durdurulamaz, sadece durdurulana kadar ilerler.
 
-Carnifex, bir koçbaşı gibi düşman hattına dalar; muazzam fiziksel gücü, kalın doğal zırhı ve devasa pençeleriyle (crushing claws, scything talons) hem zırhlı araçları hem tahkimatları parçalar. Bio-plazma (canlı ateş) ya da venom cannon gibi biyo-silahlarla uzaktan da döver. Bir Carnifex'i durdurmak, çoğu zaman onu defalarca "öldürmek" gerektirir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; *Battle of Macragge*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

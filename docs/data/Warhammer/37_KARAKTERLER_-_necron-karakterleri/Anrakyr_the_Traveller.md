@@ -14,6 +14,11 @@ Anrakyr, uykudaki Tomb World'leri tek tek uyandırıp eski Necron imparatorluğu
 - **Önemli Olaylar:** Tomb World'lerin uyandırılması; Cryptus savaşı.
 - **Kanon Notu:** Cryptus'taki ittifak iki tarafın da çıkarına dayanan geçici bir düzenlemedir; kalıcı bir dostluk olarak sunulmaz.
 
-## Tarihçe
+## Yürüyen Koleksiyon
+Anrakyr the Traveller — 'Gezgin' — Necron'ların en meşhur yarı-bağımsız Overlord'u; kendi dynasty'si yok, tomb world'ler arasında dolaşır ve 'warlord'luk kiralar'. Tomb King'in tersi: Anrakyr dışarıdan gelir, savaşır, ganimetini alır, gider — ama her seferinde bir bedel ister: bir Necron'un bilincini 'koleksiyonuna' katar. Necron'un en değerli paralı askeri ve en esrarengiz figürüdür.
 
-Anrakyr the Traveller, Necron'ların en ünlü ve en gizli gezginidir; 'the Traveller' olarak bilinen ve Necron'ların en gizli operasyonlarını yapan Anrakyr, Necron'ların en gizli ve en önemli varlığıdır — onlar, Necron'ların en ünlü ve en gizli gezginidir. Anrakyr'ın en büyük özelliği, onun gizliliğidir — onlar, 'the Traveller' olarak bilinen ve Necron'ların en gizli operasyonlarını yapan en önemli varlıktır ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Anrakyr, hem bir makine hem de bir gezgindir ve onların varlığı, Necron'ların en büyük sırrının somut halidir. Anrakyr'ın en ünlü özelliği, onun 'the Traveller' lakabıdır — onlar, Necron'ların en gizli ve en gezgin varlığıdır ve onların varlığı, Necron'ların en büyük sırrının kanıtıdır. Anrakyr the Traveller, Necron'ların en ünlü ve en gizli gezginidir — onlar, bir g
+## Mind in the Mind
+Anrakyr'ın özel yeteneği 'mindshackle scarab' — düşman birimin bilincini ele geçirip onu kendi ordusuna katar. Necron'un 'Trazyn benzeri' koleksiyoncu figürüdür ama Trazyn objeleri, Anrakyr askerleri toplar. Canon'da onun 'gerçek' dynasty'si bilinmez; bazı kaynaklar onu Szarekh'in eski rakibi olarak gösterir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; *Anrakyr* lore parçaları; Lexicanum

@@ -14,6 +14,11 @@ Güncel yayınlarda Anathema Psykana olarak da anılan, yalnızca pariah kadınl
 - **Önemli Olaylar:** Prospero'nun yakılışı; Heresy sonrası dağılma; Era Indomitus'ta yeniden örgütlenme.
 - **Kanon Notu:** Dağılmanın nedeni ve kaç Sister'ın hayatta kaldığı açıklanmamıştır. Ayrıntı için <#1551743688680669286>.
 
-## Tarihçe
+## Boşluk
+Sisters of Silence — 'Silent Sisterhood' — Imperium'un 'blank' (psişik-boş) kadın savaşçı örgütüdür; üyeleri Pariah genini taşır — Warp'e 'yokluk' olarak görünürler, psyker ve daemon'a karşı doğal antitezdirler. Null-rod ve Executioner Greatblade ile savaşırlar; daemon'a yaklaştıklarında Warp alanı 'çöker'.
 
-Sisters of Silence (Silent Sisterhood), İmparatorluğun tamamı Pariah kadınlarından oluşan gizli savaş birliğidir; onların varlığı Warp'ı susturur ve psyker'ları felç eder ve bu yüzden İmparatorluğun en korkulan ve en gizli kurumudur. Sisters of Silence, İmparator tarafından bizzat kuruldu — görevleri Black Ships'e eşlik ederek tehlikeli psyker'ları güvenle taşımak ve Warp'ın tehditlerine karşı son savunma hattını oluşturmaktı; onların psişik boşluğu, demonları Immaterium'a geri sürükler ve psyker'ları kör ve sağır bırakır. Horus Heresy'de kritik rol oynadılar — özellikle Prospero'nun yakılması ve Terra Kuşatması'nda Thousand Sons'un büyülerine karşı tek etkili kalkan oldular; onların varlığı, psyker savaşını İmparatorluk lehine çevirdi. Sisters of Sile
+## Tarih
+Sisters of Silence'ın kökeni İmparator'a kadar gider — Golden Throne'un korunması ve Black Ships'e eşlik etmeleri görevidir. Heresy'de Terra surlarında savaştılar; sonradan unutuldular ama Guilliman'ın dönüşüyle tekrar aktif oldular — Indomitus Crusade'de Custodes'le birlikte çalışırlar. 'Oblivion Knight' unvanları vardır.
+
+## Kaynaklar
+-# Kaynaklar: *The Master of Mankind*; *Watchers of the Throne* — Chris Wraight; *Codex: Adeptus Custodes*; Lexicanum

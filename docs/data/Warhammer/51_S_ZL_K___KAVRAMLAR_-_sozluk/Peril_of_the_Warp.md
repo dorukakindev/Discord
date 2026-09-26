@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/4/4b/Seer.jpg/revision/latest?cb=20160117190323
+
 -# THE IMPERIAL ARCHIVE · Sozluk · Kayıt
 # Peril of the Warp
 *Warp Tehlikesi*

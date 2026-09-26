@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/1/16/GauntsGhostsTrooper.jpg/revision/latest?cb=20190418005952
+
 -# THE IMPERIAL ARCHIVE · Diğer Romanlar · Kayıt
 # Ghostmaker (Gaunt's Ghosts #2)
 

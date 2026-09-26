@@ -8,8 +8,10 @@ Interex'in "anathame" dediği, Kinebrach yapımı yarı-bilinçli xenos bıçağ
 
 The Anathame (Lanetli Bıçak), tüm Horus Heresy'yi başlatan tek silahtır; görünüşte yalnızca kadim bir xenos bıçağı, gerçekte galaksinin kaderini değiştiren bir lanetin keskin ucudur. Kökeni, İmparatorluk'tan çok daha eski ve bazı yönlerden daha gelişmiş bir uygarlığa, Interex'in tabi ortağı maymunsu Kinebrach türüne dayanır. Interex, bu tür tehlikeli silahları "anathame" diye sınıflar ve onları Xenobia Principis'teki Aletler Salonu denen bir müze-arşivde kilit altında tutardı.
 
-## Tarihçe
+## İlk Silah
+The Anathame — Erebus'un Davin'de bulduğu ve Horus'u zehirlemek için kullandığı Warp-imbued kılıçtır; Heresy'nin 'kıvılcım'ıdır. Erebus onu Interex'ten (bir insan-xeno uygarlığı) çaldı — Interex'in 'Chaos'a karşı' kurduğu kılıç, ironik biçimde Chaos'un en büyük ajanının silahı oldu. Horus'un zehirlenmesi Davin'in 'dönüş noktası' olmasını sağladı.
 
-The Anathame, Chaos'un en ünlü ve en trajik relic'idir; Horus'un — İmparator'un en sevgili oğlu — Chaos'a düşmesinin başlangıcı olan ve onun Davin'de yaralanmasına neden olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en trajik silahıdır. The Anathame'in en büyük özelliği, onun trajedisidir — onlar, bir primarch'ın düşüşünün başlangıcıdır ve onların varlığı, İmparatorluğun en büyük kaybının kanıtıdır; bir Anathame, bir primarch'ın Chaos'a düşmesinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. The Anathame'in en ünlü özelliği, onun Horus'un düşüşüdür — onlar, İmparatorluğun en büyük ihanetinin simgesidir ve onların varlığı, Chaos'un en büyük zaferinin kanıtıdır. The Anathame, Chaos'un en ünlü ve en trajik relic'idir — onlar, bir primarch'ın düşüşünün ve Chaos'un zaferinin somut halidir.
+## Kaynaklar
+-# Kaynaklar: *False Gods* — Graham McNeill (HH); *The First Heretic*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

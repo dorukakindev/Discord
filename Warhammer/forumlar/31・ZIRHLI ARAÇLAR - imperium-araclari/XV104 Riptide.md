@@ -13,10 +13,8 @@ Bir Fire caste savaşçısının giydiği değil, içine yerleştiği dev bir ba
 - **Bilinen Kullanıcılar / Operatörler:** Fire caste veteran pilotları; T'au Sept'leri.
 - **Önemli Olaylar:** Kaynaklarda tek bir Riptide'a bağlanmış öne çıkan olay yoktur.
 
-## Tarihçe
+## Dalga
+XV104 Riptide — T'au'nun en büyük 'saha' Battlesuit'idir; ~5 metre, 'Nova Reactor' ile beslenen devasa savaş zırhı. 'Heavy Burst Cannon' ve 'Ion Accelerator' taşır — tek başına bir tank bölüğünü durdurabilir. Farsight Enclaves'te geliştirildi ama ana Imperium'da da kullanılır; 'Riptide'ın sahadaki varlığı Tau'nun 'güç gösterisi'dir.
 
-XV104 Riptide, T'au Empire tarafından kullanılan en güçlü ve en çok yönlü Battlesuit'dir; onun çok yönlü silahlandırması ve dayanıklılığıyla — bir kadro askeri koruyabilen ve düşmanı yakın mesafede imha eden bir araçtır — onlar, T'au'nun en güçlü ve en güvenilir Battlesuit'idir. Riptide'ın en büyük özelliği, onun çok yönlülüğüdür — onlar, hem bir tank hem de bir piyade destek aracıdır; bir Riptide, bir kadro Fire Warrior'ı koruyabilir ve onların varlığı, bir T'au ordusunun merkezidir. Riptide'ın en ünlü görevi, T'au'nun çeşitli savaşlarıdır — onlar, İmparatorluğun en güçlü zırhlısına karşı kullanılırlar ve onların varlığı, T'au'nun en güçlü silahıdır. XV104 Riptide, T'au Empire'ın en güçlü ve en güvenilir Battlesuit'idir — onlar, Greater Good'un en güçlü silahının somut halidir.
-
-## Kanon Notu
-
-Battlesuit'ler bu forum düzeninde araçlarla birlikte kaydedilir; evren içinde bunlar tank değil, pilotlu zırh sistemleridir. Riptide ilk kez 2013'teki
+## Kaynaklar
+-# Kaynaklar: *Codex: T'au Empire*; *Farsight* serisi; Lexicanum

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/dd/Iskandar_Khayon.jpg/revision/latest?cb=20160829205424
-
 -# THE IMPERIAL ARCHIVE · R KAYITLARI · Kayıt
 
 # Ragged Knight

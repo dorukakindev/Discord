@@ -14,9 +14,11 @@ Imperium'a sıkı sıkıya bağlı, yakın dövüşe büyük değer veren ve koy
 - **Önemli Olaylar:** Kimdaria'nın yeniden bulunuşu (M35'in sonları).
 - **Kanon Notu:** Hanenin tekil seferleri yayımlanmış kanonda sınırlı biçimde işlenmiştir.
 
-## Tarihçe
+## Kara Tohum
+House Mortan — Chaos Knight hanelerinin en ünlüsü; 'Seed of Ruin' olarak bilinir ve Iconoclast evreninde Imperium'a dönmüş ilk büyük hane. Mortan'ın savaşçıları 'yıkıcı ihtişam' arar — Knight'ları bile 'kanserli' görünür. Heresy'de Perturabo'ya katıldılar ve 'kara çiçek' lakabıyla anılırlar.
 
-House Mortan, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biridir — Questor Imperialis hanesi olarak İmparatorluk'a doğrudan bağlıdır. Mortan'ın Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Mortan — Questor Imperialis, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Knights*; Lexicanum
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

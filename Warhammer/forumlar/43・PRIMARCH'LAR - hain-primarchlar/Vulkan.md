@@ -4,31 +4,39 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/Primarch_Vulkan.jpg/r
 
 # Vulkan — Demirci Baba
 
-İnsanlık ve zanaata değer veren, defalarca ölüp dirilen ölümsüz Primarch. Salamanders'a bıraktığı dokuz kutsal emanet bulununca döneceğine inanılır; lejyonu sıcaklık ve insancıllığıyla bilinir.
+*The Promethean · Lord of Drakes · Nocturne'ün Demircisi*
 
-- **Numara:** XVIII
-- **Lejyon:** XVIII · Salamanders
-- **Sadakat:** Kayıp
-- **Ana Dünya:** Nocturne
-- **Akıbet:** Ölümsüz (perpetual); galakside kayboldu
-- **Karakter:** Zanaat, dayanıklılık ve insancıllık; ölümsüz (perpetual) doğa.
-- **Kanon Sınıfı:** A — resmî kaynak
+XVIII Legion'ın, Salamanders'ın Primarch'ı. Kardeşleri arasında sıradan insanlara en çok değer veren, zanaatkâr ruhlu ve şefkatli Primarch. Isstvan V'te öldüğü sanıldı ama hayatta kaldı; Curze'ün eline esir düşerek defalarca öldürüldü ve her seferinde dirildi. Bir **Perpetual** olduğu ortaya çıkan Vulkan, Heresy'nin ardından ortadan kayboldu. Salamanders, onun bir gün geri döneceğine inanır.
 
-## Kayıt
+- **Kategori:** Primarch (sadık)
+- **Fraksiyon:** Imperium — XVIII Legion, Salamanders
+- **Dönem:** Great Crusade → M31 (kayıp)
+- **Köken:** Nocturne; demirci N'bel tarafından evlat edinildi
+- **Silahlar:** Dawnbringer çekici, Furnace's Heart alev tabancası, Draken Scale pelerini; Unbound Flame'in kayıp emanetleri
+- **Durum:** Kayıp — Perpetual olarak ölmeyeceğine inanılır, dönüşü beklenir
 
-Vulkan, volkanik ölüm dünyası Nocturne'e düştü ve demirci bir halkın arasında, sıradan insanların acılarını ve dayanıklılığını paylaşarak büyüdü; bu yüzden tüm Primarch'lar arasında sıradan insanlara en çok değer veren, en şefkatli ve en insancıl oydu. Bir efsaneye göre İmparator, Nocturne'e geldiğinde Vulkan'la bir demircilik ve dayanıklılık yarışmasına girdi ve oğlunun gücünü ve karakterini böyle keşfetti.
+## Kökenler: Nocturne
+Vulkan'ın kapsülü, depremler ve volkanik patlamalarla sarsılan, ayı Prometheus'un yakın geçişlerinde yüzeyi yanan ölüm dünyası Nocturne'e düştü. Onu bir demirci olan **N'bel** buldu ve oğlu olarak büyüttü. Nocturne'ün insanları sert koşullar altında dayanışma ve zanaatle hayatta kalıyordu; Vulkan bu değerleri benimsedi.
 
-İmparator onu XVIII. Lejyon Salamanders'ın başına geçirdi; lejyon, primarch'ları gibi usta zanaatkârlardan oluşuyordu ve her savaşçı kendi teçhizatını döver, melta ve alev silahlarında ustalaşırdı. Salamanders sayıca her zaman küçüktü ama sıcaklığı ve sivilleri koruma ilkesiyle eşsizdi.
+Nocturne, Dark Eldar akıncılarının sık saldırısına uğruyordu. Vulkan, halkını bu saldırılara karşı savundu ve savaşçı olarak ün kazandı. Emperor Nocturne'e yabancı bir savaşçı olarak geldiğinde Vulkan'la bir yarışmaya girdi: bir demircilik ve bir av yarışması. Av yarışmasında Vulkan kendi hayatını tehlikeye atarak Emperor'u bir lav gölünden kurtardı; Emperor kaybetmeyi seçti ve Vulkan'a biat etme hakkını verdi.
 
-Vulkan'ın en sıra dışı özelliği "perpetual" olmasıydı: doğal olarak ölümsüzdü, defalarca öldü ve her seferinde geri döndü. Isstvan V Drop Site katliamından sağ çıkan üç sadık primarch'tan biriydi; sonrasında bir İblis Primarch (Konrad Curze) tarafından defalarca işkenceyle öldürülmesine rağmen her seferinde dirildi.
+## Great Crusade
+XVIII Legion, Crusade'in en küçük Legion'larından biriydi. Vulkan Legion'ı Nocturne'ün değerleriyle yeniden şekillendirdi: sıradan insanlara karşı koruyucu tutum, demircilik geleneği ve alev silahlarındaki ustalık. Legion'ın adı **Salamanders** oldu. Salamanders'ın savaşçıları, gen-tohumlarının Nocturne'ün radyasyonu ile etkileşimi sonucu siyah tene ve kızıl gözlere sahiptir.
 
-Vulkan sonunda galaksiye kayboldu, ama gitmeden önce Salamanders'a bir miras bıraktı: kendi elleriyle dövdüğü dokuz kutsal eser (artefakt). Kehanete göre bu dokuz emanetin hepsi bulunduğunda Vulkan geri dönecektir. Forgefather unvanını taşıyan Vulkan He'stan, bu emanetleri bulmak için galaksiyi arar ve chapter'ın umudunu canlı tutar; Vulkan, ölümün bile durduramadığı, insancıllığın ve zanaatın ölümsüz bir sembolüdür.
+Vulkan, Promethean Cult adlı felsefi-dinî geleneği Legion'ın ruhani çerçevesi yaptı. Kardeşleri arasında Ferrus Manus ve Corvus Corax'la yakındı; Konrad Curze ile ise gergin bir ilişkisi vardı.
 
-## Muharebeler
+## Isstvan V ve Esaret
+Horus'un ihaneti öğrenildiğinde Salamanders, Iron Hands ve Raven Guard'la birlikte Isstvan V'teki ilk dalgaya katıldı. Drop Site Massacre'da Legion ağır kayıplar verdi; Vulkan'ın kendisi de kayboldu. Onu esir alan Konrad Curze, Vulkan'ı defalarca farklı yöntemlerle öldürdü; ama Vulkan her seferinde dirildi. Bu, onun bir **Perpetual**, yani ölümsüz bir insan olduğunun kanıtıydı (*Vulkan Lives*).
 
-- Nocturne'de İmparator ile demircilik yarışması
-- Isstvan V katliamından sağ çıkış
-- Defalarca ölüp dirilmesi (perpetual)
-- Dokuz emaneti saklayıp kayboluşu
+Sonunda Vulkan, Curze'ün esaretinden kurtuldu ve Macragge'ye ulaşarak Imperium Secundus'taki kardeşlerine katıldı. Burada Curze'le bir kez daha yüzleşti (*The Unremembered Empire*). Ardından Terra'ya döndü; Terra Kuşatması sırasında Vulkan, Emperor'un Webway projesinin kapılarında daemonların Palace'a sızmasını önleyen görevde yer aldı (*Siege of Terra* serisi).
 
--# Kaynaklar: Lexicanum + resmî kural kitapları ve külliyat
+## Kayboluş
+Heresy'nin ardından Vulkan, Salamanders'ın Heresy döneminde dağılan emanetlerini — Unbound Flame olarak bilinen dokuz emaneti — Nocturne'ün çeşitli yerlerine gizledi ve bir gün geri döneceğini bildirerek ortadan kayboldu. Salamanders, "Tome of Fire" adlı kutsal metinde bu emanetlerin yerlerine dair ipuçlarını saklar; emanetlerin tamamı bulunduğunda Vulkan'ın döneceğine inanılır. Emanetlerin bir kısmı zamanla bulunmuştur.
+
+## Güncel Durum
+Vulkan yayımlanmış kanonda hâlâ kayıptır. 11. edisyon döneminin (2026–2029) anlatılarında Vulkan'ın dönüşü hayran topluluğunda sıkça tartışılan bir beklentidir; Salamanders, 11. edisyonun Armageddon anlatısındaki Operation Imperator'a katılan Chapter'lar arasındadır. Resmî bir dönüş gerçekleşmemiştir.
+
+## Kişilik
+Vulkan, Primarch'lar arasında en insancıl olanıdır. Gücünü sıradan insanları korumak için kullanır; savaşı bir amaç değil, bir zorunluluk olarak görür. Zanaat, onun için sadece bir beceri değil, yaratmanın ve korumanın bir yoludur. Perpetual olması, Salamanders'ın Primarch'larının bir gün geri döneceğine olan inancını güçlendirir.
+
+-# Kaynaklar: *Vulkan Lives* — Nick Kyme; *Deathfire* — Nick Kyme; *The Unremembered Empire* — Dan Abnett; *Vulkan: Lord of Drakes* — David Annandale; *Tome of Fire* üçlemesi — Nick Kyme; *Codex: Space Marines*; Lexicanum

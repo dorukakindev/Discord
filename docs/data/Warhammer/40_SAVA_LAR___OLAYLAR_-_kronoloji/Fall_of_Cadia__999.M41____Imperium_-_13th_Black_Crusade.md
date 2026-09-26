@@ -14,6 +14,14 @@ Eye of Terror karşısındaki en önemli Imperial kalenin yıkımı. Dünyanın 
 - **Önemli Olaylar:** Pylonların yıkımı; *Will of Eternity*'nin çarpması; tahliye.
 - **Kanon Notu:** Imperial propaganda olayı onurlu bir yenilgi, Chaos anlatıcıları on bin yıllık bir kapının kırılışı olarak sunar.
 
-## Tarihçe
+## Kapının Düşüşü
+Cadia'nın düşüşü (999.M41), Abaddon'un 13. Kara Haçlı Seferi'nin doruk noktası ve İmparatorluk'un on bin yıllık savunma stratejisinin çöküşüdür. Cadia — Eye of Terror'un tek sabit çıkışı olan Cadian Gate'in kilidi — binlerce yıl Imperium'un en sert savunma dünyasıydı: tüm nüfusu asker, tüm gezegeni kale.
 
-Fall of Cadia, İmparatorluğun en büyük ve en trajik kaybıdır; Abaddon'un on üçüncü Kara Haçlı Seferi'nde Cadia'nın — Eye of Terror'un tek geçiş noktasının bekçisi — yok edilmesi ve Büyük Yarık'ın doğuşuyla sonuçlanan İmparatorluğun en büyük felaketidir — onlar, İmparatorluğun en büyük kaybının ve en büyük trajedisinin somut halidir. Fall of Cadia'nın en büyük özelliği, onun kaybıdır — onlar, bir gezegenin en büyük kaybının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Fall of Cadia, bir gezegenin en trajik halidir ve onların varlığı, İmparatorluğun en büyük felaketinin somut halidir. Fall of Cadia'nın en ünlü özelliği, onun Büyük Yarık'ın doğuşudur — onlar, İmparatorluğun en büyük felaketinin en b
+## Kara Haçlı Seferi
+Abaddon'un 13. saldırısı öncekinin aksine tam ölçekli Chaos yığınıydı: Plague Fleet, Blackstone Fortress'ler ve her fraksiyondan warband. Cadia aylarca direndi; Creed, Trazyn (kendi sebepleri için), Saint Celestine ve Astartes birleşik savunma yaptı. Sonunda Abaddon Blackstone Fortress'lerden birini doğrudan Cadia'ya çarptı — gezegen kırıldı.
+
+## Büyük Yarık
+Cadia'nın fiziksel yok oluşu Warp'e açılan tek direnci kaldırdı: Cicatrix Maledictum (Büyük Yarık) galaksiyi ikiye böldü, Imperium Nihilus karanlık yarı oldu ve Era Indomitus başladı. 'Cadia stands' sloganı gezegenin yok olmasından sonra bile sürüyor — direniş ruhunun simgesi olarak.
+
+## Kaynaklar
+-# Kaynaklar: *Gathering Storm* üçlemesi (özellikle *Fall of Cadia*); *Cadia Stands* — Justin Hill; *13th Black Crusade* kampanya materyali; Lexicanum

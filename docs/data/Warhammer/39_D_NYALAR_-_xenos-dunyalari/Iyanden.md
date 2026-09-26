@@ -14,6 +14,11 @@ Iyanden, 'Ölülerin Craftworld'üdür — Aeldari'nin en trajik ve en büyük d
 
 Iyanden'in kültürü, yas ve hatıra üzerine kuruludur: Craftworld'ün 'Spiritseer'leri, ölülerin ruhlarını hem kutsar hem savaşa yönlendirir; Iyanden'in Wraith orduları, 'ölülerin son savunması' olarak bilinir. Büyük Yarık ve sonraki tehditler karşısında Iyanden, 'ölümsüzlüğün bedeli' doktriniyle varlığını sürdürür — bu Craftworld'ün hikâyesi, bir halkın yok olmaktansa ölüleriyle birlikte yaşamayı seçmesinin destanıdır.
 
-## Tarihçe
+## Ölülerin Evi
+Iyanden — 'ruhların craftworld'ü' — Eldar'ın Tyranid'lerle en çok savaşan koludur; Hive Fleet Kraken neredeyse yok etti. Yriel'in evidir; savaş sonrası hayatta kalan az nüfus Wraith-constructs'ları (ölülerin ruh taşlarından yapılan golem-savaşçılar) çoğalttı — artık 'yaşayan ölülerin' craftworld'ü olarak bilinir.
 
-Iyanden, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Tyranid'e karşı en zorlu savunmasını yapan ve neredeyse yok edilen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en onurlu evidir. Iyanden'in en büyük özelliği, onun trajedisidir — onlar, Hive
+## Sembol
+Iyanden'in sembolü 'yin-yang' benzeri dairedir — yaşam ve ölümün birliği; sarı-mavi renkleri canon'un en bilinen Eldar kombinasyonudur. 'Ghost Warriors' (Wraithguard, Wraithlord) burada en yoğun kullanılır — Iyanden için ölü bile savaşa katılır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Battle for Iyanden*; *Path of the Eldar*; Lexicanum

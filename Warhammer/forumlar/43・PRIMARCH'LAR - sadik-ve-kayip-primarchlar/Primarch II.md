@@ -2,17 +2,45 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/aa/The_Primarchs.jpg/rev
 
 -# THE IMPERIAL ARCHIVE · Sadik ve Kayip Primarchlar · Kayıt
 # Primarch II
-*Adı Silinmiş*
 
-İkinci ve On Birinci Primarch'ların adları, lejyonları ve kaderleri Imperium tarihinden bilinçli olarak silinmiştir. Resmi açıklama yoktur; bu sessizlik 40K evreninin en kalıcı gizemlerinden biridir.
+*Kayıtlardan Silinmiş İkinci Primarch*
 
-İkinci Primarch ve lejyonu hakkında neredeyse hiçbir şey bilinmez; isimleri kazınmış, heykelleri yıkılmış, savaş kayıtları yakılmıştır. Bu işleme Romalıların "anının lanetlenmesi" geleneğinden adıyla Damnatio Memoriae (Moment of Shame) denir; sanki bu iki kardeş hiç var olmamış gibi davranılır.
+Emperor'un yirmi Primarch'ından ikincisi. Adı, yüzü, Legion'ı ve kaderi Imperium'un tüm kayıtlarından silinmiştir. Hakkında bilinen neredeyse tek kesin şey, Horus Heresy'den önce ortadan kaldırıldığı ve bu olayın o kadar karanlık olduğu ki, kardeşlerinin bile onu anmaktan kaçındığıdır. Games Workshop bu gizemi bilinçli olarak açık bırakır.
 
-Kanonik anlatı, bu boşluğu bilinçli olarak bir gizem olarak korur; Games Workshop bu iki "Kayıp Lejyon"un (II ve XI) gerçek hikâyesini hiçbir zaman tam açıklamamıştır ve muhtemelen açıklamayacaktır. Bu, hayranların kendi teorilerini kurması için bırakılmış kasıtlı bir boşluktur.
+- **Kategori:** Primarch (kayıp / silinmiş)
+- **Fraksiyon:** Bilinmiyor — II Legion
+- **Dönem:** Great Crusade (M30) — Heresy öncesinde kayboldu
+- **Köken:** Bilinmiyor
+- **Durum:** Bilinmiyor; kayıtlardan kasıtlı olarak silindi
 
-## Kayıp Primarch
-II. Lejyon'un Primarch'ı, İmparator'un yirmi oğlundan biriydi ve kayıtlardan tamamen silindi: adı, dünyası, eseri, hatta suçu bilinmiyor. Bilinen tek şey şu — İmparatorluk kayıtlarında Lejyon II ve XI "unutulmuş ve tasfiye edilmiş" olarak geçer; heykelleri yıkıldı, isimleri söylenmez. Lorgar bir keresinde Magnus'a kayıp kardeşlerinden bahsetmeyi yasakladığı için İmparator'u suçlamıştı; Horus ise II'nin kaybının "nereye kadar sürüklenebileceğinin" işareti olduğunu söyler. Bazı teoriler II'nin lejyonunun Ultramarines'a katıldığını öne sürer — Ultramarines'ın garip şekilde büyük sayısı bunu destekler.
+## Bilinen Gerçekler
+Yayımlanmış kanonda Primarch II hakkında kesin olarak bilinenler çok sınırlıdır:
+- Yirmi Primarch'tan biri olarak Emperor tarafından yaratılmıştır.
+- Heresy'den önce, Great Crusade döneminde, bilinmeyen bir sebeple ortadan kalkmıştır.
+- Adı, Legion'ının adı ve bütün eylemleri Imperium'un kayıtlarından silinmiştir.
+- Legion'ının savaşçılarının ya yok edildiği ya da başka Legion'lara dağıtıldığı kabul edilir.
+- Kardeşleri, bu olay hakkında konuşmamak için bir tür yemin ya da anlaşma yapmış gibidir.
 
-## Tarihçe
+## Heresy Romanlarındaki İpuçları
+Horus Heresy romanları, Primarch II hakkında dolaylı ama önemli ipuçları sunar:
+- Birçok Heresy romanında Primarch'lar ve kıdemli Space Marine'ler, kayıp kardeşlerden söz etmekten açıkça kaçınır; konu açıldığında sohbet kesilir. Bu sessizlik, olayın kardeşler arasında ortak bir sır olarak paylaşıldığını düşündürür.
+- **Dark Angels**'ın ve **Space Wolves**'un, silinmiş Legion'lardan birinin ya da ikisinin yok edilmesinde rol oynamış olabileceği ima edilir; Space Wolves'un "Emperor's Executioners" olarak anılması, bu ihtimali güçlendirir.
+- *Praetorian of Dorn*, silinmiş Legion'ların kayıtlarındaki boşluğun Alpha Legion tarafından bir kılık ve sızma aracı olarak kullanıldığını ima eder. Bazı hayran teorileri II Legion'ın kalıntılarının Alpha Legion'a katıldığını öne sürer; bu yayımlanmış kanonda doğrulanmamıştır.
+- *The Master of Mankind* ve *Horus Heresy* kaynak kitapları, kayıp Primarch'ların varlığını ve Emperor'un "başarısızlık"larını dolaylı olarak anar.
 
-Primarch II, İmparatorluğun en gizli ve en trajik figürüdür; İmparator tarafından yaratılan 20 primarch'tan ikincisi olan ve kaybolan Primarch II, İmparatorluğun en gizli ve en trajik varlığıdır — onlar, İmparatorluğun en gizli ve en trajik primarch'ıdır. Primarch II'nin en büyük özelliği, onun gizliliğidir — onlar, kaybolan bir primarch'tır ve onların varlığı, İmparatorluğ
+## Hayran Teorileri
+Primarch II hakkında hayran topluluğunda birçok teori dolaşır:
+- **Chaos'a düşüş:** Primarch'ın Heresy'den çok önce Chaos'a düştüğü ve Emperor tarafından yok edildiği.
+- **Başarısız proje:** Primarch'ın genetik bir kusur ya da deformasyon nedeniyle Emperor tarafından reddedildiği.
+- **Xenos bağlantısı:** Primarch'ın bir xenos tehdidiyle — örneğin Necron'lar ya da Hrud gibi türlerle — ilişkilendirildiği.
+- **Bilinçli gizem:** Games Workshop'un bu boşluğu kasıtlı olarak doldurmamaya karar vermesi.
+
+Bu teorilerin hiçbiri resmî kanonda desteklenmemiştir.
+
+## Games Workshop'un Tutumu
+Games Workshop tasarımcıları yıllar içinde, Primarch II ve XI'in kimliklerinin açıklanmasının planlanmadığını dile getirmiştir. Bu yaklaşıma göre bu boşluklar, Warhammer 40,000 evreninin gizemini ve Imperium'un kendi tarihini bile karanlık bırakan doğasını yansıtan bilinçli bir tasarım tercihidir.
+
+## Neden Önemli?
+Primarch II'nin silinmesi, Imperium'un ne kadar büyük sırları saklayabildiğinin ve Emperor'un yarattıklarını ne ölçüde kontrol edebildiğinin bir göstergesidir. Aynı zamanda Heresy'de hain olan Primarch'ların nedenlerini tartışırken önemli bir bağlam oluşturur: Emperor'un oğullarından ikisi, Horus'un ihanetinden çok önce "başarısız" sayılarak ortadan kaldırılmıştı.
+
+-# Kaynaklar: *Horus Heresy Book 1: Betrayal*; *Praetorian of Dorn* — John French; *The Master of Mankind* — Aaron Dembski-Bowden; *Index Astartes*; Games Workshop tasarım ekibi açıklamaları; Lexicanum

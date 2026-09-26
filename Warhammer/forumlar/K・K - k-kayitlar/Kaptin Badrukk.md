@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/88/KaptinBadrukk.jpg/revision/latest?cb=20250122170347
-
 -# THE IMPERIAL ARCHIVE
 # Kaptin Badrukk
 

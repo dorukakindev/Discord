@@ -12,6 +12,8 @@ Chaplain, Space Marine'in 'din adamı ve savaş vaizi'dir — Chapter'ın manevi
 
 Savaşta Chaplain, 'Crozius Arcanum' kılıcı ve 'Rosarius' kalkanıyla ön saflarda savaşır; onun vaazları, kardeşlerin 'neden savaştıklarını' hatırlatır ve Chapter'ın 'kültür savaşçısı' rolü, Chaplain'in varlığında somutlaşır. İmparatorluk'un 'imparator inancının' askeri kolu olan Chaplain, hem dinin hem savaşın adamıdır — bir Space Marine'in ruhunu, onun vaazı şekillendirir.
 
-## Tarihçe
+## Rahip
+Chaplain — Space Marine'ın 'manevi lideri'dir; Chapter'ın 'inanç' ve 'karakter'ini korur. 'Crozius Arcanum' ile savaşır ve 'Reclusiam'ın başıdır — Chapter'ın tarihini, ayinlerini ve 'ruhsal sağlığını' o denetler. Chaplain olmak 'örnek' olmaktır — hem asker hem vaiz.
 
-Chaplain, Space Marine chapter'larının din-adamı ve manevi muhafızı — Crozius Arcanum ve Rosarius taşıyan, chapter'ın inanç ve geleneğini koruyan savaşçı-rahip. Codex Astartes sonrası 'chapter kültü'nün taşıyıcısı Chaplain'dir; Catechism of Hate ve Litany of Fury'leriyle savaşta moral ve psyker-savunması sağlar. Black Templars'ın 'Marshal-Grimaldus' figürü ve Blood Angels'ın 'Red Grail' töreni Chaplain'i
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; Lexicanum

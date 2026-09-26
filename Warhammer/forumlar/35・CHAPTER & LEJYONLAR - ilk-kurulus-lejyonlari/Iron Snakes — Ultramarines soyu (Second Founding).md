@@ -13,10 +13,8 @@ Denizci bir dünyanın geleneklerini Astartes disipliniyle harmanlayan Chapter. 
 - **Önemli Olaylar:** Reef Stars'ın savunması; Drukhari'ye karşı süregelen savaş.
 - **Kanon Notu:** Chapter'ın ayrıntılı lore'u büyük ölçüde tek bir Black Library eserine dayanır; Codex'lerde yalnızca kısa anılır.
 
-## Tarihçe
+## Yılanlar
+Iron Snakes — 'Ithaka' Chapter'ı; Dan Abnett'in *Brothers of the Snake* romanıyla ünlü 'eski' Space Marine Chapter'ı. 'Spartacist' disiplini ve 'Damocles' geleneğiyle bilinirler — her marine kendi 'şirketi'ne değil 'takımına' bağlıdır. 'Snakes' lakabı onların 'sıcak kanlı ama soğuk' savaşma biçiminden gelir.
 
-Iron Snakes, Ultramarines soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, Ithaka'nın deniz ve ada kültüründen doğar ve onlar, İmparatorluğun en disiplinli ve en deneyimli savaşçılarıdır. Iron Snakes'in en büyük özelliği, onların sualtı ve ada savaşındaki uzmanlığıdır — onlar, denizde, okyanusta ve ada dünyalarında savaşır ve onların savaşı, hem sualtı hem de karada ölümcüldür; bir Iron Snake, savaşta hem yüzer hem de yürür ve onun adaptasyonu, Chapter'ın en büyük gücüdür. Iron Snakes'in en ünlü savaşı, Sabbat Worlds Crusade'deki görevleridir — onlar, o seferin en zorlu operasyonlarını üstlendiler ve onların disiplini, İmparatorluğun en güvenilir savaş gücünü oluşturdu. Iron Snakes, İmparatorluğun en disiplinli ve en sessiz Chapter'ıdır — onlar savaşır ama konuşmaz, onlar kazanır ama gösteriş yapmaz.
-
-## Teknik / Biyolojik Özellikler
-
-Doktrin: Ultramarines disipl
+## Kaynaklar
+-# Kaynaklar: *Brothers of the Snake* — Dan Abnett; *Codex: Space Marines*; Lexicanum

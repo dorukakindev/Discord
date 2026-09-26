@@ -10,8 +10,13 @@ Adeptus Arbites, İmparatorluk yasasının (Lex Imperialis) acımasız uygulayı
 
 Arbites, sıradan suçlarla (hırsızlık, cinayet gibi yerel meselelerle) pek ilgilenmez; bunlar yerel kolluk güçlerinin işidir. Onların alanı, doğrudan İmparatorluğa karşı işlenen suçlardır: isyan, sapkınlık, öşür ödememe ve İmparatorluk'un birliğini tehdit eden her şey. Bir gezegen vergisini ödemezse ya da bir kült İmparator'a karşı ayaklanırsa, Arbites devreye girer.
 
-## Tarihçe
+## Lex İmparatorluk
+Adeptus Arbites — 'Lex Imperialis'in polisi — Imperium'un kanuni düzenini koruyan güçtür; her hive world'de Precinct House'ları vardır, judge'lar ve executioner'lar tek bedende. Arbites'in görevi suçluyu yakalamak değil 'kanunu sürdürmek'tir — ceza çoğu zaman infazdır. 'Lex' (yasa) Imperium'un her şeyidir; Arbites onun somut yüzüdür.
 
-Adeptus Arbites, İmparatorluğun hukuk ve düzen kurumudur; Imperial Law'ı (Lex Imperialis) uygulayan, gezegenler arası polis gücüdür ve görevleri İmparatorluğun kanunlarını her yerde — hive'lardan savaş alanlarına kadar — zorla uygulamaktır. Arbites'ler sıradan polis değildir — onlar yarı-askeri bir güçtür; power maul, suppression shield ve shotgun ile donanmışlar ve görevleri isyan bastırmak, kanunsuzları avlamak ve İmparatorluğun otoritesini korumaktır. Arbites'in gücü yerel yönetimlerin üstündedir — bir Arbites Judge, bir gezegenin yöneticisini tutuklayabilir veya bir isyanı tek başına bastırabilir; ve Arbites'in varlığı, İmparatorluğun en büyük caydırıcı gücüdür. Adeptus Arbites, İmparatorluğun adaletinin somut halidir — ama onların adaleti, merhamet değil, itaat demektir.
+## Rol
+Arbites'in Judge'ları hive world'lerin alt katmanlarında bile çalışır — Imperium'un 'kanun'nun sınırı yoktur. Shock maul, power maul ve combat shotgun ile donanmış; 'Arbites Precinct' bir dünyanın son düzen noktasıdır. Genestealer cult'ları ve Chaos isyanları ilk kez Arbites'in kayıtlarında belirir — onlar Imperium'un 'erken uyarı'sıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperium*; *Necromunda* (aynı evren); *Shira Calpurnia* serisi — Matthew Farrer; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

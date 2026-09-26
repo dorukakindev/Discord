@@ -13,6 +13,8 @@ Biel-Tan, 'Yeniden Doğuş'un Craftworld'üdür — Aeldari'nin en militarist ve
 
 Biel-Tan'ın ünü, Eldar'ın en parlak savaşçılarını ürettiğinden gelir — Striking Scorpions ve diğer Aspect'lerin en elit ustaları burada yetişir. Ancak Craftworld'ün kaderi acı bir paradoks taşır: Slaanesh'in doğuşuyla 'Yeniden Doğuş' hayalinin ilk düşmanı olan Biel-Tan, Büyük Yarık'ın açılmasıyla neredeyse yok oldu; hayatta kalanlar, 'düşmüş ama kırılmamış' olarak savaşmaya devam eder.
 
-## Tarihçe
+## Kırılan Kılıç
+Biel-Tan — 'Kılıç Rüzgarı' — Eldar'ın en militarist craftworld'üydü; 'Eldar'ın yeniden doğuşu' doktriniyle savaşçı kültürü en yüksek olan yerdi. Fracture of Biel-Tan'da Slaanesh'in saldırısı ve Ynnead'in doğuşu craftworld'ü fiziksel olarak kırdı — yarısı Ynnari'ye katıldı, yarısı 'eski yolu' savundu. Biel-Tan artık 'iki yarı' olarak var; canon'da 'Eldar'ın bölünmesi'nin simgesidir.
 
-Biel-Tan, Aeldari ırkının en büyük ve en askeri Craftworld'lerinden biridir; onun savaş geleneği ve militarist yapısıyla — Aeldari'nin en organize ve en savaşçı evidir — onlar, Aeldari'nin en disiplinli ve en ölümcül evidi
+## Kaynaklar
+-# Kaynaklar: *Fracture of Biel-Tan*; *Codex: Craftworlds*; *Phoenix Rising* (Psychic Awakening); Lexicanum

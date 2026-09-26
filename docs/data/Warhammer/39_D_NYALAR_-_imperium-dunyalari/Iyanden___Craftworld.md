@@ -14,9 +14,14 @@ Ordularında ölü savaşçılara diğer craftworld'lerden çok daha fazla yasla
 - **Önemli Olaylar:** Kraken istilası; Yriel'in dönüşü; Valedor.
 - **Kanon Notu:** Yriel'in Iyanden'le güncel ilişkisi arşivin doğruladığı kaynaklarda net değildir.
 
-## Tarihçe
+## Ölülerin Evi
+Iyanden — 'ruhların craftworld'ü' — Eldar'ın Tyranid'lerle en çok savaşan koludur; Hive Fleet Kraken neredeyse yok etti. Yriel'in evidir; savaş sonrası hayatta kalan az nüfus Wraith-constructs'ları (ölülerin ruh taşlarından yapılan golem-savaşçılar) çoğalttı — artık 'yaşayan ölülerin' craftworld'ü olarak bilinir.
 
-Iyanden, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Tyranid'e karşı en zorlu savunmasını yapan ve neredeyse yok edilen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en onurlu evidir. Iyanden'in en büyük özelliği, onun trajedisidir — onlar, Hive Fleet Kraken'in saldırısına uğradılar ve neredeyse yok edildiler; bir Iyanden, hem bir gezegen hem de bir mezardır ve onların varlığı, Aeldari'nin en büyük kaybının kanıtıdır. Iyanden'in en ünlü özelliği, onun Wraith construct'larıdır — onlar, ölen Aeldari'ların ruhlarını taşıyan ve onların yerini alan yapılardır ve onların varlığı, Aeldari'nin en trajik ve en onurlu geleneğinin kanıtıdır. Iyanden, Aeldari ırkının en trajik ve en onurlu Craftworld'üdür — onlar, yıkımın ve dirilişin somut halidir.
+## Sembol
+Iyanden'in sembolü 'yin-yang' benzeri dairedir — yaşam ve ölümün birliği; sarı-mavi renkleri canon'un en bilinen Eldar kombinasyonudur. 'Ghost Warriors' (Wraithguard, Wraithlord) burada en yoğun kullanılır — Iyanden için ölü bile savaşa katılır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Battle for Iyanden*; *Path of the Eldar*; Lexicanum
 
 -# Kaynaklar: *Codex Supplement: Iyanden*; *Valedor — Guy Haley*; *Codex: Aeldari — 10th Edition*
 

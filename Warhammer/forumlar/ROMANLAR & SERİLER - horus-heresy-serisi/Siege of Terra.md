@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/db/Siege_Imperial_Palace.jpg/revision/latest?cb=20110306024936
-
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Siege of Terra
 
@@ -8,14 +6,14 @@ Horus Heresy'nin final perdesi: 54 ciltlik ana seriyi kapatan sekiz romanlık ku
 - **Yazarlar:** John French, Guy Haley, Gav Thorpe, Dan Abnett, Chris Wraight, Aaron Dembski-Bowden
 - **Konum/Dönem:** Sol Sistemi ve Terra, ~013.M31 — Heresy'nin sonu
 
-## İçerik
-Ana seriyi *The Buried Dagger*'dan devralan sekiz ciltlik son seri: Warmaster'ın donanmasının Sol Sistemi'ne girmesinden İmparator'un *Vengeful Spirit* güvertesindeki son düelloya dek kesintisiz kuşatma. Sıralama: *The Solar War* (John French), *The Lost and the Damned* (Guy Haley), *The First Wall* (Gav Thorpe), *Saturnine* (Dan Abnett), *Mortis* (John French), *Warhawk* (Chris Wraight), *Echoes of Eternity* (Aaron Dembski-Bowden) ve üç parça hâlinde yayımlanan final *The End and the Death* (Dan Abnett). Aralarda *Sons of the Selenar*, *Fury of Magnus* ve *Garro: Knight of Grey* gibi tamamlayıcı novellalar da seriye eklenir.
+## Son Savaş
+Terra Kuşatması (014.M31), Horus Heresy'nin doruğu ve İmparatorluk tarihinin en büyük tek savaşıdır; Horus'un birleşik hain lejyonları Sol sistemine girdi, aylarca Terra'nın katmanlı savunmasını kırdı ve Imperial Palace surlarına ulaştı. Sadık lejyonlar (Imperial Fists, Blood Angels, White Scars, Custodes, Sisters of Silence, milyonlarca insan askeri) Dorn'un kuşatma planıyla direndi.
 
--# Seri: Siege of Terra (Black Library, 2019–2024)
--# İlişkili: `horus`, `rogal-dorn`, `sanguinius`, `terra`, `imperial-palace`, `golden-throne`
+## Ana Anlar
+Lion's Gate spaceport'un düşmesi, Saturn kapısının savunması, Eternity Wall surlarında Sigismund'un düello zinciri, Sanguinius'un kapıdaki son direnişi, Vulkan ve Magnus'un Warp'te dövüşü, İmparator'un Vengeful Spirit'e ışınlanması — hepsi canon'un en belirleyici sahneleridir. *The End and the Death* serisi son günlerin dakika dakika anlatımıdır.
 
-## Tarihçe
+## Sonuç
+İmparator Horus'u yendi ama bedeni yıkıldı; Golden Throne'a bağlandı. Dorn ve surviving loyalists 'the Scouring' (temizlik seferi) başlattı — hain lejyonlar Eye of Terror'a kaçtı. Terra Kuşatması Imperium'un 'kurtuldu ama değişti' anıdır: seküler İmparator öldü, tanrı-İmparator doğdu.
 
-Heresy anlatısının düğümü: Dorn'un yıllardır hazırladığı Saray savunması, hainlerin Güneş Sistemi'ni kat kat kırması, Eternity Kapısı'ndaki son safhalar ve İmparator'un Altın Taht'a gömülüşü — on bin yıllık savaşın sıfır noktası. Seri 2019'da başladı ve *The End and the Death: Volume III* (Ocak 2024) ile kapandı.
-
--# Kaynaklar: Black Library; Warhammer 40k Lexicanum
+## Kaynaklar
+-# Kaynaklar: *Siege of Terra* serisi (8 roman — The Solar War'dan The End and the Death'e); *Saturnine*, *Mortis*; Lexicanum

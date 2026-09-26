@@ -14,9 +14,11 @@ Incubi, Commorragh'ın siyasi çekişmelerine doğrudan katılmayan, hizmetlerin
 - **Önemli Olaylar:** Arhra'nın düşüşü; Commorragh'ın iç çatışmaları.
 - **Kanon Notu:** Drazhar'ın kimliği tartışmalıdır; kaynaklar onu Arhra ile ilişkilendiren imalarda bulunur, ancak bu bağlantı doğrulanmış değildir.
 
-## Tarihçe
+## Kanlı Kılıç
+Incubi — Drukhari'nin 'paralı' elit savaşçı kastıdır; kendi hiyerarşisi, kendi 'klaive' silahı ve kendi kodu vardır. Hierarch'lar yönetir, Drazhar en tepesidir. Incubi'nin değeri sadakatsizliğidir — onlar kiralıktır ve bu onları Commorragh'da 'güvenilir' kılar çünkü hiçbir Kabal'a bağlı değiller.
 
-Incubi, Drukhari'nin 'kabal'larına bağlı elit yakın-dövüş savaşçıları — Commorragh'ın en keskin kılıç ustaları ve 'Incubus' kültünün takipçileri. Klaive kılıcı ve Tormentor Shield ile donanmış Incubi, Archon'un kişisel muhafızı ve suikastçısıdır; 'soul-hunger' beslenmesi Drukhari'nin en saf haliyle bu birliklerde görülür. Drazhar, 'Living Sword' olarak bilinen en ünlü Incubus — tek başına bir Wyches Cult'unu kırabilen efsanevi figürdür.
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; Lexicanum
 
 -# Kaynaklar: *Codex: Drukhari*; *Path of the Incubus — Andy Chambers*
 

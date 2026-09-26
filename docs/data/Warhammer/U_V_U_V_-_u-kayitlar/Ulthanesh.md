@@ -9,9 +9,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/96/EldarRaceRune.png/rev
 - **Köken:** Eldanesh hanesi
 - **Önemli Olaylar:** Aeldari mitleri
 
-## Tarihçe
+## İkinci Tanrı
+Ulthanesh — Eldar'ın 'İkinci İmparatoru' ve Asuryan'dan sonraki en büyük lider olarak bilinen efsanevi figür; Eldanesh'le birlikte ilk Eldar krallığını kurdu. 'Ulthanesh' unvanı Eldar'ın 'taht' kavramının kökenidir — 'greatest leader' anlamına gelir. Khaine'in elinden ilk Eldar'ları kurtaran figür olarak söylencelerde yaşar.
 
-Ulthanesh, Aeldari'nin en eski ve en efsanevi figürlerinden biridir — Aeldari mitolojisinin en önemli figürlerinden biridir. Ulthanesh, Aeldari'nin en eski ve en efsanevi figürlerinden biridir; onun hikâyesi, Aeldari mitolojisinin en önemli ve en eski figürlerinin simgesidir. Ulthanesh, Aeldari'nin en eski ve en efsanevi figürü olarak kalır — onun hikâyesi, Aeldari mitolojisinin en önemli ve en eski figürlerinin simgesidir.
+## Kaynaklar
+-# Kaynaklar: *Asurmen* serisi; *Codex: Craftworlds*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1553058702200938598>

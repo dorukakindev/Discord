@@ -14,8 +14,10 @@ Great Crusade'in zafer yürüyüşünü, Horus'un ihanetini ve Heresy'nin son y�
 - **Önemli Olaylar:** Siege of Terra'nın son yüzleşmesi; Black Legion'ın kuruluşu; Black Crusade'ler.
 - **Kanon Notu:** Heresy sonrası geminin kimin elinde kaldığına dair ayrıntılar farklı eserlerde farklı derinlikte işlenir.
 
-## Tarihçe
+## Kutsal Gemi
+Vengeful Spirit — Abaddon'un bayrak gemisi ve Horus'un eski 'baba' gemisidir; Gloriana-class zırhlı, Horus Heresy'de İmparator'un kan döktüğü yerdir (Terra'ya gelen İmparator bu gemiye çıktı). 'Vengeful Spirit' adı artık Chaos'un sembolüdür — Abaddon'un tahtı, Black Crusade'lerin merkezi ve 'İmparator'un sonunu gördüğü' gemidir. Canon'da 'kutsal ama lanetli' nesnedir.
 
-Great Crusade'de Luna Wolves'un ve Warmaster Horus'un komuta merkeziydi. Horus Heresy boyunca Sons of Horus'un amiral gemisi olarak kaldı ve Siege of Terra'nın doruğunda Horus, kalkanlarını indirerek Emperor'u gemisine çekti. Sanguinius burada can verdi; Emperor Horus'u öldürdü, fakat kendisi de ölümcül biçimde yaralandı. Heresy'den sonra gemi Eye of Terror'a çekildi ve Aaron Dembski-Bowden'ın Black Legion anlatısında Abaddon'ın eline geçişi işlenir. M41 kaynaklarında Abaddon'ın amiral gemisi olarak anılır.
+## Kaynaklar
+-# Kaynaklar: *Horus Rising* serisi; *Talon of Horus*; *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: *Horus Rising — Dan Abnett*; *Vengeful Spirit — Graham McNeill*; *The Talon of Horus — Aaron Dembski-Bowden*; *Codex: Chaos Space Marines — 10th Edition*

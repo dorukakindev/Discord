@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/e8/CM_Pedro_Kantor_battle.png/revision/latest?cb=20130913205934
-
 -# THE IMPERIAL ARCHIVE
 # Pedro Kantor
 

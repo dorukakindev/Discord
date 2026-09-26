@@ -14,6 +14,14 @@ Farsight, Ethereal otoritesini reddedip Damocles Gulf'un ötesinde kendi dünyal
 - **Önemli Olaylar:** Arthas Moloch; Enclaves'in kuruluşu; Arks of Omen.
 - **Kanon Notu:** Dawn Blade'in kökeni ve Farsight'ın uzun ömrünün nedeni kanonda açıklanmamıştır. Ayrıntılı madde: <#1551814127541026827>.
 
-## Tarihçe
+## Vior'la'nın Vizyoneri
+Shas'la T'au Kais — bilinen adıyla Farsight — T'au Empire'ın en büyük askerî dehası ve tek büyük 'haini'. Ethereal'ların yokluğunda gösterdiği bağımsızlık onu hem kahraman hem şüpheli kıldı. Gençliğinde Damocles Körfezi'nde Imperium'un zırhını ilk elden gördü; oradan çıkan ders onu T'au'nun en agresif komutanı yaptı.
 
-Commander Farsight (Shas'O Vior'la Shovah Kais Mont'yr), T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır — Farsight Enclaves'in lideridir. Farsight, T'au İmparatorluğu'nun en ünlü generalidir; ancak T'au'nun Ethereal'larına olan bağlılığı kırıldı ve kendi bağımsız kolunu kurdu. Farsight, Farsight Enclaves'i kurdu ve T'au İmparatorluğu'nun en tehlikeli ve en bağımsız gücünü oluşturdu; onun hikâyesi, T'au'nun en büyük ihanetinin ve en özgür savaşçısının hikâyesidir. Commander Farsight, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanı olarak kalır — onun hikâyesi, T'au'nun en büyük ihanetinin ve en özgür savaşçısının hikâyesidir.
+## Farsight Enclaves
+Arkünasha'da Ethereal'sız görev yaptığı dönemde 'Farsight Enclaves' kuruldu — Ethereal sansürüne karşı, Tau'va'nın (Greater Good) otoriter yorumundan bağımsız yaşayan Tau kolonileri. T'au Empire onu resmen ölü ya da hain ilan etti; o ise hâlâ 'Tau'va'ya sadık ama Ethereal'ların kör itaatine karşı' olduğunu söyler. Bu çekişme T'au'nun iç siyasal çatlağıdır.
+
+## Dawn Blade ve Uzun Yaşam
+Farsight'ın kullandığı Dawn Blade aslında bir Chaos artefaktıdır — Chronophage kılıcı, her öldürülen canlının ömrünü taşıyıcısına aktarır. Farsight'ın anormal uzun yaşamının (300+ yıl) kaynağı budur; Ethereal sansürünün gizlemeye çalıştığı bilgi. Imperium'un kayıtlarında 'kırmızı Battlesuit' komutanı olarak geçer.
+
+## Kaynaklar
+-# Kaynaklar: *Farsight* ve *Farsight: Crisis of Faith* — Phil Kelly; *Farsight Enclaves* supplement; *Empire of Lies*; *Codex: T'au Empire*; Lexicanum

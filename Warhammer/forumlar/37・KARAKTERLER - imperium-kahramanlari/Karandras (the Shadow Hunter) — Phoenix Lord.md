@@ -14,6 +14,11 @@ Striking Scorpions'ın Phoenix Lord'u; gölgelerde bekleyen, sabırlı ve ölüm
 - **Önemli Olaylar:** Arhra'nın düşüşü; Striking Scorpions'ın mantosunu devralması.
 - **Kanon Notu:** Karandras'ın kimliği ve Arhra'yla ilişkisi kaynaklarda ayrıntılandırılmaz. Drazhar'ın Arhra ile ilişkisine dair imalar doğrulanmamış teori düzeyindedir.
 
-## Tarihçe
+## Gölge
+Karandras — 'Shadow Hunter' — Striking Scorpion Aspect'inin Phoenix Lord'u; gizlilik, pusuda bekleme ve 'yüz görünmeden öldürme' sanatının kurucusu. Mandiblasters'ı ve 'mümkün olduğunca sessiz ölüm' doktriniyle bilinir — Eldar'ın 'suikastçı' yanı. Karanlık ormanlarda yetişmiş, Asurmen'in en karanlık öğrencisidir.
 
-Karandras (the Shadow Hunter), Aeldari'nin en gizli ve en ölümcül Phoenix Lord'larından biridir — Striking Scorpions Aspect Shrine'ın kurucusudur. Karandras, Aeldari'nin en gizli ve en ölümcül savaşçısıdır; onun gizli operasyonları ve yakın dövüş yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Karandras, Aeldari'nin en gizli ve en ölümcül Phoenix Lord'u olarak kalır — onun varlığı, Aeldari'nin en önemli ve en ölümcül savaş geleneğinin simgesidir.
+## Karşıtlık
+Karandras canon'da 'görünmez ölüm' kavramının Eldar versiyonudur — Striking Scorpion'ların 'görmeden vur' geleneği onun mirası. Baharroth'un gökyüzüne karşılık o yeraltının efendisidir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Asurmen* (yan); Lexicanum

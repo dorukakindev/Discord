@@ -14,10 +14,13 @@ Dark Angels'ın Supreme Grand Master'ı; Chapter'ın en derin sırrını, yani F
 - **Önemli Olaylar:** Fallen avı; Vashtorr'la çarpışma.
 - **Kanon Notu:** Lion'ın dönüşünden sonra Azrael ile Primarch arasındaki ilişki yayımlanmış kanonda bütünüyle netleşmemiştir.
 
-## Tarihçe
+## Melek'in Gölgesi
+Azrael, Dark Angels'ın Supreme Grand Master'ı ve 'Inner Circle'ın başıdır; Chapter'ın en derin sırrını — Luther ve Fallen'ların ihaneti — bilen tek kişi. Onun komutası sadece askeri değil, ruhanidir: Dark Angels için savaş hem Imperium'un hem kendi günahının kefaretidir. Lion El'Jonson'un uyanışı Azrael'in görevini dönüştürdü — artık 'bekleyen oğul' değil 'dönmüş babaya' hesap veren komutan.
 
-Unforgiven Chapter'ların önderi olarak Fallen avını sürdürdü; Cypher'ın yeniden ortaya çıkışı ve Great Rift çağının karmaşası bu avı hiç olmadığı kadar karmaşık kıldı. *Arks of Omen: Vashtorr*'da Vashtorr'un Dark Angels'a saldırısında onunla bizzat çarpıştı; ilk Daemon Prince Be'lakor'un beklenmedik müdahalesi dengeyi bozdu ve Azrael'in hayatta kalışı kesin bir zaferden çok kıl payı bir kurtuluş olarak çerçevelendi. Lion El'Jonson'un dönüşü, onun Chapter'ı üzerindeki otoritesini ve sırrın geleceğini yeni sorulara açtı.
+## Unforgiven
+Azrael'in yönettiği Chapter kendini 'Unforgiven' sayar — Fallen'ları avlamak onların kutsal savaşıdır; Rock (göçmen kale-manastır) merkezleridir. *The Lion: Son of the Forest* dönüşüyle Azrael'in rolü değişti — babası artık sahnede, o onun oğlu.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Dark Angels*; *The Lion: Son of the Forest* — Mike Brooks; *Azrael* novellası; *Descent of Angels* (HH); Lexicanum
 
 -# Kaynaklar: *Codex Supplement: Dark Angels*; *Arks of Omen: Vashtorr*
-
--# İlişkili kayıtlar: <#1551813077991686208>, <#1551809277692215330>, <#1551816136679751721>, <#1551809619544899625>, <#1551810874635976776>

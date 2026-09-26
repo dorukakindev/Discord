@@ -14,6 +14,11 @@ Koyu mavi zırhları ve kızıl eldivenleriyle tanınan, Codex Astartes'e bağl�
 - **Önemli Olaylar:** Rynn's World savaşı; Arx Tyrannus'un yıkımı; Chapter'ın yeniden inşası.
 - **Kanon Notu:** Rynn's World savaşının ayrıntıları eski Codex'ler ile Black Library anlatımında farklı genişlikte işlenir.
 
-## Tarihçe
+## Kırılmayan
+Crimson Fists, Imperial Fists'in successor'ı ve Rynn's World'ün savunucusudur; Ork istilasıyla neredeyse yok edilmiş ama Pedro Kantor'un direnişiyle ayakta kalmış Chapter. Mavi-bordo zırhları ve 'yumruk' sembolüyle tanınır; 'Chapter'ın bedeli' kavramının canlı örneğidir — 900 savaşçı kaybettiler, Chapter'ın yerine konması yüzlerce yıl sürecek.
 
-Crimson Fists, Imperial Fists soyu ve Second Founding'de kurulan trajik bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinden doğar ama onların kaderi, İmparatorluğun en büyük kayıplarından birini yaşamaktır — Rynn's World'deki Ork istilası, Chapter'ı neredeyse yok etti. Crimson Fists'in en büyük trajedisi, Rynn's World'deki felakettir — bir Ork Waaagh!'ı, Chapter'ın kale manastırını yok etti ve Chapter'ın büyük kısmını öldürdü; ama Crimson Fists, küllerinden doğdu ve hâlâ savaşıyor — onların dirilişi, İmparatorluğun en büyük direniş hikâyelerinden biridir. Crimson Fists'in savaş doktrini, dayanıklılık ve fedakarlık üzerine kuruludur — onlar, kayıplarını asla unutmaz ve onların savaşı, ölenlerin anısı içindir; bir Crimson Fist, savaşta hem
+## Rynn's World
+Snagrod'un Ork WAAAGH!'ı Crimson Fists'in merkezini yıktı; Kantor'un 100 kişiyle savunması canon'un en bilinen 'son siper' hikâyesidir. Chapter artık yarım güçte ama mükemmel moralde — 'yenilmiş ama yenilmemiş' örneğidir.
+
+## Kaynaklar
+-# Kaynaklar: *Rynn's World* — Steve Parker; *Codex: Crimson Fists*; Lexicanum

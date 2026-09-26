@@ -1,64 +1,50 @@
-https://static.wikia.nocookie.net/warhammer40k/images/8/8e/JaghataiKhanPencil.jpg/revision/latest?cb=20190325202836
-
--# THE IMPERIAL ARCHIVE
-# Jaghatai Khan
-
--# Kategori: Primarch · Fraksiyon: Imperium, White Scars · Dönem: M30 – M31 · Bağlılık: Imperium
-
-## Tanım ve Genel Çerçeve
-Jaghatai Khan, V Legion'ın, yani White Scars'ın Primarch'ıdır. Legion'ı onu *Khagan*, Imperial kayıtlar ise çoğu zaman *the Warhawk* diye anar. Kardeşleri arasında en bağımsız, Terra'nın siyasetine en mesafeli ve en az anlaşılan Primarch'lardan biri olarak kabul edilir. Horus Heresy'de uzun bir tereddüdün ardından Emperor'un safında yer almış, Terra Kuşatması'nda ağır bedeller ödemiş ve Scouring'in sonlarında Webway'de iz bırakmadan kaybolmuştur.
-
-Bu kanal Primarch'ın kendisini merkeze alır. Legion ve Chapter'ın kurumsal tarihi, kültürü ve savaş tarzı <#1551638913683034174> kanalındadır.
-
-## Kökenler: Chogoris
-Primarch'ların galaksiye dağıtılmasının ardından Jaghatai'nin kapsülü, bozkırlarında göçebe atlı kabilelerin yaşadığı Chogoris'e düştü. Kabileler, Palatine adıyla anılan bir hükümdarın başındaki yerleşik bir imparatorluğun baskısı altındaydı. Çocuğu bulan Talskar kabilesinin reisi Ong Khan onu kendi halkının içinde büyüttü; kaynaklar, genç Primarch'ın olağanüstü hızla büyüyüp kabilesini korumakla kalmayıp kısa sürede bozkırın bütün kabilelerini tek bir akın gücü hâlinde birleştirdiğini anlatır.
-
-Bu birleşme, Palatine'in imparatorluğunun yıkılmasıyla sonuçlandı. Jaghatai'nin Chogoris'te kurduğu düzen, yerleşik iktidara karşı özgürlüğü, hızı ve bozkırın geniş ufuklarını yücelten bir kültürün doğuşuydu. Primarch'ın Terra'nın hiyerarşik ve bürokratik dünyasına karşı hissettiği yabancılık, sonraki bütün ilişkilerinin arka planında bu köklerden beslenir.
+https://static.wikia.nocookie.net/warhammer40k/images/8/8e/JaghataiKhanPencil.jpg/revision/latest/scale-to-width-down/871?cb=20190325202836
 
 ## Tarihçe
 
-Jaghatai Khan, White Scars'ın en ünlü ve en efsanevi primarch'ıdır; Chogoris'in — White Scars'ın ev gezegeni — en hızlı savaşçısı olan ve White Scars'ı kuran Khan, İmparatorluğun en efsanevi ve en cesur primarch'ıdır — onlar, White Scars'ın en ünlü ve en efsanevi primarch'ıdır. Jaghatai Khan'ın en büyük özelliği, onun hızıdır — onlar, İ
+Jaghatai Khan ('Büyük Han', 'Khagan', 'Warhawk'), White Scars V. Lejyonu'nun primarch'ıydı; Chogoris'in bozkır kabilelerinde yetişti ve Büyük Haçlı Seferi ile Horus Heresy boyunca lejyonuna komuta etti. Heresy'de tarafını İmparator'dan yana koydu, Terra Kuşatması'nda hayati rol oynadı. Savaştan sonra 70 yıl daha savaştı; 084.M31'de Drukhari korsanlarını kovalarken Maelstrom bölgesindeki bir Webway portalına girip kayboldu — hâlâ geri dönmedi.
+
+-# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+
+# Jaghatai Khan — Warhawk
+
+*The Warhawk · Khagan · Chogoris'in Kartalı*
+
+V Legion'ın, White Scars'ın Primarch'ı. Hız, özgürlük ve bozkır geleneğiyle tanınan, kardeşleri arasında en bağımsız düşünenlerden biri. Heresy'de uzun süre tarafını belli etmediği için şüpheyle karşılandı; ancak sonunda Terra'yı savunan en önemli Primarch'lardan biri oldu. Heresy'nin ardından Webway'de bir Dark Eldar komutanını kovalarken ortadan kayboldu.
+
+- **Kategori:** Primarch (sadık)
+- **Fraksiyon:** Imperium — V Legion, White Scars
+- **Dönem:** Great Crusade → M31 (kayıp)
+- **Köken:** Chogoris; Talskar göçebe kabilesinin reisi Ong Khan tarafından bulundu
+- **Silahlar:** White Tiger Dao, kılıç ustalığı; savaş jetbike'ları ve süvari taktikleri
+- **Durum:** Kayıp — Webway'de kayboldu, dönüşü beklenir
+
+## Kökenler: Chogoris
+Jaghatai'nin kapsülü, geniş bozkırları ve dağ geçitleri olan Chogoris'e düştü. Onu Talskar kabilesinin reisi Ong Khan buldu ve oğlu olarak büyüttü. Kabile, gezegenin yerleşik ve gelişmiş imparatorluğu Palatine'in baskısı altındaydı. Ong Khan öldürüldüğünde genç Jaghatai kabilenin başına geçti ve bozkır kabilelerini birer birer birleştirerek Palatine İmparatorluğu'nu yıktı. Bu savaşlarda edindiği süvari taktikleri, hızlı baskınlar ve beklenmedik manevralar V Legion'ın savaş sanatına dönüşecekti.
+
+Chogoris'in birleşmesinden sonra Jaghatai, "Khagan" unvanıyla hükmetti. Chogoris halkının kardeşlik, sadakat ve özgürlük üzerine kurulu kültürü, Primarch'ın ve Legion'ının kimliğinin temelidir.
 
 ## Great Crusade
-Emperor Chogoris'e ulaştığında Jaghatai, V Legion'ın komutasını devraldı ve Legion'ı Chogoris'in dili, törenleri ve savaş anlayışıyla yeniden biçimlendirdi. Great Crusade boyunca Legion'ını genellikle Imperium'un uzak sınırlarına yönlendirdi; hızlı akınlar ve uzun süreli takip harekâtlarıyla düşman kuvvetlerini dağıtıp yeni sınırlar açtı. Terra'dan ve Imperial yönetim kurumlarından bilinçli olarak uzak durması, onu bir yandan özgür bir komutan yaparken, öte yandan da kardeşleri ve Terra'daki yöneticiler nezdinde niyetleri anlaşılmaz bir figür hâline getirdi.
+Emperor Chogoris'e vardığında Jaghatai, uzun görüşmelerin ardından ona biat etti. V Legion Chogorian savaşçılarla yeniden biçimlendi; Terra doğumlu savaşçılar ile Chogorian'lar arasındaki kültür farkı zamanla eritildi. Legion, **ordu**'lar (kabile tabanlı birlikler) ve **brotherhood**'lar etrafında örgütlendi; Codex dönemindeki "Brotherhood" yapısı bu geleneğin mirasıdır.
 
-## Kişilik ve İlişkiler
-Chris Wraight'ın romanları Jaghatai'yi kaba bir savaş beyinden çok, düşünceli, meraklı ve yer yer alaycı bir Primarch olarak çizer. Özgürlüğe ve kişisel onura büyük değer verir; kurumsal dogmalara ve katı hiyerarşilere şüpheyle yaklaşır.
-
-- **Horus**: Aralarında uzun süreli bir yakınlık ve karşılıklı saygı olduğu anlatılır; bu yakınlık, Heresy'deki ikilemini daha da ağırlaştırmıştır.
-- **Magnus the Red**: Bilgiye ve Chogoris'in psişik geleneklerine gösterdiği saygı, iki Primarch arasında bir dostluk zemini oluşturmuştur.
-- **Mortarion**: Heresy boyunca Khan'ın en kalıcı düşmanlarından biri hâline gelen, derin bir kişisel çatışmanın karşı tarafıdır.
-- **Leman Russ**: Heresy'nin başındaki karmaşada Space Wolves ile White Scars arasındaki güvensizlik, iki Primarch'ın ilişkisini de gerginleştirmiştir.
+White Scars, Crusade boyunca en hızlı hareket eden Legion'dı; bir cepheyi ele geçirip diğerine geçerken çoğu zaman Terra ile bağlantı kurmayı bile ihmal ediyordu. Bu bağımsızlık, bürokrasi ve diğer Primarch'lar gözünde onları güvenilmez gösterdi. Jaghatai, Nikaea Konseyi'nde Librarius'ların yasaklanmasına karşı çıkanlardandı; White Scars'ın **Stormseer**'ları, Legion'ın ruhani ve psişik geleneğinin taşıyıcılarıydı. Jaghatai Magnus ile dostluk kurmuş, ama Horus'a da derin bir saygı beslemişti.
 
 ## Horus Heresy
-Heresy başladığında Jaghatai, Chondax sisteminde Ork'lara karşı bir sefer yürütüyordu. Haberleşme hatlarının kesilmesi ve Alpha Legion'ın yanıltıcı faaliyetleri, gelişmeleri geç ve çelişkili bilgilerle öğrenmesine yol açtı. *Scars* romanı, Khan'ın Horus'un davasını mı yoksa Emperor'un kararlarını mı izleyeceğini tarttığı bu belirsizlik anını işler; Legion'ın içindeki warrior lodge'ların Horus'a yakın bir fraksiyonu ihanete sürüklemesi, Khan'ı kendi oğullarıyla hesaplaşmak zorunda bıraktı. Sonunda Khan, Emperor'un safında yer almayı seçti.
+Heresy başladığında White Scars, Chondax'ta Orklarla savaşıyordu ve iletişimlerinin büyük kısmı kesilmişti. Alpha Legion ve Horus'un ajanları Legion'ı bölmeye çalıştı; Horus, Jaghatai'yi kendi saflarına katılmaya davet etti. White Scars'ın içindeki bir gizli "lodge" hareketi ihaneti destekledi. Jaghatai, Prospero'nun yıkımını ve olayların gerçeklerini öğrendikten sonra kararını verdi ve Emperor'a sadık kaldı. Karar sürecinde Alaxxes Nebulası'nda Space Wolves'la kanlı bir karşılaşma yaşandı; Legion içindeki ihanet yanlısı lodge ise Khan'ın emriyle bastırıldı (*Scars*, Chris Wraight).
 
-*The Path of Heaven*, White Scars'ın Traitor kuvvetleriyle, özellikle Death Guard'la yürüttüğü amansız savaşları ve Terra'ya giden uzun yolu anlatır. Khan, bu yolculuk boyunca Legion'ının hayatta kalmasını sağlamak ile Terra'ya ulaşma zorunluluğu arasında zor seçimler yapmak durumunda kaldı.
+Bu kararın ardından White Scars Terra'ya doğru yol alırken sürekli savaştı. Beta-Garmon savaşlarında Legion büyük kayıplar verdi. Terra Kuşatması'nda Jaghatai, Lion's Gate Uzay Limanı'nın savunmasında Mortarion'la yüz yüze geldi; iki Primarch arasındaki düello Khan'ı ölümün eşiğine getirdi. Ağır yaralanan Jaghatai uzun süre ölümle yaşam arasında kaldı, ardından iyileşerek savaşa döndü; bu dönem *Warhawk* ve sonraki *Siege of Terra* romanlarında işlenir.
 
-## Terra Kuşatması
-Terra'ya ulaşan Khan, Siege of Terra serisinin önemli figürlerinden biridir. *Warhawk* romanı, Khan'ın komutasındaki kuvvetlerin Lion's Gate uzay limanını geri almak için verdiği savaşı merkeze alır; bu harekât, Traitor kuvvetlerin Terra'ya yönelik takviye akışını hedef alan stratejik bir hamleydi. Bu savaşlarda Mortarion'la yeniden karşılaşan Khan, ağır yaralandı. Kuşatmanın sonraki evrelerindeki durumu, serinin sonraki kitaplarında işlenir.
+## Heresy Sonrası ve Kayboluş
+Horus'un ölümünden sonra White Scars, Scouring döneminde hainleri kovaladı. Jaghatai daha sonra Commorragh'a doğru kaçan bir Dark Eldar kabal lideri peşinde Webway'e girdi ve bir daha dönmedi. Primarch'ın Webway'in labirentlerinde hâlâ savaştığına dair söylentiler dolaşır. White Scars, Khan'ın bir gün geri döneceğine inanır; Chogoris'in bozkırlarında onun anısına özel törenler yapılır.
 
-## Scouring ve Kayboluş
-Horus'un yenilgisinden sonra Jaghatai, Scouring boyunca kaçan Traitor kuvvetleri kovaladı. Imperial kayıtlarda en sık tekrarlanan anlatıma göre Scouring'in sonlarında Drukhari akıncılarını takip ederek Webway'e girdi ve bir daha geri dönmedi. Bazı kaynaklar bu olayı Corusil V çatışmasıyla ilişkilendirir; kesin tarih, yer ve kayboluşun koşulları konusunda anlatımlar farklılık gösterir.
+## Kişilik
+Jaghatai, kardeşleri arasında en özgür ruhlu olanıdır: kural ve bürokrasiye sabırsız, hız ve inisiyatife dayanan savaşı seven, ama derin bir onur ve sadakat duygusuna bağlı biri. Kararlarını kendi vicdanına göre verir; bu yüzden Heresy'de sadakati sorgulandı. Dostlarına karşı cömert, düşmanlarına karşı amansızdır. Onun gözünde özgürlük, Imperium'un korunmaya değer olmasının nedenidir.
 
-Bu takibin neden bu kadar tehlikeli olduğunu anlamak için Webway'in doğasını hatırlamak gerekir. Aeldari'nin kadim labirent-boyutu olan Webway, Imperium için büyük ölçüde haritalanmamış bir karanlıktır; Drukhari'nin kalbi Commorragh da bu ağın derinliklerinde yer alır. Drukhari'yi kendi bölgelerinde, bu ağın içine kadar izlemek, ancak bir Primarch'ın gözü kara iradesiyle açıklanabilecek bir karardı. Imperial kayıtların bu kararı cesaret mi yoksa pervasızlık olarak mı gördüğü, kaynağın bakış açısına göre değişir.
+## Güncel Durum
+Jaghatai Khan yayımlanmış kanonda hâlâ kayıptır. White Scars bugün Chapter olarak Chogoris'ten savaşır; Kor'sarro Khan gibi komutanlar Khan'ın mirasını taşır. Primarch'ın dönüşü hayran topluluğunda sık konuşulan bir beklentidir, ancak resmî bir gelişme yoktur.
 
-White Scars, Khan'ın Webway'de hâlâ savaştığına ve bir gün geri döneceğine inanır. Bu inanç, Chapter'ın kimliğinin önemli bir parçasıdır; ancak yayımlanmış kanonda Khan'ın akıbeti açıklanmamıştır. Roboute Guilliman'ın ve Lion El'Jonson'un dönüşleri Primarch'ların dönebileceği ihtimalini canlandırmış olsa da Jaghatai'nin döndüğüne dair resmî bir anlatı bulunmamaktadır.
+## Bilinen Yanılgılar
+**Yanılgı:** Jaghatai Heresy'de hain olmayı düşündüğü için geri durdu.
+**Kanon:** Primarch bilgi eksikliği ve iki tarafın da ona yalan söylemesi nedeniyle kararını geciktirdi; gerçeği öğrendiğinde Emperor'a sadık kaldı.
 
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Jaghatai Khan Heresy'de tarafsız kaldı.
-**Kanon:** Kararı gecikti ve tereddüt etti; ancak Emperor'un safına geçti ve Terra'da sadık güçler arasında savaştı.
-
-**Yanılgı:** Jaghatai'nin öldüğü resmî olarak doğrulandı.
-**Kanon:** Kanon onun akıbetini açıkça belirtmez; Chapter onu hayatta kabul eder.
-
-**Yanılgı:** Khan'ın Era Indomitus'ta döneceği duyuruldu.
-**Kanon:** Böyle bir resmî duyuru yoktur; dönüş beklentisi hayran spekülasyonu düzeyindedir. Kanon durumu: doğrulanmamış teori.
-
-## Yayın ve Retcon Notu
-Jaghatai Khan, oyunun erken dönemlerinden beri Primarch listesinde yer almakla birlikte eski yayınlarda ayrıntısı az işlenmiş, çoğunlukla kayboluşuyla anılan bir figürdü. Onu bugünkü karmaşık figür hâline getiren başlıca eserler Chris Wraight'ın Horus Heresy ve Siege of Terra romanlarıdır; Forge World'ün Horus Heresy modeli de karakterin görsel kimliğini belirlemiştir.
-
-**Kaynaklar:** *Jaghatai Khan: Warhawk of Chogoris — Chris Wraight*; *Scars — Chris Wraight*; *The Path of Heaven — Chris Wraight*; *Warhawk — Chris Wraight*; *Brotherhood of the Storm — Chris Wraight*; *Codex: Space Marines — 10th Edition*
-**Çapraz:** <#1551638913683034174>, <#1551818097504157699>, <#1551814951365115956>, <#1551809699312181339>, <#1551813105166712966>, <#1551813274327060552>, <#1551809168032268310>
-
-​
+-# Kaynaklar: *Scars* — Chris Wraight; *The Path of Heaven* — Chris Wraight; *Brotherhood of the Storm* — Chris Wraight; *Jaghatai Khan: Warhawk of Chogoris* — Chris Wraight; *Warhawk* — Chris Wraight; *The Lost and the Damned* — Guy Haley; *Codex: Space Marines*; Lexicanum

@@ -8,14 +8,10 @@ Commissar Cain'in ilk macerası — 'kahraman' numarası yapan, aslında kaçmay
 - **Yazar:** Sandy Mitchell
 - **Konum/Dönem:** Slawkenberg / 40k seyyar cephe
 
-## İçerik
-Cain'in gravball sahasında tau büyükelçisi kurtarma palavrası ve 'kahraman' olarak lanse edilmesi; serinin komedi tonu burada kurulur.
+## İmparator İçin
+For the Emperor — Sandy Mitchell'in 'Ciaphas Cain' serisinin ilk romanı; 'Hero of the Imperium' Cain'in 'yanlışlıkla kahraman' olduğu hikâye. 'Commissar Cain' efsanesinin başlangıcı — korku, zekâ ve 'sahte cesaret'in Imperium'u nasıl kurtardığının mizahı. 'For the Emperor' — ama Cain için 'önce kendini kurtar' demektir.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-For the Emperor, Sandy Mitchell'in yazdığı ve Ciaphas Cain'in hikâyesini anlatan bir roman serisinin ilk kitabıdır. Bu roman, Ciaphas Cain'in en önemli hikâyesini anlatır; roman, Ciaphas Cain'in hikâyesinin başlangıcıdır. Bu roman, Ciaphas Cain'in hikâyesinin başlangıcıdır; roman, Ciaphas Cain'in en önemli hikâyesinin başlangıcıdır. Roman, Ciaphas Cain'in hikâyesinin başlangıcı olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *For the Emperor* — Sandy Mitchell; *Ciaphas Cain* serisi; Lexicanum
 
 -# Kaynaklar: Black Library

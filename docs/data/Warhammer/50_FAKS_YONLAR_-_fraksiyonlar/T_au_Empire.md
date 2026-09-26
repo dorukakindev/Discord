@@ -14,6 +14,14 @@ Greater Good, yani T'au'va idealini galaksiye taşıdığını ileri süren, gen
 - **Önemli Olaylar:** Damocles Gulf Crusade; Farsight Enclaves'in doğuşu; Fifth Sphere Expansion.
 - **Kanon Notu:** Ethereal'ların T'au'yu nasıl yönlendirdiğine dair şüpheler ve ima edilen yöntemler kaynaklarda açıkça çözülmez.
 
-## Tarihçe
+## Büyük İyinin İmparatorluğu
+T'au Empire — genç, teknolojik olarak hızlı ilerleyen ve 'Greater Good' (Tau'va) idealiyle galaksiye açılan beş ırklı bir federasyon; 6 bin yıl önce primitif kabilelerden uzaylı medeniyete evrildiler, Warp yolculuğu bile kullanamazlar (Ether drive kullanır, Warp'e dokunamazlar). Ethereal kastı toplumu yönetir; dört kast (Fire, Earth, Air, Water) işlevsel bölünmeyle çalışır.
 
-T'au Empire, WH40K evreninin en genç ve en idealist gücüdür; Greater Good felsefesiyle birleşmiş ve teknolojiyle güçlenmiş bir xeno imparatorluğudur — onlar, İmparatorluğun en büyük rakibi ve en büyük alternatifidir. T'au Empire'ın en büyük özelliği, onların Greater Good felsefesidir — onlar, tüm türlerin birlikte yaşamasını ve çalışmasını savunur; bir T'au, sadece bir savaşçı değil, aynı zamanda bir filozoftur ve onların savaşı, hem askeri hem de ideolojik bir seferdir. T'au Empire'ın en ünlü özelliği, onların teknolojisidir — onlar, Battlesuit'leri ve drone'larıyla savaşır ve onların teknolojisi, İmparatorluğun bile anlayamayacağı kadar gelişmiştir; bir T'au Battlesuit, bir Space Marine'i bile yenebilir. T'au Empire, İmparatorluğun en büyük rakibi ve en büyük alternatifidir — o
+## Genişleme
+T'au'nun askeri gücü Battlesuit teknolojisine ve şiddetli ateş gücüne dayanır: XV8 Crisis, XV104 Riptide, XV95 Ghostkeel gibi zırhlar Space Marine'leri bile durdurur. Commander Farsight (Farsight Enclaves) ve Commander Shadowsun (ana İmparatorluk) iki karşıt stratejidir. Alien ırkları (Kroot, Vespid, Nicassar, Gue'vesa — insan gönüllüleri) Tau'va'ya kabul ederler; asimilasyon T'au'nun en tehlikeli silahıdır.
+
+## İç Gerilim
+Farsight'ın Ethereal'lara karşı çıkması, 4. Küre Genişlemesi'nin Warp'e kaybolması ve Tau'va'nın 'kontrollü demokrasi' yüzü Imperium'a karşı gizli zayıflıktır. T'au Empire gençtir ama artık sadece 'yeni ırk' değil — Vigilus'ta ve Damocles Gulf'ta Imperium'la sahada çekişebilen tek xeno gücüdür.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: T'au Empire*; *Farsight* serisi — Phil Kelly; *Shadowsun: The Last of Kiru's Line*; *Damocles* kampanya kitapları; Lexicanum

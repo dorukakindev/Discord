@@ -1,65 +1,40 @@
 https://static.wikia.nocookie.net/warhammer40k/images/c/c0/IronWarriorsArmourial.png/revision/latest?cb=20170814065852
 
--# THE IMPERIAL ARCHIVE
+-# THE IMPERIAL ARCHIVE · Ilk Kurulus Lejyonlari · Kayıt
 # Iron Warriors
 
--# Kategori: Heretic Astartes Legion · Fraksiyon: Chaos · Dönem: Great Crusade – Era Indomitus · Bağlılık: Chaos (pragmatik)
+*The IV Legion · Demir İçeride, Demir Dışarıda*
 
-## Tanım ve Genel Çerçeve
-Iron Warriors, Great Crusade'in IV Legion'ıdır; kuşatma savaşının, tahkimatın ve yıpratma muharebesinin ustaları olarak tanınırlar. Imperium'un en çetin kalelerini düşürmek, en kanlı hendek savaşlarını sürdürmek ve başkalarının imkânsız saydığı surları yıkmak onların işiydi. Aynı ustalık, Horus Heresy'de Emperor'un kendi kalelerine yöneltildi.
+Kuşatma savaşının ve tahkimatın en usta Legion'ı. Great Crusade boyunca sonsuz garnizon görevleri ve kanlı kuşatmalarla yıpratılan, Primarch'ları Perturabo'nun acı kırgınlığını paylaşan Iron Warriors, Heresy'de Horus'un yanında yer aldı. Bugün Medrengard'dan hareketle Imperium'un kalelerini düşüren, Chaos Undivided'a bağlı bir kuşatma gücüdür. 2026'da başlayan "Reign of Iron" anlatısı onları yeniden sahnenin merkezine taşıdı.
 
-Legion'un ihanet hikâyesi, Primarch'ları Perturabo'nun kişiliğinden ayrı düşünülemez. Olağanüstü bir mühendis, matematikçi ve stratejist olan Perturabo, yeteneğinin hiçbir zaman hak ettiği değeri görmediğine inanan, soğuk ve kin tutan bir figürdü. Kendini takdir edilmemiş hisseden bu deha, Imperium'un ona biçtiği rolü bir aşağılanma olarak algıladı.
+- **Kategori:** First Founding Legion (hain)
+- **Fraksiyon:** Chaos — Heretic Astartes / Chaos Undivided
+- **Primarch:** Perturabo (Daemon Primarch)
+- **Anavatan:** Olympia (Heresy'de yakıldı); bugün Eye of Terror'daki daemon dünyası **Medrengard**
+- **Renkler:** Metalik gri/demir zırh, sarı-siyah tehlike şeritleri
+- **Motto:** "Iron within, iron without" (İçeride demir, dışarıda demir)
+- **Önemli Olaylar:** Olympia katliamı; Isstvan V; Phall; Iron Cage; Terra Kuşatması; Hydra Cordatus; Eye of Terror kampanyası (2026)
 
-Iron Warriors'ın mottosu, sık aktarılan biçimiyle, "Iron within, iron without" olarak bilinir. Bu söz, Legion'un duygusuz disiplinini ve içteki çürümeyi dışarıdaki zırhla örten kimliğini özetler. Bu kanal Legion'u merkeze alır; Imperial Fists ile kadim rekabetinin öteki yüzü <#1551636479925559479> kanalında işlenir.
+## Kuruluş ve Great Crusade
+IV Legion, Terra'da kurulan ilk Legion'lardan biriydi. Perturabo'nun Olympia'da bulunmasından sonra Legion onun disiplinine ve mühendislik anlayışına göre yeniden biçimlendi. Iron Warriors, Great Crusade'in en karmaşık kuşatmalarını ve en uzun garnizon görevlerini üstlendi. Ancak Legion'ın birlikleri, işgal edilen dünyalarda küçük garnizonlar olarak Imperium'un dört bir yanına dağıtıldı; bu dağılma Legion'ın birliğini zayıflattı ve Perturabo'nun kırgınlığını derinleştirdi.
 
-## Kökenler: Olympia ve Perturabo
-Perturabo'nun düştüğü dünya Olympia, dağlık, şehir devletlerine bölünmüş ve bitmeyen iç savaşlarla sarsılan bir gezegendi. Lochos şehrinin tiranı Dammekos tarafından evlat edinilen genç Primarch, olağanüstü zekâsı ve mühendislik becerisiyle Lochos'u Olympia'nın hâkimi hâline getirdi; ancak yayınlar onun bu süreçte içten içe yalnız ve anlaşılmamış kaldığını vurgular. Emperor geldiğinde Perturabo, Olympia'nın yönetimini bırakıp IV Legion'un başına geçti.
+Legion'ın disiplini korkunç derecede sertti. Başarısızlık ya da korkaklık, Perturabo'nun emriyle **decimation** — birliğin her on savaşçısından birinin yoldaşları tarafından öldürülmesi — yöntemiyle cezalandırılabiliyordu. Iron Warriors'ın savaş tarzı, zaferi bedeni ne olursa olsun, hesaplanmış bir mühendislik problemi gibi ele alıyordu.
 
-Great Crusade boyunca Iron Warriors, diğer Legion'ların kaçındığı ya da harcamak istemediği kuşatmalara gönderildi. Legion'un ustalığı galaksinin dört bir yanında kanıtlandı; fakat bunun bedeli ağır kayıplar ve fethedilen dünyalarda garnizon olarak dağıtılan birliklerdi. Iron Warriors'ın gözünde bu görevlendirmeler, Legion'u kan kaybettirip şanı başkalarına bırakan bir dışlanmışlıktı.
+## Olympia ve İhanet
+Heresy'nin arifesinde Iron Warriors'ın anavatanı Olympia, Legion'ın yokluğunda isyan etti. Perturabo dönüp dünyasını yaktı; milyonlarca insan öldürüldü. Bu katliam, Iron Warriors'ı Emperor'un affedemeyeceği bir noktaya getirdi ve Horus'un yanına itti.
 
-Perturabo'nun Legion'una karşı sertliği de kayıtlara geçmiştir. Başarısız saydığı birliklere decimation, yani onda bir infaz cezası uyguladığı anlatılır. Bu disiplin Legion'u Primarch'ına bağlarken, Iron Warriors'ın içinde korku ve kin temelli bir kültürün yerleşmesine de yol açtı.
+## Horus Heresy
+Iron Warriors, Isstvan V'teki Drop Site Massacre'da ihaneti gerçekleştiren ikinci dalgadaydı. Heresy boyunca Legion, Imperial Fists'e karşı en büyük düşmanlıklarından birini sürdürdü: **Phall**'daki donanma çatışması, iki Legion arasındaki kin davasını pekiştirdi. Heresy'nin sonrasında yaşanan **Iron Cage** olayında Iron Warriors, Imperial Fists'i Schadenhold'daki kale ağında yıpratıcı bir kuşatmaya hapsetti.
 
-## Olympia İsyanı ve Horus Heresy
-Heresy'nin arifesinde Olympia'da Perturabo'nun yokluğundan yararlanan bir ayaklanma patlak verdi. Primarch dönerek isyanı acımasızca bastırdı; anavatanında yaşanan bu kıyım, *Angel Exterminatus* ve *Perturabo: The Hammer of Olympia* gibi eserlerde onun geri dönüşsüz kırılma anlarından biri olarak işlenir. Imperium'un bu katliamı affetmeyeceğini düşünen Perturabo, Horus'un teklifini kabul etti.
+Terra Kuşatması'nda Iron Warriors, Imperial Palace'ın tahkimatlarını sistemli biçimde yıkma görevini üstlendi. Legion'ın mühendisleri ve kuşatma makineleri, Rogal Dorn'un surlarına karşı eşi görülmemiş bir mimari savaş yürüttü.
 
-Iron Warriors, Isstvan V'te ihanetin ikinci dalgası içinde yer aldı. Heresy boyunca Legion, Imperial Fists ile sert çatışmalara girdi; *The Crimson Fist* romanı, Phall sisteminde Imperial Fists filosuna karşı verilen mücadeleyi anlatır. *Angel Exterminatus*'ta ise Perturabo ile Fulgrim, Aeldari'nin kadim Crone World'lerinden birine uzanan bir seferde birlikte hareket eder; bu roman iki Primarch arasındaki güvensiz ittifakı ve Perturabo'nun Fulgrim tarafından nasıl kullanıldığını işler.
+## Medrengard ve Uzun Savaş
+Heresy'nin ardından Iron Warriors, Eye of Terror'daki Medrengard'a çekildi ve orada devasa kaleler inşa etti. Legion, **Warsmith**'lerin komutasındaki bağımsız savaş grupları hâlinde Uzun Savaş'ı sürdürdü. **Hydra Cordatus** kuşatması (*Storm of Iron*) ve **Honsou**'nun maceraları, Iron Warriors'ın en ünlü Uzun Savaş hikâyeleridir. Iron Warriors, genellikle hiçbir Chaos tanrısına bağlanmayan, daemon teknolojisini ve daemon motorlarını pragmatik olarak kullanan bir Legion'dır.
 
-Siege of Terra'da Perturabo, Imperial Palace'ı savunan Rogal Dorn'un tahkimatlarını düşürme işinin başına getirildi. Kuşatma, iki büyük mühendisin kişisel bir rekabete dönüşen düellosu olarak anlatılır. Siege of Terra romanları, Perturabo'nun kuşatmanın ilerleyen safhasında Horus'a duyduğu hoşnutsuzlukla sahneden çekildiğini aktarır.
+## Reign of Iron (2026)
+2026'da yayımlanan *Eye of Terror* kampanyası, Perturabo'nun binlerce yıldır hazırladığı büyük planın ilk adımını anlatır. Cadia'nın düşüşünden sonra Cadian Gate'i savunmaya devam eden Imperial kaleleri ve forge world'ler Iron Warriors'ın hedefidir; özellikle forge world **Agripinaa**. **Warsmith Kravek Morne**, bu saldırıda ölümlü ve daemonik güçlere komuta eder. Perturabo'nun uzun vadeli amacı, galaksiyi aşarak Terra'ya doğru ilerleyecek bir "Infinite Citadel" kurmaktır.
 
-## Tarihçe
+## Savaş Tarzı
+Iron Warriors, ağır zırhlı araçlar, kuşatma topları, Obliterator'lar, Daemon Engine'ler ve tahkimat inşası konusunda uzmandır. Legion, savaşa bir mühendislik problemi olarak yaklaşır: her düşman kalesi, çözülmesi gereken bir bulmacadır. Iron Warriors'ın en büyük gücü sabrıdır; bir kuşatmayı yıllarca sürdürmeye hazırdırlar.
 
-Iron Warriors, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir — Perturabo'nun Legion'udur. Iron Warriors, İmparatorluk'un en disiplinli ve en acımasız kuşatma ustalarıydı; Heresy sırasında Chaos'a düştüler ve İmparatorluk'un en ölümcül düşmanlarından biri haline geldiler. Iron Warriors, Terra Kuşatması sırasında İmparatorluk Sarayı'nın en zorlu kuşatmasını gerçekleştirdi; onların kuşatma taktikleri, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarının simgesidir. Iron Warriors, Chaos'un en tehlikeli ve en korkulan Legion'u olarak kalır — onların kuşatma taktikleri, İmparatorluk'un en büyük savunma zaferinin ve en büyük trajedilerinden birinin kaynağıdır.
-
-## Heresy Sonrası: Medrengard ve Warsmith'ler
-Horus'un yenilgisinin ardından Iron Warriors, Eye of Terror'a çekildi. Perturabo, Chaos tanrılarının lütfuyla Daemon Prince'liğe yükseldi ve Legion'un yeni merkezi olan Medrengard adlı daemon dünyasına yerleşti. Kaynaklar, Primarch'ın bu dünyadaki kalesinde uzun süre inzivaya çekildiğini ve Legion'un günlük işlerine nadiren karıştığını anlatır.
-
-Scouring döneminde Iron Warriors'ın Imperial Fists'e karşı kurduğu ve Iron Cage adıyla anılan tuzak, Legion'un savunma ustalığının en ünlü örneklerinden biri olarak kayıtlara geçmiştir. Bu çatışmanın ayrıntıları ve kronolojisi farklı yayınlarda farklı ağırlıklarla aktarılır.
-
-Legion bugün Warsmith adı verilen komutanların yönettiği büyük kuvvetlere bölünmüştür. Her Warsmith kendi kalesine, esir işgücüne ve kuşatma makinelerine sahiptir; aralarındaki rekabet çoğu zaman açık düşmanlığa varır. Iron Warriors, Dark Mechanicum ile yakın ilişkileri sayesinde daemon engine'ler ve kuşatma araçları üretir. Chaos'a yaklaşımları çoğunlukla pragmatiktir: tanrılara tapınmaktan çok onların sunduğu güçten yararlanmayı seçerler.
-
-## Önemli Figürler ve Güncel Durum
-**Perturabo:** Lord of Iron olarak anılır; Medrengard'daki Daemon Prince. Forgebreaker adlı çekici ve kendi elleriyle tasarladığı zırh ve makinelerle bilinir.
-
-**Honsou:** Graham McNeill'in *Storm of Iron* romanında Hydra Cordatus kuşatmasına katılan, soyunda başka bir Legion'un gene-seed'i bulunduğu için "yarı-kan" diye küçümsenen Iron Warrior. Roman, Imperial bir citadel'de saklanan gene-seed stoklarını hedefleyen kuşatmayı ve Honsou'nun sonunda bir Warsmith olarak yükselişini anlatır. McNeill'in Ultramarines serisi, onun Uriel Ventris ile süren kişisel düşmanlığını işler.
-
-**Forrix ve Kroeger:** *Storm of Iron*'da Warsmith'in maiyetinde öne çıkan kıdemli Iron Warriors; Heresy dönemi eserlerinde de Legion'un üst komuta kademesinde yer alırlar. Astartes'in uzun ömrü, aynı isimlerin iki dönemde de görünmesini mümkün kılar.
-
-Great Rift sonrası dönemde Iron Warriors, istilaların ve uzun kuşatmaların vazgeçilmez uzmanları olmaya devam eder. Imperium'un savunma hatlarının Warp fırtınalarıyla parçalanması, kale düşürmeye adanmış bu Legion için bol hedef yaratmıştır. Güncel anlatıda Perturabo'nun doğrudan bir sefere liderlik ettiğine dair belirgin bir yayın anlatısı bulunmamaktadır; Legion'un faaliyeti büyük ölçüde Warsmith'ler üzerinden aktarılır.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Iron Warriors, Chaos'a hiç tapmayan tamamen seküler bir Legion'dur.
-**Kanon:** Pragmatik tutumları öne çıkar, ancak Perturabo bir Daemon Prince'tir ve Legion daemon engine'lerden, daemonik güçlerden düzenli olarak yararlanır. Bazı warband'ler açık tanrı bağlılığı da taşıyabilir.
-
-**Yanılgı:** Perturabo yalnızca soğuk bir mühendistir.
-**Kanon:** Heresy yayınları onu sanat, felsefe ve bilime tutkun, ancak takdir göremediği inancıyla içten içe kemirilmiş karmaşık bir figür olarak çizer.
-
-**Yanılgı:** Iron Warriors ile Imperial Fists'in rekabeti yalnızca bir kuşatma meselesidir.
-**Kanon:** Rekabet teknik olduğu kadar kişiseldir; Perturabo'nun Dorn'a duyduğu kıskançlık, Heresy anlatılarının merkezî motiflerinden biridir.
-
-## Yayın ve Retcon Notu
-Iron Warriors, *Realm of Chaos* dönemindeki Chaos kaynaklarında tanıtıldı; Index Astartes makaleleri Olympia ve decimation anlatısını belirginleştirdi. *Storm of Iron* Legion'un 40K kimliğini, Horus Heresy serisi ise Perturabo'nun trajik portresini şekillendirdi.
-
-**Kaynaklar:** *Storm of Iron — Graham McNeill*; *Angel Exterminatus — Graham McNeill*; *Perturabo: The Hammer of Olympia — Guy Haley*; *The Crimson Fist — John French*; *Codex: Chaos Space Marines — 10th Edition*
-**Çapraz:** <#1551636479925559479>, <#1551813750305198101>, <#1551650329156788287>, <#1551814951365115956>, <#1551812225570836561>, <#1551809168032268310>, <#1551813775848509482>, <#1551816158951510069>
-
-​
+-# Kaynaklar: *Storm of Iron* — Graham McNeill; *The Iron Without* — John French; *Angel Exterminatus* — Graham McNeill; *Perturabo: The Hammer of Olympia* — Guy Haley; *Codex: Chaos Space Marines*; *Eye of Terror* kampanya kitabı (2026); Warhammer Community (Mart 2026); Lexicanum

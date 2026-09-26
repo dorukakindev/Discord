@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/e/ef/NM_Colours.jpg/revision/latest?cb=20160525015945
-
 -# THE IMPERIAL ARCHIVE
 # Novamarines
 

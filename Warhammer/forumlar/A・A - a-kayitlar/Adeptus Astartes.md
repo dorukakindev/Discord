@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/4b/AstartesMap.jpg/revision/latest/scale-to-width-down/1000?cb=20170518033607
-
 -# THE IMPERIAL ARCHIVE
 # Adeptus Astartes
 

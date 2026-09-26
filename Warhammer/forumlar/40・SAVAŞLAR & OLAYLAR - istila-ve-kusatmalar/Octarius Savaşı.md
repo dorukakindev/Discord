@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/0/0e/Collegia_Titanica_War_Glyph.jpg/revision/latest?cb=20120814182835
-
 -# THE IMPERIAL ARCHIVE · Istila ve Kusatmalar · Kayıt
 # Octarius Savaşı
 *The Octarius War*

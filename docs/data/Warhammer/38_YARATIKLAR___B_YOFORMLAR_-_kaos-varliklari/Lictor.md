@@ -13,10 +13,8 @@ Rengini ve dokusunu çevresine uyduran pullarıyla neredeyse görünmez hâle ge
 - **Önemli Olaylar:** Tek bir olaya bağlanmaz; pek çok istilanın başlangıcında görülür.
 - **Kanon Notu:** Lictor'un anı yoluyla bilgi toplamasının mekanizması yalnızca genel çizgilerle anlatılır.
 
-## Tarihçe
+## Görünmez Avcı
+Lictor — Tyranid'in 'stealth' bioformudur; kamuflaj ve iz sürme uzmanı. Feeder tendrils'la kurbanın beyinini okur ve Hive Mind'a konum bilgisi gönderir — 'önce gören göz'dür. 'Deathleaper' en ünlü Lictor'dur; Imperium kayıtlarında 'görünmez ölüm' olarak geçer.
 
-Lictor, Tyranid'in en gizli ve en sinsi avcısıdır; bir gezegenin savunmasını araştıran ve Tyranid ordusunun gelişini hazırlayan en sinsi organizma olan Lictor, Tyranid'in en gizli ve en sinsi silahıdır — onlar, Tyranid'in en gizli ve en sinsi avcısıdır. Lictor'un en büyük özelliği, onun sinsiliğidir — onlar, bir gezegenin savunmasını araştıran ve Tyranid ordusunun gelişini hazırlayan en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Lictor, hem bir organizma hem de bir keşif aracıdır ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Lictor'un en ünlü özelliği, onun gizliliğidir — onlar, bir gezegenin savunmasını görünmez olarak araştıran en sinsi organizmadır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır. Lictor, Tyranid'in en gizli ve en sinsi avcısıdır — onlar, bir keşif aracının ve Tyranid'in en sinsi gücünün somut halidir.
-
-## Teknik / Biyolojik Özellikler
-
-Bukalemunu andıran pullar; dev pençeler ve kurbanı yakalayan kancalar; kurbanın beyin dokusunu tüketip anılarından bilgi edi
+## Kaynaklar
+-# Kaynaklar: *Codex: Tyranids*; Lexicanum

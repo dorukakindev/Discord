@@ -12,9 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/44/Venomcrawler.jpg/revi
 - **Köken:** Warp forge
 - **Önemli Olaylar:** Chaos seferleri
 
-## Tarihçe
+## Zehirli Tırtıl
+Venomcrawler — Chaos'un 'daemon engine' araçlarından biridir; 'artileri' olarak bilinen ve Daemon-forge'da üretilen mekanik canavar. 'Excruciator Cannon'larıyla 'zehir' saçar ve düşmanı 'içten çürütür'. 'Forge of Souls' ürünüdür — Daemon'un ve makinenin birleşimi.
 
-Venomcrawler, Heretic Astartes warband'lerinin — özellikle Daemonkin denen daemon-possessed Chaos Space Marines'lerin — sahaya sürdüğü bir Chaos Daemon Engine'idir. Bıçaklı uzuvları üzerinde ilerleyen bu korku, metal, et ve daemonik varlıkların grotesk alaşımıdır; tıslayarak ve hırlayarak avına doğru sürünür, ağzından sarkan etli diller ve Soulflayer dokunaçları düşmanın korkusunu tadına bakmak için havayı yalar. Hedefi kilitlediğinde, içindeki daemonik güç et ve çeliği birbirinden ayırmadan parçalar. Daemon ruhu makineye bağlanmış olduğundan yok edilmesi son derece zordur.
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877587200479263>

@@ -13,6 +13,8 @@ Grey Knights'ın Supreme Grand Master'ı. Anlatıya göre bir daemonla yüzleşm
 - **Bilinen Kullanıcılar / Operatörler:** Grey Knights; Chapter'ın Brotherhood'ları. Hasımları daemonlar ve Chaos'un Warp varlıklarıdır.
 - **Önemli Olaylar:** Warp'a bağlanışı; Mortarion ile ilgili iddia.
 
-## Tarihçe
+## Warp'in Damarlarında
+Kaldor Draigo, Grey Knights'ın Supreme Grand Master'ı ve Warp'in içinde sıkışıp kalmış en efsanevi figür; M'kar the Reborn'u bir daha dönemeyeceği kadar parçalayarak Daemon World'e çekildi ve oradan çıkamadı — yüzyıllardır Warp'te yürür, daemon ordularını tek başına keser, ara sıra gerçek uzaya 'sızar' ve savaşa katılır. Grey Knights'ın en umut verici ve en trajik figürüdür: ırkının en iyisi, sonsuz savaşa mahkûm.
 
-Kaldor Draigo, Grey Knights'ın Supreme Grand Master'ı ve İmparatorluk'un en güçlü psyker'larından biridir — daemon'larla savaşan en güçlü figürdür. Draigo, Grey Knights'ın en güçlü ve en deneyimli figürüdür; onun psyker gücü ve savaş yetenekleri, İmparatorluk'un en önemli ve en güçlü güçlerinden biridir. Draigo, İmparatorluk'un en güçlü ve en efsanevi psyker'ı olarak kalır — onun varlığı, İmparatorluk'un Chaos'a karşı mücadelesinin en kritik aracıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Grey Knights*; *The Emperor's Gift* — Aaron Dembski-Bowden; *Pandorax* kampanya kitabı; Lexicanum

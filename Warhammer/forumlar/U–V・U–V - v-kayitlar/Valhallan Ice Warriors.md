@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/ad/Valhallans.jpg/revision/latest?cb=20110804010323
-
 -# THE IMPERIAL ARCHIVE · V Kayıtları
 # Valhallan Ice Warriors
 

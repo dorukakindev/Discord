@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/7/76/ShatteredLegionsCover.jpg/revision/latest?cb=20170107125758
+
 -# THE IMPERIAL ARCHIVE · Horus Heresy Serisi · Kayıt
 # Meduson
 

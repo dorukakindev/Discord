@@ -14,6 +14,11 @@ Word Bearers'ın en eski ve en dogmatik figürü. Lorgar'ın inanç arayışın�
 - **Önemli Olaylar:** Lorgar'ın yetiştirilmesi; Monarchia sonrası dönüş; Calth.
 - **Kanon Notu:** Heresy sonrası 40K'daki etkinliği kaynaklarda sınırlı biçimde işlenir; ayrıntılar netleşmemiştir.
 
-## Tarihçe
+## Kara Kardinal
+Kor Phaeron, Lorgar'ın Colchis'teki eski dini hocası ve Word Bearers'ın 'karanlık vicdanı'dır; Primarch'a Chaos'un gerçek olduğunu öğreten ilk adam. İmparator'un Monarchia'daki küçük düşürmesinden sonra Lorgar'ı 'doğru tanrılara' yönlendiren kişi; Guilliman'la kişisel savaşı Calth'ta başladı. Cyberteknik bedeninin yarısı Chaos'un hediyesidir — büyücü olduğu kadar vaizdir.
 
-Kor Phaeron, Word Bearers'ın en tehlikeli ve en korkulan figürlerinden biridir — Lorgar'ın manevi babası ve Word Bearers'ın en önemli Chaos rahibidir. Kor Phaeron, Lorgar'ı Chaos'a yönlendiren ve Word Bearers'ın Chaos'a düşmesinin en önemli sebebidir; onun etkisi, Horus Heresy'nin en önemli sebeplerinden biridir. Kor Phaeron, Word Bearers'ın en tehlikeli ve en korkulan figürlerinden biridir; onun etkisi, İmparatorluk'un en büyük trajedilerinin ve Chaos'un en büyük zaferlerinin kaynağıdır. Kor Phaeron, Word Bearers'ın en tehlikeli ve en korkulan figürü olarak kalır — onun etkisi, İmparatorluk'un en büyük trajedilerinin kaynağıdır.
+## Calth
+Kor Phaeron'un en bilinen eylemi Calth Savaşı'dır: Ultramarines'a ihanet baskını, sözel büyülerle dünyayı kırma girişimi. Guilliman onu kişisel olarak yendi ama öldüremedi; Kor Phaeron sonradan Word Bearers'ın en kudretli büyücüsü oldu ve Sicarus'ta Dark Council'de yeri var.
+
+## Kaynaklar
+-# Kaynaklar: *The First Heretic*, *Know No Fear* (HH); *The Horus Heresy: Betrayal*; Lexicanum

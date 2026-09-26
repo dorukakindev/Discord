@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/9/9d/Aetanos%27rau%27keres2.jpg/revision/latest?cb=20120117234716
-
 -# THE IMPERIAL ARCHIVE · A KAYITLARI · Kayıt
 
 # Aetaos'rau'keres2

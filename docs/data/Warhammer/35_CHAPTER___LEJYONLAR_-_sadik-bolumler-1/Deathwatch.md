@@ -7,9 +7,12 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7c/DeathwatchBadge.jpg/r
 
 Inquisition'ın xenos avcısı kolu; farklı chapter'lardan seçkin Marine'lerin oluşturduğu karma birlik.
 
-## Tarihçe
-Deathwatch, geleneksel anlamda tek bir chapter değildir; Ordo Xenos Inquisition'ına hizmet eden, çeşitli chapter'lardan ödünç verilen seçkin veteranların oluşturduğu karma bir avcı birliğidir (chamber militant). Üyeleri, "Uzun Nöbet" (Long Watch) denen bir görev süresi boyunca kendi chapter'larından ayrılıp Deathwatch'a katılır.
+## Uzun Nöbet
+Deathwatch — 'Ordo Xenos'un askeri kolu' olarak bilinen ve xeno-avcılığında uzmanlaşmış Space Marine birimidir; her Chapter'ın 'en iyi'lerinden seçilir. 'Black Shield' ve 'Kill Team' operasyonlarıyla bilinirler — Imperium'un 'görünmeyen savaşçı'sıdır. 'Long Watch'un nöbetçileri — onların savaşı 'sessiz'dir ama 'sonsuz'dur.
 
-Tek bir uzmanlık alanları vardır: xenos (yabancı tür) avı. Ork'tan Tyranid'e, Aeldari'den Necron'a kadar galaksinin tüm yabancı tehditlerini inceler, izler ve yok ederler; her biri belirli xeno türleri hakkında derin bilgiye sahiptir. Hellfire (Tyranid'e karşı asit) ve Kraken (zırh delici) gibi özel mühimmatları, farklı düşmanlara göre kullanırlar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Deathwatch*; *Deathwatch* RPG; *Kill Team*; Lexicanum
+
+-# Kaynaklar: *Codex: Deathwatch*; *Deathwatch* — Steve Parker; *Xenos* (Eisenhorn, Deathwatch teması); Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

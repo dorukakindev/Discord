@@ -12,6 +12,8 @@ Henüz gençken İmparator'un bir vizyonuyla esinlendi ve bu ilahi çağrıyı i
 
 Sabbat'ın haçlı seferi tam 105 Terran yılı sürdü; bu süre boyunca yüzlerce dünyayı Kaos'un kucağından söküp aldı ve İmparatorluk İnancı'nın sancağını galaksinin o uzak köşesine dikti. Onun askeri dehası ve ilahi karizması, yorgun İmparatorluk ordularını aşılmaz görünen düşmanlara karşı zafere taşıdı.
 
-## Tarihçe
+## Aya İnen Azize
+Saint Sabbat — 'Beati' — Sabbat Worlds'ün İmparator kültündeki azizesidir; Imperium'un 'yaşayan aziz' figürlerinin başlangıcı olarak bilinir. Sabbat'ın 'reenkarnasyonu' söylencesi (Gaunt's Ghosts'un merkezi teması) onun 'savaş sırasında geri dönen' figür olmasını sağlar — Herodor'da 'yalancı' olarak ortaya çıkan ama sonunda Imperium moralini dirilten figür.
 
-Saint Sabbat, İmparatorluk'un en kutsal ve en efsanevi figürlerinden biridir — Sabbat Dünyaları'nın azizi ve İmparatorluk'un en önemli azizlerinden biridir. Sabbat, İmparatorluk'un en kutsal ve en efsanevi figürlerinden biridir; onun varlığı, Sabbat Dünyaları Haçlı Seferi'nin ve İmparatorluk'un en önemli savaşlarının simgesidir. Saint Sabbat, İmparatorluk'un en kutsal ve en efsanevi figürü olarak kalır — onun varlığı, Sabbat Dünyaları'nın ve İmparatorluk'un en önemli savaşlarının simgesidir.
+## Kaynaklar
+-# Kaynaklar: *Gaunt's Ghosts* serisi — Dan Abnett (özellikle *Sabbat Martyr*); *Sabbat Worlds* antolojisi; Lexicanum

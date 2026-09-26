@@ -10,8 +10,10 @@ Nova Terra Interregnum ("İkiz İmparatorluklar Çağı"), M34'ün ortalarından
 
 Kriz, 104.M35'te Nova Terra'nın yönetici organı olan Ur-Konsey'in, Terra'nın Yüksek Lordları'nın otoritesini açıkça reddetmesiyle patladı; Ur-Konsey, tüm Segmentum Pacificus üzerinde egemenlik iddia ederek İmparatorluk'tan ayrıldı. Böylece İmparatorluk, biri Terra'da, diğeri Nova Terra'da olmak üzere fiilen iki rakip merkeze bölündü; bu yüzden döneme "İkiz İmparatorluklar Çağı" denir.
 
-## Tarihçe
+## İkinci Kuruluş
+Nova Terra Interregnum (975.M37) — Imperium'un 'çift başkanlık' dönemidir; High Lords'dan bir grup Nova Terra'da 'ikinci İmparator' kurdu ve Imperium iki yüz yıl bölündü. 'Nova Terra' bu dönemin kalbidir — 'Ur-Council of Nova Terra' sonunda bastırıldı ama Imperium'un 'hükümet'in kendisine bile güvenmediği kanıtlandı.
 
-Nova Terra Interregnum, İmparatorluk'un en büyük yönetim krizi olarak tarihe geçti. Bu dönem, İmparatorluk'un iki rakip yönetim arasında bölünmesini içeriyordu; Nova Terra Interregnum sırasında İmparatorluk, kendi içindeki en büyük bölünmeyi yaşadı. Dönem, İmparatorluk'un iki yönetiminin birleşmesiyle sonuçlandı; ancak verilen zayiat ve yaşanan çatışma, bu dönemin İmparatorluk tarihindeki en trajik sayfalardan biri olmasına neden oldu. Nova Terra Interregnum, İmparatorluk'un en büyük trajedisinin kendi içindeki bölünmeler olduğunu gösteren en çarpıcı örnektir.
+## Kaynaklar
+-# Kaynaklar: *Warhammer 40,000 Rulebook*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

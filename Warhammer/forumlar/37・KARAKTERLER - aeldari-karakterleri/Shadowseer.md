@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/90/Harlequin_Shadowseer2
 - **Köken:** Masques
 - **Önemli Olaylar:** Webway operasyonları; psişik illüzyon
 
-## Tarihçe
+## Sis Dansçısı
+Shadowseer — Harlequin kültürünün psyker figürüdür; 'Great Masque' gösterisinin 'görünmez' aktörü ve sahadaki Harlequin masque'lerin psişik desteğidir. 'Hallucinogen' grenade'leri ve 'veil of illusion' güçleriyle savaşır — düşman gördüğü şeyin gerçek olmadığından emin olamaz. Solitaire'den sonraki en kritik Harlequin figürüdür.
 
-Shadowseer, Harlequin'lerin en gizli ve en ölümcül figürlerinden biridir — Harlequin'lerin psyker'ı ve en tehlikeli figürüdür. Shadowseer, Harlequin'lerin en gizli ve en ölümcül figürüdür; onun psyker güçleri ve gizli operasyonları, Harlequin'lerin en önemli ve en ölümcül güçlerinin simgesidir. Shadowseer, Harlequin'lerin en gizli ve en ölümcül figürü olarak kalır — onun güçleri, Harlequin'lerin en önemli ve en ölümcül güçlerinin simgesidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Harlequins*; Lexicanum
 
 -# Kaynaklar: *Harlequins Codex*

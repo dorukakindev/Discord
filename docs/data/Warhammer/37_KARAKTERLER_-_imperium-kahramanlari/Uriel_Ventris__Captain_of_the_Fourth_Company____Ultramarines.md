@@ -14,6 +14,11 @@ Graham McNeill'in Ultramarines romanlarının merkezindeki kaptan. Codex Astarte
 - **Önemli Olaylar:** Pavonis; Tarsis Ultra; Death Oath ve Medrengard sürgünü; Ultramar'ın savunması.
 - **Kanon Notu:** Romanlardaki ayrıntılar Codex metinlerinden çok daha geniştir; Primaris dönüşümünün koşulları romanlarda anlatılmaz.
 
-## Tarihçe
+## İhanetin Sağ Kolu
+Uriel Ventris, Ultramarines 4th Company'nin eski kaptanı ve en tartışmalı kahramanıdır; Tarsis Ultra'da 'Codex Astartes'i ihlal edip Deathwatch izniyle savaşmasından sonra sürgün edildi ve 'oath of moment' ile geri çağrıldı. Ventris'in hikâyesi Ultramarines'in en içsel çatışmasıdır: kural mı gerekli mi?
 
-Uriel Ventris, Ultramarines'in Dördüncü Şirket Kaptanı ve İmparatorluk'un en ünlü kaptanlarından biridir — Graham McNeill'in romanlarının kahramanıdır. Ventris, Ultramarines'in en ünlü ve en deneyimli kaptanlarından biridir; onun hikâyesi, İmparatorluk'un en ünlü Space Marine hikâyelerinden biridir. Uriel Ventris, Ultramarines'in en ünlü ve en deneyimli kaptanlarından biri olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü Space Marine hikâyelerinden biridir.
+## Iron Warriors Savaşı
+Ventris'in en büyük operasyonu Medrengard'a yapılan intihar gibi görevdir — Daemonculaba'yı yok etmek ve Honsou'yu durdurmak için Iron Warriors'ın kalesine girdi. Sonraki kayıtları Ordo Xenos ve Inquisition ile yakın çalışmayı içerir; Imperium'un 'kural dışı' Space Marine'inin prototipidir.
+
+## Kaynaklar
+-# Kaynaklar: *Ultramarines* serisi — Graham McNeill (Nightbringer, Warriors of Ultramar, Dead Sky Black Sun vb.); Lexicanum

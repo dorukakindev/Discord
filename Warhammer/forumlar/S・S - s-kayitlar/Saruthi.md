@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/6/6e/Ransacking_the_dig_by_columbussage.jpg/revision/latest?cb=20130328220750
-
 -# THE IMPERIAL ARCHIVE · S Kayıtları · Kayıt
 
 # Saruthi

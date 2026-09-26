@@ -7,11 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2c/Angles_Abolustion_Arm
 
 Dark Angels'ın İkinci Kuruluş halefi; günahlarının Caliban'ın Düşüşü'nde silindiğine inanan, "Unforgiven" adını reddeden kemik-beyazı chapter.
 
-## Tarihçe
-Angels of Absolution (Kefaret Melekleri), Dark Angels'ın (Lion El'Jonson) İkinci Kuruluş halef chapter'ıdır. Diğer tüm Dark Angels haleflerinden ayrıldıkları kritik bir nokta vardır: İmparator'un gözündeki utançlarının çoktan silindiğine ve O'nun affını (absolution) kazandıklarına inanırlar. Bu inanç o kadar köklüdür ki, kendileri için "Unforgiven" (Affedilmeyenler) terimini kullanmayı reddederler.
+## Bağışlananlar
+Angels of Absolution, Dark Angels'ın successor'ı ve 'Unforgiven' topluluğunun üyesidir; kendi 'Inner Circle'ları vardır ve Fallen avına katılırlar — ama Dark Angels'tan farklı olarak kendilerini 'bağışlanmış' sayarlar: Fallen'ları yok etmek değil, onlara tövbe imkânı vermek onların doktrinidir. Beyaz-yeşil zırhlarıyla tanınırlar.
 
-Angels of Absolution, Dark Angels'ın Second Founding oğullarından biridir ve 'Unforgiven' ailesinin en gizemli üyelerinden biridir. Chapter, The Fallen'ın peşindeki gizli savaşı tam ortasında yaşar — kardeşleri düşmüşlerin izini sürerken, Absolution'un amiral gemileri bilinmeyen koordinatlarda kaybolur.
+## Fark
+Angels of Absolution'un yaklaşımı canon'da 'merhamet' temasını taşır — Dark Angels'ın 'sonsuz suçluluk' yerine onlar 'telafi' arar. Unforgiven içinde en 'yumuşak' ses olarak bilinirler ama savaşta aynı sertliktedirler.
 
-Chapter'ın öğretisi Dark Angels'tan farklıdır: Absolution, 'affedilemezlik' yerine 'yakalama ve muhakeme' doktrini benimser; düşmüş kardeşleri yok etmekten çok, onları adalete teslim etmeyi hedefler. Antioch dünyasından gelen bu bölüm, Caliban'ın parçalanmasının doğurduğu tüm kardeş bölümler gibi İç Çember'in karanlık sırlarını paylaşır ve Luthor'un mirasının devam eden gölgesiyle yaşar.
+## Kaynaklar
+-# Kaynaklar: *Codex: Dark Angels*; *Angels of Absolution* lore parçaları; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

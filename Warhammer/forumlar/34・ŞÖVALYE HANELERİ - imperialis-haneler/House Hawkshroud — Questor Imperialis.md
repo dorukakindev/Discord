@@ -14,9 +14,11 @@ Yeminlerine bağlılığı Hane kimliğinin temeli sayan Imperialis Hanesidir. H
 - **Önemli Olaylar:** Krastellan'ın savunmaları; yemin borçları nedeniyle galaksiye dağılan seferler.
 - **Kanon Notu:** Hanenin teknolojiye mesafeli yaşam tarzı ve tekil seferleri kaynaklarda farklı ayrıntı düzeyinde işlenir.
 
-## Tarihçe
+## Şahin
+House Hawkshroud — 'Yellow clad' Knight hanesi; Krieg'teki görevleri ve 'honour above all' koduyla bilinir. Indomitus Crusade'de aktif rol aldılar ve 'Şahin'in kanatları' olarak anılırlar. Onların kurallarında Knight'ın savaşırken bile 'soylu' kalması şarttır — düşmana bile merhamet kavramı vardır.
 
-House Hawkshroud, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biridir — Questor Imperialis hanesi olarak İmparatorluk'a doğrudan bağlıdır. Hawkshroud'un Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Hawkshroud — Questor Imperialis, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Imperial Knights*; Lexicanum
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

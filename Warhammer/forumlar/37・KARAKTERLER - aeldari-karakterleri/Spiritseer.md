@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/IyannaArienal.jpg/rev
 - **Köken:** Craftworld'ler
 - **Önemli Olaylar:** Wraith orduları seferleri
 
-## Tarihçe
+## Ölülerle Konuşan
+Spiritseer — Eldar'ın 'ölülerle iletişim kuran' psyker sınıfıdır; Infinity Circuit'e ve soulstone'lara dokunan figür. Wraith-constructs'ları (Wraithguard, Wraithlord) sahada yönlendirir — onlar 'ölülerin sesi'dir. Iyanden'de en yoğun bulunur çünkü orada yaşayan Eldar az, ölü çoktur.
 
-Spiritseer, Aeldari'nin en gizli ve en ölümcül figürlerinden biridir — ölülerle iletişim kuran ve wraith construct'ları yöneten figürlerdir. Spiritseer'lar, Aeldari'nin en gizli ve en ölümcül figürleridir; onların wraith construct'ları yönetme yeteneği, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır. Spiritseer, Aeldari'nin en gizli ve en ölümcül figürlerinden biridir; bu figürler, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Ghost Warrior*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

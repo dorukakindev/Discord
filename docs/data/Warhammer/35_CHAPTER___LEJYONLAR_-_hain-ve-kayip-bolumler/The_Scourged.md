@@ -12,9 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Scourged_SP.png/revis
 - **Köken:** Bilinmeyen kök
 - **Önemli Olaylar:** 'Yalan arayan' savaşlar
 
-## Tarihçe
+## Lanetliler
+The Scourged — 'Scourged' — Chaos'un en talihsiz warband'ıdır: Tzeentch'in onlara 'yalan söyleme yeteneği' hediye ettiği ama aynı zamanda 'her şeyi bilme' laneti verdiği grup. Her gerçeği duyarlar — ama kimse onlara inanmaz. 'Truth-tellers' olarak bilinir ama Imperium onları avlar çünkü onlar hâlâ Chaos'a bağlıdır.
 
-The Scourged, Chaos'un en gizli ve en tehlikeli warband'lerinden biridir — gizli bir Chaos warband'idir. The Scourged, Chaos'un en gizli ve en tehlikeli warband'lerinden biridir; onların gizli operasyonları, Chaos'un en önemli ve en tehlikeli güçlerinin kaynağıdır. The Scourged, Chaos'un en gizli ve en tehlikeli warband'i olarak kalır — onların operasyonları, İmparatorluk'un en gizli ve en tehlikeli düşmanlarının kaynağıdır.
-
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: *Chaos Space Marines Codex*

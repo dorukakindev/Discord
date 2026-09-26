@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a5/Drazhar2.jpg/revision/latest?cb=20240718141602
-
 -# THE IMPERIAL ARCHIVE
 # Drazhar
 

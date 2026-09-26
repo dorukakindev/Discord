@@ -10,11 +10,11 @@ Carcharodon'ların Chapter Master'ı — 'Kızıl Dalga'. İki dev açgözlü pe
 - **Dönem:** M41
 - **Köken:** Carcharodons Astra
 
-## Tarihçe
-Carcharodon'ların uzun sürgün ve 'Void Born' karanlık doktrinini temsil eder. Badab Savaşı'nda sessizce inip Mantis Warriors'ın savunmasını parçaladı; savaş alanından sonra hiçbir kanıt bırakmadan ayrıldı. Chapter'ın 'köpekbalığı' doğası onun bedeninde somutlaşır.
+## Köpekbalığı
+Tyberos — 'Red Wake' — Carcharodons'un Chapter Master'ı; iki devasa 'hunger' ve 'slake' lightning claw'larıyla savaşan, Terminator zırhlı devasa figür. Chapter'ın 'sessiz avcı' doktrininin en uç örneğidir — Badab War'da Mantis Warriors'ı tek başına neredeyse durdurduğu söylenir. Tyberos'un varlığı bile 'kanıtlanmamış' olarak geçer — kayıtlarda ondan bahseden Imperium belgesi neredeyse yoktur.
 
-## Özellikler
-İki eşsiz lightning claw (Hunger ve Slake), muazzam fiziksel güç, sessiz komuta; Carcharodon'ların 'yanıtı konuşmak değil eylem' doktrinidir.
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 10; *Red Tithe*; *Carcharodons* lore parçaları; Lexicanum
 
 -# Kaynaklar: Codex: Carcharodons, Badab War
 

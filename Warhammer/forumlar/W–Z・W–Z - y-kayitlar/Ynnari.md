@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/7/74/YnnariRune.png/revision/latest?cb=20230501133930
-
 -# THE IMPERIAL ARCHIVE
 # Ynnari
 

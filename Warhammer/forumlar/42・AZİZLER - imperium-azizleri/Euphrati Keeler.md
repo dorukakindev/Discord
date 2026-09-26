@@ -14,6 +14,11 @@ Imperial Truth'un tanrıları reddettiği bir çağda Emperor'a iman etmeye baş
 - **Önemli Olaylar:** 63rd Expedition; *Eisenstein*'ın kaçışı.
 - **Kanon Notu:** Keeler'in azizliği sonraki Imperial dinî geleneğin hükmüdür; Heresy çağında o, resmî Imperial Truth'a aykırı bir inancın temsilcisiydi.
 
-## Tarihçe
+## İlk Azize
+Euphrati Keeler — 'Saint Euphrati' — İmparatorluk'un ilk 'yaşayan azizesi' ve İmparator kültünün en eski tohumudur; Heresy'de Remembrancer (sanatçı-gazeteci) olarak başladı, sonra 'İmparator'un ışığını gördüğüne' inanılan figür oldu. Isstvan III'ün savuşmasında daemonları dönüştürdüğü söylenir — Imperium'un 'din yasak ama din doğuyor' çelişkisinin ilk kanıtıdır.
 
-Euphrati Keeler, İmparatorluk'un en önemli ve en gizli figürlerinden biridir — Heresy sırasında İmparator'a ibadet etmeye başlayan ilk figürlerden biridir. Keeler, İmparatorluk'un en önemli ve en gizli figürlerinden biridir; onun inancı, İmparatorluk dininin başlangıcının ve İmparator'un tanrılaştırılmasının simgesidir. Euphrati Keeler, İmparatorluk'un en önemli ve en gizli figürü olarak kalır — onun inancı, İmparatorluk dininin başlangıcının ve İmparator'un tanrılaştırılmasının simgesidir.
+## Kültün Başlangıcı
+Keeler'in önemi tarihseldir: Imperial Truth (sekülerlik) resmi politika iken onun çevresinde doğan inanç, sonradan Ecclesiarchy'nin kökeni oldu. 'Lectitio Divinitatus' akımının (İmparator'u tanrı sayan ilk örgüt) manevi merkezi olarak sayılır — Imperium'un kendi dinini doğurmasının ilk kıvılcımı.
+
+## Kaynaklar
+-# Kaynaklar: *Horus Rising*, *False Gods* (HH); *The Solar War* (SoT); *Vengeful Spirit* (yan); Lexicanum

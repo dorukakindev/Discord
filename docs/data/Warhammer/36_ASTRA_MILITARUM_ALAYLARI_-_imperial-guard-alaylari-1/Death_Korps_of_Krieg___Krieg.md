@@ -14,10 +14,10 @@ Kefaret ve fedakârlığı savaş anlayışının merkezine koyan, kendi hayatla
 - **Önemli Olaylar:** Krieg'in bombardımanı ve iç savaşı (M40); Siege of Vraks (813–830.M41).
 - **Kanon Notu:** Vraks kuşatmasındaki kayıp rakamları ve alay sayıları esas olarak Imperial Armour kitaplarına dayanır; bu kayda alınmamıştır.
 
-## Tarihçe
+## Ölüm Alayı
+Death Korps of Krieg — Astra Militarum'un 'ölüm kültü' alayıdır; Krieg'in atom savaşı sonrası 'ölümcül pişmanlık' kültürü her askeri 'zaten ölü' yapar — kendi hayatını 'telafi' olarak görürler. Gas maskeleri, trench-coat ve 'atların bile kalabalık' olduğu kuşatma taktikleriyle tanınırlar. Vraks'taki kuşatma onların destanıdır — en uzun ve en kanlı Imperium operasyonu.
 
-Death Korps of Krieg, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biridir — Krieg gezegeninin ölüm kültüyle yetişmiş askerlerdir. Krieg, İmparatorluk'a ihanet ettiği için İmparatorluk tarafından yok edilmiş bir gezegendir; hayatta kalanlar, İmparator'a olan borçlarını ödemek için sürekli savaşır ve ölür. Death Korps, siper savaşı ve kuşatma savaşlarında efsanevidir; alaylar, ölümü umursamayan ve hiçbir koşulda geri çekilmeyen birlikler olarak bilinir. Alaylar, İmparatorluk Muhafızı'nın en trajik ve en sadık alaylarından biri olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Imperial Armour* (Vraks serisi); *Death Korps* lore; Lexicanum
 
 -# Kaynaklar: *Imperial Armour Volume Five – The Siege of Vraks Part One*; *Dead Men Walking — Steve Lyons*; *Krieg — Steve Lyons*
-
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551812165172994160>, <#1551812353157365862>, <#1551815439078658154>

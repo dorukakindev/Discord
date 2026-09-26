@@ -10,11 +10,14 @@ Raven Guard'ın yaşayan efsanesi — 'Gölge Şirket' komutanı. Sayısız kez 
 - **Dönem:** M41–M42
 - **Köken:** Deliverance (Raven Guard)
 
-## Tarihçe
-3. Bölük Shadow Captain'ı olarak gölge savaşı ve pusu doktrininin üstadıdır. Prefecta seferi ve Xis baskınlarında 'ölümden dönüş' efsaneleri doğdu; Chapter'ın gizli Lightning Claw'ları ve sessiz yürüyüşü onun simgesidir. Chapter Master seçimi reddederek saha komutanlığını tercih etti.
+## Gölge Kaptan
+Kayvaan Shrike — 'Shadow Captain' — Raven Guard'ın 3rd Company kaptanı ve Chapter'ın en ünlü saha komutanıdır; 'Shrike' lakabı kusursuz hava saldırılarından gelir. Behind enemy lines'da aylarca kaybolup döndüğü operasyonlarıyla bilinir — Raven Guard'ın 'görünmez savaş' doktrininin canlı örneğidir. Lightning claw'ları ve jumppack'le savaşır.
 
-## Özellikler
-Çift lightning claw, jump pack, gizlilik doktrini; 'gölgeden vuruş' doktrini Raven Guard'ın özüdür.
+## Sembol
+Shrike canon'da 'Corax'ın gerçek mirası'nın temsilcisidir — sabotaj, sızma, 'görünme' savaşı. Chapter'ın 'kurtarıcı değil hayalet' imajının en iyi yüzüdür.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Raven Guard*; *Shrike* lore parçaları; Lexicanum
 
 -# Kaynaklar: Codex: Raven Guard
 

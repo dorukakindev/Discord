@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7f/Saim-Hann_Autrach.png
 - **Köken:** Craftworld'ler
 - **Önemli Olaylar:** Tüm Asuryani seferleri
 
-## Tarihçe
+## Komutan
+Autarch — Eldar'ın en yüksek saha komutanıdır; Path of the Warrior'ın zirvesi — bir Aspect'in Exarch'ı olmuş ama tekrar 'savaş' yoluna dönmüş figür. Her Aspect Shrine'ı bilir, her taktiği okur; Autarch olan Eldar 'lider' olur — ırkının askeri dehasının bedenidir. 'Path of Command' olarak da bilinir.
 
-Autarch, Aeldari'nin en önemli ve en güçlü figürlerinden biridir — Aeldari ordularının komutanlarıdır. Autarch'lar, Aeldari'nin en önemli ve en güçlü figürleridir; onların liderliği ve savaş yetenekleri, Aeldari'nin en önemli ve en güçlü savaş güçlerinin kaynağıdır. Autarch, Aeldari'nin en önemli ve en güçlü figürlerinden biridir; bu figürler, Aeldari'nin en önemli ve en güçlü savaş güçlerinin kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Path of the Warrior*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

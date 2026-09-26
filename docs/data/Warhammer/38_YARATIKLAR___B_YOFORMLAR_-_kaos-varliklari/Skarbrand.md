@@ -11,8 +11,10 @@ Skarbrand, Kan Tanrısı Khorne'un Büyük İblisi (Bloodthirster) sınıfının
 Bu ihanetin cezası olarak Khorne, Bloodthirster'ını sonsuza dek Kan Tanrısı'nın diyarından sürdü; onu Warp boyunca fırlatıp attı. Skarbrand sekiz gün sekiz gece boyunca uçtu, tanrıların diyarları boyunca alev alev bir yıkım izi bıraktı. Düşüşü devasa bir kanyon oydu ve kanatlarını paramparça etti. Sürgünündeki öfkeli yolculuğunda Slaanesh'in İlk Sarayı'nı yıktı ve Nurgle'ın büyük Poxviathan'ını öldürdü.
 
 ## Sürgün Edilmiş
-Skarbrand, Khorne'un en büyük Bloodthirster'larından biriydi — ama Tzeentch'in entrikasıyla efendisine ihanet etmeye kışkırtıldı ve bir kez sırtını kılıcıyla devirdi. Khorne'un gazabı onu paramparça etti: aklı, iradesi, adı yok edildi; geriye yalnızca saf, sebepsiz bir cinnet kaldı. Sürgün edilmiş Skarbrand şimdi amaçsızca galakside dolaşır; varışında iki ordu birbirine düşer, dost düşmanı tanımaz, kendi ordusunu bile keser. Savaş Lordu'nun tahtından düşen tek Büyük İblis'tir — ve bu yüzden en tehlikelisidir, çünkü ona hiçbir plan, hiçbir elçi, hiçbir pazarlık ulaşamaz.
+Skarbrand — 'Exiled One' — Khorne'un en güçlü Bloodthirster'ıydı, ta ki Tzeentch'in hilesiyle efendisine saldırana kadar; Khorne onu sürgün etti, ama öfkesi sönmedi — sürgün kızgınlığı onu daha da vahşi yaptı. Şimdi hiçbir ordunun parçası değil, saf yıkımın bedenidir: zincirlerinden kurtulan, 'bileti olmayan' savaşçı.
 
-## Tarihçe
+## Anlam
+Skarbrand canon'da Khorne'un kendi mantığının ürünüdür — en sadık savaşçısını bile öfkeyle cezalandıran tanrının trajedisi. Varlığı 'Chaos'un düzeni bile kaos'tur' ilkesinin kanıtıdır.
 
-Skarbrand (the Exiled One), Khorne'un en ünlü ve en vahşi Greater Daemon'ıdır; Khorne'a ihanet ettiği için sürgün edilen ve onun en acımasız savaşçısı olan Skarbrand, Chaos'un en vahşi ve en tehlikeli varlıklarından biridir — onlar, Kho
+## Kaynaklar
+-# Kaynaklar: *Codex: Chaos Daemons*; *Skarbrand* lore parçaları; Lexicanum

@@ -9,8 +9,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/b4/Torias_Telion-0.jpg/r
 - **Köken:** Macragge
 - **Önemli Olaylar:** Scout eğitimleri
 
-## Tarihçe
+## Usta İzci
+Torias Telion, Ultramarines'in Scout Company'nin başı ve 'Master of the Scouts' unvanını taşır; iki yüzyılı aşkın süredir Chapter'ın yeni nesillerini eğitir. Onun öğrettiği Scout'lar Ultramar'ın en iyi izcileri olarak bilinir — Stealth, stalking ve 'önce görme' sanatının ustası.
 
-Torias Telion, Ultramarines'in 10. (İzci) Bölüğü'nde görevli kıdemli çavuştur ve chapter'ın yaşayan en efsanevi eğitmenidir. Yüzlerce yıl boyunca sayısız izci onun elinde yetişti; komuta görevleri defalarca teklif edilmesine rağmen izci sınıfında kalmayı seçti. Saha deneyimi o kadar derindir ki Chapter Master Marneus Calgar bile onun görüşlerine başvurur. 'Telion'un okulu' Ultramar'da onur nişanı sayılır; ustalıkla nişancılık ve hayatta kalma dersleri veren 'büyük öğretmen' olarak hâlâ aktif görevdedir.
+## Değer
+Telion canon'da 'sahne arkası kahraman'ın simgesidir: savaşı kazandıran şey her zaman gösterişli kaptan değil, Telion'un yetiştirdiği izcidir. Quietus'la tanınır — 'Stalker-pattern boltgun' ile uzaktan bitirir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Ultramarines*; *Telion* lore parçaları; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

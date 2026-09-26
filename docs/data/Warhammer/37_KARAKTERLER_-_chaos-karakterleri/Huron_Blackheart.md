@@ -7,9 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Huron_Blackheart_Reve
 
 Maelstrom'dan akın düzenleyen Kaos korsanlarının lideri; canlı bir iblis-yaratık (Hamadrya) taşır.
 
-## Tarihçe
-Huron Blackheart, Maelstrom Warp anormalliğini üs alan Red Corsairs korsan imparatorluğunun "Tyrant"ıdır (zorbası); bir zamanlar sadık bir Space Marine Chapter Master'ıyken Kaos'a dönen en güçlü renegade lordlardan biridir.
+## Red Corsairs'ın Korsan Kralı
+Lufgt Huron — 'Huron Blackheart' — Badab War'ın 'Tyrant'ı ve Red Corsairs'ın lideridir; Astral Claws'un eski Chapter Master'ı. Imperium'un 'en tehlikeli iç düşmanı' olarak bilinir çünkü o hâlâ 'Space Marine' mantığıyla çalışır — kaynaklar, tedarik hatları, siyasi baskı. Chaos'a bağlıdır ama Chaos ona araçtır.
 
-Bir zamanlar Astral Claws chapter'ının Chapter Master'ı Lufgt Huron'du; Badab Savaşı'nda İmparatorluk denetimine başkaldırdı ve yıllar süren bir iç savaşa yol açtı. Yenildiğinde ölümcül yaralandı, ama ölmedi; Mechanicus tarafından kurtarıldı ve Kaos'a tam olarak döndü. Vücudunun yarısı artık biyoniktir.
+## Yükseliş ve Düşüş
+Huron'un hikâyesi Badab'dır: Imperium'un Maelstrom'u savunma görevini üstlendi ama kaynak vermedi, Huron kendi yolunu açtı ve 'Tyrant' oldu. Ağır yaralandı (vücudunun yarısı sibernetik) ama hayatta kaldı ve Maelstrom'da korsan imparatorluğu kurdu. Canon'da 'Imperium'un yarattığı düşman'ın en net örneğidir.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Codex: Chaos Space Marines*; *Badab War*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

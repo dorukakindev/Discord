@@ -12,9 +12,14 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/c5/AsterionMoloc3.jpg/re
 - **Köken:** Minotaurs Chapter
 - **Önemli Olaylar:** Badab Savaşı; Orpheus Savaşı; sektör temizleme seferleri
 
-## Tarihçe
+## Minotaurs'un Lordu
+Asterion Moloc — 'Chapter Master' — Minotaurs'un lideri ve Imperium'un en gizli Space Marine komutanıdır; Badab War'da 'separatist' chapter'ları yok eden ordunun başındaydı. 'Saturnyne' zırhı ve devasa gücüyle tanınır — canon'da 'Chapter'ın yüzü' olarak bilinir ama yüzünü neredeyse kimse görmez.
 
-Asterion Moloc, Space Marines'in en gizli ve en tehlikeli Chapter Master'larından biridir — Minotaurs Chapter'ının lideridir. Moloc, İmparatorluk'un en gizli ve en tehlikeli figürlerinden biridir; onun Chapter'ı, İmparatorluk'un en gizli ve en tehlikeli operasyonlarının en kritik aracıdır. Asterion Moloc, İmparatorluk'un en gizli ve en tehlikeli Chapter Master'ı olarak kalır — onun varlığı, İmparatorluk'un en gizli ve en tehlikeli güçlerinin simgesidir.
+## Sır
+Moloc'un gerçek kimliği ve Minotaurs'un kökeni bilinmez — en iyi teoriler arasında World Eaters veya 'Custodes-level' özel üretim var. Onun görevi 'Imperium'un Space Marine sorununu çözmek' — bu yüzden diğer chapter'lar ondan hoşlanmaz. 'Lamenters'ı neredeyse bitiren adam' olarak da bilinir.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Codex: Space Marines*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877410876129371>

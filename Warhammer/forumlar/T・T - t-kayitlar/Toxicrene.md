@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/a/a1/Tyrannofex_battle.png/revision/latest?cb=20140725230344
-
 -# THE IMPERIAL ARCHIVE · T Kayıtları · Kayıt
 
 # Toxicrene

@@ -12,18 +12,13 @@ Hiçbir büyük savaşa kehanet danışılmadan girmeyen, batıl inançlarıyla 
 - **Bilinen Kullanıcılar / Operatörler:** Silver Skulls; Chief Prognosticator Vashiro; Captain Daerys Arrun.
 - **Önemli Olaylar:** Gildar Rift; Third War for Armageddon.
 
-## Tarihçe
+## Kaderin Askerleri
+Silver Skulls, Ultramarines'in successor'ı ve 'kaderci' Chapter'dır; her savaştan önce runik kehanet okurlar ve sonuca göre hareket ederler — 'kader yazıldı' doktrini. Gildar sektöründe faaliyet gösterirler; Argentius'un komutasında Silver Skulls Imperium'un en disiplinli ve en az konuşan chapter'larındandır.
 
-Silver Skulls, Space Marines'in en gizli ve en tartışmalı Chapter'larından biridir — gene-lineage'i uzun süre belirsiz kalmış bir Chapter'dır. Silver Skulls, kehanet ve kehanet okuma geleneğiyle bilinir; Chapter'ın üyeleri, savaş öncesi kehanetleri okur ve bu kehanetlere göre hareket eder. Silver Skulls, İmparatorluk'un en gizli ve en tartışmalı Chapter'larından biri olarak kalır; Chapter, İmparatorluk'un en önemli operasyonlarında görev alır.
+## Sembol
+Silver Skulls'un gümüş zırhı ve kafatası amblemi onları tanınır kılar; 'fate' kültürü onları diğer chapter'lardan ayırır çünkü onlar kendi ölümlerini bile 'kader' olarak kabul ederler — bu onları hem cesur hem acımasız yapar.
 
-## Teknik / Biyolojik Özellikler
-
-Doktrin: kehanetle belirlenen zamanlamaya göre kararlı ve hızlı saldırı. Kültür: Chapter Master'ın Argentius adıyla anılması; güçlü düşmanların kafataslarını etinden arındırıp gümüşle kaplayarak sergileme.
-
-## Kanon Notu
-
-Gene-lineage ve Founding konusunda eski ve yeni kaynaklar aynı açıklığı taşımaz (Second Founding olasılığı anılır); ayrıntılı lore büyük ölçüde Sarah Cawkwell'in eserlerine dayanır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Silver Skulls* lore parçaları; Lexicanum
 
 -# Kaynaklar: *The Gildar Rift — Sarah Cawkwell*; *Silver Skulls: Portents — Sarah Cawkwell*; *Codex: Space Marines*
-
--# İlişkili kayıtlar: `huron-blackheart`, `psykers`, `emperors-tarot`, `armageddon`

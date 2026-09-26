@@ -13,10 +13,11 @@ Emperor'u tanrı sayan inançla savaşan, kendini bitmeyen bir haçlı seferine 
 - **Önemli Olaylar:** Eternal Crusade'in başlangıcı; Third War for Armageddon; Helsreach.
 - **Kanon Notu:** Chapter'ın Codex sınırlarını aşmış olabileceği yolundaki iddialar kaynaklarda şüphe ve söylenti düzeyinde işlenir; kesin mevcut verilmez.
 
-## Tarihçe
+## Sonsuz Haçlı
+Black Templars, Sigismund'un İkinci Kuruluş'ta kurduğu ve Imperium'un en büyük Chapter'ıdır; 'sonsuz haçlı seferi' doktriniyle sabit bir dünyası yok, sürekli savaşta. Codex Astartes'i reddederler — kendi Marshal'ları, Crusade filoları ve binlerce savaşçılarıyla (resmi sayıya uymazlar) İmparator'un en fanatik kılıcıdır. 'No pity, no remorse, no fear' onların manifestosudur.
 
-Black Templars, Imperial Fists soyu ve Second Founding'de kurulan en ünlü Space Marine Chapter'ıdır; onların savaş doktrini, Sigismund'un fanatikliğinden ve İmparator'a olan mutlak inançtan doğar — onlar, İmparatorluğun en sadık ve en acımasız savaşçılarıdır. Black Templars'ın en büyük özelliği, onların sonsuz haçlı seferi (eternal crusade) geleneğidir — onlar bir Chapter değil, bir savaş hareketidir; sürekli savaş halindedirler, sürekli yeni düşmanlar ararlar ve onların ordusu, İmparatorluğun en büyük ve en mobil Space Marine gücüdür. Black Templars'ın en ünlü sembolü, Emperor's Champion'dır — her seferde tek bir savaşçı, İmparator'un seçilmişi olarak savaşır ve onun varlığı, Black Templars'ın ruhunun somut halidir. Black Templars, İmparatorluğun en fanatik ve en sadık Chapter'ıdır — onlar için savaş, hem görev hem de ibadettir.
+## İnanç
+Black Templars İmparator'a tanrı olarak tapar — bu onları diğer chapter'lardan ayırır. 'Emperor's Champion' figürü (Sigismund'un başlattığı gelenek) her savaşta seçilir; kara zırh ve beyaz haç onların simgesidir. Librarian kabul etmezler — psyker şüphesi Chapter'ın kemiklerine işlemiştir; Chaplain'ler onların ruhunu taşır.
 
-## Teknik / Biy
-
--# İlişkili kayıtlar: <#1551637696466788466>, <#1551636479925559479>, <#1551650286559559741>, <#1551643990196232303>
+## Kaynaklar
+-# Kaynaklar: *Codex: Black Templars*; *Helsreach* — Aaron Dembski-Bowden; *Sigismund: The Eternal Crusader*; Lexicanum

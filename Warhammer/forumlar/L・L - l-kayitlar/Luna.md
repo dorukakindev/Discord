@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/4/42/Luna.jpg/revision/latest?cb=20110825142346
-
 -# THE IMPERIAL ARCHIVE
 # Luna
 

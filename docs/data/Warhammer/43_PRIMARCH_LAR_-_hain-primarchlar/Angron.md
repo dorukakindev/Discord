@@ -2,17 +2,43 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6a/Daemon_Prince_Angron_
 
 -# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Angron
-*Kırmızı Melek*
 
-Beynine "Kasap Çivileri" implante edilmiş köle-gladyatör; ömrü boyunca öfke ve acı içinde yaşadı. Khorne'a yükselişi bir kurtuluş değil, sonsuz bir cehennemdi; kan ve kıyımdan başka bir şey tanımaz.
+*The Red Angel · Nuceria'nın Kölesi · Khorne'un Daemon Primarch'ı*
 
-Angron, tüm Primarch'lar arasında belki en trajik olanıdır. Nuceria gezegenine düştüğünde köleci bir uygarlık tarafından bulundu; bir gladyatör olarak yetiştirildi ve beynine "Kasap Çivileri" (Butcher's Nails) denen, taşıyıcısını sürekli öfke ve acıya boğan, hazzı ve sakinliği imkânsız kılan korkunç implantlar yerleştirildi.
+XII Legion'ın, War Hounds olarak doğup World Eaters adını alan Legion'ın Primarch'ı. Nuceria'nın arenalarında köle-gladyatör olarak büyüdü, kafatasına çakılan **Butcher's Nails** implantı yüzünden hayatı boyunca acı ve öfkeden başka bir şey hissedemedi. Heresy'de ihanetin ön saflarında yer aldı; Lorgar'ın ritüeliyle Khorne'un Daemon Primarch'ına dönüştü. Arks of Omen döneminde galaksiye geri dönerek Imperium'a korkunç bir yıkım getirdi.
 
-Angron, köle yoldaşlarını gerçek bir aile gibi sevdi ve onlarla birlikte efendilerine karşı isyan etti; dağlarda umutsuz ama onurlu bir direniş verdiler. İşte tam bu noktada İmparator geldi ve Angron'u savaşın ortasından alıp gemisine ışınladı; ama yoldaşlarını orada, ölüme terk etti. Angron, son anında yanında savaşıp ölme hakkı elinden alındığı için İmparator'u hiçbir zaman affetmedi.
+- **Kategori:** Primarch (hain) — Daemon Primarch
+- **Fraksiyon:** Chaos — XII Legion, World Eaters; Khorne
+- **Dönem:** Great Crusade → Era Indomitus
+- **Köken:** Nuceria; köle tacirlerince bulundu, Desh'ea şehrinin arenalarında gladyatör olarak büyüdü
+- **Silahlar:** Heresy'de Gorefather ve Gorechild adlı zincirli baltalar; güncel anlatıda Spinegrinder ve Samni'arius
+- **Durum:** Daemon Primarch; sürgünleri kalıcı değildir, kısa sürelerde geri döner
 
-## Kasap Çivileri ve Yükseliş
-Angron'un trajedisi beyinseldir: Nuceria'nın köle-ciran arenasının efendileri, kafatasına Butcher's Nails denen sinirsel işkence çivileri işledi — sürekli öfke ve acı veren, çıkarılması ölümcül bir implant. İmparator onu bulduğunda tam bir isyanın ortasındaydı; köle kardeşlerini savaş alanında bırakmak zorunda kaldığı için onu asla affetmedi. Lejyonu World Eaters aynı çivileri gönüllü taktırdı. Heresy'de ilk hain saflarındaydı; Skalathrax'ta Khârn'ın lejyonu parçalamasından sonra dağılan World Eaters'ı bir savaş tanrısına çevirdi. Armageddon'un İlk Savaşı'nda yalnız yüz Gri Şövalye onu durdurabildi. Bugün Khorne'un en saf, en mahkûm avatarıdır.
+## Kökenler: Nuceria
+Angron'un kapsülü, soylu bir kastın köleler üzerine kurduğu bir uygarlığa, Nuceria'ya düştü. Köle tacirleri onu yakaladı ve **Desh'ea** şehrinin gladyatör arenalarında dövüştürmeye başladı. Efendileri, çocuğu kontrol altında tutabilmek için kafatasına **Butcher's Nails** adı verilen sinirsel implantlar yerleştirdi. Bu implantlar beyin kimyasını değiştirerek taşıyıcısına sürekli acı veriyor, sakinlik ve hazzı imkânsız kılıyor, yalnızca öfke ve şiddet sırasında geçici bir rahatlama sağlıyordu.
 
-## Tarihçe
+Angron, arenalardaki köle yoldaşlarını gerçek bir aile gibi sevdi. Onlarla birlikte efendilerine karşı büyük bir isyan başlattı; köle ordusu Nuceria'nın dağlarına çekildi ve orada umutsuz ama onurlu bir direniş verdi. Nucerian ordusu isyancıları kuşattığında ölüm kaçınılmazdı.
 
-Angron, World Eaters'ın en ünlü ve en trajik primarch'ıdır; Nuceria'nın — World Eaters'ın ev gezegeni — en vahşi savaşçısı olan ve World Eaters'ı kuran Angron, İmparatorlu
+## Emperor ve Kopuş
+Tam bu noktada Emperor geldi. Angron'u son savaşın arifesinde gemisine ışınladı ve yoldaşlarını onsuz ölüme terk etti; köle ordusu Nucerian kuvvetleri tarafından katledildi. Angron, onurlu bir ölüm hakkının elinden alındığı için Emperor'u hiçbir zaman affetmedi. Ona göre Emperor bir kurtarıcı değil, yeni bir köle efendisiydi.
+
+## Great Crusade
+XII Legion o sırada "War Hounds" adını taşıyordu. Angron Legion'ın komutasını istemeyerek aldı ve savaşçılarını küçümsedi. Legion'ın kıdemli kaptanlarından birçoğu Primarch'larına yaklaşabilmek için Butcher's Nails'i kopyalatıp kendi kafataslarına taktırdı. Bu uygulama Legion'ı disiplinden çok öfkeyle savaşan bir güce dönüştürdü; Legion'ın adı da "World Eaters" oldu. Khârn gibi bazı subaylar Primarch'larının acısını anlamaya çalışan nadir figürlerdi.
+
+Angron'un kardeşleriyle ilişkileri kötüydü. Yalnızca **Lorgar** onunla yakınlık kurmaya çalıştı; Lorgar'ın Angron'a duyduğu merhamet, sonunda onu en korkunç biçimde "kurtarma" girişimine dönüştü.
+
+## Horus Heresy
+World Eaters, Isstvan III'te Legion içindeki sadık savaşçıların yok edilmesinde yer aldı; Isstvan V'teki Drop Site Massacre'da ihaneti ilk başlatan Legion'lardan biriydi. Heresy'nin ilk yıllarında Butcher's Nails Angron'u yavaş yavaş öldürüyordu. Shadow Crusade sırasında Lorgar, Nuceria'ya giderek kardeşinin anavatanında bir ritüel gerçekleştirdi ve Angron'u, rızası olmadan Khorne'un Daemon Prince'ine dönüştürdü (*Betrayer*). Bu yükseliş Angron'u öldürmekten kurtardı, ama onu sonsuz bir öfke cehennemine hapsetti.
+
+Terra Kuşatması'nda World Eaters ve Daemon Primarch'ları, Imperial Palace'ın surlarına yönelik saldırıların en vahşi kolunu oluşturdu; Angron'un kuşatmadaki rolü *Siege of Terra* romanlarında işlenir.
+
+## Uzun Savaş
+Heresy sonrasında World Eaters Eye of Terror'da parçalandı. **Skalathrax**'ta Khârn, Legion'ının kendi kardeşlerini de katlederek Emperor's Children'la yapılan savaşı bir kıyıma çevirdi ve World Eaters birleşik bir Legion olarak sona erdi. Angron zaman zaman realspace'e döndü: **First War for Armageddon**'da (M41) Imperial Guard ve Space Marine'lere büyük kayıplar verdirdi; sonunda Grey Knights'ın kurucu kuşağı tarafından yenilerek Warp'a sürgün edildi.
+
+## Dönüş: Arks of Omen
+Era Indomitus'ta Angron, Arks of Omen anlatısında yeniden galaksiye döndü. Yıkıcı ilerleyişi Imperium'un birçok dünyasını ve Chapter'ını kana buladı. Anlatının doruk noktasında Vashtorr'un Caliban'ı taklit etmek için yarattığı daemon dünyası **Wyrmwood**'da Dark Angels, Blood Angels ve uyanan Lion El'Jonson'la karşı karşıya geldi. Güncel *Codex: World Eaters*, Angron'un sürgünlerinin artık kalıcı olmadığını ve kısa süre içinde geri dönebildiğini anlatır.
+
+## Kişilik
+Angron, Primarch'lar arasında en trajik olanıdır. İyi bir kalbi ve yoldaşlarına derin bir sadakati vardı; ama Butcher's Nails ve Emperor'la yaşadığı kopuş bu iyiliği sonsuz öfkeye çevirdi. Daemon hâlinde bile Nuceria'daki yoldaşlarının anısını taşır ve Khorne'un hizmetinde yaşadığı kan çılgınlığını bir kurtuluş değil, bir işkence olarak yaşar.
+
+-# Kaynaklar: *Betrayer* — Aaron Dembski-Bowden; *Angron: Slave of Nuceria* — Ian St. Martin; *Arks of Omen: Angron*; *Arks of Omen: The Lion*; *Codex: World Eaters* (10. edisyon); Warhammer Community (Wyrmwood savaş raporu, 2023); Lexicanum

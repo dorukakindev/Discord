@@ -14,8 +14,11 @@ On yedi yıl süren, Death Korps of Krieg'in amansız yıpratma doktrininin simg
 - **Önemli Olaylar:** Citadel'e siper ilerleyişi; Chaos Astartes müdahalesi; daemonic tezahürler.
 - **Kanon Notu:** Anlatım Forge World'ün üç cildine dayanır; arşiv oradaki kayıp ve kuvvet rakamlarını aktarmaz.
 
-## Tarihçe
+## On Yıl
+Siege of Vraks (813-823.M41) — Imperium'un kayıtlı en uzun ve en yıpratıcı kuşatma savaşıdır; Cardinal Xaphan'ın 'hain Apostate' olduğunda Vraks cephanelik dünyasını ele geçirmesiyle başladı ve 14 yıl, 5 milyon Krieg askeri kaybıyla bitti. 'Vraks' adı artık 'bedel'in eş anlamlısıdır — Imperium kazandı ama kazanmanın ne anlama geldiği burada değişti.
 
-Siege of Vraks, İmparatorluğun en zorlu ve en uzun kuşatmalarından biridir; Vraks'ın — bir Imperial cephanelik dünyası — renegade'lerin ve Chaos'un eline düşmesi ve İmparatorluğun onu geri almaya çalıştığı en uzun savaştır — onlar, İmparatorluğun en zorlu kuşatmasının ve en büyük fedakarlığının somut halidir. Siege of Vraks'ın en büyük özelliği, onun süresidir — onlar, on yedi yıl süren en uzun kuşatmadır ve onların varlığı, İmparatorluğun en uzun savaşının kanıtıdır; bir Siege of Vraks, bir kalenin en uzun savunmasının en büyük anıdır ve onların varlığı, İmparatorluğun en büyük fedakarlığının somut halidir. Siege of Vraks'ın en ünlü özelliği, onun Death Korps of Krieg'idir — onlar, İmparatorluğun en fanatik ve en sadık alaylarının en büyük fedakarlığıdır ve onların varlığ
+## Önem
+Vraks canon'da 'Imperial Armour' serisinin en meşhur hikâyesidir — Death Korps'un 'son nefes' mantığı ve 'kazanmak için hepsini yak' doktrini burada yazıldı. Krieg'in 'sayı' olduğu ve tek bir Imperium askerinin bile 'değersiz' olduğu yerdir.
 
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551641477501947995>, <#1551813077991686208>, <#1551809294750449746>, <#1551636477090467942>
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 5-7 (Vraks serisi); Lexicanum

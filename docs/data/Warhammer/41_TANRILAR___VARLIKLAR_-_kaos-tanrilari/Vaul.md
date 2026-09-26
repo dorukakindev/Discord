@@ -13,12 +13,10 @@ Vaul, panteonun ustası ve yaralı kahramanıdır. Tanrılar arasındaki kavgaya
 - **Bilinen Kullanıcılar / Operatörler:** Fall'dan önce Aeldari zanaatkârları; bugün Asuryani mit döngüsünde anılır.
 - **Önemli Olaylar:** Yüz kılıç pazarlığı; Khaine ile savaşı; Anaris'in Eldanesh'e verilişi.
 
-## Tarihçe
+## Demirci
+Vaul — 'Smith God' — Eldar'ın teknoloji ve zanaat tanrısıdır; antik Eldar silahlarının (örn. Sword of Vaul, Talismans of Vaul = Blackstone Fortress'ler) efsanevi yapımcısıdır. Khaine'ye zincirlenmiş halde gösterilir — mitolojide 'boyun eğen ama direnen' figür. Eldar'ın 'yapımcı ruhu'nun kaynağıdır.
 
-Vaul, 'Forge God' — Aeldari panteonunun demirci-tanrısı ve Smith'dir; Eldar mitolojisinde en değerli eserlerin — Scorpion of Khaine, Swords of Vaul, Infinity Circuit'lerin ruh-taşları — onun elinden çıktığına inanılır. Khaine ile savaşı sırasında Isha ve Kaela Mensha Khaine'in araya girişiyle zincirlerle bağlanır ve 'kör edilir'; bu yüzden eserleri kusursuz ama eksiktir. Eldar'ın spirit-stone teknolojisi ve Webway inşasında Vaul'un öğretileri temeldir — ama 'soul-forge' işleminin bedeli onun lanetidir.
-
-## Kanon Notu
-
-Genel anlatıya göre Fall'da Slaanesh tarafından yutuldu; akıbeti ayrıntılı anlatılmaz. Mitteki bu savaşın C'tan'a karşı verilen gerçek bir savaşın yankısı olup olmadığı ima edilir ama kesinleştirilmez.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Eldar mitolojisi*; *Battlefleet Gothic* (Blackstone bağlamı); Lexicanum
 
 -# Kaynaklar: *Codex: Aeldari — 9t

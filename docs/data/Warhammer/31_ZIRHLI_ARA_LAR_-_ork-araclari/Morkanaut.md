@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ee/BigMek.jpg/revision/l
 - **Köken:** Mekboyz
 - **Önemli Olaylar:** Ork Waaagh'ları
 
-## Tarihçe
+## Mork'un Şeyi
+Morkanaut — Ork'un 'Mega Dread'nin 'zekice' versiyonudur; 'Mork' adını taşır ve 'Kustom Mega-Kannon' ile 'sinsi' savaşır. Gorkanaut'tan 'daha az ama daha akıllı' olarak bilinir — Ork'un 'kurnaz' tarafının makinesi. 'Mork' Ork mitolojisinde 'kurnaz tanrı'dır — bu araç da öyle savaşır.
 
-Morkanaut, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir — Mork'a adanmış dev bir yürüyen savaş makinesidir. Morkanaut, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Morkanaut, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Orks*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

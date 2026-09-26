@@ -13,10 +13,11 @@ Ynnead'in hikâyesi geçmişte değil, gelecekte yazılacaktır. Kehanete göre 
 - **Bilinen Kullanıcılar / Operatörler:** Ynnari; Yvraine, Visarch ve Yncarne.
 - **Önemli Olaylar:** Biel-Tan'ın parçalanışı ve Ynnari'nin doğuşu.
 
-## Tarihçe
+## Ölümün Doğmamış Tanrısı
+Ynnead, Aeldari mitolojisinin 'ölüm tanrısı' — henüz tam doğmamış, ama Gathering Storm'da (Fracture of Biel-Tan) kısmen uyandı. Eldar'ın planı: tüm Eldar ruhlarını Slaanesh'ten geri alıp onları tek bir varlıkta toplamak; o varlık Ynnead olacak ve Slaanesh'i öldürebilecek tek güç olacak. Yvraine — 'Ynnead'in Kızı' — bu projenin sahadaki temsilcisi; Yncarne onun avatar'ıdır.
 
-Ynnead, Aeldari'nin ölü ruhlarının toplamı olan 'Whispering God' — henüz tam doğmamış Eldar ölü tanrısıdır; Infinity Circuit'lerde biriken milyarlarca ruhun kolektif bilincidir. Eldrad Ulthran'ın Slaanesh'e karşı en büyük kozu olarak tasarlanmıştır: Ynnead uyandığında Slaanesh'i yenecek ve Eldar'ı kurtaracaktır — ama uyandırılması neredeyse tüm Eldar ruhlarının tüketilmesini gerektirir. 'The Fracture' (M41 sonu) sırasında Ynnead kısmen uyandı ve Ynnari hareketi doğdu; Yvraine, Visarch ve Triumvirate of Ynnead onun şampiyonlarıdır. Psychic Awakening döneminin merkezi figürüdür.
+## Düşmanlar
+Ynnead projesi Eldar'ın son umududur ama birleştirici değildir: Biel-Tan'ın bölünmesi onun uyanışı yüzündendi, bazı craftworld'ler onu felaket olarak görür, Drukhari ondan nefret eder (Commorragh ona kapısını kapamıştır). Slaanesh'in bu projeye karşı daemon orduları gönderdiği bilinir.
 
-## Kanon Notu
-
-Ynnead'in bir tanrı mı, ruhların kolektif bir yankısı mı olduğu ve Slaanesh'i yenip yenemeyeceği kasıtlı olarak açık bırakılmıştır; uyanış Ynnari'ye göre bile kısmidir
+## Kaynaklar
+-# Kaynaklar: *Fracture of Biel-Tan*, *Rise of the Primarch* (Gathering Storm); *Ynnari* kuralları; *Ghost Warrior* — Gav Thorpe; Lexicanum

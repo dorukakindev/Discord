@@ -1,34 +1,7 @@
 https://static.wikia.nocookie.net/warhammer40k/images/4/42/UM_Librarian_combat.png/revision/latest/scale-to-width-down/679?cb=20130930181411
 
--# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
+## Gözlerin Efendisi
+Librarian — Space Marine'ın 'psyker' sınıfıdır; Chapter'ın 'Warp okuru' ve savaş büyücüsü. 'Librarius' örgütünün üyesidir — kayıt, kehanet ve 'İmparator'un ışığı' rolünü taşır. Null-Maidens'ın (Sisters of Silence) karşıtıdır — bir Librarian'ın varlığı 'insanlığın riskini' simgeler.
 
-# Librarian — Kütüphaneci, Astartes Psyker'ı
-
-Psişik güce sahip ender Space Marine'lerden oluşan savaşçı-büyücüler; iradelerini Force Weapon ile bir silaha çeviren, Lexicanium'dan Chief Librarian'a uzanan rütbelerde örgütlenen Librarius'un üyeleri.
-
-- **Bağlılık:** İmparator
-- **Rol:** Psyker
-- **Kanon Sınıfı:** A — resmî kaynak
-
-## Kayıt
-
-Librarian (Kütüphaneci), bir Space Marine Chapter'ı içindeki en ender ve en gizemli savaşçılardan biridir; hem güçlü bir psyker hem de bir savaşçı-bilgedir. Sıradan bir Chapter'da psişik yeteneğe sahip kardeşler çok azdır; çünkü bu güç, hem büyük bir silah hem de büyük bir tehlikedir. Warp'ın enerjisini kullanmak, eğitimsiz bir zihni yozlaştırabilir ya da iblislere bir kapı açabilir. İşte Librarian'lar, bu tehlikeli gücü zapt edip insanlığın hizmetine sunmuş, demir iradeli savaşçılardır.
-
-Bir Librarian'ı sıradan bir Space Marine'den ayıran, zihninin gücüdür. İradesini bir silaha çevirebilir; ateş fırlatabilir, düşman zihinlerini parçalayabilir, kardeşlerini koruyan kalkanlar örebilir ya da geleceğin gölgelerini görebilir. Bu güçleri yöneltmek için Force Weapon (güç silahı) taşırlar; yalnızca bir psyker'ın tam anlamıyla kullanabildiği bu silahlar, savaşçının iradesini ölümcül bir enerjiye dönüştürür. Bir Epistolary'nin güç silahı, kendi iradesinin ak-sıcak kesinliğiyle yanan bir kılıç gibidir; dokunduğu iblisi bile yok edebilir.
-
-Librarian'lar, Librarius adı verilen bir düzen içinde, katı bir rütbe sistemiyle örgütlenir. Eğitimini tamamlayan genç bir psyker, Lexicanium olarak Librarius'a katılır; burası en alt rütbedir ve çoğu zaman Deathwatch'ta uzun bir nöbet tutarlar. Deneyim kazandıkça Codicier rütbesine yükselir; bu rütbedeki Librarian'lar, Chapter'ın psişik iletişimini ve Librarius'un kayıtlarını korur. En güçlü savaş psyker'ları Epistolary'lerdir; her biri sayısız savaştan geçmiş, çelikleşmiş veteranlardır. Hepsinin başında ise, Librarius'u yöneten Chief Librarian (Baş Kütüphaneci) durur.
-
-Adlarının da gösterdiği gibi, Librarian'lar yalnızca savaşçı değil, aynı zamanda bilgi bekçileridir. Librarius, bin yılların galaksi çapındaki savaşlarından biriktirilmiş devasa bir bilgi hazinesidir; Chapter'ın tarihi, kehanetleri ve kadim sırları burada saklanır. Bir Librarian, bu hazinenin hem koruyucusu hem yorumcusudur. Mavi zırhları ve psişik miğferleriyle, hem savaş alanında bir silah hem de Chapter'ın hafızasının taşıyıcısıdır. Librarian, akıl ile iradenin, bilgelik ile gücün ender bir birleşimidir; Warp'ın karanlığını insanlığın hizmetine zorlayan, sessiz ve tehlikeli bir kahramandır.
-
-## Ayırt Edici Özellikler
-
-- Psişik güce sahip ender Space Marine savaşçı-büyücüleri
-- İradelerini Force Weapon (güç silahı) ile bir silaha çevirir
-- Lexicanium, Codicier, Epistolary ve Chief Librarian rütbelerinde örgütlenir
-- Chapter'ın bilgi hazinesi Librarius'u korur ve yönetir
-- Psişik iletişim, kehanet ve savaş büyüsünde uzmanlaşır
-
-
-## Tarihçe
-
-Librarian, Space Marine chapter'larının psyker-savaşçısı — Warp güçlerini kullanan ama aynı zamanda 'Warp'in yozlaşmasına karşı' chapter'ın iç savunmasını yürüten figür. Codex Astartes'in 'psyker yasak' geleneği Librarian'ları 'izinli ama kuşkulu' kılar; Tigurius ve Ezekiel bu rolün en ünlü örnekleridir. Librarius'un kayıtları chapter'ın tarihi ve sırlarını da tutar — savaşta kuvvet silahı (force weapon), savaş dışında ise arşivcilik görevi üstlenir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Librarian* lore; Lexicanum

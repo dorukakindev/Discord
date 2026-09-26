@@ -7,13 +7,19 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/66/WordBearersArmourial.
 
 Kaos dininin fanatik vaizleri; Heresy'nin asıl mimarı ve iblis çağırma ustaları.
 
-## Tarihçe
-Word Bearers, primarch'ları Lorgar'ın inanca ve tapınmaya duyduğu derin ihtiyacı taşır; doğaları gereği fanatik birer din adamıydılar. Lorgar, İmparator'u bir tanrı ilan eden ilk ve en hararetli Primarch'tı; lejyonu, fethedilen her dünyada İmparator'a devasa tapınaklar diken bir misyoner ordusuydu.
+## Köken: Colchis ve İbadet
+XVII Lejyon'un primarch'ı Lorgar Aurelian, Colchis'te Covenant rahipleri tarafından büyütüldü ve İmparator'a tapınmayı lejyona resmî inanç hâline getirdi. Great Crusade'in en yavaş ama en kapsamlı fatihleriydi: aldıkları her dünyayı sadece boyun eğdirmekle kalmaz, İmparator kültüne döndürür, devasa katedraller inşa ederlerdi. 'İmparator tanrıdır' inancı lejyonun öz kimliğiydi.
 
-Kırılma noktası, İmparator'un Lorgar'ın aşırı dindarlığından rahatsız olup kutsal şehri Monarchia'yı yerle bir ettirmesi ve onu tüm lejyonunun önünde diz çöktürüp aşağılamasıydı. İnanca muhtaç olan Lorgar, inancını yönlendirebileceği yeni tanrılar aramaya başladı ve onları Warp'ta buldu: Kaos Tanrıları.
+## Monarchia'nın Külleri
+İmparator bu inancı reddetti: din, onun laik 'Imperial Truth' projesinin tam zıttıydı. Monarchia şehrini — Lorgar'ın ona adadığı mükemmel şehri — Ultramarines'e yerle bir ettirdi ve Word Bearers'ın tüm lejyonunu diz çöktürdü. Bu alenî aşağılanma lejyonda iki şey doğurdu: İmparator'a duyulan öfke ve 'O bizi tanrı olarak istemiyorsa, bizi isteyen başka tanrılar vardır' sorusu. Kor Phaeron ve First Chaplain Erebus, Lorgar'ı Warp'ın gerçek tanrılarına yönlendirdi.
 
-Word Bearers'ın tarihi, İmparatorluk'un ilk ve en derin dini ihanetinin tarihidir: Lorgar Aurelian, Colchis'te din adamı olarak yetişti ve Büyük Haçlı Seferi sırasında fetih yerine tapınak inşa etmeye başladı — 'mükemmel şehir' Monarchia'nın İmparator tarafından örnek olarak yakılması, lejyonun dönüm noktası oldu. O utanç, Lorgar'ı Kadim Tanrılar'ın gerçek ibadetine götürdü.
+## İlk İhanet
+Word Bearers, Heresy'nin mimarıdır — Horus'u çeviren de onlardı (Davin'in şifacıları, Lorgar'ın kehanetleri). Calth'ta Ultramarines'e sürpriz saldırı düzenleyip 'Shadow Crusade'i başlattılar; amaçları sadece yıkmak değil, Ruinstorm'u doğurup Warp'ı realspace'e açmaktı. Lorgar'ın ritüelleri galaksiyi ikiye bölen warp fırtınasını yarattı.
 
-Lorgar, İmparatorluğa karşı ilk din temelli isyanı başlattı; Erebus ve Kor Phaeron gibi vaizleriyle 'Söz'ü (kaos dogması) sistemden sisteme yaydı. Isstvan'daki ihanetin fikir babası büyük ölçüde odur. Bugün Word Bearers, Sicarus'un zehirli dünyasından 'Dark Apostle' konseyleriyle yönetilir ve İmparatorluk'un ruhunu çürütmeye yönelik en eski ve en organize hain lejyon olarak faaliyet gösterir.
+## Bugün
+Heresy sonrası lejyon Sicarus'a (Sortiarius değil — Word Bearers'ın dünyası Sicarus/ daemon primarch'ın meditasyon yuvası) çekildi. Modern Word Bearers hâlâ teolojik olarak organize tek ihanet lejyonudur: Dark Apostle'lar vaaz verir, savaşçılar 'kelime' ile daemon bağlar. İmparator'a tapanlar artık İmparator'un en büyük düşmanını kutsar — lejyonun ironisi budur.
+
+## Kaynaklar
+-# Kaynaklar: *The First Heretic*, *Betrayer*, *Know No Fear* (HH); *Word Bearers* üçlemesi — Anthony Reynolds; *Dark Apostle* serisi; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

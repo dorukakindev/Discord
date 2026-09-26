@@ -13,14 +13,13 @@ Daemon'la savaşmayı varlık nedeni sayan, adaylarını kasıtlı olarak daemon
 - **Önemli Olaylar:** Badab War; Third War for Armageddon; 13th Black Crusade.
 - **Kanon Notu:** Gene-seed kökeni kasıtlı olarak gizli tutulur; Grey Knights bağlantısı kesinleşmiş bir soy açıklaması gibi okunmamalıdır.
 
-## Tarihçe
+## Arındırılmış
+Exorcists, Grey Knights'a benzer gizli bir Chapter'dır; daemon-possession deneyimine dayalı eğitimleriyle bilinir — her aday kısa süre daemon'a sahip olur, sonra onu kovar. Bu 'arındırma' geleneği onları Warp tehdidine karşı en dirençli Space Marine'lerden yapar; Ordo Malleus'la yakın çalışırlar.
 
-Exorcists, Space Marines'in en gizli ve en tartışmalı Chapter'larından biridir — gene-lineage'i mühürlü ve tartışmalı bir Chapter'dır. Exorcists, daemonlara karşı savaşta uzmanlaşmış bir Chapter'dır; Chapter'ın üyeleri, daemonlarla savaşmak için özel olarak eğitilmiştir ve gene-lineage'leri, İmparatorluk'un en gizli sırlarından biridir. Exorcists, İmparatorluk'un en gizli ve en tartışmalı Chapter'larından biri olarak kalır; Chapter, İmparatorluk'un en gizli operasyonlarının en önemli aracıdır.
+## Bedel
+Exorcists'ın yöntemi canon'da tartışmalıdır — 'daemon'a sahip olmak' her savaşçının ruhunda iz bırakır. Başarıları gerçektir (daemon temizliğinde en etkili chapter'lardan) ama bedeli kendi içlerinde taşırlar; 'purified' Space Marine kavramının en ağır versiyonudur.
 
-## Teknik / Biyolojik Özellikler
-
-Doktrin: daemon avına uyarlanmış taktikler; ağır aday kaybını karşılamak için Codex düzenine iki ek Scout company eklendiği anlatılır. Kültür: adayların Book of Exorcisms ile eğitilmesi.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Exorcists* lore parçaları; *Imperial Armour*; Lexicanum
 
 -# Kaynaklar: *Codex: Eye of Terror*; *Imperial Armour Volume Ten: The Ba
-
--# İlişkili kayıtlar: `grey-knights`, `inquisition`, `chaos-daemons`, `badab-war`

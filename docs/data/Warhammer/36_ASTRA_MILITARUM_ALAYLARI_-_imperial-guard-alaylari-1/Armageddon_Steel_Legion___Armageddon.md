@@ -13,14 +13,10 @@ Mekanize piyade savaşının ustası olarak sunulan, Chimera'larla hareket eden 
 - **Bilinen Kullanıcılar / Operatörler:** Numaralı Steel Legion alayları; Armageddon savaşlarında Commissar Yarrick.
 - **Önemli Olaylar:** Second War for Armageddon (941.M41); Third War for Armageddon (998.M41).
 
-## Tarihçe
+## Çelik
+Armageddon Steel Legion — Hive World Armageddon'un mekanize piyade alayıdır; Chimera'larla savaşır ve 'hive warfare' (kovan savaşı) konusunda Imperium'un en deneyimlisi sayılır. Armageddon'un üç büyük savaşında da sahadalardı — 'Celvu' ve 'Volcanus' gibi şehirlerin savunması onların işiydi. Yaslı kültürüyle bilinirler.
 
-Armageddon Steel Legion, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biridir — Armageddon gezegeninin mekanize piyade birlikleridir. Armageddon, üç büyük Ork savaşının yaşandığı İmparatorluk'un en kritik Hive World'üdür; Steel Legion, bu savaşlarda gezegeni savunan ve Ork'lara karşı en deneyimli birliklerdir. Armageddon Steel Legion, mekanize piyade ve şehir savaşında efsanevidir; alaylar, İmparatorluk'un en deneyimli ve en sert birliklerinden biridir. Alaylar, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biri olarak kalır.
-
-## Kanon Notu
-
-11th Edition anlatısı Ghazghkull'un Armageddon'a dönüşüyle yeniden bu dünyaya odaklanır; Steel Legion'ın yeni anlatıdaki rolü henüz gelişmektedir ve bu kayıtta öngörülmemiştir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Armageddon* kampanya; Lexicanum
 
 -# Kaynaklar: *Helsreach — Aaron Dembski-Bowden*; *Yarrick: Imperial Creed — David Annandale*; *Codex: Astra Militarum*
-
--# İlişkili kayıtlar: <#1551643990196232303>, <#1551753458779029565>, <#1551759766966116383>, <#1551812353157365862>

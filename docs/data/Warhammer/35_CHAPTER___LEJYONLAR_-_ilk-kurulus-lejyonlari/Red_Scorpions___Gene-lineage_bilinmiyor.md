@@ -13,8 +13,11 @@ Genetik saflığı bir inanç meselesine dönüştüren, abhuman'lara ve öteki 
 - **Önemli Olaylar:** Siege of Vraks; Badab War.
 - **Kanon Notu:** Chapter'ın gene-seed'inin kökeni evren içinde çözülmemiş bir sorudur ve Imperial otoritelerde kuşku uyandırır.
 
-## Tarihçe
+## Kusursuzluk
+Red Scorpions, Imperium'un en 'saf' Chapter'ı olarak bilinir; gen-seed saflığına takıntılıdır ve Apothecary'leri Chapter'ın en yüksek kademesidir. Culln'in komutasında Badab War'da sadık tarafın başı çekenlerindendi — Minotaurs'la birlikte. 'Für den Emperor' disipliniyle tanınırlar; her savaşçı'sının saflığı kanıtlanmıştır.
 
-Red Scorpions, gene-lineage'i bilinmeyen ve İmparatorluğun en fanatik saflık taraftarlarından olan bir Space Marine Chapter'ıdır; onların savaş doktrini, saflık ve mutasyon karşıtlığı üzerine kuruludur ve onlar, kendi gene-seed'lerinin saflığını diğer Chapter'larınkinden daha katı korurlar. Red Scorpions'ın en büyük özelliği, onların mutasyon karşıtlığıdır — onlar mutantları, psyker'ları ve herhangi bir genetik anomaliyi acımasızca yok eder; ve onların kendi Chapter'ında bile mutasyon görülürse, o savaşçı anında imha edilir. Red Scorpions'ın en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en ön safta savaştılar ve onların fanatikliği, o savaşın en kanlı sayfalarını yazdı. Red Scorpions, İmparatorluğun en katı ve en korkulan Chapter'ıdır — onlar için saflık, sadece genetik değil, ruhsal bir zorunluluktur.
+## Kanıt
+Red Scorpions'un en bilinen özelliği 'genetik temizlik' talebidir — Chapter'ın tüm gen-seed'i düzenli test edilir, kusur taşıyan savaşçı görevden çekilir. Badab'da 'Tyrant'ın ordusunu yenmede kilit rol oynadılar; Chapter'ın 'görev her şey' tavrı onu diğerlerinden ayırır.
 
-## Te
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 9-10; *Codex: Space Marines*; Lexicanum

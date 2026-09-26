@@ -12,14 +12,8 @@ Isha, ölümlü çocuklarına duyduğu sevgi yüzünden panteonun en trajik fig�
 - **Bilinen Kullanıcılar / Operatörler:** Asuryani ve Exodite gelenekleri; Fall'dan önce bütün Aeldari.
 - **Önemli Olaylar:** Asuryan'ın buyruğunun çiğnenmesi; Fall; Nurgle'ın tutsaklığı.
 
-## Tarihçe
+## Anne
+Isha — 'Isha the Mother' — Eldar'ın doğurganlık ve şifa tanrısıdır; Slaanesh'in doğuşunda yutulmadı çünkü Nurgle onu 'kurtardı' — ama kurtuluşu esarettir. Garden of Nurgle'da hapsedilmiş durumda — Plague God'un 'gül'ü olarak tutulur, ona yeni hastalıklar denenir ama Isha yine de Eldar'a 'merhamet' göndermeye devam eder. Canon'da en trajik Eldar tanrısıdır.
 
-Isha, Aeldari panteonunun 'Earth Mother'ı — yaşam, hasat ve şifa tanrıçası; Kurnous'un eşi ve tüm Eldar ırkının 'annesi'dir. Slaanesh'in doğuşunda yutulmadı; Nurgle tarafından kaçırılıp zehirli bahçesinde tutulduğu söylenir — Isha'nın ağlayışları Nurgle'un plagues'inin panzehirlerini üretir, bu yüzden onu asla tamamen yok edemez. Eldar için 'kaybedilmiş ama unutulmamış' anne figürü; Exodite kültüründe Isha'nın geleneği en güçlüdür — dünya-ağaçları ve 'Maiden World'ler onun armağanıdır.
-
-## Teknik / Biyolojik Özellikler
-
-Etki alanı bereket, şifa ve annelik sevgisidir. Nurgle'ın malikânesinde, onun kazanının yanında tutulduğu ve her yeni hastalığı tatmaya zorlandığı, fırsat buldukça çarelerini ölümlülere fısıldadığı anlatılır.
-
-## Kanon Notu
-
-Spirit s
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Codex: Chaos Daemons* (Nurgle bağlamı); *Eldar mitolojisi*; Lexicanum

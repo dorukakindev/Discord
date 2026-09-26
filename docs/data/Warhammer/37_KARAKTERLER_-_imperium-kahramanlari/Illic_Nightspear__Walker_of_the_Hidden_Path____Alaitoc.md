@@ -14,6 +14,11 @@ Craftworld hayatının katı düzeninden uzaklaşıp Path of the Outcast'e sapm�
 - **Önemli Olaylar:** Kaynaklar onu tek bir büyük savaştan çok, craftworld'ün uzun gözcülük geleneğiyle ilişkilendirir.
 - **Kanon Notu:** Ayrıntılı biyografisi kaynaklarda sınırlıdır; bu kayıt yalnızca sabit kalan rol ve kimliği aktarır.
 
-## Tarihçe
+## Yalnız Avcı
+Illic Nightspear, Craftworld Alaitoc'un en ünlü Ranger'ı; Aeldari'nin en usta keskin nişancısı ve iz sürücüsü. Yüzyıllarca Craftworld'ün dışında, Exodite dünyalarında ve ırkının düşmanlarının kalbinde tek başına yaşadı — Eldar toplumundan 'Path of the Outcast'e o kadar derin girdi ki artık neredeyse hiçbir Path'e bağlı değil. Uzun menzilli Ranger Long Rifle'ıyla hedefini gözlemediği mesafelerden vurabilir; Warp'la örtülü 'gölge yürüyüşü' onu neredeyse görünmez kılar.
 
-Illic Nightspear (Walker of the Hidden Path), Alaitoc'un en gizli ve en ölümcül figürlerinden biridir — Ranger'ların en önemli figürüdür. Nightspear, Alaitoc'un en gizli ve en ölümcül figürlerinden biridir; onun keskin nişancılığı ve gizli operasyonları, Alaitoc'un en önemli ve en ölümcül güçlerinden biridir. Illic Nightspear, Alaitoc'un en gizli ve en ölümcül figürü olarak kalır — onun yetenekleri, Alaitoc'un en önemli ve en ölümcül güçlerinin simgesidir.
+## Kültürel Anlamı
+Nightspear, Aeldari'nin 'düşmeden önce' olduğu şeyin canlı anısıdır — keşif, yalnızlık ve mükemmellik. Alaitoc'un hem değerli varlığı hem 'yalnızlığının ağırlığıyla' mücadele eden oğlu; diğer Ranger'lar ona 'ustaların ustası' gözüyle bakar. Kraliyet masalı değil, muhariplerin masalı: doğada tek başına, avını okur, bekler, tek atışla bitirir.
+
+## Kaynaklar
+-# Kaynaklar: *Path of the Outcast* — Gav Thorpe; *Codex: Craftworlds*; *Alaitoc* supplement materyalleri; Lexicanum

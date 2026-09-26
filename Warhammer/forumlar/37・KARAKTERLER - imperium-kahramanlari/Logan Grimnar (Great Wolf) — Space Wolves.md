@@ -14,6 +14,11 @@ Space Wolves'un uzun ömürlü Chapter Master'ı. Fenris geleneğinin, Russ'a ba
 - **Önemli Olaylar:** First War for Armageddon; Inquisition ile husumet; Fenris savunması.
 - **Kanon Notu:** Inquisition ile husumetin silahlı çatışmaya ne ölçüde vardığı konusunda kaynaklar aynı ayrıntıyı vermez.
 
-## Tarihçe
+## Great Wolf
+Logan Grimnar, Space Wolves'un Great Wolf'u (Chapter Master'ı) ve Fenris'in en saygın savaş lideri; 800+ yıldır Chapter'ını yönetir, Imperium'un en sert ama en onurlu komutanlarından biri olarak tanınır. 'Months of Shame' olayında Inquisition'a karşı durdu — Armageddon'un kurtulan sivilleri Daemon gördü diye yok edilmeye kalkıldığında Grimnar bunu reddetti ve Armageddon'un çelik çekirdeğini korudu; bu yüzden Space Wolves ile Inquisition arasında hâlâ güven sorunu vardır.
 
-Logan Grimnar, Space Wolves'un Great Wolf'u ve İmparatorluk'un en eski ve en efsanevi Chapter Master'larından biridir — Chapter'ın yüzlerce yıllık lideridir. Grimnar, Space Wolves'un en uzun süre hizmet eden lideridir; onun liderliği, Chapter'ın en önemli savaşlarının ve en büyük zaferlerinin simgesidir. Grimnar, İmparatorluk'un en eski ve en efsanevi lideridir; onun varlığı, Space Wolves'un en önemli geleneğinin ve İmparatorluk'un en güçlü Chapter'ının simgesidir. Logan Grimnar, Space Wolves'un en efsanevi ve en uzun süre hizmet eden lideri olarak kalır — onun hikâyesi, İmparatorluk'un en büyük liderlik hikâyelerinden biridir.
+## Fenris Kültü
+Grimnar Thunderwolf'u Stormbringer'la savaşır; asası ve ulu zırhı Chapter'ın simgesidir. Space Wolves'un Russ geleneğini — onur, savaş kardeşliği, alaycı kaba özgürlük — yaşayan kanıtıdır; 13th Company'nin geri dönmesi ve Primaris'in kabulü onun dengeli liderliğiyle oldu.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Wolves*; *The Emperor's Gift* — Aaron Dembski-Bowden; *Stormcaller* — Chris Wraight; Lexicanum

@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/58/Stormsurge4.jpg/revis
 
 Tau'nun en büyük yaygın battlesuit'i; yere demirleyip dev destroyer füzeleri ve toplarıyla bir bölgeyi döven yürüyen topçu platformu.
 
-## Tarihçe
-Stormsurge, Tau İmparatorluğu'nun en büyük yaygın battlesuit'idir; bir Riptide'ı bile gölgede bırakan, dev bir yürüyen topçu platformudur. Şövalye sınıfı ölçeğinde, Tau'nun ateş gücü doktrininin nihai ifadesidir.
+## Fırtına
+Stormsurge — T'au'nun 'KV128 Stormsurge'idir; en büyük battlesuit ve 'Walker' sınıfındadır. 'Pulse Driver Cannon'uyla 'bir bina' gibi ateş eder — Titan'a en yakın T'au aracı. 'Stormsurge' adı 'gelgit' demektir — onun varlığı savaşın 'yönünü' değiştirir.
 
-Stormsurge'ün gücü, devasa silahlanmasındadır; ayaklarındaki demirleme sistemiyle yere sabitlenir (bu, ona muazzam atışlar için kararlılık verir) ve sonra dev Pulse Driver Cannon'ı, Destroyer Missile'ları ve cluster roket sistemleriyle koca bir bölgeyi döver. Tek başına, bir düşman zırhlı kolonunu ya da bir kale-tahkimatı yok edebilir; gerçek bir yürüyen topçu bataryasıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: T'au Empire*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

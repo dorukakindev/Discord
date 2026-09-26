@@ -7,13 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/80/Baneblade_of_Tallarn_
 
 Astra Militarum'un efsanevi süper ağır tankı; on bir ayrı silahıyla tek başına bir manga değerinde ateş gücü taşır.
 
-## Tarihçe
-Baneblade, Astra Militarum'un efsanevi süper ağır tankıdır; İmparatorluk Muhafızı'nın sahip olabileceği en büyük ve en güçlü standart zırhlı araçlardan biridir. Dev gövdesi, kalın zırhı ve muazzam ateş gücüyle, savaş alanında yürüyen bir kale gibidir.
+## Zırhlı Tanrı
+Baneblade — 'Astra Militarum'un en büyük tankı — Imperium'un en ikonik süper ağır zırhlısıdır; ~11 metre uzunluğunda, üç taret ve dokuz silah sistemiyle 'tek tank ordu' olarak bilinir. Shadowsword, Stormsword, Banesword varyantlarıyla meşhurdur; her birinin kendi rolü vardır (Shadowsword Titan avcısı).
 
-Baneblade'i efsanevi kılan, silahlanmasıdır; tek bir araç üzerinde on bir ayrı silah taşır. Devasa Baneblade Cannon'ı, kuşatma Demolisher topu, çoklu lascannon'lar, heavy bolter'lar ve autocannon'larla, tek başına bütün bir tank mangasının ateş gücüne bedeldir. Bir savaş alanında birçok hedefi aynı anda imha edebilir.
+## Kültür
+Baneblade'in önemi Imperium'un 'ağır zırh' doktrininin simgesidir — Macharius'un süvari tanklarıyla aynı gelenekten gelir. 'Stormhammer' ve 'Hellhammer' varyantları da vardır; her biri kendi savaş alanını tanımlar.
 
-Baneblade'ın ünü İkinci Dünya Savaşı benzeri kuşatmalardan gelir: dokuz silahlı (ana battle cannon, coaxial autocannon, hull demolisher cannon, üç çift lascannon ve üç twin heavy bolter) bu süper-ağır tank, bir piyade taburunun destek gücüne bedeldir. Shadowsword ve Hellhammer gibi kardeş varyantlarıyla birlikte, Titan düzeyindeki tehditlerle başa çıkmak için üretilmiştir.
-
-Tarihte Baneblade'ler, III. Armageddon Savaşı'ndan Vraks Kuşatması'na kadar İmparatorluk'un en kanlı cephelerinde belirleyici rol oynamıştır. Bir Baneblade'in kaybı sadece araç kaybı değildir — mürettebatı soylu bir askeri ailenin kuşaklar boyu süren meslek geleneğini taşır; bu yüzden Astra Militarum kayıtlarında bazı tanklar, savaştıkları alaylardan daha yaşlı ve daha ünlüdür.
+## Kaynaklar
+-# Kaynaklar: *Codex: Astra Militarum*; *Imperial Armour*; *Baneblade* — Guy Haley; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

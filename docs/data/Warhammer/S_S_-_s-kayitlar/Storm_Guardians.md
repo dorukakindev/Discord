@@ -12,9 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/63/Biel-Tan_Guardians_1.
 - **Köken:** Craftworld'ler
 - **Önemli Olaylar:** Tüm Asuryani seferleri
 
-## Tarihçe
+## Fırtına Muhafızı
+Storm Guardians — Eldar'ın 'yakın dövüş' militiasıdır; Guardian'ların 'kılıç' varyantı. 'Aeldari'nin 'yüzleri' sayılırlar — sivil ama savaşçı. Fusion Gun ve Power Sword ile savaşırlar ve 'Black Guardians' olarak da bilinen 'en disiplinli' versiyonları vardır.
 
-Storm Guardians, Aeldari'nin en önemli ve en ölümcül birliklerinden biridir — Guardian'ların elit birliğidir. Storm Guardians, Aeldari'nin en önemli ve en ölümcül birliklerinden biridir; bu birlikler, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır. Storm Guardians, Aeldari'nin en önemli ve en ölümcül birliğidir; bu birlik, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877544586608652>

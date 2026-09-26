@@ -14,6 +14,14 @@ Karanlık Şehir'in tartışmasız efendisi Vect, soylu hanedanların yüzyılla
 - **Önemli Olaylar:** Soylu hanedanların yıkılışı; Yvraine'in kaçışı; Ynnari'ye karşı sefer.
 - **Kanon Notu:** Fall of the Aeldari'ye tanıklık ettiği iddiası Vect'in kendi söylemine dayanır; yaşı kesin olarak doğrulanmaz.
 
-## Tarihçe
+## Commorragh'ın Efendisi
+Asdrubael Vect, Drukhari'nin baş şehri Commorragh'ın Supreme Overlord'u ve Kabal of the Black Heart'ın efendisidir; Drukhari tarihinin en uzun süre hüküm süren ve en tehlikeli politikacısıdır. Köle olarak başladığı hayattan Webway'in en yüksek tahtına çıktı — bu yükselişin kendisi onun zekâsının kanıtıdır.
 
-Asdrubael Vect, Drukhari'nin en güçlü ve en tehlikeli figürüdür — Commorragh'ın Supreme Overlord'u ve Drukhari'nin en önemli figürüdür. Vect, Drukhari'nin en güçlü ve en tehlikeli figürüdür; onun entrikaları ve gücü, Drukhari'nin en önemli ve en tehlikeli güçlerinin kaynağıdır. Vect, Commorragh'ın en güçlü figürüdür ve Drukhari'nin en önemli kararlarını verir; onun hükümdarlığı, Drukhari'nin en tehlikeli ve en güçlü döneminin simgesidir. Asdrubael Vect, Drukhari'nin en güçlü ve en tehlikeli figürü olarak kalır — onun hükümdarlığı, Drukhari'nin en tehlikeli ve en güçlü döneminin simgesidir.
+## İktidar Yöntemi
+Vect'in hükmü güçle değil, sistemle sürer: Commorragh'ın kabal dengelerini o kadar ustaca oynar ki rakipleri birbirini yer. Kendi ölümünü bile planladı — 40.000'lerin başında 'öldü' ve rakipleri taht kavgasına girip birbirini zayıflatırken dirildi. Her rakip onun elinde tükendi: onu devirmeye çalışan tüm archon'ların adı tarihten silindi.
+
+## Büyük Yarık ve Ynnari
+Ynnead'ın doğuşu Commorragh'a zarar verdiğinde bile Vect krizi fırsata çevirdi. Imperium'un onu tanıma şekli savaş raporlarıdır: realspace akınlarının arkasındaki imza. Vect yaşayan Drukhari uygarlığının kişileşmesidir — zevk için acı, entrika için hayat, egemenlik için sonsuzluk.
+
+## Kaynaklar
+-# Kaynaklar: *Path of the Dark Eldar* serisi — Andy Chambers; *Codex: Drukhari*; *Death Masque*; Lexicanum

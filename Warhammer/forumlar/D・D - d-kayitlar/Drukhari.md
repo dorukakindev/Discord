@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/c/ca/Kabal_of_the_Black_Heart.png/revision/latest?cb=20141020194824
-
 -# THE IMPERIAL ARCHIVE
 # Drukhari
 

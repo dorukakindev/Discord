@@ -13,6 +13,14 @@ Sisters of Battle olarak da bilinen, Emperor'a olan inançlarını silah gibi ta
 - **Önemli Olaylar:** Age of Apostasy; Vandire'ın düşüşü; Saint Celestine'in dönüşleri.
 - **Kanon Notu:** "Sisters of Battle" kullanım adıdır; kurumsal ad Adepta Sororitas'tır.
 
-## Tarihçe
+## Savaş Rahibeleri
+Adepta Sororitas — Sisters of Battle — Ecclesiarchy'nin resmi olmayan ama tek 'ordu'sudur; Age of Apostasy'den sonra çıkan yasak yüzünden ('no men under arms') kadınlardan kurulu, inanç temelli askeri güçtür. İmparator'a taparlar, güç zırhı + bolter + promethium (alev) üçlemesiyle savaşırlar; 'Acts of Faith' (mucizevi eylemler) canon mekaniklerine de yansır.
 
-Adepta Sororitas (Sisters of Battle), İmparatorluğun en fanatik ve en sadık askeri gücüdür; İmparator'a olan inançla savaşan ve Ecclesiarchy'nin askeri kolu olan kadın savaşçılardır — onlar, İmparatorluğun en kutsal ve en acımasız savaşçılarıdır. Adepta Sororitas'ın en büyük özelliği, onların inancıdır — onlar, İmparator'a olan inançlarıyla savaşır ve onların savaşı, hem askeri hem de dini bir seferdir; bir Sister of Battle, hem bir savaşçı hem de bir rahibedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Adepta Sororitas'ın en ünlü özelliği, onların Retributor ve Celestian'larıdır — onlar, en deneyimli ve en fanatik savaşçılardır ve onların varlığı, İmparatorluğun en kutsal savaş gücüdür; bir Celestian, hem bir savaşçı hem de bir azizedir. Adepta Sororitas, İmparatorluğun en fanatik ve en sadık askeri gücüdür —
+## Tarihçe
+Order'ın kökeni Vandire'in Reign of Blood'una dayanır: Brides of the Emperor olarak başladılar, Alicia Dominica'nın İmparator'un önünde Vandire'ı infaz etmesiyle 'gerçek' kimliğe geçtiler. Sonrasında Thor reformuyla Order Militant (Orders of the Bloody Rose, Ebon Chalice, Valorous Heart, Sacred Rose, Argent Shroud, Martyred Lady) kuruldu.
+
+## Canon İmza
+Sister'ların savaşı ibadettir: Exorcist füze tankları, Immolator nakliyatları, Celestian korumaları ve Saint Celestine gibi yaşayan azizeler. Repentia — günah işlemiş görülen rahibeler — ölümüne savaşarak bağışlanır. Sister'lar sadece savaşçı değil aynı zamanda Ordo Hereticus'un kılıcı ve Imperium'un en fanatik sadık unsurudur.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Adepta Sororitas*; *Sisters of Battle* supplement; *Celestine* — Andy Clark; *Reign of Blood* dönem materyalleri; Lexicanum

@@ -10,16 +10,12 @@ Sisters of Battle'ın kanatlı müfrezeleri — jump pack'li, el silahlı ve 'İ
 - **Dönem:** —
 - **Köken:** Order Militant
 
-## Tarihçe
-Order Militant'ın en kutsal piyade tipi: Seraphim'ler jump pack'lerle iniş yapar, dual bolt pistol veya hand flamer ile 'gökten gelen hüküm' olur. Kadın savaşçılardan oluşur ve 'aerobile Assault' doktrini Adepta Sororitas'ın en görsel savaş formudur.
+## Melek
+Seraphim — Sisters of Battle'ın 'hız' birimidir; Jump Pack'li 'melek' savaşçıları. 'Bolt Pistol' ve 'Hand Flamer' ile 'ikili silah' dövüşü yaparlar — 'Celestian'ın hızlı versiyonudur. 'Seraphim' adı 'en yüksek melek' anlamına gelir — Sisters'ın 'gökyüzü' figürü.
 
-## Özellikler
-Jump pack, dual bolt pistols veya inferno pistols/hand flamer, yakın dövüş bıçakları; 'İmparator'un kanatlı gazabı' rolü.
+## Kaynaklar
+-# Kaynaklar: *Codex: Adepta Sororitas*; Lexicanum
 
 -# Kaynaklar: Codex: Adepta Sororitas
 
 -# İlişkili kayıtlar: `sisters-of-battle`, `saint-celestine`, `adepta-sororitas`
-
-### Arka Plan
-
-Serafim — 'yakan' 'melek' 'altı' 'kanat' 'figürü'; 'serafim = ateş' figürü.

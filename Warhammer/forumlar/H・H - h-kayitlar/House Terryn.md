@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/2/25/AdamantWrath.jpg/revision/latest?cb=20180624214358
-
 -# THE IMPERIAL ARCHIVE
 # House Terryn
 

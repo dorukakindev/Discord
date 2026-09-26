@@ -12,9 +12,14 @@ Kara kaleler, surlar ve bitmek bilmeyen tahkimatlarla kaplı, kararmış bir gü
 - **Önemli Olaylar:** Iron Warriors'ın yerleşmesi; *Dead Sky Black Sun* olayları.
 - **Kanon Notu:** Perturabo'nun Daemon Prince'liğe ne zaman yükseldiği kaynaklarda farklı çerçevelenir.
 
-## Tarihçe
+## Demir Kale
+Medrengard, Iron Warriors'ın Eye of Terror içindeki Daemon World'ü ve 'Iron Fortress'ıdır; Perturabo'nun kişisel kalesi (Citadel of Iron) burada — lejyonun 'mühendislik-ve-düşmanlık' kültürünün merkezidir. Gezegenin kendisi bir makine: sürekli savaş, kaynak kavgası ve 'Iron Circle'ın iç çekişmesi.
 
-Medrengard, Chaos'un en korkulan ve en yozlaşmış dünyasıdır; Eye of Terror'da bulunan ve Iron Warriors'ın evidir — onlar, Chaos'un en pragmatik ve en tehlikeli dünyasıdır. Medrengard'ın en büyük özelliği, onun sanayisidir — onlar, Iron Warriors'ın evidir ve onların varlığı, Chaos'un sanayisinin merkezidir; bir Medrengard, bir fabrika ve bir mezardır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Medrengard'ın en ünlü özelliği, onun Perturabo'nun evidir — onlar, Iron Warriors'ın primarch'ının evidir ve onların varlığı, bir primarch'ın düşüşünün ve bir Legion'un yozlaşmasının kanıtıdır. Medrengard, Chaos'un en pragmatik ve en tehlikeli dünyasıdır — onlar, sanayinin ve yıkımın somut halidir.
+## Daemonculaba
+Medrengard canon'da en karanlık yerlerden biridir — Honsou'nun Daemonculaba'sı (kadın bedenlerinden yeni Chaos Space Marine üreten sistem) burada işliyordu; Ventris'in görevi de buraya girmekti. Iron Warriors için Medrengard 'ev' değil 'savaş fabrikasıdır' — başka lejyonların 'kale' kavramından farklı olarak burada her şey kuşatma silahıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Iron Warriors* serisi — Graham McNeill; *Dead Sky Black Sun*; *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: *Dead Sky Black Sun — Graham McNeill*; *Codex: Chaos Space Marines — 10th Edition*
 

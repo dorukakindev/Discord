@@ -14,6 +14,11 @@ Sessiz, ürkütücü ve Imperium'un olağan kurumlarıyla neredeyse hiç temas k
 - **Önemli Olaylar:** Red Tithe; Outer Dark seferleri.
 - **Kanon Notu:** Raven Guard soyu anlatılarda güçlü biçimde ima edilse de Chapter'ın kökeni evren içinde belirsiz tutulur.
 
-## Tarihçe
+## Köpekbalıkları
+Carcharodons Astra — 'Space Sharks' — Imperium'un en karanlık Chapter'larından biridir; kökeni bilinmez (muhtemelen Raven Guard veya World Eaters soyundan), 'Silent Chapter' denir. Sessiz savaşır, kan banyosuyla öldürür ve kayıpları yoktur — 'Red Tithe' denen sistemle dünyalardan esir toplayıp onları Chapter'a köle yapar.
 
-Carcharodons, gene-lineage'i tartışmalı (muhtemelen Raven Guard soyu) ve İmparatorluğun en vahşi ve en gizemli Space Marine Chapter'larından biridir; onların savaş doktrini, okyanus ve köpekbalığı kültüründen doğar ve onlar, İmparatorluğun en acımasız ve en sessiz avcılarıdır. Carcharodons'un en büyük özelliği, onların vahşetidir — onların savaşı, sadece öldürmek değil, tamamen yok etmektir; bir Carcharodon, düşmanını parçalar ve onların savaş alanı, bir kan denizinden farksızdır. Carcharodons'un en ünlü savaşı, Badab War'dur — onlar, Huron'un isyanını bastırmada en vahşi taktikleri kullandılar ve onların varlığı, savaşın en kanlı sayfalarını yazdı. Carcharodons, İmparatorluğun en vahşi ve en gizemli Chapter'ıdır — onlar, okyanusun en derin avcılarıd
+## Tyberos
+Tyberos the Red Wake — Chapter Master'ı — canon'da en çok merak edilen figürlerden: iki devasa 'hunger' ve 'slake' silahıyla savaşır, zırhı Terminator'dir. Badab War'da Mantis Warriors'ı neredeyse yok ettiler; ama Carcharodons Imperium'a bağlılığıyla bilinir — sadece kendi yöntemleriyle. 'Bilinmeyen' Chapter mitolojisinin en güçlü örneğidir.
+
+## Kaynaklar
+-# Kaynaklar: *Imperial Armour* Cilt 10; *Red Tithe* — Robbie MacNiven; *Outer Dark*; Lexicanum

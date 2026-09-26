@@ -8,8 +8,10 @@ En ağır kişisel zırh olan Tactical Dreadnought Armour'u giyen elit Space Mar
 
 Terminator, bir Space Marine Chapter'ı içindeki en seçkin ve en korkunç birim tiplerinden biridir; sıradan bir asker değil, en ağır zırhı kuşanmış bir savaş veteranıdır. Adını taşıdığı şey, giydiği eşsiz zırhtır: Tactical Dreadnought Armour (Taktik Dretnot Zırhı), kısaca TDA. Bu, bir insanın taşıyabileceği en kalın, en dayanıklı ve en ağır kişisel zırhtır; neredeyse yürüyen bir tank gibidir. Bu zırhı kuşanan bir Space Marine, savaş alanının en ölümcül ortamlarına korkusuzca dalabilir.
 
-## Tarihçe
+## Duvar
+Terminator — Space Marine'ın 'ağır zırh' efsanesidir; Tactical Dreadnought Armour giyen birim, 'teleport' ile savaşa iner ve 'yürüyen kale' rolü oynar. Power Fist, Storm Bolter ve Assault Cannon'larıyla bilinirler — 'Crux Terminatus' rozetini sadece en iyiler taşır.
 
-Terminator, Tactical Dreadnought Armour giyen Space Marine Veteran'ıdır; bir Space Marine'in giyebileceği en ağır zırhı taşır ve görevi en zorlu noktalarda en önde savaşmaktır. Terminator'lar teleport saldırılarıyla ünlüdür — Terminator Armour'un içindeki savaşçı doğrudan düşman gemisine veya kale kapısına ışınlanabilir ve o noktada tek başına bir orduya bedeldir. Silahları storm bolter, power fist, assault cannon, thunder hammer ve lightning claw gibi en yıkıcı Imperial silahlarıdır; bir Terminator manga'sı bir Imperial Guard alayını tek başına devirebilir. Terminator Armour sayısı sınırlıdır — her Chapter'ın sadece belirli sayıda zırhı vardır ve bunlar yüzyıllar boyu bakım görür; bu yüzden Terminator olmak sadece rütbe değil, Chapter tarihinin bir parçası olmaktır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; *Terminator* lore; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

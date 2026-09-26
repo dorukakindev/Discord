@@ -14,6 +14,11 @@ Gözü kara, atılgan ve Blood Claws'un öfkesini hiç tam olarak bırakmamış 
 - **Önemli Olaylar:** Spear of Russ'ın kaybı; Wolfblade görevi; Wolf Lord oluşu.
 - **Kanon Notu:** Romanlardaki gençlik anlatısı ile Codex'lerdeki özet her ayrıntıda örtüşmez; "en genç Wolf Lord" nitelemesi Chapter içi övgüdür.
 
-## Tarihçe
+## Kurt Oğlu
+Ragnar Blackmane, Space Wolves'un en ünlü Wolf Lord'u ve canon'un en tanınmış 'genç' Space Marine'idir; Thunderwolf'larla değil, kendi cesaretiyle tanınır. Siyah mâne (blackmane) saçlı görünüşü ve mızrak 'Wolfspear'ıyla bilinir — genç yaşta Wolf Lord oldu ve birçok kez 'erken terfi' olarak tartışıldı.
 
-Ragnar Blackmane, Space Wolves'un en genç ve en efsanevi Wolf Lord'udur — Chapter tarihinin en hızlı yükselen savaşçısıdır. Ragnar, bir Blood Claw olarak başladı ve inanılmaz savaş yetenekleriyle hızla yükseldi; Chapter tarihinin en genç Wolf Lord'u oldu ve Space Wolves'un en efsanevi savaşçılarından biri haline geldi. Ragnar, Chaos'a karşı sayısız savaş kazandı ve Space Wolves'un en önemli kahramanlarından biri oldu; onun hikâyesi, William King'in romanlarıyla İmparatorluk'un en ünlü hikâyelerinden biridir. Ragnar Blackmane, Space Wolves'un en efsanevi ve en genç Wolf Lord'u olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü savaşçı hikâyelerinden biridir.
+## Sicil
+Ragnar'ın savaşları uzundur: Stormfang'la savaş, 'curse of the wulfen' döneminde Chapter'ı kurtarması, 13th Black Crusade'deki rolü. *Space Wolf* serisi onun yetişme hikâyesidir — Imperium'un en eski 'Space Marine roman karakteri'dir. Ragnar, Space Wolves'un 'kaba ama asil' kültürünün en iyi temsilcisidir.
+
+## Kaynaklar
+-# Kaynaklar: *Space Wolf* serisi — William King; *Codex: Space Wolves*; *Ragnar's Claw*; Lexicanum

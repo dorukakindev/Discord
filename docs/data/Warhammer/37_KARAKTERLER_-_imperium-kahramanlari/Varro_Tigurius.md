@@ -10,9 +10,10 @@ Varro Tigurius, Ultramarines chapter'ının Baş Kütüphanecisi (Chief Libraria
 
 Tigurius'un yetenekleri olağanüstüdür; geleceği parçalar halinde görebilir, Warp'ın tehlikeli akıntılarını çoğu psyker'dan daha güvenle yönetir ve savaş alanında muazzam psişik güçler salabilir. Macragge'in Tyranid istilasında, Hive Mind'ın o boğucu, akıl çelen baskısına (Warp'taki Gölge'ye) direnebilen ender varlıklardan biri oldu; bu, gücünün ve irade disiplininin bir kanıtıydı.
 
-## Tarihçe
+## Ultramar'ın Gözü
+Varro Tigurius — Ultramarines'in Chief Librarian'ı ve Imperium'un en güçlü psyker-Space Marine'lerindendir; 'Hellfire Hood' ve kehanet gücüyle tanınır. Tyranid tehdidini ilk 'hisseden' Space Marine'dir — Behemoth'un gelişini o gördü ve Calgar'ı uyardı. Canon'da 'geleceği okuyan' Space Marine'in en yüksek örneğidir.
 
-Varro Tigurius, Ultramarines'in Chief Librarian'ı ve İmparatorluk'un en güçlü psyker'larından biridir — Ultramarines'in en önemli psyker'ıdır. Tigurius, Ultramarines'in en güçlü ve en deneyimli psyker'ıdır; onun psyker güçleri, Ultramarines'in en önemli ve en güçlü güçlerinden biridir. Varro Tigurius, Ultramarines'in en güçlü ve en deneyimli psyker'ı olarak kalır — onun güçleri, Ultramarines'in en önemli ve en güçlü güçlerinin simgesidir.
-
+## Kaynaklar
+-# Kaynaklar: *Codex: Ultramarines*; *Tigurius* lore parçaları; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexican

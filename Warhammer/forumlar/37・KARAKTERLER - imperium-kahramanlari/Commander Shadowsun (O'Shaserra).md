@@ -14,6 +14,11 @@ Shadowsun, T'au Empire'ın en önde gelen Fire Caste komutanlarından biri olara
 - **Önemli Olaylar:** Agrellan; Astorgius; Fifth Sphere Expansion.
 - **Kanon Notu:** Fifth Sphere Expansion'ın ayrıntıları ve sonucu anlatıda gelişmektedir.
 
-## Tarihçe
+## Tau'nun Yüzü
+Shas'la T'au Shaserra — Commander Shadowsun — Aun'va'nın öğrencisi ve T'au Empire'ın en bilinen komutanı; Mont'ka (öldürücü darbe) doktrininin canlı örneği. Dawn of War kadrosunda tanındı, 8. edisyonda Imperium'a karşı Tau'nun resmi 'savaş kahramanı' oldu. Stealth Battlesuit ve iki komuta dronu ile savaşır; sahnede kalmaz, zaferi verir.
 
-Commander Shadowsun (O'Shaserra), T'au İmparatorluğu'nun en ünlü ve en tehlikeli kadın komutanıdır — T'au'nun en önemli generalidir. Shadowsun, T'au İmparatorluğu'nun en ünlü generalidir; onun taktikleri ve liderliği, T'au'nun en önemli zaferlerinin ve en büyük savaşlarının simgesidir. Shadowsun, T'au'nun en ünlü ve en tehlikeli komutanı olarak kalır — onun hikâyesi, T'au'nun en önemli ve en ünlü savaş hikâyelerinden biridir.
+## Kuşatma Savaşları
+Shadowsun'un kariyeri Tau'nun üçüncü genişleme savaşlarıyla yazıldı: Agrellan (Prefectia), Mu'gulath Bay ve son olarak Vigilus'taki büyük kampanya. Shadowsun, Vigilus'ta Imperium'un en iyi generallerini geriletirken aynı anda Tau'nun iç politik dengesinde Ethereal'ların 'kukla' mı 'bağımsız' mı olduğu sorusunun ortasında durur — Farsight'ın karşıtı olarak Tau'va'nın sadık yüzüdür.
+
+## Kaynaklar
+-# Kaynaklar: *Shadowsun: The Last of Kiru's Line* — Braden Campbell; *Codex: T'au Empire*; Vigilus kampanya kitapları; Lexicanum

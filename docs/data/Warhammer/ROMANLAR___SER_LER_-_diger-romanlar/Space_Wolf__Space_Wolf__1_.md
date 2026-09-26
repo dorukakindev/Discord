@@ -8,14 +8,10 @@ Ragnar Blackmane'in gençliği: Fenris'li bir kabile çocuğunun Space Wolf olu�
 - **Yazar:** William King
 - **Konum/Dönem:** Fenris
 
-## İçerik
-Ragnar'ın Fenris'teki klan savaşından Thunderhawk savaşlarına; 'Blackmane' efsanesinin doğuşu.
+## Kurt'un Doğuşu
+Space Wolf — William King'in 'Space Wolf' serisinin ilk romanı; Ragnar Blackmane'in Fenris'ten Russ'ın ordusuna alınması ve 'Bloodclaw' eğitimi. Space Wolves'un 'viking' kültürünün en iyi anlatısı — 'Wulfen' laneti ve 'gökyüzü kurtları'nın mitosu. Ragnar'ın 'öfke' hikâyesi — her şey burada başlar.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-Space Wolf, William King'in yazdığı ve Space Wolves'un hikâyesini anlatan bir roman serisinin ilk kitabıdır. Bu roman, Space Wolves'un en önemli hikâyesini anlatır; roman, Space Wolves'un en önemli hikâyesinin ilk parçasıdır. Bu roman, Space Wolves'un en önemli hikâyesinin ilk parçasıdır; roman, Space Wolves'un en önemli hikâyesinin başlangıcıdır. Roman, Space Wolves'un en önemli hikâyesinin başlangıcı olarak kalır.
-
+## Kaynaklar
+-# Kaynaklar: *Space Wolf* — William King; *Ragnar* serisi; Lexicanum
 
 -# Kaynaklar: Black Library

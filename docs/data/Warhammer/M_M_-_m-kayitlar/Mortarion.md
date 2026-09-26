@@ -1,66 +1,43 @@
--# THE IMPERIAL ARCHIVE
+https://static.wikia.nocookie.net/warhammer40k/images/9/9f/Mortarion%2C_Prince_of_Decay.jpg/revision/latest?cb=20110312202131
+
+-# THE IMPERIAL ARCHIVE · Hain Primarchlar · Kayıt
 # Mortarion
 
--# Kategori: Primarch / Daemon Primarch · Fraksiyon: Chaos · Dönem: Great Crusade – Era Indomitus · Bağlılık: Nurgle
+*The Pale King · Death Lord · Nurgle'ın Daemon Primarch'ı*
 
-## Tanım ve Genel Çerçeve
-Mortarion, XIV Legion'ın, yani Dusk Raiders olarak kurulup Death Guard adını alan Legion'ın Primarch'ıdır. Pale King (Solgun Kral) ve Reaper gibi adlarla anılan bu figür, Primarch'lar arasında en keskin çelişkiyi taşır: bütün ömrü boyunca Warp'tan, psykerlerden ve sorcery'den tiksinmiş, sonunda ise Chaos Güçleri'nin en sabırlısı olan Nurgle'ın Daemon Primarch'ına dönüşmüştür. Bugün Eye of Terror'daki Plague Planet'ten salgın seferleri yöneten Mortarion'un hikâyesi, dayanmayı erdem sayan bir iradenin, dayanılmaz olanla karşılaştığında nasıl büküldüğünün kaydıdır.
+XIV Legion'ın, Dusk Raiders olarak kurulan ve Death Guard adını alan Legion'ın Primarch'ı. Zehirli sisleriyle ölüm dünyası Barbarus'ta bir necromancer'ın elinde büyüdü; her türlü psişik ve büyüsel güçten nefret eden, dayanıklılığı ve inadıyla tanınan bir Primarch'tı. Heresy'de Horus'a katıldı ve Warp'ta mahsur kalan Legion'ını kurtarmak için Nurgle'a teslim oldu. Bugün Plague Planet'ten yönettiği Death Guard'la Imperium'a karşı veba savaşları yürütür.
 
-Bu kanal Mortarion'u bir kişi olarak ele alır. Legion'un kurumsal tarihi ve Plague Company düzeni <#1551813274327060552>, Nurgle'ın doğası <#1551754683222327439> kanalında işlenir.
+- **Kategori:** Primarch (hain) — Daemon Primarch
+- **Fraksiyon:** Chaos — XIV Legion, Death Guard; Nurgle
+- **Dönem:** Great Crusade → Era Indomitus
+- **Köken:** Barbarus; sisli dağların efendisi olan bir warlord-necromancer tarafından bulundu ve büyütüldü
+- **Silahlar:** Silence adlı dev tırpan, Lantern adlı enerji tabancası
+- **Durum:** Daemon Primarch; Eye of Terror'daki Plague Planet'ten Death Guard'ı yönetir
 
-## Kökenler: Barbarus ve Necare
-Mortarion'un düştüğü Barbarus, alçak vadilerinde insanların güçlükle hayatta kaldığı, tepeleri ise ölümcül sislerle örtülü bir dünyaydı. Bu sislerin içinde, insanları av ve köle gibi kullanan insanüstü Overlord'lar hüküm sürüyordu. Bebek Primarch'ı bulan en güçlüleri Necare oldu; Mortarion'u zehrin ortasında kendi mirasçısı gibi yetiştirdi. Genç Primarch, efendisinin "av" diye andığı varlıkların insan olduğunu öğrenince kaçıp vadilerdeki halkın arasına karıştı, onlara savaşmayı öğretti ve Overlord'lara karşı bir isyan başlattı.
+## Kökenler: Barbarus
+Mortarion'un kapsülü, zehirli sisle kaplı ölüm dünyası Barbarus'a düştü. Dağların tepelerinde yaşayan, insan olmadığı ima edilen bir necromancer-lord — güncel kaynaklarda **Necare** — çocuğu bulup kendi hizmetkârı olarak büyüttü. Barbarus'un vadilerindeki insanlar, bu Overlord'ların zehirli sisle kapladığı dağlardan inen dehşet altında yaşıyordu. Mortarion, hocasının acımasızlığını ve insanlara uygulanan terörü öğrendiğinde ondan kaçtı ve vadilerin insanları arasına sığındı.
 
-İsyanın sonunda Mortarion, Necare'nin kalesine tırmandı. Kaynakların anlatımına göre en yoğun zehrin içinde gücü tükenmek üzereyken efendisini ancak Emperor'un müdahalesiyle alt edebildi. Kendi elinden alınmış bu zafer, babasına duyduğu kırgınlığın ilk tohumu olarak okunur.
+Mortarion, Barbarus'un zehrine karşı direnç geliştirerek insanları örgütledi ve Overlord'lara karşı bir isyan başlattı. Ancak Necare'nin kalesine ulaştığında zehirli sis onu bile boğmaya başladı. Tam o sırada Emperor geldi ve Necare'yi yok etti. Mortarion bu zaferin elinden alındığını düşündü; Emperor'a biat etse de ona karşı derin bir kırgınlık taşıdı. Barbarus'un zehirli havası, Mortarion'un hayatı boyunca taktığı solunum aparatının ve "dayanıklılık" takıntısının kökenidir.
 
-## Tarihçe
+## Great Crusade
+Emperor, Mortarion'a XIV Legion'ı teslim etti. Terra döneminde Legion "Dusk Raiders" olarak anılıyordu. Mortarion Legion'ı Barbarus'un zor koşullarında yetişmiş savaşçılarla yeniden şekillendirdi ve adını **Death Guard** olarak değiştirdi. Death Guard, zehirli ve düşmanca ortamlarda bile ilerleyebilen, geri çekilmeyen, yavaş ama durdurulamaz bir Legion'dı.
 
-Mortarion, Death Guard'ın en ünlü ve en trajik primarch'ıdır; Barbarus'un — Death Guard'ın ev gezegeni — en zorlu savaşçısı olan ve Death Guard'ı kuran Mortarion, İmparatorluğun en trajik ve en tehlikeli pri
+Mortarion, psişik güçlerden ve büyüden derin bir nefret duyuyordu; bu, Necare'yle yaşadığı deneyimden geliyordu. Nikaea Konseyi'nde Librarius'ların kapatılmasını en güçlü biçimde destekleyenlerden oldu. Gizli bir lodge'da Horus'un ilişkilerine giren Mortarion, Emperor'un kendisini küçümsediği hissiyle kolayca ihanete çekildi. Legion'ın Birinci Kaptanı **Calas Typhon** ise gizlice Chaos kültlerine bağlıydı.
 
-## Karakter: Katlanmanın Felsefesi
-Barbarus, Mortarion'a tek bir ders öğretti: ayakta kalmak. Onun gözünde gerçek güç parlaklıkta ya da ilhamda değil, başkalarının çökeceği yerde yürümeye devam edebilmekteydi. Bu yüzden Death Guard'ı gösterişsiz, ağır, kimyasal ortamlarda savaşabilen ve geri çekilmeyi tanımayan bir kuvvete dönüştürdü. Kişisel muhafızları Deathshroud, bu anlayışın en seçkin taşıyıcıları olarak anılır.
+## Horus Heresy
+Death Guard, Isstvan III'te Legion içindeki sadık savaşçıların yok edilmesinde yer aldı; Kaptan **Nathaniel Garro** ve bir grup sadık savaşçı, *Eisenstein* adlı gemiyle Terra'ya kaçarak ihaneti haber verdi. Isstvan V'teki Drop Site Massacre'da Death Guard ihanet dalgasının içindeydi.
 
-Bu felsefenin karanlık yüzü, doğaüstü olan her şeye karşı duyduğu derin nefretti. Mortarion, Overlord'ların sisli büyüsünü psykerlerin gücüyle özdeşleştirdi ve Legion'unun Librarius'una baştan beri karşı çıktı. Council of Nikaea'da psykerlere ve sorcery'e karşı en sert tanıklık edenlerden biri olarak Emperor'un Librarius yasağını destekleyen sesler arasında yer aldı. Ne var ki kendi First Captain'ı Calas Typhon, gizli bir psyker'dı ve yasak güçlerle çoktan bağ kurmuştu.
+Heresy'nin sonraki aşamasında Death Guard Terra'ya doğru yol alırken Typhon, Legion filosunu Warp'ta kasten mahsur bıraktı. Warp'ta kalan Legion, Destroyer Plague adı verilen korkunç bir salgınla kırıldı. Mortarion, Legion'ını kurtarmak için sonunda Nurgle'a teslim oldu. Death Guard Nurgle'ın hizmetkârları olarak yeniden doğdu; Mortarion ise bir süre sonra Daemon Prince'e yükseldi.
 
-Mortarion'un silahı, Barbarus'tan beri taşıdığı dev tırpan Silence'dır; sonraki çağlarda bu silahın da daemonik bir niteliğe büründüğü anlatılır. Heresy yıllarında yanında Lantern adlı enerji tabancasını taşıdığı kaydedilir. Phosphex gibi korkunç kimyasal silahlara başvurması ise Barbarus'ta edindiği zehir bilgisini savaşa çevirişinin bir yansıması olarak okunur. Heresy dönemindeki sancak gemisinin adı Endurance'tı.
+Terra Kuşatması'nda Mortarion, Lion's Gate Spaceport'ta White Scars'ın Primarch'ı Jaghatai Khan'la dövüştü ve onu neredeyse öldürdü. Heresy'nin sonunda Death Guard Eye of Terror'a çekildi.
 
-## Kardeşleri
-Horus, Mortarion'un en yakın hissettiği kardeşti ve bu bağ Heresy'deki safını belirleyen etkenlerden biri olarak yorumlanır. Magnus ve psyker kardeşlerine karşı güvensizliği ise hiç dinmedi. Jaghatai Khan ile rekabeti Heresy boyunca kanlı bir kişisel husumete dönüştü. Guilliman ise on bin yıl sonra, Plague Wars'ta karşısına dikilecek kardeş olacaktı.
+## Plague Planet ve Uzun Savaş
+Eye of Terror'da Mortarion, Nurgle'ın ona verdiği **Plague Planet**'in efendisi oldu. Death Guard savaş grupları Uzun Savaş boyunca Imperium'a karşı veba ve çürüme yaydı. **Typhus**, Nurgle'ın en ünlü şampiyonlarından biri olarak Mortarion'dan bağımsız hareket etti.
 
-## Isstvan ve Terminus Est
-Horus ayaklandığında Mortarion, Legion'unun içindeki sadıklık şüphesi taşıyan savaşçıları Isstvan III'e göndererek tasfiyeye ortak oldu; Battle-Captain Nathaniel Garro'nun *Eisenstein* ile Terra'ya kaçışı, bu ihanetin haberini Emperor'a taşıdı. Mortarion, Isstvan V'teki Drop Site Massacre'da da hainlerin safında yer aldı.
+## Plague Wars
+Era Indomitus'ta Great Rift'in açılmasının ardından Mortarion, kardeşi Guilliman'ın dirilişini öğrenerek **Plague Wars**'u başlattı. Death Guard ve Nurgle'ın daemon lejyonları Ultramar'ı istila etti; Iax ve Parmenio gibi dünyalar vebayla harap oldu. Mortarion ile Guilliman Iax'ta karşılaştı; Guilliman Primarch'ı püskürttü ve Ultramar'ı kurtardı. Mortarion bugün Death Guard'ın başındadır ve Imperium'a karşı yeni veba savaşları planlamaktadır.
 
-Legion'un kaderini asıl belirleyen olay, Terra'ya doğru yürütülen Warp yolculuğu oldu. Typhon, kendi komutasındaki dev grand cruiser *Terminus Est* ile filoya katılmıştı ve kaynakların anlatımına göre filonun Navigator'larını devre dışı bırakarak gemilerin durgun Warp'ta mahsur kalmasına yol açtı. Filoda, sonraki kayıtlarda Destroyer Plague diye anılan ve bedeni çürütüp ölümü reddeden bir salgın yayıldı. Barbarus'un zehirlerine göğüs germiş Primarch, bu kez hiçbir iradenin yenemeyeceği bir azapla karşılaştı.
+## Kişilik
+Mortarion, trajedinin ironisini taşıyan bir Primarch'tır: zalim bir hocadan kaçıp insanları kurtarmak isteyen biriydi, ama en sonunda en çok nefret ettiği güçlere — büyüye ve Warp'a — boyun eğdi. Dayanıklılığı bir erdemden bir lanete dönüştü: Nurgle'ın hizmetinde asla ölmez, ama asla gerçekten iyileşmez de.
 
-## Nurgle'a Teslimiyet
-*The Buried Dagger* romanı, Mortarion'un salgının içinde çözülüşünü ve sonunda oğullarının kurtuluşu karşılığında kendisini ve Legion'unu Nurgle'a sunuşunu işler. Bu teslimiyet, kaynaklarda coşkulu bir iman değil, çaresizlik içinde yapılmış bir pazarlık olarak çerçevelenir. Mortarion'un Daemon Prince'liğe yükselişinin zamanlaması ise eski ve yeni yayınlarda farklı çerçevelenir: eski özetler bunu Heresy sonrasına yerleştirirken Horus Heresy serisi dönüşümü Warp yolculuğuna ve Terra öncesine bağlar.
-
-Typhon, Typhus adını alarak Nurgle'ın Herald'ı olarak anılmaya başladı. İki figür arasındaki ilişki o günden beri güvensizlikle doludur: Typhus, Primarch'ına değil doğrudan Nurgle'a bağlı bir yolcu gibi hareket eder ve Mortarion, kendisini bu duruma sürükleyen ihaneti hiçbir zaman unutmamış olarak betimlenir.
-
-## Prospero'dan Terra'ya
-Heresy'nin ilerleyen yıllarında Mortarion ve Jaghatai Khan birden fazla kez karşı karşıya geldi. *The Path of Heaven*, White Scars'ın Prospero'da Death Guard'la çatışmasını ve iki Primarch'ın ilk büyük karşılaşmasını anlatır; Mortarion bu karşılaşmadan ışınlanarak çekildi. Siege of Terra'da Death Guard, Traitor güçlerin önemli bir kanadını oluşturdu. *Warhawk*, Khan'ın Lion's Gate uzay limanını geri almak için yürüttüğü harekâtı ve iki kardeş arasındaki son düelloyu işler; bu karşılaşma Khan'ın ağır biçimde yaralanmasıyla sonuçlandı, fakat liman sadık kuvvetlerin eline geçti.
-
-## Plague Planet
-Horus'un ölümünden sonra Mortarion, Legion'uyla birlikte Eye of Terror'a çekildi ve Nurgle'ın ona bağışladığı söylenen Plague Planet'e yerleşti. Bu dünyanın, onun bir zamanlar yıkmak için ayaklandığı Barbarus düzenini andırdığı sıkça vurgulanır: zehirli sislerin arasındaki kalesinden kendi halkına hükmeden bir efendi, artık Necare değil Mortarion'dur. Pek çok Traitor Legion'ın Legion Wars sırasında dağıldığı çağda Death Guard'ın Legion kimliğini görece koruyabilmesi, büyük ölçüde onun otoritesine bağlanır.
-
-On bin yıllık Long War boyunca Mortarion, çoğunlukla Plague Company'leri ve Plague Fleet'leri aracılığıyla hareket etti; kendisinin bizzat sahneye çıktığı olaylar kayıtlarda seyrektir. Bu sessizlik Great Rift'le birlikte sona erdi.
-
-## Great Rift Sonrası: Plague Wars
-Guilliman'ın dirilişinin ardından Mortarion, Nurgle'ın büyük planının parçası olarak kardeşinin yurdu Ultramar'a yöneldi. Plague Wars olarak anılan bu seferde Iax, Parmenio ve Espandor gibi dünyalar salgın ve daemonik istila altında kaldı. Guy Haley'nin *Dark Imperium: Plague War* ve *Godblight* romanları iki Primarch'ın bu çatışmasını işler; kaynaklar Iax'taki karşılaşmanın Mortarion'un çekilmesiyle sonuçlandığını anlatır, ancak Ultramar'ın uğradığı yıkım derin izler bırakmıştır. Mortarion için bu savaş yalnızca bir fetih değil, Imperium'un düzeninin simgesi saydığı kardeşine karşı kişisel bir hesaplaşmadır. Plague Wars'ın cephe cephe ayrıntıları plague-wars kanalındadır.
-
-10th Edition dönemi *Codex: Death Guard*, Mortarion'u Death Guard'ın başında, Plague Company'lerini galaksinin farklı cephelerine yönelten Daemon Primarch olarak konumlandırır. Ultramar sonrası hedeflerine dair anlatı gelişmeye devam etmektedir.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Mortarion, Nurgle'ın coşkulu bir müridir.
-**Kanon:** Teslimiyeti çaresizlik içinde yapılmış bir pazarlık olarak anlatılır; Warp'tan nefreti ile ona boyun eğişi arasındaki gerilim karakterinin merkezindedir.
-
-**Yanılgı:** *Terminus Est* Mortarion'un sancak gemisidir.
-**Kanon:** *Terminus Est* Typhon'un, yani Typhus'un gemisidir; Mortarion'un Heresy dönemi sancak gemisi Endurance'tır.
-
-## Yayın ve Retcon Notu
-Mortarion ve Death Guard, *Realm of Chaos: The Lost and the Damned* (1990) ile Nurgle takipçileri olarak tanımlandı. Primarch'ın plastik Daemon Primarch modeli, 8th Edition'ın ilk *Codex: Death Guard*'ının yayımlandığı 2017'de çıktı ve Plague Wars anlatısı bu dönemde başladı. Horus Heresy serisi Barbarus'u, Nikaea'yı ve düşüşü derinleştirerek eski yalın özeti daha katmanlı bir trajediye dönüştürdü.
-
-**Kaynaklar:** *The Flight of the Eisenstein — James Swallow*; *The Buried Dagger — James Swallow*; *Mortarion: The Pale King — David Annandale*; *The Path of Heaven — Chris Wraight*; *Warhawk — Chris Wraight*; *Dark Imperium: Plague War — Guy Haley*; *Godblight — Guy Haley*; *Codex: Death Guard — 10th Edition*
-**Çapraz:** <#1551813274327060552>, <#1551754683222327439>, plague-wars, <#1551808704901423186>, <#1551815803220004936>, <#1551814951365115956>, <#1551818097504157699>, ultramar
-
-​
+-# Kaynaklar: *The Flight of the Eisenstein* — James Swallow; *The Buried Dagger* — James Swallow; *Mortarion: The Pale King* — David Annandale; *Warhawk* — Chris Wraight; *Dark Imperium: Plague War* — Guy Haley; *Codex: Death Guard*; *Gathering Storm*; Lexicanum

@@ -7,11 +7,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a6/IronWarriorsHonsou.jp
 
 Yarı-kan olmasına rağmen Warsmith rütbesine yükselen Iron Warriors lordu; Ultramar'ı işgal eden, Uriel Ventris'in klonunu yaratan kinli komutan.
 
-## Tarihçe
-Honsou, Iron Warriors Hain Lejyonu'na mensup bir Kaos Space Marine'idir; bir yarı-kan (half-breed) olmasına rağmen Warsmith rütbesine yükselmiştir. Gen-tohumu, sadık Imperial Fists chapter'ından ve eski Iron Warriors Lodge Master Honourable Soulaka'dan türetilmiştir; bu "kirli" soy, ona karşı derin bir önyargı doğurdu ve onu içten içe yakan bir kine dönüştü (Graham McNeill'in romanlarında işlenir).
+## Melez Savaşçı
+Honsou, Iron Warriors'un en meşhur 'yarım' savaşçısı: IV. Lejyon'un Warsmith'lerinden, gen dokusunda Imperial Fists ve Iron Warriors karışımı taşıyan bir 'melez'. Diğer Iron Warriors'lar onu 'safsız' sayar; o da bunu umursamaz ve daha acımasız, daha zeki olmakla karşılık verir. Hydra Cordatus Kuşatması'nda (999.M41) Warsmith olmadan önce komutanlık yaptı — Cadian bebeklerinin kafataslarından ödeme aldığı savaş, lejyonun en acımasız operasyonlarından biriydi.
 
-Honsou, Iron Warriors'un en tehlikeli Warsmith'idir — 'yarı-medrengad' olarak da bilinen, hem Iron Warrior hem de çalıntı gene-seed'le karışık kökenli bir hibrit. Warsmith olan bu adam, İmparatorluk'un en korkulan kuşatma ve altyapı uzmanlarından biridir; Silika'ya karşı yürüttüğü 'Skull Harvest' ile ününü pekiştirdi.
+## Daemonculaba
+Honsou'nun en büyük 'eseri' Daemonculaba'dır: Warsmith'lerin kadın bedenlerinden yeni Chaos Space Marine 'üreten' sistem — İmparatorluk'un en iğrenç savaş suçlarından biri. Medrengard'daki kaleleri ve Ultramar saldırısı (*Dead Sky, Black Sun* ile *Iron Warriors* serisi) onu Imperium'un en nefret edilen Warsmith'i yaptı. Uriel Ventris'le düşmanlığı kişiseldir.
 
-Honsou'nun en büyük 'başarısı', Ultramar'ın kalbine sızmak ve Omnissiah'ın Vaat Edilmiş Kulesi'ni tehdit etmekti; Warsmith'in Daemonculaba projesi — kaos-marine 'üretim' çiftliği — İmparatorluk'un karşılaştığı en mide bulandırıcı teknolojilerden biriydi. Perturabo'nun Medrengad'ından bağımsız operasyonlar yürüten Honsou, 'saf hain' değil 'pragmatik canavar'dır ve Iron Warriors'ın en öngörülemez liderlerinden biri olarak kalmıştır.
+## Kaynaklar
+-# Kaynaklar: *Storm of Iron*, *Iron Warriors* serisi (Dead Sky Black Sun vb.) — Graham McNeill; *Codex: Chaos Space Marines*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

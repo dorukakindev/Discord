@@ -7,9 +7,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/89/Bahharoth2_7th_Editio
 
 Swooping Hawks mezhebinin Phoenix Lord'u; yaşamış en hızlı Aeldari sayılan, hava savaşının ilk ustası genç ruhlu savaşçı.
 
-## Tarihçe
-Baharroth, "Rüzgârın Çığlığı" (the Cry of the Wind) olarak anılan, Swooping Hawks (Süzülen Şahinler) mezhebinin Phoenix Lord'udur; Düşüş'ten beri ardı ardına gelen Swooping Hawk Exarch'larının bedenlerinde yaşayan ölümsüz bir savaşçı-ruhtur. Sabit bir craftworld'ü yoktur; tüm Phoenix Lord'lar içinde en hareketli, en özgür dolaşan olandır.
+## Rüzgâr
+Baharroth — 'Cry of the Wind' — Swooping Hawk Aspect'inin Phoenix Lord'u; hava hâkimiyeti ve süzülme savaşının en eski ustası. Asurmen'in 'kardeş' Phoenix Lord'larından biri — Eldar savaşının 'kanat' tarafını temsil eder. Hawk's Talon silahı ve uçuşuyla tanınır; gökyüzünden inen ölümün simgesidir.
 
-Baharroth, Asur Tapınağı'nda ilk Phoenix Lord Asurmen'in altında eğitim gördü ve onun öğretilerinden doğan ilk kuşağın bir parçasıdır. Phoenix Lord'ların en canlısı ve en genç ruhlusu olarak betimlenir; kanatlarına vuran güneş ışığının ve göğün özgürlüğünün hazzını yaşar. Bu neşeli kişilik, onu daha kasvetli kardeşlerinden ayırır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Asurmen* (yan); Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

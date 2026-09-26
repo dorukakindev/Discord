@@ -14,6 +14,14 @@ Heresy'den beri Legion'ın en ünlü düellocusu. Kusursuzluk saplantısını k�
 - **Önemli Olaylar:** Horus Heresy; ölüm ve dönüşüm döngüsü; Legion'ın Fulgrim etrafında toparlanması.
 - **Kanon Notu:** Lucius'un yeniden doğuş mekanizması Slaanesh'in lütfu olarak anlatılır; kesin işleyişi açıklanmaz. Kılıcın kökeni kaynaklarda farklı ayrıntılarla anılır.
 
-## Tarihçe
+## Kusursuz Kılıç
+Lucius, Emperor's Children'ın en büyük kılıç ustasıydı — Great Crusade'de lejyonun en iyi düellocusu, III. Lejyon'un 'kusursuzluk' idealinin saf örneği. Fulgrim'in düşüşünü izlerken o da Slaanesh'in yoluna girdi; ama Lucius için mükemmeliyet ibadet değil, saplantıydı. Heresy'de Isstvan III ve Terra'da dövüştü.
 
-Lucius the Eternal, Emperor's Children'ın en tehlikeli ve en korkulan figürlerinden biridir — Slaanesh'in en önemli savaşçısıdır. Lucius, Emperor's Children'ın en tehlikeli ve en korkulan figürüdür; onun ölümsüzlüğü ve savaş yetenekleri, Slaanesh'in en önemli ve en korkulan güçlerinin kaynağıdır. Lucius the Eternal, Emperor's Children'ın en tehlikeli ve en korkulan figürü olarak kalır — onun varlığı, Slaanesh'in en önemli ve en korkulan güçlerinin simgesidir.
+## Laneti
+Lucius'u eşsiz kılan Slaanesh'in laneti: onu öldüren her kimse, eğer öldürmekten bir an bile zevk aldıysa, yavaş yavaş Lucius'a dönüşür. Cesedinin içinden Lucius yeniden doğar — bu yüzden 'Ölümsüz' denir. Onu öldürmek Lucius'a katılmaktır; Imperium'un en çaresiz düşmanlarından biri olmasının sebebi budur. Onunla savaşmanın tek 'güvenli' yolu, onu öldürürken zevk almamak — ki bu neredeyse imkânsızdır.
+
+## Modern Rolü
+Bugün Lucius Emperor's Children'ın en tanınmış yüzü: Fulgrim'in keyfine bıraktığı lejyonun sahada komutanı, düellocu warband'lerin lideri. 'Lash of Torment' kırbacı ve zırhındaki esir yüzler (öldürdüğü düellocuların ruhları) onun imzasıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Fulgrim*, *Angel Exterminatus* (HH); *Lucius: The Faultless Blade* — Ian St. Martin; *Codex: Emperor's Children* (2025); Lexicanum

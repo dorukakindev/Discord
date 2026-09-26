@@ -8,13 +8,10 @@ Roboute Guilliman'ın dönüşü sonrası: Mortarion'un Ultramar'ı salması ve 
 - **Yazar:** Guy Haley
 - **Konum/Dönem:** Ultramar, Indomitus Crusade
 
-## İçerik
-Guilliman'ın Imperium'u yeniden yönetmeye çalışması ve Mortarion'la 'Tanrı ve İnsan' dövüşü.
+## Karanlık İmparatorluk
+Dark Imperium — Guy Haley'in romanı; 'Dark Imperium' döneminin (M42) başlangıcı ve Indomitus Crusade'ın açılışı. Guilliman'ın 'yeni Imperium'u ve 'un-mended' Great Rift'in ilk anlatısıdır. 'Imperium Nihilus' kavramının doğuşu — burada galaksinin yarısı karanlıkta kaldı.
 
--# Seri: Diğer Romanlar (Black Library)
-
-## Tarihçe
-
-Dark Imperium, Guy Haley'nin yazdığı ve İmparatorluk'un Büyük Yarık'tan sonraki durumunu anlatan bir romandır. Bu roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunu anlatır; roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli hikâyesidir. Bu roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli hikâyesidir; roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli parçasıdır. Roman, İmparatorluk'un Büyük Yarık'tan sonraki durumunun en önemli hikâyesi olarak kalır.
+## Kaynaklar
+-# Kaynaklar: *Dark Imperium* serisi — Guy Haley; Lexicanum
 
 -# Kaynaklar: Black Library

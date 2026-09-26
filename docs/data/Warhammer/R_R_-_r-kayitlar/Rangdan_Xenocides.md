@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/0/03/Legio_Vulturm_Warhound_Avarice_of_Night.png/revision/latest?cb=20210512030538
+
 -# THE IMPERIAL ARCHIVE
 # Rangdan Xenocides
 

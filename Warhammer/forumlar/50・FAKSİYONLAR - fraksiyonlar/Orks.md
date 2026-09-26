@@ -14,6 +14,14 @@ Galaksinin en yaygın ve en dirençli türlerinden biri. Mantar benzeri biyoloji
 - **Önemli Olaylar:** Ullanor; War of the Beast; Armageddon savaşları.
 - **Kanon Notu:** Orkların kökeni ve Krork teorisi kaynaklarda ima düzeyinde kalır; kesin gerçek gibi sunulmamalıdır.
 
-## Tarihçe
+## Yeşil Dalga
+Ork'lar — galaksinin en kalabalık savaş ırkı — tamamen savaş için evrilmiş bir tür'dür; mantar sporumdan doğar, büyüdükçe büyür, savaştıkça güçlenir. WAAAGH! denen kolektif savaş enerjisi Ork'ları bir arada tutar ve teknolojilerinin çoğu 'inandıkları için çalışır' — bir Ork silahı gerçekte işe yaramaz görünse bile Ork'un inancıyla işler. Savaş onlar için ibadet, yemek ve oyundur; ölüm bir kayıp değil yeni bir başlangıçtır.
 
-Orks, WH40K evreninin en büyük ve en korkulan xeno tehdididir; savaş için yaşayan ve Waaagh! — bir Ork'un kolektif psişik gücü — tarafından birleşen devasa bir ırktır — onlar, İmparatorluğun en büyük ve en kaçınılmaz düşmanıdır. Orks'un en büyük özelliği, onların sayısıdır — onlar, galaksinin en kalabalık xeno ırkıdır ve onların orduları, bir gezegenin nüfusunu bile aşabilir; bir Ork Waaagh!, bir Imperial ordusunu bile yenebilir ve onların savaşı, hem sayıca hem de vahşetçe büyüktür. Orks'un en korkulan yönü, onların Waaagh!'ıdır — onlar, bir Ork'un psişik gücüyle birleşir ve onların kolektif bilinci, bir gezegeni bile etkileyebilir; bir Ork Warboss, hem bir savaşçı hem de bir liderdir ve onların varlığı, bir Ork ordusunun merkezidir. Orks, İmparatorluğun en büyük ve en korkulan düşmanıdır — o
+## Klanlar
+Büyük Ork klanları: Goff (kaba kuvvet), Evil Sunz (hız), Deathskulls (yağma), Blood Axes (taktik — Imperium taktiklerini taklit ederler, bu yüzden diğer Ork'lar onlara kuşkuyla bakar), Bad Moons (zenginlik), Snakebites (ilkel). Her klan kendi subkültürünü korur; bir WAAAGH! genelde tek warlord'un altında klanları birleştirir.
+
+## Warlord'lar
+En büyük Ork figürleri — Ghazghkull Thraka (Armageddon'un belası ve Gork/Mork'un 'peygamberi'), Nazdreg, Bluddflagg, Grimskull — Imperium'un sürekli tehdididir. Beast'in War of the Beast'i (544.M32) Ork'ların Imperium'a getirdiği en ağır darbeydi. Ork'lar 'yenilmez' değildir — ama kovulması neredeyse imkânsızdır: bir dünya kurtulsa bile sporlar kalır ve birkaç yılda yeni bir WAAAGH! filizlenir.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Orks*; *Ghazghkull Thraka: Prophet of the Waaagh!* — Nate Crowley; *The Beast Arises* serisi; *Armageddon* kampanya materyalleri; Lexicanum

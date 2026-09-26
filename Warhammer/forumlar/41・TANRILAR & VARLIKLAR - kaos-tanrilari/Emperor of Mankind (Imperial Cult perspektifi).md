@@ -13,10 +13,20 @@ Imperium'un gözünde Emperor, Golden Throne'dan insanlığı koruyan tanrıdır
 - **Önemli Olaylar:** Monarchia'nın yıkımı; Imperial Cult'un kurumsallaşması.
 - **Kanon Notu:** Emperor'ın bir tanrı olup olmadığı ya da öldüğünde Warp'ta tanrı olarak doğup doğmayacağı kasıtlı olarak açık bırakılmış bir sorudur.
 
-## Tarihçe
+## Köken
+İmparator'un gerçek adı ve doğumu bilinmiyor; canonik anlatı onu MÖ 8000 civarında Anadolu'da (eskiden Proto-Türk/Hatti bölgesi olarak geçer) doğmuş, insanlığın bilinçsiz kolektif bilincinden doğmuş bir 'şamanlar topluluğu'nun reenkarne ruhsal varlığı olarak resmeder. İnsanlık tarihinin her döneminde farklı kimliklerle yaşadığı, farklı isimlerle bilindiği söylenir; ama tarihsel kaydı tamamen siliktir ve İmparator bu konuyu hiç açmaz. Tek gerçek: on binlerce yıldır yaşayan, insanlığın en güçlü psyker'ıdır.
 
-Emperor of Mankind, İmparatorluğun en ünlü ve en kutsal figürüdür; İmparatorluğun kurucusu ve onun en yüksek otoritesi olan İmparator, İmparatorluğun en kutsal ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en kutsal figürüdür. İmparator'un en büyük özelliği, onun gücüdür — onlar, İmparatorluğun kurucusu ve onun en yüksek otoritesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir İmparator, hem bir savaşçı hem de bir tanrıdır ve onların varlığı, İmparatorluğun en büyük kutsallığının somut halidir. İmparator'un en ünlü özelliği, onun Altın Taht'ıdır — onlar, İmparatorluğun en kutsal emanetinin koruyucusudur ve onların varlığı, İmparatorluğun en büyük geleneğinin kanıtıdır. Emperor of Mankind, İmparatorluğun en ünlü ve en kutsal figürüdür — onlar, bir tanrının ve İmparatorluğun en büyük kutsallığının somut halidir.
+## Unification Wars
+M30'un başlarında Terra, Techno-Barbarian kabileleri, 'gene-witch' hükümdarları ve çürümüş milletler arasında parçalanmıştı. İmparator Himalaya'daki laboratuvarından çıkıp Thunder Warriors'la — sonra yerlerini alan Custodes ve ilk Astartes'le — gezegeni birleştirdi. Thunder Warriors'ın 'arındırılması' (sonradan kasıtlı yok edilmeleri) İmparator'un acımasız pragmatizminin ilk büyük örneğidir.
 
-## Teknik / Biyolojik Özellikler
+## Great Crusade
+Primarch'ları yaratıp Warp tanrılarıyla yaptığı anlaşmanın (ya da hırsızlığın) bedeli olarak oğullarını kaybettikten sonra, onları lejyon lejyon geri topladı. Büyük Haç iki yüzyılde bir milyon dünyayı 'Imperial Truth' altında birleştirdi: laik, ilerlemeci, ksenofobik bir imparatorluk projesi. İmparator'un ironisi şudur: tanrılığı reddeden bir lider, insanlığın ona tapınmasını durduramadı.
 
-Chaos Gods'un kulları onu Anathema olarak anar. İman eylem
+## Heresy ve Taht
+Horus'un ihaneti İmparator'un projesini kırdı. Terra Kuşatması'nda İmparator, Sanguinius'u öldüren Horus'la yüzleşti ve onu yok etti — ama bedeni ölümcül şekilde parçalandı. Golden Throne'a bağlanan İmparator o günden beri ne yaşayan ne ölü: günde bin psyker'ın ruhuyla beslenen, Astronomican'ı yakan, Imperium'un tüm inancının nesnesi olan bir ceset-tanrıdır.
+
+## Şimdi
+Era Indomitus'ta İmparator'un durumu belirsiz: Guilliman'la yaptığı görüşmede bilinci parçalı ve neredeyse düşmanca görünüyordu. Bazı inançlar onun 'Star Child' olarak yeniden doğacağını söyler; bazıları Taht'ın çökmeye başladığını ve yüzyıllar içinde öleceğini. Her iki ihtimal de Imperium'un sonunu getirebilir — ya da kurtuluşunu.
+
+## Kaynaklar
+-# Kaynaklar: *Horus Heresy* serisi (özellikle *The Master of Mankind*, *The End and the Death*); *Watchers of the Throne* — Chris Wraight; *Codex: Imperialis*; Lexicanum

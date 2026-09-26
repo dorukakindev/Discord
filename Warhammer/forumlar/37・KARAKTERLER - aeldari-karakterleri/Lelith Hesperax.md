@@ -14,8 +14,13 @@ Cult of Strife'ın hâkimesi Lelith, Commorragh arenalarının yaşayan efsanesi
 - **Önemli Olaylar:** Cult of Strife'ın yükselişi; Ynnari ittifakı.
 - **Kanon Notu:** Ynnari'ye katılımının derinliği ve kalıcılığı kaynaklarda sınırlı ayrıntıyla verilir.
 
-## Tarihçe
+## Arenanın Kraliçesi
+Lelith Hesperax, Commorragh'ın en büyük Wych'i ve Arena'nın efsanevi gladyatörü; Yılan Tarikatı'nın (Cult of Strife) lideri. Drukhari'nin en ölümcül el-eli savaşçısı olarak kabul edilir — hiçbir Slaanesh 'hediyesini' kullanmaz, saflıkla öldürür; bu onu Karanlık Şehir'in en saygın varlığı yapar çünkü Drukhari için 'gerçek' güç sadece kendindir.
 
-Lelith Hesperax, Drukhari'nin en tehlikeli ve en ölümcül figürlerinden biridir — Commorragh'ın en ünlü Wych'i ve Drukhari'nin en ölümcül savaşçısıdır. Hesperax, Drukhari'nin en tehlikeli ve en ölümcül figürüdür; onun savaş yetenekleri ve arena zaferleri, Drukhari'nin en önemli ve en ölümcül güçlerinin simgesidir. Lelith Hesperax, Drukhari'nin en tehlikeli ve en ölümcül figürü olarak kalır — onun yetenekleri, Drukhari'nin en önemli ve en ölümcül güçlerinin simgesidir.
+## Kültürel Rol
+Lelith'in dövüşleri Commorragh'ın canlı ritüelidir: 'gozmak' (sevgi-hazzı) onun için savaşın tek ödülü, seyircinin alkışı değil — Lelith izleyiciye değil kendine dövüşür. Vect'in en tehlikeli varlığı ama sadık değil: onun sadakati sadece kendi mükemmelliğinedir. Yvraine'le (Ynnead'in kızı) ilişkisi canon'da belirsiz — ikisinin arasındaki bağ karanlık bir yansımadır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Drukhari*; *Path of the Dark Eldar*; *Lelith Hesperax: Queen of Knives* — Mike Brooks; Lexicanum
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Gathering Storm II: Fracture of

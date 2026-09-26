@@ -7,13 +7,16 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/08/Archmagos_Dominus_Bel
 
 10.000 yıldır yaşayan Mechanicus dehası; Primaris Space Marine'lerin yaratıcısı.
 
-## Tarihçe
-Belisarius Cawl, on bin yıldır yaşayan, bedeni mekanik uzantılar, kollar ve makinelerle dolu sıra dışı bir Adeptus Mechanicus dehasıdır; artık insan olarak doğduğu halden geriye neredeyse hiçbir şey kalmamıştır. Mechanicus standartlarına göre bile aşırı, tehlikeli ve sınır tanımayan bir mucittir.
+## Mars'ın Esrarı
+Belisarius Cawl, Adeptus Mechanicus'un on bin yıllık en eski ve en tartışmalı Tech-Priest'lerinden biri; İmparatorluk'un en tehlikeli bilim insanı. Great Crusade'de İmparator'un hizmetindeydi, Heresy'yi yaşadı, on bin yıl boyunca çoğu zaman bağımsız araştırmacı olarak çalıştı. 'Archmagos Dominus' unvanını taşır ama Mechanicus içindeki statüsü hep tartışmalı olmuştur — dogmatizmin dışında kalan biri olarak hem değerli hem şüphelidir.
 
-Hikâyesinin kalbinde gizli bir görev yatar: Horus Heresy sonrası, Primarch Guilliman ona insanlık için yeni, daha güçlü bir Space Marine türü yaratma görevini verdi. Cawl bu görevi on bin yıl boyunca, Mechanicus'un en katı yasalarını (yeni teknoloji icat etmenin küfür sayılması) gizlice çiğneyerek sabırla sürdürdü.
+## Primaris Projesi
+Cawl'un başyapıtı **Primaris Space Marine**: Guilliman'ın emriyle geliştirilen, orijinal Astartes gen dokusunun üzerine üç yeni organ (Sinew Coils, Magnificat, Belisarian Furnace) ekleyen savaşçı nesli. Rubicon Primaris prosedürü eski Marine'leri Primaris'e dönüştürmeyi mümkün kılar (risklidir; ölenler olmuştur). Primaris'in kabulü, Codex Astartes'in on bin yıllık statükosunu kıran en büyük askerî değişikliktir.
 
-Cawl'un Primaris programı, İmparatorluk'un son on bin yılındaki en büyük askeri devrimdi: Rubicon Primaris cerrahisi, gelişmiş Mark X zırhı ve 'uyanış' hazırlıklarıyla, İmparatorluk'un Guilliman'ın dönüşünü bekleyen gizli gizli güçlendirdiği rezerv ordusunun mimarı odur. Cadia düştüğünde Cawl, Guilliman'ı dirilten teknolojinin sahibi olarak devreye girdi ve bu müdahale, Era Indomitus'un kapısını açtı.
+## Tartışma
+Cawl'un sorunu yetkinliği değil, yöntemleridir: xeno teknolojisiyle (Necron dahil) çalışır, yasak deneyler yaptığı söylenir, 'Cawl Inferior' adlı bir yapay zekâ kopyası vardır — ki bu Imperium'da teknik olarak Abominable Intelligence suçudur. Guilliman onu korur; Inquisition'un bir kısmı onu en azından 'gözlem altında' tutmak ister.
 
-Ancak Cawl'un meşruiyeti tartışmalıdır: Mechanicum'un bazıları onun 'heretek' olduğunu, İmparatorluk'un kalanı ise 'gerekli kötülük' olduğunu düşünür. Kendi hafızasını yaptığı 'Cawl Inferior' yapay zekâsı (yasaklı teknik) dahil, on bin yılda biriktirdiği sırların tamamı bilinmez; İmparatorluk'un en güçlü ve en tehlikeli bilim insanı olarak, 'insanlığın kurtuluşu mu yoksa sonraki krizi mi' sorusunun cevabı hâlâ yazılmaktadır.
+## Kaynaklar
+-# Kaynaklar: *Belisarius Cawl: The Great Work* — Guy Haley; *Dark Imperium* üçlemesi; *Genefather* — Guy Haley; *Codex: Adeptus Mechanicus*; Lexicanum
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -1,5 +1,3 @@
-https://static.wikia.nocookie.net/warhammer40k/images/1/13/BaalOrbit.jpg/revision/latest?cb=20190420000514
-
 -# THE IMPERIAL ARCHIVE
 # Baal
 

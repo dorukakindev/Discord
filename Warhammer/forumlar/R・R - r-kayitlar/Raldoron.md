@@ -12,9 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/BA_war_Chapter_Master
 - **Köken:** Baal
 - **Önemli Olaylar:** Signus Prime; Terra Kuşatması
 
-## Tarihçe
+## İlk Kaptan
+Raldoron — Blood Angels'ın First Captain'ı ve Sanguinius'un en eski öğrencisi; lejyonun 'duyarlı ses'iydi. Signus Prime'da daemonlara karşı savaşırken lejyonu taşıyan figür — Sanguinius'un 'ateş'ine karşılık Raldoron 'soğukkanlılık'tı. Horus Heresy'nin Blood Angels tarafındaki en kilit figürlerden.
 
-Raldoron, Blood Angels'ın en ünlü ve en efsanevi figürlerinden biridir — Chapter'ın en önemli figürlerinden biridir ve Heresy'nin en önemli figürlerinden biridir. Raldoron, Blood Angels'ın en ünlü ve en efsanevi figürlerinden biridir; onun hikâyesi, Blood Angels'ın en önemli savaşlarının ve Heresy'nin en önemli anlarının simgesidir. Raldoron, Blood Angels'ın en ünlü ve en efsanevi figürü olarak kalır — onun hikâyesi, Blood Angels'ın en önemli savaşlarının ve Heresy'nin en önemli anlarının simgesidir.
+## Kaynaklar
+-# Kaynaklar: *Fear to Tread* — James Swallow; *The End and the Death* (SoT); *Codex: Blood Angels*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 

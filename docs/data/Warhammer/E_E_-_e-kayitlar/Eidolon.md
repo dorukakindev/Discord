@@ -14,8 +14,10 @@ Eidolon, Emperor's Children'ın en ünlü Lord Commander'ıdır — Heresy'de Fu
 - **Bilinen Kullanıcılar / Operatörler:** Emperor's Children savaş bantları
 - **Önemli Olaylar:** Isstvan III ve V; Terra Kuşatması; Fulgrim'in kayboluşundan sonra fiili komuta denemeleri.
 
-## Tarihçe
+## Gürültülü
+Eidolon — 'Lord Commander Eidolon' — Emperor's Children'ın en kaba figürü ve Fulgrim'in ilk 'yarım' düşüşüyle yükselen komutanıdır; lejyonun ilk Noise Marine'in öncüsüdür — kendi sesini silaha çevirdi ve 'shriek' gücüyle tanınır. Isstvan III ve V'te savaştı; ama Slaanesh'in 'mükemmellik' idealinden de düştü — Eidolon'un lejyon içinde 'ne tamamen sadık ne tamamen Chaos' duruşu onu hem güçlü hem kırılgan yapar.
 
-Eidolon, Emperor's Children'ın en ünlü ve en trajik Lord Commander'ıdır; Horus Heresy sırasında Fulgrim'in en sadık takipçisi olan ve Emperor's Children'ın en gizli operasyonlarını yöneten Eidolon, İmparatorluğun en trajik ve en tehlikeli düşmanlarından biridir — onlar, Emperor's Children'ın en trajik ve en önemli üyesidir. Eidolon'un en büyük özelliği, onun trajedisidir — onlar, bir Legion'un düşüşünün en trajik tanığıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Eidolon, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Eidolon'un en ünlü özelliği, onun Fulgrim'in takipçisidir — onlar, bir primarch'ın en sadık takipçisidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Eidolon, Emperor's Children'ın en ünlü ve en trajik Lord Commander'ıdır — onlar, bir trajedinin ve İmparatorluğun en büyük tehdidinin somut halidir.
+## Kaynaklar
+-# Kaynaklar: *Fulgrim*, *Angel Exterminatus* (HH); *The Path of Heaven* (yan); Lexicanum
 
 -# Kaynaklar: *Codex: Chaos Space Marines*; *Horus Heresy* kaynakları

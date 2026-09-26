@@ -1,3 +1,5 @@
+https://static.wikia.nocookie.net/warhammer40k/images/6/67/Relic_Blade_DW.jpg/revision/latest?cb=20120814182731
+
 -# THE IMPERIAL ARCHIVE · Imperium Emanetler · Kayıt
 # The Spear of Russ
 *Russ'ın Mızrağı*

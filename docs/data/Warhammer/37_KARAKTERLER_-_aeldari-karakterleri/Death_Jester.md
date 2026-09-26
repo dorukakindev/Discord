@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/7a/Death_Jester_updated.
 - **Köken:** Masques
 - **Önemli Olaylar:** Shuriken Cannon'lu sinsi suikastlar
 
-## Tarihçe
+## Soğuk Şakacı
+Death Jester — Harlequin kültürünün 'kara komedi' figürüdür; ölümü 'son şaka' olarak görür. 'Shrieker cannon' kullanır — kurbanı şişirerek patlatan silah; Harlequin'in 'gülünç ama ölümcül' yüzüdür. Performansta rolü 'son çizgi'dir — gösteri bittiğinde herkes ölmüş olmalıdır.
 
-Death Jester, Harlequin'lerin en tehlikeli ve en ölümcül figürlerinden biridir — Harlequin'lerin keskin nişancısı ve en ölümcül figürüdür. Death Jester, Harlequin'lerin en tehlikeli ve en ölümcül figürüdür; onun keskin nişancılığı ve savaş yetenekleri, Harlequin'lerin en önemli ve en ölümcül güçlerinin simgesidir. Death Jester, Harlequin'lerin en tehlikeli ve en ölümcül figürü olarak kalır — onun yetenekleri, Harlequin'lerin en önemli ve en ölümcül güçlerinin simgesidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Harlequins*; Lexicanum
 
 -# Kaynaklar: *Harlequins Codex*

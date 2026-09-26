@@ -12,9 +12,11 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/80/Biel-Tan_vs_Chaos.jpg
 - **Köken:** Craftworld'ler
 - **Önemli Olaylar:** Tüm Asuryani seferleri
 
-## Tarihçe
+## Rüzgâr Binicisi
+Windriders — Eldar'ın 'jetbike' militiasıdır; 'Shuriken Catapult' ve 'Scatter Laser' taşıyan hızlı birim. 'Yme-Loc' gibi hızın 'lifestyle' olduğu craftworld'lerde yaygındır. 'Rüzgâr' adı onların hareketini anlatır — asla durmazlar.
 
-Windriders, Aeldari'nin en önemli ve en hızlı birliklerinden biridir — jetbike'lara binen ve Aeldari'nin en hızlı birliklerini oluşturan savaşçılardır. Windriders, Aeldari'nin en önemli ve en hızlı birliklerinden biridir; bu birlikler, Aeldari'nin en önemli ve en hızlı savaş güçlerinin kaynağıdır. Windriders, Aeldari'nin en önemli ve en hızlı birliğidir; bu birlik, Aeldari'nin en önemli ve en hızlı savaş güçlerinin kaynağıdır.
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877548986433556>

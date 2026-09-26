@@ -13,13 +13,14 @@ Aun'Va, T'au Empire'ın en yüksek otoritesi olan Ethereal High Council'in baş�
 - **Bilinen Kullanıcılar / Operatörler:** Ethereal High Council; emri altındaki Fire Caste komutanları.
 - **Önemli Olaylar:** Genişleme seferleri; Second Agrellan Campaign ve suikast.
 
-## Tarihçe
+## Ruh'un Sesi
+Aun'Va — 'Master of the Undying Spirit' — T'au Empire'ın Supreme Ethereal'ı ve en yüksek siyasi/ruhani otoritesi; Ethereal Supreme olarak tüm Tau'va'nın yaşayan sembolüydü. On bin yıllık meditasyon geleneğinin ürünü, Ethereal'ların 'bilgelik' iddiasının en güçlü örneği. Shadowsun'un akıl hocası ve T'au'nun toplu iradesinin sesiydi.
 
-Aun'va, T'au Empire'ın 'Supreme Ethereal' — Ethereal Caste'ın en yüksek figürü ve 'Greater Good'un son sözcüsü; 'Aun'va' unvanı 'master of the undying spirit' anlamına gelir. Shadowsun'ın hamisi ve Farsight'ın 'düşman' olarak gördüğü tek figür; Ethereal'ların 'tam kontrol' iddiasının somutlaşmış halidir. 'The Ethereal's hand guides all' — Aun'va'nın varlığı T'au'nun kolektif iradesinin 'irade' olmadığını gösteren en büyük kanıttır.
+## Ölümü
+Aun'Va, 999.M41'de Damocles'ta Imperium'un Culexus Assassin'i tarafından öldürüldü — Etheral'ların 'dokunulmaz' imajını kıran, Tau'nun psikolojik darbesi olan an. Ölümü Tau'nun '5th Sphere' genişlemesini tetikledi — Ethereal'ların cenaze çekişmesi ve Farsight'ın otonomisinin büyümesi onun yokluğunun sonucudur. Tau tarihinin 'onun öncesi/sonrası' dönüm noktasıdır.
 
-## Kanon Notu
-
-Bazı genel anlatımlar Aun'Va'yı Konsey'in başı olarak anmaya devam eder. Ölümünün T'au halkına nasıl yansıtıldığı ve sonraki yayınların bunu nasıl çerçevelediği arşivin doğruladığı kaynaklarda net değildir.
+## Kaynaklar
+-# Kaynaklar: *Codex: T'au Empire*; *Damocles* kampanya kitapları; *Farsight* serisi (yan); Lexicanum
 
 -# Kaynaklar: *Codex: T'au Empire*; *War Zone Damocles: Mont'ka*
 

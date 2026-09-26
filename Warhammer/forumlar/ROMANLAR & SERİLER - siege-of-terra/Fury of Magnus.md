@@ -16,6 +16,7 @@ Chaos'a düşen oğullar içinde talihi en acı olan Magnus'tur: bilgi arzusu y�
 
 ## Tarihçe
 
-Graham McNeill'in 2020'de çıkan kısa romanı; Saturnine ile Mortis arasına yerleşir ve Crimson King'in kuşatmadaki kişisel gündemini anlatır.
+Fury of Magnus, Horus Heresy serisinin sekizinci kitabıdır — Magnus the Red'in hikâyesini anlatan romandır. Kitap, Magnus'un Terra Kuşatması'ndaki rolünü ve onun İmparator'la olan ilişkisini anlatır; okuyucular, Magnus'un en önemli savaşlarını görür. Fury of Magnus, Horus Heresy serisinin en önemli ve en kritik kitaplarından biridir; bu roman, İmparatorluk tarihinin en önemli primarch hikâyelerinin anlatıldığı eserdir.
+
 
 -# Kaynaklar: Black Library, Warhammer 40k — Lexicanum

@@ -1,69 +1,45 @@
-https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest?cb=20160528134728
+https://static.wikia.nocookie.net/warhammer40k/images/d/df/Corvus_Corax.jpg/revision/latest/scale-to-width-down/675?cb=20160528134728
 
--# THE IMPERIAL ARCHIVE
-# Corvus Corax
+-# THE IMPERIAL ARCHIVE · Koleksiyon · Kayıt
 
--# Kategori: Primarch · Fraksiyon: Imperium / Adeptus Astartes (XIX Legion, Raven Guard) · Dönem: M30–M31 · Bağlılık: Loyalist
+# Corvus Corax — Kuzgun Lordu
 
-## Tanım ve Genel Çerçeve
-Corvus Corax, XIX Legion'ın Primarch'ı, Deliverance'ın kurtarıcısı ve Emperor'ın oğulları arasında zincirin ne demek olduğunu bizzat yaşamış az sayıdaki isimden biridir. Çocukluğunu bir hapishane ayının madenlerinde geçiren Corax, özgürlüğü soyut bir ideal olarak değil, kanla ve sabırla kazanılan bir şey olarak tanıdı. Gölgelerden vuran savaş sanatı, Isstvan V'teki felaketten sonra Legion'ını yeniden kurmak için giriştiği korkunç deney ve sonunda Eye of Terror'a kayboluşu, onu Heresy'nin en hüzünlü sadık figürlerinden biri yapar. Chapter tarihi için <#1551637736593821790> kanalına bakınız.
+*The Raven Lord · Deliverer · Kiavahr'ın Kurtarıcısı*
 
-## Lycaeus
-Corax'ın kapsülü, Forge World **Kiavahr**'ın yörüngesindeki maden ve hapishane ayı **Lycaeus**'a düştü. Ayı yöneten Kiavahr tech-guild'leri, mahkûmları havasız galerilerde ölümüne çalıştırıyordu. Onu karanlık bir odada bulan mahkûmlar çocuğu gardiyanlardan sakladı; aralarında siyasi tutuklular ve adalet ile insan onuru üzerine düşünen muhalifler de vardı. Kaynaklara göre bu akıl hocaları Corax'a aceleci bir başkaldırı yerine gözlemi, sabrı ve hazırlığı öğütledi.
+XIX Legion'ın, Raven Guard'ın Primarch'ı. Gölgelerde görünmez olabilen, gizlilik ve gerilla savaşının ustası; Lycaeus'un maden kolonisinde köle işçiler arasında büyüdü ve onları özgürlüğe taşıdı. Isstvan V'ten Legion'ının küçük bir kalıntısıyla kaçtı; Legion'ını yeniden kurma çabası Heresy'nin en karanlık deneylerinden birine dönüştü. Heresy'nin ardından Warp'a gitti ve bir daha dönmedi.
 
-Corax bu yıllarda kendine özgü bir yeteneği keşfetti: doğrudan bakan birinin algısından bile sıyrılarak fark edilmeden hareket edebiliyordu. Kaynaklar bu gücün cihazları değil gözlemcinin zihnini yanılttığını belirtir; mekanizması ise kesin bir psişik tanıma bağlanmaz. Gardiyanların arasında görünmeden dolaşabilmesi, isyanın temelini oluşturan küçük hücrelerin örgütlenmesini mümkün kıldı. Corax'ın kişiliği de bu karanlıkta biçimlendi: temkinli, içine kapanık, zulme karşı sönmeyen bir öfke taşıyan ve bağlılığını unvanlara değil insanlara veren bir önder.
+- **Kategori:** Primarch (sadık)
+- **Fraksiyon:** Imperium — XIX Legion, Raven Guard; Raptors, Black Guard ve diğer Successor'lar
+- **Dönem:** Great Crusade → M31 (kayıp)
+- **Köken:** Kiavahr'ın ayı Lycaeus; maden-hapishane kolonisi
+- **Silahlar:** Raven's Talons lightning claw'ları, flight pack; gölgelerde görünmez olma yeteneği
+- **Durum:** Kayıp — Eye of Terror'a girdi; son sözlerinden alıntıyla "Nevermore" diyerek gitti
 
-## Tarihçe
+## Kökenler: Lycaeus
+Corvus'un kapsülü, sanayi dünyası **Kiavahr**'ın ayı **Lycaeus**'a düştü. Lycaeus, Kiavahr'ın tekno-lonca yöneticilerinin mahkûmları ve siyasi muhalifleri maden işçisi olarak çalıştırdığı bir hapishane-madendi. Bebek Corvus'u mahkûmlar buldu ve onu büyüttü. Genç Corvus, hapishanenin koridorlarında gizlenmeyi, gözlemlemeyi ve düşmanı bölerek yenmeyi öğrendi.
 
-Corvus Corax, Raven Guard'ın en ünlü ve en trajik primarch'ıdır; Deliverance'in — Raven Guard'ın ev gezegeni — en gizli sava��çısı olan ve Raven Guard'
+Corvus, mahkûmlar arasında gizli bir direniş örgütledi. Yıllar süren hazırlığın ardından Lycaeus'ta büyük bir isyan başlattı ve ayı ele geçirdi; ardından Kiavahr'ın tekno-loncalarına karşı savaşa girdi. Lycaeus'taki kütle-sürücüleri (mass driver) kullanarak Kiavahr'ı bombaladı ve tekno-loncaları devirdi. Emperor bu sırada Kiavahr'a ulaştı; Corvus ona biat etti.
 
-## İsyan ve Emperor
-Corax'ın hazırladığı ayaklanma, silah ve cephane çalan, kilit sistemleri sabote eden küçük hücrelerin sabırlı çalışmasıyla olgunlaştı. İsyan patladığında kanlıydı; Corax adi suçluların savaş gücünü bile kullanmak zorunda kaldı. *Deliverance Lost*'taki anlatıya göre tech-guild'lerin kendi stokladığı nükleer silahları Kiavahr'ın fabrikalarına çevirme kararı, binlerin ölümüyle milyonları kurtarma hesabını ona erkenden öğretti. Bu, özgürlükçü bir önderin bile savaşın soğuk aritmetiğinden kaçamayacağının ilk dersiydi.
+## Great Crusade
+XIX Legion, Corvus'un gen-tohumuyla yeniden şekillendi ve adını **Raven Guard** olarak aldı. Legion, Corvus'un gizlilik ve gerilla taktiklerine göre biçimlendi: düşmanın zayıf noktalarına ani saldırılar, keşif ve suikast. Corvus'un gen-tohumu, savaşçılarına kısmen gölgelerde gizlenebilme yeteneği kazandırdı; ancak Raven Guard'ın gen-tohumu, derilerinin ve saçlarının solgunlaşmasına ve gözlerinin kararmasına yol açar.
 
-Emperor'ın gelişi kaynaklarda farklı ayrıntılarla aktarılır. Bazı anlatımlarda Emperor, Corax'la uzun süre görüşüp savaşı onun yerine bitirmek yerine Kiavahr'ın kurtuluşunu Primarch'ın kendi kaynaklarıyla tamamlamasına izin verir; görüşmenin içeriği evren-içi kayıtlarda bile tahmin düzeyindedir. Özgürleşen ay **Deliverance** adını aldı ve Legion'ın kale-manastırı **Ravenspire** orada yükseldi.
+Corvus, Legion'ın savaşçılarını Lycaeus'un eski mahkûmları arasından seçti. Kardeşleri arasında Vulkan ve Ferrus Manus'la iyi ilişkileri vardı; Alpharius'un Alpha Legion'ı ise onun en büyük düşmanlarından biri olacaktı.
 
-## Legion ve Great Crusade
-Corax, soğuk ve kıyıcı bir karakter kazanmış Terran kökenli XIX Legion'ın başına geçerek onu kendi hız ve gizlilik öğretisine göre yeniden biçimlendirdi. Legion, geniş cephelerde ağır ordularla boğuşmak yerine komuta merkezlerini, ikmal hatlarını ve önderleri hedef alan hızlı darbelerle tanındı. Kiavahr'ın zanaatkârları, Mars'a bağımlı olmadan Legion'a özgü araç ve donanımlar geliştirdi; Mark VI "Corvus" zırhının Raven Guard'la ilişkilendirilmesi de bu çağa uzanır.
+## Isstvan V ve Kaçış
+Raven Guard, Isstvan V'teki Drop Site Massacre'da ilk dalgaya katıldı. Legion neredeyse tamamen yok oldu. Corvus, Isstvan'da Lorgar'la dövüştü ve onu neredeyse öldürdü; ancak Night Haunter'ın müdahalesiyle kardeşini öldüremedi. Sonunda Corvus, yalnızca birkaç bin savaşçıyla gezegenden kaçmayı başardı (*Deliverance Lost*).
 
-Corax'ın kardeşleriyle ilişkileri mesafeliydi. Horus'un savaş anlayışına ve kayıpları önemsemeyen emirlere karşı çekinceleri kaynaklarda dile gelir; Alpha Legion'la ise gizli savaş üzerine kurulu, Heresy'de ölümcül bir düşmanlığa dönüşecek bir benzerlik taşıyordu.
+## Legion'ın Yeniden Kurulması
+Kiavahr'a dönen Corvus, Legion'ını yeniden kurmak için Emperor'un izniyle Primarch projesine dair gizli bilgileri kullanmaya başladı. Ancak bu bilgi, Alpha Legion'ın ajanları tarafından manipüle edildi; ayrıca bir Chaos etkisi, gen-tohumu süreçlerini bozdu. Sonuçta ortaya çıkan **Raptors**, yani mutasyona uğramış yeni savaşçılar, Legion'ın yeniden inşasını lanetli bir mirasa dönüştürdü. Bu savaşçıların bir kısmı daha sonra Chaos'a düştü.
 
-## Isstvan V
-Isstvan V'e inen ilk dalgada Raven Guard, Iron Hands ve Salamanders'la birlikte savaştı. İkinci dalganın silahlarını sadıklara çevirmesiyle Drop Site Massacre başladığında Legion neredeyse topyekûn bir yok oluşla karşılaştı. Aaron Dembski-Bowden'ın *The First Heretic* romanında Corax, Word Bearers'ın Primarch'ı **Lorgar**'la yüz yüze gelir ve onu yıldırım pençeleriyle ağır biçimde yaralar; Lorgar'ın ölümü ancak Konrad Curze'un araya girmesiyle engellenir. Bu sahne Corax'ın ne denli ölümcül bir dövüşçü olduğunu gösterir, ama savaşın sonucunu değiştirmez.
+Heresy'nin geri kalanında Corvus, Alpha Legion'ı ve diğer hain güçleri hedef alan gerilla operasyonları yürüttü. Kiavahr ve Lycaeus'u korumaya çalıştı; Legion'ının kayıplarını gizli operasyonlarla telafi etmeye çalıştı.
 
-Ağır yaralanan Corax, hasar görmüş bir Thunderhawk'la savaş alanından kopup hayatta kalan bir avuç savaşçısıyla haftalarca süren bir kaçışa sürüklendi. *Deliverance Lost*'a göre Deliverance'tan gönderilen gemiler, Commander Branne'ın komutasında onları son anda kurtardı. Legion'ın Terra'da yetişmiş kadim çekirdeği büyük ölçüde Urgall Depression'da kalmıştı.
+## Kayboluş
+Heresy'nin ardından Corvus, Raven Guard'ın yeniden yapılanmasını denetledi; Codex Astartes'e uyum sağladı. Ancak kişisel olarak Legion'ının başına gelenlerden ve kendi kararlarından derin bir suçluluk duydu. Bir gün Primarch, Deliverance'daki odasına kapandı; çıktığında Eye of Terror'a gideceğini söyledi. Söylediği son söz olarak "Nevermore" ifadesi kaydedilmiştir. Corvus Warp'a gitti ve bir daha dönmedi. Raven Guard, Primarch'ın Warp'ta hainleri avlamaya devam ettiğine inanır.
 
-## Raptor Projesi
-Legion'ını yeniden kurmak için Terra'ya giden Corax, Rogal Dorn ile Malcador'un çekincelerine rağmen Emperor'la görüştü ve kaynaklara göre Imperial Palace'ın derinliklerinde saklanan Primarch düzeyindeki gen-malzemenin varlığını öğrendi. Custodes ve Mechanicum uzmanlarının gözetiminde Deliverance'a taşınan bu malzemeyle hızlandırılmış bir Space Marine yaratım süreci başlatıldı; yeni kuşağa **Raptors** adı verildi.
+## Güncel Durum
+Corvus Corax yayımlanmış kanonda hâlâ kayıptır. Era Indomitus'ta Raven Guard, Chapter Master Corvin Severax ve Kayvaan Shrike gibi komutanların önderliğinde savaşmaya devam eder.
 
-İlk sonuçlar umut vericiydi. Ancak Alpha Legion, hem Kiavahr'ın tech-guild'lerine hem de Raven Guard'ın içine sızmıştı. *Deliverance Lost*'ta Omegon'un yönettiği operasyon, gen-malzemenin kirletilmesine, Kiavahr'da bir ayaklanmanın kışkırtılmasına ve saf malzemenin çalınmasına yol açar. Sonraki adaylar korkunç, Warp kaynaklı mutasyonlara uğradı; Raptors adı sonraki anlatımlarda giderek bu bozulmuş savaşçılarla özdeşleşti.
+## Kişilik
+Corvus, özgürlüğün bedelini bilen bir kurtarıcıdır. Gizlilik ve gerilla savaşında usta, ama kararlarının sonuçlarından derinden etkilenen bir Primarch'tır. Legion'ını yeniden kurma arzusu, onu kendi ilkelerini çiğneyen bir deneye itti; bu suçluluk onu sonunda galaksiyi terk etmeye götürdü.
 
-## Suçluluk ve Heresy'nin Geri Kalanı
-Corax'ın tepkisi onu kardeşlerinin çoğundan ayırır: mutasyona uğrayan savaşçıları hemen yok etmek yerine onları hâlâ Legion'ın parçası saydı ve bozulmayı tersine çevirmenin yolunu aradı. Mutant Raptors, Heresy'nin geri kalanında Raven Guard'ın yanında savaştı. Yine de Corax, bu deneyi kendi en büyük günahı olarak gördü; kurtarıcı olarak yola çıkıp canavar yaratmış olmanın ağırlığı onu bir daha bırakmadı.
-
-Legion'ın geri kalan savaşı, Shattered Legions'la kesişen sızma ve baskın harekâtlarından oluştu. Gav Thorpe'un Corax odaklı kısa eserleri ve Guy Haley'nin *Corax: Lord of Shadows* romanı, Primarch'ın bu dönemdeki mücadelesini ve Raptors meselesinin sonuçlarını farklı açılardan işler. Corax'ın Siege of Terra'daki rolü ise kardeşlerinin çoğununkine kıyasla sınırlı anlatılır ve bu arşivde kesinleştirilmemiştir.
-
-## Nevermore ve Eye of Terror
-Heresy'nin ardından Corax, Codex Astartes'i isteksizce kabul ederek Legion'ı bölünmeye bıraktı. Kaynaklara göre bir yıla yakın bir süre Ravenspire'daki odasına kapandı. Bazı anlatımlarda bu dönemde mutant savaşçılarına Emperor's Peace'i bizzat verdiği aktarılır. Sonunda Deliverance'tan ayrılarak Eye of Terror'a yöneldi. Chapter geleneğine göre ardında bıraktığı son söz "Nevermore"dur; gerçek dünyada bu, Edgar Allan Poe'nun *The Raven* şiirine açık bir göndermedir.
-
-Ayrılışın nedeni kesin değildir. Kefaret arayışı, kaçan yaratıkların ya da hain kardeşlerin peşine düşmek gibi yorumlar evren-içinde dolaşır. Bazı sonraki kaynaklar Corax'ın Eye içinde hâlâ avlanan, Warp'ın dönüştürdüğü bir varlık olabileceğini ima eder; ancak bu anlatılar parçalıdır ve yayımlanmış kanon ona kesin bir akıbet vermez. M41 ve Era Indomitus'ta dönüşüne dair doğrulanmış bir kayıt yoktur.
-
-## Bilinen Yanılgılar ve SSS
-**Yanılgı:** Corax'ın görünmezliği teknolojik bir gizlenme düzeneğidir.
-**Kanon:** Kaynaklar onu Corax'a özgü, gözlemcinin algısını yanıltan bir yetenek olarak anlatır; zırhı ve donanımı bunu tamamlasa da kaynağı değildir.
-
-**Yanılgı:** Raptors felaketi yalnızca Corax'ın hırsının sonucudur.
-**Kanon:** Hızlandırılmış süreç Corax'ın kararıydı, ancak felaketi doğuran kirletme *Deliverance Lost*'ta Alpha Legion sabotajına bağlanır. Corax yine de sorumluluğu kendi üzerine almıştır.
-
-**Yanılgı:** Corax'ın Eye of Terror'da öldüğü bilinmektedir.
-**Kanon:** Akıbeti yayımlanmış kanonda açıklanmamıştır; "Nevermore" sözü de evren-içi bir aktarımdır.
-
-**Yanılgı:** Corax Isstvan V'te dövüşemeyecek kadar zayıf düştü.
-**Kanon:** *The First Heretic* onu Lorgar'ı ölümün eşiğine getiren bir savaşçı olarak gösterir; yenilgi bireysel değil, stratejik bir ihanetin sonucudur.
-
-## Yayın ve Retcon Notu
-Corax ve Raven Guard, Rogue Trader (1987) döneminden beri First Founding mirasının parçasıdır. Lycaeus isyanı ve Eye of Terror'a gidiş, 3rd Edition dönemindeki Index Astartes makaleleriyle belirginleşti. Raptor projesi, Omegon'un sabotajı ve Primarch'ın Heresy'deki ayrıntılı portresi Gav Thorpe'un *Deliverance Lost* (2012) romanıyla kanona girdi; Primarchs serisi ve Forge World kitapları bu çerçeveyi genişletti.
-
-**Kaynaklar:** *Deliverance Lost — Gav Thorpe*; *The First Heretic — Aaron Dembski-Bowden*; *Corax: Lord of Shadows — Guy Haley*; *Corax: Soulforge — Gav Thorpe*; *Horus Heresy Book Two: Massacre*; *Codex Supplement: Raven Guard — 8th Edition*
-**Çapraz:** <#1551637736593821790>, <#1551636477090467942>, <#1551649069972070434>, lorgar-aurelian, <#1551814951365115956>, <#1551813775848509482>, <#1551818097504157699>, ferrus-manus
-
-​
+-# Kaynaklar: *Deliverance Lost* — Gav Thorpe; *Corax: Soulforge* — Gav Thorpe; *Corax: Lord of Shadows* — Gav Thorpe; *Raven's Flight* — Gav Thorpe; *Codex: Space Marines*; Lexicanum

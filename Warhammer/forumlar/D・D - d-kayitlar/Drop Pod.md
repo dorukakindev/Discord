@@ -14,8 +14,10 @@ Drop Pod, Space Marine'lerin gökyüzünden savaşa dalmasının aracıdır: yö
 - **Bilinen Kullanıcılar / Operatörler:** Space Marine ani saldırı operasyonları
 - **Önemli Olaylar:** Klasik 'pod assault' doktrini; Dorn'un İmparatorluk Fist geleneğinden beri temel araç.
 
-## Tarihçe
+## Gökyüzü Cenaze
+Drop Pod — 'Ölüm Kapsülü' — Space Marine'in en agresif yerleştirme aracıdır; uzay gemisinden doğrudan düşmana 'düşen' tek kullanımlık kapsül. İçinde 10 Space Marine veya bir Dreadnought taşır; iniş anı 'Görünmezlik + hız' demektir. 'Death from above' doktrininin simgesidir — Imperium'un en hızlı saldırı aracı.
 
-Drop Pod, Legiones Astartes ve Adeptus Astartes tarafından kullanılan bir uzay saldırı ve taşıma aracıdır; onun hızı ve delici gücüyle — bir kadro Space Marine'i bir gezegenin yüzeyine bırakabilen bir araçtır — onlar, Space Marine'lerin en ikonik ve en ölümcül saldırı aracıdır. Drop Pod'un en büyük özelliği, onun hızıdır — onlar, bir gezegenin atmosferine girer ve saniyeler içinde iner; bir Drop Pod, bir kadro Space Marine'i bir düşman pozisyonunun ortasına bırakabilir ve onların varlığı, bir Space Marine baskınının en ikonik silahıdır. Drop Pod'un en ünlü görevi, Space Marine'lerin sayısız baskın operasyonudur — onlar, Space Marine'leri bir düşman pozisyonunun ortasına bırakmak için kullanılırlar ve onların varlığı, bir Legion'un en ikonik silahıdır. Drop Pod, Space Marine'lerin en ikonik ve en ölümcül saldırı aracıdır — onlar, bir Space Marine baskınının somut halidir.
+## Kaynaklar
+-# Kaynaklar: *Codex: Space Marines*; Lexicanum
 
 -# Kaynaklar: *Codex: Space Marines*

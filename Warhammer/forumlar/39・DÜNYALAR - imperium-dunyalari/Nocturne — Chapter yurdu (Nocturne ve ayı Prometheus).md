@@ -14,8 +14,13 @@ Salamanders'ın aday kaynağı ve Promethean Cult'ın yurdu. Chapter'ın kale-ma
 - **Önemli Olaylar:** Vulkan'ın bulunuşu ve sınamaları; Legion'ın Prometheus'a yerleşmesi.
 - **Kanon Notu:** Emperor'la sınamaların ayrıntıları Chapter geleneği olarak aktarılır.
 
-## Tarihçe
+## Ateşin Dünyası
+Nocturne, Salamanders'ın ana dünyası ve 'Trial by Fire' kültürünün kaynağıdır; gezegenin 'Time of Trial'ı (15 yıllık deprem-volkan çevrimi) halkını çelik gibi yaptı. Vulkan'ın mitosu burada doğdu — 'keşfedilmiş oğul' değil 'Prometheus gibi düşmüş' figür. Salamanders'ın 'insanlara saygı' doktrini Nocturne'un zorlu yaşamından gelir.
 
-Nocturne, Salamanders'ın Chapter yurdu olan ve İmparatorluğun en volkanik ve en tehlikeli dünyalarından biridir; onun volkanları ve ateşi, Salamanders'in ateş ve demircilik geleneğinin somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Nocturne'nin en büyük özelliği, onun volkanik yapısıdır — onlar, İmparatorluğun en volkanik dünyalarından biridir ve onların varlığı, Salamanders'in ateş ve demircilik geleneğinin temelidir; bir Nocturne, bir gezegenin en volkanik halidir ve onların varlığı, bir Legion'un evinin en sıcak parçasıdır. Nocturne'nin en ünlü özelliği, onun ayı Prometheus'tur — onlar, Salamanders'in kale manastırının bulunduğu yerdir ve onların varlığı, bir Legion'un merkezinin kanıtıdır. Nocturne, Salamanders'ın evidir ve onların ruhunun merkezidir — onlar, ateşin ve demirciliğin somut halidir.
+## Kültür
+Nocturne'un halkı (Promethean Cult) Vulkan'ı tanrı gibi görür ama Chapter onlara 'eşit' davranır — Salamanders'ın insanları koruma kodu buradan gelir. Chapter'ın ateş silahları (melta, flame) Nocturne'un jeolojisini yansıtır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Salamanders*; *Vulkan Lives* (HH); *Salamander* serisi — Nick Kyme; Lexicanum
 
 -# Kaynaklar: *Salamander — Nick Kyme*; *Vulkan

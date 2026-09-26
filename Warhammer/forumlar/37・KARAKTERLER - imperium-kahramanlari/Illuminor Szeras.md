@@ -14,6 +14,11 @@ Szeras, C'tan'ın sağladığı bilgiyi uygulanabilir bir sürece dönüştürer
 - **Önemli Olaylar:** Biotransference'ın tasarlanması; uyanış sonrası deneyleri.
 - **Kanon Notu:** Szeras'ın nihai hedefinin tanrısallık düzeyinde bir yükseliş olup olmadığı kaynaklarda iddia ve ima düzeyinde kalır.
 
-## Tarihçe
+## Biyolog
+Illuminor Szeras, Necron'un en dehşetli Cryptek'idir — Biotransference'ın asıl mimarı, Necrontyr'ın C'tan'a satışını mümkün kılan bilim-insanı. Altmış milyon yıldır 'mükemmelleştirme' peşinde: kendi bedenini sayısız defa yeniden tasarladı, şimdi saf kafatası-yüzlü yüzen bir entite. Necron uygarlığının 'iç mimarı' ve en etik dışı figürüdür.
 
-Illuminor Szeras, Necron'ların en gizli ve en tehlikeli figürlerinden biridir — Biotransference'ın mimarı ve Necron'ların en önemli bilim adamıdır. Szeras, Necron'ların en gizli ve en tehlikeli figürlerinden biridir; onun araştırmaları, Necron'ların en önemli ve en tehlikeli teknolojilerinin kaynağıdır. Illuminor Szeras, Necron'ların en gizli ve en tehlikeli figürü olarak kalır — onun araştırmaları, Necron'ların en önemli ve en tehlikeli teknolojilerinin kaynağıdır.
+## Laboratuvar
+Szeras'ın çalışması basit ama sonsuz: canlı ırkları inceleyip Necron'un 'mükemmel beden'ini bulmaya çalışır; esir laboratuvarlarında Imperium askerleri, Eldar, hatta kendi Necron'ları denek olur. Silent King'in Biotransference'ı geri alma planının baş sorumlusu — ama Szeras için geri dönüş değil, 'sonraki evrim' önemli.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; *The Infinite and the Divine* (yan); Lexicanum

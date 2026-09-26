@@ -14,6 +14,14 @@ Primaris Space Marine'lerin yaratıcısı ve Era Indomitus'un en etkili, en az g
 - **Önemli Olaylar:** Great Work; Fall of Cadia; Primaris'lerin açığa çıkışı.
 - **Kanon Notu:** Cawl'ın yaşı ve geçmişi evren içi iddiadır; ayrıntı için ana kanala bakınız.
 
-## Tarihçe
+## Mars'ın Esrarı
+Belisarius Cawl, Adeptus Mechanicus'un on bin yıllık en eski ve en tartışmalı Tech-Priest'lerinden biri; İmparatorluk'un en tehlikeli bilim insanı. Great Crusade'de İmparator'un hizmetindeydi, Heresy'yi yaşadı, on bin yıl boyunca çoğu zaman bağımsız araştırmacı olarak çalıştı. 'Archmagos Dominus' unvanını taşır ama Mechanicus içindeki statüsü hep tartışmalı olmuştur — dogmatizmin dışında kalan biri olarak hem değerli hem şüphelidir.
 
-Belisarius Cawl (Archmagos Dominus), Adeptus Mechanicus'un en önemli ve en gizli figürlerinden biridir — Primaris Project'in yaratıcısı ve İmparatorluk'un en önemli bilim adamıdır. Cawl, Adeptus Mechanicus'un en önemli ve en gizli figürlerinden biridir; onun araştırmaları, İmparatorluk'un en önemli ve en güçlü teknolojilerinin kaynağıdır. Cawl, Primaris Marine'leri yarattı ve İmparatorluk'un en güçlü savaşçılarını geliştirdi; onun çalışmaları, İmparatorluk'un en önemli ve en güçlü güçlerinin simgesidir. Belisarius Cawl, Adeptus Mechanicus'un en önemli ve en gizli figürü olarak kalır — onun çalışmaları, İmparatorluk'un en önemli ve en güçlü teknolojilerinin kaynağıdır.
+## Primaris Projesi
+Cawl'un başyapıtı **Primaris Space Marine**: Guilliman'ın emriyle geliştirilen, orijinal Astartes gen dokusunun üzerine üç yeni organ (Sinew Coils, Magnificat, Belisarian Furnace) ekleyen savaşçı nesli. Rubicon Primaris prosedürü eski Marine'leri Primaris'e dönüştürmeyi mümkün kılar (risklidir; ölenler olmuştur). Primaris'in kabulü, Codex Astartes'in on bin yıllık statükosunu kıran en büyük askerî değişikliktir.
+
+## Tartışma
+Cawl'un sorunu yetkinliği değil, yöntemleridir: xeno teknolojisiyle (Necron dahil) çalışır, yasak deneyler yaptığı söylenir, 'Cawl Inferior' adlı bir yapay zekâ kopyası vardır — ki bu Imperium'da teknik olarak Abominable Intelligence suçudur. Guilliman onu korur; Inquisition'un bir kısmı onu en azından 'gözlem altında' tutmak ister.
+
+## Kaynaklar
+-# Kaynaklar: *Belisarius Cawl: The Great Work* — Guy Haley; *Dark Imperium* üçlemesi; *Genefather* — Guy Haley; *Codex: Adeptus Mechanicus*; Lexicanum

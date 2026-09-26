@@ -14,9 +14,14 @@ Grotsnik, Ghazghkull Thraka'nın kafatasını metal bir plakayla yeniden kurarak
 - **Önemli Olaylar:** Ghazghkull'un ameliyatı; Armageddon savaşları.
 - **Kanon Notu:** Ghazghkull'un vizyonlarının ameliyatla mı yoksa gerçek bir ilahi temasla mı ilgili olduğu kanonda kasıtlı olarak belirsizdir.
 
-## Tarihçe
+## Doktor
+Mad Dok Grotsnik — 'the Painboy' — Ork canon'unun en ünlü 'cerrah'ıdır; kendi kafatasını grot (gretchin) zihniyle yeniden kurduğu için hem deli hem dâhidir. Ghazghkull'un kişisel Painboy'u olarak bilinir — Armageddon'un 3rd savaşında onu kurtaran adam. Ork tıbbının 'tamir et, ekle, değiştir' felsefesinin simgesidir.
 
-Mad Dok Grotsnik, Ork'ların en ünlü 'Painboy'u — Ghazghkull Thraka'nın 'resmi' cerrahı ve 'daha fazla dakka' için daha fazla 'doktorluk' yapan figür. 'Brain surgery with a choppa' tarzıyla bilinen Grotsnik, Ork'un 'acı çekmeyi sever' doğasının en iyi örneğidir; 'anesthetic' kullanmadan ameliyat yapar ve 'daha iyi bir Ork' için 'daha fazla zekâ' vaat eder. 'Trust me, I'm a dok' — Grotsnik'in tıbbi garantisi.
+## Efsane
+Grotsnik'in başına gelenler Ork kültürünün özeti: bir grot tarafından kafasına 'telafisi' yapılan Doktor, şimdi daha zeki ve daha tehlikeli. Ork'ların 'doktor' kavramının (Painboy) canon'daki en bilinen örneğidir — Ork için tıp bile bir savaş sanatıdır.
+
+## Kaynaklar
+-# Kaynaklar: *Codex: Orks*; *Ghazghkull Thraka*; *Armageddon* materyalleri; Lexicanum
 
 -# Kaynaklar: *Codex: Orks*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
 

@@ -12,9 +12,13 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/15/Farseer.jpg/revision/
 - **Köken:** Craftworld'ler
 - **Önemli Olaylar:** Tüm Asuryani seferleri
 
-## Tarihçe
+## Gören
+Farseer — Eldar'ın en yüksek 'Path of the Seer' figürüdür; bir Eldar Warlock olarak başlar, Path'i tamamlayınca Farseer olur — artık başka Path'e dönemez. Runik kehanetle ırkın geleceğini okur; Eldar toplumunun fiili 'lideri'dir çünkü her karar onların gördüğü olasılıklarla alınır. Eldrad Ulthran en ünlüsüdür.
 
-Farseer, Aeldari'nin en önemli ve en bilge lideridir; onların bir craftworld'ün en bilge psyker'ı olan ve onun geleceğini gören Farseer, Aeldari'nin en önemli ve en bilge üyesidir — onlar, Aeldari'nin en önemli ve en bilge lideridir. Farseer'ın en büyük özelliği, onların bilgeliğidir — onlar, bir craftworld'ün en bilge psyker'ıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Farseer, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Farseer'ın en ünlü özelliği, onların kehanetidir — onlar, Aeldari'nin geleceğini gören ve onu yönlendiren en bilge üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Farseer, Aeldari'nin en önemli ve en bilge lideridir — onlar, bir bilgeliğin ve Aeldari'nin en büyük gücünün somut halidir.
+## Güç ve Bedel
+Farseer'ın gücü Runes of Seeing ile gelir — Witchstaff'ı ve Ghosthelm'i hem büyü aracı hem düşmanın hedefidir. 'Path of the Seer' son Path'tir: onu seçen Eldar, hayatının geri kalanını gelecekle geçirir — çoğu Farseer bu yüzden 'yarı-gerçek' figürler gibi yaşar, her şeyi olasılıklarla görür.
 
+## Kaynaklar
+-# Kaynaklar: *Codex: Craftworlds*; *Path of the Seer* — Gav Thorpe; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*

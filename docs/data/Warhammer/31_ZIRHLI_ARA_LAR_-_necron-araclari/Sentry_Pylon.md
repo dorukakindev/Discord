@@ -12,8 +12,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/24/Sentrypylonsincombat.
 - **Köken:** Necron tomb dünyaları
 - **Önemli Olaylar:** Necron savunma hatları
 
-## Tarihçe
+## Nöbetçi
+Sentry Pylon — Necron'un 'otomatik savunma' yapısıdır; 'Focussed Death Ray' veya 'Gauss Exterminator' taşır ve 'kendi kendine' savaşır — pilotu yoktur. Tomb World'un 'bekçi' olarak bilinir — Necron'un 'pasif ama ölümcül' savunmasının simgesidir.
 
-Sentry Pylon, çok daha büyük Gauss Pylon'un taktik varyantı olan garip tasarımlı otomatik bir Necron silah platformudur; büyük ağabeylerinden daha küçük kapsamlı olsa da, parıldayan metal ark kolları neredeyse kavranamaz güçte vurabilen bir silah dizisine sahiptir. Necron kuvvetlerinin saha ettiği başlıca sabit ağır topçu olarak, bağımsız enerji silahı yapılarıdır — hem müthiş direnç hem de özerk hedefleme sergiler. Tomb World savunmalarının ve seyyar Necron ordularının vazgeçilmez destekçisidir; Orphean War sırasında Imperium güçleri onların özerk sabrını pahalıya öğrendi.
+## Kaynaklar
+-# Kaynaklar: *Codex: Necrons*; *Imperial Armour*; Lexicanum
 
 -# Kaynaklar: *Fandom wiki*
