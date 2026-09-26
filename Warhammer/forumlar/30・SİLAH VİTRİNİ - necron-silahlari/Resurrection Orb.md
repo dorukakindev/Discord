@@ -18,7 +18,7 @@ Necron soylularının taşıdığı gizemli artefakt; bilinmeyen bir maddeden ya
 
 ## Tarihçe
 
-Resurrection Orb, Necron'ların en önemli ve en değerli cihazıdır — ölü Necron'ları yeniden dirilten bir küredir. Bu cihaz, ölen Necron'ları yeniden diriltir ve onları savaşa geri döndürür; bu, Necron'ların en önemli ve en
+Resurrection Orb, bilinmeyen bir malzemeden yapılmış, parlayan virid küresi biçimindeki gizemli bir Necron artefaktıdır; taşıyıcısının bir jestiyle çevredeki Necron'ların yaşayan metal bedenlerindeki rejenerasyon devreleri
 
 küreyi muharebe hattının ortasında tutar; alanının kavradığı lejyon neredeyse yok edilemez hâle gelir. Necron'un ölümsüz ordusunun "ikinci hayatı", işte bu küçük yeşil güneşte saklıdır.
 

@@ -16,7 +16,7 @@ Açık güverteli, bıçak kanatlı ve son derece hızlı bir antigrav tekne ola
 
 ## Tarihçe
 
-Kabal'lar ve Wych Cult'lar Raider'ları, Commorragh'ın doyumsuz esir ve acı ihtiyacını karşılayan akınların merkezine yerleştirir. Aracın açık güvertesi, savaşçıların ilerlerken ateş etmesine ve düşmanın üzerine atlamasına imkân tanır.
+Raider, Drukhari'nin Webway'den realspace'e yaptığı kabal akınlarının birincil birlik taşıyıcısı olan anti-yerçekimli savaş skimmer'ıdır. Bir Drukhari baskınının ilk işareti gökyüzünde beliren virid yeşili ışıktır — dışa doğru kıvrılarak açılan, yeşil alevle parlayan çok boyutlu bir portal; içinden düzinelerce bıçaklı skimmer süzülerek çıkar ve en yaygını Raider'dır. Açık güvertesi kabal savaşçılarını taşır, baş kısmında Dark Lance ya da Disintegrator Cannon bulunur. Hızı ve atikliği sayesinde savunucular tepki vermeden ganimet ve esirlerle geri döner; Drukhari savaş sanayisinin en çok üretilen tasarımıdır.
 
 -# Kaynaklar: *Codex: Drukhari*
 

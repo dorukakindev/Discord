@@ -16,8 +16,9 @@ Shining Spears Aspect Warrior'larının ve Exodite Dragon Knight'larının simge
 
 ## Tarihçe
 
-Craftworld savaş host'larının hücum kolu: jetbike üzerindeki savaşçı, kargının enerjisini tam temas anında boşaltarak zırhı tek noktada deler. Tapınağın 'su gibi akan, şimşek gibi inen' doktrininin aracıdır; Dragon Knight'ların aynı silahı sırtlarında dev yaratıklarla taşıması, Aeldari ile Exodite arasındaki ortak mirası gösterir.
+Laser Lance, Shining Spears Aspect Warrior'ları ve Exodite Dragon Knight'ları tarafından kullanılan özel bir Craftworld Aeldari silahıdır. Güçlü, kısa menzilli bir lazer huzmesi yakın mesafede ya da doğrudan fiziksel temas anında deşarj edilir; isabet ettiğinde kör edici bir ışık parlaması yaratır ve en ağır zırhlar dışında her şeyi delip geçer. Shining Spears'ın yıkıcı hücumları için idealdir — süvarinin mızrağı kadar hızlı ve kesin. Diğer Aspek Savaşçıları için bu silah erişilemez bir ustalık işaretidir; eğitimi yıllar sürer.
+
 
 -# Kaynaklar: *Codex: Eldar — 2nd Edition*; *Codex: Eldar — 4th Edition*; *White Dwarf 511*; Warhammer 40,000 — Lexicanum
 
--# İlişkili kayıtlar: <#1551905339518226452>, <#1551742571628208148>, <#1551811222129745941>, <#1551812290439942255>
+-# İlişkili kayıtlar: <#1551905339518226452>, <#155174257

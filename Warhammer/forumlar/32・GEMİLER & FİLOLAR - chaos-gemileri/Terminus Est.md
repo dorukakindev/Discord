@@ -16,8 +16,8 @@ Nurgle'ın hediyeleriyle çürümüş, yıldızlar arasında salgın taşıyan b
 
 ## Tarihçe
 
-Horus Heresy'nin başlarında Typhon'un gemisi olarak görülür. Terra'ya yöneldiği sırada Warp'ta mahsur kalan Death Guard filosu, Destroyer Plague'in pençesine düştü; Typhon'un Nurgle'a bağlılığı bu felaketin kilit unsurudur. Gemi de bu dönüşümden nasibini aldı ve bir plague ship'e dönüştü. M41'de Typhus'un bu gemiyle galakside salgın yaydığı anlatılır.
+Terminus Est, İmparator'un Death Guard lejyonuna tahsis ettiği ilk baş gemilerden biri olan benzersiz tasarımlı bir Daemonship'tir; tasarımı Great Crusade öncesine dayanır ve 36. Binyıl'da Gareox Prerogative kapsamında Despoiler-class Battleship'in prototipi olarak kopyalanmıştır — ama kadim gemi, zayıf halefinden kat kat güçlüdür. Typhus'un amiral gemisidir; Nurgle'un veba enerjileriyle o kadar yozlaşmıştır ki gövdesi et ve çürümüşlükle kaplıdır, içi ise Plague Marine dolu bir cehennemdir. Heresy boyunca Death Guard'ın veba akınlarının merkezi olmuş, Scourge Stars ve sonrasında Ultramar'a kadar sayısız dünyaya hastalık taşımıştır. Düşmanlarının üzerine bindirdiği dehşet, fiziksel gücünü bile aşar.
 
 -# Kaynaklar: *The Flight of the Eisenstein — James Swallow*; *The Buried Dagger — James Swallow*; *Codex: Death Guard — 10th Edition*
 
--# İlişkili kayıtlar: <#1551813274327060552>, <#1551754683222327439>, <#1551650329316036699>, <#1551818194841501818>
+-# İlişkili kayıtlar: <#1551813274327060552>, <#1551754683222327439>, <#155165032931

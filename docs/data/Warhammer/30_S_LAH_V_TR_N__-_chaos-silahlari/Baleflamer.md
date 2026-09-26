@@ -16,6 +16,7 @@ Heldrake iblis makinelerinin ağzına monte edilmiş dev alev silahı; promethiu
 
 ## Tarihçe
 
-Heldrake, bir zamanlar insan olan bir pilotun iblis makinesiyle kaynaşmasından doğan uçan kabustur; Baleflamer onun nefesidir. Yüksek irtifadan düşman hava desteğine dalıp pençeleriyle parçalayan bu makineler, Baleflamer'la siperleri ve piyade kümelerini daemonik ateşe boğar. Alevi ne su söndürür ne zırh keser; çünkü yanan şey yakıt değil, bir iblisin hiddetidir.
+Baleflamer, bazı Daemon Engine'lerin kullandığı daemonik alev silahıdır; tipik olarak Daemon Engine'in ağzında yer alan büyük bir projektör namlusu biçimindedir. Kayıtlı tek kullanıcısı, bazı Chaos Space Marine warband'lerine hizmet eden Heldrake'dir — ağzında ya Baleflamer ya da Hades Autocannon taşır. Silah, yaratığın göğsünde yanan karanlık Warp ateşleriyle beslenir; açıldığında püsküren alev sadece maddeyi değil, ruhu da yakar. Daemonik alev olduğu için büyülü korumalar ve psişik bariyerler karşısında sıradan promethiumdan çok daha etkilidir.
+
 
 -# Kaynaklar: *Codex: Chaos Space Marines*; Lexicanum — "Baleflamer" ve "Heldrake"; Warhammer 40,000 — Fandom

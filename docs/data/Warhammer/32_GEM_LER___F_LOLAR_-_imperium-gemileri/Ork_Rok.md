@@ -16,7 +16,7 @@ Bir savaş gemisinden çok, yıldızlar arasında fırlatılmış bir kaya kütl
 
 ## Tarihçe
 
-Rok'lar, Ork istilalarında hem taşıma hem de kaba birer kale işlevi görür. Kimi Rok'lar yörüngede savaşırken kimileri doğrudan gezegene düşürülerek yüzeyde bir kale ve üs hâline gelir.
+Rok, Ork uzay araçlarının en korkulan biçimidir; Mekboy'lar tarafından içi oyulmuş bir asteroitten ibarettir ve Ork yapımı toplar, plazma motorlar, nişan sistemleri ve ele geçirdikleri diğer büyük silahlarla donatılır. Warp-Drive'ı yoktur, bu yüzden warp yolculuğu yapamaz — yıldız rüzgârlarının izin verdiği şekilde sistemden sisteme sürüklenir. Boşluk savaşında bilinen tüm yıldız yolcularının en yavaş gemilerinden biridir ve Ork mürettebatı tarafından bile güçlükle kontrol edilir. Ancak sertleşmiş — ve açıkçası akıl almaz — yapısı onu neredeyse yok edilemez kılar; Armageddon'a yağan Rok'lar İkinci Armageddon Savaşı'nın başlangıcıydı.
 
 -# Kaynaklar: *Battlefleet Gothic* (Games Workshop, 1999); *Codex: Orks — 10th Edition*
 

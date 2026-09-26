@@ -13,7 +13,8 @@ Dev bir mıknatıs mantığıyla çalışan Ork uçaksavar silahıdır; çekim a
 
 ## Tarihçe
 
-Düşman hava gücünü yere 'çeken' bu silah, hızlı avcıları ve inişteki nakliyeleri yerçekimine teslim eder; Ork mantığında gökten bir şey düşürmek, onu parçalamanın en doğrudan yoludur. Bubblechukka, Kustom Mega-Kannon ve Smasha Gun'la birlikte Mekboy'ların karmaşık batarya sınıfından sayılır.
+Traktor Kannon, Ork Mekboy'larının tersine mühendislikle ürettiği garip bir silahtır; hedefi yakalayıp fırlatan manyetik-yerçekimli 'traktör' ışını yayar. Anti-gravite alanını bir kement gibi kullanarak düşman araçlarını havada döndürür, yere çarpar ya da diğer Ork toplarına doğru savurur; uçakları gökten çekmede özellikle etkilidir. Ork teknolojisinin 'işe yarıyorsa doğrudur' felsefesinin kanıtı — Mekboy'lar nasıl çalıştığını tam bilmez ama sonuçları sever.
+
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum ("Traktor Kannon", "Big Gun"); *Codex: Orks — 10th Edition*
 

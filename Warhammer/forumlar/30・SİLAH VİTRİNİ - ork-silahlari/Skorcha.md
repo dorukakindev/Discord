@@ -13,7 +13,8 @@ Ork'ların alev silahı burna'nın ağır, araçlara monte versiyonudur; siperle
 
 ## Tarihçe
 
-Piyadeyi siperinden caydıran ve hafif zırhı kavuran bu silah, Ork araçlarında bolca görülür; Burna-Bommer'ların bütün yükü dev skorcha başlıklarıdır. Daha da büyüğü Supa Skorcha, Mega Dread ve Gorkanaut gibi yürüyen kalelerin bileğine monte edilir.
+Skorcha, Ork'ların alev silahlarının araç-monte varyantıdır; Deff Dread'lerden Killa Kan'lara ve Warbuggy'lere kadar pek çok Ork zırhlısında görülür. İki kollu büyük promethium püskürtücülerden oluşur ve bir Burna'dan çok daha geniş alana alev saçar; siper, bina ve toplu piyadeye karşı Ork'ların tercih ettiği 'temizlik' aracıdır. Adı 'scorcher'dan gelir — Ork'ların açıklıkla en sevdiği kelime köklerinden biri.
+
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum ("Skorcha", "Burna"); *Codex: Orks — 10th Edition*
 

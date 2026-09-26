@@ -16,8 +16,7 @@ Hem alev püskürtücü hem de kesme meşalesi olarak kullanılan Ork silahıdı
 
 ## Tarihçe
 
-Burna, Ork'ların en ölümcül ve en yaygın silahıdır — alev silahıdır. Bu silah, Ork'ların en yaygın silahıdır ve düşmanın en tehlikeli hedeflerini yakarak etkisiz hale getirir; tek atışta birkaç düşmanı yakabilecek kadar güçlüdür. Burna, Ork'ların en ölümcül ve en yaygın silahıdır; bu silah, Ork'ların en önemli ve en yaygın silahıdır. Silah, Ork'ların en ölümcül ve en yaygın silahı olarak kalır.
-
+Burna, Ork'ların kullandığı tipik alev silahının sadeleştirilmiş halidir; Yeşilderili ırkın ateşe ve yakma sanatına duyduğu inkâr edilemez çekimin ürünüdür — bazı Ork'lar bu tutku o kadar derindir ki Burna Boyz saflarına katılır. Burna Boyz'lar adlarını aldıkları uzun, soyulmuş alev makinelerini kullanır; sırtlarına asılı savrulan promethium tankına bağlı 'Burna'ları yağlı alev fışkırtabilir. Ama bir Burna sadece alev makinesi değildir — vanayı kapatıp ters çevirdiğinde keskin, kırmızı-sıcak bir kesici aleti olur ve piyadeyi doğramak için kullanılır. Alevin zarif olmayan ama etkili düalitesi.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

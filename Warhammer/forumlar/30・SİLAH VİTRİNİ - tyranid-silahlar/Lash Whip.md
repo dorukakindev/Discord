@@ -16,6 +16,7 @@ Sinaptik biyoformların taşıdığı, kendi iradesiyle kıvranan canlı bir kı
 
 ## Tarihçe
 
-Bonesword ile aynı silah çiftinin parçası olarak taşınır; kılıç öldürürken kırbaç rakiplerin silahlarını bağlar ve karşı saldırıyı savuşturur. Kendi refleksleriyle hareket eden bu symbiote, Hive Mind'ın sinaptik örgüsünün bedene nakşedilmiş bir uzantısı olarak görülür.
+Lash Whip, Tyranid bioformlarında kullanılan canlı bir kırbaç silahıdır; kendi iradesine sahip, kasılgan bir simbiyot organizmadır. Taşıyıcıyla birleştiğinde bağımsız olarak kıvrılır, düşman silahını sarar, uzvu kırar ya da avını taşıyıcıya doğru çeker — kırbaç kullanıcı değil, kırbaç kendisi avlanır. Tyranid Warrior'lar, Carnifex'ler ve Hive Tyrant'larda görülür; yakın dövüşte rakibin dengesini bozmanın yanı sıra Hive Mind'ın 'her bioform kendi rolünü oynar' tasarımının mükemmel örneğidir.
+
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

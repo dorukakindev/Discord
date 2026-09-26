@@ -16,6 +16,7 @@ Genelde çift halinde taşınan, symbiote canlı silahlardır; uzun boru biçiml
 
 ## Tarihçe
 
-Fleshborer'ın yanında Termagant sürülerinin ikinci standart silahıdır; mesafe kısa ama diken yağmuru yoğundur. Silah taşıyıcının solunum gücüyle beslendiğinden uzuv ve ciğer kapasitesi arttıkça ateş hacmi de büyür — Hive Mind'ın mühimmatı bile taşıyıcısının bedenine kurdurduğu tasarımın somut halidir.
+Spinefist, Tyranid'lerin küçük, yaşayan tabanca bioformudur; taşıyıcının koluna kaynaşmış iki simbiyot organizmadan oluşur ve solunum kaslarının kasılmasıyla boşluktaki zehirli omurga dikmelerini fırlatır. Her Spinefist aslında kendi küçük beynine sahip ayrı bir yaratıktır — nişan almayı kendisi yapar, taşıyıcı sadece doğrultur. Hormagaunt'lar ve diğer küçük bioformlar tarafından kullanılır; bir sürü halinde gökyüzünü diken bulutuyla doldurur.
+
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

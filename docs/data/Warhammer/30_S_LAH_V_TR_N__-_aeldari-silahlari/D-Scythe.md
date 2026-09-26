@@ -16,8 +16,9 @@ Wraithguard'ın wraithcannon yerine taşıyabildiği, uğursuz ve tabu sayılan 
 
 ## Tarihçe
 
-Craftworld'lerin çaresizliği tabuları aşındırır: umutsuz Autarch'lar d-scythe'ların daha sık konuşlandırılmasını talep eder. Hedeflenen bir uçağın gövdesinde tek çizik olmaz ama pilotu ruhu sökülmüş bir kabuk olarak düşürür — bu silahın korkusu bedensel değil, manevidir.
+D-Scythe, Aeldari'nin Warp bazlı Distortion silah ailesinin piyade varyantıdır; minyatür bir warp açıklığı yaratarak hedefi Immaterium'la çakıştırır. Striking Scorpions ve bazı ağır piyade birliklerinin ötesinde, Wraithguard yapılarında da görülür; zırh ve siper ona karşı koruma sağlamaz çünkü silah maddeyi değil, maddenin varlığını hedefler. Imperium bu silahı 'kaybeden taraf hiç görmeden savaş biter' sözüyle anar.
+
 
 -# Kaynaklar: *Codex: Eldar — 6th Edition*; *Codex: Craftworlds — 7th Edition*; *Aeronautica Imperialis: Companion*; Warhammer 40,000 — Lexicanum
 
--# İlişkili kayıtlar: <#1551645206342803580>, <#1551632741777408091>, <#1551629214837510205>, <#1551812290439942255>
+-# İlişkili kayıtlar: <#15516

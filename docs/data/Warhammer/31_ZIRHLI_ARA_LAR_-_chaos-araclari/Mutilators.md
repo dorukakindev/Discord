@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8f/ChaosSpaceMarineMutil
 
 ## Tarihçe
 
-Mutilator, Chaos'un en grotesk savaş formalarından biridir — Warp'ın dokunuşuyla bedeni anında silah üretebilen mutant-astartes'dir; eli testereli kılıca, küreğe, testerenin zincirine dönüşür. Kendi takımının yakın dövüş şiddetinin somut halidir; sabit bir 'silah' yerine akışkan, canlı bir vahşet yaratığıdır.
+Mutilator, yalnızca yakın dövüşün vahşi hazzına adanmış, bedeni ve ruhu silahlarıyla kaynaşana dek fiziksel formu bozulmuş bir Chaos Space Marine'dir. Mutilator'lar yalnızca silahlarının Empyrean'daki yansımaları olan güçlü savaş-ruhlarıyla iletişim kurmayı değil, onları özümsemeyi de hedefler; çeşitli yakın dövüş silahlarının Warp doğaçlı gücünü kendi ruhlarına ve et-metal bedenlerine katarak herhangi bir silaha dönüşebilirler. Bir an balta, bir an pençe, bir an kırbaç olurlar. Horus Heresy'den beri Word Bearers ve diğer daemon-odaklı lejyonlarda görülürler.
 
 -# Kaynaklar: *Fandom wiki*

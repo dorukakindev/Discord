@@ -13,7 +13,8 @@ Yüksek bir yay çizerek patlayıcı mermileri engellerin ardındaki düşman pi
 
 ## Tarihçe
 
-Çoğu lobba dev bir havana ya da rokkit borusuna benzer; ilkel kabilelerinki ise açıkça mancınıktır. Büyük akrabaları Big Lobba ve Supa-Lobba aynı menzilde daha geniş patlama kusar ve ağır araçlara hatta Squiggoth'lara monte edilir.
+Lobba, Ork'ların primitif ama etkili dolgu-bomba topudur; büyük, düşük hızlı patlayıcı mermileri yüksek yay çizerek düşman siperlerinin arkasına veya kalabalık piyade hatlarına düşürür. Doğrudan nişan gerektirmez — alan bombası olarak çalışır ve Ork'ların topçu ihtiyacını karşılar. Grot mürettebat tarafından sık kullanılır; basitliği sayesinde savaş alanında hurda parçalarından bile üretilebilir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum ("Lobba", "Big Gun"); *Codex: Orks — 4th Edition*
 

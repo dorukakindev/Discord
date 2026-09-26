@@ -22,7 +22,6 @@ Tek atışlık zırh delici değil, sürdürülebilir ateş baskısıdır — d�
 
 ## Tarihçe
 
-Ion Cannon, T'au İmparatorluğu'nun en ölümcül ve en büyük silahıdır — iyon enerjisi kullanan bir toptur. Bu silah, hedefe yoğun bir iyon enerjisi gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Ion Cannon, T'au'nun en ölümcül ve en büyük silahıdır; bu silah, T'au'nun en önemli ve en büyük silahıdır. Silah, T'au İmparatorluğu'nun en ölümcül ve en büyük silahı olarak kalır.
-
+Ion Cannon, yüksek enerjili iyon akımlarıyla aşırı uzun menzillerde et ve metali aynı kolaylıkla buharlaştıran bir Tau iyon silahıdır; elektromanyetik alanla hızlandırılan yüksek enerjili parçacıklar doğrudan atomik düzeyde enerji aktarımıyla hedefle patlayıcı şekilde reaksiyona girer. Tau Empire'ın uzaya erken genişlemesi sırasında geliştirilmiştir ve en yaygın olarak Hammerhead gunship'in ana taret silahı olarak bulunur — ancak başka platformlara da monte edilir. Imperial teknolojisine kıyasla hem daha güvenli hem daha uzun menzillidir; plazma aşırı ısınması riskini pratik olarak taşımaz.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

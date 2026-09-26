@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8d/Ork_Fly-boy.jpg/revis
 
 ## Tarihçe
 
-Dakkajet, Ork hava gücünün bel kemiğidir; Flyboyz tarafından uçurulan, hızlı ve delice manevra yapan bu jetler bir sürü big shoota taşır ve bazen bomba da atar. Ork pilotlarının 'dakka' hırsıyla hava üstünlüğü kurarlar — hava muharebesinde bile Ork'un gürültülü, dolu dolu silah felsefesini taşırlar.
+Dakkajet, Ork'ların Fighta-Bomba ailesinin saf-savaşçı varyantıdır; burnuna ve kanatlarına mümkün olan her yere Supa Shoota'lar ve Big Shoota'lar monte edilmiş, 'dakka' felsefesinin uçan ifadesidir. Hızı ve ateş hacmiyle İmparatorluk'un hava üstünlüğüne meydan okur — teknik olarak Inferior bir tasarımdır ama Ork pilotlarının 'daha çok dakka her şeyi çözer' yaklaşımı bunu telafi eder. Goff Rocker'lar ve WAAAGH! hava filolarının omurgasıdır.
 
 -# Kaynaklar: *Fandom wiki*

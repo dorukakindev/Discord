@@ -16,8 +16,9 @@ Deathmark keskin nişancılarının uzun menzilli silahı; sıkıştırılmış 
 
 ## Tarihçe
 
-Deathmark'lar tam vurma anında hiperuzaydan gölge gibi belirir ve silindiği gibi kaybolur; silahları da görevleri kadar hassas ve soğuktur. Komutanları ve kilit personeli almak için tasarlanmış bu tüfek, düşmanın yönetim katmanını bedeninden önce eritir. Piyade yığınlarını biçen gauss ve tesla'nın karşısında sinaptik parçalayıcı, tek bir mermiyle stratejiyi hedef alan Necron suikast doktrinidir.
+Synaptic Disintegrator, Necron keskin nişancı silahıdır; hedefin sinir sistemini atomik düzeyde çözen odaklanmış bir partikül ışını gönderir. Teknik olarak bir Gauss varyantı değil, synaptic bozunma teknolojisi kullanır — kurbanın beyni ve sinir ağı içeriden dışarıya dağılırken beden görünürde sağlam kalır. Deathmark pelerinli nişancılar bu silahı kullanır; bir düşman komutanın kalabalık içinde aniden düşüp öldüğü raporları, İmparatorluk'un bu silahı tanıma şeklidir.
+
 
 -# Kaynaklar: *Codex: Necrons — 5th Edition*; Lexicanum — "Synaptic Disintegrator", "Huntmaster (Deathmark)"; Warhammer 40,000 — Fandom ("Deathmark")
 
--# İlişkili kayıtlar: <#1551905404479471617>, <#1551817244844232727>
+-#
