@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/91/Knight-Errant_Tylos_R
 
 ## Tarihçe
 
-Tylos Rubio, Ultramarines'in en ünlü ve en trajik Knight-Errant'ıdır; Büyük Haçlı Seferi ve Horus Heresy sırasında Ultramarines'in en güçlü psyker'ı olan Rubio, İmparatorluğun en trajik ve en güçlü savaşçısıdır — onlar, Ultramarines'in en ünlü ve en trajik üyesidir. Tylos Rubio'nun en büyük özelliği, onun psişik gücüdür — onlar, Ultramarines'in en güçlü psyker'ıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Rubio, hem bir savaşçı hem de bir psyker'dır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Tylos Rubio'nun en ünlü özelliği, onun Knight-Errant'ıdır — onlar, bir Chapter'ın en trajik ve en güçlü savaşçısıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Tylos Rubio, Ultramarines'in en ünlü ve en trajik Knight-Errant'ıdır — onlar, bir psyker'ın ve Ultramarines'in en büyük trajedisinin somut halidir.
+Tylos Rubio, Ultramarines'in en ünlü ve en efsanevi figürlerinden biridir — Chapter'ın en önemli figürlerinden biridir. Rubio, Ultramarines'in en ünlü ve en efsanevi figürlerinden biridir; onun hikâyesi, Ultramarines'in en önemli savaşlarının ve en büyük zaferlerinin simgesidir. Tylos Rubio, Ultramarines'in en ünlü ve en efsanevi figürü olarak kalır — onun hikâyesi, Ultramarines'in en önemli savaşlarının ve en büyük zaferlerinin simgesidir.
 
 -# Kaynaklar: *Fandom wiki*
 

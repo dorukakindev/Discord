@@ -12,6 +12,6 @@ Salamanders'ın primarch'ı Vulkan, gizemli bir biçimde ortadan kaybolmadan ön
 
 ## Tarihçe
 
-Vulkan He'stan, Salamanders'in en ünlü ve en saygın Forgefather'ıdır; Chapter'ın en büyük demircisi ve onun en kutsal emanetlerini koruyan He'stan, Salamanders'in en gizli ve en önemli üyesidir — onlar, Salamanders'in en ünlü ve en saygın üyesidir. Vulkan He'stan'ın en büyük özelliği, onun demirciliğidir — onlar, Salamanders'in en büyük demircisidir ve onların varlığı, Chapter'ın en kutsal geleneğinin kanıtıdır; bir He'stan, hem bir savaşçı hem de bir zanaatkârdır ve onların varlığı, Salamanders'in en büyük geleneğinin somut halidir. He'stan'ın en ünlü özelliği, onun Forgefather'ıdır — onlar, Chapter'ın en kutsal emanetlerinin koruyucusudur ve onların varlığı, Salamanders'in en büyük sırrının kanıtıdır. Vulkan He'stan, Salamanders'in en ünlü ve en saygın Forgefather'ıdır — onlar, bir demircinin ve Salamanders'in en büyük geleneğinin somut halidir.
+Vulkan He'stan, Salamanders'ın en önemli ve en güçlü figürlerinden biridir — Forgefather olarak bilinen ve Vulkan'ın eserlerini arayan figürdür. He'stan, Salamanders'ın en önemli ve en güçlü figürüdür; onun görevi, Vulkan'ın kayıp eserlerini bulmak ve Chapter'ın en önemli mirasını korumaktır. He'stan, İmparatorluk'un en önemli ve en güçlü figürlerinden biridir; onun görevi, Salamanders'ın en önemli ve en kutsal geleneğinin simgesidir. Vulkan He'stan, Salamanders'ın en önemli ve en güçlü figürü olarak kalır — onun görevi, Chapter'ın en önemli ve en kutsal geleneğinin simgesidir.
 
 -# Kaynaklar:

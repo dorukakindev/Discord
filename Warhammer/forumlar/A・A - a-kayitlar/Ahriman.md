@@ -66,3 +66,7 @@ Ahriman ve Rubric, Thousand Sons'ın temel hikâyesinin parçası olarak erken *
 **Çapraz:** <#1551809231580307517>, <#1551808728062501019>, <#1551816657691746335>, <#1551647728692633643>, <#1551655326716133498>, <#1551809699312181339>, burning-of-prospero, <#1551818131679215728>
 
 ​
+
+### Arka Plan
+
+Ahriman (Angra Mainyu), Zerdüşt kozmolojisinin 'yıkıcı ruh'u: Spenta Mainyu'nun zıt ikizi — iyi düşünceye kötü düşünce ile karşılık verir. İnsanlığı yalan, hastalık, ölümle sınar; sonunda Frashokereti'de (dünyanın yenilenmesi) kaybedecektir. Ölülerin ruhları Çinvat Köprüsü'nde onun yalanlarına karşı sınanır. Zerdüştlüğün düalizmi İbrahimî şeytan kavramını tarihsel olarak besledi.

@@ -86,7 +86,7 @@ Guilliman'ın kaleme aldığı Codex Astartes, Legion'ları en fazla yaklaşık 
 
 ## Tarihçe
 
-Horus Heresy, İmparatorluk tarihinin en büyük trajedisi ve en önemli olayıdır. Horus, İmparator'un en sadık oğlu olarak biliniyordu; ancak Chaos'un etkisiyle İmparatorluğa ihanet etti ve Heresy'yi başlattı. Heresy sırasında İmparatorluk, kendi içindeki en büy
+Horus Heresy, İmparatorluğun en büyük ve en trajik iç savaşıdır; Horus'un — İmparator'un en sevgili oğlu — Chaos'a düşmesi ve İmparatorluğa ihanet etmesiyle başlayan ve sonunda İmparatorluğu neredeyse yok eden bir savaştır — onlar, İmparatorluğun en büyük tra
 
 ## Bilinen Yanılgılar ve SSS
 **Yanılgı:** Horus, Davin'de basit bir büyü ya da aldatmacayla bir gecede kötüye dönüştü.

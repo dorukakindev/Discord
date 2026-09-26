@@ -52,6 +52,10 @@ Bu felsefeler arasındaki sınırlar katı değildir ve pek çok Inquisitor yaş
 
 Imperium açısından bu gerilim hem bir güç hem de bir risktir: Inquisition'ın esnekliği, onu öngörülemeyen tehditlere karşı uyumlu kılar; ama aynı esneklik, onun en büyük hainlerini de kendi saflarından çıkarır.
 
+## Tarihçe
+
+Inquisition, İmparatorluk'un gizli polis-yargı gücü — 'heresy, xeno ve daemon' üçlemesine karşı yetkisiz sınırsız yetkiyle donatılmış kurum. Ordo Malleus (daemon), Ordo Hereticus (heresy) ve Ordo Xenos (xeno) üç b
+
 ## Önemli Figürler
 - **Gregor Eisenhorn**: Dan Abnett'in üçlemesiyle tanınan, Ordo Xenos'ta Puritan olarak başlayıp zamanla Radical yöntemlere kayan Inquisitor. Daemonhost Cherubael ile ilişkisi, bu dönüşümün en çarpıcı simgesidir.
 - **Gideon Ravenor**: Eisenhorn'un eski öğrencisi; bedeni neredeyse bütünüyle yok olduktan sonra zırhlı bir yaşam destek sandalyesine bağlanarak görevini psişik gücüyle sürdüren Inquisitor.

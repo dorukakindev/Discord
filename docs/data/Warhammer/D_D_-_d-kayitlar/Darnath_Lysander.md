@@ -73,4 +73,8 @@ Lysander, 2008'de yayımlanan 5th Edition *Codex: Space Marines* ile ayrıntıl�
 **Kaynaklar:** *Codex: Space Marines — 5th Edition*; *Codex Supplement: Imperial Fists — 8th Edition*; *Codex: Space Marines* (sonraki edition'lar); *Codex: Chaos Space Marines*
 **Çapraz:** <#1551636479925559479>, <#1551637652569067542>, <#1551650286559559741>, <#1551650332029751500>, <#1551813775848509482>, tor-garadon, pedro-kantor
 
+## Tarihçe
+
+Darnath Lysander, Imperial Fists'in en ünlü ve en onurlu kaptanıdır; Birinci Bölük'ün kaptanı olan ve İmparatorluğun en zorlu savunmalarını yöneten Lysander, İmparatorluğun en saygın ve en ölümcül Space Marine'lerinden biridir — onlar, Imperial Fists'in en ünlü ve en onurlu üyesidir. Darnath Lysander'ın en büyü
+
 ​

@@ -15,12 +15,12 @@ Space Marine olarak da bilinen, insan bedeninin sınırlarını aşan organlar v
 
 ## Tarihçe
 
-Great Crusade'de yirmi Legion galaksiyi yeniden fethetti; Heresy'de dokuzu Horus'un safına geçti. Second Founding ile Legion'lar yaklaşık bin kişilik Chapter'lara ayrıldı ve sonraki binyıllarda yeni Founding'ler izledi. Great Rift'in açılmasının ardından Primaris Marine'ler Indomitus Crusade'le birlikte bütün Chapter'lara dağıtıldı.
+Adeptus Astartes, 'Space Marines' — İmparator'un genetik mühendisliğiyle yaratılan süper-asker düzeni; yirmi primarch genetik tohumunun taşıyıcısı ve Imperium'un en keskin kılıcıdır. Yedi organ implantasyonu, Black Carapace ve Power Armour ile donanmış bir Space Marine, normal bir insanın yüz katı savaşır. Codex Astartes'in 'bölük' sistemi — 1000 asker, 10 company — Heresy sonrası Guilliman'ın imzasını taşır; bugün ~1000 chapter aktif. 'They shall know no fear' — Astartes'in doktrini bu cümlede özetlenir; Imperium'un kısa ama kusursuz cevabıdır.
 
 ## Teknik / Biyolojik Özellikler
 
 Implant edilen gene-seed organları; power armour; bolter ailesi silahlar; Codex Astartes'e dayalı Company yapısı. Bazı Chapter'lar Codex'ten belirgin biçimde sapar.
 
--# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*; *Dark Imperium — Guy Haley*
+-# Kaynaklar: *Codex: Space Marines — 10
 
 -# İlişkili kayıtlar: <#1551753431230971988>, <#1551808888666587197>, <#1551818213782716427>, <#1551818097504157699>

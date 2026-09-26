@@ -15,7 +15,7 @@ Karanlık, taş görünümlü, devasa ve anlaşılması güç yapılardır. Impe
 
 ## Tarihçe
 
-Gothic Sektörü'ndeki Blackstone Fortress'ler, 12th Black Crusade olarak da bilinen Gothic War'da Abaddon'ın asıl hedefiydi. Abaddon bazı Fortress'leri ele geçirip onlarla dünyaları yok etti ve bunların bir kısmıyla Eye of Terror'a çekildi. 13th Black Crusade'de Fortress *Will of Eternity* Cadia'nın yüzeyine düşürüldü; çarpma pylon ağını parçaladı ve Cadia'yı fiilen yok etti.
+Blackstone Fortress, İmparatorluk'un en gizli ve en tehlikeli eserlerinden biridir — eski ve güçlü bir savaş istasyonudur. Blackstone Fortress'ler, İmparatorluk'un en gizli ve en tehlikeli eserleridir; bu istasyonlar, İmparatorluk'un en önemli ve en tehlikeli silahlarıdır. Blackstone Fortress, İmparatorluk'un en gizli ve en tehlikeli eserlerinden biridir; bu istasyonlar, İmparatorluk'un en önemli ve en tehlikeli silahlarıdır.
 
 ## Kanon Notu
 

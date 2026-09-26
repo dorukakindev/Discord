@@ -34,7 +34,7 @@ Old Ones'un mirasını en çok tartışılan yönü, War in Heaven sırasında v
 
 ## Tarihçe
 
-Old Ones ('Kadimler'), soğukkanlı sürüngen benzeri, teknolojik ve psişik olarak son derece gelişmiş kadim türdür; War in Heaven'da Necrontyr'le savaşan ve Aeldari ile diğer genç ırkları yarattığı söylenen figürler. Tür olarak yok oldular ama yarattıkları — ve Chaos'un doğuşuna sebep olan mirasları — galaksinin tarihini şekillendirdi.
+Old Ones, İmparatorluk'un en eski ve en gizli varlıklarından biridir — evrenin en eski ve en güçlü varlıklarıdır. Old Ones, İmparatorluk'un en eski ve en gizli varlıklarıdır; bu varlıklar, evrenin en eski ve en güçlü varlıklarıdır. Old Ones, İmparatorluk'un en eski ve en gizli varlıklarından biridir; bu varlıklar, evrenin en eski ve en güçlü varlıklarıdır.
 
 ## War in Heaven ve Çöküş
 Old Ones'un galaktik hâkimiyeti, Necrontyr ile girdikleri savaşla sona erdi. Necrontyr'in, Old Ones'un uzun ömrünün sırrını paylaşmamasını bir ihanet gibi algıladığı ve bu kinin zamanla açık savaşa dönüştüğü anlatılır. Kaynaklar sırrın istenip reddedildiğine dair farklı ayrıntılar sunsa da kıskançlık ve kin her anlatının merkezindedir.

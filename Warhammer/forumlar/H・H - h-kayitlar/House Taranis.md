@@ -19,6 +19,10 @@ Mechanicus Hanelerinde olduğu gibi Taranis'in hükümdarı da **Princeps** unva
 
 Kaynaklarda Taranis'in Heresy öncesi seferleri ve Great Crusade'deki rolü geniş biçimde anlatılmaz. Hanenin yayımlanmış kanondaki ağırlığı, büyük ölçüde Schism of Mars'ta yaşadıklarına dayanır.
 
+## Tarihçe
+
+House Taranis, İmparatorluk'un en eski ve en prestijli Knight hane'lerinden biridir — Mars'ın yakınında bulunan ve Mechanicus'la yakın ilişkisi olan bir Questor Mechanicus hanesidir. Taranis, Büyük Haçlı Seferi'nden beri İmparatorluk'a hizmet eder ve Knight'larıyla İmparatorluk'un en önemli savaşlarında savaşır; hane, İmparatorluk'un en güvenilir ve en eski destekçilerinden biridir. House Taranis'in Knight'ları, özellikle Mechanic
+
 ## Schism of Mars: Kardeşe Karşı Kılıç
 Fabricator General **Kelbor-Hal**'in Horus'un safına geçmesiyle Mars, kendi içinde parçalandı. Hain kesimin saldığı **scrapcode** adlı veri salgını sadık forge'ları ve noosphere'e bağlı rahipleri felce uğratırken Titan Legio'ları birbirine döndü: **Legio Mortis** Kelbor-Hal'in yanında yürüdü, sadık **Legio Tempestus** ise ağır bir yıkıma uğradı. Taranis, bu iç savaşta sadık Mechanicum'un safında yer aldı.
 

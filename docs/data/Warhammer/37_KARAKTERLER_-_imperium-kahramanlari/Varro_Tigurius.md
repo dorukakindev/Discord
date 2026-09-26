@@ -12,6 +12,7 @@ Tigurius'un yetenekleri olağanüstüdür; geleceği parçalar halinde görebili
 
 ## Tarihçe
 
-Varro Tigurius, Ultramarines'in en güçlü ve en saygın Chief Librarian'ıdır; Ultramar'ın en büyük psyker'ı olan ve onun en gizli savaşlarını yöneten Tigurius, İmparatorluğun en güçlü Librarian'larından biridir — onlar, Ultramarines'in en güçlü ve en saygın üyesidir. Varro Tigurius'un en büyük özelliği, onun psişik gücüdür — onlar, Ultramarines'in en güçlü psyker'ıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Tigurius, hem bir Librarian hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Varro Tigurius'un en ünlü özelliği, onun Chief Librarian'ıdır — onlar, bir Chapter'ın en yüksek psyker rütbelisidir ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır. Varro Tigurius, Ultramarines'in en güçlü ve en saygın Chief Librarian'ıdır — onlar, psişik gücün ve Ultramarines'in en büyük gücünün somut halidir.
+Varro Tigurius, Ultramarines'in Chief Librarian'ı ve İmparatorluk'un en güçlü psyker'larından biridir — Ultramarines'in en önemli psyker'ıdır. Tigurius, Ultramarines'in en güçlü ve en deneyimli psyker'ıdır; onun psyker güçleri, Ultramarines'in en önemli ve en güçlü güçlerinden biridir. Varro Tigurius, Ultramarines'in en güçlü ve en deneyimli psyker'ı olarak kalır — onun güçleri, Ultramarines'in en önemli ve en güçlü güçlerinin simgesidir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexican

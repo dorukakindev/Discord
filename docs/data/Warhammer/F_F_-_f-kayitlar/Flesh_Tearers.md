@@ -79,4 +79,8 @@ Flesh Tearers, Blood Angels ardılları arasında uzun süredir anılan bir Chap
 **Kaynaklar:** *Fear to Tread — James Swallow*; *The Devastation of Baal — Guy Haley*; *Shield of Baal: Leviathan*; *Codex: Blood Angels — 5th Edition*; *Psychic Awakening: Blood of Baal*; *Codex Supplement: Blood Angels — 10th Edition*
 **Çapraz:** <#1551811368389181491>, gabriel-seth, <#1551811968946540596>, <#1551650289579335757>, <#1551813631660789811>, <#1551813493517459549>, <#1551811246322614273>, <#1551643992695906420>
 
+## Tarihçe
+
+Flesh Tearers, Blood Angels soyu ve Second Founding'de kurulan bir Space Marine Chapter'ıdır; onların savaş doktrini, Blood Angels'ın Red Thirst'ünün en vahşi ve en kontrolsüz halidir — onlar, İmparatorluğun en korkulan ve en kanlı savaşçılarıdır. Flesh Tearers'ın en büyük özelliği, onların
+
 ​

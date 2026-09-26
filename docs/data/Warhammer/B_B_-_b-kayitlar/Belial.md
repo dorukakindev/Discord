@@ -51,3 +51,7 @@ Deathwing adı gerçek dünyada 1990 tarihli *Space Hulk* genişlemesi *Deathwin
 **Çapraz:** <#1551813077991686208>, <#1551638997539758123>, <#1551809277692215330>, <#1551810874635976776>, <#1551809619544899625>, <#1551816136679751721>, <#1551809133156634696>, caliban
 
 ​
+
+### Arka Plan
+
+Belial (Beliar), İbrani 'değersizlik/yalan' soyut kavramından kişileşen demon: Kumran metinlerinde 'karanlığın meleği', İncil'de 'ben Belial'la ne ilgisi' dizesi. Ars Goetia'da 68. kral: iki güzel melek, güzel sesli, rütbe ve 'senatörlerin iltiması' verir; 'denklik' talep eder (kurban). 'En değersiz' unvanıyla demon-ısmarlama figürü.

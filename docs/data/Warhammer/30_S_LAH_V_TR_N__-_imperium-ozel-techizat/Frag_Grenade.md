@@ -19,4 +19,7 @@ Anti-personel şarapnel bombası — krater ve kalabalık temizliğinin standart
 ## Not
 Imperium piyade cephaneliğinin en eski parçasıdır — Astra Militarum'dan Space Marine'e kadar her kademede taşınır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Frag Grenade, İmparatorluk'un en yaygın el bombasıdır — piyadeye karşı tasarlanmış bir el bombasıdır. Bu bomba, patladığında şarapnel parçaları yayarak çevresindeki düşmanları etkisiz hale getirir; tek atışta birkaç düşmanı etkisiz hale getirebilecek kadar güçlüdür. Frag Grenade, İmparatorluk Muhafızı'nın ve Space Marines'in standart el bombasıdır; bu bomba, İmparatorluk'un en yaygın ve en güvenilir silahı olarak kalır.

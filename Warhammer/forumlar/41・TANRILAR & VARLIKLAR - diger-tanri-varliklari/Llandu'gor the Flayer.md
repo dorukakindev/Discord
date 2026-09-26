@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/36/Flayedone20.JPG/revis
 
 ## Tarihçe
 
-Llandu'gor the Flayer ('Derisi Yüzen'), C'tan'ların en vahşi parçalarından biridir; Necron'ların kendi tanrılarını parçalayıp 'shard' haline getirdiği bu varlık, 'flayer' lanetinin kaynağı sayılır.
+Llandu'gor the Flayer, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir — 'Flayer' olarak bilinen ve en korkulan C'tan'lardan biridir. Llandu'gor, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en tehlikeli tanrılarıdır. Llandu'gor the Flayer, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en tehlikeli tanrılarıdır.
+
 
 -# Kaynaklar: *Necron Codexleri*

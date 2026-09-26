@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/52/DA_Chainfist.jpg/revi
 Güç yumruğu üzerine monte zincir testere; gemi bölmesi de tank zırhı da karşısında konserve gibi açılır.
 
 ## Tarihçe
-Chainfist, bir Power Fist'in üzerine eklenmiş güç alanlı zincir testereden oluşur. Asıl doğum yeri gemi içi savaşlardır: Terminatörler, uzay hulklarının kilitli bölme kapılarını bu silahla konserve gibi açar. Aynı yetenek savaş alanında tank zırhına uygulanır; güç alanı molekülleri gevşetirken dönen dişler kalan her şeyi öğütür. Yavaş ama karşısında hiçbir kapalı kapının ve hiçbir zırhın dayanamadığı bir silahtır.
+
+Chainfist, Space Marines'in en ölümcül yakın dövüş silahlarından biridir — bir power fist ile bir chainsword'un birleşimidir. Bu silah, power fist'in ezme gücü ile chainsword'un kesme gücünü birleştirir; tek vuruşta bir tankın zırhını bile kesebilecek kadar güçlüdür. Chainfist, özellikle Terminator birliklerinin ve İmparatorluk'un en ağır zırhlı birliklerinin tercihidir; bu silah, İmparatorluk'un en ölümcül yakın dövüş silahlarından biri olarak kabul edilir. Silah, Space Marines'in en güçlü ve en ölümcül silahlarından biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

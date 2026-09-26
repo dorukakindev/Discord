@@ -41,7 +41,7 @@ Chapter'ın ruhani ve teknik düzeni de kendine özgüdür: **Wolf Priest**'ler 
 
 ## Tarihçe
 
-Space Wolves — kendi Juvjk lehçelerinde 'Vlka Fenryka', 'Fenris'in Kurtları' — İlk Kuruluş'un 20 chapter'ından biridir; bir zamanlar efsanevi Primarch Leman Russ'ın liderliğindeydi. VI. Lejyon olarak Büyük Sefer'in şafağında İmparator tarafından yükseltilen bu chapter, 'kurtların özgürlüğü' olarak İmparatorluk'un en vahşi sadık figürleridir.
+Space Wolves, Space Marines'in en vahşi ve en efsanevi Legion'larından biridir — Leman Russ'ın Legion'udur ve İmparatorluk'un en savaşçı Legion'udur. Space Wolves, İmparatorluk'un en vahşi ve en savaşçı Legion'udur; onların savaş yetenekleri ve vahşiliği, İmparatorluk'un en önemli ve en güçlü güçlerinin simgesidir. Space Wolves, Heresy sırasında İmparator'a s
 
 ## Kültür, İnanç ve Dünya Görüşü
 Space Wolves'ın kültürü, Fenris'in savaşçı ahlakı, sözlü saga geleneği ve kurtla kurulan ruhani bağ üzerine kuruludur. Chapter'ın savaşçıları kahramanlık, kardeşlik ve onura değer verir; Imperium'un bürokratik yapısına ve dogmatik kurumlarına mesafelidir. Sıradan insanlara karşı koruyucu bir tutum sergilemeleri, özellikle Inquisition'la sık sık çatışmalarına yol açar.

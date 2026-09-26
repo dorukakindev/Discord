@@ -15,7 +15,7 @@ Uzun ve iskeletimsi gövdesinin omurgası boyunca uzanan doomsday cannon'u taş�
 
 ## Tarihçe
 
-Doomsday Ark'lar Necron falanxlarının uzak menzilli yok edicileri olarak anlatılır; zırhlı hedefleri ve ağır tahkimatları savaşçılar ilerlemeden önce ortadan kaldırmak için kullanılır.
+Doomsday Ark, Necron'ların en tehlikeli ve en ölümcül savaş araçlarından biridir — Doomsday Cannon ile donatılmış bir savaş platformudur. Doomsday Ark, Necron'ların en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül savaş güçlerinden biridir. Doomsday Ark, Necron'ların en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül savaş güçlerinden biridir.
 
 ## Teknik / Biyolojik Özellikler
 

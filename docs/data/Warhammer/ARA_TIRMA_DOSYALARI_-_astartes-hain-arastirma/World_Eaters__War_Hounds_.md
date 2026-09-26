@@ -63,6 +63,10 @@ World Eaters, Horus Heresy sırasında ilk hain olanlardan biriydi. **Lorgar** v
 
 #### The Siege
 
+## Tarihçe
+
+World Eaters (XII Legion, eski adıyla War Hounds), Angron'un oğullarıdır; kan, vahşet ve yakın dövüş üzerine kurulu ve
+
 **Battle of Terra**'da World Eaters, İmparator'a karşı savaştı. **Angron**, **Emperor's Children** ile birlikte İmparatorluk ordularını yendi.
 
 ### Post-Heresy

@@ -11,6 +11,6 @@ Sıradan bir ölümlü olmasına rağmen, galaksinin en güçlü ve en lanetli v
 
 ## Tarihçe
 
-Ollanius Pius, İmparatorluğun en ünlü ve en trajik kahramanıdır; Horus Heresy'nin sonunda İmparator'u Horus'tan koruyan ve ölen Pius, İmparatorluğun en trajik ve en önemli figürüdür — onlar, İmparatorluğun en ünlü ve en trajik kahramanıdır. Ollanius Pius'un en büyük özelliği, onun fedakarlığıdır — onlar, İmparator'u Horus'tan koruyan ve ölen en trajik kahramandır ve onların varlığı, İmparatorluğun en büyük fedakarlığının kanıtıdır; bir Pius, hem bir asker hem de bir kahramandır ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Ollanius Pius'un en ünlü özelliği, onun İmparator'u korumasıdır — onlar, İmparatorluğun en büyük fedakarlığının en trajik kahramanıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Ollanius Pius, İmparatorluğun en ünlü ve en trajik kahramanıdır — onlar, bir fedakarlığın ve İmparatorluğun en büyük onurunun somut halidir.
+Ollanius Pius, İmparatorluk'un en kutsal ve en trajik figürlerinden biridir — Horus Heresy sırasında İmparator'u korumak için ölen ve İmparatorluk'un en büyük fedakârlığını yapan figürdür. Pius, İmparatorluk'un en kutsal ve en trajik figürlerinden biridir; onun fedakârlığı, İmparatorluk tarihinin en büyük fedakârlık hikâyelerinden birinin simgesidir. Ollanius Pius, İmparatorluk'un en kutsal ve en trajik figürü olarak kalır — onun fedakârlığı, İmparatorluk tarihinin en büyük fedakârlık hikâyelerinden birinin simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

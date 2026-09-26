@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5b/GK_Heraldry3.png/revi
 
 ## Tarihçe
 
-Anval Thawn, Grey Knights'ın en ünlü ve en cesur Justicar'ıdır; Chapter'ın en önde gelen savaşçısı olan ve daemon'ları yenen en kutsal savaşçı olan Thawn, İmparatorluğun en gizli ve en kutsal savaşçısıdır — onlar, Grey Knights'ın en ünlü ve en cesur üyesidir. Anval Thawn'ın en büyük özelliği, onun cesaretidir — onlar, Grey Knights'ın en önde gelen savaşçısıdır ve onların varlığı, İmparatorluğun en büyük psişik gücünün kanıtıdır; bir Thawn, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Anval Thawn'ın en ünlü özelliği, onun Justicar'ıdır — onlar, bir Chapter'ın en cesur ve en güçlü rütbelisidir ve onların varlığı, Grey Knights'ın en büyük gücünün kanıtıdır. Anval Thawn, Grey Knights'ın en ünlü ve en cesur Justicar'ıdır — onlar, psişik gücün ve İmparatorluğun en büyük azizinin somut halidir.
+Anval Thawn, Grey Knights'ın en güçlü ve en tehlikeli figürlerinden biridir — Justicar olarak bilinen ve Chapter'ın en önemli figürlerinden biridir. Thawn, Grey Knights'ın en güçlü ve en tehlikeli figürlerinden biridir; onun psyker güçleri, Grey Knights'ın en önemli ve en güçlü güçlerinden biridir. Anval Thawn, Grey Knights'ın en güçlü ve en tehlikeli figürü olarak kalır — onun güçleri, Grey Knights'ın en önemli ve en güçlü güçlerinin simgesidir.
+
 
 -# Kaynaklar: *Fandom wiki*

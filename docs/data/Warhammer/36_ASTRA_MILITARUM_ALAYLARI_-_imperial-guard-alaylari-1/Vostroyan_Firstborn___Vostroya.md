@@ -16,7 +16,7 @@ Her ailenin ilk doğan çocuğunu Imperium'un ordularına veren, bu kadim kefare
 
 ## Tarihçe
 
-Horus Heresy sırasında Vostroya, silah üretimini sürdürmenin Imperium'a daha yararlı olduğunu öne sürerek alay gönderme çağrısını geri çevirdi. Bu ret Heresy'den sonra ortaya çıkınca Vostroya'ya, her ailenin ilk doğan çocuğunu Astra Militarum'a verme yükümlülüğü yüklendi. Bu kefaret on bin yıldır sürmektedir.
+Vostroyan Firstborn, İmparatorluk Muhafızı'nın en eski ve en prestijli alaylarından biridir — Vostroya gezegeninin ilk doğan oğullarından oluşan birliklerdir. Vostroya, İmparatorluk'a olan borcunu ödemek için her aileden ilk doğan erkeği askere gönderir; bu gelenek, Horus Heresy sırasında Vostroya'nın İmparator'a olan sadakatsizliğinin kefaretidir. Vostroyan Firstborn, ağır piyade ve şehir savaşında efsanevidir; alaylar, İmparatorluk'un en disiplinli ve en bağlı birliklerinden biridir. Alaylar, İmparatorluk Muhafızı'nın en prestijli ve en sadık alaylarından biri olarak kalır.
 
 -# Kaynaklar: *Rebel Winter — Steve Parker*; *Codex: Astra Militarum*
 

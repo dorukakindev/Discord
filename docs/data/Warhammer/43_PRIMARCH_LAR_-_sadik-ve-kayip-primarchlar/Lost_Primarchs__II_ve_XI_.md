@@ -15,7 +15,7 @@ Emperor'ın yirmi oğlundan ikisi, II ve XI Legion'ların Primarch'ları, Imperi
 
 ## Tarihçe
 
-Lost Primarchs (II ve XI), İmparatorluğun en gizli ve en trajik figürleridir; İmparator tarafından yaratılan 20 primarch'tan ikincisi ve on birincisi olan ve kaybolan bu iki primarch, İmparatorluğun en gizli ve en trajik varlıklarıdır — onlar, İmparatorluğun en gizli ve en trajik primarch'larıdır. Lost Primarchs'ın en büyük özelliği, onların gizliliğidir — onlar, kaybolan iki primarch'tır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Lost Primarch, hem bir primarch hem de bir sırdır ve onların varlığı, İmparatorluğun en büyük trajedisinin somut halidir. Lost Primarchs'ın en ünlü özelliği, onların kaybolmasıdır — onlar, İmparatorluğun en gizli ve en trajik primarch'larıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Lost Primarchs, İmparatorluğun en gizli ve en trajik figürleridir — onlar, bir sırrın ve İmparatorluğun en büyük trajedisinin somut halidir.
+Lost Primarchs (II ve XI), İmparatorluk'un en gizli ve en kayıp primarch'larıdır — İmparator'un ikinci ve on birinci oğulları olarak bilinir ama kayıtları tamamen silinmiştir. Lost Primarchs'ın kimliği ve kaderi, İmparatorluk'un en gizli sırlarından biridir; bu primarch'lar, İmparatorluk tarihinin en büyük gizemlerinden biridir. Lost Primarchs, İmparatorluk'un en gizli ve en kayıp primarch'ları olarak kalır; onların hikâyesi, İmparatorluk'un en gizli ve en ölümcül sırlarından biridir.
 
 ## Kanon Notu
 

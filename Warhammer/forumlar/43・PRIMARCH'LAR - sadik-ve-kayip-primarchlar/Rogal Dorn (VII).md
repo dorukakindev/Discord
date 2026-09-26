@@ -15,7 +15,7 @@ Terra'nın Praetorian'ı ve Imperial Palace'ı kaleye dönüştüren mimar. Yala
 
 ## Tarihçe
 
-Rogal Dorn, Imperial Fists'in en ünlü ve en saygın primarch'ıdır; Inwit'in — Imperial Fists'in ev gezegeni — en saygın savaşçısı olan ve Imperial Fists'i kuran Dorn, İmparatorluğun en saygın ve en onurlu primarch'ıdır — onlar, Imperial Fists'in en ünlü ve en saygın primarch'ıdır. Rogal Dorn'un en büyük özelliği, onun onurudur — onlar, İmparatorluğun en saygın primarch'ıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır; bir Dorn, hem bir primarch hem de bir komutandır ve onların savaşı, hem fiziksel hem de onurlu bir mücadeledir. Rogal Dorn'un en ünlü özelliği, onun Terra Kuşatması'ndaki savunmasıdır — onlar, İmparatorluğun en büyük savunmasını yöneten ve onu kazanan en saygın primarch'dır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Rogal Dorn, Imperial Fists'in en ünlü ve en saygın primarch'ıdır — onlar, bir onurun ve İmparatorluğun en büyük gücünün somut halidir.
+Rogal Dorn (VII), Imperial Fists Legion'unun primarch'ı ve İmparator'un yedinci oğludur — 'Praetorian' olarak bilinen ve İmparatorluk'un en sadık primarch'ıdır. Dorn, Inwit gezegeninde yetişti ve İmparatorluk'un en disiplinli ve en sadık Legion'unu oluşturdu; Heresy sırasında İmparator'a sadık kaldı ve Terra Kuşatması'nda İmparatorluk Sarayı'nı savundu. Dorn, İmparator'un Altın Taht'a bağlanmasından sonra İmparatorluk'un yeniden yapılanmasında kritik rol oynadı; ancak sonunda Dorn da kayboldu ve sadece eli bulundu. Dorn, İmparatorluk'un en sadık ve en efsanevi primarch'larından biri olarak kalır — onun kaderi, Imperial Fists'ın en büyük sırrıdır.
 
 ## Kanon Notu
 

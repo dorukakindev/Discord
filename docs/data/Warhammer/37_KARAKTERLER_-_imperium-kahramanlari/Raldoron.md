@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ad/BA_war_Chapter_Master
 
 ## Tarihçe
 
-Raldoron, Blood Angels'ın en ünlü ve en onurlu First Captain'ıdır; Büyük Haçlı Seferi'nin sonunda Blood Angels'ın 1. Bölük'ünün First Captain'ı olan ve Chapter Master olarak görev yapan Raldoron, İmparatorluğun en saygın ve en onurlu savaşçısıdır — onlar, Blood Angels'ın en ünlü ve en onurlu üyesidir. Raldoron'un en büyük özelliği, onun onurudur — onlar, Blood Angels'ın en saygın First Captain'ıdır ve onların varlığı, Blood Angels'ın en büyük onurunun kanıtıdır; bir Raldoron komutası, bir Chapter'ın en onurlu zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Raldoron'un en ünlü özelliği, onun Blood Angels'ın First Captain'ıdır — onlar, bir Chapter'ın en yüksek rütbeli üyesidir ve onların varlığı, Blood Angels'ın en büyük gücünün kanıtıdır. Raldoron, Blood Angels'ın en ünlü ve en onurlu First Captain'ıdır — onlar, bir onurun ve Blood Angels'ın en büyük gücünün somut halidir.
+Raldoron, Blood Angels'ın en ünlü ve en efsanevi figürlerinden biridir — Chapter'ın en önemli figürlerinden biridir ve Heresy'nin en önemli figürlerinden biridir. Raldoron, Blood Angels'ın en ünlü ve en efsanevi figürlerinden biridir; onun hikâyesi, Blood Angels'ın en önemli savaşlarının ve Heresy'nin en önemli anlarının simgesidir. Raldoron, Blood Angels'ın en ünlü ve en efsanevi figürü olarak kalır — onun hikâyesi, Blood Angels'ın en önemli savaşlarının ve Heresy'nin en önemli anlarının simgesidir.
 
 -# Kaynaklar: *Fandom wiki*

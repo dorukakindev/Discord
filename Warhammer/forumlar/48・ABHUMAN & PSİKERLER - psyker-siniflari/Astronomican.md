@@ -10,6 +10,7 @@ Astronomican, İmparatorluğun yıldızlararası varlığını mümkün kılan, 
 
 ## Tarihçe
 
-Astronomican, Terra'daki Golden Throne'un yaydığı psikik fenerdir; Warp'ta yolculuk için tek güvenli referans noktası. Binlerce psyker'ın birleşik ruhuyla yanan bu ışık olmadan İmparatorluk gemileri Warp'ta kaybolur — İmparatorluk'un hayat damarı.
+Astronomican, İmparatorluk'un en önemli ve en kutsal teknolojisidir — Warp'te seyahat eden gemilere yön gösteren psyker işaretidir. Bu işaret, İmparator'un psyker gücüyle üretilir ve Warp'te seyahat eden gemilere yön gösterir; bu, İmparatorluk'un Warp'te seyahat etmesinin en kritik aracıdır. Astronomican, İmparatorluk'un en önemli ve en kutsal teknolojisidir; bu işaret, İmparatorluk'un hayatta kalmasının en kritik aracıdır. İşaret, İmparatorluk'un en önemli ve en kutsal teknolojisi olarak kalır.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -14,6 +14,4 @@ Cogitator'ların gizemli yanı, içlerindeki 'Machine Spirit' kavramıdır — M
 
 ## Tarihçe
 
-İmparatorluk'un bilgisayarı; düşünen makinenin en masum hali. Abominable Intelligence değil — ama sınıra yakın çalışan eski teknoloji.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Cogitator, İmparatorlukta bilgisayar karşılığı kullanılan terimdir; en basit hesaplayıcıdan devasa arşiv ağlarına kadar her türlü veri işleme makinesini kapsar. Adeptus Mechanicus'un yapay zekâ yasağı (Silica Animus) yüzünden cogitator'lar bilinçsiz işlemciler olarak tasarlanır — karmaşık sistemlerde insan dokusu veya servitor bileşenleri kulla

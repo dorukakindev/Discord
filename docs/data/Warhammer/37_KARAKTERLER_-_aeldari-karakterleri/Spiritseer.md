@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/07/IyannaArienal.jpg/rev
 
 ## Tarihçe
 
-Spiritseer, Aeldari'nin en gizli ve en önemli ruh yolcusuıdır; onların bir craftworld'ün ölülerinin ruhlarıyla iletişim kuran ve onları wraithbone'a bağlayan en gizli üyesi olan Spiritseer, Aeldari'nin en gizli ve en önemli üyesidir — onlar, Aeldari'nin en gizli ve en önemli ruh yolcusuıdır. Spiritseer'ın en büyük özelliği, onların ruh iletişimidir — onlar, ölülerin ruhlarıyla iletişim kuran ve onları wraithbone'a bağlayan en gizli üyedir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Spiritseer, hem bir savaşçı hem de bir şamandır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Spiritseer'ın en ünlü özelliği, onların ruh iletişimidir — onlar, Aeldari'nin ölülerinin ruhlarını koruyan en gizli üyedir ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Spiritseer, Aeldari'nin en gizli ve en önemli ruh yolcusuıdır — onlar, bir şamanın ve Aeldari'nin en büyük geleneğinin somut halidir.
+Spiritseer, Aeldari'nin en gizli ve en ölümcül figürlerinden biridir — ölülerle iletişim kuran ve wraith construct'ları yöneten figürlerdir. Spiritseer'lar, Aeldari'nin en gizli ve en ölümcül figürleridir; onların wraith construct'ları yönetme yeteneği, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır. Spiritseer, Aeldari'nin en gizli ve en ölümcül figürlerinden biridir; bu figürler, Aeldari'nin en önemli ve en ölümcül savaş güçlerinin kaynağıdır.
 
 -# Kaynaklar: *Fandom wiki*

@@ -10,6 +10,6 @@ Adeptus Ministorum (yaygın adıyla Ecclesiarchy), İmparatorluk İnancı'nı y�
 
 ## Tarihçe
 
-Ecclesiarchy, Adeptus Ministorum'un diğer adıdır — İmparatorluk Kilisesi. Imperial Creed'i vaaz eden, İmparator'u tanrı sayan ve dinî otoritesiyle yöneten devasa teokrasi; 'devletin ruhu' olarak bilinir.
+Ecclesiarchy, İmparatorluk'un en önemli ve en güçlü dini organizasyonudur — İmparator'un dinini yöneten organizasyondur. Bu organizasyon, İmparatorluk'un en önemli ve en güçlü dini organizasyonudur; Ecclesiarchy, İmparatorluk'un en önemli ve en güçlü dini organizasyonudur. Bu organizasyon, İmparatorluk'un en önemli ve en güçlü dini organizasyonudur; Ecclesiarchy, İmparatorluk'un en büyük ve en güçlü dini organizasyonudur. Organizasyon, İmparatorluk'un en önemli ve en güçlü dini organizasyonu olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

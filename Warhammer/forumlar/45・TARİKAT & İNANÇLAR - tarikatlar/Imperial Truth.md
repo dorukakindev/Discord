@@ -14,4 +14,4 @@ Imperial Truth (İmparatorluk Gerçeği), İmparator'un kendi yarattığı 'bili
 
 ## Tarihçe
 
-Imperial Truth, İmparatorluğun en eski ve en önemli felsefesidir; İmparator'un insanlığa öğrettiği ve dinin, batıl inancın ve Chaos'un reddini savunan bir felsefedir — onlar, İmparatorluğun en eski ve en önemli öğretisidir. Imperial Truth'un en büyük özelliği, onun reddidir — onlar, dini, batıl inancı ve Chaos'u reddeder ve onların varlığı, İmparatorluğun en eski felsefesinin kanıtıdır; bir Imperial Truth takipçisi, hem bir filozof hem de bir askerdir ve on
+Imperial Truth, İmparator'un Büyük Haç dönemindeki resmi ideoloji — dinin, batıl inancın ve tanrı inancının reddi; 'humanity rasyonel ırk' doktrini. Monarchia'nın yakılması ve Lorgar'ın 'İmparator tanrıdır' vaazının cezası bu ideolojinin en keskin uygulamasıydı. Imperial Truth'un çöküşü, Heresy'nin ideolojik temelidir: dinin yasaklanması gizli kültleri doğurdu. Sonradan Age of Apostasy ve Ecclesiarchy'nin doğuşuyla tam tersine döndü — Imperium bugün İmparat

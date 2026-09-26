@@ -15,7 +15,7 @@ Aspect Warrior'ları ve Guardian takımlarını savaşın kalbine hızla taşıy
 
 ## Tarihçe
 
-Nüfusu azalan ve her bir ölümü telafisi güç bir kayıp sayan Asuryani için Wave Serpent, savaşçılarını korumanın vazgeçilmez aracıdır. Craftworld savaş ev sahiplerinde yaygın olarak kullanılır; hızlı yıldırım harekâtlarının bel kemiğini oluşturur.
+Wave Serpent, Aeldari'nin en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir — Aeldari birliklerini taşıyan ve koruyan bir araçtır. Wave Serpent, Aeldari'nin en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül lojistik güçlerinden biridir. Wave Serpent, Aeldari'nin en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, Aeldari'nin en önemli ve en ölümcül lojistik güçlerinden biridir.
 
 ## Teknik / Biyolojik Özellikler
 

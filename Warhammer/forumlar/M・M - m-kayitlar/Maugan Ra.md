@@ -55,7 +55,7 @@ Bu olay, Phoenix Lord'ların Asuryani dünyasındaki rolüne yeni bir boyut da e
 
 ## Tarihçe
 
-Maugan Ra, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur; Dark Reapers Aspect'inin kurucusu olan ve Aeldari'nin en ölümcül savaşçı geleneğinin lideri olan Ra, Aeldari'nin en ölümcül ve en gizli savaşçısıdır — onlar, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur. Maugan Ra'nın en büyük özelliği, onun ölümlülüğüdür — onlar, Dark Reapers'ın kurucusu ve en ölümcül üyesidir ve onların varlığı, Aelda
+Maugan Ra, Aeldari'nin en gizli ve en ölümcül Phoenix Lord'larından biridir — Dark Reapers Aspect Shrine'ın kurucusudur. Maugan Ra, Aeldari'nin en gizli ve en ölümcül figürlerinden biridir; onun keskin nişancılığı ve savaş yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Maugan Ra, Aeldari'nin en gizli ve en ölümcül Phoenix Lord'u olarak kalır — onun yetenekleri, Aeldari'nin en ö
 
 ## Dönüşün Gölgesi: Kuşku ve Kabul
 

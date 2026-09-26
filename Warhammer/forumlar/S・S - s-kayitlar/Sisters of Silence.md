@@ -13,7 +13,7 @@ Sisterhood'un nasıl ve kim tarafından kurulduğu yayımlanmış kanonda net bi
 
 ## Tarihçe
 
-Sisters of Silence, İmparatorluğun en ünlü ve en gizli ordusudur; blank'lerden — psişik enerjiyi yok eden mutant'lardan — oluşan ve İ
+Sisters of Silence, İmparatorluğun en gizemli ve en korkulan kurumlarından biridir; tamamı Pariah (Blank) geni taşıyan kadınlardan ol
 
 ## Yapı ve Talons of the Emperor
 Sisterhood'un büyük birimleri **Vigil**, onların alt birimleri **Cadre** olarak anılır. Savaş alanında en sık görülen kadrolar şunlardır:

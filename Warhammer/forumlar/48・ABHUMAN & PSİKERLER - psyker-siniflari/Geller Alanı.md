@@ -10,6 +10,6 @@ Geller Alanı (Geller Field), bir uzay gemisinin Warp yolculuğunda hayatta kala
 
 ## Tarihçe
 
-Geller Alanı (Geller Field), Warp'ta yolculuk eden gemilerin etrafında oluşturulan koruyucu enerji alanıdır; İmparatorluk gemilerini Warp'ın daemonik varlıklarından ve entropisinden korur. Alanda bir arıza, geminin içinde daemon istilası demektir — Geller Field arızaları İmparatorluk denizcilik tarihinin en korkulan felaketlerindendir.
+Geller Alanı (Geller Field), İmparatorluk'un en önemli ve en kritik savunma teknolojisidir — Warp'te seyahat eden gemileri koruyan enerji alanıdır. Bu alan, geminin çevresinde bir 'normal gerçeklik' balonu oluşturur; bu balon, Warp'in tehlikeli varlıklarından gemiyi korur ve geminin Warp'te seyahat etmesini sağlar. Geller Alanı, İmparatorluk'un en önemli ve en kritik savunma teknolojisidir; bu alan, İmparatorluk'un Warp'te seyahat etmesinin tek yoludur. Alan, İmparatorluk'un en önemli ve en kritik savunma teknolojisi olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,7 +16,7 @@ Pençeler, testereler ve silahlarla dolu kollarıyla düşmanın ortasına dalan
 
 ## Tarihçe
 
-Deff Dread'e bağlanmak her Ork'un gönüllü seçtiği bir yazgı değildir; kaynaklar bu işin çoğu zaman bir Mek ile Painboy'un ortak "projesi" olduğunu ve pilotun sonradan yeni bedenine alıştığını anlatır. Ortaya çıkan makine, onu kullanan Ork'un öfkesini doğrudan savaşa aktarır.
+Deff Dread, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir — Ork Dreadnought'udur. Deff Dread, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Deff Dread, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

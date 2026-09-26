@@ -16,6 +16,6 @@ Tyranid Warrior'larının standart menzilli silahı; aşındırıcı kurtçuk-ya
 
 ## Tarihçe
 
-Kurtçuk mühimmat sert bir kitin kabuk ve son derece aşındırıcı, uçucu hayati sıvılarla doludur; isabette geniş bir alana saçılarak hızı, zehiri ve aşındırıcı çamuruyla öldürür. Safra eti ve zırhı aynı kolaylıkla eritir. Saha raporlarında standart Astartes bolter'ından üstün menziliyle anılır; Sürü'nün orta hat baskısı deathspitter'ın sürekli asit yağmuru üzerine kuruludur.
+Deathspitter, Tyranid'lerin en yaygın ve en ölümcül silahıdır — ölüm tüküren bir organdır. Bu silah, hedefe ölümcül bir madde tükürür ve onu etkisiz hale getirir; tek atışta bir Space Marine'in zırhını bile delebilecek kadar güçlüdür. Deathspitter, Tyranid'lerin en yaygın ve en ölümcül silahıdır; bu silah, Tyranid'lerin en önemli ve en yaygın silahıdır. Silah, Tyranid'lerin en yaygın ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

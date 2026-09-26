@@ -14,4 +14,4 @@ Gotik Savaş'ın stratejik sonucu büyüktür: Abaddon, iki Blackstone Fortress'
 
 ## Tarihçe
 
-Gotik Savaş (Gothic War), Abaddon'un 12. Kara Seferi olarak bilinen ve Imperialis'in en büyük deniz savaşlarından biri olarak geçen büyük bir operasyondu. Abaddon, Gothic Sector'ü ele geçirmek amacıyla Blackstone Fortress'leri — Imperialis'in en güçlü ve en gizli silahları — kullandı. Imperialis, Gothic Sector'ü savunmak için Imperial Navy'nin en büyük filosunu ve birçok Space Marine Chapter'ını bir araya getirdi; sefer bo
+Gotik Savaş (M41, 139-160), Chaos'un 'The Despoiler' Abaddon'un Gothic Sector'a yaptığı 12. Black Crusade — 'Planet Killer' ve 'Blackstone Fortress'lerin ilk kullanımı. Admiral Ravensburg'un savunması ve Captain Abridal'ın 'Warp storm' uyanışı; Gothic War, Battlefleet Gothic oyununun adını veren kanonik savaştır. Abaddon'un 'Blackstone'ları toplaması sonradan 'The Gathering Storm' için zemin hazırladı; Imperium'un en 'nava

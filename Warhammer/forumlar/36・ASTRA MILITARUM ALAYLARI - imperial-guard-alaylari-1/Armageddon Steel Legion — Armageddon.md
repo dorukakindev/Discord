@@ -15,7 +15,7 @@ Mekanize piyade savaşının ustası olarak sunulan, Chimera'larla hareket eden 
 
 ## Tarihçe
 
-Steel Legion'ın kimliği Ork'lara karşı Armageddon savaşlarında biçimlendi. 941.M41'de Ghazghkull Thraka'nın başlattığı Second War for Armageddon'da Commissar Sebastian Yarrick'in Hades Hive'daki direnişi efsaneleşti; 998.M41'deki Third War for Armageddon ise hive'ların ve kül çöllerinin uzun bir yıpratma savaşına dönüştü. Steel Legion alayları bu savaşların hemen her cephesinde Space Marine Chapter'ları ve diğer Imperial kuvvetlerle birlikte savaştı.
+Armageddon Steel Legion, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biridir — Armageddon gezegeninin mekanize piyade birlikleridir. Armageddon, üç büyük Ork savaşının yaşandığı İmparatorluk'un en kritik Hive World'üdür; Steel Legion, bu savaşlarda gezegeni savunan ve Ork'lara karşı en deneyimli birliklerdir. Armageddon Steel Legion, mekanize piyade ve şehir savaşında efsanevidir; alaylar, İmparatorluk'un en deneyimli ve en sert birliklerinden biridir. Alaylar, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biri olarak kalır.
 
 ## Kanon Notu
 

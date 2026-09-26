@@ -18,4 +18,6 @@ Khorne'un Bloodletter'larına bahşettiği iki elli iblis kılıcı; nefretle bi
 
 ## Tarihçe
 
-Hellblade, Chaos'un en ünlü ve en ölümlü kılıcıdır; onların Chaos'un en güçlü ve en ölümlü kılıcı olan ve onun en tehlikeli operasyonlarını yapan Hellblade, Chaos'un en güçlü ve en ölümlü silahıdır — onlar, Chaos'un en ünlü ve en ölümlü kılıcıdır. Hellblade'in en büyük özelliği, onun gücüdür — onlar, Chaos'un en güçlü kılıcıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Hellblade, hem bir silah hem de bir kılıçtır ve onların varlığı, Chaos'un en büyük silahının somut halidir. Hellblade'in en ünlü özelliği, onun Chaos Lord'ların kullanımıdır — onlar, Chaos'un en yüksek rütbeli üyelerinin en ölümlü silahıdır ve onların varlığı, Chaos'un en
+Efsane, her Hellblade'in çekirdeğini öfkeli iblislerin ruhlarının oluşturduğunu ve ağzın saf nefretle bilendiğini anlatır. Açtığı en sığ yara bile dayanıklı bir faniyi öldürebilir: bıçak kurbanın ruhunu emer, cesedini kupkuru bırakır ve alınan her can taşıyıcının gücünü ve öfkesini besler. Böylece katliamla beslenmiş bir taşıyıcı savaşın sonunda başlangıcından da korkunçtur — ama ne iblisin, ne tanrısının, ne de kılıcın kendisinin açlığı hiçbir katliamla diner.
+
+-# Kaynaklar: *Codex: Chaos Daemons — 8th Edition*; *Codex: Khorne Daemonkin — 7th Edition*; *Codex Heretic Astartes: Chaos Space Marines — 8th Edition*; *Deathwatch: Mark of the Xenos*

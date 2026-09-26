@@ -16,7 +16,3 @@ Makari, Ghazghkull Thraka'nın kişisel sancağını taşıyan küçük ve kurna
 ## Tarihçe
 
 Makari, Ork'ların en ünlü ve en komik varlıklarından biridir; Ghazghkull Thraka'nın — Ork'ların en büyük Warboss'u — en sadık Gretchin'i olan ve onun yanında savaşan Makari, Ork'ların en ünlü ve en şanslı varlığıdır — onlar, Ork'ların en ünlü ve en komik üyesidir. Makari'nin en büyük özelliği, onun şansıdır — onlar, bir Gretchin olarak Warboss'un yanında savaşan ve hayatta kalan en şanslı varlıktır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Makari, hem bir Gretchin hem de bir efsanedir ve onların varlığı, Ork'ların en komik ve en şanslı varlığının somut halidir. Makari'nin en ünlü özelliği, onun Ghazghkull'un yanında olmasıdır — onlar, Ork'ların en büyük liderinin en sadık takipçisidir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Makari, Ork'ların en ünlü ve en komik varlığıdır — onlar, bir Gretchin'in şansının ve Ork'ların en büyük gücünün somut halidir.
-
-## Kanon Notu
-
-Makari'nin şansının gerçek bir ilahi kayırma mı yoksa Ork inancının ürünü mü olduğu, Ork anlatılarının genel be

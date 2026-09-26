@@ -15,7 +15,7 @@ Nocturne'ün demirci-kralı ve Emperor'ın oğulları arasında sıradan insanla
 
 ## Tarihçe
 
-Vulkan, Salamanders'ın en ünlü ve en trajik primarch'ıdır; Nocturne'nin — Salamanders'ın ev gezegeni — en büyük demircisi olan ve Salamanders'ı kuran Vulkan, İmparatorluğun en trajik ve en onurlu primarch'ıdır — onlar, Salamanders'ın en ünlü ve en trajik primarch'ıdır. Vulkan'ın en büyük özelliği, onun demirciliğidir — onlar, bir primarch'ın en büyük demircisi halidir ve onların varlığı, Salamanders'ın en büyük geleneğinin kanıtıdır; bir Vulkan, hem bir primarch hem de bir zanaatkârdır ve onların savaşı, hem fiziksel hem de teknik bir mücadeledir. Vulkan'ın en ünlü özelliği, onun ölümsüzlüğüdür — onlar, bir primarch'ın ölümsüz halidir ve onların varlığı, Salamanders'ın en büyük umudunun kanıtıdır. Vulkan, Salamanders'ın en ünlü ve en trajik primarch'ıdır — onlar, bir demircinin ve Salamanders'ın en büyük umudunun somut halidir.
+Vulkan (XVIII), Salamanders Legion'unun primarch'ı ve İmparator'un on sekizinci oğludur — Nocturne gezegeninin ateşli dünyasında yetişen ve İmparatorluk'un en insancıl primarch'ıdır. Vulkan, Nocturne'de yetişti ve İmparatorluk'un en insancıl ve en fedakâr Legion'unu oluşturdu; Heresy sırasında İmparator'a sadık kaldı. Vulkan, Isstvan V Drop Site Katliamı'ndan sağ çıktı ama kayboldu; Vulkan'ın 'Perpetual' olduğu söylenir — ölümsüz bir varlık olarak yeniden doğabilir. Vulkan, İmparatorluk'un en insancıl ve en efsanevi primarch'larından biri olarak kalır — onun kaderi, Salamanders'ın en büyük sırrıdır.
 
 ## Kanon Notu
 

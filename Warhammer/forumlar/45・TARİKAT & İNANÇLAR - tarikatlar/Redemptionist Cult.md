@@ -14,4 +14,4 @@ Kült'ün yöntemi ateştir: 'Redemption' (kurtuluş) yakılarak verilir ve bir 
 
 ## Tarihçe
 
-Redemptionist Cult, İmparatorluğun en fanatik ve en tehlikeli dini tarikatlarından biridir; onların görevi, günahkarları ve heretikleri 'kurtarmak' — yani onları öldürmek — tir ve onlar, İmparatorluğun en fanatik ve en ölümcül tarikatıdır. Redemptionist Cult'un en büyük özelliği, onların fanatikliğidir — onlar, günahkarları ve heretikleri acımasızca yok eder ve onların savaşı, hem dini hem de katliamdır; bir Redemptionist, hem bir savaşçı hem de bir fanatiktir ve onların savaşı,
+Redemptionist, Adeptus Ministorum'un en aşırı kollarından biri — insanlığın günahlarının ancak 'saflaştırıcı ateş'le temizlenebileceğine inanan, Necromunda'nın yoksul alt-kovanlarında doğan fanatik harekettir. Cardinal Red otoritesi altında Frateris militiası ve 'pilgrimage of flame' geleneğiyle yayılır; Imperial Creed'in en şiddetli yorumunu temsil eder. Sisters of Battle'ın Red-Redemptionist bağları ve Inquisition'ın 'yararlı fanatizm' araçlarından biridir; Necromunda underhiv

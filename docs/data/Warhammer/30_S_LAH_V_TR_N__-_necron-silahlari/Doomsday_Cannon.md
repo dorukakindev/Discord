@@ -18,7 +18,7 @@ Doomsday Ark'ın tek ve devasa silahı; Necron arsenalinin en güçlü silahlar�
 
 ## Tarihçe
 
-Doomsday Ark gerçek anlamda bir tank değil, süzülen bir top taşıyıcısıdır: aracın kendisi neredeyse bir ayrıntıdır, önemli olan taşıdığı toptur. Imperium'un ilkel enerji silahlarını gölgede bırakan bu top, Necron'un "savaşlar uzaktan kazanılır" doktrininin en uç örneğidir — muharebe kuralları (battle codicils) hep menzil üstünlüğünü buyurur ve hiçbir yerde bu Doomsday Ark'taki kadar açık değildir. Atış mevzisine girmeden yok
+Doomsday Cannon, Necron'ların en ölümcül ve en büyük silahıdır — kıyamet topu'dur. Bu silah, hedefe yoğun bir enerji gönderir; tek atışta bir Titan'ın zırhını bile delebilecek kadar güçlüdür. Doomsday Cannon, Necron'ların en ölümcül ve en büyük silahıdır; bu silah, Necron'ların en önemli ve en büyük silahıdır. Silah, Necron'ların en ölümcül ve en büyük silahı olarak kalır.
 
 edilmezse, tek salvosu bir orduyu harabeye çevirebilir.
 

@@ -12,6 +12,6 @@ Dikkat çekici bir tarihsel ayrıntı, Order of the Bloody Rose'un Mina'nın pat
 
 ## Tarihçe
 
-Saint Mina, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Mina, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Mina'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Mina, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Mina'nın en ünlü özelliği, onun azize unvanıdır — onlar, İmparatorluğun en kutsal ve en önemli azizesidir ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Saint Mina, Sisters of Battle'ın en ünlü ve en kutsal azizesidir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
+Saint Mina, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir — Order of the Bloody Rose'un kurucusu ve Sisters of Battle'ın en önemli azizlerinden biridir. Mina, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir; onun inancı ve fedakârlığı, Sisters of Battle'ın en önemli ve en kutsal geleneğinin simgesidir. Saint Mina, Sisters of Battle'ın en kutsal ve en efsanevi figürü olarak kalır — onun varlığı, Sisters of Battle'ın en önemli ve en kutsal geleneğinin simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

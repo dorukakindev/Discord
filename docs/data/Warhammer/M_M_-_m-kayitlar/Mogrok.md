@@ -15,6 +15,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Big_Mek_Mogrok.png/re
 
 Mogrok, Ork'ların en efsanevi ve en tehlikeli figürüdür — 'Great White 'Un' olarak bilinen bir Warboss'tur. Bu figür, Ork'ların en efsanevi ve en tehlikeli figürüdür; Mogrok, Ork'ların en efsanevi ve en tehlikeli figürüdür. Bu figür, Ork'ların en efsanevi ve en tehlikeli figürüdür; Mogrok, Ork'ların en efsanevi ve en tehlikeli figürüdür. Figür, Ork'ların en efsanevi ve en tehlikeli figürü olarak kalır.
 
+
 -# Kaynaklar: *Fandom wiki*
 
 -# İlişkili kayıtlar: <#1552898862132367410>

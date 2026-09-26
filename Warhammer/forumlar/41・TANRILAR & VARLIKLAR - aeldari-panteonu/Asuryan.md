@@ -14,6 +14,4 @@ Ama Düşüş geldiğinde, Slaanesh'in doğuşunun yarattığı psişik fırtın
 
 ## Tarihçe
 
-Phoenix King, Aeldari tanrılarının başı; atası olduğu halkına sınır koydu (tanrılar ile ölümlüler ayrıldı). Slaanesh tarafından yutulmuş en üstün varlık.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır; Aeldari panteon'unun en yüksek tanrısı olan ve onların en kutsal figürü olan Asuryan, Aeldari'nin en kutsal ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en kutsal tanrısıdır. Asuryan'ın en büyük özelliği, onun kutsallığıdır — onlar, Aeldari panteon'unun en yüksek tanrısıdır ve onların varlığı, Aeldari'nin en büyük kutsallığının kanıtıdır; bir Asuryan takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Asuryan'ın en ünlü özelliği, onun Phoenix King olmasıdır — onlar, Aeldari'nin en yüksek ve en kutsal tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır — onlar, bir kutsallığın ve Aeldari'nin en büyük geleneğ

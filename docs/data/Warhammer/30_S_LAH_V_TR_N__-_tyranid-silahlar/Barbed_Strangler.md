@@ -16,6 +16,6 @@ Tyranid Warrior'ları ve Carnifex'lerin taşıdığı, canlı tohum kapsülleri 
 
 ## Tarihçe
 
-Barbed Strangler ilk Tyranid istilalarından bu yana kayıtlıdır. Erken kayıtlara göre fırlatılan kapsül adam yumruğu büyüklüğündedir; zırha saplanırsa bedenin sıcaklığıyla etkinleşir ve saniyeler içinde kurbanın içinden tentaküller fışkırtır. Tam gelişiminde kandan kırmızı sülük kolları her yöne savrulur; doğrudan öldüremediği hedefleri bile çelik sertliğindeki dikenlerle bağlayıp hareketsiz bırakır ve zırh ekleminde uygun bir çatlak bulursa araç zırhına bile işler.
+Barbed Strangler, Tyranid'lerin en ölümcül ve en vahşi silahıdır — dikenli bir boğucu'dur. Bu silah, hedefe dikenli bir madde gönderir ve onu boğarak etkisiz hale getirir; tek atışta bir Space Marine'in zırhını bile delebilecek kadar güçlüdür. Barbed Strangler, Tyranid'lerin en ölümcül ve en vahşi silahıdır; bu silah, Tyranid'lerin en önemli ve en vahşi silahıdır. Silah, Tyranid'lerin en ölümcül ve en vahşi silahı olarak kalır.
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

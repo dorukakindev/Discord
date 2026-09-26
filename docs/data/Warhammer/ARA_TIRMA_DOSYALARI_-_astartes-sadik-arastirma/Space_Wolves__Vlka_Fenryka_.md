@@ -166,6 +166,10 @@ Her Great Company, bir **Wolf Lord** tarafından yönetilir. Great Company'lerin
 
 Her Great Company, çeşitli birliklerden oluşur:
 
+## Tarihçe
+
+Space Wolves, Space Marines'in en vahşi ve en efsanevi Legion'larından biridir — Leman Russ'ın Legion'udur ve İmparatorluk'un en savaşçı L
+
 - **Wolf Guard** — Deneyimli veteranlar.
 - **Grey Hunters** — Temel Space Wolves piyadesi.
 - **Blood Claws** — Genç, acemi Space Wolves.

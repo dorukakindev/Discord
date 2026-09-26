@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/4/4f/Ion_rifle.jpg/revisio
 Pathfinder iyon tüfeği; normal modda zırh yakar, aşırı şarjda patlayıcı iyon fırtınası yaratır. Riskli ama etkili.
 
 ## Tarihçe
-Ion Rifle, Tau iyon teknolojisinin piyade ölçeğindeki halidir. İyonize partikül demeti, hedef maddeyle moleküler düzeyde reaksiyona girerek zırhı içten yakar. Silahın asıl kozu aşırı şarj modudur: reaktör sınırların ötesine zorlanırsa atış, isabet noktasında patlayan bir iyon fırtınasına dönüşür; bedeli silahın ısınması ve taşıyıcısını riske atmasıdır. Pathfinder keşif timleri bu riski, ağır hedefleri uzaktan kırmak için seve seve alır.
+
+T'au Ion Rifle, T'au İmparatorluğu'nun en yaygın ve en ölümcül silahıdır — iyon enerjisi kullanan bir tüfektir. Bu silah, T'au'nun Fire Warrior birliklerinin standart silahıdır ve düşmanın en tehlikeli hedeflerini etkisiz hale getirir; iyon enerjisi, zırhlı hedeflere karşı özellikle etkilidir. T'au Ion Rifle, T'au'nun en yaygın ve en ölümcül silahıdır; bu silah, T'au'nun en önemli ve en yaygın silahıdır. Silah, T'au İmparatorluğu'nun en yaygın ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

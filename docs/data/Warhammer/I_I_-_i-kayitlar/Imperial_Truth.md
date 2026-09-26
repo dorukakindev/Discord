@@ -14,7 +14,7 @@ Bu kanal Imperial Truth'u bir **öğreti ve onun çöküşü** olarak ele alır.
 
 ## Tarihçe
 
-Imperial Truth, İmparator'un en önemli ve en gizli öğretisidir — dinin olmadığı ve bilimin hakim olduğu öğretidir. Bu öğreti, İmparator'un Büyük Haçlı Seferi sırasında yayılan ve dinin yerine bilimi koyan bir öğretidir; Imperial Truth, İmparatorluk'un en önemli ve en gizli öğretisidir. Bu öğreti, İmparatorluk'un en önemli ve en gizli öğretisidir; Imperial Truth, İmparatorluk'un en büyük ve en gizli öğretisidir. Öğreti, İmparatorluk'un en önemli ve en
+Imperial Truth, İmparator'un Büyük Haç dönemindeki resmi ideoloji — dinin, batıl inancın ve tanrı inancının reddi; 'humanity rasyonel ırk' doktrini. Monarchia'nın yakılması ve Lorgar'ın 'İmparator tanrıdır' vaazının cezası bu ideolojinin en keskin uygulamasıydı. Imperial Truth'un çöküşü, Heresy'nin ideolojik temelidir: dinin yasaklanması gizli kültleri doğurdu. Sonradan Age of Apostasy ve Ecclesiarchy'nin doğuşuyla tam tersine döndü — Imperium bugün İ
 
 ## Kökenler ve Uygulama
 Imperial Truth'un kökleri Unification Wars'a uzanır. Emperor, Terra'yı savaş ağalarından ve techno-barbar krallıklardan temizlerken dinleri de tasfiye etti. Graham McNeill'in *The Last Church* öyküsü, Terra'da ayakta kalan son kilisenin yıkılmasından önce Emperor ile yaşlı bir rahip arasında geçen uzun tartışmayı anlatır; öykü, öğretinin dine yönelttiği eleştiriyi ve Emperor'un bu konudaki kararlılığını çarpıcı biçimde gösterir.

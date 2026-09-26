@@ -19,6 +19,10 @@ Mechanicus Hanelerinde hükümdar, Imperialis geleneğindeki High King ya da Hig
 
 Kolossi ile Metalica arasındaki bu ortak yaşam, Hanenin savaş alanındaki gücünün de temelidir. Suit'lerin bakımı için gerekenler hiçbir zaman uzakta değildir; buna karşılık Hanenin kaderi Metalica'nın kaderine sıkı sıkıya bağlanmıştır.
 
+## Tarihçe
+
+House Raven, İmparatorluk'un en büyük ve en güçlü Knight hane'lerinden biridir — yüzlerce Knight'la İmparatorluk'un en büyük zırhlı güçlerinden birini oluşturur. Raven, Questor Mechanicus hanesidir ve Ade
+
 ## Metalica'nın Kılıcı: Kültür ve Savaş
 Raven'ın saray hayatı, Mechanicus'un gündelik yaşama sindiği bir Knight World'ün izlerini taşır. Tech-priest'lerin varlığı, makineye ve onun ruhuna gösterilen dinî saygı, suit'lerin bakımının ayin olarak yürütülmesi, Questor Mechanicus Hanelerinin ortak özellikleridir. Raven'a özgü törenler ve saray adetleri yayımlanmış kanonda ayrıntılı biçimde işlenmez; bilinen, Hanenin feodal şövalyelik geleneğini Mechanicus inancıyla birlikte yaşadığıdır.
 

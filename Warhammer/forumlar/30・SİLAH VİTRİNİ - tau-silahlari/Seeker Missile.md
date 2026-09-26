@@ -13,6 +13,7 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-T'au'nun kendinden-güdümlü füzesi; Markerlight hedefi işaretlediğinde devreye giren hassas anti-zırh füzesi. Sky Ray'in ve battlesuit'lerin 'ışıklı ölüm' aracı.
+Seeker Missile, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş füzesidir — hedefi izleyen bir füzedir. Bu füze, hedefi izler ve ona vurur; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Seeker Missile, T'au'nun en ölümcül ve en gelişmiş füzesidir; bu füze, T'au'nun en önemli ve en gelişmiş füzesidir. Füze, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş füzesi olarak kalır.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -7,7 +7,7 @@ Tau'nun savaş doktrininin kalbi; hedefi görünmez bir işaretle damgalar ve t�
 
 ## Tarihçe
 
-T'au'nun hedef-işaretleme lazeri; kendisi zarar vermez ama işaretlediği düşmana isabet bonusu veren taktik alet. 'Markerlight'la vurulan bir hedef — ordunun ortak nişangâhı.
+Markerlight, T'au İmparatorluğu'nun en önemli ve en kritik destek silahıdır — hedefi işaretleyen bir cihazdır. Bu cihaz, hedefi işaretler ve T'au'nun diğer silahlarının hedefe daha isabetli vurmasını sağlar; bu, T'au'nun en önemli destek sistemidir. Markerlight, T'au'nun en önemli ve en kritik destek silahıdır; bu cihaz, T'au'nun en önemli destek sisteminin en kritik aracıdır. Cihaz, T'au İmparatorluğu'nun en önemli ve en kritik destek silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

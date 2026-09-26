@@ -16,7 +16,7 @@ Bağlılığını tek bir forge world'e değil, doğrudan Adeptus Mechanicus'a v
 
 ## Tarihçe
 
-Schism of Mars'ta Hane sadık Mechanicum'la birlikte savaştı; Graham McNeill'in *Mechanicum* romanı bu savaşı Magma City'nin savunması çevresinde anlatır. İç savaş Hane'yi yıkımın eşiğine getirdi; kaynaklara göre Dark Mechanicum'a karşı savaşan Knight'lardan yalnızca ikisi sağ kalıp saklandı. Sonraki yayınlar Taranis'i yeniden etkin bir Questor Mechanicus Hanesi olarak anar; yeniden kuruluşun ayrıntıları sınırlıdır.
+House Taranis — Questor Mechanicus, İmparatorluk'un en eski ve en prestijli Knight hane'lerinden birinin Mechanicus'a bağlı versiyonudur. Taranis, Mars'ın yakınında bulunan ve Mechanicus'la doğrudan bağlı bir hane'dir; hanenin Knight'ları, Mechanicus'un operasyonlarında görev alır ve Forge World'lerin savunmasında kritik rol oynar. House Taranis — Questor Mechanicus, İmparatorluk'un en güvenilir ve en eski Knight hane'lerinden biri olarak kalır; hane, İmparatorluk'un en önemli askeri varlıklarından biridir.
 
 -# Kaynaklar: *Mechanicum — Graham McNeill*; *Codex: Imperial Knights*
 

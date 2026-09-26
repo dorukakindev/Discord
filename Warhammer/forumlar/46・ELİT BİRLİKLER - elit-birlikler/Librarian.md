@@ -31,4 +31,4 @@ Adlarının da gösterdiği gibi, Librarian'lar yalnızca savaşçı değil, ayn
 
 ## Tarihçe
 
-Librarian, Space Marines'in en ünlü ve en güçlü psyker'ıdır; onların Astartes'in en güçlü ve en bilgili psyker'ı olan ve onun en gizli operasyonlarını yöneten Librarian, Space Marines'in en güçlü ve en önemli üyesidir — onlar, Space Marines'in en ünlü ve en güçlü psyker'ıdır. Librarian'ın en büyük özelliği, onların psişik gücüdür — onlar, Astartes'in en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır; bir Librarian, hem bir
+Librarian, Space Marine chapter'larının psyker-savaşçısı — Warp güçlerini kullanan ama aynı zamanda 'Warp'in yozlaşmasına karşı' chapter'ın iç savunmasını yürüten figür. Codex Astartes'in 'psyker yasak' geleneği Librarian'ları 'izinli ama kuşkulu' kılar; Tigurius ve Ezekiel bu rolün en ünlü örnekleridir. Librarius'un kayıtları chapter'ın tarihi ve sırlarını da tutar — savaşta kuvvet silahı (force weapon), savaş dışında ise arşivcilik görevi üstlenir.

@@ -47,7 +47,7 @@ Great Rift çağında Roboute Guilliman'ın dağıttığı Primaris takviyeleri,
 
 ## Tarihçe
 
-Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluğun en cesur ve en kararlı komutanlarından biridir; onların Chapter'ı Ork Waaagh!'ı tarafından neredeyse yok edildikten sonra onu yeniden kuran ve İmparatorluğun en dirençli savaşçılarından biri olan Kantor, İmparatorluğun en büyük direnişinin simgesidir — onlar, Crimson Fists'in en ünlü ve en onurlu lideridir. Pedro Kantor'un en büyük özelliği, onun direnişidir — onlar, Chapter'ının neredeyse yok edilmesinden sonra onu yeniden kurdu ve onların varlığı, İmparatorluğun en büyük
+Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluk'un en trajik liderlerinden biridir — Rynn's World'ün savunmasının kahramanıdır. Kantor, Rynn's World'ün Ork istilası sırasında Chapter'ının büyük kısmını kaybetti; ancak hayatta kalanlarla birlikte Crimson Fists'i yeniden kurdu ve Chapter'ı İmparatorluk'un en önemli güçlerinden biri haline getirdi. Kantor, Crimson Fists'in en efsanevi ve en trajik lideridir; onun liderliği, Chapter'ın yeniden doğuşunun ve İmparatorluk'un en büyük direniş hikâyelerinin simgesidir. Pedro Kanto
 
 ## Kişilik, İlişkiler ve Relic'ler
 Kaynakların Kantor'da öne çıkardığı nitelik, gösterişten uzak bir kararlılıktır. O, düello meydanında adını duyurmuş bir savaşçı olmaktan çok, en kötü anda soğukkanlılığını korumuş bir komutan olarak anılır. Halkıyla kurduğu yakınlık da bu portrenin parçasıdır: Rynn's World'ün insanları için Kantor, kendilerini kurtarmak uğruna Chapter'ının son kalıntılarını ortaya koyan adamdır ve bu minnet, Chapter ile dünya arasındaki bağı felaketten sonra daha da derinleştirmiştir.

@@ -13,6 +13,6 @@ Necron'un imza silahı — gauss ışını hedefi moleküler katmanlar hâlinde 
 
 ## Tarihçe
 
-Necron'un temel piyade silahı; hedefi molekül molekül soyan viridian enerji ışını. Saniyede eti, zırhı ve kemiği atoma indirger — Necron askerinin 'standart' silahı bile insan teknolojisinin ötesinde.
+Gauss Flayer, Necron'ların en yaygın ve en ölümcül silahıdır — gauss teknolojisi kullanan bir tüfektir. Bu silah, hedefi atomik seviyede parçalar ve onu tamamen yok eder; tek atışta bir Space Marine'in zırhını bile delebilecek kadar güçlüdür. Gauss Flayer, Necron'ların en yaygın ve en ölümcül silahıdır; bu silah, Necron'ların en önemli ve en yaygın silahıdır. Silah, Necron'ların en yaygın ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

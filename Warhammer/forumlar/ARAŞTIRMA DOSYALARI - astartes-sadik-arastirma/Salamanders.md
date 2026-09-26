@@ -61,6 +61,10 @@ Raven Guard, **İmparator'un özel genetik sırları** ile Astartes üretim sür
 
 ## Chapter Kompozisyonu
 
+## Tarihçe
+
+Salamanders (XVIII Legion), İmparatorluğun en insancıl ve en dayanıklı Space Marine Chapter'ıdır; Nocturne'nin volkanik dünyasından gelen savaşçıları, ateş ve demircilik
+
 Nocturne, garip yörüngesi nedeniyle **aşırı değişken yerçekimine** sahip volkanik bir Death World'dür. İnsanları yavaş, metodik bir yaşam tarzı geliştirmiştir ve ateşe sağlıklı bir saygıları vardır. Salamanders'ın diğer Astartes'lere kıyasla **daha yavaş tepki süresi** vardır (insanlara kıyasla yine de inanılmaz hızlı); bu Gene-seed arızası değil, **Salamanders'ın evrensel olarak temkinli ve metodik düşünce yapısı** olarak açıklanır.
 
 Gezegen, zengin mineral yatakları nedeniyle de önemlidir; metalürji neredeyse **rahiplik** gibi bir meslektir. Bu özellikler Salamanders'a taşınmıştır: kırılması zor birimleri sahaya sürerler, her Marine ve servo-skull'a flamer/melta silahı verirler. Her Marine kendi wargear'ını yapmaktan ve sürdürmekten kişisel olarak sorumludur. Üreteemediklerini doğrudan **Adeptus Mechanicus**'tan ithal ederler.

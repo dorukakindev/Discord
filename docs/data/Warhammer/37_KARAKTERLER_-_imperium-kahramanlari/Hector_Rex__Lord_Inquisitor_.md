@@ -18,6 +18,7 @@ Angevin Haçlı Seferi'nin efsane Inquisitor'u; Calixis Sektörü'nü kuran, iki
 
 ## Tarihçe
 
-Hector Rex, Inquisition'ın en ünlü ve en saygın Lord Inquisitor'udur; Ordo Malleus'un — daemon'lara karşı savaşan ordo — en deneyimli üyesi olan ve İmparatorluğun en gizli savaşlarını yöneten Rex, İmparatorluğun en büyük koruyucusu ve en gizli gücüdür — onlar, İmparatorluğun en ünlü ve en saygın Inquisitor'udur. Hector Rex'in en büyük özelliği, onun gücüdür — onlar, Ordo Malleus'un en güçlü üyesidir ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Hector Rex, hem bir Inquisitor hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Hector Rex'in en ünlü özelliği, onun Lord Inquisitor unvanıdır — onlar, Inquisition'ın en yüksek rütbeli üyesidir ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Hector Rex, Inquisition'ın en ünlü ve en saygın Lord Inquisitor'udur — onlar, İmparatorluğun en gizli gücünün ve en büyük koruyucusunun somut halidir.
+Hector Rex (Lord Inquisitor), Inquisition'ın en güçlü ve en tehlikeli figürlerinden biridir — psyker güçleriyle donanmış bir Inquisitor'dür. Rex, Inquisition'ın en güçlü ve en tehlikeli figürlerinden biridir; onun psyker güçleri, İmparatorluk'un en güçlü ve en tehlikeli güçlerinden biridir. Hector Rex, Inquisition'ın en güçlü ve en tehlikeli figürü olarak kalır — onun güçleri, İmparatorluk'un en güçlü ve en tehlikeli güçlerinin simgesidir.
+
 
 -# Kaynaklar: *Dark Heresy* kaynakları; Warhammer 40,000 — Lexicanum derlemesi

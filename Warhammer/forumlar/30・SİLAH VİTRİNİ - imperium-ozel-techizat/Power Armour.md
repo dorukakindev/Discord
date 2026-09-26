@@ -12,7 +12,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bd/The_Armouring_of_a_Sp
 - Scout Carapace ve non-Astartes zırhlar (Sororitas, Inquisition): daha hafif, Black Carapace gerektirmeyen türevler
 
 ## Tarihçe
-Zırh serisi Great Crusade boyunca Legion standardı olarak üretildi; Horus Heresy'den sonra Mark desenlerinin üretimi neredeyse durma noktasına geldi ve kalan zırhlar kutsal kalıntı statüsü kazandı.
+
+Power Armour, Space Marines'in ikonik zırhıdır — İmparatorluk'un en gelişmiş kişisel zırh sistemidir. Bu zırh, kullanıcının fiziksel gücünü artıran hidrolik sistemler, çevresel tehlikelerden koruyan kapalı sistem ve entegre sensörlerle donatılmıştır; ayrıca Astartes'in Black Carapace'iyle doğrudan bağlantı kurarak kullanıcıyla zırh arasında nöral bir bağlantı sağlar. Power Armour, İmparatorluk'un en yaygın kullanılan ağır zırh sistemidir; her Space Marine, bu zırhı giyerek İmparatorluk'un en ölümcül savaşçısı haline gelir. Zırh, İmparatorluk'un en değerli ve en önemli teknolojik başarılarından biri olarak kalır.
 
 https://static.wikia.nocookie.net/warhammer40k/images/b/bd/The_Armouring_of_a_Space_Marine/revision/latest?cb=20220311172314
 

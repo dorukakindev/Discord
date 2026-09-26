@@ -16,7 +16,7 @@ Tech-priest'lerin, servitor'ların ve makine diliyle yürütülen törenlerin g�
 
 ## Tarihçe
 
-Hane, kaynaklarda daha sonra bütün Knight Hanelerince benimsenen üçlü lance düzenini ilk geliştiren Hane olarak anılır. Bellus Prime'la bağı, Hanenin savaş çağrılarına Mechanicus adına cevap vermesini sağlar. Tyranid'lere karşı verilen savaşlarda Hanenin soylularının kahramanlıkları kayıtlarında öne çıkar.
+House Vulker, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir — Questor Mechanicus hanesi olarak Mechanicus'a bağlıdır. Vulker'in Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Vulker — Questor Mechanicus, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
 
 -# Kaynaklar: *Codex: Imperial Knights*; *Codex: Adeptus Mechanicus*
 

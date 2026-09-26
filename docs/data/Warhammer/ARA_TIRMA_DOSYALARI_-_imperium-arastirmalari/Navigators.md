@@ -85,6 +85,10 @@ Navigator sadakatleri her zaman İmparatorluk ile aynı hizada değildir; kendi 
 
 ## Navis Scions
 
+## Tarihçe
+
+Navis Nobilite, İmparatorluk'un mutant-rehber sınıfı — Warp'ta yön bulmayı sağlayan 'üçüncü gözlü' Navigator'ların aristokratik loncası. Naviga
+
 Bir tarafta ağır mutasyona uğramış Heir ve Paternova vardır, halk tarafından nadiren görülürler. Diğer tarafta **Navis Scions** (Navigator Scionları) tam tersidir: House'ların en genç ve en az mutasyona uğramış üyeleri, ailenin kamuya açık yüzü, İmparatorluk müşterileriyle muhatap olan temsilcileri. Çoğu Navigator gemiye kapatılır veya aile mülklerinde tutulurken, Navis Scions genelde az boşluk deneyimi olan birinin karşılaşacağı tek Navigator'dur; bu yüzden Scions asla rastgele atanmaz.
 
 Scions, hamileliklerinin son aşamalarında veya genç yaşta seçilir; herhangi bir deformite izi taşımamaları (veya belirgin bir şekilde aşırı güzel/zarif görünmeleri) sağlanır. Bu, Navigator'ların aslında mutasyona uğramış, içe evlilik yapmış ucubeler olmadığı yanılsamasını yaratır; ağızdan ağıza dolaşan söylentilerin bir kısmının önünü keser. Scions, sohbet ve protokol sanatlarında özenle eğitilir; Amiral, Rogue Trader ve hatta İmparatorluk soylularına danışmanlık pozisyonlarında başarılı olurlar. Daha önce bahsedildiği gibi Navigator'lar "gerçek" psyker değildir, psişik disiplinleri öğrenmezler; ancak bu, bazı girişimci Scions'ın "psişik danışman" olarak kendilerini pazarlamalarını engellemez — eğitimsiz insanlar çoğu zaman farkı anlamaz.

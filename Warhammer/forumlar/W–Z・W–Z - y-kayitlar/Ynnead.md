@@ -23,7 +23,7 @@ Cegorach'ın Ynnead karşısındaki tutumu ya da Laughing God'un bu sürece dair
 
 ## Tarihçe
 
-Ynnead, Aeldari'nin en ünlü ve en umutlu tanrısıdır; ölümün tanrısı olan ve Aeldari'nin ölü ruhlarını toplayan Ynnead, Aeldari'nin en umutlu ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en umutlu tanrısıdır. Ynnead'ın en büyük özelliği, onun umududur — onlar, Aeldari'nin ölü ruhlarını toplayan ve onları Slaanesh'ten koruyan en umutlu tanrıdır ve onların varlığı, Aeldari'nin en büyük umudunun kanıtıdır; bir Ynnead takipçisi, hem bir
+Ynnead, Aeldari'nin ölü ruhlarının toplamı olan 'Whispering God' — henüz tam doğmamış Eldar ölü tanrısıdır; Infinity Circuit'lerde biriken milyarlarca ruhun kolektif bilincidir. Eldrad Ulthran'ın Slaanesh'e karşı en büyük kozu olarak tasarlanmıştır: Ynnead uyandığında Slaanesh'i yenecek ve Eldar'ı kurtaracaktır — ama uyandırılması neredeyse tüm Eldar ruhlarının tüketilmesini gerektirir. 'The Fracture' (M41 sonu) sırasında Ynnead kısmen uyandı
 
 ## Bilinen Yanılgılar ve SSS
 

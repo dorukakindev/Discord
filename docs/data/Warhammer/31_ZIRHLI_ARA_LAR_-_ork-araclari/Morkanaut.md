@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ee/BigMek.jpg/revision/l
 
 ## Tarihçe
 
-Morkanaut, Ork'ların dev kişisel savaş makinesidir — Gorkanaut'un ikizi olarak Mork'a (kurnazlık tanrısı) adanmış versiyondur. Kustom mega-kannon ve dev kesici silahlarla donanmış, bir Big Mek tarafından pilotlanan bu walker, Ork mekanik zekâsının ve ham vahşetinin somut halidir.
+Morkanaut, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir — Mork'a adanmış dev bir yürüyen savaş makinesidir. Morkanaut, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Morkanaut, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*

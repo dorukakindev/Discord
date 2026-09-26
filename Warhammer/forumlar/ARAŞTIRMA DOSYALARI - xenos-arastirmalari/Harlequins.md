@@ -57,7 +57,7 @@ Her zaman kaderin iplikleri, Eldar'ların **Rhana Dandra** dedikleri son, mitik 
 
 ## Tarihçe
 
-Harlequins (Rillietann), hiçbir Aeldari koluna ait olmayan ayrı bir Aeldari alt-grubudur; Black Library'nin bekçileri ve Laughing God Cegorach'ın hizmetkârıdırlar. Sanat ile savaşı ayırmazlar; maskeli troupe'lar halinde galakside dolaşıp Aeldari tarihini danslı ritüellerle yeniden canlandırır ve Chaos'a karşı savaşırlar.
+Harlequins, Aeldari ırkının en gizemli ve en tehlikeli kesimidir; Cegorach — Laughing God — 'a adanmış ve hiçbir Craftworld'e bağlı olmayan özgür ruhlu savaşçılardır — onlar, hem savaşçı hem de performans sanatçısıdır ve onların savaşı, hem dans hem de ölümdür. Harlequins'in en büyük özelliği, onların Masque'larıdır — her Harlequin, bir karakter oynar ve onun savaşı, o karakterin rolüdür;
 
 Bu artık muhtemelen Eldar ırkının tek ve nihai umudu — özellikle Eldrad'ın Ynnead'i erken uyandırma girişiminin felaketle sonuçlanmasının ardından. (Eldrad'ın bu başarısızlığı Ynnead'i, tüm Craftworld'lerin Infinity Circuit'lerini ve o zamana kadar yapılan tüm ilerlemeyi öldürdü. Cegorach'ın bunu önceden bildiği ve "Plan B" hazırladığı düşünülüyor.)
 

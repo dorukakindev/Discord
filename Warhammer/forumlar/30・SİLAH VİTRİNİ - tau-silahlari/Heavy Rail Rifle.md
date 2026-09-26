@@ -13,6 +13,6 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-T'au'nun ağır piyade rail silahı; Rail Rifle'ın daha uzun namlulu, daha güçlü abisi. Pathfinder ve cadre'in elit anti-zırhı — 'bir atış, bir delik' doktrininin büyük kardeşi.
+Heavy Rail Rifle, T'au İmparatorluğu'nun en ölümcül ve en büyük silahıdır — ağır railgun'dur. Bu silah, hedefe yoğun bir elektromanyetik enerji gönderir; tek atışta bir Titan'ın zırhını bile delebilecek kadar güçlüdür. Heavy Rail Rifle, T'au'nun en ölümcül ve en büyük silahıdır; bu silah, T'au'nun en önemli ve en büyük silahıdır. Silah, T'au İmparatorluğu'nun en ölümcül ve en büyük silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -53,6 +53,10 @@ Klasik Space Marine'e (günümüzde **Firstborn** da denir) on dokuz organ impla
 
 **Primaris ekleri:** Belisarius Cawl'ın projesi üç organ daha ekler. **Sinew Coils** göğüs kafesini ve kasları güçlendiren bir örgü oluşturur; **Magnificat** diğer organların etkisini artırarak Primaris'in daha iri gelişimini sağlar; **Belisarian Furnace** ağır yaralanma ya da ölümcül tehlikede bedeni kimyasal bir kabarmayla yeniden ayağa kaldırır.
 
+## Tarihçe
+
+Adeptus Astartes, 'Space Marines' — İmparator'un genetik mühendisliğiyle yaratılan süper-asker düzeni; yirmi primarch genetik tohumunun taşıyıcısı ve Imperium'un en keskin kılıcıdır. Yedi organ i
+
 ## Recruitment ve Dönüşüm
 Her Chapter, adaylarını (aspirant) genellikle kendi homeworld'ünden ya da yakın sistemlerden seçer. Feral dünyalar, death world'ler ve hive'ların acımasız alt katları, Chapter'ların tercih ettiği kaynaklar arasında sık anılır; zira bu ortamlar hayatta kalmayı zaten bir sınava çevirmiştir. Gene-seed erkek dokusuna uyumlu olduğundan adaylar yalnızca erkeklerden, organların kök salabilmesi için de genellikle ergenliğe girmemiş ya da henüz girmiş gençlerden seçilir.
 

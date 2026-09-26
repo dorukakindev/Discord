@@ -57,6 +57,10 @@ Blood Angels, Primarch'ları **Sanguinius**'ün genetik materyalinden yaratıld�
 
 #### Imperium Secundus
 
+## Tarihçe
+
+Blood Angels (IX Legion), Sanguinius'un oğullarıdır; asalet, sanat ve ölümsüz trajedi ü
+
 Horus'un Terra'ya yürümesiyle, **Imperium Secundus** kuruldu. **Sanguinius** ve **Lion El'Jonson**, bu yeni İmparatorluk için güç mücadelesine girdi. **Roboute Guilliman** arabulucu rolünü üstlendi.
 
 #### Siege of Terra

@@ -39,6 +39,10 @@ Emperor's Children, **Fulgrim**'in genetik materyalinden yaratıldı. Fulgrim, *
 
 #### Erken Crusade
 
+## Tarihçe
+
+Empe
+
 Emperor's Children, Great Crusade sırasında **İmparator'un en gözde Legion'ı** olarak kabul edildi. Özellikleri:
 
 - **Mükemmeliyetçilik** — Her savaşta mükemmellik arayışı.

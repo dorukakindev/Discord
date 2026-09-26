@@ -60,6 +60,10 @@ Yüzyıllar boyunca Tomb Worlds sessiz kaldı. **999. M41**'de veya **M42** civa
 
 ## Biyoloji (Abiology)
 
+## Tarihçe
+
+Necron, 60 milyon yıllık robot-iskelet ırk — Necrontyr'ın biotransferans sonrası 'ruhlarını y
+
 ### Reanimation Protocols (Yeniden Canlandırma Protokolleri)
 
 Necronlar, **Reanimation Protocols** (Yeniden Canlandırma Protokolleri) olarak bilinen bir sistem aracılığıyla fiziksel hasarı onarabilir. Bir Necron savaşçısı öldürüldüğünde, bedeni parçalanmış olsa bile, **reanimation** protokolleri onu tekrar ayağa kaldırabilir. Bu süreç, savaş alanındaki en korkutucu olgulardan biridir — birkaç dakika önce öldürülen bir düşman birdenbire tekrar ayağa kalkar.

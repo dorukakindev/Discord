@@ -12,6 +12,4 @@ Dark Mechanicum'u yaratan şey, bilgiye duyulan sınırsız açlıktır; sırada
 
 ## Tarihçe
 
-Dark Mechanicum — Mars'ın ikiye bölündüğü Schism of Mars'ın karanlık yarısı; Horus'a katılıp daemon-makineleri, Warp-forge ve yasak teknolojilerle İmparatorluk'a savaş açtı. Heresy sonrası Eye of Terror'a sürülüp Hell-Forge'lar kurdular — Chaos'un silah ustaları.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Dark Mechanicum, Adeptus Mechanicus'un Chaos'a düşmüş versiyonudur; Kelbor-Hal'ın liderliğinde Mars'ın yarısını Chaos'a sürükleyen ve İmparatorluğun en tehlikeli teknolojik düşmanı olan bir organizasyondur — onlar, İmparatorluğun en karanlık ve en tehlikeli düşmanıdır. Dark Mechanicum'un en büyük özelliği, onların Chaos teknolojisidir — onlar, Chaos'un gücüyle teknolojiyi birleştirir ve onların makineleri, hem mekanik hem de demonik bir güçtür; bir Dark Mechanicum engine, hem bir makine hem de bir demon'dur ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Dark Mechanicum'un en ünlü özelliği, onların Hell Forge'larıdır — onlar, Chaos'un gücüyle çalışan devasa fabrikalardır ve onların üretimi, Chaos'un en büyük gücüdür; bir Hell Forge, bir gezegenin tamamen bir Chaos fabrikasına dönüşmesidir. Dark Mechanicum, İmparatorluğun en karanlık ve en tehlikeli düşmanıdır — onlar, teknolojinin ve Chaos'un b

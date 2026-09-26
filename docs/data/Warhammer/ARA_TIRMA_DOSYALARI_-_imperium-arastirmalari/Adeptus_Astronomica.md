@@ -28,6 +28,10 @@ Teknolojinin Altın Çağı'nı izleyen dönemde, insanlık şiddetli Warp fırt
 
 Astronomican, **Hollow Mountain**'ın (eski adıyla **Mount Everest**) içindeki Chamber of the Astronomican'da bulunur. Buradaki mekanizmalar her kurbanı birkaç hafta (en şanssız olanlar için aylar) içinde tüm anılarından, düşüncelerinden, duygularından ve nihayet ruhlarından sıyırır; bu süre boyunca tüm zamanları aşırı, anlaşılmaz, akıl almaz, "keşke Dark Eldar beni kaçırsaydı" tarzında acıyla dolar; sonunda ruhlarından geriye hiçbir şey kalmaz (yani onlar için öte dünya yok), bedenlerinden geriye kalan da toza dönüşür.
 
+## Tarihçe
+
+Adeptus Astronomica, İmparatorluğun Astronomicon'u — Terra'dan yayılan psişik feneri — işlet
+
 Bu bile İmparator'un bile midesini bulandırmıştır — ki bu bir şey söyler. İnsanlık tarihinin en acımasız savaş lordu, geno-/xenocide'ler ve galaktik ölçekte savaşlar ile dolu adam, Malcador bunu ilk önerdiğinde bu çözümü uygulamayı reddetti. Yalnızca artık hem ihtiyaç duyduğu her şeyi yapamayacağını hem de Astronomican'ı tek başına çalıştıramayacağını anladığında isteksizce kabul etti. Bir dakika düşünün: İnsanlığın en acımasız savaş lordu bir şeyi çok aşırı bulduğunda, Grimdark ölçeğinde gerçek bir ziyafet için hazırsınız demektir.
 
 ### Psyker Tüketimi

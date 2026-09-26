@@ -119,6 +119,10 @@ Tyranid biyo-silahları canlı silahlardır ve şunları içerir:
 
 ### Synapse Creatures
 
+## Tarihçe
+
+Tyranid, galaksiler arası 'büyük yiyen' — Hive Mind'ın yönettiği, her şeyi biyolojik ola
+
 Synapse Creatures, **Hive Tyrant**'lardan **Broodlord**'lara kadar değişen yaratıklardır. Onlar olmadan, altlarındaki Tyranidler anlamsız bir şekilde hareket eder. Synapse ağı, **Shadow in the Warp** (Warp'taki Gölge) olarak bilinen bir olguyu yaratır — Tyranidler yakınında Astropaths ve Navigators iletişim kuramaz.
 
 ## Bireysel Tyranidler

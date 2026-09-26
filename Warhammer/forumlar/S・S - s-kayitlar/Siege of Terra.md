@@ -55,6 +55,10 @@ Sadık saflarda da açıklanması güç olaylar yaşandı. Euphrati Keeler'in ç
 
 Perturabo'nun ayrılışının ardından Mortarion, Traitor cephesinde belirleyici bir ağırlık kazandı. Death Guard'ın vebaları ve Nurgle'ın çürümesi kuşatmanın dış halkalarına yayıldı; hastalık artık bir silah değil, savaş alanının kendisiydi.
 
+## Tarihçe
+
+Siege of Terra, İmparatorluğun en büyük ve en son savunmasıdır; Horus'un Terra'ya saldırısı ve İmparator'un kendi oğluyla son savaşıyla sonuçlanan ve İmparatorluğun en büyük savaşının sonudur — onlar, İmparatorluğun en büyük savunmasının ve en büyük fedakarlığının somut halidir. Siege of Terra'nın e
+
 ## Jaghatai Khan ve Lion's Gate
 Chris Wraight'ın *Warhawk* romanı, kuşatmanın bu karanlık döneminde Khan'ın giriştiği kararı merkeze alır. Lion's Gate uzay limanı Traitor ikmalinin ve takviyelerinin kalbiydi. Khan, White Scars'ı ve Terran zırhlı birlikleri de içeren kuvvetleri limanı geri almak için dış bölgelere sürdü. Bu, Dorn'un tutma stratejisine aykırı görünen, ama Traitorların nefes borusunu kesmeyi amaçlayan cüretkâr bir karşı taarruzdu.
 

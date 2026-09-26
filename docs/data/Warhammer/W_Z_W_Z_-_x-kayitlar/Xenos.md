@@ -12,6 +12,10 @@ Galaksi bu öğretinin öngördüğünden çok daha kalabalıktır. Aeldari, Nec
 
 Imperium, "xenos" etiketini zaman zaman insan kökenli olup Imperium'a bağlanmamış topluluklara karşı da siyasi bir silah olarak kullanmıştır. Bu yüzden bir evren içi kaynağın bir topluluğu "xenos" olarak anması, her zaman biyolojik bir gerçeği değil, çoğu zaman bir tutumu yansıtır. Leagues of Votann gibi insan kökenli ama bağımsız halkların Imperial kayıtlarda nasıl sınıflandırılacağı, bu gerilimin güncel bir örneğidir.
 
+## Tarihçe
+
+Xenos, Dan Abnett'in Eisenhorn üçlemesinin ilk romanıdır — Inquisitor Eisenhorn'un hikâyesinin başlangıcıdır. Bu roman, Eisenhorn'un İmparatorluk'un en gizli düşmanlarıyla mücadelesini anlatır; roman, Eisenhorn'un hikâyesinin başlangıcıdır. Bu roman, Eisenhorn'un hikâyesinin başlangıcıdır; roman, Eisenhorn'un en gizli ve en tehlikeli operasyonlarının başlangıcıdır. Roman, Eisenhorn'un hikâyesinin
+
 ## Imperial Xenofobi: Öğreti ve Kurumlar
 Imperium'un xenos karşıtlığının kökleri Great Crusade'e uzanır. Emperor'un seferi insan dünyalarını yeniden birleştirmeyi amaçlarken, yol üstündeki xenos uygarlıklarını da çoğu zaman yok etti ya da sürdü. Sefer döneminde Laer gibi türlerin ortadan kaldırılması ve insan kökenli olmasına rağmen xenos türleriyle ittifak kurmuş **Interex** ile yaşanan felaketle sonuçlanan temas, bu politikanın sonuçlarını gösteren örneklerdir. Kimi xenos türlerinin, özellikle Rangdan olarak anılan düşmanın Great Crusade öncesinde ya da sırasında korkunç savaşlara neden olduğu ima edilir; ancak bu olayların ayrıntıları kasıtlı olarak belirsizdir.
 

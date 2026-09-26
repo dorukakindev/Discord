@@ -26,6 +26,10 @@ Sadık Mechanicum'un kalıntıları, kaynaklarda Zagreus Kane ile ilişkilendiri
 
 Hainlerin önemli bir kısmı Mars'tan çekilerek Terra kuşatmasına katıldı, ardından Eye of Terror'a sığındı ve 40K'nın Dark Mechanicus geleneğini oluşturdu. Mars ise yaralarını sararken, bir daha kendi içinden çıkacak bir ihanete karşı daha kapalı ve daha kuşkucu bir dünyaya dönüştü.
 
+## Tarihçe
+
+Mars, Adeptus Mechanicus'un ana dünyası ve İmparatorluk'un en önemli Forge World'üdür — İmparatorluk'un teknolojik üretiminin kalbidir. Mars'ta Machine God'a ibadet edilir ve İmparatorluk'un en büyük silah ve teknoloji üretimi yapılır; gezegen, Mechanicus'un en yüksek rütbeli Tech-Priest'lerinin — Fabricator-General'in — evidir. Mars, İmparatorluk'un Omnissiah'a ibadet ettiği en kutsal yerdir ve İmparatorluk'un teknolojik üstünlüğünün simgesidir; gezegenin fabrikaları, İmparatorluk'un Titan'ları, gemileri ve
+
 ## Noctis Labyrinth ve Void Dragon Belirsizliği
 Mars'ın en tartışmalı sırrı, Noctis Labyrinth'in derinliklerinde neyin yattığıdır. Eski Necron yayınları, C'tan'lardan **Void Dragon**'ın (Mag'ladroth) Mars'ın altında hapsedilmiş olduğunu ve bu hapsin Emperor'la bağlantılı olabileceğini ima etti. Horus Heresy romanları da Labyrinth'i, Mechanicum'un gizlediği ve dokunulmaması gereken bir güçle ilişkilendirerek scrapcode'un kaynağını bu karanlığa bağladı.
 

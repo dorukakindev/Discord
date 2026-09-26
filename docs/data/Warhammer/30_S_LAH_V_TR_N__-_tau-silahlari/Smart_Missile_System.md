@@ -13,6 +13,6 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-T'au battlesuit'lerin kendini-savunma füze sistemi; yakınlaşan piyadeye otomatik minik füzeler saçan drone-teknolojisi. 'SMS' — Crisis suit'lerin son savunma hattı.
+Smart Missile System, T'au İmparatorluğu'nun en gelişmiş ve en ölümcül silahıdır — akıllı füze sistemidir. Bu sistem, hedefi otomatik olarak izler ve ona vurur; bu, T'au'nun en gelişmiş ve en ölümcül silahıdır. Smart Missile System, T'au'nun en gelişmiş ve en ölümcül silahıdır; bu sistem, T'au'nun en önemli ve en gelişmiş silahıdır. Sistem, T'au İmparatorluğu'nun en gelişmiş ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

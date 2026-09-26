@@ -23,7 +23,7 @@ Horus'un ihaneti Isstvan III'te açığa çıktığında Death Guard, Legion'un 
 
 ## Tarihçe
 
-Typhus — 'Gezgin', 'Nurgle'un Habercisi', asıl adıyla Barbaruslu Calas Typhon — Death Guard lejyonunun 1. Veba Bölüğü'nün Lord'u ve 'Destroyer Hive' doğaüstü vebasının taşıyıcısıdır. Lejyonun eski birinci kaptanı olarak Nurgle'un Şampiyonu ve büyücüsüdür; efsanevi Veba Filoları'ndan birini yöneten en korkulan Chaos Lord'udur. İnsanlığa
+Typhus (eski adıyla Calas Typhon), Death Guard'ın en ünlü ve en korkulan Chaos Lord'udur; Mortarion'un birinci kaptanı olan ve Nurgle'un Herald'ı olarak bilinen Typhus, Death Guard'ın Chaos'a düşmesinin en büyük sorumlusudur — onlar, Nurgle'un en sadık ve en ölümcül hizmetkârıdır. Typhus'un en büyük özelliği, onun vebasıdır — onlar, Nur
 
 Typhon'un komutasında, adı sonraki on bin yıl boyunca onunla birlikte anılacak dev grand cruiser *Terminus Est* bulunuyordu. Mortarion'un Heresy dönemi sancak gemisi Endurance'tı; *Terminus Est* ise Primarch'ın değil, First Captain'ın gemisiydi ve Legion'un Terra yolundaki kaderinde belirleyici bir rol oynayacaktı. Death Guard, Isstvan V'teki Drop Site Massacre'da da hainlerin saflarında yer aldı.
 ---MSG---

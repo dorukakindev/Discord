@@ -11,7 +11,8 @@ Drukhari'nin paralı kılıç ustaları — Klaive taşıyan, onur kavramına sa
 - **Köken:** Commorragh
 
 ## Tarihçe
-Incubi, Commorragh'in 'karanlık şövalye' tapınaklarıdır: Klaivex tapınaklarında eğitilen bu savaşçılar para için Archon'lara hizmet eder ama kendi içlerinde korkunç bir onur kodu vardır. Klaive'leri enerji alanıyla kaplı uzun kılıçlardır — tek hamlede adamı ikiye böler; Drazhar (Living Sword) tapınağın yaşayan efsanesidir.
+
+Incubi, Drukhari'nin 'kabal'larına bağlı elit yakın-dövüş savaşçıları — Commorragh'ın en keskin kılıç ustaları ve 'Incubus' kültünün takipçileri. Klaive kılıcı ve Tormentor Shield ile donanmış Incubi, Archon'un kişisel muhafızı ve suikastçısıdır; 'soul-hunger' beslenmesi Drukhari'nin en saf haliyle bu birliklerde görülür. Drazhar, 'Living Sword' olarak bilinen en ünlü Incubus — tek başına bir Wyches Cult'unu kırabilen efsanevi figürdür.
 
 ## Özellikler
 Klaive (iki elle kullanılan enerji kılıcı), tormentor helm, güçlü zırh; Drukhari'de 'söz' kavramının tek yer aldığı yer.

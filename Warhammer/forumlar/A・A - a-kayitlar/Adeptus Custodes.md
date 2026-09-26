@@ -47,7 +47,7 @@ Custodes küçük sayıda ama her biri tek başına bir kadro kadar etkili sayı
 
 ## Tarihçe
 
-Adeptus Custodes, İmparatorluğun en eski ve en kutsal savaş gücüdür; İmparator'un kişisel koruması olan ve her biri bir Space Marine'den daha güçlü olan altın zırhlı savaşçılardır — onlar, İmparatorluğun en kutsal ve en ölümcül savaşçılarıdır. Adeptus Custodes'un en
+Adeptus Custodes, İmparator'un kişisel muhafızlarıdır; Space Marine'lerden bile daha güçlü, daha hızlı ve daha zeki olan, her biri ayrı birer sanat eseri gibi tek tek yetiştirilmiş altın zırhlı savaşçılardır. Büyük Haçlı Seferi'nin en başından beri İmparator'un yanın
 
 ## Great Rift Sonrası: Kapıların Açılması
 Great Rift'in açılmasıyla Chaos kuvvetleri Terra'nın eşiğine kadar ulaştı. Roboute Guilliman'ın Terra'ya varışı sırasında yaşanan **Battle of Lion's Gate**, Custodes, Sisters of Silence ve Ultramarines'in Palace'ın kapısında birlikte savaştığı bir çatışmaydı. Kaynaklara göre bu savaştan sonra Custodes'in önderleri, Terra'nın savunmasının artık yalnızca Palace'ın duvarları arkasında beklenerek güvence altına alınamayacağını resmen kabul etti.

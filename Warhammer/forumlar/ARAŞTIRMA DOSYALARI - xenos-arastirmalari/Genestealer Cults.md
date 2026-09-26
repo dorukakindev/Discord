@@ -115,6 +115,10 @@ Commorragh'da da Genestealer etkisi görülmeye başlanmıştır: bir baskın so
 
 Rogue Trader döneminden özel bir Genestealer türü. Ymgarl'ın aylarındaki izole bir Genestealer popülasyonundan geldiği söyleniyor. Tentaküllü, lamprey benzeri ağızları var ve koşullara göre kısmen dönüşme yeteneğine sahipler — bedeli ise genetik olarak dengesiz olmaları ve yalnızca kanla beslenebilmeleri. **Hive Mind** onları Tyranid gen havuzunu kirletme korkusuyla terk etti. 5. ve 6. baskı arasında bir Norn Queen tarafından bir Hive Fleet'e yeniden dahil edildiler; sonuç olarak 6E Tyranid'lerde **Ymgarl Factor** adlı bir Bio-Artefact var.
 
+## Tarihçe
+
+Genestealer Cults, Tyranid'in en sinsi ve en tehlikeli silahıdır; bir gezegenin nüfusunu genetik olarak yo
+
 ## Tabletop (7. Baskı ve Sonrası)
 
 7. baskının sonuna doğru, Genestealer Cults nihayet güzel bir yeni model serisi ve tam bir Codex aldı. 2016'da **Deathwatch: Overkill** cultistler için kurallar ve modeller getirdi; sonrasında ana kodiks geldi.

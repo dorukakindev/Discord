@@ -65,7 +65,7 @@ Bu soruya verilen yanıtlar birkaç kola ayrılır. Birincisi, Drazhar'ın Arhra
 
 ## Tarihçe
 
-Drazhar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur; Striking Scorpions Aspect'inin en gizli ve en ölümcül üyesi olan Drazhar, Aeldari'nin en gizli ve en ölümcül savaşçısıdır — onlar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur. Drazhar'ın en büyük özelliği, onun gizliliğidir — onlar, Striking Scorpions'ın en gizli ve en ölümcül üyesidir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Drazhar, hem bir savaşçı hem d
+Drazhar, Drukhari'nin en tehlikeli ve en ölümcül figürlerinden biridir — 'Master of Blades' olarak bilinen ve Drukhari'nin en ölümcül savaşçısıdır. Drazhar, Drukhari'nin en tehlikeli ve en ölümcül figürüdür; onun kılıç ustalığı ve savaş yetenekleri, Drukhari'nin en önemli ve en ölümcül güçlerinin simgesidir. Drazhar, Drukhari'nin en tehlikeli ve en ölümcül figürü olarak kalır — onun yetenekleri, Drukhari'nin en önemli ve en ölümcül güçlerinin
 
 ## Great Rift Sonrası: Ynnari Avı ve Jain Zar
 

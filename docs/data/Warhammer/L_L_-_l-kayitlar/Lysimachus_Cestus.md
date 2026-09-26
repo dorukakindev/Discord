@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a1/UltramarineBanner.png
 
 ## Tarihçe
 
-Lysimachus Cestus, Ultramarines'in en ünlü ve en cesur Captain'ıdır; Büyük Haçlı Seferi'nin son döneminde 7. Bölük'ün Fleet Commander'ı olan ve Calth'daki ihaneti araştıran Cestus, İmparatorluğun en saygın ve en cesur savaşçısıdır — onlar, Ultramarines'in en ünlü ve en cesur üyesidir. Lysimachus Cestus'un en büyük özelliği, onun cesaretidir — onlar, Ultramarines'in en deneyimli Fleet Commander'ıdır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Cestus, hem bir savaşçı hem de bir komutandır ve onların savaşı, hem fiziksel hem de stratejiktir. Cestus'un en ünlü görevi, Calth'daki ihanetidir — onlar, Word Bearers'ın en büyük ihanetini gören ve onu durduran en cesur savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Lysimachus Cestus, Ultramarines'in en ünlü ve en cesur Captain'ıdır — onlar, bir komutanın ve Ultramarines'in en büyük trajedisinin somut halidir.
+Lysimachus Cestus, Imperial Fists'in en ünlü ve en efsanevi figürlerinden biridir — Chapter'ın en önemli kaptanlarından biridir. Cestus, Imperial Fists'in en ünlü ve en efsanevi figürlerinden biridir; onun hikâyesi, Imperial Fists'in en önemli savaşlarının ve en büyük zaferlerinin simgesidir. Lysimachus Cestus, Imperial Fists'in en ünlü ve en efsanevi figürü olarak kalır — onun hikâyesi, Imperial Fists'in en önemli savaşlarının ve en büyük zaferlerinin simgesidir.
 
 -# Kaynaklar: *Fandom wiki*
 

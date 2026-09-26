@@ -17,4 +17,5 @@ Apothecary Pindar ve Iron Snakes'ın bağımsız operasyonları; bölüğün 'It
 
 Brothers of the Snake, Dan Abnett'in yazdığı ve Iron Snakes Chapter'ının hikâyesini anlatan bir romandır. Bu roman, Iron Snakes Chapter'ının en önemli hikâyesini anlatır; roman, Iron Snakes Chapter'ının en önemli hikâyesidir. Bu roman, Iron Snakes Chapter'ının en önemli hikâyesidir; roman, Iron Snakes Chapter'ının en önemli parçasıdır. Roman, Iron Snakes Chapter'ının en önemli hikâyesi olarak kalır.
 
+
 -# Kaynaklar: Black Library

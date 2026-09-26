@@ -12,6 +12,6 @@ Aziz Basillius, İmparatorluk İnancı'nın en karanlık ve en ibret verici fig�
 
 ## Tarihçe
 
-Saint Basillius, Sisters of Battle'ın en ünlü ve en kutsal azizidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizi olan Basillius, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizidir. Saint Basillius'un en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizdir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Basillius, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Basillius'un en ünlü özelliği, onun aziz unvanıdır — onlar, İmparatorluğun en kutsal ve en önemli azizidir ve onların varl��ğı, İmparatorluğun dininin en büyük kanıtıdır. Saint Basillius, Sisters of Battle'ın en ünlü ve en kutsal azizidir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
+Saint Basillius, İmparatorluk'un en kutsal ve en efsanevi figürlerinden biridir — 'Basillius the Elder' olarak bilinen ve İmparatorluk dininin en önemli figürlerinden biridir. Basillius, İmparatorluk'un en kutsal ve en efsanevi figürlerinden biridir; onun inancı ve fedakârlığı, İmparatorluk dininin en önemli ve en kutsal geleneğinin simgesidir. Saint Basillius, İmparatorluk'un en kutsal ve en efsanevi figürü olarak kalır — onun varlığı, İmparatorluk dininin en önemli ve en kutsal geleneğinin simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

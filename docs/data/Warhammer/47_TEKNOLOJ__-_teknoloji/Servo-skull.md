@@ -16,8 +16,7 @@ Bir insan kafatasına antigravitik düzenek ve çeşitli aletler yerleştirilere
 
 ## Tarihçe
 
-Tech-priest'lerin, Inquisitor'ların, Administratum görevlilerinin ve Astartes'in yanında sıkça görülür. Imperium'un ölüme ve hizmete bakışını tek bir nesnede özetlediği için Warhammer 40,000'in en tanınan görsel imgelerinden biridir.
+Servo-skull, bir insan kafatasının anti-grav iticileri, algılayıcılar ve basit cogitator çipleriyle donatılarak uçan otomat haline getirilmiş halidir; Adeptus Mechanicus ve İmparatorluk kurumlarının her yerinde görülür. Kafatası genellikle ölen sadık bir hizmetkârın veya yüksek rütbeli bir Tech-priest'ın kalıntısıdır — ölümden sonra hizmet etmek İmparatorluk'ta bir onurdur ve servo-skull olmak, ölümsüz hizmetin somut halidir. Servo-skull'lar veri toplar, yol gösterir, kutsal mumlar taşır veya silah platformu olarak devriye gezer; Inquisitor'ların yanında uçan servo-skull'lar hedef işaretleme ve kayıt görevi görür. Küçük ama her yerdedirler — İmparatorluk'ta ölüm hizmetin sonu değil, başka bir görevin başlangıcıdır ve servo-skull bunun en somut simgesidir.
 
--# Kaynaklar: *Codex: Adeptus Mechanicus — 10th Edition*; *Warhammer 40,000 Core Book — 10th Edition*
 
--# İlişkili kayıtlar: <#1551753449878724689>, <#1551815304252887041>, <#1551810643785687071>
+-# Kaynaklar: *Codex: Adeptus Mechanicus — 10th Edition*; *Warhamm

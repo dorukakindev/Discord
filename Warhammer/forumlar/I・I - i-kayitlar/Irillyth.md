@@ -16,6 +16,6 @@ Irillyth, Shadow Spectres Aspect'inin Phoenix Lord'udur ve binlerce yıl tek kay
 
 ## Tarihçe
 
-Irillyth, Aeldari'nin en ünl�� ve en gizli Phoenix Lord'udur; Shadow Spectres Aspect'inin kurucusu olan ve Aeldari'nin en gizli savaşçı geleneğinin lideri olan Irillyth, Aeldari'nin en gizli ve en ölümcül savaşçısıdır — onlar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur. Irillyth'in en büyük özelliği, onun gizliliğidir — onlar, Shadow Spectres'ın kurucusu ve en gizli üyesidir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Irillyth, hem bir savaşçı hem de bir efsanedir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Irillyth'in en ünlü özelliği, onun Shadow Spectres'ın kurucusudur — onlar, Aeldari'nin en gizli Aspect'inin yaratıcısıdır ve onların varlığı, Aeldari'nin savaş sanatının en gizli noktasının kanıtıdır. Irillyth, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur — onlar, bir gizliliğin ve Aeldari'nin savaş sanatının somut halidir.
+Irillyth, Aeldari'nin en gizli ve en ölümcül Phoenix Lord'larından biridir — Shadow Spectres Aspect Shrine'ın kurucusudur. Irillyth, Aeldari'nin en gizli ve en ölümcül figürlerinden biridir; onun gizli operasyonları ve savaş yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Irillyth, Aeldari'nin en gizli ve en ölümcül Phoenix Lord'u olarak kalır — onun yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş geleneğinin simgesidir.
 
 -# Kaynaklar: *Codex: Aeldari*; *Mymeara* kaynakları

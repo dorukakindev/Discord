@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/2/2b/Iron-Father_Autek_Mor
 
 ## Tarihçe
 
-Autek Mor, Iron Hands'ın en ünlü ve en trajik Iron Father'ıdır; 'The Maimed' ve 'Blood-Wrought' olarak bilinen ve Morragul Clan'ın lideri olan Mor, İmparatorluğun en trajik ve en ölümcül savaşçısıdır — onlar, Iron Hands'ın en ünlü ve en trajik üyesidir. Autek Mor'un en büyük özelliği, onun trajedisidir — onlar, bir Legion'un en trajik figürüdür ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Mor, hem bir savaşçı hem de bir mühendistir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Autek Mor'un en ünlü özelliği, onun Morragul Clan'ın lideridir — onlar, Iron Hands'ın en trajik ve en ölümcül klanının lideridir ve onların varlığı, Iron Hands'ın en büyük gücünün kanıtıdır. Autek Mor, Iron Hands'ın en ünlü ve en trajik Iron Father'ıdır — onlar, bir trajedinin ve Iron Hands'ın en büyük gücünün somut halidir.
+Autek Mor, Iron Hands'in en ünlü ve en efsanevi figürlerinden biridir — Chapter'ın en önemli figürlerinden biridir. Mor, Iron Hands'in en ünlü ve en efsanevi figürlerinden biridir; onun hikâyesi, Iron Hands'in en önemli savaşlarının ve en büyük zaferlerinin simgesidir. Autek Mor, Iron Hands'in en ünlü ve en efsanevi figürü olarak kalır — onun hikâyesi, Iron Hands'in en önemli savaşlarının ve en büyük zaferlerinin simgesidir.
+
 
 -# Kaynaklar: *Fandom wiki*

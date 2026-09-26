@@ -47,7 +47,7 @@ Minotaurs'un Badab'daki en ağır ve en uzun mücadelesi **Lamenters**'a karşı
 
 ## Tarihçe
 
-Minotaurs, gerçek kökeni ve genetik soy hattı bilinmeyen sadık Space Marine chapter'ıdır; bugünkü Minotaurs'un geçmiş kayıtlarıyla benzerliği azdır — tarihi bilinçli olarak silinmiş görünür. High Lords'un 'kişisel silahı' olarak bilinen bu chapter, 'gizemli cellat' olarak İmparatorluk'un en korkulan sadık figürlerinden.
+Minotaurs, Space Marines'in en gizli ve en tehlikeli Chapter'larından biridir — Asterion Moloc'un Chapter'ı ve İmparatorluk'un en gizli operasyonlarının en önemli aracıdır. Minotaurs, İmparatorluk'un en gizli ve en tehlikeli Chapter'larından biridir; onların gizli operasyonları, İmparatorluk'un en gizli ve en tehlikeli güçlerinin simgesidir. Minotaurs, İmparatorluk'un en gizli ve en tehlikeli Chapter'ı olarak kalır — onların operasyonları, İmparatorluk'un en gizli ve en tehlikeli güçlerinin simgesidir.
 
 ## Kefaret ve Sonrası
 Badab War sona erdiğinde teslim olan Chapter'lar yok edilmedi. Mantis Warriors, Lamenters ve Executioners'a, genellikle yüz yıllık olarak aktarılan **Penitent Crusade**'ler üstlenmeleri şartıyla af gösterildi. Minotaurs'un bu kefaret seferlerinin gözetiminde resmî bir görev üstlenip üstlenmediği ise kaynaklarda açıkça belirtilmez. Okurlar arasında Chapter'ı Terra adına kefaret sürecini izleyen bir bekçi olarak görme eğilimi yaygındır; ancak arşiv bunu kesin bir kurumsal rol olarak sunmaz.

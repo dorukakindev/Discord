@@ -19,3 +19,7 @@ Jump pack, dual bolt pistols veya inferno pistols/hand flamer, yakın dövüş b
 -# Kaynaklar: Codex: Adepta Sororitas
 
 -# İlişkili kayıtlar: `sisters-of-battle`, `saint-celestine`, `adepta-sororitas`
+
+### Arka Plan
+
+Serafim — 'yakan' 'melek' 'altı' 'kanat' 'figürü'; 'serafim = ateş' figürü.

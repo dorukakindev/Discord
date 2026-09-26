@@ -12,6 +12,7 @@ Dark Angels'ın karanlık sırrı, kuruluşlarına dayanır; chapter'ın atalar�
 
 ## Tarihçe
 
-Sammael, Dark Angels'ın en ünlü ve en cesur Ravenwing Grand Master'ıdır; 348. Grand Master olarak Ravenwing'in — Dark Angels'ın hızlı saldırı kanadı — lideri olan ve Fallen Angels'ı avlayan Sammael, İmparatorluğun en gizli ve en cesur savaşçısıdır — onlar, Dark Angels'ın en ünlü ve en cesur üyesidir. Sammael'in en büyük özelliği, onun cesaretidir — onlar, Ravenwing'in lideri ve Fallen Angels'ın avcısıdır ve onların varlığı, Dark Angels'ın en gizli gücünün kanıtıdır; bir Sammael, hem bir savaşçı hem de bir avcıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Sammael'in en ünlü özelliği, onun Ravenwing'in lideridir — onlar, Dark Angels'ın en hızlı ve en cesur kanadının lideridir ve onların varlığı, Dark Angels'ın en büyük sırrının kanıtıdır. Sammael, Dark Angels'ın en ünlü ve en cesur Ravenwing Grand Master'ıdır — onlar, bir avcının ve Dark Angels'ın en gizli gücünün somut halidir.
+Sammael, Dark Angels'ın en önemli ve en efsanevi figürlerinden biridir — Ravenwing'in lideri ve Chapter'ın en önemli figürlerinden biridir. Sammael, Dark Angels'ın en önemli ve en efsanevi figürlerinden biridir; onun liderliği, Dark Angels'ın en önemli operasyonlarının ve en büyük zaferlerinin simgesidir. Sammael, Dark Angels'ın en önemli ve en efsanevi figürü olarak kalır — onun liderliği, Dark Angels'ın en önemli operasyonlarının ve en büyük zaferlerinin simgesidir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

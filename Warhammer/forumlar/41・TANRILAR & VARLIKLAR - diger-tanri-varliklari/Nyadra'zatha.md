@@ -10,6 +10,7 @@ Necron tarihinde özel bir rol oynar. Eldritch ateşlerini gerçekliğin ötesin
 
 ## Tarihçe
 
-Nyadra'zatha ('the Burning One'), C'tan'ın ateş-ve-ateşleyici formundaki parçasıdır; Necron'lara Dolmen Gate teknolojisinin sırrını verdiği söylenen yıldız tanrısı. Webway'e girebilen tek C'tan olarak efsanevidir — Necron'ların hızlı saldırılarının ardındaki mit.
+Nyadra'zatha, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir — 'Burning One' olarak bilinen ve en tehlikeli C'tan'lardan biridir. Nyadra'zatha, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en tehlikeli tanrılarıdır. Nyadra'zatha, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en tehlikeli tanrılarıdır.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

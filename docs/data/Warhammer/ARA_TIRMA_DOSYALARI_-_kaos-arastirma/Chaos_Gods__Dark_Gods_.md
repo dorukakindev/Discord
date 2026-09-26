@@ -54,6 +54,10 @@ Ruinous Powers'tan en az birinin doğumu kesinlikle belirlenebilir: **Slaanesh**
 
 **The Great Game**, Slaanesh Aeldari ırkının çoğunluğunu ve öldürülen pantheonlarını tüketerek kazandığı güçle şişman ve cesaretlenerek alemlerini genişlettiğinde yeniden başladı; ama karanlık kardeşleri onunla önemli bir muhalefetle karşılaştı. Great Game'de yükselen tanrı olarak kısa bir süre sonra, Slaanesh'in Khorne'dan çaldığı alemler geri alındı. Tzeentch ve Nurgle ittifak kurdu ve Khorne'un Slaanesh tarafından güçte gasp edilmesine öfkesi, Slaanesh'in ondan çaldığı her şeyi ve daha fazlasını geri alma bir rampajına yol açtı.
 
+## Tarihçe
+
+Chaos Gods, Chaos'un en tehlikeli ve en korkulan varlıklarıdır — Warp'de hüküm süren ve Chaos'un gücünü oluşturan tanrılardır. Chao
+
 Böylece Dark God'ların tüm dikkati Great Game'e verildi; Emperor ve Mars, tanrılar tarafından engellenmeden — en azından bir süreliğine — Great Crusade'a başladı. Great Crusade'ın zaferleri arasında, Dark God'lar Primarch'ların kalplerine tohumlar ekti. Sonunda, Emperor Terra'ya döndüğünde meyvelerini verdiler. Warmaster **Horus Lupercal** bozuldu ve birçok kardeş Primarch'ı isyana ve lanete katılmaya ikna etti. Daemon legions tanrılar tarafından İmparatorluğu sonsuza dek karartacak iç savaşlarında onlara yardım etmek için konuşlandırıldı.
 
 Horus Heresy'nin son doruk noktasında, beşinci büyük Chaos God neredeyse apotheozise ulaştı. Kehanette **Dark King** (Karanlık Kral) olarak bilinen, İnsanlık'tan doğacak ve türün neredeyse tamamını tüketecekti, tıpkı Slaanesh'in apotheozisinin Aeldari için yaptığı gibi.

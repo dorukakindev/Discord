@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/13/JudiciarMini.jpg/revi
 Heresy çağından kalma iki elli usta işi güç kılıçları; her biri isim, soyağacı ve yemin taşır. Kaybı, chapter için onur kaybıdır.
 
 ## Tarihçe
-Relic Blade, tek bir silah modeli değil, bir mirastır. Bu iki elli dev güç kılıçlarının çoğu Büyük Haçlı Seferi ve Horus Heresy çağından kalmadır; üretim teknikleri kısmen unutulduğu için her biri yeri doldurulamaz kabul edilir. Bir Relic Blade taşımak, chapterın tarihini taşımaktır: kılıcın üzerine işlenmiş isimler, onu taşırken düşen kahramanların listesidir. Kaybedilen bir emanet kılıç için chapterlar yüzyıllar süren intikam seferleri açmıştır.
+
+Relic Blade, Space Marines'in en değerli ve en güçlü kılıçlarından biridir — antika ve özel bir power sword'dur. Bu kılıç, standart power sword'dan daha büyük ve daha güçlüdür; tek vuruşta bir tankın zırhını bile kesebilecek kadar güçlüdür. Relic Blade, özellikle Chapter Master'ların ve İmparatorluk'un en büyük kahramanlarının kullandığı bir silahtır; bu kılıç, İmparatorluk'un en değerli ve en güçlü silahlarından biri olarak kabul edilir. Kılıç, Space Marines'in en değerli emanetlerinden biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

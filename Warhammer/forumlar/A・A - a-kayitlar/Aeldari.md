@@ -85,7 +85,7 @@ Bu üç toplum arasındaki ilişki düz bir düşmanlık değildir. Asuryani, Dr
 
 ## Tarihçe
 
-Aeldari (dışarıdan uzun süre Eldar olarak bilinenler), geniş bir imparatorluğu bir zamanlar galaksinin uçtan uca uzanan kadim ve son derece gelişmiş insansı xenos türüdür; zamanında eşi yoktu ama 'Fall' felaketiyle çöktü. Hayatta kalanları Asuryani (craftworld sakinleri), Drukhari, Exodite ve Harlequin olarak bölündü — 'sonbaharın
+Ynnari, Aeldari ırkının en yeni ve en radikal kesimidir; Ynnead — Aeldari'nin ölüm tanrısı — 'a adanmış ve hem Asuryani hem de Drukhari'yi birleştirmeye çalışan bir harekettir — onlar, Aeldari'nin en büyük umudu ve en büyük ihtilafıdır. Ynnari'nin en büyük özelliği, onların birleştiriciliğidir — onlar, hem Craftworld'lerden hem de
 
 ## Galaksideki Yeri ve Great Rift Sonrası
 

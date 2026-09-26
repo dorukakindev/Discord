@@ -16,7 +16,7 @@ Pulse teknolojisini çok namlulu bir yapıyla birleştirip kısa sürede yoğun 
 
 ## Tarihçe
 
-T'au battlesuit'lerinin en yaygın silahlarından biridir: XV8 Crisis battlesuit'leri ve XV25 Stealth battlesuit'leri burst cannon taşır. Devilfish nakliye araçlarında da standart silah olarak bilinir. Riptide gibi büyük battlesuit'lerin taşıdığı heavy burst cannon aynı ailenin ağır biçimidir.
+Burst Cannon, T'au İmparatorluğu'nun en yaygın ve en ölümcül ağır silahıdır — hızlı ateş eden bir toptur. Bu silah, T'au'nun en yaygın ağır silahıdır ve düşmanın en tehlikeli hedeflerini etkisiz hale getirir; tek atışta birkaç düşmanı etkisiz hale getirebilecek kadar güçlüdür. Burst Cannon, T'au'nun en yaygın ve en ölümcül ağır silahıdır; bu silah, T'au'nun en önemli ve en yaygın ağır silahıdır. Silah, T'au İmparatorluğu'nun en yaygın ve en ölümcül ağır silahı olarak kalır.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 

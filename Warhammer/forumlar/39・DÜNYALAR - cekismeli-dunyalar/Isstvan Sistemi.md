@@ -12,6 +12,6 @@ Isstvan Sistemi, Horus Heresy'nin gizli bir komplodan açık bir iç savaşa dö
 
 ## Tarihçe
 
-Isstvan III ve V — Heresy'nin iki kutsal yeri. III'te Horus kendi lejyonlarını temizledi virüs-bombasıyla; V'te Dropsite Massacre'le sekiz lejyonun sadakati test edildi. Heresy'nin kanıtlı başlangıcı.
+Isstvan Sistemi, Horus Heresy'nin en kritik iki olayının yaşandığı yerdir — İmparatorluk tarihinin en trajik sistemidir. Isstvan III'te Horus, kendi Legion'larındaki sadık üyeleri virüs bombalarıyla katletti; Isstvan V'te ise sadık Legion'lar — Iron Hands, Salamanders ve Raven Guard — hain Legion'lar tarafından Drop Site Katliamı'nda yok edildi. Isstvan V katliamında Ferrus Manus öldürüldü, Vulkan kayboldu ve Corax'ın Legion'u neredeyse tamamen yıkıldı. Sistem, İmparatorluk tarihinin en büyük ihanetlerinin yaşandığı yer olarak tarihe geçti ve Heresy'nin dönüm noktası oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

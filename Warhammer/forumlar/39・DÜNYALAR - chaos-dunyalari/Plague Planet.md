@@ -12,6 +12,6 @@ Mortarion, burada Nurgle'ın gözüne girdi; hastalıklar ve vebalarla yaptığ�
 
 ## Tarihçe
 
-Mortarion'un yeni diyarı; Nurgle'ın gövdesi gibi davranan gezegen. Her şey çürür, her şey yeniden doğar — ziyaret eden ya vebaya tutulur ya Nurgle'a döner.
+Plague Planet, Death Guard'ın ana dünyası ve Mortarion'un Daemon Primarch olarak hüküm sürdüğü yerdir — Nurgle'un Materyal Dünya'daki en büyük kalesidir. Gezegen, Nurgle'un vebasıyla kaplıdır ve Death Guard'ın operasyonlarının merkezi olarak hizmet verir; Plague Planet, Chaos'un İmparatorluk'a karşı yürüttüğü en büyük saldırıların başlangıç noktasıdır. Gezegen, Mortarion'un Plague Wars'ı yürüttüğü ve Guilliman'a karşı Ultramar'ı zehirlemeye çalıştığı yerdir; Plague Planet, Chaos'un İmparatorluk içindeki en güçlü varlıklarından biridir. Gezegen, Nurgle'un gücünün ve Death Guard'ın sadakatinin simgesi olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -11,7 +11,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/b/bc/Cadian_Regimentmal_Or
 - **Köken:** Cadia (yok edildi)
 
 ## Tarihçe
-Kasr dünyası Cadia'da her vatandaş askerdi; Cadian deseni Guard'ın standart kamuflaj ve teçhizat normu oldu. 13. Kara Haçlı Seferi'nde Cadia, Abaddon'un Blackstone'u yıktığında gezegen parçalandı ama milyonlarca Cadian kaçtı — 'The planet broke before the Guard did' sözü onların mirasıdır.
+
+Cadian Shock Troops, İmparatorluk Muhafızı'nın en ünlü ve en prestijli alaylarından biridir — Cadia gezegeninin elit birlikleridir. Cadia, Eye of Terror'un girişini kapatan kale gezegeniydi ve Cadianlar, İmparatorluk'un en iyi eğitilmiş ve en disiplinli askerleriydi; Cadia'nın düşüşünden sonra bile alaylar, İmparatorluk'un en prestijli birlikleri olarak kaldı. Cadian Shock Troops, İmparatorluk'un en kritik savunma operasyonlarında görev alır; alaylar, İmparatorluk Muhafızı'nın en ünlü ve en prestijli alayları olarak kalır.
 
 ## Özellikler
 Standart Cadian camo, Kasrkin seçkinleri, Kale Dünya doktrini: disiplin ve sağlam mevzi savunması.

@@ -18,4 +18,6 @@ Nurgle'un Plaguebearer'larının ve Plague Marine'lerin paslı, çentikli iblis 
 
 ## Tarihçe
 
-Plaguesword, Death Guard'ın en ünlü ve en tiksindirici kılıcıdır; onların Death Guard'ın en güçlü ve en ölümlü veba kılıcı olan ve onun en tehlikeli operasyonlarını yapan Plaguesword, Death Guard'ın en güçlü ve en ölümlü silahıdır — onlar, Death Guard'ın en ünlü ve en tiksindirici kılıcıdır. Plaguesword'ın en büyük özelliği, onun vebasıdır — onlar, Death Guard'ın en güçlü veba kılıcıdır ve onların varlığı, Death Guard'ın en büyük gücünün kanıtıdır; bir Plaguesword, hem bir silah hem de bir veba taşıyıcısıdır ve onların varlığı, Death Guard'ın en büyük silahının somut halidir. Plaguesword'ın en ünlü özelliği, onun veba taşımasıdır — onlar, Death Guard'ın en güçlü ve en ölümlü kılıcıdır ve onların varlığı, Death Guard'ın en büyük gücünün kanıtıdır. Plaguesword, Death Guard'ın en ünlü ve en t
+Bir Plaguesword'ün değeri metalinin kalitesinde değil, taşıdığı çürümenin zenginliğindedir. Bıçak boydan boya pas ve irinle kaplıdır; açtığı en küçük yara bile kurbanın dokusunu çürütmeye yeter. Plaguebearer sürüleri bu kılıçları Warp'tan madde âlemine taşır ve her savaşta Veba Tanrısı'nın "armağanlarını" dağıtır. Kadim Father of Blades'ler ise bin yıllardır yozlaşmayı yayan, neredeyse canlı sayılabilecek efsanevi türevlerdir.
+
+-# Kaynaklar: *Codex: Death Guard — 8th Edition*; *Deathwatch: Mark of the Xenos*; *Black Crusade: The Tome of Decay*; Lexicanum — "Plague Sword"

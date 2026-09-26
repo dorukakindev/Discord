@@ -19,4 +19,8 @@ Kinetik ve konvansiyonel silah ailesi — patlayıcı veya katı mermi kullanan,
 ## Not
 Mechanicus'un 'biyolojik varlık toplama' cephaneliğindendir; öldürmek yerine bozmak için tasarlanmıştır.
 
+
+## Tarihçe
+
+Arc Rifle, Adeptus Mechanicus'un en ölümcül silahlarından biridir — elektrik arkı kullanan bir tüfektir. Bu silah, hedefe elektrik arkı gönderir ve bu ark, zırhlı hedeflere karşı özellikle etkilidir; ayrıca elektronik sistemleri de etkisiz hale getirir. Arc Rifle, özellikle Skitarii ve Mechanicus'un elit birliklerinin tercihidir; çünkü bu silah, düşmanın en tehlikeli zırhlı hedeflerini etkisiz hale getirmek için tasarlanmıştır. Silah, Adeptus Mechanicus'un en ölümcül silahlarından biri olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -102,7 +102,7 @@ The Waning'in etkileri nihayetinde **Time of Ending** olarak bilinen geç M41'de
 
 ## Tarihçe
 
-Imperium of Man, 41. Binyıl'da Samanyolu'nu kapsayan devasa insan imparatorluğudur; yaşayan tanrı İmparat
+Imperium of Man, insanlığın yıldızlar arası imparatorluğu — bir milyon dünya, sayısız trilyon insan ve 'G
 
 İmparatorluk, galaksiyi beş Segmentum'a ayırır:
 

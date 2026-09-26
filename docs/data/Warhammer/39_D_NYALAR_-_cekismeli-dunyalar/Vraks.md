@@ -11,6 +11,6 @@ Kriz, gezegenin yöneticisi Kardinal Xaphan'ın İmparatorluk'a isyan edip Kaos'
 
 ## Tarihçe
 
-Renegade Savloların son kalesi; Death Korps'un 12 yıllık kuşatma cehennemi. İmparatorluk'un en uzun kuşatma savaşı — lojistik, çamur ve inat destanı.
+Vraks, İmparatorluk'un en trajik kuşatmalarından birinin yaşandığı cephane gezegenidir. Gezegenin yöneticisi Kardinal Xaphan'ın Chaos'a sapmasıyla, İmparatorluk milyonlarca askerin öldüğü yıllar süren bir kuşatma savaşı başlattı. Death Korps of Krieg'in önderliğindeki İmparatorluk kuvvetleri, siper savaşı tarzında yürütülen kuşatmada muazzam kayıplar verdi. Vraks sonunda geri alındı ama cephane rezervleri yok edildi ve gezegen kullanılamaz hale geldi; bu, İmparatorluk'un en pahalı zaferlerinden biri olarak tarihe geçti.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -84,4 +84,8 @@ Black Library tarafında *Helsreach*, Third War'u Steel Legion askerlerinin de i
 **Kaynaklar:** *Codex: Armageddon*; *Helsreach — Aaron Dembski-Bowden*; *Yarrick: Imperial Creed — David Annandale*; *Yarrick: The Pyres of Armageddon — David Annandale*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*; *Codex: Astra Militarum — 10th Edition*
 **Çapraz:** <#1551643990196232303>, sebastian-yarrick, ghazghkull-thraka, <#1551753458779029565>, <#1551812353157365862>, grimaldus, <#1551637696466788466>, <#1551759766966116383>
 
+## Tarihçe
+
+Armageddon Steel Legion, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biridir — Armageddon gezegeninin mekanize piyade birlikleridir. Armageddon, üç büyük Ork savaşının yaşandığı İmparatorluk'un en kritik Hive W
+
 ​

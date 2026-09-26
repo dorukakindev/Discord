@@ -16,6 +16,4 @@ Badab Savaşı'nın jeopolitiğini de Maelstrom yazdı: Huron Blackheart'ın 'Ty
 
 ## Tarihçe
 
-The Maelstrom, Eye of Terror'ın küçük kuzeni olan devasa Warp fırtınası bölgesidir; Ultima Segmentum'da yıllardır açık bir yara. İçinde daemon dünyaları, Chaos kolonileri ve kayıp medeniyetler saklar — Jaghatai Khan'ın kaybolduğu bölge.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Maelstrom, Eye of Terror'dan sonraki en büyük Warp fırtına bölgesidir — Chaos'un İmparatorluk içindeki ikinci büyük kalesidir. Bölge, sürekli Warp fırtınalarıyla kaplıdır ve Chaos'un en tehlikeli warband'lerinin — Red Corsairs dahil — evidir; Maelstrom, İmparatorluk'un Chaos'a karşı savunmasının en zorlu bölgelerinden biridir. Badab Sa

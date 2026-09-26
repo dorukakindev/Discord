@@ -16,4 +16,4 @@ Kantor'un savaş tarzı 'dirençli kılıç' olarak tanımlanır: savunmadan hü
 
 ## Tarihçe
 
-Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluğun en cesur ve en kararlı komutanlarından biridir; onların Chapter'ı Ork Waaagh!'ı tarafından neredeyse yok edildikten sonra onu yeniden kuran ve İmparatorluğun en dirençli savaşçılarından biri olan Kantor, İmparatorluğun en büyük direnişinin simgesidir — onlar, Crimson Fists'in en ünlü ve en onurlu lideridir. Pedro Kantor'un en büyük özelliği, onun direnişi
+Pedro Kantor, Crimson Fists'in Chapter Master'ı ve İmparatorluk'un en trajik liderlerinden biridir — Rynn's World'ün savunmasının kahramanıdır. Kantor, Rynn's World'ün Ork istilası sırasında Chapter'ının büyük kısmını kaybetti; ancak hayatta kalanlarla birlikte Crimson Fists'i yeniden kurdu ve Chapter'ı İmparatorluk'un en önemli güçlerinden biri haline getirdi. Kantor, Crimson Fists'in en efsanevi ve en trajik lideridir

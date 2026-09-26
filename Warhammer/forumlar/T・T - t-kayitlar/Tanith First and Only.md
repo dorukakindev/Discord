@@ -61,6 +61,10 @@ Romanlarda, Slaydo'nun Gaunt'a ve alayına sefer bittiğinde Sabbat Worlds'te ye
 
 Alayın içindeki ilişkiler de bu yasla şekillenir. Rawne'un düşmanlıktan sadakate uzanan yolu, Verghastite'lerle Tanith'lilerin zorlu kaynaşması, Hark'ın denetçilikten dostluğa geçişi ve Gaunt'un askerlerine duyduğu sorumluluk, alayı bir askerî birlikten çok, savaşın içinde kurulmuş bir aileye dönüştürür. Ghosts'u Imperium'un gözünde değerli kılan becerileri olabilir; okurun gözünde değerli kılan ise bu insan bağlarıdır.
 
+## Tarihçe
+
+Tanith First and Only, İmparatorluk Muhafızı'nın en efsanevi ve en trajik alayıdır — Gaunt's Ghosts olarak da bilinir. Alay, Tanith gezegeninin Chaos tarafından yok edilmesinden önce kurtarılan tek birliği oluşturur; Colonel-Commissar Ibram Gaunt komutasında, Tanith'in hayatta kalan tek alayı olarak Sabbat Dünyaları
+
 Dizinin bu satırlar derlenirken bilinen son kitapları Urdesh çevresinde yoğunlaşır. Seferin sonu gibi alayın nihai akıbeti de bu kitaplarda henüz kapanmış değildir; yeni ciltler için güncel Black Library yayınlarına bakılmalıdır.
 ---MSG---
 ## Bilinen Yanılgılar ve SSS

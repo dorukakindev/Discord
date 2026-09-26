@@ -16,6 +16,4 @@ Ulthwé'nin ünü, Eldrad Ulthran gibi efsanevi farseer'lerden ve Craftworld'ün
 
 ## Tarihçe
 
-Ulthwé ('Ulthwé'nin Lagünü'), Farseer'ların en güçlü olduğu Aeldari craftworld'üdür; Eldrad Ulthran'ın evi. Eye of Terror'ın yakınında konumlanıp Chaos'a karşı en ön safta durur — 'gözle görülen geleceğin şehri'.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Ulthwé, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Eye of Terror'a olan yakınlığıyla — 'the Damned' olarak bilinen — ve onun psişik gücüyle bilinen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en psişik evidir. Ulthwé'nin en büyük özelliği, onun psişik gücüdür — onlar, Aeldari'nin en güçlü psyker'larını yetiştirir ve

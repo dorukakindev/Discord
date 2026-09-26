@@ -12,6 +12,7 @@ Kurnazlığı tartışmasızdır; silahsızken bile chapter'ın en "kirli" döv�
 
 ## Tarihçe
 
-Lukas the Trickster, Space Wolves'un en ünlü ve en komik üyesidir; 'Russ'ın sarayının soytarısı' olarak bilinen ve gelenekleri sorgulayan en cesur savaşçı olan Lukas, Space Wolves'un en ünlü ve en komik üyesidir — onlar, Space Wolves'un en ünlü ve en komik üyesidir. Lukas'ın en büyük özelliği, onun zekasıdır — onlar, gelenekleri sorgulayan ve onları değiştiren en cesur savaşçıdır ve onların varlığı, Space Wolves'un en büyük cesaretinin kanıtıdır; bir Lukas, hem bir savaşçı hem de bir filozofdur ve onların savaşı, hem fiziksel hem de zihinsel bir mücadeledir. Lukas'ın en ünlü özelliği, onun 'Trickster' lakabıdır — onlar, Space Wolves'un en zeki ve en komik üyesidir ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır. Lukas the Trickster, Space Wolves'un en ünlü ve en komik üyesidir — onlar, bir zekanın ve Space Wolves'un en büyük cesaretinin somut halidir.
+Lukas the Trickster, Space Wolves'un en ünlü ve en komik figürlerinden biridir — 'Trickster' olarak bilinen ve Space Wolves'un en ünlü şakacısıdır. Lukas, Space Wolves'un en ünlü ve en komik figürüdür; onun şakaları ve savaş yetenekleri, Space Wolves'un en ünlü ve en komik figürlerinin simgesidir. Lukas the Trickster, Space Wolves'un en ünlü ve en komik figürü olarak kalır — onun hikâyesi, Space Wolves'un en ünlü ve en komik figürlerinden biridir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

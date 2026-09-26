@@ -18,6 +18,6 @@ Efsanevi mortal Eldar kahramanı; Khaine'le savaşıp kaybeden, Aeldari mitoloji
 
 ## Tarihçe
 
-Eldanesh, Aeldari mitolojisinin en büyük ölümlü kahramanıdır: tanrı Khaine'le savaşıp kaybeden tek varlık. Destanlarda onun yenilgisi, Aeldari'nin tanrılara meydan okuyabildiği son çağın bitişidir. Bugünkü halkın kaybettiği kahramanlık çağının simgesi olarak anılır.
+Eldanesh, Eldar mitolojisinin ilk ve en büyük kahramanı — Asuryan tarafından yaratılan ilk mortal Eldar ve Phoenix Lord kavramının atasıdır. Khaine'le girdiği düelloyu kaybettikten sonra ölen Eldanesh, ruhunun Infinity Circuit'e alınmasıyla 'ilk ruh taşı' olur — bu gelenek tüm Eldar medeniyetinin temelidir. Aeldari'nin ölümsüz ama 'kapana kısılmış' doğasının başlangıcı; Eldanesh'in ölümü, Khaine'e Asuryan tarafından verilen 'Kaela Mensha' (kanlı el) cezasını tetikler ve tanrılarla faniler arasındaki perdeyi ayırır.
 
 -# Kaynaklar: *Codex: Aeldari*; Warhammer 40,000 — Lexicanum derlemesi

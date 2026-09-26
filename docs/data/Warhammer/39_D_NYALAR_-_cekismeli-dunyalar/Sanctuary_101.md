@@ -10,6 +10,6 @@ Sanctuary 101, 40K tarihinin en kritik dönüm noktalarından birine, İmparator
 
 ## Tarihçe
 
-Inquisition araştırma postası; Sisters of Silence'ın eski üslerinden. Sisters'ın tarihsel izlerinden biri — 'sessiz kadınlar'ın arşivlerinin kalıntısı.
+Sanctuary 101, İmparatorluk'un Necron'larla ilk temasını yaşadığı yerdir — bir Adepta Sororitas üssüydü. Necron'lar Sanctuary 101'e saldırdığında, üste bulunan Sisters of Battle'ın tamamı katledildi; bu, İmparatorluk'un Necron tehdidiyle ilk doğrudan karşılaşmasıydı. Olay, Inquisition tarafından gizli tutuldu ve Necron'ların varlığı uzun süre İmparatorluk'un en gizli sırlarından biri olarak kaldı. Sanctuary 101'in düşüşü, Necron'ların uyanışının ve İmparatorluk'a yönelik yeni bir antik tehdidin doğuşunun ilk işaretiydi.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

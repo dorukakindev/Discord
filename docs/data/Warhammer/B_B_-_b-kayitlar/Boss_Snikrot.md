@@ -10,7 +10,7 @@ Ork toplumunda **Kommando**'lar azınlıktır. Çoğu Ork için savaşın anlam�
 
 ## Tarihçe
 
-Boss Snikrot, Ork Kommando'larının en ünlü lideridir — 'gizli Ork' paradoksunu yaşayan figür olarak kamuflaj ve pusuda ustadır. 'Mork'un gölgesi' olarak düşman hatlarının arkasına sızan bu boss, Ork'un 'gürültülü' doğasına aykırı ama ölümcül etkili 'sessiz katil' arketipidir.
+Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür — 'Blood Axes' lideridir. Bu figür, Ork'ların en gizli ve en tehlikeli figürüdür; Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür. Bu figür, Ork'ların en gizli ve en tehlikeli figürüdür; Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür. Figür, Ork'ların en gizli ve en tehlikeli figürü olarak kalır.
 
 ## Armageddon Ormanlarında
 Snikrot'un efsanesi, Armageddon'un iki kıtası arasında uzanan balta girmemiş ormanlarda biçimlenir. Second War for Armageddon'da Ghazghkull'un Waaagh!'ı kırılıp Warboss gezegenden kaçtığında, Ork kuvvetlerinin tamamı onunla gitmedi; ormanlarda kalan kabileler ve onların yoğun bitki örtüsünde çoğalan yeni kuşaklar, Imperial otoritenin hiçbir zaman tam olarak temizleyemediği bir yeşil sınır oluşturdu. Kaynakların çizdiği tabloya göre Snikrot, bu yarım kalmış savaşın gölgesinde öne çıktı ve Kommando'larını orman savaşına uyarlayarak uzun soluklu bir yıpratma ve korku savaşı yürüttü. Kişisel kökenine dair ayrıntılar yayınlar arasında aynı ölçüde anlatılmaz.

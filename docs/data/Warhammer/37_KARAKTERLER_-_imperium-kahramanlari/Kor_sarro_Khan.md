@@ -14,4 +14,4 @@ Khan'ın 'Moondrakkan' adlı kişisel bisikleti ve kılıç 'Moonfang', Chapter'
 
 ## Tarihçe
 
-Kor'sarro Khan, White Scars'ın en ünlü ve en cesur Master of the Hunt'ıdır; onların en büyük avcı ve en cesur komutan olan Kor'sarro, İmparatorluğun en saygın ve en ölümcül Space Marine'lerinden biridir — onlar, White Scars'ın en ünlü ve en cesur üyesidir. Kor'sarro Khan'ın en büyük özelliği, onun avcılığıdır — onlar, White Scars'ın en büyük avcısıdır ve onların varlığı, White Scars'ın en büyük gücünün kanıtıdır; bir Kor'sarro komutası, bir avın en kritik anının en büyük avantajıdır ve
+Kor'sarro Khan, White Scars'ın en ünlü ve en tehlikeli figürlerinden biridir — Third Company'nin kaptanı ve 'Moondrakkan' olarak bilinen figürdür. Kor'sarro Khan, White Scars'ın en ünlü ve en tehlikeli figürüdür; onun savaş yetenekleri ve liderliği, White Scars'ın en önemli ve en tehlikeli güçlerinden biridir. Kor'sarro Khan, White Scars'ın en ünlü ve en tehlikeli figürü olarak kalır — onun yetenekleri, White Scars'ın en önemli ve en tehlikeli güçlerinin simgesidir.

@@ -8,6 +8,7 @@ Perils of the Warp (Warp Tehlikeleri), her psyker'ın gücünü kullanırken sü
 
 ## Tarihçe
 
-Perils of the Warp, Immaterium'dan enerji çeken psyker'ların her kullanımında taşıdığı tehlikenin genel adıdır; daemonik müdahale, ruhsal patlama veya yaratığın psyker'i yutması gibi sonuçlar doğurabilir. İmparatorluk'ta psyker'ların hem değerli hem de korkulan olmasının sebebi budur.
+Perils of the Warp, İmparatorluk'un en tehlikeli ve en korkulan fenomenlerinden biridir — Warp'in psyker'lara yaptığı tehlikeli etkilerdir. Perils of the Warp, psyker'ların Warp'i kullanırken karşılaştığı tehlikelerdir; bu fenomen, psyker'ların en büyük korkusunun ve en büyük tehlikesinin kaynağıdır. Perils of the Warp, İmparatorluk'un en tehlikeli ve en korkulan fenomenlerinden biridir; bu fenomen, İmparatorluk'un psyker gücünün en büyük tehlikesidir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,7 +16,8 @@ Snikrot, Armageddon'un balta girmemiş ormanlarında gölge gibi dolaşan Komman
 
 ## Tarihçe
 
-Boss Snikrot, Ork Kommando'larının en ünlü lideridir — 'gizli Ork' paradoksunu yaşayan figür olarak kamuflaj ve pusuda ustadır. 'Mork'un gölgesi' olarak düşman hatlarının arkasına sızan bu boss, Ork'un 'gürültülü' doğasına aykırı ama ölümcül etkili 'sessiz katil' arketipidir.
+Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür — 'Blood Axes' lideridir. Bu figür, Ork'ların en gizli ve en tehlikeli figürüdür; Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür. Bu figür, Ork'ların en gizli ve en tehlikeli figürüdür; Boss Snikrot, Ork'ların en gizli ve en tehlikeli figürüdür. Figür, Ork'ların en gizli ve en tehlikeli figürü olarak kalır.
+
 
 -# Kaynaklar: *Codex: Orks*
 

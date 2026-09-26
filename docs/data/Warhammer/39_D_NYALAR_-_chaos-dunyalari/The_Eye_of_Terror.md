@@ -16,6 +16,4 @@ Eye of Terror sadece kaos üssü değildir — içinde 'daemon world'ler (kanunl
 
 ## Tarihçe
 
-Galaksinin en büyük Warp yarası; Chaos'un İmparatorluk'a açılan kapısı. Cadia onun ağzında durdu yüzyıllarca — düştüğünde kapı açıldı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Eye of Terror, galaksinin en büyük Warp fırtınası ve Chaos'un İmparatorluk içindeki ana kalesidir — gerçekliğin tamamen çözüldüğü bir bölgedir. Eye of Terror, Aeldari'nin Düşüşü sırasında açıldı ve Chaos tanrılarının Materyal Dünya'ya en kolay erişim noktası ha

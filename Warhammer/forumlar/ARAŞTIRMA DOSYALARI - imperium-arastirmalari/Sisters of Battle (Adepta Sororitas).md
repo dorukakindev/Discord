@@ -216,6 +216,10 @@ Savaşta, Sisters of Battle'ın **alevin arındırıcı etkilerine** karşı bel
 
 ## Çapraz Referanslar
 
+## Tarihçe
+
+Adepta Sororitas, 'Sisters of Battle' — Ecclesiarchy'nin silahlı kadın kolu ve İmparatorluk'un 'kızıl rahibe' gücü; Vandire'in
+
 - **Adepta Sororitas** — Tam organizasyon.
 - **Sisters of Battle** — Militant şube.
 - **Ecclesiarchy** — Bağlı kurum.

@@ -9,6 +9,6 @@ Trazyn, ölümsüz varlığının milyonlarca yıllık can sıkıntısını kole
 
 ## Tarihçe
 
-Trazyn'in Tomb Dünyası; koleksiyoncu Necron'un müze-gezegeni. Galaksinin tarihini cansız ama mükemmel halde saklar — İmparatorluk'un bilinmeyen en büyük arşivi.
+Solemnace, Necron'ların en gizli ve en önemli dünyalarından biridir — Trazyn the Infinite'in müze-gezegenidir. Trazyn, Necron'ların en ünlü koleksiyoncusu olarak bilinir ve Solemnace'de İmparatorluk'un ve galaksinin en değerli objelerini ve varlıklarını 'korur'; gezegen, İmparatorluk'un en gizli ve en değerli objelerinin bulunduğu yerdir. Solemnace, Necron'ların en gizli sırlarının ve en değerli koleksiyonlarının merkezidir; Trazyn'ın koleksiyonu, İmparatorluk tarihinin en önemli figürlerini ve objelerini içerir. Gezegen, Necron'ların en gizli ve en değerli dünyası olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

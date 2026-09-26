@@ -40,6 +40,10 @@ Topçu, bu geleneğin kalbinde durur. Ciaphas Cain'in anılarında ilk görev ye
 
 Soğuk iklim savaşı, Valhallalıların en belirgin uzmanlığıdır. Donmuş dünyalarda, kar fırtınalarında ve buzul çöllerinde başka alayların araçları çalışmaz, askerleri donarken Valhallalılar hareket etmeyi, ikmal hatlarını korumayı ve siper kazmayı sürdürebilir. Bu yüzden Munitorum'un soğuk bir cephe için Valhallan alayı seçmesi, Imperium'un nadir mantıklı eşleştirmelerinden biri sayılabilir.
 
+## Tarihçe
+
+Valhallan Ice Warriors, İmparatorluk Muhafızı'nın en ünlü ve en sert alaylarından biridir — Valhalla gezegeninin buzlu çorak topraklarından gelen askerlerdir. Valhallanlar, İmparatorluk'un en zorlu iklim koşullarında savaşmaya alışmış birliklerdir; özellikle Ork'lara
+
 Yine de bu uzmanlık bir sınır değildir. Valhallan alayları galaksinin her iklimine gönderilir; sıcak ve kurak dünyalarda savaşan Valhallalıların yaşadığı güçlükler, hem Imperial kayıtlarda hem de Black Library anlatılarında tekrar eden bir motiftir.
 ---MSG---
 ## Önemli Figürler ve Alaylar

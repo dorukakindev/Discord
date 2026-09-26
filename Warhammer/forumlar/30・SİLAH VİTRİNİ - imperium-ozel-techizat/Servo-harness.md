@@ -19,4 +19,8 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 ## Not
 Bir Tech-Priest'in 'ikinci omurga'sıdır — tamir, savaş ve ritüelin aynı anda yürütülmesini sağlayan aparat demetidir.
 
+
+## Tarihçe
+
+Servo-harness, Adeptus Mechanicus'un Tech-Priest'lerinin kullandığı en önemli cihazdır — mekanik kollar ve araçlarla donatılmış bir sırt çantasıdır. Bu cihaz, Tech-Priest'in çeşitli görevleri yerine getirmesine yardımcı olur; mekanik kollar, Tech-Priest'in daha fazla iş yapmasına ve daha fazla araç kullanmasına olanak tanır. Servo-harness, Tech-Priest'lerin standart donanımıdır ve Adeptus Mechanicus'un en önemli cihazlarından biri olarak kabul edilir; bu cihaz, Tech-Priest'in Mechanicus'un görevlerini yerine getirmesinin en kritik aracıdır. Cihaz, Adeptus Mechanicus'un en değerli ve en önemli cihazı olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

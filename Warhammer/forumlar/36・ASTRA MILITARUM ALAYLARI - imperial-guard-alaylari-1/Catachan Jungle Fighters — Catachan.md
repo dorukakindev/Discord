@@ -16,7 +16,7 @@ Pusu, sızma ve hayatta kalma savaşının ustaları olarak tanınan alay gelene
 
 ## Tarihçe
 
-Catachan alayları galaksinin en zorlu orman ve death world cephelerinde, özellikle ağır arazinin düşmanı yavaşlattığı savaşlarda görevlendirilir. Tyranid'lere, Ork'lara ve diğer düşmanlara karşı verdikleri savaşlar, küçük birliklerle yürütülen vur-kaç harekâtları ve tuzak savaşı üzerinden anlatılır.
+Catachan Jungle Fighters, İmparatorluk Muhafızı'nın en vahşi ve en ünlü alaylarından biridir — Catachan gezegeninin ölümcül ormanlarından gelen askerlerdir. Catachan, galaksinin en tehlikeli gezegenlerinden biridir; gezegenin florası ve faunası, insanları öldürmek için evrimleşmiştir ve Catachan'lılar, bu ortamda hayatta kalan en sert askerlerdir. Catachan Jungle Fighters, yakın dövüş ve orman savaşında efsanevidir; alaylar, İmparatorluk'un en vahşi ve en ölümcül birliklerinden biridir. Alaylar, İmparatorluk Muhafızı'nın en vahşi ve en ünlü alaylarından biri olarak kalır.
 
 -# Kaynaklar: *Codex: Astra Militarum*; *Codex: Imperial Guard*
 

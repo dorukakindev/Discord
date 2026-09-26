@@ -12,6 +12,6 @@ Gezegenin kökeni, Prospero'nun yakılışına dayanır. Space Wolves Thousand S
 
 ## Tarihçe
 
-Magnus'un Daemon World'ü; Tzeentch'in mükemmel labirenti. Sürekli değişen coğrafya — Thousand Sons'un yeni evi, büyü ve yalanın gezegeni.
+Sortiarius, Thousand Sons'ın ana dünyası ve Magnus the Red'in Daemon Primarch olarak hüküm sürdüğü yerdir — Tzeentch'in Materyal Dünya'daki en büyük kalesidir. Gezegen, Prospero'nun yok edilmesinden sonra Thousand Sons'un yeni evi oldu; Sortiarius, sorcery ve Chaos bilgisinin merkezi olarak hizmet verir. Gezegen, sürekli değişen yapısı ve Warp fenomenleriyle bilinir; Tzeentch'in etkisi, gezegenin fiziksel gerçekliğini sürekli yeniden şekillendirir. Sortiarius, Thousand Sons'un Chaos'a olan bağlılığının ve Magnus'un gücünün simgesi olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

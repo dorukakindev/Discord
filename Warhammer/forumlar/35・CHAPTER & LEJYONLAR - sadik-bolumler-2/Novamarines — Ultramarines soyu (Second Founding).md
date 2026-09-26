@@ -15,7 +15,7 @@ Codex Astartes'i neredeyse bir yaşam yasası sayan katı Codex Chapter'ı. İlk
 
 ## Tarihçe
 
-Badab War'da iki company ile sıkışan Chapter'lara destek veren seyyar bir kuvvet olarak savaştı; ardından Honourum'a yönelen Ork istilası üzerine çekildi. Great Rift'in açılmasının ardından Ultramar'ın Shield Chapter'ları arasında sayılan Chapter, Plague Wars'ta Galatan yıldız kalesini savunurken Chapter Master Bardan Dovaro dahil ağır kayıplar verdi.
+Novamarines, Ultramarines'in soyundan gelen bir Space Marine Chapter'ıdır — Second Founding döneminde kurulmuş bir Chapter'dır. Novamarines, İmparatorluk'un en sadık ve en güvenilir Chapter'larından biridir; Chapter, İmparatorluk'un en önemli operasyonlarında görev alır. Novamarines, Ultramarines'in en sadık ve en güvenilir varislerinden biri olarak kalır; Chapter, İmparatorluk'un en önemli askeri varlıklarından biridir.
 
 ## Teknik / Biyolojik Özellikler
 

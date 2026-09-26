@@ -16,6 +16,6 @@ Lugganath, Harlequin'lerle en içli dışlı craftworld'dür — Cegorach'ın da
 
 ## Tarihçe
 
-Lugganath, Harlequin'lerle en içli dışlı craftworld'dür — Cegorach'ın dansçıları burada kendi evlerindeki gibi dolaşır. Halkı savaşı bir oyun ciddiyetiyle sürdürür; kayıtlarda 'perili ama neşeli' dünya olarak geçer. Webway'deki gizli yolları en iyi bilenler arasındadır.
+Lugganath, Aeldari'nin en bilinen craftworld'lerinden biridir — Büyük Yarık'ın açılmasından sonra Chaos'a karşı aktif savaş yürüten bir Aeldari şehir-gemisidir. Lugganath, psyker gücü ve seer'leriyle ünlüdür; craftworld'ün Farseer'leri, İmparatorluk ve diğer güçlerle karmaşık diplomatik ilişkiler yürütür. Craftworld, Aeldari'nin Düşüş'ten kurtulanların yaşadığı büyük gemi-şehirlerden biridir ve Infinity Circuit'i — ölü Aeldari'lerin ruhlarının saklandığı kristal yapı — barındırır. Lugganath, Aeldari'nin hayatta kalma mücadelesinin ve Chaos'a karşı direnişinin simgesi olarak kalır.
 
 -# Kaynaklar: *Codex: Aeldari / Harlequins*

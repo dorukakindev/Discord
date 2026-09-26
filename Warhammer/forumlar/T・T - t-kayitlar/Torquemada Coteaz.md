@@ -33,7 +33,7 @@ Bu ağın bir sonucu, Coteaz'ın düşmanlarını çoğu zaman onlar harekete ge
 
 ## Tarihçe
 
-Torquemada Coteaz, Inquisition'ın en ünlü ve en korkulan üyesidir; Ordo Malleus'un en deneyimli Inquisitor'u olan ve devasa bir psişik kartal taşıyan Coteaz, İmparatorluğun en gizli ve en tehlikeli koruyucusudur — onlar, İmparatorluğun en ünlü ve en korkulan Inquisitor'udur. Coteaz'ın en büyük özelliği, onun psişik kartalıdır — onlar, bir psişik varlık taşıyan ve onunla daemon'ları avlayan en gizli Inquisitor'dur ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Coteaz, hem bir Inquisit
+Torquemada Coteaz, Inquisition'ın en ünlü ve en tehlikeli figürlerinden biridir — Ordo Malleus'un en önemli figürüdür. Coteaz, Inquisition'ın en ünlü ve en tehlikeli figürlerinden biridir; onun daemon avcılığı ve Chaos'a karşı mücadelesi, İmparatorluk'un en önemli ve en tehlikeli operasyonlarının kaynağıdır. Torquemada Coteaz, Inquisition'ın en ünlü ve en tehlikeli figürü olarak kalır — onun mücadelesi, İmparatorluk'un Chaos'a karşı mücadelesinin en kritik aracıdır.
 
 Ağın kendisi de Coteaz'ın dünya görüşünün bir yansımasıdır. Kimseye güvenmeyen bir adam, herkesin ne yaptığını bilmek zorundadır. Ağ onu hem güçlü hem de tehlikeli kılar: böyle bir ağı yönetebilen biri, Inquisition'ın kendi içinde de korkulan bir figür hâline gelir. Ağın ölçeği, üyelerinin sayısı ya da örgütlenme biçimi yayımlanmış kaynaklarda sayısal bir ayrıntıyla verilmez; arşiv burada bir rakam üretmez.
 ---MSG---

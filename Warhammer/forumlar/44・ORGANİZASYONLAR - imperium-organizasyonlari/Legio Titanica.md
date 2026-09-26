@@ -12,6 +12,6 @@ Titanlar, gökdelen boyutunda yürüyen savaş makineleridir; en küçük avcı 
 
 ## Tarihçe
 
-Collegia Titanica (Legio Titanica), Adeptus Mechanicus'un Titan lejyonlarını yöneten askeri teşkilatıdır; tüm sadık Titan lejyonları ona bağlıdır. 'Tanrı-makineleri' sahaya süren bu kurum, İmparatorluk'un en ağır kara gücünün yönetim merkezidir.
+Legio Titanica, İmparatorluk'un en büyük ve en güçlü savaş makinelerini yöneten organizasyondur — Titan'ları kontrol eden kurumdur. Legio Titanica, İmparatorluk'un en büyük ve en ölümcül savaş makinelerini — Titan'ları — yönetir; organizasyon, İmparatorluk'un en güçlü ve en ölümcül askeri gücüdür. Legio Titanica, İmparatorluk'un en büyük ve en güçlü savaş makinelerini yöneten organizasyondur; kurum, İmparatorluk'un en önemli ve en güçlü kurumlarından biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

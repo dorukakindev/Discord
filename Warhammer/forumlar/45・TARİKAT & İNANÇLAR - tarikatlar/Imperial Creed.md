@@ -14,6 +14,4 @@ Creed'in gücü, İmparatorluk'un sosyal tutkalıdır: pazar günleri, vaazlar, 
 
 ## Tarihçe
 
-Imperial Creed (Imperial Cult), İmparator'u tanrı sayan İmparatorluk resmî inancıdır; Ministorum tarafından yönetilir ve 'Sadakat Ölümü Ödüllendirir' gibi doktrinlerle milyarları bir arada tutar. İmparatorluk'un hem birleştirici hem en karanlık dogmasıdır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Imperial Creed, Age of Apostasy sonrası Sebastian Thor tarafından yeniden düzenlenen resmi İmparatorluk dini — 'İmparator tanrı-insan'dır doktrini. Ecclesiarchy'nin ortodoksluğu, Adepta Sororitas'ın 'bride' geleneği ve Confessor'ların vaaz ağı bu doktrinin taşıyıcılarıdır. Heresy döneminin Imperial Truth'unun tam zıddı: İmparator'un sessizliği 'ilahiliğinin' kanıtı sayılır. Plague of Unbelief ve Cardinal Bucharis'in isyanı bu dok

@@ -16,7 +16,7 @@ Colonel-Commissar Ibram Gaunt komutasında Sabbat Worlds Crusade boyunca savaşa
 
 ## Tarihçe
 
-Tanith'in düşüşünden yalnızca alaya katılanlar kurtulabildi; Gaunt bu kalıntıyı Sabbat Worlds Crusade'in cephelerinde bir gizlilik alayına dönüştürdü. Seferin ilerleyen yıllarında başka dünyalardan katılan askerler, özellikle Verghast kökenli gönüllüler, alaya eklendi. Dan Abnett'in *Gaunt's Ghosts* serisi alayın uzun soluklu hikâyesini anlatır.
+Tanith First and Only, İmparatorluk Muhafızı'nın en efsanevi ve en trajik alayıdır — Gaunt's Ghosts olarak da bilinir. Alay, Tanith gezegeninin Chaos tarafından yok edilmesinden önce kurtarılan tek birliği oluşturur; Colonel-Commissar Ibram Gaunt komutasında, Tanith'in hayatta kalan tek alayı olarak Sabbat Dünyaları Haçlı Seferi'nde savaşır. Tanith First and Only, orman savaşı ve keşif operasyonlarında efsanevidir; alayın 'Ghosts' lakabı, hem kayıp evlerinin hem de gizli operasyon yeteneklerinin simgesidir. Alay, İmparatorluk Muhafızı'nın en ünlü ve en sevilen birliği olarak kalır.
 
 -# Kaynaklar: *First and Only — Dan Abnett*; *Necropolis — Dan Abnett*
 

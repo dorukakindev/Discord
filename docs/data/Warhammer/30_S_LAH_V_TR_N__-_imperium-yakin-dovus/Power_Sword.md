@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3b/Ingelldina-Pattern_BA
 Enerji alanı kaplı klasik güç kılıcı; zırhı moleküler düzeyde keser. İmparatorlukta rütbe ve onurun simgesidir.
 
 ## Tarihçe
-Power Sword, güç silahlarının en zarif ve en yaygın olanıdır. Etkinleştirildiğinde kılıcın ağzını saran enerji alanı, temas ettiği maddenin moleküler bağlarını bozar; seramit zırh bile temiz bir çizgiyle ayrılır. İmparatorluk kültüründe kılıç, rütbenin ve onurun simgesidir: Space Marine kaptanlarından Muhafız subaylarına ve Inquisitor'lara kadar komuta eden herkesin belinde bir güç kılıcı görülür. Düello geleneği olan chapterlarda bu kılıçlar kuşaktan kuşağa aktarılır.
+
+Power Sword, Space Marines'in en yaygın güçlü silahıdır — enerji alanıyla çevrili bir kılıçtır. Bu silah, enerji alanı sayesinde zırhı kesebilir ve tek vuruşta bir Space Marine'in zırhını bile delebilecek kadar güçlüdür; yakın mesafe çatışmalarda son derece etkilidir. Power Sword, özellikle Space Marines'in subaylarının ve İmparatorluk'un en elit birliklerinin tercihidir; bu silah, İmparatorluk'un en yaygın ve en ölümcül güçlü silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

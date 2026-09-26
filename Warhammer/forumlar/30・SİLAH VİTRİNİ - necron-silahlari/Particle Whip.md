@@ -18,7 +18,7 @@ Monolith'in güç matriks kristalinden boşalan devasa silah; minicik karşı-ma
 
 ## Tarihçe
 
-Ateşlenmek üzereyken Monolith, yabancı enerjilerini kristale kanalize eder ve karşı-madde yıldırımlarının harap edici yaylarını salar. Basit bir gereklilikle çalışan mutlak ölümdür bu: alan yeter ki beslensin, gerisi fiziğin kendisine bırakılır. Necron'un "güvenilir dehşet" ilkesinin en açık örneği — ve yaşayan madde ile canlı metal arasındaki uçurumun kanıtıdır: aynı patlama düşmanı buharlaştırırken Ne
+Particle Whip, Necron'ların en ölümcül ve en gelişmiş silahıdır — parçacık enerjisi kullanan bir kırbaç'tır. Bu silah, hedefe yoğun bir parçacık enerjisi gönderir; tek vuruşta bir tankın zırhını bile delebilecek kadar güçlüdür. Particle Whip, Necron'ların en ölümcül ve en gelişmiş silahıdır; bu silah, Necron'ların en önemli ve en gelişmiş silahıdır. Silah, Necron'ların en ölümcül ve en gelişmiş silahı olarak
 
 cron piyadesine hiç dokunmaz.
 

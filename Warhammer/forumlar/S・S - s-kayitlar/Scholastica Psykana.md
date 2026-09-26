@@ -18,6 +18,6 @@ Astropath ve Sanctioned Psyker yetiştiren İmparatorluk kurumu; Black Ships'ten
 
 ## Tarihçe
 
-Scholastica Psykana, Adeptus Astra Telepathica'nın eğitim koludur: Kara Gemiler her dünyadan psyker toplar ve Terra'ya getirir; Scholastica onları ayıklar — Astropath, Inquisition eli, Ordo Tempestus ya da Golden Throne'a kurban. İmparatorluk'un psişik omurgası buradan geçer; 'sanctioned' damgası hem izin hem tescildir.
+Scholastica Psykana, İmparatorluk'un en önemli ve en gizli eğitim kurumlarından biridir — psyker'ları eğiten ve kontrol eden kurumdur. Scholastica Psykana, İmparatorluk'un psyker'larını bulur, eğitir ve kontrol eder; organizasyon, İmparatorluk'un en önemli ve en gizli kurumlarından biridir. Scholastica Psykana, İmparatorluk'un en önemli ve en gizli eğitim kurumlarından biridir; kurum, İmparatorluk'un psyker gücünün en kritik aracıdır.
 
 -# Kaynaklar: *Codex: Imperium* kaynakları; Warhammer 40,000 — Lexicanum derlemesi

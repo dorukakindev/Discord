@@ -116,6 +116,10 @@ Kin teknolojisi İmparatorluk'tan neredeyse her zaman açık bir üstünlüktür
 
 **Chaos bile onların bölgesinden kaçınır.**
 
+## Tarihçe
+
+Leagues of Votann, WH40K evreninin en eski ve en gizli insan türevi ırkıdır; Squat'ların
+
 ## Toplum Yapısı
 
 - **Kindreds**: Aile-devletleri (ulusal-devlet ile genişletilmiş aile arası)

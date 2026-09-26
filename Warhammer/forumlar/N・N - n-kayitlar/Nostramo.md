@@ -68,4 +68,8 @@ Night Lords ve Nostramo, *Realm of Chaos* döneminin Chaos kaynaklarında şekil
 **Kaynaklar:** *Konrad Curze: The Night Haunter — Guy Haley*; *Soul Hunter — Aaron Dembski-Bowden*; *Void Stalker — Aaron Dembski-Bowden*; *Prince of Crows — Aaron Dembski-Bowden*; *The Dark King — Graham McNeill*; *Codex: Chaos Space Marines — 10th Edition*
 **Çapraz:** **kayıt**, **kayıt**, sevatar, **kayıt**, **kayıt**, **kayıt**, **kayıt**
 
+## Tarihçe
+
+Nostramo, İmparatorluğun en karanlık ve en trajik dünyasıdır; Night Lords'un Chapter yurdu olan ve sonunda kendi sakinleri tarafından yok edilen bir dünyadır — onlar, İmparatorluğun en karanlık ve en trajik dünyasıdır. Nostramo'nun en büyük özelliği, onun karanlığıdır — onlar, İmparatorluğun en karanlık dünyalarından biridir ve onların varlığı, Night Lords'un terör ge
+
 ​

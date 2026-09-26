@@ -25,7 +25,7 @@ Codex Astartes'in ardından Legion, Raven Guard ve ardıl Chapter'lara bölünd�
 
 ## Tarihçe
 
-Raven Guard (XIX Legion), Corvus Corax'ın oğullarıdır; gizlilik, sabotaj ve gerilla savaşı üzerine uzmanlaşmış ve Horus Heresy'de en ağır kayıpları veren Legion'dur — onların savaşı, gölgelerde ve sessizlikte yapılır. Raven Guard'ın savaş doktrini, Corax'ın isyan geçmişinden doğar — onlar görünmezliği sever, stealth ve sabotajı tercih eder ve onların savaşı, düşmanın en zayıf anında, en beklenmedik
+Raven Guard — XIX Legion — Corvus Corax'ın Deliverance'li 'gölge' lejyonu; sabotaj, suikast ve 'vur-kaç' doktriniyle savaşan en 'görünmez' astartesler. Isstvan V'deki kayıplar sonrası 'Shattered Legion'ın en ağır yaralısı oldu; Corax'ın 'Raptor' projesi ve Alpha Legion'un sabotajı lejyonun genetik kaderini çaldı. 'Victorus aut Mortis' — zafer ya da ölüm; Raven Guard'ın sessiz intikamı bu sözdedir.
 
 ## Yapı ve Organizasyon
 Raven Guard temelde Codex'e bağlı bir örgütlenmeye sahiptir, ancak bu yapıyı kendi savaş anlayışına göre esnek biçimde uygular. Scout'lar ve sızma birlikleri Chapter içinde özellikle önemlidir; Raven Guard'ın company kaptanları geleneksel olarak **Shadow Captain** unvanını taşır. Chapter Master **Master of Shadows** olarak anılır. Chapter'ın merkezi Deliverance olmaya devam eder.

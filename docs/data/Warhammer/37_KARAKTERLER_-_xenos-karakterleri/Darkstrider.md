@@ -16,7 +16,8 @@ Darkstrider, düşman hatlarının derinliklerine sızan Pathfinder birliklerini
 
 ## Tarihçe
 
-Darkstrider (T'au Lügati'nde El'Myamoto), alışılmadık bir T'au Pathfinder subayıdır; shas'el ('alt-komutan') rütbesinde kalıp birkaç terfiyi reddetti — Pathfinder yoldaşlarıyla kalmak için. 'Sahanın adamı' olarak yükselmeyi reddeden bu figür, T'au'nun keşif ve vur-kaç doktrininin en sadık uygulayıcısıdır.
+Darkstrider, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır — T'au'nun en ünlü askeri figürüdür. Bu figür, T'au'nun en ünlü ve en tehlikeli komutanıdır; Darkstrider, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır. Bu figür, T'au'nun en ünlü ve en tehlikeli komutanıdır; Darkstrider, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanıdır. Figür, T'au İmparatorluğu'nun en ünlü ve en tehlikeli komutanı olarak kalır.
+
 
 -# Kaynaklar: *Codex: T'au Empire*
 

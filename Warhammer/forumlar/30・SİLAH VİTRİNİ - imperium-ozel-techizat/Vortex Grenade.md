@@ -13,6 +13,6 @@ Warp'e açılan el bombası — patlama değil 'yutma': yarıçapındaki her şe
 
 ## Tarihçe
 
-Nadir ve tehlikeli el bombası; realspace'te Warp'a açılan delik oluşturur ve etki alanındaki her şeyi yutar. Aktif olduktan sonra vortex rastgele sürüklenir — dost düşman ayırt etmez. İmparatorluk'un 'en son çare' silahlarından.
+Vortex Grenade, İmparatorluk'un en tehlikeli ve en gizli silahlarından biridir — Warp enerjisi içeren bir el bombasıdır. Bu bomba, patladığında küçük bir Warp vorteksi oluşturur; bu vorteks, çevresindeki her şeyi — düşmanı, zırhı, hatta toprağı — Warp'e sürükler ve tamamen yok eder. Vortex Grenade, İmparatorluk'un en nadir ve en tehlikeli silahlarından biridir; çünkü Warp enerjisi, kullanıcıyı da tehdit edebilir ve kontrol edilemez bir yıkım gücüne sahiptir. Bomba, İmparatorluk'un en gizli ve en ölümcül silahlarından biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

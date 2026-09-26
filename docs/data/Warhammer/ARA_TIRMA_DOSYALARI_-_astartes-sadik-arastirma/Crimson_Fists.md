@@ -38,6 +38,10 @@ Crimson Fists, Smurf-merkezli olmadan önceki **poster boys**'tu. 3. baskı Spac
 
 ## Rynn's World Fiasco
 
+## Tarihçe
+
+Crimson Fists, Imperial Fists soyu ve Second Founding'de kurulan tr
+
 Crimson Fists, homeworld'leri **Rynn's World**'ü Orklar işgal ettiğinde feci şekilde hasar gördü. Yörüngesel savunma ağlarından atılan **başıboş bir füze**, kendi fortress'larına çarptı. Füze orijinal hedefini kaçırdı, **tüm void shield'leri bypass etti** ve doğrudan cephaneliğe isabet etti; yüzlerce metre yeraltında patlayana kadar patlamadı. Bu olayın olma olasılığı matematiksel olarak yaklaşık **1.267651x10^130'da 1**'dir.
 
 Ancak Crimson Fists, **yalnızca 228 Marine ile** Orkları yenmeyi başardı (100'ü öldürüldü). Aslında fortress monastery yok edildikten sonra hayatta kalan Marine sayısı belirtilmemiştir (*Rynn's World* romanı Pedro Kantor ve Alessio Cortez dahil 16 kişiden bahseder). Kantor, New Rynn City'yi savunmak için önemli bir kuvvet göndermişti.

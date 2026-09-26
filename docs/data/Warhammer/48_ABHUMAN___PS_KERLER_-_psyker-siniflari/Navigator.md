@@ -10,6 +10,7 @@ Navigator, İmparatorluğun yıldızlararası seyahatini mümkün kılan, eşsiz
 
 ## Tarihçe
 
-Warp'ta yol gösteren mutant aristokrat; geminin gözleri. İmparatorluk'un olmazsa olmaz soyu — seyahat edilemez bir galakside yol alanın adı.
+Navigator, İmparatorluğun yıldızlararası seyahatinin vazgeçilmez anahtarıdır; alnında Warp'ı görebilen üçüncü bir göz taşıyan ve Astronomicon'un ışığına dayanarak gemiyi Immaterium'da yönlendiren mutasyonlu insanlardır. Navigator'lar Navis Nobilite'nin üyeleridir — soylu, kapalı ve son derece güçlü bir hanedan ağıdır; onların geni Dark Age of Technology'de üretildi ve bugün İmparatorluk'un varoluşu onların omzundadır — Navigator'suz bir gemi Warp'a giremez veya girse de kaybolur. Navigator'ın üçüncü gözü hem lütuf hem lanettir — ona bakan ölümlüler delirir veya ölür; bu yüzden Navigator'lar gözlerini bandajla kapatır ve ancak gerekli olduğunda açar. Navigator olmak, İmparatorluk'taki en yüksek ayrıcalıktır ama aynı zamanda en büyük yük — onlar olmadan İmparatorluk yok olur ama onlar da İmparatorluk içinde asla tam olarak ait olmadıkları bir kasttır.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

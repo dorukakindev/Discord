@@ -9,6 +9,6 @@ Medrengard, baştan başa Iron Warriors'un ruhunu yansıtır: demir surlar, dike
 
 ## Tarihçe
 
-Perturabo'un demir gezegeni; Iron Warriors'ın kuşatma diyarı. Kaleler, çukurlar ve savaş makineleri — Perturabo'un kişiliğinin gezegen hali.
+Medrengard, Iron Warriors'un ana dünyası ve Perturabo'nun Daemon Primarch olarak hüküm sürdüğü yerdir — Eye of Terror'un içindeki en büyük Chaos kalelerinden biridir. Gezegen, Iron Warriors'un kuşatma savaşı uzmanlığının simgesi olarak devasa kaleler ve surlarla kaplıdır; Medrengard, Perturabo'nun İmparatorluğa karşı nefretinin ve obsesif kuşatma stratejisinin fiziksel tezahürüdür. Gezegen, Iron Warriors'un İmparatorluk'a karşı yürüttüğü operasyonların merkezidir; Medrengard, Chaos'un İmparatorluk içindeki en güçlü ve en tehlikeli üslerinden biridir. Gezegen, Iron Warriors'un sadakatinin ve Perturabo'nun gücünün simgesi olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

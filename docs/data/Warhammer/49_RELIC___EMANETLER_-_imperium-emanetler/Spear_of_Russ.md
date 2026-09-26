@@ -16,7 +16,8 @@ Space Wolves'un Primarch'ına ait, Chapter'ın en kutsal saydığı emanetlerden
 
 ## Tarihçe
 
-Guy Haley'nin *Wolfsbane* romanında Russ, Horus'un amiral gemisinin izini sürüp Trisolian'da Warmaster'a doğrudan saldırır ve onu bu mızrakla yaralar; kendisi de ağır biçimde yaralanıp ancak Legion'ının yardımıyla kurtarılır. Russ'ın M31'deki kayboluşundan sonra mızrak Chapter'ın elinde kalmış bir emanet olarak anılır; William King'in *Grey Hunter* romanı onun M41'deki öyküsünü işler.
+Spear of Russ, Space Wolves'un en ünlü ve en kutsal relic'idir; Leman Russ'un — Space Wolves'un primarch'ı — kendi kullandığı ve onun en büyük savaşlarının simgesi olan bir mızraktır — onlar, Space Wolves'un en ünlü ve en kutsal hazinesidir. Spear of Russ'ın en büyük özelliği, onun gücüdür — onlar, bir primarch'ın kendi silahıdır ve onların varlığı, Space Wolves'un en büyük gücünün kanıtıdır; bir Spear of Russ kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de semboliktir. Spear of Russ'ın en ünlü özelliği, onun Leman Russ'a ait olmasıdır — onlar, bir primarch'ın kendi silahıdır ve onların varlığı, Space Wolves'un en büyük onurunun kanıtıdır. Spear of Russ, Space Wolves'un en ünlü ve en kutsal relic'idir — onlar, bir primarch'ın mirasının ve Space Wolves'un ruhunun somut halidir.
+
 
 -# Kaynaklar: *Wolfsbane — Guy Haley*; *Grey Hunter — William King*; *Codex Supplement: Space Wolves — 10th Edition*
 

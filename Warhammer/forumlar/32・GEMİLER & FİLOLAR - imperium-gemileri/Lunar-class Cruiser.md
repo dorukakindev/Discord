@@ -15,7 +15,7 @@ Gösterişsiz, sağlam ve kolay üretilebilir bir savaş gemisidir. Imperial fil
 
 ## Tarihçe
 
-Lunar-class, basit ve güvenilir tasarımı sayesinde pek çok tersanede inşa edilebildiği için Imperial Navy'nin belkemiği olarak anlatılır. Gothic War anlatısında Imperial filolarının en sık görülen cruiser'ları arasındadır.
+Lunar-class Cruiser, İmparatorluk Donanması'nın en yaygın ve en önemli kruvazörlerinden biridir — İmparatorluk'un en çok kullanılan savaş gemilerinden biridir. Lunar-class Cruiser, İmparatorluk Donanması'nın en yaygın ve en önemli kruvazörlerinden biridir; bu gemi, İmparatorluk'un en önemli ve en yaygın deniz güçlerinden biridir. Lunar-class Cruiser, İmparatorluk Donanması'nın en yaygın ve en önemli kruvazörlerinden biridir; bu gemi, İmparatorluk'un en önemli ve en yaygın deniz güçlerinden biridir.
 
 ## Kanon Notu
 

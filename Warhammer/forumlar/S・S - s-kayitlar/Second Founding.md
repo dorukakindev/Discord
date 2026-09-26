@@ -15,6 +15,10 @@ Bu kanal dönemi bir reform ve bir doğuş anı olarak ele alır: bölünmenin g
 ## Heresy'nin Bıraktığı Ders
 Second Founding'in kökü, Terra kuşatmasının dumanı henüz dağılmamışken atıldı. Imperium ayakta kalmıştı; ama önderinden yoksun kalmış, Legion'larının yarısını hainlere kaptırmıştı ve kimseye bir daha eskisi gibi güvenemeyecekti. Guilliman, Scouring'in askerî görevini sürdürürken bir yandan da bu güvensizliği kalıcı bir düzene dönüştürmenin yolunu arıyordu.
 
+## Tarihçe
+
+Second Founding, İmparatorluk tari
+
 Sorunun kalbinde Legion'ın kendisi vardı. Bir Primarch'ın ya da onun yerine geçen bir kaptanın emrindeki bir Legion, kendi başına bir yıldız krallığını dize getirecek güçteydi. Horus bu gücü sadakatten sapmaya çevirdiğinde, onu durdurmak neredeyse Imperium'un tümüne mal olmuştu. Guilliman'ın vardığı sonuç açıktı: tehlike hainin kötülüğünden çok, tek bir elde toplanan gücün büyüklüğündeydi.
 
 Çözüm de bu teşhisten doğdu. Eğer hiçbir komutan bir daha Legion ölçeğinde bir kuvveti elinde tutamazsa, ikinci bir Horus da ortaya çıksa Imperium'un tümünü sürükleyemezdi. Bölünme böylece bir zafer ödülü olarak değil, aynı felaketin yinelenmesine karşı bir güvence olarak tasarlandı. Kaynaklar bu reformu genellikle 021.M31 dolaylarına yerleştirir; kesin kronoloji yayından yayına küçük farklarla verilir.

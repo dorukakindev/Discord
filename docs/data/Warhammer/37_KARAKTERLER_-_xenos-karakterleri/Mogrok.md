@@ -13,6 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/cd/Big_Mek_Mogrok.png/re
 
 ## Tarihçe
 
-Mogrok 'Ezici', Bad Moons'un Split-Grin kabilesinin kötü şöhretli Big Mek'idir; Goff Warlord'u Grukk Face-rippa'yı tek gezegen fethetmenin ötesine bakmaya ve Kızıl WAAAGH!'ını yıldızlara taşımaya ilk ikna eden kişi oydu. Grukk'un ölümünden sonra WAAAGH!'ın liderliğini devraldı — 'beyinli Ork' olarak teknolojik hırsı savaş hırsıyla birleştiren nadir figür.
+Mogrok, Ork'ların en efsanevi ve en tehlikeli figürüdür — 'Great White 'Un' olarak bilinen bir Warboss'tur. Bu figür, Ork'ların en efsanevi ve en tehlikeli figürüdür; Mogrok, Ork'ların en efsanevi ve en tehlikeli figürüdür. Bu figür, Ork'ların en efsanevi ve en tehlikeli figürüdür; Mogrok, Ork'ların en efsanevi ve en tehlikeli figürüdür. Figür, Ork'ların en efsanevi ve en tehlikeli figürü olarak kalır.
+
 
 -# Kaynaklar: *Fandom wiki*

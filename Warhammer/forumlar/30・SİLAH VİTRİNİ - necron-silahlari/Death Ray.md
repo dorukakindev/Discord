@@ -18,9 +18,7 @@ Doom Scythe avcı uçağının karın altındaki top kulesine monte edilmiş ağ
 
 ## Tarihçe
 
-Death Ray adını boşuna taşımaz: vuruştan önce neredeyse hiç uyarı yoktur, çünkü çıkardığı ses Doom Scythe'ın doğaüstü motor ulumasının altında kaybolur. Uyanık bir düşman ancak odak kristalinin çevresinde toplanan enerji halesini ya da hava basıncındaki ani değişimi fark edebilir — ama çoğu, anlamını kavrayamadan ışın patlar. Uçak alçaktan geçerken ışın yerde bir çizgi sürer; bu çizgi boyunca tanklar erimiş enkaza, askerler moleküler buhara döner.
-
-Necron istilasının ilk dalgasını Doom Scythe'lar oluşturur; repulsor motorunun yaşayan beyinlerle rezonansa giren o uluması, kasten yükseltilmiş bir ter
+Death Ray, Necron'ların en ölümcül ve en gizli silahıdır — ölüm ışınıdır. Bu silah, hedefe yoğun bir enerji gönderir; tek atışta bir Space Marine'in zırhını bile delebilecek kadar güçlüdür. Death Ray, Necron'ların en ölümcül ve en gizli silahıdır; bu silah, Necron'ların en önemli ve en gizli silahıdır. Silah, Necron'ların en ölümcül ve en gizli silahı olarak kalır.
 
 ör silahıdır. Death Ray ise bu korkunun fiziksel karşılığıdır: gökten inen ve arkasında yalnızca oyulmuş toprak bırakan beyaz bir bisturi.
 

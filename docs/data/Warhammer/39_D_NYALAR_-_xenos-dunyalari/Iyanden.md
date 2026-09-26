@@ -16,6 +16,4 @@ Iyanden'in kültürü, yas ve hatıra üzerine kuruludur: Craftworld'ün 'Spirit
 
 ## Tarihçe
 
-Iyanden, Aeldari'nin yaşayan ölü-şehir craftworld'üdür; Hive Fleet Kraken'ın istilasıyla nüfusunun yarısı öldü. Ölülerin ruhlarını Wraith ordularına taşıyan 'hayalet şehir' — hayatta kalması için ölülerle savaşmak zorunda kalan craftworld.
-
--# Kaynaklar: Warhammer 40,000 — Fandom
+Iyanden, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Tyranid'e karşı en zorlu savunmasını yapan ve neredeyse yok edilen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en onurlu evidir. Iyanden'in en büyük özelliği, onun trajedisidir — onlar, Hive

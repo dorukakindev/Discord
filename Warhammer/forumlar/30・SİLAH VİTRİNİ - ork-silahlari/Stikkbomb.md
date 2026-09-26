@@ -19,4 +19,8 @@ El bombası sınıfı — tek atımlık patlayıcı cephane; siper, kalabalık, 
 ## Not
 Stikkbomb, Ork silah mantığının klasik örneğidir: basit, büyük, sahibinin zevkine göre kullanılabilir. 'Stikkbommaz' olarak adlandırılan specialist tipler tamamen bu silahın kullanımına adanmıştır.
 
+
+## Tarihçe
+
+Stikkbomb, Ork'ların en yaygın ve en ölümcül el bombasıdır — basit ama ölümcül bir el bombasıdır. Bu bomba, Ork'ların en yaygın el bombasıdır ve düşmanın en tehlikeli hedeflerini etkisiz hale getirir; tek atışta birkaç düşmanı etkisiz hale getirebilecek kadar güçlüdür. Stikkbomb, Ork'ların en yaygın ve en ölümcül el bombasıdır; bu bomba, Ork'ların en önemli ve en yaygın el bombasıdır. Bomba, Ork'ların en yaygın ve en ölümcül el bombası olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

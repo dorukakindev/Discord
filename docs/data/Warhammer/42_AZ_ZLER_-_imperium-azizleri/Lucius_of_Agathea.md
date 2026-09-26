@@ -16,4 +16,4 @@ Aziz olarak Lucius, 'silah taşıyan aziz' kategorisinin en eski örneklerindend
 
 ## Tarihçe
 
-Lucius of Agathea, Sisters of Battle'ın en ünlü ve en kutsal azizidir; Agathea'nın koruyucusu olarak bilinen ve İmparatorluğun en kutsal savaşlarını yapan Lucius, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizidir. Lucius of Agathea'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal savaşçıdır ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Lucius, hem
+Lucius of Agathea, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir — aziz olarak bilinen ve Sisters of Battle'ın en önemli figürlerinden biridir. Lucius, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir; onun inancı ve savaş yetenekleri, Sisters of Battle'ın en önemli ve en kutsal güçlerinden biridir. Lucius of Agathea, Sisters of Battle'ın en kutsal ve en efsanevi figürü olarak kalır — onun varlığı, Sisters of Battle'ın en önemli ve en kutsal güçlerinin simgesidi

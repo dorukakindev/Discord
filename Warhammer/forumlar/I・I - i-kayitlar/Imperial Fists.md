@@ -24,7 +24,7 @@ Siege'in sonunda Horus öldü, ama Dorn'un gözünde bu bir zafer değildi. Empe
 
 ## Tarihçe
 
-Imperial Fists, İlk Kuruluş chapter'larından biridir ve İmparator'un Birleşme Savaşları sırasında Terra'dan yükselttiği VII. Legiones Astartes'ti; sabit homeworld'ü olmamasıyla diğerlerinden ayrılır — hareketli kale-manastır Phal
+Imperial Fists, Space Marines'in en eski ve en sadık Legion'larından biridir — Rogal Dorn'un Legion'udur ve İmparatorluk'un en disiplinli Legion'udur. Imperial Fists, İmparatorluk'un en sadık ve en disiplinli Legion'udur; onların
 
 ## Scouring, Codex ve Bölünme
 Great Scouring sırasında Imperial Fists, kaçan Traitor Legion'ların peşine düştü. Bu takibin en ağır yarası **Iron Cage** olarak anılan pusudur: Perturabo, Dorn'un kuvvetlerini tahkim edilmiş bir tuzağa çekerek Legion'ı yok oluşun eşiğine getirdi. Kaynaklar, Imperial Fists'in ancak dışarıdan gelen yardımla, Ultramarines'in müdahalesiyle kurtarıldığını anlatır. Dorn başlangıçta Guilliman'ın Codex Astartes'ine, özellikle Legion'ların bölünmesi fikrine sert biçimde karşı çıkmıştı; Iron Cage felaketinden ve Chapter geleneğinin Pain Glove'la ilişkilendirdiği kişisel bir kefaretten sonra Codex'i kabul etti.

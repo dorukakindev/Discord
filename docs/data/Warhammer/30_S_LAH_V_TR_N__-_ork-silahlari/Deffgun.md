@@ -13,7 +13,7 @@ Loota'ların omuzlarına bağlanmış özel bir ateş düzeneğiyle taşıdıkla
 
 ## Tarihçe
 
-Yağmalamayı meslek edinmiş Loota'ların silahıdır. Savaş sonrası cesetlerden söktükleri ağır silahları Mekboy'lara teslim eder, karşılığında teef karşılığı en güçlü deffgun'u satın alırlar; Mekboy'lar kimi zaman muharebeye katılarak eserlerinin performansını bizzat izler.
+Deffgun, Ork'ların en yaygın ve en ölümcül silahıdır — ağır bir otomatik silahtır. Bu silah, Ork'ların en yaygın silahıdır ve düşmanın en tehlikeli hedeflerini etkisiz hale getirir; tek atışta birkaç düşmanı etkisiz hale getirebilecek kadar güçlüdür. Deffgun, Ork'ların en yaygın ve en ölümcül silahıdır; bu silah, Ork'ların en önemli ve en yaygın silahıdır. Silah, Ork'ların en yaygın ve en ölümcül silahı olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

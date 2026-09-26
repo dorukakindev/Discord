@@ -12,7 +12,7 @@ Ruhları İmparator'a bağlanmış kör psykerlar — astro-telepati ile mesajla
 
 ## Tarihçe
 
-Astropath, İmparatorluğun en gizli ve en önemli iletişim uzmanıdır; onların İmparatorluk'un en gizli ve en önemli iletişim uzmanı olan ve onun en gizli operasyonlarını yapan Astropath, İmparatorluğun en gizli ve en önemli varlığıdır — onlar, İmparatorluğun en gizli ve en önemli iletişim uzmanıdır. Astropath'ın en büyük özelliği, onların iletişimidir — onlar, İmparatorluk'un en gizli ve en önemli iletişim uzmanıdır ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Astropath, hem bir psyker hem de bir iletişimcidir ve onların varlığı, İmparatorluğun en büyük sırrının somut halidir. Astropath'ın en ünlü özelliği, onların Warp iletişimidir — onlar, İmparatorluğun en gizli ve en önemli iletişim uzmanıdır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Astropath, İmparatorluğun en gizli ve en önemli iletişim uzmanıdır — onlar, bir iletişimin ve İmparatorluğun en büyük sırrının somut halidir.
+Astropath, Imperium'un 'psi-elçisi' — 'Soul Binding' ritüeliyle İmparator'a bağlanan ve 'Warp telepathy' ile 'astral mesaj' gönderen psyker sınıfı. 'Choir' sistemi ve 'astropathic relay' istasyonları; 'The Emperor's voice' olarak bilinen bu mesajlar Imperium'un tek 'uzun mesafe' iletişimidir. 'Sanctioned but fragile' — Astropath'ların 'gözleri kapalı' görüntüsü onların 'içe bakış'ının simgesidir.
 
 ## Özellikler
 Sanctioned psyker statüsü, koro hâlinde çalışma, simgesel Astra Telepathica yıldız sembolü; psyker seviyeleri Delta–Zeta.

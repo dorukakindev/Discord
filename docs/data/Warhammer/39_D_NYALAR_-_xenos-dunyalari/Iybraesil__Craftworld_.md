@@ -18,6 +18,6 @@ Morai-Heg'e adanmış craftworld; kader ipliğini arayan, sırların peşine dü
 
 ## Tarihçe
 
-Iybraesil, Morai-Heg'in 'kaderin ipliklerini' takip eden craftworld'dür; halkı eski kutsal dünyaların kalıntılarını arar. Seer'ları en mistik olanıdır ve Crone Worlds harabelerinde daemonlarla yüzleşirler. Aeldari'nin kaybettiği bilgeliğin çoğu Iybraesil arşivlerinde saklıdır — ama bu bilgeliğin bedeli sürekli tehlikedir.
+Iybraesil, Aeldari'nin en bilinen craftworld'lerinden biridir — Crone World'leri keşfeden ve eski Aeldari bilgisini arayan maceracı bir şehir-gemisidir. Iybraesil, diğer craftworld'lerden daha agresif bir keşif politikası izler; savaşçıları ve Pathfinder'ları, Düşüş'ten kalan eski Aeldari dünyalarını araştırır ve kayıp bilgileri kurtarmaya çalışır. Craftworld, Aeldari'nin eski ihtişamını geri kazanma umudunun simgesidir ve diğer craftworld'lerden daha fazla risk alır. Iybraesil, Aeldari'nin geçmişini kurtarma mücadelesinin en önemli temsilcisidir.
 
 -# Kaynaklar: *Codex: Aeldari / Craftworlds*

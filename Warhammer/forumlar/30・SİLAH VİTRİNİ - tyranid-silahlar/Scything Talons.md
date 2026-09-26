@@ -13,7 +13,7 @@ Tyranid organizmalarının gövdesinden uzanan, kitin ve kemikten oluşmuş, ora
 
 ## Tarihçe
 
-Hormagaunt'lardan Tyranid Warrior'lara, Lictor'lardan Carnifex'lere ve Hive Tyrant'lara kadar pek çok Tyranid organizmasında bulunur. Hive Mind, farklı savaş koşullarına göre bu uzuvları organizmalar arasında yeniden tasarlar.
+Scything Talons, Tyranid'lerin en yaygın ve en ölümcül yakın dövüş silahıdır — tırpan pençelerdir. Bu silahlar, hedefi parçalar ve onu tamamen yok eder; tek vuruşta bir düşmanı parçalayabilecek kadar güçlüdür. Scything Talons, Tyranid'lerin en yaygın ve en ölümcül yakın dövüş silahıdır; bu silahlar, Tyranid'lerin en önemli ve en yaygın yakın dövüş silahıdır. Silahlar, Tyranid'lerin en yaygın ve en ölümcül yakın dövüş silahı olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

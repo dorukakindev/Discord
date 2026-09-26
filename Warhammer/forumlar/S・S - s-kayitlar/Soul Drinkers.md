@@ -48,7 +48,7 @@ Bu mutasyonlar, Chapter'ın bütün iddiasını tehlikeye atar. Imperium'un göz
 
 ## Tarihçe
 
-Soul Drinkers, Inquisition tarafından Excommunicate Traitoris ilan edilen Renegade Space Marine chapter'ıydı — aşırı mutasyon ve belirgin Chaos yozlaşması yüzünden; ama kendileri hâlâ İmparator'a sadık kaldıklarını düşünüyorlardı. 'İhanet etmeden dışlanan' chapter olarak WH40K'nin en trajik 'gri alan' figürleridir.
+Soul Drinkers, Imperial Fists soyu ve Second Founding'de kurulan trajik bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinden doğar ama onların kaderi, İmparatorluğun en büyük ihanet ve kurtuluş hikâyelerinden biridir. Soul Drinkers'ın en büyük trajedisi, onların yanlış anlaşılmasıdı
 
 Mutasyonun Chapter'ın geleceğine etkisi de ağırdır. Değişmiş gene-seed yeni savaşçıların yetiştirilmesini zorlaştırır ve Chapter'ın kendini yenileme kapasitesini sorgulanır hâle getirir. Soul Drinkers böylece hem dışarıdan avlanan hem de içeriden yavaşça tükenen bir kardeşliğe dönüşür. *Crimson Tears*, mutasyonun en uç biçimini taşıyan ve Chapter'dan kopan eski kaptanlarından **Tellos**'un izini sürerek, bu dönüşümün bir savaşçıyı nereye götürebileceğini gösterir.
 ---MSG---

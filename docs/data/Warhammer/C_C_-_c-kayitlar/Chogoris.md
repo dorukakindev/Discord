@@ -15,6 +15,10 @@ Jaghatai'nin kapsülü düştüğünde Chogoris bölünmüş bir dünyaydı. Boz
 
 Birleşik boyların saldırısı Palatine'in imparatorluğunun yıkılmasıyla sonuçlandı ve Jaghatai Chogoris'in tamamının hâkimi oldu. Chris Wraight'ın *Jaghatai Khan: Warhawk of Chogoris* romanı bu yükselişi ayrıntılı biçimde işler; eski kaynaklar ise yalnızca kısa bir özet verir. Böylece Chogoris'in Imperium'a katılışı, bir fetih değil, Emperor'un gelişinden önce zaten tamamlanmış bir birleşmenin ardından gerçekleşti.
 
+## Tarihçe
+
+Chogoris, White Scars'ın Chapter yurdu o
+
 ## Halk, Dil ve Gökyüzü Kâhinleri
 Chogoris'in bozkır halkı, onuru, boy bağlılığını ve at sırtındaki ustalığı her şeyin üstünde tutar. Destanlar ve av hikâyeleri sözlü olarak aktarılır; yaşam, ölüm ve şeref kavramları bozkırın göç ve av döngüsüne göre biçimlenir. White Scars'ın adını aldığı, adayların yüzüne kazınan ritüel yara izi de bu dünyanın geleneğinden gelir. Legion içinde ortak kimlik aracına dönüşen **Khorchin** dili de Chogoris kökenlidir.
 

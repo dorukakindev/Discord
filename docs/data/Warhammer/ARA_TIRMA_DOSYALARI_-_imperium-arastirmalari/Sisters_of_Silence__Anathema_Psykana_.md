@@ -54,6 +54,10 @@ Sisters ayrıca Great Crusade sırasında savaştıkları Custodes'lara da yakı
 
 Genel olarak son derece trajiktirler — hayatlarını, aynı odada bulunmaya bile dayanamayan ve neden olduğunu bile ifade edemeyen bir türü korumaya adarlar.
 
+## Tarihçe
+
+Sisters of Silence, İmparatorluğun en gizemli ve en korkulan kurumlarından biridir; tam
+
 #### Resmi Eylemler
 
 Reformlarından sonraki ilk "resmi" eylemleri, Custodes ile birlikte yakın zamanda diriltilmiş **Lord Guilliman**'ı Magnus'un kullanmasını engellemek için Luna'ya konuşlanmaktı; daha sonra Terra'ya doğrudan bir Khorne daemon istilasına karşı savaşmaya yardım ettiler. Guilliman, İmparator ile audience'den döndüğünde, Custodian'ları Terra ile sınırlayan emri feshetti ve Sisterhood'un onlarla koordineli olarak ön cephelere katılmasını emretti.

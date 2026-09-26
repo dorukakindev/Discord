@@ -15,6 +15,10 @@ Alaitoc'un sancağında çoğunlukla derin mavi zırh ve sarı miğferler görü
 
 **Kanal sınırı.** Craftworld toplumunun genel yapısı, spirit stone ve infinity circuit düzeni <#1551812290439942255> kanalında; Path'in felsefi temeli ve türün bütünü <#1551810506078290021> kanalında işlenir. Bu madde Alaitoc'un kendine özgü yüzünü, yani katılık ile firar arasındaki gerilimi ve bu gerilimden doğan Ranger geleneğini merkeze alır.
 
+## Tarihçe
+
+Alaitoc, Aeldari ırkının en büyük ve en askeri Craftworld'lerinden biridir; onun savaş geleneği ve disiplinli yapısıyla — Aeldari'nin en organize ve en savaşçı evidi
+
 ## Katılığın Kökleri
 
 Bir craftworld'ün Path'e ne kadar sıkı bağlı olacağını belirleyen tek bir yasa yoktur; her yurt, Fall'un travmasına kendi mizacıyla cevap vermiştir. Saim-Hann klan bağlarıyla, Biel-Tan savaşçı bir geri alma hayaliyle, Ulthwé Warp'a karşı uyanık bir nöbetle tanınırken Alaitoc cevabını düzenin kendisinde aramıştır. Asuryani inancına göre Fall'u doğuran şey dizginsiz tutkuydu; öyleyse tutkuyu dizginleyen yapı ne kadar sağlam olursa ruh da Slaanesh'in pençesinden o kadar uzak kalacaktı.

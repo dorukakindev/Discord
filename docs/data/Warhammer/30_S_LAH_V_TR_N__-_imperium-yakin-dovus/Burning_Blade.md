@@ -19,4 +19,8 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 ## Not
 Standart güç kılıcından daha nadir bir desen; 'yakan kılıç' doktriniyle bağlantılı işkence-imha görevlerinde kullanılmıştır.
 
+
+## Tarihçe
+
+Burning Blade, İmparatorluk'un en ölümcül kılıçlarından biridir — alevle çevrili bir power sword'dur. Bu kılıç, standart power sword'dan daha güçlüdür ve alev alma özelliğine sahiptir; tek vuruşta bir tankın zırhını bile kesebilecek ve aynı zamanda yakabilecek kadar güçlüdür. Burning Blade, özellikle İmparatorluk'un en büyük kahramanlarının kullandığı bir silahtır; bu kılıç, İmparatorluk'un en ölümcül ve en değerli silahlarından biri olarak kabul edilir. Kılıç, İmparatorluk'un en değerli emanetlerinden biri olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

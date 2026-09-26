@@ -16,6 +16,6 @@ Avatar of Khaine, Aeldari savaş tanrısı Khaine'in parçalanmış ruhunun bir 
 
 ## Tarihçe
 
-Avatar of Khaine, Aeldari'nin en güçlü ve en korkulan varlığıdır — Kaela Mensha Khaine'in avatarıdır. Bu varlık, Aeldari'nin savaş tanrısının fiziksel bir tezahürüdür; tek vuruşta bir Greater Daemon'u bile etkisiz hale getirebilecek kadar güçlüdür. Avatar of Khaine, Aeldari'nin en güçlü ve en korkulan varlığıdır; bu varlık, Aeldari'nin en önemli ve en korkulan varlığıdır. Varlık, Aeldari'nin en güçlü ve en korkulan varlığı olarak kalır.
+Avatar of Khaine, her Eldar craftworld'ünün çekirdek odasında bulunan ve savaş zamanında uyandırılan, Khaine'in son cansı parçası — canlı-metal bir savaş tanrısı heykelidir. Bir 'genç savaşçı' (Young King) Avatar'ın içine girer ve ruhu onunla bütünleşir; uyanan Avatar Wailing Doom'u taşır ve dokunamayacağı neredeyse hiçbir düşman yoktur. Fall of the Eldar'ın ardından Khaine'in parçalanan bedeninden arta kalan son 'ateş' — Biel-Tan, Saim-Hann ve Iyanden gibi craftworld'ler savaşa Avatar ile girer. Magnus, Leman Russ ve diğer primarch'ların bile zorlanacağı bir varlıktır; Eldar'ın fiziksel tanrı-yadigârıdır.
 
 -# Kaynaklar: *Codex: Aeldari*

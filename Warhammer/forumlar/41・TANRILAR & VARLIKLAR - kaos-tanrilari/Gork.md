@@ -15,7 +15,7 @@ Ork anlatılarında Gork, Warp'ın derinliklerinde kavga eden ikiz tanrılardan 
 
 ## Tarihçe
 
-Gork, Ork'ların en ünlü ve en vahşi tanrısıdır; Ork'ların iki tanrısından biri olan ve 'vahşi' Ork'ların tanrısı olan Gork, Ork'ların en vahşi ve en önemli gücüdür — onlar, Ork'ların en ünlü ve en vahşi tanrısıdır. Gork'un en büyük özelliği, onun vahşetidir — onlar, 'vahşi' Ork'ların tanrısıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Gork takipçisi, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece öldürmek ve fethetmek içindir. Gork'un en ünlü özelliği, onun Mork'la birlikte olmasıdır — onlar, Ork'ların iki tanrısından biridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Gork, Ork'ların en ünlü ve en vahşi tanrısıdır — onlar, bir vahşetin ve Ork'ların en büyük gücünün somut halidir.
+Gork, Ork panteonunun iki tanrısından biridir — 'kurnaz ama vahşi' olan; Mork ise 'vahşi ama kurnaz' diye tanımlanır ve Orklar bile aralarındaki farkta anlaşamaz. Gork'un doğası 'sırtından saldırmak' değil 'tam suratına kafa atmak'tır; Snakebite klanı ve eski usul Orklar onu daha çok sever. Ork mitolojisine göre Gork ve Mork, Gretchinleri 'ezmek için' yaratmış ve diğer tüm tanrıları savaşta yenmişlerdir. Weirdboy'ların gücü ve Waaagh!'ın kolektif enerjisi bu iki tanrının Warp'taki yansıması sayılır. Ghazghkull Thraka'nın Gork ve Mork'tan doğrudan 'vizyon' aldığına inanılır — Octavius ve Armageddon'da tanrılarının sözünü duyduğunu iddia eder.
 
 ## Kanon Notu
 

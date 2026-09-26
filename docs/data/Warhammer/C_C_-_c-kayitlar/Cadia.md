@@ -13,6 +13,10 @@ Geçidin stratejik ağırlığı, Cadia'yı Imperium'un en militarize dünyalar�
 
 Cadia'nın önemi yalnızca konumundan gelmiyordu. Gezegenin yüzeyine dağılmış, kökeni binlerce yıl boyunca çözülemeyen kara taş sütunlar, Warp'ın bu bölgedeki davranışını gizemli biçimde etkiliyordu. Cadia'nın hikâyesi, bu sütunların sırrı açığa çıkana dek tam anlamıyla anlaşılamaz.
 
+## Tarihçe
+
+Cadia, İmparatorluğun en önemli ve en trajik dünyasıdır; onun Cadian Gate'in — Eye of Terror'un tek geçiş noktası — bekçisi olarak hizmet veren ve Abaddon'un on üçüncü Kara Haçlı Seferi'nde yok edilen bir düny
+
 ## Pylonlar: Taşın Sırrı
 Cadia'nın yüzeyinde yükselen dev, pürüzsüz ve kapkara **pylon**'lar Imperial kayıtlarda uzun süre açıklanamayan kalıntılar olarak geçti. Adeptus Mechanicus onları incelemeye çalıştı, ama gerçek işlevini binlerce yıl boyunca kavrayamadı. Bilinen şey, Cadia çevresinde Warp fırtınalarının beklenenden sakin kalmasıydı: Eye of Terror'ın hemen kıyısında istikrarlı bir geçidin var olabilmesi, büyük ölçüde bu sütunlarla ilişkilendirildi.
 

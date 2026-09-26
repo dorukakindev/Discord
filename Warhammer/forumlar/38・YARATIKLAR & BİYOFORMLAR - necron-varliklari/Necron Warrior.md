@@ -10,6 +10,6 @@ Necron Warrior, bir Necron hanedanının kara lejyonlarının temel piyadesi ve 
 
 ## Tarihçe
 
-Necrontyr'ın sıradan askerinin necrodermis kabuğu; sayısız piyade birliği. İradesiz, durdurulamaz ve yeniden montajlı — 'onlar gelirken hiç durmadan gelirler' lafının sahibi.
+Necron Warrior, 'Awakening'in temel piyade birimi — Necrontyr'in sıradan vatandaşından dönüştürülmüş, Gauss Flayer taşıyan 'sonsuz' robot asker. 'Reanimation Protocol' ile tekrar tekrar kalkan bu birimler Imperium'un 'durdurulamaz' kavramının fiziksel karşılığıdır; Dynasty'ye göre renk ve 'aura' değişir. 'We are the Necron' — Warrior'ların tek 'düşüncesi' budur; tek başına değil, 'sayı' ile savaşır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

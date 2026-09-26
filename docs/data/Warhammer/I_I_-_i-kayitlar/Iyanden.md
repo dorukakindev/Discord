@@ -73,6 +73,10 @@ Great Rift çağında Iyanden'in durumu kaynaklarda Biel-Tan ya da Ulthwé kadar
 
 Iyanden'in geleceğine dair en rahatsız edici soru da bu belirsizliğin içinde yatar: yaşayanlarının sayısı azaldıkça, bir craftworld ne zaman bir yurt olmaktan çıkıp yürüyen bir mezarlığa dönüşür? Kanon bu soruya bir cevap vermez.
 
+## Tarihçe
+
+Iyanden, Aeldari ırkının en büyük ve en trajik Craftworld'lerinden biridir; onun Tyranid'e karşı en zorlu savunmasını yapan ve neredeyse yok edilen bir Craftworld'dür — onlar, Aeldari'nin en trajik ve en onurlu evidir. Iyanden'in en büyük özelliği, onun trajedisidir — onlar, Hive Fleet Kraken'in saldırısına uğradılar ve neredeyse yok edildiler; bir Iyanden, hem bir gezegen hem de bir mezardır v
+
 ## Bilinen Yanılgılar ve SSS
 
 **Yanılgı:** Iyanden, Kraken saldırısında yok edildi.

@@ -12,6 +12,10 @@ Bu pragmatizm Chapter'ın bütün savaş anlayışına yön verir. Raptors gizle
 
 Geleneksel Chapter'lar bu yöntemleri zaman zaman korkaklık ya da onursuzluk diye eleştirir; oysa Raptors'ın Imperium'a sadakati kaynaklarda sorgulanmaz. Bu kanal Raptors'ı bir Chapter olarak ele alır: soyunu, doktrinini, kültürünü, Chapter Master'ı Lias Issodon'u ve M41'in sonundaki başlıca seferlerini. Kurucu Legion'ın ayrıntılı tarihçesi <#1551637736593821790>, Primarch'ı ise <#1551649028121563137> kanalındadır.
 
+## Tarihçe
+
+Raptors, Raven Guard'ın soyundan gelen bir Space Marine Chapter'ıdır — Second Founding döneminde kurulmuş bir Chapter'dır. Raptors, gizli operasyonlar ve keskin nişancı taktikleriyle bilinir; Chapter, İmparatorluk'un en gizli ve en tehlikeli operasyonlarının en önemli aracıdır. Raptors, Raven Guard'ın en sadık ve en güvenilir varislerinden biri olarak kalır; Chapter, İmparatorluk'un en önemli askeri varlıklarından biridir.
+
 ## Kökenler ve Soy
 Raptors, Second Founding'de Raven Guard Legion'ının Codex uyarınca bölünmesiyle kurulan ardıl Chapter'lardan biridir. Corvus Corax'ın gene-seed'ini taşırlar. Sızmaya, gizlenmeye ve bireysel inisiyatife yatkınlık gibi Raven Guard soyunun belirgin özellikleri onlarda da güçlü biçimde yaşar. Kaynaklar, Chapter'ın Raven Guard gene-seed'inin tipik fiziksel izlerini taşıdığını da aktarır.
 

@@ -72,4 +72,8 @@ Elysian'lar Warhammer 40,000'e Forge World aracılığıyla, 2000'lerin ortasın
 **Kaynaklar:** *Imperial Armour Volume Three – The Taros Campaign*; *Imperial Armour Index: Forces of the Astra Militarum*; *Codex: Imperial Guard*; *Codex: Astra Militarum — 10th Edition*
 **Çapraz:** <#1551753458779029565>, <#1551816756417269853>, <#1551809146850910260>, <#1551817319288676373>, schola-progenium, <#1551815439078658154>
 
+## Tarihçe
+
+Elysian Drop Troops, İmparatorluk Muhafızı'nın en ünlü hava indirme birlikleridir — Elysia gezegeninden gelen elit paraşüt birlikleridir. Elysianlar, grav-chute'larla gökyüzünden inerek düşman hatlarının arkasına sızar; bu birlikler, İmparatorluk'un en hızlı ve en cesur alaylar
+
 ​

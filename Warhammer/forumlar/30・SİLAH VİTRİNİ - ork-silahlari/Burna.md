@@ -16,7 +16,8 @@ Hem alev püskürtücü hem de kesme meşalesi olarak kullanılan Ork silahıdı
 
 ## Tarihçe
 
-En çok, yangın çıkarmayı bir tutkuya dönüştürmüş Burna Boyz ile özdeşleşmiştir. Mekboy'lar da burna'yı hem silah hem de iş aleti olarak kullanır; savaş sırasında araç tamiri ve düşman zırhını kesmek için elverişlidir.
+Burna, Ork'ların en ölümcül ve en yaygın silahıdır — alev silahıdır. Bu silah, Ork'ların en yaygın silahıdır ve düşmanın en tehlikeli hedeflerini yakarak etkisiz hale getirir; tek atışta birkaç düşmanı yakabilecek kadar güçlüdür. Burna, Ork'ların en ölümcül ve en yaygın silahıdır; bu silah, Ork'ların en önemli ve en yaygın silahıdır. Silah, Ork'ların en ölümcül ve en yaygın silahı olarak kalır.
+
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

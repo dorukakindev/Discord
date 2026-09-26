@@ -15,7 +15,7 @@ Hava indirme harekâtlarında uzmanlaşmış, düşman hatlarının gerisine Val
 
 ## Tarihçe
 
-Elysian askerleri, hava indirme harekâtına yönelik uzun ve zorlu bir eğitimden geçmiş seçkin piyadeler olarak anlatılır. Taros Campaign'de Elysian alayları T'au'ya karşı savaştı ve Imperium için yenilgiyle sonuçlanan bu seferde ağır kayıplar verdi.
+Elysian Drop Troops, İmparatorluk Muhafızı'nın en ünlü hava indirme birlikleridir — Elysia gezegeninden gelen elit paraşüt birlikleridir. Elysianlar, grav-chute'larla gökyüzünden inerek düşman hatlarının arkasına sızar; bu birlikler, İmparatorluk'un en hızlı ve en cesur alaylarından biridir. Elysian Drop Troops, Taros Campaign gibi İmparatorluk'un en zorlu operasyonlarında görev aldı; ancak hava indirme taktikleri, yüksek kayıp oranlarıyla da bilinir. Alaylar, İmparatorluk Muhafızı'nın en cesur ve en elit hava indirme birlikleri olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

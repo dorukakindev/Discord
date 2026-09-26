@@ -55,7 +55,7 @@ Bu gelişlerin belirli savaşlara nasıl dağıldığı, yani Jain Zar'ın hangi
 
 ## Tarihçe
 
-Jain Zar, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur; Howling Banshees Aspect'inin kurucusu olan ve Aeldari'nin en ölümcül savaşçı geleneğinin lideri olan Zar, Aeldari'nin en ölümcül ve en gizli savaşçısıdır — onlar, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur. Jain Zar'ın en büyük özelliği, onun ölümlülüğüdür — onlar, Howling Banshees'ın kurucusu ve en ölümcül üyesidir ve onların v
+Jain Zar, Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'larından biridir — Howling Banshees Aspect Shrine'ın kurucusudur. Jain Zar, Aeldari'nin en tehlikeli ve en ölümcül figürlerinden biridir; onun savaş yetenekleri ve yakın dövüş ustalığı, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Jain Zar, Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'u olarak kalır — onun yetenek
 
 ## Ynnari'ye Katılış
 

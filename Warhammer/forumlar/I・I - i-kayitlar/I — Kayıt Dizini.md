@@ -42,3 +42,7 @@
 • **Iyanden**  <#1551815769845801062>
 • **Iybraesil (Craftworld)**  <#1552690522798428221>
 • **Necron Immortals**  <#1551905401241600000>
+
+## Tarihçe
+
+Dark Angels (I Legion), Lion El'Jonson'un oğullarıdır; ilk kurulan Legion'dur ve İmparatorluğun en

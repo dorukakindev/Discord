@@ -16,6 +16,6 @@ En büyük Tyranid organizmalarının taşıyabildiği, yengeç benzeri dev kıs
 
 ## Tarihçe
 
-Carnifex'in simgesi olan bu kıskaçlar, Sürü'nün canlı tank-avcısı anatomisinin en ağır yumruğudur. Kaynaklara göre tek savuruşta birden çok düşmanı yok edebilecek ya da en sert araç zırhını kesebilecek güçtedir; bunker kapılarını ve adamantium plakayı büken bu pençeler, yavaşlıklarıyla dengelenir — ancak tutunacak bir şey bulduklarında sonuç kaçınılmazdır.
+Crushing Claws, Tyranid'lerin en ölümcül ve en büyük yakın dövüş silahıdır — ezici pençelerdir. Bu silahlar, hedefi ezer ve onu tamamen yok eder; tek vuruşta bir tankın zırhını bile ezebilecek kadar güçlüdür. Crushing Claws, Tyranid'lerin en ölümcül ve en büyük yakın dövüş silahıdır; bu silahlar, Tyranid'lerin en önemli ve en büyük yakın dövüş silahıdır. Silahlar, Tyranid'lerin en ölümcül ve en büyük yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: wh40k.lexicanum.com — Lexicanum; *Codex: Tyranids* derlemesi

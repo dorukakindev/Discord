@@ -171,6 +171,10 @@ Alpha Legion gen-tohumu benzersizdir. **Polygonal Pattern** ve **Pale Skin** öz
 
 ## Çapraz Referanslar
 
+## Tarihçe
+
+Alpha Legion, Chaos'un en gizli ve en tehlikeli Legion'larından biridir — Alpharius Omegon'un Legion'udur ve en gizli Legion'dur. Alpha Legion, İmparatorluk'un en gizli ve en tehlikeli Legion'udur; onların gizli operasyonları ve entrikaları, Chaos'un en önemli ve en gizli güçlerinin kaynağıdır. Alpha Legion, Heresy sırasında Chaos'a düştü ama onların sadakati, İmparatorluk
+
 - **Alpharius Omegon** — İki Primarch, ikiz.
 - **Hydra Dominatus** — Savaş çığlığı.
 - **Ghost Legion** — Erken isim.

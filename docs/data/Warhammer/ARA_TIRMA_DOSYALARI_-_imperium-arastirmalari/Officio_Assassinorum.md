@@ -50,6 +50,10 @@ Bazı İnzibatçılar, maiyetlerindeki **Death Cultists** (Ölüm Kültü Üyele
 
 ## Organizasyon Yapısı
 
+## Tarihçe
+
+Officio Assassinorum, İmparatorluğun resmi suikast kurumudur; dört büyük tapınaktan — Callidus (şekil değiştiren), Culexus (P
+
 Officio'nun temel bölünmesi **tapınaklar** (temples veya clades) şeklindedir. Her tapınak, küçük bir **Masters** (Ustalar; genellikle **Lord Assassins** veya **Grand Masters** olarak anılır) grubu tarafından yönetilir ve **benzersiz bir öldürme tarzına** uzmanlaşır. Bu Master'lar nadiren doğrudan çalışır; bunun yerine **planlama, organize etme, araştırma ve genç suikastçıları izleme** sorumluluğundadırlar.
 
 Suikastçıların çoğu **rütbesizdir**, ancak bazıları diğerlerinden daha deneyimli olabilir. Deneyimli suikastçılar, başarılı görevlerle **Officio'da yükselebilir**. **Sicarius Primus** seviyesine ulaştıklarında, herhangi bir seviye görevi reddetme hakkı kazanır ve hatta **diğer tapınakların görevlerini** üstlenebilirler. Bu, **Terra'daki Merkez Tapınak**'a terfi için bir basamaktır; burada organizasyonun üst düzey ustalarından biri olabilirler. Grand Master'ın kendisi bile Officio'nun en yüksek pozisyonuna yükselmiş, becerikli bir suikastçıdır.

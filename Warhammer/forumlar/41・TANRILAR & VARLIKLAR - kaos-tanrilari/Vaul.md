@@ -15,7 +15,7 @@ Vaul, panteonun ustası ve yaralı kahramanıdır. Tanrılar arasındaki kavgaya
 
 ## Tarihçe
 
-Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır; zanaatkârlık ve demirciliğin tanrısı olan ve Aeldari'nin en önemli figürü olan Vaul, Aeldari'nin en önemli ve en kutsal varlığıdır — onlar, Aeldari'nin en ünlü ve en önemli tanrısıdır. Vaul'ın en büyük özelliği, onun zanaatkârlığıdır — onlar, zanaatkârlık ve demirciliğin tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır; bir Vaul takipçisi, hem bir zanaatkâr hem de bir inanan'dır ve onların varlığı, Aeldari'nin en büyük geleneğinin somut halidir. Vaul'ın en ünlü özelliği, onun demircilik tanrısı olmasıdır — onlar, Aeldari'nin en önemli ve en kutsal zanaatkârının tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır — onlar, bir zanaatkârlığın ve Aeldari'nin en büyük geleneğinin somut halidir.
+Vaul, 'Forge God' — Aeldari panteonunun demirci-tanrısı ve Smith'dir; Eldar mitolojisinde en değerli eserlerin — Scorpion of Khaine, Swords of Vaul, Infinity Circuit'lerin ruh-taşları — onun elinden çıktığına inanılır. Khaine ile savaşı sırasında Isha ve Kaela Mensha Khaine'in araya girişiyle zincirlerle bağlanır ve 'kör edilir'; bu yüzden eserleri kusursuz ama eksiktir. Eldar'ın spirit-stone teknolojisi ve Webway inşasında Vaul'un öğretileri temeldir — ama 'soul-forge' işleminin bedeli onun lanetidir.
 
 ## Kanon Notu
 
