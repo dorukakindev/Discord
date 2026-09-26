@@ -10,6 +10,7 @@ Soul Binding (Ruh Bağlama), İmparatorluğun en kutsal, en acımasız ve en hay
 
 ## Tarihçe
 
-Psyker'ın Golden Throne'a bağlanması töreni; korunma ve kontrol için yapılan ritüel. Kör edilir ama güçlenir — bedeli görmekle ölçülür.
+Soul Binding, bir psyker'ın zihnini doğrudan İmparator'un iradesine bağlayan ritüeldir; Terra'daki İmparatorluk Sarayı'nda yapılır ve sonucunda psyker, Astropath olarak görev yapacak kadar güçlenir ama aynı zamanda kalıcı olarak kör kalır. Ritüel, İmparator'un Altın Taht üzerinden yayılan psişik dokunuşuyla gerçekleşir — psyker'ın zihni Astronomicon'a açılır ve onun ışığı, taşıyıcısının beynine kazınır; bu süreç hem güçlendirir hem de yakar. Soul Binding olmadan bir psyker, Warp'ın doğrudan saldırısına açıktır — demon işgali, delilik ve mutasyon kaçınılmazdır; ama Soul Binding'li Astropath, İmparator'un kendi ruhunun bir parçasını taşır ve bu yüzden demonlar ona dokunamaz. Ritüelin bedeli büyüktür — kör kalma, kısa ömür ve sürekli psişik acı; ama Astropath'lar olmadan İmparatorluk iletişimsiz kalır ve dağılır.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

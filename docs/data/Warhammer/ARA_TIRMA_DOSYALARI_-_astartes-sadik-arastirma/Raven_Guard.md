@@ -34,6 +34,10 @@ https://static.wikia.nocookie.net/warhammer40k/images/c/ca/RavenGuardChapter.jpg
 
 XIX Lejyonu, **Asiatic Dustfields**'ın **Xeric** adlı teknoloji-vahşi kabilelerinden alınan ilk askerlerle Unification Wars sırasında kuruldu. İmparator'un "diğer gizli eli" olarak XIX; keşif, sızma ve dekapitasyon (önderleri öldürme) görevlerinde üstün oldu.
 
+## Tarihçe
+
+Raven Guard (XIX Legion)
+
 XIX'un Unification Wars'taki ekmek ve tereyağı: önce düşman gücüne sızarlar, sonra kritik anda gölgelerden çıkarak düşmanın liderliğini ve en kritik personelinı yok ederlerdi. Çoğu teslim olur, direnenler aniden liderlerinin öldürüldüğünü, sıralarının inceldiğini, bütünlüklerinin kırıldığını görürdü. XIX'un Xeric kültüründen etkilenmesiyle "güç haklıdır" yaklaşımıyla aşırı acımasızlık, baskı ve terör taktikleriyle düşmanlarını bir daha asla isyan edemeyecek hale getirirlerdi.
 
 ### Great Crusade ve Luna Wolves

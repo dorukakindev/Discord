@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/0/0a/Bloodline.jpg/revisio
 
 ## Tarihçe
 
-Rafen, Blood Angels'ın en ünlü ve en trajik Sergeant'ıdır; Blood Angels Civil War'da merkezi rol oynayan ve Chapter'ının en büyük sırrını saklayan Rafen, İmparatorluğun en trajik ve en önemli savaşçısıdır — onlar, Blood Angels'ın en ünlü ve en trajik üyesidir. Rafen'in en büyük özelliği, onun trajedisidir — onlar, bir Chapter'ın iç savaşının merkezinde olan ve onun en büyük sırrını saklayan en trajik savaşçıdır ve onların varlığı, Blood Angels'ın en büyük trajedisinin kanıtıdır; bir Rafen, hem bir savaşçı hem de bir sır taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Rafen'in en ünlü özelliği, onun Blood Angels Civil War'ıdır — onlar, bir Chapter'ın iç savaşının en trajik tanığıdır ve onların varlığı, Blood Angels'ın en büyük sırrının kanıtıdır. Rafen, Blood Angels'ın en ünlü ve en trajik Sergeant'ıdır — onlar, bir trajedinin ve Blood Angels'ın en büyük sırrının somut halidir.
+Rafen, Blood Angels'ın en ünlü ve en efsanevi figürlerinden biridir — James Swallow'un romanlarının kahramanı ve Blood Angels'ın en önemli figürlerinden biridir. Rafen, Blood Angels'ın en ünlü ve en efsanevi figürlerinden biridir; onun hikâyesi, Blood Angels'ın en ünlü ve en önemli hikâyelerinin simgesidir. Rafen, Blood Angels'ın en ünlü ve en efsanevi figürü olarak kalır — onun hikâyesi, Blood Angels'ın en ünlü ve en önemli hikâyelerinin simgesidir.
+
 
 -# Kaynaklar: *Fandom wiki*

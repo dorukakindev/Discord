@@ -14,4 +14,4 @@ Frateris'in tarihi karanlıktır: Vandire döneminde 'Brides of the Emperor' (so
 
 ## Tarihçe
 
-Frateris Templar, Ecclesiarchy'nin en eski ve en fanatik askeri tarikatıdır; onların görevi, İmparator'un kilisesini korumak ve onun düşmanlarını yok etmektir ve onlar, İmparatorluğun en fanatik ve en sadık savaşçılarıdır. Frateris Templar'ın en büyük özelliği, onların fanatikliğidir — onlar, İmparator'a olan inançlarıyla savaşır ve onların savaşı, hem askeri hem de dini bir seferdir; bir Frateris Templar, hem bir savaşçı hem de bir rahiptir ve onların savaşı, he
+Frateris Templar, Adeptus Ministorum'un paramiliter kolu — 'oratory of the Emperor' adına silahlanan din kardeşliği; Frateris Militia'nın düzenli, zırhlı versiyonudur. Vandire'in Reign of Blood sırasında 'Brides of the Emperor'ın (sonradan Sisters of Battle) erkek muadili olarak ortaya çıktı; Ecclesiarchy'nin 'no men under arms' yasaklandıktan sonra bile Frateris Templar, yasal boşlukla 'silahlı rahipler' olarak varlığını sürdürdü. Cardinal Bucharis ve 'Plague of

@@ -10,6 +10,10 @@ Türün asıl tehlikesi tek tek savaşçılarda değil, biyolojisinin kendisinde
 
 Ork toplumu gücün hak olduğu ilkesine dayanır. Bir Ork savaştıkça, kazandıkça ve saygı kazandıkça gerçekten de fiziksel olarak büyür; bu yüzden hiyerarşi hem toplumsal hem de bedenseldir. En iri olan yönetir, çünkü en iri olan zaten en çok kazanmış olandır. Ork'ların sayısı, yayılımı ve dönem dönem yükselen büyük Waaagh!'ları, onları Imperium'un karşısındaki en kalıcı tehditlerden biri yapar; ancak galaksideki toplam Ork nüfusuna dair güvenilir bir rakam yayımlanmış kanonda yoktur.
 
+## Tarihçe
+
+Orks, WH40K evreninin en büyük ve en korkulan xeno tehdididir; savaş için yaşayan ve Waaagh! — bir Ork'un kolektif psişik gücü — tarafından birleşen devasa bir ırktır — onlar, İmparatorluğun en büyük ve en kaçınılmaz düşmanıdır. Orks'un en büyük özelliği, onların sayısıdır — onlar, galaksinin en kalabalık xeno ırkıdır ve onların ordul
+
 ## Kökenler: Krork ve War in Heaven
 Güncel anlatı Ork'ların kökenini War in Heaven'a bağlar. Old Ones, Necrontyr ve onların efendisi C'tan'a karşı verdikleri savaşta kendilerine savaşçı türler tasarlamış; bu türlerden biri de kaynaklarda **Krork** adıyla anılan kadim savaşçı soyudur. Krork'ların bugünkü Ork'lardan çok daha iri, daha zeki ve daha bütünleşik bir savaş uygarlığı olduğu ima edilir. Bugünkü Ork'ların, War in Heaven'ın yıkımı ve aradan geçen milyonlarca yılın ardından bu soyun dağılmış, gerilemiş mirasçıları olduğu kabul edilir.
 

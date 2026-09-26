@@ -16,4 +16,4 @@ Aziz olarak Drusus, 'kılıçla vaaz eden' figürün en büyük örneğidir — 
 
 ## Tarihçe
 
-Saint Drusus, Sisters of Battle'ın en ünlü ve en kutsal azizidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizi olan Drusus, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizidir. Saint Drusus'un en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizdir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Drusus, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledi
+Saint Drusus, İmparatorluk'un en kutsal ve en efsanevi figürlerinden biridir — Angevin Crusade'in kahramanı ve İmparatorluk'un en önemli azizlerinden biridir. Drusus, İmparatorluk'un en kutsal ve en efsanevi figürlerinden biridir; onun savaşları ve fedakârlığı, İmparatorluk'un en önemli ve en kutsal geleneğinin simgesidir. Saint Drusus, İmparatorluk'un en kutsal ve en efsanevi figürü olarak kalır — onun savaşları, İmparatorluk'un en önemli ve en kutsal geleneğinin simgesidir.

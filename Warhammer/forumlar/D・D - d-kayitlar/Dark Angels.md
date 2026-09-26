@@ -52,7 +52,7 @@ Dark Angels, disiplinli ve kararlı bir savaş tarzıyla tanınır. Geleneksel C
 
 ## Tarihçe
 
-Dark Angels, sadık Space Marine chapter'larının en güçlü ve en gizli olanlarından sayılır; 30. Binyıl'ın Birinci Kuruluşu'nda yaratılan ilk 20 lejyonun I.'siydi. İmparator'a tam sadakat iddia etseler de 'Fallen' sırrını — Caliban'ın yok oluşundaki ihaneti — saklayan chapter olarak 'karanlığın ilk lejyonu'd
+Dark Angels, Space Marines'in en gizli ve en sadık Legion'larından biridir — Lion El'Jonson'un Legion'udur ve 'Unforgiven' olarak bilinen gizli bir Chapter'dır. Dark Angels, İmparatorluk'un en gizli ve en sadık Legion'udur; onların gizli operasyonları ve 'Unforgiven' geleneği, İmparatorluk'un en gizli ve e
 
 ## Fallen ve Cypher
 Fallen tek bir örgüt değildir. Kaynaklar, bir kısmının Chaos'a tamamen teslim olduğunu, bir kısmının paralı asker ya da haydut olarak yaşadığını, bazılarının ise Imperium'a sadık kalarak gizlice yaşamaya çalıştığını gösterir. Bu çeşitlilik, "Fallen = hain" denkleminin Chapter'ın resmî tutumu olduğunu, nesnel bir hüküm olmadığını hatırlatır.

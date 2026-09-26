@@ -48,7 +48,7 @@ T'au gemilerinin çevreleyen uzaya daha uzun yolculuklar yapmasını sağlayan y
 
 ## Tarihçe
 
-T'au Empire, İmparatorluk'un Ultima Segmentum'undaki Eastern Fringes yakınında hızla genişleyen çok-türlü xenos yıldız imparatorluğudur. Ethereal kastının yönettiği T'au, 'Greater Good' (Tau'va) felsefesiyle diğer ırkları da saflarına katar; ateş gücü ve battlesuit teknolojisiyle genç ama iddialı bir güçtür.
+T'au, T'au Empire'ın en önemli ve en kutsal dünyasıdır; onun anavatanı ve Sept dünyası olarak hizmet veren ve T'au'nun kültürel ve siyasi merkezidir — onlar, T'au'nun en önemli ve en kutsal evidir. T'au'nun en büyük özelliği, onun merkezidir — onlar, T'au'nun anavatanıdır ve onların varlığı, T'au'nun kültürel ve siyasi merkezinin kanıtıd
 
 Dördüncü Küre Genişlemesi, Great Rift'in oluşumundan kısa süre sonra başlatıldı. Yeni anti-matter motorları kullanan filo, kitlesel bir kaza sonucu kayıp olduğu düşünüldü ama gerçekte bir solucan deliği aracılığıyla galaksinin büyük kısmına atıldı. Yok olmasından yıllar sonra, Dördüncü Küre solucan deliği üzerinden T'au Empire ile temas kurabildi ve Beşinci Küre Genişlemesi'ne yol açtı.
 

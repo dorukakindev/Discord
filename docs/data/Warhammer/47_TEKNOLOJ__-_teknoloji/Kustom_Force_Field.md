@@ -16,7 +16,7 @@ Bir Big Mek'in sırtında ya da yanında taşıdığı, çevresindeki Boyz'u ve 
 
 ## Tarihçe
 
-Kustom force field, Ork teknolojisinin çelişkisini iyi özetler: derme çatma görünen bir düzenek, Imperial kalkanlarla karşılaştırılabilecek bir işlev görebilir. Big Mek'ler bu cihazları bir statü göstergesi olarak da taşır.
+Kustom Force Field, Ork'ların en önemli ve en tehlikeli teknolojisidir — enerji alanı oluşturan bir kalkandır. Bu kalkan, Ork Mekboy'larının ürettiği ve Ork'ların en büyük araçlarını koruyan bir enerji alanıdır; bu kalkan, Ork'ların en tehlikeli ve en ölümlü araçlarının en kritik aracıdır. Kustom Force Field, Ork'ların en önemli ve en tehlikeli teknolojisidir; bu kalkan, Ork'ların en büyük araçlarının hayatta kalmasını sağlayan en kritik araçtır. Kalkan, Ork'ların en önemli ve en tehlikeli teknolojisi olarak kalır.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

@@ -15,4 +15,4 @@ Malal (ya da Malice), İsyan ve İntikam'ın Kaos Tanrısı'dır — diğer dör
 
 ## Tarihçe
 
-Malal, Chaos'un en gizli ve en tehlikeli tanrısıdır; 'Beşinci Chaos Tanrısı' olarak bilinen ve Chaos'un en gizli gücü olan Malal, Chaos'un en gizli ve en tehlikeli varlığıdır — onlar, Chaos'un en gizli ve en tehlikeli tanrısıdır. Malal'ın en büyük özelliği, onun gizliliğidir — onlar, 'Beşinci Chaos Tanrısı' olarak bilinen ve Chaos'un en gizli gücüdür ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Malal takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, he
+Malal (ya da Malice), Chaos'un beşinci ve 'kayıp' tanrısı olarak anılan varlıktır; diğer Ruinous Power'lara karşı yıkımı temsil eden 'Hierarch of Anarchy'dir. Resmi kanonda uzun süredir lisans sorunları nedeniyle kıyıda kalmış bir kavramdır: orijinal 'Reaper' çizgi romanlarında Kaleb Daark'ın efendisiydi, sonradan 'Sons of Malice' warband'iyle dolaylı biçimde hayata döndü. Malal'in sembolü iki yarısı birbirinden ayrılmış kafatasıdır; takipçileri Chaos'a karşı Chaos'la savaşır ve bu çel

@@ -16,8 +16,4 @@ Yalnızca pariah kadınlardan oluşan, ömür boyu sessizlik yemini eden ve Thou
 
 ## Tarihçe
 
-Heresy'de Prospero'ya gönderilen kuvvette ve Terra'nın altındaki Webway savaşında yer aldı. Golden Throne döneminde anlatıdan neredeyse silinen Sisterhood, Great Rift'in ardından yeniden örgütlenerek Indomitus Crusade'e katıldı.
-
--# Kaynaklar: *Codex: Adeptus Custodes — 10th Edition*; *The Emperor's Legion — Chris Wraight*
-
--# İlişkili kayıtlar: <#1551654024351191241>, <#1551996908216520775>, <#1551810610264678443>
+Sisters of Silence, İmparatorluğun en gizemli ve en korkulan kurumlarından biridir; tamamı Pariah (Blank) geni taşıyan kadınlardan oluşan ve Warp'ı kelimenin tam anlamıyla 'susturan' bir savaş birliğidir. Bir Sister of Silence'ın varlığı, çevresindeki her psyker ve demon için fiziksel acı demektir — onların psişik boşluğu (psychic blank) Warp bağlantısını keser ve demonları Immaterium'a geri sürükler. Kurum, İmparator tarafından bizzat kuruldu; görevleri Black Ships'e eşlik ederek psyker'ları güvenle taşımak ve Warp'ın tehditlerine karşı İmparatorluğun son savunma hattını oluşturmaktı. Horus Heresy'de kritik rol oynadılar — özellikle Prospero'nun yakılması ve Terra Kuşatması'nda Thousand Sons'un büyülerine karşı tek etkili kalkan oldular. M42'de neredeyse unutulmuş bir kurumdular ama Guilliman'ın dönüşüyle yeniden aktifleştiler; şim

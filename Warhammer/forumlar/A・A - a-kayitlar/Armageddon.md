@@ -39,7 +39,7 @@ Geride kalan Ork kabileleri savaşmayı sürdürdü. Ork'lar için Armageddon ar
 
 ## Tarihçe
 
-Armageddon, Segmentum Solar'da, Terra'nın kuzeydoğusunda 10.000 ışık yılı uzaklıkta İmparatorluk Hive World ve Industrial World'üdür; İmparatorluk'un gördüğü en büyük çatışmalardan birkaçının sahnesi oldu — Birinci Armageddon Savaşı (Chaos'a karşı), İkinci ve Üçüncü Armageddon Savaşları (devasa Ork
+Armageddon, İmparatorluğun en büyük ve en önemli dünyalarından biridir; onun hive city'leri ve sanayi kapasitesiyle — İmparatorluğun en büyük üretim merkezlerinden biridir — ve onun Ork'larla olan savaşlarıyla — İmparatorluğun en büyük savaşlarının merkezidir — onlar, İmparatorluğun en büyük ve en
 
 ## Great Rift Sonrası ve Operation Imperator
 999.M41'de açılan Great Rift, zaten yaralı olan dünyaya yeni bir düşman getirdi. 8th Edition dönemi metinleri, Warp'ın gerçek uzaya taşmasıyla Khorne'a bağlı daemon kuvvetlerinin de Armageddon'a indiğini ve kül çöllerinin Imperial, Ork ve Chaos kuvvetlerinin birbirine girdiği üç yönlü bir savaş alanına dönüştüğünü anlatır. Ayrıntılar kaynaktan kaynağa farklı vurgulanır; bu dönemin tek ve kesin bir kronolojisi yayımlanmış kanonda bulunmaz.

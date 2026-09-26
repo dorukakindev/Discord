@@ -21,6 +21,10 @@ Kaynakların çizdiği Rakarth, her yeni bedeni bir deney sahası olarak görür
 
 Rakarth'ın zevki yalnızca kendi bedeniyle sınırlı değildir. Onun Coven'ı, et sanatını bir estetik arayış olarak gören gelenekle özdeşleşir. Haemonculi'nin yapıtları arasında sayılan **Wrack**'ler, cerrahi olarak dönüştürülmüş çırak ve hizmetkârlardır; **Grotesque**'ler, özgün kimlikleri silinmiş dev et yapıtlarıdır; **Talos** ve **Cronos** ise acıyı hem uygulayan hem de toplayan canlı-mekanik makinelerdir. Rakarth bu yaratıların tümünün yaratıcısı değildir, ama kaynaklarda onların ruhunu en iyi temsil eden usta olarak anılır.
 
+## Tarihçe
+
+Urien Rakarth, Drukhari'nin en ünlü ve en korkulan Haemonculus'udur; 'Sculptor of Torments' olarak bilinen ve Prophets of Flesh'in lideri olan Rakarth, Drukhari'nin en eski ve en acımasız üyesidir — onlar, Drukhari'nin en gizli ve en tehlikeli varlığıdır. Urien Rakarth'ın en büyük öze
+
 Rakarth'ın bir Haemonculus'tan beklenecek ölçüde işkence aracı ve et sanatıyla ilişkilendirilen emanetleri vardır; yayınlarda **Casket of Flensing** ve **Clone Field** bunlar arasında anılır. Bu emanetlerin kökeni ve işleyişi lore düzeyinde ayrıntılandırılmaz.
 ---MSG---
 ## Prophets of Flesh ve Commorragh Siyaseti

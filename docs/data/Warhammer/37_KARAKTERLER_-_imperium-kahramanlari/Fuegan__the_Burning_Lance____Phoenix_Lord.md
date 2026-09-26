@@ -16,7 +16,8 @@ Fire Dragons'ın Phoenix Lord'u; yıkımın ve kararlılığın ateşini temsil 
 
 ## Tarihçe
 
-Fuegan (the Burning Lance), Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur; Fire Dragons Aspect'inin kurucusu olan Fuegan, Aeldari'nin en güçlü savaşçı geleneğinin ve onların en ölümlü ateş gücünün simgesidir — onlar, Aeldari'nin en ünlü ve en ölümcül savaşçısıdır. Fuegan'ın en büyük özelliği, onun gücüdür — onlar, Fire Dragons'ın kurucusu ve en güçlü üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Fuegan, hem bir savaşçı hem de bir efsanedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Fuegan'ın en ünlü özelliği, onun 'Yanan Mızrak' lakabıdır — onlar, ateşin en büyük ustasıdır ve onların varlığı, Aeldari'nin savaş sanatının en yüksek noktasının kanıtıdır. Fuegan, Aeldari'nin en ünlü ve en ölümcül Phoenix Lord'udur — onlar, ateşin gücünün ve Aeldari'nin savaş sanatının somut halidir.
+Fuegan (the Burning Lance), Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'larından biridir — Fire Dragons Aspect Shrine'ın kurucusudur. Fuegan, Aeldari'nin en tehlikeli ve en ölümcül savaşçısıdır; onun fusion silahları ve savaş yetenekleri, Aeldari'nin en önemli ve en ölümcül savaş güçlerinden biridir. Fuegan, Aeldari'nin en tehlikeli ve en ölümcül Phoenix Lord'u olarak kalır — onun varlığı, Aeldari'nin en önemli ve en ölümcül savaş geleneğinin simgesidir.
+
 
 -# Kaynaklar: *Codex: Aeldari*; *Codex: Eldar*
 

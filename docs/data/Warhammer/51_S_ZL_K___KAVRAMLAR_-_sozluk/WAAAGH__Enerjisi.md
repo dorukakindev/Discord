@@ -12,7 +12,4 @@ Alanın en meşhur yan etkisi teknolojidir: Ork gereçleri fizik kurallarını a
 
 ## Tarihçe
 
-Ork'ların kolektif psişik alanı; milyonlarca Ork'un bir araya gelmesiyle oluşan, Gork ve Mork'a atfedilen ortak güç. Ork teknolojisinin gerçek 'itici güç'ü — 'kırmızı daha hızlıdır' çünkü hep birlikte öyle inanırlar.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
--# Çapraz: Weirdboy · Warboss · Mekboy · Hive Mind
+WAAAGH! Enerjisi, Ork ırkının kolektif psişik alanıdır; bir Ork savaşa girdiğinde çevresindeki tüm Ork'larla birleşen ve onların teknolojisinin, gücünün ve hatta gerçekliğinin çalışmasını sağlayan görünmez kuvvettir. WAAAGH! basitçe söylemek gerekirse 'Ork inancının fiziksel gücü'dür — bir Ork bir şeye inandığında ve yeterince Ork aynı şeye inandığında, o şey gerçek olur; kırmızı boya daha hızlı gider, kırmızı a

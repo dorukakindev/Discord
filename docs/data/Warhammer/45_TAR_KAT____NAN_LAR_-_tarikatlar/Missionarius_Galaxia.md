@@ -16,7 +16,7 @@ Yeni keşfedilen ya da yeniden bulunan insan dünyalarına Imperial Cult'ı göt
 
 ## Tarihçe
 
-Age of Strife boyunca Terra'dan kopmuş insan toplulukları, Imperium'a yeniden katılırken çoğu zaman kendi inançlarını da taşır. Missionarius Galaxia bu inançları Emperor tapınmasıyla uzlaştırmaya ya da onun yerine koymaya çalışır. Misyonerlerin görevi tehlikelidir; birçoğu yabancı dünyalarda iz bırakmadan kaybolur ya da şehit düşer.
+Missionarius Galaxia, İmparatorluk'un en önemli ve en yaygın misyoner organizasyonudur — İmparator'un dinini yayan organizasyondur. Bu organizasyon, İmparatorluk'un en önemli ve en yaygın misyoner organizasyonudur; Missionarius Galaxia, İmparatorluk'un en önemli ve en yaygın misyoner organizasyonudur. Bu organizasyon, İmparatorluk'un en önemli ve en yaygın misyoner organizasyonudur; Missionarius Galaxia, İmparatorluk'un en büyük ve en yaygın misyoner organizasyonudur. Organizasyon, İmparatorluk'un en önemli ve en yaygın misyoner organizasyonu olarak kalır.
 
 -# Kaynaklar: *Codex: Witch Hunters*; *Codex: Adepta Sororitas*
 

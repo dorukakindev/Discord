@@ -26,7 +26,7 @@ Siege of Terra sırasında Angron ve Legion'u, kuşatmanın en kanlı çatışma
 
 ## Tarihçe
 
-World Eaters (XII Legion, eski adıyla War Hounds), Angron'un oğullarıdır; kan, vahşet ve yakın dövüş üzerine kurulu ve Horus Heresy'de Khorne'a düşen ilk Legion'dur — onların savaşı, sadece kan ve öfkedir. World Eaters'ın düşüşü, Angron'un trajedisidir — onların primarch'ı, Butcher's Nails implantlarıyla delirtilmiş bir köleydi ve onun öfkesi, Legion'unu da delirtti; World Eaters, Heresy'nin en vahşi savaşçıları oldular ve onların savaşı, sadece öldürmek ve kan akıtmaktır. World Eaters'ın savaşı, basit ve acımasızdır — onlar savaşta bağırmaz, sadece keser ve biçer; bir World Eater, düşmanını parçalar ve onun amacı, sadece Khorne'a kan ve kafatası sunmaktır. World Eaters, İmparatorluğun en vahşi ve en korkulan düşmanıdır — onlar, Khorne'un en sadık çocuklarıdır.
+World Eaters, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir — Angron'un Legion'udur. World Eaters, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir; bu Legion, İmparatorluk'un Chaos'a karşı mücadelesinin en kritik hedefidir. World Eaters, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir; bu Legion, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarından biridir.
 
 ## Skalathrax ve Legion'un Dağılışı
 Legion olarak World Eaters'ın sonu, Heresy sonrası Legion Wars döneminde Skalathrax'ta geldi. Emperor's Children'a karşı sürdürülen çatışma sırasında gezegenin gecesi bütün yüzeyi donduracak kadar soğuyunca savaşçıların çoğu barınaklara çekildi. Angron'un yakın yoldaşı Khârn, bu çekilmeyi Khorne'a ve savaşa ihanet sayarak barınakları ateşe verdi ve kendi kardeşlerine saldırdı. Ardından gelen kardeş kıyımı, zaten parçalanmakta olan Legion'u tamamen dağıttı.
@@ -57,5 +57,9 @@ World Eaters ve Angron, Rogue Trader dönemini izleyen Chaos kaynaklarıyla (*Re
 
 **Kaynaklar:** *Betrayer — Aaron Dembski-Bowden*; *Butcher's Nails — Aaron Dembski-Bowden*; *Angron: Slave of Nuceria — Ian St. Martin*; *Khârn: Eater of Worlds — Anthony Reynolds*; *Codex: World Eaters — 10th Edition*; *Arks of Omen: Angron*
 **Çapraz:** <#1551815867845578773>, <#1551812225570836561>, <#1551814951365115956>, <#1551638953101365340>, <#1551641477501947995>, <#1551813750305198101>, <#1551818097504157699>, <#1551816158951510069>
+
+## Tarihçe
+
+World Eaters (XII Legion, eski adıyla War Hounds), Angron'un oğullarıdır; kan, vahşet ve yakın dövüş üzerine kurulu ve Horus Heresy'de Khorne'a düşen ilk Legion'dur — onların savaşı, sadece kan ve öfkedir. World Eaters'ın düşüşü, Angron'un trajedisidir — onların primarch'ı, Butcher's Nails implantlar
 
 ​

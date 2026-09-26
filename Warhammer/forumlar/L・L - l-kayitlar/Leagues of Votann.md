@@ -19,7 +19,7 @@ Great Rift sonrası dönemde League'ler çekirdeğin dışına doğru belirgin b
 
 ## Tarihçe
 
-Leagues of Votann, WH40K evreninin en eski ve en gizli insan türevi ırkıdır; Squat'ların devamı olarak bilinen ve Galactic Core'da — yıldızların en yoğun ve en tehlikeli bölgesinde — yaşayan, İmparatorluğun en bağımsız ve en gelişmiş insan türevi gücüdür. Leagues of Votann'ın en büyük özelliği, onların bağımsızlığıdır — onlar, İmparatorluğa bağlı değildir ve kendi teknolojileriyle, kendi ordularıyla ve kendi yasalarıyla yaşarlar; onların toplumu, hem insan hem de makine arasındaki en gelişmiş birleşimdir. Leagues of Votann'ın en ünlü özelliği, onların Ancestor Cores'udur — onlar, atalarının bilgisini ve ruh
+Leagues of Votann, Squat'ların gerçek devamı — 'Kin' adı verilen klon-insanların teknoloji-bükülmüş toplumu; Votann denen 'ancestor core'larına taparlar ve Imperium'un 'sapkın' ama yararlı komşusudur. 'Kindred' birimleri, 'Hearthkyn' savaşçıları ve 'Oathband' lonca düzeniyle organize olurlar; graviton silahları ve 'brôkhyr' demircileriyle ünlüdür. Squat Home Worlds'ün yok oluşundan sonra Votann, 'Kin'in kendi kaderini çizme çabasıdır — Imperium'a bağlı değil ama düşman da değil; kendi 'League'lerinin efendisidir.
 
 ## Yapı ve Toplum
 Kin toplumu, işlevsel sınıflar ve loncalar etrafında örgütlenir:

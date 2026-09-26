@@ -16,8 +16,8 @@ Huron Blackheart önderliğinde Maelstrom'dan Imperium'a saldıran korsan bir g�
 
 ## Tarihçe
 
-Red Corsairs, Ultima Segmentum'daki Maelstrom Warp rift'i — 'Maelstrom Zone' — yakınındaki İmparatorluk sevkiyatı ve dünyalarını tehdit eden, ölümlüler ve diğer Hain Denizcilerden oluşan dev korsan filosuna komuta eden Renegade Chapter'dır. Lufgt Huron'un liderliğindeki bu grup, 'Badab'ın artıkları' olarak İmparatorluk'un en büyük deniz korsan tehdididir.
+Red Corsairs, Huron Blackheart'ın Maelstrom'da kurduğu Chaos Space Marine gücü — eski Astral Claws'un kalıntılarından doğan ve 'Korsan Lordu' unvanıyla segmentum'un en büyük kaos tehdidi hâline gelen warband. Tyrant of Badab'ın düşüşü sonrası kaçan Huron, Maelstrom'un fırtınasında yeniden doğdu; Red Corsairs bugün 'en organize Chaos pirat gücü'dür — düzenli baskınlar, kendi forge'ları ve Imperium'dan kaçanların sığınağı. Blackheart'ın 'Tyrant' olarak ikinci gelişi, Age of Apostasy'den bile daha tehlikeli bir bölgesel güç oluşturdu.
 
 -# Kaynaklar: *Imperial Armour Volume Nine: The Badab War – Part One*; *Imperial Armour Volume Ten: The Badab War – Part Two*; *Codex: Chaos Space Marines*
 
--# İlişkili kayıtlar: <#1551811438547312645>, <#1551809294750449746>, <#1551812225570836561>
+-# İlişkili kayıtlar: <#1551811438547312645>, <#1551809294750449746>, <#15518122255708

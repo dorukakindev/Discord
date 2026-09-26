@@ -12,6 +12,10 @@ Imperium'un her kurumu meşruiyetini ondan alır. Ecclesiarchy onu insanlığın
 
 Bu madde, Emperor'u tek bir hakikate indirgemek yerine üç katmanı ayırarak ele alır: yayımlanmış kanonda doğrulanan olaylar, evren-içi inançlar ve iddialar, ve Games Workshop'un bilinçli olarak cevapsız bıraktığı sorular. Onun kökeni, doğası ve Throne üzerindeki bilincinin durumu bu son kategoriye girer; ansiklopedi bu belirsizliği kapatmaya çalışmaz.
 
+## Tarihçe
+
+Emperor of Mankind, İmparatorluğun en ünlü ve en kutsal figürüdür; İmparatorluğun kurucusu ve onun en yüksek otoritesi olan İmparator, İmparatorluğun en kutsal ve en önemli varlığıdır — onlar, İmparatorluğun en ünlü ve en kutsal figürüdür. İmparator'un en büyük özelliği, onun gücüdür — onlar, İmparatorluğun kurucusu ve onun en yüksek otoritesidir ve
+
 ## Kökenler: Kasıtlı Bir Belirsizlik
 Emperor'un nereden geldiği Warhammer 40,000 lore'unun en bilinçli biçimde bulanık bırakılmış konularından biridir. Yaygın anlatıya göre Terra'nın insanlık tarihinin çok erken bir döneminde, Anadolu olarak bilinen bölgede doğmuştur. Bazı kaynaklar, onu kendi ruhlarını tek bir bedende yeniden doğmak üzere feda eden kadim şamanların birleşik varlığı olarak betimler; ancak bu anlatı her yayında aynı biçimde tekrarlanmaz ve güncel kanon onu kesin bir köken olarak dayatmaz.
 

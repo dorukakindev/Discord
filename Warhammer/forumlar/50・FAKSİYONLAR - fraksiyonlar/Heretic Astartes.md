@@ -14,7 +14,7 @@ Chaos Space Marines olarak da bilinen, Emperor'a sırt çevirmiş Space Marine'l
 
 ## Tarihçe
 
-Siege of Terra'nın ve Horus'un ölümünün ardından Legion'lar Scouring'de Eye of Terror'a sürüldü. Orada Legion Wars'un iç boğazlaşmasıyla dağınık warband'lere bölündüler. Abaddon'ın Black Legion'ı etrafında toplanan Black Crusade'ler, on üçüncüsünde Cadia'nın düşüşüyle doruğa ulaştı.
+Heretic Astartes, Horus Heresy'de İmparator'a ihanet eden dokuz lejyonun ve sonradan Chaos'a dönmüş sonraki warband'lerin genel adı — 'Traitor Legions' ya da 'Chaos Space Marines' da denir. Black Legion, Death Guard, Emperor's Children, Iron Warriors, Night Lords, Thousand Sons, Word Bearers, World Eaters ve Alpha Legion çekirdek dokuzdur; Red Corsairs gibi sonradan dönenler bu grubun devamıdır. Warp'in mutasyonu ve daemon-gifts ile dönüşen bu güç, Imperium'un en eski ve en tehlikeli iç düşmanıdır — 'Onları sonsuz kılan tek şey nefretleri'dir.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -24,6 +24,4 @@ Heresy döneminden kalma zırh ve silahlar; mutasyon; daemon engine'ler ve posse
 
 Black Legion, Night Lords, Iron Warriors, Word Bearers, Alpha Legion, Death Guard, Thousand Sons, World Eaters, Emperor's Children; Red Corsairs gibi renegade gruplar.
 
--# Kaynaklar: *Codex: Chaos Space Marines*; *Talon of Horus — Aaron Dembski-Bowden*
-
--# İlişkili kayıtlar: <#1551812225570836561>, <#1551816158951510069>, <#1551811342405599345>, <#1551811393680838699>, <#1551638958352506881>
+-# Kaynaklar: *Codex: Chaos Space Marines*; *Talon of Hor

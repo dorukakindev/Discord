@@ -18,6 +18,7 @@ Demonifuge; ölüp dirilen Battle Sister, İmparatorluk'un en esrarengiz 'yaşay
 
 ## Tarihçe
 
-Ephrael Stern, İmparatorluğun en gizli ve en tartışmalı azizesidir; bir Sisters of Battle üyesi olan ve daemon'ları yenen doğaüstü güçlere sahip olan Ephrael Stern, İmparatorluğun en gizli ve en tehlikeli varlığıdır — onlar, İmparatorluğun en gizli ve en tartışmalı azizesidir. Ephrael Stern'in en büyük özelliği, onun gücüdür — onlar, daemon'ları yenen ve ölümden dönen doğaüstü güçlere sahiptir ve onların varlığı, İmparatorluğun en gizli gücünün kanıtıdır; bir Ephrael Stern, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ephrael Stern'in en ünlü özelliği, onun tartışmalılığıdır — onlar, Inquisition tarafından araştırılan ve onların gücünün kaynağı belirsiz olan en gizli varlıktır ve onların varlığı, İmparatorluğun en büyük sırrının kanıtıdır. Ephrael Stern, İmparatorluğun en gizli ve en tartışmalı azizesidir — onlar, doğaüstü gücün ve İmparatorluğun en büyük sırrının somut halidir.
+Ephrael Stern, Sisters of Battle'ın en gizli ve en tehlikeli figürlerinden biridir — İmparator'un gücünü kanalize eden bir Living Saint'dir. Stern, Sisters of Battle'ın en gizli ve en tehlikeli figürlerinden biridir; onun güçleri, İmparatorluk'un en gizli ve en ölümcül güçlerinden biridir. Ephrael Stern, Sisters of Battle'ın en gizli ve en tehlikeli figürü olarak kalır — onun güçleri, İmparatorluk'un en gizli ve en ölümcül güçlerinin simgesidir.
+
 
 -# Kaynaklar: *Daemonifuge* çizgi romanı; *Sisters of Battle* kaynakları

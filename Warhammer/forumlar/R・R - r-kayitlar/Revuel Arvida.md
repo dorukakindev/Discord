@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/36/Revuel_Arvida.jpg/rev
 
 ## Tarihçe
 
-Revuel Arvida, Thousand Sons'ın en ünlü ve en trajik sadık üyesidir; Horus Heresy sırasında kendi Legion'unun ihanetini reddeden ve ilk Grey Knight'lardan biri olan Arvida, İmparatorluğun en trajik ve en önemli savaşçısıdır — onlar, Thousand Sons'ın en ünlü ve en trajik üyesidir. Revuel Arvida'nın en büyük özelliği, onun trajedisidir — onlar, bir Legion'un ihanetini reddeden ve ilk Grey Knight'lardan biri olan en trajik savaşçıdır ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Arvida, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Revuel Arvida'nın en ünlü özelliği, onun ilk Grey Knight'lardan biri olmasıdır — onlar, bir Chapter'ın doğuşunun en trajik tanığıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Revuel Arvida, Thousand Sons'ın en ünlü ve en trajik sadık üyesidir — onlar, bir trajedinin ve İmparatorluğun en büyük gücünün somut halidir.
+Revuel Arvida, Thousand Sons'ın en trajik ve en önemli figürlerinden biridir — Heresy sırasında İmparatorluk'a sadık kalan tek Thousand Son'dur. Arvida, Thousand Sons'ın en trajik ve en önemli figürüdür; onun hikâyesi, Heresy'nin en trajik ve en önemli anlarının simgesidir. Arvida, Heresy sırasında İmparatorluk'a sadık kaldı ve Thousand Sons'ın ihanetini reddetti; onun hikâyesi, İmparatorluk'un en büyük sadakat hikâyelerinden birinin simgesidir. Revuel Arvida, Thousand Sons'ın en trajik ve en önemli figürü olarak kalır — onun hikâyesi, Heresy'nin en trajik ve en önemli anlarının simgesidir.
 
 -# Kaynaklar: *Fandom wiki*
 

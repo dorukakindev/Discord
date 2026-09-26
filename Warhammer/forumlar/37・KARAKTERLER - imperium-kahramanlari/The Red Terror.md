@@ -16,6 +16,7 @@ Red Terror, kan rengi kabuğu, dev tırpan uzuvları ve bir insanı bütünüyle
 
 ## Tarihçe
 
-The Red Terror, Tyranid'in en gizli ve en korkulan varlığıdır; bir gezegenin yeraltında yaşayan ve onun yüzeyini yutan devasa bir Tyranid yaratığı olan Red Terror, Tyranid'in en sinsi ve en ölümcül silahıdır — onlar, Tyranid'in en gizli ve en korkulan varlığıdır. The Red Terror'un en büyük özelliği, onun boyutudur — onlar, bir gezegenin yüzeyini yutan ve onu bir Tyranid yuvasına dönüştüren en büyük yaratıktır ve onların varlığı, Tyranid'in en büyük tehdidinin kanıtıdır; bir Red Terror, hem bir yaratık hem de bir doğal felakettir ve onların varlığı, Tyranid'in en büyük gücünün somut halidir. The Red Terror'un en ünlü özelliği, onun yeraltında yaşamasıdır — onlar, bir gezegenin altında bekleyen ve onu yutan en sinsi yaratıktır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır. The Red Terror, Tyranid'in en gizli ve en korkulan varlığıdır — onlar, bir doğal felaketin ve Tyranid'in en sinsi gücünün somut halidir.
+The Red Terror, Tyranid'lerin en tehlikeli ve en korkulan bioform'larından biridir — en vahşi ve en ölümcül Tyranid bioform'larından biridir. The Red Terror, Tyranid'lerin en tehlikeli ve en korkulan bioform'larından biridir; onun varlığı, Tyranid'lerin en önemli ve en korkulan güçlerinden biridir. The Red Terror, Tyranid'lerin en tehlikeli ve en korkulan bioform'u olarak kalır — onun varlığı, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarının kaynağıdır.
+
 
 -# Kaynaklar: *Code

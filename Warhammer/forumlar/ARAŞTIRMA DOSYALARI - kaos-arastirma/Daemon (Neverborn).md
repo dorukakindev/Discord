@@ -26,6 +26,10 @@ Tek bir daemon'a maruz kalmak, bazı koşullarda onlarla — ister savaşta iste
 
 ### Possession (Ele Geçirme)
 
+## Tarihçe
+
+Daemon, Warp'ta yaşayan ve Chaos tanrılarının iradesinin somutlaşmış hali olan varlıktır;
+
 Realspace'e çağrılmak yerine, bir daemon bir ölümlünün (bir psyker'ın zihni buna en hassas olanıdır) zihnine girebilir ve bireyi iradesine çevirip, ev sahibi aracılığıyla gerçekliği etkileyebilir. Bazı kafirler, **Possessed Chaos Space Marines** gibi daemonik anlaşmalar yoluyla kendilerini ev sahibi olarak sunar.
 
 ### Daemonic Incursions (Daemonik Baskınlar)

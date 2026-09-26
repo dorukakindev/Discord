@@ -10,6 +10,7 @@ Sanctioned Psyker, İmparatorluğun psyker'ı bir tehlikeden bir silaha dönüş
 
 ## Tarihçe
 
-İmparatorluk'un yasal psyker sınıfı; Scholastica'dan damgalanmış ve izinli Warp-kullanıcı. Hem izin hem lanet — kullanılabilen tehlike.
+Sanctioned Psyker, İmparatorluk'un en önemli ve en gizli psyker'larından biridir — İmparatorluk tarafından onaylanan ve kontrol edilen psyker'lardır. Sanctioned Psyker'lar, İmparatorluk'un psyker gücünü kontrol altında tutar; bu psyker'lar, İmparatorluk'un en önemli ve en gizli psyker güçlerinin en kritik aracıdır. Sanctioned Psyker, İmparatorluk'un en önemli ve en gizli psyker'larından biridir; bu psyker'lar, İmparatorluk'un psyker gücünün en kritik aracıdır.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

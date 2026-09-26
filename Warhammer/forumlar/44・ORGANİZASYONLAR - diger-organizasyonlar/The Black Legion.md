@@ -14,6 +14,7 @@ Lejyonun yapısı eşsizdir: dört Kaos tanrısına eşit bağlılık, hain lejy
 
 ## Tarihçe
 
-The Black Legion, Horus'un eski Sons of Horus lejyonunun Abaddon tarafından yeniden kurulmuş halidir; adı, lejyonun 'keder ve ihanet' boyasıdır. Legion Wars sırasında diğer hain lejyonları ezip Chaos'un en güçlü birleşik gücü haline geldi — Abaddon'un her Kara Haçlı Seferi'nin bel kemiği.
+The Black Legion, Abaddon'un 'en organize' Chaos gücü — Sons of Horus'un 'kalan'ı ve 'The Despoiler'ın kişisel ordusu; 'Black' rengi ve 'Let the galaxy burn' doktriniyle bilinir. 'Black Crusade'lerin ana taşıyıcısı; 'Horus's legacy' artık Abaddon'un 'kişisel intikam' ordusudur. 'The Warmaster's will' — Black Legion'un tek amacı 'imparatorluğu yakmaktır'.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

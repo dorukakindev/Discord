@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/f/f9/Raptor_Imperialis_Ico
 
 ## Tarihçe
 
-Uriah Olathaire, İmparatorluğun en trajik ve en önemli figürlerinden biridir; Terra'daki Church of the Lightning Stone'un son rahibi olan ve İmparator tarafından dinin yasaklanmasıyla son bulan son inanan olan Olathaire, İmparatorluğun en büyük çelişkisinin ve en büyük trajedisinin simgesidir — onlar, İmparatorluğun en trajik ve en önemli figürüdür. Uriah Olathaire'in en büyük özelliği, onun inancıdır — onlar, Terra'nın son inananıdır ve onların varlığı, İmparatorluğun din yasağının en büyük trajedisinin kanıtıdır; bir Olathaire, hem bir rahip hem de bir trajedidir ve onların varlığı, İmparatorluğun en büyük çelişkisinin somut halidir. Uriah Olathaire'in en ünlü özelliği, onun İmparator'la yüzleşmesidir — onlar, İmparator'un din'i yasaklamasını gören ve onu sorgulayan son kişidir ve onların varlığı, İmparatorluğun en büyük çelişkisinin kanıtıdır. Uriah Olathaire, İmparatorluğun en trajik ve en önemli figürlerinden biridir — onlar, bir inancın ve İmparatorluğun en büyük çelişkisinin somut halidir.
+Uriah Olathaire, İmparatorluk'un en trajik ve en önemli figürlerinden biridir — Terra'nın son rahibi ve İmparatorluk dininin son savunucusudur. Olathaire, İmparatorluk'un en trajik ve en önemli figürlerinden biridir; onun hikâyesi, İmparatorluk'un din politikasının ve İmparator'un en önemli kararlarının simgesidir. Olathaire, İmparator'la karşılaştı ve İmparatorluk dininin sonunu gördü; onun hikâyesi, İmparatorluk tarihinin en önemli ve en trajik anlarından biridir. Uriah Olathaire, İmparatorluk'un en trajik ve en önemli figürü olarak kalır — onun hikâyesi, İmparatorluk tarihinin en önemli anlarından biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

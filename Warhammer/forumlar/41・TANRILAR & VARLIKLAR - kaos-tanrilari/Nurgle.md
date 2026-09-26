@@ -15,7 +15,7 @@ Plague God, Lord of Decay ve müritlerinin ağzında Grandfather Nurgle; çürü
 
 ## Tarihçe
 
-Nurgle, Chaos'un en ünlü ve en tiksindirici tanrısıdır; veba, çürüme ve 'sevgi'nin tanrısı olan ve onun en sinsi operasyonlarını yöneten Nurgle, Chaos'un en tiksindirici ve en tehlikeli gücüdür — onlar, Chaos'un en ünlü ve en tiksindirici tanrısıdır. Nurgle'un en büyük özelliği, onun vebasıdır — onlar, veba ve çürümenin tanrısıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Nurgle takipçisi, hem bir savaşçı hem de bir veba taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Nurgle'un en ünlü özelliği, onun 'sevgi' tanrısı olmasıdır — onlar, çürümenin ve vebanın 'sevgi'sini yayan en tiksindirici tanrıdır ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Nurgle, Chaos'un en ünlü ve en tiksindirici tanrısıdır — onlar, bir vebanın ve Chaos'un en büyük tehdidinin somut halidir.
+Nurgle, 'Plague God' — hastalık, çürüme, umutsuzluk ve kaderin kaçınılmaz döngüsünün Chaos tanrısıdır; 'Grandfather Nurgle' ya da 'Papa Nurgle' diye anılır ve takipçilerine sevgi dolu bir kabulleniş sunar. Death Guard ve Mortarion'un efendisidir; Ku'gath Plaguefather, Epidemius ve Rotigus onun büyük daemonlarıdır. Nurgle'ın bahçesinde her çürüme yeni bir yaşamdır — zehirli ama paradoksal biçimde 'şefkatli' bir tanrı; Isha'yı esir alması ve onun ağlayışlarını 'ilaç' olarak dinlemesi onun en karanlık yönüdür. Plague Wars ve Scourge Stars'ın efendisi; '7' sayısıyla bağlıdır.
 
 ## Teknik / Biyolojik Özellikler
 

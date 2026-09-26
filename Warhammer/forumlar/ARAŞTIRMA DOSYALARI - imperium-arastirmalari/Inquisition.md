@@ -219,4 +219,4 @@ Paradoksal bir felsefe — sadece kendilerinin Warp, yabancı ve pis olanı kull
 
 ## Tarihçe
 
-Inquisition, İmparatorluk'un gizli polis ve istihbarat teşkilatıdır; ordo'lara (Malleus, Hereticus, Xenos vb.) ayrılmış inquisitor'lar neredeyse sınırsız yetkiyle Chaos, heresy ve xenos tehditlerini soruşturur. Exterminatus dahil her aracı kullanabilirler ve hiçbir İmparatorluk kurumu onlara hesap sormaz.
+Inquisition, İmparatorluk'un gizli polis-yargı gücü — 'heresy, xeno ve daemon' üçlemesine karşı yetkisiz sınırsız yetkiyle donatılmış kurum. Ordo Malleus (daemon), Ordo Hereticus (heresy) ve Ordo Xenos (xeno) üç büyük kol; Inquisitor'lar 'Exterminatus' dahil her yetkiyi taşır. Eisenhorn, Coteaz, Kryptmann ve Rex gibi figürler bu düzenin efsaneleri; 'Inquisitorial Rosette' İmpara

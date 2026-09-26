@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/82/Deceiver.jpg/revision
 
 ## Tarihçe
 
-Mephet'ran ('Aldatan'), C'tan'ların en eski ve en güçlü figürlerinden biridir; Necron'ları ilk biyodönüşüme ikna eden 'yalancı tanrı' — parçalanmış halde bile galaksinin en zeki düşmanlarından.
+Mephet'ran the Deceiver, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir — 'Deceiver' olarak bilinen ve en gizli C'tan'lardan biridir. Mephet'ran, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en gizli tanrılarıdır. Mephet'ran the Deceiver, Necron'ların en efsanevi ve en gizli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en gizli tanrılarıdır.
+
 
 -# Kaynaklar: *Necron Codexleri*

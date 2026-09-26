@@ -16,6 +16,7 @@ Dark Master adıyla anılan, gölgelerden yapılmış bir ordu yöneten ve dört
 
 ## Tarihçe
 
-Be'lakor, Chaos'un en eski ve en güçlü Daemon Prince'idir; İmparatorluğun en eski düşmanı olan ve dört Chaos tanrısına eşit olarak hizmet eden Be'lakor, Chaos'un en büyük ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en eski ve en güçlü daemon'udur. Be'lakor'ın en büyük özelliği, onun eskiliğidir — onlar, Chaos'un ilk Daemon Prince'idir ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Be'lakor, hem bir daemon hem de bir efsanedir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Be'lakor'ın en ünlü özelliği, onun dört tanrıya hizmetidir — onlar, Chaos Undivided'ın en sadık takipçisidir ve onların varlığı, Chaos'un birliğinin en büyük kanıtıdır. Be'lakor, Chaos'un en eski ve en güçlü Daemon Prince'idir — onlar, Chaos'un en eski gücünün ve en büyük tehdidinin somut halidir.
+Be'lakor, Chaos'un en eski ve en tehlikeli Daemon Prince'idir — Dark Master olarak bilinen ve ilk Daemon Prince'dir. Be'lakor, Chaos'un en eski ve en tehlikeli Daemon Prince'idir; onun gücü ve entrikaları, Chaos'un en önemli ve en tehlikeli güçlerinin kaynağıdır. Be'lakor, Chaos'un en eski ve en tehlikeli Daemon Prince'i olarak kalır — onun gücü, İmparatorluk'un en tehlikeli ve en eski düşmanlarının kaynağıdır.
+
 
 -# Ka

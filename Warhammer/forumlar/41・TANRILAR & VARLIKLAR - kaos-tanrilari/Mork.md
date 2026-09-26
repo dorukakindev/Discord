@@ -16,6 +16,6 @@ Mork, ikiz tanrıların kurnazlığı temsil eden yüzü olarak anılır; yaygı
 
 ## Tarihçe
 
-Mork, Ork'ların en ünlü ve en gizli tanrısıdır; Ork'ların iki tanrısından biri olan ve 'zeki' Ork'ların tanrısı olan Mork, Ork'ların en gizli ve en önemli gücüdür — onlar, Ork'ların en ünlü ve en gizli tanrısıdır. Mork'un en büyük özelliği, onun zekasıdır — onlar, 'zeki' Ork'ların tanrısıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Mork takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, sadece öldürmek ve fethetmek içindir. Mork'un en ünlü özelliği, onun Gork'la birlikte olmasıdır — onlar, Ork'ların iki tanrısından biridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Mork, Ork'ların en ünlü ve en gizli tanrısıdır — onlar, bir zekanın ve Ork'ların en büyük gücünün somut halidir.
+Mork, Ork panteonunun ikinci tanrısıdır — 'kurnaz ama vahşi'; Gork'un tam tersi sıfatlarla tanımlanır ve Orklar hangi tanrının hangisi olduğu konusunda sürekli kavga eder (bu kavga Waaagh! enerjisinin bir parçasıdır). Mork'un doğası 'kafaya vurmak yerine arkadan dolanmak'tır; Blood Axes gibi 'taktik kullanan' klanlar ona daha yatkındır. Ork mitolojisinde Mork ve Gork birlikte tüm tanrıları alt etmiş, Gretchin'i hizmetçi olarak yaratmışlardır. Ghazghkull Thraka her iki tanrıdan da vizyon aldığını söyler — bu çift kanal, onu Ork tarihinin en tehlikeli warboss'u yapan şeydir.
 
 -# Kaynaklar: *Co

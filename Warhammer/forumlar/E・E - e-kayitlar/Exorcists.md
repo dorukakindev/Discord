@@ -40,7 +40,7 @@ Bu yaklaşım Inquisition içindeki büyük tartışmayla da örtüşür. Ordo M
 
 ## Tarihçe
 
-Exorcists, 13. Kuruluş — 'Karanlık Kuruluş' (35.-36. Binyıl arası) — sırasında yaratılan son derece sıradışı sadık Space Marine chapter'ıdır; gerçek kökenleri sadece en üst rütbeli figürlerce bilinir. Daemon-sahiplenme 'eğitimi' geçiren tek chapter olarak 'kendi şeytanını taşıyan' figürlerdir.
+Exorcists, Space Marines'in en gizli ve en tartışmalı Chapter'larından biridir — daemonlara karşı savaşta uzmanlaşmış bir Chapter'dır. Exorcists, daemonlara karşı savaşmak için özel olarak eğitilmiştir ve gene-lineage'leri, İmparatorluk'un en gizli sırlarından biridir. Exorcists, İmparatorluk'un en gizli ve en tartışmalı Chapter'ı olarak kalır; onların uzmanlığı, İmparatorluk'un en gizli ve en önemli operasyonlarının en kritik aracıdır.
 
 ## Doktrin: Daemon Avcılığı
 Exorcists'in savaş tarzı, tek bir düşmana göre biçimlenmiştir. Daemon istilaları çoğu zaman bir Warp yarılmasıyla, bir kültün ayiniyle ya da bir dünyanın psişik çöküşüyle başlar; bu yüzden Chapter için zafer yalnızca düşmanı öldürmek değil, onun realspace'le bağını koparmaktır. Exorcists'in daemon'ları tanıma yeteneği burada önem kazanır: ele geçirilmiş bir komutanı, bir kalabalığın içine gizlenmiş bir varlığı ya da henüz tam belirmemiş bir yarılmayı öteki kuvvetlerden önce sezebilirler.

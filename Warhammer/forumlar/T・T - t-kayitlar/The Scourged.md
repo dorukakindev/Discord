@@ -14,7 +14,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5f/Scourged_SP.png/revis
 
 ## Tarihçe
 
-The Scourged, İmparatorluk'un 'kırbaçlanmış' ceza chapter'ıdır; 'günah çıkarma' doktriniyle kendi bedenlerine eziyet eden bu savaşçılar, Chapter'larının en garip figürleri.
+The Scourged, Chaos'un en gizli ve en tehlikeli warband'lerinden biridir — gizli bir Chaos warband'idir. The Scourged, Chaos'un en gizli ve en tehlikeli warband'lerinden biridir; onların gizli operasyonları, Chaos'un en önemli ve en tehlikeli güçlerinin kaynağıdır. The Scourged, Chaos'un en gizli ve en tehlikeli warband'i olarak kalır — onların operasyonları, İmparatorluk'un en gizli ve en tehlikeli düşmanlarının kaynağıdır.
+
 
 -# Kaynaklar: *Chaos Space Marines Codex*
 -# İlişkili kayıtlar: <#1552850063334842389>

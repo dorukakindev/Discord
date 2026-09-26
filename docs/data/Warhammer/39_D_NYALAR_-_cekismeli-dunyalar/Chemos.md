@@ -11,6 +11,6 @@ Gezegenin kaynakları tükeniyor, kendi nüfusunu besleyecek yiyeceği bile üre
 
 ## Tarihçe
 
-Fulgrim'in evi; solmuş, zehirli, sanayileşmiş dünya. Emperor's Children'ın mükemmeliyet takıntısı buradan doğdu — solmuş bedenler, temizlenmiş ruhlar.
+Chemos, Fulgrim'in 'evi' ve Emperor's Children'ın doğuş yeri — sürekli sanayi sisleriyle kaplı, kaynak-yoksun bir maden gezegenidir. Gezegenin çoraklığı ve işçi sınıfının 'hayatta kalma' zorunluluğu Fulgrim'in 'mükemmellik' takıntısını besledi; 'Chemos'un çocukları' yoksulluktan 'kusursuzluğa' uzanan bir hikâyenin kahramanıdır. 'The Forge' olarak bilinen bu dünya, Imperium'un 'en büyük' trajedisinin başlangıcıdır — mükemmeliyet arayışı Chaos'a açılan ilk kapı oldu.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -12,6 +12,7 @@ Abaddon, bu silahı kolayca elde etmedi; onu Halkaların Gözü'nün (Eye of Ter
 
 ## Tarihçe
 
-Horus'un taşıdığı 'Şafağın sonu' daemon kılıcı; insanlığın ilk cinayetini yansıtan en eski kötü silah. Abaddon'un bugün taşıdığı — tarihin karanlık ilk kaydı.
+Drach'nyen, Chaos'un en ünlü ve en korkulan daemon silahıdır; Abaddon'un — Black Legion'un lideri — kullandığı ve onun en büyük savaşlarının simgesi olan bir daemon kılıcıdır — onlar, Chaos'un en ünlü ve en korkulan silahıdır. Drach'nyen'in en büyük özelliği, onun gücüdür — onlar, bir daemon'un bedeninde yaşayan bir kılıçtır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Drach'nyen, hem bir silah hem de bir varlıktır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Drach'nyen'in en ünlü özelliği, onun Abaddon'un silahıdır — onlar, Black Legion'un liderinin en ünlü silahıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Drach'nyen, Chaos'un en ünlü ve en korkulan daemon silahıdır — onlar, Chaos'un en büyük gücünün ve en büyük tehdidinin somut halidir.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+-# Kaynaklar: Warhamme

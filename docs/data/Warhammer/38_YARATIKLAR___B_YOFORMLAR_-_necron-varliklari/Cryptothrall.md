@@ -12,6 +12,7 @@
 
 ## Tarihçe
 
-Cryptothrall, Necron Cryptek'lerin 'hizmet kuklası' koruma birimleridir; zırhsız ama ölümcül bu figürler, ustanın bedenini kalkan olarak kullanan 'canlı zırh' yaratıklar.
+Cryptothrall, Cryptek'lerin 'koruyucu-köle' birimleri — parçalanmış Necron bedenlerinden yapılmış ve 'görev-bilinçli' küçük canoptek yaratıklar. Cryptek'in 'lab'ını korur ve savaşta 'canlı kalkan' olarak kullanılır; 'Reanimation' olmadan da savaşabilen tek Necron birimidir. 'Soulless servant'ın mekanik versiyonu — Cryptek'in eli ve gözü.
+
 
 -# Kaynaklar: *Necrons Codex*

@@ -12,6 +12,6 @@ Commorragh'ın varlık nedeni, hayatta kalmaktır. Aeldari'nin Düşüşü'nden 
 
 ## Tarihçe
 
-Drukhari'nin Webway şehri; karanlığın gizli başkenti. Kabalların, arenasların ve acı ekonomisinin merkezi — Aeldari'nin düşmüş yüzü.
+Commorragh, Drukhari'nin (Dark Eldar'ın) ana dünyası ve Webway'deki en büyük şehridir — karanlık ve acımasız bir metropoldür. Commorragh, Webway'in içinde bulunan devasa bir şehir-devletidir; burada Drukhari, esirleri ve köleleriyle birlikte yaşar ve diğer dünyalara baskınlar düzenler. Şehir, sürekli iktidar mücadeleleri ve kabal'lar arası savaşlarla bilinir; Commorragh'ta hayatta kalmak, sürekli şiddet ve entrika gerektirir. Şehir, Drukhari'nin acımasızlığının ve Webway'in karanlık tarafının simgesi olarak kalır — Commorragh, galaksinin en tehlikeli yerlerinden biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

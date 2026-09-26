@@ -14,4 +14,4 @@ Rak'gol'un tehlikesi, 'nedensizliğidir' — fetih, kaynak veya ideoloji değil,
 
 ## Tarihçe
 
-Rak'gol, WH40K evreninin en vahşi ve en korkulan xeno türlerinden biridir; devasa böcek benzeri yaratıklardır ve İmparatorluğun en tehlikeli sınır bölgelerinde yaşayan bir türdür — onlar, İmparatorluğun en vahşi ve en ölümcül düşmanlarından biridir. Rak'gol'un en büyük özelliği, onların vahşetidir — onlar, sadece öldürmek için savaşır ve onların savaşı, hem fiziksel hem de zihinsel bir kabusdur; bir Rak'gol, bir Space Marine'i bile kolayca yenebilir ve
+Rak'gol, 'güç için güç' peşinde koşan xenos kökenli vahşi ırk — Exodite dünyaları ve Halo Stars civarında yağmacı kabileler hâlinde yaşar; teknoloji düzeyleri düşük ama acımasızlıkları olağanüstüdür. Imperium kayıtlarında 'sürekli saldırgan' olarak işaretlenen Rak'gol, Eldar'ın bile 'medeniyetsiz' bulduğu bir türdür; vücut modifikasyonları ve 'trophy-culture'larıyla tanınır. Orklarla bile çatışan Rak'gol, Halo'da 'yıkımın kendisi' olarak bilinir — anla

@@ -23,7 +23,7 @@ Codex Astartes'in uygulanmasıyla Legion, Iron Hands ve ardıl Chapter'lara böl
 
 ## Tarihçe
 
-Iron Hands, sadık Space Marine chapter'ıdır ve İlk Kuruluş lejyonlarından biridir; şehit primarch Ferrus Manus'un gen-seed'inden yaratıldılar. Heresy sonrası diğer Legiones Astartes gibi bölünmüş bu chapter, 'et zayıflıktır' felsefesiyle Medusa'nın sert dünyasının ürünüdür — 'demirin içindeki adam' arketipi.
+Iron Hands — X Legion — Ferrus Manus'un Medusa'lı 'demir' lejyonu; 'flesh is weak' doktriniyle vücutlarını biyonikle değiştiren, duygusuz ama 'hesaplayan' savaşçılar. Isstvan V'de Ferrus'un Fulgrim tarafından öldürülmesi lejyonu 'The Ten Thousand' trajedisinin merkezine koydu; 'Clan' sistemi ve 'Iron Father' rahip-teknisyenleriyle organize olurlar. 'The flesh is weak, but the machine endures' — onların amentüsü ve laneti aynı cümledir.
 
 ## Yapı ve Organizasyon
 Iron Hands, Medusa'nın klan geleneğini Codex'in company düzenine eklemleyen bir yapıya sahiptir. Chapter'ın company'leri **Clan Company** olarak anılır ve her biri Medusa'daki bir klanın adını taşır; Clan Raukaan, Garrsak ve Borrgos bunların bilinenleri arasındadır. Her Clan Company'nin başında, hem ruhani hem de teknik önder konumundaki **Iron Father**'lar ve Clan komutanları bulunur.

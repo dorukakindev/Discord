@@ -16,7 +16,8 @@ Badrukk, galaksinin en tanınmış Ork korsan kaptanlarından biridir. Parıltı
 
 ## Tarihçe
 
-Kaptin Badrukk, Ork'ların en ünlü ve en tehlikeli korsan kaptanıdır; Freebooterz'ın — Ork korsanlarının — en ünlü lideri olan ve onların en büyük yağma ve savaş filosunu yöneten Badrukk, Ork'ların en tehlikeli ve en gizli düşmanıdır — onlar, Ork'ların en ünlü ve en tehlikeli korsanıdır. Kaptin Badrukk'un en büyük özelliği, onun yağmacılığıdır — onlar, bir Ork korsan filosunun en büyük kaptanıdır ve onların varlığı, Ork'ların en gizli gücünün kanıtıdır; bir Badrukk, hem bir korsan hem de bir savaşçıdır ve onların savaşı, sadece yağma ve öldürmek içindir. Kaptin Badrukk'un en ünlü özelliği, onun Freebooterz'ın lideridir — onlar, Ork korsanlarının en büyük ve en tehlikeli lideridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Kaptin Badrukk, Ork'ların en ünlü ve en tehlikeli korsan kaptanıdır — onlar, bir korsan filosunun gücünün ve Ork'ların en büyük tehdidinin somut halidir.
+Kaptin Badrukk, Ork'ların en ünlü ve en tehlikeli figürlerinden biridir — Freebooter olarak bilinen ve Ork'ların en ünlü paralı askeridir. Badrukk, Ork'ların en ünlü ve en tehlikeli figürlerinden biridir; onun Waaagh!'ı ve paralı askerlik kariyeri, Ork'ların en önemli ve en ünlü figürlerinden biridir. Kaptin Badrukk, Ork'ların en ünlü ve en tehlikeli figürü olarak kalır — onun hikâyesi, Ork'ların en önemli ve en ünlü figürlerinden biridir.
+
 
 -# Kaynaklar: *Codex: Orks*
 

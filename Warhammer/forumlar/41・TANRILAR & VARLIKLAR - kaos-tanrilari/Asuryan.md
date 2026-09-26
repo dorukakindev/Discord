@@ -15,7 +15,7 @@ Phoenix King olarak anılan Asuryan, uzak, nadiren eyleme geçen, yasa koyucu bi
 
 ## Tarihçe
 
-Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır; Aeldari panteon'unun en yüksek tanrısı olan ve onların en kutsal figürü olan Asuryan, Aeldari'nin en kutsal ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en kutsal tanrısıdır. Asuryan'ın en büyük özelliği, onun kutsallığıdır — onlar, Aeldari panteon'unun en yüksek tanrısıdır ve onların varlığı, Aeldari'nin en büyük kutsallığının kanıtıdır; bir Asuryan takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Asuryan'ın en ünlü özelliği, onun Phoenix King olmasıdır — onlar, Aeldari'nin en yüksek ve en kutsal tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Asuryan, Aeldari'nin en ünlü ve en kutsal tanrısıdır — onlar, bir kutsallığın ve Aeldari'nin en büyük geleneğinin somut halidir.
+Asuryan, 'Phoenix King' — Aeldari panteonunun en yüce tanrısı ve tüm tanrıların babasıdır; Eldar mitolojisinde sembolü anka kuşu ve sonsuz ateşten alevdir. Cegorach'ın kahkasıyla bile ürkütmediği tek varlık olarak geçer; Isha'nın eşi ve tanrıların başıdır. Eldar Savaşın Efsanesi'nde (War in Heaven sonrası mit) Asuryan, Khaine ile Eldanesh'in ölümü arasındaki bedeli Kaela Mensha Khaine'e ödetir; sonrasında Asuryan tanrıları ile fanileri arasında 'perde'yi çeker. Fall of the Eldar sırasında Slaanesh'e karşı koyamaz — onun ölümü Eldar'ın modern kaderini mühürledi. Avatar of Khaine'ler Asuryan'ın oğullarının son emanetidir.
 
 ## Kanon Notu
 

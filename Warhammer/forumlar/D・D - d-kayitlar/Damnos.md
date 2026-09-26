@@ -15,6 +15,10 @@ Necron'lar, War in Heaven'ın ve C'tan'lara karşı ayaklanmanın ardından meza
 
 Necron bakış açısından Damnos'un hikâyesi bir istila değildir. Uyanan hanedan için yüzeydeki insanlar, kendi dünyalarını izinsiz işgal etmiş kısa ömürlü bir tür olarak görünür. Imperial kayıtların "xenos saldırısı" dediği şey, Necron'ların gözünde mülkün geri alınmasıdır; iki anlatı da kendi tarafının iddiasıdır.
 
+## Tarihçe
+
+Damnos, İmparatorluğun en gizli ve en tehlikeli dünyalarından biridir; hem bir Imperial koloni hem de bir Necron Tomb World'dür — onlar, İmparatorluğun en gizl
+
 ## Koloninin Düşüşü
 Uyanış başladığında koloni kısa sürede çöktü. Yerel savunma kuvvetleri, yeniden ayağa kalkan ve ağır yaralar alsa bile onarılarak savaşa dönen bir düşman karşısında tutunamadı. Ultramarines'in **2nd Company**'si, Captain **Cato Sicarius**'un komutasında dünyaya ulaştı ve savunmaya katıldı.
 

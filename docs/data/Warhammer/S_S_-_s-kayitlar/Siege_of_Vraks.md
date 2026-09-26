@@ -34,6 +34,10 @@ Chaos müttefiklerinin motivasyonu da yekpare değildir. Red Corsairs için Vrak
 ## Unforgiven ve Inquisition
 Kuşatmanın ileri safhalarında **Dark Angels** ve Unforgiven successor Chapter'ları da Vraks'a indi. Bu müdahale, Unforgiven'ın bilinen örüntüsüne uygun biçimde, genel savaş amaçlarından çok Chapter'ların kendi gizli önceliklerine, yani Fallen avına bağlanan bir anlatıyla işlenir; ayrıntıların hangi ölçüde açıklandığı konusunda ansiklopedi temkinli kalır.
 
+## Tarihçe
+
+Siege of Vraks, İmparatorluğun en zorlu ve en uzun kuşatmalarından biridir; Vraks'ın — bir Imperial cephanelik dünyası — renegade'lerin ve Chaos'un eline düşmesi ve İmparatorluğun onu geri almaya çalıştığı en uzun savaştır — onlar, İmparatorluğun en zorlu kuşatmasının
+
 Inquisition cephesinde öne çıkan isim, Ordo Malleus'tan **Inquisitor Lord Hector Rex**'tir. Onun varlığı, Vraks'taki tehlikenin artık yalnızca askerî değil daemonik bir boyut kazandığının işaretiydi. Son safhada Khorne daemonlarının tezahür etmesi, Ordo Malleus'un ve **Grey Knights**'ın doğrudan müdahalesini gerektirdi.
 ---MSG---
 ## Sonuç ve Etkileri

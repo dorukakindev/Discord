@@ -15,7 +15,7 @@ Deathleaper, avını öldürmekten çok onun zihnini parçalamayı hedefleyen bi
 
 ## Tarihçe
 
-Deathleaper, Hive Mind'ın Leviathan için yarattığı özel Lictor varyantıdır — 'nihai suikastçı'. Tam olarak kimi avladığı belirsizdir — hedefi bilinmeyen bu yaratık, Lictor türünün özel olarak suikast için geliştirilmiş halidir; 'karanlıkta bekleyen el' olarak Hive Fleet'in en kişisel ölüm aracıdır.
+Deathleaper, Tyranid'in 'suikastçı' bio-formu — 'Lictor' sınıfının en evrimleşmiş hali ve 'kendi başına bir istila' olarak çalışan varlık. 'The Shadow that Kills' olarak bilinen Deathleaper, hedefini 'takip eder, kokusunu alır ve sonunda yutar'; Imperium'un 'psyker-avar' birimlerinin en korkulan avcısıdır. 'Deathleaper' unvanı — 'ölümden sıçrayan' — onun hareket tarzını tanımlar; 'şimdi gördün, şimdi yoksun' doktrini.
 
 ## Kanon Notu
 

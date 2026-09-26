@@ -13,7 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/88/CarabCullntheRisen02.
 
 ## Tarihçe
 
-Carab Culln, Red Scorpions'ın en ünlü ve en saygın Chapter Master'ıdır; İmparatorluğun en katı ve en saygın Chapter'ının lideri olan ve onun en zorlu savaşlarını yöneten Culln, İmparatorluğun en saygın ve en katı komutanıdır — onlar, Red Scorpions'ın en ünlü ve en saygın lideridir. Carab Culln'un en büyük özelliği, onun katılığıdır — onlar, İmparatorluğun en katı ve en saygın Chapter'ının lideridir ve onların varlığı, İmparatorluğun en büyük disiplininin kanıtıdır; bir Culln komutası, bir Chapter'ın en katı zaferinin en büyük anıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Carab Culln'un en ünlü özelliği, onun Red Scorpions'ın lideridir — onlar, İmparatorluğun en katı Chapter'ının en saygın komutanıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır. Carab Culln, Red Scorpions'ın en ünlü ve en saygın Chapter Master'ıdır — onlar, bir disiplinin ve İmparatorluğun en büyük onurunun somut halidir.
+Carab Culln, Red Scorpions'ın en ünlü ve en efsanevi figürlerinden biridir — Chapter Master olarak bilinen ve Chapter'ın en önemli figürüdür. Culln, Red Scorpions'ın en ünlü ve en efsanevi figürüdür; onun liderliği, Red Scorpions'ın en önemli savaşlarının ve en büyük zaferlerinin simgesidir. Carab Culln, Red Scorpions'ın en ünlü ve en efsanevi figürü olarak kalır — onun liderliği, Red Scorpions'ın en önemli savaşlarının ve en büyük zaferlerinin simgesidir.
 
 -# Kaynaklar: *Fandom wiki*
 

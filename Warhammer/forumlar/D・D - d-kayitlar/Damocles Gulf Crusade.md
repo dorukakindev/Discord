@@ -42,4 +42,8 @@ T'au ve Damocles Gulf Crusade, 2001'de 3rd Edition döneminde çıkan ilk *Codex
 **Kaynaklar:** *Codex: Tau* (3rd Edition); *Codex: T'au Empire — 10th Edition*; *Star of Damocles — Andy Hoare*; *Rogue Star — Andy Hoare*; *Warzone Damocles: Kauyon*
 **Çapraz:** <#1551809146850910260>, tau-castes-and-septs, farsight-enclaves, <#1551652850319368254>, tyrannic-wars, hive-fleets, <#1551815304252887041>
 
+## Tarihçe
+
+Damocles Gulf Crusade, İmparatorluğun en büyük ve en önemli T'au savaşıdır; İmparatorluğun T'au Empire'a karşı başlattığı ve Dal'yth'in savunmasıyla sonuçlanan en büyük savaştır — onlar, İmparatorluğun en büyük xeno savaşının ve en büyük yenilgisinin somut halidir. Damocles Gulf Crusade'in en büyük özelliği, onun yenilgisidir — onlar, İm
+
 ​

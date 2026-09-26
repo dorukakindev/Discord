@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Grand_Master_Voldus.p
 
 ## Tarihçe
 
-Aldrik Voldus, Grey Knights'ın en ünlü ve en güçlü Grand Master'ıdır; Chapter'ın en yüksek rütbeli üyesi olan ve daemon'ları yenen en kutsal savaşçı olan Voldus, İmparatorluğun en gizli ve en kutsal savaşçısıdır — onlar, Grey Knights'ın en ünlü ve en güçlü üyesidir. Aldrik Voldus'un en büyük özelliği, onun gücüdür — onlar, Grey Knights'ın en yüksek rütbeli üyesidir ve onların varlığı, İmparatorluğun en büyük psişik gücünün kanıtıdır; bir Voldus, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Aldrik Voldus'un en ünlü özelliği, onun Grand Master'ıdır — onlar, bir Chapter'ın en yüksek rütbeli üyesidir ve onların varlığı, Grey Knights'ın en büyük gücünün kanıtıdır. Aldrik Voldus, Grey Knights'ın en ünlü ve en güçlü Grand Master'ıdır — onlar, psişik gücün ve İmparatorluğun en büyük azizinin somut halidir.
+Aldrik Voldus, Grey Knights'ın en güçlü ve en tehlikeli figürlerinden biridir — Chapter'ın Grand Master'larından biridir. Voldus, Grey Knights'ın en güçlü ve en tehlikeli figürlerinden biridir; onun psyker güçleri, Grey Knights'ın en önemli ve en güçlü güçlerinden biridir. Aldrik Voldus, Grey Knights'ın en güçlü ve en tehlikeli figürü olarak kalır — onun güçleri, Grey Knights'ın en önemli ve en güçlü güçlerinin simgesidir.
+
 
 -# Kaynaklar: *Fandom wiki*

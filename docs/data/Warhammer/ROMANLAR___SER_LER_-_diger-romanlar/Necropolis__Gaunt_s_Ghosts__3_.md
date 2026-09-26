@@ -17,4 +17,5 @@ Ghostların kovan şehri savunmasına katılması; Commissar'lık ve 'Welcome to
 
 Necropolis, Dan Abnett'in Gaunt's Ghosts serisinin üçüncü romanıdır — Gaunt'un Ghosts'unun hikâyesinin devamıdır. Bu roman, Gaunt'un Ghosts'unun Sabbat Dünyaları Haçlı Seferi'ndeki hikâyesini anlatır; roman, Gaunt'un Ghosts'unun hikâyesinin devamıdır. Bu roman, Gaunt'un Ghosts'unun hikâyesinin devamıdır; roman, Gaunt'un Ghosts'unun en önemli hikâyesinin devamıdır. Roman, Gaunt'un Ghosts'unun hikâyesinin devamı olarak kalır.
 
+
 -# Kaynaklar: Black Library

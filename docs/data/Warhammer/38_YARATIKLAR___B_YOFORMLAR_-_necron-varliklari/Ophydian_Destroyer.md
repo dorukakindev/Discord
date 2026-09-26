@@ -14,6 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3c/NekrosorAmmentar1.jpg
 
 ## Tarihçe
 
-Ophydian Destroyer, Necron'ların 'yıkıcı' süper-savaş platformudur; Skorpekh Destroyer'in büyük kardeşi olarak devasa silah gücüyle düşmanı yok eden 'yürüyen mezar'.
+Ophydian Destroyer, Necron'ın 'delici' destroyer tipi — vücudu 'yeraltına dalıp' düşman hatlarının arkasından çıkan, 'Hyperphase Wraith' benzeri bir avcı. 'Phase' yeteneğiyle duvarları ve zırhı deler; Silent King'in 'surprise attack' birimi olarak Indomitus döneminde yaygınlaştı. Skorpekh'ten daha az ama daha 'cerrahi' bir destroyer; 'yerin altından gelen ölüm' doktrini onların işidir.
+
 
 -# Kaynaklar: *Necrons Codex*

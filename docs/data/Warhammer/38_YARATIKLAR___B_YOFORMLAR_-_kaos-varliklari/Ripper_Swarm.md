@@ -16,8 +16,4 @@ Ripper'lar, kurtçuk ya da solucanı andıran, dişlerle dolu ağızlarıyla her
 
 ## Tarihçe
 
-Ripper Swarm ('Yırtıcı Sürü'), Tyranid'in küçük, solucan benzeri biyoformlarıdır — büyük düşmanların kemiklerini bile temizleyen 'canlı piranha sürüsü'. Sürü halinde ilerleyen bu yaratıklar savaş alanını 'biomasa'ya çevirir; 'son temizlik ekibi' olarak istilanın ardından her şeyi yutan son dalgadır.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551815033518948404>, <#1551809334483361823>
+Ripper Swarm, Tyranid'in en küçük ve en sinsi yaratık sürüsüdür; bir gezegenin kaynaklarını yiyen ve onları Tyranid ordusuna dönüştüren en sinsi organizmalar olan Ripper Swarm, Tyranid'in en küçük ve en sinsi varlıklarıdır — onlar, Tyranid'in en küçük ve en sinsi yaratık sürüsüdür. Ripper Swarm'ın en büyük özelliği, onların açlığıdır — onlar, bir gezegenin kaynaklarını yiyen ve onları Tyranid ordusuna dönüştüren en sinsi organizmalardır ve onların varlığı, Tyranid'in en sinsi gücünün kanıtıdır; bir Ripper Swarm, hem bir organizma topluluğu hem de bir yiyicidir ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Ripper Swarm'ın en ünlü özelliği, onların küçüklüğüdür — onlar, Tyranid'in en küçük ve en sinsi yaratıklarıdır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Ripper Swarm, Tyranid'in en k

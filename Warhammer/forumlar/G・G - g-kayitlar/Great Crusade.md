@@ -13,6 +13,10 @@ Great Crusade, sonraki on bin yılın neredeyse her kurumunu ve her yarasını d
 
 Bu kanal seferin kendisini merkeze alır. Sefer öncesi Terra için <#1551809555841818669>, seferin kanlı sonu için <#1551814951365115956>, Primarch'ların bireysel hikâyeleri için <#1551818097504157699> kanalına bakınız.
 
+## Tarihçe
+
+Great Crusade, İmparatorluğun en büyük ve en önemli askeri hareketidir; İmparator'un insanlığı birleştirmek ve onu Chaos'tan korumak için başlattığı ve yirmi primarch Legion'unu sahaya sürdüğü devasa bi
+
 ## Kökenler: Old Night'tan Olympus'a
 Age of Strife boyunca Warp fırtınaları yıldızlar arası yolculuğu neredeyse imkânsız kılmış, Dark Age of Technology'nin mirası ise savaşlar, isyanlar ve teknolojik çöküş arasında dağılıp gitmişti. Terra bu çağda savaş ağalarının, techno-barbar kabilelerin ve kimyasal cehennemlerin paylaştığı bir harabeye dönmüştü. Emperor'un kendi ordularıyla bu savaş ağalarını tek tek devirdiği **Unification Wars**, Great Crusade'in doğrudan öncülüdür; seferin askerî ve ideolojik kalıpları bu savaşlarda dökülmüştür.
 

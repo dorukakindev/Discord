@@ -16,7 +16,7 @@ Warp'a geçen bir geminin çevresinde maddi evrenin kurallarını koruyan bir ka
 
 ## Tarihçe
 
-Imperial donanmasından Rogue Trader gemilerine kadar her Warp yolculuğu bu alana emanet edilir. Geller Field'ın zayıflaması ya da sönmesi, kaynaklarda mürettebatın delirmesi, geminin daemon istilasına uğraması ya da gemiyle birlikte tümüyle kaybolmasıyla sonuçlanan en korkulan felaket olarak anlatılır. Warp'ta kaybolup yıllar sonra lanetli enkaz olarak dönen gemilerin hikâyesi çoğu zaman bu arızayla başlar.
+Geller Field, İmparatorluk'un en önemli ve en kritik savunma teknolojisidir — Warp'te seyahat eden gemileri koruyan enerji alanıdır. Bu alan, geminin çevresinde bir 'normal gerçeklik' balonu oluşturur; bu balon, Warp'in tehlikeli varlıklarından gemiyi korur ve geminin Warp'te seyahat etmesini sağlar. Geller Field, İmparatorluk'un en önemli ve en kritik savunma teknolojisidir; bu alan, İmparatorluk'un Warp'te seyahat etmesinin tek yoludur. Alan, İmparatorluk'un en önemli ve en kritik savunma teknolojisi olarak kalır.
 
 -# Kaynaklar: *Warhammer 40,000 Core Book — 10th Edition*; *Horus Rising — Dan Abnett*
 

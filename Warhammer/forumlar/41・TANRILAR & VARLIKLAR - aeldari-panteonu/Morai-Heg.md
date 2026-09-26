@@ -12,6 +12,6 @@ En ünlü miti, kendi bilgeliğine ulaşma hikâyesidir: Morai-Heg, damarlarınd
 
 ## Tarihçe
 
-Crone Goddess, kader dokuyucu; Crone Worlds'in patroniçesi. Aeldari'nin kader ve ölüm arasındaki yaşlı tanrısı — Iybraesil'in yol göstereni.
+Morai-Heg, 'Crone' — Aeldari panteonunun kadim bilgelik, kader ve kader-iplikleri tanrıçası; Ynnead'in 'halası' ya da 'anneannesi' olarak geçer. Fall'da yutulmadı, 'Warp'te sürgünde yaşadığı' rivayet edilir; Crone Worlds'ler onun adını taşır. Morai-Heg'in 'three-faced' görüntüsü — bakire, anne, cadı — Eldar kadın-ruh arketiplerinin kaynağıdır. Ynnead'in uyanışında rol oynadığı söylenen varlıklardan biridir; kaderin iplerini kesen ve ören varlık olarak Eldar'ın 'karanlık anne'sidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

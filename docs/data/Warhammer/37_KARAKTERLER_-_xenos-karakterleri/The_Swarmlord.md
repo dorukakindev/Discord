@@ -16,7 +16,7 @@ Swarmlord, Hive Mind'ın stratejik zekâsının en yoğun hâliyle beliren bir H
 
 ## Tarihçe
 
-The Swarmlord, Hive Mind'ın en büyük tekil komutan biyoformudur — öldürülse bile Hive Mind onu yeni bedenlerde 'yeniden doğurur', yani fiilen ölümsüzdür. Sayısız Hive Fleet'i yöneten bu varlık, 'gezegenleri yutan iradenin kılıcı' olarak Tyranid'in en zeki savaş figürüdür — Marneus Calgar'la bile dövüşmüş efsanevi canavar.
+The Swarmlord, Hive Mind'ın 'yüce avcı' bio-formu — her Tyranid sürüsünün arkasındaki 'general' ve tek başına bir chapter'ı yenebilecek güçteki varlık. 'Lord of the Swarm' unvanıyla bilinen bu figür, Tyranid'in 'tek' komuta figürüdür — ama 'Hive Mind'ın bir uzantısından ibarettir; öldürülse bile 'yeni' bir Swarmlord yaratılır. 'The Swarm adapts' — Swarmlord'un her yenilgisi Hive Mind'ın 'öğrenme' mekanizmasıdır.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 

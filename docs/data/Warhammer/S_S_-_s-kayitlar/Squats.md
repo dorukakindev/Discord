@@ -16,6 +16,10 @@ Eski yayınlar Squat toplumunu **Homeworld**'ler ve bunların çevresinde örgü
 
 Savaş alanında Squat'lar, sağlam piyadeleri, motosiklet ve trike birlikleri ve ağır silahlarıyla betimlenirdi. Asıl teknolojik gösterişleri ise büyük ölçekli Epic oyununda görülüyordu: Epic için yayımlanan *Ork & Squat Warlords* eki, Squat'lara Leviathan, Colossus ve Cyclops gibi dev savaş makineleri, Overlord hava gemileri ve Goliath gibi ağır toplar kazandırdı. Bu makineler, Squat'ların mühendislik geleneğinin oyundaki en somut ifadesiydi.
 
+## Tarihçe
+
+Squat (Homo Sapiens Rotundus), Imperium'un maden-dünya insan-alt ırkı — yüksek graviteli dünyalarda yaşayan, cüce benzeri ama genetik olarak ayrı bir dal. Squat Home Worlds'ler (Forge of the Fathers) Tyranid Hive Fleet Behemoth tarafından yutulunca ırk neredeyse
+
 Squat'ların Orklara karşı derin ve kalıcı bir düşmanlık beslediği, atalarına ve verilen söze büyük değer verdiği, eski materyalin tutarlı biçimde işlediği temalardır. Bu özellikler cüce arketipinin tanıdık izlerini taşısa da evrenin ağır sanayisi, radyasyonu ve savaş makineleriyle harmanlanarak Squat'lara kendi karakterini veriyordu.
 ---MSG---
 ## Kaldırılış

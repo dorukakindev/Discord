@@ -17,4 +17,5 @@ Commander Dante'nin önderliğinde Baal'ın savunması; 'Great Devourer'ın Baal
 
 The Devastation of Baal, Guy Haley'nin yazdığı ve Blood Angels'ın Baal'ın Yıkımı'nı anlatan bir romandır. Bu roman, Blood Angels'ın Baal'ın Yıkımı'nı anlatır; roman, Blood Angels'ın en trajik hikâyesidir. Bu roman, Blood Angels'ın en trajik hikâyesidir; roman, Blood Angels'ın en trajik parçasıdır. Roman, Blood Angels'ın en trajik hikâyesi olarak kalır.
 
+
 -# Kaynaklar: Black Library

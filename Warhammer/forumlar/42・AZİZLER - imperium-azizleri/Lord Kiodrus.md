@@ -10,6 +10,6 @@ Kiodrus, gücünün doruğundayken Sabbat'ın etrafında toplanan çağın en pa
 
 ## Tarihçe
 
-Lord Kiodrus, Sisters of Battle'ın en ünlü ve en kutsal figürüdür; İmparatorluğun en kutsal savaşlarını yöneten ve onun en önemli figürü olan Kiodrus, İmparatorluğun en kutsal ve en önemli varlığıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal figürüdür. Lord Kiodrus'un en büyük özelliği, onun kutsallığıdır — onlar, İmparatorluğun en kutsal savaşlarını yöneten en önemli figürdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Kiodrus, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Lord Kiodrus'un en ünlü özelliği, onun Sisters of Battle'ın üyesidir — onlar, İmparatorluğun en kutsal ordusunun en önemli figürüdür ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır. Lord Kiodrus, Sisters of Battle'ın en ünlü ve en kutsal figürüdür — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
+Lord Kiodrus, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir — aziz olarak bilinen ve Sisters of Battle'ın en önemli figürlerinden biridir. Kiodrus, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir; onun inancı ve savaş yetenekleri, Sisters of Battle'ın en önemli ve en kutsal güçlerinden biridir. Lord Kiodrus, Sisters of Battle'ın en kutsal ve en efsanevi figürü olarak kalır — onun varlığı, Sisters of Battle'ın en önemli ve en kutsal güçlerinin simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

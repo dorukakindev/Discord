@@ -46,7 +46,7 @@ Legion, yıpratma savaşının ustasıdır. Plague Marine'ler yavaş ve kararlı
 
 ## Tarihçe
 
-Death Guard, Chaos Space Marines'in Hain Lejyonlarından biridir; Chaos Tanrısı Nurgle'a ibadet edip mutasyonel 'armağanları'yla Plague Marine'ler olmuş figürler — güç zırhları içinde ebe
+Death Guard, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir — Mortarion'un Legion'udur ve Nurgle'un hizmetindedir. Death Guard, İmparatorluk'un en zehirli ve en ölümcül Leg
 
 ## Önemli Figürler
 **Mortarion**, Death Guard'ın Daemon Primarch'ıdır. Dev bir tırpan olan *Silence*'ı taşır ve Nurgle'ın ona sunduğu kanatlı, çürümüş bedene bürünmüştür. Kişiliği bir çelişkiden beslenir: Warp güçlerinden nefret eden biri olarak onlara boyun eğmiştir. Babasına ve özellikle Roboute Guilliman'a karşı duyduğu öfke Great Rift sonrası dönemde yeniden alev almıştır.

@@ -18,6 +18,6 @@ Necrontyr ruhlarının necrodermis bedenlere döküldüğü ebedi lanet töreni;
 
 ## Tarihçe
 
-Biotransference, Necrontyr türünün canlı bedenlerini terk edip necrodermis makine-bedenlere aktarıldığı törendir — C'tan'ların vaadi, türün en büyük ihanetiydi. Ruhlar makinelere dökülürken bedenler yakıldı; çoğu Necron kişiliğini, hafızasını, hatta ismini kaybetti. Bugün her Necron, o törenin yürüyen mezarıdır.
+Biotransference, Necron'ların en önemli ve en trajik teknolojisidir — organik bedenlerin mekanik bedenlere aktarılmasıdır. Bu teknoloji, Necrontyr ırkının C'tan'larla yaptığı anlaşmanın bir parçasıydı; Necrontyr, bu teknoloji sayesinde organik bedenlerini mekanik bedenlere aktardı ve Necron'lara dönüştü. Biotransference, Necron'ların en önemli teknolojisidir; ancak bu teknoloji, Necrontyr'ın ruhlarını kaybetmesine ve Necron'ların sadece mekanik bedenler haline gelmesine neden oldu. Teknoloji, Necron'ların en trajik ve en önemli teknolojisi olarak kalır.
 
 -# Kaynaklar: *Codex: Necrons*; Warhammer 40,000 — Lexicanum derlemesi

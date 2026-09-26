@@ -16,7 +16,8 @@ Talon of Horus ile birlikte Warmaster'ın iki simge silahından biridir. Heresy 
 
 ## Tarihçe
 
-Horus, Great Crusade ve Heresy boyunca bu topuzu taşıdı. Heresy dönemi tasvirlerinde Warmaster, bu topuzu lightning claw'lu Talon ile birlikte kuşanır. Horus'un ölümünden sonra Talon, Abaddon'a geçerek Long War'un simgelerinden biri oldu; Worldbreaker'ın sonraki akıbeti ise arşivin doğruladığı kaynaklarda açık değildir.
+Worldbreaker, 'The Planet Killer' — Abaddon'un 'en büyük' silahı ve 'Blackstone Fortress'lerin 'ana' gemisi; 'The Despoiler'ın 'kişisel' bayrağıdır. 'Worldbreaker' unvanı 'gezegen yok etme' yeteneğinden gelir; 'The spear of the Despoiler' olarak bilinen bu silah 'Gothic War'ın 'en korkulan' aracıydı. 'The end of worlds' — Worldbreaker'ın tek amacı.
+
 
 -# Kaynaklar: *Liber Hereticus – Traitor Legiones Astartes Army Book*
 

@@ -10,6 +10,6 @@ T'au, T'au türünün anavatanı ve giderek büyüyen T'au İmparatorluğu'nun s
 
 ## Tarihçe
 
-Tau İmparatorluğu'nun merkez dünyası; Greater Good'un doğduğu yer. Ethereal'ların yönettiği planlı toplumun kalbi — genç ama hızlı büyüyen imparatorluğun evi.
+T'au, T'au İmparatorluğu'nun ana dünyası ve Ethereal'ların evidir — T'au'nun teknolojik ve siyasi merkezidir. Gezegen, T'au'nun 'Greater Good' (Büyük İyilik) ideolojisinin merkezi olarak hizmet verir; T'au, İmparatorluk'un karşılaştığı en organize ve en gelişmiş xeno medeniyetidir. T'au'nun teknolojisi, birçok alanda İmparatorluk'unkinden üstündür; özellikle battlesuit'ler ve dronlar, T'au'nun askeri üstünlüğünü sağlar. Gezegen, T'au İmparatorluğu'nun kalbi ve Greater Good'un simgesi olarak kalır — T'au, İmparatorluk'un en ciddi xeno rakiplerinden biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

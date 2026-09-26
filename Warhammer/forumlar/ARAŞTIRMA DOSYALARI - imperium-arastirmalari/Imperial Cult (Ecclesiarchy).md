@@ -123,6 +123,10 @@ Missionary, yerel kültürün en yüksek saygı duyduğu tanrı veya tanrıçay�
 
 Missionary'nin yukarıdan aşağıya (yönetimi dönüştürerek pleblere Imperial Creed'i zorla kabul ettirmek) mı yoksa aşağıdan yukarıya (kitleleri dönüştürüp putperest derebeylerine karşı ayaklanmalarını sağlamak) mı çalıştığı, missionary'nin tercihlerine ve en kolay ne olduğuna bağlıdır.
 
+## Tarihçe
+
+Imperial Cult (Imperial Creed), İmparatorluğun en büyük ve en önemli dinidir; onların İmparator
+
 Missionaries genellikle ceset değil mühtedi ister; güç kullanımı genellikle son çaredir ve hatta o zaman çoğu zaman şiddet içermediği söylenir (örneğin bir Rogue Trader'ın gemisi güneşi tutarak yerlileri korkutmak veya İmparatorluk Gardiyanı'nın gücünü göstermek). Yerel din xenos, abominable intelligence veya Kaos tapınmasına dayanıyorsa, bu durumda missionary'nin beklenen görevi Gardiyan, Sisters veya başka bir askeri gücü çağırıp kafa kırmaktır.
 
 ### Confessors & Witch Finders

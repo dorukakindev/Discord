@@ -26,7 +26,7 @@ Siege of Terra'da Perturabo, Imperial Palace'ı savunan Rogal Dorn'un tahkimatla
 
 ## Tarihçe
 
-Iron Warriors, Heresy sırasında Chaos'a dönen dokuz İlk Kuruluş hain lejyonundan biridir; orijinal IV. Lejyon olarak kuşatma kırma ve tahkimat yıkımında uzmanlaşmışlardı. 'Demir içinde demir' olarak Perturabo'nun acımasız mühendis savaşçıları — 'kuşatmanın efendisi' olarak İmparatorluk'un en inatçı düşmanı.
+Iron Warriors, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir — Perturabo'nun Legion'udur. Iron Warriors, İmparatorluk'un en disiplinli ve en acımasız kuşatma ustalarıydı; Heresy sırasında Chaos'a düştüler ve İmparatorluk'un en ölümcül düşmanlarından biri haline geldiler. Iron Warriors, Terra Kuşatması sırasında İmparatorluk Sarayı'nın en zorlu kuşatmasını gerçekleştirdi; onların kuşatma taktikleri, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarının simgesidir. Iron Warriors, Chaos'un en tehlikeli ve en korkulan Legion'u olarak kalır — onların kuşatma taktikleri, İmparatorluk'un en büyük savunma zaferinin ve en büyük trajedilerinden birinin kaynağıdır.
 
 ## Heresy Sonrası: Medrengard ve Warsmith'ler
 Horus'un yenilgisinin ardından Iron Warriors, Eye of Terror'a çekildi. Perturabo, Chaos tanrılarının lütfuyla Daemon Prince'liğe yükseldi ve Legion'un yeni merkezi olan Medrengard adlı daemon dünyasına yerleşti. Kaynaklar, Primarch'ın bu dünyadaki kalesinde uzun süre inzivaya çekildiğini ve Legion'un günlük işlerine nadiren karıştığını anlatır.

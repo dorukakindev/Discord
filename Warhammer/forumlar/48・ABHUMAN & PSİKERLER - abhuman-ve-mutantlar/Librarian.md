@@ -16,8 +16,6 @@ Hem Space Marine hem psyker olan savaşçılardır. Chapter'ın psişik kalkanı
 
 ## Tarihçe
 
-Librarian adayları Chapter'a alınırken sınanır ve yıllara yayılan eğitimden geçer. Librarius'un içinde Lexicanium, Codicier ve Epistolary gibi dereceler bulunur; başında Chief Librarian durur. Blood Angels'ın Mephiston'ı ve Ultramarines'in Varro Tigurius'u bu makamın tanınmış temsilcileridir. Space Wolves ise kendi psykerlerine Rune Priest der ve onları kendi kültürel çerçevesinde yetiştirir.
-
--# Kaynaklar: *A Thousand Sons — Graham McNeill*; *Codex: Space Marines — 10th Edition*; *Mephiston: Blood of Sanguinius — Darius Hinks*
+Librarian, Space Marines'in en ünlü ve en güçlü psyker'ıdır; onların Astartes'in en güçlü ve en bilgili psyker'ı olan ve onun en gizli operasyonlarını yöneten Librarian, Space Marines'in en güçlü ve en önemli üyesidir — onlar, Space Marines'in en ünlü ve en güçlü psyker'ıdır. Librarian'ın en büyük özelliği, onların psişik gücüdür — onlar, Astartes'in en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır; bir Librarian, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Librarian'ın en ünlü özelliği, onların bilgisiçidir — onlar, Space Marines'in en bilgili ve en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücü
 
 -# İlişkili kayıtlar: <#1551753431230971988>, <#1551818131679215728>, <#1551809231580307517>, <#1551641477501947995>, <#1551811368389181491>

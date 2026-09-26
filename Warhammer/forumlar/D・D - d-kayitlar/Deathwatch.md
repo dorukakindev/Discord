@@ -12,6 +12,10 @@ Deathwatch'ın temel operasyon birimi **Kill Team**'dir: farklı Chapter'lardan,
 
 Long Vigil'i tamamlayan Marine'lerin önemli bir kısmı kendi Chapter'larına döner ve edindikleri bilgiyi yanlarında götürür; ancak Deathwatch'ta gördüklerinin ne kadarını paylaşabilecekleri, Inquisition'ın gizlilik talepleriyle sınırlanır.
 
+## Tarihçe
+
+Deathwatch, İmparatorluk'un en gizli ve en ölümcül Space Marine organizasyonudur — xeno'lara karşı savaşan özel bir güçtür. Deathwatch, İmparatorluk'un en gizli ve en ölümcül organizasyonudur; o
+
 ## Kökenler: İki Anlatı
 Deathwatch'ın kuruluşu hakkında yayımlanmış kanonda tek bir anlatı yoktur. Kaynaklar birbirinden farklı iki çerçeve sunar ve bunlar arasında kesin bir uzlaştırma yapılmamıştır.
 

@@ -12,6 +12,6 @@ Heresy'nin başında Horus, kendisine kazanamayacağı lejyonları uzak köşele
 
 ## Tarihçe
 
-Blood Angels'ın en karanlık anının yeri; daemon sistemi, Signus'ta Sanguinius'u kırıp Black Rage tohumunu ekti. Blood Angels'ın kanı burada lanetlendi.
+Signus Prime, Horus Heresy sırasında Blood Angels'ın tuzağa düşürüldüğü Chaos dünyasıdır — İmparatorluk tarihinin en karanlık yerlerinden biridir. Horus, Blood Angels'ı Signus sistemine bir 'görev' bahanesiyle gönderdi; aslında amaç, Sanguinius'u Chaos'a düşürmek veya yok etmekti. Signus'un yüzeyinde Blood Angels, Ka'Bandha ve Kyriss gibi Greater Daemon'larla karşılaştı ve Legion'un bir kısmı Khornate iblislere dönüştü. Sanguinius, Ka'Bandha'yla yaptığı düelloda ağır yaralandı ama Legion'unun sadakatini korudu; Signus, Blood Angels tarihinin en karanlık ve en trajik olaylarının yaşandığı yerdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -16,8 +16,4 @@ Cılız, körelmiş bir bedenin üzerinde şişkin bir kafatası taşıyan Zoant
 
 ## Tarihçe
 
-Zoanthrope (Tyranicus animus-aborrens), Tyranid'in en tuhaf türlerinden biridir — toplanmış Aeldari DNA'sından mühendislenmiş gibi görünen güçlü psyker'lar olarak Hive Mind'ın odaklanmış gücünün yaşayan kanalını oluşturur. 'Yüzen beyin' olarak savaş alanına psişik patlama indiren bu varlık, Tyranid'in 'zihin silahı'dır.
-
--# Kaynaklar: *Codex: Tyranids — 10th Edition*
-
--# İlişkili kayıtlar: <#1551759780211589197>, <#1551814990338723904>, <#1551818131679215728>, <#1551815033518948404>
+Zoanthrope, Tyranid'in en gizli ve en güçlü psişik varlığıdır; bir Tyranid ordusunun psişik gücünü toplayan ve onu düşmana yönlendiren en tehlikeli organizma olan Zoanthrope, Tyranid'in en gizli ve en güçlü silahıdır — onlar, Tyranid'in en gizli ve en güçlü psişik varlığıdır. Zoanthrope'un en büyük özelliği, onun psişik gücüdür — onlar, bir Tyranid ordusunun psişik enerjisini toplayan ve onu düşmana yönlendiren en güçlü organizmadır ve onların varlığı, Tyranid'in en gizli gücünün kanıtıdır; bir Zoanthrope, hem bir organizma hem de bir psişik güçtür ve onların varlığı, Tyranid'in en büyük tehdidinin somut halidir. Zoanthrope'un en ünlü özelliği, onun psişik saldırısıdır — onlar, bir Tyranid ordusunun psişik gücünü bir ışına dönüştüren en tehlikeli organizmadır ve onların varlığı, Tyranid'in en büyük gücünün kanıtıdır. Z

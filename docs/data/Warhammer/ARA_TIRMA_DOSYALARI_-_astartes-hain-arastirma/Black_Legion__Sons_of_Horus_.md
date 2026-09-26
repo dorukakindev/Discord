@@ -101,6 +101,10 @@ Abaddon, **12 Black Crusades** düzenledi. **13. Black Crusade** en önemlisiydi
 - **Battle of Ullanor** — Büyük zafer.
 - **Luna Campaigns** — Luna üzerindeki başarılar.
 
+## Tarihçe
+
+Black Legion (eski adıyla Luna Wolves ve Sons of Horus), Horus Lupercal'ın Legion'udur ve İ
+
 ### The Horus Heresy
 
 - **Battle of Istvaan III** — Loyalist kuvvetlerin yok edilmesi.

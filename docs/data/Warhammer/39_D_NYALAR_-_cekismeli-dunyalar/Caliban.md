@@ -12,6 +12,6 @@ Primarch Lion El'Jonson, bu ormanlarda tek başına hayatta kaldı ve bir Şöva
 
 ## Tarihçe
 
-Caliban, Dark Angels'ın yok olmuş ana dünyasıdır; ormanlı, şövalye kültürlü ölü gezegen, Heresy sonunda lejyon içi savaşla parçalandı. Bugün sadece 'The Rock' asteroid-fortress'ı kalır — Caliban'ın yıkımı Dark Angels'ın en büyük yarası.
+Caliban, Dark Angels Legion'unun primarch'ı Lion El'Jonson'un ev gezegeni ve Legion'un ana dünyasıydı — ormanlarla kaplı, tehlikeli canavarlarla dolu bir dünyaydı. Gezegen, Horus Heresy'nin sonunda Luther'ın ihanetiyle yıkıma uğradı; Dark Angels içindeki bölünme sırasında Caliban tamamen yok edildi ve geriye sadece devasa bir kayalık parçası — 'The Rock' — kaldı. The Rock, günümüzde Dark Angels'ın ana kalesi olarak hizmet veriyor ve Chapter'ın en gizli sırlarını barındırıyor. Caliban'ın yıkımı, Dark Angels tarihinin en büyük trajedisi ve Chapter'ın 'Unforgiven' olarak bilinen gizli suçluluk duygusunun kaynağıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

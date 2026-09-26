@@ -12,6 +12,6 @@ Aeldari teolojisinde Hoec özel bir yer tutar: Kurnous bedeni, Cegorach ruhu tem
 
 ## Tarihçe
 
-Hoec, Aeldari mitolojisinde Webway'in kadim koruyucu-tanrısı veya yol gösterici figürüdür; kayıtları bulanık ama Aeldari'nin gizli yolların efendisi olarak anılır. Harlequin ve Webway geleneğiyle bağlantılıdır — labirentin bekçisi.
+Hoec, Eldar mitolojisinde 'gezgin' ve 'tılsım' tanrısı — Webway'i bilen, ruh taşlarının ve Waystone'ların gizli kullanıcısıdır. Path of the Wanderer'ın patronu sayılır; Harlequin'ler ve Outcast Path'i izleyen Eldar'lar Hoec'le özdeşleşir. Mitte, Hoec'in Webway'de Slaanesh'in takibinden kaçarken attığı 'son adım' — bir anlık ışıltı — Pathfinder'ların sembolüdür. Fall'da yutulduğu söylense de Webway'in derinliklerinde 'yankısının' sürdüğü söylenir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

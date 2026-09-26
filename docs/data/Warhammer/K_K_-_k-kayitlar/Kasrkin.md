@@ -11,10 +11,9 @@ Cadia'nın seçkin storm trooper'ları — kasr (kale şehir) gardiyanları. Car
 - **Köken:** Cadia (yok edildi)
 
 ## Tarihçe
-Her kasr'ın kendi Kasrkin alayı vardı — Cadia'nın savunma kültürünün zirvesi. 13. Kara Haçlı Seferi'nde kasr'lar teker teker düşerken onların direnişi son güne kadar sürdü; kaçanlar bugün hâlâ ön cephelerde görev yapar.
 
-## Özellikler
-Carapace armor, hellgun/hot-shot lasgun, ağır silah timleri; Guard özel kuvvet statüsü.
+Kasrkin, Cadian Shock Troops'un seçkin birimidir; Cadia'nın en sert eğitimini almış, carapace armour giyen ve hot-shot lasgun taşıyan profesyonel savaşçılardır — Cadia'nın düşmesinden sonra bile hayatta kalan ve hâlâ savaşan son Cadia askerleridir. Kasrkin olmak, Cadia'nın en yüksek askeri onuruydu — eğitim Schola Progenium seviyesinde sertti ve sadece en iyi askerler seçilirdi; Kasrkin'ler, Cadia'nın Eye of Terror'a karşı binlerce yıl süren savunmasının en keskin kılıcıydı. Cadia yıkıldığında Kasrkin'lerin çoğu son savaşta öldü ama hayatta kalanlar dağıldı — bazıları Imperial Guard birimlerine katıldı, bazıları Rogue Trader'lara hizmet etti, bazıları sadece kayboldu. Kasrkin'in varlığı, Cadia'nın hâlâ yaşadığının kanıtıdır — onlar için Cadia düşmedi, sadece kayboldu ve onlar hâlâ onun için savaşıyorlar.
+
 
 -# Kaynaklar: Codex: Astra Militarum
 

@@ -16,7 +16,7 @@ Old One Eye, Ultramar'ın kayıtlarında yıllarca avlanan dev bir Carnifex'tir.
 
 ## Tarihçe
 
-Old One Eye ('Tek Gözlü'), ölümcül yaralardan kendini iyileştirebilen eşsiz bir Tyranid Carnifex'idir; bedeni öldürmesi gereken birçok darbenin izini taşır ve İmparatorluk güçleri arasında onun 'öldürülüp öldürülüp geri döndüğü' söylenir. 'Ölümsüz Carnifex' olarak söylenti efsanesi olan bu figür, Hive Fleet'in 'geri dönen korku'sudur.
+Old One Eye, Hive Fleet Behemoth'un en efsanevi ve en ölümcül Carnifex'idir — tek gözlü devasa bir Tyranid biyomorfudur. Bu varlık, Macragge Savaşı sırasında Ultramarines'e karşı savaştı ve birçok Space Marine'in hayatına mal oldu; Old One Eye, Tyranid'lerin en efsanevi ve en ölümcül varlığıdır. Bu varlık, Hive Fleet Behemoth'un en ölümcül ve en efsanevi varlığıdır; Old One Eye, Tyranid'lerin en büyük ve en efsanevi varlığıdır. Varlık, Hive Fleet Behemoth'un en ölümcül ve en efsanevi varlığı olarak kalır.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*; *Codex: Tyranids*
 

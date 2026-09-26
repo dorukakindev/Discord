@@ -33,6 +33,10 @@ Night Lords, **Konrad Curze**'nin genetik materyalinden yaratıldı. Curze, **No
 
 #### Nostramo
 
+## Tarihçe
+
+Night Lords (VIII Legion), Konrad Curze'un oğullarıdır; terör, kork
+
 **Nostramo**, Night Lords'ın ana gezegeniydi. Işıksız, sürekli gece olan bir dünya. Curze, Nostramo'yu bir suç cehenneminden düzenli bir topluma dönüştürdü — ama bunu yapmak için sürekli terör uyguladı.
 
 #### Korku Savaşı

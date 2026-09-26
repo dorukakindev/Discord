@@ -45,6 +45,10 @@ Ultramarines savaşçılar ya da şövalyeler değil, **askerler**dir; profesyon
 
 Ancak yine de belirli bir alanda uzmanlaşmış birimleri vardır: örneğin **Invictus Suzerians** en iyi Dark Angel'lara bile meydan okuyabilir; ancak bir Suzerian bir Raven Guard Mor'Deythan'ı geçemez.
 
+## Tarihçe
+
+Ultramarines, Space Marines'in en ünlü ve en organize Legion'larından biridir — Roboute Guilliman'ın Legion'udur ve Codex Astartes'in yazarıdır
+
 **Codex Astartes**'i kutsal kitap olarak görürler; Imperial Fists ve Raven Guard yalnızca rehber olarak bakarken, Ultramarines harfine harfine uyar. Ironik olarak Guilliman bunun yanlış olduğunu ve Codex'in kendi yargısıyla hareket etme yeteneğini asla değiştirmemesi gerektiğini belirtmişti.
 
 ## 500 Worlds of Ultramar

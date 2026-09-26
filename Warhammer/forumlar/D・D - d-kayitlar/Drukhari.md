@@ -43,7 +43,7 @@ Bu üçlünün çevresinde başka topluluklar da yaşar: Arhra'nın mirasını t
 
 ## Tarihçe
 
-Drukhari ('Karanlık Olanlar', dışarıdan Dark Eldar), yozlaşmış ve terk edilmiş Aeldari akrabalığıdır — Asuryani'nin sadist, kötü niyetli karşıtı. Commorragh'ın 'karanlık şehir'sinde yaşayan bu figürler, acı ve zulümle beslenerek ruh
+Drukhari (Dark Eldar), İmparatorluk'un en tehlikeli ve en korkulan xeno ırklarından biridir — Webway'de yaşayan ve acımasız bir ırktır. Drukhari, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarıdır; bu ırk, İmparatorluk'un xen
 
 ## Kültür ve Savaş Tarzı
 

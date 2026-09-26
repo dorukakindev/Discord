@@ -43,6 +43,10 @@ Chemos'un Heresy sırasında ve sonrasında nasıl bir akıbete uğradığı yay
 **Yanılgı:** Emperor's Children bütünüyle Chemos kökenli bir Legion'dı.
 **Kanon:** Legion, Fulgrim'den önce de vardı; neredeyse tükenmiş Terra kökenli kalıntılar Chemos'tan gelen savaşçılarla yeniden inşa edildi.
 
+## Tarihçe
+
+Chemos, Fulgrim'in 'evi' ve Emperor's Children'ın doğuş yeri — sürekli sanayi sisleriyle kaplı, kaynak-yoksun bir maden gezegenidir. Gezegenin çoraklığı ve işçi sınıfının 'hayatta kalma' zorunluluğu Fulgrim'in 'mükemmellik' takıntısını besledi; 'Chemos'un çocukları' yoksulluktan 'kusursuzluğa' uzanan bir hikâyenin kahramanıdır. 'The Forge' olarak bilinen bu dünya, Imperium'un 'en büyük' trajedisinin başlangıcıdır — mükemmeliyet aray
+
 ## Yayın ve Retcon Notu
 Chemos'un bir sanayi ve maden dünyası olması, Fulgrim'in onu yeniden ayağa kaldırması ve III Legion'ın gene-seed felaketi, 3rd Edition dönemi White Dwarf'taki Index Astartes geleneğiyle belirginleşen, sonra Horus Heresy serisinde derinleştirilen unsurlardır. Graham McNeill'in *Fulgrim* romanı (2007), Primarch'ın kökenini düşüşünün arka planına yerleştirdi; Josh Reynolds'ın Primarchs serisindeki *Fulgrim: The Palatine Phoenix*'i ise Primarch'ı Great Crusade döneminde, düşüşünden önceki hâliyle işledi. Eski özet anlatımlar ile sonraki romanlar arasındaki ayrıntı farkları, bu arşivde bir çelişkiden çok kısa bir çekirdeğin derinleştirilmesi olarak okunur. Callax gibi yer adlarının ilk hangi yayında geçtiği ise bu arşivce kesinleştirilmemiştir.
 

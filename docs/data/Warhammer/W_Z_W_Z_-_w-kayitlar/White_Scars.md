@@ -23,7 +23,7 @@ Ardından gelen yıllarda White Scars, *The Path of Heaven*'da işlendiği üzer
 
 ## Tarihçe
 
-White Scars (V Legion), Jaghatai Khan'ın oğullarıdır; hız, özgürlük ve savaşın kutsallığına inanan ve Chogoris'in bozkır kültüründen gelen, İmparatorluğun en hızlı ve en özgür savaşçılarıdır. White Scars'ın savaş doktrini, Khan'ın bozkır felsefesinden doğar — onlar hızı sever, jetbike ve land speeder'ları tercih eder ve onların savaşı, bir baskın ve bir kaçıştır; bir White Scar, savaşta durmaz — akar, döner ve kaybolur. White Scars'ın en büyük özelliği, onlar
+White Scars — V Legion — Jaghatai Khan'ın Chogoris'li 'göçebe' lejyonu; hız, yıldırım saldırısı ve 'serbest ruh' doktriniyle savaşan İmparatorluk'un en hızlı ordusu. 'Kor'sarro Khan' gibi Hunt Master'ları ve 'Stormseer' Yesugei'nin kehanet geleneği; Heresy'de Khan'ın 'iki tarafı da reddetme' kararı ve sonradan Terra'ya yardıma koşması lejyonun kaderini belirledi. 'For the Emperor and the Khan!' — savaş çığlıkları hızın kendisidir.
 
 ## Scouring ve Khan'ın Kayboluşu
 Scouring sırasında White Scars, kaçan Traitor kuvvetlerini galaksinin dört bir yanında kovaladı. Bu dönemin sonlarında Jaghatai Khan, Drukhari akıncılarını takip ederek Webway'e girdi ve bir daha geri dönmedi. Chapter onu ölü saymaz; Khan'ın Webway'de hâlâ savaştığına ve bir gün geri döneceğine inanır. Bu inanç, yayımlanmış kanonda doğrulanmamış bir Chapter inancıdır.

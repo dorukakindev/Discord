@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/68/Catacombcommandbarge1
 
 ## Tarihçe
 
-Catacomb Command Barge, Necron overlord'larının uçan komuta platformudur; Annihilation Barge'ın komuta varyantı olarak savaş alanının üstünde süzülüp orduları yönlendirir — Necron komuta hiyerarşisinin 'uçan tahtı'.
+Catacomb Command Barge, Necron'ların en tehlikeli ve en ölümcül komuta araçlarından biridir — Necron lordlarını taşıyan ve komuta eden bir platformdur. Catacomb Command Barge, Necron'ların en tehlikeli ve en ölümcül komuta araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül komuta güçlerinden biridir. Catacomb Command Barge, Necron'ların en tehlikeli ve en ölümcül komuta araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül komuta güçlerinden biridir.
 
 -# Kaynaklar: *Necrons Codex*
 -# İlişkili kayıtlar: <#1552848926837702738>

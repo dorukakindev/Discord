@@ -13,4 +13,4 @@ Thor'un mirası devasadır: Ecclesiarchy'nin reformu, Adepta Sororitas'ın kurul
 
 ## Tarihçe
 
-Sebastian Thor, İmparatorluğun en ünlü ve en önemli Ecclesiarch'ıdır; Goge Vandire'in düşüşünden sonra Ecclesiarchy'yi yeniden kuran ve İmparatorluğun en kutsal organizasyonunu yöneten Thor, İmparatorluğun en önemli ve en kutsal figürüdür — onlar, İmparatorluğun en ünlü ve en önemli Ecclesiarch'ıdır. Sebastian Thor'un en büyük özelliği, onun reformudur — onlar, Ecclesiarchy'yi yeniden kuran ve onu reforme eden en önemli figür
+Sebastian Thor, İmparatorluk'un en kutsal ve en önemli figürlerinden biridir — Ecclesiarchy'nin reformcusu ve İmparatorluk dininin en önemli figürüdür. Thor, İmparatorluk'un en kutsal ve en önemli figürlerinden biridir; onun reformları, İmparatorluk dininin en önemli ve en kutsal geleneğinin temelini oluşturur. Sebastian Thor, İmparatorluk'un en kutsal ve en önemli figürü olarak kalır — onun reformları, İmparatorluk dininin e

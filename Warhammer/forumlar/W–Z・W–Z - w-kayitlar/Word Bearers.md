@@ -26,7 +26,7 @@ Açık savaşta Word Bearers, Isstvan V'teki ihanetin ikinci dalgasında yer ald
 
 ## Tarihçe
 
-Word Bearers, Horus Heresy sırasında İmparator'a ihanet eden dokuz İlk Kuruluş Space Marine lejyonundan biridir; Chaos Space Marine oldular ve bağlılıkları Daemon Primarch Lorgar'a ve Chaos Undivided'a yöneldi. Chaos'a dönen İLK lejyon olarak 'ilk hain' unvanını taşırlar — 'kelimenin yıkıcısı' olarak Heresy'nin fikir babaları.
+Word Bearers, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir — Lorgar'ın Legion'udur ve Chaos'un en dindar Legion'udur. Word Bearers, İmparatorluk'un en dindar ve en sadık Legion'uydu; ancak Monarchia'nın yıkılmasından sonra Chaos'a düştüler ve Heresy'nin başlamasının en önemli sebebi oldular. Word Bearers, İmparatorluk'un en büyük ihanetini gerçekleştirdi ve Heresy'nin en önemli figürlerinden biri oldu; onların düşüşü, İmparatorluk tarihinin en büyük trajedilerinden birinin simgesidir. Word Bearers, Chaos'un en tehlikeli ve en korkulan Legion'u olarak kalır — onların ihaneti, İmparatorluk'un en büyük trajedilerinden birinin kaynağıdır.
 
 ## Yapı, Teoloji ve Legion Sonrası Düzen
 Heresy'nin ardından Word Bearers, Eye of Terror içindeki daemon dünyası Sicarus'a çekildi. Diğer Traitor Legion'lar warband'lere bölünüp kimliklerini yitirirken Word Bearers, ortak inançları sayesinde görece bütünlüklü kalabilen nadir Legion'lardan biri oldu.

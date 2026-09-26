@@ -15,6 +15,10 @@ Eye of Terror bir yer olduğu kadar bir yaradır da. Aeldari için kendi uygarl�
 **Konum ve çevre**
 Eye of Terror'un çevresinde Imperium'un en yoğun tahkim edilmiş bölgeleri yer alır: Cadia'nın merkezinde bulunduğu Cadian Gate, Belis Corona, Agripinaa ve Scarus gibi sektörler bu savunma kuşağının parçalarıdır. Ulthwé Craftworld'ü de Eye'ın kenarında, onu gözetleyen bir konumda seyreder.
 
+## Tarihçe
+
+Eye of Terror, İmparatorluk'un en tehlikeli ve en korkulan bölgesidir — Warp'in gerçekliğe sızdığı ve Chaos'un hüküm sürd
+
 ## Kökenler: Fall of the Aeldari
 Eye of Terror'un doğuşu, Aeldari uygarlığının çöküşüyle aynı anda gerçekleşti. Galaksiye hükmetmiş Aeldari imparatorluğu, uzun bir çürüme ve aşırılık döneminin sonunda Warp'ta yeni bir Chaos God'un, Slaanesh'in doğuşuna yol açtı. Bu doğumun yarattığı psişik şok, Aeldari'nin çekirdek dünyalarını gerçekliğin dokusundan koparıp Warp'ın içine çekti ve geride Eye of Terror'u bıraktı. Olay genellikle M30 civarına, yani insanlığın Age of Strife dönemine yerleştirilir; kesin bir tarih verilmez.
 

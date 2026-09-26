@@ -18,6 +18,10 @@ On iki Black Crusade Imperial tarihinde çoğunlukla "püskürtülmüş" seferle
 
 Aşağıdaki liste eski codex kronolojilerinin kısa kayıtlarına dayanır; birçok seferin ayrıntısı birkaç cümleden ibarettir.
 
+## Tarihçe
+
+Black Crusades, Chaos'un en büyük ve en organize saldırılarıdır; Abaddon'un — Black Legion'un lideri — İmparatorluğa karşı başlattığı ve on üç kez tekrarlanan
+
 ## 1.–4. Black Crusade'ler (M31–M34)
 **1st Black Crusade (781.M31)**
 Heresy sonrası Chaos kuvvetlerinin Cadia'ya ilk büyük saldırısı; kimi yerde *First Battle of Cadia* olarak da anılır. Sefer sonunda püskürtüldü, ama Imperium'u Cadian bölgesini ağır biçimde tahkim etmeye zorladı. Eski codex anlatıları Abaddon'ın daemon kılıcı Drach'nyen'i bu dönemde, Uralan dünyasında elde ettiğini söyler; Black Legion romanları ise kılıcın kökenine dair kendi sahnelemesini sunar.

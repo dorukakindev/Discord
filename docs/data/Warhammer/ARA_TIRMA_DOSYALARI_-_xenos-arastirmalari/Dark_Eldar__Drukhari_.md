@@ -129,6 +129,10 @@ Resmi model boyamaları çoğunlukla şeker kırmızısı saç gösterir (Lelith
 - **Lady Malys** — Cegorach kristal "kalbi"ni taşıyan güçlü Archon
 - **Xagor** — Yüce Haemonculus (Uria)
 
+## Tarihçe
+
+Drukhari — eski adıyla Dark Eldar — Commorragh'ın 'karanlık şehir'sinde yaşayan, başkalarının a
+
 RIP — Kuralları oyundan çıkarılmış özel karakterler:
 - Kruellagh the Vile
 - Lord Hellion Baron Sathonyx

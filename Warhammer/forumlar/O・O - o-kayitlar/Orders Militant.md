@@ -14,6 +14,10 @@ Orders Militant, Ecclesiarchy'ye bağlıdır; ama Convocation of Nephilim olarak
 
 Bu kanal Order'ların yapısını ve tek tek karakterlerini ele alır. Sisterhood'un kuruluşu ve genel tarihi **kayıt**, terimin kullanımı **kayıt**, kurucu azizeler ise **kayıt** ve azizler forumunda işlenir.
 
+## Tarihçe
+
+Orders Militant, Adepta Sororitas'ın en önemli ve en ölümcül askeri koludur; onların görevi, İmparator'un düşmanlarını yo
+
 ## Kökenler ve İki Convent
 Orders Militant'ın kökeni, M36'daki Reign of Blood'un sonunda yatar. Goge Vandire'ın muhafızı olan Brides of the Emperor, önderleri **Alicia Dominica**'nın Golden Throne'un huzurundan dönüşünün ardından Vandire'ı devirdiğinde, Sebastian Thor'un **Decree Passive**'i Ecclesiarchy'nin silahlı "erkek" tutmasını yasaklamıştı. Tamamen kadınlardan oluşan tarikat bu yasağın lafzının dışında kaldı ve Thorian Reformation döneminde Adepta Sororitas olarak yeniden örgütlendi.
 

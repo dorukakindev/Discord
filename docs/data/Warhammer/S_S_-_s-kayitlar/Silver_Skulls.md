@@ -31,7 +31,7 @@ Chapter'ın en tanınan geleneği, gümüş kafataslarıdır. Yenilen güçlü d
 
 ## Tarihçe
 
-Silver Skulls, Ultramarines soyu ve İmparatorluğun en disiplinli ve en kehanetli Space Marine Chapter'larından biridir; onların savaş doktrini, Ultramar'ın disiplin geleneğinden ve kendi kehanet kültüründen doğar ve onlar, İmparatorluğun en disiplinli ve en kehanetli savaşçılarıdır. Silver Skulls'un en büyük özelliği, onların kehanetidir — onlar, geleceği görmeye çalışır ve onların savaşı, hem fiziksel hem de psişik bir planlamadır; bir Silver Skull, hem bir savaşçı hem de bir kahinidir ve onların savaşı, hem disiplinli hem de mistiktir. Silver Skulls'un en ünlü savaşı, çeşitli Imperial operasyonlarıdır — onlar, İmparatorluğun en disiplinli savaşçılarıdır ve onların varlığı, Ultramar'ın geleneğinin somut halidir. Silver Skulls, İmparatorluğun en disiplinli ve en kehanetli Chapter'ıdır — onlar, disiplinin ve kehanetin birl
+Silver Skulls, Space Marines'in en gizli ve en tartışmalı Chapter'larından biridir — gene-lineage'i uzun süre belirsiz kalmış bir Chapter'dır. Silver Skulls, kehanet ve kehanet okuma geleneğiyle bilinir; Chapter'ın üyeleri, savaş öncesi kehanetleri okur ve bu kehanetlere göre hareket eder. Silver Skulls, İmparatorluk'un en gizli ve en tartışmalı Chapter'ı olarak kalır; onların kehanet geleneği, İmparatorluk'un en gizli ve en tartışmalı güçlerinin simgesidir.
 
 Cawkwell'in anlatılarında Chapter Master'ın adı Argentius olarak geçer; bu adın kişiden çok makama ait olup olmadığı ise kaynaklarda açıkça oturtulmaz. Batıl gelenek yalnızca Prognosticator'larla sınırlı değildir; sıradan kardeşler de uğur, alamet ve tören konusunda titizdir. Silver Skulls'ın dünyası, disiplinli bir savaş makinesiyle kadim bir inanç düzeninin iç içe geçtiği bir yerdir.
 ---MSG---
@@ -51,6 +51,10 @@ Chief Prognosticator Vashiro, bu dönemin anlatısında Chapter'ın manevi ağı
 ---MSG---
 ## Armageddon, Era Indomitus ve Güncel Durum
 Silver Skulls, M41 boyunca Imperium'un pek çok cephesinde savaştı. Third War for Armageddon'a güçlü bir kuvvetle katıldıkları aktarılır; kimi kayıtlar bu kuvvetin yedi company'ye ulaştığını söyler. Armageddon'ın cehennemi, kehanete bağlı bir Chapter'ın bile uzun ve yıpratıcı bir savaşa uyum sağlayabildiğini gösterdi.
+
+## Tarihçe
+
+Silver Skulls, Ultramarines soyu ve İmparatorluğun en disiplinli ve en kehanetli Space Marine Chapter'larından biridir; onların savaş doktrini, Ultramar'ın disiplin geleneğinden ve kendi kehanet kültüründen doğ
 
 Great Rift'in açılması ve Noctis Aeterna'nın karanlığı, Silver Skulls için özellikle ağır bir sınav olmuş olmalıdır; çünkü Warp'ın taşması, kehanetle yaşayan bir Chapter'ın en çok güvendiği araçları belirsizleştirir. Chapter'ın bu dönemdeki konumu ve Primaris takviyesi alıp almadığı kaynaklarda ayrıntılı işlenmez; bu yüzden kesin bir tablo çizmek mümkün değildir.
 

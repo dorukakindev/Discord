@@ -16,7 +16,8 @@ Hearthkyn savaşçılarının giydiği, onları savaş alanında ve boşluğun �
 
 ## Tarihçe
 
-Kin orduları, Imperium'un çoğu zaman anlayamadığı güçlü kalkan sistemlerine, ağır zırhlara ve kendi tasarımları olan savaş makinelerine dayanır. Void armour bu donanımın en yaygın, en gündelik biçimi olarak League'lerin savaşçı kadrolarında görülür; Brôkhyr loncaları bu teknolojiyi korumakla kalmaz, aktif olarak geliştirir.
+Void Armour, İmparatorluk'un en gelişmiş ve en değerli zırh sistemidir — uzayda ve en tehlikeli ortamlarda kullanılan bir zırhtır. Bu zırh, kullanıcısını vakum, radyasyon ve en tehlikeli ortamlardan korur; İmparatorluk'un en gizli ve en önemli görevlerinin en kritik aracıdır. Void Armour, İmparatorluk'un en gelişmiş ve en değerli zırh sistemidir; bu zırh, İmparatorluk'un en gizli operasyonlarının en önemli aracıdır. Zırh, İmparatorluk'un en gelişmiş ve en değerli zırh sistemi olarak kalır.
+
 
 -# Kaynaklar: *Codex: Leagues of Votann — 9th Edition*
 

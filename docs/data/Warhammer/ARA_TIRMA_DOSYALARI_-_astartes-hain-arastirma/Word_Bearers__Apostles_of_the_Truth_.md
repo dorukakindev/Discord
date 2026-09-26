@@ -205,6 +205,10 @@ Word Bearers, **Colchis** ve **Calth** (Calth Savaşı'ndan sonra) gibi yerlerde
 
 #### Post-Heresy
 
+## Tarihçe
+
+Word Bearers, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir — Lorgar'ın Legion'udur ve Chaos
+
 - **Lorgar Aurelian** — Daemon Prince.
 - **Erebus** — Dark Apostle.
 - **Kor Phaeron** — Dark Apostle.

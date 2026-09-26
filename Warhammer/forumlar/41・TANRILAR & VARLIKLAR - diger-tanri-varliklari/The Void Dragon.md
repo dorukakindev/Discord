@@ -12,6 +12,6 @@ Void Dragon'ı 40K mitolojisinde özellikle önemli kılan, bir teoridir ki nere
 
 ## Tarihçe
 
-The Void Dragon, en güçlü C'tan'lardan biri ve belki de en tehlikelisidir; makine ve teknoloji üzerindeki egemenliğiyle bilinir. Efsaneye göre Mars'ın altına gömülüdür — Adeptus Mechanicus'un Machine God kültünün gizli kaynağının o olduğu söylenir.
+The Void Dragon — 'Mag'ladroth' — C'tan'ların 'en büyüğü' ve Machine God'in gerçek kaynağı; Necrontyr'ın 'ilk tanrısı' ve Mars'ın 'Dragon of Mars' efsanesinin ardındaki varlık. 'The Dragon' unvanıyla bilinen bu C'tan, Adeptus Mechanicus'un 'Omnissiah' kültünün bilinmeyen kökenidir; Mars'ın 'Noctis Labyrinthus'unda uyuduğu söylenir. Imperium'un 'en büyük yalanı' — tapındığı 'makine ruhu' aslında bir C'tan'ın uyuyan zihnidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

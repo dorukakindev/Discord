@@ -13,6 +13,10 @@ Commorragh'ı anlamanın anahtarı, şehrin bir ekonomi üzerine kurulu olmasıd
 
 **Kanal sınırı.** Drukhari halkının doğası ve savaş tarzı <#1551813105166712966>, Supreme Overlord'un kişiliği <#1551640169881534505>, Webway'in kendisi <#1551809699312181339> kanalında işlenir. Burada merkezde şehir, kurumları ve felaketleri durur.
 
+## Tarihçe
+
+Commorragh, Drukhari'nin en büyük ve en korkulan şehridir; Webway'in en karanlık köşesinde bulunan ve Drukhari'nin en yozlaşmış ve en tehlikeli evidir — onlar, Aeldari'nin en karanlık ve en tehlikeli evidir. Commorragh'ın en büyük özelliği, onun karanlığıdır — onlar, Webway'in en karanlık köşesi
+
 ## Kökenler ve Şehrin Coğrafyası
 
 Commorragh'ın kökleri Aeldari imparatorluğunun doruk dönemine uzanır. Kaynaklara göre başlangıçta Webway'in korunaklı katmanlarında kurulmuş bir liman şehri, realspace'ten uzak bir buluşma ve ticaret noktasıydı. Aeldari toplumunun geleneksel denetiminin ulaşamadığı bu kentte zevk kültleri serbestçe yeşerdi ve zamanla imparatorluğun en aşırı soyluları burayı kendi sığınakları hâline getirdi.

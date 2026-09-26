@@ -24,6 +24,10 @@ Uriel'in komutanlık anlayışını biçimlendiren kişi, 4th Company'nin eski k
 
 Pavonis'teki savaş, Uriel'in hayatını derinden etkileyecek bir iz bıraktı. Nightbringer'la karşılaşmada kolunu yitiren Pasanius'a takılan bionic kolun sonradan açıklanamaz biçimde kendini onarmaya başlaması, Pasanius'un uzun süre gizlediği bir sır hâline geldi. Bu sır, ileride hem onun hem Uriel'in kaderini belirleyecekti.
 
+## Tarihçe
+
+Uriel Ventris, Ultramarines'in en ünlü ve en cesur kaptanıdır; Dördüncü Bölük'ün kaptanı olan ve Ultramar'ın en büyük savunmalarını yöneten Ventris, İmparatorluğun en saygın ve en ölümcül Space Marine'lerinden biridir — onlar, Ultramarines'in en ünlü ve en onurlu üyesidir. Uriel Ventris'in en büyük özelliği, onun cesaretidir — onlar, Ultramar'ın en zorlu savaşlarını yöneten ve onun en büyük zafe
+
 *Warriors of Ultramar* ise Uriel'i Tarsis Ultra'da bir Tyranid istilasına karşı savaşırken gösterir. Ultramarines burada Imperial Guard kuvvetleri ve Ultramarines soyundan gelen, ölümle kurdukları kasvetli ilişkiyle tanınan **Mortifactors** Chapter'ı ile birlikte savaşır. Her iki seferde de Uriel, Codex'in öngörmediği koşullarda kendi yargısına dayanan kararlar aldı. Sonuçlar çoğu zaman başarılıydı; ama Ultramarines'in gözünde yöntem en az sonuç kadar önemliydi.
 ---MSG---
 ## Death Oath ve Sürgün

@@ -68,4 +68,8 @@ Terra, Warhammer 40,000'in ilk yayını *Rogue Trader*'dan (1987) bu yana evreni
 **Kaynaklar:** *Master of Mankind — Aaron Dembski-Bowden*; *The Solar War — John French*; *I Am Slaughter — Dan Abnett*; *Dark Imperium — Guy Haley*; *Codex: Adepta Sororitas*; *Warhammer 40,000 Core Book — 10th Edition*
 **Çapraz:** <#1551815272074055681>, <#1551813713403580438>, <#1551814951365115956>, <#1551810643785687071>, <#1551753439581831278>, <#1551816635839549491>, <#1551652847697797191>, <#1551809555841818669>
 
+## Tarihçe
+
+Terra (Dünya), İmparatorluk'un başkenti ve insanlığın ana gezegenidir — İmparator'un Altın Taht'ının bulunduğu ve İmparatorluk'un yönetim merkezidir. Terra, İmparatorluk'un en kalabalık ve en önemli dünyasıdır; milyarlarca insan, gezegenin yüze
+
 ​

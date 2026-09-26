@@ -16,6 +16,4 @@ Khaine'in rolü çift yönlüdür: hem Aeldari'nin savaşçı ruhunu temsil eder
 
 ## Tarihçe
 
-Aeldari savaş tanrısı; Asuryan'la çatışıp parçalandı, kıymıkları Avatar'lar oldu. 'Kana bulanmış el' lakabı — Aeldari'nin en vahşi yüzü.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Kaela Mensha Khaine, Aeldari'nin en ünlü ve en vahşi tanrısıdır; savaşın tanrısı olan ve Avatar'ları — savaş tanrısının fiziksel hali — yaratan Khaine, Aeldari'nin en vahşi ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en vahşi tanrısıdır. Khaine'in en büyük özelliği, onun vahşetidir — onlar, savaşın tanrısıdır ve onların varlığı, Aeldari'nin en

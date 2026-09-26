@@ -16,8 +16,7 @@ Enslaver'lar, psyker'ları geçit olarak kullanarak fiziksel âleme sızan ve ca
 
 ## Tarihçe
 
-War in Heaven'ın son dönemine ilişkin anlatılarda Warp'ın silah gibi kullanılması, en iyi bilineni Enslaver Plague olan felaketlere yol açmıştır: bu salgında Enslaver'lar psyker'ları canlı birer geçide dönüştürüp bütün dünyaların nüfusunu zihinsel olarak boyunduruk altına almıştır. Güncel kaynaklarda nadiren ayrıntılandırılsalar da evrenin kadim tehditlerinden biri olarak anılmayı sürdürürler.
+Enslaver, Chaos'un en gizli ve en tehlikeli xeno yaratığıdır; Warp'ta yaşayan ve zihinleri ele geçiren en gizli varlık olan Enslaver, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Chaos'un en gizli ve en tehlikeli xeno yaratığıdır. Enslaver'ın en büyük özelliği, onun zihin kontrolüdür — onlar, zihinleri ele geçiren ve onları köleleştiren en gizli varlıktır ve onların varlığı, Chaos'un en gizli gücünün kanıtıdır; bir Enslaver, hem bir yaratık hem de bir zihin kontrolcüsüdür ve onların varlığı, Chaos'un en büyük tehdidinin somut halidir. Enslaver'ın en ünlü özelliği, onun Warp'ta yaşamasıdır — onlar, Warp'ın en gizli ve en tehlikeli yaratığıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır. Enslaver, Chaos'un en gizli ve en tehlikeli xeno yaratığıdır — onlar, bir zihin kontrolcüsünün ve Chaos'un en gizli gücünün somut halidir.
 
--# Kaynaklar: *Warhammer 40,000: Rogue Trader — Rick Priestley*; *Codex: Necrons — 3rd Edition*
 
--# İlişkili kayıtlar: <#1551649070286897172>, <#1551817636516470845>, <#1551809666454134928>, <#1551818131679215728>
+-# Kaynaklar: *Warhammer 40,000: Rogue Trader

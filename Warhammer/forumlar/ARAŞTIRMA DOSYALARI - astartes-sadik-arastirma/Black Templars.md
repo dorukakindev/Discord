@@ -46,6 +46,10 @@ Diğer Chapter'ların aksine **Scout takımları yoktur** — yeterince haklı �
 
 Black Templar taktikleri **Sigismund'un öfke yönetimi sorunları öğretilerine** dayanır (Roboute Guilliman'ın aptal kitabı yerine). Bu, yakın dövüş tercihi ve düşmanın şövalyelik onuru ve intikamına odaklanmayı içerir.
 
+## Tarihçe
+
+Black Templars, Imperial Fists soyu ve Second Founding'de kurulan en ünlü Space Marine C
+
 İki spesifik taktik kullanırlar:
 1. **"Death from above"** (Gökten ölüm): Yıkıcı bir orbital bombardıman, ardından drop pod ve Thunderhawk yağmuru
 2. **"Armoured spearhead"** (Zırhlı uç): Bike ve Land Speeder'larla keşif ve probing assault'lar, sonra en zayıf noktadan Land Raider, Rhino, Predator ve Vindicator'larla yarma

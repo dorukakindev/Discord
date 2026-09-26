@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5e/Warhammer_40%2C000-_5
 
 ## Tarihçe
 
-Demetrian Titus, Ultramarines'in en ünlü ve en cesur kaptanıdır; İmparatorluğun en büyük savaşlarını yöneten ve onun en zorlu düşmanlarını yenen Titus, İmparatorluğun en saygın ve en ölümcül Space Marine'lerinden biridir — onlar, Ultramarines'in en ünlü ve en cesur üyesidir. Demetrian Titus'un en büyük özelliği, onun cesaretidir — onlar, Ultramar'ın en zorlu savaşlarını yöneten ve onun en büyük zaferlerini kazanan komutandır ve onların varlığı, Ultramarines'in en büyük gücünün kanıtıdır; bir Titus komutası, bir savaşın en kritik anının en büyük avantajıdır ve onların varlığı, İmparatorluğun en büyük onurunun somut halidir. Demetrian Titus'un en ünlü görevi, Chaos'a karşı savaşmasıdır — onlar, İmparatorluğun en tehlikeli düşmanlarını yenen ve onu koruyan komutanlardır ve onların varlığı, Ultramarines'in en büyük zaferinin kanıtıdır. Demetrian Titus, Ultramarines'in en ünlü ve en cesur kaptanıdır — onlar, bir kaptanın cesaretinin ve Ultramarines'in onurunun somut halidir.
+Demetrian Titus, Ultramarines'in en ünlü ve en efsanevi kaptanlarından biridir — Space Marine video oyununun kahramanıdır. Titus, Ultramarines'in en ünlü ve en deneyimli kaptanlarından biridir; onun hikâyesi, İmparatorluk'un en ünlü Space Marine hikâyelerinden biridir. Titus, Graia'nın savunmasında Ork ve Chaos güçlerine karşı savaştı; onun hikâyesi, İmparatorluk'un en ünlü video oyunu hikâyelerinden biridir. Demetrian Titus, Ultramarines'in en ünlü ve en efsanevi kaptanı olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü Space Marine hikâyelerinden biridir.
 
 -# Kaynaklar: *Fandom wiki*
 

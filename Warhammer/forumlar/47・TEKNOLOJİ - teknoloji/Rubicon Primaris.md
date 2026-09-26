@@ -16,8 +16,9 @@ Adını geri dönüşü olmayan bir eşikten alan bu süreç, bir Firstborn'un b
 
 ## Tarihçe
 
-Rubicon'u aşan en tanınmış isimler Ultramarines Chapter Master'ı Marneus Calgar ile Blood Angels'ın Chief Librarian'ı Mephiston'dur. Bu örnekler süreci tıbbi olduğu kadar sembolik bir eyleme dönüştürdü. Yine de her Firstborn bu yolu seçmez ya da seçemez; yaş, yara ve kişisel inanç bir veteranı eski bedeninde tutabilir.
+Rubicon Primaris, Space Marines'in en önemli ve en tehlikeli prosedürüdür — standart Space Marine'i Primaris Space Marine'e dönüştüren prosedürdür. Bu prosedür, standart Space Marine'in genetik yapısını değiştirir ve onu Primaris'e dönüştürür; ancak bu prosedür, yüksek ölüm oranıyla bilinir ve birçok Space Marine bu prosedürde hayatını kaybeder. Rubicon Primaris, Space Marines'in en önemli ve en tehlikeli prosedürüdür; bu prosedür, Space Marines'in geleceğini garanti altına alan en kritik araçtır. Prosedür, Space Marines'in en önemli ve en tehlikeli prosedürü olarak kalır.
+
 
 -# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Dark Imperium — Guy Haley*
 
--# İlişkili kayıtlar: <#1551818213782716427>, <#1551639038291611649>, <#1551753431230971988>, <#1551809394226765939>, <#1551811368389181491>
+-# İlişkili kayıtlar: <#1551

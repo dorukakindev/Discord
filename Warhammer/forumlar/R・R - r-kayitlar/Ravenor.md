@@ -69,3 +69,7 @@ Ravenor, 2001'de yayımlanan *Malleus*'la sahneye çıktı ve sakatlanması da b
 
 **Kaynaklar:** *Malleus — Dan Abnett*; *Ravenor — Dan Abnett*; *Ravenor Returned — Dan Abnett*; *Ravenor Rogue — Dan Abnett*; *Pariah — Dan Abnett*; *Penitent — Dan Abnett*
 **Çapraz:** <#1551642730927628289>, <#1551811026830499882>, <#1551818515483459616>, <#1551815304252887041>, <#1551652847727288412>, <#1551818131679215728>, <#1551753472070783096>, segmentum-obscurus
+
+## Tarihçe
+
+Ravenor, Dan Abnett'in Ravenor serisinin ilk romanıdır — Inquisitor Ravenor'un hikâyesinin başlangıcıdır. Bu roman, Ravenor'un İmparatorluk'un en gizli düşmanlarıyla mücadelesini anlatır; roman, Ravenor'un hikâyesinin baş

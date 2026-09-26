@@ -10,6 +10,6 @@ Company Champion (Bölük Şampiyonu), bir Space Marine bölüğünün en usta y
 
 ## Tarihçe
 
-Company Champion, Space Marine chapter'ının en iyi kılıç ustasıdır; Chapter Master'ın kişisel koruması ve şirketin 'onur savaşçısı'. En saf düello yeteneği taşıyan bu savaşçı, komutanının şerefiyle düşmanın en iyisini arar.
+Company Champion, Space Marine company'lerinin 'duello şampiyonu' — chapter'ın onurunu birebir dövüşte savunan ve en iyi kılıç/kalkan kullanımıyla seçilen savaşçı. 'Emperor's Champion' unvanı Black Templars'da en yüksek biçime ulaşır; diğer chapter'larda Company Champion, komutanın yeminli muhafızıdır. Imperium'un 'şövalye' geleneğinin son hali — savaşın karmaşasında bile 'kişisel onur' kavramını koruyan tek figür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

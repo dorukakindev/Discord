@@ -15,7 +15,7 @@ Deliverance'ın kurtarıcısı; zincirin ne olduğunu bizzat yaşamış, gölgel
 
 ## Tarihçe
 
-Corvus Corax, Raven Guard'ın en ünlü ve en trajik primarch'ıdır; Deliverance'in — Raven Guard'ın ev gezegeni — en gizli savaşçısı olan ve Raven Guard'ı kuran Corax, İmparatorluğun en trajik ve en gizli primarch'ıdır — onlar, Raven Guard'ın en ünlü ve en trajik primarch'ıdır. Corvus Corax'ın en büyük özelliği, onun gizliliğidir — onlar, bir primarch'ın gizli savaşçı halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır; bir Corax, hem bir primarch hem de bir hayalettir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Corvus Corax'ın en ünlü özelliği, onun kaybolmasıdır — onlar, bir primarch'ın kayboluşunun en trajik halidir ve onların varlığı, Raven Guard'ın en büyük umudunun kanıtıdır. Corvus Corax, Raven Guard'ın en ünlü ve en trajik primarch'ıdır — onlar, bir trajedinin ve Raven Guard'ın en büyük umudunun somut halidir.
+Corvus Corax (XIX), Raven Guard Legion'unun primarch'ı ve İmparator'un on dokuzuncu oğludur — 'Deliverance'ın Gölgesi' olarak bilinen ve gizli operasyonların ustasıdır. Corax, Deliverance gezegeninde yetişti ve İmparatorluk'un en gizli ve en tehlikeli Legion'unu oluşturdu; Heresy sırasında İmparator'a sadık kaldı. Corax, Isstvan V Drop Site Katliamı'ndan sağ çıktı ama Legion'unun büyük kısmını kaybetti; savaştan sonra Corax, Legion'unu yeniden kurmaya çalıştı ama başarısız oldu ve Warp'e sürüldü. Corax, İmparatorluk'un en trajik ve en gizemli primarch'larından biri olarak kalır — onun kaderi, Raven Guard'ın en büyük sırrıdır.
 
 ## Kanon Notu
 

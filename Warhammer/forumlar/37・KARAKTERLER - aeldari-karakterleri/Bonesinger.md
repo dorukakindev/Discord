@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/1c/Bonesinger_Miniature.
 
 ## Tarihçe
 
-Bonesinger, Aeldari'nin en gizli ve en önemli zanaatkârıdır; onların bir craftworld'ün en gizli yapı ustası olan ve onun wraithbone'unu şekillendiren Bonesinger, Aeldari'nin en gizli ve en önemli üyesidir — onlar, Aeldari'nin en gizli ve en önemli zanaatkârıdır. Bonesinger'ın en büyük özelliği, onların zanaatkârlığıdır — onlar, wraithbone'u şekillendiren ve onu yapılara dönüştüren en gizli ustadır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Bonesinger, hem bir zanaatkâr hem de bir sanatçıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin somut halidir. Bonesinger'ın en ünlü özelliği, onların wraithbone'u şekillendirmesidir — onlar, Aeldari'nin en gizli malzemesini şekillendiren en gizli ustadır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Bonesinger, Aeldari'nin en gizli ve en önemli zanaatkârıdır — onlar, bir zanaatkârlığ��n ve Aeldari'nin en büyük geleneğinin somut halidir.
+Bonesinger, Aeldari'nin en gizli ve en önemli figürlerinden biridir — wraithbone'u şekillendiren ve Aeldari yapılarını inşa eden figürlerdir. Bonesinger'lar, Aeldari'nin en gizli ve en önemli figürleridir; onların wraithbone'u şekillendirme yeteneği, Aeldari'nin en önemli ve en gizli teknolojisinin kaynağıdır. Bonesinger, Aeldari'nin en gizli ve en önemli figürlerinden biridir; bu figürler, Aeldari'nin en önemli ve en gizli teknolojisinin kaynağıdır.
 
 -# Kaynaklar: *Fandom wiki*

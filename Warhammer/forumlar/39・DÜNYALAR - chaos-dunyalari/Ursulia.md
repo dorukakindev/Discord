@@ -11,6 +11,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/6b/Ursulia.jpg/revision/
 
 ## Tarihçe
 
-Ursulia, bir zamanlar Aeldari Exodite'ların kutsal Maiden World'üydü ve Labirent yoluyla Craftworld Biel-Tan'ın korumasına bağlıydı. Galaksinin en nadir 'güvenli' dünyalarından biri sayılıyordu. Ancak Chaos'un eline düştü ve canlı bir Daemon World'e dönüştü; dünya hâlâ 'yaşıyor' ama artık Aeldari değil Warp'a ait. Kaybı, Biel-Tan'ın en büyük utançlarından ve Eldar mitolojisinin 'çalınan cennet' hikâyelerinden biridir — düşüşünün sebebi hâlâ tartışmalıdır.
+Ursulia, Chaos'un İmparatorluk içindeki en gizli ve en tehlikeli dünyalarından biridir — Eye of Terror'un yakınında bulunan bir Chaos dünyasıdır. Gezegen, Chaos'un İmparatorluk'a karşı yürüttüğü gizli operasyonların merkezidir; Ursulia, Chaos'un İmparatorluk içindeki en gizli ve en tehlikeli üslerinden biridir. Gezegen, Chaos warband'lerinin ve daemon'ların evidir; Ursulia, İmparatorluk'un Chaos'a karşı savunmasının en zorlu bölgelerinden biridir. Gezegen, Chaos'un İmparatorluk içindeki en gizli ve en tehlikeli varlıklarından biri olarak kalır.
 
 -# Kaynaklar: *Fandom wiki*

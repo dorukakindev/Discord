@@ -12,6 +12,6 @@ Bu delilik onu o kadar değiştirdi ki, diğer C'tan'lardan ve onların kendi ka
 
 ## Tarihçe
 
-The Outsider, C'tan'ın 'sınırdışı' veya 'ayrık' parçasıdır; diğer C'tan'lardan bile izole, en gizemli yıldız tanrısı. Kayıtları çok az — bazı efsaneler onu 'yıldızların dışındaki güç' olarak görür; C'tan mitolojisinin en belirsiz figürü.
+The Outsider, 'C'tan'ın en gizemlisi — 'dışarıda' kalan ve hatta diğer C'tan'lar tarafından bile 'deli' sayılan varlık; 'Outsider' unvanıyla bilinir çünkü hiçbir C'tan 'topluluğu' onu kabul etmez. 'Harlequin'lerin ve Webway'in derinliklerinde yaşadığı söylenir; 'The Deep' olarak bilinen yerde uyur. Eldar mitolojisinde 'karanlığın kendisi' olarak geçer — Slaanesh'ten bile korkulan tek varlık olabilir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

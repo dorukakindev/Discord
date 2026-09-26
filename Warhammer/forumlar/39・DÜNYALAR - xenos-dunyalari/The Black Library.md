@@ -12,6 +12,6 @@ Kara Kütüphane'nin amacı paradoksaldır; Kaos hakkındaki bilgiyi hem korumak
 
 ## Tarihçe
 
-Eldar'ın gizli bilgi deposu; Webway'in derinliklerinde, tüm Chaos bilgisinin saklandığı kütüphane. Harlequin'ler bekler — kimse girip çıkmaz ama herkes arar.
+The Black Library, Aeldari'nin en gizli ve en kutsal kütüphanesidir — Webway'in derinliklerinde saklanan ve tüm Aeldari bilgisini barındıran bir yerdir. Kütüphane, Chaos hakkındaki tüm bilgiyi, Aeldari'nin tarihini ve Warp'in sırlarını içerir; Black Library, sadece en güvenilir Aeldari'lerin — Harlequin'lerin — erişebildiği bir yerdir. Kütüphane, İmparatorluk'un en gizli ve en değerli bilgilerini içerir; Black Library'ye erişim, İmparatorluk'un en gizli sırlarına erişim anlamına gelir. Kütüphane, Aeldari'nin en kutsal ve en gizli varlığı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -15,7 +15,7 @@ Rogue Trader döneminde ortaya çıkan, cüce arketipini bilimkurgu ortamına ta
 
 ## Tarihçe
 
-Eski anlatılarda Squat'lar, Age of Strife'da Terra'dan kopan ve daha sonra Imperium'la yeniden bağ kuran bir halk olarak betimleniyordu. Kaldırılmalarının ardından fandomda "Tyranid'lerce yendiler" şakası yayıldı; bu söylentinin resmî kanondaki ağırlığı sınırlıdır.
+Squat (Homo Sapiens Rotundus), Imperium'un maden-dünya insan-alt ırkı — yüksek graviteli dünyalarda yaşayan, cüce benzeri ama genetik olarak ayrı bir dal. Squat Home Worlds'ler (Forge of the Fathers) Tyranid Hive Fleet Behemoth tarafından yutulunca ırk neredeyse yok oldu; kalanlar Imperium'un maden kolonilerinde ya da 'Leagues of Votann'ın atası olarak varlığını sürdürdü. Squat'ların 'kinship' kültürü ve teknolojik ustalığı, Imperium'un 'insan ama ayrı' politikasına en çarpıcı örnektir — Leagues of Votann onların doğrudan devamıdır.
 
 ## Kanon Notu
 

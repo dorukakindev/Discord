@@ -32,7 +32,7 @@ Crusade boyunca Cawl, Guilliman'ın yanında hem danışman hem de kaçınılmaz
 
 ## Tarihçe
 
-Belisarius Cawl, Adeptus Mechanicus'un on bin yaşındaki archmagos dominus'u ve Mars rahiplerinin yönetici lordlarından biridir. 13. Kara Sefer, Celestinian Seferi ve Terran Seferi'nde merk
+Belisarius Cawl, Adeptus Mechanicus'un en büyük ve en gizli bilim insanıdır; on bin yıldır yaşayan ve İmparatorluğun en büyük teknolojik sırlarını saklayan Cawl, İmparatorluğun en önemli v
 
 ## Pariah Nexus ve Noctilith
 Indomitus sonrası dönemde Cawl'ın ilgisi giderek **noctilith**, yani Necron'ların blackstone dediği maddeye yöneldi. Cadia'da pylon'larla başlayan bu merak, Guilliman'ın onu Nephilim sektörüne göndermesiyle bir stratejik göreve dönüştü. *Crusade: Pariah Nexus*'ta Cawl, takviye kuvvetleriyle bölgeye gelip Imperial hatları tahkim eder, noctilith toplar ve Silent King'in Warp'ı bastıran matrisine karşı kullanılabilecek araçlar arar.

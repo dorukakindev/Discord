@@ -12,4 +12,4 @@ Bu hiziplerin pratik sonucu devasadır: bir Inquisitor'un 'doğru' gördüğü, 
 
 ## Tarihçe
 
-Engizisyon Hizipleri (Inquisition Factions), Inquisition içindeki ideolojik bölünmelerdir; tek bir Inquisition yoktur — onun yerine birbirleriyle çatışan, gizli savaşan ve bazen birbirlerini avlayan fikir grupları vardır. Ana hizipler: Puritan'lar (katı inanç, Chaos'u tamamen reddeden, geleneğe bağlı), Radical'lar (gerektiğinde Chaos'un silahını kullanan, sonuç için her şeyi yapanlar), Thorian'lar (İmparator'un tekrar doğacağına inanan), X
+Engizisyon Hizipleri (Inquisition Factions), Inquisition'ın içindeki farklı görüş ve yaklaşımları temsil eden gruplardır — İmparatorluk'un en gizli ve en tehlikeli tartışmalarının merkezidir. Engizisyon Hizipleri, Inquisition'ın içindeki farklı yaklaşımları temsil eder; bazıları daha radikal, bazıları daha muhafazakâr yaklaşımlar izler. Engizisyon Hizipleri, Inquisition'ın en gizli ve en tehlikeli tartışmalarının merkezidir; bu hizipler, İ

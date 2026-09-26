@@ -16,7 +16,8 @@ Aun'Shi, doğrudan savaşan nadir Ethereal'lerden biri olarak bilinir. Ethereal'
 
 ## Tarihçe
 
-Aun'Shi, T'au Ethereal Kastı'nın üyesi ve birçok savaşın mütevazı kahramanıdır — barışı özler ama yoldaşlarına olan görevi onu savaşa bağlar. Fire Caste tarafından 'bir T'au liderinin olması gereken her şey' olarak yüceltilen bu figür, Ork'lara karşı kazandığı zaferlerle Ethereal'lerin savaş alanında da yol gösterebileceğinin kanıtıdır — 'barışçıl savaşçı' olarak Greater Good'un en sevilen yüzü.
+Aun'shi, T'au İmparatorluğu'nun en efsanevi ve en kutsal figürüdür — Ethereal'dir. Bu figür, T'au'nun en efsanevi ve en kutsal figürüdür; Aun'shi, T'au İmparatorluğu'nun en efsanevi ve en kutsal figürüdür. Bu figür, T'au'nun en efsanevi ve en kutsal figürüdür; Aun'shi, T'au İmparatorluğu'nun en efsanevi ve en kutsal figürüdür. Figür, T'au İmparatorluğu'nun en efsanevi ve en kutsal figürü olarak kalır.
+
 
 -# Kaynaklar: *Codex: T'au Empire*; *Codex: Tau*
 

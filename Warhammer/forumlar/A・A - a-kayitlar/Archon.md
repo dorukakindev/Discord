@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/7/71/Archon_Vraesque_Malid
 
 ## Tarihçe
 
-Archon, Drukhari'nin en önemli ve en korkulan lideridir; onların bir Kabal'ın — Drukhari'nin ana organizasyonu — en yüksek rütbeli üyesi olan ve onun en gizli operasyonlarını yöneten Archon, Drukhari'nin en önemli ve en korkulan üyesidir — onlar, Drukhari'nin en önemli ve en korkulan lideridir. Archon'un en büyük özelliği, onların gücüdür — onlar, bir Kabal'ın en yüksek rütbeli üyesidir ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Archon, hem bir savaşçı hem de bir liderdir ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Archon'un en ünlü özelliği, onların Kabal'ın lideridir — onlar, Drukhari'nin en önemli organizasyonunun lideridir ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır. Archon, Drukhari'nin en önemli ve en korkulan lideridir — onlar, bir gücün ve Drukhari'nin en gizli gücünün somut halidir.
+Archon, Drukhari'nin en tehlikeli ve en güçlü figürlerinden biridir — Drukhari Kaballarının lideridir. Archon'lar, Drukhari'nin en tehlikeli ve en güçlü figürleridir; onların entrikaları ve liderliği, Drukhari'nin en önemli ve en tehlikeli güçlerinin kaynağıdır. Archon, Drukhari'nin en tehlikeli ve en güçlü figürlerinden biridir; bu figürler, Drukhari'nin en önemli ve en tehlikeli güçlerinin kaynağıdır.
 
 -# Kaynaklar: *Drukhari Codex*
 -# İlişkili kayıtlar: <#1552848868423770222>

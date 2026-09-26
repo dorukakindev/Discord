@@ -16,6 +16,6 @@ Inquisition'ın felsefi yelpazesindeki kaymayı kendi hayatında yaşayan bir fi
 
 ## Tarihçe
 
-Gregor Eisenhorn, Inquisition'ın en ünlü ve en tartışmalı üyesidir; Ordo Xenos'un en deneyimli Inquisitor'u olan ve İmparatorluğun en gizli savaşlarını yöneten Eisenhorn, İmparatorluğun en büyük koruyucusu ve en büyük ihtilafıdır — onlar, İmparatorluğun en ünlü ve en tartışmalı Inquisitor'udur. Eisenhorn'un en büyük özelliği, onun radikalliğidir — onlar, geleneksel Inquisitor'lardan farklı olarak daemon'ları bile kullanan en tartışmalı üyedir ve onların varlığı, Inquisition'ın en büyük çelişkisinin kanıtıdır; bir Eisenhorn, hem bir koruyucu hem de bir radikaldir ve onların varlığı, İmparatorluğun en gizli gücünün somut halidir. Eisenhorn'un en ünlü özelliği, onun Cherubael'i — bir daemonhost — kullanmasıdır
+Gregor Eisenhorn, Inquisition'ın en ünlü ve en deneyimli Inquisitor'lerinden biridir — Ordo Xenos'un en önemli figürüdür. Eisenhorn, Dan Abnett'in romanlarının kahramanıdır ve İmparatorluk'un en ünlü Inquisitor hikâyelerinin kahramanıdır; onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir. Eisenhorn, Inquisition'ın en ünlü ve en deneyimli Inquisitor'ü olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir.
 
 -# İlişkili kayıtlar: <#1551815304252887041>, <#1551753472070783096>, <#1551654107058540595>, <#1551812325521100811>

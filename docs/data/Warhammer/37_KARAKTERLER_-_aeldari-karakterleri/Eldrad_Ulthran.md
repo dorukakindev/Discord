@@ -15,7 +15,7 @@ Ulthwé'nin kadim Farseer'ı Eldrad, geleceğin sayısız ipliğini okuyup onlar
 
 ## Tarihçe
 
-Eldrad Ulthran, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır; Ulthwé craftworld'ünün en bilge ve en güçlü psyker'ı olan ve Aeldari'nin geleceğini gören Eldrad, Aeldari'nin en bilge ve en güçlü lideridir — onlar, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır. Eldrad Ulthran'ın en büyük özelliği, onun bilgeliğidir — onlar, Aeldari'nin en bilge psyker'ıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Eldrad, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Eldrad Ulthran'ın en ünlü özelliği, onun Ulthwé'in Farseer'ıdır — onlar, Aeldari'nin en bilge craftworld'ünün en güçlü lideridir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Eldrad Ulthran, Aeldari'nin en ünlü ve en güçlü Farseer'ıdır — onlar, bir bilgeliğin ve Aeldari'nin en büyük gücünün somut halidir.
+Eldrad Ulthran, Aeldari'nin en güçlü ve en efsanevi figürlerinden biridir — Ulthwe'nin en güçlü Farseer'ı ve Aeldari'nin en önemli figürüdür. Eldrad, Aeldari'nin en güçlü ve en efsanevi figürüdür; onun psyker güçleri ve kehanetleri, Aeldari'nin en önemli ve en güçlü güçlerinden biridir. Eldrad, İmparatorluk'un en önemli olaylarını öngördü ve Aeldari'nin hayatta kalmasının en kritik figürü oldu; onun rehberliği, Aeldari'nin en önemli ve en gizli kararlarının kaynağıdır. Eldrad Ulthran, Aeldari'nin en güçlü ve en efsanevi figürü olarak kalır — onun kehanetleri, Aeldari'nin en önemli ve en gizli kararlarının kaynağıdır.
 
 ## Kanon Notu
 

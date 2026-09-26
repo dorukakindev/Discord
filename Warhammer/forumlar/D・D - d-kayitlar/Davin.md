@@ -14,6 +14,10 @@ Davin, Luna Wolves'un Crusade boyunca Imperium'a kattığı dünyalardan biriydi
 
 Uyduda Imperial kuvvetleri, Temba'nın askerlerinin hastalıkla bozulmuş, insan dışı bir hâle gelmiş olduğunu gördü. Roman bu yozlaşmayı açıkça Warp kaynaklı bir çürüme olarak çizer ve sonraki Heresy kaynakları bu tabloyu Nurgle'ın etkisiyle ilişkilendirir. Temba'nın kendisi de bu dönüşümden nasibini almıştı.
 
+## Tarihçe
+
+Davin, Horus Heresy'nin en kritik ve en trajik yerlerinden biridir — Horus'un Chaos'a düştüğü dünyadır. Davin'de Horus, bir Chaos silahıyla yaralandı ve ölüm döşeğindeyken Chaos'un etkisine
+
 ## Anathame ve Yara
 Uydudaki çatışmanın doruğunda Horus, Temba ile karşı karşıya geldi. Temba'nın elindeki silah, Interex ile yaşanan felaketin ardından Erebus'un çaldığı kadim bıçak **Anathame** idi; bıçağın Temba'ya Erebus aracılığıyla ulaştığı anlatılır. Horus bu karşılaşmada Anathame ile yaralandı.
 

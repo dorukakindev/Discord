@@ -13,6 +13,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Inquisiotr_Bronislaw_
 
 ## Tarihçe
 
-Bronislaw Czevak, Inquisition'ın en gizli ve en bilgili üyesidir; Ordo Malleus'un en deneyimli Inquisitor'u olan ve daemon'ları araştıran en gizli bilgin olan Czevak, İmparatorluğun en büyük bilgi kaynağı ve en gizli varlığıdır — onlar, Inquisition'ın en gizli ve en bilgili üyesidir. Bronislaw Czevak'ın en büyük özelliği, onun bilgisidir — onlar, daemon'ları ve Warp'ı en iyi bilen en gizli bilgindir ve onların varlığı, Inquisition'ın en gizli gücünün kanıtıdır; bir Czevak, hem bir Inquisitor hem de bir bilgindir ve onların varlığı, İmparatorluğun en gizli varlığının somut halidir. Bronislaw Czevak'ın en ünlü özelliği, onun daemon araştırmalarıdır — onlar, Chaos'un en gizli sırlarını araştıran en tehlikeli bilgindir ve onların varlığı, Inquisition'ın en büyük gücünün kanıtıdır. Bronislaw Czevak, Inquisition'ın en gizli ve en bilgili üyesidir — onlar, bir bilginin ve İmparatorluğun en gizli gücünün somut halidir.
+Bronislaw Czevak, Inquisition'ın en ünlü ve en tartışmalı figürlerinden biridir — Ordo Xenos'un en ünlü Inquisitor'ü ve Black Library romanlarının kahramanıdır. Czevak, Inquisition'ın en ünlü ve en tartışmalı figürlerinden biridir; onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir. Czevak, Inquisition'ın en ünlü ve en tartışmalı figürü olarak kalır — onun hikâyesi, İmparatorluk'un en ünlü ve en karanlık hikâyelerinden biridir.
+
 
 -# Kaynaklar: *Fandom wiki*
