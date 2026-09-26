@@ -14,4 +14,4 @@ Teleportarium'un tehlikesi, Warp ile olan temasıdır: ışınlanma sırasında 
 
 ## Tarihçe
 
-Teleportarium, gemilerde ve büyük savaş platformlarında bulunan teleportasyon düzeneğidir; maddeyi Warp üzerinden kısa mesafelerde taşıyarak askerleri doğrudan savaş alanına ışınlayabilir. Sistem son derece tehlikelidir: hedef hesaplamasındaki ufak bir sapma, teleport edilen kişinin kayanın içinde ya da boşlukta belirmesine yol açar; bu yüzden teleport saldırıları çoğunlukla Terminator zırhlı birlikler tarafından gerçekleştirilir çünkü onların z
+Teleportarium, Space Marine ve Imperial Navy'nin 'maddi ışınlanma' teknolojisi — Terminator zırhlı birimlerin 'anında yer değiştirmesi'ni sağlayan ve 'teleport strike' doktrininin temelini oluşturan sistem. 'Teleport Homer' ve 'Teleport Beacon' ile koordineli çalışır; 'dropping in' olarak bilinen saldırı biçimi Imperium'un en keskin 'sürpriz' aracıdır. 'The blink of death' — Teleportarium'un belirsizliği, dost ve düşman için aynı risktir.

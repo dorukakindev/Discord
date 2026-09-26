@@ -12,6 +12,7 @@ Eski çağda, bir STC sistemi yerel malzemelerden istenen her şeyi tasarlayıp 
 
 ## Tarihçe
 
-Standard Template Construct; Karanlık Çağ'dan kalan tasarım veritabanı. Bulunan her STC, Mechanicum'un kutsal hazinesi — bilginin kayıp parçaları.
+STC — 'Standard Template Construct' — İmparatorluk'un 'kayıp teknoloji' sistemi; 'Men of Iron' döneminden kalma 'tam fabrika' veritabanları ve 'STC fragment'lerin 'en değerli' hazineler olduğu doktrin. 'Quest for Knowledge'ın merkezi; 'an STC find' bir Forge World'ün 'on yıllık' kutlamasıdır. 'The lost blueprint' — Imperium'un 'geçmişi arama' obsesyonunun simgesi.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

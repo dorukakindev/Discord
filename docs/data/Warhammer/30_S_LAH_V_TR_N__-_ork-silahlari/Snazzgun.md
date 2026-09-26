@@ -15,7 +15,7 @@ Flash Gitz'lerin servet dökerek Mekboy'lara ısmarladığı, yüksek kalibreli 
 
 ## Tarihçe
 
-Ork sosyal merdiveninin tepesindekilerin statü simgesidir: sahibi parayı verir, Mekboy mümkün olan en 'shooty' silahı üretir ve Flash Git çoğu zaman sonucu önemsemez — yeter ki iyi öldürsün. Gösterişleri yüzünden sürülen Gitz'ler snazzgun'larıyla Freebooter olarak servet peşinde gezer.
+Snazzgun, Ork'ların en ölümcül ve en gösterişli silahıdır — flaşör bir silahtır. Bu silah, Ork'ların en gösterişli üyelerinin kullandığı bir silahtır; tek atışta bir düşmanı etkisiz hale getirebilecek kadar güçlüdür. Snazzgun, Ork'ların en ölümcül ve en gösterişli silahıdır; bu silah, Ork'ların en gösterişli üyelerinin en kritik aracıdır. Silah, Ork'ların en ölümcül ve en gösterişli silahı olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

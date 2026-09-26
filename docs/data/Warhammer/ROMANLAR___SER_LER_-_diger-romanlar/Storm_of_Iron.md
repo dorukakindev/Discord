@@ -15,4 +15,5 @@ Perturabo'nun Warsmith'lerinin lojistik-dehşet dengesi; genetik materyal çalma
 
 Storm of Iron, Graham McNeill'in yazdığı ve İmparatorluk'un en büyük savaşlarından birini anlatan bir romandır. Bu roman, İmparatorluk'un en büyük savaşlarından birini anlatır; roman, İmparatorluk'un en büyük savaşlarının en önemli hikâyesidir. Bu roman, İmparatorluk'un en büyük savaşlarının en önemli hikâyesidir; roman, İmparatorluk'un en büyük savaşlarının en önemli parçasıdır. Roman, İmparatorluk'un en büyük savaşlarının en önemli hikâyesi olarak kalır.
 
+
 -# Kaynaklar: Black Library

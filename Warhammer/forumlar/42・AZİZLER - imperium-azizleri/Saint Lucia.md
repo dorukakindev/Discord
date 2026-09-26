@@ -16,4 +16,4 @@ Lucia'nın kültü, 'fiziksel yetersizliğin imanla aşılması' mitinin merkezi
 
 ## Tarihçe
 
-Saint Lucia, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Lucia, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Lucia'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmpar
+Saint Lucia, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir — Order of the Valorous Heart'ın kurucusu ve Sisters of Battle'ın en önemli azizlerinden biridir. Lucia, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir; onun inancı ve fedakârlığı, Sisters of Battle'ın en önemli ve en kutsal geleneğinin simgesidir. Saint Lucia, Sisters of Battle'ın en kutsal ve en efsanevi figürü olarak k

@@ -12,6 +12,6 @@ Order of the Key'de tam otuz yıl hizmet ettikten sonra Canoness mertebesine yü
 
 ## Tarihçe
 
-Saint Helena, Sisters of Battle'ın en ünlü ve en kutsal azizesidir; İmparatorluğun en kutsal savaşlarını yapan ve onun en önemli azizesi olan Helena, İmparatorluğun en kutsal ve en ölümcül savaşçısıdır — onlar, Sisters of Battle'ın en ünlü ve en kutsal azizesidir. Saint Helena'nın en büyük özelliği, onun kutsallığıdır — onlar, İmparator'un gazabını taşıyan ve onu kafirlere götüren en kutsal azizedir ve onların varlığı, İmparatorluğun dininin en büyük gücünün kanıtıdır; bir Helena, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Saint Helena'nın en ünlü özelliği, onun azize unvanıdır — onlar, İmparatorluğun en kutsal ve en önemli azizesidir ve onların varlığı, İmparatorluğun dininin en büyük kanıtıdır. Saint Helena, Sisters of Battle'ın en ünlü ve en kutsal azizesidir — onlar, bir kutsallığın ve İmparatorluğun dininin somut halidir.
+Saint Helena, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir — Order of the Wounded Heart'ın kurucusu ve Sisters of Battle'ın en önemli azizlerinden biridir. Helena, Sisters of Battle'ın en kutsal ve en efsanevi figürlerinden biridir; onun inancı ve fedakârlığı, Sisters of Battle'ın en önemli ve en kutsal geleneğinin simgesidir. Saint Helena, Sisters of Battle'ın en kutsal ve en efsanevi figürü olarak kalır — onun varlığı, Sisters of Battle'ın en önemli ve en kutsal geleneğinin simgesidir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

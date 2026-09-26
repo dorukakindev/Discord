@@ -14,4 +14,4 @@ Savaşta Chaplain, 'Crozius Arcanum' kılıcı ve 'Rosarius' kalkanıyla ön saf
 
 ## Tarihçe
 
-Chaplain, Space Marine Chapter'ının ruhani lideri ve moral bekçisidir; savaşçıların inancını, disiplinini ve Chapter'a bağlılığını koruyan ve aynı zamanda düşmana ölümü getiren kara zırhlı rahip-savaşçıdır. Chaplain'ler siyah zırh ve skull-mask ile tanınır; ellerinde Crozius Arcanum (kutsal savaş topuzu) ve rosarius (koruyucu alan jeneratörü) taşır. Görevleri sadece ibadet değil — savaş öncesi savaşçılar
+Chaplain, Space Marine chapter'larının din-adamı ve manevi muhafızı — Crozius Arcanum ve Rosarius taşıyan, chapter'ın inanç ve geleneğini koruyan savaşçı-rahip. Codex Astartes sonrası 'chapter kültü'nün taşıyıcısı Chaplain'dir; Catechism of Hate ve Litany of Fury'leriyle savaşta moral ve psyker-savunması sağlar. Black Templars'ın 'Marshal-Grimaldus' figürü ve Blood Angels'ın 'Red Grail' töreni Chaplain'i

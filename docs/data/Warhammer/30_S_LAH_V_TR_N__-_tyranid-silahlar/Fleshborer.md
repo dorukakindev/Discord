@@ -14,7 +14,7 @@ Bir Tyranid'in koluna tutunan ya da onunla bütünleşen, içinde etobur böcekl
 
 ## Tarihçe
 
-Termagant sürülerinin en yaygın silahıdır. Hive Fleet'lerin istila ettiği dünyalarda sayısız Termagant'ın fleshborer atışları, Imperium savunucularının karşılaştığı ilk ve en sürekli tehditlerden biri olmuştur.
+Fleshborer, Tyranid'lerin en yaygın ve en ölümcül silahıdır — et delici bir organdır. Bu silah, hedefe et delici bir madde gönderir ve onu etkisiz hale getirir; tek atışta bir düşmanı etkisiz hale getirebilecek kadar güçlüdür. Fleshborer, Tyranid'lerin en yaygın ve en ölümcül silahıdır; bu silah, Tyranid'lerin en önemli ve en yaygın silahıdır. Silah, Tyranid'lerin en yaygın ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Tyranids — 10th Edition*
 

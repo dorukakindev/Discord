@@ -12,6 +12,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/ed/Horst.jpg/revision/la
 
 ## Tarihçe
 
-Horst, İmparatorluk kayıtlarında bilinen bir Inquisitor figürüdür.
+Horst, Inquisition'ın en ünlü ve en radikal Inquisitor'lerinden biridir — Ordo Malleus'a mensup ve daemon avcılığında efsanevi bir figürdür. Horst, Ordo Malleus'un en önemli Inquisitor'lerinden biridir; onun daemon avcılığı ve Chaos araştırmaları, İmparatorluk'un Chaos'a karşı mücadelesinin en kritik bilgilerini sağladı. Horst, 'Eye of Night' olarak bilinen ve Moriana'nın kaderini araştıran en ünlü operasyonları yönetti; onun araştırmaları, İmparatorluk'un en gizli ve en önemli bilgilerinin kaynağıdır. Horst, radikal yöntemleriyle bilinir ve İmparatorluk'un en tartışmalı Inquisitor'lerinden biridir; onun yöntemleri, İmparatorluk'un en tartışmalı ve en tehlikeli operasyonlarının kaynağıdır. Horst, Inquisition'ın en ünlü ve en radikal Inquisitor'ü olarak kalır — onun araştırmaları, İmparatorluk'un en gizli ve en önemli bilgilerinin kaynağıdır.
+
 
 -# Kaynaklar: *Fandom wiki*

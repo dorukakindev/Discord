@@ -37,7 +37,7 @@ Vect'in Commorragh'ı yönetme biçimi mutlak bir itaat düzeni değil, dikkatle
 
 ## Tarihçe
 
-Asdrubael Vect, Drukhari'nin en ünlü ve en güçlü lideridir; Commorragh'ın — Drukhari'nin şehri — en yüksek lideri olan ve Drukhari'nin en gizli operasyonlarını yöneten Vect, Drukhari'nin en gizli ve en tehlikeli varlığıdır — onlar, Drukhari'nin en ünlü ve en güçlü lideridir. Asdrubael Vect'in en büyük özelliği, onun gücüdür — onlar, Commorragh'ın en yüksek lideridir ve onların varlığı, Drukhari'nin en büyük gücünün kanıtıdır; bir Vect
+Asdrubael Vect, Drukhari'nin en güçlü ve en tehlikeli figürüdür — Commorragh'ın Supreme Overlord'u ve Drukhari'nin en önemli figürüdür. Vect, Drukhari'nin en güçlü ve en tehlikeli figürüdür; onun entrikaları ve gücü, Drukhari'nin en önemli ve en tehlikeli güçlerinin kaynağıdır. Vect, Commorragh'ın en güçlü figürüdür ve Drukhari'nin en önemli kararlarını verir; onun hükümdarlığı, Drukhari'nin en tehlikeli ve en güçlü döneminin simgesid
 
 ## Shaa-dom, Dysjunction ve Vect'in "Ölümleri"
 

@@ -15,4 +15,4 @@ Chaos Undivided, dört Büyük Tanrı'ya (Khorne, Tzeentch, Nurgle, Slaanesh) ay
 
 ## Tarihçe
 
-Chaos Undivided, Chaos'un en ünlü ve en gizli inanç sistemidir; dört Chaos tanrısına — Khorne, Tzeentch, Nurgle ve Slaanesh — eşit olarak tapılan ve onların birliğini savunan en gizli inanç olan Chaos Undivided, Chaos'un en gizli ve en tehlikeli gücüdür — onlar, Chaos'un en ünlü ve en gizli inanç sistemidir. Chaos Undivided'ın en büyük özelliği, onun birliğidir — onlar, dört Chaos tanrısına eşit olarak tapılan ve onların birliğini sav
+Chaos Undivided, dört Ruinous Power'ın — Khorne, Tzeentch, Nurgle ve Slaanesh — birleşik gücüne tapınma biçimidir; tek bir tanrıya değil, Chaos'un bütünlüğüne adanır. Horus ve ilk Traitor lejyonları isyanı bu doktrinle yürüttü: Word Bearers'ın Lorgar'ı 'Chaos'un bütününü' vaaz eder, Black Legion da bayrağını tüm tanrıların ortak renkleriyle taşır. Bu yolun takipçileri herhangi bir tanrının aşırısına sapmadan hepsinden güç alır; daemon

@@ -16,7 +16,7 @@ T'au zırhlı kuvvetlerinin omurgasıdır. Uzun namlulu railgun'ı, bir mermiyi 
 
 ## Tarihçe
 
-Hammerhead, T'au'nun menzili ve isabeti öne çıkaran savaş anlayışının zırhlı ifadesidir. Codex'lerde Longstrike adlı ünlü bir Hammerhead komutanı öne çıkar; bu isim, Fire caste içinde tank mürettebatının da kahramanlaştırılabildiğini gösterir.
+Hammerhead, T'au'nun en tehlikeli ve en ölümcül savaş araçlarından biridir — railgun ile donatılmış bir savaş tankıdır. Hammerhead, T'au'nun en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, T'au'nun en önemli ve en ölümcül savaş güçlerinden biridir. Hammerhead, T'au'nun en tehlikeli ve en ölümcül savaş araçlarından biridir; bu araç, T'au'nun en önemli ve en ölümcül savaş güçlerinden biridir.
 
 -# Kaynaklar: *Codex: T'au Empire — 10th Edition*
 

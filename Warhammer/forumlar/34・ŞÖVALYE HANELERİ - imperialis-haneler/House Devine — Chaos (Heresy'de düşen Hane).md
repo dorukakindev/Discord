@@ -16,7 +16,7 @@ Sadık görünümünün ardında, Hanenin içinde gizli bir yılan tanrısı kü
 
 ## Tarihçe
 
-Horus'un Molech'e saldırısı sırasında Hane, savunmanın kritik anında saf değiştirerek sadık hatları çökertti. Graham McNeill'in *Vengeful Spirit* romanında Raeven Devine'in hırsı ve babasına karşı işlediği cinayet bu ihanetin merkezindedir; iktidar mücadelesi Hane'yi kendi içinde de parçaladı. Molech'in Imperium tarafından geri alınmasından sonra hayatta kalan Devine'ler Eye of Terror'a kaçtı ve Hane sonraki binyıllarda Slaanesh'le ilişkilendirilen bir Chaos Hanesi olarak anılmaya başladı.
+House Devine, Horus Heresy sırasında Chaos'a düşen ve İmparatorluk'un en tehlikeli düşmanlarından biri haline gelen bir Knight hanesidir. Devine'in Knight'ları, Heresy sırasında İmparatorluk'a karşı savaştı ve hane, İmparatorluk'un en büyük ihanetlerinden birinin parçası oldu; hane, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarından biri haline geldi. House Devine — Chaos (Heresy'de düşen Hane), İmparatorluk'un en tehlikeli ve en trajik düşmanlarından biri olarak kalır; hanenin Knight'ları, Chaos'un İmparatorluk'a karşı en büyük tehdididir.
 
 -# Kaynaklar: *Vengeful Spirit — Graham McNeill*; *Codex: Chaos Knights*
 

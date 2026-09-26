@@ -22,6 +22,10 @@ Chapter'ın tükenişinden önceki en tanınmış seferi, M41'de yükselen genç
 
 Damocles Gulf, galaksinin Imperium ile T'au dünyaları arasında uzanan tehlikeli bir yıldızlararası boşluğuydu; onu geçmek başlı başına bir sınavdı. Scythes of the Emperor bu cephede Ultramarines ve Iron Hands gibi kuvvetlerle omuz omuza savaşarak T'au dünyalarına yapılan saldırılarda yer aldı. Sefer kesin bir sonuca ulaşamadı: Hive Fleet Behemoth'un yaklaşması üzerine Imperial kuvvetler geri çekildi ve savaş bir ateşkesle kapandı. Yine de bu, iki güç arasındaki uzun husumetin ilk büyük perdelerinden biri oldu.
 
+## Tarihçe
+
+Scythes of the Emperor, Ultramarines'in soyundan gelen bir Space Marine Chapter'ıdır — Third Founding döneminde kurulmuş bir Chapter'dır. Scythes of the Emperor, İmparatorluk'un en sadık ve en güvenilir Chapter'larından biridir; onların organizasyonu, Ultramarines'in en önemli ve en güvenilir geleneğinin simgesidir
+
 Bu sefer, Chapter'ın hâlâ tam gücündeyken verdiği son büyük savaşlardan biri olarak da anlam taşır. Tyranid tehdidi o gün Behemoth'la kendini ilk kez göstermişti; ama Chapter'ın başına gelecek olanı henüz kimse sezemiyordu. Yaklaşık iki buçuk yüzyıl sonra aynı Chapter, bu kez kendi varlığı için savaşacaktı.
 ---MSG---
 ## Sotha'nın Düşüşü: Hive Fleet Kraken

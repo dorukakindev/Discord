@@ -68,4 +68,8 @@ Mortarion ve Death Guard, *Realm of Chaos: The Lost and the Damned* (1990) ile N
 **Kaynaklar:** *Mortarion: The Pale King — David Annandale*; *The Flight of the Eisenstein — James Swallow*; *The Buried Dagger — James Swallow*; *The Lords of Silence — Chris Wraight*; *Codex: Death Guard — 10th Edition*
 **Çapraz:** <#1551813274327060552>, <#1551650329316036699>, <#1551754683222327439>, typhus, nathaniel-garro, council-of-nikaea, legiones-astartes
 
+## Tarihçe
+
+Barbarus, Death Guard Legion'unun primarch'ı Mortarion'un ev gezegenidir — zehirli gazlarla kaplı, ölümcül bir dünyaydı. Mortarion, Barbarus'ta bir 'necromancer' kral tarafından büyütüldü ve gezegenin zehirli atmosferinde güçlendi; bu koşullar, Mortarion'un zehirli ve ölüme dayanıklı doğasını şekillendirdi. İmparator, Mortarion'u Barbarus'
+
 ​

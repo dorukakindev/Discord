@@ -19,4 +19,8 @@ Ork silahları 'Waaagh! enerjisi' ile çalışır: fiziksel olarak imkânsız g�
 ## Not
 Ork mantığında 'daha büyük daha iyi'dir — Big Shoota normal shoota'nın abartılı versiyonudur ve Lootaz'ın gürültüsünü duyan düşman saklanır.
 
+
+## Tarihçe
+
+Big Shoota, Ork'ların en yaygın ve en ölümcül ağır silahıdır — büyük bir otomatik silahtır. Bu silah, Ork'ların en yaygın ağır silahıdır ve düşmanın en tehlikeli hedeflerini etkisiz hale getirir; tek atışta birkaç düşmanı etkisiz hale getirebilecek kadar güçlüdür. Big Shoota, Ork'ların en yaygın ve en ölümcül ağır silahıdır; bu silah, Ork'ların en önemli ve en yaygın ağır silahıdır. Silah, Ork'ların en yaygın ve en ölümcül ağır silahı olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

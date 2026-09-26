@@ -16,7 +16,7 @@ Kaba bir balta, satır ya da kalın bir bıçak biçiminde, çoğu kez hurda met
 
 ## Tarihçe
 
-Ork Boyz'un yaygın donanımı olan slugga ve choppa ikilisi, WAAAGH!'lerin düşman saflarına dalan dalgalarıyla özdeşleşmiştir. Nob'lar ve Warboss'lar daha büyük "big choppa"lar taşır. Bazı choppa'lar motorlu ya da zincirli biçimlerdedir.
+Choppa, Ork'ların en yaygın ve en ölümcül yakın dövüş silahıdır — basit ama ölümcül bir baltadır. Bu silah, Ork'ların en yaygın yakın dövüş silahıdır ve düşmanın en tehlikeli hedeflerini parçalayarak etkisiz hale getirir; tek vuruşta bir düşmanı parçalayabilecek kadar güçlüdür. Choppa, Ork'ların en yaygın ve en ölümcül yakın dövüş silahıdır; bu silah, Ork'ların en önemli ve en yaygın yakın dövüş silahıdır. Silah, Ork'ların en yaygın ve en ölümcül yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
 

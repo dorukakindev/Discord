@@ -13,6 +13,6 @@ Psyker'ın gücünü odaklayan asa — Librarian ve Warlock'ların hem silahı h
 
 ## Tarihçe
 
-Psyker'ın zihnini Warp enerjisine kanal yapan silahlar; kılıç, asa, balta veya mızrak biçiminde olabilir ve içinde psi-convector adı verilen cihaz gömülüdür. Daemon'lar ve dev yaratıklar dahil her şeyi tek vuruşla öldürebilir — çünkü fiziksel değil psişik yarayı açar.
+Force Staff, Space Marines'in Librarian'larının ve İmparatorluk'un psyker'larının en ölümcül silahıdır — psyker gücüyle çalışan bir asa'dır. Bu silah, kullanıcının psyker gücünü odaklar ve hedefe yoğun bir psyker enerjisi gönderir; tek vuruşta bir Greater Daemon'u bile etkisiz hale getirebilecek kadar güçlüdür. Force Staff, Librarian'ların ve İmparatorluk'un en güçlü psyker'larının kullandığı bir silahtır; bu asa, İmparatorluk'un en ölümcül psyker silahı olarak kabul edilir. Asa, İmparatorluk'un en güçlü psyker silahlarından biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

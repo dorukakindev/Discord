@@ -16,7 +16,7 @@ Mars'a sonsuz sadakat yemini etmiş, kimliğini Chaos'a karşı içilen bir inti
 
 ## Tarihçe
 
-Krast, Great Crusade'de Imperium'a bağlılık yemini eden ilk dış Knight Hanesi olarak anılır. Horus Heresy'de Legio Mortis'in önderlik ettiği saldırı Chrysis'in küçük Hanelerini yok etti; Krast ağır kayıplarla da olsa ayakta kaldı. Hanenin Mortis'e ve hain kuvvetlere karşı beslediği kin, sonraki on bin yılın seferlerine yön verdi; M41'in sonunda 13th Black Crusade'e karşı savaşanlar arasında anılır.
+House Krast, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir — Questor Mechanicus hanesi olarak Mechanicus'a bağlıdır. Krast'ın Knight'ları, İmparatorluk'un en önemli savaşlarında görev alır ve hane, İmparatorluk'un en güvenilir ve en prestijli Knight hane'lerinden biridir; hane, İmparatorluk'un en önemli askeri varlıklarından biridir. House Krast — Questor Mechanicus, İmparatorluk'un en prestijli ve en güvenilir Knight hane'lerinden biri olarak kalır.
 
 -# Kaynaklar: *Codex: Imperial Knights*
 

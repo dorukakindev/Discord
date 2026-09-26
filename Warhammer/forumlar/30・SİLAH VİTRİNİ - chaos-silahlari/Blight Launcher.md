@@ -18,4 +18,6 @@ Death Guard'ın ağır bomba atarı; zırh delici mermileri hedefin derinlikleri
 
 ## Tarihçe
 
-Blight Launcher, Death Guard'ın en ünlü ve en ölümlü silahıdır; onların Death Guard'ın en güçlü ve en ölümlü blight silahı olan ve onun en tehlikeli operasyonlarını yapan Blight Launcher, Death Guard'ın en güçlü ve en ölümlü silahıdır — onlar, Death Guard'ın en ünlü ve en ölümlü silahıdır. Blight Launcher'ın en büyük özelliği, onun blight'ıdır — onlar, Death Guard'ın en güçlü blight silahıdır ve onların varlığı, Death Guard'ın en büyük gücünün kanıtıdır; bir Blight Launcher, hem bir silah hem de bir blight taşıyıcısıdır ve onların varlığı, Death Guard'ın en büyük silahının somut halidir. Blight Launcher'ın en ünlü özelliği, onun blight atmasıdır — onlar, Death Guard'ın en güçlü ve en ölümlü silahıdır ve onların varlığı, Death Guard'ın en büyük gü
+Death Guard'ın kendi dokusuna işlemeyen hastalıklarla savaşma doktrini, patojenleri uzaktan dağıtan araçları doğurdu; Blight Launcher bu araçların elde taşınır olanıdır. Blightlord Terminator'ları Cataphractii zırhlarının içinde düşman hattına yürürken bu silahla mermi yağdırır; Plague Marine'ler aynı atarı siperden tahkimata her mesafede kullanır. Mortarion'un Ultramar'a açtığı Plague Wars boyunca, Nurgle'ın "cömertliğini" kilometreler öteye taşıyan standart birlik silahı hâline geldi.
+
+-# Kaynaklar: *Codex: Death Guard — 8th Edition*; Lexicanum — "Blight Launcher"; Warhammer 40,000 — Fandom

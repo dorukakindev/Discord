@@ -18,7 +18,7 @@ Striking Scorpion Aspect'inin kurucusu, düşmüş Phoenix Lord; Kâbustan kaç�
 
 ## Tarihçe
 
-Arhra, Aeldari'nin en ünlü ve en trajik Phoenix Lord'udur; Striking Scorpions'ın ilk kurucusu olan ve Karandras'a ihanet eden Arhra, Aeldari'nin en trajik ve en gizli savaşçısıdır — onlar, Aeldari'nin en ünlü ve en trajik Phoenix Lord'udur. Arhra'nın en büyük özelliği, onun ihanetidir — onlar, Striking Scorpions'ın ilk kurucusu olarak Karandras'a ihanet eden en trajik savaşçıdır ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır; bir Arhra, hem bir savaşçı hem de bir haindir ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Arhra'nın en ünlü özelliği, onun Striking Scorpions'ın ilk kurucusudur — onlar, bir Aspect'in en trajik kurucusudur ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Arhra, Aeldari'nin en ünlü ve en trajik Phoenix Lord'udur — onlar, bir ihanetin ve Aeldari'nin en büyük trajedisinin somut halidir.
+Arhra, Aeldari'nin en karanlık ve en tehlikeli figürlerinden biridir — 'Dark Father' olarak bilinen ve Drukhari'nin en karanlık figürlerinden biridir. Arhra, Aeldari'nin en karanlık ve en tehlikeli figürlerinden biridir; onun savaş yetenekleri ve karanlık güçleri, Drukhari'nin en önemli ve en tehlikeli güçlerinin kaynağıdır. Arhra, Aeldari'nin en karanlık ve en tehlikeli figürü olarak kalır — onun varlığı, Drukhari'nin en önemli ve en tehlikeli güçlerinin simgesidir.
 
 ## Kanon Notu
 

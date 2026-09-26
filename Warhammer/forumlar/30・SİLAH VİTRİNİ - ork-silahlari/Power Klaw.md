@@ -9,7 +9,7 @@ Ork Nob ve Warboss'larının dev hidrolik kıskacı; güç alanlı makasları ta
 
 ## Tarihçe
 
-Ork'ların dev servo-pençesi; dengesiz disruption alanıyla çevrili, İmparatorluk Power Fist'in kaba eşleniği. Kocaman hidrolik makas — hem keser hem parçalar, Ork Nob'larının onur simgesi ve 'choppa' kültürünün en büyüğü.
+Power Klaw, Ork'ların en ölümcül ve en büyük yakın dövüş silahıdır — enerji alanıyla çevrili bir pençedir. Bu silah, Ork'ların en büyük ve en güçlü üyelerinin kullandığı bir silahtır; tek vuruşta bir tankın zırhını bile kesebilecek kadar güçlüdür. Power Klaw, Ork'ların en ölümcül ve en büyük yakın dövüş silahıdır; bu silah, Ork'ların en büyük ve en güçlü üyelerinin en kritik aracıdır. Silah, Ork'ların en ölümcül ve en büyük yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

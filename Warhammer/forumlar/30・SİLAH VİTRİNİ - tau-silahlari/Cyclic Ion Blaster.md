@@ -13,6 +13,6 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-XV25 Stealthsuit ve battlesuit'lerin döner-namlulu ion silahı; üç namludan seri atış yapan T'au hafif desteği. Stealth timlerinin 'görünmez dakka' aracı.
+Cyclic Ion Blaster, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş silahıdır — iyon enerjisi kullanan bir silahtır. Bu silah, hedefe yoğun bir iyon enerjisi gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Cyclic Ion Blaster, T'au'nun en ölümcül ve en gelişmiş silahıdır; bu silah, T'au'nun en önemli ve en gelişmiş silahıdır. Silah, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

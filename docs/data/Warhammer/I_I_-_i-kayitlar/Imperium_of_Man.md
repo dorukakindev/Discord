@@ -62,6 +62,10 @@ Bir dünyanın tithe'ı, onun sınıfıyla doğrudan ilişkilidir. Hive world'le
 
 Birçok Black Library romanında "throne" ya da "Throne Gelt" olarak geçen para birimi de bu yapının yerel ölçekte nasıl işlediğini gösterir.
 
+## Tarihçe
+
+Imperium of Man, insanlığın yıldızlar arası imparatorluğu — bir milyon dünya, sayısız trilyon insan ve 'God-Emperor'un Golden Throne'unda duran tek varlık tarafından yönetilen devasa yapı. Terra merkezli; Segmentum Solar'ın çekirdek dünyalarından Halo S
+
 ## Kurumlar Arası Rekabet ve İnanç
 Imperium tek bir iradeyle işleyen bir makine değil, birbirinin alanına sürekli taşan kurumların gergin bir ortaklığıdır. Adeptus Mechanicus, Mars'ın özerkliğini Treaty of Olympus'tan beri korur ve Machine God inancıyla Imperial Cult arasındaki gerilimi, Omnissiah'ı Emperor ile özdeşleştiren teolojik bir uzlaşmayla yumuşatır. Ecclesiarchy ruhlar üzerinde, Administratum kayıtlar ve vergiler üzerinde, Inquisition ise herkesin üzerinde yetki iddia eder. Astra Militarum ile Navy'nin ayrı komuta zincirleri bilinçli olarak yaratılmış bir denge unsurudur; ancak bu ayrım cephede sık sık koordinasyon felaketlerine yol açar.
 

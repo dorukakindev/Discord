@@ -14,6 +14,4 @@ Servitor'ların üretimi, Mechanicum'un 'insan kaynağı' doktrininin en karanl�
 
 ## Tarihçe
 
-İmparatorluk'un insan-makine hizmet birimi; suçluların veya vatandaşların lobotomize hali. 'Flesh is weak' ilkesinin günlük yüzü — sadık ama iradesiz.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Servitor, İmparatorluk'un en yaygın ve en trajik teknolojisidir — insan-makine melezidir. Servitor'lar, İmparatorluk'un çeşitli görevlerini yerine getirmek için insan bedenlerine makine parçaları eklenmiş varlıklardır; bu varlıklar, İmparatorluk'un en basit ve en tehlikeli görevlerini yerine getirir. Servitor'lar, İmparatorluk'un en yaygın ve en trajik teknolojisidir; bu varlıklar, İmparatorluk'un en basit görevlerini yerine getiren en yaygın araçlardır. Teknoloji, İmparatorluk'un en yaygın ve en trajik t

@@ -16,7 +16,7 @@ Kin toplumunun eşit üyeleri sayılan mekanik varlıklardır. Imperium'un gerç
 
 ## Tarihçe
 
-Ironkin madencilik, yük taşıma, savaş pilotluğu ya da ön cephe görevleri için farklı bedenler taşır. Bazıları Warp'ta olası yolları hesaplayan Wayfinder'lar olarak görev yapar. Savaşta ve mühendislik işlerinde Brôkhyr Iron-master'ların teknik yardımcıları olarak yer alırlar.
+Ironkin, Leagues of Votann'ın en önemli ve en değerli varlıklarıdır — yapay zekalı robotlardır. Ironkin'ler, Leagues of Votann'ın en gelişmiş teknolojisiyle üretilen robotlardır; bu varlıklar, Leagues of Votann'ın en önemli görevlerini yerine getirir ve en değerli savaşçılarıdır. Ironkin'ler, Leagues of Votann'ın en önemli ve en değerli varlıklarıdır; bu varlıklar, Leagues of Votann'ın en gelişmiş teknolojisinin en iyi örneğidir. Varlıklar, Leagues of Votann'ın en değerli ve en önemli varlıkları olarak kalır.
 
 -# Kaynaklar: *Codex: Leagues of Votann — 10th Edition*
 

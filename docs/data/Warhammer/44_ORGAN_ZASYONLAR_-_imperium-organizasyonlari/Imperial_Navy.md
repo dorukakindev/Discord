@@ -12,6 +12,6 @@ Donanmanın görevleri muazzamdır; gezegenleri yörüngeden bombalar (lance ve 
 
 ## Tarihçe
 
-Imperial Navy (Navis Imperialis), İmparatorluk'un uzay filosudur; dünyalar arası savaşın ve abluka gücünün bel kemiği. Battlefleet'ler halinde organize olur, Imperial Guard alaylarını taşır ve İmparatorluk uzayını Chaos, xenos ve korsanlardan korur — insanlığın zırhlı kanatları.
+Imperial Navy, İmparatorluk'un en büyük ve en önemli askeri gücüdür — İmparatorluk'un uzay filosudur. Imperial Navy, İmparatorluk'un en büyük gemilerini ve en güçlü filosunu oluşturur; organizasyon, İmparatorluk'un uzay egemenliğinin ve gücünün simgesidir. Imperial Navy, İmparatorluk'un en büyük ve en önemli askeri gücüdür; organizasyon, İmparatorluk'un en önemli ve en güçlü kurumlarından biridir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -15,7 +15,7 @@ Yeminlerini kutsal sayan, bir kez verilen sözü ancak ölümle ya da görevin t
 
 ## Tarihçe
 
-220.M38'de Arios Point'te Word Bearers Chaos Lord'u Periclitor'un kurduğu pusu, Chapter Master Orlando Furioso'yu ve 1st ile 8th Company'nin büyük kısmını yok edince Howling Griffons, Word Bearers'a karşı bitmeyen bir kan davasına girdi. Badab War'da küçük bir kuvvetle sadık saflarda savaşıp Khymara'da Executioners'ın saldırısıyla ağır kayıplar verdiler. Chief Librarian Mercaeno'nun Soul Drinkers'a karşı mücadelesi Chapter'ı Black Library anlatısında görünür kıldı.
+Howling Griffons, Ultramarines'in soyundan gelen bir Space Marine Chapter'ıdır — İmparatorluk'un en sadık ve en güvenilir Chapter'larından biridir. Howling Griffons, İmparatorluk'un en önemli operasyonlarında görev alır; Chapter, İmparatorluk'un en sadık ve en güvenilir Chapter'larından biridir. Howling Griffons, Ultramarines'in en sadık ve en güvenilir varislerinden biri olarak kalır; Chapter, İmparatorluk'un en önemli askeri varlıklarından biridir.
 
 ## Teknik / Biyolojik Özellikler
 

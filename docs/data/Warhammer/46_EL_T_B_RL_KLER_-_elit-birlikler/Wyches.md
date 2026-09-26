@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/93/443px-Lelith.png/revi
 
 ## Tarihçe
 
-Wyches (Wych Kültleri), Drukhari'nin arena savaşçılarıdır; Commorragh'ın ölüm oyunlarında hayatta kalan bu 'dans-katiller', güzellikle vahşeti birleştiren en ölümcül piyadeler.
+Wych, Drukhari'nin Commorragh'ındaki 'arena savaşçısı' kültü — zevk ve acının iç içe geçtiği gladyatöryel kültürün en keskin ifadesi. Cult of Strife ve Cult of the Red Grief gibi 'Wyches Cults' Commorragh'ın sokak gücünü elinde tutar; Lelith Hesperax bu kültün efsanevi figürüdür. Wyches'in 'combat-drugs' ve 'webway-speed' kullanımı onları Aeldari'nin en hızlı yakın-dövüş birimi yapar; Commorragh'ın 'gerçek güç' dengesinde Archon'lardan bile daha az öngörülemez varlıklardır.
 
 -# Kaynaklar: *Drukhari Codex*

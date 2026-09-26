@@ -35,7 +35,7 @@ Heresy sonrası Legion, **Planet of the Sorcerers** olarak bilinen daemon dünya
 
 ## Tarihçe
 
-Thousand Sons, Chaos Space Marines'in Hain Lejyonlarından biridir; bir zamanlar İmparatorluk'un XV. Lejyonu'ydu ama şimdi değişim, entrika ve büyü tanrısı Tzeentch'e yeminlidir. Diğer hainlerden onları ayıran ana özellik: her üyenin psişik güçlü 'büyücü-denizci' olması — 'tozdan doğan lejyon' olarak Prospero'nun küllerinin bedenidir.
+Thousand Sons — XV Legion — Magnus the Red'in 'sorcerer' lejyonu; Prospero'nun yakılmasıyla lanetlenen, 'flesh-change' ve Rubric of Ahriman'la 'toz'a dönüşen entelektüel savaşçılar. Nikaea Konseyi'nin 'sihir yasağı' sonrası gizlice çalışmaya devam eden ve sonunda Tzeentch'in tuzağına düşen lejyon; Ahriman'ın Rubric'i onları 'boş zırh' bıraktı — ama 'bilgi' hiç yok olmadı. 'All is dust' — onların traji
 
 ## Yapı ve Organizasyon
 Rubric'in ardından Legion iki ana unsurdan oluşur: ritüelden sağ çıkan ve güçleri daha da artan psyker sorcerer'lar ile ruhları zırhlarına mühürlenmiş, bedenleri toza dönmüş **Rubric Marine**'ler. Rubric Marine'ler bilinçleri bulanık, neredeyse otomata benzeyen savaşçılardır ve Aspiring Sorcerer'ların iradesiyle yönlendirilir. Terminator zırhlı **Scarab Occult** birlikleri de aynı lanetin ağır zırhlı bir biçimidir.

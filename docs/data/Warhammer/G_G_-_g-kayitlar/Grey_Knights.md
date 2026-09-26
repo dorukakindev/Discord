@@ -34,7 +34,7 @@ Grey Knights nadiren uzun seferlere girer. Prognosticar'ların ve Inquisition'ı
 
 ## Tarihçe
 
-Grey Knights, Warp'ın tehlikeli daemonik varlıklarıyla ve Chaos tanrılarının yozlaşmış gücünü kullanan tüm ölümlülerle savaşmak için özel görevlendirilmiş gizli ve esrarengiz Space Marine chapter'ıdır; Heresy sırasında İm
+Grey Knights, İmparatorluk'un en gizli ve en ölümcül Space Marine Chapter'ıdır — daemon'lara karşı savaşan özel bir Chapter'dır. Grey Knights, İmparatorluk'un en gizli ve en ölümcül Chapter'ıdır; onların daemon avcılığı,
 
 ## Kültür, Gizlilik ve Karanlık Bedel
 Grey Knights'ın yaşamı dua, psişik disiplin ve bitmeyen eğitimle örülüdür. Zırhlarına işlenen kutsal metinler, taşıdıkları mühürler ve ezberledikleri ayinler, onların gözünde ruhu Warp'ın fısıltılarına karşı koruyan birer kalkandır.

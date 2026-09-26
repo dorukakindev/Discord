@@ -67,5 +67,9 @@ Kalıcı etkisi bununla sınırlı değildir. Primaris kuşağının gelişi, Sp
 ## Yayın ve Retcon Notu
 Ultima Founding ve Primaris Space Marine'ler, 2017'de 8th Edition ve *Dark Imperium* başlangıç setiyle tanıtıldı; aynı dönemin *Gathering Storm* kitapları ve Guy Haley'nin *Dark Imperium* romanı anlatı zeminini kurdu. 9th Edition'ın *Indomitus* kutusu (2020) Primaris'i Space Marine koleksiyonunun merkezine yerleştirdi. Bu değişim, eski Chapter anlatılarını geçersiz kılmaktan çok, onları yeni bir kuşağın gelişiyle genişletti; Firstborn Marine'ler anlatıda hizmet etmeyi sürdürür.
 
+## Tarihçe
+
+Ultima Founding, Belisarius Cawl'ın Primaris Space Marine'lerini sahaya sürdüğü ve İmparatorluğun on bin yıldır gördüğü en büyük askeri genişleme hareketidir; Guilliman'ın Indomitus Crusade'iyle birlikte başlayan bu founding, İmparatorluğa yüz binlerce yeni Primaris savaşçı ve onlarca yeni Chapter kazandırdı. Ultima Founding'in en büyük özelliği, Primaris teknolojisidir — yeni Chapte
+
 **Kaynaklar:** *Codex: Space Marines — 10th Edition*; *Dark Imperium — Guy Haley*; *Belisarius Cawl: The Great Work — Guy Haley*; *The Devastation of Baal — Guy Haley*; *Warhammer 40,000 Core Book — 10th Edition*
 **Çapraz:** <#1551818213782716427>, <#1551639038291611649>, <#1551815418619101185>, <#1551808704901423186>, <#1551814400938082357>, second-founding, <#1551814597168861256>, <#1551811368389181491>

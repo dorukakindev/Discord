@@ -16,8 +16,4 @@ Roboute Guilliman'ın dirilişinden sonra taşıdığı büyük kılıçtır. Ta
 
 ## Tarihçe
 
-999.M41'de Macragge'da uyanan Guilliman, Terra'ya uzanan yolculuğu, Indomitus Crusade ve Plague Wars boyunca bu kılıçla savaştı. Kılıcın Imperium'un gözündeki anlamı, taşıyanın kimliğinden ayrılamaz: babasının kılıcını kuşanan oğul imgesi, Regent'in otoritesinin görsel dilinin parçasıdır.
-
--# Kaynaklar: *Codex: Space Marines — 10th Edition*; *Dark Imperium — Guy Haley*; *Gathering Storm III: Rise of the Primarch*
-
--# İlişkili kayıtlar: <#1551808704901423186>, <#1551815418619101185>, <#1551809394226765939>, <#1551818194841501818>
+Emperor's Sword, İmparatorluğun en ünlü ve en kutsal relic'idir; İmparator'un kendisinin kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, İmparatorluğun en ünlü ve en kutsal hazinesidir. Emperor's Sword'ın en büyük özelliği, onun gücüdür — onlar, bir imparatorun kendi silahıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Emperor's Sword kullanıcısı, hem bir savaşçı hem de bir imparatorun taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Emperor's Sword'ın en ünlü özelliği, onun İmparator'a ait olmasıdır — onlar, bir imparatorun kendi silahıdır ve onların varlığı, İmparatorluğun en büyük onurunun kanıtıdır. Emperor's Sword, İmparatorluğun en ünlü ve en kutsal relic'idir — onlar, bir imparatorun

@@ -19,4 +19,8 @@ Adrathic silahları maddeyi atomik düzeyde çözen bir ışın üretir; İmpara
 ## Not
 Golden Age of Technology kalıntısıdır — mevcut Imperium'un üretemediği, sadece muhafaza edebildiği silah sınıfıdır.
 
+
+## Tarihçe
+
+Adrathic Destructor, Adeptus Mechanicus'un en gizli ve en ölümcül silahlarından biridir — adrathic teknolojisi kullanan nadir bir silahtır. Adrathic teknolojisi, maddenin atomik yapısını parçalayan bir enerji teknolojisidir; bu silah, hedefi atomik seviyede parçalayarak tamamen yok eder. Adrathic Destructor, Mechanicus'un en değerli ve en gizli silahlarından biridir; çünkü bu teknolojiyi üretebilecek bilgi, İmparatorluk'un en gizli sırlarından biridir. Silah, Mechanicus'un en ölümcül ve en nadir silahlarından biri olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

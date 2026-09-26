@@ -12,6 +12,7 @@ Ork teolojisine göre Gork, düşmana doğrudan, yüz yüze ve "dürüstçe" sal
 
 ## Tarihçe
 
-Gork ve Mork, Ork'ların ikiz tanrılarıdır; Ork ırkının kolektif bilinçdışının yansıması olarak 'vahşet' ve 'kurnazlık' ilkesini somutlaştırırlar. Ork'lar onlara tapar ama tapınma biçimleri kavga, Waaagh ve gürültüdür — Ork tanrıları tapınma değil, yaşam tarzıdır.
+Gork, Ork'ların en ünlü ve en vahşi tanrısıdır; Ork'ların iki tanrısından biri olan ve 'vahşi' Ork'ların tanrısı olan Gork, Ork'ların en vahşi ve en önemli gücüdür — onlar, Ork'ların en ünlü ve en vahşi tanrısıdır. Gork'un en büyük özelliği, onun vahşetidir — onlar, 'vahşi' Ork'ların tanrısıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır; bir Gork takipçisi, hem bir savaşçı hem de bir katildir ve onların savaşı, sadece öldürmek ve fethetmek içindir. Gork'un en ünlü özelliği, onun Mork'la birlikte olmasıdır — onlar, Ork'ların iki tanrısından biridir ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Gork, Ork'ların en ünlü ve en vahşi tanrısıdır — onlar, bir vahşetin ve Ork'ların en büyük gücünün somut halidir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

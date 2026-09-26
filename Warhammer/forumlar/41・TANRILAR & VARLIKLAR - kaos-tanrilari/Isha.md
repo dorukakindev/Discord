@@ -14,7 +14,7 @@ Isha, ölümlü çocuklarına duyduğu sevgi yüzünden panteonun en trajik fig�
 
 ## Tarihçe
 
-Isha, Aeldari'nin en ünlü ve en kutsal tanrısıdır; doğurganlık ve yaşamın tanrısı olan ve Aeldari'nin en kutsal figürü olan Isha, Aeldari'nin en kutsal ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en kutsal tanrısıdır. Isha'nın en büyük özelliği, onun kutsallığıdır — onlar, doğurganlık ve yaşamın tanrısıdır ve onların varlığı, Aeldari'nin en büyük kutsallığının kanıtıdır; bir Isha takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Isha'nın en ünlü özelliği, onun Nurgle'un esiri olmasıdır — onlar, Nurgle'un elinde esir olan ve onun 'sevgi'sini taşıyan en trajik tanrıdır ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Isha, Aeldari'nin en ünlü ve en kutsal tanrısıdır — onlar, bir kutsallığın ve Aeldari'nin en büyük trajedisinin somut halidir.
+Isha, Aeldari panteonunun 'Earth Mother'ı — yaşam, hasat ve şifa tanrıçası; Kurnous'un eşi ve tüm Eldar ırkının 'annesi'dir. Slaanesh'in doğuşunda yutulmadı; Nurgle tarafından kaçırılıp zehirli bahçesinde tutulduğu söylenir — Isha'nın ağlayışları Nurgle'un plagues'inin panzehirlerini üretir, bu yüzden onu asla tamamen yok edemez. Eldar için 'kaybedilmiş ama unutulmamış' anne figürü; Exodite kültüründe Isha'nın geleneği en güçlüdür — dünya-ağaçları ve 'Maiden World'ler onun armağanıdır.
 
 ## Teknik / Biyolojik Özellikler
 

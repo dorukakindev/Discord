@@ -16,6 +16,7 @@ Ağır Destroyer platformu; necrontyr bedenin tamamen terk edildiği, hover-sled
 
 ## Tarihçe
 
-Lokhust Destroyer, Destroyer kültünün en ağır biçimidir: tüm canlılık izleri makineye teslim edilmiş, beden bir anti-grav sled'in üzerine kaynaşmıştır. Destroyer kültü yaşayan her şeyi silmek isteyen Necron'ların en radikalidir; Lokhust bu felsefenin zirvesidir — ne şeref, ne merhamet, sadece silme.
+Lokhust Destroyer, Necron'ın 'ağır destroyer' birimi — tek gözlü, platform-gövdeli ve 'Gauss Destructor' topuyla donanmış mobil silah. Eski Necron'un 'insan parçalarından' yapılmış değil, 'saf makine' olarak tasarlanmış; Destroyer kültünün 'et nefreti'nin en somut ifadesidir. Heavy Destroyer varyantı 'Gauss Reaper' taşır; Necron'un 'mobil silah platformu' konseptinin doruğudur.
+
 
 -# Kaynaklar: *Codex: Necrons*

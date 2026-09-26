@@ -26,7 +26,7 @@ Emperor'ın Omnissiah olduğu, Mars'ın resmî tutumudur; ancak kaynaklar Mechan
 
 ## Tarihçe
 
-Adeptus Mechanicus, İmparatorluğun en eski ve en gizli kurumudur; teknolojiyi kutsal kabul eden ve Machine God'a tapınan bir dini-teknolojik organizasyondur — onlar, İmparatorluğun en güçlü ve en gizli gücüdür. Adeptus Mechanicus'un en büyük özelliği, onların teknolojik tekeli vardır — onlar, İmparatorluğun tüm teknolojisini kontrol eder ve onların bilgisi, İmparatorluğun en değerli ve en gizli sırrıdır; bir Tech-Priest, hem bir rahip hem de bir mühendistir ve onl
+Adeptus Mechanicus, Mars merkezli teknoloji-rahiplik düzeni — 'Machine God' ve 'Omnissiah' doktrinine bağlı, İmparatorluk'un tüm silah, gemi ve teknolojisini üreten teokrasidir. Kelbor-Hal'ın ihaneti sonrası Dark Mechanicum'la ikiye bölündü; 'loyal' Mechanicus Skitarii, Titan Legions ve Forge World'leriyle Imperium'un teknik belleğini tutar. 'Quest for Knowledge' ve 'Cult of the Machine' kavramları burada köklenir; bir Tech-Priest hem bilim insanı hem rahiptir. Im
 
 ## Yapı ve Organizasyon
 Mechanicus'un tepesinde Mars'ın hükümdarı **Fabricator General** bulunur. Altında her forge world'ün kendi Fabricator'ı ya da hükümdar Magos'u, onların altında ise uzmanlığa göre bölünmüş sayısız rahip yer alır: savaş işlerini yöneten Magos Dominus'lar, biyoloji ve gen bilimiyle ilgilenen Genetor'lar, veri ve kayıtları yöneten Lexmechanic ve Logis'ler, bilinmeyeni arayan Explorator'lar. Enginseer'ler Astra Militarum alaylarına, Techmarine'ler ise Mars'ta eğitilerek kendi Chapter'larına bağlanır.

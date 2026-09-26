@@ -14,6 +14,10 @@ Imperial Cult, Imperium'u bir arada tutan en güçlü bağlardan biridir. Birbir
 
 Ansiklopedik açıdan, inancın temel iddiası, yani Emperor'un gerçekten bir tanrı olup olmadığı, yayımlanmış kanonda kasıtlı olarak açık bırakılmıştır. Bu kanal inanç iddialarını müminlerin bakışı olarak aktarır ve onları nesnel gerçek gibi sunmaz.
 
+## Tarihçe
+
+Imperial Cult (Imperial Creed), İmparatorluğun en büyük ve en önemli dinidir; onların İmparator'a — Saviour Emperor'a — olan inançları ve onun kutsallığını savunan bir inançtır — onlar, İmparatorluğun e
+
 ## Kökenler: Yasak Bir İmandan Devlet Dinine
 Imperial Cult'ın kökleri, Emperor'un tanrılığı açıkça reddettiği bir çağa uzanır. Great Crusade'in resmî öğretisi olan seküler **Imperial Truth**, her türlü dini batıl inanç sayıyordu. Buna rağmen seferin askerleri, memurları ve remembrancer'ları arasında Emperor'u ilahî bir varlık olarak gören gizli bir inanç yayıldı. Bu hareketin elden ele dolaşan metni **Lectitio Divinitatus**, Horus Heresy romanlarında yasak bir broşür olarak görünür; kaynaklar metnin kökenini Lorgar ve Word Bearers'la ilişkilendirir. *Horus Rising* ve devam kitaplarında remembrancer Euphrati Keeler'ın bu inancın etrafında önemli bir figüre dönüşmesi, halk imanının Crusade'in içinden nasıl filizlendiğini gösterir.
 

@@ -46,7 +46,7 @@ Orders Militant'ın savaş tarzı yakın ve orta mesafede yoğun ateş gücüne 
 
 ## Tarihçe
 
-Adepta Sororitas (Sisters of Battle), İmparatorluğun en fanatik ve en sadık askeri gücüdür; İmparator'a olan inançla savaşan ve Ecclesiarchy'nin askeri kolu olan kadın savaşçılardır — onlar, İmparato
+Adepta Sororitas (Sisters of Battle), İmparatorluğun kadın savaşçı-rahibe ordusudur; Ecclesiarchy'nin askeri kanadıdır ve İmparator'a olan inancı hem zırh hem silah olarak kullanan, galaksinin en fan
 
 ## Önemli Figürler ve Kilit Olaylar
 **Saint Celestine**, Imperial inancında Living Saint olarak anılan, defalarca ölüp yeniden ortaya çıktığına inanılan bir figürdür. Saint Katherine'in zırhını ve Ardent Blade'i kuşanan Celestine, Geminae Superia adı verilen iki muhafızıyla birlikte Cadia'nın son savunmasında Ursarkar Creed'in yanında savaşmıştır. Onun gerçekten God-Emperor'ın bir tezahürü olup olmadığı, evren içinde de ansiklopedik açıdan da açık bir sorudur; kaynaklar kesin bir hüküm vermez.

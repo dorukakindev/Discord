@@ -16,7 +16,8 @@ Zagstruk, roket sırt çantalarıyla gökten inen Stormboyz'un en tanınmış ö
 
 ## Tarihçe
 
-Boss Zagstruk, Ork'ların en ünlü ve en vahşi Stormboy lideridir; onların en büyük hava saldırı birliğini yöneten ve İmparatorluğun en zorlu savaşlarını yapan Zagstruk, Ork'ların en vahşi ve en tehlikeli savaşçılarından biridir — onlar, Ork'ların en ünlü ve en vahşi Stormboy'udur. Zagstruk'un en büyük özelliği, onun vahşetidir — onlar, bir Stormboy birliğinin en büyük lideridir ve onların varlığı, Ork'ların en vahşi gücünün kanıtıdır; bir Zagstruk, hem bir savaşçı hem de bir liderdir ve onların savaşı, sadece öldürmek ve fethetmek içindir. Zagstruk'un en ünlü özelliği, onun Stormboy'ların lideridir — onlar, Ork'ların en disiplinli — ama yine de vahşi — birliğinin en büyük komutanıdır ve onların varlığı, Ork'ların en büyük gücünün kanıtıdır. Boss Zagstruk, Ork'ların en ünlü ve en vahşi Stormboy lideridir — onlar, bir hava saldırısının ve Ork'ların en büyük gücünün somut halidir.
+Boss Zagstruk, Ork'ların en ünlü ve en tehlikeli figürlerinden biridir — Stormboy lideri olarak bilinen figürdür. Zagstruk, Ork'ların en ünlü ve en tehlikeli figürlerinden biridir; onun Stormboy birlikleri, Ork'ların en önemli ve en tehlikeli güçlerinden biridir. Boss Zagstruk, Ork'ların en ünlü ve en tehlikeli figürü olarak kalır — onun birlikleri, Ork'ların en önemli ve en tehlikeli güçlerinden biridir.
+
 
 -# Kaynaklar: *Codex: Orks*
 

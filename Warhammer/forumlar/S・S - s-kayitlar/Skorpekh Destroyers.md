@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/e/e9/SkorpekhDestroyerMini
 
 ## Tarihçe
 
-Skorpekh Destroyer, Destroyer kültüne ait en vahşi Necron formudur — üç bacaklı, kıvrık gövdeli bir platform üzerine monte edilmiş iki dev fazlama kılıcıyla donanmıştır. Destroyer'in nihai amacı olan 'organik yaşamın yok edilmesi' idealine en yakın form; kesintisiz, duygusuz ve durdurulamaz bir yakın dövüş katliamcısıdır.
+Skorpekh Destroyer, Necron'ın yakın-dövüş 'birim sınıfı' — üç bacaklı, bıçak-kollu ve 'tamamen kontrolden çıkmış' ölüm makineleri; Destroyer kültünün (Necron'un 'etten nefret' fraksiyonu) en yaygın biçimi. Hyperphase blades ve 'Reanimation Protocol'le donanmış Skorpekh'ler yakın mesafede durdurulamazdır; Lokhust'un 'ağır' versiyonuna karşı 'hafif ama sayısız' taktik sunar. Necron ordularının 'duvar kıran' birimidir.
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552877464492048434>

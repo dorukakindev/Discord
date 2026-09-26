@@ -12,6 +12,6 @@ Khaine ile birlikte, Düşüş felaketinden sağ çıkan yalnızca iki Aeldari t
 
 ## Tarihçe
 
-Cegorach ('Laughing God'), Aeldari'nin şaka-tanrısı ve Harlequin'lerin efendisidir; Slaanesh'e düşmeyen tek Aeldari tanrısı olarak hayatta kaldı. Webway'de saklanıp kaos tanrılarıyla zekâ oyunu oynar — Aeldari'nin kaçış, sanat ve muziplik ilkesinin tanrısal hali.
+Cegorach, 'Laughing God' — Aeldari panteonunun tek 'tamamen hayatta kalan' tanrısı; Slaanesh'in doğumunda diğer tüm tanrılar yutulurken Cegorach kahkası ve kurnazlığıyla kaçtı. Webway'in gizli köşelerinde yaşar; Harlequins onun seçilmiş halkıdır ve 'Black Library' Cegorach'ın evi sayılır. Slaanesh'in ruh hırsızlığına karşı Eldar'ın tek güvencesi Cegorach'ın oyunudur — Harlequin maske-dansı, kozmik bir tiyatro ve direniş biçimidir. 'Son perde'de bile Slaanesh'i kandırma planı olduğu söylenir; Eldar mitolojisinin en gizemli ve en 'gerçek' varlığıdır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

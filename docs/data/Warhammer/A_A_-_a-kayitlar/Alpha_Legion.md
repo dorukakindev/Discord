@@ -26,7 +26,7 @@ Bu arka plan, Alpha Legion'un Heresy boyunca izlediği tutarsız görünen yolu 
 
 ## Tarihçe
 
-Alpha Legion, hakkında en az şey bilinen Chaos Space Marine Hain Lejyonu'dur; bir zamanlar İmparator'un Büyük Sefer'ini yürüten XX. Lejyon'du. Casusluk, sızma ve 'görünmez savaş' konusunda uzman bu figürler, 'herkes ve hiç kimse' doktriniyle — herhangi bir üyenin 'Alpharius' olabilmesi — en esrarengiz hainlerdir.
+Alpha Legion, Chaos'un en gizli ve en tehlikeli Legion'larından biridir — Alpharius Omegon'un Legion'udur ve en gizli Legion'dur. Alpha Legion, İmparatorluk'un en gizli ve en tehlikeli Legion'udur; onların gizli operasyonları ve entrikaları, Chaos'un en önemli ve en gizli güçlerinin kaynağıdır. Alpha Legion, Heresy sırasında Chaos'a düştü ama onların sadakati, İmparatorluk'un en gizli sırlarından biri olarak kalır; onların hikâyesi, İmparatorluk'un en gizli ve en tehlikeli sırlarından biridir. Alpha Legion, Chaos'un en gizli ve en tehlikeli Legion'u olarak kalır — onların gizli operasyonları, İmparatorluk'un en gizli ve en tehlikeli düşmanlarının kaynağıdır.
 
 ## Ölüm İddiası: Pluto ve Eskrador
 Alpharius'un akıbeti, kanonun en tartışmalı konularından biridir ve arşiv burada iki ayrı anlatıyı ayırt etmek zorundadır.

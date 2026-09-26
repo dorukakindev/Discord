@@ -18,6 +18,6 @@ Vaul'un izinden giden sanatçı-mühendis craftworld; en iyi Wraithbone işçili
 
 ## Tarihçe
 
-Yme-Loc, demirci tanrı Vaul'un yolunda yürüyen craftworld'dür; halkı ruhlaştırılmış metal işçiliğinin ustasıdır. Diğer craftworld'lere göre daha az mistik, daha fazla ustadırlar; savaş makineleri üzerlerine ruh kazınmış sanat eserleridir. Yme-Loc tezgâhları olmadan Aeldari'nin savaş gücü yarıya düşerdi.
+Yme-Loc, Aeldari'nin en bilinen craftworld'lerinden biridir — teknoloji ve zanaatkârlıkla ünlü bir Aeldari şehir-gemisidir. Yme-Loc'un Bonesinger'ları ve savaş zanaatkârları, Aeldari'nin en gelişmiş wraith-construct'larını ve silahlarını üretir; craftworld, Aeldari'nin teknolojik üstünlüğünün simgesidir. Craftworld, Büyük Yarık'ın açılmasından sonra da hayatta kalmayı başardı ve Aeldari'nin Chaos'a karşı mücadelesinde aktif rol oynar. Yme-Loc, Aeldari'nin teknolojik mirasının ve zanaatkârlık geleneğinin en önemli temsilcisidir.
 
 -# Kaynaklar: *Codex: Aeldari / Craftworlds*

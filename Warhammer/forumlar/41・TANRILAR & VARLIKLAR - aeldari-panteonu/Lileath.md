@@ -12,6 +12,6 @@ Lileath, kehanetli rüyalarıyla ünlüydü; gördüğü düşler tanrılar aras
 
 ## Tarihçe
 
-Lileath, Aeldari'nin ay ve kehanet tanrıçasıdır; rüya ve önseziyle Asuryani'ye yol gösterir. Farseer'ların ruhani patronu olarak anılır — düşen panteonda hayatta kalan veya ruhu Infinity Circuit'te yaşayan son tanrı figürlerinden biridir.
+Lileath, 'Dreamer Maiden' — Aeldari panteonunun rüya, kehanet ve gelecek tanrıçası; Eldar farseer'ların patronu ve 'görünmeyen yolların' koruyucusudur. Fall'dan önce Eldanesh'e vision gönderen ve Asuryan'ın perdesini aşabilen az sayıda tanrıdan biriydi; Slaanesh'in doğuşunda tamamen yutulduğu söylenir — ama rüyalar aracılığıyla hâlâ 'kısık sesle' konuştuğu rivayet edilir. Lileath'in 'Daughter' kültleri ve rüya-kehaneti geleneği, Eldar'ın her craftworld'de süregelen dolaylı varlığını sürdürür.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -11,6 +11,6 @@ Nostramo, sönmekte olan bir yıldızın çevresinde, kalıcı karanlık içinde
 
 ## Tarihçe
 
-Konrad Curze'nin evi; ebedi gece dünyası, yok edildi. Night Lords'un kabus kültürü buradan geldi — Curze'nin cezası: kendi dünyasını yok etmek.
+Nostramo, Night Lords Legion'unun primarch'ı Konrad Curze'un ev gezegeniydi — sürekli karanlık ve suçla kaplı bir dünyaydı. Curze, Nostramo'da doğdu ve gezegenin sürekli gece olan atmosferinde büyüdü; bu koşullar, Curze'un karanlık ve ölümcül doğasını şekillendirdi. Curze, Nostramo'yu terör ve korkuyla yönetti; ancak Night Lords'un primarch'ı olduktan sonra gezegeni terk etti ve Nostramo sonunda İmparatorluk tarafından yok edildi. Gezegen, Curze'un trajik hikâyesinin ve Night Lords'un karanlık doğasının simgesi olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

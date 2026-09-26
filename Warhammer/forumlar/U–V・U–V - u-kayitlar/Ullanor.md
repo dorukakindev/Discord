@@ -19,6 +19,10 @@ Imperial kayıtlara göre savaşın kaderi, Horus'un Urlakk Urg'u kendi eliyle �
 
 **Perspektif:** Ullanor'daki zaferin Horus'a yazılması, onun Warmaster seçilmesinin meşruiyetini güçlendiren bir anlatıdır. Heresy'den sonra Imperium'un Horus'un adını kayıtlardan silmeye ya da karartmaya yönelmesi, bu zaferin sonraki çağlarda nasıl hatırlandığını da etkilemiş olmalıdır; ancak bunun ayrıntısı kaynaklarda işlenmez ve ansiklopedi bu noktada yorumdan öteye gitmez.
 
+## Tarihçe
+
+Ullanor, İmparatorluk'un en efsanevi zaferinin yaşandığı yerdir — Büyük Haçlı Seferi sırasında İmparator'un en büyük Ork Waaagh'ını yendiği dünyadır. Ullanor savaşı, İmparator'un primarch'larıyla birlikte Overlord Urlakk Urg'un devasa Ork ordusunu yok ettiği en büyük zaferdi; bu zafer sonrasında Horus, Warmaster ilan edild
+
 ## Ullanor Triumph
 Zaferin ardından Ullanor'da, Crusade tarihinin en büyük törenlerinden biri olarak anılan bir geçit düzenlendi. Legion'lar, Imperial Army alayları ve savaş makineleri Emperor'ın önünden geçti. Bu tören bir zafer kutlaması olduğu kadar bir mesajdı: Crusade'in kuvveti, insanlığa ve galaksiye bir kez daha gösteriliyordu.
 ---MSG---

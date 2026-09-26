@@ -18,4 +18,6 @@ Noise Marine'lerin iki elli ağır sonik silahı; kurbanı sesin fiziksel gücü
 
 ## Tarihçe
 
-Sonic Blaster, Emperor's Children'ın en ünlü ve en ölümlü silahıdır; onların Emperor's Children'ın en güçlü ve en ölümlü ses silahı olan ve onun en tehlikeli operasyonlarını yapan Sonic Blaster, Emperor's Children'ın en güçlü ve en ölümlü silahıdır — onlar, Emperor's Children'ın en ünlü ve en ölümlü silahıdır. Sonic Blaster'ın en büyük özelliği, onun sesidir — onlar, Emperor's Children'ın en güçlü ses silahıdır ve onların varlığı, Emperor's Children'ın en büyük gücünün kanıtıdır; bir Sonic Blaster, hem bir silah hem de bir ses aracıdır ve onların varlığı, Emperor's Children'ın en büyük silahının somut halidir. Sonic Blaster'ın en ünlü özelliği, o
+Sonic Blaster, sesi silaha çeviren Slaanesh teknolojisinin simgesidir. Tek başına eti kemikten sıyırıp organları toz edebilir; birkaç Blaster'ın dalgaları üst üste bindiğinde kurbanın iskeleti binlerce parçaya kırılır. Kullanıcısı kadranlarla nöral perdeyi ve çığlığın ritmini sürekli değiştirir — kısa rif'ler eti lime lime eder, uzun inilti ruhu deler. Savaş meydanı onun için konser salonudur; her isabet armoninin devamıdır.
+
+-# Kaynaklar: *Codex: Chaos Space Marines — 4th ve 8th Edition*; *Codex: Emperor's Children — 10th Edition*; *Black Crusade Core Rulebook*; Lexicanum — "Sonic Blaster"; Warhammer 40,000 — Fandom

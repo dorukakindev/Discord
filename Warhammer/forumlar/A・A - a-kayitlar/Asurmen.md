@@ -63,7 +63,7 @@ Bu süreklilik, Asurmen'in öğretisinin Exarch geleneğiyle nasıl ilişkilendi
 
 ## Tarihçe
 
-Asurmen — doğum adı Iliathin, 'Asuryan'ın Eli' — Craftworld Aeldari'nin ilk ve en eski Phoenix Lord'udur; tüm Aspect Warrior geleneğinin yaratıcısıdır. Aeldari'nin Düşüş'ünden (Slaanesh'in doğuşundan) sağ çıkan Asurmen, halkının hayatta kalmasının tek yolunun öfkeyi disipline etmek
+Asurmen, Aeldari'nin en efsanevi ve en güçlü savaşçısıdır; Phoenix Lord'ların ilki ve Dire Avengers Aspect'inin kurucusu olan Asurmen, Aeldari'nin en büyük savaşçı geleneğinin ve onların en ölümlü gücünün simgesidir — onlar, Aeldari'nin en efsanevi ve en kutsal savaşçısıdır. Asurmen
 
 ## Great Rift Sonrası ve Güncel Durum
 

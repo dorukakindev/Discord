@@ -14,7 +14,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/a8/Frozen_Stars_Solitair
 
 ## Tarihçe
 
-Solitaire, Harlequin'lerin en gizli ve en trajik üyesidir; Slaanesh'i oynayan tek Harlequin olan ve onun en gizli ve en tehlikeli rolü olan Solitaire, Aeldari'nin en gizli ve en trajik üyesidir — onlar, Harlequin'lerin en gizli ve en trajik üyesidir. Solitaire'ın en büyük özelliği, onun trajedisidir — onlar, Slaanesh'i oynayan ve onun lanetini taşıyan en trajik Harlequin'dir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Solitaire, hem bir savaşçı hem de bir aktördür ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Solitaire'ın en ünlü özelliği, onun Slaanesh'i oynamasıdır — onlar, bir Chaos tanrısını oynayan tek Harlequin'dir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır. Solitaire, Harlequin'lerin en gizli ve en trajik üyesidir — onlar, bir trajedinin ve Aeldari'nin en gizli gücünün somut halidir.
+Solitaire, Harlequin'lerin en gizli ve en ölümcül figürlerinden biridir — Slaanesh'e meydan okuyan ve en tehlikeli Harlequin figürüdür. Solitaire, Harlequin'lerin en gizli ve en ölümcül figürüdür; onun savaş yetenekleri ve Slaanesh'e meydan okuması, Harlequin'lerin en önemli ve en tehlikeli güçlerinin simgesidir. Solitaire, Harlequin'lerin en gizli ve en ölümcül figürü olarak kalır — onun varlığı, Harlequin'lerin en önemli ve en tehlikeli güçlerinin simgesidir.
 
 -# Kaynaklar: *Harlequins Codex*
 -# İlişkili kayıtlar: <#1552848865684758548>

@@ -16,7 +16,7 @@ Pilotlarının daemon ele geçirmesini bir erginlik sınavı olarak aradığı I
 
 ## Tarihçe
 
-Great Crusade ve Horus Heresy boyunca Imperium'a sadık kalan Hane, M33'te Matarakh'ı saran bir daemonic istilayla Chaos'a düştü. Gezegenin yerli yırtıcılarının yerini daemonic yaratıklar aldı. Kaynaklar, ele geçirilen pilotların sonunda Warp yarıklarına çöküp yeni daemon'ların salınmasına yol açtığı ürkütücü bir döngü anlatır.
+House Khomentis, Chaos'a düşen ve İmparatorluk'un en tehlikeli düşmanlarından biri haline gelen bir Knight hanesidir. Khomentis, Infernal hane'si olarak bilinir ve Chaos'un İmparatorluk'a karşı yürüttüğü saldırıların en önemli gücüdür; hanenin Knight'ları, Chaos'un en tehlikeli ve en ölümcül silahlarıdır. House Khomentis, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarından biri olarak kalır; hanenin Knight'ları, Chaos'un İmparatorluk'a karşı en büyük tehdididir.
 
 -# Kaynaklar: *Codex: Chaos Knights*; *Psychic Awakening: Faith & Fury*
 

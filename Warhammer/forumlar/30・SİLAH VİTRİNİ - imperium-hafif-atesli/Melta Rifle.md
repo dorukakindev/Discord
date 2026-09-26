@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/1/15/MeltaRifle.JPG/revisi
 Eradicator'ların uzun namlulu melta tüfeği; klasik meltadan daha uzaktan tank eritir. Gravis zırhlı tank avcılarının imza silahı.
 
 ## Tarihçe
-Melta Rifle, Eradicator mangalarına verilen yeni nesil füzyon silahıdır. Uzatılmış namlusu ve güçlendirilmiş füzyon çekirdeği sayesinde klasik meltagunun en büyük zaafı olan menzil sorununu kısmen çözer. Eradicator'lar Gravis zırhlarıyla ağır ateş altında ilerleyip tank kolonlarını sistematik biçimde eritmek üzere eğitilir; doktrinleri tek cümledir: hedef tamamen erimeden sıradakine geçme.
+
+Melta Rifle, İmparatorluk Muhafızı'nın en ölümcül tank-savar silahıdır — melta teknolojisi kullanan bir tüfek. Bu silah, hedefe yoğun bir termal enerji hüzmesi göndererek zırhı eritir; tek atışta bir tankın zırhını delebilecek kadar güçlüdür. Melta Rifle, özellikle Veteran ve Storm Trooper birliklerinin tercihidir; çünkü bu birlikler, düşmanın en tehlikeli zırhlı hedeflerini etkisiz hale getirmek için tasarlanmıştır. Silah, İmparatorluk Muhafızı'nın en güçlü tank-savar silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

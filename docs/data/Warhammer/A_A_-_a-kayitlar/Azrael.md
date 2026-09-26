@@ -58,3 +58,7 @@ Azrael, 1990'lardan beri Dark Angels Codex'lerinin merkezî karakteridir; Lion H
 **Çapraz:** <#1551813077991686208>, <#1551809277692215330>, <#1551816136679751721>, <#1551810874635976776>, <#1551809619544899625>, be-lakor, caliban, <#1551818213782716427>
 
 ​
+
+### Arka Plan
+
+Azrail — 'ölüm meleği': İslam'da 'Malak al-Mawt' (ölüm meleği) olarak 'can alıcı'; 'Azrael' İbrani 'yardım' kökeniyle 'ölümün meleği' figürü. 'Kur'an'da ismi geçmez' — 'rol = ad' ayrımı.

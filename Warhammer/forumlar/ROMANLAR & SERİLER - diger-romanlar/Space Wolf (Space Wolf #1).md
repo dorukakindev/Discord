@@ -17,4 +17,5 @@ Ragnar'ın Fenris'teki klan savaşından Thunderhawk savaşlarına; 'Blackmane' 
 
 Space Wolf, William King'in yazdığı ve Space Wolves'un hikâyesini anlatan bir roman serisinin ilk kitabıdır. Bu roman, Space Wolves'un en önemli hikâyesini anlatır; roman, Space Wolves'un en önemli hikâyesinin ilk parçasıdır. Bu roman, Space Wolves'un en önemli hikâyesinin ilk parçasıdır; roman, Space Wolves'un en önemli hikâyesinin başlangıcıdır. Roman, Space Wolves'un en önemli hikâyesinin başlangıcı olarak kalır.
 
+
 -# Kaynaklar: Black Library

@@ -19,4 +19,8 @@ Necron enerji ve gauss silahları maddeyi moleküler düzeyde söker: gauss ış
 ## Not
 Voidblade'in kesimi fiziksel değil faz-düzeydedir — kesilen bölge gerçeklikten 'silinir'.
 
+
+## Tarihçe
+
+Voidblade, Necron'ların en ölümcül ve en gizli yakın dövüş silahıdır — boşluk bıçağıdır. Bu silah, hedefi atomik seviyede parçalar ve onu tamamen yok eder; tek vuruşta bir Space Marine'in zırhını bile kesebilecek kadar güçlüdür. Voidblade, Necron'ların en ölümcül ve en gizli yakın dövüş silahıdır; bu silah, Necron'ların en önemli ve en gizli yakın dövüş silahıdır. Silah, Necron'ların en ölümcül ve en gizli yakın dövüş silahı olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

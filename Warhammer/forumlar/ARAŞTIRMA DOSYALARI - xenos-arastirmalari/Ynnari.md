@@ -48,6 +48,10 @@ Biel-Tan içinde Yncarne, Daemonları Biel-Tan'dan anında sürgün etti ve onun
 
 Biel-Tan'daki olaylardan sonra Ynnari, Ulthwé'ye ulaştı ve burada Farseer **Eldrad Ulthran**'ın kendi Craftworld'ünde yeni bir tartışma başlattı. Tartışma, Ynnari'nin misyonunun gerçekliği ve ölüm tanrısı için Rhana Dandra'dan kaçınmanın gerçekten mümkün olup olmadığı üzerineydi.
 
+## Tarihçe
+
+Ynnari, Ynnead'in uyanışıyla doğan Eldar mezhebi — 'ölü tanrının halkı'; Slaanesh'e karşı niha
+
 ### Belial IV
 
 Belial IV üzerindeki Ynnari faaliyetleri, **Crone Sword**'lardan birini daha elde etmek için yapılan büyük bir kampanyaydı. Ynnari burada önemli kayıplar verdi ama Crone World'lerden biri olan Belial IV'te büyük bir ritüel gerçekleştirmeyi başardı.

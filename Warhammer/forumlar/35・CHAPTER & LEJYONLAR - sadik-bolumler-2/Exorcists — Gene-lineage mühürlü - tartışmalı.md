@@ -15,12 +15,12 @@ Daemon'la savaşmayı varlık nedeni sayan, adaylarını kasıtlı olarak daemon
 
 ## Tarihçe
 
-Ordo Malleus ile kurduğu yakın bağ, Chapter'ı sayısız daemon istilasının göbeğine taşıdı. Badab War'da secessionist Chapter'lara karşı ve Third War for Armageddon'da yer aldığı kaydedilir. 13th Black Crusade sırasında Cadian Gate'in savunmasına da katıldılar; hem Armageddon'da hem de bu Black Crusade'de savaşan az sayıdaki Chapter'dan biridir.
+Exorcists, Space Marines'in en gizli ve en tartışmalı Chapter'larından biridir — gene-lineage'i mühürlü ve tartışmalı bir Chapter'dır. Exorcists, daemonlara karşı savaşta uzmanlaşmış bir Chapter'dır; Chapter'ın üyeleri, daemonlarla savaşmak için özel olarak eğitilmiştir ve gene-lineage'leri, İmparatorluk'un en gizli sırlarından biridir. Exorcists, İmparatorluk'un en gizli ve en tartışmalı Chapter'larından biri olarak kalır; Chapter, İmparatorluk'un en gizli operasyonlarının en önemli aracıdır.
 
 ## Teknik / Biyolojik Özellikler
 
 Doktrin: daemon avına uyarlanmış taktikler; ağır aday kaybını karşılamak için Codex düzenine iki ek Scout company eklendiği anlatılır. Kültür: adayların Book of Exorcisms ile eğitilmesi.
 
--# Kaynaklar: *Codex: Eye of Terror*; *Imperial Armour Volume Ten: The Badab War – Part Two*; *Codex: Space Marines*
+-# Kaynaklar: *Codex: Eye of Terror*; *Imperial Armour Volume Ten: The Ba
 
 -# İlişkili kayıtlar: `grey-knights`, `inquisition`, `chaos-daemons`, `badab-war`

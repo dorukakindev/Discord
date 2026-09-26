@@ -15,7 +15,7 @@ Kara, piramidal ve sessiz bir kütle olarak savaş alanına süzülen Monolith, 
 
 ## Tarihçe
 
-Necron'ların Great Sleep'ten uyanışıyla birlikte Monolith'ler galaksinin dört bir yanında yeniden görülmeye başlamıştır. Kaynaklar onları Necron istilalarının en korkutucu ve en simgesel görüntüsü olarak anlatır: Imperial ateşi yüzeyinde iz bırakmadan kayarken savaşçı dalgaları kapısından akmaya devam eder.
+Monolith, Necron'ların en büyük ve en tehlikeli savaş makineleridir — dev bir yüzen kale ve teleportasyon platformudur. Monolith, Necron'ların en büyük ve en tehlikeli savaş makineleridir; bu makine, Necron'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Monolith, Necron'ların en büyük ve en tehlikeli savaş makineleridir; bu makine, Necron'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
 
 ## Teknik / Biyolojik Özellikler
 

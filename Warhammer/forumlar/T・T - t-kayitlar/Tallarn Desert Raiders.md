@@ -70,6 +70,10 @@ Great Rift'in açılmasının Tallarn'ı nasıl etkilediğine dair bilgi sınır
 **Yanılgı:** Tallarn alayları yalnızca hafif piyadedir.
 **Kanon:** Hareketli baskınlar geleneğin özüdür; ancak bu hareketlilik zırhlı birliklerle de uygulanır ve güncel kaynaklar Tallarn'ı hızlı zırhlı savaşla da ilişkilendirir.
 
+## Tarihçe
+
+Tallarn Desert Raiders, İmparatorluk Muhafızı'nın en ünlü çöl savaş birlikleridir — Tallarn gezegeninin çorak çöllerinden gelen askerlerdir. Tallarnlar, çöl savaşı ve mekanize piyade taktiklerinde
+
 ---MSG---
 ## Bilinen Yanılgılar ve SSS (devam)
 **Yanılgı:** Tallarn her zaman bir çöl dünyasıydı.

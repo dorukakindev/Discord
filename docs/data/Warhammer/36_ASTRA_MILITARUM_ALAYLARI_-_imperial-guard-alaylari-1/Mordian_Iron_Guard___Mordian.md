@@ -15,7 +15,7 @@ Kusursuz disiplini, sarsılmaz itaati ve tören kıyafetini andıran parlak üni
 
 ## Tarihçe
 
-Mordian alayları, düzenli yaylım ateşine ve bozulmayan savaş hatlarına dayanan savaş tarzını galaksinin birçok cephesine taşıdı. Kaynaklar, Mordian'ın kendisinin de Chaos'un istilasına uğradığını ve Iron Guard'ın gezegeni daemonic saldırıya karşı savunduğunu aktarır. Geri çekilmeyi reddedip son askere kadar savaşmaları, geleneğin en belirgin özelliklerinden sayılır.
+Mordian Iron Guard, İmparatorluk Muhafızı'nın en disiplinli ve en ünlü alaylarından biridir — Mordian gezegeninin sert disipliniyle eğitilmiş askerlerdir. Mordianlar, İmparatorluk'un en disiplinli ve en organize alaylarını oluşturur; birlikleri, savaş meydanında kusursuz düzen ve disiplinle bilinir. Mordian Iron Guard, İmparatorluk'un en kritik savunma operasyonlarında görev alır; alaylar, hiçbir koşulda geri çekilmeyen ve disiplinlerini hiç kaybetmeyen birlikler olarak ünlüdür. Alaylar, İmparatorluk Muhafızı'nın en disiplinli ve en prestijli alaylarından biri olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -23,4 +23,4 @@ Standart Imperial teçhizat; mavi tören üniformaları; açık gökyüzü altı
 
 -# Kaynaklar: *Codex: Imperial Guard*; *Codex: Astra Militarum*
 
--# İlişkili kayıtlar: <#1551753458779029565>, <#1551815439078658154>, <#1551654107058540595>
+-# İlişkili kayıtlar: <#15517534587790

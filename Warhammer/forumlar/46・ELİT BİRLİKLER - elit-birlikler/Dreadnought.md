@@ -14,6 +14,4 @@ Dreadnought'un savaş rolü, hem güç hem mirastır: dev power fist'leri ve ağ
 
 ## Tarihçe
 
-Ölüme ramak kalmış kahramanın savaş makinesi bedeni; sarcophagus içinde yaşayan eski savaşçılar. Chapter'ın bilgeliği ve topu bir arada.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Dreadnought, ölümcül yaralanmış bir Space Marine'in yaşam destek ünitesine bağlanıp savaşa devam ettiği 'yürüyen tabut' — adamantium zırhı içinde yüzyıllarca savaşan 'yaşayan atalar'dır. Bjorn the Fell-Handed, Space Wolves'un en eski Dreadnought'u ve 'Great Wolf'un son tanığı olarak efsanedir; Librarian, Venerable ve Ironclad tipleri farklı savaş rolleri taşır. Dreadnought'un uyanışı chapter'ın en

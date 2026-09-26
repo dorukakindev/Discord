@@ -11,6 +11,6 @@ Büyük Haçlı Sefer sırasında, İmparator ve Horus önderliğindeki lejyonla
 
 ## Tarihçe
 
-İmparatorluk'un en görkemli zaferinin yeri; Büyük Haçlı Seferi'nin doruğu. Horus'un Warmaster seçildiği yer — imparatorluk'un en büyük paradoksu, zafer mekânı ihanetin başlangıcı oldu.
+Ullanor, İmparatorluk'un en efsanevi zaferinin yaşandığı yerdir — Büyük Haçlı Seferi sırasında İmparator'un en büyük Ork Waaagh'ını yendiği dünyadır. Ullanor savaşı, İmparator'un primarch'larıyla birlikte Overlord Urlakk Urg'un devasa Ork ordusunu yok ettiği en büyük zaferdi; bu zafer sonrasında Horus, Warmaster ilan edildi. Ullanor ayrıca War of the Beast'in de yaşandığı yerdir — 'The Beast' adlı Ork lideri, burayı İmparatorluk'a karşı büyük saldırısının merkezi yaptı. Gezegen, İmparatorluk tarihinin hem en büyük zaferinin hem de en tehlikeli Ork tehdidinin yaşandığı yerdir.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

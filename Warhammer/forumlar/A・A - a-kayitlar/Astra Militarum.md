@@ -39,7 +39,7 @@ Guardsman'ın inancı resmî Imperial Cult'tur; ama cephedeki pratik çoğu zama
 
 ## Tarihçe
 
-Astra Militarum (Imperial Guard), İmparatorluğun en büyük ve en kalabalık askeri gücüdür; milyarlarca askerden oluşan ve İmparatorluğun her köşesinde savaşan insan ordusudur — onlar, İmparatorluğun omurgası ve en büyük fedakarlığıdır. Astra Militarum'un en büyük özelliği, onların sayısıdır — onlar, trilyonlarca askerden oluş
+Astra Militarum (Imperial Guard), İmparatorluğun en büyük askeri gücüdür; trilyonlarca sıradan insandan oluşan ve İmparatorluğun sınırlarını koruyan devasa ordu — Space Marine'ler İmparatorluğun kılıcıysa, Astra Militarum onun kalkanı ve bedenidir. Astra Militarum'un gücü sayıdadır — bir tek Imperial Guard alayı milyonlarca
 
 ## Doktrin ve Savaş Tarzı
 Guard doktrini tek bir kelimeyle özetlenecekse, o kelime **yıpratmadır**. Topçu bataryaları düşman mevzilerini günlerce döverken zırhlı tümenler ilerler, piyade dalgaları da çoğu zaman ağır kayıplar pahasına mevziyi tutar ya da alır. *Tactica Imperium* adıyla anılan kadim öğreti bütününün yorumları alaydan alaya değişse de temel yaklaşım, sayı ve ateş gücünün düşmanı er geç tüketeceğine duyulan güvendir.

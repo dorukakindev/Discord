@@ -13,6 +13,6 @@ Chaplain ve yüksek din adamlarına verilen, taşıyanı bir enerji alanıyla sa
 
 ## Tarihçe
 
-Ministorum din adamlarının ve Space Marine Chaplain'lerinin kutsal nişanı; Aquila veya Gotik haç biçimindeki adamantium muska. İçine gömülü Conversion Field jeneratörü taşıyıcıyı korur — inancın fiziksel kalkanı.
+Rosarius, İmparatorluk'un en kutsal ve en değerli koruyucu cihazlarından biridir — enerji alanı oluşturan bir kolye veya amulet'tir. Bu cihaz, kullanıcısının çevresinde bir enerji alanı oluşturur; bu alan, gelen saldırıları emer veya yansıtır ve kullanıcıyı korur. Rosarius, özellikle İmparatorluk'un en yüksek rütbeli figürlerinin — Chapter Master'ların, Inquisitor'ların ve İmparatorluk'un en büyük kahramanlarının — kullandığı bir cihazdır; bu cihaz, İmparatorluk'un en değerli ve en kutsal koruyucu cihazlarından biri olarak kabul edilir. Rosarius, İmparatorluk'un en değerli emanetlerinden biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

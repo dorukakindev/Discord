@@ -15,6 +15,4 @@ Sapkınlık'ın kilit anı Davin'de yaşandı: Horus, dünyayı ele geçirirken 
 
 ## Tarihçe
 
-Davin, Horus Heresy'nin başlangıç noktası sayılan dünyadır; burada Word Bearers'ın tapınağı ve Davin'in vebaplayıcı kabileleri vardı. Warmaster'ın yaralanıp Chaos'la ilk temas ettiği gezegen — 'her şeyin başladığı yer'.
-
--# Kaynaklar: Warhammer 40,000 —
+Davin, Horus Heresy'nin en kritik ve en trajik yerlerinden biridir — Horus'un Chaos'a düştüğü dünyadır. Davin'de Horus, bir Chaos silahıyla yaralandı ve ölüm döşeğindeyken Chaos'un etkisine girdi; bu olay, Horus'un İmparator'a ihanetinin başlangıcıydı.

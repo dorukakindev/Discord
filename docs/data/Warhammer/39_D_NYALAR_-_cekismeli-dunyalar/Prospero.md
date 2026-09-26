@@ -12,6 +12,6 @@ Prospero, İmparatorluğun çoğu dünyasının aksine, psyker'lara değer veren
 
 ## Tarihçe
 
-Magnus'un evi ve Tzeentch'in planının merkezi; Bilgi şehrinin yanışı Space Wolves'u psyker-avcısına çevirdi. Thousand Sons'un düşüş diyarı.
+Prospero, Thousand Sons Legion'unun ev gezegeni ve Magnus the Red'in ana dünyasıydı — bilgi ve sorcery'nin merkezi olarak bilinen bir dünyaydı. Prospero, Aeldari'lerin terk ettiği bir dünyada kurulmuştu ve Magnus, burada Thousand Sons'u bilgi arayışına adadı; gezegen, İmparatorluk'un en büyük kütüphanelerine ve sorcery araştırmalarına ev sahipliği yapıyordu. Space Wolves'un 'Yakılışı' sırasında Prospero tamamen yok edildi; Leman Russ'un güçleri gezegeni yakıp kül etti ve Thousand Sons'un neredeyse tamamını katletti. Prospero'nun yıkımı, Magnus'un Tzeentch'e sığınmasına ve Thousand Sons'un Chaos'a düşmesine neden olan en trajik olaydır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

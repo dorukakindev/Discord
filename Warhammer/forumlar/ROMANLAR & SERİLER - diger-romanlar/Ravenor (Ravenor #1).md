@@ -17,4 +17,5 @@ Ravenor'un ekibi (Kara Yuanjin, Nayl, Harlon vs.) ile Sirk'teki 'Flect' uyuştur
 
 Ravenor, Dan Abnett'in Ravenor serisinin ilk romanıdır — Inquisitor Ravenor'un hikâyesinin başlangıcıdır. Bu roman, Ravenor'un İmparatorluk'un en gizli düşmanlarıyla mücadelesini anlatır; roman, Ravenor'un hikâyesinin başlangıcıdır. Bu roman, Ravenor'un hikâyesinin başlangıcıdır; roman, Ravenor'un en gizli ve en tehlikeli operasyonlarının başlangıcıdır. Roman, Ravenor'un hikâyesinin başlangıcı olarak kalır.
 
+
 -# Kaynaklar: Black Library

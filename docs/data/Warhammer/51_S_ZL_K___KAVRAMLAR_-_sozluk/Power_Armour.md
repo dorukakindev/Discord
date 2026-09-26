@@ -12,6 +12,4 @@ Güç Zırhı'nın içinde, giyenin kas gücünü katbekat artıran lifsel-demet
 
 ## Tarihçe
 
-Space Marine'in ikinci derisi; kendi yaşam desteği olan servo-kaslı zırh. İmparatorluk'un en bilinen simgesi — insanın makineye dönüşmesinin adı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Power Armour, Space Marine'lerin giydiği temel savaş zırhıdır; elektro-kas lifleri, zırh plakaları ve yaşam destek sistemlerini birleştiren ve giyeni süper-insan gücünün ötesine taşıyan tamamlayıcı bir ekosistemdir. Mark I (Thunder Armour) Thunder Warriors'ın ilk zırhıydı; Mark II (Crusade Armour) Büyük Haçlı Seferi'nin standartı oldu; Mark III (Iron Armour) kuşatma savaşı için ağırlaştı; Mark IV (Maximus) en gelişmiş Heresy öncesi modeldi. Mark V (Heresy Armour) kaynak kıtlığında karma parçalarla üretildi; Mark VI (Corvus) beaked helm ile tanınır; Mark VII (Aquila) günümüz standardı; Mark VIII (Errant) göğüs koruması ekledi; Mark IX ve X (Primaris dönemi) Cawl'ın tasarımlarıdır. Her Mark kendi tarihini taşır — Mark IV'ler Heresy gazileridir, Mark VII'ler günümüz savaşçılarının temelidir; Chapter'lar zırhı nesiller b

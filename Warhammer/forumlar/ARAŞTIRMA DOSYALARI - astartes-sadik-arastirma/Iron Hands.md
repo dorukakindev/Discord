@@ -44,6 +44,10 @@ Bunun tekrarlanmasını önlemek için, hayatta kalan kaptanlar (olası Mechanic
 
 Bu hem Ecclesiarchy hem de Mechanicum liderliğini çileden çıkardı; Moirae'deki Tech-priest'ler yakıldı. Ancak dogma o kadar cazip geldi ki Moirae heresy Mechanicum datanet'leri ve Ecclesiarchy sürülerinde yangın gibi yayıldı. Neredeyse tam bir iç savaşa yol açacaktı.
 
+## Tarihçe
+
+Iron Hands, Space Marines'in en eski ve en disiplinli Legion'larından biridir — Ferrus Manus'un Legion'udur ve İmparatorluk'un en sert Legion'udur. Iron Han
+
 **Iron Hands** tartışmayı çözmek için azınlık gruptaki Hands, **Sons of Medusa** Chapter'ını kurdu ve Moirae'nin hâlâ tüten harabelerine taşındı. Tüm Successor Chapter'lar (Red Talons hariç — onları öldürdüler) schismatic'lerin bu yeni Chapter'a katılmasına izin verdi.
 
 İlginç olan: Moirae heretic'lerinin kehanetleri **Great Rift'in oluşumunu** ve **Guilliman'ın dönüşünü** içeriyordu — yani her şeyiyle doğruydular.

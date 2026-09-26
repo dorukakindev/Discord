@@ -12,6 +12,10 @@ Bu inançta bilgi kutsaldır. Bir STC parçasını bulmak bir vahyi, bir makiney
 
 Bu madde inancın ilahiyatını ele alır. Rahipliğin rütbe düzeni tech-priests, kurumun bütünü **kayıt**, Mars'ın kendisi ise **kayıt** kanalındadır.
 
+## Tarihçe
+
+Omnissiah (Machine God), Adeptus Mechanicus'un en ünlü ve en kutsal tanrısıdır; makinelerin ve teknolojinin tanrısı olan ve Adeptus Mechanicus'un en kutsal inancı olan Omnissiah, İmparatorluğun en gizli ve en kutsal gücüdür — onlar, Adeptus Mechanicus'un en ünlü ve en kutsal tanrısıdır. Omnissiah'ın en büyük özelliği, onun kutsallığıdır — onlar, makinelerin ve teknolojinin tanrısıdır ve onların var
+
 ## Emperor = Omnissiah Doktrini
 Mars'ın rahipliği, Age of Strife boyunca bilginin kurtarıcısı olacak bir figürü bekleyen inançlar taşıyordu. Emperor Terra'yı birleştirip Mars'a ulaştığında, Martian rahiplerinin önemli bir kısmı onu bu beklenen Omnissiah olarak tanıdı. Treaty of Olympus'un ilahiyatla siyaseti birbirine bağlayan gücü buradan gelir: Mars, Emperor'a bir hükümdar olarak değil, kendi tanrısının bedenlenmesi olarak biat etmiş sayıldı.
 

@@ -39,7 +39,7 @@ Bir Masque'ın kaç Troupe'tan oluştuğu veya kaç oyuncuyu barındırdığı y
 
 ## Tarihçe
 
-Harlequins, Aeldari ırkının en gizemli ve en tehlikeli kesimidir; Cegorach — Laughing God — 'a adanmış ve hiçbir Craftworld'e bağlı olmayan özgür ruhlu savaşçılardır — onlar, hem savaşçı hem de performans sanatçısıdır ve onların savaşı, hem dans hem de ölümdür. Harlequins'in en büyük özelliği, onların Masque'larıdır — her Harlequin, bir karakter oynar ve onun savaşı, o karakterin rolüdür; bir Shadowseer, hem
+Harlequin, Cegorach'ın hizmetindeki 'dans eden savaşçı' tarikatı — Webway'de yaşayan, maske takmış ve Slaanesh'e karşı 'kozmik tiyatro' savaşı veren Eldar kolu. Shadowseer, Death Jester ve Solitaire figürleriyle 'Great Masque' gösterileri hem sanat hem savaş biçimidir; Black Library onların evi sayılır. Hiçbir craftworld'e bağlı olmayan Harlequin'ler, Eldar'ın 'serbest ruhu'dur — Cegorach'ın kahkahasıyla Sla
 
 ## Kültür ve Savaş Tarzı
 

@@ -19,4 +19,8 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 ## Not
 Bir Fusion Blaster kullanıcısı 'yakın mesafeye kadar bekler, sonra tank olmaz' felsefesini uygular — kısa menzil savaşın kurallarını yeniden yazar.
 
+
+## Tarihçe
+
+Fusion Blaster, T'au İmparatorluğu'nun en ölümcül yakın dövüş silahıdır — füzyon enerjisi kullanan bir silahtır. Bu silah, hedefe yoğun bir füzyon enerjisi gönderir; tek atışta bir tankın zırhını bile eritebilecek kadar güçlüdür. Fusion Blaster, T'au'nun en ölümcül yakın dövüş silahıdır; bu silah, T'au'nun en önemli ve en ölümcül yakın dövüş silahıdır. Silah, T'au İmparatorluğu'nun en ölümcül yakın dövüş silahı olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

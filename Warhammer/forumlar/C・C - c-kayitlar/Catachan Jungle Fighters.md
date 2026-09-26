@@ -11,10 +11,9 @@ Galaksinin en ölümcül orman dünyasından gelen savaşçılar — 'Catachan D
 - **Köken:** Catachan (Ölüm Dünyası)
 
 ## Tarihçe
-Catachan'da yaşamak bile bir başarıdır; gezegenin faunası insan kasabalarını düzenli olarak yer. Alayları Jungle Fighters olarak hizmet verir — orman savaşı, bubi tuzakları ve 'Catachan Fang' bıçaklarıyla ünlüdürler. Sly Marbo efsanesi bu alaydan çıkmıştır.
 
-## Özellikler
-Çıplak kas görüntüsü, kızıl bandana ve Catachan Fang bıçağı; hafif zırhla ağır dünyalarda doktrinleri hayatta kalmaktır.
+Catachan Jungle Fighters, İmparatorluk Muhafızı'nın en vahşi ve en ünlü alaylarından biridir — Catachan gezegeninin ölümcül ormanlarından gelen askerlerdir. Catachan, galaksinin en tehlikeli gezegenlerinden biridir; gezegenin florası ve faunası, insanları öldürmek için evrimleşmiştir ve Catachan'lılar, bu ortamda hayatta kalan en sert askerlerdir. Catachan Jungle Fighters, yakın dövüş ve orman savaşında efsanevidir; alaylar, İmparatorluk'un en vahşi ve en ölümcül birliklerinden biridir. Alaylar, İmparatorluk Muhafızı'nın en vahşi ve en ünlü alaylarından biri olarak kalır.
+
 
 -# Kaynaklar: Codex: Astra Militarum
 

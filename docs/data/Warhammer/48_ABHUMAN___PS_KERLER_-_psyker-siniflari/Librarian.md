@@ -10,6 +10,7 @@ Librarian, bir Space Marine Chapter'ının en güçlü ve en gizemli savaşçıl
 
 ## Tarihçe
 
-Librarian, Space Marine chapter'ının psyker-subayıdır; Warp gücüyle savaşan, psişik yetenekleri disiplinli kullanan 'savaş kütüphanecisi'. Hem saldırı hem savunma — chapter'ın Warp uzmanı.
+Librarian, Space Marines'in en ünlü ve en güçlü psyker'ıdır; onların Astartes'in en güçlü ve en bilgili psyker'ı olan ve onun en gizli operasyonlarını yöneten Librarian, Space Marines'in en güçlü ve en önemli üyesidir — onlar, Space Marines'in en ünlü ve en güçlü psyker'ıdır. Librarian'ın en büyük özelliği, onların psişik gücüdür — onlar, Astartes'in en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır; bir Librarian, hem bir savaşçı hem de bir bilgindir ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Librarian'ın en ünlü özelliği, onların bilgisiçidir — onlar, Space Marines'in en bilgili ve en güçlü psyker'ıdır ve onların varlığı, Space Marines'in en büyük gücünün kanıtıdır. Librarian, Space Marines'in en ünlü ve en güçlü psyker'ıdır — onlar, bir bilginin ve Space Marines'in en büyük gücünün somut halidir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

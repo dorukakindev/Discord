@@ -111,6 +111,10 @@ Death Guard, **Ceremony of Poison** (Zehir Töreni) adlı benzersiz bir törense
 
 ### Taktikler
 
+## Tarihçe
+
+Death Guard, Chaos'un en tehlikeli ve en korkulan Legion'larından biridir — Mortarion'un Legion'udur ve Nur
+
 Death Guard şu taktiklerde uzmanlaşmıştır:
 
 - **Yıpratma Savaşı** — Uzun süren savaşlar.

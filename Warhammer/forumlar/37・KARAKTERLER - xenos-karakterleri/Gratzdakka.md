@@ -11,6 +11,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/5/5a/Blood_Axes_Icon.png/r
 
 ## Tarihçe
 
-Gratzdakka Wur Mekdakka, Blood Axes klanının 'en zeki' warboss'larından biriydi; WAAAGH! Gratzdakka ile endüstriyel dünya Kalidar'ı neredeyse fethetti. 'İnsan usulü strateji' kullanan nadir Ork figürü — yağmacı ama planlı bir tehdit.
+Gratzdakka, Ork'un 'en dişli' warboss'u — 'Da Gargant' unvanıyla bilinen ve 'devasa Stompa' koleksiyonuyla tanınan figür; 'Gargant Big Mek' kültürünün zirvesidir. 'Gratzdakka's Gargants' olarak bilinen mekanik canavarlar ordusuyla Armageddon'da savaşmış; 'Da biggest, da best' doktriniyle her şeyi 'daha büyük' yapmaya çalışan Ork'dur. 'If it ain't big, it ain't Ork' — Gratzdakka'nın ölçüsü.
+
 
 -# Kaynaklar: *Fandom wiki*

@@ -14,3 +14,7 @@ Büyük Haçlı Seferi çağının ısı ışını tüfeği; kurbanını içten 
 Caliver, ailenin tüfek varyantıdır; Büyük Haçlı Seferi ve Horus Heresy boyunca Legiones Astartes'in mobil Taktik Destek mangaları ile Mechanicum tarafından taşındı ve sıradan bolter'den üstün bir ateş gücü sağladı. Night Lords destek mangalarının gözdesi Mars-Omega kalıbıydı — korkutucu ve yıkıcı etkisiyle tanınırdı. Haçlı Seferi boyunca bolter'ın üretim kolaylığı karşısında gözden düşen volkite'lar, Heresy sonrası üretim sırrını neredeyse tamamen yitirdi; aile bugün Serpenta (tabanca), Charger (karabina), Caliver (tüfek) ve Culverin (ağır) kalıntılarıyla hayatta kalır ve her örnek kutsal emanet sayılır.
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum (Volkite Weapon, Volkite Caliver) / Fandom
+
+## Tarihçe
+
+Volkite Caliver, Adeptus Mechanicus'un en eski ve en gizli silahlarından biridir — volkite teknolojisi kullanan nadir ve antika bir silahtır. Volkite teknolojisi, İmparatorluk'un Büyük Haçlı Seferi döneminde geliştirilen ve günümüzde neredeyse unutulmuş bir enerji silahı teknolojisidir; volkite silahları, hedefleri sadece yakmakla kalmaz, aynı zamanda onları patlatarak yakındaki düşmanlara da zarar verir. Volkite

@@ -39,6 +39,10 @@ Bu gerekçelerin nesnel bir haklılık taşıyıp taşımadığı başka bir sor
 
 Chapter'ın bu dönemdeki komutanı Chapter Master **Malakim Phoros**'tur. Forge World modeli ve *Imperial Armour* anlatısıyla tanınan Phoros, Lamenters'ın Badab'daki yazgısıyla özdeşleşmiş bir figürdür; onun kararları ve sonunda kabul ettiği kefaret, Chapter'ın bütün hikâyesinin kişileşmiş hâli gibidir.
 
+## Tarihçe
+
+Lamenters, Blood Angels soyu ve 21st Founding'de (Cursed Founding) kurulan talihsiz bir Space Marine Chapter'ıdır; onların gene-seed'i, Black Rage'i kontrol edecek şekilde değiştirilmeye çalışıl
+
 ## Badab War'da Lamenters
 Savaş sürdükçe Lamenters, secessionist safın savaş yükünü taşıyan Chapter'larından biri hâline geldi. Loyalist cephede ise en ağır darbeleri indiren kuvvet, kökeni ve bağlılıkları gizemli **Minotaurs** idi. Terra'nın doğrudan iradesiyle hareket ettiği anlatılan Minotaurs, secessionist Chapter'ları tek tek ezmeyi hedefleyen amansız bir harekât yürüttü; bu harekâtın en uzun ve en kanlı perdelerinden biri Lamenters'a karşı oynandı.
 

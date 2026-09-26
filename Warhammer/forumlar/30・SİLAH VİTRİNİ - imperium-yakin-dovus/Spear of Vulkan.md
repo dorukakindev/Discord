@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/a/ac/Vulkan_the_Salamander
 Vulkan'ın kendi dövdüğü kutsal mızrak; Forgefather He'stan tarafından taşınır. Dokuz emanet tamamlanınca primarch dönecektir.
 
 ## Tarihçe
-Vulkan, kaybolmadan önce Salamanders'a bir sınav bıraktı: kendi dövdüğü dokuz artefakt galaksiye saçıldı ve chapter, onları tek tek bulmakla yükümlü kılındı. Spear of Vulkan bu emanetlerin en ünlülerindendir; Nocturne'ün usta demircisi primarch'ın elinden çıkma, alev gibi kesen bir mızraktır. Forgefather unvanını taşıyan Vulkan He'stan, hem mızrağı taşır hem kalan artefaktların izini sürer. Salamanders inancında dokuz emanet tamamlandığında Vulkan geri dönecektir.
+
+Spear of Vulkan, Salamanders'ın en efsanevi ve en kutsal silahıdır — Vulkan'ın kendi mızrağı olarak bilinir. Vulkan, Salamanders'ın primarch'ıydı ve İmparatorluk'un en büyük kahramanlarından biriydi; onun mızrağı, Salamanders'ın en kutsal emaneti olarak kabul edilir. Spear of Vulkan, Salamanders'ın en yüksek rütbeli figürlerinin kullandığı bir silahtır; bu mızrak, Vulkan'ın efsanevi statüsünün ve Salamanders'ın İmparator'a olan sadakatinin en önemli sembolüdür. Mızrak, İmparatorluk'un en kutsal ve en değerli emanetlerinden biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

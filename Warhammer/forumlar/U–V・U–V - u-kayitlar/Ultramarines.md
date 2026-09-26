@@ -30,7 +30,7 @@ Chapter ayrıca Orks, Chaos kuvvetleri ve Aeldari ile sayısız çatışmaya gir
 
 ## Tarihçe
 
-Ultramarines, İmparatorluk'un en güçlü ve en onurlu Space Marine chapter'larından biri sayılır; Heresy sonrası İmparatorluk'u neredeyse tek başına ayakta tutan figürlerdi. Disiplinli ve cesur savaşçılar olarak Codex Astartes'in sadık uygulayıcılarıdır — 'mavi dev' olarak İmparatorluk'un 'örnek chapter'ıdır.
+Ultramarines — XIII Legion — Roboute Guilliman'ın 'geometri' lejyonu; Codex Astartes'in yazarı, '500 Worlds of Ultramar'ın efendisi ve Imperium'un 'en büyük' chapter'ı. Calgar, Tigurius ve 'Victory is not enough, it must be decisive' doktrini; Heresy sonrası chapter'ların 'bölünme' yasasını koyan lejyon budur. 'Courage and Honour!' — Ultramar'ın savaş çığlığı ve Imperium'un en standart astartes kimliği.
 
 ## Kültür, İnanç ve Doktrin
 Ultramarines, Codex Astartes'i yalnızca bir savaş el kitabı değil, bir düşünce sistemi olarak görür. Chapter'ın öğretisi esnekliği, planlamayı ve her savaş rolünün diğerini tamamlamasını esas alır; bu yüzden Ultramarines'in güçlü yanı tek bir alanda üstün olmaktan çok bütün savaş biçimlerini dengeli yürütebilmektir. Chapter kültürü, Guilliman'ın klasik ve pratik devlet anlayışından beslenir: görev, düzen, kardeşlik ve Ultramar'a hizmet.

@@ -15,7 +15,7 @@ Gene-seed'indeki mutasyon nedeniyle kafasında ve kollarında kemikten bıçakla
 
 ## Tarihçe
 
-Adeptus Mechanicus'un gene-seed'i iyileştirme girişimlerinin felakete dönüştüğü Cursed Founding'de kurulan Chapter, kuşaklar boyunca mutasyonunun gölgesinde savaştı. Third War for Armageddon'a büyük kuvvetle katıldığı kaydedilir. Nick Kyme'ın Salamanders anlatısında Captain Zartath'ın Salamanders'la kurduğu bağ, iki Chapter arasındaki olası soy yakınlığını da gündeme getirir. Great Rift sonrası Primaris takviyesi aldıkları anlatılır.
+Black Dragons, Salamanders'ın soyundan geldiği düşünülen bir Space Marine Chapter'ıdır — 21st Founding döneminde kurulmuş bir Chapter'dır. Black Dragons, gene-seed'lerindeki mutasyon nedeniyle kemik çıkıntıları geliştirir; bu mutasyon, Chapter'ın en ayırt edici özelliğidir. Black Dragons, İmparatorluk'un en tartışmalı ve en gizli Chapter'larından biridir; Chapter, İmparatorluk'un en önemli operasyonlarında görev alır. Black Dragons, İmparatorluk'un en tartışmalı ve en gizli Chapter'larından biri olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

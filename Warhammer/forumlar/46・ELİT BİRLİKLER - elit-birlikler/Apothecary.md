@@ -14,4 +14,4 @@ Apothecary'nin savaş rolü kritiktir: Narthecium eldivenleri ve 'Reductor' alet
 
 ## Tarihçe
 
-Apothecary, bir Space Marine Chapter'ının tıbbi uzmanı ve aynı zamanda en kutsal görevi taşıyanıdır; görevi hem yaralı savaşçıları iyileştirmek hem de ölenlerden gene-seed — Chapter'ın geleceğini taşıyan genetik malzeme — toplamaktır. Sahada Apothecary'ler beyaz zırhlarıyla tanınır; narthecium adı verilen el aletiyle yarayı diker, zehri temizler ve gerektiğinde ölümcül yaralı savaşçının göğsünden progenoid gland'ları çıkarır — b
+Apothecary, Space Marine chapter'larının sağlık subayı ve 'genetik tohum koruyucusu' — düşen kardeşlerin Progenoid Glands'ını çıkaran ve chapter'ın genetik devamlılığını sağlayan figür. Narthecium el aletiyle hem cerrah hem de 'ölüm rahibi'dir; chapter'ın geleceği onun torbasındadır. Blood Angels'ın 'Sanguinary Priest'leri ve Iron Hands'in 'Iron Father'ları Apothecary'nin chapter-spesifik evrimidir; Red Thirst'ün kontrolü onları

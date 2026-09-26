@@ -7,7 +7,7 @@ Tankbusta'ların tek kullanımlık dev çekici; ucundaki devasa patlayıcıyı d
 
 ## Tarihçe
 
-Ork'ların tank-dövüş çekici; el bombası çantasıyla sarılmış dev çekiç. 'Tankhammer' adını boşuna taşımaz — yakın dövüşte araç parçaları uçuran, Loota'ların ve Tankbusta'ların bayıldığı kaba ama etkili Ork mühendisliği.
+Tankhammer, Ork'ların en ölümcül yakın dövüş silahıdır — tankları parçalamak için tasarlanmış bir çekiçtir. Bu silah, Ork'ların en büyük ve en güçlü üyelerinin kullandığı bir silahtır; tek vuruşta bir tankın zırhını bile ezebilecek kadar güçlüdür. Tankhammer, Ork'ların en ölümcül yakın dövüş silahıdır; bu silah, Ork'ların en büyük ve en güçlü üyelerinin en kritik aracıdır. Silah, Ork'ların en ölümcül yakın dövüş silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
 

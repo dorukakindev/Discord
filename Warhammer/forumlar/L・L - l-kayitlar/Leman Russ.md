@@ -22,7 +22,7 @@ Russ'ın kişiliği, bu görevin ağırlığı ile Fenris'in açık yürekli sav
 
 ## Tarihçe
 
-Leman Russ, Space Wolves'un en ünlü ve en efsanevi primarch'ıdır; Fenris'in — Space Wolves'un ev gezegeni — en büyük savaşçısı olan ve Space Wolves'u kuran Russ, İmparatorluğun en efsanevi ve en vahşi primarch'ıdır — onlar, Space Wolves'un en ünlü ve en efsanevi primarch'ıdır. Leman Russ'un en büyük özelliği, onun vahşetidir — onlar, Fenris'in en vahşi savaşçısıdır ve onların varlığı, Space Wolves'un en büyük geleneğinin kanıtıdır; bir
+Leman Russ Battle Tank, İmparatorluk Muhafızı'nın en ünlü ve en yaygın tankıdır — İmparatorluk'un en çok üretilen ve en çok kullanılan savaş tankıdır. Leman Russ, dayanıklılığı ve çok yönlülüğüyle bilinir; birçok varyantı vardır ve İmparatorluk'un her cephesinde kullanılır. Leman Russ Battle Tank, İmparatorluk Muhafızı'nın en ünlü ve en yaygın tankıdır; bu tank, İmparatorluk'un en önemli ve en yaygın savaş makinelerinden biridir.
 
 ## Prospero ve Heresy
 Nikaea Konseyi'nden sonra Magnus'un psişik yasağı çiğnediği anlaşılınca Emperor, Russ'ı onu Terra'ya getirmekle görevlendirdi. Horus'un araya girmesiyle bu görev bir tutuklamadan cezalandırma seferine dönüştü; *Prospero Burns* ve Graham McNeill'in *A Thousand Sons* romanları olayı iki karşıt bakıştan anlatır. Adeptus Custodes ve Sisters of Silence birliklerinin de katıldığı saldırıda Prospero yakıldı. Klasik anlatıya göre Russ, Magnus'la düellosunda kardeşinin belini kırdı; Magnus ise büyüyle kaçarak kurtuldu. Russ'ın Horus tarafından bir araç olarak kullanıldığını anlaması, Primarch'ın kendi rolüne bakışını sarsan yaralardan biri oldu.

@@ -16,3 +16,7 @@ Etki çoğunlukla öldürücü değildir; hedef ya yavaşlar ya tamamen harekets
 Her graviton gun Karanlık Teknoloji Çağı'ndan kalma bir kalıntıdır; aslında düşük kütleçekimli ortamlarda nesnelerin göreli ağırlığını artırmak için, yani sivil amaçla geliştirilmiştir. Adeptus Mechanicus onları kıymetli sayar ve cephanelikten çıkarmaya nadiren izin verir; yine de bazı Space Marine chapter'ları az sayıda örneği hâlâ sahaya sürer. Bakımını ancak Techmarine seviyesinde bir zanaatkâr üstlenebilir.
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum (Graviton Gun) / Fandom
+
+## Tarihçe
+
+Grav-Gun, Space Marines'in en ölümcül gravite silahıdır — düşmanı gravitasyon kuvvetiyle ezen bir silahtır. Bu silah, hedefin üzerine yoğun bir gravitasyon alanı uygulayarak onu ezer; bu, zırhlı hedefl

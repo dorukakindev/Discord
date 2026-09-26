@@ -14,6 +14,6 @@ https://static.wikia.nocookie.net/warhammer40k/images/9/90/Harlequin_Shadowseer2
 
 ## Tarihçe
 
-Shadowseer, Harlequin'lerin en gizli ve en önemli psyker'ıdır; bir Harlequin'in en gizli ve en güçlü psişik kullanıc��sı olan ve onun en tehlikeli operasyonlarını yöneten Shadowseer, Aeldari'nin en gizli ve en önemli üyesidir — onlar, Harlequin'lerin en gizli ve en önemli üyesidir. Shadowseer'ın en büyük özelliği, onun psişik gücüdür — onlar, bir Harlequin'in en gizli psişik kullanıcısıdır ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Shadowseer, hem bir savaşçı hem de bir psyker'dır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Shadowseer'ın en ünlü özelliği, onun Harlequin'lerin üyesidir — onlar, Aeldari'nin en gizli ve en ölümlü organizasyonunun üyesidir ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Shadowseer, Harlequin'lerin en gizli ve en önemli psyker'ıdır — onlar, bir psişik gücün ve Aeldari'nin en gizli gücünün somut halidir.
+Shadowseer, Harlequin'lerin en gizli ve en ölümcül figürlerinden biridir — Harlequin'lerin psyker'ı ve en tehlikeli figürüdür. Shadowseer, Harlequin'lerin en gizli ve en ölümcül figürüdür; onun psyker güçleri ve gizli operasyonları, Harlequin'lerin en önemli ve en ölümcül güçlerinin simgesidir. Shadowseer, Harlequin'lerin en gizli ve en ölümcül figürü olarak kalır — onun güçleri, Harlequin'lerin en önemli ve en ölümcül güçlerinin simgesidir.
 
 -# Kaynaklar: *Harlequins Codex*

@@ -289,6 +289,10 @@ Astra Militarum'un organizasyonu nedeniyle, çeşitli dünyaların ve alaylerin 
 - **Shadowsword** — Süper ağır tank.
 - **Lasgun** — Temel silah.
 
+## Tarihçe
+
+Astra Militarum (Imperial Guard), İmparatorluğun en büyük askeri gücüdür; trilyonlarca sıradan insandan oluşan ve İm
+
 - **Vox-caster** — İletişim cihazı.
 - **Imperial Tithe** — Asker toplama vergisi.
 

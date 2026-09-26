@@ -14,6 +14,4 @@ Barbarus'un dönüşümü, Mortarion'un gelişiyle başladı: küçük bir çocu
 
 ## Tarihçe
 
-Mortarion'un evi; zehirli atmosferiyle lejyonu doğrudan şekillendiren Death Guard dünyası. Nurgle'ın tohumu burada atıldı — gezegen zaten bir 'veba dünyası'ydı.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Barbarus, Death Guard Legion'unun primarch'ı Mortarion'un ev gezegenidir — zehirli gazlarla kaplı, ölümcül bir dünyaydı. Mortarion, Barbarus'ta bir 'necromancer' kral tarafından büyütüldü ve gezegenin zehirli atmosferinde güçlendi; bu koşullar, Mortarion'un zehirli ve ölüme dayanıklı doğasını şekillendirdi. İmparator, Mortarion'u Barbarus'ta buldu ve onu Death Guard'ın primarch'ı y

@@ -15,7 +15,7 @@ Great Crusade'de barış içinde Imperium'a katılan, Mars ve Fabricator General
 
 ## Tarihçe
 
-Hanenin yönetimi Mars siyasetine derinden karışmıştı; Heresy başladığında Vextrix'in ilk işi, Daxos Gemini'deki kalesini sadık soyluların cesetleriyle donatmak oldu. Ardından Warmaster'ın hizmetine giren Hane, Legio Mortis'le birlikte Beta-Garmon gibi büyük seferlerde savaştı.
+House Vextrix, Chaos'a düşen ve İmparatorluk'un en tehlikeli düşmanlarından biri haline gelen bir Knight hanesidir. Vextrix, Infernal hane'si olarak bilinir ve Chaos'un İmparatorluk'a karşı yürüttüğü saldırıların en önemli gücüdür; hanenin Knight'ları, Chaos'un en tehlikeli ve en ölümcül silahlarıdır. House Vextrix, İmparatorluk'un en tehlikeli ve en korkulan düşmanlarından biri olarak kalır; hanenin Knight'ları, Chaos'un İmparatorluk'a karşı en büyük tehdididir.
 
 ## Teknik / Biyolojik Özellikler
 

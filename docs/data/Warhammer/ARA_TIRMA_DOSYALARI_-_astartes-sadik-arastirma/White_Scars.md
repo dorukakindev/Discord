@@ -50,6 +50,10 @@ Bundan sonra pioneer Lejyon olarak devam ettiler; Dark Angels dışında herkest
 
 ### Horus Heresy
 
+## Tarihçe
+
+White Scars (V Legion), Jaghatai Khan'ın oğullarıdır; hız, özgürlük ve savaşın kutsallığına inanan ve Chogoris'in bozkır kültüründen gelen, İmparatorluğ
+
 Horus çıldırdığında White Scars, **Chondax**'ta Orkları öldürerek uzaktaydı. Çelişkili mesajlar almaya başlayana kadar ne olduğunu bilmiyorlardı. Horus, Space Wolves'un traitor olduğunu ve Prospero'yu parçaladığını söyledi; Rogal Dorn Horus'un traitor olduğunu ve onları Terra'ya çağırdığını söyledi. Daha da karmaşık olarak **Alpha Legion** (Chondax sisteminde yıllardır gizlice bulunan) abluka kurdu; Alaxxes Nebula'da Wolves'a saldırıyordu.
 
 Jaghatai her şeyi tarttı, sonra kendisi gidip ne olduğuna karar verdi. **Scars**, Alpha Legion filosunu süper hızlarıyla geçti, Wolves'a "iyi bir kış geçirmenizi" söyledi ve Prospero'ya gitti. Orada Magnus'un bir parçasını buldu — Magnus her iki tarafın da kısmen haklı olduğunu açıkladı (Russ ve Wolves gerçekten Prospero'yu patlattı ama Magnus bunu hak etmişti; asıl traitor Horus ve müttefikleriydi).

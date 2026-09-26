@@ -47,7 +47,7 @@ Kuşatma, dışarıdan gelen Imperial takviyelerle kırıldı; hangi kuvvetlerin
 
 ## Tarihçe
 
-Crimson Fists, Imperial Fists'in sadık İkinci Kuruluş halef chapter'ıdır; yakın zamana kadar yok oluşun eşiğindeydi — kale-manastırı yıkıldı ve sayıları Ork WAAAGH! Snagrod'un Loki Sektörü'ne inmesiyle neredeyse yok edildi. Pedro Kantor'un liderliğinde küllerinden doğan 'son yumruk' olarak bilinir.
+Crimson Fists, Imperial Fists soyu ve Second Founding'de kurulan trajik bir Space Marine Chapter'ıdır; onların savaş doktrini, Imperial Fists'in savunma geleneğinden doğar ama onların kaderi, İmparatorluğun en büyük kayıplarından birini yaşamaktır — Rynn's World'deki Ork istilası, Chapter'ı neredeyse yok etti. Crimson Fists'in en büyük trajedisi, Rynn's World'deki felakettir — bir Ork Waaagh!'ı, Chapter'ın kale manastırını yok etti ve Chapter'ın büyük kısmını öldürdü; ama Crimson Fis
 
 ## Yeniden Kuruluş ve Sons of Dorn
 Kuşatmanın ardından Crimson Fists'i bekleyen iş, savaşın kendisinden daha uzun ve daha sessizdi. Bir Space Marine'in yetişmesi yıllar alır; bir Chapter'ı yeniden kurmak için yalnızca aday bulmak yetmez, onları eğitecek veteranlar, gene-seed'i yerleştirecek Apothecary'ler, zırhları ayakta tutacak Techmarine'ler ve yeni kuşağa neyin korunmaya değer olduğunu öğretecek bir bellek gerekir. Arx Tyrannus'la birlikte bu zincirin halkalarından pek çoğu kopmuştu. Kaynakların çizdiği tabloda Crimson Fists, uzun süre Imperium'un büyük seferlerinde eskisi gibi yer alamayacak kadar küçük kaldı; varlığını sürdürmek başlı başına bir görev hâline geldi.

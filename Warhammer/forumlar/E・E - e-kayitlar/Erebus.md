@@ -25,7 +25,7 @@ Romanın dikkatle çizdiği nokta şudur: Erebus, Horus'ta olmayan bir şeyi yar
 
 ## Tarihçe
 
-Erebus, Word Bearers lejyonunun kıdemli Dark Apostle'ı ve Horus Heresy'nin baş mimarıdır — 'her şeyi başlatan adam'. Büyük Sefer'in sonunda lejyonun First Chaplain'i olarak görev yaptı; kafasının kazınmış derisine Lorgar'ın Kitabı'nın bölümlerini dövme yaptırarak düşmanları korkuturdu. Daha Astartes bile olmadan Chaos'a gönüllü dönmüştü ve Lorgar'ı, Horus'u ve İmparatorluk'u adım
+Erebus, Word Bearers'ın en ünlü ve en nefret edilen din adamıdır; Lorgar'ın First Chaplain'i olan ve Horus'u Chaos'a çeken en büyük sorumlu olan Erebus, İmparatorluğun en büyük ihanetinin mimarlarından biridir — onlar, Word Bearers'ın en tehlikeli ve en nefret edilen üyesidir. Erebus'un en büyük özelliği, onun ihanetidir — onlar, Horus'u Chaos'a çeken ve İmparatorluğun en büyük sa
 
 ## Monarchia'dan Sonra: Lorgar'ın Yanında
 Erebus'un Word Bearers içindeki konumu, Monarchia'nın yıkımıyla belirginleşti. Emperor'un emriyle Ultramarines'in Lorgar'ın ideal şehrini yerle bir etmesinin ardından Primarch'ı Colchis'in eski inancına, tapınılmayı kabul eden ve karşılığında güç veren tanrılara yönlendirenler Kor Phaeron ile Erebus oldu. *The First Heretic*, Lorgar'ın Eye of Terror'ın kıyılarına uzanan hac yolculuğunu ve bu yolculukta Word Bearers savaşçılarının içine daemon'ların yerleştirildiği Gal Vorbak'ın doğuşunu anlatır.

@@ -14,7 +14,8 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/8b/Harakoni_Warhawk_Drop
 
 ## Tarihçe
 
-Harakoni Warhawks, Astra Militarum'un seçkin hava-indirme (drop troops) alaylarından biridir; Harakon dünyasının yüksek yerçekiminde yetişen askerler grav-chute ile düşman hatlarının arkasına iner. Valkyrie destekli dikey kuşatma ve gerilla operasyonlarında uzmandırlar — gökyüzünden gelen ölüm.
+Harakoni Warhawks, İmparatorluk Muhafızı'nın en ünlü hava indirme birliklerinden biridir — Harakon gezegeninin elit paraşüt birlikleridir. Warhawks, grav-chute'larla gökyüzünden inerek düşman hatlarının arkasına sızar; bu birlikler, İmparatorluk'un en hızlı ve en cesur alaylarından biridir. Harakoni Warhawks, İmparatorluk'un en zorlu operasyonlarında görev alır; alaylar, İmparatorluk Muhafızı'nın en cesur ve en elit hava indirme birlikleri olarak kalır.
+
 
 -# Kaynaklar: *Fandom wiki*
 -# İlişkili kayıtlar: <#1552879925567033374>

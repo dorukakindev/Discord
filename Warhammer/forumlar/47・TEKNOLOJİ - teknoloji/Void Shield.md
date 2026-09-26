@@ -14,6 +14,4 @@ Void Shield'ın taktik önemi, 'aşamalı savunma' doktrinidir: kalkanlar katman
 
 ## Tarihçe
 
-Void Shield, İmparatorluk'un en büyük koruma sistemidir; Titan'lar, gemiler ve büyük yapılarda kullanılan, enerji saldırılarını Warp'a saptıran kalkan teknolojisi. Katmanlı olarak kurulabilir — Titan'ların neredeyse yok edilemezlik efsanesinin temelidir.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Void Shield, büyük gemi ve Titan'ları koruyan enerji kalkanıdır; üzerine düşen maddeyi veya enerjiyi Warp'a kaydırarak yok eden bir savunma katmanıdır. Katmanlı yapıdadır — bir Titan'ın birden çok katmanı vardır ve her katman belirli hasarı emdikten sonra düşer, jeneratör soğuyup yeniden kalkana kadar savunmasız kalır. Void shield fiziksel darbelere (mermi, füze, lazer) karşı etkilidir ama yakın dövüşe yavaş gelir — Titan'ın gövdesine tırmanan piyade kalkanın

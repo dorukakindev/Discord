@@ -15,7 +15,7 @@ Yriel'in hikâyesinin bir bedeli vardır: Iyanden'i kurtarmak için kuşandığ�
 
 ## Tarihçe
 
-Prince Yriel, Aeldari'nin en ünlü ve en trajik Corsair'ıdır; eskiden Iyanden'in — Aeldari craftworld'ü — amirali olan ve korsanlığa dönen Yriel, Aeldari'nin en trajik ve en cesur savaşçısıdır — onlar, Aeldari'nin en ünlü ve en trajik Corsair'ıdır. Prince Yriel'in en büyük özelliği, onun trajedisidir — onlar, bir amiralin korsanlığa dönüşünün en trajik halidir ve onların varlığı, Aeldari'nin en büyük trajedisinin kanıtıdır; bir Yriel, hem bir savaşçı hem de bir korsandır ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Prince Yriel'in en ünlü özelliği, onun Iyanden'in eski amiralı olmasıdır — onlar, bir craftworld'ün en yüksek rütbeli üyesinin
+Prince Yriel, Aeldari'nin en ünlü ve en tehlikeli figürlerinden biridir — Iyanden'in eski Corsair Prince'i ve Aeldari'nin en önemli figürlerinden biridir. Yriel, Aeldari'nin en ünlü ve en tehlikeli figürlerinden biridir; onun liderliği ve savaş yetenekleri, Aeldari'nin en önemli ve en tehlikeli güçlerinden biridir. Prince Yriel, Aeldari'nin en ünlü ve en tehlikeli figürü olarak kalır — onun hikâyesi, Aeldari'nin en önemli ve en tehlikeli figürlerinin simgesidir.
 
 ## Zafer, Sürgün ve Eldritch Raiders
 

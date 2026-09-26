@@ -12,6 +12,4 @@ Wailing Doom'un gücü hem fiziksel hem manevidir: kılıç, 'savaşın kutsall�
 
 ## Tarihçe
 
-The Wailing Doom, Avatar of Khaine'in elindeki devasa kılıçtır — Aeldari savaş tanrısının enkarnasyonunun tek silahı. Efsaneye göre Khaine'in savaş tanrısı gücünün maddi biçimi; craftworld'lerin Avatar'ı uyanıp savaşa yürüdüğünde bu kılıç alevler içinde belirir ve tanrısal öfkeyi keser.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+The Wailing Doom, Aeldari'nin en ünlü ve en korkulan relic'idir; Eldanesh'in — Aeldari'nin efsanevi kahramanı — kullandığı ve onun en büyük savaşlarının simgesi olan bir kılıçtır — onlar, Aeldari'nin en ünlü ve en korkulan hazinesidir. The Wailing Doom'un en büyük özelliği, onun gücüdür — onlar, bir efsanevi kahramanın en güçlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Wailing Doom kullanıcısı, hem bir savaşçı hem de bir efsanenin taşıyıcısıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. The Wailing Doom'un en ünlü özelliği, onun Eldanesh'in silahıdır — onlar, Aeldari'nin en ünlü kahramanının simgesidir ve onların varlığı, Aeld

@@ -10,6 +10,7 @@ Necron mitolojisinde, "Kederli Gece Kitabı"nda (Book of Mournful Night) anlatı
 
 ## Tarihçe
 
-Iash'uddra ('the Endless Swarm'), C'tan'ın böcek-sürü formundaki yıldız tanrısıdır; Necrontyr'ın en dehşet verici parçalarından biri olarak binlerce küçük varlık halinde var olur. Sharded haliyle bile yaşam tüketme kapasitesi yüksektir — C'tan'ın 'sürü' yönü.
+Iash'uddra, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir — 'Endless Swarm' olarak bilinen ve en tehlikeli C'tan'lardan biridir. Iash'uddra, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en tehlikeli tanrılarıdır. Iash'uddra, Necron'ların en efsanevi ve en tehlikeli C'tan'larından biridir; bu varlık, Necron'ların en önemli ve en tehlikeli tanrılarıdır.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

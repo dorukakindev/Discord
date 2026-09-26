@@ -15,7 +15,7 @@ Ynnead'in hikâyesi geçmişte değil, gelecekte yazılacaktır. Kehanete göre 
 
 ## Tarihçe
 
-Ynnead, Aeldari'nin en ünlü ve en umutlu tanrısıdır; ölümün tanrısı olan ve Aeldari'nin ölü ruhlarını toplayan Ynnead, Aeldari'nin en umutlu ve en önemli varlığıdır — onlar, Aeldari'nin en ünlü ve en umutlu tanrısıdır. Ynnead'ın en büyük özelliği, onun umududur — onlar, Aeldari'nin ölü ruhlarını toplayan ve onları Slaanesh'ten koruyan en umutlu tanrıdır ve onların varlığı, Aeldari'nin en büyük umudunun kanıtıdır; bir Ynnead takipçisi, hem bir savaşçı hem de bir inanan'dır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Ynnead'ın en ünlü özelliği, onun 'ölüm tanrısı' olmasıdır — onlar, Aeldari'nin ölü ruhlarının koruyucusudur ve onların varlığı, Aeldari'nin en büyük umudunun kanıtıdır. Ynnead, Aeldari'nin en ünlü ve en umutlu tanrısıdır — onlar, bir umudun ve Aeldari'nin en büyük gücünün somut halidir.
+Ynnead, Aeldari'nin ölü ruhlarının toplamı olan 'Whispering God' — henüz tam doğmamış Eldar ölü tanrısıdır; Infinity Circuit'lerde biriken milyarlarca ruhun kolektif bilincidir. Eldrad Ulthran'ın Slaanesh'e karşı en büyük kozu olarak tasarlanmıştır: Ynnead uyandığında Slaanesh'i yenecek ve Eldar'ı kurtaracaktır — ama uyandırılması neredeyse tüm Eldar ruhlarının tüketilmesini gerektirir. 'The Fracture' (M41 sonu) sırasında Ynnead kısmen uyandı ve Ynnari hareketi doğdu; Yvraine, Visarch ve Triumvirate of Ynnead onun şampiyonlarıdır. Psychic Awakening döneminin merkezi figürüdür.
 
 ## Kanon Notu
 

@@ -15,4 +15,4 @@ Biel-Tan'ın ünü, Eldar'ın en parlak savaşçılarını ürettiğinden gelir 
 
 ## Tarihçe
 
-Biel-Tan, Asuryani'nin 'Kılıç Rüzgarı' craftworld'üdür; askeri üstünlükle ve Aspect Warrior'larının çokluğuyla ünlüdür. Galaksinin en savaşkan Eldar craftworld'ü — 'yeşil savaş lordları' olarak bilinirler ve düşüşlerini sa
+Biel-Tan, Aeldari ırkının en büyük ve en askeri Craftworld'lerinden biridir; onun savaş geleneği ve militarist yapısıyla — Aeldari'nin en organize ve en savaşçı evidir — onlar, Aeldari'nin en disiplinli ve en ölümcül evidi

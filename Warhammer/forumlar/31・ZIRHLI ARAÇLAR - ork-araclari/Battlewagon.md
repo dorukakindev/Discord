@@ -16,7 +16,7 @@ Bir Warboss'un ve onun en iri Nob'larının savaşa giderken bindiği, üstü t�
 
 ## Tarihçe
 
-Battlewagon'lar Ork ordularının zırhlı çekirdeğini oluşturur. Kimi Mek'ler ön tarafa, önündeki her şeyi ezmek için dev silindirler (deff rolla) takar; kimileri taşıma bölmesini tamamen silahlarla doldurur. Her Battlewagon, onu yapan Mek'in ve ona binen Warboss'un kişiliğini taşır.
+Battlewagon, Ork'ların en büyük ve en tehlikeli savaş araçlarından biridir — ağır zırhlı ve silahlarla donatılmış bir savaş aracıdır. Battlewagon, Ork'ların en büyük ve en tehlikeli savaş araçlarından biridir; bu araç, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Battlewagon, Ork'ların en büyük ve en tehlikeli savaş araçlarından biridir; bu araç, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

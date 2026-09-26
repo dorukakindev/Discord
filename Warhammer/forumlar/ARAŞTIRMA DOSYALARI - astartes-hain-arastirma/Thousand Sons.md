@@ -31,6 +31,10 @@ Hayatta kalan tek bilinçli üyeler, kafir psişik güçlerde inanılmaz dereced
 
 ### Prospero (Eski)
 
+## Tarihçe
+
+Thousand Sons, Chaos'un en tehlikeli ve en güçlü Legion'larından biridir — Magnus the R
+
 **Prospero**, Thousand Sons'un eski ana gezegeniydi. **Tizca**'nın merkezi, gelişmiş bir medeniyetti. Magnus burada büyük bir kütüphane, **Prospero'nun Pyramids of Tizca**'sını inşa etti. **Space Wolves** tarafından yok edildi.
 
 ### Sortiarius (Mevcut)

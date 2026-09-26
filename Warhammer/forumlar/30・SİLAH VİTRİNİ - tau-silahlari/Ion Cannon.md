@@ -19,4 +19,10 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 ## Not
 Tek atışlık zırh delici değil, sürdürülebilir ateş baskısıdır — düşmanı öldürmekten önce paralize etmek için tasarlanmıştır.
 
+
+## Tarihçe
+
+Ion Cannon, T'au İmparatorluğu'nun en ölümcül ve en büyük silahıdır — iyon enerjisi kullanan bir toptur. Bu silah, hedefe yoğun bir iyon enerjisi gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Ion Cannon, T'au'nun en ölümcül ve en büyük silahıdır; bu silah, T'au'nun en önemli ve en büyük silahıdır. Silah, T'au İmparatorluğu'nun en ölümcül ve en büyük silahı olarak kalır.
+
+
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

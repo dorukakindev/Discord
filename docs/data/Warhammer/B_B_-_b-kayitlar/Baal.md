@@ -25,7 +25,7 @@ Sanguinala gibi Imperial bayramlar ve Baal'a yönelen hac gelenekleri, sistemin 
 
 ## Tarihçe
 
-Baal, Baal Sistemi'ndeki Blood Angels'ın nominal homeworld'üdür; kendisi kuru, tozlu bir Desert World'dür — mutantlar ve vahşi hayvanlar dışında pek yerleşik değildir. İki uydusu Baal Prime ve Baal Secundus önemli insan yerleşimleri barındırır ve bir zamanlar 'cennet'ti. Hi
+Baal, Blood Angels'ın Chapter yurdu olan ve İmparatorluğun en trajik ve en asil dünyasıdır; onun çöl ve kaya yapısıyla — Blood Angels'ın sert ve asil yapısının somut halidir — onlar, bir Legion'un evinin ve onların ruhunun merkezidir. Baal'ın en büyük özelliği, onun trajedi
 
 ## Adaylar ve Sınav
 Blood Angels, adaylarını Baal Prime ve Baal Secundus'un kabilelerinden toplar. Radyasyonun ve mutasyonun bu denli yaygın olduğu bir ortamda Chapter'ın öncelikle saf, sağlıklı ve dayanıklı gençleri araması, seçimi baştan zalim bir eleme yapar: kabileler arası savaşlar, çölün kendisi ve Sanguinary Priest'lerin gözetimindeki sınavlar, adayların büyük bölümünü daha Arx Angelicum'a ulaşmadan geride bırakır. Sınavın hangi aralıklarla, hangi aşamalarla yapıldığı konusunda farklı edition kaynakları aynı ayrıntıyı vermez; ansiklopedi burada tek bir ritüel sırası dayatmaz.

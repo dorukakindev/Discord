@@ -15,7 +15,7 @@ Dark Prince ve Lord of Excess unvanlarıyla anılan Slaanesh; haz, aşırılık,
 
 ## Tarihçe
 
-Slaanesh, Chaos'un en gizli ve en ayartıcı tanrısıdır; zevk, acı ve aşırılığın tanrısı olan ve onun en gizli operasyonlarını yöneten Slaanesh, Chaos'un en gizli ve en ayartıcı gücüdür — onlar, Chaos'un en gizli ve en ayartıcı tanrısıdır. Slaanesh'in en büyük özelliği, onun ayartıcılığıdır — onlar, zevk ve acının tanrısıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Slaanesh takipçisi, hem bir savaşçı hem de bir aşırılıkçıdır ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Slaanesh'in en ünlü özelliği, onun Aeldari'nin yaratmasıdır — onlar, Aeldari'nin aşırılığından doğan ve onları yiyen en korkulan tanrıdır ve onların varlığı, Chaos'un en büyük tehdidinin kanıtıdır. Slaanesh, Chaos'un en gizli ve en ayartıcı tanrısıdır — onlar, bir ayartıcının ve Chaos'un en büyük tehdidinin somut halidir.
+Slaanesh, 'Dark Prince' — haz, aşırı, mükemmeliyet ve acının Chaos tanrısıdır; Eldar düşüşünün doğrudan ürünüdür. Aeldari'nin dekadanlığının biriktiği psychic enerji Slaanesh'i doğurdu; doğumu tüm Eldar ırkının ruhlarını yuttu ve Eye of Terror'u açtı. Emperor's Children ve Fulgrim'in hamisidir; Lucius the Eternal, Doomrider ve Keepers of Secrets onun hizmetindedir. Slaanesh, Khorne'un 'saf şiddet' zıddı olarak 'saf his' arar — ses, renk, acı ve haz arasında sınır tanımaz. Ynnead'in doğuşu onun Eldar üzerindeki hakkını kıran tek tehdittir; '6' sayısıyla bağlıdır.
 
 ## Teknik / Biyolojik Özellikler
 

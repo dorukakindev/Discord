@@ -60,4 +60,8 @@ Great Rift'in açılmasından sonra pek çok Chapter gibi Black Dragons'ın da P
 **Kaynaklar:** *Codex: Armageddon*; *Codex: Space Marines*
 **Çapraz:** <#1551637740049670195>, <#1551650329240674335>, gene-seed, cursed-founding, <#1551643990196232303>, <#1551815304252887041>
 
+## Tarihçe
+
+Black Dragons, Salamanders'ın soyundan geldiği düşünülen bir Space Marine Chapter'ıdır — 21st Founding döneminde kurulmuş bir Chapter'dır. Black Dragons, gene-seed'lerindeki mutasyon nedeniyle kemik çıkıntıları geliştirir; bu mutasyon, Chapter'ın en ayırt edici özelliğidir. Black Dragons, İmparatorluk'un en tartışmalı ve en gizli Chapter'larından biridir; onların mutasyonu, İmparatorluk'un en tartışmalı ve en gizli güçlerinin simgesidir. Black Dragons, İmparatorluk'un en tartışmalı ve en gizli Chapter'ı olarak kalır — onların mutasyonu, İmparatorluk'un en tartışmalı ve en gizli güçlerinin simgesidir.
+
 ​

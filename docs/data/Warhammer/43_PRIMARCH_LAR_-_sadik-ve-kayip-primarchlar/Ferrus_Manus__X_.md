@@ -15,7 +15,7 @@ Medusa'nın "Gorgon"u. Zayıflığa tahammülsüz, öfkesi çabuk parlayan ama I
 
 ## Tarihçe
 
-Ferrus Manus, Iron Hands'ın en ünlü ve en trajik primarch'ıdır; Medusa'nın — Iron Hands'ın ev gezegeni — en zorlu savaşçısı olan ve Iron Hands'i kuran Manus, İmparatorluğun en trajik ve en ölümcül primarch'ıdır — onlar, Iron Hands'ın en ünlü ve en trajik primarch'ıdır. Ferrus Manus'un en büyük özelliği, onun gücüdür — onlar, İmparatorluğun en güçlü primarch'ıdır ve onların varlığı, İmparatorluğun en büyük gücünün kanıtıdır; bir Manus, hem bir primarch hem de bir savaşçıdır ve onların savaşı, hem fiziksel hem de trajik bir mücadeledir. Ferrus Manus'un en ünlü özelliği, onun Isstvan V'deki ölümüdür — onlar, bir primarch'ın Fulgrim tarafından öldürülmesinin en trajik halidir ve onların varlığı, İmparatorluğun en büyük trajedisinin kanıtıdır. Ferrus Manus, Iron Hands'ın en ünlü ve en trajik primarch'ıdır — onlar, bir trajedinin ve İmparatorluğun en büyük trajedisinin somut halidir.
+Ferrus Manus (X), Iron Hands Legion'unun primarch'ı ve İmparator'un onuncu oğludur — 'Gorgon' olarak bilinen ve metal elleriyle ünlü primarch'tır. Manus, Medusa gezegeninde yetişti ve İmparatorluk'un en sert ve en disiplinli Legion'unu oluşturdu; Heresy sırasında İmparator'a sadık kaldı. Manus, Isstvan V Drop Site Katliamı'nda Fulgrim tarafından öldürüldü; onun ölümü, Horus Heresy'nin en trajik anlarından biriydi ve Iron Hands'in en büyük kaybıydı. Manus, İmparatorluk'un en trajik ve en efsanevi primarch'larından biri olarak kalır — onun ölümü, İmparatorluk'un en büyük kayıplarından biridir.
 
 ## Kanon Notu
 

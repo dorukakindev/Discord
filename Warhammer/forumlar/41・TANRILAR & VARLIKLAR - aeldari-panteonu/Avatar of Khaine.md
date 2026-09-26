@@ -16,6 +16,6 @@ Avatar of Khaine, Aeldari savaş tanrısı Khaine'in parçalanmış ruhunun bir 
 
 ## Tarihçe
 
-Avatar of Khaine, Aeldari savaş tanrısı Khaine'in parçalanmış ruhunun bir kısmını taşıyan dev Wraithbone figürüdür. Craftworld'ün merkezindeki kafeste uykuda durur; Bloody-Handed ritüeliyle uyanır ve savaşa yürür — elinde Wailing Doom, her adımında kan izi bırakan yaşayan efsanedir.
+Avatar of Khaine, her Eldar craftworld'ünün çekirdek odasında bulunan ve savaş zamanında uyandırılan, Khaine'in son cansı parçası — canlı-metal bir savaş tanrısı heykelidir. Bir 'genç savaşçı' (Young King) Avatar'ın içine girer ve ruhu onunla bütünleşir; uyanan Avatar Wailing Doom'u taşır ve dokunamayacağı neredeyse hiçbir düşman yoktur. Fall of the Eldar'ın ardından Khaine'in parçalanan bedeninden arta kalan son 'ateş' — Biel-Tan, Saim-Hann ve Iyanden gibi craftworld'ler savaşa Avatar ile girer. Magnus, Leman Russ ve diğer primarch'ların bile zorlanacağı bir varlıktır; Eldar'ın fiziksel tanrı-yadigârıdır.
 
 -# Kaynaklar: *Codex: Aeldari*

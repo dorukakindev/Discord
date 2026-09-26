@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/8/86/Lightning.png/revisio
 İki elde şimşek pençesi; kalkan yok, menzil yok, yalnızca saldırı. Düşman hattına dalan Terminatörün kıyma makinesi.
 
 ## Tarihçe
-Tek bir Lightning Claw bile korkunçtur; çifti ise bir kıyma makinesidir. İki pençeyle dövüşen Terminatör, kalkanı ve menzilli silahı tamamen reddeder: var olma amacı, düşman hattına dalıp güç alanlı bıçaklarla et ve zırh ayırt etmeden biçmektir. Assault Terminatörlerin ve Vanguard kıdemlilerinin bu donanımı, taşıyanın hayatta kalmayı değil öldürmeyi önceliklediğini herkese ilan eder.
+
+Paired Lightning Claws, Space Marines'in en ölümcül yakın dövüş silahlarından biridir — iki lightning claw'ın birlikte kullanımıdır. Bu silahlar, enerji alanıyla çevrili pençeler şeklindedir ve tek vuruşta bir Space Marine'in zırhını bile kesebilecek kadar güçlüdür; yakın mesafe çatışmalarda son derece etkilidir. Paired Lightning Claws, özellikle Assault birliklerinin ve İmparatorluk'un en hızlı birliklerinin tercihidir; bu silahlar, İmparatorluk'un en ölümcül yakın dövüş silahlarından biri olarak kabul edilir. Silahlar, Space Marines'in en hızlı ve en ölümcül silahlarından biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

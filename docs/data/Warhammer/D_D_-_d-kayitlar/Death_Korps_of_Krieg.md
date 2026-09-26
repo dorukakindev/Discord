@@ -36,6 +36,10 @@ Alaylar içinde öne çıkan birimler de bu doktrine hizmet eder. Ağır zırhl�
 ## Büyük Savaşlar
 Death Korps'un tarihindeki en büyük savaş, M41'in 813–830 yılları arasına yerleştirilen **Siege of Vraks**'tır. Apostate Cardinal Xaphan'ın elindeki armoury world'ü geri almak için gönderilen Krieg kuşatma ordusu, Lord Commander **Zuehlke**'nin komutasında on yedi yıl boyunca siper siper ilerledi; Red Corsairs, Alpha Legion ve sonunda Khorne daemonlarıyla yüzleşti. Vraks, Krieg'in kimliğini bugünkü okuyucu kültüründe biçimlendiren savaştır. Krieg alayları bunun dışında da Imperium'un sayısız kuşatmasında görev almıştır; ancak bu savaşların tek tek dökümü kaynaklarda aynı ayrıntıyla verilmez.
 
+## Tarihçe
+
+Death Korps of Krieg, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biridir — Krieg gezegeninin ölüm kültüyle yetişmiş askerlerdir. Krieg, İmparatorluk'a ihanet ettiği için İmparatorluk tarafından yok edilmiş bir gezegendir; hayatta kalanlar, İmparator'a olan borçlarını ödemek için sürekli savaşır ve ölür. Death Korps, siper savaşı ve kuşatma savaşlarında efsanevidir; alaylar, ölümü umursa
+
 ## Great Rift Sonrası / Güncel Durum
 Great Rift'in ardından Krieg alayları Astra Militarum'un geniş cephelerinde savaşmayı sürdürür; güncel *Codex: Astra Militarum* onları ordunun karakteristik alay gelenekleri arasında anar. Krieg dünyasının kendisinin Great Rift sonrasındaki durumu ve alayların Indomitus Crusade'deki belirli görevleri, yayımlanmış kaynaklarda ayrıntılı işlenmiş değildir; arşiv burada boşluğu doldurmaz.
 

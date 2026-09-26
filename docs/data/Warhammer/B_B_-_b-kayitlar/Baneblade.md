@@ -11,7 +11,8 @@ Astra Militarum'un en büyük üretim süper-ağır tankı. On bir silah yuvası
 - **Köken:** İmparatorluk Dökümhaneleri
 
 ## Tarihçe
-Baneblade kalıbı Karanlık Teknoloji Çağı'na uzanır ve STC deseni binlerce yıldır üretilir. Armageddon, Cadia ve sayısız cephede güç merkezleri olarak görev yaptı; Shadowsword ve Stormhammer gibi varyantları Titan-avcılığı ve kuşatma rollerine uyarlandı.
+
+Baneblade, İmparatorluk'un en büyük ve en güçlü savaş tankıdır — süper-ağır tank sınıfının en ünlü örneğidir. Baneblade, İmparatorluk'un en büyük ve en güçlü savaş makinelerinden biridir; bu tank, İmparatorluk'un en önemli ve en güçlü savaş makineleridir. Baneblade, İmparatorluk'un en büyük ve en güçlü savaş tankıdır; bu tank, İmparatorluk'un en önemli ve en güçlü savaş makinelerinden biridir.
 
 ## Özellikler
 Ana Baneblade topu, koaksiyel otomatik top, iki yan sponson grubu (lascannon + ağır bolter) ve Demolisher topu taşıyabilir. 10 kişilik mürettebat, ~300 ton ağırlık.

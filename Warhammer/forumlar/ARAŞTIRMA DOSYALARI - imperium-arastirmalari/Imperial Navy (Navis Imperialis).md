@@ -231,6 +231,10 @@ Diğer İmparatorluk bölümleri için savaş gemilerini üretmekle görevli ola
 
 ## İnzibat Gemileri
 
+## Tarihçe
+
+Navis Imperialis, İmparatorluk'un yıldız filosu — Astra Militarum'u taşıyan, kuşatmaları be
+
 İnzibat genellikle işlerini yapmak için **gemiler ödünç alır**. Ancak, her İnzibatçının hayatında tanıkların bir yük olduğu ve tüm İmparatorluk Donanması mürettebatını idam etmenin çok fazla olabileceği bir zaman gelir. Çözüm: Kendi Donanmanıza sahip olmak. Yine de, bu gemiler nadirdir ve görevden göreve atanır. Genellikle ilgili Ordo'lara bağlı olarak **Deathwatch**, **Grey Knights**, **Adepta Sororitas** ve/veya **Tempestus Scions** taşır.
 
 - **İnzibatçı Kara Gemisi**: Bir **Strike Kruvazörü** ile **Battlecruiser** aşık olduğunda ne olur? **Battleship'ten** daha güçlü yavruları yaratırlar.

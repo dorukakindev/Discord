@@ -10,6 +10,6 @@ Craftworld Aeldari (kendilerine Asuryani derler), kadim Aeldari ırkının üç 
 
 ## Tarihçe
 
-Asuryani; yaşayan Eldar'ın ana gövdesi, craftworld'lerde yaşayan disiplinli halk. Parçalanmış ama dayanıklı — gerçek Eldar uygarlığının kalbi.
+Craftworld Aeldari, Fall of the Eldar'dan kaçan ve dev 'worldship'lerde yaşayan Eldar kolonileri — Iyanden, Biel-Tan, Saim-Hann, Ulthwé ve Alaitoc gibi devasa gemi-şehirlerde hayat süren medeniyetin ana kolu. Aspect Warriors, Infinity Circuit ve Seer Council kültürü bu kolun kalbidir; her craftworld kendi 'yolunu' izler. Düşüş sonrası 'ölen ama vazgeçmeyen' medeniyetin simgesi — Craftworld'ler hem sığınak hem de yaşayan anıttır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

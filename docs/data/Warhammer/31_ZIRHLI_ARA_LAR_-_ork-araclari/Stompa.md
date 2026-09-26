@@ -16,7 +16,7 @@ Ork'lar için Stompa yalnızca bir savaş makinesi değil, yürüyen bir tanrı 
 
 ## Tarihçe
 
-Stompa'lar, yeterince büyük bir Waaagh! toplandığında Mek'lerin topluca girişebildiği projelerdir. Gargant'lardan küçük olsalar da Ork ordularının en ağır unsurları arasında yer alır ve Imperial Titan'larına karşı kaba bir yanıt olarak görülür.
+Stompa, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir — dev bir yürüyen savaş makinesidir. Stompa, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir. Stompa, Ork'ların en büyük ve en tehlikeli savaş makinelerinden biridir; bu makine, Ork'ların en önemli ve en tehlikeli savaş güçlerinden biridir.
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*
 

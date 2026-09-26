@@ -47,4 +47,8 @@ Kairos Fateweaver, Games Workshop'un Chaos Daemons'ı 2008'de Warhammer 40,000 v
 **Kaynaklar:** *Codex: Chaos Daemons*; *Gathering Storm III: Rise of the Primarch*; *Warhammer: Daemons of Chaos*; *Battletome: Disciples of Tzeentch*
 **Çapraz:** <#1551647728692633643>, <#1551654107058540595>, <#1551809294750449746>, <#1551808704901423186>, <#1551814468458258434>, <#1551816657691746335>, <#1551809699312181339>
 
+## Tarihçe
+
+Kairos Fateweaver, Tzeentch'in en ünlü ve en korkulan Greater Daemon'ıdır; iki başlı ve geleceği gören en güçlü Oracle olan Kairos, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Tzeentch'in en güçlü ve en gizli daemon'udur. Kairos'un en büyük özelliği, onun kehanetidir — onlar, geleceği gören ve Tzeentch'in en güvenilir
+
 ​

@@ -16,7 +16,7 @@ Hem mevki simgesi hem de enerji huzmeleri ateşleyebilen bir silah olarak kullan
 
 ## Tarihçe
 
-Necron Lord'ları, Overlord'lar ve Cryptek'ler arasında yaygındır. Necron soyluluğunun kadim görgüsü ve törenleri, biyotransferansın ardından bile bu asalarda yaşamaya devam eder.
+Staff of Light, Necron'ların en kutsal ve en ölümcül silahıdır — ışık enerjisi kullanan bir asa'dır. Bu silah, Necron'ların en yüksek rütbeli figürlerinin — Cryptek'lerin ve Necron Lord'larının — kullandığı bir silahtır; tek vuruşta bir Greater Daemon'u bile etkisiz hale getirebilecek kadar güçlüdür. Staff of Light, Necron'ların en kutsal ve en ölümcül silahıdır; bu silah, Necron'ların en önemli ve en kutsal silahıdır. Silah, Necron'ların en kutsal ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 

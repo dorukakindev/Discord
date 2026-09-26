@@ -16,6 +16,6 @@ Astral Knights, M40'te Necron World Engine'i durdurmak için son birliklerini in
 
 ## Tarihçe
 
-Astral Knights, M40'te Necron World Engine'i durdurmak için son birliklerini intihar saldırısına süren Chapter'dır: gemileriyle World Engine'in içine daldılar ve içeriden hasara yol açarak Imperial Navy'nin işini bitirmesini sağladılar. Chapter neredeyse tamamen yok oldu; bugün İmparatorluk'un 'tam fedakârlık' sembollerinden biridir.
+Astral Knights, Space Marines'in en trajik ve en efsanevi Chapter'larından biridir — İmparatorluk'un en büyük fedakârlıklarından birini yapmış bir Chapter'dır. Astral Knights, bir Space Hulk'u yok etmek için neredeyse tamamen yok edildi; Chapter'ın fedakârlığı, İmparatorluk'un en büyük kahramanlık hikâyelerinden biridir. Astral Knights, İmparatorluk'un en trajik ve en efsanevi Chapter'larından biri olarak kalır; Chapter, İmparatorluk'un en büyük fedakârlık hikâyelerinden birinin kahramanıdır.
 
 -# Kaynaklar: *Codex: Space Marines*; Warhammer 40,000 — Fandom / Lexicanum derlemesi

@@ -8,6 +8,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/6/61/Sister_Repentia.jpg/r
 İnsan boyunda iki elli zincir kılıç; hantal ama isabet ettiğinde tank bile yarılır. Kefaret arayan fanatiklerin silahıdır.
 
 ## Tarihçe
-Eviscerator, zincir kılıcın canavarlaşmış halidir: neredeyse insan boyunda, iki elle zor savrulan, güç alanıyla desteklenmiş bir kesim aracı. Ağırlığı ve hantallığı yüzünden profesyonel ordular ondan kaçınır; onu taşıyanlar inançla savrulanlardır. Sisters Repentia, günahlarının kefaretini bu silahla düşman zırhlısına saldırarak öder; Redemptionist kültlerin vaizleri ise onu yürüyen bir vaaz gibi taşır. İsabet ettiğinde sonuç, adının hakkını verir.
+
+Eviscerator, Space Marines'in en ölümcül yakın dövüş silahlarından biridir — devasa bir chainsword'dur. Bu silah, standart chainsword'dan çok daha büyük ve daha güçlüdür; tek vuruşta bir tankın zırhını bile kesebilecek kadar güçlüdür. Eviscerator, özellikle Sisters of Battle'ın Penitent Engine'lerinin ve İmparatorluk'un en ağır zırhlı birliklerinin tercihidir; bu silah, İmparatorluk'un en ölümcül yakın dövüş silahlarından biri olarak kabul edilir. Silah, İmparatorluk'un en büyük ve en ölümcül chainsword'u olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

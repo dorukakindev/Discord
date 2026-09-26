@@ -14,7 +14,7 @@ Büyük kalibreli, gürültülü ve kaba görünümlü bir Ork tüfeğidir. Orkl
 
 ## Tarihçe
 
-Ork Boyz'un en yaygın ateşli silahlarından biridir; her WAAAGH! sayısız shoota ile ilerler. Ork kabilelerinin her biri kendi zevkine göre silah yapar ve takas eder. Daha ağır biçimi big shoota, tabanca biçimi slugga'dır.
+Shoota, Ork'ların en yaygın ve en ölümcül silahıdır — otomatik bir silahtır. Bu silah, Ork'ların en yaygın silahıdır ve düşmanın en tehlikeli hedeflerini etkisiz hale getirir; tek atışta birkaç düşmanı etkisiz hale getirebilecek kadar güçlüdür. Shoota, Ork'ların en yaygın ve en ölümcül silahıdır; bu silah, Ork'ların en önemli ve en yaygın silahıdır. Silah, Ork'ların en yaygın ve en ölümcül silahı olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 
@@ -26,4 +26,4 @@ Bazı Imperium gözlemcileri, derme çatma Ork silahlarının Orkların ortak in
 
 -# Kaynaklar: *Codex: Orks — 10th Edition*; *Brutal Kunnin' — Mike Brooks*
 
--# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091013>
+-# İlişkili kayıtlar: <#1551759766966116383>, <#1551817830096310363>, <#1551814495138091

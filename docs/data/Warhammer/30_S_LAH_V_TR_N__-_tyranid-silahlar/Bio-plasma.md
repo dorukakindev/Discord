@@ -17,4 +17,8 @@ Plasma silahları hidrojen yakıtını yıldız sıcaklığına ısıtıp manyet
 ## Not
 Tyranid'in 'silahı' ayrı bir organizma değil, taşıyıcının kendi biyokimyasıdır — vücut içinde üretilip ağız/borulardan fışkırtılır.
 
+
+## Tarihçe
+
+Bio-plasma, Tyranid'lerin en ölümcül ve en gelişmiş silahıdır — biyolojik plazma silahıdır. Bu silah, hedefe yoğun bir biyolojik plazma enerjisi gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Bio-plasma, Tyranid'lerin en ölümcül ve en gelişmiş silahıdır; bu silah, Tyranid'lerin en önemli ve en gelişmiş silahıdır. Silah, Tyranid'lerin en ölümcül ve en gelişmiş silahı olarak kalır.
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

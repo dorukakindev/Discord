@@ -77,6 +77,10 @@ Khaine, Slaanesh'le savaşırken eşit güçte olduğunu kanıtlamış, ancak ga
 
 **Cegorach**, Benny Hill tarzında Slaanesh'ten kaçmış, Khaine'ye "sen halledersin" deyip güvenliğe sığınmıştır. Bugün zamanının çoğunu Black Library'de kitap okuyarak ve Ahriman'ı kapıdan çevirerek geçirir.
 
+## Tarihçe
+
+Aeldari — ya da Eldar — Fall of the Eldar'dan kaçan antik ırk; Craftworld'ler, Exodite dünyalar
+
 **Isha**, Nurgle tarafından kurtarılmış (ironik biçimde), şimdi Nurgle'un hastalıkları için test konusu olarak yaşamaktadır.
 
 ### Path Sistemi (Eldar Paths)

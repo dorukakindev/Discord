@@ -13,6 +13,6 @@ Güç silahları kesme yüzeyini bozucu enerji alanıyla kaplar; enerji alanı m
 
 ## Tarihçe
 
-Techmarine'in resmi silahı; Mechanicum ittifakının simgesi olan dev baltalı-boğumlu güç silahı. Hem savaş hem ritüel aracı — Omnissiah'a yeminin ve Chapter-Mars bağının metal halidir.
+Omnissian Axe, Adeptus Mechanicus'un en kutsal ve en ölümcül silahıdır — Omnissiah'ın adına yapılmış bir power axe'dir. Bu balta, Mechanicus'un en kutsal emanetlerinden biridir; Omnissian Axe, Mechanicus'un en yüksek rütbeli figürlerinin kullandığı bir silahtır. Bu balta, Mechanicus'un en efsanevi silahlarından biri olarak kabul edilir ve Omnissiah'ın iradesinin en önemli sembolüdür; Omnissian Axe, Adeptus Mechanicus'un en değerli emanetlerinden biri olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

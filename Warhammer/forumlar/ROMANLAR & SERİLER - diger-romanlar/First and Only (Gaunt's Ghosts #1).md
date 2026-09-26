@@ -17,4 +17,5 @@ Gaunt'un 'The Sabbat' seçilmesi, Vermilion Conspiracy ve Dercius'un ihaneti; Gh
 
 First and Only, Dan Abnett'in Gaunt's Ghosts serisinin ilk romanıdır — Gaunt'un Ghosts'unun hikâyesinin başlangıcıdır. Bu roman, Gaunt'un Ghosts'unun Sabbat Dünyaları Haçlı Seferi'ndeki hikâyesini anlatır; roman, Gaunt'un Ghosts'unun hikâyesinin başlangıcıdır. Bu roman, Gaunt'un Ghosts'unun hikâyesinin başlangıcıdır; roman, Gaunt'un Ghosts'unun en önemli hikâyesinin başlangıcıdır. Roman, Gaunt'un Ghosts'unun hikâyesinin başlangıcı olarak kalır.
 
+
 -# Kaynaklar: Black Library

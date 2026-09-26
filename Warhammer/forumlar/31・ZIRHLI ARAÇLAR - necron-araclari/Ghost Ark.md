@@ -16,7 +16,7 @@ Savaş alanında düşen Necron Warrior'larını toplayan, gövdesindeki düzene
 
 ## Tarihçe
 
-Ghost Ark, Necron piyade taşıyıcısı ve tamir platformudur; içindeki canlı-metal ocaklarında düşen Necron savaşçılarını onarıp tekrar savaşa salar. Aynı zamanda taşıdığı birlikleri sahaya indirir — hem nakliye hem yaşam-destek aracıdır.
+Ghost Ark, Necron'ların en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir — Necron Warrior'ları taşıyan ve onları onaran bir araçtır. Ghost Ark, Necron'ların en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül lojistik güçlerinden biridir. Ghost Ark, Necron'ların en tehlikeli ve en ölümcül taşıyıcı araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül lojistik güçlerinden biridir.
 
 ## Teknik Özellikler
 - Tip: Necron birim taşıyıcısı / destek aracı — hareketli onarım merkezi
@@ -28,4 +28,4 @@ Ghost Ark basit nakliye aracı değil 'canlandırma platformudur'; bir Ghost Ark
 
 -# Kaynaklar: *Codex: Necrons — 10th Edition*
 
--# İlişkili kayıtlar: <#1551759762193121282>, <#1551817348900589669>
+-# İlişkili kayıtlar: <#15517597621

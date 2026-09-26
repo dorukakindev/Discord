@@ -61,4 +61,8 @@ Novamarines, Ultramarines successor'ları arasında erken dönemden beri anılan
 **Kaynaklar:** *Codex: Space Marines*; *Imperial Armour Volume Nine: The Badab War – Part One*; *Dark Imperium — Guy Haley*; *Death of Integrity — Guy Haley*
 **Çapraz:** **kayıt**, **kayıt**, **kayıt**, **kayıt**, **kayıt**, **kayıt**, **kayıt**
 
+## Tarihçe
+
+Novamarines, Ultramarines'in soyundan gelen bir Space Marine Chapter'ıdır — Second Founding döneminde kurulmuş bir Chapter'dır. Novamarines, İmparatorluk'un en sadık ve en güvenilir Chapter'larından biridir; onların organizasyonu ve taktikleri, Ultramarines'in en önemli ve en güvenilir geleneğinin simgesidir. Novamarines, Ultramarines'in en sadık ve en güvenilir varislerinden biri olarak kalır — onların organizasyonu, Ultramarines'in en önemli ve en güvenilir geleneğinin simgesidir.
+
 ​

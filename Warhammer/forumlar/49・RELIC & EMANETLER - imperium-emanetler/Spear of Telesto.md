@@ -14,6 +14,4 @@ Spear'ın gücü, 'Sanguinius'un iradesinin' parçası olduğu söylenir — Cha
 
 ## Tarihçe
 
-Spear of Telesto, Blood Angels'ın en kutsal emaneti — Sanguinius'un kendisine atfedilen devasa güç mızrağıdır. Tehom'lu Eldar forge'larında dövüldüğü söylenir; ucu saf Warp enerjisiyle yanar. Sadece Chapter'ın en yüce şampiyonu taşıyabilir; Baal'daki Arx Angelicum'un en derin mahzenlerinde saklanır.
-
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+Spear of Telesto, İmparatorluğun en ünlü ve en kutsal relic'idir; Celestine'in — İmparatorluğun en ünlü azizesi — kullandığı ve onun en büyük savaşlarının simgesi olan bir mızraktır — onlar, İmparatorluğun en ünlü ve en kutsal hazinesidir. Spear of Telesto'nun en büyük özelliği, onun gücüdür — onlar, bir azizenin en güçlü silahıdır ve onların varlığı, İmparatorluğun en kutsal gücünün kanıtıdır; bir Spear of Telesto kullanıcısı, hem bir savaşçı hem de bir azizdir ve onların savaşı, hem fiziksel hem de ruhsal bir mücadeledir. Spear of Telesto'nun en ünlü özelliği, onun Celestine'in silahıdır — onlar, İmparato

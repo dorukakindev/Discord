@@ -16,7 +16,8 @@ Kızıl ve altın renkleriyle anılan, Dan Abnett'in *Titanicus* romanıyla tan�
 
 ## Tarihçe
 
-779.M41'de Forge World Orestes, Chaos Titan'larından oluşan bir hain Legio'nun saldırısına uğradı. Yerel Legio Tempestus'u desteklemek için gelen Invicta'nın müdahalesi savunmanın seyrini değiştirdi; ne var ki savaş yalnızca hainlere karşı değil, Orestes'in Mechanicus'u içindeki doktrin çatışmaları ve kendi dünyalarını yıkma pahasına verilen kararlar üzerinden de derinleşti. Roman, Titan savaşının bir forge world'ü nasıl yiyip bitirdiğini Princeps'lerin ve Moderati'lerin gözünden anlatır.
+Legio Invicta, 'The Invincible' — titan lejyonunun 'en ünlü' sadık birimi; 'The Emperor's wrath' olarak bilinen ve 'her savaşta' var olan 'en güvenilir' lejyon. 'Invicta' unvanı 'yok edilemez' anlamına gelir; 'The Invincible' olarak bilinen bu lejyon 'Terra'nın 'son' savunmasıdır. 'Invicta stands' — Legio Invicta'nın tek savaş çığlığı.
+
 
 -# Kaynaklar: *Titanicus — Dan Abnett*
 

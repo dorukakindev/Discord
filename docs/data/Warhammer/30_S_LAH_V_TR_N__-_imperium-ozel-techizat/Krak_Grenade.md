@@ -19,4 +19,7 @@ Anti-zırh patlayıcı — yoğunlaştırılmış patlamasıyla tank ve yapı he
 ## Not
 Frag'ten farklı olarak serpinti saçmaz; tüm patlama enerjisini tek yönde toplar. Piyadenin zırhlı hedeflere tek şansıdır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Krak Grenade, İmparatorluk'un en yaygın tank-savar el bombasıdır — zırhlı hedeflere karşı tasarlanmış bir el bombasıdır. Bu bomba, patladığında zırhlı hedeflere zarar veren bir patlama oluşturur; tek atışta bir tankın zırhını delebilecek kadar güçlüdür. Krak Grenade, İmparatorluk Muhafızı'nın ve Space Marines'in standart el bombasıdır; bu bomba, İmparatorluk'un en yaygın ve en ölümcül tank-savar silahı olarak kalır.

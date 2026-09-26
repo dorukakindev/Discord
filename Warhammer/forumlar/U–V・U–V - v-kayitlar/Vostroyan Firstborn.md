@@ -70,6 +70,10 @@ Great Rift'in açılmasının Vostroya'yı nasıl etkilediği, yayımlanmış ka
 **Yanılgı:** Vostroya Horus Heresy'de Horus'un safına geçti.
 **Kanon:** Vostroya hain olmadı; asker gönderme çağrısını geri çevirdi. Kefaretin nedeni bir ihanet değil, bu geri çekilmedir.
 
+## Tarihçe
+
+Vostroyan Firstborn, İmparatorluk Muhafızı'nın en eski ve en prestijli alaylarından biridir — Vostroya gezegeninin ilk doğan oğullarından oluşan birliklerdir. Vostroya, İmparatorluk'a olan borcunu ödemek için her aileden ilk doğan erkeği askere gönderi
+
 **Yanılgı:** Firstborn kefareti Krieg'in kefaretiyle aynı şeydir.
 **Kanon:** İki gelenek de kefaret temasını taşır; ama Vostroya'nın suçu Heresy'ye, Krieg'inki M40'taki bir isyana uzanır. Kefaretlerin biçimi ve ruhu da farklıdır.
 

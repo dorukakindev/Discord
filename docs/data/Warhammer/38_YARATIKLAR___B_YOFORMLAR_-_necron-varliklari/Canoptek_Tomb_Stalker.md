@@ -14,6 +14,7 @@ Savaşta Tomb Stalker, Gauss flux arc ve 'necrodermis' pençeleriyle zırhlı ar
 
 ## Tarihçe
 
-Necron'un mezar-kalelerini koruyan dev solucan-makine; Canoptek serisinin en büyüğü. Yeraltında kayar, duvarları deler — mezar dünyasının bağışıklık sistemi.
+Canoptek Tomb Stalker, 'Tomb World'ün 'tam otomatik' koruyucusu — devasa, multi-limbed bir Canoptek aracı; uyuyan Necron'ları korumak için 'son savunma' olarak tasarlanmıştır. 'Tomb' mekaniği ve 'phase' yeteneğiyle duvarlardan geçebilen bu dev, Imperium'un 'kazı' ekiplerinin karşılaştığı en büyük kabustur. 'The tomb awakens' — Tomb Stalker'ın hareketi Tomb World'ün uyandığının ilk işaretidir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

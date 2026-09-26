@@ -13,6 +13,10 @@ Ynnari'nin savaşta ölümle ilişkisi de bu inançtan beslenir. Onlar etraflar�
 
 Harekete bakış Aeldari dünyasında ikiye bölünmüştür. Bazıları onu Slaanesh'e karşı yüzyıllardır beklenen bir umut olarak görürken, pek çok Farseer ve Craftworld yöneticisi Ynnari'yi dogmayı tehlikeli biçimde aşan, belki de yeni bir felakete kapı aralayan bir sapkınlık sayar.
 
+## Tarihçe
+
+Ynnari, Ynnead'in uyanışıyla doğan Eldar mezhebi — 'ölü tanrının halkı'; Slaanesh'e karşı nihai koz olarak tasarlanmış bir 'üçüncü yol' hareketidir. Yvraine, Visarch ve Triumvirate of Ynnead önderliğinde; Craftworld, Drukhari ve Harlequin'lerin bile katıldığı 'birleşik Eldar' hayalidir. The Fracture ve Psychic Awakening sırasında Ynnead'in kısmen uyanması bu har
+
 ## Kökenler: Yvraine'in Yeniden Doğuşu
 
 Yvraine, Craftworld Biel-Tan'da doğmuş ve orada dansçılıktan Warlock'luğa, oradan savaşçılığa uzanan pek çok Path'i yürümüştür. Daha sonra bir Corsair filosunun önderi olarak ün kazanmış, fakat bir isyan onu Webway'e kaçmaya zorlamıştır. Yolculuğunun sonunda Commorragh'ın arenalarına düşen Yvraine, orada dövüşürken ölümün eşiğine geldi.

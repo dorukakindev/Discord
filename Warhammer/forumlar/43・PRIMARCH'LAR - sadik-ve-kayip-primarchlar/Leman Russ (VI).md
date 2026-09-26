@@ -15,7 +15,7 @@ Fenris'in Kurt Kralı ve Great Crusade'de Emperor'ın cellâdı olarak anılan P
 
 ## Tarihçe
 
-Diğer Legion'ların üstlenmek istemediği cezalandırma görevleriyle ün kazandı; Lion El'Jonson'la Dulan'da yaşadığı kavga iki Legion arasındaki kadim rekabetin kaynağı sayılır. Magnus'u Terra'ya getirme emri Horus'un müdahalesiyle cezalandırma seferine dönüşünce Prospero yakıldı. Alaxxes Nebula'da Alpha Legion karşısında ağır kayıplar verdi; Trisolian'da Horus'u yaraladı, ama kendisi de ağır yaralandı. Scouring'den sonra bir avuç yoldaşıyla bilinmeyen bir sefere çıkarak kayboldu.
+Leman Russ (VI), Space Wolves Legion'unun primarch'ı ve İmparator'un altıncı oğludur — 'Kurt Kral' olarak bilinen ve İmparatorluk'un en vahşi primarch'ıdır. Russ, Fenris gezegeninde yetişti ve İmparatorluk'un en vahşi ve en savaşçı Legion'unu oluşturdu; Heresy sırasında İmparator'a sadık kaldı ve Prospero'nun Yakılışı'nda Magnus'la savaştı. Russ, Heresy'den sonra kayboldu ve 'Wolftime'da geri döneceği söylenir; onun kayboluşu, Space Wolves'un en büyük sırrıdır. Russ, İmparatorluk'un en vahşi ve en efsanevi primarch'larından biri olarak kalır — onun kaderi, İmparatorluk'un en büyük sırlarından biridir.
 
 ## Kanon Notu
 

@@ -10,6 +10,7 @@ En ünlü miti, Khaine ile arasındaki anlaşmadır: Vaul, savaş tanrısı Khai
 
 ## Tarihçe
 
-Vaul, Aeldari'nin demirci ve zanaat tanrısıdır; panteonun 'smith' figürü olarak Aspect silahlarının ve craftworld'lerin efsanevi yaratıcısı sayılır. Slaanesh'le düşen tanrılardan — ama adı hâlâ Aeldari zanaatkârlığının kutsal adıdır.
+Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır; zanaatkârlık ve demirciliğin tanrısı olan ve Aeldari'nin en önemli figürü olan Vaul, Aeldari'nin en önemli ve en kutsal varlığıdır — onlar, Aeldari'nin en ünlü ve en önemli tanrısıdır. Vaul'ın en büyük özelliği, onun zanaatkârlığıdır — onlar, zanaatkârlık ve demirciliğin tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır; bir Vaul takipçisi, hem bir zanaatkâr hem de bir inanan'dır ve onların varlığı, Aeldari'nin en büyük geleneğinin somut halidir. Vaul'ın en ünlü özelliği, onun demircilik tanrısı olmasıdır — onlar, Aeldari'nin en önemli ve en kutsal zanaatkârının tanrısıdır ve onların varlığı, Aeldari'nin en büyük geleneğinin kanıtıdır. Vaul, Aeldari'nin en ünlü ve en önemli tanrısıdır — onlar, bir zanaatkârlığın ve Aeldari'nin en büyük geleneğinin somut halidir.
+
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

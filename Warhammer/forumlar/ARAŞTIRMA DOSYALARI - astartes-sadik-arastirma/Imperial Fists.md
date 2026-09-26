@@ -31,6 +31,8 @@ Gerçek **vanilla Marines**'tırler, en badass vanilla Marines'ler. Fiziksel ve 
 
 ## Tarih
 
+## Tarihçe
+
 ### Erken Tarih — Great Crusade
 
 Imperial Fists, Iron Warriors gibi kuşatma savaşı ustalarıydı. Ancak Warriors bu role babaları/büyükbabaları tarafından zorla sokulmuşken (talihsiz sonuçlarla), Imperial Fists gerçekten tasarım gereği bu rol için yapılmıştı. Kuşatma yöntemlerindeki farkı en iyi yöntemleri gösterir: **Iron Warriors** Death Korps of Krieg gibi kuşatma yapardı; **Imperial Fists** en iyi neyse onu kullanır, en ateşli olanı seçer, düşman savunmasında bir delik açar, sonra içeri fırtına gibi girip düşmanı yumruklar (veya "fisted" yapar). Taarruz, PTSD, stres yok; sadece blam ve bitti.

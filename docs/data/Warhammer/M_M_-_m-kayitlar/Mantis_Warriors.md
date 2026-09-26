@@ -67,4 +67,8 @@ Kesin olarak söylenebilecek olan, Mantis Warriors'ın Badab'ın gölgesini uzun
 **Kaynaklar:** *Imperial Armour Volume Nine: The Badab War — Part One*; *Imperial Armour Volume Ten: The Badab War — Part Two*
 **Çapraz:** <#1551811438547312645>, <#1551638913683034174>, <#1551638913955794954>, <#1551640215154597919>, <#1551809294750449746>, <#1551642688183603381>, <#1551640255218712688>
 
+## Tarihçe
+
+Mantis Warriors, Space Marines'in en trajik ve en efsanevi Chapter'larından biridir — Badab Savaşı'nın en önemli figürlerinden biridir. Mantis Warriors, İmparatorluk'un en trajik ve en efsanevi Chapter'larından biridir; onların Badab Savaşı'ndaki rolü ve kayıpları, İmparatorluk'un en trajik ve en önemli hikâyelerinin simgesidir. Mantis Warriors, İmparatorluk'un en trajik ve en efsanevi Chapter'ı olarak kalır — onların hikâyesi, İmparatorluk'un
+
 ​

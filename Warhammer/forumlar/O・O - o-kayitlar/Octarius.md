@@ -32,6 +32,10 @@ Great Rift'in açılmasından sonra Octarius'taki savaş, sektörün sınırlar�
 
 Octarian War'ın nihai sonucu yayımlanmış kanonda kesin olarak kapatılmış değildir. Savaşın galibi, eğer bir galip varsa, gelecekteki yayınlarda belirlenecektir.
 
+## Tarihçe
+
+Octarius, İmparatorluğun en büyük ve en tehlikeli savaş bölgesidir; onun Ork imparatorluğu ve Tyranid savaş bölgesi olmasıyla — İmparatorluğun en büyük savaşının merkezidir — onlar, İmparatorluğun en büyük ve en korkulan savaş bölgesidir. Octarius'un en büyük özelliği, onun savaşıdır — onlar, Ork'ların ve Tyranid'lerin en büyük savaşının merkezidir ve onların varlığı,
+
 ## Bilinen Yanılgılar ve SSS
 **Yanılgı:** Kryptman's Gambit başarılı oldu. **Kanon:** Plan, Leviathan'ın bir kolunu Imperial dünyalardan uzaklaştırdı; ancak iki xenos gücünün birbirini güçlendirmesiyle sonuçlandı ve sektörün tamamını istikrarsızlaştırdı.
 **Yanılgı:** Octarius tek bir gezegendir. **Kanon:** Octarius, bir sektörü ve orada kurulu büyük Ork imparatorluğunu tanımlar; savaş pek çok dünyaya yayılmıştır.

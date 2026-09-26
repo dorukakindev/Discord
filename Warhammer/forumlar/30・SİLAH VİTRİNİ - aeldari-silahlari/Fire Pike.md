@@ -18,4 +18,5 @@ Fire Dragon Exarch'larının taşıdığı, fusion gun'ın uzun namlulu ve daha 
 
 Fire Pike, Aeldari'nin en ünlü ve en ölümlü yakın dövüş silahıdır; onların Aeldari'nin en güçlü ve en ölümlü melta silahı olan ve onun en zorlu savaşlarını yapan Fire Pike, Aeldari'nin en güçlü ve en ölümlü silahıdır — onlar, Aeldari'nin en ünlü ve en ölümlü yakın dövüş silahıdır. Fire Pike'ın en büyük özelliği, onun gücüdür — onlar, Aeldari'nin en güçlü melta silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır; bir Fire Pike, hem bir silah hem de bir tank-savardır ve onların varlığı, Aeldari'nin en büyük silahının somut halidir. Fire Pike'ın en ünlü özelliği, onun Fire Dragons'ın kullanımıdır — onlar, Aeldari'nin en ölümlü tank-savar birliğinin en ölümlü silahıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Fire Pike, Aeldari'nin en ünlü ve en ölümlü yakın dövüş silahıdır — onlar, bir gücün ve Aeldari'nin en büyük silahının somut halidir.
 
--# Kaynaklar: *Codex: Eldar — 2nd
+
+-# Kaynaklar: *Codex: Eldar — 2n

@@ -12,4 +12,7 @@ Emperor's Tarot (İmparator'un Tarot'u), İmparatorluk'un 'kutsal kâhinlik' sis
 
 Tarot'un kullanımı evrenseldir: Space Marine'ler savaş öncesi, Inquisitor'lar karar öncesi ve sıradan vatandaşlar kader öncesi kart çeker — her çekim, İmparator'un 'cevabı' olarak yorumlanır. Emperor's Tarot'un tehlikesi, psikerlerin kullanımında gizlidir: warp-duyarlı kartlar, hem kehanet hem kanal olabilir; İmparatorluk'un 'kaderi anlama' aracı, aynı zamanda Kaos'un 'kaderi bozma' kapısıdır.
 
--# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi
+
+## Tarihçe
+
+Emperor's Tarot, İmparatorluk'un kaderi okumak için kullanılan 78 kartlık psi-aracı — her kart Warp'in yansımalarından birini temsil eder ve Sanctioned Psyker'lar tarafından kullanılır. Tarot'un 'Adept', 'Knight', 'Daemon' gibi arketipleri Heresy döneminden beri yol gösterici sayılır; Inquisition ve Navis Nobilite bunu resmi araç olarak kullanır. 'Reading the Emperor' — İmparator'un iradesini kartlardan okuma

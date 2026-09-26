@@ -186,6 +186,10 @@ Adeptus Mechanicus, İmparatorluğa **silah ve tech üretmenin** ötesinde kendi
 - **Ironstrider Ballistarii** — Tek bacaklı, uzun menzilli silahlı araçlar.
 - **Onager Dunecrawlers** — Zırhlı platformlar.
 
+## Tarihçe
+
+Adeptus Mechanicus, İmparatorluğun teknoloji ve makine kültüdür; Mars'ta yerleşik, kendi kanunlarına
+
 ### Collegia Titanica
 
 **Titan Lejyonları** — devasa, dünya-yok eden süper robotlar. Mechanicus bu titanları üretir ve işletir.

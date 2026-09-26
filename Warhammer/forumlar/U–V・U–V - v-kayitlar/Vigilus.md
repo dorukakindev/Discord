@@ -46,4 +46,8 @@ Vigilus, 8th Edition döneminde *Vigilus Defiant* (2018) ve *Vigilus Ablaze* (20
 **Kaynaklar:** *Vigilus Defiant*; *Vigilus Ablaze*; *War Zone Nachmund: Rift War*
 **Çapraz:** <#1551814400938082357>, <#1551809394226765939>, <#1551811342405599345>, <#1551759784821137419>, <#1551759766966116383>, <#1551815418619101185>, <#1551811393680838699>
 
+## Tarihçe
+
+Vigilus, İmparatorluk'un Büyük Yarık'ın iki yarısı arasındaki en önemli geçiş noktasıydı — 'Nachmund Gauntlet' olarak bilinen koridorun kilidi sayılıyordu. Gezegen, İmparatorluk Nihilus'un Imperialis Sanctus'la bağlantısını sağlayan neredeyse tek güvenli geçişti; bu yüzden Abaddon, Vigilus'u ele geçir
+
 ​

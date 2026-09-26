@@ -81,5 +81,9 @@ Kuşatmanın Heresy dönemi anlatılarıyla konuşması da dikkat çekicidir. So
 ## Yayın ve Retcon Notu
 *Storm of Iron*, Graham McNeill'in 2002'de Black Library'den çıkan ilk romanlarındandır ve o dönem için az rastlanır biçimde bir Traitor Legion'u ana karakter olarak ele aldı. Honsou'nun sonraki serüvenleri *Dead Sky Black Sun* ve *The Chapter's Due* gibi Ultramarines romanlarında ve Iron Warriors odaklı kısa anlatılarda sürer. Heresy dizisi Iron Warriors'ın 30K portresini genişletmiş, ama Hydra Cordatus anlatısını değiştiren bir yayın olmamıştır.
 
+## Tarihçe
+
+Siege of Hydra Cordatus, İmparatorluğun en zorlu ve en önemli kuşatmalarından biridir; Iron Warriors'ın Hydra Cordatus'a — bir Imperial kalesine — saldırısı ve İmparatorluğun en zorlu savunmasını yaptığı en büyük savaştır —
+
 **Kaynaklar:** *Storm of Iron — Graham McNeill*; *Dead Sky Black Sun — Graham McNeill*; *The Chapter's Due — Graham McNeill*; *Angel Exterminatus — Graham McNeill*
 **Çapraz:** <#1551637652569067542>, <#1551640212537479189>, <#1551650332029751500>, <#1551636479925559479>, uriel-ventris, <#1551814597168861256>, <#1551753458779029565>, <#1551753449878724689>

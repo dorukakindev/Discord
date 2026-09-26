@@ -15,7 +15,7 @@ https://static.wikia.nocookie.net/warhammer40k/images/3/3a/Canoptekspyder10.jpg/
 
 ## Tarihçe
 
-Canoptek Spyder, Necron'ların en gizli ve en ölümcül savunucusudur; bir Necron hanedanının en gizli koruyucusu olan ve onun en zorlu savaşlarını yapan Canoptek Spyder, Necron'ların en gizli ve en ölümcül varlığıdır — onlar, Necron'ların en gizli ve en ölümcül savunucusudur. Canoptek Spyder'ın en büyük özelliği, onun gizliliğidir — onlar, bir Necron hanedanının en gizli koruyucusudur ve onların varlığı, Necron'ların en gizli gücünün kanıtıdır; bir Canoptek Spyder, hem bir makine hem de bir hayalettir ve onların varlığı, Necron'ların en büyük tehdidinin somut halidir. Canoptek Spyder'ın en ünlü özelliği, onun örümcek görünümüdür — onlar, bir Necron'un en gizli ve en ölümcül koruyucusudur ve onların varlığı, Necron'ların en büyük gücünün kanıtıdır. Canoptek Spyder, Necron'ların en gizli ve en ölümcül savunucusudur — onlar, bir hayaletin ve Necron'ların en gizli gücünün somut halidir.
+Canoptek Spyder, Necron'ların en tehlikeli ve en ölümcül otomatik araçlarından biridir — Canoptek kontrol mekanizmasıyla yönetilen bir araçtır. Canoptek Spyder, Necron'ların en tehlikeli ve en ölümcül otomatik araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül otomatik güçlerinden biridir. Canoptek Spyder, Necron'ların en tehlikeli ve en ölümcül otomatik araçlarından biridir; bu araç, Necron'ların en önemli ve en ölümcül otomatik güçlerinden biridir.
 
 ## Teknik / Biyolojik Özellikler
 

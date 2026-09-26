@@ -41,6 +41,10 @@ Medusa, Iron Hands'in erken dönem sunumlarından beri yurtları olarak anılır
 **Kaynaklar:** *Codex: Space Marines — 10th Edition*; *Codex Supplement: Iron Hands — 8th Edition*; *Ferrus Manus: Gorgon of Medusa — David Guymer*; *Fulgrim — Graham McNeill*; *Codex: Eye of Terror*
 **Çapraz:** <#1551636519796867313>, <#1551649069817008243>, <#1551637652569067542>, <#1551811393680838699>, <#1551816635839549491>, <#1551815439078658154>
 
+## Tarihçe
+
+Medusa (resmen Medusa IV), Iron Hands'ın chapter homeworld'ü ve kayıp primarch'ları Ferrus Manus'un dünyasıdır; Eye of Terror'a tehlikeli yakın, sürekli karanlık ve kirli gökyüzlü sert
+
 ​
 
 ### Arka Plan

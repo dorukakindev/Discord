@@ -12,4 +12,4 @@ Calgar ve Celestine'in yönettiği İmparatorluk gücü, dünyayı 'resmen' kurt
 
 ## Tarihçe
 
-Vigilus'un Düşüşü, İmparatorluğun 41. binyılın sonlarında yaşadığı en önemli trajedilerden biridir. Vigilus, Imperialis'in önemli bir gezegeni olarak hem stratejik hem de kaynak açısından değer taşıyordu; ancak Abaddon'un saldırısıyla gezegenin düşmesi kaçınılmaz hale geldi. İmparatorluk kuvvetleri, Vigilus'u savunmak için birçok Space Marine Chapter'ını ve Imperial Guard birliğini bir araya getirdi; ancak Abaddon'un gücü ve Chaos'un sayısı, savunmayı aştı. Vigilus'un düşüşü, Imperialis'
+Vigilus'un Düşüşü (M41, Great Rift sonrası), 'Nachmund Gauntlet'ın kilit dünyası Vigilus'un Chaos, Genestealer ve Ork saldırısı altında kalması — 'The War of Beasts' ve 'The War of Nightmares' olayları. Marneus Calgar'ın komutasındaki savunma ve 'Aquilian Council'ın kurulması; Vigilus, Great Rift sonrası Imperium'un 'kırılganlığının' simgesidir. 'The Nachmund Gauntlet' hâlâ Imperium'un en tehlikeli sınırıdır.

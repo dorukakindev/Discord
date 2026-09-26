@@ -16,6 +16,6 @@ Incubi'nin en ünlü savaşçısı Drazhar, yüzünü ve geçmişini kimseye gö
 
 ## Tarihçe
 
-Drazhar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur; Striking Scorpions Aspect'inin en gizli ve en ölümcül üyesi olan Drazhar, Aeldari'nin en gizli ve en ölümcül savaşçısıdır — onlar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur. Drazhar'ın en büyük özelliği, onun gizliliğidir — onlar, Striking Scorpions'ın en gizli ve en ölümcül üyesidir ve onların varlığı, Aeldari'nin en gizli gücünün kanıtıdır; bir Drazhar, hem bir savaşçı hem de bir suikastçıdır ve onların savaşı, hem fiziksel hem de gizli bir mücadeledir. Drazhar'ın en ünlü özelliği, onun gizliliğidir — onlar, Aeldari'nin en gizli ve en ölümcül savaşçısıdır ve onların varlığı, Aeldari'nin en büyük gücünün kanıtıdır. Drazhar, Aeldari'nin en ünlü ve en gizli Phoenix Lord'udur — onlar, bir gizliliğin ve Aeldari'nin en gizli gücünün somut halidir.
+Drazhar, Drukhari'nin en tehlikeli ve en ölümcül figürlerinden biridir — 'Master of Blades' olarak bilinen ve Drukhari'nin en ölümcül savaşçısıdır. Drazhar, Drukhari'nin en tehlikeli ve en ölümcül figürüdür; onun kılıç ustalığı ve savaş yetenekleri, Drukhari'nin en önemli ve en ölümcül güçlerinin simgesidir. Drazhar, Drukhari'nin en tehlikeli ve en ölümcül figürü olarak kalır — onun yetenekleri, Drukhari'nin en önemli ve en ölümcül güçlerinin simgesidir.
 
 -# Kaynaklar: *Codex: Drukhari — 10th Edition*; *Psychic

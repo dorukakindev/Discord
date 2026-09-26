@@ -14,6 +14,7 @@ Yörüngeden atılan, bir gezegenin kabuğunu cehenneme çeviren Exterminatus si
 - Varyant: iki aşamalı sürüm, kalkanlı/baranmiş dünyalarda zırhı delip iç katmanlara ateşler
 
 ## Tarihçe
-Inquisition'un mutlak yok etme yetkisinin fiziksel karşılığıdır; tarihte Typhon, Calistos ve Thesme gibi dünyalarda kullanılmıştır. Bir Cyclonic Torpedo fırlatma emri gezegenin kaderini mühürler — sonrasında hiçbir kurtarma mümkün değildir.
+
+Cyclonic Torpedo, İmparatorluk'un en ölümcül ve en korkulan silahıdır — bir gezegeni tamamen yok edebilen Exterminatus silahıdır. Bu torpido, bir gezegenin atmosferini ve yüzeyini tamamen yakarak gezegeni yaşanmaz hale getirir; bu, İmparatorluk'un son çare olarak kullandığı en korkulan silahtır. Cyclonic Torpedo, Inquisition'ın Exterminatus emriyle kullanılır ve İmparatorluk'un en ölümcül silahı olarak kabul edilir; bu silah, bir gezegeni tamamen yok edebilecek kadar güçlüdür. Torpido, İmparatorluk'un en korkulan ve en ölümcül silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

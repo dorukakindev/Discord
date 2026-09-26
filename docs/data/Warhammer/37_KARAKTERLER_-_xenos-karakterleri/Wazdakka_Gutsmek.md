@@ -16,7 +16,8 @@ Wazdakka, hız tutkusunu bir inanç hâline getiren Speed Freeks kültürünün 
 
 ## Tarihçe
 
-Wazdakka Gutsmek, Ork Mekboy'u ve belki yaşamış en büyük Warbiker'dır — tamamen Speed Freek'lerden oluşan bir WAAAGH!'ın Warlord'u. 'Aporkalypse'in Bisikleti' üzerinde savaşan bu figür, hız tutkusunun Ork'taki zirvesidir; 'gökyüzünden bile hızlı' denen bu adam, tekerlekli WAAAGH! geleneğinin efsanesidir.
+Wazdakka Gutsmek, Ork'ların en efsanevi ve en tehlikeli figürüdür — 'Speed Freeks' lideridir. Bu figür, Ork'ların en efsanevi ve en tehlikeli figürüdür; Wazdakka Gutsmek, Ork'ların en efsanevi ve en tehlikeli figürüdür. Bu figür, Ork'ların en efsanevi ve en tehlikeli figürüdür; Wazdakka Gutsmek, Ork'ların en efsanevi ve en tehlikeli figürüdür. Figür, Ork'ların en efsanevi ve en tehlikeli figürü olarak kalır.
+
 
 -# Kaynaklar: *Codex: Orks*
 

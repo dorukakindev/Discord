@@ -14,7 +14,7 @@ Bir avuç Boy'u olabildiğince hızlı biçimde düşmanın yüzüne taşımak i
 
 ## Tarihçe
 
-Hıza tutkun Evil Sunz Klan'ı ve Speed Freeks grupları Trukk'ları özellikle sever. Pek çok Waaagh!'da Boyz, Trukk'larla ilk dalgayı oluşturur; araçların yolda parçalanması ya da devrilmesi Ork'lar için bir felaketten çok eğlencenin parçası sayılır.
+Trukk, Ork'ların en yaygın ve en tehlikeli taşıyıcı araçlarından biridir — Ork birliklerini taşıyan hızlı bir araçtır. Trukk, Ork'ların en yaygın ve en tehlikeli taşıyıcı araçlarından biridir; bu araç, Ork'ların en önemli ve en tehlikeli lojistik güçlerinden biridir. Trukk, Ork'ların en yaygın ve en tehlikeli taşıyıcı araçlarından biridir; bu araç, Ork'ların en önemli ve en tehlikeli lojistik güçlerinden biridir.
 
 ## Teknik / Biyolojik Özellikler
 

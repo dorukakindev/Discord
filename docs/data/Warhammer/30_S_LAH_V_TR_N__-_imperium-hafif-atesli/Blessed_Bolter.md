@@ -16,3 +16,7 @@ Godwyn-De'az kalıbı, Battle Sister'ların ilk kuruluşundan bu yana standart s
 Kutsanmış bolt mühimmatı ise inançla arındırılmış çekirdekler taşır; Sororitas bu boltları warp-varlıklarına, cadılara ve kafirlere karşı kullanır. Sıradan silahların dokunamadığı iblisi ve psyker'ı yaralayan, bu şekilde mühürlenmiş mermilerdir; onlar için her şarjör, vaftiz edilmiş bir hüküm gibidir.
 
 -# Kaynaklar: Warhammer 40,000 — Lexicanum (Boltgun / Godwyn-De'az Pattern, Bolt Ammunition) / Fandom
+
+## Tarihçe
+
+Blessed Bolter, Sisters of Battle'ın en kutsal silahlarından biridir — 'kutsanmış' mermiler kullanan özel bir bolter'dır. Bu mermiler, Ecclesiarchy tarafından kutsanır ve Chaos varlıklarına karşı özellikle etkilidir; bu silah, Sisters of Battle'ın İmparator'un iradesini yerine getirmesinin en önemli aracı olarak kabul edilir. Blessed Bolter, Sisters of Battle'ın en

@@ -13,7 +13,7 @@ Mekboy'ların ürettiği, plazma benzeri bir enerji darbesi ateşleyen kaba ve d
 
 ## Tarihçe
 
-Mekboy'lar ve Big Mek'ler bu silahları kendi becerilerinin gösterisi olarak taşır; aynı ilkeye dayanan daha büyük kustom mega-kannon'lar ağır silah olarak kullanılır. Ork teknolojisi içinde "kustom" sözcüğü, silahın tek bir Mek'in elinden çıkmış eşsiz bir eser olduğunu anlatır.
+Kustom Mega-Blasta, Ork'ların en ölümcül ve en güçlü silahıdır — mega enerji silahıdır. Bu silah, Ork'ların en büyük ve en güçlü üyelerinin kullandığı bir silahtır; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Kustom Mega-Blasta, Ork'ların en ölümcül ve en güçlü silahıdır; bu silah, Ork'ların en büyük ve en güçlü üyelerinin en kritik aracıdır. Silah, Ork'ların en ölümcül ve en güçlü silahı olarak kalır.
 
 ## Teknik / Biyolojik Özellikler
 

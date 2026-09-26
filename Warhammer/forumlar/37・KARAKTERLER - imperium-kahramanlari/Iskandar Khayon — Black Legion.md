@@ -16,6 +16,6 @@ Aaron Dembski-Bowden'ın Black Legion romanlarının birinci ağızdan anlatıc�
 
 ## Tarihçe
 
-Iskandar Khayon, Black Legion'un en ünlü ve en güçlü sorcerer'ıdır; Abaddon'un en yakın danışmanı ve onun en güçlü psişik kullanıcısı olan Khayon, Chaos'un en gizli ve en tehlikeli varlıklarından biridir — onlar, Black Legion'un en ünlü ve en güçlü sorcerer'ıdır. Khayon'un en büyük özelliği, onun psişik gücüdür — onlar, Black Legion'un en güçlü sorcerer'ıdır ve onların varlığı, Chaos'un en büyük gücünün kanıtıdır; bir Khayon, hem bir savaşçı hem de bir sorcerer'dır ve onların savaşı, hem fiziksel hem de psişik bir mücadeledir. Khayon'un en ünlü özelliği, onun Abaddon'un danışmanıdır — onlar, Black Legion'un liderinin en yakın ve en güçlü yardımcısıdır ve onların varlığı, Chaos'un en büyük
+Iskandar Khayon, Black Legion'ın en gizli ve en tehlikeli figürlerinden biridir — Thousand Sons kökenli bir sorcerer'dır. Khayon, Black Legion'ın en gizli ve en tehlikeli figürlerinden biridir; onun sorcery güçleri, Black Legion'ın en önemli ve en tehlikeli güçlerinin kaynağıdır. Iskandar Khayon, Black Legion'ın en gizli ve en tehlikeli figürü olarak kalır — onun güçleri, Black Legion'ın en önemli ve en tehlikeli güçlerinin simgesidir.
 
 -# İlişkili kayıtlar: <#1551811342405599345>, <#1551638958352506881>, <#1551809231580307517>, <#1551813775848509482>

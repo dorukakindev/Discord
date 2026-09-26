@@ -16,7 +16,7 @@ Kefaret ve fedakârlığı savaş anlayışının merkezine koyan, kendi hayatla
 
 ## Tarihçe
 
-433.M40'ta Krieg Imperium'dan bağımsızlığını ilan etti. Sadık kalan Colonel Jurten, gezegeni isyancılara bırakmaktansa Krieg'in şehirlerine atom silahları salmayı seçti; ardından yüzyıllarca süren bir iç savaş, sadıkların zaferiyle sona erdi. Bu geçmiş, Krieg'in atalarının ihanetinin kefaretini ödeme inancını doğurdu. Death Korps, 813–830.M41 arasında Chaos'a düşen Vraks'ı kuşatan orduyu oluşturdu.
+Death Korps of Krieg, İmparatorluk Muhafızı'nın en ünlü ve en trajik alaylarından biridir — Krieg gezegeninin ölüm kültüyle yetişmiş askerlerdir. Krieg, İmparatorluk'a ihanet ettiği için İmparatorluk tarafından yok edilmiş bir gezegendir; hayatta kalanlar, İmparator'a olan borçlarını ödemek için sürekli savaşır ve ölür. Death Korps, siper savaşı ve kuşatma savaşlarında efsanevidir; alaylar, ölümü umursamayan ve hiçbir koşulda geri çekilmeyen birlikler olarak bilinir. Alaylar, İmparatorluk Muhafızı'nın en trajik ve en sadık alaylarından biri olarak kalır.
 
 -# Kaynaklar: *Imperial Armour Volume Five – The Siege of Vraks Part One*; *Dead Men Walking — Steve Lyons*; *Krieg — Steve Lyons*
 

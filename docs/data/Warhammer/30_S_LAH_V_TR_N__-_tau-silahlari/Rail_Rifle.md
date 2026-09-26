@@ -13,6 +13,6 @@ Tau silah teknolojisi Greater Good'in 'saf mühendislik' anlayışıyla üretili
 
 ## Tarihçe
 
-Pathfinder'ların taşınabilir rail silahı; süpersonik mermi fırlatan keskin nişancı anti-zırh tüfeği. İmparatorluk Hellgun'undan çok daha güçlü — Greater Good'un 'sessiz ölüm' silahı.
+Rail Rifle, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş silahıdır — railgun teknolojisi kullanan bir tüfektir. Bu silah, hedefe yoğun bir elektromanyetik enerji gönderir; tek atışta bir tankın zırhını bile delebilecek kadar güçlüdür. Rail Rifle, T'au'nun en ölümcül ve en gelişmiş silahıdır; bu silah, T'au'nun en önemli ve en gelişmiş silahıdır. Silah, T'au İmparatorluğu'nun en ölümcül ve en gelişmiş silahı olarak kalır.
 
 -# Kaynaklar: Warhammer 40,000 — Fandom / Lexicanum derlemesi

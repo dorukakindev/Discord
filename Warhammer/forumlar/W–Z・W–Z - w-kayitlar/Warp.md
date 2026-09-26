@@ -14,6 +14,10 @@ Bu madde Warp'ın doğasını, zamanla ve mekânla ilişkisini, yolculuk ve habe
 
 **Kanon notu:** Warp'ın "gerçekte ne olduğu" konusunda evrende tek bir resmî açıklama yoktur. Aşağıda gözlemlenen etkiler ile Imperial, Aeldari veya Chaos yorumları mümkün olduğunca ayrı tutulmuştur.
 
+## Tarihçe
+
+Warp (Immaterium), gerçek uzayın altında yatan psişik boyutlar arası ortamdır; zamanın, mekânın ve fizik yasalarının işlemediği, düşünce ve duygunun maddeleştiği kaos okyanusud
+
 ## Doğası: Yansıyan Ruh
 Yayımlanmış kaynakların ortak çerçevesine göre Warp, maddi evrendeki duyarlı canlıların duygu, düşünce ve inançlarını yansıtan bir aynadır. Öfke, umut, arzu, korku ve umutsuzluk realspace'te yaşandıkça Warp'ta yankılanır; yeterince yoğunlaşan duygu burada kendi biçimini, iradesini ve en sonunda kendi bilincini kazanır. Chaos God'ların bu süreçle, sayısız varlığın binlerce yıl boyunca biriken duygusal yankısından doğduğu genel kabul görür.
 

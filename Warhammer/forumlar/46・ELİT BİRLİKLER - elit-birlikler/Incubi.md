@@ -16,7 +16,7 @@ Incubi, Commorragh'ın siyasi çekişmelerine doğrudan katılmayan, hizmetlerin
 
 ## Tarihçe
 
-Arhra'nın düşüşüyle Aspect geleneğinden kopan bu yol, Commorragh'ta kendine özgü bir tarikata dönüştü. Incubi'ye katılmak isteyen aday, ağır sınavlardan geçerek shrine'a kabul edilir. Master of Blades olarak bilinen Drazhar, Incubi arasındaki en gizemli figürdür. Andy Chambers'ın *Path of the Incubus* romanı Morr adlı bir Incubus'un gözünden bu dünyayı işler.
+Incubi, Drukhari'nin 'kabal'larına bağlı elit yakın-dövüş savaşçıları — Commorragh'ın en keskin kılıç ustaları ve 'Incubus' kültünün takipçileri. Klaive kılıcı ve Tormentor Shield ile donanmış Incubi, Archon'un kişisel muhafızı ve suikastçısıdır; 'soul-hunger' beslenmesi Drukhari'nin en saf haliyle bu birliklerde görülür. Drazhar, 'Living Sword' olarak bilinen en ünlü Incubus — tek başına bir Wyches Cult'unu kırabilen efsanevi figürdür.
 
 -# Kaynaklar: *Codex: Drukhari*; *Path of the Incubus — Andy Chambers*
 

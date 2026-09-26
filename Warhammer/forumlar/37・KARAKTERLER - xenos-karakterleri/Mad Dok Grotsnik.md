@@ -16,7 +16,7 @@ Grotsnik, Ghazghkull Thraka'nın kafatasını metal bir plakayla yeniden kurarak
 
 ## Tarihçe
 
-Mad Dok Grotsnik, Ork'un en rezil Painboy'udur — 'deli doktor' olarak ameliyatlarında hastalarını denek malzemesi olarak kullanan figür. Ghazghkull'un kafasını 'tamir eden' kişi olduğu söylenir; 'bıçağıyla yazan cerrah' olarak Ork tıbbının korkulan ama vazgeçilmez figürüdür.
+Mad Dok Grotsnik, Ork'ların en ünlü 'Painboy'u — Ghazghkull Thraka'nın 'resmi' cerrahı ve 'daha fazla dakka' için daha fazla 'doktorluk' yapan figür. 'Brain surgery with a choppa' tarzıyla bilinen Grotsnik, Ork'un 'acı çekmeyi sever' doğasının en iyi örneğidir; 'anesthetic' kullanmadan ameliyat yapar ve 'daha iyi bir Ork' için 'daha fazla zekâ' vaat eder. 'Trust me, I'm a dok' — Grotsnik'in tıbbi garantisi.
 
 -# Kaynaklar: *Codex: Orks*; *Ghazghkull Thraka: Prophet of the Waaagh! — Nate Crowley*
 
